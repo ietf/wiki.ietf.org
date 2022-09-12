@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-09T14:46:29.226Z
+date: 2022-09-12T16:22:55.495Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -79,4 +79,4 @@ Use the blcockquote > on each line to ensure the text appears without formatting
 >    The quick brown fox says .....
 > 
 
-Note that this page is public, and all the old versions are available, too.
+Note that this page is public.
