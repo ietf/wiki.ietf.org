@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-09-09T06:52:56.638Z
+date: 2022-09-13T14:17:43.585Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -77,6 +77,9 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ### TSV
 
+# Area Specific
+- [Ops *Operations Area Wiki*](/group/iesg/ops)
+{.links-list}
 
 # Teams
 - [ccg *Community Coordination Group*](/group/ccg)
