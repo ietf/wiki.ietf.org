@@ -2,14 +2,14 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-12T16:22:55.495Z
+date: 2022-09-13T12:39:22.125Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
 # Informal Telechat - September 15, 2022
- There will be **NO** meeting on this date.
+ There will be **a** meeting on this date.
 
 Note to the community: Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 
