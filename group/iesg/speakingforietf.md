@@ -2,7 +2,7 @@
 title: Speaking for the IETF
 description: 
 published: true
-date: 2022-09-14T14:38:37.829Z
+date: 2022-09-14T14:40:24.871Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-09-14T14:38:37.829Z
@@ -45,8 +45,8 @@ IETF and IAB chairs have found it useful to summarise to their boards or to the 
 
 ### Coordination and Help 
 
-If you are approached (in person or online) to speak to the media about an IETF issue, you should never feel compelled to respond immediately and can refer inquiries to: media @ ietf.org. (Email to that address gets responses w/in 24 hours.) Experienced reporters understand that requests are often routed through media relations personnel for coordination.
+If you are approached (in person or online) to speak to the media about an IETF issue, you should never feel compelled to respond immediately and can refer inquiries to: media@ietf.org. (Email to that address gets responses w/in 24 hours.) Experienced reporters understand that requests are often routed through media relations personnel for coordination.
 
-If there is a media opportunity the warrants immediate reply, you are encouraged to send email after the fact to media @ ietf.org with the person’s name, the publication or outlet, the general topics of conversation and any issues or concerns raised by the interaction. That will allow monitoring for publication, and follow-up in case any elaboration, clarification or correction is warranted.
+If there is a media opportunity the warrants immediate reply, you are encouraged to send email after the fact to media@ietf.org with the person’s name, the publication or outlet, the general topics of conversation and any issues or concerns raised by the interaction. That will allow monitoring for publication, and follow-up in case any elaboration, clarification or correction is warranted.
 
-If you are consistently speaking to the media, or have advance notice that you will likely be speaking to the media about issues related to the IETF, it is advisable to get media training, commonly available for senior employees from your employers. You are also encouraged to contact media @ ietf.org to inquire about options for this.
+If you are consistently speaking to the media, or have advance notice that you will likely be speaking to the media about issues related to the IETF, it is advisable to get media training, commonly available for senior employees from your employers. You are also encouraged to contact media@ietf.org to inquire about options for this.
