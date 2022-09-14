@@ -2,7 +2,7 @@
 title: IDR Working Group Web page
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2022-09-14T14:25:31.947Z
+date: 2022-09-14T14:57:49.801Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -18,7 +18,7 @@ If you have questions or concerns regarding the implementation requirement, plea
 
 ## Draft Status
 
-[idr-draft-status](idr/dr-draft-status)
+[idr-draft-status](idr-draft-status)
 Feedback for BESS drafts
 Feedback for PCE drafts
 Feedback for Bier drafts
