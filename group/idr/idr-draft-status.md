@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:59:15.332Z
+date: 2022-09-14T14:59:50.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -37,12 +37,12 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## Needs revision During AD Review
 
-| draft ||Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA |
+| draft | Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA |
 |---|---|---|---|---|---|
 
 ## In Queue of AD: Awaiting AD Feedback
 
-| draft ||Shepherd |  status | Next step | WG LC completed | AD waiting Time |  ETA | Time since WG LC |  
+| draft | Shepherd |  status | Next step | WG LC completed | AD waiting Time |  ETA | Time since WG LC |  
 |---|---|---|---|---|---|
 | draft-ietf-idr-bgpls-srv6-ext | Susan Hares | AD evaluation: External Party | AD awaits OSPF draft (in WG LC) | Nov-17-2020 | 23 days | TBD | 633 days |   
 | draft-ietf-idr-rfc7752bis | Jeff Haas | in AD Queue | Awaiting AD Review  | Nov-11-2021 | 274 days | TBD | 274 days | 
@@ -52,13 +52,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## In Queue of WG Shepherds
 
-| draft ||Shepherd |  status | Next step | WG LC Date | Time | issues |  ETA | Time since WG LC |  
+| draft | Shepherd |  status | Next step | WG LC Date | Time | issues |  ETA | Time since WG LC |  
 | none  | 
 |---|---|---|---|---|---|---|
 
 ## Past WG LC awaiting implementations
 
-| draft ||Shepherd |  status | Next step | WG LC Date | Time | ETA | 
+| draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
 |---|---|---|---|---|---|
 | draft-ietf-rs-bfd | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD | 
 
