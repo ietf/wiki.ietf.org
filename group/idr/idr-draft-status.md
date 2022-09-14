@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:48:15.151Z
+date: 2022-09-14T14:49:28.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -49,28 +49,32 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft-ietf-idr-wide-bgp-communities-06.txt | Keyur Patel | in AD's queue | awaiting AD review | Mar-11-2022 | 154 days ||TBD | 154 days | 
 | draft-ietf-idr-segment-routing-te-policy | Susan Hares | in AD's queue | IESG | Aug-06-2021 | 37 days | TBD | 371 days ||
 
-== In Queue of WG Shepherds ==
-|---|---|---|---|---|---|
+## In Queue of WG Shepherds
+
 | draft ||Shepherd |  status | Next step | WG LC Date | Time | issues |  ETA | Time since WG LC |  
 | none  | 
+|---|---|---|---|---|---|---|
 
-== Past WG LC awaiting implementations == 
-|---|---|---|---|---|---|
+## Past WG LC awaiting implementations
+
 | draft ||Shepherd |  status | Next step | WG LC Date | Time | ETA | 
+|---|---|---|---|---|---|
 | draft-ietf-rs-bfd | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD | 
 
-== WG LC == 
-|---|---|---|---|---|---|
+## WG LC
+
 | draft ||Shepherd | implementation status | Next step | WG LC date | Time in WG LC | WG LC ETA | 
+|---|---|---|---|---|---|
 | draft-ietf-idr-bfd-subcode-00 | Keyur Patel | WG LC | IDR Chair review WG LC | 8/22-9/6 | 2 weeks   | 9/10/2022  ||
 | draft-ietf-idr-long-lived-gr-01 | Susan Hares | IPR Call + implementations  | WG LC  | 9/9 to 9/23 | TBD | 
 | draft-ietf-idr-bgp-model-14 | Jie Dong | TBD | WG LC |  TBD | TBD | TBD |  
 | draft-ietf-idr-sr-policy-fit-03 | Susan Hares | 0 implementations | IPR + implementation report | TBD | TBD | TBD ||
 
-== Adopted == 
-|---|---|---|---|---|---|
+## Adopted
+
 For information on adoption process:  [[IDR adoption process]]
 | draft ||Shepherd | status | Next step | WG adoption date | Adoption call | Draft uploaded |  
+|---|---|---|---|---|---|
 
 
 == In WG Adoption Process == 
