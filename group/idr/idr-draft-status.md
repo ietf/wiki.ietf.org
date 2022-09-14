@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:53:43.937Z
+date: 2022-09-14T14:55:37.172Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -88,23 +88,26 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-scudder-bgp-entropy-label-capability-version-3-00| Susan Hares | IPR call | TBD | TBD | TBD | 9/6 to 9/20 | 
 
 ## Adoption Process - upcoming Adoptions 
+
+| draft | Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
 |---|---|---|---|---|---|
-| draft ||Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
 | draft-sas-idr-maxprefix-inbound | Susan Hares | adoption lacks support | 2nd call | TBD | TBD  | 9/6 to 9/20  ||
 | draft-dong-sr-policy-extensions-for-nrp-00 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 | 
 | draft-dong-idr-node-target-ext-comm-05 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 ||
 | draft-zzhang-idr-rt-derived-community-02 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 | 
 
 ## Adoption Process - drafts on hold
-
+|---|---|---|---|---|---|
 | draft-zhou-idr-bgp-srmpls-elp-03 | Susan Hares | IPR OK | Adoption call | TBD | TBD | on hold  | 
 | draft-chen-bgp-redist | Susan Hares | on hold  | IDR Chairs review | TBD | TBD | on hold | 
 | draft-wu-idr-bgp-segment-allocation-ext-08 | Susan Hares | on hold  | IPR check | TBD | TBD | on hold  | 
 | draft-zzhang-idr-tunnel-encapsulation-label-stack | idr charis | IPR call | authors revise | TBD | TBD | TBD |  
 
 ## Adoption Process Major work items
+
 ### Data Center Scoped Autoconfiguration Work (Jeff Haas) (5/25/27) No drafts adopted
 | draft  | Focus | Current state | Next Step | Adoption call | IPR check |  
+|---|---|---|---|---|---|
 | draft-acee-idr-lldp-peer-discovery | Layer 2 | List discuss 3/4-3/18 | Adoption call | TBD | 5/2-5/27 | 
 | draft-ietf-lsvr-l3dl | Layer 2 | List discuss 3/4-3/18  | Adoption call  | TBD | 5/2-5/27 | 
 | draft-ietf-lsvr-l3dl-ulpc | Layer 2 BGL TLVs | List discuss 3/4-3/18  | Adoption call  | TBD | 5/2-5/27 ||
@@ -113,32 +116,36 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-ymbk-idr-l3dn-ulpc | Layer 3 BGP TLVs  | list discuss 3/4-3/18 | adoption call | TBD |  5/2-5/27 ||
 | draft-xu-idr-neighbor-autodiscovery | Layer 3 Multicast | List discuss 3/4-3/18 | adoption call | TBD | not in adoption call  | 
  
-=== CAR/CT (Susan Hares)  === 
+### CAR/CT (Susan Hares)
 | draft  | Focus | Current state | Next Step | Adoption call | ETA  | 
 | draft-ietf-idr-bgp-classful-transport-planes | Susan Hares | Adopted | Revised-ID Error handling | 7/6-7/27/2022 | Sept 2022 | 
 | draft-ietf-bess-bgp-car-03 | Susan Hares | Adopted | Revised-ID Error Handling | 7/6-7/27/2022 | Sept 2022  |  
 | interoperability draft | Susan Hares | in creation | TBD | TBD | TBD | 
 
-== Flow Specification v2 drafts == 
-| draft ||Shepherd |  status | Next step | WG Adoption Dates | IPR Check |  
+## Flow Specification v2 drafts
+| draft | Shepherd |  status | Next step | WG Adoption Dates | IPR Check |  
+|---|---|---|---|---|---|
 | draft-ietf-idr-flowspec-l2vpn | Susan Hares | FSv2 done | Need FSv2 specification| TBD | TBD | 
 | draft-ietf-idr-flowspec-nv03 | Susan Hares ||FSv2 done | Need FSv2 specification| TBD  | TBD |   
 
 
-== Flow Specification Drafts needing revision for v1 version == 
-| draft ||Shepherd |  status | Next step | WG LC completed Date | Time | ETA | 
+## Flow Specification Drafts needing revision for v1 version
+| draft | Shepherd |  status | Next step | WG LC completed Date | Time | ETA | 
+|---|---|---|---|---|---|
 | draft-ietf-idr-flowspec-redirect-ip-02.txt | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 | draft-ietf-idr-flowspec-path-redirect | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 | draft-ietf-idr-flowspec-interfaceset | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 
 ## Lingering Internet-Drafts Needing Conclusion
 | draft | Shepherd | Status | Next step | 
+|---|---|---|---|---|---|
 | draft-ietf-idr-best-external | | Expired Draft, Implementations Exist | Republish draft, WGLC? | 
 | draft-uttaro-idr-bgp-persistence | | Expired Draft, Implementations Exist | Republish, Adoption and Cleanup? ||
 | draft-ietf-idr-add-paths-guidelines | | Expired Draft, Informational? | Determine if WG wishes to progress? ||
 
 ## IPv6 Link Local Nexthop Work
 | draft | Focus |  
+|---|---|---|---|---|---|
 | draft-kato-bgp-ipv6-link-local ||
 | draft-kumar-idr-link-local-nexthop ||
 | draft-white-linklocalnh ||
@@ -149,6 +156,7 @@ WG queried at IETF-114, but no additional details on follow-on.
 
 ### Data Center Scoped Autoconfiguration Work
 | draft | scope ||
+|---|---|---|---|---|---|
 | draft-ietf-idr-bgp-autoconf-considerations | Requirements ||
 | draft-acee-idr-lldp-peer-discovery | Layer 2 | 
 | draft-ietf-lsvr-l3dl | Layer 2 |   
@@ -165,11 +173,13 @@ This work examines Mini-DC and Non-Data Center work.
 The first step after IETF 114 is to determine what expansion is needed to DC work. 
 
 | draft | scope ||
+|---|---|---|---|---|---|
 | draft-acee-ospf-bgp-rr | Discovery via OSPF ||
 | draft-raszuk-idr-bgp-auto-discovery |  Discovery via BGP ||
 
 -----
 
 ## Early Allocations Pending
-| draft ||Shepherd | Status| Next step | Early allocation made  | Allocation Runs out |   
-| none  | Susan Hares | 
+| draft | Shepherd | Status| Next step | Early allocation made  | Allocation Runs out |   
+|---|---|---|---|---|---|
+| none | Susan Hares | 
