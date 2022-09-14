@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-14T23:32:37.069Z
+date: 2022-09-14T23:36:26.861Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -55,13 +55,12 @@ If you are responsible for content on an existing IETF wiki there are a number o
 There's also a [sandbox](/sandbox) for trying out Wiki editing.
 
 ### Content-o-thons 
-These events are open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org. They cover topics such as:
-• Setting up initial wikis for a few specific groups and meetings;
-• Exploring and documenting options for sitewide features, such as navigation;
-• Mapping out and confirming strategies for migrating existing content to the new wiki platform; and
-• Developing and providing documentation for creating and maintaining content on the new platform.
+If you have responsibility for any active IETF-related wiki (e.g. working group or directorate wiki), and are looking to get help or a head start on moving content, you are encouraged to participate in an upcoming content-o-thon. These events are open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org, covering topics such as:
++ New wiki set up
++ Documentation and tools for wiki maintainers
++ Platform-wide features and content
 
-
+**
 
 ## Have questions?
 
