@@ -2,7 +2,7 @@
 title: Ensuring Appropriate Discussion
 description: 
 published: true
-date: 2022-09-14T14:46:39.591Z
+date: 2022-09-14T14:48:21.612Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T14:46:39.591Z
@@ -32,7 +32,7 @@ Some types of postings are inappropriate, such as unsolicited bulk e-mail. RFC 3
 
 The IETF Chair, the IETF Executive Director, or a sergeant-at-arms appointed by the Chair is empowered to restrict posting by a person, or of a thread, when the content is inappropriate and represents a pattern of abuse. 
 
-More information about the sergeant-at-arms model and dealing with list discussion on ietf@ietf.org can be found from https://tools.ietf.org/html/rfc3005. The current sergeant-at-arms team members are Matt Miller and Dhruv Dhody (as well as the IETF chair and IETF executive director).
+More information about the sergeant-at-arms model and dealing with list discussion on ietf@ietf.org can be found from RFC 3005. The current sergeant-at-arms team members are Matt Miller and Dhruv Dhody (as well as the IETF chair and IETF executive director).
 
 ## Ombudsteam 
 
