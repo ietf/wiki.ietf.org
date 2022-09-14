@@ -2,7 +2,7 @@
 title: IDR Working Group Web page
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2022-09-14T14:02:17.635Z
+date: 2022-09-14T14:04:23.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -16,5 +16,47 @@ Implementation reports are published on our wiki (see below). Implementation rep
 
 If you have questions or concerns regarding the implementation requirement, please send questions to the IDR mailing list or the IDR chairs.
 
+## Draft Status
 
-Your content here
+idr-draft-status
+Feedback for BESS drafts
+Feedback for PCE drafts
+Feedback for Bier drafts
+Feedback for SIDROPS drafts
+Feedback on Yang Models
+Features for BGP Yang Models
+
+## Draft Implementation status
+
+Protocol implementations Reports
+Administrative draft testimonials
+
+## Notes on Current Adoption calls
+
+CAR-CT Adoption call (7/6/2022 to 7/27/2022)
+
+## Minutes from Past 2021 IDR Interims
+
+June 07, 2021 - Flow Specification Feedback
+June 21, 2021 - AutoConfiguration Feedback
+August 23, 2021 - Chairs on new Drafts
+September 27, 2021 - Flow Specification v2
+October 11, 2021 - Embedded NLRI and Error Handling (CAR, Classful Transport)) - cancelled
+October 18, 2021 - BGP Autoconfiguration + New Drafts
+
+## Interim in 2022 Prior to IETF 113
+
+BGP Autoconfiguration + FSv2 - moved to January 10th or 24th
+Embedded NLRI and Error Handling (CAR, Classful Transport)) - Moved to January 10th or 24th
+
+## Interims in 2022 After IETF-114
+
+IDR-New-Drafts-Aug-2022 - 8/29/2022
+
+## Useful information
+
+Checklist for writing a BGP-related draft
+Checklist for presenting at an IDR meeting
+Commentary on different RFCs
+De facto BGP features needing documentation
+Glossary
