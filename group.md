@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-09-13T14:17:43.585Z
+date: 2022-09-14T14:57:14.117Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -21,6 +21,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [6man *IPv6 Maintenance*](/group/6man)
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [dispatch *DISPATCH*](/group/dispatch)
+- [idr *Inter-Domain Routing*](/group/idr)
 - [pce *Path Computation Element*](/group/pce)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
@@ -40,6 +41,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ### RTG
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
+- [idr *Inter-Domain Routing*](/group/idr)
 - [pce *Path Computation Element*](/group/pce)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
