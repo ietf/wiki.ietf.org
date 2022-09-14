@@ -2,7 +2,7 @@
 title: Media Types
 description: 
 published: true
-date: 2022-09-14T15:15:13.990Z
+date: 2022-09-14T15:16:47.004Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T15:15:13.990Z
@@ -12,10 +12,10 @@ dateCreated: 2022-09-14T15:15:13.990Z
 
 ## Media Type Registration Reviews - Standards !Tree, with or without Internet Drafts 
 
-Section 5 of RFC 6838 and Section 2.2 of RFC 4289 (which make up BCP 13) describe media type registration procedures.  '''Note the recommendation for community review on the ietf-types@iana.org mailing list for registrations in the standards tree.'''
+Section 5 of RFC 6838 and Section 2.2 of RFC 4289 (which make up BCP 13) describe media type registration procedures.  **Note the recommendation for community review on the ietf-types@iana.org mailing list for registrations in the standards tree.**
 As described in Section 2.2.1 of RFC 4289, the review period is two weeks.
 
-An AD who requests IESG evaluation of a document containing a media type registration should confirm that media-types review was requested and completed.  If an internet-draft is being evaluated '''this should be done by noting the date of the request and actions taken as a result of the review in the ballot write-up'''.  If the review is taking place as part of a management item (to review a registration request received from another standards body (see below) without an internet-draft, which is the current exception) the date and review results should be included in the text for the management item.
+An AD who requests IESG evaluation of a document containing a media type registration should confirm that media-types review was requested and completed.  If an internet-draft is being evaluated **this should be done by noting the date of the request and actions taken as a result of the review in the ballot write-up**.  If the review is taking place as part of a management item (to review a registration request received from another standards body (see below) without an internet-draft, which is the current exception) the date and review results should be included in the text for the management item.
 
 The review request should be visible in the archives of the media-types mailing list.  The archives can be found here:
 
