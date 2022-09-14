@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-14T23:28:36.475Z
+date: 2022-09-14T23:29:59.171Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -50,7 +50,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 > e.g. the markdown for linking to the main IDR page at https://wiki.ietf.org/e/en/group/idr to the subpage at https://wiki.ietf.org/group/idr/idr-draft-status looks like: ``[idr-draft-status](idr-draft-status)``
 {.is-info}
 
-5. 
+5. You can send email to support@ietf.org for the group wiki to be added to the [index of gropu wikis](group)
 
 
 There's also a [sandbox](/sandbox) for trying out Wiki editing.
