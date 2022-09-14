@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:55:37.172Z
+date: 2022-09-14T14:56:00.202Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -22,6 +22,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd | status | Next step | WG LC approval Date | IESG approval date | Time | 
 |---|---|---|---|---|---|
 | draft-ietf-idr-bgp-ls-app-specific-attr-16 | Keyur Patel | Auth-48 | RFC9294 | Nov-17-2020 | 7/7/2022 |  633 | 
+
 
 ## IESG Approved
 | draft | Shepherd | status | Next step | approval Date | Time in state | 
