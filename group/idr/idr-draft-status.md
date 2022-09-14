@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:46:32.032Z
+date: 2022-09-14T14:48:15.151Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -23,23 +23,26 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|
 | draft-ietf-idr-bgp-ls-app-specific-attr-16 | Keyur Patel | Auth-48| RFC9294| Nov-17-2020 | 7/7/2022 |  633 | 
 
-== IESG Approved ==  
-|---|---|---|---|---|---|
+## IESG Approved
 | draft | Shepherd | status | Next step | approval Date | Time in state | 
-
-
-== At IESG == 
 |---|---|---|---|---|---|
+
+
+## At IESG
+
 | draft ||Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA | Time since WG LC | 
+|---|---|---|---|---|---|
 | draft-ietf-idr-bgp-ls-flex-algo | Jie Dong | IETF LC | Awaiting AD review | Nov-17-2020 | 6 days | TBD | 633 days | 
 
-== Needs revision During AD Review == 
-|---|---|---|---|---|---|
-| draft ||Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA ||
+## Needs revision During AD Review
 
-== In Queue of AD: Awaiting AD Feedback == 
+| draft ||Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA |
 |---|---|---|---|---|---|
+
+## In Queue of AD: Awaiting AD Feedback
+
 | draft ||Shepherd |  status | Next step | WG LC completed | AD waiting Time |  ETA | Time since WG LC |  
+|---|---|---|---|---|---|
 | draft-ietf-idr-bgpls-srv6-ext | Susan Hares | AD evaluation: External Party | AD awaits OSPF draft (in WG LC) | Nov-17-2020 | 23 days | TBD | 633 days |   
 | draft-ietf-idr-rfc7752bis | Jeff Haas | in AD Queue | Awaiting AD Review  | Nov-11-2021 | 274 days | TBD | 274 days | 
 | draft-ietf-idr-rpd  | Keyur Patel | in AD's queue | Awaiting AD review  | Feb-11-2022   | 182 days |  TBD | 182 days | 
@@ -122,19 +125,19 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-ietf-idr-flowspec-path-redirect | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 | draft-ietf-idr-flowspec-interfaceset | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 
-== Lingering Internet-Drafts Needing Conclusion ==
+## Lingering Internet-Drafts Needing Conclusion
 | draft | Shepherd | Status | Next step | 
 | draft-ietf-idr-best-external | | Expired Draft, Implementations Exist | Republish draft, WGLC? | 
 | draft-uttaro-idr-bgp-persistence | | Expired Draft, Implementations Exist | Republish, Adoption and Cleanup? ||
 | draft-ietf-idr-add-paths-guidelines | | Expired Draft, Informational? | Determine if WG wishes to progress? ||
 
-== IPv6 Link Local Nexthop Work ==
+## IPv6 Link Local Nexthop Work
 | draft | Focus |  
 | draft-kato-bgp-ipv6-link-local ||
 | draft-kumar-idr-link-local-nexthop ||
 | draft-white-linklocalnh ||
 
-== BGP Autoconfiguration Work (Jeff Haas) ==
+## BGP Autoconfiguration Work (Jeff Haas)
 BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support. 
 WG queried at IETF-114, but no additional details on follow-on. 
 
