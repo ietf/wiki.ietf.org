@@ -2,7 +2,7 @@
 title: IDR Working Group Web page
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2022-09-14T14:04:23.587Z
+date: 2022-09-14T14:10:17.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
