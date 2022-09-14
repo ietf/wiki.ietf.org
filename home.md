@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-08-26T15:17:44.726Z
+date: 2022-09-14T23:04:15.333Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -13,6 +13,9 @@ This is a community wiki for IETF participants to use.  It replaces the previous
 
 The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all content on this wiki, and it is referenced on every page.
 
+- [Wikis for Groups](group) (Includes IETF working groups, IRTF research groups, and IAB programs)
+- [Wikis for IETF Meetings](meeting) (Since IETF 114)
+
 # Contributing to this Wiki
 
 Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can create or edit pages on this Wiki. Private pages are allowed, but their creation is controlled by the wiki administrators. 
@@ -22,6 +25,9 @@ Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can 
 This Wiki provides persistent working spaces for various IETF groups (such as Working Groups, Birds-of-a-Feather groups, Areas, Directorates, and Teams) and activities, such as IETF meetings.
 
 It is not intended to be an alternative to the [www.ietf.org website](https://www.ietf.org)), nor to replace functionality of the [IETF Datatracker](https://datatracker.ietf.org/) (for example, as a repository for Internet-Drafts). It complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
+
+## Content transition
+If you are responsible for content on an existing 
 
 ## Editing help
 
