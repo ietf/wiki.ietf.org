@@ -2,7 +2,7 @@
 title: Dealing with Private Feedback
 description: 
 published: true
-date: 2022-09-14T14:42:08.406Z
+date: 2022-09-14T14:42:33.731Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T14:42:08.406Z
@@ -27,5 +27,4 @@ Sometimes we get information that for privacy reasons (e.g., disagreement with e
 
 However, every time there is a technical, substantial issue or an issue where the WG is divided, decisions cannot be based on private input. Comments need to be out in the open (directly or indirectly) and the community needs to be able to discuss them openly. Community consensus rules, not chair or AD opinion.
 
-Reasonable suggested changes to a document do not necessarily need to have been discussed in public before they are made. But the changes do need to be properly exposed and accepted by the WG i.e., on the WG list. In doing so, it would be normal to
-expose some form of motivation for the change. (If privacy is a concern, that motivation need not expose the individual concerned.)
+Reasonable suggested changes to a document do not necessarily need to have been discussed in public before they are made. But the changes do need to be properly exposed and accepted by the WG i.e., on the WG list. In doing so, it would be normal to expose some form of motivation for the change. (If privacy is a concern, that motivation need not expose the individual concerned.)
