@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:50:46.485Z
+date: 2022-09-14T14:53:11.419Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -21,7 +21,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 | draft | Shepherd | status | Next step | WG LC approval Date | IESG approval date | Time | 
 |---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-app-specific-attr-16 | Keyur Patel | Auth-48| RFC9294| Nov-17-2020 | 7/7/2022 |  633 | 
+| draft-ietf-idr-bgp-ls-app-specific-attr-16 | Keyur Patel | Auth-48 | RFC9294 | Nov-17-2020 | 7/7/2022 |  633 | 
 
 ## IESG Approved
 | draft | Shepherd | status | Next step | approval Date | Time in state | 
@@ -30,7 +30,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## At IESG
 
-| draft ||Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA | Time since WG LC | 
+| draft | Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA | Time since WG LC | 
 |---|---|---|---|---|---|
 | draft-ietf-idr-bgp-ls-flex-algo | Jie Dong | IETF LC | Awaiting AD review | Nov-17-2020 | 6 days | TBD | 633 days | 
 
