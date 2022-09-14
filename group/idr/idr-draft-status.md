@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:45:11.975Z
+date: 2022-09-14T14:46:32.032Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -138,7 +138,7 @@ For information on adoption process:  [[IDR adoption process]]
 BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support. 
 WG queried at IETF-114, but no additional details on follow-on. 
 
-=== Data Center Scoped Autoconfiguration Work ===
+### Data Center Scoped Autoconfiguration Work
 | draft | scope ||
 | draft-ietf-idr-bgp-autoconf-considerations | Requirements ||
 | draft-acee-idr-lldp-peer-discovery | Layer 2 | 
@@ -151,7 +151,7 @@ WG queried at IETF-114, but no additional details on follow-on.
 | draft-ymbk-idr-l3dn-ulpc | Layer 3 Multicast TCP | 
 
 
-=== Mini-DC and Non-Data Center Scoped Autoconfiguration Work (Sue Hares) ===
+### Mini-DC and Non-Data Center Scoped Autoconfiguration Work (Sue Hares)
 This work examines Mini-DC and Non-Data Center work.  
 The first step after IETF 114 is to determine what expansion is needed to DC work. 
 
@@ -161,6 +161,6 @@ The first step after IETF 114 is to determine what expansion is needed to DC wor
 
 -----
 
-== Early Allocations Pending ==
+## Early Allocations Pending
 | draft ||Shepherd | Status| Next step | Early allocation made  | Allocation Runs out |   
 | none  | Susan Hares | 
