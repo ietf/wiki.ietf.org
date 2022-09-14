@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-14T23:04:15.333Z
+date: 2022-09-14T23:20:12.207Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -13,8 +13,8 @@ This is a community wiki for IETF participants to use.  It replaces the previous
 
 The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all content on this wiki, and it is referenced on every page.
 
-- [Wikis for Groups](group) (Includes IETF working groups, IRTF research groups, and IAB programs)
-- [Wikis for IETF Meetings](meeting) (Since IETF 114)
+- [Wikis for Groups](group) (including IETF working groups, IRTF research groups, and IAB programs)
+- [Wikis for IETF Meetings](meeting) (starting with IETF 115)
 
 # Contributing to this Wiki
 
@@ -26,16 +26,37 @@ This Wiki provides persistent working spaces for various IETF groups (such as Wo
 
 It is not intended to be an alternative to the [www.ietf.org website](https://www.ietf.org)), nor to replace functionality of the [IETF Datatracker](https://datatracker.ietf.org/) (for example, as a repository for Internet-Drafts). It complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
 
-## Content transition
-If you are responsible for content on an existing 
+## Content transition for group wikis
+If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.
+
+If you are an IETF or IRTF group chair and would like to initial help or additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
+
+**Quick tips**
+1. Group pages are created on a FCFS basis using the path "/group/{{acronym}}"
+> If a page doesn't already exis for your group, you can create it by simply navigating to:
+> 	https://wiki.ietf.org/group/{{acronym}}
+> 
+> e.g., the page for the the 6man Working Group is at https://wiki.ietf.org/group/6man
+{.is-info}
+
+
+2. The [Markdown](https://docs.requarks.io/en/editors/markdown) editing mode of Wiki.js should be prefered in IETF Wiki.
+
+3. 
+
+1. Some online tools ease the initial creation of tables in Markdown ([Table generator](https://www.tablesgenerator.com/markdown_tables); [for copy/paste from spreadsheets](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)).
+
+There's also a [sandbox](/sandbox) for trying out Wiki editing.
+
+- [Content transition tips](/content-transition-tips)
+### Content-o-thons 
+These 
+
+### Content-o-thons 
+If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 
 ## Editing help
 
-The [Markdown](https://docs.requarks.io/en/editors/markdown) editing mode of Wiki.js should be prefered in IETF Wiki.
-
-There are some online tools avaible to ease the initial creation of tables in Markdown ([Table generator](https://www.tablesgenerator.com/markdown_tables); [for copy/paste from spreadsheets](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)).
-
-There's also a [sandbox](/sandbox) for trying out Wiki editing.
 
 If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 
