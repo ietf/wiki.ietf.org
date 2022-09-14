@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T15:00:40.995Z
+date: 2022-09-14T15:00:57.872Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -43,7 +43,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## In Queue of AD: Awaiting AD Feedback
 
 | draft | Shepherd |  status | Next step | WG LC completed | AD waiting Time |  ETA | Time since WG LC |  
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-bgpls-srv6-ext | Susan Hares | AD evaluation: External Party | AD awaits OSPF draft (in WG LC) | Nov-17-2020 | 23 days | TBD | 633 days |   
 | draft-ietf-idr-rfc7752bis | Jeff Haas | in AD Queue | Awaiting AD Review  | Nov-11-2021 | 274 days | TBD | 274 days | 
 | draft-ietf-idr-rpd  | Keyur Patel | in AD's queue | Awaiting AD review  | Feb-11-2022   | 182 days |  TBD | 182 days | 
