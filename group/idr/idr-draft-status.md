@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T14:49:28.741Z
+date: 2022-09-14T14:50:46.485Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -77,9 +77,10 @@ For information on adoption process:  [[IDR adoption process]]
 |---|---|---|---|---|---|
 
 
-== In WG Adoption Process == 
+## In WG Adoption Process
+
+| draft | Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA |
 |---|---|---|---|---|---|
-| draft ||Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA ||
 | draft-dunbar-idr-5G-edge-compute-app-meta-data | Susan Hares | Chairs Review | Adoption | 7/29 to 8/29 | 9/10 | 9/10  ||
 | draft-spaghetti-idr-deprecate-8-9-10 | Susan Hares | Chairs review | Adoption | 7/29 to 8/29  | 9/10  |  9/10 | 
 | draft-jiang-idr-ts-flowspec-srv6-policy | Susan Hares | Chairs Review | Adoption | 7/29 to 8/29 | 9/10 | 9/10 | 
@@ -95,6 +96,7 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-zzhang-idr-rt-derived-community-02 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 | 
 
 ## Adoption Process - drafts on hold
+
 | draft-zhou-idr-bgp-srmpls-elp-03 | Susan Hares | IPR OK | Adoption call | TBD | TBD | on hold  | 
 | draft-chen-bgp-redist | Susan Hares | on hold  | IDR Chairs review | TBD | TBD | on hold | 
 | draft-wu-idr-bgp-segment-allocation-ext-08 | Susan Hares | on hold  | IPR check | TBD | TBD | on hold  | 
