@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-14T23:27:56.135Z
+date: 2022-09-14T23:28:36.475Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -36,7 +36,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 **Quick tips**
 1. Group pages are created on a FCFS basis using the path "/group/{{acronym}}"
 > If a page doesn't already exist for your group, you can create it by simply navigating to:
-> 	https://wiki.ietf.org/group/{{acronym}}
+> 	``https://wiki.ietf.org/group/{{acronym}}``
 > 
 > e.g., the page for the the 6man Working Group is at https://wiki.ietf.org/group/6man
 {.is-info}
