@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-14T23:50:33.846Z
+date: 2022-09-15T19:44:59.840Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -38,7 +38,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 > If a page doesn't already exist for your group, you can create it by simply navigating to:
 > 	``https://wiki.ietf.org/group/{{acronym}}``
 > 
-> e.g., the page for the the 6man Working Group is at https://wiki.ietf.org/group/6man
+> e.g., the main wiki page for the the [6man Working Group](https://datatracker.ietf.org/group/6man/about/) is at https://wiki.ietf.org/group/6man
 {.is-info}
 
 2. The [Markdown](https://docs.requarks.io/en/editors/markdown) editing mode of Wiki.js should be preferred when creating a new page in IETF Wiki.
