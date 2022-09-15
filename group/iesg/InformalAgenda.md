@@ -30,7 +30,10 @@ The current calendar subscription URL is at (updated 2019-03-07): https://calend
 ## Agenda
 
 ### 2. Documents
-#### 2.1 Document (name)
+#### 2.1 draft-yg3bp-ccamp-network-inventory-yang (Rob)
+https://datatracker.ietf.org/doc/draft-yg3bp-ccamp-network-inventory-yang/
+
+Folks want to standardize this in CCAMP (rather than NETMOD, OPSAWG or RTGWG), and I want to check that IESG is aware and okay with this.
 
 #### 2.2 Document (name)
 
