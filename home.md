@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-15T19:44:59.840Z
+date: 2022-09-15T19:46:36.734Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -50,9 +50,9 @@ If you are responsible for content on an existing IETF wiki there are a number o
 > e.g. the markdown for linking to the main IDR page at https://wiki.ietf.org/e/en/group/idr to the subpage at https://wiki.ietf.org/group/idr/idr-draft-status looks like: ``[idr-draft-status](idr-draft-status)``
 {.is-info}
 
-5. When ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](group)
+5. When the new wiki is ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](group) and confirm transition from the old wiki is in place.
 
-There's also a [sandbox](/sandbox) for trying out Wiki editing.
+Want to try out the new wiki platform with out creating a  page of your own? There's also a [sandbox](/sandbox) for trying out Wiki editing.
 
 ### Content-o-thons 
 If you have responsibility for any active IETF-related wiki (e.g. working group or directorate wiki), and are looking to get help or a head start on moving content, you are encouraged to participate in an upcoming content-o-thon. These events are open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org, covering topics such as:
