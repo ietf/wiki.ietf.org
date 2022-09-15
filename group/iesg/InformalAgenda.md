@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-14T16:22:54.220Z
+date: 2022-09-15T12:54:18.808Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -35,7 +35,7 @@ The current calendar subscription URL is at (updated 2019-03-07): https://calend
 #### 2.2 Document (name)
 
 ### 3. Management Issues
-#### 3.1 RFC6761bis (Paul, pushed to Sep 27 due to Warren absense)
+#### 3.1 RFC6761bis (Paul, pushed to Sep 29 due to Warren absense)
 #### 3.2 IESG Executive Session Topic #1
 #### 3.3 RTG AD Document Queues (John)
 
