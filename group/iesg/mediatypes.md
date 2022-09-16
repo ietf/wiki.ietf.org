@@ -2,7 +2,7 @@
 title: Media Types
 description: 
 published: true
-date: 2022-09-14T15:16:47.004Z
+date: 2022-09-16T14:25:30.262Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T15:15:13.990Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-14T15:15:13.990Z
 
 # Media Type Registration Review Practices 
 
-## Media Type Registration Reviews - Standards !Tree, with or without Internet Drafts 
+## Media Type Registration Reviews - Standards Tree, with or without Internet Drafts 
 
 Section 5 of RFC 6838 and Section 2.2 of RFC 4289 (which make up BCP 13) describe media type registration procedures.  **Note the recommendation for community review on the ietf-types@iana.org mailing list for registrations in the standards tree.**
 As described in Section 2.2.1 of RFC 4289, the review period is two weeks.
