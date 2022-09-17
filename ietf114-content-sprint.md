@@ -2,21 +2,21 @@
 title: IETF 114 Content Sprint
 description: Beta-test content sprint during IETF 114 will explore new IETF wiki platform
 published: true
-date: 2022-07-23T18:48:48.698Z
+date: 2022-09-17T12:21:04.046Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-13T23:54:46.180Z
 ---
 
 # IETF 114 Content Sprint
-With the upcoming retirement of the old IETF wiki platform, we’re holding a “content sprint” for folks who want to be among the first to move content to the new IETF wiki platform, [Wiki.js](https://js.wiki).
+With the upcoming retirement of the old IETF wiki platform, we’re held a “content sprint” for folks who want to be among the first to move content to the new IETF wiki platform, [Wiki.js](https://js.wiki).
 
-The wiki content sprint at [IETF 114](https://www.ietf.org/how/meetings/114)  is open to any IETF participant and will take place from 1400-1800 ET US (1800-2200 UTC) on 23 July 2022 in the [Salon 10](https://datatracker.ietf.org/meeting/floor-plan?room=room-salon-10#floor-mezzanine) room of the Sheraton Philadelphia Downtown, the IETF 114 meeting venue. 
+The wiki content sprint at [IETF 114](https://www.ietf.org/how/meetings/114)  was open to any IETF participant and took place from 1400-1800 ET US (1800-2200 UTC) on 23 July 2022 in the [Salon 10](https://datatracker.ietf.org/meeting/floor-plan?room=room-salon-10#floor-mezzanine) room of the Sheraton Philadelphia Downtown, the IETF 114 meeting venue. 
 
 ## Participants
-Please add your name to this the table below if you plan to join the content sprint
+Participants added their name to this the table below if they planned to join the content sprint
 
->  Remote participation details will be shared here before the session starts {.is-info}
+>  Remote participation details were shared here before the session starts {.is-info}
 
 | Name        | In-person or Remote | Interest notes [1] |
 | ----------- | ----------- | ----------- |
@@ -33,7 +33,7 @@ Please add your name to this the table below if you plan to join the content spr
 
 Possible interests: general, specific WG or meeting or other wiki, documentation 
 
-Topics expected to be covered include:
+Topics covered include:
 
 ## Setting up initial wikis for a few specific groups and meetings
 
@@ -72,8 +72,8 @@ What is needed, who needs that, how should it be delivered. These might include:
 
 All existing Trac-based wikis will be archived, not all will be migrated.
 
-The goal is to complete migration by IETF 115 (11 November 2022)
+The goal is to complete migration shortly after IETF 115 (5-11 November 2022)
 
 # Questions and issues
 * Is it possible to tag particular sections of a page as "protected" from editing?
-* 
+	   * It is possible to restrict access through "Page rules" but these must be implemented by administrators.
