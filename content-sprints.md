@@ -2,7 +2,7 @@
 title: wiki.ietf.org Content Sprints
 description: Content sprints to move to the new IETF wiki platform
 published: true
-date: 2022-09-17T12:27:40.727Z
+date: 2022-09-17T12:29:35.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T12:27:40.727Z
@@ -10,8 +10,6 @@ dateCreated: 2022-09-17T12:27:40.727Z
 
 # wiki.ietf.org Content Sprints
 With the upcoming retirement of the old IETF wiki platform, we are holding “content sprints” for folks who want to move content to the new IETF wiki platform, [Wiki.js](https://js.wiki).
-
-The wiki content sprint at [IETF 114](https://www.ietf.org/how/meetings/114)  was open to any IETF participant and took place from 1400-1800 ET US (1800-2200 UTC) on 23 July 2022 in the [Salon 10](https://datatracker.ietf.org/meeting/floor-plan?room=room-salon-10#floor-mezzanine) room of the Sheraton Philadelphia Downtown, the IETF 114 meeting venue. 
 
 ## Participants
 Participants added their name to this the table below if they planned to join the content sprint
@@ -29,35 +27,23 @@ Participants added their name to this the table below if they planned to join th
 | Hans-Jörg Happel | In-person | General |
 | Add NAME  | Expected location | Interest (see below) |
 
-[Zulip stream for session chat](https://zulip.ietf.org/#narrow/stream/328-emodir/topic/ietf114-content-sprint)
-
-Possible interests: general, specific WG or meeting or other wiki, documentation 
-
-Topics covered include:
-
-## Setting up initial wikis for a few specific groups and meetings
-
-### emodir
-
-### IETF 115 meeting
-using https://wiki.ietf.org/meeting/NNN/ as the base and then separate pages for main meeting wiki and side meetings, e.g.:
-
-https://wiki.ietf.org/meeting/115/sidemeeting
+[Zulip stream for session chat](https://zulip.ietf.org/#narrow/stream/352-wiki-ietf-org)
 
 
+Topics to covered include:
 
-### IETF Hackathon at IETF 115
+## Setting up initial wikis
 
-### IESG
+## Creating andd updating documentation 
 
-## Exploring and documenting options for sitewide features
-
-Features include:
+## Suggesting sitewide features
 * Sitewide navigation (including footer link)
 * Search
 * Tags used on pages
 
 ## Developing and providing documentation for creating and maintaining content on the new platform
+
+Some short
 
 What is needed, who needs that, how should it be delivered. These might include:
 
@@ -65,15 +51,3 @@ What is needed, who needs that, how should it be delivered. These might include:
 * Templates for different types of wikis
 * Guidelines for managing the wiki.ietf.org (e.g. navigation, permissions)
 * Updating general site attributes where possible, documenting requirements for those that are not possible to update during the sprint
-
-
-## Mapping out and confirming strategies for migrating existing content to the new wiki platform
-
-
-All existing Trac-based wikis will be archived, not all will be migrated.
-
-The goal is to complete migration shortly after IETF 115 (5-11 November 2022)
-
-# Questions and issues
-* Is it possible to tag particular sections of a page as "protected" from editing?
-	   * It is possible to restrict access through "Page rules" but these must be implemented by administrators.
