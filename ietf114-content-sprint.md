@@ -2,14 +2,14 @@
 title: IETF 114 Content Sprint
 description: Beta-test content sprint during IETF 114 will explore new IETF wiki platform
 published: true
-date: 2022-09-17T12:21:04.046Z
+date: 2022-09-17T12:25:15.250Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-13T23:54:46.180Z
 ---
 
 # IETF 114 Content Sprint
-With the upcoming retirement of the old IETF wiki platform, we’re held a “content sprint” for folks who want to be among the first to move content to the new IETF wiki platform, [Wiki.js](https://js.wiki).
+With the upcoming retirement of the old IETF wiki platform, we held a “content sprint” for folks who want to be among the first to move content to the new IETF wiki platform, [Wiki.js](https://js.wiki).
 
 The wiki content sprint at [IETF 114](https://www.ietf.org/how/meetings/114)  was open to any IETF participant and took place from 1400-1800 ET US (1800-2200 UTC) on 23 July 2022 in the [Salon 10](https://datatracker.ietf.org/meeting/floor-plan?room=room-salon-10#floor-mezzanine) room of the Sheraton Philadelphia Downtown, the IETF 114 meeting venue. 
 
