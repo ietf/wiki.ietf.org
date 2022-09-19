@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-15T19:46:36.734Z
+date: 2022-09-19T22:40:15.803Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -18,7 +18,7 @@ The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all conte
 
 # Contributing to this Wiki
 
-Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can create or edit pages on this Wiki. Private pages are allowed, but their creation is controlled by the wiki administrators. 
+Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can create or edit pages on this Wiki. Private pages are allowed, but their creation is controlled by the wiki administrators. To log in, click on the icon in the upper right corner on each page.
 
 ## Scope
 
