@@ -2,7 +2,7 @@
 title: Changes to documents based upon modern language choices
 description: When authors replace one word with a new word, this page records the choices that were made, why, and in which technology choice.
 published: true
-date: 2022-09-19T16:14:18.231Z
+date: 2022-09-19T17:01:47.961Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-19T13:53:12.424Z
