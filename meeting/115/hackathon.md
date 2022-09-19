@@ -177,12 +177,6 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Project info
   - tbd
 
-**Your-Project-Name**
-- Champion(s)
-  - tbd
-- Project info
-  - tbd
-
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
