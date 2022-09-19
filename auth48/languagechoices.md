@@ -13,5 +13,5 @@ dateCreated: 2022-09-19T13:53:12.424Z
 |original word | replacement word | technology involved | RFCs which use it
 |===
 | 
-
+| foo | bar | | 
 
