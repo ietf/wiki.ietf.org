@@ -2,7 +2,7 @@
 title: Changes to documents based upon modern language choices
 description: When authors replace one word with a new word, this page records the choices that were made, why, and in which technology choice.
 published: true
-date: 2022-09-19T17:01:47.961Z
+date: 2022-09-19T18:56:16.858Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-19T13:53:12.424Z
@@ -10,5 +10,6 @@ dateCreated: 2022-09-19T13:53:12.424Z
 
 # Language Choices
 
-|original word | replacement word | technology involved | RFCs which use it
-|===
+| original word | replacement word | technology involved | RFCs which use it |
+|---------------|------------------|---------------------|-------------------|
+|               |                  |                     |                   |
