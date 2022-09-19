@@ -10,8 +10,7 @@ dateCreated: 2022-09-19T13:53:12.424Z
 
 # Language Choices
 
-|original word | replacement word | technology involved | RFCs which use it
-|===
-| 
+|original word | replacement word | technology involved | RFCs which use it |
 
+# HOWTO
 
