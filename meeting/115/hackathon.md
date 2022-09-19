@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-08-24T18:42:17.194Z
+date: 2022-09-19T20:12:20.532Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -172,12 +172,6 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - tbd
   
  **Your-Project-Name**
-- Champion(s)
-  - tbd
-- Project info
-  - tbd
-
-**Your-Project-Name**
 - Champion(s)
   - tbd
 - Project info
