@@ -2,7 +2,7 @@
 title: Chartering Working Groups
 description: 
 published: true
-date: 2022-09-20T22:31:18.603Z
+date: 2022-09-20T22:33:08.925Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T22:26:53.302Z
@@ -83,4 +83,3 @@ dateCreated: 2022-09-20T22:26:53.302Z
  - Milestones are entered separately, not as part of the charter text.  See the "Edit Milestones" button on the charter submission page.
 
 
-(We have a write-up [New Chartering Process]() from some years ago.  It's now out of date, but remains here for some useful comments and some record of what's changed in recent years.)
