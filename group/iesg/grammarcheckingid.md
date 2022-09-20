@@ -2,7 +2,7 @@
 title: Grammar Checking ID
 description: 
 published: true
-date: 2022-09-20T18:24:03.244Z
+date: 2022-09-20T18:24:52.641Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:54:23.339Z
@@ -66,5 +66,3 @@ https://tools.ietf.org/tools/idspell/idspell.pyht written by Hendrik Lekowetz in
 ### rfclint (no grammar check)
 
 https://github.com/ietf-tools/RfcEditor/tree/master/rfclint also uses [http://aspell.net/ aspell] hence does not check for grammar errors.
-
-
