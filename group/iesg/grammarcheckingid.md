@@ -2,7 +2,7 @@
 title: Grammar Checking ID
 description: 
 published: true
-date: 2022-09-20T18:24:52.641Z
+date: 2022-09-20T18:26:26.549Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:54:23.339Z
@@ -39,7 +39,7 @@ This list includes all tools developed by IETF participants for their specific n
 
 ### idreview
 
-This tool https://eggert.org/software/idreview is provided by [https://mailarchive.ietf.org/arch/msg/ietf/BsB197OC7vRwBCvaPGRrlotckPI/ Lars Eggert]:
+This tool https://eggert.org/software/idreview is provided by [Lars Eggert](https://mailarchive.ietf.org/arch/msg/ietf/BsB197OC7vRwBCvaPGRrlotckPI/):
 
 https://eggert.org/software/idreview has some scripting around languagetool that boils down to something like this:
 
