@@ -2,13 +2,13 @@
 title: Chartering Working Groups
 description: 
 published: true
-date: 2022-09-20T22:26:53.302Z
+date: 2022-09-20T22:31:18.603Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T22:26:53.302Z
 ---
 
-# For chartering a new working group: \
+# For chartering a new working group: 
  - Make sure you're logged into the datatracker, as this stuff is only visible to ADs.
  - Go to the datatracker page for the WG acronym <https://datatracker.ietf.org/wg/WGNAME/about/> (the WGNAME needs to be in lower case), to make sure about whether it already exists or not.
  - If you find an '''unrelated''' working group with the same acronym, however old that working group was, stop here and pick a new name.
@@ -45,25 +45,28 @@ dateCreated: 2022-09-20T22:26:53.302Z
  External Review:: means that formal review of the charter is being announced on the ietf-announce and new-work lists.  That review normally runs for 10 days, and the charter will normally be scheduled for the following telechat.  This is set by the Secretariat after the initial IESG ballot, and ADs should not need to set this state.
  IESG Review:: means that External Review has completed and the charter is under review for final approval.  This state isn't always used, and sometimes it just stays in External Review.  In any case, the Secretariat will take care of this, and ADs don't need to set this state.
 
-=== When you're ready to put the charter into formal evaluation: ===
+## When you're ready to put the charter into formal evaluation:  
+
  - Go to the charter page, which you can get to from your AD dashboard or from the "Chartering Groups" page.
  - Change the state to "Start Chartering".  As above, you can enter comments both for the Secretariat and for recording in the datatracker.
  - '''Important:''' This creates an evaluation ballot, but, unlike the case with document ballots, it '''does not''' record a "Yes" ballot for you.  You must go to the ballot and use "Edit Position" to do that yourself.  At this point you can put any comments for the IESG and community into your ballot, and have it sent to the IESG and the WG mailing list.
 
-=== Editing the charter: ===
+## Editing the charter: 
+
  - You will be updating the charter throughout the review process.  The initial version will have the suffix "-00-00", and subsequent versions will increment the second number, "-00-01", etc.  The final, approved version will charter the working group with a suffix of "-00".
  - The charter needs one "Yes" position and no "Block" positions to proceed to External Review.  There is no requirement for a certain number of "No Objection" positions (similar to Informational documents).
  - On the telechat, if there are no Blocks but you still need to make some edits in order to address comments, ask the Secretariat to hold it for edits, and then inform the Secretariat when you're ready with it.  Custom is to send email to the IESG, BCC iesg-secretary, and use a subject such as "Approved: charter-ietf-WGNAME-00-04".
  - The Secretariat will change the state to External Review and initiate the external review process.
 
-=== After External Review: ===
+## After External Review: 
  - When External Review starts, the Secretariat will automatically schedule the charter for its final approval on the next telechat that's at least 10 days in the future.
  - There will also be a new, empty ballot, set up for final approval.
  - You (and everyone else) will need to ballot again.  It's easy to forget this; don't.
  - Editing the charter here works the same as above, as do the rules for approval and letting the Secretariat know everything's ready.
  - After final approval, the Secretariat will check that everything that's needed is in place (see below), and will send out the WG Action announcement.
 
-=== Are all ducks in a row?: ===
+## Are all ducks in a row?: 
+ 
  - (We hate it when ducks fight.)
  - With the Secretariat creating and announcing WG mailing lists early, all that's likely to be missing now are chairs and milestones.  The Secretariat will remind you on the telechat if you don't have chairs set up in the datatracker.
  - Please do not wait until the last days to try to find chairs.  It's best to start your chair search early, even while the charter is being discussed in the community.  Prospective chairs might appreciate having input to the charter, if they haven't already been participating in the discussion.
@@ -72,12 +75,12 @@ dateCreated: 2022-09-20T22:26:53.302Z
  - Consider diversity of perspectives when looking for chairs.  A working group proposed by application vendors, for example, might do well by having at least one chair from the network operations side, or the security side.
  - And then there are the milestones…
 
-=== Milestones: ===
+## Milestones: 
+
  - We have gone back and forth about how important it is to have milestones before charter approval, and when they're needed.
  - The IESG's current thinking is more toward having initial milestones in place for External Review, and definitely having them before final approval.
  - It would be good to steer the charter discussion to include discussion of initial milestones so there's not a mad scramble to come up with milestones in a rush.
  - Milestones are entered separately, not as part of the charter text.  See the "Edit Milestones" button on the charter submission page.
 
-----
 
-(We have a write-up [wiki:NewCharteringProcess] from some years ago.  It's now out of date, but remains here for some useful comments and some record of what's changed in recent years.)
+(We have a write-up [New Chartering Process]() from some years ago.  It's now out of date, but remains here for some useful comments and some record of what's changed in recent years.)
