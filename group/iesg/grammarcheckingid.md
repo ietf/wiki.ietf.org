@@ -2,7 +2,7 @@
 title: Grammar Checking ID
 description: 
 published: true
-date: 2022-09-20T18:26:26.549Z
+date: 2022-09-20T18:37:27.778Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:54:23.339Z
@@ -43,22 +43,21 @@ This tool https://eggert.org/software/idreview is provided by [Lars Eggert](http
 
 https://eggert.org/software/idreview has some scripting around languagetool that boils down to something like this:
 
-> rfcstrip "$id" | \
-> sed -e 's/^[ ]\{1,\}//g; s/[ ]\{2,\}/ /g; s/^o /\* /' | \
-> languagetool -l en-US -d ARROWS,COMMA_PARENTHESIS_WHITESPACE,COPYRIGHT,\
-> DASH_RULE,DOUBLE_PUNCTUATION,EN_QUOTES,\
-> MULTIPLICATION_SIGN,PLUS_MINUS,PUNCTUATION_PARAGRAPH_END,\
-> THREE_NN,UPPERCASE_SENTENCE_START,WHITESPACE_RULE,\
-> WORD_CONTAINS_UNDERSCORES
-> 
-> There are still a bunch of false positives, often due to ASCII diagrams, etc.
-> 
-> And if you want to work on the XML, you can use --xmlfilter and pass it an XML file instead of the rfcstripped/sedded text version.
-> 
+	`rfcstrip "$id" | \
+	sed -e 's/^[ ]\{1,\}//g; s/[ ]\{2,\}/ /g; s/^o /\* /' | \
+	languagetool -l en-US -d ARROWS,COMMA_PARENTHESIS_WHITESPACE,COPYRIGHT,\
+	DASH_RULE,DOUBLE_PUNCTUATION,EN_QUOTES,\
+	MULTIPLICATION_SIGN,PLUS_MINUS,PUNCTUATION_PARAGRAPH_END,\
+	THREE_NN,UPPERCASE_SENTENCE_START,WHITESPACE_RULE,\
+	WORD_CONTAINS_UNDERSCORES 
+	There are still a bunch of false positives, often due to ASCII diagrams, etc. 
+	And if you want to work on the XML, you can use --xmlfilter and pass it an XML file instead of the rfcstripped/sedded text version.`
+
 
 ### xml2docx
 
-This tool https://github.com/evyncke/xml2docx converts an IETF draft XML into a Office Open XML .DOCX that is then suitable for grammar checking by commercial package such as Microsoft Word. An online version is available at https://www.vyncke.org/xml2docx/ .
+This tool https://github.com/evyncke/xml2docx converts an IETF draft XML into a Office Open XML .DOCX that is then suitable for grammar checking by commercial package such as Microsoft Word. An online version is available at https://www.vyncke.org/xml2docx/.
+
 ### idspell (no grammar check)
 
 https://tools.ietf.org/tools/idspell/idspell.pyht written by Hendrik Lekowetz in 2006 and relying on GNU [http://aspell.net/ aspell] hence does not check for grammar errors.
