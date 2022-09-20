@@ -2,7 +2,7 @@
 title: IETF Administration LLC
 description: The IETF Administration LLC (IETF LLC) provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF).
 published: true
-date: 2022-09-20T14:16:09.812Z
+date: 2022-09-20T20:53:06.860Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-20T14:13:17.813Z
