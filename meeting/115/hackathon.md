@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-19T20:12:20.532Z
+date: 2022-09-20T13:19:26.530Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -159,11 +159,11 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
- **Your-Project-Name**
+ **ANIMA ACP hacking**
 - Champion(s)
-  - tbd
+  - Michael Richardson mcr+ietf at sandelman.ca
 - Project info
-  - tbd
+  - Work on RFC8994, RFC8995 with a focus on onboarding of new devices, but also upon construction of the ACP among some test equipment.
   
  **Your-Project-Name**
 - Champion(s)
