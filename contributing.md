@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-21T01:20:26.643Z
+date: 2022-09-21T01:21:22.935Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -39,6 +39,9 @@ If you are responsible for content on an existing IETF wiki there are a number o
 
 Want to try out the new wiki platform with out creating a  page of your own? There's also a [sandbox](/sandbox) for trying out Wiki editing.
 
+> If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
+{.is-info}
+
 ### Content-o-thons 
 If you have responsibility for any active IETF-related wiki (e.g. working group or directorate wiki), and are looking to get help or a head start on moving content, you are encouraged to participate in an upcoming content-o-thon. These events are open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org, covering topics such as:
 + New wiki set up
@@ -53,5 +56,3 @@ If you have responsibility for any active IETF-related wiki (e.g. working group 
 
 **Hybrid Content-o-thon on 5 November during [IETF 115](https://www.ietf.org/how/meeting/115/)**
 Details to be announced shortly.
-
-If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
