@@ -1,14 +1,12 @@
 ---
 title: Contributing to this wiki
-description: 
+description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-21T01:06:42.448Z
+date: 2022-09-21T01:10:26.046Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
 ---
-
-# Contributing to this Wiki
 
 Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can create or edit pages on this Wiki. Private pages are allowed, but their creation is controlled by the wiki administrators. To log in, click on the icon in the upper right corner on each page.
 
