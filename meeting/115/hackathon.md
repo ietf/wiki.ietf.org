@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-21T01:28:53.520Z
+date: 2022-09-21T08:54:04.895Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -170,6 +170,13 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Michael Richardson mcr+ietf at sandelman.ca
 - Project info
   - Work on RFC8994, RFC8995 with a focus on onboarding of new devices, but also upon construction of the ACP among some test equipment.
+ 
+ **Streamlining Social Decision Making for Improved Internet Standards (sodestream)**
+- Champion(s)
+  - Stephen McQuistin (sm at smcquistin.uk)
+  - Ignacio Castro (i.castro at qmul.ac.uk)
+- Project info
+  - Working on tasks related to the sodestream (sodestream.github.io) project, which applies natural language processing and social networking techniques to data produced by the IETF, in order to better understand standardisation processes.
   
  **Your-Project-Name**
 - Champion(s)
