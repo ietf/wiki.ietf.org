@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-21T01:12:41.052Z
+date: 2022-09-21T01:20:26.643Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-21T01:06:42.448Z
 
 Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can create or edit pages on this Wiki. Private pages are allowed, but their creation is controlled by the wiki administrators. To log in, click on the icon in the upper right corner on each page.
 
-**General guidance and tools**
+## General guidance and tools
 
 The [Markdown](https://docs.requarks.io/en/editors/markdown) editing mode of Wiki.js should be preferred when creating a new page in IETF Wiki.
 
