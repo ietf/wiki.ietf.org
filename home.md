@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-19T22:40:15.803Z
+date: 2022-09-21T01:04:29.626Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -61,9 +61,10 @@ If you have responsibility for any active IETF-related wiki (e.g. working group 
 + Platform-wide features and content
 
 **Virtual Content-o-thon on 29 September at 1400 UTC**
-[Zoom link]()
+[Zoom link](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09)
 
 **Virtual Content-o-thon on 18 October at 2200 UTC**
+[Zoom link](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09)
 
 **Hybrid Content-o-thon on 5 November during [IETF 115](https://www.ietf.org/how/meeting/115/)**
 Details to be announced shortly.
