@@ -2,7 +2,7 @@
 title: IETF 115 Departure Coordination
 description: To coordinate travel from the venue back to London airports
 published: true
-date: 2022-07-23T19:38:22.193Z
+date: 2022-09-21T21:15:27.759Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:28:51.871Z
@@ -68,7 +68,7 @@ dateCreated: 2022-07-23T19:28:51.871Z
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+| 15:10  | BA 287  | Bob Hinden  | bob.hinden@gmail.com  | 5  | ~11:00  | Hilton Metropole  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
