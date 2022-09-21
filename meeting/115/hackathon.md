@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-20T13:19:26.530Z
+date: 2022-09-21T01:28:53.520Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -12,9 +12,11 @@ dateCreated: 2022-07-23T19:06:37.548Z
 
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
-**When:** Saturday - Sunday, 5-6 November 2022 
-**Where:** [Hilton London Metropole](https://www.ietf.org/how/meetings/115/hotel)
-**Room: TBD**
+* **When**: Saturday - Sunday, 5-6 November 2022 
+* **Where**: [Hilton London Metropole](https://www.ietf.org/how/meetings/115/hotel)
+* **Room**: *TBD*
+{.grid-list}
+
 **Sign up for the Hackathon**
 * [Onsite registration](https://registration.ietf.org/115/new/hackathon_onsite/)
 * [Remote registration](https://registration.ietf.org/115/new/hackathon_remote/)
@@ -25,7 +27,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 **[IETF 115 Gather link](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
 
-Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon)
+Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
 
 
 The IETF Hackathon is free to attend and is open to everyone. It is a collaborative event, not a competition. Any competition is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.
@@ -34,23 +36,27 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 Hackathon (all times are UTC)
 
-* Saturday, 5 November
-  * 09:30: Room open for setup by project champions    
-  * 10:00: Room open for all - pastries and coffee provided
-  * 10:30: Hackathon kickoff, LINK TBD
-  * 10:45: Form Teams
-  * 12:30: Lunch provided
-  * 15:30: Afternoon break - snacks provided
-  * 18:30: Dinner provided
-  * 21:00: Room closes
+### Saturday, 5 November
 
- * Sunday, 6 November
-   * 09:30: Room opens - pastries and coffee provided
-   * 12:30: Lunch provided
-   * 13:30: Hacking stops, prepare brief presentation of project
-   * 14:00: Project results presentations, LINK TBD
-   * 16:00: Hackathon ends
-   * 17:00: Tear down complete
+* **09:30** : Room open for setup by project champions    
+* **10:00** : Room open for all - pastries and coffee provided
+* **10:30** : Hackathon kickoff, LINK TBD
+* **10:45** : Form Teams
+* **12:30** : Lunch provided
+* **15:30** : Afternoon break - snacks provided
+* **18:30** : Dinner provided
+* **21:00** : Room closes
+{.grid-list}
+
+### Sunday, 6 November
+
+* **09:30** : Room opens - pastries and coffee provided
+* **12:30** : Lunch provided
+* **13:30** : Hacking stops, prepare brief presentation of project
+* **14:00** : Project results presentations, LINK TBD
+* **16:00** : Hackathon ends
+* **17:00** : Tear down complete
+{.grid-list}
 
 Related activities before and after the Hackathon weekend
 
@@ -69,12 +75,12 @@ Related activities before and after the Hackathon weekend
 
 When you register for the IETF Hackathon, you are sent a separate email to create an IETF Datatracker account if you don't already have one. 
 
-If you already have an IETF Datatracker account, please ensure that the email address with whihc you registered is associated with your Datatracker account. 
+If you already have an IETF Datatracker account, please ensure that the email address with which you registered is associated with your Datatracker account. 
 
 If you received the email but the link to create an account has expired, please see the instructions below:
 
-1. Go to (https://datatracker.ietf.org/accounts/create/)
-2. Select ‘new account’ from the User menu at the top
+1. Go to https://datatracker.ietf.org/accounts/create/
+2. Select "**New Account**" from the User menu at the top
 3. Enter the email address that you registered with for the Hackathon
 4. Follow the instructions in the email you receive
 
