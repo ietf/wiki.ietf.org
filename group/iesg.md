@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-09-20T16:37:34.063Z
+date: 2022-09-21T14:03:31.277Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -20,7 +20,7 @@ Quick Links
   - [Additional Meeting Rooms](/group/iesg/AdditionalMeetingRooms) - How to request additional meeting rooms for side meetings and such
 - [Retreat Info](/group/iesg/RetreatInfo) - information about the upcoming IESG retreat
 - [Joint IAB/IESG Workshop](/group/iesg/Workshop-2022Q1) Joint IAB/IESG Workshop Jan 2022
-- [IAB/IESG/LLC Workshop](/group/iesg/Workshop-October-2021) IESG IAB and LLC Workshop - information about the October 2021 Workshop
+- [IAB/IESG/LLC Workshop](Workshop-October-2021) IESG IAB and LLC Workshop - information about the October 2021 Workshop
 
 
 ---
