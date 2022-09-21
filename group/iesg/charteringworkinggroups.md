@@ -2,16 +2,17 @@
 title: Chartering Working Groups
 description: 
 published: true
-date: 2022-09-20T22:33:08.925Z
+date: 2022-09-21T14:00:37.916Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T22:26:53.302Z
 ---
 
 # For chartering a new working group: 
- - Make sure you're logged into the datatracker, as this stuff is only visible to ADs.
+
+- Make sure you're logged into the datatracker, as this stuff is only visible to ADs.
  - Go to the datatracker page for the WG acronym <https://datatracker.ietf.org/wg/WGNAME/about/> (the WGNAME needs to be in lower case), to make sure about whether it already exists or not.
- - If you find an '''unrelated''' working group with the same acronym, however old that working group was, stop here and pick a new name.
+ - If you find an **unrelated** working group with the same acronym, however old that working group was, stop here and pick a new name.
 
 ## If you're chartering something brand new, with a new acronym that hasn't been used before: 
  - The previous step should have given you "The page you were looking for couldn't be found."
@@ -40,16 +41,16 @@ dateCreated: 2022-09-20T22:26:53.302Z
  - You can also enter any comments you have that should go into the datatracker.
 ## Charter states: 
 
- Draft Charter:: means that you've entered a charter proposal, but it's not being formally evaluated yet.  We should enter charter proposals in this state as early as reasonably possible, so a mailing list will be created, the community will be informed, and open charter discussion can happen.  The IAB can also comment on the charter at this point.
- Start Chartering:: means that the charter is under formal review by the IESG, and the Secretariat will schedule it on the next telechat.  Select this state when the charter is ready for formal evaluation and can be placed on a telechat that could happen in as soon as one week.
- External Review:: means that formal review of the charter is being announced on the ietf-announce and new-work lists.  That review normally runs for 10 days, and the charter will normally be scheduled for the following telechat.  This is set by the Secretariat after the initial IESG ballot, and ADs should not need to set this state.
- IESG Review:: means that External Review has completed and the charter is under review for final approval.  This state isn't always used, and sometimes it just stays in External Review.  In any case, the Secretariat will take care of this, and ADs don't need to set this state.
+**Draft Charter** means that you've entered a charter proposal, but it's not being formally evaluated yet.  We should enter charter proposals in this state as early as reasonably possible, so a mailing list will be created, the community will be informed, and open charter discussion can happen.  The IAB can also comment on the charter at this point.
+**Start Chartering** means that the charter is under formal review by the IESG, and the Secretariat will schedule it on the next telechat.  Select this state when the charter is ready for formal evaluation and can be placed on a telechat that could happen in as soon as one week.
+**External Review** means that formal review of the charter is being announced on the ietf-announce and new-work lists.  That review normally runs for 10 days, and the charter will normally be scheduled for the following telechat.  This is set by the Secretariat after the initial IESG ballot, and ADs should not need to set this state.
+**IESG Review** means that External Review has completed and the charter is under review for final approval.  This state isn't always used, and sometimes it just stays in External Review.  In any case, the Secretariat will take care of this, and ADs don't need to set this state.
 
 ## When you're ready to put the charter into formal evaluation:  
 
  - Go to the charter page, which you can get to from your AD dashboard or from the "Chartering Groups" page.
  - Change the state to "Start Chartering".  As above, you can enter comments both for the Secretariat and for recording in the datatracker.
- - '''Important:''' This creates an evaluation ballot, but, unlike the case with document ballots, it '''does not''' record a "Yes" ballot for you.  You must go to the ballot and use "Edit Position" to do that yourself.  At this point you can put any comments for the IESG and community into your ballot, and have it sent to the IESG and the WG mailing list.
+ - **Important:** This creates an evaluation ballot, but, unlike the case with document ballots, **it does not** record a "Yes" ballot for you.  You must go to the ballot and use "Edit Position" to do that yourself.  At this point you can put any comments for the IESG and community into your ballot, and have it sent to the IESG and the WG mailing list.
 
 ## Editing the charter: 
 
