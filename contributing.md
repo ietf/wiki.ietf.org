@@ -32,12 +32,12 @@ If you are responsible for content on an existing IETF wiki there are a number o
 
 2. Subpages for any particular group can be created using the same method as described above.
 > When linking to subpage from a group page, you can use the syntax: ``[link text](page_name)``
-> e.g. the markdown for linking to the main IDR page at https://wiki.ietf.org/e/en/group/idr to the subpage at https://wiki.ietf.org/group/idr/idr-draft-status looks like: ``[idr-draft-status](idr-draft-status)``
+> e.g. the markdown for linking to the main IDR page at https://wiki.ietf.org/group/idr to the subpage at https://wiki.ietf.org/group/idr/idr-draft-status looks like: ``[idr-draft-status](idr-draft-status)``
 {.is-info}
 
-5. When the new wiki is ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](/group) and confirm transition from the old wiki is in place.
+3. When the new wiki is ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](/group) and confirm transition from the old wiki is in place.
 
-Want to try out the new wiki platform with out creating a  page of your own? There's also a [sandbox](/sandbox) for trying out Wiki editing.
+Want to try out the new wiki platform without creating a page of your own? There's also a [sandbox](/sandbox) for trying out Wiki editing.
 
 > If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 {.is-info}
