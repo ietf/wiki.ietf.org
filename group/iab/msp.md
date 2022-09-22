@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:05:34.738Z
+date: 2022-09-22T13:15:15.772Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -318,32 +318,35 @@ The [Automated Certificate Management Environment (ACME) WG](https://datatracker
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity]
 
-### 3.1.6 e-Infrastructures for research data and computing intensive science ===  #eInfra
+### 3.1.6 e-Infrastructures for research data and computing intensive science
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.1.7 Broadband infrastructure mapping ===  #BImap
 
-**RP:** *Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension. 
-In order to achieve the EU broadband objectives of the Digital Agenda Europe, it is fundamentally important that there is reliable and valid data on existing and planned broadband infrastructures, services offered; and demand and investment. A standardised mapping of broadband infrastructures and services as well as of other related data will help identify gaps of broadband coverage and quality of service level  and identify suitable areas of investment. Increasing the reliability of coverage data (QS1) will be particularly useful to avoid duplication of financing as subsidies can be allocated to areas truly affected by market failure and regulatory needs linked to market regulation.  Gathering reliable quality of service data (QS2 and QS3) based on common methodologies will feed into other regulatory aspect linked to net neutrality and consumer protection as well as assisting in the provision of reliable 5G services to vertical industries.
+### 3.1.7 Broadband infrastructure mapping
 
-Action 1 SDOs to develop standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
+> Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension.
 
-Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.* 
+> In order to achieve the EU broadband objectives of the Digital Agenda Europe, it is fundamentally important that there is reliable and valid data on existing and planned broadband infrastructures, services offered; and demand and investment. A standardised mapping of broadband infrastructures and services as well as of other related data will help identify gaps of broadband coverage and quality of service level  and identify suitable areas of investment. Increasing the reliability of coverage data (QS1) will be particularly useful to avoid duplication of financing as subsidies can be allocated to areas truly affected by market failure and regulatory needs linked to market regulation.  Gathering reliable quality of service data (QS2 and QS3) based on common methodologies will feed into other regulatory aspect linked to net neutrality and consumer protection as well as assisting in the provision of reliable 5G services to vertical industries.
+> 
+> Action 1 SDOs to develop standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
+>
+> Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.* 
 
-The [https://datatracker.ietf.org/wg/lmap/about/ Large-Scale Measurement of Broadband Performance (LMAP) Working Group] standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
+The [Large-Scale Measurement of Broadband Performance (LMAP) Working Group](https://datatracker.ietf.org/wg/lmap/about/) standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
 
 Measuring portions of the Internet on a large scale is essential for accurate characterisations of performance over time and geography, for network diagnostic investigations by providers and their users, and for collecting information to support public policy development. The goal is to have the measurements (made using the same metrics and mechanisms) for a large number of points on the Internet, and to have the results collected and stored in the same form.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap]
 
-### 3.1.8 Accessibility of ICT products and services === #ICTAccess
+### 3.1.8 Accessibility of ICT products and services
 
-**RP:** *Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.*
+> Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.
 
-Relevant work may be found in the [https://datatracker.ietf.org/wg/#art ART area]. For instance [http://www.rfc-editor.org/rfc/rfc3551.txt RFC 3551] identifies the requirements for SIP to support the hearing impaired and [http://www.rfc-editor.org/rfc/rfc4103.txt RFC4103] defines the RTP payload for text conversation.
+Relevant work may be found in the [ART area](https://datatracker.ietf.org/wg/#art). For instance [RFC 3551](http://www.rfc-editor.org/rfc/rfc3551.txt) identifies the requirements for SIP to support the hearing impaired and [RFC4103](http://www.rfc-editor.org/rfc/rfc4103.txt) defines the RTP payload for text conversation.
 
-RFCs [http://www.rfc-editor.org/rfc/rfc4103.txt  4103]  and [http://www.rfc-editor.org/rfc/rfc5194.txt 5194] are being referenced in various  accessibility regulations being proposed in the US ([http://transition.fcc.gov/Daily_Releases/Daily_Business/2013/db0311/DOC-319386A1.pdf Section 255/508]) and EU (e.g. M376).
+RFCs [4103](http://www.rfc-editor.org/rfc/rfc4103.txt) and [5194](http://www.rfc-editor.org/rfc/rfc5194.txt) are being referenced in various accessibility regulations being proposed in the US ([Section 255/508](http://transition.fcc.gov/Daily_Releases/Daily_Business/2013/db0311/DOC-319386A1.pdf)) and EU (e.g. M376).
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess]
 
