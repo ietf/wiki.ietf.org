@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:51:28.337Z
+date: 2022-09-22T13:52:38.242Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -636,29 +636,41 @@ This group's primary deliverable (and the only Standards track item) will be a d
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IntelligentTransport https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IntelligentTransport]
 
-### 3.4.6 Digitisation of European Industry === #AdvancedManufacturing
+### 3.4.6 Digitisation of European Industry
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.4.7. Robotics and autonomous systems === #Robotics
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+### 3.4.7. Robotics and autonomous systems
 
-### 3.4.8 Construction - Building Information Modelling === #Construction
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-### 3.4.9 Common Information Sharing Environment (CISE) for the EU maritime domain === #cise
+### 3.4.8 Construction - Building Information Modelling
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.4.10 Water Management Digitisation === #WaterMan
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+### 3.4.9 Common Information Sharing Environment (CISE) for the EU maritime domain
 
-### 3.4.11 Single European Sky === #SingleSky
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+
+### 3.4.10 Water Management Digitisation
+
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
+
+
+### 3.4.11 Single European Sky
+
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
+
 
 ### 3.4.12 U-Space === #uSpace
 
