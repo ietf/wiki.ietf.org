@@ -178,11 +178,16 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Project info
   - Working on tasks related to the sodestream (sodestream.github.io) project, which applies natural language processing and social networking techniques to data produced by the IETF, in order to better understand standardisation processes.
   
- **Your-Project-Name**
+ **SRv6 Data-Plane Visibility**
 - Champion(s)
-  - tbd
+  - Thomas Graf (thomas.graf at swisscom.com)
+  - Benoit Calise (benoit.claise at huawei.com)
+  - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
+- Draft(s)
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-opsawg-ipfix-inband-telemetry
+  - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
 - Project info
-  - tbd
+  - Develop and validate running code. Extend IPFIX export in VPP at FD.io and on Huawei VRP. Establish SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data.
   
  **Your-Project-Name**
 - Champion(s)
