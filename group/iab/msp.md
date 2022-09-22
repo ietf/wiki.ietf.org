@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:48:53.524Z
+date: 2022-09-22T13:49:51.240Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -598,17 +598,17 @@ The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) h
 
 A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures. 
 
-Many of the IETF Working Groups listed under §3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to this section.
+Many of the IETF Working Groups listed under §3.1.4 Internet of Thingsa above are developing standards for embedded devices that may also be applicable to this section.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy]
 
-### 3.4.3. ICT Environmental Impact === #ICTenvironment
+### 3.4.3. ICT Environmental Impact
 
-**RP:** *A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.*
+>A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.
 
-The ​[https://datatracker.ietf.org/wg/eman/about/ Energy Management (EMAN) Working Group] has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
+The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See [here](http://datatracker.ietf.org/wg/eman/documents/) for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
 
-A recently published standards track specification ([https://tools.ietf.org/html/rfc7603 RFC7603]) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
+A recently published standards track specification ([RFC7603])(https://tools.ietf.org/html/rfc7603) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment]
 
