@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T16:09:44.516Z
+date: 2022-09-22T16:12:39.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -414,12 +414,10 @@ Since quantum networks are so different when compared to classical networking, t
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
 
-
 ### 3.2.2 Education, digital skills and digital learning
 
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
-
 
 ### 3.2.3 Emergency communications and public warning systems
 
@@ -457,13 +455,12 @@ The application-specific working groups in the IETF (for example, the [Session I
 
 The [Secure Telephone Identity Revisited (STIR) WG](https://datatracker.ietf.org/wg/stir/about/) is developing Internet-based mechanisms that allow verification of the calling party's authorisation to use a particular telephone number for an incoming call. The main focus is on the SIP as one of the main VoIP technologies used by parties that want to misrepresent their origin, in this context the telephone number of origin. See, for example, [RFC7375 "Secure telephone identity threat model"](https://datatracker.ietf.org/doc/rfc7375/).
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency]
+[https://wiki.ietf.org/en/group/iab/msp#h-323-emergency-communications-and-public-warning-systems](https://wiki.ietf.org/en/group/iab/msp#h-323-emergency-communications-and-public-warning-systems)
 
 ### 3.2.4 eGovernment
 
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
-
 
 ### 3.2.5 eCall
 
@@ -483,7 +480,7 @@ The [Geographic Location/Privacy (GEOPRIV) Working Group](https://datatracker.ie
 
 The application-specific working groups in the IETF (for example, the [Session Initiation Protocol Core (SIPCORE) Working Group](https://datatracker.ietf.org/wg/sipcore/about/)) have developed extensions to support emergency calling as required.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall]
+[https://wiki.ietf.org/en/group/iab/msp#h-325-ecall](https://wiki.ietf.org/en/group/iab/msp#h-325-ecall)
 
 ### 3.2.6 Covid-19
 
@@ -538,7 +535,6 @@ The application-specific working groups in the IETF (for example, the [Session I
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
 
-
 ### 3.3.6 Blockchain and Distributed Digital Ledger Technologies
 
 >Blockchain has great potential in providing an infrastructure for trusted, decentralised and disintermediated services beyond the financial sector. The first Semester of 2018 has seen $6.3bn invested in ICOs and $885mn for VC.
@@ -573,7 +569,7 @@ The [Decentralized Internet Infrastructure Research Group](https://datatracker.i
 
 More details of the DINRG are [available](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation).
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger]
+[https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-ledger-technologies](https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-ledger-technologies)
 
 ----
 
