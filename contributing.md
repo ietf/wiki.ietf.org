@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-22T14:41:13.447Z
+date: 2022-09-22T23:37:41.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -40,7 +40,7 @@ The wiki product we are using has the following known limitations:
 1. The URL of all pages starts /en/ (the language code) and this cannot be changed.
 
 ## Sandbox
-If you want to try out the new wiki platform with out creating a page of your own, there's a [sandbox](/sandbox) to play in.
+If you want to try out the new wiki platform without creating a page of your own, there's a [sandbox](/sandbox) to play in.
 
 # Step-by-step instructions
 ## Editing a page
