@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:15:15.772Z
+date: 2022-09-22T13:21:08.369Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -350,75 +350,57 @@ RFCs [4103](http://www.rfc-editor.org/rfc/rfc4103.txt) and [5194](http://www.rfc
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess]
 
-### 3.1.9 Artificial Intelligence === #AI
+### 3.1.9 Artificial Intelligence
 
-**RP:** *AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
+> AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
+>
+> Most of these activities are recent and will lead to requests for developing new standards. For the time being, there are no significant past activities to report about their progress.
+>
+> The most likely areas where new AI standards will be required are the following:
+>
+>* AI vocabulary and definitions
+>* Benchmarking
+>* Ethics
+>* Safety
+>* Knowledge representation
+>* Data interchange formats
+>* Computer system integration and APIs
+>
+>Action 1: Foster coordination and interaction of all stakeholders in providing European requirements for AI, e.g. based on the work of the AI High Level Expert Group, Members States initiatives, OECD etc. Encourage the development of shared visions as a basis for input and requirements to standardisation 
+>
+>Action 2: SDOs should coordinate their efforts on AI standardisation in Europe and internationally, especially ISO/IEC JTC 1 SC 42 
+>
+>Action 3: SDOs should establish coordinated linkages with, and consider European requirements from, initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the results of the EU HLEG on AI and also the European Parliament, Member States' initiatives, Council of Europe, and others 
+>
+>Action 4: SDOs to consider cybersecurity and related aspects of artificial intelligence, to identify gaps and develop the necessary standards on safety, privacy and security of artificial intelligence, to protect against malicious artificial intelligence and to use artificial intelligence to protect against cyber-attacks 
+>
+>Action 5: Within the AI4EU initiative, identify leading open source activities which complement standardisation work and analyse to what extend they respond to EU requirements. Where useful establish dialogue, liaisons or partnerships with such open source projects.
 
-*Most of these activities are recent and will lead to requests for developing new standards. For the time being, there are no significant past activities to report about their progress.
-
-*The most likely areas where new AI standards will be required are the following:
-
-* *AI vocabulary and definitions
-* *Benchmarking
-* *Ethics
-* *Safety
-* *Knowledge representation
-* *Data interchange formats
-* *Computer system integration and APIs
-
-*Action 1: Foster coordination and interaction of all stakeholders in providing European requirements for AI, e.g. based on the work of the AI High Level Expert Group, Members States initiatives, OECD etc. Encourage the development of shared visions as a basis for input and requirements to standardisation 
-
-*Action 2: SDOs should coordinate their efforts on AI standardisation in Europe and internationally, especially ISO/IEC JTC 1 SC 42 
-
-*Action 3: SDOs should establish coordinated linkages with, and consider European requirements from, initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the results of the EU HLEG on AI and also the European Parliament, Member States' initiatives, Council of Europe, and others 
-
-*Action 4: SDOs to consider cybersecurity and related aspects of artificial intelligence, to identify gaps and develop the necessary standards on safety, privacy and security of artificial intelligence, to protect against malicious artificial intelligence and to use artificial intelligence to protect against cyber-attacks 
-
-*Action 5: Within the AI4EU initiative, identify leading open source activities which complement standardisation work and analyse to what extend they respond to EU requirements. Where useful establish dialogue, liaisons or partnerships with such open source projects.
-
-The IETF [https://datatracker.ietf.org/wg/anima/about/ Autonomic Networking Integrated Model and Approach] Working Group will develop a system of autonomic functions that carry out the intentions of the network operator without the need for detailed low-
-level management of individual devices. This will be done by providing a
-secure closed-loop interaction mechanism whereby network elements
-cooperate directly to satisfy management intent. The working group will
-develop a control paradigm where network processes coordinate their
-decisions and automatically translate them into local actions, based on
-various sources of information including operator-supplied configuration
-information or from the existing protocols, such as routing protocol,
+The IETF [Autonomic Networking Integrated Model and Approach](https://datatracker.ietf.org/wg/anima/about/) Working Group will develop a system of autonomic functions that carry out the intentions of the network operator without the need for detailed low-level management of individual devices. This will be done by providing asecure closed-loop interaction mechanism whereby network elements cooperate directly to satisfy management intent. The working group will develop a control paradigm where network processes coordinate their decisions and automatically translate them into local actions, based on various sources of information including operator-supplied configuration information or from the existing protocols, such as routing protocol,
 etc.
 
-Autonomic networking refers to the self-managing characteristics
-(configuration, protection, healing, and optimization) of distributed
-network elements, adapting to unpredictable changes while hiding
-intrinsic complexity from operators and users. Autonomic Networking,
-which often involves closed-loop control, is applicable to the complete
-network (functions) lifecycle (e.g. installation, commissioning,
-operating, etc). An autonomic function that works in a distributed way
-across various network elements is a candidate for protocol design. Such
-functions should allow central guidance and reporting, and co-existence
-with non-autonomic methods of management. The general objective of
-this working group is to enable the progressive introduction of
-autonomic functions into operational networks, as well as reusable
-autonomic network infrastructure, in order to reduce operating expenses.
+Autonomic networking refers to the self-managing characteristics (configuration, protection, healing, and optimization) of distributed network elements, adapting to unpredictable changes while hiding intrinsic complexity from operators and users. Autonomic Networking, which often involves closed-loop control, is applicable to the complete network (functions) lifecycle (e.g. installation, commissioning, operating, etc). An autonomic function that works in a distributed way across various network elements is a candidate for protocol design. Such functions should allow central guidance and reporting, and co-existence with non-autonomic methods of management. The general objective of this working group is to enable the progressive introduction of autonomic functions into operational networks, as well as reusable autonomic network infrastructure, in order to reduce operating expenses.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI]
 
-### 3.1.10 European Global Navigation Satellite System (EGNSS) === #EGNSS
+### 3.1.10 European Global Navigation Satellite System (EGNSS)
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS]
+[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS]
 
-### 3.1.11 Quantum Technologies === #Quantum
+### 3.1.11 Quantum Technologies
 
-The Internet Research Task Force (IRTF) has hosted the [https://irtf.org/qirg Quantum Internet Research Group (QIRG)] since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [https://www.irtf.org/mailman/listinfo/qirg mailing list] which can be freely subscribed and posted to. The entire mailing list archive is [https://mailarchive.ietf.org/arch/browse/qirg/ publicly available online]. The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings.
-The scope of the QIRG’s work is defined in its [https://irtf.org/qirg charter]. A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet.
-The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [https://datatracker.ietf.org/rg/qirg/documents/ technical documents on quantum networks]. Currently, it is working on two Internet Drafts which the group aims to publish as informational RFCs (i.e. not standards specifications):
-•	[https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/ Architectural Principles for a Quantum Internet],
-•	[https://datatracker.ietf.org/doc/draft-irtf-qirg-quantum-internet-use-cases/ Application Scenarios for the Quantum Internet].
+The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings.
+The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet.
+The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). Currently, it is working on two Internet Drafts which the group aims to publish as informational RFCs (i.e. not standards specifications):
+•	[Architectural Principles for a Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)
+•	[Application Scenarios for the Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-quantum-internet-use-cases/)
 Since quantum networks are so different when compared to classical networking, the QIRG is also focused on educating the classical networking community on this new subject. In addition to discussions on the mailing list, the QIRG also hosts seminars with speakers from both industry and academia. So far three such seminars have taken place:
-•	“[https://www.youtube.com/watch?v=2ELYL71tlD8 Practical Quantum Networking at Room Temperature]” by Mehdi Namazi (Qunnect Inc.),
-•	“[https://www.youtube.com/watch?v=j-Ri-RRfUXY Genuine and Optimized Entanglement-Based Quantum Networks]” by Wolfgang Dür (University of Innsbruck),
-•	“[https://www.youtube.com/watch?v=D_Nb43-uicY Building Quantum Networks at the Local-Area Scale]” by Marc Kaplan (VeriQloud)
+•	“[Practical Quantum Networking at Room Temperature](https://www.youtube.com/watch?v=2ELYL71tlD8)” by Mehdi Namazi (Qunnect Inc.),
+•	“[Genuine and Optimized Entanglement-Based Quantum Networks](https://www.youtube.com/watch?v=j-Ri-RRfUXY)” by Wolfgang Dür (University of Innsbruck),
+•	“[Building Quantum Networks at the Local-Area Scale](https://www.youtube.com/watch?v=D_Nb43-uicY)” by Marc Kaplan (VeriQloud)
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum]
 
