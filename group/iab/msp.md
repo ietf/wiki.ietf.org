@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:53:19.665Z
+date: 2022-09-22T13:58:31.807Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -327,12 +327,12 @@ The [Automated Certificate Management Environment (ACME) WG](https://datatracker
 ### 3.1.7 Broadband infrastructure mapping
 
 > Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension.
-
+>
 > In order to achieve the EU broadband objectives of the Digital Agenda Europe, it is fundamentally important that there is reliable and valid data on existing and planned broadband infrastructures, services offered; and demand and investment. A standardised mapping of broadband infrastructures and services as well as of other related data will help identify gaps of broadband coverage and quality of service level  and identify suitable areas of investment. Increasing the reliability of coverage data (QS1) will be particularly useful to avoid duplication of financing as subsidies can be allocated to areas truly affected by market failure and regulatory needs linked to market regulation.  Gathering reliable quality of service data (QS2 and QS3) based on common methodologies will feed into other regulatory aspect linked to net neutrality and consumer protection as well as assisting in the provision of reliable 5G services to vertical industries.
 > 
 > Action 1 SDOs to develop standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
 >
-> Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.* 
+> Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.
 
 The [Large-Scale Measurement of Broadband Performance (LMAP) Working Group](https://datatracker.ietf.org/wg/lmap/about/) standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
 
@@ -344,7 +344,7 @@ Measuring portions of the Internet on a large scale is essential for accurate ch
 
 > Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.
 
-Relevant work may be found in the [ART area](https://datatracker.ietf.org/wg/#art). For instance [RFC 3551](http://www.rfc-editor.org/rfc/rfc3551.txt) identifies the requirements for SIP to support the hearing impaired and [RFC4103](http://www.rfc-editor.org/rfc/rfc4103.txt) defines the RTP payload for text conversation.
+Relevant IETF work may be found in the [ART area](https://datatracker.ietf.org/wg/#art). For instance [RFC 3551](http://www.rfc-editor.org/rfc/rfc3551.txt) identifies the requirements for SIP to support the hearing impaired and [RFC4103](http://www.rfc-editor.org/rfc/rfc4103.txt) defines the RTP payload for text conversation.
 
 RFCs [4103](http://www.rfc-editor.org/rfc/rfc4103.txt) and [5194](http://www.rfc-editor.org/rfc/rfc5194.txt) are being referenced in various accessibility regulations being proposed in the US ([Section 255/508](http://transition.fcc.gov/Daily_Releases/Daily_Business/2013/db0311/DOC-319386A1.pdf)) and EU (e.g. M376).
 
@@ -393,14 +393,17 @@ Autonomic networking refers to the self-managing characteristics (configuration,
 ### 3.1.11 Quantum Technologies
 
 The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings.
-The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet.
+
+The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum Internet.
+
 The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). Currently, it is working on two Internet Drafts which the group aims to publish as informational RFCs (i.e. not standards specifications):
-•	[Architectural Principles for a Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)
-•	[Application Scenarios for the Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-quantum-internet-use-cases/)
+*	[Architectural Principles for a Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)
+*	[Application Scenarios for the Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-quantum-internet-use-cases/)
+
 Since quantum networks are so different when compared to classical networking, the QIRG is also focused on educating the classical networking community on this new subject. In addition to discussions on the mailing list, the QIRG also hosts seminars with speakers from both industry and academia. So far three such seminars have taken place:
-•	“[Practical Quantum Networking at Room Temperature](https://www.youtube.com/watch?v=2ELYL71tlD8)” by Mehdi Namazi (Qunnect Inc.),
-•	“[Genuine and Optimized Entanglement-Based Quantum Networks](https://www.youtube.com/watch?v=j-Ri-RRfUXY)” by Wolfgang Dür (University of Innsbruck),
-•	“[Building Quantum Networks at the Local-Area Scale](https://www.youtube.com/watch?v=D_Nb43-uicY)” by Marc Kaplan (VeriQloud)
+*	“[Practical Quantum Networking at Room Temperature](https://www.youtube.com/watch?v=2ELYL71tlD8)” by Mehdi Namazi (Qunnect Inc.),
+*	“[Genuine and Optimized Entanglement-Based Quantum Networks](https://www.youtube.com/watch?v=j-Ri-RRfUXY)” by Wolfgang Dür (University of Innsbruck),
+*	“[Building Quantum Networks at the Local-Area Scale](https://www.youtube.com/watch?v=D_Nb43-uicY)” by Marc Kaplan (VeriQloud)
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum]
 
@@ -408,19 +411,19 @@ Since quantum networks are so different when compared to classical networking, t
 
 ## 3.2 Societal challenges 
 
-### 3.2.1 eHealth, healthy living and ageing === #eHealth
+### 3.2.1 eHealth, healthy living and ageing
 
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
 
 
-### 3.2.2 Education, digital skills and digital learning === #eSkills
+### 3.2.2 Education, digital skills and digital learning
 
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
 
 
-### 3.2.3 Emergency communications and public warning systems === #Emergency
+### 3.2.3 Emergency communications and public warning systems
 
 > The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC).
 >
@@ -446,7 +449,7 @@ Since quantum networks are so different when compared to classical networking, t
 >
 >Action 9 SDOs to set requirements, functional architecture, protocol and procedures specification for a Pan European mobile emergency application.
 >
->Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.*
+>Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.
 
 The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
@@ -570,7 +573,7 @@ The application-specific working groups in the IETF (for example, the [Session I
 
 The [Decentralized Internet Infrastructure Research Group](https://datatracker.ietf.org/rg/dinrg/about/) (DINRG) will investigate open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
 
-More details of the DIN RG are [available](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation).
+More details of the DINRG are [available](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation).
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger]
 
@@ -608,7 +611,7 @@ Many of the IETF Working Groups listed under §3.1.4 Internet of Thingsa above a
 
 The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See [here](http://datatracker.ietf.org/wg/eman/documents/) for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
 
-A recently published standards track specification ([RFC7603])(https://tools.ietf.org/html/rfc7603) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
+A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment]
 
@@ -695,37 +698,37 @@ The working group will primarily leverage Internet standards (including HIP, EPP
 ----
 ## Document Editing History 
 
-  2013-07-04: Initial layout and first draft descriptions added.
-
-  2013-08-04: Added reference to Emun WG in section 3.3.2
-
-  2014-03-12: Added link to the final document and modified link to point to more accessible MSP pages
-
-  2015-08-27: Updated the document reflecting the draft 2016 Rolling Plan
-
-  2016-08-08: Changed the structure, moving the materials related to RP2016 to a separate page. Updated with the current draft of the RP 2017
-
-  2016-08-23: A round of updates to reflect current work
-
-  2017-09-12: Backup RP2017, created template RP2018
-
-  2017-09-20: Update to reflect current IETF and IRTF work, and to include updated text from RP2018 regarding EC perspectives
-
-  2017-09-22: More updates to reflect current IETF/IRTF work
-
-  2018-08-27: Archived RP2018, updates to reflect RP2019 changes
-
-  2018-09-19: Final updates prior to submission to EC RP 2019
-
-  2019-09-03: Archived RP2019, updates to reflect RP2020 changes
-
-  2019-09-10: Minor updates to prepare for RP2020 draft submission deadline
-
-  2020-09-18: Archived RP2020, numerous updates to reflect RP2021 changes
-
-  2020-10-02: Revise text on QUIC prior to submission
-
-  2021-09-24: Archived RP2021, updates to reflect RP2022 changes from MSP, added text on asdf, iotops and madinas WGs.
-
-  2022-09-21: Archived RP2022, updates to reflect RP2023 changes from MSP, added text on qirg, ohai, ppm, httpapi, and tigress WGs.
+-   2013-07-04: Initial layout and first draft descriptions added.
+- 
+-   2013-08-04: Added reference to Emun WG in section 3.3.2
+- 
+-   2014-03-12: Added link to the final document and modified link to point to more accessible MSP pages
+- 
+-   2015-08-27: Updated the document reflecting the draft 2016 Rolling Plan
+- 
+-   2016-08-08: Changed the structure, moving the materials related to RP2016 to a separate page. Updated with the current draft of the RP 2017
+- 
+-   2016-08-23: A round of updates to reflect current work
+- 
+-   2017-09-12: Backup RP2017, created template RP2018
+- 
+-   2017-09-20: Update to reflect current IETF and IRTF work, and to include updated text from RP2018 regarding EC perspectives
+- 
+-   2017-09-22: More updates to reflect current IETF/IRTF work
+- 
+-   2018-08-27: Archived RP2018, updates to reflect RP2019 changes
+- 
+-   2018-09-19: Final updates prior to submission to EC RP 2019
+- 
+-   2019-09-03: Archived RP2019, updates to reflect RP2020 changes
+- 
+-   2019-09-10: Minor updates to prepare for RP2020 draft submission deadline
+- 
+-   2020-09-18: Archived RP2020, numerous updates to reflect RP2021 changes
+- 
+-   2020-10-02: Revise text on QUIC prior to submission
+- 
+-   2021-09-24: Archived RP2021, updates to reflect RP2022 changes from MSP, added text on asdf, iotops and madinas WGs.
+- 
+-   2022-09-21: Archived RP2022, updates to reflect RP2023 changes from MSP, added text on qirg, ohai, ppm, httpapi, and tigress WGs.
 
