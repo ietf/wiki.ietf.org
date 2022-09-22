@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T15:47:32.652Z
+date: 2022-09-22T15:49:06.071Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -193,7 +193,7 @@ Interactions between IETF and 5G developments fall into several categories:
 
 * There are many IETF tools already for dealing with virtualisation and separation of networks (see 3.1.2 Cloud computing, below), so the first order of business is mapping what can be done with those tools for the 5G use cases.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG]
+[https://wiki.ietf.org/en/group/iab/msp#h-311-5g](https://wiki.ietf.org/en/group/iab/msp#h-311-5g)
 
 ### 3.1.2 Cloud and edge computing
 
