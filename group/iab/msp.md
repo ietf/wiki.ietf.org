@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T15:42:29.197Z
+date: 2022-09-22T15:45:32.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -75,7 +75,7 @@ The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/ht
 * Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
 * Best practices and other documentation for HTTP API designers, consumers, implementers, operators, etc.
 
-[https://wiki.ietf.org/e/en/group/iab/msp](https://wiki.ietf.org/e/en/group/iab/msp#-3.0.1-data-economy)
+[https://wiki.ietf.org/en/group/iab/msp#h-301-data-economy](https://wiki.ietf.org/en/group/iab/msp#h-301-data-economy)
 
 ### 3.0.2 Cybersecurity / network and information security
 
