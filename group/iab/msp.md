@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:26:47.284Z
+date: 2022-09-22T12:29:45.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -31,19 +31,19 @@ The Rolling Plan looks at the standardisation landscape in relation to the EU po
 In chapter 3 of the Rolling Plan various policy areas are identified that need to be supported by ICT standardisation. Below we follow the structure of this Rolling Plan and supply information about the related standardisation and research activities in the IETF and IRTF. The final Rolling Plan itself incorporates the IETF-related sections on this page where appropriate.
 
 Previous versions of the Rolling Plan and the IETF work that fits into it:
-- Rolling Plan 2016 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2016]
-- Rolling Plan 2017 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2017]
-- Rolling Plan 2018 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2018]
-- Rolling Plan 2019 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2019]
-- Rolling Plan 2020 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2020]
-- Rolling Plan 2021 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2021]
-- Rolling Plan 2022 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2022]
+- [Rolling Plan 2016](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2016)
+- [Rolling Plan 2017](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2017)
+- [Rolling Plan 2018](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2018)
+- [Rolling Plan 2019](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2019)
+- [Rolling Plan 2020](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2020)
+- [Rolling Plan 2021](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2021)
+- [Rolling Plan 2022](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2022)
 
 ### Draft Rolling Plan 2023 
 
 The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2023 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
 
-Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [http://trac.tools.ietf.org/area/ IETF areas] for potentially related technology work and contact  [mailto:ford@isoc.org Mat Ford] or [mailto:robachevsky@isoc.org Andrei Robachevsky] or any Area Director with general or specific questions.
+Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](https://www.ietf.org/topics/areas/) for potentially related technology work and contact  [Mat Ford](mailto:ford@isoc.org) or [Andrei Robachevsky](mailto:robachevsky@isoc.org) or any Area Director with general or specific questions.
 
 ### General comments 
 
