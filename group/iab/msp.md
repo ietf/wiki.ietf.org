@@ -2,27 +2,27 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:10:32.800Z
+date: 2022-09-22T12:25:04.007Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
 ---
 
-= European Multi Stakeholder Platform on ICT Standardisation =
+# European Multi Stakeholder Platform on ICT Standardisation 
 
 [[PageOutline]] 
 
-'''This is a public working draft that has not been reviewed by the IAB or the IETF'''
+**This is a public working draft that has not been reviewed by the IAB or the IETF**
 
-=== Purpose of this Page ===
+### Purpose of this Page 
 
 This page contains specific information about the IETF relevant to the [http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation European Multi Stakeholder Platform on ICT Standardisation], MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation more information about the MSP].
 
 For more detailed information, or to submit relevant information to the MSP, please contact Mat Ford (ford at isoc.org)  or Andrei Robachevsky (robachevsky at isoc.org) who are the IETF representatives in the platform and the editors of this page.
 
-== The Rolling Plan ==
+## The Rolling Plan 
 
-=== Introduction ===
+### Introduction 
 
 This Rolling Plan for ICT Standardisation identifies EU policy priorities where ICT standardisation and ICT standards should be considered as part of policy making. The Rolling Plan is a strategic document focussing on the support that standards, technical specifications, and standardisation in general can provide in the context of EU policy priorities.
 
@@ -39,23 +39,23 @@ Previous versions of the Rolling Plan and the IETF work that fits into it:
 - Rolling Plan 2021 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2021]
 - Rolling Plan 2022 [https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2022]
 
-=== Draft Rolling Plan 2023 ===
+### Draft Rolling Plan 2023 
 
 The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2023 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
 
 Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [http://trac.tools.ietf.org/area/ IETF areas] for potentially related technology work and contact  [mailto:ford@isoc.org Mat Ford] or [mailto:robachevsky@isoc.org Andrei Robachevsky] or any Area Director with general or specific questions.
 
-=== General comments ===
+### General comments 
 
-* From the EU RP Task Force: ''The Review process leads to a new version of the EU Rolling Plan on ICT Standardisation. The new version will be finalised by the MSP in December before being handed over to the Commission for endorsement and publication. From end of July until late September all MSP members have the opportunity to provide comments and further input to the draft Rolling Plan as provided by the European Commission. Focus should be put in particular to the actions. For an effective Rolling Plan it is important to have actions that are as precise as possible so that they can trigger respective standardisation work. Therefore, the CARV criteria should be met: actions should be '''C'''oncrete, '''A'''chievable, '''R'''elevant and '''V'''oluntary.''
+* From the EU RP Task Force: *The Review process leads to a new version of the EU Rolling Plan on ICT Standardisation. The new version will be finalised by the MSP in December before being handed over to the Commission for endorsement and publication. From end of July until late September all MSP members have the opportunity to provide comments and further input to the draft Rolling Plan as provided by the European Commission. Focus should be put in particular to the actions. For an effective Rolling Plan it is important to have actions that are as precise as possible so that they can trigger respective standardisation work. Therefore, the CARV criteria should be met: actions should be **C**oncrete, **A**chievable, **R**elevant and **V**oluntary.*
 
 * The numbering of the various section titles refers to the numbers of the sections in the rolling plan.
 
-== 3.0 Foundational drivers ==
+## 3.0 Foundational drivers 
 
-=== 3.0.1 Data Economy === #dataEconomy
+### 3.0.1 Data Economy === #dataEconomy
 
-'''RP:''' ''Digital technologies are transforming the economy and society, and data is at the centre of this transformation. Data-driven innovation will be essential for the modernisation of Europe and the data economy which has the potential of bringing enormous benefits for citizens, for example in support to medicine, mobility, Green Deal. The key role of data is reflected in many chapters of the rolling plan outlining the respective sector specific aspects. On top of that, and addressed in this chapter, data is of foundational and horizontal relevance.
+**RP:** *Digital technologies are transforming the economy and society, and data is at the centre of this transformation. Data-driven innovation will be essential for the modernisation of Europe and the data economy which has the potential of bringing enormous benefits for citizens, for example in support to medicine, mobility, Green Deal. The key role of data is reflected in many chapters of the rolling plan outlining the respective sector specific aspects. On top of that, and addressed in this chapter, data is of foundational and horizontal relevance.
 
 Action 1: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the digital transformation at the level of data-innovation and of the data economy.
 
@@ -77,9 +77,9 @@ The [https://datatracker.ietf.org/wg/httpapi/about/ Building Blocks for HTTP API
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#dataEconomy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#dataEconomy]
 
-=== 3.0.2 Cybersecurity / network and information security === #NISec
+### 3.0.2 Cybersecurity / network and information security === #NISec
 
-'''RP:''' ''The Communication on ICT standardisation priorities for the digital single market proposes actions on cybersecurity, considered as priority domain for Europe
+**RP:** *The Communication on ICT standardisation priorities for the digital single market proposes actions on cybersecurity, considered as priority domain for Europe
 For security and notification requirements for operators of essential services, the focus will be on establishing a number of reference standards and/or specifications relevant to network and information security, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practices across the EU.
 For security and notification requirements for digital service providers, in line with the objectives of the Digital single market strategy, the Directive aims to establish a harmonised set of requirements so that they can expect similar rules wherever they operate in the EU.
 It is important that all levels of an organisation –particularly the strategic level and the management board - are aware of the need for standards and frameworks for cybersecurity. Moreover, between organisations that are partners in (vital) online chains, clear agreements will have to be made on the different standards.
@@ -98,7 +98,7 @@ ACTION 6 SDOs to develop a “guided” version of ISO/IEC 270xx series (informa
 
 ACTION 7 SDOs to assess gaps and develop standards on cybersecurity of consumer products in support of possible certification schemes completed under the European Cybersecurity Act
 
-ACTION 8 SDOs to prepare a report on measures to mitigate, prevent and/or detect CLI spoofing. The report should address the technical, operational, standardisation and cost aspects of the different possible solutions (STIR/SHAKEN, blockchain, Solid, etc.) from the European perspective. It should also consider how such solutions could be deployed and managed at the European level.''
+ACTION 8 SDOs to prepare a report on measures to mitigate, prevent and/or detect CLI spoofing. The report should address the technical, operational, standardisation and cost aspects of the different possible solutions (STIR/SHAKEN, blockchain, Solid, etc.) from the European perspective. It should also consider how such solutions could be deployed and managed at the European level.*
 
 The following IETF WGs are active in this area:
 
@@ -116,9 +116,9 @@ The full list of IETF Working Groups in the Security Area is available here: htt
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec]
 
-=== 3.0.3 ePrivacy === #ePrivacy
+### 3.0.3 ePrivacy === #ePrivacy
 
-'''RP:''' ''The focus will be on establishing a number of reference standards and/or specifications relevant to privacy in the electronic communications environment, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practises across the Union. The Commission recently has proposed a mandate to European Standards Organisations seeking to routinely include privacy management methodologies in both the design and production phases of cybersecurity technologies generally.
+**RP:** *The focus will be on establishing a number of reference standards and/or specifications relevant to privacy in the electronic communications environment, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practises across the Union. The Commission recently has proposed a mandate to European Standards Organisations seeking to routinely include privacy management methodologies in both the design and production phases of cybersecurity technologies generally.
 
 In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules.
 Proposed specific areas for SDOs to focus on are:
@@ -138,7 +138,7 @@ http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centred-perso
 
 Action 7: SDOs to prevent unwarranted pervasive monitoring by default when developing standards. This is not only relevant in the context the internet but also the IoT.
 
-Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.''
+Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.*
 
 The [https://datatracker.ietf.org/wg/dprive/about/ DNS PRIVate Exchange (dprive) WG] develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
 
@@ -168,21 +168,21 @@ The [https://datatracker.ietf.org/rg/pearg/about/ Privacy Enhancements and Asses
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy]
 
-== 3.1 Key enablers ==
+## 3.1 Key enablers 
 
-=== 3.1.1 5G === #FiveG
+### 3.1.1 5G === #FiveG
 
-'''RP:''' ''The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.''
+**RP:** *The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.*
 
-''The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.''
+*The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.*
 
-''The European Commission has called on Member States and industry to commit to the following objectives:''
+*The European Commission has called on Member States and industry to commit to the following objectives:*
 
-* ''a standardisation approach that preserves future evolution capabilities and aims at availability of 5G global standards by end of 2019;
-* ''a holistic standardisation approach encompassing both radio access and core networks as coordinated activities within global standardisation bodies, encompassing disruptive use-cases and promoting open innovation;
-* ''establishment of cross-industry partnerships by 2017, at the latest, to support timely standard-setting, partly by leveraging international cooperation partnerships, in particular towards the digitisation of industry.
+* *a standardisation approach that preserves future evolution capabilities and aims at availability of 5G global standards by end of 2019;
+* *a holistic standardisation approach encompassing both radio access and core networks as coordinated activities within global standardisation bodies, encompassing disruptive use-cases and promoting open innovation;
+* *establishment of cross-industry partnerships by 2017, at the latest, to support timely standard-setting, partly by leveraging international cooperation partnerships, in particular towards the digitisation of industry.
 
-''In December 2017, Commissioner Gabriel sent a letter to 3G PP, urging the standardisation bodies and the concerned industrial actors to step-up their efforts for the rapid development of 5G standards addressing more immediate market needs while driving a clear strategy for a 5G global standard bringing benefits to a wide range of industrial use cases, in line with the EU strategy targeting 5G developments in support of "vertical" industries and of our wider objectives of digitising the European industry.''
+*In December 2017, Commissioner Gabriel sent a letter to 3G PP, urging the standardisation bodies and the concerned industrial actors to step-up their efforts for the rapid development of 5G standards addressing more immediate market needs while driving a clear strategy for a 5G global standard bringing benefits to a wide range of industrial use cases, in line with the EU strategy targeting 5G developments in support of "vertical" industries and of our wider objectives of digitising the European industry.*
 
 Interactions between IETF and 5G developments fall into several categories:
 
@@ -196,21 +196,21 @@ Interactions between IETF and 5G developments fall into several categories:
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG]
 
-=== 3.1.2 Cloud and edge computing === #Cloud
+### 3.1.2 Cloud and edge computing === #Cloud
 
-'''RP:''' ''The Communication on ICT Standardisation Priorities for the digital single market proposes priority actions in the domain of Cloud. Actions mentioned below reflect some of them.
+**RP:** *The Communication on ICT Standardisation Priorities for the digital single market proposes priority actions in the domain of Cloud. Actions mentioned below reflect some of them.
 
-''Action 1: Identify needs for ICT standards to further improve the interoperability, data protection and portability of cloud services and start respective development activities.
+*Action 1: Identify needs for ICT standards to further improve the interoperability, data protection and portability of cloud services and start respective development activities.
 
-''Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services.
+*Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services.
 
-''Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation.
+*Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation.
 
-''Action 4:  Promote international standards on service level agreements (SLAs) and usage of the cloud code of conduct (CoC).
+*Action 4:  Promote international standards on service level agreements (SLAs) and usage of the cloud code of conduct (CoC).
 
-''Action 5: ESOs are asked to update the mapping of cloud standards and guidelines for end-users (especially SMEs and the public sector), in collaboration with international SDOs, cloud providers and end users. This action could also draw on the material developed, e.g. to update the standards mapping carried out by cloud standards coordination phases 1 & 2.
+*Action 5: ESOs are asked to update the mapping of cloud standards and guidelines for end-users (especially SMEs and the public sector), in collaboration with international SDOs, cloud providers and end users. This action could also draw on the material developed, e.g. to update the standards mapping carried out by cloud standards coordination phases 1 & 2.
 
-''Action 6: Promote the use of the ISO/IEC JTC 1 reference cloud architecture and define generic cloud architecture building blocks. Map available standards to the generic cloud architecture building blocks. Define privacy, security and test standards for each building block. This will also help determine which standards can be used for open cloud platforms and architectures taking into account the key role of open source for cloud infrastructure design and implementations.
+*Action 6: Promote the use of the ISO/IEC JTC 1 reference cloud architecture and define generic cloud architecture building blocks. Map available standards to the generic cloud architecture building blocks. Define privacy, security and test standards for each building block. This will also help determine which standards can be used for open cloud platforms and architectures taking into account the key role of open source for cloud infrastructure design and implementations.
 
 The IETF has multiple groups working on standards for virtualization techniques, including techniques used in cloud computing and datacenters.
 
@@ -228,24 +228,24 @@ The [https://datatracker.ietf.org/rg/coinrg/about/ Computing in the Network Rese
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud]
 
-=== 3.1.3. Big data, open data and public sector information === #OpenData
+### 3.1.3. Big data, open data and public sector information === #OpenData
 
-'''RP:''' ''With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
+**RP:** *With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
 
-''Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.''
+*Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.*
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.1.4. Internet of Things === #IOT
+### 3.1.4. Internet of Things === #IOT
 
-'''RP:''' ''The Communication on ICT standardisation priorities for the digital single market proposes priority actions in the domain of internet of things. Actions mentioned below reflect some of them.
+**RP:** *The Communication on ICT standardisation priorities for the digital single market proposes priority actions in the domain of internet of things. Actions mentioned below reflect some of them.
 Action 1: SDOs to complement ongoing gap analysis by analysis of gaps in wireless technologies required by IoT, including URLL (Ultra Reliable Low Latency) technologies required by Industry Automation.
 Action 2: SDOs to continue ongoing work in the area of semantic standards for better data interoperability.
 Action 3: SDOs to provide standards that can be used for compliance for IoT products, systems, applications and processes.
 Action 4: Develop a European standard for cyber security compliance of products that is aligned with the current compliance framework of organisations based on ISO 270xx and the GDPR regulation. Preferably the standard could be used to harmonise the requirements set out in the NIS directive.
 Action 5: Promote the development and foster the adoption of the international Reference Architecture for IoT developed in ISO/IEC JTC 1 SC41.
 Action 6: SDOs to assess gaps and develop standards on safety and cybersecurity of IoT consumer products under the European Cybersecurity Act or sectorial legislation.
-Action 7: SDOs should consider further inclusion of and outreach to verticals.''
+Action 7: SDOs should consider further inclusion of and outreach to verticals.*
 
 The IETF has a number of Working Groups chartered to develop standards to support the Internet of Things.
 
@@ -286,9 +286,9 @@ While the IoT-oriented IETF working groups have already produced the first wave 
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT]
 
-=== 3.1.5 Electronic identification and trust services including e-signatures ===  #eIdentity
+### 3.1.5 Electronic identification and trust services including e-signatures ===  #eIdentity
 
-'''RP:''' ''The eIDAS Regulation adopted on 23 July 2014 addresses in one comprehensive piece of legislation, electronic identification, electronic signatures, electronic seals, time stamping, electronic delivery, electronic documents and website certificates as core instruments for electronic transactions. To support the implementation of this highly technical regulation, further standardisation work will be needed. In the case of  trust services, the planned secondary legislation refers extensively to the availability of standards as possible means to meet the regulatory requirements. Existing standards should be checked to take account of the protection of individuals with regard to personal data processing and the free movement of such data. Specific privacy by design standards should be identified and where needed developed. The accessibility needs of persons with disabilities should also be taken into account.
+**RP:** *The eIDAS Regulation adopted on 23 July 2014 addresses in one comprehensive piece of legislation, electronic identification, electronic signatures, electronic seals, time stamping, electronic delivery, electronic documents and website certificates as core instruments for electronic transactions. To support the implementation of this highly technical regulation, further standardisation work will be needed. In the case of  trust services, the planned secondary legislation refers extensively to the availability of standards as possible means to meet the regulatory requirements. Existing standards should be checked to take account of the protection of individuals with regard to personal data processing and the free movement of such data. Specific privacy by design standards should be identified and where needed developed. The accessibility needs of persons with disabilities should also be taken into account.
 
 Action 1. Build on the work done under Mandate M/460, in the following way: address the trust service providers (TSP) providing signature creation services, the TSPs providing signature validation services, and standards for trust application service providers. Support harmonisation of identity proofing, particularly in relation certificate issuance and remote signing. 
 
@@ -296,7 +296,7 @@ Action 2. Take ongoing EU policy activities into account in standardisation, e.g
 
 Action 3. Support and improve the development of interoperable standards by facilitating the organisation of plugtests (interoperability events) and developing and enhancing conformity testing tools. Such interoperability events may address CAdES, XAdES, PAdES, ASiC, use of trusted lists, signature validation, remote signature creation and validation, e-delivery services, preservation services, etc.
 
-Action 4. Foster the development of standards supporting the implementation of the measures derived from the revision of the eIDAS regulation, aimed to improve its effectiveness, extend its benefits to the private sector and promote trusted digital identities for all Europeans.''
+Action 4. Foster the development of standards supporting the implementation of the measures derived from the revision of the eIDAS regulation, aimed to improve its effectiveness, extend its benefits to the private sector and promote trusted digital identities for all Europeans.*
 
 The following IETF Working Groups are active in this area:
 
@@ -310,18 +310,18 @@ The [https://datatracker.ietf.org/wg/acme/about/ Automated Certificate Managemen
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity]
 
-=== 3.1.6 e-Infrastructures for research data and computing intensive science ===  #eInfra
+### 3.1.6 e-Infrastructures for research data and computing intensive science ===  #eInfra
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.1.7 Broadband infrastructure mapping ===  #BImap
+### 3.1.7 Broadband infrastructure mapping ===  #BImap
 
-'''RP:''' ''Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension. 
+**RP:** *Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension. 
 In order to achieve the EU broadband objectives of the Digital Agenda Europe, it is fundamentally important that there is reliable and valid data on existing and planned broadband infrastructures, services offered; and demand and investment. A standardised mapping of broadband infrastructures and services as well as of other related data will help identify gaps of broadband coverage and quality of service level  and identify suitable areas of investment. Increasing the reliability of coverage data (QS1) will be particularly useful to avoid duplication of financing as subsidies can be allocated to areas truly affected by market failure and regulatory needs linked to market regulation.  Gathering reliable quality of service data (QS2 and QS3) based on common methodologies will feed into other regulatory aspect linked to net neutrality and consumer protection as well as assisting in the provision of reliable 5G services to vertical industries.
 
 Action 1 SDOs to develop standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
 
-Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.'' 
+Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.* 
 
 The [https://datatracker.ietf.org/wg/lmap/about/ Large-Scale Measurement of Broadband Performance (LMAP) Working Group] standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
 
@@ -329,9 +329,9 @@ Measuring portions of the Internet on a large scale is essential for accurate ch
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap]
 
-=== 3.1.8 Accessibility of ICT products and services === #ICTAccess
+### 3.1.8 Accessibility of ICT products and services === #ICTAccess
 
-'''RP:''' ''Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.''
+**RP:** *Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.*
 
 Relevant work may be found in the [https://datatracker.ietf.org/wg/#art ART area]. For instance [http://www.rfc-editor.org/rfc/rfc3551.txt RFC 3551] identifies the requirements for SIP to support the hearing impaired and [http://www.rfc-editor.org/rfc/rfc4103.txt RFC4103] defines the RTP payload for text conversation.
 
@@ -339,31 +339,31 @@ RFCs [http://www.rfc-editor.org/rfc/rfc4103.txt  4103]  and [http://www.rfc-edit
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess]
 
-=== 3.1.9 Artificial Intelligence === #AI
+### 3.1.9 Artificial Intelligence === #AI
 
-'''RP:''' ''AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
+**RP:** *AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
 
-''Most of these activities are recent and will lead to requests for developing new standards. For the time being, there are no significant past activities to report about their progress.
+*Most of these activities are recent and will lead to requests for developing new standards. For the time being, there are no significant past activities to report about their progress.
 
-''The most likely areas where new AI standards will be required are the following:
+*The most likely areas where new AI standards will be required are the following:
 
-* ''AI vocabulary and definitions
-* ''Benchmarking
-* ''Ethics
-* ''Safety
-* ''Knowledge representation
-* ''Data interchange formats
-* ''Computer system integration and APIs
+* *AI vocabulary and definitions
+* *Benchmarking
+* *Ethics
+* *Safety
+* *Knowledge representation
+* *Data interchange formats
+* *Computer system integration and APIs
 
-''Action 1: Foster coordination and interaction of all stakeholders in providing European requirements for AI, e.g. based on the work of the AI High Level Expert Group, Members States initiatives, OECD etc. Encourage the development of shared visions as a basis for input and requirements to standardisation 
+*Action 1: Foster coordination and interaction of all stakeholders in providing European requirements for AI, e.g. based on the work of the AI High Level Expert Group, Members States initiatives, OECD etc. Encourage the development of shared visions as a basis for input and requirements to standardisation 
 
-''Action 2: SDOs should coordinate their efforts on AI standardisation in Europe and internationally, especially ISO/IEC JTC 1 SC 42 
+*Action 2: SDOs should coordinate their efforts on AI standardisation in Europe and internationally, especially ISO/IEC JTC 1 SC 42 
 
-''Action 3: SDOs should establish coordinated linkages with, and consider European requirements from, initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the results of the EU HLEG on AI and also the European Parliament, Member States' initiatives, Council of Europe, and others 
+*Action 3: SDOs should establish coordinated linkages with, and consider European requirements from, initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the results of the EU HLEG on AI and also the European Parliament, Member States' initiatives, Council of Europe, and others 
 
-''Action 4: SDOs to consider cybersecurity and related aspects of artificial intelligence, to identify gaps and develop the necessary standards on safety, privacy and security of artificial intelligence, to protect against malicious artificial intelligence and to use artificial intelligence to protect against cyber-attacks 
+*Action 4: SDOs to consider cybersecurity and related aspects of artificial intelligence, to identify gaps and develop the necessary standards on safety, privacy and security of artificial intelligence, to protect against malicious artificial intelligence and to use artificial intelligence to protect against cyber-attacks 
 
-''Action 5: Within the AI4EU initiative, identify leading open source activities which complement standardisation work and analyse to what extend they respond to EU requirements. Where useful establish dialogue, liaisons or partnerships with such open source projects.
+*Action 5: Within the AI4EU initiative, identify leading open source activities which complement standardisation work and analyse to what extend they respond to EU requirements. Where useful establish dialogue, liaisons or partnerships with such open source projects.
 
 The IETF [https://datatracker.ietf.org/wg/anima/about/ Autonomic Networking Integrated Model and Approach] Working Group will develop a system of autonomic functions that carry out the intentions of the network operator without the need for detailed low-
 level management of individual devices. This will be done by providing a
@@ -391,13 +391,13 @@ autonomic network infrastructure, in order to reduce operating expenses.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI]
 
-=== 3.1.10 European Global Navigation Satellite System (EGNSS) === #EGNSS
+### 3.1.10 European Global Navigation Satellite System (EGNSS) === #EGNSS
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS]
 
-=== 3.1.11 Quantum Technologies === #Quantum
+### 3.1.11 Quantum Technologies === #Quantum
 
 The Internet Research Task Force (IRTF) has hosted the [https://irtf.org/qirg Quantum Internet Research Group (QIRG)] since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [https://www.irtf.org/mailman/listinfo/qirg mailing list] which can be freely subscribed and posted to. The entire mailing list archive is [https://mailarchive.ietf.org/arch/browse/qirg/ publicly available online]. The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings.
 The scope of the QIRG’s work is defined in its [https://irtf.org/qirg charter]. A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet.
@@ -413,19 +413,19 @@ Since quantum networks are so different when compared to classical networking, t
 
 ----
 
-== 3.2 Societal challenges ==
+## 3.2 Societal challenges 
 
-=== 3.2.1 eHealth, healthy living and ageing === #eHealth
-
-,,Editor's note: No specific work identified in the IETF or IRTF,,
-
-=== 3.2.2 Education, digital skills and digital learning === #eSkills
+### 3.2.1 eHealth, healthy living and ageing === #eHealth
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.2.3 Emergency communications and public warning systems === #Emergency
+### 3.2.2 Education, digital skills and digital learning === #eSkills
 
-RP: ''The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC).
+,,Editor's note: No specific work identified in the IETF or IRTF,,
+
+### 3.2.3 Emergency communications and public warning systems === #Emergency
+
+RP: *The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC).
 Standards for total conversation access to 112 are required to meet special needs for users’ rights under Directive 2009/136/EC.  
 The lack of harmonised values for location accuracy and reliability hampers Member State's efforts to develop adequate solutions.
 
@@ -447,7 +447,7 @@ Action 8 SDOs to describe the architecture (currently named Next Generation Emer
 
 Action 9 SDOs to set requirements, functional architecture, protocol and procedures specification for a Pan European mobile emergency application.
  
-Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.''
+Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.*
 
 The [https://datatracker.ietf.org/wg/ecrit/about/ Emergency Context Resolution with Internet Technologies (ECRIT) Working Group] has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
@@ -459,17 +459,17 @@ The [https://datatracker.ietf.org/wg/stir/about/ Secure Telephone Identity Revis
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency]
 
-=== 3.2.4 eGovernment === #eGov
+### 3.2.4 eGovernment === #eGov
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.2.5 eCall === #eCall
+### 3.2.5 eCall === #eCall
 
-'''RP:''' ''In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually.
+**RP:** *In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually.
 Further conformance, performance and periodic tests need to be developed and innovative solutions found for situations (such as low cost, low power P2WVs) where normal full eCall provisions are not practical.
 The European eCall Implementation Platform is making recommendations to ensure the best operation of the service and to take full advantage of all its possibilities. eCall is regulated for the life of the vehicle, and further provisions may be required in respect of periodic technical inspection (PTI) and test, and at end of life decommissioning.
 Recognising that introducing the service via new vehicle models will mean taking considerable time to equip all cars, EU regulation has already encouraged automotive manufacturers to voluntarily introduce eCall in existing models. However, now that the public land mobile network (PLMN) and PSAP support networks are in place and operational, there is a considerable aftermarket opportunity to bring the benefits of eCall to the current stock of vehicles throughout Europe, and several equipment vendors (both from within Europe and abroad) have already shown interest to fill this market niche, in some cases directly for 112-eCall, and in others for third-party service-supported eCall. Other entrants are expected. However, as it will prove more difficult to control the performance and quality of such aftermarket devices, there is an urgent need to develop standards for the physical parameters, installation and operational performance of such aftermarket devices, to enable adequate certification and PTI provisions. This will be essential to avoid PSAPs to be potentially inundated with false messages from such devices, and to increase the reliable and safe operation of such devices.
-Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to  the current regulations.''
+Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to  the current regulations.*
 
 The [https://datatracker.ietf.org/wg/ecrit/about/ Emergency Context Resolution with Internet Technologies (ECRIT) Working Group] has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
@@ -479,77 +479,77 @@ The application-specific working groups in the IETF (for example, the [https://d
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall]
 
-=== 3.2.6 Covid-19 === #Covid19
+### 3.2.6 Covid-19 === #Covid19
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.2.7 Safety, transparency and due process online === #Safety
+### 3.2.7 Safety, transparency and due process online === #Safety
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
 ----
 
-== 3.3 Innovation for the Digital Single Market ==
+## 3.3 Innovation for the Digital Single Market 
 
-=== 3.3.1 e-Procurement – Pre and Post award === #eProcurement
-
-,,Editor's note: No specific work identified in the IETF or IRTF,,
-
-=== 3.3.2 e-Invoicing === #eInvoice
+### 3.3.1 e-Procurement – Pre and Post award === #eProcurement
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.3.3 Retail Payments === #MobPay
+### 3.3.2 e-Invoicing === #eInvoice
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.3.4 Preservation of digital cinema === #DigCinema
+### 3.3.3 Retail Payments === #MobPay
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.3.5 Fin-Tech and Reg-Tech standardisation === #FinTech
-
-''RP:'' ''Traditional financial institutions realize they have a lot to lose or gain from the Fintech revolution and invest huge effort and money to adapt their technology and processes to adjust to a new environment, find a place in this new ecosystem, compete with new business models and respond to new consumer needs and behaviours. Across Europe, there has been considerable uptake of new digital channels: over 58% of Western Europeans (85% for Northern Europeans) prefer to use digital over physical branches, compared to 52% of US bank customers. These trends have grabbed the attention of investors who have made massive investments, growing by 75% in 2015 to $22.3bn, five times higher than in 2013.
-
-''Fintech start-ups appear with innovative solutions challenging existing financial services business models, markets and regulation. The existing legal framework is being reviewed at EU level and the concept of regulatory experimentation frameworks (or sandboxes) explored to help address this transformation and enable innovation.   
-
-''Some regulatory adjustments have already been adopted such as amendments to the Anti-Money Laundering directive and the use of electronic identification. Since July 2016, the Electronic Identification and Trust Services Regulation can give e-transactions and other e-signed documents the same legal status as those that are paper-based. The new Capital Requirement Regulation CRR2 package adopted in 2016 takes technological innovations into consideration, and so is the 2017 Action Plan for Retail Financial Services.
-
-''Following several public consultations regarding financial services and the EU Parliament report on blockchain and virtual currencies, the Commission has set-up a horizontal Financial Technology Task Force to explore the impact of new financial technologies on consumers and businesses and the possible risks for financial stability. One of the work streams of the Task Force focuses on Interoperability and Standardisation.
-
-''In parallel, and in relation to the need for more harmonised supervisory reporting, in its Communication on the CfE: “EU regulatory framework for financial services" the Commission committed to investigate and address the concerns around the costs and complexity of reporting by undertaking a review of reporting requirements in the financial sector. This work is performed within the ongoing financial data standardisation (FDS) project which will produce a comprehensive mapping of reporting requirements and aims to develop a common language on financial data. This initiative forms a key contribution to the Commission's Better Regulation agenda and the Regulatory Fitness and Performance (REFIT) programme, which ensures that EU Legislation delivers results for citizens and businesses effectively, efficiently and at minimum cost.''
+### 3.3.4 Preservation of digital cinema === #DigCinema
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.3.6 Blockchain and Distributed Digital Ledger Technologies === #Ledger
+### 3.3.5 Fin-Tech and Reg-Tech standardisation === #FinTech
 
-''RP:'' ''Blockchain has great potential in providing an infrastructure for trusted, decentralised and disintermediated services beyond the financial sector. The first Semester of 2018 has seen $6.3bn invested in ICOs and $885mn for VC.[1]
+*RP:* *Traditional financial institutions realize they have a lot to lose or gain from the Fintech revolution and invest huge effort and money to adapt their technology and processes to adjust to a new environment, find a place in this new ecosystem, compete with new business models and respond to new consumer needs and behaviours. Across Europe, there has been considerable uptake of new digital channels: over 58% of Western Europeans (85% for Northern Europeans) prefer to use digital over physical branches, compared to 52% of US bank customers. These trends have grabbed the attention of investors who have made massive investments, growing by 75% in 2015 to $22.3bn, five times higher than in 2013.
 
-''While the FinTech industry has been an early adopter because of its early awareness of bitcoin, blockchain will benefit many other industries. It is considered a foundational technology that some compare to the raise of the Internet in the early 90s. More than a technology, it could lead to a major political innovation by redefining the way we operate transactions, access information and share data (e.g. empowering patients to securely share e-health records and decide who to grant access to their data).
+*Fintech start-ups appear with innovative solutions challenging existing financial services business models, markets and regulation. The existing legal framework is being reviewed at EU level and the concept of regulatory experimentation frameworks (or sandboxes) explored to help address this transformation and enable innovation.   
 
-''Blockchain is a promising technology to share data and manage transactions in a controlled manner, with many possible applications to deliver social goods in the field of eHealth and eGovernment, health records, land registries or the security certification of links in an Internet of Things chain of devices, manage intellectual property rights and eID. 
+*Some regulatory adjustments have already been adopted such as amendments to the Anti-Money Laundering directive and the use of electronic identification. Since July 2016, the Electronic Identification and Trust Services Regulation can give e-transactions and other e-signed documents the same legal status as those that are paper-based. The new Capital Requirement Regulation CRR2 package adopted in 2016 takes technological innovations into consideration, and so is the 2017 Action Plan for Retail Financial Services.
 
-''It has also great potential for the private sector, in trading, contracting, supply chain management, traceability along industrial supply chains (e.g. on social & environmental conditions of work, on material composition or on the maintenance history of the item) and much more. It may also transform the governance of private organisations and of companies (concept of Decentralised Autonomous Organisation - DAO), and hence impact labour rights. Furthermore, from a regulatory and supervisory point of view, it can provide regulators with the same view into the data as the companies they're regulating, thereby reducing fraud and compliance costs.
+*Following several public consultations regarding financial services and the EU Parliament report on blockchain and virtual currencies, the Commission has set-up a horizontal Financial Technology Task Force to explore the impact of new financial technologies on consumers and businesses and the possible risks for financial stability. One of the work streams of the Task Force focuses on Interoperability and Standardisation.
 
-''However, this process is hindered by a lack of harmonisation and interoperability that constitute obstacles to cross border and cross sector transactions. The responsibility for public policy-makers would be to support innovation within a safe and future-proof technological and regulatory environment, ensuring appropriate transparency, accessibility, monitoring and governance
+*In parallel, and in relation to the need for more harmonised supervisory reporting, in its Communication on the CfE: “EU regulatory framework for financial services" the Commission committed to investigate and address the concerns around the costs and complexity of reporting by undertaking a review of reporting requirements in the financial sector. This work is performed within the ongoing financial data standardisation (FDS) project which will produce a comprehensive mapping of reporting requirements and aims to develop a common language on financial data. This initiative forms a key contribution to the Commission's Better Regulation agenda and the Regulatory Fitness and Performance (REFIT) programme, which ensures that EU Legislation delivers results for citizens and businesses effectively, efficiently and at minimum cost.*
 
-''In the context of a DSM where the amount of online transactions and data is exploding, setting the right conditions for the advent of an open, trustworthy, transparent, compliant and authenticated transaction system is a real challenge for the EU. Existing decentralised environments lack trust, accountability, interoperability, regulatory certainty and mature governance models.
+,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-''Action 1: The standardisation community should continue analysing possible standardisation gaps and reflect on best way to fill them. Activities may focus on governance and interoperability, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
+### 3.3.6 Blockchain and Distributed Digital Ledger Technologies === #Ledger
 
-''Action 2: Regularly update the white paper on the EU perspective on blockchain/DLT standardisation.
+*RP:* *Blockchain has great potential in providing an infrastructure for trusted, decentralised and disintermediated services beyond the financial sector. The first Semester of 2018 has seen $6.3bn invested in ICOs and $885mn for VC.[1]
 
-''Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, TOOP, etc..) and submit them to relevant standardization bodies, including CEN-CENELEC and ETSI, and also ISO, ITU
+*While the FinTech industry has been an early adopter because of its early awareness of bitcoin, blockchain will benefit many other industries. It is considered a foundational technology that some compare to the raise of the Internet in the early 90s. More than a technology, it could lead to a major political innovation by redefining the way we operate transactions, access information and share data (e.g. empowering patients to securely share e-health records and decide who to grant access to their data).
 
-''Action 4:  Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
+*Blockchain is a promising technology to share data and manage transactions in a controlled manner, with many possible applications to deliver social goods in the field of eHealth and eGovernment, health records, land registries or the security certification of links in an Internet of Things chain of devices, manage intellectual property rights and eID. 
 
-''Action 5: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
+*It has also great potential for the private sector, in trading, contracting, supply chain management, traceability along industrial supply chains (e.g. on social & environmental conditions of work, on material composition or on the maintenance history of the item) and much more. It may also transform the governance of private organisations and of companies (concept of Decentralised Autonomous Organisation - DAO), and hence impact labour rights. Furthermore, from a regulatory and supervisory point of view, it can provide regulators with the same view into the data as the companies they're regulating, thereby reducing fraud and compliance costs.
 
-''Action 6: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
+*However, this process is hindered by a lack of harmonisation and interoperability that constitute obstacles to cross border and cross sector transactions. The responsibility for public policy-makers would be to support innovation within a safe and future-proof technological and regulatory environment, ensuring appropriate transparency, accessibility, monitoring and governance
 
-''Action 7: A general framework for Governance of the European networks based on DLT should be developed to allow the flow of smart contracts between different networks.
+*In the context of a DSM where the amount of online transactions and data is exploding, setting the right conditions for the advent of an open, trustworthy, transparent, compliant and authenticated transaction system is a real challenge for the EU. Existing decentralised environments lack trust, accountability, interoperability, regulatory certainty and mature governance models.
 
-''Action 8: ESOs to develop the standards needed for the for the introduction of a private-sector programmable Euro, in particular to ensure interoperability.
+*Action 1: The standardisation community should continue analysing possible standardisation gaps and reflect on best way to fill them. Activities may focus on governance and interoperability, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
+
+*Action 2: Regularly update the white paper on the EU perspective on blockchain/DLT standardisation.
+
+*Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, TOOP, etc..) and submit them to relevant standardization bodies, including CEN-CENELEC and ETSI, and also ISO, ITU
+
+*Action 4:  Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
+
+*Action 5: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
+
+*Action 6: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
+
+*Action 7: A general framework for Governance of the European networks based on DLT should be developed to allow the flow of smart contracts between different networks.
+
+*Action 8: ESOs to develop the standards needed for the for the introduction of a private-sector programmable Euro, in particular to ensure interoperability.
 
 The [https://datatracker.ietf.org/rg/dinrg/about/ Decentralized Internet Infrastructure Research Group] (DINRG) will investigate open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
 
@@ -559,11 +559,11 @@ More details of the DIN RG are [https://trac.ietf.org/trac/irtf/wiki/blockchain-
 
 ----
 
-== 3.4 Sustainable growth ==
+## 3.4 Sustainable growth 
 
-===  3.4.1 Smart grids and Smart Metering === #SmartGrid
+###  3.4.1 Smart grids and Smart Metering === #SmartGrid
 
-'''RP:'''''Standards are needed to cover the communication needs of the grid management, balancing and interfacing with the millions of new renewable sources, as well as standards for the complex interactions of the new distributed energy market, and in special a transparent Demand Response scheme which is accessible for all consumers. Communication standards will also be crucial for the deployment of electric cars and the building-up of smart cities. Harmonised communication protocols would provide standard components and interfaces giving ‘plug-and-play’ capability for any new entrant to the network, such as renewables or electric cars, or the use of open architectures based on global communication standards. To further promote interoperability, in addition to standardisation, testing and profiling should also be considered. A major challenge is engaging the right stakeholders which need to be brought together to conduct the standardisation work taking into account that between smart grid management (of relevance to utility producers, the utility network operators) and smart consumption (involving the end consumer) a seamless environment should be established where interests are not identical and potentially conflicting.''
+**RP:***Standards are needed to cover the communication needs of the grid management, balancing and interfacing with the millions of new renewable sources, as well as standards for the complex interactions of the new distributed energy market, and in special a transparent Demand Response scheme which is accessible for all consumers. Communication standards will also be crucial for the deployment of electric cars and the building-up of smart cities. Harmonised communication protocols would provide standard components and interfaces giving ‘plug-and-play’ capability for any new entrant to the network, such as renewables or electric cars, or the use of open architectures based on global communication standards. To further promote interoperability, in addition to standardisation, testing and profiling should also be considered. A major challenge is engaging the right stakeholders which need to be brought together to conduct the standardisation work taking into account that between smart grid management (of relevance to utility producers, the utility network operators) and smart consumption (involving the end consumer) a seamless environment should be established where interests are not identical and potentially conflicting.*
 
 [http://www.rfc-editor.org/rfc/rfc6272.txt RFC6272] identifies the key infrastructure protocols of the Internet Protocol Suite for use in the Smart Grid.  The target audience is those people seeking guidance on how to construct an appropriate Internet Protocol Suite profile for the Smart Grid.  In practice, such a profile would consist of selecting what is needed for Smart Grid deployment from the picture presented here.
 
@@ -573,9 +573,9 @@ Many of the IETF Working Groups listed under [#IOT section 3.1.4 Internet of Thi
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid]
 
-=== 3.4.2 Smart Cities and communities / Technologies and Services for smart and efficient energy use === #SmartEnergy
+### 3.4.2 Smart Cities and communities / Technologies and Services for smart and efficient energy use === #SmartEnergy
 
-'''RP:''' ''In standards terms, there are some over-arching requirements, concerning standards for the way cities are managed, for common terminologies, for citizens’ interface with their local authority, etc. But mainly, smart city standards topics relate to the need to ensure commonalities —as far as these are appropriate and cost-effective— between the approaches taken by the different application areas, to enable the city to derive the best horizontal advantage from its overall approach and above all benefit from interoperability. The standards requirements as such for these application areas are specified in the Rolling Plan elsewhere at the appropriate points. The core components in such a complex system are the frameworks that assist companies, cities and other actors to provide appropriate solutions that prioritise economic, social and environmental outcomes. Solutions should address the whole lifecycle, optimising environmental, social and economic outcomes through the seamless transfer of information.''
+**RP:** *In standards terms, there are some over-arching requirements, concerning standards for the way cities are managed, for common terminologies, for citizens’ interface with their local authority, etc. But mainly, smart city standards topics relate to the need to ensure commonalities —as far as these are appropriate and cost-effective— between the approaches taken by the different application areas, to enable the city to derive the best horizontal advantage from its overall approach and above all benefit from interoperability. The standards requirements as such for these application areas are specified in the Rolling Plan elsewhere at the appropriate points. The core components in such a complex system are the frameworks that assist companies, cities and other actors to provide appropriate solutions that prioritise economic, social and environmental outcomes. Solutions should address the whole lifecycle, optimising environmental, social and economic outcomes through the seamless transfer of information.*
 
 The ​[https://datatracker.ietf.org/wg/eman/about/ Energy Management (EMAN) WG] has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
 
@@ -585,9 +585,9 @@ Many of the IETF Working Groups listed under [#IOT section 3.1.4 Internet of Thi
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy]
 
-=== 3.4.3. ICT Environmental Impact === #ICTenvironment
+### 3.4.3. ICT Environmental Impact === #ICTenvironment
 
-'''RP:''' ''A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.''
+**RP:** *A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.*
 
 The ​[https://datatracker.ietf.org/wg/eman/about/ Energy Management (EMAN) Working Group] has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
 
@@ -595,13 +595,13 @@ A recently published standards track specification ([https://tools.ietf.org/html
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment]
 
-=== 3.4.4. European Electronic Toll Service (EETS) === #Toll
+### 3.4.4. European Electronic Toll Service (EETS) === #Toll
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility === #IntelligentTransport
+### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility === #IntelligentTransport
 
-'''RP:''' ''To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.''
+**RP:** *To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.*
 
 The [https://datatracker.ietf.org/wg/ecrit/about/ Emergency Context Resolution with Internet Technologies (ECRIT) Working Group] has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
@@ -620,37 +620,37 @@ This group's primary deliverable (and the only Standards track item) will be a d
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IntelligentTransport https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IntelligentTransport]
 
-=== 3.4.6 Digitisation of European Industry === #AdvancedManufacturing
+### 3.4.6 Digitisation of European Industry === #AdvancedManufacturing
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.7. Robotics and autonomous systems === #Robotics
+### 3.4.7. Robotics and autonomous systems === #Robotics
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.8 Construction - Building Information Modelling === #Construction
+### 3.4.8 Construction - Building Information Modelling === #Construction
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.9 Common Information Sharing Environment (CISE) for the EU maritime domain === #cise
+### 3.4.9 Common Information Sharing Environment (CISE) for the EU maritime domain === #cise
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.10 Water Management Digitisation === #WaterMan
+### 3.4.10 Water Management Digitisation === #WaterMan
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.11 Single European Sky === #SingleSky
+### 3.4.11 Single European Sky === #SingleSky
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-=== 3.4.12 U-Space === #uSpace
+### 3.4.12 U-Space === #uSpace
 
-'''RP:''' ''U-space is a set of new services relying on a high level of digitalisation and automation of functions and specific procedures, supported by AI, designed to provide safe, efficient and secure access to airspace for large numbers of unmanned aircraft, operating automatically and beyond visual line of sight. This initiative confirms the EU’s ambition to develop sustainable and digital mobility solutions.'
+**RP:** *U-space is a set of new services relying on a high level of digitalisation and automation of functions and specific procedures, supported by AI, designed to provide safe, efficient and secure access to airspace for large numbers of unmanned aircraft, operating automatically and beyond visual line of sight. This initiative confirms the EU’s ambition to develop sustainable and digital mobility solutions.'
 
-''Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data: between air navigation service providers, common information service providers and U-space service providers; and between U-space service providers and UAS operators.
+*Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data: between air navigation service providers, common information service providers and U-space service providers; and between U-space service providers and UAS operators.
 
-''Action 2: The following complementary actions could be developed in addition to the standardisation action: Development of a reference implementation of U-space software components to facilitate the adoption of U-space. Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
+*Action 2: The following complementary actions could be developed in addition to the standardisation action: Development of a reference implementation of U-space software components to facilitate the adoption of U-space. Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
 
 The [https://datatracker.ietf.org/wg/drip/about/ Drone Remote ID Protocol (drip) WG] has recently formed in the IETF. Civil Aviation Authorities (CAAs) worldwide have initiated rule making for Unmanned Aircraft Systems (UAS) Remote Identification (RID). CAAs currently promulgate performance-based regulations that do not mandate specific techniques, but rather cite industry-consensus technical standards as acceptable means of compliance. One key standard is ASTM International (formerly the American Society for Testing and Materials) WK65041. This technical specification defines UAS RID message formats, and transmission methods. Network RID defines a set of information for UAS to be made available globally via the Internet. Broadcast RID defines a set of messages for UAS to send locally one-way over Bluetooth or Wi-Fi. WK65041 does not address how to populate/query registries, how to ensure trustworthiness of information, nor how to make the information useful.
 
@@ -658,12 +658,12 @@ DRIP’s goal is to specify how RID can be made trustworthy and available in bot
 
 The working group will primarily leverage Internet standards (including HIP, EPP, RDAP, and DNS) and infrastructure as well as domain name registration business models. The WG will track and align with the requirements being developed by regulatory authorities, e.g., the International Civil Aviation Organization the European Union Aviation Safety Agency (EASA) delegated and implementing regulations, and the US Federal Aviation Administration (US FAA).
 
-=== 3.4.13 Circular economy === #CircularEconomy
+### 3.4.13 Circular economy === #CircularEconomy
 
 ,,Editor's note: No specific work identified in the IETF or IRTF,,
 
 ----
-== Document Editing History ==
+## Document Editing History 
 
   2013-07-04: Initial layout and first draft descriptions added.
 
@@ -698,4 +698,4 @@ The working group will primarily leverage Internet standards (including HIP, EPP
   2021-09-24: Archived RP2021, updates to reflect RP2022 changes from MSP, added text on asdf, iotops and madinas WGs.
 
   2022-09-21: Archived RP2022, updates to reflect RP2023 changes from MSP, added text on qirg, ohai, ppm, httpapi, and tigress WGs.
-Your content here
+
