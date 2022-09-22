@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:45:05.506Z
+date: 2022-09-22T13:48:53.524Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -257,7 +257,7 @@ The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.
 
 The IETF has a number of Working Groups chartered to develop standards to support the Internet of Things.
 
-The ​[IPv6 Over Low Power WPAN (6LOWPAN) Working Group](https://datatracker.ietf.org/wg/6lowpan/about/) developed standards to ensure interoperability between smart object networks and defining the necessary security and management protocols and constructs for building such networks. 
+The [IPv6 Over Low Power WPAN (6LOWPAN) Working Group](https://datatracker.ietf.org/wg/6lowpan/about/) developed standards to ensure interoperability between smart object networks and defining the necessary security and management protocols and constructs for building such networks. 
 
 The [IPv6 over Networks of Resource-constrained Nodes (6LO) Working Group](https://datatracker.ietf.org/wg/6lo/about/) develops IPv6 adaptation mechanisms to a wider range of radio technologies including “Bluetooth Low Energy” (RFC 7668), ITU-T G.9959 (as used in Z-Wave, RFC 7428), and the Digital Enhanced Cordless Telecommunications (DECT) Ultra Low Energy (ULE) cordless phone standard and the low-cost wired networking technology Master-Slave / Token-Passing (MS/TP) that is widely used over RS-485 in building automation.
 
@@ -265,7 +265,7 @@ The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf
 
 The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/roll/about/) focuses on helping the implementors of the smallest devices. The goal is to be able to build minimal yet interoperable IP-capable devices for the most constrained environments.
 
-The ​[Routing over Low Power and Lossy Networks (ROLL) Working Group](https://datatracker.ietf.org/wg/roll/about/) is developing standards to support the routing of communications within low-power and lossy networks.
+The [Routing over Low Power and Lossy Networks (ROLL) Working Group](https://datatracker.ietf.org/wg/roll/about/) is developing standards to support the routing of communications within low-power and lossy networks.
 
 The [Constrained RESTful Environments (CORE) Working Group](https://datatracker.ietf.org/wg/core/about/) is specifying protocols that allow applications running in resource-constrained environments to interoperate with each other and the rest of the Internet. CORE is one of the most active IoT groups. Its main output centres around the “Constrained Application Protocol” (CoAP, RFC 7252), a radically simplified UDP-based analog to HTTP. Extensions to CoAP enable group communications (RFC 7390) and low-complexity server-push for the observation of resources (RFC 7641). This is complemented by a discovery and self-description mechanism based on a weblink format suitable for constrained devices (RFC 6690). Current WG activities focus on extensions that enable transfer of large resources, use of resource directories for coordinating discovery, reusable interface descriptions, and the transport of CoAP over TCP and TLS. CoRE is also looking at a data format to represent sensor measurements, which will benefit from the “Concise Binary Object Representation” (CBOR) (RFC 7049), a JSON analog optimised for binary data and low-resource implementations.
 
@@ -578,27 +578,27 @@ More details of the DIN RG are [available](https://trac.ietf.org/trac/irtf/wiki/
 
 ## 3.4 Sustainable growth 
 
-###  3.4.1 Smart grids and Smart Metering === #SmartGrid
+###  3.4.1 Smart grids and Smart Metering
 
-**RP:***Standards are needed to cover the communication needs of the grid management, balancing and interfacing with the millions of new renewable sources, as well as standards for the complex interactions of the new distributed energy market, and in special a transparent Demand Response scheme which is accessible for all consumers. Communication standards will also be crucial for the deployment of electric cars and the building-up of smart cities. Harmonised communication protocols would provide standard components and interfaces giving ‘plug-and-play’ capability for any new entrant to the network, such as renewables or electric cars, or the use of open architectures based on global communication standards. To further promote interoperability, in addition to standardisation, testing and profiling should also be considered. A major challenge is engaging the right stakeholders which need to be brought together to conduct the standardisation work taking into account that between smart grid management (of relevance to utility producers, the utility network operators) and smart consumption (involving the end consumer) a seamless environment should be established where interests are not identical and potentially conflicting.*
+>Standards are needed to cover the communication needs of the grid management, balancing and interfacing with the millions of new renewable sources, as well as standards for the complex interactions of the new distributed energy market, and in special a transparent Demand Response scheme which is accessible for all consumers. Communication standards will also be crucial for the deployment of electric cars and the building-up of smart cities. Harmonised communication protocols would provide standard components and interfaces giving ‘plug-and-play’ capability for any new entrant to the network, such as renewables or electric cars, or the use of open architectures based on global communication standards. To further promote interoperability, in addition to standardisation, testing and profiling should also be considered. A major challenge is engaging the right stakeholders which need to be brought together to conduct the standardisation work taking into account that between smart grid management (of relevance to utility producers, the utility network operators) and smart consumption (involving the end consumer) a seamless environment should be established where interests are not identical and potentially conflicting.
 
-[http://www.rfc-editor.org/rfc/rfc6272.txt RFC6272] identifies the key infrastructure protocols of the Internet Protocol Suite for use in the Smart Grid.  The target audience is those people seeking guidance on how to construct an appropriate Internet Protocol Suite profile for the Smart Grid.  In practice, such a profile would consist of selecting what is needed for Smart Grid deployment from the picture presented here.
+[RFC6272](http://www.rfc-editor.org/rfc/rfc6272.txt) identifies the key infrastructure protocols of the Internet Protocol Suite for use in the Smart Grid.  The target audience is those people seeking guidance on how to construct an appropriate Internet Protocol Suite profile for the Smart Grid.  In practice, such a profile would consist of selecting what is needed for Smart Grid deployment from the picture presented here.
 
-The ​[https://datatracker.ietf.org/wg/eman/about/ Energy Management (EMAN) WG] has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
+The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See [here](http://datatracker.ietf.org/wg/eman/documents/) for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
 
-Many of the IETF Working Groups listed under [#IOT section 3.1.4 Internet of Things] above are developing standards for embedded devices that may also be applicable to Smart grids.
+Many of the IETF Working Groups listed under §3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to Smart grids.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid]
 
-### 3.4.2 Smart Cities and communities / Technologies and Services for smart and efficient energy use === #SmartEnergy
+### 3.4.2 Smart Cities and communities / Technologies and Services for smart and efficient energy use
 
-**RP:** *In standards terms, there are some over-arching requirements, concerning standards for the way cities are managed, for common terminologies, for citizens’ interface with their local authority, etc. But mainly, smart city standards topics relate to the need to ensure commonalities —as far as these are appropriate and cost-effective— between the approaches taken by the different application areas, to enable the city to derive the best horizontal advantage from its overall approach and above all benefit from interoperability. The standards requirements as such for these application areas are specified in the Rolling Plan elsewhere at the appropriate points. The core components in such a complex system are the frameworks that assist companies, cities and other actors to provide appropriate solutions that prioritise economic, social and environmental outcomes. Solutions should address the whole lifecycle, optimising environmental, social and economic outcomes through the seamless transfer of information.*
+>In standards terms, there are some over-arching requirements, concerning standards for the way cities are managed, for common terminologies, for citizens’ interface with their local authority, etc. But mainly, smart city standards topics relate to the need to ensure commonalities —as far as these are appropriate and cost-effective— between the approaches taken by the different application areas, to enable the city to derive the best horizontal advantage from its overall approach and above all benefit from interoperability. The standards requirements as such for these application areas are specified in the Rolling Plan elsewhere at the appropriate points. The core components in such a complex system are the frameworks that assist companies, cities and other actors to provide appropriate solutions that prioritise economic, social and environmental outcomes. Solutions should address the whole lifecycle, optimising environmental, social and economic outcomes through the seamless transfer of information.
 
-The ​[https://datatracker.ietf.org/wg/eman/about/ Energy Management (EMAN) WG] has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
+The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). 
 
-A recently published standards track specification ([https://tools.ietf.org/html/rfc7603 RFC7603]) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures. 
+A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs.  Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures. 
 
-Many of the IETF Working Groups listed under [#IOT section 3.1.4 Internet of Things] above are developing standards for embedded devices that may also be applicable to this section.
+Many of the IETF Working Groups listed under §3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to this section.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy]
 
