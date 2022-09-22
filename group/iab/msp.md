@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:52:38.242Z
+date: 2022-09-22T13:53:19.665Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -672,23 +672,25 @@ This group's primary deliverable (and the only Standards track item) will be a d
 {.is-info}
 
 
-### 3.4.12 U-Space === #uSpace
+### 3.4.12 U-Space
 
-**RP:** *U-space is a set of new services relying on a high level of digitalisation and automation of functions and specific procedures, supported by AI, designed to provide safe, efficient and secure access to airspace for large numbers of unmanned aircraft, operating automatically and beyond visual line of sight. This initiative confirms the EU’s ambition to develop sustainable and digital mobility solutions.'
+>U-space is a set of new services relying on a high level of digitalisation and automation of functions and specific procedures, supported by AI, designed to provide safe, efficient and secure access to airspace for large numbers of unmanned aircraft, operating automatically and beyond visual line of sight. This initiative confirms the EU’s ambition to develop sustainable and digital mobility solutions.'
+>
+>Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data: between air navigation service providers, common information service providers and U-space service providers; and between U-space service providers and UAS operators.
+>
+>Action 2: The following complementary actions could be developed in addition to the standardisation action: Development of a reference implementation of U-space software components to facilitate the adoption of U-space. Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
 
-*Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data: between air navigation service providers, common information service providers and U-space service providers; and between U-space service providers and UAS operators.
-
-*Action 2: The following complementary actions could be developed in addition to the standardisation action: Development of a reference implementation of U-space software components to facilitate the adoption of U-space. Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
-
-The [https://datatracker.ietf.org/wg/drip/about/ Drone Remote ID Protocol (drip) WG] has recently formed in the IETF. Civil Aviation Authorities (CAAs) worldwide have initiated rule making for Unmanned Aircraft Systems (UAS) Remote Identification (RID). CAAs currently promulgate performance-based regulations that do not mandate specific techniques, but rather cite industry-consensus technical standards as acceptable means of compliance. One key standard is ASTM International (formerly the American Society for Testing and Materials) WK65041. This technical specification defines UAS RID message formats, and transmission methods. Network RID defines a set of information for UAS to be made available globally via the Internet. Broadcast RID defines a set of messages for UAS to send locally one-way over Bluetooth or Wi-Fi. WK65041 does not address how to populate/query registries, how to ensure trustworthiness of information, nor how to make the information useful.
+The [Drone Remote ID Protocol (drip) WG](https://datatracker.ietf.org/wg/drip/about/) has recently formed in the IETF. Civil Aviation Authorities (CAAs) worldwide have initiated rule making for Unmanned Aircraft Systems (UAS) Remote Identification (RID). CAAs currently promulgate performance-based regulations that do not mandate specific techniques, but rather cite industry-consensus technical standards as acceptable means of compliance. One key standard is ASTM International (formerly the American Society for Testing and Materials) WK65041. This technical specification defines UAS RID message formats, and transmission methods. Network RID defines a set of information for UAS to be made available globally via the Internet. Broadcast RID defines a set of messages for UAS to send locally one-way over Bluetooth or Wi-Fi. WK65041 does not address how to populate/query registries, how to ensure trustworthiness of information, nor how to make the information useful.
 
 DRIP’s goal is to specify how RID can be made trustworthy and available in both Internet and local-only connected scenarios, especially in emergency situations. Some UAS operate in environments where the network or the devices or both are severely constrained in terms of processing, bandwidth (e.g., Bluetooth 4 beacon payload is 25 bytes long), or battery life, and DRIP aims to function in these environments. The specifications produced by the WG will need to balance public safety authorities’ need to know trustworthy information with UAS operators’ and other involved parties’ privacy.
 
 The working group will primarily leverage Internet standards (including HIP, EPP, RDAP, and DNS) and infrastructure as well as domain name registration business models. The WG will track and align with the requirements being developed by regulatory authorities, e.g., the International Civil Aviation Organization the European Union Aviation Safety Agency (EASA) delegated and implementing regulations, and the US Federal Aviation Administration (US FAA).
 
-### 3.4.13 Circular economy === #CircularEconomy
+### 3.4.13 Circular economy
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
+
 
 ----
 ## Document Editing History 
