@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T16:18:08.348Z
+date: 2022-09-22T16:19:03.014Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -682,6 +682,8 @@ The [Drone Remote ID Protocol (drip) WG](https://datatracker.ietf.org/wg/drip/ab
 DRIP’s goal is to specify how RID can be made trustworthy and available in both Internet and local-only connected scenarios, especially in emergency situations. Some UAS operate in environments where the network or the devices or both are severely constrained in terms of processing, bandwidth (e.g., Bluetooth 4 beacon payload is 25 bytes long), or battery life, and DRIP aims to function in these environments. The specifications produced by the WG will need to balance public safety authorities’ need to know trustworthy information with UAS operators’ and other involved parties’ privacy.
 
 The working group will primarily leverage Internet standards (including HIP, EPP, RDAP, and DNS) and infrastructure as well as domain name registration business models. The WG will track and align with the requirements being developed by regulatory authorities, e.g., the International Civil Aviation Organization the European Union Aviation Safety Agency (EASA) delegated and implementing regulations, and the US Federal Aviation Administration (US FAA).
+
+[https://wiki.ietf.org/en/group/iab/msp#h-3412-u-space](https://wiki.ietf.org/en/group/iab/msp#h-3412-u-space)
 
 ### 3.4.13 Circular economy
 
