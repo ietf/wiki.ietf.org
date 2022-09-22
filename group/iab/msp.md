@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T14:01:02.556Z
+date: 2022-09-22T15:42:29.197Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -37,7 +37,7 @@ Previous versions of the Rolling Plan and the IETF work that fits into it:
 - [Rolling Plan 2019](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2019)
 - [Rolling Plan 2020](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2020)
 - [Rolling Plan 2021](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2021)
-- [Rolling Plan 2022](https://trac.tools.ietf.org/group/iab/trac/wiki/Multi-Stake-Holder-Platform-RP2022)
+- [Rolling Plan 2022](/group/iab/msp-2022)
 
 ### Draft Rolling Plan 2023 
 
