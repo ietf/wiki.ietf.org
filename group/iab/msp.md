@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:21:08.369Z
+date: 2022-09-22T13:21:34.397Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -402,7 +402,7 @@ Since quantum networks are so different when compared to classical networking, t
 •	“[Genuine and Optimized Entanglement-Based Quantum Networks](https://www.youtube.com/watch?v=j-Ri-RRfUXY)” by Wolfgang Dür (University of Innsbruck),
 •	“[Building Quantum Networks at the Local-Area Scale](https://www.youtube.com/watch?v=D_Nb43-uicY)” by Marc Kaplan (VeriQloud)
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum]
+[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum]
 
 ----
 
