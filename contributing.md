@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-22T14:25:31.860Z
+date: 2022-09-22T14:40:02.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -19,6 +19,10 @@ Once you are logged in, you can create or edit pages on this wiki. Only administ
 ## Editing language
 All pages are written in the WikiJS [flavour](https://docs.requarks.io/en/editors/markdown) of **Markdown**.
 
+Please aim for a consistent style as follows:
+1. Start your headings at level 1 (single #).
+2. Use backticks for code blocks - single backticks for inline and triple backticks for a standalone block.
+
 ## Page and path naming convention
 Generally, this is one of the following forms: 
 ```
@@ -29,13 +33,19 @@ Generally, this is one of the following forms:
 * You can optionally add one or more path elements as **{{additional structure}}**.
 * The **{{page name}}** should be reasonably descriptive and consistent with the title that you will later give the page. 
 
+## Known limitations
+The wiki product we are using has the following known limitations:
+1. The page menu (the one that appears in the middle when the screen is wide enough, is auto-generated and auto-placed and this cannot be changed.
+1. The code highlighting library uses a low contrast theme by default and currently this cannot be changed.
+
 ## Sandbox
 If you want to try out the new wiki platform with out creating a page of your own, there's a [sandbox](/sandbox) to play in.
 
+# Step-by-step instructions
 ## Editing a page
 You can edit a page in one of two ways:
 1.  By selecting Edit from the Page Actions menu. If you can't see that menu then you are not logged in.
-2.  By submitting a pull request against the [GitHub repository](https://github.com/ietf/wiki.ietf.org).  See below for more details.
+1.  By submitting a pull request against the [GitHub repository](https://github.com/ietf/wiki.ietf.org).  See below for more details.
 
 Some online tools ease the initial creation of tables in Markdown ([Table generator](https://www.tablesgenerator.com/markdown_tables); [for copy/paste from spreadsheets](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)).
 
@@ -48,6 +58,7 @@ The first question you are asked is to provide a path for the page - please see 
 
 Then you are asked what Editor type you want to use - please choose a new **Markdown** page not one of the other types (code, wysiwyg, etc).
 
+Finally you are asked for a title for the page.  Please make this consistent with the page name you chose earlier.
 
 # Migrating from Trac and other legacy wikis
 If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.
