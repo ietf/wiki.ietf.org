@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:29:45.583Z
+date: 2022-09-22T12:42:18.795Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -53,29 +53,29 @@ Since there may not be sufficient specific policy area expertise for each of the
 
 ## 3.0 Foundational drivers 
 
-### 3.0.1 Data Economy === #dataEconomy
+### 3.0.1 Data Economy
 
-**RP:** *Digital technologies are transforming the economy and society, and data is at the centre of this transformation. Data-driven innovation will be essential for the modernisation of Europe and the data economy which has the potential of bringing enormous benefits for citizens, for example in support to medicine, mobility, Green Deal. The key role of data is reflected in many chapters of the rolling plan outlining the respective sector specific aspects. On top of that, and addressed in this chapter, data is of foundational and horizontal relevance.
-
-Action 1: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the digital transformation at the level of data-innovation and of the data economy.
-
-Action 2: SDOs to collaborate on developing a programme for addressing standardisation needs around all the data lifecycle, from data collection to record keeping, archiving and long term preservation of information and start the respective standardisation activities.
-
-Action 3: In the context of the MSP, start an analysis on the role of open source software complementing standardisation for the data economy, e.g. with APIs, protocols, service delivery and other platforms. 
-
-Action 4: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the interoperability of data as well as data sharing services between different sectors and domains.
-
-Action 5: SDOs to develop standards in support of the Data Governance Act, the Digital Services Act and the Digital Markets Act, taking into account the results of ISA2 program.
+> Digital technologies are transforming the economy and society, and data is at the centre of this transformation. Data-driven innovation will be essential for the modernisation of Europe and the data economy which has the potential of bringing enormous benefits for citizens, for example in support to medicine, mobility, Green Deal. The key role of data is reflected in many chapters of the rolling plan outlining the respective sector specific aspects. On top of that, and addressed in this chapter, data is of foundational and horizontal relevance.
+>
+>Action 1: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the digital transformation at the level of data-innovation and of the data economy.
+>
+>Action 2: SDOs to collaborate on developing a programme for addressing standardisation needs around all the data lifecycle, from data collection to record keeping, archiving and long term preservation of information and start the respective standardisation activities.
+>
+>Action 3: In the context of the MSP, start an analysis on the role of open source software complementing standardisation for the data economy, e.g. with APIs, protocols, service delivery and other platforms. 
+>
+>Action 4: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the interoperability of data as well as data sharing services between different sectors and domains.
+>
+>Action 5: SDOs to develop standards in support of the Data Governance Act, the Digital Services Act and the Digital Markets Act, taking into account the results of ISA2 program.
 
 The following IETF WGs are active in this area:
 
-The [https://datatracker.ietf.org/wg/httpapi/about/ Building Blocks for HTTP APIs (httpapi)] Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
+The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) working group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
 
-• Specifications for HTTP extensions that relate to HTTP APIs (typically, new HTTP header and/or trailer fields)
-• Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
-• Best practices and other documentation for HTTP API designers, consumers, implementers, operators, etc.
+* Specifications for HTTP extensions that relate to HTTP APIs (typically, new HTTP header and/or trailer fields)
+* Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
+* Best practices and other documentation for HTTP API designers, consumers, implementers, operators, etc.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#dataEconomy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#dataEconomy]
+[https://wiki.ietf.org/e/en/group/iab/msp](https://wiki.ietf.org/e/en/group/iab/msp#3.0.1-data-economy)
 
 ### 3.0.2 Cybersecurity / network and information security === #NISec
 
