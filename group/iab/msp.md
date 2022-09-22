@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:48:22.920Z
+date: 2022-09-22T12:53:23.333Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -77,7 +77,7 @@ The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/ht
 
 [https://wiki.ietf.org/e/en/group/iab/msp](https://wiki.ietf.org/e/en/group/iab/msp#-3.0.1-data-economy)
 
-### 3.0.2 Cybersecurity / network and information security === #NISec
+### 3.0.2 Cybersecurity / network and information security
 
 > The Communication on ICT standardisation priorities for the digital single market proposes actions on cybersecurity, considered as priority domain for Europe. For security and notification requirements for operators of essential services, the focus will be on establishing a number of reference standards and/or specifications relevant to network and information security, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practices across the EU.
 For security and notification requirements for digital service providers, in line with the objectives of the Digital single market strategy, the Directive aims to establish a harmonised set of requirements so that they can expect similar rules wherever they operate in the EU. It is important that all levels of an organisation –particularly the strategic level and the management board - are aware of the need for standards and frameworks for cybersecurity. Moreover, between organisations that are partners in (vital) online chains, clear agreements will have to be made on the different standards.
@@ -114,55 +114,56 @@ The full list of IETF Working Groups in the Security Area is [available here](ht
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec]
 
-### 3.0.3 ePrivacy === #ePrivacy
+### 3.0.3 ePrivacy
 
-**RP:** *The focus will be on establishing a number of reference standards and/or specifications relevant to privacy in the electronic communications environment, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practises across the Union. The Commission recently has proposed a mandate to European Standards Organisations seeking to routinely include privacy management methodologies in both the design and production phases of cybersecurity technologies generally.
-
-In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules.
-Proposed specific areas for SDOs to focus on are:
-
-Action 1:  Continuing work on standardising browser functionalities and defaults to enable users to easily control whether they want to be tracked.
-
-Action 2:  SDOs to work on standardised solutions for location data used by mobile applications.
-
-Action 3: SDOs to investigate standards for supporting compliance and certification of compliance with GDPR and possible other EU data privacy requirements.
-
-Action 4:  Promote EU-wide attention to standardisation of privacy statements and terms & conditions, given that there is mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, and taking into account the GDPR. The Kantara CIS work and the data use statements described in ISO/IEC 19944 could be used as a basis for this action.
-
-Action 5: SDOs to continue investigating technical measures apt to make personal data anonymous or pseudonymised (and therefore unintelligible by those who are not authorised to access them).
-
-Action 6:  SDOs to continue investigating how to warrant a user-centric approach in privacy & access management:  see http://www.laceproject.eu/blog/give-students-control-data/ and 
+>The focus will be on establishing a number of reference standards and/or specifications relevant to privacy in the electronic communications environment, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practises across the Union. The Commission recently has proposed a mandate to European Standards Organisations seeking to routinely include privacy management methodologies in both the design and production phases of cybersecurity technologies generally.
+>
+>In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules.
+>
+>Proposed specific areas for SDOs to focus on are:
+>
+>Action 1:  Continuing work on standardising browser functionalities and defaults to enable users to easily control whether they want to be tracked.
+>
+>Action 2:  SDOs to work on standardised solutions for location data used by mobile applications.
+>
+>Action 3: SDOs to investigate standards for supporting compliance and certification of compliance with GDPR and possible other EU data privacy requirements.
+>
+>Action 4:  Promote EU-wide attention to standardisation of privacy statements and terms & conditions, given that there is mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, and taking into account the GDPR. The Kantara CIS work and the data use statements described in ISO/IEC 19944 could be used as a basis for this action.
+>
+>Action 5: SDOs to continue investigating technical measures apt to make personal data anonymous or pseudonymised (and therefore unintelligible by those who are not authorised to access them).
+>
+>Action 6:  SDOs to continue investigating how to warrant a user-centric approach in privacy & access management:  see http://www.laceproject.eu/blog/give-students-control-data/ and 
 http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centred-personal-data-management-and-processing.
+>
+>Action 7: SDOs to prevent unwarranted pervasive monitoring by default when developing standards. This is not only relevant in the context the internet but also the IoT.
+>
+>Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.
 
-Action 7: SDOs to prevent unwarranted pervasive monitoring by default when developing standards. This is not only relevant in the context the internet but also the IoT.
+The [DNS PRIVate Exchange (dprive) WG](https://datatracker.ietf.org/wg/dprive/about/) develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
 
-Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.*
+The [DNS Over HTTPS (doh) WG](https://datatracker.ietf.org/wg/doh/about/) standardised encodings for DNS queries and responses that are suitable for use in HTTPS. This enables the domain name system to function over certain paths where existing DNS methods (UDP, TLS [RFC 7857], and DTLS [RFC 8094]) experience problems. [DNS Queries over HTTPS (RFC8484)](https://datatracker.ietf.org/doc/rfc8484/) was published in October 2018.
 
-The [https://datatracker.ietf.org/wg/dprive/about/ DNS PRIVate Exchange (dprive) WG] develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
-
-The [https://datatracker.ietf.org/wg/doh/about/ DNS Over HTTPS (doh) WG] standardised encodings for DNS queries and responses that are suitable for use in HTTPS. This enables the domain name system to function over certain paths where existing DNS methods (UDP, TLS [RFC 7857], and DTLS [RFC 8094]) experience problems. [https://datatracker.ietf.org/doc/rfc8484/ DNS Queries over HTTPS (RFC8484)] was published in October 2018.
-
-The [https://datatracker.ietf.org/wg/privacypass/about/ Privacy Pass (privacypass) WG] is standardising a protocol that provides a performant, application-layer
+The [Privacy Pass (privacypass) WG](https://datatracker.ietf.org/wg/privacypass/about/) is standardising a protocol that provides a performant, application-layer
 mechanism for token creation and anonymous redemption. Servers (Issuers) create and later verify tokens that are redeemed by an ecosystem of clients, such that:
 
-- An Issuer cannot link a redeemed token to one of N previously created tokens using the same key with probability non-negligibly larger than 1/N.
-- Clients can verify that a token created by an Issuer corresponds to a committed keypair.
-- Tokens are unforgeable.
-- The token issuance and redemption mechanisms are efficient.
+* An Issuer cannot link a redeemed token to one of N previously created tokens using the same key with probability non-negligibly larger than 1/N.
+* Clients can verify that a token created by an Issuer corresponds to a committed keypair.
+* Tokens are unforgeable.
+* The token issuance and redemption mechanisms are efficient.
 
-The [https://datatracker.ietf.org/wg/quic/about/ QUIC (quic) WG] is developing the QUIC protocol which provides end-to-end security for transport connections, including protection of header fields that are left unprotected by TLS. The QUIC working group's specifications are currently in last call, and will soon become recognised standards. The use of QUIC in the Internet is already quite high and growing.
+The [QUIC (quic) WG](https://datatracker.ietf.org/wg/quic/about/) is developing the QUIC protocol which provides end-to-end security for transport connections, including protection of header fields that are left unprotected by TLS. The QUIC working group's specifications are currently in last call, and will soon become recognised standards. The use of QUIC in the Internet is already quite high and growing.
 
-Many network topologies lead to situations where transport protocol proxying is beneficial. For example, proxying enables endpoints to communicate when end-to-end connectivity is not possible, or to apply additional encryption where desirable (such as a VPN). Proxying can also improve client privacy, e.g., by hiding a client's IP address from a target server. The [https://datatracker.ietf.org/wg/masque/about/ Multiplexed Application Substrate over QUIC Encryption (masque) WG] is developing mechanism(s) that allow configuring and concurrently running multiple proxied stream- and datagram-based flows inside an HTTPS connection. These mechanism(s) are collectively called MASQUE.
+Many network topologies lead to situations where transport protocol proxying is beneficial. For example, proxying enables endpoints to communicate when end-to-end connectivity is not possible, or to apply additional encryption where desirable (such as a VPN). Proxying can also improve client privacy, e.g., by hiding a client's IP address from a target server. The [Multiplexed Application Substrate over QUIC Encryption (masque) WG](https://datatracker.ietf.org/wg/masque/about/) is developing mechanism(s) that allow configuring and concurrently running multiple proxied stream- and datagram-based flows inside an HTTPS connection. These mechanism(s) are collectively called MASQUE.
 
-The [https://datatracker.ietf.org/wg/madinas/about/ MAC address Device Identification for Network and Application Services (madinas) Working Group] is documenting recommended means to reduce the impact of randomized and changing MAC addresses (RCM) while ensuring that the privacy achieved with RCM is not compromised. The Working Group will liaise with other relevant organizations, such as IEEE 802 and the Wireless Broadband Alliance (WBA), by coordinating on the different recommendations, as well as potential follow-up activities within or outside the IETF.
+The [MAC address Device Identification for Network and Application Services (madinas)](https://datatracker.ietf.org/wg/madinas/about/) working group is documenting recommended means to reduce the impact of randomized and changing MAC addresses (RCM) while ensuring that the privacy achieved with RCM is not compromised. The Working Group will liaise with other relevant organizations, such as IEEE 802 and the Wireless Broadband Alliance (WBA), by coordinating on the different recommendations, as well as potential follow-up activities within or outside the IETF.
 
 There are many situations in which it is desirable to take measurements of data which people consider sensitive. For instance, a browser company might want to measure web sites that do not render properly without learning which users visit those sites, or a public health authority might want to measure exposure to some disease without learning the identities of those exposed. In these cases, the entity taking the measurement is not interested in people's individual responses but rather in aggregated data (e.g., how many users had errors on site X). Conventional methods require collecting individual measurements in plaintext and then aggregating them, thus representing a threat to user privacy and rendering many such measurements difficult and impractical.
 
-New cryptographic techniques address this gap through a variety of approaches, all of which aim to ensure that the server (or multiple, non-colluding servers) can compute the aggregated value without learning the value of individual measurements. The [https://datatracker.ietf.org/wg/ppm/about/ Privacy Preserving Measurement (ppm)] Working Group will standardize protocols for deployment of these techniques on the Internet.
+New cryptographic techniques address this gap through a variety of approaches, all of which aim to ensure that the server (or multiple, non-colluding servers) can compute the aggregated value without learning the value of individual measurements. The [Privacy Preserving Measurement (ppm)](https://datatracker.ietf.org/wg/ppm/about/) Working Group will standardize protocols for deployment of these techniques on the Internet.
 
-The [https://datatracker.ietf.org/wg/ohai/about/ Oblivious HTTP Application Intermediation (ohai)] Working Group will define a protocol for anonymization of HTTP requests using a partly-trusted intermediary, a method of encapsulating HTTP requests and responses that provides protected, low-latency exchanges. Applications and use cases best suited for this protocol are those that have discrete, transactional queries that might reveal small amounts of information that accumulate over time. Examples include DNS queries, telemetry submission, and certificate revocation checking. 
+The [Oblivious HTTP Application Intermediation (ohai)](https://datatracker.ietf.org/wg/ohai/about/) Working Group will define a protocol for anonymization of HTTP requests using a partly-trusted intermediary, a method of encapsulating HTTP requests and responses that provides protected, low-latency exchanges. Applications and use cases best suited for this protocol are those that have discrete, transactional queries that might reveal small amounts of information that accumulate over time. Examples include DNS queries, telemetry submission, and certificate revocation checking. 
 
-The [https://datatracker.ietf.org/rg/pearg/about/ Privacy Enhancements and Assessments Research Group (PEARG)] in the IRTF is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the IETF in particular.
+The [Privacy Enhancements and Assessments Research Group (PEARG)](https://datatracker.ietf.org/rg/pearg/about/) in the IRTF is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the IETF in particular.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy]
 
