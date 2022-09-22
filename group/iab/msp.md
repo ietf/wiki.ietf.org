@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:45:39.043Z
+date: 2022-09-22T12:48:22.920Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -79,40 +79,38 @@ The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/ht
 
 ### 3.0.2 Cybersecurity / network and information security === #NISec
 
-**RP:** *The Communication on ICT standardisation priorities for the digital single market proposes actions on cybersecurity, considered as priority domain for Europe
-For security and notification requirements for operators of essential services, the focus will be on establishing a number of reference standards and/or specifications relevant to network and information security, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practices across the EU.
-For security and notification requirements for digital service providers, in line with the objectives of the Digital single market strategy, the Directive aims to establish a harmonised set of requirements so that they can expect similar rules wherever they operate in the EU.
-It is important that all levels of an organisation –particularly the strategic level and the management board - are aware of the need for standards and frameworks for cybersecurity. Moreover, between organisations that are partners in (vital) online chains, clear agreements will have to be made on the different standards.
-
-ACTION 1 SDOs to develop standards for critical infrastructure protection and thus in support of and responding to the requirements laid down in the NIS Directive.
-
-ACTION 2  SDOs to assess existing standards required to support the European Cyber-security Certification Framework to ensure that standards are available for providing the core of any certification activity. In particular, SDOs are encouraged to work on standards related to the specification and assessment of security properties in ICT products and services as well as those related to security in processes related to the design, development, delivery and maintenance of an ICT product or service.
-
-ACTION 3  SDOs to investigate the issue of malware on personal computers. ENISA (the European union agency for network and information security) has concluded that many personal computers contain malware that is can monitor (financial) transactions. As we are becoming increasingly dependent on eBusiness and e-transactions, a European initiative should investigate this topic
-
-ACTION 4 SDOs to investigate requirements for secure protocols for networks of highly constrained devices and heavily constrained protocol interaction (low bandwidth/ ultra-short session duration (50ms)/low processing capabilities
-
-ACTION 5 SDOs to investigate the availability of standards as regards to the security and incident notification requirements for digital service providers as defined in the NIS Directive
-
-ACTION 6 SDOs to develop a “guided” version of ISO/IEC 270xx series (information security management systems including specific activity domains) specifically addressed to SMEs, possibly coordinating with ISO/IEC JTC1 SC27 WG1 to extend the existing guidance laid out in ISO/IEC 27003. This guidance should be 100% compatible with ISO/IEC 270xx and help SMEs to practically apply it, including in scarce resource and competence scenarios
-
-ACTION 7 SDOs to assess gaps and develop standards on cybersecurity of consumer products in support of possible certification schemes completed under the European Cybersecurity Act
-
-ACTION 8 SDOs to prepare a report on measures to mitigate, prevent and/or detect CLI spoofing. The report should address the technical, operational, standardisation and cost aspects of the different possible solutions (STIR/SHAKEN, blockchain, Solid, etc.) from the European perspective. It should also consider how such solutions could be deployed and managed at the European level.*
+> The Communication on ICT standardisation priorities for the digital single market proposes actions on cybersecurity, considered as priority domain for Europe. For security and notification requirements for operators of essential services, the focus will be on establishing a number of reference standards and/or specifications relevant to network and information security, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practices across the EU.
+For security and notification requirements for digital service providers, in line with the objectives of the Digital single market strategy, the Directive aims to establish a harmonised set of requirements so that they can expect similar rules wherever they operate in the EU. It is important that all levels of an organisation –particularly the strategic level and the management board - are aware of the need for standards and frameworks for cybersecurity. Moreover, between organisations that are partners in (vital) online chains, clear agreements will have to be made on the different standards.
+>
+>ACTION 1 SDOs to develop standards for critical infrastructure protection and thus in support of and responding to the requirements laid down in the NIS Directive.
+>
+>ACTION 2  SDOs to assess existing standards required to support the European Cyber-security Certification Framework to ensure that standards are available for providing the core of any certification activity. In particular, SDOs are encouraged to work on standards related to the specification and assessment of security properties in ICT products and services as well as those related to security in processes related to the design, development, delivery and maintenance of an ICT product or service.
+>
+>ACTION 3  SDOs to investigate the issue of malware on personal computers. ENISA (the European union agency for network and information security) has concluded that many personal computers contain malware that is can monitor (financial) transactions. As we are becoming increasingly dependent on eBusiness and e-transactions, a European initiative should investigate this topic
+>
+>ACTION 4 SDOs to investigate requirements for secure protocols for networks of highly constrained devices and heavily constrained protocol interaction (low bandwidth/ ultra-short session duration (50ms)/low processing capabilities
+>
+>ACTION 5 SDOs to investigate the availability of standards as regards to the security and incident notification requirements for digital service providers as defined in the NIS Directive
+>
+>ACTION 6 SDOs to develop a “guided” version of ISO/IEC 270xx series (information security management systems including specific activity domains) specifically addressed to SMEs, possibly coordinating with ISO/IEC JTC1 SC27 WG1 to extend the existing guidance laid out in ISO/IEC 27003. This guidance should be 100% compatible with ISO/IEC 270xx and help SMEs to practically apply it, including in scarce resource and competence scenarios
+>
+>ACTION 7 SDOs to assess gaps and develop standards on cybersecurity of consumer products in support of possible certification schemes completed under the European Cybersecurity Act
+>
+>ACTION 8 SDOs to prepare a report on measures to mitigate, prevent and/or detect CLI spoofing. The report should address the technical, operational, standardisation and cost aspects of the different possible solutions (STIR/SHAKEN, blockchain, Solid, etc.) from the European perspective. It should also consider how such solutions could be deployed and managed at the European level.
 
 The following IETF WGs are active in this area:
 
-The [https://datatracker.ietf.org/wg/mile/about/ Managed Incident Lightweight Exchange (MILE) WG] develops standards to support computer and network security incident management. The WG is focused on two areas: IODEF (Incident Object Description Exchange Format, RFC5070), the data format and extensions to represent incident and indicator data, and RID (Real-time Inter-network Defense, RFC6545), the policy and transport for structured data.
+The [Managed Incident Lightweight Exchange (MILE) WG](https://datatracker.ietf.org/wg/mile/about/) develops standards to support computer and network security incident management. The WG is focused on two areas: IODEF (Incident Object Description Exchange Format, RFC5070), the data format and extensions to represent incident and indicator data, and RID (Real-time Inter-network Defense, RFC6545), the policy and transport for structured data.
 
-The [https://datatracker.ietf.org/wg/sacm/about/ Security Automation and Continuous Monitoring (SACM) WG] worked on standardising protocols to collect, verify, and update system security configurations that allow a high degree of automation. This facilitates securing information and the systems that store, process, and transmit that information. The focus of the WG was the assessment of network endpoint compliance with security policies so that corrective measures can be provided before they are exposed to those threats.
+The [Security Automation and Continuous Monitoring (SACM) WG](https://datatracker.ietf.org/wg/sacm/about/) worked on standardising protocols to collect, verify, and update system security configurations that allow a high degree of automation. This facilitates securing information and the systems that store, process, and transmit that information. The focus of the WG was the assessment of network endpoint compliance with security policies so that corrective measures can be provided before they are exposed to those threats.
 
-The aim of [https://datatracker.ietf.org/wg/dots/about/ DDoS Open Threat Signalling (DOTS) WG] is to develop a standards based approach for the realtime signalling of DDoS related telemetry and threat handling requests and data between elements concerned with DDoS attack detection, classification, traceback, and mitigation.
+The aim of [DDoS Open Threat Signalling (DOTS) WG](https://datatracker.ietf.org/wg/dots/about/) is to develop a standards based approach for the realtime signalling of DDoS related telemetry and threat handling requests and data between elements concerned with DDoS attack detection, classification, traceback, and mitigation.
 
-The goal of the [https://datatracker.ietf.org/wg/i2nsf/about/ Interface to Network Security Functions (I2NSF) WG] is to define a set of software interfaces and data models for controlling and monitoring aspects of physical and virtual NSFs. A Network Security Function (NSF) is a function used to ensure integrity, confidentiality, or availability of network communications, to detect unwanted network activity, or to block or at least mitigate the effects of unwanted activity. The hosted, or cloud-based, security service is especially attractive to small and medium size enterprises who suffer from a lack of security experts to continuously monitor networks, acquire new skills and propose immediate mitigations to ever increasing sets of security attacks.
+The goal of the [Interface to Network Security Functions (I2NSF) WG](https://datatracker.ietf.org/wg/i2nsf/about/) is to define a set of software interfaces and data models for controlling and monitoring aspects of physical and virtual NSFs. A Network Security Function (NSF) is a function used to ensure integrity, confidentiality, or availability of network communications, to detect unwanted network activity, or to block or at least mitigate the effects of unwanted activity. The hosted, or cloud-based, security service is especially attractive to small and medium size enterprises who suffer from a lack of security experts to continuously monitor networks, acquire new skills and propose immediate mitigations to ever increasing sets of security attacks.
 
-There are many situations in which it is desirable to transfer a copy of a digital credential to another person. For example, a private car owner may want to provide access to their vehicle to a friend or a family member. A private homeowner may want to provide access to their home to their cat sitter. An individual staying at a hotel may want to transfer a copy of a hotel room key to their spouse. Today, no such standardized method exists in a cross-platform, credential type-agnostic capacity. The The [https://datatracker.ietf.org/wg/tigress/about/ Transfer dIGital cREdentialS Securely (tigress)] Working Group will standardize a protocol that will facilitate such credential transfers from one person's device to another person's device.
+There are many situations in which it is desirable to transfer a copy of a digital credential to another person. For example, a private car owner may want to provide access to their vehicle to a friend or a family member. A private homeowner may want to provide access to their home to their cat sitter. An individual staying at a hotel may want to transfer a copy of a hotel room key to their spouse. Today, no such standardized method exists in a cross-platform, credential type-agnostic capacity. The The [Transfer dIGital cREdentialS Securely (tigress)](https://datatracker.ietf.org/wg/tigress/about/) Working Group will standardize a protocol that will facilitate such credential transfers from one person's device to another person's device.
 
-The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg/#sec
+The full list of IETF Working Groups in the Security Area is [available here](https://datatracker.ietf.org/wg/#sec).
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec]
 
