@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:53:23.333Z
+date: 2022-09-22T12:55:27.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -169,27 +169,27 @@ The [Privacy Enhancements and Assessments Research Group (PEARG)](https://datatr
 
 ## 3.1 Key enablers 
 
-### 3.1.1 5G === #FiveG
+### 3.1.1 5G
 
-**RP:** *The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.*
-
-*The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.*
-
-*The European Commission has called on Member States and industry to commit to the following objectives:*
-
-* *a standardisation approach that preserves future evolution capabilities and aims at availability of 5G global standards by end of 2019;
-* *a holistic standardisation approach encompassing both radio access and core networks as coordinated activities within global standardisation bodies, encompassing disruptive use-cases and promoting open innovation;
-* *establishment of cross-industry partnerships by 2017, at the latest, to support timely standard-setting, partly by leveraging international cooperation partnerships, in particular towards the digitisation of industry.
-
-*In December 2017, Commissioner Gabriel sent a letter to 3G PP, urging the standardisation bodies and the concerned industrial actors to step-up their efforts for the rapid development of 5G standards addressing more immediate market needs while driving a clear strategy for a 5G global standard bringing benefits to a wide range of industrial use cases, in line with the EU strategy targeting 5G developments in support of "vertical" industries and of our wider objectives of digitising the European industry.*
+> The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.*
+>
+> The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.*
+>
+> The European Commission has called on Member States and industry to commit to the following objectives:
+>
+>* a standardisation approach that preserves future evolution capabilities and aims at availability of 5G global standards by end of 2019;
+>* a holistic standardisation approach encompassing both radio access and core networks as coordinated activities within global standardisation bodies, encompassing disruptive use-cases and promoting open innovation;
+>* establishment of cross-industry partnerships by 2017, at the latest, to support timely standard-setting, partly by leveraging international cooperation partnerships, in particular towards the digitisation of industry.
+>
+>In December 2017, Commissioner Gabriel sent a letter to 3G PP, urging the standardisation bodies and the concerned industrial actors to step-up their efforts for the rapid development of 5G standards addressing more immediate market needs while driving a clear strategy for a 5G global standard bringing benefits to a wide range of industrial use cases, in line with the EU strategy targeting 5G developments in support of "vertical" industries and of our wider objectives of digitising the European industry.
 
 Interactions between IETF and 5G developments fall into several categories:
 
-* New dependencies on existing IETF technology: For instance, introducing a flexible authentication framework based on EAP (RFC 3748, RFC 5448). This work is being addressed in the [https://datatracker.ietf.org/wg/emu/about/ EAP Method Update (EMU) Working Group]. This working group has been chartered to provide updates to some commonly used EAP methods. Specifically, the working group shall produce documents to:
+* New dependencies on existing IETF technology: For instance, introducing a flexible authentication framework based on EAP (RFC 3748, RFC 5448). This work is being addressed in the [EAP Method Update (EMU) Working Group](https://datatracker.ietf.org/wg/emu/about/). This working group has been chartered to provide updates to some commonly used EAP methods. Specifically, the working group shall produce documents to:
   * Provide guidance or updates to enable the use of TLS 1.3 in the context of EAP TLS (RFC 5216). Update the security considerations relating to EAP TLS, to document the implications of using new vs. old TLS versions, any recently gained new knowledge on vulnerabilities, and the possible implications of pervasive surveillance.
   * Update the EAP-AKA' specification (RFC 5448) to ensure that its capability to provide a cryptographic binding to network context stays in sync with what updates may come to the referenced 3GPP specifications through the use of EAP in 5G.
 
-* Dependencies on ongoing IETF work: The IETF [https://datatracker.ietf.org/wg/detnet/about Deterministic Networking (DETNET) Working Group] defines mechanisms to guarantee deterministic delays for some flows across a network. As one of the 5G use cases is time-critical communication and low-latency applications, this is a component technology that is being looked at. Similarly, IETF routing-related work such as [https://datatracker.ietf.org/wg/teas/about/ traffic engineering], [https://datatracker.ietf.org/wg/sfc/about service chaining] and [https://datatracker.ietf.org/wg/spring/about source routing] are likely tools for managing traffic flows in 5G networks, as they are for other large service provider networks. 5G-related topics are also discussed in the [https://datatracker.ietf.org/wg/dmm/about/ Distributed Mobility Management] Working Group.
+* Dependencies on ongoing IETF work: The IETF [Deterministic Networking (DETNET) Working Group](https://datatracker.ietf.org/wg/detnet/about) defines mechanisms to guarantee deterministic delays for some flows across a network. As one of the 5G use cases is time-critical communication and low-latency applications, this is a component technology that is being looked at. Similarly, IETF routing-related work such as [traffic engineering](https://datatracker.ietf.org/wg/teas/about/), [service chaining](https://datatracker.ietf.org/wg/sfc/about) and [source routing](https://datatracker.ietf.org/wg/spring/about) are likely tools for managing traffic flows in 5G networks, as they are for other large service provider networks. 5G-related topics are also discussed in the [Distributed Mobility Management](https://datatracker.ietf.org/wg/dmm/about/) Working Group.
 
 * There are many IETF tools already for dealing with virtualisation and separation of networks (see 3.1.2 Cloud computing, below), so the first order of business is mapping what can be done with those tools for the 5G use cases.
 
