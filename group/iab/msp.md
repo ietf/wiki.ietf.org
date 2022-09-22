@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:57:44.392Z
+date: 2022-09-22T13:00:37.059Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -227,61 +227,70 @@ The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud]
 
-### 3.1.3. Big data, open data and public sector information === #OpenData
+### 3.1.3. Big data, open data and public sector information
 
-**RP:** *With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
+> With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
+>
+> Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.
 
-*Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.*
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-### 3.1.4. Internet of Things === #IOT
+### 3.1.4. Internet of Things
 
-**RP:** *The Communication on ICT standardisation priorities for the digital single market proposes priority actions in the domain of internet of things. Actions mentioned below reflect some of them.
-Action 1: SDOs to complement ongoing gap analysis by analysis of gaps in wireless technologies required by IoT, including URLL (Ultra Reliable Low Latency) technologies required by Industry Automation.
-Action 2: SDOs to continue ongoing work in the area of semantic standards for better data interoperability.
-Action 3: SDOs to provide standards that can be used for compliance for IoT products, systems, applications and processes.
-Action 4: Develop a European standard for cyber security compliance of products that is aligned with the current compliance framework of organisations based on ISO 270xx and the GDPR regulation. Preferably the standard could be used to harmonise the requirements set out in the NIS directive.
-Action 5: Promote the development and foster the adoption of the international Reference Architecture for IoT developed in ISO/IEC JTC 1 SC41.
-Action 6: SDOs to assess gaps and develop standards on safety and cybersecurity of IoT consumer products under the European Cybersecurity Act or sectorial legislation.
-Action 7: SDOs should consider further inclusion of and outreach to verticals.*
+> The Communication on ICT standardisation priorities for the digital single market proposes priority actions in the domain of internet of things. Actions mentioned below reflect some of them.
+>
+> Action 1: SDOs to complement ongoing gap analysis by analysis of gaps in wireless technologies required by IoT, including URLL (Ultra Reliable Low Latency) technologies required by Industry Automation.
+>
+> Action 2: SDOs to continue ongoing work in the area of semantic standards for better data interoperability.
+>
+> Action 3: SDOs to provide standards that can be used for compliance for IoT products, systems, applications and processes.
+>
+> Action 4: Develop a European standard for cyber security compliance of products that is aligned with the current compliance framework of organisations based on ISO 270xx and the GDPR regulation. Preferably the standard could be used to harmonise the requirements set out in the NIS directive.
+>
+> Action 5: Promote the development and foster the adoption of the international Reference Architecture for IoT developed in ISO/IEC JTC 1 SC41.
+>
+> Action 6: SDOs to assess gaps and develop standards on safety and cybersecurity of IoT consumer products under the European Cybersecurity Act or sectorial legislation.
+>
+> Action 7: SDOs should consider further inclusion of and outreach to verticals.*
 
 The IETF has a number of Working Groups chartered to develop standards to support the Internet of Things.
 
-The ​[https://datatracker.ietf.org/wg/6lowpan/about/ IPv6 Over Low Power WPAN (6LOWPAN) Working Group] developed standards to ensure interoperability between smart object networks and defining the necessary security and management protocols and constructs for building such networks. 
+The ​[IPv6 Over Low Power WPAN (6LOWPAN) Working Group](https://datatracker.ietf.org/wg/6lowpan/about/) developed standards to ensure interoperability between smart object networks and defining the necessary security and management protocols and constructs for building such networks. 
 
-The [https://datatracker.ietf.org/wg/6lo/about/ IPv6 over Networks of Resource-constrained Nodes (6LO) Working Group] develops IPv6 adaptation mechanisms to a wider range of radio technologies including “Bluetooth Low Energy” (RFC 7668), ITU-T G.9959 (as used in Z-Wave, RFC 7428), and the Digital Enhanced Cordless Telecommunications (DECT) Ultra Low Energy (ULE) cordless phone standard and the low-cost wired networking technology Master-Slave / Token-Passing (MS/TP) that is widely used over RS-485 in building automation.
+The [IPv6 over Networks of Resource-constrained Nodes (6LO) Working Group](https://datatracker.ietf.org/wg/6lo/about/) develops IPv6 adaptation mechanisms to a wider range of radio technologies including “Bluetooth Low Energy” (RFC 7668), ITU-T G.9959 (as used in Z-Wave, RFC 7428), and the Digital Enhanced Cordless Telecommunications (DECT) Ultra Low Energy (ULE) cordless phone standard and the low-cost wired networking technology Master-Slave / Token-Passing (MS/TP) that is widely used over RS-485 in building automation.
 
-The [https://datatracker.ietf.org/wg/lpwan/about/ IPv6 Over Low Power Wide-Area Networks (lpwan) WG] focuses on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa, WI-SUN and NB-IOT.
+The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf.org/wg/lpwan/about/) focuses on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa, WI-SUN and NB-IOT.
 
-The [https://datatracker.ietf.org/wg/roll/about/ Light-Weight Implementation Guidance (LWIG) Working Group] focuses on helping the implementors of the smallest devices. The goal is to be able to build minimal yet interoperable IP-capable devices for the most constrained environments.
+The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/roll/about/) focuses on helping the implementors of the smallest devices. The goal is to be able to build minimal yet interoperable IP-capable devices for the most constrained environments.
 
-The ​[https://datatracker.ietf.org/wg/roll/about/ Routing over Low Power and Lossy Networks (ROLL) Working Group] is developing standards to support the routing of communications within low-power and lossy networks.
+The ​[Routing over Low Power and Lossy Networks (ROLL) Working Group](https://datatracker.ietf.org/wg/roll/about/) is developing standards to support the routing of communications within low-power and lossy networks.
 
-The [https://datatracker.ietf.org/wg/core/about/ Constrained RESTful Environments (CORE) Working Group] is specifying protocols that allow applications running in resource-constrained environments to interoperate with each other and the rest of the Internet. CORE is one of the most active IoT groups. Its main output centres around the “Constrained Application Protocol” (CoAP, RFC 7252), a radically simplified UDP-based analog to HTTP. Extensions to CoAP enable group communications (RFC 7390) and low-complexity server-push for the observation of resources (RFC 7641). This is complemented by a discovery and self-description mechanism based on a weblink format suitable for constrained devices (RFC 6690). Current WG activities focus on extensions that enable transfer of large resources, use of resource directories for coordinating discovery, reusable interface descriptions, and the transport of CoAP over TCP and TLS. CoRE is also looking at a data format to represent sensor measurements, which will benefit from the “Concise Binary Object Representation” (CBOR) (RFC 7049), a JSON analog optimised for binary data and low-resource implementations.
+The [Constrained RESTful Environments (CORE) Working Group](https://datatracker.ietf.org/wg/core/about/) is specifying protocols that allow applications running in resource-constrained environments to interoperate with each other and the rest of the Internet. CORE is one of the most active IoT groups. Its main output centres around the “Constrained Application Protocol” (CoAP, RFC 7252), a radically simplified UDP-based analog to HTTP. Extensions to CoAP enable group communications (RFC 7390) and low-complexity server-push for the observation of resources (RFC 7641). This is complemented by a discovery and self-description mechanism based on a weblink format suitable for constrained devices (RFC 6690). Current WG activities focus on extensions that enable transfer of large resources, use of resource directories for coordinating discovery, reusable interface descriptions, and the transport of CoAP over TCP and TLS. CoRE is also looking at a data format to represent sensor measurements, which will benefit from the “Concise Binary Object Representation” (CBOR) (RFC 7049), a JSON analog optimised for binary data and low-resource implementations.
 
-The [https://datatracker.ietf.org/wg/asdf/about/ A Semantic Definition Format for Data and Interaction of Things (asdf) Working Group] is developing Semantic Definition Format (SDF) into a standards-track specification for thing interaction and data modelling. In the process of developing this specification, further functional requirements that emerge in the usage of SDF for model harmonization will be addressed.
+The [A Semantic Definition Format for Data and Interaction of Things (asdf) Working Group](https://datatracker.ietf.org/wg/asdf/about/) is developing Semantic Definition Format (SDF) into a standards-track specification for thing interaction and data modelling. In the process of developing this specification, further functional requirements that emerge in the usage of SDF for model harmonization will be addressed.
 
-The [https://datatracker.ietf.org/wg/iotops/about/ IOT Operations (iotops) Working Group] is discussing and documenting operational issues related to IoT devices, in particular related to device onboarding and lifecycle management. This group is also tackling issues related to IoT operational security.
+The [IOT Operations (iotops) Working Group](https://datatracker.ietf.org/wg/iotops/about/) is discussing and documenting operational issues related to IoT devices, in particular related to device onboarding and lifecycle management. This group is also tackling issues related to IoT operational security.
 
 Security aspects of the IoT are being addressed in the following Working Groups:
 
-The [https://datatracker.ietf.org/wg/teep/about/ Trusted Execution Environment Provisioning (TEEP) WG] is working on standardising protocols for provisioning applications into secure areas of computer processors.
+The [Trusted Execution Environment Provisioning (TEEP) WG](https://datatracker.ietf.org/wg/teep/about/) is working on standardising protocols for provisioning applications into secure areas of computer processors.
 
-The [https://datatracker.ietf.org/wg/suit/about/ Software Updates for Internet of Things (SUIT) WG] is working on mechanisms for securely updating the firmware in IoT devices.
+The [Software Updates for Internet of Things (SUIT) WG](https://datatracker.ietf.org/wg/suit/about/) is working on mechanisms for securely updating the firmware in IoT devices.
 
-The [https://datatracker.ietf.org/wg/ace/about/ Authentication and Authorisation for Constrained Environments (ACE) WG] is working on a standardised solution for authentication and authorisation to enable authorised access to resources on a device in constrained environments. In such environments, typical for the IoT, the network nodes are limited in CPU, memory and power. This work was supported by the COSE WG that built simplified CBOR analogs for the JSON object signing and encryption methods that were developed in the JOSE WG.
+The [Authentication and Authorisation for Constrained Environments (ACE) WG](https://datatracker.ietf.org/wg/ace/about/) is working on a standardised solution for authentication and authorisation to enable authorised access to resources on a device in constrained environments. In such environments, typical for the IoT, the network nodes are limited in CPU, memory and power. This work was supported by the COSE WG that built simplified CBOR analogs for the JSON object signing and encryption methods that were developed in the JOSE WG.
 
-The [https://datatracker.ietf.org/wg/dice/about/ DTLS In Constrained Environments (DICE) WG] focused on supporting the use of DTLS Transport-Layer Security in these environments. Such constrained environments, including constrained devices (e.g. memory, algorithm choices) and constrained networks (e.g. PDU sizes, packet loss), are typical for the IoT, Smart grids, etc.
+The [DTLS In Constrained Environments (DICE) WG](https://datatracker.ietf.org/wg/dice/about/) focused on supporting the use of DTLS Transport-Layer Security in these environments. Such constrained environments, including constrained devices (e.g. memory, algorithm choices) and constrained networks (e.g. PDU sizes, packet loss), are typical for the IoT, Smart grids, etc.
 
-The [https://datatracker.ietf.org/wg/lake/about/ Lightweight Authenticated Key Exchange (LAKE) WG] is developing a ‘lightweight’ authenticated key exchange (LAKE) that enables forward security. 'Lightweight' refers to:
+The [Lightweight Authenticated Key Exchange (LAKE) WG](https://datatracker.ietf.org/wg/lake/about/) is developing a ‘lightweight’ authenticated key exchange (LAKE) that enables forward security. 'Lightweight' refers to:
 
 * resource consumption, measured by number of round-trips to complete, bytes on the wire, wall-clock time to complete, or power consumption
 * the amount of new code required on end systems which already have an OSCORE stack
 
 but the LAKE must still provide the security properties expected of IETF protocols, e.g., providing confidentiality protection, integrity protection, and authentication with strong work factor.
 
-While the IoT-oriented IETF working groups have already produced the first wave of mature standards for IoT, new research questions are emerging based on the use of those standards. The IRTF [https://irtf.org/t2trg Thing-to-Thing Research Group (T2TRG)] was chartered in 2015 to investigate open research issues in IoT, focusing on issues that exhibit standardisation potential at the IETF.
+While the IoT-oriented IETF working groups have already produced the first wave of mature standards for IoT, new research questions are emerging based on the use of those standards. The IRTF [Thing-to-Thing Research Group (T2TRG)](https://irtf.org/t2trg) was chartered in 2015 to investigate open research issues in IoT, focusing on issues that exhibit standardisation potential at the IETF.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT]
 
