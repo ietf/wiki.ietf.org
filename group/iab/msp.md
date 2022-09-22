@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T15:45:32.694Z
+date: 2022-09-22T15:47:32.652Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -112,7 +112,7 @@ There are many situations in which it is desirable to transfer a copy of a digit
 
 The full list of IETF Working Groups in the Security Area is [available here](https://datatracker.ietf.org/wg/#sec).
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec]
+[https://wiki.ietf.org/en/group/iab/msp#h-302-cybersecurity-network-and-information-security](https://wiki.ietf.org/en/group/iab/msp#h-302-cybersecurity-network-and-information-security)
 
 ### 3.0.3 ePrivacy
 
@@ -165,7 +165,7 @@ The [Oblivious HTTP Application Intermediation (ohai)](https://datatracker.ietf.
 
 The [Privacy Enhancements and Assessments Research Group (PEARG)](https://datatracker.ietf.org/rg/pearg/about/) in the IRTF is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the IETF in particular.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy]
+[https://wiki.ietf.org/en/group/iab/msp#h-303-eprivacy](https://wiki.ietf.org/en/group/iab/msp#h-303-eprivacy)
 
 ## 3.1 Key enablers 
 
