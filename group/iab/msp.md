@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:21:34.397Z
+date: 2022-09-22T13:36:11.000Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -410,45 +410,51 @@ Since quantum networks are so different when compared to classical networking, t
 
 ### 3.2.1 eHealth, healthy living and ageing === #eHealth
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
+
 
 ### 3.2.2 Education, digital skills and digital learning === #eSkills
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
+
 
 ### 3.2.3 Emergency communications and public warning systems === #Emergency
 
-RP: *The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC).
-Standards for total conversation access to 112 are required to meet special needs for users’ rights under Directive 2009/136/EC.  
-The lack of harmonised values for location accuracy and reliability hampers Member State's efforts to develop adequate solutions.
+> The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC).
+>
+> Standards for total conversation access to 112 are required to meet special needs for users’ rights under Directive 2009/136/EC.
+>
+>The lack of harmonised values for location accuracy and reliability hampers Member State's efforts to develop adequate solutions.
+>
+>Action 1 SDOs to address data protection and privacy requirements (privacy by design) in ongoing standardisation activities concerning location accuracy.
+>
+>Action 2 Identify standardisation needs for the deployment of 112 smartphone applications enhanced with caller location and multimedia features accessible for the widest range of users.
+>
+> Action 3 SDOs to complete the M/493 standards to support the location-enhanced emergency call service. Global standards bodies are invited to contribute taking into account next-generation networks and location accuracy and reliability.
+> 
+>Action 4 SDOs to identify the standardisation needs for the transmission of the GNSS location data from the handset to the PSAPs by mobile network operators.
+> 
+>Action 5 SDOs to define dictionaries for warning messages for emergency communication service based on the input of various civil protection agencies.
+> 
+>Action 6 SDOs to add rich media to the EU-Alert.
+>
+>Action 7 SDOs to define requirements for communications involving IoT devices in all types of emergency situations.
+>
+>Action 8 SDOs to describe the architecture (currently named Next Generation Emergency Communication architecture), the core elements and corresponding technical interfaces for network independent access to emergency services.
+>
+>Action 9 SDOs to set requirements, functional architecture, protocol and procedures specification for a Pan European mobile emergency application.
+>
+>Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.*
 
-Action 1 SDOs to address data protection and privacy requirements (privacy by design) in ongoing standardisation activities concerning location accuracy.
+The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
-Action 2 Identify standardisation needs for the deployment of 112 smartphone applications enhanced with caller location and multimedia features accessible for the widest range of users.
- 
-Action 3 SDOs to complete the M/493 standards to support the location-enhanced emergency call service. Global standards bodies are invited to contribute taking into account next-generation networks and location accuracy and reliability.
- 
-Action 4 SDOs to identify the standardisation needs for the transmission of the GNSS location data from the handset to the PSAPs by mobile network operators.
- 
-Action 5 SDOs to define dictionaries for warning messages for emergency communication service based on the input of various civil protection agencies.
- 
-Action 6 SDOs to add rich media to the EU-Alert.
+The [Geographic Location/Privacy (GEOPRIV) Working Group](https://datatracker.ietf.org/wg/geopriv/about/) developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
 
-Action 7 SDOs to define requirements for communications involving IoT devices in all types of emergency situations.
+The application-specific working groups in the IETF (for example, the [Session Initiation Protocol Core (SIPCORE) Working Group](https://datatracker.ietf.org/wg/sipcore/about/)) have developed extensions to support emergency calling as required.
 
-Action 8 SDOs to describe the architecture (currently named Next Generation Emergency Communication architecture), the core elements and corresponding technical interfaces for network independent access to emergency services.
-
-Action 9 SDOs to set requirements, functional architecture, protocol and procedures specification for a Pan European mobile emergency application.
- 
-Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.*
-
-The [https://datatracker.ietf.org/wg/ecrit/about/ Emergency Context Resolution with Internet Technologies (ECRIT) Working Group] has developed a general architecture for enabling IP applications to discover and connect to emergency services.
-
-The [https://datatracker.ietf.org/wg/geopriv/about/ Geographic Location/Privacy (GEOPRIV) Working Group] developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
-
-The application-specific working groups in the IETF (for example, the [https://datatracker.ietf.org/wg/sipcore/about/ Session Initiation Protocol Core (SIPCORE) Working Group]) have developed extensions to support emergency calling as required.
-
-The [https://datatracker.ietf.org/wg/stir/about/ Secure Telephone Identity Revisited (STIR) WG] is developing Internet-based mechanisms that allow verification of the calling party's authorisation to use a particular telephone number for an incoming call. The main focus is on the SIP as one of the main VoIP technologies used by parties that want to misrepresent their origin, in this context the telephone number of origin. See, for example, [https://datatracker.ietf.org/doc/rfc7375/ RFC7375 "Secure telephone identity threat model"].
+The [Secure Telephone Identity Revisited (STIR) WG](https://datatracker.ietf.org/wg/stir/about/) is developing Internet-based mechanisms that allow verification of the calling party's authorisation to use a particular telephone number for an incoming call. The main focus is on the SIP as one of the main VoIP technologies used by parties that want to misrepresent their origin, in this context the telephone number of origin. See, for example, [RFC7375 "Secure telephone identity threat model"](https://datatracker.ietf.org/doc/rfc7375/).
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency]
 
