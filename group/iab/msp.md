@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:49:51.240Z
+date: 2022-09-22T13:51:28.337Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -612,26 +612,25 @@ A recently published standards track specification ([RFC7603])(https://tools.iet
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment]
 
-### 3.4.4. European Electronic Toll Service (EETS) === #Toll
+### 3.4.4. European Electronic Toll Service (EETS)
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility === #IntelligentTransport
 
-**RP:** *To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.*
+### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility
 
-The [https://datatracker.ietf.org/wg/ecrit/about/ Emergency Context Resolution with Internet Technologies (ECRIT) Working Group] has developed a general architecture for enabling IP applications to discover and connect to emergency services.
+> To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.
 
-The [https://datatracker.ietf.org/wg/geopriv/about/ Geographic Location/Privacy (GEOPRIV) Working Group) has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
+The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
-The application-specific working groups in the IETF (for example, the [https://datatracker.ietf.org/wg/sipcore/about/ Session Initiation Protocol Core (SIPCORE) Working Group) have developed extensions to support emergency calling as required.
+The [Geographic Location/Privacy (GEOPRIV)](https://datatracker.ietf.org/wg/geopriv/about/) Working Group has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
 
-The [https://datatracker.ietf.org/wg/ipwave/about/ IP Wireless Access in Vehicular Environments (ipwave) WG] works on Vehicle-2-Vehicle (V2V) and Vehicle-2-Internet (V2I) use-cases where IP is well-suited as a networking technology and will develop an IPv6
-based solution to establish direct and secure connectivity between a vehicle and other vehicles or stationary systems. These vehicular networks are characterized by dynamically changing network topologies and connectivity.
+The application-specific working groups in the IETF (for example, the [Session Initiation Protocol Core (SIPCORE)](https://datatracker.ietf.org/wg/sipcore/about/) Working Group) have developed extensions to support emergency calling as required.
 
-V2V and V2I communications may involve various kinds of link layers: 802.11-OCB (Outside the Context of a Basic Service Set), 802.15.4 with 6lowpan, 802.11ad, VLC (Visible Light Communications), IrDA, LTE-D, LP-WAN. One of the most used link
-layers for vehicular networks is IEEE 802.11-OCB, as a basis for Dedicated short-range communications (DSRC). Several of these link-layers already provide support for IPv6. However, IPv6 on 802.11-OCB is yet to be fully defined. Some aspects of the IPv6
-over 802.11-OCB work have been already defined at IEEE 1609 and the specification produced by this working group is expected be compatible with these aspects.
+The [IP Wireless Access in Vehicular Environments (ipwave) WG](https://datatracker.ietf.org/wg/ipwave/about/) works on Vehicle-2-Vehicle (V2V) and Vehicle-2-Internet (V2I) use-cases where IP is well-suited as a networking technology and will develop an IPv6 based solution to establish direct and secure connectivity between a vehicle and other vehicles or stationary systems. These vehicular networks are characterized by dynamically changing network topologies and connectivity.
+
+V2V and V2I communications may involve various kinds of link layers: 802.11-OCB (Outside the Context of a Basic Service Set), 802.15.4 with 6lowpan, 802.11ad, VLC (Visible Light Communications), IrDA, LTE-D, LP-WAN. One of the most used link layers for vehicular networks is IEEE 802.11-OCB, as a basis for Dedicated short-range communications (DSRC). Several of these link-layers already provide support for IPv6. However, IPv6 on 802.11-OCB is yet to be fully defined. Some aspects of the IPv6 over 802.11-OCB work have been already defined at IEEE 1609 and the specification produced by this working group is expected be compatible with these aspects.
 
 This group's primary deliverable (and the only Standards track item) will be a document that will specify the mechanisms for transmission of IPv6 datagrams over IEEE 802.11-OCB mode.
 
