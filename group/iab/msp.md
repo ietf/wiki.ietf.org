@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:25:04.007Z
+date: 2022-09-22T12:26:47.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -10,15 +10,15 @@ dateCreated: 2022-09-21T19:08:47.725Z
 
 # European Multi Stakeholder Platform on ICT Standardisation 
 
-[[PageOutline]] 
+> **This is a public working draft that has not been reviewed by the IAB or the IETF**
+{.is-warning}
 
-**This is a public working draft that has not been reviewed by the IAB or the IETF**
 
 ### Purpose of this Page 
 
-This page contains specific information about the IETF relevant to the [http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation European Multi Stakeholder Platform on ICT Standardisation], MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation more information about the MSP].
+This page contains specific information about the IETF relevant to the [European Multi Stakeholder Platform on ICT Standardisation](http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation), MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [more information about the MSP](http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation).
 
-For more detailed information, or to submit relevant information to the MSP, please contact Mat Ford (ford at isoc.org)  or Andrei Robachevsky (robachevsky at isoc.org) who are the IETF representatives in the platform and the editors of this page.
+For more detailed information, or to submit relevant information to the MSP, please contact [Mat Ford](mailto:ford@isoc.org)  or [Andrei Robachevsky](mailto:robachevsky@isoc.org) who are the IETF representatives in the platform and the editors of this page.
 
 ## The Rolling Plan 
 
