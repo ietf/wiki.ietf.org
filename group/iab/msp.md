@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:00:37.059Z
+date: 2022-09-22T13:05:34.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -294,27 +294,27 @@ While the IoT-oriented IETF working groups have already produced the first wave 
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT]
 
-### 3.1.5 Electronic identification and trust services including e-signatures ===  #eIdentity
+### 3.1.5 Electronic identification and trust services including e-signatures
 
-**RP:** *The eIDAS Regulation adopted on 23 July 2014 addresses in one comprehensive piece of legislation, electronic identification, electronic signatures, electronic seals, time stamping, electronic delivery, electronic documents and website certificates as core instruments for electronic transactions. To support the implementation of this highly technical regulation, further standardisation work will be needed. In the case of  trust services, the planned secondary legislation refers extensively to the availability of standards as possible means to meet the regulatory requirements. Existing standards should be checked to take account of the protection of individuals with regard to personal data processing and the free movement of such data. Specific privacy by design standards should be identified and where needed developed. The accessibility needs of persons with disabilities should also be taken into account.
-
-Action 1. Build on the work done under Mandate M/460, in the following way: address the trust service providers (TSP) providing signature creation services, the TSPs providing signature validation services, and standards for trust application service providers. Support harmonisation of identity proofing, particularly in relation certificate issuance and remote signing. 
-
-Action 2. Take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, European and international standards should be aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported.
-
-Action 3. Support and improve the development of interoperable standards by facilitating the organisation of plugtests (interoperability events) and developing and enhancing conformity testing tools. Such interoperability events may address CAdES, XAdES, PAdES, ASiC, use of trusted lists, signature validation, remote signature creation and validation, e-delivery services, preservation services, etc.
-
-Action 4. Foster the development of standards supporting the implementation of the measures derived from the revision of the eIDAS regulation, aimed to improve its effectiveness, extend its benefits to the private sector and promote trusted digital identities for all Europeans.*
+> The eIDAS Regulation adopted on 23 July 2014 addresses in one comprehensive piece of legislation, electronic identification, electronic signatures, electronic seals, time stamping, electronic delivery, electronic documents and website certificates as core instruments for electronic transactions. To support the implementation of this highly technical regulation, further standardisation work will be needed. In the case of  trust services, the planned secondary legislation refers extensively to the availability of standards as possible means to meet the regulatory requirements. Existing standards should be checked to take account of the protection of individuals with regard to personal data processing and the free movement of such data. Specific privacy by design standards should be identified and where needed developed. The accessibility needs of persons with disabilities should also be taken into account.
+>
+> Action 1. Build on the work done under Mandate M/460, in the following way: address the trust service providers (TSP) providing signature creation services, the TSPs providing signature validation services, and standards for trust application service providers. Support harmonisation of identity proofing, particularly in relation certificate issuance and remote signing. 
+>
+> Action 2. Take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, European and international standards should be aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported.
+>
+> Action 3. Support and improve the development of interoperable standards by facilitating the organisation of plugtests (interoperability events) and developing and enhancing conformity testing tools. Such interoperability events may address CAdES, XAdES, PAdES, ASiC, use of trusted lists, signature validation, remote signature creation and validation, e-delivery services, preservation services, etc.
+>
+> Action 4. Foster the development of standards supporting the implementation of the measures derived from the revision of the eIDAS regulation, aimed to improve its effectiveness, extend its benefits to the private sector and promote trusted digital identities for all Europeans.
 
 The following IETF Working Groups are active in this area:
 
-The [https://datatracker.ietf.org/wg/oauth/about/ Web Authorization Protocol (OAUTH) WG] developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
+The [Web Authorization Protocol (OAUTH) WG](https://datatracker.ietf.org/wg/oauth/about/) developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
 
 The ongoing standardisation effort within the OAUTH working group is focusing on enhancing interoperability of OAUTH deployments.
 
-The [https://datatracker.ietf.org/wg/trans/about/ Public Notary Transparency (TRANS) WG] develops a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
+The [Public Notary Transparency (TRANS) WG](https://datatracker.ietf.org/wg/trans/about/) develops a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
 
-The [https://datatracker.ietf.org/wg/acme/about/ Automated Certificate Management Environment (ACME) WG] specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
+The [Automated Certificate Management Environment (ACME) WG](https://datatracker.ietf.org/wg/acme/about/) specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity]
 
