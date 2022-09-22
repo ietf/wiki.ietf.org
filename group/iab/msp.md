@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T16:12:39.062Z
+date: 2022-09-22T16:14:03.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -571,7 +571,7 @@ More details of the DINRG are [available](https://trac.ietf.org/trac/irtf/wiki/b
 
 [https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-ledger-technologies](https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-ledger-technologies)
 
-----
+---
 
 ## 3.4 Sustainable growth 
 
@@ -585,7 +585,7 @@ The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) h
 
 Many of the IETF Working Groups listed under §3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to Smart grids.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid]
+[https://wiki.ietf.org/en/group/iab/msp#h-341-smart-grids-and-smart-metering](https://wiki.ietf.org/en/group/iab/msp#h-341-smart-grids-and-smart-metering)
 
 ### 3.4.2 Smart Cities and communities / Technologies and Services for smart and efficient energy use
 
@@ -597,7 +597,7 @@ A recently published standards track specification ([RFC7603](https://tools.ietf
 
 Many of the IETF Working Groups listed under §3.1.4 Internet of Thingsa above are developing standards for embedded devices that may also be applicable to this section.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy]
+[https://wiki.ietf.org/en/group/iab/msp#h-342-smart-cities-and-communities-technologies-and-services-for-smart-and-efficient-energy-use](https://wiki.ietf.org/en/group/iab/msp#h-342-smart-cities-and-communities-technologies-and-services-for-smart-and-efficient-energy-use)
 
 ### 3.4.3. ICT Environmental Impact
 
