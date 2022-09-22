@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T15:49:06.071Z
+date: 2022-09-22T16:06:18.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -225,7 +225,7 @@ The [System for Cross-domain Identity Management (SCIM) Working Group](https://d
 
 The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.org/rg/coinrg/about/) of the IRTF explores existing research and fosters investigation of “Compute In the Network” and resultant impacts to the data plane. The goal is to investigate how to harness and to benefit from this emerging disruption to the Internet architecture to improve network and application performance as well as user experience.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud]
+[https://wiki.ietf.org/en/group/iab/msp#h-312-cloud-and-edge-computing]( https://wiki.ietf.org/en/group/iab/msp#h-312-cloud-and-edge-computing)
 
 ### 3.1.3. Big data, open data and public sector information
 
@@ -292,7 +292,7 @@ but the LAKE must still provide the security properties expected of IETF protoco
 
 While the IoT-oriented IETF working groups have already produced the first wave of mature standards for IoT, new research questions are emerging based on the use of those standards. The IRTF [Thing-to-Thing Research Group (T2TRG)](https://irtf.org/t2trg) was chartered in 2015 to investigate open research issues in IoT, focusing on issues that exhibit standardisation potential at the IETF.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT]
+[https://wiki.ietf.org/en/group/iab/msp#h-314-internet-of-things]( https://wiki.ietf.org/en/group/iab/msp#h-314-internet-of-things)
 
 ### 3.1.5 Electronic identification and trust services including e-signatures
 
@@ -316,7 +316,7 @@ The [Public Notary Transparency (TRANS) WG](https://datatracker.ietf.org/wg/tran
 
 The [Automated Certificate Management Environment (ACME) WG](https://datatracker.ietf.org/wg/acme/about/) specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity]
+[https://wiki.ietf.org/en/group/iab/msp#h-315-electronic-identification-and-trust-services-including-e-signatures](https://wiki.ietf.org/en/group/iab/msp#h-315-electronic-identification-and-trust-services-including-e-signatures)
 
 ### 3.1.6 e-Infrastructures for research data and computing intensive science
 
