@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:58:31.807Z
+date: 2022-09-22T14:01:02.556Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -171,9 +171,9 @@ The [Privacy Enhancements and Assessments Research Group (PEARG)](https://datatr
 
 ### 3.1.1 5G
 
-> The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.*
+> The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.
 >
-> The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.*
+> The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.
 >
 > The European Commission has called on Member States and industry to commit to the following objectives:
 >
@@ -253,7 +253,7 @@ The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.
 >
 > Action 6: SDOs to assess gaps and develop standards on safety and cybersecurity of IoT consumer products under the European Cybersecurity Act or sectorial legislation.
 >
-> Action 7: SDOs should consider further inclusion of and outreach to verticals.*
+> Action 7: SDOs should consider further inclusion of and outreach to verticals.
 
 The IETF has a number of Working Groups chartered to develop standards to support the Internet of Things.
 
