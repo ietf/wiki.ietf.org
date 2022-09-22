@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T16:06:18.696Z
+date: 2022-09-22T16:09:44.516Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -338,7 +338,7 @@ The [Large-Scale Measurement of Broadband Performance (LMAP) Working Group](http
 
 Measuring portions of the Internet on a large scale is essential for accurate characterisations of performance over time and geography, for network diagnostic investigations by providers and their users, and for collecting information to support public policy development. The goal is to have the measurements (made using the same metrics and mechanisms) for a large number of points on the Internet, and to have the results collected and stored in the same form.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap]
+[https://wiki.ietf.org/en/group/iab/msp#h-317-broadband-infrastructure-mapping]( https://wiki.ietf.org/en/group/iab/msp#h-317-broadband-infrastructure-mapping)
 
 ### 3.1.8 Accessibility of ICT products and services
 
@@ -348,7 +348,7 @@ Relevant IETF work may be found in the [ART area](https://datatracker.ietf.org/w
 
 RFCs [4103](http://www.rfc-editor.org/rfc/rfc4103.txt) and [5194](http://www.rfc-editor.org/rfc/rfc5194.txt) are being referenced in various accessibility regulations being proposed in the US ([Section 255/508](http://transition.fcc.gov/Daily_Releases/Daily_Business/2013/db0311/DOC-319386A1.pdf)) and EU (e.g. M376).
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess]
+[https://wiki.ietf.org/en/group/iab/msp#h-318-accessibility-of-ict-products-and-services]( https://wiki.ietf.org/en/group/iab/msp#h-318-accessibility-of-ict-products-and-services)
 
 ### 3.1.9 Artificial Intelligence
 
@@ -381,14 +381,12 @@ etc.
 
 Autonomic networking refers to the self-managing characteristics (configuration, protection, healing, and optimization) of distributed network elements, adapting to unpredictable changes while hiding intrinsic complexity from operators and users. Autonomic Networking, which often involves closed-loop control, is applicable to the complete network (functions) lifecycle (e.g. installation, commissioning, operating, etc). An autonomic function that works in a distributed way across various network elements is a candidate for protocol design. Such functions should allow central guidance and reporting, and co-existence with non-autonomic methods of management. The general objective of this working group is to enable the progressive introduction of autonomic functions into operational networks, as well as reusable autonomic network infrastructure, in order to reduce operating expenses.
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI]
+[https://wiki.ietf.org/en/group/iab/msp#h-319-artificial-intelligence](https://wiki.ietf.org/en/group/iab/msp#h-319-artificial-intelligence)
 
 ### 3.1.10 European Global Navigation Satellite System (EGNSS)
 
 > Editor's note: No specific work identified in the IETF or IRTF
 {.is-info}
-
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS]
 
 ### 3.1.11 Quantum Technologies
 
@@ -405,7 +403,7 @@ Since quantum networks are so different when compared to classical networking, t
 *	“[Genuine and Optimized Entanglement-Based Quantum Networks](https://www.youtube.com/watch?v=j-Ri-RRfUXY)” by Wolfgang Dür (University of Innsbruck),
 *	“[Building Quantum Networks at the Local-Area Scale](https://www.youtube.com/watch?v=D_Nb43-uicY)” by Marc Kaplan (VeriQloud)
 
-[https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum]
+[https://wiki.ietf.org/en/group/iab/msp#h-3111-quantum-technologies]( https://wiki.ietf.org/en/group/iab/msp#h-3111-quantum-technologies)
 
 ----
 
