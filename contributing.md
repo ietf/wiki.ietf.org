@@ -2,21 +2,66 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-21T01:21:22.935Z
+date: 2022-09-22T14:41:13.447Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
 ---
 
-Everybody with an [IETF Datatracker](https://datatracker.ietf.org/) account can create or edit pages on this Wiki. Private pages are allowed, but their creation is controlled by the wiki administrators. To log in, click on the icon in the upper right corner on each page.
+# General guidance
+This wiki is for the IETF Community - any IETF participant is welcome to edit it.
+> **NOTE**:  To contribute to this wiki you must first log in (icon in the upper right corner) using your [Datatracker](https://datatracker.ietf.org/) credentials.
+{.is-warning}
 
-## General guidance and tools
+Once you are logged in, you can create or edit pages on this wiki. Only administrators can delete pages, create private pages, and add custom CSS/scripts to pages.
 
-The [Markdown](https://docs.requarks.io/en/editors/markdown) editing mode of Wiki.js should be preferred when creating a new page in IETF Wiki.
+# Basics
+## Editing language
+All pages are written in the WikiJS [flavour](https://docs.requarks.io/en/editors/markdown) of **Markdown**.
+
+Please aim for a consistent style as follows:
+1. Start your headings at level 1 (single #).
+2. Use backticks for code blocks - single backticks for inline and triple backticks for a standalone block.
+
+## Page and path naming convention
+Generally, this is one of the following forms: 
+```
+/group/{{group acronym}}/{{additional structure}}/{{page name}}
+/meeting/{{meeting number}}//{{additional structure}}/{{page name}}
+```
+* The **{{group acronym}}** is the same as that assigned by Datatracker. This ensures there are no name collisions and that we use a consistent naming scheme.
+* You can optionally add one or more path elements as **{{additional structure}}**.
+* The **{{page name}}** should be reasonably descriptive and consistent with the title that you will later give the page. 
+
+## Known limitations
+The wiki product we are using has the following known limitations:
+1. The page menu (the one that appears in the middle when the screen is wide enough, is auto-generated and auto-placed and this cannot be changed.
+1. The code highlighting library uses a low contrast theme by default and currently this cannot be changed.
+1. The URL of all pages starts /en/ (the language code) and this cannot be changed.
+
+## Sandbox
+If you want to try out the new wiki platform with out creating a page of your own, there's a [sandbox](/sandbox) to play in.
+
+# Step-by-step instructions
+## Editing a page
+You can edit a page in one of two ways:
+1.  By selecting Edit from the Page Actions menu. If you can't see that menu then you are not logged in.
+1.  By submitting a pull request against the [GitHub repository](https://github.com/ietf/wiki.ietf.org).  See below for more details.
 
 Some online tools ease the initial creation of tables in Markdown ([Table generator](https://www.tablesgenerator.com/markdown_tables); [for copy/paste from spreadsheets](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)).
 
-## Content transition for group wikis
+TIP: If you are editing a very long page then you can turn off live rendering to speed up page editing, with the plit screen icon above the live render.
+
+## Creating a page
+To create a page, you use the new Page icon in the upper right.  If you cannot see it then you are not logged in.
+
+The first question you are asked is to provide a path for the page - please see the Page and path naming convention above.
+
+Then you are asked what Editor type you want to use - please choose a new **Markdown** page not one of the other types (code, wysiwyg, etc).
+
+Finally you are asked for a title for the page.  Please make this consistent with the page name you chose earlier.
+
+# Migrating from Trac and other legacy wikis
 If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.
 
 > If you are an IETF or IRTF group chair and would like to initial help or additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
@@ -25,7 +70,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 **Quick start**
 1. Group pages are created on a FCFS basis using the path "/group/{{acronym}}"
 > If a page doesn't already exist for your group, you can create it by simply navigating to:
-> 	``https://wiki.ietf.org/group/{{acronym}}``
+> 	``https://wiki.ietf.org/group/{{group acronym}}``
 > 
 > e.g., the main wiki page for the the [6man Working Group](https://datatracker.ietf.org/group/6man/about/) is at https://wiki.ietf.org/group/6man
 {.is-info}
@@ -36,8 +81,6 @@ If you are responsible for content on an existing IETF wiki there are a number o
 {.is-info}
 
 3. When the new wiki is ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](/group) and confirm transition from the old wiki is in place.
-
-Want to try out the new wiki platform without creating a page of your own? There's also a [sandbox](/sandbox) for trying out Wiki editing.
 
 > If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 {.is-info}
@@ -56,3 +99,8 @@ If you have responsibility for any active IETF-related wiki (e.g. working group 
 
 **Hybrid Content-o-thon on 5 November during [IETF 115](https://www.ietf.org/how/meeting/115/)**
 Details to be announced shortly.
+
+# GitHub and this wiki
+The wiki is bi-directionally mirrored with a [GitHub repository](https://github.com/ietf/wiki.ietf.org), which you are welcome to clone.
+
+As noted above, pull requests are accepted against the repository, though initially direct editing is preferred.

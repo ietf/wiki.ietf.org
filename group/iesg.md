@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-09-20T16:37:34.063Z
+date: 2022-09-21T19:14:38.688Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -20,7 +20,7 @@ Quick Links
   - [Additional Meeting Rooms](/group/iesg/AdditionalMeetingRooms) - How to request additional meeting rooms for side meetings and such
 - [Retreat Info](/group/iesg/RetreatInfo) - information about the upcoming IESG retreat
 - [Joint IAB/IESG Workshop](/group/iesg/Workshop-2022Q1) Joint IAB/IESG Workshop Jan 2022
-- [IAB/IESG/LLC Workshop](/group/iesg/Workshop-October-2021) IESG IAB and LLC Workshop - information about the October 2021 Workshop
+- [IAB/IESG/LLC Workshop](Workshop-October-2021) IESG IAB and LLC Workshop - information about the October 2021 Workshop
 
 
 ---
@@ -113,7 +113,7 @@ Dealing with some complicate IANA Registries: [Media Types](mediatypes) (a.k.a. 
 #### Some abandoned or obsolete stuff that's nonetheless useful to save
 
 Wiki page for [Document Language Editing](documentlanguage) session at IETF 89 (2014) in  London.
-[Draft Shepherd Writeup WG Alternate](draftshepherdwriteup) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)**
+[Draft Shepherd Writeup WG Alternate](draftshepherdwriteup) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
 [Downref Registry](downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
 [Draft NoteWell Summary](draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
 [Draft Boilerplate Change](draftboilerplate) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**

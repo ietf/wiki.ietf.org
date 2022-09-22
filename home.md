@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-21T01:08:22.414Z
+date: 2022-09-22T14:33:01.592Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -22,7 +22,10 @@ This wiki provides persistent working spaces for various IETF groups (such as Wo
 
 It is not intended to be an alternative to the [www.ietf.org website](https://www.ietf.org)), nor to replace functionality of the [IETF Datatracker](https://datatracker.ietf.org/) (for example, as a repository for Internet-Drafts). It complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
 
-See the [Contributing to this wiki](/contributing) page for quick start guide and more details.
+## Contributing to this wiki
+This wiki is for the IETF Community—any IETF participant is welcome to edit it.
+
+See the [Contributing to this wiki](/contributing) page for a quick start guide and more details.
 
 # Other IETF websites
 

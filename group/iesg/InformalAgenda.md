@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-15T13:13:31.552Z
+date: 2022-09-22T13:18:51.144Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - September 15, 2022
+# Informal Telechat - September 29, 2022
  There will be **a** meeting on this date.
 
 Note to the community: Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
@@ -30,19 +30,17 @@ The current calendar subscription URL is at (updated 2019-03-07): https://calend
 ## Agenda
 
 ### 2. Documents
-#### 2.1 draft-yg3bp-ccamp-network-inventory-yang (Rob)
-https://datatracker.ietf.org/doc/draft-yg3bp-ccamp-network-inventory-yang/
-
-Folks want to standardize this in CCAMP (rather than NETMOD, OPSAWG or RTGWG), and I want to check that IESG is aware and okay with this.
+#### 2.1 Document (name)
 
 #### 2.2 Document (name)
 
 ### 3. Management Issues
 #### 3.1 RFC6761bis (Paul, pushed to Sep 29 due to Warren absense)
-#### 3.2 IESG Executive Session Topic #1
-#### 3.3 RTG AD Document Queues (John)
+#### 3.2 Final BOF Approvals for IETF 115 (Secretariat)
 
-Held over topic from the September 1 meeting.
+#### 3.3 Topic (name)
+
+
 
 #### 3.2 Topic (name)
 
