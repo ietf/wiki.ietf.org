@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T16:16:17.507Z
+date: 2022-09-22T16:18:08.348Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -569,7 +569,7 @@ The [Decentralized Internet Infrastructure Research Group](https://datatracker.i
 
 More details of the DINRG are [available](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation).
 
-[https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-ledger-technologies](https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-ledger-technologies)
+[https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-digital-ledger-technologies](https://wiki.ietf.org/en/group/iab/msp#h-336-blockchain-and-distributed-digital-ledger-technologies)
 
 ---
 
@@ -631,7 +631,7 @@ V2V and V2I communications may involve various kinds of link layers: 802.11-OCB 
 
 This group's primary deliverable (and the only Standards track item) will be a document that will specify the mechanisms for transmission of IPv6 datagrams over IEEE 802.11-OCB mode.
 
-[https://wiki.ietf.org/en/group/iab/msp#h-345-intelligent-transport-systems-(ITS)-cooperative-connected-and-automated-mobility-ITS-CCAM-and-electromobility](https://wiki.ietf.org/en/group/iab/msp#h-345-intelligent-transport-systems-(ITS)-cooperative-connected-and-automated-mobility-ITS-CCAM-and-electromobility)
+[https://wiki.ietf.org/en/group/iab/msp#h-345-intelligent-transport-systems-its-cooperative-connected-and-automated-mobility-its-ccam-and-electromobility](https://wiki.ietf.org/en/group/iab/msp#h-345-intelligent-transport-systems-its-cooperative-connected-and-automated-mobility-its-ccam-and-electromobility)
 
 ### 3.4.6 Digitisation of European Industry
 
