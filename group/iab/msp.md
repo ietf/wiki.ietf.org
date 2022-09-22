@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T13:36:11.000Z
+date: 2022-09-22T13:45:05.506Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -458,101 +458,119 @@ The [Secure Telephone Identity Revisited (STIR) WG](https://datatracker.ietf.org
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency]
 
-### 3.2.4 eGovernment === #eGov
+### 3.2.4 eGovernment
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.2.5 eCall === #eCall
 
-**RP:** *In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually.
-Further conformance, performance and periodic tests need to be developed and innovative solutions found for situations (such as low cost, low power P2WVs) where normal full eCall provisions are not practical.
-The European eCall Implementation Platform is making recommendations to ensure the best operation of the service and to take full advantage of all its possibilities. eCall is regulated for the life of the vehicle, and further provisions may be required in respect of periodic technical inspection (PTI) and test, and at end of life decommissioning.
-Recognising that introducing the service via new vehicle models will mean taking considerable time to equip all cars, EU regulation has already encouraged automotive manufacturers to voluntarily introduce eCall in existing models. However, now that the public land mobile network (PLMN) and PSAP support networks are in place and operational, there is a considerable aftermarket opportunity to bring the benefits of eCall to the current stock of vehicles throughout Europe, and several equipment vendors (both from within Europe and abroad) have already shown interest to fill this market niche, in some cases directly for 112-eCall, and in others for third-party service-supported eCall. Other entrants are expected. However, as it will prove more difficult to control the performance and quality of such aftermarket devices, there is an urgent need to develop standards for the physical parameters, installation and operational performance of such aftermarket devices, to enable adequate certification and PTI provisions. This will be essential to avoid PSAPs to be potentially inundated with false messages from such devices, and to increase the reliable and safe operation of such devices.
-Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to  the current regulations.*
+### 3.2.5 eCall
 
-The [https://datatracker.ietf.org/wg/ecrit/about/ Emergency Context Resolution with Internet Technologies (ECRIT) Working Group] has developed a general architecture for enabling IP applications to discover and connect to emergency services.
+> In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually.
+>
+>Further conformance, performance and periodic tests need to be developed and innovative solutions found for situations (such as low cost, low power P2WVs) where normal full eCall provisions are not practical.
+>
+>The European eCall Implementation Platform is making recommendations to ensure the best operation of the service and to take full advantage of all its possibilities. eCall is regulated for the life of the vehicle, and further provisions may be required in respect of periodic technical inspection (PTI) and test, and at end of life decommissioning.
+>
+>Recognising that introducing the service via new vehicle models will mean taking considerable time to equip all cars, EU regulation has already encouraged automotive manufacturers to voluntarily introduce eCall in existing models. However, now that the public land mobile network (PLMN) and PSAP support networks are in place and operational, there is a considerable aftermarket opportunity to bring the benefits of eCall to the current stock of vehicles throughout Europe, and several equipment vendors (both from within Europe and abroad) have already shown interest to fill this market niche, in some cases directly for 112-eCall, and in others for third-party service-supported eCall. Other entrants are expected. However, as it will prove more difficult to control the performance and quality of such aftermarket devices, there is an urgent need to develop standards for the physical parameters, installation and operational performance of such aftermarket devices, to enable adequate certification and PTI provisions. This will be essential to avoid PSAPs to be potentially inundated with false messages from such devices, and to increase the reliable and safe operation of such devices.
+>
+>Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to  the current regulations.
 
-The [https://datatracker.ietf.org/wg/geopriv/about/ Geographic Location/Privacy (GEOPRIV) Working Group] has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
+The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
-The application-specific working groups in the IETF (for example, the [https://datatracker.ietf.org/wg/sipcore/about/ Session Initiation Protocol Core (SIPCORE) Working Group]) have developed extensions to support emergency calling as required.
+The [Geographic Location/Privacy (GEOPRIV) Working Group](https://datatracker.ietf.org/wg/geopriv/about/) has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
+
+The application-specific working groups in the IETF (for example, the [Session Initiation Protocol Core (SIPCORE) Working Group](https://datatracker.ietf.org/wg/sipcore/about/)) have developed extensions to support emergency calling as required.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall]
 
-### 3.2.6 Covid-19 === #Covid19
+### 3.2.6 Covid-19
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.2.7 Safety, transparency and due process online === #Safety
+### 3.2.7 Safety, transparency and due process online
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-----
+---
 
 ## 3.3 Innovation for the Digital Single Market 
 
-### 3.3.1 e-Procurement – Pre and Post award === #eProcurement
+### 3.3.1 e-Procurement – Pre and Post award
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.3.2 e-Invoicing === #eInvoice
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+### 3.3.2 e-Invoicing
 
-### 3.3.3 Retail Payments === #MobPay
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
 
-### 3.3.4 Preservation of digital cinema === #DigCinema
+### 3.3.3 Retail Payments
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.3.5 Fin-Tech and Reg-Tech standardisation === #FinTech
 
-*RP:* *Traditional financial institutions realize they have a lot to lose or gain from the Fintech revolution and invest huge effort and money to adapt their technology and processes to adjust to a new environment, find a place in this new ecosystem, compete with new business models and respond to new consumer needs and behaviours. Across Europe, there has been considerable uptake of new digital channels: over 58% of Western Europeans (85% for Northern Europeans) prefer to use digital over physical branches, compared to 52% of US bank customers. These trends have grabbed the attention of investors who have made massive investments, growing by 75% in 2015 to $22.3bn, five times higher than in 2013.
+### 3.3.4 Preservation of digital cinema
 
-*Fintech start-ups appear with innovative solutions challenging existing financial services business models, markets and regulation. The existing legal framework is being reviewed at EU level and the concept of regulatory experimentation frameworks (or sandboxes) explored to help address this transformation and enable innovation.   
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-*Some regulatory adjustments have already been adopted such as amendments to the Anti-Money Laundering directive and the use of electronic identification. Since July 2016, the Electronic Identification and Trust Services Regulation can give e-transactions and other e-signed documents the same legal status as those that are paper-based. The new Capital Requirement Regulation CRR2 package adopted in 2016 takes technological innovations into consideration, and so is the 2017 Action Plan for Retail Financial Services.
 
-*Following several public consultations regarding financial services and the EU Parliament report on blockchain and virtual currencies, the Commission has set-up a horizontal Financial Technology Task Force to explore the impact of new financial technologies on consumers and businesses and the possible risks for financial stability. One of the work streams of the Task Force focuses on Interoperability and Standardisation.
+### 3.3.5 Fin-Tech and Reg-Tech standardisation
 
-*In parallel, and in relation to the need for more harmonised supervisory reporting, in its Communication on the CfE: “EU regulatory framework for financial services" the Commission committed to investigate and address the concerns around the costs and complexity of reporting by undertaking a review of reporting requirements in the financial sector. This work is performed within the ongoing financial data standardisation (FDS) project which will produce a comprehensive mapping of reporting requirements and aims to develop a common language on financial data. This initiative forms a key contribution to the Commission's Better Regulation agenda and the Regulatory Fitness and Performance (REFIT) programme, which ensures that EU Legislation delivers results for citizens and businesses effectively, efficiently and at minimum cost.*
+>Traditional financial institutions realize they have a lot to lose or gain from the Fintech revolution and invest huge effort and money to adapt their technology and processes to adjust to a new environment, find a place in this new ecosystem, compete with new business models and respond to new consumer needs and behaviours. Across Europe, there has been considerable uptake of new digital channels: over 58% of Western Europeans (85% for Northern Europeans) prefer to use digital over physical branches, compared to 52% of US bank customers. These trends have grabbed the attention of investors who have made massive investments, growing by 75% in 2015 to $22.3bn, five times higher than in 2013.
+>
+>Fintech start-ups appear with innovative solutions challenging existing financial services business models, markets and regulation. The existing legal framework is being reviewed at EU level and the concept of regulatory experimentation frameworks (or sandboxes) explored to help address this transformation and enable innovation.   
+>
+>Some regulatory adjustments have already been adopted such as amendments to the Anti-Money Laundering directive and the use of electronic identification. Since July 2016, the Electronic Identification and Trust Services Regulation can give e-transactions and other e-signed documents the same legal status as those that are paper-based. The new Capital Requirement Regulation CRR2 package adopted in 2016 takes technological innovations into consideration, and so is the 2017 Action Plan for Retail Financial Services.
+>
+>Following several public consultations regarding financial services and the EU Parliament report on blockchain and virtual currencies, the Commission has set-up a horizontal Financial Technology Task Force to explore the impact of new financial technologies on consumers and businesses and the possible risks for financial stability. One of the work streams of the Task Force focuses on Interoperability and Standardisation.
+>
+>In parallel, and in relation to the need for more harmonised supervisory reporting, in its Communication on the CfE: “EU regulatory framework for financial services" the Commission committed to investigate and address the concerns around the costs and complexity of reporting by undertaking a review of reporting requirements in the financial sector. This work is performed within the ongoing financial data standardisation (FDS) project which will produce a comprehensive mapping of reporting requirements and aims to develop a common language on financial data. This initiative forms a key contribution to the Commission's Better Regulation agenda and the Regulatory Fitness and Performance (REFIT) programme, which ensures that EU Legislation delivers results for citizens and businesses effectively, efficiently and at minimum cost.
 
-,,Editor's note: No specific work identified in the IETF or IRTF,,
+> Editor's note: No specific work identified in the IETF or IRTF
+{.is-info}
 
-### 3.3.6 Blockchain and Distributed Digital Ledger Technologies === #Ledger
 
-*RP:* *Blockchain has great potential in providing an infrastructure for trusted, decentralised and disintermediated services beyond the financial sector. The first Semester of 2018 has seen $6.3bn invested in ICOs and $885mn for VC.[1]
+### 3.3.6 Blockchain and Distributed Digital Ledger Technologies
 
-*While the FinTech industry has been an early adopter because of its early awareness of bitcoin, blockchain will benefit many other industries. It is considered a foundational technology that some compare to the raise of the Internet in the early 90s. More than a technology, it could lead to a major political innovation by redefining the way we operate transactions, access information and share data (e.g. empowering patients to securely share e-health records and decide who to grant access to their data).
+>Blockchain has great potential in providing an infrastructure for trusted, decentralised and disintermediated services beyond the financial sector. The first Semester of 2018 has seen $6.3bn invested in ICOs and $885mn for VC.
+>
+>While the FinTech industry has been an early adopter because of its early awareness of bitcoin, blockchain will benefit many other industries. It is considered a foundational technology that some compare to the raise of the Internet in the early 90s. More than a technology, it could lead to a major political innovation by redefining the way we operate transactions, access information and share data (e.g. empowering patients to securely share e-health records and decide who to grant access to their data).
+>
+>Blockchain is a promising technology to share data and manage transactions in a controlled manner, with many possible applications to deliver social goods in the field of eHealth and eGovernment, health records, land registries or the security certification of links in an Internet of Things chain of devices, manage intellectual property rights and eID. 
+>
+>It has also great potential for the private sector, in trading, contracting, supply chain management, traceability along industrial supply chains (e.g. on social & environmental conditions of work, on material composition or on the maintenance history of the item) and much more. It may also transform the governance of private organisations and of companies (concept of Decentralised Autonomous Organisation - DAO), and hence impact labour rights. Furthermore, from a regulatory and supervisory point of view, it can provide regulators with the same view into the data as the companies they're regulating, thereby reducing fraud and compliance costs.
+>
+>However, this process is hindered by a lack of harmonisation and interoperability that constitute obstacles to cross border and cross sector transactions. The responsibility for public policy-makers would be to support innovation within a safe and future-proof technological and regulatory environment, ensuring appropriate transparency, accessibility, monitoring and governance
+>
+>In the context of a DSM where the amount of online transactions and data is exploding, setting the right conditions for the advent of an open, trustworthy, transparent, compliant and authenticated transaction system is a real challenge for the EU. Existing decentralised environments lack trust, accountability, interoperability, regulatory certainty and mature governance models.
+>
+>Action 1: The standardisation community should continue analysing possible standardisation gaps and reflect on best way to fill them. Activities may focus on governance and interoperability, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
+>
+>Action 2: Regularly update the white paper on the EU perspective on blockchain/DLT standardisation.
+>
+>Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, TOOP, etc..) and submit them to relevant standardization bodies, including CEN-CENELEC and ETSI, and also ISO, ITU
+>
+>Action 4:  Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
+>
+>Action 5: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
+>
+>Action 6: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
+>
+>Action 7: A general framework for Governance of the European networks based on DLT should be developed to allow the flow of smart contracts between different networks.
+>
+>Action 8: ESOs to develop the standards needed for the for the introduction of a private-sector programmable Euro, in particular to ensure interoperability.
 
-*Blockchain is a promising technology to share data and manage transactions in a controlled manner, with many possible applications to deliver social goods in the field of eHealth and eGovernment, health records, land registries or the security certification of links in an Internet of Things chain of devices, manage intellectual property rights and eID. 
+The [Decentralized Internet Infrastructure Research Group](https://datatracker.ietf.org/rg/dinrg/about/) (DINRG) will investigate open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
 
-*It has also great potential for the private sector, in trading, contracting, supply chain management, traceability along industrial supply chains (e.g. on social & environmental conditions of work, on material composition or on the maintenance history of the item) and much more. It may also transform the governance of private organisations and of companies (concept of Decentralised Autonomous Organisation - DAO), and hence impact labour rights. Furthermore, from a regulatory and supervisory point of view, it can provide regulators with the same view into the data as the companies they're regulating, thereby reducing fraud and compliance costs.
-
-*However, this process is hindered by a lack of harmonisation and interoperability that constitute obstacles to cross border and cross sector transactions. The responsibility for public policy-makers would be to support innovation within a safe and future-proof technological and regulatory environment, ensuring appropriate transparency, accessibility, monitoring and governance
-
-*In the context of a DSM where the amount of online transactions and data is exploding, setting the right conditions for the advent of an open, trustworthy, transparent, compliant and authenticated transaction system is a real challenge for the EU. Existing decentralised environments lack trust, accountability, interoperability, regulatory certainty and mature governance models.
-
-*Action 1: The standardisation community should continue analysing possible standardisation gaps and reflect on best way to fill them. Activities may focus on governance and interoperability, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
-
-*Action 2: Regularly update the white paper on the EU perspective on blockchain/DLT standardisation.
-
-*Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, TOOP, etc..) and submit them to relevant standardization bodies, including CEN-CENELEC and ETSI, and also ISO, ITU
-
-*Action 4:  Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
-
-*Action 5: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
-
-*Action 6: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
-
-*Action 7: A general framework for Governance of the European networks based on DLT should be developed to allow the flow of smart contracts between different networks.
-
-*Action 8: ESOs to develop the standards needed for the for the introduction of a private-sector programmable Euro, in particular to ensure interoperability.
-
-The [https://datatracker.ietf.org/rg/dinrg/about/ Decentralized Internet Infrastructure Research Group] (DINRG) will investigate open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
-
-More details of the DIN RG are [https://trac.ietf.org/trac/irtf/wiki/blockchain-federation available].
+More details of the DIN RG are [available](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation).
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger]
 
