@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: This is a public working draft that has not been reviewed by the IAB or the IETF.
 published: true
-date: 2022-09-22T12:55:27.062Z
+date: 2022-09-22T12:57:44.392Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z
@@ -195,35 +195,35 @@ Interactions between IETF and 5G developments fall into several categories:
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG]
 
-### 3.1.2 Cloud and edge computing === #Cloud
+### 3.1.2 Cloud and edge computing
 
-**RP:** *The Communication on ICT Standardisation Priorities for the digital single market proposes priority actions in the domain of Cloud. Actions mentioned below reflect some of them.
-
-*Action 1: Identify needs for ICT standards to further improve the interoperability, data protection and portability of cloud services and start respective development activities.
-
-*Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services.
-
-*Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation.
-
-*Action 4:  Promote international standards on service level agreements (SLAs) and usage of the cloud code of conduct (CoC).
-
-*Action 5: ESOs are asked to update the mapping of cloud standards and guidelines for end-users (especially SMEs and the public sector), in collaboration with international SDOs, cloud providers and end users. This action could also draw on the material developed, e.g. to update the standards mapping carried out by cloud standards coordination phases 1 & 2.
-
-*Action 6: Promote the use of the ISO/IEC JTC 1 reference cloud architecture and define generic cloud architecture building blocks. Map available standards to the generic cloud architecture building blocks. Define privacy, security and test standards for each building block. This will also help determine which standards can be used for open cloud platforms and architectures taking into account the key role of open source for cloud infrastructure design and implementations.
+> The Communication on ICT Standardisation Priorities for the digital single market proposes priority actions in the domain of Cloud. Actions mentioned below reflect some of them.
+>
+> Action 1: Identify needs for ICT standards to further improve the interoperability, data protection and portability of cloud services and start respective development activities.
+>
+> Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services.
+>
+> Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation.
+>
+> Action 4:  Promote international standards on service level agreements (SLAs) and usage of the cloud code of conduct (CoC).
+>
+> Action 5: ESOs are asked to update the mapping of cloud standards and guidelines for end-users (especially SMEs and the public sector), in collaboration with international SDOs, cloud providers and end users. This action could also draw on the material developed, e.g. to update the standards mapping carried out by cloud standards coordination phases 1 & 2.
+>
+> Action 6: Promote the use of the ISO/IEC JTC 1 reference cloud architecture and define generic cloud architecture building blocks. Map available standards to the generic cloud architecture building blocks. Define privacy, security and test standards for each building block. This will also help determine which standards can be used for open cloud platforms and architectures taking into account the key role of open source for cloud infrastructure design and implementations.
 
 The IETF has multiple groups working on standards for virtualization techniques, including techniques used in cloud computing and datacenters.
 
-The [https://datatracker.ietf.org/wg/l2vpn/about/ Layer 2 Virtual Private Networks (​L2VPN) Working Group] produced specifications defining and specifying solutions for supporting provider-provisioned Layer-2 Virtual Private Networks (L2VPNs). They also addressed requirements driven by cloud computing services and data centers as they apply to Layer-2 VPN services. The [https://datatracker.ietf.org/wg/l2sm/about/ L2VPN Service Model (L2SM) Working Group] is tasked to created a data model that describes an L2VPN service.
+The [Layer 2 Virtual Private Networks (​L2VPN) Working Group](https://datatracker.ietf.org/wg/l2vpn/about/) produced specifications defining and specifying solutions for supporting provider-provisioned Layer-2 Virtual Private Networks (L2VPNs). They also addressed requirements driven by cloud computing services and data centers as they apply to Layer-2 VPN services. The [L2VPN Service Model (L2SM) Working Group](https://datatracker.ietf.org/wg/l2sm/about/) is tasked to created a data model that describes an L2VPN service.
 
-The [https://datatracker.ietf.org/wg/l3vpn/about/ Layer 3 Virtual Private Networks (​L3VPN) Working Group] was responsible for defining, specifying and extending solutions for supporting provider-provisioned Layer-3 (routed) Virtual Private Networks (L3VPNs). These solutions provide IPv4, IPv6, and MPLS services including multicast.
+The [Layer 3 Virtual Private Networks (​L3VPN) Working Group](https://datatracker.ietf.org/wg/l3vpn/about/) was responsible for defining, specifying and extending solutions for supporting provider-provisioned Layer-3 (routed) Virtual Private Networks (L3VPNs). These solutions provide IPv4, IPv6, and MPLS services including multicast.
 
-The [https://datatracker.ietf.org/wg/l3sm/about/ Layer Three Virtual Private Network Service Model (L3SM) Working Group] was tasked to create a YANG data model that describes an L3VPN service (an L3VPN service model) that can be used for communication between customers and network operators, and to provide input to automated control and configuration applications.
+The [Layer Three Virtual Private Network Service Model (L3SM) Working Group](https://datatracker.ietf.org/wg/l3sm/about/) was tasked to create a YANG data model that describes an L3VPN service (an L3VPN service model) that can be used for communication between customers and network operators, and to provide input to automated control and configuration applications.
 
-The [https://datatracker.ietf.org/wg/nvo3/about/ Network Virtualization Overlays (​NVO3) Working Group] develops a set of protocols and extensions that enable network virtualization within a datacenter environment that assumes an IP-based underlay. An NVO3 solution provides layer 2 and/or layer 3 services for virtual networks enabling multi-tenancy and workload mobility, addressing management and security issues.
+The [Network Virtualization Overlays (​NVO3) Working Group](https://datatracker.ietf.org/wg/nvo3/about/) develops a set of protocols and extensions that enable network virtualization within a datacenter environment that assumes an IP-based underlay. An NVO3 solution provides layer 2 and/or layer 3 services for virtual networks enabling multi-tenancy and workload mobility, addressing management and security issues.
 
-The [https://datatracker.ietf.org/wg/scim/about/ System for Cross-domain Identity Management (SCIM) Working Group] worked on standardising methods for creating, reading, searching, modifying, and deleting user identities and identity-related objects across administrative domains, with the goal of simplifying common tasks related to user identity management in services and applications.
+The [System for Cross-domain Identity Management (SCIM) Working Group](https://datatracker.ietf.org/wg/scim/about/) worked on standardising methods for creating, reading, searching, modifying, and deleting user identities and identity-related objects across administrative domains, with the goal of simplifying common tasks related to user identity management in services and applications.
 
-The [https://datatracker.ietf.org/rg/coinrg/about/ Computing in the Network Research Group (coinrg)] of the IRTF explores existing research and fosters investigation of “Compute In the Network” and resultant impacts to the data plane. The goal is to investigate how to harness and to benefit from this emerging disruption to the Internet architecture to improve network and application performance as well as user experience.
+The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.org/rg/coinrg/about/) of the IRTF explores existing research and fosters investigation of “Compute In the Network” and resultant impacts to the data plane. The goal is to investigate how to harness and to benefit from this emerging disruption to the Internet architecture to improve network and application performance as well as user experience.
 
 [https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud]
 
