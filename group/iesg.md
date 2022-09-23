@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-09-21T19:14:38.688Z
+date: 2022-09-23T16:27:18.409Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -78,7 +78,7 @@ Quick Links
 
 #### Thoughts
 - Some [IESG Thoughts on Liaisons](/group/iesg/liaisonthoughts)
-- On the origins of DISCUSS comments (This is an older page. Much of this is covered on the more recent ExpertTopics page)
+- [On the origins of DISCUSS comments](/discusscomments) (This is an older page. Much of this is covered on the more recent ExpertTopics page)
 
 #### Getting Started as an AD
 - An IESG Charter, RFC 3710 (2004)
