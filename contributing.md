@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-22T23:37:41.828Z
+date: 2022-09-23T14:59:23.069Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -50,7 +50,7 @@ You can edit a page in one of two ways:
 
 Some online tools ease the initial creation of tables in Markdown ([Table generator](https://www.tablesgenerator.com/markdown_tables); [for copy/paste from spreadsheets](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)).
 
-TIP: If you are editing a very long page then you can turn off live rendering to speed up page editing, with the plit screen icon above the live render.
+TIP: If you are editing a very long page then you can turn off live rendering to speed up page editing, with the split screen icon above the live render.
 
 ## Creating a page
 To create a page, you use the new Page icon in the upper right.  If you cannot see it then you are not logged in.
@@ -59,7 +59,10 @@ The first question you are asked is to provide a path for the page - please see 
 
 Then you are asked what Editor type you want to use - please choose a new **Markdown** page not one of the other types (code, wysiwyg, etc).
 
-Finally you are asked for a title for the page.  Please make this consistent with the page name you chose earlier.
+Finally you are asked for a title for the page. Please make this consistent with the page name you chose earlier.
+
+## Adding an asset
+If you need to add an image or other assent (PDF) for your wiki, you can do that by using the "Insert Asset" folder icon in the left side of the editor view. From there you will be prompted to browse for the file to upload. After uploading, you will be able to perform various actions on the asset using the '...' link in the Action column of the asset list.
 
 # Migrating from Trac and other legacy wikis
 If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.
