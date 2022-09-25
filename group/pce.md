@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-09-08T15:44:38.333Z
+date: 2022-09-25T19:55:14.182Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -36,7 +36,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-li-pce-pcep-srv6-yang | WG Adoption Ends - 20220919 | IPR - 4/5 | Dhruv |
+| draft-li-pce-pcep-srv6-yang | WG Adoption Ends - 20220919 | IPR - 5/5 | Dhruv |
 | [draft-dhody-pce-pcep-extension-pce-controller-srv6](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-srv6) | Pending | - | - |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | - |
 | [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Pending | - | - |
