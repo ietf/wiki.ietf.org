@@ -2,7 +2,7 @@
 
 This document contains links and references to resources that the IETF Media Operations community deemed potentially useful to operators of streaming media services or network operators for networks that carry traffic from such services.
 
-This document is a companion to [draft-ietf-mops-streaming-opcons](https://datatracker.ietf.org/doc/draft-ietf-mops-streaming-opcons/), please read that document for a more complete explanation.
+This document is a companion to [RFC 9317](https://www.rfc-editor.org/rfc/rfc9317.html), please read that document for a more complete explanation.
 
 ## Document Maintenance
 
@@ -14,9 +14,8 @@ and URLs may be updated or removed by the document editors if the
 resources they refer to move locations or get removed by their
 publishers.
 
-An archive with older versions of this document can be found at:
-
- <https://github.com/ietf-wg-mops/draft-ietf-mops-streaming-opcons/commits/main/living-doc-mops-streaming-opcons.md>
+An archive with the history of changes to this document can be found at:
+ <https://github.com/ietf/wiki.ietf.org/commits/main/group/mops/rfc9317-additional-resources.md>
 
 ## Status of This Memo
 
@@ -185,7 +184,7 @@ The following papers explain the latest developments in the immersive media doma
 Ads can be inserted at different stages in the streaming workflow, on the server side or client side. The DASH-IF guidelines detail server-side ad-insertion with period replacements based on manipulating the manifest. HLS interstitials provide a similar approach. The idea is that the manifest can be changed and point to a sub-playlist of segments, possibly located on a different location. This approach results in efficient resource usage in the network, as duplicate caching is avoided, but some intelligence at the player is needed to deal with content transitions (e.g., codec changes, timeline gaps, etc.). Player support for such content is gradually maturing. Other important technologies for ad insertion include signalling of ads and breaks that is still typically based on SCTE-35 for HLS and SCTE-214 for DASH. Such signals provide useful information for scheduling the ads and contacting ad servers. The usage of SCTE-35 for ad insertion is popular in the broadcast industry, while the exact usage in the OTT space is still being discussed in SCTE. Another important technology is identification of ads, such as based on ad-id or other commercial entities that provide such services. The identification of the ad in a manifest or stream is usually standardized by SMPTE. Other key technologies for ad insertion include tracking of viewer impressions, usually based on Video Ad Serving Template (VAST) defined by IAB.
 
 - DASH-IF Ad Insertion Guidelines: <https://dashif.org/docs/CR-Ad-Insertion-r7.pdf>
-- SCTE-214-1: <https://www.scte.org/standards-development/library/standards-catalog/ansiscte-214-1-2016/>
+- SCTE-214-1: <https://www.scte.org/standards/library/catalog/scte-214-1-mpeg-dash-for-ip-based-cable-services-part1-mpd-constraints-and-extensions/>
 - RP 2092-1:2015 - SMPTE Recommended Practice - Advertising Digital Identifier (Ad-ID) Representations: <https://ieeexplore.ieee.org/document/7291518>
 - IAB Tech Lab Digital Video Studio: <https://iabtechlab.com/audio-video/tech-lab-digital-video-suite/>
 
@@ -207,5 +206,4 @@ WebRTC is increasingly being used for streaming of time-sensitive content such a
 
 - DASH-IF WebRTC Discussions: <https://dashif.org/webRTC/>
 - Overview of WebRTC: <https://webrtc.org/>
-
 
