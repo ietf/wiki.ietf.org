@@ -2,7 +2,7 @@
 title: Archive of Former Work
 description: 
 published: true
-date: 2022-09-27T16:12:42.023Z
+date: 2022-09-27T16:17:59.295Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T16:01:21.991Z
@@ -38,9 +38,9 @@ dateCreated: 2022-09-27T16:01:21.991Z
 
 ## Some abandoned or obsolete stuff that's nonetheless useful to save 
 
- * [Draft Shepherd Writeup WG Alternate](/draftshepherdwriteup) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84.  This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories.  **(This is now part of the normal shepherd writeup documentation)**
+ * [Draft Shepherd Writeup WG Alternate](/group/iesg/draftshepherdwriteup) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84.  This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories.  **(This is now part of the normal shepherd writeup documentation)**
 
- * [Draft Note Well Summary](/draftnotewell) - A draft version of a very short Note Well summary.  **(This is now dead.)**
+ * [Draft Note Well Summary](/group/iesg/draftnotewell) - A draft version of a very short Note Well summary.  **(This is now dead.)**
 
- * [Draft Boilerplate Change](/draftboilerplate) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense.  **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
+ * [Draft Boilerplate Change](/group/iesg/draftboilerplate) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense.  **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
 
