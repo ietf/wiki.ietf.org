@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-22T13:18:51.144Z
+date: 2022-09-27T20:15:28.386Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -38,7 +38,7 @@ The current calendar subscription URL is at (updated 2019-03-07): https://calend
 #### 3.1 RFC6761bis (Paul, pushed to Sep 29 due to Warren absense)
 #### 3.2 Final BOF Approvals for IETF 115 (Secretariat)
 
-#### 3.3 Topic (name)
+#### 3.3 Balloting Requirements vs. Leaves of Absence (John)
 
 
 
