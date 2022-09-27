@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-09-26T13:12:42.001Z
+date: 2022-09-27T14:10:39.755Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -83,7 +83,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-enhanced-errors](https://datatracker.ietf.org/doc/draft-ietf-pce-enhanced-errors) | Y | Feedback requested on the mailing list by 2021-05-17 | -11 posted on 2022-03-07; Work out how to encourage other I-Ds to use this; is there still interest? | Dhruv | Dhruv |
-| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Y |IN WGLC; ends 2022-10-11 | IPR -0/4 | Julien | - | 
+| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Y |IN WGLC; ends 2022-10-11 | IPR -2/4 | Julien | - | 
 | [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Y | -14 posted on 2022-07-10 | Early codepoint allocated, Ready for WGLC  | - | - |
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Y | -18 posted on 2022-03-21 | Requested feedback from IDR | - | - |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -07 version posted on 2022-03-07 | Gather implementation experience | - | - |
