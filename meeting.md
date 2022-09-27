@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2022-09-27T19:13:36.820Z
+date: 2022-09-27T19:13:54.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -27,7 +27,7 @@ November 5-11, 2022 London, UK
 
 ### IETF 117
 [IETF 117 Meeting Wiki](/meeting/117)
-IETF 117 Side meetings
+[IETF 117 Side meetings]()
 [IETF 117 Hackathon](/meeting/117/hackathon)
 
 ## Past meetings
