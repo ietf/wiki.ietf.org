@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-09-15T15:57:47.539Z
+date: 2022-09-27T13:25:33.379Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -45,9 +45,8 @@ Meetecho: TBD
 > - INT
 > - OPS
 > - GEN 
-> 
-> 3. Topic (NAME)
-> 4. Topic (NAME)
+> 3. Fund raising events at IETF meetings (Jay)
+> 4. Introducing the new RSCE - Alexis Rossi (Jay)
 > 5. Topic (NAME)
 {.is-info}
 
