@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-28T14:42:36.095Z
+date: 2022-09-28T17:18:29.834Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,7 @@ Note that this page is public.
 1. RFC6761bis (Paul, pushed to Sep 29 due to Warren absense)
 
 1. Final BOF Approvals for IETF 115 (Secretariat)
+	* https://datatracker.ietf.org/doc/bof-requests
 
 1. Balloting Requirements vs. Leaves of Absence (John)
 
