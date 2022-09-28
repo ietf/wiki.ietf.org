@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-09-27T16:48:53.543Z
+date: 2022-09-28T14:03:28.124Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -84,7 +84,7 @@ Quick Links
 
 There is a lot of useful information on how to utilize the tools. As a new AD you will work with the Secretariat for access.
 
-Reference for All ADs on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
+[Reference for All ADs](/newADinfo) on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
 
 #### Useful Mailing Lists or Addresses
 | Email Address or Alias  |	Recipient |
