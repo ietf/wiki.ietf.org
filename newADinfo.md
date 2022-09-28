@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2022-09-28T14:09:49.719Z
+date: 2022-09-28T15:22:12.278Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -26,37 +26,37 @@ dateCreated: 2022-09-28T14:08:25.237Z
 ## Document Sponsoring and Telechat Information:
 
  * PublishPath
- * [wiki:ADReviewChecklist AD Review Checklist]
- * DocumentOntoAgenda
- * CharteringWorkingGroups
- * [ReviewingDocuments Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)]
- * [TypicalAppsAreaIssues Collection of issues frequently found by Application Area ADs]
- * [https://trac.ietf.org/trac/tsv/wiki/tsvart-common-issues Guidelines for Issues Found during TSVDIR Reviews]
- * FrontPageAuthors
- * DiscussResolving
- * [#WorkingwiththeRFCEditor Working with the RFC Editor on Independent Submissions]
- * [wiki:ObsoletingRFCsFromOtherStreams Obsoleting RFCs belonging to other Streams]
- * Information about [wiki:InformalTelechats informal telechats]
- * ProcessingErrata
+ * [AD Review Checklist]
+ * [Document Onto Agenda]
+ * [Chartering Working Groups]
+ * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)]
+ * [Collection of issues frequently found by ART Area ADs]
+ * [Guidelines for Issues Found during TSVDIR Reviews](https://trac.ietf.org/trac/tsv/wiki/tsvart-common-issues)
+ * [Front Page Authors]
+ * [Discuss Resolving]
+ * [Working with the RFC Editor on Independent Submissions]
+ * [Obsoleting RFCs belonging to other Streams]
+ * Information about [informal telechats]
+ * [Processing Errata]
 
 When you surface after joining the IESG long enough to think about "steering", instead of just reviewing docs for telechats
- * https://tools.ietf.org/html/rfc3774 is a snapshot of what the community thought the IETF needed to fix in 2004. It is still relevant, and that is not a good sign ... 
+ * RFC 3774 is a snapshot of what the community thought the IETF needed to fix in 2004. It is still relevant, and that is not a good sign ... 
 
 ## Other Intros
 
- * HowDoing: Tools to monitor AD and WG progress
- * CaffeineIetf
- * DisruptivePeople
- * NewbieQuestions - other collected new-to-IESG questions
- * IesgInternal - when we need to communicate in private and how
+ * [How Doing](): Tools to monitor AD and WG progress
+ * [Caffeine IETF]()
+ * [Disruptive People]()
+ * [Newbie Questions]() - other collected new-to-IESG questions
+ * [IESG Internal]() - when we need to communicate in private and how
  
 
 ### Driving Lessons for the Datatracker 
 
 Use the Datatracker to:
 
- * Initiate Last Calls (LastCallDetails)
- * Create document ballots, build meeting agendas and [wiki:ClearReturning clear returning items] (DocumentOntoAgenda)
+ * Initiate Last Calls 
+ * Create document ballots, build meeting agendas and [clear returning items]() 
  * Lets ADs fill in ballots (BallotDetails)
  * Initiates approval announcement messages (ApprovalDetails)
  * Sends email to a list when the document changes state (TrackerNotifications)
@@ -82,17 +82,17 @@ If an AD hasn't had time to review a draft but really feels the need to do so (i
 unwilling to state NO OBJECTION without further ado), it's possible to [DEFER] 
 the draft to the next telechat - once only. Most ADs feel bad if they have to do this. 
  
-=== The Role of Document Shepherds ===
+### The Role of Document Shepherds 
 
-[http://www.rfc-editor.org/rfc/rfc4858.txt RFC 4858] defines the role of
+RFC 4858 defines the role of
 the Document Shepherd for documents from IETF working groups, and it also says:
 
-{{{
+```
 The Document Shepherd is usually a chair of the working group that
 has produced the document.  In consultation with the Responsible Area
 Director, the chairs may instead decide to appoint the working group
 secretary as the responsible Document Shepherd.
-}}}
+```
 
 Experience has shown that a successful Document Shepherd need not be the
 working group chair or secretary.  In fact, the IESG encourages the
