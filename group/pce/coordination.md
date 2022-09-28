@@ -2,7 +2,7 @@
 title: PCE WG's coordination tracker with other WG/RG
 description: 
 published: true
-date: 2022-07-24T07:00:23.734Z
+date: 2022-09-28T13:27:20.704Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-24T06:49:27.474Z
@@ -24,6 +24,7 @@ PCE documents for SR
 * draft-ietf-pce-sr-path-segment - Path Segment
 * draft-ietf-pce-pcep-ifit - IFIT
 
+
 | Feature | PCE | SPRING | IDR | Remarks |
 | --- | --- | --- | --- | --- |
 | SR-MPLS | RFC8664 | - | - | - |
@@ -36,6 +37,11 @@ PCE documents for SR
 | Path Segment | draft-ietf-pce-sr-path-segment | - | - | - |
 | IFIT | draft-ietf-pce-pcep-ifit | - | - | - |
 
+Some individual I-D for future
+* draft-sidor-pce-circuit-style-pcep-extensions 
+* draft-yang-pce-pcep-redundancy-policy
+* draft-chen-pce-sr-mpls-sid-verification
+
 
 ## Multicast
 
@@ -47,7 +53,9 @@ There is a lot of past work on RSVP-TE P2MP LSP in PCEP
 
 ## DetNet
 
-
+PCE documents for DetNet
+* draft-xiong-pce-detnet-bounded-latency
+* draft-zhang-pce-enhanced-detnet
 
 ## Others
 
@@ -56,3 +64,7 @@ There is a lot of past work on RSVP-TE P2MP LSP in PCEP
 ### Native-IP
 
 ### PCECC
+
+### NRP
+* draft-xiong-pce-nrp-id
+* draft-dong-pce-pcep-vtn
