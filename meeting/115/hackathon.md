@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-21T08:54:04.895Z
+date: 2022-09-28T15:56:32.904Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -188,7 +188,16 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
 - Project info
   - Develop and validate running code. Extend IPFIX export in VPP at FD.io and on Huawei VRP. Establish SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data.
-  
+
+**NTPv5**
+- Champion(s)
+  - Karen O'Donoghue (odonoghue at isoc.org)
+  - Dieter Sibold (dsibold.ietf at gmail.com)
+- Project info
+  - Develop and test preliminary implementations of NTPv5 to validate discussion from the working group. 
+  https://datatracker.ietf.org/doc/draft-mlichvar-ntp-ntpv5/
+  https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/
+
  **Your-Project-Name**
 - Champion(s)
   - tbd
