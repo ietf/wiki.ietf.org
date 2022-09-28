@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-09-28T12:53:35.431Z
+date: 2022-09-28T12:54:35.613Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -39,7 +39,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Pending | - | - |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | - |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | - |
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | 1 I-D v/s 2 I-D for informational v/s normative parts is needed | - |  
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | WG discussion on 1 I-D v/s 2 I-D for informational v/s normative parts is needed | - |  
 | [draft-rajagopalan-pce-pcep-color](https://datatracker.ietf.org/doc/draft-rajagopalan-pce-pcep-color/) | Pending | - | - | 
 
 ## Recently Adopted Documents
