@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-09-28T09:05:53.426Z
+date: 2022-09-28T12:53:35.431Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -26,8 +26,6 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 |---|---|
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Need to handle multiple BIER extensions in coordination with BIER WG |
 | [draft-zhang-pce-resource-sharing](https://datatracker.ietf.org/doc/draft-zhang-pce-resource-sharing/) | Authors request for the 2nd adoption call during 106, support in the room | 
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Requested adoption after IETF 110; Need more discussion on how to progress this | 
-| [draft-rajagopalan-pce-pcep-color](https://datatracker.ietf.org/doc/draft-rajagopalan-pce-pcep-color/) | Requested adoption after IETF 112 and 113 |
 | [draft-peng-pce-entropy-label-position](https://datatracker.ietf.org/doc/draft-peng-pce-entropy-label-position/) | Requested adoption after 113 |
 
 ## WG Adoption Call Queue
@@ -41,6 +39,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Pending | - | - |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | - |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | - |
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | 1 I-D v/s 2 I-D for informational v/s normative parts is needed | - |  
+| [draft-rajagopalan-pce-pcep-color](https://datatracker.ietf.org/doc/draft-rajagopalan-pce-pcep-color/) | Pending | - | - | 
 
 ## Recently Adopted Documents
 
