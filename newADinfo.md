@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2022-09-28T14:08:25.237Z
+date: 2022-09-28T14:09:49.719Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -13,11 +13,11 @@ dateCreated: 2022-09-28T14:08:25.237Z
 ## First Steps
  * Work with the secretariat to verify that you are set up as an AD with the various tools. Your existing tools login is used for most things, most importantly the datatracker. You should also get a login/password pair from the secretariat for the ARO tools, and a separate pair from the RFC Editor for working with errata.
  * Ask the current IESG members if that's the complete list of passwords - update the above bullet if it isn't.
- * Join a bunch of MailingLists.
+ * Join a bunch of [Mailing Lists](/mailinglists).
 
 ## Basic AD Responsibilities:
 
- * [DesiredExpertise]() Summary of Desired Expertise for NomCom]
+ * [Desired Expertise]() Summary of Desired Expertise for NomCom
  * [Manage Working Group]()  and picking chairs
  * [Planning Year]()  
  * [Meetings Planning]() 
