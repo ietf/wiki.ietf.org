@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-23T14:59:23.069Z
+date: 2022-09-29T18:51:13.061Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -106,4 +106,4 @@ Details to be announced shortly.
 # GitHub and this wiki
 The wiki is bi-directionally mirrored with a [GitHub repository](https://github.com/ietf/wiki.ietf.org), which you are welcome to clone.
 
-As noted above, pull requests are accepted against the repository, though initially direct editing is preferred.
+As noted above, pull requests are accepted against the repository, though initially direct editing is preferred. Any change made directly on Wiki.js becomes a commit (attributed to your email) on GitHub.
