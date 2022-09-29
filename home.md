@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-22T14:33:01.592Z
+date: 2022-09-29T11:50:01.965Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -20,7 +20,14 @@ The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all conte
 
 This wiki provides persistent working spaces for various IETF groups (such as Working Groups, Birds-of-a-Feather groups, Areas, Directorates, and Teams) and activities, such as IETF meetings.
 
-It is not intended to be an alternative to the [www.ietf.org website](https://www.ietf.org)), nor to replace functionality of the [IETF Datatracker](https://datatracker.ietf.org/) (for example, as a repository for Internet-Drafts). It complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
+This wiki should not be used for content that should be on any of the other dedicated IETF sites, including:
+* The [www.ietf.org website](https://www.ietf.org)), For example, by adding explanatory/general text about the IETF.
+* The [IETF Datatracker](https://datatracker.ietf.org/). For example, by creating a repository for Internet-Drafts. 
+* The [I-D Authors Resource site](https://authors.ietf.org/).  For example, by adding information for authors of I-Ds.
+* The [RFC Editor site](https://www.rfc-editor.org/).  For example, by adding informationa about the AUTH48 process.
+If you want to make any changes to those sites, then please do so following the process described on each site.
+
+This wiki complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
 
 ## Contributing to this wiki
 This wiki is for the IETF Community—any IETF participant is welcome to edit it.
