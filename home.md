@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-29T13:42:47.190Z
+date: 2022-09-29T13:43:10.009Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -22,8 +22,6 @@ This wiki should not be used for content that should be on any of the other dedi
 * Repository/listing/metadata for Internet-Drafts and/or RFCs
 * Information for authors of I-Ds.
 * Information about the AUTH48 process.
-
-If you want to make any changes to those sites, then please do so following the process described on each site.
 
 This wiki complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
 
