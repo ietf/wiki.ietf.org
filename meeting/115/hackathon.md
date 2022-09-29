@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-28T15:56:32.904Z
+date: 2022-09-29T13:04:38.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -197,6 +197,24 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Develop and test preliminary implementations of NTPv5 to validate discussion from the working group. 
   https://datatracker.ietf.org/doc/draft-mlichvar-ntp-ntpv5/
   https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/
+  
+ **IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option**
+- Champion(s)
+  - Ameya Deshpande (ameyadeshpande@google.com)
+  - Nalini Elkins (nalini.elkins@insidethestack.com)
+  - Michael Ackermann (mackermann@bcbsm.com)
+  - Dhruv Dhody (dhruv.ietf@gmail.com)
+- Project info
+  - PDM/ PDMv2 IPv6 extension header testing
+  	- This project aims to test PDM/PDMv2 Destinations Options Extension header over the Internet. We would like to collect data for source and destination placed in various geographical locations. This testing can be extended to other extension headers as well.
+- Specifications
+	- https://datatracker.ietf.org/doc/draft-ietf-ippm-encrypted-pdmv2/
+  - [RFC8250](https://www.rfc-editor.org/rfc/rfc8250.html)
+- Related Videos:
+  - https://youtu.be/ecZFwt2VsFo
+  - https://youtu.be/7sZQe6Hh5GI
+  - https://youtu.be/-UYjzrUKC8s
+  - https://youtu.be/Pz6wIu1gaXE?t=2881
 
  **Your-Project-Name**
 - Champion(s)
