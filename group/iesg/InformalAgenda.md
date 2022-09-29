@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-28T21:50:00.708Z
+date: 2022-09-29T00:28:41.281Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -53,6 +53,9 @@ Note that this page is public.
 	* https://datatracker.ietf.org/doc/bof-requests
 
 1. Balloting Requirements vs. Leaves of Absence (John)
+
+1. Someone hold my hand, I'm scared... [status-change-int-tlds-to-historic](https://datatracker.ietf.org/doc/status-change-int-tlds-to-historic/) and 
+[draft-davies-int-historic](https://datatracker.ietf.org/doc/draft-davies-int-historic/). Last time I tried this, it ended poorly...
 
 ### WG News 
 
