@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-29T00:28:41.281Z
+date: 2022-09-29T11:29:56.050Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -17,23 +17,19 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 ## Webex URL
 
-Updated 2015-09-09
-
 > https://ietf.webex.com/ietf/j.php?MTID=m38beb3706c7e5a24dd749a50d7e87dfd
 Meeting number: 642 944 708
 Meeting password: 1234 
 
 ## Calendar subscription URL
 
-Updated 2019-03-07
-
 > https://calendar.google.com/calendar/ical/ietf.org_vad13t4tfg35fc27nispen5pnc%40group.calendar.google.com/public/basic.ics
 
 
 ## Regrets
 
-* ~~Mirja~~
-* ~~Éric~~
+* Mirja
+* Éric
 
 ## Agenda
 
@@ -55,7 +51,9 @@ Note that this page is public.
 1. Balloting Requirements vs. Leaves of Absence (John)
 
 1. Someone hold my hand, I'm scared... [status-change-int-tlds-to-historic](https://datatracker.ietf.org/doc/status-change-int-tlds-to-historic/) and 
-[draft-davies-int-historic](https://datatracker.ietf.org/doc/draft-davies-int-historic/). Last time I tried this, it ended poorly...
+[draft-davies-int-historic](https://datatracker.ietf.org/doc/draft-davies-int-historic/). Last time I tried this, it ended poorly... 
+
+1. Draft statement on restricting access (Jay/Lars)
 
 ### WG News 
 
