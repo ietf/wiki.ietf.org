@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-29T13:04:38.894Z
+date: 2022-09-29T15:54:08.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -200,10 +200,10 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   
  **IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option**
 - Champion(s)
-  - Ameya Deshpande (ameyadeshpande@google.com)
-  - Nalini Elkins (nalini.elkins@insidethestack.com)
-  - Michael Ackermann (mackermann@bcbsm.com)
-  - Dhruv Dhody (dhruv.ietf@gmail.com)
+  - Ameya Deshpande (ameyadeshpande at google.com)
+  - Nalini Elkins (nalini.elkins at insidethestack.com)
+  - Michael Ackermann (mackermann at bcbsm.com)
+  - Dhruv Dhody (dhruv.ietf at gmail.com)
 - Project info
   - PDM/ PDMv2 IPv6 extension header testing
   	- This project aims to test PDM/PDMv2 Destinations Options Extension header over the Internet. We would like to collect data for source and destination placed in various geographical locations. This testing can be extended to other extension headers as well.
