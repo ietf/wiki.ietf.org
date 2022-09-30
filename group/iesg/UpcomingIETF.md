@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-09-27T13:25:33.379Z
+date: 2022-09-30T16:40:32.655Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -11,7 +11,7 @@ dateCreated: 2022-07-23T19:50:44.319Z
 # IETF 115 - London, England
 This is scratch space for the upcoming IETF meeting; it *will* be cleared afterwards and reused for the next meeting. 
 
-There is a working list of candidate topics for the agenda. 
+There is a working list of [candidate topics for the agenda](/group/iesg/MeetingTopics). 
 
 # IESG Activities
 *All times are in UTC.* 
