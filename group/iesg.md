@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-10-03T14:19:08.817Z
+date: 2022-10-03T14:19:32.721Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -93,7 +93,7 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 | [wg]-ads @ ietf.org  | 	mail the ADs of [wg]; note that this is the same as [area]-ads for the area in which [wg] resides... it does not send mail only to the AD responsible for [wg]  |
 |[area]-ads @ ietf.org   | mail the ADs of [area] ("[area]" is one of art, gen, int, ops, rtg, sec, tsv)  |
 | irtf-announce @ irtf.org  | IRTF announcement list, including progress reports for the different reserach groups. https://www.ietf.org/mailman/listinfo/irtf-announce  |
-| tools-discuss @ ietf.org  | The mailing list for IETF Tools announcements and discussion. ​https://www.ietf.org/mailman/listinfo/tools-discuss  |
+| tools-discuss @ ietf.org  | The mailing list for IETF Tools announcements and discussion. https://www.ietf.org/mailman/listinfo/tools-discuss  |
 
 	
 ## Miscellaneous
