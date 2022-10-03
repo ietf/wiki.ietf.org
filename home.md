@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-09-29T13:43:10.009Z
+date: 2022-10-03T21:14:08.490Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -30,11 +30,13 @@ This wiki is for the IETF Community and any IETF participant is welcome to edit 
 
 # Other IETF websites
 The other IETF websites where relevant information can be found are:
-* www.ietf.org: the public-facing front door for the IETF.
-* datatracker.ietf.org: the day-to-day front-end to the IETF database for people who work on IETF standards.
-* mailarchive.ietf.org: a searchable repository for all IETF mailing lists.
-* authors.ietf.org: the Internet-Draft/RFC author resources site
-* chairs.ietf.org: the IETF Working Group resources site
-* rfc-editor.org: The authoritative site for RFCs and the publication process
+- [www.ietf.org *The public-facing front door for the IETF.*](https://www.ietf.org)
+- [datatracker.ietf.org *The day-to-day front-end to the IETF database for people who work on IETF standards.*](https://datatracker.ietf.org)
+- [mailarchive.ietf.org *A searchable repository for all IETF mailing lists.*](https://mailarchive.ietf.org)
+- [authors.ietf.org *The Internet-Draft/RFC author resources site*](https://authors.ietf.org)
+- [chairs.ietf.org *The IETF Working Group resources site*](https://chairs.ietf.org)
+- [rfc-editor.org *The authoritative site for RFCs and the publication process*](https://rfc-editor.org)
+{.links-list}
 
-If you want to cpontribute to any of those sites, then please do so following the process described on each site.
+> If you want to contribute to any of those sites, then please do so following the process described on each site.
+{.is-info}
