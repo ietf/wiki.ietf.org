@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-09-28T14:03:28.124Z
+date: 2022-10-03T14:19:08.817Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -67,9 +67,7 @@ Quick Links
 
 #### Tools
 - [Secretariat tools](https://www.ietf.org/links/) - see also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket. Please NOTE: A lot of regular correspondence with the Secretariat now happens through the Datatracker. For instance, document approval emails can be sent via the datatracker by editing the "IESG State" to "Approved, announcement to be sent."
-- Prototype tools by the IETF Tools Team pages.
-- Notes on tools in progress, WishLists for tools.
-- Sites for IESG's OwnContent
+- [Prototype tools by the IETF Tools Team pages](https://author-tools.ietf.org/).
 
 #### Rules
 - Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
