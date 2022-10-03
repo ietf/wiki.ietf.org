@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-09-30T16:40:32.655Z
+date: 2022-10-03T18:46:08.465Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -47,7 +47,7 @@ Meetecho: TBD
 > - GEN 
 > 3. Fund raising events at IETF meetings (Jay)
 > 4. Introducing the new RSCE - Alexis Rossi (Jay)
-> 5. Topic (NAME)
+> 5. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
 {.is-info}
 
    
@@ -62,7 +62,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf114/?group=iesg
 >      - RFC Editor
 >      - IANA
 >   3. Document Queues (Lars? RTG ADs?)
->   4. Topic (NAME)
+>   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
 
 
 
