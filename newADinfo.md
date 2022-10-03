@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2022-09-28T15:22:12.278Z
+date: 2022-10-03T13:58:37.270Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -127,7 +127,7 @@ For working group documents: http://www.ietf.org/iesg/template/doc-writeup.html
 For individual documents: http://www.ietf.org/iesg/template/individual-doc-writeup.html
 
 
-=== DISCUSSes and How They Get Resolved ===
+### DISCUSSes and How They Get Resolved 
 
 The DISCUSS ballot is the way for an AD to state an issue that prevents him or her from
 agreeing that a document is ready. A DISCUSS is not a binary vote - as its name
@@ -135,14 +135,14 @@ suggests, it is a statement of what the AD has found wrong with a draft, prefera
 also a statement of how it could be fixed, and the trigger for a constructive discussion
 to resolve it as quickly as possible. Here is more information about DiscussResolving.
 
-== Processes for Uncommon Stuff == 
+## Processes for Uncommon Stuff  
 
  * NewWork - From Ideas to BOFs to Chartering 
  * HistoricStatus - Status Change Documents (was: Moving documents to Historic)
  * IntellectualProperty - Sometimes patents cause process concerns
  * TrustAppointments - according to draft-ietf-iasa2-trust-update
 
-=== Non-Working-Group Mailing Lists ===
+### Non-Working-Group Mailing Lists 
 
 Non-working-group mailing lists are used for various sorts of discussions, including:
  * Directorates and review teams
@@ -159,7 +159,7 @@ https://www.ietf.org/about/groups/affiliate/
 
 For instructions for creating a new nonwg list, see https://www.ietf.org/how/lists/nonwglist-guidelines/
 
-== Working with Other Groups ==
+## Working with Other Groups 
 
 These links are to wiki pages describing IESG working relationships with: 
 
@@ -176,13 +176,13 @@ More groups with special relationships to the IESG:
  * DirectoratesTeams
  * IesgNominating - positions we nominate
  
-=== Liaison relationships ===
+### Liaison relationships 
 
 The formal responsibility for handling liaisons and especially liaisons relations with external standard bodies are on IAB. However an AD will commonly be in the path for handling liaison statements and especially replies to received ones. The general process for handling liaisons are specified in RFC4053. 
 
 The IAB procedure for handling liaison responsibilities are documented in RFC4052. This includes creating formal relations and appoint liaison to bodies or liaison managers.
 
-=== Working with the RFC Editor ===
+### Working with the RFC Editor
 
 IESG members need to work closely with the RFC Editor, and track interactions with the RFC Editor. The main tasks include:
 
