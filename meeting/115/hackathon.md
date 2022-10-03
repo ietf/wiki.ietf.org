@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-09-29T15:55:06.184Z
+date: 2022-10-03T13:14:56.647Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -216,6 +216,15 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://youtu.be/7sZQe6Hh5GI
   - https://youtu.be/-UYjzrUKC8s
   - https://youtu.be/Pz6wIu1gaXE?t=2881
+
+ **SCION**
+- Champion(s)
+  - Nicola Rustignoli ( nic at scion.org) 
+- Drafts
+  - https://datatracker.ietf.org/doc/draft-dekater-panrg-scion-overview/
+  - https://datatracker.ietf.org/doc/draft-rustignoli-panrg-scion-components/
+- Project info
+  - tbd
 
  **Your-Project-Name**
 - Champion(s)
