@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-09-29T11:29:56.050Z
+date: 2022-10-04T15:17:57.203Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - September 29, 2022
+# Informal Telechat - October 13, 2022
  There will be **a** meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
@@ -28,8 +28,7 @@ Meeting password: 1234
 
 ## Regrets
 
-* Mirja
-* Éric
+* 
 
 ## Agenda
 
@@ -43,17 +42,8 @@ Note that this page is public.
 
 ### Management Issues
 
-1. RFC6761bis (Paul, pushed to Sep 29 due to Warren absense)
-
-1. Final BOF Approvals for IETF 115 (Secretariat)
-	* https://datatracker.ietf.org/doc/bof-requests
-
-1. Balloting Requirements vs. Leaves of Absence (John)
-
-1. Someone hold my hand, I'm scared... [status-change-int-tlds-to-historic](https://datatracker.ietf.org/doc/status-change-int-tlds-to-historic/) and 
-[draft-davies-int-historic](https://datatracker.ietf.org/doc/draft-davies-int-historic/). Last time I tried this, it ended poorly... 
-
-1. Draft statement on restricting access (Jay/Lars)
+- Balloting Requirements vs. Leaves of Absence (John)
+Topic held over from the September 29 informal call due to time constraints.
 
 ### WG News 
 
@@ -63,4 +53,4 @@ Note that this page is public.
 
 ### Executive Sessions
 
-1. Lars
+
