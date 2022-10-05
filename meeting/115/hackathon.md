@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-03T15:26:13.987Z
+date: 2022-10-05T08:50:34.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -235,6 +235,36 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Specifications:
   - https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
   - https://datatracker.ietf.org/doc/rfc8613/
+  
+ **Optimizing XR Flows in the Edge Cloud Using ALTO and Bottleneck Structure Graphs**
+- Champion(s)
+  - Jordi Ros-Giralt <jros at qti.qualcomm.com>
+  - Sruthi Yellamraju <yellamra at qti.qualcomm.com>
+  - Ankita Bajaj <ankitab at qti.qualcomm.com>
+  - Richard Yang <yry at cs.yale.edu>
+  - John Graham <jjgraham @ eng.ucsd.edu>
+  - Harvey Newman <newman at hep.caltech.edu>
+  - Kai Gao <kaigao at scu.edu.cn>
+  - Jensen Zhang <jingxuan.n.zhang at gmail.com>
+  - Mahdi Soleimani <mahdi.soleimani at yale.edu>
+  - Jacob Dunefsky <jacob.dunefsky at yale.edu>
+  - Qin Wu <bill.wu at huawei.com>
+- Project info
+  - Goal is to demonstrate how ALTO can provide the necessary network state
+  visibility to allow and XR application make proper flow routing decisions, adjusting
+  to changing congestion dynamics, and leveraging bottleneck structure analysis (https://dl.acm.org/doi/abs/10.1145/3452296.3472898)
+  - Demo will be running in emulation mode, incorporating components including Mininet,
+  ALTO, GradientGraph (G2), Segment Routing, XR, and a 5G network topology.
+  - Project management and repos:
+    - Project management: https://github.com/orgs/openalto/projects/1
+    - Repo: https://github.com/openalto/ietf-hackathon
+    - Meeting minutes: https://github.com/ietf-wg-alto/wg-materials/blob/main/meetings-ietf-alto/ietf-openalto-2022.md
+- Specifications:
+  - https://datatracker.ietf.org/doc/rfc7285/
+  - https://datatracker.ietf.org/doc/draft-ietf-alto-path-vector/
+  - https://datatracker.ietf.org/doc/draft-ietf-alto-unified-props-new/
+  - https://datatracker.ietf.org/doc/draft-ietf-alto-performance-metrics/
+  
 
  **Your-Project-Name**
 - Champion(s)
