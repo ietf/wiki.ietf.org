@@ -2,7 +2,7 @@
 title: Education, Mentoring, and Outreach Directorate
 description: IETF Education, Mentoring & Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2022-10-05T03:53:53.813Z
+date: 2022-10-05T10:53:31.102Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -48,9 +48,9 @@ Newcomers' networking events provide opportunities around IETF meetings for newc
 
 ### Outreach Activities Coordination
 
-EMODIR would also like to coordinate outreach activities for the IETF undertaken by individuals and organizations. We would consolidate materials, share experiences, and best practices in this forum. We need to also track which activities work best by thinking about metrics for outreach. 
+EMODIR seeks to coordinate outreach activities for the IETF undertaken by individuals and organizations. We consolidate materials, share experiences, and docuemnt best practices. We are developing metrics to help understand which which activities are most effective.
 
-The outreach is mainly directed towards under-represented groups at IETF (network operators, enterprises, educational institutes, regions with less participation etc).  This does not replace the outreach activities done by ISOC.  
+EMODIR outreach is directed towards potential IETF participants (network operators, enterprises, educational institutes, regions with less participation etc), but may also support outreach activities undertaken by others (such as the Internet Society) targeted to non-participants.
 
 ## Current participants
 
