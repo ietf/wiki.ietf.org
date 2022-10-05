@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-05T08:50:34.006Z
+date: 2022-10-05T08:55:14.533Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -238,17 +238,18 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   
  **Optimizing XR Flows in the Edge Cloud Using ALTO and Bottleneck Structure Graphs**
 - Champion(s)
-  - Jordi Ros-Giralt <jros at qti.qualcomm.com>
-  - Sruthi Yellamraju <yellamra at qti.qualcomm.com>
-  - Ankita Bajaj <ankitab at qti.qualcomm.com>
-  - Richard Yang <yry at cs.yale.edu>
-  - John Graham <jjgraham @ eng.ucsd.edu>
-  - Harvey Newman <newman at hep.caltech.edu>
-  - Kai Gao <kaigao at scu.edu.cn>
-  - Jensen Zhang <jingxuan.n.zhang at gmail.com>
-  - Mahdi Soleimani <mahdi.soleimani at yale.edu>
-  - Jacob Dunefsky <jacob.dunefsky at yale.edu>
-  - Qin Wu <bill.wu at huawei.com>
+  - Jordi Ros-Giralt (jros at qti.qualcomm.com)
+  - Sruthi Yellamraju (yellamra at qti.qualcomm.com)
+  - Ankita Bajaj (ankitab at qti.qualcomm.com)
+  - Richard Yang (yry at cs.yale.edu)
+  - John Graham (jjgraham @ eng.ucsd.edu)
+  - Harvey Newman (newman at hep.caltech.edu)
+  - Kai Gao (kaigao at scu.edu.cn)
+  - Jensen Zhang (jingxuan.n.zhang at gmail.com)
+  - Mahdi Soleimani (mahdi.soleimani at yale.edu)
+  - Jacob Dunefsky (jacob.dunefsky at yale.edu)
+  - Lauren Delwiche <lauren.delwiche at yale.edu)
+  - Qin Wu (bill.wu at huawei.com)
 - Project info
   - Goal is to demonstrate how ALTO can provide the necessary network state
   visibility to allow and XR application make proper flow routing decisions, adjusting
