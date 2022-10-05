@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-05T09:20:29.316Z
+date: 2022-10-05T16:32:30.775Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -270,6 +270,17 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-alto-unified-props-new/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-performance-metrics/
   
+
+ **L4S Interop Event**
+- Champion(s)
+  - Greg White (g.white at cablelabs.com)
+- Project info
+  - Similar to the event held at IETF-114, we plan to hold a 4 day event (Saturday - Tuesday) to facilitate testing interoperability between L4S-compatible congestion controllers and network gear.
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-l4s-arch/
+  - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-ecn-l4s-id/
+  - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-aqm-dualq-coupled/
+  - https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/
 
  **Your-Project-Name**
 - Champion(s)
