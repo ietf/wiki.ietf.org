@@ -2,7 +2,7 @@
 title: Education, Mentoring, and Outreach Directorate
 description: IETF Education, Mentoring & Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2022-07-23T18:30:33.880Z
+date: 2022-10-05T03:53:53.813Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -27,6 +27,7 @@ Success is measured through activity-specific assessments, as well as overall as
 | :---        |    :----:  
 | Karen O'Donoghue	| emodir co-coordinator
 | Greg Wood	| emodir co-coordinator
+| Dhruv Dhody | emodir co-coordinator
 | Lars Eggert	| Responsible Area Director & IETF Chair
 
 ## Potential and new IETF participants
@@ -44,6 +45,12 @@ IETF Guides provide 1-1 matches between newcomers and experienced IETF participa
 ### Newcomers’ networking events
 
 Newcomers' networking events provide opportunities around IETF meetings for newcomers to meet and interact with other newcomers and experienced IETF participants. There are several types of activities that fall into this category of activities, and we are constantly trying new activities. Examples of the types of events that may be organized include Newcomer Quick Connections, Newcomer Coffee Breaks, Newcomer Dinners, Newcomers Escape Rooms, and Newcomer Feedback Breakfasts. To provide ideas or to help organize these activities, please email the [emodir mailing list](https://www.ietf.org/mailman/listinfo/emo-dir/).
+
+### Outreach Activities Coordination
+
+EMODIR would also like to coordinate outreach activities for the IETF undertaken by individuals and organizations. We would consolidate materials, share experiences, and best practices in this forum. We need to also track which activities work best by thinking about metrics for outreach. 
+
+The outreach is mainly directed towards under-represented groups at IETF (network operators, enterprises, educational institutes, regions with less participation etc).  This does not replace the outreach activities done by ISOC.  
 
 ## Current participants
 
