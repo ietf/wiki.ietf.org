@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-05T08:55:14.533Z
+date: 2022-10-05T09:14:32.574Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -252,9 +252,9 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Qin Wu (bill.wu at huawei.com)
 - Project info
   - Goal is to demonstrate how ALTO can provide the necessary network state
-  visibility to allow and XR application make proper flow routing decisions, adjusting
+  visibility to allow an XR application make proper flow routing decisions, adjusting
   to changing congestion dynamics, and leveraging bottleneck structure analysis (https://dl.acm.org/doi/abs/10.1145/3452296.3472898)
-  - Demo will be running in emulation mode, incorporating components including Mininet,
+  - Demo will be integrated and run in emulation mode, incorporating components including Mininet,
   ALTO, GradientGraph (G2), Segment Routing, XR, and a 5G network topology.
   - Project management and repos:
     - Project management: https://github.com/orgs/openalto/projects/1
