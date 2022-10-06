@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-06T16:20:37.914Z
+date: 2022-10-06T16:47:44.449Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -296,7 +296,25 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-keys/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-sigs/
   
-
+**Drone Remote ID Protocol (DRIP)**
+- Champion(s)
+  - Adam Wiethuechter (adam.wiethuechter@axenterprize.com)
+- Project info
+  - Update LIU code to meet the latest specifications
+  	- ID Type 4, subtype 1 DRIP encoding/decoding and disply
+    - AuthType 5, subtypes 1-4 for DRIP auth formats
+    - FEC support for DRIP auth
+    - Any ASTM F3411-22a items missing
+  - Create open source tools for Endorsements
+  - Stretch goals
+  	- open source registration tools
+    - Wi-Fi decoding
+- Specifications
+	- https://datatracker.ietf.org/doc/draft-ietf-drip-auth/
+  - https://datatracker.ietf.org/doc/draft-ietf-drip-rid/
+  - https://datatracker.ietf.org/doc/draft-wiethuechter-drip-detim-arch/ (Section 8)
+- Code
+	- https://www.ida.liu.se/~andgu38/drip/
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
