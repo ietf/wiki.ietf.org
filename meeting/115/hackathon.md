@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-06T16:47:44.449Z
+date: 2022-10-06T19:53:27.398Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -315,6 +315,17 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-wiethuechter-drip-detim-arch/ (Section 8)
 - Code
 	- https://www.ida.liu.se/~andgu38/drip/
+  
+ 
+**t_cose implementation of COSE signing, encryption, MAC, ...**
+ - Champion
+   - Laurence Lundblade (lgl@island-resort.com)
+ - Project info
+   - Continue improving t_cose by adding support for multiple signatures, encryption, additional algorithms...
+ - Code
+   https://github.com/laurencelundblade/t_cose
+   Note the "dev" branch and open issues and PR's targeted at t_cose 2.0
+   
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
