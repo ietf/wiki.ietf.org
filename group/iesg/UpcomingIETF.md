@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-06T19:35:35.062Z
+date: 2022-10-06T19:55:14.801Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -73,8 +73,10 @@ Meetecho: TBD
 ## Monday, November 7, 2022 Room: TBD
 
 
-### IESG Breakfast 08:00-08:30 Room: TBD	
-### IESG Meeting 08:30-09:50
+### IESG (After Breakfast) Meeting 08:00-09:20am Room: TBD	
+
+*Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
+
 Meetecho: TBD
 
 ## Tuesday, November 8, 2022
@@ -83,9 +85,11 @@ Meetecho: TBD
 ## Wednesday, November 9, 2022
 
 
-### IESG Breakfast 08:00-08:30 Room: TBD	
-### IESG Meeting 08:30-09:50
-Meetecho: 
+### IESG (After Breakfast) Meeting 08:00-09:20am Room: TBD	
+
+*Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
+
+Meetecho: TBD
 
 >    Plenary Prep
 
