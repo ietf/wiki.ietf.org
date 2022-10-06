@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-03T18:46:08.465Z
+date: 2022-10-06T19:35:35.062Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -29,6 +29,19 @@ There is a working list of [candidate topics for the agenda](/group/iesg/Meeting
 
 ## Sunday, November 6, 2022
 
+### IESG Only (After Breakfast) Meeting - 09:30-11:30am Room: TBD
+
+*Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
+
+Meetecho: TBD
+
+>   1. Welcome
+>   2. Updates
+>      - RFC Editor
+>      - IANA
+>   3. Document Queues (Lars? RTG ADs?)
+>   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
+
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
@@ -49,22 +62,6 @@ Meetecho: TBD
 > 4. Introducing the new RSCE - Alexis Rossi (Jay)
 > 5. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
 {.is-info}
-
-   
-   
-
-### IESG Only Meeting - TIME TBD Room: TBD
-
-Meetecho: https://meetings.conf.meetecho.com/ietf114/?group=iesg
-
->   1. Welcome
->   2. Updates
->      - RFC Editor
->      - IANA
->   3. Document Queues (Lars? RTG ADs?)
->   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
-
-
 
 
  ### Sunday Night Social
