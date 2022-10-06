@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-05T16:43:01.385Z
+date: 2022-10-06T14:22:21.972Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -258,7 +258,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   to changing congestion dynamics, and leveraging bottleneck structure analysis (https://dl.acm.org/doi/abs/10.1145/3452296.3472898)
   - Demo will be integrated and run in emulation mode, incorporating components including Mininet,
   ALTO, GradientGraph (G2), Segment Routing, XR, and a 5G network topology.
-  - Initial integration tests in the Pacific Research Platform (PRP) production network (https://pacificresearchplatform.org/)
+  - Initial integration tests in the National Research Platform (NRP) production network (http://nationalresearchplatform.org/)
   - Project management and repos:
     - Project management: https://github.com/orgs/openalto/projects/1
     - Repo: https://github.com/openalto/ietf-hackathon
