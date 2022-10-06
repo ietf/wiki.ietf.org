@@ -2,7 +2,7 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: true
-date: 2022-09-13T19:06:01.726Z
+date: 2022-10-06T23:56:19.766Z
 tags: dns, directorate, int area, ops area
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
@@ -24,7 +24,7 @@ The DNS directorate reviewers and secretary are volunteers, and serve at the ple
 
 # Personal
 
--  **Secretary**: Please volunteer at https://docs.google.com/forms/d/1hEkTpinaak_vmjGVLq9odRJ6iqOum3mFhipzUvjmuq8/
+-  **Secretaries**: Jim Reid, Geoff Huston
 - **Responsible AD**: Warren Kumari, OPS AD
 - **Responsible AD**: Éric Vyncke, INT AD
 
