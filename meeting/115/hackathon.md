@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-07T08:43:12.409Z
+date: 2022-10-07T15:57:04.794Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -14,7 +14,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * **When**: Saturday - Sunday, 5-6 November 2022 
 * **Where**: [Hilton London Metropole](https://www.ietf.org/how/meetings/115/hotel)
-* **Room**: *TBD*
+* **Room**: Admiral 1
 {.grid-list}
 
 **Sign up for the Hackathon**
