@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-07T08:41:51.094Z
+date: 2022-10-07T08:43:12.409Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -339,12 +339,12 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Laurent Toutain 
   - Dominique Barthel
 - Project
-  OpenSCHC is an open source implementation of SCHC [RFC8724][RFC8824], written in Python (​http://openschc.net).
+  OpenSCHC (http://openschc.net) is an open source implementation of SCHC [RFC8724][RFC8824], written in Python.
   During this hackathon we propose to work on several topics:
   - general debugging and testing
   - add YANG model verifier using pyang (https://datatracker.ietf.org/doc/draft-ietf-lpwan-schc-yang-data-model/)
   - implement context installation/retrieval using CORECONF
-  - improve documentation by updating The Book of SCHC (​http://book.openschc.net). 
+  - improve documentation by updating The Book of SCHC (http://book.openschc.net). 
   - as time permits, implement OAM draft (https://datatracker.ietf.org/doc/draft-barthel-lpwan-oam-schc/) to handle ICMPv6 messages
 
 
