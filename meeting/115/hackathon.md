@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-08T19:05:48.522Z
+date: 2022-10-08T19:06:52.005Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -349,7 +349,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 **BMWG - YANG model for management of Network Tester**
  - Champion(s)
-  - Vladimir Vassilev (vladimir at lightside-instruments.com)
+  - Vladimir Vassilev (vladimir@lightside-instruments.com)
  - Project(s)
       - Model implementation with software and programmable logic for 1Gb Ethernet
       - RFC2544 benchmark test in python
