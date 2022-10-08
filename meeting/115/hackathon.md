@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-08T18:58:00.932Z
+date: 2022-10-08T19:01:16.031Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -348,19 +348,19 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - as time permits, implement OAM draft (https://datatracker.ietf.org/doc/draft-barthel-lpwan-oam-schc/) to handle ICMPv6 messages
 
 **BMWG - YANG model for management of Network Tester**
-    - Champion(s)
-      - Vladimir Vassilev (vladimir at lightside-instruments.com)
-    - Project(s)
+ - Champion(s)
+  - Vladimir Vassilev (vladimir at lightside-instruments.com)
+ - Project(s)
       - RFC2544 benchmark test in python
       - RFC2889 benchmark test in python
     - Specifications:
       - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
     - Repositories
       - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/vlvassilev/litenc/tree/master/tntapi/example/ietf-network-interconnect-tester)
-      * Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
-      * FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
-      * Hardware - [board design](https://github.com/vlvassilev/spark)
-    * Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+      - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+      - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+      - Hardware - [board design](https://github.com/vlvassilev/spark)
+    - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 
 ----
 
