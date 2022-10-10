@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-10-10T14:29:23.533Z
+date: 2022-10-10T15:59:16.716Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,6 +44,8 @@ Note that this page is public.
 
 - Balloting Requirements vs. Leaves of Absence (who? anyone?)
 Topic held over from the September 29 informal call due to time constraints.
+
+- Trust Appointment Procedure (Lars)
 
 ### WG News 
 
