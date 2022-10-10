@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-10-04T15:17:57.203Z
+date: 2022-10-10T14:29:23.533Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 1234
 
 ## Regrets
 
-* 
+* John 
 
 ## Agenda
 
@@ -42,7 +42,7 @@ Note that this page is public.
 
 ### Management Issues
 
-- Balloting Requirements vs. Leaves of Absence (John)
+- Balloting Requirements vs. Leaves of Absence (who? anyone?)
 Topic held over from the September 29 informal call due to time constraints.
 
 ### WG News 
