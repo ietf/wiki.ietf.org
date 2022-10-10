@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-10-10T09:20:06.079Z
+date: 2022-10-10T13:05:55.243Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -83,6 +83,7 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 ### TSV
 
 # Area Specific
+- [Int *Internet Area Wiki*](/group/iesg/int)
 - [Ops *Operations Area Wiki*](/group/iesg/ops)
 {.links-list}
 
