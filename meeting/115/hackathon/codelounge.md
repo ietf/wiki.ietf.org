@@ -2,7 +2,7 @@
 title: Hackathon Code Lounge
 description: 
 published: true
-date: 2022-10-05T16:34:07.606Z
+date: 2022-10-10T19:58:27.412Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:23:24.446Z
@@ -10,7 +10,7 @@ dateCreated: 2022-08-05T16:23:24.446Z
 
 # Code Lounge
 
-Monday - Friday, 7-11 November, Room: TBD
+Monday - Friday, 7-11 November, Room: Admiral 1
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
