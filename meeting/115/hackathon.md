@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-10T08:05:22.869Z
+date: 2022-10-10T19:55:11.398Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -62,13 +62,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 7 November, Time: TBD, ROOM TBD
+  * Monday, 7 November, Time: 1800 - 1900, Room: Admiral 1
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 12:00, Monday 7 November
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 7-11 November
+  * Monday - Friday, 7-11 November, Room: Admiral 1
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
