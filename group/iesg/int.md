@@ -2,7 +2,7 @@
 title: Internet Area hot topics
 description: 
 published: true
-date: 2022-10-10T13:22:24.284Z
+date: 2022-10-10T13:23:09.985Z
 tags: int area
 editor: markdown
 dateCreated: 2022-10-10T13:11:56.649Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-10T13:11:56.649Z
 
 # Typical INTernet Area Issues
 
-Certain internet area related issues show up time and time again when the Area Directors in the IETF Internet Area (or members of the [Internet Directorate](https://datatracker.ietf.org/group/intdir/about/) or [wiki:IOTDirWiki IoT Directorate]) complete reviews of Internet-Drafts. I-D authors are advised to address these issues ahead of time to smooth the path to RFC publication. 
+Certain internet area related issues show up time and time again when the Area Directors in the IETF Internet Area (or members of the [Internet Directorate](https://datatracker.ietf.org/group/intdir/about/) or [IoT directorate](https://datatracker.ietf.org/group/iotdir/about/) complete reviews of Internet-Drafts. I-D authors are advised to address these issues ahead of time to smooth the path to RFC publication. 
 
 ## IPv6 Support
 
