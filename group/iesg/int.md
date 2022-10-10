@@ -2,7 +2,7 @@
 title: Internet Area hot topics
 description: 
 published: true
-date: 2022-10-10T13:11:56.649Z
+date: 2022-10-10T13:15:57.715Z
 tags: int area
 editor: markdown
 dateCreated: 2022-10-10T13:11:56.649Z
@@ -22,7 +22,7 @@ All interfaces have at least one IPv6 address: the link-local address. But, they
 
 ### Multiple IPv6 Addresses per Host
 
-[https://www.rfc-editor.org/rfc/rfc7934.html RFC 7934] (a v6ops document) discusses "Host Address Availability Recommendations".  In short, the document "recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so."  Any restrictions on the number IPv6 addresses a general-purpose host may form should be further examined.
+[RFC 7924](https://www.rfc-editor.org/rfc/rfc7934.html) (a v6ops document) discusses "Host Address Availability Recommendations".  In short, the document "recommends that networks provide general-purpose end hosts with multiple global IPv6 addresses when they attach, and it describes the benefits of and the options for doing so."  Any restrictions on the number IPv6 addresses a general-purpose host may form should be further examined.
 
 ### Canonical Format of IPv6 Addresses
 
@@ -30,11 +30,11 @@ All IPv6 addresses in an I-D should be written according to RFC 5952.
 
 ### IPv6 literals with ports
 
-In URI, the format of IPv6 literals uses square brackets to differentiate the ':' of the IPv6 address and the ':' used to separate the layer-3 address and the layer-4 port such as in http://[2001:db8::cafe]:8080.
+In URI, the format of IPv6 literals uses square brackets to differentiate the ':' of the IPv6 address and the ':' used to separate the layer-3 address and the layer-4 port such as in `https://[2001:db8::cafe]:8080`.
 
 ### New Extension Headers and Options
 
-All new IPv6 Extension Headers and Extension Header Options should be reviewed by the [https://datatracker.ietf.org/wg/6man/about/ 6man working group].  Extension Header Option Type code points include 3 bits of fine-grained behaviour indicators ([https://www.rfc-editor.org/rfc/rfc8200.html#section-4.2 RFC8200 §4.2]) that should be given due consideration.
+All new IPv6 Extension Headers and Extension Header Options should be reviewed by the [6man working group](https://datatracker.ietf.org/wg/6man/about/).  Extension Header Option Type code points include 3 bits of fine-grained behaviour indicators [RFC 8200 §4.2](https://www.rfc-editor.org/rfc/rfc8200.html#section-4.2) that should be given due consideration.
 
 ### New ICMPv6 ND Options
 
