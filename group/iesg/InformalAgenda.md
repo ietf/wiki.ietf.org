@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-10-10T15:59:16.716Z
+date: 2022-10-11T13:10:34.659Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,6 +46,8 @@ Note that this page is public.
 Topic held over from the September 29 informal call due to time constraints.
 
 - Trust Appointment Procedure (Lars)
+
+- "[Topics of Interest](https://www.ietf.org/topics/)". Should they be updated to help make IETF work relatable for non-participant audiences? (Greg Wood)
 
 ### WG News 
 
