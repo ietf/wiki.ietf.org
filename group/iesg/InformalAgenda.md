@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-10-11T13:10:34.659Z
+date: 2022-10-11T17:21:11.065Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -50,6 +50,8 @@ Topic held over from the September 29 informal call due to time constraints.
 - "[Topics of Interest](https://www.ietf.org/topics/)". Should they be updated to help make IETF work relatable for non-participant audiences? (Greg Wood)
 
 ### WG News 
+
+- MASQUE rechartering. Clean up some adjacent extensions. OK with INT and ART to do another round?
 
 ### Documents to Swap 
 
