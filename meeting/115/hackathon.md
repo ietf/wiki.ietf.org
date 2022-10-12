@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-11T08:15:08.593Z
+date: 2022-10-12T11:37:27.321Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -382,6 +382,22 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Creation and Management of Satellite Network Topology
   - Usecase over Hypatia Open-source simulation platform
   - Future work
+  
+ **CoAP Group Communication with Group OSCORE**
+- Champion(s)
+  - Rikard Höglund <rikard.hoglund at ri.se>
+  - Marco Tiloca <marco.tiloca at ri.se>
+- Project info
+  - Verify and interop functionality of latest draft version
+  - Verify group key derivation from group context
+  - Verify pairwise key pair derivation
+  - Send and Reply to group messages with group context
+  - Send and Reply to messages with pairwise key material
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
+
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
