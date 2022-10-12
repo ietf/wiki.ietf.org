@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-10-11T18:08:27.729Z
+date: 2022-10-12T14:58:48.000Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -39,6 +39,9 @@ Note that this page is public.
 ### Administrivia
 
 ### Document Discussions
+
+  * Approval of the changes to [draft-ietf-dnsop-svcb-https - "Service binding and parameter specification via the DNS (DNS SVCB and HTTPS RRs)"](https://datatracker.ietf.org/doc/draft-ietf-dnsop-svcb-https/)
+    * Diff: https://www.ietf.org/rfcdiff?url1=draft-ietf-dnsop-svcb-https-10&url2=draft-ietf-dnsop-svcb-https-11&difftype=--html
 
 ### Management Issues
 
