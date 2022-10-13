@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-08-17T20:16:28.649Z
+date: 2022-10-13T22:48:58.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -46,10 +46,10 @@ If you would like to provide an .ics file for a side meeting, please put the lin
 
 # MONDAY 7 November {#Monday}
 
-## Room: Made-Up Meeting Room - Monday
+## Room: Richmond 6 - Monday
 Occupancy: up to 40 attendees
 Configuration: u-shape 
-Location: Mezzanine Level
+Location: West Wing, First Floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
@@ -81,8 +81,8 @@ Location: Mezzanine Level
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
-## Room: Another Meeting Room - Monday
-Occupancy: up to 10 attendees
+## Room: Mezzanine 12 - Monday
+Occupancy: up to 12 attendees
 Configuration: conference
 Location: Mezzanine Level
 
@@ -117,10 +117,10 @@ Location: Mezzanine Level
 
 # TUESDAY 8 November {#Tuesday}
 
-## Room: Made-Up Meeting Room - Tuesday
+## Room: Richmond 6 - Tuesday
 Occupancy: up to 40 attendees
 Configuration: u-shape 
-Location: Mezzanine Level
+Location: West Wing, First Floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
@@ -152,8 +152,8 @@ Location: Mezzanine Level
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
-## Room: Another Meeting Room - Tuesday
-Occupancy: up to 10 attendees
+## Room: Mezzanine 12 - Tuesday
+Occupancy: up to 12 attendees
 Configuration: conference
 Location: Mezzanine Level
 
@@ -188,10 +188,10 @@ Location: Mezzanine Level
 
 # Wednesday 9 November {#Wednesday}
 
-## Room: Made-Up Meeting Room - Wednesday
+## Room: Richmond 6 - Wednesday
 Occupancy: up to 40 attendees
 Configuration: u-shape 
-Location: Mezzanine Level
+Location: West Wing, First Floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
@@ -223,8 +223,8 @@ Location: Mezzanine Level
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
-## Room: Another Meeting Room - Wednesday
-Occupancy: up to 10 attendees
+## Room: Mezzanine 12 - Wednesday
+Occupancy: up to 12 attendees
 Configuration: conference
 Location: Mezzanine Level
 
@@ -259,10 +259,10 @@ Location: Mezzanine Level
 
 # Thursday 10 November {#Thursday}
 
-## Room: Made-Up Meeting Room - Thursday
+## Room: Richmond 6 - Thursday
 Occupancy: up to 40 attendees
 Configuration: u-shape 
-Location: Mezzanine Level
+Location: West Wing, First Floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
@@ -294,8 +294,8 @@ Location: Mezzanine Level
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
-## Room: Another Meeting Room - Thursday
-Occupancy: up to 10 attendees
+## Room: Mezzanine 12 - Thursday
+Occupancy: up to 12 attendees
 Configuration: conference
 Location: Mezzanine Level
 
@@ -330,10 +330,10 @@ Location: Mezzanine Level
 
 # Friday 11 November {#Friday}
 
-## Room: Made-Up Meeting Room - Friday
+## Room: Richmond 6 - Friday
 Occupancy: up to 40 attendees
 Configuration: u-shape 
-Location: Mezzanine Level
+Location: West Wing, First Floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
@@ -365,8 +365,8 @@ Location: Mezzanine Level
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
-## Room: Another Meeting Room - Friday
-Occupancy: up to 10 attendees
+## Room: Mezzanine 12 - Friday
+Occupancy: up to 12 attendees
 Configuration: conference
 Location: Mezzanine Level
 
