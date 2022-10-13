@@ -3,14 +3,14 @@ title: Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
 date: 2022-10-13T16:27:27.054Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
 ---
 
 # Internet-of-Things Directorate
 
-## Charter 
+## Charter
 The Internet of Things (IoT) refers to devices, that are often constrained in communication and computation capabilities, now becoming more commonly connected to the Internet, and various services that are built on top of the capabilities these devices jointly provide. It is expected that this development will usher in more machine-to-machine communication using the Internet with no human user actively involved.
 
 
@@ -87,7 +87,7 @@ IoT Directorate membership and participation criteria:
 * Membership in the IoT Directorate is provisional for new members. Prospective members are asked to write a letter explaining why it makes sense for them to be on the Directorate. Inclusion in the directorate will be subject to AD and/or chair approval.
 
 
-## IOT-DIR Responsible Area Directors & Co-chairs 
+## IOT-DIR Responsible Area Directors & Co-chairs
 
 | Name | Role |
 | ---- | ---- |
@@ -97,71 +97,72 @@ IoT Directorate membership and participation criteria:
 | Ines Robles | IOT-DIR co-chair |
 
 Directorate chairs e-mail contact: iot-directorate-owner (at) ietf.org
-## More Information on IOT Directorate and reviews: 
+## More Information on IOT Directorate and reviews:
 https://datatracker.ietf.org/group/iotdir/about/
 
-### Areas of Expertise 
+### Areas of Expertise
 
 Members have different areas of expertise.   These are listed here: [IotAreasOfExpertise]
 
-### Confirmed Members (in alphabetical order by last name) 
+### Confirmed Members (in alphabetical order by last name)
 
-|| '''Name''' || '''IoT Expertise''' || '''Employment Type''' || '''Notes''' ||
-|| Christian Amsüss || CoAP & friends, legacy low power sensor networks; constrained implementation & APIs || Independent software development and consulting || Make IoT as end-to-end as the Internet once was ||
-|| Emmanuel Baccelli || protocol design, IoT routing, hands-on implementation ([https://github.com/RIOT-OS/RIOT/ RIOT], Linux) || Academic (Applied Research) || Focus: low-end IoT devices, open source IoT software ||
-|| Dominique Barthel ||IoT device hardware, energy expenditure, Layer 2 and 3 protocols, LPWANs, ROLL co-chair || Industrial, Telecom R&D || special emphasis on low power long battery life systems ||
-|| Henk Birkholz || Terminology, Architecture, Remote Attestation, Security Automation || Industrial R&D, Academic || TCG liaison [[BR]] Providing the foundation to create security telemetry in order to fuel machine learning and algorithmic intelligence in the domain of security automation ||
-|| Carsten Bormann || Protocol Design, Scalability and Architecture vs. Garrulity and Fluff, Usable Security; Data representation and modeling (CBOR, CDDL, WISHI); CoRE co-chair, T2TRG co-chair || Academic, Technology || Focusing on enabling constrained devices [RFC7228] as part of IoT ||
-|| Nancy Cam-Winget ||802.11, 802.15, 802.1X, ISA, ODVA, IIC||Industrial R&D ||Interested in Industrial IoT including transport and security||
-|| Zhen Cao || Cloudify IoT, LWIG co-chair  || Industrial R&D  || To cloudify everyThing via lightweight implementations ||
-|| Samita Chakrabarti ||IP & Broadband,5G, Edge Cloud, IoT || Industrial, Telecom R&D || Interested in deploying IETF IoT protocols in Industrial Infrastructure||
-|| Benoit Claise || Operations & Management || Industry || ||
-|| Subir Das || !ZigBee Mesh IP,  6lo, 802.11, 802.15, 802.21 and 5G ||Industrial R&D ||Interested in IoT networks and security ||
-|| János Farkas || IIoT, DetNet co-chair, IEEE 802.1 TSN chair || Industrial, Telecom R&D ||  ||
-|| Rahul Jadhav || LoWPAN, 802.11s, 6lo, Routing for LLNs, Simulation Frameworks, IoT Security || AMI networks, IoT security || Interests in light-weight routing, protocol compression, making it work in the last mile ||
-|| Toerless Eckert || co-chair ANIMA WG (infra automation, dev lifecycle, routing, discovery), contributor routing/multicast/MPLS, experience SP/industrial/transportation networks || Industry || Interested in Resilience, Research in network layer enhancements, breaking stuff & fixing breakages || 
-|| Wesley Eddy || space networks, avionics, smart fabric || commercial and government R&D || especially interested in transport topics ||
-|| Mehmet Ersue ||Management of networks with constrained devices, RESTCONF ||Industrial (retired) || ||
-|| Thomas Fossati || CoAP, APIs, security, transport || Industry || ||
-|| Stefanie Gerdes || Secure Protocol Design, Usable Security || Academic || especially interested in Authentication and Authorization ||
-|| Carles Gomez || 6LoWPAN/6lo, 802.15.4, BLE, LPWAN, end-to-end reliability || Academic || interest in IPv6 over IoT foo and protocol stack optimization ||
-|| Brian Haberman || Scaled-down IPv6 protocol stacks, IoT bootstrapping, network traffic performance/analysis || Academic (Applied Research) || ||
-|| Russ Housley || IoT Security and Software Update || Industry Consulting || ||
-|| Jaime Jiménez || CoAP, Device Management; CoRE co-chair || Industrial, Telecom R&D || ||
-|| Benjamin Kaduk || SEC AD, OpenSSL, Kerberos || (non-IoT) Industry ||  ||
-|| Ari Keränen || CoAP / CoRE technologies, data models, semantics, IoT Device Lifecycle Management; T2TRG co-chair || Industrial, Telecom R&D ||  ||
-|| Matthias Kovatsch || Architecture, Application Layer, Implementation, CoAP, Industrial IoT || Industrial R&D || W3C Web of Things co-chair ||
-|| Suresh Krishnan || ex-INTAREA AD || Telecom & Industrial R&D || ||
-|| Eliot Lear || Device identity, onbarding, and protection, device/network interface || Networking Products || ||
-|| Ted Lemon       || Thread, Service Discovery, 802.15.4 mesh, constrained-to-homenet autodiscovery || Constrained network infrastructure || ||
-|| Jason Livingood || Co-editor of BITAG IoT Security and Privacy paper, general operator interest || Industry || Focused on security and privacy for IoT, from impact on end users to impact on network operators and attack targets ||
-|| Daniel Lux ||  IOT || Industry & telecom || Focusing on constrained, particularly battery operated devices, security and devices communicating over extremely low bandwidth channels||
-|| Terry Manderson || Previous INTAREA AD || Industrial & Telecom R&D || ||
-|| Alexey Melnikov || Previous ART AD. CoAP, email. Experience optimizing IMAP and SMTP in low bandwidth and/or long round trip environments || (non-IoT) Industry || General interest in Architecture and Security aspects ||
-|| Daniel Migault || ACE chair, Security || Industrial & Telecom R&D || ||
-|| Geoff Mulligan ||!ZigBee, IP, CPS, 6lowpan, IPSO ||Industrial and Gov || ||
-|| Bruce Nordman || Energy Efficiency || Academic and Gov || Architecture ||
-|| Erik Nordmark || Edge computing and IoT; onboarding, security, etc || Industrial R&D || Architecture, Edge Computing, Zero Trust, Linux Foundation Project EVE ||
-|| Francesca Palombini || CBOR co-chair, CoAP / CoRE technologies, IoT security || Industrial, Telecom R&D ||  ||
-|| Alexander Pelov || LPWAN co-chair, COAP, IoT security || Low-Power Long-Range Wireless IOT, Industrial, Telecom ||  ||
-|| Charlie Perkins || IOT, Mobility, IEEE || Industry & Telecom R&D || Energy saving, performance improvement ||
-|| Michael Richardson || Linux, Contiki, ROLL, security, and EnrollmentRoadmap || Industry || also think Authorization is key to success ||
-|| Maria Ines Robles ||ROLL co-chair, IoT Management|| Industry 4.0, Technology Research || Industry 4.0 use cases in harsh environments  ||
-|| Dan Romascanu ||OPS and Management, IEEE protocols || Industrial (retired) || ||
-|| Gonzalo Salgueiro || IoT,CoAP,IPv6,CoRE, IPWAVE || Industry Research & Academia || Especially interested in IoT support & troubleshooting, Authoring book on IoT ||
-|| Juergen Schoenwaelder || 6lowpan, roll, yang, restconf, embedded linux || Academic (Applied Research) || system software security ||
-|| Eve Schooler || IoT & Edge computing, ICN, RAW and COIN co-chair, discovery, data lifecycle, QoS || Industry || Intel IoT Group / Next Generation & Standards ||
-|| Mohit Sethi || IoT security, EMU co-chair and LWIG co-chair, hands on code, secure bootstrapping || Industry Research || Interested in network security for IoT ||
-|| Robert Sparks || IAB || Industry || ||
-|| Peter van der Stok || IETF Member, ex Roll co-chair || Industry || Building control ||
-|| Dave Thaler || SUIT,TEEP co-chair || Industry || Security
-|| Pascal Thubert || 6TiSCH & LPWAN co-chair, RPL & ISA100.11a co-editor, 6LoWPAN 6loRH, HC & ND co-author || Industrial R&AD  || Interested in problems connecting the IoT to the Internet e.g. e2e determinism for industrial and vehicular apps ||
-|| Marco Tiloca || CoRE co-chair, ACE, IoT Security, hands on code || Academic (Applied Research) || Interested in secure communication, key management and access control, especially in group communication settings. ||
-|| Hannes Tschofenig || Chairing a working group in a relevant area; working for ARM || Industry || I am particularly interested in security aspects. ||
-|| Mališa Vučinić || LAKE co-chair, 6TiSCH, hands-on code || Academic (Applied Research) || ||
-|| Éric Vyncke || Internet area AD || Industry || ||
-|| Loganaden Velvindron || ACE co-chair, 6man, CURDLE, TLS || Industry || ||
-|| Thomas Watteyne || 6TiSCH co-chair, hands-on implementation || Industrial (Low-Power Wireless) || ||
-|| Niklas Widell || ASDF co-chair, data models, semantic interoperability || Industry || ||
-|| Timothy Winters || IPv6, IoT || Industry and University || ||
-|| Qin Wu  || IoT, IoT Management || Industry, Technology Research || Lightweight IoT Security Framework, IoT lifecycle Management ||
+| Name | IoT Expertise | Employment Type | Notes |
+| ---- | ---- |          ---- |             ---- |
+| Christian Amsüss | CoAP & friends, legacy low power sensor networks; constrained implementation & APIs | Independent software development and consulting | Make IoT as end-to-end as the Internet once was |
+| Emmanuel Baccelli | protocol design, IoT routing, hands-on implementation ([https://github.com/RIOT-OS/RIOT/ RIOT], Linux) | Academic (Applied Research) | Focus: low-end IoT devices, open source IoT software |
+| Dominique Barthel |IoT device hardware, energy expenditure, Layer 2 and 3 protocols, LPWANs, ROLL co-chair | Industrial, Telecom R&D | special emphasis on low power long battery life systems |
+| Henk Birkholz | Terminology, Architecture, Remote Attestation, Security Automation | Industrial R&D, Academic | TCG liaison [[BR]] Providing the foundation to create security telemetry in order to fuel machine learning and algorithmic intelligence in the domain of security automation |
+| Carsten Bormann | Protocol Design, Scalability and Architecture vs. Garrulity and Fluff, Usable Security; Data representation and modeling (CBOR, CDDL, WISHI); CoRE co-chair, T2TRG co-chair | Academic, Technology | Focusing on enabling constrained devices [RFC7228] as part of IoT |
+| Nancy Cam-Winget |802.11, 802.15, 802.1X, ISA, ODVA, IIC|Industrial R&D |Interested in Industrial IoT including transport and security|
+| Zhen Cao | Cloudify IoT, LWIG co-chair  | Industrial R&D  | To cloudify everyThing via lightweight implementations |
+| Samita Chakrabarti |IP & Broadband,5G, Edge Cloud, IoT | Industrial, Telecom R&D | Interested in deploying IETF IoT protocols in Industrial Infrastructure|
+| Benoit Claise | Operations & Management | Industry | |
+| Subir Das | !ZigBee Mesh IP,  6lo, 802.11, 802.15, 802.21 and 5G |Industrial R&D |Interested in IoT networks and security |
+| János Farkas | IIoT, DetNet co-chair, IEEE 802.1 TSN chair | Industrial, Telecom R&D |  |
+| Rahul Jadhav | LoWPAN, 802.11s, 6lo, Routing for LLNs, Simulation Frameworks, IoT Security | AMI networks, IoT security | Interests in light-weight routing, protocol compression, making it work in the last mile |
+| Toerless Eckert | co-chair ANIMA WG (infra automation, dev lifecycle, routing, discovery), contributor routing/multicast/MPLS, experience SP/industrial/transportation networks | Industry | Interested in Resilience, Research in network layer enhancements, breaking stuff & fixing breakages |
+| Wesley Eddy | space networks, avionics, smart fabric | commercial and government R&D | especially interested in transport topics |
+| Mehmet Ersue |Management of networks with constrained devices, RESTCONF |Industrial (retired) | |
+| Thomas Fossati | CoAP, APIs, security, transport | Industry | |
+| Stefanie Gerdes | Secure Protocol Design, Usable Security | Academic | especially interested in Authentication and Authorization |
+| Carles Gomez | 6LoWPAN/6lo, 802.15.4, BLE, LPWAN, end-to-end reliability | Academic | interest in IPv6 over IoT foo and protocol stack optimization |
+| Brian Haberman | Scaled-down IPv6 protocol stacks, IoT bootstrapping, network traffic performance/analysis | Academic (Applied Research) | |
+| Russ Housley | IoT Security and Software Update | Industry Consulting | |
+| Jaime Jiménez | CoAP, Device Management; CoRE co-chair | Industrial, Telecom R&D | |
+| Benjamin Kaduk | SEC AD, OpenSSL, Kerberos | (non-IoT) Industry |  |
+| Ari Keränen | CoAP / CoRE technologies, data models, semantics, IoT Device Lifecycle Management; T2TRG co-chair | Industrial, Telecom R&D |  |
+| Matthias Kovatsch | Architecture, Application Layer, Implementation, CoAP, Industrial IoT | Industrial R&D | W3C Web of Things co-chair |
+| Suresh Krishnan | ex-INTAREA AD | Telecom & Industrial R&D | |
+| Eliot Lear | Device identity, onbarding, and protection, device/network interface | Networking Products | |
+| Ted Lemon       | Thread, Service Discovery, 802.15.4 mesh, constrained-to-homenet autodiscovery | Constrained network infrastructure | |
+| Jason Livingood | Co-editor of BITAG IoT Security and Privacy paper, general operator interest | Industry | Focused on security and privacy for IoT, from impact on end users to impact on network operators and attack targets |
+| Daniel Lux |  IOT | Industry & telecom | Focusing on constrained, particularly battery operated devices, security and devices communicating over extremely low bandwidth channels|
+| Terry Manderson | Previous INTAREA AD | Industrial & Telecom R&D | |
+| Alexey Melnikov | Previous ART AD. CoAP, email. Experience optimizing IMAP and SMTP in low bandwidth and/or long round trip environments | (non-IoT) Industry | General interest in Architecture and Security aspects |
+| Daniel Migault | ACE chair, Security | Industrial & Telecom R&D | |
+| Geoff Mulligan |!ZigBee, IP, CPS, 6lowpan, IPSO |Industrial and Gov | |
+| Bruce Nordman | Energy Efficiency | Academic and Gov | Architecture |
+| Erik Nordmark | Edge computing and IoT; onboarding, security, etc | Industrial R&D | Architecture, Edge Computing, Zero Trust, Linux Foundation Project EVE |
+| Francesca Palombini | CBOR co-chair, CoAP / CoRE technologies, IoT security | Industrial, Telecom R&D |  |
+| Alexander Pelov | LPWAN co-chair, COAP, IoT security | Low-Power Long-Range Wireless IOT, Industrial, Telecom |  |
+| Charlie Perkins | IOT, Mobility, IEEE | Industry & Telecom R&D | Energy saving, performance improvement |
+| Michael Richardson | Linux, Contiki, ROLL, security, and EnrollmentRoadmap | Industry | also think Authorization is key to success |
+| Maria Ines Robles |ROLL co-chair, IoT Management| Industry 4.0, Technology Research | Industry 4.0 use cases in harsh environments  |
+| Dan Romascanu |OPS and Management, IEEE protocols | Industrial (retired) | |
+| Gonzalo Salgueiro | IoT,CoAP,IPv6,CoRE, IPWAVE | Industry Research & Academia | Especially interested in IoT support & troubleshooting, Authoring book on IoT |
+| Juergen Schoenwaelder | 6lowpan, roll, yang, restconf, embedded linux | Academic (Applied Research) | system software security |
+| Eve Schooler | IoT & Edge computing, ICN, RAW and COIN co-chair, discovery, data lifecycle, QoS | Industry | Intel IoT Group / Next Generation & Standards |
+| Mohit Sethi | IoT security, EMU co-chair and LWIG co-chair, hands on code, secure bootstrapping | Industry Research | Interested in network security for IoT |
+| Robert Sparks | IAB | Industry | |
+| Peter van der Stok | IETF Member, ex Roll co-chair | Industry | Building control |
+| Dave Thaler | SUIT,TEEP co-chair | Industry | Security
+| Pascal Thubert | 6TiSCH & LPWAN co-chair, RPL & ISA100.11a co-editor, 6LoWPAN 6loRH, HC & ND co-author | Industrial R&AD  | Interested in problems connecting the IoT to the Internet e.g. e2e determinism for industrial and vehicular apps |
+| Marco Tiloca | CoRE co-chair, ACE, IoT Security, hands on code | Academic (Applied Research) | Interested in secure communication, key management and access control, especially in group communication settings. |
+| Hannes Tschofenig | Chairing a working group in a relevant area; working for ARM | Industry | I am particularly interested in security aspects. |
+| Mališa Vučinić | LAKE co-chair, 6TiSCH, hands-on code | Academic (Applied Research) | |
+| Éric Vyncke | Internet area AD | Industry | |
+| Loganaden Velvindron | ACE co-chair, 6man, CURDLE, TLS | Industry | |
+| Thomas Watteyne | 6TiSCH co-chair, hands-on implementation | Industrial (Low-Power Wireless) | |
+| Niklas Widell | ASDF co-chair, data models, semantic interoperability | Industry | |
+| Timothy Winters | IPv6, IoT | Industry and University | |
+| Qin Wu  | IoT, IoT Management | Industry, Technology Research | Lightweight IoT Security Framework, IoT lifecycle Management |
