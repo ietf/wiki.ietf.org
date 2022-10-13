@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-10-13T16:13:41.623Z
+date: 2022-10-13T17:03:56.751Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -99,7 +99,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-vn-association | IESG Evaluation | Sent to IESG on 2022-05-23 | Hari | 
+| draft-ietf-pce-vn-association | IESG Evaluation; telechat: 2022-10-20 | Sent to IESG on 2022-05-23 | Hari | 
 | draft-ietf-pce-lsp-extended-flags | IESG Evaluation; telechat: 2022-10-20 | Sent to IESG on 2022-06-08 | Dhruv | 
 | draft-ietf-pce-pcep-stateful-pce-gmpls | Awaiting AD review | Sent to IESG on 2022-06-30 | Dhruv |
 | draft-ietf-pce-local-protection-enforcement | Awaiting AD review | Sent to IESG on 2022-08-09 | Julien |
