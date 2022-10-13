@@ -2,7 +2,7 @@
 title: SPRING Working Group
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2022-10-13T02:34:27.575Z
+date: 2022-10-13T02:34:42.642Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
