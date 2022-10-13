@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-09-29T18:51:13.061Z
+date: 2022-10-13T01:33:05.569Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -83,7 +83,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 > e.g. the markdown for linking to the main IDR page at https://wiki.ietf.org/group/idr to the subpage at https://wiki.ietf.org/group/idr/idr-draft-status looks like: ``[idr-draft-status](idr-draft-status)``
 {.is-info}
 
-3. When the new wiki is ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](/group) and confirm transition from the old wiki is in place.
+3. When the new wiki is ready, you can send email to support@ietf.org for the group wiki to be added to the [index of group wikis](/group) and confirm transition from the old wiki is in place. Please also remember to update your group's "About" page in the IETF Datatracker.
 
 > If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 {.is-info}
