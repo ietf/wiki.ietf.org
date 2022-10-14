@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-10-03T14:19:32.721Z
+date: 2022-10-14T13:05:01.114Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -23,7 +23,7 @@ Quick Links
 - [IAB/IESG/LLC Workshop](Workshop-October-2021) IESG IAB and LLC Workshop - information about the October 2021 Workshop
 
 ---
-
+- [IESG Appointment to the IETF Trust](/group/iesg/ietftrustappointment)
 - [DownRef Registry](https://datatracker.ietf.org/doc/downref) in the datatracker - The Down Ref Registry was moved to the datatracker in 2017.
 - [IESG Only Etiquette](group/iesg/IESG-Only) - when to use and not to use iesg-only mailing list
 
