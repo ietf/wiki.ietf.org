@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-14T18:34:29.750Z
+date: 2022-10-14T18:53:14.797Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -23,6 +23,8 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 * Side meetings may be used for design teams or other informal discussions related to working groups.
 
 * Side meetings do not record attendance ("blue sheets") as is done during IETF working groups sessions.
+
+* New for IETF 115: Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
 
 * Since there are many freely available conferencing services, the [IESG](https://www.ietf.org/about/groups/iesg/) has decided not to provide conferencing support for side meetings.
 
