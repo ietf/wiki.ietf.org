@@ -2,7 +2,7 @@
 title: IESG Appointment to the IETF Trust
 description: 
 published: true
-date: 2022-10-14T14:14:31.807Z
+date: 2022-10-14T14:19:41.223Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-10-14T13:16:50.122Z
@@ -116,8 +116,8 @@ Sample Text:
 > 
 > TIMEFRAME
 > 
-> The nominations period will opens today, September 9, 2022 and closes
-> on October 7, 2022.
+> The nominations period will opens today, [DATE] and closes
+> on [DATE].
 > 
 > The list of candidates will be posted shortly after the close of
 > nominations, and the community will then have two weeks to provide
@@ -136,3 +136,27 @@ Sample Text:
 
 
 ### Call for Community Feedback
+
+Sample text:
+> To: IETF-announce
+> From: IETF Chair
+> Subject: Call for feedback: IESG appointment to the IETF Trust
+> 
+> The IESG is responsible for appointing one person to the IETF Trust for a two-year term that begins in March 2024. 
+> 
+> Following the call for nominations [CITE CALL FOR NOMINATIONS], the following candidates have accepted a nomination:
+> 
+> * NAME
+> * NAME
+> * NAME
+> * NAME
+> * NAME
+> 
+> Please send feedback about these candidates to iesg-only@ietf.org. This feedback will be held in confidence by the IESG. Please provide the feedback by [DATE].
+> 
+> We thank you in advance for your help.
+> 
+> Lars Eggert
+> IETF Chair, on behalf of the IESG
+{.is-info}
+
