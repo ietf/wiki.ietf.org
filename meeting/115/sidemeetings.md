@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-14T23:50:05.639Z
+date: 2022-10-14T23:53:47.989Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -72,10 +72,10 @@ Location: West Wing, First Floor
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
 |  15:30   |                  |          |             |                         |                      |                       |          
-|  16:00   |                  |          |             |                         |                      |                       |          
-|  16:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
-|  17:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
-|  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
+|  16:00   |                  |          |             |                         |                      |                       |  
+|  16:30   |                  |          |             |                         |                      |                       |  
+|  17:00   |                  |          |             |                         |                      |                       |    
+|  17:30   |                  |          |             |                         |                      |                       |    
 |  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  TODO  | TBD    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
@@ -146,8 +146,8 @@ Location: West Wing, First Floor
 |  16:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 |  16:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 |  17:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
-|  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
-|  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
+|  17:30   |                  |          |             |                         |                      |                       |    
+|  18:00   |                  |          |             |                         |                      |                       |    
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
@@ -181,8 +181,8 @@ Location: Mezzanine Level
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |         |      |       |    |                       |    
-|  18:00   |       |     |      |  |                       |    
+|  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
+|  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
@@ -202,9 +202,9 @@ Location: West Wing, First Floor
 |  08:30   |   NOT AVAILABLE  |  NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE           |  NOT AVAILABLE    |  NOT AVAILABLE     | 
 |  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
-|  10:00   |                  |          |             |                         |                      |                       | 
-|  10:30   |                  |          |             |                         |                      |                       |         
-|  11:00   |                  |          |             |                         |                      |                       |          
+|  10:00   |DBOUND side meeting| |Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                      |                       | 
+|  10:30   |DBOUND into 6761bis| |Paul Hoffman (paul.hoffman@icann.org)|End of DBOUND meeting, start of RFC 6761 discussion|                      |                       |         
+|  11:00   |6761bis| |Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       |          
 |  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
 |  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
