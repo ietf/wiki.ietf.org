@@ -2,14 +2,14 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-13T22:48:58.954Z
+date: 2022-10-14T18:34:29.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
 ---
 
 # Public Side Meetings at IETF 115
-*Note: Please do not sign up for a side meeting yet. This page will go live closer to the date of IETF 115.*
+
 
 IETF participants occasionally organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. While these are side meetings, the IETF does provide this wiki to register the topics, contact persons, dates and times, and other information about the meetings being planned. This page provides details for side meetings around  [IETF 115 London](https://www.ietf.org/how/meetings/115/).
 
@@ -28,7 +28,7 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 * Active consent from participants should be sought by organizers for any side meeting that is recorded.
 
-* Side meeting dates and times should be listed in Philadelphia local time, UTC-4. For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
+* Side meeting dates and times should be listed in London local time, UTC+0 (Please note that the UK ends Daylight Savings on 30 October, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
 If you would like to provide an .ics file for a side meeting, please put the link in the appropriate column below.
 
@@ -345,24 +345,7 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  14:00   |                  |          |             |                         |                      |                       |          
-|  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |          
-|  16:00   |                  |          |             |                         |                      |                       |  
-|  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |                  |          |             |                         |                      |                       |    
-|  18:30   |                  |          |             |                         |                      |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
-|  19:30   |                  |          |             |                         |                      |                       |    
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  11:30-  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 
 
 ## Room: Mezzanine 12 - Friday
@@ -380,21 +363,4 @@ Location: Mezzanine Level
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  14:00   |                  |          |             |                         |                      |                       |          
-|  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |          
-|  16:00   |                  |          |             |                         |                      |                       |  
-|  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |                  |          |             |                         |                      |                       |    
-|  18:30   |                  |          |             |                         |                      |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
-|  19:30   |                  |          |             |                         |                      |                       |    
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  11:30-  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
