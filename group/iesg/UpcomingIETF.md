@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-14T23:26:43.148Z
+date: 2022-10-14T23:29:44.413Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -100,6 +100,10 @@ Meetecho: TBD
 ### IETF 115 Plenary 17:30-19:30 Room: TBD
 
 ## Thursday, November 10, 2022
+
+### INT AD Office Hours 12:00-13:00
+Room: IESG office
+Metecho: *none*
 
 ## Friday, November 11, 2022 
 ### Joint IAB/IESG Lunch - 14:15-14:45 Room: TBD
