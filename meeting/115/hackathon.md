@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-14T03:00:08.105Z
+date: 2022-10-14T03:02:56.690Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -365,7 +365,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - Hardware - [board design](https://github.com/vlvassilev/spark)
    - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
  
- ** YANG Modules Tool Automation (NETMOD) **
+ 
+**YANG Modules Tool Automation (NETMOD)**
 - Champion (s):
   - Feng Chong (frank.fengchong@huawei.com)
   - Qin Wu (bill.wu@huawei.com)
@@ -386,6 +387,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Code:
   https://github.com/HuaweiDatacomm/yang-comparator
   https://github.com/yang-central/yang-compiler
+
 
 **IPsec/IKEv2**
 - Champion(s)
