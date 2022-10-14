@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-14T01:52:30.271Z
+date: 2022-10-14T01:52:52.191Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -414,7 +414,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
  **I2NSF: IPsec Flow Protection for BGP Peers using I2NSF**
 - Champion(s)
   - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
-  - Patrick Lingga (pauljeong at skku.edu)
+  - Patrick Lingga (patricklink888 at gmail.com)
 - Project info
   - Evaluate I2NSF framework for IPsec flow protection in BGP Peers.
 - Specifications
