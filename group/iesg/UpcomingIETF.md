@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-13T15:02:26.066Z
+date: 2022-10-14T22:28:25.637Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -122,7 +122,7 @@ Meetecho: TBD
 
 # Reservations for IESG Breakout Room
 
-Location: TBD
+Location: Hybrid 1, Ground Floor, West Wing 
 
 ## Saturday, 5 November 2022
 
