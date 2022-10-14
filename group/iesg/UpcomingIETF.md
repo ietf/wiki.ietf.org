@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-14T23:20:10.601Z
+date: 2022-10-14T23:26:43.148Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -13,7 +13,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 
 There is a working list of [candidate topics for the agenda](/group/iesg/MeetingTopics).
 
-*(For easy reference: the main [Meeting Agenda](https://datatracker.ietf.org/meeting/115/agenda).)*
+*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/115/agenda))*
 
 # IESG Activities
 *All times are in UTC.* 
