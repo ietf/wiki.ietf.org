@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-14T02:55:34.794Z
+date: 2022-10-14T03:00:08.105Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -367,11 +367,11 @@ All Hackathon participants are free to work on any code. The rules regarding tha
  
  ** YANG Modules Tool Automation (NETMOD) **
 - Champion (s):
-  - Feng Chong
-  - Qin Wu
-  - Ren Xiang
-  - Qiufang Ma
-  - Bo Wu
+  - Feng Chong (frank.fengchong@huawei.com)
+  - Qin Wu (bill.wu@huawei.com)
+  - Xiang Ren (strum.ren@huawei.com)
+  - Qiufang Ma (maqiufang1@huawei.com)
+  - Bo Wu (lana.wubo@huawei.com)
 - Project Info:
   Continue to improve YANG Model tool automation and develop two tools 1. compare two revision of a
   YANG Schema 2. Validate the Schema of a YANG module w/o consideration of its dependency to 
