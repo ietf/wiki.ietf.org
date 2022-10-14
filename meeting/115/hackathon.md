@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-14T03:02:56.690Z
+date: 2022-10-14T03:03:45.298Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -380,13 +380,13 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - YANG Schema Comparison
   - YANG Schema Validation and Compilation  
 - Specifications
-  RFC8407
-  RFC7950
-  https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-schema-comparison/
-  https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-packages/
+  - RFC8407
+  - RFC7950
+  - https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-schema-comparison/
+  - https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-packages/
 - Code:
-  https://github.com/HuaweiDatacomm/yang-comparator
-  https://github.com/yang-central/yang-compiler
+  - https://github.com/HuaweiDatacomm/yang-comparator
+  - https://github.com/yang-central/yang-compiler
 
 
 **IPsec/IKEv2**
