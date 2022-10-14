@@ -2,7 +2,7 @@
 title: IESG Appointment to the IETF Trust
 description: 
 published: true
-date: 2022-10-14T14:19:41.223Z
+date: 2022-10-14T18:32:54.827Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-10-14T13:16:50.122Z
@@ -51,7 +51,7 @@ Sample Text:
 > to appoint one person to the IETF Trust, for a term of two-years.
 > 
 > The IESG is hence asking for volunteers to serve as the IESG appointee
-> to the IETF Trust for the remainder of the 2022-24 term.
+> to the IETF Trust for the term beginning in March 2024 - March 2026.
 > 
 > 
 > DESIRABLE QUALIFICATIONS AND SELECTION CRITERIA
