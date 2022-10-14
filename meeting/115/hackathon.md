@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-12T14:26:11.660Z
+date: 2022-10-14T01:37:08.268Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -399,7 +399,17 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
 
-
+ **IPWAVE: Context-Aware Navigation Protocol for Drones using 5G V2X**
+- Champion(s)
+  - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
+  - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
+- Project info
+  - Evaluate the IPv6 process in 5G V2X-based context-aware navigation protocol for drones
+  - Search for technology gaps between current practise and the standard process
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-context-aware-navigator/
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
