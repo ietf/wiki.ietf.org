@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-14T23:07:18.199Z
+date: 2022-10-14T23:08:35.840Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -181,8 +181,8 @@ Location: Mezzanine Level
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |                  |          |             |                         |                      |                       |   
+|  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
+|  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
@@ -217,8 +217,8 @@ Location: West Wing, First Floor
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
-|  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
+|  17:30   |                  |          |             |                         |                      |                       |    
+|  18:00   |                  |          |             |                         |                      |                       |    
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
