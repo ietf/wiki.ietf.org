@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-15T02:01:08.901Z
+date: 2022-10-15T02:03:11.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -73,9 +73,9 @@ Location: West Wing, First Floor
 |  15:00   |                  |          |             |                         |                      |                       |          
 |  15:30   |                  |          |             |                         |                      |                       |          
 |  16:00   |                  |          |             |                         |                      |                       |  
-|  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
+|  16:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
+|  17:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
+|  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 |  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  TODO  | TBD    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
