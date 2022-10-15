@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-15T04:08:10.380Z
+date: 2022-10-15T04:31:38.617Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -289,8 +289,8 @@ Location: West Wing, First Floor
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |                  |          |             |                         |                      |                       |    
-|  18:30   |                  |          |             |                         |                      |                       |    
+|  18:00   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | TODO | TODO |    
+|  18:30   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | TODO | TODO |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
