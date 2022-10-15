@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-15T02:03:11.868Z
+date: 2022-10-15T04:08:10.380Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -234,8 +234,8 @@ Location: Mezzanine Level
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |                  |          |             |                         |                      |                       |   
-|  08:30   |                  |          |             |                         |                      |                       | 
-|  09:00   |                  |          |             |                         |                      |                       |  
+|  08:30   |   IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| TBD | TBD | 
+|  09:00   |  IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| TBD | TBD |  
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
@@ -359,8 +359,8 @@ Location: Mezzanine Level
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |                  |          |             |                         |                      |                       |   
-|  08:30   |                  |          |             |                         |                      |                       | 
-|  09:00   |                  |          |             |                         |                      |                       |  
+|  08:30   |   IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| TBD | TBD | 
+|  09:00   |  IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| TBD | TBD | 
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
