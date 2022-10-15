@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-15T04:31:38.617Z
+date: 2022-10-15T04:48:26.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -212,9 +212,10 @@ Location: West Wing, First Floor
 |  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |          
-|  16:00   |                  |          |             |                         |                      |                       |  
+|  15:00   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis for IPv6 Moving Object Networking | https://datatracker.ietf.org/doc/bofreq-jeong-ipv6-moving-object-networking-ipmon/|                       |          
+|  15:30   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis for IPv6 Moving Object Networking | https://datatracker.ietf.org/doc/bofreq-jeong-ipv6-moving-object-networking-ipmon/|                       |          
+
+|  16:00   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis for IPv6 Moving Object Networking | https://datatracker.ietf.org/doc/bofreq-jeong-ipv6-moving-object-networking-ipmon/|                       |          
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
