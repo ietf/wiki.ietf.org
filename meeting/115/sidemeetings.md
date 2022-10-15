@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-15T05:41:11.311Z
+date: 2022-10-15T15:23:45.780Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -198,7 +198,7 @@ Location: West Wing, First Floor
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
+|  08:00   |   IETF - ETSI IPE Side meeting   |     |  Latif  |  reinforce the alignment and cooperation between IETF & ETSI IPE participants, to increase the adoption of IETF IPv6-related protocols and accelerate the industry strategy alignment        |     TBD   |   TBD   |   
 |  08:30   |   NOT AVAILABLE  |  NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE           |  NOT AVAILABLE    |  NOT AVAILABLE     | 
 |  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
