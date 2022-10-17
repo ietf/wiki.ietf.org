@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-17T18:47:58.402Z
+date: 2022-10-17T20:17:41.270Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -463,6 +463,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 **vCon**
 - Champion(s)
   - Dan Petrie (dan.ietf at sipez.com)
+  - Thomas Howe (thomas.howe at strolid.com)
 - Project info
   vCon defines a starndarized way to contain information related to a conversation.  We have started with an open source implementation for a JSON binding:
   https://github.com/vcon-dev/vcon
