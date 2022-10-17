@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-17T20:21:12.956Z
+date: 2022-10-17T20:36:06.599Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -148,8 +148,8 @@ Location: West Wing, First Floor
 |  17:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 |  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
 |  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
-|  18:30   |   EToSat         |     TSV  |       etosat@ietf.org             |  To be supplied shortly                       |                      |                       |    
-|  19:00   |   EToSat         |     TSV  |       etosat@ietf.org             |  To be supplied shortly                       |                      |                       |    
+|  18:30   |                  |          |             |                         |                      |                       |    
+|  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
