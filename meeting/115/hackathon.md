@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-17T03:23:23.587Z
+date: 2022-10-17T18:47:58.402Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -459,6 +459,18 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Specification
   - https://datatracker.ietf.org/doc/html/rfc7285
   - https://datatracker.ietf.org/doc/html/rfc9275
+  
+**vCon**
+- Champion(s)
+  - Dan Petrie (dan.ietf at sipez.com)
+- Project info
+  vCon defines a starndarized way to contain information related to a conversation.  We have started with an open source implementation for a JSON binding:
+  https://github.com/vcon-dev/vcon
+  
+  Join us to design and build transcription and redaction plugins.
+  
+ - Specification
+   - I-D submission coming soon (https://dgpetrie.github.io/draft-petrie-vcon/draft-petrie-vcon.html)
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
