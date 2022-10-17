@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-17T20:39:41.726Z
+date: 2022-10-17T20:40:34.848Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -111,7 +111,7 @@ Location: Mezzanine Level
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |   EToSat         |   TSV       |  etosat@ietf           |   Meeting to start at 17:45                      |                      |                       |    
-|  18:00   |   EToSat         |   TSV       |  etosat@ietf           |   Description to be supplied shorty                      |                      |                       |    
+|  18:00   |   EToSat         |   TSV       |  etosat@ietf           |   Description to be supplied shortly                      |                      |                       |    
 |  18:30   |   EToSat         |   TSV       |  etosat@ietf           |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
