@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-16T22:22:38.461Z
+date: 2022-10-17T07:19:05.562Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -217,9 +217,9 @@ Location: West Wing, First Floor
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |                  |          |             |                         |                      |                       |    
-|  18:30   |                  |          |             |                         |                      |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
+|  18:00   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |  TBD                    |                       |    
+|  18:30   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |  TBD                    |                       |   
+|  19:00   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |  TBD                    |                       |   
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
