@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-10-17T12:18:58.407Z
+date: 2022-10-17T12:20:42.421Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -11,7 +11,8 @@ dateCreated: 2022-09-21T01:06:42.448Z
 # General guidance
 This wiki is for the IETF Community - any IETF participant is welcome to edit it.
 
-This page covers the mechanics of *how* to contribute. When making contributions, please consider these [guidelines for content on wiki.ietf.org](/guidelines) about *what* to contribute.
+> This page covers the mechanics of *how* to contribute. When making contributions, please be aware these [guidelines for content on wiki.ietf.org](/guidelines) about *what* to contribute.
+{.is-info}
 
 > **NOTE**:  To contribute to this wiki you must first log in (icon in the upper right corner) using your [Datatracker](https://datatracker.ietf.org/) credentials.
 {.is-warning}
