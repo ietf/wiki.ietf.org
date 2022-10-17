@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-10-03T21:14:08.490Z
+date: 2022-10-17T15:13:48.104Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -26,7 +26,7 @@ This wiki should not be used for content that should be on any of the other dedi
 This wiki complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
 
 # Contributing to this wiki
-This wiki is for the IETF Community and any IETF participant is welcome to edit it. See the [Contributing to this wiki](/contributing) page for a quick start guide and more details.
+This wiki is for the IETF Community and any IETF participant is welcome to edit it. See the [Contributing to this wiki](/contributing) page for a quick start guide and more details. A few [guidelines for contributing](/guidelines) aim to provide high-level principles and inspiration for contributions.
 
 # Other IETF websites
 The other IETF websites where relevant information can be found are:
