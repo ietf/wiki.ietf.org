@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T22:47:02.019Z
+date: 2022-10-18T22:49:15.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -84,7 +84,7 @@ Location: West Wing, First Floor
 
 ## Room: GMT 1 - Monday
 Configuration: conference
-Location: West Wing, basement level -2
+Location: East Wing, basement level -2
 *Please note this room is a special case and is not available for further side meetings beyond the one listed here.*
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
