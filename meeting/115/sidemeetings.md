@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T09:19:21.873Z
+date: 2022-10-18T10:00:58.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -182,7 +182,7 @@ Location: Mezzanine Level
 |  16:30   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |  
 |  17:00   |  Discuss IPv6 enterprise issues                |     OPS     | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |    
 |  17:30   |   Discuss 6G topics related to IP     |       |Behcet Sarikaya (Sarikaya@ieee.org), Dirk v. Hugo (Dirk.von-hugo@telekom.de)          | 3GPP representative to provide information |   tbd                 |    
-|  18:00   |           |      |           |    |                       |    
+|  18:00   |     Discuss 6G topics related to IP     |       |Behcet Sarikaya (Sarikaya@ieee.org), Dirk v. Hugo (Dirk.von-hugo@telekom.de)        |    online mainly
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
