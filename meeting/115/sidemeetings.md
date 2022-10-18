@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T22:49:15.865Z
+date: 2022-10-18T23:06:59.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -224,8 +224,8 @@ Location: West Wing, First Floor
 |  15:00   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  15:30   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  16:00   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
-|  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
+|  16:30   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |                       |  
+|  17:00   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |    
 |  17:30   |                  |          |             |                         |                      |                       |    
 |  18:00   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |[Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |    
 |  18:30   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |  [Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |   
