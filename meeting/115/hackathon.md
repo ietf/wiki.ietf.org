@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-18T14:04:10.323Z
+date: 2022-10-18T14:15:16.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -487,9 +487,15 @@ All Hackathon participants are free to work on any code. The rules regarding tha
     - Integration of libOSCORE
 - Code:
     - https://github.com/RIOT-OS/RIOT
-    - https://github.com/RIOT-OS/RIOT/pull/18700
     - https://github.com/RIOT-OS/RIOT/pull/18547
     - https://gitlab.com/oscore/liboscore
+    - **PSA integration**
+    	- PSA Crypto Module: https://github.com/RIOT-OS/RIOT/pull/18578
+      - Wrappers to sys/crypto: https://github.com/RIOT-OS/RIOT/pull/18579
+      - Wrappers to sys/hashes: https://github.com/RIOT-OS/RIOT/pull/18580
+      - Wrappers to pkg/micro-ecc: https://github.com/RIOT-OS/RIOT/pull/18581
+      - Wrappers to pkg/cryptoauthlib: https://github.com/RIOT-OS/RIOT/pull/18582
+      - CryptoCell 310 driver package: https://github.com/RIOT-OS/RIOT/pull/18583
 
 - Specifications:
     - https://www.rfc-editor.org/rfc/rfc8724.html
