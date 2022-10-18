@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-18T10:36:00.587Z
+date: 2022-10-18T15:25:07.985Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -20,18 +20,18 @@ There is a working list of [candidate topics for the agenda](/group/iesg/Meeting
 
 ## Saturday and Sunday, November 5 and 6, 2022
 
-**Code Sprint** - Saturday, November 5, 2022 - 10:00-18:00 - Room: TBD
+**Code Sprint** - Saturday, November 5, 2022 - 10:00-18:00 - Room: Mezzanine 8
 
 **Hackathon**
-  - Saturday, November 5, 2022 - 09:30-21:00 - Room: TBD
-  - Sunday, November 6, 2022 - 09:30-16:00 - Room: TBD 
+  - Saturday, November 5, 2022 - 09:30-21:00 - Room: Admiral 1
+  - Sunday, November 6, 2022 - 09:30-16:00 - Room: Admiral 1
 
-**Newcomer's Quick Connections** Sunday, November 6, 2022 - 16:00-17:00 - TBD
-**IETF 114 Welcome Reception** Sunday, July 24, 2022 - 17:00-19:00 - TBD
+**Newcomer's Quick Connections** Sunday, November 6, 2022 - 16:00-17:00 - 23rd Floor
+**IETF 114 Welcome Reception** Sunday, July 24, 2022 - 17:00-19:00 - Kensington 2 (west wing, 3rd floor)
 
 ## Sunday, November 6, 2022
 
-### IESG Only (After Breakfast) Meeting - 09:30-11:30am Room: TBD
+### IESG Only (After Breakfast) Meeting - 09:30-11:30am Room: Richmond 6 (west wing, 1st floor)
 
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
@@ -45,9 +45,9 @@ Meetecho: TBD
 >   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
 >   1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: Richmond 6 (west wing, 1st floor)
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: Richmond 6 (west wing, 1st floor)
 Meetecho: TBD
 
 > 1. Welcome
@@ -71,13 +71,13 @@ Meetecho: TBD
 ### Sunday Night Social
 
 Time: 21:00 - whenever
-Location: TBD
+Location: 23rd Floor
 What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 
-## Monday, November 7, 2022 Room: TBD
+## Monday, November 7, 2022 
 
 
-### IESG (After Breakfast) Meeting 08:00-09:20am Room: TBD	
+### IESG (After Breakfast) Meeting 08:00-09:20am Room: Richmond 6 (west wing, 1st floor)	
 
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
@@ -89,7 +89,7 @@ Meetecho: TBD
 ## Wednesday, November 9, 2022
 
 
-### IESG (After Breakfast) Meeting 08:00-09:20am Room: TBD	
+### IESG (After Breakfast) Meeting 08:00-09:20am Room: Richmond 6 (west wing, 1st floor)	
 
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
@@ -97,7 +97,7 @@ Meetecho: TBD
 
 >    Plenary Prep
 
-### IETF 115 Plenary 17:30-19:30 Room: TBD
+### IETF 115 Plenary 17:30-19:30 Room: Kensington (west wing, 3rd floor)
 
 ## Thursday, November 10, 2022
 
@@ -106,7 +106,7 @@ Room: IESG office
 Metecho: *none*
 
 ## Friday, November 11, 2022 
-### Joint IAB/IESG Lunch - 14:15-14:45 Room: TBD
+### Joint IAB/IESG Lunch - 14:15-14:45 Room: Richmond 6 (west wing, 1st floor)
 ### Joint IESG/IAB Meeting - 14:45-16:30
 Room: TBD
 Meetecho: TBD
