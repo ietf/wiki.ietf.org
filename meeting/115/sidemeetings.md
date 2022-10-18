@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T08:58:45.312Z
+date: 2022-10-18T09:17:53.781Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -78,8 +78,8 @@ Location: West Wing, First Floor
 |  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 |  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  TODO  | TBD    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
-|  19:30   |                  |          |             |                         |                      |                       |    
+|  19:00   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
+|  19:30   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
