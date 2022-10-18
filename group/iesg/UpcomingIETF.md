@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-14T23:29:44.413Z
+date: 2022-10-18T10:36:00.587Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -43,6 +43,7 @@ Meetecho: TBD
 >      - IANA
 >   3. Document Queues (Lars? RTG ADs?)
 >   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
+>   1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
 
@@ -50,29 +51,28 @@ Meetecho: TBD
 Meetecho: TBD
 
 > 1. Welcome
-> 2. Area walkthrough for hot topics (list randomized for 115)
-> - IAB
-> - IRTF
-> - ART
-> - RTG
-> - SEC
-> - TSV
-> - INT
-> - OPS
-> - GEN 
-> 3. Fund raising events at IETF meetings (Jay)
-> 3. Future local meetings collocated with IETFs and retreats (Lars)
+> 1. Area walkthrough for hot topics (list randomized for 115)
+>    - IAB
+>    - IRTF
+>    - ART
+>    - RTG
+>    - SEC
+>    - TSV
+>    - INT
+>    - OPS
+>    - GEN 
+> 1. Fund raising events at IETF meetings (Jay)
+> 1. Future local meetings collocated with IETFs and retreats (Lars)
 >    Do we want to have meetings with local gov/public-sector/etc. people when we travel somewhere, and if so, how?
-> 4. Introducing the new RSCE - Alexis Rossi (Jay)
-> 5. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
+> 1. Introducing the new RSCE - Alexis Rossi (Jay)
+> 1. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
 {.is-info}
 
+### Sunday Night Social
 
- ### Sunday Night Social
-
-   Time: 21:00 - whenever
-   Location: TBD
-   What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
+Time: 21:00 - whenever
+Location: TBD
+What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 
 ## Monday, November 7, 2022 Room: TBD
 
@@ -111,19 +111,18 @@ Metecho: *none*
 Room: TBD
 Meetecho: TBD
 
->  1.  Welcome
->  2.  Post-meeting review (randomized for 115)
-    > - ART
-    > - SEC
-    > - IRTF
-    > - TSV
-    > - RTG
-    > - INT
-    > - GEN
-    > - IAB
-    > - OPS
->  3.  General discussion of productivity and how the meeting went	 (standing item)
->  4.  Discussion Topic (name)
+>  1. Welcome
+>  1. Post-meeting review (randomized for 115)
+>     - ART
+>     - SEC
+>     - IRTF
+>     - TSV
+>     - RTG
+>     - INT
+>     - GEN
+>     - IAB
+>     - OPS
+>  1.  General discussion of productivity and how the meeting went	 (standing item)
 
 
 # Reservations for IESG Breakout Room
