@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T10:19:52.801Z
+date: 2022-10-18T11:01:35.972Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -61,8 +61,8 @@ Location: West Wing, First Floor
 |  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
 |  10:00   |                  |          |             |                         |                      |                       | 
-|  10:30   |                  |          |             |                         |                      |                       |         
-|  11:00   |                  |          |             |                         |                      |                       |          
+|  10:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |         
+|  11:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |          
 |  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
 |  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
