@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-18T15:25:07.985Z
+date: 2022-10-18T15:34:28.254Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -20,11 +20,11 @@ There is a working list of [candidate topics for the agenda](/group/iesg/Meeting
 
 ## Saturday and Sunday, November 5 and 6, 2022
 
-**Code Sprint** - Saturday, November 5, 2022 - 10:00-18:00 - Room: Mezzanine 8
+**Code Sprint** - Saturday, November 5, 2022 - 10:00-18:00 - Room: Mezzanine 8 (east wing, 1st floor)
 
 **Hackathon**
-  - Saturday, November 5, 2022 - 09:30-21:00 - Room: Admiral 1
-  - Sunday, November 6, 2022 - 09:30-16:00 - Room: Admiral 1
+  - Saturday, November 5, 2022 - 09:30-21:00 - Room: Admiral 1 (east wing, 3rd lower ground floor)
+  - Sunday, November 6, 2022 - 09:30-16:00 - Room: Admiral 1 (east wing, 3rd lower ground floor)
 
 **Newcomer's Quick Connections** Sunday, November 6, 2022 - 16:00-17:00 - 23rd Floor
 **IETF 114 Welcome Reception** Sunday, July 24, 2022 - 17:00-19:00 - Kensington 2 (west wing, 3rd floor)
@@ -101,9 +101,6 @@ Meetecho: TBD
 
 ## Thursday, November 10, 2022
 
-### INT AD Office Hours 12:00-13:00
-Room: IESG office
-Metecho: *none*
 
 ## Friday, November 11, 2022 
 ### Joint IAB/IESG Lunch - 14:15-14:45 Room: Richmond 6 (west wing, 1st floor)
@@ -149,6 +146,9 @@ Location: Hybrid 1, Ground Floor, West Wing
 	 
 
 ## Thursday, 10 November 2022
+
+### 12:00 - 13:00 INT AD Office Hours
+Room: IESG office - Hybrid 1
 
 ## Friday, 11 November 2022
 
