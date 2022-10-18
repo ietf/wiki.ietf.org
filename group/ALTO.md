@@ -2,7 +2,7 @@
 title: ALTO Working Group
 description: 
 published: true
-date: 2022-10-18T13:36:24.895Z
+date: 2022-10-18T13:37:45.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:36:24.895Z
@@ -32,7 +32,7 @@ The WG is using [the Github dashborad](https://github.com/orgs/ietf-wg-alto/proj
 
 # Weekly Meeting
 
-Welcome to join us. Subscribe [alto@ietf.org](https://www.ietf.org/mailman/listinfo/alto alto@ietf.org) or [alto-weekly-meeting@googlegroups.com](https://groups.google.com/forum/#!forum/alto-weekly-meeting) to receive meeting reminder notifications.
+Welcome to join us. Subscribe [alto@ietf.org](https://www.ietf.org/mailman/listinfo/alto) or [alto-weekly-meeting@googlegroups.com](https://groups.google.com/forum/#!forum/alto-weekly-meeting) to receive meeting reminder notifications.
 
  * Time: 9:00 - 10:00 am ET every Tuesday
  * Bridge: https://yale.zoom.us/my/yryang
