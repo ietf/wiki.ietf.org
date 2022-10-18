@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T17:41:44.073Z
+date: 2022-10-18T17:58:26.413Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -243,13 +243,13 @@ Location: Mezzanine Level
 |  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |          
-|  16:00   |                  |          |             |                         |                      |                       |  
+|  15:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |         
+|  15:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |        
+|  16:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
 |  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
-|  17:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
-|  18:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
+|  17:00   |                  |          |             |                         |                      |                       |  
+|  17:30   |                  |          |             |                         |                      |                       |  
+|  18:00   |                  |          |             |                         |                      |                       |  
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
