@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T18:15:08.171Z
+date: 2022-10-18T18:34:52.503Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -73,14 +73,24 @@ Location: West Wing, First Floor
 |  15:00   |                  |          |             |                         |                      |                       |          
 |  15:30   |                  |          |             |                         |                      |                       |          
 |  16:00   |                  |          |             |                         |                      |                       |  
-|  16:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
-|  17:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
-|  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
+|  16:30   |                  |          |             |                         |                      |                       | 
+|  17:00   |                  |          |             |                         |                      |                       | 
+|  17:30   |                  |          |             |                         |                      |                       | 
 |  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  TODO  | TBD    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
 |  19:00   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
 |  19:30   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+
+## Room: GMT 1 - Monday
+Configuration: conference
+Location: -2
+
+| **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+|----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
+|  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
+|  18:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
+|  18:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | IETF capacity building for public policymakers  |  TBS | TBS       |
 
 
 ## Room: Mezzanine 12 - Monday
