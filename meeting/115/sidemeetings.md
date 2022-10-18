@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-18T15:21:02.978Z
+date: 2022-10-18T17:41:44.073Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -247,9 +247,9 @@ Location: Mezzanine Level
 |  15:30   |                  |          |             |                         |                      |                       |          
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |                  |          |             |                         |                      |                       |    
+|  17:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
+|  17:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
+|  18:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
