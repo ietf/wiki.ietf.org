@@ -2,7 +2,7 @@
 title: The ALTO Working Group
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2022-10-19T06:13:27.550Z
+date: 2022-10-19T07:25:23.465Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:40:31.135Z
@@ -35,8 +35,8 @@ The WG is using [the Github dashborad](https://github.com/orgs/ietf-wg-alto/proj
 Welcome to join us. Subscribe [alto@ietf.org](https://www.ietf.org/mailman/listinfo/alto) or [alto-weekly-meeting@googlegroups.com](https://groups.google.com/forum/#!forum/alto-weekly-meeting) to receive meeting reminder notifications.
 
  * Time: 9:00 - 10:00 am ET every Tuesday
- * Bridge: https://yale.zoom.us/my/yryang
- * Meeting Records: [Google drive](https://drive.google.com/drive/folders/1Z845CZmkf9OMnHlVxkEfvbXcSfdm-Fbn?usp=sharing)
+ * Bridge: https://ietf.webex.com/ietf/j.php?MTID=ma0e97cc97c4cd71bb59cf1a094682686
+ * Meeting Records: WG github (https://github.com/ietf-wg-alto/wg-materials/blob/main/meetings-ietf-alto/ietf-alto-2022.md)
  
 
 # Coming Meetings
