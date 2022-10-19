@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-19T09:49:22.478Z
+date: 2022-10-19T10:14:36.373Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -479,12 +479,16 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Champions:
     - Leandro Lanzieri (leandro.lanzieri at haw-hamburg.de)
     - Martine Lenders (m.lenders at fu-berlin.de)
+    - José I. Álamos (jose.alamos at haw-hamburg.de)
 - Projects info:
     - SCHC Plugtest: OpenSCHC / RIOT + libSCHC (see also **openSCHC development and documentation** above)
     - Implement crypto PSA API for RIOT
         - integration of multiple libraries
         - integration of hardware acceleration and secure elements
     - Integration of libOSCORE
+    - IPv6 support over IEEE 802.15.4e DSME.
+    	  - integration of openDSME into RIOT
+        - integration of SCHC over IEEE 802.15.4 / 6TiSCH
 - Code:
     - https://github.com/RIOT-OS/RIOT
     - https://github.com/RIOT-OS/RIOT/pull/18547
@@ -496,10 +500,14 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       - Wrappers to pkg/micro-ecc: https://github.com/RIOT-OS/RIOT/pull/18581
       - Wrappers to pkg/cryptoauthlib: https://github.com/RIOT-OS/RIOT/pull/18582
       - CryptoCell 310 driver package: https://github.com/RIOT-OS/RIOT/pull/18583
+    - **IEEE 802.15.4e DSME integration**
+      - initial openDSME support: https://github.com/RIOT-OS/RIOT/pull/18156
 
 - Specifications:
     - https://www.rfc-editor.org/rfc/rfc8724.html
     - https://armmbed.github.io/mbed-crypto/html/index.html
+    - https://datatracker.ietf.org/doc/draft-gomez-6lo-schc-15dot4/
+    - https://datatracker.ietf.org/doc/rfc7554/
 
 ----
 
