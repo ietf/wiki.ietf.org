@@ -2,7 +2,7 @@
 title: The ALTO Working Group
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2022-10-19T06:10:11.335Z
+date: 2022-10-19T06:13:27.550Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:40:31.135Z
@@ -44,9 +44,9 @@ Welcome to join us. Subscribe [alto@ietf.org](https://www.ietf.org/mailman/listi
 * [IETF 115](https://www.ietf.org/how/meetings/115/) (November 5-11, 2022; London, UK)
  
 # Recent Meetings
-* [ALTO session in IETF 114] (https://www.youtube.com/watch?v=2Kcm24Tm4Yg)
-* [ALTO session in IETF 113] (https://www.youtube.com/watch?v=38dJ4cxY7IU)
-* [ALTO session in IETF 112] (https://www.youtube.com/watch?v=w0mD38c9FV0)
+* [ALTO session in IETF 114](https://www.youtube.com/watch?v=2Kcm24Tm4Yg)
+* [ALTO session in IETF 113](https://www.youtube.com/watch?v=38dJ4cxY7IU)
+* [ALTO session in IETF 112](https://www.youtube.com/watch?v=w0mD38c9FV0)
 * [ALTO session in IETF 111](https://www.youtube.com/watch?v=y6x7CNTddq4)
 * [ALTO session in IETF 110](https://www.youtube.com/watch?v=fjBSODKtuLA)
 * [ALTO session in IETF 109](https://www.youtube.com/watch?v=ldduoGYGqRg&t=6131s)
