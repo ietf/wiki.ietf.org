@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-19T10:14:36.373Z
+date: 2022-10-19T10:16:08.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -487,7 +487,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
         - integration of hardware acceleration and secure elements
     - Integration of libOSCORE
     - IPv6 support over IEEE 802.15.4e DSME.
-    	  - integration of openDSME into RIOT
+        - integration of openDSME into RIOT
         - integration of SCHC over IEEE 802.15.4 / 6TiSCH
 - Code:
     - https://github.com/RIOT-OS/RIOT
