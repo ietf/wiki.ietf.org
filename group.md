@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-10-18T13:40:46.381Z
+date: 2022-10-19T06:05:13.543Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -19,7 +19,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 ## Alphabetical
 - [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
 - [6man *IPv6 Maintenance*](/group/6man)
-- [ALTO *Application-Layer Traffic Optimization*](/group/alto)
+- [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [dispatch *DISPATCH*](/group/dispatch)
 - [idr *Inter-Domain Routing*](/group/idr)
