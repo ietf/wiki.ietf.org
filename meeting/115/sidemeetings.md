@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-19T09:08:47.630Z
+date: 2022-10-19T14:45:24.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -173,9 +173,10 @@ Location: Mezzanine Level
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
-|  08:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
-|  09:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
+|  08:00   |                  |          |             |                         |                      |                       |   
+|  08:30   |                  |          |             |                         |                      |                       | 
+|  09:00   |                  |          |             |                         |                      |                       |  
+|  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
