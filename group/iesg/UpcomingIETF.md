@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-18T20:46:49.698Z
+date: 2022-10-19T13:16:06.493Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -43,7 +43,6 @@ Meetecho: TBD
 >      - IANA
 >   3. Document Queues (Lars? RTG ADs?)
 >   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
->   1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Richmond 6 (west wing, 1st floor)
 
@@ -82,6 +81,9 @@ What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc.
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
 Meetecho: TBD
+
+> 1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
+{.is-info}
 
 ## Tuesday, November 8, 2022
 
