@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-20T13:10:54.499Z
+date: 2022-10-20T15:33:17.047Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -16,7 +16,7 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 ### Notes about public side meetings
 
-* Side meetings posted here should be open for anyone to attend and are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
+* Side meetings posted here are open for any registered IETF participant to attend and are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
 
 * Working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html), which is not the case for informal side meetings.
 
