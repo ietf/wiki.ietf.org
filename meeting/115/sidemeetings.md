@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-20T10:33:05.757Z
+date: 2022-10-20T13:06:52.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -327,8 +327,8 @@ Location: Mezzanine Level
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |          
-|  16:00   |                  |          |             |                         |                      |                       |  
+|  15:30   |  Proposed RASP RG       | IRTF       | Niels ten Oever            |    Proposed research group coordination meeting for research and analysis of standards-process data            |  https://uva-live.zoom.us/s/6365963924             |                       |          
+|  16:00   |  Proposed RASP RG       | IRTF       | Niels ten Oever            |    Proposed research group coordination meeting for research and analysis of standards-process data            |  https://uva-live.zoom.us/s/6365963924             |                       |          
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
