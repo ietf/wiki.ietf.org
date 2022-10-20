@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-19T19:00:23.773Z
+date: 2022-10-20T10:33:05.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -186,9 +186,9 @@ Location: Mezzanine Level
 |  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  14:00   |                  |          |             |                         |                      |                       |          
-|  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |          
+|  14:30   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |  Discuss key points for the PQC draft standardization in OpenPGP  |  TBA                    |                       |          
+|  15:00   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |                         |                      |                       |          
+|  15:30   |  PQC in OpenPGP  |  SEC     |  aron@wussler.it |                         |                      |                       |          
 |  16:00   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>            | Mike will present a list of IPv6 issues for enterprises. All attendees will discuss how to solve these issues                         | No link, but we can email Mike/Xipeng for the slides                     |         NA              |  
 |  16:30   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |  
 |  17:00   |  Discuss IPv6 enterprise issues                |     OPS     | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |    
