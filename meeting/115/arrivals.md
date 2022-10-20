@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-10-20T03:03:02.408Z
+date: 2022-10-20T20:28:37.995Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z
@@ -42,6 +42,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DESTINATION |
 |---|---|---|---|---|---|---|
+| 12:00 | UA923 | Lixia Zhang | lixia@cs.ucla.edu | LHR |  | Hilton Metropole  || 
 | 14:35  | US 930  | Mahesh Jethanandani  | mjethanandani@gmail.com  | LHR  |   | Hilton Metropole  ||   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
