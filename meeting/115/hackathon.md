@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-20T17:50:59.645Z
+date: 2022-10-20T17:53:33.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -518,6 +518,12 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 - Specifications:
   - tbd
+  
+- Code
+  - https://github.com/veraison
+  - https://github.com/parallaxsecond
+  - https://github.com/Mbed-TLS/mbedtls
+  
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
