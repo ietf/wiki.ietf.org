@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-20T17:54:52.378Z
+date: 2022-10-20T19:20:10.548Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -464,7 +464,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   Join us to design and build transcription and redaction plugins.
   
  - Specification
-   - I-D submission coming soon (https://dgpetrie.github.io/draft-petrie-vcon/draft-petrie-vcon.html)
+   - I-D: https://datatracker.ietf.org/doc/draft-petrie-vcon/
 
 **Internet of Things with RIOT**
 
