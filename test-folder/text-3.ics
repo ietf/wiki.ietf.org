@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:mailto:Dirk.von-Hugo@telekom.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:dirk.v
+ on-hugo@magenta.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:sarika
+ ya@ieee.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:6gip@i
+ etf.org
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:Roland
+ .Schott@telekom.de
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:lionel
+ .morand@orange.com
+DESCRIPTION;LANGUAGE=en-US:\n\n-----Original Appointment-----\nFrom: von Hu
+ go\, Dirk\nSent: Mittwoch\, 19. Oktober 2022 10:25\nTo: von Hugo\, Dirk\; 
+ sarikaya@ieee.org<mailto:sarikaya@ieee.org>\; 6gip@ietf.org<mailto:6gip@ie
+ tf.org>\nCc: Schott\, Roland\; lionel.morand@orange.com<mailto:lionel.mora
+ nd@orange.com>\nSubject: Side Meeting at IETF 115 in London\nWhen: Diensta
+ g\, 8. November 2022 18:30-19:30 (UTC+01:00) Amsterdam\, Berlin\, Bern\, R
+ om\, Stockholm\, Wien.\nWhere: Mobile +49697912290\,\,27341273855# Dial-in
+  +49697912290 Meeting-ID 27341273855# webex or London\, Room Mezzanine 12\
+ n\nDear all 6G IP enthusiasts\,\nEnclosed please find the details for join
+ ing this unofficial side meeting online. We would like to discuss potentia
+ l directions of future IETF work in view of requirements and concepts of n
+ ext generation systems - beyond 5G.\n3GPPs upcoming  5G Advanced may offer
+  prospective new features demanding challenging tasks also at IETF.\nWe lo
+ ok forward to interesting discussions on site and online as well as on the
+  mailing list.\nThanks and best regards\nDirk - also on behalf of Behcet\n
+ _____________________________________________\nFrom: Behcet Sarikaya <sari
+ kaya2012@gmail.com<mailto:sarikaya2012@gmail.com>>\nSent: Dienstag\, 18. O
+ ktober 2022 16:57\nTo: 6gip@ietf.org<mailto:6gip@ietf.org>\nCc: von Hugo\,
+  Dirk <Dirk.von-Hugo@telekom.de<mailto:Dirk.von-Hugo@telekom.de>>\; Schott
+ \, Roland <Roland.Schott@telekom.de<mailto:Roland.Schott@telekom.de>>\nSub
+ ject: Side Meeting at IETF 115 in London\n\nHi all\,\n\nWe are pleased to 
+ invite you to our next side meeting during IETF 115 in London. As per our 
+ Side Meetings web site reservation:\n\nRoom: Mezzanine 12 - Tuesday\n\nTim
+ e 17:30 local time in London a Webex Link will be provided soon\nThe meeti
+ ng will feature a presentation from Lionel Morand on 5G Advanced\nRoland S
+ chott will chair the meeting\, Dirk and I will attend online\n\nMore detai
+ ls coming to you soon.\n\nBehcet\n\n\nEnglish version below\n\n-----------
+ --------------------\nWICHTIG: DATEN- UND INFORMATIONSSCHUTZ\n------------
+ -------------------\n\nWebEx Meetings sind für die Nutzung bis zur Schutz
+ klasse "VERTRAULICH" freigegeben.\n\n-------------------------------\nMeet
+ ingdaten\n-------------------------------\n\nMeeting-ID: 2734 127 3855\nMe
+ eting-Passwort: KQpsVJSa447\n\n-------------------------------\nWeb-Konfer
+ enz beitreten\n-------------------------------\n\nDirekteinstieg mit https
+ ://dtag.webex.com/dtag/j.php?MTID=m80d6c571a7ea1a43195727182b679238\nAls T
+ eilnehmer geben Sie bitte Ihren Namen ein und klicken auf "Dem Meeting bei
+ treten".\n\nAlternativ mit https://dtag.webex.com und Eingabe der Meeting-
+ ID.\n\nBITTE BEACHTEN SIE: DIE FREIGABE DER TASTATUR- UND MAUSSTEUERUNG BE
+ I DESKTOPSHARING IST AUS SICHERHEITSGRÜNDEN AUSSCHLIESSLICH AN DTAG MITAR
+ BEITER GESTATTET!\n\nÜber Videogerät oder -anwendung beitreten\nWählen 
+ Sie 27341273855@dtag.webex.com<sip:27341273855@dtag.webex.com>\nSie könne
+ n auch 62.109.219.4 wählen und Ihre Meeting-Nummer eingeben.\n\n\nMit Mic
+ rosoft Lync oder Microsoft Skype for Business beitreten\nWählen Sie 27341
+ 273855.dtag@lync.webex.com<sip:27341273855.dtag@lync.webex.com>\n\n-------
+ ------------------------\nEinwahl in die Audio-Konferenz\n----------------
+ ---------------\n\n1. Einwahl +49 69 791 2290\n2. Geben Sie nach Aufforder
+ ung die Meeting-ID ein\n\nEinwahl mit Cisco Jabber Version 11.0 und höher
+ : tel:+49697912290\,\,\,\,1#\,\,\,\,27341273855#\n\n----------------------
+ ---------\nInternationale Einwahl-Nummern\n-------------------------------
+ \n\nWenn Sie Verbindungsprobleme mit einer internationalen Einwahlnummer h
+ aben oder es für Ihr Land keine Einwahlnummer gibt\, benutzen Sie bitte d
+ ie deutsche Einwahlnummer.\n\nGermany: +49 69 791 2290\nAustria: +43 18909
+ 080\nBelgium: +32 23009199\nBrazil: +55 1125967383\nCroatia: +38 514917770
+ \nDenmark: +45 78774290\nFinland: +358 931579190\nFrance: +33 155941414\nG
+ reece: +30 2106112599\nHungary (landline): +36 12659800\nHungary (mobile):
+  +36 309309800\nIndia Toll (Bangalore): +91 8064800113\nIndia Toll (Delhi)
+ : +91 1164800113\nIndia Toll (Pune): +91 2064800250\nIreland: +353 2124392
+ 99\nMacedonia: +389 23242046\nMexico: +52 2222234500\nMontenegro: +382 204
+ 33795\nPoland: +48 224137788\nRomania: +40 214006130\nRussia (Moscow): +7 
+ 4956444649\nRussia (St Petersburg): +7 8126776286\nRussia (Voronezh): +7 4
+ 732001529\nSingapore: +65 65106233\nSpain: +34 830830001\nSweden: +46 8403
+ 11290\nSwitzerland (for customers): +41 445769990\nUK: +44 2036301290\nUSA
+  (for customers): +1 3312147700\nUSA (for customers): +1 3312147999\n\n\nW
+ eitere Informationen zu WebEx finden Sie im DTAG Intranet: http://webex.te
+ lekom.de\n\n\n_ _ _ English version _ _ _\n\n-----------------------------
+ --\nIMPORTANT: DATA AND INFORMATION PROTECTION\n--------------------------
+ -----\n\nWebEx Meetings are released for use up to protection class "CONFI
+ DENTIAL".\n\n-------------------------------\nMEETING DATA\n--------------
+ -----------------\n\nMeeting-ID: 2734 127 3855\nMeeting Password: KQpsVJSa
+ 447\n\n-------------------------------\nJoin the WEB CONFERENCE\n---------
+ ----------------------\n\nClick this link: https://dtag.webex.com/dtag/j.p
+ hp?MTID=m80d6c571a7ea1a43195727182b679238\nIf you are a participant\, plea
+ se enter your name and press "Join Meeting".\n\nAlternatively go to https:
+ //dtag.webex.com and enter your Meeting-ID.\n\nPLEASE PAY ATTENTION: KEYBO
+ ARD AND MOUSE SHARING IS ONLY PERMITTED FOR DTAG EMPLOYEES!\n\n-----------
+ --------------------\nEnter the AUDIO CONFERENCE\n------------------------
+ -------\n\n1. Dial +49 69 791 2290\n2. When asked\, enter your Meeting-ID\
+ n\nDial in with Cisco Jabber version 11.0 and higher: tel:+49697912290\,\,
+ \,\,2#\,\,\,\,27341273855#\n\n-------------------------------\nInternation
+ al dial-in numbers\n-------------------------------\n\nIf you have connect
+ ion problems with an international dial-in number\, or if there is no dial
+ -in number for your country\, please use the German dial-in number.\n\nGer
+ many: +49 69 791 2290\nAustria: +43 18909080\nBelgium: +32 23009199\nBrazi
+ l: +55 1125967383\nCroatia: +38 514917770\nDenmark: +45 78774290\nFinland:
+  +358 931579190\nFrance: +33 155941414\nGreece: +30 2106112599\nHungary (l
+ andline): +36 12659800\nHungary (mobile): +36 309309800\nIndia Toll (Banga
+ lore): +91 8064800113\nIndia Toll (Delhi): +91 1164800113\nIndia Toll (Pun
+ e): +91 2064800250\nIreland: +353 212439299\nMacedonia: +389 23242046\nMex
+ ico: +52 2222234500\nMontenegro: +382 20433795\nPoland: +48 224137788\nRom
+ ania: +40 214006130\nRussia (Moscow): +7 4956444649\nRussia (St Petersburg
+ ): +7 8126776286\nRussia (Voronezh): +7 4732001529\nSingapore: +65 6510623
+ 3\nSpain: +34 830830001\nSweden: +46 840311290\nSwitzerland (for customers
+ ): +41 445769990\nUK: +44 2036301290\nUSA (for customers): +1 3312147700\n
+ USA (for customers): +1 3312147999\n\n\nFor additional information\, pleas
+ e go to DTAG Intranet: http://webex.telekom.de\n\n\n----------------------
+ ---------\nCisco Jabber\n-------------------------------\n\nGermany: tel:+
+ 49697912290\,\,\,\,27341273855#<tel:+49697912290\,\,\,\,27341273855>\nAust
+ ria: tel:+4318909080\,\,\,\,27341273855#<tel:+4318909080\,\,\,\,2734127385
+ 5>\nBelgium: tel:+3223009199\,\,\,\,27341273855#<tel:+3223009199\,\,\,\,27
+ 341273855>\nBrazil: tel:+551125967383\,\,\,\,27341273855#<tel:+55112596738
+ 3\,\,\,\,27341273855>\nCroatia: tel:+38514917770\,\,\,\,27341273855#<tel:+
+ 38514917770\,\,\,\,27341273855>\nDenmark: tel:+4578774290\,\,\,\,273412738
+ 55#<tel:+4578774290\,\,\,\,27341273855>\nFinland: tel:+358931579190\,\,\,\
+ ,27341273855#<tel:+358931579190\,\,\,\,27341273855>\nFrance: tel:+33155941
+ 414\,\,\,\,27341273855#<tel:+33155941414\,\,\,\,27341273855>\nGreece: tel:
+ +302106112599\,\,\,\,27341273855#<tel:+302106112599\,\,\,\,27341273855>\nH
+ ungary (landline): tel:+3612659800\,\,\,\,27341273855#<tel:+3612659800\,\,
+ \,\,27341273855>\nHungary (mobile): tel:+36309309800\,\,\,\,27341273855#<t
+ el:+36309309800\,\,\,\,27341273855>\nIndia Toll (Bangalore): tel:+91806480
+ 0113\,\,\,\,27341273855#<tel:+918064800113\,\,\,\,27341273855>\nIndia Toll
+  (Delhi): tel:+911164800113\,\,\,\,27341273855#<tel:+911164800113\,\,\,\,2
+ 7341273855>\nIndia Toll (Pune): tel:+912064800250\,\,\,\,27341273855#<tel:
+ +912064800250\,\,\,\,27341273855>\nIreland: tel:+353212439299\,\,\,\,27341
+ 273855#<tel:+353212439299\,\,\,\,27341273855>\nMacedonia: tel:+38923242046
+ \,\,\,\,27341273855#<tel:+38923242046\,\,\,\,27341273855>\nMexico: tel:+52
+ 2222234500\,\,\,\,27341273855#<tel:+522222234500\,\,\,\,27341273855>\nMont
+ enegro: tel:+38220433795\,\,\,\,27341273855#<tel:+38220433795\,\,\,\,27341
+ 273855>\nPoland: tel:+48224137788\,\,\,\,27341273855#<tel:+48224137788\,\,
+ \,\,27341273855>\nRomania: tel:+40214006130\,\,\,\,27341273855#<tel:+40214
+ 006130\,\,\,\,27341273855>\nRussia (Moscow): tel:+74956444649\,\,\,\,27341
+ 273855#<tel:+74956444649\,\,\,\,27341273855>\nRussia (St Petersburg): tel:
+ +78126776286\,\,\,\,27341273855#<tel:+78126776286\,\,\,\,27341273855>\nRus
+ sia (Voronezh): tel:+74732001529\,\,\,\,27341273855#<tel:+74732001529\,\,\
+ ,\,27341273855>\nSingapore: tel:+6565106233\,\,\,\,27341273855#<tel:+65651
+ 06233\,\,\,\,27341273855>\nSpain: tel:+34830830001\,\,\,\,27341273855#<tel
+ :+34830830001\,\,\,\,27341273855>\nSweden: tel:+46840311290\,\,\,\,2734127
+ 3855#<tel:+46840311290\,\,\,\,27341273855>\nSwitzerland (for customers): t
+ el:+41445769990\,\,\,\,27341273855#<tel:+41445769990\,\,\,\,27341273855>\n
+ UK: tel:+442036301290\,\,\,\,27341273855#<tel:+442036301290\,\,\,\,2734127
+ 3855>\nUSA (for customers): tel:+13312147700\,\,\,\,27341273855#<tel:+1331
+ 2147700\,\,\,\,27341273855>\nUSA (for customers): tel:+13312147999\,\,\,\,
+ 27341273855#<tel:+13312147999\,\,\,\,27341273855>\n\n
+UID:040000008200E00074C5B7101A82E00800000000808A7DFBA4E3D801000000000000000
+ 010000000D03EFE247074154B86C07B59BC924239
+SUMMARY;LANGUAGE=en-US:FW: Side Meeting at IETF 115 in London
+DTSTART;TZID=GMT Standard Time:20221108T173000
+DTEND;TZID=GMT Standard Time:20221108T183000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20221019T090453Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:Mobile +49697912290\,\,27341273855# Dial-in +496979
+ 12290 Meeting-ID 27341273855# webex or London\, Room Mezzanine 12
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:1528014822
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Mobile +49697912290\,\,273412738
+ 55# Dial-in +49697912290 Meeting-ID 27341273855# webex or London\, Room Me
+ zzanine 12"\, "LocationAnnotation" : ""\, "LocationSource" : 0\, "Unresolv
+ ed" : false\, "LocationUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
