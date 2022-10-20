@@ -504,6 +504,20 @@ All Hackathon participants are free to work on any code. The rules regarding tha
     - https://datatracker.ietf.org/doc/draft-gomez-6lo-schc-15dot4/
     - https://datatracker.ietf.org/doc/rfc7554/
 
+**Explicit Flow Measurements**
+
+- Champion(s):
+    - Massimo Nilo (massimo.nilo at telecomitalia.it)
+    - Fabio Bulgarella (fabio.bulgarella at guest.telecomitalia.it)
+- Project info:
+    - Per-flow measurement techniques focused on their application on users’ devices.
+    - New technique implementation on QUIC protocol.
+    - Tests and measurements carried out on an android mobile environment.
+    - SpinBit technique implementation within an open-source browser and testing over Internet.
+- Draft(s):
+    - https://datatracker.ietf.org/doc/html/draft-ietf-ippm-explicit-flow-measurements-02
+    - https://datatracker.ietf.org/doc/html/draft-cnbf-ippm-user-devices-explicit-monitoring-04
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
