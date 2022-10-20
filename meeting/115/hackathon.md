@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-20T12:24:55.805Z
+date: 2022-10-20T17:50:59.645Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -504,6 +504,20 @@ All Hackathon participants are free to work on any code. The rules regarding tha
     - https://datatracker.ietf.org/doc/draft-gomez-6lo-schc-15dot4/
     - https://datatracker.ietf.org/doc/rfc7554/
 
+**Attestation and TLS**
+
+- Champion(s)
+  - Hannes Tschofenig (Hannes.Tschofenig at arm.com)
+  - Ionut Mihalcea (Ionut.Mihalcea at arm.com)
+  - Paul Howard (Paul.Howard at arm.com)
+  - Yogesh.Deshpande (Yogesh.Deshpande at arm.com)
+  - Thomas Fossati (Thomas.Fossati at arm.com)
+  
+- Project info
+  - tbd
+
+- Specifications:
+  - tbd
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
