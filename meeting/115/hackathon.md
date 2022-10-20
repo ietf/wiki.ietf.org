@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-19T13:34:19.747Z
+date: 2022-10-20T12:24:55.805Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -181,7 +181,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
  **SRv6 Data-Plane Visibility**
 - Champion(s)
   - Thomas Graf (thomas.graf at swisscom.com)
-  - Benoit Calise (benoit.claise at huawei.com)
+  - Benoit Claise (benoit.claise at huawei.com)
   - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
 - Draft(s)
   - https://datatracker.ietf.org/doc/html/draft-tgraf-opsawg-ipfix-inband-telemetry
