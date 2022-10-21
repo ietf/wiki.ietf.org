@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-21T18:41:14.799Z
+date: 2022-10-21T20:03:49.196Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -524,6 +524,23 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://github.com/veraison
   - https://github.com/parallaxsecond
   - https://github.com/Mbed-TLS/mbedtls
+  
+__Roughtime*__
+
+- Champion(s)
+  - Marcus Dansarie (marcus at dansarie.se)
+
+- Project info
+  - Roughtime is a protocol that aims to achieve rough time synchronization while detecting servers that provide inaccurate time and providing cryptographic proof of their malfeasance.
+  - We'll try to get our Roughtime implementations to interoperate.
+  - Along the way, we're hoping to find any bugs and omissions in the draft.
+  
+- Specifications:
+  - https://datatracker.ietf.org/doc/draft-ietf-ntp-roughtime/
+  
+- Code:
+  - https://github.com/dansarie/roughtimed
+  - https://github.com/dansarie/pyroughtime
   
 ----
 
