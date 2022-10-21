@@ -2,7 +2,7 @@
 title: IETF Administration LLC
 description: The IETF Administration LLC (IETF LLC) provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF).
 published: true
-date: 2022-10-21T19:46:26.904Z
+date: 2022-10-21T21:07:58.646Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-20T14:13:17.813Z
@@ -26,17 +26,15 @@ IETF community members are encouraged to discuss this project on the [admin-disc
 **Carbon offset strategy**
 This set of workshops will provide information about approaches to carbon offsetting and gather community input to help determine a strategy for potentially offsetting the carbon footprint of the IETF’s activities. 
 
-+ Carbon footprint strategy offset workshop - first session
-Time and date: Nov 1, 2022 09:00 PM GMT
-Zoom coordinates:
-https://ietf.zoom.us/j/88382949932?pwd=bWsvL3FsS0gyc1c5WDhnK2ZqbmxCdz09
++ Carbon footprint strategy offset workshop - first edition
+Time and date: 1 November 2022 2100 GMT
+[Zoom coordinates](https://ietf.zoom.us/j/88382949932?pwd=bWsvL3FsS0gyc1c5WDhnK2ZqbmxCdz09)
 Meeting ID: 883 8294 9932
 Passcode: 592008
 
-+ Carbon footprint offset strategy workshops - second session
-Time and date: Nov 1, 2022 09:00 PM GMT
-Zoom coordinates:
-https://ietf.zoom.us/j/83752478380?pwd=ekxnWk1qdnRsK3hQdENINGt2bFJnUT09
++ Carbon footprint offset strategy workshop - second edition
+Time and date: 2 Nov 2022 0800 GMT
+[Zoom coordinates](https://ietf.zoom.us/j/83752478380?pwd=ekxnWk1qdnRsK3hQdENINGt2bFJnUT09)
 Meeting ID: 837 5247 8380
 Passcode: 989394
 
