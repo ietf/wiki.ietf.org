@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-21T17:51:07.437Z
+date: 2022-10-21T23:04:58.276Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -63,10 +63,10 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |         
 |  11:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |          
-|  11:30   |   IPE-IETF  |   N/A  |   Michael Zhou  |   zhouyongdong@huawei.com |  N/A |   N/A  |   
-|  12:00   |   IPE-IETF  |   N/A  |   Michael Zhou  |   zhouyongdong@huawei.com |  N/A |   N/A  | 
-|  12:30   |   IPE-IETF  |   N/A  |   Michael Zhou  |   zhouyongdong@huawei.com |  N/A |   N/A  | 
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  11:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  N/A |   N/A  |   
+|  12:00  |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  N/A |   N/A  |
+|  12:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  N/A |   N/A  |
+|  13:00   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
 |  13:30   |                  |          |             |                         |                      |                       |       
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
@@ -243,9 +243,11 @@ Location: Mezzanine Level
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00-09:30   |   IETF - ETSI IPE Side meeting   |     |  Latif  |  reinforce the alignment and cooperation between IETF & ETSI IPE participants, to increase the adoption of IETF IPv6-related protocols and accelerate the industry strategy alignment        |     TBD   |   TBD   |
-|  09:30   |                  |          |             |                         |                      |                       | 
-|  10:00   |                  |          |             |                         |                      |                       | 
+|  08:00   |                  |          |             |                         |                      |                       |         
+|  08:30   |                  |          |             |                         |                      |                       |         
+|  09:00   |                  |          |             |                         |                      |                       |         
+|  09:30   |                  |          |             |                         |                      |                       |         
+|  10:00   |                  |          |             |                         |                      |                       |         
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
 |  11:30   |                  |          |             |                         |                      |                       |   
