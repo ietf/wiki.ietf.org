@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-20T19:20:10.548Z
+date: 2022-10-21T18:39:31.994Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -300,7 +300,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Testing of crypto agility:  we know the final PQ OIDs will be changing, and there have already been multiple suggestions for public and private key encodings (ex.: the differences between Dilithium and Falcon encodings in draft-uni-qsckeys, and draft-massimo-lamps-pq-sig-certificates).  We want to make our implementations as crypto agile as possible so it is trivial to update encodings and plug in new OIDS as soon as the standards are finalized.   
  - Specifications
    - https://datatracker.ietf.org/doc/html/draft-uni-qsckeys-00.html
-   - https://datatracker.ietf.org/doc/draft-massimo-lamps-pq-sig-certificates/
+   - https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-keys/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-sigs/
   
