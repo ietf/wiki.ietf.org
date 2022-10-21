@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-20T15:33:17.047Z
+date: 2022-10-21T17:47:00.013Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -63,11 +63,11 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |         
 |  11:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  11:30   |   IETF/ETSI  |   N/A  |   Michael Zhou  |   zhouyongdong@huawei.com |  N/A |   N/A  |   
+|  12:00   |   IETF/ETSI  |   N/A  |   Michael Zhou  |   zhouyongdong@huawei.com |  N/A |   N/A  | 
+|  12:30   |   IETF/ETSI  |   N/A  |   Michael Zhou  |   zhouyongdong@huawei.com |  N/A |   N/A  | 
 |  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  13:30   |                  |          |             |                         |                      |                       |       
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
@@ -109,11 +109,11 @@ Location: Mezzanine Level
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30   |                  |          |             |                         |                      |                       |    
+|  12:00   |                  |          |             |                         |                      |                       |  
+|  12:30   |                  |          |             |                         |                      |                       | 
+|  13:00   |                  |          |             |                         |                      |                       | 
+|  13:30   |                  |          |             |                         |                      |                       |   
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |  ACTN POI  |   RTG     |  Italo Busi (italo.busi@huawei.com) | SR-TE comments to the draft                        |                      |                       |          
@@ -145,11 +145,11 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30   |                  |          |             |                         |                      |                       |    
+|  12:00   |                  |          |             |                         |                      |                       |  
+|  12:30   |                  |          |             |                         |                      |                       | 
+|  13:00   |                  |          |             |                         |                      |                       | 
+|  13:30   |                  |          |             |                         |                      |                       |    
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  14:30   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  15:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
@@ -173,18 +173,18 @@ Location: Mezzanine Level
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |                  |          |             |                         |                      |                       |   
+|  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:30   |                  |          |             |                         |                      |                       | 
 |  09:00   |                  |          |             |                         |                      |                       |  
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30   |                  |          |             |                         |                      |                       |    
+|  12:00   |                  |          |             |                         |                      |                       |  
+|  12:30   |                  |          |             |                         |                      |                       | 
+|  13:00   |                  |          |             |                         |                      |                       | 
+|  13:30   |                  |          |             |                         |                      |                       |    
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |  Discuss key points for the PQC draft standardization in OpenPGP  |  TBA                    |                       |          
 |  15:00   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |                         |                      |                       |          
@@ -215,11 +215,11 @@ Location: West Wing, First Floor
 |  10:00   |DBOUND side meeting| |Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                      |                       | 
 |  10:30   |DBOUND into 6761bis| |Paul Hoffman (paul.hoffman@icann.org)|End of DBOUND meeting, start of RFC 6761 discussion|                      |                       |         
 |  11:00   |6761bis| |Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30   |                  |          |             |                         |                      |                       |      
+|  12:00   |                  |          |             |                         |                      |                       |     
+|  12:30   |                  |          |             |                         |                      |                       |    
+|  13:00   |                  |          |             |                         |                      |                       |    
+|  13:30   |                  |          |             |                         |                      |                       |      
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   | IPMON BoF     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
@@ -248,11 +248,11 @@ Location: Mezzanine Level
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30   |                  |          |             |                         |                      |                       |   
+|  12:00   |                  |          |             |                         |                      |                       | 
+|  12:30   |                  |          |             |                         |                      |                       | 
+|  13:00   |                  |          |             |                         |                      |                       | 
+|  13:30   |                  |          |             |                         |                      |                       |   
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |         
@@ -312,18 +312,18 @@ Location: Mezzanine Level
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |                  |          |             |                         |                      |                       |   
+|  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |  
 |  08:30   |                  |          |             |                         |                      |                       | 
 |  09:00   |                  |          |             |                         |                      |                       |  
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30   |                  |          |             |                         |                      |                       | 
+|  12:00   |                  |          |             |                         |                      |                       | 
+|  12:30   |                  |          |             |                         |                      |                       |
+|  13:00   |                  |          |             |                         |                      |                       |
+|  13:30   |                  |          |             |                         |                      |                       | 
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
@@ -349,9 +349,9 @@ Location: West Wing, First Floor
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
-|  08:30   |   NOT AVAILABLE  |  NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE           |  NOT AVAILABLE    |  NOT AVAILABLE     | 
-|  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
-|  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
+|  08:30   |                  |          |             |                         |                      |                       |
+|  09:00   ||                  |          |             |                         |                      |                       |
+|  09:30   |                  |          |             |                         |                      |                       |
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
