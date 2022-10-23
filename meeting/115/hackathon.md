@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-22T12:13:57.526Z
+date: 2022-10-23T12:05:06.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -544,7 +544,16 @@ __Roughtime*__
 - Code:
   - https://github.com/dansarie/roughtimed
   - https://github.com/dansarie/pyroughtime
-  
+
+**BMWG – Containerized Infrastructure Benchmarking**
+- Champion(s)
+  - Younghan Kim (younghak at ssu.ac.kr)
+  - Minh-Ngoc Tran (mipearlska1307 at dcn.ssu.ac.kr)
+  - Hokeun Lim (limhk at dcn.ssu.ac.kr)
+- Project info
+  - Benchmarking performance of eBPF/XDP acceleration technique
+- Specifications
+  - https://datatracker.ietf.org/doc/html/draft-dcn-bmwg-containerized-infra
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
