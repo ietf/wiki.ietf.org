@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-23T12:05:06.412Z
+date: 2022-10-24T10:13:31.523Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -554,6 +554,21 @@ __Roughtime*__
   - Benchmarking performance of eBPF/XDP acceleration technique
 - Specifications
   - https://datatracker.ietf.org/doc/html/draft-dcn-bmwg-containerized-infra
+
+**Explicit Flow Measurements**
+
+- Champion(s):
+    - Massimo Nilo (massimo.nilo at telecomitalia.it)
+    - Fabio Bulgarella (fabio.bulgarella at guest.telecomitalia.it)
+- Project info:
+    - Per-flow measurement techniques focused on their application on users’ devices.
+    - New technique implementation on QUIC protocol.
+    - Tests and measurements carried out on an android mobile environment.
+    - SpinBit technique implementation within an open-source browser and testing over Internet.
+- Draft(s):
+    - https://datatracker.ietf.org/doc/html/draft-ietf-ippm-explicit-flow-measurements-02
+    - https://datatracker.ietf.org/doc/html/draft-cnbf-ippm-user-devices-explicit-monitoring-04
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
