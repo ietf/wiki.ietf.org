@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-24T10:13:31.523Z
+date: 2022-10-24T14:57:02.061Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -222,6 +222,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Champion(s)
   - Marco Tiloca <marco.tiloca at ri.se>
   - Rikard Höglund <rikard.hoglund at ri.se>
+  - Mališa Vučinić <malisa.vucinic at inria.fr>
 - Project info
   - Establish keying material for OSCORE using the EDHOC protocol
 - Specifications:
