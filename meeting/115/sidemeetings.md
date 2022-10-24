@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-24T23:32:12.069Z
+date: 2022-10-24T23:33:06.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -334,8 +334,8 @@ Location: Mezzanine Level
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   |  eBPF at IETF    | INT/     | Dave Thaler            |                         |                      |                       |    
-|  18:30   |  eBPF at IETF    | INT      | Dave Thaler           |                         |                      |                       |    
+|  18:00   |  eBPF Bar BoF    | INT      | Dave Thaler |                         |                      |                       |    
+|  18:30   |  eBPF Bar BoF    | INT      | Dave Thaler |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
