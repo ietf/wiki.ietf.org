@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-24T13:04:19.197Z
+date: 2022-10-24T13:40:45.913Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -324,10 +324,10 @@ Location: Mezzanine Level
 |  11:30   |                  |          |             |                         |                      |                       | 
 |  12:00   |                  |          |             |                         |                      |                       | 
 |  12:30   |                  |          |             |                         |                      |                       |
-|  13:00   |                  |          |             |                         |                      |                       |
-|  13:30   |                  |          |             |                         |                      |                       | 
-|  14:00   |                  |          |             |                         |                      |                       |          
-|  14:30   |                  |          |             |                         |                      |                       |          
+|  13:00   |   LPWAN WG   |   INT    |  Alexander Pelov / Pascal Thubert   |   Focus discussion of LPWAN Architecture           |                      |                       |
+|  13:30   |   LPWAN WG   |   INT    |  Alexander Pelov / Pascal Thubert   |   Focus discussion of LPWAN Architecture           |                      |                       |
+|  14:00   |   LPWAN WG   |   INT    |  Alexander Pelov / Pascal Thubert   |   Focus discussion of LPWAN Architecture           |                      |                       |             |         
+|  14:30   |   LPWAN WG   |   INT    |  Alexander Pelov / Pascal Thubert   |   Focus discussion of LPWAN Architecture           |                      |                       |
 |  15:00   |                  |          |             |                         |                      |                       |          
 |  15:30   |  Proposed RASP RG       | IRTF       | Niels ten Oever            |    Proposed research group coordination meeting for research and analysis of standards-process data            |  https://uva-live.zoom.us/s/6365963924             |                       |          
 |  16:00   |  Proposed RASP RG       | IRTF       | Niels ten Oever            |    Proposed research group coordination meeting for research and analysis of standards-process data            |  https://uva-live.zoom.us/s/6365963924             |                       |          
