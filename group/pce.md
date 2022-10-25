@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-10-13T17:03:56.751Z
+date: 2022-10-25T14:07:04.728Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -99,8 +99,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-vn-association | IESG Evaluation; telechat: 2022-10-20 | Sent to IESG on 2022-05-23 | Hari | 
-| draft-ietf-pce-lsp-extended-flags | IESG Evaluation; telechat: 2022-10-20 | Sent to IESG on 2022-06-08 | Dhruv | 
 | draft-ietf-pce-pcep-stateful-pce-gmpls | Awaiting AD review | Sent to IESG on 2022-06-30 | Dhruv |
 | draft-ietf-pce-local-protection-enforcement | Awaiting AD review | Sent to IESG on 2022-08-09 | Julien |
 
@@ -112,6 +110,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | draft-ietf-pce-binding-label-sid | MISSREF*A*R(1G) | Pending on draft-ietf-pce-segment-routing-ipv6 [Cluster454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
+| draft-ietf-pce-vn-association | EDIT | - | Hari | 
+| draft-ietf-pce-lsp-extended-flags | EDIT | - | Dhruv | 
 
 ## Recent RFCs
 
