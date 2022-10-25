@@ -2,17 +2,21 @@
 title: The ALTO Working Group
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2022-10-19T07:25:23.465Z
+date: 2022-10-25T14:18:52.324Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:40:31.135Z
 ---
 
-# The ALTO Implementation and Deployment Survey 
+# ALTO Datatracker
+
+https://datatracker.ietf.org/wg/alto/about/
+
+# ALTO Implementation and Deployment Survey 
 
 [Known Implementation/Deployments of the ALTO protocol](/en/group/ALTO/deployment)
 
-# The Application Layer Traffic Optimization (ALTO) Wiki
+# ALTO Project Management Board
 
 The WG is using [the Github dashborad](https://github.com/orgs/ietf-wg-alto/projects/1/views/2) to organize the agenda of weekly meetings.
 
@@ -30,20 +34,20 @@ The WG is using [the Github dashborad](https://github.com/orgs/ietf-wg-alto/proj
 [wiki:v0.0-recharter Draft re-charter (version 0.0, Feb 19 2014)]
 -->
 
-# Weekly Meeting
+# Weekly Meeting Coordinates
 
-Welcome to join us. Subscribe [alto@ietf.org](https://www.ietf.org/mailman/listinfo/alto) or [alto-weekly-meeting@googlegroups.com](https://groups.google.com/forum/#!forum/alto-weekly-meeting) to receive meeting reminder notifications.
+You are welcome to join us. Please subscribe via [alto@ietf.org](https://www.ietf.org/mailman/listinfo/alto) or [alto-weekly-meeting@googlegroups.com](https://groups.google.com/forum/#!forum/alto-weekly-meeting) to receive meeting reminder notifications.
 
  * Time: 9:00 - 10:00 am ET every Tuesday
  * Bridge: https://ietf.webex.com/ietf/j.php?MTID=ma0e97cc97c4cd71bb59cf1a094682686
  * Meeting Records: WG github (https://github.com/ietf-wg-alto/wg-materials/blob/main/meetings-ietf-alto/ietf-alto-2022.md)
  
 
-# Coming Meetings
+# Coming IETF Meetings
 
 * [IETF 115](https://www.ietf.org/how/meetings/115/) (November 5-11, 2022; London, UK)
  
-# Recent Meetings
+# Recent IETF Meetings
 * [ALTO session in IETF 114](https://www.youtube.com/watch?v=2Kcm24Tm4Yg)
 * [ALTO session in IETF 113](https://www.youtube.com/watch?v=38dJ4cxY7IU)
 * [ALTO session in IETF 112](https://www.youtube.com/watch?v=w0mD38c9FV0)
