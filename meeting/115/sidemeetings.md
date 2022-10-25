@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-24T23:42:49.981Z
+date: 2022-10-25T15:25:43.216Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -121,9 +121,9 @@ Location: Mezzanine Level
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |   EToSat         |   TSV       |  etosat@ietf           |   Meeting to start at 17:45                      |                      |                       |    
-|  18:00   |   EToSat         |   TSV       |  etosat@ietf           |   Description to be supplied shortly                      |                      |                       |    
-|  18:30   |   EToSat         |   TSV       |  etosat@ietf           |                         |                      |                       |    
+|  17:30   |   EToSat         |   TSV       |  John Border (John.Border@Hughes.com)           |   Meeting to start at 17:45                      |                      |                       |    
+|  18:00   |   EToSat         |   TSV       |            |   Description to be supplied shortly                      |                      |                       |    
+|  18:30   |   EToSat         |   TSV       |            |   etosat@ietf.org                      |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
