@@ -2,7 +2,7 @@
 title: IETF 115 Departure Coordination
 description: To coordinate travel from the venue back to London airports
 published: true
-date: 2022-10-20T20:32:02.822Z
+date: 2022-10-25T15:50:10.836Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:28:51.871Z
@@ -45,7 +45,7 @@ dateCreated: 2022-07-23T19:28:51.871Z
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| 17:40  | EZY8359  | Pascal Thubert   | pthubert@cisco.com  |  LGW  |   | Hilton Metropole  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
