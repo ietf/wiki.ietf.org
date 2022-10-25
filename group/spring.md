@@ -2,7 +2,7 @@
 title: SPRING Working Group
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2022-10-13T02:38:08.185Z
+date: 2022-10-25T05:09:46.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -23,18 +23,19 @@ https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
 
 
 ## Documents requested by authors for WG Last Call
-* draft-ietf-spring-nsh-sr 
+* draft-ietf-spring-nsh-sr-11 
    * 2020-10-20 Authors asked for WGLC
    * 2020-11-02 Shepherd comments sent on the list. Waiting for reply/update from authors.
    * 2020-12-11 Reply & update from authors
-* draft-ietf-spring-mpls-path-segment-02 
+   * Submitted to IESG for Publication
+* draft-ietf-spring-mpls-path-segment-08 
    * 2020-11-4 Authors asked for WGLC
-* draft-ietf-spring-segment-routing-policy
-   * 2021-03-08 Authors asked for WGLC
-* draft-ietf-spring-bfd-01
+   * Last call review
+* draft-ietf-spring-bfd-05
    * 2021-03-29 Authors asked for WGLC
-* draft-ietf-spring-sr-replication-segment-08
+* draft-ietf-spring-sr-replication-segment-10
    * 2022-07-14 Authors asked for WGLC
+   * In WG Last Call
 
 ## Documents requested by authors for WG adoption
 
