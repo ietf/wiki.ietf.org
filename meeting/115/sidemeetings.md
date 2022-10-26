@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-26T09:49:57.264Z
+date: 2022-10-26T15:41:41.078Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -215,9 +215,9 @@ Location: West Wing, First Floor
 |  10:00   |DBOUND side meeting| |Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                      |                       | 
 |  10:30   |DBOUND into 6761bis| |Paul Hoffman (paul.hoffman@icann.org)|End of DBOUND meeting, start of RFC 6761 discussion|                      |                       |         
 |  11:00   |6761bis| |Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       |          
-|  11:30   |                  |          |             |                         |                      |                       |      
-|  12:00   |                  |          |             |                         |                      |                       |     
-|  12:30   |                  |          |             |                         |                      |                       |    
+|  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | Meeting to start at 11:45 |                      |                       |      
+|  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues |                      |                       |     
+|  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
 |  13:00   |                  |          |             |                         |                      |                       |    
 |  13:30   |                  |          |             |                         |                      |                       |      
 |  14:00   |                  |          |             |                         |                      |                       |          
