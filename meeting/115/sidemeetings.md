@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-26T15:43:59.474Z
+date: 2022-10-26T18:34:31.992Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -145,9 +145,9 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |                  |          |             |                         |                      |                       |    
-|  12:00   |                  |          |             |                         |                      |                       |  
-|  12:30   |                  |          |             |                         |                      |                       | 
+|  11:30   | SECDIR Lunch   |  SEC          |  SEC ADs             |                         |                      |                       |    
+|  12:00   | SECDIR Lunch   |  SEC         |  SEC ADs           |                         |                      |                       |  
+|  12:30   | SECDIR Lunch  |  SEC         |  SEC ADs           |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |    
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
