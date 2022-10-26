@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-26T09:18:04.340Z
+date: 2022-10-26T10:45:43.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -484,6 +484,7 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
     - Implement crypto PSA API for RIOT
         - integration of multiple libraries
         - integration of hardware acceleration and secure elements
+        - integration of [PSA Arch Tests](https://github.com/ARM-software/psa-arch-tests) as a package
     - Integration of libOSCORE
     - IPv6 support over IEEE 802.15.4e DSME.
         - integration of openDSME into RIOT
@@ -500,6 +501,7 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
       - Wrappers to pkg/micro-ecc: https://github.com/RIOT-OS/RIOT/pull/18581
       - Wrappers to pkg/cryptoauthlib: https://github.com/RIOT-OS/RIOT/pull/18582
       - CryptoCell 310 driver package: https://github.com/RIOT-OS/RIOT/pull/18583
+      - PSA Architecture Testsuite Integration: https://github.com/Einhornhool/RIOT/tree/dev/psa-crypto-implementation-dec-2021/pkg/psa_arch_tests
     - **IEEE 802.15.4e DSME integration**
       - initial openDSME support: https://github.com/RIOT-OS/RIOT/pull/18156
 
