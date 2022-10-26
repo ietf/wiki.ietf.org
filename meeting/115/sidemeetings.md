@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-26T15:41:41.078Z
+date: 2022-10-26T15:43:59.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -121,9 +121,9 @@ Location: Mezzanine Level
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |   EToSat         |   TSV       |  John Border (John.Border@Hughes.com)           |   Meeting to start at 17:45                      |                      |                       |    
-|  18:00   |   EToSat         |   TSV       |            |   Description to be supplied shortly                      |                      |                       |    
-|  18:30   |   EToSat         |   TSV       |            |   etosat@ietf.org                      |                      |                       |    
+|  17:30   |            |          |             |                         |                      |                       |    
+|  18:00   |            |          |            |                         |                      |                       |    
+|  18:30   |            |          |            |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
@@ -215,7 +215,7 @@ Location: West Wing, First Floor
 |  10:00   |DBOUND side meeting| |Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                      |                       | 
 |  10:30   |DBOUND into 6761bis| |Paul Hoffman (paul.hoffman@icann.org)|End of DBOUND meeting, start of RFC 6761 discussion|                      |                       |         
 |  11:00   |6761bis| |Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       |          
-|  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | Meeting to start at 11:45 |                      |                       |      
+|  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | 11:45 to 12:45 |                      |                       |      
 |  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues |                      |                       |     
 |  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
 |  13:00   |                  |          |             |                         |                      |                       |    
