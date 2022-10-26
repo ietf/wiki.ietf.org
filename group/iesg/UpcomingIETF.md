@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-25T17:36:07.537Z
+date: 2022-10-26T22:27:30.690Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -143,6 +143,7 @@ Location: Hybrid 1, Ground Floor, West Wing
 
 ## Tuesday, 8 November 2022
 08:15 - 09:15 SEC AD Office Hours
+16:00 - 16:30 OPS AD Office Hours
 
 
 ## Wednesday, 9 November 2022
