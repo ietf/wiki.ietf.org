@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-26T09:01:10.177Z
+date: 2022-10-26T09:18:04.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -585,6 +585,17 @@ __Roughtime*__
  	- TBA
  - Source Code:
  	- To be published
+
+**Using DANCE in IoT with LoRaWan**
+- Champion(s)
+  - Gaël Berthaud-Müller (gael.berthaud-muller at afnic.fr)
+  - Sandoche Balakrichenan (sandoche.balakrichenan at afnic.fr)
+- Project info
+  - The goal is to perform mutual authentication between Device and Join Server using ECC and DANCE/DANE.
+- Drafts
+  - https://datatracker.ietf.org/doc/html/draft-ietf-dance-architecture-00
+  - https://datatracker.ietf.org/doc/html/draft-ietf-dance-tls-clientid-00
+  - https://datatracker.ietf.org/doc/html/draft-ietf-dance-client-auth-00
 
 ----
 
