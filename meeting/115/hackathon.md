@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-26T10:45:43.273Z
+date: 2022-10-26T12:58:53.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -598,6 +598,15 @@ __Roughtime*__
   - https://datatracker.ietf.org/doc/html/draft-ietf-dance-architecture-00
   - https://datatracker.ietf.org/doc/html/draft-ietf-dance-tls-clientid-00
   - https://datatracker.ietf.org/doc/html/draft-ietf-dance-client-auth-00
+
+**Computerate Specifying: The Five Levels of I-D Writing**
+- Champion
+  - Marc Petit-Huguenin (marc at petit-huguenin.org)
+- Project info
+  - The goal is to finish and publish version -18 of the draft and its associated tooling, which is a complete rewrite.
+- Drafts
+  - https://datatracker.ietf.org/doc/draft-petithuguenin-xml2rfc-asciidoc/
+  - https://datatracker.ietf.org/doc/draft-petithuguenin-computerate-specifying/
 
 ----
 
