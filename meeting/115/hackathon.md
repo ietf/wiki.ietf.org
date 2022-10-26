@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-25T17:25:17.465Z
+date: 2022-10-26T09:01:10.177Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -570,6 +570,21 @@ __Roughtime*__
 - Draft(s):
     - https://datatracker.ietf.org/doc/html/draft-ietf-ippm-explicit-flow-measurements-02
     - https://datatracker.ietf.org/doc/html/draft-cnbf-ippm-user-devices-explicit-monitoring-04
+
+**nesQUIC: Network Extended Statistics with QUIC**
+
+- Champion(s)
+  - François Michel (francois.michel@uclouvain.be)
+  - Maxime Piraux (maxime.piraux@uclouvain.be)
+- Project info:
+  - Leverage the QUIC protocol to perform speedtest-like network tests.
+  - Extract metrics such as packet loss rate, packet loss bursts, RTTs, throughput.
+  - Investigate how such as tool can be built atop HTTP/3 to leverage browsers.
+  - Integrate the tool with MLab.
+ - Draft:
+ 	- TBA
+ - Source Code:
+ 	- To be published
 
 ----
 
