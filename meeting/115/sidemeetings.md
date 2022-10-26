@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-26T06:35:22.213Z
+date: 2022-10-26T09:49:57.264Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -153,9 +153,9 @@ Location: West Wing, First Floor
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  14:30   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  15:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
-|  15:30   |                  |          |             |                         |                      |                       |
-|  16:00   |                  |          |             |                         |                      |                       |    
-|  16:30   |                  |          |             |                         |                      |                       |    
+|  15:30   |  Is Privacy preserving Web Filtering Possible?  |  N/A | dan@iwf.org.uk | Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |
+|  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |    
+|  16:30   |                  |          |          |                         |                      |                       |    
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
 |  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
