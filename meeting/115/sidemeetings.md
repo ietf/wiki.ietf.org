@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-27T10:28:51.924Z
+date: 2022-10-27T17:26:40.501Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -212,13 +212,13 @@ Location: West Wing, First Floor
 |  08:00  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
-|  10:00   |DBOUND side meeting| |Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                      |                       | 
-|  10:30   |DBOUND into 6761bis| |Paul Hoffman (paul.hoffman@icann.org)|End of DBOUND meeting, start of RFC 6761 discussion|                      |                       |         
-|  11:00   |6761bis| |Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       |          
+|  10:00   |6761bis||Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       | 
+|  10:30   || |||                      |                       |         
+|  11:00   || |||                      |                       |          
 |  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | 11:45 to 12:45 |                      |                       |      
 |  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues |                      |                       |     
 |  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
-|  13:00   |                  |          |             |                         |                      |                       |    
+|  13:00   |DBOUND side meeting||Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                                               |                       |    
 |  13:30   |                  |          |             |                         |                      |                       |      
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
