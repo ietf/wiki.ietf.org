@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-28T15:30:21.623Z
+date: 2022-10-28T15:45:52.296Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -155,12 +155,12 @@ Location: West Wing, First Floor
 |  15:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  15:30   |  Is Privacy preserving Web Filtering Possible?  |  N/A | dan@iwf.org.uk | Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |
 |  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |    
-|  16:30   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
-|  17:00   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
+|  16:30   |                  |          |             |                         |                      |                       |    
+|  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
 |  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
-|  18:30   |                  |          |             |                         |                      |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
+|  18:30   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
+|  19:00   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
