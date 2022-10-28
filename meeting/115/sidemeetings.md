@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-28T15:23:25.078Z
+date: 2022-10-28T15:26:33.631Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -108,9 +108,9 @@ Location: Mezzanine Level
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
-|  11:00   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft     |          TBD            |                       |          
+|  11:00   |                  |          |             |                         |                      |                       |         
 |  11:30   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          TBD            |                       |  
-|  12:00   |                  |          |             |                         |                      |                       |  
+|  12:00   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          TBD            |                       |  
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |   
