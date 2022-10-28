@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-10-25T15:46:54.676Z
+date: 2022-10-28T15:22:16.990Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z
@@ -29,8 +29,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DESTINATION |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| 
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -42,7 +41,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DESTINATION |
 |---|---|---|---|---|---|---|
-| 12:00 | UA923 | Lixia Zhang | lixia@cs.ucla.edu | LHR |  | Hilton Metropole  || 
+08:15|AA80 |Linda Dunbar| dunbar.ll@gmail.com| LHR  |Hilton Metropole|| 12:00 | UA923 | Lixia Zhang | lixia@cs.ucla.edu | LHR |  | Hilton Metropole  || 
 | 14:35  | US 930  | Mahesh Jethanandani  | mjethanandani@gmail.com  | LHR  |   | Hilton Metropole  ||   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 | 17:20  |  EZY8356  | Pascal Thubert  | pthubert@cisco.com  | LGW  |  | MERCURE LONDON PADDINGTON  |   
