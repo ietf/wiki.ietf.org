@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-26T12:58:53.750Z
+date: 2022-10-28T10:36:36.266Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -516,17 +516,17 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
 - Champion(s)
   - Hannes Tschofenig (Hannes.Tschofenig at arm.com)
   - Ionut Mihalcea (Ionut.Mihalcea at arm.com)
-  - Paul Howard (Paul.Howard at arm.com)
   - Yogesh.Deshpande (Yogesh.Deshpande at arm.com)
-  - Sergei Trofimov (Sergei.Trofimov at arm.com)
   - Thomas Fossati (Thomas.Fossati at arm.com)
   
 - Project info
-  - tbd
+  - TLS extensions to support attestation as first-class authentication credentials
 
 - Specifications:
-  - tbd
-  
+  - https://datatracker.ietf.org/doc/draft-fossati-tls-attestation
+  - https://datatracker.ietf.org/doc/html/draft-bft-rats-kat
+  - https://datatracker.ietf.org/doc/html/draft-ftbs-rats-msg-wrap
+
 - Code
   - https://github.com/veraison
   - https://github.com/parallaxsecond
