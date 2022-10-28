@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-28T15:26:33.631Z
+date: 2022-10-28T15:28:48.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -122,7 +122,7 @@ Location: Mezzanine Level
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |            |          |             |                         |                      |                       |    
-|  18:00   |            |          |            |                         |                      |                       |    
+|  18:00   |  BGP Yang AS Path    | Susan Hares (shares@ndzh.com)      | BGP Yang AS Path RegEx           |                         |                      |                       |    
 |  18:30   |            |          |            |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
