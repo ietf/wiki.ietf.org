@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-28T11:31:21.577Z
+date: 2022-10-28T11:32:38.487Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,9 +63,9 @@ Meetecho: TBD
 >    - OPS
 >    - GEN 
 > 1. IAB review of draft WG charters (Mirja)
-> 1. Fund raising events at IETF meetings (Jay)
 > 1. Future local meetings collocated with IETFs and retreats (Lars)
 >    Do we want to have meetings with local gov/public-sector/etc. people when we travel somewhere, and if so, how?
+> 1. Fund raising events at IETF meetings (Jay)
 
 ### Sunday Night Social
 
