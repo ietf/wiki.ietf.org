@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-26T22:27:30.690Z
+date: 2022-10-28T11:31:21.577Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -50,6 +50,8 @@ Meetecho: TBD
 Meetecho: TBD
 
 > 1. Welcome
+>    1. Introducing the new RSCE - Alexis Rossi (Jay)
+>    1. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
 > 1. Area walkthrough for hot topics (list randomized for 115)
 >    - IAB
 >    - IRTF
@@ -60,12 +62,10 @@ Meetecho: TBD
 >    - INT
 >    - OPS
 >    - GEN 
+> 1. IAB review of draft WG charters (Mirja)
 > 1. Fund raising events at IETF meetings (Jay)
 > 1. Future local meetings collocated with IETFs and retreats (Lars)
 >    Do we want to have meetings with local gov/public-sector/etc. people when we travel somewhere, and if so, how?
-> 1. Introducing the new RSCE - Alexis Rossi (Jay)
-> 1. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
-> 1. IAB review of draft WG charters (Mirja)
 
 ### Sunday Night Social
 
