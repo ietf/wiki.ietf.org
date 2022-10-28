@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-25T17:36:07.537Z
+date: 2022-10-28T11:32:38.487Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -50,6 +50,8 @@ Meetecho: TBD
 Meetecho: TBD
 
 > 1. Welcome
+>    1. Introducing the new RSCE - Alexis Rossi (Jay)
+>    1. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
 > 1. Area walkthrough for hot topics (list randomized for 115)
 >    - IAB
 >    - IRTF
@@ -60,12 +62,10 @@ Meetecho: TBD
 >    - INT
 >    - OPS
 >    - GEN 
-> 1. Fund raising events at IETF meetings (Jay)
+> 1. IAB review of draft WG charters (Mirja)
 > 1. Future local meetings collocated with IETFs and retreats (Lars)
 >    Do we want to have meetings with local gov/public-sector/etc. people when we travel somewhere, and if so, how?
-> 1. Introducing the new RSCE - Alexis Rossi (Jay)
-> 1. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
-> 1. IAB review of draft WG charters (Mirja)
+> 1. Fund raising events at IETF meetings (Jay)
 
 ### Sunday Night Social
 
@@ -143,6 +143,7 @@ Location: Hybrid 1, Ground Floor, West Wing
 
 ## Tuesday, 8 November 2022
 08:15 - 09:15 SEC AD Office Hours
+16:00 - 16:30 OPS AD Office Hours
 
 
 ## Wednesday, 9 November 2022

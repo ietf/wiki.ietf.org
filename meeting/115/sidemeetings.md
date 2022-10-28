@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-26T09:49:57.264Z
+date: 2022-10-27T17:26:40.501Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -102,9 +102,9 @@ Location: Mezzanine Level
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
-|  08:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
-|  09:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| TBD | TBD |
+|  08:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| https://welink.zhumu.com/j/131832648 | TBD |
+|  08:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| https://welink.zhumu.com/j/131832648 | TBD |
+|  09:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| https://welink.zhumu.com/j/131832648 | TBD |
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
@@ -121,9 +121,9 @@ Location: Mezzanine Level
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       |  
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |   EToSat         |   TSV       |  John Border (John.Border@Hughes.com)           |   Meeting to start at 17:45                      |                      |                       |    
-|  18:00   |   EToSat         |   TSV       |            |   Description to be supplied shortly                      |                      |                       |    
-|  18:30   |   EToSat         |   TSV       |            |   etosat@ietf.org                      |                      |                       |    
+|  17:30   |            |          |             |                         |                      |                       |    
+|  18:00   |            |          |            |                         |                      |                       |    
+|  18:30   |            |          |            |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
@@ -145,9 +145,9 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |                  |          |             |                         |                      |                       |    
-|  12:00   |                  |          |             |                         |                      |                       |  
-|  12:30   |                  |          |             |                         |                      |                       | 
+|  11:30   | SECDIR Lunch   |  SEC          |  SEC ADs             |                         |                      |                       |    
+|  12:00   | SECDIR Lunch   |  SEC         |  SEC ADs           |                         |                      |                       |  
+|  12:30   | SECDIR Lunch  |  SEC         |  SEC ADs           |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |    
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
@@ -176,7 +176,7 @@ Location: Mezzanine Level
 |  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:30   |  Enterprise Inventory Management| OPS   |bill.wu@huawei.com |Discuss inventory management gap in RFC8345 |      TODO            |      TODO             | 
 |  09:00   | Enterprise Inventory Management|  OPS         |bill.wu@huawei.com|                         |                      |                       |  
-|  09:30   | Enterprise Inventory Management   | OPS      |bill.wu@huawei.com |                         |                      |                       | 
+|          |                  |                  |                 |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
@@ -212,13 +212,13 @@ Location: West Wing, First Floor
 |  08:00  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
-|  10:00   |DBOUND side meeting| |Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                      |                       | 
-|  10:30   |DBOUND into 6761bis| |Paul Hoffman (paul.hoffman@icann.org)|End of DBOUND meeting, start of RFC 6761 discussion|                      |                       |         
-|  11:00   |6761bis| |Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       |          
-|  11:30   |                  |          |             |                         |                      |                       |      
-|  12:00   |                  |          |             |                         |                      |                       |     
-|  12:30   |                  |          |             |                         |                      |                       |    
-|  13:00   |                  |          |             |                         |                      |                       |    
+|  10:00   |6761bis||Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|                      |                       | 
+|  10:30   || |||                      |                       |         
+|  11:00   || |||                      |                       |          
+|  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | 11:45 to 12:45 |                      |                       |      
+|  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues |                      |                       |     
+|  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
+|  13:00   |DBOUND side meeting||Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|                                               |                       |    
 |  13:30   |                  |          |             |                         |                      |                       |      
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
