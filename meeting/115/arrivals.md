@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-10-28T18:49:30.843Z
+date: 2022-10-28T19:10:45.060Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z
@@ -48,7 +48,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 | 14:35  | US 930  | Mahesh Jethanandani  | mjethanandani@gmail.com  | LHR  |   | Hilton Metropole  ||   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 | 17:20  |  EZY8356  | Pascal Thubert  | pthubert@cisco.com  | LGW  |  | MERCURE LONDON PADDINGTON  |   
-|   |   |   |   |   |   |   |
+|  11:40 |  BA0977 | Jayasree Sengupta  |  jayasree.sengupta@cispa.de | LHR  |   |  Hilton Metropole |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
