@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-28T18:34:50.419Z
+date: 2022-10-28T21:10:50.542Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -614,7 +614,8 @@ __Roughtime*__
   - Natarajan Venkataraman. (natv@juniper.net)
   - Reshma Das. (dreshma@juniper.net)
   - Csaba Mates. (cs@mp.ls)
-
+  [All champions are participating remotely]
+   
 - Project info
   - Anyone with a BGP-CT implementation, come and let’s test our interoperability.
   
