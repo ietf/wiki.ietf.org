@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-29T18:34:58.420Z
+date: 2022-10-29T18:40:30.138Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -212,13 +212,13 @@ Location: West Wing, First Floor
 |  08:00  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
-|  10:00   |6761bis||Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|     https://us02web.zoom.us/j/83413016917?pwd=UkVUc0ZtTzdjKzVKOUNzeUYvcVE3dz09 Meeting ID: 834 1301 6917, Passcode: test-onion                 |                       | 
+|  10:00   |6761bis||Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|     [Zoom link](https://us02web.zoom.us/j/83413016917?pwd=UkVUc0ZtTzdjKzVKOUNzeUYvcVE3dz09) Meeting ID: 834 1301 6917, Passcode: test-onion                 |                       | 
 |  10:30   || |||                      |                       |         
 |  11:00   || |||                      |                       |          
 |  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | 11:45 to 12:45 |                      |                       |      
 |  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues |                      |                       |     
 |  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
-|  13:00   |DBOUND side meeting||Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|   https://us02web.zoom.us/j/81992705145?pwd=UkRvRit0alZmNmlVMTU3OExCeS9WQT09 Meeting ID: 819 9270 5145, Passcode: notzonecut                                  |                       |    
+|  13:00   |DBOUND side meeting||Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|   [Zoom link](https://us02web.zoom.us/j/81992705145?pwd=UkRvRit0alZmNmlVMTU3OExCeS9WQT09) Meeting ID: 819 9270 5145, Passcode: notzonecut                                  |                       |    
 |  13:30   |                  |          |             |                         |                      |                       |      
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
