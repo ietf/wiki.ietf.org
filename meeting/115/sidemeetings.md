@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-28T16:09:31.869Z
+date: 2022-10-29T17:39:35.393Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -76,7 +76,7 @@ Location: West Wing, First Floor
 |  16:30   |                  |          |             |                         |                      |                       | 
 |  17:00   |                  |          |             |                         |                      |                       | 
 |  17:30   |          NGI0 EU funding info        |          |    Stephen Farrell (stephen.farrell@cd.tcd.ie)         |       N/A                  |   N/A                   |                       | 
-|  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  TODO  | TBD    |                       |    
+|  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  [Agenda](https://github.com/rdanyliw/ietf-pqc-transition/blob/main/ietf115-pqc-next-steps-side-meeting.md)  | TBD    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
 |  19:00   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
 |  19:30   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
