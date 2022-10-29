@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-10-29T08:11:11.732Z
+date: 2022-10-29T15:43:15.618Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z
@@ -57,6 +57,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DESTINATION |
 |---|---|---|---|---|---|---|
+| 06:30  | AC 854 | John Levine | ietf@johnlevine.com | LHR | 2 | Metropole |
 | 14:05  | EW 7462  | Toerless Eckert  | toerless.eckert@gmail.com  | LHR  | 2  | Hilton Metropole  |
 | 10:25  | UA 924  |  Joel Halpern |  jmh@joelhalpern.com |  LHR | 2  | Hilton Metropole  |
 | 9:35  | UA 24  |  Huaimo Chen |  huaimochen@yahoo.com |  LHR | 2  | Hilton Metropole  |
