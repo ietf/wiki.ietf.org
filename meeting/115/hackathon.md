@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-30T14:14:37.428Z
+date: 2022-10-30T14:15:40.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -342,11 +342,11 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
   
  **Trusted Execution Environment Provisioning (TEEP)**
 - Champion(s)
-  - Dave Thaler (dthaler@microsoft.com)
-  - Akira Tsukamoto (akira.tsukamoto@gmail.com)
-  - Kohei Isobe (isobekohei@gmail.com)
-  - Ken Takayama (ken.takayama.ietf@gmail.com)
-  - Shin'ichi Miyazawa (s.miyazawa@gmail.com)
+  - Dave Thaler (dthaler at microsoft.com)
+  - Akira Tsukamoto (akira.tsukamoto at gmail.com)
+  - Kohei Isobe (isobekohei at gmail.com)
+  - Ken Takayama (ken.takayama.ietf at gmail.com)
+  - Shin'ichi Miyazawa (s.miyazawa at gmail.com)
 - Project info
   - Discuss issues about teep drafs.
   https://github.com/ietf-teep
