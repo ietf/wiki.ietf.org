@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-29T23:53:48.341Z
+date: 2022-10-30T20:57:30.668Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -78,8 +78,8 @@ Location: West Wing, First Floor
 |  17:30   |          NGI0 EU funding info        |          |    Stephen Farrell (stephen.farrell@cd.tcd.ie)         |       N/A                  |   N/A                   |                       | 
 |  18:00   |  Additional PQC Next Steps  |  SEC  | Roman Danyliw, rdd - at - cert.org  |  [Agenda](https://github.com/rdanyliw/ietf-pqc-transition/blob/main/ietf115-pqc-next-steps-side-meeting.md)  | [Zoom](https://cmu.zoom.us/j/91727694063?pwd=dUwyekRKVTVBL0E0eDFmTmFtdHlpdz09)    |                       |    
 |  18:30   |  Additional PQC Next Steps |   SEC       |             |                         |                      |                       |    
-|  19:00   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
-|  19:30   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | To Do | TBD |    
+|  19:00   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom](https://us02web.zoom.us/j/84216816172?pwd=R0Y5NHEwenNYTjZmUWJnL29lSE5LUT09&from=addon) | TBD |    
+|  19:30   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom](https://us02web.zoom.us/j/84216816172?pwd=R0Y5NHEwenNYTjZmUWJnL29lSE5LUT09&from=addon) | TBD |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 ## Room: GMT 1 - Monday
