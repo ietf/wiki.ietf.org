@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-31T09:09:40.576Z
+date: 2022-10-31T09:19:10.552Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -228,10 +228,10 @@ Location: West Wing, First Floor
 |  16:30   |                  |          |             |                         |                      |                       |    
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
-|  18:00   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |[Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |    
-|  18:30   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |  [Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |   
-|  19:00   | SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop |  [Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |   
-|  19:30   |  SIGCOMM FIRA | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop | [Google Meet Link](https://meet.google.com/urn-ivxs-qnp) |                       |    
+|  18:00   | Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN |[Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |    
+|  18:30   |  Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN |  [Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |   
+|  19:00   |  Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN |  [Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |   
+|  19:30   |   Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN | [Google Meet Link](https://meet.google.com/urn-ivxs-qnp) |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 
