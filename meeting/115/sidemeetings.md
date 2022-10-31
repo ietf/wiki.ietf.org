@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-31T19:26:35.357Z
+date: 2022-10-31T19:28:54.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -216,7 +216,9 @@ Location: West Wing, First Floor
 |  10:30   || |||                      |                       |         
 |  11:00   || |||                      |                       |          
 |  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | 11:45 to 12:45 | [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjEzNzVlYWQtZmU4MC00MGNkLWJlYzQtMjJlMjVlNGRmZDdj%40thread.v2/0?context=%7b%22Tid%22%3a%220e1f3187-4610-4ce2-bad1-b92f4ba36ab3%22%2c%22Oid%22%3a%222ba280b6-ebe0-45c4-ae7e-af3563b57eb1%22%7d)                     |                       |      
-|  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues |                      |                       |     
+|  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues | Meeting ID: 288 481 427 863 
+Passcode: QnGcjv 
+                     |                       |     
 |  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
 |  13:00   |DBOUND side meeting||Paul Hoffman (paul.hoffman@icann.org)|DBOUND use cases and way forward|   [Zoom link](https://us02web.zoom.us/j/81992705145?pwd=UkRvRit0alZmNmlVMTU3OExCeS9WQT09) Meeting ID: 819 9270 5145, Passcode: notzonecut                                  |                       |    
 |  13:30   |                  |          |             |                         |                      |                       |      
