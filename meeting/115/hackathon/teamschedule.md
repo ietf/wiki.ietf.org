@@ -2,7 +2,7 @@
 title: Hackathon Team Schedule
 description: 
 published: true
-date: 2022-10-31T03:13:03.159Z
+date: 2022-10-31T16:34:21.299Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:04:55.835Z
@@ -23,9 +23,9 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 
 | Project name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|---|
-|  PQ Keys and Signatures in X.509 |  Pre-meeting - Oct 31 2:00pm GMT  |  virtual meeting https://www.ietf.org/how/meetings/gather/ hackathon room table G |   |
-|   |   |   |   |
-|   |   |   |   |
+|  PQ Keys and Signatures in X.509 |  Pre-meeting - Oct 31 2:00pm GMT|  virtual meeting https://www.ietf.org/how/meetings/gather/ hackathon room table G |   |
+|  PQ Keys and Signatures in X.509   | Nov 5th - 10am and 4 pm  | https://www.ietf.org/how/meetings/gather/ hackathon room table G  |   |
+| PQ Keys and Signatures in X.509  | Nov 6 - 10am and 1pm  |  https://www.ietf.org/how/meetings/gather/ hackathon room table G  |   |
 |   |   |   |   |
 
 *To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
