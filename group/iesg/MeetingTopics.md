@@ -2,7 +2,7 @@
 title: Meeting Topics
 description: 
 published: true
-date: 2022-10-31T14:06:11.489Z
+date: 2022-10-31T19:29:26.101Z
 tags: iesg, leadership,
 editor: markdown
 dateCreated: 2022-08-22T20:01:04.082Z
@@ -26,6 +26,9 @@ It is currently for IAB business meeting with Warren and Wes
 #### 3. Updating "Surprised Authors" statement (Warren,  10 min)
 
 More like 5 minutes, assuming everyone says "Poifect! Let's just do that!". Not during IEPG (Sun 10-noon) nor TDD, please!
+
+### 4. Keeping "Implementation Status"es (Warren, 10 min)
+Moar awareness good...
 
 
 > Unsure where to add it to the IAB-IESG joint session 
