@@ -2,7 +2,7 @@
 title: Hackathon Team Schedule
 description: 
 published: true
-date: 2022-10-31T16:46:08.747Z
+date: 2022-10-31T23:58:04.915Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:04:55.835Z
@@ -26,6 +26,9 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 |  PQ Keys and Signatures in X.509 |  Pre-meeting - Oct 31 2:00pm GMT|  virtual meeting https://www.ietf.org/how/meetings/gather/ hackathon room table G |   |
 |  PQ Keys and Signatures in X.509   | Nov 5th - 10am and 4 pm  | https://www.ietf.org/how/meetings/gather/ hackathon room table G  |   |
 | PQ Keys and Signatures in X.509  | Nov 6 - 10am and 1pm  |  https://www.ietf.org/how/meetings/gather/ hackathon room table G  |   |
+| Plugfest: BGP CT interop   | Nov 5th - 1 pm and 6 pm  | https://www.ietf.org/how/meetings/gather/ hackathon room table C  |   |
+| Plugfest: BGP CT interop   | Nov 6th - 1 pm and 4 pm  | https://www.ietf.org/how/meetings/gather/ hackathon room table C  |   |
 |   |   |   |   |
+
 
 *To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
