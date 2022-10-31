@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-30T14:15:40.432Z
+date: 2022-10-31T04:19:21.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -343,14 +343,17 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
  **Trusted Execution Environment Provisioning (TEEP)**
 - Champion(s)
   - Dave Thaler (dthaler at microsoft.com)
-  - Akira Tsukamoto (akira.tsukamoto at gmail.com)
+  - Hannes Tschofenig (Hannes.Tschofenig at arm.com)  
+  - Akira Tsukamoto (akira.tsukamoto at aist.com)
   - Kohei Isobe (isobekohei at gmail.com)
   - Ken Takayama (ken.takayama.ietf at gmail.com)
   - Shin'ichi Miyazawa (s.miyazawa at gmail.com)
 - Project info
-  - Discuss issues about teep drafs.
-  https://github.com/ietf-teep
-  - Improve and Test TEEP implementations.
+  - Resolve issues on the github.
+    https://github.com/ietf-teep/teep-protocol/issues/263
+    https://github.com/ietf-teep/teep-protocol/issues/273
+    https://github.com/ietf-teep/teep-protocol/issues/278
+  - Improve TEEP implementations.
 - Code
   - See teep WG page https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
   - teep_armadillo_trial https://github.com/s-miyazawa/teep_armadillo_trial
