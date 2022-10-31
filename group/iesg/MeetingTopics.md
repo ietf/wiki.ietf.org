@@ -2,7 +2,7 @@
 title: Meeting Topics
 description: 
 published: true
-date: 2022-10-26T14:16:00.457Z
+date: 2022-10-31T14:05:17.599Z
 tags: iesg, leadership,
 editor: markdown
 dateCreated: 2022-08-22T20:01:04.082Z
@@ -22,6 +22,12 @@ dateCreated: 2022-08-22T20:01:04.082Z
 #### 2. DNS alternate naming
 
 It is currently for IAB business meeting with Warren and Wes
+
+#### 3. Updating "Surprised Authors" statement (Warren,  10 min)
+
+More like 5 minutes, assuming everyone says "Poifect! Let's just do that!"
+
+
 
 > Unsure where to add it to the IAB-IESG joint session 
 > -éric
