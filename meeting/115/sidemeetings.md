@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-10-31T23:41:55.838Z
+date: 2022-11-01T04:28:59.888Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -213,8 +213,8 @@ Location: West Wing, First Floor
 |  08:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
 |  10:00   |6761bis||Paul Hoffman (paul.hoffman@icann.org)|Discussion of the future of RFC 6761 registry; for example, see (https://datatracker.ietf.org/doc/draft-hoffman-rfc6761bis/)|     [Zoom link](https://us02web.zoom.us/j/83413016917?pwd=UkVUc0ZtTzdjKzVKOUNzeUYvcVE3dz09) Meeting ID: 834 1301 6917, Passcode: test-onion                 |                       | 
-|  10:30   || |||                      |                       |         
-|  11:00   || |||                      |                       |          
+|  10:30   | DINRG | IRTF | Lixia Zhang (lixia@cs.ucla.edu) |continuing discussion on DINRG charter revision |                      |                       |         
+|  11:00   | DINRG | IRTF |  ||                      |                       |          
 |  11:30   | EToSat | TSV | John Border (John.Border@Hughes.com) | 11:45 to 12:45 | [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjEzNzVlYWQtZmU4MC00MGNkLWJlYzQtMjJlMjVlNGRmZDdj%40thread.v2/0?context=%7b%22Tid%22%3a%220e1f3187-4610-4ce2-bad1-b92f4ba36ab3%22%2c%22Oid%22%3a%222ba280b6-ebe0-45c4-ae7e-af3563b57eb1%22%7d)                     |                       |      
 |  12:00   | EToSat | TSV |             | Discussion to focus on GEO issues | Meeting ID: 288 481 427 863  Passcode: QnGcjv                     |                       |     
 |  12:30   | EToSat | TSV |             | etosat@ietf.org |                      |                       |    
