@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-10-31T17:29:39.952Z
+date: 2022-11-01T00:13:40.342Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z
@@ -44,6 +44,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 08:15|AA80 |Linda Dunbar| dunbar.ll@gmail.com| LHR  ||Hilton Metropole||
 10:45|LX318 |Eliot Lear| lear@lear.ch| LHR  ||Hilton Metropole||
 12:00 | UA923 | Lixia Zhang | lixia@cs.ucla.edu | LHR |  | Hilton Metropole  || 
+| 13:10  | AA 156  | Alexis Rossi | alexisannerossi@gmail.com | LHR | | Hilton Metropole ||
 | 13:35  | UA 930  | Alexander Clemm | ludwig@clemm.org | LHR | | Hilton Metropole ||
 | 14:35  | US 930  | Mahesh Jethanandani  | mjethanandani@gmail.com  | LHR  |   | Hilton Metropole  ||   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
