@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-28T20:30:21.188Z
+date: 2022-11-01T14:14:00.888Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -45,6 +45,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg
 >      - IANA
 >   3. Document Queues (Lars? RTG ADs?)
 >   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
+> 1. IESG appointment to the IETF Trust (Lars; exec session)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Richmond 6 (west wing, 1st floor)
 
