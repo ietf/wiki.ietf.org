@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-31T04:19:21.834Z
+date: 2022-11-01T12:48:48.021Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -633,6 +633,25 @@ __Roughtime*__
   
 - Drafts
   - https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/  
+
+**QUIC Handshake Classification API**
+
+- Champions:
+    - Marcin Nawrocki (marcin.nawrocki at fu-berlin.de)
+    - Jonas Mücke (jonas.muecke at fu-berlin.de)
+
+- Project info:
+    - Implement Internet-facing API which classifies the QUIC handshake behavior for a domain
+    - Main goal is to present details about the anti-amplification limits and TLS performance
+    - Extend it by rate-limiting, CDN identification, etc.
+
+- Code:
+    - https://github.com/microsoft/quicreach
+    - https://github.com/josephnoir/quiche
+
+- Specifications:
+    - https://www.rfc-editor.org/rfc/rfc9000.html
+
 
 ----
 
