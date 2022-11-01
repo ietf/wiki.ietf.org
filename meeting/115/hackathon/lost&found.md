@@ -1,8 +1,8 @@
 ---
-title: Hackathon Loast and Found
+title: Hackathon Lost and Found
 description: 
 published: true
-date: 2022-08-08T17:29:14.070Z
+date: 2022-11-01T16:04:20.210Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:33:09.622Z
