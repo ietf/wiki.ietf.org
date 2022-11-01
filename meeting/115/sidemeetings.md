@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-01T04:28:59.888Z
+date: 2022-11-01T15:35:23.486Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -157,8 +157,9 @@ Location: West Wing, First Floor
 |  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |    
 |  16:30   |                  |          |             |                         |                      |                       |    
 |  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
-|  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate  |                       |    
+|  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate [agenda](https://notes.ietf.org/emodir-20221108) |      [Zoom](https://ietf.zoom.us/j/85396289621?pwd=YWhYcWY4cmRVMnRFUnR1bWFoY0V3QT09) Meeting ID: 853 9628 9621 Passcode: 211534
+                 |    
+|  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate [agenda](https://notes.ietf.org/emodir-20221108)  |                       |    
 |  18:30   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
 |  19:00   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
 |  19:30   |                  |          |             |                         |                      |                       |    
