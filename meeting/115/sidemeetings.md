@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-02T17:04:59.752Z
+date: 2022-11-02T17:10:42.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -189,8 +189,8 @@ Location: Mezzanine Level
 |  14:30   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |  Discuss key points for the PQC draft standardization in OpenPGP  |  TBA                    |                       |          
 |  15:00   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |                         |                      |                       |          
 |  15:30   |  PQC in OpenPGP  |  SEC     |  aron@wussler.it |                         |                      |                       |          
-|  16:00   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>            | Mike will present a list of IPv6 issues for enterprises. All attendees will discuss how to solve these issues                         | 
-https://us06web.zoom.us/j/89765510503?pwd=ZHVjSnVDcE0yZ0ZReCt2RWNqbDV1dz09, Meeting ID: 897 6551 0503, Passcode: 298239                     |             |  
+|  16:00   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>            | Mike will present a list of IPv6 issues for enterprises. All attendees will discuss how to solve these issues     | 
+https://us06web.zoom.us/j/89765510503?pwd=ZHVjSnVDcE0yZ0ZReCt2RWNqbDV1dz09, Meeting ID: 897 6551 0503, Passcode: 298239 (courtesy Barbara Stark)  |             |  
 |  16:30   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |  
 |  17:00   |  Discuss IPv6 enterprise issues                |     OPS     | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |    
 |  17:30   |   Discuss 6G topics related to IP     |       |Behcet Sarikaya (Sarikaya@ieee.org), Dirk v. Hugo (Dirk.von-hugo@telekom.de)          | 3GPP representative to provide information |   https://dtag.webex.com/dtag/j.php?MTID=m80d6c571a7ea1a43195727182b679238              |    [text-3.ics](/test-folder/text-3.ics)
