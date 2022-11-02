@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-11-02T17:48:15.879Z
+date: 2022-11-02T19:13:01.471Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z
@@ -72,7 +72,7 @@ For ease of taxi-sharing from the airport to the IETF 115 venue and area hotels.
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DESTINATION |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+| 06:50 | BA66  | Bron Gondwana  | brong@fastmailteam.com  | LHR  |  5  | Hilton Metropole  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
