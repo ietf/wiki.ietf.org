@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-11-02T07:49:55.298Z
+date: 2022-11-02T07:53:34.584Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -44,7 +44,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [pce *Path Computation Element*](/group/pce)
-- [mpls *Multiprotol Label Switching*](/group/pce)
+- [mpls *Multiprotol Label Switching*](/group/mpls)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
 ### SEC
