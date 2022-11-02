@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-11-02T07:53:34.584Z
+date: 2022-11-02T07:55:58.184Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -23,6 +23,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [dispatch *DISPATCH*](/group/dispatch)
 - [idr *Inter-Domain Routing*](/group/idr)
+- [mpls *Multiprotocol Label Switching*](/group/mpls)
 - [pce *Path Computation Element*](/group/pce)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
