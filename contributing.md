@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-10-17T14:51:33.887Z
+date: 2022-11-02T15:01:26.423Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -92,20 +92,15 @@ If you are responsible for content on an existing IETF wiki there are a number o
 > If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 {.is-info}
 
-### Content-o-thons 
-If you have responsibility for any active IETF-related wiki (e.g. working group or directorate wiki), and are looking to get help or a head start on moving content, you are encouraged to participate in an upcoming content-o-thon. These events are open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org, covering topics such as:
+### Content sprints
+If you have responsibility for any active IETF-related wiki (e.g. working group or directorate wiki), and are looking to get help or a head start on moving content, you are encouraged to participate in an upcoming content sprint. These events are open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org, covering topics such as:
 + New wiki set up
 + Documentation and tools for wiki maintainers
 + Platform-wide features and content
 
-**Virtual Content-o-thon on 29 September at 1400 UTC**
-[Zoom link](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09)
-
-**Virtual Content-o-thon on 18 October at 2200 UTC**
-[Zoom link](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09)
-
 **Hybrid Content-o-thon on 5 November during [IETF 115](https://www.ietf.org/how/meeting/115/)**
-Details to be announced shortly.
+
+This hybrid content-sprint will take place from 1400-1800 GMT on 5 November in the [Mezzanine 9](https://datatracker.ietf.org/meeting/115/floor-plan?room=mezzanine-9) room.
 
 # GitHub and this wiki
 The wiki is bi-directionally mirrored with a [GitHub repository](https://github.com/ietf/wiki.ietf.org), which you are welcome to clone.
