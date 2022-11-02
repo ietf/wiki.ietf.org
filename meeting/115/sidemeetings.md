@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-01T16:04:25.588Z
+date: 2022-11-02T16:38:08.813Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -351,8 +351,8 @@ Location: West Wing, First Floor
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
-|  08:30   |   IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| TBD | TBD | 
-|  09:00   |  IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| TBD | TBD | 
+|  08:30   |   IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| [ZOOM](https://us06web.zoom.us/j/84213066829?pwd=ekE0N0taZlptcWlUY3hQOEhzd1huUT09) | [Link](https://drive.google.com/file/d/15uYcjyv9Hj4e2OFGT5U0OY9YjSyPXvtD/view?usp=sharing) | 
+|  09:00   |  IETF Outreach  | GEN      | Dhruv Dhody | " | " | " | 
 |  09:30   |                  |          |             |                         |                      |                       |
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
