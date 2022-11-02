@@ -2,7 +2,7 @@
 title: Hackathon Code Lounge
 description: 
 published: true
-date: 2022-10-10T19:58:27.412Z
+date: 2022-11-02T17:17:53.882Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:23:24.446Z
@@ -20,10 +20,10 @@ Please sign up for a time slot below by entering your working group or Hackathon
 
 |      |  Monday, 7 Nov | Tuesday, 8 Nov  | Wednesday, 9 Nov |  Thursday, 10 Nov | Friday, 11 Nov |  
 |---|---|---|---|---|---|
-| 08:00 | L4S  | L4S   |   |   |   |
-| 10:00 | L4S  | L4S  |   |   |   |
-| 12:00 | L4S  | L4S  |   |   |   |     
-| 14:00 | L4S  | L4S  |   |   | **Lounge Closed** |
-| 16:00 | L4S  | L4S  |  |  | **Lounge Closed**   |                         
-| 18:00 | L4S | L4S  |   |  | **Lounge Closed** |  
-| 20:00 | L4S | L4S |   |    | **Lounge Closed** |
+| 08:00 | L4S  | L4S   |   L4S  | L4S   |   |
+| 10:00 | L4S  | L4S  |   L4S  | L4S   |   |
+| 12:00 | L4S  | L4S  |   L4S  | L4S   |   |     
+| 14:00 | L4S  | L4S  |   L4S  | L4S   | **Lounge Closed** |
+| 16:00 | L4S  | L4S  |  L4S  | L4S  | **Lounge Closed**   |                         
+| 18:00 | L4S | L4S  |   L4S  | L4S  | **Lounge Closed** |  
+| 20:00 | L4S | L4S |   L4S  | L4S    | **Lounge Closed** |
