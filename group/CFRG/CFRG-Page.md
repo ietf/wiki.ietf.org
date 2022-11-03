@@ -2,7 +2,7 @@
 title: Crypto Forum Research Group
 description: 
 published: true
-date: 2022-11-03T17:03:52.774Z
+date: 2022-11-03T17:05:02.719Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:38:41.760Z
@@ -19,7 +19,7 @@ CFRG secretary: Chris Wood.
 The mailing list can be accessed via [Mail Archive](https://mailarchive.ietf.org/arch/browse/cfrg/).
 
 ---
-[Crypto Review Panel](https://wiki.ietf.org/e/en/group/CFRG/CryptoPanel) is managed by CFRG Chairs and is used to review crypto algorithms and their use in IETF protocols. It is used to review documents submitted to CFRG, IETF Security Area and Independent Submission Editor.
+[Crypto Review Panel](https://wiki.ietf.org/en/group/CFRG/CryptoPanel) is managed by CFRG Chairs and is used to review crypto algorithms and their use in IETF protocols. It is used to review documents submitted to CFRG, IETF Security Area and Independent Submission Editor.
 
 ---
 There was a process of PAKE selection in CFRG in 2019-2020. 
