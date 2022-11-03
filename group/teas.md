@@ -2,7 +2,7 @@
 title: Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2022-11-03T07:26:46.514Z
+date: 2022-11-03T07:28:08.359Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -44,7 +44,7 @@ An IPR statement is to be sent to the list by any new author or contributor when
 | [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/)          | YDR Done; Blocked by SR policy Yang model
 | [draft-ietf-teas-te-topo-and-tunnel-modeling](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topo-and-tunnel-modeling/)      | Expired; Open issues exist
 | [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/)                  | YDR Done; Open issues exist
-| [draft-ietf-teas-yang-path-computation](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-path-computation/)            | Needs second LC; Open issues exist
+| [draft-ietf-teas-yang-path-computation](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-path-computation/)            | Needs second WGLC; Open issues exist
 | [draft-ietf-teas-yang-rsvp](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp/)                        | YDR Done; Open issues exist
 | [draft-ietf-teas-yang-rsvp-te](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp-te/)                     | Expired; YDR Done; Open issues exist
 | [draft-ietf-teas-yang-sr-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-sr-te-topo/)                  | YDR Done; Open issues exist
