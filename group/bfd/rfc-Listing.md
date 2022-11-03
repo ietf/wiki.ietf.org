@@ -2,7 +2,7 @@
 title: BFD WG RFC Listing
 description: 
 published: true
-date: 2022-07-23T20:56:37.617Z
+date: 2022-11-03T23:20:34.446Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:56:34.825Z
@@ -43,7 +43,8 @@ dateCreated: 2022-07-23T20:56:34.825Z
 
 # BFD YANG modules
 
-* RFC 9127 - YANG Data Model for Bidirectional Forwarding Detection (BFD)
+* ~~RFC 9127 - YANG Data Model for Bidirectional Forwarding Detection (BFD)~~
+* RFC 9314 - YANG Data Model for Bidirectional Forwarding Detection (BFD) (replaces RFC 9127)
 
 # BFD Authentication and Security
 
