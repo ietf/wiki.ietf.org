@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-02T17:33:13.017Z
+date: 2022-11-03T11:36:59.940Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -684,7 +684,17 @@ __Roughtime*__
   
 - Specifications:
     - https://datatracker.ietf.org/doc/draft-ietf-avtcore-rtp-over-quic/
-    
+ 
+ **WebRTC Encoded Media**
+- Champion(s)
+  - Harald Alvestrand (harald@alvestrand.no)
+- Project info
+  - Early experimentation in new APIs for processing encoded media
+  - Focus is on "getting a feel" on suggested new APIs
+- Code:
+  - https://github.com/alvestrand/hackathon-encoded-media
+ 
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
