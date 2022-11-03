@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-03T16:59:50.863Z
+date: 2022-11-03T17:17:14.315Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -297,8 +297,8 @@ Location: West Wing, First Floor
 |  15:30   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |                       |  
 |  16:00   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |    
 |  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
+|  17:00   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | TBD     |  TBD        |
+|  17:30   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | TBD     |  TBD        | 
 |  18:00   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | TODO | TODO |    
 |  18:30   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | TODO | TODO |    
 |  19:00   |                  |          |             |                         |                      |                       |    
