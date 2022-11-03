@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-03T13:19:40.134Z
+date: 2022-11-03T13:50:26.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -706,6 +706,17 @@ __Roughtime*__
   - https://datatracker.ietf.org/doc/draft-ietf-dnsop-dns-error-reporting/
 - Code
   - https://github.com/NLnetLabs/unbound/tree/features/error-reporting-poc
+
+
+**MASQUE Tunneling**
+- Champion(s)
+  - Marcus Ihlar
+- Project info
+  - Implementation and Interop of MASQUE Tunneling of UDP and IP
+- Specifications
+  - https://datatracker.ietf.org/doc/rfc9297/
+  - https://datatracker.ietf.org/doc/rfc9298/
+  - https://datatracker.ietf.org/doc/draft-ietf-masque-connect-ip/
 
 ----
 
