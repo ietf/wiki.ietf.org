@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2022-11-03T16:55:29.660Z
+date: 2022-11-03T16:56:22.136Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -122,6 +122,6 @@ Being a panel member represents a commitment to review documents in a timely and
 | Russ Housley | Vigil Security |
 | Tibor Jager | |
 | Yaron Sheffer | Intuit |
-| Stanislav Smyshlyaev | !CryptoPro |
+| Stanislav Smyshlyaev | CryptoPro |
 | Bjoern Tackmann | IBM Research |
 
