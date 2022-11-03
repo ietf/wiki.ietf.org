@@ -2,7 +2,7 @@
 title: Crypto Forum Research Group
 description: 
 published: true
-date: 2022-11-03T17:05:02.719Z
+date: 2022-11-03T17:13:52.762Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:38:41.760Z
@@ -13,8 +13,8 @@ For more information please visit the [CFRG web page](https://datatracker.ietf.o
 The documents of the Research Group can be found [in the datatracker](https://datatracker.ietf.org/rg/cfrg/documents/).
 A significant part of current work on the drafts is done using [CFRG GitHub repositories](https://github.com/cfrg).
 
-CFRG chairs: Alexey Melnikov, Nick Sullivan, Stanislav Smyshlyaev.
-CFRG secretary: Chris Wood.
+CFRG Chairs: Alexey Melnikov, Nick Sullivan, Stanislav Smyshlyaev.
+CFRG Secretary: Chris Wood.
 
 The mailing list can be accessed via [Mail Archive](https://mailarchive.ietf.org/arch/browse/cfrg/).
 
