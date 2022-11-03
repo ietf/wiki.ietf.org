@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-03T18:05:53.735Z
+date: 2022-11-03T18:06:33.164Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -53,7 +53,7 @@ Hackathon (all times are UTC)
 * **09:30** : Room opens - pastries and coffee provided
 * **12:30** : Lunch provided
 * **13:30** : Hacking stops, prepare brief presentation of project
-* **14:00** : Project results presentations, [Meetecho] (https://meetings.conf.meetecho.com/ietf115/?group=hackathon&short=&item=4)
+* **14:00** : Project results presentations, [Meetecho](https://meetings.conf.meetecho.com/ietf115/?group=hackathon&short=&item=4)
 
 * **16:00** : Hackathon ends
 * **17:00** : Tear down complete
