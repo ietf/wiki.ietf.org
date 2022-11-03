@@ -2,7 +2,7 @@
 title: Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2022-11-03T07:23:49.695Z
+date: 2022-11-03T07:26:46.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -36,11 +36,11 @@ An IPR statement is to be sent to the list by any new author or contributor when
 | [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/)     | Open issues exist
 | [draft-ietf-teas-ietf-network-slices](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slices/)              | WGLC process initiated
 | [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/)                  | Open issues exist
-| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/)                       | Open issues exist
+| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/)                       | Open issues exist (issues tracked in the document)
 | [draft-ietf-teas-pcecc-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-pcecc-use-cases/)                  | WGLC Complete; RtgDir review done; Revision needed
 | [draft-ietf-teas-rfc3272bis](https://datatracker.ietf.org/doc/draft-ietf-teas-rfc3272bis/)                       | Publication requested
 | [draft-ietf-teas-rfc8776-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rfc8776-update/)                   | Open issues exist
-| [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/)              | YDR Done; 
+| [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/)              | YDR Done; Open issues exist
 | [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/)          | YDR Done; Blocked by SR policy Yang model
 | [draft-ietf-teas-te-topo-and-tunnel-modeling](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topo-and-tunnel-modeling/)      | Expired; Open issues exist
 | [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/)                  | YDR Done; Open issues exist
