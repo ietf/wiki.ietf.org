@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-03T11:36:59.940Z
+date: 2022-11-03T13:03:19.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -694,6 +694,17 @@ __Roughtime*__
 - Code:
   - https://github.com/alvestrand/hackathon-encoded-media
  
+**DNS Error Reporting**
+- Champion(s)
+  - Willem Toorop
+  - Benno Overeinder
+  - ...
+- Project info
+  - Implementation and interoperability testing of DNS error reporting
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-ietf-dnsop-dns-error-reporting/
+- Code
+  - https://github.com/NLnetLabs/unbound/tree/features/error-reporting-poc
 
 ----
 
