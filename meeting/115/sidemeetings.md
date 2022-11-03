@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-02T17:16:23.773Z
+date: 2022-11-03T13:33:32.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -331,9 +331,9 @@ Location: Mezzanine Level
 |  15:00   |                  |          |             |                         |                      |                       |          
 |  15:30   |  Proposed RASP RG       | IRTF       | Niels ten Oever            |    Proposed research group coordination meeting for research and analysis of standards-process data            |  https://uva-live.zoom.us/s/6365963924             |                       |          
 |  16:00   |  Proposed RASP RG       | IRTF       | Niels ten Oever            |    Proposed research group coordination meeting for research and analysis of standards-process data            |  https://uva-live.zoom.us/s/6365963924             |                       |          
-|  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   |                  |          |             |                         |                      |                       |    
-|  17:30   |                  |          |             |                         |                      |                       |    
+|  16:30   |  RAW WG          | INT      | Pascal Thubert | Focus discussion of RAW Architecture |                      |                       |  
+|  17:00   |  RAW WG          | INT      | Pascal Thubert | Focus discussion of RAW Architecture |                      |                       |    
+|  17:30   |  RAW WG          | INT      | Pascal Thubert | Focus discussion of RAW Architecture |                      |                       |    
 |  18:00   |  eBPF Bar BoF    | INT      | Dave Thaler | Determine whether to standardize some part of eBPF in IETF | https://us06web.zoom.us/j/83038515863?pwd=czQrWTdVcGlMWER2MGN6V2pOSFhGQT09                     |                       |    
 |  18:30   |  eBPF Bar BoF    | INT      | Dave Thaler | Determine whether to standardize some part of eBPF in IETF | https://us06web.zoom.us/j/83038515863?pwd=czQrWTdVcGlMWER2MGN6V2pOSFhGQT09                     |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
