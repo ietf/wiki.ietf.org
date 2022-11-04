@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-03T19:58:00.445Z
+date: 2022-11-04T13:34:21.814Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -177,8 +177,8 @@ Location: Mezzanine Level
 |  08:30   |  Enterprise Inventory Management| OPS   | Qin Wu (bill.wu@huawei.com)    |Discuss inventory management gap in RFC8345 |      TODO            |      TODO             | 
 |  09:00   | Enterprise Inventory Management|  OPS         |Qin Wu (bill.wu@huawei.com) |Discuss inventory management gap in RFC8345             |                      |                       |  
 |          |                  |                  |                 |                         |                      |                       | 
-|  10:00   |                  |          |             |                         |                      |                       | 
-|  10:30   |                  |          |             |                         |                      |                       |         
+|  10:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  10:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  11:00   |                  |          |             |                         |                      |                       |          
 |  11:30   |                  |          |             |                         |                      |                       |    
 |  12:00   |                  |          |             |                         |                      |                       |  
