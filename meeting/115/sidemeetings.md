@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-04T13:34:21.814Z
+date: 2022-11-04T20:56:45.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -184,8 +184,8 @@ Location: Mezzanine Level
 |  12:00   |                  |          |             |                         |                      |                       |  
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
-|  13:30   |  YANG Versioning  |  OPS (NETMOD)   |  jason.sterne@nokia.com   | Discuss issues around 5 versioning drafts |  TBA  |                       |    
-|  14:00   | YANG Versioning  |  OPS (NETMOD) | jason.sterne@nokia.com | Discuss issues around 5 versioning drafts | TBA  |                       |          
+|  13:30   |  YANG Versioning  |  OPS (NETMOD)   |  jason.sterne@nokia.com   | Discuss issues around 5 versioning drafts |  https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |    
+|  14:00   | YANG Versioning  |  OPS (NETMOD) | jason.sterne@nokia.com | Discuss issues around 5 versioning drafts | https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |          
 |  14:30   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |  Discuss key points for the PQC draft standardization in OpenPGP  |  TBA                    |                       |          
 |  15:00   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |                         |                      |                       |          
 |  15:30   |  PQC in OpenPGP  |  SEC     |  aron@wussler.it |                         |                      |                       |          
