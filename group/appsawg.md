@@ -2,7 +2,7 @@
 title: Applications Area Working Group Wiki
 description: This is used for recording things related to the Applications Area Working Group (appsawg) specifically, and the Applications Area in general.
 published: true
-date: 2022-11-05T14:37:53.571Z
+date: 2022-11-05T14:38:25.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:29:53.448Z
@@ -23,7 +23,7 @@ Keep in mind, as you fill out the shepherd writeup, that the point is to give th
 ### New charter proposals:
 
 [Timezone Data Distribution Service](https://datatracker.ietf.org/wg/tzdist/charter/) (tzdist, in formal charter process)
-[Domain-based Message Authentication, Reporting and Conformance Extensions](/dmarc) (dmarcext, proposed for comment)
+[Domain-based Message Authentication, Reporting and Conformance Extensions](https://wiki.ietf.org/groups/appsawg/dmarc) (dmarcext, proposed for comment)
 
 ### Older work proposals, retained for record keeping:
 
