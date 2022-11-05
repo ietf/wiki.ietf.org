@@ -2,7 +2,7 @@
 title: IDR Working Group Web page
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2022-11-05T17:06:23.960Z
+date: 2022-11-05T17:07:25.974Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -33,7 +33,7 @@ If you have questions or concerns regarding the implementation requirement, plea
 
 ## Notes on Current Adoption calls
 
-CAR-CT Adoption call (7/6/2022 to 7/27/2022)
+[CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/idr/CAR-CT Adoption)
 
 ## Minutes from Past 2021 IDR Interims
 
