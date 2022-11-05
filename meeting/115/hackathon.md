@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-04T13:28:36.057Z
+date: 2022-11-05T08:22:37.239Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -726,6 +726,14 @@ __Roughtime*__
   - logan@cyberstorm.mu
 - Project info
   - https://www.ietf.org/archive/id/draft-ietf-tls-deprecate-obsolete-kex-00.html
+
+
+**BGPsec maintenance**
+- Champion(s)
+  - Ignas Bagdonas (ibagdona.public#gmail.com)
+- Project info
+  - Tooling for BGPsec validation (MRT transcoder)
+  - Alternative signature and digest schemes (EdDSA, Blake*)
 
 ----
 
