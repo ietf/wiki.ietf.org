@@ -2,7 +2,7 @@
 title: Hackathon Lost and Found
 description: 
 published: true
-date: 2022-11-05T10:42:02.431Z
+date: 2022-11-05T10:56:27.881Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:33:09.622Z
@@ -25,7 +25,7 @@ Champions wanting help on their projects are encouraged to add themselves to the
 ## Skills to Offer
 | Name| Email Address| Skills and/or interests you have to offer |
 |---|---|---|---|
-| bblfish  | henry.story@bblfish.net   | HTTP Message Signing, Scala(JS) |   |
+| bblfish  | henry.story@bblfish.net   | HTTP Message Signing, Scala(JS), RDF |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
