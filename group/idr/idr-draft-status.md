@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T16:05:36.108Z
+date: 2022-11-05T16:15:12.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -66,19 +66,24 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
 |---|---|---|---|---|---|
- 
+
 
 ## Past WG LC - starting timeout 
 | draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
 |---|---|---|---|---|---|
-| draft-ietf-rs-bfd | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD | 
-|
-## WG LC
+| draft-ietf-rs-bfd | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD |  |
+
+## WG LC 
+| draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
+|---|---|---|---|---|---|
+| [draft-ietf-idr-deprecate-8-9-10](https://datatracker.ietf.org/doc/draft-ietf-idr-deprecate-8-9-10) | Jeff Haas | n.a. | RTG-DIR + shepherd write-up | Oct-17-2022 | 17 days | 11/12/2022 | 
+
+## WG LC-Upcoming 
 
 | draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
 |---|---|---|---|---|---|  
 | [draft-ietf-idr-bgp-model](http://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model) | Jie Dong | TBD | WG LC |  TBD | TBD | TBD |  
-| draft-ietf-idr-sr-policy-fit-03 | Susan Hares | need 2 | IPR  | TBD | TBD | TBD ||
+| [draft-ietf-idr-sr-policy-fit](http:://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit | Susan Hares | need 2 | IPR  | TBD | TBD | TBD ||
 
 ## Adopted
 
