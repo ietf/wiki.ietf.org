@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-05T09:57:18.665Z
+date: 2022-11-05T09:58:38.171Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -460,7 +460,7 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
   
- **I2NSF: IPsec Flow Protection for BGP Peers using I2NSF**
+ **I2NSF: SDN-Based IPsec Flow Protection for Remote NSFs using I2NSF**
 - Champion(s)
   - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
   - Patrick Lingga (patricklink888 at gmail.com)
