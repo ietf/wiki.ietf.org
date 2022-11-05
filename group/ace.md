@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T16:06:17.284Z
+date: 2022-11-05T16:16:34.887Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -30,8 +30,8 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 
 | Name | Use case | Role of Client | Role of RS | C-RS protocol | Com. sec. | Dependency | Implementations | Drafts |
 |--------------|----------|----------------|------------|---------------|-----------|------------|-----------------|--------|
-| Joining OSCOAP multicast groups  | Authorized access to OSCOAP multicast groups | Joining node | Group manager | CoAP | Same as in ACE profile used |  [#ref1 (1)],[#ref2 (2)]  | Same as ACE profile | [#ref6 (6)]  | 
-| Security for Low-Latency Group Communication  | Authorized access to CoAP multicast | Joining node | Group manager | CoAP | Specified in the document |  ACE-OAuth, symmetric key group communication security  | As part of OpenAIS EU funded project | [#ref7 (7)]  | 
+| Joining OSCOAP multicast groups  | Authorized access to OSCOAP multicast groups | Joining node | Group manager | CoAP | Same as in ACE profile used |  [ref1][1],[ref2][2]]  | Same as ACE profile | [ref6][6]  | 
+| Security for Low-Latency Group Communication  | Authorized access to CoAP multicast | Joining node | Group manager | CoAP | Specified in the document |  ACE-OAuth, symmetric key group communication security  | As part of OpenAIS EU funded project | [ref7][7]  | 
  | ... | ... | ... | ... | ... | ... |  ...  |  ...  | ... | 
 
 ## References
