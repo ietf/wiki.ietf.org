@@ -2,7 +2,7 @@
 title: Typical ART Area Issues
 description: 
 published: true
-date: 2022-11-05T15:30:57.183Z
+date: 2022-11-05T15:32:42.597Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:21:45.195Z
@@ -88,11 +88,11 @@ Protocol versions happen, so it's usually important to define a version field of
   
 ### Formal Descriptions
 
-To formally describe your XML format, you can use either ​W3 XML Schema or ​RELAX NG. The IETF does not have a preference between these.
+To formally describe your XML format, you can use either [W3 XML Schema](http://www.w3.org/TR/xmlschema-1/) or [RELAX NG](/group/art/TypicalARTAreaIssues)http://relaxng.org/). The IETF does not have a preference between these.
 
   ### Schema "Gotchas"
 
-XML is, by nature, extensible. If you formally describe your XML format using ​W3 XML Schema, use the available facilities to declare which elements are extensible and how. For example, use the following constructs:
+XML is, by nature, extensible. If you formally describe your XML format using [W3 XML Schema](http://www.w3.org/TR/xmlschema-1/), use the available facilities to declare which elements are extensible and how. For example, use the following constructs:
 
 ```
 <xs:anyAttribute namespace="##other" processContents="lax"/>
