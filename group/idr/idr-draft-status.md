@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-09-14T15:00:57.872Z
+date: 2022-11-05T14:39:20.265Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -12,28 +12,32 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ### New RFCs
 
-| Name | Author | RFC # | Status | Date |
+| Name | Author | RFC # | Status | Date | WG LC Date] 
 |---|---|---|---|---|
-| [draft-ietf-idr-bgp-ext-com-registry-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ext-com-registry-05) | Susan Hares | [RFC9184](https://www.rfc-editor.org/rfc/rfc9184) | Published | 1-2022 |
-| [draft-ietf-idr-bgp-open-policy-23](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-open-policy-23) | Susan Hares |  [RFC9234](https://www.rfc-editor.org/rfc/rfc9234) | Published | 5-2022 |
-| [draft-ietf-idr-bgp-ls-sbfd-extensions-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sbfd-extensions-05) |  Jeff Haas | [RFC9247](https://www.rfc-editor.org/rfc/rfc9247) | Published | 6-2022 |
+| [draft-ietf-idr-bgp-ext-com-registry-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ext-com-registry-05) | Susan Hares | [RFC9184](https://www.rfc-editor.org/rfc/rfc9184) | Published | 1-2022 |  | 
+| [draft-ietf-idr-bgp-open-policy-23](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-open-policy-23) | Susan Hares |  [RFC9234](https://www.rfc-editor.org/rfc/rfc9234) | Published | 5-2022 | | 
+| [draft-ietf-idr-bgp-ls-sbfd-extensions-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sbfd-extensions-05) |  Jeff Haas | [RFC9247](https://www.rfc-editor.org/rfc/rfc9247) | Published | 6-2022 | | 
+|---|---|---|---|---|---|---|
+| draft-ietf-idr-bgp-ls-app-specific-attr-16 | Keyur Patel| [RFC9294] |  Aug-22 | Nov-17-2020 | 
 
 ## At RFC Editor
 | draft | Shepherd | status | Next step | WG LC approval Date | IESG approval date | Time | 
 |---|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-app-specific-attr-16 | Keyur Patel | Auth-48 | RFC9294 | Nov-17-2020 | 7/7/2022 |  633 | 
+
 
 
 ## IESG Approved
 | draft | Shepherd | status | Next step | approval Date | Time in state | 
 |---|---|---|---|---|---|
-
+|---|---|---|---|---|---|---|---|
+| draft-ietf-idr-bgp-ls-flex-algo | Jie Dong | IETF LC | Awaiting AD review | Nov-17-2020 | 6 days | TBD | 633 days | 
 
 ## At IESG
 
 | draft | Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA | Time since WG LC | 
 |---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-flex-algo | Jie Dong | IETF LC | Awaiting AD review | Nov-17-2020 | 6 days | TBD | 633 days | 
+| draft-ietf-idr-rfc7752bis | Jeff Haas | in AD Queue | Awaiting AD Review  | Nov-11-2021 | 274 days | TBD | 274 days | 
+| draft-ietf-idr-bfd-subcode-00 | Keyur Patel | WG LC | IDR Chair review WG LC | 8/22-9/6 | 2 weeks   | 9/10/2022  | 
 
 ## Needs revision During AD Review
 
