@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T16:52:49.554Z
+date: 2022-11-05T17:12:02.851Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -71,7 +71,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Past WG LC - starting timeout 
 | draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
 |---|---|---|---|---|---|
-| draft-ietf-rs-bfd | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD |  |
+| [draft-ietf-idr-rs-bfd](http://datatracker.ietf.org/doc/draft-ietf-idr-rs-bsd) | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD |  |
 | draf
 
 ## WG LC 
