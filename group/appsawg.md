@@ -2,7 +2,7 @@
 title: Applications Area Working Group Wiki
 description: This is used for recording things related to the Applications Area Working Group (appsawg) specifically, and the Applications Area in general.
 published: true
-date: 2022-11-05T14:40:12.365Z
+date: 2022-11-05T14:42:44.016Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:29:53.448Z
@@ -31,8 +31,8 @@ Keep in mind, as you fill out the shepherd writeup, that the point is to give th
 [iSchedule draft charter](https://wiki.ietf.org/en/group/appsawg/iSchedule) (isched, not pursued yet)
 
 ## Other Stuff
-Implementation status of [JSON Patch](https://trac.ietf.org/trac/appsawg/wiki/JsonPatch)
-Interest in [HTTP response code 451](https://trac.ietf.org/trac/appsawg/wiki/HTTP451), "Unavailable for legal reasons"
+Implementation status of [JSON Patch](https://wiki.ietf.org/en/group/appsawg/JsonPatch)
+Interest in [HTTP response code 451](https://wiki.ietf.org/en/group/appsawg/HTTP451), "Unavailable for legal reasons"
 
 ## Current Document Charters
 APPSAWG requires charters for new documents we take on. We call them "mini-charters". A charter will typically be required to indicate:
