@@ -2,7 +2,7 @@
 title: Gen ART
 description: 
 published: true
-date: 2022-11-05T16:10:37.137Z
+date: 2022-11-05T16:10:58.669Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-11-05T16:04:36.810Z
@@ -148,7 +148,7 @@ All reviews are sent to the IETF gen-art mailing list: https://mailarchive.ietf.
 Reviews are managed using a specific tool. Reviewers can log in to the tool
 here: https://datatracker.ietf.org/group/genart/reviews/
 
-Review tool user guide: [Datatracker Review Tool Howto](/reviewtool)https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto
+Review tool user guide: [Datatracker Review Tool Howto](/reviewtool)
 
 ### Archiving of reviews 
 
