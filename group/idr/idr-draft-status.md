@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T17:22:46.789Z
+date: 2022-11-05T17:25:49.104Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -47,28 +47,30 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA |
 |---|---|---|---|---|---|---|
-| none |  |  |  |  |  |  |   | 
+| none  |   |   |   |   |   |  |   
+|---|---|---|---|---|---|---|
 
 ## In Queue of AD: Awaiting AD Feedback
 
 | draft | Shepherd |  status | Next step | WG LC done | Pub-Req | AD waiting Time |  ETA | Time since WG LC |  
 |---|---|---|---|---|---|---|---|---|
-
 | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd)  | Keyur Patel | AD's queue | AD review  | Nov-11-2021 | Feb-11-2022  | 182 days |  TBD | 182 days | 
 | [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities) | Keyur Patel | AD's queue | AD review | Mar-11-2022 | Apr-30-2022 | 154 days |TBD | 154 days | 
-| [draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/drafat-ietf-idr-segment-routing-te-policy) | Susan Hares | in AD's queue | IESG | Aug-06-2021 | Jul-7-2022 |  37 days | TBD | 371 days ||
+| [draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/drafat-ietf-idr-segment-routing-te-policy) | Susan Hares | in AD's queue | IESG | Aug-06-2021 | Jul-7-2022 |  37 days | TBD | 371 days | 
+|---|---|---|---|---|---|---|---|---|
 
 ## In Queue of WG Shepherds
 
 | draft | Shepherd |  status | Next step | WG LC Done | Time | issues |  ETA | Time since WG LC |   
 |---|---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-long-lived-gr](http://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr) | Jeff Haas | WG LC OK | IESG Pub | Nov-1-2022 | 3 | TBD | Nov-15-2022 | 3 | 
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 
 ## Past WG LC awaiting implementations
 
 | draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+|
 
 
 ## Past WG LC - starting timeout 
