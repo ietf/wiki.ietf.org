@@ -2,7 +2,7 @@
 title: Hackathon Lost and Found
 description: 
 published: true
-date: 2022-11-01T16:04:20.210Z
+date: 2022-11-05T10:42:02.431Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:33:09.622Z
@@ -25,7 +25,7 @@ Champions wanting help on their projects are encouraged to add themselves to the
 ## Skills to Offer
 | Name| Email Address| Skills and/or interests you have to offer |
 |---|---|---|---|
-|   |   |   |   |
+| bblfish  | henry.story@bblfish.net   | HTTP Message Signing, Scala(JS) |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
@@ -36,7 +36,7 @@ Champions wanting help on their projects are encouraged to add themselves to the
 ## Skills Needed
 | Name |  Email Address |  Skills your team needs |
 |---|---|---|
-|   |   |   |
+| bblfish  | henry.story@bblfish.net  | PEM weirdness in JS. See [Tweet](https://twitter.com/_ProtocolPolice/status/1588720424682393600)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
