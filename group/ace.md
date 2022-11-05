@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T15:58:37.796Z
+date: 2022-11-05T15:59:29.893Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -49,16 +49,13 @@ MQTT profile:
 [4]: https://tools.ietf.org/html/draft-sengul-ace-mqtt-tls-profile
 
 IPsec profile:
-
-[=#ref5 (5)] https://tools.ietf.org/html/draft-aragon-ace-ipsec-profile
+[5]: https://tools.ietf.org/html/draft-aragon-ace-ipsec-profile
 
 Joining OSCOAP multicast groups:
-
-[=#ref6 (6)] https://tools.ietf.org/html/draft-tiloca-ace-oscoap-joining
+[6]:  https://tools.ietf.org/html/draft-tiloca-ace-oscoap-joining
 
 Security for Low-Latency Group Communication:
-
-[=#ref7 (7)] https://tools.ietf.org/html/draft-somaraju-ace-multicast
+[7]: https://tools.ietf.org/html/draft-somaraju-ace-multicast
 
 == Background info ==
 
