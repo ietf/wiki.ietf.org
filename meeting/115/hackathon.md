@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-05T14:21:02.296Z
+date: 2022-11-05T14:39:47.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -294,6 +294,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-ecn-l4s-id/
   - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-aqm-dualq-coupled/
   - https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/
+  - https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design-05
 
  **PQ keys and signatures in X.509 / PKIX**
 - Champion(s)
