@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2022-10-10T19:57:07.105Z
+date: 2022-11-05T10:52:13.084Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -20,7 +20,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
+| L4S | Greg White | g.white@cablelabs.com  |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
