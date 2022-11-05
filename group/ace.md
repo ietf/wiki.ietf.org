@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T15:15:39.337Z
+date: 2022-11-05T15:40:12.406Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -17,8 +17,8 @@ In the ACE WG meeting at IETF #99 it was decided to use the Wiki to make a roadm
 Instructions for ACE profile authors: Please verify/fill in the details of the profile in the table. Further information can be detailed below. NOTE: This does not have to be a complete description of the profile, but an outline of what is contributed and how it relates to other profiles.
 
 | Profile name | Use case | Role of Client | Role of RS|C-RS protocol | Com. sec. | Dependency | Implementations | Draft |
-|---|---|---|---|---|---|---|---|
-| coap_dtls | Generic REST access | Any Client | Any RS | CoAP | DTLS | - |[https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch], [https://github.com/SEI-TTG/ace-client/wiki SEI-ACE] | [#ref1](https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize) |
+| --- | --- | ---| --- | --- |--- | --- | --- |
+| coap_dtls | Generic REST access | Any Client | Any RS | CoAP | DTLS | - |[https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch], [https://github.com/SEI-TTG/ace-client/wiki SEI-ACE] | [#ref1][1] |
 | coap_oscoap |Generic REST access|Any Client|Any RS|CoAP|OSCOAP| - | [https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch] |[#ref2](https://tools.ietf.org/html/draft-seitz-ace-oscoap-profile)]|
 | publisher |Publish on topic|Publisher|Broker|CoAP|COSE| [#ref1](https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize),[#ref2 (2)] | - |[#ref3 (3)]|
 | subscriber |Subscribe to topic|Subscriber|Broker|CoAP|COSE| [#ref1](https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize),[#ref2 (2)] | - |[#ref3 (3)]|
@@ -37,7 +37,7 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 
 CoAP-DTLS profile:
 
-[=#ref1 (1)] https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize
+[1]: (https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize)
 
 OSCOAP profile:
 
