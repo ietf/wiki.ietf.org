@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2022-11-05T16:15:57.281Z
+date: 2022-11-05T16:25:29.496Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-11-05T16:15:57.281Z
@@ -10,9 +10,9 @@ dateCreated: 2022-11-05T16:15:57.281Z
 
 # Datatracker Review Tool How-To 
 
-The Datatracker Review Tool is a feature that implements the requirements covered in [[https://datatracker.ietf.org/doc/rfc7735/|RFC 7735 - Tracking Reviews of Documents]]. 
+The Datatracker Review Tool is a feature that implements the requirements covered in RFC 7735 - Tracking Reviews of Documents. 
 
-Log into trac to see the [[https://trac.tools.ietf.org/tools/ietfdb/query?status=!closed&component=review%2F|current list of bugs and enhancements for the Datatracker Review Tool]]
+See the [current list of bugs and enhancements for the Datatracker Review Tool](https://github.com/ietf-tools/datatracker).
 
 This how-to is somewhat Gen-ART-centric, but I hope that it is useful for reviewers in other directorates. 
 
