@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T16:33:49.984Z
+date: 2022-11-05T16:35:06.176Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -98,9 +98,8 @@ For information on adoption process:  [[IDR adoption process]]
 
 | draft | Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA |
 |---|---|---|---|---|---|
-| [draft-dunbar-idr-5G-edge-compute-app-meta-data](https://datatracker.ietf.org/doc/draft-dunbar-idr-5g-edge-compute-bgp-usage) | Susan Hares | Adopted held pending CAN BOF| WG Draft | 7/29 to 8/29 | 9/10 | IETF-115  |
-| draft-jiang-idr-ts-flowspec-srv6-policy | Susan Hares | Chairs Review | Adoption | 7/29 to 8/29 | 9/10 | 9/10 | 
-| draft-wang-idr-vpn-prefix-orf-03 | Susan Hares  | revision -03  | IDR Chairs feedback  | 7/29 to 9/2 | 9/10 | 9/10 | 
+
+| draft-wang-idr-vpn-prefix-orf-03 | Susan Hares  | rejected | forward to ISE | revision -04  | IDR Chairs feedback for ISE  | 7/29 to 9/2 | IETF-115 |  
 
 
 ## Adoption Process - upcoming Adoptions 
