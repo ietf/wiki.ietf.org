@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-10-14T18:35:15.425Z
+date: 2022-11-05T14:12:33.578Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -97,7 +97,7 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 
 	
 ## Miscellaneous
-The IESG has a private Wiki Site.
+The IESG has a [private Wiki Site](https://iesg.privatewikis.ietf.org/en/home).
 
 The IETF Chair has a demanding [Chair Timeline](chairtimeline) to plan IETF meetings.
 
