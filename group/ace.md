@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T15:59:29.893Z
+date: 2022-11-05T16:05:32.494Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -18,12 +18,12 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 
 |  Profile name | Use case | Role of Client | Role of RS | C-RS protocol | Com. sec. | Dependency | Implementations | Drafts |
 |------------|--------------|----------|----------------|------------|---------------|-----------|------------|-----------------|--------|
-| coap_dtls | Generic REST access | Any Client | Any RS | CoAP | DTLS | - |[https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch], [https://github.com/SEI-TTG/ace-client/wiki SEI-ACE] | [ref1][1] |
-| coap_oscoap | Generic REST access | Any Client | Any RS | CoAP | OSCOAP| - | [https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch] | [ref2][2] |
+| coap_dtls | Generic REST access | Any Client | Any RS | CoAP | DTLS | - | [RISE](https://bitbucket.org/marco-tiloca-sics/ace-java), [jimsch](https://github.com/Com-AugustCellars/Oauth-Authz), [SEI-ACE](https://github.com/SEI-TTG/ace-client/wiki) | [ref1][1] |
+| coap_oscoap | Generic REST access | Any Client | Any RS | CoAP | OSCOAP| - | [RISE](https://bitbucket.org/marco-tiloca-sics/ace-java), [jimsch](https://github.com/Com-AugustCellars/Oauth-Authz) | [ref2][2] |
 | publisher | Publish on topic | Publisher | Broker | CoAP | COSE | [ref1][1], [ref2][2] | - | [ref3][3] |
-| subscriber | Subscribe to topic | Subscriber | Broker | CoAP | COSE | ref1][1], [ref2][2] | - |[#ref3 (3)]|
-| mqtt_tls |MQTT access|publisher/subscriber|Broker|MQTT|TLS| | [https://github.com/nominetresearch/ace-mqtt-mosquitto Nominet] |[#ref4 (4)]|
-| coap_ipsec |Generic REST access|Any Client|Any RS|CoAP|IPsec| - | [https://gitlab.com/ace-ipsec-profile/internet-draft/tree/master/contiki_zoul_ipsec/examples/ace-token-ike RISE] |[#ref5 (5)]|
+| subscriber | Subscribe to topic | Subscriber | Broker | CoAP | COSE | [ref1][1], [ref2][2] | - | [ref3][3] |
+| mqtt_tls |MQTT access|publisher/subscriber|Broker|MQTT|TLS| | [Nominet](https://github.com/nominetresearch/ace-mqtt-mosquitto) | [#ref4 (4)] |
+| coap_ipsec | Generic REST access |Any Client | Any RS | CoAP | IPsec | - | [RISE](https://gitlab.com/ace-ipsec-profile/internet-draft/tree/master/contiki_zoul_ipsec/examples/ace-token-ike) | [ref5][5] |
 |...|...|...|...|...|...| ... | ... |...|
 
 ## Other ACE profile related drafts
