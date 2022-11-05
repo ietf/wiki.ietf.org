@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T17:17:14.262Z
+date: 2022-11-05T17:18:04.163Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -45,6 +45,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA |
 |---|---|---|---|---|---|---|
+| none |  |  |  |  |  |  |   | 
 
 ## In Queue of AD: Awaiting AD Feedback
 
