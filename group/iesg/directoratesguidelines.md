@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2022-09-27T15:54:06.234Z
+date: 2022-11-05T14:55:47.262Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -26,21 +26,21 @@ Finally, it is also an opportunity for the ART reviewers to learn about other ar
 
 This page describes the general process that is common for all review teams. Each area also has its own specific page:
 
-* [wiki:ARTDir ART]
-* [https://trac.ietf.org/trac/gen/wiki Gen]
-* [https://datatracker.ietf.org/group/intdir/about/ Int]
-* [https://datatracker.ietf.org/group/iotdir/about/ IoT]
-* [https://trac.ietf.org/trac/ops/wiki/Directorates Ops]
-* [https://trac.ietf.org/trac/rtg/wiki/RtgDir Rtg]
-* [https://trac.ietf.org/trac/sec/wiki/SecDirReview Sec]
-* [https://trac.ietf.org/trac/tsv/wiki/TSVART Tsv]
+* [ART](/group/iesg/ARTDir)
+* [GEN](https://trac.ietf.org/trac/gen/wiki)
+* [INT](https://datatracker.ietf.org/group/intdir/about/)
+* [IoT](https://datatracker.ietf.org/group/iotdir/about/)
+* [OPS](https://trac.ietf.org/trac/ops/wiki/Directorates)
+* [RTG](https://trac.ietf.org/trac/rtg/wiki/RtgDir)
+* [SEC](https://trac.ietf.org/trac/sec/wiki/SecDirReview)
+* [TSV](https://trac.ietf.org/trac/tsv/wiki/TSVART)
 
-Another important links is the collected list of typical issues by area[https://trac.ietf.org/trac/gen/wiki/ExpertTopics Expert Topics].
+Another important links is the collected list of typical issues by area [Expert Topics](https://trac.ietf.org/trac/gen/wiki/ExpertTopics).
 
 ## Review Tool 
 
 Reviews are managed using a specific tool. Reviewers can log in to the tool with their usual datatracker credentials
-here: [https://datatracker.ietf.org/group/reviewteam/reviews https://datatracker.ietf.org/group/<''review team''>/reviews/]
+here: [<''review team''>/reviews](https://datatracker.ietf.org/group/reviewteam/reviews)
 
 See also:
 
