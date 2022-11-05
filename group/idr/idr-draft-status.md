@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T16:37:11.533Z
+date: 2022-11-05T16:49:43.648Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -98,29 +98,29 @@ For information on adoption process:  [[IDR adoption process]]
 
 | draft | Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA |
 |---|---|---|---|---|---|
-
-| [draft-wang-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-wang-idr-vpn-prefix-orf/) | Susan Hares  | rejected | forward to ISE | revision -04  | IDR Chairs feedback for ISE  | 7/29 to 9/2 | IETF-115 |  
-
+| [draft-wang-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-wang-idr-vpn-prefix-orf/) | Susan Hares  | IDR chairs review | forward to ISE | 7/29 to 9/2  | IETF-115 | 11/6 |  
+| [draft-dong-idr-node-target-ext-comm](https://datatracker.ietf.org/wg/idr/documents) | Susan Hares | Chairs review | 9/27 to 10/11 | IETF-115 discuss | 11/6 | 
 
 ## Adoption Process - upcoming Adoptions 
 
 | draft | Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
 |---|---|---|---|---|---|
-| draft-sas-idr-maxprefix-inbound | Susan Hares | adoption lacks support | 2nd call | TBD | TBD  | 9/6 to 9/20  ||
-| draft-dong-sr-policy-extensions-for-nrp-00 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 | 
-| draft-dong-idr-node-target-ext-comm-05 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 ||
-| draft-zzhang-idr-rt-derived-community-02 | Susan Hares | IPR call | TBD | TBD | TBD | 9/12 to 9/26 | 
+| draft-zzhang-idr-rt-derived-community-02 | Susan Hares | IPR + Adoption | TBD | TBD | TBD | 11/6 to 11/21 | 
+| draft-sas-idr-maxprefix-inbound | Susan Hares | adoption lacks support | 2nd call | TBD | TBD  | 11/6 to 11/21  ||
+| draft-dong-sr-policy-extensions-for-nrp-00 | Susan Hares | IPR call | TBD | TBD | TBD | 11/6 to 11/21 to 9/26 | 
+| draft-zzhang-idr-tunnel-encapsulation-label-stack | adoption| IPR call | authors revise | TBD | TBD | TBD |  
+ 
 
 ## Adoption Process - drafts on hold
 |---|---|---|---|---|---|
 | draft-zhou-idr-bgp-srmpls-elp-03 | Susan Hares | IPR OK | Adoption call | TBD | TBD | on hold  | 
 | draft-chen-bgp-redist | Susan Hares | on hold  | IDR Chairs review | TBD | TBD | on hold | 
 | draft-wu-idr-bgp-segment-allocation-ext-08 | Susan Hares | on hold  | IPR check | TBD | TBD | on hold  | 
-| draft-zzhang-idr-tunnel-encapsulation-label-stack | idr charis | IPR call | authors revise | TBD | TBD | TBD |  
+
 
 ## Adoption Process Major work items
 
-### Data Center Scoped Autoconfiguration Work (Jeff Haas) (5/25/27) No drafts adopted
+### Data Center Scoped Autoconfiguration Work (Jeff Haas) (5/25/27) No Drafts Adopted - Will sponsor to ISE 
 | draft  | Focus | Current state | Next Step | Adoption call | IPR check |  
 |---|---|---|---|---|---|
 | draft-acee-idr-lldp-peer-discovery | Layer 2 | List discuss 3/4-3/18 | Adoption call | TBD | 5/2-5/27 | 
