@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2022-07-23T20:50:31.832Z
+date: 2022-11-05T14:46:47.244Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -15,7 +15,7 @@ The DISPATCH WG is chartered to bring on new work in the ART area and provide a 
 Please get in touch with the chairs if you have questions: Kirsty and Shuping, dispatch-chairs@ietf.org
 It's tough navigating the IETF and we're here to help.
 
-## I want to be dispatched, what do I do? 
+# I want to be dispatched, what do I do? 
 
 Bring up your intentions on the DISPATCH list (i.e. please send an email with your idea or draft to dispatch@ietf.org) and if you want agenda time, email the chairs (see "How to get on the agenda" below): dispatch-chairs@ietf.org
 
@@ -33,10 +33,19 @@ DISPATCH is not the only path to getting work started in the ART area, but it ca
 * New work item in DISPATCH WG
 * Declination to adopt the work at that time
 
-## How to get on the agenda 
+# How to get on the agenda 
 Email the chairs and email the dispatch list. If you email at least 4 weeks before the meeting to ask for a slot, you go to the front of the list for agenda time. But get in touch anyway if you missed this soft deadline and we'll see what we can do.
 
 The chairs will aim to announce topics that have been dispatched for a particular IETF meeting 4 weeks before the meeting starts and update as necessary. Please cut us slack whilst there's a global pandemic and plenty of cyber attacks going on.
 
 A complete list of deadlines for IETF meetings is available here: [https://datatracker.ietf.org/meeting/important-dates/]
 
+# Background: Process for Determining Deadlines for DISPATCH WG
+
+In order to optimize f2f meeting time and to expedite work items, the DISPATCH WG sets deadlines for topics prior to each IETF meeting to ensure sufficient ML discussion. Please note that the exact deadlines for the upcoming meeting are summarized at the bottom of this wiki as soon as they are announced on the WG Mailing list. The approximate deadlines are as follows:
+
+* 1st Deadline: Cutoff date to notify the chairs/DISPATCH WG of plans to submit a proposal. Approximately 8 weeks prior to IETF meeting and 1-2 weeks before the BoF proposal request deadline. This deadline is roughly 4-8 weeks after the prior IETF meeting ends. This allows time for updating and discussing work items from previous meeting so that they can be potentially be dispatched prior to next meeting, as well as discussion of new topics such that a well scoped charter and deliverables can be provided by this deadline.
+* 2nd Deadline: Cutoff for charter proposals for topics
+* 3rd Deadline: Topics that are to be the focus of IETF meeting are announced (around the time of the AD BoF approval date) - approximately 3 weeks prior to -00 deadline and 4 weeks prior to draft deadline. This deadline allows focused discussion of these items and allows time for refinement of proposals to optimize any f2f meeting time.
+
+Please note that the exact disposition for a topic may (per the usual process) require follow-up and confirmation by the ADs and/or IESG or with another WG to ensure agreement with the DISPATCH WG consensus for a topic.
