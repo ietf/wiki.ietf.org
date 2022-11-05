@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2022-11-05T15:06:28.691Z
+date: 2022-11-05T15:07:02.211Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -136,7 +136,7 @@ The review should apply generally agreed IETF criteria, such as
  
 as well as any other applicable architectural or procedural documents. It is important that reviews give precise references to such criteria when relevant.
 
-== What is a Serious Issue? ==
+## What is a Serious Issue? 
 
 When is a reviewer likely to flag an issue as '''major''', which may well
 lead to a DISCUSS ballot in the IESG unless it's fixed in advance?
