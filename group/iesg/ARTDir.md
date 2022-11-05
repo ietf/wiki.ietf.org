@@ -2,7 +2,7 @@
 title: Gen ART
 description: 
 published: true
-date: 2022-11-05T16:04:36.810Z
+date: 2022-11-05T16:06:50.239Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-11-05T16:04:36.810Z
@@ -129,13 +129,14 @@ However, all these are judgment calls in the end.
 ### Draft Email Aliases
 
 The following aliases can be helpful in getting the reviews to the right targets, replacing  draftname by !draft-ietf-wg-topic  (without -xx version)
-
-| `draftname@ietf.org`	 | Draft authors (for now, could change)
-| `draftname.authors@ietf.org` | Draft authors
-| `draftname.chairs@ietf.org` | WG Chairs (if the draft is a WG draft)
-| `draftname.notify@ietf.org` | The addresses entered into the tracker's  email notification field for the draft
-| `draftname.ad@ietf.org` | The sponsoring AD, if the draft has gone to the IESG
-| `draftname.all@ietf.org` | All of the above, merged into one alias
+| --- | --- |
+| `draftname@ietf.org`	 | Draft authors (for now, could change) 
+|
+| `draftname.authors@ietf.org` | Draft authors |
+| `draftname.chairs@ietf.org` | WG Chairs (if the draft is a WG draft) |
+| `draftname.notify@ietf.org` | The addresses entered into the tracker's  email notification field for the draft |
+| `draftname.ad@ietf.org` | The sponsoring AD, if the draft has gone to the IESG |
+| `draftname.all@ietf.org` | All of the above, merged into one alias |
 
 ### Mailing List
 
