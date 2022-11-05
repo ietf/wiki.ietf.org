@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T14:58:38.026Z
+date: 2022-11-05T15:03:48.427Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -12,12 +12,12 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ### New RFCs
 
-| Name | Author | RFC # | Status | Date | WG LC Date | 
+| Name | Shepherd | RFC # | Status | Date | WG LC Date | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ext-com-registry-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ext-com-registry-05) | Susan Hares | [RFC9184](https://www.rfc-editor.org/rfc/rfc9184) | Published | 1-2022 |  | 
 | [draft-ietf-idr-bgp-open-policy-23](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-open-policy-23) | Susan Hares |  [RFC9234](https://www.rfc-editor.org/rfc/rfc9234) | Published | 5-2022 | | 
-| [draft-ietf-idr-bgp-ls-sbfd-extensions-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sbfd-extensions-05) |  Jeff Haas | [RFC9247](https://www.rfc-editor.org/rfc/rfc9247) | Published | 6-2022 | | 
-| [draft-ietf-idr-bgp-ls-app-specific-attr-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-app-specific-attr-16) | Keyur Patel| [RFC9294](https://ww.rfc-editor.org/rfc/rfc9294) |  Aug-22 | Nov-17-2020 | 
+| [draft-ietf-idr-bgp-ls-sbfd-extensions-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sbfd-extensions-05) |  Jeff Haas | [RFC9247](https://www.rfc-editor.org/rfc/rfc9247) | Published | 6-2022 | |  
+| [draft-ietf-idr-bgp-ls-app-specific-attr-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-app-specific-attr-16) | Keyur Patel| [RFC9294](https://ww.rfc-editor.org/rfc/rfc9294) |  Published | Aug-22 | Nov-17-2020 | 
 |---|---|---|---|---|---|
 
 ## At RFC Editor
