@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T16:05:32.494Z
+date: 2022-11-05T16:06:17.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -36,10 +36,10 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 
 ## References
 
-**CoAP-DTLS profile**
+CoAP-DTLS profile:
 [1]: https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize
 
-OSCOAP profile
+OSCOAP profile:
 [2]: https://tools.ietf.org/html/draft-seitz-ace-oscoap-profile
 
 Publish-Subscribe profile
@@ -57,7 +57,7 @@ Joining OSCOAP multicast groups:
 Security for Low-Latency Group Communication:
 [7]: https://tools.ietf.org/html/draft-somaraju-ace-multicast
 
-== Background info ==
+## Background info
 
 Appendix C of the ACE Framework lists the requirements on profiles of this framework which is the basis for the comparison here.
 https://tools.ietf.org/html/draft-ietf-ace-oauth-authz-07#appendix-C
