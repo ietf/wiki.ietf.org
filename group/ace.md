@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T15:51:27.013Z
+date: 2022-11-05T15:54:42.506Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -15,6 +15,11 @@ dateCreated: 2022-11-05T14:52:59.665Z
 In the ACE WG meeting at IETF #99 it was decided to use the Wiki to make a roadmap for the completion of the authorization-related work, in particular the dependencies between the ACE profiles. 
 
 Instructions for ACE profile authors: Please verify/fill in the details of the profile in the table. Further information can be detailed below. NOTE: This does not have to be a complete description of the profile, but an outline of what is contributed and how it relates to other profiles.
+
+|            | Profile name | Use case | Role of Client | Role of RS | C-RS protocol | Com. sec. | Dependency | Implementations | Drafts |
+|------------|--------------|----------|----------------|------------|---------------|-----------|------------|-----------------|--------|
+| Nature     |              |          |                |            |               |           |            |                 |        |
+| Technology |              |          |                |            |               |           |            |                 |        |
 
 | Profile name | Use case | Role of Client | Role of RS | C-RS protocol | Com. sec. | Dependency | Implementations | Draft |
 |------------|------|------|------------|------|------|------|------|
