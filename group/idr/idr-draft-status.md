@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T17:15:46.311Z
+date: 2022-11-05T17:17:14.262Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -50,6 +50,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC done | Pub-Req | AD waiting Time |  ETA | Time since WG LC |  
 |---|---|---|---|---|---|---|---|---|
+
 | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd)  | Keyur Patel | AD's queue | AD review  | Nov-11-2021 | Feb-11-2022  | 182 days |  TBD | 182 days | 
 | [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities) | Keyur Patel | AD's queue | AD review | Mar-11-2022 | Apr-30-2022 | 154 days |TBD | 154 days | 
 | [draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/drafat-ietf-idr-segment-routing-te-policy) | Susan Hares | in AD's queue | IESG | Aug-06-2021 | Jul-7-2022 |  37 days | TBD | 371 days ||
