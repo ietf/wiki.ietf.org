@@ -2,7 +2,7 @@
 title: WG IPR Discussions
 description: 
 published: true
-date: 2022-09-07T14:28:55.718Z
+date: 2022-11-05T16:43:36.109Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:24:10.401Z
@@ -11,7 +11,7 @@ dateCreated: 2022-09-07T14:24:10.401Z
 # IETF WG IPR Discussions
 This is a first draft of guidance to working groups about making informed IPR decisions:
 
-The IESG has recently received several questions about how working groups should discuss IPR disclosures when progressing drafts.
+The IESG has recently received several questions about how working groups should discuss IPR disclosures when progressing drafts. 
 
 The purpose of IPR disclosures is to allow working groups to make informed decisions about affected work. The working groups and their participants are empowered to make document adoption and other decisions using all available information, including their understanding of the IPR situation. Section 8 of RFC 3979 (BCP 79), "Evaluating Alternative Technologies in IETF Working Groups”, has guidance that may be useful for the working group. [Intellectual Property](/group/iesg/intellectualproperty) offers additional guidance on IPR disclosures, themselves.
 
