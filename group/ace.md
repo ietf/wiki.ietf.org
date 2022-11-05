@@ -2,7 +2,7 @@
 title: IETF ACE Working Group Wiki
 description: 
 published: true
-date: 2022-11-05T15:40:12.406Z
+date: 2022-11-05T15:43:54.850Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -18,9 +18,9 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 
 | Profile name | Use case | Role of Client | Role of RS|C-RS protocol | Com. sec. | Dependency | Implementations | Draft |
 | --- | --- | ---| --- | --- |--- | --- | --- |
-| coap_dtls | Generic REST access | Any Client | Any RS | CoAP | DTLS | - |[https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch], [https://github.com/SEI-TTG/ace-client/wiki SEI-ACE] | [#ref1][1] |
-| coap_oscoap |Generic REST access|Any Client|Any RS|CoAP|OSCOAP| - | [https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch] |[#ref2](https://tools.ietf.org/html/draft-seitz-ace-oscoap-profile)]|
-| publisher |Publish on topic|Publisher|Broker|CoAP|COSE| [#ref1](https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize),[#ref2 (2)] | - |[#ref3 (3)]|
+| coap_dtls | Generic REST access | Any Client | Any RS | CoAP | DTLS | - |[https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch], [https://github.com/SEI-TTG/ace-client/wiki SEI-ACE] | [ref1][1] |
+| coap_oscoap |Generic REST access|Any Client|Any RS|CoAP|OSCOAP| - | [https://bitbucket.org/marco-tiloca-sics/ace-java RISE], [https://github.com/Com-AugustCellars/Oauth-Authz jimsch] | [ref2][2] |
+| publisher |Publish on topic|Publisher|Broker|CoAP|COSE| [ref1][1], [ref2][2] | - |[#ref3 (3)]|
 | subscriber |Subscribe to topic|Subscriber|Broker|CoAP|COSE| [#ref1](https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize),[#ref2 (2)] | - |[#ref3 (3)]|
 | mqtt_tls |MQTT access|publisher/subscriber|Broker|MQTT|TLS| | [https://github.com/nominetresearch/ace-mqtt-mosquitto Nominet] |[#ref4 (4)]|
 | coap_ipsec |Generic REST access|Any Client|Any RS|CoAP|IPsec| - | [https://gitlab.com/ace-ipsec-profile/internet-draft/tree/master/contiki_zoul_ipsec/examples/ace-token-ike RISE] |[#ref5 (5)]|
