@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-05T11:57:50.071Z
+date: 2022-11-05T14:21:02.296Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -672,6 +672,7 @@ __Roughtime*__
     - Implement Internet-facing API which classifies the QUIC handshake behavior for a domain
     - Main goal is to present details about the anti-amplification limits and TLS performance
     - Extend it by rate-limiting, CDN identification, etc.
+    - Related background: [On the Interplay between TLS Certificates and QUIC Performance](http://ilab-pub.imp.fu-berlin.de/papers/nthms-ibtcq-22.pdf)
 
 - Code:
     - https://github.com/microsoft/quicreach
