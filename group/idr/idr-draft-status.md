@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T15:27:52.674Z
+date: 2022-11-05T15:39:39.711Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -37,10 +37,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC OK | Pub-Req | Time in State | ETA | Time since WG LC | 
 |---|---|---|---|---|---|---|---|---|
+| [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat |  Nov-17-2020 | May-21-2021 | 3 days | Dec-1-2022 | 633 days |  
 | [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc7752bis) | Jeff Haas | IETF LC | IETF LC write-up  | Aug-6-2021 |  Nov-10-2021 | 11 days | Nov-14-2022 | 350 | 
 | [draft-ietf-idr-bfd-subcode-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bfd-subcode) | Keyur Patel | IETF LC | IETF LC write-up  | Sept-9-2022 | Oct-20-2022  | 11 days |  Nov-15-2021 | 56 | 
 |---|---|---|---|---|---|---|---|---|
-
+ 
 ## Needs revision During AD Review
 
 | draft | Shepherd |  status | Next step | WG LC approval Date | Time in State | ETA |
@@ -51,7 +52,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd |  status | Next step | WG LC completed | AD waiting Time |  ETA | Time since WG LC |  
 |---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | 23 days | TBD | 633 days |   
-| draft-ietf-idr-rpd  | Keyur Patel | in AD's queue | Awaiting AD review  | Feb-11-2022   | 182 days |  TBD | 182 days | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd)  | Keyur Patel | in AD's queue | Awaiting AD review  | Feb-11-2022   | 182 days |  TBD | 182 days | 
 | draft-ietf-idr-wide-bgp-communities-06.txt | Keyur Patel | in AD's queue | awaiting AD review | Mar-11-2022 | 154 days ||TBD | 154 days | 
 | draft-ietf-idr-segment-routing-te-policy | Susan Hares | in AD's queue | IESG | Aug-06-2021 | 37 days | TBD | 371 days ||
 
