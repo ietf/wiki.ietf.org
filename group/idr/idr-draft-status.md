@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T17:15:17.879Z
+date: 2022-11-05T17:15:46.311Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -28,8 +28,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 
 ## IESG Approved
-| draft | Shepherd | status | Next step | WG LC OK | IESG OK | Time in state | 
-|---|---|---|---|---|---|---|---|
+| draft | Shepherd | status | Next step | WG LC OK | IESG OK | Time in state | Time | 
+|---|---|---|---|---|---|---|---|---|
 
 
 ## At IESG
