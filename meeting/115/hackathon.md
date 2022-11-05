@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-05T08:22:37.239Z
+date: 2022-11-05T08:44:56.045Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -735,6 +735,13 @@ __Roughtime*__
   - Tooling for BGPsec validation (MRT transcoder)
   - Alternative signature and digest schemes (EdDSA, Blake*)
 
+
+**One Tax API**
+- Champion(s)
+  - Benson Muite (benson_muite at emailplus dot org)
+- Project info
+  - Examine conformance tests in HARE related to [RFC 8032](https://datatracker.ietf.org/doc/html/rfc8032)
+  - Related [erratum](https://www.rfc-editor.org/errata/eid7031)
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
