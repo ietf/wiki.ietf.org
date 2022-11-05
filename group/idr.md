@@ -2,7 +2,7 @@
 title: IDR Working Group Web page
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2022-11-05T16:56:13.262Z
+date: 2022-11-05T17:03:06.188Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -19,17 +19,17 @@ If you have questions or concerns regarding the implementation requirement, plea
 ## Draft Status
 
 [idr-draft-status](idr-draft-status)
-[Feedback for BESS drafts](Feedback-idr-to-bess)
-Feedback for PCE drafts
-Feedback for Bier drafts
-Feedback for SIDROPS drafts
-Feedback on Yang Models
-Features for BGP Yang Models
+[Feedback for BESS drafts](/idr/Feedback-to-BESS)
+[Feedback for PCE drafts](/idr/Feedback-to-PCE)
+[Feedback for Bier drafts](/idr/Feedback-to-Bier)
+[Feedback for SIDROPS drafts](/idr/Feedback-to-SIDROPS)
+[Feedback on Yang Models](/idr/Feedback-Yang-Models)
+[Features for BGP Yang Models](/idr/BGP-Model-Features)
 
 ## Draft Implementation status
 
-Protocol implementations Reports
-Administrative draft testimonials
+[Protocol implementations Reports](/idr/BGP-implementation-report) 
+[Administrative draft testimonials](/idr/BGP-Admin-IANA)
 
 ## Notes on Current Adoption calls
 
