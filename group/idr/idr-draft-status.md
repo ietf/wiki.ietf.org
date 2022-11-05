@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T16:02:12.143Z
+date: 2022-11-05T16:02:35.094Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -59,7 +59,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC Done | Time | issues |  ETA | Time since WG LC |  
 | none  | 
-| [draft-ietf-idr-long-lived-gr](http://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr) | Jeff Haas | IESG Pub | Nov-1-2022 | 3 | TBD | Nov-15-2022 | 3 | 
+| [draft-ietf-idr-long-lived-gr](http://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr) | Jeff Haas | WG LC OK | IESG Pub | Nov-1-2022 | 3 | TBD | Nov-15-2022 | 3 | 
 |---|---|---|---|---|---|---|
 
 ## Past WG LC awaiting implementations
