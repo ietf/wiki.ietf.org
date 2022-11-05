@@ -2,7 +2,7 @@
 title: Hackathon Team Schedule
 description: 
 published: true
-date: 2022-11-04T22:11:13.313Z
+date: 2022-11-05T10:07:23.861Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:04:55.835Z
@@ -28,6 +28,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 | PQ Keys and Signatures in X.509  | Nov 6 - 10am and 1pm  |  https://www.ietf.org/how/meetings/gather/ hackathon room table G  |   |
 | Plugfest: BGP CT interop   | Nov 5th - 1 pm to 6 pm  | https://www.ietf.org/how/meetings/gather/ hackathon room table C  |   |
 | Plugfest: BGP CT interop   | Nov 6th - 1 pm to 4 pm  | https://www.ietf.org/how/meetings/gather/ hackathon room table C  |   |
+| Roughtime  | Nov 5th 1030 - 1600 UTC<br />Nov 6th 0930 - 1600 UTC   | https://www.ietf.org/how/meetings/gather/ hackathon room table H<br/>Slack invite link: https://join.slack.com/t/slack-qzs1642/shared_invite/zt-1j55msu1y-dJ1U_lk4OC7hkBr~8uVjzA  |   |
 |   |   |   |   |
 
 
