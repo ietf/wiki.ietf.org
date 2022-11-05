@@ -2,7 +2,7 @@
 title: Typical ART Area Issues
 description: 
 published: true
-date: 2022-11-05T15:21:45.195Z
+date: 2022-11-05T15:30:57.183Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:21:45.195Z
@@ -94,13 +94,16 @@ To formally describe your XML format, you can use either ​W3 XML Schema or ​
 
 XML is, by nature, extensible. If you formally describe your XML format using ​W3 XML Schema, use the available facilities to declare which elements are extensible and how. For example, use the following constructs:
 
-    <xs:anyAttribute namespace="##other" processContents="lax"/>
+```
+<xs:anyAttribute namespace="##other" processContents="lax"/>
 
-    (Any additional attribute is allowed on the element.)
+(Any additional attribute is allowed on the element.)
 
-    <xs:any namespace="##other" processContents="lax"/>
+<xs:any namespace="##other" processContents="lax"/>
 
-    (Any additional subordinate element is allowed.)
+(Any additional subordinate element is allowed.)
+```
+
 
 A good article on this topic is [http://www.pacificspirit.com/Authoring/Compatibility/ProvidingCompatibleSchemaEvolution.html]
 
