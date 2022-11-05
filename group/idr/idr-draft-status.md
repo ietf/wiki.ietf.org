@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T17:12:02.851Z
+date: 2022-11-05T17:13:30.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -57,8 +57,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## In Queue of WG Shepherds
 
-| draft | Shepherd |  status | Next step | WG LC Done | Time | issues |  ETA | Time since WG LC |  
-| none  | 
+| draft | Shepherd |  status | Next step | WG LC Done | Time | issues |  ETA | Time since WG LC |   
+|---|---|---|---|---|---|---|
 | [draft-ietf-idr-long-lived-gr](http://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr) | Jeff Haas | WG LC OK | IESG Pub | Nov-1-2022 | 3 | TBD | Nov-15-2022 | 3 | 
 |---|---|---|---|---|---|---|
 
@@ -69,10 +69,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 
 ## Past WG LC - starting timeout 
-| draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
+| draft | Shepherd |  status | Next step | WG LC Date | Time | Timeout | 
 |---|---|---|---|---|---|
-| [draft-ietf-idr-rs-bfd](http://datatracker.ietf.org/doc/draft-ietf-idr-rs-bsd) | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | TBD |  |
-| draf
+| [draft-ietf-idr-rs-bfd](http://datatracker.ietf.org/doc/draft-ietf-idr-rs-bsd) | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | 12-31-2022| 
+
 
 ## WG LC 
 | draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
