@@ -2,7 +2,7 @@
 title: IETF Wikis being moved from Trac
 description: This page provides an overview of wikis being moved from Trac.
 published: true
-date: 2022-11-05T14:26:43.088Z
+date: 2022-11-05T14:27:21.631Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:12:01.565Z
@@ -26,10 +26,6 @@ The move status of all IETF wikis is recorded on a [Google Sheet](https://docs.g
 Here are some tips you might find useful when moving from Trac markup to the Markdown used for Wiki.js
 
 Use an external text editor
-Note that RFC links auto expand
-Update datatracker pointers
-
-RFC2610
+Make sure to update pointers in IETF Datatracker
 
 # Next steps
-Consider updating Google (forcing it to find new wiki)
