@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T16:15:12.971Z
+date: 2022-11-05T16:28:23.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -83,24 +83,25 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
 |---|---|---|---|---|---|  
 | [draft-ietf-idr-bgp-model](http://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model) | Jie Dong | TBD | WG LC |  TBD | TBD | TBD |  
-| [draft-ietf-idr-sr-policy-fit](http:://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit | Susan Hares | need 2 | IPR  | TBD | TBD | TBD ||
+| [draft-ietf-idr-sr-policy-fit](http:://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) | Susan Hares | need 2 | IPR  | TBD | TBD | TBD ||
+|---|---|---|---|---|---| 
 
 ## Adopted
 
 For information on adoption process:  [[IDR adoption process]]
 | draft ||Shepherd | status | Next step | WG adoption date | Adoption call | Draft uploaded |  
 |---|---|---|---|---|---|
+| [draft-dunbar-idr-5G-edge-compute-app-meta-data](https://datatracker.ietf.org/doc/draft-dunbar-idr-5g-edge-compute-bgp-usage) | Susan Hares | Adopted held pending CAN BOF| WG Draft | 7/29 to 8/29 | 9/10 | IETF-115  |
 
 
 ## In WG Adoption Process
 
 | draft | Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA |
 |---|---|---|---|---|---|
-| draft-dunbar-idr-5G-edge-compute-app-meta-data | Susan Hares | Chairs Review | Adoption | 7/29 to 8/29 | 9/10 | 9/10  ||
-| draft-spaghetti-idr-deprecate-8-9-10 | Susan Hares | Chairs review | Adoption | 7/29 to 8/29  | 9/10  |  9/10 | 
+| [draft-dunbar-idr-5G-edge-compute-app-meta-data](https://datatracker.ietf.org/doc/draft-dunbar-idr-5g-edge-compute-bgp-usage) | Susan Hares | Adopted held pending CAN BOF| WG Draft | 7/29 to 8/29 | 9/10 | IETF-115  |
 | draft-jiang-idr-ts-flowspec-srv6-policy | Susan Hares | Chairs Review | Adoption | 7/29 to 8/29 | 9/10 | 9/10 | 
-| draft-wang-idr-vpn-prefix-orf | Susan Hares  | revision -03  | IDR Chairs feedback  | 7/29 to 9/2 | 9/10 | 9/10 | 
-| draft-scudder-bgp-entropy-label-capability-version-3-00| Susan Hares | IPR call | TBD | TBD | TBD | 9/6 to 9/20 | 
+| draft-wang-idr-vpn-prefix-orf-03 | Susan Hares  | revision -03  | IDR Chairs feedback  | 7/29 to 9/2 | 9/10 | 9/10 | 
+
 
 ## Adoption Process - upcoming Adoptions 
 
