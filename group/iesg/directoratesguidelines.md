@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2022-11-05T14:58:12.463Z
+date: 2022-11-05T15:00:37.633Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -39,9 +39,8 @@ Another important links is the collected list of typical issues by area [Expert 
 
 ## Review Tool 
 
-Reviews are managed using a specific tool. Reviewers can log in to the tool with their usual datatracker credentials
-here: https ://datatracker.ietf.org/group/<''review team''>/reviews/
-
+Reviews are managed using a specific tool. Reviewers can log in to the tool with their usual datatracker credentials here: `https://datatracker.ietf.org/group/<''review team''>/reviews/`
+ 
 See also:
 
 * [Review Tool for reviewers](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto) - a user guide for '''reviewers'''
