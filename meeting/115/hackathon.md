@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-05T10:38:40.590Z
+date: 2022-11-05T11:19:39.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -304,6 +304,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Project info
 A living document can be found here that participants are welcome to contribute to:
 https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/edit?usp=sharing
+
+Github: https://github.com/IETF-Hackathon/pqc-certificates
 
   - Testing of PQ key and signature formats.  We suggest usage of Dilithium, Falcon, Sphincs+, and Composite keys and signature algorithms in Certs, CRLs, CSRs, PKCS#12s, CMS SignedData, and potentially others like OCSP, Timestamping, CMP, etc.  
   - Testing of crypto agility:  we know the final PQ OIDs will be changing, and there have already been multiple suggestions for public and private key encodings (ex.: the differences between Dilithium and Falcon encodings in draft-uni-qsckeys, and draft-massimo-lamps-pq-sig-certificates).  We want to make our implementations as crypto agile as possible so it is trivial to update encodings and plug in new OIDS as soon as the standards are finalized.   
