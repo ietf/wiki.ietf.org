@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2022-11-05T15:00:37.633Z
+date: 2022-11-05T15:06:28.691Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -44,7 +44,7 @@ Reviews are managed using a specific tool. Reviewers can log in to the tool with
 See also:
 
 * [Review Tool for reviewers](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto) - a user guide for '''reviewers'''
-* [https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowtoSecretary Review Tool for secretary] - a user guide for the review team '''secretary'''
+* [Review Tool for secretary](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowtoSecretary) - a user guide for the review team '''secretary'''
 
 ## Timeline of Review 
 
@@ -71,7 +71,7 @@ The process for reviewing documents at **IETF Last Call**:
  * The reviewer sends the review to the review team list, the AD, WG chairs & authors, and optionally to the WG mailing list. 
  * Since IETF Last Call comments are commonly sent to the IETF discussion list, the reviewer may also choose to do that; in any case the review will be public.
 
-The IESG Telechats are every other Thursday, with the [https://datatracker.ietf.org/iesg/agenda/ agenda] finalized on the Thursday evening one week prior to the '''IESG evaluation''' during the Telechat. The process for reviewing documents when they appear on the IESG agenda:
+The IESG Telechats are every other Thursday, with the [agenda](https://datatracker.ietf.org/iesg/agenda/) finalized on the Thursday evening one week prior to the '''IESG evaluation''' during the Telechat. The process for reviewing documents when they appear on the IESG agenda:
 
  * The Secretary (or sometimes the relevant AD) makes Telechat review assignments at the same time as Last Call assignments.  
  * For documents that were reviewed at Last Call, the same reviewer is assigned and a new review is only asked for if the document is significantly revised or issues have not been resolved.
@@ -82,7 +82,7 @@ The IESG Telechats are every other Thursday, with the [https://datatracker.ietf.
 
 ## Form of review 
 
-Each review must include one of the following at the beginning of the review, or an equivalent text if specified by the relevant specific page [wiki:DirectoratesGuidelines#Purpose above]. This text is pre-entered if the review is completed in the [https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto Review Tool].
+Each review must include one of the following at the beginning of the review, or an equivalent text if specified by the relevant specific page [above](wiki:DirectoratesGuidelines#Purpose). This text is pre-entered if the review is completed in the [Tool](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto Review).
 
 
  * For '''Early''' reviews: I am the assigned ''review team'' reviewer for this draft. For background on ''review team'', please see the FAQ at TODO. Please resolve these comments along with any other comments you may receive.
@@ -118,21 +118,21 @@ For specific topics to keep in mind while reviewing, depending on the ''review t
 
 The review should apply generally agreed IETF criteria, such as
 
- [https://datatracker.ietf.org/doc/rfc1958/ RFC1958] The Architectural Principles of the Internet
+ RFC1958 - The Architectural Principles of the Internet
 
- [https://datatracker.ietf.org/doc/rfc3426/ RFC3426] General Architectural and Policy Considerations
+ RFC3426 - General Architectural and Policy Considerations
 
- [https://datatracker.ietf.org/doc/rfc3439/ RFC3439] Some Internet Architectural Guidelines and Philosophy
+ RFC3439 - Some Internet Architectural Guidelines and Philosophy
 
- [https://www.ietf.org/standards/ids/checklist/ NITS] The "I-D Nits" document maintained by the IESG
+ [NITS] The "I-D Nits" document maintained by the IESG
 
  [https://datatracker.ietf.org/doc/rfc8126/ BCP26] Guidelines for Writing an IANA Considerations Section in RFCs
 
  [https://datatracker.ietf.org/doc/rfc3552/ BCP72] Guidelines for Writing RFC Text on Security Considerations
 
- [https://www.rfc-editor.org/styleguide/ RFC Style Guide]
+ [RFC Style Guide](https://www.rfc-editor.org/styleguide/)
 
- [https://www.rfc-editor.org/materials/abbrev.expansion.txt RFC Editor Abbreviations List]
+ [RFC Editor Abbreviations List](https://www.rfc-editor.org/materials/abbrev.expansion.txt)
  
 as well as any other applicable architectural or procedural documents. It is important that reviews give precise references to such criteria when relevant.
 
