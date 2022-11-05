@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-05T14:51:21.557Z
+date: 2022-11-05T14:55:15.240Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -31,7 +31,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd | status | Next step | approval Date | Time in state | 
 |---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-flex-algo | Jie Dong | IETF LC | Awaiting AD review | Nov-17-2020 | 6 days | TBD | 633 days | 
+
 
 ## At IESG
 
