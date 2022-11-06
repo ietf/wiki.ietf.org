@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2022-11-06T15:56:45.607Z
+date: 2022-11-06T18:09:05.798Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -27,6 +27,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | PDMv2/IPv6 EH Testing | Nalini Elkins| nalini.elkins@insidethestack.com | |
 | 经证明的 TLS | Hannes Tschofenig | hannes.tschofenig@arm.com | |
 | Satellite-Routing  | Qiangzhou Gao  |  gaoqiangzhou@huawei.com
-| openSCHC | Dominique Barthel | firstname lastname at orange.com | openschc.net | 
+| openSCHC | Dominique Barthel | firstname lastname at orange.com | openschc.net | Streamlining Social Decision Making | Stephen McQuistin  | sm at smcquistin.uk | https://sodestream.github.io  |
 |   |   |   |   |
 |   |   |   |   |
