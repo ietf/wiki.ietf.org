@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-11-05T14:48:03.497Z
+date: 2022-11-06T11:57:49.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -277,6 +277,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
     
 - Specifications:
   - https://datatracker.ietf.org/doc/rfc7285/
+  - https://datatracker.ietf.org/doc/draft-giraltyellamraju-alto-bsg-requirements/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-path-vector/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-unified-props-new/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-performance-metrics/
