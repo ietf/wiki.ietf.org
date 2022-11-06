@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-06T11:23:30.873Z
+date: 2022-11-06T12:59:12.373Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -75,7 +75,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg
 ### Sunday Night Social
 
 Time: 21:00 - whenever
-Location: Tyburn Kitchen Semi-Private
+Location: Tyburn Kitchen Semi-Private, Ground Floor [(Map)](/tyburn-kitchen.pdf)
 What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 
 ## Monday, November 7, 2022 
