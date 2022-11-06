@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2022-11-06T14:22:09.495Z
+date: 2022-11-06T14:51:23.611Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -25,6 +25,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | IPMON (IPWAVE) | Yiwen (Chris) Shen | chrisshen [AT] ks.ac.kr |   |
 | I2NSF  | Patrick Lingga | patricklink888 [AT] gmail.com |   |
 | PDMv2  | Nalini Elkins | nalini.elkins@insidethestack.com |   |
+| attested TLS  | Hannes Tschofenig | hannes.tschofenig@arm.com |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
