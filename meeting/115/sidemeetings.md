@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-06T16:34:21.678Z
+date: 2022-11-06T16:34:49.325Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -263,7 +263,7 @@ Location: Mezzanine Level
 |  16:30   | SCIM                 |          |             |                         |                      |                       |  
 |  17:00   | SCIM                 |          |             |                         |                      |                       |  
 |  17:30   |   ALTO                |   Discuss Current WG status       |     jros@qti.qualcomm.com        |                         |     https://ietf.webex.com/ietf/j.php?MTID=ma0e97cc97c4cd71bb59cf1a094682686                 |                       |  
-|  18:0   |   ALTO                |   Discuss Current WG status       |     jros@qti.qualcomm.com        |                         |     https://ietf.webex.com/ietf/j.php?MTID=ma0e97cc97c4cd71bb59cf1a094682686                 |                       |  
+|  18:00   |   ALTO                |   Discuss Current WG status       |     jros@qti.qualcomm.com        |                         |     https://ietf.webex.com/ietf/j.php?MTID=ma0e97cc97c4cd71bb59cf1a094682686                 |                       |  
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
