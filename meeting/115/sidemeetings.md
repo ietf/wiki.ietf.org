@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-06T13:11:25.145Z
+date: 2022-11-06T13:12:13.933Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -222,9 +222,9 @@ Location: West Wing, First Floor
 |  13:30   |                  |          |             |                         |                      |                       |      
 |  14:00   |                  |          |             |                         |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   | IPMON     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
-|  15:30   | IPMON     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
-|  16:00   | IPMON     | Internet    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
+|  15:00   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
+|  15:30   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
+|  16:00   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  16:30   |                  |          |             |                         |                      |                       |    
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
