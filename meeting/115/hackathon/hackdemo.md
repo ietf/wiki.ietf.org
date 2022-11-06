@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2022-11-05T17:22:03.564Z
+date: 2022-11-06T14:12:16.143Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -22,8 +22,8 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |---|---|---|---|
 | L4S | Greg White | g.white@cablelabs.com  |   |
 | YANG tools | Qiufang Ma | maqiufang1@huawei.com  |   |
-|   |   |   |   |
-|   |   |   |   |
+| IPMON (IPWAVE) | Yiwen (Chris) Shen | chrisshen [AT] ks.ac.kr |   |
+| I2NSF  | Patrick Lingga | patricklink888 [AT] gmail.com |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
