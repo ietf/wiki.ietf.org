@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2022-07-23T21:04:07.625Z
+date: 2022-11-06T09:44:21.368Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -26,6 +26,8 @@ dateCreated: 2022-07-23T21:04:04.044Z
     * 2015-11 Authors have merged their proposals in draft-nitish-vrrp-bfd. Targeted for RTGWG
 * draft-mirsky-bfd-p2mp-vrrp-use-case
   * 2018-11: Adoption call ongoing in RTGWG.
+* draft-ali-spring-bfd-sr-policy
+* draft-liu-bfd-srv6-policy-encap
 
 # Non-WG S-BFD Documents of Interest
 * draft-ietf-idr-bgp-ls-sbfd-extensions - BGP Link-State Extensions for Seamless BFD.
