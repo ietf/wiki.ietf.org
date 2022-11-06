@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-06T20:59:18.269Z
+date: 2022-11-06T22:22:56.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -159,8 +159,8 @@ Location: West Wing, First Floor
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate [agenda](https://notes.ietf.org/emodir-20221108) |      [Zoom](https://ietf.zoom.us/j/85396289621?pwd=YWhYcWY4cmRVMnRFUnR1bWFoY0V3QT09) Meeting ID: 853 9628 9621 Passcode: 211534                 |    
 |  18:00   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate [agenda](https://notes.ietf.org/emodir-20221108)  |                       |    
-|  18:30   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
-|  19:00   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
+|  18:30   |     |  |        |         |                      |                       |          
+|  19:00   |      |   |       |        |                      |                       |          
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
