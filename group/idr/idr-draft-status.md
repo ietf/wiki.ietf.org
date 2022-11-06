@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-06T02:11:22.474Z
+date: 2022-11-06T03:22:27.980Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -106,7 +106,7 @@ For information on adoption process:  [[IDR adoption process]]
 | draft | Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA |
 |---|---|---|---|---|---|
 | [draft-wang-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-wang-idr-vpn-prefix-orf/) | Susan Hares  | IDR chairs review | forward to ISE | 7/29 to 9/2  | IETF-115 | 11/6 |  
-| [draft-dong-idr-node-target-ext-comm](https://datatracker.ietf.org/wg/idr/documents) | Susan Hares | Chairs review | 9/27 to 10/11 | IETF-115 discuss | 11/6 | 
+| [draft-dong-idr-node-target-ext-comm](https://datatracker.ietf.org/wg/idr/documents) | Susan Hares | Chairs review | 9/27 to 10/20 | IETF-115 discuss | 11/7 | 
 
 ## Adoption Process - upcoming Adoptions 
 
