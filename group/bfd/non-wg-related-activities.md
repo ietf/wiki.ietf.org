@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2022-11-06T09:44:21.368Z
+date: 2022-11-06T09:49:12.900Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -24,8 +24,10 @@ dateCreated: 2022-07-23T21:04:04.044Z
   * Re-split of BFD for VRRP proposal for p2p case after RTGWG didn't adopt merged document with IPR issues on the P2MP mechanism. ​Discussion
   * Previously: draft-nitish-vrrp-bfd and draft-mirsky-bfd-p2mp-vrrp-use-case
     * 2015-11 Authors have merged their proposals in draft-nitish-vrrp-bfd. Targeted for RTGWG
-* draft-mirsky-bfd-p2mp-vrrp-use-case
-  * 2018-11: Adoption call ongoing in RTGWG.
+* draft-ietf-rtgwg-vrrp-p2mp-bfd
+  * Replaces draft-mirsky-bfd-p2mp-vrrp-use-case
+
+# Non-Adopted BFD Documents of Interest
 * draft-ali-spring-bfd-sr-policy
 * draft-liu-bfd-srv6-policy-encap
 
