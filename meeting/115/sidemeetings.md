@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-06T13:12:13.933Z
+date: 2022-11-06T14:35:25.925Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -180,9 +180,9 @@ Location: Mezzanine Level
 |  10:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  10:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |                  |          |             |                         |                      |                       |    
-|  12:00   |                  |          |             |                         |                      |                       |  
-|  12:30   |                  |          |             |                         |                      |                       | 
+|  11:30   |     open source routing@ietf             |     rtg     |     lberger@labn.net        |                         |                      |                       |    
+|  12:00   |   open source routing@ietf               |  rtg        |             |                         |                      |                       |  
+|  12:30   |   open source routing@ietf               |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |  YANG Versioning  |  OPS (NETMOD)   |  jason.sterne@nokia.com   | Discuss issues around 5 versioning drafts |  https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |    
 |  14:00   | YANG Versioning  |  OPS (NETMOD) | jason.sterne@nokia.com | Discuss issues around 5 versioning drafts | https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |          
