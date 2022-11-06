@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-06T01:58:54.706Z
+date: 2022-11-06T01:59:47.985Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -22,9 +22,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## At RFC Editor
 | draft | Shepherd | status | Next step | WG LC OK | IESG OK | RFC time | Time since WG LC |
-|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-flex-algo) | Jie Dong | RFC editor queue| Auth-48 | Nov-17-2020 | Aug-29-2022 | 851 days | 
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
+| [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-flex-algo) | Jie Dong | RFC editor queue| Auth-48 | Nov-17-2020 | Aug-29-2022 | 851 days | 123 | 
+|---|---|---|---|---|---|---|---|
 
 
 
