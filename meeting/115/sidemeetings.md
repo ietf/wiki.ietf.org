@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-06T16:34:49.325Z
+date: 2022-11-06T20:59:18.269Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -70,8 +70,8 @@ Location: West Wing, First Floor
 |  13:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |         
 |  14:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  TBD                    | TBD                      |          
 |  14:30   |                  |          |             |                         |                      |                       |          
-|  15:00   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
-|  15:30   |  Sustainability Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   Open discussions on metrics that should be included into a Sustainability Spec      |          TBD            |                       |          
+|  15:00   |     |   |      |         |                      |                       |          
+|  15:30   |    |  |      |       |                      |                       |          
 |  16:00   |                  |          |             |                         |                      |                       |  
 |  16:30   |                  |          |             |                         |                      |                       | 
 |  17:00   |                  |          |             |                         |                      |                       | 
