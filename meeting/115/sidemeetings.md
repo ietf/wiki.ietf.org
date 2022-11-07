@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T11:36:56.204Z
+date: 2022-11-07T13:12:14.390Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -256,11 +256,11 @@ Location: Mezzanine Level
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |                  |          |             |                         |                      |                       |         
 |  08:30   |                  |          |             |                         |                      |                       |         
-|  09:00   |                  |          |             |                         |                      |                       |         
-|  09:30   |                  |          |             |                         |                      |                       |         
-|  10:00   |                  |          |             |                         |                      |                       |         
-|  10:30   |                  |          |             |                         |                      |                       |         
-|  11:00   |                  |          |             |                         |                      |                       |          
+|  09:00   | SCITT                 | Security        | Hannes Tschofenig (hannes.tschofenig@arm.com)          | Use Cases and Architecture Discussion  | NA    |                       |         
+|  09:30  | SCITT                 | Security        | Hannes Tschofenig (hannes.tschofenig@arm.com)          | Use Cases and Architecture Discussion  | NA    |                       |  
+|  10:00   | SCITT                 | Security        | Hannes Tschofenig (hannes.tschofenig@arm.com)          | Use Cases and Architecture Discussion  | NA    |                       |       
+|  10:30   | SCITT                 | Security        | Hannes Tschofenig (hannes.tschofenig@arm.com)          | Use Cases and Architecture Discussion  | NA    |                       |             
+|  11:00  | SCITT                 | Security        | Hannes Tschofenig (hannes.tschofenig@arm.com)           | Use Cases and Architecture Discussion  | NA    |                       |       
 |  11:30   |                  |          |             |                         |                      |                       |   
 |  12:00   |                  |          |             |                         |                      |                       | 
 |  12:30   |                  |          |             |                         |                      |                       | 
