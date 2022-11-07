@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T11:34:10.901Z
+date: 2022-11-07T11:36:56.204Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -101,7 +101,7 @@ Location: West Wing, 1st floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
-|  17:30   |  Public Interest Technology Group (PITG) | N/A | Corinne Cath-Speth (corinnecath@gmail.com) and Gurshabad Grover (gurshabad@cis-india.org) | Public interest technology group |  TBA | TBA       |
+|  17:30   |  Public Interest Technology Group (PITG) | N/A | Corinne Cath-Speth (corinnecath@gmail.com) and Gurshabad Grover (gurshabad@cis-india.org) | Public interest technology group | https://us06web.zoom.us/j/89291161522?pwd=dUhoYXFmMkg0MFNoYVNReCtqc0xydz09 | -      |
 
 
 
