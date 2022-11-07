@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T13:12:14.390Z
+date: 2022-11-07T14:28:10.621Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -151,11 +151,11 @@ Location: West Wing, First Floor
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
 |  08:30   |   NOT AVAILABLE  |  NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE           |  NOT AVAILABLE    |  NOT AVAILABLE     | 
-|  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
-|  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
-|  10:00   |                  |          |             |                         |                      |                       | 
-|  10:30   |                  |          |             |                         |                      |                       |         
-|  11:00   |                  |          |             |                         |                      |                       |          
+|  09:00   |  SCITT  | SEC |  Hannes  |  Architecture and Use cases          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
+|  09:30   |  SCITT  |  SEC | Hannes  | Architecture and Use cases        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
+|  10:00   |   SCITT    |  SEC   |  Hannes |    Architecture and Use cases       |                      |                       | 
+|  10:30   |   SCITT      |  SEC  | Hannes  |    Architecture and Use cases     |                      |                       |         
+|  11:00   |   SCITT         |  SEC  |   Hannes   |   Architecture and Use cases   |                      |                       |          
 |  11:30   | SECDIR Lunch   |  SEC          |  SEC ADs             |                         |                      |                       |    
 |  12:00   | SECDIR Lunch   |  SEC         |  SEC ADs           |                         |                      |                       |  
 |  12:30   | SECDIR Lunch  |  SEC         |  SEC ADs           |                         |                      |                       | 
