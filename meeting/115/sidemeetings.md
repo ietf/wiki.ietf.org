@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T09:33:03.927Z
+date: 2022-11-07T09:50:30.361Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -225,7 +225,7 @@ Location: West Wing, First Floor
 |  15:00   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  15:30   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  16:00   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
-|  16:30   |                  |          |             |                         |                      |                       |    
+|  16:30   | REGEXT WG | ART | Pawel Kowalik (kowalik at denic.de) | Discuss draft-ietf-regext-rdap-openid                         |                      | https://us02web.zoom.us/j/82146104492?pwd=R2x3K0FjQjNmZjl4bmlMeGZWdVNOUT09 |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
 |  18:00   | Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN |[Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |    
