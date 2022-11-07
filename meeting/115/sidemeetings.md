@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T10:37:13.755Z
+date: 2022-11-07T11:34:10.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -63,9 +63,9 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |       
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  TBD |   TBD  |   
-|  12:00  |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  TBD |   TBD  |
-|  12:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  TBD |   TBD  |
+|  11:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82 |   TBD  |   
+|  12:00  |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82 |   TBD  |
+|  12:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82 |   TBD  |
 |  13:00   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
 |  13:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk5Zjc5YTItYzE0Ny00YTAyLWJiOWItODIxMjBjZmQ2ODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d                    | -                      |         
 |  14:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk5Zjc5YTItYzE0Ny00YTAyLWJiOWItODIxMjBjZmQ2ODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d                    | -                      |          
