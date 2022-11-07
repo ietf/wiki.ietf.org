@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-10-25T14:07:04.728Z
+date: 2022-11-07T10:18:42.911Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -126,7 +126,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|
 | --- | --- | --- |
-| draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19 |
+| draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19; dependent on PCEP-SRv6 / PCECC-SR  |
 
 ### Early IANA Allocations
 
