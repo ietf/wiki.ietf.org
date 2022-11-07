@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2022-11-07T11:03:39.706Z
+date: 2022-11-07T11:06:11.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -31,3 +31,4 @@ dateCreated: 2022-07-23T21:04:04.044Z
 * draft-ali-spring-bfd-sr-policy - Bidirectional Forwarding Detection (BFD) for Segment Routing Policies for Traffic Engineering
 * draft-liu-bfd-srv6-policy-encap - Encapsulation of BFD for SRv6 Policy
 * draft-lin-sbfd-path-consistency-over-srv6 - S-BFD Path Consistency over SRv6
+* draft-chen-spring-sr-policy-for-ubfd - Segment Routing for Unaffiliated BFD Echo Function
