@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-07T13:54:58.884Z
+date: 2022-11-07T14:23:56.652Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -105,8 +105,8 @@ No IESG breakfast. (The IAB has a breakfast.)
 Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iesg_2
 Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg_2
 
-
->    Plenary Prep
+> * Trust appointment interview followup 
+> * Plenary Prep
 
 ### IETF 115 Plenary 17:30-19:30 Room: Kensington (west wing, 3rd floor)
 
