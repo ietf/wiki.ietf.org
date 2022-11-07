@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T14:31:27.548Z
+date: 2022-11-07T15:10:31.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -297,9 +297,9 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       |          
 |  10:30   |                  |          |             |                         |                      |                       |          
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
-|  12:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  | 
-|  12:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  11:30   |   Usable Formal Methods  |   IRTF  |   Colin Perkins |   |   |    |   
+|  12:00   |   Usable Formal Methods  |  IRTF  |   Colin Perkins  |    |   |    | 
+|  12:30   |   Usable Formal Methods  |  IRTF |  Colin Perkins  |    |   |     |
 |  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
