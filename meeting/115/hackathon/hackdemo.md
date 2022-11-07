@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2022-11-06T18:09:40.781Z
+date: 2022-11-07T10:41:45.007Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -29,5 +29,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Satellite-Routing  | Qiangzhou Gao  |  gaoqiangzhou@huawei.com
 | openSCHC | Dominique Barthel | firstname lastname at orange.com | openschc.net |
 | Streamlining Social Decision Making | Stephen McQuistin  | sm at smcquistin.uk | https://sodestream.github.io  |
-|   |   |   |   |
+| SRv6 data-plane visibility | Thomas Graf | thomas.graf@swisscom.com | https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh, https://github.com/insa-unyte/vpp-srh-onpath-telemetry|
 |   |   |   |   |
