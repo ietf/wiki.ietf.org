@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-07T09:52:51.537Z
+date: 2022-11-07T10:34:21.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -92,6 +92,17 @@ Location: East Wing, basement level -2
 |  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | [IETF capacity building for public policymakers](https://isoc.box.com/s/ejw018iy6wxnm74vqohb7p2gouqfqw0d)  |  https://isoc.zoom.us/s/81240826419 | TBS       |
 |  18:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | idem  |  idem | TBS       |
 |  18:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | idem |  idem | TBS       |
+
+
+## Room: Richmond 5 (IAB) - Monday
+Configuration: conference
+Location: West Wing, 1st floor
+*Please note this room is a special case and is not available for further side meetings beyond the one listed here.*
+
+| **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+|----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
+|  17:30   |  Public Interest Technology Group (PITG) | N/A | Corinne Cath-Speth (corinnecath@gmail.com) and Gurshabad Grover (gurshabad@cis-india.org) | Public interest technology group  |  https://isoc.zoom.us/s/81240826419 | TBA       |
+
 
 
 ## Room: Mezzanine 12 - Monday
