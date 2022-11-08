@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-08T08:35:03.526Z
+date: 2022-11-08T09:56:35.415Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -327,8 +327,8 @@ Location: Mezzanine Level
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |  
-|  08:30   |                  |          |             |                         |                      |                       | 
-|  09:00   |                  |          |             |                         |                      |                       |  
+|  08:30   |   Network/OTN Slicing Side Meeting  |  TEAS/CCAMP        |   Aihua Guo (aihuaguo.ietf@gmail.com)          |    Discussing topology & other open issues                     |    TBD                  |    TBD                   | 
+|  09:00   |    Network/OTN Slicing Side Meeting              |  TEAS/CCAMP        |   Aihua Guo (aihuaguo.ietf@gmail.com)          |   Discussing topology & other open issues                      |    TBD                  |        TBD               |  
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
