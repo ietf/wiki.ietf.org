@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-08T09:56:35.415Z
+date: 2022-11-08T10:23:29.324Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -120,8 +120,8 @@ Location: Mezzanine Level
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |         
-|  11:30   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          TBD            |                       |  
-|  12:00   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          TBD            |                       |  
+|  11:30   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          https://cisco.webex.com/cisco/j.php?MTID=m1d7f9106bf8938e58cc435ec2470f6ba   Password: XehPx4gtx25 (93479448 from phones)               |                       |  
+|  12:00   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |       https://cisco.webex.com/cisco/j.php?MTID=m1d7f9106bf8938e58cc435ec2470f6ba   Password: XehPx4gtx25 (93479448 from phones)            |                       |  
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |   
