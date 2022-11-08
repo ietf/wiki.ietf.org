@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-08T10:23:29.324Z
+date: 2022-11-08T10:42:50.032Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -164,8 +164,8 @@ Location: West Wing, First Floor
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  14:30   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  15:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
-|  15:30   |  Is Privacy preserving Web Filtering Possible?  |  N/A | dan@iwf.org.uk | Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |
-|  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    |                      |                       |    
+|  15:30   |  Is Privacy preserving Web Filtering Possible?  |  N/A | dan@iwf.org.uk | Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    | https://us02web.zoom.us/j/81406316450?pwd=Z3VTU1BPNE5iVGhiSGE3bFBaOEVvQT09 Meeting ID: 814 0631 6450 Passcode: 605274          |                       |
+|  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    | https://us02web.zoom.us/j/81406316450?pwd=Z3VTU1BPNE5iVGhiSGE3bFBaOEVvQT09 Meeting ID: 814 0631 6450 Passcode: 605274                     |                       |    
 |  16:30   |                  |          |             |                         |                      |                       |    
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate [agenda](https://notes.ietf.org/emodir-20221108) |      [Zoom](https://ietf.zoom.us/j/85396289621?pwd=YWhYcWY4cmRVMnRFUnR1bWFoY0V3QT09) Meeting ID: 853 9628 9621 Passcode: 211534                 |    
