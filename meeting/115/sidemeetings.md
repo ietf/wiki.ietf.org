@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-08T10:42:50.032Z
+date: 2022-11-08T11:07:40.191Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -198,7 +198,7 @@ https://us06web.zoom.us/j/84747399084?pwd=cFFWMFB5TVdabUNlaDFrQ2V1UGE0QT09 | |
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |  YANG Versioning  |  OPS (NETMOD)   |  jason.sterne@nokia.com   | Discuss issues around 5 versioning drafts |  https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |    
 |  14:00   | YANG Versioning  |  OPS (NETMOD) | jason.sterne@nokia.com | Discuss issues around 5 versioning drafts | https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |          
-|  14:30   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |  Discuss key points for the PQC draft standardization in OpenPGP  |  TBA                    |                       |          
+|  14:30   |  PQC in OpenPGP  |  SEC     | Aron Wussler (aron@wussler.it) |  Discuss key points for the PQC draft standardization in OpenPGP  |  Starting at 14:50 @ https://us02web.zoom.us/j/86081902144?pwd=c1FkZm8xNTdUZkVEOERJb1FlMFJlUT09                    |                       |          
 |  15:00   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |                         |                      |                       |          
 |  15:30   |  PQC in OpenPGP  |  SEC     |  aron@wussler.it |                         |                      |                       |          
 |  16:00   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>  | Mike will present a list of IPv6 issues for enterprises. All attendees will discuss how to solve these issues     | https://us06web.zoom.us/j/89765510503?pwd=ZHVjSnVDcE0yZ0ZReCt2RWNqbDV1dz09, Meeting ID: 897 6551 0503, Passcode: 298239 (courtesy Barbara Stark)  |             |  
