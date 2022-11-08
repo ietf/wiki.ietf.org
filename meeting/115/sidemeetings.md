@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-08T12:23:17.158Z
+date: 2022-11-08T13:23:02.527Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -348,8 +348,8 @@ Location: Mezzanine Level
 |  17:30   |  RAW WG          | INT      | Pascal Thubert | Focus discussion on RAW Architecture |     https://cisco.webex.com/cisco/j.php?MTID=mf48fb94a6b385f99dfd51b4b06f53bb6                 |                       |    
 |  18:00   |  eBPF Bar BoF    | INT      | Dave Thaler | Determine whether to standardize some part of eBPF in IETF | https://us06web.zoom.us/j/83038515863?pwd=czQrWTdVcGlMWER2MGN6V2pOSFhGQT09                     |                       |    
 |  18:30   |  eBPF Bar BoF    | INT      | Dave Thaler | Determine whether to standardize some part of eBPF in IETF | https://us06web.zoom.us/j/83038515863?pwd=czQrWTdVcGlMWER2MGN6V2pOSFhGQT09                     |                       |    
-|  19:00   |                  |          |             |                         |                      |                       |    
-|  19:30   |                  |          |             |                         |                      |                       |    
+|  19:00   |  KIRA Bar BoF    | Routing   | Roland Bless   | Discussion/Questions & Answers around KIRA                  |  https://kit-lecture.zoom.us/j/62846470559?pwd=K1NVR3dGNDIwVXYreFZPalB6K0svUT09                     |                       |    
+|  19:30   |  KIRA Bar BoF    | Routing   | Roland Bless   | Discussion/Questions & Answers around KIRA                  |  https://kit-lecture.zoom.us/j/62846470559?pwd=K1NVR3dGNDIwVXYreFZPalB6K0svUT09                    |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 
 # Friday 11 November {#Friday}
