@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-09T18:29:32.800Z
+date: 2022-11-09T18:33:19.154Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -23,18 +23,18 @@ The research community has also helped verify the security properties of IETF pr
 
 ## New Work in the Security Area
 
-In additional to the IETF standard operating procedures on [https://www.ietf.org/standards/process/new-work/ starting new work], the Security area uses the [https://datatracker.ietf.org/wg/secdispatch/documents/ SECDISPATCH WG] and the [https://mailarchive.ietf.org/arch/browse/secdispatch/ associated mailing list] to raise awareness about and discuss next steps on, new proposals via the [https://trac.ietf.org/trac/secdispatch/wiki dispatch process].
+In additional to the IETF standard operating procedures on [starting new work](https://www.ietf.org/standards/process/new-work/), the Security area uses the [SECDISPATCH WG](https://datatracker.ietf.org/wg/secdispatch/documents/) and the [associated mailing list](https://mailarchive.ietf.org/arch/browse/secdispatch/) to raise awareness about and discuss next steps on, new proposals via the [dispatch process](https://wiki.ietf.org/group/secdir/SecDirReview).
 
 The SEC Area directors can also be contacted to discuss how to engage the IETF on new work.
 
 New work currently being discussed includes:
-* [https://datatracker.ietf.org/wg/jwp/about/ JSON Web Proofs (JWP)] BoF
-* [https://datatracker.ietf.org/wg/satp/about/ Secure Asset Transfer Protocol (SATP)] BoF
-* Adding [wiki:PQCAgility Post-Quantum Agility] to IETF protocols.
+* [JSON Web Proofs (JWP)](/group/sec)https://datatracker.ietf.org/wg/jwp/about/)  BoF
+* [Secure Asset Transfer Protocol](https://datatracker.ietf.org/wg/satp/about/ (SATP) BoF
+* Adding [Post-Quantum Agility](wiki:PQCAgility) to IETF protocols.
 
 ## Security Directorate (SECDIR) and Document Reviews
 
-The [https://datatracker.ietf.org/group/secdir/about/ Security Area Directorate] (SECDIR) provides support to the Security Area Directors. The [https://datatracker.ietf.org/group/secdir/reviewers/ members] consist of the WG Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF.  Typically, each Internet-Draft is automatically assigned a SECDIR review during IETF Last Call and in preparation for an IESG Telechat.  Early reviews (while the document is still being developed in the working group) can also be requested via the datatracker.  Each of these review follows the [wiki:SecDirReview Security Director Review Process]
+The [ecurity Area Directorate](https://datatracker.ietf.org/group/secdir/about/) (SECDIR) provides support to the Security Area Directors. The [members](https://datatracker.ietf.org/group/secdir/reviewers/) consist of the WG Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF.  Typically, each Internet-Draft is automatically assigned a SECDIR review during IETF Last Call and in preparation for an IESG Telechat.  Early reviews (while the document is still being developed in the working group) can also be requested via the datatracker.  Each of these review follows the [wiki:SecDirReview Security Director Review Process]
 
 The [https://datatracker.ietf.org/group/secdir/reviews/ SECDIR review queue] and the [https://mailarchive.ietf.org/arch/browse/secdir/ mailing list] are available.
 
