@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-09T14:47:32.496Z
+date: 2022-11-09T16:00:42.413Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -269,8 +269,8 @@ Location: Mezzanine Level
 |  13:30   | Matrix sync                 | MIMI         | Matthew Hodgson (matthew@matrix.org)            |   Matrix governance discussion                      |                      |                       |   
 |  14:00   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  14:30   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |   
+|  15:00   |   AVTCore | ART | Jonathan Lennox (jonathan.lennox@8x8.com) | SFrame and RTP side meeting                        |  https://meet.jit.si/SFrameAndRTP                    |                       | SFrame and RTP side meeting         
+|  15:30   |   AVTCore | ART | Jonathan Lennox (jonathan.lennox@8x8.com) |  SFrame and RTP side meeting | https://meet.jit.si/SFrameAndRTP                       |                      | 
 |  16:00   | SCIM             | ART      | Aaron Parecki (aaron@parecki.com)            | Discuss current SCIM documents  | https://okta.zoom.us/j/93252204133?pwd=bkVlYTg3WlQweDdmQ1JUVml0MVlXZz09 <br> Meeting ID: 932 5220 4133 <br> Passcode: 363293                     |                       |   
 |  16:30   | SCIM                 |          |             |                         |                      |                       |  
 |  17:00   | SCIM                 |          |             |                         |                      |                       |  
