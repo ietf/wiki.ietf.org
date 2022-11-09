@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-08T13:23:02.527Z
+date: 2022-11-09T10:17:08.275Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -125,7 +125,7 @@ Location: Mezzanine Level
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |   
-|  14:00   |                  |          |             |                         |                      |                       |          
+|  14:00   | RSSAC028 Implementation consortium |             | willem@nlnetlabs.nl |                      |                       |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |  ACTN POI  |   RTG     |  Italo Busi (italo.busi@huawei.com) | SR-TE comments to the draft                        |                      |                       |          
 |  15:30   |                  |          |             |                         |                      |                       |          
