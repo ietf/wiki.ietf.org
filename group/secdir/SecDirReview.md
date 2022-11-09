@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2022-11-09T15:40:06.488Z
+date: 2022-11-09T15:43:15.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -67,19 +67,20 @@ Where the XXX is the general summary whether the draft is '''Ready''', '''Ready 
 
 When sending with the datatracker form the boilerplate will NOT be automatically added, so if you want to have it, add it there manually.
 
-=== Useful email aliases === 
+### Useful email aliases
 
 WG chairs may be reached at !wgname-chairs@ietf.org. 
 
 Replace draftname by !draft-ietf-wg-topic  (without -xx version):
 
-|| !draftname@ietf.org     || Draft authors (for now, could change) 
-|| !draftname.authors@ietf.org || Draft authors 
-|| !draftname.chairs@ietf.org || WG Chairs (if the draft is a WG draft) 
-|| !draftname.notify@ietf.org || The addresses entered into the tracker's email notification field for the draft 
-|| !draftname.ad@ietf.org || The sponsoring AD, if the draft has gone to the IESG 
-|| !draftname.all@ietf.org || All of the above, merged into one alias 
-
+| draftname@ietf.org | Draft authors (for now, could change) |
+| ---- | ---- |
+| `draftname@ietf.org | Draft authors (for now, could change) |
+| draftname.authors@ietf.org | Draft authors |
+| draftname.chairs@ietf.org | WG Chairs (if the draft is a WG draft) 
+| draftname.notify@ietf.org | The addresses entered into the tracker's email notification field for the draft 
+| draftname.ad@ietf.org | The sponsoring AD, if the draft has gone to the IESG 
+| draftname.all@ietf.org | All of the above, merged into one alias |
 
 ## Workload
 
