@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-09T10:34:55.346Z
+date: 2022-11-09T10:55:40.855Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -125,8 +125,8 @@ Location: Mezzanine Level
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |   
-|  14:00   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
-|  14:30   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
+|  14:00   |                  |          |             |                         |                      |                       | 
+|  14:30   |                  |          |             |                         |                      |                       |   
 |  15:00   |  ACTN POI  |   RTG     |  Italo Busi (italo.busi@huawei.com) | SR-TE comments to the draft                        |                      |                       |          
 |  15:30   |                  |          |             |                         |                      |                       |          
 |  16:00   |                  |          |             |                         |                      |                       |  
@@ -267,8 +267,8 @@ Location: Mezzanine Level
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |   
-|  14:00   |                  |          |             |                         |                      |                       |          
-|  14:30   |                  |          |             |                         |                      |                       |          
+|  14:00   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
+|  14:30   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
 |  15:30   |                  |          |             |                         |                      |                       |   
 |  16:00   | SCIM             | ART      | Aaron Parecki (aaron@parecki.com)            | Discuss current SCIM documents  | https://okta.zoom.us/j/93252204133?pwd=bkVlYTg3WlQweDdmQ1JUVml0MVlXZz09 <br> Meeting ID: 932 5220 4133 <br> Passcode: 363293                     |                       |   
