@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-09T16:00:42.413Z
+date: 2022-11-09T22:43:38.685Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -309,8 +309,8 @@ Location: West Wing, First Floor
 |  15:30   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |                       |  
 |  16:00   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |    
 |  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | TBD     |  TBD        |
-|  17:30   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | TBD     |  TBD        | 
+|  17:00   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | https://ietf.webex.com/ietf/j.php?MTID=m67d31491fcbe2c15c6e3db4304d1ea38 (password: congress)  |  TBD        |
+|  17:30   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | https://ietf.webex.com/ietf/j.php?MTID=m67d31491fcbe2c15c6e3db4304d1ea38 (password: congress)     |  TBD        | 
 |  18:00   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | https://us06web.zoom.us/j/82068851072?pwd=VWJjeDF2M0tPSkNzQzhwaHVUSTFBZz09 | TODO |    
 |  18:30   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | https://us06web.zoom.us/j/82068851072?pwd=VWJjeDF2M0tPSkNzQzhwaHVUSTFBZz09 | TODO |    
 |  19:00   |                  |          |             |                         |                      |                       |    
