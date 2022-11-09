@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-08T15:28:32.637Z
+date: 2022-11-09T07:13:45.075Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -108,6 +108,9 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg_2
 > * Trust appointment interview followup 
 > * Plenary Prep
 > * (Ab)use of show of hands tool
+> * Updating "Surprised Authors" statement (Warren,  10 min) [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
+> * Keeping "Implementation Status"es (Warren, 10 min) [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
+
 
 ### IETF 115 Plenary 17:30-19:30 Room: Kensington (west wing, 3rd floor)
 
