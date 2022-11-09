@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-09T17:54:24.798Z
+date: 2022-11-09T17:56:16.191Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -13,9 +13,9 @@ Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work
 * helping collect, verify, understand, and update the state of network end-points; and
 * providing protocols and applications the means to handle the authentication, authorization, and accounting of users, applications, and devices.
 
-The area is managed by the Security Area Directors (ADs) [https://datatracker.ietf.org/person/Roman%20Danyliw Roman Danyliw] and [https://datatracker.ietf.org/person/Paul%20Wouters Paul Wouters].
+The area is managed by the Security Area Directors (ADs) [Roman Danyliw](https://datatracker.ietf.org/person/Roman%20Danyliw) and [Paul Wouters](https://datatracker.ietf.org/person/Paul%20Wouters).
 
-The Security ADs are assisted by the [https://datatracker.ietf.org/wg/secdispatch/documents/ SECDISPATCH WG], a [wiki:SecurityDirectorate Security Directorate] (SECDIR), and [https://datatracker.ietf.org/group/saag/about/ Security Area Advisory Group] (SAAG).
+The Security ADs are assisted by the [SECDISPATCH WG](https://datatracker.ietf.org/wg/secdispatch/documents/), a [Security Directorate](/group/secdir) (SECDIR), and [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/) (SAAG).
 
 Not formally part of the Security area, but collaborative in scope are the [https://irtf.org/ IRTF]'s [https://datatracker.ietf.org/rg/cfrg/about/ Crypto Forum Research Group] (CFRG) and [https://datatracker.ietf.org/rg/pearg/about/ Privacy Enhancements and Assessments Research Group] (PEARG); and the [https://www.iab.org/ IAB]'s [https://www.iab.org/activities/programs/internet-threat-model-model-t-program/ Threat Model Program] (model-t).
 
