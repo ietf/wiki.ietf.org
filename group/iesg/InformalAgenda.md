@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-11-09T09:53:26.034Z
+date: 2022-11-09T09:55:48.088Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,13 +40,15 @@ Note that this page is public.
 
 ### Document Discussions
 
-  * 
+* 
 
 ### Management Issues
 
 
-* Updating "Surprised Authors" statement (Warren) [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
-* Keeping "Implementation Status"es (Warren) [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
+* Updating "Surprised Authors" statement (Warren) 
+Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
+* Keeping "Implementation Status"es (Warren) 
+Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
 
 
 ### WG News 
