@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-11-09T09:01:00.361Z
+date: 2022-11-09T09:02:55.438Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -32,7 +32,7 @@ Meeting password: 1234
 
 ## Agenda
 
-> When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (change "**NO**" to "**a**"). Please enter agenda items in the appropriate sections below.<br>
+> When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (change "**NO**" to "**a**"). Please enter agenda items in the appropriate sections below.
 Note that this page is public.
 {.is-info}
 
