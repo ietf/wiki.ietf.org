@@ -265,8 +265,8 @@ Location: Mezzanine Level
 |  11:30   |                  |          |             |                         |                      |                       |   
 |  12:00   |                  |          |             |                         |                      |                       | 
 |  12:30   |                  |          |             |                         |                      |                       | 
-|  13:00   |                  |          |             |                         |                      |                       | 
-|  13:30   |                  |          |             |                         |                      |                       |   
+|  13:00   | Matrix sync      |  MIMI    | Matthew Hodgson (matthew@matrix.org)  | Matrix.org governance discussion |                      |                       | 
+|  13:30   | Matrix sync      |  MIMI    | Matthew Hodgson (matthew@matrix.org)  | Matrix.org governance discussion |                      |                       | 
 |  14:00   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  14:30   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
