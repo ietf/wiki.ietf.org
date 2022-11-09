@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-09T10:55:40.855Z
+date: 2022-11-09T12:51:34.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -265,8 +265,8 @@ Location: Mezzanine Level
 |  11:30   |                  |          |             |                         |                      |                       |   
 |  12:00   |                  |          |             |                         |                      |                       | 
 |  12:30   |                  |          |             |                         |                      |                       | 
-|  13:00   |                  |          |             |                         |                      |                       | 
-|  13:30   |                  |          |             |                         |                      |                       |   
+|  13:00   | Matrix sync                 | MIMI         | Matthew Hodgson (matthew@matrix.org)             |  Matrix governance discussion                       |                      |                       | 
+|  13:30   | Matrix sync                 | MIMI         | Matthew Hodgson (matthew@matrix.org)            |   Matrix governance discussion                      |                      |                       |   
 |  14:00   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  14:30   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  15:00   |                  |          |             |                         |                      |                       |          
