@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2022-11-09T15:37:54.246Z
+date: 2022-11-09T15:40:06.488Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -52,16 +52,14 @@ In all cases the review must be sent to the !secdir@ietf.org, and this can eithe
 You may send to !last-call@ietf.org instead of (or in addition to) the IESG, if you prefer. If there's something you want to share only with the ADs, send a separate, ADDITIONAL, message to them, flagged as private, but also send a note to the broader world, as above.
 
 Here's some sample boilerplate, if you care to use it:
-
-{{{
-I have reviewed this document as part of the security directorate's 
-ongoing effort to review all IETF documents being processed by the 
-IESG.  These comments were written primarily for the benefit of the 
-security area directors.  Document editors and WG chairs should treat 
-these comments just like any other last call comments.
-
-The summary of the review is XXX
-}}}
+> 
+> I have reviewed this document as part of the security directorate's 
+> ongoing effort to review all IETF documents being processed by the 
+> IESG.  These comments were written primarily for the benefit of the 
+> security area directors.  Document editors and WG chairs should treat 
+> these comments just like any other last call comments.
+> 
+> The summary of the review is XXX
 
 Where the XXX is the general summary whether the draft is '''Ready''', '''Ready with nits''', '''Ready with issues''', '''Almost ready''' and '''Not ready'''.
 
@@ -74,6 +72,7 @@ When sending with the datatracker form the boilerplate will NOT be automatically
 WG chairs may be reached at !wgname-chairs@ietf.org. 
 
 Replace draftname by !draft-ietf-wg-topic  (without -xx version):
+
 || !draftname@ietf.org     || Draft authors (for now, could change) 
 || !draftname.authors@ietf.org || Draft authors 
 || !draftname.chairs@ietf.org || WG Chairs (if the draft is a WG draft) 
