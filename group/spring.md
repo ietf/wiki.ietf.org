@@ -2,7 +2,7 @@
 title: SPRING Working Group
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2022-11-09T09:45:36.086Z
+date: 2022-11-09T09:53:51.592Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -59,7 +59,9 @@ https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
    * 2022-11-9 Authors sent request
 * draft-agrawal-spring-srv6-mpls-interworking
    * 2022-11-9 Authors sent request     
-
+* draft-gong-teas-hierarchical-slice-solution
+   * 2022-11-9 Authors sent request    
+   
 ## History of WG adoption
 * draft-gandhi-spring-twamp-srpm-05
    * 2020-1-3 Authors sent request
