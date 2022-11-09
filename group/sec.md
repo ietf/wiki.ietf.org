@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-09T17:56:16.191Z
+date: 2022-11-09T17:58:44.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -17,11 +17,11 @@ The area is managed by the Security Area Directors (ADs) [Roman Danyliw](https:/
 
 The Security ADs are assisted by the [SECDISPATCH WG](https://datatracker.ietf.org/wg/secdispatch/documents/), a [Security Directorate](/group/secdir) (SECDIR), and [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/) (SAAG).
 
-Not formally part of the Security area, but collaborative in scope are the [https://irtf.org/ IRTF]'s [https://datatracker.ietf.org/rg/cfrg/about/ Crypto Forum Research Group] (CFRG) and [https://datatracker.ietf.org/rg/pearg/about/ Privacy Enhancements and Assessments Research Group] (PEARG); and the [https://www.iab.org/ IAB]'s [https://www.iab.org/activities/programs/internet-threat-model-model-t-program/ Threat Model Program] (model-t).
+Not formally part of the Security area, but collaborative in scope are the [IRTF](https://irtf.org/)'s [Crypto Forum Research Group](https://datatracker.ietf.org/rg/cfrg/about/) (CFRG) and [Privacy Enhancements and Assessments Research Group](https://datatracker.ietf.org/rg/pearg/about/) (PEARG); and the [IAB](https://www.iab.org/)'s [Threat Model Program](https://www.iab.org/activities/programs/internet-threat-model-model-t-program/) (model-t).
 
 The research community has also helped verify the security properties of IETF protocols with [wiki:FormalVerification formal analysis].
 
-== New Work in the Security Area ==
+## New Work in the Security Area
 
 In additional to the IETF standard operating procedures on [https://www.ietf.org/standards/process/new-work/ starting new work], the Security area uses the [https://datatracker.ietf.org/wg/secdispatch/documents/ SECDISPATCH WG] and the [https://mailarchive.ietf.org/arch/browse/secdispatch/ associated mailing list] to raise awareness about and discuss next steps on, new proposals via the [https://trac.ietf.org/trac/secdispatch/wiki dispatch process].
 
@@ -32,7 +32,7 @@ New work currently being discussed includes:
 * [https://datatracker.ietf.org/wg/satp/about/ Secure Asset Transfer Protocol (SATP)] BoF
 * Adding [wiki:PQCAgility Post-Quantum Agility] to IETF protocols.
 
-== Security Directorate (SECDIR) and Document Reviews ==
+## Security Directorate (SECDIR) and Document Reviews
 
 The [https://datatracker.ietf.org/group/secdir/about/ Security Area Directorate] (SECDIR) provides support to the Security Area Directors. The [https://datatracker.ietf.org/group/secdir/reviewers/ members] consist of the WG Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF.  Typically, each Internet-Draft is automatically assigned a SECDIR review during IETF Last Call and in preparation for an IESG Telechat.  Early reviews (while the document is still being developed in the working group) can also be requested via the datatracker.  Each of these review follows the [wiki:SecDirReview Security Director Review Process]
 
@@ -53,7 +53,7 @@ SAAG is not working group.  As such, it does not adopt or publish documents.
 The community is welcome to [https://www.ietf.org/mailman/listinfo/saag/ subscribe] to the mailing list or review the [https://mailarchive.ietf.org/arch/browse/saag/ archives].
 
 
-== History ==
+## History
 
 Security Area leadership past and present is further described on the [wiki:SecADS Security Area Directors] page.
 
