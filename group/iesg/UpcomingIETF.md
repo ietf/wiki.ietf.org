@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-09T07:13:45.075Z
+date: 2022-11-10T08:22:10.410Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -166,7 +166,7 @@ Location: Hybrid 1, Ground Floor, West Wing
 
 ## Thursday, 10 November 2022
 
-
+08:30-09:15 Roman
 12:00-13:00 INT AD Office Hours
 15:00-16:00 John meeting w/ CAN proponents
 16:30-17:30 IETF Chair Office Hours
