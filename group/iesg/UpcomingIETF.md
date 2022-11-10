@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-10T11:17:03.712Z
+date: 2022-11-10T13:28:53.319Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -162,7 +162,7 @@ Location: Hybrid 1, Ground Floor, West Wing
 
 ## Wednesday, 9 November 2022
 
-	 
+15:00 - 16:00 Zahed	 
 
 ## Thursday, 10 November 2022
 
