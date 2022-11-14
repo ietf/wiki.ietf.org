@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:48:34.005Z
+date: 2022-11-14T20:56:24.277Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -28,8 +28,8 @@ In additional to the IETF standard operating procedures on [starting new work](h
 The SEC Area directors can also be contacted to discuss how to engage the IETF on new work.
 
 New work currently being discussed includes:
-* [JSON Web Proofs (JWP)](/group/sec)https://datatracker.ietf.org/wg/jwp/about/)  BoF
-* [Secure Asset Transfer Protocol](https://datatracker.ietf.org/wg/satp/about/ (SATP) BoF
+* [JSON Web Proofs (JWP)](https://datatracker.ietf.org/wg/jwp/about/)  BoF
+* [Secure Asset Transfer Protocol](https://datatracker.ietf.org/wg/satp/about/) (SATP) BoF
 * Adding [Post-Quantum Agility](/group/sec/PQCAgility) to IETF protocols.
 
 ## Security Directorate (SECDIR) and Document Reviews
