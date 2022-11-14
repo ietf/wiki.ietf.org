@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:56:24.277Z
+date: 2022-11-14T20:57:19.176Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -55,5 +55,5 @@ The community is welcome to [subscribe](https://www.ietf.org/mailman/listinfo/sa
 
 ## History
 
-Security Area leadership past and present is further described on the [wiki:SecADS Security Area Directors] page.
+Security Area leadership past and present is further described on the [Security Area Directors](/group/sec/secADs) page.
 
