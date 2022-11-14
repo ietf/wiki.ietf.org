@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:47:20.219Z
+date: 2022-11-14T20:47:49.597Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
