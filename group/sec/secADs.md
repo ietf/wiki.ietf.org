@@ -2,7 +2,7 @@
 title: Security Area Directors
 description: 
 published: true
-date: 2022-11-14T20:49:24.532Z
+date: 2022-11-14T20:53:59.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:49:24.532Z
@@ -30,16 +30,14 @@ Security area leadership (past and present):
  * [https://datatracker.ietf.org/person/Steve%20Crocker Steve Crocker] - Served from 1989 to March 1994.
  * Steve Kent - Served on the IAB, with an focus on security, before the IESG was formed.
 
+## 2017 (IETF 100)
 
-
-== 2017 (IETF 100) ==
-
-[[Image(ImagesPage:sec-area-ads-ietf100-small.jpg​)]]
+![sec-area-ads-ietf100-small.jpg](/sec-area-ads-ietf100-small.jpg)
 
 Left to Right: Eric Rescorla, Kathleen Moriarty, Sean Turner, Tim Polk, Stephen Farrell
 
-== 2007 ==
+## 2007
 
-[[Image(ImagesPage:SecurityADs_small.jpg)]]
+![securityads_small.jpg](/securityads_small.jpg)
 
 Left to Right: Steve Kent, Steve Crocker, Jeff Schiller, Marcus Leech, Steve Bellovin, Russ Housley, and Sam Hartman.
