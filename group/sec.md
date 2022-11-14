@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-09T18:33:19.154Z
+date: 2022-11-14T20:33:39.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -19,7 +19,7 @@ The Security ADs are assisted by the [SECDISPATCH WG](https://datatracker.ietf.o
 
 Not formally part of the Security area, but collaborative in scope are the [IRTF](https://irtf.org/)'s [Crypto Forum Research Group](https://datatracker.ietf.org/rg/cfrg/about/) (CFRG) and [Privacy Enhancements and Assessments Research Group](https://datatracker.ietf.org/rg/pearg/about/) (PEARG); and the [IAB](https://www.iab.org/)'s [Threat Model Program](https://www.iab.org/activities/programs/internet-threat-model-model-t-program/) (model-t).
 
-The research community has also helped verify the security properties of IETF protocols with [wiki:FormalVerification formal analysis].
+The research community has also helped verify the security properties of IETF protocols with [formal analysis](/group/sec/formal-verification).
 
 ## New Work in the Security Area
 
