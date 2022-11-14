@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:33:39.492Z
+date: 2022-11-14T20:35:19.480Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -30,7 +30,7 @@ The SEC Area directors can also be contacted to discuss how to engage the IETF o
 New work currently being discussed includes:
 * [JSON Web Proofs (JWP)](/group/sec)https://datatracker.ietf.org/wg/jwp/about/)  BoF
 * [Secure Asset Transfer Protocol](https://datatracker.ietf.org/wg/satp/about/ (SATP) BoF
-* Adding [Post-Quantum Agility](wiki:PQCAgility) to IETF protocols.
+* Adding [Post-Quantum Agility](/group/sec/PQCAgility) to IETF protocols.
 
 ## Security Directorate (SECDIR) and Document Reviews
 
