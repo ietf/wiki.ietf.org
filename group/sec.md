@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:35:19.480Z
+date: 2022-11-14T20:37:37.345Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -34,7 +34,7 @@ New work currently being discussed includes:
 
 ## Security Directorate (SECDIR) and Document Reviews
 
-The [ecurity Area Directorate](https://datatracker.ietf.org/group/secdir/about/) (SECDIR) provides support to the Security Area Directors. The [members](https://datatracker.ietf.org/group/secdir/reviewers/) consist of the WG Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF.  Typically, each Internet-Draft is automatically assigned a SECDIR review during IETF Last Call and in preparation for an IESG Telechat.  Early reviews (while the document is still being developed in the working group) can also be requested via the datatracker.  Each of these review follows the [wiki:SecDirReview Security Director Review Process]
+The [Security Area Directorate](https://datatracker.ietf.org/group/secdir/about/) (SECDIR) provides support to the Security Area Directors. The [members](https://datatracker.ietf.org/group/secdir/reviewers/) consist of the WG Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF.  Typically, each Internet-Draft is automatically assigned a SECDIR review during IETF Last Call and in preparation for an IESG Telechat.  Early reviews (while the document is still being developed in the working group) can also be requested via the datatracker.  Each of these review follows the [wiki:SecDirReview Security Director Review Process]
 
 The [https://datatracker.ietf.org/group/secdir/reviews/ SECDIR review queue] and the [https://mailarchive.ietf.org/arch/browse/secdir/ mailing list] are available.
 
