@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:39:15.140Z
+date: 2022-11-14T20:46:15.797Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -36,11 +36,11 @@ New work currently being discussed includes:
 
 The [Security Area Directorate](https://datatracker.ietf.org/group/secdir/about/) (SECDIR) provides support to the Security Area Directors. The [members](https://datatracker.ietf.org/group/secdir/reviewers/) consist of the WG Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF.  Typically, each Internet-Draft is automatically assigned a SECDIR review during IETF Last Call and in preparation for an IESG Telechat.  Early reviews (while the document is still being developed in the working group) can also be requested via the datatracker.  Each of these review follows the [wiki:SecDirReview Security Director Review Process]
 
-The [https://datatracker.ietf.org/group/secdir/reviews/ SECDIR review queue] and the [https://mailarchive.ietf.org/arch/browse/secdir/ mailing list] are available.
+The [SECDIR review queue](https://datatracker.ietf.org/group/secdir/reviews/) and the [mailing list](https://mailarchive.ietf.org/arch/browse/secdir/) are available.
 
-In the limited cases where the cryptographic mechanisms of an IETF document requires deeper analysis by a cryptographer, the Security Area relies on the IRTF CFRG [https://trac.ietf.org/trac/irtf/wiki/Crypto%20Review%20Panel Crypto Review Panel].
+In the limited cases where the cryptographic mechanisms of an IETF document requires deeper analysis by a cryptographer, the Security Area relies on the IRTF CFRG [Crypto Review Panel](https://trac.ietf.org/trac/irtf/wiki/Crypto%20Review%20Panel).
 
-The SECDIR and SEC AD reviews of documents have produced the following list of [wiki:TypicalSECAreaIssues Common SEC Area Review Issues] that have been repeatedly identified.  Authors and WGs should consider these issues when writing their documents.
+The SECDIR and SEC AD reviews of documents have produced the following list of [Common SEC Area Review Issues]( that have been repeatedly identified.  Authors and WGs should consider these issues when writing their documents.
 
 If specific security expertise is needed in a WG, please contact the Security ADs who may be able to find a advisor for the WG.
 
