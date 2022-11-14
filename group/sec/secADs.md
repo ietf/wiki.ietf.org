@@ -2,13 +2,13 @@
 title: Security Area Directors
 description: 
 published: true
-date: 2022-11-14T20:53:59.635Z
+date: 2022-11-14T20:54:40.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:49:24.532Z
 ---
 
-The [https://trac.ietf.org/trac/sec/wiki Security Area] is currently overseen by [https://datatracker.ietf.org/person/Benjamin%20Kaduk Benjamin Kaduk] and [https://datatracker.ietf.org/person/Roman%20Danyliw Roman Danyliw].
+The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/Paul%20Wouters Paul Wouters] and [https://datatracker.ietf.org/person/Roman%20Danyliw Roman Danyliw].
 
 ## Past Area Directors
 
