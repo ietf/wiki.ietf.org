@@ -2,7 +2,7 @@
 title: PCE
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-11-17T09:38:48.180Z
+date: 2022-11-17T09:59:24.438Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -41,7 +41,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | - |
 | [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | WG discussion on 1 I-D v/s 2 I-D for informational v/s normative parts is needed | - |  
 | [draft-rajagopalan-pce-pcep-color](https://datatracker.ietf.org/doc/draft-rajagopalan-pce-pcep-color/) | Pending | - | - |
-| [draft-dhody-pce-pceps-tls13-01](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | Addresses a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
+| [draft-dhody-pce-pceps-tls13-01](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | Related to a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
 
 ## Recently Adopted Documents
 
