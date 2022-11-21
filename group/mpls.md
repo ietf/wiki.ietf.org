@@ -2,7 +2,7 @@
 title: Multiprotocol Label Switching (MPLS) Working Group
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2022-11-21T03:33:10.651Z
+date: 2022-11-21T08:44:50.698Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z
@@ -33,18 +33,50 @@ Prior to the IETF 115 the  OPen DT has been meeting on a weekly basis. We had pl
 ### Webex for Weekly Meetings
 
 ```
-MPLS Open DT Meeting
-Hosted by MPLS Working Group
-https://ietf.webex.com/ietf/j.php?MTID=mbf31dd02f24ecc758e84e17a88cd20f7 
-Every Thursday effective 11/24/2022 until 3/23/2023 10:00 am | 1 hour 30 minutes | (UTC-05:00) Eastern Time (US & Canada) 
-Meeting number: 2439 621 4896 
-Password: e3NvGD237aP 
+Cisco Webex has invited you to MPLS Open DT Meeting
+Title: 	MPLS Open DT Meeting
+Location: 	https://ietf.webex.com/ietf/j.php?MTID=mbf31dd02f24ecc758e84e17a88cd20f7
+When: 	Occurs every Thursday effective 2022-11-24 until 2023-03-23 from 16:00 to 17:30.
+Organizer: 	
+Cisco Webex <messenger@webex.com>
+Description: 	
 
-Join by video system 
-Dial 24396214896@ietf.webex.com 
-You can also dial 173.243.2.68 and enter your meeting number. 
 
-Join by phone 1-650-479-3208 Call-in toll number (US/Canada) 
+JOIN WEBEX MEETING
+https://ietf.webex.com/ietf/j.php?MTID=mbf31dd02f24ecc758e84e17a88cd20f7
+Meeting number (access code): 2439 621 4896
 
-Access code: 2439 621 4896
+
+Meeting password: e3NvGD237aP
+
+
+
+TAP TO JOIN FROM A MOBILE DEVICE (ATTENDEES ONLY)
++1-650-479-3208,,24396214896## tel:%2B1-650-479-3208,,*01*24396214896%23%23*01* Call-in toll number (US/Canada)
+
+
+JOIN BY PHONE
+1-650-479-3208 Call-in toll number (US/Canada)
+
+Global call-in numbers
+https://ietf.webex.com/ietf/globalcallin.php?MTID=m45a086cd53a2fd17ecfcdd5535b3578d
+
+
+JOIN FROM A VIDEO SYSTEM OR APPLICATION
+Dial sip:24396214896@ietf.webex.com
+You can also dial 173.243.2.68 and enter your meeting number.
+
+
+
+If you are a host, click here to view host information:
+https://ietf.webex.com/ietf/j.php?MTID=m56e4093afeee33729b409f652901f277
+
+
+
+Can't join the meeting? Contact support here:
+https://ietf.webex.com/ietf/mc
+
+
+IMPORTANT NOTICE: Please note that this Webex service allows audio and other information sent during the session to be recorded, which may be discoverable in a legal matter. You should inform all meeting attendees prior to recording if you intend to record the meeting.
+
 ```
