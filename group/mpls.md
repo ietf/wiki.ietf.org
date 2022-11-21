@@ -2,7 +2,7 @@
 title: Multiprotocol Label Switching (MPLS) Working Group
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2022-11-17T13:34:36.602Z
+date: 2022-11-21T03:33:10.651Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z
@@ -35,18 +35,16 @@ Prior to the IETF 115 the  OPen DT has been meeting on a weekly basis. We had pl
 ```
 MPLS Open DT Meeting
 Hosted by MPLS Working Group
+https://ietf.webex.com/ietf/j.php?MTID=mbf31dd02f24ecc758e84e17a88cd20f7 
+Every Thursday effective 11/24/2022 until 3/23/2023 10:00 am | 1 hour 30 minutes | (UTC-05:00) Eastern Time (US & Canada) 
+Meeting number: 2439 621 4896 
+Password: e3NvGD237aP 
 
-https://ietf.webex.com/ietf/j.php?MTID=m8dc37ba3a0a1fdce109d8fb68c054753
-Thursday, Nov 17, 2022 10:00 am | 1 hour 30 minutes | (UTC-05:00) Eastern Time (US & Canada)
-Meeting number: 2425 656 3897
-Password: JHtxgSgH662
+Join by video system 
+Dial 24396214896@ietf.webex.com 
+You can also dial 173.243.2.68 and enter your meeting number. 
 
-Join by video system
-Dial 24256563897@ietf.webex.com
-You can also dial 173.243.2.68 and enter your meeting number.
+Join by phone 1-650-479-3208 Call-in toll number (US/Canada) 
 
-Join by phone
-1-650-479-3208 Call-in toll number (US/Canada)
-
-Access code: 242 565 63897
+Access code: 2439 621 4896
 ```
