@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-21T17:40:08.964Z
+date: 2022-11-21T17:41:10.179Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -18,12 +18,12 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 {.grid-list}
 
 **Sign up for the Hackathon**
-* [Onsite registration](https://registration.ietf.org/116/new/hackathon_onsite/)
-* [Remote registration](https://registration.ietf.org/116/new/hackathon_remote/)
+* [Onsite registration]
+* [Remote registration]
 
 **View the list of registered**:
-* [Onsite Hackathon participants](https://registration.ietf.org/116/participants/hackathon_onsite/)
-* [Remote Hackathon participants](https://registration.ietf.org/116/participants/hackathon_remote/)
+* [Onsite Hackathon participants]
+* [Remote Hackathon participants]
 
 **[IETF 115 Gather link](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
 
