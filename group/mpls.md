@@ -2,7 +2,7 @@
 title: Multiprotocol Label Switching (MPLS) Working Group
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2022-11-21T08:44:50.698Z
+date: 2022-11-21T08:48:31.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z
@@ -37,18 +37,12 @@ Cisco Webex has invited you to MPLS Open DT Meeting
 Title: 	MPLS Open DT Meeting
 Location: 	https://ietf.webex.com/ietf/j.php?MTID=mbf31dd02f24ecc758e84e17a88cd20f7
 When: 	Occurs every Thursday effective 2022-11-24 until 2023-03-23 from 16:00 to 17:30.
-Organizer: 	
-Cisco Webex <messenger@webex.com>
-Description: 	
-
 
 JOIN WEBEX MEETING
 https://ietf.webex.com/ietf/j.php?MTID=mbf31dd02f24ecc758e84e17a88cd20f7
 Meeting number (access code): 2439 621 4896
 
-
 Meeting password: e3NvGD237aP
-
 
 
 TAP TO JOIN FROM A MOBILE DEVICE (ATTENDEES ONLY)
@@ -67,16 +61,13 @@ Dial sip:24396214896@ietf.webex.com
 You can also dial 173.243.2.68 and enter your meeting number.
 
 
-
-If you are a host, click here to view host information:
-https://ietf.webex.com/ietf/j.php?MTID=m56e4093afeee33729b409f652901f277
-
-
-
 Can't join the meeting? Contact support here:
 https://ietf.webex.com/ietf/mc
 
 
-IMPORTANT NOTICE: Please note that this Webex service allows audio and other information sent during the session to be recorded, which may be discoverable in a legal matter. You should inform all meeting attendees prior to recording if you intend to record the meeting.
+IMPORTANT NOTICE: Please note that this Webex service allows audio and other
+information sent during the session to be recorded, which may be 
+discoverable in a legal matter. You should inform all meeting attendees 
+prior to recording if you intend to record the meeting.
 
 ```
