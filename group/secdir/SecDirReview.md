@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2022-11-09T15:43:15.822Z
+date: 2022-11-21T15:03:48.870Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -29,7 +29,7 @@ Please try to complete reviews by the end of IETF last call, allowing the author
 
 As a general rule, reviews after the telechat date are not useful, but check the [IETF Datatracker](https://datatracker.ietf.org/) to see if the document has been deferred. In most cases you will get email saying that the review is no longer useful when the document is already past the telechat.
 
-== What to Look For ==
+## What to Look For
 
 The most important item is to give the ADs a sense of how important it is that they pay attention to the document. The SECDIR and SEC AD reviews of documents have produced the following list of [Common SEC Area Review Issues](TypicalSECAreaIssues) that have been repeatedly identified.
 
