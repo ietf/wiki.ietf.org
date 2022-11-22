@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-21T17:41:10.179Z
+date: 2022-11-22T18:39:32.949Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -13,17 +13,17 @@ dateCreated: 2022-11-17T16:46:02.484Z
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * **When**: Saturday - Sunday, 25-26 March 2023
-* **Where**: IETF 116 Meeting Venue
+* **Where**: Pacifico Yokohama Convention Center
 * **Room**: TBD
 {.grid-list}
 
 **Sign up for the Hackathon**
-* [Onsite registration]
-* [Remote registration]
+* [Onsite registration](https://registration.ietf.org/116/new/hackathon_onsite/)
+* [Remote registration](https://registration.ietf.org/116/new/hackathon_remote/)
 
 **View the list of registered**:
-* [Onsite Hackathon participants]
-* [Remote Hackathon participants]
+* [Onsite Hackathon participants](https://registration.ietf.org/116/participants/hackathon_onsite/)
+* [Remote Hackathon participants](https://registration.ietf.org/116/participants/hackathon_remote/)
 
 **[IETF 115 Gather link](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
 
