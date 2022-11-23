@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-22T18:39:32.949Z
+date: 2022-11-23T06:07:39.550Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -149,6 +149,20 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+
+
+ **SRv6 Data-Plane Visibility**
+- Champion(s)
+  - Thomas Graf (thomas.graf at swisscom.com)
+  - Benoit Claise (benoit.claise at huawei.com)
+  - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
+- Draft(s)
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-opsawg-ipfix-on-path-telemetry
+  - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
+- Project info
+  - Develop and validate running code. Extend IPFIX SRv6 data-plane and on-path delay measurement export in VPP at FD.io and on Huawei VRP. Improve IETF 115 hackathon established multivendor SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data. Extend Network Anomaly Detection to support on-path delay with BGP extended community color (RFC9012) in the operational checks.
+  
+
 
 **Your-Project-Name**
 - Champion(s)
