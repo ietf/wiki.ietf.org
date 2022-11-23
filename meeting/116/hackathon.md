@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-23T06:07:39.550Z
+date: 2022-11-23T06:31:31.748Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -160,7 +160,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/html/draft-tgraf-opsawg-ipfix-on-path-telemetry
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
 - Project info
-  - Develop and validate running code. Extend IPFIX SRv6 data-plane and on-path delay measurement export in VPP at FD.io and on Huawei VRP. Improve IETF 115 hackathon established multivendor SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data. Extend Network Anomaly Detection to support on-path delay with BGP extended community color (RFC9012) in the operational checks.
+  - Develop and validate running code. Extend IPFIX SRv6 data-plane and on-path delay measurement export in VPP at FD.io and on Huawei VRP. Improve IETF 115 hackathon established multivendor SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data. Extend Network Anomaly Detection to support on-path delay in the operational checks.
   
 
 
