@@ -2,7 +2,7 @@
 title: IETF Administration LLC
 description: The IETF Administration LLC (IETF LLC) provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF).
 published: true
-date: 2022-11-01T20:56:25.150Z
+date: 2022-11-23T14:47:57.301Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-20T14:13:17.813Z
@@ -40,8 +40,9 @@ Passcode: 989394
 
 + [Workshop announcement](https://mailarchive.ietf.org/arch/msg/admin-discuss/d5ojp1DdTO-dUYGL3IVaSeEpkII/)
 + [Workshop notes](https://notes.ietf.org/carbon-workshop-offset-strategy)
-+ [Workshop recording]()
-+ [Workshop slides]()
++ [Workshop recording](https://ietf.zoom.us/rec/share/CQ2ISZHnggPbIla0uB8bvN1hlEBwDNH3I6_w6fZQt87slCSn6WJvjKcoESKQ68_j.cC9Nus87wJPBuJD-)
+Passcode: 3vZ%zHQ0
++ [Workshop slides](https://www.ietf.org/media/documents/IETF_Carbon_Neutral_Project_Workshop_2_emissions_offsetting_strategy.pdf)
 
 **Carbon emissions measurement**
 This set of workshops provided information about the global standards-based approach being developed to calculate, as accurately as possible, IETF carbon emissions (initially focused on emissions from IETF meetings). They particularly sought to gather input from the IETF community about how additional data might be gathered from IETF meeting participants that would allow more accurate carbon footprint calculations.
