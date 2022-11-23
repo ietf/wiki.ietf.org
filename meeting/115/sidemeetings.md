@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-09T10:55:40.855Z
+date: 2022-11-11T08:13:55.084Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -265,12 +265,12 @@ Location: Mezzanine Level
 |  11:30   |                  |          |             |                         |                      |                       |   
 |  12:00   |                  |          |             |                         |                      |                       | 
 |  12:30   |                  |          |             |                         |                      |                       | 
-|  13:00   | Matrix sync      |  MIMI    | Matthew Hodgson (matthew@matrix.org)  | Matrix.org governance discussion |                      |                       | 
-|  13:30   | Matrix sync      |  MIMI    | Matthew Hodgson (matthew@matrix.org)  | Matrix.org governance discussion |                      |                       | 
+|  13:00   | Matrix sync                 | MIMI         | Matthew Hodgson (matthew@matrix.org)             |  Matrix governance discussion                       |                      |                       | 
+|  13:30   | Matrix sync                 | MIMI         | Matthew Hodgson (matthew@matrix.org)            |   Matrix governance discussion                      |                      |                       |   
 |  14:00   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
 |  14:30   | RSSAC028 Implementation consortium | private | Willem Toorop (willem@nlnetlabs.nl) | bi-weekly conference call |                       |          
-|  15:00   |                  |          |             |                         |                      |                       |          
-|  15:30   |                  |          |             |                         |                      |                       |   
+|  15:00   |   AVTCore | ART | Jonathan Lennox (jonathan.lennox@8x8.com) | SFrame and RTP side meeting                        |  https://meet.jit.si/SFrameAndRTP                    |                       | SFrame and RTP side meeting         
+|  15:30   |   AVTCore | ART | Jonathan Lennox (jonathan.lennox@8x8.com) |  SFrame and RTP side meeting | https://meet.jit.si/SFrameAndRTP                       |                      | 
 |  16:00   | SCIM             | ART      | Aaron Parecki (aaron@parecki.com)            | Discuss current SCIM documents  | https://okta.zoom.us/j/93252204133?pwd=bkVlYTg3WlQweDdmQ1JUVml0MVlXZz09 <br> Meeting ID: 932 5220 4133 <br> Passcode: 363293                     |                       |   
 |  16:30   | SCIM                 |          |             |                         |                      |                       |  
 |  17:00   | SCIM                 |          |             |                         |                      |                       |  
@@ -298,7 +298,7 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       |          
 |  10:30   | Specification of Attestation Protocols in Trusted Execution Environments | Security (IETF RATS, TEEP) | Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de) | Intel Trust Domain Extensions (TDX) as a use case | https://tu-dresden.zoom.us/j/64523897756?pwd=bWE3ZXVwbEFLTGt1L2NGdjZnZkFEdz09    Meeting ID: 645 2389 7756 , Passcode: W#t?zW#5                 |                       |         
 |  11:00   | Specification of Attestation Protocols in Trusted Execution Environments | Security (IETF RATS, TEEP) | Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de) | Intel Trust Domain Extensions (TDX) as a use case | https://tu-dresden.zoom.us/j/64523897756?pwd=bWE3ZXVwbEFLTGt1L2NGdjZnZkFEdz09    Meeting ID: 645 2389 7756 , Passcode: W#t?zW#5                 |                       |         
-|  11:30   |   Usable Formal Methods  |   IRTF  |   Colin Perkins |   |   |    |   
+|  11:30   |   Usable Formal Methods  |   IRTF  |   Colin Perkins |   | https://uofglasgow.zoom.us/j/82051131120?pwd=QlNqVU91cmpEYytnWjVLbldKMkI3QT09  |    |   
 |  12:00   |   Usable Formal Methods  |  IRTF  |   Colin Perkins  |    |   |    | 
 |  12:30   |   Usable Formal Methods  |  IRTF |  Colin Perkins  |    |   |     |
 |  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
@@ -309,8 +309,8 @@ Location: West Wing, First Floor
 |  15:30   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |                       |  
 |  16:00   | vCon Bar BoF     | ART      | Dan Petrie (dan.ietf at sipez.com)          | Work on charter for vCon | TBD |    
 |  16:30   |                  |          |             |                         |                      |                       |  
-|  17:00   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | TBD     |  TBD        |
-|  17:30   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | TBD     |  TBD        | 
+|  17:00   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | https://ietf.webex.com/ietf/j.php?MTID=m67d31491fcbe2c15c6e3db4304d1ea38 (password: congress)  |  TBD        |
+|  17:30   | CONGRESS Bar BoF | TSV      | martin.h.duke@gmail.com | Charter for congestion ontrol work | https://ietf.webex.com/ietf/j.php?MTID=m67d31491fcbe2c15c6e3db4304d1ea38 (password: congress)     |  TBD        | 
 |  18:00   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | https://us06web.zoom.us/j/82068851072?pwd=VWJjeDF2M0tPSkNzQzhwaHVUSTFBZz09 | TODO |    
 |  18:30   | IPv6 EH Side Meeting | OPS/INT |  Nalini J Elkins |  Troubleshooting IPv6 EHs  | https://us06web.zoom.us/j/82068851072?pwd=VWJjeDF2M0tPSkNzQzhwaHVUSTFBZz09 | TODO |    
 |  19:00   |                  |          |             |                         |                      |                       |    
@@ -363,7 +363,7 @@ Location: West Wing, First Floor
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
-|  08:30   |   IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| [ZOOM](https://us06web.zoom.us/j/84213066829?pwd=ekE0N0taZlptcWlUY3hQOEhzd1huUT09) | [Link](https://drive.google.com/file/d/15uYcjyv9Hj4e2OFGT5U0OY9YjSyPXvtD/view?usp=sharing) | 
+|  08:30   |   IETF Outreach  | GEN      | Dhruv Dhody | In the past, ISOC organised "IETF in Regions" meetings. EMODIR is planning a side meeting to discuss various regional outreach activities, share ideas and learn from each other.| [ZOOM](https://us06web.zoom.us/j/84213066829?pwd=ekE0N0taZlptcWlUY3hQOEhzd1huUT09) [Agenda & Notes](https://notes.ietf.org/emodir-ietf-outreach-2022?view) | [Link](https://drive.google.com/file/d/15uYcjyv9Hj4e2OFGT5U0OY9YjSyPXvtD/view?usp=sharing) | 
 |  09:00   |  IETF Outreach  | GEN      | Dhruv Dhody | " | " | " | 
 |  09:30   |                  |          |             |                         |                      |                       |
 |  10:00   |                  |          |             |                         |                      |                       | 

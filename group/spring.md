@@ -2,7 +2,7 @@
 title: SPRING Working Group
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2022-11-09T09:53:51.592Z
+date: 2022-11-16T10:37:40.886Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -53,6 +53,8 @@ https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
    * 2021-10-23 Authors sent request
 * draft-gandhi-spring-enhanced-srpm
    * 2021-11-09 Authors sent request
+* draft-schmutzer-spring-cs-sr-policy
+   * 2021-07-27 Authors sent request
 * draft-song-spring-siam-03
    * 2022-4-12 Authors sent request
 * draft-peng-spring-pmtu-sr-policy
