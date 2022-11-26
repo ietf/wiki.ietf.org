@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-26T22:35:41.433Z
+date: 2022-11-26T22:42:16.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -42,7 +42,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | May-21-2021 | 14 | Dec-1-2022 | 740 |  
 
 | [draft-ietf-idr-bfd-subcode-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bfd-subcode) | Keyur Patel | IESG Review | IESG telechat  | Sept-9-2022 | Oct-20-2022  | 14 |  Dec-1-2022 | 79 | 
-| [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc7752bis) | Jeff Haas | IESG Review | IETSG Telechat | Aug-6-2021 |  Nov-10-2021 | 14 | Dec-15-2022 | 463 | 
+| [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc7752bis) | Jeff Haas | IESG Review | IETSG Telechat | Aug-6-2021 |  Nov-10-2021 | 14 | Dec-15-2022 | 478 | 
 |---|---|---|---|---|---|---|---|---|
  
 ## Needs revision During AD Review
@@ -54,11 +54,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## In Queue of AD: Awaiting AD Feedback
 
-| draft | Shepherd |  status | Next step | WG LC done | Pub-Req | AD waiting Time |  ETA | Time since WG LC |  
+| draft | Shepherd |  status | Next step | WG LC done | Pub-Req | AD waiting Time days |  ETA | Time since WG LC days |  
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd)  | Keyur Patel | AD's queue | AD review  | Nov-11-2021 | Feb-11-2022  | 182 days |  TBD | 182 days | 
-| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities) | Keyur Patel | AD's queue | AD review | Mar-11-2022 | Apr-30-2022 | 154 days |TBD | 154 days | 
-| [draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/drafat-ietf-idr-segment-routing-te-policy) | Susan Hares | in AD's queue | IESG | Aug-06-2021 | Jul-7-2022 |  37 days | TBD | 371 days | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd)  | Keyur Patel | AD's queue | AD review  | Nov-11-2021 | Feb-11-2022  | 281  |  TBD | 381  | 
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities) | Keyur Patel | AD's queue | AD review | Mar-11-2022 | Apr-30-2022 | 211 |TBD | 261  | 
+| [draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/drafat-ietf-idr-segment-routing-te-policy) | Susan Hares | in AD's queue | IESG | Aug-06-2021 | Jul-7-2022 |  143  | TBD | 371 | 
 |---|---|---|---|---|---|---|---|---|
 
 ## In Queue of WG Shepherds
