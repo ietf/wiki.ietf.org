@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-26T22:18:17.494Z
+date: 2022-11-26T22:21:43.185Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -39,9 +39,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC OK | Pub-Req | Time in State | ETA | Time since WG LC | 
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | May-21-2021 | 3 days | Dec-1-2022 | 851 days |  
+| [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | May-21-2021 | 9 days | Dec-1-2022 | 740 days |  
 | [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc7752bis) | Jeff Haas | IETF LC | IETF LC write-up  | Aug-6-2021 |  Nov-10-2021 | 11 days | Nov-14-2022 | 350 | 
-| [draft-ietf-idr-bfd-subcode-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bfd-subcode) | Keyur Patel | IETF LC | IETF LC write-up  | Sept-9-2022 | Oct-20-2022  | 11 days |  Nov-15-2021 | 56 | 
+| [draft-ietf-idr-bfd-subcode-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bfd-subcode) | Keyur Patel | IESG Review | IESG telechat  | Sept-9-2022 | Oct-20-2022  | 11 days |  Nov-15-2021 | 79 | 
 |---|---|---|---|---|---|---|---|---|
  
 ## Needs revision During AD Review
