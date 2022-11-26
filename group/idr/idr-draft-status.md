@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-26T22:58:59.294Z
+date: 2022-11-26T23:00:08.785Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -89,10 +89,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC-Upcoming 
 
 | draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
-|---|---|---|---|---|---|  
+|---|---|---|---|---|---|---|  
 
 | [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) | Susan Hares | Shepherd review | WG LC | TBD  | TBD |  TBD |   
-| [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) | Susan Hares || 
+
+| [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) | Susan Hares | Shepherd review | WG LC | TBD | TBD | TBD | 
 
 | [draft-ietf-idr-bgp-model](http://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model) | Jie Dong | TBD | WG LC |  TBD | TBD | TBD |  
 | [draft-ietf-idr-sr-policy-fit](http:://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) | Susan Hares | need 2 | IPR  | TBD | TBD | TBD ||
