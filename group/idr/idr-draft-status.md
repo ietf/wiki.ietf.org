@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-26T22:42:16.466Z
+date: 2022-11-26T22:49:34.018Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -37,7 +37,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## At IESG
 
-| draft | Shepherd |  status | Next step | WG LC OK | Pub-Req | Time in State days | ETA  | Time since WG LC days | 
+| draft | Shepherd |  status | Next step | WG LC OK | Pub-Request | Time in State days | ETA  | Time since WG LC days | 
 |---|---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | May-21-2021 | 14 | Dec-1-2022 | 740 |  
 
@@ -65,7 +65,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC Done | Time | issues |  ETA | Time since WG LC |   
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-long-lived-gr](http://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr) | Jeff Haas | WG LC OK | IESG Pub | Nov-1-2022 | 3 | TBD | Nov-15-2022 | 3 | 
+| [draft-ietf-idr-long-lived-gr](http://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr) | Jeff Haas | WG LC OK | IESG Pub | Oct-27-2022 | 28 | TBD | Nov-15-2022 | 28 | 
 |---|---|---|---|---|---|---|---|---|
 
 ## Past WG LC awaiting implementations
