@@ -2,7 +2,7 @@
 title: Feedback on draft-ietf-bess-evpn-ipvpn-interworking
 description: IDR WG and IDR Shepherds feedback on draft-ietf-bess-evpn-ipvpn-interworking
 published: true
-date: 2022-11-27T12:39:59.720Z
+date: 2022-11-27T12:41:19.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T12:26:22.648Z
@@ -17,15 +17,15 @@ dateCreated: 2022-11-27T12:26:22.648Z
 ## Reviews for draft 
 
 ### Review 1
-**1.  [Hares-July-2021-Review](/groups/idr/Feedback-to-BESS/evpn-ipvpn-interworking-feedback/Review1)**
+**[Hares-July-2021-Review](/groups/idr/Feedback-to-BESS/evpn-ipvpn-interworking-feedback/Review1)**
 
- [Hares Email (from archive)](https://mailarchive.ietf.org/arch/msg/bess/xr35SuwoY6pJTYS0J2tSopiH-4E/)
+-  [Hares Email (from archive)](https://mailarchive.ietf.org/arch/msg/bess/xr35SuwoY6pJTYS0J2tSopiH-4E/)
+-  
+-  [Jorge's Response](https://mailarchive.ietf.org/arch/msg/bess/in9NoyDZ2VUAvy4qE4m-6XkKCJY/)
+-  
+-  [Hares Response from March 2021](https://mailarchive.ietf.org/arch/msg/bess/JaBpkLWzkb3JOQGkR57M38uAAkc/)
  
- [Jorge's Response](https://mailarchive.ietf.org/arch/msg/bess/in9NoyDZ2VUAvy4qE4m-6XkKCJY/)
- 
- [Hares Response from March 2021](https://mailarchive.ietf.org/arch/msg/bess/JaBpkLWzkb3JOQGkR57M38uAAkc/)
- 
-** Summary points from review 1 **
+**Summary points from review 1**
 1) Lack of error handling for NLRIs which carry semantics beyond prefixes.
 2) Domain BGP Path Attribute (section 4) debugging and scaling
 3) Route selection process modifies the RFC4271 and may not scale
