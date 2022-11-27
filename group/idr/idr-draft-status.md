@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:48:50.738Z
+date: 2022-11-27T10:49:25.930Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -150,7 +150,7 @@ For information on adoption process:  [[IDR adoption process]]
 
 ### Flow Specification v1 drafts need revision 
 | draft | Shepherd |  status | Next step | WG LC completed Date | Time | ETA | 
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | draft-ietf-idr-flowspec-redirect-ip-02.txt | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 | draft-ietf-idr-flowspec-path-redirect | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 | draft-ietf-idr-flowspec-interfaceset | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
