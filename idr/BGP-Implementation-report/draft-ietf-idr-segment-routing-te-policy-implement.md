@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2022-11-27T20:55:43.533Z
+date: 2022-11-27T20:56:23.784Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -53,7 +53,6 @@ Report created by Ketan Talaulikar (ketant@…)
 | C	 | IPv4 Prefix with optional SR algorithm	 | --- | --- | --- | --- | --- |		
 | D	 | IPv6 Global Prefix with optional SR algorithm for SR-MPLS	| --- | --- | --- | --- | --- |		
 | E	 | IPv4 Prefix with local interface ID (if ID) | --- | --- | --- | --- | --- |
-
 | F	 | IPv4 addresses for if ID for link endpoints (local, remote)  | --- | --- | --- | --- | --- |		
 | G	 | IPv6 Prefix and If ID for link endpoints (local, remote) for SR-MPLS	| --- | --- | --- | --- | --- |
 | H	 | IPv6 Addresses for link endpoints (local, remote) for SR-MPLS | --- | --- | --- | --- | --- |	
