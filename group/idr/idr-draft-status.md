@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:52:43.063Z
+date: 2022-11-27T10:53:41.864Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -163,8 +163,8 @@ This work examines Mini-DC and Non-Data Center work. Work was not continued.
   
 | draft         | scope |
 |---|---|
-| [draft-acee-ospf-bgp-rr] | Discovery via OSPF ||
-| [draft-raszuk-idr-bgp-auto-discovery] |  Discovery via BGP ||
+| [draft-acee-ospf-bgp-rr] | Discovery via OSPF |
+| [draft-raszuk-idr-bgp-auto-discovery] |  Discovery via BGP |
 
 
 
