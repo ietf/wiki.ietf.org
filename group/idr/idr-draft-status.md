@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:55:03.802Z
+date: 2022-11-27T10:55:53.565Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -166,6 +166,12 @@ This work examines Mini-DC and Non-Data Center work. Work was not continued.
 | [draft-acee-ospf-bgp-rr](https://datatracker.ietf.org/doc/draft-acee-ospf-bgp-rr/) | Discovery via OSPF |
 | [draft-raszuk-idr-bgp-auto-discovery](https://datatracker.ietf.org/doc/draft-raszuk-idr-bgp-auto-discovery/) | Discovery via BGP |
 
+### IPv6 Link Local Nexthop Work
+| draft | Focus |  
+|---|---|---| 
+| draft-kato-bgp-ipv6-link-local | TBD || 
+| draft-kumar-idr-link-local-nexthop | TBD ||
+| draft-white-linklocalnh | TBD || 
 
 
 ## Lingering Internet-Drafts Needing Conclusion
@@ -175,12 +181,6 @@ This work examines Mini-DC and Non-Data Center work. Work was not continued.
 | draft-uttaro-idr-bgp-persistence | | Expired Draft, Implementations Exist | Republish, Adoption and Cleanup? ||
 | draft-ietf-idr-add-paths-guidelines | | Expired Draft, Informational? | Determine if WG wishes to progress? ||
 
-## IPv6 Link Local Nexthop Work
-| draft | Focus |  
-|---|---|---|---|---|---|
-| draft-kato-bgp-ipv6-link-local ||
-| draft-kumar-idr-link-local-nexthop ||
-| draft-white-linklocalnh ||
 
 -----
 
