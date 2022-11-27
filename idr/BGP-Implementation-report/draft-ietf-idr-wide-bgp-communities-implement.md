@@ -2,7 +2,7 @@
 title: draft-ietf-idr-wide-communities Implementation report
 description: IDR WG implementation report on Vendor support for Wide communities
 published: true
-date: 2022-11-27T21:53:31.859Z
+date: 2022-11-27T21:53:56.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T21:20:41.312Z
@@ -79,6 +79,7 @@ N4: [draft-ietf-idr-rpd-15](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/
 ### WIDE Communities supported
 
 | Community	| document | TLVs	| Atoms Supported |
+|---|---|---|---|
 | MATCH AND SET ATTR |	[draft-ietf-idr-rpd-15](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/) |	Target, Exclude, Parameter | RouteAttr_ (T), MED change (P), ASPath (P) |
 | MATCH AND do not advertise | [draft-ietf-idr-rpd-15](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/) | 
 draft-ietf-idr-rpd-15	Target, Exclude, Parameter |	none |
