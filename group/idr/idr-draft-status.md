@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:40:15.198Z
+date: 2022-11-27T10:43:12.654Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -97,7 +97,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Adopted
 
 | draft      | Shepherd | status | Next step | WG adoption date | Adoption call | Draft uploaded |  
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | [draft-dunbar-idr-5G-edge-compute-app-meta-data](https://datatracker.ietf.org/doc/draft-dunbar-idr-5g-edge-compute-bgp-usage) | Susan Hares | Adopted held pending CAN BOF results| WG Draft | 9/10 | 7/29 to 8/29 | IETF-115  |
 
 For information on adoption process:  [[IDR adoption process]]
@@ -105,7 +105,7 @@ For information on adoption process:  [[IDR adoption process]]
 ## In WG Adoption Process
 
 | draft | Shepherd | Status | Next step | Adoption cycle  | Post-Adoption |  ETA |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | [draft-wang-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-wang-idr-vpn-prefix-orf/) | Susan Hares  | IDR chairs review | forward to ISE | 7/29 to 9/2  | IETF-115 | 11/6 |  
 | [draft-dong-idr-node-target-ext-comm](https://datatracker.ietf.org/wg/idr/documents) | Susan Hares | Chairs review | 9/27 to 10/20 | IETF-115 discuss | 11/7 | 
 
