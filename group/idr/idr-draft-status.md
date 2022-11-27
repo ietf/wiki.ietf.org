@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:21:15.161Z
+date: 2022-11-27T10:22:23.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -70,7 +70,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd |  status | Next step | WG LC Date | Time | ETA  | 
 |---|---|---|---|---|---|---|
 | none  |          |         |           |            |      |      |    
-|-------|----------|---------|-----------|------------|------|------|
+
 
 ## Past WG LC - Starting Timeout for lack of progress
 | draft | Shepherd |  status | Next step | WG LC Date | Time | Timeout | 
@@ -128,7 +128,6 @@ For information on adoption process:  [[IDR adoption process]]
 
 
 ## Adoption Process Major work items
-
  
 ### CAR/CT (Susan Hares)
 | draft  | Focus | Current state | Next Step | Adoption call | ETA  | 
