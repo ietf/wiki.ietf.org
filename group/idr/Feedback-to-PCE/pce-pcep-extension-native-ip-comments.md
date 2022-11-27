@@ -2,7 +2,7 @@
 title: IDR Shepherd Comments on draft-ietf-pce-pcep-extension-native-ip
 description: IDR Shepherd (Susan Hares) review of draft-ietf-pce-pcep-extension-native-ip-14
 published: true
-date: 2022-11-27T12:09:43.248Z
+date: 2022-11-27T12:11:41.408Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T12:06:59.147Z
@@ -11,6 +11,10 @@ dateCreated: 2022-11-27T12:06:59.147Z
 # Susan Hares Comments on draft-ietf-pce-pcep-extension-native-ip
  
  ## Comments on draft-ietf-pce-pcep-extension-native-ip-14
+ 
+ Thank you for your work on [draft-ietf-pce-pcep-extension-native-ip-14](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip/). This comment should be consider feedback from me as a WG member of IDR and PCE.
+
+Please also bear in mind that IDR has created a set of requirements for BGP auto-configuration at: [draft-ietf-idr-bgp-autoconf-considerations](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-autoconf-considerations/). 
  
  ### Overview of errors 
 - 1) section 6 description of BGP routers needs clarification (sections 6.1, 6.2, and 6.3) for RR and RR Clients
