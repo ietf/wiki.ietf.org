@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T11:02:49.642Z
+date: 2022-11-27T12:59:20.840Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -178,7 +178,6 @@ This work examines Mini-DC and Non-Data Center work.
 | draft | Shepherd | Status | Next step | WG LC | Time |  ETA |  
 |---|---|---|---|---|---|---| 
 | draft-ietf-idr-best-external | Susan Hares | Ed Draft, Implementations Exist | Republish draft, WGLC? | 
-| draft-uttaro-idr-bgp-persistence | | Expired Draft, Implementations Exist | Republish, Adoption and Cleanup? ||
 | draft-ietf-idr-add-paths-guidelines | | Expired Draft, Informational? | Determine if WG wishes to progress? ||
 
 
