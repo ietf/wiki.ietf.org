@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-flex-algo Implementation Report 
 description: Implementation Report for IDR for draft-ietf-idr-bgp-ls-flex-algo
 published: true
-date: 2022-11-27T19:33:52.301Z
+date: 2022-11-27T19:34:10.643Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T19:33:06.251Z
@@ -26,4 +26,3 @@ Author: Report created by Ketan Talaulikar (ketant@…) May 18, 2020
 | 1042 | Flex Algo Include All Affinity sub-TLV	| 7.1.1	| 17.4  |
 | 1043 | Flex Algo Definition Flags sub-TLV	    | 7.2.1 |	17.4  |
 | 1044 | Flex Algo Prefix Metric TLV	          | 7.2.1 |	17.4  |
-|---|---|---|---|----|
