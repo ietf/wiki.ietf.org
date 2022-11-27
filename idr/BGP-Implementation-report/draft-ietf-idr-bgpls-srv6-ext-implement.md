@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-bgpls-srv6-ext 
 description: Report on implementations of draft-ietf-idr-bgpls-srv6-ext 
 published: true
-date: 2022-11-27T19:55:19.943Z
+date: 2022-11-27T19:58:11.714Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T19:55:19.943Z
@@ -11,6 +11,9 @@ dateCreated: 2022-11-27T19:55:19.943Z
 # draft-ietf-idr-bgpls-srv6-ext Implementation Report
 
 This is the implementation report for [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/). 
+
+## Author of report 
+Report created by Ketan Talaulikar (ketant@…) October 29, 2020
 
 ## Vendors Supporting 
 
@@ -21,9 +24,6 @@ The following lists current implementation supported, and in some cases the init
 |---|---|---|---|---|---|
 | 6	        |SRv6 SID	|  7.1.1 | V2.17.0 | 	8.19.1 |	v0.1 |
 
-
-### Author of report 
-Report created by Ketan Talaulikar (ketant@…) October 29, 2020
 
 ## Specific Support 
 
