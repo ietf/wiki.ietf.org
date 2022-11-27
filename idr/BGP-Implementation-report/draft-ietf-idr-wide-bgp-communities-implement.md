@@ -2,7 +2,7 @@
 title: draft-ietf-idr-wide-communities Implementation report
 description: IDR WG implementation report on Vendor support for Wide communities
 published: true
-date: 2022-11-27T21:54:53.519Z
+date: 2022-11-27T21:55:33.162Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T21:20:41.312Z
@@ -75,6 +75,7 @@ N2: Parameter TLV supports: MED SubTLV, ASPath SubTLV
 N3: RouteAttr_ Atom subTLV with sub-subTLVs for list of IPv4-prefix ranges, list of IPv6-prefix ranges, ASPath-regex (regular expression), and list of communities.
 
 N4: [draft-ietf-idr-rpd-15](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)
+
 
 ### WIDE Communities supported
 
