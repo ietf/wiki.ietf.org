@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-23T06:31:31.748Z
+date: 2022-11-27T15:58:28.836Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -74,7 +74,7 @@ If you received the email but the link to create an account has expired, please 
 
 * Code can be accessed from  [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Results of Hackathon projects should be uploaded to https://github.com/IETF-Hackathon/ietf115-project-presentations/. See the [README](https://github.com/IETF-Hackathon/ietf115-project-presentations/blob/main/README.md) for details.
+* Results of Hackathon projects should be uploaded to https://github.com/IETF-Hackathon/ietf116-project-presentations/. See the [README](https://github.com/IETF-Hackathon/ietf116-project-presentations/blob/main/README.md) for details.
 
 
 ## Participant Preparation and Prerequisites
@@ -116,9 +116,9 @@ If you received the email but the link to create an account has expired, please 
    * Champions for each project are encouraged to share any other things they think would be helpful in preparation for the Hackathon
 * Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-    * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub](https://github.com/IETF-Hackathon/ietf115-project-presentations)
+    * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub](https://github.com/IETF-Hackathon/ietf116-project-presentations)
     * You must be a member of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation
-    * To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf115-project-presentations/blob/main/README.md)
+    * To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf116-project-presentations/blob/main/README.md)
     * DO NOT WAIT until just before Hackathon project presentations start or your request may be lost in the chaos
 ## Network
 
