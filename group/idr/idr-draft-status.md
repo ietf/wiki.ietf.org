@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T09:55:27.557Z
+date: 2022-11-27T09:57:05.804Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -139,14 +139,14 @@ For information on adoption process:  [[IDR adoption process]]
 | [draft-ietf-idr-bgp-car-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) | Susan Hares | Adopted | Revised-ID Error Handling | 7/6-7/27/2022 | Sept 2022  |  
 | interoperability draft | Susan Hares | in creation | TBD | TBD | TBD | 
 
-## Flow Specification v2 drafts
+### Flow Specification v2 drafts
 | draft | Shepherd |  status | Next step | WG Adoption Dates | IPR Check |  
 |---|---|---|---|---|---|
 | draft-ietf-idr-flowspec-l2vpn | Susan Hares | FSv2 done | Need FSv2 specification| TBD | TBD | 
 | draft-ietf-idr-flowspec-nv03 | Susan Hares ||FSv2 done | Need FSv2 specification| TBD  | TBD |   
 
 
-## Flow Specification Drafts needing revision for v1 version
+### Flow Specification v1 drafts need revision 
 | draft | Shepherd |  status | Next step | WG LC completed Date | Time | ETA | 
 |---|---|---|---|---|---|
 | draft-ietf-idr-flowspec-redirect-ip-02.txt | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
