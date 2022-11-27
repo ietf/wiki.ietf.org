@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:04:12.952Z
+date: 2022-11-27T10:08:36.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -116,7 +116,7 @@ For information on adoption process:  [[IDR adoption process]]
 
 | draft | Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
 |---|---|---|---|---|---|
-| draft-zzhang-idr-rt-derived-community-02 | Susan Hares | IPR + Adoption | TBD | TBD | TBD | 11/6 to 11/21 | 
+| draft-zzhang-idr-rt-derived-community-02  | Susan Hares | IPR + Adoption | TBD | TBD | TBD | 11/6 to 11/21 | 
 | draft-sas-idr-maxprefix-inbound | Susan Hares | adoption lacks support | 2nd call | TBD | TBD  | 11/6 to 11/21  ||
 | draft-dong-sr-policy-extensions-for-nrp-00 | Susan Hares | IPR call | TBD | TBD | TBD | 11/6 to 11/21 to 9/26 | 
 | draft-zzhang-idr-tunnel-encapsulation-label-stack | adoption| IPR call | authors revise | TBD | TBD | TBD |  
@@ -137,7 +137,7 @@ For information on adoption process:  [[IDR adoption process]]
 |---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ct](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/) | Susan Hares | Adopted | Revised-ID Error handling | 7/6-7/27/2022 | Sept 2022 | 
 | [draft-ietf-idr-bgp-car-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) | Susan Hares | Adopted | Revised-ID Error Handling | 7/6-7/27/2022 | Sept 2022  |  
-| interoperability draft | Susan Hares | in creation | TBD | TBD | TBD | 
+| {draft-haas-idr-bgp-diffract](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-diffract/)| Susan Hares | in creation | TBD | TBD | TBD | 
 
 ### Flow Specification v2 drafts
 | draft | Shepherd |  status | Next step | WG Adoption Dates | IPR Check |  
