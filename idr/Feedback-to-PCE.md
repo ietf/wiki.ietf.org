@@ -2,7 +2,7 @@
 title: Feedback to PCE WG 
 description: Feedback from IDR WG to PCE WG on DRafts
 published: true
-date: 2022-11-27T13:03:57.023Z
+date: 2022-11-27T13:04:16.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T12:03:31.003Z
@@ -24,5 +24,4 @@ dateCreated: 2022-11-27T12:03:31.003Z
 |---|---|---|---|---| 
  | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip/)) | Susan Hares | Complete | Add section | Done |
  | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp/) | TBD | TBD | TBD | TBD |
- |---|---|---|---|---|
 
