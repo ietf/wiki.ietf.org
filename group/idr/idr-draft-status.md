@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:09:20.703Z
+date: 2022-11-27T10:14:55.850Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -116,10 +116,10 @@ For information on adoption process:  [[IDR adoption process]]
 
 | draft | Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
 |---|---|---|---|---|---|
-| draft-zzhang-idr-rt-derived-community-02  | Susan Hares | IPR + Adoption | TBD | TBD | TBD | 11/6 to 11/21 | 
+| [draft-zzhang-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-zzhang-idr-rt-derived-community/)  | Susan Hares | IPR + Adoption | TBD | TBD | TBD | 11/28 to 12/12/2022 | 
 | draft-sas-idr-maxprefix-inbound | Susan Hares | adoption lacks support | 2nd call | TBD | TBD  | 11/6 to 11/21  ||
 | draft-dong-sr-policy-extensions-for-nrp-00 | Susan Hares | IPR call | TBD | TBD | TBD | 11/6 to 11/21 to 9/26 | 
-| draft-zzhang-idr-tunnel-encapsulation-label-stack | adoption| IPR call | authors revise | TBD | TBD | TBD |  
+| [draft-zzhang-idr-tunnel-encapsulation-label-stack](https://datatracker.ietf.org/doc/draft-zzhang-idr-tunnel-encapsulation-label-stack/) | adoption| IPR call | authors revise | TBD | TBD | TBD |  
  
 
 ## Adoption Process - drafts on hold
