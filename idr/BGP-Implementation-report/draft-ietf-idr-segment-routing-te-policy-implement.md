@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2022-11-27T20:43:49.906Z
+date: 2022-11-27T20:52:12.662Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -67,3 +67,24 @@ Report created by Ketan Talaulikar (ketant@…)
 | Support for Type 1 mode	            | 7.3.2	| ---       	| 4.21.0	| 16.0.R1 |	TBD     |
 | Support for Type 2 mode             |	---   | ---         | 4.21.0	| 16.0.R1	| TBD     |
 | Support for multiple Color Ext Comm	| 7.3.2 |	V800R019C10(Use the Color EC with the largest value) |	4.21.0 | 16.0.R1	| TBD |
+
+## interoperability test results 
+Interoperability tests between various vendors for this specification has been tested by EANTC for several years now. Specifically, please refer to this test report from the 2019 event
+[ENACTC test report](https://eantc.de/fileadmin/eantc/downloads/News/2019/EANTC-MPLSSDNNFV2019-WhitePaper-v1.2.pdf).  
+
+- The BGP SR Policy SAFI usage for signaling between controller & routers was tested.  Also the steering based on Color Extended Community.  Refer to pages 26-27
+
+Additional tests were done in similar events in [2020](https://eantc.de/fileadmin/eantc/downloads/events/MPLS2020/EANTC-MPLSSDNNFV2020-WhitePaper.pdf) and [2022](​https://eantc.de/fileadmin/eantc/downloads/events/2022/EANTC-InteropTest2022-TestReport.pdf). 
+ 
+ The interoperability tests do not cover the error conditions or the handing of malformed/invalid BGP
+ UPDATE messages.
+ 
+ ## References for Configuration per Vendor
+
+[Juniper reference for segment routing](https://www.juniper.net/documentation/us/en/software/junos/standards/topics/concept/segment-routing.html) 
+
+[GoBGP reference for segment routing](https://github.com/osrg/gobgp/blob/master/docs/sources/lib-srpolicy.md)
+
+
+ 
+ 
