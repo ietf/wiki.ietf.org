@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-flex-algo Implementation Report 
 description: Implementation Report for IDR for draft-ietf-idr-bgp-ls-flex-algo
 published: true
-date: 2022-11-27T19:33:06.251Z
+date: 2022-11-27T19:33:52.301Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T19:33:06.251Z
@@ -18,7 +18,7 @@ Author: Report created by Ketan Talaulikar (ketant@…) May 18, 2020
 
 ## Feature Support 
 
-TLV Code Point	Description	Cisco IOS-XR	Cisco IOS-XE
+| TLV Code Point | Description  | 	Cisco IOS-XR | 	Cisco IOS-XE |
 |---|---|---|---|----|
 | 1039 | Flex Algorithm Definition TLV          | 7.1.1 | 17.4  | 
 | 1040 | Flex Algo Exclude Any Affinity sub-TLV | 7.1.1 | 17.4  |
