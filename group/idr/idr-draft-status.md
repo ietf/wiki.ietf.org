@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:22:23.538Z
+date: 2022-11-27T10:23:53.485Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -35,11 +35,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## At IESG
 
-| draft | Shepherd |  status | Next step | WG LC OK | Pub-Request | Time in State days | ETA  | Time since WG LC days | 
+| draft | Shepherd |  status | Next step | WG LC OK | Pub-Request | Time in State | ETA  | Time since WG LC  | 
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | May-21-2021 |   14 | Dec-1-2022 | 740 |  
-| [draft-ietf-idr-bfd-subcode-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bfd-subcode) | Keyur Patel | IESG Review | IESG telechat  | Sept-9-2022 | Oct-20-2022  | 14 |  Dec-1-2022 | 79 | 
-| [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc7752bis) | Jeff Haas | IESG Review | IETSG Telechat | Aug-6-2021 |  Nov-10-2021 | 14 | Dec-15-2022 | 478 | 
+| [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext) | Susan Hares | IESG Review | IESG Telechat | Nov-17-2020 | May-21-2021 | 14 days | Dec-1-2022 | 740 days |  
+| [draft-ietf-idr-bfd-subcode-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bfd-subcode) | Keyur Patel | IESG Review | IESG telechat  | Sept-9-2022 | Oct-20-2022  | 14 days |  Dec-1-2022 | 79 days | 
+| [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc7752bis) | Jeff Haas | IESG Review | IETSG Telechat | Aug-6-2021 |  Nov-10-2021 | 14 days | Dec-15-2022 | 478 days | 
 |---|---|---|---|---|---|---|---|---|
  
 ## Needs revision During AD Review
