@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2022-11-27T11:28:34.490Z
+date: 2022-11-27T11:31:16.110Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -14,4 +14,4 @@ dateCreated: 2022-11-05T17:09:59.809Z
 
 The following page tracks BESS drafts needing feedback from IDR
 
-- [Feed back on draft-ietf-bess-evpn-ipvpn-internework](/idr/Feedback-to-BESS/evpn-ivpn-interworking-feedback)
+- [Feed back on draft-ietf-bess-evpn-ipvpn-internework](/idr/Feedback-to-BESS/evpn-ipvpn-interworking-feedback)
