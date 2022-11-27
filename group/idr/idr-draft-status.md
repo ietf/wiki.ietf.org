@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:58:02.978Z
+date: 2022-11-27T11:02:49.642Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -159,12 +159,12 @@ For information on adoption process:  [[IDR adoption process]]
 BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support.  WG queried at IETF-114, but no additional details on follow-on. 
 
 ### Mini-DC and Non-Data Center Scoped Autoconfiguration Work (Sue Hares)
-This work examines Mini-DC and Non-Data Center work. Work was not continued. 
+This work examines Mini-DC and Non-Data Center work.  
   
-| draft         | scope |
-|---|---|
-| [draft-acee-ospf-bgp-rr](https://datatracker.ietf.org/doc/draft-acee-ospf-bgp-rr/) | Discovery via OSPF |
-| [draft-raszuk-idr-bgp-auto-discovery](https://datatracker.ietf.org/doc/draft-raszuk-idr-bgp-auto-discovery/) | Discovery via BGP |
+| draft         | scope | Use case | 
+|---|---|---|
+| [draft-acee-ospf-bgp-rr](https://datatracker.ietf.org/doc/draft-acee-ospf-bgp-rr/) | Discovery via OSPF | TBD | 
+| [draft-raszuk-idr-bgp-auto-discovery](https://datatracker.ietf.org/doc/draft-raszuk-idr-bgp-auto-discovery/) | Discovery via BGP | TBD | 
 
 ### IPv6 Link Local Nexthop Work
 | draft | Focus |  
@@ -175,9 +175,9 @@ This work examines Mini-DC and Non-Data Center work. Work was not continued.
 
 
 ## Lingering Internet-Drafts Needing Conclusion
-| draft | Shepherd | Status | Next step | 
-|---|---|---|---|---|---|
-| draft-ietf-idr-best-external | | Expired Draft, Implementations Exist | Republish draft, WGLC? | 
+| draft | Shepherd | Status | Next step | WG LC | Time |  ETA |  
+|---|---|---|---|---|---|---| 
+| draft-ietf-idr-best-external | Susan Hares | Ed Draft, Implementations Exist | Republish draft, WGLC? | 
 | draft-uttaro-idr-bgp-persistence | | Expired Draft, Implementations Exist | Republish, Adoption and Cleanup? ||
 | draft-ietf-idr-add-paths-guidelines | | Expired Draft, Informational? | Determine if WG wishes to progress? ||
 
