@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:46:07.547Z
+date: 2022-11-27T10:46:43.729Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -120,7 +120,8 @@ For information on adoption process:  [[IDR adoption process]]
  
 
 ## Adoption Process - drafts on hold
-|---|---|---|---|---|---|
+| draft | Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
+|---|---|---|---|---|---|---|
 | draft-zhou-idr-bgp-srmpls-elp-03 | Susan Hares | IPR OK | Adoption call | TBD | TBD | on hold  | 
 | draft-chen-bgp-redist | Susan Hares | on hold  | IDR Chairs review | TBD | TBD | on hold | 
 | draft-wu-idr-bgp-segment-allocation-ext-08 | Susan Hares | on hold  | IPR check | TBD | TBD | on hold  | 
