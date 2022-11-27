@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2022-11-27T20:37:36.636Z
+date: 2022-11-27T20:43:49.906Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -61,10 +61,9 @@ Report created by Ketan Talaulikar (ketant@…)
 
 ### Color Extended Community Support for Steering over SR Policy
 
-Color Extended Community Support for Steering over SR Policy
-
-Functionality	Cisco IOS-XR	Huawei VRP	Arista EOS	Nokia SR OS	GoBGP
-Support for Type 0 (default) mode	7.3.2	V800R019C10	4.21.0	16.0.R1	v2.34.0
-Support for Type 1 mode	7.3.2	-	4.21.0	16.0.R1	TBD
-Support for Type 2 mode	-	-	4.21.0	16.0.R1	TBD
-Support for multiple Color Ext Comm	7.3.2	V800R019C10(Use the Color EC with the largest value)	4.21.0	16.0.R1	TBD
+| Functionality               | Cisco IOS-XR	| Huawei VRP  | Arista EOS |	Nokia SR OS |	GoBGP |
+|---|---|---|---|---|---|---|
+| Support for Type 0 (default) mode   | 7.3.2 | V800R019C10 |	4.21.0	| 16.0.R1 |	v2.34.0 |
+| Support for Type 1 mode	            | 7.3.2	| ---       	| 4.21.0	| 16.0.R1 |	TBD     |
+| Support for Type 2 mode             |	---   | ---         | 4.21.0	| 16.0.R1	| TBD     |
+| Support for multiple Color Ext Comm	| 7.3.2 |	V800R019C10(Use the Color EC with the largest value) |	4.21.0 | 16.0.R1	| TBD |
