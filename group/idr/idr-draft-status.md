@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T09:57:05.804Z
+date: 2022-11-27T10:00:32.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -135,7 +135,7 @@ For information on adoption process:  [[IDR adoption process]]
 ### CAR/CT (Susan Hares)
 | draft  | Focus | Current state | Next Step | Adoption call | ETA  | 
 |---|---|---|---|---|---|
-| [draft-ietf-idr-bgp-ct] | Susan Hares | Adopted | Revised-ID Error handling | 7/6-7/27/2022 | Sept 2022 | 
+| [draft-ietf-idr-bgp-ct](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/) | Susan Hares | Adopted | Revised-ID Error handling | 7/6-7/27/2022 | Sept 2022 | 
 | [draft-ietf-idr-bgp-car-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) | Susan Hares | Adopted | Revised-ID Error Handling | 7/6-7/27/2022 | Sept 2022  |  
 | interoperability draft | Susan Hares | in creation | TBD | TBD | TBD | 
 
@@ -153,6 +153,18 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-ietf-idr-flowspec-path-redirect | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 | draft-ietf-idr-flowspec-interfaceset | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
 
+### BGP Autoconfiguration Work (Jeff Haas)
+BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support.  WG queried at IETF-114, but no additional details on follow-on. 
+
+### Mini-DC and Non-Data Center Scoped Autoconfiguration Work (Sue Hares)
+This work examines Mini-DC and Non-Data Center work. Work was not continued. 
+ 
+| draft | scope |
+|---|---|---|---|---|---|
+| draft-acee-ospf-bgp-rr | Discovery via OSPF ||
+| draft-raszuk-idr-bgp-auto-discovery |  Discovery via BGP ||
+
+
 ## Lingering Internet-Drafts Needing Conclusion
 | draft | Shepherd | Status | Next step | 
 |---|---|---|---|---|---|
@@ -166,33 +178,6 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-kato-bgp-ipv6-link-local ||
 | draft-kumar-idr-link-local-nexthop ||
 | draft-white-linklocalnh ||
-
-## BGP Autoconfiguration Work (Jeff Haas)
-BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support. 
-WG queried at IETF-114, but no additional details on follow-on. 
-
-### Data Center Scoped Autoconfiguration Work
-| draft | scope ||
-|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-autoconf-considerations | Requirements ||
-| draft-acee-idr-lldp-peer-discovery | Layer 2 | 
-| draft-ietf-lsvr-l3dl | Layer 2 |   
-| draft-ietf-lsvr-l3dl-ulpc | Layer 2 upper layer | 
-| draft-minto-idr-bgp-autodiscovery | Layer 3 Multicast |  
-| draft-raszuk-idr-bgp-auto-session-setup | Layer 3 Multicast |  
-| draft-xu-idr-neighbor-autodiscovery | Layer 3 Multicast |  
-| draft-ymbk-idr-l3dn | Layer 3 Multicast TCP |  
-| draft-ymbk-idr-l3dn-ulpc | Layer 3 Multicast TCP | 
-
-
-### Mini-DC and Non-Data Center Scoped Autoconfiguration Work (Sue Hares)
-This work examines Mini-DC and Non-Data Center work.  
-The first step after IETF 114 is to determine what expansion is needed to DC work. 
-
-| draft | scope ||
-|---|---|---|---|---|---|
-| draft-acee-ospf-bgp-rr | Discovery via OSPF ||
-| draft-raszuk-idr-bgp-auto-discovery |  Discovery via BGP ||
 
 -----
 
