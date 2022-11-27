@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2022-11-27T20:53:54.571Z
+date: 2022-11-27T20:55:43.533Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -34,6 +34,7 @@ Report created by Ketan Talaulikar (ketant@…)
 | 128 |	Segment List sub-TLV | Yes | Yes	        | Yes	| Yes	| Yes |
 |     | Segment sub-TLVs	   | sub-TLV 1 | sub-TLV 1 | Sub-TLV 1,13 |	Sub-TLV 1 | 	Yes | 
 
+
 ### Sub-TLV support 
 
 | TLV Code Point |	Segement Sub TLV	 | Cisco IOS-XR | 	Arista EOS | Huawei VRP |	Nokia SROS | GoBGP | 
@@ -41,6 +42,7 @@ Report created by Ketan Talaulikar (ketant@…)
 |   9  |	Weight sub-TLV                    | Yes | Yes | Yes | Yes |	Yes |
 | 129	 | Policy Candidate Path Name sub-TLV |	--- | --- |	--- | --- |	Yes |
 | 130  | Policy Name sub-TLV	              | --- | --- | --- | --- | --- |
+
 
 ### Segment Type Description 
 
