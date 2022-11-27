@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:49:25.930Z
+date: 2022-11-27T10:52:43.063Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -151,9 +151,9 @@ For information on adoption process:  [[IDR adoption process]]
 ### Flow Specification v1 drafts need revision 
 | draft | Shepherd |  status | Next step | WG LC completed Date | Time | ETA | 
 |---|---|---|---|---|---|---|
-| draft-ietf-idr-flowspec-redirect-ip-02.txt | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
-| draft-ietf-idr-flowspec-path-redirect | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
-| draft-ietf-idr-flowspec-interfaceset | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD ||
+| [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) | Susan Hares | Awaiting -03 | WG LC | TBD | TBD | TBD |
+| [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) | Susan Hares | implementation check | WG LC  | TBD | TBD | TBD |
+| draft-ietf-idr-flowspec-interfaceset | Susan Hares | Expired Draft, Implementations Exist | Republish, WGLC? | TBD | TBD | TBD |
 
 ### BGP Autoconfiguration Work (Jeff Haas)
 BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support.  WG queried at IETF-114, but no additional details on follow-on. 
