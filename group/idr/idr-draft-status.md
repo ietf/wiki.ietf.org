@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:45:30.440Z
+date: 2022-11-27T10:46:07.547Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -112,7 +112,7 @@ For information on adoption process:  [[IDR adoption process]]
 ## Adoption Process - upcoming Adoptions 
 
 | draft | Shepherd | Status | Next step | Adoption complete  | Post-Adoption |  ETA |   
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | [draft-zzhang-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-zzhang-idr-rt-derived-community/)  | Susan Hares | IPR + Adoption | TBD | TBD | TBD | 11/28 to 12/12/2022 | 
 | [draft-sas-idr-maxprefix-inbound](https://datatracker.ietf.org/doc/draft-sas-idr-maxprefix-inbound/) | Susan Hares | adoption lacks support | 2nd call | TBD | TBD  | 11/6 to 11/21  ||
 | [draft-dong-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-dong-idr-sr-policy-nrp/) | Susan Hares | IPR call | TBD | TBD | TBD | 11/6 to 11/21 to 9/26 | 
