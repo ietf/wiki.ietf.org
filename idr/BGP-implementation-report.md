@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2022-11-27T19:39:31.681Z
+date: 2022-11-27T19:58:59.887Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
