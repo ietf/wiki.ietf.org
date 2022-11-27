@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2022-11-27T13:31:21.428Z
+date: 2022-11-27T19:39:31.681Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
@@ -18,6 +18,11 @@ dateCreated: 2022-11-27T13:09:18.246Z
 ## Implementation reports for drafts at IESG
 - [draft-ietf-idr-bgp-ls-flex-algo implementations](/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-implement)
 - [draft-ietf-idr-bgpls-srv6-ext implementations](/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
+- [draft-ietf-idr-RFC7752bis implementations](/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
+- [draft-ietf-idr-segment-routing-te-policy implementations](/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) 
+- [draft-ietf-idr-wide-bgp-communities implementations](/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
+- [draft-ietf-idr-rpd implementations](/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
+
 
 ## Implementation reports for drafts finished WG LC 
 
