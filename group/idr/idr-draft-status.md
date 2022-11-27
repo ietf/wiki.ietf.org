@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:33:47.027Z
+date: 2022-11-27T10:38:25.493Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -73,6 +73,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 
 ## Past WG LC - Starting Timeout for lack of progress
+
 | draft | Shepherd |  status | Next step | WG LC Date | Time | Timeout | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-rs-bfd](http://datatracker.ietf.org/doc/draft-ietf-idr-rs-bsd) | Susan Hares | awaiting implementations | 2 implementations | 10-4-2018 | 859 | 12-31-2022| 
@@ -86,22 +87,20 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC-Upcoming 
 
 | draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
-|---|---|---|---|---|---|---|  
+|---|---|---|---|---|---|---|
 | [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) | Susan Hares | 4 (info) | WG LC | TBD  | TBD |  TBD |   
 | [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) | Susan Hares | 2 (TBD) | WG LC | TBD | TBD | TBD | 
 | [draft-ietf-idr-bgp-model](http://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model) | Jie Dong | TBD | WG LC |  TBD | TBD | TBD |  
 | [draft-ietf-idr-sr-policy-fit](http:://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) | Susan Hares | need 2 | IPR  | TBD | TBD | TBD ||
 |---|---|---|---|---|---|---|
 
-
-
 ## Adopted
 
-For information on adoption process:  [[IDR adoption process]]
 | draft      | Shepherd | status | Next step | WG adoption date | Adoption call | Draft uploaded |  
 |---|---|---|---|---|---|
-| [draft-dunbar-idr-5G-edge-compute-app-meta-data](https://datatracker.ietf.org/doc/draft-dunbar-idr-5g-edge-compute-bgp-usage) | Susan Hares | Adopted held pending CAN BOF| WG Draft | 9/10 | 7/29 to 8/29 | IETF-115  |
+| [draft-dunbar-idr-5G-edge-compute-app-meta-data](https://datatracker.ietf.org/doc/draft-dunbar-idr-5g-edge-compute-bgp-usage) | Susan Hares | Adopted held pending CAN BOF results| WG Draft | 9/10 | 7/29 to 8/29 | IETF-115  |
 
+For information on adoption process:  [[IDR adoption process]]
 
 ## In WG Adoption Process
 
