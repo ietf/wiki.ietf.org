@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:20:05.653Z
+date: 2022-11-27T10:21:15.161Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -67,10 +67,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## Past WG LC awaiting implementations
 
-| draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
+| draft | Shepherd |  status | Next step | WG LC Date | Time | ETA  | 
 |---|---|---|---|---|---|---|
 | none  |          |         |           |            |      |      |    
-
+|-------|----------|---------|-----------|------------|------|------|
 
 ## Past WG LC - Starting Timeout for lack of progress
 | draft | Shepherd |  status | Next step | WG LC Date | Time | Timeout | 
