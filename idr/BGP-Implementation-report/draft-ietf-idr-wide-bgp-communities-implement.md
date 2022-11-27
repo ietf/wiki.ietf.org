@@ -2,7 +2,7 @@
 title: draft-ietf-idr-wide-communities Implementation report
 description: IDR WG implementation report on Vendor support for Wide communities
 published: true
-date: 2022-11-27T21:55:33.162Z
+date: 2022-11-27T21:56:57.774Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T21:20:41.312Z
