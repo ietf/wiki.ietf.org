@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:16:22.109Z
+date: 2022-11-27T10:20:05.653Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -25,7 +25,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-flex-algo) | Jie Dong | RFC editor queue| Auth-48 | Nov-17-2020 | Aug-29-2022 | 90 days | 740 days | 
 |---|---|---|---|---|---|---|---|
-
 
 
 ## IESG Approved
@@ -70,7 +69,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd |  status | Next step | WG LC Date | Time | ETA | 
 |---|---|---|---|---|---|---|
-|
+| none  |          |         |           |            |      |      |    
 
 
 ## Past WG LC - Starting Timeout for lack of progress
