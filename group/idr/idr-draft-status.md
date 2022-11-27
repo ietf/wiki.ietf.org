@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:46:43.729Z
+date: 2022-11-27T10:48:50.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -160,11 +160,12 @@ BGP auto-configuration held an adoption call in May 2022, but none of the drafts
 
 ### Mini-DC and Non-Data Center Scoped Autoconfiguration Work (Sue Hares)
 This work examines Mini-DC and Non-Data Center work. Work was not continued. 
- 
-| draft | scope |
-|---|---|---|---|---|---|
-| draft-acee-ospf-bgp-rr | Discovery via OSPF ||
-| draft-raszuk-idr-bgp-auto-discovery |  Discovery via BGP ||
+  
+| draft         | scope |
+|---|---|
+| [draft-acee-ospf-bgp-rr] | Discovery via OSPF ||
+| [draft-raszuk-idr-bgp-auto-discovery] |  Discovery via BGP ||
+
 
 
 ## Lingering Internet-Drafts Needing Conclusion
