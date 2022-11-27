@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:01:23.181Z
+date: 2022-11-27T10:04:12.952Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -83,7 +83,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft | Shepherd | implementations | Next step | WG LC date | Time in WG LC | WG LC ETA | 
 |---|---|---|---|---|---|
-| [draft-ietf-idr-deprecate-8-9-10](https://datatracker.ietf.org/doc/draft-ietf-idr-deprecate-8-9-10) | Jeff Haas | n.a. | Write + Draft dead | Oct-17-2022 | 41 | 11/30/2022 | 
+| [draft-ietf-idr-deprecate-8-9-10](https://datatracker.ietf.org/doc/draft-ietf-idr-deprecate-8-9-10) | Jeff Haas | n.a. | WG LC close + Dead | Oct-17-2022 | 41 | 11/30/2022 | 
 
 ## WG LC-Upcoming 
 
