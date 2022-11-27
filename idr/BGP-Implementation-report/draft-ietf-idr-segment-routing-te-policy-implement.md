@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2022-11-27T20:56:23.784Z
+date: 2022-11-27T20:57:35.967Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -77,7 +77,7 @@ Interoperability tests between various vendors for this specification has been t
 
 - The BGP SR Policy SAFI usage for signaling between controller & routers was tested.  Also the steering based on Color Extended Community.  Refer to pages 26-27
 
-Additional tests were done in similar events in [2020](https://eantc.de/fileadmin/eantc/downloads/events/MPLS2020/EANTC-MPLSSDNNFV2020-WhitePaper.pdf) and [2022](​https://eantc.de/fileadmin/eantc/downloads/events/2022/EANTC-InteropTest2022-TestReport.pdf). 
+Additional tests were done in similar events in [2020](https://eantc.de/fileadmin/eantc/downloads/events/MPLS2020/EANTC-MPLSSDNNFV2020-WhitePaper.pdf) and [2022](https://eantc.de/fileadmin/eantc/downloads/events/2022/EANTC-InteropTest2022-TestReport.pdf). 
  
  The interoperability tests do not cover the error conditions or the handing of malformed/invalid BGP
  UPDATE messages.
