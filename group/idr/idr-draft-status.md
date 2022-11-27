@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T10:23:53.485Z
+date: 2022-11-27T10:33:47.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -126,8 +126,13 @@ For information on adoption process:  [[IDR adoption process]]
 | draft-chen-bgp-redist | Susan Hares | on hold  | IDR Chairs review | TBD | TBD | on hold | 
 | draft-wu-idr-bgp-segment-allocation-ext-08 | Susan Hares | on hold  | IPR check | TBD | TBD | on hold  | 
 
+## Early Allocations Pending
+| draft | Shepherd | Status| Next step | Early allocation made  | Allocation Runs out |   
+|---|---|---|---|---|---|
+| none | Susan Hares | 
 
-## Adoption Process Major work items
+
+## Major work items
  
 ### CAR/CT (Susan Hares)
 | draft  | Focus | Current state | Next Step | Adoption call | ETA  | 
@@ -178,7 +183,4 @@ This work examines Mini-DC and Non-Data Center work. Work was not continued.
 
 -----
 
-## Early Allocations Pending
-| draft | Shepherd | Status| Next step | Early allocation made  | Allocation Runs out |   
-|---|---|---|---|---|---|
-| none | Susan Hares | 
+
