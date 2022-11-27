@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2022-11-27T09:40:44.624Z
+date: 2022-11-27T09:55:27.557Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -32,7 +32,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd | status | Next step | WG LC OK | IESG OK | Time in state | Time | 
 |---|---|---|---|---|---|---|---|---|
 | None  |   |   |   |   |   |   |   |   | 
-
 |---|---|---|---|---|---|---|---|---|
 
 ## At IESG
@@ -132,21 +131,12 @@ For information on adoption process:  [[IDR adoption process]]
 
 ## Adoption Process Major work items
 
-### Data Center Scoped Autoconfiguration Work (Jeff Haas) (5/25/27) No Drafts Adopted - Will sponsor to ISE 
-| draft  | Focus | Current state | Next Step | Adoption call | IPR check |  
-|---|---|---|---|---|---|
-| draft-acee-idr-lldp-peer-discovery | Layer 2 | List discuss 3/4-3/18 | Adoption call | TBD | 5/2-5/27 | 
-| draft-ietf-lsvr-l3dl | Layer 2 | List discuss 3/4-3/18  | Adoption call  | TBD | 5/2-5/27 | 
-| draft-ietf-lsvr-l3dl-ulpc | Layer 2 BGL TLVs | List discuss 3/4-3/18  | Adoption call  | TBD | 5/2-5/27 ||
-| draft-minto-idr-bgp-autodiscovery | Layer 3 Multicast | List discuss 3/4-3/18 | adoption call | TBD | 5/2-5/27 ||
-| draft-ymbk-idr-l3dn | Layer 3 Multicast TCP | list discuss 3/4-3/18 | adoption call | TBD | 5/2-5/27 ||
-| draft-ymbk-idr-l3dn-ulpc | Layer 3 BGP TLVs  | list discuss 3/4-3/18 | adoption call | TBD |  5/2-5/27 ||
-| draft-xu-idr-neighbor-autodiscovery | Layer 3 Multicast | List discuss 3/4-3/18 | adoption call | TBD | not in adoption call  | 
  
 ### CAR/CT (Susan Hares)
 | draft  | Focus | Current state | Next Step | Adoption call | ETA  | 
-| draft-ietf-idr-bgp-classful-transport-planes | Susan Hares | Adopted | Revised-ID Error handling | 7/6-7/27/2022 | Sept 2022 | 
-| draft-ietf-bess-bgp-car-03 | Susan Hares | Adopted | Revised-ID Error Handling | 7/6-7/27/2022 | Sept 2022  |  
+|---|---|---|---|---|---|
+| [draft-ietf-idr-bgp-ct] | Susan Hares | Adopted | Revised-ID Error handling | 7/6-7/27/2022 | Sept 2022 | 
+| [draft-ietf-idr-bgp-car-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) | Susan Hares | Adopted | Revised-ID Error Handling | 7/6-7/27/2022 | Sept 2022  |  
 | interoperability draft | Susan Hares | in creation | TBD | TBD | TBD | 
 
 ## Flow Specification v2 drafts
