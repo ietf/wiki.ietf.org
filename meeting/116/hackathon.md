@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-28T22:27:03.610Z
+date: 2022-11-28T22:53:09.932Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -25,7 +25,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * [Onsite Hackathon participants](https://registration.ietf.org/116/participants/hackathon_onsite/)
 * [Remote Hackathon participants](https://registration.ietf.org/116/participants/hackathon_remote/)
 
-**[Gather link](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
+**[Gather](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
 
 
 Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
@@ -41,7 +41,7 @@ Hackathon (all times are Japan Standard Time, UTC+9)
 * **09:30** : Room open for setup by project champions    
 * **10:00** : Room open for all - pastries and coffee provided
 * **10:30** : Hackathon kickoff, [Meetecho](https://meetings.conf.meetecho.com/ietf116/?group=hackathon&short=&item=2)
-* **10:45** : Form Teams, see [Team Schedule](https://wiki.ietf.org/meeting/116/hackathon/teamschedule)
+* **10:45** : Form Teams, see [Team Schedule](hackathon/teamschedule)
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
 * **18:30** : Dinner provided
@@ -64,13 +64,13 @@ Related activities before and after the Hackathon weekend
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
   * Monday, 27 March, Time: 1800 - 1900, Room: TBD
-  * View the [schedule](hackdemo) or reserve space for your team/project
+  * View the [schedule](hackathon/hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 12:00, Monday 27 March
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
   * Monday - Friday, 27-31 March, Room: TBD
-  * View the [schedule](codelounge) or reserve space for your team/project
+  * View the [schedule](hackathon/codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
@@ -100,7 +100,7 @@ If you received the email but the link to create an account has expired, please 
    * Before the Hackathon, champions should:
       * Add information about your project to the list of  [Projects included in Hackathon](#ProjectsIncludedinHackathon)
       * Recruit participants from associated working groups, open source projects, etc. Announcing your projects via an email to (hackathon@ietf.org) can be helpful as well.
-      * Specify when and how the project team will meet on the [Team Schedule](teamschedule)
+      * Specify when and how the project team will meet on the [Team Schedule](hackathon/teamschedule)
    * At the Hackathon, champions should: 
       * Make themselves available to answer questions and help others
       * Hack on things themselves in their copious free time
@@ -108,11 +108,11 @@ If you received the email but the link to create an account has expired, please 
 * Choosing a Project
    * Champions post and lead projects 
    * Details on each project and links to additional information for each project are in the list of [Projects included in Hackathon](#ProjectsIncludedinHackathon) 
-   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamschedule).
+   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](hackathon/teamschedule).
    * Familiarity with technology area(s) in which you plan to participate will certainly help
    * It is perfectly fine, even encouraged, to work on multiple projects 
 * Lost & Found
-   *  Participants looking for a team and champions wanting help on their projects are encouraged to visit the [Lost & Found](lost&found).
+   *  Participants looking for a team and champions wanting help on their projects are encouraged to visit the [Lost & Found](hackathon/lost&found).
 * Development Environment
    * Bring a laptop on which you are comfortable developing software
    * Some projects may require installing additional software or make use of VMs or containers
@@ -123,12 +123,6 @@ If you received the email but the link to create an account has expired, please 
    * An online tutorial is available here: [Git Tutorial](https://git-scm.com/docs/gittutorial)
    * The [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org is used for Hackathon presentations and contains repositories for some Hackathon projects.
      * If you would like to have your project/code hosted here, send your GitHub ID and the name of your project via email to (hackathon-chairs@ietf.org)
-* Training Materials
-   * Network programmability based on IETF standard protocols and models is relevant to many projects. Self paced online training modules are available on Cisco DevNet. Access is free but a DevNet account is required.
-      * [Intro to Coding Fundamentals](https://developer.cisco.com/learning/modules/fundamentals)
-      * [REST API Fundamentals](https://developer.cisco.com/learning/modules/rest-api-fundamentals) 
-      * [Introduction to Model Driven Programmability (YANG, NETCONF, RESTCONF)](https://developer.cisco.com/learning/modules/intro-device-level-interfaces)
-   * Champions for each project are encouraged to share any other things they think would be helpful in preparation for the Hackathon
 * Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
     * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub](https://github.com/IETF-Hackathon/ietf116-project-presentations)
@@ -151,7 +145,7 @@ Champions can request a Webex account they can use to schedule meetings for thei
 
 In addition to registering for the Hackathon and [subscribing](https://www.ietf.org/mailman/listinfo/hackathon) to the Hackathon list. It is recommended to monitor both the Hackathon wiki and the list as the Hackathon approaches, determine which project(s) are of interest to you, and reach out to the champions of those projects to determine how best to be involved and coordinate with the rest of the team working on each project.
 
-Champions are welcome and encouraged to list times and mechanisms for collaborating with their team in the [Team Schedule](teamschedule). Participants can use this page to determine how and when to reach other team members. 
+Champions are welcome and encouraged to list times and mechanisms for collaborating with their team in the [Team Schedule](hackathon/teamschedule). Participants can use this page to determine how and when to reach other team members. 
 
 The Hackathon kickoff and the project results presentations can be joined via Meetecho. The Hackathon Zulip stream may be used for general and project specific communication.
 * [Zulip stream](https://zulip.ietf.org/#streams/326/hackathon)
