@@ -2,7 +2,7 @@
 title: draft-ietf-idr-long-lived-gr Implementation Report
 description: IDR WG report on Vendor implementations of draft-ietf-idr-long-lived-gr (long lived graceful restart)
 published: true
-date: 2022-11-28T01:16:06.658Z
+date: 2022-11-28T01:18:03.573Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T00:04:22.990Z
@@ -37,11 +37,9 @@ Jeff Haas (jhaas@juniper.net)
 - What range of values is supported by the implementation for the "Long-lived Stale Time"?
 
 ### 3.2. LLGR_STALE Community
-
 - Does the implementation permit the user to configure policies that accept, reject, or modify routes based on the presence or absence of the LLGR_STALE Community?
 
 ### 3.3. NO_LLGR Community
-- 
 - Does the implementation permit the user to configure policies that accept, reject, or modify routes based on the presence or absence of the LLGR_STALE Community?
 
 ### 4.1. Use of Graceful Restart Capability
