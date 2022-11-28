@@ -2,7 +2,7 @@
 title: draft-ietf-idr-long-lived-gr Implementation Report
 description: IDR WG report on Vendor implementations of draft-ietf-idr-long-lived-gr (long lived graceful restart)
 published: true
-date: 2022-11-28T01:18:03.573Z
+date: 2022-11-28T01:32:16.540Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T00:04:22.990Z
@@ -258,9 +258,9 @@ Does the implementation ignore the LLGR capability when not accompanied by a [RF
 - Does the implementation, when supporting [RFC 6368](https://datatracker.ietf.org/doc/rfc6368) and LLGR has been negotiated to the CE, always attach the LLGR_STALE community to the derived encapsulated BGP Path Attributes from the ATTR_SET?
 - When the implementation supports RFC 6368 and LLGR has not been negotiated to the CE, does the implementation utilize the Section 4.6 Optional Partial Deployment Procedure with the CE? (Attach the NO_EXPORT community, set LOCAL_PREF to zero.)
 
-Similarly, when a PE router receives a route from a CE into its VRF
-and subsequently exports that route to a VPN address family,
-
+> Similarly, when a PE router receives a route from a CE into its VRF
+> and subsequently exports that route to a VPN address family,
+> 
 > *  If the PE router does support the procedures of this document (in
 >    other words, if the PE router has advertised the LLGR Capability):
 >    In addition to including in the VPN route the ATTR_SET derived
