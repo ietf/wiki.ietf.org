@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2022-11-28T01:48:05.694Z
+date: 2022-11-28T01:49:06.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
@@ -32,6 +32,7 @@ dateCreated: 2022-11-27T13:09:18.246Z
 
 
 ## Implementation reports for IDR RFCs
+### IDR functions  
 - [draft-ietf-idr-add-path implementations](/idr/BGP-implementation-report/draft-ietf-idr-add-path-implement)
 - [draft-ietf-idr-as-migration implementations](/idr/BGP-implementation-report/draft-ietf-idr-as-migration-implement)
 - [draft-ietf-idr-large-community implementations](/idr/BGP-implementation-report/draft-ietf-idr-large-community-implement)
@@ -43,8 +44,7 @@ dateCreated: 2022-11-27T13:09:18.246Z
 - [draft-ietf-idr-te-pm-bgp implementations](/idr/BGP-implementation-report/draft-ietf-idr-te-pm-bgp-implement) 
 - [draft-ietf-idr-bgpls-segment-routing-epe](/idr/BGP-implementation-report/draft-ietf-idr-idr-bgpls-segment-routing-epe-implement)
 
-### BGP-LS related implementation reports 
-
+### BGP-LS related implementation reports
 - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/idr/BGP-implementation-report/draft-ietf-idr-idr-bgp-ls-segment-routing-ext-implement)
 - [draft-ietf-idr-ls-distribution implementations](/idr/BGP-implementation-report/draft-ietf-idr-ls-distribution-implement)
 
