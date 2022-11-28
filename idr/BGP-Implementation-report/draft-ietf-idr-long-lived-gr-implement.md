@@ -2,7 +2,7 @@
 title: draft-ietf-idr-long-lived-gr Implementation Report
 description: IDR WG report on Vendor implementations of draft-ietf-idr-long-lived-gr (long lived graceful restart)
 published: true
-date: 2022-11-28T01:03:54.336Z
+date: 2022-11-28T01:12:34.993Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T00:04:22.990Z
@@ -374,3 +374,83 @@ and subsequently exports that route to a VPN address family,
 ### 5. Deployment Considerations
 - Does the implementation require explicit configuration on a per-AFI/SAFI basis in order to enable LLGR procedures for that AFI/SAFI? **YES**
 - Does the implementation permit the F bit to be manually set via configuration? **YES**
+
+# FRRouting (since FRR 8.2)
+## Components of conformance
+
+### 3.1 Long-lived Graceful Restart Capability
+
+- Does the implementation always send the LLGR Capability with the RFC 4724 GR Capability? **YES**
+- Does the implementation have the ability to send zero tuples of <AFI, SAFI, Flags, Long-lived Stale Time> in the LLGR Capability? **NO**
+- Does the implementation have the ability to receive zero tuples of <AFI, SAFI, Flags, Long-lived Stale Time> in the LLGR Capability? **NO**
+- What AFI/SAFIs are supported by the implementation for LLGR? **L2VPN, IPV4/IPV6 Labeled Unicast, IPV4/IPV6 Unicast, IPV4/Flow, IPV4/RT-Constrain, IPV4/IPV6 VPN-Unicast**
+- In the "Flags for Address Family" field of the LLGR Capability, does the implementation set the Reserved bits to zero on send? **YES**
+- In the "Flags for Address Family" field of the LLGR Capability, does the implementation ignore non-zero Reserved bits on receipt? **YES**
+- What range of values is supported by the implementation for the "Long-lived Stale Time"?** 1..16777215**
+- 
+### 3.2. LLGR_STALE Community
+
+- Does the implementation permit the user to configure policies that accept, reject, or modify routes based on the presence or absence of the LLGR_STALE Community? **YES**
+
+### 3.3. NO_LLGR Community
+
+- Does the implementation permit the user to configure policies that accept, reject, or modify routes based on the presence or absence of the LLGR_STALE Community? **YES**
+
+### 4.1. Use of Graceful Restart Capability
+
+- Does the implementation ignore the LLGR Capability if not advertised with the RFC 4724 GR Capability? **NO**
+- Does the implementation support ignoring conventional GR by omitting all AFI/SAFI from the GR Capability, advertising a Restart Time of zero, or both? **Restart time of zero**
+
+### 4.2. Session Resets
+
+- Does the implementation deem all AFI/SAFI that are not supported in the session, or supported but not listed in the LLGR capability as having a "Long-lived Stale Time" of zero? **YES**
+- Does the implementation retain stale routes for an AFI/SAFI for an interval that is the sum of the RFC 4724 "Restart Time" and the LLGR "Long-lived Stale Time"? **YES**
+- Does the implementation permit modification of the received timers via local configuration? **NO**
+- Does the implementation support applying GR procedures and LLGR procedures serially, depending on the received GR and LLGR times? **YES**
+- For each LLGR AFI/SAFI with a non-zero "Long-lived Stale Time", does the implementation - while operating as a helper router - start a timer for that "Long-Lived Stale Time"? **YES**
+- For each LLGR AFI/SAFI with a non-zero "Long-lived Stale Time", does the implementation - while operating as a helper router - delete all stale routes for that AFI/SAFI once this timer expires? **YES**
+- During LLGR procedures, does the implementation immediately delete routes that have been marked with the NO_LLGR community? **YES**
+- Does the implementation attach the LLGR_STALE community to stale routes when they are being retained? **YES**
+- Does the implementation retain previously marked stale routes during consecutive restarts when such restarts are processed prior to the expiration of the "Long-lived Stale Time" for that particular AFI/SAFI? **YES**
+- Does the implementation retain routes previously marked stale across multiple restarts for a given AFI/SAFI executing LLGR procedures when the "Long-lived Stale Time" has not expired? **YES**
+- Does the implementation prohibit updates to an AFI/SAFI's "Long-lived Stale Time" timer, when already running? **NO (On Established state, the timer is reset)**
+- Does the implementation permit the update to an AFI/SAFI's "Long-lived Stale Time" timer, when already running, via operator intervention? **(*Jeff's interpretation, this may also include a forced reset of the session via operator intervention.*) NO**
+- Does the implementation permit the reduction of the "Long-lived Stale Time" via local configuration? If so, are there restrictions on its behavior? **NO**
+- When the "Long-lived Stale Time" timer, for a given AFI/SAFI, is running and then expires, does the implementation remove stale routes regardless of the status of the BGP session or the current synchronization state of that AFI/SAFI for that session? **YES
+**
+### 4.3. Processing LLGR_STALE Routes
+
+- Does the implementation, upon reception of a BGP route from a neighbor for an AFI/SAFI where that AFI/SAFI was advertised in an LLGR Capability, treat that route as least-preferred in route selection? **YES**
+- Does the implementation, upon attaching the LLGR_STALE community through programmatic procedures (the execution of this specification) treat the route as least-preferred in route selection? **YES**
+- Does the implementation, upon attaching the LLGR_STALE community manually (e.g. through policy) treat the route as least-preferred in route selection? **YES**
+- Does the implementation support the Optional Partial Deployment Procedure in Section 4.6? **NO**
+- When a given BGP neighbor has not advertised the LLGR Capability for a given AFI/SAFI, and a route for that AFI/SAFI has the LLGR_STALE community, is that route excluded from the given BGP neighbor's Adj-Rib-Out? **YES**
+- If a route was previously advertised for such a peer and there is a new route in the Loc-Rib to be advertised to that peer that has the LLGR_STALE community, is that destination withdrawn from the neighbor? **YES**
+- Does the implementation avoid removing the LLGR_STALE community when the route is further advertised?** NO, but can be with route-maps**
+
+### 4.4. Route Selection
+
+Does the implementation treat "least-preferred" BGP routes as documented above? **YES**
+
+### 4.5. Errors
+
+Does the implementation ignore the LLGR capability when not accompanied by a RFC 4274 GR capability? **NO**
+
+### 4.6. Optional Partial Deployment Procedure
+
+- Does the implementation support the procedures described in section 4.6? **NO**
+
+### 4.7.1. Procedures when EBGP is the PE-CE Protocol in a VPN
+
+- When the implementation is retaining LLGR stale routes according to the procedures in this document, and the BGP neighbor is a PE-CE connection and does not send the LLGR capability, does the implementation advertise LLGR stale routes to such a neighbor? **NO**
+- When the implementation advertises such LLGR stale routes to such a neighbor, does it attach the NO_EXPORT community? **NO**
+- Does the implementation permit via explicit configuration, disabling the attachment of the NO_EXPORT community?** NO**
+
+### 4.7.2. Procedures when IBGP is the PE-CE Protocol in a VPN
+
+- Does the implementation support RFC 6368? **NO**
+
+### 5. Deployment Considerations
+
+- Does the implementation require explicit configuration on a per-AFI/SAFI basis in order to enable LLGR procedures for that AFI/SAFI? **NO, global knob**
+- Does the implementation permit the F bit to be manually set via configuration? **NO, always set**
