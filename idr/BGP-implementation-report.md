@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2022-11-28T01:54:01.658Z
+date: 2022-11-28T01:56:39.376Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
@@ -32,13 +32,14 @@ dateCreated: 2022-11-27T13:09:18.246Z
 ### Past WG LC + awaiting 2 implementations (timing out) 
 - [draft-ietf-idr-bgp-ls-node-admin-tag-extension](/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-node-admin-tag-extension-implement)
 
--[draft-ietf-idr-route-oscillation-stop implementations](/idr/BGP-Implementation-report/draft-ietf-idr--route-oscillation-stop-implement)
+-[draft-ietf-idr-route-oscillation-stop implementations](/idr/BGP-Implementation-report/draft-ietf-idr-route-oscillation-stop-implement)
 
 
 
 ## WG LC pending 
 
 
+- [draft-ietf-idr-bgp-bestpath-selection-criteria implementations](/idr/BGP-Implementation-report/draft-ietf-idr-bgp-bestpath-selection-implement)
 
 ## Implementation reports for IDR RFCs
 ### IDR functions  
