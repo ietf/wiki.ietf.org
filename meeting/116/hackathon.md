@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2022-11-27T15:58:28.836Z
+date: 2022-11-28T22:27:03.610Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -25,7 +25,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * [Onsite Hackathon participants](https://registration.ietf.org/116/participants/hackathon_onsite/)
 * [Remote Hackathon participants](https://registration.ietf.org/116/participants/hackathon_remote/)
 
-**[IETF 115 Gather link](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
+**[Gather link](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)** (password: notewell)
 
 
 Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
@@ -34,15 +34,30 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda
 
-Hackathon (all times are Japan Standard Time)
+Hackathon (all times are Japan Standard Time, UTC+9)
 
 ### Saturday, 25 March
 
-TBD
+* **09:30** : Room open for setup by project champions    
+* **10:00** : Room open for all - pastries and coffee provided
+* **10:30** : Hackathon kickoff, [Meetecho](https://meetings.conf.meetecho.com/ietf116/?group=hackathon&short=&item=2)
+* **10:45** : Form Teams, see [Team Schedule](https://wiki.ietf.org/meeting/116/hackathon/teamschedule)
+* **12:30** : Lunch provided
+* **15:30** : Afternoon break - snacks provided
+* **18:30** : Dinner provided
+* **21:00** : Room closes
+{.grid-list}
 
 ### Sunday, 26 March
 
-TBD
+* **09:30** : Room opens - pastries and coffee provided
+* **12:30** : Lunch provided
+* **13:30** : Hacking stops, prepare brief presentation of project
+* **14:00** : Project results presentations, [Meetecho](https://meetings.conf.meetecho.com/ietf116/?group=hackathon&short=&item=4)
+
+* **16:00** : Hackathon ends
+* **17:00** : Tear down complete
+{.grid-list}
 
 Related activities before and after the Hackathon weekend
 
