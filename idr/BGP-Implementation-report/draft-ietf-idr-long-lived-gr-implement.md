@@ -2,7 +2,7 @@
 title: draft-ietf-idr-long-lived-gr Implementation Report
 description: IDR WG report on Vendor implementations of draft-ietf-idr-long-lived-gr (long lived graceful restart)
 published: true
-date: 2022-11-28T01:01:50.450Z
+date: 2022-11-28T01:02:58.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T00:04:22.990Z
