@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2022-11-28T01:34:20.538Z
+date: 2022-11-28T01:48:05.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
@@ -27,6 +27,8 @@ dateCreated: 2022-11-27T13:09:18.246Z
 
 
 ### Past WG LC + awaiting 2 implementations 
+- draft-ietf-idr-sr-policy-ifit(/idr/BGP-Implementation-report/draft-ietf-idr-sr-policy-ifit-implement)
+
 
 
 ## Implementation reports for IDR RFCs
