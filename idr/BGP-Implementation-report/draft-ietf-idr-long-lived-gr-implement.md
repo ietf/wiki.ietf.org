@@ -2,7 +2,7 @@
 title: draft-ietf-idr-long-lived-gr Implementation Report
 description: IDR WG report on Vendor implementations of draft-ietf-idr-long-lived-gr (long lived graceful restart)
 published: true
-date: 2022-11-28T01:03:32.130Z
+date: 2022-11-28T01:03:54.336Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T00:04:22.990Z
@@ -351,7 +351,6 @@ and subsequently exports that route to a VPN address family,
 - Does the implementation treat "least-preferred" BGP routes as documented above? **YES**
 
 ### 4.5. Errors
-
 - Does the implementation ignore the LLGR capability when not accompanied by a RFC 4274 GR capability? **No**
 
 ### 4.6. Optional Partial Deployment Procedure
