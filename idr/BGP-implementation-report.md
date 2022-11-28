@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2022-11-28T01:56:39.376Z
+date: 2022-11-28T02:00:24.409Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
@@ -35,9 +35,7 @@ dateCreated: 2022-11-27T13:09:18.246Z
 -[draft-ietf-idr-route-oscillation-stop implementations](/idr/BGP-Implementation-report/draft-ietf-idr-route-oscillation-stop-implement)
 
 
-
 ## WG LC pending 
-
 
 - [draft-ietf-idr-bgp-bestpath-selection-criteria implementations](/idr/BGP-Implementation-report/draft-ietf-idr-bgp-bestpath-selection-implement)
 
@@ -46,21 +44,26 @@ dateCreated: 2022-11-27T13:09:18.246Z
 - [draft-ietf-idr-add-path implementations](/idr/BGP-implementation-report/draft-ietf-idr-add-path-implement)
 - [draft-ietf-idr-as-migration implementations](/idr/BGP-implementation-report/draft-ietf-idr-as-migration-implement)
 - [draft-ietf-idr-large-community implementations](/idr/BGP-implementation-report/draft-ietf-idr-large-community-implement)
-
-- [draft-ietf-idr-ix-bgp-route-server implementations](/idr/BGP-implementation-report/draft-ietf-idr-ix-bgp-route-server-implement)
-
-- [draft-ietf-idr-bgp-prefix-sid implementations](/idr/BGP-implementation-report/draft-ietf-idr-bgp-prefix-sid-implement)
 - [draft-ietf-idr-bgp-gr-notification implementations](/idr/BGP-implementation-report/draft-ietf-idr-bgp-gr-notification-implement)
 - [draft-ietf-idr-te-pm-bgp implementations](/idr/BGP-implementation-report/draft-ietf-idr-te-pm-bgp-implement) 
-- [draft-ietf-idr-bgpls-segment-routing-epe](/idr/BGP-implementation-report/draft-ietf-idr-idr-bgpls-segment-routing-epe-implement)
+- [draft-ietf-idr-bgp-extended-implementations](/idr/BGP-implementation-report/draft-ietf-idr-bgp-extended-implement)
+
+- draft-ietf-idr-bgp-extended-messages
+
+### Route Servers 
+- [draft-ietf-idr-ix-bgp-route-server implementations](/idr/BGP-implementation-report/draft-ietf-idr-ix-bgp-route-server-implement)
 
 ### BGP-LS related implementation reports
 - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/idr/BGP-implementation-report/draft-ietf-idr-idr-bgp-ls-segment-routing-ext-implement)
 - [draft-ietf-idr-ls-distribution implementations](/idr/BGP-implementation-report/draft-ietf-idr-ls-distribution-implement)
 
+- [draft-ietf-idr-bgpls-segment-routing-epe](/idr/BGP-implementation-report/draft-ietf-idr-idr-bgpls-segment-routing-epe-implement)
+
+- [draft-ietf-idr-bgp-prefix-sid implementations](/idr/BGP-implementation-report/draft-ietf-idr-bgp-prefix-sid-implement)
+
 ### BGP-LS related implementation reports 
 
-- draft-ietf-idr-bgp-extended-implementations - draft-ietf-idr-bgp-extended-messages
+
 - draft-ietf-rfc5575bis implementations
 - draft-ietf-idr-flow-spec-v6 implementations
 - draft-ietf-idr-tunnel-encaps implementations
