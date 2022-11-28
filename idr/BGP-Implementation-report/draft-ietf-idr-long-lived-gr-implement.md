@@ -2,7 +2,7 @@
 title: draft-ietf-idr-long-lived-gr Implementation Report
 description: IDR WG report on Vendor implementations of draft-ietf-idr-long-lived-gr (long lived graceful restart)
 published: true
-date: 2022-11-28T01:02:58.002Z
+date: 2022-11-28T01:03:32.130Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T00:04:22.990Z
@@ -347,13 +347,14 @@ and subsequently exports that route to a VPN address family,
 - Does the implementation avoid removing the LLGR_STALE community when the route is further advertised? **Junos policy will permit removal of this community via user configuration, but not by default.**
 
 ### 4.4. Route Selection
+
 - Does the implementation treat "least-preferred" BGP routes as documented above? **YES**
 
 ### 4.5. Errors
+
 - Does the implementation ignore the LLGR capability when not accompanied by a RFC 4274 GR capability? **No**
 
 ### 4.6. Optional Partial Deployment Procedure
-
 - Does the implementation support the procedures described in section 4.6? **YES**
 - When these procedures are supported, does the implementation advertise LLGR stale routes to neighbors that have not advertised the LLGR capability only when the neighbors are internal, attach the NO_EXPORT community, and set the LOCAL_PREF to zero? **YES**
 
