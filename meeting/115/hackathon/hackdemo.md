@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2022-10-10T19:57:07.105Z
+date: 2022-11-07T16:34:31.928Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -20,11 +20,15 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| L4S | Greg White | g.white@cablelabs.com  |   |
+| YANG tools | Qiufang Ma | maqiufang1@huawei.com  |   |
+| IPMON (IPWAVE) | Yiwen (Chris) Shen | chrisshen [AT] ks.ac.kr |   |
+| I2NSF  | Patrick Lingga | patricklink888 [AT] gmail.com |   |
+| PDMv2/IPv6 EH Testing | Nalini Elkins| nalini.elkins@insidethestack.com | |
+| 经证明的 TLS | Hannes Tschofenig | hannes.tschofenig@arm.com | |
+| Satellite-Routing  | Qiangzhou Gao  |  gaoqiangzhou@huawei.com
+| openSCHC | Dominique Barthel | firstname lastname at orange.com | openschc.net |
+| Streamlining Social Decision Making | Stephen McQuistin  | sm at smcquistin.uk | https://sodestream.github.io  |
+| SRv6 data-plane visibility | Thomas Graf | thomas.graf@swisscom.com | https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh, https://github.com/insa-unyte/vpp-srh-onpath-telemetry|
+| Drone Remote ID Protocol | Adam Wiethuechter | adam.wiethuechter@axenterprize.com | |
+| ALTO to Steer XR Flows  | Jordi Ros-Giralt  | jros@qti.qualcomm.com  |  www.openalto.org |

@@ -2,7 +2,7 @@
 title: IETF 115 Departure Coordination
 description: To coordinate travel from the venue back to London airports
 published: true
-date: 2022-10-25T15:50:10.836Z
+date: 2022-11-01T11:39:47.630Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:28:51.871Z
@@ -46,7 +46,7 @@ dateCreated: 2022-07-23T19:28:51.871Z
 |---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |
 | 17:40  | EZY8359  | Pascal Thubert   | pthubert@cisco.com  |  LGW  |   | Hilton Metropole  |
-|   |   |   |   |   |   |   |
+|  16:25 |  BA0978 |  Jayasree Sengupta |  jayasree.sengupta@cispa.de |LHR   |   |  Hilton Metropole |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -56,8 +56,9 @@ dateCreated: 2022-07-23T19:28:51.871Z
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
+| 04:15 | BA0772 | Jen Linkova | furry13@gmail.com | LHR | 5 | Hilton Metropole|
 | 15:20  | UA935 | Lixia Zhang  |  lixia@cs.ucla.edu |  LHR |   | Hilton Metropole  |
-|   |   |   |   |   |   |   |
+| 12:05  |  UA 919 |  Joel Halpern |  jmh@joelhalpern.com | LHR  | 2  |  Hilton Metropole |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |

@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-10-19T06:05:13.543Z
+date: 2022-11-23T14:51:32.863Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -23,6 +23,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [dispatch *DISPATCH*](/group/dispatch)
 - [idr *Inter-Domain Routing*](/group/idr)
+- [mpls *Multiprotocol Label Switching*](/group/mpls)
 - [pce *Path Computation Element*](/group/pce)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
@@ -44,6 +45,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [pce *Path Computation Element*](/group/pce)
+- [mpls *Multiprotol Label Switching*](/group/mpls)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
 ### SEC
@@ -61,6 +63,7 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 - [dnsdir *DNS Directorate*](/group/dnsdir)
 - [emodir *Education, Mentoring, and Outreach*](/group/emodir)
 - [iotdir *Internet of Things*](/group/iotdir)
+- [secdir *Security Directorate*](/group/secdir)
 {.links-list}
 
 ## By Area
@@ -88,6 +91,7 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 # Area Specific
 - [Int *Internet Area Wiki*](/group/iesg/int)
 - [Ops *Operations Area Wiki*](/group/iesg/ops)
+- [sec *Security Area Wiki*](/group/secdir)
 {.links-list}
 
 # Teams
@@ -96,4 +100,8 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 - [tools-arch *Tools Architecture and Strategy Team*](/group/tools-arch)
 - [tools *Tools Team*](/group/tools)
 - [ycsupport *YangCatalog Support Team*](/group/ycsupport)
+{.links-list}
+
+# Administration
+- [llc *IETF Adminstration LLC*](/group/llc/)
 {.links-list}
