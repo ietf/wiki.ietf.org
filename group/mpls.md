@@ -2,7 +2,7 @@
 title: Multiprotocol Label Switching (MPLS) Working Group
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2022-11-29T11:04:09.061Z
+date: 2022-11-29T23:56:03.722Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z
@@ -14,7 +14,7 @@ https://trac.ietf.org/trac/mpls/wiki
 
 The content of the old wiki will be kept unchanged, though sometimes informatiion will be migrated here.
 
-# MPLS Open Design Team (Open DT)
+# MPLS Open Design Team (MPLS Open DT)
 Information from the Open DT from the previous wiki can be found at;
 https://trac.ietf.org/trac/mpls/wiki/MPLSOpenDT
 
@@ -26,9 +26,7 @@ Prior to the IETF 115 the  OPen DT has been meeting on a weekly basis. We had pl
 ### Weekly meetings
 - [Open-DT-Meeting-2022-11-17](/group/mpls/2022-11-17)
        
--    We will go back to normal working group processes after this IETF.
-- 
--    Anyone can ask the co-chairs for Open DT meetings if they want to discuss in a group that have been involved in the MNA specifications.
+- [Open-DT-Meeting-2022-12-01](/group/mpls/2022-12-01)
 
 ### Webex for Weekly Meetings
 
