@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-11T08:13:55.084Z
+date: 2022-11-29T19:49:05.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -351,7 +351,7 @@ Location: Mezzanine Level
 |  19:00   |  KIRA Bar BoF    | Routing   | Roland Bless   | Discussion/Questions & Answers around KIRA                  |  https://kit-lecture.zoom.us/j/62846470559?pwd=K1NVR3dGNDIwVXYreFZPalB6K0svUT09                     |                       |    
 |  19:30   |  KIRA Bar BoF    | Routing   | Roland Bless   | Discussion/Questions & Answers around KIRA                  |  https://kit-lecture.zoom.us/j/62846470559?pwd=K1NVR3dGNDIwVXYreFZPalB6K0svUT09                    |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-
+{.dense}
 # Friday 11 November {#Friday}
 
 ## Room: Richmond 6 - Friday
