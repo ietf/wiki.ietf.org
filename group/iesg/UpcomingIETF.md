@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-10T13:28:53.319Z
+date: 2022-11-30T03:42:53.347Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -89,7 +89,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iesg
 Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg
 
 > 1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
-{.is-info}
+<!-- {blockquote:.is-info} -->
 
 ## Tuesday, November 8, 2022
 
