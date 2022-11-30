@@ -2,7 +2,7 @@
 title: BFD WG RFC Listing
 description: 
 published: true
-date: 2022-07-23T20:56:37.617Z
+date: 2022-11-07T11:00:10.516Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:56:34.825Z
@@ -35,6 +35,7 @@ dateCreated: 2022-07-23T20:56:34.825Z
 * RFC 7884 - OSPF Extensions to Advertise Seamless Bidirectional Forwarding Detection (S-BFD) Target Discriminators
 * RFC 7885 - Seamless Bidirectional Forwarding Detection (S-BFD) for Virtual Circuit Connectivity Verification (VCCV)
 * RFC 7886 - Advertising Seamless Bidirectional Forwarding Detection (S-BFD) Discriminators in the Layer Two Tunneling Protocol Version 3 (L2TPv3)
+* RFC 9247 -  BGP - Link State (BGP-LS) Extensions for Seamless Bidirectional Forwarding Detection (S-BFD)
 
 # BFD MIBs
 
@@ -43,7 +44,8 @@ dateCreated: 2022-07-23T20:56:34.825Z
 
 # BFD YANG modules
 
-* RFC 9127 - YANG Data Model for Bidirectional Forwarding Detection (BFD)
+* ~~RFC 9127 - YANG Data Model for Bidirectional Forwarding Detection (BFD)~~
+* RFC 9314 - YANG Data Model for Bidirectional Forwarding Detection (BFD) (replaces RFC 9127)
 
 # BFD Authentication and Security
 

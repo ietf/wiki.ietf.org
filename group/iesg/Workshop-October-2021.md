@@ -2,7 +2,7 @@
 title: IESG, IAB and LLC Workshop
 description: 
 published: true
-date: 2022-08-31T18:05:14.372Z
+date: 2022-11-05T14:37:30.457Z
 tags: iesg, leadership, iab, workshop, llc
 editor: markdown
 dateCreated: 2022-08-31T18:05:11.324Z
@@ -47,7 +47,7 @@ Scribe: Jenny
 Paper: [https://docs.google.com/document/d/1cB25GvCFJIwU5EvzBxGSoM9epwoAGvW_E5t2vX1RCz8/edit?usp=sharing]
 
 
-### October 21, 2021 - IETF Culture, Toxicity, and Inclusion; Parking !Lot/Overflow
+### October 21, 2021 - IETF Culture, Toxicity, and Inclusion; Parking Lot/Overflow
 
 Scribe: Amy
 

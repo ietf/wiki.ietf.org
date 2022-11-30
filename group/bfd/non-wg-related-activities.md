@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2022-07-23T21:04:07.625Z
+date: 2022-11-07T11:06:11.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -13,7 +13,6 @@ dateCreated: 2022-07-23T21:04:04.044Z
 * draft-ietf-idr-bgp-bfd-strict-mode - BGP BFD Strict-Mode.
 * draft-ietf-bier-bfd - BIER BFD
 * draft-ietf-pim-bfd-p2mp-use-case - Bidirectional Forwarding Detection (BFD) for Multi-point Networks and Protocol Independent Multicast - Sparse Mode (PIM-SM) Use Case (Submitted to IESG for publication)
-* draft-ietf-spring-bfd - Bidirectional Forwarding Detection (BFD) in Segment Routing Networks Using MPLS Dataplane.
 * draft-ietf-nvo3-bfd-geneve - BFD for Geneve.
 * draft-ietf-bess-evpn-bfd - EVPN Network Layer Fault Management
 * draft-ietf-mpls-bfd-directed (was draft-mirsky-mpls-bfd-directed)
@@ -24,8 +23,12 @@ dateCreated: 2022-07-23T21:04:04.044Z
   * Re-split of BFD for VRRP proposal for p2p case after RTGWG didn't adopt merged document with IPR issues on the P2MP mechanism. ​Discussion
   * Previously: draft-nitish-vrrp-bfd and draft-mirsky-bfd-p2mp-vrrp-use-case
     * 2015-11 Authors have merged their proposals in draft-nitish-vrrp-bfd. Targeted for RTGWG
-* draft-mirsky-bfd-p2mp-vrrp-use-case
-  * 2018-11: Adoption call ongoing in RTGWG.
+* draft-ietf-rtgwg-vrrp-p2mp-bfd
+  * Replaces draft-mirsky-bfd-p2mp-vrrp-use-case
 
-# Non-WG S-BFD Documents of Interest
-* draft-ietf-idr-bgp-ls-sbfd-extensions - BGP Link-State Extensions for Seamless BFD.
+# BFD Segment Routing Documents of Interest
+* draft-ietf-spring-bfd - Bidirectional Forwarding Detection (BFD) in Segment Routing Networks Using MPLS Dataplane.
+* draft-ali-spring-bfd-sr-policy - Bidirectional Forwarding Detection (BFD) for Segment Routing Policies for Traffic Engineering
+* draft-liu-bfd-srv6-policy-encap - Encapsulation of BFD for SRv6 Policy
+* draft-lin-sbfd-path-consistency-over-srv6 - S-BFD Path Consistency over SRv6
+* draft-chen-spring-sr-policy-for-ubfd - Segment Routing for Unaffiliated BFD Echo Function

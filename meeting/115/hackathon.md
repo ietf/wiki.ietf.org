@@ -2,7 +2,7 @@
 title: IETF 115 Hackathon
 description: The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 published: true
-date: 2022-10-28T10:36:36.266Z
+date: 2022-11-06T11:57:49.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:06:37.548Z
@@ -40,8 +40,8 @@ Hackathon (all times are UTC)
 
 * **09:30** : Room open for setup by project champions    
 * **10:00** : Room open for all - pastries and coffee provided
-* **10:30** : Hackathon kickoff, LINK TBD
-* **10:45** : Form Teams
+* **10:30** : Hackathon kickoff, [Meetecho](https://meetings.conf.meetecho.com/ietf115/?group=hackathon&short=&item=2)
+* **10:45** : Form Teams, see [Team Schedule](https://wiki.ietf.org/meeting/115/hackathon/teamschedule)
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
 * **18:30** : Dinner provided
@@ -53,7 +53,8 @@ Hackathon (all times are UTC)
 * **09:30** : Room opens - pastries and coffee provided
 * **12:30** : Lunch provided
 * **13:30** : Hacking stops, prepare brief presentation of project
-* **14:00** : Project results presentations, LINK TBD
+* **14:00** : Project results presentations, [Meetecho](https://meetings.conf.meetecho.com/ietf115/?group=hackathon&short=&item=4)
+
 * **16:00** : Hackathon ends
 * **17:00** : Tear down complete
 {.grid-list}
@@ -216,6 +217,9 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://youtu.be/7sZQe6Hh5GI
   - https://youtu.be/-UYjzrUKC8s
   - https://youtu.be/Pz6wIu1gaXE?t=2881
+- Remote Participation
+	- [ZOOM](https://us06web.zoom.us/j/89378795810?pwd=K09mYnZxclpSR0tzM0hHOWpEUUtQdz09) 
+  - [WhatsApp group](https://chat.whatsapp.com/FKW6EAA6kfIAVqRhmNVunn)
 
 
  **EDHOC**
@@ -273,6 +277,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
     
 - Specifications:
   - https://datatracker.ietf.org/doc/rfc7285/
+  - https://datatracker.ietf.org/doc/draft-giraltyellamraju-alto-bsg-requirements/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-path-vector/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-unified-props-new/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-performance-metrics/
@@ -290,6 +295,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-ecn-l4s-id/
   - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-aqm-dualq-coupled/
   - https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/
+  - https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design-05
 
  **PQ keys and signatures in X.509 / PKIX**
 - Champion(s)
@@ -300,6 +306,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - Project info
 A living document can be found here that participants are welcome to contribute to:
 https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/edit?usp=sharing
+
+Github: https://github.com/IETF-Hackathon/pqc-certificates
 
   - Testing of PQ key and signature formats.  We suggest usage of Dilithium, Falcon, Sphincs+, and Composite keys and signature algorithms in Certs, CRLs, CSRs, PKCS#12s, CMS SignedData, and potentially others like OCSP, Timestamping, CMP, etc.  
   - Testing of crypto agility:  we know the final PQ OIDs will be changing, and there have already been multiple suggestions for public and private key encodings (ex.: the differences between Dilithium and Falcon encodings in draft-uni-qsckeys, and draft-massimo-lamps-pq-sig-certificates).  We want to make our implementations as crypto agile as possible so it is trivial to update encodings and plug in new OIDS as soon as the standards are finalized.   
@@ -342,9 +350,21 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
   
  **Trusted Execution Environment Provisioning (TEEP)**
 - Champion(s)
-  - Dave Thaler (dthaler@microsoft.com)
+  - Dave Thaler (dthaler at microsoft.com)
+  - Hannes Tschofenig (Hannes.Tschofenig at arm.com)  
+  - Akira Tsukamoto (akira.tsukamoto at aist.com)
+  - Kohei Isobe (isobekohei at gmail.com)
+  - Ken Takayama (ken.takayama.ietf at gmail.com)
+  - Shin'ichi Miyazawa (s.miyazawa at gmail.com)
 - Project info
-  - tbd
+  - Resolve issues on the github.
+    https://github.com/ietf-teep/teep-protocol/issues/263
+    https://github.com/ietf-teep/teep-protocol/issues/273
+    https://github.com/ietf-teep/teep-protocol/issues/278
+  - Improve TEEP implementations.
+- Code
+  - See teep WG page https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+  - teep_armadillo_trial https://github.com/s-miyazawa/teep_armadillo_trial
 
 **openSCHC development and documentation**
 - Champion(s)
@@ -416,10 +436,13 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
 - Champion(s)
   - zhenbin Li (lizhenbin@huawei.com)
   - Qiangzhou Gao (gaoqiangzhou@huawei.com)
+  - P Jain (jainp@hotmail.com)
 - Project info
   - Creation and Management of Satellite Network Topology
   - Usecase over Hypatia Open-source simulation platform
   - Future work
+ - More information
+  https://github.com/Satellite-Routing/IETF115-Hackthon
   
  **CoAP Group Communication with Group OSCORE**
 - Champion(s)
@@ -447,17 +470,18 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
   
- **I2NSF: IPsec Flow Protection for BGP Peers using I2NSF**
+ **I2NSF: SDN-Based IPsec Flow Protection for Remote NSFs using I2NSF**
 - Champion(s)
   - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
   - Patrick Lingga (patricklink888 at gmail.com)
 - Project info
   - Evaluate I2NSF framework for IPsec flow protection in BGP Peers.
 - Specifications
+  - https://datatracker.ietf.org/doc/draft-kim-i2nsf-security-controller-interface-dm/
   - https://datatracker.ietf.org/doc/draft-jeong-i2nsf-security-management-automation/
   - https://datatracker.ietf.org/doc/draft-lingga-i2nsf-analytics-interface-dm/
-  - https://datatracker.ietf.org/doc/draft-lingga-i2nsf-application-interface-dm/
-  
+  - https://datatracker.ietf.org/doc/draft-yang-i2nsf-security-policy-translation/
+   
 **vCon**
 - Champion(s)
   - Dan Petrie (dan.ietf at sipez.com)
@@ -531,7 +555,25 @@ https://docs.google.com/document/d/1A2-D82du0qJjygvBuOlG8Xao3MzDYz1pRDzjT9eY6ls/
   - https://github.com/veraison
   - https://github.com/parallaxsecond
   - https://github.com/Mbed-TLS/mbedtls
+
+**SCITT Supply Chain Integrity, Transparency and Trust**
+
+- Champion(s)
+  - Steve Lasker (Steve.Lasker@microsoft.com)
+  - Jon Geater (Jon.Geater@rkvst.com)
+  - Yogesh.Deshpande (Yogesh.Deshpande@arm.com)
+  - Cedric Fournet (fournet@microsoft.com)
   
+- Project info
+  How to secure a software supply chain? SCITT will provide essential building blocks that provide a standardized way of securing a Supply Chain. 
+
+- Specifications:
+  - https://github.com/ietf-scitt/draft-birkholz-scitt-architecture
+  - https://github.com/ietf-scitt/draft-birkholz-scitt-receipts
+  - https://github.com/ietf-scitt/draft-birkholz-scitt-software-supply-chain-use-cases
+
+- 
+
 __Roughtime*__
 
 - Champion(s)
@@ -608,6 +650,111 @@ __Roughtime*__
   - https://datatracker.ietf.org/doc/draft-petithuguenin-xml2rfc-asciidoc/
   - https://datatracker.ietf.org/doc/draft-petithuguenin-computerate-specifying/
 
+**Plugfest: BGP CT interop**
+- Champion
+  - Kaliraj Vairavakkalai. (kaliraj@juniper.net)
+  - Natarajan Venkataraman. (natv@juniper.net)
+  - Reshma Das. (dreshma@juniper.net)
+  - Csaba Mates. (cs@mp.ls)
+  [All champions are participating remotely]
+   
+- Project info
+  - Anyone with a BGP-CT implementation, come and let’s test our interoperability.
+  
+- Drafts
+  - https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/  
+
+**QUIC Handshake Classification API**
+
+- Champions:
+    - Marcin Nawrocki (marcin.nawrocki at fu-berlin.de)
+    - Jonas Mücke (jonas.muecke at fu-berlin.de)
+
+- Project info:
+    - Implement Internet-facing API which classifies the QUIC handshake behavior for a domain
+    - Main goal is to present details about the anti-amplification limits and TLS performance
+    - Extend it by rate-limiting, CDN identification, etc.
+    - Related background: [On the Interplay between TLS Certificates and QUIC Performance](http://ilab-pub.imp.fu-berlin.de/papers/nthms-ibtcq-22.pdf)
+
+- Code:
+    - https://github.com/microsoft/quicreach
+    - https://github.com/josephnoir/quiche
+
+- Specifications:
+    - https://www.rfc-editor.org/rfc/rfc9000.html
+
+**RTP over QUIC**
+
+- Champion(s)
+  - Giles Heron (giheron@cisco.com)
+  
+- Project info
+  - Implementing RTP over QUIC
+  - One (known) existing implementation in Golang: https://github.com/mengelbart/rtp-over-quic
+  - Plan is to implement in Rust at the hackathon
+  - Potentially other implementations too
+  - Validate interoperability
+  
+- Specifications:
+    - https://datatracker.ietf.org/doc/draft-ietf-avtcore-rtp-over-quic/
+ 
+ **WebRTC Encoded Media**
+- Champion(s)
+  - Harald Alvestrand (harald@alvestrand.no)
+- Project info
+  - Early experimentation in new APIs for processing encoded media
+  - Focus is on "getting a feel" on suggested new APIs
+- Code:
+  - https://github.com/alvestrand/hackathon-encoded-media
+ 
+**DNS Error Reporting**
+- Champion(s)
+  - Willem Toorop
+  - Roy Arends
+  - Benno Overeinder
+  - Stephane Bortzmeyer
+  - ...
+- Project info
+  - Implementation and interoperability testing of DNS error reporting
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-ietf-dnsop-dns-error-reporting/
+- Code
+  - https://github.com/NLnetLabs/unbound/tree/features/error-reporting-poc
+  - https://framagit.org/bortzmeyer/drink/
+
+
+**MASQUE Tunneling**
+- Champion(s)
+  - Marcus Ihlar
+- Project info
+  - Implementation and Interop of MASQUE Tunneling of UDP and IP
+- Specifications
+  - https://datatracker.ietf.org/doc/rfc9297/
+  - https://datatracker.ietf.org/doc/rfc9298/
+  - https://datatracker.ietf.org/doc/draft-ietf-masque-connect-ip/
+  
+  
+   **TLS**
+- Champion(s)
+  - logan@cyberstorm.mu
+- Project info
+  - https://www.ietf.org/archive/id/draft-ietf-tls-deprecate-obsolete-kex-00.html
+
+
+**BGPsec maintenance**
+- Champion(s)
+  - Ignas Bagdonas (ibagdona.public#gmail.com)
+- Project info
+  - Tooling for BGPsec validation (MRT transcoder)
+  - Alternative signature and digest schemes (EdDSA, Blake*)
+
+
+**One Tax API**
+- Champion(s)
+  - Benson Muite (benson_muite at emailplus dot org)
+- Project info
+  - Examine conformance tests in HARE related to [RFC 8032](https://datatracker.ietf.org/doc/html/rfc8032)
+  - Related [erratum](https://www.rfc-editor.org/errata/eid7031)
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.

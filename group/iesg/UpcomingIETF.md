@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-10-28T11:32:38.487Z
+date: 2022-11-30T03:42:53.347Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -35,7 +35,9 @@ There is a working list of [candidate topics for the agenda](/group/iesg/Meeting
 
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iabiesg
+Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg
+
 
 >   1. Welcome
 >   2. Updates
@@ -43,11 +45,14 @@ Meetecho: TBD
 >      - IANA
 >   3. Document Queues (Lars? RTG ADs?)
 >   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
+> 1. IESG appointment to the IETF Trust (Lars; exec session)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Richmond 6 (west wing, 1st floor)
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: Richmond 6 (west wing, 1st floor)
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iabiesg
+Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg
+
 
 > 1. Welcome
 >    1. Introducing the new RSCE - Alexis Rossi (Jay)
@@ -70,7 +75,7 @@ Meetecho: TBD
 ### Sunday Night Social
 
 Time: 21:00 - whenever
-Location: 23rd Floor
+Location: Tyburn Kitchen Semi-Private, Ground Floor [(Map)](/tyburn-kitchen.pdf)
 What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 
 ## Monday, November 7, 2022 
@@ -80,10 +85,11 @@ What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iesg
+Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg
 
 > 1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
-{.is-info}
+<!-- {blockquote:.is-info} -->
 
 ## Tuesday, November 8, 2022
 
@@ -96,9 +102,15 @@ No IESG breakfast. (The IAB has a breakfast.)
 
 *Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iesg_2
+Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg_2
 
->    Plenary Prep
+> * Trust appointment interview followup 
+> * Plenary Prep
+> * (Ab)use of show of hands tool
+> * Updating "Surprised Authors" statement (Warren,  10 min) [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
+> * Keeping "Implementation Status"es (Warren, 10 min) [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
+
 
 ### IETF 115 Plenary 17:30-19:30 Room: Kensington (west wing, 3rd floor)
 
@@ -109,8 +121,10 @@ No IESG breakfast. (The IAB has a breakfast.)
 ## Friday, November 11, 2022 
 ### Joint IAB/IESG Lunch - 14:15-14:45 Room: Richmond 6 (west wing, 1st floor)
 ### Joint IESG/IAB Meeting - 14:45-16:30
-Room: TBD
-Meetecho: TBD
+Room: Richmond 6 (west wing, 1st floor)
+Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iabiesg_2
+Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg_2
+
 
 >  1. Welcome
 >  1. Post-meeting review (randomized for 115)
@@ -139,7 +153,7 @@ Location: Hybrid 1, Ground Floor, West Wing
 
 ## Monday, 7 November 2022
 12:00 - 13:00 TSV AD Office Hours
-  
+14:30 - 15:00 Lars  
 
 ## Tuesday, 8 November 2022
 08:15 - 09:15 SEC AD Office Hours
@@ -148,12 +162,14 @@ Location: Hybrid 1, Ground Floor, West Wing
 
 ## Wednesday, 9 November 2022
 
-	 
+15:00 - 16:00 Zahed	 
 
 ## Thursday, 10 November 2022
 
-
+08:30-09:15 Roman
 12:00-13:00 INT AD Office Hours
+15:00-16:00 John meeting w/ CAN proponents (other interested parties welcome to join)
+16:30-17:30 IETF Chair Office Hours
 
 ## Friday, 11 November 2022
 
