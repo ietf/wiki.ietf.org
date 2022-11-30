@@ -2,7 +2,7 @@
 title: Chair Coordination meeting
 description: Discussion to folloow-up on the "complexity" discussion at IEYF 115 in London.
 published: true
-date: 2022-11-29T11:31:35.303Z
+date: 2022-11-30T10:37:16.704Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-29T11:23:58.994Z
@@ -46,4 +46,6 @@ We'd like to solicit feedback on that statement.
  - JOIN WEBEX MEETING
     https://ietf.webex.com/ietf/j.php?MTID=m8e9e0b3870e9ff1454560b5488c24689
     Meeting number (access code): 2435 602 6302
+    
+- [Fundra](/group/mpls/2022-12-01/fundra)
 
