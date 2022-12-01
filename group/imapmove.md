@@ -2,7 +2,7 @@
 title: IMAPMOVE WG Wiki
 description: Implementation experience for IMAP MOVE and UID MOVE commands
 published: true
-date: 2022-12-01T16:18:14.720Z
+date: 2022-12-01T16:18:47.702Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:16:55.382Z
@@ -10,15 +10,15 @@ dateCreated: 2022-12-01T16:16:55.382Z
 
 At least the following servers implemented the MOVE extension (draft-ietf-imapmove-command-05):
 
-Archiveopteryx
-Dovecot 2.2
-Cyrus 2.5 (devel branch)
-!WinGate
-Isode M-Box 16.0 (next release)
-Schlund (.de ISP/email provider)
-Earthlink
-o2.pl - older draft, but should be updated shortly.
-AOL and Zarafa - supports a semantically equivalent command to the MOVE but uses a different command/extension name.
+- Archiveopteryx
+- Dovecot 2.2
+- Cyrus 2.5 (devel branch)
+- !WinGate
+- Isode M-Box 16.0 (next release)
+- Schlund (.de ISP/email provider)
+- Earthlink
+- o2.pl - older draft, but should be updated shortly.
+- AOL and Zarafa - supports a semantically equivalent command to the MOVE but uses a different command/extension name.
 
 At least the following clients implemented the MOVE extension:
 
