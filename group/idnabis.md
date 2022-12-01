@@ -2,15 +2,13 @@
 title: Internationalized Domain Names in Applications, Revised (idnabis) Wiki
 description: Internationalized Domain Names in Applications, Revised (idnabis) Wiki
 published: true
-date: 2022-12-01T16:11:06.853Z
+date: 2022-12-01T16:11:23.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:11:06.853Z
 ---
 
-# IDNAbis wik
-
-# IDNAbis wik
+# IDNAbis wiki
 
 There's not much here yet, below you see the original content (setup default). In theory Trac allows to manage **tickets**, a project **roadmap**, this **wiki**, and sources (likely not applicable here, the WG produces Internet-Drafts managed elsewhere). For recent changes wrt Trac check out the **timeline**, this page also offers to subscribe to an atom feed of recent changes.
 
