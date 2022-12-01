@@ -2,7 +2,7 @@
 title: IMAPMOVE WG Wiki
 description: Implementation experience for IMAP MOVE and UID MOVE commands
 published: true
-date: 2022-12-01T16:18:47.702Z
+date: 2022-12-01T16:21:10.371Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:16:55.382Z
