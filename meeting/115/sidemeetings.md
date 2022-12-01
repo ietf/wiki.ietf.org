@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-11-29T19:50:18.445Z
+date: 2022-12-01T15:39:16.407Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -81,6 +81,7 @@ Location: West Wing, First Floor
 |  19:00   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom](https://us02web.zoom.us/j/84216816172?pwd=R0Y5NHEwenNYTjZmUWJnL29lSE5LUT09&from=addon) | TBD |    
 |  19:30   |  ECH Deployment Considerations | N/A | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom](https://us02web.zoom.us/j/84216816172?pwd=R0Y5NHEwenNYTjZmUWJnL29lSE5LUT09&from=addon) | TBD |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+{.dense}
 
 ## Room: GMT 1 - Monday
 Configuration: conference
@@ -92,6 +93,7 @@ Location: East Wing, basement level -2
 |  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | [IETF capacity building for public policymakers](https://isoc.box.com/s/ejw018iy6wxnm74vqohb7p2gouqfqw0d)  |  https://isoc.zoom.us/s/81240826419 | TBS       |
 |  18:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | idem  |  idem | TBS       |
 |  18:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | idem |  idem | TBS       |
+{.dense}
 
 
 ## Room: Richmond 5 (IAB) - Monday
@@ -102,7 +104,7 @@ Location: West Wing, 1st floor
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  17:30   |  Public Interest Technology Group (PITG) | N/A | Corinne Cath-Speth (corinnecath@gmail.com) and Gurshabad Grover (gurshabad@cis-india.org) | Public interest technology group | https://us06web.zoom.us/j/89291161522?pwd=dUhoYXFmMkg0MFNoYVNReCtqc0xydz09 | -      |
-
+{.dense}
 
 
 ## Room: Mezzanine 12 - Monday
@@ -138,6 +140,7 @@ Location: Mezzanine Level
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+{.dense}
 
 # TUESDAY 8 November {#Tuesday}
 
@@ -174,6 +177,7 @@ Location: West Wing, First Floor
 |  19:00   |      |   |       |        |                      |                       |          
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+{.dense}
 
 
 ## Room: Mezzanine 12 - Tuesday
@@ -210,6 +214,7 @@ https://us06web.zoom.us/j/84747399084?pwd=cFFWMFB5TVdabUNlaDFrQ2V1UGE0QT09 | |
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+{.dense}
 
 # Wednesday 9 November {#Wednesday}
 
@@ -245,6 +250,7 @@ Location: West Wing, First Floor
 |  19:00   |  Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN |  [Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |   
 |  19:30   |   Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN | [Google Meet Link](https://meet.google.com/urn-ivxs-qnp) |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+{.dense}
 
 
 ## Room: Mezzanine 12 - Wednesday
@@ -280,6 +286,7 @@ Location: Mezzanine Level
 |  19:00   |                  |          |             |                         |                      |                       |    
 |  19:30   |                  |          |             |                         |                      |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
+{.dense}
 
 # Thursday 10 November {#Thursday}
 
@@ -352,6 +359,7 @@ Location: Mezzanine Level
 |  19:30   |  KIRA Bar BoF    | Routing   | Roland Bless   | Discussion/Questions & Answers around KIRA                  |  https://kit-lecture.zoom.us/j/62846470559?pwd=K1NVR3dGNDIwVXYreFZPalB6K0svUT09                    |                       |    
 |  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 {.dense}
+
 # Friday 11 November {#Friday}
 
 ## Room: Richmond 6 - Friday
@@ -370,6 +378,7 @@ Location: West Wing, First Floor
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
 |  11:30-  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+{.dense}
 
 
 ## Room: Mezzanine 12 - Friday
@@ -387,4 +396,5 @@ Location: Mezzanine Level
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30-  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
+|  11:30-  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |  
+{.dense}
