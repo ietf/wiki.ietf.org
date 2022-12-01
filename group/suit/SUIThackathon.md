@@ -2,13 +2,13 @@
 title: SUIT Hackathon
 description: SUIT virtual hackathon
 published: true
-date: 2022-12-01T15:29:48.109Z
+date: 2022-12-01T15:32:55.682Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T15:29:48.109Z
 ---
 
-The [IETF SUIT WG]([https://datatracker.ietf.org/wg/suit) is holding a virtual Hackathon to encourage developers to discuss, collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of SUIT documents.
+The [IETF SUIT WG](https://datatracker.ietf.org/wg/suit) is holding a virtual Hackathon to encourage developers to discuss, collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of SUIT documents.
 
 **When:** July 13, 2020  1400 UTC / 1000 EDT / 0700 PDT through the same time 24 hours later
 
