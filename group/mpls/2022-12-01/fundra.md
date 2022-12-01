@@ -2,7 +2,7 @@
 title: A page there I take a look at "back to MPLS approach"
 description: Describing label stack and functions
 published: true
-date: 2022-12-01T20:51:52.231Z
+date: 2022-12-01T20:55:55.310Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T14:06:48.460Z
@@ -24,7 +24,7 @@ The idea is that an LSP has two different lables that gives the same forwarding 
   - The next LSE identify what actions to perform and how to find reuquired ancillary data
 
 ## Forwarding level Label stack example
-Please 
+Please find examples of the normal label and the MNA/modifier label stack.
 
       
        normal              MNA case
@@ -37,28 +37,4 @@ Please
                           +--------+
                           
 test line to see what happens, becomes a normal paragraph.
-
-     
-     
-     
-     
-     
-~~~    
-  Normal      MNA case
-+--------+   +--------+
-| IP FEC |   | MNA FEC|
-+--------+   +--------+  
-
- 0                   1                   2                   3
- 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ Label
-|                Label                  | Exp |S|       TTL     | Stack
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ Entry
-
-~~~
-text
-
-~~~
-    normal
-+--------
-~~~
+      
