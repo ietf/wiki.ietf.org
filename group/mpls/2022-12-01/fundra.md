@@ -2,7 +2,7 @@
 title: A page there I take a look at "back to MPLS approach"
 description: Describing label stack and functions
 published: true
-date: 2022-12-01T20:49:52.146Z
+date: 2022-12-01T20:51:52.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T14:06:48.460Z
@@ -24,8 +24,9 @@ The idea is that an LSP has two different lables that gives the same forwarding 
   - The next LSE identify what actions to perform and how to find reuquired ancillary data
 
 ## Forwarding level Label stack example
+Please 
 
-
+      
        normal              MNA case
      +--------+           +--------+
      |   L1   | IP FEC    |  M1    | MNA FEC
