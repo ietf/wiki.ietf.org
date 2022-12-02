@@ -2,7 +2,7 @@
 title: E2MD Proposed Charter
 description: Proposed charter: State 2010-07-10
 published: true
-date: 2022-12-02T16:31:34.844Z
+date: 2022-12-02T16:32:11.326Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:31:34.844Z
@@ -10,17 +10,17 @@ dateCreated: 2022-12-02T16:31:34.844Z
 
 ## CHAIR(S):
 
-    * TBA
+   * TBA
 
 ## REAL-TIME APPLICATIONS AND INFRASTRUCTURE AREA DIRECTOR(S):
 
-    * Robert Sparks <rjsparks@nostrum.com>
-    * Gonzalo Camarillo <gonzalo.camarillo@ericsson.com>
+   * Robert Sparks <rjsparks@nostrum.com>
+   * Gonzalo Camarillo <gonzalo.camarillo@ericsson.com>
 
 
 ## REAL-TIME APPLICATIONS AND INFRASTRUCTURE AREA ADVISOR:
 
-    * Gonzalo Camarillo <gonzalo.camarillo@ericsson.com>
+   * Gonzalo Camarillo <gonzalo.camarillo@ericsson.com>
 
 
 ## MAILING LISTS:
