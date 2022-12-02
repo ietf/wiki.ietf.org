@@ -2,7 +2,7 @@
 title: EMAN Implementations
 description: 
 published: true
-date: 2022-12-02T16:37:11.945Z
+date: 2022-12-02T16:38:19.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:37:11.945Z
@@ -36,7 +36,7 @@ Contact: ask-energywise@…
 
 URL: ​ftp://ftp.cisco.com/pub/mibs/v2/CISCO-ENERGYWISE-MIB.my
 
-Cisco EnergyWise and Partners
+**Cisco EnergyWise and Partners**
 
 Organization: Cisco Systems, Inc.
 
@@ -54,15 +54,15 @@ Implementation experience: Incorperated into WG documents and comments on the ma
 
 Contact: ask-energywise@…
 
-URL: ​http://developer.cisco.com/web/esdk ​http://www.cisco.com/en/US/docs/solutions/Enterprise/Borderless_Networks/Energy_Management/energywisedg.html
+URL: http://developer.cisco.com/web/esdk http://www.cisco.com/en/US/docs/solutions/Enterprise/Borderless_Networks/Energy_Management/energywisedg.html
 
-Python
+**Python**
 
-Priyanka Rao mentioned on the mailing list (​http://www.ietf.org/mail-archive/web/eman/current/msg02063.html) that she has an python implementation.
+Priyanka Rao mentioned on the mailing list (http://www.ietf.org/mail-archive/web/eman/current/msg02063.html) that she has an python implementation.
 
 draft-ietf-energy-aware-mib
 
-SNMP Research
+**SNMP Research**
 
 Organization: SNMP Research, Inc.
 
@@ -82,4 +82,4 @@ Licensing: Proprietary, royalty licensing
 
 Contact: Alan Luchuk, luchuk at snmp.com
 
-URL: ​http://www.snmp.com/
+URL: http://www.snmp.com/
