@@ -2,7 +2,7 @@
 title: E2MD Proposed Charter
 description: Proposed charter: State 2010-07-10
 published: true
-date: 2022-12-02T16:32:11.326Z
+date: 2022-12-02T16:33:36.671Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:31:34.844Z
@@ -98,4 +98,4 @@ xxx  e2md ENUM enhancement specification
 
 ----
 
-Links: [/wiki Main] | [ProposedCharter Proposed Charter] | [RequirementsList Requirements] | [UseCases Use Cases] | [/report/10 Objections] | [MeetingMinutes Minutes & Slides]
+Links: [Main](group/e2md) | [ProposedCharter](/group/e2md/ProposedCharter) | [Requirements](/group/e2md/RequirementsList) | [UseCases Use Cases] | [/report/10 Objections] | [MeetingMinutes Minutes & Slides]
