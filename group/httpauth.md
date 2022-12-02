@@ -2,17 +2,17 @@
 title: HTTP-Auth WG Wiki
 description: Welcome to the HTTP-Auth WG Wiki
 published: true
-date: 2022-12-02T16:57:24.913Z
+date: 2022-12-02T16:58:13.150Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:57:24.913Z
 ---
 
-# Welcome to the HTTP-Auth WG Trac installation =
+# Welcome to the HTTP-Auth WG Trac installation
 
-## 08-Oct-2013 Virtual Interim Meeting ==
-Minutes are below! \\
-For now, you can get the [[https://dl.dropboxusercontent.com/u/28687906/http-auth-virtual-interim-October-2013.mp3 | audio recording here]] 
+## 08-Oct-2013 Virtual Interim Meeting
+Minutes are below!
+For now, you can get the [audio recording here](https://dl.dropboxusercontent.com/u/28687906/http-auth-virtual-interim-October-2013.mp3)
 
 
 HTTP-AUTH Virtual Interim Meeting \\
