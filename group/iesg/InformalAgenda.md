@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-11-09T09:55:48.088Z
+date: 2022-12-05T17:51:45.849Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,6 +44,8 @@ Note that this page is public.
 
 ### Management Issues
 
+* ICANN RFC Annotations Project (Lars)
+Matt Larson from ICANN will dial in at 10:30 EST for this, juggle accordingly.
 
 * Updating "Surprised Authors" statement (Warren) 
 Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
