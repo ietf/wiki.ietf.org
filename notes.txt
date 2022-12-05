@@ -1,0 +1,226 @@
+SIP Overload Control (SOC) Virtual Interim II
+Wed-Dec-1-2010 10:00a US Central
+
+
+Sal, chair slides
+-----------------
+No f2f meeting in Beijing, hence the virtual interim.
+Plus, work was not progressing as fast as we'd like.  Hence the
+virtual interim.
+
+Agenda bashed.  No changes.
+
+Chairs would encourage people in WG to participate to move
+it forward.
+
+Considering one more interim in Jan/Feb to speed up the work.
+
+Will have an official f2f meeting @ IETF-80.
+
+Behind the first milestone (Sep 2010 for design considerations.)
+
+Dec 2010 was the deadline for sending overload control mechanism
+to IESG.  Will not meet the deadline.
+
+May 2011 is the third document (SIP load filtering mechanism)
+deadline.
+
+RjS: Send in a request to update the dates.
+Volker: Will like to wrap up the milestones ASAP.  Even if we
+move them out, that is not the default mode of operation.
+
+
+Volker, Overload design
+-----------------------
+WGLC done and -02 released.  Received lots of comments for
+-02.  Janet did a detailed review.
+
+Discussion item: What happens if SIP server is overloaded for
+other reasons than processing SIP messages (updating database,
+etc.)  In this case, the server WILL apply overload control
+mechanisms.
+
+OC mechanism in each direction (A->B, B->A) to be considered
+separately.
+
+Added text to handle the case of load balancing and server farms.
+Vijay: How D,E,F communicate (on slide 5) to determine server
+farm overload value is out of scope.
+Volker: Yes.
+
+Janet: Computational complexity is whether it is NP-complete,
+change to "computational load" instead of "complexity". (slide 6)
+
+Volker: I will make final small changes and submit for WGLC.
+
+Sal: Want to do WGLC before Christmas vacation and hand to
+IESG during Christmas.
+
+Keith: Do you need all 14 days for 2nd WGLC?  No one is raising
+any new issues.
+Volker: We can get it below 14 days if everyone agrees.
+Janet: 7 days is okay with me.
+
+
+
+Vijay, Overload control
+-----------------------
+Draft background.
+
+Covers current status.
+
+Open issue #1
+
+Has had list discussion.
+
+Proposal floated on mailing list to add 4th optional parameter called "oc-algo"
+
+Question from Vijay: Do we need to involve IANA.
+
+Volker: Thinks that the mechanism should be kept as simple as possible and having a default helps make things simple.
+Could specify the extension algorithm in this draft or specify them in other drafts.
+
+Vijay: Did not forsee producing another draft containing another parameter.
+
+Janet?: Need to avoid negotiation mechanism.
+
+Volker: In messages would get feedback.
+
+Vijay: After further thought, thinks out of band mechanism is not valid.
+
+Charles: How to define extension? How does it plug into this document? Second questions is the extension itself.
+
+Keith: Cover general protocol compatibility as well. How does any extension to the proposed protocol get handled.
+What are the extension mechanisms?
+
+Vijay: Not currently covered in -0.
+
+Janet: Do need to understand the grammar.
+
+Vijay: Think what we are intending at the moment is good, i.e. this is the class of algorithm that we are trying to specify.
+
+Vijay: Downside of not doing this is have to have an RFC that defines those algorithms. [Meant specification required]
+
+Summary: oc alg parameter optional. Other drafts that come up with new algorithms will need IANA registration.
+
+Open issue #1a:
+
+Janet: Addressed in design doc. Has text on 100 trying already.
+
+Vijay: Optional.
+
+Queries on what this means.
+
+Janet: Pointed to previous overload scenarios in other protocols.
+
+Vijay and Volker both support "SHOULD" use.
+
+Keith pointed out that it had to have the condition "use only if confident that under conditions of overload, you do not break the retransmission quenching".
+
+Open issue #1b:
+
+Janet: Negotiation in advance works fine, but during operation no.
+
+Volker: Should not change from one message to the next. Don't need negotiation at beginning, pick one and stick with it.
+
+Robert: Do we want to preclude the case that the server will not want to change the algorithm.
+
+Janet: Or even something more dynamic. Start using loss based, but then change based on conditions of rapidly varying load because loss is not working.
+
+Volker: Worry about switching algorithms rapidly because most algorithms measure over a period, and this will be disrupted by frequent changes.
+
+Eric: Question.
+
+Jannet: Answer already covered.
+
+Vijay: WHat we are talking about here is renegotiating.
+
+Summary: Should not preclude renegotiation, but identify the issues with doing it. Should not modify on a per transaction basis.
+
+[Discussion about what we actually meant by selecting new algorithms and results]
+
+Vijay: Not possible to fine tune so change every transaction.
+
+Open issue #2
+
+Attended to in the design document. No mention of load balancer in the control document.
+
+Proposal, add nothing more than a reference, if anything at all.
+
+Next steps.
+
+Janet: In 4.2. 5th para, text refers to retransmitting a response. When would a response get retransmitted.
+
+Clarification provided from Robert.
+
+Janet: Make sure all requirements of 5390 are met.
+
+Keith: Record as appendix in document, and then decide at end of process whether to keep or remove.
+
+Vijay: OK.
+
+
+
+
+Charles Shen, filter
+---------------------
+
+Went through the slides and modifications from last section.
+
+Janet: We went through an extensive discussion before on RPH.
+Just take the text and put it in here.
+
+Keith: What are the conformance requirements for RPH?  lower
+case "should" and not upper case (slide 4).
+
+Charles: They are discussed in more details in other documents.
+
+Keith: Insert a note that to refer to other documents (design
+and control).
+
+Volker: Any reason to make rate the default here?  Can we make
+it loss like it is in overload-control?
+
+Charles: Discussions seem to indicate that in this situation,
+rate-based is better.
+
+<Discussion between Charles and Volker ensued where it was
+decided that because of different requirements between overload-
+control and this draft, rate-based as the default seems
+appropriate here.>
+
+Open issue (slide 7): Mandatory default schema.  The draft does
+not preclude other schemas to be used (ETSI schema, for example.)
+If that schema is used, then the default schema will not be
+used, but the doc mandates the default schema for interop.
+Three solutions in slide 8.
+Charles: Do we need to specify a mandatory schema for interop?
+Keith: Take the discussion to the list since people on the virtual may not be familiar with the intricacies.
+
+Open issue: Should this be adopted as the WG item as a deliverable
+towards the third charte?
+
+Sal: We need a WG item for this, and this is the only proposal we
+have.  We cannot take the decision here, need to take it to the
+list and issue a call for adoption.
+
+Janet: Before it can be adopted we should ensure it meets all
+the reqs of rfc5390.  It seems to work for the case where there
+is a finite set of upstream elements, but may not meet req-10.
+we should categorize which reqs it meets or which it does not.
+
+Volker: The use case for this is slightly different and may not be
+covered in the reqs document -- this draft talks about when you know
+that you will be in overload control in advance.  Reqs document
+talks about when you DO NOT know that you will be in overload in
+advance.
+
+<Discussion ensued on making sure this document explains why
+this document does not meet rfc5380 and document this.>
+
+There was one more agenda item to cover, but meeting ran out of
+time and was adjourned at 11:33a US Central.  Spillover to be
+discussed in the next interim.
+
+or not
+
