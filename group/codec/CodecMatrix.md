@@ -2,7 +2,7 @@
 title: IETF Codec WG Codec Matrix
 description: This page is a stub. When updated, this page will provide technical information about a number of codecs that might be considered for re-use by the Codec WG.
 published: true
-date: 2022-12-05T21:52:21.104Z
+date: 2022-12-05T21:53:49.725Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T21:52:21.104Z
@@ -12,7 +12,7 @@ Work in progress table below:
 (note: the information on BV16 and BV32 has not been verified)
 
 |Codec|Sampling rate|Bit-rate (per channel)|Algorithmic delay|Complexity|RAM|ROM
-| ---- || ---- || ---- || ---- || ---- || ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |CELT| 32-48 kHz | 32-128 kb/s | 2 ms to 13.33 ms (8 ms typical) | 15-20 WMOPS | ~7 kByte |  |
 |SILK| 8, 12, 16, 24 kHz | 8-40 kb/s | 25, 45, 65, 85 or 105 ms | | | |
 |BV16| 8 kHz | 16 kb/s | 5 ms | | | |
@@ -21,6 +21,7 @@ Work in progress table below:
 Continued:
 
 |Codec|VBR|Frame size (ms)|Lookahead (ms)|Inter-frame dependency|Signal domain|Channel coupling|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |CELT| Fundamentally CBR, with VBR supported. Could be changed to be fundamentally VBR | 1.33 ms to 10.67 ms (5.3 ms typical) | 0.67 ms to 2.67 ms (2.67 ms typical) | configurable (independent frames are possible) | sub-band (MDCT) | normalised mid-side |
 |SILK| Fundamentally VBR, CBR can be supported | 20, 40, 60, 80, 100 | 5 | configurable (by scaling back long-term prediction) | time (linear prediction) | no | 
 |BV16| CBR only | 5 | 0 | uses pitch prediction | time (linear prediction) | no |
@@ -37,6 +38,7 @@ Options:
 Strengths/Limitations:
 
 |Codec |Strengths | Limitations |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | CELT | Scales to very high quality. Works for speech and music. Very low delay | Does not scale well to bit-rates below 32 kb/s or sampling rates below 32 kHz. Does not make full use of pitch correlation |
 | SILK | Good quality at low bitrates. Configurable sampling rate, bitrate, complexity. | Highest sampling rate is 24 kHz. |
 | BV16 | Very low delay | CBR only |
