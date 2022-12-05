@@ -2,7 +2,7 @@
 title: IETF Codec WG Codec Matrix
 description: This page is a stub. When updated, this page will provide technical information about a number of codecs that might be considered for re-use by the Codec WG.
 published: true
-date: 2022-12-05T21:53:49.725Z
+date: 2022-12-05T21:54:10.200Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T21:52:21.104Z
@@ -30,6 +30,7 @@ Continued:
 Options:
 
 | Codec | DTX | In-band FEC | Layered Coding | PLC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | CELT | No (planned) | No | No (possible) | Yes |
 | SILK | Yes | Yes | No | Yes |
 | BV16 | ? | No | No | Yes |
