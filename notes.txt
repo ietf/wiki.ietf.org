@@ -1,0 +1,127 @@
+SoC (Sip Overload Control)
+WebEx Interim - I
+Tuesday, Jun-29-2010 at 11:00 EDT (17:00 CET; 15:00 UTC) for 1.5hour
+Chairs: Volker Hilt&  Salvatore Loreto
+
+(many thanks to Paul Kyzavit and Vijay Gurbani for taking notes)
+(attends list at the end)
+
+
+Reason of the meeting:
+-----------------------
+Try to speed up the work in the newly created WG.  Also,
+for Maastricht we want to focus on the mechanism itself.  So
+this virtual meeting is to synchronize on all the work that
+has gone into Overload Controlo (oc) while it was at sipping/dispatch.
+
+
+Agenda presented and accepted.
+- 11:00-11:10 Welcome to the WG, Agenda Bash, Logistics (Chairs)
+- 11:10-11:40 Summary of Design Team (Eric Noel)
+- 11:40-12:00 Design Consideration Draft (Volker Hilt)
+
+
+
+Summary of Design Team, Eric Noel
+----------------------
+IETF chartered a design team on oc; four independent simulation
+models were developed and calliberated against each other.
+
+Presented benchmark method -- 2 core proxies, 5 edge proxies.
+R-R used, 7 message call setup.
+
+Went through the oc control algorithms of various teams.
+ATT used rate- and window-based oc algorithms.
+Sonus used sender- and receiver-based flow controls.
+Columbia used window-based oc algorithm.
+Bell Labs/ALU used loss-based oc algorithm.
+
+There was question about references. They are in these slices and also
+in the overload control design draft.
+
+OC algorithms are stable even in face of large retx delays (slide 11).
+
+Results presented for UDP transport only.  Some papers include
+studies on TCP, but the most work focuses on UDP.
+
+Paul: Did you only use proxies or some other servers (SBCs, gateways).
+Not clear how these results extend to non-proxies.
+Eric: Focus on server-to-server control only.
+
+SBCs and GWs also require overload control, it is a real problem
+that needs to be investigated to check eventual differences with proxies,
+but is out of scope for now (many people agreed).
+
+???: Resources that we consider are those that are required to
+process a SIP message not taking into considerations external resources like
+codecs, DS0, etc.
+
+Volker: We are trying to achieve SIP servers to handle incoming loads and
+this is a different problem than a SIP server running out of audio resources.
+
+Janet Gunn: We want to make sure that signaling survives 9/11 type of
+emergencies.
+
+Some discussion on whether an overloaded proxy should give preference
+to in-dialog requests.  Generally, yes.  More specifics on the list.
+
+Question if design team is planning to do more work.
+Volker said no more planned, but if people would like more they could
+revive the team and the simulators.
+
+
+Overload design, Volker Hilt
+----------------
+Salvatore: Design draft to be sent to IESG by Sept. 2010.  Please
+send comments on it.  After Maastricht IETF we'd go to WGLC.
+
+This draft does not define a solution, just documents the design
+space.  Solutions relegated to individual drafts.  More on these
+in Maastricht.
+
+Discussion on implicit and explicit overload control.
+
+Discussions on Local Overload Control slide.  General feeling seems
+to be that it is a good thing to have as a last resort.  Nothing to
+standardize and can be used without any extensions.
+
+Eric: But it is not sufficient to prevent congestion collapse.
+
+Some more discussion on whether SIP extensions needed for implicit
+overload control.  No time for detailed discussions, asked to be
+taken to the list.
+
+Went through rate-based and loss-based oc, window-based oc and
+signal-based oc (503).
+
+Went through message prioritization.
+Paul: Should we leave priority to implementations or provide more
+guidance?
+Discussion ensued, but no consensus.  Need to take it to the mailing
+list.
+
+Meeting ended @ 11:38a US Central (10m over schedule).
+
+Attendees:
+- Nick Stewart, ATT
+- Salvatore Loreto
+- Eric Noel
+- Ahmed Abdelal
+- Anant Ghotkar
+- Carolyn Johnson
+- Christrian Schmidt
+- Geof Hunt
+- Janet Gunn
+- Mary Barnes
+- Muthu Perumal
+- Padma
+- Partha R
+- Paul Jones
+- Paul Kyzivat
+- Richard Kaczmarek
+- Robert Sparks
+- Sheshadri Shalya
+- Victor Pascual
+- Vijay Gurbani
+- Volker Hilt
+
