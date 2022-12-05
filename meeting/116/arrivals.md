@@ -2,7 +2,7 @@
 title: IETF 116 Arrival Coordination
 description: 
 published: true
-date: 2022-12-05T16:25:59.609Z
+date: 2022-12-05T16:26:53.273Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:24:40.223Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-05T16:24:40.223Z
 
 # IETF 116 Arrival Coordination
 
-For ease of taxi-sharing from the airport to the IETF 116 venue and area hotels. Please NOTE: add a space just before the @ symbol in your email address to get it to show up on the page. Please specify which area airport you are flying into Haneda International (HND) or Narita (NRT).
+For ease of taxi-sharing from the airport to the IETF 116 venue and area hotels. Please **NOTE: add a space just before the @ symbol in your email address to get it to show up on the page.** Please specify which area airport you are flying into Haneda International (HND) or Narita (NRT). The destination field should be the hotel you have booked.
 
 ## Thursday, March 23, 2023
 
