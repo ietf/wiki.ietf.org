@@ -2,7 +2,7 @@
 title: IETF Codec WG Liaison Statements
 description: 
 published: true
-date: 2022-12-05T21:46:36.647Z
+date: 2022-12-05T21:47:21.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T21:42:17.994Z
@@ -270,4 +270,9 @@ Jonathan Rosenberg, CODEC working group co-chair
 
 ISO/IEC liaison statement SC 29 N 10775, dated November 5, 2009, was received. (need URL!)
 
-[3gpp-liaison-nov2010.docx](/3gpp-liaison-nov2010.docx)[3gpp-sa-wg4-liaison-may2010.docx](/3gpp-sa-wg4-liaison-may2010.docx)[isoiec-liaison-may2010.docx](/isoiec-liaison-may2010.docx)[itu-sg16-liaison-may2010.docx](/itu-sg16-liaison-may2010.docx)[itu-sg16-liaison-nov2010.docx](/itu-sg16-liaison-nov2010.docx)
+- [3gpp-liaison-nov2010.docx](/3gpp-liaison-nov2010.docx)
+- [3gpp-sa-wg4-liaison-may2010.docx](/3gpp-sa-wg4-liaison-may2010.docx)
+- [isoiec-liaison-may2010.docx](/isoiec-liaison-may2010.docx)
+- [itu-sg16-liaison-may2010.docx](/itu-sg16-liaison-may2010.docx)
+- [itu-sg16-liaison-nov2010.docx](/itu-sg16-liaison-nov2010.docx)
+- 
