@@ -2,26 +2,26 @@
 title: IESG Appointment to the IETF Trust
 description: 
 published: true
-date: 2022-10-14T18:34:29.286Z
+date: 2022-12-06T16:39:19.296Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-10-14T13:16:50.122Z
 ---
 
 # IESG Appointment to the IETF Trust
-The IESG is responsible for appointing one person to the IETF Trust to serve for a term of two years. The trustee can be reselected for a maximum of X terms (RFC 8713, RFC 8714, RFC 8715)
+The IESG is responsible for appointing one person to the IETF Trust to serve for a term of two years. The trustee can be reselected (RFC 8713, RFC 8714, RFC 8715)
 
 ## Current Appointee
 
 Stephan Wenger
-Term: 2019, 2020-2022
+Term: 2019, 2020-2022, 2022-2024
 Appointed By: IESG (2 year term)
 
 ## Past Appointees
 
 ## Timeline of Selection
 
-The trustee term begins at the first IETF Meeting in a calendar year. The selection process should start no later than January.
+The trustee term begins at the first IETF Meeting in a calendar year. The selection process should start no later than the beginning of January, preferrably before the winter break in December.
 
 > Solicitation of nominations (4 weeks): 
 > Nominations period closes: 	
@@ -30,7 +30,7 @@ The trustee term begins at the first IETF Meeting in a calendar year. The select
 > Deadline for community input: 	
 > Selection by IESG: 	
 > Announcement of selection by IESG: 	
-> Trustee Term Begins: At the first IETF meeting of the year
+> Trustee Term Begins: At the first IETF meeting of the calendar year
 > 
 {.is-info}
 
