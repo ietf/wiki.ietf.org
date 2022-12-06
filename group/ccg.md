@@ -2,7 +2,7 @@
 title: Community Coordination Group (ccg)
 description: 
 published: true
-date: 2022-12-06T17:44:56.060Z
+date: 2022-12-06T17:45:41.246Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:49:40.902Z
@@ -21,4 +21,4 @@ The IETF Trust is required under IANA IPR Community Agreement to consult with an
 ## CCG Operational Procedures
 The CCG shall adopt, by consensus, its own operational rules and procedures, including requirements relating to voting, quorum, calling of meetings, actions taken by the CCG co-chairs (individually or collectively), action taken outside of meetings and the like, at its first meeting, and shall thereafter revise such rules and procedures as permitted thereby. Such procedures shall not constitute a part of the IANA IPR Community Agreement, and compliance with such procedures shall be beyond the scope of the IANA IPR Community Agreement. The CCG may invite representatives of the IETF Trust to attend its meetings, but such attendance is not required, or the CCG may request the IETF Trust to appoint a liaison/non-voting ex officio member to the CCG.
 
-Last modified 6 years ago
+
