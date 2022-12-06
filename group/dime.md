@@ -2,7 +2,7 @@
 title: Diameter Maintenance and Extensions (dime)
 description: Wiki for DIME WG
 published: true
-date: 2022-12-06T18:17:19.193Z
+date: 2022-12-06T21:22:25.989Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T18:17:19.193Z
@@ -12,8 +12,8 @@ dateCreated: 2022-12-06T18:17:19.193Z
 This page contains the Wiki's maintained by the IETF DIME working group. Here we try to keep track of document status regarding WG Last Calls, comments and alike.
 
 ## Ongoing Dime Topics
-WGLCs -- Documents in or completed the WG Last Call
-Proto Write-ups -- Documents waiting for a Proto Write-up and links to past Proto Write-Ups
+[WGLCs](/group/dime/DimeLastCalls) -- Documents in or completed the WG Last Call
+[Proto Write-ups](/group/dime/ProtoWriteUps) -- Documents waiting for a Proto Write-up and links to past Proto Write-Ups
 Dime WG Status Updates -- Last updated September 28, 2010
 
 ## Virtual Interim Meetings
