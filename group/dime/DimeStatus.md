@@ -2,7 +2,7 @@
 title: Dime Status Updates
 description: Dime WG Status Updates
 published: true
-date: 2022-12-06T21:24:51.424Z
+date: 2022-12-06T21:25:06.857Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T21:24:51.424Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-06T21:24:51.424Z
 
 # Dime WG Status Updates
 
-The working group chairs maintain (at least try to ;) periodically updated online status of working group.
+The working group chairs maintain (at least try to ;)) periodically updated online status of working group.
 
 ## Status Update August 2, 2010
 
