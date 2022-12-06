@@ -2,7 +2,7 @@
 title: IRTF Decentralized Internet Infrastructure (DIN RG)
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2022-12-06T22:56:28.677Z
+date: 2022-12-06T22:57:39.932Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -71,18 +71,18 @@ These systems differ with respect to the problem they are solving, the specific 
 ### Agenda
 | **Time** |	**Topic** |	**Presenter** |	**Duration**|
 |----|----|----|-----|
-|09:30 |	Welcome, Intro, Agenda Bashing |	Melinda, Dirk |	10 min
+|09:30 |	**Welcome, Intro, Agenda Bashing** |	Melinda, Dirk |	10 min
 |09:40 |	Secure Open Federation for the Internet Everywhere |	George Polyzos |	30 min
 |10:10 |	Decentralized Computing Environments |	Michal Krol |	30 min|
-|10:40 |	Break (no refreshments provided) 		
+|10:40 |	**Break** (no refreshments provided) 		
 |11:10 |	Distributed Authenticated Mapping 	|Sydney Li, Colin Man, Jean-Luc Watson |	30 min
 |11:40 |	Blockchain as an Audit-Able Communication Channel |	Shigeya Suzuki |	30 min|
 |12:10 |	Distributed Name Rewriting |	Christian Tschudin |	20 min
-|12:30 |	Lunch (self-organized) 		
+|12:30 |	**Lunch** (self-organized) 		
 |14:00 |	NDSS DISS Workshop preview |	Dirk |	20 min|
 |14:20 |	Decentralized Internet Infrastructure: Discussion on research scope, use cases, next steps |	Melinda, Dirk |	120 min|
 |16:20 	|Summary, Wrap up, Next Steps |	Melinda, Dirk |	10 min|
-|16:30 |	End of Meeting 		
+|16:30 |	**	End of Meeting** 		
 
 ### Attendees
 |**Name** 	|**Affiliation**|
