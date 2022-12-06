@@ -2,7 +2,7 @@
 title: IRTF Decentralized Internet Infrastructure (DIN RG)
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2022-12-06T22:57:39.932Z
+date: 2022-12-06T23:17:50.352Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -14,10 +14,10 @@ The Decentralized Internet Infrastructure Proposed Research Group (DINRG) invest
 
 ## DINRG Administrative Information
 
-* Official DINRG web page
-* Mailing list
-* Charter
- * Previous wiki page
+* [Official DINRG web page](https://irtf.org/dinrg)
+* [Mailing list](https://www.irtf.org/mailman/listinfo/din)
+* [Charter](https://datatracker.ietf.org/rg/dinrg/charter/)
+ * [Previous wiki page](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation)
 * Current chairs <dinrg-chairs@ietf.org>
      *   Dirk Kutscher
      *   Melinda Shore 
@@ -50,23 +50,24 @@ These systems differ with respect to the problem they are solving, the specific 
 ## DINRG Presentations and Meetings
 ### March 2018 (IETF 101, London)
 
-* Minutes
-* Decentralized Internet Infrastructure: Overview of Potential Use-Cases and Drivers, Paolo Mendes ​Youtube ​slides
-* The Stellar Consensus Protocol (SCP), David Mazières ​Youtube ​slides
-* Distributed Authenticated Mappings, Colin Man ​Youtube ​slides
-* Chainspace: A Scalable Smart Contracts Platform, Shehar Bano ​Youtube​slides
-* Distributed Transaction Ledger for Utility-Scale Solar, Lixia Zhang ​Youtube ​slides
-* A Decentralized Mapping System, Dino Farinacci ​Youtube ​slides 
+* [Minutes](https://datatracker.ietf.org/meeting/101/materials/minutes-101-dinrg-01)
+* **Decentralized Internet Infrastructure: Overview of Potential Use-Cases and Drivers**, Paolo Mendes - [Youtube](https://youtu.be/VgP42xgH5bo?t=7m53s),  [slides](https://datatracker.ietf.org/meeting/101/materials/slides-101-dinrg-paulo-mendes-overview-of-potential-use-cases-and-drivers-01)
+* **The Stellar Consensus Protocol (SCP)**, David Mazières - [Youtube](https://youtu.be/VgP42xgH5bo?t=21m50s),  [slides](https://datatracker.ietf.org/meeting/101/materials/slides-101-dinrg-david-mazieres-stellar-consensus-protocol-00)
+* **Distributed Authenticated Mappings**, Colin Man - [Youtube](https://youtu.be/VgP42xgH5bo?t=52m18s),  [slides](https://datatracker.ietf.org/meeting/101/materials/slides-101-dinrg-colin-man-distributed-authenticated-mapping-00)
+* **Chainspace: A Scalable Smart Contracts Platform**, Shehar Bano - [Youtube](https://youtu.be/VgP42xgH5bo?t=1h12m48s), [slides](https://datatracker.ietf.org/meeting/101/materials/slides-101-dinrg-shehar-bano-chainspace-a-scalable-smart-contracts-platform-00)
+* **Distributed Transaction Ledger for Utility-Scale Solar**, Lixia Zhang - [Youtube](https://youtu.be/VgP42xgH5bo?t=1h40m55s),  [slides](https://datatracker.ietf.org/meeting/101/materials/slides-101-dinrg-lixia-zhang-applying-distributed-ledger-to-iot-app-01)
+* **A Decentralized Mapping System**, Dino Farinacci - [Youtube](https://youtu.be/VgP42xgH5bo?t=2h1m3s),  [slides](https://datatracker.ietf.org/meeting/101/materials/slides-101-dinrg-dino-farinacci-colin-cantrell-a-decentralized-mapping-system-00)
 
-### Interim meeting on 2018-02-17 (co-located with ​NDSS-2018)
+&nbsp; 
+### Interim meeting on 2018-02-17 (co-located with [NDSS-2018](https://www.ndss-symposium.org/ndss2018/))
 
 ### Logistics
 
 * Date: Saturday, February 17, 2018; 09:30 -- 17:00
-* Location: ​Catamaran Resort Hotel & Spa, Room Rousseau Suite
-* Meeting material
-* Etherpad for notes
-* Minutes 
+* Location: [Catamaran Resort Hotel & Spa](https://catamaranresort.com/), Room Rousseau Suite
+* [Meeting material](https://datatracker.ietf.org/meeting/interim-2018-dinrg-01/session/dinrg)
+* [Etherpad for notes](https://etherpad.tools.ietf.org/p/notes-dinrg-interim-ndss2018?useMonospaceFont=true)
+* [Minutes](https://datatracker.ietf.org/meeting/interim-2018-dinrg-01/materials/minutes-interim-2018-dinrg-01-201802170900)
 
 ### Agenda
 | **Time** |	**Topic** |	**Presenter** |	**Duration**|
