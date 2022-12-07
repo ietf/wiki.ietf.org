@@ -21,12 +21,12 @@ https://datatracker.ietf.org/wg/alto/about/
 The WG is using [the Github dashborad](https://github.com/orgs/ietf-wg-alto/projects/1/views/2) to organize the agenda
 of weekly meetings.
 
-- [Draft re-charter (version 0.5 May 8 2021)](/en/group/ALTO/draft/v0.5-recharter)
-- [Draft re-charter (version 0.4 April 1 2021)](/en/group/ALTO/draft/v0.4-recharter)
-- [Draft re-charter (version 0.3 March 18 2021)](/en/group/ALTO/draft/v0.3-recharter)
-- [Draft re-charter (version 0.2, Feb 22 2021)](/en/group/ALTO/draft/v0.2-recharter)
-- [Draft re-charter (version 0.1, Feb 21 2014)](/en/group/ALTO/draft/v0.1-recharter)
-- [Draft re-charter (version 0.0, Feb 19 2014)](/en/group/ALTO/draft/v0.0-recharter)
+- [Draft re-charter (version 0.5 May 8 2021)](/en/group/ALTO/draft/v05)
+- [Draft re-charter (version 0.4 April 1 2021)](/en/group/ALTO/draft/v04)
+- [Draft re-charter (version 0.3 March 18 2021)](/en/group/ALTO/draft/v03)
+- [Draft re-charter (version 0.2, Feb 22 2021)](/en/group/ALTO/draft/v02)
+- [Draft re-charter (version 0.1, Feb 21 2014)](/en/group/ALTO/draft/v01)
+- [Draft re-charter (version 0.0, Feb 19 2014)](/en/group/ALTO/draft/v00)
 
 # Weekly Meeting
 
@@ -74,7 +74,9 @@ meeting reminder notifications.
 - Ietf80 IETF 80 (March 2011 - Prague,Czech)
 - [IETF 79 (November 2010 - Beijing, China)](/en/group/ALTO/past-meetings/79)
 - [IETF 78 (July 2010 - Maastricht, Netherlands)](/en/group/ALTO/past-meetings/78)
-- [Virtual Interim Meeting, June 16, 2010](/en/group/ALTO/past-meetings/Interim20100616)[IETF 77 (March 2010 - Anaheim, CA)](/en/group/ALTO/past-meetings/77)
-- [IETF 76 (November 2009 - Hiroshima, Japan)](/en/group/ALTO/past-meetings/76)[IETF 75 (July 2009 - Stockholm, Sweden)](/en/group/ALTO/past-meetings/75)
+- [Virtual Interim Meeting, June 16, 2010](/en/group/ALTO/past-meetings/Interim20100616)
+- [IETF 77 (March 2010 - Anaheim, CA)](/en/group/ALTO/past-meetings/77)
+- [IETF 76 (November 2009 - Hiroshima, Japan)](/en/group/ALTO/past-meetings/76)
+- [IETF 75 (July 2009 - Stockholm, Sweden)](/en/group/ALTO/past-meetings/75)
 - [IETF 74 (March 2009 - San Francisco, CA)](/en/group/ALTO/past-meetings/74)
 - [IETF 73 (November 2008 - Minneapolis, MN)](/en/group/ALTO/past-meetings/73)
