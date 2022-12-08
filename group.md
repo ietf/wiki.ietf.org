@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2022-11-23T14:51:32.863Z
+date: 2022-12-08T22:33:50.675Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -22,6 +22,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [dispatch *DISPATCH*](/group/dispatch)
+- [dots *DDoS Open Threat Signaling*](/group/dots)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [mpls *Multiprotocol Label Switching*](/group/mpls)
 - [pce *Path Computation Element*](/group/pce)
@@ -49,7 +50,8 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [spring *Source Packet Routing in Networking*](/group/spring)
 {.links-list}
 ### SEC
-
+- [dots *DDoS Open Threat Signaling*](/group/dots)
+{.links-list}
 ### TSV
 
 # Concluded Working Groups
