@@ -2,7 +2,7 @@
 title: Sandbox
 description: 
 published: true
-date: 2022-10-30T23:18:23.078Z
+date: 2022-12-08T23:59:43.564Z
 tags: https://www.etsi.org/security-algorithms-and-codes
 editor: markdown
 dateCreated: 2022-07-23T19:47:08.101Z
@@ -24,6 +24,34 @@ dateCreated: 2022-07-23T19:47:08.101Z
 
 > is-warning test
 {.is-warning}
+
+
+```
+                 +----------+
+                 | List of  |+
+                 | valid    ||
+                 | PSAP ids ||
+                 +----------+|
+                  +----------+
+                      *
+                      * whitelist
+                      *
+                      V
+   Incoming      +----------+    Normal
+   SIP Msg       | SIP      |+   Treatment
+  -------------->| Entity   ||=============>
+   + Identity    |          ||(if not in whitelist)
+                 +----------+|
+                 +----------+
+                      ||
+                      ||
+                      || Preferential
+                      || Treatment
+                      ++=============>
+                        (in whitelist)
+
+```
+
 
 
 
