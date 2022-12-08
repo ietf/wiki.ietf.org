@@ -2,7 +2,7 @@
 title: DOTS WG
 description: 
 published: true
-date: 2022-12-08T22:29:45.543Z
+date: 2022-12-08T22:30:22.158Z
 tags: wg
 editor: markdown
 dateCreated: 2022-12-08T22:29:45.543Z
@@ -38,5 +38,5 @@ The following are public test servers for DOTS.
 
 | **Name** | **Supported Versions** | **Access URL** | **Comments/Features/Limitations **|  
 | --- | --- | --- | --- |
-| Proprietary|  RFC9132 <br /> RFC8783 <br /> RFC8768 <br /> RFC8973 <br /> RFC9066 <br /> RFC9133 draft-ietf-dots-telemetry-16 <br /> RFC9177 | Signal <br /> * coaps://dotsserver.jpshallow.com:4646 <br /> * coaps+tcp://dotsserver.jpshallow.com:4646 <br /><br /> Call-Home <br /> * coaps://dotscallhome.jpshallow.com:4647 <br /> * coaps+tcp://dotscallhome.jpshallow.com:4647 <br /> <br /> Data <br /> * https://dotsserver.jpshallow.com:443 | PKI support: Use Client and CA Certificates from [Certificates](https://github.com/nttdots/go-dots/tree/master/certs) for access <br /> Mitigation requests for 1.1.1.69, 1.1.1.71, and 1.1.2.0/24 supported |
+| Proprietary|  RFC9132 <br /> RFC8783 <br /> RFC8768 <br /> RFC8973 <br /> RFC9066 <br /> RFC9133 <br /> draft-ietf-dots-telemetry-16 <br /> RFC9177 | Signal <br /> * coaps://dotsserver.jpshallow.com:4646 <br /> * coaps+tcp://dotsserver.jpshallow.com:4646 <br /><br /> Call-Home <br /> * coaps://dotscallhome.jpshallow.com:4647 <br /> * coaps+tcp://dotscallhome.jpshallow.com:4647 <br /> <br /> Data <br /> * https://dotsserver.jpshallow.com:443 | PKI support: Use Client and CA Certificates from [Certificates](https://github.com/nttdots/go-dots/tree/master/certs) for access <br /> Mitigation requests for 1.1.1.69, 1.1.1.71, and 1.1.2.0/24 supported |
 
