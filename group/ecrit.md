@@ -2,7 +2,7 @@
 title: Emergency Context Resolution with Internet Technologies (ecrit) 
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-08T23:46:18.585Z
+date: 2022-12-08T23:53:52.099Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -64,8 +64,8 @@ Approach (1) requires more discussion. Consider the following approaches:
                       || Treatment
                       ++=============>
                         (in whitelist)
-```
 
+```
 
 Figure 1: Identity Based Authorization
 
