@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-12-05T17:51:45.849Z
+date: 2022-12-08T03:46:53.841Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -51,7 +51,7 @@ Matt Larson from ICANN will dial in at 10:30 EST for this, juggle accordingly.
 Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
 * Keeping "Implementation Status"es (Warren) 
 Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
-
+* SATP (Paul & Roman)
 
 ### WG News 
 
