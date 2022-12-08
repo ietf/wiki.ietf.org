@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-12-08T03:46:53.841Z
+date: 2022-12-08T14:46:53.337Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -52,6 +52,7 @@ Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1z
 * Keeping "Implementation Status"es (Warren) 
 Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
 * SATP (Paul & Roman)
+* Resolving DISCUSS on draft-ietf-dnsop-rfc5933-bis (Roman)
 
 ### WG News 
 
