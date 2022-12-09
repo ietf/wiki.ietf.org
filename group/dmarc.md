@@ -2,7 +2,7 @@
 title: DMARC WG
 description: 
 published: true
-date: 2022-12-09T16:21:44.590Z
+date: 2022-12-09T16:22:48.699Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z
@@ -34,4 +34,4 @@ Due to the ubiquitous nature of email and the size of email's installed base, th
 Phase 3 - DMARC Base:** The last phase will review and possibly refine the DMARC base specification?, taking into account output from previous phases. The Usage Guide will also be finalized and published.
 
 The ordering of the WG's phases should not preclude participants from exploring and discussing "out of order" items. Participants should be aware, though, that the Chairs may ask for items to be captured using the WG's Issue Tracker to ensure items remain visible when the WG brings focus to the relevant topic.
-Last modified 2 years ago
+
