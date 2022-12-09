@@ -2,7 +2,7 @@
 title: Emergency Context Resolution with Internet Technologies (ecrit) 
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-09T00:05:59.973Z
+date: 2022-12-09T00:06:30.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -78,7 +78,7 @@ A drawback of the presented solution is that this method does not allow any mech
 
 An approach that extends the one presented in Figure 1 is outlined in Figure 2. RFC 4484 illustrated the basic requirements for this technique.
 
-```
+<pre>
                +----------+
                | List of  |+
                | trust    ||
@@ -102,7 +102,7 @@ An approach that extends the one presented in Figure 1 is outlined in Figure 2. 
                     ++=============>
                       (indicated as
                        PSAP)
-```
+</pre>
 
 Figure 2: Trait Based Authorization
 
