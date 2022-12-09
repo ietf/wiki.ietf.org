@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-12-09T13:52:36.466Z
+date: 2022-12-09T13:53:51.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -306,8 +306,8 @@ Location: West Wing, First Floor
 |  10:30   | Specification of Attestation Protocols in Trusted Execution Environments | Security (IETF RATS, TEEP) | Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de) | Intel Trust Domain Extensions (TDX) as a use case | https://tu-dresden.zoom.us/j/64523897756?pwd=bWE3ZXVwbEFLTGt1L2NGdjZnZkFEdz09    Meeting ID: 645 2389 7756 , Passcode: W#t?zW#5                 |                       |         
 |  11:00   | Specification of Attestation Protocols in Trusted Execution Environments | Security (IETF RATS, TEEP) | Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de) | Intel Trust Domain Extensions (TDX) as a use case | https://tu-dresden.zoom.us/j/64523897756?pwd=bWE3ZXVwbEFLTGt1L2NGdjZnZkFEdz09    Meeting ID: 645 2389 7756 , Passcode: W#t?zW#5                 |                       |         
 |  11:30   |   Usable Formal Methods  |   IRTF  |   Colin Perkins |   | https://uofglasgow.zoom.us/j/82051131120?pwd=QlNqVU91cmpEYytnWjVLbldKMkI3QT09  |    |   
-|  12:00   |   Usable Formal Methods  |  IRTF  |   Colin Perkins  |    |   |  Materials and notes at: https://csperkins.org/research/protocol-standards/2022-11-30-usable-formal-methods/  | 
-|  12:30   |   Usable Formal Methods  |  IRTF |  Colin Perkins  |    |   |  Draft charter (12/2022) for planned RG at: https://docs.google.com/document/d/1X1aFFXg-LTNcT4cpo3FZ6w1PwHG33Q0RAUUf-R7Kmus/   |
+|  12:00   |   Usable Formal Methods  |  IRTF  |   Colin Perkins  |       |  Materials and notes at: https://csperkins.org/research/protocol-standards/2022-11-30-usable-formal-methods/  | |
+|  12:30   |   Usable Formal Methods  |  IRTF |  Colin Perkins  |    |    Draft charter (12/2022) for planned RG at: https://docs.google.com/document/d/1X1aFFXg-LTNcT4cpo3FZ6w1PwHG33Q0RAUUf-R7Kmus/  |  |
 |  13:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
 |  13:30   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |   
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
