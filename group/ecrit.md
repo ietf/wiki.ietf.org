@@ -2,7 +2,7 @@
 title: Emergency Context Resolution with Internet Technologies (ecrit) 
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-08T23:53:52.099Z
+date: 2022-12-09T00:05:18.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -41,7 +41,7 @@ It is possible to reduce the granularity by storing additional information (such
 
 Approach (1) requires more discussion. Consider the following approaches:
 
-```
+<pre>
                  +----------+
                  | List of  |+
                  | valid    ||
@@ -65,7 +65,7 @@ Approach (1) requires more discussion. Consider the following approaches:
                       ++=============>
                         (in whitelist)
 
-```
+</pre>
 
 Figure 1: Identity Based Authorization
 
