@@ -2,7 +2,7 @@
 title: Emergency Context Resolution with Internet Technologies (ecrit) 
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-09T00:25:41.910Z
+date: 2022-12-09T00:37:12.398Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -17,9 +17,7 @@ A few design decisions impact the direction of a solution, namely:
 
 1) Approach 1: Indication that the caller is a PSAP.
 
-2) Approach 2: Indication that the call is in response to a previous emergency
-
-    call.
+2) Approach 2: Indication that the call is in response to a previous emergency call.
 
 3) Approach 3: Indication is that the communication attempt is of emergency nature.
 
@@ -139,9 +137,7 @@ Work Prioritization: 20 min.
 * The ADs are still holding us to getting PhoneBCP and Framework out before adding more milestones. The group has stacked the deck of milestones, but we want to discuss prioritization of the new milestones we’ll be asking for as we will be limited to 6 at a time.
 
 Open Discussion: 15 min.
-Slides
 
-http://trac.tools.ietf.org/wg/ecrit/trac/attachment/wiki/WikiStart/ECRIT-Chair-Update.ppt
 &nbsp;
 ### 1st Virtual Interim Meeting
 
