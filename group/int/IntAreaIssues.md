@@ -2,7 +2,7 @@
 title: Typical INTernet Area Issues
 description: Typical INTernet Area Issues
 published: true
-date: 2022-12-09T21:35:20.467Z
+date: 2022-12-09T21:56:15.091Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:35:20.467Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-09T21:35:20.467Z
 
 # Typical INTernet Area Issues
 
-Certain internet area related issues show up time and time again when the Area Directors in the IETF Internet Area (or members of the [Internet Directorate](/group/int/IntDirWiki) or [IoT Directorate](/group/int/IOTDirWiki) complete reviews of Internet-Drafts. I-D authors are advised to address these issues ahead of time to smooth the path to RFC publication.
+Certain internet area related issues show up time and time again when the Area Directors in the IETF Internet Area (or members of the [Internet Directorate](/group/int/IntDirWiki) or [IoT Directorate](https://wiki.ietf.org/en/group/iotdir) complete reviews of Internet-Drafts. I-D authors are advised to address these issues ahead of time to smooth the path to RFC publication.
 
 ## IPv6 Support
 
