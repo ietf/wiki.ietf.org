@@ -2,7 +2,7 @@
 title: Internet Area Wiki
 description: Wiki for the Internet Area
 published: true
-date: 2022-12-09T21:25:33.087Z
+date: 2022-12-09T21:59:23.179Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:25:33.087Z
@@ -14,8 +14,8 @@ Specification authors will want to be familiar with [Typical Internet Area Issue
 
 ## Internet Area Directorates
 
-* Internet Area Directorate Wiki
-* IOT Directorate Wiki 
+* [Internet Area Directorate Wiki](/group/int/IntDirWiki)
+* [IOT Directorate Wiki](/group/iotdir)
 
 ## WG Summaries
 
