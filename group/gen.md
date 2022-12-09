@@ -2,7 +2,7 @@
 title: IETF General Area
 description: Wiki for GEN
 published: true
-date: 2022-12-09T01:24:55.274Z
+date: 2022-12-09T19:54:45.233Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:06:24.204Z
@@ -117,7 +117,7 @@ However, all these are judgment calls in the end.
 ### Draft Email Aliases
 
 The following aliases can be helpful in getting the reviews to the right targets, replacing draftname by draft-ietf-wg-topic (without -xx version)
-|---|---|
+| --- | --- | --- |
 |draftname@ietf.org |	Draft authors (for now, could change)|
 |draftname.authors@ietf.org |	Draft authors|
 |draftname.chairs@ietf.org |	WG Chairs (if the draft is a WG draft)|
