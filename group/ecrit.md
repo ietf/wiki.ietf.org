@@ -2,7 +2,7 @@
 title: Emergency Context Resolution with Internet Technologies (ecrit) 
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-09T00:23:15.578Z
+date: 2022-12-09T00:25:41.910Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -76,7 +76,8 @@ The establishment of a whitelist with PSAP identities is operationally complex a
 
 A drawback of the presented solution is that this method does not allow any mechanism to distinguish different types of calls initiated by PSAPs.
 
-An approach that extends the one presented in Figure 1 is outlined in Figure 2. RFC 4484 illustrated the basic requirements for this technique.
+An approach that extends the one presented in Figure 1 is outlined in Figure 2. [RFC 4484](http://tools.ietf.org/html/rfc4484) illustrated the basic requirements for this technique.
+&nbsp;
 
 <pre>
                +----------+
@@ -141,7 +142,7 @@ Open Discussion: 15 min.
 Slides
 
 http://trac.tools.ietf.org/wg/ecrit/trac/attachment/wiki/WikiStart/ECRIT-Chair-Update.ppt
-
+&nbsp;
 ### 1st Virtual Interim Meeting
 
 Date: 26th February, 2:00 PM EST
