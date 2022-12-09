@@ -2,7 +2,7 @@
 title: IETF General Area
 description: Wiki for GEN
 published: true
-date: 2022-12-09T01:06:24.204Z
+date: 2022-12-09T01:24:55.274Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:06:24.204Z
