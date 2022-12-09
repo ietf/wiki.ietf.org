@@ -2,7 +2,7 @@
 title: Emergency Context Resolution with Internet Technologies (ecrit) 
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-09T00:06:30.528Z
+date: 2022-12-09T00:23:15.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -150,39 +150,39 @@ Duration: 2 hours
 
 This is the agenda proposal for the meeting:
 
-draft-ietf-ecrit-phonebcp and draft-ietf-ecrit-framework 
+[draft-ietf-ecrit-phonebcp](http://tools.ietf.org/html/draft-ietf-ecrit-phonebcp) and [draft-ietf-ecrit-framework](http://tools.ietf.org/html/draft-ietf-ecrit-framework) 
 
 Only if there are substantial comments received during WGLC that require a discussion. Brian will do the job.
 
-draft-ietf-ecrit-lost-sync 
+[draft-ietf-ecrit-lost-sync](http://tools.ietf.org/html/draft-ietf-ecrit-lost-sync)  
 
 Recently Roger and Richard provided their document reviews. We discuss their reviews. Henning or Hannes will be the discussion lead.
 
-draft-ietf-ecrit-local-emergency-rph-namespace 
+[draft-ietf-ecrit-local-emergency-rph-namespace](http://tools.ietf.org/html/draft-ietf-ecrit-local-emergency-rph-namespace)  
 
 This document received a lot of feedback. We should start our discussion with the where the marking should happen along the e2e chain. James is going to lead this discussion.
 
-draft-barnes-ecrit-rough-loc 
+[draft-barnes-ecrit-rough-loc](http://tools.ietf.org/html/draft-barnes-ecrit-rough-loc)  
 
 Richard will lead us through this document and tell us what the necessary steps are to complete it.
 
-draft-patel-ecrit-sos-parameter 
+[draft-patel-ecrit-sos-parameter](http://tools.ietf.org/html/draft-patel-ecrit-sos-parameter)  
 
 Milan will tell us what the open issues with this document are.
 
-draft-rosen-ecrit-premature-disconnect-rqmts 
+[draft-rosen-ecrit-premature-disconnect-rqmts](http://tools.ietf.org/html/draft-rosen-ecrit-premature-disconnect-rqmts)  
 
 Brian will inform us about the recent draft update and we will chat whether this version can be picked up as a WG item.
 
-RFC5031bis and draft-forte-ecrit-lost-extensions 
+RFC5031bis and [draft-forte-ecrit-lost-extensions](http://tools.ietf.org/html/draft-forte-ecrit-lost-extensions)  
 
 Henning or Andrea will brief us about the plans to update the Service URN RFC and how to then deal with the extensions that have been proposed to the group.
 
-draft-wolf-ecrit-lost-servicelistboundary 
+[draft-wolf-ecrit-lost-servicelistboundary](http://tools.ietf.org/html/draft-wolf-ecrit-lost-servicelistboundary)  
 
 Karl Heinz wanted to give a presentation about this draft at the last IETF meeting but we ran out of time. Let's try it again.
 
-draft-schulzrinne-ecrit-unauthenticated-access 
+[draft-schulzrinne-ecrit-unauthenticated-access](http://tools.ietf.org/html/draft-schulzrinne-ecrit-unauthenticated-access) 
 
 Finally, we should chat about how we should proceed with the unauthenticated emergency calls document.
 
