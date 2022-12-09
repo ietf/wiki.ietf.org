@@ -2,7 +2,7 @@
 title: DMARC WG
 description: 
 published: true
-date: 2022-12-09T16:22:48.699Z
+date: 2022-12-09T16:25:02.926Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z
@@ -30,8 +30,8 @@ Due to the ubiquitous nature of email and the size of email's installed base, th
 **Phase 1 - Interop Issues:** The working group will initially focus on [discovery and documentation of DMARC interoperability issues regarding indirect email flows](MilestoneOneWiki) and possible solutions. This effort will provide shared data, operational experiences, and ideas that will inform the following phases.
 
 **Phase 2 - Interop Improvements:** The second phase builds upon the output of phase 1 and will focus on [proposed specification changes that improve DMARC's interoperability with indirect email flows](MilestoneTwoWiki). Additionally the output of phase 1 as it pertains to the deployment and operation of DMARC will be captured in a draft Usage Guide.
-**
-Phase 3 - DMARC Base:** The last phase will review and possibly refine the DMARC base specification?, taking into account output from previous phases. The Usage Guide will also be finalized and published.
+
+**Phase 3 - DMARC Base:** The last phase will review and possibly refine the DMARC base specification, taking into account output from previous phases. The Usage Guide will also be finalized and published.
 
 The ordering of the WG's phases should not preclude participants from exploring and discussing "out of order" items. Participants should be aware, though, that the Chairs may ask for items to be captured using the WG's Issue Tracker to ensure items remain visible when the WG brings focus to the relevant topic.
 
