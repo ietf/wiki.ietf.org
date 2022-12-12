@@ -1,8 +1,8 @@
 ---
-title: Chair CO-ordination meeting 2022-12-13
+title: Chair co-ordination meeting 2022-12-13
 description: Agenda and notes
 published: true
-date: 2022-12-12T17:20:06.639Z
+date: 2022-12-12T17:25:02.330Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-12T15:09:20.077Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-12T15:09:20.077Z
 
 # Chair coordination meeting 2022-12-13
 
-## Agenda Chair Coordination 2022-12-13
+## Agenda Chair co-ordination 2022-12-13
 
  1. Joint and MPLS meetings at IETF 116
  Chairs, all
