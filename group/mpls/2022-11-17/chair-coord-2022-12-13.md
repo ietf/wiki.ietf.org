@@ -2,7 +2,7 @@
 title: Chair CO-ordination meeting 2022-12-13
 description: Agenda and notes
 published: true
-date: 2022-12-12T15:09:20.077Z
+date: 2022-12-12T17:20:06.639Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-12T15:09:20.077Z
@@ -24,20 +24,18 @@ dateCreated: 2022-12-12T15:09:20.077Z
  1. MNA Chair and secretary Attendance IETF 116
  
  Loa, likely remote
- Nic, likely on site
+ Nic, plan to be on site
  Tarek, TBA
  Mach, TBA
  
- Stewart, likely remorte
+ Stewart, likely remote
  Andy, remote
  David, TBA
  
- Lou, On-site
- Janos, TBA
+ Lou, Plan to be on-site
+ Janos, remote
  
- 
- 
- 
+  
  
  ## Meeting  invite
 
@@ -45,5 +43,4 @@ dateCreated: 2022-12-12T15:09:20.077Z
     https://ietf.webex.com/ietf/j.php?MTID=m8e9e0b3870e9ff1454560b5488c24689
     Meeting number (access code): 2435 602 6302
     
-- [Fundra](/group/mpls/2022-12-01/fundra)
 
