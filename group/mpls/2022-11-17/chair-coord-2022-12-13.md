@@ -2,13 +2,13 @@
 title: Chair co-ordination meeting 2022-12-13
 description: Agenda and notes
 published: true
-date: 2022-12-12T17:25:02.330Z
+date: 2022-12-12T17:25:23.637Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-12T15:09:20.077Z
 ---
 
-# Chair coordination meeting 2022-12-13
+# Chair co-ordination meeting 2022-12-13
 
 ## Agenda Chair co-ordination 2022-12-13
 
