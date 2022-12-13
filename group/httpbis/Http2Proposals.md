@@ -2,7 +2,7 @@
 title: HTTP/2.0 Proposals
 description: HTTP/2.0 Proposals
 published: true
-date: 2022-12-13T23:33:34.736Z
+date: 2022-12-13T23:34:20.026Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T23:33:34.736Z
@@ -14,7 +14,7 @@ This page tracks proposals for the HTTP/2.0 work.
 
 To make a proposal, please submit an Internet-Draft whose name follows this convention:
 
-    draft-{your name}-httpbis-{proposal name}
+``` draft-{your name}-httpbis-{proposal name}```
 
 ## Current Proposals
 
