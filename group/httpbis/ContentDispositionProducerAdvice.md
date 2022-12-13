@@ -2,7 +2,7 @@
 title: HTTP Frameworks and the Content-Disposition Header
 description: HTTP Frameworks and the Content-Disposition Header
 published: true
-date: 2022-12-13T22:29:42.494Z
+date: 2022-12-13T22:30:38.358Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T22:29:14.472Z
@@ -16,7 +16,7 @@ This specification is the result of extensive testing ([detail](http://greenbyte
 
 This RFC now defines the syntax and semantics of Content-Disposition headers. This page has been written to help authors of server-side HTTP libraries and frameworks produce Content-Disposition headers that are interoperable with the broadest number of implementations, based on that RFC.
 
-1. [Why HTTP Frameworks Should Have a Content-Disposition API](https://wiki.ietf.org/en/group/httpbis/ContentDispositionProducerAdvice#why-http-frameworks-should-have-a-content-disposition-api)
+1. [Why HTTP Frameworks Should Have a Content-Disposition API](#why-http-frameworks-should-have-a-content-disposition-api)
 2. Sample API for Content-Disposition Generation
 3. What Next?
 4. Frequently Asked Questions
