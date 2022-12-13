@@ -2,7 +2,7 @@
 title: HTTP Frameworks and the Content-Disposition Header
 description: HTTP Frameworks and the Content-Disposition Header
 published: true
-date: 2022-12-13T22:32:49.726Z
+date: 2022-12-13T22:41:06.414Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T22:29:14.472Z
@@ -26,27 +26,33 @@ This RFC now defines the syntax and semantics of Content-Disposition headers. Th
 While it's possible for content developers to produce their own Content-Disposition headers (and currently many frameworks require them to do so), there are some details that are important to get right for interoperability. Many of these issues surround internationalisation.
 
 In simple cases, Content-Disposition looks something like this:
-
+&nbsp;
+<pre>
 Content-Disposition: attachment; filename=example.html
+</pre>
+However, when the filename has non-ASCII characters in it, it needs to be encoded as described in [RFC5987](http://tools.ietf.org/html/rfc5987). For example:
+&nbsp;
 
-However, when the filename has non-ASCII characters in it, it needs to be encoded as described in RFC5987. For example:
-
+<pre>
 Content-Disposition: attachment;
                      filename="EURO rates";
                      filename*=utf-8''%e2%82%ac%20rates
+</pre>
 
 Similarly, there are a number of other "gotcha" issues, such as including backslash characters and quoting parameters with spaces in them. By providing an API for developers to easily produce Content-Disposition headers, HTTP frameworks can help them avoid these common problems, and also more painlessly evolve as browser implementations improve.
 
 Note that as the Web has evolved, HTTP's use of headers has diverged from MIME, so it's not adequate to just use a MIME library any more (for Content-Disposition or many other purposes).
 ## Sample API for Content-Disposition Generation
 
-​RFC6266 Appendix D describes an approach to producing Content-Disposition headers that interoperates with as many browsers and other clients as possible. This advice should form the basis of a Content-Disposition API.
+[RFC6266 Appendix D](http://tools.ietf.org/html/rfc6266#appendix-D) describes an approach to producing Content-Disposition headers that interoperates with as many browsers and other clients as possible. This advice should form the basis of a Content-Disposition API.
 
 For example, a Python framework might have a method that looks something like:
+&nbsp;
+<pre>
 
 headers.add_content_disposition(disposition, filename, fallback_filename)
-
-Note here that both a filename and fallback filename can be passed as parameters, so that both filename and filename* can be populated, even if there isn't a programmatic way to generate the former from the latter.
+</pre>
+Note here that both a filename and fallback filename can be passed as parameters, so that both ```filename``` and ```filename*``` can be populated, even if there isn't a programmatic way to generate the former from the latter.
 ## What Next?
 
 In the past, browsers haven't implemented Content-Disposition interoperably, causing a lot of frustration. As a result, many frameworks haven't attempted to make it work, except in simple cases.
@@ -60,16 +66,16 @@ If you are responsible for, or contribute to, one of these frameworks, we'd enco
 
 This is a list of implementations and associated tickets that we're aware of:
 
-    ​Sweet - C-D for Node.JS
-    ​ticket request for Django
-    ​Symfony (PHP) 
+* [Sweet](https://github.com/mnot/sweet) - C-D for Node.JS
+* [ticket request](https://code.djangoproject.com/ticket/16470) for Django
+* [Symfony](https://github.com/symfony/symfony/commit/dccd2d5) (PHP) 
 
 ## Frequently Asked Questions
 **Why shouldn't I just produce the C-D header in UTF-8 directly?**
 
 HTTP headers are defined to be ISO-8859-1, so encoding them as UTF-8 assumes that the client will correctly "sniff" the encoding.
 
-Unfortunately, there are some UTF-8 characters that look like ISO-8859-1 characters, such as an a with an umlaut (ä). In these cases, some browsers will treat it as UTF-8, even though it's valid ISO-8859-1, causing a loss of interoperability; your users will see the wrong filename. See ​the test case for details.
+Unfortunately, there are some UTF-8 characters that look like ISO-8859-1 characters, such as an a with an umlaut (ä). In these cases, some browsers will treat it as UTF-8, even though it's valid ISO-8859-1, causing a loss of interoperability; your users will see the wrong filename. See [the test case](http://greenbytes.de/tech/tc2231/#attwithutf8fnplain) for details.
 
 **Why not generate the fallback filename automatically?**
 
