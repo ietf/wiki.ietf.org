@@ -2,7 +2,7 @@
 title: Chair co-ordination meeting 2022-12-13
 description: Agenda and notes
 published: true
-date: 2022-12-13T18:51:37.802Z
+date: 2022-12-13T19:02:31.540Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-12T15:09:20.077Z
@@ -40,7 +40,7 @@ Proposed mail:
 
 At the MPLS Open DT 2022-12-01 the "complexity" of the MNA solution(s) were discussed, based on a slide deck. We have received a request to make the slide deck available. This slide deck has been posted (link).
 
-This will be back on the agenda on 2022-12-15. We'd like tp hear any concerns on this, either on mail or at the meeting.
+This will be back on the agenda on 2022-12-15. We'd like to hear any concerns and comments on this, either on e-mail or at the meeting.
 
 
 
@@ -50,6 +50,17 @@ This will be back on the agenda on 2022-12-15. We'd like tp hear any concerns on
  
  1. Agenda for MPLS Open DT 2022-12-15
  All
+ 
+ AI (Tarek)
+  
+Complexity (Tarek)
+ proponent Stewart, opponent John
+ What do we want to take away from this comlexity discussion?
+ Clearer definition? What does "complexity" really mean.
+ 
+ AOB (all)
+
+
  
  1. MNA Chair and secretary Attendance IETF 116
  
