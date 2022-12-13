@@ -2,7 +2,7 @@
 title: Internet Area Directorate
 description: 
 published: true
-date: 2022-12-13T18:52:18.136Z
+date: 2022-12-13T19:20:15.342Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:55:14.390Z
@@ -30,4 +30,4 @@ See https://wiki.ietf.org/group/gen/DatatrackerReviewToolHowTo for helpful infor
 
 ---
 
-*The content on this page was moved from the old wiki and was last updated 2019-07-02*
+*The content on this page was migrated from the previous trac wiki on 2022-12-13 and was last updated on 2019-07-02*
