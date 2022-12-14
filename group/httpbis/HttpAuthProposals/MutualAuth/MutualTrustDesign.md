@@ -2,7 +2,7 @@
 title: Why we propose mutual authentication?
 description: Why we propose mutual authentication?
 published: true
-date: 2022-12-14T19:09:07.510Z
+date: 2022-12-14T19:11:02.712Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T18:44:54.892Z
@@ -77,11 +77,14 @@ This gives two clear differences for designing the protocols for these two kinds
 
 Basic and other generic user-authentication protocols have a discovery stage for finding that the server is requesting the specific authentication method. So, the Basic authentication is usually depicted as a two-exchange protocol like this:
 
-| --- | --- |
-|   Request w/o Authorization |	->
-|   <-	| 401 Authorization Required (WWW-Authenticate: Basic)
-|   Request w/ Authorization: Basic |	->
-|   <-	| 200 (or 401)
+
+
+|                                   |                                                         |
+|-----------------------------------|---------------------------------------------------------|
+| Request w/o Authorization         | ->                                                      |
+|                                <- |  401 Authorization Required (WWW-Authenticate: Basic)   |
+|  Request w/ Authorization: Basic  | ->                                                      |
+|                                <- |  200 (or 401)                                           |
 
 On the contrary, almost the equivalent Bearer protocol is usually depicted as a single-exchange protocol like this:
 
