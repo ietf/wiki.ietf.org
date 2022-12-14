@@ -2,7 +2,7 @@
 title: Why we propose mutual authentication?
 description: Why we propose mutual authentication?
 published: true
-date: 2022-12-14T19:08:04.503Z
+date: 2022-12-14T19:09:07.510Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T18:44:54.892Z
@@ -106,7 +106,7 @@ Another thing is recovery; there were discussions about how the Bearer clients c
    More precisely, exchange numbers of authentication protocol is half-integers: simply because it is twice the number of messages. In this note, we count message numbers instead, including the final responses just carrying yes-or-no information for authentication results. The number of exchanges depends on the number of messages, from which side the exchange should start, and whether the prior (static) agreement about authentication methods exist. We exclude discovery exchanges from counting,
 
 | --------      | --------- | ------- | -------------------------- |
-| Examples      | #messages | starter | #exchanges(+1 for discovery) ||
+| Examples      | #messages | starter | #exchanges(+1 for discovery) 
 |               |           |         | no agree   | 	prior agree
 | Basic, Bearer |	2         |	client  |	1 + 1      |	1
 | Digest        |	3         |	server  |	1 + 1      |	2
