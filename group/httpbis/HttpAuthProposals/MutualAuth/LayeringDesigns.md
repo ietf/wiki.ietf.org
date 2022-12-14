@@ -2,7 +2,7 @@
 title: Design Decisions regarding Layering of HTTP Mutual
 description: Design Decisions regarding Layering of HTTP Mutual
 published: true
-date: 2022-12-14T01:18:49.307Z
+date: 2022-12-14T18:42:06.888Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T01:18:49.307Z
@@ -120,7 +120,7 @@ I guess that people may surprise about (1) and (2) here. However, we already hav
 
 Honestly speaking, when I saw OAuth for the first time, I was a bit surprised about their choice about using Authorization: header for access authorizations. Of course, I had a concern about (1) case, and the reality assumes either "hyblid" or "apps-passthrough". If this holds true, we have no difficulty to implement HTTP-layer authentication in the web application software level, with application-level control of user entities.
 
-> Note: if you're curious about allowing sharing DB between servers and applications, a short notice about that: if it is possible, it will turn *3 to OK (do authentication server-side with information provided from applications), and (1) to become either OK or NG, depending on the detail of protocols (at least Bearer will be OK).
+> Note: if you're curious about allowing sharing DB between servers and applications, a short notice about that: if it is possible, it will turn * 3 to OK (do authentication server-side with information provided from applications), and (1) to become either OK or NG, depending on the detail of protocols (at least Bearer will be OK).
 
 ## 2. Lack of features
 
@@ -134,7 +134,7 @@ From the application programmer's view, it is just a set of API commands to be s
 
 People may wonder how it can be realized in the real applications. Some sample tactics for such deployment is included in the draft.
 
-    Note: As obviously, it could be designed alternatively as directives (parameters) on the WWW-Authenticate headers. Such design is simpler when we only care about the protocol layer. However, if we did such a way, we MUST have a tight communication channel between server-side authenticator and Web applications. Server-side authenticator can be either in the web-server layer or in the application framework layer, but in either case it is difficult to deploy. We cared this issue, avoided such shortcomings, and so we introduced it as an additional header named "Authentication-Control:". It is also designed so that applications do not necessarily understand detailed authentication status. This makes it possible to ''statically'' configure these headers when application requirement is simple, eliminating a need for CGI applications only for that header (e.g. Apache has a simple "mod_headers" module for just setting HTTP headers from .htaccess files).
+Note: As obviously, it could be designed alternatively as directives (parameters) on the WWW-Authenticate headers. Such design is simpler when we only care about the protocol layer. However, if we did such a way, we MUST have a tight communication channel between server-side authenticator and Web applications. Server-side authenticator can be either in the web-server layer or in the application framework layer, but in either case it is difficult to deploy. We cared this issue, avoided such shortcomings, and so we introduced it as an additional header named "Authentication-Control:". It is also designed so that applications do not necessarily understand detailed authentication status. This makes it possible to ''statically'' configure these headers when application requirement is simple, eliminating a need for CGI applications only for that header (e.g. Apache has a simple "mod_headers" module for just setting HTTP headers from .htaccess files).
 
 ## 3. Multiple stage authentication in HTTP
 
