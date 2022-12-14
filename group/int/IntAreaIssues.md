@@ -2,7 +2,7 @@
 title: Typical INTernet Area Issues
 description: Typical INTernet Area Issues
 published: true
-date: 2022-12-09T21:56:15.091Z
+date: 2022-12-14T21:27:42.781Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:35:20.467Z
@@ -75,3 +75,10 @@ IPv6 Extension headers (except for the Hop-by-Hop Options header) are not proces
 Address privacy
 
 IPv6 addresses of nodes are expected to be more visible on the Internet as compared with IPv4 due to the reduced need for NATs. [RFC7721](http://tools.ietf.org/html/rfc7721) explores a bunch of privacy and security issues related to this.
+
+&nbsp;
+&nbsp;
+
+---
+
+*The content on this page was last updated on 2022-02-13. It was migrated from the old Trac wiki on 2022-12-14.*
