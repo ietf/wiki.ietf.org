@@ -2,7 +2,7 @@
 title: Why we propose mutual authentication?
 description: Why we propose mutual authentication?
 published: true
-date: 2022-12-14T19:11:02.712Z
+date: 2022-12-14T19:13:23.503Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T18:44:54.892Z
@@ -88,15 +88,17 @@ Basic and other generic user-authentication protocols have a discovery stage for
 
 On the contrary, almost the equivalent Bearer protocol is usually depicted as a single-exchange protocol like this:
 
-| --- | --- |
- |  Request w/ Authorization: Bearer	| -> |
- |   <- |	200 (or 400)
+|                                  |                 |
+|----------------------------------|-----------------|
+| Request w/ Authorization: Bearer | ->              |
+|                               <- |   200 (or 400)  |
 
 Furthermore, there is a Form-encoded variant of Bearer protocol like this:
 
-| --- | --- |
- |   POST request w/ auth-token field |	->
- |   <- |	200 (or 400)
+|                                  |               |
+|----------------------------------|---------------|
+| POST request w/ auth-token field | ->            |
+|                               <- |  200 (or 400) |
 
 As these protocols are almost equivalent, this showsn clearly not the protocol-level difference nor layer-design difference but the that of application designs.
 
@@ -108,6 +110,7 @@ Another thing is recovery; there were discussions about how the Bearer clients c
 
    More precisely, exchange numbers of authentication protocol is half-integers: simply because it is twice the number of messages. In this note, we count message numbers instead, including the final responses just carrying yes-or-no information for authentication results. The number of exchanges depends on the number of messages, from which side the exchange should start, and whether the prior (static) agreement about authentication methods exist. We exclude discovery exchanges from counting,
 
+|               |           |         |                            |
 | --------      | --------- | ------- | -------------------------- |
 | Examples      | #messages | starter | #exchanges(+1 for discovery) 
 |               |           |         | no agree   | 	prior agree
