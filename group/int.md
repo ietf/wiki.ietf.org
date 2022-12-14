@@ -2,7 +2,7 @@
 title: Internet Area Wiki
 description: Wiki for the Internet Area
 published: true
-date: 2022-12-14T20:28:25.827Z
+date: 2022-12-14T20:29:51.867Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:25:33.087Z
@@ -45,4 +45,13 @@ Specification authors will want to be familiar with [Typical Internet Area Issue
 
 * IPv4 - IPv6 Co-Existence Interim
  [1 - 2 October 2008 in Montreal, Canada](/group/int/v4v6interim) 
+ 
+ 
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ 
+ ---
+ 
+ *The content on this page was last updated on 2019-07-02. It was migrated from the old Trac wiki on 2022-12-14.*
 
