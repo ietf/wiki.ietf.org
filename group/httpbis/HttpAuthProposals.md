@@ -2,7 +2,7 @@
 title: HTTP Authentication Proposals
 description: HTTP Authentication Proposals
 published: true
-date: 2022-12-13T23:44:06.246Z
+date: 2022-12-14T19:53:02.234Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T23:44:06.246Z
@@ -22,7 +22,7 @@ To make a proposal, please submit an Internet-Draft whose name follows this conv
 
 A proposal for authentication based on RESTful exchange of authentication messages, resulting a session URI that can be used to provide connection-independence and a good logout story. RESTfulness makes for good interaction with "HTTP routers". Simple mechanisms based on SSHv2, SASL, and GSS are described.
 
-**[draft-oiwa-httpbis-mutualauth: HTTP Mutual authentication](/group/httpbis/HttpAuthProposals/MutualAuth)**
+**[draft-oiwa-httpbis-mutualauth: HTTP Mutual authentication](group/httpbis/HttpAuthProposals/MutualAuth)**
 
 A secure HTTP authentication method providing user-server mutual authentication, strong secrecy on passwords, and others. Combined with auth-extension below to support Web application requirements (i.e. to replace Form authentication).
 
