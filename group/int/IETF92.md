@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 92
 description: 
 published: true
-date: 2022-12-15T01:59:23.251Z
+date: 2022-12-15T02:02:35.950Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T01:59:23.251Z
@@ -18,7 +18,7 @@ Since IETF91:
 
  - Published 2 RFC\'s:
 
-   -  draft-ietf-6lo-ghc-03 ==\> <http://tools.ietf.org/html/rfc7400> • draft-ietf-6lo-lowpanz-05 ==\> <http://tools.ietf.org/html/rfc7428>
+   -  draft-ietf-6lo-ghc-03 ==\> <http://tools.ietf.org/html/rfc7400>   -  draft-ietf-6lo-lowpanz-05 ==\> <http://tools.ietf.org/html/rfc7428>
 
  - Submitted to IESG: <https://tools.ietf.org/html/draft-ietf-6lo-btle-10> 
  - Adopted <http://tools.ietf.org/html/draft-ietf-6lo-nfc>
