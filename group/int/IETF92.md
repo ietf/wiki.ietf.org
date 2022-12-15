@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 92
 description: 
 published: true
-date: 2022-12-15T02:02:35.950Z
+date: 2022-12-15T02:12:02.774Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T01:59:23.251Z
@@ -18,24 +18,27 @@ Since IETF91:
 
  - Published 2 RFC\'s:
 
-   -  draft-ietf-6lo-ghc-03 ==\> <http://tools.ietf.org/html/rfc7400>   -  draft-ietf-6lo-lowpanz-05 ==\> <http://tools.ietf.org/html/rfc7428>
+   -  draft-ietf-6lo-ghc-03 ==\> <http://tools.ietf.org/html/rfc7400>  
+   -  draft-ietf-6lo-lowpanz-05 ==\> <http://tools.ietf.org/html/rfc7428>
 
  - Submitted to IESG: <https://tools.ietf.org/html/draft-ietf-6lo-btle-10> 
  - Adopted <http://tools.ietf.org/html/draft-ietf-6lo-nfc>
 
 Started with discussion on official documents:
 
-> • IPv6 over NFC: <http://tools.ietf.org/html/draft-ietf-6lo-nfc> -
->
-> > • this document was adopted recently by the WG
->
-> • IPv6 over MS/TP (BACnet): <https://tools.ietf.org/html/draft-ietf-6lo-6lobac-01> -
->
-> > • some discussion about compressed and uncompressed addresses as well as support for privacy in addressing. • On a very positive note, right before the meeting, this draft received the BACnet MS/TP Frame Type Number issued by ASHRAE, something the authors had been waiting for.
+- IPv6 over NFC: <http://tools.ietf.org/html/draft-ietf-6lo-nfc> -
+
+    • this document was adopted recently by the WG
+
+- IPv6 over MS/TP (BACnet): <https://tools.ietf.org/html/draft-ietf-6lo-6lobac-01> 
+
+  • some discussion about compressed and uncompressed addresses as well as support for privacy in addressing.
+  • On a very positive note, right before the meeting, this draft received the BACnet MS/TP Frame Type Number issued by ASHRAE, something the authors had been waiting for.
 
 New potential work presented by Dave Thaler on enabling security/privacy addressing in 6LoWPAN technologies: <https://tools.ietf.org/html/draft-thaler-6lo-privacy-addrs-00>
 
-> • 3 techniques, of which #3 is quite complex, not much interest. • #1 might be enough given certain conditions and technologies, but Dave points out #2 seem to work well in more general cases.
+- 3 techniques, of which #3 is quite complex, not much interest.
+- #1 might be enough given certain conditions and technologies, but Dave points out #2 seem to work well in more general cases.
 
 The requirements for 6775 update were also presented: <https://tools.ietf.org/html/draft-thubert-6lo-rfc6775-update-reqs-06.> This will be continued on the wiki page so the WG can agree on the requirements.
 
@@ -95,15 +98,15 @@ Since IETF91:
     -   4 virtual meeting of the security DT
     -   1 virtual meeting around on-the-fly scheduling
 
-Monday ~~\--~~
+**Monday**
 
 In the context of rechartering, the applicability of the deterministic networking (DetNet) work to the establishment of 6TiSCH tracks was presented to the group. The chairs asked the WG for input on how to proceed with the interests that 6TiSCH has on DetNet. The consensus in the room was that 6TiSCH should charter a requirement draft to DetNet but should not be the home of the DetNet work. Rather, DetNet should be its own entity, which should take requirements from the likes of 6TiSCH, and work on solutions with the relevant WGs. It was noted that the relevant WGs included PCE, CCAMP and TEAS.
 
-Zhuo Chen presented \<draft-wang-6tisch-track-use-cases-00\>, which highlights the important of track reservation in a 6TiSCH network, and could be a starting point to the requirement work for DetNet.
+Zhuo Chen presented draft-wang-6tisch-track-use-cases-00, which highlights the important of track reservation in a 6TiSCH network, and could be a starting point to the requirement work for DetNet.
 
-A large portion of the Monday session was spent discussing the state of the work on the security DT. Rene Struik presented \<draft-struik-6tisch-security-considerations-01\>, which discusses the high-level discussion about the flows involved in the joining process. Some discussion on the place of security in the possible rechartering followed. The work in the 6TiSCH DT was summarized, with its goal to provide an abstraction of the security model for use on TSCH networks. Some discussion followed to highlight the need to quantify the overhead (time, energy) associated with the proposed approach, and about the need to leave space for a simple PSK option. It was noted that the resulting work is so far 95% independent on the MAC layer, and the rest is mostly independent on the mode of IEEE802.15.4. The general consensus in the room was that security is a very important aspect, and that the solution (in particular around the joining process) should be applicable to the IoT space beyond 6TiSCH. The chairs asked the room about input about whether this work should be kept entirely within the 6TiSCH security DT, or pushed somewhere else. There was some input that the work in the DT was moving swiftly, and that we should be careful not to break the momentum. It was also noted that some goals such as describing a solution that would emulate those deployed in industrial networks with same or better security properties was certainly an achievable goal. It was also noted that there is interest in an autonomic bootstrap but that ANIMA did not include IoT in their charter - note: talking offline with Sheng (ANIMA chair), it seems that ANIMA would still favor a solution that is compatible with IoT if that is at all possible.
+A large portion of the Monday session was spent discussing the state of the work on the security DT. Rene Struik presented draft-struik-6tisch-security-considerations-01, which discusses the high-level discussion about the flows involved in the joining process. Some discussion on the place of security in the possible rechartering followed. The work in the 6TiSCH DT was summarized, with its goal to provide an abstraction of the security model for use on TSCH networks. Some discussion followed to highlight the need to quantify the overhead (time, energy) associated with the proposed approach, and about the need to leave space for a simple PSK option. It was noted that the resulting work is so far 95% independent on the MAC layer, and the rest is mostly independent on the mode of IEEE802.15.4. The general consensus in the room was that security is a very important aspect, and that the solution (in particular around the joining process) should be applicable to the IoT space beyond 6TiSCH. The chairs asked the room about input about whether this work should be kept entirely within the 6TiSCH security DT, or pushed somewhere else. There was some input that the work in the DT was moving swiftly, and that we should be careful not to break the momentum. It was also noted that some goals such as describing a solution that would emulate those deployed in industrial networks with same or better security properties was certainly an achievable goal. It was also noted that there is interest in an autonomic bootstrap but that ANIMA did not include IoT in their charter - note: talking offline with Sheng (ANIMA chair), it seems that ANIMA would still favor a solution that is compatible with IoT if that is at all possible.
 
-Thursday ~~\-\-\--~~
+**Thursday**
 
 On Thursday, the first section of the meeting was spend on reviewing the WG drafts.
 
@@ -131,21 +134,21 @@ The DHC WG met on Thursday March 26. 28 people signed the blue sheets.
 
 There were 7 presentations:
 
-1\. The WG co-chairs started the meeting by providing a WG status update. Since IETF-91, the WG adopted 3 documents (2 on DHCP privacy issues and the RFC3315 bis work) and last called 2 documents (stateful-issues and access-network-identifier). There were no RFCs published and the stateful issues document was added to the editor queue just before IETF-92. In reviewing the WG documents, it was confirmed that the addr-registration I-D (which failed WGLC in Sept 2014) is dead (it has also expried).
+1. The WG co-chairs started the meeting by providing a WG status update. Since IETF-91, the WG adopted 3 documents (2 on DHCP privacy issues and the RFC3315 bis work) and last called 2 documents (stateful-issues and access-network-identifier). There were no RFCs published and the stateful issues document was added to the editor queue just before IETF-92. In reviewing the WG documents, it was confirmed that the addr-registration I-D (which failed WGLC in Sept 2014) is dead (it has also expried).
 
-2\. Tomek Mrugalski presented an update on DHCP privacy work (draft-ietf-dhc-dhcp-privacy, draft-ietf-dhc-dhcpv6-privacy, draft-mrugalski-dhc-dhcpv6-privacy-mitigation).
+2. Tomek Mrugalski presented an update on DHCP privacy work (draft-ietf-dhc-dhcp-privacy, draft-ietf-dhc-dhcpv6-privacy, draft-mrugalski-dhc-dhcpv6-privacy-mitigation).
 
-3\. Christian Huitema presented on draft-huitema-dhc-anonymity-profile.
+3. Christian Huitema presented on draft-huitema-dhc-anonymity-profile.
 
 The authors of the privacy drafts decided prior to the DHC WG meeting to work with Christian on the anonymity profile draft and will drop dhcpv6-privacy-mitigation.
 
-4\. Lishan Li presented draft-cui-dhc-dhcpv6-yang-01. There was significant interest in this work.
+4. Lishan Li presented draft-cui-dhc-dhcpv6-yang-01. There was significant interest in this work.
 
-5\. Bing Liu presented draft-liu-dhc-dhcp-yang-model.
+5. Bing Liu presented draft-liu-dhc-dhcp-yang-model.
 
-6\. Sheng Jiang presented draft-jiang-dhc-sedhcpv4, which applies draft-ietf-dhc-sedhcpv6 to DHCPv4. Updates are needed to fix some issues in the draft, and given the state of sedhcpv6, it probably makes sense to await IESG review of sedhcpv6 before adopting sedhcpv4.
+6. Sheng Jiang presented draft-jiang-dhc-sedhcpv4, which applies draft-ietf-dhc-sedhcpv6 to DHCPv4. Updates are needed to fix some issues in the draft, and given the state of sedhcpv6, it probably makes sense to await IESG review of sedhcpv6 before adopting sedhcpv4.
 
-7\. Tomek Mrugalski provided an update on the RFC3315bis work and he along with Bernie Volz and Marcin Siodelski lead the discussion on some open issues (see tickets 142, 144, 81, 18, 68, 82, 114, 70, and 86 in the issue tracker - <http://tools.ietf.org/group/dhcpv6bis/>).
+7. Tomek Mrugalski provided an update on the RFC3315bis work and he along with Bernie Volz and Marcin Siodelski lead the discussion on some open issues (see tickets 142, 144, 81, 18, 68, 82, 114, 70, and 86 in the issue tracker - http://tools.ietf.org/group/dhcpv6bis/).
 
 The WG meeting ran over by a few minutes.
 
@@ -187,7 +190,7 @@ The intarea working group met in a short one hour slot. Fred Templin presented a
 
 ## LISP
 
-[http://trac.tools.ietf.org/wg/lisp/trac/wiki/92nd%20IETF%20Dallas ​Summary Activities 92nd IETF](Dallas)
+[Summary Activities 92nd IETF Dallas](http://trac.tools.ietf.org/wg/lisp/trac/wiki/92nd%20IETF%20Dallas)
 
 ## LWIG
 
