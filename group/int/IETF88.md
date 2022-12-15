@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 88
 description: 
 published: true
-date: 2022-12-14T22:18:29.871Z
+date: 2022-12-15T02:30:45.397Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T22:18:29.871Z
@@ -14,7 +14,7 @@ The DHC WG met on Tuesday 0900-1130. There were about 60 people in attendance. W
 
 The RFC-3315bis work was initiated and 8 volunteered for the design team. Tomek Mrugalski generated a script to convert RFC 3315 and 3633 to xml, with some hand editing required. The design team will start its work shortly.
 
-Next, there were two presentations (DHCPv4 over DHCPv6 Transport and Provisioning IPv4 Configuration over IPv6 Only Networks) and discussion to resolve the issue as to the mechanism recommended by the DHC for use to configure IPv4 over IPv6. The consensus, to be followed up on the mailing list, is to use the approach in [draft-dhc-dhcpv4-over-dhcpv6](http://tools.ietf.org/html/draft-dhc-dhcpv4-over-dhcpv6). This and the [draft-ietf-dhc-v4configuration](http://tools.ietf.org/html/draft-ietf-dhc-v4configuration) will be updated and then go to working group last call.
+Next, there were two presentations (DHCPv4 over DHCPv6 Transport and Provisioning IPv4 Configuration over IPv6 Only Networks) and discussion to resolve the issue as to the mechanism recommended by the DHC for use to configure IPv4 over IPv6. The consensus, to be followed up on the mailing list, is to use the approach in draft-dhc-dhcpv4-over-dhcpv6. This and the draft-ietf-dhc-v4configuration will be updated and then go to working group last call.
 
 The presentation on Access Network Identifier Options raised some issues that will require a new draft.
 
@@ -46,9 +46,9 @@ We had presentations on a number of forward-looking topics, including using LISP
 
 The HIP WG is chartered to finish an old Experimental RFC-to-be and to revise the main HIP specs, which are also Experimental, into Proposed Standards.
 
-The old Experimental RFC-to-be is [draft-ietf-hip-reload-instance](http://tools.ietf.org/html/draft-ietf-hip-reload-instance), and has already been approved by the IESG. The draft is currently in the RFC Editor's queue.
+The old Experimental RFC-to-be is draft-ietf-hip-reload-instance, and has already been approved by the IESG. The draft is currently in the RFC Editor\'s queue.
 
-The WG also has a few "bis" drafts. They revise the old Experimental HIP specs. Additionally, there are a couple of drafts that are spin offs of those specs: the NAT traversal mechanism and the multihoming part of the mobility and multihoming spec. We decided to document these in separate specs for clarity.
+The WG also has a few \"bis\" drafts. They revise the old Experimental HIP specs. Additionally, there are a couple of drafts that are spin offs of those specs: the NAT traversal mechanism and the multihoming part of the mobility and multihoming spec. We decided to document these in separate specs for clarity.
 
 We intend to request their publication in batches so that reviewers have the necessary context when performing their reviews. We will be requesting the publication of the first batch, which includes RFC 4843bis, RFC 5201bis, and RFC 5202bis, shortly.
 
@@ -76,13 +76,16 @@ All in all, MIF WG is expected to recharter and have new wg document in the next
 
 The 6TiSCH WG had produced 8 Internet Drafts, 6 of which were presented as chartered items, and 1 presented as un-chartered item. While most of these drafts appear as -00 version, it must be noted that this is only an artifact of the renaming from the 6TSCH mailing list to the 6TiSCH WG; most drafts are actually in their 3rd or 4th revision and are quite stable.
 
-The following 4 drafts fall within charter, and were proposed for possible adoption as WG documents after being presented: [draft-palattella-6tisch-terminology-00](http://tools.ietf.org/html/draft-palattella-6tisch-terminology-00) [draft-watteyne-6tisch-tsch-00](http://tools.ietf.org/html/draft-watteyne-6tisch-tsch-00) [draft-thubert-6tisch-architecture-01](http://tools.ietf.org/html/draft-thubert-6tisch-architecture-01) [draft-vilajosana-6tisch-minimal-00](http://tools.ietf.org/html/draft-vilajosana-6tisch-minimal-00) There were no objections to their adoption both from the room and remote participants. The chairs will confirm this on the mailing list.
+The following 4 drafts fall within charter, and were proposed for possible adoption as WG documents after being presented: 
 
-The presentation of the following 2 drafts was followed by a discussion about coverage gap analysis. [draft-wang-6tisch-6top-00](http://tools.ietf.org/html/draft-wang-6tisch-6top-00) [draft-sudhaakar-6tisch-coap-00](http://tools.ietf.org/html/draft-sudhaakar-6tisch-coap-00) There was a consensus that the drafts would benefit from a reorganization, before being possibly considered for WG adoption.
+&nbsp;&nbsp;&nbsp;&nbsp; draft-palattella-6tisch-terminology-00 draft-watteyne-6tisch-tsch-00 draft-thubert-6tisch-architecture-01 draft-vilajosana-6tisch-minimal-00 There were no objections to their adoption both from the room and remote participants. The chairs will confirm this on the mailing list.
+
+The presentation of the following 2 drafts was followed by a discussion about coverage gap analysis. 
+&nbsp;&nbsp;&nbsp;&nbsp; draft-wang-6tisch-6top-00 draft-sudhaakar-6tisch-coap-00 There was a consensus that the drafts would benefit from a reorganization, before being possibly considered for WG adoption.
 
 The audience pointed out possible collaboration between the 6TiSCH, 6lo and NETCONF WGs to homogenize solutions for network monitoring and management.
 
-During the addition time, the following draft was presented: [draft-ohba-6tisch-security-00](http://tools.ietf.org/html/draft-ohba-6tisch-security-00)
+During the addition time, the following draft was presented: draft-ohba-6tisch-security-00
 
 The chairs echoed the latest mailing list discussions around on-the-fly scheduling and slot allocation principles.
 
@@ -98,41 +101,41 @@ The group discussed re-chartering for 30 minutes before the end of the meeting. 
 
 The 6lo working group held its first working group meeting on Tuesday of the IETF week for a 2.5 hour session. Approximately fifty participants attended the meeting. The working group discussed the approved charter and the proposed milestones. Existing 6lowpan documents were presented and discussed based on their maturity levels. The working group participants concluded to adopt the following drafts as WG documents (subject to approval on the mailing list and re-submission to 6lo when applicable)
 
-- [draft-brandt-6man-lowpanz](http://tools.ietf.org/html/draft-brandt-6man-lowpanz)
-- [draft-ietf-6man-6lobac](http://tools.ietf.org/html/draft-ietf-6man-6lobac)
-- [draft-bormann-6lo-ghc](http://tools.ietf.org/html/draft-bormann-6lo-ghc)
+- draft-brandt-6man-lowpanz
+- draft-ietf-6man-6lobac
+- draft-bormann-6lo-ghc
 
-The working group in agreement with 6man co-chairs and 6lo AD decided to move the 6lobac document from 6man to 6lo as it falls under the scope of 6lo. Similarly [draft-ietf-6lowpan-btle](http://tools.ietf.org/html/draft-ietf-6lowpan-btle) will be homed at 6lo during its process toward the proposed standard. The WG requests more updates and reviews of [draft-schoenw-6lo-lowpan-mib](http://tools.ietf.org/html/draft-schoenw-6lo-lowpan-mib) before working group adoption consideration on the mailing list.
+The working group in agreement with 6man co-chairs and 6lo AD decided to move the 6lobac document from 6man to 6lo as it falls under the scope of 6lo. Similarly draft-ietf-6lowpan-btle will be homed at 6lo during its process toward the proposed standard. The WG requests more updates and reviews of draft-schoenw-6lo-lowpan-mib before working group adoption consideration on the mailing list.
 
 ## NTP
 
 The NTP WG met in a joint meeting with the TICTOC WG at IETF 88. Dieter Sibold provided an update on Network Time Security work to replace autokey. He raised a number of issues that need further contributions. There was consensus (to be confirmed on the mailing list) to accept the following documents as working group drafts:
 
-- [draft-mizrahi-ntp-extension-field](http://tools.ietf.org/html/draft-mizrahi-ntp-extension-field) (standards track)
-- [draft-odonoghue-ntpv4-control](http://tools.ietf.org/html/draft-odonoghue-ntpv4-control) (standards track)
-- [draft-mizrahi-ntp-checksum-trailer](http://tools.ietf.org/html/draft-mizrahi-ntp-checksum-trailer) (experimental)
+- draft-mizrahi-ntp-extension-field (standards track)
+- draft-odonoghue-ntpv4-control (standards track)
+- draft-mizrahi-ntp-checksum-trailer (experimental)
 
 ## TICTOC
 
-The TICTOC WG met in a joint meeting with the NTP WG at IETF 88. The standard ITU-T SG15/Q13 and IEEE 1588 status updates were provided. The updated draft for the Enterprise Profile for IEEE 1588 was presented. A number of questions remain to be address. Doug Arnold will be providing an updated draft. There was a discussion on requirements for timing messages over MPLS in general and on a way forward for the Timing over MPLS Transporting Timing messages over MPLS Networks ([draft-ietf-tictoc-1588overmpls-05](http://tools.ietf.org/html/draft-ietf-tictoc-1588overmpls-05)) draft in particular. As part of this discussion a new draft on Residence Time Measurement ([draft-mirsky-mpls-residence-time-00](http://tools.ietf.org/html/draft-mirsky-mpls-residence-time-00)) was presented. It was decided to proceed with Experimental for the existing draft, and for future work to focus initially on a requirements document. Finally, a draft on the Usage of NTP for the PDM DOH IPv6 Extension Header was presented. Further discussion and analysis was directed to the mailing list.
+The TICTOC WG met in a joint meeting with the NTP WG at IETF 88. The standard ITU-T SG15/Q13 and IEEE 1588 status updates were provided. The updated draft for the Enterprise Profile for IEEE 1588 was presented. A number of questions remain to be address. Doug Arnold will be providing an updated draft. There was a discussion on requirements for timing messages over MPLS in general and on a way forward for the Timing over MPLS Transporting Timing messages over MPLS Networks (draft-ietf-tictoc-1588overmpls-05) draft in particular. As part of this discussion a new draft on Residence Time Measurement (draft-mirsky-mpls-residence-time-00) was presented. It was decided to proceed with Experimental for the existing draft, and for future work to focus initially on a requirements document. Finally, a draft on the Usage of NTP for the PDM DOH IPv6 Extension Header was presented. Further discussion and analysis was directed to the mailing list.
 
 ## DNSSD
 
 The WG met Friday afternoon with roughly 100 attendees. The meeting began with the usual review of \"Note Well\" and agenda bashing. As this was the first formal meeting of the WG, the chairs briefly reviewed the WG charter.
 
-Because of some technical difficulties, the meeting was delayed by several minutes. The WG skipped the "Interaction with homenet WG" agenda item due to the lost time.
+Because of some technical difficulties, the meeting was delayed by several minutes. The WG skipped the \"Interaction with homenet WG\" agenda item due to the lost time.
 
 After a little review of the history and discussion of issues, the WG decided it is not appropriate to approach ICANN for identification of a TLD label for DNS resolution in deployments that do not have a delegated domain.
 
 The WG reveiwed the requirements document, which had been updated based on discussion during the previous BoF. Several comments regarding the contents of the requirements document will be added to the issue tracker for the document. At the end of the meeting, the WG expressed support to adopt the document as a WG work item. The consensus will be confirmed on the WG mailing list.
 
-A review of [draft-sullivan-dnssd-label-miprofile-00](http://tools.ietf.org/html/draft-sullivan-dnssd-label-miprofile-00) lead to a spirited discussion of some naming incompatibilities between DNS-SD and classic DNS. As the dnssd WG is chartered to document such issues but not generate solutions, the author will spin off the problem description as a separate document, updating the details of the description based on WG discussion.
+A review of draft-sullivan-dnssd-label-miprofile-00 lead to a spirited discussion of some naming incompatibilities between DNS-SD and classic DNS. As the dnssd WG is chartered to document such issues but not generate solutions, the author will spin off the problem description as a separate document, updating the details of the description based on WG discussion.
 
 The WG agreed to maintain a document to capture other naming issues as they are identified. An initial author for that document was identified.
 
 ## TRILL
 
-The TRILL WG met Wednesday afternoon. Proposed new milestones based on the recently revised TRILL WG Charter were presented. It was announced that Sue Hares has volunteered to coordinate a TRILL implementation report. A brief update was presented on TRILL OAM and a call for working group adoption of [draft-deepak-trill-oam-mib](http://tools.ietf.org/html/draft-deepak-trill-oam-mib) was started. Mechanisms for Directory Assisted TRILL Edge were presented and the adoption as a WG draft was announced for [draft-dunbar-trill-scheme-for-directory-assist](http://tools.ietf.org/html/draft-dunbar-trill-scheme-for-directory-assist) and [draft-eastlake-trill-ia-appsubtlv](http://tools.ietf.org/html/draft-eastlake-trill-ia-appsubtlv). A presentation was give on the Channel Tunnel Protocol and a call for adoption as a WG draft of [draft-eastlake-trill-channel-tunnel](http://tools.ietf.org/html/draft-eastlake-trill-channel-tunnel) was started. One presentation was given on Active-Active leading to considerable discussion but a second presentation on active-active control plane requirements was not given due to lack of time. A presentation was give on Resilient (Distribution) Trees and the adoption of [draft-zhang-trill-resilient-trees](http://tools.ietf.org/html/draft-zhang-trill-resilient-trees) as a WG draft was announced. The last presentation given was on Smart End Nodes and a call for adoption as a WG draft of [draft-perlman-trill-smart-endnodes](http://tools.ietf.org/html/draft-perlman-trill-smart-endnodes) was started.
+The TRILL WG met Wednesday afternoon. Proposed new milestones based on the recently revised TRILL WG Charter were presented. It was announced that Sue Hares has volunteered to coordinate a TRILL implementation report. A brief update was presented on TRILL OAM and a call for working group adoption of draft-deepak-trill-oam-mib was started. Mechanisms for Directory Assisted TRILL Edge were presented and the adoption as a WG draft was announced for draft-dunbar-trill-scheme-for-directory-assist and draft-eastlake-trill-ia-appsubtlv. A presentation was give on the Channel Tunnel Protocol and a call for adoption as a WG draft of draft-eastlake-trill-channel-tunnel was started. One presentation was given on Active-Active leading to considerable discussion but a second presentation on active-active control plane requirements was not given due to lack of time. A presentation was give on Resilient (Distribution) Trees and the adoption of draft-zhang-trill-resilient-trees as a WG draft was announced. The last presentation given was on Smart End Nodes and a call for adoption as a WG draft of draft-perlman-trill-smart-endnodes was started.
 
 ## 6MAN
 
@@ -140,17 +143,17 @@ The 6man working group held a two and a half hour session on the Monday morning 
 
 The work on privacy aspects of IPv6 addresses continued, and also on deprecating EUI-64 based interface-identifers, a discussion which has been thoroughly discussed on the mailing list. There is an identified gap in how applications is supposed to deal with the various types of interface-identifiers.
 
-There was consensus in the the room to adopt [draft-gont-6man-deprecate-eui64-based-addresses-00](http://tools.ietf.org/html/draft-gont-6man-deprecate-eui64-based-addresses-00), and moderate support to adopt [draft-chakrabarti-nordmark-6man-efficient-nd](http://tools.ietf.org/html/draft-chakrabarti-nordmark-6man-efficient-nd). Both of these will be confirmed on the mailing list. In addition there is consensus in the room to drop publishing the [draft-ietf-6man-addr-select-considerations document](http://tools.ietf.org/html/draft-ietf-6man-addr-select-considerations).
+There was consensus in the the room to adopt draft-gont-6man-deprecate-eui64-based-addresses-00, and moderate support to adopt draft-chakrabarti-nordmark-6man-efficient-nd. Both of these will be confirmed on the mailing list. In addition there is consensus in the room to drop publishing the draft-ietf-6man-addr-select-considerations document.
 
 At the Vancouver meeting we tried a new format to present new ideas. A speed talk, where each speaker was given 3 slides and 5 minutes, that was quite successful. Since Berlin the 6man working group has used volunteer reviewers for all documents prior to advancing the documents to the IESG. The reviewers have done an excellent job and this not only makes the chairs job easier, it also results in better document quality.
 
 ## LWIG
 
-The LWIG working group met on Wednesday, Nov. 6, 2013 for one hour and a half. Since IETF87, Lwig had adopted two drafts as working group drafts ([draft-ietf-lwig-cellular](http://tools.ietf.org/html/draft-ietf-lwig-cellular) and [draft-ietf-lwig-tls-minimal](http://tools.ietf.org/html/draft-ietf-lwig-tls-minimal)). And the [draft-ietf-lwig-ikev2-minimal](http://tools.ietf.org/html/draft-ietf-lwig-ikev2-minimal) draft finished WGLC, and we received several independent reviews of the drafts. Tero gave a short presentation of the WGLC review and resolution. The long-standing lwig-terminology draft was still in IESG review status and two DISCUSSes existed.
+The LWIG working group met on Wednesday, Nov. 6, 2013 for one hour and a half. Since IETF87, Lwig had adopted two drafts as working group drafts (draft-ietf-lwig-cellular and draft-ietf-lwig-tls-minimal). And the draft-ietf-lwig-ikev2-minimal draft finished WGLC, and we received several independent reviews of the drafts. Tero gave a short presentation of the WGLC review and resolution. The long-standing lwig-terminology draft was still in IESG review status and two DISCUSSes existed.
 
-On the face to face session, the group went over the IESG reviews on the terminology draft and agreed on how to handle these comments. The most difficult part was how to explain the "constrained" as a relative word. The answer was we can only say it is relative to the state of the art. And the group also spent some time over how this work related to the charter. The answer was in each of the minimal implementation guidance documents, they should state according to the terminology.
+On the face to face session, the group went over the IESG reviews on the terminology draft and agreed on how to handle these comments. The most difficult part was how to explain the \"constrained\" as a relative word. The answer was we can only say it is relative to the state of the art. And the group also spent some time over how this work related to the charter. The answer was in each of the minimal implementation guidance documents, they should state according to the terminology.
 
-The group also spent time discuss two individual documents, [draft-hex-lwig-energy-efficient-02](http://tools.ietf.org/html/draft-hex-lwig-energy-efficient-02).txt and [draft-zhu-core-groupauth-01](http://tools.ietf.org/html/draft-zhu-core-groupauth-01). The discussion will hand over to the mailing list.
+The group also spent time discuss two individual documents, draft-hex-lwig-energy-efficient-02.txt and draft-zhu-core-groupauth-01. The discussion will hand over to the mailing list.
 
 ## HOMENET
 
