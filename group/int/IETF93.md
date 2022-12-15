@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 93
 description: 
 published: true
-date: 2022-12-15T02:46:58.776Z
+date: 2022-12-15T03:08:59.261Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T02:46:58.776Z
@@ -73,31 +73,42 @@ The last presentation was about multihoming support for residential gateway with
 
 Documents discussed and resolution:
 
-[On Interoperation of Labels Between mDNS and DNS]{.underline}\[\[BR\]\] draft-ietf-dnssd-mdns-dns-interop-00\[\[BR\]\] Andrew Sullivan
+**On Interoperation of Labels Between mDNS and DNS**
+draft-ietf-dnssd-mdns-dns-interop-00
+Andrew Sullivan
 
 The WG discussed WG last call comments and considered comments in the room as WG last call comments. Author will make minor revisions and the WG will review the revisions before requesting IESG to publish the document.
 
-[DNS Long-Lived Queries]{.underline}\[\[BR\]\] draft-ietf-dnssd-push-01\[\[BR\]\] Stuart Cheshire
+**DNS Long-Lived Queries**
+draft-ietf-dnssd-push-01
+Stuart Cheshire
 
 The WG reviewed the technology proposed in the document. There are actually two separate proposals: long-lived queries over TCP and push notifications. A proposal to split the document into two pieces was put forward, with the work on long-lived queries perhaps taken up in the dnsop WG. The participants in the room were polled regarding whether the dnssd WG should take up some or all of this work, with unanimous consensus in favor.
 
-[Multicast DNS (mDNS) Threat Model and Security Consideration]{.underline}\[\[BR\]\] draft-rafiee-dnssd-mdns-threatmodel-01\[\[BR\]\] Rafiee
+**Multicast DNS (mDNS) Threat Model and Security Consideration**
+draft-rafiee-dnssd-mdns-threatmodel-01
+Rafiee
 
 The WG reviewed the latest revision of the document and provided author additional feedback on the scope of the threats covered in the model. The WG participants at the meeting were polled about whether the work should be done in the dnssd WG (unanimous in favor) and whether the document is ready for WG adoption (unanimous to wait until next revision).
 
-[Review of implementations of Hybrid Proxy for homenet and enterprise]{.underline}\[\[BR\]\]
+**Review of implementations of Hybrid Proxy for homenet and enterprise**
 
 The WG held a brief discussion of existing implementations of the hybrid proxy draft and the hybrid proxy autoconf draft in homenet. The autoconf draft is ready to be sent to the IESG (waiting on publication of the hybrid proxy draft), and the dnssd WG was encouraged publish the hybrdi proxy draft as quickly as possible.
 
 ## 6lo
 
-Agenda: <http://tools.ietf.org/wg/6lo/agenda?item=agenda-93-6lo.html> Chairs: Samita Chakrabarti, Gabriel Montenegro Secretary: James Woodyatt Technical Advisor: Ralph Droms Responsible AD: Brian Haberman
+Agenda: http://tools.ietf.org/wg/6lo/agenda?item=agenda-93-6lo.html 
+Chairs: Samita Chakrabarti, Gabriel Montenegro 
+Secretary: James Woodyatt 
+Technical Advisor: Ralph Droms 
+Responsible AD: Brian Haberman
 
 There were two full 6lo sessions on IETF 93 at Prague. The first session was on Monday late afternoon and it was attended by 80+ people and the second session took place on Thursday afternoon. In the first session the group discussed the ITU-T liaison response for IANA registry of 6lowpan (RFC 4944 and RFC 6282) ESC dispatch bytes of which 1-31 values in the first 8 bits following the ESC byte has been used and deployed by ITU-T G.9903 and G.9905 specifications for G3-PLC networks (without informing IANA). ITU-T Liaison co-ordinator, Scott Mansfield and IAB Liaison Manager And 6lo Technical adviser, Ralph Droms took the lead to work with 6lo and roll WG chairs in making the decision on the proposal that IETF would collaborate with ITU-T on this regard and will help register the ITU-T specified bits at IANA. The WG and chairs discussed draft-chairs-6lo-dispatch-iana-registry-00 draft in this context; the draft defines the ESC byte usage and possible allocation of values following the ESC byte.
 
 Hum was taken at the meeting about the following two decisions by the 6lo WG :
 
-•	The IETF will not change the definitions of the code points specified in RFC 4944 and RFC 6282, as published in IANA registry \"IPv6 Low Power Personal Area Network Parameters\" \<http://[www.iana.org/assignments/\_6lowpan-parameters/\_6lowpan-parameters.xhtml](www.iana.org/assignments/_6lowpan-parameters/_6lowpan-parameters.xhtml)\>, in such a way as to affect the ITU-T G.9903 and G.9905 specifications. •	The IETF 6lo working group offers to collaborate with ITU-T SG15 in establishing a new registry for the code points following the ESC dispatch code. This new registry will be populated at the time of its establishment with the Command ID values as defined in G.9903 and G.9905. The ITU-T SG-15 Liaison was sent to both 6lo and Roll working group -- the code-point space is owned by 6lo WG but the decision has an impact on Roll group as well. Thus the same decision was discussed in roll WG. The ITU-T liaison response was due on July 24, 2015.
+- The IETF will not change the definitions of the code points specified in RFC 4944 and RFC 6282, as published in IANA registry \"IPv6 Low Power Personal Area Network Parameters (http://www.iana.org/assignments/\_6lowpan-parameters/\_6lowpan-parameters.xhtml), in such a way as to affect the ITU-T G.9903 and G.9905 specifications.
+- The IETF 6lo working group offers to collaborate with ITU-T SG15 in establishing a new registry for the code points following the ESC dispatch code. This new registry will be populated at the time of its establishment with the Command ID values as defined in G.9903 and G.9905. The ITU-T SG-15 Liaison was sent to both 6lo and Roll working group -- the code-point space is owned by 6lo WG but the decision has an impact on Roll group as well. Thus the same decision was discussed in roll WG. The ITU-T liaison response was due on July 24, 2015.
 
 Miguel Reina Ortega(ETSI) announced plans for 6lo Interop activity at IETF94 in Yokohama; the event will focus on interoperability. The experts call for designing test specifications and testing requirements are completed. Carsten Bormann and Kerry Lynn were named as the two technical experts for the interop at IETF94. The interop will require at least 2 implementations of the same draft for useful test operations. The ETSI plug-fest presentation slides have the details information on the planning. The second session had 9 presentations; draft-thubert-6lo-routing-dispatch-05 discussed a new dispatch type 6loRH for RPL compression scheme and they have chosen option #2 as a viable option as reclaiming MH or Fragment dispatch header space was not an option anymore. 6lo WG and chairs are interested in defining one or more ESC style sequence numbers for TLV structures for extending the meaning of dispatch bytes such as context switching. Besides, draft-ietf-6lo-nfc-01 and draft-ietf-6lo-dect-ule-02 were presented. The NFC draft needs to hear back from NFC forum chairs and the authors of dect-ule believes that the document is ready for last call. 6lo Responsible AD, Brian Haberman announced that draft-ietf-6lo-btle is in its last stage of IESG evaluation phase and will soon become an RFC. Kerry Lynn could not present draft-ietf-6lo-6lobac draft but he has sent out the detailed status in the mailing list. Ines presented an interesting work on ipv6-over-IEEE802.11.ah -- a draft (draft-delcarpio-6lo-wlanah) which defines preliminary requirements of using 6lowpan stack over small-cell Wifi environment as the lowpan compression seems to be very useful for the 802.11ah network and the IEEE liaison Dorothy expressed interest in supporting this document as well thinking about supporting 6lowpan-over-Wifi(802.11). Dave Thaler presented his slides on privacy awareness for 6lo documents -- the guidelines include what to look for when considering the privacy aspects of IPv6-addressing on the devices on case-by-case basis. Dave will write a new draft containing the guidance on privacy by IETF94.
 
