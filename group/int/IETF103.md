@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 103
 description: 
 published: true
-date: 2022-12-15T04:56:50.820Z
+date: 2022-12-15T04:57:36.078Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T04:56:50.820Z
@@ -20,7 +20,7 @@ Both co-chairs, Samita and Gabriel, have announced they are stepping down. Sures
 
 draft-ietf-6lo-rfc6775-update is in AUTH 48. draft-ietf-6lo-nfc in AD review stage and comments addressed. draft-ietf-6lo-deadline-time addressed comments from AD review, Suresh to initiate IETF LC soon.
 
-Reviewed latest comments and changes on several documents now preparing for or at WG LC: -draft-ietf-6lo-backbone-router -draft-ietf-6lo-ap-nd (will be subject to early security directorate review) -draft-ietf-6lo-use-cases
+Reviewed latest comments and changes on several documents now preparing for or at WG LC: -draft-ietf-6lo-backbone-router - draft-ietf-6lo-ap-nd (will be subject to early security directorate review) - draft-ietf-6lo-use-cases
 
 One document ready for call for adoption: draft-hou-6lo-plc-05
 
