@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 87
 description: 
 published: true
-date: 2022-12-14T22:01:16.207Z
+date: 2022-12-15T02:28:05.486Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T22:01:16.207Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-14T22:01:16.207Z
 
 The HIP WG is chartered to finish an old Experimental RFC-to-be and to revise the main HIP specs, which are also Experimental, into Proposed Standards.
 
-The old Experimental RFC-to-be is [draft-ietf-hip-reload-instance](http://tools.ietf.org/html/draft-ietf-hip-reload-instance)
+The old Experimental RFC-to-be is draft-ietf-hip-reload-instance
 
 This draft was simply waiting for the RELOAD spec to be approved. Now that that has finally happened, this draft is being progressed. We have already requested its publication.
 
@@ -34,11 +34,11 @@ The TRILL WG met in the last time slot on Tuesday. The initial review of documen
 
 ## DMM
 
-The DMM WG on Thursday first two slots and had a full agenda. The two WG documents: the \"requirements document\" ([draft-ietf-dmm-requirements](http://tools.ietf.org/html/draft-ietf-dmm-requirements)) and the \"current practices and gap analysis\" ([draft-ietf-dmm-best-practices-gap-analysis](http://tools.ietf.org/html/draft-ietf-dmm-best-practices-gap-analysis)) have done some significant progress since the IETF86. The charter milestones were updated. The new milestones are now:
+The DMM WG on Thursday first two slots and had a full agenda. The two WG documents: the \"requirements document\" (draft-ietf-dmm-requirements) and the \"current practices and gap analysis\" (draft-ietf-dmm-best-practices-gap-analysis) have done some significant progress since the IETF86. The charter milestones were updated. The new milestones are now:
 
-- Oct 2013 - Submit I-D \'Solution Requirements\' to the IESG..
-- Nov 2013 - Submit I-D \'Gap Analysis\' to the IESG..
-- Nov 2013 - Evaluate the need for further work..
+Oct 2013 - Submit I-D \'Solution Requirements\' to the IESG..
+Nov 2013 - Submit I-D \'Gap Analysis\' to the IESG..
+Nov 2013 - Evaluate the need for further work..
 
 The requirements document have completed the WGLC#2 in April and since then number of open issue tracker tickets have gone down to 4 from 39. The remaining 4 were discussed during the face to face meeting and we have a resolution for those. After the new revision gets published the document is ready to go for another WGLC#3.
 
@@ -46,13 +46,13 @@ Regarding the gap analysis, it was stated by the chairs multiple times that for 
 
 The WG also had again multiple presentations on the \"DMM framework\". The WG had a quick discussion and a poll for the possible work for a generic framework document. Around 20 people showed interest, thus once the WG possibly recharters, a \"DMM framework\" document is among candidate future work.
 
-In addition to presentation of the individual I-Ds that have been around already for some time, we had a new presentations on a BGP (and anycast) based architecture solution ([draft-matsushima-stateless-uplane-vepc](http://tools.ietf.org/html/draft-matsushima-stateless-uplane-vepc)) and a SDN based architecture solution for DMM ([draft-liu-sdn-mobility](http://tools.ietf.org/html/draft-liu-sdn-mobility)).
+In addition to presentation of the individual I-Ds that have been around already for some time, we had a new presentations on a BGP (and anycast) based architecture solution (draft-matsushima-stateless-uplane-vepc) and a SDN based architecture solution for DMM (draft-liu-sdn-mobility).
 
 ## DHC
 
 The DHC WG had two sessions. The first, on Wednesday, was a joint session with Sunset4 and is described in the Sunset4 summary.
 
-The second session, on Thursday, was for DHC exclusively. The session started with the chairs providing a status of the WG since the IETF-86 (Orlando). 4 documents were published as RFCs and 3 completed WGLCs and are close to being published. Also, this was the tenth anniversary of the DHCPv6 protocol ([RFC 3315](http://tools.ietf.org/html/rfc3315)) as it was published July 30, 2003. Next, the re-chartering text was reviewed and a few edits were requested. The DHCP Directorate proposal was reviewed, and a few edits were requested. Then, a recap of the joint meeting with Sunset4 was provided. Next, the DHCPv6 Option Guidelines draft status was discussed; this will be going to the IESG shortly. Next, there was an update and discussion on the DHCPv6 Stateful Issues draft. Then, there were 3 presentations related to configuring IPv4 clients over IPv6 and with a lively discussion. Finally, there was a presentation on new DHCPv4 options for address assignment with port assignments. Several presentations were not given as we ran out of time.
+The second session, on Thursday, was for DHC exclusively. The session started with the chairs providing a status of the WG since the IETF-86 (Orlando). 4 documents were published as RFCs and 3 completed WGLCs and are close to being published. Also, this was the tenth anniversary of the DHCPv6 protocol (RFC 3315) as it was published July 30, 2003. Next, the re-chartering text was reviewed and a few edits were requested. The DHCP Directorate proposal was reviewed, and a few edits were requested. Then, a recap of the joint meeting with Sunset4 was provided. Next, the DHCPv6 Option Guidelines draft status was discussed; this will be going to the IESG shortly. Next, there was an update and discussion on the DHCPv6 Stateful Issues draft. Then, there were 3 presentations related to configuring IPv4 clients over IPv6 and with a lively discussion. Finally, there was a presentation on new DHCPv4 options for address assignment with port assignments. Several presentations were not given as we ran out of time.
 
 ## TICTOC/NTP
 
@@ -70,11 +70,11 @@ http://trac.tools.ietf.org/wg/6man/trac/wiki
 
 ## LWIG
 
-https://trac.ietf.org/trac/lwig/wiki#LwigSessionatIETF-87inBerlin
+http://trac.tools.ietf.org/wg/lwig/trac/wiki#LwigSessionatIETF-87inBerlin
 
 ## MULTIMOB
 
-Two working group drafts were discussed. [draft-ietf-multimob-pmipv6-source-04](http://tools.ietf.org/html/draft-ietf-multimob-pmipv6-source-04) was presented first. It is ready for Working Group last call. Three people volunteered to review the draft. After the reviews, the draft will go for a Working Group last call. Next [draft-ietf-multimob-fmipv6-pfmipv6-multicast-01](http://tools.ietf.org/html/draft-ietf-multimob-fmipv6-pfmipv6-multicast-01) was presented. This draft needs to go through editorial polishing and then a revision will be posted. Two Working Group members volunteered to review the draft after the revision is posted. Two out-of charter issues were discussed next. MN activity tracking at the LMA when RFC 6224 is used at the MAG was presented. Next, multiple MTMAs and avoiding tunnel convergence problem issue was discussed.
+Two working group drafts were discussed. draft-ietf-multimob-pmipv6-source-04 was presented first. It is ready for Working Group last call. Three people volunteered to review the draft. After the reviews, the draft will go for a Working Group last call. Next draft-ietf-multimob-fmipv6-pfmipv6-multicast-01 was presented. This draft needs to go through editorial polishing and then a revision will be posted. Two Working Group members volunteered to review the draft after the revision is posted. Two out-of charter issues were discussed next. MN activity tracking at the LMA when RFC 6224 is used at the MAG was presented. Next, multiple MTMAs and avoiding tunnel convergence problem issue was discussed.
 
 It was discussed with the AD closing after the current Working Group drafts are completed.
 
@@ -88,15 +88,15 @@ The Homenet Architecture document went through a second WGLC and has now been ad
 
 We have invited volunteers to join a Design team to focus on incremental phases for Homenet deployment, and an initial meeting was held on Thursday to examine the gaps in the specifications and protocols needed to allow interoperation between an eRouter spec device and a "full Homenet" network.
 
-The WG believes service discovery across multiple links is very important, and is watching the work in dnssdext very carefully. [draft-stenberg-homenet-dnssdext-hybrid-proxy-ospf](http://tools.ietf.org/html/draft-stenberg-homenet-dnssdext-hybrid-proxy-ospf) describes how [draft-cheshire-mdnsext-hybrid](http://tools.ietf.org/html/draft-cheshire-mdnsext-hybrid) can be applied in an homenet in a scalable and zero configuration manner.
+The WG believes service discovery across multiple links is very important, and is watching the work in dnssdext very carefully. draft-stenberg-homenet-dnssdext-hybrid-proxy-ospf describes how draft-cheshire-mdnsext-hybrid can be applied in an homenet in a scalable and zero configuration manner.
 
-The authors of [draft-mglt-homenet-front-end-naming-delegation](http://tools.ietf.org/html/draft-mglt-homenet-front-end-naming-delegation) will work with the developer of "dnsmasq" to incorporate his experiences implementing similar techniques.
+The authors of draft-mglt-homenet-front-end-naming-delegation will work with the developer of "dnsmasq" to incorporate his experiences implementing similar techniques.
 
 Last, but not least, the chairs are proud to report that the vast majority of protocol discussion during the meeting was based not only on Internet Drafts, but on actual implementation (much of which has already been released as Open Source).
 
 ## INTAREA
 
-The intarea working group met in Berlin for a two hour session. The draft containing the Analysis of Solution Candidates to Reveal a Host Identifier (HOST_ID) in Shared Address Deployments describing has been published as [RFC6967](http://tools.ietf.org/html/rfc6967). The draft describing the use of the IPv6 Flow Label for Server Load Balancing has completed WGLC Will be progressed after this meeting. Brian Haberman presented some background information about the implementation status experiment described in [RFC6982](http://tools.ietf.org/html/rfc6982).
+The intarea working group met in Berlin for a two hour session. The draft containing the Analysis of Solution Candidates to Reveal a Host Identifier (HOST_ID) in Shared Address Deployments describing has been published as RFC6967. The draft describing the use of the IPv6 Flow Label for Server Load Balancing has completed WGLC Will be progressed after this meeting. Brian Haberman presented some background information about the implementation status experiment described in RFC6982.
 
 There was a presentation describing a fragmentation strategy for GRE. There were some questions about how ECN information would be handled in the fragments. There were not enough participants who had read the draft and the chair requested volunteers to review the draft. There were two volunteers to do so. After receiving the reviews a call for adoption would be issued on the mailing list.
 
@@ -110,13 +110,13 @@ The draft regarding scaling ARP for large data centers had been revised based on
 
 ## SOFTWIRE
 
-The Softwire Working Group met at the IETF meeting in Berlin for a two and a half hour session. Since the Orlando meeting, Deployment Considerations for Dual-Stack Lite has been published as [RFC6908](http://tools.ietf.org/html/rfc6908) and the 6RD RADIUS draft has been published as [RFC6930](http://tools.ietf.org/html/rfc6930). The draft documenting Public 4over6 has been submitted to the IESG as an Informational document. The working group also adopted 3 new drafts as working group documents: lightweight 4over6, MAP MIB and MAP Radius. Two multicast related documents in the working group will be submitted to IESG soon: DS-Lite multicast and multicast-prefix-option, while the third, mesh multicast, will start a working group last call soon. WGLC has completed successfully on both the DS-Lite MIB and Mesh MIB drafts. These drafts will be sent for review by the MIB doctors before submitting to IESG. A call for adoption of the 6RD MIB draft has been issued on the mailing list, but a further review is needed on both document quality and necessity before adoption.
+The Softwire Working Group met at the IETF meeting in Berlin for a two and a half hour session. Since the Orlando meeting, Deployment Considerations for Dual-Stack Lite has been published as RFC6908 and the 6RD RADIUS draft has been published as RFC6930. The draft documenting Public 4over6 has been submitted to the IESG as an Informational document. The working group also adopted 3 new drafts as working group documents: lightweight 4over6, MAP MIB and MAP Radius. Two multicast related documents in the working group will be submitted to IESG soon: DS-Lite multicast and multicast-prefix-option, while the third, mesh multicast, will start a working group last call soon. WGLC has completed successfully on both the DS-Lite MIB and Mesh MIB drafts. These drafts will be sent for review by the MIB doctors before submitting to IESG. A call for adoption of the 6RD MIB draft has been issued on the mailing list, but a further review is needed on both document quality and necessity before adoption.
 
 The chairs received more than 20 requests for presentations. The wg documents including the unified CPE, lw4over6 and 4rd documents were prioritized and presented first. The goal was to get open issues on wg documents resolved first before discussing any new work. The meeting also allocated some time for discussion about the dhcp extensions for both MAP and lw4over6. WG discussed some related issues, especially on the tickets recorded by the Issue Tracker. There are still some open issues. Since the wg document of MAP DHCP has changed quite a bit, a consensus check will be performed on the mailing list regarding the scope of the draft. A draft describing use cases for MAP-T was presented and there was widespread support in the room to adopt it. The draft will be adopted as a wg item pending confirmation on the mailing list. There were some presentations related to lw4over6 and MAP-T and further discussion about this will take place on the mailing list.
 
 ## MIF
 
-<http://trac.tools.ietf.org/wg/mif/trac/wiki/WikiStart#>
+http://trac.tools.ietf.org/wg/mif/trac/wiki/WikiStart#
 
 ## NETEXT
 
