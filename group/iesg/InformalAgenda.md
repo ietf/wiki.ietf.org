@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-12-15T15:01:10.857Z
+date: 2022-12-15T15:12:02.942Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,7 +44,8 @@ Note that this page is public.
 
 ### Management Issues
 
-* 
+* Pushing back against "Expert Review" IANA registries? (Lars)
+  There are just too many of these causing management churn for IMO very little benefit compared to other registry policies.
 * 
 
 ### WG News 
