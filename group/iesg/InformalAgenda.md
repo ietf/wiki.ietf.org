@@ -2,14 +2,14 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2022-12-08T14:46:53.337Z
+date: 2022-12-15T15:01:10.857Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - December 8, 2022
- There will be **a** meeting on this date.
+# Informal Telechat - December 22, 2022
+ There will be **NO** meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -44,15 +44,8 @@ Note that this page is public.
 
 ### Management Issues
 
-* ICANN RFC Annotations Project (Lars)
-Matt Larson from ICANN will dial in at 10:30 EST for this, juggle accordingly.
-
-* Updating "Surprised Authors" statement (Warren) 
-Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
-* Keeping "Implementation Status"es (Warren) 
-Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
-* SATP (Paul & Roman)
-* Resolving DISCUSS on draft-ietf-dnsop-rfc5933-bis (Roman)
+* 
+* 
 
 ### WG News 
 
@@ -64,4 +57,4 @@ Topic held over from IETF 115 [Slides](https://docs.google.com/presentation/d/1H
 
 ### Executive Sessions
 
-* SATP BOF discussion
+* 
