@@ -2,7 +2,7 @@
 title: Internet Area Wiki
 description: Wiki for the Internet Area
 published: true
-date: 2022-12-14T20:29:51.867Z
+date: 2022-12-15T05:06:33.918Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:25:33.087Z
@@ -40,6 +40,8 @@ Specification authors will want to be familiar with [Typical Internet Area Issue
 * [Working Group Summaries for IETF 102](/group/int/IETF102)
 * [Working Group Summaries for IETF 103](/group/int/IETF103)
 * [Working Group Summaries for IETF 104](/group/int/IETF104)
+* [Working Group Summaries for IETF 105](/group/int/IETF105)
+* [Working Group Summaries for IETF 106](/group/int/IETF106)
 
 ## Interim Meetings
 
