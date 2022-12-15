@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 86
 description: 
 published: true
-date: 2022-12-14T21:48:18.893Z
+date: 2022-12-15T02:25:08.199Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T21:48:18.893Z
@@ -14,15 +14,16 @@ The 6man working group held a two hour session on the Friday of the IETF in Orla
 
 The ADs have requested that we update the 6MAN charter. While the charter is largely fine, the current milestones have been accomplished and need to be updated. The chairs initiated a discussion about new work items. Several people suggested that the charter include text that the w.g. is chartered to review relevant IPv6 work being done in other working groups to ensure this work is aligned with the IPv6 architecture and core protocols.
 
-The working group reviewed [draft-ietf-6man-stable-privacy-addresses](http://tools.ietf.org/html/draft-ietf-6man-stable-privacy-addresses) to verify that the changes that were needed to resolve the comments in the w.g. last call were OK with the working group. The working group was fine with the changes.
+The working group reviewed draft-ietf-6man-stable-privacy-addresses to verify that the changes that were needed to resolve the comments in the w.g. last call were OK with the working group. The working group was fine with the changes.
 
 The working group discussed the proposed response to softwire's question on the meaning of the U/G bits. An analysis of the M/O/A bits were presented, showing that implementations behave quite differently depending on their interpretations of these bits in Router Advertisement messages.
 
 There was consensus in the room to adopt the following drafts:
 
-   [draft-carpenter-6man-ext-transmit](http://tools.ietf.org/html/draft-carpenter-6man-ext-transmit)
-   [draft-carpenter-6man-ug](http://tools.ietf.org/html/draft-carpenter-6man-ug)
-   [draft-boucadair-6man-multicast-addr-arch-update](http://tools.ietf.org/html/draft-boucadair-6man-multicast-addr-arch-update).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draft-carpenter-6man-ext-transmit
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draft-carpenter-6man-ug
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draft-boucadair-6man-multicast-addr-arch-update.
+
 
 This consensus is being verified on the mailing list for these drafts.
 
@@ -36,9 +37,9 @@ Sunset4 discusses the gap analysis wg document. Questions were raised about how 
 
 ## MULTIMOB
 
-Four working group drafts [draft-ietf-multimob-pmipv6-ropt-03](http://tools.ietf.org/html/draft-ietf-multimob-pmipv6-ropt-03), [draft-ietf-multimob-pmipv6-source-03](http://tools.ietf.org/html/draft-ietf-multimob-pmipv6-source-03), [draft-ietf-multimob-handover-optimization-02](http://tools.ietf.org/html/draft-ietf-multimob-handover-optimization-02) and [draft-ietf-multimob-fmipv6-pfmipv6-multicast-01](http://tools.ietf.org/html/draft-ietf-multimob-fmipv6-pfmipv6-multicast-01) were presented first. During all four draft presentations several technical comments were made. These discussions will continue on the list and the drafts will be revised soon. The draft [draft-ietf-multimob-pmipv6-ropt-03](http://tools.ietf.org/html/draft-ietf-multimob-pmipv6-ropt-03) is ready for WG last call. The drafts [draft-ietf-multimob-pmipv6-source-03](http://tools.ietf.org/html/draft-ietf-multimob-pmipv6-source-03), and [draft-ietf-multimob-handover-optimization-02](http://tools.ietf.org/html/draft-ietf-multimob-handover-optimization-02) are expected to be ready for WG last call after they are revised before IETF 87.
+Four working group drafts draft-ietf-multimob-pmipv6-ropt-03, draft-ietf-multimob-pmipv6-source-03, draft-ietf-multimob-handover-optimization-02 and draft-ietf-multimob-fmipv6-pfmipv6-multicast-01 were presented first. During all four draft presentations several technical comments were made. These discussions will continue on the list and the drafts will be revised soon. The draft draft-ietf-multimob-pmipv6-ropt-03 is ready for WG last call. The drafts draft-ietf-multimob-pmipv6-source-03, and draft-ietf-multimob-handover-optimization-02 are expected to be ready for WG last call after they are revised before IETF 87.
 
-The draft on PMIPv6 Multicast Routing Optimization with PIM-SM was presented. It has been decided that the draft needs to be revised and further discussions are needed before it can be adopted as a WG draft. Another individual submission, [draft-contreras-multimob-multiple-upstreams-01](http://tools.ietf.org/html/draft-contreras-multimob-multiple-upstreams-01) was discussed next. This draft is about MLD proxy running more than one upstream interface while in [RFC 6224](http://tools.ietf.org/html/rfc6224) which Multimob WG developed, multiple instances of the MLD proxy function are supported one for each upstream tunnel interface that has been established with an LMA.
+The draft on PMIPv6 Multicast Routing Optimization with PIM-SM was presented. It has been decided that the draft needs to be revised and further discussions are needed before it can be adopted as a WG draft. Another individual submission, draft-contreras-multimob-multiple-upstreams-01 was discussed next. This draft is about MLD proxy running more than one upstream interface while in RFC 6224 which Multimob WG developed, multiple instances of the MLD proxy function are supported one for each upstream tunnel interface that has been established with an LMA.
 
 ## LISP
 
@@ -50,7 +51,7 @@ The remainder of the session was a presentation on and discussion of ways to int
 
 ## INTAREA
 
-The intarea working group met in Orlando for a one hour session. The draft defining an updated spec for the IPv4 ID Field ([draft-ietf-intarea-ipv4-id-update-07](http://tools.ietf.org/html/draft-ietf-intarea-ipv4-id-update-07).txt) has now been published as [RFC6864](http://tools.ietf.org/html/rfc6864). The NAT reveal analysis draft had completed the IETF last call before the meeting. There were some comments that were received during the last call and a new version of the draft has been published to address these comments. The draft describing the use of the IPv6 flow label for server load balancing has been adopted as a working group item.
+The intarea working group met in Orlando for a one hour session. The draft defining an updated spec for the IPv4 ID Field (draft-ietf-intarea-ipv4-id-update-07.txt) has now been published as RFC6864. The NAT reveal analysis draft had completed the IETF last call before the meeting. There were some comments that were received during the last call and a new version of the draft has been published to address these comments. The draft describing the use of the IPv6 flow label for server load balancing has been adopted as a working group item.
 
 There was a presentation describing issues with multiple provisioning domains and a preliminary analysis of the causes. The idea of the presentation was to create wider awareness for these issues and to induce further participation in this work that will happen at the mif working group.
 
@@ -72,13 +73,13 @@ In the second session, the topic on 4rd IPv6 address format was discussed, and t
 
 The lwig group met on the morning of Thursday, March 14, 2013. The co-chair summarized the progress of each mile stone. The agenda consisted of document discussion as well as a 30-minutes discussion of the future development of the working group at the end of the session.
 
-The working group document [draft-ietf-lwig-terminology](http://tools.ietf.org/html/draft-ietf-lwig-terminology) was presented. The discussion showed that the document was well organized with useful terminologies. There was discussion about how to handle the power efficiency related terms. If the document was targeted for short term usage and reference, it should avoid endless discussion on respective parts.
+The working group document draft-ietf-lwig-terminology was presented. The discussion showed that the document was well organized with useful terminologies. There was discussion about how to handle the power efficiency related terms. If the document was targeted for short term usage and reference, it should avoid endless discussion on respective parts.
 
-Then three documents related to CoAP implementation guidance were presented. [draft-arkko-lwig-cellular-00](http://tools.ietf.org/html/draft-arkko-lwig-cellular-00) discussed the experience of implementing CoAP on cellular devices. There were many supports of such types of the document over the Mic. [draft-castellani-lwig-coap-separate-responses-00](http://tools.ietf.org/html/draft-castellani-lwig-coap-separate-responses-00) discussed the experience of implementing CoAP client and server with respect to how to handle separate responses. The main messages in [draft-kovatsch-lwig-class1-coap-00](http://tools.ietf.org/html/draft-kovatsch-lwig-class1-coap-00) was summarized by the co-chair, which included two parts, i.e., how to make small implementation on class-1 devices and how to make it energy efficient. The discussion of the document relayed to the working group discussion at the end of the session.
+Then three documents related to CoAP implementation guidance were presented. draft-arkko-lwig-cellular-00 discussed the experience of implementing CoAP on cellular devices. There were many supports of such types of the document over the Mic. draft-castellani-lwig-coap-separate-responses-00 discussed the experience of implementing CoAP client and server with respect to how to handle separate responses. The main messages in draft-kovatsch-lwig-class1-coap-00 was summarized by the co-chair, which included two parts, i.e., how to make small implementation on class-1 devices and how to make it energy efficient. The discussion of the document relayed to the working group discussion at the end of the session.
 
-[draft-keoh-lwig-dtls-iot-01](http://tools.ietf.org/html/draft-keoh-lwig-dtls-iot-01) was then presented, and this draft investigated the feasibility of using DTLS to achieve the required security functionalities. Discussion showed interest and encourage to joint work on this with consideration of 6lowpan general compression and more work on raw public keys.
+draft-keoh-lwig-dtls-iot-01 was then presented, and this draft investigated the feasibility of using DTLS to achieve the required security functionalities. Discussion showed interest and encourage to joint work on this with consideration of 6lowpan general compression and more work on raw public keys.
 
-[draft-hex-lwig-energy-efficient-00](http://tools.ietf.org/html/draft-hex-lwig-energy-efficient-00) talked about the what would be the implications for Internet protocol designers given the lower layer was constrained. Encouragements were received at the meeting and many people would like to review and contribute to this work.
+draft-hex-lwig-energy-efficient-00 talked about the what would be the implications for Internet protocol designers given the lower layer was constrained. Encouragements were received at the meeting and many people would like to review and contribute to this work.
 
 The meeting continued with discussion about the present and future of the working group. The co-chair listed the pros and cons the group had met, and there was suggestion that recognition was very important for authors to contribute (which has been resolved by separate and stand-alone document with recognized authorship). Then discussion regarding how to work in future was well received. Recommendations included how to handle coap related drafts and several security related drafts, how to coordinate the authors. One comment recommended lwig work on 1) CoAP 2) DTLS 3) cellular advice. Offline discussion was happening among the contributors on how to move things forward.
 
@@ -91,38 +92,38 @@ As DHC WG co-chair Ted Lemon is now an Int-Area area directory, Bernie Volz is r
 The chairs presented a summary of the WG activities since the previous IETF meeting:
 
 The following documents had been published as RFCs: 
-- [draft-ietf-dhc-dhcpv6-redundancy-consider](http://tools.ietf.org/html/draft-ietf-dhc-dhcpv6-redundancy-consider) was published as [RFC 6853](http://tools.ietf.org/html/rfc6853) 
-- [draft-ietf-dhc-client-id](http://tools.ietf.org/html/draft-ietf-dhc-client-id) was published as [RFC 6842](http://tools.ietf.org/html/rfc6842)
+- draft-ietf-dhc-dhcpv6-redundancy-consider was published as RFC 6853 
+- draft-ietf-dhc-client-id was published as RFC 6842
 
 The following documents are in the IESG: 
-- [draft-ietf-dhc-dhcpv4-bulk-leasequery](http://tools.ietf.org/html/draft-ietf-dhc-dhcpv4-bulk-leasequery) waiting on [draft-ietf-dhc-relay-id-suboption](http://tools.ietf.org/html/draft-ietf-dhc-relay-id-suboption)
-- [draft-ietf-dhc-relay-id-suboption](http://tools.ietf.org/html/draft-ietf-dhc-relay-id-suboption) was approved
-- [draft-ietf-dhc-secure-dhcpv6](http://tools.ietf.org/html/draft-ietf-dhc-secure-dhcpv6) under review
-- [draft-ietf-dhc-dhcpv6-client-link-layer-addr-opt](http://tools.ietf.org/html/draft-ietf-dhc-dhcpv6-client-link-layer-addr-opt) was approved
+- draft-ietf-dhc-dhcpv4-bulk-leasequery waiting on draft-ietf-dhc-relay-id-suboption
+- draft-ietf-dhc-relay-id-suboption was approved
+- draft-ietf-dhc-secure-dhcpv6 under review
+- draft-ietf-dhc-dhcpv6-client-link-layer-addr-opt was approved
 
-The following documents passed WG last call:
-- [draft-ietf-dhc-failover-requirements-03](http://tools.ietf.org/html/draft-ietf-dhc-failover-requirements-03)
-- [draft-ietf-dhc-dhcpv6-radius-opt-09](http://tools.ietf.org/html/draft-ietf-dhc-dhcpv6-radius-opt-09)
-- [draft-ietf-dhc-triggered-reconfigure-04](http://tools.ietf.org/html/draft-ietf-dhc-triggered-reconfigure-04)
-- [draft-ietf-dhc-dhcpv6-load-balancing-00](http://tools.ietf.org/html/draft-ietf-dhc-dhcpv6-load-balancing-00)
+The following documents passed WG last call: 
+- draft-ietf-dhc-failover-requirements-03
+- draft-ietf-dhc-dhcpv6-radius-opt-09
+- draft-ietf-dhc-triggered-reconfigure-04
+- draft-ietf-dhc-dhcpv6-load-balancing-00
 
 And, the following document was adopted by the WG:
 
-- [draft-ietf-dhc-dns-pd-00](http://tools.ietf.org/html/draft-ietf-dhc-dns-pd-00)
+- raft-ietf-dhc-dns-pd-00
 
-Bernie reported that the chairs and Int Area ADs met with the Sunset4 WG chair regarding [draft-perreault-sunset4-noipv4](http://tools.ietf.org/html/draft-perreault-sunset4-noipv4) and that there is plan to hold a joint dhc-sunset4 meeting at IETF-87 (Berlin).
+Bernie reported that the chairs and Int Area ADs met with the Sunset4 WG chair regarding draft-perreault-sunset4-noipv4 and that there is plan to hold a joint dhc-sunset4 meeting at IETF-87 (Berlin).
 
-Ted Lemon reminded everyone about their obligations regarding IPR disclosures and reported on the late IPR disclosures for [draft-jiang-dhc-secure-dhcpv6](http://tools.ietf.org/html/draft-jiang-dhc-secure-dhcpv6) / [draft-ietf-dhc-secure-dhcpv6](http://tools.ietf.org/html/draft-ietf-dhc-secure-dhcpv6) and that sanction item d in section 4 of RFC 6701, announcement on the WG mailing list, was followed.
+Ted Lemon reminded everyone about their obligations regarding IPR disclosures and reported on the late IPR disclosures for draft-jiang-dhc-secure-dhcpv6 / draft-ietf-dhc-secure-dhcpv6 and that sanction item d in section 4 of RFC 6701, announcement on the WG mailing list, was followed.
 
 The following presentations were given:
 
 1. DHCP Directorate / WG Recharter - Ted Lemon is proposing that a DHCP directorate be set up to handle option review and assisting other WGs in developing DHCP options. This would also include a recharter of the WG to focus on DHCP protocol advancement and enhancements. There was some discussion about the pros and cons for this. The chairs will work with Ted to develop a proposal for the directorate and recharter. 
 2. Obtaining IPv4 configuration over IPv6 networks - Ted Lemon presented an overview of the issues with configuring IPv4 information over IPv6 only networks. 
-3. Provisioning IPv4 Configuration over IPv6 Only Networks - Ian Farrer discussed [draft-rajtar-dhc-v4configuration](http://tools.ietf.org/html/draft-rajtar-dhc-v4configuration) and the several proposals for providing IPv4 configuration over IPv6 only networks. 
-4. DHCPv6 through Tunnels - Ole Troan described [draft-ietf-dhc-dhcpv6-tunnels](http://tools.ietf.org/html/draft-ietf-dhc-dhcpv6-tunnels) and some of the issues. It was pointed out that RFC 6276 (DHCPv6 Prefix Delegation for Network Mobility (NEMO)) may already have solved this problem. Ole will review that RFC. The discussion then returned to the general issues of obtaining IPv4 configuration over IPv4 only networks. The consensus was that one solution would be best and that using DHCPv4 over IPv6 was preferred. A small team agreed to develop an updated proposal. 
-5. A Generic IPv6 Addresses Registration Solution using DHCPv6 - Suresh Krishnan discussed recent changes to [draft-ietf-dhc-addr-registration](http://tools.ietf.org/html/draft-ietf-dhc-addr-registration). 
-6. Tracking Static / Auto-Configured IPv6 Addresses - Rajiv Asati discussed [draft-asati-dhc-ipv6-autoconfig-address-tracking](http://tools.ietf.org/html/draft-asati-dhc-ipv6-autoconfig-address-tracking), where the router would report ND related updates via DHCPv6 messages. The general issues with the registration/tracking is what the motivations for this work were and whether DHCPv6 is the correct protocol. The main motivations were logging (recording) of client address bindings and potentially having the DHCPv6 server perform DNS updates on behalf of the client. 
-7. DHCPv6 class based prefix - Sri Gundavelli discussed [draft-bhandari-dhc-class-based-prefix](http://tools.ietf.org/html/draft-bhandari-dhc-class-based-prefix). 
+3. Provisioning IPv4 Configuration over IPv6 Only Networks - Ian Farrer discussed draft-rajtar-dhc-v4configuration and the several proposals for providing IPv4 configuration over IPv6 only networks. 
+4. DHCPv6 through Tunnels - Ole Troan described draft-ietf-dhc-dhcpv6-tunnels and some of the issues. It was pointed out that RFC 6276 (DHCPv6 Prefix Delegation for Network Mobility (NEMO)) may already have solved this problem. Ole will review that RFC. The discussion then returned to the general issues of obtaining IPv4 configuration over IPv4 only networks. The consensus was that one solution would be best and that using DHCPv4 over IPv6 was preferred. A small team agreed to develop an updated proposal. 
+5. A Generic IPv6 Addresses Registration Solution using DHCPv6 - Suresh Krishnan discussed recent changes to draft-ietf-dhc-addr-registration. 
+6. Tracking Static / Auto-Configured IPv6 Addresses - Rajiv Asati discussed draft-asati-dhc-ipv6-autoconfig-address-tracking, where the router would report ND related updates via DHCPv6 messages. The general issues with the registration/tracking is what the motivations for this work were and whether DHCPv6 is the correct protocol. The main motivations were logging (recording) of client address bindings and potentially having the DHCPv6 server perform DNS updates on behalf of the client. 
+7. DHCPv6 class based prefix - Sri Gundavelli discussed draft-bhandari-dhc-class-based-prefix. 
 8. Multiple Provisioning Domains - Ted Lemon discussed issues related to clients working with multiple collections of configuration information that might be obtained either over different interfaces or the same interface. He also presented this at intarea and mif.
 
 ## MIF
@@ -135,11 +136,11 @@ AD explained the MIF issues and call for volunteers to work on the architecture 
 
 The Netext working group did not meet at IETF86 in Orlando. The chairs concluded that there was not a pressing need to schedule a meeting at IETF86 since progress on various issues and documents following the IETF85 meeting has been slow.
 
-The Netext WG has made progress on several documents following the IETF85 meeting in Atlanta. An issue tracker has been created to resolve the issues w.r.t WG I-D: [draft-ietf-netext-pmipv6-flowmob](http://tools.ietf.org/html/draft-ietf-netext-pmipv6-flowmob).
+The Netext WG has made progress on several documents following the IETF85 meeting in Atlanta. An issue tracker has been created to resolve the issues w.r.t WG I-D: draft-ietf-netext-pmipv6-flowmob.
 
-The IPv4 Traffic Offload Selector Option for Proxy Mobile IPv6 (I-D: [draft-ietf-netext-pmipv6-sipto-option-12](http://tools.ietf.org/html/draft-ietf-netext-pmipv6-sipto-option-12)) is now in the RFC editors queue following the resolution of issues raised by the ADs.
+The IPv4 Traffic Offload Selector Option for Proxy Mobile IPv6 (I-D: draft-ietf-netext-pmipv6-sipto-option-12) is now in the RFC editors queue following the resolution of issues raised by the ADs.
 
-Prefix delegation for PMIP6 (I-D: [draft-ietf-netext-pd-pmip-06](http://tools.ietf.org/html/draft-ietf-netext-pd-pmip-06)) will be proceeding to working group last call.
+Prefix delegation for PMIP6 (I-D: draft-ietf-netext-pd-pmip-06) will be proceeding to working group last call.
 
 The working group plans to meet at IETF87.
 
@@ -147,8 +148,8 @@ The working group plans to meet at IETF87.
 
 The DMM WG had a two hour meeting during IETF#86. We have now two working group I-D as per our effective charter:
 
-- [draft-ietf-dmm-requirements](http://tools.ietf.org/html/draft-ietf-dmm-requirements)
-- [draft-ietf-dmm-best-practices-gap-analysis](http://tools.ietf.org/html/draft-ietf-dmm-best-practices-gap-analysis)
+- draft-ietf-dmm-requirements
+- draft-ietf-dmm-best-practices-gap-analysis
 
 The status of both documents were presented as well as the resolved issues on the requirements document. The requirements document has recently entered (and already completed) the first WGLC. The gap analysis document is encouraged to include also current practises from 3GPP/WiMAX networks since there are operational experience from both networks. There are also concerns on the slow progress of the working group. However, the chartered items need to be in good shape before advancing into solution space, which would then need small rechartering of the WG.
 
