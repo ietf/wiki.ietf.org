@@ -2,7 +2,7 @@
 title: Registration Instructions 
 description: 
 published: true
-date: 2022-12-15T05:42:38.651Z
+date: 2022-12-15T05:44:24.448Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T05:42:38.651Z
@@ -77,6 +77,41 @@ You can get a login to edit this page by visiting the tools login manager.
 |  59.  |  Masahito Endo                                        |  masahito.endou at jp.yokogawa.com     |                                   |
 |  60.  |  Yves Poppe                                           |  Yves.Poppe at tatacommunications.com  |                                   |
 |       |  Registration has closed on Saturday, September 20th  ||                                        |                                   |
+
+## Remote Participants
+
+Fill in the table below if you plan on listening to the audio/jabber from the meeting in real time:
+
+|       |  NAME                  |  E-MAIL                                  |  Comments               |
+|-------|------------------------|------------------------------------------|-------------------------|
+|  1.   |  Liza Fung             |  lizafung at att.com                     |                         |
+|  2.   |  Tuan Le               |  tuanle at cisco.com                     |                         |
+|  3.   |  Phil Roberts          |  roberts at isoc dot org                 |                         |
+|  4.   |  james woodyatt        |  jhw at apple dot com                    |                         |
+|  5.   |  Juan P. Cerezo        |  juampe.cerezo at gmail.com              | day 1 only              |
+|  6.   |  Agnes Tow             |  tow at alcatel-lucent.com               |                         |
+|  7.   |  TJ Evans              |  evans at commandinformation.com         |                         |
+|  8.   |  Geoff Huston          |  gih at apnic.net                        |                         |
+|  9.   |  Jørgen Karkov         |  jorgen.karkov at ericsson.com           |                         |
+|  10.  |  Iljitsch van Beijnum  |  iljitsch at muada.com                   |  intermittent           |
+|  11.  |  Wes Beebee            |  wbeebee at cisco.com                    |                         |
+|  12.  |  John Border           |  john.border at hughes.com               |                         |
+|  13.  |  Sheila Frankel        |  sheila.frankel at nist.gov              | day 2 only              |
+|  14.  |  Thomas Narten         |  narten at us.ibm.com                    |                         |
+|  15.  |  Hemant Singh          |  shemant at cisco.com                    |                         |
+|  16.  |  Yoshifumi Atarashi    |  atarashi at alaxala.net                 |                         |
+|  17.  |  Reinaldo Penno        |  rpenno at juniper.net                   |                         |
+|  18.  |  Eric Vyncke           |  evyncke at cisco.com                    |  Day 2 part-time only   |
+|  19.  |  Barbara Stark         |  barbara.stark at att.com                |                         |
+|  20.  |  Mike Calhoon          |  mike.calhoon at commandinformation.com  |                         |
+|  21.  |  Brian Carpenter       |  brian.e.carpenter at gmail.com          |  intermittent           |
+|  22.  |  Yanick Pouffary       |  yanick.pouffary at hp.com               |  part-time              |
+|  23.  |  Roberta Maglione      |  roberta.maglione at telecomitalia.it    |                         |
+|  24.  |  Nathan Ward           |  nward at braintrust.co.nz               |  Intermittent           |
+|  25.  |  Keita Watanabe        |  keiwatan at cisco.com                   |                         |
+|  26.  |  Howard C. Berkowitz   |  hcberkowitz at hotmail.com              |                         |
+|  27.  |  Satoshi Ogawa         |  saogawa at cisco.com                    |  Day 2 only             |
+
 
 
 &nbsp;
