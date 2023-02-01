@@ -46,7 +46,7 @@ If specific security expertise is needed in a WG, please contact the Security AD
 
 ## Security Areas Advisory Group (SAAG)
 
-The [)Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
+The [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
 
 SAAG is not working group.  As such, it does not adopt or publish documents.
 
