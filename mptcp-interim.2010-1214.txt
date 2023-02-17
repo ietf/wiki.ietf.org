@@ -1,0 +1,364 @@
+MPTCP interim meeting / 12.14.2010  16:00 - 17:50 GMT
+-----------------------------------------------------
+
+Chairs: Philip Eardley, Yoshifumi Nishida
+
+Notetakes: Costin Raiciu, John Leslie 
+
+--------------------------------------------------------------------
+Slide P4: Scope
+
+Mark Handely: 
+    Perhaps we could solve on subsequent subfolws not as said on the slide
+
+Alan Ford: 
+    You're quite right, but not worth getting bogged down
+
+Phil Eardely: 
+    Any more comment on these high-level goals?
+
+Olivier Bonaventure: 
+    We should have precise definition of capabilities we assume.
+    Otherwise, we won't understand what our system is secure against.
+Alan: 
+    this related to your email on thursday, relating to blind and listen + spoof attackers
+    also time-shifted attacks within inject
+
+Marcelo Bagnulo:
+    we should also consider a post attack detection capability.
+    this is where some solutions differ. It allows original parties to detect the 
+    attack took place or not. maybe the attacker in the initial connection set 
+    can introduce new locators that if the original parties can detectors. 
+    this is another dimension worth considering.
+
+Olivier: 
+    detection is important. What do we need to detect? When? 
+
+Marcelo: 
+    suppose a mitm changes the crypto material. To remain undetected he must remain online 
+    and change everything. if the original parties can talk directly they can easily realize 
+    there was a problem.
+
+Alan: 
+    difference btw an attacker and a misdirected packet? where a shared address behind nat
+
+MMarcelo: 
+    suppose you want to attack by hash-change, if original parties talk privately, they can 
+    detect hash-change
+
+Marcelo: 
+    attack a hash chain; need to replace the hash chain completely - 
+    they can realize there was an attack. If you use a token only, you cannot tell 
+    there was an attack. 
+
+Mark: 
+    if packets reach host unchanged, different from MITM... but also consider DoS blocking 
+    real packets while injecting own packets
+
+Marcelo: 
+    we can protect against most things we can imagine, but at what complexity cost.
+    is it worth the trouble?
+
+Olivier: 
+    IMHO must be secure against blind attackers, if we can do no more than that, 
+    we need to say so clearly
+
+Mark: 
+    TLS on top. should be able to use in all environments where you'd use plain TCP, 
+    otherwise you can't turn on by default
+
+Mark: 
+    what is the difference btw the passive + spoof attacker and the mitm?
+    not so big with a dos you can prevent the source to receive. 
+
+Olivier: 
+    in practice there may be a difference
+
+Marcelo: 
+    not really, not convinced
+
+Olivier: 
+    mptcp must be secure against blind at least; not necesarily that need to do more.
+
+Mark: 
+   it's not reasonable to use tls on top. You should be able to use with high confidence 
+   in the same environments you could use tcp. 
+
+Olivier: 
+   we don't have such a solution yet
+
+--------------------------------------------------------------
+Slide P10:  current (-02) proposal
+
+Marcelo: 
+   in the join in the -02 proposal you use 4 packets; mh proposed a way to reduce this 
+   to three packets.
+
+Alan: 
+   it is possible, yes.
+
+Marcelo: 
+   it's desirable to have three-way handshake
+
+Alan: 
+   would have to consider option space, but it is feasible
+
+--------------------------------------------------------------
+Slide P11: First Question
+
+Alan: 
+   what does HMAC add anything? is this significant improvement? 
+   we still have sequence-number gleaning issue.
+
+Mark: 
+   depends on your usage modes: if we postulate initial setup over 3G + many wifis, 
+   it could add a lot
+
+Marcelo: 
+   significant reduction in window of vulnerability. also, quite cheap.
+
+Andrew Macdonald:
+   agree with marcelo it reduces time and space of vulnerability
+
+Alan: 
+   any other opinions? we agree this is adding something
+
+
+-------------------------------
+Slide P12: Hash Chains Proposal
+
+Alan: 
+   should mean we no longer have initial vulnerability, but introduces other issues
+
+Marcelo: 
+   don't understand, you can't solve MITH of initial setup only solves for passive attackers: 
+   active attackers aren't solved
+
+Alan: 
+   this one protects against active attackers on subsequents. but of course MITM is still 
+   impossible to protect
+
+Alan: 
+   non-reversible hash, sender declares previous value in chain, receiver can verify H[n] 
+   is the successor of H[n-1]. meaningless to any passive listeners
+
+----------------------------------------------
+Slide P15: Hash Chains #2 
+
+Marcelo: 
+   not sure I agree... NAT-compatible requires ability to change address.
+   protecting against address change breaks NAT compatibility... 
+   an attacker will be able to put any address he wants...
+
+Alan: 
+   agree he could put whatever address he wants in SYN and/or SYN/ACK; 
+   but the ACK has to get back
+
+Marcelo: 
+   you cannot prevent time-shifted attack by active listener
+
+Alan: 
+   he can pass the packets, but can't move the connection elsewhere; but he must remain on path
+
+Marcelo: 
+   suppose I'm on path and see new subflow
+
+Alan: 
+   yes, you can bounce packets somewhere else. but I don't believe we're trying to protect 
+   against that. only thing you could do would require including HMAC? on all subsequent packets
+
+Mark: 
+   he can't move the connection elsewhere
+
+Marcelo:
+   he can change the source address
+
+Mark:
+   he needs to remain on path
+
+Marcelo:
+   only during the control info setup
+
+Mark: 
+   how can he leave
+
+Marcelo:
+   suppose i am on path. i change the source address of the new subflow being established. 
+
+Costin Raiciu: 
+   we're doing our best to protect control information, but data is still vulnerable. 
+   no point in this much complexity unless we can add protection to data; HMAC does help us 
+   in the wifi case; why wouldn't we use something like this to encrypt?
+
+Marcelo: 
+   hash-chain allows detection of attack; with HMAC he can replace hash-chain
+
+Andrew: 
+   that's rather limited
+
+Alan: 
+   it is impossible to tell the difference in practice - can we reliably detect an attack?
+
+Marcelo: 
+   significant additional complexity. cannot protect completely
+
+Mark: 
+   how do you handle other cases. can you re-use hash-chains
+
+Marcelo: 
+   what happens if you run out of hashes
+
+Mark: 
+   in case of race condition what does a receiver do with JOINS using same hash?
+
+Andrew: 
+   yes you only do one subflow at a time. 
+
+Olivier: 
+   christoph's proposal may be interesting to consider
+
+Marcelo
+   there are solutions that can give you additional security only in some scenarios. 
+   For instance: use initial subflow to check subflow setup. 
+
+Olivier: 
+   we need a formal description of the attacker capabilities. 
+   how do we deal with functional constraints?
+
+Costin: 
+   we need to also think about the constraints of mptcp and the attacker capabilities. 
+   E.g. break before make & christoph's proposal, nats & active attackers
+
+Mark: 
+   in ipv6 we could increase security
+
+Marcelo 
+   in ipv6 solution space is completely different; much better solutions. e.g. CGAs
+
+Mark: 
+   can we do different solutions for v4 and v6? will the iesg allow that?
+
+Marcelo: 
+   it should. that's what mip does.
+
+Mark: 
+   we're at transport level, not IP layer... also we could see single TCP running 
+   both v4 and v6 paths
+
+Marcelo: 
+   this should be acceptable to IESG as this is also what SCTP does. they also requested 
+   that we can code keys for better security. but we are discussing here just the default 
+   worst case
+
+Yoshifumi Nishida: 
+   I'm not in favor of using hash in SYN.
+
+Alan: 
+   at the moment hostB would have to calculate immediately at SYN. 
+   This is an open issue how we might delay that.
+
+------------------------------------------------------------
+slide: P19 What other solutions are there?
+
+Alan: 
+   charter says "basic security". we don't want "perfect" solution, but should be 
+   sufficiently agile to insert better solutions later
+
+Mark: 
+   attacker can race, on response can spoof a MP_VERIFY (after spoofing SYN/ACK)
+
+Alan: 
+   sounds plausible, if that is the case MP_VERIFY is no more secure, would mean 
+   we don't have a solution
+
+Mark: 
+   what about the combined hmac + hash chains?
+
+Andrew: 
+   amount of information you have to carry on initial SYN/ACK
+
+Alan: 
+   a lot of complexity, a few holes remain
+
+Costin: 
+   what about diffie hellman? how much more do we get compared to hmac? 
+
+Alan: 
+   still vulnerable to race attack
+
+Mark: 
+   not vulnerable, but how to protect ?
+
+Alan: 
+   computationally expensive
+
+Costin: 
+   same security as HMAC except requires active attackers 
+
+Alan: 
+   let's phrase it differently, does HMAC meet our needs
+
+Marcelo: 
+   need to support alternatives (e.g. IPv6, encryption) as upgrades
+
+Andrew: 
+   there are other ways available, this gives basic working point.
+   another benefit, SYN-cookie easier to imagine
+
+Marcelo: 
+   how much is left on other protocol issues?
+
+Alan: 
+   not much. we need to design-in algorithm-agility, rest is fairly solid.
+
+Marcelo: 
+   let's decide on something, not worth delaying protocol spec
+
+Alan:
+   security area not terribly impressed. but nobody said something was broken. 
+
+Marcelo: 
+   I don't see a problem with security area
+
+Phil: 
+   does anyone want to speak against "emerging consensus"
+
+Alan: 
+   this should be the baseline; agility is key for future extensions.
+
+Marcelo: 
+   completely agree with that. Ask IESG whether we should also work on an additional mechanism. 
+
+Phil: 
+   capture consensus, get it on the list, and make sure there is agreement on the list. 
+   We should still be on track to finish by march. Will ask for extension to charter 
+   to do stronger security, if deemed necessary.
+   It'd be worth trying to summarize this in a page or two, why we arrived at this conclusion.
+
+Marcelo: 
+   The security director will review the threats ID. we will know before this hits the 
+   security director. 
+
+Phil: 
+   it would be great if this document reached the security director and security working group.
+
+Marcelo: 
+   let me know if something is missing from threats draft
+
+Olivier: 
+   implementation issue: not reasonable to assume unlimited subflows.indication of limit 
+   to number of subflows. should be part of protocol so that endpoint can simply reject 
+   subflow requests
+
+Costin: 
+   what's the point instead of just refusing extra SYNs?
+
+Olivier: 
+   e.g. initial 3G, second SYN over wifi, then reject any others (unless something closes); 
+   this would require attacker capable of listening on both media. option to signal the limit.
+
+Costin: 
+   if you assume unlimited subflows, vulnerabilities increase. who decides? 
+   can simply drop the SYN unless there's a benefit from the other end knowing
+
+Phil: that needs more discussion on the list

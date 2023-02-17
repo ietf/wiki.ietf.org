@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2022-11-05T15:07:02.211Z
+date: 2022-11-29T19:39:53.343Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z

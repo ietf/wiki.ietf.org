@@ -2,7 +2,7 @@
 title: Folding In Updates
 description: 
 published: true
-date: 2022-09-07T14:43:27.630Z
+date: 2022-11-29T19:37:35.786Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:43:24.263Z

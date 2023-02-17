@@ -2,7 +2,7 @@
 title: Datatracker Review Tool How-To
 description: 
 published: true
-date: 2022-12-09T01:34:41.277Z
+date: 2023-01-25T05:23:06.882Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:34:41.277Z
@@ -122,3 +122,11 @@ If you discover a mistake with a submitted review (accidentally selected the wro
 2. Click the draftname link of the assignment. A **Review Request** page appears.
 3. Click the **Correct review** button. Make any changes necessary.
 4. Click the **Revise review** button. A **Review of *draftname*** page will be displayed, and the review will be closed again. 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2021-07-06. It was migrated from the old Trac wiki on 2023-01-24.*

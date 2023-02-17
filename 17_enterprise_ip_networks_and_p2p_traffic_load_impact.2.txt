@@ -1,0 +1,20 @@
+Enterprise IP Networks and the P2P Traffic Load Impact
+
+Benny Rodrig, May 9, 2008
+brodrig@avaya.com
++1 978 677 5236
+
+Enterprise networks are a specific case of IP networks. The enterprise IP network is typically a constrained environment with some central administrative control over the network, the endpoints and the applications.
+
+As has been experienced with P2P traffic in ISP networks, if bandwidth-grabbing P2P applications run on endpoints connected to the enterprise network they might at peak times cause congestion that could be harmful to the enterprise’s delay/loss-sensitive real-time communications such as VoIP.
+
+The problem seems less severe in the enterprise case than it is in the ISP case since enterprises can presumably enforce endpoint policies and can ban certain applications if they so decide. However enterprise networks will have such challenges if P2P applications used legitimately in the enterprise are designed to operate in such way that can drive the network to persistent congestion.
+
+QoS mechanisms could limit the impact if deployed in the enterprise network. If the real-time traffic is classified, DiffServ marked, separated from best-effort traffic and given special forwarding behavior such as low-latency queuing, and if the P2P application traffic is classified into the best effort class, then with appropriate settings on the network infrastructure the real-time traffic could be protected from the impact of P2P-caused network load. 
+
+This remedy can exempt a select few applications in the privileged traffic class from the adverse impact of the network load, but it does not solve the general problem. Furthermore, this model relies on traffic classification, either by trusting the endpoints’ packet marking or by identifying application types in the network, both of which may be problematic in some cases. 
+
+Additional solutions would be desired that would involve the P2P application transmission rate taking network congestion into account in some way. If P2P applications are designed accordingly, facilitated by available standards, they may have better applicability to enterprise networks.
+
+In ISP networks, some sort of per-source traffic policing in the network might be necessary as an incentive for such scheme to be realistic. However in enterprise networks per-source traffic policing, while potentially effective, may be overkill as enterprises may be able to leverage different means of policy enforcement. Also from a technical perspective the solution options for network access policing might be different in enterprise networks, which are based primarily on switched Ethernet access, than they are in ISP networks.
+

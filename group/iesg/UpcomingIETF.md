@@ -2,175 +2,154 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2022-11-30T03:42:53.347Z
+date: 2023-02-17T10:19:51.602Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
 ---
 
-# IETF 115 - London, England
+# IETF 116 - Yokohama, Japan
 This is scratch space for the upcoming IETF meeting; it *will* be cleared afterwards and reused for the next meeting. 
 
 There is a working list of [candidate topics for the agenda](/group/iesg/MeetingTopics).
 
-*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/115/agenda))*
+*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/116/agenda))*
 
 # IESG Activities
-*All times are in UTC.* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
+*All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
 
-## Saturday and Sunday, November 5 and 6, 2022
+## Saturday and Sunday, March 25 and 26, 2023
 
-**Code Sprint** - Saturday, November 5, 2022 - 10:00-18:00 - Room: Mezzanine 8 (east wing, 1st floor)
+**Code Sprint** - Saturday, March 25, 2023 - 10:00-18:00 - Room: TBD
 
 **Hackathon**
-  - Saturday, November 5, 2022 - 09:30-21:00 - Room: Admiral 1 (east wing, 3rd lower ground floor)
-  - Sunday, November 6, 2022 - 09:30-16:00 - Room: Admiral 1 (east wing, 3rd lower ground floor)
+  - Saturday, March 25, 2023 - 09:30-21:00 - Room: TBD
+  - Sunday, March 26, 2023 - 09:30-16:00 - Room: TBD
 
-**Newcomer's Quick Connections** Sunday, November 6, 2022 - 16:00-17:00 - 23rd Floor
-**IETF 114 Welcome Reception** Sunday, July 24, 2022 - 17:00-19:00 - Kensington 2 (west wing, 3rd floor)
+**New Participant's Quick Connections** Sunday, March 26, 2023 - 16:00-17:00 - TBD
+**IETF 116 Welcome Reception** Sunday, March 26, 2023 - 17:00-19:00 - TBD
 
-## Sunday, November 6, 2022
+## Sunday, March 26, 2023
 
-### IESG Only (After Breakfast) Meeting - 09:30-11:30am Room: Richmond 6 (west wing, 1st floor)
+### IESG Only Meeting - Time: TBD Room: TBD
 
-*Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
-
-Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iabiesg
-Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg
-
-
->   1. Welcome
->   2. Updates
->      - RFC Editor
->      - IANA
->   3. Document Queues (Lars? RTG ADs?)
->   4. (Optional, IESG to confirm) General discussion with lawyers on current subjects of interest (Jay)
-> 1. IESG appointment to the IETF Trust (Lars; exec session)
-
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: Richmond 6 (west wing, 1st floor)
-
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: Richmond 6 (west wing, 1st floor)
-Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iabiesg
-Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg
+Meetecho: TBD
+Onsite Tool: TBD
 
 
 > 1. Welcome
->    1. Introducing the new RSCE - Alexis Rossi (Jay)
->    1. Introducing our legal counsel - Brad Biddle & Vigdis Bronder (Jay)
-> 1. Area walkthrough for hot topics (list randomized for 115)
->    - IAB
->    - IRTF
->    - ART
->    - RTG
->    - SEC
->    - TSV
->    - INT
->    - OPS
->    - GEN 
-> 1. IAB review of draft WG charters (Mirja)
-> 1. Future local meetings collocated with IETFs and retreats (Lars)
->    Do we want to have meetings with local gov/public-sector/etc. people when we travel somewhere, and if so, how?
-> 1. Fund raising events at IETF meetings (Jay)
+> 1. Updates
+>    - RFC Editor
+>    - IANA
+> 1. Filtering on IETF infrastructure (8718bis-related) (Lars) 
+> 1. Copyright for IETF wikis (Lars)
 
-### Sunday Night Social
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
 
-Time: 21:00 - whenever
-Location: Tyburn Kitchen Semi-Private, Ground Floor [(Map)](/tyburn-kitchen.pdf)
-What: post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
-
-## Monday, November 7, 2022 
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+Meetecho: TBD
+Onsite Tool: TBD
 
 
-### IESG (After Breakfast) Meeting 08:00-09:20am Room: Richmond 6 (west wing, 1st floor)	
+> 1. Welcome
+> 1. Area walkthrough for hot topics (list randomized for 116)
+    > - SEC
+    > - GEN
+    > - INT
+    > - IRTF
+    > - OPS
+    > - ART
+    > - RTG
+    > - TSV
+    > - IAB
+> 1. Review of meeting fees (Jay)
+> 1. Ballot process discussion (Lars)
+>    Might punt to retreat
+> 
 
-*Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
+### ~~Sunday~~ Saturday Night Social
 
-Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iesg
-Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg
+Time: TBD
+Location: TBD
+What: probably a pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. (to be confirmed)
 
-> 1. Quo vadis IETF: is the IETF ossified? (Ignacio Castro & Lars)
-<!-- {blockquote:.is-info} -->
+## Monday, March 27, 2023 
 
-## Tuesday, November 8, 2022
 
-No IESG breakfast. (The IAB has a breakfast.)
+### IESG Meeting Time: TBD Room: TBD
+
+Meetecho: TBD
+Onsite Tool: TBD
+
+> 1. Topic
+> 2. Topic
+
+## Tuesday, March 28, 2023
+
+No IESG breakfast. 
   
-## Wednesday, November 9, 2022
+## Wednesday, March 29, 2023
 
 
-### IESG (After Breakfast) Meeting 08:00-09:20am Room: Richmond 6 (west wing, 1st floor)	
+### IESG Meeting Time: TBD Room: TBD
 
-*Coffee, tea, and other beverages provided. NOTE: Please come to the meeting having already eaten breakfast.*
 
-Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iesg_2
-Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iesg_2
+Meetecho: TBD
+Onsite Tool: TBD
 
-> * Trust appointment interview followup 
 > * Plenary Prep
-> * (Ab)use of show of hands tool
-> * Updating "Surprised Authors" statement (Warren,  10 min) [Slides](https://docs.google.com/presentation/d/1zewVQ88W_AAem_-g69Y587lUKTv4Uvk3Yx3qbxhDzEA/edit?usp=sharing)
-> * Keeping "Implementation Status"es (Warren, 10 min) [Slides](https://docs.google.com/presentation/d/1H5r34YuAYkX_5OCb5bOCkN9DIbz7zVAOiwQg6Ewb8JU/edit?usp=sharing)
+> * Topic
+> * Topic
 
 
-### IETF 115 Plenary 17:30-19:30 Room: Kensington (west wing, 3rd floor)
+### IETF 116 Plenary TIME: TBD Room: TBD
 
-## Thursday, November 10, 2022
+## Thursday, March 30, 2023
 
-No IESG breakfast. (The IAB has a breakfast.)
+No IESG breakfast. 
 
-## Friday, November 11, 2022 
-### Joint IAB/IESG Lunch - 14:15-14:45 Room: Richmond 6 (west wing, 1st floor)
-### Joint IESG/IAB Meeting - 14:45-16:30
-Room: Richmond 6 (west wing, 1st floor)
-Meetecho: https://meetings.conf.meetecho.com/ietf115/?group=iabiesg_2
-Onsite Tool: https://meetings.conf.meetecho.com/onsite115/?group=iabiesg_2
+## Friday, March 31, 2023 
+### Joint IAB/IESG Lunch - Time: TBD Room: TBD
+### Joint IESG/IAB Meeting - Time: TBD
 
+Meetecho: TBD
+Onsite Tool: TBD
 
 >  1. Welcome
->  1. Post-meeting review (randomized for 115)
->     - ART
->     - SEC
->     - IRTF
->     - TSV
->     - RTG
->     - INT
->     - GEN
->     - IAB
->     - OPS
+>  1. Post-meeting review (randomized for 116)
+    > - IRTF
+    > - RTG
+    > - GEN
+    > - ART
+    > - SEC
+    > - IAB
+    > - OPS
+    > - TSV
+    > - INT
 >  1.  General discussion of productivity and how the meeting went	 (standing item)
+>  2. Discussion about publically announce author/design-team meetings vs interims  (Wes)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: Hybrid 1, Ground Floor, West Wing 
-
-## Saturday, 5 November 2022
-
-  
-
-## Sunday, 6 November 2022
-16:00 - 17:00 RTG AD Office Hours
-
-## Monday, 7 November 2022
-12:00 - 13:00 TSV AD Office Hours
-14:30 - 15:00 Lars  
-
-## Tuesday, 8 November 2022
-08:15 - 09:15 SEC AD Office Hours
-16:00 - 16:30 OPS AD Office Hours
+Location: TBD 
 
 
-## Wednesday, 9 November 2022
+## Sunday, 26 March 2023
 
-15:00 - 16:00 Zahed	 
 
-## Thursday, 10 November 2022
+## Monday, 27 March 2023
 
-08:30-09:15 Roman
-12:00-13:00 INT AD Office Hours
-15:00-16:00 John meeting w/ CAN proponents (other interested parties welcome to join)
-16:30-17:30 IETF Chair Office Hours
 
-## Friday, 11 November 2022
+## Tuesday, 28 March 2023
+
+
+## Wednesday, 29 March 2023
+
+
+## Thursday, 30 March 2023
+
+
+## Friday, 31 March 2023
 
    PLEASE NOTE: NOT AVAILABLE AFTER 13:00pm 

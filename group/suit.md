@@ -1,8 +1,8 @@
 ---
-title: SUIT Working Group Wiki
+title: SUIT WG - Software Updates for Internet of Things
 description: Welcome to the IETF Secure Update for IoT (SUIT) wiki page
 published: true
-date: 2022-12-01T15:12:01.659Z
+date: 2023-01-04T22:43:28.721Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T15:11:19.031Z

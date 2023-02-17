@@ -2,7 +2,7 @@
 title: Discuss Thoughts
 description: 
 published: true
-date: 2022-09-23T16:32:32.758Z
+date: 2022-11-29T19:39:44.198Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-23T16:32:32.758Z

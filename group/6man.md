@@ -1,8 +1,8 @@
 ---
-title: 6man Working Group
+title: 6MAN WG - IPv6 Maintenance
 description: 
 published: true
-date: 2022-07-23T20:37:37.232Z
+date: 2023-01-12T00:12:37.489Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:36:36.339Z
@@ -37,3 +37,11 @@ There was consensus in the the room to adopt the following drafts:
 * draft-droms-6man-multicast-scopes
 
 This consensus is being verified on the mailing list. There was consensus in the room not to work on the problem described in draft-elkins-6man-ipv6-pdm-dest-option.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2016-07-26. It was migrated from the old Trac wiki in 2022.*

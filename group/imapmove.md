@@ -1,8 +1,8 @@
 ---
-title: IMAPMOVE WG Wiki
+title: IMAPMOVE WG (Concluded) - IMAP MOVE extension
 description: Implementation experience for IMAP MOVE and UID MOVE commands
 published: true
-date: 2022-12-01T16:21:10.371Z
+date: 2023-01-04T22:56:54.299Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:16:55.382Z

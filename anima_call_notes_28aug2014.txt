@@ -1,0 +1,91 @@
+ANIMA Conference Call
+28 Aug 2014, 6am GMT
+
+Participants:
+  Brian Carpenter
+  Bing Liu
+  Dan Romascanu
+  Laurent Ciavaglia
+  Leo Dorrendorf
+  Sheng Jiang
+  Yu Fu
+  Toerless Eckert
+
+Todo:
+ Brian: Next week, invite NMRG chairs to the meeting to discuss charter with
+        them.
+ Laurent: Reach out to Dimitri see if he can join the calls.
+ Try to have charter feedback be more precise on individual points to
+ be fixed so we can step by step stabilize it.
+ Brian: volunteered to do next charter version
+
+
+Notes:
+
+Discussing charter:
+ http://trac.tools.ietf.org/bof/anima/trac/wiki/DraftCharter
+
+ Reviewing latest charter and asking for comments:
+
+ Problem statement:
+   Bing Liu - 
+   Dan Romascanu - OK
+   Laurent Ciavaglia -
+     Not very specific to autonomic networking.
+     Will provide text to improve problem statement on list to
+     improve text on second problem point of operator dependency
+   Leo Dorrendorf:
+     Ok with problem stateent, primarily concerned about security
+   Sheng Jiang
+     Ok with text in problem statement but missing self-managing properties.
+   Yu Fu
+     Would like to discuss in more detail which functions to be done
+     distributed in network.
+  
+  Goal section was moved up in the charter.
+
+  Brian: Do not have Dimitry / Rene on the call. Not clear if we can get
+  these fixed without them on the call.
+    ... Charter not precise enough. Strong opinions about what
+    autonomic is and what it is not - eg: closed loops
+  Sheng: improve draft charter - explain why we want reuseable components
+    first. Current charter a bit closed. Have not mentioned other use-cases,
+    autonomic services agents. Just not in initial milestones. Maybe
+    say they would be adopted once there is consenus to adopt use cases.
+  
+  Toerless: how to put into charter best compromise between executeable
+    targets and openness to vet/accept new use-cases.
+
+  Dan: Two priorities: a) executing milestones, b) discussing additional work.
+
+  Brian: Would also need to refine relationship/work with NMRG.
+  NMRG should vet charter and could also identify work items better
+  positioned for NMRG.
+
+  Sheng: Specific solution proposal should be in IETF/Anima. Model ,
+  architecture, study of use-cases maybe better in NMRG ?
+  Brian: Probaby good idea, invite NMRG chairs.
+
+
+  Areas of currently not covered areas: Should these be covered in Agenda
+  as area for study within the WG ?
+
+    1. More use cases for agents.
+
+    2. From  Dimitri, generic control loop.
+
+    3. Brian: Do not mention policy intent into the agents. Not yet in charter.
+       Toerless: network wide versions of YANG/Netconf interface modes would
+       likely be the direction to do this.
+
+  Dan: Maybe not use name of individual contribution drafts ?
+  Brian: Existing drafts are mentioned as starting points.
+
+  Laurent: should try to stability part by part of the charter.
+  Brian: yes, agreed.
+
+  Brian: Wants to review all mails on list
+
+Timing of conference calls: Sheng: Rene attended the other time slot.
+Dimitri is in Brussels. Laurent will reach out to Dimitri to see if
+he can attend.

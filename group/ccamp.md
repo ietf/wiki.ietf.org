@@ -1,8 +1,8 @@
 ---
-title: Welcome to the IETF CCAMP WG Wiki
+title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2022-12-01T15:35:43.173Z
+date: 2023-01-13T19:17:13.601Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -22,3 +22,12 @@ Click any of the links below to jump to the relevant working group or wiki page:
 
 
 Please contact the CCAMP chairs or secretary if you would like to see any WG related material added to this Wiki.
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2014-10-22. It was migrated from the old Trac wiki on 2023-01-12.*

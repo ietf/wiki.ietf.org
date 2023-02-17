@@ -2,7 +2,7 @@
 title: A page there I take a look at "back to MPLS approach"
 description: Describing label stack and functions
 published: true
-date: 2022-12-01T20:55:55.310Z
+date: 2022-12-01T20:56:00.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-30T14:06:48.460Z

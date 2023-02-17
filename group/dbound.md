@@ -1,8 +1,8 @@
 ---
-title: IETF Domain Boundaries (dbound) wiki
+title: DBOUND WG (Concluded) - Domain Boundaries
 description: 
 published: true
-date: 2022-12-05T22:04:30.586Z
+date: 2023-01-04T21:21:11.875Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:02:23.866Z

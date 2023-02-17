@@ -2,7 +2,7 @@
 title: European Multi Stakeholder Platform on ICT Standardisation
 description: 
 published: true
-date: 2022-09-22T16:35:12.208Z
+date: 2022-11-29T19:39:35.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T19:08:47.725Z

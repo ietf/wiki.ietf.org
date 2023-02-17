@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 106
 description: 
 published: true
-date: 2022-12-15T05:14:32.449Z
+date: 2022-12-15T05:14:36.058Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T05:14:32.449Z

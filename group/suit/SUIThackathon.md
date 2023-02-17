@@ -2,7 +2,7 @@
 title: SUIT Hackathon
 description: SUIT virtual hackathon
 published: true
-date: 2022-12-01T15:32:55.682Z
+date: 2022-12-01T15:33:00.232Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T15:29:48.109Z

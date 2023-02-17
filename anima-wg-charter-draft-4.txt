@@ -1,0 +1,52 @@
+Autonomic Networking Integrated Model and Approach (ANIMA) WG
+
+Description of Working Group
+
+Autonomic Networking focuses on self-management of network elements. An autonomic function works in a distributed way across various network elements, allowing however central guidance and reporting. Autonomic functions already exist today, for example IGP routing protocols such as OSPF. However, all such functions have their own discovery, transport, messaging and security mechanisms. 
+
+To transform the somewhat abstract Autonomic Networking concept into concrete, realisable requirements, the first stage, undertaken in the Network Management Research Group (NMRG) of the IRTF, was to define terminology and design goals, and to derive a high-level gap analysis. The definitions and design goals, as well as a simple architecture model are defined in draft-irtf-nmrg-autonomic-network-definitions; the gap analysis for AN is described in draft-irtf-nmrg-an-gap-analysis. The UCAN BoF at IETF 90 discussed use cases and some existing solutions. All the above work serves as a baseline for this working group.
+
+This working group defines solutions for an initial set of components of an autonomic networking infrastructure, based on the simple architecture and design goals defined in draft-irtf-nmrg-autonomic-network-definitions. Future work may include a more detailed systems architecture to support the development of autonomic service agents. The Anima working group will initially focus on enterprise, ISP networks and IoT.
+
+The solutions target to cover the following areas: 
+o identity of nodes
+o common security model
+o discovery model
+o negotiation model
+o a secure and logically seperated communications channel
+o an example for an autonomic management model
+
+The goals of this working group are: 
+o Definition of a generic discovery and negotiation protocol for autonomic functions
+  Starting point: draft-jiang-config-negotiation-protocol
+o Definition of a mechanism to bootstrap a trust infrastructure 
+  Starting point: draft-pritikin-bootstrapping-keyinfrastructures
+o Definition of an logically separated Autonomic Control Plane
+  Starting point: draft-behringer-autonomic-control-plane
+
+In addition, autonomic service agents will need to be defined for specific use cases. The working group will initially consider one simple example as a test case for further work. 
+
+o Definition of <a selected use case by the group>
+  Starting point: draft-use-case-tbd
+
+The initial set of work items is limited to the above list to stay focused and avoid "boiling the ocean". Additional documents concerning policy intent, other autonomic infrastructure components, use cases or autonomic service agents are strongly encouraged, as individual submissions, but are not planned as working group deliverables for now. No additional work items will be accepted in the working group without re-chartering. 
+
+
+Milestones
+
+Nov 2014 - WG formation and adoption of drafts
+           - Mar IETF - 
+Jun 2015 - WGLC for draft-generic-discovery-negotiation-protocol
+           - Jul IETF - 
+Aug 2015 - submit draft-generic-discovery-negotiation-protocol to IESG (standards track)
+Oct 2015 - WGLC draft-keyinfrastructure-bootstrap 
+Oct 2015 - WGLC draft-use-case-tbd
+           - Nov IETF - 
+Dec 2015 - submit draft-keyinfrastructure-bootstrap to IESG  (standards track)
+Dec 2015 - submit draft-use-case-tbd to IESG  (standards track)
+Jan 2016 - WGLC draft-autonomic-common-control-plane 
+           - Mar IETF - 
+Apr 2016 - submit draft-autonomic-common-control-plane to IESG  (standards track)
+Jul 2016 - recharter if needed, or close
+
+

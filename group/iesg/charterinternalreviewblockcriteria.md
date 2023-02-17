@@ -2,7 +2,7 @@
 title: Block Criteria for a WG in Internal Review
 description: 
 published: true
-date: 2022-09-07T14:19:52.098Z
+date: 2022-11-29T19:37:16.337Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:19:49.165Z

@@ -2,7 +2,7 @@
 title: DIME WGLCs
 description: 
 published: true
-date: 2022-12-06T21:17:13.509Z
+date: 2023-01-13T20:57:30.312Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T21:17:13.509Z
@@ -85,3 +85,13 @@ The priority-avps draft received additional comments on 15th June 2010.
     * [Ken's response](http://www.ietf.org/mail-archive/web/dime/current/msg04256.html)
          * [Glen's comment to Ken](http://www.ietf.org/mail-archive/web/dime/current/msg04259.html)
     * [New I-D addressing the comments](http://www.ietf.org/mail-archive/web/dime/current/msg04281.html) -> OK
+    
+    
+    
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2011-05-12. It was migrated from the old Trac wiki on 2023-01-13.*

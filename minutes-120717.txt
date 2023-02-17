@@ -1,0 +1,31 @@
+IETF CLUE design team meeting, 17/07/2012
+
+Notes by Rob Hansen.
+
+Attendees:  Mary Barnes, Paul Kyzivat, Allyn Romanow, Andy Pepperell, Roni Even, Jonathan Lennox, Espen Berger, Rob Hansen
+
+Mary shared the slides that have been submitted thus far.
+
+Steve wasn't on the call, so Mary went through his slides. They are not finished yet, with no pictures, but they have initial text. They provide an introduction to Telepresence.
+
+The slides say that Telepresence is not multiple streams - Espen asked why this was the case, where multiple screens (and even teleoperation) are part of telepresence. Mary clarified that this probably meant that telepresence was not *just* multiple streams, but there was a feeling that this slide is probably unnecessary. Beyond this there was agreement that with suitable pictures this was a decent summary of telepresence.
+
+Next were Roni's slides, which were unchanged from the previous week. Paul pointed out that there was some redundancy with Steve's slides. There was also some concern over the number of slides given the time available.
+
+Next were Mary's slides, explaining what is CLUE - just a few slides, though there was a feeling that it was worth breaking up the single text-heavy slide into two.
+
+Next were the framework slides. Allyn covered these as Andy was having trouble with seeing the slides. There was some concern that the initial slide immediately went into the signalling and interaction with SDP offer-answer. Espen suggested that some examples of what could be done with the framework could be part of the slides; Allyn was concerned that there wouldn't be sufficient time (given the time constraints on the tutorial). There was a feeling that the early slides needed to be more communicative, though Andy pointed out that what was said wouldn't necessarily match the slides.
+
+Continuing with the framework slides there was some debate about the use of the word 'encoding', given the multiple meanings it has. Paul suggested that in the description of a capture scene, it should be mentioned that a room is the most common instance of a capture scene. There was some debate of how useful this would be, though in the end there was a feeling it would be useful. Paul also asked if there should be anything about 'virtual' scenes; Andy felt this would cloud the issue and that we had generally been careful to shy away from such terms. Roni thought it would be useful to have a definition that a capture scene is a collection of captures that potentially share of spacial coordinates.
+
+On the message exchange Jonathan raised the concern that the exchange can be interpreted as all choices being a response to a capture advertisment and hence would be suitable for offer/answer. Allyn pointed out that later in the slides there are ladder diagrams that show more of the options. Paul volunteered to try to produce something that showed the bidirectional nature of CLUE.
+
+On the slide that explained the manner in which the provider advertisment is explained Roni raised the concern that this would be difficult for someone new to CLUE to understand. Andy agreed, and felt that trying to fit all the detail into the time available would be very difficult.
+
+Allyn raised the question about whether it would be possible to get another meeting in before next Tuesday, to give more than one meeting before the final deadline on Tuesday. Mary said she'd set up a doodle poll. Paul also suggested a run-through on Sunday at some point if we could fit that in.
+
+Allyn commented that if best slides shouldn't be too wordy as people can only take in a limited amount of lines per slides.
+
+Going through then final slides in the framework section there were comments that these perhaps overlapped with the call-flow slides. Andy explained these were intended more to be talked about during call-flow, and the slides were there for reference. Paul suggested we could probably remove the existing "advanced topics" slide, and that anything on it we thought important could be brought out on the earlier slide about Capture Scenes.
+
+Finally, Mary suggested there should be a final summary, with perhaps three key points people could take away.

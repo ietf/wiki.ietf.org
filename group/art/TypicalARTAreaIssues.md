@@ -2,7 +2,7 @@
 title: Typical ART Area Issues
 description: 
 published: true
-date: 2022-11-05T15:32:42.597Z
+date: 2023-01-13T01:01:03.560Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:21:45.195Z
@@ -114,3 +114,11 @@ The [boolean](http://www.w3.org/TR/xmlschema-2/#boolean) datatype has two lexica
 ```In accordance with Section 3.2.2.1 of XML Schema Part 2: Datatypes, the allowable lexical representations for the xs:boolean datatype are the strings "0" and "false" for the concept 'false' and the strings "1" and "true" for the concept 'true'; implementations MUST support both styles of lexical representation.```
 
 An [online schema validator](http://www.w3.org/2001/03/webdata/xsv) is available at the W3C.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2021-04-23. It was migrated from the old Trac wiki on 2023-01-12.*

@@ -2,7 +2,7 @@
 title: Chartering Working Groups
 description: 
 published: true
-date: 2022-09-21T14:00:37.916Z
+date: 2022-11-29T19:39:21.033Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T22:26:53.302Z

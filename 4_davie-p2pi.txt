@@ -1,0 +1,98 @@
+Peer Selection Guidance
+
+Bruce Davie, Stefano Previdi, Jan Medved, and Albert Tian
+
+Cisco Systems
+
+{bdavie,sprevidi,jmedved,altian}@cisco.com
+
+May 7, 2008
+
+One approach to improving the relationship between P2P applications
+and service provider infrastructure is to attempt to influence the way
+in which P2P clients select their peers. It is intuitively obvious
+that if a P2P client has a choice of many alternative peers from which
+to download a single piece of content, for example, then the precise
+choice of peer could have a significant effect on both the performance
+seen by the client and the effect on the SP infrastructure of carrying
+the traffic from one peer to another. In particular, choosing a peer
+that is connected to the same service provider as the downloading
+client can clearly save the service provider from consuming bandwidth
+on a (possibly costly or bandwidth-constrained) inter-provider
+link. Similarly, if a client chooses a peer that is not only connected
+to the same provider but is also in some sense "nearby", then it may
+reduce the consumption of network resources by the P2P traffic while
+also perhaps improving the performance of the P2P application. (There
+are clearly many different interpretations of what it means to be
+"nearby", including geographic distance, latency, distance in a
+synthetic co-ordinate space, among others.)
+
+The effect of neighbor or peer selection on the performance of
+overlays and peer-to-peer applications has been extensively studied
+(e.g. [1-3, 6]). Some of this work has also shown that a possible
+win-win situation exists: picking peers who are nearby can
+simultaneously improve application performance and lower utilization
+of ISP resources (especially inter-provider links).
+
+It has recently been suggested [3-5] that an open, standardized
+interface could be provided between clients and ISPs to address the
+problem of efficient peer selection. There are already a range of
+competing (or complementary) approaches to defining such an
+interface. For example, [3] proposes an approach in which clients
+receive information from the ISP about the AS and the PoP (point of
+presence) of the various candidates for peering in a P2P overlay. We
+believe that an alternative approach that gives away less information
+about service provider topology may be preferable (because service
+providers typically try to keep the details of their network
+topologies secret for commercial reasons). Thus we favor an interface
+in which an ISP could simply rank a set of candidate peers from most
+suitable to least suitable, using some combination of the ISP’s own
+topological data, knowledge of traffic or congestion, and policy
+information. That ranking could be provided to clients who could then
+use it to influence peer selection for P2P or other applications. Such
+a ranking has general utility while keeping provider topology private.
+
+We observe that "clients" in this context could include individual
+peers, or could be nodes with specialized roles in the P2P application
+such as "trackers". Likewise, a range of different types of device
+could provide the service provider side of the proposed interface.
+
+At this stage, we believe it is a suitable time for the IETF to gather
+input from the relevant stakeholders — ISPs, P2P application developers,
+equipment vendors, etc. - regarding the requirements for a standard
+interface between P2P applications and network providers. As observed
+in [4], this work could have quite broad scope beyond the P2P
+space. Given the wide range of different types of information that
+could be passed across this interface, it may be necessary to define a
+minimal interface with a general mechanism for extensibility. In any
+case, this appears to be a manageable subset of the larger problem
+space posed by the prevalence of P2P apps. It is also a problem space
+in which a standards effort by the IETF could reach a useful consensus
+fairly quickly, with a result that would be beneficial to ISPs, P2P
+developers and end users.
+
+References
+[1] Bindal, R., Cao, P., Chan, W., Medved, J., Suwala, G., Bates,
+T. and Zhang, A. Improving Traffic Locality in BitTorrent via Biased
+Neighbor Selection, in 26th IEEE International Conference on
+Distributed Computing Systems ICDCS 2006.
+
+[2] Koo, S., Kannan, K and Lee, C. On neighbor-selection strategy in
+hybrid peer-to- peer networks, in Future Gener. Comput. Syst., July
+2006.
+
+[3] Xie, H., Krishnamurthy, A., Silberschatz, A., and R. Yang, P4P:
+Explicit Communications for Cooperative Control Between P2P and
+Network Providers, http://www.dcia.info/documents/P4P Overview.pdf.
+
+[4] Bonaventure, O, Saucez, D. and Donnet, B. The case for an informed
+path selection service, work in progress,
+draft-bonaventure-informed-path-selection-00.txt, February 2008.
+
+[5] Marocco, E. and Gurbani, V. Application-Layer Traffic Optimization
+(ALTO) Problem Statement, work in progress,
+draft-marocco-alto-problem-statement-00, April 2008.
+
+[6] Aggarwal, V., Feldmann, A., and C. Scheideler, Can ISPs and P2P
+systems co-operate for improved performance?, ACM SIGCOMM Computer
+Communications Review Volume 37, Number 3, July 2007.

@@ -1,0 +1,59 @@
+From: "Papadimitriou, Dimitri (Dimitri)"
+ <dimitri.papadimitriou@alcatel-lucent.com>
+To: "Michael Behringer (mbehring)" <mbehring@cisco.com>, "anima@ietf.org"
+ <anima@ietf.org>
+Date: Fri, 5 Sep 2014 23:57:36 +0000
+Subject: [Anima] Follow-up on Sep.4 call [was RE: Notes from the ANIMA call
+	today]
+
+Different opinions on how to bring this work forward have been expressed on this list over last 2 to 3 weeks.   
+
+The fundamental discussion point can be summarized as follows: some consider the traditional protocol-driven approach of the IETF others due to the very nature of AN consider that proper design requires to start from functional areas/use cases, leading in turn to different charter proposals.
+
+Following the latter, I have made that exercise as follow-up of the discussion held during the call of Sep.4: 
+
+Current network processes perform independently on different views/partial information and by different means while interactions among their constituting entities take place at different spatial scales (from local to global). These processes also operate in the dark as the information to which they get access to/store is mostly limited to the one translating local protocol state(s) at current time. Finally, these processes have been designed to realize specific objectives which are often difficult to combine and reconcile preventing in turn the realization of more complex tasks (and involving multiple processes). Nowadays, the only mean to compensate these limits is to involve manual intervention/off-line control.  
+
+This motivates the introduction of a control paradigm where network processes, driven by objectives (or intent), coordinate their local decisions, autonomously translate them into local actions, and adapt them according to external information and protocol information bases. This paradigm is referred to an autonomic networking.
+
+Numerous realizations of this paradigm are possible. One of its simplest forms has been documented in [nmrg] where an information processing agent (IPA) is collocated with the set of protocol engines it drives. An IPA processes the input selected from external information sources and protocol information bases in cooperation with other IPAs, to derive states (information needed to make a decision now or in the future) and translate them into local actions (i.e. local policies). 
+
+Application of this paradigm comprises use cases ranging from configuration to protection (security). For instance, considering the case of anomaly/attack/intrusion detection and related re-configuration operations i) automation is motivated because automata/programs are more proficient than humans in realizing systematic and exhaustive tasks such as ACL (re-configuration), ii) adaptation is required as new anomalies and attacks are constantly detected, and iii) cooperation and autonomy as each identified event requires both coordination and translation into different local actions to counter it.
+
+Challenges:
+----------
+
+1. As use cases are numerous and diverse, the following question stems: can inter-agent protocol primitives be unified and can agent functionality be factorized. 
+
+2. Different "cooperation modes" between IPA's can be considered from slave-master-slave to consensus; hence, the following question stems: would one cooperation mode fit all needs.
+
+3. Finally, the information source selection and orchestration of actions (sequencing of instructions to protocol engines) requires to specify appropriate pre- and post-processing as these agents are required to be self-sufficient. 
+
+Tasks:
+-----
+
+Step 0: Functional areas where the working group agrees to contribute (risk mitigation/avoidance, re-configuration/-programming, etc.) by providing at least one use case per functional area.
+
+Step 1: Evaluation work on resulting use cases, document input, output, AN function, and distributivity needs (exchange of information from external sources, exchange with other AN agents, orchestrate execution/realization of decisions, etc.) and cooperation modes.
+
+-> Goal: show the functional "utility" of AN and provide incentives for the design of the ACP
+
+Step 2: AN control functional specification (in particular, cross-function single AN vs. cross-element multi AN) following the design goals of factorization, distribution, and unification and determine if protocol functionality already "available" in other/existing protocol (with/without extensions) or new protocol that could be needed.
+
+-> Goal show the utility and feasibility of a "common AN infrastructure" 
+
+Step 3: Depending on the outcome of step 2, extensions of existing protocols, new protocol design, etc. can be considered.
+ 
+Milestones:
+----------
+
+X 2015 - WG formation and adoption of initial drafts
+X 2015 + 12m - Uses cases evaluation and analysis - what did we learn ?
+X 2015 + 18m - Functional specification - what do we miss (in terms of protocols) ?
+X 2015 + 30m - Protocol specification(s) 
+X 2015 + 36m - ACP architecture (informational)
+
+
+Thanks,
+-dimitri.
+

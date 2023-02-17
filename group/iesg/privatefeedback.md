@@ -2,7 +2,7 @@
 title: Dealing with Private Feedback
 description: 
 published: true
-date: 2022-09-14T14:42:33.731Z
+date: 2022-11-29T19:38:31.675Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T14:42:08.406Z

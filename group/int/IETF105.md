@@ -2,7 +2,7 @@
 title: WG Summaries from IETF 105
 description: 
 published: true
-date: 2022-12-15T05:11:52.922Z
+date: 2022-12-15T05:11:57.625Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T05:10:25.701Z

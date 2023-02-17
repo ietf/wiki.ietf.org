@@ -2,7 +2,7 @@
 title: Intellectual Property
 description: 
 published: true
-date: 2022-09-07T14:31:43.661Z
+date: 2022-11-29T19:37:28.102Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:28:50.202Z

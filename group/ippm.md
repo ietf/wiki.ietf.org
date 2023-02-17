@@ -1,8 +1,8 @@
 ---
-title: IP Performance Metrics (IPPM)
+title: IPPM WG - IP Performance Metrics 
 description: 
 published: true
-date: 2022-12-16T00:07:54.496Z
+date: 2023-01-04T22:14:17.818Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T00:07:54.496Z

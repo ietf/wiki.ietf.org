@@ -2,7 +2,7 @@
 title: IETF 115 Departure Coordination
 description: To coordinate travel from the venue back to London airports
 published: true
-date: 2022-11-01T11:39:47.630Z
+date: 2022-11-29T19:34:50.554Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:28:51.871Z

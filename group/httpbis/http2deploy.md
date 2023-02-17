@@ -2,7 +2,7 @@
 title: HTTP/2.0 Deployability Requirement
 description: 
 published: true
-date: 2022-12-14T19:39:48.137Z
+date: 2022-12-14T19:39:51.941Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T19:39:48.137Z

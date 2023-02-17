@@ -1,8 +1,8 @@
 ---
-title: 
+title: DISPATCH WG
 description: 
 published: true
-date: 2022-11-05T15:41:16.657Z
+date: 2023-01-27T08:07:35.612Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -38,7 +38,7 @@ Email the chairs and email the dispatch list. If you email at least 4 weeks befo
 
 The chairs will aim to announce topics that have been dispatched for a particular IETF meeting 4 weeks before the meeting starts and update as necessary. Please cut us slack whilst there's a global pandemic and plenty of cyber attacks going on.
 
-A complete list of deadlines for IETF meetings is available here: [https://datatracker.ietf.org/meeting/important-dates/]
+A complete list of deadlines for IETF meetings is available here: https://datatracker.ietf.org/meeting/important-dates/
 
 # Background: Process for Determining Deadlines for DISPATCH WG
 

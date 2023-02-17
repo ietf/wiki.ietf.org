@@ -2,7 +2,7 @@
 title: IESG, IAB and LLC Workshop
 description: 
 published: true
-date: 2022-11-05T14:37:30.457Z
+date: 2022-11-29T19:36:59.062Z
 tags: iesg, leadership, iab, workshop, llc
 editor: markdown
 dateCreated: 2022-08-31T18:05:11.324Z

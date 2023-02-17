@@ -1,8 +1,8 @@
 ---
-title: IRTF Decentralized Internet Infrastructure (DIN RG)
+title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2022-12-06T23:17:50.352Z
+date: 2023-01-24T20:35:08.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -107,3 +107,11 @@ These systems differ with respect to the problem they are solving, the specific 
 ## Past Meetings
 
 [list of past meetings with links to presentation material](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2018-02-24. It was migrated from the old Trac wiki on 2023-01-24.*

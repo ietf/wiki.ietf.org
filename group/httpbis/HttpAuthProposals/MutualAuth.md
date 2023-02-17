@@ -2,7 +2,7 @@
 title: HTTP Mutual authentication protocol
 description: HTTP Mutual authentication protocol
 published: true
-date: 2022-12-14T00:28:38.796Z
+date: 2022-12-14T18:45:03.927Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T00:28:38.796Z

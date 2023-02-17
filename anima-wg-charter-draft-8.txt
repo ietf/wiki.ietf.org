@@ -1,0 +1,142 @@
+Autonomic Networking Integrated Model and Approach (ANIMA)
+----------------------------------------------------------
+
+Current Status: Proposed WG
+
+Assigned Area Director:
+  Benoit Claise
+
+Mailing list
+  Address: anima@ietf.org
+  To Subscribe: http://www.ietf.org/mailman/listinfo/anima
+  Archive: http://www.ietf.org/mail-archive/web/anima/
+
+Charter:
+
+[background] 
+Autonomic Networking focuses on self-management of network elements, often involving
+closed-loop control. An autonomic function works in a distributed way across various network
+elements, but allowing central guidance and reporting, and co-existence with non-autonomic
+methods of management. Elements of autonomic functions already exist today, for example 
+aspects of IGP routing protocols such as OSPF, although their initial configuration process
+is not autonomic. However, all such functions today have their own discovery, transport, messaging
+and security mechanisms as well as non-autonomic management interfaces. The general objective
+of this working group is to enable the progressive introduction of autonomic behaviors
+into operational networks.
+
+[previous work] 
+To transform the somewhat abstract Autonomic Networking concept into concrete, realisable
+requirements, the first stage, undertaken in the Network Management Research Group (NMRG)
+of the IRTF, was to define terminology and design goals, and to derive a high-level gap
+analysis. The definitions and design goals, as well as a simple architecture model are
+defined in draft-irtf-nmrg-autonomic-network-definitions; the gap analysis for AN is
+described in draft-irtf-nmrg-an-gap-analysis. The UCAN BoF at IETF 90 discussed use
+cases and some existing solutions. All the above work serves as a baseline for this working
+group.
+
+[problem statement]
+Certain network functions are today implemented in a distributed way, and new distributed 
+network functions keep being developed. Currently, every distributed function defines its 
+own way to identify nodes, to communicate, discover and negotiate between nodes, and to 
+secure the interactions: there is no common infrastructure for distributed functions. 
+Consequently, network administrators are required to define and configure node identities,
+security schemes, etc, for each distributed mechanism separately. Vendors need to implement 
+parallel mechanisms for similar tasks. This leads to inefficiencies. Additionally, central
+configuration, management and optimisation of operational device configurations is expensive,
+tedious, and prone to human error. A simple example is assigning address prefixes to network
+segments in a large and constantly changing network. Similarly, repair or bypassing of faults
+requires human intervention and causes significant down time. Autonomic networking is intended
+to mitigate this duplication of similar mechanisms and heavy dependency on human actions, in
+particular by facilitating secure closed-loop interaction directly between network elements to
+satisfy management intent.
+
+[scope of initial effort]
+A complete solution for autonomic networking would be a very ambitious goal. The scope of
+this working group's effort for the initial stage is much more modest: it is to define a
+minimum set of specific reusable infrastructure components to support autonomic interactions
+between devices, and to specify the application of these components to one or two elementary
+use cases of general value. 
+
+[main goal]
+The main goal of the ANIMA WG is therefore to develop common infrastructure components for
+distributed functions. The infrastructure should be capable of providing the following
+services  to those distributed functions: 
+o a common way to identify nodes
+o a common security model
+o a discovery mechanism
+o a negotiation mechanism to enable closed-loop interaction
+o a secure and logically separated communications channel
+o a consistent autonomic management model
+
+[preference for existing methods]
+Where suitable protocols, models or methods exist, they will be preferred over creating new ones. 
+
+[co-existence with traditional management]
+It is recognized that autonomic functions will co-exist with traditional methods of management
+and configuration, and the initial focus will be on self-configuration. Future work may include
+a more detailed systems architecture to support the development of autonomic service agents.
+The Anima working group will initially focus on enterprise, ISP networks and IoT. Like traditional
+network management, the topological scope of autonomic functions is expected to be limited by
+administrative boundaries.
+
+[non-goals]
+Some important topics are intentionally not included in the initial goals as they are
+considered separate matters that should be considered later, although they are in the scope 
+for discussion with lower priority:
+o Mechanism for distributing policy intent to autonomic nodes
+o Use of data analytics by autonomic nodes
+o Other external information sources
+o System-wide integration of autonomics
+
+
+[specific goals]
+The goals of this working group are below. The documents listed as starting points are not 
+exclusive and alternatives may be proposed: 
+o Definition of a discovery and negotiation protocol for autonomic functions
+  Starting point: draft-jiang-config-negotiation-protocol
+o Definition of a solution to bootstrap a trust infrastructure 
+  Starting point: draft-pritikin-bootstrapping-keyinfrastructures
+o Definition of a solution for a separated Autonomic Control Plane
+  Starting point: draft-behringer-autonomic-control-plane
+
+In addition, autonomic service agents will need to be defined to solve specific use cases. The
+working group will initially consider a simple example as a test case for further work. 
+
+o Definition of solution for IPv6 prefix management within a network
+
+A second simple example may be added by agreement with the Area Director.
+  
+It is essential that these components and solutions fit together as an integrated whole.
+For this reason, an overview document will be developed in parallel with the individual
+specifications.
+
+The initial set of work items is limited to the above list to stay focused and avoid
+"boiling the ocean". Additional documents concerning policy intent, other autonomic
+infrastructure components, use cases or autonomic service agents are strongly encouraged,
+as individual submissions, or as submissions to the IRTF Network Management Research
+Group, but are not planned as working group deliverables for now. No additional work
+items will be accepted without re-chartering. 
+
+
+Milestones
+
+Nov 2014 - WG formation and adoption of initial drafts
+           - Mar IETF - 
+Apr 2015 - adoption of solution draft(s) 
+Jun 2015 - WGLC for discovery and negotiation protocol
+           - Jul IETF - 
+Aug 2015 - submit discovery and negotiation protocol to IESG (standards track)
+Aug 2015 - adoption of overview draft
+Oct 2015 - WGLC for trust bootstrap draft
+Oct 2015 - WGLC for solution draft 
+           - Nov IETF - 
+Dec 2015 - submit trust bootstrap draft to IESG (standards track)
+Dec 2015 - submit solution draft(s) to IESG (standards track)
+Jan 2016 - WGLC for autonomic control plane draft
+Jan 2016 - WGLC for overview draft
+           - Mar IETF - 
+Apr 2016 - submit autonomic control plane draft to IESG (standards track)
+Apr 2016 - submit overview draft to IESG (informational)
+Jul 2016 - recharter if needed, or close
+
+

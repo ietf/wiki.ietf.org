@@ -1,0 +1,36 @@
+IETF CLUE WG design team meeting, August 28, 2012
+
+Participants: 
+------------ 
+Mary Barnes
+Paul Kyzivat
+Christer Holmberg
+Espen Berger
+John Leslie
+Jonathon Lennox
+Roni Even
+Tom Kristensen
+Robert Hansen
+
+Recording:
+----------
+Streaming recording:  https://ietf.webex.com/ietf/ldr.php?AT=pb&SP=MC&rID=7982272&rKey=94b7647395baf2ca
+
+Download recording: https://ietf.webex.com/ietf/lsr.php?AT=dw&SP=MC&rID=7982272&rKey=9bedcff4e6dee779
+
+Notes by Rob Hansen.
+-------------------
+
+Mary brought up the requirements section of the two RTP documents; Roni clarified that he felt that there should be an explicit requirement that we should use existing protocols where they exist and ensure there is no duplication. There was agreement that this wasn't an RTP-specific requirement, and Mary pointed out that this was already present in the charter. Jonathon clarified that his document only referred to the media plane and RTP - Roni felt that that this was unclear and should be made explicit.
+
+There was some further discussion and clarification of the requirements. Roni asked whether requirement 6 (being able to match packets to captures) was strictly an RTP requirement; Jonathon agreed that this was not a purely RTP requirement, but that one of his main aims was to avoid specifying any SDP syntax. There was further discussion of the reliability requirement, with clarification that the actual requirement was that the information was either predefined before the packet was received or was received as part of the packet iself.
+
+Finally, Roni asked how SVC would interact with the requirement to only send a single stream to a given decoder. Jonathon explained that the solution would work with this, but that the language needed improving (and that he was referring to a single capture/encoding instantiation rather than to a capture itself).
+
+Media capture 8 was contentious, as not all receivers will be able to support moving decode state between decoders (for instance, they could be on seperate hardware, in the extreme case). Roni pointed out that the receiver would need to signal this capability before the provider could take advantage of it. There was debate about whether this requirement was worth including, and if it was whether it needed to add an explicit requirement for this to be signalled or negotiated in signalling.
+
+It was clarified that when there was a requirement for a refresh in decoder state this wasn't suggesting a new method for doing so and that RTCP FIR was suitable; CLUE would need to mandate supporting this. Roni also had concerns about the use of the phrase 'as much as possible' when it comes to the use of existing protocols (requirement 10). Jonathon clarified that what he meant was that we should stay within existing protocols and use well-defined extension points CLUE would make new use of the protocols, but as far as possible should, as far as possible, match existing behaviour. There was concern that some middle boxes might have issues with things like generally multiplexing multiple media streams onto a single RTP session, but we have limited control over that.
+
+Finally for requirement 12 Jonathon explained why synchronisation was important, and clarified how this could be solved using CNAME in RTCP.
+
+At the end of the meeting Paul reiterated that we could really use a term for the capture/encoding instantiations.

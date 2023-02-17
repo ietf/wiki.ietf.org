@@ -1,8 +1,8 @@
 ---
-title: Global Access to the Internet for All Research Group (GAIA)
+title: GAIA RG - Global Access to the Internet for All Research Group 
 description: Wiki for GAIA RG
 published: true
-date: 2022-12-09T00:41:11.971Z
+date: 2023-01-25T05:17:15.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T00:41:11.971Z
@@ -35,3 +35,11 @@ GAIA is chaired by Jane Coffin (Connect Humanity), Kurtis Heimerl (University of
 The GAIA mailing list is gaia@irtf.org. To subscribe or access the list archives, visit the [mailman page](https://irtf.org/mailman/listinfo/gaia).
 
 The GAIA was chartered on 2014-10-15. 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2022-07-22. It was migrated from the old Trac wiki on 2023-01-24.*

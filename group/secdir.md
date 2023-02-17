@@ -1,8 +1,8 @@
 ---
-title: IETF Security Directorate
+title: SECDIR - Security Directorate
 description: IETF Security Directorate wiki
 published: true
-date: 2022-11-09T15:33:28.633Z
+date: 2023-01-04T22:02:13.377Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:33:28.633Z

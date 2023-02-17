@@ -1,0 +1,557 @@
+Network Working Group                                           J. Arkko
+Internet-Draft                                                  Ericsson
+Intended status: Informational                              May 27, 2008
+Expires: November 28, 2008
+
+
+     Incentives and Deployment Considerations for P2PI Solutions
+                    draft-arkko-p2pi-incentives-00
+
+Status of this Memo
+
+  By submitting this Internet-Draft, each author represents that any
+  applicable patent or other IPR claims of which he or she is aware
+  have been or will be disclosed, and any of which he or she becomes
+  aware will be disclosed, in accordance with Section 6 of BCP 79.
+
+  Internet-Drafts are working documents of the Internet Engineering
+  Task Force (IETF), its areas, and its working groups.  Note that
+  other groups may also distribute working documents as Internet-
+  Drafts.
+
+  Internet-Drafts are draft documents valid for a maximum of six months
+  and may be updated, replaced, or obsoleted by other documents at any
+  time.  It is inappropriate to use Internet-Drafts as reference
+  material or to cite them other than as "work in progress."
+
+  The list of current Internet-Drafts can be accessed at
+  http://www.ietf.org/ietf/1id-abstracts.txt.
+
+  The list of Internet-Draft Shadow Directories can be accessed at
+  http://www.ietf.org/shadow.html.
+
+  This Internet-Draft will expire on November 28, 2008.
+
+Abstract
+
+  Several papers in this workshop have argued that there is a need to
+  build new protocol mechanisms to accommodate peer-to-peer traffic in
+  networks in the most efficient way and with minimal impact to other
+  traffic.  This paper presents an analysis of such solutions from the
+  point of view of the incentives of the different parties involved in
+  peer-to-peer traffic.  The paper concludes that it is essential to
+  understand the incentives in order to have a deployable solution.
+
+
+1.  Introduction
+
+  Peer-to-peer (P2P) networking has been cited as the leading consumer
+
+
+
+Arkko                   Expires November 28, 2008               [Page 1]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+  of network bandwidth in networks serving private subscribers.  This
+  is by itself not a problem, as the network providers are in the
+  business of providing a service to their customers, including the
+  ones that employ P2P tools.  However, the issue is whether P2P
+  traffic causes undue congestion and reduced level of service for
+  other customers in the network [I-D.briscoe-tsvwg-relax-fairness].
+
+  Historically, the Internet service provider market has developed for
+  interactive services where the bandwidth requirements for each user
+  vary significantly from over time.  This allowed the service
+  providers to employ statistical multiplexing.  At the same time, the
+  nominal link speeds have been a major factor in marketing Internet
+  service.  But during the last few years, the nature of the traffic
+  has changed from interactive to more always-on type traffic, for
+  instance from P2P applications.  As a result, statistical
+  multiplexing is no longer effective, and service providers are
+  finding that a large sets of users are actually trying to utilize
+  their full link speed at all times.  This is making the service
+  providers either increase the capacity of their networks to match the
+  changing traffic mix and increasingly high broadband service speeds,
+  or find other ways to deal with the problems.
+
+  It is important to see that these problems are not limited to P2P
+  tools [P2PI.daigle].  Indeed, not even all P2P applications have
+  these problems.  Some forms of video communication exhibit the same
+  problems that large file sharing P2P applications do [P2PI.hardie].
+  And as the Internet applications evolve, we expect to see new forms
+  of traffic with these issues.  In the remainder of this paper, we
+  assume any bandwidth-intensive, semi-permanently running application
+  that may or may not attempt to be friendly with other network usage.
+
+  The fairness problem can present itself in various ways.  For
+  instance, users opening multiple transport sessions may get a
+  disproportionate share of a congested link.  Permanent, high
+  bandwidth sessions may slow down the ramp-up of short-term,
+  interactive sessions.  Or some users may utilize a transit link far
+  more than others, resulting in these users gaining a larger share of
+  the transit costs that the provider has to pay.
+
+  These problems are not just abstract issues.  There has been highly
+  publicized debates about what forms of traffic management are
+  acceptable for network providers.  In reality, network providers
+  already employ a number of techniques [P2PI.tschofenig].  Solutions
+  addressing issues in this space have been worked on by network
+  providers, vendors, and researchers.  This paper looks at the
+  different classes of solutions in Section 2 and analyzes them based
+  on the incentives of the involved parties in Section 3.  The key
+  issue is finding a solution that provides immediate benefits to
+
+
+
+Arkko                   Expires November 28, 2008               [Page 2]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+  everyone who needs to add new mechanisms or equipment.  Another key
+  issue is the information available to different parties.  This leads
+  us to make conclusions in Section 4.
+
+
+2.  Solution Classes
+
+  A number of solutions have already been deployed to mitigate issues
+  caused by the changed traffic pattern.  Other solutions are actively
+  being worked on.  We divide the solutions in three rough classes,
+  based partially on similar classifications in [P2PI.tschofenig]
+  [P2PI.moncaster]:
+
+  Contractual
+
+     These solutions are based on choosing pricing models and
+     contractual conditions that persuade users to avoid always-on
+     traffic.  For instance, volume-based accounting can be employed,
+     or the contracts of the heaviest users can be discontinued.
+
+  Voluntary changes in applications
+
+     These solutions are based on some change of behaviour in the
+     applications, leading to taking other users better into account,
+     reducing congestion or the use of expensive links, and so on.
+
+     Some of the solutions in this category include:
+
+     *  Indicating the desired quality of service, so that interactive
+        and always-on applications can be distinguished in the network
+        [P2PI.moncaster].  This assumes that there is a basic level of
+        quality of service filtering capabilities in the network.
+
+     *  Making decisions with better information about the network
+        topology and cost.  For instance, algorithms that P2P
+        applications use to determine which peers to talk to can
+        probably be improved.  One particular class of improvements
+        involves "oracles" in the service provider network to help
+        applications determine the most likely peers with good
+        connectivity.  For instance, peers that are in the local
+        service provider network vs. behind an expensive and/or
+        congested transit service provider.
+
+     *  New congestion control mechanisms.  For instance, BitTorrent
+        has gotten positive results from their new algorithm
+        [P2PI.shalunov].  Another example is Bob Briscoe's re-ECN
+        mechanism [I-D.briscoe-tsvwg-re-ecn-tcp], which allows hosts
+        and networks to co-operate in the treatment of congestion, and
+
+
+
+Arkko                   Expires November 28, 2008               [Page 3]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+        allows networks to treat different users in a fair manner.
+
+  Network-based mechanisms
+
+     These mechanisms are implemented solely in the network.  Examples
+     include:
+
+     *  Prioritization, slowdown, or even blocking of traffic based on
+        packet header information.  Relatively complicated designs that
+        peek further into the packet, Deep Packet Inspection (DPI) have
+        also been deployed.  Priorities can also be set based on user
+        accounting information, e.g., traffic shaping heavy users
+        during a rush hour.
+
+     *  Changing the "scheduling algorithm", by attempting to complete
+        the short jobs first everyone's performance will improve.
+        Similar techniques as discussed above are needed to determine
+        which jobs are "short" and "long", however.
+
+     *  Building caches and peer-to-peer network components in the
+        service provider network.
+
+
+3.  Incentives
+
+  This section discusses motives, deployment considerations, and how
+  information available to the different parties affects the
+  incentives.
+
+3.1.  Motives
+
+  For any solution to be adopted the involved parties have to have
+  compatible motives.  This is not always trivial, because the parties
+  may either optimize for different goals, or because there is room for
+  malicious behaviour.
+
+  For instance, one type of a quality-of-service solution involves
+  voluntary marking of packets by applications and subsequent
+  differentiated treatment of these packets by the network.  In this
+  case the motives of well-behaving users and service providers are
+  similar: both want interactive applications to be given more
+  priority, while allowing always-on batch applications to run in the
+  background, and take as much bandwidth as is available.  However, if
+  the prioritization happens across multiple users, this also implies
+  that a lower priority marking has the potential to reduce the user's
+  share of the overall throughput.  Clever users can distort the system
+  by claiming to run only interactive applications.  A tragedy of the
+  commons follows: The optimal strategy from the point of view of the
+
+
+
+Arkko                   Expires November 28, 2008               [Page 4]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+  entire group of users would be to correctly classify traffic.  But
+  from the point of an individual user a better strategy would be to
+  lie.
+
+  Note that no misbehaviour is needed from a human user for this to
+  happen.  It is enough that the user runs applications that do this.
+  And if such applications appear to produce better results than other
+  applications, the user has an incentive to use them.  Having said
+  this, past experience tells us that a vast majority of networking
+  software plays by the rules.  Attempts to improve or bypass TCP
+  congestion control are relatively rare, for instance.
+
+  An example where the motives themselves may be conflict is the co-
+  operation between P2P applications and service providers to determine
+  the "best" peers to connect to.  The definition of "best" from the
+  P2P client perspective is a peer that has the highest possible actual
+  transfer rate.  But the service provider is more interested in
+  minimization of their costs and overall network congestion.  This may
+  or may not coincide with the client's desires.  For instance, a
+  service provider may prefer a local peer with a slow access link over
+  a remote peer that is connected via an expensive transit connection.
+
+  While not part of the incentives, the available information to the
+  different parties plays an interesting role as well.  It can be
+  expected that P2P nodes are capable of measuring actual transfer
+  rates across the end-to-end path, including the behaviour of the end
+  systems.  P2P applications might even be able to accumulate this
+  information from multiple clients and over time.  In contrast, the
+  service provider network at its basic form would be limited to
+  understanding the topology and link speeds.  More advanced service
+  provider networks may be capable of traffic-engineering and tracking
+  congestion in different parts of their network.  However, they are
+  fundamentally incapable of measuring end systems or end-to-end
+  behaviour in paths that cross multiple networks.
+
+  As a result of the motive conflict and lack of information, any
+  "oracle" style design [RIPE.feldmann] needs to play a fairly limited
+  role in supplying additional information to the P2P applications.
+  Information from the service provider network can help make an
+  initial guess or to narrow the search for the best peer.  But it
+  cannot replace or govern the overall decision that the P2P
+  application needs to make on its own.
+
+  Having basic support for peer selection in the P2P applications also
+  allows the service providers to focus on improvements in their own
+  network, as opposed to attempting to build tools that try to guide
+  selection of peers across multiple networks.  As long as the oracle
+  focuses on increasing the number of peers within the service
+
+
+
+Arkko                   Expires November 28, 2008               [Page 5]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+  provider's network, the algorithms in P2P applications can take care
+  of optimizing the connectivity to peers in other networks.
+
+3.2.  Deployment Considerations
+
+  Another important consideration is what needs to change in order for
+  a particular solution to be deployed.  Some solutions can be deployed
+  unilaterally, some require coordinated action.  The coordination may
+  act as a disincentive to build support for a particular solution.
+  For instance, P2P application developers do not invest time in
+  building support for contacting an oracle in the service provider
+  network until it becomes likely that such oracles can actually used
+  in some fraction of networks; the limited development resources are
+  better invested in actions that the developers are in full control of
+  -- for instance in improved peer selection algorithms that do not
+  depend on new infrastructure nodes.  Similarly, service providers do
+  not invest in an oracle until there is software that actually uses
+  it.
+
+  This problem affects the following types of solutions:
+
+  o  Quality of service marking in the host and priority treatment in
+     the network.
+
+  o  Network-assisted P2P peer selection.
+
+  o  Network-assisted congestion control mechanisms.
+
+3.3.  Availability of Information
+
+  Section 3.1 discussed how available information affects the way best
+  peer selection can be made to work.  But there are other aspects of
+  information availability as well.  Specifically, when networks have
+  unilaterally implemented mechanisms that do not align with the
+  motives of P2P applications, the applications have employed
+  information hiding in order to prevent the network from making non-
+  desireable prioritization decisions for them.  Eric Rescorla makes
+  the argument that ultimately P2P traffic can be secured and made to
+  resemble other types of traffic, such as VPN traffic.  This makes it
+  very hard for the network to de-prioritize or modify P2P traffic
+  [P2PI.rescorla].  It is interesting that many of the solutions in
+  this workshop attempt to increase the amount of information available
+  to the parties, while in reality the converse seems to happen.
+
+  We would like to suggest that this trend can only be reversed if the
+  motives becomes more aligned between the players.  That is, no P2P
+  application will participate in a system designed to restrict P2P
+  traffic.  But they may participate in systems that attempt to
+
+
+
+Arkko                   Expires November 28, 2008               [Page 6]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+  optimize P2P traffic.
+
+
+4.  Conclusions
+
+  The right incentives are a key to the successful standardization and
+  deployment of any solution in this space.  Based on our analysis, we
+  would like to suggest that the following avenues for IETF
+  documentation and standards be looked at:
+
+  o  Improved and/or standardized peer selection algorithms.  These can
+     be deployed unilaterally by application developers.
+
+  o  Co-operative designs where service provider networks supply
+     additional information that helps the P2P applications to make a
+     better initial selection of peers.  This should only be done as a
+     sub-item to the above one; service provider networks do not have
+     sufficient information or incentives to make the full decision,
+     and attempting to do so would dissuade the P2P applications from
+     using such a system.
+
+  o  Improved and/or standardized congestion control mechanisms
+     suitable for P2P and other "always-on" applications.  Again, these
+     can be deployed unilaterally, and IETF can help ensure they
+     algorithms are safe for other traffic in the Internet.  Note the
+     difference to quality of service mechanisms that typically require
+     deployment at both ends; the quality of service mechanisms would
+     in many ways be the right solution for this problem, but it is
+     hard to get them deployed and used due to the issues mentioned
+     earlier in this paper.
+
+     Still, both the co-operative designs and congestion control
+     mechanisms depend on the interest of the P2P application
+     developers and users.  The primary incentive from their
+     perspective is the desire to be nice for the user's other traffic.
+
+  In any case, these items are tactical, short-term efforts.  There is
+  an associated longer-term issue where the market place has to learn
+  to provide services without relying on statistical multiplexing.
+  Ultimately, if there is demand for communication services
+  (interactive or not) it should be met with an offering that allows
+  providers to build the infrastructure needed to support it, and still
+  be profitable.  Pricing models and service packaging has perhaps even
+  more to do with this than technical solutions.
+
+
+
+
+
+
+
+Arkko                   Expires November 28, 2008               [Page 7]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+Appendix A.  Acknowledgments
+
+  The author would like to thank Magnus Westerlund and Gonzalo
+  Camarillo for interesting discussions in this problem space.
+
+
+5.  Informative References
+
+  [I-D.briscoe-tsvwg-relax-fairness]
+             Briscoe, B., Moncaster, T., and A. Burness, "Problem
+             Statement: We Don't Have To Do Fairness Ourselves",
+             draft-briscoe-tsvwg-relax-fairness-00 (work in progress),
+             November 2007.
+
+  [P2PI.daigle]
+             Daigle, L., "Defining Success: Questions for the Future of
+             the Internet and Bandwidth-Intensive Activities", P2PI
+             position paper LLD-P2P-Position-May15.pdf, May 2008.
+
+  [P2PI.tschofenig]
+             Tschofenig, H. and M. Matuszewski, "Dealing with P2P
+             Traffic in an Operator Network: State of the Art", P2PI
+             position paper p2p-state-of-the-art.pdf, May 2008.
+
+  [P2PI.hardie]
+             Hardie, T., "Peer-to-peer Traffic and "Unattended
+             Consequences", P2PI position paper hardie - p2pi position
+             paper.rtf, May 2008.
+
+  [P2PI.rescorla]
+             Rescorla, E., "Notes on P2P Blocking and Evasion", P2PI
+             position paper rescorla-p2pi.pdf, May 2008.
+
+  [P2PI.shalunov]
+             Shalunov, S., "Users want P2P, we make it work", P2PI
+             position paper BitTorrent-Position-IETF-P2P.pdf, May 2008.
+
+  [P2PI.moncaster]
+             Moncaster, T., Briscoe, B., and L. Burness, "Is There a
+             Problem with Peer-to-peer Traffic", P2PI position paper Is
+             There a Problem with Peer-to-Peer Traffic.pdf, May 2008.
+
+  [RIPE.feldmann]
+             Feldmann, A., "ISP-Aided Neighbor Selection in P2P
+             Systems", RIPE presentation at RIPE-56, Berlin, May 2008.
+
+  [I-D.briscoe-tsvwg-re-ecn-tcp]
+             Briscoe, B., "Re-ECN: Adding Accountability for Causing
+
+
+
+Arkko                   Expires November 28, 2008               [Page 8]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+             Congestion to TCP/IP", draft-briscoe-tsvwg-re-ecn-tcp-04
+             (work in progress), July 2007.
+
+
+Author's Address
+
+  Jari Arkko
+  Ericsson
+  Jorvas  02420
+  Finland
+
+  Email: jari.arkko@piuha.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arkko                   Expires November 28, 2008               [Page 9]
+
+Internet-Draft             P2P and Incentives                   May 2008
+
+
+Full Copyright Statement
+
+  Copyright (C) The IETF Trust (2008).
+
+  This document is subject to the rights, licenses and restrictions
+  contained in BCP 78, and except as set forth therein, the authors
+  retain all their rights.
+
+  This document and the information contained herein are provided on an
+  "AS IS" basis and THE CONTRIBUTOR, THE ORGANIZATION HE/SHE REPRESENTS
+  OR IS SPONSORED BY (IF ANY), THE INTERNET SOCIETY, THE IETF TRUST AND
+  THE INTERNET ENGINEERING TASK FORCE DISCLAIM ALL WARRANTIES, EXPRESS
+  OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF
+  THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED
+  WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+Intellectual Property
+
+  The IETF takes no position regarding the validity or scope of any
+  Intellectual Property Rights or other rights that might be claimed to
+  pertain to the implementation or use of the technology described in
+  this document or the extent to which any license under such rights
+  might or might not be available; nor does it represent that it has
+  made any independent effort to identify any such rights.  Information
+  on the procedures with respect to rights in RFC documents can be
+  found in BCP 78 and BCP 79.
+
+  Copies of IPR disclosures made to the IETF Secretariat and any
+  assurances of licenses to be made available, or the result of an
+  attempt made to obtain a general license or permission for the use of
+  such proprietary rights by implementers or users of this
+  specification can be obtained from the IETF on-line IPR repository at
+  http://www.ietf.org/ipr.
+
+  The IETF invites any interested party to bring to its attention any
+  copyrights, patents or patent applications, or other proprietary
+  rights that may cover technology that may be required to implement
+  this standard.  Please address the information to the IETF at
+  ietf-ipr@ietf.org.
+
+
+
+
+
+
+
+
+
+
+
+Arkko                   Expires November 28, 2008              [Page 10]
+

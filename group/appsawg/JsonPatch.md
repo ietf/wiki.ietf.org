@@ -2,7 +2,7 @@
 title: JSON Patch
 description: This page tracks implementation status of ​JSON Patch
 published: true
-date: 2022-11-05T14:47:30.938Z
+date: 2022-11-29T19:41:26.152Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:47:30.938Z

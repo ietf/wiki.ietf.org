@@ -2,7 +2,7 @@
 title: Draft Git Statement (obsolete)
 description: 
 published: true
-date: 2022-09-16T22:04:23.086Z
+date: 2022-11-29T19:38:53.073Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-16T22:04:23.086Z

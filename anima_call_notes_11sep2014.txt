@@ -1,0 +1,47 @@
+Notes from the ANIMA Call
+11 Sep 2014, 6am GMT
+
+Attendees
+Bing Liu, Brian Carpenter (part time), Dan Romascanu, Dimitri P., Laurent Ciavaglia, Sheng Jiang, Yu Fu, Michael Behringer (notes)
+
+Notes
+Sheng prepared v9 of the charter. Presented his current view on things. 
+
+List of items where we have not consensus:
+1) Methodology of this working group
+Two different approaches at the moment, bottom up and top down. 
+
+2) Selection of use cases
+At which step do we plan the working group? What should be the first use cases? 
+
+3) Common infrastructure components
+Sheng: We should first work on those components, BEFORE working on use cases. 
+
+Michael: Do we agree on infrastructure versus autonomic service agents? 
+Yes. (no objection) 
+
+Dimitri: We have service agents that exchange information. Use case driven approach. Sheng is a communication driven approach. 
+Brian: Misunderstanding. Approach in proposed charter, we need to first understand communication layer. 
+Dimitri: Communication is part of current charter, there are different modes. Negotiation for example. 
+Laurent: The current negotiation proposal is just one proposal. But there are many potential solutions. 
+Michael: The charter doesn't say the current draft is the chosen one. 
+Laurent: Yes, but the boundary conditions are not clear. It is not clear which the requirements are for such a protocol. 
+Sheng: Yes, but this should be the job of the working group, to define precise requirements, and work out a proposed protocol. 
+Dimitri: Differnt means to translate negotiation requirements to protocol. If we don't have a broad overview we may go down the wrong track. Might end up in an open protocol. 
+Brian: Completely agree. 
+Michael: Problem statement seems to be: Do we describe the requirements BEFORE the charter or once we are chartered? 
+Laurent: We need to be explicit that the charter is about functionalities, and it's the job of the working group to translate this into protocols. 
+Sheng: This will take too long. 
+Michael: Can we start with the simple communication methods, and expand as needed? 
+Dimitri: master-slave, consensus based, gossip, and other mechanisms. That needs to be settled before we do the work. The charter must allow this. 
+Dan: Can include in charter about infrastructure functional requirements. There should be a general requirements doc. 
+Michael: ADs didn't want to start with a lengthy requirements process. 
+Dan: Need an intermediate state. 
+Dimitri: Charter needs to include "validate use cases against architecture". NMRG docs are a good starting point. Validation is key. Should have had an autonomic model document. Like for intserv/diffserv. 
+Michael: Can we not start with a simple unicast negotiation method? 
+Laurent: Need to worry about oscillation on a higher level. 
+Dimitri: Need to work on use cases to derive requirements. Determine the use cases you need to determine this. Need a broad set of use cases to define boundaries (not requirements). We should select use cases by area, for example bootstrap. We need three areas. 1) Bootstrapping (self-configuration), 2) self-protection and 3) open, on self-healing for example. 
+Sheng: So far no reporting area. There are many areas to work on. We don't know them yet. 
+Dimitri: We DO know them. Self-* features. 
+Laurent: The self-* features are in. 
+Michael: Need to document the different viewpoints. 

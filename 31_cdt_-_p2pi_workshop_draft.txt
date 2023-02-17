@@ -1,0 +1,114 @@
+
+
+
+P2PI Workshop	David Sohn
+Position Paper	Alissa Cooper
+	Center for Democracy & Technology
+	May 9, 2008
+
+
+
+Peer-to-Peer Infrastructure Considerations
+
+
+Abstract
+
+This document provides a brief overview of considerations that should 
+underlie any technical solutions to the congestion issues raised in 
+the p2pi workshop.
+
+
+
+1.  Background
+
+The authors have actively participated in a range of public policy 
+discussions and proceedings relating to congestion issues to be 
+discussed in the p2pi workshop.  We appreciate and agree that debate 
+about public policy concerns are generally out of scope for this 
+workshop.  
+
+We believe, however, that there are some public policy considerations 
+that could provide helpful context for the workshop.  We are not at 
+this time seeking to present this content orally at the workshop.
+
+The below content is drawn from much more substantial discussions 
+submitted to the U.S. Federal Communications Commission ("FCC").  See 
+[CDT-FCC-Comments] and [CDT-FCC-Reply-Comments].
+
+
+2.  Even Application of Network Management Practices
+
+Our concern and involvement in this area has centered on the risk 
+that certain network management tactics aimed at combating congestion 
+could have the detrimental side effect of vesting network operators 
+with a new level of  "gatekeeper" control over which applications 
+will thrive and which will not.  In recent comments filed with the 
+FCC, we offered several principles to guide network operators and 
+policymakers as they consider questions relating to network 
+management.  One such principle is that network management practices 
+targeting congestion should be evenly applied.
+
+Network management techniques may offer important tools for 
+addressing bandwidth constraints, but techniques that put a network 
+provider in the position to pick and choose among applications, 
+services, or protocols Ð deciding which ones will be allowed to use 
+how much bandwidth or which ones will be subject to limits Ð carry 
+serious risk.  Once a network operator is in the business of 
+selecting particular traffic for inferior treatment, there is the 
+possibility of mixed motives, as choices between different tactics 
+could be tinged by competitive considerations.  Innovators, 
+meanwhile, would need to start worrying about whether and how the 
+network operator might choose to target their applications.
+
+These risks can be mitigated if network management techniques are 
+based on objective criteria and applied evenly, so that all 
+applications with similar bandwidth usage patterns receive similar 
+treatment.  Alternatively, any technique that allows subscribers to 
+select specific applications or content for special traffic handling 
+should be benign; so long as the choice lies with the subscriber, 
+there is no risk of the network operator playing favorites. 
+
+
+3.  Other considerations
+
+In addition to the above consideration, we raised two other important 
+principles to the FCC:  first, that all congestion responses should 
+adhere to well accepted technical standards, and second, that network 
+operators be transparent with regard to what responses are taken.  
+These points are discussed in greater detail in [CDT-FCC-Comments] 
+and [CDT-FCC-Reply-Comments].
+
+At a more general level, we believe that the rhetoric in the policy 
+debate over congestion management techniques has often framed false 
+choices, as if the only question were whether to support or oppose 
+congestion management in the abstract.  This workshop offers the 
+important opportunity to delve into the different technical 
+approaches to congestion management and to consider the differences 
+between them.  We believe that IETF is the right place to have this 
+kind of technical discussion, and that this workshop and the work of 
+the IETF may inform the future policy debate in important ways.
+ 
+
+4.  References
+
+   [CDT-FCC-Comments]
+The Center for Democracy & Technology, "Comments of the 
+Center for Democracy & Technology," Feb. 13, 2008, available 
+at http://www.cdt.org/speech/20080213_FCC_comments.pdf.
+
+   [CDT-FCC-Reply-Comments]
+The Center for Democracy & Technology, "Reply Comments of the 
+Center for Democracy & Technology," Feb. 28, 2008, available 
+at http://www.cdt.org/speech/20080228_FCC_comments.pdf.
+
+
+
+Authors' Addresses
+
+   David Sohn, dsohn@cdt.org
+   Alissa Cooper, acooper@cdt.org
+   Center for Democracy & Technology
+   1634 I Street, NW
+   Washington, DC 20006
+   +1-202-637-9800
+

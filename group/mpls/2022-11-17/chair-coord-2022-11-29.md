@@ -2,7 +2,7 @@
 title: Chair Coordination meeting
 description: Discussion to folloow-up on the "complexity" discussion at IEYF 115 in London.
 published: true
-date: 2022-11-30T10:37:16.704Z
+date: 2022-11-30T14:06:53.975Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-29T11:23:58.994Z

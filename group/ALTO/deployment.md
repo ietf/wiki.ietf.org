@@ -2,15 +2,17 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2022-12-05T14:10:54.514Z
+date: 2023-01-17T15:24:30.214Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
 ---
 
-# Deployment
+# Implementation and Deployments
 
-## Feature description
+## Implementations
+
+### Feature description
 
 - ALTO: The implementation realizes/uses the [​base ALTO protocol](https://datatracker.ietf.org/doc/html/rfc7285).
 - MC: The implementation realizes/uses the [​multi-cost extension](https://tools.ietf.org/html/rfc8189).
@@ -25,7 +27,7 @@ dateCreated: 2022-10-18T13:18:13.645Z
 - CDNi: The implementation realizes/uses
   the [​CDNi extension](https://datatracker.ietf.org/doc/draft-ietf-alto-cdni-request-routing-alto/).
 
-## Client
+### Client Implementations
 
 This section collects information on the client implementations of the ALTO protocol and their
 features/extensions.
@@ -180,7 +182,7 @@ features/extensions.
                     </tr>
                 </table>
 
-## Server
+### Server Implementations
 
 This section collects information on the server implementations of the ALTO protocol and their
 features/extensions.
@@ -335,7 +337,7 @@ features/extensions.
                     </tr>
 </table>
 
-## Application
+### Applications
 
 This section collects information on applications/libraries that are developed on top of the ALTO
 protocol.
@@ -579,18 +581,63 @@ protocol.
                     </tr>
 </table>
 
-## Telefonica
+## Deployments
+
+### Telefonica
 
 TODO
 
-## CERN
+### CERN
 
 TODO
 
-## National Research Platform
+### National Research Platform
 
-TODO
+The National Research Platform (NRP) is a network that interconnects educational and scientific institutions and computing facilities in the US, supported in part by awards from the National Science Foundation (https://nationalresearchplatform.org/). NRP’s primary computation, storage, and network resource is a distributed cluster of ~300 K8S nodes called Nautilus.
 
-## ALTO Public Registry (openalto.org)
+The NRP/ALTO deployment is overlayed on top of GradientGraph (G2), which is leveraged to pull real-time topology, routing, and flow information to compose the various ALTO objects (for instance, the ALTO Cost Map). The architecture is shown in the next diagram:
+
+    
+    +-------------------------------------+
+    |                ALTO                 |
+    +-----------------^-------------------+
+                      |
+    +-----------------+-------------------+
+    |            GradientGraph            |
+    +----^------------^-------------^-----+
+         |            |             |
+    +----+----+  +----+----+  +-----+-----+
+    |   K8S   |  |  sFlow  |  | Perfsonar |
+    +----^----+  +----^----+  +-----^-----+
+         |            |             |
+    +----+------------+-------------+-----+
+    |              Network                |
+    +-------------------------------------+
+
+In the next sections we describe each of the components.
+
+#### GradientGraph: API and Bottleneck Structure Information
+
+GradientGraph (G2) is a technology developed by Qualcomm Technologies that implements bottleneck structure theory ([[1](https://dl.acm.org/doi/abs/10.1145/3452296.3472898)], [[2](https://dl.acm.org/doi/abs/10.1145/3366707)], [[3](https://arxiv.org/abs/2210.03534)]) to make fast computation of optimized network reconfigurations. In this specific deployment, G2 ingests topology, flow and routing information from K8S, sFlow, and Perfsonar, respectively, to compute the bottleneck structure of the network and make operational recommendations. It also exposes a REST API that is queried by the ALTO server to retrive the network state.
+
+#### K8S: Topology Information
+
+The K8S controller's REST API is queried to retrieve topology information, including a list of K8S hosts, a list of all the links part of the network, and their capacities.
+
+#### Perfsonar: Routing Information
+
+G2 also queries the PerfSonar REST API service running in NRP to retrieve routing information. PerfSonar periodically runs traceroute between every pair of nodes (K8S hosts) in the K8S cluster to derive the paths. Then, G2 queries the PerfSonar traceroute results to get the path between any two given nodes. Using sFlow information, it can also know the Pod that is associated with each node, which allows to compute the pod-to-pod traffic paths.
+
+#### sFlow: Flow Information
+
+To learn the active flows in the network, G2 queries the Inmon sFlow TrafficSentinel's REST API. The Inmon sFlow collector runs inside the NRP network and has visibility into all the inter-pod traffic. 
+
+#### ALTO
+
+The ALTO server is basd on OpenALTO, an open source ALTO framework. A G2 agent is developed, which queries the G2 RESTful API to obtain topology, routing and flow information. The agent also loads a static configuration file that defines equivalent classes based on IP prefixes. The static file is based on a static file generated by NetSage. The process will be made automatic in future releases.
+
+The ALTO server now provides an endpoint cost service with the path vector extension enabled.
+
+### ALTO Public Registry (openalto.org)
 
 TODO

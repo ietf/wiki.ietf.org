@@ -2,7 +2,7 @@
 title: HTTP/2.0 Latency Requirement
 description: 
 published: true
-date: 2022-12-14T19:43:59.706Z
+date: 2022-12-14T19:44:03.861Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T19:43:59.706Z

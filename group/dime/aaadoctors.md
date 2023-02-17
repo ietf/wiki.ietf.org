@@ -2,7 +2,7 @@
 title: AAA Doctors Directorate
 description: The purpose of this directorate is to review documents that have a relationship to AAA 
 published: true
-date: 2022-12-06T22:24:47.993Z
+date: 2023-01-13T20:53:58.702Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:24:47.993Z
@@ -37,6 +37,7 @@ The AAA Doctors Directorate consists of the following members:
 |Jong-Hyouk Lee |	jonghyouk at gmail.com |	-- |	activity unknown|
 |Ahmad Muhanna |	ahmad.muhanna at ericsson.com |	-- |	activity unknown|
 |Greg Weber |	gdweber at gmail.com |	-- |	activity unknown|
+{.dense}
 
 
 ## Mailing List
@@ -66,3 +67,13 @@ AAA Doctors Directorate will perform IETF wide document reviews for documents th
 |Using Authentication, Authorization, and Accounting services to Dynamically Provision View-based Access Control Model User-to-Group Mappings - [draft-ietf-isms-radius-vacm-09](http://tools.ietf.org/html/draft-ietf-isms-radius-vacm-09) | 	Glen Zorn |	2-Aug-2010 |	13-Aug-2010 |	IETF LC ends 2010-08-13|
 |Use of Device Identity in HTTP-Enabled Location Delivery (HELD) - [draft-ietf-geopriv-held-identity-extensions-04](http://tools.ietf.org/html/draft-ietf-geopriv-held-identity-extensions-04) |	Alan Dekok	| 28-Sep-2010 |	12-Oct-2010 | 	--
 |Requirements for a Tunnel Based EAP Method - [draft-ietf-emu-eaptunnel-req-08](http://tools.ietf.org/html/draft-ietf-emu-eaptunnel-req-08) |	Bernand Aboba |	21-Oct-2010 |	10-Nov-2010 |	Individual submission |
+{.dense}
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2009-01-21. It was migrated from the old Trac wiki on 2023-01-13.*

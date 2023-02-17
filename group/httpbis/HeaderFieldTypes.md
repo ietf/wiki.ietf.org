@@ -2,7 +2,7 @@
 title: Header Field Types
 description: Header Field Types
 published: true
-date: 2022-12-13T23:12:58.179Z
+date: 2022-12-13T23:13:02.485Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T23:12:58.179Z

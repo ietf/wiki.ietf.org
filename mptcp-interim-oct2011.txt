@@ -1,0 +1,244 @@
+MPTCP interim meeting / 10.20.2011  15:00 - 16:30 GMT
+
+Attendees:
+  Philip Eardley
+  Yoshifumi Nishida
+  Olivier Bonaventure
+  Jaako Korkeaniemi
+  Hampel, K Georg
+  Christoph Paasch
+  Costin Raiciu
+  Wesley Eddy
+  Mark Handley
+ 
+Phil: 
+  Intro slides. Main question is whether we need to change the protocol now in order 
+  to allow proxies (eg "I'm a proxy flag") or whether this is not needed (new MPTCP 
+  option to be defined later).
+ 
+-----------------------------------------------------------------------
+Topic - proxy support
+
+Costin: 
+  talks about his proxy slides. End goal of proxy support etc.
+  doesn't see solution for explicit proxy
+
+Mark: 
+  don't rule out explicit proxy, just needs extra round trip
+  Discussion whether need a bit on MP-CAPABLE to indicate "I'm a proxy"
+
+Georg: 
+  Add-Address message both provides address & implies add subflow
+
+Olivier: 
+  implementation & local policy dependent when add subflow
+
+Georg: 
+  how about proxy on each end?
+
+Costin: 
+  I think scenario doesn't work
+
+Georg: 
+  We also need to think it's useful or not.
+
+Costin: 
+  You have to merge 2 subflows into one to make it work, but that's not possible
+
+Georg: 
+  If proxy is really transparent, you don't have to merge and it works.
+
+Georg: 
+  I just have a feeling that there's a lot of space to explore.
+
+Phil:  
+  How we should proceed?
+
+Costin: 
+  I think implicit proxy can work with the current spec and it's quite fine to add new options 
+  for additional functions later. For explicit proxy case, 3rd ack of handshake with new MPTCP 
+  option will be needed, but we can also do it later.
+
+Mark: 
+  I think we don't need anything on 3rd ack right now - no backward compatibility issue as we 
+  can configure host and explicit proxy
+
+Phil: 
+  Summary of consensus - the protocol doesn't not need to be changed now to deal with proxies. 
+  The idea of a new MPTCP option (4 or 5 on the chair slide #8) can be thought about later, 
+  once the initial protocol is complete.
+
+
+-----------------------------------------------------------------------
+Topic: Keys on various MP_CAPABLE msgs. 
+
+Slide - Email discussion concluded to go back to the approach in the -03 version of the draft, 
+with key in SYN - as well as syn/ack ack (& ack for reliability). 
+(Remember to update S2.1 as well)  
+
+This was confirmed on the call.
+
+
+-----------------------------------------------------------------------
+Topic: Fallback mode 
+
+Slide - proposed solution is to keep this simple, "Once MPTCP reverts to TCP, it MUST NOT revert 
+back to MPTCP afterwards".  
+
+This was confirmed on the call.
+
+Georg: 
+  Agreed. But, there is a contradictory sentence which should be removed ["In fallback mode..."]
+
+Costin: 
+  Agree to remove the sentence
+
+
+-----------------------------------------------------------------------
+Topic: Teardown of state when all subflows fail 
+
+Slide - This is a heuristics issue rather than a protocol issue, 
+
+This was confirmed on the call.
+ 
+Georg: 
+   The current text addresses break-before-make scenario sufficiently.
+
+
+-----------------------------------------------------------------------
+Topic: Add Bulk_transfer_optimisation flag to MP-Capable?
+
+Slide - Don't add, seems like extra complexity for not much gain  
+
+This was confirmed on the call.
+
+Georg: 
+   accepts consensus, though doesn't agree - doing implementation and will see what issues are
+
+
+-----------------------------------------------------------------------
+Topic: Support of "Single-path mode" (an ambiguous term...)? 
+
+No changes to the spec. 
+
+This was confirmed on the call.
+
+Georg: 
+  Just mention. We've thinking about the case where we don't want to use full-brown mptcp 
+  due to buffer limitation. The proposed MP-PRIO #2 allows functionality to specify which 
+  you want and don't want.
+
+Costin: 
+  we worked on buffering issue. If it's receiver buffer limited then it ends up like TCP
+  will discuss off-line with Georg about this.
+
+Mark: 
+  Our work doesn't require protocol change. this is heuristics at sender.
+
+Georg: 
+  Problem is where both ends cannot agree with which path to be used.
+
+Mark: 
+  You can send reset
+
+
+-----------------------------------------------------------------------
+Topic: New Issue
+
+Olivier: 
+  working on a "Data reset" msg which resets the whole MPTCP connection, e.g. used by a web 
+  server so it doesn't have to maintain state. First, we would like to discuss this is an issue 
+  to be solved in the current spec.
+
+Mark: 
+  I think this a genuine issue worth solving
+
+Georg: 
+  Reseting all subflows doesn't mean connection level termination. 
+  We don't have this function so far.
+
+Phil: 
+  How do we modify the spec?
+
+Mark: 
+  Working with Olivier. Looked at various ways of doing this. Suggested features:
+  Data FIN + flag - as data Fin msg has right semantics. Msg needs to be reliable, 
+  as after Connection Re-set you hold no state.
+
+  Only server can send - otherwise have to do something complex (you could be in trouble 
+  if both sides sent a Re-set as then neither would hold Time wait state, which is needed to 
+  be safe against spurious segment arriving after started new connection)
+
+Costin: 
+  In TCP, client goes in timewait when it got RST?
+
+Mark: 
+  It should.
+
+Costin: 
+  probably it doesn't and not cause big issue.
+
+Mark: 
+  Yes. It's possible. But, we should do it properly in mptcp. Doesn't have to repeat TCP's way.
+
+Costin: 
+  how hold Time wait state in mptcp?
+
+Mark: 
+  hold on all subflows.
+
+Costin: 
+  How about changing the spec If the last subflow get RST, we reset MPTCP connection?
+
+Olivier: 
+  it won't work with break-before-make scenario
+
+Olivier: 
+  using Data Fin means preserve reliability of data transfer. 
+
+Costin: 
+  Is there any way to reset from application?
+
+Olivier: 
+  must be done in kernel.
+
+Phil: 
+  Can you send the proposal to list?
+
+Mark: 
+  I think we're close
+
+Olivier: 
+  After discuss implementation issues with Christoph
+  I will send concrete proposal to the list by end of next week.
+
+Phil: 
+  propose that go with this timescale. If we can very rapidly reach consensus include 
+  in protocol - if can't, then punt for later protocol extensions.
+
+Phil: 
+   roll call on who going to Taipei. Not many. Will check on list for agenda items 
+   and cancel session request if no response
+
+-----------------------------------------------------------------------
+Topic: implementation news
+
+Christoph / Olivier: 
+  in contact with Linux kernel expert <we would like to know name> 
+  Making code cleaner to increase chances of acceptance
+
+Costin: 
+  Android devices instead in coding
+
+Costin: 
+  Intel Romania are starting experiments with mobile devices
+
+Christoph: 
+  will they contribute code back to the public code?
+
+Costin: 
+  to be decided
+
+Georg: 
+  implementing on 'lower packet filter' would like to test back with other implementations
+

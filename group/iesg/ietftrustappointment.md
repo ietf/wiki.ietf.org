@@ -2,7 +2,7 @@
 title: IESG Appointment to the IETF Trust
 description: 
 published: true
-date: 2022-12-06T16:39:19.296Z
+date: 2022-12-06T16:39:24.438Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-10-14T13:16:50.122Z

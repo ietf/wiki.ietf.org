@@ -2,7 +2,7 @@
 title: Bad Diff Examples
 description: 
 published: true
-date: 2022-09-07T14:41:03.411Z
+date: 2022-11-29T19:37:31.645Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:41:00.713Z

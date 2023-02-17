@@ -2,7 +2,7 @@
 title: Internet Area Directorate
 description: 
 published: true
-date: 2022-12-13T19:21:00.722Z
+date: 2022-12-13T19:21:05.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:55:14.390Z

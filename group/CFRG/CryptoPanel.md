@@ -2,30 +2,30 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2022-11-03T16:56:22.136Z
+date: 2022-12-28T23:31:40.420Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
 ---
 
 # Crypto Review Panel
-Please contact CFRG Chairs (Nick Sullivan <nick@cloudflare.com>, Alexey Melnikov <alexey.melnikov@isode.com> and Stanislav Smyshlyaev <smyshsv@gmail.com>) to request a review. Also contact them if you want to be added to the Crypto Review Panel.
+Please contact CFRG Chairs (Nick Sullivan <nick@cloudflare.com>, Alexey Melnikov <alexey.melnikov@isode.com> and Stanislav Smyshlyaev <smyshsv@gmail.com>) or the CFRG Secretary (Christopher wood <caw@heapingbits.net>) to request a review. Also contact them if you want to be added to the Crypto Review Panel.
 
 The work in the Crypto Panel is organized using the mailing list, [the archive of the Crypto Panel list](https://mailarchive.ietf.org/arch/browse/crypto-panel/) is public.
 
 Crypto Review Panel operates in a way similar to an IETF Directorate. However from time to time CFRG Chairs might use Crypto Review Panel in different ways (e.g., like during the PAKE selection process) after consultations on the CFRG mailing list.
 
-## Charter
+## Crypto Review Panel Charter
 
-Crypto Review Panel
+### Objectives
 
-Objectives:
 CFRG is a volunteer-led activity that currently relies on the goodwill of its participants to provide review of documents. This can result in documents not receiving enough scrutiny, or examination only being forthcoming over an unacceptably long period of time. Also, there is lack of consistency between reviews of different documents.
 The CFRG Review Panel will ensure that CFRG chairs have at their disposal sufficient resources and lightweight processes to provide critical, objective, timely and consistent review of cryptographic algorithms in IRTF and IETF documents.
 The recommendations coming out of panel reviews will not be binding on CFRG, but are intended to provide high-quality input to augment the usual development process for CFRG drafts.
 Reviews will identify issues - both security issues and deployment issues - but not necessarily low-level nits and typos. Reviews will also identify relevant research, or the need for further research.
 
-Processes:
+### Processes
+
 When CFRG chairs decide that a document would benefit from a panel review, they will select one or more reviewers and request a review within a given time period (typically 2 to 4 weeks). Reviews will be made public via the CFRG mailing list; private discussion between reviewers, authors and CFRG chairs may also take place.
 A document's authors may identify conflicts and conflicts of interest with particular panel members. Such conflicts should be notified to the CFRG chairs by the authors (or panel members) when the chairs initiate the review process.
 Not every CFRG draft needs to be reviewed by the panel; documents that are not CFRG drafts may also be reviewed by the panel.
@@ -94,6 +94,12 @@ Being a panel member represents a commitment to review documents in a timely and
 | Julia Hesse | draft-irtf-cfrg-spake2-21 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/PW_Mm1T0nk-GLreqRHaMTW_ppKg/> | 07 Sep 2021 |
 | Karthikeyan Bhargavan | draft-ietf-lwig-curve-representations-21 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/qB5WvocRX9o_UyOdeHw_L2GSaBY/> | 12 Nov 2021 |
 | Scott Fluhrer | draft-bar-cfrg-spake2plus-04 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/icYpH34oTXVmGAxIzpQ7I-J-PZo/> | 14 Jan 2022 |
+| Virendra Kumar | draft-irtf-cfrg-voprf-09 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/QXC3drh1hs-XGkXyjwyCj_pFNNI/> | 13 Mar 2022 |
+| Ludovic Perret | draft-fluhrer-lms-more-parm-sets | <https://mailarchive.ietf.org/arch/msg/crypto-panel/8wTKXrly_H99FCZvZ-ScE5na0Tg/> | 30 Jun 2022 |
+| Julia Hesse | draft-irtf-cfrg-voprf-12 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/lHye9ZZYQBJJJcsBxKoGU4hVp2c/> | 25 Aug 2022 |
+| Thomas Pornin | draft-irtf-cfrg-frost-08 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/bPyYzwtHlCj00g8YF1tjj-iYP2c/> | 02 Sep 2022 |
+| Bjoern Tackmann | draft-irtf-cfrg-rsa-blind-signatures-04 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/x4BUsorqE6AArD2DVWaweIxR8Ys/> | 29 Sep 2022 |
+| Thomas Pornin | draft-irtf-cfrg-ristretto255-decaf448-04 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/IBS41aU6OOUOPW-QvwxSov-ccW8/> | 23 Nov 2022 |
 
 ##  Reviews done for the PAKE selection process
 

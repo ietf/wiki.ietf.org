@@ -2,7 +2,7 @@
 title: HTTP/2.0 Requirements
 description: 
 published: true
-date: 2022-12-14T19:38:06.563Z
+date: 2022-12-14T19:49:50.115Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T19:38:06.563Z

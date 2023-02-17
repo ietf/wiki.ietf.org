@@ -1,8 +1,8 @@
 ---
-title: Multiprotocol Label Switching (MPLS) Working Group
+title: MPLS WG - Multiprotocol Label Switching
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2022-12-15T16:20:58.881Z
+date: 2023-01-05T15:03:55.793Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z
@@ -18,7 +18,7 @@ The content of the old wiki will be kept unchanged, though sometimes informatiio
 Information from the Open DT from the previous wiki can be found at;
 https://trac.ietf.org/trac/mpls/wiki/MPLSOpenDT
 
-The content of the old wiki will be kept unchanged, though sometimes informatiion will be migrated here.
+The content of the old wiki will be kept unchanged, though sometimes information will be migrated here.
 
 ## Open DT meetings
 Prior to the IETF 115 the  Open DT has been meeting on a weekly basis. We had plans to go back to the normal working group processes, however we have found some issues that makes it preferable to continue the weekly meeting for the time being. After the IETF 115 the MPLS Network Actions (MNA) work will be discussed in Open DT meetings "on demand". The MPLS, PALS and DETNET working group chairs has issuedd the following statement:
@@ -29,6 +29,19 @@ Prior to the IETF 115 the  Open DT has been meeting on a weekly basis. We had pl
 - [Open-DT-Meeting-2022-12-01](/group/mpls/2022-12-01)
 
 - [Open-DT-Meeting-2022-12-15](/group/mpls/2022-12-15)
+
+- [Open-DT-Meeting-2022-12-29](/group/mpls/2022-12-29)
+
+- [Open-DT-Meeting-2023-01-05](/group/mpls/2023-01-05)
+
+### MPLS Network Action document
+- [MNA Documents](/group/mpls/MNA-docs)
+This page has been copied from the old wiki.
+
+### MPLS Open DT Action Items
+
+- [MNA Action Items](/group/mpls/MNA-action-items)
+This page has been copied from the old wiki.
 
 ### Webex for Weekly Meetings
 

@@ -2,7 +2,7 @@
 title: Design Team on Diameter Extensibility
 description: Design Team on Diameter Extensibility
 published: true
-date: 2022-12-06T22:39:05.038Z
+date: 2023-01-13T20:54:41.102Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:39:05.038Z
@@ -128,3 +128,11 @@ Adding an AVP with the M-bit in the MUST column of the AVP flag table to an exis
    However, the encapsulated AVPs with 'M' (mandatory) bit set MUST belong to the Diameter application the Grouped APV is used in.
 
    The rule applies even if the encapsulated AVP with its 'M' (mandatory) bit set is further encapsulated within other sub-groups; i.e. other Grouped AVPs embedded within the Grouped AVP.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2008-09-21. It was migrated from the old Trac wiki on 2023-01-13.*

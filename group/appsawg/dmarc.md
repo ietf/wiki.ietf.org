@@ -2,12 +2,11 @@
 title: DMARC
 description: 
 published: true
-date: 2022-11-05T14:33:24.517Z
+date: 2022-11-29T19:41:15.018Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:33:24.517Z
 ---
-
 
 ``` 
 Here is some draft text to consider for a DMARC working group charter:

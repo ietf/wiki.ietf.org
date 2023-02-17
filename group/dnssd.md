@@ -1,8 +1,8 @@
 ---
-title: Extensions for Scalable DNS Service Discovery (dnssd)
+title: DNSSD WG - Extensions for Scalable DNS Service Discovery
 description: Wiki for DNSSD WG
 published: true
-date: 2022-12-07T00:02:07.922Z
+date: 2023-01-24T20:52:22.796Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-07T00:02:07.922Z
@@ -76,3 +76,11 @@ dateCreated: 2022-12-07T00:02:07.922Z
        *   How do proxies fit into the architecture
        *   What is ‘stale’ information? 
    *   Should we push ahead with a form of DNS-LLQ here (see above)? 
+   
+   &nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2015-07-22. It was migrated from the old Trac wiki on 2023-01-24.*

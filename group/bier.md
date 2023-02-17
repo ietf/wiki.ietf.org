@@ -1,8 +1,8 @@
 ---
-title: Welcome to BIER(Bit Indexed Explicit Replication) working group
+title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2022-11-05T16:35:42.289Z
+date: 2023-01-13T02:22:28.000Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -68,3 +68,11 @@ You are welcomed to contribute to this item.
  - **BIER Deployment Evaluation:** 
 
 Require a deployment experience draft describing the benefits, problems, and trade-offs for using BIER instead of traditional multicast forwarding mechanisms. Ideally, this should also contain an analysis of the impact and benefit of the new BIER data-plane to the overall Internet architecture.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2016-04-18. It was migrated from the old Trac wiki on 2023-01-12.*

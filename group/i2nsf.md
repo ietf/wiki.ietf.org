@@ -1,8 +1,8 @@
 ---
-title: Interface to Network Security Functions (I2NSF) 
+title: I2NSF WG - Interface to Network Security Functions
 description: Wiki for I2NSF WG
 published: true
-date: 2022-12-09T21:19:32.287Z
+date: 2023-02-14T22:51:35.638Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:19:32.287Z
@@ -45,3 +45,13 @@ IETF 97 Hackathon - I2NSF
 ## Contacts
 
 Any questions or suggestions regarding I2NSF's work can be directed to the [I2NSF mailing list](https://www.ietf.org/mailman/listinfo/i2nsf/).
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2017-06-09. It was migrated from the old Trac wiki on 2023-02-14.*

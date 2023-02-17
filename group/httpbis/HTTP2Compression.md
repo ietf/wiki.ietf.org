@@ -2,7 +2,7 @@
 title: HTTP/2 Header Compression
 description: HTTP/2 Header Compression
 published: true
-date: 2022-12-13T23:05:26.634Z
+date: 2022-12-13T23:05:29.800Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T23:05:26.634Z

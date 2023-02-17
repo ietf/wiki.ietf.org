@@ -1,0 +1,197 @@
+IPsecME WG
+Interim Meeting
+2009-09-22, across many different timezones
+Using TeamSpeak for voice
+Co-chaired by Yaron Sheffer and Paul Hoffman
+Minutes by Paul Hoffman
+
+Slides and agenda are at http://trac.tools.ietf.org/wg/ipsecme/trac/wiki/Interim20090922
+These minutes only cover things not in those slides
+Recording is at http://www.vpnc.org/IPsecMEinterim-2009-09.mp3
+
+Attendees (virtual bluesheet):
+	Dave Wierbowski
+	Dragan Grebovich
+	Gabriel Montenegro
+	Guy Snyder
+	Hannes Tschofenig
+	Jean-Michel Combes
+	Jouni Korhonen
+	Julien Laganier
+	Kalyani Garigipati
+	Ken Grewal
+	Michael Richardson
+	Paul Hoffman
+	Peny Yang
+	Raj
+	Richard Graveman
+	Scott Moonen
+	Sheila Frankel
+	Tero Kivinen
+	Yaron Sheffer
+	Yoav Nir
+
+Agenda bash, document status
+	Yaron and Paul
+	This is an official interim, we follow the same rules as a regular f2f meeting
+	Start with short reports on current documents, minus AES-CTR
+	No changes or additions from the room
+	draft-ietf-ipsecme-ikev2-redirect has been approved for RFC production
+	draft-ietf-ipsecme-ikev2-ipv6-config is in AD review
+
+AES-CTR
+	draft-ietf-ipsecme-aes-ctr-ikev2
+	Discussion by Yaron
+	Is in WG Last Call
+	Need more comments
+
+ESP-null heuristics
+	draft-ietf-ipsecme-esp-null-heuristics
+	Discussion by Tero
+	There are a few more comments, there will be a revision
+
+Roadmap
+	draft-ietf-ipsecme-roadmap
+	Discussion by Sheila
+	Combined algorithms  for IKEv1 and IPsec-v2
+		Scott: thinks it's fine to do in IKEv1
+		Sheila: We can assume that we are using IKEv1 with the new IPsec
+		Tero: Should be able to used.
+		Sheila will add wording to make using IKEv1 less murky
+	Does IKEv2 truncate its ICV?
+		Scott: Some IKEv2 transforms are defined for both truncated and non-truncated forms
+		Sheila: Can you negotiate either form?
+		Scott: Yes
+		Tero: Non-truncated version is mostly used only for FibreChannel
+			Do whatever the negotiated algorith says
+		Sheila: Should we put something in the doc about the two forms?
+		Paul: Yes, add a clarification, and we should add that clarification in IKEv2bis
+		Paul: Keep moving, don't wait for IKEv2bis
+	Use of AES-XCBC in IKE
+		Paul: It sounds like RFC 4109 needs to be revised
+		Yaron: Roadmap should say that it is currently undefined
+			Say that it is a bug in the spec
+	Internet Drafts included in roadmap
+		BEET has encountered resistance in the IETF, and it might be abandoned
+		What about expired drafts that will never become RFCs
+			Some were not progressed because of security concerns
+		Tero: If you implement road warrior with IKEv1, you have to support both drafts
+			Most support some version of the drafts
+		Hannes: Maybe this means this should be an Informational RFC
+		Tero: But there are serious security problems
+			If people move to IKEv2 we don't need these
+			Adding some pointer to the drafts, but think hard before implementing them
+			Say "there is a good reason why they are expired"
+		Paul: Not true that everyone needs to implement them.
+			VPNC sees only about half the vendors have implemented them.
+			Worse, people have implemented them incorrectly for what they indicate they are doing
+			There were other ways of doing XAUTH that did get into implementations
+			Say "There have been various ways of doing configuration and extended auth"
+				But don't list any drafts
+		Michael: We have to mention them and say that they were bad, the ideas are in IKEv2
+			Would like th see the two drafts put somewhere and listed as "do not implmement"
+		Yaron: Supports Tero's position, do need to metion them by name
+		Tero: Wants a big warning that they are not safe to implement
+		Sheila: Will add text to mention the problems in the IKEv1 description
+		Paul: We will need a second WGLC on these issues anyway
+	Camellia for IKEv2 :undefined (no RFC)
+		Tero: We use the same IANA numbers for IPsec and IKEv2
+			You get the IKEv2 number automatically
+			Hopes that the combined mode doc for ESP can be used in IKEv2
+			IKEv2 tells how to use CBC, and the same for combined mode
+			Wanted this for the AES-CTR
+		Paul: Concern for making CTR generic is that we can only do it for what we know today
+			People can write short documents if they want a CTR mode for a function
+		Tero: The Camellia people failed to make their document specific enough for IKEv2
+			Wants to limit the number of RFCs for cipher
+		Paul: Agree that we don't want separate drafts for ESP and IKEv2
+			Disagree about wanting to limit the number of RFCs
+		Yaron: Are there others?
+		Tero: No
+		Yaron: Then let's leave the AES-CTR alone and let the Camellia people do their own thing
+	We need to open each of these issues in the issue tracker
+		No formal WGLC again, but need to close out the new issues
+		Then have a new document and go to AD
+	Will reformat the document to help make following specific documents easier
+
+Session resumption
+	draft-ietf-ipsecme-ikev2-resumption
+	Discussion by Yaron
+	Peny: Understands that resumption detection is out of scope
+		Maybe we can have more text to discuss the risks of not detecting resumption
+	Paul: Wants specific wording sent to the list so we can decide if it should remain out of scope
+	Yaron: It needs to remain out of scope
+		There are already two drafts on how to do quick, secure detection
+		Doesn't want the proposed new text to be so specific that it would show preference towards one over the other
+	Paul: Maybe have the issue brought up in the Security Considerations
+	Yaron: There is a new section in -08 that may already cover this sufficiently
+	Paul: If Peny has specific issues with that new text, please bring it to the list.
+	Peny: Wants to know the rationale for 4.3.4 for silently deleting old SA
+		Maybe the gateway can just reject the resumptions request
+	Yaron: This is an anomalous case where the client detects a failure but the gateway is not sync'd
+		It does not mean that the client is mailicious
+		There is nothing you can do with the old stuff, so you just delete it
+	Peny: The client might have been deceived
+		The gateway should not have to delete it because there is more work for the gateway
+	Paul: Disagrees that we need to worry about how much work the gateway has to do
+	Tero: From the client's point of view, it has lost its SA, and that's why it is resuming
+		The gateway should assume the same thing, namely that the client has lost its SA
+		There is no reason to send a delete on the old SA because it is dead
+		Also: the client is asking for conflicting traffic selectors, so get rid of the old ones first
+	Peny: Disagrees that the client would only do resumption when it has lost the SA
+		Might do it when it detects the failure of the gateway
+	Tero: If the gateway has failed, it has no SAs up
+	Paul: Please take this to the list
+	Peny: Brings up old topic
+	Paul: This is not a good place to be discussing this
+		WG chairs are tasked with deciding consensus
+		If you disagree with a consensus call, take it to the AD
+
+WESP
+	draft-ietf-ipsecme-traffic-visibility
+	Discussion by Ken and Gabriel
+	One proposal is to have flexible padding length
+		Pad lengths can be extended in the future
+		We know we need pad of four bytes for IPv6
+	Tero: How are you planning to handle for the IANA registry?
+		IANA registry will have bit numbers, but not the pictures
+	Gabriel: The whole field is called the Flags field
+	Lots to discuss on the list
+	Yaron: Padding options looks too complex, would prefer one bit that means "extra four bytes"
+	Tero: Agree
+	
+Possible recharter items
+	IPsec/IKE High Availability (draft-nir-ipsecme-ipsecha)
+		Discussion by Yoav
+		Tero: Doesn't think that the IKEv2 state needs any help from the other end
+			Sync channel will not be problem for IKEv2 messages, but will be for ESP
+		Yaron: The proposal is not to have just a problem statement like this document
+			We want to have a solution as a WG item
+		Tero: Doesn't think this a problem big enough for a WG item
+		Kalyani: Thinks that this is a big enough problem in many scenarios
+		Tero: The sync channel has not been a big issues for my customers
+			Doesn't need protocol help
+		Raj: May need protocol help
+		Yoav: If there is a failure, it is much harder to sync the HA
+			Need some help here		
+	IKEv2 message ID and HA
+		Discussion by Kalyani
+		Yaron: Please use the standard Internet Draft format in the next draft
+		Raj: If we implement this solution but not in a cluster, it looks like session resumption
+		Kalyani: This could also be used for resyncing peers (gives scenarios)
+		Paul: We need a draft in front of us in order to continue the discussion
+		
+IKEv2bis open issues
+	draft-ietf-ipsecme-ikev2bis
+	Skipped the presentation because we only have ten minutes left
+	Certificate issues came up in issue #107
+	Presentation by Yaron
+		Yoav and Yaron came up with a list of possible issues
+		Tero: Maybe allow hash-and-URL along with bundles
+		Need to consider what will make things simpler
+		We will have a bunch of new certificate issues on the list
+	A new draft of IKEv2bis will be out early the week of 2009-10-05
+	We know that some issues will be re-opened
+	We are slipping from when we wanted WG LC, but the reasons are good, namely that we are hearing good implementer comments
+
+Finished in two hours

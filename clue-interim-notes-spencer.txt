@@ -1,0 +1,221 @@
+Wednesday, Oct. 12th - 8:30ish-13:00
+Notes by Spencer Dawkins
+
+
+RTP Issues - Jonathan Lennox
+ 
+SSRC Multiplexing - Asserting that CLUE should use a single RTP session per media type, multiplexing sources by SSRC.
+ 
+Why not per capture set? Number of capture sets could also be large and asymetric.
+ 
+SSRC should be associated with "real" resources? SSRC is the switched source, CSRC is the physical source?
+ 
+Not possible for individual cameras to generate their own streams? Is that just not done? Is because of key distribution, which is a hard problem anyway.
+ 
+Would you change SSRCs at the middlebox, or just switch them? Matters because of multiplexing ...
+ 
+SSRC as a way of identifying who you're seeing, having a switching middlebox change that is a problem. But can't devices change their SSRCs at any time? If there's a collision, or ...
+ 
+This is a layering thing - I'm interested in left screen/right screen. Releationship needs to be in the signaling layer. This is turning into a protocol discussion, but we need to handle the relationship.
+ 
+The same thing is happening in RTCWeb. Jonathan - we should have these conversations in AVTCORE, not here.
+ 
+Do we have to have one m-line with all the choices? If you have two m-lines with one RTP session, that's when we have problems.
+ 
+Steven - binding SSRCs to captures should happen up front.
+ 
+Andy thought this was orthogonal to SSRC multiplexing.
+ 
+Roni - we had this conversation in RTCWeb.
+ 
+Jonathan - when you send a request to see a capture, you say "add this byte as an RTP extension header" as well. You get your own demux tag and can do what you need to do based on the tag you provided. Don't need to standardize meaning, just pick the right demux tag.
+ 
+Hadriel trying to avoid changing the format of RTP packets :-)
+ 
+Paul - sender has to keep per-receiver RTP state because the demux byte would be different for each receiver. Issue for RTPWeb was interop with devices that don't do multiplexing.
+ 
+Stephen - we have a set of RTP sources that need to be grouped.
+ 
+Jonathan thinks we need to know this mapping before you can display anything.
+ 
+Roni - issue is when someone joins a conference. How do you get the state of the conference?
+ 
+Some semantics of SDP descriptions of heavily-muxed sessions get confusing (this is a problem for AVTcore and MMUSIC, not for Clue).
+ 
+We need RFC 5576 source descriptions in SDP if CLUE is encoded in SDP - less clear if it's not.
+ 
+Andy and Mark - separating m-lines by roles is the wrong thing to do.
+ 
+Jonathan - don't have two m-lines unless you have two physical sources - then you have to.
+ 
+Hadriel - if there's a valid reason you have to do something, you have to do it - doesn't matter why.
+ 
+H.281 FECC is broken - assumes you know which camera you're controlling, no way to specify which stream you're controlling in a session.
+ 
+- Options to Transport CLUE Messages - Stephan
+ 
+Chartered to use SIP, but we're doing a three-stage handshake, not offer-answer. Would be desirable to have one exchange, but that's not compatible with the current framework draft.
+ 
+Is there a conceptual difference between the initial information communicated, and the information communicated during the session lifetime? We think not.
+ 
+Could piggyback on INFO, UPDATE, Re-INVITE, could do content indirection using multi-MIME body, use CLUE stream as SIP-negotiated "media" stream.
+ 
+Re-INVITE is the wrong answer because current devices re-initialize EVERYTHING when they see re-INVITEs.
+ 
+SIP-negotiated assumed to use UDP and MSRP. CLUE messages may not fit into one MTU. ICE-TCP could be an alternative. Proposing BFCP-like handshake.
+ 
+Not constrained to use SDP, XML is "natural candidate". Gonzalo, Roni, Stephan to write -00 draft (but Gonzalo is not advocating this).
+ 
+Hadriel - why are we doing this again? Take this to RAI and tell them MSRP doesn't work?
+ 
+How often are these messages? every few messages, but may be bursty.
+ 
+What's wrong with INFO? Maybe nothing ... the INFO problem was old-style INFO, without packages.
+ 
+What's wrong with MEDIACTRL? Would be a good candidate, but not sure anyone has looked at MEDIACTRL. MEDIACTRL is TCP-based ("that won't work").
+ 
+Paul - similar discussions in SIPREC. Looked at SIP (same questions, same constraints). Discarded INFO because if you could piggyback on INVITE, you could use the same mechanism on UPDATE/Re-INVITE. Decided to use SIP over TCP in restricted environment.
+ 
+Stephan - don't think we should care about size of CLUE packet.
+ 
+Steven - m-line approach will allow peer-to-peer, but do people need that?
+ 
+*Spencer - still concerned about application-by-application UDP-ization. Need to solve this via indirection. TCP over UDP or something. ("RTCWeb is going to do this anyway")
+ 
+Jonathan - some of this maps to SIP SUBSCRIBE/NOTIFY operation (partial updates of a roster, etc.)
+ 
+Gonzalo - need to look at burstiness.
+ 
+Allyn - also did analysis of MEDIACTRL and came to same conclusions.
+ 
+How big can these messages get?
+ 
+Do we have a bunch of people who have a preference for SIP and a bunch of people who have a preference for media streams?
+ 
+Need to know what we're sending before we can do anything.
+ 
+Stephen - in some cases, we're looking at CLUE messages that are multiple KBs. Have to design for that.
+ 
+Allyn - "reliable UDP"?
+ 
+Spencer - we had the conversation about TCP-over-UDP in like 2007 during LEDBAT discussions and decided not to go that way. It's four years later now. How much longer are we going to go the way we're going?
+ 
+Gonzalo - we should have a BOF about this.
+ 
+Stephen - with 100 meeting rooms, you'll be transmitting often.
+ 
+Marshall - we need to worry about congestive collapse, because we send out different CLUE messages when participants fall out of the conference :-(
+ 
+- Mark and Brian - Capture topics
+ 
+No need for receiver to render as an exact duplicate of sending room - just make it useful.
+ 
+Stephen - if you can do geometric correction, we need to accommodate that. But we'll discuss offline.
+ 
+Marshall - this is MUST versus MAY - X positions is a MUST. We need adjacencies. Everything else is MAY.
+ 
+Stephen - but don't restrict your syntax so much you can't include Y and Z - it will be difficult to add this later.
+ 
+Do we want to allow both cartesian and polar systems, but not require both of them?
+ 
+Steven - the reason this works in practice is that camera angles are almost always perpendicular to the participants.
+ 
+Stephen - Looking for a requirement to support curved conference tables, etc.
+ 
+Andy - if you have XYZ for camera and for participants, you can figure anything out.
+ 
+Roni - need to be very clear about assumptions and what happens when they don't apply.
+ 
+Brian - need to enable highly accurate representation, but don't want to require that.
+ 
+Brian - if you're not doing gap correction, you don't need a perfect description.
+ 
+Brian and Roni will chat about what it means to have a "good rendering experience".
+ 
+Hadriel - why do we have to define units for XY? why would we have anything BUT millimeters? Whenever you have options, you have interop problems. Even in synthetic scenes - synthesize XY, too.
+ 
+Mark - receiver would like to know that the XY is NOT millimeters.
+ 
+Jonathan/Steven - you want people to be actual size. You can blow up presentations, but not people.
+ 
+Hadriel - are moveable cameras out of scope? How does that work when cameras move around?
+ 
+Brian - could give view of entire potential range, could provide updates, could punt on first down.
+ 
+Hadriel - are moveable tables out of scope? Having harder and harder time to think XY will ever be meaningful.
+ 
+Mark - moveable cameras today have a small number of presets - you don't support all possible XY values.
+ 
+Need to talk about "good experience" one of these days ... :D
+ 
+Brian - want to provide something simple, allow for something more complex ...
+ 
+Steven - don't negotiate simple versus complex - subset so you have something simple.
+ 
+Mark - answer also depends on where camera is, and where it's pointing.
+ 
+Stephen - just pick an "undefined" value - don't negotiate whether you send something or not.
+ 
+Roni - various X values need to use the SAME units (so 100-wide objects are all to scale), and Y values need to use the same units as X values.
+ 
+Allyn - concerned that we might build a system that's extremely correct but not usable. Don't want to put in things that no one will use. We're talking about things that implementers aren't using today, and aren't planning to use in the future.
+ 
+Marshall - this is a red herring - there's no CLUE yet, right?
+ 
+Stephen - but stuff can be on roadmaps we can't talk about, and we might just not know the future.
+ 
+Marshall - of course no one is using this information, because there's no protocol to carry it (no CLUE yet).
+ 
+Allyn - but implementers say they don't know how to use this information even if they DID have it now.
+ 
+Hadriel - think of "simple" from an installer's perspective. If it's complicated to install, no one will use it. If people don't use it, that's not useless, it's dangerous. If people are going to use it, put it in.
+ 
+- Source Selection in CLUE - Jonathan Lennox
+ 
+"Static" source selection - "pinning". "the current speaker and my boss's reaction"
+ 
+Senders and receivers don't want to send two copies of the boss's stream if the boss is ALSO the speaker. Do we need to specify what happens when the boss starts speaking?
+ 
+Scene information from CLUE plus roster information from something like XCON - associate both? potentially a lot of information as people join/leave.
+ 
+Steven - how far do we need to go in the first version of the protocol? most controls don't get used much.
+ 
+Jonathan - my understanding is that this is cultural.
+ 
+Steven - might be.
+ 
+Jonathan - there are cases where I'm permanently looking at someone small, and switching between images that are big.
+ 
+Marshall - if you don't understand information, you don't switch - that's the proposal.
+ 
+Roni - this is video, right? but not always.
+ 
+Allyn - need to think about interaction with rosters.
+ 
+Rosters are "out of scope" - what does that mean for CLUE in practice?
+ 
+What if you offer multiple views of yourself? :D
+ 
+Conversely - "I never want to see/hear this person".
+ 
+Paul - remember that we want to see/don't want to see captures, not people.
+ 
+We're back to assuming XCON or something similar.
+ 
+Jonathan - use case coverage of this is sketchy, requirements don't mention this at all.
+ 
+- Chair Discussion - Mary and Paul
+ 
+Ready to adopt Framework draft? Is this a data model? and/or a framework?
+ 
+Part of document is framework, some is protocol - split them? attributes are the data model.
+ 
+Is there going to be an update before we adopt as clue-00? We'll look at issues before we decide.
+ 
+Roni thinks there will be many changes - would like to see revisions.
+ 
+Does anyone disagree with adopting now and making changes to WG draft?
+ 
+Humming to adopt - strong sense of the room to adopt now.
+ 
+(I stopped typing because Mary was going through the slide with our open issues list)

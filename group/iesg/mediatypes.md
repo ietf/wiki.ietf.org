@@ -2,7 +2,7 @@
 title: Media Types
 description: 
 published: true
-date: 2022-09-16T14:25:30.262Z
+date: 2022-11-29T19:38:40.534Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T15:15:13.990Z

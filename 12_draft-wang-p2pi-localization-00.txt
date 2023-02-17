@@ -1,0 +1,269 @@
+P2PI Workshop                                                   Y. Wang 
+                                                                 S. Tan 
+                                                               R. Grove 
+Internet Draft                                                Microsoft 
+Intended status: Informational                              May 9, 2008 
+Expires: November 2008 
+                                    
+ 
+                                      
+     Traffic Localization with Multi-Layer, Tracker-Based Peer-to-Peer 
+                     Content Distribution Architecture 
+                    draft-wang-p2pi-localization-00.txt 
+
+
+Copyright Notice 
+
+   Copyright (C) The IETF Trust (2008). 
+
+Abstract 
+
+   The goal of this document is to provide a high level overview of the 
+   challenges to the infrastructure created by peer-to-peer 
+   applications coupled with the emergence of media-centric content. To 
+   illustrate the need for solution areas IETF could address, this 
+   document sketches out a straw man peer-to-peer content delivery 
+   framework based on a multi-layer tracker scheme to localize peer 
+   traffic. The mechanisms and protocols required to achieve traffic 
+   localization and to reduce impact on the infrastructure are 
+   summarized at the end. 
+
+1. Introduction 
+
+   Peer-to-peer (P2P) applications and the emergence of media-centric 
+   content present a host of challenges to the current Internet 
+   infrastructure. The delivery model for P2P systems differs from 
+   traditional distributed systems in the follow manner: 
+
+   1. Symmetric delivery (peer distribution) vs. asymmetric download 
+     (client/server) 
+   2. Multiple, concurrent, dynamic connections vs. single, static 
+     connection per content unit 
+   3. Routing at multiple layers vs. traditional end-to-end connection 
+     at the Network layer 
+
+   These new characteristics coupled with the growing size for rich-
+   media content stretch current network service provider 
+   infrastructure to the limit in handling the traffic. Capacity 
+   provisioning is falling behind demand. Recent, anecdotal report [1] 
+ 
+ 
+ 
+Wang, et al.           Expires November 9, 2008                [Page 1] 
+
+P2PI Workshop              P2PI Challenges                     May 2008 
+    
+
+   shows the 80/20 phenomenon in that a small portion of high volume 
+   users is consuming the majority of the bandwidth. Most of the 
+   regular user experience degrades as a result of the capacity 
+   exhaustion, and also because of the lack of an isolation mechanism 
+   for per-user or per-application traffic. 
+
+   There are several approaches to mitigate the problems, such as 
+   increasing the infrastructure bandwidth provisioning, reducing the 
+   traffic though codec optimization, selectively dropping traffic with 
+   layered encoding, or signaling and admission control to achieve 
+   fairness. For an infrastructure-centric approach, this document 
+   explores traffic localization to lessen the impact. The next section 
+   presents an example framework for P2P content delivery with traffic 
+   localization to illustrate some mechanisms and protocols required to 
+   achieve the desired results. 
+
+2. Straw Man P2P Content Delivery Architecture with Multi-Layer 
+   Trackers and Traffic Localization 
+
+   The framework described in this section is not a formal proposal for 
+   a solution, but rather a generic, albeit simplified example to 
+   demonstrate the need for several mechanisms to achieve traffic 
+   localization. It is built on a multi-layer, tracker-based P2P 
+   content delivery scheme [2], although the localization principle is 
+   applicable to other P2P streaming content types. 
+
+   In a normal tracker-based P2P system, a client searches an index to 
+   locate a tracker for the desired content. The tracker typically 
+   contains the content information, including seeds and active peers 
+   to retrieve various parts of the content. The retrieval can happen 
+   concurrently with multiple peer nodes and seeds based on a 
+   predefined scheduling algorithm. 
+
+   The multi-layered tracker scheme introduces additional trackers 
+   (local trackers) for the same content located in participating 
+   provider networks, each with seeds and peers for the content located 
+   within its network scope respectively. The key is how the initial 
+   query to the global tracker results in the right local tracker based 
+   on the network location of the client. There are two elements to 
+   this approach: 
+
+   1. The network locality algorithm to determine the "nearest" tracker, 
+     and also for selecting the seeds and peers within the local 
+     tracker 
+   2. The mechanisms to redirect the query from the global tracker to 
+     the selected local tracker 
+
+ 
+ 
+Wang, et al            Expires November 9, 2008                [Page 2] 
+
+P2PI Workshop              P2PI Challenges                     May 2008 
+    
+
+   Tracker redirection can be accomplished with the following options: 
+
+   1. Explicit delegation where each local tracker registers with the 
+     global tracker in advance, and the client will try to locate the 
+     nearest tracker for its provider network 
+   2. Implicit redirection where the infrastructure intercepts and 
+     redirects the original query to its local trackers 
+   3. Proxy-based approach where the service network provides a proxy 
+     for P2P services 
+
+   Among the redirection options listed, the preference is to adopt an 
+   explicit standard mechanism that is not in-path for both reliability 
+   and performance consideration. 
+
+   Once a tracker is located, the client may still need to determine 
+   the "closest" seeds or peers to further localize the traffic. The 
+   locality information can either be recorded in the tracker by the 
+   network operators (the oracle approach), or can be determined 
+   dynamically through network synthetic coordinate protocols similar 
+   to Vivaldi [3], but focus on network locality instead of latency. 
+   Network operators can further optimize the traffic by providing one 
+   or more local caches within their networks as content seeds or 
+   regular peers in the local trackers. The cache can be provisioned 
+   beforehand with content providers or on demand upon the first 
+   request. 
+
+   The same approach for multi-layered trackers and traffic 
+   localization also applies to streaming content types. Although in 
+   the streaming distribution, a cache or proxy becomes necessary as an 
+   aggregation point for a provider network that both aggregates the 
+   streaming data from the source (or the global P2P delivery network) 
+   and serves all the local participating peers. 
+
+   This simple example highlights the need for network synthetic 
+   coordinates, either through operator provisioning or dynamic 
+   measurements, and the need for a generic tracker redirection or 
+   delegation mechanism. Note though there are two additional aspects 
+   not covered in this example: a federation-based authentication 
+   and/or authorization scheme if necessary, and cross-layer topology 
+   matching to improve traffic efficiency, especially for ad hoc, 
+   wireless networks. 
+
+3. Summary - Potential Solution Areas 
+
+   This section summarizes the potential work areas for IETF. It is not 
+   the intent of this document to provide details for each target 
+   areas, but merely the high level requirements and rationales. 
+ 
+ 
+Wang, et al            Expires November 9, 2008                [Page 3] 
+
+P2PI Workshop              P2PI Challenges                     May 2008 
+    
+
+3.1. Network Synthetic Coordinate Protocol 
+
+   This is the key element for localizing the traffic. It is used to 
+   select both the nearest local tracker for a client and the nearest 
+   seeds and peers within from the tracker to limit the scope of the 
+   traffic. Network operators can also utilize this protocol to 
+   construct a pseudo network map (i.e., the oracle). A solution should 
+   take into account both the relative coordinates between node 
+   addresses in question and the condition of the network traffic 
+   whenever possible. From an infrastructure perspective, the notion of 
+   "scope" and the capability to administratively inject or define 
+   scopes in the coordinate systems are also necessary. 
+
+3.2. Multi-Layer Tracker Redirection 
+
+   It is useful to standardize on the redirection mechanism for similar 
+   type of multi-layer tracker architecture. The redirection will work 
+   in conjunction with the network coordinate measurement to direct a 
+   client query to the nearest local tracker. Off-path, explicit 
+   mechanisms are preferred for reliability reasons because it will be 
+   easier to diagnose, and can avoid introducing new bottlenecks to the 
+   packet flow. 
+
+3.3. Cross-Layer Topology Matching 
+
+   Topology matching between the overlay and the underlying Link layer 
+   affects the efficiency especially in ad hoc wireless networks. 
+   Topology mismatch may cause a single hop between two peer nodes to 
+   traverse multiple hops in the Link layer topology unnecessarily, 
+   often results in redundant packets over the same physical link.  
+
+3.4. QoS-Related Signaling and Admission Control 
+
+   QoS signaling and admission control are not considered for this 
+   solution. The notion of end-to-end path reservation based on QoS 
+   policy [4] is not scalable in the Internet scale. Any packet marking 
+   scheme [5] suffers from the tragedy of the commons problem. Note 
+   though these may work in a closed environment or within a single 
+   provider network. 
+
+4. Security Considerations 
+
+   Security considerations are not addressed in this document. 
+
+
+
+
+ 
+ 
+Wang, et al            Expires November 9, 2008                [Page 4] 
+
+P2PI Workshop              P2PI Challenges                     May 2008 
+    
+
+5. Acknowledgments 
+
+   This document has benefited from discussion with Scott Briggs, Nick 
+   Holt, Paul Harris, and Tyler Barton. 
+
+References 
+
+   [1]   http://gigaom.com/2008/04/22/shocking-new-facts-about-p2p-and-
+         broadband-usage/ 
+
+   [2]   Cohen, B. "The BitTorrent Protocol Specification," BEP-003, 
+         http://www.bittorrent.org/beps/bep_0003.html, January 2008. 
+
+   [3]   Dabek, F., Cox, R., Kaashoek, F., and R. Morris, "Vivaldi: A 
+         Decentralized Network Coordinate System," SIGCOMM 2004, August 
+         2004. 
+
+   [4]   Braden, B., Zhang, L., Berson, S., Herzog, S., and S. Jamin, 
+         "Resource ReSerVation Protocol (RSVP) -- Version 1 Functional 
+         Specification", RFC 2205, September 1997. 
+
+   [5]   Nichols, K., Blake, S., Baker, F., and D. Black, "Definition 
+         of the Differentiated Services Field (DS Field) in the IPv4 
+         and IPv6 Headers", RFC 2474, December 1998. 
+
+Authors' Addresses 
+
+   Yu-Shun Wang 
+   See-Mong Tan 
+   Rich Groves 
+    
+   Microsoft Corp 
+   One Microsoft Way 
+   Redmond, WA 98052 
+   US 
+       
+   Phone: +1 425 722 6980 
+   Email: yu-shun.wang@microsoft.com 
+
+
+
+
+
+
+
+
+
+ 
+ 
+Wang, et al            Expires November 9, 2008                [Page 5] 
+

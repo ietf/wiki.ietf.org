@@ -2,7 +2,7 @@
 title: Formal Verification of Protocols
 description: IETF protocols have benefited from the research community conducting formal verification of their security properties.  The IETF welcomes such analysis.
 published: true
-date: 2022-11-14T20:27:01.777Z
+date: 2022-11-29T19:42:50.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:27:01.777Z

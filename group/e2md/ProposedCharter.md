@@ -2,7 +2,7 @@
 title: E2MD Proposed Charter
 description: Proposed charter: State 2010-07-10
 published: true
-date: 2022-12-02T16:33:36.671Z
+date: 2022-12-02T16:33:41.784Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:31:34.844Z

@@ -1,0 +1,43 @@
+Anima charter issues noted 2014-08-31
+
+1. Need for a problem statement is addressed in v7 but not all points covered:
+- mention operational costs/staffing 
+- show relevance to AN specifically 
+- mention self-managing properties, closed loop control & device-to-device communication aspect 
+- mention one or two example parameters/functions
+- be clear about overall objective 
+
+2. Charter currently jumps straight to goals - needs bridging logic 
+
+3. Must be clear why initial focus is on specific reusable infrastructure
+components and one or two elementary use cases/service agents (avoiding
+contentious terms like "generic" and "unified")  
+
+4 Mention scope question (local, admin domain, multi-domain) 
+
+5. Specify address prefix use case & service agent as in scope. 
+
+6. Other use cases/service agents could be in scope of discussion
+but not in initial chartered deliverables 
+
+7. Specify excluded topics that might be candidates for future work 
+  - analytics
+  - intent 
+  - other external information sources
+  - system-wide integration of autonomics 
+
+
+8. Define milestones in English, not in pseudo-draft names 
+
+9. Should relationship to NMRG be mentioned? Other use cases to NMRG? 
+
+10. Mention security more
+
+
+
+
+
+
+
+
+

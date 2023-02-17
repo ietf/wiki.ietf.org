@@ -2,7 +2,7 @@
 title: HTTP/2.0 Network Efficiency
 description: 
 published: true
-date: 2022-12-14T19:48:14.387Z
+date: 2022-12-14T19:48:17.478Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T19:48:14.387Z

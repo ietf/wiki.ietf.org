@@ -2,7 +2,7 @@
 title: Document Language Editing
 description: 
 published: true
-date: 2022-09-16T15:24:29.104Z
+date: 2022-11-29T19:38:44.150Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-16T15:24:29.104Z

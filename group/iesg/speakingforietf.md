@@ -2,7 +2,7 @@
 title: Speaking for the IETF
 description: 
 published: true
-date: 2022-09-14T14:40:24.871Z
+date: 2022-11-29T19:38:26.839Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-09-14T14:38:37.829Z

@@ -1,0 +1,90 @@
+Minutes of the interim virtual meeting of the IETF DNS Extensions
+Working Group
+
+2010-02-16 15:00 UTC
+
+via teleconference and Webex session.  Approximately 35 attendees.
+
+The meeting was chaired by WG co-chair Andrew Sullivan.
+
+The chair opened the meeting, apologised for some unexpected
+technical limitations.  The chair reminded everyone that the meeting
+is an IETF activity, covered by the Note Well statement and the
+relevant IPR rules, and that participants should "sign the blue
+sheets" by sending email to the chair noting their participation.
+The chair took names from the Webex session, but may not have access
+to the email addresses associated.
+
+The chair outlined the goals of the meeting, and opened the floor for
+discussion.  Remarks in favour of there being a problem to solve came
+from Vaggelis Segredakis, Paul Hoffman, and Sotiris Panaretou.
+
+The chair asked participants whether anyone thought there was
+not a problem to solve.  The chair heard nobody argue for this.
+
+The chair asked about acceptable limitations.  Does anyone think
+that what is really needed is a replacement of the DNS protocols?
+There were no responses.
+
+The chair next asked whether it is acceptable that zone administrators
+need to understand whether they are in a "canonical chain" or not.
+There was some discussion around this matter, with the initial
+observation that it was how things had to work today anyway.  Further
+discussion illuminated that the problem persists down the chain,
+because "variant" children down the tree might not realise that they
+are working in a variant space, and that there may be problems as a
+result.  Jim Reid worried that this could lead to a "hall of mirrors"
+and that the best answers therefore all lie in provisioning rather
+than DNS responses.  This led naturally to the presentation of the
+zone clone idea from Paul Vixie.
+
+The presentation offered a number of questions of detail that would
+need to be settled in order to standardize the zone clone proposal.
+Paul Vixie included some constraints on solutions in his presentation:
+
+-Must not require stubs or recursives to be upgraded, since there are
+millions of these and the tail is long
+
+- Must be an Internet Standard, not a proprietary or adhoc extension,
+to facilitate multivendor operation
+
+- Must not place any burden on registry, which may be regulated (so,
+autoinsertion into root zone, no!)
+ 
+- Authority server operators, protocol implementors, and registrars
+can accept burdens, since they have incentives, and are few in number
+
+After discussion, the chair asked for a sense of the WG.  There
+was considerable support heard for the constraints, and no
+opposition.  These therefore appear to be useful constraints on the
+WG's plans.  The chair understood the WG's desire to apply generally
+to work in this area, but subsequent conversations clarified that many
+participants thought the constraints to apply just to zone clones.  
+
+The chair summarized what he had heard from the WG during the meeting.
+It appears that the WG has eliminated "do nothing", "provisioning
+only", "CNAME-only" or "DNAME-only" approaches.  There was little
+discussion of the BNAME proposal.  There was no discussion of altering
+DNAME to allow inclusion of CNAME in the answer.  There was no
+discussion of other approaches.  So, from the WG's Wiki outline, items
+1, 2, 4, 5, and 6 all seem to be ruled out.  Item 3 appears to be an
+option.
+
+Items 7-9 are inconsistent with Paul Vixie's set of conditions.  The
+WG seemed to indicate that those conditions were the right ones.  At
+the meeting, the chair noted that items 7-9 had not been discussed,
+but since they are inconsistent with the apprehended view of the WG,
+they're not live options.  Everyone may not have realised this
+consequence [note: the chair didn't at the time] , so the WG chairs
+will treat this entailment as unsettled for the time being.
+
+The chair took names of people who are willing to work on the problem.
+There was enough indication of support to suggest that the WG might
+want to tackle the problem.  The next steps are to get solid drafts to
+evaluate, to ensure the problem statement is correctly narrowed in
+time for Anaheim, and to advertise part of the Anaheim meeting widely
+to attract as many interested parties as possible, in order to check
+assumptions before the WG progresses too far on this work item.  If
+that meeting is successful and clear in its outcome, then this item
+will be adopted as a WG work item with clear milestones.
+

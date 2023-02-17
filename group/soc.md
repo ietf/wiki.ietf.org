@@ -1,8 +1,8 @@
 ---
-title: The SIP Overload Control (soc) Working Group Wiki
+title: SOC WG (Concluded) - SIP Overload Control
 description: 
 published: true
-date: 2022-12-05T22:15:41.677Z
+date: 2023-01-04T22:44:48.214Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:15:41.677Z

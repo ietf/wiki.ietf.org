@@ -1,8 +1,8 @@
 ---
-title: Applications Area Working Group Wiki
+title: APPSAWG WG (Concluded) - ART Area General Applications Working Group
 description: This is used for recording things related to the Applications Area Working Group (appsawg) specifically, and the Applications Area in general.
 published: true
-date: 2022-11-05T14:42:44.016Z
+date: 2023-01-13T00:55:35.651Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:29:53.448Z
@@ -179,3 +179,11 @@ Reviewers:
 - Julian Reschke <julian.reschke@gmx.de>
 - Nico Williams <nico@cryptonector.com>
 - Sean Leonard <dev+ietf@seantek.com>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2015-01-20. It was migrated from the old Trac wiki on 2023-01-12.*

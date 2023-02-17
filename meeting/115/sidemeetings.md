@@ -2,7 +2,7 @@
 title: IETF 115 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 115
 published: true
-date: 2022-12-09T13:53:51.856Z
+date: 2023-02-02T12:18:17.796Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T18:33:50.867Z
@@ -63,12 +63,12 @@ Location: West Wing, First Floor
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |       
 |  11:00   |                  |          |             |                         |                      |                       |          
-|  11:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82 |   TBD  |   
-|  12:00  |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82 |   TBD  |
-|  12:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82 |   TBD  |
+|  11:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  [webex](https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82) |   TBD  |   
+|  12:00  |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  [webex](https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82) |   TBD  |
+|  12:30   |   IETF - ETSI IPE Side meeting  |   N/A  |   Latif Ladid latif@ladid.lu  | introduce to IETF individuals (1) IPE activities, including IPE role and scope, use cases, working items and (2) open discussion on IETF IPv6 protocol deployments  |  [webex](https://cisco.webex.com/cisco/j.php?MTID=m585f1d4bceaf1e5f7809a39d0d52af82) |   TBD  |
 |  13:00   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
-|  13:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk5Zjc5YTItYzE0Ny00YTAyLWJiOWItODIxMjBjZmQ2ODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d                    | -                      |         
-|  14:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk5Zjc5YTItYzE0Ny00YTAyLWJiOWItODIxMjBjZmQ2ODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d                    | -                      |          
+|  13:30   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com | YANG Semantic Versioning Integration into Apache Kafka Message Broker |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk5Zjc5YTItYzE0Ny00YTAyLWJiOWItODIxMjBjZmQ2ODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d)                    | -                      |         
+|  14:00   | YANG/CBOR Kafka |   OPS       | Thomas Graf thomas.graf@swisscom.com |  YANG Semantic Versioning Integration into Apache Kafka Message Broker |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk5Zjc5YTItYzE0Ny00YTAyLWJiOWItODIxMjBjZmQ2ODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d)                    | -                      |          
 |  14:30   |                  |          |             |                         |                      |                       |          
 |  15:00   |     |   |      |         |                      |                       |          
 |  15:30   |    |  |      |       |                      |                       |          
@@ -90,7 +90,7 @@ Location: East Wing, basement level -2
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
-|  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | [IETF capacity building for public policymakers](https://isoc.box.com/s/ejw018iy6wxnm74vqohb7p2gouqfqw0d)  |  https://isoc.zoom.us/s/81240826419 | TBS       |
+|  17:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | [IETF capacity building for public policymakers](https://isoc.box.com/s/ejw018iy6wxnm74vqohb7p2gouqfqw0d)  |  [Zoom](https://isoc.zoom.us/s/81240826419) | TBS       |
 |  18:00   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | idem  |  idem | TBS       |
 |  18:30   |  DCMS/ISOC Policy Program | N/A | Stacie Hoffmann (stacie.hoffmann@dcms.gov.uk) and Olaf Kolkman (kolkman@isoc.org) | idem |  idem | TBS       |
 {.dense}
@@ -103,7 +103,7 @@ Location: West Wing, 1st floor
 
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
-|  17:30   |  Public Interest Technology Group (PITG) | N/A | Corinne Cath-Speth (corinnecath@gmail.com) and Gurshabad Grover (gurshabad@cis-india.org) | Public interest technology group | https://us06web.zoom.us/j/89291161522?pwd=dUhoYXFmMkg0MFNoYVNReCtqc0xydz09 | -      |
+|  17:30   |  Public Interest Technology Group (PITG) | N/A | Corinne Cath-Speth (corinnecath@gmail.com) and Gurshabad Grover (gurshabad@cis-india.org) | Public interest technology group | [Zoom](https://us06web.zoom.us/j/89291161522?pwd=dUhoYXFmMkg0MFNoYVNReCtqc0xydz09) | -      |
 {.dense}
 
 
@@ -115,15 +115,15 @@ Location: Mezzanine Level
 | **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
 |  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| https://welink.zhumu.com/j/131832648 | TBD |
-|  08:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| https://welink.zhumu.com/j/131832648 | TBD |
-|  09:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| https://welink.zhumu.com/j/131832648 | TBD |
+|  08:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| [Zhumu](https://welink.zhumu.com/j/131832648) | TBD |
+|  08:30   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| [Zhumu](https://welink.zhumu.com/j/131832648) | TBD |
+|  09:00   |  side meeting on Metaverse | TSV, INT, RTG | Giuseppe Fioccola (giuseppe.fioccola@huawei.com) Shuping Peng (pengshuping@huawei.com) | Discussion about the related IETF technologies and understand what IETF can or cannot do on Metaverse| [Zhumu](https://welink.zhumu.com/j/131832648) | TBD |
 |  09:30   |                  |          |             |                         |                      |                       | 
 |  10:00   |                  |          |             |                         |                      |                       | 
 |  10:30   |                  |          |             |                         |                      |                       |         
 |  11:00   |                  |          |             |                         |                      |                       |         
-|  11:30   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          https://cisco.webex.com/cisco/j.php?MTID=m1d7f9106bf8938e58cc435ec2470f6ba   Password: XehPx4gtx25 (93479448 from phones)               |                       |  
-|  12:00   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |       https://cisco.webex.com/cisco/j.php?MTID=m1d7f9106bf8938e58cc435ec2470f6ba   Password: XehPx4gtx25 (93479448 from phones)            |                       |  
+|  11:30   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |          [Webex](https://cisco.webex.com/cisco/j.php?MTID=m1d7f9106bf8938e58cc435ec2470f6ba)   Password: XehPx4gtx25 (93479448 from phones)               |                       |  
+|  12:00   |  DMLMO Side meeting    | N/A  |   Marisol Palmero mpalmero@cisco.com     |   iteration of the model - comments to the draft      |       [Webex](https://cisco.webex.com/cisco/j.php?MTID=m1d7f9106bf8938e58cc435ec2470f6ba)   Password: XehPx4gtx25 (93479448 from phones)            |                       |  
 |  12:30   |                  |          |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
 |  13:30   |                  |          |             |                         |                      |                       |   
@@ -167,8 +167,8 @@ Location: West Wing, First Floor
 |  14:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  14:30   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
 |  15:00   |   OAuth WG       | Security | rifaat.s.ietf@gmail.com | Discuss various OAuth topics |                      |      | 
-|  15:30   |  Is Privacy preserving Web Filtering Possible?  |  N/A | dan@iwf.org.uk | Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    | https://us02web.zoom.us/j/81406316450?pwd=Z3VTU1BPNE5iVGhiSGE3bFBaOEVvQT09 Meeting ID: 814 0631 6450 Passcode: 605274          |                       |
-|  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    | https://us02web.zoom.us/j/81406316450?pwd=Z3VTU1BPNE5iVGhiSGE3bFBaOEVvQT09 Meeting ID: 814 0631 6450 Passcode: 605274                     |                       |    
+|  15:30   |  Is Privacy preserving Web Filtering Possible?  |  N/A | dan@iwf.org.uk | Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    | [Zoom](https://us02web.zoom.us/j/81406316450?pwd=Z3VTU1BPNE5iVGhiSGE3bFBaOEVvQT09) Meeting ID: 814 0631 6450 Passcode: 605274          |                       |
+|  16:00   |  Is Privacy preserving Web Filtering Possible?	 |  N/A  | dan@iwf.org.uk |  Outline the problem and encourage discussion of solutions that are compatible with internet privacy standards    | [Zoom](https://us02web.zoom.us/j/81406316450?pwd=Z3VTU1BPNE5iVGhiSGE3bFBaOEVvQT09) Meeting ID: 814 0631 6450 Passcode: 605274                     |                       |    
 |  16:30   |                  |          |             |                         |                      |                       |    
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |   emodir         |     GEN  |       emodir-chairs@ietf.org      |  Meeting of the EMO Directorate [agenda](https://notes.ietf.org/emodir-20221108) |      [Zoom](https://ietf.zoom.us/j/85396289621?pwd=YWhYcWY4cmRVMnRFUnR1bWFoY0V3QT09) Meeting ID: 853 9628 9621 Passcode: 211534                 |    
@@ -200,15 +200,15 @@ https://us06web.zoom.us/j/84747399084?pwd=cFFWMFB5TVdabUNlaDFrQ2V1UGE0QT09 | |
 |  12:00   |   open source routing@ietf               |  rtg        |             |                         |                      |                       |  
 |  12:30   |   open source routing@ietf               |     rtg     |             |                         |                      |                       | 
 |  13:00   |                  |          |             |                         |                      |                       | 
-|  13:30   |  YANG Versioning  |  OPS (NETMOD)   |  jason.sterne@nokia.com   | Discuss issues around 5 versioning drafts |  https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |    
-|  14:00   | YANG Versioning  |  OPS (NETMOD) | jason.sterne@nokia.com | Discuss issues around 5 versioning drafts | https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24  |                       |          
-|  14:30   |  PQC in OpenPGP  |  SEC     | Aron Wussler (aron@wussler.it) |  Discuss key points for the PQC draft standardization in OpenPGP  |  Starting at 14:50 @ https://us02web.zoom.us/j/86081902144?pwd=c1FkZm8xNTdUZkVEOERJb1FlMFJlUT09                    |                       |          
+|  13:30   |  YANG Versioning  |  OPS (NETMOD)   |  jason.sterne@nokia.com   | Discuss issues around 5 versioning drafts |  [Webex](https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24)  |                       |    
+|  14:00   | YANG Versioning  |  OPS (NETMOD) | jason.sterne@nokia.com | Discuss issues around 5 versioning drafts | [Webex](https://ietf.webex.com/ietf/j.php?MTID=m93c16d28554163e5136ead7990a7ee24)  |                       |          
+|  14:30   |  PQC in OpenPGP  |  SEC     | Aron Wussler (aron@wussler.it) |  Discuss key points for the PQC draft standardization in OpenPGP  |  Starting at 14:50 @ [Zoom](https://us02web.zoom.us/j/86081902144?pwd=c1FkZm8xNTdUZkVEOERJb1FlMFJlUT09)                    |                       |          
 |  15:00   |  PQC in OpenPGP  |  SEC     | aron@wussler.it  |                         |                      |                       |          
 |  15:30   |  PQC in OpenPGP  |  SEC     |  aron@wussler.it |                         |                      |                       |          
-|  16:00   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>  | Mike will present a list of IPv6 issues for enterprises. All attendees will discuss how to solve these issues     | https://us06web.zoom.us/j/89765510503?pwd=ZHVjSnVDcE0yZ0ZReCt2RWNqbDV1dz09, Meeting ID: 897 6551 0503, Passcode: 298239 (courtesy Barbara Stark)  |             |  
+|  16:00   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>  | Mike will present a list of IPv6 issues for enterprises. All attendees will discuss how to solve these issues     | [Zoom](https://us06web.zoom.us/j/89765510503?pwd=ZHVjSnVDcE0yZ0ZReCt2RWNqbDV1dz09), Meeting ID: 897 6551 0503, Passcode: 298239 (courtesy Barbara Stark)  |             |  
 |  16:30   |  Discuss IPv6 enterprise issues                |   OPS       | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |  
 |  17:00   |  Discuss IPv6 enterprise issues                |     OPS     | xipengxiao@huawei.com; Ackermann, Michael <MAckermann@bcbsm.com>             |                         |                      |                       |    
-|  17:30   |   Discuss 6G topics related to IP     |       |Behcet Sarikaya (Sarikaya@ieee.org), Dirk v. Hugo (Dirk.von-hugo@telekom.de)          | 3GPP representative to provide information |   https://dtag.webex.com/dtag/j.php?MTID=m80d6c571a7ea1a43195727182b679238              |    [text-3.ics](/test-folder/text-3.ics)
+|  17:30   |   Discuss 6G topics related to IP     |       |Behcet Sarikaya (Sarikaya@ieee.org), Dirk v. Hugo (Dirk.von-hugo@telekom.de)          | 3GPP representative to provide information |   [Webex](https://dtag.webex.com/dtag/j.php?MTID=m80d6c571a7ea1a43195727182b679238)              |    [text-3.ics](/test-folder/text-3.ics)
 |  18:00   |     Discuss 6G topics related to IP     |       |Behcet Sarikaya (Sarikaya@ieee.org), Dirk v. Hugo (Dirk.von-hugo@telekom.de)        |    subscribe to 6gip@ietf.org This meeting is online mainly (from Webex link), Roland Schott will chair the room, contact him for requests
 |  18:30   |                  |          |             |                         |                      |                       |    
 |  19:00   |                  |          |             |                         |                      |                       |    
@@ -242,7 +242,7 @@ Location: West Wing, First Floor
 |  15:00   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  15:30   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
 |  16:00   | IPMON     | INT    | Jaehoon Paul Jeong (jaehoon.paul@gmail.com) | Gap Analysis and Work Items for IPv6 Moving Object Networking |WebEx: https://skku-ict.webex.com/skku-ict/j.php?MTID=m220bf7659c6ac2e6783c09a41dd2c4c4|                       |
-|  16:30   | REGEXT WG | ART | Pawel Kowalik (kowalik at denic.de) | Discuss draft-ietf-regext-rdap-openid | https://us02web.zoom.us/j/82146104492?pwd=R2x3K0FjQjNmZjl4bmlMeGZWdVNOUT09 |  |  
+|  16:30   | REGEXT WG | ART | Pawel Kowalik (kowalik at denic.de) | Discuss draft-ietf-regext-rdap-openid | [Zoom](https://us02web.zoom.us/j/82146104492?pwd=R2x3K0FjQjNmZjl4bmlMeGZWdVNOUT09) |  |  
 |  17:00   |                  |          |             |                         |                      |                       |    
 |  17:30   |                  |          |             |                         |                      |                       |    
 |  18:00   | Routing Research | Routing | Dirk Trossen (dirk.trossen@huawei.com) | Presentations of selected routing papers from ACM SIGCOMM FIRA workshop and ACM ICN |[Google Meet Link](https://meet.google.com/urn-ivxs-qnp)|                       |    

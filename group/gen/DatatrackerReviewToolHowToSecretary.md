@@ -2,7 +2,7 @@
 title: Datatracker Review Tool How-To for Secretaries
 description: Datatracker Review Tool How-To for Secretaries
 published: true
-date: 2022-12-09T18:50:27.874Z
+date: 2023-01-25T05:25:35.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T18:50:27.874Z
@@ -69,7 +69,7 @@ To close or reassign:
 
 ## Reviewer Management
 
-When a secretary adds a reviewer, the reviewer has the ability to update their settings (how often they want an assignment, when they are unavailable, if they would like reminders, etc.) This is covered on the [Datatracker Review Tool How-to]((/group/gen/DatatrackerReviewToolHowTo) page. Please point a new reviewer to this page so they can customize their settings. The secretary will receive email when the reviewer adjusts their review frequency or unavailability information.
+When a secretary adds a reviewer, the reviewer has the ability to update their settings (how often they want an assignment, when they are unavailable, if they would like reminders, etc.) This is covered on the [Datatracker Review Tool How-to](/group/gen/DatatrackerReviewToolHowTo) page. Please point a new reviewer to this page so they can customize their settings. The secretary will receive email when the reviewer adjusts their review frequency or unavailability information.
 
 The secretary can also make updates to the reviewer's settings:
 
@@ -93,3 +93,11 @@ When a reviewer leaves the team, go to the **Edit Group** tab and click the x ne
 ## Tool Issues and Enhancements
 
 Log into trac to see the ​current list of bugs and enhancements for the Datatracker Review Tool.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2022-06-03. It was migrated from the old Trac wiki on 2023-01-24.*

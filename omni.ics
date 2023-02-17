@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201113T133024Z
+DTSTART;TZID=Europe/London:20201118T110000
+DTEND;TZID=Europe/London:20201118T130000
+SUMMARY:Overlay Multilink Network Interface (OMNI) Side Meeting
+UID:20201113T133024Z-85653903669@fe80:0:0:0:5a:baff:fe9e:52e6ens5
+TZID:Europe/London
+DESCRIPTION:Fred Templin is inviting you to a scheduled Zoom meeting.\n\n
+ Join Zoom Meeting\nhttps://us02web.zoom.us/j/85653903669?pwd=R1VSK1JZOEx
+ 1eXFZU2h4OHVZREk5UT09\n\nMeeting ID: 856 5390 3669\nPasscode: 376295\nOn
+ e tap mobile\n+12532158782\,\,85653903669#\,\,\,\,\,\,0#\,\,376295# US (
+ Tacoma)\n+13462487799\,\,85653903669#\,\,\,\,\,\,0#\,\,376295# US (Houst
+ on)\n\nDial by your location\n        +1 253 215 8782 US (Tacoma)\n     
+    +1 346 248 7799 US (Houston)\n        +1 408 638 0968 US (San Jose)\n
+         +1 669 900 6833 US (San Jose)\n        +1 301 715 8592 US (Washi
+ ngton D.C)\n        +1 312 626 6799 US (Chicago)\n        +1 646 876 992
+ 3 US (New York)\nMeeting ID: 856 5390 3669\nPasscode: 376295\nFind your 
+ local number: https://us02web.zoom.us/u/kz3amrMjb\n\n
+LOCATION:https://us02web.zoom.us/j/85653903669?pwd=R1VSK1JZOEx1eXFZU2h4OH
+ VZREk5UT09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

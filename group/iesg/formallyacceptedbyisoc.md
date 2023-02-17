@@ -2,7 +2,7 @@
 title: Formally Accepted by ISOC
 description: 
 published: true
-date: 2022-09-07T14:54:33.182Z
+date: 2022-11-29T19:37:43.641Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:52:59.589Z

@@ -1,8 +1,8 @@
 ---
-title: HTTP-Auth WG Wiki
+title: HTTPAUTH WG (Concluded) - Hypertext Transfer Protocol Authentication
 description: Welcome to the HTTP-Auth WG Wiki
 published: true
-date: 2022-12-02T16:58:13.150Z
+date: 2023-02-17T07:05:57.373Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:57:24.913Z
@@ -79,14 +79,10 @@ A request was made for a simplified description of the entire mechanism. (That i
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
 
-----
+---
 
-## Starting Points
-
- * TracGuide --  Built-in Documentation
- * [http://trac.edgewall.org/ The Trac project] -- Trac Open Source Project
- * [http://trac.edgewall.org/wiki/TracFaq Trac FAQ] -- Frequently Asked Questions
- * TracSupport --  Trac Support
-
-For a complete list of local wiki pages, see TitleIndex.
+*The content of this page was last updated on 2013-10-30. It was migrated from the old Trac wiki on 2023-02-14.*

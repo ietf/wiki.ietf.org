@@ -1,0 +1,64 @@
+ANIMA Conference Call
+4 Sep 2014, 2pm GMT
+
+Below are the notes, thanks Toerless for taking them! 
+
+Participants
+  Michael Behringer
+  Bing Liu
+  Dan Romascanu
+  Dean
+  Dimitri P.
+  Guy Meador
+  Laurent Ciavaglia
+  Rene Struik
+  Sheng Jiang
+  Yu Fu
+
+
+Call #4. Target to stabilize the draft charter #8 published from last weeks meeting.
+
+August 26/29 updated NMRG drafts: Definition and gap analysis.
+Asked for last call on both drafts in NMRG.
+
+Rene Struik: Need to be more clear what charter goal is:
+ Autonomic Networking vs. stripping down #competing protocols.
+
+Rene Struik: seems it is premature to go for adoption of the three documents in the charter. It is unclear what philosophy is behind the protocols.
+Shen: These protocols are just meant to be starting points. WG is to start working on these problm areas. First adoption calls will be November.
+Still time make documents more mature.
+Rene Struik: But charter says "adoption of drafts". Fear these will be point solutions to unclear problems.
+
+Michael: Goal is to come up with common infrastructure for the problems in scope. Does not mean we have to build new protocols, can also take existing ones.
+
+Rene Struik: Wrt to negotiation protocol. I think about IoT applications, and the current proposal seems badly applicable. Maybe discussing the philosophy of the protocols should be one of the first goal of the charter.
+
+Laurent: Why do we need to list these documents in the charter ?
+Michael: leaving them out would make the charter even less clear.
+Rene: Usually do not see references to drafts in other charter. Should there not simply be just topics that should be discussed in the charter instead ?  Dan Romascanu: Agreed with Laurent. 
+Sheng Jiang: Agreed.
+
+Laurent: Common infrastructure question. Where/how do we see the role of autonomic in it. SHould the protocols control atonomic functions, or be autonomic themselves. Question 2: Internet deployment or design principles to improve future protocols with autonomic philosophy applied to other groups protocols.
+
+Michael: Please propose text on the anima working group to improve charter text. Wrt to NMRG drat comments
+
+Discussion about mentioning of area director responsiblity in charter.
+Michael: AD responsible to approve future charter changes. Negotiate with AD to work in a controlled way through the number of use cases to solve. REne: maybe this is a note that should be removed after finalization.
+
+Discussio about how many use cases beyond those solved by the infrastructure we should ave. Conclusion was one.
+
+Dimitri: Why do we need to build protocols to solve use-cases.
+Value is not based on added value of synchronizing agents better than today. Other bodies who have tried to tackle this problem have also tried to build an infrastructure first and then focus on use cases.
+
+PCE was a very good example. The overall use-case is the proof point tht helpe shape the 4 year work for those protocols.
+
+Michael: current tentative use-case is IPv6 prefix management.
+Dimitri: fears this is not generic enough ?! Need to wy to show flexiblity of agent model.
+
+Laurent: Can we show in one single use case example how to reuse the common infraastructure ? What we should focus on in the demonstation use case, that we can check over multiple use-cases, we can solve each of them with the common component.
+
+How to write the charter: Laurent: leave more headroom to the WG to decide what it will deliver.
+
+Dimitiri: Success in functionality in use-cases. Sucess in design based on reuseability. Both can/should be in charter. But protocols are third step.
+
+Sheng: The negotiation protocol wold be an aspect of reuseable design.

@@ -2,7 +2,7 @@
 title: DTN Use Cases
 description: 
 published: true
-date: 2022-12-08T22:51:41.868Z
+date: 2023-01-25T04:34:01.151Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T22:51:41.868Z
@@ -102,3 +102,11 @@ Need:
 * Of interest to many industry sectors
 * Bundle Protocol and security as enablers
 * DTNWG provides framework for moving the technology forward 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2015-02-27. It was migrated from the old Trac wiki on 2023-01-24.*

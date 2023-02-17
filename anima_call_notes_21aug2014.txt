@@ -1,0 +1,80 @@
+ANIMA Conference Call
+21 Aug 2014, 2pm GMT
+
+Attendees: 
+Bing Liu, Leo Dorrendorf, Rene Struik, Sheng Jiang (lead), Toerless Eckert, Yu Fu, Pascal Thubert, Laurent Ciavaglia, Michael Behringer (notes)
+
+Excused: 
+Brian Carpenter
+
+Notes
+
+"note well" slide. Note: The meeting is recorded. 
+
+* draft WG charter
+
+Version -06 posted to the list; there are a few comments, but mostly stable. Discussion of http://www.ietf.org/mail-archive/web/anima/current/msg00144.html. Is OSPF autonomic? The text has been updated, and we believe no further discussion is needed. 
+We believe that the charter text -06 is mostly ok, and discussion should focus on use case selection. 
+Rene: Not clear what the goal of the charter is. We should change the charter, especially identify the problem statement. There is also no architecture definition. Looks like "let's move on with some existing drafts". 
+Toerless/Michael: Positioned in OPS area; they don't want to get into long discussions on architecture or requirements. 
+Rene: Still unclear what the requirements/objectives/security properties are. the -definitions draft is also very generic. Read the 3 drafts in the IoT context. Example: negotiation protocol doesn't map to any security requirements he's aware of. 
+Michael: How should we phrase the Charter, Rene? 
+Rene: Context should be described. 
+Toerless: Maybe no need to define all of this in the charter; there was a plan to have a standalone sort of architecture doc that describes the context. 
+Rene: Everything except milestones requires IESG approval. 
+Summary: Need some 1:1 discussions, off line to progress here. 
+
+* draft-irtf-nmrg-autonomic-network-definitions
+
+Sheng: Do we need a new version? 
+Michael: Need to incorporate the last comments received, need to do another review. 
+I'll do my best to complete by Aug 25, but cannot guarantee.
+
+* draft-irtf-nmrg-an-gap-analysis 
+
+Sheng: Only minor comments received, should be easy to review and post an update. 
+Michael: Goal was a last call on both docs, let's do that after both docs are updated. 
+
+* Selection of use cases
+
+Sheng: First four criteria were already discussed. May not be enough to select use cases. Most use cases match first three. 
+Michael: Some use cases (ex: ACP) MUST be distributed, this is a good criterion for a use case. Many use cases can ALSO be centralised. 
+Sheng: Does ACP present a use case? He thinks not, it's a solution.  
+Toerless: There is value in the logically seperated control plane. 
+Sheng: We agree that we should do the ACP in the potential WG. But we should choose another two use cases in addition. 
+Michael: The ACP is a use case, because it presents an advantage to the operator. 
+Sheng: Yes, ACP is a use case, but we should have two more. 
+Michael: The ACP is BOTH part of the solution AND a use case. Let's write up a use case draft for the ACP as well. 
+What are the other two use cases? 
+Toerless: The zero-touch bootstrap is also a use case. 
+Sheng: Agree. Negotiation protocol, bootstrap and ACP are already explicitly in the charter. Those are all infrastructure, and bootstrap and ACP are also use cases. We should have use cases that leverage the infrastructure. 
+Michael: the address management would make a nice "independent" use case. 
+Rene: Shouldn't we add that the use cases should support change of owner/control. 
+Michael: Yes, this is being addressed, and needs to be in the solutions. This has been discussed. 
+Rene: This should be a selection criterion. We should support flexible scenarios, which include those. 
+Toerless: We may be "overdoing" the details on requirements, etc. If there is no contention, we shouldn't worry about it. 
+Michael: To me, change of ownership / SP, etc is a general requirement, not a use case selection requirement. 
+Sheng: We're on the same page. Ownership change is a requirement, ALL solutions should cover that. Here, we're discussion selection criteria. 
+Rene: Could also be in the charter. 
+Laurent: Generally in support. The ownership problem has to be solved in any case. We already have some solutions in mind. What are the best use cases to make our lifes easier? These are two different things. 
+Toerless: ADs want critical mass, and based on demand (will get executed). Need to make sure that we can deliver change of ownership. 
+Michael: Maybe easiest to include the change of ownership requirement in the charter. 
+Rene: OK. 
+Sheng: We still need to make a choice. There is still a placeholder in the charter. Home network is out. ACP and bootstrap are in. 
+Laurent: Something wrong about the approach. Some use cases are valid, but they have not been proposed with the installation phase in mind. Reason is that the WG is focusing on the installation phase. Either we make the charter specific to installation / bootstrap, if it's more than that, then we need to look at the other use cases. 
+Sheng: We're not only focusing on the installation phase. We are looking full life cycle. 
+Toerless: we were looking to not overload the charter. We're focusing on reusable components that nicely leverage each other, rather than standalone use cases, or in the wrong order. So the first use cases should be building blocks for later use cases. 
+Michael: Agree. 
+Laurent: If there is a preferred starting point, we should just state that. 
+Toerless: This *is* in the charter, isn't it? 
+Sheng: We still haven't chosen the final use cases. Take to mailing list. 
+
+Action items (by next week, on the anima list): 
+1) Rene to propose charter text about the vendor / SP change. 
+2) Laurent to propose charter text to the above discussion. 
+3) Sheng to continue discussion on use cases on the list. 
+
+
+
+
+

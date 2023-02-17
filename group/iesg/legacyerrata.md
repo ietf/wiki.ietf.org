@@ -2,7 +2,7 @@
 title: Errata for Legacy Documents
 description: 
 published: true
-date: 2022-09-09T22:06:35.837Z
+date: 2022-11-29T19:38:09.106Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-09T22:06:32.385Z

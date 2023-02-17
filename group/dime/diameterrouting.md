@@ -2,7 +2,7 @@
 title: Design Team on Diameter Routing
 description: Design Team on Diameter Routing
 published: true
-date: 2022-12-06T22:40:59.999Z
+date: 2023-01-13T20:55:13.746Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:40:59.999Z
@@ -37,3 +37,11 @@ The design team is lead by the working group chairs: Dave Frascone and Hannes Ts
 ## Mailing List
 
 Mailing List archive can be found here: http://groups.google.com/group/diameter-routing 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2008-09-21. It was migrated from the old Trac wiki on 2023-01-13.*

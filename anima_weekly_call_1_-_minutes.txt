@@ -1,0 +1,60 @@
+---
+ANIMA weekly call #1 / 2014-08-14 0600 UTC.
+
+Meeting recording available at: https://cisco.webex.com/ciscosales/lsr.php?RCID=8830611e23c8407198d69066c081f024
+
+***Participants: Toerless Eckert, Brian Carpenter, Pascal Thubert, Roberta Maglione, Sheng Jiang, Yves Hertoghs, Bing Liu, Laurent Ciavaglia.
+
+***Intro (Brian): wiki available for ANIMA: http://tools.ietf.org/bof/anima/
+
+***Comments on the charter:
+Brian: Laurent, you have made comments on the list...
+Laurent: recap of comments fetched from mailing list
+    .clarify WG use cases status: solutions drafts for standard track. (cf Roberta's email).
+    .update number of WG solution drafts up to 3 (negotiation, bootstrap, acp)(?)
+    Brian: is ACP a use case?
+    Laurent: ACP can include all functions or either re-focus the document on a single fucntion e.g. OAM fucntion. ACP draft could become the general applicability use case for the WG.
+    Toerless: discussed about split of the ACP document.
+[Pascal: will the call will be recorded? (Brian: yes).]
+    Laurent: two things discussed: number of WG applicability/solution drafts and whether ACP is one solution function/component or a synthesis of multiple functions (i.e. a complete control plane). Ok to send text on solution/applicability draft vs. use case description draft.
+Toerless/Brian: issue on number of IDs is different from types of drafts.
+Sheng: OPS ADs want us to work directly on the solutions.
+Brian: Correct. ADs not interested in requirements work.
+Toerless: if focus on solutions, how to describe what cases they apply to? described in the document themselves. individual solutions may not address all aspects.
+Brian: ... (sorry did not get it).
+Pascal: same problem faced in (?). we called a document "architecture", collected the different pieces and keep it up to date.
+Toerless: understand correctly, want to have a work in progress architecture in ANIMA?
+Pascal: used as a moving consensus.
+Sheng: very clear from the OPS ADs don't want to work on architecture, because too long.
+Pascal: consensus on how things work together. here are the building blocks and how they work together.
+Brian: I have a model in my head (relationship among solution documents?). these matters will be part of the 3 initial documents.
+Toerless: avoid the term architecture. agree with Pascal, how things work together. scope of this document? not used to argue for more work (i.e. the right way is to accept more solution components added) and then describe in the "architecture" how they work together with existing ones.
+Laurent: this document could be the autonomic control plane document (putting everything together). this avoids calling it "architecture".
+Toerless: important to work on the individual block solutions, but some gaps and point in the "arch" doc. and work will be needed on it.
+Brian: Sheng, additional comments?
+Sheng: how we choose the use case document.
+Brian: this will have to wait for another webex meeting. when progress on charter. find it hard based on comparison with Michael's criteria.
+Toerless: point to the email/file? (Laurent: check the link in the meeting slides)
+Yves, Roberta: no further comment.
+Brian: milestones of the charter. discuss now? quite aggressive timeline.
+Laurent: will be more clear once progressed on other points of the charter (sorting out the documents stuff).
+Brian: ...(sorry did not get it).
+Toerless: solutions drafts, based on reusable components, in combination solving use case problems. how ADs want us to describe the overall system solving the problems? want me to start this discussion with OPS ADs?
+Brian: yes.
+Brian: action list. priority to update/conclude NMRG documents. ambitious goal to send a stable charter by end of august. still realistic/achievable?
+Toerless: if progress on solution documents, explain to OPS ADs and make them happy.
+Sheng: need to still working hard targeting the date (31/Aug Stable draft WG charter sent to AD). If job is difficult enough, we could still complete in one more week, leaving flexibility.
+Brian: solution cases should be on the action list (?)
+Brian: two things might happen at next ietf: ask for WG forming BOF or already running WG.
+Toerless: deadline?
+Brian: request as early as possible for the WG meetings.
+Laurent: preference?
+Brian: WG created before would be nice. but not much difference. also why planned for initial individual draft tot feed the WG before ietf91.
+Brian: a more realistic...(what?) (sorry did not get it)
+Brian: next call schedule, 2pm UTC? to be discussed on the list.
+Toerless: ok for 21/08.
+Sheng: 9pm for me.
+Brian: could be quite early for pacific coast.
+Brian: all we can do today. people send their input text.
+
+***Next call scheduled Thursday 21 August 2014 at 1400 UTC. To be agreed on the list.

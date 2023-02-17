@@ -1,0 +1,449 @@
+
+
+p2pi                                                           M. Barnes
+Internet-Draft                                              B. McCormick
+Intended status: Informational                                    Nortel
+Expires: November 10, 2008                                   May 9, 2008
+
+
+               Peer to Peer Infrastructure Considerations
+                     draft-barnes-p2pi-workshop-00
+
+Status of this Memo
+
+   By submitting this Internet-Draft, each author represents that any
+   applicable patent or other IPR claims of which he or she is aware
+   have been or will be disclosed, and any of which he or she becomes
+   aware will be disclosed, in accordance with Section 6 of BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF), its areas, and its working groups.  Note that
+   other groups may also distribute working documents as Internet-
+   Drafts.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   The list of current Internet-Drafts can be accessed at
+   http://www.ietf.org/ietf/1id-abstracts.txt.
+
+   The list of Internet-Draft Shadow Directories can be accessed at
+   http://www.ietf.org/shadow.html.
+
+   This Internet-Draft will expire on November 10, 2008.
+
+Abstract
+
+   This is a position paper as input to the Peer to Peer (P2P)
+   Infrastructure Workshop.  It describes some of the most common
+   concerns associated with potential congestion on the Internet due to
+   P2P applications.  The document makes some very general
+   recommendations to ameliorate potential problems.
+
+
+
+
+
+
+
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 1]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . 3
+   2.  Position Overview . . . . . . . . . . . . . . . . . . . . . . . 4
+   3.  Other Considerations  . . . . . . . . . . . . . . . . . . . . . 4
+   4.  Summary of Recommendations  . . . . . . . . . . . . . . . . . . 6
+   5.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . . . 6
+   6.  Informative References  . . . . . . . . . . . . . . . . . . . . 6
+   Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . . . 7
+   Intellectual Property and Copyright Statements  . . . . . . . . . . 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 2]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+1.  Introduction
+
+   This document describes some of the most common concerns associated
+   with potential congestion on the Internet due to P2P applications.
+   The document makes some recommendations to ameliorate potential
+   problems.
+
+   P2P applications are usually running within a user's home network.
+   They communicate directly with other instances of the same
+   applications running on other home networks.  Popular P2P
+   applications will transfer data with dozens of other instances at
+   high and sustained bit rates for sharing large files such as
+   operation system distributions, popular TV shows and movies.  The
+   volume of data being shared by P2P users is often sufficient to cause
+   congestion on Internet Service Provider's (ISP's) access networks.
+   ISPs look for solutions to the congestion problem.  Figure 1 shows
+   some sample P2P applications.
+
+
+-----------
+| Home    |
+| Network |-----------------|
+-----------                 |
+      |                     |
+---------------             |
+|     P2P     |             |    DPI and "traffic shaping"
+| Application |             |    occurs in the ISP access network today
+---------------             |
+                            |
+                         -----------     ------------    -----------
+                         |   ISP   |-----| Internet |    |   ISP   |
+                         | Access  |     | Backbone |----| Access  |
+                         | Network |     ------------    | Network |
+                         -----------                     -----------
+                            |                                 |
+-----------                 |                             -----------
+| Home    |------------------                             | Home    |
+| Network |                                               | Network |
+-----------                                               -----------
+     |                                                          |
+---------------                                          ---------------
+|     P2P     |                                          |     P2P     |
+| Application |                                          | Application |
+---------------                                          ---------------
+
+
+
+
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 3]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+                        Figure 1: P2P Applications
+
+   This document is intended to provoke discussion on the concepts,
+   theories and recommendations described herein.
+
+
+2.  Position Overview
+
+   P2P traffic is congesting the internet.  As applications such as
+   video calls gain momentum on the public internet, as opposed to
+   managed networks, P2P traffic, and in fact HTTP [RFC2616] traffic,
+   will impact the quality of real time streaming data including voice,
+   video and gaming.
+
+   Many ISPs are engaging in some form of traffic prioritization by way
+   of traffic shaping P2P and other traffic on their networks.  These
+   methods are often based on deep packet inspection (DPI) and are of
+   limited long term use as they are based on parsing packet headers,
+   etc.  These methods can be subverted without much work.
+
+   Packet prioritization is a proven solution to maintaining Quality of
+   Service (QoS) for delay sensitive traffic and has been widely
+   deployed on wireless and managed networks.  However, users will abuse
+   packet prioritization if they have no motivation to behave correctly.
+   Similarly, ISP peering, where priority packets transit a 3rd party
+   network, has no motivation to respect packet priority.
+
+   Unless ISPs are willing to invest indefinitely in network capacity
+   build out, there needs to be some incentive to avoid the high levels
+   of traffic generated by users at the far end of the spectrum.
+   Alternatively, real time applications will become more unreliable.
+
+   Carriers and vendors need to deploy DiffServ Code Point (DSCP)
+   [RFC2474] [RFC2475] enabled equipment.  User pricing agreements need
+   to charge a premium for real time traffic priorities and provide a
+   discount for high volume best effort priorities, as do peering
+   agreements.
+
+
+3.  Other Considerations
+
+   In general there seem to be four possible outcomes to continuing
+   Internet growth:
+
+      a.  Without sufficient network build out and no traffic
+      prioritization, Internet congestion increases until real time
+      applications no longer function and non-real time applications are
+      impacted.
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 4]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+      b.  Network build out continues at a rate so that network
+      congestion is a thing of the past and no traffic prioritization is
+      necessary.
+      c.  Networks implement traffic prioritization and charge premiums
+      for real time traffic.  Similarly, discounts could be offered for
+      low priority traffic.
+      d.  Operators exercise increasing levels of control over their
+      access networks and find means to restrict traffic to white listed
+      traffic approved by the operator.
+      e.  Networks implement a model whereby they charge equally
+      independent of the application, but may simply charge per volume
+      of packets.
+
+   In the ideal world, option b) would take place.  However, option b)
+   doesn't provide any clear means for operators to grow, or even
+   maintain, their business model.  Deploying more capacity at the edge
+   of the Internet is expensive and operators will expect to have some
+   direct value proposition for this activity.
+
+   Options a) and d) would change the internet in ways that limit
+   innovation and growth and we consider them to be wholly undesirable.
+
+   Option e) is already implemented by some ISPs today.  Although, it is
+   not uncommon for ISPs to also offer unlimited packages, thus this
+   model may not be as effective overall.  In cases where there is
+   sufficient network capacity, charging by volume could be used to
+   manage aggregate volume.
+
+   Option c), may be a more pragmatic choice in cases where there may be
+   limitations to network capacity.
+
+   Many operators today are implementing deep packet inspection as a
+   means of prioritizing traffic on their networks.  However, deep
+   packet inspection has limited long term viability.  It is one thing
+   to identify traffic based on packet headers, it's another thing
+   entirely to try and determine if peer to peer traffic is tunnelled
+   inside, for example, jpeg images transported on HTTP.
+
+   More complex approaches could be applied to detect peer to peer
+   traffic, such as traffic analysis.  Home networks with dozens of
+   simultaneous connections to other home networks are probably engaging
+   in peer to peer applications.  This method of traffic prioritization
+   would be more difficult to subvert, however it would also be more
+   difficult to implement at line speeds.
+
+   Rather than relying on such ad hoc methods of traffic prioritization,
+   it would be better to use designed in traffic prioritization such as
+   DSCP.  This approach also allows operators to charge for use and will
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 5]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+   help address public perception that traffic shaping is bad.
+
+   Peer to peer traffic has been growing steadily for the last 10 years
+   and shows no signs of slowing.  P2P has been responsible for
+   significant innovation in the application space, and thus is likely
+   to continue to be very popular.
+
+   Any type of bulk data transfer will impact real-time traffic.
+   There's no reason that FTP and HTTP transfers should not be subject
+   to a prioritization mechanism.  P2P applications tend to be worse
+   today because it is easy for users to leave them running 24/7.
+   However, there's nothing to stop a user from running a bot program
+   which downloads high volumes of traffic from HTTP or FTP servers.
+
+   Network operators have already lost control of the "pipe".  It's
+   unreasonable for an operator to expect to be able to directly control
+   the applications that are transferring data over their network.
+   Telephone companies today are not allowed to control the type of
+   traffic over their network.  Imagine a telephone company
+   implementing, for example, an anti-Italian or anti-Portuguese policy
+   and dropping all calls in these languages!  Similarly, ISPs should
+   not be in a position to white list or black list specific types of
+   traffic.
+
+
+4.  Summary of Recommendations
+
+   At this point, the authors do not see specific new protocol work
+   related to this problem in IETF.  However, the authors suggest that
+   using the input and discussion from the p2pi workshop, guidelines and
+   recommendations, perhaps even a Best Current Practice [RFC2026] would
+   be of benefit to the community.
+
+
+5.  Acknowledgements
+
+   The authors appreciate the input and comments from Francois Audet and
+   Marcus Leech.
+
+
+6.  Informative References
+
+   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
+              3", BCP 9, RFC 2026, October 1996.
+
+   [RFC2474]  Nichols, K., Blake, S., Baker, F., and D. Black,
+              "Definition of the Differentiated Services Field (DS
+              Field) in the IPv4 and IPv6 Headers", RFC 2474,
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 6]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+              December 1998.
+
+   [RFC2475]  Blake, S., Black, D., Carlson, M., Davies, E., Wang, Z.,
+              and W. Weiss, "An Architecture for Differentiated
+              Services", RFC 2475, December 1998.
+
+   [RFC2616]  Fielding, R., Gettys, J., Mogul, J., Frystyk, H.,
+              Masinter, L., Leach, P., and T. Berners-Lee, "Hypertext
+              Transfer Protocol -- HTTP/1.1", RFC 2616, June 1999.
+
+   [RFC3168]  Ramakrishnan, K., Floyd, S., and D. Black, "The Addition
+              of Explicit Congestion Notification (ECN) to IP",
+              RFC 3168, September 2001.
+
+   [RFC3260]  Grossman, D., "New Terminology and Clarifications for
+              Diffserv", RFC 3260, April 2002.
+
+
+Authors' Addresses
+
+   Mary Barnes
+   Nortel
+   2201 Lakeside Blvd
+   Richardson, TX
+
+   Email: mary.barnes@nortel.com
+
+
+   Bill McCormick
+   Nortel
+   3500 CARLING AVENUE
+   Ottawa, Ontario
+
+   Email: billmcc@nortel.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 7]
+
+Internet-Draft                    P2PI                          May 2008
+
+
+Full Copyright Statement
+
+   Copyright (C) The IETF Trust (2008).
+
+   This document is subject to the rights, licenses and restrictions
+   contained in BCP 78, and except as set forth therein, the authors
+   retain all their rights.
+
+   This document and the information contained herein are provided on an
+   "AS IS" basis and THE CONTRIBUTOR, THE ORGANIZATION HE/SHE REPRESENTS
+   OR IS SPONSORED BY (IF ANY), THE INTERNET SOCIETY, THE IETF TRUST AND
+   THE INTERNET ENGINEERING TASK FORCE DISCLAIM ALL WARRANTIES, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF
+   THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED
+   WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+Intellectual Property
+
+   The IETF takes no position regarding the validity or scope of any
+   Intellectual Property Rights or other rights that might be claimed to
+   pertain to the implementation or use of the technology described in
+   this document or the extent to which any license under such rights
+   might or might not be available; nor does it represent that it has
+   made any independent effort to identify any such rights.  Information
+   on the procedures with respect to rights in RFC documents can be
+   found in BCP 78 and BCP 79.
+
+   Copies of IPR disclosures made to the IETF Secretariat and any
+   assurances of licenses to be made available, or the result of an
+   attempt made to obtain a general license or permission for the use of
+   such proprietary rights by implementers or users of this
+   specification can be obtained from the IETF on-line IPR repository at
+   http://www.ietf.org/ipr.
+
+   The IETF invites any interested party to bring to its attention any
+   copyrights, patents or patent applications, or other proprietary
+   rights that may cover technology that may be required to implement
+   this standard.  Please address the information to the IETF at
+   ietf-ipr@ietf.org.
+
+
+
+
+
+
+
+
+
+
+
+Barnes & McCormick      Expires November 10, 2008               [Page 8]
+
+
+

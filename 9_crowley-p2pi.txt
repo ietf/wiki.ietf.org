@@ -1,0 +1,15 @@
+Symbiotic P2P: Resolving the conflict between ISPs and BitTorrent through mutual cooperation
+
+Patrick Crowley and Shakir James
+Applied Research Laboratory
+Washington University
+St. Louis, MO USA 63130
+Email contact: pcrowley@wustl.edu
+
+Peer-to-Peer (P2P) applications are omnipresent on the internet today. These applications are primarily used for content delivery (e.g. BitTorrent), telephony and video. There has been substantial research on the performance of the BitTorrent P2P protocol, but more recently BitTorrent has become a source of much controversy. P2P applications achieve high download rates and robustness using random peer selection, which is oblivious to the underlying network topology. Thus, P2P applications often route traffic along network links that are costly to Internet Service Providers (ISPs). As a result, ISPs have turned to installing network devices to detect and throttle P2P traffic, and the applications in turn have begun encrypting their traffic to avoid ISP-detection. These actions only perpetuate a "cat and mouse" game between ISPs and P2P developers. Their core objectives, maintaining reasonable network utilization (ISPs) and improving performance (P2P), are irreconcilable without explicit cooperation.
+
+Therefore, we are developing a network-aware protocol extension, Symbiotic P2P (sP2P), which reduces network utilization without degrading client performance by using explicit cooperation from ISPs and P2P applications. sP2P achieves its goal by localizing and merging intra-ISP swarms. We focus on the BitTorrent protocol, but sP2P is applicable to other P2P protocols. ISPs deploy an intelligent network device that discovers groups of peers downloading the same files, and P2P clients use weighted-random peer selection to localize traffic. The goal with this system is to give both ISPs and clients the proper incentives to cooperate, and this can only be achieved if both network resource utilization and client performance improve with respect to alternatives.
+
+In order to detect, merge, and localize BitTorrent swarms without disrupting or interfering with non-P2P traffic, we must support three primary mechanisms at line-rate: 1) requests between clients and trackers (i.e., the systems that organize groups of clients into swarms) must be detected based on the destination port, 2) the info hash (i.e., a SHA1 hash of the .torrent file) must be extracted from tracker requests in order to identify the file being downloaded, and 3) we must maintain a list of observed clients, the trackers they have communicated with, and the files they have requested.
+
+Using Washington University's Open Network Laboratory (http://onl.wustl.edu), we have verified that swarm merging and localization can dramatically reduce ISP costs while maintaining good end-user performance. To do this, we have implemented our intelligent network device using a combination of traditional PCs and Intel IXP2855 network processors. The current prototype implementation sustains worst-case, line-rate performance on 1 Gbps links; we are currently developing a 10 Gbps version.

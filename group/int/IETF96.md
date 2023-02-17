@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 96
 description: 
 published: true
-date: 2022-12-15T03:37:31.205Z
+date: 2022-12-15T03:37:35.896Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T03:37:31.205Z

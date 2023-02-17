@@ -1,0 +1,64 @@
+ANIMA Call
+25 Sep 2014
+
+*** Unedited notes - see corrections mentioned on mailing list ***
+
+Benoit: Process: Joel and Benoit received our BoF request, it's on the wiki (http://trac.tools.ietf.org/bof/trac/wiki). 
+Are there still blocking factors for a charter? 
+Assume perfect process: 1 week of IESG review. The IESG call where the IESG
+says the charter is ready for external review (2 weeks) Then externals can 
+comment for 2 weeks. So minimun is 5 weeks. 
+We are still on time. 
+Draft -08 of charter has been posted. Only IPv6 management is needs to be added. 
+Received an extra few paragraphs. see diff between -06 and -08 of the charter. 
+
+Process: AD not looking for consensus on the textual charter. But there should be consensus that people will work towards the charter goals. 
+ADs want to understand open issues. Rene and Dimitri sent a few. Benoit was hoping that Dimitri would be on the call... 
+What are the remaining issues? 
+- Do we need to list starting points? 
+
+Brian: Discussion should be about the WG documents, not about the charter. 
+Sheng, Michael: agree. 
+Laurent: Either cite all references or none. Why limit ourselves here?
+Benoit: I like the starting points in the charter. The goals listed are very generic, could be understood in too many ways. The starting points should give an idea on what we are thinking about. This doesn't mean that the draft listed is the right one, and maybe "starting point" is not the right term. AD would be happy to have several competing "starting points". 
+Dimitri worried that people will adopt drafts just because they are listed. 
+Brian: Have never seen a WG that just accepted an existing draft. Do not see an issue here. 
+Michael: Should we explain this in the charter? 
+Benoit: This is normal WG procedure, not needed to mention explicitly. We should not put in the charter normal IETF process. 
+Michael: Worried about negative starting points. 
+Benoit: Autonomics has been around for 10 years. the NMRG work progressed very slowly. Let's try out some things and see what works. Risk to boil the ocean. In favour of getting something small done. I would be happy if every year we'd work on a few new use cases. But concerned that we never got anywhere with this. 
+Sheng: Added the sentence in question because we wanted to make sure everybody is happy with the charter. Rene and Dimitri seem upset that the charter doesn't contain all they want, but new work can be added. The starting point docs are not adopted yet. 
+Benoit: use case issue: hope that we'll get extra use cases that will reuse the components mentioned. Haven't found a way to express that all individual drafts are welcome, but we don't want to review all use cases. That's why we restricted use cases. But everyone should check that HIS use case can reuse components. But cannot write in the charter that if one use case breaks some component, we have to start from scratch. Other things should be worked on. Understand frustration about many use cases not being picked up. 
+Brain: If we go ahead, you should make this point on the list / in the meeting. Rene's comments are very contrstructive. 
+Benoit: We're not looking for consensus on the charter text, but on consensus that people will work on it. 
+Michael: At UCAN BoF, 20 people raised their hands that they will work in this space. 
+Benoit: But this is on this charter text, not on UCAN. 
+Benoit: Ideally want a last call on the NMRG documents before starting here. 
+Michael: We posted the docs about 2-3 weeks ago, no response from RG chairs. In the meantime we got more comments from Rene. 
+Benoit: We should post the latest version, our responsibility, not RG chairs. 
+Sheng: use case draft already has another version, not posted yet. Give us one week. 
+Michael: definitions draft should also have another version in 1 week. 
+Benoit: Those 2 docs are building blocks, they shouldn't change massively from now. 
+Michael: I believe the docs are fundamentally stable, there will always be small changes. 
+Brian, Sheng: Agree. 
+Benoit: Sent a few emails to NMRG chairs, to progress the docs. No replies. 
+Benoit: Have covered Dimitri's points. Rene's point still has the point the problem statements is not well described. 
+Michael: AN in general is a huge architecture, and we want to work bottom up. There is inevitably a huge gap, and people will always feel uncomfortable about this. 
+Benoit: Are there still open blocking factors? 
+Laurent: No. It's time to go ahead. 
+Bing Liu: Should go ahead. 
+(no other opinions expressed)
+Benoit: We've been listening to everybody; the charter is not perfect; but it is not sure that we can do this in the world of AN. This is why the ADs have pointed at starting points. But would be very happy if other people have other proposals to sovle the same problems, and have a healthy discussion. Concern about accepting the existing docs (email from Rene today: Afraid of being too fast; if WG in Hawaii, existing docs will be blindly accepted) - we should not blindly accept those starting points.  But we should be open and look at every proposal. We might receive blocking comments from IESG. 
+Finish the next versions of the NMRG docs asap. Might still change. Will keep pushing NMRG chairs to progress those drafts. 
+Laurent: The charter states the the first docs will be accepted in Hawaii. 
+Benoit: Very good point!!!! It should NOT happen in November. We need to correct that in the charter. 
+Michael: So lets change the charter, change milestones. 
+Benoit changing the charter on the fly. See new version on the wiki. 
+Some discussion on the precise timing of milestones, not captured in detail; bottom line: We take things a bit more slowly to allow all views to be factored in. 
+Benoit: Michael makes a proposal for new milestones TODAY and send it to Benoit. 
+Laurent: BoF request has been sent; can we see the proposal? 
+Benoit: See ANIMA proposal in http://trac.tools.ietf.org/bof/trac/wiki. 
+Benoit: Next wed, IESG will discuss which BoFs should be approved. Benoit will make the point. Then we'll know whether we'll have a BoF or WG. If there is a BoF, then we need to understand the expected outcome. Would like to hear from Dimitri his opinion. A BoF isn't there to solve a problem, but to agree that there is a problem to be solved. Maybe not perfectly described. The only positive point in a BoF is if we can describe the problem statement better. 
+Laurent: Would prefer a WG meeting. Would be useful to have time for face to face discussions. It's a complex topix. BoF is not the right type of meeting for this discussion. 
+Michael: Let's just meet informally several times in Hawaii. 
+Benoit: We should also discuss in NMRG. Any way to work is good. If WG, it should be inclusive to everyone.

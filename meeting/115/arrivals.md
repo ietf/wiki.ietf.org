@@ -2,7 +2,7 @@
 title: IETF 115 Arrival Coordination
 description: To coordinate travel between London airports and the venue.
 published: true
-date: 2022-11-04T16:34:29.891Z
+date: 2022-11-29T19:34:41.203Z
 tags: airport travel
 editor: markdown
 dateCreated: 2022-07-23T19:12:14.786Z

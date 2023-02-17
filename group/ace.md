@@ -1,8 +1,8 @@
 ---
-title: IETF ACE Working Group Wiki
+title: ACE WG - Authentication and Authorization for Constrained Environments
 description: 
 published: true
-date: 2022-11-05T16:37:36.627Z
+date: 2023-01-12T00:35:31.374Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
@@ -25,6 +25,7 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 | mqtt_tls |MQTT access|publisher/subscriber|Broker|MQTT|TLS| | [Nominet](https://github.com/nominetresearch/ace-mqtt-mosquitto) | [^4] |
 | coap_ipsec | Generic REST access |Any Client | Any RS | CoAP | IPsec | - | [RISE](https://gitlab.com/ace-ipsec-profile/internet-draft/tree/master/contiki_zoul_ipsec/examples/ace-token-ike) | [^5] |
 |...|...|...|...|...|...| ... | ... |...|
+{.dense}
 
 ## Other ACE profile related drafts
 
@@ -32,7 +33,8 @@ Instructions for ACE profile authors: Please verify/fill in the details of the p
 |--------------|----------|----------------|------------|---------------|-----------|------------|-----------------|--------|
 | Joining OSCOAP multicast groups  | Authorized access to OSCOAP multicast groups | Joining node | Group manager | CoAP | Same as in ACE profile used |  [^1],[^2]]  | Same as ACE profile | [^6]  | 
 | Security for Low-Latency Group Communication  | Authorized access to CoAP multicast | Joining node | Group manager | CoAP | Specified in the document |  ACE-OAuth, symmetric key group communication security  | As part of OpenAIS EU funded project | [^7]  | 
- | ... | ... | ... | ... | ... | ... |  ...  |  ...  | ... | 
+ | ... | ... | ... | ... | ... | ... |  ...  |  ...  | ... |
+ {.dense}
 
 ## Background info
 
@@ -67,3 +69,4 @@ Additional items to compare:
 [^5]: [IPsec profile](https://tools.ietf.org/html/draft-aragon-ace-ipsec-profile)
 [^6]: [Joining OSCOAP multicast groups](https://tools.ietf.org/html/draft-tiloca-ace-oscoap-joining)
 [^7]: [Security for Low-Latency Group Communication](https://tools.ietf.org/html/draft-somaraju-ace-multicast)
+

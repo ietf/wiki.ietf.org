@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 102
 description: 
 published: true
-date: 2022-12-15T04:26:20.809Z
+date: 2022-12-15T04:26:25.360Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T04:26:20.808Z

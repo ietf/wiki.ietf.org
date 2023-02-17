@@ -1,0 +1,32 @@
+,,Actalis,AOL,AS Sertifitseerimiskeskuse (SK),A-Trust,Autoridad de Certificacion Firmaprofesional,Buypass,CA Disig a.s.,Camerfirma,Certicámara S.A.,Certigna,Certinomis,certSIGN,China Internet Network Information Center (CNNIC),Chunghwa Telecom Corporation,Comodo,ComSign,Consorci Administració Oberta de Catalunya (CATCert),Deutscher Sparkassen Verlag GmbH (S-TRUST),DigiCert,D-TRUST,EDICOM,e-Guven Elektronik Bilgi Guvenligi A.S.,Entrust,e-tugra,GlobalSign,GoDaddy,Government of France,"Government of Hong Kong (SAR), Hongkong Post","Government of Japan, Ministry of Internal Affairs and Communications","Government of Spain, Autoritat de Certificació de la Comunitat Valenciana (ACCV)","Government of Taiwan, Government Root Certification Authority (GRCA)","Government of The Netherlands, PKIoverheid","Government of Turkey, Kamu Sertifikasyon Merkezi (Kamu SM)",HARICA,IdenTrust,Izenpe S.A.,"Japan Certification Services, Inc. (JCSI)",KEYNECTIS,Microsec e-Szignó CA,NetLock Ltd.,Nets DanID,PROCERT,QuoVadis,RSA the Security Division of EMC,SECOM Trust Systems Co. Ltd.,Start Commercial (StartCom) Ltd.,Swisscom (Switzerland) Ltd,SwissSign AG,Taiwan-CA Inc. (TWCA),TeliaSonera,Trend Micro,TrustCenter (owned by Symantec),Trustis,Trustwave,T-Systems International GmbH,TurkTrust,Unizeto Certum,VeriSign (owned by Symantec),Verizon Business,Visa,Web.com,Wells Fargo Bank N.A.,WISeKey,Axway,CoreStreet,Safelayer Keyone ,CloudFlare1,"As of December 2013, which product versions combined constitute 99% of total usage of the vendor's products?",Actalis VA (version 2.2.1) – 100%,,,,Using third-party software to serve OCSP responses,"Our OCSP responder is developed in house and used for our own OCSP services only. Therefore, the latest version always constitutes 100% of total usage.",,,,,"PKI software provided by : BULL SAS  (http://www.bull.fr/pdfs/S-MetaPKI-frWeb.pdf)
+Others software are based on : apache2/mod_ssl/tomcat/jboss",,,HiPKI OCSP Responder 2.0 100%,"We wrote our own OCSP Responder software.  We always use the latest version everywhere, so the version number history is irrelevant.",,,,,,,,Axway – 100%,,,,,Hongkong Post plans to purchase OCSP responder from third-party vendor,,,,,,"For OCSP, we use ocspd from openca.",,Izenpe uses Safelayer KeyOne software ,,K.Valid version 3.6/3.6.1: 99%,,,,,,,,,,Own SwissSign Product 100%,,TeliaSonera CA uses RSA Validation Manager as OCSP responder.,We use third party OCSP software,TC TrustCenter certificates are being end-of-lifed within 2014,Trustis has not developed any software for OCSP Responders. We’re in the process of implementing OCSP and will be using a commercial product for this.,,,,,"Numbers are approximate:
+[1] 67% - OCSP Responder software written by Symantec
+[2] 33% - commercial OCSP Responder software",,,,,,,,"KeyOne VA 3.0 - 62%
+KeyOne VA 4.0 - 37% (total of 99%)",nginx as a proxy for OCSP2,"Does the product support RFC 5019, Lightweight OCSP?",No,,,,No response,No,,,,,No response,,,No,Yes,,,,,,,,Yes,,,,,no response,,,,,,No response,,No response,,No,,,,,,,,,,No,,no response,No response,No,No response,,,,,"[1] Yes
+[2] No",,,,,,,,No. KeyOne VA 4.0 implements some features defined in RFC 5019,No response3,"Does the product support RFC 6960, OCSP Algorithm Agility?",No,,,,No response,No,,,,,No response,,,Yes,"We don't currently parse the Preferred Signature Algorithms OCSP Request extension.  At present, we always sign each OCSP Response using exactly the same algorithm that the corresponding certificate was signed with.",,,,,,,,Yes,,,,,no response,,,,,,No response,,No response,,No,,,,,,,,,,No,,no response,No response,No,No response,,,,,"[1] No
+[2] No",,,,,,,,No,No response4,What is the behavior if a request is made for a certificate serial number that had not been issued?,We respond REVOKED,,,,No response,The OCSP responder returns ‘unknown’,,,,,No response,,,"If the certificate serial number does not exist in the certificate management database, the responder will return unknown(2) in response CertStatus.","We send the unsigned ""unauthorized"" message",,,,,,,,This can be configured as Good or Unauthorized.,,,,,no response,,,,,,No response,,No response,,"Depending on the configuration, answer can be Good or Unknown.",,,,,,,,,,Status of 'unknown' is returned,,no response,No response,"A ""good"" response is returned",No response,,,,,"[1], [2] return 'unauthorized' (6)",,,,,,,,"KeyOne VA 4.0 allows the customer configure this behavior.
+KeyOne VA 3.0 considers these certificates as ‘good’.",No response5,"Does the product return a nonce in the response if a nonce was included in the OCSP request? If yes, is this behavior configurable?",YES  Is this behavior configurable? NO,,,,No response,Yes. Is this behavior configurable? No,,,,,No response,,,Yes. This behavior is configurable,We never include nonces in OCSP Responses,,,,,,,,Yes. Is this behavior configurable? Yes,,,,,no response,,,,,,No response,,No response,,Yes. Is this behavior configurable? No.,,,,,,,,,,Yes; is this behavior configurable? Yes,,no response,No response,Unknown,No response,,,,,"[1] No, nonces are ignored
+[2] Yes, nonces are returned. This is configurable",,,,,,,,Yes (all versions). Is this behavior configurable? Yes (all versions).,No response6,Which versions of SSL/TLS does the product support?,"SSL 2 NO
+SSL 3 YES
+TLS 1.0 YES
+TLS 1.1 YES
+TLS 1.2 YES",,,,No response," SSL 2
+SSL 3
+TLS 1.0
+TLS 1.1
+TLS 1.2",,,,,No response,,,"SSL 2
+SSL 3
+TLS 1.0
+TLS 1.1
+TLS 1.2","Question asked in error, I think.  Our OCSP Responders are only intended to be used over HTTP.",,,,,,,,"_?_ SSL 2
+_X_ SSL 3
+_X_ TLS 1.0
+_?_ TLS 1.1
+_?_ TLS 1.2",,,,,no response,,,,,,No response,,No response,,"SSL 3
+TLS 1.0
+",,,,,,,,,,"SSL2
+SSL3
+TLS 1.1",,no response,No response,None,No response,,,,,"[1], [2] OCSP is served over HTTP only",,,,,,,,"SSL 3 (KeyOne VA 3.0 and 4.0)
+TLS 1.0 (KeyOne VA 3.0 and 4.0)
+TLS 1.1 (KeyOne VA 4.0)
+",No response7,Does the product support SPDY?,No,,,,No response,No,,,,,No response,,,No,"Question asked in error, I think.  Our OCSP Responders are only intended to be used over HTTP.",,,,,,,,No,,,,,no response,,,,,,No response,,No response,,We see no use for SPDY for OCSP.,,,,,,,,,,No,,no response,No response,No,No response,,,,,"[1], [2] OCSP is served over HTTP only",,,,,,,,No,No response

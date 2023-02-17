@@ -1,8 +1,8 @@
 ---
-title: IETF ITS Working Group wiki
+title: ITS BOF (Concluded) - Intelligent Transportation Systems
 description: 
 published: true
-date: 2022-12-05T22:11:36.312Z
+date: 2023-01-04T22:56:17.632Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:11:36.312Z

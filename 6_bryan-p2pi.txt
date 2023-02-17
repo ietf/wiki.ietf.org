@@ -1,0 +1,179 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+
+
+
+P2PI                                                            D. Bryan
+Internet-Draft                              SIPeerior Technologies, Inc.
+Intended status: Informational                                S. Dawkins
+Expires: November 9, 2008                                   Huawei (USA)
+                                                             B. Lowekamp
+                                               SIPeerior; William & Mary
+                                                                 E. Shim
+                                                           Locus Telecom
+                                                             May 8, 2008
+
+
+Infrastructure-related Attributes of Application Scenarios for Peer-to-
+               Peer Session Initiation Protocol (P2PSIP)
+
+Abstract
+
+   This document points out previous work in P2PSIP that analyzed
+   attributes of various "application scenarios".  Several of these
+   attributes reflect requirements for underlying infrastructure
+   support.  This document suggests that work on P2P Infrastructure take
+   the application scenarios analysis as a starting point.
+
+
+1.  Infrastructure Attributes for P2PSIP Application Scenarios
+
+   Several individuals have been analyzing "application scenarios" ("use
+   cases" in previous versions of the drafts) in the P2PSIP working
+   group [I-D.bryan-p2psip-app-scenarios].  Each application scenario is
+   characterized by a number of attributes - for example, the number of
+   peers within a single overlay.
+
+   Many of these attributes have implications for the underlying
+   infrastructure - for example, whether multicast is required (and if
+   so, whether multicast is required at the link layer, IP layer, or
+   application layer).
+
+   We hope to explain the current state of our application scenarios
+   analysis at the P2PI workshop.
+
+   We hope to get feedback from the workshop about additional
+   application scenarios being considered, and about any attributes that
+   seem to be important for this analysis.
+
+   We hope to understand how any work initiated under P2PI might affect
+   ongoing work in P2PSIP, and vice versa.
+
+
+2.  Application Scenario Attributes
+
+   This is the complete attribute list used in
+   [I-D.bryan-p2psip-app-scenarios].  It's included here unchanged for
+   ease of reference.  Attributes that *likely* have implications for
+   underlying infrastructure are tagged with a leading "**".
+
+   Application Scenario:  The name of an application scenario
+         (previously called a "use case").
+   Section in Draft:  A cross-reference to the section number in this
+         draft where the application scenario is described.
+   Number of Peers:  The number of peers that will be active in an
+         overlay at any given point in time.
+   Number of Users:  The number of users that will be served by an
+         overlay at any given point in time.
+         Note that if there are more users than peers, this implies that
+         some client protocol is required, whether "client protocol" is
+         a P2PSIP client protocol or the SIP protocol (if the P2PSIP
+         overlay is also providing RFC 3263 [RFC3263]-style routing for
+         unmodified SIP clients).
+   Overlay spans administrative domains:  Whether the overlay spans
+         across multiple physical network administrative domains.  If
+         "yes", this makes IP multicast and centralized operations and
+         management unlikely.
+   ** Multicast Available:  Whether "application-level multicast", "IP
+         multicast", or "link multicast" may be available for a typical
+         overlay.
+         Note that these are ordered - link multicast implies IP
+         multicast could be available, and IP multicast implies
+         application-level multicast could be available.
+   P2P Client Support:  Whether the overlay need to support a P2P Client
+         protocol, i.e., whether the overlay contains P2P Clients as
+         well as Peers.
+   ** Interoperation with CS-SIP:  Whether the overlay must also
+         interact with legacy SIP clients and SIP proxies.
+         Note that one or more peers in the overlay may also act as PSTN
+         gateways.
+   ** Non-stop Operation:  Whether this application scenarios allows the
+         overlay to become unavailable for periods of time (for example,
+         could an overlay stop operating in order to change DHT
+         algorithms, or would the overlay have to support two DHT
+         algorithms in "ships in the night" mode?)
+   ** Centralized Operations and Management:  Whether any centralized
+         operations/management entity is responsible for successful
+         operation of the overlay.
+   ** Centralized ID Control:  Whether ID assignment by central
+         authority is required within an overlay (basically, whether the
+         overlay can be Sybil-attacked - the theory is that if IDs are
+         controlled by a centralized entity, overlay operators simply
+         remove misbehaving users from the authorization registry).
+   Supports Anonymous Users:  Whether this application scenario allows
+         users to connect to an overlay without providing any identity.
+   ** Carrier-Class Robustness:  Whether the overlay must provide
+         reliable storage and retrieval in the face of node failure.
+   ** NATs within a single overlay  Whether the peer protocol must
+         expect to perform NAT traversal as part of normal operation.
+   ** DNS available:  Whether DNS is available so that peers may perform
+         DNS lookups as part of the overlay JOIN operation.
+   ** End-to-end SIP Encryption:  Whether this application scenario
+         requires SIP traffic between two peers to be encrypted, so SIP
+         requests and responses are not visible to intermediate peers
+         (peers that forward traffic between two peers that aren't
+         directly connected).  In these cases, hop-by-hop TLS
+         encryption, although appropriate when traversing trusted SIP
+         Proxies, is not appropriate when traversing untrusted P2PSIP
+         Peers.
+
+
+5.  Normative References
+
+   [I-D.bryan-p2psip-app-scenarios]
+              Bryan, D., Shim, E., Lowekamp, B., and S. Dawkins,
+              "Application Scenarios for Peer-to-Peer Session Initiation
+              Protocol  (P2PSIP)", draft-bryan-p2psip-app-scenarios-00
+              (work in progress), November 2007.
+
+   [RFC3261]  Rosenberg, J., Schulzrinne, H., Camarillo, G., Johnston,
+              A., Peterson, J., Sparks, R., Handley, M., and E.
+              Schooler, "SIP: Session Initiation Protocol", RFC 3261,
+              June 2002.
+
+   [RFC3263]  Rosenberg, J. and H. Schulzrinne, "Session Initiation
+              Protocol (SIP): Locating SIP Servers", RFC 3263,
+              June 2002.
+
+
+Authors' Addresses
+
+   David A. Bryan
+   SIPeerior Technologies, Inc.
+   3000 Easter Circle
+   Williamsburg, VA  23188
+   USA
+
+   Phone: +1 757 565 0101
+   Email: dbryan@sipeerior.com
+
+
+   Spencer Dawkins
+   Huawei Technologies (USA)
+   1547 Rivercrest Blvd.
+   Allen, TX  75002
+   USA
+
+   Phone: +1 214 755 3870
+   Email: spencer@mcsr-labs.org
+
+
+   Bruce B. Lowekamp
+   SIPeerior; William & Mary
+   3000 Easter Circle
+   Williamsburg, VA  23188
+   USA
+
+   Phone: +1 757 565 0101
+   Email: lowekamp@sipeerior.com
+
+
+   Eunsoo Shim
+   Locus Telecommunications, Inc.
+   2200 Fletcher Ave. 6th FL
+   Fort Lee, NJ  07024
+   USA
+
+   Email: eunsoo@locus.net

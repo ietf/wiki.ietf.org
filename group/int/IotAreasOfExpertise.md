@@ -2,7 +2,7 @@
 title: IOT Directorate Areas of Expertise
 description: 
 published: true
-date: 2022-12-15T06:07:22.980Z
+date: 2022-12-15T06:07:27.015Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T06:06:49.598Z

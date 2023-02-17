@@ -1,8 +1,8 @@
 ---
-title: IETF Codec WG Wiki
+title: CODEC WG (Concluded) - Internet Wideband Audio Codec
 description: This wiki is for use by the IETF's Codec WG. We're currently working on the following page:
 published: true
-date: 2022-12-05T21:56:40.108Z
+date: 2023-01-04T21:20:23.853Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T21:40:17.580Z

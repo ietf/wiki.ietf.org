@@ -1,0 +1,195 @@
+                    Position Paper: P2PI Workshop
+                           Nicholas Weaver
+                      nweaver@icsi.berkeley.edu
+
+
+                The case for "Ugly Now" User Fairness
+
+The following opinions are my own.
+
+
+I believe that we need "Ugly Now" user-fairness mechanisms which can
+be efficiently and cost-effectively deployed in ISPs today, because I
+believe that otherwise the conflict between ISPs and P2P software is
+going to continue to escalate.
+
+In the following, I use P2P software to mean P2P bulk data software,
+where the nodes in the system contribute substantial upload bandwidth
+as well as download bandwidth.  This includes file transfer protocols
+like BitTorrent and some video protocols like Joost.  It does NOT
+include DHTs or other distributed search applications or applications
+which perform point-to-point transfers of smaller files.
+
+
+1) Bulk Data P2P software, as used, has little incentive by the user
+to be TCP fair.  As a user, if the user is performing other
+activities, they can suspend their P2P application, or turn its
+available bandwidth way down.
+
+And when they aren't, there is no reason not to open a dozen .torrents
+simultaneously, so even if the application uses TCP and makes a
+reasonable attempt to be TCP-fair per file (such as by only actively
+transferring on 4 TCP streams per file), the number of simultaneous
+connections creates an effectively unfair dataflow.
+
+
+2) Bulk Data P2P software, as written, has little incentive to be TCP
+fair.  One could easily construct a BitTorrent or other P2P client
+which is TCP fair or deliberately friendlier, using many of the known
+techniques.  But such an implementation will probably fail in the
+marketplace, as users will complain about slow downloads compared with
+alternate clients.
+
+In fact, Bulk Data P2P software has proven to be the opposite.  There
+are protocols like Joost which are designed to upload 100 kbps of
+uncongestion-controlled UDP to other peers on the system and then use
+encoding techniques to tolerate packet loss.
+
+
+3) Bulk Data P2P software, as written, is focused on cost shifting
+rather than cost savings, as it shifts the upload cost from the
+content provider to the content recipient, without shifting the time
+from when there are others using the network to when the network
+bandwidth is underutilized.
+
+Since the provider would have access to centralized bandwidth (Amazon
+S3 is $.18/GB transferred, and other services are undoubtedly cheaper),
+yet the receivers are end-users at retail ISPs, this substitutes
+high-cost bandwidth for low cost bandwidth, so not only is it cost
+shifting, but grossly inefficient cost-shifting, substituting a
+high-cost item (end-user ISP bandwidth) for a low-cost item (bulk
+centralized bandwidth)
+
+Yet in the flat-rate pricing world, the end-user doesn't see these
+costs directly, so has no incentive to minimize them either.
+
+One could construct a P2P program which is centered around
+cost-savings, where the P2P program only uses otherwise unused
+bandwidth.  However, such a P2P program would have to be friendlier
+than TCP (see point 2), and therefore would probably be considered too
+slow.
+
+
+4) Bulk Data P2P software will probably always be detectible by ISPs
+through traffic analysis, simply because all obsfucation can't remove
+the salient properties: a large amount of data is being uploaded to
+and downloaded from multiple peers in the system.  Cover traffic can
+successfully disguise DHTs or other distributed functions, but
+distributed large file distribution can't have its traffic removed in
+this manner.
+
+
+5) Unless:
+a) The bulk data P2P program is very topologically aware (so the P2P
+program understands when peers are local)
+
+b) The bulk data files in question is very popular within an ISP (so
+there are numerous local peers)
+
+c) the files are very large (so the ISP doesn't want to spend the
+resources caching them) or the ISP doesn't have a transparent HTTP
+cache
+
+bulk data P2P will require the ISP shift considerably more bits then
+they would if the fetch was through HTTP.  Even in the perfect
+topological case (NO data leaves the ISP), there will be an equal
+number of bits shifted, just between users rather than from the cache
+to the users.
+
+
+6) ISPs have little incentive to add P2P caches, although such caches
+could be reasonably constructed today using off-the-shelf technologies
+for many bulk-transfer P2P protocols.
+
+Bulk transfer P2P is either for pirated material or for cost shifting.
+For pirated material, why should an ISP take the legal risk of
+creating a cache?  Even if they would prevail in court, the cost of
+the court case alone would be substantial.
+
+For cost shifting, why would an ISP want to aid a process which is
+designed to shift costs away from the content provider onto the ISP?
+Even if it is in the ISP's long term interest, this appears like a
+dangerous precedent for ISPs to set.
+
+
+
+
+Thus I believe that the conflict seen between ISPs and bulk-data P2P
+is only beginning, especially as businesses take advantage of the cost
+shifting properties of bulk-data P2P: 1 GB/hour for video multiplied
+by 100,000 users fetching 100 hours each month = 10 PB.  At $.2/GB,
+that becomes 2 M$/month in cost savings.
+
+
+
+I believe there are a few options that ISPs will consider:
+
+A) Continued conflict.  Reset injection/packet injection is only a
+temporary measure (it is both detectible and counterable by shifting
+to UDP for bulk-data P2P, which will probably make the problem worse).
+
+But ISPs can either purchase in-line devices or, if the routers have
+suitable flexibility, have out of path devices inject short-lived ACLs
+to block undesired P2P flows.  Since I believe in note 4, such
+conflict has a large advantage to the ISP.  Yet I also worry that the
+collateral damage would probably be intolerable.
+
+
+B) Usage caps or per-bit pricing.  By either limiting the heavy users
+or by billing them for overages, this destroys the cost-shifting
+advantage for commercial bulk-data P2P.  With the user directly
+experiencing the costs of the increased bandwidth usage, services
+which use bulk data P2P no longer see a cost advantage over services
+using HTTP or other conventional delivery mechanisms and would
+actually see a severe cost disadvantage if the ISP charges ~$1/GB.
+
+
+C) Ad-hoc shaping: Simply favoring short lived flows over long lived
+flows (eg, Comcast PowerBoost) reduces some of the impact from
+long-lived bulk flows.  However, such shaping probably can (and
+probably will) be gamed.
+
+
+D) Network enforced cost fairness to create user fairness, measured
+over multiple timescales ranging from milliseconds to hours, as
+proposed by Brisco and others.
+
+
+I personally believe that network enforced cost fairness is the most
+preferable outcome.
+
+As long as the heavy users of bulk P2P (or everything else) are a
+minority population, this prevents the heavy users from impacting
+others while automatically converting their P2P and other streams into
+scavenger flows (so they are actually using the "unused" bandwidth in
+off-peak times regardless of their intention).
+
+And if the heavy users are happy, then the ISP is happy.  If the heavy
+users leave for another ISP, then the ISP is happy because the heavy
+users aren't paying more than light users.  And if the heavy users are
+not the minority, but the majority, its time for the ISP to upgrade
+its infrastructure anyway.
+
+
+
+There are several proposed mechanisms (Brisco et al's ReECN for
+example) which can be used as a building block for network enforced
+cost/user fairness.
+
+Yet I believe that we would benefit from the "Ugly Now" traffic
+shaping solution, where traffic shaping devices do not require any
+changes to the routing infrastructure or end point software.
+
+I think there needs to be low-cost (1.5 k$/Gbps), fail-open (failures
+result in packets passing unchanged) devices which can be placed at
+the ingress points between the users and the ISP and which infer
+inbound and outbound points of congestion within an ISPs topology by
+combining routing information with monitoring of multiple flows as
+well as any direct router feedback available, and then enforce
+an ISP's fairness policy targeted on intra-ISP congestion.
+
+Although I do not believe that it is the IETF's role to develop and
+implement such devices, without SOMEONE developing and providing
+mechanisms for inexpensive cost-fairness/user-fairness enforcement,
+ISPs are going to select the outcome which costs them the least to
+implement, outcomes which may be considered far less desirable.

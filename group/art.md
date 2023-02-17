@@ -1,8 +1,8 @@
 ---
-title: IETF Applications and Real Time (ART) Area
+title: ART Area
 description: These pages provide information about application protocols such as email and the web.
 published: true
-date: 2022-12-03T03:54:12.879Z
+date: 2023-01-13T00:59:44.045Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:01:03.827Z
@@ -22,3 +22,12 @@ Specification authors will want to be familiar with [Typical ART Area Issues](/g
 - [xml2rfc Validator](http://fenron.net/~fenner/ietf/xml2rfc-valid/)
 - [XML Schema Validator](http://www.w3.org/2001/03/webdata/xsv)
 - [XML Schema Validator (alternate)](http://validate.openlaboratory.net/)
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2019-04-25. It was migrated from the old Trac wiki on 2023-01-12.*

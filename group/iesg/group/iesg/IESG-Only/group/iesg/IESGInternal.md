@@ -2,7 +2,7 @@
 title: IESG Internal
 description: 
 published: true
-date: 2022-08-24T16:08:12.588Z
+date: 2022-11-29T19:36:46.557Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T16:08:09.389Z

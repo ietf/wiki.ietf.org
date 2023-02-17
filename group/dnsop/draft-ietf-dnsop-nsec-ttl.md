@@ -2,7 +2,7 @@
 title: draft-ietf-dnsop-nsec-ttl
 description: draft-ietf-dnsop-nsec-ttl implementations
 published: true
-date: 2022-12-06T23:42:54.409Z
+date: 2023-01-24T20:47:43.078Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T23:42:54.409Z
@@ -51,3 +51,12 @@ Knot MR (merged): https://gitlab.nic.cz/knot/knot-dns/-/merge_requests/1219
 PowerDNS changelog https://doc.powerdns.com/authoritative/changelog/4.3.html#change-4.3.0-beta2 and merged PR https://github.com/PowerDNS/pdns/pull/8811
 
 ldns (unmerged): https://github.com/NLnetLabs/ldns/pull/118 
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2021-01-26. It was migrated from the old Trac wiki on 2023-01-24.*

@@ -2,7 +2,7 @@
 title: Dime Status Updates
 description: Dime WG Status Updates
 published: true
-date: 2022-12-06T21:25:06.857Z
+date: 2023-01-13T20:56:15.731Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T21:24:51.424Z
@@ -19,3 +19,11 @@ Following [mail](http://www.ietf.org/mail-archive/web/dime/current/msg04334.html
 ## Status Update April 26, 2010
 
 Following [mail](http://www.ietf.org/mail-archive/web/dime/current/msg04149.html) was posted on the Dime mailing list, which brought several document alive back from death and restarted their WGLCs. We are now also very close to ship RFC3588bis to IESG.. finally.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2010-08-02. It was migrated from the old Trac wiki on 2023-01-13.*

@@ -1,0 +1,71 @@
+IETF CLUE design team meeting, 26/06/2012
+
+Attendees:  Brian Baldino, Mary Barnes, Tom Kristensen, Roni Even, Paul Kyzivat, Allyn Romanow
+
+The following items were discussed.  
+
+- Action items from the interim:
+-  Magnus: send text to clarify concerns with regards to the framework and encoding groups (per slide 6 of FW presentation) (Open) [Action: Mary to ping Magnus]
+- Roni will work with Jonathan to produce one RTP document including topologies (Ongoing)
+- Mark: update the framework based on discussions/conclusions. Remove Appendices per discussion.  (Ongoing)
+- Stephan: send text that needs to be added to the framework for item 3) above. (Done) [Action: Mary will post updated text to get consensus on specific update to framework]
+- Charles: once new RTP doc is available, forward to SIPREC as FYI and for any feedback. (Open)
+- Mary: send link to IMTC document to CLUE. (Done)
+- Allyn: develop and submit an initial call flow document for discussion.(Ongoing)
+- Roni: submit use cases for switched capture (Done - need feedback from WG on:  
+http://www.ietf.org/mail-archive/web/clue/current/msg01597.html
+
+- Plans for tutorial @ IETF-84.
+--  We have had a decent response.
+
+Two items of good news:
+1)  The vast majority of respondents thus far are non-CLUE (and
+non-RAI) folks and I've gotten positive responses from some IAB and
+IESG members.
+2) Meetecho will be recording the session, so it will be available
+after the meeting.
+
+Two items of bad news:
+1) We haven't had any positive responses from the RTCWEB crowd.  I
+will be sending a reminder.
+2)   It also looks like we won't be able to provide lunch - we will
+try to get cookies at least (including GF), but the hotel wants almost
+$50 each for box lunches which is insane IMHO.
+
+-- As far as preparing and presenting the materials, the idea at this
+point is to have teams work on the presentations over the next couple
+weeks (in your spare time between updating drafts ;).  Out of each
+team, one individual will do the presentation as we can't have 10-12
+presenting.   Here's my draft proposal - note that if your name is
+here and you don't want it to be, then please holler.
+
+1) Introduction to telepresence  (Allyn, Steve) (10 min)
+Note: Marshall has been removed as he hasn't responded as to whether he is available. 
+
+2) Example telepresence scenarios  (Roni, Stephan (we really liked
+your example from the interim ;) , Allyn )  (15 min)
+
+3) Introduction to the CLUE work (Mary, Paul, Allyn, Steve) (5 min)
+
+4) High level introduction of framework  (Allyn, Andy, Brian, Steve)
+Note: we have added Steve to this team and removed Mark as he is not available to work on this activity.  (15 min)
+
+5) One or two use cases as examples of how the CLUE framework is
+realized - showing how existing protocols (e.g., SDP, RTP) are
+integral to the solution along with additional signaling for CLUE.
+(Rob, Jonathan, Roni, Andy, Allyn, Espen)  (20 min)
+
+6) Q&A (15 min)
+
+We will need time for Q&A so it would be very tight with 5 presenters
+- note that we will include everyone who contributes to the
+presentations on a slide in the presentation.   The most important thing is that the material is well presented with enough detail for
+folks to grok what CLUE is doing, but not so much that they get lost
+in the detail.
+
+As far as the timeline, we really need to have a first pass within two weeks as it's *really* important the material flows and we want to have everything in one package.
+
+Discussion:
+The plan will be to review the first draft on Tuesday, July 10th. Note  that we need the rough drafts distributed no later than noon on  Monday, July 9th so folks have a chance to review before the  meeting. 
+
+Action Item: Mary to send reminders, indicating no lunch will be provided. 

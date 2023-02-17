@@ -1,0 +1,38 @@
+IETF CLUE design team meeting, 19/06/2012
+
+Notes by Rob Hansen. 
+
+Participants:
+
+Paul Kyzivat
+Brian Baldino
+John Leslie
+Robert Hansen
+Roni Even
+Allyn Romanow
+Andy Pepperell
+Mary Barnes
+
+Allyn raised the question of whether it would be possible to change the Webex options to generate a toll-free number to dial in with. Paul said he would look into it. Roni pointed out it was possible to join the conference via the PC.
+
+It was decided to discuss draft-even-clue-swithed-use-cases-00 - as some people had not read it Roni shared the document.
+
+Rob asked if when the document says that the document says the framework defines "mixed" it meant "switched" - Roni confirmed it did.
+
+Roni went through the example in the introduction, first with the example of an endpoint offering the four capture scene entries, then an MCU doing much the same. He pointed out that in the MCU case, the first capture scene entries might be switched. Paul asked if, in this case, the captures would still have spatial information. Roni said it would be up to the MCU, but that generally they would, but not with 'real' coordinates.
+
+Paul asked whether a device such as the one given in the example was obligated to give a sensible two-screen option. Roni said that no, and that at least in the initial case the provider had no concept of how many screens the consumer had. If the provider doesn't offer anything optimal the consumer will have to do the best it can from the captures available.
+
+Roni suggested that based on what is currently in the framework, there is some limited ability for a provider to adjust its advertisment based on the other side's advertisment. Rob suggested that there isn't necessarily symmetry between what a device can send and what it can receive. Roni agreed that this wasn't necessarily an optimal approach, but was what could be done using the current framework.
+
+Paul suggested that when the number of screens was small it would be relatively easy for a provider to advertise all sensible combination of screens, but as the number of screens increases this becomes less sensible as the problem becomes combinatorial. Rob pointed out that as the number of screens increases the potential ways they can be laid out all increases (with three or fewer screens
+
+Allyn suggested at this point that with so little time remaining in the call we should move further on in the document. There was some discussion of what should be discussed next.
+
+Roni said he thought that the current framework was sufficient to work for telepresence systems with one to three screens laid out left to right, with the number of cameras matching the number of screens. There are then other scenarios (number of monitors not matching number of screens, non-linear layout of screens, endpoints doing local composition, etc) which are not currently solvable with the current framework, and there is a trade-off between allowing more scenarios and the time required to complete the process. Allyn expressed the fact that this wasn't necessarily an all-or-nothing thing, and that some of the functionality could be added to the framework while others were not.
+
+There was some discussion about the format of the use cases; Allyn and Andy felt some of the use-cases in the document were more mechanisms for solving the problem than they were pure use-cases. Roni explained that when writing the user cases some of them were linked and could potentially be joined together. Allyn said she would send some notes on the user-cases to the list.
+
+Roni asked for the interim meeting minutes - Mary stated that they had for the most part been published, and that she would send a link to the list.
+
+Paul asked if there were any other user-cases, as whether there were any cases involving the N+M mix of main and presentation video. Roni said that this was a general case of one case that had already been documented with the simple case of a three screen system taking two main video and one presentation video. Paul was interested in what the behaviour should be when a consumer has the option of subscribing to main and presentation and doesn't have the resources to receive both, and whether it was generally true that presentation should be priorities. Mary asked Paul to send a note to the list on the subject.

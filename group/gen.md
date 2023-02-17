@@ -1,8 +1,8 @@
 ---
-title: IETF General Area
+title: General Area
 description: Wiki for GEN
 published: true
-date: 2022-12-09T21:02:52.012Z
+date: 2023-01-30T17:57:00.878Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:06:24.204Z
@@ -43,7 +43,7 @@ The Telechats are every other Thursday, with the [agenda](https://datatracker.ie
 
 * The Secretary makes Telechat review assignments at the same time as Last Call assignments.
 * For documents that were reviewed at Last Call, the same reviewer is assigned and a new review is only asked for if the document is significantly revised or issues have not been resolved.
-* Reviewers send their review to the gen-art list no later than COB (i.e., 8 PM EDT) the Tuesday before the Telechat (earlier is better!)
+* Reviewers send their review to the gen-art list no later than COB (*i.e.*, 8 PM EDT) the Tuesday before the Telechat (earlier is better!)
 * The reviewer sends the review to the gen-art list, the AD, WG chairs & authors, and optionally to the WG mailing list.
 * If the AD concludes that the concerns raised by the reviewer warrant blocking the document, the AD will do so. 
 
@@ -80,7 +80,7 @@ The review should apply generally agreed IETF criteria, such as
 
 [RFC3439](https://datatracker.ietf.org/doc/rfc3439/) Some Internet Architectural Guidelines and Philosophy
 
-[NITS](https://www.ietf.org/standards/ids/checklist/) The "I-D Nits" document maintained by the IESG
+[NITS](https://author-tools.ietf.org/idnits) "I-D Nits" tool
 
 [RFC2223](https://datatracker.ietf.org/doc/rfc2223/) Instructions to RFC Authors
 
@@ -104,9 +104,9 @@ Of special interest to the GEN area (because it's no area's special interest) is
 &nbsp;
 ### What is a Serious Issue?
 
-When is a reviewer likely to flag an issue as major, which may well lead to a DISCUSS ballot in the IESG unless it's fixed in advance?
+When is a reviewer likely to flag an issue as **major**, which may well lead to a DISCUSS ballot in the IESG unless it's fixed in advance?
 
-The IESG's own guidelines are at https://www.ietf.org/iesg/statement/discuss-criteria.html. Reviewers (or authors) can put themselves in the IETF Chair's shoes. Would you definitely hold up the document for this (i.e. a solid DISCUSS)? Would publishing it as-is be actively misleading or harmful? Then it's major.
+The IESG's own guidelines are at https://www.ietf.org/iesg/statement/discuss-criteria.html. Reviewers (or authors) can put themselves in the IETF Chair's shoes. Would you definitely hold up the document for this (*i.e.*, a solid DISCUSS)? Would publishing it as-is be actively misleading or harmful? Then it's major.
 
 Would you *possibly* place a DISCUSS, which you would very likely drop as soon as an author or the sponsoring AD explained the point or said "sure, we'll fix that"? Or would you simply issue a COMMENT and ballot No Objection? Then it's minor.
 
@@ -134,7 +134,15 @@ All reviews are sent to the IETF gen-art mailing list: https://mailarchive.ietf.
 
 Reviews are managed using a specific tool. Reviewers can log in to the tool here: https://datatracker.ietf.org/group/genart/reviews/
 
-Review tool user guide: https://wiki.ietf.org/e/en/group/gen/DatatrackerReviewToolHowto
+Review tool user guide: https://wiki.ietf.org/group/gen/DatatrackerReviewToolHowTo
 ### Archiving of reviews
 
 All reviews are archived. They are visible in the mailing list archive, along with any subsequent discussion copied to the list: https://mailarchive.ietf.org/arch/browse/gen-art/ 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2023-01-30. It was migrated from the old Trac wiki on 2023-01-24.*

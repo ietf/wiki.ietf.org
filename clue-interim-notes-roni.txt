@@ -1,0 +1,71 @@
+Notes Tuesday afternoon session
+by Roni Even
+ 
+3D Locations -  Marshall
+Capture plane is the line that goes through the camera and the origin is on the middle camera.
+What about podium how do you put it in the room
+Andy- is the axis per system or capture set
+Marshall – per system.
+Andy – what is the axis for presentation.
+Steve- each capture set has its own axis
+Jonathan – there is enough math in the solution, why specify the origin
+Marshall – the reason to specify the origin, is that the origin will not be consistent.
+Jonathan- what you care is where the cameras are. He is not sure if it is a problem if it is anywhere in the room.
+Stephan – if there is no screen for the podium there is no way to render correct. Suggest to leave out the podium use case. The system on the other side will not have the monitor to display. Suggest to limit the scope. So a podium does not have a position
+Steve – if we define the origin as is nothing break and have some value in the document. The concern is additional capture points in the room.
+Marshall – are the other capture points important and do you need to have the relation between them
+Gonzalo – polar co-ordinate requires the origin.
+Marshall – important if the cameras are not in the center.
+Steve – You can have a system that captures a room that is like a U with cameras on all side. It is not TP system.
+Mark – is there a value to know the difference between the camera positions.
+Jonathan – simple to just know the order – left to right, while the more complicated for those who want to do the geometry.
+Steve- we have not done the multi row case enough.
+Marshal – center of camera and FOV should be conveyed.
+Andy – the area of capture  is not the line of the seating but the volume.
+Brian – the Cartesian  coordinates can be used the same
+Paul – people may choose different origin. The receiver may have to calculate the axis based on his system.
+Steve – think that the idea to have the distance of the rows based on the capture line is good
+Marshall – the systems may be constructed in arcs. We can allow to describe this but think it is not necessary
+Allyn – what is the important of the distance to row if one camera
+Steve- helps with identified the speaker
+Allyn – not clear if the information on the area and origin is useful for the renderer.
+Marshall – two camera system and the other side 3 screen. Do you want to know where to render.
+Mark – wants to have eye contact.
+Hadriel – the simplicity of just knowing left and right. Easy to know if the origin is in the center camera.
+Jonathan – does not work for composite picture  which do not have a camera location.
+Gonzalo – are focal of the camera and the zoom and pan of camera.
+Marshall – there is no far end camera control.
+Steve – went from relative left to right to help match audio to video. Need to keep it.
+Mark – if the consumer maps everything to straight axis. But if we use the curves the simple subtraction of only one axis will not work.
+Marshall – there are specific cases that may be treated cameras.
+Brian – need the simple linear for the simple left to right case and the polar arc case for the ones who want it.
+Jonathan – Should have a similar representation and not two different ones for the 3 screen system and the presentation or composed systems.
+ 
+ 
+VAD in clue
+Andy
+Marshall – talk with Colin of RTP guys.
+Jonathan – maybe you want to say that this is the level of audio for this video capture. Or say the speaker is in this camera
+Andy – if you put it on a composite video you do not know which one it is.
+Roni – the number of audio captures can be different from video
+Brian – the audio level should be in the audio stream.
+Roni – need to be able to associate the audio to video but not by having the level in the audio stream
+ 
+CLUE messaging model – Allyn
+Started with two of the messages. The provider send what it can send, the consumer selects and the provider sends and there is a similar exchange on the other side.
+Stephan – no decision if to use SDP.
+Gonzalo – need backward computability.
+Stephan – we may need to change the mode during a call.
+Jonathan – want partial state update which rules out SDP.
+Paul – there will SDP offer answer. It is about the extra information. It is not independent from SDP.
+Stephan – the messaging and SDP relation should be part of the framework.
+Stephan – how do we get the CLUE information over the wire.
+ 
+Framework issue
+Layout
+The composition will be deferred till Stephan provide text.
+Auto switch – provide information about the auto switch algorithm
+Jonathan – suggest information about what is the area covered in the switch. Are you switching between captures, provide the capture you provide will help.
+The switching and composition need to be known by middle box and there need to be a way to describe the streams.
+Steve propose one Boolean – composed or not. About auto switch – we defer it until we discuss RTP relation.
+ 

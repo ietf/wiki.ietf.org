@@ -2,7 +2,7 @@
 title: WG IPR Discussions
 description: 
 published: true
-date: 2022-11-05T16:43:36.109Z
+date: 2022-11-29T19:37:23.774Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:24:10.401Z

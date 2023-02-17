@@ -2,7 +2,7 @@
 title: HTTP Authentication Proposals
 description: HTTP Authentication Proposals
 published: true
-date: 2022-12-14T19:53:38.424Z
+date: 2022-12-14T19:53:43.723Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T23:44:06.246Z

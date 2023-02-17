@@ -1,0 +1,139 @@
+,,Microsoft,Mozilla (preliminary answer),Google,Apple,Opera,Blackberry,Comodo1,"As of December 2013, which product versions combined constitute 99% of total usage of the vendor's products?",,"This data is as of January 2014.
+Firefox Desktop
+(bottom 1% of versions removed)
+3 0.42%
+3.5 0.31%
+3.6 1.35%
+4 0.50%
+5 0.32%
+7 0.31%
+8 0.42%
+9 0.44%
+10 0.79%
+11 0.56%
+12 1.40%
+13 0.53%
+14 0.63%
+15 0.74%
+16 1.03%
+17 1.40%
+18 0.63%
+19 0.71%
+20 0.90%
+21 0.96%
+22 1.09%
+23 1.31%
+24 1.80%
+24.2 0.69%
+25 2.73%
+26 75.07%
+27 2.15%
+
+Firefox for Android
+(bottom 1% of versions removed)
+4 0.24%
+8 0.21%
+10 0.73%
+14 0.42%
+15 0.36%
+16 0.35%
+17 0.54%
+18 0.53%
+19 0.61%
+20 0.93%
+21 1.15%
+22 1.76%
+23 9.47%
+24 3.13%
+25 3.62%
+26 72.34%
+27 2.59%
+ 
+Firefox OS for mobile devices
+(bottom 1% of versions removed)
+1.0 20.5%
+1.1 78.9%
+ 
+
+
+
+
+
+
+
+
+
+",,,,,"We provide 2 web browsers:
+     - Comodo Dragon (based on Google Chrome)
+     - Comodo IceDragon (based on Mozilla Firefox) I have no idea if either of these 2 browsers exceeds the ""more than 0.1 percent of connections made by desktop and mobile browsers"" threshold specified by the WPKOPS charter."2a,Is CA conformance with the CAB Forum Baseline Requirements and EV Guidelines required for a root to be included in your trusted key store?,,"
+
+
+Firefox uses the NSS root store.
+
+Inclusion in Mozilla products requires CAs to be in conformance with the BRs.  
+In order for a CA to get EV-treatment, they must also comply with the EV Guidelines.",,,,,2b,What circumstances result in blacklisting/ removal of “EV status”/removal of a root from the trusted key store?,,"
+EV-treatment will be removed if the CA fails to provide an annual EV audit statement. EV-treatment is not given whenever the revocation checking fails.
+
+Blacklisting and root removal is according to Mozilla’s policy:
+
+http://www.mozilla.org/en-US/about/governance/policies/security-group/certs/policy/maintenance/
+
+http://www.mozilla.org/en-US/about/governance/policies/security-group/certs/policy/enforcement/",,,,,3,Which trust models are supported by the product (draft-ietf-wpkops-trustmodel-00 Section 3.4)?,,"
+_X_ Browser directly trusts issuing CA key
+
+_X_ Browser directly trusts subscriber entity key 
+(browser can be configured to trust any certificate the user requests be trusted)
+
+    __ Browser supports public key pinning 
+(not yet - https://bugzilla.mozilla.org/show_bug.cgi?id=744204)",,,,,4,Can any security-related checks be disabled by the user?,,"
+Yes.
+
+https://support.mozilla.org/en-US/kb/connection-untrusted-error-message
+
+https://wiki.mozilla.org/CA:UserCertDB
+There is a user preference to control OCSP hard fail, which is disabled by default.",,,,,5,"Does the product provide special treatment of EV SSL certificates (different UI or different behaviour)? If yes, please detail in any answers to the following questions where EV behavior differs from non-EV behavior.",,Yes -- Green lock icon and issuer organization are displayed in the address bar.,,,,,6,"Path building: If the TLS handshake results in an incomplete certificate path, does the product use information in the id-ad-caIssuers field of the authorityInfoAccess extension to build a path (aka “AIA chasing”)?",,No. https://bugzilla.mozilla.org/show_bug.cgi?id=399324 . We have no current plans to implement this.,,,,,7,Public-key validation: What aspects of public-key validation does the product enforce? (check all that apply),,"
+__ minimum key size
+(in policy, but not enforced in code - https://bugzilla.mozilla.org/show_bug.cgi?id=360126)
+
+__ maximum validity period
+(in policy, but not enforced in code)
+
+__ RSA exponent checks
+(in policy, but not enforced in code)
+
+__ RSA modulus checks
+(in policy, but not enforced in code)
+
+_X_ digest algorithm",,,,,8a,"Path validation: What sub-sections of RFC 5280 Section 6 (path validation) does the product enforce?
+6.1.3 (a) (1) Verify the signature on the certificate",,Yes,,,,,8b,"6.1.3 (b) The subject name is within one of the permitted_subtrees for X.500 distinguished names, and each of the alternative names in the subjectAltName extension is within one of the permitted_subtrees for that name type __ yes   __ no   List the name forms for which the constraint is imposed.",,Yes,,,,,8c,"6.1.3 (c) The subject name is not within any of the excluded_subtrees for X.500 distinguished names, and each of the alternative names in the subjectAltName extension is not within any of the excluded_subtrees for that name type. List the name forms for which the constraint is imposed.",,Yes,,,,,8d,6.1.3 (d) Calculate the certificate policies for which the certification path is valid,,Yes (for EV),,,,,9a,Is the product able to build a correct certificate chain if the certificates are received from the server in an incorrect order?,,Yes,,,,,9b,"Does the product perform certificate policy extension processing? __ yes __ no  If yes, please elaborate on how the extension is processed.",,Yes,,,,,9c,What certificate content checks are performed by the product to determine if the certificate is acceptable for SSL/TLS use?,,See https://cabforum.org/pipermail/public/2013-August/002126.html,,,,,10a,"Does the product support TLS certificates with a Common Name field? __ yes  __ no  If yes, is the Common Name used in UI, path processing, or some other functionality?",,Yes,,,,,10b,Does the product support TLS certificates with multiple Common Names?,,No,,,,,10c,"Does the product allow wildcard characters in TLS certificate Common Names or SANs? If yes, does the product support a wildcard character in a location other than the complete leftmost label?",,"Yes, No",,,,,10d,Does the product support Internationalized Names in the TLS certificate Subject and Issuer Distinguished Name fields and SANs?,,Yes,,,,,10e,What is the behavior when the user types in a URL using a Punycode name and the TLS certificate contains only the native encoding of the domain name?,,"Works fine, Unicode in URL bar - tested using https://www.éxample.com/",,,,,10f,What is the behavior when the user types in a URL using a native encoding of the domain name and the TLS certificate contains only the Punycode name?,,"Works fine, Unicode in URL bar - tested using https://www.éxample.com/",,,,,10g,Does the product match the name in the server certificate with the name in the request/URL?,,,,,,,10h,Does the product enforce name constraints in the CN of the Subject DN of the end certificate if the CN is matched with the name in the request/URL?,,,,,,,11a,"Which of the following status mechanisms does the product support? (check all that apply; if multiple mechanisms are used, please explain under which conditions they are each used)",,"1. CRL - Firefox currently has very, very limited support for CRLs and will soon have none. https://bugzilla.mozilla.org/show_bug.cgi?id=867465 .
+
+5 - AIA (where the location of the OCSP responder is obtained from the AIA extension)
+
+6 - Stapled OCSP
+
+7 - multiple-stapled OCSP
+Not yet - https://bugzilla.mozilla.org/show_bug.cgi?id=901698 .
+
+8 - CRL Sets 
+Not yet - https://bugzilla.mozilla.org/show_bug.cgi?id=886471 (XXXBrian - is this the right bug?)
+
+9 - Blacklists",,,,,11b,What order of priority amongst these mechanisms does the product follow? Please give the above numbers in order of decreasing priority.,,"9, 6, 5",,,,,11c,"Does the product require that status values be provided by the issuer of the subject certificate? If no, please explain who is permitted to provide status values",,Yes,,,,,12a,Are CRLs cached?,,,,,,,12b,May a CRL be used after its nextUpdate time?,,,,,,,12c,How long does the product wait for a CRL response before timing out?,,,,,,,12d,What is the behavior if a response is not received for an external CRL request?,,,,,,,13a,Are OCSP responses cached?,,Yes,,,,,13b,May an OCSP response be used after its nextUpdate time?,,"No, although we reserve the right to do so in the future.",,,,,13c,How long does the product wait for an OCSP response before timing out?,,,,,,,13d,"Does the product include a nonce in the OCSP request? If yes, what is the behavior if the response includes a non-matching nonce, or no nonce?",,"No - https://bugzilla.mozilla.org/show_bug.cgi?id=69732 . However, it seems that the industry is moving away from use of nonces.",,,,,13e,"Does the product support RFC 6960, OCSP Algorithm Agility?",,No,,,,,14a,Does distribution of the CRL Set require a software update?,,,,,,,14b,What reason codes are included in the CRL Set?,,,,,,,14c,Which CRLs are included in the CRL Set?,,,,,,,14d,Which CRLs are excluded from the CRL Set?,,,,,,,15a,Does the product support name constraints for DNS Names?,,,,,,,15b,Does the product support name constraints for IP Addresses?,,,,,,,15c,"Does the product enforce name constraints on all certificates in the path? If no, list the certificates it enforces name constrains on (e.g., end entity certificate only - see RFC 5280 Section 6.1.3 Steps b and c)",,,,,,,15d,Does the product collect and update name constraint state from each certificate in the certification path as described in Section 6.1.4 Step g of RFC 5280?,,,,,,,15e,"Does the product treat absence of name constraints in a certificate in accordance with RFC 5280, i.e., the certificate is unconstrained?",,,,,,,15f,"Does the product treat absence of a name form in a name constraint in a certificate in accordance with RFC 5280, i.e., the certificate is unconstrained for that name form?",,,,,,,16a,"What SSL/TLS-specific error conditions result in a warning to the user, while allowing the user to click-through and accept the connection? (check all that apply)",,"_X_ Expired end-entity certificate
+_X_ Revoked end-entity certificate
+_X_ End-entity Certificate not yet valid
+_X_ Expired intermediate certificate
+_X_ Revoked intermediate certificate
+_X_ Intermediate Certificate not yet valid
+_X_ End-entity Certificate does not chain to a root in the trust store
+_X_ Path validation failure",,,,,16b,What visual indication is provided when a warning condition exists but has been waived by the user?,,,,,,,16c,What error conditions result in the connection being terminated?,,OCSP failure when hard fail is enabled.,,,,,16d,How does the client behave with respect to revocation status (draft-hallambaker-pkistatus-01 Section 1.2)?,,"_X_ Soft-Fail
+_X_ Hard-Fail (only if OCSP hard fail preference has been set)",,,,,17,Certificate policy: Does the product UI differentiate between DV/OV and EV certificates?,,Yes (Green lock icon and issuer organization displayed in the address bar.),,,,,18,Are additional validation steps evaluated before granting EV status?,,Yes (Root must have been pre-approved for EV-treatment. OCSP checked up CA hierarchy -- EV treatment will not be given if unable to get a valid revocation status.),,,,,19a,in what order does the product process the certificate information:,,,,,,,19b,"If multiple errors are detected during processing, what determines which error is reported to the user?",,,,,,,20,Does the product enforce key usage constraints?,,"_X_ Yes, via Key Usage
+_X_ Yes, via Extended Key Usage",,,,,21,Which versions of SSL/TLS does the product support?,,"
+__ SSL 2
+(Disabled in 2008 - https://bugzilla.mozilla.org/show_bug.cgi?id=236933 )
+_X_ SSL 3
+_X_ TLS 1.0
+_X_ TLS 1.1
+_X_ TLS 1.2",,,,,22,Does the product support SPDY?,,"Yes
+__ SPDY 1
+__ SPDY 2 (removed in Firefox 28)
+_X_ SPDY 3 (Since Firefox 15)
+_X_ SPDY 3.1 (Since Firefox 27)",,,,,23,Does the product enforce basic constraints extension?,,,,,,,24,Does the product process the policy constraints extension in accordance with RFC 5280?,,,,,,,25,Does the product treat the anyPolicy OID {2.5.29.32.0} as wildcard as described in RFC 5280?  ,,,,,,,26,Does the product process the inhibitAnyPolicy extension as described in RFC 5280?  (See Section 6.1.4 step j),,,,,,,27,"Does the product deal with certification policy processing as described in Section 6 of RFC 5280?  Note that proper processing requires appropriate interaction among the four extensions for the entire certification path: certificate policies; policy mapping, policy constraints, and inhibit any policy. Please elaborate.",,,,,,,28,What  does the product do if the server certification path is not valid for a policy and the “require explicit policy state” is set at the end of certification path validation as described in RFC 5280?,,,,,,,29a,Does the product support a ClientHello larger than 255 bytes?,,Yes,,,,,29b,What is the range of values that can be sent in the “client_version” field?,,,,,,,29c,What value is set in “random.gmt_unix_time”?,,,,,,,29d,Does the product ever offer cipher suites that are not supported in the TLS version advertised (i.e. AEAD cipher suites prior to TLS 1.2)?,,"No, we aim not to, but see https://bugzilla.mozilla.org/show_bug.cgi?id=919677",,,,,29e,Does the product advertise or accept compression methods other than null?,,,,,,,29f,Does the product fail when the server returns an empty Next Protocol Negotiation extension?,,,,,,,29g,"When the hostname of the server is known, does the product include the “server_name_indication” extension?",,Yes,,,,,29h,Does the product support a ServerHello larger than 255 bytes?,,Yes,,,,,29i,"Describe the behavior of the product in the event of a failed TLS handshake. For example, does the product fall back to earlier TLS versions?",,,,,,,29j,"j. When renegotiating a session, what value is set in the RSA EncryptedPreMasterSecret?",,,,,,,29k,"When AES-GCM is used, how is the 8-byte nonce populated?",,,,,,,29l,Does the product split each CBC record as described in draft-agl-wpkops-tlsstack-00?,,"Yes, see https://bugzilla.mozilla.org/show_bug.cgi?id=665814",,,,,29m,What initial size is used for TLSPlaintext structures?,,,,,,,29n,Does the product allow the SSL Record Size to be changed for performance reasons?,,,,,,,

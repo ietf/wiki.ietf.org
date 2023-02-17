@@ -2,7 +2,7 @@
 title: Gen ART
 description: 
 published: true
-date: 2022-11-05T16:10:58.669Z
+date: 2022-11-29T19:41:49.615Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-11-05T16:04:36.810Z

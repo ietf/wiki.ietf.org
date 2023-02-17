@@ -1,0 +1,14 @@
+
+Community Networks: getting P2P out of prison - the next steps
+ 
+Marie-Jose Montpetit - PhD.
+Motorola H&NM Technology Office and MIT Media Lab Resident
+ 
+As was well documented in the media P2P still carries the stigma of illegal file transfer and thievery of precious bandwidth. But does it need to be like that? Actually P2P applications could be a powerful way to provide services at the "edge", rediscover the power of the community and reduce opex in general for operators.
+ 
+While a lot of interest has been given to the application layer in P2P in effect P2P mechanisms can address the whole OSI stack. For the IETF recent work on P2P SIP have addressed some of the mechanisms that are required to make P2P more efficient and more widely deployed. What is missing now is a "step backwards" to assess what is needed and what can be achieved. the work that should be promoted now should address but obviously not be limited to:
+- expand device discovery but also user discovery and capabilities discovery (who are you and what can you provide to the network) as to encourage the development of asymmetrical and hybrid P2P solutions
+- define protocols for autonomics or "lightout management" to ensure that P2P devices are properly behaving and P2P traffic management can start as close to the application as necessary; this could or could not build on previous work on Zeroconf
+- performance management and monitoring to ensure that P2P traffic is not "badly treated" and that P2P applications perform to provide a good quality of experience - this could or could not be based on IPPM metrics which were developed for core network elements and add burden to low cost edge devices
+ 
+While it is not the role of the IETF to address issues of platforms or middleware as was seen with the HIP development, IETF protocols can promote the development of those common platforms for horizontal service development work. This should also be part of a larger discussion of the type of P2P architectures the IETF should consider and to a larger extent if the Next Generation Internet considers P2P subnets.

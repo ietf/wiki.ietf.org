@@ -1,0 +1,46 @@
+ANIMA Call
+16 Oct 2014
+
+Attendees: Rene Struik, JF Tremblay, Sheng Jiang, Toerless Eckert, Yu Fung, Michael Behringer (notes)
+
+Action list: 
+- by oct 26th: Submit draft-author-anima-* drafts.
+- by nov 3rd: Draft BoF/WG agenda.
+
+WG/BoF meeting request status: 
+- see datatracker charter. version 14 is latest. 
+  now in external review, ends oct 19th.
+  no comments since external review. Need to discuss with homenet group.
+- Meeting time confirmed (see IETF agenda)
+  Monday 1520-1720 and 1730-1830
+
+NMRG documents: 
+- gap analysis and definitions draft have new versions since oct 2/3rd
+- are in RG last call. Ends oct 27th. 
+  Rene points out that this deadline coincides with deadline for IETF draft submission. 
+  Michael: Should we extend the deadline? 
+  Conclusion: Let's see how many comments we get by the deadline, if not enough, expand by a week or so. 
+
+ANIMA drafts: MUST HAVE
+- new doc: draft-carpenter-anima-gdn-protocol
+- draft-X-anima-trust-bootstrap (who is responsible for that? Michael to give a name)
+- draft-behringer-anima-autonomic-control-plane (Michael responsible, will post soon). 
+- draft-behringer-anima-reference-model (Michael responsible - will be posted soon)
+DESIRABLE: 
+- draft-X-anima-prefix-management (Sheng/Brian responsible; not sure they can meet deadline). 
+- draft-X-anima-virtual-out-of-band (Toerless responsible)
+  (double-check the doc mentioned in the charter has the right name)
+Other drafts planned? 
+- Rene: If he has time, he'll post a short draft. (If so, will be shortly before the cut-off)
+- if any other drafts are planned, please let the group know. 
+
+Rene: Benoit posted the external review for 10 days instead of two weeks? Sheng: Not clear. 
+Rene: On homenet, there was a related discussion, but not cross-posted to anima. Someone should
+forward the main points to ANIMA. 
+Michael: Should we reach out to homenet and ask for the feedback? 
+Sheng: If there is no feedback, we assume there is no problem. 
+Michael: Not so sure about that... 
+Sheng: Another new WG was proposed, and there was also no feedback. 
+Michael: Will ask Benoit how he will interpret no feedback: "No problem", or "need more time"?
+
+Next call: 23 oct 2014, 6am GMT

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- This template is for creating an Internet Draft using xml2rfc,
+     which is available here: http://xml.resource.org. -->
+<!DOCTYPE rfc SYSTEM "rfc2629.dtd" [
+<!-- One method to get references from the online citation libraries.
+     There has to be one entity for each item to be referenced.
+     An alternate method (rfc include) is described in the references. -->
+
+<!ENTITY RFC0821 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.0821.xml">
+<!ENTITY RFC2821 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2821.xml">
+<!ENTITY RFC5321 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5321.xml">
+
+<?xml-stylesheet type='text/xsl' href='rfc2629.xslt' ?>
+<!-- used by XSLT processors -->
+<!-- For a complete list and description of processing instructions (PIs),
+     please see http://xml.resource.org/authoring/README.html. -->
+<!-- Below are generally applicable Processing Instructions (PIs) that most I-Ds might want to use.
+     (Here they are set differently than their defaults in xml2rfc v1.32) -->
+<?rfc strict="yes" ?>
+<!-- give errors regarding ID-nits and DTD validation -->
+<!-- control the table of contents (ToC) -->
+<?rfc toc="yes"?>
+<!-- generate a ToC -->
+<?rfc tocdepth="4"?>
+<!-- the number of levels of subsections in ToC. default: 3 -->
+<!-- control references -->
+<?rfc symrefs="yes"?>
+<!-- use symbolic references tags, i.e, [RFC2119] instead of [1] -->
+<?rfc sortrefs="yes" ?>
+<!-- sort the reference entries alphabetically -->
+<!-- control vertical white space
+     (using these PIs as follows is recommended by the RFC Editor) -->
+<?rfc compact="yes" ?>
+<!-- do not start each main section on a new page -->
+<?rfc subcompact="no" ?>
+<!-- keep one blank line between list items -->
+<!-- end of list of popular I-D processing instructions -->
+<rfc category="info" docName="draft-ietf-yam-pre-evaluation-template-02"
+     ipr="trust200811">
+  <!-- category values: std, bcp, info, exp, and historic
+     ipr values: full3667, noModification3667, noDerivatives3667
+     you can add the attributes updates="NNNN" and obsoletes="NNNN"
+     they will automatically be output with "(if approved)" -->
+
+  <!-- ***** FRONT MATTER ***** -->
+
+  <front>
+    <!-- The abbreviated title is used in the page header - it is only necessary if the
+         full title is longer than 39 characters -->
+
+    <title abbrev="YAM XXXXbis Evaluation">Preliminary Evaluation of
+        RFC&nbsp;XXX "[PLACEHOLDER: INSERT TITLE HERE]",
+        for advancement from Draft Standard to Full Standard
+        by the YAM Working Group
+    </title>
+
+    <author fullname="S. Moonesamy" initials="S.M." role="editor"
+            surname="Moonesamy">
+      <organization></organization>
+
+      <address>
+        <postal>
+          <street>76, Ylang Ylang Avenue</street>
+
+          <!-- Reorder these if your country does things differently -->
+
+          <city>Quatre Bornes</city>
+
+          <country>Mauritius</country>
+        </postal>
+
+        <email>sm+ietf@elandsys.com</email>
+      </address>
+    </author>
+
+    <date month="December" year="2009" />
+
+    <!-- If the month and year are both specified and are the current ones, xml2rfc will fill
+         in the current day for you. If only the current year is specified, xml2rfc will fill
+     in the current day and month for you. If the year is not the current one, it is
+     necessary to specify at least a month (xml2rfc assumes day="1" if not specified for the
+     purpose of calculating the expiry date).  With drafts it is normally sufficient to
+     specify just the year. -->
+
+    <!-- Meta-data Declarations -->
+
+    <area>Applications</area>
+
+    <workgroup>YAM Working Group</workgroup>
+
+    <keyword>SMTP</keyword>
+    <keyword>RFC XXXXter</keyword>
+
+    <!-- Keywords will be incorporated into HTML output
+         files in a meta tag but they have no effect on text or nroff
+         output. If you submit your draft to the RFC Editor, the
+         keywords will be used for the search engine. -->
+
+    <abstract>
+      <t>This memo is a preliminary evaluation of RFC XXX "[PLACEHOLDER: INSERT TITLE HERE]"
+         for advancement from Draft to Full Standard. It has
+         been prepared by the The Yet Another Mail Working Group.</t>
+      <t>THIS INTERNET DRAFT IS NOT MEANT TO BE PUBLISHED AS AN RFC,
+         BUT IS WRITTEN TO FACILITY PROCESSING WITHIN THE IESG.</t>
+    </abstract>
+  </front>
+
+  <middle>
+    <section title="Introduction">
+      <t>A preliminary evaluation has been made of <!-- xref
+         target='RFCXXX' -->RFC XXX<!-- /xref--> "[PLACEHOLDER: INSERT TITLE HERE]"
+         by the Yet Another Mail (YAM) Working Group for advancing
+         it from Draft to Full Standard.  The YAM WG requests feedback from
+         the IESG on this decision.
+      </t>
+      <section title="Note to RFC Editor">
+        <t>This Internet-Draft is not meant to be published as an RFC.
+          It is written to facilitate processing within the IESG.
+	</t>
+      </section>
+    </section>
+
+    <section title="Preliminary Evaluation">
+      <section title="Document">
+	<t>
+	  <list style="hanging">
+            <t hangText="Title: ">[PLACEHOLDER: INSERT TITLE HERE]</t>
+            <t hangText="Link:  ">http://tools.ietf.org/html/rfcXXX</t>
+          </list>
+	</t>
+      </section>
+
+      <section title="Time in Place">
+        <t>
+          <list style="hanging">
+            <t hangText="RFC2026: ">
+              <spanx style="emph">"A specification shall remain at the
+                Draft Standard level for at least four (4) months,
+                or until at least one IETF meeting has occurred."</spanx>
+            </t>
+	    <t hangText="Published:  ">[PLACEHOLDER: INSERT DATE HERE]</t>
+          </list>
+        </t>
+      </section>
+
+      <section title="Implementation and Operational Experience">
+	<t>
+          <list style="hanging">
+            <t hangText="RFC2026: ">
+              <spanx style="emph">"significant implementation and
+                successful operational experience ... characterized by
+		a high degree of technical maturity and by a generally
+                held belief that the specified protocol or service
+                provides significant benefit to the Internet
+                community."</spanx>
+            </t>
+	    <t hangText="Confidence level:">
+	      Very high.
+	    </t>
+          </list>
+        </t>
+
+	<t>[PLACEHOLDER: INSERT TEXT HERE]
+	</t>
+      </section>
+
+      <section title="Proposed Changes">
+        <t>The YAM WG proposes making the following changes in a revision:
+	</t>
+        <t>
+	  <list style="hanging">
+	    <t hangText="item:">
+	      [PLACEHOLDER: INSERT TEXT HERE]
+	    </t>
+	  </list>
+	</t>
+      </section>
+
+      <section title="Non-Changes">
+	<t>The YAM WG discussed and chose not to make the following changes:
+	</t>
+        <t>
+	  <list style="numbers">
+            <t>[PLACEHOLDER: INSERT TEXT HERE]
+	    </t>
+          </list>
+	</t>
+      </section>
+
+      <section title="Downward references">
+	<t>At Full Standard, the following references
+          would be downward references:</t>
+        <t><list style="hanging">
+	    <t>[PLACEHOLDER: INSERT TEXT HERE]
+	    </t>
+        </list></t>
+      </section>
+      <section title="IESG Feedback">
+        <t>The YAM WG requests feedback from the IESG on this decision.
+           In particular:</t>
+        <t>
+	  <list style="symbols">
+	    <t>
+	      Does the IESG believe the proposed changes are suitable during a
+	      move from Draft to Full Standard?
+	    </t>
+            <t>
+	      Excluding the previous proposed changes and expected IESG
+	      support for technically substantive IETF last call feedback,
+	      does the IESG believe any additional changes are critical to
+	      advance this document from draft to full standard?
+	      If so, please provide sufficient information so the WG can address
+	      these issues prior to IETF last call or determine that the document
+	      is inappropriate for the YAM WG to process at this time.
+	    </t>
+            <t>Does the IESG consider the downward references acceptable
+	      for a full standard?
+	      If not, please cite which specific
+	      downward reference or references are problematic and why
+	      so the WG can address these issues prior to IETF last call
+	      or determine the document is inappropriate for the YAM WG
+	      to process at this time.
+	    </t>
+          </list>
+	</t>
+      </section>
+    </section>
+
+    <section title="IANA Considerations">
+      <t>This document contains no IANA actions.</t>
+    </section>
+
+    <section title="Security Considerations">
+      <t>This document requests IESG feedback and does not raise any security
+         concerns.  Security considerations for<!-- xref target='RFCXXX' -->
+	 RFC XXX<!-- /xref-->have been taken into account during the preliminary
+	 evaluation and appear in either Section 2.4 or Section 2.5 of this
+	 document.
+      </t>
+    </section>
+
+  </middle>
+
+  <!--  *****BACK MATTER ***** -->
+
+  <back>
+    <!-- References split into informative and normative -->
+
+    <!-- There are 2 ways to insert reference entries from the citation libraries:
+     1. define an ENTITY at the top, and use "ampersand character"RFC2629; here (as shown)
+     2. simply use a PI "less than character"?rfc include="reference.RFC.2119.xml"?> here
+        (for I-Ds: include="reference.I-D.narten-iana-considerations-rfc2434bis.xml")
+
+     Both are cited textually in the same manner: by using xref elements.
+     If you use the PI option, xml2rfc will, by default, try to find included files in the same
+     directory as the including file. You can also define the XML_LIBRARY environment variable
+     with a value containing a set of directories to search.  These can be either in the local
+     filing system or remote ones accessed by http (http://domain/dir/... ).-->
+
+    <references title="Normative References">
+      <!-- ?rfc include="reference.RFC.XXX" ? -->
+    </references>
+    <references title="Informative References">
+      <!-- ?rfc include="reference.RFC.XXX" ? -->
+    </references>
+  </back>
+</rfc>

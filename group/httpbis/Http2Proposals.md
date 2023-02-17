@@ -2,7 +2,7 @@
 title: HTTP/2.0 Proposals
 description: HTTP/2.0 Proposals
 published: true
-date: 2022-12-13T23:34:20.026Z
+date: 2022-12-13T23:34:23.531Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-13T23:33:34.736Z

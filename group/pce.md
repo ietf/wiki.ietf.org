@@ -1,8 +1,8 @@
 ---
-title: PCE
+title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2022-12-13T17:01:43.923Z
+date: 2023-02-17T03:49:00.003Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -34,22 +34,22 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-rajagopalan-pce-pcep-color](https://datatracker.ietf.org/doc/draft-rajagopalan-pce-pcep-color/) | In WG Adoption call | Ends 2022-12-16; IPR - 6/6 | Dhruv |
-| [draft-dhody-pce-pcep-extension-pce-controller-srv6](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-srv6) | Pending | - | - |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | - |
 | [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Pending | - | - |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | - |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | - |
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | WG discussion on 1 I-D v/s 2 I-D for informational v/s normative parts is needed | - |  
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | Chairs have asked to break the document into informational and standards tracks | - |  
 | [draft-dhody-pce-pceps-tls13-01](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | Related to a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
 
 ## Recently Adopted Documents
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-li-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
+| draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
+| draft-ietf-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; Comments received during adoption needs to be handled | Was Dhruv |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05; -02 posted on 2022-07-06 that handles WG adoption comments  | Was Dhruv |
+| [draft-dhody-pce-pcep-extension-pce-controller-srv6](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-srv6) | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
 
 ## Other WG I-Ds
 
@@ -84,7 +84,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-enhanced-errors](https://datatracker.ietf.org/doc/draft-ietf-pce-enhanced-errors) | Y | Feedback requested on the mailing list by 2021-05-17 | -11 posted on 2022-03-07; Work out how to encourage other I-Ds to use this; is there still interest? | Dhruv | Dhruv |
-| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Y | -14 posted on 2022-07-10 | Early codepoint allocated, Ready for WGLC  | - | - |
+| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Y | -14 posted on 2022-07-10 | 1/6 IPR Poll, Early codepoint allocated, Ready for WGLC  | - | - |
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Y | -18 posted on 2022-03-21 | Requested feedback from IDR | - | - |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -07 version posted on 2022-03-07 | Gather implementation experience | - | - |
 

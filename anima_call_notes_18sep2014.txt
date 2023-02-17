@@ -1,0 +1,80 @@
+Notes from the ANIMA Call
+18 Sep 2014
+
+Attendees: 
+Sheng Jiang, Bing Liu, Dan Romascanu, Guy Meador, Laurent Ciavaglia, Rene Struik, Toerless Eckert, 
+Yu Fu, Michael Behringer (notes)
+
+Notes: 
+
+Sheng reads "note well"
+Deadline for scheduling requests approaching. 
+
+Two main questions: 
+- do we want to ask the AD to propose the charter? 
+- ask for time slot at next IETF?
+
+Charter Discussion. 
+
+We have a new charter -07b, proposed by Sheng. 
+Clarification on the open issues, mentioned other use cases are acceptable. 
+Going through the list in his latest email. 
+
+Michael shows diff between charter 06 and 07b
+
+Rene: Might be useful to have a generic sync protocol (see email). 
+Sheng: The negotiation function is meant for that. 
+Rene: Statements like "it's clear that..." are not helping. We need reviews. 
+If we WG figures out that the negotiation protocol solves all the problem, that's good. 
+Michael: Is this discussion part of the charter? 
+Rene: Not clear what is in/out of scope. This is causing the pushback.
+Sheng: We agree that we need synchronisation. But misunderstanding. All that's relevant to
+common components is in scope. Maybe not a milestone. 
+Rene: Disagrement on existing documents, seems like other docs are out of scope. 
+Michael: Other documents are allowed, and can be adopted, as long as they fit the goals. 
+Rene: Output of the group should be ... Synchronisation should be included. 
+Sheng: Should we include synchronisation as a goal in the charter? 
+Rene: Yes, we can add synchronisation, would help for this particular question but there are more...
+Laurent: Limited scope is fine; but if other people don't find something to work in the first 
+  phase, what should they do? Just wait for their turn? 
+Sheng: DHC workign group has the same sentence (additional work items can only be added ...) 
+Michael: reason for limiting goals is that AN is too big an area to tackle all issues at the same time. 
+Rene: Agree that there has to be some limits. Effort is useful. But group is trying to push a charter
+  without proper foundation. Ex: Gap analysis has vague statements, almost independent of AN. 
+  If we want to improve on the described functionalities, need a proper assessment first. 
+  Where is the analysis on current problems? 
+  Still has a hard time to assess what went wrong and what can be done better. 
+Michael: But is this not a part of the WG's job? 
+Michael: We believe we have some good problem statements and draft solutions, such as draft-pritikin. 
+Rene: There isn't much justification in the docs. Maybe that's part of the effort. 
+Sheng: Most of those comments are specific to documents. Not a charter question. 
+Rene: Docs are mentioned as background to the charter, thus think they must be discussed as part of the
+  charter discussion. 
+Sheng: ACP not mentioned in gap analysis. There is a gap between that doc and the charter. 
+Rene: one of the goals of the charter should be to define what needs more work. 
+Laurent: Maybe normal process is too long, but in the process of a WG, added value should be clear. 
+Michael: Clearly no complete consensus, but can we get the benefit of the doubt? Get started with the WG, and
+  have technical discussion, agree on the actual work items as a process. 
+Sheng: Agree, we should close on the charter and do the actual work. 
+Rene: Problem is that this is more of a systems approach, should be taken to IAB. What is wrong with another 
+  BoF? 
+Dan: If 2nd BoF fails it's over for a while. 
+Laurent: Still some disagreements on approach and technical stuff, but can live with that. 
+  Worry: once we have a WG, we may end up with difficulties to create useful output. 
+  Not blocking the situation, however. 
+Dan: Same feeling. Better definitions needed. Like, ACP is unclear until you read the draft, but 
+  this can be done later. "good enough" for now. 
+Rene: Quite critical; wasted a lot of time on procedures, rather than work. 
+  We started on the wrong foot, but don't want to be blamed for blocking it. 
+  If the majority decides we should go ahead, he won't block it. 
+Toerless: Rene, do you think the work that YOU want to contribue is covered? 
+Rene: Don't know. Looking long term. His interests fit to some degree. 
+Guy: Work is very interesting and useful. Charter can be tweaked "till the cows come home".
+  lets get started. The specific goals in the charter are necessary to advance the work.
+Yu: We spent a month on this discussion. Let's do some actual work. Agree to move ahead.
+Bing: AN is a big concept. Also agrees to move ahead. 
+Michael: So, let's send the latest version to the AD and request BoF or WG, whatever AD prefers. 
+Sheng: Will request a slot for the next IETF slot.
+Rene: Signal to AD that this is a overarching protocol work, and may need IAB work. 
+Toerless: Should still fit into ops area. 
+Sheng will request time slot at next IETF, and will ping AD with latest version of charter. 

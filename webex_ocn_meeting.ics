@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 10.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220706T235706Z
+ATTENDEE;CN="kiranm@futurewei.com";ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:kiranm@futurewei.com
+ORGANIZER;CN="Toerless Eckert":MAILTO:tte@cs.fau.de
+DTSTART;TZID=America/New_York:20220725T121500
+DTEND;TZID=America/New_York:20220725T134500
+LOCATION:https://futurewei.my.webex.com/futurewei.my/j.php?MTID=m8482bdb06635d5ef021e6dcc11d1cd29
+TRANSP:OPAQUE
+SEQUENCE:1657151826
+UID:dca4734f-a5ca-473d-90f8-4664399748f4
+DESCRIPTION:Discussions about OCN and use-cases for it.\n-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-\n\n\n\n\n\nJOIN WEBEX MEETING\nhttps://futurewei.my.webex.com/futurewei.my/j.php?MTID=m8482bdb06635d5ef021e6dcc11d1cd29\nMeeting number (access code): 2550 311 3955\n\nMeeting password: ocn114 (626114 from phones and video systems)\n\n\n\nTAP TO JOIN FROM A MOBILE DEVICE (ATTENDEES ONLY)\n+1-408-418-9388,,25503113955#626114# tel:%2B1-408-418-9388,,*01*25503113955%23626114%23*01* United States Toll\nSome mobile devices may ask attendees to enter a numeric password.\n\n\nJOIN BY PHONE\n+1-408-418-9388 United States Toll\n\nGlobal call-in numbers\nhttps://futurewei.my.webex.com/futurewei.my/globalcallin.php?MTID=m3fe3cb428bbff54def61255a3c65939b\n\n\nJOIN BY VIDEO SYSTEM, APPLICATION OR SKYPE FOR BUSINESS\nDial sip:25503113955@webex.com\nYou can also dial 173.243.2.68 and enter your meeting number.\n\n\n\n\n\nCan't join the meeting?\nhttps://collaborationhelp.cisco.com/article/WBX000029055\n\n\nIMPORTANT NOTICE: Please note that this Webex service allows audio and other information sent during the session to be recorded, which may be discoverable in a legal matter. By joining this session, you automatically consent to such recordings. If you do not consent to being recorded, discuss your concerns with the host or do not join the session.\n
+X-ALT-DESC;FMTTYPE=text/html:Discussions about OCN and use-cases for it.<br>-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-<style type="text/css">\ntable {\n	border-collapse: separate; width =100%;	border: 0;	border-spacing: 0;}\n\ntr {\n	line-height: 18px;}\n\na, td {\n	font-size: 14px;	font-family: Arial;	color: #333;	word-wrap: break-word;	word-break: normal;	padding: 0;}\n\n.title {\n	font-size: 28px;}\n\n.image {\n	width: auto;	max-width: auto;}\n\n.footer {\n	width: 604px;}\n\n.main {\n\n}@media screen and (max-device-width: 800px) {\n	.title {\n		font-size: 22px !important;	}\n	.image {\n		width: auto !important;		max-width: 100% !important;	}\n	.footer {\n		width: 100% !important;		max-width: 604px !important\n	}\n	.main {\n		width: 100% !important;		max-width: 604px !important\n	}\n}\n</style>\n\n<table bgcolor="#FFFFFF" style="padding: 0; margin: 0; border: 0; width: 100%;" align="left">\n	<tr style="height: 28px"><td>&nbsp;</td></tr>\n	<tr>\n		<td align="left" style="padding: 0 20px; margin: 0">\n			<!--<table bgcolor="#FFFFFF" style="border: 0px; width: 100%; padding-left: 50px; padding-right: 50px;" align="left" class="main">\n				<tr>\n					<td align="center" valign="top" >&nbsp;					</td>\n				</tr>\n			</table>-->\n\n\n\n\n\n			<table>\n				<tr>\n					<td>\n						<FONT SIZE="4" COLOR="#666666" FACE="arial">When it's time, join the Webex meeting here.</FONT>\n					</td>\n				</tr>\n		</table>\n        \n        <table>\n        	<tr style="line-height: 20px;"><td style="height:20px">&nbsp;</td></tr>\n			<tr>\n				<td style="width:auto!important; ">\n					<table border="0" cellpadding="0" cellspacing="0" style="width:auto;width:auto!important;background-color:#00823B; border:0px solid #00823B; border-radius:25px; min-width:160px!important;">\n						<tr>\n							<td align="center" style="padding:10px 36px;"><a href="https://futurewei.my.webex.com/futurewei.my/j.php?MTID=m8482bdb06635d5ef021e6dcc11d1cd29" style="color:#FFFFFF; font-size:20px; text-decoration:none;">Join meeting</a></td>\n						</tr>\n					</table>\n				</td>\n			</tr>\n		</table>\n		<table>\n			<tr style="line-height: 20px;"><td style="height:20px">&nbsp;</td></tr>\n			<tr>\n				<td>\n						<FONT SIZE="3" COLOR="#666666" FACE="arial">More ways to join:</FONT>\n				</td>\n        	</tr>\n            <tr style="line-height: 10px;"><td style="height: 10px;">&nbsp;</td></tr>\n        	<tr>\n				<td>\n						<FONT SIZE="3" COLOR="#666666" FACE="arial">Join from the meeting link</FONT>\n				</td>\n        	</tr>\n        	<tr>\n				<td>\n						<FONT SIZE="2" COLOR="#666666" FACE="arial"><a href='https://futurewei.my.webex.com/futurewei.my/j.php?MTID=m8482bdb06635d5ef021e6dcc11d1cd29' style='color:#005E7D;  text-decoration:none; font-family: Arial;font-size: 14px;line-height: 24px;'>https://futurewei.my.webex.com/futurewei.my/j.php?MTID=m8482bdb06635d5ef021e6dcc11d1cd29</a></FONT>\n				</td>\n        	</tr>\n        	<tr style="line-height: 20px;"><td style="height:20px">&nbsp;</td></tr>\n			<tr>\n				<td>\n						<FONT SIZE="3" COLOR="#666666" FACE="arial">Join by meeting number</FONT>\n				</td>\n        	</tr>\n			<tr>\n				<td>\n					<FONT SIZE="2" COLOR="#666666" FACE="arial">Meeting number (access code): 2550 311 3955</FONT>\n				</td>\n			</tr>\n		</table>\n		<table><tr><td><FONT SIZE="2" COLOR="#666666" FACE="arial">Meeting password:</FONT></td><td><FONT SIZE="2"  COLOR="#666666" FACE="arial">ocn114 (626114 from phones and video systems)</FONT></td></tr></table>\n\n <FONT size="2" COLOR="#FF0000" style="font-family: Arial;"></FONT>\n\n&nbsp; <BR><FONT SIZE="4" FACE="ARIAL"><FONT SIZE="3" COLOR="#666666" FACE="arial">Tap to join from a mobile device (attendees only)</FONT> &nbsp; <BR><FONT SIZE="2" COLOR="#666666" FACE="arial"><a href='tel:%2B1-408-418-9388,,*01*25503113955%23626114%23*01*' style='color:#005E7D;  text-decoration:none; font-family: Arial;font-size: 14px;line-height: 24px;'>+1-408-418-9388,,25503113955#626114#</a> United States Toll</FONT> &nbsp; <BR><FONT SIZE="2" COLOR="#666666" FACE="arial">Some mobile devices may ask attendees to enter a numeric password.</FONT>&nbsp; <BR><BR><FONT SIZE="4" FACE="ARIAL"><FONT SIZE="3" COLOR="#666666" FACE="arial">Join by phone</FONT> &nbsp; <BR><FONT SIZE="2" COLOR="#666666" FACE="arial">+1-408-418-9388 United States Toll</FONT> &nbsp; <BR><FONT SIZE="2" COLOR="#666666" FACE="arial"><a href="https://futurewei.my.webex.com/futurewei.my/globalcallin.php?MTID=m3fe3cb428bbff54def61255a3c65939b" style="text-decoration:none;font-size:14px;color:#005E7D">Global call-in numbers</a></FONT>&nbsp; <BR><BR>\n\n<table><tr style="line-height: 20px;"><td style="height:20px">&nbsp;</td></tr></table>\n\n<FONT SIZE="4" FACE="ARIAL"><FONT SIZE="3" COLOR="#666666" FACE="arial">Join by video system, application or Skype for business</FONT><BR><FONT SIZE="2" COLOR="#666666" FACE="arial">Dial</FONT> <a href="sip:25503113955@webex.com"><FONT SIZE="2" COLOR="#005E7D" FACE="arial">25503113955@webex.com</FONT></a>&nbsp; <BR><FONT SIZE="2" COLOR="#666666" FACE="arial">You can also dial 173.243.2.68 and enter your meeting number.</FONT> &nbsp; <BR></FONT>&nbsp; <BR>\n\n\n\n	<table><tr style="line-height: 20px"><td style="height:20px">&nbsp;</td></tr></table>\n	\n\n			<table style="width: 100%;" align="left" class="main">\n                <tr style="height: 20px"><td>&nbsp;</td></tr>\n				<tr>\n					<td style="height: 24px; color: #000000; font-family:Arial; font-size: 14px; line-height: 24px;">Need help? Go to <a href="https://help.webex.com" style="color:#005E7D; text-decoration:none;">https://help.webex.com</a>\n					</td>\n				</tr>\n                <tr style="height: 44px"><td>&nbsp;</td></tr>\n			</table>\n		</td>\n	</tr>\n</table>\n
+SUMMARY:Operations and Control Networks  (OCN) side meeting
+PRIORITY:5
+CLASS:PUBLIC
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

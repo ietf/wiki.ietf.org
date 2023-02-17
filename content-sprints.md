@@ -2,7 +2,7 @@
 title: wiki.ietf.org Content Sprints
 description: Content sprints to move to the new IETF wiki platform
 published: true
-date: 2022-09-17T12:29:35.541Z
+date: 2022-11-29T19:38:57.626Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T12:27:40.727Z

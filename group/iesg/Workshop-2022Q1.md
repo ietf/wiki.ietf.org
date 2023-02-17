@@ -2,7 +2,7 @@
 title: IAB/IESG Workshop
 description: 
 published: true
-date: 2022-08-31T18:02:34.929Z
+date: 2022-11-29T19:36:55.607Z
 tags: iesg, leadership, iab, workshop
 editor: markdown
 dateCreated: 2022-08-31T18:02:31.567Z

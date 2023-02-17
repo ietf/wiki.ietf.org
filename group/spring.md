@@ -1,8 +1,8 @@
 ---
-title: SPRING Working Group
+title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2022-11-16T10:37:40.886Z
+date: 2023-02-02T16:17:38.918Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -21,38 +21,21 @@ https://wiki.ietf.org/en/group/spring/WG_Policies
 SRCOMP Design Team:
 https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
 
+Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 
 ## Documents requested by authors for WG Last Call
-* draft-ietf-spring-nsh-sr-11 
-   * 2020-10-20 Authors asked for WGLC
-   * 2020-11-02 Shepherd comments sent on the list. Waiting for reply/update from authors.
-   * 2020-12-11 Reply & update from authors
-   * Submitted to IESG for Publication
-* draft-ietf-spring-mpls-path-segment-08 
-   * 2020-11-4 Authors asked for WGLC
-   * Last call review
 * draft-ietf-spring-bfd-05
    * 2021-03-29 Authors asked for WGLC
+   * Waiting for the dependent MPLS WG draft to progress past WGLC
 * draft-ietf-spring-sr-replication-segment-10
    * 2022-07-14 Authors asked for WGLC
    * In WG Last Call
 
 ## Documents requested by authors for WG adoption
-
-* draft-bonica-spring-sr-mapped-six
-   * 2019-12-24 Authors sent request
-* draft-hu-spring-segment-routing-proxy-forwarding
-   * 2020-08-02 Authors sent request
-   * 2022-01-13 WG adoption poll https://mailarchive.ietf.org/arch/msg/spring/C_6p_1y1JP7BSAe1_8gmkkgci_s/
-   * 2022-02-24 Not adopted in this form https://mailarchive.ietf.org/arch/msg/spring/_e7gCFQSNcNE-JrVPIFuXxrradU/
-* draft-saad-sr-fa-link
-   * 2021-3-01 Authors sent request
 * draft-fz-spring-srv6-alt-mark
    * 2021-8-16 Authors sent request
 * draft-saad-spring-srfa-link
    * 2021-10-23 Authors sent request
-* draft-gandhi-spring-enhanced-srpm
-   * 2021-11-09 Authors sent request
 * draft-schmutzer-spring-cs-sr-policy
    * 2021-07-27 Authors sent request
 * draft-song-spring-siam-03
@@ -75,4 +58,24 @@ https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
    * adoption call initiated cf datatracker.
    * Waiting on IPPM WG decision on the dependant extension.
    * Replaced by draft-ietf-spring-stamp-srpm.
+* draft-hu-spring-segment-routing-proxy-forwarding
+   * 2020-08-02 Authors sent request
+   * 2022-01-13 WG adoption poll https://mailarchive.ietf.org/arch/msg/spring/C_6p_1y1JP7BSAe1_8gmkkgci_s/
+   * 2022-02-24 Not adopted in this form https://mailarchive.ietf.org/arch/msg/spring/_e7gCFQSNcNE-JrVPIFuXxrradU/
 
+## History of WG Last Call
+* draft-ietf-spring-nsh-sr-11 
+   * 2020-10-20 Authors asked for WGLC
+   * 2020-11-02 Shepherd comments sent on the list. Waiting for reply/update from authors.
+   * 2020-12-11 Reply & update from authors
+   * Submitted to IESG for Publication
+* draft-ietf-spring-mpls-path-segment-08 
+   * 2020-11-4 Authors asked for WGLC
+   * 2021-12-23 Submitted to IESG for publication
+   * Submitted to IESG for Publication
+
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2022-07-16. It was migrated from the old Trac wiki on 2022-12-22.*

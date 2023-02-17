@@ -2,7 +2,7 @@
 title: Special Interest Groups
 description: 
 published: true
-date: 2022-09-07T14:08:37.626Z
+date: 2022-11-29T19:37:02.991Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:08:34.949Z

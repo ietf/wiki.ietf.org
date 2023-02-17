@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2022-11-21T15:03:48.870Z
+date: 2022-11-29T19:42:30.509Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z

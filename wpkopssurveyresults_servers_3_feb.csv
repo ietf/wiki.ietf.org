@@ -1,0 +1,25 @@
+,,Microsoft,Apache/OpenSSL ,Nginx,Oracle,IBM,F5,Citrix,Coyote Point,A10,Riverbed,Juniper,Akamai,Cloudflare,Redhat,Cisco1,"As of December 2013, which product versions combined constitute 99% of total usage of the vendor's products?",,,,,,,,,,,,,nginx/openssl - private fork - 100%,,2a,Does the product fully support PKCS #10: Certification Request Syntax Standard?,,,,,,,,,,,,,Yes,,2b,Which cryptographic algorithms/parameters does the product support for the creation of keys and CSRs?,,,,,,,,,,,,,"RSA 1024 bits
+RSA 2048 bits
+RSA 3072 bits
+RSA 4096 bits
+RSA other key size
+DSA 1024 bits
+DSA 2048 bits
+DSA 3072 bits
+DSA 4096 bits
+DSA other
+ECC nistp256
+ECC nistp384
+ECC nistp521
+ECC other
+MD2
+MD4
+MD5
+SHA1
+SHA-256
+SHA-384
+SHA-512",,2c,Does the product support RSASSA-PSS,,,,,,,,,,,,,Yes,,3,"Does the product enforce ""strong password"" requirements for the protection of the private key corresponding to the TLS certificate? If yes, what are the requirements?",,,,,,,,,,,,,No,,4a,Does the product support multi-tier certificate hierarchies? (root -> intermediate -> end-entity certificate) ,,,,,,,,,,,,,Yes,,4b,Does the product validate the certificate path upon installation? ,,,,,,,,,,,,,Yes,,4c,"Does the product allow PKCS#7 import (in which the PKCS#7 file contains intermediates and end-entity certificates, and the product discerns which is which?) ",,,,,,,,,,,,,Yes,,4d,"Does the product allow for the configuration of multiple certificates using different public key algorithms (RSA, DSA, ECC) but the same Subject DN, and deliver the most appropriate certificate to each client based on the client’s capabilities as inferred from parameters in the ClientHello message? ",,,,,,,,,,,,,No,,4e,"Does the product allow for the configuration of multiple certificates using different hash algorithms (SHA-1, SHA-2) but the same Subject DN, and deliver the most appropriate certificate to each client based on the client’s capabilities as inferred from parameters in the ClientHello message? ",,,,,,,,,,,,,No,,4f,Does the product ensure that the certificate chain is in the correct order? ,,,,,,,,,,,,,Yes,,4g,Can the product be configured to send a self-signed certificate as part of the certificate chain when it is not the sole certificate?,,,,,,,,,,,,,Yes,,4h,Can the product be configured to send unrelated certificates in the certificate chain? ,,,,,,,,,,,,,No,,5,Key/certificate renewal: Does the product require a restart in order to change its key pair?,,,,,,,,,,,,,No,,6,Which versions of SSL/TLS does the product support?,,,,,,,,,,,,,"SSL 2 — disabled
+SSL 3
+TLS 1.0
+TLS 1.1
+TLS 1.2",,7,Does the product support SPDY?,,,,,,,,,,,,,SPDY 2,,8a,Does the product support OCSP stapling in accordance with RFC 6066?,,,,,,,,,,,,,Yes,,8b,Does the product support OCSP multiple-stapling in accordance with RFC 6961?,,,,,,,,,,,,,No,,8c,Does the product check staples before installing them?,,,,,,,,,,,,,Yes,,8d,How frequently are new staples fetched?,,,,,,,,,,,,,hourly,,8e,What is the behavior of the server when it has no valid staple?,,,,,,,,,,,,,“OCSP response: no response sent”,,9,Does the product support Simple Certificate Enrollment Protocol (SCEP)?,,,,,,,,,,,,,No,,10a,"For versions prior to TLS 1.2, does the product send 0x0301 for the record version number for the first record? ",,,,,,,,,,,,,Yes,,10b,Does the product support a ClientHello larger than 255 bytes? ,,,,,,,,,,,,,Yes,,10c,What value is set in “random.gmt_unix_time”?,,,,,,,,,,,,,a timestamp,,10d,Does the product advertise or accept compression methods other than null?,,,,,,,,,,,,,Yes,,10e,Does the presence of any TLS extension (especially the “status_request” extension) cause the product to fail to make a connection?,,,,,,,,,,,,,No,,10f,"If ALPN and NPN are supported, is NPN ignored when an ALPN extension is also present?",,,,,,,,,,,,,Yes,,10g,Does the product support a ServerHello larger than 255 bytes?,,,,,,,,,,,,,Yes,,10h,"Does the product negotiate DHE cipher suites but attempt to use tiny DH groups (for example, with a 256-bit modulus)",,,,,,,,,,,,,No,,10i,Does the product split each CBC record?,,,,,,,,,,,,,Yes,,10j,What initial size is used for TLSPlaintext structures?,,,,,,,,,,,,,Unknown,,10k,Does the product allow the SSL Record Size to be changed for performance reasons?,,,,,,,,,,,,,Yes,,10l,"When AES-GCM is used, how is the 8-byte nonce populated?",,,,,,,,,,,,,With a random value,,

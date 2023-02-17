@@ -1,8 +1,8 @@
 ---
-title: Emergency Context Resolution with Internet Technologies (ecrit) 
+title: ECRIT WG - Emergency Context Resolution with Internet Technologies
 description: Wiki for ecrit wg
 published: true
-date: 2022-12-09T00:37:12.398Z
+date: 2023-01-25T04:40:05.108Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
@@ -183,3 +183,10 @@ Karl Heinz wanted to give a presentation about this draft at the last IETF meeti
 
 Finally, we should chat about how we should proceed with the unauthenticated emergency calls document.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2010-02-10. It was migrated from the old Trac wiki on 2023-01-24.*

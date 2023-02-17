@@ -2,7 +2,7 @@
 title: IETF 116 Departure Coordination
 description: 
 published: true
-date: 2022-12-05T16:38:07.826Z
+date: 2023-02-16T23:52:31.491Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:38:07.826Z
@@ -44,7 +44,7 @@ For ease of taxi sharing back to the airport. Please specify which airport your 
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT (HND) or (NRT)  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+| 18:25  | JL8  | Dave Oran  | daveoran@orandom.net  | NRT  |  2 |  IC Yokohama Grand |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -54,7 +54,7 @@ For ease of taxi sharing back to the airport. Please specify which airport your 
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT (HND) or (NRT)  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+| 09:55am | NH211  | Nils Warnke  | nils.warnke@telekom.de  |  HND | 3  | IC Yokohama Grand  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
@@ -64,7 +64,7 @@ For ease of taxi sharing back to the airport. Please specify which airport your 
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT (HND) or (NRT)  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+| 9:55pm  | NH116  | Bob Hinden  | bob.hinden@gmail.com  | HND  | 3  | IC Yokohama Grand  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |

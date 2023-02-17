@@ -1,0 +1,280 @@
+Autonomic Networking for a better Internet Manageability and Adaptability (ANIMA) WG
+-------------------------------------------------------------------------
+
+
+
+[Context]
+
+As more and more devices, with different functions and needs, keep being added to 
+the Internet, the complexity and cost of managing and operating communication networks 
+become more and more problematic.
+
+Network operators are facing great challenges on a daily basis to ensure the stability,
+robustness and performance in an environment where protocols operate independently, by 
+different means and where human/off-line control usually compensates for these "limits".
+
+More importantly these protocols have been designed to realize objectives which are 
+sometimes difficult to combine or reconcile. Again human/off-line control compensates 
+for these "limits". 
+
+This motivates the introduction of new mechanisms to help synchronizing these processes
+ and coordinate their actions such that the sum of existing functionality moves beyond 
+the sum of their individual capability.
+
+These mechanisms can be grouped under the 4A principle: Automation, Adaptation, Autonomy
+ and Abstraction. Automation can be motivated by the fact that programs are more 
+proficient in realizing systematic and exhaustive tasks than humans. Adaptation as 
+anomalies and attacks are constantly detected, Autonomy as each event has its specifics 
+which translate into different local actions and Abstraction to enable coordination 
+between heterogeneous equipment.
+
+Such properties characterize Autonomic Networking (AN) which aims at maximizing the 
+gain in operational/control logic while minimizing the infrastructure change. 
+
+The ANIMA WG aims at assessing and documenting the level and process of the 
+transformation and homogenization of the Internet infrastructure.
+
+
+
+
+[Problem statement]
+
+A series of problems stems from the situation described above, touching the complete 
+network (functions) lifecycle: e.g. the manual, labour-intensive device/network 
+installation, the fragile, script-dependent OAM connectivity, the inconsistent/
+incompatible/silo-ed operations of network services, the per-device orchestration 
+due to lack of network-wide OAM interface to services, etc.
+
+Most of network functions are today implemented in a distributed way, and new distributed 
+network functions keep being developed. Currently, every distributed function defines 
+its own way to identify nodes, to communicate, discover and negotiate between nodes, 
+and to secure the interactions: there is no common infrastructure for distributed 
+functions. Consequently, network administrators are required to define and configure node 
+identities, security schemes, etc, for each distributed mechanism separately. Vendors 
+need to implement parallel mechanisms for similar asks. This leads to inefficiencies. 
+Additionally, central configuration, management and optimisation of operational device
+ configurations are expensive, tedious, and prone to human error. A simple example is 
+assigning address prefixes to network segments in a large and constantly changing 
+network. Similarly, repair or bypassing of faults requires human intervention and 
+causes significant down time.
+
+Network processes perform independently on different views/partial information and by 
+different means while interactions among their constituting entities take place at 
+different spatial scales (from local to global). These processes also operate in the 
+dark as the information to which they get access to/store is mostly limited to the 
+one translating local protocol state(s) at current time. Finally, these processes 
+have been designed to realize specific objectives which are often difficult to combine 
+and reconcile preventing in turn the realization of more complex tasks (and involving 
+multiple processes). Nowadays, the only mean to compensate these limits is to involve 
+manual intervention/off-line control.  
+
+This motivates the introduction of a control paradigm where network processes, 
+driven by objectives (or intent), coordinate their local decisions, autonomously 
+translate them into local actions, and adapt them automatically according to various 
+sources of information including external information and protocol information bases.
+This paradigm which mainly relies on closed-loop adaptive control is referred to an 
+autonomic networking.
+
+One of its simplest forms has been documented in [NMRG_01] where an information processing 
+agent (IPA) is collocated with the set of protocol engines it drives. An IPA processes 
+the input selected from external information sources and protocol information bases in 
+cooperation with other IPAs, to derive states (information needed to make a decision now 
+or in the future) and translate them into local actions (i.e., local policies). 
+
+Numerous realizations of this paradigm are nevertheless possible, and the issue of its 
+integration with existing non-autonomic mechanisms counterparts remains open.
+
+ 
+
+[Challenges and objectives]
+
+Autonomic networking is by definition transverse to the various networking dimensions. 
+Therefore, numerous challenges exist. The main challenges identified are listed as follows:
+
+-Which information dissemination model(s) is/are missing preventing self-configuration/
+orchestration to operate?
+
+-Is integration of autonomic mechanisms going to be "per node and cross-function" or 
+"per-function and cross-nodes" or a combination? How to keep commonality among different 
+functions (as they are by definition serving different purposes)?
+
+-Do autonomic networking aims at modifying the boundaries of current autonomous systems? 
+Or running across routing partitions or not, administrative partitions or not? 
+
+-Are the inputs to the autonomic process limited to the information protocols currently 
+with or other sources of information are also in scope (example: feeding 'automatically' 
+routing decision process with traffic monitoring or forwarding monitoring)?
+
+-As use cases are numerous and diverse, can inter-agent protocol primitives be unified and 
+can agent functionality be factorized? And, as anticipating all protocol needs is out of 
+reach, these protocols (more generally AN components) shall be reusable and flexible enough 
+to avoid redesign on per-case basis.
+
+-Different "cooperation modes" between IPA's can be considered from slave-master-slave to 
+consensus; hence, would one cooperation mode fit all needs?
+
+-How should the information source selection and orchestration of actions (sequencing of 
+instructions to protocol engines) be designed to enable agents to be self-sufficient?
+
+The main challenge becomes then to determine if a layout comprising agents and discovery/
+negotiation/interaction among them would enable achieving the overall objective set by the 
+introduction of autonomic networking concepts.
+
+
+
+In order to address these challenges, the main goals of the ANIMA WG are: 
+1) To provide guidelines and recommendations how to design/enhance/extend current and 
+future IETF protocols with autonomic networking capabilities, and to provide examples/
+evaluations of such protocols.
+
+2) To provide a set of mutually consistent protocol specifications showing the utility 
+and feasibility of a common, reusable and extensible AN infrastructure. 
+
+These two goals will allow the working group to evaluate the functional and performance 
+gains generated by introducing and generalizing the use of autonomic networking technologies
+ in the Internet to its manageability and adaptability.
+
+
+
+
+
+
+[Scope and approach]
+
+The ANIMA working group will initially focus on (but is not limited to) the enterprise/SOHO, 
+ISP and IoT networks. 
+
+The ANIMA working group will cover the four conventional areas of self-management: configuration,
+ protection, healing and optimization, and aims to be equally applicable to the complete 
+network (functions) lifecycle (e.g. installation, commissioning, operating, etc).
+
+The initial configuration/bootstrap phase is recognized as a key initial area of investigation 
+for the working group.
+
+A non-exhaustive list of currently identified application domains is provided hereafter. 
+A process for collecting and updating the set of domains of potential applicability will be 
+initiated at or before the working group creation. 
+In particular, the working group is interested in cross-domain use cases highlighting limitations 
+of current protocols or practices such as: correlation of measurements from different domains, 
+policy consistency verification among different network functions, network and service “layers” 
+chaining aspects, inter-functions/agents coordination model/protocol(s)
+
+List of application domains:
+-Zero-touch secure bootstrap.
+- Assign IPv6 prefixes / IPv4 pools
+- Detection of SLA Violations
+- Microwave Mobile Backhaul
+- Risk Aware Routing
+- Path (segment) monitoring: this concerns all monitoring probes configuration (sampling rate) 
+and placement inline with the routing decision (and it would be interesting to confront how 
+autonomics would help automating/adapting such task with current practices).
+- Traffic anomaly detection, routing anomalies detection (diagnostic out of a large set of 
+information) which could help configuring ACL, routing adjacencies or others.
+- AQM parameters (re)configuration out of traffic measure. 
+- Shared risk (hidden risk) detection out of routing/topological information analysis, the 
+output of such process should prevent that protecting routing path fail together with their 
+primary path or that an alternate path fails right after its selection due to delay in 
+propagation of routing information.
+
+
+
+Approach:
+Recognizing the extent of the challenges and associated risks, the working group is willing 
+to adopt an original, hybrid approach to address the problem statement by combining:
+
+1) A bottom-up approach. The bottom-up approach will be the mean to trial and consolidate 
+the (ongoing) design on mature/stable functionality before moving to the next level of 
+complexity. This approach will progress function by function, in an iterative manner, to 
+simplify one aspect of networking (such as security) at a time, in a coherent way (cf. 2)),
+ to really create a "unified self-managing" network.
+The progress will be evaluated against the AN design goals of factorization, distribution, 
+and unification to ensure the alignment with the design and specifications of the common AN 
+infrastructure /control plane. Some refinement, adaptation or re-engineering might occur 
+during the process to meet the above requirements.
+
+The selection of the "test" use case or functionality will be made in the first round of 
+adoption of the working group initial drafts. The process, criteria, metrics, etc. remain 
+to be specified.
+
+
+
+2) A top-down approach. In its ultimate form, the very concept of autonomic networking is 
+proposing a profound change in the control and operating model of the Internet protocols. 
+The goal of the top-down approach is to evaluate and document the utility and feasibility 
+of a common AN infrastructure following the design goals of factorization, distribution, 
+and unification. The top-down approach can be decomposed as follows:
+
+- Step 0 (before start of WG): Functional areas where the working group agrees to contribute 
+(risk mitigation/avoidance, re-configuration/-programming, etc.) by providing at least one 
+representative use case per functional area. 
+
+- Step 1: Evaluation work of AN components (orchestration execution/realization of decisions, 
+etc.), distributivity needs (exchange of information from external sources, exchange between 
+AN agents, etc.) and cooperation modes against representative set of use cases
+
+Goals: evaluate AN components against representative set of use cases and layout design of 
+lightweight and reusable AN components
+
+- Step 2: ACP, a.k.a. common AN infrastructure, specification (in particular, cross-function 
+single AN vs. cross-element multi AN) following the design goals of factorization, distribution, 
+and unification required across use cases; determine if protocol functionality already "available" 
+in other/existing protocol (with/without extensions) or new protocol(s) could be needed.
+
+Goals: show the utility and feasibility of a common AN infrastructure (put/articulate AN 
+components together across use cases)
+
+- Step 3: Depending on the outcome of step 2, extensions of existing protocols, new protocol 
+design/specification, etc. will be considered.
+ 
+
+
+[Milestones][TBD]
+
+Nov. 2014 - WG formation and adoption of initial drafts
+Mar. 2015 - Adoption of uses cases evaluation and analysis draft 
+Nov. 2015 - WG Last Call of uses cases evaluation and analysis draft 
+Jan. 2016 - Adoption of ACP Functional specification draft
+Mar. 2016 - WG Last Call of ACP Functional specification draft
+Jun. 2016 - Adoption of protocol component specification(s) drafts
+Nov. 2016 - WG Last Call of protocol component specification(s) drafts
+Nov. 2016 - ACP architecture (informational)
+Nov. 2016 - Recharter or close
+
+
+[Related IETF WG and IRTF RG]
+
+- I2RS WG
+- Homenet WG
+- SFC WG
+- Other WG (TBD)
+- NM RG
+- NFV RG (TBC)
+
+
+[Background information}
+
+Autonomic networking refers to the self-managing characteristics of distributed network 
+elements, adapting to unpredictable changes while hiding intrinsic complexity from operators 
+and users. It often involves closed-loop control. An autonomic function works in a distributed 
+way across various network elements, but allowing central guidance and reporting, and 
+co-existence with non-autonomic methods of management. Elements of autonomic functions already 
+exist today, for example aspects of IGP routing protocols such as OSPF, although their initial
+ configuration process is not autonomic. However, all such functions today have their own 
+discovery, transport, messaging and security mechanisms as well as non-autonomic management 
+interfaces. The general objective of this working group is to enable the progressive introduction 
+of autonomic behaviours into operational networks, as well as reusable autonomic network infrastructure.
+
+To transform the somewhat abstract Autonomic Networking concept into concrete, realisable 
+requirements, the first stage, undertaken in the Network Management Research Group (NMRG) of 
+the IRTF, was to define terminology and design goals, and to derive a high-level gap analysis. 
+The definitions and design goals, as well as a simple architecture model are defined in [NMRG_01]; 
+the gap analysis for AN is described in [NMRG_02]. The UCAN BoF at IETF 90 discussed use cases 
+and some existing solutions. All the above work serves as a baseline for this working group.
+
+
+[References]
+
+[NMRG_01] M.Behringer et al, Work in Progress, draft-irtf-nmrg-autonomic-network-definitions.
+
+[NMRG_02] S. Jiang et al, Work in Progress, draft-irtf-nmrg-an-gap-analysis.
+

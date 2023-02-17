@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-14T20:57:19.176Z
+date: 2022-11-29T19:42:38.059Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -46,7 +46,7 @@ If specific security expertise is needed in a WG, please contact the Security AD
 
 ## Security Areas Advisory Group (SAAG)
 
-The [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
+The [)Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
 
 SAAG is not working group.  As such, it does not adopt or publish documents.
 

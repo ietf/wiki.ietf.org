@@ -2,7 +2,7 @@
 title: Registration Instructions 
 description: 
 published: true
-date: 2022-12-15T05:44:24.448Z
+date: 2022-12-15T05:44:30.377Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T05:42:38.651Z

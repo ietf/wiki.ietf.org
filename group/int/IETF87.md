@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 87
 description: 
 published: true
-date: 2022-12-15T02:28:05.486Z
+date: 2022-12-15T02:28:10.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T22:01:16.207Z

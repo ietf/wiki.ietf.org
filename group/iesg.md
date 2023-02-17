@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2022-11-05T14:12:33.578Z
+date: 2023-01-04T22:16:38.602Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -34,7 +34,7 @@ Quick Links
 | Martin D.  | NomCom |
 | Éric V.  |  Tools Team|
 | Alvaro R.  | EMODIR  |
-|Warren, Ben, Martin D., Roman, John, Zahed	   |  Comms Review |
+|Warren, Martin, Roman, John, Zahed	   |  Comms Review |
 
 
 ### IESG Mailing List 

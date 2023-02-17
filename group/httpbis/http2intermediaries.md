@@ -2,7 +2,7 @@
 title: HTTP/2.0 Intermediary Requirement
 description: 
 published: true
-date: 2022-12-14T19:42:01.484Z
+date: 2022-12-14T19:42:06.436Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T19:42:01.484Z

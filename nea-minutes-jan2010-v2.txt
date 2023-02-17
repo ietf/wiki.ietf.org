@@ -1,0 +1,450 @@
+These notes do not attempt to duplicate the content of the slides.
+Instead, they summarize the material presented, and focus on comments 
+and discussion.
+
+
+Agenda
+======
+
+Date: Thursday, Jan 28, 2010
+Time: 0800-1000 PST / 1600-1800 GMT 
+WG Charter: http://www.ietf.org/html.charters/nea-charter.html
+WG Tools: http://tools.ietf.org/wg/nea
+WG email: nea@ietf.org
+
+0800 Administrivia
+         Blue Sheets
+         Jabber & Minute scribes
+         Agenda bashing
+0805 WG Status, Meeting Goal and Consensus Check Process
+0810 Review PT submissions: TLS
+   http://www.ietf.org/id/draft-sangster-nea-pt-tls-00.txt
+0830 Review PT submissions: EAP  
+   http://www.ietf.org/internet-drafts/draft-hanna-nea-pt-eap-00.txt 
+   http://www.ietf.org/id/draft-cam-winget-eap-nea-tlv-00.txt 
+   http://www.ietf.org/id/draft-cam-winget-eap-tlv-00.txt 
+0930 Plan for developing WG I-Ds
+0950 Next Steps
+1000 Adjourn
+
+
+Minute Scribes
+==============
+Brian Ford and Steve Hanna volunteered to take minutes. 
+
+Agenda Bashing
+==============
+Susan Thomson reviewed the proposed agenda. No changes were needed.
+
+WG Status
+=========
+Susan Thomson reviewed WG status. 
+
+The PA-TNC and PB-TNC I-Ds are in the RFC Editor Queue. They are going 
+through the final editing process and will hopefully be published soon.
+
+Call for submissions for PT protocols ended Jan 4, 2010. One TLS proposal 
+and two EAP proposals were submitted.
+
+Meeting Goal
+============
+The aim of this interim meeting is to review the PT proposals and propose 
+the path forward for developing WG drafts.
+
+Consensus Check Questions:
+
+Susan previewed the consensus check questions that would be asked at the 
+end of the call for the purpose of determining the path forward for WG 
+drafts of the PT protocols.
+
+For the TLS-based PT, there will be 2 questions:
+
+1. Is there an interest in working on a TLS-based PT in general? Possible 
+answers are:
+- Yes	
+- No 
+- Defer (decision pending some other action taking place)
+
+2. Is there support for adopting the PT-TLS proposal, in particular, as a 
+-00 WG draft:
+- Yes
+- No 
+- Defer (decision pending some other action taking place)
+
+
+Similarly, for the EAP-based PT, there will be two questions:
+3. Is there an interest in working on a EAP-based PT in general? Possible 
+answers are:
+- Yes	
+- No 
+- Defer (decision pending some other action taking place)
+
+4. What should we adopt as a -00 WG I-D?
+- PT-EAP
+- NEA-TLV
+- Other / Defer
+
+For answers of no/defer/other, we would like to understand why, so that 
+we can figure out how to make progress.
+
+Review of PT-TLS
+=================
+Paul Sangster reviewed the PT-TLS proposal and described how the proposal 
+meets the PT requirements laid out in RFC 5209 and the PB-TNC I-D.
+
+PT-TLS is a TCG specification published last year. It has the same IPR 
+grants as PA-TNC and PB-TNC.
+
+PT-TLS supports posture assessment over TLS as an application. No changes 
+to TLS are required.
+
+PT-TLS addresses the PT requirements for a L3 transport. Use cases 
+include posture re-assessment, application services and non-802.1x-
+enabled networks.
+
+PT-TLS consists of 3 phases:
+1. TLS Handshake (unchanged)
+2. Pre-Negotiation 
+   - version negotiation 
+   - optional client authentication
+3. Data Transport
+   - NEA Assessment
+
+PT-TLS supports client authentication during the TLS handshake. It also 
+provides the ability for the NEA Server to request that the client 
+authenticate after the handshake. PT-TLS defines a basic authentication 
+mechanism similar to that for the web. The proposal provides a framework 
+for adding other authentication types later. 
+
+The data transport phase carries PB-TNC messages and supports error 
+handling.
+
+The PT-TLS message format is similar to that of PA-TNC and PB-TNC 
+containing a message type scoped by vendor-id. Like PA-TNC, a message 
+identifier is used to aid in error processing.
+
+Paul said that the pros of PT-TLS are that it runs over an established, 
+secure, reliable, full duplex protocol, capable of carrying large amounts 
+of data. PT-TLS has been designed to be extensible.
+
+One con of PT-TLS is that more work is needed on client authentication. 
+Only a basic authentication mechanism is defined, but more authentication 
+types are likely needed.  Another con is that, since PT-TLS is not part 
+of the TLS handshake, it is not independent of the application. On the 
+other hand, it eases adoption.
+
+Paul then opened up the floor to questions. 
+
+Joe Salowey said that PT-TLS defines a new framework for client 
+authentication and that he feels it would be better to use an existing 
+one like SASL.
+
+Paul agreed that this would be interesting to look at and that EAP is a 
+possible candidate as well. He considers this area one of the areas that 
+needs more work.
+
+Joe said that the draft does not provide sufficient detail on certificate 
+processing during the TLS handshake, not only on the client, but also on 
+the server. More specificity will help interoperability, e.g. proof of 
+possession of private key, and making sure that the identity of the 
+server the client is connecting to, is authorized to service the request. 
+
+Paul said that this sounds like best current practices that could be 
+added even though the protocol being defined is running on top of TLS.
+
+Joe added that the HTTP specification has included recommendations along 
+these lines and so this would be a good baseline to look at. 
+
+Kaushik reiterated the point made by Joe re SASL. He also said some text 
+regarding state management and performance implications would be useful.
+
+Paul said that there is a section on supporting reassessment which 
+mentions state management, but more could be said regarding scaling 
+implications. 
+
+Nancy said that the document was inconsistent in its use of TLS versions. 
+Nancy recommended that there be a requirement for TLS 1.2.
+
+Paul said that there was text in the document regarding use of TLS 1.1 
+(must) and 1.2 (should). A mandatory requirement for TLS 1.2 could be 
+considered.
+
+Joe added there was mention of TLS 1.0 in the document which needed to be 
+cleaned up.
+
+Review of PT-EAP
+=================
+Steve Hanna reviewed the PT-EAP proposal and described how the proposal 
+meets the PT requirements laid out in RFC 5209 and the PB-TNC I-D.
+
+The PT-EAP proposal is a TCG standard and was published around 5 years 
+ago.
+
+PT-EAP supports an NEA assessment over an EAP tunnel method. Supported 
+tunnel methods include PEAP, EAP-FAST and TTLS. No changes are required 
+to the EAP tunnel method.
+
+The use case for PT-EAP is to provide the ability to perform posture 
+assessment in networks deploying access control such as 802.1x and IKEv2.
+
+PT-EAP runs as an inner EAP method. PT-EAP has the following properties:
+- can be chained with other EAP methods used for authentication
+- supports key derivation allowing inner method to be bound to tunnel
+- supports fragmentation
+
+Due to EAP limitations, the protocol is lock-step, allowing only one 
+packet in flight at a time. Large data transfers are therefore not 
+recommended.
+
+PT-EAP supports 3 phases:
+1. Optional Diffie-Hellman pre-negotiation
+   - derives key
+2. PB-TNC exchange 
+   - NEA Assessments
+   - Hashed into eventual key
+3. Optional key derivation and export
+
+Steve stated that the pros of PT-EAP include the fact that it works with 
+any EAP tunnel method, and that there are no changes to the EAP state 
+machine and supplicant implementations (assuming they support adding EAP 
+methods).  It provides for protection against lying endpoints when used 
+with TPM. The protocol has undergone security reviews, and it has no 
+dependencies on other working groups. 
+
+The cons are that key derivation and export adds complexity to the 
+protocol, but its use is optional. A client need not support it.
+
+Steve then opened up the floor for questions.
+
+Nancy questioned the assertion that there is no external dependency. She 
+said there is a dependency on a standard EAP tunnel method for 
+interoperability.
+
+Steve said there are a lot of EAP methods that are best run in tunnel 
+methods. The IESG has not held up standardizing these methods. So he does 
+not believe there is a dependency on defining a standard EAP tunnel 
+method.
+
+Joe said that one difference between PT-EAP and other EAP methods is that 
+it requires that it be run in a tunnel method, whereas other EAP methods 
+do not require it. 
+
+Steve said that it would be possible to add security measures to run 
+without a tunnel method. 
+
+Nancy says it is still not clear to her what the threat is that is being 
+countered with the key derivation and export, and why that same threat 
+does not need to be addressed in the PT-TLS proposal.
+
+Steve says that he thinks that the WG might decide that it needs to be 
+addressed in a TLS-based protocol as well. The threat is a man-in-the-
+middle attack against a EAP tunnel method, where an attacker injects an 
+EAP exchange in the tunnel from another endpoint. This allows a 
+compromised endpoint to claim to have the posture of a clean endpoint and 
+not be detected. By binding the inner EAP method to the tunnel, this 
+ensures that the tunnel and the inner EAP method terminate on the same 
+device.
+
+Nancy asked how the Diffie-Hellman is being authenticated. 
+
+Steve says it is through a PA-TNC message over PT-EAP. He said this is 
+not specified in the draft, but is described in full in the TCG 
+specification. He tried to summarize it in the draft, but it may have 
+been too brief.
+
+
+Paul says this is specified in Section 3.5.3 of the draft, but it may 
+need to be clarified. 
+
+Joe said that without this critical piece, it is incomplete.
+
+Steve says it may be useful to write an Info RFC on the PA-TNC exchange 
+to explain how this works. He does not believe it is normative.
+
+Kaushik asked whether the channel binding work being discussed in EMU WG 
+would make the Diffie-Hellman redundant.
+
+Steve did not think channel binding would ensure that the posture check 
+terminated on the same device as the tunnel.
+
+Kaushik said that there seemed to have been a change in the trust model 
+and questioned why the threat was protected against in PT-EAP and not PT-
+TLS.
+
+Steve said that the WG could look at different options that solve the 
+problem for both posture transports.
+
+Paul said it is plausible to carry the D-H pre-negotiation in PT-TLS.
+
+Nancy said it would be good to get a good understanding of the trust 
+relationships and the problem statement. 
+
+Steve suggested that people read Section 4.2.5 and the TCG spec (which 
+has pictures).
+
+Review of NEA TLV
+==================
+Nancy Cam-Winget reviewed the NEA TLV proposal and described how the 
+proposal meets the PT requirements laid out in RFC 5209 and the PB-TNC I-
+D.
+
+This proposal defines a general EAP-TLV container, and the NEA-specific 
+TLV that is carried inside the general container.
+
+The general EAP-TLV container facilitates the exchange of arbitrary data 
+in tunnel methods that do not need to generate keys. The EMU WG has 
+discussed various uses for such a container such as channel and crypto 
+binding. NEA assessment is another usage.
+
+The use cases for an EAP-based transport are similar to those described 
+in PT-EAP above. Also, the same EAP protocol limitations apply.
+
+The protocol flow consists of:
+1. EAP tunnel method set up (no change)
+2. Inner EAP method for optional user/machine authentication (no change)
+3. NEA Assessment exchange using NEA-TLV
+
+Nancy said that the pros of the protocol are that it is simple and 
+extensible, and can be carried inside of existing EAP tunnel methods. The 
+NEA-TLV  format could be used in the TLS-based protocol as well.
+
+The cons are that this approach assumes that key derivation is not 
+required. It also depends on the EAP-TLV format being defined.
+
+Nancy then opened up the floor to questions.
+
+Steve asked how requirement C-5 which states that the selection process 
+must prefer open standards is met. 
+
+Nancy argued that the EAP-TLV container is open in the sense that it is 
+already used in existing tunnel methods.
+
+Steve disagreed but said that we should let the WG decide. 
+
+Steve also asked about C-7 and support for large data transfers.
+
+Nancy says fragmentation is assumed to be supported in the EAP tunnel 
+method.
+
+Steve agreed with this, but TLVs larger than 2**16-1 would not be 
+supported.
+
+Nancy says the current proposal could be extended to support 
+fragmentation into EAP_TLVs, if needed.
+
+Steve agreed that this could be done.
+
+Paul asked for a clarification on whether EAP-TLV I-D would be specified 
+in EMU WG and NEA-TLV in the NEA WG.
+
+Nancy said that this was correct.
+
+Paul said that the implication of this was that progress in the NEA WG 
+was tied to that of the EMU WG. It was unlikely that the NEA-TLV I-D 
+could be published as an RFC prior to the EMU WG completing the EAP-TLV 
+specification. 
+
+Kaushik said the relationship exists already because of the need for a 
+tunnel method to be standardized.
+
+Paul argued that this was not the case for the PT-EAP proposal. Even if 
+the IESG decided not to publish the RFC as Proposed Standard straight 
+away, the NEA WG could complete the work independently of progress in the 
+EMU WG.
+
+Steve asked whether EAP-TLV required changes to the EAP state machine.
+
+Nancy said that it did not require changes to the state machine.
+
+Steve asked how existing supplicants that provide support for adding new 
+EAP methods would support the NEA-TLV without requiring changes to 
+implementations.
+
+Hao Zhou said a mechanism that would be needed to support NEA-TLV is 
+required anyway, e.g. for returning final results and to support crypto-
+binding. Several implementations support this.
+
+Steve said that supplicants supporting multiple inner EAP methods can 
+support PT-EAP without change.
+
+Joe countered that not all supplicant implementations support this. Some 
+support TLVs. 
+
+Consensus Check
+===============
+Susan asked the WG for their feedback on the consensus check questions:
+
+Regarding the TLS-based PT:
+-----------------------------
+1. Is there an interest in working on a TLS-based PT in general?
+
+The response was unanimous in favor of working on a TLS-based PT.
+Prior to the next consensus question being asked, Nancy expressed the 
+concern that she could not support PT-TLS without a better understanding 
+of the trust model, especially with respect to the authentication.
+
+Paul said that D-H pre-negotiation could be added to the specification 
+without a problem. Adding SASL may be a bigger change. But it is doable.
+
+Susan then asked the second consensus question.
+
+2. Is there support for adopting the PT-TLS proposal as a -00 WG draft?
+
+The response (hum) was in favor of the yes responses, over the defer 
+responses, with no-one humming no, but there was no clear consensus.
+
+
+Regarding EAP-based PT:
+-----------------------
+Susan asked consensus check questions on the EAP-based proposals.
+
+3. Is there an interest in working on a EAP-based PT in general? 
+
+The response was unanimous in favor of working on an EAP-based PT.
+
+
+4. What should we adopt as a -00 WG I-D?
+- PT-EAP
+- NEA-TLV
+- Other/Defer
+
+Responses were roughly equal in favor of PT-EAP and NEA-TLV with one 
+response indicating a preference to defer.
+
+Next Steps:
+===========
+Given the lack of consensus on moving forward with any of the proposals 
+as -00 WG drafts at this time, the working group identified topics that 
+need to be discussed on the mailing list, prior to making a decision.
+
+Susan suggested that getting agreement on the trust model would help move 
+things forward.
+
+Paul suggested that the WG chairs discuss with the AD questions around 
+the process for publishing the EAP-based PT as a Proposed Standard. 
+First, can a EAP PT progress without there being a standard EAP tunnel 
+method? Second, is it OK to stop work until EAP-TLV is standardized?
+
+Brian Ford mentioned that the impact of the EAP proposals on supplicants 
+be a factor taken into consideration.
+
+Steve said another topic for discussion would be a description of the 
+MITM attack and the D-H PN counter-measure.
+
+Joe agreed on the need for a discussion of the threat model, and the need 
+for a binding to the tunnel.
+
+Steve would like to see a discussion of how the EAP protocols stack up 
+against the requirements because there are specific cases where there was 
+no agreement.
+
+
+Actions:
+- Steve and Paul to send description of the MITM attack and the D-H PN 
+countermeasure.
+- Steve and Nancy to describe how proposals meet PT requirements on 
+mailing list
+- Impact on existing supplicants. (Juniper-Steve, Cisco-Nancy, Microsoft-
+Steve, Apple-Nancy/Steve, open source-Paul)
+- Susan and Steve to consult with our AD on process for moving forward on 
+standardizing an EAP-based PT.

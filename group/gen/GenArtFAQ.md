@@ -2,7 +2,7 @@
 title: Gen-ART Frequently Asked Questions
 description: 
 published: true
-date: 2022-12-09T01:09:01.769Z
+date: 2023-01-25T05:26:43.019Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:09:01.769Z
@@ -57,3 +57,11 @@ A: The General Area director understands that these are reviews by generalists w
 **Q: Is there any written Gen-ART procedure?**
 
 A: In addition to this wiki, see http://www.rfc-editor.org/rfc/rfc6385.txt
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2018-05-01. It was migrated from the old Trac wiki on 2023-01-24.*

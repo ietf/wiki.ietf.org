@@ -1,8 +1,8 @@
 ---
-title: 6lo Working Group
+title: 6lo WG - IPv6 over Networks of Resource-constrained Nodes
 description: 
 published: true
-date: 2022-08-26T14:54:06.017Z
+date: 2023-01-12T00:14:25.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:47:28.584Z
@@ -54,3 +54,11 @@ The event was free of charge and was open to both ETSI members and non-members. 
 # 6lowPAN Deployment Examples
 
 TBD
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2015-11-12. It was migrated from the old Trac wiki in 2022.*

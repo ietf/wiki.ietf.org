@@ -2,7 +2,7 @@
 title: Why we propose mutual authentication?
 description: Why we propose mutual authentication?
 published: true
-date: 2022-12-14T19:22:09.671Z
+date: 2022-12-14T19:22:14.621Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T18:44:54.892Z

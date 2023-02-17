@@ -1,0 +1,139 @@
+IETF CLUE WG design team meeting, Sept. 11, 2012
+
+Participants: 
+------------ 
+Mary Barnes
+Paul Kyzivat
+Espen Berger
+Jonathon Lennox
+Roni Even
+
+Recording:
+----------
+https://ietf.webex.com/ietf/ldr.php?AT=pb&SP=MC&rID=8183912&rKey=2b332cc41122e546
+
+Notes by Mary
+-------------------
+
+Reviewing call flow for telemedical use case per draft-kyzivat-clue-telemedical-callflow-00.
+
+Roni noted that you can't say that advertise is different than INVITE 
+
+Paul noted that you may send advertisement and SDP is already right.
+
+Espen: this is not always the case for BW.  
+
+Jonathan: What's downside of offering the biggest configuration? Concerned about intermediaries?
+
+Roni stated: Let's assume that all systems we build will understand CLUE SDP for multiplexing.  In this case, you can be more lenient about what you do in terms of SDP and advertisement.  Part of the reasons we have a problem is because we are trying to do SDP that will work for non-CLUE endpoints with first O/A.  Information in final SDP and advertisement must be related.  Need to be consistent.  We are talking about two O/As due to interop problems. 
+
+Paul: Two issues:
+1) Interop - more extreme in this case.  Here, the likelihood that you will contact a non-CLUE EP is very unlikely.   Could send basic SDP or should assume that a non-CLUE EP can just use what they need and not rollover.  
+2) 
+
+Roni: refers to email on MAXSSRC.  You get something that you can use to get understanding of type of system.   We need to look at what we want to achieve in both SDP and advertisement, then we can figure out what we can send in first INVITE. 
+
+Paul: unclear.  We could put unlimited amount of sophistication that supports CLUE in SDP that would still be okay with a vanilla SIP endpoint that is well behaved (i.e., ignores what it doesn't understand). 
+
+Espen: for example we need to know re-INVITE is needed (e.g., for BW).  
+
+Roni: there is RTP header extension for RTP mapping to CLUE. If you don't put in first INVITE, then it needs to be in re-INVITE.
+
+Mary: trying to summarize what is being said - i.e., that may not need re-invite (extreme case assume that you can't put anything CLUEy in 1st INVITE). Roni clarified that would still need a re-invite.  
+
+Paul: if we think no matter what, we need a re-invite, then there's no point of getting too much extra in the first.  
+
+Jonathan: if there are assumptions made about things like BW (ie., total for sessions versus single channel), then might have problems with how info about multi-sources are interpreted.
+
+Roni: The major reason for 1st and 2nd invites, is due to interop. Is there something we can get out of 1st exchange that will help us get a better ADVERTISE?
+
+Note, the above is a general problem and not unique to this call flow, thus need to consider that this stuff is already done and discuss details of this specific call flow. 
+
+Paul: assume advertisements and configurations have been exchanged - everything is up.  Now, one side wants to change config.  Need to consider whether we reserved enough BW initially.  
+
+Espen: works if you are decreasing BW, for example.  Should allow you to keep same SDP.
+
+Situations where you can't keep same SDP:
+- is this driven by new config?
+- OR, if SDP is dependent only on advertisements, then can do things a different way.
+Roni: you need to change if you are changing multiplexing.
+
+Paul: either need to allow that possibility or disallow.  
+
+Conclusion: assume that SDP can change in case of config.   But, can optimize. 
+
+Jonathan: what is the distinction between these cases?   Is this an optimization or a fundamentally different req for a use case. 
+
+Mary: you need to know data first.  
+
+Paul: you put a bunch of stuff in advertisement, etc. and in SDP, but you might figure out that is redundant. 
+
+Espen: we have identified two cases of re-invite: BW and changing media sessions.  If everyone won't do SSRC multiplexing, then need to consider.  If we start with basic, then get consensus and then add more complex.  In Stockholm, aiming for a solution that doesn't make re-invites are not req'd.  ..Don't understand re-invites in this call flow.  Don't see any info in re-invite that is needed. 
+
+Paul: was assuming worst case.
+
+Espen: look at Rob/Allyn's call flow document.  
+
+Roni: without real SDP and info, can't work really do this.
+
+Paul: agree simple case, but need to consider more complex.  Agree to do work to elaborate messages in a simpler call flow.  
+
+Simple MCU case and point to point.  
+
+Espen: thinks MCU should send an advertisement that there is no CLUE info. 
+
+Paul: should it configure?
+
+Espen: no.  It doesn't have media to send.
+
+Paul: consequence is that it needs to send another advertisement when another party joins.  
+
+Espen: if both parties do SDP O/A and want to use …
+
+Roni: you presented it that MCU doesn't know anything.  It wouldn't open CLUE channel. 
+
+Paul: it should open channel even if it's not going to send messages. Do you need to send a configure?  
+
+Jonathan: what does it mean if you don't send a configure?  Or maybe you send an empty configure? 
+
+Paul: what if you get another advertisement and decide not to send another configure. 
+
+Jonathan; depends upon existing config - does it still work?
+
+Espen: exAMPLE, CLUe EP offers two captures and then changes to one.  If you remove something, you need to send another configure.  
+
+Jonathan: if you ask for one and two and then two is removed, may not need to do anything.  
+
+Paul: some of this is existing O/A issue.
+
+Jonathan: in SDP O/A, always have to respond.  
+
+Paul: there is a window where you're still getting old. 
+
+Jonathan: not sure this is properly written down anywhere.
+
+Espen: main thing is to make recommendations, what you are expected to do if you receive a new advertisement?  
+
+Paul: yes - like O/A.  CLUE first and then SDP?  
+
+Espen: depends upon what you want to change. 
+
+Haven't really resolved anything - more questions (but that's okay 
+
+Jonathan: clearly if you want to add a new 5 tuple, must be done in SDP. If there is a way of saying in CLUE, we need to send this capture in this media flow, you need a way to say that. 
+
+Espen: if call flow could be updated with best case for MCU (versus p2p in Allyn's call flow document)
+
+Roni: eventually there may be a case if you are transcoding, as that may change it thus for simplest case, assume it is not transcoding. 
+
+Paul: IF simpler case is a two person conference?   Then this flow is that, until you get a third participant. 
+
+Conclusion: Start adding the detailed information to the flow - also include text for the scenario along with assumptions (e.g., CLUE only endpoint, etc.). 
+
+
+
+
+
+
+
+ 

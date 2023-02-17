@@ -1,8 +1,8 @@
 ---
-title: REPUTE Working Group Wiki
+title: REPUTE WG (Concluded)
 description: This working group was concluded on 2013-11-22
 published: true
-date: 2022-12-13T22:11:29.350Z
+date: 2023-01-05T00:01:27.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:51:05.480Z

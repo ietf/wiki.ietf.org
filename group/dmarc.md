@@ -1,8 +1,8 @@
 ---
-title: DMARC WG
+title: DMARC WG - Domain-based Message Authentication, Reporting & Conformance
 description: 
 published: true
-date: 2022-12-09T16:25:02.926Z
+date: 2023-01-04T21:10:09.045Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z

@@ -2,7 +2,7 @@
 title: Design Decisions regarding Layering of HTTP Mutual
 description: Design Decisions regarding Layering of HTTP Mutual
 published: true
-date: 2022-12-14T18:42:06.888Z
+date: 2022-12-14T18:42:10.382Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T01:18:49.307Z

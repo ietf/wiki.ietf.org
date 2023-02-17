@@ -2,7 +2,7 @@
 title: IPPM Individual Document Adoption Summary
 description: 
 published: true
-date: 2022-12-16T00:16:10.003Z
+date: 2023-02-17T06:17:25.213Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T00:09:52.543Z
@@ -27,6 +27,7 @@ dateCreated: 2022-12-16T00:09:52.543Z
 | Call for adoption issued?                                                                   | No                             | [Yes](https://mailarchive.ietf.org/arch/msg/ippm/Pp-rp2b6R-3cNlhoMnI8F-gT4vQ)             | No         | No                   | No          | [Yes](https://mailarchive.ietf.org/arch/msg/ippm/nmJln6LSbXzsNY6iTMEcTI0X00g)              | No               | No                 | No                                                         | No                                |
 | Adoption Call Support?                                                                      |                                | Yes (9 e-mails) |            |                      |             | Yes (5 e-mails)  |                  |                    |                                                            |                                   |
 | Discussion on-list?                                                                         | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-chen-ippm-coloring-based-ipfpm-framework)                            | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-cmzrjp-ippm-twamp-yang)             | [None](https://mailarchive.ietf.org/arch/search/?q=draft-fabini-ippm-2330-time)       | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-fioccola-ippm-rfc6812-alt-mark-ext)                  | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-mirsky-ippm-time-format)         | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-morton-ippm-initial-registry)              | [None](https://mailarchive.ietf.org/arch/search/?q=draft-mirsky-ippm-twamp-light-yang)             | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-morton-ippm-2330-stdform-typep)                | [Some, although calls for discussion went mostly unanswered](https://mailarchive.ietf.org/arch/search/?q=draft-tempia-ippm-p3m) | [Yes](https://mailarchive.ietf.org/arch/search/?q=draft-spv-ippm-monitor-methodology-services-kpi)                               |
+{.dense}
                                                                
                                                                
                                                                

@@ -2,7 +2,7 @@
 title: IETF dbound WG Glossary
 description: 
 published: true
-date: 2022-12-05T22:05:02.536Z
+date: 2022-12-05T22:05:06.927Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:05:02.536Z

@@ -1,8 +1,8 @@
 ---
-title: IP Security Maintenance and Extensions (ipsecme)
+title: IPSECME WG - IP Security Maintenance and Extensions
 description: 
 published: true
-date: 2022-12-16T00:32:04.339Z
+date: 2023-01-04T22:14:51.877Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T00:32:04.339Z

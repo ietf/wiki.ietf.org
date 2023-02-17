@@ -2,7 +2,7 @@
 title: iSchedule
 description: 
 published: true
-date: 2022-11-05T14:41:47.937Z
+date: 2022-11-29T19:41:21.392Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:41:47.937Z

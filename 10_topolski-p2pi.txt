@@ -1,0 +1,227 @@
+FRAMING PEER TO PEER FILE SHARING
+by Robb Topolski
+
+
+A Fact: A BitTorrent uploader transfers to only 3-4 peers at a time.
+
+Peer-to-peer (P2P) file-sharing applications are widely believed to strain
+access providers' upload links by uploading over hundreds of TCP
+connections.  It is the basis incorporated in problem statements supporting
+extreme management methods.  It is also a basis that escaped testing.  The
+fact is that BitTorrent simultaneously uploads data over only 3 to 4 TCP
+connections.
+
+
+1. DEFLECTING ACCOUNTABILITY BY DEFLECTING RESPONSIBILITY TO OTHERS
+
+While the growing demand for upstream bandwidth among Internet users is
+nothing new, today's operators are claiming difficulty in dealing with the
+phenomena. I choose the word 'claiming' because technical conclusions
+require data and analysis, and insufficient data has been presented to be
+openly analyzed. I also ask the readers to read the word 'claiming' as
+neutral in tone, as no strong evidence is available to rebut providers'
+claims.
+
+Without providing data about this congestion, operators avoid the
+possibility that they themselves have issues bearing scrutiny.  As a result,
+the latest debates skip analyzing congestion and advance to how and when to
+"throttle" the "bandwidth hogs," how to correct a congestion-control
+fairness imbalance between users, under what conditions network operators
+may inspect the payload of IP packets prior to forwarding them, and how to
+further assure routine availability for real-time applications.
+
+This puts technologists in a position of playing "Bring Me a Rock"; a game
+that never ends because someone is unhappy with the particular rock that is
+returned and requests a different rock be returned instead, meanwhile never
+adding any useful information to help the player choose the correct rock.
+
+Without data, we cannot tell if the problem of congestion is due to the
+failure of existing congestion-control algorithms, the addition of "smart"
+devices installed mid-network that are changing the normal behavior of
+packets, a sudden insurgence of aggressive or incorrect network decorum
+among applications, a QoS technique problem, or mismanaging the division
+of a shared resource among users. Data is also necessary to understand the
+size of a problem and under what conditions it occurs in order to
+accurately predict whether a proposed solution is likely to solve the
+problem.
+
+Today's problem has been framed as a P2P file-sharing problem. However,
+without congestion, applications do not contend for bandwidth and any of
+the technical solutions to efficiently share congested bandwidth become
+moot. Therefore, congestion itself must be a causal factor to include in
+theories about the problem. Data about causes must be gathered. In the
+past, the Internet community coped with congestion by dealing with
+congestion along with its external additives such as protocol efficiency.
+We should not allow today's congestion to escape a studied examination.
+
+Specifically, the Working Group should first gather data before reaching
+its problem statement. It should then test the problem statement to ensure
+it is accurate so that any solutions to be brought are accurate. If the
+data cannot or will not be made available, doing nothing at all would be
+better than continuing to hear "No, not that one. Bring me a different
+rock.
+
+
+2. ASSIGNING ACCOUNTABILITY AND RESPONSIBILITY WITHOUT CORRECT EVIDENCE
+
+A recent description of this problem, said:
+    "[the] traditional management of fairness at the transport
+    level has largely been circumvented by [P2P] applications
+    designed to achieve the best end-user transfer rates"
+
+A renowned researcher explained the problem, saying:
+    "Even though file-sharing generally uses TCP, it uses
+    the well-known trick of opening multiple connections--
+    currently around 100 actively transferring over different
+    paths is not uncommon."
+
+It's tribal knowledge that P2P file-sharing applications open hundreds of
+connections, all active.  This is a notion that has been repeated in
+technical blogs and shown as evidence to Members of Congress and the U.S.
+Federal Communication Commission as to the cause of the congestion bringing
+about the Network Neutrality debate.  In as much as P2P file-sharing
+behavior is represented by its most-used protocols, namely BitTorrent,
+Gnutella, and ED2K, it is also false (or greatly misjudged).
+
+The unsubstantiated blaming of P2P for today's problems is only the first
+problem with the first line. The phrase, "traditional management of
+fairness," prejudges whether any "fairness" that congestion control
+algorithms accomplish are intended, or are they merely a side-effect of
+robust network-availability watchdog functions? The word "management"
+implies intent, and it is unlikely that extended terms of fairness was
+intended for a algorithm designed to keep congestion from bringing the
+Internet to a halt.
+
+Finally, the phrase, "designed to achieve the best end-user transfer
+rates", ignores the fact that the vast minority of Internet applications
+impose bandwidth limitations upon themselves. The normal behavior of
+network transports is to use any bandwidth that is available. Applications
+using these transports are generally blind to network conditions and
+cannot "speed up" or "slow down" based on signals that are not there.
+Instead, this is a function of symptoms and signals analyzed at the lower
+levels of the network stack.
+
+All of the top P2P file-sharing protocols that I have described access
+socket services through the same limited API set used by every other TCP
+application. In other words, P2P doesn't speak "in TCP," it only knows how
+to speak the O/S specific API commands - a limited command set that
+provides network services to all applications on the platform. Finally,
+such nefariousness on the part of a background application would defeat
+the use of other applications on a person's computer.
+
+The statements refer to BitTorrent (the #1 P2P file-sharing protocol on
+the Internet). They do not resemble behavior by ED2K (#2) or Gnutella (#3),
+ both of which use a queuing system instead of a swarming method. A
+queuing system holds incoming requests for files while filling those
+requests only a very few at a time. In some parts of the world, a
+source-obfuscating generation of encrypted and overlaid P2P file-sharing
+applications is emerging including Freenet, Share, and others. I have not
+profiled the network behavior of these applications, but I believe that
+the authors of the above quotes were not focused on these applications,
+either. The chief suspect of these particular allegations is BitTorrent.
+
+
+3. FOCUSING SOLELY ON THE BEHAVIOR OF BITTORRENT
+
+              Is the Problem Uploading? Downloading? Both?
+
+To perform a BitTorrent transfer of a file or set of files, the BitTorrent
+client connects to peers focused on the same file (called a 'swarm.'). The
+maximum number of connections to open is recommended to be somewhere in
+the neighborhood of 50-55 and nearly all BitTorrent clients install with a
+default maximum number of TCP connections that falls near this range.
+Within a few minutes of joining a typical swarm, many of these connections
+may be downloading.
+
+BitTorrent's first incarnations were realized in applications that
+transferred a single file (or a grouping of files behaving as one). For
+comparison purposes, this is analogous to transferring a single large file
+via FTP or HTTP. This is important, because many problem statements
+involving BitTorrent are made between BitTorrent involved in a file
+transfer versus a web browser fetching a web page, a VOIP app handling a
+call, and other dissimilar activities.
+
+One question to refine for the problem statement is whether multiple
+connections that are downloading are substantially contributing to any
+congestion problem today - or is any problem confined to how BitTorrent
+uploads? Indeed, some of the operator solutions proposed and imposed
+attempt to focus on the upload side, alone. While some solutions also
+focus on the downloading side as well, it is also an unanswered question
+as to whether their concern for doing so has more to do with congestion
+than it does controlling consumption and transit costs.
+
+When considering whether BitTorrent interferes with normal congestion
+control, it seems relevant that the uploading host is responsible for
+responding to the signs of network congestion. The downloading host has a
+lack of of insight and control. Being that the signal of congestion is a
+dropped packet (one that is not delivered) or a duplicated ACK, the
+downloading host receives no early indication of a problem.
+
+If downloading is found to contribute to the problem, it should be analyzed
+in the context that often none of these BitTorrent connections are
+downloading. After a node has collected all of the pieces in a swarm, it
+only uploads.
+
+Without data, I am not concluding that BitTorrent downloading activity has
+no bearing on this or any problem.  However, it is quite possible that
+downloading via BitTorrent has a positive effect owing to its ability to
+route around congested paths while single-stream transfers have no such
+ability and must "power-through" a congested route until a transfer is
+completed.
+
+    The Surprising Reason BitTorrent Uploads on Only 3-4 Connections
+
+Most indicators are that the congestion pressure on last-mile operators
+exists primarily in the uploading direction. These networks were designed
+several years ago, at a time when graphical interfaces and World-wide web
+browsers began to replace shell sessions and text-based networking tools.
+Indeed, the ratio of upload-to-download dial-up and fledgling high-speed
+bandwidth usage back then became the basis for planning the networks we are
+using today.
+
+Focusing on the upload side of the equation, the fact that BitTorrent
+clients are only uploading to 3-4 other peers per swarm - not hundreds - is
+probably the most relevant contradiction to the present analysis. This fact
+casts into doubt any conclusions made on the assumption that BitTorrent
+uploads across hundreds of connections.
+
+The primary reason that BitTorrent uses only 3-4 upload slots is to be a
+good network neighbor. As recorded in one instance of the specification,
+the Slot-and-Choking algorithm was a design decision to facilitate
+Congestion Control, among other things. This is the algorithm used by
+nearly all of the BitTorrent applications. .While concluding that it does
+so is beyond the scope of this paper, any analysis that BitTorrent does
+not facilitate congestion control deserves an explanation of how and why
+it fails - not an accusation that the protocol was somehow designed to
+trick the system out of bandwidth belonging to other network applications.
+
+As the popularity of the BitTorrent protocol increased, clients appeared
+that could handle multiple BitTorrent streams simultaneously. The popular
+examples of these clients contain similar per-task configurations
+(including uploading slot limitations) as their single-task predecessors:
+3-4 slots per swarm. A user running up to 3-4 simultaneous tasks is not
+unusual or inefficient, given today's last-mile upload speed allocations.
+This would mean that 12 to 16 upload slots may be simultaneously running
+at the most - and its HTTP analog is 3-4 individual uploads in different
+clients native to those protocols.
+
+
+4. FOCUSING ON THE PROBLEM
+
+In summary, I offer that an examination about how to deal with P2P
+file-sharing on a congested network should begin with examining the
+congested network and understanding the parameters and causes for that
+problem.   In systems, problems are fixed as close to the source as
+possible. These are the least expensive solutions.  We strive to fix root
+causes because, if fixed, this solves its effects.
+
+There are plenty of anecdotal reasons to blame BitTorrent for poor
+performance on a congested network, and there are plenty of anecdotal
+reasons to blame other causes -- none of which bearing repeating here.
+They, too, first require an analysis as to the root cause of the congestion.
+
+
+References:
+
+http://wiki.theory.org/BitTorrentSpecification
+http://www.bittorrent.org/

@@ -2,7 +2,7 @@
 title: IETF Codec WG Some IPR Disclosures
 description: 
 published: true
-date: 2022-12-05T21:41:04.357Z
+date: 2022-12-05T21:41:08.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T21:41:04.357Z

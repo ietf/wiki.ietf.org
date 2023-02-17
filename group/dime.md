@@ -1,8 +1,8 @@
 ---
-title: Diameter Maintenance and Extensions (dime)
+title: DIME WG - Diameter Maintenance and Extensions
 description: Wiki for DIME WG
 published: true
-date: 2022-12-06T22:44:15.221Z
+date: 2023-01-13T20:52:14.564Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T18:17:19.193Z
@@ -26,3 +26,10 @@ This page contains the Wiki's maintained by the IETF DIME working group. Here we
 * Thu, 29 Aug 2010 Sebastien Decugis posted in [Dime mailing list](http://www.ietf.org/mail-archive/web/dime/current/msg04325.html) information about the first release version 1.0.0 of freeDiameter project. For example the daemon is now fully compliant to [RFC3588](http://tools.ietf.org/html/rfc3588) and [draft-ietf-dime-rfc3588bis-21](http://tools.ietf.org/html/draft-ietf-dime-rfc3588bis-21), including native support for IPv6(!), SCTP, and TLS.
 * Wed, 24 Mar 2010 Sebastien Decugis posted in [Dime mailing list](http://www.ietf.org/mail-archive/web/dime/current/msg04096.html) a link to his open source Diameter implementation. Currently (as of May 3, 2010) [RFC3588](http://tools.ietf.org/html/rfc3588), [RFC4005](http://tools.ietf.org/html/rfc4005), [RFC4072](http://tools.ietf.org/html/rfc4072) and [RFC5729](https://www.rfc-editor.org/rfc/rfc5729) are supported.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2014-09-08. It was migrated from the old Trac wiki on 2023-01-13.*

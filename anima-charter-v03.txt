@@ -1,0 +1,56 @@
+Autonomic Networking Integrated Model and Approach (ANIMA)
+----------------------------------------------------------
+
+o) Motivation (Problem Statement):
+
+Current network processes perform independently on different views/partial information and by different means while interactions among their constituting entities take place at different spatial scales (from local to global). These processes also operate in the dark as the information to which they get access to/store is mostly limited to the one translating local protocol state(s) at current time. Finally, these processes have been designed to realize specific objectives which are often difficult to combine and reconcile preventing in turn the realization of more complex tasks (and involving multiple processes). Nowadays, the only mean to compensate these limits is to involve manual intervention/off-line control.  
+
+This motivates the introduction of a control paradigm where network processes, driven by objectives (or intent), coordinate their local decisions, autonomously translate them into local actions, and adapt them automatically according to various sources of information including external information and protocol information bases. This paradigm which mainly relies on closed-loop adaptive control is referred to an autonomic networking.
+
+Numerous realizations of this paradigm are nevertheless possible. One of its simplest forms has been documented in [NMRG_01] where an information processing agent (IPA) is collocated with the set of protocol engines it drives. An IPA processes the input selected from external information sources and protocol information bases in cooperation with other IPAs, to derive states (information needed to make a decision now or in the future) and translate them into local actions (i.e., local policies). 
+
+Application of this paradigm comprises use cases ranging from configuration to protection (security). For instance, considering the case of anomaly/attack/intrusion detection and related re-configuration operations i) automation is motivated because automata/programs are more proficient than humans in realizing systematic and exhaustive tasks such as ACL (re-configuration), ii) adaptation is required as new anomalies and attacks are constantly detected, and iii) cooperation and autonomy as each identified event requires both coordination and translation into different local actions to counter it.
+
+o) Main challenges:
+
+1. As use cases are numerous and diverse, the following questions stem: i) can inter-agent protocol primitives be unified and can agent functionality be factorized and ii) as anticipating all protocol needs is out of reach, these protocols (more generally AN components) shall be reusable and flexible enough to avoid redesign on per-case basis.
+
+2. Different "cooperation modes" between IPA's can be considered from slave-master-slave to consensus; hence, the following question stems: would one cooperation mode fit all needs.
+
+3. Finally, the information source selection and orchestration of actions (sequencing of instructions to protocol engines) requires to specify appropriate pre- and post-processing as these agents are required to be self-sufficient. 
+
+o) Tasks:
+
+- Step 0 (before start of WG): Functional areas where the working group agrees to contribute (risk mitigation/avoidance, re-configuration/-programming, etc.) by providing at least one representative use case per functional area. 
+
+- Step 1: Evaluation work of AN components (orchestration execution/realization of decisions, etc.), distributivity needs (exchange of information from external sources, exchange between AN agents, etc.) and cooperation modes against representative set of use cases
+
+Goals: evaluate AN components against representative set of use cases and layout design of lightweight and reusable AN components
+
+- Step 2: ACP, a.k.a. common AN infrastructure, specification (in particular, cross-function single AN vs. cross-element multi AN) following the design goals of factorization, distribution, and unification required across use cases; determine if protocol functionality already "available" in other/existing protocol (with/without extensions) or new protocol(s) could be needed.
+
+Goals: show the utility and feasibility of a common AN infrastructure (put/articulate AN components together across use cases)
+
+- Step 3: Depending on the outcome of step 2, extensions of existing protocols, new protocol design/specification, etc. will be considered.
+ 
+o) Milestones:
+
+Nov. 2014 - WG formation and adoption of initial draft listing use cases
+Mar. 2015 - Adoption of uses cases evaluation and analysis draft 
+Nov. 2015 - WG Last Call of Uses cases evaluation and analysis draft 
+Jan. 2016 - Adoption of ACP Functional specification 
+Mar. 2016 - WG Last Call of ACP Functional specification 
+Jun. 2016 - Adoption of protocol component specification(s) 
+Nov. 2016 - WG Last Call of protocol component specification(s) 
+Nov. 2016 - ACP architecture (informational)
+Nov. 2016 - Recharter or close
+
+o) Related IETF WG and IRTF RG:
+
+- I2RS WG
+- Other WG's TBD
+- NMRG RG
+
+o) References:
+
+[NMRG_01] M.Behringer et al, Work in Progress, draft-irtf-nmrg-autonomic-network-definitions

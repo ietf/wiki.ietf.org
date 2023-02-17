@@ -2,7 +2,7 @@
 title: IESG Thoughts on Liaisons
 description: 
 published: true
-date: 2022-09-07T15:24:38.548Z
+date: 2022-11-29T19:37:47.667Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T15:24:35.639Z

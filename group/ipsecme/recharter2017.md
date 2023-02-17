@@ -2,7 +2,7 @@
 title: IPsecME charter
 description: 
 published: true
-date: 2022-12-16T00:37:14.740Z
+date: 2022-12-16T00:37:19.729Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T00:37:14.740Z

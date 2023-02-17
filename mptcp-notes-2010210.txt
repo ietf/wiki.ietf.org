@@ -1,0 +1,305 @@
+MPTCP interim meeting / 10.2.2010  16:00 - 17:50 GMT
+-----------------------------------------------------
+
+Chairs: Philip Eardley
+	Yoshifumi Nishida
+
+Notetakes: Scott Brim
+	   Pasi Sarolahti
+	   (additional notes from John Leslie -- thanks!)
+
+
+Participants:
+Philip Eardley, Akbar Rahman, Alan Ford, Alan Smith, Amanpreet Singh,
+Andres Toro, Carsten Bormann, Christian Schmidt, Costin Raicu, Ehsan
+Elahi, Javier Diez, John Leslie, Juan Carlos Zuniga, Koojana
+Kuladinithi, Lars Eggert, Marcelo Bagnulo, Mark Handley, Mehmet Aslan,
+Michael Scharf, Pasi Sarolahti, Scott Brim, Sebastien Barre, Sergio
+(Lembo?), Wang Yang, Yoshifumi Nishida, Anantha Ramaiah
+
+
+** Progress on draft-bagnulo-mptcp-threat (updated Feb 8th) - Marcelo Bagnulo
+
+Marcelo:
+- Have updated the draft with the feedback, not much discussion on mailing list
+- Analysis on mptcp without security and with cookies
+- Please read it and please comment
+- Questions, comments?
+* Phil: have read the earlier version, not the new one
+* Marcelo: not much changes between the versions
+* Phil: is it good to become wg document?
+* Mark Handley: Think we should adopt this as WG document, basis to
+  say whether we've addressed the threats 
+* Phil: let's discuss on mailing list and see if we have consensus
+
+
+** Progress on draft-ford-mptcp-architecture (updated Feb 3rd) - Alan Ford
+
+slide: Goals of draft
+- Want to focus on high-level design in this interim
+
+s:Motivation and functional goals
+s:Compatibility goals
+s:MPTCP functional modules
+
+s:High-level design decisions
+s:Sequenece numbering
+- Is two levels of sequence number ok? no objections
+
+s:Reliability
+- ACK at subflow level
+- Do we need an explicit connection-level ack? opinions?
+* Costin Raiciu: Proxies can be quite frequent in practice. Connecting to
+  wireless, 3G, etc. There might be some performance enhancing
+  proxies, that can ACK on behalf of receiver, if ACK is lost we are
+  stuck. Connection-level ACKs are needed.
+* Mark: Principal issue is the middleboxes. Some of these do stream
+  reassembly, etc. In a mobile environment, the endpoint might move
+  away from an interface where a middlebox had just acked traffic but
+  didn't get a chance to deliver it.
+* Scott Brim: This is bad for TCP as well, is there pushback on such
+  middleboxes?
+* Mark: With regular TCP in this situation in cellular networks, if
+  you move you will keep your IP address.
+* Marcelo: With Mobile IP care-of-address would change
+* Mark: it would be good to understand how many such PEP proxies are
+  out out there.
+* Juan Carlos Zuniga: Are you considering mobile host being in the
+  MPTCP side or normal TCP side?
+* Mark: In principle middleboxes might work if they were unaware of MPTCP
+* Marcelo: the only drawback is that we still need the low level
+  ACKs. Question is how much complexity we are adding.
+* Mark: The purpose of connection level ACK is to reassemble the
+  buffer for the application
+* Marcelo: Probably need to add additional option per each segment
+* Costin: Don't need connection-level ACK for every subflow ACK. We
+  can reduce the overhead, you could do it e.g. every tenth packet
+* Marcelo: but it has to be on data?
+* Costin: it has to be on the acks, the reverse path.
+* Marcelo: separate seqnos for subflow and connection?
+* Costin: yes, but not in every packet.
+* Alan: Only way to do this reliably is to have connection level ACK
+  in every packet
+* Costin: You could have some rule for ACK frequency, e.g. once in an
+  RTT, no need to ACK every packet
+* Mark: Connection level ACK is the last resort supporting subflow ACKs
+* Costin: Some subflows may be slower, some faster, could use faster
+  path for acks.
+* Mark: connection level ACKs could reduce the need of buffering
+* Alan: good argument
+* Mark: General design rule is to do things explicitly to make them
+  more robust, not too much overhead.
+* Carsten Bormann: Need to design for future proxies, we are having PEP
+  proxies more and more deployed
+* Yoshifumi: Question: Is this mandatory function, or is there way to
+  disable it?
+* Alan: would have to be mandatory
+* Mark: Can't turn off after problem is detected, it would be too
+  late. It would be more complex to have two mechanisms and switch
+  between them
+* Alan: My view is that people seem to be in favor on connection-level
+  ACKs
+* Mark: there is interaction with how you do control data. Costin will
+  talk more.
+
+s: Retransmissions
+- Must retransmit on original subflow even though retransmitted on
+  another subflow
+* Costin: this is because traffic normalizer boxes that cache packets,
+  they will retransmit the cached packet, instead of the new packet
+  coming from sender
+* Mark: We can't maintain ACK clock if we have gaps in sequence
+  space. Should retransmit on the original subflow.
+* Costin: the way we are doing in current implementation: retransmits
+  that are triggered by dupacks are sent on the same subflow only,
+  RTO-triggered retransmissions are sent on other flows. Could have
+  advanced heuristics for fast retransmits
+* Alan: Retransmit algorithms are tradeoff between bandwidth and efficiency
+* Mark: Should not restrict future options. MUST be able to transmit
+  on different subflows and receive from different subflows, but by
+  default SHOULD retransmit on same subflow to maintain integrity.
+
+s: Path and Connection management
+- How can we identify the mptcp connection? Must have unique
+  connection identifier. Obvious ID is the first IP address.
+- What to do with legacy apps? What to do with closing mptcp
+  connection, when the first path goes away?
+* Mark: (closing after first address dissappears?) is bad. Would
+  reduce applicability.
+* Costin: Talking to Murari, some apps in Windows bind the source
+  addres to check if the interface up, other case is BGP. It depends
+  where you deploy it, I guess its fine on a normal use for the
+  connection close when the first subflow closes. It matters in mobile
+  devices, where there are controlled development environments.  For
+  Symbian or iPhone, those apps have little leverage with the stack,
+  they go through a connection manager.  It's much easier to force the
+  apps into a new model.  So maybe it would be up to software vendor
+  to decide what to do, and we don't take any position.
+* Mark: in only examples where this is a issue (BGP), they bind to IP
+  address and there is no need to use MPTCP
+* Marcelo: No sense in bringing connection down if first connection
+  goes down, we will lose reliability 
+* Lars Eggert: channeling Joe Touch -- his argument is that if you were an
+  application where security is tied to IP address, then you care that
+  the connection dies with the IP address. It would be difficult to
+  handwave this away. As part of the experiment we can evaluate how many
+  applications care about this property. We can have this as a topic
+  to look at.
+* Costin: music streaming apps, e.g. iPlayer checking which country
+  you're in by IP address. If I switch IP address, I break iPlayer's
+  policy
+* Mark: we are using lot of time arguing a matter on which we are not
+  sure if there is such application. If you care about IP address,
+  you'll bind that IP address.
+* Alan: does not belong to architecture, possibly discussed in API
+  document. Leave it for the OS.
+* Anantha Ramaiah: BGP listens to address because it does not want to
+  accept connections for other IP addresses. You don't know what
+  really happens with the packet after it leaves the sender. Would
+  like to understand what is the real concern.
+* Lars: for example web server, has a script running checking the
+  identity of client from the IP address that was used when initially
+  connected. If TCP stays alive over address changes, it might break
+  assumptions in these web servers.
+* Anantha: doesn't seem a concern to customers
+* Mark: Doesn't Mobile IP have the same issue
+* Lars: yes and shim6 would have sort of same issue, but no one uses
+  Mobile IP. There is no practical problem, just a theoretical
+  problem. Describe the issue and figure out how big the impact is
+  during the experimentation phase.
+* Anantha: makes sense
+* Scott: In these cases we are lying to apps. Ok as long as app
+  doesn't care.
+* Marcelo: MIP and Shim6 are standards track, while MPTCP is
+  experimental. If they get away with it, we are safe. Access control
+  should apply to the host identifier, it still identifies the host
+  even if address changes.
+* Lars: depends on the use case
+* Marcelo: you would also have problems when relocating IP addresses
+  to other countries (regarding determining users country based on ip
+  address)
+* Alan: don't know if we have a conclusion
+* Phil: heard quite good consensus to say what current draft says: do
+  the experiment, and see what is the impact
+* Scott: make a note about the issue in the draft, and we should get more
+  information about it later
+
+s: Middleboxes(1)
+- we have been considering middleboxes, there are corner cases,
+  question is how deeply go in solving these with special cases
+
+s: Middleboxes(2)
+- terminating middleboxes: may do proactive ACKing, may drop TCP options
+- middleboxes that care about TCP: May change sequence numbers. May
+  do packet coalescing or splitting, relevant to options vs. payload
+  discussion). Do not put holes in sequnce space
+* Scott: Concerned about intrusion prevention. if you have MPTCP, and
+  go to sites that have intrusion detection, may have false positivies
+  or false negatives
+* ???: Middlebox should have a say if it allows MPTCP to happen or
+  not. By the time we deploy it, any serious security systems will
+  know about it
+* Scott: When a middlebox sees the MPTCP option, could just kill it
+* Mark: such boxes would normally strip this options they don't understand
+* Anantha: issue of pass-through proxies terminating and initating a
+  connection at the proxy. What about IPSes that want to put in their
+  own options?  They may drop other options. (??--missed part of
+  it??).
+* Mark: middleboxes don't like the connections hanging around for a long time
+
+s: Other issues in the draft
+- if you have issues with these please raise them in the mailing list
+- Question whether to support both IPv4 and IPv6 in the same connection?
+* Mark: cant see many reasons to prohibit in the protocol
+- receive windows: per connection only
+
+s: Next steps?
+- Is this good for a WG draft?
+* Phil: new version seems good step forward. Any comments about
+  whether to become WG draft, either now or on the list?
+* Marcelo: this is a live document, reasonable have it adopted and
+  reflect decisions as we make progress 
+* Mark: this should be basically a WG document already. We are not
+  having a competing architecture document in sight. 
+
+
+** "options vs payload" discussion - Costin Raiciu
+
+- Different types of control information: problem is the ordering information in segments, overall sequence numbers, addip, data level ack, security, etc.
+- Problem: limited size of TCP options
+
+s: Options encoding
+- what are the issues with options: reliability, middleboxes
+- some option space is already used: timestamps, sack option
+
+s: Payload encoding
+- TLV-encoded payload
+- no space or reliability issues
+
+s: Connection/subflow setup
+- initial connection: Must use TCP option
+* Mark: If you can set up a path, you'll know that options go through at
+  least with SYN segment
+
+s: Data sequence mapping
+- save four bytes in payload
+- with data ack there is no reliability issue
+
+s: Data ACK
+- options: piggyback on ACKs, cuts one SACK. Don't think this is an
+  issue
+- payload: Data ACKs reliable, delivered in order, and congestion
+  controlled -- this different from normal TCP. Haven't figured out
+  what the implications are. Because reliability, you can't get new
+  data ack before succesfully sending the first data ack. Weird, but
+  not a showstopper.
+
+s: Add/Remove IP
+
+- With options: Can send one option per RTT, need in-order, reliable
+  delivery. With options you must echo the Add-IP.
+- With payload: can do one per RTT, or add sequence numbers and ACKs
+* Mark: can we put this option in data sequence space in payload alternative?
+* Costin: seems like a bad idea
+* Mark: you could have these in sequence space in normal way
+
+s: Security information
+- might even change public keys, would not fit into options
+
+s: Middleboxes
+- may strip options on packets
+
+s: Future middleboxes
+- may be MPTCP aware
+- options: future middlebox would see where the connection is going
+- payload: stateless middleboxes cannot differentiate between TCP and MPTCP
+
+s: Comparison summary
+- it seems bit easier in implementation to do payload signaling
+
+s: Winner is?
+- no obvious winner
+* Mark: comes down to which is cleaner design. It would be no-brainer
+  to go with options if there were no middleboxes. Payload encoding
+  would go nicer with middleboxes.
+* Alan: From design point of view payload encoding helps, for security
+  options. Middleboxes may be also pretty upset with payload encoding.
+* Mark: if we specify payload encoding, it will be the last time we
+  get to do it
+* Alan: warming to the payload option
+* Mark: ACKs being reliable and congestion control makes me nervous
+* ???: one way to mitigate the concern would be allow both ways for Data ACK
+* Phil: for now will have to consider both methods in design
+* Carsten: in-band vs. out-of-band issue. in-band signalling may be delayed.
+* Michael Scharf: Could have simple option that marks the packets as
+  MPTCP. Would help middleboxes to flag MPTCP traffic.
+* Pasi Sarolahti: would need to do it in generic way. Should consult TCPM WG.
+* Lars: Agree with Pasi
+* Costin: do not have to encode everything in payload.
+* Pasi: would be cleaner with either payload or options variant, but
+  this does not seem possible.
+* Costin: seems that completely clean design does not exist
+* Costin: not going to get consensus in this call.
+* Phil: Need to discuss this more in Anaheim and on the mailing list
+
+** End of meeting **

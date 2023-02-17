@@ -1,8 +1,8 @@
 ---
-title: IDR Working Group Web page
+title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2022-11-27T19:57:17.587Z
+date: 2023-02-15T05:33:09.875Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -19,44 +19,56 @@ If you have questions or concerns regarding the implementation requirement, plea
 ## Draft Status
 
 [idr-draft-status](idr-draft-status)
-[Feedback for BESS drafts](/idr/Feedback-to-BESS)
-[Feedback for PCE drafts](/idr/Feedback-to-PCE)
-[Feedback for Bier drafts](/idr/Feedback-to-Bier)
-[Feedback for SIDROPS drafts](/idr/Feedback-to-SIDROPS)
-[Feedback on Yang Models](/idr/Feedback-Yang-Models)
-[Features for BGP Yang Models](/idr/BGP-Model-Features)
+[Early Allocation Status](/group/idr/Early-Allocation-Status)
+[Feedback for BESS drafts](/group/idr/Feedback-to-BESS)
+[Feedback for PCE drafts](/group/idr/Feedback-to-PCE)
+[Feedback for Bier drafts](/group/idr/Feedback-to-Bier)
+[Feedback for SIDROPS drafts](/group/idr/Feedback-to-SIDROPS)
+[Feedback on Yang Models](/group/idr/Feedback-Yang-Models)
+[Features for BGP Yang Models](/group/idr/BGP-Model-Features)
 
 ## Draft Implementation status
 
-[Protocol implementations Reports](/idr/BGP-implementation-report) 
-[Administrative draft testimonials](/idr/BGP-Admin-IANA)
+[Protocol implementations Reports](/group/idr/BGP-implementation-report) 
+[Administrative draft testimonials](/group/idr/BGP-Admin-IANA)
 
 ## Notes on Current Adoption calls
 
-[CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/idr/CAR-CT Adoption)
+[CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/group/idr/CAR-CTAdoption)
 
 ## Minutes from Past 2021 IDR Interims
 
-June 07, 2021 - Flow Specification Feedback
-June 21, 2021 - AutoConfiguration Feedback
-August 23, 2021 - Chairs on new Drafts
-September 27, 2021 - Flow Specification v2
-October 11, 2021 - Embedded NLRI and Error Handling (CAR, Classful Transport)) - cancelled
-October 18, 2021 - BGP Autoconfiguration + New Drafts
+[June 07, 2021 - Flow Specification Feedback](/group/idr/FlowSpecificationFeedback)
+[June 21, 2021 - AutoConfiguration Feedback](/group/idr/AutoConfigurationFeedback)
+[August 23, 2021 - Chairs on new Drafts](/group/idr/ChairsonNewDrafts)
+[September 27, 2021 - Flow Specification v2](/group/idr/FlowSpecification)
+[October 11, 2021 - Embedded NLRI and Error Handling (CAR, Classful Transport)) - cancelled](/group/idr/EmbeddedNLRIandErrorHandling)
+[October 18, 2021 - BGP Autoconfiguration + New Drafts](/group/idr/BGPAutoconfiguration)
 
 ## Interim in 2022 Prior to IETF 113
 
-BGP Autoconfiguration + FSv2 - moved to January 10th or 24th
-Embedded NLRI and Error Handling (CAR, Classful Transport)) - Moved to January 10th or 24th
+[BGP Autoconfiguration + FSv2 - moved to January 10th or 24th](/group/idr/BGPAustoconfiguration+FSv2)
+[Embedded NLRI and Error Handling (CAR, Classful Transport)) - Moved to January 10th or 24th](/group/idr/EmbeddedNLRI)
 
 ## Interims in 2022 After IETF-114
 
-IDR-New-Drafts-Aug-2022 - 8/29/2022
+[IDR-New-Drafts-Aug-2022 - 8/29/2022](/group/idr/IDR-New-Drafts-Aug2022)
 
 ## Useful information
 
-Checklist for writing a BGP-related draft
-Checklist for presenting at an IDR meeting
-Commentary on different RFCs
-De facto BGP features needing documentation
-Glossary
+[Checklist for writing a BGP-related draft](/group/idr/ChecklistforWriting)
+[Checklist for presenting at an IDR meeting](/group/idr/ChecklistforPresenting)
+[Commentary on different RFCs](/group/idr/CommentaryonRFCs)
+[De facto BGP features needing documentation](/group/idr/DeFactoBGPFeatures)
+[Glossary](/group/idr/Glossary)
+
+Attachments:
+[draft-dunbar-idr-sdwan-edge-discovery-00-v12.pdf](/draft-dunbar-idr-sdwan-edge-discovery-00-v12.pdf)
+[options_to_move_forward_-sdwan-port-safi-proposal.pdf](/options_to_move_forward_-sdwan-port-safi-proposal.pdf)
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2023-06-01. It was migrated from the old Trac wiki on 2023-01-25.*

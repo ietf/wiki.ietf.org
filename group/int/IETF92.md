@@ -2,7 +2,7 @@
 title: WG Summaries for IETF 92
 description: 
 published: true
-date: 2022-12-15T02:12:02.774Z
+date: 2022-12-15T02:12:07.582Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T01:59:23.251Z

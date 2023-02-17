@@ -1,9 +1,9 @@
 ---
-title: Internet-of-Things Directorate
+title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2022-10-13T16:27:27.054Z
-tags:
+date: 2023-01-04T23:56:22.583Z
+tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
 ---

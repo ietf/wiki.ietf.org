@@ -2,7 +2,7 @@
 title: Hackathon Team Schedule
 description: 
 published: true
-date: 2022-11-05T10:07:23.861Z
+date: 2022-11-29T19:36:03.118Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T16:04:55.835Z

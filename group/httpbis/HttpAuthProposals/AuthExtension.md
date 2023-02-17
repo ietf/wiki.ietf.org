@@ -2,7 +2,7 @@
 title: HTTP Authentication Extensions for Interactive Clients
 description: HTTP Authentication Extensions for Interactive Clients
 published: true
-date: 2022-12-14T00:19:50.653Z
+date: 2022-12-14T00:28:45.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-14T00:19:50.653Z
