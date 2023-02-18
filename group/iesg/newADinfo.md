@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-02-17T20:46:37.088Z
+date: 2023-02-18T04:29:24.970Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -31,7 +31,7 @@ dateCreated: 2022-09-28T14:08:25.237Z
  * [Chartering Working Groups](group/iesg/charteringgroups)
  * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)](group/iesg/documentsandregistrations)
  * [Collection of issues frequently found by ART Area ADs](group/iesg/ARTissues)
- * [Guidelines for Issues Found during TSVDIR Reviews](https://trac.ietf.org/trac/tsv/wiki/tsvart-common-issues)
+ * [Guidelines for Issues Found during TSVDIR Reviews](group/tsv/TSVART-common-issues)
  * [Front Page Authors](group/iesg/frontpageauthors)
  * [Discuss Resolving](group/iesg/discussresolution)
  * [Working with the RFC Editor on Independent Submissions](group/iesg/independentsubmissions)
@@ -44,23 +44,23 @@ When you surface after joining the IESG long enough to think about "steering", i
 
 ## Other Intros
 
- * [How Doing](): Tools to monitor AD and WG progress
- * [Caffeine IETF]()
- * [Disruptive People]()
- * [Newbie Questions]() - other collected new-to-IESG questions
- * [IESG Internal]() - when we need to communicate in private and how
+ * [How Doing](/group/iesg/HowDoing): Tools to monitor AD and WG progress
+ * [Caffeine IETF](/group/iesg/CaffeineIETF)
+ * [Disruptive People](/group/iesg/DisruptivePeople)
+ * [Newbie Questions](/group/iesg/NewbieQuestions) - other collected new-to-IESG questions
+ * [IESG Internal](/group/iesg/IESGInternal) - when we need to communicate in private and how
  
 
 ### Driving Lessons for the Datatracker 
 
 Use the Datatracker to:
 
- * Initiate Last Calls 
- * Create document ballots, build meeting agendas and [clear returning items]() 
- * Lets ADs fill in ballots (BallotDetails)
- * Initiates approval announcement messages (ApprovalDetails)
- * Sends email to a list when the document changes state (TrackerNotifications)
- * [wiki:Defer] a draft to the next telechat
+ * [Initiate Last Calls](/group/iesg/LastCallDetails)
+ * Create document ballots, build meeting agendas and [clear returning items](/group/iesg/ClearReturning) ([DocumentOntoAgenda](/group/iesg/DocumentOntoAgenda))
+ * [Lets ADs fill in ballots](/group/iesg/BallotDetails)
+ * Initiates approval announcement messages ([ApprovalDetails](/group/iesg/ApprovalDetails))
+ * Sends email to a list when the document changes state ([TrackerNotifications](/group/iesg/TrackerNotifications))
+ * [Defer](/group/iesg/defer) a draft to the next telechat
 
 ### The Ballot Process in General 
 
@@ -74,13 +74,10 @@ When a draft has an open ballot each AD can cast a vote, and the options availab
  NO POSITION
  
 There's more detail about what these mean at 
-[voting-procedures](http://www.ietf.org/iesg/voting-procedures.html), SingleDiscussResolution and InfoExpProcedures for non-standards track and RFC Editor submissions.
-You can also see the [IESG Statement](https://www.ietf.org/iesg/statement/discuss-criteria.html) on the Discuss Criteria to be used (and not used) when placing a Discuss.
+[voting-procedures](http://www.ietf.org/iesg/voting-procedures.html), [SingleDiscussResolution](/group/iesg/SingleDiscussResolution) and [InfoExpProcedures](/group/iesg/InfoExpProcedures) for non-standards track and RFC Editor submissions. You can also see the [IESG Statement](https://www.ietf.org/iesg/statement/discuss-criteria.html) on the Discuss Criteria to be used (and not used) when placing a Discuss.
 An AD can change his or her vote up to a late stage, i.e. during the telechat at which the document is  finally approved. However, it's much better to cast your ballot early. 
  
-If an AD hasn't had time to review a draft but really feels the need to do so (i.e. is 
-unwilling to state NO OBJECTION without further ado), it's possible to [DEFER] 
-the draft to the next telechat - once only. Most ADs feel bad if they have to do this. 
+If an AD hasn't had time to review a draft but really feels the need to do so (i.e. is unwilling to state NO OBJECTION without further ado), it's possible to [DEFER](/group/iesg/defer) the draft to the next telechat - once only. Most ADs feel bad if they have to do this. 
  
 ### The Role of Document Shepherds 
 
