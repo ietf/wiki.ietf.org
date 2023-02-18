@@ -2,7 +2,7 @@
 title: Autonomic Networking Integrated Model and Approach Wiki
 description: 
 published: true
-date: 2023-01-30T22:37:30.256Z
+date: 2023-02-18T01:32:24.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T04:32:38.935Z
@@ -28,7 +28,7 @@ Design teams were set up for two of the WG's initial deliverables:
 
 [Bootstrap Design Team](/BootstrapDesignTeam)
 
-Further details about the background to the design teams are at [Anima Design Teams](https://wiki.ietf.org/Design)
+Further details about the background to the design teams are at [Anima Design Teams](/group/anima/Design)
 &nbsp;
 &nbsp;
 &nbsp;
