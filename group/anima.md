@@ -2,7 +2,7 @@
 title: ANIMA WG - Autonomic Networking Integrated Model and Approach
 description: 
 published: true
-date: 2023-02-18T01:54:51.915Z
+date: 2023-02-18T01:55:20.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T04:32:38.935Z
@@ -15,18 +15,18 @@ Meeting materials (agendas, slides, minutes) can be reached via the [normal IETF
 
 Drafts can be reached via the [tracker](https://datatracker.ietf.org/wg/anima/documents/).
 
-[Prechartering History](/PrecharteringHistory)
+[Prechartering History](/group/anima/PrecharteringHistory)
 
-[2019 Rechartering](/2019Rechartering)
+[2019 Rechartering](/group/anima/2019Rechartering)
 
-[ImplementationReports](/ImplementationReports)
+[ImplementationReports](/group/anima/ImplementationReports)
 
 ## Design Teams
 Design teams were set up for two of the WG's initial deliverables:
 
-[Signaling Design Team](/SignalingDesignTeam)
+[Signaling Design Team](/group/anima/SignalingDesignTeam)
 
-[Bootstrap Design Team](/BootstrapDesignTeam)
+[Bootstrap Design Team](/group/anima/BootstrapDesignTeam)
 
 Further details about the background to the design teams are at [Anima Design Teams](/group/anima/Design)
 &nbsp;
