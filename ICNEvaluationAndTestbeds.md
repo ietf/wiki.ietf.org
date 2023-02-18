@@ -2,7 +2,7 @@
 title: ICN Evaluations and Testbeds
 description: 
 published: true
-date: 2023-01-30T04:17:49.276Z
+date: 2023-02-18T03:30:45.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:11:29.683Z
