@@ -2,7 +2,7 @@
 title: CUBIC
 description: 
 published: true
-date: 2023-01-29T23:27:35.740Z
+date: 2023-02-18T03:25:27.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T23:27:31.698Z
