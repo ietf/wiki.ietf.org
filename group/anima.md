@@ -1,8 +1,8 @@
 ---
-title: Autonomic Networking Integrated Model and Approach Wiki
+title: ANIMA WG - Autonomic Networking Integrated Model and Approach
 description: 
 published: true
-date: 2023-02-18T01:32:24.382Z
+date: 2023-02-18T01:54:51.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T04:32:38.935Z
