@@ -1,8 +1,8 @@
 ---
-title: Submitting New Work
+title: delete this page
 description: 
 published: true
-date: 2023-02-18T03:36:56.226Z
+date: 2023-02-18T03:38:45.192Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:01:00.254Z
