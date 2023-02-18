@@ -2,7 +2,7 @@
 title: Draft IETF IDR RTC NO RT 00
 description: 
 published: true
-date: 2023-01-28T22:17:28.039Z
+date: 2023-02-18T03:29:15.711Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T22:17:24.377Z
