@@ -2,7 +2,7 @@
 title: Signal Design Team
 description: 
 published: true
-date: 2023-01-30T22:34:45.952Z
+date: 2023-02-18T01:29:45.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:31:35.002Z
