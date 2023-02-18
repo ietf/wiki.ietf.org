@@ -2,7 +2,7 @@
 title: MulTFRC
 description: 
 published: true
-date: 2023-01-29T23:10:40.664Z
+date: 2023-02-18T03:33:46.184Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T23:10:35.556Z
