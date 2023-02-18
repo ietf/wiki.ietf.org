@@ -2,7 +2,7 @@
 title: Bootstrap Design Team
 description: 
 published: true
-date: 2023-02-18T01:39:41.115Z
+date: 2023-02-18T01:40:17.143Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:34:38.210Z
@@ -25,10 +25,10 @@ Please refer to the [WikiStart](/group/anima) page for common guides to join, co
 https://tools.ietf.org/html/draft-ietf-anima-bootstrapping-keyinfra
 
 ## Team Members:
-    Max Pritikin (editor), 
+   Max Pritikin (editor), 
     Michael Richardson (editor)
 
-    Jason Coleman, 
+   Jason Coleman, 
     Sandeep Kumar, 
     Michael Behringer, 
     Alper Yegin, 
@@ -36,7 +36,7 @@ https://tools.ietf.org/html/draft-ietf-anima-bootstrapping-keyinfra
     Brian Carpenter
     Kent Watson
 
-    Sheng Jiang (wg chair), 
+   Sheng Jiang (wg chair), 
     Toerless Eckert (wg chair)
 ## Meeting etherpad
 http://etherpad.tools.ietf.org:9000/p/anima-boostrapping?useMonospaceFont=true
