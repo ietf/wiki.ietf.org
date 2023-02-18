@@ -2,7 +2,7 @@
 title: Tips for Authors on Getting Through IESG Review
 description: 
 published: true
-date: 2023-02-18T03:27:21.233Z
+date: 2023-02-18T03:27:40.374Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-23T16:32:32.758Z
