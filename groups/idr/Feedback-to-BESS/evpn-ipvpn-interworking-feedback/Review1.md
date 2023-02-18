@@ -2,7 +2,7 @@
 title: Susan Hares Review of draft-ietf-bess-evpn-ipvpn-internetworking-05.txt (Review 1) 
 description: IDR Chair first review of draft-ietf-bess-evpn-ipvpn-internetwork
 published: true
-date: 2022-11-29T19:43:31.116Z
+date: 2023-02-18T03:46:25.558Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T12:36:34.992Z
