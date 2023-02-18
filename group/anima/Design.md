@@ -1,15 +1,15 @@
 ---
-title: Signal Design Team
+title: Design Teams
 description: 
 published: true
-date: 2023-02-18T01:29:45.277Z
+date: 2023-02-18T01:43:39.955Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:31:35.002Z
 ---
 
 # Anima Design teams 
-General rules for design teams
+## General rules for design teams
 Anima works on its deliverables primarily through design teams because the expertise for different areas of anima work are vastly different, and design teams are hoped to allow contributors to better focus on the area and WG documents they want to contribute to and therefore accelerate meeting anima deliverables.
 
 The design teams are required to do their best to track their work in writing as good as possible - etherpad/wiki-entries/posting of meeting minutes/... and regularily debrief the main anima mailing list on the status of their work (eg: monthly).
@@ -23,13 +23,13 @@ Final decisions on working group charter items are ONLY made by the whole workin
 If you have specific desires against the design teams work but not the bandwidth to continuously engage, just bring this up on the design team mailing list and it should happily track your issues.
 
 ## Initial design teams
-[Signaling Design Team](/SignalingDesignTeam)
+[Signaling Design Team](/group/anima/SignalingDesignTeam)
 
-[Bootstrap Design Team](/BootstrapDesignTeam)
+[Bootstrap Design Team](/group/anima/BootstrapDesignTeam)
 
 ACP design team (never formally created)
 
-### How work is split up across design teams
+## How work is split up across design teams
 Overall assignment/responsibilities of design teams for charter items are tracked in the following etherpad. Because etherpad is too easily subject to vandalism, we keep the latest wg-chair reviewed copy below:
 
 http://etherpad.tools.ietf.org:9000/p/anima-structure?useMonospaceFont=true
