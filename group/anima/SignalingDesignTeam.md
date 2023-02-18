@@ -2,7 +2,7 @@
 title: Signaling
 description: 
 published: true
-date: 2023-02-18T01:35:25.533Z
+date: 2023-02-18T01:36:11.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:34:40.498Z
@@ -20,7 +20,7 @@ Join via: https://www.ietf.org/mailman/listinfo/anima-signaling
 
 Editors: Brian Carpenter <brian.e.carpenter@…> and Bing Liu <leo.liubing@…>.
 
-Please refer to the [Design](/Design) page for common guidelines to join, contribute and be recognized in the design team.
+Please refer to the [Design](/group/anima/Design) page for common guidelines to join, contribute and be recognized in the design team.
 
 [Signaling Design Team Charter](/group/anima/SignalingDesignTeamCharter)
 
