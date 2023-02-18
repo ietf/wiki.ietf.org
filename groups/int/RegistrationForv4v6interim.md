@@ -2,7 +2,7 @@
 title: Registration Instructions 
 description: 
 published: true
-date: 2022-12-15T05:44:30.377Z
+date: 2023-02-18T03:47:21.627Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T05:42:38.651Z
@@ -77,6 +77,7 @@ You can get a login to edit this page by visiting the tools login manager.
 |  59.  |  Masahito Endo                                        |  masahito.endou at jp.yokogawa.com     |                                   |
 |  60.  |  Yves Poppe                                           |  Yves.Poppe at tatacommunications.com  |                                   |
 |       |  Registration has closed on Saturday, September 20th  ||                                        |                                   |
+{.dense}
 
 ## Remote Participants
 
@@ -111,6 +112,7 @@ Fill in the table below if you plan on listening to the audio/jabber from the me
 |  25.  |  Keita Watanabe        |  keiwatan at cisco.com                   |                         |
 |  26.  |  Howard C. Berkowitz   |  hcberkowitz at hotmail.com              |                         |
 |  27.  |  Satoshi Ogawa         |  saogawa at cisco.com                    |  Day 2 only             |
+{.dense}
 
 
 
