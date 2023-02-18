@@ -2,7 +2,7 @@
 title: Prechartering History
 description: 
 published: true
-date: 2023-01-30T21:20:25.235Z
+date: 2023-02-18T01:46:46.135Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:00:11.505Z
@@ -10,15 +10,15 @@ dateCreated: 2023-01-30T21:00:11.505Z
 
 Anima History before the WG was chartered:
 
-The UCAN [BOF](/UCAN) at IETF 90.
+The UCAN [BOF](/group/anima/UCAN) at IETF 90.
 
-Early versions of the charter: [DraftCharter](/DraftCharter)
+Early versions of the charter: [DraftCharter](/group/anima/DraftCharter)
 
-Preparation meetings: [PrepMeetings](/PrepMeetings)
+Preparation meetings: [PrepMeetings](/group/anima/PrepMeetings)
 
-The planned [WG Forming BOF](/AminaBOF) at IETF 91 was replaced by the first WG meeting.
+The planned [WG Forming BOF](/group/anima/AnimaBOF) at IETF 91 was replaced by the first WG meeting.
 
-IETF Journal article: [JournalArticle](/JournalArticle)
+IETF Journal article: [JournalArticle](/group/anima/JournalArticle)
 &nbsp;
 &nbsp;
 &nbsp;
