@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-02-19T07:04:47.847Z
+date: 2023-02-19T07:14:05.967Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -35,6 +35,7 @@ Quick Links
 | Éric V.  |  Tools Team|
 | Alvaro R.  | EMODIR  |
 |Warren, Martin, Roman, John, Zahed	   |  Comms Review |
+{.dense}
 
 
 ### IESG Mailing List 
@@ -43,6 +44,7 @@ Quick Links
 |  Murray Kucherawy |
 | Roman Danyliw |
 | The Secretariat  |
+{.dense}
 
 
 ### Meeting with Leaders of other Standards Bodies
@@ -75,7 +77,7 @@ Quick Links
 
 #### Thoughts
 - Some [IESG Thoughts on Liaisons](/group/iesg/liaisonthoughts)
-- [On the origins of DISCUSS comments](iesg/discusscomments) (This is an older page. Much of this is covered on the more recent [ExpertTopics](iesg/experttopics) page)
+- [On the origins of DISCUSS comments](iesg/discussthoughts) (This is an older page. Much of this is covered on the more recent [ExpertTopics](iesg/experttopics) page)
 
 #### Getting Started as an AD
 - An IESG Charter, RFC 3710 (2004)
@@ -106,13 +108,13 @@ C code in I-Ds should do bound checking. The exception is when the code is a fra
 
 Wiki page for [Handling Changes When ID is in Queue](iesg/handlingchanges), [Legacy Errata Handling](iesg/legacyerrata), [Speaking for IETF](iesg/speakingforietf), [Dealing with Private Feedback in IETF Process](iesg/privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](iesg/ensuringappropriatediscussion).
 
-Dealing with some complicate IANA Registries: [Media Types](mediatypes) (a.k.a. MIME Types)
+Dealing with some complicate IANA Registries: [Media Types](iesg/mediatypes) (a.k.a. MIME Types)
 
 #### Some abandoned or obsolete stuff that's nonetheless useful to save
 
-Wiki page for [Document Language Editing](iesg/documentlanguage) session at IETF 89 (2014) in  London.
-[Draft Shepherd Writeup WG Alternate](iesg/draft/draftshepherdwriteupwgalternate) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
-[Downref Registry](/group/iesg/downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
-[Draft NoteWell Summary](/group/iesg/draft/draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
-[Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
-Off Duty - This has been moved to the IESG Private Wiki Site.
+- Wiki page for [Document Language Editing](iesg/documentlanguage) session at IETF 89 (2014) in  London.
+- [Draft Shepherd Writeup WG Alternate](iesg/draft/draftshepherdwriteupwgalternate) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
+- [Downref Registry](/group/iesg/downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
+- [Draft NoteWell Summary](/group/iesg/draft/draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
+- [Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
+- Off Duty - This has been moved to the IESG Private Wiki Site.
