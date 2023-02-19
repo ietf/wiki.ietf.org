@@ -2,7 +2,7 @@
 title: Draft Shepherd Writeup WG Alternative
 description: 
 published: true
-date: 2023-02-19T00:48:14.638Z
+date: 2023-02-19T05:54:18.161Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:47:48.669Z
