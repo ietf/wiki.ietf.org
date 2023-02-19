@@ -2,7 +2,7 @@
 title: Archive of Former Work
 description: 
 published: true
-date: 2023-02-19T20:19:37.673Z
+date: 2023-02-19T20:19:56.214Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T16:01:21.991Z
