@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-02-19T08:00:19.594Z
+date: 2023-02-19T08:00:50.446Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -108,7 +108,7 @@ C code in I-Ds should do bound checking. The exception is when the code is a fra
 
 Wiki page for [Handling Changes When ID is in Queue](/group/iesg/handlingchanges), [Legacy Errata Handling](/group/iesg/legacyerrata), [Speaking for IETF](/group/iesg/speakingforietf), [Dealing with Private Feedback in IETF Process](/group/iesg/privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](/group/iesg/ensuringappropriatediscussion).
 
-Dealing with some complicate IANA Registries: [Media Types](iesg/mediatypes) (a.k.a. MIME Types)
+Dealing with some complicate IANA Registries: [Media Types](/group/iesg/mediatypes) (a.k.a. MIME Types)
 
 #### Some abandoned or obsolete stuff that's nonetheless useful to save
 
