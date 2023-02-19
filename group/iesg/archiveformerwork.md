@@ -2,7 +2,7 @@
 title: Archive of Former Work
 description: 
 published: true
-date: 2023-02-19T20:19:56.214Z
+date: 2023-02-19T20:21:08.433Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T16:01:21.991Z
@@ -42,7 +42,7 @@ dateCreated: 2022-09-27T16:01:21.991Z
 
  * [Draft Note Well Summary](/group/iesg/draft/draftnotewell) - A draft version of a very short Note Well summary.  **(This is now dead.)**
 
- * [Draft Boilerplate Change](/group/iesg//draft/draftboilerplatechange) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense.  **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
+ * [Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense.  **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
 
 &nbsp;
 &nbsp;
