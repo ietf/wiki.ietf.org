@@ -2,7 +2,7 @@
 title: Draft Notewell Summary (obsolete)
 description: 
 published: true
-date: 2023-02-19T05:53:29.209Z
+date: 2023-02-19T19:32:32.778Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-16T19:21:25.112Z
@@ -34,4 +34,4 @@ This summary does not contain all the details and is only meant to point you in 
 - BCP 79 - on patents covering IETF documents
 ----
 
-(There's also a page for a [Draft Git Statement](draftgitstatement) draft statement for Git repositories, which is based on this.)
+(There's also a page for a [Draft Git Statement](/group/iesg/draft/draftgitstatement) draft statement for Git repositories, which is based on this.)
