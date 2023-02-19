@@ -2,7 +2,7 @@
 title: Desired Expertise summary to be sent to NomCom
 description: 
 published: true
-date: 2023-02-17T20:27:35.931Z
+date: 2023-02-19T00:37:20.132Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T20:01:24.329Z
