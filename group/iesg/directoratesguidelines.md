@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2022-11-29T19:39:53.343Z
+date: 2023-02-19T07:26:41.902Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -27,15 +27,15 @@ Finally, it is also an opportunity for the ART reviewers to learn about other ar
 This page describes the general process that is common for all review teams. Each area also has its own specific page:
 
 * [ART](/group/iesg/ARTDir)
-* [GEN](https://trac.ietf.org/trac/gen/wiki)
-* [INT](https://datatracker.ietf.org/group/intdir/about/)
-* [IoT](https://datatracker.ietf.org/group/iotdir/about/)
-* [OPS](https://trac.ietf.org/trac/ops/wiki/Directorates)
-* [RTG](https://trac.ietf.org/trac/rtg/wiki/RtgDir)
-* [SEC](https://trac.ietf.org/trac/sec/wiki/SecDirReview)
-* [TSV](https://trac.ietf.org/trac/tsv/wiki/TSVART)
+* [GEN](/group/gen)
+* [INT](/group/int/IntDirWiki)
+* [IoT](/group/iotdir)
+* [OPS](/group/ops/Directorates)
+* [RTG](/group/rtg/RtgDir)
+* [SEC](/group/secdir/SecDirReview)
+* [TSV](/group/tsv/TSV-Directorate-Reviews)
 
-Another important links is the collected list of typical issues by area [Expert Topics](https://trac.ietf.org/trac/gen/wiki/ExpertTopics).
+Another important links is the collected list of typical issues by area [Expert Topics](/group/iesg/experttopics).
 
 ## Review Tool 
 
@@ -43,8 +43,8 @@ Reviews are managed using a specific tool. Reviewers can log in to the tool with
  
 See also:
 
-* [Review Tool for reviewers](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto) - a user guide for '''reviewers'''
-* [Review Tool for secretary](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowtoSecretary) - a user guide for the review team '''secretary'''
+* [Review Tool for reviewers](/group/gen/DatatrackerReviewToolHowTo) - a user guide for **reviewers**
+* [Review Tool for secretary](/group/gen/DatatrackerReviewToolHowToSecretary) - a user guide for the review team **secretary**
 
 ## Timeline of Review 
 
@@ -58,20 +58,20 @@ The general assignment process:
  * An email with the review assignment is sent directly to each reviewer.
  * A list of review assignments is sent to the review team mailing list. 
 
-The process for reviewing **Early Review **documents:
+The process for reviewing **Early Review** documents:
 
  * The Secretary assigns a reviewer when a request comes in (sometimes from an AD, sometimes from a chair). 
  * We expect the reviewer to be done before the deadline (typically 2 weeks).
  * The reviewer sends the review to the review team mailing list, the AD, WG chairs & authors, and optionally to the WG mailing list. 
 
-The process for reviewing documents at **IETF Last Call**:
+The process for reviewing documents at **IETF Last Call:**
 
  * The Secretary assigns a reviewer within a week of the Last Call announcement.
  * We expect the reviewer to be done before the end of Last Call.
  * The reviewer sends the review to the review team list, the AD, WG chairs & authors, and optionally to the WG mailing list. 
  * Since IETF Last Call comments are commonly sent to the IETF discussion list, the reviewer may also choose to do that; in any case the review will be public.
 
-The IESG Telechats are every other Thursday, with the [agenda](https://datatracker.ietf.org/iesg/agenda/) finalized on the Thursday evening one week prior to the '''IESG evaluation''' during the Telechat. The process for reviewing documents when they appear on the IESG agenda:
+The IESG Telechats are every other Thursday, with the [agenda](https://datatracker.ietf.org/iesg/agenda/) finalized on the Thursday evening one week prior to the **IESG evaluation** during the Telechat. The process for reviewing documents when they appear on the IESG agenda:
 
  * The Secretary (or sometimes the relevant AD) makes Telechat review assignments at the same time as Last Call assignments.  
  * For documents that were reviewed at Last Call, the same reviewer is assigned and a new review is only asked for if the document is significantly revised or issues have not been resolved.
