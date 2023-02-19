@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-02-19T07:49:27.305Z
+date: 2023-02-19T07:58:46.468Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -112,7 +112,7 @@ Dealing with some complicate IANA Registries: [Media Types](iesg/mediatypes) (a.
 
 #### Some abandoned or obsolete stuff that's nonetheless useful to save
 
-- Wiki page for [Document Language Editing](iesg/documentlanguage) session at IETF 89 (2014) in  London.
+- Wiki page for [Document Language Editing](/group/iesg/archive/documentlanguage) session at IETF 89 (2014) in  London.
 - [Draft Shepherd Writeup WG Alternate](iesg/draft/draftshepherdwriteupwgalternate) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
 - [Downref Registry](/group/iesg/downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
 - [Draft NoteWell Summary](/group/iesg/draft/draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
