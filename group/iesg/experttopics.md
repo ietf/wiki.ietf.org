@@ -2,7 +2,7 @@
 title: Expert Topics
 description: 
 published: true
-date: 2022-11-29T19:37:08.080Z
+date: 2023-02-19T07:43:33.559Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:15:47.058Z
@@ -15,7 +15,7 @@ This page is intended to provide an easy-to-skim starting point to understand wh
 
 ## Applications and Real-Time Area (art) 
 
-For a more complete discussion of these topics, please see https://trac.ietf.org/trac/art/wiki/TypicalARTAreaIssues
+For a more complete discussion of these topics, please see https://wiki.ietf.org/group/art/TypicalARTAreaIssues
 
 * Internationalization and Localization: Unicode, UTF-8, UTF-16, Usernames and/or Passwords, anything to be displayed to a user or otherwise involving a phrase like "human-readable"
 * Resource identification: URLs, URIs, URNs, IRIs (see also the security page, below)
@@ -33,7 +33,7 @@ For a more complete discussion of these topics, please see https://trac.ietf.org
 
 ## Internet Area (int) 
 
-For a more complete discussion of these topics, please see https://trac.ietf.org/trac/int/wiki/IntAreaIssues
+For a more complete discussion of these topics, please see https://wiki.ietf.org/group/int/IntAreaIssues
 
 * Addresses
   * use of IPv4 and IPv6 addresses
@@ -51,7 +51,7 @@ For a more complete discussion of these topics, please see https://trac.ietf.org
 
 ## Operations and Management Area (ops) 
 
-For a more complete discussion of these topics, please see https://trac.ietf.org/trac/ops/wiki/WikiStart
+For a more complete discussion of these topics, please see https://wiki.ietf.org/group/ops
 
 * DNS: special use names / top-level domains, reverse DNS, transport of DNS, TXT record types, name components starting with underscores
 * Use of IPv6 packets with extension headers or fragments
@@ -72,7 +72,7 @@ For a more complete discussion of these topics, please see individual routing ar
 
 ## Security Area (sec) 
 
-For a more complete discussion of these topics, please see https://trac.ietf.org/trac/sec/wiki/TypicalSECAreaIssues
+For a more complete discussion of these topics, please see https://wiki.ietf.org/en/group/secdir/SecDirReview/TypicalSECAreaIssues
 
 * Threat modeling: what needs to be protected and in what environment(s)?
 * Trusted and untrusted parties
@@ -89,7 +89,7 @@ For a more complete discussion of these topics, please see https://trac.ietf.org
 
 ## Transport Area (tsv) 
 
-For a more complete discussion of these topics, please see https://trac.ietf.org/trac/tsv/wiki/tsvart-common-issues
+For a more complete discussion of these topics, please see https://wiki.ietf.org/en/group/tsv/TSVART-common-issues
 
 * Port registrations, ADs should encourage a check early if they really are well motivated. 
 * Using _tcp and _udp in SRV DNS records
