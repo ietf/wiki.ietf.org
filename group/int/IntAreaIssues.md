@@ -2,7 +2,7 @@
 title: Typical INTernet Area Issues
 description: Typical INTernet Area Issues
 published: true
-date: 2023-02-19T06:26:51.085Z
+date: 2023-02-19T06:27:46.713Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:35:20.467Z
@@ -53,9 +53,7 @@ Some folks can be tempted to tinker with IPv6 flow labels, often to imbue them w
 
 When I-D includes examples, the addresses should be from one of the reserved ranges as specified in [RFC6890](http://tools.ietf.org/html/rfc6890) (e.g. 2001:db8::/32 for IPv6, 192.0.2.0/24 and the other documentation ranges for IPv4)
 
-> The blocks 192.0.2.0/24 (TEST-NET-1), 198.51.100.0/24 (TEST-NET-2),
-> and 203.0.113.0/24 (TEST-NET-3) are provided for use in
-> documentation.
+> The blocks 192.0.2.0/24 (TEST-NET-1), 198.51.100.0/24 (TEST-NET-2), and 203.0.113.0/24 (TEST-NET-3) are provided for use in documentation.
 
 ## MTU and Fragmentation
 
