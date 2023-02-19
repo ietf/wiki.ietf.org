@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-02-18T04:29:24.970Z
+date: 2023-02-19T20:22:56.902Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -25,19 +25,19 @@ dateCreated: 2022-09-28T14:08:25.237Z
 
 ## Document Sponsoring and Telechat Information:
 
- * [Publish Path](group/iesg/publishpath)
- * [AD Review Checklist](group/iesg/ADChecklist)
- * [Document Onto Agenda](group/iesg/documentagenda)
- * [Chartering Working Groups](group/iesg/charteringgroups)
- * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)](group/iesg/documentsandregistrations)
- * [Collection of issues frequently found by ART Area ADs](group/iesg/ARTissues)
- * [Guidelines for Issues Found during TSVDIR Reviews](group/tsv/TSVART-common-issues)
- * [Front Page Authors](group/iesg/frontpageauthors)
- * [Discuss Resolving](group/iesg/discussresolution)
- * [Working with the RFC Editor on Independent Submissions](group/iesg/independentsubmissions)
- * [Obsoleting RFCs belonging to other Streams](group/iesg/obsoletingrfcsonotherstreams)
- * Information about [informal telechats](group/iesg/informaltelechats)
- * [Processing Errata](group/iesg/processingerrata)
+ * [Publish Path](/group/iesg/publishpath)
+ * [AD Review Checklist](/group/iesg/ADChecklist)
+ * [Document Onto Agenda](/group/iesg/documentagenda)
+ * [Chartering Working Groups](/group/iesg/charteringgroups)
+ * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)](/group/iesg/documentsandregistrations)
+ * [Collection of issues frequently found by ART Area ADs](/group/iesg/ARTissues)
+ * [Guidelines for Issues Found during TSVDIR Reviews](/group/tsv/TSVART-common-issues)
+ * [Front Page Authors](/group/iesg/frontpageauthors)
+ * [Discuss Resolving](/group/iesg/discussresolution)
+ * [Working with the RFC Editor on Independent Submissions](/group/iesg/independentsubmissions)
+ * [Obsoleting RFCs belonging to other Streams](/group/iesg/obsoletingrfcsonotherstreams)
+ * Information about [informal telechats](/group/iesg/informaltelechats)
+ * [Processing Errata](/group/iesg/processingerrata)
 
 When you surface after joining the IESG long enough to think about "steering", instead of just reviewing docs for telechats
  * RFC 3774 is a snapshot of what the community thought the IETF needed to fix in 2004. It is still relevant, and that is not a good sign ... 
