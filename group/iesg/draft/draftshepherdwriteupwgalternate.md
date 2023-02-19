@@ -2,7 +2,7 @@
 title: Draft Shepherd Writeup WG Alternative
 description: 
 published: true
-date: 2023-02-19T08:06:16.481Z
+date: 2023-02-19T08:17:27.431Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:47:48.669Z
@@ -16,7 +16,7 @@ This is an alternative version, with the categories set up to try to make things
  * [DraftShepherdWriteupWgRespSimple](/group/iesg/draft/DraftShepherdWriteupWgRespSimple) has a sample writeup for a simple, non-controversial document.
  * [DraftShepherdWriteupWgRespComplex](/group/iesg/draft/DraftShepherdWriteupWgRespComplex) has a more complicated writeup for a document with some controversial points.
 
- * [WriteupNeaAsokan](/group/iesg/archive/WriteupNeaAsokan) is the original writeup for draft-ietf-nea-asokan.  WriteupNeaAsokanAlt is an example re-write using this proposal.
+ * [WriteupNeaAsokan](/group/iesg/archive/WriteupNeaAsokan) is the original writeup for draft-ietf-nea-asokan.  [WriteupNeaAsokanAlt](/group/iesg/archive/WriteupNeaAsokanAlt) is an example re-write using this proposal.
  * [WriteupKrbCamelia](/group/iesg/archive/WriteupKrbCamelia) is the original writeup for draft-ietf-krb-wg-camellia-cts.  [WriteupKrbCameliaAlt](/group/iesg/archive/WriteupKrbCameliaAlt) is an example re-write using this proposal.
 
 -------------------
