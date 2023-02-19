@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2023-02-19T07:38:25.822Z
+date: 2023-02-19T07:38:54.962Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -143,6 +143,7 @@ However, all these are judgment calls in the end.
 
 The following aliases can be helpful in getting the reviews to the right targets, replacing  draftname by draft-ietf-wg-topic  (without -xx version)
 
+|                              |                                                                                    |
 |------------------------------|------------------------------------------------------------------------------------|
 |  draftname@ietf.org          |  Draft authors (for now, could change)                                             |
 |  draftname.authors@ietf.org  |  Draft authors                                                                     |
