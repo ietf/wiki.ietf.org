@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-01-04T22:16:38.602Z
+date: 2023-02-19T07:03:14.231Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -75,14 +75,14 @@ Quick Links
 
 #### Thoughts
 - Some [IESG Thoughts on Liaisons](/group/iesg/liaisonthoughts)
-- [On the origins of DISCUSS comments](/discusscomments) (This is an older page. Much of this is covered on the more recent ExpertTopics page)
+- [On the origins of DISCUSS comments](iesg/discusscomments) (This is an older page. Much of this is covered on the more recent [ExpertTopics](iesg/experttopics) page)
 
 #### Getting Started as an AD
 - An IESG Charter, RFC 3710 (2004)
 
 There is a lot of useful information on how to utilize the tools. As a new AD you will work with the Secretariat for access.
 
-[Reference for All ADs](/newADinfo) on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
+[Reference for All ADs](iesg/newADinfo) on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
 
 #### Useful Mailing Lists or Addresses
 | Email Address or Alias  |	Recipient |
@@ -94,24 +94,25 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 |[area]-ads @ ietf.org   | mail the ADs of [area] ("[area]" is one of art, gen, int, ops, rtg, sec, tsv)  |
 | irtf-announce @ irtf.org  | IRTF announcement list, including progress reports for the different reserach groups. https://www.ietf.org/mailman/listinfo/irtf-announce  |
 | tools-discuss @ ietf.org  | The mailing list for IETF Tools announcements and discussion. https://www.ietf.org/mailman/listinfo/tools-discuss  |
+{.dense}
 
 	
 ## Miscellaneous
 The IESG has a [private Wiki Site](https://iesg.privatewikis.ietf.org/en/home).
 
-The IETF Chair has a demanding [Chair Timeline](chairtimeline) to plan IETF meetings.
+The IETF Chair has a demanding [Chair Timeline](iesg/chairtimeline) to plan IETF meetings.
 
 C code in I-Ds should do bound checking. The exception is when the code is a fragment and it's clear that it's a fragment. In that case a prominent note in the module needs to say "this is a code fragment, when this fragment is implemented as part of [insert_protocol_name] implement bound checking".
 
-Wiki page for [Handling Changes When ID is in Queue](handlingchanges), [Legacy Errata Handling](legacyerrata), [Speaking for IETF](speakingforietf), [Dealing with Private Feedback in IETF Process](privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](ensuringappropriatediscussion).
+Wiki page for [Handling Changes When ID is in Queue](iesg/handlingchanges), [Legacy Errata Handling](iesg/legacyerrata), [Speaking for IETF](iesg/speakingforietf), [Dealing with Private Feedback in IETF Process](iesg/privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](iesg/ensuringappropriatediscussion).
 
 Dealing with some complicate IANA Registries: [Media Types](mediatypes) (a.k.a. MIME Types)
 
 #### Some abandoned or obsolete stuff that's nonetheless useful to save
 
-Wiki page for [Document Language Editing](documentlanguage) session at IETF 89 (2014) in  London.
-[Draft Shepherd Writeup WG Alternate](draftshepherdwriteup) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
-[Downref Registry](downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
-[Draft NoteWell Summary](draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
-[Draft Boilerplate Change](draftboilerplate) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
+Wiki page for [Document Language Editing](iesg/documentlanguage) session at IETF 89 (2014) in  London.
+[Draft Shepherd Writeup WG Alternate](iesg/draft/draftshepherdwriteupwgalternate) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
+[Downref Registry](/group/iesg/downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
+[Draft NoteWell Summary](/group/iesg/draft/draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
+[Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
 Off Duty - This has been moved to the IESG Private Wiki Site.
