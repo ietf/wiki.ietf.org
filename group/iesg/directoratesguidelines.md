@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2023-02-19T07:36:56.690Z
+date: 2023-02-19T07:38:25.822Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -142,13 +142,14 @@ However, all these are judgment calls in the end.
 ## Draft Email Aliases 
 
 The following aliases can be helpful in getting the reviews to the right targets, replacing  draftname by draft-ietf-wg-topic  (without -xx version)
-| --- | --- |
-| draftname@ ietf. org	 | Draft authors (for now, could change)|
-| draftname.authors@ ietf. org | Draft authors |
-| draftname.chairs@ ietf. org | WG Chairs (if the draft is a WG draft) |
-| draftname.notify@ ietf. org | The addresses entered into the tracker's  email notification field for the draft |
-| draftname. ad@ ietf. org | The AD(s) of the WG area, if the draft has gone to the IESG |
-| draftname.all@ ietf. org | All of the above, merged into one alias |
+
+|------------------------------|------------------------------------------------------------------------------------|
+|  draftname@ietf.org          |  Draft authors (for now, could change)                                             |
+|  draftname.authors@ietf.org  |  Draft authors                                                                     |
+|  draftname.chairs@ietf.org   |  WG Chairs (if the draft is a WG draft)                                            |
+|  draftname.notify@ietf.org   |  The addresses entered into the tracker's  email notification field for the draft  |
+|  draftname.ad@ietf.org       |  The AD(s) of the WG area, if the draft has gone to the IESG                       |
+|  draftname.all@ietf.org      |  All of the above, merged into one alias                                           |
 {.dense}
 
 ## Mailing List 
