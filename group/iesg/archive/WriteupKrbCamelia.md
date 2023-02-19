@@ -2,7 +2,7 @@
 title: WriteupKrbCamelia
 description: 
 published: true
-date: 2023-02-19T08:15:06.655Z
+date: 2023-02-19T08:15:48.656Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T08:15:06.655Z
@@ -18,19 +18,19 @@ The authors have requested publication on the standards track; however, there is
 
 (2) The IESG approval announcement includes a Document Announcement Write-Up. Please provide such a Document Announcement Write-Up. Recent examples can be found in the "Action" announcements for approved documents. The approval announcement contains the following sections:
 
-    Technical Summary
+&nbsp;&nbsp;&nbsp;   Technical Summary
 
 This document specifies two encryption types and two corresponding checksum types for the Kerberos cryptosystem framework defined in RFC 3961. The new types use the Camellia block cipher in CBC-mode with ciphertext stealing and the CMAC algorithm for integrity protection.
 
-    Working Group Summary
+&nbsp;&nbsp;&nbsp;    Working Group Summary
 
 This document represents the consensus of the Kerberos Working Group.
 
-    Document Quality
+&nbsp;&nbsp;&nbsp;    Document Quality
 
 At least one major Kerberos implementor plans to include support for the encryption and checksum types described in this document.
 
-    Personnel
+&nbsp;&nbsp;&nbsp;    Personnel
 
 The Document Shepherd for this document is Jeffrey Hutzelman. The responsible Area Director is Stephen Farrell.
 
