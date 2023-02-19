@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-02-19T07:48:39.536Z
+date: 2023-02-19T07:49:27.305Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -102,7 +102,7 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 ## Miscellaneous
 The IESG has a [private Wiki Site](https://iesg.privatewikis.ietf.org/en/home).
 
-The IETF Chair has a demanding [Chair Timeline](iesg/chairtimeline) to plan IETF meetings.
+The IETF Chair has a demanding [Chair Timeline](/group/iesg/chairtimeline) to plan IETF meetings.
 
 C code in I-Ds should do bound checking. The exception is when the code is a fragment and it's clear that it's a fragment. In that case a prominent note in the module needs to say "this is a code fragment, when this fragment is implemented as part of [insert_protocol_name] implement bound checking".
 
