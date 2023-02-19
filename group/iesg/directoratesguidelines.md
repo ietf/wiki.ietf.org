@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2023-02-19T07:33:11.354Z
+date: 2023-02-19T07:33:44.146Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -116,7 +116,7 @@ The review should apply generally agreed IETF criteria, such as
 
 &nbsp;&nbsp;&nbsp;&nbsp; [NITS] The "I-D Nits" document maintained by the IESG
 
-&nbsp;&nbsp;&nbsp;&nbsp; [https://datatracker.ietf.org/doc/rfc8126/ BCP26] Guidelines for Writing an IANA Considerations Section in RFCs
+&nbsp;&nbsp;&nbsp;&nbsp; BCP26 Guidelines for Writing an IANA Considerations Section in RFCs
 
 &nbsp;&nbsp;&nbsp;&nbsp; [https://datatracker.ietf.org/doc/rfc3552/ BCP72] Guidelines for Writing RFC Text on Security Considerations
 
