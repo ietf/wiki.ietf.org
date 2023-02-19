@@ -2,7 +2,7 @@
 title: IETF Chair Timeline
 description: 
 published: true
-date: 2023-02-19T07:54:17.446Z
+date: 2023-02-19T19:40:03.357Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-09T20:27:38.978Z
@@ -29,7 +29,7 @@ January: Check that IETF dates are already set and announced for two and three y
 
 IETF1-10 through IETF1+4: See generic IETFn timeline below.
 
-IETF1-4: Get confirmed Nom Com results (see [IesgNomcom](/group/iesg/IesgNomCom)). Check that all new ADs are added to relevant lists by the Secretariat, send them personal welcomes, ensure that they receive basic logistics for all IESG meetings at IETF1 and for all future conference calls. Confirm conference call dates for the coming months. (Normally, the Secretariat plans these dates.)
+IETF1-4: Get confirmed Nom Com results (see [IesgNomcom](/group/iesg/IesgNomcom)). Check that all new ADs are added to relevant lists by the Secretariat, send them personal welcomes, ensure that they receive basic logistics for all IESG meetings at IETF1 and for all future conference calls. Confirm conference call dates for the coming months. (Normally, the Secretariat plans these dates.)
 
 IETF1-4: Propose date and place for Spring IESG retreat.
 
