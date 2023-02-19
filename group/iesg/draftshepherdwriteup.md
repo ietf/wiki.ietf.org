@@ -2,7 +2,7 @@
 title: Draft Shepherd Writeup WG Alternative
 description: 
 published: true
-date: 2022-11-29T19:39:10.676Z
+date: 2023-02-19T00:48:14.638Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:47:48.669Z
@@ -11,13 +11,13 @@ dateCreated: 2022-09-20T16:47:48.669Z
 # Draft Shepherd Writeup WG Alternative
 This is an alternative version, with the categories set up to try to make things more concise and get a more informative and less Q&A style of response.
 
-For examples of how this could be filled in: WriteupAlternateExamples
+For examples of how this could be filled in: [WriteupAlternateExamples](/group/iesg/WriteupAlternateExamples)
 
- * [DraftShepherdWriteupWgRespSimple]() has a sample writeup for a simple, non-controversial document.
- * [DraftShepherdWriteupWgRespComplex]() has a more complicated writeup for a document with some controversial points.
+ * [DraftShepherdWriteupWgRespSimple](/group/iesg/DraftShepherdWriteupWgRespSimple) has a sample writeup for a simple, non-controversial document.
+ * [DraftShepherdWriteupWgRespComplex](/group/iesg/DraftShepherdWriteupWgRespComplex) has a more complicated writeup for a document with some controversial points.
 
- * [WriteupNeaAsokan]() is the original writeup for draft-ietf-nea-asokan.  WriteupNeaAsokanAlt is an example re-write using this proposal.
- * [WriteupKrbCamelia]()' is the original writeup for draft-ietf-krb-wg-camellia-cts.  [WriteupKrbCameliaAlt]() is an example re-write using this proposal.
+ * [WriteupNeaAsokan](/group/iesg/WriteupNeaAsokan) is the original writeup for draft-ietf-nea-asokan.  WriteupNeaAsokanAlt is an example re-write using this proposal.
+ * [WriteupKrbCamelia](/group/iesg/WriteupKrbCamelia) is the original writeup for draft-ietf-krb-wg-camellia-cts.  [WriteupKrbCameliaAlt](/group/iesg/WriteupKrbCameliaAlt) is an example re-write using this proposal.
 
 -------------------
 ## This version may be used instead of the Q&A version, at the option of the shepherd and the AD 
@@ -91,3 +91,12 @@ This section is not meant to be submitted, but is here as a useful checklist of 
    * Have you checked that any registrations made by this document correctly follow the policies and procedures for the appropriate registries?
    * For registrations that require expert review (policies of Expert Review or Specification Required), have you or the working group had any early review done, to make sure the requests are ready for last call?
    * For any new registries that this document creates, has the working group actively chosen the allocation procedures and policies and discussed the alternatives?  Have reasonable registry names been chosen (that will not be confused with those of other registries), and have the initial contents and valid value ranges been clearly specified?
+   
+   
+ &nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2014-02-17. It was migrated from the old Trac wiki on 2023-02-17.*
