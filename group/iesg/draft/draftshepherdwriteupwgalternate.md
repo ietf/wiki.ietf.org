@@ -2,7 +2,7 @@
 title: Draft Shepherd Writeup WG Alternative
 description: 
 published: true
-date: 2023-02-19T08:04:52.528Z
+date: 2023-02-19T08:06:16.481Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:47:48.669Z
@@ -11,7 +11,7 @@ dateCreated: 2022-09-20T16:47:48.669Z
 # Draft Shepherd Writeup WG Alternative
 This is an alternative version, with the categories set up to try to make things more concise and get a more informative and less Q&A style of response.
 
-For examples of how this could be filled in: [WriteupAlternateExamples](/group/iesg/WriteupAlternateExamples)
+
 
  * [DraftShepherdWriteupWgRespSimple](/group/iesg/draft/DraftShepherdWriteupWgRespSimple) has a sample writeup for a simple, non-controversial document.
  * [DraftShepherdWriteupWgRespComplex](/group/iesg/draft/DraftShepherdWriteupWgRespComplex) has a more complicated writeup for a document with some controversial points.
