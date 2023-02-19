@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-02-19T10:40:12.870Z
+date: 2023-02-19T10:41:07.656Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -41,7 +41,7 @@ Some example of outreach activities are listed in the table below
 This table collects the various IETF outreach activities done by individuals to help coordinate future activities. 
 
 |When|Event|Target Audience|Participation|By|Remarks|
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |March 2023|[APRICOT 2023](https://2023.apricot.net/program/schedule/#/day/10)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody & Paresh Khatri|Sharing latest development at IETF 115 and urging participation in the IETF 116 meeting in the region|
 |Feb 2023|Cisco Live|Engineers|*all levels*|Éric Vyncke|Making the Internet a better place by participating in IETF; Link-TBD|
 |Sept 2022|[APNIC55](https://conference.apnic.net/54/program/schedule/#/day/7/apnic-technical-session-4)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|Introduction to IETF, IETF participation in the region, and sharing latest development at IETF 114 [Link](https://conference.apnic.net/54/assets/files/APSG129/ietfroundupforapnic5_1663123974.pdf)|
