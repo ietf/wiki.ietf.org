@@ -2,7 +2,7 @@
 title: Draft Shepherd Writeup WG Alternative
 description: 
 published: true
-date: 2023-02-19T05:54:43.956Z
+date: 2023-02-19T08:04:52.528Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T16:47:48.669Z
@@ -13,11 +13,11 @@ This is an alternative version, with the categories set up to try to make things
 
 For examples of how this could be filled in: [WriteupAlternateExamples](/group/iesg/WriteupAlternateExamples)
 
- * [DraftShepherdWriteupWgRespSimple](/group/iesg/DraftShepherdWriteupWgRespSimple) has a sample writeup for a simple, non-controversial document.
- * [DraftShepherdWriteupWgRespComplex](/group/iesg/DraftShepherdWriteupWgRespComplex) has a more complicated writeup for a document with some controversial points.
+ * [DraftShepherdWriteupWgRespSimple](/group/iesg/draft/DraftShepherdWriteupWgRespSimple) has a sample writeup for a simple, non-controversial document.
+ * [DraftShepherdWriteupWgRespComplex](/group/iesg/draft/DraftShepherdWriteupWgRespComplex) has a more complicated writeup for a document with some controversial points.
 
- * [WriteupNeaAsokan](/group/iesg/WriteupNeaAsokan) is the original writeup for draft-ietf-nea-asokan.  WriteupNeaAsokanAlt is an example re-write using this proposal.
- * [WriteupKrbCamelia](/group/iesg/WriteupKrbCamelia) is the original writeup for draft-ietf-krb-wg-camellia-cts.  [WriteupKrbCameliaAlt](/group/iesg/WriteupKrbCameliaAlt) is an example re-write using this proposal.
+ * [WriteupNeaAsokan](/group/iesg/archive/WriteupNeaAsokan) is the original writeup for draft-ietf-nea-asokan.  WriteupNeaAsokanAlt is an example re-write using this proposal.
+ * [WriteupKrbCamelia](/group/iesg/archive/WriteupKrbCamelia) is the original writeup for draft-ietf-krb-wg-camellia-cts.  [WriteupKrbCameliaAlt](/group/iesg/archive/WriteupKrbCameliaAlt) is an example re-write using this proposal.
 
 -------------------
 ## This version may be used instead of the Q&A version, at the option of the shepherd and the AD 
