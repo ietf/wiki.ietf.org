@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2023-02-19T07:26:41.902Z
+date: 2023-02-19T07:33:11.354Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -82,25 +82,15 @@ The IESG Telechats are every other Thursday, with the [agenda](https://datatrack
 
 ## Form of review 
 
-Each review must include one of the following at the beginning of the review, or an equivalent text if specified by the relevant specific page [above](wiki:DirectoratesGuidelines#Purpose). This text is pre-entered if the review is completed in the [Tool](https://trac.ietf.org/trac/gen/wiki/DatatrackerReviewToolHowto Review).
+Each review must include one of the following at the beginning of the review, or an equivalent text if specified by the relevant specific page [above](/group/iesg/directoratesguidelines#purpose). This text is pre-entered if the review is completed in the [Tool](/group/gen/DatatrackerReviewToolHowTo).
 
 
- * For '''Early''' reviews: I am the assigned ''review team'' reviewer for this draft. For background on ''review team'', please see the FAQ at TODO. Please resolve these comments along with any other comments you may receive.
+ * For **Early** reviews: I am the assigned *review team* reviewer for this draft. For background on *review team*, please see the FAQ at TODO. Please resolve these comments along with any other comments you may receive.
 
- * For '''IETF Last Call''' reviews:
-   I am the assigned ''review team'' reviewer for this draft. The ''review team''
-   reviews all IETF documents being processed
-   by the IESG for the IETF Chair.  Please treat these comments just
-   like any other last call comments. For more information, please see 
-   the FAQ at TODO.
+ * For **IETF Last Call** reviews: I am the assigned *review team* reviewer for this draft. The *review team* reviews all IETF documents being processed by the IESG for the IETF Chair. Please treat these comments just like any other last call comments. For more information, please see the FAQ at TODO.
 
 
- * For '''IESG Evaluation''' reviews: I am the assigned ''review team'' reviewer 
-   for this draft. The ''review team'' reviews all 
-   IETF documents being processed by the IESG. 
-   Please wait for direction from your document shepherd or AD before 
-   posting a new version of the draft. For more information, please see 
-   the FAQ at TODO.
+ * For **IESG Evaluation** reviews: I am the assigned *review team* reviewer for this draft. The *review team* reviews all IETF documents being processed by the IESG. Please wait for direction from your document shepherd or AD before posting a new version of the draft. For more information, please see the FAQ at TODO.
 
 
 Each review must include a summary statement chosen from or adapted from the following list:
@@ -114,25 +104,25 @@ Each review must include a summary statement chosen from or adapted from the fol
 
 The length of a review will vary greatly according to circumstances, and it is acceptable for purely editorial comments to be sent privately if it's obvious that the document will have to be substantially revised anyway. All substantive comments must be included in the public review. Wherever possible, they should be written as suggestions for improvement rather than as simple criticism. Explicit references to prior work and prior IETF discussion should be given.
 
-For specific topics to keep in mind while reviewing, depending on the ''review team'', refer to each [wiki:DirectoratesGuidelines#Purpose specific page] or to the [wiki:ExpertTopics Expert Topics]. However, in general, reviewers should review for all kinds of problems, from basic architectural or security issues, Internet-wide impact, technical nits, problems of form and format (such as IANA Considerations or incorrect references), and editorial issues. Since these reviews are on documents that are supposed to be finished, the review should consider "no issue too small" - but cover the whole range from the general architectural level to the editorial level. However, a review which consists only of copy-editing is not productive. If the reviewer feels that a draft is too badly written to advance, it will be sufficient to say so with one or two examples.
+For specific topics to keep in mind while reviewing, depending on the ''review team'', refer to each [specific page](/group/iesg/directoratesguidelines#purpose) or to the [Expert Topics](/group/iesg/experttopics). However, in general, reviewers should review for all kinds of problems, from basic architectural or security issues, Internet-wide impact, technical nits, problems of form and format (such as IANA Considerations or incorrect references), and editorial issues. Since these reviews are on documents that are supposed to be finished, the review should consider "no issue too small" - but cover the whole range from the general architectural level to the editorial level. However, a review which consists only of copy-editing is not productive. If the reviewer feels that a draft is too badly written to advance, it will be sufficient to say so with one or two examples.
 
 The review should apply generally agreed IETF criteria, such as
 
- RFC1958 - The Architectural Principles of the Internet
+&nbsp;&nbsp;&nbsp;&nbsp; RFC1958 - The Architectural Principles of the Internet
 
- RFC3426 - General Architectural and Policy Considerations
+&nbsp;&nbsp;&nbsp;&nbsp; RFC3426 - General Architectural and Policy Considerations
 
- RFC3439 - Some Internet Architectural Guidelines and Philosophy
+&nbsp;&nbsp;&nbsp;&nbsp; RFC3439 - Some Internet Architectural Guidelines and Philosophy
 
- [NITS] The "I-D Nits" document maintained by the IESG
+&nbsp;&nbsp;&nbsp;&nbsp; [NITS] The "I-D Nits" document maintained by the IESG
 
- [https://datatracker.ietf.org/doc/rfc8126/ BCP26] Guidelines for Writing an IANA Considerations Section in RFCs
+&nbsp;&nbsp;&nbsp;&nbsp; [https://datatracker.ietf.org/doc/rfc8126/ BCP26] Guidelines for Writing an IANA Considerations Section in RFCs
 
- [https://datatracker.ietf.org/doc/rfc3552/ BCP72] Guidelines for Writing RFC Text on Security Considerations
+&nbsp;&nbsp;&nbsp;&nbsp; [https://datatracker.ietf.org/doc/rfc3552/ BCP72] Guidelines for Writing RFC Text on Security Considerations
 
- [RFC Style Guide](https://www.rfc-editor.org/styleguide/)
+&nbsp;&nbsp;&nbsp;&nbsp; [RFC Style Guide](https://www.rfc-editor.org/styleguide/)
 
- [RFC Editor Abbreviations List](https://www.rfc-editor.org/materials/abbrev.expansion.txt)
+&nbsp;&nbsp;&nbsp;&nbsp; [RFC Editor Abbreviations List](https://www.rfc-editor.org/materials/abbrev.expansion.txt)
  
 as well as any other applicable architectural or procedural documents. It is important that reviews give precise references to such criteria when relevant.
 
