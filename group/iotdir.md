@@ -2,7 +2,7 @@
 title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2023-02-19T06:30:15.435Z
+date: 2023-02-19T06:34:06.214Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
@@ -102,7 +102,7 @@ https://datatracker.ietf.org/group/iotdir/about/
 
 ### Areas of Expertise
 
-Members have different areas of expertise.   These are listed here: [IotAreasOfExpertise](https://trac.ietf.org/trac/int/wiki/IotAreasOfExpertise)
+Members have different areas of expertise.   These are listed here: [IotAreasOfExpertise](/group/int/IotAreasOfExpertise)
 
 ### Confirmed Members (in alphabetical order by last name)
 
