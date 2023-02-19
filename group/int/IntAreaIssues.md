@@ -2,7 +2,7 @@
 title: Typical INTernet Area Issues
 description: Typical INTernet Area Issues
 published: true
-date: 2022-12-14T21:27:46.795Z
+date: 2023-02-19T06:26:51.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:35:20.467Z
@@ -72,7 +72,8 @@ Should a tunnel type be registered? https://www.iana.org/assignments/smi-numbers
 ## Extension Header Insertion and Deletion
 
 IPv6 Extension headers (except for the Hop-by-Hop Options header) are not processed, inserted, or deleted by any node other than the node in the Destination Address field of the IPv6 header as per [RFC8200](http://tools.ietf.org/html/rfc8200) [when a Routing Header is present the destination address may be the next waypoint in the segment list, as opposed to the ultimate destination address]. Intermediate nodes that wish to add extension headers need to create a new encapsulated IPv6 packet to do so.
-Address privacy
+
+## Address privacy
 
 IPv6 addresses of nodes are expected to be more visible on the Internet as compared with IPv4 due to the reduced need for NATs. [RFC7721](http://tools.ietf.org/html/rfc7721) explores a bunch of privacy and security issues related to this.
 
