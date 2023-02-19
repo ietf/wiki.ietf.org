@@ -2,7 +2,7 @@
 title: Preparing the Ballot Writeup
 description: 
 published: true
-date: 2023-02-19T20:52:41.885Z
+date: 2023-02-19T20:53:41.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T20:52:41.885Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-19T20:52:41.885Z
 
 # Preparing the Ballot Writeup
 
-Before issuing the ballot, you need to draft text for the various parts of the ballot. For a WG draft, the ​Document Shepherd Writeup should already be in the tracker as a general comment. These writeups are placed to the tracker when the secretariat processes a publication request. For Individual Submissions, the AD should have a copy of the e-mail from the document authors or Shepherd requesting publication. This e-mail should include the writeup. Further information about Individual Submissions can be found from the ​Sponsoring Guidelines.
+Before issuing the ballot, you need to draft text for the various parts of the ballot. For a WG draft, the [Document Shepherd Writeup](http://tools.ietf.org/id/draft-ietf-proto-wgchair-doc-shepherding) should already be in the tracker as a general comment. These writeups are placed to the tracker when the secretariat processes a publication request. For Individual Submissions, the AD should have a copy of the e-mail from the document authors or Shepherd requesting publication. This e-mail should include the writeup. Further information about Individual Submissions can be found from the [Sponsoring Guidelines](http://tools.ietf.org/id/draft-iesg-sponsoring-guidelines).
 
 The writeup acts as an input to the ballot, but typically some editing is needed. For instance, additional reviews received during IETF Last Call can be noted.
 
