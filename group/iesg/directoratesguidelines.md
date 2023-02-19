@@ -2,7 +2,7 @@
 title: Directorates Guidelines
 description: 
 published: true
-date: 2023-02-19T07:33:44.146Z
+date: 2023-02-19T07:36:56.690Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-27T15:54:06.234Z
@@ -114,11 +114,11 @@ The review should apply generally agreed IETF criteria, such as
 
 &nbsp;&nbsp;&nbsp;&nbsp; RFC3439 - Some Internet Architectural Guidelines and Philosophy
 
-&nbsp;&nbsp;&nbsp;&nbsp; [NITS] The "I-D Nits" document maintained by the IESG
+&nbsp;&nbsp;&nbsp;&nbsp; [NITS](https://author-tools.ietf.org/idnits) The "I-D Nits" document maintained by the IESG
 
-&nbsp;&nbsp;&nbsp;&nbsp; BCP26 Guidelines for Writing an IANA Considerations Section in RFCs
+&nbsp;&nbsp;&nbsp;&nbsp; [BCP26](https://datatracker.ietf.org/doc/rfc8126/) Guidelines for Writing an IANA Considerations Section in RFCs
 
-&nbsp;&nbsp;&nbsp;&nbsp; [https://datatracker.ietf.org/doc/rfc3552/ BCP72] Guidelines for Writing RFC Text on Security Considerations
+&nbsp;&nbsp;&nbsp;&nbsp; [BCP72](https://datatracker.ietf.org/doc/rfc3552/) Guidelines for Writing RFC Text on Security Considerations
 
 &nbsp;&nbsp;&nbsp;&nbsp; [RFC Style Guide](https://www.rfc-editor.org/styleguide/)
 
@@ -133,10 +133,7 @@ lead to a DISCUSS ballot in the IESG unless it's fixed in advance?
 
 The IESG's own guidelines are at [https://www.ietf.org/iesg/statement/discuss-criteria.html]. Reviewers (or authors) can put themselves in the AD shoes. Would you definitely hold up the document for this (i.e. a solid DISCUSS)? Would publishing it as-is be actively misleading or harmful? Then it's major.
 
-Would you ''possibly'' place a DISCUSS, which you would very likely drop as
-soon as an author or the sponsoring AD explained the point or said "sure,
-we'll fix that"? Or would you simply issue a COMMENT and ballot
-No Objection? Then it's minor.
+Would you *possibly* place a DISCUSS, which you would very likely drop as soon as an author or the sponsoring AD explained the point or said "sure, we'll fix that"? Or would you simply issue a COMMENT and ballot No Objection? Then it's minor.
 
 Are you just saving some work for the RFC Editor? Then it's a nit.
 
@@ -152,6 +149,7 @@ The following aliases can be helpful in getting the reviews to the right targets
 | draftname.notify@ ietf. org | The addresses entered into the tracker's  email notification field for the draft |
 | draftname. ad@ ietf. org | The AD(s) of the WG area, if the draft has gone to the IESG |
 | draftname.all@ ietf. org | All of the above, merged into one alias |
+{.dense}
 
 ## Mailing List 
 
