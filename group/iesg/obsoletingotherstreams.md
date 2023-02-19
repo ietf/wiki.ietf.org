@@ -1,8 +1,8 @@
 ---
-title: 
+title: Obsoleting RFCs from Other Streams
 description: 
 published: true
-date: 2023-02-13T18:00:11.259Z
+date: 2023-02-19T00:29:57.856Z
 tags: iesg
 editor: markdown
 dateCreated: 2023-02-13T18:00:06.755Z
@@ -31,3 +31,10 @@ Such a situation happened in the DTN group in September 2019 when the WG desired
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2019-10-01. It was migrated from the old Trac wiki on 2023-02-17.*
