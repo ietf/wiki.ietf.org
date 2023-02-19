@@ -2,7 +2,7 @@
 title: IESG-Only Etiquette
 description: 
 published: true
-date: 2022-11-29T19:36:42.845Z
+date: 2023-02-19T05:48:40.706Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T16:04:29.741Z
