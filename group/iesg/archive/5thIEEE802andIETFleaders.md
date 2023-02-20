@@ -2,7 +2,7 @@
 title: 5thIEEE802andIETFleaders
 description: 
 published: true
-date: 2023-02-20T20:53:54.978Z
+date: 2023-02-20T20:54:26.642Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:53:54.978Z
@@ -29,9 +29,9 @@ Room: Tyrolka
 
 14:00 Breakout 1
 
-    Topic 1: Where is collaboration needed for Security?
+ -   Topic 1: Where is collaboration needed for Security?
 
-    Topic 2: Where is collaboration needed for IoT?
+ -   Topic 2: Where is collaboration needed for IoT?
 
 14:45 Break
 
@@ -94,3 +94,10 @@ No one requested to join remotely.
 |  Jari Arkko        |  IAB                                           |  Will attend partially only |  jari.arkko@…        |  Ericsson                    |                         |     |
 {.dense}
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2017-07-15. It was migrated from the old Trac wiki on 2023-02-17.*
