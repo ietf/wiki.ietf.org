@@ -2,7 +2,7 @@
 title: IESG & IASA (obsolete)
 description: 
 published: true
-date: 2023-02-20T19:27:15.354Z
+date: 2023-02-20T19:27:50.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:27:15.354Z
@@ -20,7 +20,7 @@ IASA will sometimes need input from the IESG. The most common case is when the I
 
 IASA also includes the IETF Trust, as described in RFC4371, set up to manage the IETF's intellectual property. On occasion, the IESG may need to interact with the Trust, whose Trustees are the same people as the IAOC members.
 
-Every two years, the IESG gets to appoint a member of the IAOC; see [IesgNominating](/group/iesg/iesgnominating).
+Every two years, the IESG gets to appoint a member of the IAOC; see [IesgNominating](/group/iesg/IESGNominating).
 
 
 
