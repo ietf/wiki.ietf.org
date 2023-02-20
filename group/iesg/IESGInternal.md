@@ -2,7 +2,7 @@
 title: IESG Internal
 description: 
 published: true
-date: 2023-02-17T21:15:26.017Z
+date: 2023-02-20T19:35:06.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T21:15:20.633Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-17T21:15:20.633Z
 
  The IESG often discusses matters (such as possible names for future WG chairs, expert reviewers, liaisons, etc, and performance problems with current appointees) that are somewhat sensitive. Everybody on the IESG calls or the iesg@… list may hear or see such discussions and is bound by normal standards of professional confidentiality. For example, in narrative minutes or other forms of external reporting, it's OK to say 'The problem of missed milestones in the foobar WG was discussed' but not OK to say 'The AD wants to fire the chair of the foobar WG but can't find anyone better at this time.'
 
-Sometimes, the IESG needs to discuss matters that are intrinsically confidential and exempt from our normal goal of transparency. Specifically, this means nomination actions (see [IESGNominating](/group/iesg/IESGNominating)), appeals, contractual matters for IASA (see [IesgIasa](/group/iesg/IesgIasa)) and conceivably legal issues (see [IesgLaw](/group/iesg/IesgLaw)).
+Sometimes, the IESG needs to discuss matters that are intrinsically confidential and exempt from our normal goal of transparency. Specifically, this means nomination actions (see [IESGNominating](/group/iesg/IESGNominating)), appeals, contractual matters for IASA (see [IesgIasa](/group/iesg/iesgiasa)) and conceivably legal issues (see [IesgLaw](/group/iesg/iesglaw)).
 
 Nominations and appeals are discussed among the ADs only (no liaisons, no staff, no IAB Chair). This may need an executive session phone call; otherwise the **iesg-only at ietf.org** list is used.
 
