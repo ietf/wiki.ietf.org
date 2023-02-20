@@ -2,7 +2,7 @@
 title: Getting a Document on the Agenda
 description: 
 published: true
-date: 2023-02-19T20:34:54.536Z
+date: 2023-02-20T18:37:38.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T20:34:54.536Z
