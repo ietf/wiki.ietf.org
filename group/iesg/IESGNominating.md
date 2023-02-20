@@ -2,7 +2,7 @@
 title: IESG Nominating
 description: 
 published: true
-date: 2023-02-20T19:25:04.512Z
+date: 2023-02-20T19:29:54.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:22:32.548Z
