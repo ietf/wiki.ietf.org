@@ -2,7 +2,7 @@
 title: IETF 116 Arrival Coordination
 description: 
 published: true
-date: 2023-02-20T15:47:22.054Z
+date: 2023-02-20T15:47:40.928Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:24:40.223Z
@@ -28,7 +28,7 @@ For ease of taxi-sharing from the airport to the IETF 116 venue and area hotels.
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT (HND or NRT)  | TERMINAL  |  DESTINATION |
 |---|---|---|---|---|---|---|
-| 2:!0pm | JL754 | Dhruv Dhody | dhruv.ietf@gmail.com | NRT | 2 | APA Hotel & Resort Yokohama Bay Tower |
+| 2:10pm | JL754 | Dhruv Dhody | dhruv.ietf@gmail.com | NRT | 2 | APA Hotel & Resort Yokohama Bay Tower |
 | 2:50pm  | NH135  | Bob Hinden  | bob.hinden@gmail.com  | NRT  | 1  | IC Yokohama Grand  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
