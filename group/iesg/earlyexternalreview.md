@@ -2,7 +2,7 @@
 title: Early External Reviews
 description: 
 published: true
-date: 2023-02-20T18:49:45.969Z
+date: 2023-02-20T18:52:23.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T18:49:45.969Z
@@ -13,12 +13,12 @@ dateCreated: 2023-02-20T18:49:45.969Z
  
  | Team and link                     |  Address to request review  |  Description                                                                                                                                                                                                              |
 |-----------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Applications Expert Review team  |  app-review@…               |  Experts in XML, HTTP, URIs and URNs, i18n, messaging and other Apps topics.                                                                                                                                              |
-|  MIB Doctors                      |  dromasca@…                 |  Experts in Mangement Information Bases (MIBs)                                                                                                                                                                            |
-|  AAA Doctors                      |  dromasca@…                 |  Experts in AAA protocols issues                                                                                                                                                                                          |
-|  Security Area Directorate        |  secdir@…                   |   Security experts who normally look at documents in IETF Last Call or  before IESG Evaluation finishes, but who may be able to do early review  if it's specifically asked.                                              |
-|  General Area Review Team         |  gen-art@…                  |   Primarily designed to improve the odds that somebody outside the WG  looks at each document.  GenART usually starts tracking documents at  IETF Last Call, however earlier reviews can be requested.  See queue here.   |
-|  TSV-Directorate                  |  tsv-dir@…                  |   Experts in transport related questions, QoS (Diffserv, Intserv, RSVP,  NSIS), Transport Protocols (TCP, UDP, SCTP, DCCP), MTU, etc.                                                                                     |
+|  Applications Expert Review team  |  app-review@ietf.org               |  Experts in XML, HTTP, URIs and URNs, i18n, messaging and other Apps topics.                                                                                                                                              |
+|  MIB Doctors                      |  dromasca@avaya.com                 |  Experts in Mangement Information Bases (MIBs)                                                                                                                                                                            |
+|  AAA Doctors                      |  dromasca@avaya.com                 |  Experts in AAA protocols issues                                                                                                                                                                                          |
+|  Security Area Directorate        |  secdir@mit.edu                   |   Security experts who normally look at documents in IETF Last Call or  before IESG Evaluation finishes, but who may be able to do early review  if it's specifically asked.                                              |
+|  General Area Review Team         |  gen-art@ietf.org                  |   Primarily designed to improve the odds that somebody outside the WG  looks at each document.  GenART usually starts tracking documents at  IETF Last Call, however earlier reviews can be requested.  See [queue here](http://www.alvestrand.no/ietf/gen/art/gen-art.html).   |
+|  TSV-Directorate                  |  tsv-dir@ietf.org                  |   Experts in transport related questions, QoS (Diffserv, Intserv, RSVP,  NSIS), Transport Protocols (TCP, UDP, SCTP, DCCP), MTU, etc.                                                                                     |
 {.dense}
 
  Today, the way to submit a document for early review is to mail these teams and ask for early review. Include a summary:
