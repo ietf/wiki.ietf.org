@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-02-20T20:44:08.816Z
+date: 2023-02-20T20:44:35.654Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -30,7 +30,7 @@ dateCreated: 2022-09-28T14:08:25.237Z
  * [Document Onto Agenda](/group/iesg/documentagenda)
  * [Chartering Working Groups](/group/iesg/charteringworkinggroups)
  * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)](/group/iesg/reviewingdocuments)
- * [Collection of issues frequently found by ART Area ADs](/group/iesg//group/art/TypicalARTAreaIssues)
+ * [Collection of issues frequently found by ART Area ADs](/group/art/TypicalARTAreaIssues)
  * [Guidelines for Issues Found during TSVDIR Reviews](/group/tsv/TSVART-common-issues)
  * [Front Page Authors](/group/iesg/frontpageauthors)
  * [Discuss Resolving](/group/iesg/discussresolving)
