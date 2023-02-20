@@ -2,7 +2,7 @@
 title: IETF 116 Departure Coordination
 description: 
 published: true
-date: 2023-02-16T23:52:31.491Z
+date: 2023-02-20T18:05:53.154Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:38:07.826Z
@@ -45,7 +45,7 @@ For ease of taxi sharing back to the airport. Please specify which airport your 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT (HND) or (NRT)  | TERMINAL  |  DEPARTING FROM |
 |---|---|---|---|---|---|---|
 | 18:25  | JL8  | Dave Oran  | daveoran@orandom.net  | NRT  |  2 |  IC Yokohama Grand |
-|   |   |   |   |   |   |   |
+|  18:00 |  KL862 | Georgios Karagiannis  |  georgios.karagiannis@huawei.com |  NRT |  1 |  Yokohama Sakuragicho Washington Hotel |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
