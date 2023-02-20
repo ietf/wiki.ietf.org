@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-02-19T20:22:56.902Z
+date: 2023-02-20T20:44:08.816Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -26,16 +26,16 @@ dateCreated: 2022-09-28T14:08:25.237Z
 ## Document Sponsoring and Telechat Information:
 
  * [Publish Path](/group/iesg/publishpath)
- * [AD Review Checklist](/group/iesg/ADChecklist)
+ * [AD Review Checklist](/group/iesg/ADReviewChecklist)
  * [Document Onto Agenda](/group/iesg/documentagenda)
- * [Chartering Working Groups](/group/iesg/charteringgroups)
- * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)](/group/iesg/documentsandregistrations)
- * [Collection of issues frequently found by ART Area ADs](/group/iesg/ARTissues)
+ * [Chartering Working Groups](/group/iesg/charteringworkinggroups)
+ * [Reviewing Documents and Registrations (MIME Media Types, URI/URN, MIB)](/group/iesg/reviewingdocuments)
+ * [Collection of issues frequently found by ART Area ADs](/group/iesg//group/art/TypicalARTAreaIssues)
  * [Guidelines for Issues Found during TSVDIR Reviews](/group/tsv/TSVART-common-issues)
  * [Front Page Authors](/group/iesg/frontpageauthors)
- * [Discuss Resolving](/group/iesg/discussresolution)
- * [Working with the RFC Editor on Independent Submissions](/group/iesg/independentsubmissions)
- * [Obsoleting RFCs belonging to other Streams](/group/iesg/obsoletingrfcsonotherstreams)
+ * [Discuss Resolving](/group/iesg/discussresolving)
+ * [Working with the RFC Editor on Independent Submissions]()
+ * [Obsoleting RFCs belonging to other Streams](/group/iesg/obsoletingotherstreams)
  * Information about [informal telechats](/group/iesg/informaltelechats)
  * [Processing Errata](/group/iesg/processingerrata)
 
@@ -56,7 +56,7 @@ When you surface after joining the IESG long enough to think about "steering", i
 Use the Datatracker to:
 
  * [Initiate Last Calls](/group/iesg/LastCallDetails)
- * Create document ballots, build meeting agendas and [clear returning items](/group/iesg/ClearReturning) ([DocumentOntoAgenda](/group/iesg/DocumentOntoAgenda))
+ * Create document ballots, build meeting agendas and [clear returning items](/group/iesg/clearreturning) ([DocumentOntoAgenda](/group/iesg/documentagenda))
  * [Lets ADs fill in ballots](/group/iesg/BallotDetails)
  * Initiates approval announcement messages ([ApprovalDetails](/group/iesg/ApprovalDetails))
  * Sends email to a list when the document changes state ([TrackerNotifications](/group/iesg/TrackerNotifications))
@@ -130,14 +130,14 @@ The DISCUSS ballot is the way for an AD to state an issue that prevents him or h
 agreeing that a document is ready. A DISCUSS is not a binary vote - as its name
 suggests, it is a statement of what the AD has found wrong with a draft, preferably
 also a statement of how it could be fixed, and the trigger for a constructive discussion
-to resolve it as quickly as possible. Here is more information about DiscussResolving.
+to resolve it as quickly as possible. Here is more information about [DiscussResolving](/group/iesg/discussresolving).
 
 ## Processes for Uncommon Stuff  
 
- * NewWork - From Ideas to BOFs to Chartering 
- * HistoricStatus - Status Change Documents (was: Moving documents to Historic)
- * IntellectualProperty - Sometimes patents cause process concerns
- * TrustAppointments - according to draft-ietf-iasa2-trust-update
+ * [NewWork](/group/iesg/NewWork) - From Ideas to BOFs to Chartering 
+ * [HistoricStatus](/group/iesg/historicstatus) - Status Change Documents (was: Moving documents to Historic)
+ * [IntellectualProperty](/group/iesg/intellectualproperty) - Sometimes patents cause process concerns
+ * [TrustAppointments](/group/iesg/ietftrustappointment) - according to draft-ietf-iasa2-trust-update
 
 ### Non-Working-Group Mailing Lists 
 
@@ -160,18 +160,18 @@ For instructions for creating a new nonwg list, see https://www.ietf.org/how/lis
 
 These links are to wiki pages describing IESG working relationships with: 
 
- * ... [IesgIab IAB]
- * ... [IesgIsoc ISOC]
- * ... [IanaInteractions IANA]
- * ... [IesgIasa IASA]
+ * ... [IAB](/group/iesg/iesgiab)
+ * ... [ISOC](/group/iesg/iesgisoc)
+ * ... [IANA](/group/iesg/ianainteractions)
+ * ... [IASA](/group/iesg/iesgiasa)
 
 More groups with special relationships to the IESG:
 
- * IesgLaw - although most of the time legal issues can be handled by IASA
- * SecretariatInteraction - working with the Secretariat
- * IesgNomcom - IESG Interaction with !NomCom
- * DirectoratesTeams
- * IesgNominating - positions we nominate
+ * [IesgLaw](/group/iesg/iesglaw) - although most of the time legal issues can be handled by IASA
+ * [SecretariatInteraction](/group/iesg/secretariatinteraction) - working with the Secretariat
+ * [IesgNomcom](/group/iesg/IesgNomcom) - IESG Interaction with NomCom
+ * [DirectoratesTeams](/group/iesg/directoratesteams)
+ * [IesgNominating](/group/iesg/IESGNominating) - positions we nominate
  
 ### Liaison relationships 
 
@@ -188,5 +188,5 @@ IESG members need to work closely with the RFC Editor, and track interactions wi
 
  * Ensuring that the changes suggested by authors in AUTH48 fall under editorial class, and authorizing other changes where needed. Sometimes significant changes are attempted at this stage for various reasons. The right response in such cases is typically taking the draft back to the working group and going through the WGLC, LC, and IESG approval again.
 
- * Performing a '''conflict review''' (see [http://tools.ietf.org/html/rfc5742#section-3 Section 3 of RFC 5742]) against documents in the Independent Stream and IRTF Stream.  A separate note regarding the conflict review process can be found here: IesgRfceditorSubmissions.
+ * Performing a **conflict review** (see [http://tools.ietf.org/html/rfc5742#section-3 Section 3 of RFC 5742]) against documents in the Independent Stream and IRTF Stream.  A separate note regarding the conflict review process can be found here: [IesgRfceditorSubmissions](/group/iesg/IesgRfceditorSubmissions).
 
