@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-02-17T10:16:48.913Z
+date: 2023-02-21T19:52:09.855Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,7 +48,8 @@ Please use your best judgement to add new items into one of the categories below
 * IETF 116 Agenda Conflict Resolution (Liz)
 
 #### Urgent but not important
-* 
+* Discussion on "excessive links" in drafts and whether to develop a policy (and with whom) (paul)
+  (urgent only in context of holding up https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/  to prevent precedents)
 
 #### Important but not urgent
 * 
