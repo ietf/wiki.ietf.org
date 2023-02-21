@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-17T10:19:51.602Z
+date: 2023-02-21T19:18:14.045Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -76,7 +76,7 @@ What: probably a pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 ## Monday, March 27, 2023 
 
 
-### IESG Meeting Time: TBD Room: TBD
+### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: TBD
 
 Meetecho: TBD
 Onsite Tool: TBD
@@ -91,7 +91,7 @@ No IESG breakfast.
 ## Wednesday, March 29, 2023
 
 
-### IESG Meeting Time: TBD Room: TBD
+### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: TBD
 
 
 Meetecho: TBD
@@ -102,15 +102,15 @@ Onsite Tool: TBD
 > * Topic
 
 
-### IETF 116 Plenary TIME: TBD Room: TBD
+### IETF 116 Plenary TIME: 17:30-19:30 JST (UTC+9) Room: TBD
 
 ## Thursday, March 30, 2023
 
 No IESG breakfast. 
 
 ## Friday, March 31, 2023 
-### Joint IAB/IESG Lunch - Time: TBD Room: TBD
-### Joint IESG/IAB Meeting - Time: TBD
+### Joint IAB/IESG Lunch - Time: 13:30 Room: TBD
+### Joint IESG/IAB Meeting - Time: 14:00-15:30 JST (UTC+9)
 
 Meetecho: TBD
 Onsite Tool: TBD
