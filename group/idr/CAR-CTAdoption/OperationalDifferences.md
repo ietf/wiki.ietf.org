@@ -2,7 +2,7 @@
 title: CAR CT Adoption Operational Differences
 description: 
 published: true
-date: 2023-02-14T23:16:36.205Z
+date: 2023-02-21T06:31:18.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T23:07:38.795Z
@@ -10,10 +10,10 @@ dateCreated: 2023-01-28T23:07:38.795Z
 
 # CAR-CT Adoption Call Part 3: Operational Differences 
 ## Week 2-3 Summary in Detail in file
-[CAR-CT-F3-Detailed-Summary-File](/SummaryFile)
+[car-ct-part3-details-v3.pdf](/test-folder/car-ct-part3-details-v3.pdf)
 
 ## Week 2-3 Summary for GitHUB in file
-[GITHUB-CAR-CT-Issues](/GitHUB-CT-Issues)
+[car-ct-issue-summary-v4.pdf](/test-folder/car-ct-issue-summary-v4.pdf)
 
 ## Summary of Issues for GITHUB
 The PDF file above has better formatting for these issues.
