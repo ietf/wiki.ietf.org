@@ -1,8 +1,8 @@
 ---
-title: Add Paths 5.6 Update Procedure with encoding
+title: Add Path Section 5.6 Update Procedure with encoding
 description: 
 published: true
-date: 2023-02-21T06:10:40.815Z
+date: 2023-02-21T06:19:04.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T06:10:40.815Z
