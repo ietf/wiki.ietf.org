@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-21T18:26:17.743Z
+date: 2023-02-21T18:27:01.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -595,7 +595,9 @@ The transport control of LHCONE is realized by two software systems called Rucio
 
 The deployment of ALTO at LHCONE involves both integration with FTS and integration with Rucio. 
 
-#### FTS/TCN
+#### ALTO+FTS: FTS/TCN
+
+#### ALTO+Rucio: Rucio/TCN
 
 ### National Research Platform
 
