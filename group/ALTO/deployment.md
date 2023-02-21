@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-01-17T15:24:30.214Z
+date: 2023-02-21T18:26:17.743Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -587,9 +587,15 @@ protocol.
 
 TODO
 
-### CERN
+### CERN/LHCONE
 
-TODO
+The expriments (e.g., ATLAS, CMS, LHCb) at CERN produce a large amount of data, which need to be distributed and processed globally. The networking infrastructure supporting the data distribution is realized by a L3VPN network called LHCONE, which consists of more than 600 distributed storage systems, distributed across 170 data centers in 40 countries. Building on it success, the networking infrastructure is also being used by Belle II, Pierre Auger Observatory, NOvA, XENON, or JUNO. In 2022, just the aggregated outgoing traffic on LHCONE from CERN to its ten largest connected data centres reached 457 Petabytes of data. 
+
+The transport control of LHCONE is realized by two software systems called Rucio and FTS, where Rucio is the data orchestrator, which selects data sources and destinations given application-layer policies (e.g., replication rules); and FTS is the data transport scheduler, which determines when and at what rate a transfer received from a higher-layer (e.g., Rucio) is dispatched. As a large-scale, multi-domain, shared, often overcommited infrastructure, LHCONE requires efficient, flexible transport orchestration and scheduling. 
+
+The deployment of ALTO at LHCONE involves both integration with FTS and integration with Rucio. 
+
+#### FTS/TCN
 
 ### National Research Platform
 
