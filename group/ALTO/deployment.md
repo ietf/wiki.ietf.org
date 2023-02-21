@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-21T18:57:28.061Z
+date: 2023-02-21T19:24:04.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -597,6 +597,20 @@ The deployment of ALTO at LHCONE involves both integration with FTS and integrat
 
 #### ALTO+FTS: FTS/TCN
 The objective of FTS/TCN is to generalize the current FTS Optimizer (https://fts3-docs.web.cern.ch/fts3-docs/docs/optimizer/optimizer.html), to improve its efficiency and realize flexible resource control, which is not currently available. FTS/TCN realizes a new control scheme called flexible resource control on top of minimal, univeral control knobs. It also can be considered as a hybrid control architecture, which leverages the underlying, fully distributed TCP congestion control to achieve efficiency and (congestion) robustness, and realizes flexible resource control using the coordination FTS controller.
+
+      Src                           Dst
+       \                            /
+    +-------+    +------+   +----------+
+    | - --> | -- |------|---|- -->     | 
+    |  AS1  |    |  AS2 |   | AS3      |
+    +-------+    +------+   +----------+
+       |  |      /____________|___/
+       |   \    /             |
+       |    -- / ----|        /
+    +----------+ +--------------+ +------------+
+    | Resource | | Resource Use | | Scheduler: |
+    | Spec     | | Mapping(ALTO)| | Concurrency|
+    +----------+ +--------------+ +------------+
 
 
 
