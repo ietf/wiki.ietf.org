@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-21T18:55:19.391Z
+date: 2023-02-21T18:57:28.061Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -591,12 +591,14 @@ TODO
 
 The expriments (e.g., ATLAS, CMS, LHCb) at CERN produce a large amount of data, which need to be distributed and processed globally. The networking infrastructure supporting the data distribution is realized by a L3VPN network called [[LHCONE](https://twiki.cern.ch/twiki/bin/view/LHCONE/LhcOneMaps)], which consists of more than 600 distributed storage systems, distributed across 170 data centers in 40 countries. Building on it success, the networking infrastructure is also being used by Belle II, Pierre Auger Observatory, NOvA, XENON, or JUNO. In 2022, just the aggregated outgoing traffic on LHCONE from CERN to its ten largest connected data centres reached 457 Petabytes of data. 
 
-The transport control of LHCONE is realized by two software systems called Rucio (https://rucio.cern.ch/) and FTS (https://fts.web.cern.ch/fts/), where Rucio is the data orchestrator, which provides services such as selecting data sources and destinations given application-layer policies (e.g., replication rules); and FTS is the data transport scheduler, which determines when and at what rate a transfer received from a higher-layer (e.g., Rucio) is dispatched. As a large-scale, multi-domain, shared, often overcommited infrastructure, LHCONE requires efficient, flexible transport orchestration and scheduling. 
+The transport control of LHCONE is realized by two software control systems called Rucio (https://rucio.cern.ch/) and FTS (https://fts.web.cern.ch/fts/), where Rucio is the data orchestrator, which provides services such as selecting data sources and destinations given application-layer policies (e.g., replication rules); and FTS is the data transport scheduler, which determines when and at what rate a transfer received from a higher-layer (e.g., Rucio) is dispatched. As a large-scale, multi-domain, shared, often overcommited infrastructure, LHCONE requires efficient, flexible transport orchestration and scheduling. 
 
 The deployment of ALTO at LHCONE involves both integration with FTS and integration with Rucio. 
 
 #### ALTO+FTS: FTS/TCN
-The objective of FTS/TCN is to generalize the current FTS Optimizer (https://fts3-docs.web.cern.ch/fts3-docs/docs/optimizer/optimizer.html), to improve its efficiency and realize flexible resource control, which is not currently available. FTS/TCN realizes a new control scheme called flexible resource control on top of minimal, univeral control knobs. It also can be considered as a hybrid control architecture, which leverages the underlying TCP congestion control to achieve efficiency and (congestion) robustness, and realizes flexible resource control using FTS control clusters.
+The objective of FTS/TCN is to generalize the current FTS Optimizer (https://fts3-docs.web.cern.ch/fts3-docs/docs/optimizer/optimizer.html), to improve its efficiency and realize flexible resource control, which is not currently available. FTS/TCN realizes a new control scheme called flexible resource control on top of minimal, univeral control knobs. It also can be considered as a hybrid control architecture, which leverages the underlying, fully distributed TCP congestion control to achieve efficiency and (congestion) robustness, and realizes flexible resource control using the coordination FTS controller.
+
+
 
 #### ALTO+Rucio: Rucio/TCN
 
