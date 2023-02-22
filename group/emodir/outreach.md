@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-02-19T11:19:27.410Z
+date: 2023-02-22T03:22:26.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-19T10:40:12.870Z
 
 ## Types of Outreach
 
-EMODIR seeks to coordinate outreach activities for the IETF undertaken by individuals and organizations. This wiki page will consolidate materials to help future outreach activities. 
+EODIR (earlier called EMODIR) seeks to coordinate outreach activities for the IETF undertaken by individuals and organizations. This wiki page will consolidate materials to help future outreach activities. 
 
 There are outreach activities can be divided based on:
 - target audience 
@@ -44,10 +44,10 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|March 2023|[APRICOT 2023](https://2023.apricot.net/program/schedule/#/day/10)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody & Paresh Khatri|Sharing the latest development at IETF 115 and urging participation in the IETF 116 meeting in the region|
+|March 2023|[APRICOT 2023](https://2023.apricot.net/program/schedule/#/day/10)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody & Paresh Khatri|Sharing the latest development at IETF 115 and urging participation in the IETF 116 meeting in the region [Link](https://docs.google.com/presentation/d/1W0KrE_9yK7BTAcrwooTUX2VJ_mbnyIowAeMRGOWUEj8/edit?usp=sharing)|
 |Feb 2023|Cisco Live|Engineers|*all levels*|Éric Vyncke|Making the Internet a better place by participating in IETF; Link-TBD|
 |Sept 2022|[APNIC55](https://conference.apnic.net/54/program/schedule/#/day/7/apnic-technical-session-4)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|Introduction to IETF, IETF participation in the region, and sharing the latest development at IETF 114 [Link](https://conference.apnic.net/54/assets/files/APSG129/ietfroundupforapnic5_1663123974.pdf)|
-|Aug 2022|[APIGA2022](https://community.icann.org/display/GSEAPAC/APIGA+2022+Program)|Students|knowledge sharing|Dhruv Dhody|Sharing about IETF's way of working in a multi-stakeholder environment|
+|Aug 2022|[APIGA2022](https://community.icann.org/display/GSEAPAC/APIGA+2022+Program)|Students|knowledge sharing|Dhruv Dhody|Sharing about IETF's way of working in a multi-stakeholder environment [Link](https://docs.google.com/presentation/d/1l7AdC9qTRcyh4Dv9AdvGZMB9Nqqp-8JweR7LCOyGnK8/edit?usp=sharing)|
 |July 2022|[SANOG38](https://www.sanog.org/sanog38/program.html)|Network Operators in South Asia|reviewer|Dhruv Dhody|Why operator participation from the region is low [Link](https://www.sanog.org/resources/sanog38/SANOG38_Conference-Dhruv_IETF.pdf)|
 |Nov 2013|University Outreach Programme around IETF 87|Students|full participation|ISOC|[Link](https://www.ietf.org/blog/piloting-university-outreach-programme/)|
 
@@ -60,6 +60,8 @@ Reach out to the EMODIR mailing list if you need help with an outreach activity.
 
 - Dhruv Dhody (overall, regional)
 - Charles Eckel (Hackathon, 3GPP)
+- Mallory Knodel (Policy)
+- Andrew Campling (Policy)
 
 ## Others
 
