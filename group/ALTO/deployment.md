@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-22T21:11:06.756Z
+date: 2023-02-22T21:37:18.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -614,7 +614,7 @@ The PoC is being in place nowadays. Before ethe PoC several tests were performed
 
 After the PoC in Spain, Telefonica is planning to extend the same solution to other countries where Telefonica is present (Brazil, etc). As part of the evolution of the solution, Telefonica is working on incorporating richer performance metrics than the number of hops, as described in draft-ietf-alto-performance-metrics.
 
-The progress of this PoC has been presented to both ALTO and MOPS WGs during IETF 114 and IETF 115.    
+The progress of this PoC has been presented to both ALTO and MOPS WGs during IETF 114 [[ALTO, slides 19 to 22](https://datatracker.ietf.org/meeting/114/materials/slides-114-alto-alto-code-bases-and-deployment-01.pdf)], [[MOPS](https://datatracker.ietf.org/doc/slides-114-mops-exposure-of-telefonica-network-topology-through-alto-for-integration-with-telefonica-cdn/)] and IETF 115 [[ALTO](https://datatracker.ietf.org/doc/slides-115-alto-integration-of-alto-with-telefonica-cdn/)],[[MOPS](https://datatracker.ietf.org/doc/slides-115-mops-exposure-of-telefonica-network-topology-through-alto-for-integration-with-telefonica-cdn/)].    
 
 
 ### CERN/LHCONE
