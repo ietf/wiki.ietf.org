@@ -2,32 +2,34 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-02-19T08:02:26.769Z
+date: 2023-02-22T17:17:31.952Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
 ---
 
 # IESG Wiki
-## IESG Quick Links and Semi-Complete Guide
 *Notice an omission or error? Please work with the IESG and edit this page.*
 
-Quick Links
-### Most-used Wiki pages
-- [Informal Agenda](/group/iesg/InformalAgenda) - the agenda for the next informal telechat; add items here
-- [Upcoming IETF](/group/iesg/UpcomingIETF) - booking the IESG breakout room and showing arrival times
-  - [Meeting Topics](/group/iesg/MeetingTopics) - Suggested topics for the next face-to-face meeting
-  - [Additional Meeting Rooms](/group/iesg/AdditionalMeetingRooms) - How to request additional meeting rooms for side meetings and such
-- [Retreat Info](/group/iesg/RetreatInfo) - information about the upcoming IESG retreat
-- [Joint IAB/IESG Workshop](/group/iesg/Workshop-2022Q1) Joint IAB/IESG Workshop Jan 2022
-- [IAB/IESG/LLC Workshop](Workshop-October-2021) IESG IAB and LLC Workshop - information about the October 2021 Workshop
+## Most-used Wiki pages
+- [Informal Agenda](/group/iesg/InformalAgenda)
+  The agenda for the next informal telechat; add items here
+- [Upcoming IETF](/group/iesg/UpcomingIETF)
+  Booking the IESG breakout room, showing arrival times, and agenda topics for the next face-to-face meeting
+- [Additional Meeting Rooms](/group/iesg/AdditionalMeetingRooms)
+  How to request additional meeting rooms for side meetings and such
+- [Retreat Info](/group/iesg/RetreatInfo)
+  Information about the upcoming IESG retreat
+- [Secretariat tools](https://www.ietf.org/links/)
+  See also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket.
 
 ---
 - [IESG Appointment to the IETF Trust](/group/iesg/ietftrustappointment)
-- [DownRef Registry](https://datatracker.ietf.org/doc/downref) in the datatracker - The Down Ref Registry was moved to the datatracker in 2017.
-- [IESG Only Etiquette](/group/iesg/IESG-Only) - when to use and not to use iesg-only mailing list
+- [DownRef Registry](https://datatracker.ietf.org/doc/downref) in the datatracker
+- [IESG Only Etiquette](/group/iesg/IESG-Only)
+  When to use and not to use iesg-only mailing list
 
-### IESG Roles
+## IESG roles
 | IESG Liaisons | Group  |
 |---|---|
 | Warren K.  | IAB  |
@@ -38,7 +40,7 @@ Quick Links
 {.dense}
 
 
-### IESG Mailing List 
+## IESG mailing List 
 |Admins|
 |---|
 |  Murray Kucherawy |
@@ -47,46 +49,19 @@ Quick Links
 {.dense}
 
 
-### Meeting with Leaders of other Standards Bodies
-[IETF-IEEE 802 Coordination](https://www.iab.org/liaisons/iab-ieee-coordination/)
-
-#### Some Things We're Currently Working On
-*Newest items are at the top of the list.*
-
-
-- [Directorates Guidelines](/group/iesg/directoratesguidelines) - Explanations on how to be a member or a chair of a directorate or review team (completed Sep 2021)
-- [Grammar Checking ID](/group/iesg/grammarcheckingid) - Tools to check grammar in IETF draft (completed Nov 2020)
-- [Special Interest Groups](/group/iesg/specialinterestgroups) - How to create a special interest group (completed Nov 2020)
-- [Chartering Working Groups](/group/iesg/charteringworkinggroups) - How to charter a new working group (updated Oct 2020)
-- [Expert Topics](/group/iesg/experttopics) - Expert Topics for WG Chairs and Document Authors
-- [Use Of Updates Tag](/group/iesg/useofupdatestag) - IESG Statement on the use and meaning of the "Updates" and "Updated by" tags. (see also: draft-kuehlewind-update-tag)
-- [WG Charter Internal Review Block Criteria](/group/iesg/charterinternalreviewblockcriteria) - Proposed criteria for balloting 'Block' during IESG internal review of a WG charter proposed for external review.
-- [IETF Values](/group/iesg/ietfvalues) - in-progress write-up of suggested IETF values
-- [WG IPR Discussions](/group/iesg/wgiprdiscussions) - in-progress writeup on guidance to working groups about making informed decisions about IPR.
-- [Folding In Updates](/group/iesg/folinginupdates) - Advice on folding in updates when progressing a document from PS to IS
-- [Bad Diff Examples](/group/iesg/baddiffexamples) - Examples of massive fail when diffing documents for review.
-- [Archive of Former Work](/group/iesg/archiveformerwork) - Archive of former projects.
-
-#### Tools
-- [Secretariat tools](https://www.ietf.org/links/) - see also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket. Please NOTE: A lot of regular correspondence with the Secretariat now happens through the Datatracker. For instance, document approval emails can be sent via the datatracker by editing the "IESG State" to "Approved, announcement to be sent."
-- [Prototype tools by the IETF Tools Team pages](https://author-tools.ietf.org/).
-
-#### Rules
+## Rules
 - Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
 - [IESG Statements](https://www.ietf.org/about/groups/iesg/statements/)
 
-#### Thoughts
-- Some [IESG Thoughts on Liaisons](/group/iesg/liaisonthoughts)
-- [On the origins of DISCUSS comments](/group/iesg/discussthoughts) (This is an older page. Much of this is covered on the more recent [ExpertTopics](/group/iesg/experttopics) page)
 
-#### Getting Started as an AD
+## Getting Started as an AD
 - An IESG Charter, RFC 3710 (2004)
 
 There is a lot of useful information on how to utilize the tools. As a new AD you will work with the Secretariat for access.
 
 [Reference for All ADs](/group/iesg/newADinfo) on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
 
-#### Useful Mailing Lists or Addresses
+## Useful Mailing Lists or Addresses
 | Email Address or Alias  |	Recipient |
 |---|---|
 | [wg]-chairs @ ietf.org  | mail the chairs of [wg]  |
@@ -110,11 +85,46 @@ Wiki page for [Handling Changes When ID is in Queue](/group/iesg/handlingchanges
 
 Dealing with some complicate IANA Registries: [Media Types](/group/iesg/mediatypes) (a.k.a. MIME Types)
 
-#### Some abandoned or obsolete stuff that's nonetheless useful to save
+## Some abandoned or obsolete stuff
+Which is nonetheless useful to save
 
+- Some [IESG Thoughts on Liaisons](/group/iesg/liaisonthoughts)
+- [On the origins of DISCUSS comments](/group/iesg/discussthoughts)
+  (This is an older page. Much of this is covered on the more recent [ExpertTopics](/group/iesg/experttopics) page)
+- [Joint IAB/IESG Workshop](/group/iesg/Workshop-2022Q1)
+  Joint IAB/IESG Workshop Jan 2022
+- [IAB/IESG/LLC Workshop](Workshop-October-2021)
+  IESG IAB and LLC Workshop - information about the October 2021 Workshop
 - Wiki page for [Document Language Editing](/group/iesg/archive/documentlanguage) session at IETF 89 (2014) in  London.
-- [Draft Shepherd Writeup WG Alternate](/group/iesg/draft/draftshepherdwriteupwgalternate) - A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
-- [Downref Registry](/group/iesg/downrefregistryobsolete) - The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
-- [Draft NoteWell Summary](/group/iesg/draft/draftnotewell) - A draft version of a very short Note Well summary. **(This is now dead.)**
-- [Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange) - A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
-- Off Duty - This has been moved to the IESG Private Wiki Site.
+- [Draft Shepherd Writeup WG Alternate](/group/iesg/draft/draftshepherdwriteupwgalternate)
+  A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
+- [Downref Registry](/group/iesg/downrefregistryobsolete)
+  The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
+- [Draft NoteWell Summary](/group/iesg/draft/draftnotewell)
+  A draft version of a very short Note Well summary. **(This is now dead.)**
+- [Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange)
+  A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
+- [Directorates Guidelines](/group/iesg/directoratesguidelines)
+  Explanations on how to be a member or a chair of a directorate or review team (completed Sep 2021)
+- [Grammar Checking ID](/group/iesg/grammarcheckingid)
+  Tools to check grammar in IETF draft (completed Nov 2020)
+- [Special Interest Groups](/group/iesg/specialinterestgroups)
+  How to create a special interest group (completed Nov 2020)
+- [Chartering Working Groups](/group/iesg/charteringworkinggroups)
+  How to charter a new working group (updated Oct 2020)
+- [Expert Topics](/group/iesg/experttopics)
+  Expert Topics for WG Chairs and Document Authors
+- [Use Of Updates Tag](/group/iesg/useofupdatestag)
+  IESG Statement on the use and meaning of the "Updates" and "Updated by" tags. (see also: draft-kuehlewind-update-tag)
+- [WG Charter Internal Review Block Criteria](/group/iesg/charterinternalreviewblockcriteria)
+  Proposed criteria for balloting 'Block' during IESG internal review of a WG charter proposed for external review.
+- [IETF Values](/group/iesg/ietfvalues)
+  In-progress write-up of suggested IETF values
+- [WG IPR Discussions](/group/iesg/wgiprdiscussions)
+  In-progress writeup on guidance to working groups about making informed decisions about IPR.
+- [Folding In Updates](/group/iesg/folinginupdates)
+  Advice on folding in updates when progressing a document from PS to IS
+- [Bad Diff Examples](/group/iesg/baddiffexamples)
+  Examples of massive fail when diffing documents for review.
+- [Archive of Former Work](/group/iesg/archiveformerwork)
+  Archive of former projects.
