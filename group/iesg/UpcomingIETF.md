@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-22T16:33:33.194Z
+date: 2023-02-22T17:42:22.730Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,10 +18,13 @@ Suggested topics for the next face-to-face meeting here.
 
 The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
 
-1. Sample Topic for [IAB|IESG|Joint] (Name)
-Please add a brief description or pointers to related discussion(s)
+**1. NomCom process for Joint Discussion (Mirja)**
+Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
-2. Sample Topic for [IAB|IESG|Joint] (Name)
+**2. Ballot process and IETF consensus for Joint Discussion (Mirja)**
+Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
+
+**X. Sample Topic for [IAB|IESG|Joint] Discussion (Name)**
 Please add a brief description or pointers to related discussion(s)
 
 # IESG Activities
