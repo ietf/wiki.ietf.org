@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-02-02T16:17:38.918Z
+date: 2023-02-22T16:31:50.895Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -62,6 +62,7 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * 2020-08-02 Authors sent request
    * 2022-01-13 WG adoption poll https://mailarchive.ietf.org/arch/msg/spring/C_6p_1y1JP7BSAe1_8gmkkgci_s/
    * 2022-02-24 Not adopted in this form https://mailarchive.ietf.org/arch/msg/spring/_e7gCFQSNcNE-JrVPIFuXxrradU/
+   * 2023-02-22 Not adopted. https://mailarchive.ietf.org/arch/msg/spring/giS0_lLsyBjV-EZlkLi_sGFFzFY/   
 
 ## History of WG Last Call
 * draft-ietf-spring-nsh-sr-11 
