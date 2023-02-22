@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-21T22:13:09.101Z
+date: 2023-02-22T00:32:52.575Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -598,7 +598,6 @@ The deployment of ALTO at LHCONE involves both integration with FTS and integrat
 #### ALTO+FTS: FTS/TCN
 The objective of FTS/TCN is to generalize the standard FTS Optimizer (https://fts3-docs.web.cern.ch/fts3-docs/docs/optimizer/optimizer.html), to (1) improve its efficiency and (2) provide flexible resource control capabilities in FTS. FTS/TCN realizes a new control scheme called flexible, strong resource control on top of minimal, univeral, weak control knobs. It also can be considered as a hybrid control architecture, which leverages the underlying, fully distributed TCP congestion control to achieve fast time-scale efficiency and (congestion) robustness, and realizes global efficiency and flexible resource control using the coordination FTS controller.
 
-The figure below shows the overall implementation architecture. In the design, each autonomous network that requires resource control uses a RESTful API to provide resource specification to the controler. An example is a hierarchy, e.g., FTS uses no more than x% of total capacity of a resource (e.g., network link); among FTS, the experiments partition the capacity using weights, and among each experiment, the actitivies can further partition. A multi-domain version of ALTO (using openalto.org as the orchestrator) constructs a global view of LHCONE, where each network may expose its information using data-plane (e.g., BGP looking glass), control-plane (e.g., configuration files, parsed using batfish), and/or management plane (e.g., traceroute). The scheduler uses a novel zero-order gradient with rounding to guide the scheduling. Some additional details of the system can be found at the following public presentations: [[CERN Meeting](https://indico.cern.ch/event/1146558/contributions/5022826/attachments/2534888/4362418/2022-10-24-alto.pdf)], [[Rucio Workshop](https://indico.cern.ch/event/1185600/contributions/5120144/attachments/2545771/4383949/2022-11-11-rucio-workshop-alto-tcn.pdf)]), 
 
       Src                           Dst
        \                            /
@@ -614,9 +613,38 @@ The figure below shows the overall implementation architecture. In the design, e
     | Spec     | | Mapping(ALTO)| | Concurrency|
     +----------+ +--------------+ +------------+
 
+The figure above shows the overall implementation architecture, which consists of 3 components: resource specification, resource mapping, and scheduling:
+-  In the design, each autonomous network that requires resource control uses a RESTful API to provide resource specification to the controler. An example is a hierarchy, e.g., FTS uses no more than x% of total capacity of a resource (e.g., network link); among FTS, the experiments partition the capacity using weights, and among each experiment, the actitivies can further partition. 
+- A multi-domain version of ALTO (using openalto.org as the orchestrator) constructs a global view of LHCONE, where each network may expose its information using data-plane (e.g., BGP looking glass), control-plane (e.g., configuration files, parsed using batfish), and/or management plane (e.g., traceroute). 
+- The scheduler, which uses a novel zero-order gradient with rounding to guide the scheduling. 
+Some additional details of the system can be found at the following public presentations: [[CERN Meeting, October 2022](https://indico.cern.ch/event/1146558/contributions/5022826/attachments/2534888/4362418/2022-10-24-alto.pdf)], [[Rucio Workshop, November 2022](https://indico.cern.ch/event/1185600/contributions/5120144/attachments/2545771/4383949/2022-11-11-rucio-workshop-alto-tcn.pdf)]), 
 
 
 #### ALTO+Rucio: Rucio/TCN
+The ALTO+Rucio deployment complements the FTS/TCN. Specifically, it uses ALTO to provide a uniform interface to implement a core function of Rucio: replica sorting when conducting replica selection. The implementation consists of two components: (1) ALTO metric specification, and (2) Rucio sorting integration.
+
+ALTO metric specification, with an example such as below:
+
+     ALTO IRD: 
+     "as_hopcount" : {
+        "resource_type"   : "path-vector",
+        "resource_id"     : "cern-pv",
+        "prop-name"       : "as_path",
+        "prop_transformer": "tolist | len",
+        "aggr_transfomer" : "sum"
+     }
+     "delay_ow": {
+        "resource_type"   : "cost-map",
+        "resource_id"     : "delay-ow",
+        "dependent_network_map": "default-networkmap"
+     }        
+
+Rucio sorting integration, using the commandline as:
+
+     Rucio integration: 
+     rucio list-file-replicas 
+          --sort='alto;stmt="By as_hopcount,delay_ow"'
+
 
 ### National Research Platform
 
