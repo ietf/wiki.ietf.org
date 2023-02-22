@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-22T21:37:18.027Z
+date: 2023-02-22T21:38:09.551Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -592,6 +592,7 @@ The main application making use of the network topology up to now is the one rel
 The Telefonica CDN (TCDN) implements state-of-the-art Request Routing Logic (RRL) which considers multiple information sources in order to maximize both QoE and video delivery efficiency. Some RRL inputs are streamer health status and load level, cache hit ratio maximization, content popularity, etc, but also and importantly, the network topology (PIDs and cost matrix). With all this information, the TCDN takes the final decision on selecting the more appropriate delivery point for a given content requested by a certain end user, coupling network and application information.
 
 It is here where ALTO plays and essential role by providing an automated way of retrieving the network topology. Before the integration of ALTO in TCDN, the network topology has been generated and provisioned manually. This is problematic not only because of resulting a process prone to errors, but also because the topological information (i.e., where are allocated the IP prefixes of the end-users requesting a given content) becomes outdated along the time.
+
 To overcome such limitations, ALTO is being integrated with TCDN. Two kinds of PIDs are generated: (1) the PIDs associated to customer’s IP prefixes which are the consumers of video streaming, and (2) the PIDs associated to the connection of CDN streamers to the network, representing the potential sources of TCDN traffic.
 
 For the selection of the more convenient streamer in each case, the RRL takes into consideration the lowest cost between the PIDs of the CDN streamers and the ones of the customers. The association of IP prefixes to PIDs generates the ALTO network map, which is obtained by means of BGP, and the hop count among PIDs generates the ALTO cost map, which is created parsing BGP-LS information. For this purpose, ALTO connects with a number of Route Reflectors of the Telefonica’s backbone, using exaBGP as BGP speaker.
