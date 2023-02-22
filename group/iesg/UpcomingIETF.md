@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-22T15:09:27.899Z
+date: 2023-02-22T16:33:33.194Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -11,9 +11,18 @@ dateCreated: 2022-07-23T19:50:44.319Z
 # IETF 116 - Yokohama, Japan
 This is scratch space for the upcoming IETF meeting; it *will* be cleared afterwards and reused for the next meeting. 
 
-There is a working list of [candidate topics for the agenda](/group/iesg/MeetingTopics).
-
 *(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/116/agenda))*
+
+# Candidate Meeting Topics
+Suggested topics for the next face-to-face meeting here.
+
+The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
+
+1. Sample Topic for [IAB|IESG|Joint] (Name)
+Please add a brief description or pointers to related discussion(s)
+
+2. Sample Topic for [IAB|IESG|Joint] (Name)
+Please add a brief description or pointers to related discussion(s)
 
 # IESG Activities
 *All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
