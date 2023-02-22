@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-21T19:18:14.045Z
+date: 2023-02-22T15:09:27.899Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -28,6 +28,12 @@ There is a working list of [candidate topics for the agenda](/group/iesg/Meeting
 
 **New Participant's Quick Connections** Sunday, March 26, 2023 - 16:00-17:00 - TBD
 **IETF 116 Welcome Reception** Sunday, March 26, 2023 - 17:00-19:00 - TBD
+
+### ~~Sunday~~ Saturday Night Social
+
+Time: TBD
+Location: TBD
+What: probably a pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. (to be confirmed)
 
 ## Sunday, March 26, 2023
 
@@ -67,11 +73,6 @@ Onsite Tool: TBD
 >    Might punt to retreat
 > 
 
-### ~~Sunday~~ Saturday Night Social
-
-Time: TBD
-Location: TBD
-What: probably a pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. (to be confirmed)
 
 ## Monday, March 27, 2023 
 
