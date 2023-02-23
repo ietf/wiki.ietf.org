@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-23T13:51:55.419Z
+date: 2023-02-23T13:53:16.861Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -597,7 +597,7 @@ To overcome such limitations, ALTO is being integrated with TCDN. Two kinds of P
 
 For the selection of the more convenient streamer in each case, the RRL takes into consideration the lowest cost between the PIDs of the CDN streamers and the ones of the customers. The association of IP prefixes to PIDs generates the ALTO network map, which is obtained by means of BGP, and the hop count among PIDs generates the ALTO cost map, which is created parsing BGP-LS information. For this purpose, ALTO connects with a number of Route Reflectors of the Telefonica’s backbone, using exaBGP as BGP speaker.
 
-                                      
+                                        :                                      
                                   BGP   :
     +------+      +-----------+ session : +------+
     |      |      |  ALTO     |     ----->| RR_1 | 
@@ -606,11 +606,11 @@ For the selection of the more convenient streamer in each case, the RRL takes in
     |  RRL |      |  |speaker||<--      :
     |      |      |  +-------+|   \     : +------+
     +------+      +-----------+    ------>| RR_2 |
-                              BGP-LS  : +------+
-                              session :
-                                      : Telefonica
-                                      : backbone
-                                      :
+                                BGP-LS  : +------+
+                                session :
+                                        : Telefonica
+                                        : backbone
+                                        :
 
 The PoC is being in place nowadays. Before ethe PoC several tests were performed in the lab and pre-production network. Currently ALTO is deployed in the production network of Telefonica Spain. At this stage, only a part of the topology can be retrieved because of a bug in one of the network vendors which affects to the activation of BGP-LS in all the network. This is expected to be solved during Q2 2023. Even with partial information, the integration of ALTO is resulting valuable for validating the capability of updating network topology changes automatically.
 
