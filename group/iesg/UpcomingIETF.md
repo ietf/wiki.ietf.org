@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-22T17:42:22.730Z
+date: 2023-02-23T17:06:48.161Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,14 +18,25 @@ Suggested topics for the next face-to-face meeting here.
 
 The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
 
-**1. NomCom process for Joint Discussion (Mirja)**
+1. IESG+IAB: NomCom process for Joint Discussion (Mirja)
 Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
-**2. Ballot process and IETF consensus for Joint Discussion (Mirja)**
+1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (Mirja)
 Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
 
-**X. Sample Topic for [IAB|IESG|Joint] Discussion (Name)**
-Please add a brief description or pointers to related discussion(s)
+1. IESG: Filtering on IETF infrastructure (8718bis-related) (Lars) 
+
+1. IESG: Copyright for IETF wikis (Lars)
+
+1. IESG: Review of meeting fees (Jay)
+  Update on consultation
+
+1. IESG: Ballot process discussion (Lars)
+  Might punt to retreat
+
+1. IESG+IAB: NomCom candidate pool & related (Lars)
+
+1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes)
 
 # IESG Activities
 *All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -54,13 +65,10 @@ What: probably a pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 Meetecho: TBD
 Onsite Tool: TBD
 
-
 > 1. Welcome
 > 1. Updates
 >    - RFC Editor
 >    - IANA
-> 1. Filtering on IETF infrastructure (8718bis-related) (Lars) 
-> 1. Copyright for IETF wikis (Lars)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
 
@@ -80,10 +88,6 @@ Onsite Tool: TBD
     > - RTG
     > - TSV
     > - IAB
-> 1. Review of meeting fees (Jay)
-> 1. Ballot process discussion (Lars)
->    Might punt to retreat
-> 
 
 
 ## Monday, March 27, 2023 
@@ -140,7 +144,6 @@ Onsite Tool: TBD
     > - TSV
     > - INT
 >  1.  General discussion of productivity and how the meeting went	 (standing item)
->  2. Discussion about publically announce author/design-team meetings vs interims  (Wes)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
