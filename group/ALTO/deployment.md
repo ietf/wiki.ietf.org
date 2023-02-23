@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-23T13:50:10.517Z
+date: 2023-02-23T13:51:55.419Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -597,7 +597,8 @@ To overcome such limitations, ALTO is being integrated with TCDN. Two kinds of P
 
 For the selection of the more convenient streamer in each case, the RRL takes into consideration the lowest cost between the PIDs of the CDN streamers and the ones of the customers. The association of IP prefixes to PIDs generates the ALTO network map, which is obtained by means of BGP, and the hop count among PIDs generates the ALTO cost map, which is created parsing BGP-LS information. For this purpose, ALTO connects with a number of Route Reflectors of the Telefonica’s backbone, using exaBGP as BGP speaker.
 
-                                BGP   :
+                                      
+                                  BGP   :
     +------+      +-----------+ session : +------+
     |      |      |  ALTO     |     ----->| RR_1 | 
     | TCDN |      |  +-------+|    /    : +------+
