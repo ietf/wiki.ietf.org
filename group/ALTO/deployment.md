@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-23T13:45:49.397Z
+date: 2023-02-23T13:50:10.517Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -601,8 +601,8 @@ For the selection of the more convenient streamer in each case, the RRL takes in
     +------+      +-----------+ session : +------+
     |      |      |  ALTO     |     ----->| RR_1 | 
     | TCDN |      |  +-------+|    /    : +------+
-    |      |----->|  | BGP   ||----     :
-    |  RRL |      |  |speaker||---      :
+    |      |<---->|  | BGP   ||<---     :
+    |  RRL |      |  |speaker||<--      :
     |      |      |  +-------+|   \     : +------+
     +------+      +-----------+    ------>| RR_2 |
                               BGP-LS  : +------+
