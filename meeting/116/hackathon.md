@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-02-24T13:58:39.804Z
+date: 2023-02-24T14:00:09.680Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -305,7 +305,7 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
    - https://www.rfc-editor.org/rfc/rfc9180.html
    - https://www.ietf.org/archive/id/draft-ietf-cose-hpke-02.html
 
-**PDM and IPv6 EH Testing ** 
+**PDM and IPv6 EH Testing**
 
 IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option
 
