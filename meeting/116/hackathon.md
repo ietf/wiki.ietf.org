@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-02-16T05:09:16.412Z
+date: 2023-02-24T08:26:03.877Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -267,7 +267,8 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
   - https://github.com/dthaler/teep
   - https://github.com/s-miyazawa/teep_armadillo_trial
   - https://github.com/ko-isobe/tamproto
-  - https://github.com/yuichitk/libteep
+  - https://github.com/kentakayama/libteep
+  - https://github.com/kentakayama/libcsuit
 - WG info
   - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
 
