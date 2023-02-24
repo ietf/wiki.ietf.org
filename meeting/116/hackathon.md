@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-02-24T08:26:03.877Z
+date: 2023-02-24T13:58:39.804Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -304,8 +304,39 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
    - https://www.rfc-editor.org/rfc/rfc9052.html
    - https://www.rfc-editor.org/rfc/rfc9180.html
    - https://www.ietf.org/archive/id/draft-ietf-cose-hpke-02.html
-    
- 
+
+**PDM and IPv6 EH Testing ** 
+
+IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option
+
+Champion(s)
+
+Ameya Deshpande (ameyadeshpande at google.com)
+Nalini Elkins (nalini.elkins at insidethestack.com)
+Michael Ackermann (mackermann at bcbsm.com)
+Dhruv Dhody (dhruv.ietf at gmail.com)
+Mohit Tahiliani (tahiliani at nitk.edu.in)
+
+Project info
+
+PDM/ PDMv2 IPv6 extension header testing
+
+This project aims to test PDM/PDMv2 Destinations Options Extension header over the Internet. We would like to collect data for source and destination placed in various geographical locations. This testing can be extended to other extension headers as well.
+
+Specifications
+
+https://datatracker.ietf.org/doc/draft-ietf-ippm-encrypted-pdmv2/
+RFC8250
+https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-fw/
+https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-cs/
+https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-cdn/
+
+Related Videos:
+
+https://youtu.be/ecZFwt2VsFo
+https://youtu.be/7sZQe6Hh5GI
+https://youtu.be/-UYjzrUKC8s
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
