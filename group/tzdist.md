@@ -1,8 +1,8 @@
 ---
-title: Time Zone Data Distribution Service Wiki
+title: TZDIST WG (Concluded) - Time Zone Data Distribution Service Wiki
 description: 
 published: true
-date: 2023-01-15T22:56:45.606Z
+date: 2023-02-26T22:35:17.547Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:56:41.437Z
