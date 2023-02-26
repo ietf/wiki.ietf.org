@@ -1,8 +1,8 @@
 ---
 title: E2MD WG (Concluded) - E.164 To Meta- and other Data
-description: Welcome to E2MD (E.164 To Meta- and other Data) Wiki ¶
+description: Welcome to E2MD (E.164 To Meta- and other Data) Wiki
 published: true
-date: 2023-02-26T23:52:50.547Z
+date: 2023-02-26T23:57:24.276Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:29:49.278Z
