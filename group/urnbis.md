@@ -1,8 +1,8 @@
 ---
-title: Uniform Resource Names, Revised Wiki
+title: URNBIS WG (Concluded) - Uniform Resource Names, Revised Wiki
 description: 
 published: true
-date: 2023-01-15T22:58:43.036Z
+date: 2023-02-26T22:37:15.449Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:58:38.969Z
