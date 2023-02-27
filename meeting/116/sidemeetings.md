@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-02-27T15:14:13.776Z
+date: 2023-02-27T17:19:25.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -53,7 +53,7 @@ At a minimum, please make sure to provide a day/time/room as well as meeting nam
 
 For remote participation: Please arrange your own conferencing service and put the link in the table if you would like to have remote participants.
 
-***Note this is not the room reservation. The actually room reservation happens in the tables below!***
+***Note this is not the room reservation. The actual room reservation happens in the tables below!***
 
 Please sort the meeting by time if possible.
 
