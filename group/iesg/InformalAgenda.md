@@ -2,14 +2,14 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-02-23T14:56:56.417Z
+date: 2023-02-27T15:02:36.790Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - February 23, 2023
- There will be a meeting on this date.
+# Informal Telechat - March 9, 2023
+ There will be **NO** meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,7 +28,7 @@ Meeting password: 1234
 
 ## Regrets
 
-* Andrew
+* 
 
 ## Agenda
 
@@ -45,18 +45,16 @@ Note that this page is public.
 Please use your best judgement to add new items into one of the categories below.
 
 #### Urgent and important
-* IETF 116 Agenda Conflict Resolution (Liz)
+* 
 
 #### Urgent but not important
-* Discussion on "excessive links" in drafts and whether to develop a policy (and with whom) (Paul)
-  (urgent only in context of holding up https://datatracker.ietf.org/doc/draft-ietf-ohai-ohttp/  to prevent precedents)
+* 
 
 #### Important but not urgent
-* Possible PR-action (Lars)
+* 
 
 #### Not important and not urgent
-* Dicussion on whether to reconstruct the document approval announcements to be more meaningful. (Lars, Warren, Éric, Rob)
-* IESG repo to dispatch GitHub issues opened on Tools repos (Lars)
+* 
 
 
 ### WG News 
