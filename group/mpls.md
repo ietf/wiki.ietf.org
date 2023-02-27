@@ -2,28 +2,38 @@
 title: MPLS WG - Multiprotocol Label Switching
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2023-01-05T15:03:55.793Z
+date: 2023-02-27T16:20:09.019Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z
 ---
 
-# Previous Wiki
+# Welcome to the MPLS WG Wiki
+This Wiki contains additional information for the IETF MPLS working group. Refer datatracker for the latest state of any draft.
+
+See:
+1. [guidelines to contributing to this wiki.](https://wiki.ietf.org/en/home#contributing-to-this-wiki)
+2. [MPLS WG charter.](https://datatracker.ietf.org/wg/mpls/charter)
+3. MPLS WG [mailing list](https://mailarchive.ietf.org/arch/browse/mpls/) archive.
+4. MPLS WG [Process and Review Team](https://trac.ietf.org/trac/rtg/wiki/MPLS-WorkingGroupReviewProcess)
+5. [MPLS WG Github](https://github.com/ietf-wg-mpls)
+
+## Previous Wiki
 Please find the previous wiki at:
 https://trac.ietf.org/trac/mpls/wiki
 
 The content of the old wiki will be kept unchanged, though sometimes informatiion will be migrated here.
 
-# MPLS Open Design Team (MPLS Open DT)
+## MPLS Open Design Team (MPLS Open DT)
 Information from the Open DT from the previous wiki can be found at;
 https://trac.ietf.org/trac/mpls/wiki/MPLSOpenDT
 
 The content of the old wiki will be kept unchanged, though sometimes information will be migrated here.
 
-## Open DT meetings
+### Open DT meetings
 Prior to the IETF 115 the  Open DT has been meeting on a weekly basis. We had plans to go back to the normal working group processes, however we have found some issues that makes it preferable to continue the weekly meeting for the time being. After the IETF 115 the MPLS Network Actions (MNA) work will be discussed in Open DT meetings "on demand". The MPLS, PALS and DETNET working group chairs has issuedd the following statement:
 
-### Weekly meetings
+#### Weekly meetings
 - [Open-DT-Meeting-2022-11-17](/group/mpls/2022-11-17)
        
 - [Open-DT-Meeting-2022-12-01](/group/mpls/2022-12-01)
@@ -34,16 +44,16 @@ Prior to the IETF 115 the  Open DT has been meeting on a weekly basis. We had pl
 
 - [Open-DT-Meeting-2023-01-05](/group/mpls/2023-01-05)
 
-### MPLS Network Action document
+#### MPLS Network Action document
 - [MNA Documents](/group/mpls/MNA-docs)
 This page has been copied from the old wiki.
 
-### MPLS Open DT Action Items
+#### MPLS Open DT Action Items
 
 - [MNA Action Items](/group/mpls/MNA-action-items)
 This page has been copied from the old wiki.
 
-### Webex for Weekly Meetings
+#### Webex for Weekly Meetings
 
 ```
 Cisco Webex has invited you to MPLS Open DT Meeting
