@@ -1,8 +1,8 @@
 ---
-title: InterTrac
+title: delete
 description: 
 published: true
-date: 2023-01-03T21:19:13.354Z
+date: 2023-02-27T05:44:10.349Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-03T20:35:42.607Z
