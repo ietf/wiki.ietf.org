@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-02-27T19:09:26.444Z
+date: 2023-02-27T19:09:51.482Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
@@ -24,4 +24,4 @@ dateCreated: 2023-02-27T17:52:35.934Z
  * [2021-11-30](group/irtf/irsgminutes/2021-11-30)
  * [2021-10-26](group/irtf/irsgminutes/2021-10-26)
  * [2021-09-28](group/irtf/irsgminutes/2021-09-28)
- * [2021-08-31](irsgminutes/2021-08-31)
+ * [2021-08-31](/2021-08-31)
