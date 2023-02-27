@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-02-27T17:29:10.492Z
+date: 2023-02-27T17:31:38.998Z
 tags: irtf, anrp
 editor: markdown
 dateCreated: 2023-02-27T17:29:10.492Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-27T17:29:10.492Z
 
 # Applied Networking Research Prize (ANRP) 
 
-The Applied Networking Research Prize (ANRP) is awarded for recent results in applied networking research that are of potential interest to the Internet standards community. The [https://irtf.org/anrp/ website] list the goals of the prize, the nomination process, the awarding committee, and the past winners.
+The Applied Networking Research Prize (ANRP) is awarded for recent results in applied networking research that are of potential interest to the Internet standards community. The [website list](https://irtf.org/anrp/) the goals of the prize, the nomination process, the awarding committee, and the past winners.
 
 ## Timeline for Nominations 
 
