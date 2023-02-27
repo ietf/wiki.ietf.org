@@ -1,8 +1,8 @@
 ---
-title: L3VPN Service Model Wiki
+title: L3SM WG (Concluded) - L3VPN Service Model Wiki
 description: 
 published: true
-date: 2023-01-09T22:36:18.868Z
+date: 2023-02-27T01:24:18.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:36:15.334Z
