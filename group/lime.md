@@ -1,8 +1,8 @@
 ---
-title: Layer Independent OAM Management in the Multi-Layer Environment (LIME)
+title: LIME WG (Concluded) - Layer Independent OAM Management in the Multi-Layer Environment 
 description: 
 published: true
-date: 2023-01-09T22:38:32.039Z
+date: 2023-02-27T01:25:45.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:38:28.115Z
