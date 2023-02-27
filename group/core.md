@@ -2,7 +2,7 @@
 title: CORE WG - Constrained RESTful Environments Wiki
 description: 
 published: true
-date: 2023-02-17T19:35:33.299Z
+date: 2023-02-27T02:37:09.124Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:20:32.189Z
@@ -70,4 +70,4 @@ CoRE held two successful Plugfests in Maastricht on [draft-ietf-core-coap-01](ht
 
 ---
 
-*The content of this page was last updated on 2022-09-29. It was migrated from the old Trac wiki on 2023-02-17.*
+*The content of this page was last updated on 2016-11-12. It was migrated from the old Trac wiki on 2023-02-17.*
