@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2022-11-29T19:42:38.059Z
+date: 2023-02-27T06:18:59.411Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -40,13 +40,13 @@ The [SECDIR review queue](https://datatracker.ietf.org/group/secdir/reviews/) an
 
 In the limited cases where the cryptographic mechanisms of an IETF document requires deeper analysis by a cryptographer, the Security Area relies on the IRTF CFRG [Crypto Review Panel](https://trac.ietf.org/trac/irtf/wiki/Crypto%20Review%20Panel).
 
-The SECDIR and SEC AD reviews of documents have produced the following list of [Common SEC Area Review Issues]( that have been repeatedly identified.  Authors and WGs should consider these issues when writing their documents.
+The SECDIR and SEC AD reviews of documents have produced the following list of [Common SEC Area Review Issues](/group/sec/typicalSECareaissues) that have been repeatedly identified.  Authors and WGs should consider these issues when writing their documents.
 
 If specific security expertise is needed in a WG, please contact the Security ADs who may be able to find a advisor for the WG.
 
 ## Security Areas Advisory Group (SAAG)
 
-The [)Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
+The [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
 
 SAAG is not working group.  As such, it does not adopt or publish documents.
 
@@ -57,3 +57,11 @@ The community is welcome to [subscribe](https://www.ietf.org/mailman/listinfo/sa
 
 Security Area leadership past and present is further described on the [Security Area Directors](/group/sec/secADs) page.
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2022-10-18. It was migrated from the old Trac wiki on 2023-02-26.*
