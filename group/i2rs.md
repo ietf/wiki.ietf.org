@@ -1,8 +1,8 @@
 ---
-title: Interface to the Routing System Wiki
+title: I2RS WG (Concluded) - Interface to the Routing System Wiki
 description: 
 published: true
-date: 2023-01-22T03:31:09.218Z
+date: 2023-02-27T00:26:24.003Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-22T02:10:50.773Z
