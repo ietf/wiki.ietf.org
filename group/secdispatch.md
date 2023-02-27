@@ -2,7 +2,7 @@
 title: SECDISPATCH WG - Security Dispatch
 description: 
 published: true
-date: 2023-01-05T00:03:22.501Z
+date: 2023-02-27T06:36:33.910Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:56:10.700Z
@@ -46,7 +46,7 @@ The chairs will consider the points above and any deriving discussions when sett
 
 Note that precedence in the meeting will be given to documents that have demonstrated interest in the form of active drafts and mailing list discussion, as well as presenters who submit slides according to the timeline. The chairs reserve the right to remove presentations from the agenda if slides are not sent in on time.
 
-*Current submitted agenda items are listed in [ietf111](/group/secdispatch) (work in progress)*.
+*Current submitted agenda items are listed in [ietf111](/group/secdispatch/ietf111) (work in progress)*.
 
 ## Preparing your slides
 When preparing your slides, try to include point 1 to 7 above. The presentation should cover motivation, background and hoped dispatching outcome (see above).
@@ -72,4 +72,4 @@ To submit your slides, [upload them directly](https://datatracker.ietf.org/meeti
 
 ---
 
-*The content of this page was last updated on 2022-10-21. It was migrated from the old Trac wiki on 2022-12-21.*
+*The content of this page was last updated on 2022-10-21. It was migrated from the old Trac wiki on 2023-02-26.*
