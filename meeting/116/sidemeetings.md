@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-02-27T15:12:25.694Z
+date: 2023-02-27T15:14:13.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -34,11 +34,12 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 If you would like to provide an .ics file for a side meeting, please put the link in the appropriate column below.
 
-### ***NEW!!!*** Two Step Process to schedule a side meeting
+### ***!!!NEW!!!*** Two Step Process to schedule a side meeting ***!!!NEW!!!***
 
-1. Enter your meeting information (day, time, name, area, contact, description, room links) into the [meeting information table](#meetinginfo) below. Note this is not the room reservation. The actually room reservation is step 2.
 
-2. Please choose the day and time that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. If the meeting is not in the room table, the room is not reserved!
+**1. Enter your meeting information (day, time, name, area, contact, description, room links) into the [meeting information table](#meetinginfo) below. Note this is not the room reservation. The actually room reservation is step 2.**
+
+**2. Please choose the day and time that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. If the meeting is not in the room table, the room is not reserved!**
 
 [Monday](#Monday)
 [Tuesday](#Tuesday)
