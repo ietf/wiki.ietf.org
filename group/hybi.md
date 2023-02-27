@@ -1,8 +1,8 @@
 ---
-title: BiDirectional or Server-Initiated HTTP Wiki
+title: HYBI WG (Concluded) - BiDirectional or Server-Initiated HTTP
 description: 
 published: true
-date: 2023-01-22T03:56:15.585Z
+date: 2023-02-27T18:47:34.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-22T03:35:37.935Z
