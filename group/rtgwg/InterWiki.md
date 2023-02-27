@@ -1,8 +1,8 @@
 ---
-title: InterWiki
+title: delete
 description: 
 published: true
-date: 2023-01-03T20:35:49.622Z
+date: 2023-02-27T05:44:32.838Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T20:11:30.253Z
