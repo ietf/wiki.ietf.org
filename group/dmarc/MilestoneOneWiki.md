@@ -2,7 +2,7 @@
 title: Milestone One Wiki
 description: 
 published: true
-date: 2023-02-27T03:02:50.779Z
+date: 2023-02-27T03:10:04.749Z
 tags: dmarc
 editor: markdown
 dateCreated: 2022-08-10T17:44:34.410Z
@@ -56,16 +56,16 @@ The Sieve action command 'redirect' can be used to forward/redirect mail. When m
 
 Some users forward email using their MUA, which almost always modifies the content of email (breaking DKIM).  Several different known forwarding "modes":
 
-* '''Simple forwarding:''' Forward by creating an entirely new message and adding "Begin forwarded message:" before the MUA inserts content from the to-be-forwarded message.
-* '''Forward as attachment:''' Forward by placing content of to-be-forwarded message into an attachment.
-* '''Resend:''' Forward by resending a message.
+* **Simple forwarding:** Forward by creating an entirely new message and adding "Begin forwarded message:" before the MUA inserts content from the to-be-forwarded message.
+* **Forward as attachment:** Forward by placing content of to-be-forwarded message into an attachment.
+* **Resend:** Forward by resending a message.
 
 #### <a id="mta-fwding"></a>MTA forwarding 
 
 Some MTAs can be configured to forward email according to domain.  That is, if the recipient domain matches a forwarding rule, then the email is forwarding to the next configured hop.  MTAs that support this can sometimes be configured to forward in two distinct modes:
 
-* '''Forward without modification.'''  This is most similar to "dot-forwarding", except on a domain-wide basis.
-* '''Forward while rewriting message.'''  When this occurs, the message's domains are rewritten to reflect the new destination domain.  Although this behavior is more commonly seen in outbound email flows (eg, to make sure email coming from an acquisition's email domain reflects the new parent company), the same processing can be applied for inbound email.
+* **Forward without modification.**  This is most similar to "dot-forwarding", except on a domain-wide basis.
+* **Forward while rewriting message.**  When this occurs, the message's domains are rewritten to reflect the new destination domain.  Although this behavior is more commonly seen in outbound email flows (eg, to make sure email coming from an acquisition's email domain reflects the new parent company), the same processing can be applied for inbound email.
 
 #### <a id="multi-fwd"></a>Presence of multiple automatic forwards  
 
@@ -79,26 +79,19 @@ The Sieve 'addheader' and 'deleteheader' actions can be used to delete or replac
 
 Mailing list management (MLM) software often alters header fields (typically adding list ID or serial numbers to the Subject field) or the body (typically adding unsubscribe information, which may be required by law in some cases).  These alterations usually invalidate the DKIM signature.  Furthermore in most cases the host providing the mailing list is not authorized under SPF by the Author domain.  Thus in the common case messages transmitted via a mailing list will fail From alignment.  In case of a p=reject DMARC policy at the Author Domain, all messages from users at that domain will be rejected by destination hosts participating in the DMARC protocol.
 
-[wiki:MailingListModel An effort to document a generic model of MLM behavior (so that comparing and contrasting of MLMs can be made easier) can be found here.]
+[ An effort to document a generic model of MLM behavior (so that comparing and contrasting of MLMs can be made easier) can be found here.](/group/dmarc/MailingListModel)
 
 Consequences:
 
-    1.  Recipients at destinations participating in the DMARC protocol (below denoted "DMARC recipients") experience non-delivery of desired mail.
+   1.  Recipients at destinations participating in the DMARC protocol (below denoted "DMARC recipients") experience non-delivery of desired mail.
 
-    2.  In the common case where the MLM is configured to direct errors to itself, the rejected messages may be recognized as bounces from DMARC recipients.
-    Such bounces may cause suspension of delivery to DMARC recipients, or even termination of their subscriptions.  Even if a standard status code were provided for 
-    such DSNs, it may not be possible to reliably recognize such "DMARC bounces", as many sites consider their authorization policies to be sensitive information, 
-    and use an uninformative status code for all rejects due to authorization failure.
+   2.  In the common case where the MLM is configured to direct errors to itself, the rejected messages may be recognized as bounces from DMARC recipients. Such bounces may cause suspension of delivery to DMARC recipients, or even termination of their subscriptions.  Even if a standard status code were provided for such DSNs, it may not be possible to reliably recognize such "DMARC bounces", as many sites consider their authorization policies to be sensitive information, and use an uninformative status code for all rejects due to authorization failure.
 
-    3.  One common mitigation policy is to configure the MLM to alter the From field.  Since most list subscribers prefer to know the identity of authors, typically this 
-    information is provided in the display name in the From field, which to some extent defeats the purpose of DMARC itself.  It also makes it difficult to ensure 
-    that users of all mail clients can easily reply to author, list, or all using the mail client features provided for that purpose.  Use of "Reply-To" can partially, but 
-    not fully, alleviate this problem.
+   3.  One common mitigation policy is to configure the MLM to alter the From field.  Since most list subscribers prefer to know the identity of authors, typically this information is provided in the display name in the From field, which to some extent defeats the purpose of DMARC itself.  It also makes it difficult to ensure that users of all mail clients can easily reply to author, list, or all using the mail client features provided for that purpose.  Use of "Reply-To" can partially, but not fully, alleviate this problem.
 
-    4.  Another common mitigation policy is to configure the MLM to "wrap" the message in a MIME message/rfc822 part.  This completely bypasses the DMARC policy 
-    in clients that allow reading the part as a message.  Many mail clients (as of August 2014) have difficulty reading such messages.
+   4.  Another common mitigation policy is to configure the MLM to "wrap" the message in a MIME message/rfc822 part.  This completely bypasses the DMARC policy in clients that allow reading the part as a message.  Many mail clients (as of August 2014) have difficulty reading such messages.
 
-    5.  Users at Author Domains with DMARC p=reject policy complain of "discrimination" to the mailing list owner or to the subscribership.
+   5.  Users at Author Domains with DMARC p=reject policy complain of "discrimination" to the mailing list owner or to the subscribership.
 
 #### Differences between List and Group 
 
@@ -115,7 +108,7 @@ ISP customers often send email using their ISP's outbound SMTP server using doma
 
 Newspaper mail-an-article services often send mail through the newspaper's server with the From: address of the person who asked the mail to be sent.
 
-[wiki:EmbeddedDevices Embedded devices send mail through whatever mail server they can use], often one on the same LAN that lets them send without authenticating.
+[Embedded devices send mail through whatever mail server they can use](/group/dmarc/EmbeddedDevices), often one on the same LAN that lets them send without authenticating.
 
 ### <a id="commercial-freemail"></a>Commercial email using free email address  
 
