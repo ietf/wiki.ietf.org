@@ -1,8 +1,8 @@
 ---
-title: Behavior Engineering for Hindrance Avoidance Wiki
+title: BEHAVE WG (Concluded) - Behavior Engineering for Hindrance Avoidance
 description: 
 published: true
-date: 2023-01-25T03:31:13.202Z
+date: 2023-02-27T18:55:20.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T03:27:59.394Z
