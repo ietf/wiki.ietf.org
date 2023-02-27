@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2023-01-04T22:31:03.857Z
+date: 2023-02-27T06:03:02.321Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -41,10 +41,8 @@ This wiki contains additional information for IETF RTGWG working group. Please r
 ## Other Useful Information
 **Other RTGWG Pages** 
 This page is an example of a Wiki page added by a WG participant. [ExampleOpenIssuesInDraftXYZ](/group/rtgwg/ExampleOpenIssuesInDraftXYZ)
-**Editing this Wiki**
-Participants in the RTGWG are encouraged to use this Wiki for RTGWG related work. To do so, edit this page and create a link under **Other RTGWG Pages** using a [CamelCase](/group/rtgwg/CamelCase) name. (An example is provided above.) After submitting the changes, a link for the new page will appear with the question mark next to it. Click that link, and you will be given the option to create the new page.
 
-In order to edit the Wiki, you will need to be logged in with a datatracker account. An account can be created at https://datatracker.ietf.org/accounts/create/ if you don't have one already (but please don't create a new account if you alredy have one -- use [Password Reset](https://datatracker.ietf.org/accounts/reset/) if you've lost your password).
+
 
 &nbsp;
 &nbsp;
