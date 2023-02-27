@@ -1,8 +1,8 @@
 ---
-title: Yet Another Mail Wiki
+title: YAM WG (Concluded) - Yet Another Mail Wiki
 description: 
 published: true
-date: 2023-01-21T03:54:15.558Z
+date: 2023-02-27T02:25:40.677Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:41:30.270Z
@@ -41,6 +41,7 @@ http://www.ietf.org/id/draft-ietf-yam-pre-evaluation-template-02.txt
 | [4409](http://tools.ietf.org/html/rfc4409) | Message Submission                | R. Gellens, J. Klensin                                  | Reviewed                |
 | [5321](http://tools.ietf.org/html/rfc5321) | SMTP                              | J. Klensin                                              | Waiting for 5321bis I-D |
 | [5322](http://tools.ietf.org/html/rfc5322) | Internet Message Format           | P. Resnick                                              | WG Last Call            |
+{.dense}
 
 A separate page lists the [Documents NOT Being Worked On](/group/yam/NotNowDocs).
 
