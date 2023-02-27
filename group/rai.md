@@ -1,14 +1,14 @@
 ---
-title: Real-time Applications and Infrastructure Working Group
+title: RAI Area - Real-time Applications and Infrastructure
 description: 
 published: true
-date: 2023-01-21T04:26:09.337Z
+date: 2023-02-27T01:32:21.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T04:08:28.722Z
 ---
 
-# Real Time Applications and Infastrucure Area (RAI) 
+# Real Time Applications and Infastructure Area (RAI) 
 ## Working Groups
 The current list of active working groups can be found at http://tools.ietf.org/area/rai/.
 
