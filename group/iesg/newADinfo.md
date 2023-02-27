@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-02-20T20:44:35.654Z
+date: 2023-02-27T15:01:06.708Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -167,11 +167,11 @@ These links are to wiki pages describing IESG working relationships with:
 
 More groups with special relationships to the IESG:
 
- * [IesgLaw](/group/iesg/iesglaw) - although most of the time legal issues can be handled by IASA
+ * [IESGLaw](/group/iesg/iesglaw) - although most of the time legal issues can be handled by the LLC
  * [SecretariatInteraction](/group/iesg/secretariatinteraction) - working with the Secretariat
- * [IesgNomcom](/group/iesg/IesgNomcom) - IESG Interaction with NomCom
+ * [IESGNomcom](/group/iesg/IesgNomcom) - IESG Interaction with NomCom
  * [DirectoratesTeams](/group/iesg/directoratesteams)
- * [IesgNominating](/group/iesg/IESGNominating) - positions we nominate
+ * [IESGNominating](/group/iesg/IESGNominating) - positions we nominate
  
 ### Liaison relationships 
 
