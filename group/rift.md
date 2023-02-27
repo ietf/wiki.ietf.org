@@ -2,7 +2,7 @@
 title: RIFT WG - Routing In Fat Trees
 description: 
 published: true
-date: 2023-01-05T00:02:16.272Z
+date: 2023-02-27T04:39:54.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:37:49.588Z
@@ -30,12 +30,12 @@ RIFT is specialized, dynamic routing protocol for Clos and fat-tree networks and
 
 # Implementation Status
 
-- Juniper has an ongoing implementation including publically available binaries under ​https://www.juniper.net/us/en/dm/free-rift-trial/
-- Very well documented and comprehensive open source version is maintained under ​https://github.com/brunorijsman/rift-python
+- Juniper has an ongoing implementation including publically available binaries under https://www.juniper.net/us/en/dm/free-rift-trial/
+- Very well documented and comprehensive open source version is maintained under https://github.com/brunorijsman/rift-python
 - ZTE is implementing RIFT according to the working group drafts
 # Hackathons
 
-Hackathons 102/103/104 have been held on the open source version, presentations can be found under ​https://github.com/brunorijsman/rift-python
+Hackathons 102/103/104 have been held on the open source version, presentations can be found under https://github.com/brunorijsman/rift-python
 
 &nbsp;
 &nbsp;
