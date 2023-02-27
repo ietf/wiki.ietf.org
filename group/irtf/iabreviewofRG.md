@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-02-27T17:24:38.313Z
+date: 2023-02-27T17:24:49.166Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:18:16.367Z
@@ -15,7 +15,7 @@ This page captures some of the history of what IRTF activities occurred at recen
 
 ## Research Group Reviews with the IAB 
 
-The review meeting goals and format are described at [IAB RG Review Process](/group/irtf/iabreviewprocess). Groups that have not been reviewed lately: GAIA (IETF 96), HRPC (IETF 97), ICCRG (IETF 99), NMRG (IETF 92). 
+The review meeting goals and format are described at [IAB RG Review Process](/group/irtf/iabreviewprocess/). Groups that have not been reviewed lately: GAIA (IETF 96), HRPC (IETF 97), ICCRG (IETF 99), NMRG (IETF 92). 
 
  * IETF 115 - HRPC
  * IETF 114 - None
