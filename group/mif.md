@@ -1,8 +1,8 @@
 ---
-title: Multiple Interfaces Wiki
+title: MIF WG (Concluded) - Multiple Interfaces Wiki
 description: 
 published: true
-date: 2023-01-09T22:41:31.645Z
+date: 2023-02-27T07:39:13.646Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:41:26.855Z
