@@ -2,7 +2,7 @@
 title: RTCWEB WG - Real-Time Communication in WEB-browsers
 description: 
 published: true
-date: 2023-01-04T22:29:34.336Z
+date: 2023-02-27T04:49:37.342Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T04:44:23.147Z
@@ -16,6 +16,9 @@ Some of the documents for this WG are managed in github at https://github.com/rt
 
 [Old Meeting details](/group/rtcweb/PreviousMeetings)
 
+
+### Attachments from Trac wiki
+[attachments-wiki-wikistart.zip](/attachments-wiki-wikistart.zip)
 
 &nbsp;
 &nbsp;
