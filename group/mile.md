@@ -1,8 +1,8 @@
 ---
-title: Managed Incident Lightweight Exchange Group (MILE) Wiki
+title: MILE WG - Managed Incident Lightweight Exchange Group
 description: 
 published: true
-date: 2023-01-10T00:24:53.660Z
+date: 2023-02-27T07:38:08.836Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T00:24:49.400Z
