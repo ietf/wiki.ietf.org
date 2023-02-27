@@ -2,7 +2,7 @@
 title: SECDISPATCH WG - Security Dispatch
 description: 
 published: true
-date: 2023-02-27T06:37:22.229Z
+date: 2023-02-27T06:54:38.306Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:56:10.700Z
@@ -62,9 +62,9 @@ To submit your slides, [upload them directly](https://datatracker.ietf.org/meeti
 - Send your slides on time!
 - starting a thread in the mailing list is great; "advertising" your work to possible interested parties and get them to provide feedback in the mail thread and participate in the meeting is even better to help the chairs dispatch your work.
 ## Contact Points
-- Mailing list - secdispatch@…
-- WG chairs: Kathleen Moriarty, Richard Barnes, Mohit Sethi - secdispatch-chairs@…
-- Area directors: Roman Danyliw, Ben Kaduk - secdispatch-ads@…
+- Mailing list - secdispatch@ietf.org
+- WG chairs: Kathleen Moriarty, Richard Barnes, Rifaat Shekh-Yusef - secdispatch-chairs@ietf.org
+- Area directors: Roman Danyliw, Paul Wouters - secdispatch-ads@ietf.org
 
 &nbsp;
 &nbsp;
