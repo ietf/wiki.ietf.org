@@ -2,7 +2,7 @@
 title: IDNABIS WG (Concluded) - Internationalized Domain Names in Applications, Revised
 description: Internationalized Domain Names in Applications, Revised (idnabis) Wiki
 published: true
-date: 2023-01-04T22:58:24.936Z
+date: 2023-02-27T00:36:29.079Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:11:06.853Z
@@ -15,3 +15,11 @@ There's not much here yet, below you see the original content (setup default). I
 The WG page on the IETF tools server offers its own feed of recent changes including new drafts. To go to this WG page click on **idnabis** at the top of any Trac page, or remove the .../trac part from any Trac URL below [http://tools.ietf.org/wg/idnabis http://tools.ietf.org/wg/idnabis/trac/...].
 
 Just in case the shorthand `[purlnet:draft/ietf-idnabis-protocol]` links to [purlnet:draft/ietf-idnabis-protocol] (example).   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2008-06-30. It was migrated from the old Trac wiki in 2023.*
