@@ -1,8 +1,8 @@
 ---
-title: Custom Query
+title: delete
 description: 
 published: true
-date: 2022-12-29T02:06:22.164Z
+date: 2023-02-27T05:42:01.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-29T02:06:18.558Z
