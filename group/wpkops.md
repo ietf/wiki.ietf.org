@@ -1,8 +1,8 @@
 ---
-title: Web PKI OPS Wiki
+title: WPKOPS WG (Concluded) - Web PKI OPS
 description: 
 published: true
-date: 2023-02-27T02:24:08.008Z
+date: 2023-02-27T07:34:33.478Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:11:48.015Z
