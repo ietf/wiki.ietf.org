@@ -1,8 +1,8 @@
 ---
-title: Secure Inter-Domain Routing Group
+title: SIDR WG (Concluded) - Secure Inter-Domain Routing
 description: 
 published: true
-date: 2023-02-27T06:57:46.142Z
+date: 2023-02-27T06:59:06.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:31:21.243Z
