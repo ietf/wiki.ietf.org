@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-02-27T19:50:57.919Z
+date: 2023-02-27T19:55:36.216Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -39,6 +39,8 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [dnssd *Extensions for Scalable DNS Service Discovery*](/group/dnssd)
 - [dots *DDoS Open Threat Signaling*](/group/dots)
 - [dprive *DNS PRIVate Exchange*](/group/dprive)
+- [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
+- [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [mpls *Multiprotocol Label Switching*](/group/mpls)
 - [pce *Path Computation Element*](/group/pce)
@@ -50,6 +52,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [core *Constrained RESTful Environments*](/group/core)
 - [dispatch *DISPATCH*](/group/dispatch)
 - [dmarc *Domain-based Message Authentication, Reporting & Conformance*](/group/dmarc)
+- [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
 {.links-list}
 ### GEN
 
@@ -88,6 +91,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 {.links-list}
 ### TSV
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
+- [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
 {.links-list}
 
 # Concluded Working Groups
