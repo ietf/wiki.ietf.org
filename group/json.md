@@ -1,8 +1,8 @@
 ---
-title: JSON
+title: JSON WG (Concluded)
 description: 
 published: true
-date: 2023-01-09T22:32:17.227Z
+date: 2023-02-27T03:42:56.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:32:13.425Z
