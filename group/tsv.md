@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2023-01-04T22:45:25.031Z
+date: 2023-02-27T07:17:34.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -46,11 +46,12 @@ The Transport Area Review Team (TSVART) (or "[TSV Area Review Team](/group/tsv/T
 ## Subversion Repository
 Thanks to the [tools](https://authors.ietf.org/) team, the transport area has a [subversion repository](http://subversion.tigris.org/) that can be used for the collaborative editing of Internet Drafts, or lots of other things. Located at http://svn.tools.ietf.org/svn/area/tsv, it is world-readable, but write access currently needs to be manually set up.
 
+Contact tsv-ads@ietf.org if you want to start using the repository.
+
 &nbsp;
 &nbsp;
 &nbsp;
 
 ---
 
-*The content of this page was last updated on 2017-07-08. It was migrated from the old Trac wiki on 2022-12-22.*
-Contact tsv-ads@… if you want to start using the repository.
+*The content of this page was last updated on 2017-07-08. It was migrated from the old Trac wiki on 2023-02-26.*
