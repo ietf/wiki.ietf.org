@@ -1,8 +1,8 @@
 ---
-title: Sieve Mail Filtering Language Working Group
+title: SIEVE WG (Concluded) - Sieve Mail Filtering Language
 description: 
 published: true
-date: 2023-01-11T02:25:14.791Z
+date: 2023-02-27T07:41:43.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-11T02:25:10.528Z
