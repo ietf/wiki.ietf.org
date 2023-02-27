@@ -2,16 +2,16 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-02-17
+date: 2023-02-27T15:12:25.694Z
 tags: 
 editor: markdown
-dateCreated: 2023-02-17
+dateCreated: 2023-02-27T15:09:43.892Z
 ---
 
-# Public Side Meetings at IETF 115
+# Public Side Meetings at IETF 116
 
 
-IETF participants occasionally organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. While these are side meetings, the IETF does provide this wiki to register the topics, contact persons, dates and times, and other information about the meetings being planned. This page provides details for side meetings around  [IETF 115 London](https://www.ietf.org/how/meetings/115/).
+IETF participants occasionally organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. While these are side meetings, the IETF does provide this wiki to register the topics, contact persons, dates and times, and other information about the meetings being planned. This page provides details for side meetings around  [IETF 116 Yokohama](https://www.ietf.org/how/meetings/116/).
 
 
 ### Notes about public side meetings
@@ -24,7 +24,7 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 * Side meetings do not record attendance ("blue sheets") as is done during IETF working groups sessions.
 
-* New for IETF 115: Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
+* Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
 
 * Since there are many freely available conferencing services, the [IESG](https://www.ietf.org/about/groups/iesg/) has decided not to provide conferencing support for side meetings.
 
@@ -58,28 +58,28 @@ Please sort the meeting by time if possible.
 
 ## MONDAY 27 March
 
-| **Time** | **Room*+ | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
 ## TUESDAY 28 March
 
-| **Time** | **Room*+ | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
 ## WEDNESDAY 29 March
 
-| **Time** | **Room*+ | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
 ## THURSDAY 30 March
 
-| **Time** | **Room*+ | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
@@ -115,7 +115,7 @@ Location: ???
 
 | **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
 |----------|------------------|------------|------------|------------|------------|------------|
-|  -07:30  |   NOT AVAILABLE  |            |            |            |            |            |
+|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
 |  08:00   |                  |            |            |            |            |            |
 |  08:30   |                  |            |            |            |            |            | 
 |  09:00   |                  |            |            |            |            |            |
@@ -147,7 +147,7 @@ Location: ???
 
 | **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
 |----------|------------------|------------|------------|------------|------------|------------|
-|  -07:30  |   NOT AVAILABLE  |            |            |            |            |            |
+|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
 |  08:00   |                  |            |            |            |            |            |
 |  08:30   |                  |            |            |            |            |            | 
 |  09:00   |                  |            |            |            |            |            |
@@ -180,7 +180,7 @@ Location: ???
 
 | **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
 |----------|------------------|------------|------------|------------|------------|------------|
-|  -07:30  |   NOT AVAILABLE  |            |            |            |            |            |
+|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
 |  08:00   |                  |            |            |            |            |            |
 |  08:30   |                  |            |            |            |            |            | 
 |  09:00   |                  |            |            |            |            |            |
@@ -212,7 +212,7 @@ Location: ???
 
 | **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
 |----------|------------------|------------|------------|------------|------------|------------|
-|  -07:30  |   NOT AVAILABLE  |            |            |            |            |            |
+|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
 |  08:00   |                  |            |            |            |            |            |
 |  08:30   |                  |            |            |            |            |            | 
 |  09:00   |                  |            |            |            |            |            |
@@ -244,7 +244,7 @@ Location: ???
 
 | **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
 |----------|------------------|------------|------------|------------|------------|------------|
-|  -07:30  |   NOT AVAILABLE  |            |            |            |            |            |
+|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
 |  08:00   |                  |            |            |            |            |            |
 |  08:30   |                  |            |            |            |            |            | 
 |  09:00   |                  |            |            |            |            |            |
