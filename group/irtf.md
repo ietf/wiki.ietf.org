@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2023-02-27T15:09:07.917Z
+date: 2023-02-27T17:33:55.553Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -63,7 +63,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 
 ## Wiki Pages of Concluded Research Groups 
 
- * [ASRG] (now concluded)
+ * [ASRG](http://wiki.asrg.sp.am) (now concluded)
  * [EME] (now concluded)
  * [HIPRG] (now concluded)
  * [NFVRG] (now concluded)
@@ -74,7 +74,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [VNRG]  (now concluded)
  * [RRG] (now concluded)
  * [NCRG](http://networkcomplexity.org/) (now concluded)
- * [DTNRG](https://sites.google.com/site/dtnresgroup/home ) (also: old wiki at [DTNRG](http://www.dtnrg.org/))
+ * [DTNRG](https://sites.google.com/site/dtnresgroup/home) (also: old wiki at [DTNRG](http://www.dtnrg.org/))
  * [wiki:sdnrg SDNRG] (now concluded)
 
 
