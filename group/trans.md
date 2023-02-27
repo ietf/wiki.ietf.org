@@ -1,8 +1,8 @@
 ---
-title: Public Notary Transparency Wiki
+title: TRANS WG (Concluded) - Public Notary Transparency Wiki
 description: 
 published: true
-date: 2023-01-15T22:54:16.394Z
+date: 2023-02-27T07:39:53.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:54:11.664Z
