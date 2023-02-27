@@ -2,7 +2,7 @@
 title: ITS BOF (Concluded) - Intelligent Transportation Systems
 description: 
 published: true
-date: 2023-01-04T22:56:17.632Z
+date: 2023-02-27T01:03:10.890Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:11:36.312Z
@@ -119,3 +119,11 @@ Oct 2017 - Submit "ITS General Problem Area" to IESG
 
 May 2018 - Submit "Problem Statement" to IESG
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2016-07-28. It was migrated from the old Trac wiki on 2023-02-26.*
