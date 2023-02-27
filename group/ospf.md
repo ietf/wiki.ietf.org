@@ -1,8 +1,8 @@
 ---
-title: Open Shortest Path First IGP Wiki
+title: OSPF WG (Concluded) - Open Shortest Path First IGP
 description: 
 published: true
-date: 2023-01-10T23:14:52.577Z
+date: 2023-02-27T07:33:52.558Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:12:07.954Z
