@@ -1,8 +1,8 @@
 ---
-title: Mobility EXtensions for IPv6 Wiki
+title: MEXT WG (Concluded) - Mobility EXtensions for IPv6
 description: 
 published: true
-date: 2023-01-21T04:30:21.710Z
+date: 2023-02-27T07:33:10.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T04:29:00.965Z
