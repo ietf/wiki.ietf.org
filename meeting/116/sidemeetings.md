@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-02-27T17:19:25.680Z
+date: 2023-02-27T17:19:51.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -87,7 +87,7 @@ Please sort the meeting by time if possible.
 
 ## FRIDAY 31 March
 
-| **Time** | **Room*+ | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
