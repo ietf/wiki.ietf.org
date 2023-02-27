@@ -2,7 +2,7 @@
 title: Milestone One Wiki
 description: 
 published: true
-date: 2023-02-27T02:53:25.864Z
+date: 2023-02-27T03:02:50.779Z
 tags: dmarc
 editor: markdown
 dateCreated: 2022-08-10T17:44:34.410Z
@@ -18,23 +18,23 @@ Current work is tracked in [MilestoneTwoWiki](/group/dmarc/MilestoneTwoWiki)
 ## List of known interoperability issues 
 
 * [Automatic aliasing](#aliasing) 
-  * [#mbox-fwding mailbox-level forwarding]
-  * [#sieve-fwding Sieve level forwarding]
-  * [#mua-fwding MUA forwarding]
-  * [#mta-fwding MTA forwarding]
-  * [#multi-fwd multi forwarding]
-* [#sieve-mod Sieve modification]
-* [#ml-mod Mailing lists]
-* [#unrelated-relay "Unrelated" relay]
-* [#commercial-freemail Use of freemail in commercial context]
-* [#send-this-article-to Newspaper sites and similar.]
-* [#mx-scanning MX gateway/scanning/backup services]
-* [#indirect-combo Combinations of indirect flows]
-* [#calendar-invite Calendar invites]
-* [#EAI EAI]
+  * [mailbox-level forwarding](#mbox-fwding)
+  * [Sieve level forwarding](#sieve-fwding)
+  * [MUA forwarding](#mua-fwding)
+  * [MTA forwarding](#mta-fwding)
+  * [ multi forwarding](#multi-fwd)
+* [Sieve modification](#sieve-mod)
+* [Mailing lists](#ml-mod)
+* [ "Unrelated" relay](#unrelated-relay)
+* [ Use of freemail in commercial context](#commercial-freemail)
+* [ Newspaper sites and similar.](#send-this-article-to)
+* [ MX gateway/scanning/backup services](#mx-scanning)
+* [ Combinations of indirect flows](#indirect-combo)
+* [ Calendar invites](#calendar-invite)
+* [EAI](#EAI)
 
 
-### <a id="aliasing"></a>Automatic aliasing (aka dot-forwarding)  #aliasing
+### <a id="aliasing"></a>Automatic aliasing (aka dot-forwarding)  
 
 <<Note:  This discussion should be cast in terms of RFC5598 language, such as aliasing.  /DCrocker>> 
 
@@ -44,15 +44,15 @@ Aliasing poses special challenges if the forwarder modifies the message, causing
 
 The implementation choice for performing aliasing can affect likely changes to the message:
 
-#### mailbox-level forwarding #mbox-fwding
+#### <a id="mbox-fwding"></a>mailbox-level forwarding 
 
 Automatic aliasing can occur at the level of the mailbox, making transparent forwarding possible (where no modifications are made to content of a message therefore increasing chance of DKIM passing).  This is what is most commonly referred to as "dot-forwarding".
 
-#### Sieve level forwarding #sieve-fwding
+#### <a id="sieve-fwding"></a>Sieve level forwarding 
 
 The Sieve action command 'redirect' can be used to forward/redirect mail. When message content is preserved this may have no influence on DKIM verification, but in general forwarding/redirection has impact on SPF verification.
  
-#### MUA forwarding #mua-fwding
+#### <a id="mua-fwding"></a>MUA forwarding 
 
 Some users forward email using their MUA, which almost always modifies the content of email (breaking DKIM).  Several different known forwarding "modes":
 
@@ -60,22 +60,22 @@ Some users forward email using their MUA, which almost always modifies the conte
 * '''Forward as attachment:''' Forward by placing content of to-be-forwarded message into an attachment.
 * '''Resend:''' Forward by resending a message.
 
-#### MTA forwarding #mta-fwding
+#### <a id="mta-fwding"></a>MTA forwarding 
 
 Some MTAs can be configured to forward email according to domain.  That is, if the recipient domain matches a forwarding rule, then the email is forwarding to the next configured hop.  MTAs that support this can sometimes be configured to forward in two distinct modes:
 
 * '''Forward without modification.'''  This is most similar to "dot-forwarding", except on a domain-wide basis.
 * '''Forward while rewriting message.'''  When this occurs, the message's domains are rewritten to reflect the new destination domain.  Although this behavior is more commonly seen in outbound email flows (eg, to make sure email coming from an acquisition's email domain reflects the new parent company), the same processing can be applied for inbound email.
 
-#### Presence of multiple automatic forwards  #multi-fwd
+#### <a id="multi-fwd"></a>Presence of multiple automatic forwards  
 
 It is possible to create a chain of automatic forwarding, further complicating the flow of email and increasing the likelihood of message modification (and DKIM breaking).
 
-### Sieve level modification of message header or content  #sieve-mod
+### <a id="sieve-mod"></a>Sieve level modification of message header or content  
 
 The Sieve 'addheader' and 'deleteheader' actions can be used to delete or replace headers, that were used to construct the DKIM-Signature h= tag value, including the RFC5322.From. The Sieve editheader extension [1] explicitly prescribes that implementations must support deleting and adding the RFC5322.Subject header, while DKIM [2] advises to sign the Subject field. The Sieve action 'replace' [3] can be used to replace a bodypart. All of these Sieve actions may invalidate the DKIM-Signature and as a result, may cause DMARC tests to fail.
 
-### Mailing lists #ml-mod
+### <a id="ml-mod"></a>Mailing lists 
 
 Mailing list management (MLM) software often alters header fields (typically adding list ID or serial numbers to the Subject field) or the body (typically adding unsubscribe information, which may be required by law in some cases).  These alterations usually invalidate the DKIM signature.  Furthermore in most cases the host providing the mailing list is not authorized under SPF by the Author domain.  Thus in the common case messages transmitted via a mailing list will fail From alignment.  In case of a p=reject DMARC policy at the Author Domain, all messages from users at that domain will be rejected by destination hosts participating in the DMARC protocol.
 
@@ -109,7 +109,7 @@ A difference between the concept of a mailing list and a group has been brought 
 
 The above distinctions may not be useful if the distinction is made due to how the functionality is presented to users.
 
-### Use of "unrelated" outbound SMTP servers  #unrelated-relay
+### <a id="unrelated-relay"></a>Use of "unrelated" outbound SMTP servers  
 
 ISP customers often send email using their ISP's outbound SMTP server using domains that have no relation to the ISP.  This might be due to access restriction that limit connectivity for SMTP to only the ISP's outbound SMTP server to legacy configuration settings being used/evolved by the customer (or both).
 
@@ -117,33 +117,33 @@ Newspaper mail-an-article services often send mail through the newspaper's serve
 
 [wiki:EmbeddedDevices Embedded devices send mail through whatever mail server they can use], often one on the same LAN that lets them send without authenticating.
 
-### Commercial email using free email address  #commercial-freemail
+### <a id="commercial-freemail"></a>Commercial email using free email address  
 
 An Email Service Provider can be hired to send email on behalf of a free email address, and that address might be associated with a DMARC reject policy.  This case may be expanded to include "ESP sends on behalf of a customer using a DMARC-protected domain where the domain is not under control of the customer".
 
-### Newspaper Sites #send-this-article-to
+### <a id="send-this-article-to"></a>Newspaper Sites 
 
 Quite a few sites, such as newspapers, will allow you to "send this to <whomever>" allowing one to enter 
 one's own email as the From: address.  This completely breaks any kind of sender alignment.
 
 
-### MX gateway/scanning/backup services #mx-scanning
+### <a id="mx-scanning"></a>MX gateway/scanning/backup services 
 
 Various services exist today based on inserting a service into the email flow by placing the service into a domain's MX record.  For example, anti-spam/malware service will commonly rewrite messages to either filter out malicious content or append a footer-based advertisement.  This modification breaks DKIM.
 
 Aside from modification due to anti-badness scanning, from the perspective of email receivers these services appear to be originating a large number of email domains.. all with broken DKIM signatures and failing SPF.
 
-### Combining indirect email flows  #indirect-combo
+### <a id="indirect-combo"></a>Combining indirect email flows  
 
 It is possible to combine indirect email flows.  For example, a university student may subscribe to a mailing list (with @*.EDU account) and then create a forwarding rule to webmail account after graduation.
 
-### Calendar invites #calendar-invite
+### <a id="calendar-invite"></a>Calendar invites 
 
 Using Microsoft Outlook desktop client and Microsoft Exchange when B forwards to C and invite sent by A the 5322.Mailfrom is A and 5322.Sender is B.
 
 B can add a comment, so it is a new message, and falls under the "send on the behalf of"
 
-### EAI  #EAI
+### <a id="EAI"></a>EAI  
 
 RFC6854 tolerates the group syntax during the transition period to SMTPUTF8. The case is an email forwarded from an EAI (SMTPUTF8) aware MTA to a non aware MTA. In that case the sending MTA may downgrade and transform the message to allow its transmission rather than reject it (such transformation is very likely to break DKIM too).
 
