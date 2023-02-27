@@ -2,7 +2,7 @@
 title: DMARC WG - Domain-based Message Authentication, Reporting & Conformance
 description: 
 published: true
-date: 2023-01-04T21:10:09.045Z
+date: 2023-02-27T03:45:03.121Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z
@@ -27,11 +27,18 @@ To meet these objectives, the WG will produce the following deliverables:
 
 Due to the ubiquitous nature of email and the size of email's installed base, the working group will divide its focus into 3 high level phases. The phases are intended to ease WG participation by area experts from across email's wide deployment base.
 
-**Phase 1 - Interop Issues:** The working group will initially focus on [discovery and documentation of DMARC interoperability issues regarding indirect email flows](MilestoneOneWiki) and possible solutions. This effort will provide shared data, operational experiences, and ideas that will inform the following phases.
+**Phase 1 - Interop Issues:** The working group will initially focus on [discovery and documentation of DMARC interoperability issues regarding indirect email flows](/group/dmarc/MilestoneOneWiki) and possible solutions. This effort will provide shared data, operational experiences, and ideas that will inform the following phases.
 
-**Phase 2 - Interop Improvements:** The second phase builds upon the output of phase 1 and will focus on [proposed specification changes that improve DMARC's interoperability with indirect email flows](MilestoneTwoWiki). Additionally the output of phase 1 as it pertains to the deployment and operation of DMARC will be captured in a draft Usage Guide.
+**Phase 2 - Interop Improvements:** The second phase builds upon the output of phase 1 and will focus on [proposed specification changes that improve DMARC's interoperability with indirect email flows](/group/dmarc/MilestoneTwoWiki). Additionally the output of phase 1 as it pertains to the deployment and operation of DMARC will be captured in a draft Usage Guide.
 
 **Phase 3 - DMARC Base:** The last phase will review and possibly refine the DMARC base specification, taking into account output from previous phases. The Usage Guide will also be finalized and published.
 
 The ordering of the WG's phases should not preclude participants from exploring and discussing "out of order" items. Participants should be aware, though, that the Chairs may ask for items to be captured using the WG's Issue Tracker to ensure items remain visible when the WG brings focus to the relevant topic.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2020-05-12. It was migrated from the old Trac wiki on 2023-02-26.*
