@@ -1,8 +1,8 @@
 ---
-title: CamelCase
+title: delete 
 description: 
 published: true
-date: 2023-01-04T22:49:47.350Z
+date: 2023-02-27T05:41:14.672Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T01:00:44.087Z
