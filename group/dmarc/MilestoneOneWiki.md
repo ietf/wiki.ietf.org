@@ -2,22 +2,22 @@
 title: Milestone One Wiki
 description: 
 published: true
-date: 2022-11-29T19:36:21.869Z
+date: 2023-02-27T02:53:25.864Z
 tags: dmarc
 editor: markdown
 dateCreated: 2022-08-10T17:44:34.410Z
 ---
 
 # Milestone One Wiki
-The deliverable for Milestone 1 is [https://trac.tools.ietf.org/html/draft-ietf-dmarc-interoperability documentation of all known interoperability issues with DMARC and indirect mail flows].
+The deliverable for Milestone 1 is [documentation of all known interoperability issues with DMARC and indirect mail flows](https://trac.tools.ietf.org/html/draft-ietf-dmarc-interoperability).
 
 **This documentation exercise is now complete. What remains of this page is for the archives.**
 
-Current work is tracked in MilestoneTwoWiki.
+Current work is tracked in [MilestoneTwoWiki](/group/dmarc/MilestoneTwoWiki)
 
 ## List of known interoperability issues 
 
-* [#aliasing Automatic aliasing]
+* [Automatic aliasing](#aliasing) 
   * [#mbox-fwding mailbox-level forwarding]
   * [#sieve-fwding Sieve level forwarding]
   * [#mua-fwding MUA forwarding]
@@ -34,7 +34,7 @@ Current work is tracked in MilestoneTwoWiki.
 * [#EAI EAI]
 
 
-### Automatic aliasing (aka dot-forwarding)  #aliasing
+### <a id="aliasing"></a>Automatic aliasing (aka dot-forwarding)  #aliasing
 
 <<Note:  This discussion should be cast in terms of RFC5598 language, such as aliasing.  /DCrocker>> 
 
@@ -176,3 +176,11 @@ Conclusion, as usual the postmaster will choose the solution best for its users 
 [1] https://tools.ietf.org/html/rfc5293
 [2] https://tools.ietf.org/html/rfc6376
 [3] https://tools.ietf.org/html/rfc5703 
+  
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+*The content of this page was last updated on 2016-06-14. It was migrated from the old Trac wiki on 2023-02-26.*  
