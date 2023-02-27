@@ -2,13 +2,13 @@
 title: 
 description: 
 published: true
-date: 2023-02-27T19:02:13.532Z
+date: 2023-02-27T19:06:07.330Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
 ---
 
-# IRSG Teleconference Minutes = 
+# IRSG Teleconference Minutes 
 
  * [2023-02-28](group/irtf/irsgminutes/2023-02-28)
  * [2023-01-31](group/irtf/irsgminutes/2023-01-31)
@@ -22,6 +22,6 @@ dateCreated: 2023-02-27T17:52:35.934Z
  * [2022-02-22](group/irtf/irsgminutes/2022-02-22)
  * [2022-01-25](group/irtf/irsgminutes/2022-01-25)
  * [2021-11-30](group/irtf/irsgminutes/2021-11-30)
- * [2021-10-26](/irsgminutes/2021-10-26)
- * [2021-09-28](/irtf/irsgminutes/2021-09-28)
- * [2021-08-31](/irtf/irsgminutes/2021-08-31)
+ * [2021-10-26](group/irtf/irsgminutes/2021-10-26)
+ * [2021-09-28](group/irtf/irsgminutes/2021-09-28)
+ * [2021-08-31](group/irtf/irsgminutes/2021-08-31)
