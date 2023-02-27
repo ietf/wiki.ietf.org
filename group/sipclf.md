@@ -1,8 +1,8 @@
 ---
-title: SIPCLF Wiki
+title: SIPCLF WG (Concluded) - SIP Common Log Format
 description: 
 published: true
-date: 2023-01-15T22:34:36.659Z
+date: 2023-02-27T18:50:12.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:34:31.513Z
