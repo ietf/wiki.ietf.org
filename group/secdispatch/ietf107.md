@@ -2,7 +2,7 @@
 title: IETF 107
 description: 
 published: true
-date: 2023-02-27T06:52:21.928Z
+date: 2023-02-27T06:53:01.290Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T06:52:21.928Z
@@ -56,11 +56,11 @@ dateCreated: 2023-02-27T06:52:21.928Z
 
 no mail
 
-    presenter: Kirsty Paine
-    time requested: ?
-    time allocated: 25'
-    objective: knowledge sharing with IETF on some of the places where cyber defence interacts with its work
-    specification: ​https://tools.ietf.org/html/draft-paine-smart-indicators-of-compromise-00 
+ -   presenter: Kirsty Paine
+ -   time requested: ?
+ -   time allocated: 25'
+ -   objective: knowledge sharing with IETF on some of the places where cyber defence interacts with its work
+ -   specification: https://tools.ietf.org/html/draft-paine-smart-indicators-of-compromise-00 
 
 ### 4. Adding SASL to HTTP
 
