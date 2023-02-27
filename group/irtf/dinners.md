@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-02-27T16:52:39.142Z
+date: 2023-02-27T17:15:11.253Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -13,7 +13,9 @@ dateCreated: 2023-02-27T16:52:39.142Z
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
 
 * IETF 116 Yokohama
- *
+  * Place TBD
+  * URL For Restaurant
+  * Wednesday, 29 March, 2023, Time TBD (after 116 Plenary)
 
 * IETF 115 London
   * Clarette, 44 Blandford Street, London, England W1U 7HS
