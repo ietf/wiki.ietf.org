@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-02-28T21:00:08.580Z
+date: 2023-02-28T22:39:20.485Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -169,7 +169,42 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [homenet *Home Networking*](/group/homenet)
 - [httpauth *Hypertext Transfer Protocol Authentication*](/group/httpauth)
 - [hybi *BiDirectional or Server-Initiated HTTP*](/group/hybi)
-
+- [i2rs *Interface to the Routing System*](/group/i2rs)
+- [idnabis *Internationalized Domain Names in Applications, Revised*](/group/idnabis)
+- [imapmove *IMAP MOVE extension*](/group/imapmove)
+- [iri *Internationalized Resource Identifiers*](/group/iri)
+- [its *Intelligent Transportation Systems*](/group/its)
+- [json *JavaScript Object Notation*](/group/json)
+- [l3sm *L3VPN Service Model*](/group/l3sm)
+- [lime *Layer Independent OAM Management in the Multi-Layer Environment](/group/lime)
+- [mext *Mobility EXTensions for IPv6*](/group/mext)
+- [mif *Multiple Interfaces*](/group/mif)
+- [mile *Managed Incident Lightweight Exchange*](/group/mile)
+- [mptcp *Multipath TCP*](/group/mptcp)
+- [multimob *Multicast Mobility*](/group/multimob)
+- [nea *Network Endpoint Assessment*](/group/nea)
+- [netlmm *Network-based Localized Mobility Management*](/group/netlmm)
+- [ospf *Open Shortest Path First*](/group/ospf)
+- [pcp *Port Control Protocol*](/group/pcp)
+- [pmol *Performance Metrics for Other Layers*](/group/pmol)
+- [precis *Preparation and Comparison of Internationalized Strings*](/group/precis)
+- [rai *Real-time Applications and Infrastructure Area*](/group/rai)
+- [repute *Reputation Services*](/group/repute)
+- [sacm *Security Automation and Continuous Monitoring*](/group/sacm)
+- [sidr *Secure Inter-Domain Routing*](/group/sidr)
+- [sieve *Sieve Mail Filtering Language*](/group/sieve)
+- [sipclf *SIP Common Log Format*](/group/sipclf)
+- [siprec *SIP Recording*](/group/siprec)
+- [slim *Selection of Language for Internet Media*](/group/slim)
+- [soc *SIP Overload Control*](/group/soc)
+- [stox *SIP-TO-XMPP*](/group/stox)
+- [sunset4 *Sunsetting IPv4*](/group/sunset4)
+- [trans *Public Notary Transparency*](/group/trans)
+- [tzdist *Time Zone Data Distribution Service*](/group/tzdist)
+- [urnbis *Uniform Resource Names, Revised*](/group/urnbis)
+- [vwrap *Virtual World Region Agent Protocol*](/group/vwrap)
+- [wpkops *Web PKI OPS*](/group/wpkops)
+- [yam *Yet Another Mail*](/group/yam)
 
 
 
