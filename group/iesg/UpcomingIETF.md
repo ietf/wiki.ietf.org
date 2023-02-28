@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-23T17:06:48.161Z
+date: 2023-02-28T18:49:55.166Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -43,14 +43,14 @@ Based on recent discussion there are two subtopics: a) the question about what's
 
 ## Saturday and Sunday, March 25 and 26, 2023
 
-**Code Sprint** - Saturday, March 25, 2023 - 10:00-18:00 - Room: TBD
+**Code Sprint** - Saturday, March 25, 2023 - 10:00-18:00 - Room: G416
 
 **Hackathon**
-  - Saturday, March 25, 2023 - 09:30-21:00 - Room: TBD
-  - Sunday, March 26, 2023 - 09:30-16:00 - Room: TBD
+  - Saturday, March 25, 2023 - 09:30-21:00 - Room: G3
+  - Sunday, March 26, 2023 - 09:30-16:00 - Room: G3
 
-**New Participant's Quick Connections** Sunday, March 26, 2023 - 16:00-17:00 - TBD
-**IETF 116 Welcome Reception** Sunday, March 26, 2023 - 17:00-19:00 - TBD
+**New Participant's Quick Connections** Sunday, March 26, 2023 - 16:00-17:00 - Room: G304
+**IETF 116 Welcome Reception** Sunday, March 26, 2023 - 17:00-19:00 - Room: G1/G2
 
 ### ~~Sunday~~ Saturday Night Social
 
@@ -60,19 +60,10 @@ What: probably a pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
 
 ## Sunday, March 26, 2023
 
-### IESG Only Meeting - Time: TBD Room: TBD
 
-Meetecho: TBD
-Onsite Tool: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: G301
 
-> 1. Welcome
-> 1. Updates
->    - RFC Editor
->    - IANA
-
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
-
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: G301
 Meetecho: TBD
 Onsite Tool: TBD
 
@@ -89,11 +80,20 @@ Onsite Tool: TBD
     > - TSV
     > - IAB
 
+### IESG Only Meeting - Time: 14:00-16:00 Room: G301
+
+Meetecho: TBD
+Onsite Tool: TBD
+
+> 1. Welcome
+> 1. Updates
+>    - RFC Editor
+>    - IANA
 
 ## Monday, March 27, 2023 
 
 
-### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: TBD
+### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: G301
 
 Meetecho: TBD
 Onsite Tool: TBD
@@ -103,12 +103,12 @@ Onsite Tool: TBD
 
 ## Tuesday, March 28, 2023
 
-No IESG breakfast. 
+No IESG breakfast. IAB has a breakfast meeting
   
 ## Wednesday, March 29, 2023
 
 
-### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: TBD
+### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: G301
 
 
 Meetecho: TBD
@@ -119,14 +119,14 @@ Onsite Tool: TBD
 > * Topic
 
 
-### IETF 116 Plenary TIME: 17:30-19:30 JST (UTC+9) Room: TBD
+### IETF 116 Plenary TIME: 17:30-19:30 JST (UTC+9) Room: G1/G2
 
 ## Thursday, March 30, 2023
 
-No IESG breakfast. 
+No IESG breakfast. IAB has a breakfast meeting
 
 ## Friday, March 31, 2023 
-### Joint IAB/IESG Lunch - Time: 13:30 Room: TBD
+### Joint IAB/IESG Lunch - Time: 13:30 Room: G301
 ### Joint IESG/IAB Meeting - Time: 14:00-15:30 JST (UTC+9)
 
 Meetecho: TBD
@@ -148,7 +148,7 @@ Onsite Tool: TBD
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: TBD 
+Location: G415 
 
 
 ## Sunday, 26 March 2023
