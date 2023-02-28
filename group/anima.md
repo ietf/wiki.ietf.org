@@ -2,7 +2,7 @@
 title: ANIMA WG - Autonomic Networking Integrated Model and Approach
 description: 
 published: true
-date: 2023-02-28T16:10:08.857Z
+date: 2023-02-28T16:38:11.372Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T04:32:38.935Z
@@ -41,7 +41,7 @@ Further details about the background to the design teams are at [Anima Design Te
     - Matthias currently reviewing
   - JWS-Voucher starting 2023-02-17.
     - editorial review on public github, https://github.com/anima-wg/anima-jws-voucher/pull/8
-  - BRSKI-AE starting 2023-03-03.
+  - BRSKI-AE starting 2023-03-15.
   - RFC8366bis (as last point to capture potential points from other voucher related drafts)
 
 ---
