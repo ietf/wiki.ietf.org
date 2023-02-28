@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-02-28T14:19:29.776Z
+date: 2023-02-28T14:21:17.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -14,7 +14,7 @@ dateCreated: 2023-02-19T10:40:12.870Z
 
 EODIR (earlier called EMODIR) seeks to coordinate outreach activities for the IETF undertaken by individuals and organizations. This wiki page will consolidate materials to help future outreach activities. 
 
-There are outreach activities can be divided based on:
+There are outreach activities can be defined based on following factors:
 - target audience 
 - anticipated level of IETF participation 
 	- knowledge sharing (how IETF works)
