@@ -2,7 +2,7 @@
 title: PCE WG's coordination tracker with other WG/RG
 description: 
 published: true
-date: 2023-02-28T01:38:28.755Z
+date: 2023-02-28T01:39:09.702Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-24T06:49:27.474Z
@@ -36,14 +36,13 @@ PCE documents for SR
 | Algo | draft-ietf-pce-sid-algo | - | - | - |
 | Path Segment | draft-ietf-pce-sr-path-segment | - | - | - |
 | IFIT | draft-ietf-pce-pcep-ifit | - | - | - |
+| SID verification | draft-chen-pce-sr-mpls-sid-verification| [RFC9256] describes the "SID verification" bit usage. | BGP SR-policy(https://tools.ietf.org/html/draft-ietf-idr-segment-routing-te-policy-11#page-26)  description vbit is carried in segment sub-tlv |  align with the extension of draft PCE-SRv6 and draft BGP SR-policy |
 
 Some individual I-D for future
 * draft-sidor-pce-circuit-style-pcep-extensions 
 * draft-yang-pce-pcep-redundancy-policy
 * draft-chen-pce-sr-mpls-sid-verification
-| Feature | PCE | SPRING | IDR | Remarks |
-|  ---    | --- | ---    | --- | ---     |
-| SID verification | draft-chen-pce-sr-mpls-sid-verification| [RFC9256] describes the "SID verification" bit usage. | BGP SR-policy(https://tools.ietf.org/html/draft-ietf-idr-segment-routing-te-policy-11#page-26)  description vbit is carried in segment sub-tlv |  align with the extension of draft PCE-SRv6 and draft BGP SR-policy |
+
 
 ## Multicast
 
