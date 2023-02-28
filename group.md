@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-02-28T20:40:18.705Z
+date: 2023-02-28T21:00:08.580Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -156,6 +156,24 @@ dateCreated: 2021-06-16T01:22:07.753Z
 {.links-list}
 
 # Concluded Working Groups
+- [app *Applications Area*](/group/app)
+- [appsawg *ART Area General Applications Working Group*](/group/appsawg)
+- [behave *Behavior Engineering for Hindrance Avoidance*](/group/behave)
+- [calsify *Calendaring and Scheduling Standards Simplification*](/group/calsify)
+- [codec *Internet Wideband Audio Codec*](/group/codec)
+- [dbound *Domain Boundaries*](/group/dbound)
+- [dnsext *DNS Extensions*](/group/dnsext)
+- [e2md *E. 164 to Metadata*](/group/e2md)
+- [eman *Energy Management*](/group/eman)
+- [geopriv *Geographic Location/Privacy*](/group/geopriv)
+- [homenet *Home Networking*](/group/homenet)
+- [httpauth *Hypertext Transfer Protocol Authentication*](/group/httpauth)
+- [hybi *BiDirectional or Server-Initiated HTTP*](/group/hybi)
+
+
+
+
+{.links-list}
 
 # IAB Groups
 
