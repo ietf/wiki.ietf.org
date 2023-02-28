@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-02-28T14:23:22.778Z
+date: 2023-02-28T14:24:39.280Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -44,7 +44,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|March 2023|[APRICOT 2023](https://2023.apricot.net/program/schedule/#/day/10)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody & Paresh Khatri|Sharing the latest development at IETF 115 and urging participation in the IETF 116 meeting in the region [Link](https://docs.google.com/presentation/d/1W0KrE_9yK7BTAcrwooTUX2VJ_mbnyIowAeMRGOWUEj8/edit?usp=sharing)[Blog](https://blog.apnic.net/2023/02/27/ietf-roundup-for-the-apnic-community/)|
+|March 2023|[APRICOT 2023](https://2023.apricot.net/program/schedule/#/day/10)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody & Paresh Khatri|Sharing the latest development at IETF 115 and urging participation in the IETF 116 meeting in the region [Link](https://docs.google.com/presentation/d/1W0KrE_9yK7BTAcrwooTUX2VJ_mbnyIowAeMRGOWUEj8/edit?usp=sharing) [Blog](https://blog.apnic.net/2023/02/27/ietf-roundup-for-the-apnic-community/)|
 |Feb 2023|Cisco Live|Engineers|*all levels*|Éric Vyncke|Making the Internet a better place by participating in IETF; Link-TBD|
 |Sept 2022|[APNIC55](https://conference.apnic.net/54/program/schedule/#/day/7/apnic-technical-session-4)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|Introduction to IETF, IETF participation in the region, and sharing the latest development at IETF 114 [Link](https://conference.apnic.net/54/assets/files/APSG129/ietfroundupforapnic5_1663123974.pdf)|
 |Aug 2022|[APIGA2022](https://community.icann.org/display/GSEAPAC/APIGA+2022+Program)|Students|knowledge sharing|Dhruv Dhody|Sharing about IETF's way of working in a multi-stakeholder environment [Link](https://docs.google.com/presentation/d/1l7AdC9qTRcyh4Dv9AdvGZMB9Nqqp-8JweR7LCOyGnK8/edit?usp=sharing)|
