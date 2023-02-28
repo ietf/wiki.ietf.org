@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-02-28T13:59:26.285Z
+date: 2023-02-28T14:19:29.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -19,7 +19,6 @@ There are outreach activities can be divided based on:
 - anticipated level of IETF participation 
 	- knowledge sharing (how IETF works)
   - supporter
-  - reviewer
   - coordination
   - full (sustained) participation 
 - responsible organization
@@ -48,7 +47,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |Feb 2023|Cisco Live|Engineers|*all levels*|Éric Vyncke|Making the Internet a better place by participating in IETF; Link-TBD|
 |Sept 2022|[APNIC55](https://conference.apnic.net/54/program/schedule/#/day/7/apnic-technical-session-4)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|Introduction to IETF, IETF participation in the region, and sharing the latest development at IETF 114 [Link](https://conference.apnic.net/54/assets/files/APSG129/ietfroundupforapnic5_1663123974.pdf)|
 |Aug 2022|[APIGA2022](https://community.icann.org/display/GSEAPAC/APIGA+2022+Program)|Students|knowledge sharing|Dhruv Dhody|Sharing about IETF's way of working in a multi-stakeholder environment [Link](https://docs.google.com/presentation/d/1l7AdC9qTRcyh4Dv9AdvGZMB9Nqqp-8JweR7LCOyGnK8/edit?usp=sharing)|
-|July 2022|[SANOG38](https://www.sanog.org/sanog38/program.html)|Network Operators in South Asia|reviewer|Dhruv Dhody|Why operator participation from the region is low [Link](https://www.sanog.org/resources/sanog38/SANOG38_Conference-Dhruv_IETF.pdf)|
+|July 2022|[SANOG38](https://www.sanog.org/sanog38/program.html)|Network Operators in South Asia|full participation|Dhruv Dhody|Why operator participation from the region is low [Link](https://www.sanog.org/resources/sanog38/SANOG38_Conference-Dhruv_IETF.pdf)|
 |Nov 2013|University Outreach Programme around IETF 87|Students|full participation|ISOC|[Link](https://www.ietf.org/blog/piloting-university-outreach-programme/)|
 
 
