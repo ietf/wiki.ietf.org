@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-02-28T14:22:46.079Z
+date: 2023-02-28T14:23:22.778Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -24,7 +24,7 @@ There are outreach activities can be defined based on the following factors:
 - responsible organization
 
 Some examples of outreach activities are listed in the table below 
-*This is a non-exhaustive list, under development, open for discussion.*
+*This is a non-exhaustive list, under development, and open for discussion.*
 |Outreach|Target Audience|Participation|Responsible Organisation|Example|
 |---|---|---|---|---|
 |Policy|Policy Makers, Regulators, Government folks, Civil Society|supporter|ISOC|IETF115 - ISOC, DCMS, CDT|
