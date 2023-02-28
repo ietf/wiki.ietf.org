@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-02-28T03:23:28.116Z
+date: 2023-02-28T20:40:18.705Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -62,7 +62,18 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [pim *Protocols for IP Multicast*](/group/pim)
 - [regext *Registration Protocols Extensions*](/group/regext)
 - [rift *Routing In Fat Trees*](/group/rift)
+- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
+- [roll *Routing Over Low power and Lossy networks*](/group/roll)
+- [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
+- [rtgwg *Routing Area Working Group*](/group/rtgwg)
+- [secdispatch *Security Dispatch*](/group/secdispatch)
+- [sipcore *Session Initiation Protocol Core*](/group/sipcore)
 - [spring *Source Packet Routing in Networking*](/group/spring)
+- [suit *Software Updates for Internet of Things*](/group/suit)
+- [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
+- [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
+- [tls *Transport Layer Security*](/group/tls)
+- [uta *Using TLS in Applications*](/group/uta)
 {.links-list}
 
 ## By Area
@@ -73,6 +84,9 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
 - [httpbis *HTTP*](/group/httpbis)
 - [regext *Registration Protocols Extensions*](/group/regext)
+- [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
+- [sipcore *Session Initiation Protocol Core*](/group/sipcore)
+- [uta *Using TLS in Applications*](/group/uta)
 {.links-list}
 ### GEN
 
@@ -85,6 +99,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [lpwan *IPv6 over Low Power Wide-Area Networks*](/group/lpwan)
 - [lwig *Light-Weight Implementation Guidance*](/group/lwig)
 - [ntp *Network Time Protocols*](/group/ntp)
+- [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
 {.links-list}
 
 ### IRTF
@@ -114,8 +129,12 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [pce *Path Computation Element*](/group/pce)
 - [pim *Protocols for IP Multicast*](/group/pim)
 - [rift *Routing In Fat Trees*](/group/rift)
+- [roll *Routing Over Low power and Lossy networks*](/group/roll)
+- [rtgwg *Routing Area Working Group*](/group/rtgwg)
 - [spring *Source Packet Routing in Networking*](/group/spring)
+- [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
 {.links-list}
+
 ### SEC
 - [ace *Authentication and Authorization for Constrained Environments*](/group/ace)
 - [dots *DDoS Open Threat Signaling*](/group/dots)
@@ -123,11 +142,17 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [ipsecme *IP Security Maintenance and Extensions*](/group/ipsecme)
 - [jose *Javascript Object Signing and Encryption*](/group/jose)
 - [oauth *Web Authorization Protocol*](/group/oauth)
+- [secdispatch *Security Dispatch*](/group/secdispatch)
+- [suit *Software Updates for Internet of Things*](/group/suit)
+- [tls *Transport Layer Security*](/group/tls)
 {.links-list}
+
 ### TSV
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
 - [ippm *IP Performance Measurement*](/group/ippm)
+- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
+
 {.links-list}
 
 # Concluded Working Groups
