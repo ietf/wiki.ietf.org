@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-01-13T02:22:28.000Z
+date: 2023-03-01T09:40:06.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -12,35 +12,103 @@ dateCreated: 2022-11-05T16:35:42.289Z
 
 ## Description of BIER working group
 
-In conventional IP multicast forwarding, the packets of a given multicast "flow" are forwarded along a tree that has been constructed for the specific purpose of carrying that flow. This requires transit nodes to maintain state on a per-flow basis, and requires the transit nodes to participate in multicast-specific tree building protocols. The flow to which a packet belongs is determined by its IP source and destination address fields.
+The BIER (Bit Index Explicit Replication) Working Group has defined
+an architecture [RFC 8279] for multicast forwarding that uses an
+encapsulation [RFC 8296] that can be used on MPLS or Ethernet transport.
+The BIER-WG is now chartered to produce Standards Track RFCs, including
+the status update for RFCs 8279 and 8296.
 
-BIER (Bit Index Explicit Replication) is an alternative method of multicast forwarding. It does not require any multicast-specific trees, and hence does not require any multicast-specific tree building protocols. Within a given "BIER domain", an ingress node encapsulates a multicast data packet in a "BIER header". The BIER header identifies the packet's egress nodes in that domain. Each possible egress node is represented by a a single bit within a bitstring; to send a packet to a particular set of egress nodes, the ingress node sets the bits for each of those egress nodes, and clears the other bits in the bistring. Each packet can then be forwarded along the unicast shortest path tree from the ingress node to the egress nodes. Thus there are no per-flow forwarding entries.
+The BIER working group's original charter required the publication of an
+Informational RFC describing the benefits, problems, and trade-offs for
+using BIER instead of traditional multicast forwarding mechanisms as well
+as an analysis of the impact and benefit of the BIER data-plane to the
+overall Internet architecture. The WG did not produce this RFC, but the
+goals of that milestone have nevertheless been reached; i.e., the industry
+has demonstrated interest in deploying BIER and the trade-offs are now well
+understood. Therefore, BIER is proceeding with work on the Standards Track.
 
 ## Charters of BIER working group
 
- -   **BIER Architecture**
- -   **BIER encapsulation**
-     -   **BIER MPLS-based encapsulation**
-     -   **BIER non-MPLS encapsulation** 
- -   **Transition Mechanisms**
- -   **Applicability Statements**
- -   **BIER Usecases**
- -   **Manageability and OAM**
- -   **Management models**
- -   **IGP extensions**
- -   **Deployment Evaluation:** Once there is deployment experience, the WG will produce an Informational RFC describing the benefits, problems, and trade-offs for using BIER instead of traditional multicast forwarding mechanisms. Ideally, this should also contain an analysis of the impact and benefit of the new BIER data-plane to the overall Internet architecture. This document is intended to be used to evaluate whether to recharter BIER to produce Standards Track RFCs. 
+The focus of the BIER-WG is on deployment: transition, partial deployments,
+applicability and management.
+
+First and primarily, the BIER-WG will complete its work on:
+
+1) Transition Mechanisms and Partial Deployments: The WG will
+describe how BIER can be introduced in existing multicast
+networks to shift multicast delivery, either end-to-end or in part
+of a network, from mechanisms such as PIM, ng-MVPN, etc. BIER
+operation in networks where not all routers are BIER capable
+or have other BIER support constraints should be addressed. How
+to handle routers supporting BIER with different BitStringLengths
+and encapsulations should be addressed. Each new mechanism should
+include an applicability statement that clearly describes its
+utility and distinctions from already standardized mechanisms.
+
+2) Applicability Statements: The WG will continue to work on
+documents describing how BIER can be applied, as has been done
+for MVPN in draft-ietf-bier-mvpn. A document describing
+applicability to EVPN should be published.
+
+3) Use Case: The WG will produce one use-case document that clearly
+articulates the potential benefits of BIER for different use-cases.
+
+4) Manageability and OAM: The WG will describe how OAM will work in
+a BIER domain and what simplifications BIER offers for managing the
+multicast traffic. A strong preference will be given to extensions to
+existing protocols.
+
+5) Management models: The WG will work on YANG models to manage BIER.
+
+6) Link-State Routing and BGP extensions: The BIER-WG has already
+defined the basic information needed to set up the BIER
+forwarding tables via advertisements in OSPFv2 and ISIS; the
+extensions to OSPFv3 will be specified. Additional extensions
+may be needed - for example, to support constraining the topology
+on which a particular BIER sub-domain operates. Any necessary extensions
+to the IGP will be specified by the WG as Standards Track, in
+cooperation with the LSR WG. The BIER-WG shall also specify the
+extensions to support BIER for BGP when used as an IGP (see RFC
+7938) and to provide BIER-specific information in BGP-LS, in
+cooperation with IDR.
+
+The BIER-WG is additionally chartered to start Standards Track work on:
+7) BIER in IPv6 : A mechanism to use BIER natively in IPv6 may be
+standardized if coordinated with the 6MAN WG and with understood
+applicability.
+8) Forwarding Plane Mechanisms for BIER Traffic Engineering: definition of
+how the new BIER forwarding plane structures (e.g. BIFT) can be used to
+support engineered multicast trees. No control-plane work will be
+done in BIER-WG.
+
+The BIER-WG will serve as a forum to discuss how BIER can be applied.
+The BIER-WG will coordinate and collaborate with other WGs as needed. Specific
+expected interactions include:
+* mpls on the associated MPLS-based OAM mechanisms,
+* lsr on OSPF and ISIS extensions to flood BIER-related information,
+* babel on Babel extensions to support BIER,
+* bess and idr on BGP extensions to flood BIER-related information and the
+applicability of existing BGP-based mechanisms for providing multicast group
+membership information,
+* pim and mboned on the applicability of and extensions to PIM, IGMP, and MLD to
+support BIER operations and transition,
+* pce on extensions to program BIER forwarding on the BFIRs,and
+* teas on architecture and control-plane mechanisms to use BIER-TE forwarding mechanisms. 
+
+## Current Published RFC
+
+[BIER Architecture](https://datatracker.ietf.org/doc/rfc8279/) -- BIER Architecture
+[BIER MPLS and non-MPLS encapsulation](https://datatracker.ietf.org/doc/rfc8296/) -- BIER MPLS and non-MPLS encapsulation
+[BIER ISIS extensions](https://datatracker.ietf.org/doc/rfc8401/) -- BIER ISIS extensions
+[BIER OSPF extensions](https://datatracker.ietf.org/doc/rfc8444/) -- BIER OSPF extensions
+[BIER MVPN](https://datatracker.ietf.org/doc/rfc8556/) -- BIER MVPN
+[BIER TE Architecture](https://datatracker.ietf.org/doc/rfc9262/) -- BIER TE Architecture
+[BIER BAR IPA](https://datatracker.ietf.org/doc/rfc9272/) -- BIER BAR IPA
 
 ## Current Proposals
 
-[BIER Architecture](http://tools.ietf.org/wg/bier/draft-ietf-bier-architecture/) -- BIER Architecture
-[BIER MPLS-based encapsulation](http://tools.ietf.org/wg/bier/draft-ietf-bier-mpls-encapsulation/) -- BIER MPLS-based encapsulation
 [BIER Usecases](http://tools.ietf.org/wg/bier/draft-ietf-bier-use-cases/) -- BIER Usecase
-[BIER ISIS extensions](http://tools.ietf.org/wg/bier/draft-ietf-bier-isis-extensions/) -- BIER ISIS extensions
-[BIER OSPF extensions](http://tools.ietf.org/wg/bier/draft-ietf-bier-ospf-bier-extensions/) -- BIER OSPF extensions
 [BIER OAM requirements](http://tools.ietf.org/wg/bier/draft-ietf-bier-oam-requirements/) -- BIER OAM requirements
-[BIER MVPN](https://tools.ietf.org/wg/bier/draft-ietf-bier-mvpn/) -- BIER MVPN
-[BIER TE Architecture](http://tools.ietf.org/id/draft-eckert-bier-te-arch-03.txt/) -- BIER TE Architecture
-[BIER non-MPLS encapsulation](http://tools.ietf.org/id/draft-wang-bier-ethernet-01.txt/) -- BIER non-MPLS encapsulation
 [BIER YANG](http://tools.ietf.org/id/draft-chh-bier-bier-yang-03.txt/) -- BIER YANG
 [BIER TE YANG](https://tools.ietf.org/id/draft-zhang-bier-te-yang-01.txt/) -- BIER TE YANG 
 
