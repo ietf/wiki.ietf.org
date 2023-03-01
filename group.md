@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-02-28T22:39:20.485Z
+date: 2023-03-01T00:02:41.823Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -21,6 +21,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 ## Alphabetical
 - [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
 - [6man *IPv6 Maintenance*](/group/6man)
+- [6tisch *IPv6 over the TSCH mode of IEEE 802.15.4e*](/group/6tisch)
 - [ace *Authentication and Authorization for Constrained Environments*](/group/ace)
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [anima *Autonomic Networking Integrated Model and Approach*](/group/anima)
@@ -29,6 +30,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bier *Bit Indexed Explicit Replication*](/group/bier)
 - [ccamp *Common Control and Measurement Plane*](/group/ccamp)
 - [cfrg *Crypto Forum*](/group/cfrg)
+- [coinrg *Computing in the Network*](/group/coinrg)
 - [core *Constrained RESTful Environments*](/group/core)
 - [dhc *Dynamic Host Configuration*](/group/dhc)
 - [dime *Diameter Maintenance and Extensions*](/group/dime)
@@ -44,6 +46,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [gaia *Global Access to the Internet for All*](/group/gaia)
 - [httpbis *HTTP*](/group/httpbis)
 - [i2nsf *Interface to Network Security Functions*](/group/i2nsf)
+- [icnrg *Information-Centric Networking*](/group/icnrg)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [ippm *IP Performance Measurement*](/group/ippm)
 - [ipsecme *IP Security Maintenance and Extensions*](/group/ipsecme)
@@ -51,15 +54,20 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [lisp *Locator/ID Separation Protocol*](/group/lisp)
 - [lpwan *IPv6 over Low Power Wide-Area Networks*](/group/lpwan)
 - [lwig *Light-Weight Implementation Guidance*](/group/lwig)
+- [maprg *Measurement and Analysis for Protocols*](/group/maprg)
 - [mpls *Multiprotocol Label Switching*](/group/mpls)
 - [netconf *Network Configuration*](/group/netconf)
 - [netmod *Network Modeling*](/group/netmod)
 - [nmrg *Network Management*](/group/nmrg)
 - [ntp *Network Time Protocols*](/group/ntp)
 - [nvo3 *Network Visualization Overlays*](/group/nvo3)
+- [nwcrg *Network Coding*](/group/nwcrg)
 - [oauth *Web Authorization Protocol*](/group/oauth)
 - [pce *Path Computation Element*](/group/pce)
+- [pearg *Privacy Enhancements and Assessments Research Group*](/group/pearg)
 - [pim *Protocols for IP Multicast*](/group/pim)
+- [qirg *Quantum Internet Research Group*](/group/qirg)
+- [quic *QUIC*](/group/quic)
 - [regext *Registration Protocols Extensions*](/group/regext)
 - [rift *Routing In Fat Trees*](/group/rift)
 - [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
@@ -69,6 +77,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [secdispatch *Security Dispatch*](/group/secdispatch)
 - [sipcore *Session Initiation Protocol Core*](/group/sipcore)
 - [spring *Source Packet Routing in Networking*](/group/spring)
+- [stir *Secure Telephone Identity Revisited*](/group/stir)
 - [suit *Software Updates for Internet of Things*](/group/suit)
 - [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
 - [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
@@ -86,6 +95,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [regext *Registration Protocols Extensions*](/group/regext)
 - [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
 - [sipcore *Session Initiation Protocol Core*](/group/sipcore)
+- [stir *Secure Telephone Identity Revisited*](/group/stir)
 - [uta *Using TLS in Applications*](/group/uta)
 {.links-list}
 ### GEN
@@ -93,6 +103,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 ### INT
 - [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
 - [6man *IPv6 Maintenance*](/group/6man)
+- [6tisch *IPv6 over the TSCH mode of IEEE 802.15.4e*](/group/6tisch)
 - [dhc *Dynamic Host Configuration*](/group/dhc)
 - [dnssd *Extensions for Scalable DNS Service Discovery*](/group/dnssd)
 - [dprive *DNS PRIVate Exchange*](/group/dprive)
@@ -104,9 +115,15 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ### IRTF
 - [cfrg *Crypto Forum*](/group/cfrg)
+- [coinrg *Computing in the Network*](/group/coinrg)
 - [dinrg *Decentralized Internet Infrastructure*](/group/dinrg)
+- [icnrg *Information-Centric Networking*](/group/icnrg)
 - [gaia *Global Access to the Internet for All*](/group/gaia)
+- [maprg *Measurement and Analysis for Protocols*](/group/maprg)
 - [nmrg *Network Management*](/group/nmrg)
+- [nwcrg *Network Coding*](/group/nwcrg)
+- [pearg *Privacy Enhancements and Assessments Research Group*](/group/pearg)
+- [qirg *Quantum Internet Research Group*](/group/qirg)
 {.links-list}
 
 ### OPS
@@ -151,6 +168,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
 - [ippm *IP Performance Measurement*](/group/ippm)
+- [quic *QUIC*](/group/quic)
 - [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
 
 {.links-list}
@@ -160,10 +178,12 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [appsawg *ART Area General Applications Working Group*](/group/appsawg)
 - [behave *Behavior Engineering for Hindrance Avoidance*](/group/behave)
 - [calsify *Calendaring and Scheduling Standards Simplification*](/group/calsify)
+- [clue *ControLling mUltiple streams for tElepresence*](/group/clue)
 - [codec *Internet Wideband Audio Codec*](/group/codec)
 - [dbound *Domain Boundaries*](/group/dbound)
 - [dnsext *DNS Extensions*](/group/dnsext)
 - [e2md *E. 164 to Metadata*](/group/e2md)
+- [eai *Email Address Internationalization*](/group/eai)
 - [eman *Energy Management*](/group/eman)
 - [geopriv *Geographic Location/Privacy*](/group/geopriv)
 - [homenet *Home Networking*](/group/homenet)
@@ -248,13 +268,17 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 ### SEC
 
 ### TSV
-- [alto *Application-Layer Traffic Optimization*](/group/alto)
+
 {.links-list}
 
 # Area Specific
-- [Int *Internet Area Wiki*](/group/iesg/int)
-- [Ops *Operations Area Wiki*](/group/iesg/ops)
+- [art *Applications and Real-Time Area*](/group/art)
+- [gen *General Area*](/group/gen)
+- [int *Internet Area Wiki*](/group/iesg/int)
+- [ops *Operations Area Wiki*](/group/iesg/ops)
+- [rtg *Routing Area*](/group/rtg)
 - [sec *Security Area Wiki*](/group/secdir)
+- [tsv *Transport Area*](/group/tsv)
 {.links-list}
 
 # Teams
