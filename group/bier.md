@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-01T09:40:32.739Z
+date: 2023-03-01T09:41:42.158Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -12,11 +12,8 @@ dateCreated: 2022-11-05T16:35:42.289Z
 
 ## Description of BIER working group
 
-The BIER (Bit Index Explicit Replication) Working Group has defined
-an architecture [RFC 8279] for multicast forwarding that uses an
-encapsulation [RFC 8296] that can be used on MPLS or Ethernet transport.
-The BIER-WG is now chartered to produce Standards Track RFCs, including
-the status update for RFCs 8279 and 8296.
+The BIER (Bit Index Explicit Replication) Working Group has defined an architecture [RFC 8279] for multicast forwarding that uses an encapsulation [RFC 8296] that can be used on MPLS or Ethernet transport.
+The BIER-WG is now chartered to produce Standards Track RFCs, including the status update for RFCs 8279 and 8296.
 
 The BIER working group's original charter required the publication of an
 Informational RFC describing the benefits, problems, and trade-offs for
