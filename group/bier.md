@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-02T08:31:56.148Z
+date: 2023-03-02T09:40:29.047Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -53,6 +53,7 @@ expected interactions include:
 
 [BIER Architecture](https://datatracker.ietf.org/doc/rfc8279/) -- BIER Architecture
 [BIER MPLS and non-MPLS encapsulation](https://datatracker.ietf.org/doc/rfc8296/) -- BIER MPLS and non-MPLS encapsulation
+[BIER Problem Statement](https://datatracker.ietf.org/doc/draft-ietf-bier-problem-statement/) -- BIER Problem Statement for reference
 [BIER ISIS extensions](https://datatracker.ietf.org/doc/rfc8401/) -- BIER ISIS extensions
 [BIER OSPF extensions](https://datatracker.ietf.org/doc/rfc8444/) -- BIER OSPF extensions
 [BIER MVPN](https://datatracker.ietf.org/doc/rfc8556/) -- BIER MVPN
@@ -60,6 +61,22 @@ expected interactions include:
 [BIER BAR IPA](https://datatracker.ietf.org/doc/rfc9272/) -- BIER BAR IPA
 
 ## Current Proposals
+
+### 1.WG drafts in IESG
+[BIER OSPFv3 extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-ospfv3-extensions/) -- BIER OSPFv3 extensions. State: AD Evaluation::AD Followup
+
+### 2.WG drafts in WGLC
+[BIER BGP-LS extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-bgp-ls-bier-ext/) -- BIER BGP-LS extensions, Shepherd assigned: Gyan Mishra. Shepherd review done.
+[BIER IDR extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-idr-extensions/) -- BIER IDR extensions, Shepherd assigned: Ran Chen. Shepherd review done. The first WGLC finished. ***Needs second WGLC.***
+[BIER PHP](https://datatracker.ietf.org/doc/draft-ietf-bier-php/) -- BIER PHP. Shepherd assigned: Xiao Min.
+
+### 3.Documents requested by authors for WG Last Call
+
+### 4.Documents requested by authors for WG adoption
+
+### 5.Other WG Documents
+[BIER HTTP](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-http-response/) -- BIER HTTP, suspended. Authors requested a new thread which is not in BIER WG: https://datatracker.ietf.org/doc/draft-trossen-rtgwg-frrm/
+
 
 [BIER Usecases](http://tools.ietf.org/wg/bier/draft-ietf-bier-use-cases/) -- BIER Usecase
 [BIER OAM requirements](http://tools.ietf.org/wg/bier/draft-ietf-bier-oam-requirements/) -- BIER OAM requirements
