@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2023-03-02T20:04:57.871Z
+date: 2023-03-02T20:05:18.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -28,7 +28,7 @@ Wikis are used by participants to share information about and coordinate around 
 #### IETF 117 San Francisco
 **July 15-21, 2023** - San Francisco, CA, USA :us:
 - [IETF 117 Meeting Wiki](/meeting/117)
-- [IETF 117 Side meetings](/meeting/117/sidemeetings)
+- IETF 117 Side meetings
 - [IETF 117 Hackathon](/meeting/117/hackathon)
 {.links-list}
 
