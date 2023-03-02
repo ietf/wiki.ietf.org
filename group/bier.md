@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-02T09:40:29.047Z
+date: 2023-03-02T09:41:09.752Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -83,24 +83,6 @@ expected interactions include:
 [BIER YANG](http://tools.ietf.org/id/draft-chh-bier-bier-yang-03.txt/) -- BIER YANG
 [BIER TE YANG](https://tools.ietf.org/id/draft-zhang-bier-te-yang-01.txt/) -- BIER TE YANG 
 
-## Open Issue 1: BIER Ethernet
-
-BIER Ethernet provides a non-MPLS encapsulation for BIER forwarding, which holds all BIER forwarding related information in the BIER header, including subdomain-id/BSL/Set ID information, and just let MPLS as an independent layer protocol to help BIER forwarding.
-
-Currently, there are many concerns about BIER Ethernet, and working group need us focus on some usecases using BIER Ethernet first, hence here BIER Ethernet in Virtualization Data Center Usecase is illustrated to attract people's interest. Of course, more usecases are solicited from everyone who are interested in using BIER Ethernet and would like to do some contributions to BIER Ethernet.
-
-You are welcomed to contribute to this item.
-
- - **Usecase 1: BIER Ethernet in virtualization Data Center**
-    For multicast service in current Data Center, ingress replication using multiple end-to-end IP tunnels is widely used. It is really not an optimal forwarding for multicast packets. Hence, BIER can definitely be introduced in Data Center to provide the optimal multicast forwarding. Furthermore, BIER Ethernet can provide the clean cut design for the underlay ASIC switches. Then the newly designed switches can optimally forward multicast traffic according to the information directly in the BIER header.
-
- - **Usecase 2: BIER Ethernet in Service Provider**
-
-	For multicast service in Service Provider network, it is really tough procedures to explicitly built multicast distribution trees and maintain per-flow state in intermediate routers. Hence, BIER Ethernet, acting as 2.5 multicast solution, can take advantage of underlay network to fulfil multicast service instead of current multicast solution in Service Provider network.
-
- - **Usecase 3: Solicit your contribution** 
-
- - **Usecase 4: Solicit your contribution ......** 
 
 ## TO DO List
 
