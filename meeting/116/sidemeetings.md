@@ -2,13 +2,13 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: false
-date: 2023-03-02T20:00:45.542Z
+date: 2023-03-02T20:01:08.320Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
 ---
 
-# This page is not yet available! Signups will begin on Friday 3 March, 2023.
+This page is not yet available! Signups will begin on Friday 3 March, 2023.
 {.is-danger}
 
 
