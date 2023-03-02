@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-02T22:23:57.368Z
+date: 2023-03-02T22:25:59.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -63,7 +63,7 @@ For remote participation: Please arrange your own conferencing service and put t
 
 Please sort the meeting by time if possible.
 
-## MONDAY 27 March
+## [MONDAY 27 March](#monday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -77,21 +77,21 @@ Please sort the meeting by time if possible.
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
-## WEDNESDAY 29 March
+## [WEDNESDAY 29 March](#wednesday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
-## THURSDAY 30 March
+## [THURSDAY 30 March](#thursday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
-## FRIDAY 31 March
+## [FRIDAY 31 March](#friday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -115,7 +115,7 @@ Location: Third Floor
 
 
 
-## MONDAY 27 March {#Monday}
+## <a id="monday"></a>MONDAY 27 March {#Monday}
 
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------| 
@@ -182,7 +182,7 @@ Location: Third Floor
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
 
-# Wednesday 29 March {#Wednesday}
+# <a id="wednesday"></a>Wednesday 29 March {#Wednesday}
 
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------| 
@@ -212,7 +212,7 @@ Location: Third Floor
 | 19:30 |                  |                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
-# Thursday 20 March {#Thursday}
+# <a id="thursday"></a>Thursday 20 March {#Thursday}
 
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------|
@@ -242,7 +242,7 @@ Location: Third Floor
 | 19:30 |                  |                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
-# Friday 31 March {#Friday}
+# <a id="friday"></a>Friday 31 March {#Friday}
 
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------| 
