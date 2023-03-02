@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-02T22:31:23.813Z
+date: 2023-03-02T22:41:10.604Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -68,7 +68,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|          |          |                  |          |             |                         |                       |          |
+| 18:30-19:30         |   G301       |     emodir-TBD             |      emodir    |        emodir     |                         |                       |          |
 {.dense}
 
 ## [WEDNESDAY 29 March](#wednesday)
@@ -89,7 +89,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|          |          |                  |          |             |                         |                       |          |
+|   8:30-9:30       |    G301      |       emodir-TBD           |      emodir   |      emodir       |                         |                       |          |
 {.dense}
 
 # Step Two: Room Reservation
@@ -170,9 +170,9 @@ Location: Third Floor
 | 17:00 |                  |                  |  
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
-| 18:30 |                  |                  | 
-| 19:00 |                  |                  |  
-| 19:30 |                  |                  | 
+| 18:30 |                  |       Emodir           | 
+| 19:00 |                  |       Emodir         |  
+| 19:30 |                  |       Emodir           | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
@@ -243,9 +243,9 @@ Location: Third Floor
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:30 |                  |                  | 
-| 09:00 |                  |                  |   
-| 09:30 |                  |                  |  
+| 08:30 |                  |   emodir         | 
+| 09:00 |                  |   emodir               |   
+| 09:30 |                  |   emodir               |  
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
 | 11:00 |                  |                  |  
