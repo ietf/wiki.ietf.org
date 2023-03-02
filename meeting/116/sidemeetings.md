@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-02T22:28:06.391Z
+date: 2023-03-02T22:29:35.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -103,12 +103,12 @@ Please sort the meeting by time if possible.
 
 ## Room Info
 
-Room: Room G313 
+Room: **G313** 
 Occupancy: up to 16 attendees
-Configuration: u-shape 
+Configuration: Boardroom
 Location: Third Floor
 
-Room: Room G301 
+Room: **G301**
 Occupancy: up to 40 attendees
 Configuration: u-shape 
 Location: Third Floor
