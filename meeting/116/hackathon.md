@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-02-25T10:08:12.199Z
+date: 2023-03-02T00:21:54.818Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -139,8 +139,15 @@ If you received the email but the link to create an account has expired, please 
     
 ## Network
 
-Access to the IETF network 
+**Notice when traveling to Japan and you bring your own Wi-Fi Device(s):**
+Most devices will have a “Technical Conformity Mark” that is required for radio devices including Wi-Fi APs when used in Japan. Please review that your devices will are compliant. 
 
+English: https://www.tele.soumu.go.jp/resource/j/others/wifi/en.pdf 
+https://www.tele.soumu.go.jp/e/adm/monitoring/illegal/monitoring_qa/
+https://www.tele.soumu.go.jp/j/sys/others/inbound/
+
+
+**Access to the IETF network**
 The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
 
 * [How to Instructions](hacknet_instructions)
