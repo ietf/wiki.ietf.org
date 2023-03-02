@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-02T20:03:08.804Z
+date: 2023-03-02T21:46:13.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -34,14 +34,16 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 * Active consent from participants should be sought by organizers for any side meeting that is recorded.
 
-* Side meeting dates and times should be listed in London local time, UTC+0 (Please note that the UK ends Daylight Savings on 30 October, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
+* Side meeting dates and times should be listed in Yokohama local time, UTC+9 (Please note that Europe and the USA go into Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
 If you would like to provide an .ics file for a side meeting, please put the link in the appropriate column below.
 
-### ***!!!NEW!!!*** Two Step Process to schedule a side meeting ***!!!NEW!!!***
+#  ***!!!NEW!!!*** Two Step Process to Schedule a Side Meeting 
 
 
-**1. Enter your meeting information (day, time, name, area, contact, description, room links) into the [meeting information table](#meetinginfo) below. Note this is not the room reservation. The actually room reservation is step 2.**
+
+## Step One
+**1. Enter your meeting information (day, time, name, area, contact, description, room links) into the [meeting information table](#meetinginfo) below. Note this is not the room reservation. The actual room reservation is step 2.**
 
 **2. Please choose the day and time that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. If the meeting is not in the room table, the room is not reserved!**
 
@@ -110,10 +112,6 @@ Occupancy: up to XX attendees
 Configuration: u-shape 
 Location: ???
 
-Room: Room 3 
-Occupancy: up to XX attendees
-Configuration: u-shape 
-Location: ???
 
 
 ## MONDAY 27 March {#Monday}
