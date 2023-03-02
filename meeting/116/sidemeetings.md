@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-02T21:46:13.867Z
+date: 2023-03-02T22:23:57.368Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -59,7 +59,7 @@ At a minimum, please make sure to provide a day/time/room as well as meeting nam
 
 For remote participation: Please arrange your own conferencing service and put the link in the table if you would like to have remote participants.
 
-***Note this is not the room reservation. The actual room reservation happens in the tables below!***
+***Note this is not the room reservation. The actual room reservation happens in the tables in Step 2!***
 
 Please sort the meeting by time if possible.
 
@@ -67,10 +67,10 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|          |          |                  |          |             |                         |                       |          |
+|  06:00        |    G313      |    Example Meeting              |   IESG   |         Example    |     We <3 IETF        |          Link!             |          |
 {.dense}
 
-## TUESDAY 28 March
+## [TUESDAY 28 March](#tuesday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -98,179 +98,162 @@ Please sort the meeting by time if possible.
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
-# Room Reservation
+# Step Two: Room Reservation
+## Please put the name of your meeting in the table below to reserve a room for your time slot.
 
 ## Room Info
 
-Room: Room 1 
-Occupancy: up to XX attendees
+Room: Room G313 
+Occupancy: up to 16 attendees
 Configuration: u-shape 
-Location: ???
+Location: Third Floor
 
-Room: Room 2 
-Occupancy: up to XX attendees
+Room: Room G301 
+Occupancy: up to 40 attendees
 Configuration: u-shape 
-Location: ???
+Location: Third Floor
 
 
 
 ## MONDAY 27 March {#Monday}
 
-| **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
-|----------|------------------|------------|------------|------------|------------|------------|
-|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
-|  08:00   |                  |            |            |            |            |            |
-|  08:30   |                  |            |            |            |            |            | 
-|  09:00   |                  |            |            |            |            |            |
-|  09:30   |                  |            |            |            |            |            | 
-|  10:00   |                  |            |            |            |            |            | 
-|  10:30   |                  |            |            |            |            |            |         
-|  11:00   |                  |            |            |            |            |            |         
-|  11:30   |                  |            |            |            |            |            |
-|  12:00   |                  |            |            |            |            |            |
-|  12:30   |                  |            |            |            |            |            |
-|  13:00   |                  |            |            |            |            |            |
-|  13:30   |                  |            |            |            |            |            |
-|  14:00   |                  |            |            |            |            |            |
-|  14:30   |                  |            |            |            |            |            |
-|  15:00   |                  |            |            |            |            |            |
-|  15:30   |                  |            |            |            |            |            |
-|  16:00   |                  |            |            |            |            |            |
-|  16:30   |                  |            |            |            |            |            |
-|  17:00   |                  |            |            |            |            |            |
-|  17:30   |                  |            |            |            |            |            |
-|  18:00   |                  |            |            |            |            |            |
-|  18:30   |                  |            |            |            |            |            |
-|  19:00   |                  |            |            |            |            |            |
-|  19:30   |                  |            |            |            |            |            |
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-{.dense}
+| **Time** | **G313 (16 people)** | **G301 (40 people)** | 
+|-------|------------------|------------------| 
+| 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
+| 08:30 |                  |   NOT AVAILABLE  | 
+| 09:00 |                  |   NOT AVAILABLE  |   
+| 09:30 |                  |   NOT AVAILABLE  |  
+| 10:00 |                  |                  |  
+| 10:30 |                  |                  |  
+| 11:00 |                  |                  |  
+| 11:30 |  NOT AVAILABLE   |                  |  
+| 12:00 |  NOT AVAILABLE   |                  |  
+| 12:30 |  NOT AVAILABLE   |                  | 
+| 13:00 |                  |                  |  
+| 13:30 |                  |                  | 
+| 14:00 |                  |                  |  
+| 14:30 |                  |                  | 
+| 15:00 |                  |                  |  
+| 15:30 |                  |                  | 
+| 16:00 |                  |                  |  
+| 16:30 |                  |                  | 
+| 17:00 |                  |                  |  
+| 17:30 |                  |                  | 
+| 18:00 |                  |                  |  
+| 18:30 |                  |                  | 
+| 19:00 |                  |                  |  
+| 19:30 |                  |                  | 
+| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
-# TUESDAY 28 March {#Tuesday}
 
-| **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
-|----------|------------------|------------|------------|------------|------------|------------|
-|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
-|  08:00   |                  |            |            |            |            |            |
-|  08:30   |                  |            |            |            |            |            | 
-|  09:00   |                  |            |            |            |            |            |
-|  09:30   |                  |            |            |            |            |            | 
-|  10:00   |                  |            |            |            |            |            | 
-|  10:30   |                  |            |            |            |            |            |         
-|  11:00   |                  |            |            |            |            |            |         
-|  11:30   |                  |            |            |            |            |            |
-|  12:00   |                  |            |            |            |            |            |
-|  12:30   |                  |            |            |            |            |            |
-|  13:00   |                  |            |            |            |            |            |
-|  13:30   |                  |            |            |            |            |            |
-|  14:00   |                  |            |            |            |            |            |
-|  14:30   |                  |            |            |            |            |            |
-|  15:00   |                  |            |            |            |            |            |
-|  15:30   |                  |            |            |            |            |            |
-|  16:00   |                  |            |            |            |            |            |
-|  16:30   |                  |            |            |            |            |            |
-|  17:00   |                  |            |            |            |            |            |
-|  17:30   |                  |            |            |            |            |            |
-|  18:00   |                  |            |            |            |            |            |
-|  18:30   |                  |            |            |            |            |            |
-|  19:00   |                  |            |            |            |            |            |
-|  19:30   |                  |            |            |            |            |            |
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-{.dense}
+
+
+
+
+
+# <a id="tuesday"></a>TUESDAY 28 March {#Tuesday}
+
+| **Time** | **G313 (16 people)** | **G301 (40 people)** | 
+|-------|------------------|------------------|  
+| 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
+| 08:30 |                  |                  | 
+| 09:00 |                  |                  |   
+| 09:30 |                  |                  |  
+| 10:00 |                  |                  |  
+| 10:30 |                  |                  |  
+| 11:00 |                  |                  |  
+| 11:30 |  NOT AVAILABLE   |                  |  
+| 12:00 |  NOT AVAILABLE   |                  |  
+| 12:30 |  NOT AVAILABLE   |                  | 
+| 13:00 |                  |                  |  
+| 13:30 |                  |                  | 
+| 14:00 |                  |                  |  
+| 14:30 |                  |                  | 
+| 15:00 |                  |                  |  
+| 15:30 |                  |                  | 
+| 16:00 |                  |                  |  
+| 16:30 |                  |                  | 
+| 17:00 |                  |                  |  
+| 17:30 |                  |                  | 
+| 18:00 |                  |                  |  
+| 18:30 |                  |                  | 
+| 19:00 |                  |                  |  
+| 19:30 |                  |                  | 
+| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
 
 # Wednesday 29 March {#Wednesday}
 
-| **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
-|----------|------------------|------------|------------|------------|------------|------------|
-|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
-|  08:00   |                  |            |            |            |            |            |
-|  08:30   |                  |            |            |            |            |            | 
-|  09:00   |                  |            |            |            |            |            |
-|  09:30   |                  |            |            |            |            |            | 
-|  10:00   |                  |            |            |            |            |            | 
-|  10:30   |                  |            |            |            |            |            |         
-|  11:00   |                  |            |            |            |            |            |         
-|  11:30   |                  |            |            |            |            |            |
-|  12:00   |                  |            |            |            |            |            |
-|  12:30   |                  |            |            |            |            |            |
-|  13:00   |                  |            |            |            |            |            |
-|  13:30   |                  |            |            |            |            |            |
-|  14:00   |                  |            |            |            |            |            |
-|  14:30   |                  |            |            |            |            |            |
-|  15:00   |                  |            |            |            |            |            |
-|  15:30   |                  |            |            |            |            |            |
-|  16:00   |                  |            |            |            |            |            |
-|  16:30   |                  |            |            |            |            |            |
-|  17:00   |                  |            |            |            |            |            |
-|  17:30   |                  |            |            |            |            |            |
-|  18:00   |                  |            |            |            |            |            |
-|  18:30   |                  |            |            |            |            |            |
-|  19:00   |                  |            |            |            |            |            |
-|  19:30   |                  |            |            |            |            |            |
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-{.dense}
+| **Time** | **G313 (16 people)** | **G301 (40 people)** | 
+|-------|------------------|------------------| 
+| 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
+| 08:30 |                  |   NOT AVAILABLE  | 
+| 09:00 |                  |   NOT AVAILABLE  |   
+| 09:30 |                  |   NOT AVAILABLE  |  
+| 10:00 |                  |                  |  
+| 10:30 |                  |                  |  
+| 11:00 |                  |                  |  
+| 11:30 |  NOT AVAILABLE   |                  |  
+| 12:00 |  NOT AVAILABLE   |                  |  
+| 12:30 |  NOT AVAILABLE   |                  | 
+| 13:00 |                  |                  |  
+| 13:30 |                  |                  | 
+| 14:00 |                  |                  |  
+| 14:30 |                  |                  | 
+| 15:00 |                  |                  |  
+| 15:30 |                  |                  | 
+| 16:00 |                  |                  |  
+| 16:30 |                  |                  | 
+| 17:00 |                  |                  |  
+| 17:30 |                  |                  | 
+| 18:00 |                  |                  |  
+| 18:30 |                  |                  | 
+| 19:00 |                  |                  |  
+| 19:30 |                  |                  | 
+| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
 # Thursday 20 March {#Thursday}
 
-| **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
-|----------|------------------|------------|------------|------------|------------|------------|
-|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
-|  08:00   |                  |            |            |            |            |            |
-|  08:30   |                  |            |            |            |            |            | 
-|  09:00   |                  |            |            |            |            |            |
-|  09:30   |                  |            |            |            |            |            | 
-|  10:00   |                  |            |            |            |            |            | 
-|  10:30   |                  |            |            |            |            |            |         
-|  11:00   |                  |            |            |            |            |            |         
-|  11:30   |                  |            |            |            |            |            |
-|  12:00   |                  |            |            |            |            |            |
-|  12:30   |                  |            |            |            |            |            |
-|  13:00   |                  |            |            |            |            |            |
-|  13:30   |                  |            |            |            |            |            |
-|  14:00   |                  |            |            |            |            |            |
-|  14:30   |                  |            |            |            |            |            |
-|  15:00   |                  |            |            |            |            |            |
-|  15:30   |                  |            |            |            |            |            |
-|  16:00   |                  |            |            |            |            |            |
-|  16:30   |                  |            |            |            |            |            |
-|  17:00   |                  |            |            |            |            |            |
-|  17:30   |                  |            |            |            |            |            |
-|  18:00   |                  |            |            |            |            |            |
-|  18:30   |                  |            |            |            |            |            |
-|  19:00   |                  |            |            |            |            |            |
-|  19:30   |                  |            |            |            |            |            |
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-{.dense}
+| **Time** | **G313 (16 people)** | **G301 (40 people)** | 
+|-------|------------------|------------------|
+| 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
+| 08:30 |                  |                  | 
+| 09:00 |                  |                  |   
+| 09:30 |                  |                  |  
+| 10:00 |                  |                  |  
+| 10:30 |                  |                  |  
+| 11:00 |                  |                  |  
+| 11:30 |  NOT AVAILABLE   |                  |  
+| 12:00 |  NOT AVAILABLE   |                  |  
+| 12:30 |  NOT AVAILABLE   |                  | 
+| 13:00 |                  |                  |  
+| 13:30 |                  |                  | 
+| 14:00 |                  |                  |  
+| 14:30 |                  |                  | 
+| 15:00 |                  |                  |  
+| 15:30 |                  |                  | 
+| 16:00 |                  |                  |  
+| 16:30 |                  |                  | 
+| 17:00 |                  |                  |  
+| 17:30 |                  |                  | 
+| 18:00 |                  |                  |  
+| 18:30 |                  |                  | 
+| 19:00 |                  |                  |  
+| 19:30 |                  |                  | 
+| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 
 # Friday 31 March {#Friday}
 
-| **Time** |    **Room 1**    | **Room 2** | **Room 3** | **Room 4** | **Room 5** | **Room 6** |
-|----------|------------------|------------|------------|------------|------------|------------|
-|  07:30  |   NOT AVAILABLE  |            |            |            |            |            |
-|  08:00   |                  |            |            |            |            |            |
-|  08:30   |                  |            |            |            |            |            | 
-|  09:00   |                  |            |            |            |            |            |
-|  09:30   |                  |            |            |            |            |            | 
-|  10:00   |                  |            |            |            |            |            | 
-|  10:30   |                  |            |            |            |            |            |         
-|  11:00   |                  |            |            |            |            |            |         
-|  11:30   |                  |            |            |            |            |            |
-|  12:00   |                  |            |            |            |            |            |
-|  12:30   |                  |            |            |            |            |            |
-|  13:00   |                  |            |            |            |            |            |
-|  13:30   |                  |            |            |            |            |            |
-|  14:00   |                  |            |            |            |            |            |
-|  14:30   |                  |            |            |            |            |            |
-|  15:00   |                  |            |            |            |            |            |
-|  15:30   |                  |            |            |            |            |            |
-|  16:00   |                  |            |            |            |            |            |
-|  16:30   |                  |            |            |            |            |            |
-|  17:00   |                  |            |            |            |            |            |
-|  17:30   |                  |            |            |            |            |            |
-|  18:00   |                  |            |            |            |            |            |
-|  18:30   |                  |            |            |            |            |            |
-|  19:00   |                  |            |            |            |            |            |
-|  19:30   |                  |            |            |            |            |            |
-|  20:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE |  NOT AVAILABLE |   NOT AVAILABLE  |
-{.dense}
+| **Time** | **G313 (16 people)** | **G301 (40 people)** | 
+|-------|------------------|------------------| 
+| 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
+| 08:30 |                  |                  | 
+| 09:00 |                  |                  |   
+| 09:30 |                  |                  |  
+| 10:00 |                  |                  |  
+| 10:30 |                  |                  |  
+| 11:00 |                  |                  |  
+| 11:30 |                  |  NOT AVAILABLE   |  
+| 12:00 |                  |  NOT AVAILABLE   |  
+| 12:30 |                  |  NOT AVAILABLE   | 
+| 13:00 |                  |  NOT AVAILABLE   |  
