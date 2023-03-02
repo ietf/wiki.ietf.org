@@ -2,7 +2,7 @@
 title: MPLS Open DT Action Items
 description: DT Action Items
 published: true
-date: 2023-01-10T18:10:38.024Z
+date: 2023-03-02T14:33:24.665Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T15:02:00.617Z
@@ -11,51 +11,51 @@ dateCreated: 2023-01-05T15:02:00.617Z
 # Header
 # Open AIs
 
-1. AI (Kireeti): resurrect discussions on 1st nibble (post BoS).
-  - ID draft-kbbma-mpls-1stnibble exists. Decide how to move forward.
-  - Update on (03/10): item on agenda, but may overflow to next week if we can't get to it.
-  - Update (04/28): on agenda for today.
-  - Update (05/05): A new revision will be posted by end-of-week. The new revision is expected to progress to adoption.
-  - Update (05/19): new revision will be posted (targeting end of May).
-  - Update (05/26): pending new revision upload.
-  - Update (06/23): new revision upload targeted before ietf114 cutoff date.
-  - Update (07/7): Kireeti to revisit previous discussions on 1st nibble and update whether further action is required.
-  - Update (07/14): [Stewart] no open issues.
-  - Update (08/04): should MNA PSD header (type ?) be signaled in control plane? Need further discussion on whether DP, CP or both?
-  - Update (08/11): CW can be signaled today. BIER can support both. Need to take a stance on MNA PSD.
-  - Update (08/18): no update on this.
-  - Update (09/08): no feedback from authors on exact state of the draft.
-  - Update (09/15): AI (Tarek) to send email to the lead editor to check the latest status on this.
-  - Update (09/22): Tarek missed this AI past week and will be acting on it asap.
-  - Update (09/30): Tarek sent out an email to Kireeti/authors to check the status. No response as of yet.
-  - Update (10/13): is this something slowing MNA work progressing?
-    - No specific 1st nibble needed (short of 4 or 6) for MNA PSD proposals.
-    - May still be required for realizing the MNA solution.
-  - Update (10/27): the opinion in the meeting is this document should not stall MNA work. Chairs have asked authors to report back on the progress of this for now.
-  - Update (11/17): plans to progress this further. Open questions:
-    - Authors (AI: Kireeti) still need to close on whether CP is enough
-    - AI (Kireeti and Stewart): will email with 2 slots to schedule meeting.
-  - Update (12/15): meeting scheduling is still outstanding.
-  - Update (01/05): ID is about to expire. No update due to holidays.
-  
+1. AI (Kireeti): resurrect discussions on 1st nibble (post BoS):
+	- ID draft-kbbma-mpls-1stnibble exists. Decide how to move forward.
+	- Update on (03/10): item on agenda, but may overflow to next week if we can't get to it.
+	- Update (04/28): on agenda for today.
+	- Update (05/05): A new revision will be posted by end-of-week. The new revision is expected to progress to adoption.
+	- Update (05/19): new revision will be posted (targeting end of May).
+	- Update (05/26): pending new revision upload.
+	- Update (06/23): new revision upload targeted before ietf114 cutoff date.
+	- Update (07/7): Kireeti to revisit previous discussions on 1st nibble and update whether further action is required.
+	- Update (07/14): [Stewart] no open issues.
+	- Update (08/04): should MNA PSD header (type ?) be signaled in control plane? Need further discussion on whether DP, CP or both?
+	- Update (08/11): CW can be signaled today. BIER can support both. Need to take a stance on MNA PSD.
+	- Update (08/18): no update on this.
+	- Update (09/08): no feedback from authors on exact state of the draft.
+	- Update (09/15): AI (Tarek) to send email to the lead editor to check the latest status on this.
+	- Update (09/22): Tarek missed this AI past week and will be acting on it asap.
+	- Update (09/30): Tarek sent out an email to Kireeti/authors to check the status. No response as of yet.
+	- Update (10/13): is this something slowing MNA work progressing?
+		- No specific 1st nibble needed (short of 4 or 6) for MNA PSD proposals.
+		- May still be required for realizing the MNA solution.
+	- Update (10/27): the opinion in the meeting is this document should not stall MNA work. Chairs have asked authors to report back on the progress of this for now.
+	- Update (11/17): plans to progress this further. Open questions:
+		- Authors (AI: Kireeti) still need to close on whether CP is enough
+		- AI (Kireeti and Stewart): will email with 2 slots to schedule meeting.
+	- Update (12/15): meeting scheduling is still outstanding.
+	- Update (01/05): ID is about to expire. No update due to holidays.
+
 1. AI (solution authors): present existence of existing MPLS usecases with proposed MNA solutions
-  - Update (01/05): To be added to next week agenda (Thursday 01/12).
-  > [Stewart]: some of this is already tracked in jags ID. We may ask authors to present.
-  > [Mathew]: suggest taking usecase and describe how it is encoded in the solution proposed. Propose this be written tracked in a separate ID.
-  > [Greg]: intersection with non-IP payload (BIER as an example). The usecases draft may document how the different features may be used together.
+	- Update (01/05): To be added to next week agenda (Thursday 01/12).
+		- [Stewart]: some of this is already tracked in jags ID. We may ask authors to present.
+		- [Mathew]: suggest taking usecase and describe how it is encoded in the solution proposed. Propose this be written tracked in a separate ID.
+		- [Greg]: intersection with non-IP payload (BIER as an example). The usecases draft may document how the different features may be used together.
 
 1. Usecases ID [draft-ietf-mpls-mna-usecase](https://datatracker.ietf.org/doc/html/draft-ietf-mpls-mna-usecases)
 	- AI (Loa): find reviewer for Network Slicing usecase
-    `* Jie Dong is assigned to complete this`
+		* Jie Dong is assigned to complete this
 	- AI (Tarek): ask Jeffrey Zhang to present Generic Delivery Functions again at Open DT.
 	- AI (authors of usecase ID): comments
-	   a. Add section 2.9 for existing MPLS applications
-	   b. what are existing MPLS usecases? Should be generic to cover the case we miss anything in the document.
-	   c. Add reference in section 2.5 to the SPRING document that introduced delay bound application
-     d. Update the reference to the framework document.
-     e. Update from Andrew on APN, still premature to discuss whether it is in scope of MNA work. Agreement to remove section 2.8 for now.
-     f. Update (12/15): reach out to BIER WG on interactions with MNA work being done.
-   - Update (01/05): comments are outstanding and will be addressed in next revision.
+		a. Add section 2.9 for existing MPLS applications
+		b. what are existing MPLS usecases? Should be generic to cover the case we miss anything in the document.
+    c. Add reference in section 2.5 to the SPRING document that introduced delay bound application
+		d. Update the reference to the framework document.
+		e. Update from Andrew on APN, still premature to discuss whether it is in scope of MNA work. Agreement to remove section 2.8 for now.
+		f. Update (12/15): reach out to BIER WG on interactions with MNA work being done.
+	- Update (01/05): comments are outstanding and will be addressed in next revision.
 
 # Closed AIs
 1. Check implications of retiring APN on MNA requirements
