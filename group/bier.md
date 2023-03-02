@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-02T09:41:09.752Z
+date: 2023-03-02T09:42:31.829Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
