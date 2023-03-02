@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-02T22:25:59.936Z
+date: 2023-03-02T22:28:06.391Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -144,7 +144,7 @@ Location: Third Floor
 | 19:00 |                  |                  |  
 | 19:30 |                  |                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
-
+{.dense}
 
 
 
@@ -180,7 +180,7 @@ Location: Third Floor
 | 19:00 |                  |                  |  
 | 19:30 |                  |                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
-
+{.dense}
 
 # <a id="wednesday"></a>Wednesday 29 March {#Wednesday}
 
@@ -211,6 +211,7 @@ Location: Third Floor
 | 19:00 |                  |                  |  
 | 19:30 |                  |                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
+{.dense}
 
 # <a id="thursday"></a>Thursday 20 March {#Thursday}
 
@@ -241,6 +242,7 @@ Location: Third Floor
 | 19:00 |                  |                  |  
 | 19:30 |                  |                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
+{.dense}
 
 # <a id="friday"></a>Friday 31 March {#Friday}
 
@@ -257,3 +259,4 @@ Location: Third Floor
 | 12:00 |                  |  NOT AVAILABLE   |  
 | 12:30 |                  |  NOT AVAILABLE   | 
 | 13:00 |                  |  NOT AVAILABLE   |  
+{.dense}
