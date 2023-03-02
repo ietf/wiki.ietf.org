@@ -1,8 +1,8 @@
 ---
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
-published: false
-date: 2023-03-02T20:01:29.404Z
+published: true
+date: 2023-03-02T20:01:57.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
