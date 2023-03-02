@@ -2,7 +2,7 @@
 title: MPLS Open DT Action Items
 description: DT Action Items
 published: true
-date: 2023-03-02T14:33:24.665Z
+date: 2023-03-02T15:21:56.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T15:02:00.617Z
@@ -37,12 +37,15 @@ dateCreated: 2023-01-05T15:02:00.617Z
 		- AI (Kireeti and Stewart): will email with 2 slots to schedule meeting.
 	- Update (12/15): meeting scheduling is still outstanding.
 	- Update (01/05): ID is about to expire. No update due to holidays.
+  - Update (03/02): No update from co-authors. AI (Chairs): to reach out to authors by email on next steps to resolve open issues.
+		- [Matthew]: suggesting additional editor to volunteer to continue with this.
 
-1. AI (solution authors): present existence of existing MPLS usecases with proposed MNA solutions
+2. AI (solution authors): present existence of existing MPLS usecases with proposed MNA solutions
 	- Update (01/05): To be added to next week agenda (Thursday 01/12).
 		- [Stewart]: some of this is already tracked in jags ID. We may ask authors to present.
 		- [Mathew]: suggest taking usecase and describe how it is encoded in the solution proposed. Propose this be written tracked in a separate ID.
 		- [Greg]: intersection with non-IP payload (BIER as an example). The usecases draft may document how the different features may be used together.
+	- Update (03/02): some updates were added in separate IDs (Entropy and others). The direction is to document how solution addresses each usecase in a separate ID. The plan is to close this AI by next time we meet.
 
 1. Usecases ID [draft-ietf-mpls-mna-usecase](https://datatracker.ietf.org/doc/html/draft-ietf-mpls-mna-usecases)
 	- AI (Loa): find reviewer for Network Slicing usecase
@@ -56,6 +59,7 @@ dateCreated: 2023-01-05T15:02:00.617Z
 		e. Update from Andrew on APN, still premature to discuss whether it is in scope of MNA work. Agreement to remove section 2.8 for now.
 		f. Update (12/15): reach out to BIER WG on interactions with MNA work being done.
 	- Update (01/05): comments are outstanding and will be addressed in next revision.
+  - Update (03/02): update from co-authors: planning to address comments and update new revision before IETF116 cutoff date.
 
 # Closed AIs
 1. Check implications of retiring APN on MNA requirements
