@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-03T20:30:19.333Z
+date: 2023-03-03T20:32:32.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -213,7 +213,7 @@ Location: Third Floor
 |-------|------------------|------------------|
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:30 |                  |    C02 measurement and offsetting               | 
-| 09:00 |                  |                  |   
+| 09:00 |                  |    C02 measurement and offsetting               | 
 | 09:30 |                  |                  |  
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
