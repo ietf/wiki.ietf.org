@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-03T20:33:43.296Z
+date: 2023-03-03T20:53:48.907Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -65,6 +65,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+| 08:30-09:30         |   G301       |     ECH Deployment Considerations             |      N/A    | Arnaud Taddei (Arnaud.Taddei@Broadcom.com) and Andrew Campling (Andrew.Campling@419.Consulting) | Discuss ECH development and next steps |                       |          |
 | 18:30-19:30         |   G301       |     emodir-TBD             |      emodir    |        emodir     |                         |                       |          |
 {.dense}
 
@@ -147,8 +148,8 @@ Location: Third Floor
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------|  
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:30 |                  |                  | 
-| 09:00 |                  |                  |   
+| 08:30 |                  | ECH Deployment Considerations | 
+| 09:00 |                  | ECH Deployment Considerations |   
 | 09:30 |                  |                  |  
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
