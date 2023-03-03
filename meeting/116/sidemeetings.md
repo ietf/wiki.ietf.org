@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-03T22:58:17.465Z
+date: 2023-03-03T23:46:18.881Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -75,6 +75,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
+|   8:30-9:30     |  G301        |  TBD|     |    Shuping (mailto:pengshuping@huawei.com)   |                          |                      |          |
 {.dense}
 
 ## [THURSDAY 30 March](#thursday)
@@ -180,9 +181,9 @@ Location: Third Floor
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:30 |                  |   NOT AVAILABLE  | 
-| 09:00 |                  |   NOT AVAILABLE  |   
-| 09:30 |                  |   NOT AVAILABLE  |  
+| 08:30 | NOT AVAILABLE                 |   NOT AVAILABLE  | 
+| 09:00 | NOT AVAILABLE                 |   NOT AVAILABLE  |   
+| 09:30 | NOT AVAILABLE                 |   NOT AVAILABLE  |  
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
 | 11:00 |                  |                  |  
