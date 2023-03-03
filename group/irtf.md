@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2023-03-03T19:38:54.179Z
+date: 2023-03-03T20:10:34.566Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-21T15:42:30.650Z
 
 # IRTF Wiki
 You have found the IRTF Wiki. The IRTF home page is [here](http://irtf.org).
-
+ 
 The detailed IRTF Research Group guidelines and procedures are described in RFC 2014. In RFC 4440, the Internet Architecture Board (IAB) further details the role of the IRTF.
 
 The procedures for publishing documents on the IRTF RFC Stream are defined in RFC 5743, with additional details found in RFC 5742. The concept of RFC Streams is defined in RFC 4844. 
