@@ -2,7 +2,7 @@
 title: SDNRG (Concluded) Software Defined Networking Research Group 
 description: 
 published: true
-date: 2023-03-03T20:15:20.578Z
+date: 2023-03-03T20:17:12.080Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T20:13:48.028Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-03T20:13:48.028Z
 [SDNRG Charter](https://irtf.org/concluded/sdnrg) 
 
 ## Mailing List 
-[https://www.irtf.org/mailman/listinfo/sdn SDNRG Mailing List]
+[SDNRG Mailing List](https://mailarchive.ietf.org/arch/browse/sdn/)
 
 ## IETF84  Meeting (Wednesday, August 1, 2012 from 1510-1710) 
 
