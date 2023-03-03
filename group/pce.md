@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-03-03T03:53:59.158Z
+date: 2023-03-03T03:55:42.457Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -41,7 +41,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | Chairs have asked to break the document into informational and standards tracks | - |  
 | [draft-dhody-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | Related to a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
 | draft-peng-pce-entropy-label-position | Pending | Expired, a new update is needed | - |
-
+| draft-chen-pce-sr-mpls-sid-verification | Penidng | Coordinate with SRv6 draft for IANA allication | - |
 
 ## Recently Adopted Documents
 
