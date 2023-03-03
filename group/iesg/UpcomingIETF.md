@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-02-28T18:49:55.166Z
+date: 2023-03-03T20:52:43.773Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -152,6 +152,8 @@ Location: G415
 
 
 ## Sunday, 26 March 2023
+
+#### RTG ADs Office Hours: 1600-1700
 
 
 ## Monday, 27 March 2023
