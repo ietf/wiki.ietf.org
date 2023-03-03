@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-03-03T03:56:24.448Z
+date: 2023-03-03T04:01:40.224Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -26,7 +26,6 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 |---|---|
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Need to handle multiple BIER extensions in coordination with BIER WG |
 | [draft-zhang-pce-resource-sharing](https://datatracker.ietf.org/doc/draft-zhang-pce-resource-sharing/) | Authors request for the 2nd adoption call during 106, support in the room | 
-| [draft-peng-pce-entropy-label-position](https://datatracker.ietf.org/doc/draft-peng-pce-entropy-label-position/) | Requested adoption after 113 |
 
 ## WG Adoption Call Queue
 
@@ -86,7 +85,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-enhanced-errors](https://datatracker.ietf.org/doc/draft-ietf-pce-enhanced-errors) | Y | Feedback requested on the mailing list by 2021-05-17 | -11 posted on 2022-03-07; Work out how to encourage other I-Ds to use this; is there still interest? | Dhruv | Dhruv |
-| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Y | -14 posted on 2022-07-10 | 6/6 IPR Poll, Early codepoint allocated, Ready for WGLC  | - | - |
+
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Y | -18 posted on 2022-03-21 | Requested feedback from IDR | - | - |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -07 version posted on 2022-03-07 | Gather implementation experience | - | - |
 
@@ -97,7 +96,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up | IPR -4/4 | Julien |
-
+| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Waiting for authors to handle LC comments |  IPR Poll - 6/6 | Julien| 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|
@@ -113,13 +112,14 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | draft-ietf-pce-binding-label-sid | MISSREF*A*R(1G) | Pending on draft-ietf-pce-segment-routing-ipv6 [Cluster454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
-| draft-ietf-pce-vn-association | EDIT | - | Hari | 
-| draft-ietf-pce-lsp-extended-flags | EDIT | - | Dhruv | 
+
 
 ## Recent RFCs
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
+| RFC9358 | Published 2023-02; Was draft-ietf-pce-vn-association | Hari |
+| RFC 9357 | Published 2023-02; Was draft-ietf-pce-lsp-extended-flags | Dhruv | 
 | RFC9168 | Published 2022-01; Was  draft-ietf-pce-pcep-flowspec | Julien |
 
 ## Other Useful Information
