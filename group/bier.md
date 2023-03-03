@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-02T09:42:31.829Z
+date: 2023-03-03T09:37:24.218Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -51,14 +51,14 @@ expected interactions include:
 
 ## Current Published RFC
 
-[BIER Architecture](https://datatracker.ietf.org/doc/rfc8279/) -- BIER Architecture
-[BIER MPLS and non-MPLS encapsulation](https://datatracker.ietf.org/doc/rfc8296/) -- BIER MPLS and non-MPLS encapsulation
+[RFC8279](https://datatracker.ietf.org/doc/rfc8279/) -- BIER Architecture
+[RFC8296](https://datatracker.ietf.org/doc/rfc8296/) -- BIER MPLS and non-MPLS encapsulation
 [BIER Problem Statement](https://datatracker.ietf.org/doc/draft-ietf-bier-problem-statement/) -- BIER Problem Statement for reference
-[BIER ISIS extensions](https://datatracker.ietf.org/doc/rfc8401/) -- BIER ISIS extensions
-[BIER OSPF extensions](https://datatracker.ietf.org/doc/rfc8444/) -- BIER OSPF extensions
-[BIER MVPN](https://datatracker.ietf.org/doc/rfc8556/) -- BIER MVPN
-[BIER TE Architecture](https://datatracker.ietf.org/doc/rfc9262/) -- BIER TE Architecture
-[BIER BAR IPA](https://datatracker.ietf.org/doc/rfc9272/) -- BIER BAR IPA
+[RFC8401](https://datatracker.ietf.org/doc/rfc8401/) -- BIER ISIS extensions
+[RFC8444](https://datatracker.ietf.org/doc/rfc8444/) -- BIER OSPF extensions
+[RFC8556](https://datatracker.ietf.org/doc/rfc8556/) -- BIER MVPN
+[RFC9262](https://datatracker.ietf.org/doc/rfc9262/) -- BIER TE Architecture
+[RFC9272](https://datatracker.ietf.org/doc/rfc9272/) -- BIER BAR IPA
 
 ## Current Proposals
 
@@ -66,16 +66,47 @@ expected interactions include:
 [BIER OSPFv3 extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-ospfv3-extensions/) -- BIER OSPFv3 extensions. State: AD Evaluation::AD Followup
 
 ### 2.WG drafts in WGLC
-[BIER BGP-LS extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-bgp-ls-bier-ext/) -- BIER BGP-LS extensions, Shepherd assigned: Gyan Mishra. Shepherd review done.
-[BIER IDR extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-idr-extensions/) -- BIER IDR extensions, Shepherd assigned: Ran Chen. Shepherd review done. The first WGLC finished. ***Needs second WGLC.***
-[BIER PHP](https://datatracker.ietf.org/doc/draft-ietf-bier-php/) -- BIER PHP. Shepherd assigned: Xiao Min.
+1. [BIER BGP-LS extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-bgp-ls-bier-ext/) -- ***Needs WG state change.*** 
+Shepherd assigned: Gyan Mishra. Shepherd review done. 
+WGLC finished: https://mailarchive.ietf.org/arch/msg/bier/j22QbjpHUpeExQLfu3yTgqVwdrs/
+1. [BIER EVPN](https://datatracker.ietf.org/doc/draft-ietf-bier-evpn/) -- ***Needs WG state change***.
+Shepherd review done by Mankamana Mishra.
+WGLC finished: https://mailarchive.ietf.org/arch/msg/bier/GvOmw82cDD7a7Rn65J4mk1f6XZI/)
+1. [BIER non-MPLS extension](https://datatracker.ietf.org/doc/draft-ietf-bier-lsr-non-mpls-extensions/) -- ***Needs shepherd review.***
+Shepherd assigned: Huaimo Chen. Shepherd review not done yet. 
+WGLC passed: https://mailarchive.ietf.org/arch/msg/bier/o-c-pE1luMBZgjiNzrQWWq41yL4/
+1. [BIER PHP](https://datatracker.ietf.org/doc/draft-ietf-bier-php/) -- ***Needs WG state change*** 
+Shepherd assigned: Xiao Min.
+WGLC finished: https://mailarchive.ietf.org/arch/msg/bier/9nHdVuCGhgl3qTbOCF83OETriFg/
 
 ### 3.Documents requested by authors for WG Last Call
+1. [BIER IDR extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-idr-extensions/) -- ***Needs second WGLC.***
+Shepherd assigned: Ran Chen. Shepherd review done. 
+The first WGLC finished. Waiting for a second WGLC due to the new update.
+1. [BIER MLDP](https://datatracker.ietf.org/doc/draft-ietf-bier-mldp-signaling-over-bier/) -- ***Needs WG WGLC*** 
+Shepherd assigned: Nabeel Cocker.
+Waiting for WGLC.
+1. [BIER Prefix Redistribute](https://datatracker.ietf.org/doc/draft-ietf-bier-prefix-redistribute/) -- ***Needs WG WGLC*** 
+Shepherd assigned: Xiao Min.
+Waiting for WGLC.
+1. [BIER TETHER](https://datatracker.ietf.org/doc/draft-ietf-bier-tether/) -- ***Needs WG WGLC*** 
+Shepherd assigned: Ran Chen. Shepherd review done.
+Waiting for WGLC. 
 
 ### 4.Documents requested by authors for WG adoption
 
 ### 5.Other WG Documents
-[BIER HTTP](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-http-response/) -- BIER HTTP, suspended. Authors requested a new thread which is not in BIER WG: https://datatracker.ietf.org/doc/draft-trossen-rtgwg-frrm/
+1. [BIER IPv6 Encapsulation](https://datatracker.ietf.org/doc/draft-ietf-bier-bierin6/) -- 
+1. [BIER FRR](https://datatracker.ietf.org/doc/draft-ietf-bier-frr/) -- 
+1. [BIER HTTP](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-http-response/) -- 
+Suspended. Authors requested a new thread which is not in BIER WG: https://datatracker.ietf.org/doc/draft-trossen-rtgwg-frrm/
+1. [BIER MAAS](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-as-a-service/) -- 
+1. [BIER PMTU](https://datatracker.ietf.org/doc/draft-ietf-bier-path-mtu-discovery/) -- 
+Shepherd assigned: Hooman Bidgoli
+1. [BIER Redundant Ingress Router Failover](https://datatracker.ietf.org/doc/draft-ietf-bier-source-protection/) -- 
+1. [BIER-TE ISIS extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-isis/) -- 
+1. [BIER-TE OSPF extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-ospf/) -- 
+1. [BIER-TE OSPFv3 extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-ospfv3/) -- 
 
 
 [BIER Usecases](http://tools.ietf.org/wg/bier/draft-ietf-bier-use-cases/) -- BIER Usecase
