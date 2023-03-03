@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-03T20:29:04.271Z
+date: 2023-03-03T20:30:19.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -82,7 +82,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|   8:30-9:30     |  G301        |  C02 measurement and offsetting   |  N/A     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project                      |        [Zoom link](https://ietf.zoom.us/j/86826219211?pwd=QjhvdkY5YmxIWi9YeE9iMzFReFh3dz09), Meeting ID: 868 2621 9211, Passcode: ietfco2               |          |
+|   8:30-9:30     |  G301        |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project                      |        [Zoom link](https://ietf.zoom.us/j/86826219211?pwd=QjhvdkY5YmxIWi9YeE9iMzFReFh3dz09), Meeting ID: 868 2621 9211, Passcode: ietfco2               |          |
 {.dense}
 
 ## [FRIDAY 31 March](#friday)
@@ -150,7 +150,7 @@ Location: Third Floor
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------|  
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:30 |                  |   C02 measurement and offsetting    | 
+| 08:30 |                  |                  | 
 | 09:00 |                  |                  |   
 | 09:30 |                  |                  |  
 | 10:00 |                  |                  |  
@@ -212,7 +212,7 @@ Location: Third Floor
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------|
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:30 |                  |                  | 
+| 08:30 |                  |    C02 measurement and offsetting               | 
 | 09:00 |                  |                  |   
 | 09:30 |                  |                  |  
 | 10:00 |                  |                  |  
