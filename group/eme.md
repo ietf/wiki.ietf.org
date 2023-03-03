@@ -2,7 +2,7 @@
 title: EME RG (concluded) End Middle End Research Group
 description: 
 published: true
-date: 2023-03-03T19:50:13.677Z
+date: 2023-03-03T19:53:34.944Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T19:50:13.677Z
@@ -52,10 +52,11 @@ Signaling based solutions to connection establishment
 
 ## Charter 
 
-
+* [EME Charter (concluded RG)](https://irtf.org/concluded/eme)
 
 ## Old Mailing List Archive Data 
 
+* [EME Mailing List](https://www.ietf.org/mailman/listinfo/eme)
 
 
 
