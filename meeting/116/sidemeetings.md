@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-03T23:46:18.881Z
+date: 2023-03-03T23:59:29.615Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -67,6 +67,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30         |   G301       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82628342936?pwd=blRQS251ajk3Sjg0ZndROXYwUVA5dz09&from=addon), Meeting ID: 826 2834 2936, Passcode: 521273 |          |
 | 11:00-12:30         |   G301       |    Satellite Networking    |      N/A    | [Lin Han](mailto:lhan@futurewei.com)  | Discuss Satellite Networking | [Link](https://github.com/lh95129/IETF-116-satellite-network-side-meeting) |
+| 13:00-14:30         |   G301       |     mv-TBD             |     N/A     |        SP     |                         |                       |          |
 | 18:30-19:30         |   G301       |     emodir-TBD             |      emodir    |        emodir     |                         |                       |          |
 {.dense}
 
@@ -75,7 +76,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
-|   8:30-9:30     |  G301        |  TBD|     |    Shuping (mailto:pengshuping@huawei.com)   |                          |                      |          |
+|   8:30-9:30     |  G313        |  IN-TBD|  N/A   |    SP    |                          |                      |          |
 {.dense}
 
 ## [THURSDAY 30 March](#thursday)
@@ -159,10 +160,10 @@ Location: Third Floor
 | 11:30 |  NOT AVAILABLE   |                  |  
 | 12:00 |  NOT AVAILABLE   |                  |  
 | 12:30 |  NOT AVAILABLE   |                  | 
-| 13:00 |                  |                  |  
-| 13:30 |                  |                  | 
-| 14:00 |                  |                  |  
-| 14:30 |                  |                  | 
+| 13:00 |                  |NOT AVAILABLE                  |  
+| 13:30 |                  |NOT AVAILABLE                  | 
+| 14:00 |                  |NOT AVAILABLE                  |  
+| 14:30 |                  |NOT AVAILABLE                  | 
 | 15:00 |                  |                  |  
 | 15:30 |                  |                  | 
 | 16:00 |                  |                  |  
