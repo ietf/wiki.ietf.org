@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2023-03-03T20:10:34.566Z
+date: 2023-03-03T22:35:35.642Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -17,7 +17,7 @@ The procedures for publishing documents on the IRTF RFC Stream are defined in RF
 
 The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/policies/ipr) disclosure rules.
 
-----
+-----
 
 ## Research Group Wiki Pages 
 
