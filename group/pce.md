@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-02-28T16:41:08.403Z
+date: 2023-03-03T03:53:59.158Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -39,7 +39,9 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | - |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | - |
 | [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | Chairs have asked to break the document into informational and standards tracks | - |  
-| [draft-dhody-pce-pceps-tls13-01](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | Related to a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
+| [draft-dhody-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | Related to a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
+| draft-peng-pce-entropy-label-position | Pending | Expired, a new update is needed | - |
+
 
 ## Recently Adopted Documents
 
