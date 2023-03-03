@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-03-03T04:01:40.224Z
+date: 2023-03-03T09:43:41.265Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -96,7 +96,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up | IPR -4/4 | Julien |
-| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Waiting for authors to handle LC comments |  IPR Poll - 6/6 | Julien| 
+| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Waiting for authors to handle LC comments |  IPR Poll - 6/6 | Julien|
+
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|
@@ -119,7 +120,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
 | RFC9358 | Published 2023-02; Was draft-ietf-pce-vn-association | Hari |
-| RFC 9357 | Published 2023-02; Was draft-ietf-pce-lsp-extended-flags | Dhruv | 
+| RFC9357 | Published 2023-02; Was draft-ietf-pce-lsp-extended-flags | Dhruv | 
 | RFC9168 | Published 2022-01; Was  draft-ietf-pce-pcep-flowspec | Julien |
 
 ## Other Useful Information
