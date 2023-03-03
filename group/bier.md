@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-03T09:37:24.218Z
+date: 2023-03-03T09:41:04.963Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -101,6 +101,8 @@ Waiting for WGLC.
 1. [BIER HTTP](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-http-response/) -- 
 Suspended. Authors requested a new thread which is not in BIER WG: https://datatracker.ietf.org/doc/draft-trossen-rtgwg-frrm/
 1. [BIER MAAS](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-as-a-service/) -- 
+1. [BIER Ping](https://datatracker.ietf.org/doc/draft-ietf-bier-ping/) -- ***Attention***
+Author Gregory Misky requested to change editor: https://mailarchive.ietf.org/arch/msg/bier/g-_1LhRPwoqi-M6r0VbGzkAAw9M/
 1. [BIER PMTU](https://datatracker.ietf.org/doc/draft-ietf-bier-path-mtu-discovery/) -- 
 Shepherd assigned: Hooman Bidgoli
 1. [BIER Redundant Ingress Router Failover](https://datatracker.ietf.org/doc/draft-ietf-bier-source-protection/) -- 
