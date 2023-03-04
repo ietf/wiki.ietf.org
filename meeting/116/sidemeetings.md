@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-04T05:01:58.294Z
+date: 2023-03-04T05:03:51.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -77,7 +77,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |          |          |                  |          |             |                         |                       |          |
 |   8:30-9:30     |  G313        |  IN-TBD|  N/A   |    SP    
-|  12:00   |   G301   | YANG/CBOR Kafka  |   OPS    | Thomas Graf thomas.graf@swisscom.com | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | - |      
+| 12:00-13:00 |   G301   | YANG/CBOR Kafka  |   OPS    | Thomas Graf thomas.graf@swisscom.com | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | - |      
 |                          |                      |          |
 {.dense}
 
