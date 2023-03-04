@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-03-01T00:02:41.823Z
+date: 2023-03-04T03:24:35.607Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -196,7 +196,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [its *Intelligent Transportation Systems*](/group/its)
 - [json *JavaScript Object Notation*](/group/json)
 - [l3sm *L3VPN Service Model*](/group/l3sm)
-- [lime *Layer Independent OAM Management in the Multi-Layer Environment](/group/lime)
+- [lime *Layer Independent OAM Management in the Multi-Layer Environment*](/group/lime)
 - [mext *Mobility EXTensions for IPv6*](/group/mext)
 - [mif *Multiple Interfaces*](/group/mif)
 - [mile *Managed Incident Lightweight Exchange*](/group/mile)
