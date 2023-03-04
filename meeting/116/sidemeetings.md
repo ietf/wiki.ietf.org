@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-04T00:41:26.596Z
+date: 2023-03-04T00:43:12.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -154,8 +154,8 @@ Location: Third Floor
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:30 |                  | ECH Deployment Considerations | 
 | 09:00 |                  | ECH Deployment Considerations |   
-| 09:30 |                  |                  |  
-| 10:00 |                  |                  |  
+| 09:30 |                  | GIP6 (Generalized IPv6 Tunnel)|  
+| 10:00 |                  | GIP6 (Generalized IPv6 Tunnel)|  
 | 10:30 |                  |                  |  
 | 11:00 |                  |                  |  
 | 11:30 |  NOT AVAILABLE   |                  |  
