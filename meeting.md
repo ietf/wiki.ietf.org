@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2023-03-04T00:05:41.476Z
+date: 2023-03-04T03:17:57.933Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -45,12 +45,12 @@ Wikis are used by participants to share information about and coordinate around 
 | **IETF 115** | :uk: London, UK  | November 5-11, 2022 | [Meeting Wiki](/meeting/115) - [Side Meetings](/meeting/115/sidemeetings) - [Hackathon](/meeting/115/hackathon) |
 | **IETF 114** | :us: Philadelphia, US | July 23-29, 2022 | [Meeting Wiki](/meeting/114) - [Side Meetings](/meetings/114sidemeetings) - [Hackathon](/meeting/114Hackathon) |
 | **IETF 113** | :austria: Vienna, AT | March 19-25, 2022 | [Meeting Wiki](/meeting/113) |
-| **IETF 112** | *online* | November 8-12, 2021 | [Meeting Wiki](/meeting/112) |
-| **IETF 111** | *online* | July 26-30, 2021 | [Meeting Wiki](/meeting/111) |
-| **IETF 110** | *online* | March 8-12, 2021 | [Meeting Wiki](/meeting/110) |
-| **IETF 109** | *online* | November 16-20, 2020 | [Meeting Wiki](/meeting/109) |
-| **IETF 108** | *online* | July 27-31, 2020 | [Meeting Wiki](/meeting/108) |
-| **IETF 107** | *online* | March 23-27, 2020 | [Meeting Wiki](/meeting/107) |
+| **IETF 112** | :earth_asia:	*online* | November 8-12, 2021 | [Meeting Wiki](/meeting/112) |
+| **IETF 111** | :earth_africa:	*online* | July 26-30, 2021 | [Meeting Wiki](/meeting/111) |
+| **IETF 110** | :earth_americas: *online* | March 8-12, 2021 | [Meeting Wiki](/meeting/110) |
+| **IETF 109** | :earth_asia: *online* | November 16-20, 2020 | [Meeting Wiki](/meeting/109) |
+| **IETF 108** | :earth_africa:	*online* | July 27-31, 2020 | [Meeting Wiki](/meeting/108) |
+| **IETF 107** | :earth_americas: *online* | March 23-27, 2020 | [Meeting Wiki](/meeting/107) |
 | **IETF 106** | :singapore: Singapore, SG | November 16-22, 2019 | [Meeting Wiki](/meeting/107) |
 | **IETF 105** | :canada: Montreal, CA | July 20-26, 2019 | [Meeting Wiki](/meeting/107) |
 | **IETF 104** | :czech_republic: Prague, CZ  | March 22-29, 2019 | [Meeting Wiki](/meeting/107) |
