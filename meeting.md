@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2023-03-04T00:00:09.202Z
+date: 2023-03-04T00:05:41.476Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -12,18 +12,17 @@ dateCreated: 2022-03-03T23:54:36.026Z
 
 Wikis are used by participants to share information about and coordinate around IETF meetings.
 
-## Next meeting
-### IETF 116 Yokohama
+## Upcoming meetings
+
+### {.tabset}
+
+#### IETF 116 Yokohama
 **March 25-31, 2023** - Yokohama, Japan :jp:
 
 - [IETF 116 Meeting Wiki](/meeting/116)
 - [IETF 116 Side meetings](/meeting/116/sidemeetings)
 - [IETF 116 Hackathon](/meeting/116/hackathon)
 {.links-list}
-
-## Upcoming meetings
-
-### {.tabset}
 
 #### IETF 117 San Francisco
 **July 15-21, 2023** - San Francisco, CA, USA :us:
@@ -34,6 +33,10 @@ Wikis are used by participants to share information about and coordinate around 
 
 #### IETF 118 Prague
 **November 4-11, 2023** - Prague, Czechia :czech_republic:
+- IETF 118 Meeting Wiki
+- IETF 118 Side meetings
+- IETF 118 Hackathon
+{.links-list}
 
 ## Past meetings
 
