@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-05T14:56:06.099Z
+date: 2023-03-05T15:00:02.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -87,7 +87,9 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30     |  G301        |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project                      |        [Zoom link](https://ietf.zoom.us/j/86826219211?pwd=QjhvdkY5YmxIWi9YeE9iMzFReFh3dz09), Meeting ID: 868 2621 9211, Passcode: ietfco2               |          |
+| 10:00-11:30  | G301     | OAuth WG       |  Security        |  rifaat.s.ietf@gmail.com           |  Various OAuth Topics                       |                       |          |
 {.dense}
+
 
 ## [FRIDAY 31 March](#friday)
 
@@ -218,9 +220,9 @@ Location: Third Floor
 | 08:00 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:30 |                  |    C02 measurement and offsetting               | 
 | 09:00 |                  |    C02 measurement and offsetting               | 
-| 09:30 |                  |                  |  
-| 10:00 |                  |                  |  
-| 10:30 |                  |                  |  
+| 09:30 |                  |   OAuth WG               |  
+| 10:00 |                  |   OAuth WG               |  
+| 10:30 |                  |   OAuth WG                |  
 | 11:00 |                  |                  |  
 | 11:30 |  NOT AVAILABLE   |                  |  
 | 12:00 |  NOT AVAILABLE   |                  |  
