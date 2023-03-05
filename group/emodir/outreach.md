@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-03-05T16:54:35.625Z
+date: 2023-03-05T17:08:10.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -49,9 +49,12 @@ This table collects the various IETF outreach activities done by individuals to 
 |Sept 2022|[APNIC55](https://conference.apnic.net/54/program/schedule/#/day/7/apnic-technical-session-4)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|Introduction to IETF, IETF participation in the region, and sharing the latest development at IETF 114 [Link](https://conference.apnic.net/54/assets/files/APSG129/ietfroundupforapnic5_1663123974.pdf)|
 |Aug 2022|[APIGA2022](https://community.icann.org/display/GSEAPAC/APIGA+2022+Program)|Students|knowledge sharing|Dhruv Dhody|Sharing about IETF's way of working in a multi-stakeholder environment [Link](https://docs.google.com/presentation/d/1l7AdC9qTRcyh4Dv9AdvGZMB9Nqqp-8JweR7LCOyGnK8/edit?usp=sharing)|
 |July 2022|[SANOG38](https://www.sanog.org/sanog38/program.html)|Network Operators in South Asia|full participation|Dhruv Dhody|Why operator participation from the region is low [Link](https://www.sanog.org/resources/sanog38/SANOG38_Conference-Dhruv_IETF.pdf)|
+|April 2022|[Connections 2022](https://www.connections.iiesoc.in/abstract)|India|full participation|Dhruv Dhody|[pre-Event](https://www.youtube.com/watch?v=PdZlnNGBKZo&ab_channel=IIESoc)|
+|Nov 2019|[Connections 2019](https://www.connections.iiesoc.in/2019)|India|full participation|Fred Baker & Adrian Farrel|[IETF Principles](https://drive.google.com/file/d/1pqZrBachcg-v9Ib-2Wk9gqHiqhqdEc6y/view) & [Contributing to IETF](https://drive.google.com/file/d/1dCAe3M_FVHEP0aeachoSDSEwqRHjA9UQ/view)|
 |Oct 2019|[NANOG77](https://www.nanog.org/events/nanog-77/nanog-77-agenda/)|Network Operators in North America|full participation|Alissa Cooper|[IETF Track](https://pc.nanog.org/static/published/meetings/NANOG77/2074/20191029_Bonica_Ietf_Track__v1.pdf)|
 |Oct 2018|[ARIN42](https://www.arin.net/blog/2018/10/04/arin-42-day-1-daily-recap/)|Network Operators in North America|full participation|Cathy Aronson|[Video](https://www.youtube.com/watch?v=UTpk-CAWNt0&list=PL726kQ53RX6h6WZOZHuzHV4SBYjOog_O6&index=7&ab_channel=ARIN%28AmericanRegistryforInternetNumbers%29)|
-|Nov 2013|University Outreach Programme around IETF 87|Students|full participation|ISOC|[Link](https://www.ietf.org/blog/piloting-university-outreach-programme/)|
+|Feb 2018|[NANOG72](https://pc.nanog.org/static/published/meetings/NANOG72/agenda.html)|Network Operators in North America|full participation|Warren Kumari|[Operators and the IETF](https://pc.nanog.org/static/published/meetings/NANOG72/1616/20180220_Howard_Operators_And_The_v1.pdf)|
+|Nov 2013|University Outreach Programme around IETF 87|Students|full participation|ISOC|[Link](https://www.ietf.org/blog/piloting-university-outreach-programme/)
 
 
 *This is a non-exhaustive list, please feel free to add more*
