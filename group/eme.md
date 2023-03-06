@@ -2,13 +2,15 @@
 title: EME RG (concluded) End Middle End Research Group
 description: 
 published: true
-date: 2023-03-03T19:53:34.944Z
+date: 2023-03-06T15:22:58.794Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T19:50:13.677Z
 ---
 
 # End Middle End Research Group (EME) (Concluded)
+
+*NOTE: This research group is **concluded.** This wiki is for historic purposes and the links were accurate at the conclusion of the research group. *
 
 Welcome to the EME Wiki Page.  On this page you will find the Charter of the group, along with any useful information pertaining to research being done by the group.
 
