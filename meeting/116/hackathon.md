@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-06T13:05:42.933Z
+date: 2023-03-06T14:44:17.954Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -364,6 +364,20 @@ https://youtu.be/-UYjzrUKC8s
   - https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
   - https://datatracker.ietf.org/doc/rfc8613/
+
+ **CoAP Group Communication with Group OSCORE**
+- Champion(s)
+  - Rikard Höglund <rikard.hoglund at ri.se>
+  - Marco Tiloca <marco.tiloca at ri.se>
+- Project info
+  - Verify and interop functionality of latest draft version (v-17)
+  - Verify group keying material derivation from group context
+  - Verify pairwise key pair derivation
+  - Message exchange of group messages using group context
+  - Message exchange of messages using pairwise keys
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
 
 ----
 
