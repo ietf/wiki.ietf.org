@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-03-06T20:50:40.975Z
+date: 2023-03-06T20:52:31.064Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -124,7 +124,7 @@ Shepherd's name indicated within parenthesis.
 | Document Name | Last Update |  Status |
 | --- | --- | --- |
 |draft-ietf-bess-mvpn-yang | 11/05/19| Document expired, note sent to authors|
-|draft-ietf-bess-evpn-per-mcast-flow-df-election |2/14/23|Document is ready, would be asked for WGLC in IETF 116|
+|draft-ietf-bess-evpn-per-mcast-flow-df-election |2/14/23|short presentation in IETF 116 before WGLC|
 |draft-ietf-bess-evpn-fast-df-recovery |3/2/21|Reminder sent to authors|
 |draft-ietf-bess-evpn-mh-split-horizon-00 |3/2/21 | Checking with authors |
 |draft-ietf-bess-rfc7432bis-00 | 3/2/21 | Checking with authors |
