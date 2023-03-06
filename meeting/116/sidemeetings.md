@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-06T16:25:33.885Z
+date: 2023-03-06T19:34:17.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -67,7 +67,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30         |   G301       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82628342936?pwd=blRQS251ajk3Sjg0ZndROXYwUVA5dz09&from=addon), Meeting ID: 826 2834 2936, Passcode: 521273 |          |
 | 09:30-11:00         |   G301       |    GIP6 (Generalized IPv6 Tunnel)              |      N/A    | [Hongyi Huang](mailto:hongyi.huang@huawei.com) | Discuss use cases and scope |   |          |
-| 11:00-13:00         |   G301       |    Satellite Networking    |      N/A    | [Lin Han](mailto:lhan@futurewei.com)  | Discuss Satellite Networking | [Link](https://github.com/lh95129/IETF-116-satellite-network-side-meeting) |
+| 11:00-13:00         |   G301       |    Satellite Networking    |      N/A    | [Lin Han](mailto:lhan@futurewei.com)  | Discuss Satellite Networking | [Link](https://github.com/lh95129/IETF-116-satellite-network-side-meeting), [Zoom Link](https://futurewei.zoom.us/j/7743893573?pwd=YjJ1cnpIb1VhakVSeVg0UFVmcmlIQT09); Meeting ID: 774 389 3573; Passcode: sat123 |
 | 13:00-14:30         |   G301       |     mv-TBD             |     N/A     |        SP     |                         |                       |          |
 | 18:30-19:30 | G313 | Public Interest Technology Group (PITG) | - |  [Corinne Cath-Speth](corinnecath@gmail.com) and [Gurshabad Grover](gurshabad@cis-india.org) |Public Interest Technology Group (PITG) |  TBA  | TBA |
 | 18:30-19:30         |   G301       |     emodir-TBD             |      emodir    |        emodir     |                         |                       |          |
