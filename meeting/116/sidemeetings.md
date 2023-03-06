@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-06T10:36:53.707Z
+date: 2023-03-06T10:37:44.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -129,9 +129,9 @@ Location: Third Floor
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
 | 11:00 |                  |                  |  
-| 11:30 |  NOT AVAILABLE   |Metaverse side meeting|  
-| 12:00 |  NOT AVAILABLE   |Metaverse side meeting|  
-| 12:30 |  NOT AVAILABLE   |Metaverse side meeting| 
+| 11:30 |  NOT AVAILABLE   | Metaverse side meeting |  
+| 12:00 |  NOT AVAILABLE   | Metaverse side meeting |  
+| 12:30 |  NOT AVAILABLE   | Metaverse side meeting | 
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
@@ -227,9 +227,9 @@ Location: Third Floor
 | 10:00 |                  |   OAuth WG               |  
 | 10:30 |                  |   OAuth WG                |  
 | 11:00 |                  |                  |  
-| 11:30 |  NOT AVAILABLE   |Metaverse side meeting|  
-| 12:00 |  NOT AVAILABLE   |Metaverse side meeting|  
-| 12:30 |  NOT AVAILABLE   |Metaverse side meeting| 
+| 11:30 |  NOT AVAILABLE   | Metaverse side meeting |  
+| 12:00 |  NOT AVAILABLE   | Metaverse side meeting |  
+| 12:30 |  NOT AVAILABLE   | Metaverse side meeting | 
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
