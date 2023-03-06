@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-03T09:41:04.963Z
+date: 2023-03-06T06:59:07.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -25,7 +25,7 @@ First and primarily, the BIER-WG will complete its work on:
 
 1) Transition Mechanisms and Partial Deployments: The WG will describe how BIER can be introduced in existing multicast networks to shift multicast delivery, either end-to-end or in part of a network, from mechanisms such as PIM, ng-MVPN, etc. BIER operation in networks where not all routers are BIER capable or have other BIER support constraints should be addressed. How to handle routers supporting BIER with different BitStringLengths and encapsulations should be addressed. Each new mechanism should include an applicability statement that clearly describes its utility and distinctions from already standardized mechanisms.
 
-2) Applicability Statements: The WG will continue to work on documents describing how BIER can be applied, as has been done for MVPN in draft-ietf-bier-mvpn. A document describing applicability to EVPN should be published.
+2) Applicability Statements: The WG will continue to work on documents describing how BIER can be applied, as has been done for MVPN in RFC8556. A document describing applicability to EVPN should be published.
 
 3) Use Case: The WG will produce one use-case document that clearly articulates the potential benefits of BIER for different use-cases.
 
@@ -101,20 +101,20 @@ Waiting for WGLC.
 1. [BIER HTTP](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-http-response/) -- 
 Suspended. Authors requested a new thread which is not in BIER WG: https://datatracker.ietf.org/doc/draft-trossen-rtgwg-frrm/
 1. [BIER MAAS](https://datatracker.ietf.org/doc/draft-ietf-bier-multicast-as-a-service/) -- 
+1. [BIER OAM requirements](http://tools.ietf.org/wg/bier/draft-ietf-bier-oam-requirements/) -- 
 1. [BIER Ping](https://datatracker.ietf.org/doc/draft-ietf-bier-ping/) -- ***Attention***
 Author Gregory Misky requested to change editor: https://mailarchive.ietf.org/arch/msg/bier/g-_1LhRPwoqi-M6r0VbGzkAAw9M/
 1. [BIER PMTU](https://datatracker.ietf.org/doc/draft-ietf-bier-path-mtu-discovery/) -- 
 Shepherd assigned: Hooman Bidgoli
 1. [BIER Redundant Ingress Router Failover](https://datatracker.ietf.org/doc/draft-ietf-bier-source-protection/) -- 
+1. [BIER YANG](http://tools.ietf.org/id/draft-chh-bier-bier-yang-03.txt/) -- BIER YANG
+1. [BIER Usecases](http://tools.ietf.org/wg/bier/draft-ietf-bier-use-cases/) -- 
 1. [BIER-TE ISIS extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-isis/) -- 
 1. [BIER-TE OSPF extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-ospf/) -- 
 1. [BIER-TE OSPFv3 extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-ospfv3/) -- 
+1. [BIER TE YANG](https://tools.ietf.org/id/draft-zhang-bier-te-yang-01.txt/) -- 
 
 
-[BIER Usecases](http://tools.ietf.org/wg/bier/draft-ietf-bier-use-cases/) -- BIER Usecase
-[BIER OAM requirements](http://tools.ietf.org/wg/bier/draft-ietf-bier-oam-requirements/) -- BIER OAM requirements
-[BIER YANG](http://tools.ietf.org/id/draft-chh-bier-bier-yang-03.txt/) -- BIER YANG
-[BIER TE YANG](https://tools.ietf.org/id/draft-zhang-bier-te-yang-01.txt/) -- BIER TE YANG 
 
 
 ## TO DO List
