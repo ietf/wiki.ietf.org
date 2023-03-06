@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-06T19:34:17.559Z
+date: 2023-03-06T22:10:28.127Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -91,6 +91,8 @@ Please sort the meeting by time if possible.
 |   8:30-9:30     |  G301        |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project                      |        [Zoom link](https://ietf.zoom.us/j/86826219211?pwd=QjhvdkY5YmxIWi9YeE9iMzFReFh3dz09), Meeting ID: 868 2621 9211, Passcode: ietfco2               |          |
 | 10:00-11:30  | G301     | OAuth WG       |  Security        |  rifaat.s.ietf@gmail.com           |  Various OAuth Topics                       |                       |          |
 | 11:30-13:00 | G301 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com) [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
+| 13:00-14:30  | G301     | Environmental Impacts        |  cpignata@gmail.com           |  Environmental Impacts                       |                       |          |
+
 {.dense}
 
 
