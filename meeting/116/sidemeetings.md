@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-06T13:46:02.385Z
+date: 2023-03-06T13:48:25.369Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -59,7 +59,6 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  06:00        |    G313      |    Example Meeting              |   IESG   |         Example    |     We <3 IETF        |          Link!             |          |
 | 09:30-11:00         |   G301       |    GIP6 (Generalized IPv6 Tunnel)              |      N/A    | [Hongyi Huang](mailto:hongyi.huang@huawei.com) | Discuss use cases and scope |   |          |
-| 11:30-13:00 | G301 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com) [Shuping Peng](mailto:pengshuping@huawei.com) | continue the debate about the implications of Metaverse and the related IETF technologies. [GitHub Repository](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 {.dense}
 
 ## [TUESDAY 28 March](#tuesday)
@@ -130,9 +129,9 @@ Location: Third Floor
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
 | 11:00 |                  |                  |  
-| 11:30 |  NOT AVAILABLE   | Metaverse side meeting |  
-| 12:00 |  NOT AVAILABLE   | Metaverse side meeting |  
-| 12:30 |  NOT AVAILABLE   | Metaverse side meeting | 
+| 11:30 |  NOT AVAILABLE   |                  |  
+| 12:00 |  NOT AVAILABLE   |                  |  
+| 12:30 |  NOT AVAILABLE   |                  |  
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
