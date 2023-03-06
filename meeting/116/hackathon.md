@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-06T14:44:17.954Z
+date: 2023-03-06T16:16:49.692Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -181,6 +181,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - John Gray (john.gray at entrust.com)
    - Mike Ounsworth (mike.ounsworth at entrust.com)
    - Tomofumi Okubo (tomofumi.okubo@digicert.com)
+   - Goutam Tamvada (goutam.tamvada at uwaterloo.ca)
  - Drafts(s)
    - https://datatracker.ietf.org/doc/html/draft-uni-qsckeys-00.html
    - https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
