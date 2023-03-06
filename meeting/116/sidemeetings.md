@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-05T15:00:02.276Z
+date: 2023-03-06T08:16:55.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -58,6 +58,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  06:00        |    G313      |    Example Meeting              |   IESG   |         Example    |     We <3 IETF        |          Link!             |          |
+| 09:30-11:00         |   G301       |    GIP6 (Generalized IPv6 Tunnel)              |      N/A    | [Hongyi Huang](mailto:hongyi.huang@huawei.com) | Discuss use cases and scope |   |          |
+| 11:30-13:00         |   G301       |    Metaverse side meeting              |      N/A    | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com) [Shuping Peng](mailto:pengshuping@huawei.com)| continue the debate about the implications of Metaverse and the related IETF technologies |  TBD |  TBD        |
 {.dense}
 
 ## [TUESDAY 28 March](#tuesday)
@@ -88,6 +90,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30     |  G301        |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project                      |        [Zoom link](https://ietf.zoom.us/j/86826219211?pwd=QjhvdkY5YmxIWi9YeE9iMzFReFh3dz09), Meeting ID: 868 2621 9211, Passcode: ietfco2               |          |
 | 10:00-11:30  | G301     | OAuth WG       |  Security        |  rifaat.s.ietf@gmail.com           |  Various OAuth Topics                       |                       |          |
+| 11:30-13:00         |   G301       |    Metaverse side meeting              |      N/A    | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com) [Shuping Peng](mailto:pengshuping@huawei.com)| continue the debate about the implications of Metaverse and the related IETF technologies |  TBD |  TBD        |
 {.dense}
 
 
@@ -126,9 +129,9 @@ Location: Third Floor
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
 | 11:00 |                  |                  |  
-| 11:30 |  NOT AVAILABLE   |                  |  
-| 12:00 |  NOT AVAILABLE   |                  |  
-| 12:30 |  NOT AVAILABLE   |                  | 
+| 11:30 |  NOT AVAILABLE   |Metaverse side meeting|  
+| 12:00 |  NOT AVAILABLE   |Metaverse side meeting|  
+| 12:30 |  NOT AVAILABLE   |Metaverse side meeting| 
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
@@ -213,7 +216,7 @@ Location: Third Floor
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
-## <a id="thursday"></a>Thursday 20 March {#Thursday}
+## <a id="thursday"></a>Thursday 30 March {#Thursday}
 
 | **Time** | **G313 (16 people)** | **G301 (40 people)** | 
 |-------|------------------|------------------|
@@ -224,9 +227,9 @@ Location: Third Floor
 | 10:00 |                  |   OAuth WG               |  
 | 10:30 |                  |   OAuth WG                |  
 | 11:00 |                  |                  |  
-| 11:30 |  NOT AVAILABLE   |                  |  
-| 12:00 |  NOT AVAILABLE   |                  |  
-| 12:30 |  NOT AVAILABLE   |                  | 
+| 11:30 |  NOT AVAILABLE   |Metaverse side meeting|  
+| 12:00 |  NOT AVAILABLE   |Metaverse side meeting|  
+| 12:30 |  NOT AVAILABLE   |Metaverse side meeting| 
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
