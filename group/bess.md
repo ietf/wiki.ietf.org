@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-03-06T20:52:31.064Z
+date: 2023-03-06T22:05:05.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -23,6 +23,7 @@ dateCreated: 2022-11-05T16:17:26.188Z
 | Document Name | Poll type | Chair in Charge | Start date | End date | Comment | 
 | --- | --- | --- | --- | --- | --- |
 | draft-ietf-bess-pbb-evpn-isid-cmacflush | WGLC | Matthew | | | Not enough feedback during WGLC, RTGDIR provided comments that need to be addressed |
+| draft-ietf-bess-evpn-mh-pa | WGLC | Stephane |||WG Consensus: Waiting for Write-Up, RTGDIR review in progress |
 {.dense}
 
 
@@ -99,9 +100,10 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-sdwan-usage
 * draft-ietf-bess-mvpn-evpn-sr-p2mp
+* draft-ietf-bess-evpn-ac-aware-bundling
  
 ## Recently adopted documents
-* draft-ietf-bess-evpn-ac-aware-bundling
+*  draft-ietf-bess-weighted-hrw-00 
 
 
 ## Documents candidates for Working Group adoption
@@ -125,14 +127,16 @@ Shepherd's name indicated within parenthesis.
 | --- | --- | --- |
 |draft-ietf-bess-mvpn-yang | 11/05/19| Document expired, note sent to authors|
 |draft-ietf-bess-evpn-per-mcast-flow-df-election |2/14/23|short presentation in IETF 116 before WGLC|
-|draft-ietf-bess-evpn-fast-df-recovery |3/2/21|Reminder sent to authors|
-|draft-ietf-bess-evpn-mh-split-horizon-00 |3/2/21 | Checking with authors |
-|draft-ietf-bess-rfc7432bis-00 | 3/2/21 | Checking with authors |
-|draft-ietf-bess-bgp-multicast-03 | 3/2/21 | Security section need to filled  |
-|draft-ietf-bess-evpn-redundant-mcast-source-00 | 3/2/21 | Recently adopted |
-|draft-ietf-bess-bgp-multicast-controller-06 | 3/2/21 | Being presented in IETF 110 |
-|draft-ietf-bess-evpn-mh-pa-01 | 3/2/21 | Being presented in IETF 110 |
-|draft-ietf-bess-evpn-bfd-03 | 3/2/21 | Being presented in IETF 110 |
+|draft-ietf-bess-rfc7432bis-06 | 3/2/23 | Update and mailing list discussion ongoing |
+|draft-ietf-bess-bgp-multicast-03 | 3/2/23 | Security section need to filled  |
+|draft-ietf-bess-bgp-multicast-controller-06 | 3/2/23 | Checking with authors |
+|draft-ietf-bess-evpn-mh-pa-01 | 3/2/23 | Rtgdir early review |
+|draft-ietf-bess-evpn-bfd-03 | 3/2/23 | Authors being asked |
+|draft-ietf-bess-ebgp-dmz-02  | 3/6/23 |looking for WG comments before moving forward |
+|draft-ietf-bess-evpn-l2gw-proto-02| 3/6/23 | its being refreshed changes would be spoken in IETF 116 before WGLC |
+|draft-ietf-bess-ipv6-only-pe-design-03 |3/6/23| waiting for authors comment |
+| draft-ietf-bess-weighted-hrw-00 | 3/6/23 | recently adopted document |
+
 {.dense}
 
 
