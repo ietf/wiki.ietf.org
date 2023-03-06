@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-06T10:37:44.241Z
+date: 2023-03-06T12:11:37.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -70,6 +70,7 @@ Please sort the meeting by time if possible.
 | 09:30-11:00         |   G301       |    GIP6 (Generalized IPv6 Tunnel)              |      N/A    | [Hongyi Huang](mailto:hongyi.huang@huawei.com) | Discuss use cases and scope |   |          |
 | 11:00-13:00         |   G301       |    Satellite Networking    |      N/A    | [Lin Han](mailto:lhan@futurewei.com)  | Discuss Satellite Networking | [Link](https://github.com/lh95129/IETF-116-satellite-network-side-meeting) |
 | 13:00-14:30         |   G301       |     mv-TBD             |     N/A     |        SP     |                         |                       |          |
+| 18:30-19:30 | G313 | Public Interest Technology Group (PITG) | - |  [Corinne Cath-Speth](corinnecath@gmail.com) and [Gurshabad Grover](gurshabad@cis-india.org) |Public Interest Technology Group (PITG) |  TBA  | TBA |
 | 18:30-19:30         |   G301       |     emodir-TBD             |      emodir    |        emodir     |                         |                       |          |
 {.dense}
 
@@ -179,8 +180,8 @@ Location: Third Floor
 | 17:00 |                  |                  |  
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
-| 18:30 |                  |       Emodir           | 
-| 19:00 |                  |       Emodir         |  
+| 18:30 |      PITG        |       Emodir           | 
+| 19:00 |      PITG        |       Emodir         |  
 | 19:30 |                  |                | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
