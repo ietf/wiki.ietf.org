@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-03T23:53:22.803Z
+date: 2023-03-06T13:05:42.933Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -353,6 +353,17 @@ Related Videos:
 https://youtu.be/ecZFwt2VsFo
 https://youtu.be/7sZQe6Hh5GI
 https://youtu.be/-UYjzrUKC8s
+
+**EDHOC**
+- Champion(s)
+  - Marco Tiloca <marco.tiloca at ri.se>
+  - Rikard Höglund <rikard.hoglund at ri.se>
+- Project info
+  - Establish keying material for OSCORE using the EDHOC protocol
+- Specifications:
+  - https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
+  - https://datatracker.ietf.org/doc/rfc8613/
 
 ----
 
