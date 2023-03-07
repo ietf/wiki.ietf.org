@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-07T18:36:07.461Z
+date: 2023-03-07T21:26:04.381Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -160,7 +160,7 @@ Location: G415
 
 
 ## Tuesday, 28 March 2023
-
+14:30 - 15:30 INT AD office hours
 
 ## Wednesday, 29 March 2023
 
