@@ -2,7 +2,7 @@
 title: Hackathon Wiki
 description: 
 published: true
-date: 2023-01-31T01:58:59.477Z
+date: 2023-03-07T22:56:54.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T01:51:41.070Z
