@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-03-06T09:07:31.121Z
+date: 2023-03-07T09:13:14.807Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -52,6 +52,9 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 * RFC8989 year two report (Lars)
+  See email
+* Remove 84/TTP from Protocol Number Registry (IANA)
+  See email from IANA
 
 #### Not important and not urgent
 * 
