@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-08T08:40:24.182Z
+date: 2023-03-08T08:51:25.306Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -585,13 +585,13 @@ protocol.
 
 ### Telefonica
 
-The deployment of ALTO in Telefonica has been primarily motivated by the need of automating the process of network topology retrieval, generating an up-to-date topological information that can be consumed by different applications. With such topological view, it is possible to optimize the delivery of traffic within Telefonica network, with some clear benefits: improvement of quality of experience as perceived y the end user, more efficient usage of IP network resources, etc.
+The deployment of ALTO in Telefonica has been primarily motivated by the need for automating the process of network topology retrieval and generating an up-to-date topological information that can be consumed by different applications. With such a topological view, it is possible to optimize the delivery of traffic within the Telefonica network, with some clear benefits: improvement of the quality of experience perceived by the end user, more efficient usage of IP network resources, etc.
 
-The main application making use of the network topology up to now is the one related to the media streaming distribution. Telefonica develops its own Content Delivery Network (CDN) solution in order to provide IPTV and Video On Demand services to its base of customers, either from Telefonica video services (under the brands Movistar+ and Movistar Play) or from third parties. The video delivery is performed using HTTP Adaptive Streaming (HAS) protocols, then serving both internal and external customers to Telefonica in an Over-The-Top (OTT) fashion.
+Currently, media streaming distribution is the main application consuming ALTO's network topology information. Telefonica develops its own Content Delivery Network (CDN) solution in order to provide IPTV and Video On Demand services to its base of customers, either from Telefonica video services (under the brands Movistar+ and Movistar Play) or from third parties. The video delivery is performed using HTTP Adaptive Streaming (HAS) protocols, then serving both internal and external customers to Telefonica in an Over-The-Top (OTT) fashion.
 
 The Telefonica CDN (TCDN) implements state-of-the-art Request Routing Logic (RRL) which considers multiple information sources in order to maximize both QoE and video delivery efficiency. Some RRL inputs are streamer health status and load level, cache hit ratio maximization, content popularity, etc, but also and importantly, the network topology (PIDs and cost matrix). With all this information, the TCDN takes the final decision on selecting the more appropriate delivery point for a given content requested by a certain end user, coupling network and application information.
 
-It is here where ALTO plays and essential role by providing an automated way of retrieving the network topology. Before the integration of ALTO in TCDN, the network topology has been generated and provisioned manually. This is problematic not only because of resulting a process prone to errors, but also because the topological information (i.e., where are allocated the IP prefixes of the end-users requesting a given content) becomes outdated along the time.
+It is here where ALTO plays and essential role by providing an automated way of retrieving the network topology. Before the integration of ALTO in TCDN, the network topology has been generated and provisioned manually. This is problematic not only because it is a process prone to errors, but also because the topological information (i.e., the allocation of the IP prefixes of the end-users requesting a given content) becomes outdated throughout time.
 
 To overcome such limitations, ALTO is being integrated with TCDN. Two kinds of PIDs are generated: (1) the PIDs associated to customer’s IP prefixes which are the consumers of video streaming, and (2) the PIDs associated to the connection of CDN streamers to the network, representing the potential sources of TCDN traffic.
 
@@ -612,7 +612,7 @@ For the selection of the more convenient streamer in each case, the RRL takes in
                                         : backbone
                                         :
 
-The PoC is being in place nowadays. Before ethe PoC several tests were performed in the lab and pre-production network. Currently ALTO is deployed in the production network of Telefonica Spain. At this stage, only a part of the topology can be retrieved because of a bug in one of the network vendors which affects to the activation of BGP-LS in all the network. This is expected to be solved during Q2 2023. Even with partial information, the integration of ALTO is resulting valuable for validating the capability of updating network topology changes automatically.
+The PoC is currently in place. Before the PoC, several tests were performed in the lab and pre-production network. Currently ALTO is deployed in the production network of Telefonica Spain. At this stage, only a part of the topology can be retrieved because of a bug in one of the network vendors, which affects the activation of BGP-LS in all the network. This is expected to be solved during Q2 2023. Even with partial information, the integration of ALTO is resulting valuable for validating the capability of updating network topology changes automatically.
 
 After the PoC in Spain, Telefonica is planning to extend the same solution to other countries where Telefonica is present (Brazil, etc). As part of the evolution of the solution, Telefonica is working on incorporating richer performance metrics than the number of hops, as described in draft-ietf-alto-performance-metrics.
 
