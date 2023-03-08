@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-06T22:11:09.190Z
+date: 2023-03-08T02:16:17.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -58,7 +58,6 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  06:00        |    G313      |    Example Meeting              |   IESG   |         Example    |     We <3 IETF        |          Link!             |          |
-| 09:30-11:00         |   G301       |    GIP6 (Generalized IPv6 Tunnel)              |      N/A    | [Hongyi Huang](mailto:hongyi.huang@huawei.com) | Discuss use cases and scope |   |          |
 {.dense}
 
 ## [TUESDAY 28 March](#tuesday)
