@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-08T02:17:17.086Z
+date: 2023-03-08T04:25:50.275Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -79,8 +79,8 @@ Please sort the meeting by time if possible.
 |          |          |                  |          |             |                         |                       |          |
 |   8:30-9:30     |  G313        |  IN-TBD|  N/A   |    SP    
 | 10:00-11:30  | G301     | OAuth WG       |  Security        |  rifaat.s.ietf@gmail.com           |  Various OAuth Topics                       |                       |          |
-| 12:00-13:00 |   G301   | YANG/CBOR Kafka  |   OPS    | Thomas Graf thomas.graf@swisscom.com | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams] (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFlMzk0YjMtZWE2YS00ZDZhLTg1ZTEtZjQ1MWFiNDVlOTVl%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | - |      
-|                          |                      |          |
+| 12:00-13:00 |   G301   | YANG/CBOR Kafka  |   OPS    | Thomas Graf thomas.graf@swisscom.com | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams] (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFlMzk0YjMtZWE2YS00ZDZhLTg1ZTEtZjQ1MWFiNDVlOTVl%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) |
+| 15:30-17:00  | G301     | Latency Guarantee in Deterministing Networking     |  RTG/TSV       |  gengxuesong@huawei.com          | Various latency fuarantee solutions with existing and new IETF techniques  |       TBD          |          |
 {.dense}
 
 ## [THURSDAY 30 March](#thursday)
@@ -205,10 +205,10 @@ Location: Third Floor
 | 14:00 |                  |                  |  
 | 14:30 |                  |                  | 
 | 15:00 |                  |                  |  
-| 15:30 |                  |                  | 
-| 16:00 |                  |                  |  
-| 16:30 |                  |                  | 
-| 17:00 |                  |                  |  
+| 15:30 |  NOT AVAILABLE   | DetNet  |  
+| 16:00 |  NOT AVAILABLE   | DetNet  |   
+| 16:30 |  NOT AVAILABLE   | DetNet  |  
+| 17:00 |  NOT AVAILABLE   | DetNet  |   
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
 | 18:30 |                  |                  | 
