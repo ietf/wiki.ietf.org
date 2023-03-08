@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-02-23T13:54:57.691Z
+date: 2023-03-08T08:40:24.182Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -705,7 +705,7 @@ In the next sections we describe each of the components.
 
 #### GradientGraph: API and Bottleneck Structure Information
 
-GradientGraph (G2) is a technology developed by Qualcomm Technologies that implements bottleneck structure theory ([[1](https://dl.acm.org/doi/abs/10.1145/3452296.3472898)], [[2](https://dl.acm.org/doi/abs/10.1145/3366707)], [[3](https://arxiv.org/abs/2210.03534)]) to make fast computation of optimized network reconfigurations. In this specific deployment, G2 ingests topology, flow and routing information from K8S, sFlow, and Perfsonar, respectively, to compute the bottleneck structure of the network and make operational recommendations. It also exposes a REST API that is queried by the ALTO server to retrive the network state.
+GradientGraph (G2) is a technology developed by Qualcomm Technologies, Inc., that implements bottleneck structure theory ([[1](https://dl.acm.org/doi/abs/10.1145/3452296.3472898)], [[2](https://dl.acm.org/doi/abs/10.1145/3366707)], [[3](https://arxiv.org/abs/2210.03534)]) to make fast computation of optimized network reconfigurations. In this specific deployment, G2 ingests topology, flow and routing information from K8S, sFlow, and Perfsonar, respectively, to compute the bottleneck structure of the network and make operational recommendations. It also exposes a REST API that is queried by the ALTO server to retrive the network state.
 
 #### K8S: Topology Information
 
