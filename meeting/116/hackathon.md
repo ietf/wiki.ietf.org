@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-08T07:46:15.153Z
+date: 2023-03-08T08:07:45.608Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -391,6 +391,17 @@ https://youtu.be/-UYjzrUKC8s
   - https://datatracker.ietf.org/doc/rfc7285/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-oam-yang/
 
+**BMWG – Containerized Infrastructure Benchmarking**
+- Champion(s)
+  - Younghan Kim (younghak.ssu.ac.kr)
+  - Minh-Ngoc Tran (mipearlska1307@dcn.ssu.ac.kr)
+  - Jangwon Lee (jangwon.lee@dcn.ssu.ac.kr)
+- Project info
+  - Verify all possible factors that affect containerized networking performance
+  - Different networking models based on packet acceleration techniques
+  - Different resources configuration settings
+- Specifications
+  - https://datatracker.ietf.org/doc/html/draft-dcn-bmwg-containerized-infra
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
