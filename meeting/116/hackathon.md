@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-08T08:07:45.608Z
+date: 2023-03-08T09:08:58.737Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -402,6 +402,14 @@ https://youtu.be/-UYjzrUKC8s
   - Different resources configuration settings
 - Specifications
   - https://datatracker.ietf.org/doc/html/draft-dcn-bmwg-containerized-infra
+  
+**Streamlining Social Decision Making for Improved Internet Standards (sodestream)**
+- Champion(s)
+  - Stephen McQuistin (sm at smcquistin.uk)
+  - Ignacio Castro (i.castro at qmul.ac.uk)
+- Project info
+  - Working on tasks related to the sodestream (sodestream.github.io) project, which applies natural language processing and social networking techniques to data produced by the IETF, in order to better understand standardisation processes.
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
