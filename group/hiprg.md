@@ -2,13 +2,15 @@
 title: HIPRG (Concluded) Host Identity Protocol Research Group
 description: 
 published: true
-date: 2023-03-03T20:09:02.664Z
+date: 2023-03-08T16:57:27.360Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T20:09:02.664Z
 ---
 
 # Host Identity Protocol Research Group (HIPRG) (Concluded)
+
+*NOTE: This research group is **concluded.** This wiki is for historic purposes and the links were accurate at the conclusion of the research group.* 
 
 [http://www.irtf.org/charter?gtype=rg&group=hiprg HIPRG homepage & charter]
 
