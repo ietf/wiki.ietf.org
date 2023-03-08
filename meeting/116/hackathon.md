@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-07T17:08:34.357Z
+date: 2023-03-08T07:46:15.153Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -379,6 +379,17 @@ https://youtu.be/-UYjzrUKC8s
 - Specifications
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
+
+**YANG Data Models for ALTO O&M**
+- Champion(s)
+  - Jingxuan Zhang (jingxuan.zhang@tongji.edu.cn)
+  - Kai Gao (kaigao@scu.edu.cn)
+- Project info
+  - Provide a reference implementation of the base YANG modules for ALTO O&M
+  - Provide a set of vendor extended YANG modules for the base ALTO O&M YANG modules
+- Specifications
+  - https://datatracker.ietf.org/doc/rfc7285/
+  - https://datatracker.ietf.org/doc/draft-ietf-alto-oam-yang/
 
 ----
 
