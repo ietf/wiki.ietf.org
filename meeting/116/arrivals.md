@@ -2,7 +2,7 @@
 title: IETF 116 Arrival Coordination
 description: 
 published: true
-date: 2023-02-20T17:58:56.204Z
+date: 2023-03-08T03:25:12.229Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:24:40.223Z
