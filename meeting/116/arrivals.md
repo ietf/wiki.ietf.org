@@ -2,7 +2,7 @@
 title: IETF 116 Arrival Coordination
 description: 
 published: true
-date: 2023-03-08T03:25:12.229Z
+date: 2023-03-08T03:30:42.586Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:24:40.223Z
@@ -42,7 +42,7 @@ For ease of taxi-sharing from the airport to the IETF 116 venue and area hotels.
 |---|---|---|---|---|---|---|
 |  18:45 | JL1  | Dave Oran  | daveoran@orandom.net  | HND  | 1  | IC Yokohama Grand  |
 |  19:25 | KL861 | Georgios Karagiannis   |  georgios.karagiannis@huawei.com |  NRT |  2 | Yokohama Sakuragicho Washington Hotel  |
-|   |   |   |   |   |   |   |
+| 16:10 |   JL0073|   Unumoe Lafi Esera|  u.esera@mcit.gov.ws |HND   | 3  |  IC Yokohama Grand |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
