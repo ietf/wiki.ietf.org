@@ -2,7 +2,7 @@
 title: IETF 116 Departure Coordination
 description: 
 published: true
-date: 2023-02-20T18:06:51.972Z
+date: 2023-03-08T03:38:51.495Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:38:07.826Z
@@ -30,8 +30,8 @@ For ease of taxi sharing back to the airport. Please specify which airport your 
 ## Thursday, March 30, 2023
 
 | TIME  |  FLIGHT | NAME  | EMAIL  | AIRPORT (HND) or (NRT)   | TERMINAL  |  DEPARTING FROM |
-|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+|-|---|---|---|---|---|---|
+| 17:15  | JL6410  | Unumoe Lafi Esera  | u.esera@mcit.gov.ws  | HND  |  3 |  IC Yokohama Grand |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
