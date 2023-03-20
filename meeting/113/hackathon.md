@@ -2,7 +2,7 @@
 title: IETF 113 Hackathon
 description: 
 published: true
-date: 2023-03-20T05:04:23.403Z
+date: 2023-03-20T05:05:02.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-20T04:45:06.688Z
@@ -81,7 +81,7 @@ Related activities before and after the Hackathon weekend
 - Choosing a Project
 	- Champions post and lead projects
 	- Details on each project and links to additional information for each project are in the list of Projects included in Hackathon
-	- How and when teams meet during the week is up to them and can be found in the [Team Schedule](/meeting/113/teamschedule)
+	- How and when teams meet during the week is up to them and can be found in the [Team Schedule](/meeting/113/hackathon/teamschedule)
 	- Familiarity with technology area(s) in which you plan to participate will certainly help
 	- It is perfectly fine, even encouraged, to work on multiple projects
 - Lost & Found
