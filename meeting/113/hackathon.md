@@ -2,7 +2,7 @@
 title: IETF 113 Hackathon
 description: 
 published: true
-date: 2023-03-20T05:03:38.718Z
+date: 2023-03-20T05:04:23.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-20T04:45:06.688Z
@@ -73,7 +73,7 @@ Related activities before and after the Hackathon weekend
 	- Before the Hackathon, champions should:
 		- Add information about your project to the list of Projects included in Hackathon
 		- Recruit participants from associated working groups, open source projects, etc. Announcing your projects via an email to (hackathon@…) can be helpful as well.
-		- Specify when and how the project team will meet on the [Team Schedule](/meeting/113/teamschedule)
+		- Specify when and how the project team will meet on the [Team Schedule](/meeting/113/hackathon/teamschedule)
 - At the Hackathon, champions should:
 	- Make themselves available to answer questions and help others
 	- Hack on things themselves in their copious free time
