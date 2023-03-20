@@ -2,7 +2,7 @@
 title: IETF 113 Hackathon
 description: 
 published: true
-date: 2023-03-20T04:46:25.583Z
+date: 2023-03-20T05:03:38.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-20T04:45:06.688Z
@@ -174,7 +174,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       * Send and Reply to group messages with paired group context
     * Note on networking:
       * Access to the IETF network is useful to have for testing with multicast
-      * See instructions at https://trac.ietf.org/trac/ietf/meeting/wiki/113hackathon/hacknet_instructions
+      * See instructions at https://wiki.ietf.org/meeting/113/hackathon/hacknet_instructions
     * Specifications:
       * https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
       * https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis
@@ -205,7 +205,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       * Specifications
          * https://datatracker.ietf.org/doc/draft-ietf-dnsop-dns-catalog-zones/
       * Interoperability matrix:
-         * https://trac.ietf.org/trac/ietf/meeting/wiki/113hackathon/catalog-zones
+         * https://wiki.ietf.org/meeting/113/hackathon/catalog-zones
 
 **DNS: DNSSEC Dry-Run**
  * Champion(s)
