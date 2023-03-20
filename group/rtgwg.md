@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2023-02-27T19:43:01.912Z
+date: 2023-03-20T18:56:42.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -22,16 +22,18 @@ This wiki contains additional information for IETF RTGWG working group. Please r
 | Draft                                   | Remarks                                     |
 |-----------------------------------------|---------------------------------------------|
 | draft-ietf-rtgwg-bgp-pic                | Waiting for the authors to address AD review comments                       |
-| draft-ietf-rtgwg-yang-rib-extend        | Pending for AD review                                 |
-| draft-ietf-rtgwg-qos-model              | YANG doctor review comments to be addressed |
-| draft-ietf-rtgwg-segment-routing-ti-lfa | Review comments to be addressed             |
-| draft-ietf-rtgwg-atn-bgp                | Will start WGLC after IETF 114              |
+| draft-ietf-rtgwg-yang-rib-extend        | Pending for AD review                                 
+| draft-ietf-rtgwg-qos-model              | Updates will be presented at IETF 116 |
+| draft-ietf-rtgwg-segment-routing-ti-lfa | Pending directorate reviews, will start WGLC after IETF 116         |
+| draft-ietf-rtgwg-atn-bgp                | Some directorate reviews have been done. Waiting for related drats to progress in 6man.              |
 | draft-ietf-rtgwg-srv6-egress-protection |                                             |
+|draft-ietf-rtgwg-vrrp-p2mp-bfd
+|draft-ietf-rtgwg-vrrp-rfc5798bis
+
 **Recently Adopted Documents**
 | Draft                            | State  | Remarks               |
 |----------------------------------|--------|-----------------------|
-| draft-ietf-rtgwg-vrrp-p2mp-bfd   | WG I-D | Adopted on 2021-12-29 |
-| draft-ietf-rtgwg-vrrp-rfc5798bis | WG I-D | Adopted on 2022-07-18 |
+ |
 
 **Recent Errata**
 | RFC      | Errata ID | Type      | Reported By    | State                    | Remarks          |
