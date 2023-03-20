@@ -2,7 +2,7 @@
 title: IETF 113 Hackathon
 description: 
 published: true
-date: 2023-03-20T04:45:06.688Z
+date: 2023-03-20T04:46:25.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-20T04:45:06.688Z
@@ -85,7 +85,7 @@ Related activities before and after the Hackathon weekend
 	- Familiarity with technology area(s) in which you plan to participate will certainly help
 	- It is perfectly fine, even encouraged, to work on multiple projects
 - Lost & Found
-	- Participants looking for a team and champions wanting help on their projects are encouraged to visit the [Lost & Found](/meeting/114/hackathon/lost&found).
+	- Participants looking for a team and champions wanting help on their projects are encouraged to visit the [Lost & Found](/meeting/113/hackathon/lost&found).
 - Development Environment
 	- Bring a laptop on which you are comfortable developing software
 	- Some projects may require installing additional software or make use of VMs or containers
@@ -104,7 +104,7 @@ Related activities before and after the Hackathon weekend
 		- Champions for each technology are encouraged to share any other things they think would be helpful in preparation for the Hackathon
 - Project Presentations
 	- All teams have the opportunity to present what they did at the end of the Hackathon.
-		- https://github.com/IETF-Hackathon/ietf114-project-presentations is for IETF Hackathon teams to upload their Hackathon project presentations
+		- https://github.com/IETF-Hackathon/ietf113-project-presentations is for IETF Hackathon teams to upload their Hackathon project presentations
 		- You must be a member of the [IETF-Hackathon GitHub](https://github.com/IETF-Hackathon) org to upload a new presentation or update/replace an existing presentation
 		- To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf113-project-presentations/blob/main/README.md)
 		- DO NOT WAIT until just before Hackathon project presentations start or your request may be lost in the chaos
