@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2023-03-20T18:56:42.856Z
+date: 2023-03-20T21:02:11.915Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -26,14 +26,12 @@ This wiki contains additional information for IETF RTGWG working group. Please r
 | draft-ietf-rtgwg-qos-model              | Updates will be presented at IETF 116 |
 | draft-ietf-rtgwg-segment-routing-ti-lfa | Pending directorate reviews, will start WGLC after IETF 116         |
 | draft-ietf-rtgwg-atn-bgp                | Some directorate reviews have been done. Waiting for related drats to progress in 6man.              |
-| draft-ietf-rtgwg-srv6-egress-protection |                                             |
-|draft-ietf-rtgwg-vrrp-p2mp-bfd
-|draft-ietf-rtgwg-vrrp-rfc5798bis
+|draft-ietf-rtgwg-vrrp-rfc5798bis         | Pending directorate reivews
 
 **Recently Adopted Documents**
 | Draft                            | State  | Remarks               |
 |----------------------------------|--------|-----------------------|
- |
+
 
 **Recent Errata**
 | RFC      | Errata ID | Type      | Reported By    | State                    | Remarks          |
