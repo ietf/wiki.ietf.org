@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2023-03-21T19:04:57.914Z
+date: 2023-03-21T19:19:04.010Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -30,3 +30,6 @@ dateCreated: 2022-07-23T21:04:04.044Z
 * draft-liu-bfd-srv6-policy-encap - Encapsulation of BFD for SRv6 Policy
 * draft-lin-sbfd-path-consistency-over-srv6 - S-BFD Path Consistency over SRv6
 * draft-chen-spring-sr-policy-for-ubfd - Segment Routing for Unaffiliated BFD Echo Function
+
+# Non-Adopted BFD Documents of Interest
+* draft-xiao-bfd-padding-alteration - Bidirectional Forwarding Detection (BFD) Padding Alteration
