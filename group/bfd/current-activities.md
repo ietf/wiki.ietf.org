@@ -2,7 +2,7 @@
 title: BFD WG Current Activities
 description: 
 published: true
-date: 2022-11-29T19:35:31.695Z
+date: 2023-03-21T18:39:26.308Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:00:31.891Z
@@ -10,17 +10,17 @@ dateCreated: 2022-07-23T21:00:31.891Z
 
 # Authentication
 
-* draft-ietf-bfd-optimizing-authentication - Optimizing BFD Authentication (2020-07 Document Shepherding in progress.)
-* draft-ietf-bfd-secure-sequence-numbers - (2020-07 Document Shepherding in progress.)
+* draft-ietf-bfd-optimizing-authentication - Optimizing BFD Authentication (2023-03 Requires review after draft-ietf-bfd-secure-sequence-numbers update.)
+* draft-ietf-bfd-secure-sequence-numbers - (2023-03 Large document update, ready for WGLC soon.)
 * draft-ietf-bfd-generic-crypto-auth (2015-03-21, Expired, Awaiting Implementation to Progress)
 * draft-ietf-bfd-hmac-sha (2015-03-21, Expired, Awaiting Implementation to Progress)
 
 # Miscellaneous Documents
 
 * draft-ietf-bfd-large-packets - BFD encapsulated in large packets. (2020-07: Updates needed to progress.)
-* draft-ietf-bfd-unsolicited - Unsolicited BFD for Sessionless Applications. (2022-11: AD comments and directorate comments mostly addressed after WGLC. Hopefully headed to IETF-Last Call after IETF 115)
+* draft-ietf-bfd-unsolicited - Unsolicited BFD for Sessionless Applications. (2023-03: AD comments in process of being addressed. Hopefully headed to IETF-Last Call after IETF 117)
 * draft-ietf-bfd-stability (2020-07 Document Shepherding in progress.)
-* draft-ietf-bfd-unaffiliated-echo - Unaffiliated BFD Echo Function. (2020-08-04 Adopted by WG)
+* draft-ietf-bfd-unaffiliated-echo - Unaffiliated BFD Echo Function. (2023-03 Submitted for WGLC.)
 
 # Likely Upcoming Work
 
