@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-21T11:41:00.317Z
+date: 2023-03-21T14:02:37.456Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -27,9 +27,6 @@ Based on recent discussion there are two subtopics: a) the question about what's
 1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes) -> retreat
 
 1. IAB+IESG: review of IAB-ISOC group -> retreat
-
-1. IESG: Change voting requirements for Stds Track documents (Rob)
-Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational?
 
 1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
 Discussion on various outreach activities and how the coordination function can be improved -> retreat
@@ -119,7 +116,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg_2
 Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg_2
 
 > * Plenary Prep
-> * Topic
+> * Change voting requirements for Stds Track documents (Rob)
+Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational?
 > * Topic
 
 
