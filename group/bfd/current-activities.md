@@ -2,7 +2,7 @@
 title: BFD WG Current Activities
 description: 
 published: true
-date: 2023-03-21T18:39:26.308Z
+date: 2023-03-21T18:53:23.169Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:00:31.891Z
@@ -19,7 +19,7 @@ dateCreated: 2022-07-23T21:00:31.891Z
 
 * draft-ietf-bfd-large-packets - BFD encapsulated in large packets. (2020-07: Updates needed to progress.)
 * draft-ietf-bfd-unsolicited - Unsolicited BFD for Sessionless Applications. (2023-03: AD comments in process of being addressed. Hopefully headed to IETF-Last Call after IETF 117)
-* draft-ietf-bfd-stability (2020-07 Document Shepherding in progress.)
+* draft-ietf-bfd-stability (2023-03 Waiting for re-review after work completes on draft-ietf-bfd-secure-sequence-numbers.)
 * draft-ietf-bfd-unaffiliated-echo - Unaffiliated BFD Echo Function. (2023-03 Submitted for WGLC.)
 
 # Likely Upcoming Work
