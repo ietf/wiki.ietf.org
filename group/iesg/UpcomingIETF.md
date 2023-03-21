@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-21T14:04:50.415Z
+date: 2023-03-21T16:00:04.555Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -83,8 +83,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
 Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg
 Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg
 
-> 1. Topic
-> 2. Topic
+> 1. eBPF BOF licensing discussion (Lars)
 
 ## Tuesday, March 28, 2023
 
