@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-08T15:09:51.748Z
+date: 2023-03-21T11:41:00.317Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -19,24 +19,23 @@ Suggested topics for the next face-to-face meeting here.
 The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
 
 1. IESG+IAB: NomCom process for Joint Discussion (Mirja)
-Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
+Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG) -> retreat
 
 1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (Mirja)
-Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
+Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion -> Retreat
 
-1. IESG: Filtering on IETF infrastructure (8718bis-related) (Lars) 
+1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes) -> retreat
 
-1. IESG: Copyright for IETF wikis (Lars)
+1. IAB+IESG: review of IAB-ISOC group -> retreat
 
-1. IESG: Review of meeting fees (Jay)
-  Update on consultation
+1. IESG: Change voting requirements for Stds Track documents (Rob)
+Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational?
 
-1. IESG: Ballot process discussion (Lars)
-  Might punt to retreat
+1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
+Discussion on various outreach activities and how the coordination function can be improved -> retreat
 
-1. IESG+IAB: NomCom candidate pool & related (Lars)
-
-1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes)
+1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (added by Mirja but will not drive it) 
+See https://www.ietf.org/about/groups/iesg/statements/support-documents/ -> retreat
 
 # IESG Activities
 *All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -64,11 +63,12 @@ What: A pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc.
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: G301
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: G301
-Meetecho: TBD
-Onsite Tool: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iabiesg
+Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
 
 
-> 1. Welcome
+> 1. Welcome and introductions
+> 1. ISOC Policy Program update (Sally/Ryan) (5 mins)
 > 1. Area walkthrough for hot topics (list randomized for 116)
     > - SEC
     > - GEN
@@ -79,24 +79,28 @@ Onsite Tool: TBD
     > - RTG
     > - TSV
     > - IAB
+> 1. Filtering on IETF infrastructure (8718bis-related) (Lars)  
+> 1. Review of meeting fees (Jay) -  Update on consultation
+> 1. "Security standardization" newsletter (Chris)
 
 ### IESG Only Meeting - Time: 14:00-16:00 Room: G301
 
-Meetecho: TBD
-Onsite Tool: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iabiesg
+Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
 
 > 1. Welcome
 > 1. Updates
 >    - RFC Editor
 >    - IANA
+> 1. Copyright for IETF wikis (Lars)
 
 ## Monday, March 27, 2023 
 
 
 ### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: G301
 
-Meetecho: TBD
-Onsite Tool: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg
+Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg
 
 > 1. Topic
 > 2. Topic
@@ -111,8 +115,8 @@ No IESG breakfast. IAB has a breakfast meeting
 ### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: G301
 
 
-Meetecho: TBD
-Onsite Tool: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg_2
+Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg_2
 
 > * Plenary Prep
 > * Topic
@@ -126,11 +130,11 @@ Onsite Tool: TBD
 No IESG breakfast. IAB has a breakfast meeting
 
 ## Friday, March 31, 2023 
-### Joint IAB/IESG Lunch - Time: 13:30 Room: G301
-### Joint IESG/IAB Meeting - Time: 14:00-15:30 JST (UTC+9)
+### Joint IAB/IESG Lunch - Time: 13:45 Room: G301
+### Joint IESG/IAB Meeting - Time: 14:15-16:00 JST (UTC+9)
 
-Meetecho: TBD
-Onsite Tool: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iabiesg_2
+Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg_2
 
 >  1. Welcome
 >  1. Post-meeting review (randomized for 116)
@@ -144,6 +148,7 @@ Onsite Tool: TBD
     > - TSV
     > - INT
 >  1.  General discussion of productivity and how the meeting went	 (standing item)
+>  1. NomCom candidate pool & related (Lars)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
@@ -152,15 +157,18 @@ Location: G415
 
 
 ## Sunday, 26 March 2023
+note: Not available before 10:00 Sunday
 
-#### TSV AD Office Hours : 10:30-11:30
-#### RTG ADs Office Hours: 1600-1700
+TSV AD Office Hours : 10:30-11:30
+RTG ADs Office Hours: 1600-1700
 
 
 ## Monday, 27 March 2023
 
+12:00 - 12:45 : SEC AD Office Hours
 
 ## Tuesday, 28 March 2023
+0930-1130: BGP over QUIC Authors (Alvaro)
 14:30 - 15:30 INT AD office hours
 
 ## Wednesday, 29 March 2023
@@ -168,6 +176,7 @@ Location: G415
 
 ## Thursday, 30 March 2023
 
+13:00-15:00 (private meeting via the Secretariat)
 
 ## Friday, 31 March 2023
 
