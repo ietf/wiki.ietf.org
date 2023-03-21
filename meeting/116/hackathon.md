@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-21T22:04:13.223Z
+date: 2023-03-21T22:10:06.445Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -224,7 +224,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Implementing BGP-MUP SAFI to BGP software. Both open source and vendor proprietary software developers are welcome to join. The BGP software would run as a MUP-Controller and/or a MUP-PE. We will do BGP-MUP SAFI interoperability test at a BGP-MUP SAFI enabled peer between the MUP-Controller and the MUP-PE.
 
 
-### TeraFlow SDN: OpenSource SDN controller for integrated IETF network slice management**
+### TeraFlow SDN: OpenSource SDN controller for integrated IETF network slice management
 - **Champion(s)**
   - In Yokohama
     - Oscar Gonzalez (oscar.gonzalezdedios@telefonica.com)
