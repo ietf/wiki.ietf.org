@@ -2,14 +2,13 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2022-11-29T19:35:35.173Z
+date: 2023-03-21T19:01:42.020Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
 ---
 
 # Adopted Non-WG BFD Documents of Interest
-* draft-ietf-lsr-ospf-bfd-strict-mode - OSPF BFD Strict-Mode.
 * draft-ietf-idr-bgp-bfd-strict-mode - BGP BFD Strict-Mode.
 * draft-ietf-bier-bfd - BIER BFD
 * draft-ietf-pim-bfd-p2mp-use-case - Bidirectional Forwarding Detection (BFD) for Multi-point Networks and Protocol Independent Multicast - Sparse Mode (PIM-SM) Use Case (Submitted to IESG for publication)
