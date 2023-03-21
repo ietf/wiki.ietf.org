@@ -2,7 +2,7 @@
 title: BFD WG RFC Listing
 description: 
 published: true
-date: 2022-11-29T19:35:27.756Z
+date: 2023-03-21T19:01:44.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:56:34.825Z
@@ -55,3 +55,4 @@ dateCreated: 2022-07-23T20:56:34.825Z
 
 * RFC 6428 - CC, CV, and RDI for MPLS-TP
 * RFC 9026 - Multicast VPN Fast Upstream Failover
+* RFC 9355 - OSPF BFD Strict-Mode.
