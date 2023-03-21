@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-21T22:14:10.769Z
+date: 2023-03-21T22:39:17.558Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -365,7 +365,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
   - https://datatracker.ietf.org/doc/rfc8613/
 
- **CoAP Group Communication with Group OSCORE**
+### CoAP Group Communication with Group OSCORE
 - **Champion(s)**
   - Rikard Höglund (rikard.hoglund at ri.se)
   - Marco Tiloca (marco.tiloca at ri.se)
