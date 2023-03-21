@@ -1,0 +1,56 @@
+<!--
+title: MPLS Open DT Design Directives 
+description: Design Directives
+published: true
+date: 2023-03-21T15:04:48.176Z
+tags: 
+editor: ckeditor
+dateCreated: 2023-03-21T15:04:48.175Z
+-->
+
+<h1><strong><u>Design Directive 1</u></strong></h1>
+<h2><strong>Proposed Email to PALS/DETNET/MPLS WGs</strong></h2>
+<p>Dear PALS, DetNET and MPLS WGs,</p>
+<p>The MPLS Open DT is working on a solution for carrying ancillary data in MPLS that will address several use cases. The MPLS Open DT has put together a number of design directives, also stated below:</p>
+<p>MPLS Open DT Design Directives:</p>
+<ul>
+  <li>Existing specification and implementations for GAL/G-ACh and the "Control Word" specified by the DETNET WG (d-CW) will continue to operate as specified.</li>
+  <li><a href="http://tools.ietf.org/html/rfc5586">RFC 5586</a> "MPLS Generic Associated Channel" (including the updates by <a href="http://tools.ietf.org/html/rfc7274">RFC 7274</a>, <a href="http://tools.ietf.org/html/rfc6423">RFC 6423</a>, <a href="http://tools.ietf.org/html/rfc7214">RFC 7214</a>, and <a href="http://tools.ietf.org/html/rfc7026">RFC 7026</a>) will not be changed by the MPLS Open Design Team.</li>
+  <li>No changes should be made to the associated channel (ACH) by third parties, without careful coordination with what will be specified by the MPLS Open design team.</li>
+  <li><a href="http://tools.ietf.org/html/rfc8964">RFC 8964</a> will not be changed, and the DETNET Control Word (d-CW) will continue to operate as specified.</li>
+  <li>The MPLS Open Design Team will continue to define methods based on indicators (e.g. Forwarding Action Indicator (FAI) style SPL) and PSD (Post Stack Data)</li>
+  <li>A given MPLS label stack MUST NOT simultaneously be followed by more than one set of Post Stack Data (PSD).</li>
+</ul>
+<p>That is, <i>at most one of the new-style</i> PSD, PW CW, d-CW, ACH may be present after the label whose Bottom of Stack bit (BoS) is set, in any given label stack. <i>Thus, any changes in the format or processing of the GAL/G-Ach, PW CW or DETNET CW MUST be made in the context of the new PSD format.</i></p>
+<ul>
+  <li>If/when new methods are defined to indicate and use PSD, it is up to the specification of these new methods to address backwards and forwarding compatibility.</li>
+</ul>
+<p>We are asking you to review these design directives and let us know if you have any feedback or concerns.</p>
+<p>Signed, (for the MPLS Open DT)</p>
+<h2><strong>2021-09-30</strong></h2>
+<h2><strong>GAL/GACh, the DETNET Control Word (d-CW) and new methods to Indicate PSD (i.e. Ancillary Data after the BoS).</strong></h2>
+<p><br>The following design directive has been issued for the MPLS Open Design Team by the MPLS wg co-chairs, and is in effect from 2021-09-30.</p>
+<ul>
+  <li>Existing specification and implementations for GAL/G-ACh and the "Control Word" specified by the DETNET wg (d-CW) will continue to operate as specified.</li>
+  <li><a href="http://tools.ietf.org/html/rfc5586">RFC 5586</a> "MPLS Generic Associated Channel" (including the updates by <a href="http://tools.ietf.org/html/rfc7274">RFC 7274</a>, <a href="http://tools.ietf.org/html/rfc6423">RFC 6423</a>, <a href="http://tools.ietf.org/html/rfc7214">RFC 7214</a>, and <a href="http://tools.ietf.org/html/rfc7026">RFC 7026</a>) will not be changed by the MPLS Open Design Team.</li>
+  <li>No changes should be made to the associated channel (ACH) by third parties, without careful coordination with what will be specified by the MPLS Open design team.</li>
+  <li><a href="http://tools.ietf.org/html/rfc8964">RFC 8964</a> will not be changed, and the DETNET Control Word (d-CW) will continue to operate as specified.</li>
+  <li>The Open design team will continue define methods based on indicators (e.g. FAI-style SPL) and PSD (Post Stack Data)</li>
+</ul>
+<p><strong>A given label stack cannot simultaneously be followed by more than one set of PSD.</strong></p>
+<p>I.e. the FAI-style PSD, d-CW, ACH or any other future PSD cannot be present simultaneously after the label carrying the Bottom of Stack bit (BoS) in any given label stack.</p>
+<p>If/when new methods are defined to indicate and use PSD, it is up to the specification of these new methods to address backwards and forwarding compatibility.</p>
+<p><strong>Loa Andersson for MPLS co-chairs.</strong></p>
+<h2><strong>Earlier versions</strong></h2>
+<ul>
+  <li>Version 1 (2021-08-24).</li>
+</ul>
+<blockquote>
+  <p>[<a href="https://trac.ietf.org/trac/mpls/wiki/Version1">wiki:Version1</a> Version 1 of "GAL/GACh and New methods to Indicate Ancillary Data after the BOS"</p>
+</blockquote>
+<ul>
+  <li>Version 1 (2021-09-30).</li>
+</ul>
+<blockquote>
+  <p>[<a href="https://trac.ietf.org/trac/mpls/wiki/Version2">wiki:Version2</a> Version 2 of "GAL/GACh and New methods to Indicate Ancillary Data after the BOS"</p>
+</blockquote>
