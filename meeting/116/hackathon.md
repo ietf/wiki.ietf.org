@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-21T22:10:06.445Z
+date: 2023-03-21T22:14:10.769Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -493,6 +493,12 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Provide incremental updates for ALTO using Transport Information Publication Service (TIPS)
 - **Specifications**:
   - https://datatracker.ietf.org/doc/draft-ietf-alto-new-transport/
+
+### WEBTRANS
+- **Champion(s)**
+  - Alan Frindell, Victor Vasiliev
+- **Project Info**
+  - WebTransport over h2 and h3
   
 ----
 
