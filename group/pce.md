@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-03-03T09:46:36.303Z
+date: 2023-03-21T13:45:14.953Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -46,11 +46,12 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
 | draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
 | draft-ietf-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; Comments received during adoption needs to be handled | Was Dhruv |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05; -02 posted on 2022-07-06 that handles WG adoption comments  | Was Dhruv |
-| [draft-dhody-pce-pcep-extension-pce-controller-srv6](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-srv6) | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
+
 
 ## Other WG I-Ds
 
@@ -137,8 +138,8 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 | --- | --- | --- | --- | --- | --- |
 |draft-ietf-pce-multipath|WG I-D| various |2022-05-09|-|2023-05-09|
 |draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2022-12-12|2024-01-12|
-|draft-ietf-pce-local-protection-enforcement| WG I-D |LSPA flag|2021-01-28|2021-12-16|2023-01-28|
-|draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2022-02-14|2023-03-30| 
+|draft-ietf-pce-local-protection-enforcement| WG I-D |LSPA flag|2021-01-28|2023-01-19|2024-01-28|
+|draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
 
 ### Recent Errata
 
