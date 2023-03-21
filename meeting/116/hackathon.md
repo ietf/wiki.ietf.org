@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-21T08:15:33.564Z
+date: 2023-03-21T22:00:22.030Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -184,13 +184,13 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
- **PQ Use in the real world:  X.509 keys, signatures, certificates and protocols**
- - Champion(s)
+### PQ Use in the real world:  X.509 keys, signatures, certificates and protocols
+- **Champion(s)**
    - John Gray (john.gray at entrust.com)
    - Mike Ounsworth (mike.ounsworth at entrust.com)
    - Tomofumi Okubo (tomofumi.okubo@digicert.com)
    - Goutam Tamvada (goutam.tamvada at uwaterloo.ca)
- - Drafts(s)
+- **Drafts(s)**
    - https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
    - https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-keys/
@@ -198,210 +198,197 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-kem/
    - https://www.ietf.org/id/draft-housley-lamps-cms-kemri-00.html
    - https://datatracker.ietf.org/doc/draft-becker-guthrie-cert-binding-for-multi-auth/
- - Project info
-Purpose is to make use of PQ in real world X.509 structures like keys, signatures, certificates and protocols.   This will allow us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage in the real world.  
-
-A good starting place is our Github repository:
-Github: https://github.com/IETF-Hackathon/pqc-certificates
-
-For information on OIDs used to create interoperable structures, consult:
-https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+- **Project info**
+	- Purpose is to make use of PQ in real world X.509 structures like keys, signatures, certificates and protocols.   This will allow us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage in the real world.  
+	- A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+	- For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
 
 
- **SRv6 Data-Plane Visibility**
-- Champion(s)
+### SRv6 Data-Plane Visibility
+- **Champion(s)**
   - Thomas Graf (thomas.graf at swisscom.com)
   - Benoit Claise (benoit.claise at huawei.com)
   - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
-- Draft(s)
+- **Draft(s)**
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-on-path-telemetry
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
-- Project info
+- **Project info**
   - Develop and validate running code. Extend IPFIX SRv6 data-plane and on-path delay measurement export in VPP at FD.io and on Huawei VRP. Improve IETF 115 hackathon established multivendor SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data. Extend Network Anomaly Detection to support on-path delay in the operational checks.
   
-**BGP-MUP SAFI Implementation and Interop**
-- Champion(s)
+### BGP-MUP SAFI Implementation and Interop
+- **Champion(s)**
   - Satoru Matsushima (satoru.matsushima at g.softbank.co.jp)
-- Draft(s)
+- **Draft(s)**
   - https://datatracker.ietf.org/doc/html/draft-mhkk-dmm-srv6mup-architecture
   - https://datatracker.ietf.org/doc/html/draft-mpmz-bess-mup-safi
-- Project info
+- **Project info**
   - Implementing BGP-MUP SAFI to BGP software. Both open source and vendor proprietary software developers are welcome to join. The BGP software would run as a MUP-Controller and/or a MUP-PE. We will do BGP-MUP SAFI interoperability test at a BGP-MUP SAFI enabled peer between the MUP-Controller and the MUP-PE.
- 
-**TeraFlow SDN: OpenSource SDN controller for integrated IETF network slice management**
-- Champions
+
+
+### TeraFlow SDN: OpenSource SDN controller for integrated IETF network slice management**
+- **Champion(s)**
   - In Yokohama
     - Oscar Gonzalez (oscar.gonzalezdedios@telefonica.com)
     - Daniel King (daniel@olddog.co.uk)
   - Remote participation
     - Lluis Gifre (lluis.gifre@cttc.es)
-- Specifications
+- **Specifications**
   - https://datatracker.ietf.org/doc/html/rfc8299 (L3SM)
   - https://datatracker.ietf.org/doc/html/rfc9182 (L3NM)
   - https://datatracker.ietf.org/doc/html/rfc8466 (L2SM)
   - https://datatracker.ietf.org/doc/html/rfc9291 (L2NM) 
   - https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-nbi-yang/ (slicing NBI)
   - https://datatracker.ietf.org/doc/html/rfc8796 (TE topology)
-- Project info
+- **Project Info**
   0. Learn about ETSI OSG TFS the opensource SDN controller for integrated IETF network slice management
   1. Learn how to install and build TFS
   2. Learn how to run the existing TFS demos 
   3. Work on improvements to the TFS NBI for IETF slicing, topology export, service models using IETF YANG models
   4. Produce a demo of TFS using the IETF NBIs
-- Source code
+- **Source Code**
   - https://labs.etsi.org/rep/tfs 
-- External reference
+- **External Reference**
   - https://tfs.etsi.org/ (ETSI OSG TFS)
   - https://teraflow-h2020.eu/ (TeraFlow EU project)
  
-**Quantitative Mailinglist and Document Analysis of IETF Data**
-- Champions
+### Quantitative Mailinglist and Document Analysis of IETF Data
+- **Champion(s)**
   - Niels ten Oever (mail@nielstenoever.net)
   - Sebastian Benthall (sbenthall@gmail.com)
 - Project
   - http://datactive.github.io/bigbang/
-- Project info
+- **Project Info**
   0. List all tools that are used for IETF data analysis
   1. See to what extend they can interoperate
   2. Improve the Standards and Governance dashboard to increase access to analysis
   3. Add new analysis to the existing packages (BigBang and others)
   4. Add the analysis to the dashboard (see 2)
-- Source code
+- **Source Code**
   - https://github.com/datactive/bigbang
   
- **Trusted Execution Environment Provisioning (TEEP)**
-- Champion(s)
+### Trusted Execution Environment Provisioning (TEEP)
+- **Champion(s)**
   - Dave Thaler (dthaler@microsoft.com)
   - Akira Tsukamoto (akira.tsukamoto@gmail.com)
   - Kohei Isobe (isobekohei@gmail.com)
   - Ken Takayama (ken.takayama.ietf at gmail.com)
   - Shin'ichi Miyazawa (s.miyazawa at gmail.com)
   - Daisuke Itoh
-- Drafts
+- **Drafts**
   - https://github.com/ietf-teep/teep-protocol
-- Implementations
+- **Implementations**
   - https://github.com/dthaler/teep
   - https://github.com/s-miyazawa/teep_armadillo_trial
   - https://github.com/ko-isobe/tamproto
   - https://github.com/kentakayama/libteep
   - https://github.com/kentakayama/libcsuit
-- WG info
+- **WG Info**
   - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
-- Project info
+- **Project Info**
   - Refine MTI algorithms and pass cddl syntax check. 
   - Add feature in Makefile that synchronizes cddl definition between md file and cddl file. 
   - Consider compromised TEEP-Agent on SGX implementation, which Ken added to the issue. 
 
-**Encrypted DNS Unilateral Probing**
-- Champion(s)
+### Encrypted DNS Unilateral Probing
+- **Champion(s)**
   - tbd
-- Draft
+- **Draft**
   - https://datatracker.ietf.org/doc/draft-ietf-dprive-unilateral-probing/
-- Project info
+- **Project Info**
   - PoC implementation of the draft in DNS resolver and authoritative name server
-- Implementations
+- **Implementations**
   - tbd
 
-**BPF**
-- Champion(s)
+### BPF
+- **Champion(s)**
   - David Vernet (void@manifault.com)
   - Alexei Starovoitov (ast@kernel.org)
   - Mykola Lysenko (mykolal@meta.com)
   - Manu Bretelle (chantra@meta.com)
-- Project info
+- **Project Info**
   - Learn about [BPF](https://ebpf.io/what-is-ebpf/) and/or [Sched Ext](https://lwn.net/Articles/922405/) by writing BPF programs, creating custom Linux schedulers in BPF, and even contributing to the BPF codebase itself.
   - Get familiar with BPF environment and tooling by trying the [opensnoop lab](https://ebpf.io/get-started/).
   - Add [BPF documentation](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/Documentation/bpf) to the upstream Linux kernel tree in support of BPF standardization through IETF. Newcomers to Linux and BPF are welcome.
   - Write custom schedulers in BPF, using the new Sched Ext feature currently being [discussed upstream](https://lore.kernel.org/bpf/20230128001639.3510083-1-tj@kernel.org/).
   
- **t_cose - COSE encryption including HPKE**
- - Champions(s)
-   - Laurence Lundblade (lgl@island-resort.com)
-   - Hannes Tschofenig (Hannes.Tschofenig@arm.com)
- - Description
-    Work on a commercial quality implementation of COSE encryption in C. In particular support of HPKE.
- - Source and info
-   - https://github.com/laurencelundblade/t_cose
- - Documents and drafts
-   - https://www.rfc-editor.org/rfc/rfc9052.html
-   - https://www.rfc-editor.org/rfc/rfc9180.html
-   - https://www.ietf.org/archive/id/draft-ietf-cose-hpke-02.html
+### t_cose - COSE encryption including HPKE
+- **Champions(s)**
+  - Laurence Lundblade (lgl@island-resort.com)
+  - Hannes Tschofenig (Hannes.Tschofenig@arm.com)
+- **Project Info**
+  - Work on a commercial quality implementation of COSE encryption in C. In particular support of HPKE.
+- **Source and Info**
+  - https://github.com/laurencelundblade/t_cose
+- **Documents and Drafts**
+  - https://www.rfc-editor.org/rfc/rfc9052.html
+  - https://www.rfc-editor.org/rfc/rfc9180.html
+  - https://www.ietf.org/archive/id/draft-ietf-cose-hpke-02.html
 
- **Satellite Routing**
-- Champion(s)
+### Satellite Routing
+- **Champion(s)**
   - Li Zhang (zhangli344@hauwei.com)
   - Qiangzhou Gao(gaoqiangzhou@huawei.com)
   - Zhenbin Li (lizhenbin@huawei.com)
-- Project info
+- **Project Info**
   - Analyze QoS data of traffic under different routing protocols.
   - Dynamic visualization of end-to-end paths in satellite network.
   
-**PDM and IPv6 EH Testing**
+### PDM and IPv6 EH Testing
+- **Champion(s)**
+  - Ameya Deshpande (ameyadeshpande at google.com)
+  - Nalini Elkins (nalini.elkins at insidethestack.com)
+  - Michael Ackermann (mackermann at bcbsm.com)
+  - Dhruv Dhody (dhruv.ietf at gmail.com)
+  - Mohit Tahiliani (tahiliani at nitk.edu.in)
+- **Project Info**
+  - IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option
+  - PDM/ PDMv2 IPv6 extension header testing
+  - This project aims to test PDM/PDMv2 Destinations Options Extension header over the Internet. We would like to collect data for source and destination placed in various geographical locations. This testing can be extended to other extension headers as well.
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-ippm-encrypted-pdmv2/
+  - RFC8250
+  - https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-fw/
+  - https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-cs/
+  - https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-cdn/
+- **Related Videos**
+  - https://youtu.be/ecZFwt2VsFo
+  - https://youtu.be/7sZQe6Hh5GI
+  - https://youtu.be/-UYjzrUKC8s
 
-IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option
-
-Champion(s)
-
-Ameya Deshpande (ameyadeshpande at google.com)
-Nalini Elkins (nalini.elkins at insidethestack.com)
-Michael Ackermann (mackermann at bcbsm.com)
-Dhruv Dhody (dhruv.ietf at gmail.com)
-Mohit Tahiliani (tahiliani at nitk.edu.in)
-
-Project info
-
-PDM/ PDMv2 IPv6 extension header testing
-
-This project aims to test PDM/PDMv2 Destinations Options Extension header over the Internet. We would like to collect data for source and destination placed in various geographical locations. This testing can be extended to other extension headers as well.
-
-Specifications
-
-https://datatracker.ietf.org/doc/draft-ietf-ippm-encrypted-pdmv2/
-RFC8250
-https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-fw/
-https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-cs/
-https://datatracker.ietf.org/doc/draft-elkins-v6ops-eh-deepdive-cdn/
-
-Related Videos:
-
-https://youtu.be/ecZFwt2VsFo
-https://youtu.be/7sZQe6Hh5GI
-https://youtu.be/-UYjzrUKC8s
-
-**EDHOC**
-- Champion(s)
-  - Marco Tiloca <marco.tiloca at ri.se>
-  - Rikard Höglund <rikard.hoglund at ri.se>
-- Project info
+### EDHOC
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+  - Rikard Höglund (rikard.hoglund at ri.se)
+- **Project Info**
   - Establish keying material for OSCORE using the EDHOC protocol
-- Specifications:
+- **Specifications**:
   - https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
   - https://datatracker.ietf.org/doc/rfc8613/
 
  **CoAP Group Communication with Group OSCORE**
-- Champion(s)
-  - Rikard Höglund <rikard.hoglund at ri.se>
-  - Marco Tiloca <marco.tiloca at ri.se>
-- Project info
+- **Champion(s)**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
   - Verify and interop functionality of latest draft version (v-17)
   - Verify group keying material derivation from group context
   - Verify pairwise key pair derivation
   - Message exchange of group messages using group context
   - Message exchange of messages using pairwise keys
-- Specifications
+- **Specifications**
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
 
-**ASDF-WISHI-T2TRG**
-- Champion(s)
-	- Ari Keränen (<ari.keranen@ericsson.com>)
-  - Carsten Bormann (<cabo@tzi.org>)
-- Project info
+### ASDF-WISHI-T2TRG
+- **Champion(s)**
+	- Ari Keränen (ari.keranen@ericsson.com)
+  - Carsten Bormann (cabo@tzi.org)
+- **Project Info**
   - While neither the ASDF WG nor T2TRG are meeting at this IETF, we plan to progress implementation efforts in the areas of data models for IoT devices and their interactions, including model translators and model-driven connectors/gateways.
   - http://wishi.nomadiclab.com/sdf-converter/
   - This will include some work on CDDL and possibly JSONPath.
-- Specifications
+- **Specifications**
   - https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-13.html
   - https://www.ietf.org/archive/id/draft-laari-asdf-relations-01.html
   - https://www.ietf.org/archive/id/draft-bormann-asdf-sdftype-link-00.html
@@ -409,107 +396,104 @@ https://youtu.be/-UYjzrUKC8s
   - https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-compact-03.html
   
   
-**YANG Data Models for ALTO O&M**
-- Champion(s)
+### YANG Data Models for ALTO O&M
+- **Champion(s)**
   - Jingxuan Zhang (jingxuan.zhang@tongji.edu.cn)
   - Kai Gao (kaigao@scu.edu.cn)
-- Project info
+- **Project Info**
   - Provide a reference implementation of the base YANG modules for ALTO O&M
   - Provide a set of vendor extended YANG modules for the base ALTO O&M YANG modules
-- Specifications
+- **Specifications**
   - https://datatracker.ietf.org/doc/rfc7285/
   - https://datatracker.ietf.org/doc/draft-ietf-alto-oam-yang/
 
-**BMWG – Containerized Infrastructure Benchmarking**
-- Champion(s)
+### BMWG – Containerized Infrastructure Benchmarking
+- **Champion(s)**
   - Younghan Kim (younghak.ssu.ac.kr)
   - Minh-Ngoc Tran (mipearlska1307@dcn.ssu.ac.kr)
   - Jangwon Lee (jangwon.lee@dcn.ssu.ac.kr)
-- Project info
+- **Project Info**
   - Verify all possible factors that affect containerized networking performance
   - Different networking models based on packet acceleration techniques
   - Different resources configuration settings
-- Specifications
+- **Specifications**
   - https://datatracker.ietf.org/doc/html/draft-dcn-bmwg-containerized-infra
   
-**Streamlining Social Decision Making for Improved Internet Standards (sodestream)**
-- Champion(s)
+### Streamlining Social Decision Making for Improved Internet Standards (sodestream)
+- **Champion(s)**
   - Stephen McQuistin (sm at smcquistin.uk)
   - Ignacio Castro (i.castro at qmul.ac.uk)
-- Project info
+- **Project Info**
   - Working on tasks related to the sodestream (sodestream.github.io) project, which applies natural language processing and social networking techniques to data produced by the IETF, in order to better understand standardisation processes.
 
-**I2NSF: Proof of Concept (POC) for the Updates of Consumer-Facing Interface and Registration Interfaces**
-- Champion(s)
+### I2NSF: Proof of Concept (POC) for the Updates of Consumer-Facing Interface and Registration Interfaces
+- **Champion(s)**
   - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
-- Participant(s)
+- **Participant(s)**
 	- Patrick Lingga (patricklink888 at gmail.com)
 	- Jeonghyun Kim (jeonghyeonkim92 at gmail.com)
   - Hyeonah Jung (hyeonah_jung at naver.com)
   - Junhee Kwon (lovekwon200 at gmail.com)
   - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
-- Project info
+- **Project Info**
   - Evaluate I2NSF framework for Consumer-Facing Interface and Registration Interfaces.
 
-**IPWAVE: Mobility Management Protocol for IP-Based Moving Objects Networks using 5G V2X**
-- Champion(s)
+### IPWAVE: Mobility Management Protocol for IP-Based Moving Objects Networks using 5G V2X
+- **Champion(s)**
 	- Jaehoon (Paul) Jeong (pauljeong at skku.edu)
   - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
-- Participant(s)
+- **Participant(s)**
 	- TBD
-- Project info
+- **Project Info**
 	- 5G-Based IPv6 ND for multihop V2V &amp; V2I communication.
   - IPv6 Stateless Address Autoconfiguration (SLAAC) in multihop V2V &amp; V2I scenarios.
   - IPv6 Mobility Management for IP-Based vehicle networks IPv6 Routing
-- Specifications
+- **Specifications**
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-context-aware-navigator/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
 
 
-**BMWG - YANG model for management of Network Tester**
- - Champion(s)
+### BMWG - YANG model for management of Network Tester
+- **Champion(s)**
   - Vladimir Vassilev (vladimir@lightside-instruments.com)
- - Project(s)
-      - Model implementation with software and programmable logic for 1Gb Ethernet
-      - RFC2544 benchmark test in python
-      - RFC2889 benchmark test in python
- - Specifications:
-      - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
- - Repositories
-   - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/vlvassilev/litenc/tree/master/tntapi/example/ietf-network-interconnect-tester)
-   - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
-   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
-   - Hardware - [board design](https://github.com/vlvassilev/spark)
-   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+- **Project(s)**
+  - Model implementation with software and programmable logic for 1Gb Ethernet
+  - RFC2544 benchmark test in python
+  - RFC2889 benchmark test in python
+- **Specifications**
+  - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
+- **Repositories**
+  - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/vlvassilev/litenc/tree/master/tntapi/example/ietf-network-interconnect-tester)
+  - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+  - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+  - Hardware - [board design](https://github.com/vlvassilev/spark)
+  - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 
-**Plugfest: BGP CT interop**
-- Champion
+### Plugfest: BGP CT interop
+- **Champion(s)**
+	- *All champions are participating remotely*
   - Kaliraj Vairavakkalai. (kaliraj@juniper.net)
   - Natarajan Venkataraman. (natv@juniper.net)
   - Reshma Das. (dreshma@juniper.net)
   - Csaba Mates. (cs@mp.ls)
-  [All champions are participating remotely]
-   
-- Project info
+- **Project Info**
   - Anyone with a BGP-CT implementation, come and let’s test our interoperability.
-  
-- Drafts
+- **Drafts**
   - https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/ 
 
-**ALTO Transport Information Publication Service**
-- Champion
+### ALTO Transport Information Publication Service
+- **Champion(s)**
   - Jingxuan Zhang (jingxuan.zhang@tongji.edu.cn)
   - Kai Gao (kaigao@scu.edu.cn)
   - Lachlan Keller (lachlan.keller@yale.edu)
   - Lauren Delwiche (lauren.delwiche@yale.edu)
   - Y. Richard Yang (yry@cs.yale.edu)
-- Project info
+- **Project Info**
   - Implement a version control system for ALTO
   - Provide incremental updates for ALTO using Transport Information Publication Service (TIPS)
-- Specifications:
+- **Specifications**:
   - https://datatracker.ietf.org/doc/draft-ietf-alto-new-transport/
-  
   
 ----
 
@@ -517,11 +501,13 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
-**Your-Project-Name**
-- Champion(s)
-  - tbd
-- Project info
-  - tbd
+```markdown
+### Your Project Name
+- **Champion(s)**
+  - Your Name (email at domain.com)
+- **Project Info**
+  - Your project description here
+```
  
 ----
 
