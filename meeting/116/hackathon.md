@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-08T09:10:53.717Z
+date: 2023-03-21T06:34:02.695Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -14,8 +14,16 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: Saturday - Sunday, 25-26 March 2023
 * :japanese_castle: **Where**: Pacifico Yokohama North Convention Center
-* :cityscape: **Room**: G3 (first floor)
+* :cityscape: **Room**: [G3](https://datatracker.ietf.org/meeting/116/floor-plan?room=g3) (first floor)
 {.grid-list}
+
+### Sponsored by:
+
+Gold Running Code Sponsor 
+![eri_vertical_rgb.max-120x74.png](/eri_vertical_rgb.max-120x74.png)
+Bronze Running Code Sponsor
+![icann_primary_logo_cmyk_noeyywh.max-120x74.jpg](/icann_primary_logo_cmyk_noeyywh.max-120x74.jpg)
+
 
 **Sign up for the Hackathon**
 * [Onsite registration](https://registration.ietf.org/116/new/hackathon_onsite/)
@@ -65,13 +73,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 27 March, Time: 1800 - 1900, Room: TBD
+  * Monday, 27 March, Time: 1830 - 1930, Room: [G304](https://datatracker.ietf.org/meeting/116/floor-plan?room=g304) (3rd floor)
   * View the [schedule](hackdemo) or reserve space for your team/project
-    * Reservations for space must be made by 12:00, Monday 27 March
+    * Reservations for space must be made by 13:00, Monday 27 March
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 27-31 March, Room: TBD
+  * Monday - Friday, 27-31 March, Room: [G304](https://datatracker.ietf.org/meeting/116/floor-plan?room=g304) (3rd floor)
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
@@ -183,8 +191,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - Tomofumi Okubo (tomofumi.okubo@digicert.com)
    - Goutam Tamvada (goutam.tamvada at uwaterloo.ca)
  - Drafts(s)
-   - https://datatracker.ietf.org/doc/html/draft-uni-qsckeys-00.html
    - https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+   - https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-keys/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-sigs/
    - https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-kem/
@@ -206,7 +214,7 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
   - Benoit Claise (benoit.claise at huawei.com)
   - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
 - Draft(s)
-  - https://datatracker.ietf.org/doc/html/draft-tgraf-opsawg-ipfix-on-path-telemetry
+  - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-on-path-telemetry
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
 - Project info
   - Develop and validate running code. Extend IPFIX SRv6 data-plane and on-path delay measurement export in VPP at FD.io and on Huawei VRP. Improve IETF 115 hackathon established multivendor SRv6 network topolgy with network telemetry data-collection and data mesh. Validate exported and transformed IPFIX data. Extend Network Anomaly Detection to support on-path delay in the operational checks.
@@ -279,6 +287,10 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
   - https://github.com/kentakayama/libcsuit
 - WG info
   - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+- Project info
+  - Refine MTI algorithms and pass cddl syntax check. 
+  - Add feature in Makefile that synchronizes cddl definition between md file and cddl file. 
+  - Consider compromised TEEP-Agent on SGX implementation, which Ken added to the issue. 
 
 **Encrypted DNS Unilateral Probing**
 - Champion(s)
@@ -290,13 +302,15 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
 - Implementations
   - tbd
 
-**BPF***
+**BPF**
 - Champion(s)
   - David Vernet (void@manifault.com)
   - Alexei Starovoitov (ast@kernel.org)
   - Mykola Lysenko (mykolal@meta.com)
+  - Manu Bretelle (chantra@meta.com)
 - Project info
   - Learn about [BPF](https://ebpf.io/what-is-ebpf/) and/or [Sched Ext](https://lwn.net/Articles/922405/) by writing BPF programs, creating custom Linux schedulers in BPF, and even contributing to the BPF codebase itself.
+  - Get familiar with BPF environment and tooling by trying the [opensnoop lab](https://ebpf.io/get-started/).
   - Add [BPF documentation](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/Documentation/bpf) to the upstream Linux kernel tree in support of BPF standardization through IETF. Newcomers to Linux and BPF are welcome.
   - Write custom schedulers in BPF, using the new Sched Ext feature currently being [discussed upstream](https://lore.kernel.org/bpf/20230128001639.3510083-1-tj@kernel.org/).
   
@@ -315,13 +329,12 @@ https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.
 
  **Satellite Routing**
 - Champion(s)
-  - Li Zhang (zhangli344 at hauwei.com)
+  - Li Zhang (zhangli344@hauwei.com)
   - Qiangzhou Gao(gaoqiangzhou@huawei.com)
   - Zhenbin Li (lizhenbin@huawei.com)
 - Project info
-  - Delay variation of path in satellite network based on existing protocols
-  - Packet loss in satellite network based on existing protocols
-  - Path switching in satellite network based on existing protocols
+  - Analyze QoS data of traffic under different routing protocols.
+  - Dynamic visualization of end-to-end paths in satellite network.
   
 **PDM and IPv6 EH Testing**
 
@@ -380,6 +393,22 @@ https://youtu.be/-UYjzrUKC8s
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
 
+**ASDF-WISHI-T2TRG**
+- Champion(s)
+	- Ari Keränen (<ari.keranen@ericsson.com>)
+  - Carsten Bormann (<cabo@tzi.org>)
+- Project info
+  - While neither the ASDF WG nor T2TRG are meeting at this IETF, we plan to progress implementation efforts in the areas of data models for IoT devices and their interactions, including model translators and model-driven connectors/gateways.
+  - http://wishi.nomadiclab.com/sdf-converter/
+  - This will include some work on CDDL and possibly JSONPath.
+- Specifications
+  - https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-13.html
+  - https://www.ietf.org/archive/id/draft-laari-asdf-relations-01.html
+  - https://www.ietf.org/archive/id/draft-bormann-asdf-sdftype-link-00.html
+  - https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-mapping-01.html
+  - https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-compact-03.html
+  
+  
 **YANG Data Models for ALTO O&M**
 - Champion(s)
   - Jingxuan Zhang (jingxuan.zhang@tongji.edu.cn)
@@ -410,6 +439,78 @@ https://youtu.be/-UYjzrUKC8s
 - Project info
   - Working on tasks related to the sodestream (sodestream.github.io) project, which applies natural language processing and social networking techniques to data produced by the IETF, in order to better understand standardisation processes.
 
+**I2NSF: Proof of Concept (POC) for the Updates of Consumer-Facing Interface and Registration Interfaces**
+- Champion(s)
+  - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
+- Participant(s)
+	- Patrick Lingga (patricklink888 at gmail.com)
+	- Jeonghyun Kim (jeonghyeonkim92 at gmail.com)
+  - Hyeonah Jung (hyeonah_jung at naver.com)
+  - Junhee Kwon (lovekwon200 at gmail.com)
+  - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
+- Project info
+  - Evaluate I2NSF framework for Consumer-Facing Interface and Registration Interfaces.
+
+**IPWAVE: Mobility Management Protocol for IP-Based Moving Objects Networks using 5G V2X**
+- Champion(s)
+	- Jaehoon (Paul) Jeong (pauljeong at skku.edu)
+  - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
+- Participant(s)
+	- TBD
+- Project info
+	- 5G-Based IPv6 ND for multihop V2V &amp; V2I communication.
+  - IPv6 Stateless Address Autoconfiguration (SLAAC) in multihop V2V &amp; V2I scenarios.
+  - IPv6 Mobility Management for IP-Based vehicle networks IPv6 Routing
+- Specifications
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-context-aware-navigator/
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
+
+
+**BMWG - YANG model for management of Network Tester**
+ - Champion(s)
+  - Vladimir Vassilev (vladimir@lightside-instruments.com)
+ - Project(s)
+      - Model implementation with software and programmable logic for 1Gb Ethernet
+      - RFC2544 benchmark test in python
+      - RFC2889 benchmark test in python
+ - Specifications:
+      - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
+ - Repositories
+   - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/vlvassilev/litenc/tree/master/tntapi/example/ietf-network-interconnect-tester)
+   - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+   - Hardware - [board design](https://github.com/vlvassilev/spark)
+   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+
+**Plugfest: BGP CT interop**
+- Champion
+  - Kaliraj Vairavakkalai. (kaliraj@juniper.net)
+  - Natarajan Venkataraman. (natv@juniper.net)
+  - Reshma Das. (dreshma@juniper.net)
+  - Csaba Mates. (cs@mp.ls)
+  [All champions are participating remotely]
+   
+- Project info
+  - Anyone with a BGP-CT implementation, come and let’s test our interoperability.
+  
+- Drafts
+  - https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/ 
+
+**ALTO Transport Information Publication Service**
+- Champion
+  - Jingxuan Zhang (jingxuan.zhang@tongji.edu.cn)
+  - Kai Gao (kaigao@scu.edu.cn)
+  - Lachlan Keller (lachlan.keller@yale.edu)
+  - Lauren Delwiche (lauren.delwiche@yale.edu)
+  - Y. Richard Yang (yry@cs.yale.edu)
+- Project info
+  - Implement a version control system for ALTO
+  - Provide incremental updates for ALTO using Transport Information Publication Service (TIPS)
+- Specifications:
+  - https://datatracker.ietf.org/doc/draft-ietf-alto-new-transport/
+  
+  
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
