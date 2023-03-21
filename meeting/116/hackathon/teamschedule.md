@@ -2,7 +2,7 @@
 title: Team Schedule
 description: 
 published: true
-date: 2022-11-29T19:44:10.991Z
+date: 2023-03-21T22:28:16.408Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T22:34:13.110Z
@@ -22,7 +22,8 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
-|   |   |   |
+|PQ Use in the real world: X.509 keys, signatures, certificates and protocols   |  March 25th 11:00 pm and 4:00 pm JST (UTC+9), March 26th 1:00 pm JST (UTC+9) |  Gather Town Hackathon Table G  |
+|BGP-CT PlugFest: InterOp With JUNOS BGP CT   |  March 25th 11:00 pm and 4:00 pm JST (UTC+9), March 26th 1:00 pm JST (UTC+9) |  Gather Town Hackathon Table F  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
