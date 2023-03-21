@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-21T14:02:37.456Z
+date: 2023-03-21T14:04:50.415Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -14,25 +14,9 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 *(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/116/agenda))*
 
 # Candidate Meeting Topics
-Suggested topics for the next face-to-face meeting here.
 
-The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
-
-1. IESG+IAB: NomCom process for Joint Discussion (Mirja)
-Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG) -> retreat
-
-1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (Mirja)
-Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion -> Retreat
-
-1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes) -> retreat
-
-1. IAB+IESG: review of IAB-ISOC group -> retreat
-
-1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
-Discussion on various outreach activities and how the coordination function can be improved -> retreat
-
-1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (added by Mirja but will not drive it) 
-See https://www.ietf.org/about/groups/iesg/statements/support-documents/ -> retreat
+Remaining topics have been moved to the retreat wiki page here:
+https://wiki.ietf.org/e/en/group/iesg/RetreatInfo
 
 # IESG Activities
 *All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
