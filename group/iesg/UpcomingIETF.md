@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-22T09:14:19.675Z
+date: 2023-03-22T09:15:34.343Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -74,7 +74,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
 >    - RFC Editor
 >    - IANA
 > 1. Copyright for IETF wikis (Lars)
-> 1. Security Consideratiosn for YANG modules (how much detail) (Rob)
+> 1. Security Considerations for YANG modules (i.e., what should be covered) (Rob)
 
 ## Monday, March 27, 2023 
 
