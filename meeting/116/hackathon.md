@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-21T22:39:17.558Z
+date: 2023-03-22T06:54:20.461Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -286,7 +286,11 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project Info**
   - Refine MTI algorithms and pass cddl syntax check. 
   - Add feature in Makefile that synchronizes cddl definition between md file and cddl file. 
-  - Consider compromised TEEP-Agent on SGX implementation, which Ken added to the issue. 
+  - Discussion
+  -- Consider compromised TEEP-Agent on SGX implementation, which Ken added to the issue. 
+  -- Re-consider token and challenge in TEEP messages.
+  -- `cnf` claim in Attestation Results
+  - Implementation and Testing along with new drafts.
 
 ### Encrypted DNS Unilateral Probing
 - **Champion(s)**
