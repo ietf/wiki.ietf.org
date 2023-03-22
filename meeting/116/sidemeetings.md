@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-22T12:30:46.173Z
+date: 2023-03-22T14:27:34.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -60,6 +60,7 @@ Please sort the meeting by time if possible.
 | 11:30-13:00 | G301 | Open Source Routing | RTG | chopps@labn.net |Discussions related to open source routing projects |TBA|TBA|
 | 15:30-17:30   |   G301       |  IPv6 for Moving Objects Networking (IPMON)  |     INT     |        [Jaehoon Paul Jeong](mailto:pauljeong@skku.edu) and [Yiwen Shen (Chris)](mailto:chrisshen@ks.ac.kr)    |  Probelm Statement for IPv6 Moving Objects Networking; Discussion on IPv6 Support and Issues in 5G V2X  |  TBA  | TBA
 |  18:30-19:30        |    TBA      |    Privacy Preserving Filtering (TBC)             |   NA   |         dan@iwf.org.uk    |     Practical examples of approaches to detect harmful content online without compromising user privacy |  TBA  | TBA
+|  18:30-19:30        |    G313      |    Network Inventory Management  Part 2 |  OPS   |Qin Wu     |     Discuss remaining issue in network inventory model |  Zhumu Link()  | TBA
 {.dense}
 
 
@@ -149,9 +150,9 @@ Location: Third Floor
 | 17:00 |                  | IPv6 for Moving Objects Networking (IPMON) |  
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
-| 18:30 |                  | Privacy Preserving Filtering - TBC              | 
-| 19:00 |                  | Privacy Preserving Filtering - TBC             |  
-| 19:30 |                  |                  | 
+| 18:30 | Network Inventory Management Part II| Privacy Preserving Filtering - TBC  | 
+| 19:00 | Network Inventory Management Part II| Privacy Preserving Filtering - TBC  |  
+| 19:30 | Network Inventory Management Part II|                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
