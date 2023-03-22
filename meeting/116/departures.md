@@ -2,7 +2,7 @@
 title: IETF 116 Departure Coordination
 description: 
 published: true
-date: 2023-03-08T03:38:51.495Z
+date: 2023-03-22T11:58:43.511Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:38:07.826Z
@@ -46,8 +46,8 @@ For ease of taxi sharing back to the airport. Please specify which airport your 
 |---|---|---|---|---|---|---|
 | 18:25  | JL8  | Dave Oran  | daveoran@orandom.net  | NRT  |  2 |  IC Yokohama Grand |
 |  18:00 |  KL862 | Georgios Karagiannis  |  georgios.karagiannis@huawei.com |  NRT |  1 |  Yokohama Sakuragicho Washington Hotel |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+|  18:15 | AA176  | Pete Resnick  | resnick@episteme.net  | HND  |  3 |  Square Hotel or Pacifico |
+|  23:05 | BA6084  | Marisol Palmero | mpalmero@cisco.com  | NRT  | TBC | IC Yokohama Grand  |
 |   |   |   |   |   |   |   |
 
 ## Saturday, April 1, 2023
