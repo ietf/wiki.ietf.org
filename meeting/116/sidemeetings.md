@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-20T09:35:13.905Z
+date: 2023-03-22T12:30:46.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -83,7 +83,6 @@ Please sort the meeting by time if possible.
 |          |          |                  |          |             |                         |                       |          |
 |   8:30-9:30 |  G313        |  IN-TBD|  N/A   |    SP    
 | 08:30-10:00 | G301     | Latency Guarantee in Deterministic Networking     |  RTG/TSV       |  gengxuesong@huawei.com          | Various latency fuarantee solutions with existing and new IETF techniques  |       TBD          |
-| 10:00-11:30  | G301     | OAuth WG       |  Security        |  rifaat.s.ietf@gmail.com           |  Various OAuth Topics                       |                       |          |
 | 12:00-13:00 |   G301   | YANG/CBOR Kafka  |   OPS    | Thomas Graf thomas.graf@swisscom.com | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFlMzk0YjMtZWE2YS00ZDZhLTg1ZTEtZjQ1MWFiNDVlOTVl%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) |
 | 13:00 - 14:00 | G301 | Root Zone Algorithm Rollover | N/A | James Mitchell james.mitchell@iana.org | Open meeting with the design team for ICANN's Root Zone Algorithm Rollover Study. | | |
 
@@ -94,7 +93,6 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30     |  G301        |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project                      |        [Zoom link](https://ietf.zoom.us/j/86826219211?pwd=QjhvdkY5YmxIWi9YeE9iMzFReFh3dz09), Meeting ID: 868 2621 9211, Passcode: ietfco2               |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1NaytxHiQnezWuww3hkubj5WYuVOE4rWD/view?usp=share_link)        |
-| 10:00-11:30  | G301     | OAuth WG       |  Security        |  rifaat.s.ietf@gmail.com           |  Various OAuth Topics                       |                       |          |
 | 11:30-13:00 | G301 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com) [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | [WeMeeting](https://meeting.huaweicloud.com/welink/#/j/97302694) Meeting ID: 97302694 | TBD |
 | 13:00-14:30  | G301     | Environmental Impacts        | N/A |  [Carlos Pignataro](mailto:cpignata@gmail.com)           | 🌿 Discussion of environmental impacts of Internet technologies. 🌱  | [Webex link](https://cisco.webex.com/cisco/j.php?MTID=m9d32f08aa36f5018dbc802394d358a26), Meeting #: 2570 117 8418, Pwd: SZmFsJ83Kf4 (79637583 from phones) | [ietf116-enviro-impacts.ics](https://drive.google.com/file/d/1bSEswcC14CeHxDCld9_x3t6MX_n4_2Mf/view?usp=sharing) |
 | 17:30-19:00  | G301     | (e)BPF        | |  dthaler@microsoft.com           |  (e)BPF                     |                       |          |
@@ -202,9 +200,9 @@ Location: Third Floor
 | 09:00 | NOT AVAILABLE                 |   NOT AVAILABLE  |   
 | 09:30 | NOT AVAILABLE                 |   NOT AVAILABLE  |  
 | 10:00 |                  |                  |  
-| 10:30 |                  |  OAuth WG                |  
-| 11:00 |                  |  OAuth WG                |  
-| 11:30 |  NOT AVAILABLE   |  OAuth WG                |  
+| 10:30 |                  |                  |  
+| 11:00 |                  |                  |  
+| 11:30 |  NOT AVAILABLE   |                  |  
 | 12:00 |  NOT AVAILABLE   | YANG/CBOR Kafka  |  
 | 12:30 |  NOT AVAILABLE   | YANG/CBOR Kafka  | 
 | 13:00 |                  | Root Zone DNSSEC Algorithm Roll |  
@@ -232,9 +230,9 @@ Location: Third Floor
 | 08:30 |                  |    C02 measurement and offsetting               | 
 | 09:00 |                  |    C02 measurement and offsetting               | 
 | 09:30 |                  |                  |  
-| 10:00 |                  |   OAuth WG               |  
-| 10:30 |                  |   OAuth WG                |  
-| 11:00 |                  |   OAuth WG               |  
+| 10:00 |                  |                  |  
+| 10:30 |                  |                   |  
+| 11:00 |                  |                 |  
 | 11:30 |  NOT AVAILABLE   | Metaverse side meeting |  
 | 12:00 |  NOT AVAILABLE   | Metaverse side meeting |  
 | 12:30 |  NOT AVAILABLE   | Metaverse side meeting |  
