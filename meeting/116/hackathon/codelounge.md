@@ -2,14 +2,14 @@
 title: Code Lounge
 description: 
 published: true
-date: 2022-11-29T19:44:19.452Z
+date: 2023-03-23T03:44:26.522Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T23:13:27.736Z
 ---
 
 # Code Lounge
-Monday - Friday, 27-31 March, Room: TBD
+Monday - Friday, 27-31 March, Room: [G304](https://datatracker.ietf.org/meeting/116/floor-plan?room=g304) (3rd floor)
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
