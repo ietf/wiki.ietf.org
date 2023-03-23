@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-23T03:10:08.962Z
+date: 2023-03-23T16:04:41.888Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -678,7 +678,7 @@ Rucio sorting integration, using the commandline as:
           --sort='alto;stmt="By as_hopcount,delay_ow"'
 
 ### Flow Director
-The Flow Director (FD) is a production CDN-ISP collaboration system developed by Benocs. Its development started in 2013, and the system went live in 2017 and has been in production since then. Additional details of its development history can be found at the ACM CoNEXT 2019 paper: Steering Hyper-Giants’ Traffic at Scale. The work won CoNEXT Best Paper and also the IETF/IRTF Applied Networking Research Prize 2020.
+The Flow Director (FD) is a production CDN-ISP collaboration system developed by Benocs. Its development started in 2013, and the system went live in 2017 and has been in production since then. The work won CoNEXT Best Paper and also the IETF/IRTF Applied Networking Research Prize 2020. Additional details of its development history can be found at the ACM CoNEXT 2019 paper: Steering Hyper-Giants’ Traffic at Scale and the [[Flow Director IETF 112 slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-alto-implementation-deployment-experience-update-01.pdf)],
 
 #### Architecture
 A Flow Director for an ISP provides the following 3 functions: (1) it collects data to determine the state of the ISP’s network; using the collected data, it computes forwarding path and optional inventory and performance data; (2) it then computes the best ingress location for each customer prefix; and (3) it communicates with a cooperating (hyper-giant) CDN using automated, near real-time via ALTO, out-of-band via BGP.
