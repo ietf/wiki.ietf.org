@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-23T01:28:25.711Z
+date: 2023-03-23T03:10:08.962Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -677,10 +677,54 @@ Rucio sorting integration, using the commandline as:
      rucio list-file-replicas 
           --sort='alto;stmt="By as_hopcount,delay_ow"'
 
-### Flow Director by Benocs
-The Flow Director (FD) by Benocs is
+### Flow Director
+The Flow Director (FD) is a production CDN-ISP collaboration system developed by Benocs. Its development started in 2013, and the system went live in 2017 and has been in production since then. Additional details of its development history can be found at the ACM CoNEXT 2019 paper: Steering Hyper-Giants’ Traffic at Scale. The work won CoNEXT Best Paper and also the IETF/IRTF Applied Networking Research Prize 2020.
 
-.
+#### Architecture
+A Flow Director for an ISP provides the following 3 functions: (1) it collects data to determine the state of the ISP’s network; using the collected data, it computes forwarding path and optional inventory and performance data; (2) it then computes the best ingress location for each customer prefix; and (3) it communicates with a cooperating (hyper-giant) CDN using automated, near real-time via ALTO, out-of-band via BGP.
+
+Data Collection (Southbound): Flow Director interacts with routing protocols including IGP (IS-IS, OSPF, IBGP) and EGP (BGP) protocols to collect network links, routers, and networks. It also collects flow information from Netflow, to determine ingress/egress points. Through network monitoring including SNMP, Flow Director collects network utilization, bandwidth, and latency.
+
+Best Ingress Computation (Core Engine): Flow Director computes best ingress points both for the ISP and for the CDN, with specified ISP  and CDN objectives. An example of ISP objective is to reduce long-haul traffic, while an example CDN objective is to reduce latency. For robustness, Flow Director suggestion can be ignored by an CDN.
+
+Communication with CDN (Northbound): Flow Director has implemented multiple northbound interafces. In particualr, it provides the Base ALTO protocol (RFC7285) with all the provided features, including IRD, Network Map (NM),filtered-NM, Cost Map (CM), filtered-CM, Endpoint Cost Service (ECS), and Endpoint Property Service (EPS). Note that endpoints in Flow Director are not IP addresses but IP subnets (CIDR). Flow Director also implements ALSO SSE. NM and CM are deployed in production. 
+
+#### Operational Statics
+An example large ISP that Flow Director supports includes
+
+     >900 Routers
+     >760k IPv4 Prefixes, among which
+          >12k IGP Prefixes
+          >750k BGP Prefixes, among which
+              >170k IBGP Prefixes
+              >580k EBGP Prefixes
+      >20k IPv4 Ingress Prefixes, among which 
+          >950 Ingress Points
+          ~30% of public IPv4 Address Space
+
+The ALTO information computed includes:
+Network Map, with
+     
+     >250k Prefixes
+     >1700 PIDs, among which
+         >750 Internal PIDs
+         >950 External PIDs
+         ∼ 15 OnNet PIDs
+     With average map sizes:
+        Map: ∼ 6 MB ( ∼ 1 MB compressed)
+        SSE Patch: ∼ 1.7 MB ( ∼ 282 KB compressed)
+
+
+Cost Map (Custom), with
+     
+     >1.3M PID pairs
+     Average Sizes
+        Map: ∼ 47 MB ( ∼ 5.6 MB compressed)
+        SSE Patch: ∼ 37.5 MB ( ∼ 5 MB compressed)
+
+Benefits for the ISP (Combined with network planning): 30% reduction long-haul traffic.
+
+Benefits for CDN (Distance as a proxy for latency): 40% reduction.
 
 ### National Research Platform
 
