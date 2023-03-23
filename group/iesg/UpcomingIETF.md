@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-22T09:15:34.343Z
+date: 2023-03-23T01:00:03.872Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -150,6 +150,7 @@ RTG ADs Office Hours: 1600-1700
 12:00 - 12:45 : SEC AD Office Hours
 
 ## Tuesday, 28 March 2023
+08:30-09:30: IETF Chair Office Hours
 0930-1130: BGP over QUIC Authors (Alvaro)
 14:30 - 15:30 INT AD office hours
 
