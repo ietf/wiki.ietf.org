@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-23T03:34:17.460Z
+date: 2023-03-23T15:04:31.841Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -329,7 +329,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ### Satellite Routing
 - **Champion(s)**
-  - Li Zhang (zhangli344@hauwei.com)
+  - Li Zhang (zhangli344@huawei.com)
   - Qiangzhou Gao(gaoqiangzhou@huawei.com)
   - Zhenbin Li (lizhenbin@huawei.com)
 - **Project Info**
@@ -503,6 +503,23 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Alan Frindell, Victor Vasiliev
 - **Project Info**
   - WebTransport over h2 and h3
+
+### P4 Implementations and Emulations of MSR6 TE
+- **Champion(s)**
+  - Weihong Wu (wuweihong@bupt.edu.cn)
+  - Jiang Liu (liujiang@bupt.edu.cn)
+  - Jing Jia (jiajing@bupt.edu.cn)
+  - Yunyi Tang (tangyunyi0708@bupt.edu.cn)
+  - Sijia Li (lisijia@bupt.edu.cn)
+  - Yuxin Jiang (jyxin@bupt.edu.cn)
+- **Project Info**
+  - P4 implementation of MSR6 TE (Multicast Source Routing over IPv6 Traffic Engineering)
+  - Program deployment based on real P4 switches (Tofino)
+  - Experiments on MSR6 Traffic Engineering
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-eckert-msr6-problem-statement
+  - https://datatracker.ietf.org/doc/draft-geng-msr6-traffic-engineering/02
+  - https://datatracker.ietf.org/doc/draft-geng-msr6-rlb-segment/01
   
 ----
 
