@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-23T01:26:07.275Z
+date: 2023-03-23T01:28:25.711Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -677,6 +677,10 @@ Rucio sorting integration, using the commandline as:
      rucio list-file-replicas 
           --sort='alto;stmt="By as_hopcount,delay_ow"'
 
+### Flow Director by Benocs
+The Flow Director (FD) by Benocs is
+
+.
 
 ### National Research Platform
 
