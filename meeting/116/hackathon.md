@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-23T00:00:37.549Z
+date: 2023-03-23T03:34:17.460Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -72,7 +72,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 27 March, Time: 1830 - 1930, Room: [G304](https://datatracker.ietf.org/meeting/116/floor-plan?room=g304) (3rd floor)
+  * Monday, 27 March, Time: 18:30 - 19:30, Room: [G304](https://datatracker.ietf.org/meeting/116/floor-plan?room=g304) (3rd floor)
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 27 March
 
