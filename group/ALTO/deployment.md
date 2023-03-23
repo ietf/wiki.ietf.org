@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-08T08:51:25.306Z
+date: 2023-03-23T01:26:07.275Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -621,7 +621,7 @@ The progress of this PoC has been presented to both ALTO and MOPS WGs during IET
 
 ### CERN/LHCONE
 
-The expriments (e.g., ATLAS, CMS, LHCb) at CERN produce a large amount of data, which need to be distributed and processed globally. The networking infrastructure supporting the data distribution is realized by a L3VPN network called [[LHCONE](https://twiki.cern.ch/twiki/bin/view/LHCONE/LhcOneMaps)], which consists of more than 600 distributed storage systems, distributed across 170 data centers in 40 countries. Building on it success, the networking infrastructure is also being used by Belle II, Pierre Auger Observatory, NOvA, XENON, or JUNO. In 2022, just the aggregated outgoing traffic on LHCONE from CERN to its ten largest connected data centres reached 457 Petabytes of data. 
+The expriments (e.g., ATLAS, CMS, LHCb) at CERN produce a large amount of data, which need to be distributed and processed globally. The networking infrastructure supporting the data distribution is realized by a L3VPN network called [[LHCONE](https://twiki.cern.ch/twiki/bin/view/LHCONE/LhcOneMaps)], which consists of more than 600 distributed storage systems, distributed across 170 data centers in 40 countries. Building on its success, the networking infrastructure is also being used by Belle II, Pierre Auger Observatory, NOvA, XENON, or JUNO. In 2022, just the aggregated outgoing traffic on LHCONE from CERN to its ten largest connected data centres reached 457 Petabytes of data. 
 
 The transport control of LHCONE is realized by two software control systems called Rucio (https://rucio.cern.ch/) and FTS (https://fts.web.cern.ch/fts/), where Rucio is the data orchestrator, which provides services such as selecting data sources and destinations given application-layer policies (e.g., replication rules); and FTS is the data transport scheduler, which determines when and at what rate a transfer received from a higher-layer (e.g., Rucio) is dispatched. As a large-scale, multi-domain, shared, often overcommited infrastructure, LHCONE requires efficient, flexible transport orchestration and scheduling. 
 
