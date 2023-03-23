@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-22T06:54:20.461Z
+date: 2023-03-23T00:00:18.956Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -54,7 +54,7 @@ Hackathon *(all times are Japan Standard Time, UTC+9)*
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
 * **18:30** : Dinner provided
-* **20:30** : Room closes (conferece center closed completely at 21:00)
+* **20:30** : Room closes (conference center closed completely at 21:00)
 {.grid-list}
 
 ### Sunday, 26 March
