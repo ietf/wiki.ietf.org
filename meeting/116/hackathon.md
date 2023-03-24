@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-24T15:56:59.527Z
+date: 2023-03-24T16:00:04.605Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -548,7 +548,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 - **Project Info**
 
-  - BoF 
+  - BoF Wed. 9:30 G 412-413
   - Internet Draft (https://datatracker.ietf.org/doc/draft-petrie-vcon/)
   - Open Source (https://github.com/vcon-dev/vcon)
   
