@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-23T15:04:31.841Z
+date: 2023-03-24T00:48:28.473Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -482,6 +482,9 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Csaba Mates. (cs@mp.ls)
 - **Project Info**
   - Anyone with a BGP-CT implementation, come and let’s test our interoperability.
+  - Please find details from our last demo:
+  	https://www.linkedin.com/feed/update/urn:li:activity:6995848035926712320?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6995848035926712320%29
+    
 - **Drafts**
   - https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/ 
 
