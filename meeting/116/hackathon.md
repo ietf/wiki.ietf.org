@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-24T10:15:08.121Z
+date: 2023-03-24T15:27:11.686Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -524,6 +524,22 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-geng-msr6-traffic-engineering/02
   - https://datatracker.ietf.org/doc/draft-geng-msr6-rlb-segment/01
   
+### Attestation and TLS
+- **Champion(s)**
+  - Thomas Fossati (thomas.fossati at arm.com)
+  - Paul Howard (paul.howard at arm.com)
+  - Yogesh Deshpande (yogesh.deshpande at arm.com)
+  - Ionut Mihalcea (ionut.mihalcea at arm.com)
+- **Project Info**
+  - TLS extensions to support attestation as first-class authentication credentials
+  - End-to-end demonstrator with attester, verifier and relying party
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-fossati-tls-attestation
+  - https://datatracker.ietf.org/doc/html/draft-bft-rats-kat
+  - https://datatracker.ietf.org/doc/html/draft-ftbs-rats-msg-wrap
+- **Code**
+  - https://github.com/CCC-Attestation/attested-tls-poc
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
