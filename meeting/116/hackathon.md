@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-24T15:27:11.686Z
+date: 2023-03-24T15:49:27.410Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -540,6 +540,17 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Code**
   - https://github.com/CCC-Attestation/attested-tls-poc
 
+### Vcon
+
+- **Champion(s)**
+
+  - Dan Petrie (dan.ietf@sipez.com)
+
+- **Project Info**
+
+  - BoF 
+  - Internet Draft
+  - Open Source
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
