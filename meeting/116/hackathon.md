@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-24T16:00:04.605Z
+date: 2023-03-24T16:25:09.433Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -189,6 +189,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - Mike Ounsworth (mike.ounsworth at entrust.com)
    - Tomofumi Okubo (tomofumi.okubo@digicert.com)
    - Goutam Tamvada (goutam.tamvada at uwaterloo.ca)
+   - Massimiliano Pala (m.pala at cablelabs.com)
 - **Drafts(s)**
    - https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
    - https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
