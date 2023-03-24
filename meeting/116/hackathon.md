@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-24T15:49:27.410Z
+date: 2023-03-24T15:54:58.143Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -549,7 +549,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project Info**
 
   - BoF 
-  - Internet Draft
+  - Internet Draft (https://datatracker.ietf.org/doc/draft-petrie-vcon/)
   - Open Source
 ----
 
