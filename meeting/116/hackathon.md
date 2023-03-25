@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T00:57:50.869Z
+date: 2023-03-25T00:59:53.192Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -543,18 +543,12 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://github.com/CCC-Attestation/attested-tls-poc
 
 ### Vcon
-
 - **Champion(s)**
-
   - Dan Petrie (dan.ietf@sipez.com)
-
 - **Project Info**
-
   - BoF Wed. 9:30 G 412-413
   - Internet Draft (https://datatracker.ietf.org/doc/draft-petrie-vcon/)
   - Open Source (https://github.com/vcon-dev/vcon)
-  
-----
 
 ### Fail Closed SRv6 (FC-SRv6)
 - **Champion(s)**
@@ -566,14 +560,14 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - **Specifications**
   - https://datatracker.ietf.org/doc/rfc8986 (For reference)
 
-  ---
-
 ### Masque
 - **Champion(s)**
   - Marcus Ihlar (marcus.ihlar at ericsson.com)
   - Magnus Westerlund (magnus.westerlund at ericsson.com)
 - **Project Info**
   - Masque extensions and interop
+  
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
