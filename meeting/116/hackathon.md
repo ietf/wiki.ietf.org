@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T01:08:44.208Z
+date: 2023-03-25T01:42:39.983Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -296,13 +296,16 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ### Encrypted DNS Unilateral Probing
 - **Champion(s)**
-  - tbd
+  - Benno Overeinder <benno@NLnetLabs.nl>
+  - Yorgos Thessalonikefs <george@nlnetlabs.nl>
+  - Stéphane Bortzmeyer <bortzmeyer@nic.fr>
 - **Draft**
   - https://datatracker.ietf.org/doc/draft-ietf-dprive-unilateral-probing/
 - **Project Info**
   - PoC implementation of the draft in DNS resolver and authoritative name server
 - **Implementations**
-  - tbd
+  - Unbound
+  - Drink
 
 ### BPF
 - **Champion(s)**
