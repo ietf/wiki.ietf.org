@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-25T00:15:16.194Z
+date: 2023-03-25T02:20:01.276Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -76,7 +76,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
 > 1. Copyright for IETF wikis (Lars)
 > 1. Security Considerations for YANG modules (i.e., what should be covered) (Rob)
 
-### (e)BPF BoF pre-sync - 16:15 - 17:00 Room: G415
+### (e)BPF BoF pre-sync - 16:15 - 17:00 Room: G301
 Pre-BoF sync among chairs, ADs, and proponents.
 
 ## Monday, March 27, 2023 
