@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T02:36:21.258Z
+date: 2023-03-25T03:37:48.905Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -578,6 +578,13 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Magnus Westerlund (magnus.westerlund at ericsson.com)
 - **Project Info**
   - Masque extensions and interop
+
+### Quantum Internet
+- **Champion(s)**
+  - David Elkouss (david.elkouss at oist.jp)
+  - Ananda G Maity (ananda.maity at oist.jp)  
+- **Project Info**
+  - Investigate noise estimation in quantum links
   
 ---
 
