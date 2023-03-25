@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T01:55:35.743Z
+date: 2023-03-25T02:05:48.788Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -562,7 +562,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Code**
   - Open Source (https://github.com/vcon-dev/vcon)
 
-### Fail Closed SRv6 (FC-SRv6)
+### Trusted Domain SRv6 (TD-SRv6)
 - **Champion(s)**
   - Andrew Alston (andrew-ietf at liquid.tech)
   - Tom Hill (tom.2.hill at bt.com)
