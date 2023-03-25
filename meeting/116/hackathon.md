@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T03:37:48.905Z
+date: 2023-03-25T04:58:12.208Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -518,6 +518,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Jiang Liu (liujiang@bupt.edu.cn)
   - Jing Jia (jiajing@bupt.edu.cn)
   - Yunyi Tang (tangyunyi0708@bupt.edu.cn)
+  - Yutong Zhao (zhaoyutong@bupt.edu.cn)
   - Sijia Li (lisijia@bupt.edu.cn)
   - Yuxin Jiang (jyxin@bupt.edu.cn)
 - **Project Info**
