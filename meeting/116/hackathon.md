@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-24T16:25:09.433Z
+date: 2023-03-25T00:02:18.833Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -555,6 +555,18 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   
 ----
 
+### Fail Closed SRv6 (FC-SRv6)
+- **Champion(s)**
+  - Andrew Alston (andrew-ietf at liquid.tech)
+  - Tom Hill (tom.2.hill at bt.com)
+  - Anthony Somerset (anthony.somerset at liquid.tech)
+- **Project Info**
+  - Design and create an optional implementation of SRv6 that utilizes a new ethertype for the purposes of avoiding current security flaws in native implementation.
+  - **Specifications**
+  - https://datatracker.ietf.org/doc/rfc8986 (For reference)
+
+  ---
+  
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
