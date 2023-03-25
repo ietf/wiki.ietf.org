@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T04:58:12.208Z
+date: 2023-03-25T10:12:33.403Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -305,7 +305,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - PoC implementation of the draft in DNS resolver and authoritative name server
 - **Implementations**
   - Unbound
-  - Drink
+  - Drink (addition of aDoT - with padding - and various deliberate breaks from the spec, to test the resolvers)
+  - PowerDNS Recursor (testing)
 
 ### BPF
 - **Champion(s)**
