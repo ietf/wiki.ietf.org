@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T00:59:53.192Z
+date: 2023-03-25T01:08:44.208Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -291,7 +291,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Discussion
   -- Consider compromised TEEP-Agent on SGX implementation, which Ken added to the issue. 
   -- Re-consider token and challenge in TEEP messages.
-  -- `cnf` claim in Attestation Results
+  -- ~~`cnf` claim in Attestation Results~~
   - Implementation and Testing along with new drafts.
 
 ### Encrypted DNS Unilateral Probing
