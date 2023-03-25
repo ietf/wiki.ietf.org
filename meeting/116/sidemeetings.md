@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-24T05:09:33.988Z
+date: 2023-03-25T08:51:33.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -144,10 +144,10 @@ Location: Third Floor
 | 14:00 |                  |                  |  
 | 14:30 |                  |                  | 
 | 15:00 |                  |  |  
-| 15:30 |                  | IPv6 for Moving Objects Networking (IPMON) | 
-| 16:00 |                  | IPv6 for Moving Objects Networking (IPMON) |  
-| 16:30 |                  | IPv6 for Moving Objects Networking (IPMON) | 
-| 17:00 |                  | IPv6 for Moving Objects Networking (IPMON) |  
+| 15:30 |                  | IPv6 for Moving Objects Networking (IPMON) in 5G V2X | 
+| 16:00 |                  | IPv6 for Moving Objects Networking (IPMON) in 5G V2X | 
+| 16:30 |                  | IPv6 for Moving Objects Networking (IPMON) in 5G V2X | 
+| 17:00 |                  | IPv6 for Moving Objects Networking (IPMON) in 5G V2X |
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
 | 18:30 | Network Inventory Management Part II| Privacy Preserving Filtering - TBC  | 
