@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-25T02:20:01.276Z
+date: 2023-03-25T07:12:39.034Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -49,7 +49,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
 
 
 > 1. Welcome and introductions
-> 1. ISOC Policy Program update (Sally/Ryan) (5 mins)
+> 1. ISOC Policymaker Program update (https://www.internetsociety.org/policy-programs/policymakers-program-to-ietf/) (Sally/Ryan) (5 mins)
 > 1. Area walkthrough for hot topics (list randomized for 116)
     > - SEC
     > - GEN
