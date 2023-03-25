@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-03-21T14:03:44.921Z
+date: 2023-03-25T17:50:55.473Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -46,7 +46,7 @@ Discussion on various outreach activities and how the coordination function can 
 1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (added by Mirja but will not drive it) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
-
+1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures?
 
 ### Agenda 
 
