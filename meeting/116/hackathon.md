@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T01:42:39.983Z
+date: 2023-03-25T01:55:35.743Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -546,11 +546,20 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://github.com/CCC-Attestation/attested-tls-poc
 
 ### Vcon
-- **Champion(s)**
+- **Champions**
   - Dan Petrie (dan.ietf@sipez.com)
+  - Thomas Howe (thomas.howe@strolid.com)
+  
 - **Project Info**
-  - BoF Wed. 9:30 G 412-413
+  - Updates for 01 Internet Draft
+  - Update conserver threading model
+  - Analyse conversation using ChatGPT
+  
+- **Specifications**
+  - BoF Wed. 9:30 G 412-413 (https://datatracker.ietf.org/group/vcon/about/)
   - Internet Draft (https://datatracker.ietf.org/doc/draft-petrie-vcon/)
+  
+- **Code**
   - Open Source (https://github.com/vcon-dev/vcon)
 
 ### Fail Closed SRv6 (FC-SRv6)
