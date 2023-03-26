@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-26T00:44:14.196Z
+date: 2023-03-26T05:48:03.503Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -151,6 +151,7 @@ RTG ADs Office Hours: 1600-1700
 ## Monday, 27 March 2023
 
 12:00 - 12:45 : SEC AD Office Hours
+13:30 - 14:00 : IANA discussion about DRIP ASTM code points (Éric V)
 
 ## Tuesday, 28 March 2023
 08:30-09:30: IETF Chair Office Hours
