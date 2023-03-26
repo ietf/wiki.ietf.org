@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-26T05:53:14.452Z
+date: 2023-03-26T06:26:52.448Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -341,6 +341,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project Info**
   - Analyze QoS data of traffic under different routing protocols.
   - Dynamic visualization of end-to-end paths in satellite network.
+- **For Details**
+	- https://github.com/Satellite-Routing/IETF116-Hackathon
   
 ### PDM and IPv6 EH Testing
 - **Champion(s)**
