@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-26T03:40:31.385Z
+date: 2023-03-26T04:32:36.576Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -628,7 +628,7 @@ The transport control of LHCONE is realized by two software control systems call
 The deployment of ALTO at LHCONE involves both integration with FTS and integration with Rucio. 
 
 #### ALTO+FTS: FTS/TCN
-The objective of FTS/TCN is to generalize the standard FTS Optimizer (https://fts3-docs.web.cern.ch/fts3-docs/docs/optimizer/optimizer.html), to (1) improve its efficiency and (2) provide flexible resource control capabilities in FTS. FTS/TCN realizes a new control scheme called flexible, strong resource control on top of minimal, univeral, weak control knobs. It also can be considered as a hybrid control architecture, which leverages the underlying, fully distributed TCP congestion control to achieve fast time-scale efficiency and (congestion) robustness, and realizes global efficiency and flexible resource control using the coordination FTS controller.
+The objective of FTS/TCN is to generalize the standard FTS Optimizer (https://fts3-docs.web.cern.ch/fts3-docs/docs/optimizer/optimizer.html), to (1) improve its efficiency and (2) provide flexible resource control capabilities in FTS. FTS/TCN realizes a new control scheme called flexible, strong resource control on top of minimal, universal, weak control knobs. It also can be considered as a hybrid control architecture, which leverages the underlying, fully distributed TCP congestion control to achieve fast time-scale efficiency and (congestion) robustness, and realizes global efficiency and flexible resource control using the coordination FTS controller.
 
 
       Src                           Dst
@@ -647,8 +647,8 @@ The objective of FTS/TCN is to generalize the standard FTS Optimizer (https://ft
 
 The figure above shows the overall implementation architecture, which consists of 3 components: resource specification, resource mapping, and scheduling:
 -  In the design, each autonomous network that requires resource control uses a RESTful API to provide resource specification to the controler. An example is a hierarchy, e.g., FTS uses no more than x% of total capacity of a resource (e.g., network link); among FTS, the experiments partition the capacity using weights, and among each experiment, the actitivies can further partition. 
-- A multi-domain version of ALTO (using openalto.org as the orchestrator) constructs a global view of LHCONE, where each network may expose its information using data-plane (e.g., BGP looking glass), control-plane (e.g., configuration files, parsed using batfish), and/or management plane (e.g., traceroute). 
-- The scheduler, which uses a novel zero-order gradient with rounding to guide the scheduling. 
+- A multi-domain version of ALTO (using OpenALTO as the orchestrator, https://github.com/openalto/alto) constructs a global view of LHCONE, where each network may expose its information using data-plane (e.g., BGP looking glass), control-plane (e.g., configuration files, parsed using batfish), and/or management plane (e.g., traceroute). 
+- The scheduler, which uses a novel zero-order gradient algorithm with rounding to guide the scheduling. 
 Some additional details of the system can be found at the following public presentations: [[CERN Meeting, October 2022](https://indico.cern.ch/event/1146558/contributions/5022826/attachments/2534888/4362418/2022-10-24-alto.pdf)], [[Rucio Workshop, November 2022](https://indico.cern.ch/event/1185600/contributions/5120144/attachments/2545771/4383949/2022-11-11-rucio-workshop-alto-tcn.pdf)]), 
 
 
@@ -681,16 +681,16 @@ Rucio sorting integration, using the commandline as:
 The Flow Director (FD) is a production CDN-ISP collaboration system developed by Benocs. Its development started in 2013, and the system went live in 2017 and has been in production since then. The work won CoNEXT Best Paper and also the IETF/IRTF Applied Networking Research Prize 2020. Additional details of its development history can be found at the ACM CoNEXT 2019 paper: Steering Hyper-Giants’ Traffic at Scale and the [[Flow Director IETF 112 slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-alto-implementation-deployment-experience-update-01.pdf)],
 
 #### Architecture
-A Flow Director for an ISP provides the following 3 functions: (1) it collects data to determine the state of the ISP’s network; using the collected data, it computes forwarding path and optional inventory and performance data; (2) it then computes the best ingress location for each customer prefix; and (3) it communicates with a cooperating (hyper-giant) CDN using automated, near real-time via ALTO, out-of-band via BGP.
+A Flow Director for an ISP provides the following 3 functions: (1) it collects data to determine the state of the ISP’s network; using the collected data, it computes forwarding path and optional inventory and performance data; (2) it then computes the best ingress location for each customer prefix; and (3) it communicates with a cooperating (hyper-giant) CDN using automated, near real-time via ALTO, and out-of-band via BGP.
 
-Data Collection (Southbound): Flow Director interacts with routing protocols including IGP (IS-IS, OSPF, IBGP) and EGP (BGP) protocols to collect network links, routers, and networks. It also collects flow information from Netflow, to determine ingress/egress points. Through network monitoring including SNMP, Flow Director collects network utilization, bandwidth, and latency.
+**1. Data Collection (Southbound).** Flow Director interacts with routing protocols including IGP (IS-IS, OSPF, IBGP) and EGP (BGP) protocols to collect network links and routers information. It also collects flow information from Netflow, to determine ingress/egress points. Through network monitoring including SNMP, Flow Director collects network utilization, bandwidth, and latency.
 
-Best Ingress Computation (Core Engine): Flow Director computes best ingress points both for the ISP and for the CDN, with specified ISP  and CDN objectives. An example of ISP objective is to reduce long-haul traffic, while an example CDN objective is to reduce latency. For robustness, Flow Director suggestion can be ignored by an CDN.
+**2. Best Ingress Computation (Core Engine).** Flow Director computes best ingress points both for the ISP and for the CDN, with specified ISP and CDN objectives. An example of ISP objective is to reduce long-haul traffic, while an example of CDN objective is to reduce latency. For robustness, Flow Director's suggestions can be ignored by a CDN.
 
-Communication with CDN (Northbound): Flow Director has implemented multiple northbound interafces. In particualr, it provides the Base ALTO protocol (RFC7285) with all the provided features, including IRD, Network Map (NM),filtered-NM, Cost Map (CM), filtered-CM, Endpoint Cost Service (ECS), and Endpoint Property Service (EPS). Note that endpoints in Flow Director are not IP addresses but IP subnets (CIDR). Flow Director also implements ALSO SSE. NM and CM are deployed in production. 
+**3. Communication with CDN (Northbound).** Flow Director has implemented multiple northbound interafces. In particular, it provides the Base ALTO protocol (RFC7285) with all the provided features, including IRD, Network Map (NM),filtered-NM, Cost Map (CM), filtered-CM, Endpoint Cost Service (ECS), and Endpoint Property Service (EPS). Note that endpoints in the Flow Director are not IP addresses but IP subnets (CIDR). Flow Director also implements ALTO SSE. NM and CM are deployed in production. 
 
 #### Operational Statics
-An example large ISP that Flow Director supports includes
+An example of a large ISP that Flow Director supports includes:
 
      >900 Routers
      >760k IPv4 Prefixes, among which
@@ -703,6 +703,7 @@ An example large ISP that Flow Director supports includes
           ~30% of public IPv4 Address Space
 
 The ALTO information computed includes:
+
 Network Map, with
      
      >250k Prefixes
@@ -757,11 +758,11 @@ GradientGraph (G2) is a technology developed by Qualcomm Technologies, Inc., tha
 
 #### K8S: Topology Information
 
-The K8S controller's REST API is queried to retrieve topology information, including a list of K8S hosts, a list of all the links part of the network, and their capacities.
+The K8S controller's REST API is queried by G2 to retrieve topology information, including a list of K8S hosts, a list of all the links part of the network, and their capacities.
 
 #### Perfsonar: Routing Information
 
-G2 also queries the PerfSonar REST API service running in NRP to retrieve routing information. PerfSonar periodically runs traceroute between every pair of nodes (K8S hosts) in the K8S cluster to derive the paths. Then, G2 queries the PerfSonar traceroute results to get the path between any two given nodes. Using sFlow information, it can also know the Pod that is associated with each node, which allows to compute the pod-to-pod traffic paths.
+G2 also queries the PerfSonar REST API service running in NRP to retrieve routing information. PerfSonar periodically runs traceroute between every pair of nodes (K8S hosts) in the K8S cluster to derive the paths. Then, G2 queries the PerfSonar traceroute results to get the path between any two given nodes. Using sFlow information, it can also know the pod that is associated with each node, which allows to compute the pod-to-pod traffic paths.
 
 #### sFlow: Flow Information
 
@@ -769,7 +770,7 @@ To learn the active flows in the network, G2 queries the Inmon sFlow TrafficSent
 
 #### ALTO
 
-The ALTO server is basd on OpenALTO, an open source ALTO framework. A G2 agent is developed, which queries the G2 RESTful API to obtain topology, routing and flow information. The agent also loads a static configuration file that defines equivalent classes based on IP prefixes. The static file is based on a static file generated by NetSage. The process will be made automatic in future releases.
+The ALTO server is based on OpenALTO (https://github.com/openalto/alto). A G2 agent is developed, which queries the G2 RESTful API to obtain topology, routing and flow information. The agent also loads a static configuration file that defines equivalent classes based on IP prefixes. The static file is based on a static file generated by NetSage. The process will be made automatic in future releases.
 
 The ALTO server now provides an endpoint cost service with the path vector extension enabled.
 
