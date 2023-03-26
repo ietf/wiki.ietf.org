@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-25T08:57:58.916Z
+date: 2023-03-26T00:14:03.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -59,7 +59,7 @@ Please sort the meeting by time if possible.
 | 9:30-10:30     |   G313       | Network Inventory Management    | OPS  | Qin Wu | Discuss Network Inventory model design | [Zhumu Link](https://welink.zhumu.com/j/0212833418), Meeting ID: 0212833418;   | TBA |
 | 11:30-13:00 | G301 | Open Source Routing | RTG | chopps@labn.net |Discussions related to open source routing projects |TBA|TBA|
 | 15:30-17:30   |   G301       |  IPv6 for Moving Objects Networking (IPMON)  |     INT     |        [Jaehoon Paul Jeong](mailto:pauljeong@skku.edu) and [Yiwen Shen (Chris)](mailto:chrisshen@ks.ac.kr)    |  Probelm Statement for IPv6 Moving Objects Networking; Discussion on IPv6 Support and Issues in 5G V2X  |  TBA  | TBA
-|  18:30-19:30        |    TBA      |    Privacy Preserving Filtering (TBC)             |   NA   |         dan@iwf.org.uk    |     Practical examples of approaches to detect harmful content online without compromising user privacy |  TBA  | TBA
+|  18:30-19:30        |    G301      |    Privacy Preserving Filtering (TBC)             |   NA   |         dan@iwf.org.uk    |     Discussion and follow up from 115 on privacy preserving content filtering |  TBA  | TBA
 |  18:30-19:30        |    G313      |    Network Inventory Management  Part 2 |  OPS   |Qin Wu     |     Discuss remaining issue in network inventory model |  [Zhumu Link](https://welink.zhumu.com/j/0213440636) Meeting ID: 0213440636 | TBA
 {.dense}
 
@@ -150,8 +150,8 @@ Location: Third Floor
 | 17:00 |                  | IPv6 for Moving Objects Networking (IPMON) in 5G V2X |
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
-| 18:30 | Network Inventory Management Part II| Privacy Preserving Filtering - TBC  | 
-| 19:00 | Network Inventory Management Part II| Privacy Preserving Filtering - TBC  |  
+| 18:30 | Network Inventory Management Part II| Privacy Preserving Filtering | 
+| 19:00 | Network Inventory Management Part II| Privacy Preserving Filtering |  
 | 19:30 | Network Inventory Management Part II|                  | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
