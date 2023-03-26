@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-03-26T06:36:25.454Z
+date: 2023-03-26T06:52:04.564Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T23:06:50.862Z
@@ -27,6 +27,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | IPMON | Jaehoon Paul Jeong | pauljeong@skku.edu | https://github.com/ipwave-hackathon-ietf/ipwave-hackathon-ietf-116 |
 |  MSR6 | Weiqiang Cheng  | chengweiqiang@chinamobile.co  |  https://github.com/IETF-Hackathon/ietf116-project-presentations/blob/main/P4%20Implementations%20and%20Emulations%20of%20MSR6%20TE_v2.pdf  |
 | Satellite Routing   | Li Zhang  | zhangli344@huawei.com  | https://github.com/Satellite-Routing/IETF116-Hackathon  |
-|   |   |   |   |
+| SRv6 On-Path Delay Measurement with Anomaly Detection | Thomas Graf | thomas.graf@swisscom.com  | https://github.com/network-analytics/vpp-srh-onpath-telemetry |
 |   |   |   |   |
 
