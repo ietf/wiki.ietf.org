@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-03-26T05:09:04.014Z
+date: 2023-03-26T05:09:41.629Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T23:06:50.862Z
@@ -21,7 +21,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |---|---|---|---|
 | BPF | David Vernet | void@manifault.com |   |
 | SCITT / RKVST & Quorum / COSE Merkle Proofs  | Jon Geater  | jon.geater@rkvst.com  |  https://github.com/scitt-community/scitt-api-emulator |
-|   |   |   |   |
+| SCITT / Amazon QLDB / COSE Merkle Proofs  | Orie Steele  | orie@transmute.industries  |  https://github.com/scitt-community/scitt-api-emulator |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
