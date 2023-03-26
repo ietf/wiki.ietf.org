@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-26T04:32:36.576Z
+date: 2023-03-26T04:38:41.521Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -15,17 +15,17 @@ dateCreated: 2022-10-18T13:18:13.645Z
 ### Feature description
 
 - ALTO: The implementation realizes/uses the [​base ALTO protocol](https://datatracker.ietf.org/doc/html/rfc7285).
-- MC: The implementation realizes/uses the [​multi-cost extension](https://tools.ietf.org/html/rfc8189).
 - CC: The implementation realizes/uses the [​cost calendar extension](https://datatracker.ietf.org/doc/rfc8896).
+- CDNi: The implementation realizes/uses
+  the [​CDNi extension](https://datatracker.ietf.org/doc/draft-ietf-alto-cdni-request-routing-alto/).
+- MC: The implementation realizes/uses the [​multi-cost extension](https://tools.ietf.org/html/rfc8189).
+- PM: The implementation realizes/uses
+  the [​performance metrics extension](https://datatracker.ietf.org/doc/draft-ietf-alto-performance-metrics/).
+- PV: The implementation realizes/uses
+  the [​path vector extension](https://datatracker.ietf.org/doc/draft-ietf-alto-path-vector/).
 - SSE: The implementation realizes/uses the [​SSE incremental update extension](https://tools.ietf.org/html/rfc8895).
 - UP: The implementation realizes/uses
   the [​unified property map extension](https://datatracker.ietf.org/doc/draft-ietf-alto-unified-props-new/).
-- PV: The implementation realizes/uses
-  the [​path vector extension](https://datatracker.ietf.org/doc/draft-ietf-alto-path-vector/).
-- PM: The implementation realizes/uses
-  the [​performance metrics extension](https://datatracker.ietf.org/doc/draft-ietf-alto-performance-metrics/).
-- CDNi: The implementation realizes/uses
-  the [​CDNi extension](https://datatracker.ietf.org/doc/draft-ietf-alto-cdni-request-routing-alto/).
 
 ### Client Implementations
 
