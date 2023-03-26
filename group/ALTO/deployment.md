@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-23T16:04:41.888Z
+date: 2023-03-26T03:40:31.385Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -591,7 +591,7 @@ Currently, media streaming distribution is the main application consuming ALTO's
 
 The Telefonica CDN (TCDN) implements state-of-the-art Request Routing Logic (RRL) which considers multiple information sources in order to maximize both QoE and video delivery efficiency. Some RRL inputs are streamer health status and load level, cache hit ratio maximization, content popularity, etc, but also and importantly, the network topology (PIDs and cost matrix). With all this information, the TCDN takes the final decision on selecting the more appropriate delivery point for a given content requested by a certain end user, coupling network and application information.
 
-It is here where ALTO plays and essential role by providing an automated way of retrieving the network topology. Before the integration of ALTO in TCDN, the network topology has been generated and provisioned manually. This is problematic not only because it is a process prone to errors, but also because the topological information (i.e., the allocation of the IP prefixes of the end-users requesting a given content) becomes outdated throughout time.
+It is also here where ALTO plays an essential role by providing an automated way of retrieving the network topology. Before the integration of ALTO in TCDN, the network topology has been generated and provisioned manually. This is problematic not only because it is a process prone to errors, but also because the topological information (i.e., the allocation of the IP prefixes of the end-users requesting a given content) becomes outdated throughout time.
 
 To overcome such limitations, ALTO is being integrated with TCDN. Two kinds of PIDs are generated: (1) the PIDs associated to customer’s IP prefixes which are the consumers of video streaming, and (2) the PIDs associated to the connection of CDN streamers to the network, representing the potential sources of TCDN traffic.
 
