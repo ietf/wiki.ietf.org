@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-03-23T03:36:25.191Z
+date: 2023-03-26T03:06:12.579Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T23:06:50.862Z
@@ -19,7 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
+| BPF | David Vernet | void@manifault.com |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
