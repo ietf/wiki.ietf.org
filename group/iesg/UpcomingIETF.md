@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
 published: true
-date: 2023-03-25T07:12:39.034Z
+date: 2023-03-26T00:44:14.196Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,7 +16,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 
 Remaining topics have been moved to the retreat wiki page here:
-https://wiki.ietf.org/e/en/group/iesg/RetreatInfo
+https://wiki.ietf.org/en/group/iesg/RetreatInfo
 
 # IESG Activities
 *All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
