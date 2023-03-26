@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-26T03:48:40.602Z
+date: 2023-03-26T04:53:04.143Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -405,7 +405,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-compact-03.html
   
   
-### YANG Data Models for ALTO O&M
+### ALTO O&M Driven by YANG Data Models
 - **Champion(s)**
   - Jingxuan Zhang (jingxuan.zhang@tongji.edu.cn)
   - Kai Gao (kaigao@scu.edu.cn)
