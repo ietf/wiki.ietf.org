@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-25T10:12:33.403Z
+date: 2023-03-26T03:48:40.602Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -516,6 +516,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ### P4 Implementations and Emulations of MSR6 TE
 - **Champion(s)**
   - Weihong Wu (wuweihong@bupt.edu.cn)
+  - Weiqiang Cheng (chengweiqiang@chinamobile.com)
+  - Xuesong Geng (gengxuesong@huawei.com)
   - Jiang Liu (liujiang@bupt.edu.cn)
   - Jing Jia (jiajing@bupt.edu.cn)
   - Yunyi Tang (tangyunyi0708@bupt.edu.cn)
