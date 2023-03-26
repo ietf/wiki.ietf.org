@@ -1,8 +1,8 @@
 ---
 title: Upcoming IETF Meeting
-description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting. 
+description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-03-26T06:06:30.716Z
+date: 2023-03-26T23:28:07.850Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -145,27 +145,27 @@ Location: G415
 ## Sunday, 26 March 2023
 note: Not available before 10:00 Sunday
 
-TSV AD Office Hours : 10:30-11:30
-RTG ADs Office Hours: 1600-1700
-
+* TSV AD Office Hours : 10:30-11:30
+* RTG ADs Office Hours: 1600-1700
 
 ## Monday, 27 March 2023
 
-12:00 - 12:45 : SEC AD Office Hours
-13:30 - 14:00 : IANA discussion about DRIP ASTM code points (Éric V)
+* 12:00 - 12:45 : SEC AD Office Hours
+* 13:30 - 14:00 : IANA discussion about DRIP ASTM code points (Éric V)
 
 ## Tuesday, 28 March 2023
-08:30-09:30: IETF Chair Office Hours
-0930-1130: BGP over QUIC Authors (Alvaro)
-14:30 - 15:30 INT AD office hours
+
+* 08:30-09:30: IETF Chair Office Hours
+* 0930-1130: BGP over QUIC Authors (Alvaro)
+* 14:30 - 15:30 INT AD office hours
 
 ## Wednesday, 29 March 2023
 
 
 ## Thursday, 30 March 2023
 
-13:00-15:00 (private meeting via the Secretariat)
+* 11:30-13:00 MIMI prep (Alissa, approved by Murray)
+* 13:00-15:00 (private meeting via the Secretariat)
 
 ## Friday, 31 March 2023
-
-   PLEASE NOTE: NOT AVAILABLE AFTER 13:00pm 
+PLEASE NOTE: NOT AVAILABLE AFTER 13:00pm 
