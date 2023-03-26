@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-26T04:53:04.143Z
+date: 2023-03-26T05:53:14.452Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -441,8 +441,6 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Participant(s)**
 	- Patrick Lingga (patricklink888 at gmail.com)
 	- Jeonghyun Kim (jeonghyeonkim92 at gmail.com)
-  - Hyeonah Jung (hyeonah_jung at naver.com)
-  - Junhee Kwon (lovekwon200 at gmail.com)
   - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
 - **Project Info**
   - Evaluate I2NSF framework for Consumer-Facing Interface and Registration Interfaces.
@@ -452,7 +450,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 	- Jaehoon (Paul) Jeong (pauljeong at skku.edu)
   - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
 - **Participant(s)**
-	- TBD
+	- Hyeonah Jung (hyeonah_jung at naver.com)
+  - Junhee Kwon (lovekwon200 at gmail.com)
 - **Project Info**
 	- 5G-Based IPv6 ND for multihop V2V &amp; V2I communication.
   - IPv6 Stateless Address Autoconfiguration (SLAAC) in multihop V2V &amp; V2I scenarios.
