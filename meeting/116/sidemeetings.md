@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-27T18:22:49.167Z
+date: 2023-03-27T21:53:49.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -107,7 +107,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|   8:30-9:30       |    G301      |       emodir @ IETF 116      |      GEN     |      odonoghue@isoc.org, ghwood@ietf.org, dhruv.ietf@gmail.com       |  emodir updates and brainstorming (https://notes.ietf.org/rcKUH-iiRk-INgWTmgVWZA#)          | https://isoc.zoom.us/j/88992663844   |          | 
+|   8:30-9:30       |    G301      |       emodir @ IETF 116      |      GEN     |      odonoghue@isoc.org, ghwood@ietf.org, dhruv.ietf@gmail.com       |  emodir updates and brainstorming (https://notes.ietf.org/rcKUH-iiRk-INgWTmgVWZA#)          | https://isoc.zoom.us/j/88992663844   |  [ICS](https://drive.google.com/file/d/1LRBY6HGkI_T7dslgIKacJ2sq7x3QAcU7/view?usp=share_link)        | 
 {.dense}
 {.dense}
 
