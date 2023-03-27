@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-03-27T02:25:21.152Z
+date: 2023-03-27T02:26:56.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T23:06:50.862Z
@@ -19,7 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-| BPF | David Vernet | void@manifault.com | BPF BOF Mon 1pm |
+| BPF | David Vernet | void@manifault.com | [BPF BOF Mon 1pm](https://datatracker.ietf.org/meeting/116/session/bpf) |
 | SCITT / RKVST & Quorum / COSE Merkle Proofs  | Jon Geater  | jon.geater@rkvst.com  |  https://github.com/scitt-community/scitt-api-emulator |
 | SCITT / Amazon QLDB / COSE Merkle Proofs  | Orie Steele  | orie@transmute.industries  |  https://github.com/scitt-community/scitt-api-emulator |
 | TEEP / SUIT / RATS  | Kohei Isobe  | isobekohei@gmail.com  |  https://github.com/s-miyazawa/teep_armadillo_trial   |
