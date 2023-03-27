@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-03-27T02:26:56.868Z
+date: 2023-03-27T02:48:30.575Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-28T23:06:50.862Z
@@ -29,5 +29,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Satellite Routing   | Li Zhang  | zhangli344@huawei.com  | https://github.com/Satellite-Routing/IETF116-Hackathon  |
 | SRv6 On-Path Delay Measurement with Anomaly Detection | Thomas Graf | thomas.graf@swisscom.com  | https://github.com/network-analytics/vpp-srh-onpath-telemetry |
 | Vcon | Dan Petrie | dan.ietf@sipez.com | + [BoF Wed. 9:30 G412-413](https://datatracker.ietf.org/group/vcon/about/)<br> + [Internet-Draft](https://datatracker.ietf.org/doc/draft-petrie-vcon/)<br> + [code](https://github.com/vcon-dev/vcon) |
+| bmwg-container_benchmark | Minh-Ngoc Tran | mipearlska1307@dcn.ssu.ac.kr | + [Internet-Draft](https://www.ietf.org/archive/id/draft-dcn-bmwg-containerized-infra-10.html)<br> + [benchmarking guidelines](https://github.com/mipearlska/bmwg-container-networking) |
 |   |   |   |   |
 
