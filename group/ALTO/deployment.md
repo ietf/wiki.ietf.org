@@ -2,11 +2,12 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-27T01:23:38.019Z
+date: 2023-03-27T01:43:06.654Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
 ---
+
 
 # Implementation and Deployments
 
@@ -26,6 +27,8 @@ dateCreated: 2022-10-18T13:18:13.645Z
 - SSE: The implementation realizes/uses the [​SSE incremental update extension](https://tools.ietf.org/html/rfc8895).
 - UP: The implementation realizes/uses
   the [​unified property map extension](https://datatracker.ietf.org/doc/draft-ietf-alto-unified-props-new/).
+- TIPS: The implementation realizes/uses the [TIPS extension](https://datatracker.ietf.org/doc/html/draft-ietf-alto-new-transport)
+- HTTP: The HTTP version(s) supported by the implementation.
 
 ### Client Implementations
 
@@ -35,27 +38,28 @@ features/extensions.
 <table >
                     <tr>
                         <td colspan="5">Publisher</td>
-                        <td colspan="13" style="text-align: left">Available Features
+                        <td colspan="15" style="text-align: left">Available Features
                         </td>
                     </tr>
                     <tr>
-                        <td>Name</td>
-                        <td>Source</td>
-                        <td>Language</td>
-                        <td>License</td>
-                        <td>Maintained by</td>
-                        <td> NM</td>
-                        <td> CM</td>
-                        <td> ECS</td>
-                        <td> EPS</td>
-                        <td> MC</td>
-                        <td> CC</td>
-                        <td> SSE</td>
-                        <td> UP</td>
-                        <td> PV</td>
-                        <td> PM</td>
-                        <td style="text-align: right"> CDNi
-                        </td>
+                      <td>Name</td>
+                      <td>Source</td>
+                      <td>Language</td>
+                      <td>License</td>
+                      <td>Maintained by</td>
+                      <td>NM</td>
+                      <td>CM</td>
+                      <td>ECS</td>
+                      <td>EPS</td>
+                      <td>MC</td>
+                      <td>CC</td>
+                      <td>SSE</td>
+                      <td>UP</td>
+                      <td>PV</td>
+                      <td>PM</td>
+                      <td>CDNi</td>
+                      <td>TIPS</td>
+                      <td>HTTP</td>
                     </tr>
                     <tr>
                         <td></td>
@@ -63,9 +67,9 @@ features/extensions.
                                 class="icon">​</span>Paper (2013)</a></td>
                         <td></td>
                         <td></td>
-                        <td> NEC Europe Ltd., Heidelberg, Germany</td>
-                        <td> Yes</td>
-                        <td> Yes</td>
+                        <td>NEC Europe Ltd., Heidelberg, Germany</td>
+                        <td>Yes</td>
+                        <td>Yes</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -74,8 +78,9 @@ features/extensions.
                         <td></td>
                         <td></td>
                         <td></td>
-                        <td>
-                        </td>
+                        <td></td>
+                      <td></td>
+                      <td></td>
                     </tr>
                     <tr>
                         <td> CBCD</td>
@@ -93,8 +98,9 @@ features/extensions.
                         <td></td>
                         <td></td>
                         <td></td>
-                        <td>
-                        </td>
+                        <td></td>
+                      <td></td>
+                      <td></td>
                     </tr>
                     <tr>
                         <td></td>
@@ -114,7 +120,9 @@ features/extensions.
                         <td></td>
                         <td></td>
                         <td>
-                        </td>
+                        </td><
+                      td></td>
+                      <td></td>
                     </tr>
                     <tr>
                         <td></td>
@@ -159,6 +167,8 @@ features/extensions.
                         <td></td>
                         <td>
                         </td>
+                      <td></td>
+                      <td></td>
                     </tr>
                     <tr>
                         <td></td>
@@ -179,6 +189,8 @@ features/extensions.
                         <td></td>
                         <td>
                         </td>
+                      <td></td>
+                      <td></td>
                     </tr>
                 </table>
 
@@ -190,7 +202,7 @@ features/extensions.
 <table >
                     <tr>
                         <td colspan="5">Publisher</td>
-                        <td colspan="13" style="text-align: left">Available Features
+                        <td colspan="15" style="text-align: left">Available Features
                         </td>
                     </tr>
                     <tr>
@@ -209,8 +221,9 @@ features/extensions.
                         <td> UP</td>
                         <td> PV</td>
                         <td> PM</td>
-                        <td style="text-align: right"> CDNi
-                        </td>
+                        <td> CDNi</td>
+                      <td>TIPS</td>
+                      <td>HTTP</td>
                     </tr>
                     <tr>
                         <td></td>
@@ -250,6 +263,8 @@ features/extensions.
                         <td></td>
                         <td>
                         </td>
+                      <td/>
+                      <td/>
                     </tr>
                     <tr>
                         <td></td>
@@ -334,6 +349,8 @@ features/extensions.
                         <td></td>
                         <td>
                         </td>
+                      <td/>
+                      <td/>
                     </tr>
 </table>
 
@@ -365,8 +382,10 @@ protocol.
                         <td> UP</td>
                         <td> PV</td>
                         <td> PM</td>
-                        <td style="text-align: right"> CDNi
+                        <td> CDNi
                         </td>
+                      <td>TIPS</td>
+                      <td>HTTP</td>
                     </tr>
                     <tr>
                         <td>Unicorn</td>
@@ -431,6 +450,8 @@ protocol.
                         <td></td>
                         <td>
                         </td>
+                      <td/>
+                      <td/>
                     </tr>
                     <tr>
                         <td></td>
@@ -494,6 +515,8 @@ protocol.
                         <td></td>
                         <td>
                         </td>
+                      <td/>
+                      <td/>
                     </tr>
                     <tr>
                         <td></td>
@@ -557,6 +580,8 @@ protocol.
                         <td></td>
                         <td>
                         </td>
+                      <td/>
+                      <td/>
                     </tr>
                     <tr>
                         <td style="text-align: left"><a class="missing wiki">FlowDirector?</a></td>
