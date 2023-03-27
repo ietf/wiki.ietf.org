@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-27T00:09:44.336Z
+date: 2023-03-27T00:12:08.943Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -187,8 +187,8 @@ Location: Third Floor
 | 17:00 |                  | Trust-Enhanced Networking |  
 | 17:30 |                  | Trust-Enhanced Networking | 
 | 18:00 |                  | Trust-Enhanced Networking |  
-| 18:30 |      PITG        |             | 
-| 19:00 |      PITG        |                |  
+| 18:30 |      PITG        | Missing Elements for Decentralized and Usable Privacy (MEDUP)            | 
+| 19:00 |      PITG        | Missing Elements for Decentralized and Usable Privacy (MEDUP)               |  
 | 19:30 |                  |                | 
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
