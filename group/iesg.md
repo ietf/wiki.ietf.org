@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-03-02T17:32:42.070Z
+date: 2023-03-27T00:36:55.726Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -32,10 +32,10 @@ dateCreated: 2022-07-23T19:21:39.664Z
 ## IESG roles
 | IESG Liaisons | Group  |
 |---|---|
-| Warren K.  | IAB  |
-| Martin D.  | NomCom |
-| Éric V.  |  Tools Team|
-| Alvaro R.  | EMODIR  |
+| Roman D.  | IAB  |
+| John S.  | NomCom |
+| Éric V. and Warren K. |  Tools Team|
+| Warren K. and  Paul W. | EMODIR  |
 |Warren, Martin, Roman, John, Zahed	   |  Comms Review |
 {.dense}
 
