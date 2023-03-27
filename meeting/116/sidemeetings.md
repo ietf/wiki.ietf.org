@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-27T04:53:09.641Z
+date: 2023-03-27T07:34:15.214Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -202,8 +202,8 @@ Location: Third Floor
 | 08:30 | NOT AVAILABLE                 |   NOT AVAILABLE  | 
 | 09:00 | NOT AVAILABLE                 |   NOT AVAILABLE  |   
 | 09:30 | NOT AVAILABLE                 |   NOT AVAILABLE  |  
-| 10:00 |                  | Opus/mlcodec                 |  
-| 10:30 |                  | Opus/mlcodec                 |  
+| 10:00 |    NRO/ECG              | Opus/mlcodec                 |  
+| 10:30 |      NRO/ECG            | Opus/mlcodec                 |  
 | 11:00 |                  | Opus/mlcodec                 |  
 | 11:30 |  NOT AVAILABLE   |                  |  
 | 12:00 |  NOT AVAILABLE   | YANG/CBOR Kafka  |  
