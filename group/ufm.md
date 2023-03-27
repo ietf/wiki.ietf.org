@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-03-20T10:52:33.971Z
+date: 2023-03-27T08:01:12.929Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -53,7 +53,17 @@ Old TLS versions:
 | Type    | Peer-reviewed | Reference | 
 |:--------|:--------------|:----------|
 | TODO | ? | [Cohn-Gordon et al. - 2018 - On Ends-to-Ends Encryption] |
-| TODO | ? | [Bhargavan et al. - 2018 - TreeKEM: Asynchronous Decentralized Key Management for Large Dynamic Groups](https://hal.inria.fr/hal-02425247/file/treekem%20%281%29.pdf)
+| TODO | ? | [Bhargavan et al. - 2018 - TreeKEM: Asynchronous Decentralized Key Management for Large Dynamic Groups](https://hal.inria.fr/hal-02425247/file/treekem%20%281%29.pdf) |
+
+| TODO | Yes | [Cremers et al. - 2021 - he Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects Matter](https://www.usenix.org/system/files/sec21-cremers.pdf) |
+| TODO | ? | [Brzuska et al. - 2021 - Cryptographic Security of the MLS RFC, Draft 11](https://eprint.iacr.org/2021/137.pdf) |
+| TODO | ? | [Bhargavan et al. - 2019 - Formal Models and Verified Protocols for Group Messaging: Attacks and Proofs for IETF MLS](https://hal.laas.fr/INRIA/hal-02425229v1/file/mls-treekem.pdf) |
+| TODO | ? | [Alwen et al. - 2020 - On The Insider Security of MLS](https://eprint.iacr.org/2020/1327.pdf) |
+| TODO | ? | [Alwen et al. - 2021 - Server-Aided Continuous Group Key Agreement](https://eprint.iacr.org/2021/1456.pdf) |
+| TODO | ? | [Alwen et al. - 2020 - Continuous Group Key Agreement with Active Security](https://eprint.iacr.org/2020/752.pdf) |
+| TODO | ? | [Alwen et al. - 2021 - Modular Design of Secure Group Messaging Protocols and the Security of MLS](https://eprint.iacr.org/2021/1083.pdf) |
+| TODO | Yes | [Alwen et al. - 2019 - Security Analysis and Improvements for the IETF MLS Standard for Group Messaging](https://eprint.iacr.org/2019/1489) |
+| TODO | Yes | [Wallez et al. - 2023 -TreeSync: Authenticated Group Management for Messaging Layer Security](https://eprint.iacr.org/2022/1732.pdf) |
 
 ### [LAKE/EDHOC](https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/)
 
