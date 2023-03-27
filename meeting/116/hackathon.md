@@ -2,7 +2,7 @@
 title: IETF 116 Hackathon
 description: 
 published: true
-date: 2023-03-27T04:31:41.067Z
+date: 2023-03-27T04:33:38.612Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2022-11-17T16:46:02.484Z
@@ -286,7 +286,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
 - **Project Info**
   - Refine SUIT MTI algorithms.
-  - Revised to pass cddl syntax check.
+  - ~~Revised to pass cddl syntax check.~~
   - ~~Add feature in Makefile that synchronizes cddl definition between md file and cddl file.~~
   - Discussion
   -- ~~Consider compromised TEEP-Agent on SGX implementation, which Ken added to the issue.~~ 
