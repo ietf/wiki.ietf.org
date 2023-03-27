@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-26T04:38:41.521Z
+date: 2023-03-27T01:23:38.019Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z
@@ -774,6 +774,8 @@ The ALTO server is based on OpenALTO (https://github.com/openalto/alto). A G2 ag
 
 The ALTO server now provides an endpoint cost service with the path vector extension enabled.
 
-### ALTO Public Registry (openalto.org)
+[ ### Uncomment the following lines when ready to include this section ]: <>
 
-TODO
+[ ### ALTO Public Registry (openalto.org) ]: <>
+
+[ TODO ]: <>
