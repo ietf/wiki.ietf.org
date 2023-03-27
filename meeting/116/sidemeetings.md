@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-27T00:08:02.462Z
+date: 2023-03-27T00:09:18.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -75,7 +75,7 @@ Please sort the meeting by time if possible.
 | 17:00-18:30 | G301 | Trusted-Enhanced Networking | N/A | [Matoyoshi Sekiya](mailto:sekiya.motoyosh@fujitsu.com), [Ayoub Messous](mailto:ayoub.messous@fujitsu.com) and [Junichi Suga](mailto:suga.junichi@fujitsu.com) | Discuss network and trust | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM2ZjBjYWYtMjJiYi00MWQ5LTlmMzAtNzEwZjJhMGQ2ZDZh%40thread.v2/0?context=%7b%22Tid%22%3a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2c%22Oid%22%3a%22fca5f38d-5297-46aa-b455-d0973e7cb68a%22%7d); Meeting ID: 449 675 808 396; Passcode: X5Dwgh | TBA |
 | 10:00-11:30     |   G313       | ESnet IPv6 deployment - insight & lessons    | OPS  | Nick Buraglio <buraglio@forwardingplane.net>; xipengxiao@gmail.com | ESnet IPv6 experience sharing | https://meeting.huaweicloud.com/welink/#/j/97932828, use browser mode or download client | TBA |
 | 18:30-19:30 | G313 | Public Interest Technology Group (PITG) | - |  [Corinne Cath-Speth](corinnecath@gmail.com) and [Gurshabad Grover](gurshabad@cis-india.org) |Public Interest Technology Group (PITG) | TBA  | TBA |
-| 18:30-19:30  | G301 | Missing Elements for Decentralized and Usable Privacy (MEDUP) | N/A | [Hernâni Marques](hernani.marques@pep.foundation) | Discuss new Internet-Drafts produced in recent times. | TBA | TBA |
+| 18:30-19:30  | G301 | Missing Elements for Decentralized and Usable Privacy (MEDUP) | N/A | [Hernâni Marques](hernani.marques@pep.foundation) | Discuss new Internet-Drafts produced in recent times (cf. [medup@ietf.org archives](https://www.ietf.org/mailman/listinfo/MEDUP)). | TBA | TBA |
 {.dense}
 
 ## [WEDNESDAY 29 March](#wednesday)
