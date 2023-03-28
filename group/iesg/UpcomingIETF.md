@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-03-28T23:28:24.550Z
+date: 2023-03-28T23:45:51.100Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -133,6 +133,10 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg_2
     > - INT
 >  1.  General discussion of productivity and how the meeting went	 (standing item)
 >  1. NomCom candidate pool & related (Lars)
+> 1. Retreat prep (Martin)
+    > - Invitation letters
+    > - Venue for Friday
+    > - Schedule, attendee list
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
