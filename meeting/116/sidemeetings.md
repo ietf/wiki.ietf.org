@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-28T00:10:45.332Z
+date: 2023-03-28T02:28:53.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -72,7 +72,7 @@ Please sort the meeting by time if possible.
 | 08:30-09:30         |   G301       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82001645821?pwd=RGRDOEFUTm5Ub1hlOWFMRHB4amdzdz09), Meeting ID: 820 0164 5821, Passcode: 636367 |          |
 | 09:30-11:00         |   G301       |    GIP6 (Generalized IPv6 Tunnel)              |      N/A    | [Hongyi Huang](mailto:hongyi.huang@huawei.com) and [Haoyu Song](mailto:haoyu.song@futurewei.com) | Discuss use cases and scope | [Zhumu Link](https://welink.zhumu.com/j/0215159758?pwd=aFY2NkloZWFXcEpYNy9Jdkd1SEVaZz09), Meeting ID: 0215159758; Passcode: 6116  |   [gip6.ics](/gip6_(generalized_ipv6_tunnel)_side_meeting.ics)     |
 | 11:00-13:00         |   G301       |    Satellite Networking    |      N/A    | [Lin Han](mailto:lhan@futurewei.com)  | Discuss Satellite Networking | [Link](https://github.com/lh95129/IETF-116-satellite-network-side-meeting), [Zoom Link](https://futurewei.zoom.us/j/7743893573?pwd=YjJ1cnpIb1VhakVSeVg0UFVmcmlIQT09); Meeting ID: 774 389 3573; Passcode: sat123 |
-| 16:00-17:00         |   G313       |    Network Slicing Topology    |      RTG    | [Italo Busi](mailto:italo.busi@huawei.com)  | Discuss open issue on customized topology in network slicing YANG model | To be added |
+| 16:00-17:00         |   G313       |    Network Slicing Topology    |      RTG    | [Italo Busi](mailto:italo.busi@huawei.com)  | Discuss open issue on customized topology in network slicing YANG model | [Zoom Link](https://futurewei.zoom.us/j/7999264574?pwd=Y00rMTBsUm9vSzBMeklYb2ErdXA2Zz09), Meeting ID: 799 926 4574; Passcode: 393745 |
 | 17:00-18:30 | G301 | Trusted-Enhanced Networking | N/A | [Matoyoshi Sekiya](mailto:sekiya.motoyosh@fujitsu.com), [Ayoub Messous](mailto:ayoub.messous@fujitsu.com) and [Junichi Suga](mailto:suga.junichi@fujitsu.com) | Discuss network and trust | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM2ZjBjYWYtMjJiYi00MWQ5LTlmMzAtNzEwZjJhMGQ2ZDZh%40thread.v2/0?context=%7b%22Tid%22%3a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2c%22Oid%22%3a%22fca5f38d-5297-46aa-b455-d0973e7cb68a%22%7d); Meeting ID: 449 675 808 396; Passcode: X5Dwgh | TBA |
 | 10:00-11:30     |   G313       | ESnet IPv6 deployment - insight & lessons    | OPS  | Nick Buraglio <buraglio@forwardingplane.net>; xipengxiao@gmail.com | ESnet IPv6 experience sharing | [Link](https://meeting.huaweicloud.com/welink/#/j/97932828), use browser mode or download client | TBA |
 | 18:30-19:30 | G313 | Public Interest Technology Group (PITG) | - |  [Corinne Cath-Speth](corinnecath@gmail.com) and [Gurshabad Grover](gurshabad@cis-india.org) |Public Interest Technology Group (PITG) | TBA  | TBA |
