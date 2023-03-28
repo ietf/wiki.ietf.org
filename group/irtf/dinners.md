@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2023-02-27T18:32:31.638Z
+date: 2023-03-28T05:05:29.084Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -13,9 +13,11 @@ dateCreated: 2023-02-27T16:52:39.142Z
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
 
 * IETF 116 Yokohama
-  * Place TBD
-  * URL For Restaurant
-  * Wednesday, 29 March, 2023, Time TBD (after 116 Plenary)
+  * Doodle poll for attendance: https://doodle.com/meeting/organize/id/aA6kjJPb
+  * Yokohama Seryna Romanjaya
+  * https://www.seryna.com/romanjaya/romanjaya.html
+  * Wednesday, 29 March, 2023, Time **must arrive by 20:00**
+ 
 
 * IETF 115 London
   * Clarette, 44 Blandford Street, London, England W1U 7HS
