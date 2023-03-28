@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-03-25T17:50:55.473Z
+date: 2023-03-28T23:28:15.318Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -47,6 +47,9 @@ Discussion on various outreach activities and how the coordination function can 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
 1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures?
+
+1. IESG: Change voting requirements for Stds Track documents (Rob)
+Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
 
 ### Agenda 
 
