@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-03-28T05:34:26.515Z
+date: 2023-03-28T23:28:24.550Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -104,8 +104,6 @@ Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg_2
 Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg_2
 
 > * Plenary Prep
-> * Change voting requirements for Stds Track documents (Rob)
-Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational?
 > * Topic
 
 
