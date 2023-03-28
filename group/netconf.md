@@ -2,7 +2,7 @@
 title: NETCONF WG - Network Configuration
 description: 
 published: true
-date: 2023-01-04T22:20:26.088Z
+date: 2023-03-28T07:43:01.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T19:44:45.932Z
@@ -147,6 +147,10 @@ Archive: http://www1.ietf.org/mail-archive/web/yang/current/index.html
 -   [PYANG and YANG module development workflow](https://github.com/mbj4668/pyang/wiki/Tutorial)
 
 -   [YANGlint](https://github.com/CESNET/libyang#yanglint) - YANG schema and data validator
+
+-   [YANGKit](https://github.com/yang-central/yangkit) - YANG schema parser and APIs
+
+-   [YANGCompiler](https://github.com/yang-central/yang-compiler) - a YANG compiler support resolve dependencies automatically and provide plug-in mechanism to extend customized features.
 
 # Miscellaneous 
 
