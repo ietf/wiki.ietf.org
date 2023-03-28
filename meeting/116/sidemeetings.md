@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-27T21:53:49.997Z
+date: 2023-03-28T00:10:45.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -87,7 +87,7 @@ Please sort the meeting by time if possible.
 | 08:30-10:00 | G301     | Latency Guarantee in Deterministic Networking     |  RTG/TSV       |  gengxuesong@huawei.com          | Various latency fuarantee solutions with existing and new IETF techniques  |       TBD          |
 | 10:00-11:30 | G301     | Opus / mlcodec     |  ART       |  jmvalin@amazon.com          | Magic Deep Learning Pixie Dust for Opus Codec  |       TBD          |
 | 12:00-13:00 |   G301   | YANG/CBOR Kafka  |   OPS    | Thomas Graf thomas.graf@swisscom.com | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFlMzk0YjMtZWE2YS00ZDZhLTg1ZTEtZjQ1MWFiNDVlOTVl%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) |
-| 13:00 - 14:00 | G301 | Root Zone Algorithm Rollover | N/A | James Mitchell james.mitchell@iana.org | Open meeting with the design team for ICANN's Root Zone Algorithm Rollover Study. | | |
+| 13:00 - 14:00 | G301 | Root Zone Algorithm Rollover | N/A | James Mitchell james.mitchell@iana.org | Open meeting with the design team for ICANN's Root Zone Algorithm Rollover Study. | [Zoom](https://icann.zoom.us/j/94974160556?pwd=eUdOVUFUWi9yZ3FtVVFrbTFJWDFmUT09) | |
 
 {.dense}
 
