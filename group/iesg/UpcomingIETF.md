@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-03-27T23:32:14.694Z
+date: 2023-03-28T00:44:04.127Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -158,6 +158,7 @@ note: Not available before 10:00 Sunday
 * 08:30-09:30: IETF Chair Office Hours
 * 0930-1130: BGP over QUIC Authors (Alvaro)
 * 14:30 - 15:30 INT AD office hours
+* 16:30 - 18:00 (Fluffy) "meeting with all the editors of a draft"
 
 ## Wednesday, 29 March 2023
 
