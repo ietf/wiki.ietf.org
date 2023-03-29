@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-03-29T00:26:14.972Z
+date: 2023-03-29T00:27:56.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -106,9 +106,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft                                          | Shepherd       |  status               |  Next step                       |  WG adoption date  |  Adoption call            |  Draft uploaded   |
 |------------------------------------------------|----------------|-----------------------|----------------------------------|--------------------|---------------------------|-------------------|
 |  draft-haas-idr-diffract                       |  Susan Hares   |  Adopted              |  uploaded WG draft               |  11/5/2022         |  10/12 to 10/26           |  TBD              |
-|  draft-wang-idr-vpn-prefix-orf                 |  Susan Hares   |  chair record status  |  WG draft                        |  9/26/2022         |  7/29 to 9/2/2022         |  1/16/2023        |
-|  draft-dong-idr-node-target-ext-comm           |  Susan Hares   |  chair record status  |  WG draft                        |  11/7              |  9/23 to 11/5/2022        |        1/13/2023  |
-|  draft-zzhang-idr-rt-derived-community-02      |  Susan Hares   |               adopted |  uploaded draft + chairs record  |  3/3/2023          |  12/23/2023 to 1/20/2023  |  TBD              |
+|  draft-wang-idr-vpn-prefix-orf                 |  Susan Hares   |  Missing IPR   |  WG draft                        |  9/26/2022         |  7/29 to 9/2/2022         |  1/16/2023        |
 |  draft-dong-idr-flowspec-network-slice-ts-01   |  Susan Hares   |  idr chairs review    |  adoption                        |  3/3/2023          |  1/27 to 2/10             |  TBD              |
 {.dense}
 
