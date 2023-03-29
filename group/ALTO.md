@@ -2,7 +2,7 @@
 title: ALTO WG - Application-Layer Traffic Optimization
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2023-03-29T12:39:14.015Z
+date: 2023-03-29T12:40:16.983Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:36:24.895Z
@@ -57,6 +57,7 @@ meeting reminder notifications.
 - [ALTO session in IETF 103](https://datatracker.ietf.org/meeting/103/session/alto)
 - [ALTO session in IETF 102](https://datatracker.ietf.org/meeting/102/session/alto)
 - [ALTO session in IETF 101](https://datatracker.ietf.org/meeting/101/session/alto)
+- [ALTO session in IETF 100](https://datatracker.ietf.org/meeting/100/session/alto)
 - [ALTO session in IETF 99](https://datatracker.ietf.org/meeting/99/session/alto)
 - [ALTO session in IETF 98](https://datatracker.ietf.org/meeting/98/session/alto)
 
