@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-03-29T03:22:02.008Z
+date: 2023-03-29T03:23:03.719Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -83,7 +83,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 
- - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-best-external implementations] (/group/idr/implementations/draft-ietf-idr-best-external)
   - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
 -    draft-ietf-idr-as4octet-extcomm-generic-subtype implementations
