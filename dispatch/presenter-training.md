@@ -2,13 +2,11 @@
 title: Presenter Training for DISPATCH WG
 description: 
 published: true
-date: 2023-03-29T04:06:16.449Z
+date: 2023-03-29T04:07:09.218Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:48:53.756Z
 ---
-
-# Prepare your presentation in DISPATCH WG
 
 Please make your slides! Ideally, you should submit these the Thursday before the session to give the chairs chance to review and approve them. 
  
