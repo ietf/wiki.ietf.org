@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-03-29T03:13:02.060Z
+date: 2023-03-29T03:14:30.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -46,9 +46,13 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-segment-routing-te-policy implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
  - [draft-ietf-idr-wide-bgp-communities](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
  - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
- - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode)
-
 -  [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement)
+
+## Implementation reports for drafts at WG LC
+
+ - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
+ - [draft-ietf-idr-sr-policy-ifit-02](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)
+  - [draft-ietf-idr-sdwan-edge-discovery-07] (/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
 ## Fast Track Drafts (returned to WG, 2 implementations)
 
@@ -63,12 +67,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  (/group/idr/implementations/draft-ietf-idr-fs-bfd-implementations) 
  - [draft-ietf-idr-rtc-no-rt implementations](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  - [draft-ietf-idr-flowspec-l2vpn implementations](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
-
-## Implementation reports for drafts at WG LC
-
- - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
- - [draft-ietf-idr-sr-policy-ifit-02](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)
-  - [draft-ietf-idr-sdwan-edge-discovery-07] (/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
 ## Implementations being Flow Specification reclassified
 
