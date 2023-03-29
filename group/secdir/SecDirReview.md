@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2022-11-29T19:42:30.509Z
+date: 2023-03-29T05:41:54.299Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -19,7 +19,7 @@ dateCreated: 2022-11-09T15:37:54.246Z
 
 Security directorate reviews are solicited primarily to help the area directors improve their efficiency, particularly when preparing for IESG telechats, allowing them to focus on (potentially) troublesome documents and spend less time on the trouble-free ones. Improving the documents is an important, but clearly secondary, purpose. Yet a third purpose is to broaden the !SecDir reviewers' exposure to work going on in other parts of the IETF.
 
-Accordingly, reviews from !SecDir members do not, in and of themselves, cause the IESG to block a document. The reviews may, however, convince individual IESG members to block a document. The reviews, particularly those conducted in last call and earlier, may also help the document editors improve their documents.
+Accordingly, reviews from SecDir members do not, in and of themselves, cause the IESG to block a document. The reviews may, however, convince individual IESG members to block a document. The reviews, particularly those conducted in last call and earlier, may also help the document editors improve their documents.
 
 ## Schedule and Deadlines
 
@@ -45,11 +45,11 @@ The WG chair can request and early review of the document he feels is almost rea
 
 ## Where to send reviews
 
-You can either use the datatracker to complete your review, or you can send the review email to the mailing lists. If you use the datatracker to complete the review, there is option to either write the review in the form, or upload a text file containing the review, or search for the email review done earlier from the archives, and point the review to that. In the first two cases the review will automatically be sent to certain email lists, including !secdir@ietf.org. 
+You can either use the datatracker to complete your review, or you can send the review email to the mailing lists. If you use the datatracker to complete the review, there is option to either write the review in the form, or upload a text file containing the review, or search for the email review done earlier from the archives, and point the review to that. In the first two cases the review will automatically be sent to certain email lists, including secdir@ietf.org. 
 
-In all cases the review must be sent to the !secdir@ietf.org, and this can either be done manually, or by using the datatracker. In case you send email manually, please put the document name and version number in the Subject line, and start a new thread. Do not reply to any emails, for example your previous review, as the secdir secretary will only check the new threads on the secdir list to find your review, and mark your review done.  Send all reviews, including "no problem" reviews, to !iesg@ietf.org, !secdir@ietf.org, and !draftname.all@ietf.org.  The latter alias reaches draft editors, chairs, and others listed in the ID tracker's notification field. Note, that the <draftname>.all alias does not have the version number of the draft in it.
+In all cases the review must be sent to the secdir@ietf.org, and this can either be done manually, or by using the datatracker. In case you send email manually, please put the document name and version number in the Subject line, and start a new thread. Do not reply to any emails, for example your previous review, as the secdir secretary will only check the new threads on the secdir list to find your review, and mark your review done.  Send all reviews, including "no problem" reviews, to iesg@ietf.org, secdir@ietf.org, and draftname.all@ietf.org.  The latter alias reaches draft editors, chairs, and others listed in the ID tracker's notification field. Note, that the \<draftname>.all alias does not have the version number of the draft in it.
 
-You may send to !last-call@ietf.org instead of (or in addition to) the IESG, if you prefer. If there's something you want to share only with the ADs, send a separate, ADDITIONAL, message to them, flagged as private, but also send a note to the broader world, as above.
+You may send to last-call@ietf.org instead of (or in addition to) the IESG, if you prefer. If there's something you want to share only with the ADs, send a separate, ADDITIONAL, message to them, flagged as private, but also send a note to the broader world, as above.
 
 Here's some sample boilerplate, if you care to use it:
 > 
@@ -69,9 +69,9 @@ When sending with the datatracker form the boilerplate will NOT be automatically
 
 ### Useful email aliases
 
-WG chairs may be reached at !wgname-chairs@ietf.org. 
+WG chairs may be reached at wgname-chairs@ietf.org. 
 
-Replace draftname by !draft-ietf-wg-topic  (without -xx version):
+Replace draftname by draft-ietf-wg-topic  (without -xx version):
 
 | draftname@ietf.org | Draft authors (for now, could change) |
 | ---- | ---- |
@@ -98,4 +98,4 @@ The list of reviewers in order can be seen from the [https://datatracker.ietf.or
 
 ## Accomodating yourself
 
-Feel free to send !secdir-secretary@mit.edu any requests regarding your own secdir workload (e.g., "this document can easily be split into three segments, could you assign two more people", "I'm going on holiday, don't give me any assignments until September 2nd", "I'm bored, give me more to do"). While we're happy to accomodate your schedule, more notice will make it easier to reassign the review to someone else. 
+Feel free to send secdir-secretary@mit.edu any requests regarding your own secdir workload (e.g., "this document can easily be split into three segments, could you assign two more people", "I'm going on holiday, don't give me any assignments until September 2nd", "I'm bored, give me more to do"). While we're happy to accomodate your schedule, more notice will make it easier to reassign the review to someone else. 
