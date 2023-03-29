@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-03-29T00:23:30.967Z
+date: 2023-03-29T00:26:14.972Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -91,10 +91,12 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft                                    | Shepherd      |  implementation status    |  Next step                    |  WG LC date  |  Time in WG LC  |  WG LC ETA               |
 |------------------------------------------|---------------|---------------------------|-------------------------------|--------------|-----------------|--------------------------|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Susan Hares  |  4 implementation (info)  |  WG LC                        |  TBD         |  TBD            |  1/4/23 to 1/20/23       |
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Susan Hares  |  4 implementation (info)  |  WG LC                        |  TBD         |  TBD            |  4/3/23 to 4/24/23
+|  draft-ietf-idr-bgp-model-16            |  Jie Dong     |  TBD                      |  WG LC                        |   TBD        |  TBD            |  4/3/23 to 4/24/23
+
 |  draft-ietf-idr-sr-policy-fit-03         |  Susan Hares  |  0 implementations        |  IPR + implementation report  |  TBD         |  TBD            |  1/20/23 to 2/10/23      |
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  |  Awaiting -03 revision    |  WG LC                        |  TBD         |  TBD            |  TBD                     |
-|  draft-ietf-idr-bgp-model-15             |  Jie Dong     |  TBD                      |  WG LC                        |   TBD        |  TBD            |  1/5/2023 to 1/18/2023   |
+|  draft-ietf-idr-bgp-model-16            |  Jie Dong     |  TBD                      |  WG LC                        |   TBD        |  TBD            |  4/3/23 to 4/24/23
 {.dense}
 
 ## Adopted
