@@ -2,7 +2,7 @@
 title: IETF 116 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 116
 published: true
-date: 2023-03-29T09:30:09.184Z
+date: 2023-03-29T10:01:29.677Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:09:43.892Z
@@ -266,8 +266,8 @@ Location: Third Floor
 | 09:00 |                  |   emodir               |   
 | 09:30 |                  |                |  
 | 10:00 |                  |                  |  
-| 10:30 |                  |                  |  
-| 11:00 |                  |                  |  
+| 10:30 | NOT AVAILABLE    |                  |  
+| 11:00 | NOT AVAILABLE    |                  |  
 | 11:30 |                  |  NOT AVAILABLE   |  
 | 12:00 |                  |  NOT AVAILABLE   |  
 | 12:30 |                  |  NOT AVAILABLE   | 
