@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-03-29T02:48:59.888Z
+date: 2023-03-29T02:49:31.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -191,8 +191,5 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-white-linklocalnh              |          |
 {.dense}
 
-## BGP Autoconfiguration Work (Jeff Haas)
-
-BGP auto-configuration held an adoption call in May 2022, but none of the drafts received enough support. WG queried at IETF-114, but no additional details on follow-on. 
 
 
