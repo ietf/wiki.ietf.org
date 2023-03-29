@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-03-29T02:06:13.504Z
+date: 2023-03-29T02:45:31.153Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -18,6 +18,11 @@ Please feel free to add content however you think best, and we'll discuss how to
 
 * [SoK: Computer-Aided Cryptography](https://hal.inria.fr/hal-03046757/file/BarbosaetalOakland21.pdf)
 * [CyBoK - Formal Methods for Security](https://www.cybok.org/media/downloads/Formal_Methods_for_Security_v1.0.0.pdf)
+
+## Ongoing Analyses
+
+- [OAuth 2.0 Device Authorization Grant](https://www.rfc-editor.org/rfc/rfc8628), see also [Cross-Device Flows: Security Best Current Practice](https://datatracker.ietf.org/doc/draft-ietf-oauth-cross-device-security/). Involved RG members: Daniel Fett, Pieter Kasselman, Pedram Hosseyni, Tim Würtele
+
 
 ## Case Studies
 
