@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2023-03-29T05:41:54.299Z
+date: 2023-03-29T05:43:04.298Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -17,7 +17,7 @@ dateCreated: 2022-11-09T15:37:54.246Z
 
 ## Purpose
 
-Security directorate reviews are solicited primarily to help the area directors improve their efficiency, particularly when preparing for IESG telechats, allowing them to focus on (potentially) troublesome documents and spend less time on the trouble-free ones. Improving the documents is an important, but clearly secondary, purpose. Yet a third purpose is to broaden the !SecDir reviewers' exposure to work going on in other parts of the IETF.
+Security directorate reviews are solicited primarily to help the area directors improve their efficiency, particularly when preparing for IESG telechats, allowing them to focus on (potentially) troublesome documents and spend less time on the trouble-free ones. Improving the documents is an important, but clearly secondary, purpose. Yet a third purpose is to broaden the SecDir reviewers' exposure to work going on in other parts of the IETF.
 
 Accordingly, reviews from SecDir members do not, in and of themselves, cause the IESG to block a document. The reviews may, however, convince individual IESG members to block a document. The reviews, particularly those conducted in last call and earlier, may also help the document editors improve their documents.
 
@@ -41,7 +41,7 @@ Look to see if the draft has changed since the last call review and briefly let 
 
 ## Early Reviews
 
-The WG chair can request and early review of the document he feels is almost ready (usually after WG LC or similar), just to get early feedback on the document before the IETF LC. The early reviews are in separate section in the assignment email, and they should be done during next two weeks or so to be useful for the WG. Their reviews should be sent to the same places than other reviewers, but it is very important to include the !draftname.all@ietf.org so the reviews go the WG Chairs. You may also include the WG list if you want, but WG chairs can also forward your reviews there.
+The WG chair can request and early review of the document he feels is almost ready (usually after WG LC or similar), just to get early feedback on the document before the IETF LC. The early reviews are in separate section in the assignment email, and they should be done during next two weeks or so to be useful for the WG. Their reviews should be sent to the same places than other reviewers, but it is very important to include the draftname.all@ietf.org so the reviews go the WG Chairs. You may also include the WG list if you want, but WG chairs can also forward your reviews there.
 
 ## Where to send reviews
 
