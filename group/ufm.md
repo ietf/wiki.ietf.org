@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-03-27T08:33:08.387Z
+date: 2023-03-29T02:06:13.504Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -13,6 +13,13 @@ dateCreated: 2023-03-03T13:25:14.503Z
 This is the wiki page for the [ufm rg](https://datatracker.ietf.org/rg/ufmrg/documents/).
 
 Please feel free to add content however you think best, and we'll discuss how to organise that during IETF 116.
+
+## Overview Articles
+
+* [SoK: Computer-Aided Cryptography](https://hal.inria.fr/hal-03046757/file/BarbosaetalOakland21.pdf)
+* [CyBoK - Formal Methods for Security](https://www.cybok.org/media/downloads/Formal_Methods_for_Security_v1.0.0.pdf)
+
+## Case Studies
 
 ### [Oblivious HTTP](https://ietf-wg-ohai.github.io/oblivious-http/draft-ietf-ohai-ohttp.html)
 
