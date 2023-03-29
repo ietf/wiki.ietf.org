@@ -2,7 +2,7 @@
 title: ALTO WG - Application-Layer Traffic Optimization
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2023-01-04T22:44:00.184Z
+date: 2023-03-29T12:37:12.236Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:36:24.895Z
@@ -28,14 +28,14 @@ of weekly meetings.
 - [Draft re-charter (version 0.1, Feb 21 2014)](/en/group/ALTO/draft/v0.1-recharter)
 - [Draft re-charter (version 0.0, Feb 19 2014)](/en/group/ALTO/draft/v0.0-recharter)
 
-# Weekly Meeting
+# Weekly Meetings
 
 Welcome to join us. Subscribe [alto@ietf.org](https://www.ietf.org/mailman/listinfo/alto)
 or [alto-weekly-meeting@googlegroups.com](https://groups.google.com/forum/#!forum/alto-weekly-meeting) to receive
 meeting reminder notifications.
 
 - Time: 9:00 - 10:00 am ET every Tuesday
-- Bridge: https://yale.zoom.us/my/yryang
+- Bridge: https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf
 - Meeting Records: [Google drive](https://drive.google.com/drive/folders/1Z845CZmkf9OMnHlVxkEfvbXcSfdm-Fbn?usp=sharing)
 
 # Coming Meetings
@@ -44,13 +44,23 @@ meeting reminder notifications.
 
 # Recent Meetings
 
+- [ALTO session in IETF 116](https://datatracker.ietf.org/meeting/116/session/alto)
+- [ALTO session in IETF 115](https://datatracker.ietf.org/meeting/115/session/alto)
+- [ALTO session in IETF 114](https://datatracker.ietf.org/meeting/114/session/alto)
+- [ALTO session in IETF 113](https://datatracker.ietf.org/meeting/113/session/alto)
+- [ALTO session in IETF 112](https://datatracker.ietf.org/meeting/112/session/alto)
+- [ALTO session in IETF 111](https://datatracker.ietf.org/meeting/111/session/alto)
+- [ALTO session in IETF 110](https://datatracker.ietf.org/meeting/110/session/alto)
+- [ALTO session in IETF 109](https://datatracker.ietf.org/meeting/109/session/alto)
+- [ALTO session in IETF 108](https://datatracker.ietf.org/meeting/108/session/alto)
+- [ALTO session in IETF 107](https://datatracker.ietf.org/meeting/107/session/alto)
+- [ALTO session in IETF 106](https://datatracker.ietf.org/meeting/106/session/alto)
 - [ALTO session in IETF 110](https://www.youtube.com/watch?v=fjBSODKtuLA)
 - [ALTO session in IETF 109](https://www.youtube.com/watch?v=ldduoGYGqRg&t=6131s)
 - [ALTO session in IETF 108](https://www.youtube.com/watch?v=0VGbj8IGxzw)
 - ATLO session in IETF 107 was cancelled
 - [ALTO session in IETF 106](https://www.youtube.com/watch?v=En64HisRFoQ)
-- ANI side meeting in IETF 106 (
-  slides) [Dropbox](https://www.dropbox.com/sh/8xamtujadex7idl/AAAujFZxfVZnpMVGNk3Yu5t5a?dl=0) [Google Drive](https://drive.google.com/open?id=1uhZ7ZHGtMjcGebBlC0SBavTMwECdqeIp)
+	- ANI side meeting in IETF 106 (slides) [Dropbox](https://www.dropbox.com/sh/8xamtujadex7idl/AAAujFZxfVZnpMVGNk3Yu5t5a?dl=0) [Google Drive](https://drive.google.com/open?id=1uhZ7ZHGtMjcGebBlC0SBavTMwECdqeIp)
 
 # Past Meeting Notes, Slides and Audio Files
 
