@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-03-29T03:44:22.593Z
+date: 2023-03-29T03:45:45.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -53,11 +53,11 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-sr-policy-ifit-02](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)
   - [draft-ietf-idr-sdwan-edge-discovery-07](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
-  - [draft-ietf-idr-flowspec-redirect-ip-implementations] (/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
+  - [draft-ietf-idr-flowspec-redirect-ip implementations] (/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
 
 ## Fast Track Drafts (returned to WG, 2 implementations)
 
--    [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) 
+- [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) 
 
 ## Drafts past WG LC awaiting 2 implementations
 
