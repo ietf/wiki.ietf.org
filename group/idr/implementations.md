@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-03-29T03:07:56.600Z
+date: 2023-03-29T03:09:30.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -66,6 +66,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-sr-policy-ifit-02](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)
+  - [draft-ietf-idr-sdwan-edge-discovery-07] (/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
 ## Implementations being Flow Specification reclassified
 
