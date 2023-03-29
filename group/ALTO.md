@@ -2,7 +2,7 @@
 title: ALTO WG - Application-Layer Traffic Optimization
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2023-03-29T12:37:12.236Z
+date: 2023-03-29T12:39:14.015Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:36:24.895Z
@@ -38,10 +38,6 @@ meeting reminder notifications.
 - Bridge: https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf
 - Meeting Records: [Google drive](https://drive.google.com/drive/folders/1Z845CZmkf9OMnHlVxkEfvbXcSfdm-Fbn?usp=sharing)
 
-# Coming Meetings
-
-- [IETF 115](https://www.ietf.org/how/meetings/115/) (November 5-11, 2022; London, UK)
-
 # Recent Meetings
 
 - [ALTO session in IETF 116](https://datatracker.ietf.org/meeting/116/session/alto)
@@ -55,12 +51,14 @@ meeting reminder notifications.
 - [ALTO session in IETF 108](https://datatracker.ietf.org/meeting/108/session/alto)
 - [ALTO session in IETF 107](https://datatracker.ietf.org/meeting/107/session/alto)
 - [ALTO session in IETF 106](https://datatracker.ietf.org/meeting/106/session/alto)
-- [ALTO session in IETF 110](https://www.youtube.com/watch?v=fjBSODKtuLA)
-- [ALTO session in IETF 109](https://www.youtube.com/watch?v=ldduoGYGqRg&t=6131s)
-- [ALTO session in IETF 108](https://www.youtube.com/watch?v=0VGbj8IGxzw)
-- ATLO session in IETF 107 was cancelled
-- [ALTO session in IETF 106](https://www.youtube.com/watch?v=En64HisRFoQ)
 	- ANI side meeting in IETF 106 (slides) [Dropbox](https://www.dropbox.com/sh/8xamtujadex7idl/AAAujFZxfVZnpMVGNk3Yu5t5a?dl=0) [Google Drive](https://drive.google.com/open?id=1uhZ7ZHGtMjcGebBlC0SBavTMwECdqeIp)
+- [ALTO session in IETF 105](https://datatracker.ietf.org/meeting/105/session/alto)
+- [ALTO session in IETF 104](https://datatracker.ietf.org/meeting/104/session/alto)
+- [ALTO session in IETF 103](https://datatracker.ietf.org/meeting/103/session/alto)
+- [ALTO session in IETF 102](https://datatracker.ietf.org/meeting/102/session/alto)
+- [ALTO session in IETF 101](https://datatracker.ietf.org/meeting/101/session/alto)
+- [ALTO session in IETF 99](https://datatracker.ietf.org/meeting/99/session/alto)
+- [ALTO session in IETF 98](https://datatracker.ietf.org/meeting/98/session/alto)
 
 # Past Meeting Notes, Slides and Audio Files
 
