@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2023-03-29T05:43:04.298Z
+date: 2023-03-29T05:43:57.690Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -75,7 +75,7 @@ Replace draftname by draft-ietf-wg-topic  (without -xx version):
 
 | draftname@ietf.org | Draft authors (for now, could change) |
 | ---- | ---- |
-| `draftname@ietf.org | Draft authors (for now, could change) |
+| draftname@ietf.org | Draft authors (for now, could change) |
 | draftname.authors@ietf.org | Draft authors |
 | draftname.chairs@ietf.org | WG Chairs (if the draft is a WG draft) 
 | draftname.notify@ietf.org | The addresses entered into the tracker's email notification field for the draft 
