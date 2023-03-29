@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-03-29T00:18:05.390Z
+date: 2023-03-29T00:19:50.031Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -46,7 +46,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 |  draft                         | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC     |
 |--------------------------------|-------------|---------------------|-------------|------------|----------------|---------------:|-------|-----------------------|
-|  draft-ietf-idr-long-lived-gr  |  Jeff Haas  |  Submitted to IESG  |             |            |  Dec-30-2022   |  TBD           |  TBD  |                       |
+|--------------------------------|-------------|---------------------|-------------|------------|----------------|---------------:|-------|-----------------------|
 {.dense}
  
 ## Needs revision During AD Review
@@ -60,7 +60,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State  |  Time WG LC   |
 |--------------------------------------------|---------------|------------------------------|-----------------|-------------------|----------------|--------|-----------------|---------------|
-|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD evaluation (revised ID)  |  IETF Review    |  Nov-11-2021      |  Feb-11-2022   |  TBD   |  383            |  475          |
+|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD evaluation (revised ID)  |  IETF Review    |  Nov-11-2021      |  Feb-11-2022   |  19 days |           |  475          |
 |  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD Evaluation (revised ID)  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD   |  305            |  355          |
 |  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  AD queue                    |  AD review      |  Aug-06-2021      |  Jul-07-2022   |  TBD   |  237            |  572          |
 |  draft-ietf-idr-long-lived-gr              |  Jeff Haas    |  Submitted to IESG           |  AD evaluation  |  11/1/2022        |  Dec-30-2022   |  TBD   |  120            |  120          |
