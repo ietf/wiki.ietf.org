@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2023-03-29T05:00:30.515Z
+date: 2023-03-30T07:36:21.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -72,7 +72,7 @@ A YANG Data Model for L1 Connectivity Service Model (L1CSM)
 
 - draft-ietf-ccamp-mw-topo-yang-05
 A YANG Data Model for Microwave Topology
-> Presented and Request WG LC in IETF 116. 
+> Presented and Request WG LC in IETF 116. Next draft in queue for WG last call.
 
 - draft-ietf-ccamp-network-inventory-yang-01
 A YANG Data Model for Network Hardware Inventory
@@ -105,7 +105,16 @@ Framework and Data Model for OTN Network Slicing
 
 
 ## Draft prioritization for WG adoption
+Prio 1 - draft-zheng-ccamp-client-pm-yang-07
+A YANG Data Model for Client Signal Performance Monitoring
 
+Prio 2 - draft-zheng-ccamp-client-tunnel-yang-12
+A YANG Data Model for Client-layer Tunnel
+
+
+
+## IPR polling ongoing
+Microwave draft...
 
 &nbsp;
 &nbsp;
