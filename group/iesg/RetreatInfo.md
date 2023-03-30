@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-03-30T00:14:34.794Z
+date: 2023-03-30T05:17:11.336Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -56,6 +56,8 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 1. IESG: Areamandering: Rearranging the areas (Martin)
 
 1. IESG: Letters of invitation for interim meetings (Martin)
+
+1. IESG: Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)?
 
 ### Agenda 
 
