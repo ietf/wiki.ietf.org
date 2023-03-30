@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2023-03-30T05:32:36.121Z
+date: 2023-03-30T23:11:38.810Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -41,6 +41,9 @@ The chairs will aim to announce topics that have been dispatched for a particula
 A complete list of deadlines for IETF meetings is available here: https://datatracker.ietf.org/meeting/important-dates/
 
 # Training hints for Presenters
+The goal of the dispatch session is to see whether the IETF community is interested in your work. That interest will depend on the problem space you are describing, not on the solution you are proposing. Therefore, we recommend spending the majority of your time on describing the use cases and motivation. It's worth briefly describing the overall shape of your proposed solution, but dispatch isn't the right place to go into detail on packet formats. 
+
+For more information, please have a look at this webpage. 
 https://wiki.ietf.org/en/group/dispatch/presenter-training 
 
 # Background: Process for Determining Deadlines for DISPATCH WG
