@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-03-29T00:13:15.406Z
+date: 2023-03-30T00:14:34.794Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -38,7 +38,7 @@ Based on recent discussion there are two subtopics: a) the question about what's
 
 1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes)
 
-1. IAB+IESG: review of IAB-ISOC group
+1. IAB+IESG: review of IAB-ISOC group (Owner?)
 
 1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
 Discussion on various outreach activities and how the coordination function can be improved
@@ -46,7 +46,7 @@ Discussion on various outreach activities and how the coordination function can 
 1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (added by Mirja but will not drive it) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
-1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures?
+1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures? (Owner?)
 
 1. IESG: Change voting requirements for Stds Track documents (Rob)
 Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
@@ -55,7 +55,7 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 
 1. IESG: Areamandering: Rearranging the areas (Martin)
 
-1. IESG: Letters of Invitation (Martin)
+1. IESG: Letters of invitation for interim meetings (Martin)
 
 ### Agenda 
 
