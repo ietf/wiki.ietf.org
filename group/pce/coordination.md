@@ -2,7 +2,7 @@
 title: PCE WG's coordination tracker with other WG/RG
 description: 
 published: true
-date: 2023-02-28T01:39:09.702Z
+date: 2023-03-31T04:26:38.101Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-24T06:49:27.474Z
@@ -49,6 +49,9 @@ Some individual I-D for future
 
 | Feature | PCE | PIM | BIER | IDR | Remarks |
 | --- | --- | --- | --- | --- | --- |
+| P2MP SR Policy | draft-ietf-pce-sr-p2mp-policy | draft-ietf-pim-sr-p2mp-policy | - | draft-ietf-idr-sr-p2mp-policy | - |
+| BIER-TE | draft-chen-pce-bier | - | BIER-TE (RFC9262) | draft-chen-bier-idr-bier-te-bgp-00 | Request feedback from the BIER |
+
 
 There is a lot of past work on RSVP-TE P2MP LSP in PCEP
 
