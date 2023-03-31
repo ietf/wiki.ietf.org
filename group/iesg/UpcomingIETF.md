@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-03-31T00:53:44.487Z
+date: 2023-03-31T01:53:26.914Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -139,6 +139,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg_2
     > - Schedule, attendee list
 > 5. (important but not urgent) Updating IESG statement (Éric V) based on https://datatracker.ietf.org/liaison/1823/ where IEEE requested to update the reference in https://www.ietf.org/about/groups/iesg/statements/ethertypes/ to a more fresh one
 > 6. WGs who want more official meeting slots during the F2F meetings (Roman)
+> 7. IESG Ballots Discussion (David)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
