@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-04-02T07:13:40.669Z
+date: 2023-04-02T07:16:03.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -17,6 +17,11 @@ dateCreated: 2023-03-07T11:17:56.126Z
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | - |
 
+## Initiated and ongoing Tasks
+|Item|Document|Responsible|Remarks|
+|---|---|---|---|
+|BFD WG opinion|draft-fizgeer-pce-pcep-bfd-parameters|Dhruv|Mail sent|
+|BIER WG opinion|draft-chen-pce-bier|Dhruv|Mail sent|
 
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
