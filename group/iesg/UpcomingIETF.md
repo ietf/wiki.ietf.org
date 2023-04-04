@@ -2,177 +2,165 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-03-31T01:53:26.914Z
+date: 2023-04-04T18:58:57.537Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
 ---
 
-# IETF 116 - Yokohama, Japan
+# IETF 117 - San Francisco, CA, USA
 This is scratch space for the upcoming IETF meeting; it *will* be cleared afterwards and reused for the next meeting. 
 
-*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/116/agenda))*
+*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/))*
 
 # Candidate Meeting Topics
+Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
+1. Topic (IESG or IESG/IAB) (Name)
+2. Topic (IESG or IESG/IAB) (Name)
+3. Topic (IESG or IESG/IAB) (Name)
+4. Topic (IESG or IESG/IAB) (Name)
 
-Remaining topics have been moved to the retreat wiki page here:
-https://wiki.ietf.org/en/group/iesg/RetreatInfo
 
 # IESG Activities
-*All times are in JST (UTC +9).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
+*All times are in PDT (UTC -7).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
 
-## Saturday and Sunday, March 25 and 26, 2023
+## Saturday and Sunday, July 22 and 23, 2023
 
-**Code Sprint** - Saturday, March 25, 2023 - 10:00-18:00 - Room: G416
+**Code Sprint** - Saturday, July 22, 2023 - 10:00-18:00 - Room: TBD
 
 **Hackathon**
-  - Saturday, March 25, 2023 - 09:30-21:00 - Room: G3
-  - Sunday, March 26, 2023 - 09:30-16:00 - Room: G3
+  - Saturday, July 22, 2023 - 09:30-21:00 - Room: TBD
+  - Sunday, July 23, 2023 - 09:30-16:00 - Room: TBD
 
-**New Participant's Quick Connections** Sunday, March 26, 2023 - 16:00-17:00 - Room: G304
-**IETF 116 Welcome Reception** Sunday, March 26, 2023 - 17:00-19:00 - Room: G1/G2
-
-### ~~Sunday~~ Saturday Night Social
-
-Time: 17:00-19:00
-Location: G320 
-What: A pre-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
-
-## Sunday, March 26, 2023
+**New Participant's Quick Connections** Sunday, July 23, 2023 - 16:00-17:00 - Room: TBD
+**IETF 116 Welcome Reception** Sunday, July 23, 2023 - 17:00-19:00 - Room: TBD
 
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: G301
+## Sunday, July 23, 2023
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: G301
-Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iabiesg
-Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
+
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+Meetecho: 
+Onsite Tool: 
 
 
 > 1. Welcome and introductions
-> 1. ISOC Policymaker Program update (https://www.internetsociety.org/policy-programs/policymakers-program-to-ietf/) (Sally/Ryan) (5 mins)
-> 1. Area walkthrough for hot topics (list randomized for 116)
-    > - SEC
-    > - GEN
-    > - INT
-    > - IRTF
-    > - OPS
+> 2. Area walkthrough for hot topics (list randomized for 117)
     > - ART
-    > - RTG
     > - TSV
+    > - GEN
     > - IAB
-> 1. Filtering on IETF infrastructure (8718bis-related) (Lars)  
-> 1. Review of meeting fees (Jay) -  Update on consultation
-> 1. "Security standardization" newsletter (Chris)
+    > - IRTF
+    > - RTG
+    > - INT
+    > - SEC
+    > - OPS
+> 3. Topic (Name)
 
-### IESG Only Meeting - Time: 14:00-16:00 Room: G301
+### IESG Only Meeting - Time: 14:00-16:00 Room: TBD
 
-Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iabiesg
-Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg
+Meetecho: 
+Onsite Tool: 
 
 > 1. Welcome
 > 1. Updates
 >    - RFC Editor
 >    - IANA
-> 1. Copyright for IETF wikis (Lars)
-> 1. Security Considerations for YANG modules (i.e., what should be covered) (Rob)
+> 1. Topic (Name)
+> 1. Topic (Name)
 
-### (e)BPF BoF pre-sync - 16:15 - 17:00 Room: G301
-Pre-BoF sync among chairs, ADs, and proponents.
+### Sunday Night Social 
 
-## Monday, March 27, 2023 
+Time: 17:00-19:00
+Location: TBD
+What: A post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
+
+## Monday, July 24, 2023 
 
 
-### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: G301
+### IESG Meeting Time: 08:00-09:20 PDT (UTC -7) Room: TBD
 
-Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg
-Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg
+Meetecho: 
+Onsite Tool: 
 
 > 1. eBPF BOF licensing discussion (Lars)
 > 2. Liaisons for the coming year (suggested by Éric V)
 
-## Tuesday, March 28, 2023
+## Tuesday, July 25, 2023
 
 No IESG breakfast. IAB has a breakfast meeting
   
-## Wednesday, March 29, 2023
+## Wednesday, July 26, 2023
+### IESG Meeting Time: 08:00-09:20 PDT (UTC-7) Room: TBD
+
+Meetecho: 
+Onsite Tool:
+
+> 1. Plenary Prep
+> 2. Topic (Name)
 
 
-### IESG Meeting Time: 08:00-09:20 JST (UTC+9) Room: G301
+### IETF 117 Plenary TIME: 17:30-19:30 PDT (UTC-7) Room: TBD
 
-
-Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iesg_2
-Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iesg_2
-
-> * Plenary Prep
-> * Topic
-
-
-### IETF 116 Plenary TIME: 17:30-19:30 JST (UTC+9) Room: G1/G2
-
-## Thursday, March 30, 2023
+## Thursday, July 27, 2023
 
 No IESG breakfast. IAB has a breakfast meeting
 
-## Friday, March 31, 2023 
-### Joint IAB/IESG Lunch - Time: 13:45 Room: G301
-### Joint IESG/IAB Meeting - Time: 14:15-16:00 JST (UTC+9)
+## Friday, July 28, 2023 
+### Joint IAB/IESG Lunch - Time: TBD Room: TBD
+### Joint IESG/IAB Meeting - Time: TBD PDT (UTC-7)
 
-Meetecho: https://meetings.conf.meetecho.com/ietf116/?group=iabiesg_2
-Onsite Tool: https://meetings.conf.meetecho.com/onsite116/?group=iabiesg_2
+Meetecho: 
+Onsite Tool: 
 
 >  1. Welcome
->  1. Post-meeting review (randomized for 116)
-    > - IRTF
-    > - RTG
-    > - GEN
-    > - ART
-    > - SEC
+>  1. Post-meeting review (randomized for 117)
     > - IAB
     > - OPS
-    > - TSV
     > - INT
+    > - IRTF
+    > - SEC
+    > - RTG
+    > - ART
+    > - TSV
+    > - GEN
 >  2.  General discussion of productivity and how the meeting went	 (standing item)
->  3. NomCom candidate pool & related (Lars)
-> 4. Retreat prep (Martin)
-    > - Invitation letters
-    > - Venue for Friday
-    > - Schedule, attendee list
-> 5. (important but not urgent) Updating IESG statement (Éric V) based on https://datatracker.ietf.org/liaison/1823/ where IEEE requested to update the reference in https://www.ietf.org/about/groups/iesg/statements/ethertypes/ to a more fresh one
-> 6. WGs who want more official meeting slots during the F2F meetings (Roman)
-> 7. IESG Ballots Discussion (David)
+>  3. Topic (Name)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: G415 
+Location: TBD 
 
 
-## Sunday, 26 March 2023
+## Sunday, 23 July 2023
 note: Not available before 10:00 Sunday
 
-* TSV AD Office Hours : 10:30-11:30
-* RTG ADs Office Hours: 1600-1700
+* TIME - ACTIVITY
+* TIME - ACTIVITY
 
-## Monday, 27 March 2023
+## Monday, 24 July 2023
 
-* 12:00 - 12:45 : SEC AD Office Hours
-* 13:30 - 14:00 : IANA discussion about DRIP ASTM code points (Éric V)
+* TIME - ACTIVITY
+* TIME - ACTIVITY
 
-## Tuesday, 28 March 2023
+## Tuesday, 25 July 2023
 
-* 08:30-09:30: IETF Chair Office Hours
-* 0930-1130: BGP over QUIC Authors (Alvaro)
-* 14:30 - 15:30 INT AD office hours
-* 16:30 - 17:00 RW - Chat with OPSAWG cahirs
+* TIME - ACTIVITY
+* TIME - ACTIVITY
 
-## Wednesday, 29 March 2023
+## Wednesday, 26 July 2023
 
 * 17:00-17:30: pre-plenary refreshments
 
-## Thursday, 30 March 2023
+## Thursday, 27 July 2023
 
-* 11:30-13:00 MIMI prep (Alissa, approved by Murray)
-* 13:00-15:00 (private meeting via the Secretariat)
+* TIME - ACTIVITY
+* TIME - ACTIVITY
 
-## Friday, 31 March 2023
+## Friday, 28 July 2023
+* TIME - ACTIVITY
+* TIME - ACTIVITY
 PLEASE NOTE: NOT AVAILABLE AFTER 13:00pm 
