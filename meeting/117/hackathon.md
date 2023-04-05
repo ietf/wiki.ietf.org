@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-04-05T18:18:15.719Z
+date: 2023-04-05T21:17:09.484Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -24,3 +24,11 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 
 **Sign up for the Hackathon**
+* [Onsite registration] Link available in May
+* [Remote registration] Link available in May
+{.links-list}
+
+**View the list of registered**:
+* [Onsite Hackathon participants] Link available in May
+* [Remote Hackathon participants] Link available in May
+{.links-list}
