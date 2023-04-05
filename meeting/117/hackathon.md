@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-04-05T21:17:09.484Z
+date: 2023-04-05T21:18:22.591Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -32,3 +32,11 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * [Onsite Hackathon participants] Link available in May
 * [Remote Hackathon participants] Link available in May
 {.links-list}
+
+Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
+
+The IETF Hackathon is free to attend and is open to everyone. It is a collaborative event, not a competition. Any competition is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.
+
+## Agenda
+
+Hackathon *(all times are Pacific Daylight Time, UTC-7)*
