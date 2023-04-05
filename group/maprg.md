@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2023-04-05T18:23:24.715Z
+date: 2023-04-05T18:23:47.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -200,5 +200,3 @@ Two previous meeting of the Proposed How Ossified is the Protocol Stack? Researc
 ## Current Chairs <maprg-chairs@…>
 - Dave Plonka <dave@…>
 - Mirja Kühlewind <mirja.kuehlewind@…>
-
----
