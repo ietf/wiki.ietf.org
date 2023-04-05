@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2023-04-05T18:01:30.569Z
+date: 2023-04-05T18:04:32.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -16,15 +16,15 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
-### March 2023 (Yokohama) [YouTube](/https://youtu.be/X0zUgLr18pM?t=30s) [intro slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-chairs-intro)
+### March 2023 (Yokohama) [YouTube](https://youtu.be/X0zUgLr18pM?t=30s) [intro slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-chairs-intro)
 
-- On the Interplay between TLS Certificates and QUIC Performance [YouTube](/https://youtu.be/X0zUgLr18pM?t=3m50s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-on-the-interplay-between-tls-certificates-and-quic-performance), Marcin Nawrocki, March 2023
-- A Characterization of Route Variability in LEO Satellite Networks [YouTube](/https://youtu.be/X0zUgLr18pM?t=22m26s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-leo-satellite-variabilitypptx), Vaibhav Bhosale, March 2023
-- A Sample of Anomalies in Active Measurements [YouTube](/https://youtu.be/X0zUgLr18pM?t=42m21s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-a-sample-of-anomalies-in-active-measurements), Robert Kisteleki, March 2023
-- Designing Experiments to Avoid Internet Measurement Pitfalls [YouTube](/https://youtu.be/X0zUgLr18pM?t=47m42s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-designing-experiments-to-avoid-internet-measurement-pitfalls), Ana Custura, March 2023
-- Efficient Continuous Latency Monitoring with eBPF [YouTube](/https://youtu.be/X0zUgLr18pM?t=1h4m31s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-efficient-continuous-latency-monitoring-with-ebpf), Simon Sundberg, March 2023
-- Measuring the Performance of iCloud Private Relay [YouTube](/https://youtu.be/X0zUgLr18pM?t=1h17m8s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-measuring-the-performance-of-icloud-private-relay), Martino Trevisan, March 2023
-- IPv6 only resolvers, what is stopping them? [YouTube](/https://youtu.be/X0zUgLr18pM?t=1h33m27s) [slides](/https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-ipv6-only-resolvers-what-is-stopping-them), Momoka Yamamoto, March 2023
+- On the Interplay between TLS Certificates and QUIC Performance [YouTube](https://youtu.be/X0zUgLr18pM?t=3m50s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-on-the-interplay-between-tls-certificates-and-quic-performance), Marcin Nawrocki, March 2023
+- A Characterization of Route Variability in LEO Satellite Networks [YouTube](https://youtu.be/X0zUgLr18pM?t=22m26s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-leo-satellite-variabilitypptx), Vaibhav Bhosale, March 2023
+- A Sample of Anomalies in Active Measurements [YouTube](https://youtu.be/X0zUgLr18pM?t=42m21s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-a-sample-of-anomalies-in-active-measurements), Robert Kisteleki, March 2023
+- Designing Experiments to Avoid Internet Measurement Pitfalls [YouTube](https://youtu.be/X0zUgLr18pM?t=47m42s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-designing-experiments-to-avoid-internet-measurement-pitfalls), Ana Custura, March 2023
+- Efficient Continuous Latency Monitoring with eBPF [YouTube](https://youtu.be/X0zUgLr18pM?t=1h4m31s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-efficient-continuous-latency-monitoring-with-ebpf), Simon Sundberg, March 2023
+- Measuring the Performance of iCloud Private Relay [YouTube](https://youtu.be/X0zUgLr18pM?t=1h17m8s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-measuring-the-performance-of-icloud-private-relay), Martino Trevisan, March 2023
+- IPv6 only resolvers, what is stopping them? [YouTube](https://youtu.be/X0zUgLr18pM?t=1h33m27s) [slides](https://datatracker.ietf.org/meeting/116/materials/slides-116-maprg-ipv6-only-resolvers-what-is-stopping-them), Momoka Yamamoto, March 2023
 ### November 2022 (London) [YouTube](https://www.youtube.com/watch?v=SE3CE5vKcUY&t=35s) [intro slides](https://datatracker.ietf.org/meeting/115/materials/slides-115-maprg-chairs-intro)
 - Kirin: Hitting the Internet with Millions of Distributed IPv6 Announcements [YouTube](https://www.youtube.com/watch?v=SE3CE5vKcUY&t=7m54s) [slides](https://datatracker.ietf.org/meeting/115/materials/slides-115-maprg-kirin-hitting-the-internet-with-millions-of-distributed-ipv6-announcements), Paweł Foremski, November 2022
 - Waiting for QUIC: On the Opportunities of Passive Measurements to Understand QUIC Deployments [YouTube](https://www.youtube.com/watch?v=SE3CE5vKcUY&t=14m59s) [slides](https://datatracker.ietf.org/meeting/115/materials/slides-115-maprg-on-the-opportunities-of-passive-measurements-to-understand-quic-deployments), Jonas Mücke, November 2022
