@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-03-21T13:45:14.953Z
+date: 2023-04-05T04:33:08.324Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -136,7 +136,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
-|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|-|2023-05-09|
+|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2023-04-04|2024-05-09|
 |draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2022-12-12|2024-01-12|
 |draft-ietf-pce-local-protection-enforcement| WG I-D |LSPA flag|2021-01-28|2023-01-19|2024-01-28|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
