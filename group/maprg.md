@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2023-04-05T18:22:38.594Z
+date: 2023-04-05T18:23:24.715Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -202,5 +202,3 @@ Two previous meeting of the Proposed How Ossified is the Protocol Stack? Researc
 - Mirja Kühlewind <mirja.kuehlewind@…>
 
 ---
-
-*The content of this page was last updated on 2022-11-16. It was migrated from the old Trac wiki on 2023-01-29.*
