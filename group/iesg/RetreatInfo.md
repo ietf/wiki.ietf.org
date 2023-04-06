@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-03-31T06:25:03.953Z
+date: 2023-04-06T11:37:13.125Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -62,6 +62,10 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 1. IAB: new programs, e.g. e-impact (e-impact might go to joint day...?)
 
 1. IESG+IAB: How to deal with side meetings
+
+1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob)
+
+
 ### Agenda 
 
 
