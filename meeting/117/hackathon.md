@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-04-05T21:18:22.591Z
+date: 2023-04-06T14:51:16.560Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -40,3 +40,25 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 ## Agenda
 
 Hackathon *(all times are Pacific Daylight Time, UTC-7)*
+
+### Saturday, 22 July
+
+* **09:30** : Room open for setup by project champions    
+* **10:00** : Room open for all - pastries and coffee provided
+* **10:30** : Hackathon kickoff, [Meetecho] TBD
+* **10:45** : Form Teams, see [Team Schedule](teamschedule)
+* **12:30** : Lunch provided
+* **15:30** : Afternoon break - snacks provided
+* **18:30** : Dinner provided
+* **20:30** : Room closes 
+{.grid-list}
+
+### Sunday, 23 July
+
+* **09:30** : Room opens - pastries and coffee provided
+* **12:30** : Lunch provided
+* **13:30** : Hacking stops, prepare brief presentation of project
+* **14:00** : Project results presentations, [Meetecho] TBD
+* **16:00** : Hackathon ends
+* **17:00** : Tear down complete
+{.grid-list}
