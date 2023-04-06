@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-06T11:37:13.125Z
+date: 2023-04-06T11:41:23.747Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -64,7 +64,10 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 1. IESG+IAB: How to deal with side meetings
 
 1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob)
+Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a compnany to help push a draft or technology then should that be declared, even if they are a consultant?
 
+1. IESG: Finalize YANG security template text (added by Rob)
+We may resolve this earlier over email, and this could possibly just be a side topic for Rob + Sec ADs.  But adding as a potential place holder.
 
 ### Agenda 
 
