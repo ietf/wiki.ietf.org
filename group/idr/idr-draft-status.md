@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-04-07T12:46:31.971Z
+date: 2023-04-07T12:55:43.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -115,6 +115,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |-----------------------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  |  Chairs review   |  TBD |  12/23 to 1/13    |  2/28           |  3/8    |
 |  draft-zhou-idr-bgp-srmpls-elp-03  |  Susan Hares | chairs review   |  TBD  | 1/27 to 3/8    |  3           |  3/8    |
+|  draft-sas-idr-maxprefix-inbound        |  Susan Hares  |  2nd adoption call  |  TBD        |  2/28 to 3/28     |  3/17           |  4/10  |
 {.dense}
 
 
@@ -122,10 +123,8 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-|  draft-zhou-idr-bgp-srmpls-elp-03       |  Susan Hares  |  Adoption call      |  Adoption   |    1/27 to 3/8    |  3/10           |  3/10   |
-|  draft-sas-idr-maxprefix-inbound        |  Susan Hares  |  2nd adoption call  |  TBD        |  2/28 to 3/28     |  3/17           |  3/17   |
-|  draft-spaghetti-idr-bgp-sendholdtimer  |  Susan Hares  |  Adoption call      |  TBD        |  2/28 to 3/28     |  3/17           |  3/17   |
-|  draft-dong-idr-sr-policy-nrp-01        |  Susan Hares  |  Adoption call      |  TBD        |  3/1 to 3/28      |  3/17           |  3/17   |
+|  draft-spaghetti-idr-bgp-sendholdtimer  |  Susan Hares  |  Adoption call      |  TBD        |  2/28 to 3/28     |  3/17           |  4/10   |
+|  draft-dong-idr-sr-policy-nrp-01        |  Susan Hares  |  Adoption call      |  TBD        |  3/1 to 3/28      |  3/17           |  4/10   |
 {.dense}
 
 ## Adoption process - upcoming Adoptions
