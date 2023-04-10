@@ -2,7 +2,7 @@
 title: IRSG Reviews and Polls
 description: 
 published: true
-date: 2023-02-27T18:33:53.978Z
+date: 2023-04-10T17:27:34.982Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-24T16:34:52.603Z
@@ -14,11 +14,12 @@ dateCreated: 2023-02-24T16:34:52.603Z
 This page was reset on 2019-08-30, since the previous information was several years out of date.*
 
 Active polls:
-* (none)
+* draft-irtf-cfrg-rsa-blind-signatures-12
 
 Pending:
 * draft-irtf-hrpc-guidelines-13
   * IRSG poll completed; EKR had comments
+
 
 
 Completed:
@@ -141,6 +142,9 @@ Completed:
   * Reviewed by Brian Trammell
 * draft-irtf-cfrg-voprf
   * Reviewed by Stephen Farrell
+* draft-irtf-cfrg-rsa-blind-signatures
+  * Reviewed by Melinda Shore
+  
 
 Upcoming review order (this list was seeded randomly):
 * Nick Sullivan, CFRG Chair (away until Jan 2023)
@@ -183,10 +187,6 @@ Upcoming review order (this list was seeded randomly):
   * Reviewed draft-irtf-icnrg-nrs-requirements-04
   * Reviewed draft-irtf-pearg-numeric-ids-generation-07
   * Reviewed draft-irtf-pearg-numeric-ids-history-07
-* Melinda Shore, DINRG Chair
-  * Reviewed draft-irtf-nwcrg-nwc-ccn-reqs-07
-  * Reviewed draft-irtf-nmrg-ibn-concepts-definitions-06
-  * Reviewed draft-irtf-cfrg-hash-to-curve-14
 * Jeffrey He, COINRG Chair
   * Reviewed draft-irtf-nmrg-ibn-intent-classification-05
 * Spencer Dawkins, At-Large Member
@@ -216,6 +216,11 @@ Upcoming review order (this list was seeded randomly):
   * Will review draft-irtf-icnrg-ccnx-timetlv
 * Niels ten Oever, RASPRG Chair
 * Ignacio Castro, RASPRG Chair
+* Melinda Shore, DINRG Chair
+  * Reviewed draft-irtf-nwcrg-nwc-ccn-reqs-07
+  * Reviewed draft-irtf-nmrg-ibn-concepts-definitions-06
+  * Reviewed draft-irtf-cfrg-hash-to-curve-14
+  * Reviewed draft-irtf-cfrg-rsa-blind-signatures
 
 Reviewers are assigned by the IRTF Chair on a loose round-robin basis:
 If someone volunteers promptly to perform an IRSG review of a document, the review is assigned to that person and their name is moved to the bottom of the list.
