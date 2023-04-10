@@ -2,7 +2,7 @@
 title: IRSG Reviews and Polls
 description: 
 published: true
-date: 2023-04-10T17:27:34.982Z
+date: 2023-04-10T17:34:03.549Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-24T16:34:52.603Z
@@ -44,22 +44,20 @@ Completed:
 * draft-irtf-nwcrg-nwc-ccn-reqs-09 -> RFC 9273
 * draft-irtf-nmrg-ibn-intent-classification-05 -> RFC 9316
 * draft-irtf-nmrg-ibn-concepts-definitions-09 -> RFC 9315
+* draft-irtf-qirg-principles -> RFC 9340
+* draft-irtf-icnrg-ccninfo -> RFC 9344
 * draft-irtf-cfrg-hash-to-curve-16
-  * With RFC Editor
-* draft-irtf-qirg-principles
   * With RFC Editor
 * draft-irtf-pearg-numeric-ids-generation-10
   * With RFC Editor
 * draft-irtf-pearg-numeric-ids-history-09
   * With RFC Editor
-* draft-irtf-icnrg-ccninfo
-  * With RFC Editor
 * draft-irtf-cfrg-vrf
   * With RFC Editor
 * draft-irtf-nwcrg-tetrys
-  * IESG conflict review completed; ready for RFC Editor
+  * With RFC Editor
 * draft-irtf-nwcrg-bats
-  * Awaiting IESG conflict review
+  * With RFC Editor
 
 The goal of the final IRSG poll is to determine if the draft is ready for publication as an RFC.
 Every IRSG member SHOULD vote on whether the document is ready.
