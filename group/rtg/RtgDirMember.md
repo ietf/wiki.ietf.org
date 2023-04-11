@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2022-12-21T19:07:34.452Z
+date: 2023-04-11T21:49:26.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -12,14 +12,14 @@ dateCreated: 2022-12-21T19:07:30.904Z
 
 | Name                 |  Email                                  |  Affiliation               |  Renewal Date       |
 |----------------------|-----------------------------------------|----------------------------|---------------------|
-|  Acee Lindem         |  acee at cisco.com                      |  Cisco                     |  31 December 2022   |
+|  Acee Lindem         |  acee.ietf at gmail.com                      |  LabN Consulting       |  31 December 2022   |
 |  Adrian Farrel       |  adrian at olddog.co.uk                 |  Old Dog Consulting        |  31 December 2023   |
 |  Andrew Smith        |  andsmit at cisco.com                   |  Cisco                     |  31 December 2023   |
 |  Ben Niven-Jenkins   |  ben at niven-jenkins.co.uk             |  Velocix                   |  31 December 2023   |
 |  Bruno Decraene      |  bruno.decraene at orange.com           |  Orange                    |  31 December 2023   |
 |  Carlos Pignataro    |  cpignata at cisco.com                  |  Cisco                     |  31 December 2022   |
-|  Christian Hopps     |  chopps at chopps.org                   |  Deutsche Telecom          |  31 December 2024   |
-|  Daniele Ceccarelli  |  daniele.ceccarelli at ericsson.com     |  Ericsson                  |  31 December 2024   |
+|  Christian Hopps     |  chopps at chopps.org                   |  LabN Consulting          |  31 December 2024   |
+|  Daniele Ceccarelli  |  daniele.ietf at gmail.com     |  Cisco                  |  31 December 2024   |
 |  Dhruv Dhody         |  dhruv.ietf at gmail.com                |  Huawei                    |  31 December 2023   |
 |  Donald Eastlake     |  d3e3e3 at gmail.com                    |  FutureWei                 |  31 December 2024   |
 |  Emmanuel Baccelli   | Emmanuel.Baccelli at inria.fr           |  INRIA                     |  31 December 2024   |
@@ -48,7 +48,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Russ White          |  russ at riw.us or 7riw77 at gmail.com  |  LinkedIn                  |  31 December 2022   |
 |  Sasha Vainshtein    |  alexander.vainshtein at ecitele.com    |  ECI Telecommunications    |  31 December 2023   |
 |  Shuping Peng        |  pengshuping at huawei.com              |  Huawei                    |  31 December 2024   |
-|  Stewart Bryant      |  stewart.bryant at gmail.com            |  Huawei                    |  31 December 2024   |
+|  Stewart Bryant      |  stewart.bryant at gmail.com            |  Independent        |  31 December 2024   |
 |  Stig Venaas         |  stig at venaas.com                     |  Cisco                     |  31 December 2023   |
 |  Sue Hares           |  shares at ndzh.com                     |  Hickory Hill Consulting   |  31 December 2022   |
 |  Tal Mizrahi         |  talmi at marvell.com                   |  Marvell                   |  31 December 2023   |
