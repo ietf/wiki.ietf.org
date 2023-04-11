@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-04-11T16:04:24.120Z
+date: 2023-04-11T16:06:49.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -27,9 +27,8 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-bfd-05
    * 2021-03-29 Authors asked for WGLC
    * Waiting for the dependent MPLS WG draft to progress past WGLC
-* draft-ietf-spring-sr-replication-segment-10
-   * 2022-07-14 Authors asked for WGLC
-   * In WG Last Call
+   * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
+
 
 ## Documents requested by authors for WG adoption
 * draft-fz-spring-srv6-alt-mark
