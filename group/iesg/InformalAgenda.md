@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-04-03T11:23:29.602Z
+date: 2023-04-13T20:21:31.557Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 1234
 
 ## Regrets
 
-* 
+* John can only attend first hour on April 20 (if there's a meeting)
 
 ## Agenda
 
