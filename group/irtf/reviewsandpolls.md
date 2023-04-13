@@ -2,7 +2,7 @@
 title: IRSG Reviews and Polls
 description: 
 published: true
-date: 2023-04-10T17:34:03.549Z
+date: 2023-04-13T16:21:03.930Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-24T16:34:52.603Z
@@ -15,6 +15,8 @@ This page was reset on 2019-08-30, since the previous information was several ye
 
 Active polls:
 * draft-irtf-cfrg-rsa-blind-signatures-12
+* draft-irtf-cfrg-ristretto255-decaf448
+* draft-irtf-pearg-censorship
 
 Pending:
 * draft-irtf-hrpc-guidelines-13
@@ -85,8 +87,6 @@ Active reviews:
   * Chris Wood reviewed -06; revised draft needed
 * draft-irtf-t2trg-iot-edge
   * Allison Mankin will review
-* draft-irtf-pearg-censorship
-  * Jane Coffin will review
 * draft-irtf-icnrg-ccnx-timetlv
   * Carsten Bormann will review
 * draft-irtf-panrg-path-properties-07
@@ -142,7 +142,11 @@ Completed:
   * Reviewed by Stephen Farrell
 * draft-irtf-cfrg-rsa-blind-signatures
   * Reviewed by Melinda Shore
-  
+* draft-irtf-cfrg-ristretto255-decaf448-07
+  * Reviewed by Brian Trammell
+* draft-irtf-pearg-censorship
+  * Reviewed by Jane Coffin
+
 
 Upcoming review order (this list was seeded randomly):
 * Nick Sullivan, CFRG Chair (away until Jan 2023)
@@ -192,11 +196,9 @@ Upcoming review order (this list was seeded randomly):
   * Reviewed draft-irtf-pearg-numeric-ids-generation
 * Jérôme François, NMRG Chair
   * Reviewed draft-irtf-icnrg-ccninfo-09
-* Brian Trammell, PANRG Chair
-  * Reviewed draft-irtf-hrpc-guidelines
 * Jane Coffin, GAIA Chair
   * Reviewed draft-irtf-hrpc-guidelines
-  * Will review draft-irtf-pearg-censorship
+  * Reviewed draft-irtf-pearg-censorship
 * Dirk Kutscher, DINRG & ICNRG Chair
   * Reviewed draft-irtf-nwcrg-tetrys
 * Allison Mankin, At-Large Member
@@ -219,6 +221,9 @@ Upcoming review order (this list was seeded randomly):
   * Reviewed draft-irtf-nmrg-ibn-concepts-definitions-06
   * Reviewed draft-irtf-cfrg-hash-to-curve-14
   * Reviewed draft-irtf-cfrg-rsa-blind-signatures
+* Brian Trammell, PANRG Chair
+  * Reviewed draft-irtf-hrpc-guidelines
+  * Reviewed draft-irtf-cfrg-ristretto255-decaf448-07
 
 Reviewers are assigned by the IRTF Chair on a loose round-robin basis:
 If someone volunteers promptly to perform an IRSG review of a document, the review is assigned to that person and their name is moved to the bottom of the list.
