@@ -2,7 +2,7 @@
 title: Ensuring Appropriate Discussion
 description: 
 published: true
-date: 2022-11-29T19:38:36.397Z
+date: 2023-04-13T05:28:27.551Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T14:46:39.591Z
@@ -16,7 +16,7 @@ A number of persons and mechanisms can help the discussion stay focused, polite,
 
 The basic rule is that the persons responsible for a specific technical discussion (such as Document Shepherds or ADs) can most easily provide help when it comes to the actual technical discussion, and helping that discussion stay focused and relevant.
 
-The list has sergeants-at-arms following postings, and their role is primarily to ensure there is no spam, conference announcements, etc. on the list, but they also follow posts that might have inappropriate tone or otherwise unprofessional commentary. The sergeants-at-arms are expected to follow discussions on the list, but do drop them a note if you see something that doesn't seem to be handled.
+The list has moderators following postings, and their role is primarily to ensure there is no spam, conference announcements, etc. on the list, but they also follow posts that might have inappropriate tone or otherwise uncivil commentary. The moderators are expected to follow discussions on the list, but do drop them a note if you see something that doesn't seem to be handled.
 
 In cases where there is clear unprofessional behaviour such as harassment anywhere within IETF activites, the IETF Ombudsteam has a duty to act. If you feel a discussion falls in this category, please contact the Ombudsteam. Note that the Ombudsteam may not necessarily follow all IETF discussions, so please contact them if you see an issue.
 
@@ -24,15 +24,15 @@ Finally, if all else fails, the IETF Chair can help address an issue.
 
 ## Document Shepherds, Working Group Chairs, and Area Directors 
 
-Much of the discussion on the list is about last calls for various documents. Within these discussions, the relevant persons (such as Document Shepherds or ADs) managing the document have a role in managing the discussion as well. Timely responses and acknowledgment of issues raised is important. Occasionally it may be necessary to provide summaries of the discussion or note the current status of particular issues.
+The last call discussion for various documents is moved to last-call@ietf.org list. Within these discussions, the relevant persons (such as Document Shepherds or ADs) managing the document have a role in managing the discussion as well. Timely responses and acknowledgment of issues raised is important. Occasionally it may be necessary to provide summaries of the discussion or note the current status of particular issues.
 
-## Sergeants-at-Arms 
+## Moderators
 
-Some types of postings are inappropriate, such as unsolicited bulk e-mail. RFC 3005 indicates also the following as appropriate: discussion of subjects unrelated to IETF policy, meetings, activities, or technical concerns; unprofessional commentary, regardless of the general subject; announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF.
+Some types of postings are inappropriate, such as unsolicited bulk e-mail. RFC 9245 indicates also the following as appropriate: discussion of subjects unrelated to IETF policy, meetings, activities, or technical concerns; uncivil commentary, regardless of the general subject; announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF.
 
-The IETF Chair, the IETF Executive Director, or a sergeant-at-arms appointed by the Chair is empowered to restrict posting by a person, or of a thread, when the content is inappropriate and represents a pattern of abuse. 
+The Moderators appointed by the Chair is empowered to restrict posting by a person, or of a thread, when the content is inappropriate and represents a pattern of abuse. 
 
-More information about the sergeant-at-arms model and dealing with list discussion on ietf@ietf.org can be found from RFC 3005. The current sergeant-at-arms team members are Matt Miller and Dhruv Dhody (as well as the IETF chair and IETF executive director).
+More information about the Moderators model and dealing with list discussion on ietf@ietf.org can be found from RFC 9245. The current Moderators team members are Chris Box and Mohit Tahiliani.
 
 ## Ombudsteam 
 
