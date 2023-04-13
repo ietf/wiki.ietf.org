@@ -2,7 +2,7 @@
 title: MPLS Open DT Action Items
 description: DT Action Items
 published: true
-date: 2023-03-02T15:21:56.879Z
+date: 2023-04-13T13:42:05.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T15:02:00.617Z
@@ -10,6 +10,12 @@ dateCreated: 2023-01-05T15:02:00.617Z
 
 # Header
 # Open AIs
+
+1. 	Present Generic Delivery Functions again at Open DT/IETF116.
+    AI (Greg): as co-author, draft is applicable as MNA solution.
+    - some outstanding work required to the draft. May target presenting at IETF116.
+
+# Closed AIs
 
 1. AI (Kireeti): resurrect discussions on 1st nibble (post BoS):
 	- ID draft-kbbma-mpls-1stnibble exists. Decide how to move forward.
@@ -29,8 +35,8 @@ dateCreated: 2023-01-05T15:02:00.617Z
 	- Update (09/22): Tarek missed this AI past week and will be acting on it asap.
 	- Update (09/30): Tarek sent out an email to Kireeti/authors to check the status. No response as of yet.
 	- Update (10/13): is this something slowing MNA work progressing?
-		- No specific 1st nibble needed (short of 4 or 6) for MNA PSD proposals.
-		- May still be required for realizing the MNA solution.
+		* No specific 1st nibble needed (short of 4 or 6) for MNA PSD proposals.
+		* May still be required for realizing the MNA solution.
 	- Update (10/27): the opinion in the meeting is this document should not stall MNA work. Chairs have asked authors to report back on the progress of this for now.
 	- Update (11/17): plans to progress this further. Open questions:
 		- Authors (AI: Kireeti) still need to close on whether CP is enough
@@ -39,18 +45,11 @@ dateCreated: 2023-01-05T15:02:00.617Z
 	- Update (01/05): ID is about to expire. No update due to holidays.
   - Update (03/02): No update from co-authors. AI (Chairs): to reach out to authors by email on next steps to resolve open issues.
 		- [Matthew]: suggesting additional editor to volunteer to continue with this.
-
-2. AI (solution authors): present existence of existing MPLS usecases with proposed MNA solutions
-	- Update (01/05): To be added to next week agenda (Thursday 01/12).
-		- [Stewart]: some of this is already tracked in jags ID. We may ask authors to present.
-		- [Mathew]: suggest taking usecase and describe how it is encoded in the solution proposed. Propose this be written tracked in a separate ID.
-		- [Greg]: intersection with non-IP payload (BIER as an example). The usecases draft may document how the different features may be used together.
-	- Update (03/02): some updates were added in separate IDs (Entropy and others). The direction is to document how solution addresses each usecase in a separate ID. The plan is to close this AI by next time we meet.
+  - Update (03/09): Chairs reached out to potential additional editor. Greg M. confirmed that he can help as additional editor.
 
 1. Usecases ID [draft-ietf-mpls-mna-usecase](https://datatracker.ietf.org/doc/html/draft-ietf-mpls-mna-usecases)
 	- AI (Loa): find reviewer for Network Slicing usecase
 		* Jie Dong is assigned to complete this
-	- AI (Tarek): ask Jeffrey Zhang to present Generic Delivery Functions again at Open DT.
 	- AI (authors of usecase ID): comments
 		a. Add section 2.9 for existing MPLS applications
 		b. what are existing MPLS usecases? Should be generic to cover the case we miss anything in the document.
@@ -60,8 +59,15 @@ dateCreated: 2023-01-05T15:02:00.617Z
 		f. Update (12/15): reach out to BIER WG on interactions with MNA work being done.
 	- Update (01/05): comments are outstanding and will be addressed in next revision.
   - Update (03/02): update from co-authors: planning to address comments and update new revision before IETF116 cutoff date.
+  - Update (03/09): the collected comments will be addressed in the new revision to be uploaded.
 
-# Closed AIs
+1. AI (solution authors): present existence of existing MPLS usecases with proposed MNA solutions
+	- Update (01/05): To be added to next week agenda (Thursday 01/12).
+		- [Stewart]: some of this is already tracked in jags ID. We may ask authors to present.
+		- [Mathew]: suggest taking usecase and describe how it is encoded in the solution proposed. Propose this be written tracked in a separate ID.
+		- [Greg]: intersection with non-IP payload (BIER as an example). The usecases draft may document how the different features may be used together.
+	- Update (03/02): some updates were added in separate IDs (Entropy and others). The direction is to document how solution addresses each usecase in a separate ID. The plan is to close this AI by next time we meet.
+  
 1. Check implications of retiring APN on MNA requirements
    - AI (Tarek): reach out to authors of requirements ID.
    - Update (12/15): Loa suggests an email to WG to check if any concern removing APN.
