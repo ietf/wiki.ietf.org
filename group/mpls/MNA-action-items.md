@@ -2,7 +2,7 @@
 title: MPLS Open DT Action Items
 description: DT Action Items
 published: true
-date: 2023-04-13T13:42:05.624Z
+date: 2023-04-13T15:11:25.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T15:02:00.617Z
@@ -14,6 +14,7 @@ dateCreated: 2023-01-05T15:02:00.617Z
 1. 	Present Generic Delivery Functions again at Open DT/IETF116.
     AI (Greg): as co-author, draft is applicable as MNA solution.
     - some outstanding work required to the draft. May target presenting at IETF116.
+    - Update (04/13): Greg will try to reach out to Jeffrey and update.
 
 # Closed AIs
 
