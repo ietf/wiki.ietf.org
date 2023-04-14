@@ -2,7 +2,7 @@
 title: DetNet WG - Deterministic Networks
 description: 
 published: true
-date: 2023-04-14T13:00:49.534Z
+date: 2023-04-14T13:06:59.115Z
 tags: ietf rtg
 editor: markdown
 dateCreated: 2023-04-14T13:00:49.534Z
@@ -18,6 +18,7 @@ Click any of the links below to jump to the relevant working group or wiki page:
 [Mailing List Archive](http://www.ietf.org/mail-archive/web/detnet/current/maillist.html)
 [DetNet Status Page](http://tools.ietf.org/wg/detnet/) with document summary information and links to minutes
 [Liaison Statements](https://datatracker.ietf.org/liaison/)
+[Open working meetings on scaling and queuing](https://wiki.ietf.org/en/group/detnet/wmosq)
 
 Please contact the [DetNet chairs or secretary](mailto:detnet-chairs@ietf.org)  if you would like to see any WG related material added to this Wiki.
 
