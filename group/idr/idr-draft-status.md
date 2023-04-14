@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-04-14T12:54:09.580Z
+date: 2023-04-14T13:08:31.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -91,7 +91,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft                                    | Shepherd      |  implementation status    |  Next step                    |  WG LC date  |  Time in WG LC  |  WG LC ETA               |
 |------------------------------------------|---------------|---------------------------|-------------------------------|--------------|-----------------|--------------------------|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Susan Hares  |  4 implementation (info)  |  WG LC                        |  TBD         |  TBD            |  4/14 to 4/24/23 | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  |  4 implementation (info)  |  WG LC                        |  TBD         |  TBD            |  4/14 to 4/24/23 | 
 |  draft-ietf-idr-sr-policy-fit-03         |  Susan Hares  |  0 implementations        |  IPR + implementation report  |  TBD         |  TBD            |  TBD                   |
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  |  Awaiting -03 revision    |  WG LC                        |  TBD         |  TBD            |  TBD                     |
 | draft-ietf-idr-sdwan-edge-discovery-08 | TBD | implementation report | WG LC | TBD | TBD | TBD | 
