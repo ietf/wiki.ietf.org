@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-04-14T12:46:58.441Z
+date: 2023-04-14T12:51:31.487Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -84,7 +84,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft                             | Shepherd    |  implementation status  |  Next step           |  WG LC date   |  Time in WG LC  |  WG LC ETA     |
 |-----------------------------------|-------------|-------------------------|----------------------|---------------|-----------------|----------------|
-|  draft-ietf-idr-bgp-model-16            |  Jie Dong     |  TBD                      |  WG LC                        |   TBD        |  TBD            |  4/5/23 to 4/24/23 | 
+|  draft-ietf-idr-bgp-model-16            |  Jie Dong      |   TBD           | 2 implementations| 4/11 to 4/25/2023 | 2 weeks | 4/25/2023   |
 {.dense}
 
 ## WG LC Pending
