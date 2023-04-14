@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-03-30T23:13:13.735Z
+date: 2023-04-14T15:54:02.595Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -27,7 +27,7 @@ Some examples of outreach activities are listed in the table below
 *This is a non-exhaustive list, under development, and open for discussion.*
 |Outreach|Target Audience|Participation|Responsible Organisation|Example|
 |---|---|---|---|---|
-|Policy|Policy Makers, Regulators, Government folks, Civil Society|supporter|ISOC|[ISOC Policymaker Program](https://www.internetsociety.org/policy-programs/policymakers-program-to-ietf/)|
+|Policy|Policy Makers, Regulators, Government folks|supporter|ISOC|[ISOC Policymaker Program](https://www.internetsociety.org/policy-programs/policymakers-program-to-ietf/)|
 |Internet Governance|*depends*|supporter|ISOC|IETF presentation at APRIGF|
 |Operators|Network Operators Groups, RIR, NIR|full participation|-|IETF Roundup at APNIC/APRICOT|
 |WG Technology|*depends*|full participation|-|WG Chairs/members could evangelize the work done in the WG|
@@ -36,6 +36,7 @@ Some examples of outreach activities are listed in the table below
 |SDOs, Industry Consortiums|Members|coordination|IAB|-|
 |International Treaty Organizations|Members|coordination|IAB|-|
 |Open Source Community|Implementers|full participation|-|IETF Hackathon outreach by Charles|
+|Civil Society|NGO, Professional associations|supporter|-|-|
 
 
 ## Outreach activities, done in the past
