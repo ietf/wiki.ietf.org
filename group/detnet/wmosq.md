@@ -1,9 +1,9 @@
 ---
-title: DetNet Working Meetings on Scaling/Queuing (wmosq)
+title: DetNet Open Meetings Working Meetings on Enhanced DetNet Data Plane (wmosq)
 description: 
 published: true
-date: 2023-04-11T15:09:37.690Z
-tags: 
+date: 2023-04-14T13:09:08.389Z
+tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
 ---
