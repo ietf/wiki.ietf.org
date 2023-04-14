@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-03-04T03:24:35.607Z
+date: 2023-04-14T12:53:16.568Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -32,6 +32,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [cfrg *Crypto Forum*](/group/cfrg)
 - [coinrg *Computing in the Network*](/group/coinrg)
 - [core *Constrained RESTful Environments*](/group/core)
+- [detnet *Deterministic Networks*](/group/detnet)
 - [dhc *Dynamic Host Configuration*](/group/dhc)
 - [dime *Diameter Maintenance and Extensions*](/group/dime)
 - [dinrg *Decentralized Internet Infrastructure*](/group/dinrg)
@@ -46,6 +47,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [gaia *Global Access to the Internet for All*](/group/gaia)
 - [httpbis *HTTP*](/group/httpbis)
 - [i2nsf *Interface to Network Security Functions*](/group/i2nsf)
+- [iccrg *Internet Congestion Control*](/group/iccrg)
 - [icnrg *Information-Centric Networking*](/group/icnrg)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [ippm *IP Performance Measurement*](/group/ippm)
@@ -139,6 +141,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bess *BGP Enabled ServiceS*](/group/bess)
 - [bier *Bit Indexed Explicit Replication*](/group/bier)
 - [ccamp *Common Control and Measurement Plane*](/group/ccamp)
+- [detnet *Deterministic Networks*](/group/detnet)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [lisp *Locator/ID Separation Protocol*](/group/lisp)
 - [mpls *Multiprotol Label Switching*](/group/mpls)
