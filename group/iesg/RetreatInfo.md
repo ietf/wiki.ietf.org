@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-06T11:41:23.747Z
+date: 2023-04-15T03:20:38.441Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -42,6 +42,9 @@ Based on recent discussion there are two subtopics: a) the question about what's
 
 1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
 Discussion on various outreach activities and how the coordination function can be improved
+
+1. IESG+IAB: What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Added by Qin)
+The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
 
 1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (added by Mirja but will not drive it) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
