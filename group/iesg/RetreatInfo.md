@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:16:16.131Z
+date: 2023-04-17T11:32:36.193Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -39,36 +39,36 @@ Review the nomcom process and identify things to improve (briefly discussed by t
 1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (David) (1h)
 Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
 
-1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes)
+1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes) (30 mins)
 
-1. IAB+IESG: review of IAB-ISOC group (Owner?)
-
-1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
+1. IESG+IAB: Discussion on the outreach activities (Dhruv) (1h)
 Discussion on various outreach activities and how the coordination function can be improved
 This may include a discussion about organization of eodir (comment by Mirja)
 
-1. IESG+IAB: What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Added by Qin)
+1. IESG+IAB: What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Added by Qin) (30 mins)
 The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
 
-1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (added by Mirja but will not drive it) 
+1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars) (15-30 mins) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
-1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures? (Owner?)
+1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures? (Lars or Martin Duke?) (30 mins)
 
-1. IESG: Change voting requirements for Stds Track documents (Rob)
+1. IESG: Change voting requirements for Stds Track documents (Rob) (1h)
 Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
 
-1. IESG: Review year-by-year meeting stats (added by Mirja but Greg needs to provide numbers)
+1. IESG: Review year-by-year meeting stats (added by Mirja but Greg needs to provide numbers) (30 mins)
+-> Mirja to check with Greg 
 
-1. IESG: Areamandering: Rearranging the areas (Martin)
+1. IESG: Areamandering: Rearranging the areas (Martin) (1h)
 
-1. IESG: Letters of invitation for interim meetings (Martin)
+1. IESG: Letters of invitation for interim meetings (Martin) (30 mins)
 
-1. IESG: Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own)
+1. IESG: Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own) (30 mins)
 
-1. IAB: new programs, e.g. e-impact (e-impact might go to joint day...?)
+1. IAB: new programs (45 mins)
 
-1. IESG+IAB: How to deal with side meetings
+1. e-impact IAB program or BoF; report from side meeting (15 mins)
+
 
 1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob)
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a compnany to help push a draft or technology then should that be declared, even if they are a consultant?
