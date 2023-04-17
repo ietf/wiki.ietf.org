@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T12:35:34.916Z
+date: 2023-04-17T12:45:29.490Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -25,25 +25,8 @@ Seattle, WA, USA
 
 ### Covid Information 
 
-### Candidate Meeting Topics
-Suggested topics for the next face-to-face meeting here.
-
-The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Agenda 
-
 
 #### Monday, May 8, 2023 IESG Only
 
@@ -156,13 +139,12 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 **10:30-11:00 Coffee**
 
-* IAB: new programs (Mirja) (45 mins) (1h)
-
-
+* IAB: new programs (Mirja)  (1h)
 
 **12:00-13:30 Lunch**
 
 * Policy engagement venue? (Mirja) (45 mins)
+Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
 
 #### Friday, IAB only
 
@@ -180,5 +162,10 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 **15:00 Coffee & end **
 
+
+### Proposed Additional Meeting Topics
+Feel free to suggest additonal topics here.
+
+The IESG chair and IAB chair will review this list short before the retreat and try assign the topics to a slot if there is still space on the agenda.
 
 
