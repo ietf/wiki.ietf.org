@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:50:44.059Z
+date: 2023-04-17T11:59:09.211Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -72,6 +72,8 @@ Also do need approval for side meetings?
 1. Area shopping (Andrew) (30 mins)
 -> Lars to check
 
+12:00-13:30 Lunch
+
 #### Tuesday, May 9, 2023 IESG Only
 
 #### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
@@ -109,6 +111,9 @@ We may resolve this earlier over email, and this could possibly just be a side t
 
 1. IESG+IAB: List of (security) research topics (Chris) (30 mins)
 
+1. Tools & LLC update (Jay) (30 mins) 
+-> Lars to check with Jay
+
 
 # IAB only 
 
@@ -117,9 +122,11 @@ We may resolve this earlier over email, and this could possibly just be a side t
 
 1. IAB: Workshop in ID management (Cullen) (1h)
 
-1. IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja)
-
 1. IAB: Status of new website and wiki (Mirja/Cindy) (30 mins)
+
+1. Policy engagement venue? (Mirja) (45 mins)
+
+1. IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja)
 
 
 
