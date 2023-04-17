@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:11:10.617Z
+date: 2023-04-17T11:16:16.131Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -30,13 +30,13 @@ Suggested topics for the next face-to-face meeting here.
 
 The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
 
-1. Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric V)
+1. Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric V) (1h)
 Check with Eric about scope and prep -> Lars to send an email to Eric
 
-1. IESG+IAB: NomCom process for Joint Discussion (Mirja)
+1. IESG+IAB: NomCom process for Joint Discussion (Mirja) (15 mins)
 Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
-1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (Mirja)
+1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (David) (1h)
 Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
 
 1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes)
@@ -96,6 +96,12 @@ We may resolve this earlier over email, and this could possibly just be a side t
 #### Tuesday, May 9, 2023 IESG Only
 
 #### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
+
+
+
+
+NomCom process for Joint Discussion (Mirja) (15mins)
+Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
 
 
