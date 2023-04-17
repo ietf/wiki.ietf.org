@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T13:06:01.777Z
+date: 2023-04-17T13:07:34.649Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -24,6 +24,8 @@ TBD
 Seattle, WA, USA
 
 ### Covid Information 
+
+Free test and masks will be provided. Daily testing and masks are recommended.
 
 
 ### Agenda 
