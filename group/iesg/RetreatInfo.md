@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:59:09.211Z
+date: 2023-04-17T12:00:09.772Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -78,6 +78,8 @@ Also do need approval for side meetings?
 
 #### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
 
+1. e-impact IAB program or BoF; report from side meeting (15 mins)
+
 1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (David) (1h)
 Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
 
@@ -93,8 +95,6 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 1. NomCom process for Joint Discussion (Mirja) (15mins)
 Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
-
-1. e-impact IAB program or BoF; report from side meeting (15 mins)
 
 
 1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob) (30 mins)
