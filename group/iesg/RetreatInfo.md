@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:46:43.811Z
+date: 2023-04-17T11:50:44.059Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -68,6 +68,9 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 1. IESG: Side meeting discussion (1 mins)
 First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own) 
 Also do need approval for side meetings?
+
+1. Area shopping (Andrew) (30 mins)
+-> Lars to check
 
 #### Tuesday, May 9, 2023 IESG Only
 
