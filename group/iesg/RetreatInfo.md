@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:40:20.552Z
+date: 2023-04-17T11:46:43.811Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -30,23 +30,25 @@ Suggested topics for the next face-to-face meeting here.
 
 The IESG chair and IAB chair will review this list and assign the topics to a slot below (or remember them for future discussion, e.g. at the retreat).
 
+
+
+
+
+
+
+
+
+
+
+
+
+### Agenda 
+
+
+#### Monday, May 8, 2023 IESG Only
+
 1. Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric V) (1h)
 Check with Eric about scope and prep -> Lars to send an email to Eric
-
-1. IESG+IAB: NomCom process for Joint Discussion (Mirja) (15 mins)
-Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
-
-1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (David) (1h)
-Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
-
-1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes) (30 mins)
-
-1. IESG+IAB: Discussion on the outreach activities (Dhruv) (1h)
-Discussion on various outreach activities and how the coordination function can be improved
-This may include a discussion about organization of eodir (comment by Mirja)
-
-1. IESG+IAB: What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Added by Qin) (30 mins)
-The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
 
 1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars) (15-30 mins) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
@@ -67,7 +69,25 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own) 
 Also do need approval for side meetings?
 
-1. IAB: new programs (45 mins)
+#### Tuesday, May 9, 2023 IESG Only
+
+#### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
+
+1. IESG+IAB: Ballot process and IETF consensus for Joint Discussion (David) (1h)
+Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
+
+1. IESG+IAB: Discussion about publically announce author/design-team meetings vs interims  (Wes) (30 mins)
+
+1. IESG+IAB: Discussion on the outreach activities (Dhruv) (1h)
+Discussion on various outreach activities and how the coordination function can be improved
+This may include a discussion about organization of eodir (comment by Mirja)
+
+1. IESG+IAB: What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Added by Qin) (30 mins)
+The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
+
+
+1. NomCom process for Joint Discussion (Mirja) (15mins)
+Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
 1. e-impact IAB program or BoF; report from side meeting (15 mins)
 
@@ -79,33 +99,24 @@ Soemtimes I see participants change their position to strongly align with those 
 We may resolve this earlier over email, and this could possibly just be a side topic for Rob + Sec ADs.  But adding as a potential place holder.
 -> Lars to sent email to Rob and check if still needed
 
-1. IESG+IAB: List of (security) research topics (Chris)
 
-1. IAB: Workshop in ID management (Cullen)
+1. IESG+IAB: IGF session (Mirja) (30 mins)
+
+1. IESG+IAB: RIPE86 presentation slides review (Mirja) (30 mins)
+
+1. IESG+IAB: List of (security) research topics (Chris) (30 mins)
+
+
+# IAB only 
+
+1. IAB: new programs (45 mins) (1h)
+
+
+1. IAB: Workshop in ID management (Cullen) (1h)
 
 1. IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja)
 
-1. IAB: Status of new website and wiki (Mirja/Cindy)
-
-1. IESG+IAB: IGF session (Mirja)
-
-1. IESG+IAB: RIPE86 presentation slides review (Mirja)
-
-### Agenda 
-
-
-#### Monday, May 8, 2023 IESG Only
-
-#### Tuesday, May 9, 2023 IESG Only
-
-#### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
-
-
-
-
-NomCom process for Joint Discussion (Mirja) (15mins)
-Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
-
+1. IAB: Status of new website and wiki (Mirja/Cindy) (30 mins)
 
 
 
