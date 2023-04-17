@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T13:01:24.868Z
+date: 2023-04-17T13:03:43.926Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -94,31 +94,31 @@ Soemtimes I see participants change their position to strongly align with those 
 
 **10:30 - 11:00 Coffee**
 
-* Ballot process and IETF consensus for Joint Discussion (David) (1h)
+* Ballot process and IETF consensus for Joint Discussion (David, 60 min)
 Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
 
 **12:00 - 13:00 Lunch**
 
-* Discussion on the outreach activities (Dhruv) (1h)
+* Discussion on the outreach activities (Dhruv, 60 min)
 Discussion on various outreach activities and how the coordination function can be improved
 This may include a discussion about organization of eodir (comment by Mirja)
 
-* IGF session (Mirja/Lars) (30 mins)
+* IGF session (Mirja/Lars, 30 min)
 
-* RIPE86 presentation slides review (Mirja) (30 mins)
+* RIPE86 presentation slides review (Mirja, 30 min)
 
 **15:00 - 15:30 Coffee**
 
-*  Discussion about publically announce author/design-team meetings vs interims  (Wes) (30 mins)
+*  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
 
-* NomCom process for Joint Discussion (Mirja) (15-30 mins)
+* NomCom process for Joint Discussion (Mirja, 15-30 min)
 Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
 
-* What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin) (15-30 mins)
+* What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin, 15-30 min)
 The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
 
-* List of (security) research topics (Chris) (15-30 mins)
+* List of (security) research topics (Chris, 15-30 min)
 
 **17:30 group photo & end**
 
@@ -129,32 +129,32 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 **9.00 Start**
 
-* IAB: Workshop in ID management (Cullen) (1h)
+* IAB: Workshop in ID management (Cullen, 60 min)
 
 **10:30-11:00 Coffee**
 
-* IAB: new programs (Mirja)  (1h)
+* IAB: new programs (Mirja, 60 min)
 
 **12:00-13:30 Lunch**
 
-* Policy engagement venue? (Mirja) (45 mins)
+* Policy engagement venue? (Mirja, 45 min)
 Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
 
 #### Friday, IAB only
 
 **9:00 Start**
 
-* IAB: Status of new website and wiki (Mirja/Cindy) (30 mins)
+* IAB: Status of new website and wiki (Mirja/Cindy, 30 min)
 
 **10:30-11:00 Coffee**
 
-* IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja)
+* IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja, ? min)
 
 **12:00-13:00 Lunch**
 
 * Parking lot
 
-**15:00 Coffee & end **
+**15:00 Coffee & end**
 
 
 ### Proposed Additional Meeting Topics
