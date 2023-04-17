@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T09:39:19.224Z
+date: 2023-04-17T10:08:52.287Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -44,6 +44,7 @@ Based on recent discussion there are two subtopics: a) the question about what's
 
 1. IESG+IAB: Discussion on the outreach activities (Dhruv) 
 Discussion on various outreach activities and how the coordination function can be improved
+This may include a discussion about organization of eodir (comment by Mirja)
 
 1. IESG+IAB: What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Added by Qin)
 The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
@@ -75,6 +76,16 @@ Soemtimes I see participants change their position to strongly align with those 
 We may resolve this earlier over email, and this could possibly just be a side topic for Rob + Sec ADs.  But adding as a potential place holder.
 
 1. IESG+IAB: List of (security) research topics (Chris)
+
+1. IAB: Workshop in ID management (Cullen)
+
+1. IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja)
+
+1. IAB: Status of new website and wiki (Mirja/Cindy)
+
+1. IESG+IAB: IGF session (Mirja)
+
+1. IESG+IAB: RIPE86 presentation slides review (Mirja)
 
 ### Agenda 
 
