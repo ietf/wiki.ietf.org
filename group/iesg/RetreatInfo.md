@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T12:59:21.270Z
+date: 2023-04-17T13:01:24.868Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -47,14 +47,12 @@ Check with Eric about scope and prep -> Lars to send an email to Eric
 * Change voting requirements for Stds Track documents (Rob, 90 min)
 Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
 
-
 **15:00 - 15:30 Coffee break**
 
-
-* Area shopping (Andrew) (30 mins)
+* Area shopping (Andrew, 30 min)
 -> Lars to check
 
-* Letters of invitation for interim meetings (Martin) (30 mins)
+* Letters of invitation for interim meetings (Martin, 30 min)
 
 
 **17:00 end**
@@ -62,40 +60,36 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 
 #### Tuesday, May 9, 2023 IESG Only
 
-**9:00 Start **
+**9:00 Start**
 
-* Side meeting discussion (Rob) (1.5h)
+* Side meeting discussion (Rob, 90 min)
 First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? 
 Also do we need approval for side meetings?
 
-
-
 **10:30- 11:00 Coffee**
 
-* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin) (1 h)
-
-
+* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 60 min)
 
 **12:00-13:30 Lunch**
 
-* Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars) (15-30 mins) 
+* Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars, 15-30 min) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
-* Declaration of paricipant affiliation (e.g., for consultants) (Rob) (30 mins)
+* Declaration of paricipant affiliation (e.g., for consultants) (Rob, 30 min)
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
 
 **15:00 - 15:30 Coffee**
 
-* Parking Lot: ?
+* Parking lot
 
 #### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
 
 **9:00 Start**
 
-* e-impact IAB program or BoF; report from side meeting (Mirja/Jari) (45 mins)
+* e-impact IAB program or BoF; report from side meeting (Mirja/Jari, 45 min)
 -> Mirja to invite Jari
 
-* Tools & LLC update (Jay) (45 mins) 
+* Tools & LLC update (Jay, 45 min) 
 
 
 **10:30 - 11:00 Coffee**
