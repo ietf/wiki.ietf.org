@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T13:04:17.388Z
+date: 2023-04-17T13:06:01.777Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -135,10 +135,20 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 * IAB: new programs (Mirja, 60 min)
 
+* Policy engagement venue? (Mirja) (30 mins)
+Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
+
 **12:00-13:30 Lunch**
 
-* Policy engagement venue? (Mirja, 45 min)
-Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
+* Break-out sessions
+	* RIPE86 slides
+  * IAB vision document
+
+**15:00 - 15:30 Coffee**
+
+**17:00 end**
+
+* Report from break-out sessions
 
 #### Friday, IAB only
 
