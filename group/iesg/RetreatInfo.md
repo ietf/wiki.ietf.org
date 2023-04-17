@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T12:45:29.490Z
+date: 2023-04-17T12:46:22.655Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -126,7 +126,7 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 * List of (security) research topics (Chris) (15-30 mins)
 
-**17:30 end**
+**17:30 group photo & end**
 
 **19:00 (?) Joint dinner**
 
