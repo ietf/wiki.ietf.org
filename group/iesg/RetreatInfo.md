@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T12:00:49.120Z
+date: 2023-04-17T12:09:56.776Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -47,21 +47,30 @@ The IESG chair and IAB chair will review this list and assign the topics to a sl
 
 #### Monday, May 8, 2023 IESG Only
 
-1. Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric V) (1h)
+** 9:00 - 10:30 **
+
+* Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric V) (1h)
 Check with Eric about scope and prep -> Lars to send an email to Eric
 
-1. IESG: Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars) (15-30 mins) 
-See https://www.ietf.org/about/groups/iesg/statements/support-documents/
-
-1. IESG: IPR disclosures: do we have countermeasures against spurious/late disclosures? (Lars or Martin Duke?) (30 mins)
-
-1. IESG: Change voting requirements for Stds Track documents (Rob) (1h)
-Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
-
-1. IESG: Review year-by-year meeting stats (added by Mirja but Greg needs to provide numbers) (30 mins)
+* Review year-by-year meeting stats (added by Mirja but Greg needs to provide numbers) (30 mins)
 -> Mirja to check with Greg 
 
-1. IESG: Areamandering: Rearranging the areas (Martin) (1h)
+**10:30 - 10:45 Coffe Break**
+
+* Areamandering: Rearranging the areas (Martin) (1h)
+
+* Area shopping (Andrew) (30 mins)
+-> Lars to check
+
+**12:15 - 13:45 Lunch**
+
+* Change voting requirements for Stds Track documents (Rob) (1h)
+Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
+
+* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Lars or Martin Duke?) (30 mins)
+
+* Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars) (15-30 mins) 
+See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
 1. IESG: Letters of invitation for interim meetings (Martin) (30 mins)
 
@@ -69,12 +78,17 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own) 
 Also do need approval for side meetings?
 
-1. Area shopping (Andrew) (30 mins)
--> Lars to check
 
-12:00-13:30 Lunch
+
+
+
+**13:45 - 15:15 Coffee break**
+
+** 15:30 - 17:00 **
 
 #### Tuesday, May 9, 2023 IESG Only
+
+12:00-13:30 Lunch
 
 #### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
 
@@ -100,9 +114,6 @@ Review the nomcom process and identify things to improve (briefly discussed by t
 1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob) (30 mins)
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
 
-1. IESG: Finalize YANG security template text (added by Rob)
-We may resolve this earlier over email, and this could possibly just be a side topic for Rob + Sec ADs.  But adding as a potential place holder.
--> Lars to sent email to Rob and check if still needed
 
 
 1. IESG+IAB: IGF session (Mirja) (30 mins)
