@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T12:46:22.655Z
+date: 2023-04-17T12:59:21.270Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -17,7 +17,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Remote Participation 
 
-TBD:
+TBD
 
 ### Location 
 
@@ -30,21 +30,21 @@ Seattle, WA, USA
 
 #### Monday, May 8, 2023 IESG Only
 
-**9:00 Start **
+**9:00 Start**
 
-* Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric V) (1h)
+* Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric, 60 min)
 Check with Eric about scope and prep -> Lars to send an email to Eric
 
-* Review year-by-year meeting stats (added by Mirja but Greg needs to provide numbers) (30 mins)
--> Mirja to check with Greg 
+* Review year-by-year meeting stats (Mirja, 30 min)
+-> Mirja to check with Greg (added by Mirja but Greg needs to provide numbers) 
 
 **10:30 - 11:00 Coffe Break**
 
-* Areamandering: Rearranging the areas (Martin) (1h)
+* Areamandering: Rearranging the areas (Martin, 60 min)
 
 **12:00 - 13:30 Lunch**
 
-* Change voting requirements for Stds Track documents (Rob) (1.5h)
+* Change voting requirements for Stds Track documents (Rob, 90 min)
 Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
 
 
