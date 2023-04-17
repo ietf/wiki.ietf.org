@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T11:32:36.193Z
+date: 2023-04-17T11:40:20.552Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -63,18 +63,21 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 
 1. IESG: Letters of invitation for interim meetings (Martin) (30 mins)
 
-1. IESG: Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own) (30 mins)
+1. IESG: Side meeting discussion (1 mins)
+First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? (Added by Rob, but don't need to own) 
+Also do need approval for side meetings?
 
 1. IAB: new programs (45 mins)
 
 1. e-impact IAB program or BoF; report from side meeting (15 mins)
 
 
-1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob)
+1. IESG+IAB?: Declaration of paricipant affiliation (e.g., for consultants) (added by Rob) (30 mins)
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a compnany to help push a draft or technology then should that be declared, even if they are a consultant?
 
 1. IESG: Finalize YANG security template text (added by Rob)
 We may resolve this earlier over email, and this could possibly just be a side topic for Rob + Sec ADs.  But adding as a potential place holder.
+-> Lars to sent email to Rob and check if still needed
 
 1. IESG+IAB: List of (security) research topics (Chris)
 
