@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-17T15:05:02.563Z
+date: 2023-04-18T00:28:23.326Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -22,6 +22,10 @@ TBD
 ### Location 
 
 Seattle, WA, USA
+
+Monday-Thursday: F5 Tower, 801 5th Ave, Seattle, WA 98104 
+
+Friday: Hotel Theodore (Carlson Room), 1531 7th Ave, Seattle, WA 98101 
 
 ### Covid Information 
 
