@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-18T00:28:23.326Z
+date: 2023-04-18T10:02:49.614Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -47,11 +47,13 @@ Check with Eric about scope and prep -> Lars to send an email to Eric
 **10:30 - 11:00 Coffe Break**
 
 * Areamandering: Rearranging the areas (Martin, 60 min)
+Attempt to balance (and maybe reduce?) the AD workloads across different areas. Opportunity to redraw boundaries around cohesive areas of work, leading to easier AD recruitment.
 
 **12:00 - 13:30 Lunch**
 
 * Change voting requirements for Stds Track documents (Rob, 90 min)
 Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
+This may also lead to a reduction in AD workload, and increase the AD candidate pool.
 
 **15:00 - 15:30 Coffee break**
 
@@ -71,6 +73,7 @@ Both Stds track and Info docs require IETF consensus, but have differnet IESG ba
 * Side meeting discussion (Rob, 90 min)
 First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? 
 Also do we need approval for side meetings?
+Also, how to prevent WGs from using side meetings for WG business?
 
 **10:30- 11:00 Coffee**
 
