@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-18T17:19:52.778Z
+date: 2023-04-18T21:10:25.268Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -189,5 +189,34 @@ Based on the discussion in gendispatch, we should figure if there is further wor
 Feel free to suggest additonal topics here.
 
 The IESG chair and IAB chair will review this list short before the retreat and try assign the topics to a slot if there is still space on the agenda.
+
+
+### RSVP
+
+| Name        | Arrival    | Departure  | Dinner 2023-05-10? |
+| :---        |   :----:   |    :----:  | :----:  |
+| Cindy M     | 2023-05-07 | 2023-05-11 | Yes     |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+|             |            |            |         |
+
+
 
 
