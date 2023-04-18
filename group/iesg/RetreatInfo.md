@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-18T10:02:49.614Z
+date: 2023-04-18T10:03:14.898Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -78,6 +78,7 @@ Also, how to prevent WGs from using side meetings for WG business?
 **10:30- 11:00 Coffee**
 
 * IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 60 min)
+Can Brad join for this? -> Lars will check
 
 **12:00-13:30 Lunch**
 
