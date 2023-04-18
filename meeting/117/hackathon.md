@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-04-18T14:24:34.141Z
+date: 2023-04-18T14:29:28.913Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -15,7 +15,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * :bridge_at_night: **Where**: Hilton Union Square, San Francisco, CA, USA
 * :cityscape: **Room**: TBD
 {.grid-list}
-
+ 
 **Sponsored by**
 
 | Gold Running Code Sponsor | Silver Running Code Sponsor | Bronze Running Code Sponsor |
