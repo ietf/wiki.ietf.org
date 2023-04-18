@@ -2,13 +2,13 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-04-18T14:29:28.913Z
+date: 2023-04-18T14:35:22.538Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
 ---
 
-# IETF 117 Hackathon
+# IETF 117 Hackathon 
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * :spiral_calendar: **When**: Saturday - Sunday, 22-23 July 2023
