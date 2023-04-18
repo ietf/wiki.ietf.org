@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-18T10:03:14.898Z
+date: 2023-04-18T17:19:52.778Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -89,6 +89,12 @@ See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
 
 **15:00 - 15:30 Coffee**
+
+* The future of Technology Deep Dives (Warren, 20 min)
+Warren is currently driving the TDD series, but it doesn't have an official sponsor. Should this be an IESG program?
+
+* Operator Outreach (Warren, 10 min)
+Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work in your area?
 
 * Parking lot
 
