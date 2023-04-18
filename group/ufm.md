@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-04-18T19:41:34.692Z
+date: 2023-04-18T19:42:25.636Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -64,7 +64,7 @@ Old TLS versions:
 
 | Type    | Peer-reviewed | Reference | 
 |:--------|:--------------|:----------|
-| TODO | Y | [Cohn-Gordon et al. - 2018 - On Ends-to-Ends Encryption](https://eprint.iacr.org/2017/666.pdf) |
+| TODO | Yes | [Cohn-Gordon et al. - 2018 - On Ends-to-Ends Encryption](https://eprint.iacr.org/2017/666.pdf) |
 | TODO | ? | [Bhargavan et al. - 2018 - TreeKEM: Asynchronous Decentralized Key Management for Large Dynamic Groups](https://hal.inria.fr/hal-02425247/file/treekem%20%281%29.pdf) |
 | TODO | Yes | [Alwen et al. - 2019 - Security Analysis and Improvements for the IETF MLS Standard for Group Messaging](https://eprint.iacr.org/2019/1489) |
 | F* (symbolic) | ? | [Bhargavan et al. - 2019 - Formal Models and Verified Protocols for Group Messaging: Attacks and Proofs for IETF MLS](https://hal.laas.fr/INRIA/hal-02425229v1/file/mls-treekem.pdf) |
