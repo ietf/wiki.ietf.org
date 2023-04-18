@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-04-18T13:47:45.328Z
+date: 2023-04-18T14:24:34.141Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -67,13 +67,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 27 March, Time: 18:30 - 19:30, Room: TBD
+  * Monday, 24 July, Time: 18:30 - 19:30, Room: TBD
   * View the [schedule](hackdemo) or reserve space for your team/project
-    * Reservations for space must be made by 13:00, Monday 27 March
+    * Reservations for space must be made by 13:00, Monday 24 July
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 27-31 March, Room: TBD
+  * Monday - Friday, 24-28 July Room: TBD
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
@@ -93,7 +93,7 @@ If you received the email but the link to create an account has expired, please 
 
 * Code can be accessed from  [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Results of Hackathon projects should be uploaded to https://github.com/IETF-Hackathon/ietf116-project-presentations/. See the [README](https://github.com/IETF-Hackathon/ietf116-project-presentations/blob/main/README.md) for details.
+* Results of Hackathon projects should be uploaded to https://github.com/IETF-Hackathon/ietf116-project-presentations/. See the [README]LINK TBD for details.
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
