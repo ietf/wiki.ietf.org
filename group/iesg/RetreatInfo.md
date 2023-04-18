@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-18T21:17:31.725Z
+date: 2023-04-18T21:31:42.521Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -197,7 +197,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 | :---        |   :----:   |    :----:  | :----:  |
 | Cindy M     | 2023-05-07 | 2023-05-13 | Yes     |
 | Liz F       | 2023-05-07 | 2023-05-12 | Yes     |
-|             |            |            |         |
+| John S      | 2023-05-08 (flight arrives 10:21 a.m.) | 2023-05-11 | Yes |
 |             |            |            |         |
 |             |            |            |         |
 |             |            |            |         |
