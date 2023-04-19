@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T12:22:47.759Z
+date: 2023-04-19T12:25:12.013Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -95,9 +95,15 @@ See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
 
 **15:00 Departure for University of Washington Visit**
-To be confirmed, but the plan is that us and the UW folks would each present some lightning talks of "interesting things", and we'd have a bit of discussion on each. Topics from our side:
+To be confirmed, but the plan is that us (some of IESG and IAB) and the UW folks would each present some lightning talks of "interesting things", and we'd have a bit of discussion on each. Topics from our side:
 * Brief IETF intro (Lars)
-* ...
+* Jiankang
+* Éric
+* Zahed
+* Rob
+* Paul
+
+**Please just add your name above w/o a lightning talk topic if you plan on joining, so we know who is coming!**
 
 #### Wednesday, May 10, 2023 IESG and IAB Joint Meeting
 
