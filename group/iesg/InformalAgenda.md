@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-04-13T20:21:31.557Z
+date: 2023-04-19T00:59:49.264Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,7 +54,8 @@ Please use your best judgement to add new items into one of the categories below
 * 
 
 #### Not important and not urgent
-* 
+* PrivacyPass deliverable and Charter consideration (added by Paul)
+The charter talks about a deliverable "HTTP-layer API for the protocol" but the WG document has evolved to an "HTTP authentication scheme". If any AD feels this is out of charter, please speak up so we can start recharter before doc hits PubReq.
 
 
 ### WG News 
