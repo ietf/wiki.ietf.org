@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-04-19T14:50:51.423Z
+date: 2023-04-19T15:03:59.324Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,7 +46,7 @@ Note that this page is public.
 Please use your best judgement to add new items into one of the categories below.
 
 #### Urgent and important
-*
+* Finalizing feedback to ICANN board on CEO search (Lars)
 
 #### Urgent but not important
 *
