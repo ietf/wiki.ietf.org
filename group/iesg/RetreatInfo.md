@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T13:07:45.257Z
+date: 2023-04-19T13:52:09.517Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -103,6 +103,7 @@ To be confirmed, but the plan is that us (some of IESG and IAB) and the UW folks
 * Rob
 * Paul
 * Mirja (recap of the e-impact IAB workshop)
+* Dhruv
 
 **Please just add your name above w/o a lightning talk topic if you plan on joining, so we know who is coming!**
 
