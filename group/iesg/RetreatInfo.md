@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T12:57:35.745Z
+date: 2023-04-19T13:07:45.257Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -218,7 +218,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 |  Roman D    | 2023-05-07 | 2023-05-12 | Yes     | |
 |  Lars           | 2023-5-7           |   2023-5-12         |  Yes        | Kimpton Vintage |
 |    Mrja         | 2023-5-6  | 2023-5-13   | Yes        | Courtyard
-|             |            |            |         |
+| His Supreme Highness, Warren  | 2023-5-7 | 2023-5-11 | No        | Renaissance| 
 |             |            |            |         |
 |             |            |            |         |
 |             |            |            |         |
