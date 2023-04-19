@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-04-19T14:30:07.852Z
+date: 2023-04-19T14:50:51.423Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,7 +49,7 @@ Please use your best judgement to add new items into one of the categories below
 *
 
 #### Urgent but not important
-* What is the masking requirement for the retreat?  For the IESG only part and for the joint IESG/IAB part. (Added by Rob)
+*
 
 #### Important but not urgent
 * 
