@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T17:59:46.137Z
+date: 2023-04-19T18:43:50.320Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -200,6 +200,8 @@ Based on the discussion in gendispatch, we should figure if there is further wor
 Feel free to suggest additonal topics here.
 
 The IESG chair and IAB chair will review this list short before the retreat and try assign the topics to a slot if there is still space on the agenda.
+
+* David: Can we improve directorate reviews to make them less combative
 
 
 ### RSVP
