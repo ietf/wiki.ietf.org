@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T10:41:00.074Z
+date: 2023-04-19T10:50:38.873Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -200,7 +200,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 | John S      | 2023-05-08 (flight arrives 10:21 a.m.) | 2023-05-11 | Yes | Renaissance |
 | Martin D    |   N/A      |    N/A     |    ?    | |
 | Jiankang Yao | 2023-05-07 | 2023-05-13 | Yes     | citizenM Seattle Pioneer Square |
-|Colin Perkins  | 2023-05-09 | 2023-05-13 | Yes     | |
+|Colin Perkins  | 2023-05-09 | 2023-05-13 | Yes     | Crowne Plaza Seattle-Downtown |
 |David Schinazi | 2023-05-09 | 2023-05-13 | Yes  | |
 |Dhruv Dhody | 2023-05-08 (13:25)| 2023-05-13 | Yes | Crowne Plaza Seattle Downtown |
 |Rob W        | Sat 6th (13:55) | Thu 11th (16:25) | Yes | Crowne Plaza Seattle Downtown |
