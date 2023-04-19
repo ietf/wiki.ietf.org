@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T01:21:11.024Z
+date: 2023-04-19T03:05:11.342Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -202,7 +202,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 | Jiankang Yao | 2023-05-07 | 2023-05-13 | Yes     |
 |Colin Perkins  | 2023-05-09 | 2023-05-13 | Yes     |
 |David Schinazi | 2023-05-09 | 2023-05-13 | Yes  |
-|             |            |            |         |
+|Dhruv Dhody | 2023-05-08 (13:25)| 2023-05-13 | Yes |
 |             |            |            |         |
 |             |            |            |         |
 |             |            |            |         |
