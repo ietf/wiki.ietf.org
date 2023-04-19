@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T07:54:43.039Z
+date: 2023-04-19T08:00:58.802Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -204,7 +204,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 |David Schinazi | 2023-05-09 | 2023-05-13 | Yes  |
 |Dhruv Dhody | 2023-05-08 (13:25)| 2023-05-13 | Yes |
 |Rob W        | Sat 6th (13:55) | Thu 11th (16:25) | Yes |
-|             |            |            |         |
+|Éric Vyncke|2023-05-06 21:02|2023-05-11 07:00| Yes |
 |             |            |            |         |
 |             |            |            |         |
 |             |            |            |         |
