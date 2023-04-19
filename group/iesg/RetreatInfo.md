@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-19T16:16:26.987Z
+date: 2023-04-19T16:33:41.413Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -184,6 +184,8 @@ Based on the discussion in gendispatch, we should figure if there is further wor
 * IAB: Status of new website and wiki (Mirja/Cindy, 30 min)
 
 **10:30-11:00 Coffee**
+
+* Metaverse Standards Forum (Qin) (20 mins)
 
 * IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja, ? min)
 
