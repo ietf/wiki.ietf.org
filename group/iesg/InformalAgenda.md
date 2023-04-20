@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-04-20T10:21:20.482Z
+date: 2023-04-20T10:55:32.970Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,9 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 * Finalizing feedback to ICANN board on CEO search (Lars)
+
+* SWOT/PEST analysis during the retreat (Éric V)
+As one retreat agenda item is about a SWOT/PEST analysis, let's quickly introduce the concept (based on [previous work](https://docs.google.com/presentation/d/1qHsyX8hwx5--ZfkEDk7LDbva60xcuIDLqfBpRpYMFmM/edit?usp=sharing)  by Alvaro Retena, Martin Vigoureux, and Rob Wilton) and ***decide*** whether the focus should be on the IETF as a whole or just about the IESG.
 
 #### Urgent but not important
 *
