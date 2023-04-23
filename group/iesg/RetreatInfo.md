@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-20T20:38:10.616Z
+date: 2023-04-23T16:42:04.521Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -230,7 +230,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 | Paul Wouters|2023-05-06 20:37|2023-05-12 22:30| Yes | Crowne Plaza Seattle
 | Mallory Knodel|2023-05-10 14:17            |2023-05-13 12:52            |Yes         |Theodore
 | Wes Hardaker    | 2023-05-10 11:00 | 2023-05-12  19:35     | Yes        | Courtyard
-|             |            |            |         |
+| Cullen Jennings | 2923-05-09       | 2023-05-11            | yes        | Fairmont
 |             |            |            |         |
 
 
