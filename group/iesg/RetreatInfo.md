@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-24T09:34:08.351Z
+date: 2023-04-24T14:33:35.657Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -225,7 +225,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 |  Roman D    | 2023-05-07 | 2023-05-12 | Yes     | |
 |  Lars           | 2023-5-7           |   2023-5-12         |  Yes        | Kimpton Vintage |
 |    Mrja         | 2023-5-6  | 2023-5-13   | Yes        | Courtyard
-| His Supreme Highness, Warren  | 2023-5-7 | 2023-5-11 | No        | Renaissance| 
+| His Supreme Highness, Warren  | 2023-5-7 | 2023-5-11 | Yes        | Renaissance| 
 | Tommy Pauly | 2023-05-09 | 2023-05-12 | Maybe (if earlier) | W Hotel
 | Paul Wouters|2023-05-06 20:37|2023-05-12 22:30| Yes | Crowne Plaza Seattle
 | Mallory Knodel|2023-05-10 14:17            |2023-05-13 12:52            |Yes         |Theodore
