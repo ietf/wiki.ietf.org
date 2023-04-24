@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-23T16:44:27.665Z
+date: 2023-04-24T09:34:08.351Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -231,6 +231,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 | Mallory Knodel|2023-05-10 14:17            |2023-05-13 12:52            |Yes         |Theodore
 | Wes Hardaker    | 2023-05-10 11:00 | 2023-05-12  19:35     | Yes        | Courtyard
 | Cullen Jennings | 2023-05-09 12:00 | 2023-05-12  08:00     | yes        | Fairmont
+| Chris Wood | 2023-05-09 | 2023-05-13     | yes        | 
 |             |            |            |         |
 
 
