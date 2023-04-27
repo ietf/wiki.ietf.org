@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-27T14:12:33.466Z
+date: 2023-04-27T14:58:38.870Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -238,6 +238,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 | Karen O'Donoghue | 2023-05-09 | 2023-05-13 | yes  | Courtyard Downtown
 | Alvaro | 2032-05-09 | 2023-05-12 (AM) | Yes | Hilton Seattle
 | Suresh Krishnan | 2023-05-09 (15:50)| 2023-05-11 (22:30) | Yes | Crowne Plaza Seattle Downtown |
+| Erik Kline | 2023-05-08 | 2023-05-12 | Yes | Kasa The Oxford Apartments Seattle |
 
 
 
