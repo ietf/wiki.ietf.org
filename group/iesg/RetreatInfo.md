@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-27T14:09:24.941Z
+date: 2023-04-27T14:12:33.466Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -94,9 +94,6 @@ See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 * Declaration of paricipant affiliation (e.g., for consultants) (Rob, 30 min)
 Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
 
-**PARKING LOT**
-
-* 360 feedback for WG chairs (Lars)
 
 **15:00 Departure for University of Washington Visit**
 To be confirmed, but the plan is that us (some of IESG and IAB) and the UW folks would each present some lightning talks of "interesting things", and we'd have a bit of discussion on each. Topics from our side:
@@ -207,6 +204,8 @@ Feel free to suggest additonal topics here.
 The IESG chair and IAB chair will review this list short before the retreat and try assign the topics to a slot if there is still space on the agenda.
 
 * David: Can we improve directorate reviews to make them less combative
+
+* 360 feedback for WG chairs (Lars)
 
 
 ### RSVP
