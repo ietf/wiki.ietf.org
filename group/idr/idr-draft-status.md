@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-04-28T15:38:07.861Z
+date: 2023-04-28T15:45:46.595Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -132,7 +132,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-|  draft-zhang-idr-sr-policy-metric            |  Susan Hares  |  Adoption and IPR Call  |  TBD        |  TBD                 |  4/7 to 4/24    |             |
+|  draft-zhang-idr-sr-policy-metric-04 |  Susan Hares  |  Adoption and IPR Call  |  TBD        |  TBD                 |  4/7 to 4/24    |             |
 |  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD                 |  TBD             |             |
 | draft-peng-idr-segment-routing-te-policy-attr | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 
 | draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | 
