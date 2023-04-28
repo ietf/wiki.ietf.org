@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-04-28T16:15:40.583Z
+date: 2023-04-28T16:20:08.980Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -84,18 +84,11 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 
- - [draft-ietf-idr-best-external-implementations]  (/group/idr/implementations/draft-ietf-idr-best-external) 
+ - [draft-ietf-idr-best-external-implementations]  (/group/idr/implementations/draft-ietf-idr-best-external) - broken web
  
- - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
--    draft-ietf-idr-as4octet-extcomm-generic-subtype implementations
--    draft-ietf-idr-bgp-ipv6-rt-constrain implementations
--    draft-ietf-idr-bgp-nh-cost implementations
--    draft-ietf-idr-custom-decision implementations
+ - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) - broken web 
  - [draft-ietf-idr-dynamic-cap implementations](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
--    draft-ietf-idr-flowspec-redirect-ip implementations
--    draft-ietf-idr-legacy-rtc implementations
--    draft-ietf-idr-performance-routing implementations
  - [draft-ietf-idr-sla-exchange implementations](/group/idr/implementations/draft-ietf-idr-sla-exchange)
  - [draft-ietf-idr-te-lsp-distribution implementations](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
     
