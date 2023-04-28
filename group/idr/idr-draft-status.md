@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-04-28T16:37:42.643Z
+date: 2023-04-28T16:38:40.244Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -142,8 +142,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## Early Allocations Pending
 | draft                              | Shepherd  |  type              |                  Status |  Next step  |  WG Call  |   Early allocation made   |  Allocation Runs out   |
 |------------------------------------|-----------|--------------------|------------------------:|-------------|-----------|:-------------------------:|------------------------| 
-| draft-ietf-idr-car-01 | Jeff Haas |  RFC9029 | TBD | TBD | TBD | 
-| 
+| draft-ietf-idr-car-01 | Jeff Haas |  RFC9029 | TBD | TBD | TBD |  
 {.dense}
 
 ## Adoption Process Major work items
