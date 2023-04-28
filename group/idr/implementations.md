@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-04-28T16:22:26.457Z
+date: 2023-04-28T16:23:38.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -71,7 +71,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## Implementations being Flow Specification reclassified
 
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
-
  - [draft-ietf-idr-flowspec-path-redirect implementations]
 (/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
 
@@ -84,7 +83,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 
- - [draft-ietf-idr-best-external-implementations](/group/idr/implementations/draft-ietf-idr-best-external) - broken web
+ - [draft-ietf-idr-best-external-implementations]  (/group/idr/implementations/draft-ietf-idr-best-external) - broken web
  
  - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) - broken web 
  - [draft-ietf-idr-dynamic-cap implementations](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
