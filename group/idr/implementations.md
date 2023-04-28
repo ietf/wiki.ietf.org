@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-04-28T16:20:08.980Z
+date: 2023-04-28T16:21:15.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -90,7 +90,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-dynamic-cap implementations](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
  - [draft-ietf-idr-sla-exchange implementations](/group/idr/implementations/draft-ietf-idr-sla-exchange)
- - [draft-ietf-idr-te-lsp-distribution implementations](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
     
 &nbsp;
 &nbsp;
