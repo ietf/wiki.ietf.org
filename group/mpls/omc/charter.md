@@ -1,8 +1,8 @@
 ---
-title: Open MNA Calls chareter, posted 2023-04-28
+title: Open MNA Calls charter, posted 2023-04-28
 description: 
 published: true
-date: 2023-04-29T08:50:29.581Z
+date: 2023-04-29T08:52:37.498Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T08:48:49.361Z
