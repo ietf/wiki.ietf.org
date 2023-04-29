@@ -2,7 +2,7 @@
 title: OPen MNA Calls
 description: This page hosts information for for the Open MNA Calls, such as charter, agendas/notes, invites and recommendations.
 published: true
-date: 2023-04-29T08:43:13.974Z
+date: 2023-04-29T09:02:22.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T08:37:01.934Z
@@ -21,3 +21,7 @@ A wiki page for the MPLS Open DT can be found at [MPLS Open DT wiki](https://wik
 The charter was posted to the MPLS Working Group 2023-04-28 and can be found at
 
 [Open MNA Call charter](https://wiki.ietf.org/e/en/group/mpls/omc/charter)
+
+## Open MNA Call Agendas and Meeting Notes
+
+[2023-05-04 Open MNA Call](https://wiki.ietf.org/e/en/group/mpls/omc/2023-05-04-Open-MNA-Call)
