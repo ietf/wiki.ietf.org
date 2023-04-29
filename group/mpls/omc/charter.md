@@ -2,13 +2,13 @@
 title: Open MNA Calls chareter, posted 2023-04-28
 description: 
 published: true
-date: 2023-04-29T08:48:49.362Z
+date: 2023-04-29T08:50:29.581Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T08:48:49.361Z
 ---
 
-# Open MNA Calls Charter (version 1, posted 2023-04-28)
+# Open MNA Calls Charter ( 2023-04-28)
 
 
    - The goal of the Open MNA Calls are to provide early review and
