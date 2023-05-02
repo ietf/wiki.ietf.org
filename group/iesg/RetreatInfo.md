@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-02T12:39:14.185Z
+date: 2023-05-02T15:52:57.474Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -127,6 +127,18 @@ Based on recent discussion there are two subtopics: a) the question about what's
 
 **12:00 - 13:00 Lunch**
 
+* What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin, 15-30 min)
+The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
+
+*  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
+
+* NomCom process for Joint Discussion (Mirja, 15-30 min)
+Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
+
+* List of (security) research topics (Chris, 15-30 min)
+
+**15:00 - 15:30 Coffee**
+
 * Discussion on the outreach activities (Dhruv, 60 min) [Slide](https://docs.google.com/presentation/d/1YJ9NX-BRUDBJ1_Fnfsks7uSyf1OkOREyZAcGZ0nv1Ts/edit?usp=sharing)
 Discussion on various outreach activities and how the coordination function can be improved
 This may include a discussion about organization of eodir (comment by Mirja)
@@ -135,18 +147,6 @@ This may include a discussion about organization of eodir (comment by Mirja)
 
 * RIPE86 presentation slides review (Mirja, 30 min)
 
-**15:00 - 15:30 Coffee**
-
-*  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
-
-* NomCom process for Joint Discussion (Mirja, 15-30 min)
-Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
-
-
-* What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin, 15-30 min)
-The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
-
-* List of (security) research topics (Chris, 15-30 min)
 
 **17:30 group photo & end**
 
