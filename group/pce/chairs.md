@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-04-18T09:35:19.375Z
+date: 2023-05-02T10:42:54.472Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -10,23 +10,28 @@ dateCreated: 2023-03-07T11:17:56.126Z
 
 # PCE WG Chairs Tracker
 
+## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Native IP | draft-ietf-pce-pcep-extension-native-ip | - | - |
-| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John|
-|Post IETF116 analysis| - | Dhruv/Julien | [Link](https://notes.ietf.org/PCE-Agenda-IETF116) |
+| Close WG Adoption Call | draft-dhody-pce-pceps-tls13 | Julien | - |
+| Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv suggested that he can shepherd | Awaiting confirmation |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | - |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | - |
-| Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | - |
+| Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd | 
+
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|BFD WG opinion|draft-fizgeer-pce-pcep-bfd-parameters|Dhruv|Mail sent|
-|BIER WG opinion|draft-chen-pce-bier|Dhruv|Mail sent|
+| GitHub for PCE WG | - | - | - |
+| Possible recharter for PCE WG | - | - | - |
+| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John|
+| Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | - |
 
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 |Response to Yue Wang email| draft-wang-pce-vlan-based-traffic-forwarding | Julien | Response Sent on 2023-03-10; Discussion with John ongoing |
 |Who should shepherd (and notify SPRING WG) | draft-ietf-pce-segment-routing-ipv6 | Julien/Dhruv | Hari is the shepherd, he will post to the spring list | 
+|BIER WG opinion|draft-chen-pce-bier|Dhruv|Mail sent to BIER and added to the adoption queue|
+|BFD WG opinion|draft-fizgeer-pce-pcep-bfd-parameters|Dhruv|Mail sent and response from Reshad received|
