@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-02T15:52:57.474Z
+date: 2023-05-02T15:55:55.334Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -115,7 +115,7 @@ To be confirmed, but the plan is that us (some of IESG and IAB) and the UW folks
 **9:00 Start**
 
 * e-impact IAB program or BoF; report from side meeting (Mirja/Jari, 45 min)
--> Mirja to invite Jari
+-> Suresh to invite Jari and maybe others
 
 * Tools & LLC update (Jay, 45 min) 
 
@@ -132,7 +132,7 @@ The YANG Catalog provides a place where vendors and operators can share and find
 
 *  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
 
-* NomCom process for Joint Discussion (Mirja, 15-30 min)
+* NomCom process (Mirja, 15-30 min)
 Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
 * List of (security) research topics (Chris, 15-30 min)
@@ -169,7 +169,7 @@ Based on the discussion in gendispatch, we should figure if there is further wor
 **12:00-13:30 Lunch**
 
 * Break-out sessions
-	* RIPE86 slides
+	* RIPE86 session/slides
   * IAB vision document
   * IGF Session
   * work on program or workshop proposals
@@ -186,9 +186,9 @@ Based on the discussion in gendispatch, we should figure if there is further wor
 
 * IAB: Status of new website and wiki (Mirja/Cindy, 30 min)
 
-**10:30-11:00 Coffee**
-
 * Metaverse Standards Forum (Qin) (20 mins)
+
+**10:30-11:00 Coffee**
 
 * IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja, ? min)
 
