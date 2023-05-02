@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-02T12:35:45.369Z
+date: 2023-05-02T12:39:14.185Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -171,7 +171,7 @@ Based on the discussion in gendispatch, we should figure if there is further wor
 * Break-out sessions
 	* RIPE86 slides
   * IAB vision document
-  * IFG Session
+  * IGF Session
   * work on program or workshop proposals
 
 **15:00 - 15:30 Coffee**
