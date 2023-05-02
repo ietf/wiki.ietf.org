@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-04-27T19:47:06.631Z
+date: 2023-05-02T12:35:45.369Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -127,7 +127,7 @@ Based on recent discussion there are two subtopics: a) the question about what's
 
 **12:00 - 13:00 Lunch**
 
-* Discussion on the outreach activities (Dhruv, 60 min)
+* Discussion on the outreach activities (Dhruv, 60 min) [Slide](https://docs.google.com/presentation/d/1YJ9NX-BRUDBJ1_Fnfsks7uSyf1OkOREyZAcGZ0nv1Ts/edit?usp=sharing)
 Discussion on various outreach activities and how the coordination function can be improved
 This may include a discussion about organization of eodir (comment by Mirja)
 
