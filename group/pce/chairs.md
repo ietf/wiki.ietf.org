@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-05-02T10:51:58.642Z
+date: 2023-05-02T10:54:42.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -18,6 +18,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | - |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | - |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd | 
+| Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | - |
 
 
 ## Initiated and ongoing Tasks
