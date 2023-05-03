@@ -2,13 +2,13 @@
 title: OPS Area (Operations & Management)
 description: 
 published: true
-date: 2023-01-04T22:01:39.465Z
+date: 2023-05-03T05:05:33.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:25:37.192Z
 ---
 
-# IETF Operations & Management (OPS) Area Home Page
+- # IETF Operations & Management (OPS) Area Home Page
 
 
 ## Getting Started
