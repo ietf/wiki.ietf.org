@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:19:59.142Z
+date: 2023-05-04T09:20:21.063Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -136,7 +136,7 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 *  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
 
 * NomCom process (Mirja, 15-30 min)
-Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
+	* Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
 
 * List of (security) research topics (Chris, 15-30 min)
 
