@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:15:06.710Z
+date: 2023-05-04T09:16:21.809Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -85,9 +85,9 @@ Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work 
 **10:30- 11:00 Coffee**
 
 * Side meeting discussion (Rob, 90 min)
-First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? 
-Also do we need approval for side meetings?
-Also, how to prevent WGs from using side meetings for WG business?
+	* First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? 
+	* Also do we need approval for side meetings?
+	* Also, how to prevent WGs from using side meetings for WG business?
 
 **12:30-13:30 Lunch**
 
@@ -95,11 +95,11 @@ Also, how to prevent WGs from using side meetings for WG business?
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
 * Declaration of paricipant affiliation (e.g., for consultants) (Rob, 30 min)
-Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
+	* Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
 
 
 **15:00 Departure for University of Washington Visit**
-To be confirmed, but the plan is that us (some of IESG and IAB) and the UW folks would each present some lightning talks of "interesting things", and we'd have a bit of discussion on each. Topics from our side:
+The plan is that us (some of IESG and IAB) and the UW folks would each present some lightning talks of "interesting things", and we'd have a bit of discussion on each. Topics from our side:
 * Brief IETF intro (Lars)
 * Jiankang
 * Éric
@@ -118,7 +118,7 @@ To be confirmed, but the plan is that us (some of IESG and IAB) and the UW folks
 **9:00 Start**
 
 * e-impact IAB program or BoF; report from side meeting (Mirja/Jari, 45 min)
--> Suresh to invite Jari and maybe others
+-> Jari, Brian Trammell, and Carlos will join
 
 * Tools & LLC update (Jay, 45 min) 
 
