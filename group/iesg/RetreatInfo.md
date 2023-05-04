@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:18:15.777Z
+date: 2023-05-04T09:19:59.142Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -153,7 +153,7 @@ Review the nomcom process and identify things to improve (briefly discussed by t
 
 **17:30 group photo & end**
 
-**19:00 (?) Joint dinner**
+**19:00 Joint dinner**
 
 
 #### Thursday, IAB only 
