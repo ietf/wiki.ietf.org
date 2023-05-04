@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T15:04:31.458Z
+date: 2023-05-04T15:25:58.297Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -156,6 +156,7 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 **19:00 Joint dinner**
 
 
+
 #### Thursday, IAB only 
 
 **9.00 Start**
@@ -215,6 +216,7 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 
 * 360 feedback for WG chairs (Lars)
 
+* Response to Apple/Google I-D submission (Lars)
 
 ### RSVP
 
