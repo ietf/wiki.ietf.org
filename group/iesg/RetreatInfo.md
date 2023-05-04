@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:20:21.063Z
+date: 2023-05-04T09:32:39.457Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -76,10 +76,10 @@ Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work 
 
 **9:00 Start**
 
-* Review year-by-year meeting stats (Alexa/Greg, 30 min)
+* Review year-by-year meeting stats (Alexa/Greg, 45 min)
 
 
-* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 60 min)
+* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 45 min)
  -> Brad will join, confirmed by Jay
 
 **10:30- 11:00 Coffee**
