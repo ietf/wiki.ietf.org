@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T15:03:50.214Z
+date: 2023-05-04T15:04:31.458Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -92,7 +92,7 @@ Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work 
 **12:30-13:30 Lunch**
 
 * Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars, 15-30 min) 
-See https://www.ietf.org/about/groups/iesg/statements/support-documents/
+	* See https://www.ietf.org/about/groups/iesg/statements/support-documents/
 
 * Declaration of paricipant affiliation (e.g., for consultants) (Rob, 30 min)
 	* Soemtimes I see participants change their position to strongly align with those of a particular company, and yet they just indicating their affiliation as a consultant.  Does this end up skewing/manipulating the standards process?  If someone is be paid by a company to help push a draft or technology then should that be declared, even if they are a consultant?
