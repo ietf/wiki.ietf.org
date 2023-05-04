@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:16:21.809Z
+date: 2023-05-04T09:16:35.517Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -117,7 +117,7 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 
 **9:00 Start**
 
-* e-impact IAB program or BoF; report from side meeting (Mirja/Jari, 45 min)
+* e-impact IAB program or BoF; report from side meeting (Suresh, 45 min)
 -> Jari, Brian Trammell, and Carlos will join
 
 * Tools & LLC update (Jay, 45 min) 
