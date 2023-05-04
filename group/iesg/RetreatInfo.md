@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:16:35.517Z
+date: 2023-05-04T09:18:15.777Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -126,12 +126,12 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 **10:30 - 11:00 Coffee**
 
 * Ballot process and IETF consensus for Joint Discussion (David, 60 min)
-Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
+	* Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
 
 **12:00 - 13:00 Lunch**
 
 * What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin, 15-30 min)
-The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
+	* The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
 
 *  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
 
@@ -143,8 +143,8 @@ Review the nomcom process and identify things to improve (briefly discussed by t
 **15:00 - 15:30 Coffee**
 
 * Discussion on the outreach activities (Dhruv, 60 min) [Slide](https://docs.google.com/presentation/d/1YJ9NX-BRUDBJ1_Fnfsks7uSyf1OkOREyZAcGZ0nv1Ts/edit?usp=sharing)
-Discussion on various outreach activities and how the coordination function can be improved
-This may include a discussion about organization of eodir (comment by Mirja)
+	* Discussion on various outreach activities and how the coordination function can be improved
+	* This may include a discussion about organization of eodir (comment by Mirja)
 
 * IGF session (Mirja/Lars, 30 min)
 
@@ -160,16 +160,18 @@ This may include a discussion about organization of eodir (comment by Mirja)
 
 **9.00 Start**
 
-* IAB: Workshop in ID management (Cullen, 60 min)
+* Policy engagement venue? (Mirja) (45 mins)
+	* Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
+  * Mnot and maybe Alissa to join
+
+* IAB: Workshop in ID management (Cullen, 45 min)
 
 **10:30-11:00 Coffee**
 
 * IAB: new programs (Mirja, 60 min)
 
-* Policy engagement venue? (Mirja) (30 mins)
-Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
 
-**12:00-13:30 Lunch**
+**12:30-13:30 Lunch**
 
 * Break-out sessions
 	* RIPE86 session/slides
