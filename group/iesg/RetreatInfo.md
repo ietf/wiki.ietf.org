@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:32:39.457Z
+date: 2023-05-04T14:45:24.388Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -66,7 +66,7 @@ Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work 
 
 * Parking lot
 	* Area shopping (Andrew?, 30 min)
-
+  * Collecting more diversity statistics (Rob, 15 mins)
 
 
 **17:00 end**
