@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T09:11:54.309Z
+date: 2023-05-04T09:15:06.710Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -44,9 +44,6 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 
 **10:30 - 11:00 Coffe Break**
 
-* Area shopping (Andrew, 30 min)
--> Lars to check
-
 * Areamandering: Rearranging the areas (Martin, 60 min)
 Attempt to balance (and maybe reduce?) the AD workloads across different areas. Opportunity to redraw boundaries around cohesive areas of work, leading to easier AD recruitment.
 
@@ -67,6 +64,10 @@ Warren is currently driving the TDD series, but it doesn't have an official spon
 * Operator Outreach (Warren, 10 min)
 Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work in your area?
 
+* Parking lot
+	* Area shopping (Andrew?, 30 min)
+
+
 
 **17:00 end**
 
@@ -75,11 +76,11 @@ Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work 
 
 **9:00 Start**
 
-* Review year-by-year meeting stats (Mirja, 30 min)
--> Mirja to check with Greg (added by Mirja but Greg needs to provide numbers) 
+* Review year-by-year meeting stats (Alexa/Greg, 30 min)
+
 
 * IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 60 min)
-Can Brad join for this? (Yes, confirmed by Jay)
+ -> Brad will join, confirmed by Jay
 
 **10:30- 11:00 Coffee**
 
