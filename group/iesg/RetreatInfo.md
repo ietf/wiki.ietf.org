@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T15:01:26.480Z
+date: 2023-05-04T15:01:46.391Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -164,11 +164,11 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 	* Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
   * Mnot and maybe Alissa to join
 
-* IAB: Workshop in ID management (Cullen, 45 min)
+* Workshop in ID management (Cullen, 45 min)
 
 **10:30-11:00 Coffee**
 
-* IAB: new programs (Mirja, 60 min)
+* new programs (Mirja, 60 min)
 
 
 **12:30-13:30 Lunch**
