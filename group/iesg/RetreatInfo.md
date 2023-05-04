@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T14:45:24.388Z
+date: 2023-05-04T15:01:26.480Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -181,9 +181,11 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 
 **15:00 - 15:30 Coffee**
 
+* Report from break-out sessions
+
 **17:00 end**
 
-* Report from break-out sessions
+
 
 #### Friday, IAB only
 
