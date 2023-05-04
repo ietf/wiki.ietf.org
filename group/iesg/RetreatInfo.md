@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T22:17:15.561Z
+date: 2023-05-04T22:19:25.805Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -17,7 +17,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Remote Participation 
 
-TBD
+https://ietf.webex.com/meet/cmm | 642986798
 
 ### Location 
 
