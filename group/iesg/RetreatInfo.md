@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T15:25:58.297Z
+date: 2023-05-04T22:17:15.561Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -155,7 +155,10 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 
 **19:00 Joint dinner**
 
-
+The Capital Grille 
+1301 4th Ave 
+Seattle, WA 98101
+https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 #### Thursday, IAB only 
 
