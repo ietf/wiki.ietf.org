@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T15:01:46.391Z
+date: 2023-05-04T15:03:50.214Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -65,7 +65,7 @@ Warren is currently driving the TDD series, but it doesn't have an official spon
 Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work in your area?
 
 * Parking lot
-	* Area shopping (Andrew?, 30 min)
+	* Area shopping (Andrew, 30 min)
   * Collecting more diversity statistics (Rob, 15 mins)
 
 
