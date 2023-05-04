@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-03T17:38:49.052Z
+date: 2023-05-04T09:11:54.309Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -38,18 +38,19 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 
 **9:00 Start**
 
-* Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric, 60 min)
-Check with Eric about scope and prep -> Lars to send an email to Eric
+* Post-pandemic SWOT/PEST analysis and compare to the last one of 2019 (Éric, 90 min)
+-> potentially 30 minutes for break-outs...?
 
-* Review year-by-year meeting stats (Mirja, 30 min)
--> Mirja to check with Greg (added by Mirja but Greg needs to provide numbers) 
 
 **10:30 - 11:00 Coffe Break**
+
+* Area shopping (Andrew, 30 min)
+-> Lars to check
 
 * Areamandering: Rearranging the areas (Martin, 60 min)
 Attempt to balance (and maybe reduce?) the AD workloads across different areas. Opportunity to redraw boundaries around cohesive areas of work, leading to easier AD recruitment.
 
-**12:00 - 13:30 Lunch**
+**12:30 - 13:30 Lunch**
 
 * Change voting requirements for Stds Track documents (Rob, 90 min)
 Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
@@ -57,8 +58,6 @@ This may also lead to a reduction in AD workload, and increase the AD candidate 
 
 **15:00 - 15:30 Coffee break**
 
-* Area shopping (Andrew, 30 min)
--> Lars to check
 
 * Letters of invitation for interim meetings (Martin, 30 min)
 
@@ -76,17 +75,20 @@ Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work 
 
 **9:00 Start**
 
+* Review year-by-year meeting stats (Mirja, 30 min)
+-> Mirja to check with Greg (added by Mirja but Greg needs to provide numbers) 
+
+* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 60 min)
+Can Brad join for this? (Yes, confirmed by Jay)
+
+**10:30- 11:00 Coffee**
+
 * Side meeting discussion (Rob, 90 min)
 First, Discuss audio problems with remote-attendence to side-meetings, should/can we do more here (some sort of Meetecho support)? 
 Also do we need approval for side meetings?
 Also, how to prevent WGs from using side meetings for WG business?
 
-**10:30- 11:00 Coffee**
-
-* IPR disclosures: do we have countermeasures against spurious/late disclosures? (Martin, 60 min)
-Can Brad join for this? (Yes, confirmed by Jay)
-
-**12:00-13:30 Lunch**
+**12:30-13:30 Lunch**
 
 * Is an update to IESG statement on "Support Documents in IETF Working Groups" needed? (Lars, 15-30 min) 
 See https://www.ietf.org/about/groups/iesg/statements/support-documents/
