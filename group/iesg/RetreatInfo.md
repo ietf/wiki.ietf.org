@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-04T22:19:25.805Z
+date: 2023-05-05T09:29:55.012Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -45,13 +45,13 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 **10:30 - 11:00 Coffe Break**
 
 * Areamandering: Rearranging the areas (Martin, 60 min)
-Attempt to balance (and maybe reduce?) the AD workloads across different areas. Opportunity to redraw boundaries around cohesive areas of work, leading to easier AD recruitment.
+	* Attempt to balance (and maybe reduce?) the AD workloads across different areas. Opportunity to redraw boundaries around cohesive areas of work, leading to easier AD recruitment.
 
 **12:30 - 13:30 Lunch**
 
 * Change voting requirements for Stds Track documents (Rob, 90 min)
-Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
-This may also lead to a reduction in AD workload, and increase the AD candidate pool.
+	* Both Stds track and Info docs require IETF consensus, but have differnet IESG ballot requirements.  My question is whether we should consider relaxing the ballot rules for Stds Track docs to match the rules for Informational, or the reverse?
+	* This may also lead to a reduction in AD workload, and increase the AD candidate pool.
 
 **15:00 - 15:30 Coffee break**
 
@@ -59,10 +59,10 @@ This may also lead to a reduction in AD workload, and increase the AD candidate 
 * Letters of invitation for interim meetings (Martin, 30 min)
 
 * The future of Technology Deep Dives (Warren, 20 min)
-Warren is currently driving the TDD series, but it doesn't have an official sponsor. Should this be an IESG program?
+	* Warren is currently driving the TDD series, but it doesn't have an official sponsor. Should this be an IESG program?
 
 * Operator Outreach (Warren, 10 min)
-Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work in your area?
+	* Are all y'all willing to provide a 2 - 3 sentence summary of highlights of work in your area?
 
 * Parking lot
 	* Area shopping (Andrew, 30 min)
@@ -168,11 +168,13 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 	* Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
   * Mnot and maybe Alissa to join
 
-* Workshop in ID management (Cullen, 45 min)
+* Surevy results review (Mirja, 45 mins)
 
 **10:30-11:00 Coffee**
 
-* new programs (Mirja, 60 min)
+* Workshop in ID management (Cullen, 45 min)
+
+* New programs (Mirja, 45 min)
 
 
 **12:30-13:30 Lunch**
