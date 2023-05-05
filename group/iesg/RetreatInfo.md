@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-05T16:19:21.691Z
+date: 2023-05-05T17:33:14.875Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -23,9 +23,9 @@ https://ietf.webex.com/meet/cmm | 642986798
 
 Seattle, WA, USA
 
-Monday-Thursday: F5 Tower, 801 5th Ave, Seattle, WA 98104 
+Monday-Thursday: F5 Tower, 801 5th Ave, Seattle, WA 98104 (Cygnus Room - 48th Floor)
 
-Friday: Hotel Theodore (Carlson Room), 1531 7th Ave, Seattle, WA 98101 
+Friday: Hotel Theodore, 1531 7th Ave, Seattle, WA 98101 (Carlson Room)
 
 ### Covid Information 
 
