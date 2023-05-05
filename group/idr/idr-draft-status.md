@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-04-28T16:38:40.244Z
+date: 2023-05-05T15:56:35.237Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -107,6 +107,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-haas-idr-diffract                       |  Susan Hares   |  Adopted              |  uploaded WG draft               |  11/5/2022         |  10/12 to 10/26           |  TBD              |
 |  draft-wang-idr-vpn-prefix-orf                 |  Susan Hares   |  Missing IPR   |  WG draft                        |  9/26/2022         |  7/29 to 9/2/2022         |  1/16/2023        |
 |  draft-dong-idr-flowspec-network-slice-ts-01   |  Susan Hares   |  idr chairs review    |  adoption                        |  3/3/2023          |  1/27 to 2/10             |  TBD              |
+|  draft-spaghetti-idr-bgp-sendholdtimer  |  Susan Hares  |  Adoption call      | upload draft     |  2/28 to 3/28     |  4/28       |  4/28   |
 {.dense}
 
 ## In WG Adoption Process (Chairs reviews)
@@ -115,7 +116,6 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  |  Chairs review   |  TBD |  12/23 to 1/13    |  2/28           |  3/8    |
 |  draft-zhou-idr-bgp-srmpls-elp-03  |  Susan Hares | chairs review   |  TBD  | 1/27 to 3/8    |  3           |  3/8    |
 |  draft-dong-idr-sr-policy-nrp-01        |  Susan Hares  |  Adoption call      |  TBD        |  3/1 to 3/28      |  3/17           |  4/10   |
-|  draft-spaghetti-idr-bgp-sendholdtimer  |  Susan Hares  |  Adoption call      | upload draft     |  2/28 to 3/28     |  4/28       |  4/28   |
 {.dense}
 
 ## In WG Adoption Process (WG discussion)
