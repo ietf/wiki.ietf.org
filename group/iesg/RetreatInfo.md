@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-05T09:31:38.717Z
+date: 2023-05-05T09:32:44.764Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -130,7 +130,7 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 
 **12:00 - 13:00 Lunch**
 
-* What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin, 15-30 min)
+* What is the next step of YANG Catalog? Service Oriented YANG Pilot Project (Qin, 30 min)
 	* The YANG Catalog provides a place where vendors and operators can share and find the data models that make configuring and operating networks easier, is that all? What is the next step of YANG catalog? How to make good use of these models for automated service management, what is the Challenging and Issues of Implementing YANG? 
 
 *  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
