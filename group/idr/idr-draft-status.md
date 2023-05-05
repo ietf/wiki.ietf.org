@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-05T15:56:35.237Z
+date: 2023-05-05T16:09:32.566Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -122,8 +122,8 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-|  draft-chen-idr-mbinding-00                  |  Susan Hares  |  Adoption and IPR call  |  TBD        |  4/12-5/2                |  5/2    |   TBD       |
-|  draft-draft-chen-idr-tcp-user-timeout-01    |  Susan Hares  |  Adoption and IPR call  |  TBD        |   4/28 to 5/2    |  
+|  draft-chen-idr-mbinding-00                  |  Susan Hares  |  Adoption and IPR call  |  TBD        |  4/12-5/12                |  5/2    |   TBD       |
+|  draft-draft-chen-idr-tcp-user-timeout-01    |  Susan Hares  |  Adoption and IPR call  |  TBD        |   5/5-5/19    |  
 
 {.dense}
 
