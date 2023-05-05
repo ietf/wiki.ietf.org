@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-05T09:35:11.102Z
+date: 2023-05-05T09:37:07.389Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -207,7 +207,7 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 * IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja, ? min)
 
-**12:00-13:00 Lunch**
+**12:30-13:00 Lunch**
 
 * Parking lot
 
