@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-05T09:37:07.389Z
+date: 2023-05-05T15:00:49.416Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -201,11 +201,11 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 * Metaverse Standards Forum (Qin) (20 mins)
 
-* side meeting scheudling and transparency of IAB groups (Mirja)
+* IAb group meeting scheudling and transparency of IAB groups (Mirja, 30 mins)
 
 **10:30-11:00 Coffee**
 
-* IAB: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja, ? min)
+* Possible follow up from survey: Discussion/review of processes, e.g. wg charter review process, BoF sheperding, workshops orga, programs/groups, liaison positions, etc. (Mirja, ? min)
 
 **12:30-13:00 Lunch**
 
