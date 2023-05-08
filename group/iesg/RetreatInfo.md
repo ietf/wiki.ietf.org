@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T20:31:47.303Z
+date: 2023-05-08T20:58:06.979Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -136,7 +136,8 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 **10:30 - 11:00 Coffee**
 
 * Ballot process and IETF consensus for Joint Discussion (David, 60 min)
-	* Based on recent discussion there are two subtopics: a) the question about what's approriate to put in a ballot disussion, and b) a technical discussion on the topic that triggered this discussion
+  * How do handle potentially out-of-charter documents during IESG review
+  * Guidelines for personal opinions in IESG ballots
   
 *  Discussion about publically announce author/design-team meetings vs interims  (Wes, 30 min)
 
