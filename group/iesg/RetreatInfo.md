@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T16:31:37.968Z
+date: 2023-05-08T19:06:52.378Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -144,8 +144,8 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 
 * NomCom process (Mirja, 20 min)
 	* Review the nomcom process and identify things to improve (briefly discussed by the IAB in exceuative session on Feb 22, and the week before by IESG)
-
-* List of (security) research topics (Chris, 20 min)
+  
+* Can we improve directorate reviews to make them less combative (David, 20 min)
 
 **15:00 - 15:30 Coffee**
 
@@ -227,13 +227,14 @@ Feel free to suggest additonal topics here.
 
 The IESG chair and IAB chair will review this list short before the retreat and try assign the topics to a slot if there is still space on the agenda.
 
-* David: Can we improve directorate reviews to make them less combative
 
 * 360 feedback for WG chairs (Lars)
 
 * Response to Apple/Google I-D submission (Lars)
 
 * (re)charter discussion (Paul)
+
+* List of (security) research topics (Chris, 20 min) -> no progress yet; move to later
 
 ### RSVP
 
