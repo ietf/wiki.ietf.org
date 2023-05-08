@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T20:58:06.979Z
+date: 2023-05-08T22:35:29.975Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -76,6 +76,7 @@ Free test and masks will be provided. Daily testing and masks are recommended.
   * 360 feedback for WG chairs (Lars)
   * Response to Apple/Google I-D submission (Lars)
   * (re)charter discussion (Paul)
+  * tips and tricks for (new) ADs (added by Mirja)
 
 
 **17:00 end**
