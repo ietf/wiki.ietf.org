@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T19:06:52.378Z
+date: 2023-05-08T19:08:10.901Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -73,6 +73,9 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 	* Area shopping (Andrew, 30 min)
   * Collecting more diversity statistics (Rob, 15 mins)
   * Adding a third ART AD (Murray, 10 mins)
+  * 360 feedback for WG chairs (Lars)
+  * Response to Apple/Google I-D submission (Lars)
+  * (re)charter discussion (Paul)
 
 
 **17:00 end**
@@ -227,12 +230,6 @@ Feel free to suggest additonal topics here.
 
 The IESG chair and IAB chair will review this list short before the retreat and try assign the topics to a slot if there is still space on the agenda.
 
-
-* 360 feedback for WG chairs (Lars)
-
-* Response to Apple/Google I-D submission (Lars)
-
-* (re)charter discussion (Paul)
 
 * List of (security) research topics (Chris, 20 min) -> no progress yet; move to later
 
