@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T14:26:31.958Z
+date: 2023-05-08T15:58:38.482Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -17,7 +17,12 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Remote Participation 
 
-https://ietf.webex.com/meet/cmm | 642986798
+Join Zoom Meeting
+https://f5networks.zoom.us/j/2384405505
+Meeting ID: 238 440 5505
+One tap mobile
++12532158782,,2384405505# US (Tacoma)
++12532050468,,2384405505# US
 
 ### Location 
 
