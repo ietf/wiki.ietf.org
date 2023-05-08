@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T22:37:10.051Z
+date: 2023-05-08T22:46:26.208Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -77,7 +77,7 @@ Free test and masks will be provided. Daily testing and masks are recommended.
   * Response to Apple/Google I-D submission (Lars)
   * (re)charter discussion (Paul)
   * tips and tricks for (new) ADs (added by Mirja)
-  * Can we change our balloting requirements to not count people who are on leave as part of determining the required 2/3?
+  * Can we change our balloting requirements to not count people who are on leave as part of determining the required 2/3? (John)
 
 
 **17:00 end**
