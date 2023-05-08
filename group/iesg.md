@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-03-27T00:36:55.726Z
+date: 2023-05-08T23:03:41.277Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -37,6 +37,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
 | Éric V. and Warren K. |  Tools Team|
 | Warren K. and  Paul W. | EMODIR  |
 |Warren, Martin, Roman, John, Zahed	   |  Comms Review |
+|Warren	   |  TDD |
 {.dense}
 
 
