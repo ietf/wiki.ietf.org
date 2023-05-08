@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T16:09:05.745Z
+date: 2023-05-08T16:31:37.968Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -232,6 +232,8 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 * 360 feedback for WG chairs (Lars)
 
 * Response to Apple/Google I-D submission (Lars)
+
+* (re)charter discussion (Paul)
 
 ### RSVP
 
