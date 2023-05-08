@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T15:58:38.482Z
+date: 2023-05-08T16:09:05.745Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -72,6 +72,7 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 * Parking lot
 	* Area shopping (Andrew, 30 min)
   * Collecting more diversity statistics (Rob, 15 mins)
+  * Adding a third ART AD (Murray, 10 mins)
 
 
 **17:00 end**
