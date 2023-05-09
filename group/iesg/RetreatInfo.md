@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-08T22:46:26.208Z
+date: 2023-05-09T14:19:54.915Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -179,7 +179,7 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 * Policy engagement venue? (Mirja) (45 mins)
 	* Based on the discussion in gendispatch, we should figure if there is further work for the IAB.
-  * Mnot and maybe Alissa to join
+  * Mnot and Alissa to join
 
 * Surevy results review (Mirja, 45 mins)
 
@@ -187,7 +187,7 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 * Workshop in ID management (Cullen, 45 min)
 
-* New programs (Mirja, 45 min)
+* New programs (Tommy, 45 min)
 
 
 **12:30-13:30 Lunch**
