@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-09T14:19:54.915Z
+date: 2023-05-09T16:55:41.701Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -122,6 +122,7 @@ The plan is that us (some of IESG and IAB) and the UW folks would each present s
 * Qin
 * Martin (could talk about the Congestion Control working group, if people are interested)
 * Murray (things to see and do in French Polynesia)
+* John
 
 **Please just add your name above w/o a lightning talk topic if you plan on joining, so we know who is coming!**
 
