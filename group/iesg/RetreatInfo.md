@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-09T16:55:41.701Z
+date: 2023-05-10T14:00:24.854Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -28,7 +28,7 @@ One tap mobile
 
 Seattle, WA, USA
 
-Monday-Thursday: F5 Tower, 801 5th Ave, Seattle, WA 98104 (Cygnus Room - 48th Floor)
+Monday-Thursday: F5 Tower, 801 5th Ave, Seattle, WA 98104 (Hendrix Room - 47th Floor)
 
 Friday: Hotel Theodore, 1531 7th Ave, Seattle, WA 98101 (Carlson Room)
 
