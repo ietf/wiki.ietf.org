@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-10T14:00:24.854Z
+date: 2023-05-10T15:51:59.695Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -18,11 +18,14 @@ dateCreated: 2022-08-24T13:35:55.095Z
 ### Remote Participation 
 
 Join Zoom Meeting
-https://f5networks.zoom.us/j/2384405505
-Meeting ID: 238 440 5505
+https://f5networks.zoom.us/j/6354961395
+
+Meeting ID: 635 496 1395
 One tap mobile
-+12532158782,,2384405505# US (Tacoma)
-+12532050468,,2384405505# US
++12532158782,,6354961395# US (Tacoma)
++12532050468,,6354961395# US
+
+
 
 ### Location 
 
