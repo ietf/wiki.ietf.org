@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2023-05-11T21:38:37.262Z
+date: 2023-05-11T21:39:18.347Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -48,9 +48,9 @@ Newcomers' networking events provide opportunities around IETF meetings for newc
 
 ### Outreach Activities Coordination
 
-EMODIR seeks to coordinate outreach activities for the IETF undertaken by individuals and organizations. We consolidate materials, share experiences, and docuemnt best practices. We are developing metrics to help understand which activities are most effective.
+eodir seeks to coordinate outreach activities for the IETF undertaken by individuals and organizations. We consolidate materials, share experiences, and docuemnt best practices. We are developing metrics to help understand which activities are most effective.
 
-EMODIR outreach is directed towards potential IETF participants (network operators, enterprises, educational institutes, regions with less participation etc), but may also support outreach activities undertaken by others (such as the Internet Society) targeted to non-participants. 
+eodir outreach is directed towards potential IETF participants (network operators, enterprises, educational institutes, regions with less participation etc), but may also support outreach activities undertaken by others (such as the Internet Society) targeted to non-participants. 
 
 See more details at [outreach](https://wiki.ietf.org/en/group/eodir/outreach).
 
@@ -60,7 +60,7 @@ Participants are defined as anyone who is subscribed to or posting to an IETF wo
 
 ### Tutorials
 
-For current IETF participants eodir organizes tutorials about technology being developed in the IETF (e.g. QUIC), general work being done by an area in the IETF (e.g. the Transport (tsv) Area), ), relevant technology being developed outside the IETF (e.g. IEEE), and processes or tools used in the IETF (such as tools for authoring Internet-Drafts). If you have an idea or suggestion for a tutorial, the [eodir mailing list](https://www.ietf.org/mailman/listinfo/emo-dir/).
+For current IETF participants eodir organizes tutorials about technology being developed in the IETF (e.g. QUIC), general work being done by an area in the IETF (e.g. the Transport (tsv) Area), ), relevant technology being developed outside the IETF (e.g. IEEE), and processes or tools used in the IETF (such as tools for authoring Internet-Drafts). If you have an idea or suggestion for a tutorial, the [eodir mailing list](https://www.ietf.org/mailman/listinfo/eodir/).
 
 ## IETF leadership
 
@@ -68,11 +68,11 @@ IETF leadership includes working group chairs, area directors, IRSG members, and
 
 ### WG Chairs forum
 
-For current WG and RG chairs, eodir organizes gatherings around IETF meetings to discuss a wide variety of topics of relevance to IETF Chairs. The goal here is to raise and discuss issues that do not fit into the regular course of running a WG, but are nonetheless important to effectiveness as a WG chair. If you have an idea for a topic to be discussed during a WG Chairs forum, contact Karen O’Donoghue or Rich Salz via the [eodir mailing list](https://www.ietf.org/mailman/listinfo/emo-dir/).
+For current WG and RG chairs, eodir organizes gatherings around IETF meetings to discuss a wide variety of topics of relevance to IETF Chairs. The goal here is to raise and discuss issues that do not fit into the regular course of running a WG, but are nonetheless important to effectiveness as a WG chair. If you have an idea for a topic to be discussed during a WG Chairs forum, contact Karen O’Donoghue or Rich Salz via the [eodir mailing list](https://www.ietf.org/mailman/listinfo/eodir/).
 
 ### IETF processes and tools documentation
 
-Clear and concise guidance on tasks a working group chair needs to perform and the tools available to help them execute those tasks improves their effectiveness. This includes guidance on how to schedule interim meetings, on managing a working group mailing list, and checklists for preparing for sessions at IETF meetings. If you have suggestions about topics or tools to cover, [contact eodir](https://www.ietf.org/mailman/listinfo/emo-dir/).
+Clear and concise guidance on tasks a working group chair needs to perform and the tools available to help them execute those tasks improves their effectiveness. This includes guidance on how to schedule interim meetings, on managing a working group mailing list, and checklists for preparing for sessions at IETF meetings. If you have suggestions about topics or tools to cover, [contact eodir](https://www.ietf.org/mailman/listinfo/eodir/).
 
 ## eodir-related activities
 
