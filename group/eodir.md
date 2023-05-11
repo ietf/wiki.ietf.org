@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2023-05-11T21:37:48.001Z
+date: 2023-05-11T21:38:37.262Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -40,11 +40,11 @@ The IETF Newcomers’ Overview provides an introduction to getting started in th
 
 ### IETF Guides
 
-IETF Guides provide 1-1 matches between newcomers and experienced IETF participants, in particular during IETF meeting weeks. While the details of individual interactions are left to the 1-1 match, the IETF Guides program provides the framework for matching on the order of dozens of newcomers for each meeting week. This can be seen as a lightweight mentoring program for getting started in the IETF. If you would like to serve as a guide, or help coordinate the IETF Guides program, contact Wes Hardaker, Barbara Stark, and Paul Wouters via the [eodir mailing list](https://www.ietf.org/mailman/listinfo/emo-dir/).
+IETF Guides provide 1-1 matches between newcomers and experienced IETF participants, in particular during IETF meeting weeks. While the details of individual interactions are left to the 1-1 match, the IETF Guides program provides the framework for matching on the order of dozens of newcomers for each meeting week. This can be seen as a lightweight mentoring program for getting started in the IETF. If you would like to serve as a guide, or help coordinate the IETF Guides program, contact Wes Hardaker, Barbara Stark, and Paul Wouters via the [eodir mailing list](https://www.ietf.org/mailman/listinfo/eodir/).
 
 ### Newcomers’ networking events
 
-Newcomers' networking events provide opportunities around IETF meetings for newcomers to meet and interact with other newcomers and experienced IETF participants. There are several types of activities that fall into this category of activities, and we are constantly trying new activities. Examples of the types of events that may be organized include Newcomer Quick Connections, Newcomer Coffee Breaks, Newcomer Dinners, Newcomers Escape Rooms, and Newcomer Feedback Breakfasts. To provide ideas or to help organize these activities, please email the [eodir mailing list](https://www.ietf.org/mailman/listinfo/emo-dir/).
+Newcomers' networking events provide opportunities around IETF meetings for newcomers to meet and interact with other newcomers and experienced IETF participants. There are several types of activities that fall into this category of activities, and we are constantly trying new activities. Examples of the types of events that may be organized include Newcomer Quick Connections, Newcomer Coffee Breaks, Newcomer Dinners, Newcomers Escape Rooms, and Newcomer Feedback Breakfasts. To provide ideas or to help organize these activities, please email the [eodir mailing list](https://www.ietf.org/mailman/listinfo/eodir/).
 
 ### Outreach Activities Coordination
 
