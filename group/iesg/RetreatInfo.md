@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-11T18:34:08.551Z
+date: 2023-05-11T21:50:31.739Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -196,6 +196,10 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 **12:30-13:30 Lunch**
 
+* Metaverse Standards Forum (Qin) (30 mins)
+
+* IAB Document Review 
+
 * Break-out sessions
 	* RIPE86 session/slides
   * IAB vision document
@@ -215,8 +219,6 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 **9:00 Start**
 
 * Status of new IAB website and wiki (Cindy, 30 min)
-
-* Metaverse Standards Forum (Qin) (30 mins)
 
 * The life of the IAB chair (Mirja, 30 mins)
 
