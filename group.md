@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-04-14T12:53:16.568Z
+date: 2023-05-11T21:50:33.080Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -245,7 +245,7 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 # {.tabset}
 ## Alphabetical
 - [dnsdir *DNS Directorate*](/group/dnsdir)
-- [emodir *Education, Mentoring, and Outreach*](/group/emodir)
+- [eodir *Education and Outreach*](/group/eodir)
 - [iotdir *Internet of Things*](/group/iotdir)
 - [secdir *Security Directorate*](/group/secdir)
 {.links-list}
@@ -254,7 +254,7 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 ### ART
 
 ### GEN
-- [emodir *Education, Mentoring, and Outreach*](/group/emodir)
+- [eodir *Education and Outreach*](/group/eodir)
 {.links-list}
 
 ### INT
