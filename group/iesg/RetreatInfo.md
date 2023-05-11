@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-11T21:50:31.739Z
+date: 2023-05-11T21:52:06.217Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -203,8 +203,10 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 * Break-out sessions
 	* RIPE86 session/slides
   * IAB vision document
-  * IGF Session
-  * work on program or workshop proposals
+  * sender-pays
+  * limited domains
+  * identity management
+
 
 **15:00 - 15:30 Coffee**
 
