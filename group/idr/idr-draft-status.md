@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-05T16:09:32.566Z
+date: 2023-05-12T12:44:22.978Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -105,7 +105,6 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft                                          | Shepherd       |  status               |  Next step                       |  WG adoption date  |  Adoption call            |  Draft uploaded   |
 |------------------------------------------------|----------------|-----------------------|----------------------------------|--------------------|---------------------------|-------------------|
 |  draft-haas-idr-diffract                       |  Susan Hares   |  Adopted              |  uploaded WG draft               |  11/5/2022         |  10/12 to 10/26           |  TBD              |
-|  draft-wang-idr-vpn-prefix-orf                 |  Susan Hares   |  Missing IPR   |  WG draft                        |  9/26/2022         |  7/29 to 9/2/2022         |  1/16/2023        |
 |  draft-dong-idr-flowspec-network-slice-ts-01   |  Susan Hares   |  idr chairs review    |  adoption                        |  3/3/2023          |  1/27 to 2/10             |  TBD              |
 |  draft-spaghetti-idr-bgp-sendholdtimer  |  Susan Hares  |  Adoption call      | upload draft     |  2/28 to 3/28     |  4/28       |  4/28   |
 {.dense}
@@ -115,14 +114,14 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |-----------------------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  |  Chairs review   |  TBD |  12/23 to 1/13    |  2/28           |  3/8    |
 |  draft-zhou-idr-bgp-srmpls-elp-03  |  Susan Hares | chairs review   |  TBD  | 1/27 to 3/8    |  3           |  3/8    |
-|  draft-dong-idr-sr-policy-nrp-01        |  Susan Hares  |  Adoption call      |  TBD        |  3/1 to 3/28      |  3/17           |  4/10   |
+|  draft-dong-idr-sr-policy-nrp-01        |  Susan Hares  |  Adopted   |  uploaded        |  3/1 to 3/28      |  3/17           |  4/10   |
+|  draft-chen-idr-mbinding-00                  |  Susan Hares  | Check with Spring  |  Interest for adoption     |  4/12-5/12      |  5/12    |   5/18       |
 {.dense}
 
 ## In WG Adoption Process (WG discussion)
 
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-|  draft-chen-idr-mbinding-00                  |  Susan Hares  |  Adoption and IPR call  |  TBD        |  4/12-5/12                |  5/2    |   TBD       |
 |  draft-draft-chen-idr-tcp-user-timeout-01    |  Susan Hares  |  Adoption and IPR call  |  TBD        |   5/5-5/19    |  
 
 {.dense}
