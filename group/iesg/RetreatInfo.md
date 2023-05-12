@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-11T21:52:39.464Z
+date: 2023-05-12T01:19:42.070Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -13,17 +13,11 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Dates 
 
-* 2023-05-08 to 2023-05-10
+* 2023-05-08 to 2023-05-12
 
 ### Remote Participation 
 
-Join Zoom Meeting
-https://f5networks.zoom.us/j/6354961395
-
-Meeting ID: 635 496 1395
-One tap mobile
-+12532158782,,6354961395# US (Tacoma)
-+12532050468,,6354961395# US
+https://ietf.webex.com/meet/cmm
 
 
 
@@ -33,7 +27,7 @@ Seattle, WA, USA
 
 Monday-Thursday: F5 Tower, 801 5th Ave, Seattle, WA 98104 (Hendrix Room - 47th Floor)
 
-Friday: Hotel Theodore, 1531 7th Ave, Seattle, WA 98101 (Carlson Room)
+Friday: [Hotel Theodore - Carlson Room, 1531 7th Ave, Seattle, WA 98101](https://www.google.com/maps/place/Hotel+Theodore/@47.6124158,-122.3369388,17z/data=!3m1!4b1!4m9!3m8!1s0x54906ab4d91fbf0f:0xf54ae5df4f41f252!5m2!4m1!1i2!8m2!3d47.6124158!4d-122.3343585!16s%2Fg%2F1hc7xqy91) 
 
 ### Covid Information 
 
