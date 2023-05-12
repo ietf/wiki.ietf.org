@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2023-03-30T07:36:21.635Z
+date: 2023-05-12T12:27:04.628Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -68,7 +68,7 @@ A YANG Data Model for L1 Connectivity Service Model (L1CSM)
 
 - **draft-ietf-ccamp-layer1-types-15**
 *A YANG Data Model for Layer 1 Types*
-> Write-up provided by Dan King. Waiting for RTGDIR review to submit to IESG
+> Submitted to IETF for publication
 
 - draft-ietf-ccamp-mw-topo-yang-05
 A YANG Data Model for Microwave Topology
@@ -76,6 +76,7 @@ A YANG Data Model for Microwave Topology
 
 - draft-ietf-ccamp-network-inventory-yang-01
 A YANG Data Model for Network Hardware Inventory
+> Consider relationship with YAVIN WG
 
 - draft-ietf-ccamp-optical-impairment-topology-yang-12
 A YANG Data Model for Optical Impairment-aware Topology
@@ -89,7 +90,7 @@ A YANG Data Model for requesting Path Computation in an Optical Transport Networ
 
 - **draft-ietf-ccamp-otn-topo-yang-16**
 *A YANG Data Model for Optical Transport Network Topology*
-> Write up provided by Dan King. Waiting for RTGDIR review to submit to IESG
+> Submitted to IETF for publication
 
 - draft-ietf-ccamp-otn-tunnel-model-17
 OTN Tunnel YANG Model
