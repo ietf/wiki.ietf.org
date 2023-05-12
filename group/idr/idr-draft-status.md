@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-12T13:00:16.870Z
+date: 2023-05-12T13:01:19.885Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -14,10 +14,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | Name | Shepherd | RFC # | Status | Date | WG LC approval | IESG Review |
 |---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp-ext-com-registry-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ext-com-registry-05) | Susan Hares | [RFC9184](https://www.rfc-editor.org/rfc/rfc9184) | Published | 1-2022 |  | |
-| [draft-ietf-idr-bgp-open-policy-23](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-open-policy-23) | Susan Hares |  [RFC9234](https://www.rfc-editor.org/rfc/rfc9234) | Published | 5-2022 | | |
-| [draft-ietf-idr-bgp-ls-sbfd-extensions-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sbfd-extensions-05) |  Jeff Haas | [RFC9247](https://www.rfc-editor.org/rfc/rfc9247) | Published | 6-2022 | |  |
-| [draft-ietf-idr-bgp-ls-app-specific-attr-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-app-specific-attr-16) | Keyur Patel| [RFC9294](https://ww.rfc-editor.org/rfc/rfc9294) |  Published | 8-2022  | | |
+  | | |
 | [draft-ietf-idr-bgp-ls-flex-algo] | Jie Dong  |[RFC9351] | Published | 2-22-2023 | Nov-17-2020 | 827 days |
 | [draft-ietf-idr-bfd-subcode]  |  Keyur Patel | [RFC9384] | Published  | 3-24-2023 | Sep-10-2022      |  195 days |  
 {.dense}
@@ -25,7 +22,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   |
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|
-|  draft-ietf-idr-bfd-subcode     |  Keyur Patel  |  RFC-editor  |  Auth-48    |  Sep-10-2022          |  Oct-20-2022   |  Jan-12-2023         |   159 days            |  199 days           |
 |  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         |  39 days             |  861 days           |
 |  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  34 days               |  599 days         |
 {.dense}
