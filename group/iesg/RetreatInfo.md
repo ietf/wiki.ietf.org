@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-12T01:19:42.070Z
+date: 2023-05-12T13:23:20.216Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -220,6 +220,9 @@ https://www.thecapitalgrille.com/locations/wa/seattle/seattle/8030
 
 
 **10:30-11:00 Coffee**
+
+* New workshop topics
+	* IAB workshop to discuss Barriers to Internet Access and Services (BIAS)
 
 * IAB group meeting scheudling and transparency of IAB groups/liaison work (Mirja, 30 mins)
 
