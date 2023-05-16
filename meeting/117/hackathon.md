@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-05-04T17:17:31.100Z
+date: 2023-05-16T21:51:10.159Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -93,7 +93,7 @@ If you received the email but the link to create an account has expired, please 
 
 * Code can be accessed from  [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Results of Hackathon projects should be uploaded to [GitHub LINK TBD](). See the [README LINK TBD]() for details.
+* Results of Hackathon projects should be uploaded to [GitHub](https://github.com/IETF-Hackathon/ietf117-project-presentations). See the [README](https://github.com/IETF-Hackathon/ietf117-project-presentations/blob/main/README.md) for details.
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
@@ -132,9 +132,9 @@ If you received the email but the link to create an account has expired, please 
      
 ### Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-    * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub]LINK TBD
+    * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub](https://github.com/IETF-Hackathon/ietf117-project-presentations)
     * You must be a member of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation
-    * To be added as a member, see details in the [README]LINK TBD
+    * To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf117-project-presentations/blob/main/README.md)
     * DO NOT WAIT until just before Hackathon project presentations start or your request may be lost in the chaos
 
 ## Network
