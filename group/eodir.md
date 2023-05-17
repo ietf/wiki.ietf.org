@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2023-05-11T21:39:18.347Z
+date: 2023-05-17T15:10:05.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -21,7 +21,7 @@ Directorate activities are structured around audiences, with specific activities
 
 Success is measured through activity-specific assessments, as well as overall assessment of how well IETF participation is regarded. Audiences and activities, as well as opportunities to contribute, are described in more detail below. Further activities related to outreach and measuring the effectiveness of eodir activities, will be discussed as eodir activities progress.
 
-## emdir Co-coordinators and responsible Area Director
+## eodir Co-coordinators and responsible Area Director
 
 | Name        | Role
 | :---        |    :----:  
