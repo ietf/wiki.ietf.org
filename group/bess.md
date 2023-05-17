@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-03-29T01:56:50.587Z
+date: 2023-05-17T16:41:01.547Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -23,6 +23,7 @@ dateCreated: 2022-11-05T16:17:26.188Z
 | Document Name | Poll type | Chair in Charge | Start date | End date | Comment | 
 | --- | --- | --- | --- | --- | --- |
 | draft-ietf-bess-pbb-evpn-isid-cmacflush | WGLC | Matthew | | | Not enough feedback during WGLC, RTGDIR provided comments that need to be addressed |
+| draft-wang-bess-sbfd-discriminator| Adoption | Stephane | | May 31th | |
 {.dense}
 
 
@@ -120,7 +121,6 @@ Shepherd's name indicated within parenthesis.
 * draft-sr-bess-evpn-dpath-01
 * draft-sajassi-bess-evpn-ip-aliasing-04
 * draft-thubert-bess-secure-evpn-mac-signaling
-* draft-wang-bess-sbfd-discriminator
 * draft-duan-bess-mvpn-ipv6-infras
 * draft-burdet-bess-evpn-fast-reroute
 * draft-sajassi-bess-secure-evpn 
