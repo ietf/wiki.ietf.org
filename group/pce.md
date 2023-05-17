@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-05-02T10:52:24.132Z
+date: 2023-05-17T03:09:17.626Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -37,7 +37,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | - |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | - |
 | [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | Chairs have asked to break the document into informational and standards tracks | - |  
-| [draft-dhody-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Pending | IPR Poll (3/3). Related to a comment on PCEP YANG module - 100 % support during IETF 115 session | Julien |
 | draft-peng-pce-entropy-label-position | Pending | Expired, a new update is needed | - |
 | draft-chen-pce-sr-mpls-sid-verification | Penidng | Coordinate with SRv6 draft for IANA allication | - |
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Pending | Confimed with BIER WG | - |
@@ -46,6 +45,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| [draft-dhody-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Waiting for -00 | - | Was Julien |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
 | draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
 | draft-ietf-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
@@ -86,7 +86,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-enhanced-errors](https://datatracker.ietf.org/doc/draft-ietf-pce-enhanced-errors) | Y | Feedback requested on the mailing list by 2021-05-17 | -11 posted on 2022-03-07; Work out how to encourage other I-Ds to use this; is there still interest? | Dhruv | 
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Y | -18 posted on 2022-03-21 | Requested feedback from IDR | - | - |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Y | In WG-LC | IPR | Dhruv | Dhruv |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -07 version posted on 2022-03-07 | Gather implementation experience | - | - |
 
 ## Post WG LC Queue  
