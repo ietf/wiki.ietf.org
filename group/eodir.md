@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2023-05-17T15:26:39.630Z
+date: 2023-05-17T15:46:10.458Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -11,7 +11,7 @@ dateCreated: 2022-03-03T23:58:08.742Z
 # Education and Outreach Directorate
 The IETF Education and Outreach Directorate ([eodir](https://datatracker.ietf.org/group/eodir)) strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 
-The eodir is made up of invited individuals actively working on projects related to the mission of the eodir. In support of its activities, eodir will hold recurring meetings that will be open to observers in addition to eodir members. The eodir mailing list itself is open to any IETF participant. To join the mailing list submit a subscription request.
+The eodir is made up of individuals actively working on projects related to the mission of the eodir. In support of its activities, eodir holds recurring open meetings. The eodir mailing list itself is open to any IETF participant. To join the mailing list submit a [subscription request](https://www.ietf.org/mailman/listinfo/eodir).
 
 Directorate activities are structured around audiences, with specific activities tailored to per-audience requirements and desired outcomes. Current audiences are defined as:
 
