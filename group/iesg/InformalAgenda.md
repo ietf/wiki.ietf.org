@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-05-15T13:43:56.805Z
+date: 2023-05-17T17:16:41.376Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -29,7 +29,7 @@ Meeting password: 1234
 ## Regrets
 
 * Éric Vyncke (Ascension day is off in Belgium)
-* 
+* Erik Kline (partial; first hour conflicts with work meeting)
 * 
 
 ## Agenda
