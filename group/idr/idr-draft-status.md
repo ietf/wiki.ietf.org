@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-17T18:48:46.531Z
+date: 2023-05-17T19:19:08.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -22,8 +22,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   |
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|
-|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         |  39 days             |  861 days           |
-|  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  34 days               |  599 days         |
+|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         |  89 days             |  861 days           |
+|  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  78 days               |  599 days         |
 {.dense}
 
 
@@ -35,14 +35,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At IESG needs New Draft
 
 |  draft                          | Shepherd      |   status                |  Next step  |  WG LC OK     |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC     |
-|---------------------------------|---------------|-------------------------|-------------
+|---------------------------------|---------------|-------------------------|-------------|
 {.dense}
  
 ## At IESG
 
 |  draft                         | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC     |
 |--------------------------------|-------------|---------------------|-------------|------------|----------------|---------------:|-------|-----------------------|
-
 {.dense}
  
 ## Needs revision During AD Review
