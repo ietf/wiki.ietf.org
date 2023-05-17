@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-17T19:19:08.143Z
+date: 2023-05-17T19:30:46.392Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -55,10 +55,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State  |  Time WG LC   |
 |--------------------------------------------|---------------|------------------------------|-----------------|-------------------|----------------|--------|-----------------|---------------|
-|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD evaluation (revised ID)  |  IETF Review    |  Nov-11-2021      |  Feb-11-2022   |  TBD | 19 days |  475 days     |
-|  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD Evaluation (revised ID)  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD   |  19 days     |  382 days | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  AD queue                    |  AD review      |  Aug-06-2021      |  Jul-07-2022   |  TBD | 589 days    |  572 days   |
-|  draft-ietf-idr-long-lived-gr              |  Jeff Haas    |  Submitted to IESG           |  AD evaluation  |  11/1/2022        |  Dec-30-2022   |  TBD   |  147 days   |  147 days   |
+|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD evaluation (revised ID)  |  IETF Review    |  Nov-11-2021      |  Feb-11-2022   |  TBD | 92 days |  552 days     |
+|  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD Evaluation (revised ID)  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD   |  69 days     |  432 days | 
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  AD queue                    |  AD review      |  Aug-06-2021      |  Jul-04-2022   |  TBD | 316 days    |  649 days   |
+|  draft-ietf-idr-long-lived-gr              |  Jeff Haas    |  Submitted to IESG           |  AD evaluation  |  11/1/2022        |  Dec-30-2022   |  TBD   |  138 days   |  197 days   |
 {.dense}
 
 
