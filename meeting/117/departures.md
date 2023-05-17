@@ -2,7 +2,7 @@
 title: IETF 117 Departure Coordination
 description: 
 published: true
-date: 2023-05-12T15:01:33.414Z
+date: 2023-05-12T15:01:39.559Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-05-12T15:01:33.414Z

@@ -2,7 +2,7 @@
 title: Commentary on Different RFCs
 description: 
 published: true
-date: 2023-02-14T23:19:47.629Z
+date: 2023-03-17T16:14:04.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T23:47:00.184Z
@@ -12,8 +12,9 @@ This page is intended to be a place to collect wisdom and advice regarding the i
 
 Readers should keep in mind that this is a wiki, and that the comments published here may not reflect working group consensus or indeed anything other than one individual's opinion at the moment they were written.
 
-- [RFC 4271, BGP-4](/RFC4271)
-- [RFC 5492, Capabilities Advertisement with BGP-4](/RFC5492)
+- [RFC 4271, BGP-4](/group/idr/rfc4271)
+- [RFC 5492, Capabilities Advertisement with BGP-4](/group/idr/rfc5492) 
+
 &nbsp;
 &nbsp;
 &nbsp;

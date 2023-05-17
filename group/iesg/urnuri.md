@@ -2,7 +2,7 @@
 title: URN and URI review practices
 description: 
 published: true
-date: 2023-02-20T18:55:56.984Z
+date: 2023-02-20T18:56:00.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T18:55:56.984Z

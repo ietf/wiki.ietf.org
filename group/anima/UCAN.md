@@ -2,7 +2,7 @@
 title: UCAN- Autonomic Networking Integrated Model and Approach Wiki
 description: 
 published: true
-date: 2023-02-18T01:48:18.539Z
+date: 2023-02-18T01:48:23.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:20:19.140Z

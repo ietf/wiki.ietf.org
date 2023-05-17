@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-06T06:59:07.461Z
+date: 2023-03-09T07:50:36.446Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -63,7 +63,9 @@ expected interactions include:
 ## Current Proposals
 
 ### 1.WG drafts in IESG
-[BIER OSPFv3 extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-ospfv3-extensions/) -- BIER OSPFv3 extensions. State: AD Evaluation::AD Followup
+1. [BIER OSPFv3 extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-ospfv3-extensions/) -- State: AD Evaluation::AD Followup
+1. [BIER PIM](https://datatracker.ietf.org/doc/draft-ietf-bier-pim-signaling/) -- State: Waiting for Referenced Document, Revised I-D Needed - Issue raised by AD. 
+The latest AD review: https://mailarchive.ietf.org/arch/msg/bier/P1eMkoEWk8981SNeu5J3FeGpwUw/
 
 ### 2.WG drafts in WGLC
 1. [BIER BGP-LS extensions](https://datatracker.ietf.org/doc/draft-ietf-bier-bgp-ls-bier-ext/) -- ***Needs WG state change.*** 

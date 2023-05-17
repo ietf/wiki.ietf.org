@@ -2,7 +2,7 @@
 title: Add Path Section 5.10. Path Identifier Persistency
 description: 
 published: true
-date: 2023-02-21T06:01:34.206Z
+date: 2023-03-14T01:05:28.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-21T06:01:34.206Z
@@ -15,13 +15,11 @@ dateCreated: 2023-02-21T06:01:34.206Z
    
    RFC2119: N/A
 
-Implementation Yes or No or Other Comment 
-
-|           |         |                                                                                                                                                           |
-|-----------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cumulus   |  No     |                                                                                                                                                           |
-|  Cisco    |   No    |  XE-BGP-ADD-Paths need to have HA enhancements                                                                                                            |
-|  Exa      |  Other  |  User controlled                                                                                                                                          |
+|  Implementation |   Yes or No or Other    |      Comment    |
+|-----------|---------|--------------------------------------------------|
+| Cumulus   |  No     |                                                  |                               
+|  Cisco    |   No    |  XE-BGP-ADD-Paths need to have HA enhancements   |
+|  Exa      |  Other  |  User controlled       				|
 |  Juniper  |  Other  |  In the case of the  BGP graceful restart feature, path IDs are not persistent. In the case  of the JUNOS Non-stop Routing feature, they persist.         |
 |       ALU |  No     |   With high availability (HA) the path IDs are persistent if there is  still one remaining control card after reset/failure of the other  control card.   |
 {.dense}

@@ -2,7 +2,7 @@
 title: Late Additions to the IESG Agenda
 description: 
 published: true
-date: 2023-02-20T18:36:27.734Z
+date: 2023-02-20T18:36:39.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T18:36:27.734Z

@@ -2,7 +2,7 @@
 title: SLIM WG (Concluded) - Selection of Language for Internet Media Wiki
 description: 
 published: true
-date: 2023-02-27T07:36:07.650Z
+date: 2023-02-27T07:36:12.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:44:15.511Z

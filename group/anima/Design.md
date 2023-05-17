@@ -2,7 +2,7 @@
 title: Design Teams
 description: 
 published: true
-date: 2023-02-18T01:43:39.955Z
+date: 2023-02-18T01:43:43.394Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:31:35.002Z

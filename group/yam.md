@@ -2,7 +2,7 @@
 title: YAM WG (Concluded) - Yet Another Mail Wiki
 description: 
 published: true
-date: 2023-02-27T02:25:40.677Z
+date: 2023-02-27T02:25:55.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:41:30.270Z

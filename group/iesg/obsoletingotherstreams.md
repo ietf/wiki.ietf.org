@@ -2,7 +2,7 @@
 title: Obsoleting RFCs from Other Streams
 description: 
 published: true
-date: 2023-02-19T00:29:57.856Z
+date: 2023-02-19T00:30:07.294Z
 tags: iesg
 editor: markdown
 dateCreated: 2023-02-13T18:00:06.755Z

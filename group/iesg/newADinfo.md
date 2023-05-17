@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-02-27T15:01:06.708Z
+date: 2023-02-27T15:01:13.199Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z

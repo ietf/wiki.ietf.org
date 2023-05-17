@@ -2,7 +2,7 @@
 title: IESG Discussion on RFC Format Changes
 description: 
 published: true
-date: 2023-02-19T20:09:04.194Z
+date: 2023-02-19T20:09:09.099Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T20:09:04.194Z

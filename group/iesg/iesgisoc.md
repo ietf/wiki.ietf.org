@@ -2,7 +2,7 @@
 title: IESG & ISOC
 description: 
 published: true
-date: 2023-02-20T19:29:35.094Z
+date: 2023-02-20T19:29:39.280Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:29:35.094Z

@@ -2,7 +2,7 @@
 title: Preparing the Ballot Writeup
 description: 
 published: true
-date: 2023-02-19T20:53:41.803Z
+date: 2023-02-19T20:53:47.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T20:52:41.885Z

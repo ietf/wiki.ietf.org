@@ -2,7 +2,7 @@
 title: Journal Article
 description: 
 published: true
-date: 2023-02-18T01:45:03.210Z
+date: 2023-02-18T01:45:08.980Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:01:37.088Z

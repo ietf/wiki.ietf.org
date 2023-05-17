@@ -2,7 +2,7 @@
 title: DraftShepherdWriteupWgRespSimple
 description: 
 published: true
-date: 2023-02-19T08:08:13.146Z
+date: 2023-02-19T08:08:16.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T08:08:13.146Z

@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-model
 description: 
 published: true
-date: 2023-03-29T03:14:59.578Z
+date: 2023-03-29T03:15:05.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T07:16:56.448Z

@@ -2,7 +2,7 @@
 title: SECDISPATCH WG - Security Dispatch
 description: 
 published: true
-date: 2023-02-27T06:54:38.306Z
+date: 2023-02-27T06:54:43.203Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:56:10.700Z

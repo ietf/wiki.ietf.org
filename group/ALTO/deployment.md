@@ -2,7 +2,7 @@
 title: Deployment Update for the ALTO Protocol
 description: 
 published: true
-date: 2023-03-27T01:43:06.654Z
+date: 2023-03-27T01:43:12.899Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:18:13.645Z

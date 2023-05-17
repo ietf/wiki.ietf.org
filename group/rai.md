@@ -2,7 +2,7 @@
 title: RAI Area - Real-time Applications and Infrastructure
 description: 
 published: true
-date: 2023-02-27T01:32:21.410Z
+date: 2023-02-27T01:32:28.634Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T04:08:28.722Z

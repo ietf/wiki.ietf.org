@@ -2,7 +2,7 @@
 title: SIPCORE WG - Session Initiation Protocol Core
 description: 
 published: true
-date: 2023-02-27T07:03:35.044Z
+date: 2023-02-27T07:03:39.924Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:49:04.773Z

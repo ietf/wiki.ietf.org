@@ -2,7 +2,7 @@
 title: MNA Chair Coordination meeting
 description: Page used for agenda and notes for the MNA chair coordination meetings
 published: true
-date: 2023-02-18T03:45:35.439Z
+date: 2023-02-18T03:45:39.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-29T17:22:54.091Z

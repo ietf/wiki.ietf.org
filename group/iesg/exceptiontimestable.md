@@ -2,7 +2,7 @@
 title: Exception Times Table
 description: 
 published: true
-date: 2023-02-20T19:00:00.396Z
+date: 2023-02-20T19:00:04.041Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:00:00.396Z

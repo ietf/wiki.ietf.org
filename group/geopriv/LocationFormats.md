@@ -2,7 +2,7 @@
 title: Location Formats
 description: 
 published: true
-date: 2023-01-25T03:19:12.226Z
+date: 2023-02-27T05:56:58.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T03:19:08.236Z

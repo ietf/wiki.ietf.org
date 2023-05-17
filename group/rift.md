@@ -2,7 +2,7 @@
 title: RIFT WG - Routing In Fat Trees
 description: 
 published: true
-date: 2023-02-27T04:39:54.085Z
+date: 2023-02-27T04:39:59.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:37:49.588Z

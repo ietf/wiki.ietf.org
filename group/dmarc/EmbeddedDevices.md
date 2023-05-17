@@ -2,7 +2,7 @@
 title: Embedded Devices
 description: 
 published: true
-date: 2023-02-27T03:15:49.073Z
+date: 2023-02-27T03:15:53.793Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T03:15:49.073Z

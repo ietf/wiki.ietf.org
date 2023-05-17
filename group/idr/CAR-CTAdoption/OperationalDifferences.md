@@ -2,7 +2,7 @@
 title: CAR CT Adoption Operational Differences
 description: 
 published: true
-date: 2023-02-21T06:31:18.150Z
+date: 2023-02-21T06:31:21.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T23:07:38.795Z

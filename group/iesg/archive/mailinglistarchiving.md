@@ -2,7 +2,7 @@
 title: Mailing List Archiving
 description: 
 published: true
-date: 2023-02-19T19:56:50.544Z
+date: 2023-02-19T19:56:54.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T19:56:50.544Z

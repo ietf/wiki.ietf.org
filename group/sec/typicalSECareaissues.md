@@ -2,7 +2,7 @@
 title: Typical SEC Area Issues
 description: 
 published: true
-date: 2023-02-27T06:17:30.243Z
+date: 2023-02-27T06:17:35.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T06:15:24.463Z

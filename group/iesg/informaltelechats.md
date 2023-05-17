@@ -2,7 +2,7 @@
 title: Informal Telechats
 description: 
 published: true
-date: 2023-02-20T19:17:57.239Z
+date: 2023-02-20T19:18:00.522Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:17:57.239Z

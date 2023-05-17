@@ -2,7 +2,7 @@
 title: Publish Path
 description: 
 published: true
-date: 2023-05-05T19:35:39.446Z
+date: 2023-05-05T19:35:43.880Z
 tags: iesg
 editor: markdown
 dateCreated: 2023-01-13T16:14:58.658Z

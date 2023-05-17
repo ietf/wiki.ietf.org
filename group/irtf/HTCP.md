@@ -2,7 +2,7 @@
 title: HTCP Resources
 description: 
 published: true
-date: 2023-02-18T03:30:00.530Z
+date: 2023-02-18T03:30:05.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T23:12:53.460Z

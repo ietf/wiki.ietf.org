@@ -2,7 +2,7 @@
 title: OPS Area (Operations & Management)
 description: 
 published: true
-date: 2023-05-03T05:05:33.868Z
+date: 2023-05-03T05:05:38.577Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:25:37.192Z

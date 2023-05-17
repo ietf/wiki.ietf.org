@@ -2,7 +2,7 @@
 title: Guidelines
 description: General principles to consider when contributing to wiki.ietf.org
 published: true
-date: 2023-04-05T20:36:09.571Z
+date: 2023-04-05T20:36:13.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T12:18:35.593Z

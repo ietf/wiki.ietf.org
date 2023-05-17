@@ -2,7 +2,7 @@
 title: MPLS WG Process
 description: MPLS WG Process
 published: true
-date: 2023-02-27T16:29:34.736Z
+date: 2023-02-27T16:29:39.516Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T16:29:34.736Z

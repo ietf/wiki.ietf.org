@@ -2,7 +2,7 @@
 title: Ensuring Appropriate Discussion
 description: 
 published: true
-date: 2023-04-13T05:28:27.551Z
+date: 2023-04-13T05:28:32.733Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-14T14:46:39.591Z

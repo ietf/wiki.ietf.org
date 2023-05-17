@@ -2,7 +2,7 @@
 title: SACM WG - Security Automation and Continuous Monitoring
 description: 
 published: true
-date: 2023-02-27T06:07:00.869Z
+date: 2023-02-27T06:07:05.599Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:15:14.733Z

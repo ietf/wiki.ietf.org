@@ -2,7 +2,7 @@
 title: IESG Internal
 description: 
 published: true
-date: 2023-02-20T19:35:06.803Z
+date: 2023-02-20T19:35:10.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T21:15:20.633Z

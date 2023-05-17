@@ -2,7 +2,7 @@
 title: Crypto Forum Research Group Process
 description: Overview of CFRG process and best practices
 published: true
-date: 2022-12-30T15:30:04.997Z
+date: 2023-02-27T18:33:14.185Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-28T23:01:58.095Z

@@ -2,7 +2,7 @@
 title: JOSE WG - Javascript Object Signing and Encryption
 description: 
 published: true
-date: 2023-02-27T07:37:32.038Z
+date: 2023-02-27T07:37:37.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:29:48.123Z

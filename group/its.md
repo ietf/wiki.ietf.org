@@ -2,7 +2,7 @@
 title: ITS BOF (Concluded) - Intelligent Transportation Systems
 description: 
 published: true
-date: 2023-02-27T01:03:10.890Z
+date: 2023-02-27T01:03:16.599Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:11:36.312Z

@@ -2,7 +2,7 @@
 title: OSPF WG (Concluded) - Open Shortest Path First IGP
 description: 
 published: true
-date: 2023-02-27T07:33:52.558Z
+date: 2023-02-27T07:33:57.218Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:12:07.954Z

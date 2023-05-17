@@ -2,7 +2,7 @@
 title: DetNet WG - Deterministic Networks
 description: 
 published: true
-date: 2023-04-14T13:07:43.214Z
+date: 2023-04-14T13:07:47.784Z
 tags: ietf rtg
 editor: markdown
 dateCreated: 2023-04-14T13:00:49.534Z

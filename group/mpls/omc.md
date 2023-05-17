@@ -2,7 +2,7 @@
 title: Open MNA Calls
 description: This page hosts information for for the Open MNA Calls, such as charter, agendas/notes, invites and recommendations.
 published: true
-date: 2023-04-29T09:05:52.668Z
+date: 2023-04-29T09:05:57.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-29T08:37:01.934Z

@@ -2,7 +2,7 @@
 title: Bootstrapping Across WGS BackUp
 description: 
 published: true
-date: 2023-02-18T01:41:24.264Z
+date: 2023-02-18T01:41:29.013Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:36:45.500Z

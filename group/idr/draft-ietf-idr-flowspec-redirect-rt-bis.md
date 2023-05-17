@@ -2,7 +2,7 @@
 title: Draft IETF IDR Flowspec Redirect Rt Bis
 description: 
 published: true
-date: 2023-02-18T03:28:41.018Z
+date: 2023-02-18T03:28:45.604Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T22:15:58.242Z

@@ -2,7 +2,7 @@
 title: NFVRG (Concluded) Network Function Virtualization Research Group
 description: 
 published: true
-date: 2023-03-03T22:34:33.916Z
+date: 2023-03-03T22:34:40.498Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T22:34:33.916Z

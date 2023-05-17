@@ -2,12 +2,11 @@
 title: Signaling
 description: 
 published: true
-date: 2023-02-18T01:36:11.271Z
+date: 2023-02-18T01:36:21.003Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:34:40.498Z
 ---
-
 
 # Signaling Design Team 
 NOTE: This team completed its work when https://tools.ietf.org/html/draft-ietf-anima-grasp was approved for publication as a Proposed Standard RFC. It is currently in the RFC Editor's queue waiting for normative references to be approved.

@@ -2,7 +2,7 @@
 title: Pete's scribbling's on Balloting Theory
 description: 
 published: true
-date: 2023-02-20T20:56:52.625Z
+date: 2023-02-20T20:56:56.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:56:52.625Z

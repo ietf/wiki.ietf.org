@@ -2,7 +2,7 @@
 title: CORE WG - Constrained RESTful Environments Wiki
 description: 
 published: true
-date: 2023-02-27T02:37:09.124Z
+date: 2023-02-27T02:37:14.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:20:32.189Z

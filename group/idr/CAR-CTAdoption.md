@@ -2,7 +2,7 @@
 title: CAR-CT-Adoption
 description: 
 published: true
-date: 2023-02-14T23:18:42.742Z
+date: 2023-03-17T18:03:25.768Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T22:22:24.549Z
@@ -58,10 +58,29 @@ The IDR Shepherd for this call (Susan Hares) posts the following per thread:
 - short summaries on list
 - short summaries in pdf format (attached as pdfs)
 - detailed summaries on which these short summaries are based
+
+### Summary (in wiki format)
+
+[CAR-CT Part 3: Operational Differences](/group/idr/CAR-CTAdoption/OperationalDifferences)
+
 ### Week 1-3 Summaries (in pdf format)
-- [CAR-CT Part 1: Informational Questions](/InformationalQuestions)
-- [CAR-CT Part 2: Adoption call](AdoptionCall)
-- [CAR-CT Part 3: Operational Differences](OperationalDifferences)
+
+**Attachments:**
+
+[adoption-info-car-ct-q1-wk1-wk3-summary.pdf](/idr/adoption-info-car-ct-q1-wk1-wk3-summary.pdf)
+[adoption-info-car-ct-q1-wk1-wk3-detailed-summary.pdf](/idr/adoption-info-car-ct-q1-wk1-wk3-detailed-summary.pdf)
+[adoption-call-car-ct-q2-wk1-3-short-summary.pdf](/idr/adoption-call-car-ct-q2-wk1-3-short-summary.pdf)
+[adoption-call-car-ct-q2-wk1-3-detailed-summary-1.pdf](/idr/adoption-call-car-ct-q2-wk1-3-detailed-summary-1.pdf)
+[car-ct-part3-details-v3-2.pdf](/idr/car-ct-part3-details-v3-2.pdf)
+[car-ct-issue-summary-v4-1.pdf](/idr/car-ct-issue-summary-v4-1.pdf)
+[adoption-info-car-ct-q1-week1-haas-error-handling.pdf](/idr/adoption-info-car-ct-q1-week1-haas-error-handling.pdf)
+[adoption-info-car-ct-q1-week1-short-summary.pdf](/idr/adoption-info-car-ct-q1-week1-short-summary.pdf)
+[adoption-info-car-ct-q1-detailed-summary.pdf](/idr/adoption-info-car-ct-q1-detailed-summary.pdf)
+[adoption-call-car-ct-q2-week1-short-summary.pdf](/idr/adoption-call-car-ct-q2-week1-short-summary.pdf)
+[adoption-call-car-ct-q2-week1-detailed-summary.pdf](/idr/adoption-call-car-ct-q2-week1-detailed-summary.pdf)
+
+
+
 &nbsp;
 &nbsp;
 &nbsp;

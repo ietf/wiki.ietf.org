@@ -2,7 +2,7 @@
 title: IESG & The Law
 description: 
 published: true
-date: 2023-02-20T19:34:35.515Z
+date: 2023-02-20T19:34:39.108Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:34:35.515Z

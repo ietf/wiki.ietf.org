@@ -1,8 +1,8 @@
 ---
-title: 
+title: IRTF RG review process & goals
 description: 
 published: true
-date: 2023-02-27T17:27:32.427Z
+date: 2023-03-13T01:48:41.418Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:27:32.427Z

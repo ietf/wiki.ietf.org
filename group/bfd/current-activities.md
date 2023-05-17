@@ -2,7 +2,7 @@
 title: BFD WG Current Activities
 description: 
 published: true
-date: 2023-03-21T18:53:23.169Z
+date: 2023-03-21T18:53:27.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:00:31.891Z

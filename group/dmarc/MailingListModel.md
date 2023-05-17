@@ -2,7 +2,7 @@
 title: Mailing List Manager Modeling Exercise
 description: 
 published: true
-date: 2023-02-27T03:14:14.791Z
+date: 2023-02-27T03:14:20.231Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T03:14:14.791Z

@@ -2,7 +2,7 @@
 title: Draft Notewell Summary (obsolete)
 description: 
 published: true
-date: 2023-02-19T19:32:32.778Z
+date: 2023-02-19T19:32:36.566Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-16T19:21:25.112Z

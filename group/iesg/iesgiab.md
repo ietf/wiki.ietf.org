@@ -2,7 +2,7 @@
 title: IESG & IAB Interactions
 description: 
 published: true
-date: 2023-02-20T20:27:16.013Z
+date: 2023-02-20T20:27:19.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:27:16.013Z

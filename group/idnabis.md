@@ -2,7 +2,7 @@
 title: IDNABIS WG (Concluded) - Internationalized Domain Names in Applications, Revised
 description: Internationalized Domain Names in Applications, Revised (idnabis) Wiki
 published: true
-date: 2023-02-27T00:36:29.079Z
+date: 2023-02-27T00:36:32.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:11:06.853Z

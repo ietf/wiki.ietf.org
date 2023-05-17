@@ -2,7 +2,7 @@
 title: MULTIMOB WG (Concluded) - Multicast Mobility Wiki
 description: 
 published: true
-date: 2023-02-27T07:38:43.337Z
+date: 2023-02-27T07:38:47.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T22:58:03.496Z

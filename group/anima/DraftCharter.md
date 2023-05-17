@@ -2,7 +2,7 @@
 title: Draft Charter
 description: 
 published: true
-date: 2023-02-18T01:49:10.956Z
+date: 2023-02-18T01:49:16.259Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:15:57.319Z

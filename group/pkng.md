@@ -2,7 +2,7 @@
 title: PKNG (Concluded) Public Key Next-Generation Research Group
 description: 
 published: true
-date: 2023-03-03T22:45:11.518Z
+date: 2023-03-03T22:45:15.492Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T22:45:11.518Z

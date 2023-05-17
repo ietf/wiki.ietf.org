@@ -2,54 +2,59 @@
 title: draft-ietf-idr-rpd Implementation Report
 description: Report on Vendor implementations of draft-ietf-idr-rpd
 published: true
-date: 2023-02-14T23:14:15.819Z
+date: 2023-03-17T17:58:00.650Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T23:00:45.980Z
 ---
 
-# draft-ietf-idr-rpd Implementation Report
+
 
 This is an implementation report for [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)
 
-## Author(s) of report
-
-Huaimo Chen (January 2022) 
-
+ The report created by Huaimo Chen 
  
-## Vendor Implementations
+ |                   |                                                                  |
+|-------------------|------------------------------------------------------------------|
+| Implementation 1: | NE40E-M2K V800R011C00 by Router Product Line in Huawei           |
+| Implementation 2: | iMaster NCE IP V100R018C00 by Controller Product Line in Huawei  |
 
-| Implementation | Vendor | Product Line | Product | Version | 
-|---|---|---|---|---|
-| Huawei-1 | Huawei | Router Product line | NE40E-M2K | V800R011C00 |
-| Huawei-2 | Huawei | Controller Product Line | iMaster NCE IP | V100R018C00 | 
+ These two Implementations are on different code bases. 
+ 
+ ## RPD NLRI support
+ 
+ |  NLRI                  |  MUST/MAY  |  Section  |   Implementation 1  |  Implementation 2   |
+|------------------------|------------|-----------|---------------------|---------------------|
+|  Feature               |  MUST      |  4.1      |   Support           |  Support            |
+|  Ordering [1]          |  MUST      |  4.1      |   Support           |  Support            |
 
-These two implementaitnos are based on different code bases. 
+[1] ordering is by 
 
-## RPD NLRI support
+|  Error handing          |  MUST/MAY  |           |   Implementation 1  |  Implementation 2   |
+|-------------------------|------------|:---------:|---------------------|---------------------|
+|  -NLRI length check     |  MUST      |  4.1      |   Support           |  Support            |
+|  -NLRI Policy (1 or 2)  |  MUST      |  4.1      |   Support 1         |  Support 1          |
+|  Distinguisher checks   |  MUST      |  4.1      |   Support           |  Support            |
 
-| NLRI	  | MUST/MAY | Section | Huawei-1 |	Huawei-2 | 
-|---|---|---|---|---|
-| Feature |	MUST	   | 4.1	   | Support  |	Support  |
-| Ordering ^N1^	| MUST | 	4.1  |	Support	| Support  |
-N1 (^N1^)  ordering is by
+draft-ietf-idr-rpd options 
 
-| Error Handling	  | MUST/MAY | Section | Huawei-1 |	Huawei-2 | 
-|---|---|---|---|---|
-| NLRI length check |	MUST |	4.1 |	Support |	Support |
-| NLRI Policy (1 or 2) | MUST |	4.1 |	Support | Support |
-| Distinguisher checks | MUST	| 4.1	| Support	| Support |
+| Type/TLV/Atom/sub-TLV    | MUST/MAY  |  Implementation 1  |  Implementation 2  |
+|--------------------------|-----------|--------------------|-------------------:|
+| BGP Wide Community Type  | MUST      |  Support           |  Support           |
+| (Target TLV [1])         | MUST      |  Support           |  Support           |
+| (Exclude Target TLV [1]) | MUST      |  Support           |  Support           |
+| (Parameter TLV [1])      | MUST      |  Support           |  Support           |
+| RouteAttr_ Atom          | MUST      |  Support           |  Support           |
+| MED Change sub-TLV       | MUST      |  Support           |  Support           |
+| AS-Path Change sub-TLV   | MUST      |  Support           |  Support           |
 
-### draft-ietf-idr-rpd options
+ [1] - BGP Wide Community TLVs (Target, Exclude Target and Parameter TLVs) are not focus of draft-ietf-idr-rpd 
+ 
+ 
+ &nbsp;
+&nbsp;
+&nbsp;
 
-| Type/TLV/Atom/sub-TLV | MUST/MAY |	Huawei-1 | Huawei-2 | 
-|---|---|---|---|
-| BGP Wide Community Type | MUST | Support |	Support |
-| Target TLV ^N2^         |	MUST | Support | Support | 
-| Exclude Target TLV ^N2^ |	MUST | Support | Support |
-| Parameter TLV ^N2^      | MUST | Support | Support |
-| RouteAttr_ Atom	        | MUST | Support | Support |
-| MED Change sub-TLV	    | MUST | Support | Support |
-| AS-Path Change sub-TLV	| MUST | Support | Support |
+---
 
-N2 (^N2^) - BGP Wide Community TLVs (Target, Exclude Target and Parameter are not focus of draft-ietf-idr-rpd.  
+*The content of this page was last updated on 2022-01-28. It was migrated from the old Trac wiki on 2023-03-17.*

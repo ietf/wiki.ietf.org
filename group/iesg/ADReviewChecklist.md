@@ -2,7 +2,7 @@
 title: AD Review Checklist
 description: 
 published: true
-date: 2023-02-18T03:42:27.569Z
+date: 2023-02-18T03:42:31.974Z
 tags: iesg
 editor: markdown
 dateCreated: 2023-02-13T16:52:49.855Z

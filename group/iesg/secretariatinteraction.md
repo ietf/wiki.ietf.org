@@ -2,7 +2,7 @@
 title: Secretariat Interaction
 description: 
 published: true
-date: 2023-02-20T20:35:15.597Z
+date: 2023-02-20T20:35:20.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:35:15.597Z

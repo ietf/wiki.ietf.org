@@ -2,7 +2,7 @@
 title: Agenda 08
 description: 
 published: true
-date: 2023-02-18T03:13:06.370Z
+date: 2023-02-18T03:13:10.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T22:53:13.982Z

@@ -2,7 +2,7 @@
 title: Single Discuss Resolution
 description: 
 published: true
-date: 2023-02-20T20:12:56.691Z
+date: 2023-02-20T20:13:00.414Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:12:56.691Z

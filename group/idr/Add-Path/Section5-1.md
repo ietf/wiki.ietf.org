@@ -2,7 +2,7 @@
 title: Add-Path Section 5.1: Base Behavior
 description: 
 published: true
-date: 2023-02-21T06:19:38.699Z
+date: 2023-02-21T06:19:42.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:40:47.807Z

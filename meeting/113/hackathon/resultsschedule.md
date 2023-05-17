@@ -2,7 +2,7 @@
 title: Hackathon Results Presentation Schedule
 description: 
 published: true
-date: 2023-03-20T04:57:43.444Z
+date: 2023-03-20T04:57:48.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-20T04:57:43.444Z

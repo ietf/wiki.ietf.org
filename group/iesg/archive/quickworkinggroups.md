@@ -2,7 +2,7 @@
 title: Quick Working Groups
 description: 
 published: true
-date: 2023-02-19T19:54:22.470Z
+date: 2023-02-19T19:54:26.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T19:54:22.470Z

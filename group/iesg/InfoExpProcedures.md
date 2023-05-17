@@ -2,7 +2,7 @@
 title: Info Exp Procedures
 description: 
 published: true
-date: 2023-02-20T20:15:11.101Z
+date: 2023-02-20T20:15:14.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:15:11.101Z

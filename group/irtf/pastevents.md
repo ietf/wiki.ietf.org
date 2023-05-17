@@ -2,7 +2,7 @@
 title: Past Events
 description: 
 published: true
-date: 2023-02-18T03:35:41.278Z
+date: 2023-02-18T03:35:45.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:09:42.479Z

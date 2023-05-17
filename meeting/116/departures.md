@@ -2,7 +2,7 @@
 title: IETF 116 Departure Coordination
 description: 
 published: true
-date: 2023-03-22T11:58:43.511Z
+date: 2023-03-22T11:58:48.272Z
 tags: meeting information
 editor: markdown
 dateCreated: 2022-12-05T16:38:07.826Z

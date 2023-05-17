@@ -2,7 +2,7 @@
 title: dns-update-over-tls
 description: 
 published: true
-date: 2023-03-20T04:51:57.547Z
+date: 2023-03-20T04:52:02.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-20T04:51:57.547Z

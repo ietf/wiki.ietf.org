@@ -2,7 +2,7 @@
 title: IMAPMOVE WG (Concluded) - IMAP MOVE extension
 description: Implementation experience for IMAP MOVE and UID MOVE commands
 published: true
-date: 2023-02-27T00:37:55.546Z
+date: 2023-02-27T00:37:59.375Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:16:55.382Z

@@ -2,7 +2,7 @@
 title: Proposed Charter
 description: 
 published: true
-date: 2023-02-26T23:37:00.218Z
+date: 2023-02-26T23:37:05.212Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T23:37:00.218Z

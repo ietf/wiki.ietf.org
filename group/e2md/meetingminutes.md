@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2023-02-26T23:52:32.690Z
+date: 2023-02-26T23:52:36.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T23:52:32.690Z

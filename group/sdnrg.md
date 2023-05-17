@@ -2,7 +2,7 @@
 title: SDNRG (Concluded) Software Defined Networking Research Group 
 description: 
 published: true
-date: 2023-03-03T20:17:12.080Z
+date: 2023-03-03T20:17:15.982Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T20:13:48.028Z

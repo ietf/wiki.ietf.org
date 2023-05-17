@@ -2,7 +2,7 @@
 title: CCN Test Rig
 description: 
 published: true
-date: 2023-02-18T03:21:45.786Z
+date: 2023-02-18T03:21:50.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:04:08.518Z

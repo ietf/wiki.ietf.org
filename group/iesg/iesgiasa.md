@@ -2,7 +2,7 @@
 title: IESG & IASA (obsolete)
 description: 
 published: true
-date: 2023-02-20T19:27:50.819Z
+date: 2023-02-20T19:27:54.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:27:15.354Z

@@ -2,7 +2,7 @@
 title: Topics for possible 2nd retreat
 description: 
 published: true
-date: 2023-02-19T19:51:03.521Z
+date: 2023-02-19T19:51:08.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T19:51:03.521Z

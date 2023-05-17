@@ -2,13 +2,11 @@
 title: DetNet Open Working Meetings on Enhanced DetNet Data Plane
 description: 
 published: true
-date: 2023-05-12T11:49:10.540Z
+date: 2023-05-12T11:49:21.576Z
 tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
 ---
-
-
 
 ## Agendas and Meeting notes
 

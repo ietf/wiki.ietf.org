@@ -2,7 +2,7 @@
 title: DOTS WG - DDoS Open Threat Signaling
 description: 
 published: true
-date: 2023-03-27T09:25:12.550Z
+date: 2023-03-27T09:25:22.106Z
 tags: wg
 editor: markdown
 dateCreated: 2022-12-08T22:29:45.543Z

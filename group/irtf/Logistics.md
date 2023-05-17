@@ -2,7 +2,7 @@
 title: Logistics
 description: 
 published: true
-date: 2023-02-18T03:32:47.492Z
+date: 2023-02-18T03:32:51.700Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T23:03:58.917Z

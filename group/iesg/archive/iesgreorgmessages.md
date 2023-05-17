@@ -2,7 +2,7 @@
 title: IESG Reorg Messages
 description: 
 published: true
-date: 2023-02-19T20:05:51.455Z
+date: 2023-02-19T20:05:55.835Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T20:05:51.454Z

@@ -2,7 +2,7 @@
 title: CAR-CT Forum 3 Operational Differences
 description: 
 published: true
-date: 2023-02-18T03:19:39.511Z
+date: 2023-02-18T03:19:44.366Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T23:09:24.649Z

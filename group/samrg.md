@@ -2,7 +2,7 @@
 title: SAMRG (Concluded) Scalable Adaptive Multicast Research Group
 description: 
 published: true
-date: 2023-03-03T22:48:59.235Z
+date: 2023-03-03T22:49:04.010Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T22:48:59.235Z

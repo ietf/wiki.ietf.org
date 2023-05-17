@@ -2,7 +2,7 @@
 title: VWRAP WG (Concluded) - Virtual World Region Agent Protocol
 description: 
 published: true
-date: 2023-02-26T22:55:53.319Z
+date: 2023-02-26T22:55:56.917Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:07:49.229Z

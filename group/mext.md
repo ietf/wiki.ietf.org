@@ -2,7 +2,7 @@
 title: MEXT WG (Concluded) - Mobility EXtensions for IPv6
 description: 
 published: true
-date: 2023-02-27T07:33:10.696Z
+date: 2023-02-27T07:33:14.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T04:29:00.965Z

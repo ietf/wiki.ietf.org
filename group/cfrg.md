@@ -2,7 +2,7 @@
 title: CFRG RG - Crypto Forum Research Group
 description: 
 published: true
-date: 2023-02-27T18:38:08.352Z
+date: 2023-02-27T18:38:11.841Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:38:41.760Z

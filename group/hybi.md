@@ -2,7 +2,7 @@
 title: HYBI WG (Concluded) - BiDirectional or Server-Initiated HTTP
 description: 
 published: true
-date: 2023-02-27T18:47:34.802Z
+date: 2023-02-27T18:47:39.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-22T03:35:37.935Z

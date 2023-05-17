@@ -2,7 +2,7 @@
 title: VNRG (Concluded) Virtual Networks Research Group 
 description: 
 published: true
-date: 2023-03-03T22:55:07.685Z
+date: 2023-03-03T22:55:12.706Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-03-03T22:55:07.685Z

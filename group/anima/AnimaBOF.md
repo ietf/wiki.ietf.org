@@ -2,7 +2,7 @@
 title: Anima BOF
 description: 
 published: true
-date: 2023-02-18T01:37:55.755Z
+date: 2023-02-18T01:38:01.043Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:05:13.038Z
