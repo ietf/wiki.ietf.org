@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-05-20T14:33:39.784Z
+date: 2023-05-20T14:34:02.356Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -184,7 +184,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
   - https://datatracker.ietf.org/doc/html/draft-tgraf-yang-push-observation-time
 - **Project info**
-  - Develop and validate running code. Extend IPFIX SRv6 data-plane dissection in wireshark. Extend BMP implementation in Frrouting with Path Marking. Marry YANG Push wit Apache Kafka message broker.
+  - Develop and validate running code. Extend IPFIX SRv6 data-plane dissection in Wireshark. Extend BMP implementation in Frrouting with Path Marking. Marry YANG Push wit Apache Kafka message broker.
 - **Project site**
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-03.md
   
