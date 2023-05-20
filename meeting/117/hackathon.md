@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-05-16T21:51:16.138Z
+date: 2023-05-20T14:30:31.535Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -169,6 +169,25 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
 
+### Network Telemetry with YANG Push, BMP and IPFIX
+- **Champion(s)**
+  - Thomas Graf (thomas.graf at swisscom.com)
+  - Ahmed Elhassany (ahmed.elhassany at swisscom.com)
+  - Benoit Claise (benoit.claise at huawei.com)
+  - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
+  - Maxence Younsi (maxence.younsi at insa-lyon.fr)
+- **Draft(s)**
+  - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
+  - https://datatracker.ietf.org/doc/html/draft-cppy-grow-bmp-path-marking-tlv
+  - https://datatracker.ietf.org/doc/html/draft-ahuang-netconf-notif-yang
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-yang-notifications-versioning
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-yang-push-observation-time
+- **Project info**
+  - Develop and validate running code. Extend IPFIX SRv6 data-plane disection in wireshark. Extend BMP implementation in Frrouting with Path Marking. Marry YANG Push wit Apache Kafka message broker.
+- **Project site**
+  - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-03.md
+  
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
