@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-05-20T14:40:07.119Z
+date: 2023-05-20T14:43:21.921Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -177,7 +177,6 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Fengchong (frank) (frank.fengchong at huawei.com)
   - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
   - Maxence Younsi (maxence.younsi at insa-lyon.fr)
-  - 
 - **Draft(s)**
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
   - https://datatracker.ietf.org/doc/html/draft-cppy-grow-bmp-path-marking-tlv
