@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T22:19:34.647Z
+date: 2023-05-21T22:36:32.654Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -121,7 +121,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 {.dense}
 ## Approved Early Allocations - drafts at IESG - AD queue 
 ### draft-ietf-idr-long-lived-gr
-| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [Capability Codes](https://www.iana.org/assignments/capability-codes/capability-codes.xhtml#capability-codes-2) |  Long-Lived Graceful Restart (LLGR) Capability | 71 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [BGP Well-known Community](https://www.iana.org/assignments/bgp-well-known-communities/bgp-well-known-communities.xhtml) |  Long-Lived Graceful Restart (LLGR) Capability | 71 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
  
 
 {.dense}
