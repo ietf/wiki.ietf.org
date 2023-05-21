@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:29:19.638Z
+date: 2023-05-21T17:31:13.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -34,7 +34,7 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery](https://datatra
 ### Arista:
 Document [1]: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
 BGP TEN = BGP tunnel encapsulation attribute 
-
+{.dense}
 
 | IETF Draft | Description | Arista veersion | IANA name |  contact | 
 |---|---|---|---| 
