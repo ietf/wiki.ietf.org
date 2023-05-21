@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T16:38:35.195Z
+date: 2023-05-21T16:40:08.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -31,13 +31,12 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery]
 |  7  | Simplified IPsec SA Sub – TLV	| Yes | Yes | 
 {.dense}
 
-
 ## Other implementations of SDWAN: 
 ### Arista:
 
-| Draft | Description | Arista veersion | IANA Reference | 
-|---|---|---|---|
-| none | SAFI = 79  |  BGP-DPS (Dynamic Path Selection) | https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml | 
+| Draft | Description | Arista veersion | IANA reference | IANA reference | 
+|---|---|---|---| 
+| none | SAFI = 79  |  BGP-DPS (Dynamic Path Selection]
 use a new SAFI = 79 and 2 BGP Tunnel Encapsulation Attribute Tunnel Types:
 https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml
 …
