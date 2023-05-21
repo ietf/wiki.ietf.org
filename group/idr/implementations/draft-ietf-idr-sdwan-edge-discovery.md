@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:28:21.084Z
+date: 2023-05-21T17:29:19.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -46,5 +46,5 @@ BGP TEN = BGP tunnel encapsulation attribute
 | none  | BGP TEN subTLV 194 | eos-4-26-2f | [IPSEC DIM  Sub-TLV](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs) | [Venkit_Kasiviswanathan] | 
 | none  | BGP TEN subTLV 195 | eos-4-26-2f | [IPSEC Key Exchange  Sub-TLV](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs) | [Venkit_Kasiviswanathan] | 
 | none  | BGP TEN subTLV 196 | eos-4-26-2f | [IPSEC SA Proposals  Sub-TLV](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs) | [Venkit_Kasiviswanathan] | 
-
+{.dense}
 
