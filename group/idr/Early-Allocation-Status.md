@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T21:31:14.192Z
+date: 2023-05-21T21:57:50.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -75,8 +75,24 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | OSPF Forwarding Address | TLV code 1156 | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Opaque Prefix Attribute | TLV code 1157 | 8/6/2023 | RFC editor queue (Misref) |
 {.dense}
+## Approved Early Allocations - drafts at IESG - AD Evaluation 
+### draft-ietf-idr-wide-communities 
+| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
+|---|---|---|---|---|---|
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  [BGP Path Attributes](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xhtml) | 	BGP Community Container Attribute | attribute 34 | 12/22/2022 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  New registry: BGP Community Container Atom Types | values 0x01 to 0x08 | 12/22/2022 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  New registry: BGP Community Container Neighbor Class List Atom Types | values 1-3 | 12/22/2022| IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+{.dense}
+### draft-ietf-idr-rpd
+| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
+|---|---|---|---|---|---|
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | [Subsequent Address Family Identifiers (SAFI) Parameters](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Routing Policy SAFI | SAFI 75 | 5/20/2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | Registered Type 1 BGP Wide Community Community Types (wide communities registry)
+| Routing Policy SAFI | SAFI 75 | 5/20/2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+{.dense}
+
 ## Approved Early Allocations - drafts at IESG - AD queue 
-### draft-ietf-idr-segement-routing-te-policy 
+### draft-ietf-idr-segment-routing-te-policy 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) | [Subsequent Address Family Identifiers (SAFI) Parameters](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | SR TE Policy SAFI | SAFI=73 | 5/20/2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |  
