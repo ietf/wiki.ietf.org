@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-05-21T18:03:10.161Z
+date: 2023-05-21T18:05:30.446Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -94,5 +94,34 @@ dateCreated: 2023-03-13T05:29:13.348Z
 &nbsp;
 
 ---
+## Implementation Reports for IDR RFC
+
+ - [draft-ietf-idr-add-paths implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
+ - [draft-ietf-idr-as-migration implementations](/group/idr/implementations/draft-ietf-idr-as-migration)
+ - [draft-ietf-idr-ls-distribution implementations](/group/idr/implementations/draft-ietf-idr-ls-distribution)
+ - [draft-ietf-idr-ix-bgp-route-server implementations](/group/idr/implementations/draft-ietf-idr-ix-bgp-route-server)
+ - [draft-ietf-idr-large-community implementations](/group/idr/implementations/draft-ietf-idr-large-community)
+ - [draft-ietf-idr-bgp-prefix-sid implementations](/group/idr/implementations/draft-ietf-idr-bgp-prefix-sid)
+ - [draft-ietf-idr-bgp-gr-notification implementations](/group/idr/implementations/draft-ietf-idr-bgp-gr-notification)
+ - [draft-ietf-idr-te-pm-bgp implementations](/group/idr/implementations/draft-ietf-idr-te-pm-bgp)
+ - [draft-ietf-idr-bgpls-segment-routing-epe](/group/idr/implementations/draft-ietf-idr-bgpls-segment-routing-epe)
+ - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
+ - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended) - draft-ietf-idr-bgp-extended-messages
+ - [draft-ietf-rfc5575bis implementations](/group/idr/implementations/draft-ietf-rfc5575bis)
+ - [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
+ - [draft-ietf-idr-tunnel-encaps implementations](/group/idr/implementations/draft-ietf-idr-tunnel-encaps)
+ - [draft-ietf-idr-bgp-ls-segment-routing-msd implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-msd)
+ - [draft-ietf-idr-rfc8203bis](/group/idr/implementations/draft-ietf-idr-rfc8203bis)
+ - [draft-ietf-idr-bgp-flowspec-oid implementations](/group/idr/implementations/draft-ietf-idr-bgp-flowspec-oid)
+ - [draft-ietf-idr-ext-opt-param implementations](/group/idr/implementations/draft-ietf-idr-ext-opt-param)
+ - [draft-ietf-idr-eag-distribution implementations](/group/idr/implementations/draft-ietf-idr-eag-distribution)
+ - [draft-ietf-idr-bgp-optimal-route-reflection implementations](/group/idr/implementations/draft-ietf-idr-bgp-optimal-route-reflection)
+ - [draft-ietf-idr-bgp-ls-app-specific-attr implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-app-specific-attr)
+ - [draft-ietf-idr-bgp-ls-sbfd-extensions implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-sbfd-extensions)
+ - [draft-ietf-idr-bgp-open-policy](/group/idr/implementations/draft-ietf-idr-bgp-open-policy)
+ - [draft-ietf-idr-bgp-ls-flex-algo implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-implement)
+ - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
+ - [draft-ietf-idr-RFC7752bis implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
+  - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode)
 
 *The content of this page was last updated on 2022-11-27. It was migrated from the old Trac wiki on 2023-03-12.*    
