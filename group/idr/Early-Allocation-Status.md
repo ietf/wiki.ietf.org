@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T18:53:46.027Z
+date: 2023-05-21T19:04:46.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -17,9 +17,13 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 ## Approved Early Allocations 
 
-| IDR Draft | IANA Allocation | Date expires | draft status | 
+| IDR Draft | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|
-| [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | 08-06-2021 | RFC editor queue (MISREF) | 
+| [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | TLV code points 256-265, 512-515, 1024-1031 | 8/6/2023 | RFC editor queue (Misref) | 
+| [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) | SAFI = 73 | 08-06-2021 | RFC editor queue (MISREF) | 
+| [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | BGP TEN type = 15 | 08-06-2021 | RFC editor queue (MISREF) | 
+| 
+
 
 ## BGP-LS Link to ISIS TLVS
 
