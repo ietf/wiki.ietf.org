@@ -2,16 +2,17 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T19:41:16.570Z
+date: 2023-05-21T19:43:35.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
 ---
 
 # Early Allocation Status
+## Pending early allocations 
 
-|  IDR Draft                                    |  IANA Register                                                                   |  Code Point            |  Description              |  Other Protocol TLVs  |  IANA Link                                          |
-|-----------------------------------------------|----------------------------------------------------------------------------------|------------------------|---------------------------|-----------------------|-----------------------------------------------------|
+|  IDR Draft  |  IANA Registry |  Code Point |  Description   |  IANA Link | Status|       
+|---|---|---|---|---|---|
 |  draft-ietf-idr-bgp-ls-isis-flood-reflection  |  BGP-LS Node Descriptor, Link Descriptor, Prefix Descriptor, and Attribute TLVs  |  TLV Code Point: 1160  |   IS-IS Flood Reflection  |  IS-IS TLV/Sub-TLV    |  https://www.iana.org/assignments/bgp-ls-parameters |
 {.dense}
 
