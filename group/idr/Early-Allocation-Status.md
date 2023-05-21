@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T21:25:05.346Z
+date: 2023-05-21T21:27:55.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -18,7 +18,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 
 ## Approved Early Allocations  - drafts at RFC editor
-
+### draft-ietf-idr-bgpls-srv6-ext and draft-ietf-idr-7752bis
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI Types](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | SRv6 SID NLRI | Type 6 |   8/6/2023 |  RFC Editor MISREF | 
@@ -86,6 +86,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Candidate Path Name sub-TLV    | subtlv 129 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Name sub-TLV  | subtlv 130 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+{.dense}
+
 | [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)  |  [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) |   IS-IS Flood Reflection | TLV Code 1160  |  1/2/2023 |  
 {.dense}
 
