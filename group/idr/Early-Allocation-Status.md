@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T22:41:41.760Z
+date: 2023-05-21T22:43:33.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -75,7 +75,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | OSPF Forwarding Address | TLV code 1156 | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Opaque Prefix Attribute | TLV code 1157 | 8/6/2023 | RFC editor queue (Misref) |
 {.dense}
-## Approved Early Allocations - drafts at IESG - AD Evaluation 
+## Approved Early Allocations: drafts at IESG AD Evaluation 
 ### draft-ietf-idr-wide-communities 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
