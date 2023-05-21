@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T22:11:53.680Z
+date: 2023-05-21T22:14:59.262Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -92,13 +92,15 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | [Subsequent Address Family Identifiers (SAFI) Parameters](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Routing Policy SAFI | SAFI 75 | 12/22/2023 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
-| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | Registered Type 1 BGP Wide Community Community Types (wide communities registry) | MATCH AND SET ATTR | TBD | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
-| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | Registered Type 1 BGP Wide Community Community Types (wide communities registry)
-| MATCH AND NOT ADVERTISE | TBD | 12/22/2022 | IESG Publication [AD Queue]
-| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | RouteAttr  | TBD | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
-| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | MED Change  | TBD | 12/22/2023 | IESG Publication [AD Queue]
- | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | IPv4 Prefix Range List | TBD | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
-| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | IPv6 Prefix Range List | TBD | 12/22/2023 | IESG Publication [AD Queue]
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | Registered Type 1 BGP Wide Community Community Types | MATCH AND SET ATTR | TBD (0x80000018) | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | Registered Type 1 BGP Wide Community Community Types (wide communities registry) | MATCH AND NOT ADVERTISE | TBD (0x80000019) | 12/22/2022 | IESG Publication [AD Queue]
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | RouteAttr  | TBD (0x09) | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | MED Change  | TBD (0x0A) | 12/22/2023 | IESG Publication [AD Queue]
+ | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | IPv4 Prefix Range List | TBD (0x0B) | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | IPv6 Prefix Range List | TBD (0x0C) | 12/22/2023 | IESG Publication [AD Queue]
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types |  IPv6 Prefix Range List  | TBD (0x0D) | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | AS-Path RegEx   | TBD (0x0E) | 12/22/2023 | IESG Publication [AD Queue]
+ | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | Community List | TBD (0x0F) | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 {.dense}
 
 ## Approved Early Allocations - drafts at IESG - AD queue 
