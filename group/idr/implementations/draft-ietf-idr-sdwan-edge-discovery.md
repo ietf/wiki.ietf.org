@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T16:45:58.481Z
+date: 2023-05-21T16:56:26.750Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -35,24 +35,11 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery]
 ### Arista:
 Document: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
 
-| IETF Draft | Description | Arista veersion | IANA name | IANA reference | contact | 
+| IETF Draft | Description | Arista veersion | IANA name | IANA reference | draft | contact | 
 |---|---|---|---| 
-| none | SAFI = 79  |  eos-4-26-2f | BGP-DPS (Dynamic Path Selection) | https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml | 
-| none | BGP Tunnel type 22 | Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Venkit_Kasiviswanathan] | 
-| none | BGP Tunnel type 24 | Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Sarah_Chen] | 
-
-use a new SAFI = 79 and 2 BGP Tunnel Encapsulation Attribute Tunnel Types:
-https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml
-…
-79	BGP-DPS (Dynamic Path Selection)	[https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp]
-
-https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml
-
-BGP Tunnel Encapsulation Attribute Tunnel Types:
-…
-22	Dynamic Path Selection (DPS) Tunnel Encapsulation	[Venkit_Kasiviswanathan]
-
-24	Dynamic Path Selection (DPS) Policy	[https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp][Sarah_Chen]
+| none [1] | SAFI = 79  |  eos-4-26-2f | BGP-DPS (Dynamic Path Selection) | https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml | 	[draft-previdi-idr-segment-routing-te-policy] | IDR | 
+| none [1]  | BGP Tunnel type 22 | eos-4-26-2f | Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Venkit_Kasiviswanathan] | 
+| none [1] | BGP Tunnel type 24 | eos-4-26-2f |  Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Sarah_Chen] | 
 
 
 BGP Tunnel Encapsulation Attribute Sub-TLVs:
