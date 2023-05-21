@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:48:09.073Z
+date: 2023-05-21T17:49:07.308Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -30,8 +30,7 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery](https://datatra
 |  7  | Simplified IPsec SA Sub – TLV	| Yes | Yes | 
 {.dense}
 
-## Other implementations of SDWAN: 
-### Arista:
+## Other implementations of SDWAN: Arista
 
 | IETF Draft | Description | Arista version | IANA name |  contact | 
 |---|---|---|---| 
