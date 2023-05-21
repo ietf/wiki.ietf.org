@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T21:59:04.790Z
+date: 2023-05-21T22:00:36.366Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -79,10 +79,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 ### draft-ietf-idr-wide-communities 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
-| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  [BGP Path Attributes](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xhtml) | 	BGP Community Container Attribute | attribute 34 | 12/22/2022 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
-| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  New registry: BGP Community Container Atom Types | TBD |  values 0x01 to 0x08 | 12/22/2022 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
-| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  New registry: BGP Community Container Neighbor Class List Atom Types | TBD | values 1-3 | 12/22/2022| IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  [BGP Path Attributes](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xhtml) | 	BGP Community Container Attribute | attribute 34 | 12/22/2022 [1]  | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  New registry: BGP Community Container Atom Types | TBD |  values 0x01 to 0x08 | 12/22/2022 [1] | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+| [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  New registry: BGP Community Container Neighbor Class List Atom Types | TBD | values 1-3 | 12/22/2022 [1] | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+[1] - Alvaro email on 12/22/2022
 {.dense}
+
 ### draft-ietf-idr-rpd
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
