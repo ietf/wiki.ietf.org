@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T22:43:33.138Z
+date: 2023-05-21T22:45:27.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -75,7 +75,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | OSPF Forwarding Address | TLV code 1156 | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Opaque Prefix Attribute | TLV code 1157 | 8/6/2023 | RFC editor queue (Misref) |
 {.dense}
-## Approved Early Allocations: drafts at IESG AD Evaluation 
+## Approved Early Allocations: drafts at AD Evaluation (at IESG)  
 ### draft-ietf-idr-wide-communities 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
  | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)  | BGP Community Container Atom Types | Community List | TBD (0x0F) | 12/22/2023 | IESG Publication [AD Queue ](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 {.dense}
 
-## Approved Early Allocations - drafts at IESG - AD queue 
+## Approved Early Allocations - drafts at AD queue (at IESG) 
 ### draft-ietf-idr-segment-routing-te-policy 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
@@ -119,14 +119,13 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-segment-routing-te-policy](/https://datatracker.ietf.org/doc/draft-ietf-idr-segment-routing-te-policy/) | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Name sub-TLV  | subtlv 130 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-segment-routing-te-policy](/https://datatracker.ietf.org/doc/draft-ietf-idr-segment-routing-te-policy/)  | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 {.dense}
-## Approved Early Allocations - drafts at IESG - AD queue 
 ### draft-ietf-idr-long-lived-gr
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [Capability Codes](https://www.iana.org/assignments/capability-codes/capability-codes.xhtml#capability-codes-2) |  Long-Lived Graceful Restart (LLGR) Capability | 71 | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [BGP Well-known Community](https://www.iana.org/assignments/bgp-well-known-communities/bgp-well-known-communities.xhtml) |  LLGR_STALE  | 0xFFFF0006 | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [BGP Well-known Community](https://www.iana.org/assignments/bgp-well-known-communities/bgp-well-known-communities.xhtml) |  NO_LLGR  | 0xFFFF0007 | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
-| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | New registry: Long-lived Graceful Restart Flags for Address Family (0-7 bits) | Bit 0 | (F flag) | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | **New registry: ** Long-lived Graceful Restart Flags for Address Family (0-7 bits) | Bit 0 | (F flag) | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
 {.dense}
 
 ## Approved Early Allocations - WG drafts 
