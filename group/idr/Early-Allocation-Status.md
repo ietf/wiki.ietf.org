@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T21:04:11.944Z
+date: 2023-05-21T21:05:15.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -37,6 +37,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | SRV6 TLVs | codes 256-265, 512-515, 1024-1031, 1088-1098, 1152-1181  | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | SRV6 TLVs | codes 256-265, 512-515, 1024-1031, 1088-1098, 1152-1181  | 8/6/2023 | RFC editor queue (Misref) | 
 
+## Approved Early Allocations - drafts at IESG 
+
+| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
+|---|---|---|---|---|---|
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) | [Subsequent Address Family Identifiers (SAFI) Parameters](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | SR TE Policy SAFI | SAFI=73 | 5/20/2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |  
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [BGP Tunnel Encapsulation Attribute Tunnel Types](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) | SR Policy | Tunnel type 15 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  Preference sub-TLV  | subtlv 12| 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |  
