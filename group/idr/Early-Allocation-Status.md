@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T20:18:57.881Z
+date: 2023-05-21T20:21:05.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -27,7 +27,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [BGP Tunnel Encapsulation Attribute Tunnel Types](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) | SR Policy | Tunnel type = 15 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) | SR Policy | BGP TEN TLVs = 15 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 
-| draft-ietf-idr-bgp-ls-isis-flood-reflection  |  BGP-LS Node Descriptor, Link Descriptor, Prefix Descriptor, and Attribute TLVs  |  TLV Code Point: 1160  |   IS-IS Flood Reflection  |  IS-IS TLV/Sub-TLV    |  https://www.iana.org/assignments/bgp-ls-parameters |
+| [draft-ietf-idr-bgp-ls-isis-flood-reflection]  |  [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) |  TLV Code Point: 1160  |   IS-IS Flood Reflection  |  IS-IS TLV/Sub-TLV    |  https://www.iana.org/assignments/bgp-ls-parameters |
 
 
 ## BGP-LS Link to ISIS TLVS
