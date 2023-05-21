@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:50:33.273Z
+date: 2023-05-21T17:52:44.956Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -33,7 +33,7 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery](https://datatra
 ## Other implementations of SDWAN: Arista
 
 | IETF Draft | Description | Arista version | IANA name |  contact | 
-|---|---|---|---| 
+|---|---|---|---|---|
   | | | 
 | none [1] | SAFI = 79  |  eos-4-26-2f | [BGP-DPS (Dynamic Path Selection](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-types) |	 [Venkit_Kasiviswanathan] | 
 | none [1]  | BGP TEN tunnel type 22 | eos-4-26-2f | [Dynamic Path Selection (DPS) Tunnel Encapsulation](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-types) | [Venkit_Kasiviswanathan] | 
