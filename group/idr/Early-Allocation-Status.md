@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T22:46:07.068Z
+date: 2023-05-21T23:06:51.304Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -35,6 +35,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 ###  draft-ietf-idr-7752bis
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
+| [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP Path Attributes](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xhtml#bgp-parameters-2) | BGP-LS attribute | Attr code 29  | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Local Node Descriptors | TLV code 256   | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Remote Node Descriptors | TLV code 257   | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Link Local/Remote Identifiers | TLV code 258   | 8/6/2023 | RFC editor queue (Misref) |
