@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:11:49.630Z
+date: 2023-05-21T17:16:25.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -33,12 +33,13 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery]
 
 ## Other implementations of SDWAN: 
 ### Arista:
-Document: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
+Document [1]: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
 BGP TEN = BGP tunnel encapsulation attribute 
 
-| IETF Draft | Description | Arista veersion | IANA name | IANA reference | draft | contact | 
+
+| IETF Draft | Description | Arista veersion | IANA name | IANA or IDR Draft reference | contact | 
 |---|---|---|---| 
-| none [1] | SAFI = 79  |  eos-4-26-2f | BGP-DPS (Dynamic Path Selection) | https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml | 	[draft-previdi-idr-segment-routing-te-policy] | IDR | 
+| none [1] | SAFI = 79  |  eos-4-26-2f | BGP-DPS (Dynamic Path Selection) |	[draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-segment-routing-te-policy/) | IDR | 
 | none [1]  | BGP TEN type 22 | eos-4-26-2f | Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Venkit_Kasiviswanathan] | 
 | none [1] | BGP TEN type 24 | eos-4-26-2f |  Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Sarah_Chen] | 
 | none  | BGP TEN subTLV 192 | eos-4-26-2f |  The WAN ID Sub-TLV | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs | [Venkit_Kasiviswanathan] | 
