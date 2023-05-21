@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:28:02.369Z
+date: 2023-05-21T17:28:21.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -36,7 +36,7 @@ Document [1]: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
 BGP TEN = BGP tunnel encapsulation attribute 
 
 
-| IETF Draft | Description | Arista veersion | IANA name |  contact | xxx | 
+| IETF Draft | Description | Arista veersion | IANA name |  contact | 
 |---|---|---|---| 
 | [draft-ietf-idr-segment-routing-te-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-segment-routing-te-policy/) | SAFI = 79  |  eos-4-26-2f | BGP-DPS (Dynamic Path Selection) |	 IDR | 
 | none [1]  | BGP TEN type 22 | eos-4-26-2f | [Dynamic Path Selection (DPS) Tunnel Encapsulation](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) | [Venkit_Kasiviswanathan] | 
