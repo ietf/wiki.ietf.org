@@ -2,14 +2,14 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T16:36:58.273Z
+date: 2023-05-21T16:38:35.195Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
 ---
 
 # SDWAN Implementation Page 
-Implementation report for draft-ietf-idr-sdwan-edige-discovery
+Implementation report for [draft-ietf-idr-sdwan-edige-discovery]
 (https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)
 
 ## Feature Support  
@@ -31,12 +31,13 @@ Implementation report for draft-ietf-idr-sdwan-edige-discovery
 |  7  | Simplified IPsec SA Sub – TLV	| Yes | Yes | 
 {.dense}
 
+
 ## Other implementations of SDWAN: 
 ### Arista:
 
-| Draft | Description | Arista veersion | 
-|---|---|---|
-| none | SAFI = 79  |  BGP-DPS (Dynamic Path Selection]
+| Draft | Description | Arista veersion | IANA Reference | 
+|---|---|---|---|
+| none | SAFI = 79  |  BGP-DPS (Dynamic Path Selection) | https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml | 
 use a new SAFI = 79 and 2 BGP Tunnel Encapsulation Attribute Tunnel Types:
 https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml
 …
