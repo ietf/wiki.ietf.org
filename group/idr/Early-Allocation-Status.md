@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T19:05:29.111Z
+date: 2023-05-21T19:08:53.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -19,9 +19,11 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 | IDR Draft | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|
-| [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | TLV code points 256-265, 512-515, 1024-1031 | 8/6/2023 | RFC editor queue (Misref) | 
+| [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | 
 
-| [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) | SAFI = 73 | 08-06-2021 | RFC editor queue (MISREF) | 
+| [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | TLV code points 256-265, 512-515, 1024-1031, 1088-1098, 1152-1181,  | 8/6/2023 | RFC editor queue (Misref) | 
+
+| [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) | xx | SAFI = 73 | 08-06-2021 | RFC editor queue (MISREF) | 
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | BGP TEN type = 15 | 08-06-2021 | RFC editor queue (MISREF) | 
 | 
 
