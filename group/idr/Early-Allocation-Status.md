@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T20:59:08.750Z
+date: 2023-05-21T21:04:11.944Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
