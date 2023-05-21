@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:31:13.457Z
+date: 2023-05-21T17:32:55.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -32,9 +32,6 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery](https://datatra
 
 ## Other implementations of SDWAN: 
 ### Arista:
-Document [1]: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
-BGP TEN = BGP tunnel encapsulation attribute 
-{.dense}
 
 | IETF Draft | Description | Arista veersion | IANA name |  contact | 
 |---|---|---|---| 
@@ -46,5 +43,9 @@ BGP TEN = BGP tunnel encapsulation attribute
 | none  | BGP TEN subTLV 194 | eos-4-26-2f | [IPSEC DIM  Sub-TLV](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs) | [Venkit_Kasiviswanathan] | 
 | none  | BGP TEN subTLV 195 | eos-4-26-2f | [IPSEC Key Exchange  Sub-TLV](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs) | [Venkit_Kasiviswanathan] | 
 | none  | BGP TEN subTLV 196 | eos-4-26-2f | [IPSEC SA Proposals  Sub-TLV](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#tunnel-sub-tlvs) | [Venkit_Kasiviswanathan] | 
+{.dense}
+
+Document [1]: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
+BGP TEN = BGP tunnel encapsulation attribute 
 {.dense}
 
