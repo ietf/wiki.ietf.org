@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T16:40:08.455Z
+date: 2023-05-21T16:45:58.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -33,10 +33,14 @@ Implementation report for [draft-ietf-idr-sdwan-edige-discovery]
 
 ## Other implementations of SDWAN: 
 ### Arista:
+Document: https://eos.arista.com/eos-4-26-2f/dps-vpn-scaling-using-bgp
 
-| Draft | Description | Arista veersion | IANA reference | IANA reference | 
+| IETF Draft | Description | Arista veersion | IANA name | IANA reference | contact | 
 |---|---|---|---| 
-| none | SAFI = 79  |  BGP-DPS (Dynamic Path Selection]
+| none | SAFI = 79  |  eos-4-26-2f | BGP-DPS (Dynamic Path Selection) | https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml | 
+| none | BGP Tunnel type 22 | Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Venkit_Kasiviswanathan] | 
+| none | BGP Tunnel type 24 | Dynamic Path Selection (DPS) Tunnel Encapsulation | https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml | [Sarah_Chen] | 
+
 use a new SAFI = 79 and 2 BGP Tunnel Encapsulation Attribute Tunnel Types:
 https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml
 …
