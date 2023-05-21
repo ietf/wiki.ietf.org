@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T21:27:55.918Z
+date: 2023-05-21T21:31:14.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -18,7 +18,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 
 ## Approved Early Allocations  - drafts at RFC editor
-### draft-ietf-idr-bgpls-srv6-ext and draft-ietf-idr-7752bis
+### draft-ietf-idr-bgpls-srv6-ext
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI Types](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | SRv6 SID NLRI | Type 6 |   8/6/2023 |  RFC Editor MISREF | 
@@ -31,6 +31,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | SRv6 Endpoint Behavior  | TLV code 1250 | 8/6/2023 | RFC Editor MISREF |
 | [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) |  SRv6 BGP Peer Node SID   | TLV code 1251 | 8/6/2023 | RFC Editor MISREF |
 | [draft-ietf-idr-bgpls-srv6-ext-14](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-srv6-ext/) | [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) |  SRv6 SID Structure | TLV code 1252 | 8/6/2023 | RFC Editor MISREF | 
+{.dense}
+###  draft-ietf-idr-7752bis
+| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
+|---|---|---|---|---|---|
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Local Node Descriptors | TLV code 256   | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Remote Node Descriptors | TLV code 257   | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Link Local/Remote Identifiers | TLV code 258   | 8/6/2023 | RFC editor queue (Misref) |
@@ -71,8 +75,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | OSPF Forwarding Address | TLV code 1156 | 8/6/2023 | RFC editor queue (Misref) | 
 | [draft-ietf-idr-rfc7752bis-16](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rfc7752bis-16)| [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | Opaque Prefix Attribute | TLV code 1157 | 8/6/2023 | RFC editor queue (Misref) |
 {.dense}
-## Approved Early Allocations - drafts at IESG 
-
+## Approved Early Allocations - drafts at IESG - AD queue 
+### draft-ietf-idr-segement-routing-te-policy 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) | [Subsequent Address Family Identifiers (SAFI) Parameters](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | SR TE Policy SAFI | SAFI=73 | 5/20/2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |  
@@ -88,6 +92,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-segment-routing-te-policy](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)  | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-20-2024 | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 {.dense}
 
+## Approved Early Allocations - WG drafts 
+### draft-ietf-idr-bgp-ls-isis-flood-reflection 
+| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
+|---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)  |  [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) |   IS-IS Flood Reflection | TLV Code 1160  |  1/2/2023 |  
 {.dense}
 
