@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T21:05:15.105Z
+date: 2023-05-21T21:05:44.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -17,7 +17,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 {.dense}
 
 
-## Approved Early Allocations  
+## Approved Early Allocations  - drafts at RFC editor
 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
