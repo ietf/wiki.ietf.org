@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-21T22:45:27.884Z
+date: 2023-05-21T22:46:07.068Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -125,7 +125,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [Capability Codes](https://www.iana.org/assignments/capability-codes/capability-codes.xhtml#capability-codes-2) |  Long-Lived Graceful Restart (LLGR) Capability | 71 | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [BGP Well-known Community](https://www.iana.org/assignments/bgp-well-known-communities/bgp-well-known-communities.xhtml) |  LLGR_STALE  | 0xFFFF0006 | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) | 
 | [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | [BGP Well-known Community](https://www.iana.org/assignments/bgp-well-known-communities/bgp-well-known-communities.xhtml) |  NO_LLGR  | 0xFFFF0007 | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
-| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | **New registry: ** Long-lived Graceful Restart Flags for Address Family (0-7 bits) | Bit 0 | (F flag) | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
+| [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/draft-ietf-idr-long-lived-gr/) | New registry: Long-lived Graceful Restart Flags for Address Family (0-7 bits) | Bit 0 | (F flag) | TBD | IESG Publication [AD Queue](https://datatracker.ietf.org/doc/ad/andrew.alston) |
 {.dense}
 
 ## Approved Early Allocations - WG drafts 
