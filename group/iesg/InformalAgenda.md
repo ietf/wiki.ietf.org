@@ -2,14 +2,14 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-05-18T13:57:11.324Z
+date: 2023-05-23T14:16:34.345Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 18, 2023 (canceled)
- There will be **NO** meeting on this date.
+# Informal Telechat - June 1, 2023 (IETF 117 BoF Coordination Call)
+ There will be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -27,9 +27,6 @@ Meeting password: 1234
 
 
 ## Regrets
-
-* Éric Vyncke (Ascension day is off in Belgium)
-* Erik Kline (partial; first hour conflicts with work meeting)
 * 
 
 ## Agenda
@@ -47,7 +44,8 @@ Note that this page is public.
 Please use your best judgement to add new items into one of the categories below.
 
 #### Urgent and important
-* TOPIC (NAME)
+* BoF Coordination Call with the IAB 
+    * [Current BoF Requests](https://datatracker.ietf.org/doc/bof-requests)
 
 * TOPIC (NAME)
 
