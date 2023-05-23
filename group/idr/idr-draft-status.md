@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-23T15:07:47.112Z
+date: 2023-05-23T15:08:49.140Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -79,7 +79,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-bgp-model-16  |  Jie Dong   | none  | Await missing IPR | Await Implementations |  4/11 to 5/26/2023 | 4 weeks | 5/26/2023  |
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  |  4 implementation (info)  |  WG LC      |  TBD       |  4/24/2023    |  4/14 to 4/24/2023 | 5/26/2023 | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  |  4 (info draft)  |  WG LC      |  TBD       |  4/24/2023    |  4/14 to 4/24/2023 | 5/26/2023 | 
 {.dense}
 
 ## WG LC Pending
