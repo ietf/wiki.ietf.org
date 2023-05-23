@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-23T18:55:53.488Z
+date: 2023-05-23T19:26:53.348Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -102,13 +102,13 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-ietf-idr-bgp-sendholdtimer  |  Susan Hares  |  Missing IPR (Cartwright)  | WG Draft    | 5/5/2023 | 2/28 to 3/28/2023     |  5/5       |  
 {.dense}
 
-## In WG Adoption Process (Chairs reviews)
+## In WG Adoption Process (IDR Chairs review)
 |  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
-|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  |  In Chairs review   |  TBD |  12/23 to 1/13    |  2/28           |  3/8    |
-|  draft-zhou-idr-bgp-srmpls-elp-03  |  Susan Hares | chairs review   |  TBD  | 1/27 to 3/8    |  3           |  3/8    |
-|  draft-dong-idr-sr-policy-nrp-01   |  Susan Hares  |  Held for review   |  uploaded        |  3/1 to 3/28      |  3/17           |  4/10   |
-|  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption     |  4/12-5/12      |  5/12    |   5/18       |
+|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  |  In Chairs review   |  TBD |  12/23 to 1/13    |  2/28           |  5/26   |
+|  draft-zhou-idr-bgp-srmpls-elp-03  |  Susan Hares | chairs review   |  TBD  | 1/27 to 3/8    |  3/8          |  5/26    |
+|  draft-dong-idr-sr-policy-nrp-01   |  Susan Hares  |  Held for review   |  uploaded        |  3/1 to 3/28      |  3/17           |  5/26   |
+|  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption     |  4/12-5/12      |  5/12    |   TBD       |
 {.dense}
 
 ## In WG Adoption Process (WG discussion)
