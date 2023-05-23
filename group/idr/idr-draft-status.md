@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-23T15:08:49.140Z
+date: 2023-05-23T15:53:47.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -15,8 +15,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | Name | Shepherd | RFC # | Status | Date | WG LC approval | IESG Review |
 |---|---|---|---|---|---|---|---|
   | | |
-| [draft-ietf-idr-bgp-ls-flex-algo](www.ietf.org/ | Jie Dong  |[RFC9351] | Published | 2-22-2023 | Nov-17-2020 | 827 days |
-| [draft-ietf-idr-bfd-subcode]  |  Keyur Patel | [RFC9384] | Published  | 3-24-2023 | Sep-10-2022      |  195 days |  
+| [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/rfc9351/) | Jie Dong  |[RFC9351](https://datatracker.ietf.org/doc/rfc9351/) | Published | 2-22-2023 | Nov-17-2020 | 827 days |
+| [draft-ietf-idr-bfd-subcode](https://datatracker.ietf.org/doc/rfc9384)  |  Keyur Patel | [RFC9384](https://datatracker.ietf.org/doc/rfc9384)  | Published  | 3-24-2023 | Sep-10-2022      |  195 days |  
 {.dense}
 
 ## At RFC Editor
