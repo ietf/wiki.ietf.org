@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-23T12:25:36.550Z
+date: 2023-05-23T13:34:45.015Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -79,17 +79,17 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-bgp-model-16  |  Jie Dong   | none  | Await missing IPR | Await Implementations |  4/11 to 5/26/2023 | 4 weeks | 5/26/2023  |
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  |  4 implementation (info)  |  WG LC                        |  TBD        |  TBD            |  4/14 to 4/24/23 | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  |  4 implementation (info)  |  WG LC      |  TBD       |  4/24/2023    |  4/14 to 4/24/2023 | 5/26/2023 | 
 {.dense}
 
 ## WG LC Pending
 
 | draft | Shepherd     |  implementation status    |  Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA               |
 |---|---|---|---|---|---|---|---|---|
+| draft-ietf-idr-sdwan-edge-discovery-08 | TBD | 2+ implementations | WG LC | TBD | TBD | TBD | 
 |  draft-ietf-idr-sr-policy-fit-03         |  Susan Hares  |  0 implementations        |  IPR + implementation report  |  TBD        |  TBD            |  TBD                    |
 | draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | 0 implementations         |  WG LC    |   TBD   |  TBD |  TBD | 
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  |  Awaiting -03 revision    |  WG LC                        |  TBD         |  TBD            |  TBD                     |
-| draft-ietf-idr-sdwan-edge-discovery-08 | TBD | implementation report | WG LC | TBD | TBD | TBD | 
 {.dense}
 
 ## Adopted
