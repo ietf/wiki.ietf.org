@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-23T15:50:20.165Z
+date: 2023-05-23T15:51:22.740Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -13,7 +13,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  IANA Link | Status|       
 |---|---|---|---|---|---|---|
-|draft-ietf-idr-car-01 (RFC9029) |	TBD | TBD | TBD | TBD	| 	
+|draft-ietf-idr-car-01 (RFC9029) |	TBD | TBD | TBD | TBD	| WG chair | 
+|draft-ietf-idr-ct-01 | TBD | TBD | TBD | TBD | WG chair | 
 {.dense}
 
 
