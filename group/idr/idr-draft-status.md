@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-05-23T19:36:49.440Z
+date: 2023-05-23T19:41:27.646Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -114,7 +114,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-|  draft-draft-chen-idr-tcp-user-timeout-01    |  Susan Hares  |  Adoption and IPR call  |  TBD        |   5/5-5/26    |  TBD  | 5/26 | 
+|  draft-chen-idr-tcp-user-timeout-01    |  Susan Hares  |  Adoption and IPR call  |  TBD        |   5/5-5/26    |  TBD  | 5/26 | 
 
 {.dense}
 
@@ -127,7 +127,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-peng-idr-segment-routing-te-policy-attr | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 
 | draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | 
 | draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 
-|  draft-wu-idr-bgp-segment-allocation-ext-08  |  Susan Hares  |  on hold                |  IPR check  |  TBD                 |  TBD             |  on hold    |
+|  draft-wu-idr-bgp-segment-allocation-ext-08  |  Susan Hares  |  on hold   |  IPR check  |  TBD    |  TBD             |  on hold    |
 {.dense}
 
 
