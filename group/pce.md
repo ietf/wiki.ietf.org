@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-05-24T09:07:26.427Z
+date: 2023-05-24T20:20:40.493Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -49,9 +49,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
 | draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
 | draft-ietf-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; Comments received during adoption needs to be handled | Was Dhruv |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05; -02 posted on 2022-07-06 that handles WG adoption comments  | Was Dhruv |
-
 
 ## Other WG I-Ds
 
@@ -68,8 +65,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -01 posted on 2022-07-07 | More review requested |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Adopted on 2022-02-22; Comments received during WG adoption are pending | - |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
-
-
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05; -02 posted on 2022-07-06 that handles WG adoption comments  | - |
+| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; Comments received during adoption are pending | - |
 
 ## WG documents that authors consider ready for LC
 
