@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-05-24T09:17:55.660Z
+date: 2023-05-24T09:19:13.618Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -69,6 +69,7 @@ Shepherd's name indicated within parenthesis.
 ## Documents under Shepherd's review
 
 - draft-ietf-bess-evpn-redundant-mcast-source (Mankamana)
+	- RTGDIR review in progress
 
 - draft-ietf-bess-bgp-sdwan-usage (Matthew)
   - RTGDIR review done
