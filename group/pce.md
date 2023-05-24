@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-05-24T20:20:40.493Z
+date: 2023-05-24T20:33:25.386Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -99,7 +99,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-pcep-stateful-pce-gmpls | AD review done, pending authors update| Sent to IESG on 2022-06-30 | Dhruv |
+| draft-ietf-pce-pcep-stateful-pce-gmpls | AD review done. -21 posted 2023-05-10 to address AD comments | IETF Last Call ends 2023-05-29 | Dhruv |
 | draft-ietf-pce-local-protection-enforcement |  AD review done, Andrew responded, awaiting a new version to be posted | Sent to IESG on 2022-08-09 | Julien |
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
