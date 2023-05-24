@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-05-11T21:50:38.670Z
+date: 2023-05-24T06:45:34.639Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -28,6 +28,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [bess *BGP Enabled ServiceS*](/group/bess)
 - [bier *Bit Indexed Explicit Replication*](/group/bier)
+- [cats *Computing-Aware Traffic Steering*](/group/cats)
 - [ccamp *Common Control and Measurement Plane*](/group/ccamp)
 - [cfrg *Crypto Forum*](/group/cfrg)
 - [coinrg *Computing in the Network*](/group/coinrg)
