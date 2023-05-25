@@ -2,7 +2,7 @@
 title: Contact Details for the Routing Area Directorate
 description: 
 published: true
-date: 2022-12-21T23:04:00.095Z
+date: 2023-05-25T10:08:46.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:03:56.374Z
@@ -22,8 +22,8 @@ Or contact them direct:
 ## Routing Directorate Coordinators 
 
 The Routing Area Directorate is coordinated by:
- * Amy Min
- * Luc Burdet
+ * Haomian Zheng (zhenghaomian at huawei . com)
+ * Luc Burdet (lburdet at cisco . com)
 
 ## Mailing List 
 
