@@ -2,7 +2,7 @@
 title: Contact Details for the Routing Area Directorate
 description: 
 published: true
-date: 2023-05-25T10:08:46.519Z
+date: 2023-05-25T10:09:33.358Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:03:56.374Z
@@ -16,8 +16,8 @@ Contact the [Routing ADs](mailto:rtg-ads@tools.ietf.org)
 
 Or contact them direct:
  * Andrew Alston
- * Alvaro Retana
  * John Scudder
+ * Jim Guichard
 
 ## Routing Directorate Coordinators 
 
