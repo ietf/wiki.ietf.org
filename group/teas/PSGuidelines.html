@@ -1,0 +1,78 @@
+<!--
+title: Some informal guidance for standards track protocol specifications (Old)
+description: Informal PS Guidance 
+published: true
+date: 2023-05-26T12:30:17.402Z
+tags: 
+editor: ckeditor
+dateCreated: 2023-05-26T12:30:17.402Z
+-->
+
+<p><i><strong>This was imported from the old wiki and has not been updated in many years.</strong></i></p>
+<h1><strong>Some informal guidance for standards track protocol specifications</strong></h1>
+<p>This page is intended to capture current best practices for protocol specifications produced by the WG. The intent is for this page to evolve as WG contributors find topics to correct and new topics to add or remove. The page was started by Lou Berger, but any and all should feel free to modify.</p>
+<p>A protocol specification defines formats (i.e., syntax) and related processing procedures (i.e., semantics). The objective of a standards track protocol specification is to ensure interoperable function across multiple independent implementations. <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2026#section-4.1">​RFC2026</a> and its related updates provides the formal definition and process for IETF RFCs.</p>
+<h2><strong>1. RFC Editorial Guidelines and Procedures</strong></h2>
+<p>The RFC editor has published guidelines and procedures, read them <a href="https://web.archive.org/web/20220606171729/https://www.rfc-editor.org/policy.html">​here</a>.</p>
+<p>Please read and follow <a href="https://web.archive.org/web/20220606171729/https://www.rfc-editor.org/policy.html#policy.authlist">​RFC Editor’s limit on number of authors</a>.</p>
+<h2><strong>2. Informative vs Normative Text</strong></h2>
+<p>A specification should include both informative and normative text.</p>
+<p>Informative text provides a narrative on the function / mechanisms defined in the document, generally covering:</p>
+<blockquote>
+  <p>(a) their motivation;<br>(b) an overview of the function provided and new definitions;<br>(c) and a more detailed description of new mechanisms and their operation.<br>&nbsp;</p>
+</blockquote>
+<p>Of course there is a balance that needs to be struck between providing informative context and the actual protocol specification.</p>
+<p>Normative text defines formats used "on the wire" and the related processing procedures. Normative text provides conformance language using <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> defined terms to ensure independent interoperable implementations.</p>
+<h3><strong>2.1. When to (not) use </strong><a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119"><strong>​RFC2119</strong></a><strong> terminology</strong></h3>
+<p><a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> defined terms are used to ensure independent interoperable implementations. If text doesn't impact interoperability, it shouldn't include <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> defined terms.</p>
+<p>A general rule to follow is that <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> terminology should only apply to something which can be tested. In other words, if a conformance test can't be devised to match the related text, <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> terminology isn't appropriate.</p>
+<p>Informative narrative should never use <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> defined terms. Their use is appropriate in definitions of formats (i.e., syntax) and the related processing procedures (i.e., semantics).</p>
+<p>Consider if you want to avoid lower case versions of the terms as you’ll inevitably be asked if you made a mistake in not capitalizing the text – even in informative text. Alternatively, you may choose to look forward to telling the reviewer/WG Chair/AD/etc. that they are confused!</p>
+<h3><strong>2.2. Selecting a </strong><a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119"><strong>​RFC2119</strong></a><strong> conformance term</strong></h3>
+<p>The choice of conformance terms needs to be considered carefully. When choosing between <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> conformance terms, e.g., between “MAY”, “SHOULD”, and “MUST” (“NOT”), the impact to interoperability needs to be considered.</p>
+<h4><strong>2.2.1 MAY” or “SHOULD” (“NOT”)</strong></h4>
+<p>The terms “MAY” or “SHOULD” (“NOT”) can be used to define different possible behaviors as well as essentially optional function sub-sets. In general, optional functions in an RFC are to be avoided. Consider the case where functionality is referenced via an RFC number, when there are optional functions defined in that RFC, the RFC number alone is insufficient to identify the function or to ensure interoperable implementations of the RFC. Options should be removed from a document and either dropped or separately standardized.</p>
+<p>When using “MAY” or “SHOULD” (“NOT”) the implications of one implementation making one choice interoperating with an implementation that makes that opposite choice needs to be considered. When there are implications, the implications must be specifically documented.</p>
+<p>It is also important to consider the impact on the defined function. For example if only “SHOULDs” are used by an RFC defining a protocol extension, any implementation that existed prior to the RFC can be considered to be compliant with that RFC – just one that implements the non-recommended form of the RFC.</p>
+<h4><strong>2.2.2. “MUST” (“NOT”) / “RECOMMENDED”</strong></h4>
+<p>It is appropriate to use “MUST” (“NOT”), or (“NOT”) “RECOMMENDED” when specifying behavior “on the wire” that is required to deliver the function being defined. Here too, a <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> defined term is used only to insure interoperability between implementations.</p>
+<h3><strong>2.3. Examples</strong></h3>
+<p>Examples are very helpful, both in general terms in relation to informative text and in specifics related to defined formats and procedures. But examples should never be used as a replacement for either informative or normative text.</p>
+<h2><strong>3. Terminology</strong></h2>
+<p>Use and reference existing terminology wherever and whenever possible. Avoid introducing new terms/terminology. Particularly when there are existing terms - even if you don’t like or agree with them. If you really have something new, see if a qualified existing term can be used, e.g., TE LSPs.</p>
+<h2><strong>4. References</strong></h2>
+<p>A reference is needed at least the first time an existing technology/mechanism or technical term is used - and at the point it is used. This ensures that there is an unambiguous interpretation of the documents meaning and also highlights new definitions in the document.</p>
+<h3><strong>4.1. Normative vs. Informative References</strong></h3>
+<p>The references section needs to be broken down into normative and informative references. Basically if the referenced material defines a protocol format or mechanism that is required in order to implement the mechanisms defined in the (your) document, the reference should be normative. If the reference just provides background material, it is informative. A rule of thumb, a reference that is itself of informative category, will be an informative reference. One can not reference an informational RFC as normative (this is called a down reference). Be careful in your selection of references, especially informative. This is not intended to be a google of all "information". And it is not intended to give visibility/citation credits to your favorite conference/research paper.</p>
+<h2><strong>5. Definitions</strong></h2>
+<p>A protocol specification defines formats (i.e., syntax) and related processing procedures (i.e., semantics).</p>
+<h3><strong>5.1. Format Definitions</strong></h3>
+<p>When defining new protocol formats, the formats need to be fully defined. Both format and field definitions are required. Separate formats should be provided for IPv4 and IPv6 formats. Every field, with their lengths should be explicitly defined. When introducing sub-objects/TLVs, their formats need to be fully specified. This includes the meaning, size and required processing of T(ype) and L(ength) fields. When possible, definition by reference is preferred.</p>
+<p>Valid ranges and values of fields defined in the document must be defined. This is true even when new IANA registries are to be defined related to the fields, i.e., initial values are defined in the document not by IANA.</p>
+<p>Don’t forget to include ABNF when modifying protocols that were defined using it, e.g., RSVP.</p>
+<h3><strong>5.2. Processing Procedure (aka Behavior) Definitions</strong></h3>
+<p>Formal processing procedures must be included for all formats and new mechanisms defined in a document. <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> language must be used to ensure interoperable implementation. Ensure that you state what processing is and is not allowed/optional.</p>
+<h4><strong>5.2.1. Error Definitions</strong></h4>
+<p>Error processing, and when appropriate, messaging must be included for errors that may impact interoperability. For example, how should a receiving node behave when an expected information element (Object, flag, etc.) is missing, or when a duplicate or unexpected expected information element (Object, flag, etc.) is received.</p>
+<h3><strong>5.3 Duplicate / Redundant Definitions</strong></h3>
+<p>Do not repeat definitions or required processing in multiple places. This is true within a document, i.e., only has one place where syntax and semantics is formally defined (with <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2119">​RFC2119</a> language).</p>
+<h3><strong>5.4 Compatibility</strong></h3>
+<p>When extending existing protocols it is necessary to describe how the defined extension will interoperate with non-supporting implementation. Keep in mind that the document defining an extension cannot define behavior of an implementation that existed before, or doesn’t support, the extension.</p>
+<h2><strong>6. Security Considerations</strong></h2>
+<p>Please don’t just say that your document doesn’t have any additional considerations. Identify the new information carried in the protocol and the new types of functions supported. Explore how new information and functions can be exploited. Related discussions in existing RFCs/documents should be referenced. When exploitation can be ameliorated through a document approach, please reference it. When this isn’t the case, there needs to be at least some discussion of mitigation.</p>
+<h2><strong>7. IANA Considerations</strong></h2>
+<p>IANA Considerations sections must follow <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc2360">​RFC2360</a>. Recommended values should no longer be included anywhere in a draft.</p>
+<p>Additions to existing registries should provide the URL to the registry and provide information for all fields in the registry, in the format of the registry. See <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/draft-ietf-ccamp-wson-signaling-10#section-6">​https://tools.ietf.org/html/draft-ietf-ccamp-wson-signaling-10#section-6</a> here] for a recent example.</p>
+<p>New registries must include initial values, which are defined in the document. The current practice is to use an allocation policy as follows:</p>
+<blockquote>
+  <p>The registry should be established with registration policies of "Standards Action" for Standards Track documents, and "Specification Required" for other documents. The designated expert is any current &lt;fill-in&gt; WG chair.</p>
+</blockquote>
+<p>Allocation policies can be found in <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc5226">​RFC5226</a>.</p>
+<h3><strong>7.1. Early Allocation</strong></h3>
+<p>Once your document is stable, feel free to talk with the Chair about making an early allocation request. Keep in mind there are <a href="https://web.archive.org/web/20220606171729/https://tools.ietf.org/html/rfc7120#section-2">​Conditions for Early Allocation</a>. Notably:</p>
+<ol>
+  <li>The specifications of these code points must be stable; i.e., if there is a change, implementations based on the earlier and later specifications must be seamlessly interoperable.</li>
+</ol>
+<h2><strong>8. ID Nits</strong></h2>
+<p>Run it. Fix errors. Decide if warnings need to be fixed.</p>
+<p>Also run spelling and grammar checking tools.</p>
