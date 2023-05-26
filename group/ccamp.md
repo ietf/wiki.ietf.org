@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2023-05-17T10:11:28.000Z
+date: 2023-05-26T15:24:06.748Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -39,7 +39,7 @@ Extension to the Link Management Protocol (LMP/DWDM -rfc4209) for Dense Waveleng
 
 **- draft-ietf-ccamp-dwdm-if-param-yang-09**
 A YANG model to manage the optical interface parameters for an external transponder in a WDM network
-> YANG doctor review requested, no reply yet.
+> YANG doctor review received, action needed: https://mailarchive.ietf.org/arch/msg/ccamp/7flbP3yQcUxelSSxg9FRFYUmCJA/
 
 
 **- draft-ietf-ccamp-eth-client-te-topo-yang-04**
