@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2023-01-05T00:05:13.359Z
+date: 2023-05-26T12:22:37.106Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -52,5 +52,3 @@ An IPR statement is to be sent to the list by any new author or contributor when
 
 ## Open informal meetings (driven by authors and contributors)
 
-#### ACTN POI Applicability
-#### TE Models - Design Discussion
