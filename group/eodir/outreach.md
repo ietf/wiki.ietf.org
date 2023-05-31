@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-05-31T13:36:41.317Z
+date: 2023-05-31T13:41:40.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,6 +52,7 @@ This table collects the various IETF outreach activities done by individuals to 
 | Feb 2023 | [FOSDEM](https://fosdem.org/2023/) | Open source community | knowledge sharing | Charles Eckel | [Creating Clear Linkage between Open Source and Standards](https://fosdem.org/2023/schedule/event/uncover_missing_link/)|
 |Nov 2022| [Alongside IETF115](https://cdt.org/event/cdt-and-article-19-connecting-internet-protocols-and-standards-with-policy/)|industry actors, technologists, policy makers, civil society, and academia|supporter|CDT and Article 19|[Recording](https://www.youtube.com/watch?v=VjkTesGsnBs&feature=youtu.be&ab_channel=419ConsultingLimited)| 
 |Sept 2022|[APNIC55](https://conference.apnic.net/54/program/schedule/#/day/7/apnic-technical-session-4)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|Introduction to IETF, IETF participation in the region, and sharing the latest development at IETF 114 [Link](https://conference.apnic.net/54/assets/files/APSG129/ietfroundupforapnic5_1663123974.pdf)|
+|Aug 2022|SAFNOG 7| South African Nations NOG|Knowledge Sharing|Andrew Alsten|[Video](https://www.youtube.com/watch?v=mz-yGiO5Sxg)|
 |Aug 2022|[APIGA2022](https://community.icann.org/display/GSEAPAC/APIGA+2022+Program)|Students|knowledge sharing|Dhruv Dhody|Sharing about IETF's way of working in a multi-stakeholder environment [Link](https://docs.google.com/presentation/d/1l7AdC9qTRcyh4Dv9AdvGZMB9Nqqp-8JweR7LCOyGnK8/edit?usp=sharing)|
 |July 2022|[SANOG38](https://www.sanog.org/sanog38/program.html)|Network Operators in South Asia|full participation|Dhruv Dhody|Why operator participation from the region is low [Link](https://www.sanog.org/resources/sanog38/SANOG38_Conference-Dhruv_IETF.pdf)|
 |April 2022|[Connections 2022](https://www.connections.iiesoc.in/abstract)|India|full participation|Dhruv Dhody|[pre-Event](https://www.youtube.com/watch?v=PdZlnNGBKZo&ab_channel=IIESoc)|
