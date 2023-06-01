@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-05-30T14:58:31.354Z
+date: 2023-06-01T19:38:23.359Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -114,7 +114,7 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-rfc7432bis
  
 ## Recently adopted documents
-*  draft-ietf-bess-weighted-hrw-00 
+
 
 
 ## Documents candidates for Working Group adoption
@@ -130,7 +130,7 @@ Shepherd's name indicated within parenthesis.
 
 
 ## Documents that failed WG adoption
-
+* draft-wang-bess-sbfd-discriminator
 
 
 ## Working group document status
@@ -141,15 +141,14 @@ Shepherd's name indicated within parenthesis.
 |draft-ietf-bess-rfc7432bis-06 | 3/2/23 | Update and mailing list discussion ongoing |
 |draft-ietf-bess-bgp-multicast-03 | 3/2/23 | Expired draft, authors updating  |
 |draft-ietf-bess-bgp-multicast-controller-06 | 3/2/23 | Checking with authors |
-|draft-ietf-bess-evpn-mh-pa-01 | 3/2/23 | Rtgdir early review |
 |draft-ietf-bess-evpn-bfd-03 | 3/2/23 | Authors being asked, expired document  |
 |draft-ietf-bess-ipv6-only-pe-design-03 |3/6/23| waiting for authors comment |
-| draft-ietf-bess-weighted-hrw-00 | 3/6/23 | recently adopted document |
 |draft-ietf-bess-end-system-requirements-00 | 3/6/23 | parked document |
 |draft-ietf-bess-evpn-modes-interop | 3/6/23 | Expired, checking with authors |
 |draft-ietf-bess-evpn-mvpn-seamless-interop-04 | 3/6/23 | Expired, authors working on updating the draft |
 |draft-ietf-bess-evpn-virtual-hub | 3/6/23 | Expired, checking with authors |
 |draft-ietf-bess-mvpn-evpn-sr-p2mp | 3/6/23 | Update in progress based on SPRING WG comments |
+|draft-ietf-bess-weighted-hrw-00| 6/1/23 | update in progress |
 
 {.dense}
 
