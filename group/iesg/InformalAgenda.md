@@ -2,14 +2,14 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-05-31T21:51:27.895Z
+date: 2023-06-02T16:18:10.717Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - June 1, 2023 (IETF 117 BoF Coordination Call)
- There will be a meeting on this date.
+# Informal Telechat - June 15, 2023 (Go/No Go for the Proposed BoFs at IETF 117)
+ There **will be** a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -27,10 +27,7 @@ Meeting password: 1234
 
 
 ## Regrets
-* Éric Vyncke, on PTO...
-* Alvaro Retana
-* Tommy Pauly
-* Erik Kline (available from start of 2nd hr onwards)
+* 
 
 ## Agenda
 
@@ -47,8 +44,12 @@ Note that this page is public.
 Please use your best judgement to add new items into one of the categories below.
 
 #### Urgent and important
-* BoF Coordination Call with the IAB 
-    * [Current BoF Requests](https://datatracker.ietf.org/doc/bof-requests)
+* Go/No Go for IETF 117 BoFs
+    * CCWG - Proposed Working Group on agenda for June 22 for approval
+    * DULT - Proposed BoF
+    * IVY - was NIMBY - Proposed Working Group
+    * KEYTRANS - 
+    * MLCODEC - Proposed Working Group 
 
 * TOPIC (NAME)
 
