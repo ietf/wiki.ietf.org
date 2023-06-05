@@ -2,7 +2,7 @@
 title: Hacknet Instructions
 description: 
 published: true
-date: 2023-04-18T14:34:56.112Z
+date: 2023-06-05T18:41:04.387Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:34:51.315Z
@@ -159,4 +159,4 @@ If you are successfully connected, you will receive a 100.199.x.x address.
 
 If you have not successfully connected, you will want to Factory Reset the Tik https://wiki.mikrotik.com/wiki/Manual:Reset and repeat the steps above. 
 
-For further support email tickets@meeting.ietf.org
+For further support email support@ietf.org
