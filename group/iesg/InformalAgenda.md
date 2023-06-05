@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-06-02T16:18:10.717Z
+date: 2023-06-05T17:09:33.085Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -58,7 +58,7 @@ Please use your best judgement to add new items into one of the categories below
 *
 
 #### Important but not urgent
-* 
+* [Clash List Review](https://www.ietf.org/how/meetings/planning/clash-list/) (Jay, Lars)
 
 #### Not important and not urgent
 * 
