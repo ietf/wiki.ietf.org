@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-04T14:55:54.395Z
+date: 2023-06-05T18:53:59.834Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -143,6 +143,9 @@ If you received the email but the link to create an account has expired, please 
 The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
 
 * [How to Instructions](hacknet_instructions)
+
+Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
+All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
 {.links-list}
   
 ## <a id="Webexsessionsforteams"></a>Webex sessions for teams
