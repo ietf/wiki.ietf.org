@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-06T17:48:48.183Z
+date: 2023-06-06T17:52:27.135Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -220,8 +220,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   c) modify stacks to support the space use case (specially for disruptions), d) if relevant, 
   write internet-draft for findings and possible modifications/extensions to QUIC.
   An initial POC was done with Christian Huitema (see below) with his picoquic stack. 
-  We would like to go further with more QUIC stacks such as Mozilla Neqo or Google Quiche 
-  or Cloudflare Quiche or else.
+  We would like to go further with more QUIC stacks such as Mozilla Neqo (in RUST) or 
+  Google Quiche(in C++) or Cloudflare Quiche (in RUST) or else.
 - ** Additional Info **
   - https://www.privateoctopus.com/2023/02/07/quic-to-mars.html
   
