@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-05T18:53:59.834Z
+date: 2023-06-06T17:48:48.183Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -207,12 +207,23 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project site**
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-03.md
   
-### Your Project Name
+### QUIC in Space
 - **Champion(s)**
-  - Your Name (email at domain.com)
+  - Marc Blanchet (marc.blanchet at viagenie.ca)
 - **Project Info**
-  - Your project description here
-  
+  - Space comm has loooong delays (minutes to hours) and disruptions. Purpose of the project
+  is to modify open-source QUIC stacks to be usable for this use case. QUIC stacks typically
+  have low initial values to prime the initial communications, which does not fit with long delays
+  and make various assumptions not optinal for space comm. Goal of this project is to: 
+  a) externalize these static values so they could be changed at start or while running, 
+  b) set a testbed to test with long delays and verify use
+  c) modify stacks to support the space use case (specially for disruptions), d) if relevant, 
+  write internet-draft for findings and possible modifications/extensions to QUIC.
+  An initial POC was done with Christian Huitema (see below) with his picoquic stack. 
+  We would like to go further with more QUIC stacks such as Mozilla Neqo or Google Quiche 
+  or Cloudflare Quiche or else.
+- ** Additional Info **
+  - https://www.privateoctopus.com/2023/02/07/quic-to-mars.html
   
  ### Your Project Name
 - **Champion(s)**
