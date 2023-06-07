@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-07T00:40:46.907Z
+date: 2023-06-07T10:28:44.057Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -232,6 +232,22 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Quinn: https://github.com/quinn-rs/quinn
   - Linux Netem (to introduce delay): https://man7.org/linux/man-pages/man8/tc-netem.8.html
   - MacOSX Network Link Conditioner (to introduce delay): https://medium.com/@itsanurag/simulate-low-network-with-network-link-conditioner-a1a7f14423b6
+  
+### Attestation and TLS
+- **Champion(s)**
+  - Thomas Fossati (thomas.fossati at arm.com)
+  - Paul Howard (paul.howard at arm.com)
+  - Yogesh Deshpande (yogesh.deshpande at arm.com)
+  - Ionut Mihalcea (ionut.mihalcea at arm.com)
+- **Project Info**
+  - TLS extensions to support attestation as first-class authentication credentials
+  - End-to-end demonstrator with attester, verifier and relying party
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-fossati-tls-attestation
+  - https://datatracker.ietf.org/doc/html/draft-bft-rats-kat
+  - https://datatracker.ietf.org/doc/html/draft-ftbs-rats-msg-wrap
+- **Code**
+  - https://github.com/CCC-Attestation/attested-tls-poc
   
  ### Your Project Name
 - **Champion(s)**
