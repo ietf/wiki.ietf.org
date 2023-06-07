@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-06T17:52:27.135Z
+date: 2023-06-07T00:40:46.907Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -210,8 +210,9 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ### QUIC in Space
 - **Champion(s)**
   - Marc Blanchet (marc.blanchet at viagenie.ca)
+  - Christian Huitema (huitema at huitema.net)
 - **Project Info**
-  - Space comm has loooong delays (minutes to hours) and disruptions. Purpose of the project
+  - (Deep) Space comm has loooong delays (minutes to hours) and disruptions. Purpose of the project
   is to modify open-source QUIC stacks to be usable for this use case. QUIC stacks typically
   have low initial values to prime the initial communications, which does not fit with long delays
   and make various assumptions not optinal for space comm. Goal of this project is to: 
@@ -220,10 +221,17 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   c) modify stacks to support the space use case (specially for disruptions), d) if relevant, 
   write internet-draft for findings and possible modifications/extensions to QUIC.
   An initial POC was done with Christian Huitema (see below) with his picoquic stack. 
-  We would like to go further with more QUIC stacks such as Mozilla Neqo (in RUST) or 
-  Google Quiche(in C++) or Cloudflare Quiche (in RUST) or else.
+  We would like to go further with more QUIC stacks such as Mozilla Neqo (in Rust) or 
+  Google Quiche(in C++) or Cloudflare Quiche (in Rust) or picoquic(in C) or QUINN (in Rust).
 - ** Additional Info **
-  - https://www.privateoctopus.com/2023/02/07/quic-to-mars.html
+  - POC: https://www.privateoctopus.com/2023/02/07/quic-to-mars.html
+  - Mozilla Neqo: https://github.com/mozilla/neqo
+  - Cloudflare Quiche: https://github.com/cloudflare/quiche
+  - Google Quiche: https://github.com/google/quiche
+  - Huitema Picoquic: https://github.com/private-octopus/picoquic
+  - Quinn: https://github.com/quinn-rs/quinn
+  - Linux Netem (to introduce delay): https://man7.org/linux/man-pages/man8/tc-netem.8.html
+  - MacOSX Network Link Conditioner (to introduce delay): https://medium.com/@itsanurag/simulate-low-network-with-network-link-conditioner-a1a7f14423b6
   
  ### Your Project Name
 - **Champion(s)**
