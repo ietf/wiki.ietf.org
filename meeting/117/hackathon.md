@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-08T13:21:55.482Z
+date: 2023-06-08T13:25:35.168Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -269,6 +269,17 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
+  
+  ### Interfaces of the OSCORE Group Manager
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - User and admin interface of the OSCORE Group Manager based on the ACE framework
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-ietf-ace-oscore-gm-admin/
+  - https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/
+  - https://datatracker.ietf.org/doc/rfc9200/
+  - https://datatracker.ietf.org/doc/rfc9203/
   
  ### Your Project Name
 - **Champion(s)**
