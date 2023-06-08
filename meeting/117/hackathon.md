@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-08T13:25:35.168Z
+date: 2023-06-08T18:14:01.572Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -280,6 +280,34 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/
   - https://datatracker.ietf.org/doc/rfc9200/
   - https://datatracker.ietf.org/doc/rfc9203/
+
+
+ ### PQ in X.509, Signatures, KEMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Mike Ounsworth (mike.ounsworth@entrust.com)
+Tomofumi Okubo (tomofumi.okubo@digicert.com)
+Massimiliano Pala (m.pala@cablelabs.com)
+Julien Prat (julien.prat@cryptonext-security.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
+https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-keys/
+https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-kem/
+https://www.ietf.org/id/draft-housley-lamps-cms-kemri-00.html
+https://datatracker.ietf.org/doc/draft-becker-guthrie-cert-binding-for-multi-auth/
+TODO: TOMO to add Cert discovery draft
+https://datatracker.ietf.org/doc/draft-bonnell-lamps-chameleon-certs/
+https://datatracker.ietf.org/doc/draft-gazdag-x509-hash-sigs/
+
+- **Project Info**
+Purpose is to make use of PQ in real world X.509 structures like keys, signatures, certificates and protocols. This will allow us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage in the real world.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+  
   
  ### Your Project Name
 - **Champion(s)**
