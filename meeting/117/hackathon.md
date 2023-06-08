@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-07T10:28:44.057Z
+date: 2023-06-08T13:21:55.482Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -248,6 +248,27 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/html/draft-ftbs-rats-msg-wrap
 - **Code**
   - https://github.com/CCC-Attestation/attested-tls-poc
+  
+  ### EDHOC
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+  - Rikard Höglund (rikard.hoglund at ri.se)
+- **Project Info**
+  - Establish keying material for OSCORE using the EDHOC protocol
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
+  - https://datatracker.ietf.org/doc/rfc8613/
+  
+  ### CoAP Group Communication with Group OSCORE
+- **Champion(s)**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Message exchange of group messages protected with Group OSCORE
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
   
  ### Your Project Name
 - **Champion(s)**
