@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-08T18:14:01.572Z
+date: 2023-06-09T09:03:43.721Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -309,11 +309,11 @@ A good starting place is our Github repository: https://github.com/IETF-Hackatho
 For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
   
   
- ### Your Project Name
+ ### Security Alert Standard Protocol (SASP) 
 - **Champion(s)**
-  - Your Name (email at domain.com)
+  - Avi Wolicki (avi at benchlabs.xyz)
 - **Project Info**
-  - Your project description here
+  - The initiative of the Security Alert Standard (SASP) protocol is to define a standard method of communicating discovered security risks to an aggregated location. For example, endpoint security vendors may want to communicate to a ticketing system some discovered security weakness. To do so, they will be able to use a standard message to communicate the alert to a different vendor supplying the ticketing system. By allowing a standard, communication between security vendors can be seamless and expand their capabilities should they comply with the protocol.
   
   
  ### Your Project Name
