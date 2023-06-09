@@ -2,14 +2,14 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-05-21T17:52:44.956Z
+date: 2023-06-09T14:16:13.510Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
 ---
 
 # SDWAN Implementation Page 
-Implementation report for [draft-ietf-idr-sdwan-edige-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)
+Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)
 
 ## Feature Support  
 
