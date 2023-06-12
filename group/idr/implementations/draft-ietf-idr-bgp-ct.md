@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T19:49:15.709Z
+date: 2023-06-12T20:19:24.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -56,4 +56,5 @@ dateCreated: 2023-06-05T16:30:59.788Z
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** |
-|TransportTarget | They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes |{.dense}
+|[**BGP Service route Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-6)  | A service route received in a BGP service family MAY map to a Resolution Scheme that contains the primary Transport Class identified by the Mapping Community on the route and a fallback to best effort Transport Class… For e.g.the Extended Color community may serve as the Mapping Community for service routes.  Color:0:<n> MAY map to a Resolution Scheme that has primary Transport Class <n> and a fallback to best-effort Transport Class. |Yes |Yes |Yes |Yes | |
+ {.dense}
