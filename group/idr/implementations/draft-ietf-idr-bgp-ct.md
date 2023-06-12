@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T21:41:11.925Z
+date: 2023-06-12T21:48:20.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -54,7 +54,7 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |[**Label allocation mode**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.4)  | The label SHOULD be allocated with "per-prefix" label allocation semantics.  RD is stripped from the BGP CT NLRI prefix when a BGP CT route is added to a Transport Route Database.  The IP prefix in the Transport Route Database context (Transport-Class, IP-prefix) is used as the key to do per-prefix label allocation.  |Yes |Yes |Yes |Yes | |
 |[**Transport-Class awareness of Inter-AS link.**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.5)  | If the inter-AS links should honor Transport Class, then the BN SHOULD follow procedures of an Ingress node described above and perform nexthop resolution process.  The interface routes SHOULD be installed in the Transport Route Database belonging to the associated Transport Class. |Yes |Yes |Yes |Yes | |
 |[**Addpath for BGP CT routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.6)  | Hence, ADDPATH SHOULD be used for Classful Transport family, to avoid path-hiding through RRs. |Yes |Yes |Yes |Yes | |
-|[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.7)  | Implementations SHOULD provide a way to alter the tie-breaking rule specified in BGP RR [RFC4456] to tie-break on CLUSTER_LIST step before ROUTER-ID step, when performing path selection for BGP CT routes. |Yes |Yes |Yes |Yes | |
+|[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.7)  | Implementations SHOULD provide a way to alter the tie-breaking rule specified in BGP RR [RFC4456] to tie-break on CLUSTER_LIST step before ROUTER-ID step, when performing path selection for BGP CT routes. |Yes |No |Yes |Yes | |
 |  | The following rule SHOULD be inserted between Steps e) and f): a BGP Speaker SHOULD prefer a route with the shorter CLUSTER_LIST length.  The CLUSTER_LIST length is zero if a route does not carry the CLUSTER_LIST attribute.  |Yes |No |Yes |Yes | |
 |[**Renumbering support for Resolution Schemes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9)  | The Resolution Schemes SHOULD allow association with multiple Mapping Communities.  This helps with renumbering, network mergers or transitions.  |Yes |Yes |Yes |Yes | |
 |[**Best Effort TC ID**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | This document reserves the Transport class ID value 0 to represent "Best Effort Transport Class ID". However implementations SHOULD provide configuration to use a different value for this purpose. |Yes |Yes |Yes |Yes | |
@@ -88,7 +88,7 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
 |[**Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9) | Deploying unique RDs is strongly RECOMMENDED because it helps in troubleshooting by uniquely identifying the originator of a route and avoids path-hiding.  |Yes |Yes |Yes |Yes | |
-|[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |Yes |Yes |Yes | |
+|[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |No |Yes |Yes | |
  {.dense}
   
 ## IANA sections perspective 
