@@ -2,7 +2,7 @@
 title: Implementation report for CT 
 description: Implementation report 
 published: true
-date: 2023-06-12T18:50:41.017Z
+date: 2023-06-12T18:53:11.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -16,8 +16,8 @@ dateCreated: 2023-06-05T16:30:59.788Z
 
 ### RFC 2119 “MUST” Clauses 
 
-| Feature  | Draft Text  |	 Implemented  | | Compliance ||
-|---|---|---|---|---|---|---|---|
+| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
+|---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** |
 |TransportTarget | They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes |
 {.dense}
