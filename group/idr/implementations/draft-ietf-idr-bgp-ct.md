@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T21:37:07.201Z
+date: 2023-06-12T21:37:58.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -44,6 +44,7 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |  [**MPLSandSRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-20.2.2)|In order to interoperate with MPLS only device R3, R1 MUST NOT use SRv6 Transposition scheme described in RFC 9252  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*| {.dense}
  
 ### RFC 2119 “SHOULD” Clauses 
+
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
