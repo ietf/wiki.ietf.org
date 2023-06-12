@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T21:34:47.216Z
+date: 2023-06-12T21:36:17.169Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -35,7 +35,6 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-srv6-support)  | The BGP Classful Transport route update for SRv6 MUST include an attribute containing SRv6 SID information.  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
 {.dense}
 
-#
 ### RFC 2119 “MUST NOT” Clauses 
 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
@@ -43,8 +42,6 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
 |[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-srv6-support)  |If the Prefix-SID attribute is used, it MUST NOT include SRv6 SID structure for Transposition described in  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
 |  [**MPLSandSRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-20.2.2)|In order to interoperate with MPLS only device R3, R1 MUST NOT use SRv6 Transposition scheme described in RFC 9252  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*| {.dense}
-
-# 
  
 ### RFC 2119 “SHOULD” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
@@ -60,20 +57,14 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |  | The following rule SHOULD be inserted between Steps e) and f): a BGP Speaker SHOULD prefer a route with the shorter CLUSTER_LIST length.  The CLUSTER_LIST length is zero if a route does not carry the CLUSTER_LIST attribute.  |Yes |No |Yes |Yes | |
 |[**Renumbering support for Resolution Schemes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9)  | The Resolution Schemes SHOULD allow association with multiple Mapping Communities.  This helps with renumbering, network mergers or transitions.  |Yes |Yes |Yes |Yes | |
 |[**Best Effort TC ID**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | This document reserves the Transport class ID value 0 to represent "Best Effort Transport Class ID". However implementations SHOULD provide configuration to use a different value for this purpose. |Yes |Yes |Yes |Yes | |
-|[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | A BGP ingress SN receiving a BGP service route with nexthop of eSN SHOULD generate a RTC/Extended-RTC route for Route Target prefix "OriginASN: eSN/"80 /176" " in order to learn BGP CT transport routes to reach eSN. Such a BN in the core of the network SHOULD import BGP CT routes with Transport-Target:0:<TC> and generate a RTC route for <OriginASN>:0:<TC>/96   |No |Yes |Yes |Yes | *Not part of minimal requirement.*  |
- {.dense}
-
-# 
+|[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | A BGP ingress SN receiving a BGP service route with nexthop of eSN SHOULD generate a RTC/Extended-RTC route for Route Target prefix "OriginASN: eSN/"80 /176" " in order to learn BGP CT transport routes to reach eSN. Such a BN in the core of the network SHOULD import BGP CT routes with Transport-Target:0:<TC> and generate a RTC route for <OriginASN>:0:<TC>/96   |No |Yes |Yes |Yes | *Not part of minimal requirement.*  |{.dense}
   
 ### RFC 2119 “SHOULD NOT” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
-|[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
- {.dense}
+|[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |{.dense}
 
-  
-#  
 ### RFC 2119 “MAY” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
@@ -91,8 +82,6 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 | | the RTC route advertisements for <OriginASN>:<eSN>/[80/176] MAY be confined to the BNs in home region of ingress-SN, or the BNs of a super core.  |
  {.dense}
   
-  
-#
 ### RFC 2119 “RECOMMENDED” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
