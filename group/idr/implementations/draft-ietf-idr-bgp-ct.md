@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T19:26:47.476Z
+date: 2023-06-12T19:27:47.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -28,7 +28,7 @@ dateCreated: 2023-06-05T16:30:59.788Z
 |[**TRDB Nexthop Resolution**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.3)  | If the resolution process does not find  a matching route in any of the associated Transport Route Databases, the BGP CT route MUST be considered unusable for forwarding purpose and be withdrawn. |Yes |Yes |Yes |Yes | |
 | [**TRDB Tunnel Nexthop Resolution**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.8)| If  the resolution process does not find a Tunnel Ingress Route in any of the Transport Route Databases, the service route MUST be considered unusable for forwarding purpose and be withdrawn.   |Yes |Yes |Yes |Yes | |
 |[**Best Effort Resolution Scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.10) | When a BN or SN receives a BGP CT route with Best Effort Transport class route target as the mapping community… If no best effort tunnel was found to resolve the BGP nexthop, the BGP CT route MUST be considered unusable, and not be propagated further.    |Yes |Yes |Yes |Yes | |
-|[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-srv6-support)  | The BGP Classful Transport route update for SRv6 MUST include an attribute containing SRv6 SID information.  |Yes |Yes |Yes |Yes | *SRv6 is not part of minimal requirement*|
+|[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-srv6-support)  | The BGP Classful Transport route update for SRv6 MUST include an attribute containing SRv6 SID information.  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
 {.dense}
 
 
