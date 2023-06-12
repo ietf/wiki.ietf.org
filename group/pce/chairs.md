@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-12T08:15:44.284Z
+date: 2023-06-12T09:08:28.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,9 +13,9 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| WGLC Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | - |
-| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | - |
-|Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | - |
+| WGLC Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv to take action |
+| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv to take action |
+|Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | - |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd | 
 | Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | - |
