@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-12T09:10:52.922Z
+date: 2023-06-12T09:11:11.607Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -17,7 +17,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 | Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv to take action |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental; Dhruv is responsible |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of June |
-| Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd | 
+| Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm | 
 | Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | - |
 
 
