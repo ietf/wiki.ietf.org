@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-12T09:36:44.684Z
+date: 2023-06-12T13:00:14.693Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,8 +13,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| WGLC Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv to take action |
-| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv to take action |
+| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv requested an update |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental; Dhruv is responsible |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of June |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm | 
@@ -32,6 +31,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| WGLC Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv | - |
 | Close WG Adoption Call | draft-dhody-pce-pceps-tls13 | Julien | - |
 |Response to Yue Wang email| draft-wang-pce-vlan-based-traffic-forwarding | Julien | Response Sent on 2023-03-10; Discussion with John ongoing |
 |Who should shepherd (and notify SPRING WG) | draft-ietf-pce-segment-routing-ipv6 | Julien/Dhruv | Hari is the shepherd, he will post to the spring list | 
