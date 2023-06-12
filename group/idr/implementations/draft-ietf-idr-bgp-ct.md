@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T22:53:06.469Z
+date: 2023-06-12T22:56:59.161Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -121,4 +121,10 @@ https://eantc.de/fileadmin/eantc/downloads/events/2023/EANTC-InteropTest2023-Tes
 |Junos  |23.2R2  |MX204  |
 |Junos-EVO  |22.4R1.11-EVO  |PTX10001-36MR   |
 {.dense}
- 
+
+## Authors
+This report has been written by:
+ - Kaliraj Vairavakkalai (Juniper)
+ - Natrajan Venkataraman (Juniper)
+ - Csaba Mates (FreeRTR)
+ - Reshma Das (Juniper)
