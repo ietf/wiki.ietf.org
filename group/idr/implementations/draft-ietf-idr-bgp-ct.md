@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T21:38:06.766Z
+date: 2023-06-12T21:41:11.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -80,8 +80,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-15.2)  | An egress SN MAY advertise BGP CT route for RD:eSN with two Route Targets: transport-target:0:<TC> and a RT carrying <eSN>:<TC>. |No |No |Yes |Yes | |
 | |The RT carrying <eSN>:<TC> MAY be an IP-address specific regular RT (BGP attribute code 16), IPv6-address specific RT (BGP attribute code 25), or a Wide-communities based RT (BGP attribute code 34) as described in Route Target Constrain Extension [RTC-Ext].  This document recommends using Wide-communities based RT for the same. |
 | | An ingress SN MAY import BGP CT routes with Route Target carrying <eSN>:<TC>.  The ingress SN MAY learn the eSN values either by configuration, or it MAY discover them from the BGP nexthop field in the BGP VPN service routes received from eSN. |
-| | the RTC route advertisements for <OriginASN>:<eSN>/[80/176] MAY be confined to the BNs in home region of ingress-SN, or the BNs of a super core.  |
- {.dense}
+| | the RTC route advertisements for <OriginASN>:<eSN>/[80/176] MAY be confined to the BNs in home region of ingress-SN, or the BNs of a super core.|
+{.dense}
   
 ### RFC 2119 “RECOMMENDED” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
