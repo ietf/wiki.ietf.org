@@ -2,7 +2,7 @@
 title: Implementation report for CT 
 description: Implementation report 
 published: true
-date: 2023-06-05T16:31:55.670Z
+date: 2023-06-12T18:46:09.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -10,4 +10,14 @@ dateCreated: 2023-06-05T16:30:59.788Z
 
 #  BGP CT Implementation report
 
-Content 
+## Author
+
+## RFC 2119 perspective 
+
+### RFC 2119 “MUST” Clauses 
+
+| Feature  | Draft Text  |	 Implemented?  | | Compliance |
+|---|---|---|---|---|---|---|---|
+| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** |
+|TransportTarget | The remaining 2 octets after SubType field are Reserved. They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.| Yes |	Yes| Yes | Yes |{.dense}
+ 			
