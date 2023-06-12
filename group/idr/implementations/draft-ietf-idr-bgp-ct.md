@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T20:38:22.267Z
+date: 2023-06-12T20:40:38.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -10,10 +10,13 @@ dateCreated: 2023-06-05T16:30:59.788Z
 
 #  BGP CT Implementation report
 
-## Author
+
+## Introduction
+This document is the Implementation report for BGP CT (draft-ietf-idr-bgp-ct-04). It records the compliance of Junos and RARE/FreeRtr implementations of BGP CT.  
+It takes into account the perspective of RFC 2119 clauses in the draft, as well as the IANA code-points used in the draft. 
+Additionally, the link to interop test results from tests conducted at EANTC 2023 is included for reference.  
 
 ## RFC 2119 perspective
-
 
 ### RFC 2119 “MUST” Clauses 
 
@@ -33,7 +36,6 @@ dateCreated: 2023-06-05T16:30:59.788Z
 
 
 ### RFC 2119 “SHOULD” Clauses 
-
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
@@ -50,9 +52,8 @@ dateCreated: 2023-06-05T16:30:59.788Z
 |[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | A BGP ingress SN receiving a BGP service route with nexthop of eSN SHOULD generate a RTC/Extended-RTC route for Route Target prefix "OriginASN: eSN/"80 /176" " in order to learn BGP CT transport routes to reach eSN. Such a BN in the core of the network SHOULD import BGP CT routes with Transport-Target:0:<TC> and generate a RTC route for <OriginASN>:0:<TC>/96   |No |Yes |Yes |Yes | *Not part of minimal requirement.*  |
 {.dense}
 
-
+  
 ### RFC 2119 “MAY” Clauses 
-
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
