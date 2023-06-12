@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T21:27:15.405Z
+date: 2023-06-12T21:31:38.035Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -17,6 +17,8 @@ It takes into account the perspective of RFC 2119 clauses in the draft, as well 
 Additionally, the link to interop test results from tests conducted at EANTC 2023 is included for reference.  
 
 ## RFC 2119 perspective
+  
+
 
 ### RFC 2119 “MUST” Clauses 
 
@@ -42,6 +44,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |  [**MPLSandSRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-20.2.2)|In order to interoperate with MPLS only device R3, R1 MUST NOT use SRv6 Transposition scheme described in RFC 9252  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
  {.dense}
  
+ 
+ 
 ### RFC 2119 “SHOULD” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
@@ -58,6 +62,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |[**Best Effort TC ID**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | This document reserves the Transport class ID value 0 to represent "Best Effort Transport Class ID". However implementations SHOULD provide configuration to use a different value for this purpose. |Yes |Yes |Yes |Yes | |
 |[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | A BGP ingress SN receiving a BGP service route with nexthop of eSN SHOULD generate a RTC/Extended-RTC route for Route Target prefix "OriginASN: eSN/"80 /176" " in order to learn BGP CT transport routes to reach eSN. Such a BN in the core of the network SHOULD import BGP CT routes with Transport-Target:0:<TC> and generate a RTC route for <OriginASN>:0:<TC>/96   |No |Yes |Yes |Yes | *Not part of minimal requirement.*  |
  {.dense}
+
+  
   
 ### RFC 2119 “SHOULD NOT” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
@@ -65,6 +71,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
 |[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
  {.dense}
+
+  
   
 ### RFC 2119 “MAY” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
