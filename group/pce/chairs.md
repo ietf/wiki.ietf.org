@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-12T09:13:07.680Z
+date: 2023-06-12T09:36:44.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -26,7 +26,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 | Enhance GitHub for PCE WG | - | Dhruv | - |
 | Possible recharter for PCE WG | - | Dhruv | - |
-| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John|
+| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Julien to respond to the email to John|
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | - |
 
 ## Completed Tasks
