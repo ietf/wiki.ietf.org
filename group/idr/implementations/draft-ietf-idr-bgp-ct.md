@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T20:48:02.473Z
+date: 2023-06-12T20:51:10.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -57,13 +57,13 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |[**Renumbering support for Resolution Schemes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9)  | The Resolution Schemes SHOULD allow association with multiple Mapping Communities.  This helps with renumbering, network mergers or transitions.  |Yes |Yes |Yes |Yes | |
 |[**Best Effort TC ID**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | This document reserves the Transport class ID value 0 to represent "Best Effort Transport Class ID". However implementations SHOULD provide configuration to use a different value for this purpose. |Yes |Yes |Yes |Yes | |
 |[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-4)  | A BGP ingress SN receiving a BGP service route with nexthop of eSN SHOULD generate a RTC/Extended-RTC route for Route Target prefix "OriginASN: eSN/"80 /176" " in order to learn BGP CT transport routes to reach eSN. Such a BN in the core of the network SHOULD import BGP CT routes with Transport-Target:0:<TC> and generate a RTC route for <OriginASN>:0:<TC>/96   |No |Yes |Yes |Yes | *Not part of minimal requirement.*  |
-{.dense}
- 
+ {.dense}
+  
 ### RFC 2119 “SHOULD NOT” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
-|[**BGP CT Transport Routes Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-nexthop-resolution-scheme)  | A transport route received in BGP Classful Transport family SHOULD use a Resolution Scheme that contains the primary Transport Class without any fallback to best effort tunnels. |Yes |Yes |Yes |Yes | |
+|[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
  {.dense}
   
 ### RFC 2119 “MAY” Clauses 
