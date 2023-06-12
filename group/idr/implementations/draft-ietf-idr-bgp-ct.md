@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T20:33:21.219Z
+date: 2023-06-12T20:38:22.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -63,4 +63,8 @@ dateCreated: 2023-06-05T16:30:59.788Z
 |[**Install BGP CT routes in FIB**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.10)  | Implementations MAY provide configuration to selectively install  BGP CT routes to the FIB, to provide reachability for control plane peering towards end points in other domains. |No |Yes |Yes |Yes | |
 |[**Flowspec redirect-to-ip with Mapping community**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-11)  | Such Flowspec BGP routes with Redirect to IP nexthop MAY be attached with a Mapping Community (e.g.  Color:0:100), which allows redirecting the flow traffic over a tunnel to the IP nexthop satisfying the desired SLA (e.g.  Transport Class color 100  |Yes |No |Yes |Yes | |
 |[**LU EPE with Mapping community**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-12)  | The Peer/32 or Peer/128 EPE route MAY be originated in BGP CT family with appropriate Mapping Community (e.g. transport-target:0:100), thus allowing an EPE path to the peer that satisfies the desired SLA.|Yes |No |Yes |Yes | |
+|[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-15.2)  | An egress SN MAY advertise BGP CT route for RD:eSN with two Route Targets: transport-target:0:<TC> and a RT carrying <eSN>:<TC>. |No |No |Yes |Yes | |
+| |The RT carrying <eSN>:<TC> MAY be an IP-address specific regular RT (BGP attribute code 16), IPv6-address specific RT (BGP attribute code 25), or a Wide-communities based RT (BGP attribute code 34) as described in Route Target Constrain Extension [RTC-Ext].  This document recommends using Wide-communities based RT for the same. |
+| | An ingress SN MAY import BGP CT routes with Route Target carrying <eSN>:<TC>.  The ingress SN MAY learn the eSN values either by configuration, or it MAY discover them from the BGP nexthop field in the BGP VPN service routes received from eSN. |
+| | the RTC route advertisements for <OriginASN>:<eSN>/[80/176] MAY be confined to the BNs in home region of ingress-SN, or the BNs of a super core.  |
  {.dense}
