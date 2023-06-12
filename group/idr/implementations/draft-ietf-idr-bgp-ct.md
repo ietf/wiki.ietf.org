@@ -2,7 +2,7 @@
 title: Implementation report for CT 
 description: Implementation report 
 published: true
-date: 2023-06-12T18:49:15.205Z
+date: 2023-06-12T18:49:55.390Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -19,5 +19,5 @@ dateCreated: 2023-06-05T16:30:59.788Z
 | Feature  | Draft Text  |	 Implemented?  | | Compliance |
 |---|---|---|---|---|---|---|---|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** |
-|TransportTarget | They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.| Yes |	Yes| Yes | Yes |
+|TransportTarget | They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes |
 {.dense}
