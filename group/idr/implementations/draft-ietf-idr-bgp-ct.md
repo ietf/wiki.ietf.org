@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T22:42:15.655Z
+date: 2023-06-12T22:43:58.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -67,7 +67,7 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
 |[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
-|[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.7)  | Tunnels belonging to non best effort Transport Classes SHOULD NOT be provisioned between ABRs.|Yes |Yes |Yes |Yes | *Operator provisioning*|{.dense}
+|[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.7)  | Tunnels belonging to non best effort Transport Classes SHOULD NOT be provisioned between ABRs.|Yes |Yes |Yes |Yes |*Operator provisioning*|{.dense}
 
 ### RFC 2119 “MAY” Clauses 
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
