@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T20:51:10.112Z
+date: 2023-06-12T20:53:44.398Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -87,5 +87,6 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 | Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
-|[**BGP CT Transport Routes Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-nexthop-resolution-scheme)  | A transport route received in BGP Classful Transport family SHOULD use a Resolution Scheme that contains the primary Transport Class without any fallback to best effort tunnels. |Yes |Yes |Yes |Yes | |
+|[**Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9) | Deploying unique RDs is strongly RECOMMENDED because it helps in troubleshooting by uniquely identifying the originator of a route and avoids path-hiding.  |Yes |Yes |Yes |Yes | |
+|[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |Yes |Yes |Yes | |
  {.dense}
