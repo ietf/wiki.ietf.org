@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T20:53:44.398Z
+date: 2023-06-12T21:01:17.547Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -90,3 +90,17 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |[**Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9) | Deploying unique RDs is strongly RECOMMENDED because it helps in troubleshooting by uniquely identifying the originator of a route and avoids path-hiding.  |Yes |Yes |Yes |Yes | |
 |[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |Yes |Yes |Yes | |
  {.dense}
+  
+## IANA sections perspective 
+  
+| Features  |	 Implemented  | | |Comments |
+|---|---|---|---|---|
+|	|	**Juniper** | **FreeRTR**  |
+|AFI: 1, SAFI: 76 |Yes|Yes||
+|AFI: 2, SAFI: 76 |Yes|Yes||
+|Transport Class Route Target (Transitive) Type 0x0a, Subtype 0x2  |Yes|Yes|
+|Transport Class Route Target (NonTransitive) Type 0x4a, Subtype 0x2  |No |No|
+|MPLS OAM LSP-Ping Subtype 31744   |Yes|Yes|
+|MPLS OAM LSP-Ping Subtype 31745    |Yes|Yes||
+|Best Effort Transport Class ID 0     |Yes|Yes||
+{.dense}
