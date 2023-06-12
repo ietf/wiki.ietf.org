@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T21:01:17.547Z
+date: 2023-06-12T21:04:13.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -93,14 +93,14 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
   
 ## IANA sections perspective 
   
-| Features  |	 Implemented  | | |Comments |
+| Features  |	 Implemented  | |
 |---|---|---|---|---|
 |	|	**Juniper** | **FreeRTR**  |
 |AFI: 1, SAFI: 76 |Yes|Yes||
 |AFI: 2, SAFI: 76 |Yes|Yes||
 |Transport Class Route Target (Transitive) Type 0x0a, Subtype 0x2  |Yes|Yes|
 |Transport Class Route Target (NonTransitive) Type 0x4a, Subtype 0x2  |No |No|
-|MPLS OAM LSP-Ping Subtype 31744   |Yes|Yes|
-|MPLS OAM LSP-Ping Subtype 31745    |Yes|Yes||
-|Best Effort Transport Class ID 0     |Yes|Yes||
+|MPLS OAM LSP-Ping Subtype 31744   |No |No |
+|MPLS OAM LSP-Ping Subtype 31745    |No |No |
+|Best Effort Transport Class ID 0     |Yes|Yes|
 {.dense}
