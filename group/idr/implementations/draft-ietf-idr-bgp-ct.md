@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T19:25:56.113Z
+date: 2023-06-12T19:26:47.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -12,7 +12,8 @@ dateCreated: 2023-06-05T16:30:59.788Z
 
 ## Author
 
-## RFC 2119 perspective 
+## RFC 2119 perspective
+
 
 ### RFC 2119 “MUST” Clauses 
 
