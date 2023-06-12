@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T22:44:40.564Z
+date: 2023-06-12T22:50:57.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -109,14 +109,16 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 |Best Effort Transport Class ID 0     |Yes|Yes|
 {.dense}
   
-## Software version of participating Implementations 
+
+  
+## Interoperability test report from EANTC 2023
+https://eantc.de/fileadmin/eantc/downloads/events/2023/EANTC-InteropTest2023-TestReport.pdf  (Page 36) 
+  
+### Software version of participating Implementations 
 | Implementation  |	 Software Version  | Platforms |
 |---|---|---|
 |RARE/FreeRtr  |v23.3.17-cur |BF2556X-1T |
 |Junos  |23.2R2  |MX204  |
 |Junos-EVO  |22.4R1.11-EVO  |PTX10001-36MR   |
 {.dense}
-  
-## Interoperability test report from EANTC 2023
-https://eantc.de/fileadmin/eantc/downloads/events/2023/EANTC-InteropTest2023-TestReport.pdf  (Page 36) 
  
