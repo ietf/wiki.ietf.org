@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-13T01:38:50.450Z
+date: 2023-06-13T01:46:26.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -21,9 +21,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 
 ### RFC 2119 “MUST” Clauses 
 
-| Feature  | Draft Text  |	 Implemented   ||   Compliance || Comments |
-|---|---|---|---|---|---|---|---|----|
-| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
+| Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
+|---|---|---|---|---|---|---|---|----|---|
 |[**Transport-Target**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-transport-class-route-targe)| The remaining 2 octets after SubType field are Reserved. They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes | |
 |[**RTC**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-transport-class-route-targe) | A BGP speaker that implements RT Constraint Route Target Constraints [RFC4684] MUST apply the RT Constraint procedures to the "Transport class" Route Target Extended community as well. |Yes |Yes |Yes |Yes | |
 |[**MP_BGP Negotiation**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-bgp-classful-transport-fami) | These AFI, SAFI pair of values MUST be negotiated in Multiprotocol Extensions capability described in [RFC4760] to be able to send and receive BGP CT routes. . |Yes |Yes |Yes |Yes | |
