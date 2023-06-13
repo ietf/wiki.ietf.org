@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-12T22:56:59.161Z
+date: 2023-06-13T01:36:53.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -21,7 +21,7 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 
 ### RFC 2119 “MUST” Clauses 
 
-| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
+| Feature  | Draft Text  |	     Implemented  | |     Compliance || Comments |
 |---|---|---|---|---|---|---|---|----|
 | | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
 |[**Transport-Target**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-transport-class-route-targe)| The remaining 2 octets after SubType field are Reserved. They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes | |
