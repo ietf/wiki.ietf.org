@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-13T14:02:20.782Z
+date: 2023-06-13T16:38:42.992Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -329,6 +329,18 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-context-aware-navigator/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
+
+### FRRouting doctors & 🔝🥔
+- **Champion(s)**
+  - David '*equinox*' Lamparter (equinox at opensourcerouting.org)
+  - Rodney Grimes (TBD)
+  - Alistair Woodman (awoodman at netdef.org)
+- **Project Info**
+  - Are you writing code to implement an IETF work in progress?  Maybe your code is open source, routing related and targets FRRouting?
+    - We can help with both community (e.g. PR & review interactions) as well as code & finding your way around existing facilities.
+    - Just walk up & bring your questions, no heads-up required.
+  - We're spending our idle time on hacking on the topotato testing system for FRR (https://github.com/opensourcerouting/topotato)
+  
   
  ### Your Project Name
 - **Champion(s)**
