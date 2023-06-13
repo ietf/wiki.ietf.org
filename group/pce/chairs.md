@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-12T13:00:14.693Z
+date: 2023-06-13T04:22:09.565Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,7 +13,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv requested an update |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental; Dhruv is responsible |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of June |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm | 
@@ -23,6 +22,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv started poll|
 | Enhance GitHub for PCE WG | - | Dhruv | - |
 | Possible recharter for PCE WG | - | Dhruv | - |
 | VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Julien to respond to the email to John|
