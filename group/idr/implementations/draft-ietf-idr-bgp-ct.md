@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-13T03:10:49.129Z
+date: 2023-06-13T16:32:38.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -36,18 +36,16 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 
 ### RFC 2119 “MUST NOT” Clauses 
 
-| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
-|---|---|---|---|---|---|---|---|----|
-| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
+| Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
+|---|---|---|---|---|---|---|---|----|---|
 |[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-srv6-support)  |If the Prefix-SID attribute is used, it MUST NOT include SRv6 SID structure for Transposition described in  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
 |  [**MPLSandSRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-20.2.2)|In order to interoperate with MPLS only device R3, R1 MUST NOT use SRv6 Transposition scheme described in RFC 9252  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
 {.dense}
  
 ### RFC 2119 “SHOULD” Clauses 
 
-| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
-|---|---|---|---|---|---|---|---|----|
-| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
+| Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
+|---|---|---|---|---|---|---|---|----|---|
 |[**BGP CT Transport Routes Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-nexthop-resolution-scheme)  | A transport route received in BGP Classful Transport family SHOULD use a Resolution Scheme that contains the primary Transport Class without any fallback to best effort tunnels. |Yes |Yes |Yes |Yes | |
 |[**RFC 8277 NLRI Label**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-bgp-classful-transport-fami)  | This 3-bit field SHOULD be set to zero on transmission and MUST be ignored on reception.  |Yes |Yes |Yes |Yes | |
 |[**Usage of Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | Unique RD SHOULD be used by the originator of a Classful Transport route to disambiguate the multiple BGP advertisements for a transport end point. |Yes |Yes |Yes |Yes | |
@@ -62,17 +60,15 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 {.dense}
   
 ### RFC 2119 “SHOULD NOT” Clauses 
-| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
-|---|---|---|---|---|---|---|---|----|
-| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
+| Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
+|---|---|---|---|---|---|---|---|----|---|
 |[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
 |[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.7)  | Tunnels belonging to non best effort Transport Classes SHOULD NOT be provisioned between ABRs.|Yes |Yes |Yes |Yes |*Operator provisioning*|
  {.dense}
 
 ### RFC 2119 “MAY” Clauses 
-| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
-|---|---|---|---|---|---|---|---|----|
-| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
+| Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
+|---|---|---|---|---|---|---|---|----|---|
 |[**BGP Service route Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-6)  | A service route received in a BGP service family MAY map to a Resolution Scheme that contains the primary Transport Class identified by the Mapping Community on the route and a fallback to best effort Transport Class. |Yes |Yes |Yes |Yes | |
 |[**RFC8277 Multiple Labels Capability**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-7)  | BGP CT routes MAY carry multiple labels in the NLRI, by negotiating the Multiple Labels Capability as described in https://www.rfc-editor.org/rfc/rfc8277#section-2.1 [RFC8277] |No |No |Yes |Yes | |
 |[**Auto-RD, Auto-RT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.1)  | Implementations MAY provide automatic generation and assignment of RD, RT values; they MAY also provide a way to manually override the automatic mechanism in order to deal with any conflicts that may arise with existing RD, RT values in different network domains participating in the deployment.  |Yes |Yes |Yes |Yes | |
@@ -87,9 +83,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 {.dense}
   
 ### RFC 2119 “RECOMMENDED” Clauses 
-| Feature  | Draft Text  |	 Implemented  | | Compliance || Comments |
-|---|---|---|---|---|---|---|---|----|
-| | |	**Juniper** | **FreeRTR**  | **Juniper**| **FreeRTR** | |
+| Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
+|---|---|---|---|---|---|---|---|----|---|
 |[**Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9) | Deploying unique RDs is strongly RECOMMENDED because it helps in troubleshooting by uniquely identifying the originator of a route and avoids path-hiding.  |Yes |Yes |Yes |Yes | |
 |[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |No |Yes |Yes | |
 {.dense}
