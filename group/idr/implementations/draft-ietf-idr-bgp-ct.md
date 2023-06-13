@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-06-13T03:07:47.931Z
+date: 2023-06-13T03:08:38.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -36,7 +36,7 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 
 ### RFC 2119 “MUST NOT” Clauses 
 
-| Feature  | Draft Text ||	 Implemented ||Compliance || Comments |
+| Feature  | Draft Text ||	 Implemented||	 Compliance|| Comments |
 |---|---|---|---|---|---|---|---|----|
 | |||	**Juniper** |**FreeRTR**|**Juniper**|**FreeRTR** | ||
 |[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#name-srv6-support)  |If the Prefix-SID attribute is used, it MUST NOT include SRv6 SID structure for Transposition described in  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
