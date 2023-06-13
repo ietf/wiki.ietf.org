@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-06-09T22:55:23.282Z
+date: 2023-06-13T16:34:23.382Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,9 +47,9 @@ Please use your best judgement to add new items into one of the categories below
 * Go/No Go for IETF 117 BoFs
     * CCWG - Proposed Working Group on agenda for June 22 for approval
     * DULT - Proposed BoF
-    * IVY - was NIMBY - Proposed Working Group
+    * IVY - was NIMBY - Proposed Working Group on agenda for June 22 for approval
     * KEYTRANS - 
-    * MLCODEC - Proposed Working Group 
+    * MLCODEC - Proposed Working Group on agenda for June 22 for approval
 
 * TOPIC (NAME)
 
