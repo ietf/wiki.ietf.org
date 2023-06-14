@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-13T16:38:42.992Z
+date: 2023-06-14T00:53:05.099Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -315,7 +315,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - The initiative of the Security Alert Standard (SASP) protocol is to define a standard method of communicating discovered security risks to an aggregated location. For example, endpoint security vendors may want to communicate to a ticketing system some discovered security weakness. To do so, they will be able to use a standard message to communicate the alert to a different vendor supplying the ticketing system. By allowing a standard, communication between security vendors can be seamless and expand their capabilities should they comply with the protocol.
 
-### IPWAVE: Mobility Management Protocol for IP-Based Moving Objects Networks using 5G V2X
+### Mobility Management Protocol for IP-Based Moving Objects Networks (MM-IPMON) using 5G V2X
 - **Champion(s)**
 	- Jaehoon (Paul) Jeong (pauljeong at skku.edu)
 - **Participant(s)**
@@ -326,7 +326,7 @@ For information on OIDs used to create interoperable structures, consult: https:
   - AI-Based IPv6 Stateless Address Autoconfiguration (SLAAC) in multihop V2V &amp; V2I scenarios.
   - IPv6 Mobility Management performanceenhancement with AI methods for IP-Based vehicle networks IPv6 Routing
 - **Specifications**
-  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-context-aware-navigator/
+  - https://datatracker.ietf.org/doc/draft-jeong-6man-ipv6-over-5g-v2x/ 
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-mobility-management/
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
 
