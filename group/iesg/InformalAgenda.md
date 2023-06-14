@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-06-14T13:51:56.092Z
+date: 2023-06-14T14:00:20.740Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,11 +45,11 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 * Go/No Go for IETF 117 BoFs
-    * CCWG - Proposed Working Group on agenda for June 22 for approval
-    * DULT - Proposed BoF
-    * IVY - was NIMBY - Proposed Working Group on agenda for June 22 for approval
-    * KEYTRANS - Proposed Working Group - in draft charter (next step: Internal IAB/IESG Review)
-    * MLCODEC - Proposed Working Group on agenda for June 22 for approval
+    * CCWG - Proposed Working Group on agenda for June 22 for approval - https://datatracker.ietf.org/doc/bofreq-sarker-congestion-control-working-group/ (Session Request is in the datatracker - 90 minutes for 100 people 
+    * DULT - Proposed BoF - NOTE: Session request needs some updating: https://datatracker.ietf.org/doc/bofreq-eddinger-detecting-unwanted-location-trackers/
+    * IVY - was NIMBY - Proposed Working Group on agenda for June 22 for approval - Session Request information updated:  https://datatracker.ietf.org/doc/bofreq-wilton-ivy/ 
+    * KEYTRANS - Proposed Working Group - in draft charter (next step: Internal IAB/IESG Review) Conflict list is short: https://datatracker.ietf.org/doc/bofreq-danyliw-key-transparency-keytrans/
+    * MLCODEC - Proposed Working Group on agenda for June 22 for approval. Conflict list is short: https://datatracker.ietf.org/doc/bofreq-kucherawy-machine-learning-for-audio-coding-mlcodec/
 
 * TOPIC (NAME)
 
