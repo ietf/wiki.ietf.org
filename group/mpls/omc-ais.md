@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-06-15T14:19:32.979Z
+date: 2023-06-15T14:19:49.355Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -13,13 +13,11 @@ dateCreated: 2023-06-15T13:32:47.922Z
 ## Open Action Items
 ### 1. Investigate intersection of MNA with existing MPLS features
 Owner: WG
-State: Open
 Update:
 - 06/15
 
 ### 2. Why BIER is using value 5 for the MPLS first nibble?
 Owner: WG
-State: Open
 Update:
 - 06/15: send an email to BIER WG
 
