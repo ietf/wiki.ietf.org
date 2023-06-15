@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2023-05-26T15:24:06.748Z
+date: 2023-06-15T07:22:54.104Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -121,7 +121,8 @@ A YANG Data Model for Client-layer Tunnel
 ## Draft prioritization for WG last call
 Prio 1 **- draft-ietf-ccamp-mw-topo-yang-05**
 A YANG Data Model for Microwave Topology
->Haomian
+>IPR for last call completed, In WG last call, ending June 28th
+
 
 
 ## IPR polling ongoing
