@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-06-15T13:32:47.922Z
+date: 2023-06-15T14:15:13.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -21,7 +21,7 @@ Update:
 Owner: WG
 State: Open
 Update:
-- 06/15
+- 06/15: send an email to BIER WG
 
 
 
