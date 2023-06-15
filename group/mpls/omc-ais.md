@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-06-15T14:15:13.726Z
+date: 2023-06-15T14:18:36.972Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -23,7 +23,10 @@ State: Open
 Update:
 - 06/15: send an email to BIER WG
 
-
+### 3. DETNET discussion
+Owner: DETNET Chairs/Greg
+Update:
+- 06/15: Greg is scheduled to give a presentation on July 6, 2023
 
 
 ## Closed Action Items
