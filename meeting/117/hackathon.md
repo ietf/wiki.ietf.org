@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-14T00:53:05.099Z
+date: 2023-06-16T12:26:50.923Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -340,7 +340,19 @@ For information on OIDs used to create interoperable structures, consult: https:
     - We can help with both community (e.g. PR & review interactions) as well as code & finding your way around existing facilities.
     - Just walk up & bring your questions, no heads-up required.
   - We're spending our idle time on hacking on the topotato testing system for FRR (https://github.com/opensourcerouting/topotato)
-  
+ 
+### Multipath QUIC Interop
+- **Champion(s)**
+  - Marcus Ihlar (marcus.ihlar at ericsson.com)
+  - Mirja Kuhlewind (mirja.kuehlewind at ericsson.com)
+  - Magnus Westerlund (magnus.westerlund at ericsson.com)
+- **Project Info**
+  - Interop testing of the multipath QUIC extension.
+  - Implementation draft for interop: https://github.com/quicwg/multipath/wiki/Implementation-Draft-Interop
+  - Interop results matrix: https://docs.google.com/spreadsheets/d/1nM2FSMTgTr3scwUuHsjojCJr4ztHq7BF44l9CiGJgH8/
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/  
+
   
  ### Your Project Name
 - **Champion(s)**
