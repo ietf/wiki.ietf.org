@@ -2,7 +2,7 @@
 title: DetNet Open Working Meetings on Enhanced DetNet Data Plane
 description: 
 published: true
-date: 2023-06-19T19:36:09.824Z
+date: 2023-06-19T19:36:49.500Z
 tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
@@ -36,7 +36,7 @@ The following table summarizes the different proposals proposed to the effort to
 
 | Name | Draft | On Agenda | Slides | Youtube | Notes |
 |------|-------|-----------|--------|---------|-------|
-| C-SCORE <br> playout buffering| [draft-joung-detnet-asynch-detnet-framework/02](https://datatracker.ietf.org/doc/draft-joung-detnet-asynch-detnet-framework/02/) | [2023-04-11](/group/detnet/wmosq/2023-04-11) | [slides](https://wiki.ietf.org/adn_framework-2023-04-10.pptx) | - | Unfortunately no youtube recording. Draft discusses framework and different mechanisms. ?Best proposed? is C-SCORE and independently playout buffering |
+| ADN <br> C-SCORE <br> playout buffering| [draft-joung-detnet-asynch-detnet-framework/02](https://datatracker.ietf.org/doc/draft-joung-detnet-asynch-detnet-framework/02/) | [2023-04-11](/group/detnet/wmosq/2023-04-11) | [slides](https://wiki.ietf.org/adn_framework-2023-04-10.pptx) | - | Unfortunately no youtube recording. Draft discusses framework ("ADN") and different mechanisms. ?Best proposed? is C-SCORE and independently playout buffering |
 | Deadline Forwarding | [draft-peng-detnet-deadline-based-forwarding](https://datatracker.ietf.org/doc/draft-peng-detnet-deadline-based-forwarding/) | [2023-04-26](/group/detnet/wmosq/2023-04-26) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-02-sessa-deadline-queueing-mechanism/) | [link](https://youtu.be/nGTeMavyHSg?t=2858) | |
 | CSQF | [draft-chen-detnet-sr-based-bounded-latency](https://datatracker.ietf.org/doc/html/draft-chen-detnet-sr-based-bounded-latency) | [2023-05-09](https://datatracker.ietf.org/meeting/interim-2023-detnet-03/session/detnet) |  [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-03-sessa-csqf-slides/) | [link](https://youtu.be/m9NqZ6gWKgo?t=2590) | |
 | | [draft-eckert-detnet-mpls-tc-tcqf/](https://datatracker.ietf.org/doc/draft-eckert-detnet-mpls-tc-tcqf/) | - | - | - | Superceeded, older versions of TCQF, superceeded |
