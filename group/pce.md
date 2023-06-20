@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-06-12T09:35:35.198Z
+date: 2023-06-20T06:54:42.049Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -40,6 +40,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-peng-pce-entropy-label-position | Pending | - | - |
 | draft-chen-pce-sr-mpls-sid-verification | Penidng | Coordinate with SRv6 draft for IANA allocation | - |
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Pending | Confimed with BIER WG | - |
+| draft-chen-pce-sr-ingress-protection | Expired | - | - |
 
 
 ## Recently Adopted Documents
