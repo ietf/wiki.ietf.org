@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-20T08:47:05.080Z
+date: 2023-06-20T08:47:39.109Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,11 +13,10 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-
 | WG Secretary | - | - | - |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of June |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm | 
-| Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | Put it on Hold |
+
 
 
 
@@ -34,6 +33,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | Marked as Parked WG I-D |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental; Dhruv is responsible |
 | WGLC Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv | - |
 | Close WG Adoption Call | draft-dhody-pce-pceps-tls13 | Julien | - |
