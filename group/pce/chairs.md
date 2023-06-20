@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-20T07:14:30.447Z
+date: 2023-06-20T07:15:47.516Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -14,6 +14,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Start WG adoption | draft-dhody-pce-stateful-pce-vendor | Julien | - |
+| WG Secretery | - | - | - |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of June |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm | 
 | Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | Put it on Hold |
