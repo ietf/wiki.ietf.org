@@ -2,7 +2,7 @@
 title: DetNet Open Working Meetings on Enhanced DetNet Data Plane
 description: 
 published: true
-date: 2023-06-19T19:36:49.500Z
+date: 2023-06-20T23:46:52.682Z
 tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
@@ -39,6 +39,6 @@ The following table summarizes the different proposals proposed to the effort to
 | ADN <br> C-SCORE <br> playout buffering| [draft-joung-detnet-asynch-detnet-framework/02](https://datatracker.ietf.org/doc/draft-joung-detnet-asynch-detnet-framework/02/) | [2023-04-11](/group/detnet/wmosq/2023-04-11) | [slides](https://wiki.ietf.org/adn_framework-2023-04-10.pptx) | - | Unfortunately no youtube recording. Draft discusses framework ("ADN") and different mechanisms. ?Best proposed? is C-SCORE and independently playout buffering |
 | Deadline Forwarding | [draft-peng-detnet-deadline-based-forwarding](https://datatracker.ietf.org/doc/draft-peng-detnet-deadline-based-forwarding/) | [2023-04-26](/group/detnet/wmosq/2023-04-26) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-02-sessa-deadline-queueing-mechanism/) | [link](https://youtu.be/nGTeMavyHSg?t=2858) | |
 | CSQF | [draft-chen-detnet-sr-based-bounded-latency](https://datatracker.ietf.org/doc/html/draft-chen-detnet-sr-based-bounded-latency) | [2023-05-09](https://datatracker.ietf.org/meeting/interim-2023-detnet-03/session/detnet) |  [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-03-sessa-csqf-slides/) | [link](https://youtu.be/m9NqZ6gWKgo?t=2590) | |
-| | [draft-eckert-detnet-mpls-tc-tcqf/](https://datatracker.ietf.org/doc/draft-eckert-detnet-mpls-tc-tcqf/) | - | - | - | Superceeded, older versions of TCQF, superceeded |
-| CQF-Variant <br> TCQF | [draft-yizhou-detnet-ipv6-options-for-cqf-variant/](https://datatracker.ietf.org/doc/draft-yizhou-detnet-ipv6-options-for-cqf-variant/) <br> [draft-eckert-detnet-tcqf](https://datatracker.ietf.org/doc/html/draft-eckert-detnet-tcqf) | [2023-05-24](https://datatracker.ietf.org/meeting/interim-2023-detnet-05/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-05-sessa-tcqf-slides-for-interim/) | [link](https://www.youtube.com/watch?v=ELDZYOXKer4&t=2004s) | Both trafts subject to be merged before IETF117 |
+| | [draft-eckert-detnet-mpls-tc-tcqf/](https://datatracker.ietf.org/doc/draft-eckert-detnet-mpls-tc-tcqf/) | - | - | - | Superceeded, older versions of TCQF, superseded |
+| CQF-Variant <br> TCQF | [draft-yizhou-detnet-ipv6-options-for-cqf-variant/](https://datatracker.ietf.org/doc/draft-yizhou-detnet-ipv6-options-for-cqf-variant/) <br> [draft-eckert-detnet-tcqf](https://datatracker.ietf.org/doc/html/draft-eckert-detnet-tcqf) | [2023-05-24](https://datatracker.ietf.org/meeting/interim-2023-detnet-05/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-05-sessa-tcqf-slides-for-interim/) | [link](https://www.youtube.com/watch?v=ELDZYOXKer4&t=2004s) | Both drafts intended to be merged into one draft before IETF117 |
 | TQF | [draft-peng-detnet-packet-timeslot-mechanism/](https://datatracker.ietf.org/doc/draft-peng-detnet-packet-timeslot-mechanism/)| [2023-06-06](https://datatracker.ietf.org/meeting/interim-2023-detnet-06/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-06-sessa-timeslot-queueing-and-forwarding/) | [link](https://youtu.be/HVE_FCe_5x8?t=3959) | |
