@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-06-20T07:17:42.698Z
+date: 2023-06-20T07:56:49.348Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -32,7 +32,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Pending | - | Julien |
+| [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Poll in progress | - | Julien |
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Pending | Confimed with BIER WG | Dhruv |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | Julien |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
