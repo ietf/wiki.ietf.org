@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-05-19T15:26:36.840Z
+date: 2023-06-21T14:26:32.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -13,7 +13,7 @@ dateCreated: 2023-01-26T04:05:43.693Z
 **This is a public working draft that has not been reviewed by the IAB or the IETF**
 
 ### Purpose of this Page
-This page contains specific information about the IETF relevant to the European Multi Stakeholder Platform on ICT Standardisation, MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [more information](http://ec.europa.eu/digital-agenda/en/european-multi-stakeholder-platform-ict-standardisation) about the MSP.
+This page contains specific information about the IETF relevant to the European Multi Stakeholder Platform on ICT Standardisation, MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [more information](https://digital-strategy.ec.europa.eu/en/policies/multi-stakeholder-platform-ict-standardisation) about the MSP.
 
 For more detailed information, or to submit relevant information to the MSP, please contact Mat Ford (ford at isoc.org) or Andrei Robachevsky (robachevsky at isoc.org) who are the IETF representatives in the platform and the editors of this page.
 
