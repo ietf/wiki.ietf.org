@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-06-22T15:15:28.960Z
+date: 2023-06-22T15:15:45.033Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,7 +47,7 @@ Please use your best judgement to add new items into one of the categories below
 #### Urgent and important
 
 * Followup on the Joint Retreat Discussion about Design Teams (Jay, Lars, Wes)
-* Executive session about draft-ietf-ippm-stamp-srpm
+* Executive session about draft-ietf-ippm-stamp-srpm (Martin)
 
 
 #### Urgent but not important
