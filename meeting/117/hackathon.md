@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-16T12:26:50.923Z
+date: 2023-06-26T07:52:11.919Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -353,6 +353,15 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/  
 
+### Path Tracing VPP
+- **Champion(s)**
+  - Severin Dellsperger (severin.dellsperger at ost.ch)
+  - Julian Klaiber (julian.klaiber at ost.ch)
+  - Laurent Metzger (laurent.metzger at ost.ch)
+- **Draft(s)**
+  - https://datatracker.ietf.org/doc/draft-filsfils-spring-path-tracing/
+- **Project Info**
+  - The goal of this hackathon project is to enhance the open-source [VPP](https://wiki.fd.io/view/VPP) Path Tracing implementation and documentation. Currently, only the sink and mid-point processing have been implemented. During the IETF hackathon 117, we will implement the source behavior and improve the documentation and API for easier configuration and operation of Path Tracing VPP.
   
  ### Your Project Name
 - **Champion(s)**
