@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-26T07:52:11.919Z
+date: 2023-06-27T15:45:22.548Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -362,7 +362,15 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/draft-filsfils-spring-path-tracing/
 - **Project Info**
   - The goal of this hackathon project is to enhance the open-source [VPP](https://wiki.fd.io/view/VPP) Path Tracing implementation and documentation. Currently, only the sink and mid-point processing have been implemented. During the IETF hackathon 117, we will implement the source behavior and improve the documentation and API for easier configuration and operation of Path Tracing VPP.
-  
+
+### SCHC Interoperability and ICMP compression
+- **Champion(s)**
+  - Laurent Toutain (Laurent.Toutain@imt-atlantique.fr)
+- **Draft**
+  - draft-barthel-schc-oam-schc-00
+- **Project Info**
+  - SCHC is a compression and fragmentation framework mainly defined for constrained networks. During the previous hackathons, an open source implementation in python called openSCHC has been developed. We expect to run some interoperability tests with libschc, another implementation writen in C and targeting embedded systems. We also want to test ICMP compression.
+
  ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
