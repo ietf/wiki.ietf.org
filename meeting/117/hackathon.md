@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-27T15:45:22.548Z
+date: 2023-06-27T19:20:13.485Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -371,7 +371,13 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - SCHC is a compression and fragmentation framework mainly defined for constrained networks. During the previous hackathons, an open source implementation in python called openSCHC has been developed. We expect to run some interoperability tests with libschc, another implementation writen in C and targeting embedded systems. We also want to test ICMP compression.
 
- ### Your Project Name
+ ### t_cose 2.0 alpha release
+- **Champion(s)**
+  - Laurence Lundblade <lgl@island-resort.com>
+- **Project Info**
+  - Get t_cose 2.0a1 out the door. Main work is getting RFC 9053 ECDH encryption to alpha-release quality. Multiple signers and COSE_Mac are alpha quality now, so it's just ECDH.  https://github.com/laurencelundblade/t_cose 
+
+### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
 - **Project Info**
