@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-06-28T19:55:36.990Z
+date: 2023-06-28T20:02:07.351Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -39,9 +39,9 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 ## Sunday, July 23, 2023
 
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: Continental 2/3
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: Continental 2/3
 Meetecho: 
 Onsite Tool: 
 
@@ -59,7 +59,7 @@ Onsite Tool:
     > - OPS
 > 3. Topic (Name)
 
-### IESG Only Meeting - Time: TBD Room: TBD
+### IESG Only Meeting - Time: TBD Room: Continental 2/3
 
 Meetecho: 
 Onsite Tool: 
@@ -80,20 +80,19 @@ What: A post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc.
 ## Monday, July 24, 2023 
 
 
-### IESG Meeting Time: 08:00-09:20 PDT (UTC -7) Room: TBD
+### IESG Meeting Time: 08:00-09:20 PDT (UTC -7) Room: Continental 2/3
 
 Meetecho: 
 Onsite Tool: 
 
-> 1. eBPF BOF licensing discussion (Lars)
-> 2. Liaisons for the coming year (suggested by Éric V)
-
+> 1. Topic (Name)
+> 2. Topic (Name)
 ## Tuesday, July 25, 2023
 
 No IESG breakfast. IAB has a breakfast meeting
   
 ## Wednesday, July 26, 2023
-### IESG Meeting Time: 08:00-09:20 PDT (UTC-7) Room: TBD
+### IESG Meeting Time: 08:00-09:20 PDT (UTC-7) Room: Continental 2/3
 
 Meetecho: 
 Onsite Tool:
@@ -102,14 +101,14 @@ Onsite Tool:
 > 2. Topic (Name)
 
 
-### IETF 117 Plenary TIME: 17:30-19:30 PDT (UTC-7) Room: TBD
+### IETF 117 Plenary TIME: 17:30-19:30 PDT (UTC-7) Room: Continetal 4/5/6
 
 ## Thursday, July 27, 2023
 
 No IESG breakfast. IAB has a breakfast meeting
 
 ## Friday, July 28, 2023 
-### Joint IAB/IESG Lunch - Time: TBD Room: TBD
+### Joint IAB/IESG Lunch - Time: TBD Room: Continental 2/3
 ### Joint IESG/IAB Meeting - Time: TBD PDT (UTC-7)
 
 Meetecho: 
@@ -132,11 +131,11 @@ Onsite Tool:
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: TBD 
+Location: Continental 7
 
 
 ## Sunday, 23 July 2023
-note: Not available before 10:00 Sunday
+note: Not available before 09:00 Sunday
 
 * TIME - ACTIVITY
 * TIME - ACTIVITY
