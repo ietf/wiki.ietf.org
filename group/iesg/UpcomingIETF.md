@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-05-01T16:17:55.451Z
+date: 2023-06-28T19:55:36.990Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -26,14 +26,14 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 
 ## Saturday and Sunday, July 22 and 23, 2023
 
-**Code Sprint** - Saturday, July 22, 2023 - 10:00-18:00 - Room: TBD
+**Code Sprint** - Saturday, July 22, 2023 - 10:00-18:00 - Room: Golden Gate 1
 
 **Hackathon**
-  - Saturday, July 22, 2023 - 09:30-21:00 - Room: TBD
-  - Sunday, July 23, 2023 - 09:30-16:00 - Room: TBD
+  - Saturday, July 22, 2023 - 09:30-21:00 - Room: Plaza AB
+  - Sunday, July 23, 2023 - 09:30-16:00 - Room: Plaza AB
 
-**New Participant's Quick Connections** Sunday, July 23, 2023 - 16:00-17:00 - Room: TBD
-**IETF 116 Welcome Reception** Sunday, July 23, 2023 - 17:00-19:00 - Room: TBD
+**New Participant's Quick Connections** Sunday, July 23, 2023 - 16:00-17:00 - Room: California Room
+**IETF 116 Welcome Reception** Sunday, July 23, 2023 - 17:00-19:00 - Room: Continental 5/6
 
 
 ## Sunday, July 23, 2023
