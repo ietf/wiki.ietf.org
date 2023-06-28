@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-28T13:37:05.107Z
+date: 2023-06-28T22:14:06.800Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -378,6 +378,16 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Laurence Lundblade <lgl@island-resort.com>
 - **Project Info**
   - Get t_cose 2.0a1 out the door. Main work is getting RFC 9053 ECDH encryption to alpha-release quality. Multiple signers and COSE_Mac are alpha quality now, so it's just ECDH.  https://github.com/laurencelundblade/t_cose 
+
+### L4S & AccECN interoperability
+- **Champion(s)**
+  - Greg White (g.white at cablelabs.com)
+- **Project Info**
+  - Continue the great work done at the IETF-114 and IETF-115 Hackathons to test and hack implementations of L4S and AccurateECN.  Endpoint implementations, network implementations, and related tools are welcome!
+- **Specifications**
+  - https://datatracker.ietf.org/doc/rfc9331/
+  - https://datatracker.ietf.org/doc/rfc9332/
+  - https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/
 
 ### Your Project Name
 - **Champion(s)**
