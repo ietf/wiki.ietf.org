@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-04-18T19:42:30.408Z
+date: 2023-06-29T10:45:21.250Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -43,13 +43,14 @@ Please feel free to add content however you think best, and we'll discuss how to
 | Type    | Peer-reviewed | Reference | 
 |:--------|:--------------|:----------|
 | TODO | Y | [Beurdouche et al. - 2015 - A Messy State of the Union: Taming the Composite State Machines of TLS](https://hal.inria.fr/hal-01114250/file/messy-state-of-the-union-oakland15.pdf) |
-| TODO | Y | [Cremers et al. - 2017 - A Comprehensive Symbolic Analysis of TLS 1.3](https://dl.acm.org/doi/pdf/10.1145/3133956.3134063) |
+| Tamarin model (symbolic) | Y | [Cremers, Horvat, Hoyland, Scott, van der Merwe - 2017 - A Comprehensive Symbolic Analysis of TLS 1.3](https://dl.acm.org/doi/pdf/10.1145/3133956.3134063) |
 | TODO | Y | [Bhargavan et al. 2018 - Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate](https://hal.inria.fr/hal-01528752/document) |
 | TODO | Y | [Patton et al. - 2018 - Partially Specified Channels](https://dl.acm.org/doi/pdf/10.1145/3243734.3243789) |
 
 Old TLS versions:
 - [Krawczyk et al. - 2013 - On the Security of the TLS Protocol: A Systematic Analysis](https://eprint.iacr.org/2013/339.pdf)
 - [Bhargavan et al. - 2014 - Proving the TLS Handshake Secure (as it is)](https://eprint.iacr.org/2014/182.pdf)
+- [Cremers, Horvat, Scott, van der Merwe - 2016 - Automated Analysis and Verification of TLS 1.3: 0-RTT, Resumption and Delayed Authentication](https://ieeexplore.ieee.org/document/7546518)
 
 ### TLS Extensions
 
@@ -64,7 +65,7 @@ Old TLS versions:
 
 | Type    | Peer-reviewed | Reference | 
 |:--------|:--------------|:----------|
-| TODO | Yes | [Cohn-Gordon et al. - 2018 - On Ends-to-Ends Encryption](https://eprint.iacr.org/2017/666.pdf) |
+| Manual (game-based computational) & Tamarin model (symbolic) | Yes | [Cohn-Gordon et al. - 2018 - On Ends-to-Ends Encryption](https://eprint.iacr.org/2017/666.pdf) |
 | TODO | ? | [Bhargavan et al. - 2018 - TreeKEM: Asynchronous Decentralized Key Management for Large Dynamic Groups](https://hal.inria.fr/hal-02425247/file/treekem%20%281%29.pdf) |
 | TODO | Yes | [Alwen et al. - 2019 - Security Analysis and Improvements for the IETF MLS Standard for Group Messaging](https://eprint.iacr.org/2019/1489) |
 | F* (symbolic) | ? | [Bhargavan et al. - 2019 - Formal Models and Verified Protocols for Group Messaging: Attacks and Proofs for IETF MLS](https://hal.laas.fr/INRIA/hal-02425229v1/file/mls-treekem.pdf) |
