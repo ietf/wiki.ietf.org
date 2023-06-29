@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-06-27T18:44:01.934Z
+date: 2023-06-29T12:44:23.347Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,8 @@ Please use your best judgement to add new items into one of the categories below
 * Followup on the Joint Retreat Discussion about Design Teams (Jay, Lars, Wes)
 * Executive session about draft-ietf-ippm-stamp-srpm (Martin)
 * Nomcom AD qualifications (John)
+* Is further agenda deconflicting needed, i.e., email from Tommy (Rob)
+* Can I pre-reserve side meeting space for Data folks? (Rob)
 
 #### Urgent but not important
 
