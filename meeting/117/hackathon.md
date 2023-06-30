@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-30T22:03:19.884Z
+date: 2023-06-30T22:39:07.307Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -249,7 +249,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Code**
   - https://github.com/CCC-Attestation/attested-tls-poc
   
-  ### EDHOC
+### EDHOC
 - **Champion(s)**
   - Marco Tiloca (marco.tiloca at ri.se)
   - Rikard Höglund (rikard.hoglund at ri.se)
@@ -260,7 +260,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
   - https://datatracker.ietf.org/doc/rfc8613/
   
-  ### CoAP Group Communication with Group OSCORE
+### CoAP Group Communication with Group OSCORE
 - **Champion(s)**
   - Rikard Höglund (rikard.hoglund at ri.se)
   - Marco Tiloca (marco.tiloca at ri.se)
@@ -270,7 +270,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
   
-  ### Interfaces of the OSCORE Group Manager
+### Interfaces of the OSCORE Group Manager
 - **Champion(s)**
   - Marco Tiloca (marco.tiloca at ri.se)
 - **Project Info**
@@ -282,7 +282,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/rfc9203/
 
 
- ### PQ in X.509, Signatures, KEMS and protocols
+### PQ in X.509, Signatures, KEMS and protocols
 - **Champion(s)**
 John Gray (john.gray@entrust.com)
 Mike Ounsworth (mike.ounsworth@entrust.com)
@@ -309,7 +309,7 @@ A good starting place is our Github repository: https://github.com/IETF-Hackatho
 For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
   
   
- ### Security Alert Standard Protocol (SASP) 
+### Security Alert Standard Protocol (SASP) 
 - **Champion(s)**
   - Avi Wolicki (avi at benchlabs.xyz)
 - **Project Info**
@@ -373,7 +373,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - SCHC is a compression and fragmentation framework mainly defined for constrained networks. During the previous hackathons, an open source implementation in python called openSCHC has been developed. We expect to run some interoperability tests with libschc, another implementation writen in C and targeting embedded systems. We also want to test ICMP compression.
 
- ### t_cose 2.0 alpha release
+### t_cose 2.0 alpha release
 - **Champion(s)**
   - Laurence Lundblade <lgl@island-resort.com>
 - **Project Info**
