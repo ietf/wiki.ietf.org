@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-06-30T16:35:05.757Z
+date: 2023-06-30T19:30:21.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -88,6 +88,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|   8:30-9:30     |  Golden Gate 4      |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project  [Background information and notes](https://notes.ietf.org/co2-footprint-20230727)                    |        [Zoom link](https://ietf.zoom.us/j/83150022323?pwd=MG1uQi9ST0hxeDBQVy8rMEkvVzQxUT09), Meeting Meeting ID: 831 5002 2323 Passcode: ietfco2             |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1YicTBLp3ZFVKIPWYxDy8NSTQMhzbxNFv/view?usp=sharing)        |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 
@@ -98,7 +99,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|      8:30-9:30     |    Continental 2-3   |     eodir @ IETF 117       |   GEN   |       eodir-chairs@ietf.org       |      Education & Outreach Directorate       |                    |        |
+|      8:30-9:30     |    Continental 2-3   |     eodir @ IETF 117       |   GEN   |       eodir-chairs@ietf.org       |      Education & Outreach Directorate       |        [Zoom link](https://ietf.zoom.us/j/88481338117?pwd=NDV4ZGs2aGk5eTFCOEcvdGs2Y0ladz09) Meeting ID: 884 8133 8117 Passcode: eodir   |  [eodir.ics](https://drive.google.com/file/d/1JYlO74TWSuHowGUIjrL98xCVuq53mNzV/view?usp=sharing)|
 {.dense}
 
 # Step Two: Room Reservation
