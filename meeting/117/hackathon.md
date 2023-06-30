@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-06-28T22:14:06.800Z
+date: 2023-06-30T22:03:19.884Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: Saturday - Sunday, 22-23 July 2023
 * :bridge_at_night: **Where**: Hilton Union Square, San Francisco, CA, USA
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: Plaza A-B, Lobby Level
 {.grid-list}
  
 **Sponsored by**
