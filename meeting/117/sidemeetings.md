@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-06-30T15:29:18.353Z
+date: 2023-06-30T15:39:07.090Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -57,7 +57,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
-|           |           |                 |      |              |             |                    |        |
+|  13:00-15:00 | Continental 2-3 | YANG/Data Pipeline | OPS | Thomas Graf / Rob Wilton | Integration of YANG telemetry with Data Industry | TBD | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
 
@@ -132,10 +132,10 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 13:00 |                  |                  |  
-| 13:30 |                  |                  | 
-| 14:00 |                  |                  |  
-| 14:30 |                  |                  | 
+| 13:00 |                  | YANG/Data Pipeline |  
+| 13:30 |                  | YANG/Data Pipeline | 
+| 14:00 |                  | YANG/Data Pipeline |  
+| 14:30 |                  | YANG/Data Pipeline | 
 | 15:00 |                  |                  |  
 | 15:30 |                  |                  |  
 | 16:00 |                  |                  |  
