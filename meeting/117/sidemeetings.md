@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-06-30T19:30:21.961Z
+date: 2023-06-30T20:02:42.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -228,8 +228,8 @@ Location: Tower 1, Ballroom Level
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:00 |                  |                  |  
-| 08:30 |                  |                  |  
-| 09:00 |                  |                  |     
+| 08:30 |    co2 footprint              |                  |  
+| 09:00 |    co2 footprint              |                  |     
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
