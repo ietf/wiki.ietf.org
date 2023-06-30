@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-06-30T15:48:23.660Z
+date: 2023-06-30T15:53:58.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -98,7 +98,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|           |           |                 |      |              |             |                    |        |
+|      8:30-9:30     |    Continental 2-3   |     eodir @ IETF 117       |   GEN   |       eodir-chairs@ietf.org       |      Education & Outreach Directorate       |                    |        |
 {.dense}
 
 # Step Two: Room Reservation
@@ -260,8 +260,8 @@ Location: Tower 1, Ballroom Level
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:00 |                  |                  |  
-| 08:30 |                  |                  |  
-| 09:00 |                  |                  |     
+| 08:30 |                  |         eodir @ IETF 117          |  
+| 09:00 |                  |         eodir @ IETF 117         |     
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
