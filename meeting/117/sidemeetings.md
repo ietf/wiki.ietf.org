@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-06-30T16:33:42.295Z
+date: 2023-06-30T16:35:05.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -57,8 +57,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
-|  13:00-14:00 | Continental 2-3 | YANG/CBOR Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
-|  14:00-15:00 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
+|  17:00-18:00 | Continental 2-3 | YANG/CBOR Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
+|  18:00-19:00 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
 
@@ -133,10 +133,10 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 13:00 |                  | YANG/CBOR Kafka  |  
-| 13:30 |                  | YANG/CBOR Kafka  | 
-| 14:00 |                  | Digital Map      |  
-| 14:30 |                  | Digital Map      | 
+| 13:00 |                  |                  |  
+| 13:30 |                  |                  | 
+| 14:00 |                  |                  |  
+| 14:30 |                  |                  | 
 | 15:00 |                  |                  |  
 | 15:30 |                  |                  |  
 | 16:00 |                  |                  |  
