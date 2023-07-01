@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-01T06:06:10.288Z
+date: 2023-07-01T07:39:19.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -59,6 +59,7 @@ Please sort the meeting by time if possible.
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
 |  17:00-17:45 | Continental 2-3 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
+|  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | TBD | TBD |
 | 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
 |   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        TBD            |    TBD    |
 {.dense}
@@ -146,9 +147,9 @@ Location: Tower 1, Ballroom Level
 | 17:00 |                  | YANG/Kafka       | 
 | 17:30 |                  | Digital Map & YANG/Kafka  | 
 | 18:00 |                  | Digital Map      |
-| 18:30 |                  |                  | 
-| 19:00 |                  |                  | 
-| 19:30 |                  |                  |  
+| 18:30 |                  | ROSA             | 
+| 19:00 |                  | ROSA             | 
+| 19:30 |                  | ROSA             |  
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
