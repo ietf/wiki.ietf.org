@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-06-30T23:58:13.206Z
+date: 2023-07-01T00:01:19.587Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -60,7 +60,7 @@ Please sort the meeting by time if possible.
 |  17:00-18:00 | Continental 2-3 | YANG/CBOR Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  18:00-19:00 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 | 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
-|           |           |                 |      |              |             |                    |        |
+|   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        TBD            |    TBD    |
 {.dense}
 
 
