@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-01T12:43:49.296Z
+date: 2023-07-01T13:57:42.085Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -91,6 +91,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30     |  Golden Gate 4      |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project  [Background information and notes](https://notes.ietf.org/co2-footprint-20230727)                    |        [Zoom link](https://ietf.zoom.us/j/83150022323?pwd=MG1uQi9ST0hxeDBQVy8rMEkvVzQxUT09), Meeting Meeting ID: 831 5002 2323 Passcode: ietfco2             |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1YicTBLp3ZFVKIPWYxDy8NSTQMhzbxNFv/view?usp=sharing)        |
+|      15:30-17:00     |    Continental 2-3   |     v6ops side meeting      |   OPS   |       xipengxiao@gmail.com       |      1. AWS IPv6 deployment case 2. Operator X IPv6 deployment case 3. US Government IPv6 mandates & impact to foreign companies doing business with USG       |       To be announced  | |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 
