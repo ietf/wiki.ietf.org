@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-01T07:39:19.846Z
+date: 2023-07-01T12:13:43.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -79,7 +79,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|           |           |                 |      |              |             |                    |        |
+| 9:30-10:30|   TBD     | Protocol Performance over Satellite | TSV | G Fairhurst | Side for participant to discuss transport protocol performance over deployed satellite systems |    TBD                |     TBD   |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
@@ -199,9 +199,9 @@ Location: Tower 1, Ballroom Level
 | 08:00 |                  |   NOT AVAILABLE  |  
 | 08:30 |                  |   NOT AVAILABLE  |  
 | 09:00 |                  |   NOT AVAILABLE  |     
-| 09:30 |                  |   NOT AVAILABLE  |   
-| 10:00 |                  |                  |  
-| 10:30 |                  |                  |  
+| 09:30 | Protocol Performance over Satellite  |   NOT AVAILABLE  |   
+| 10:00 |  Protocol Performance over Satellite                 |                  |  
+| 10:30 |  Protocol Performance over Satellite                 |                  |  
 | 11:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |  
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
