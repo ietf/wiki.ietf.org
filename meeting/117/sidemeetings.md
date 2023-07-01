@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-01T14:03:55.231Z
+date: 2023-07-01T15:26:38.856Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -62,6 +62,8 @@ Please sort the meeting by time if possible.
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | TBD | TBD |
 | 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
 |   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        TBD            |    TBD    |
+| 19:00-20:00 | Golden Gate 4 | Public Interest Technology Group (PITG) | - | Corinne Cath-Speth, Gurshabad Grover, Mallory Knodel | Public Interest Technology Group (PITG) | TBD | TBD |
+
 {.dense}
 
 
@@ -149,8 +151,8 @@ Location: Tower 1, Ballroom Level
 | 17:30 |                  | Digital Map & YANG/Kafka  | 
 | 18:00 |                  | Digital Map      |
 | 18:30 |                  | ROSA             | 
-| 19:00 |                  | ROSA             | 
-| 19:30 |                  | ROSA             |  
+| 19:00 | PITG       | ROSA             | 
+| 19:30 | PITG             | ROSA             |  
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
