@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-06-28T15:56:57.761Z
+date: 2023-07-02T13:30:13.867Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -24,7 +24,8 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---|
-(https://datatracker.ietf.org/doc/draft-zhang-pce-resource-sharing/) | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
+|draft-dong-pce-pcep-nrp|This is the new merged I-D, authors ask fro adoption in 116|
+draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
 
 ## WG Adoption Call Queue
 
