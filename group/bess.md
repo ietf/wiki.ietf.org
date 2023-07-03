@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-07-03T08:40:24.621Z
+date: 2023-07-03T08:40:53.539Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -94,11 +94,6 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-l2gw-proto:
 	- no objection during WGLC but too few replies from WG
   - Implementations exist
-
-- : 
-   - Authors confirmed that comments have been addressed . 
-   - 
-
 
 - draft-ietf-bess-evpn-ipvpn-interworking:
   - need feedback from IDR chairs on aggregation rules and attribute propagation.
