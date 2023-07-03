@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-06-30T15:38:24.691Z
+date: 2023-07-03T08:40:24.621Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -23,7 +23,6 @@ dateCreated: 2022-11-05T16:17:26.188Z
 | Document Name | Poll type | Chair in Charge | Start date | End date | Comment | 
 | --- | --- | --- | --- | --- | --- |
 | 
-| draft-ietf-bess-evpn-l2gw-proto| WGLC | Stephane | |June 14|  June 30th | |
 {.dense}
 
 
@@ -92,9 +91,13 @@ Shepherd's name indicated within parenthesis.
 
 ## Documents that failed Working Group Last Call 
 
+- draft-ietf-bess-evpn-l2gw-proto:
+	- no objection during WGLC but too few replies from WG
+  - Implementations exist
 
-- draft-ietf-bess-evpn-irb-extended-mobility: 
+- : 
    - Authors confirmed that comments have been addressed . 
+   - 
 
 
 - draft-ietf-bess-evpn-ipvpn-interworking:
@@ -106,10 +109,15 @@ Shepherd's name indicated within parenthesis.
 
 
 * draft-ietf-bess-evpn-ac-aware-bundling
-* draft-ietf-bess-ebgp-dmz-02 
+	- RTGDIR review requested
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
+	- RTGDIR review requested
 * draft-ietf-bess-extended-evpn-optimized-ir-03 
+	- RTGDIR review requested
 * draft-ietf-bess-rfc7432bis
+	- RTGDIR review requested
+* draft-ietf-bess-evpn-irb-extended-mobility (failed before, retry needed):
+	- RTGDIR review requested
  
 ## Recently adopted documents
 
@@ -124,8 +132,6 @@ Shepherd's name indicated within parenthesis.
 * draft-thubert-bess-secure-evpn-mac-signaling
 * draft-duan-bess-mvpn-ipv6-infras
 * draft-burdet-bess-evpn-fast-reroute
-* draft-trr-bess-bgp-srv6-args
-
 
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
@@ -144,7 +150,7 @@ Shepherd's name indicated within parenthesis.
 |draft-ietf-bess-weighted-hrw-00| 6/1/23 | update in progress |
 |draft-ietf-bess-bgp-multicast-05 |6/30/23| new update posted |
 |draft-ietf-bess-secure-evpn-00  | 6/30/23 | recently adopted |
-| draft-ietf-bess-ebgp-dmz-03  | 6/30/23 | talking to authors |
+| draft-ietf-bess-ebgp-dmz-03  | 6/30/23 | Discussion with IDR to be solved |
 |draft-ietf-bess-evpn-vpws-seamless-00 | 6/30/23 | recently adopted |
 | draft-ietf-bess-evpn-geneve-06  | 6/30/23 | waiting for implementation |
 
