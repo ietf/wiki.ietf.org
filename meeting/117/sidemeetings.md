@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-03T18:09:40.966Z
+date: 2023-07-03T18:11:58.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -222,9 +222,9 @@ Location: Tower 1, Ballroom Level
 | 16:00 |                  |                  |  
 | 16:30 |                  |                  |  
 | 17:00 |                  |                  | 
-| 17:30 |                  |                  | 
-| 18:00 |                  |                  |  
-| 18:30 |                  |                  | 
+| 17:30 |                  | Network Management Evolution                 | 
+| 18:00 |                  | Network Management Evolution                 |  
+| 18:30 |                  | Network Management Evolution                 | 
 | 19:00 |                  |  6GIP Side Meeting                | 
 | 19:30 |                  |  6GIP Side Meeting                |  
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
