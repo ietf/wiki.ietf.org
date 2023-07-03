@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-03T08:50:53.007Z
+date: 2023-07-03T08:51:34.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -150,9 +150,9 @@ Location: Tower 1, Ballroom Level
 | 15:30 | Gordian Envelope and dCBOR |      AI DC / HPC            |  
 | 16:00 | Gordian Envelope and dCBOR |     AI DC / HPC              |  
 | 16:30 | Gordian Envelope and dCBOR |       AI DC / HPC            |  
-| 17:00 |                  | YANG/Kafka       | 
-| 17:30 |                  | Digital Map & YANG/Kafka  | 
-| 18:00 |                  | Digital Map      |
+| 17:00 |Metaverse side meeting| YANG/Kafka       | 
+| 17:30 |Metaverse side meeting| Digital Map & YANG/Kafka  | 
+| 18:00 |Metaverse side meeting| Digital Map      |
 | 18:30 |                  | ROSA             | 
 | 19:00 | PITG       | ROSA             | 
 | 19:30 | PITG             | ROSA             |  
