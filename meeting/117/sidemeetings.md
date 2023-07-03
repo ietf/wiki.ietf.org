@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-03T08:43:51.420Z
+date: 2023-07-03T08:44:43.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -106,8 +106,6 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |      8:30-9:30     |    Continental 2-3   |     eodir @ IETF 117       |   GEN   |       eodir-chairs@ietf.org       |      Education & Outreach Directorate       |        [Zoom link](https://ietf.zoom.us/j/88481338117?pwd=NDV4ZGs2aGk5eTFCOEcvdGs2Y0ladz09) Meeting ID: 884 8133 8117 Passcode: eodir   |  [eodir.ics](https://drive.google.com/file/d/1JYlO74TWSuHowGUIjrL98xCVuq53mNzV/view?usp=sharing)|
-{.dense}
-|----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |      9:30-11:00     |    Golden Gate 4   |     CoRE core topics @ IETF 117       |   ART   |       core-chairs@ietf.org       |      CoRE core topics       |        TBD   |  TBD |
 {.dense}
 
