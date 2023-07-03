@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-03T16:47:20.050Z
+date: 2023-07-03T18:09:40.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -83,6 +83,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-10:50 |   Golden Gate 4     | Protocol Performance over Satellite | TSV | G Fairhurst | Side for participant to discuss transport protocol performance over deployed satellite systems |    TBD                |     TBD   |
+| 17:30-18:30 |   Continental 2-3    | Evolution of Network Management (Research Group) | IRTF | Laurent Ciavaglia, Jerome Francois,  <nmrg-chairs@ietf.org> | Discussing evolution of the network management research group: research questions/topics, building research agenda, research approach/methodology |    [Webex meeting](https://ietf.webex.com/ietf/j.php?MTID=m03eee3192d0c9b6e124443888e141d4e) ; Meeting ID : 2434 296 8680  ; Meeting password: netmanevo  |     [ Network Management Evolution.ics](https://drive.google.com/file/d/13YBh9Hz9JMu82tpoAFbVSTn-ZHooiu74/view?usp=drive_link)   |
 |  19:00-20:00         | TBD          |   6GIP Side Meeting             | INT     |    B Sarikaya (sarikaya@ieee.org)          |  Next G Alliance Update IP Mobility Update           | TBD                   |      TBD  |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
