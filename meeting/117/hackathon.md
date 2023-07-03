@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-03T17:05:20.867Z
+date: 2023-07-03T17:07:40.532Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -67,7 +67,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 24 July, Time: 18:30 - 19:30, Room: TBD
+  * Monday, 24 July, Time: 18:30 - 19:30, Room: [Golden Gate 2-3, Lobby Level](https://datatracker.ietf.org/meeting/117/floor-plan?room=golden-gate-2-3)
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 24 July
 
