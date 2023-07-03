@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-03T12:32:43.974Z
+date: 2023-07-03T15:42:33.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -83,7 +83,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-10:50 |   TBD     | Protocol Performance over Satellite | TSV | G Fairhurst | Side for participant to discuss transport protocol performance over deployed satellite systems |    TBD                |     TBD   |
-|           |           |                 |      |              |             |                    |        |
+|  19:00-20:00         | TBD          |   6GIP Side Meeting             | INT     |    B Sarikaya (sarikaya@ieee.org)          |  Next G Alliance Update IP Mobility Update           | TBD                   |      TBD  |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 
@@ -224,8 +224,8 @@ Location: Tower 1, Ballroom Level
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
 | 18:30 |                  |                  | 
-| 19:00 |                  |                  | 
-| 19:30 |                  |                  |  
+| 19:00 |                  |  6GIP Side Meeting                | 
+| 19:30 |                  |  6GIP Side Meeting                |  
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
