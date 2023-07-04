@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-04T13:42:37.106Z
+date: 2023-07-04T13:45:56.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -62,7 +62,6 @@ Please sort the meeting by time if possible.
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | TBD | TBD |
 | 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
 |   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        TBD            |    TBD    |
-| 17:00-18:30 | Golden Gate 4 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 | 19:00-20:00 | Golden Gate 4 | Public Interest Technology Group (PITG) | - | Corinne Cath-Speth, Gurshabad Grover, Mallory Knodel | Public Interest Technology Group (PITG) | TBD | TBD |
 
 {.dense}
@@ -72,6 +71,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+| 8:00-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
@@ -170,9 +170,9 @@ Location: Tower 1, Ballroom Level
 | **Time** | **Golden Gate 4 (16 people)** | **Continental 2-3 (40 people)** | 
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:00 | NOT AVAILABLE    |                  |  
-| 08:30 | NOT AVAILABLE    |                  |  
-| 09:00 | NOT AVAILABLE    |                  |     
+| 08:00 | NOT AVAILABLE    |Metaverse side meeting|  
+| 08:30 | NOT AVAILABLE    |Metaverse side meeting|  
+| 09:00 | NOT AVAILABLE    |Metaverse side meeting|     
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
