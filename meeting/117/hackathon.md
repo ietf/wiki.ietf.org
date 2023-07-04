@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-03T17:07:40.532Z
+date: 2023-07-04T04:17:47.836Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -388,6 +388,30 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/rfc9331/
   - https://datatracker.ietf.org/doc/rfc9332/
   - https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/
+### SAV Open Playground
+ - **Champion(s)**
+ 	- Yuqian Shi (shiyuqian at zgclab.edu.cn)
+  	- Hongbing Yang (yanghb at zgclab.edu.cn)
+  	- Libin Liu (liulb at zgclab.edu.cn)
+    - Lancheng Qin (qlc19 at mails.tsinghua.edu.cn)
+    - Fang Gao (gaofang at zgclab.edu.cn)
+    - Nan Geng (gengnan at huawei.com)
+    - Li Chen (lichen at zgclab.edu.cn)
+  - **Project Info**
+  SAV Open Playground(SAVOP) provides an open platform to evaluate different SAV mechanisms. 
+  	- GitRepo: https://github.com/SAV-Open-Playground/
+    - Hackathon task: enabling flexible deployment of SAV rules based on the SIB and SAV mechanisms
+ 			- Simulation of SAV mechanisms based on SAVOP
+			- Evaluation of existing SAV mechanisms with SAVOP
+					- Case 1: Limited propagation of prefixes, e.g., NO_EXPORT
+          - Case 2: Hidden prefixes, e.g., DSR
+          - Case 3: Attacks by source address spoofing within a customer cone (CC)
+          - Case 4: Attacks by source address spoofing from a provider/peer AS
+
+    
+  
+
+  
 
 ### Your Project Name
 - **Champion(s)**
