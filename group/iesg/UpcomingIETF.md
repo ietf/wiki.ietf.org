@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-06-28T20:02:07.351Z
+date: 2023-07-05T18:07:08.794Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -15,7 +15,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
-1. Topic (IESG or IESG/IAB) (Name)
+1. Update on ISOC Policy Program (Ryan Polk) - Joint IAB/IESG Sunday
 2. Topic (IESG or IESG/IAB) (Name)
 3. Topic (IESG or IESG/IAB) (Name)
 4. Topic (IESG or IESG/IAB) (Name)
