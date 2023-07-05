@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-04T15:54:22.069Z
+date: 2023-07-05T09:09:16.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -73,7 +73,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 |           |           |                 |      |              |             |                    |        |
-|           |           |                 |      |              |             |                    |        |
+| 13:00-14:00 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | TBD  | TBD  |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
@@ -185,8 +185,8 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 13:00 |                  |                  |  
-| 13:30 |                  |                  | 
+| 13:00 |  Mobile Traffic Steering  |                  |  
+| 13:30 |  Mobile Traffic Steering  |                  | 
 | 14:00 |                  |                  |  
 | 14:30 |                  |                  | 
 | 15:00 |                  |                  |  
