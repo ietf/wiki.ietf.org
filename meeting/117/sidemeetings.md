@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-05T19:00:29.777Z
+date: 2023-07-05T19:51:29.375Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -74,7 +74,7 @@ Please sort the meeting by time if possible.
 | 8:00-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 |           |           |                 |      |              |             |                    |        |
 | 13:00-14:00 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | TBD  | TBD  |
-| 15:00-16:30 | Continental 2-3 | L4S on WiFi side meeting | IPPM  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
+| 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | IPPM  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
 
@@ -181,14 +181,14 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 13:00 |  Mobile Traffic Steering  |                  |  
-| 13:30 |  Mobile Traffic Steering  |                  | 
-| 14:00 |                  |                  |  
-| 14:30 |                  |                  | 
-| 15:00 |                  | L4S on WiFi side meeting |  
-| 15:30 |                  | L4S on WiFi side meeting |  
-| 16:00 |                  | L4S on WiFi side meeting |  
-| 16:30 |                  | L4S on WiFi side meeting |  
+| 13:00 |  Mobile Traffic Steering  | L4S on WiFi side meeting |  
+| 13:30 |  Mobile Traffic Steering  | L4S on WiFi side meeting | 
+| 14:00 |                  | L4S on WiFi side meeting |  
+| 14:30 |                  | L4S on WiFi side meeting | 
+| 15:00 |                  |                  | 
+| 15:30 |                  |                  | 
+| 16:00 |                  |                  | 
+| 16:30 |                  |                  | 
 | 17:00 |                  |                  | 
 | 17:30 |                  |                  | 
 | 18:00 |                  |                  |  
