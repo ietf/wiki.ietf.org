@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-06-22T14:26:36.378Z
+date: 2023-07-06T14:13:49.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -15,14 +15,15 @@ dateCreated: 2023-06-15T13:32:47.922Z
 Owner: WG
 Update:
 - 06/22: no update so far.
-
+- 07/06: no update.
 
 
 ### 2. DETNET discussion on MNA
 Owner: DETNET Chairs/Greg
 Update:
 - 06/15: Greg is scheduled to give a presentation on July 6, 2023
-
+- 07/06: on agenda.
+  
 ### 3. Update to MNA WG IDs: <draft-ietf-mpls-mna-requirements> and <draft-ietf-mpls-mna-fwk> to cover discussion points on 06/15:
 Owners: editors of IDs
 Points raised:
@@ -31,6 +32,7 @@ Points raised:
   - If ISD is repeated in the stack (due to readable depth) - modifying only the (above) ISD can lead to inconsistency
 Update:
   - 06/22: no update.
+  - 07/06: to send a summary of discussion to WG mailing list..
 
   
 
