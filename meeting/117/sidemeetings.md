@@ -32,7 +32,7 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 * Active consent from participants should be sought by organizers for any side meeting that is recorded.
 
-* Side meeting dates and times should be listed in Yokohama local time, UTC+9 (Please note that Europe and the USA go into Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
+* Side meeting dates and times should be listed in San Francisco local time, UTC-7 (Please note that Europe and the USA go into Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
 * Please provide a calendar invitation (an `.ics` file) for a side meeting by putting the link in the appropriate column below.
 
