@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-05T16:16:13.017Z
+date: 2023-07-06T10:55:50.983Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -425,6 +425,15 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)  
 
+### Ultra-Low Latency Cryptography
+- **Champion(s)**
+  - Yumi Sakemi (yumi.sakemi@gmo-cybersecurity.com)
+  - Satoru Kanno (satoru.kanno@gmo-cybersecurity.com)
+- **Project Info**
+  - In future communication technologies such as 6G, there are technical requirements that demand ultra-low latency and high levels of security. So, the purpose of this project is to achieve low-latency and highly secure cryptographic techniques targeting future communication technologies.
+  - At the IETF117 Hackathon, we will take on the challenge of extending OpenSSL with the low-latency cryptographic technique “Areion”.
+  - Paper at https://tches.iacr.org/index.php/TCHES/article/view/10279/9727
+  - We are currently recruiting collaborators who will join us in this project.
   
 
 ### Your Project Name
