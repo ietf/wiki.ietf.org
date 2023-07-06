@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-06T16:46:40.020Z
+date: 2023-07-06T22:20:20.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -97,6 +97,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 |   8:30-9:30     |  Golden Gate 4      |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project  [Background information and notes](https://notes.ietf.org/co2-footprint-20230727)                    |        [Zoom link](https://ietf.zoom.us/j/83150022323?pwd=MG1uQi9ST0hxeDBQVy8rMEkvVzQxUT09), Meeting Meeting ID: 831 5002 2323 Passcode: ietfco2             |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1YicTBLp3ZFVKIPWYxDy8NSTQMhzbxNFv/view?usp=sharing)        |
+|      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    TBD    |   TBD    |
 |      15:30-17:00     |    Continental 2-3   |     v6ops side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing  <br/> 2. Operator X IPv6 deployment case <br/> 3. US Government IPv6 mandates & impact to companies doing business with USG       |       To be announced  | |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
@@ -247,8 +248,8 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 13:00 |                  |                  |  
-| 13:30 |                  |                  | 
+| 13:00 |                  |RPC GitHub Workshop|  
+| 13:30 |                  |RPC GitHub Workshop| 
 | 14:00 |                  |                  |  
 | 14:30 |                  |                  | 
 | 15:00 |                  |                  |  
