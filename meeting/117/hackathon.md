@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-06T10:55:50.983Z
+date: 2023-07-06T11:13:39.103Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -434,6 +434,9 @@ For information on OIDs used to create interoperable structures, consult: https:
   - At the IETF117 Hackathon, we will take on the challenge of extending OpenSSL with the low-latency cryptographic technique “Areion”.
   - Paper at https://tches.iacr.org/index.php/TCHES/article/view/10279/9727
   - We are currently recruiting collaborators who will join us in this project.
+- **Specifications**
+	- TBD
+
   
 
 ### Your Project Name
