@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-05T19:52:58.219Z
+date: 2023-07-06T07:23:50.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -57,6 +57,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
+| 08:30-09:30 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | TBD  | TBD  |
 |  17:00-17:45 | Continental 2-3 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | TBD | TBD |
@@ -73,7 +74,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
 |           |           |                 |      |              |             |                    |        |
-| 13:00-14:00 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | TBD  | TBD  |
+
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
@@ -135,8 +136,8 @@ Location: Tower 1, Ballroom Level
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:00 |                  |   NOT AVAILABLE  |  
-| 08:30 |                  |   NOT AVAILABLE  |  
-| 09:00 |                  |   NOT AVAILABLE  |     
+| 08:30 | Mobile Traffic Steering |   NOT AVAILABLE  |  
+| 09:00 | Mobile Traffic Steering |   NOT AVAILABLE  |     
 | 09:30 |                  |   NOT AVAILABLE  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
@@ -181,8 +182,8 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
 | 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 13:00 |  Mobile Traffic Steering  | L4S on WiFi side meeting |  
-| 13:30 |  Mobile Traffic Steering  | L4S on WiFi side meeting | 
+| 13:00 |                  | L4S on WiFi side meeting |  
+| 13:30 |                  | L4S on WiFi side meeting | 
 | 14:00 |                  | L4S on WiFi side meeting |  
 | 14:30 |                  | L4S on WiFi side meeting | 
 | 15:00 |                  |                  | 
