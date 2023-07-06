@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-06T07:23:50.017Z
+date: 2023-07-06T12:56:11.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -72,9 +72,6 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 8:00-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | TBD | TBD |
-|           |           |                 |      |              |             |                    |        |
-
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
@@ -172,9 +169,9 @@ Location: Tower 1, Ballroom Level
 | **Time** | **Golden Gate 4 (16 people)** | **Continental 2-3 (40 people)** | 
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:00 | NOT AVAILABLE    |Metaverse side meeting|  
-| 08:30 | NOT AVAILABLE    |Metaverse side meeting|  
-| 09:00 | NOT AVAILABLE    |Metaverse side meeting|     
+| 08:00 | NOT AVAILABLE    |                  |  
+| 08:30 | NOT AVAILABLE    |                  |  
+| 09:00 | NOT AVAILABLE    |                  |     
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
