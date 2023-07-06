@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-06T14:13:01.337Z
+date: 2023-07-06T16:54:09.285Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -38,6 +38,17 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 
 ## Sunday, July 23, 2023
 
+### IESG Only Meeting - Time: 09:30-11:30 Room: Continental 2/3
+
+Meetecho: 
+Onsite Tool: 
+
+> 1. Welcome
+> 1. Updates
+>    - RFC Editor
+>    - IANA
+> 1. Topic (Name)
+> 1. Topic (Name)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Continental 2/3
 
@@ -59,17 +70,6 @@ Onsite Tool:
     > - OPS
 > 3. Topic (Name)
 
-### IESG Only Meeting - Time: TBD Room: Continental 2/3
-
-Meetecho: 
-Onsite Tool: 
-
-> 1. Welcome
-> 1. Updates
->    - RFC Editor
->    - IANA
-> 1. Topic (Name)
-> 1. Topic (Name)
 
 ### Sunday Night Social 
 
