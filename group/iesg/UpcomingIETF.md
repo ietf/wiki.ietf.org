@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-06T16:54:09.285Z
+date: 2023-07-06T23:05:37.842Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -31,6 +31,12 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 **Hackathon**
   - Saturday, July 22, 2023 - 09:30-21:00 - Room: Plaza AB
   - Sunday, July 23, 2023 - 09:30-16:00 - Room: Plaza AB
+
+### Saturday Night Social 
+
+Time: 17:00-19:00
+Location: Vista Lounge
+What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 **New Participant's Quick Connections** Sunday, July 23, 2023 - 16:00-17:00 - Room: California Room
 **IETF 116 Welcome Reception** Sunday, July 23, 2023 - 17:00-19:00 - Room: Continental 5/6
@@ -69,13 +75,7 @@ Onsite Tool:
     > - SEC
     > - OPS
 > 3. Topic (Name)
-
-
-### Sunday Night Social 
-
-Time: 17:00-19:00
-Location: TBD
-What: A post-dinner hangout with other ADs, IAB, LLC, Secretariat, etc. 
+ 
 
 ## Monday, July 24, 2023 
 
