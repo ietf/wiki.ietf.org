@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-06T12:56:11.809Z
+date: 2023-07-06T16:46:40.020Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -73,6 +73,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
+| 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
+
 |           |           |                 |      |              |             |                    |        |
 {.dense}
 
@@ -189,8 +191,8 @@ Location: Tower 1, Ballroom Level
 | 16:30 |                  |                  | 
 | 17:00 |                  |                  | 
 | 17:30 |                  |                  | 
-| 18:00 |                  |                  |  
-| 18:30 |                  |                  | 
+| 18:00 |                  | SADCDN meeting   |  
+| 18:30 |                  | SADCDN meeting   | 
 | 19:00 |                  |                  | 
 | 19:30 |                  |                  |  
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
