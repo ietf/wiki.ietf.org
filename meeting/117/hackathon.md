@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-08T17:30:01.408Z
+date: 2023-07-08T17:30:47.027Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -223,7 +223,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   An initial POC was done with Christian Huitema (see below) with his picoquic stack. 
   We would like to go further with more QUIC stacks such as Mozilla Neqo (in Rust) or 
   Google Quiche(in C++) or Cloudflare Quiche (in Rust) or picoquic(in C) or QUINN (in Rust).
-- ** Additional Info**
+- **Additional Info**
   - POC: https://www.privateoctopus.com/2023/02/07/quic-to-mars.html
   - Mozilla Neqo: https://github.com/mozilla/neqo
   - Cloudflare Quiche: https://github.com/cloudflare/quiche
