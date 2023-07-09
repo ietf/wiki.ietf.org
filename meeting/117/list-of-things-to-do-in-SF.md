@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T19:40:16.277Z
+date: 2023-07-09T19:58:36.013Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -218,6 +218,7 @@ One of Wes' favorite places to hike and see the shoreline. Going across Golden G
 
 ## Berkeley
 Itself a city of 120,000 people and a major university town, Berkeley has many affordable and good resturants downtown and along Shattuck. The University has a botanical garden and the Lawrence Hall of Science.
+Evans Hall is the statistics, economics and mathematics building. It served as the gateway to the entire west coast's ARPAnet access in the early stages of Internet (56 kbps line to Chicago.
 
 ### Berkeley Pier
 
