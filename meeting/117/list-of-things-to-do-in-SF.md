@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T05:04:26.767Z
+date: 2023-07-09T06:09:21.206Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -32,7 +32,7 @@ Start at **Powell/Mason Cable Car Turnaround**
 
 Expect to wait in a line if you want to ride it
 
-# Near by
+# Nearby
 
 ## China town
 
@@ -61,7 +61,7 @@ https://maritime.org/uss-pampanito/
 
 SF has many museums that are worth visiting.  Here are but a few:
 
-## Exploratorum science museum
+## Exploratorium science museum
 
 A very hands-on science museum 
 
@@ -118,12 +118,12 @@ https://www.aquariumofthebay.org/
 ## **Ferry Building**
 
 1.7km one-way walk.  Not much to see once there, but still a nice walk
-to the bay shore. Contains shops and resturants.
+to the bay shore. Contains shops and restaurants.
 
 ## Yoda Fountain
 
-Apparently there is a fountain of Yoda outside of the Letterman digital Arts Center
-
+Apparently there is a fountain of Yoda outside of the Letterman Digital Arts Center.
+(This is near the LucasFilm offices in Presido)
 https://www.atlasobscura.com/places/yoda-fountain
 
 ## Lombard Street
@@ -151,6 +151,9 @@ Iconic row of Victorians next to a popular park
 
 ## The Mission
 If you want food from any Latin American country, this is the neighborhood to go. Famous for murals and the Mission style burrito. Short BART ride away.
+
+## **Dandelion chocolate**
+For chocolate lovers. In Mission, near Dolores Park.
 
 # Farther away and requires planning
 
@@ -207,6 +210,7 @@ Alternatively the East Bay has Redwood Regional Park.
 ## Computer History Museum
 
 This is about an hour away. Very little networking gear on display.
+Among other gems, there is a Babbage machine, an IBM 1401, even the original google server https://www.computerhistory.org/collections/catalog/102662167.
 
 https://computerhistory.org/
 
