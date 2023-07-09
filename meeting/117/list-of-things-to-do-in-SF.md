@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T03:08:18.031Z
+date: 2023-07-09T04:45:17.634Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -73,6 +73,11 @@ Fine art.
 
 https://www.famsf.org/
 
+## Legion of Honor
+
+Focused almost exclusively on European art and has small, well curated collection in a magificent building overlooking the Golden Gate
+https://www.famsf.org/visit/legion-of-honor
+
 ## **Musée Mécanique**
 
 Wes thinks this is one of the best hidden things in SF.  It contains
@@ -113,7 +118,7 @@ https://www.aquariumofthebay.org/
 ## **Ferry Building**
 
 1.7km one-way walk.  Not much to see once there, but still a nice walk
-to the bay shore.
+to the bay shore. Contains shops and resturants.
 
 ## Yoda Fountain
 
@@ -192,6 +197,10 @@ Muir Woods is a very famous but small redwood forest.  It **requires reservation
 This is about an hour away. Very little networking gear on display.
 
 https://computerhistory.org/
+
+## Cantor Arts Center
+https://museum.stanford.edu/ A painfully long caltrain ride, or about an hour by car.
+Has the Gates of Hell in the garden. Free, reservation required.
 
 ## Climbing Gym
 
