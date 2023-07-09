@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T20:03:29.945Z
+date: 2023-07-09T20:56:20.340Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -26,11 +26,12 @@ Touristy fish market
 Touristy shopping pier, lots of small shops selling everything from
 kites to fudge to jewelry.
 
-## SF Cable Cars
+## SF Cable Cars and heritage streetcars
 
 Start at **Powell/Mason Cable Car Turnaround**
 
 Expect to wait in a line if you want to ride it during the day. The cars run until about 11 PM and are much less crowded in the evening. Fare is $8.
+
 There are also heritage streetcars on the F line that runs along Market St and then up the Embarcadero to Fisherman's Wharf. Regular Muni fare on a Clipper card or the phone app, usually $2.50.
 
 # Nearby
