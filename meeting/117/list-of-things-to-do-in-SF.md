@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T17:51:20.006Z
+date: 2023-07-09T17:54:54.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -176,7 +176,7 @@ on maps near the ocean They are in Presidio park all the way along the coastline
 
 ## Golden Gate Park
 
-The central park for San Franciscans. Host De Yound Museum, San Francisco Academy of Sciences, San Francisco Botanical Gardens, Japanese Tea Garden, Sports Stadium, A lake with boating, a caroussel, Conservatory of Flowers, a Bison herd, a Windmill - and more. On weekends it is almost impossible for there not to be some type of local event too. Or else just have a picknick on one of the many green areas.
+The central park for San Franciscans. Hosts the De Yound Museum, San Francisco Academy of Sciences, San Francisco Botanical Gardens, Japanese Tea Garden, Sports Stadium, A lake with boating, a caroussel, Conservatory of Flowers, a bison herd, a windmill - and more. On weekends it is almost impossible for there not to be some type of local event too. Or else just have a picknick on one of the many green areas.
 
 Can well be explored by bicycle, and great for hiking or running as well. Sundays the park is (mostly) closed off to cars.
 
@@ -201,7 +201,7 @@ https://www.sfbg.org/
 Obviously a well known landmark.  Lots of people enjoy walking across
 the eastern side, or even renting bikes and biking across: 
 
-There are various bicycle rental places auch as near Pier 39 (tourist area). You can then bicycle across Golden Gate Bridge (bicycling is separate from walking on the western walkway). Drive to Sausalito, have fun there - then return on a boat to Pier 39 and return the bicycle. Note that on weekends the bicycle line for he boats can be quite long, so plan to be at the line  an hour early.
+There are various bicycle rental places such as near Pier 39 (tourist area). You can then bicycle across Golden Gate Bridge (bicycling is separate from walking on the western walkway). Drive to Sausalito, have fun there - then return on a boat to Pier 39 and return the bicycle. Note that on weekends the bicycle line for the boats can be quite long, so plan to be at the line  an hour early.
 
 ## Beaches
 
