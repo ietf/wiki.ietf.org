@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T19:35:57.342Z
+date: 2023-07-09T19:40:16.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -177,7 +177,7 @@ on maps near the ocean They are in Presidio park all the way along the coastline
 
 ## Golden Gate Park
 
-The central park for San Franciscans. Hosts the De Yound Museum, San Francisco Academy of Sciences, San Francisco Botanical Gardens, Japanese Tea Garden, Sports Stadium, A lake with boating, a caroussel, Conservatory of Flowers, a bison herd, a windmill - and more. On weekends it is almost impossible for there not to be some type of local event too. Or else just have a picknick on one of the many green areas.
+The central park for San Franciscans. Hosts the De Young Museum, San Francisco Academy of Sciences, San Francisco Botanical Gardens, Japanese Tea Garden, Sports Stadium, A lake with boating, a caroussel, Conservatory of Flowers, a bison herd, a windmill - and more. On weekends it is almost impossible for there not to be some type of local event too. Or else just have a picknick on one of the many green areas.
 
 Can well be explored by bicycle, and great for hiking or running as well. Sundays the park is (mostly) closed off to cars.
 
@@ -208,7 +208,7 @@ There are various bicycle rental places such as near Pier 39 (tourist area). You
 
 There are a number of beaches to visit, and the further west you go the bigger the waves get generally.  Ocean beach is a big long strip of beach that is popular but so big there aren't endless people on it.  The other beaches just east of the golden gate facing the bridge can get you good views of the bridge and the bay.
 
-**Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first. Wet suit recommended**
+**Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first. Wet suit recommended and don't go alone.**
 
 # Beyond San Francisco
 
@@ -221,7 +221,7 @@ Itself a city of 120,000 people and a major university town, Berkeley has many a
 
 ### Berkeley Pier
 
-This pier was originally built (before there where bridges) to connect to the ferry to San Francisco. Cars where asked to drive 60 Mph to quickly get to the ferry - 100 years ago. More than half of it is broken away now, but it is still a fun walk into the bay.
+This pier was originally built (before there were bridges) to connect to the ferry to San Francisco. Cars were asked to drive 60 Mph to quickly get to the ferry - 100 years ago. More than half of it is broken away now, but it is still a fun walk into the bay.
 
 ### Sakara Sake
 
@@ -258,7 +258,7 @@ If you venture beyond the museum down the stret towards shoreline park you can s
 
 ## Cantor Arts Center / Anderson Collection
 
-https://museum.stanford.edu/ A painfully long caltrain ride, or about an hour by car. This is on Stanford campus and can be used to also explore Stanford campus. Free, reservation required.
+https://museum.stanford.edu/ About an hour by Caltrain from the 4th and Townsend station, or about an hour by car. This is on Stanford campus and can be used to also explore Stanford campus. Free, reservation required.
 
 Has the Gates of Hell in the garden as part of the "Rodin garden" exhibition . More Rodin sculptures at the main Stanford entrance. And if you still have not had enough of Rodin, go to Legion of Honors in San Francisco. 
 
