@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T04:45:29.996Z
+date: 2023-07-09T04:57:58.060Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -141,11 +141,21 @@ Did you know that there's a civil war fort tucked underneath the Golden Gate Bri
 
 https://www.nps.gov/fopo/index.htm
 
+## Alamo Square Park (Painted Ladies)
+
+Iconic row of Victorians next to a popular park
+
 # Shopping
 
 ## **Ghirardelli Chocolate Experience**
 
+## The Mission
+If you want food from any Latin American country, this is the neighborhood to go. Famous for murals and the Mission style burrito. Short BART ride away.
+
 # Farther away and requires planning
+
+## Berkeley
+Itself a city of 120,000 people and a major university town, Berkeley has many affordable and good resturants towntown and along Shattuck.
 
 ## Alcatraz Prison
 
