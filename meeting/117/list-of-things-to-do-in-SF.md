@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T17:54:54.284Z
+date: 2023-07-09T18:03:46.783Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -245,14 +245,23 @@ Alternatively the East Bay has Redwood Regional Park.
 
 ## Computer History Museum
 
-This is about an hour away. Very little networking gear on display.
-Among other gems, there is a Babbage machine, an IBM 1401, even the original google server https://www.computerhistory.org/collections/catalog/102662167.
+This is about an hour away in Mountain View in what was originally Silicon Graphics headquarters.
+
+Very little networking gear on display even though the place is official keeper of Cisco history (seemingly most of it is not on exhibit publically - yet ?).
+
+Among other gems, there is a Babbage machine, an IBM 1401, even the original google server https://www.computerhistory.org/collections/catalog/102662167. Museum staff has mostly been into restoring old IBM gear though.
 
 https://computerhistory.org/
 
-## Cantor Arts Center
-https://museum.stanford.edu/ A painfully long caltrain ride, or about an hour by car.
-Has the Gates of Hell in the garden. Free, reservation required.
+If you venture beyond the museum down the stret towards shoreline park you can see the new Google campus headquarter building on the left.
+
+## Cantor Arts Center / Anderson Collection
+
+https://museum.stanford.edu/ A painfully long caltrain ride, or about an hour by car. This is on Stanford campus and can be used to also explore Stanford campus. Free, reservation required.
+
+Has the Gates of Hell in the garden as part of the "Rodin garden" exhibition . More Rodin sculptures at the main Stanford entrance. And if you still have not had enough of Rodin, go to Legion of Honors in San Francisco. 
+
+Since ca. 7 years, there is a new museum "Anderson Collection" with great modern art directly next door to the Cantor. Sometimes its also used as overflow / temporary for San Francisco modern art (whenever they need to do renovations in San Francisco).
 
 ## Climbing Gym
 
