@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T19:33:10.844Z
+date: 2023-07-09T19:35:57.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -140,7 +140,7 @@ https://www.atlasobscura.com/places/yoda-fountain
 ## Lombard Street
 
 Iconic winding street (but only one block of it is winding).  Often
-has a line of cars waiting to drive down it.
+has a line of cars waiting to drive down it. Powell cable car stops at the top of the winding block.
 
 ## **Grace Cathedral**
 
