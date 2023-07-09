@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T02:06:26.055Z
+date: 2023-07-09T02:10:17.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -154,5 +154,9 @@ the eastern side, or even renting bikes and biking across.
 There are a number of beaches to visit, and the further east you go the bigger the waves get generally.  Ocean beach is a big long strip of beach that is popular but so big there aren't endless people on it.  The other beaches just east of the golden gate facing the bridge can get you good views of the bridge and the bay.
 
 **Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first**
+
+## Redwoods
+
+Muir Woods is a very famous but small redwood forest.  It **requires reservations** in advance for parking in particular.  And there is no cell phone signals there so you MUST make them ahead of time and bring them with you.  It's a fairly small park, but does contain big towering trees and if you get out of the main loop in the valley floor you can get a good 4-5 mile hike in if you plan it right.
 
 
