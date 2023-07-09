@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T02:51:54.030Z
+date: 2023-07-09T02:57:27.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -104,6 +104,10 @@ https://www.sfbg.org/
 
 https://www.sfzoo.org/
 
+## Aquarium of the Bay
+
+https://www.aquariumofthebay.org/
+
 # Landmarks
 
 ## **Ferry Building**
@@ -157,6 +161,10 @@ gate bridge and there is a nice trail along there).
 
 A beautiful hiking and walking area around the golden gate.  Contains
 many of the batteries discussed above
+
+### Japanese Tea Garden
+
+https://www.japaneseteagardensf.com/
 
 ## Golden Gate Bridge
 
