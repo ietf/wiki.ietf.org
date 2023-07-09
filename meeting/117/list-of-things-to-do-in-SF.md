@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T02:05:37.725Z
+date: 2023-07-09T02:06:26.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -152,5 +152,7 @@ the eastern side, or even renting bikes and biking across.
 ## Beaches
 
 There are a number of beaches to visit, and the further east you go the bigger the waves get generally.  Ocean beach is a big long strip of beach that is popular but so big there aren't endless people on it.  The other beaches just east of the golden gate facing the bridge can get you good views of the bridge and the bay.
+
+**Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first**
 
 
