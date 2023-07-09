@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T22:27:32.221Z
+date: 2023-07-09T22:30:45.237Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -46,12 +46,14 @@ A 210 ft tall tower that has stood above the city since its inauguration in 1934
 
 ## Maritime Museum and Ships
 
-**Warning: this looks closed!!!**
+Museum is open, some parts like the pier at the end are closed.
 
 If you enjoy old sea-going ships, this is an excellent museum and set
 of ships you can walk around.  Wes was once lucky enough to sleep over
 night on the Balclutha, a three-masted, steel-hulled, square-rigged
 ship built to carry a variety of cargo all over the world.
+
+https://www.nps.gov/safr/planyourvisit/index.htm
 
 ## USS Pampanito
 
