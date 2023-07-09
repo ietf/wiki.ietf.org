@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T04:57:58.060Z
+date: 2023-07-09T05:04:26.767Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -155,7 +155,7 @@ If you want food from any Latin American country, this is the neighborhood to go
 # Farther away and requires planning
 
 ## Berkeley
-Itself a city of 120,000 people and a major university town, Berkeley has many affordable and good resturants towntown and along Shattuck.
+Itself a city of 120,000 people and a major university town, Berkeley has many affordable and good resturants downtown and along Shattuck. The University has a botanical garden and the Lawrence Hall of Science.
 
 ## Alcatraz Prison
 
@@ -201,6 +201,8 @@ There are a number of beaches to visit, and the further west you go the bigger t
 ## Redwoods
 
 Muir Woods is a very famous but small redwood forest.  It **requires reservations** in advance for parking in particular.  And there is no cell phone signals there so you MUST make them ahead of time and bring them with you.  It's a fairly small park, but does contain big towering trees and if you get out of the main loop in the valley floor you can get a good 4-5 mile hike in if you plan it right.
+
+Alternatively the East Bay has Redwood Regional Park.
 
 ## Computer History Museum
 
