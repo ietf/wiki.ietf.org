@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T02:57:27.541Z
+date: 2023-07-09T02:58:57.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -181,4 +181,9 @@ There are a number of beaches to visit, and the further east you go the bigger t
 
 Muir Woods is a very famous but small redwood forest.  It **requires reservations** in advance for parking in particular.  And there is no cell phone signals there so you MUST make them ahead of time and bring them with you.  It's a fairly small park, but does contain big towering trees and if you get out of the main loop in the valley floor you can get a good 4-5 mile hike in if you plan it right.
 
+## Computer History Museum
+
+This is about an hour away. Very little networking gear on display.
+
+https://computerhistory.org/
 
