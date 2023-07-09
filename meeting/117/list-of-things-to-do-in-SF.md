@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T02:10:17.036Z
+date: 2023-07-09T02:48:55.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -50,6 +50,12 @@ If you enjoy old sea-going ships, this is an excellent museum and set
 of ships you can walk around.  Wes was once lucky enough to sleep over
 night on the Balclutha, a three-masted, steel-hulled, square-rigged
 ship built to carry a variety of cargo all over the world.
+
+## USS Pampanito
+
+Have you ever wanted to *Run Silent, Run Deep*? You can tour a WW II US diesel submarine. It's authentic, down to the cramped, smelly quarters. Access is by ladder only.
+
+https://maritime.org/uss-pampanito/
 
 # Museums
 
