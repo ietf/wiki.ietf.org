@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T02:48:55.877Z
+date: 2023-07-09T02:51:54.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -92,9 +92,17 @@ We had an IETF social here in the past.
 
 https://www.calacademy.org/
 
+## Asian Art Museum
+
+https://asianart.org/
+
 ## San Francisco Botanical Gardens
 
 https://www.sfbg.org/
+
+## San Francisco Zoo
+
+https://www.sfzoo.org/
 
 # Landmarks
 
