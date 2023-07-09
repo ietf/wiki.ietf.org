@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T06:09:21.206Z
+date: 2023-07-09T17:51:20.006Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -63,7 +63,7 @@ SF has many museums that are worth visiting.  Here are but a few:
 
 ## Exploratorium science museum
 
-A very hands-on science museum 
+A very hands-on science museum, great for children / families. This is now in an old pier building.
 
 https://www.exploratorium.edu/
 
@@ -93,17 +93,19 @@ Haven’t been here, but it looks very cool for a short visit
 
 A Natural History museum
 
-We had an IETF social here in the past.
+We had an IETF social here in the past. They have fascinating exhibits including a planetarium, a green roof, kids areas / dinosaurs, actual natural research areas, an area with traditional 19th centory stuffed animal exhibits (from the museums earlier days), a big and diverse aquarium, and a multi-story greenhouse where you get extremely close to all type of fun critter. 
 
 https://www.calacademy.org/
+
+## San Francisco of Modern Art (SFMOMA)
+
+https://tickets.sfmoma.org/
+
+We have the 117 social there already, but if you are into modern art, check out the exhibitions online, there is a lot we will not have access to during the social. But beyond what we are given access to (which is a good part of the permanent exhibition), much is changing over time. I have not checked the current exhibitions. Quality varies widely over time.
 
 ## Asian Art Museum
 
 https://asianart.org/
-
-## San Francisco Botanical Gardens
-
-https://www.sfbg.org/
 
 ## San Francisco Zoo
 
@@ -112,6 +114,14 @@ https://www.sfzoo.org/
 ## Aquarium of the Bay
 
 https://www.aquariumofthebay.org/
+
+## Walt Disney Family Museum
+
+https://www.waltdisney.org/
+
+An actual museum about Walt Disney's life/work history. Should work well for family visit, but probably teenagers and up. But maybe park smaller kids in the museums movie theater showing 101 Dalmatians at 2PM https://www.waltdisney.org/calendar
+
+This museum is in the presidio park adjacent to Golden Gate Bridge, which is also great for hiking / bicycling.
 
 # Landmarks
 
@@ -155,51 +165,77 @@ If you want food from any Latin American country, this is the neighborhood to go
 ## **Dandelion chocolate**
 For chocolate lovers. In Mission, near Dolores Park.
 
-# Farther away and requires planning
-
-## Berkeley
-Itself a city of 120,000 people and a major university town, Berkeley has many affordable and good resturants downtown and along Shattuck. The University has a botanical garden and the Lawrence Hall of Science.
-
-## Alcatraz Prison
-
-THE iconic prison.  It will take at least half a day to get there and
-back by ferry.
-
-Leaves from pier 33
-
-https://www.nps.gov/alca/index.htm
-
-## Marin Headlands
-
-One of Wes' favorite places to hike and see the shoreline
+# Further away in San Francisco (planning required)
 
 ## Old batteries
 
 There are a lot of old army batteries that were responsible for
 defending the shoreline years ago.  You can walk around many of them,
 but the interiors are generally closed off.  If you want to go, look
-on maps near the ocean (the closest are probably south of the golden
-gate bridge and there is a nice trail along there).
+on maps near the ocean They are in Presidio park all the way along the coastline and then also some easy to access ones in Lincoln park (further south) where Legion of Honors is.
 
 ## Golden Gate Park
 
-A beautiful hiking and walking area around the golden gate.  Contains
-many of the batteries discussed above
+The central park for San Franciscans. Host De Yound Museum, San Francisco Academy of Sciences, San Francisco Botanical Gardens, Japanese Tea Garden, Sports Stadium, A lake with boating, a caroussel, Conservatory of Flowers, a Bison herd, a Windmill - and more. On weekends it is almost impossible for there not to be some type of local event too. Or else just have a picknick on one of the many green areas.
 
-### Japanese Tea Garden
+Can well be explored by bicycle, and great for hiking or running as well. Sundays the park is (mostly) closed off to cars.
+
+The following three gardens in Golden Gate Park now also have a common ticket and are together a good option for a day trip to the park:
+
+#### Japanese Tea Garden
 
 https://www.japaneseteagardensf.com/
+
+### Conservatory of Flowers
+
+Large beautiful greenhouse. Great if its not warm outside (as often happens in San Francisco).
+
+https://conservatoryofflowers.org/
+
+### San Francisco Botanical Gardens
+
+https://www.sfbg.org/
 
 ## Golden Gate Bridge
 
 Obviously a well known landmark.  Lots of people enjoy walking across
-the eastern side, or even renting bikes and biking across. 
+the eastern side, or even renting bikes and biking across: 
+
+There are various bicycle rental places auch as near Pier 39 (tourist area). You can then bicycle across Golden Gate Bridge (bicycling is separate from walking on the western walkway). Drive to Sausalito, have fun there - then return on a boat to Pier 39 and return the bicycle. Note that on weekends the bicycle line for he boats can be quite long, so plan to be at the line  an hour early.
 
 ## Beaches
 
 There are a number of beaches to visit, and the further west you go the bigger the waves get generally.  Ocean beach is a big long strip of beach that is popular but so big there aren't endless people on it.  The other beaches just east of the golden gate facing the bridge can get you good views of the bridge and the bay.
 
-**Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first**
+**Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first. Wet suit recommended**
+
+# Beyond San Francisco
+
+## Marin Headlands
+
+One of Wes' favorite places to hike and see the shoreline. Going across Golden Gate is the MUST do when you get a rented car over the weekend.
+
+## Berkeley
+Itself a city of 120,000 people and a major university town, Berkeley has many affordable and good resturants downtown and along Shattuck. The University has a botanical garden and the Lawrence Hall of Science.
+
+### Berkeley Pier
+
+This pier was originally built (before there where bridges) to connect to the ferry to San Francisco. Cars where asked to drive 60 Mph to quickly get to the ferry - 100 years ago. More than half of it is broken away now, but it is still a fun walk into the bay.
+
+### Sakara Sake
+
+If you missed going to a sake tasking in Yokohma, and are still mad about that, go to Sakara Sake tasting room in Berkeley:
+
+https://www.takarasake.com/visit-us/sake-tasting-room
+
+## Alcatraz Prison
+
+THE iconic prison.  It will take at least half a day to get there and
+back by ferry. And you need to book early!
+
+Leaves from pier 33
+
+https://www.nps.gov/alca/index.htm
 
 ## Redwoods
 
