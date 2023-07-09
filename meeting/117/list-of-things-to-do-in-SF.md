@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T22:30:45.237Z
+date: 2023-07-09T22:31:49.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -87,7 +87,9 @@ https://www.famsf.org/visit/legion-of-honor
 Wes thinks this is one of the best hidden things in SF.  It contains
 arcade type history games from the old "shock yourself" games up to
 some more modern classics like pac-man and defender.  Located near
-fisherman's wharf
+fisherman's wharf.
+
+https://museemecanique.com/
 
 ## **Museum of 3D Illusions**
 
