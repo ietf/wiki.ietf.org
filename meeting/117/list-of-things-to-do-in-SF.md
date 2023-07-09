@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T20:56:20.340Z
+date: 2023-07-09T22:27:32.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -19,7 +19,7 @@ hills depending on where you go.
 
 ## Fisherman’s Wharf
 
-Touristy fish market
+Touristy fish market with many touristy restaurants
 
 ## Pier 39
 
