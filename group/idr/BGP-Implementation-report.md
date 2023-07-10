@@ -2,7 +2,7 @@
 title: draft-ietf-idr-entropy-label Implementation Report
 description: IDR WG report on implementations of draft-ietf-idr-entropy-label (BGP Router Capabilities Attribute)
 published: true
-date: 2023-07-10T20:26:47.482Z
+date: 2023-07-10T20:29:46.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T20:19:48.279Z
