@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-10T17:31:04.509Z
+date: 2023-07-10T17:34:59.830Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -85,7 +85,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 Meetecho: https://meetings.conf.meetecho.com/ietf117/?group=iesg
 Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg
 
-> 1. Topic (Name)
+> 1. IPR Disclosure Bug (Vigdis)
 > 2. Topic (Name)
 ## Tuesday, July 25, 2023
 
