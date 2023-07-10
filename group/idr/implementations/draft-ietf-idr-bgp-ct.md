@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-07-10T04:50:57.303Z
+date: 2023-07-10T04:53:33.677Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -12,7 +12,7 @@ dateCreated: 2023-06-05T16:30:59.788Z
 
 
 ## Introduction
-This document is the Implementation report for BGP CT (draft-ietf-idr-bgp-ct-09). It records the compliance of JUNOS and RARE/FreeRtr implementations of BGP CT.  
+This document is the Implementation report for BGP CT (draft-ietf-idr-bgp-ct-11). It records the compliance of JUNOS and RARE/FreeRtr implementations of BGP CT.  
 It takes into account the perspective of RFC 2119 clauses in the draft, as well as the IANA code-points used in the draft. 
 Additionally, the link to interop test results from tests conducted at EANTC 2023 is included for reference.  
 
