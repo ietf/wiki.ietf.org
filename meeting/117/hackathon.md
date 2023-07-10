@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-10T18:53:41.297Z
+date: 2023-07-10T18:57:26.982Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -73,7 +73,7 @@ Related activities before and after the Hackathon weekend
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 24-28 July Room: [Golden Gate 2, Lobby Level](https://datatracker.ietf.org/meeting/117/floor-plan?room=golden-gate-2)
+  * Tuesday - Friday, 25-28 July Room: [Golden Gate 2, Lobby Level](https://datatracker.ietf.org/meeting/117/floor-plan?room=golden-gate-2)
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
