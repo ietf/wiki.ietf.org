@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-car
 description: report on implementations
 published: true
-date: 2023-07-10T06:18:00.139Z
+date: 2023-07-10T06:25:16.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-09T11:17:21.968Z
@@ -47,3 +47,9 @@ dateCreated: 2023-06-09T11:17:21.968Z
 
 ## Interoperability
 Interoperability conducted for BGP CAR between IOS-XR (7.8.1.09I engineering image) and ArcOS (5.1.1 release Engineering) for MPLS (label) encapsulation.
+
+## Authors
+swaagraw@cisco.com
+dhrao@cisco.com
+kalyanir@arrcus.com
+manoharan@arrcus.com
