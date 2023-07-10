@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-10T09:01:27.322Z
+date: 2023-07-10T15:39:56.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -137,7 +137,7 @@ Routes and schedules: https://sfport.com/ferry
 ## Yoda Fountain
 
 Apparently there is a fountain of Yoda outside of the Letterman Digital Arts Center.
-(This is near the LucasFilm offices in Presido)
+(This is near the LucasFilm offices in Presido.)
 https://www.atlasobscura.com/places/yoda-fountain
 
 ## Lombard Street
@@ -278,5 +278,12 @@ Since ca. 7 years, there is a new museum "Anderson Collection" with great modern
 
 https://movementgyms.com/san-francisco/
 
+## Alameda island
 
+The Alameda island is off Oakland, across the Bay Bridge from San Francisco. It is mostly flat.
 
+The USS Hornett, an old airplane carrier has been converted into a museum where one can see the engine room, catapults, tower, brig, a number of planes on multiple decks. There is also an exhibition about the moon landing as this ship recovered the astonauts when they came back from the moon.
+
+Next to the USS Hornett are a brewery, a distillery and a winery that all can be visited/tasted.
+
+Also note that the Matrix movie freeway chase was filmed in the area. They were trying to rent a portion of freeway but nobody was interested, so they said "f*** it, let's build one." A large portion of Alameda is an old naval base, so they could start from a runway and converted into a 2 km 2x3 lanes freeway for $2.5M. ESC Entertainment which did many of the Matrix 2 and 3 effects had its offices next to it.
