@@ -2,7 +2,7 @@
 title: IDR Implementation Reports
 description: Implementation Report for IDR drafts - Valid at time of IESG review 
 published: true
-date: 2023-03-13T22:18:21.659Z
+date: 2023-07-10T20:35:15.170Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
@@ -38,6 +38,7 @@ dateCreated: 2022-11-27T13:09:18.246Z
 ## WG LC pending 
 
 - [draft-ietf-idr-bgp-bestpath-selection-criteria implementations](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
+- [draft-ietf-idr-entropy-label implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
 
 ## Implementation reports for IDR RFCs
 ### IDR functions  
