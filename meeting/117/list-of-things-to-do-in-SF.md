@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-10T03:13:35.083Z
+date: 2023-07-10T09:01:27.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -167,6 +167,13 @@ If you want food from any Latin American country, this is the neighborhood to go
 
 ## **Dandelion chocolate**
 For chocolate lovers. In Mission, near Dolores Park.
+
+# Activities
+
+## San Francisco Marathon 
+The San Francisco Marathon, half marathon, 10K and 5K are the weekend before the IETF, with most events on Sunday 23rd July. For details and registration see https://www.thesfmarathon.com/. Note that race bibs need to be collected on the Friday or Saturday.
+
+There is a related traffic advisory for the event - https://www.thesfmarathon.com/race-weekend/traffic-advisory/.
 
 # Further away in San Francisco (planning required)
 
