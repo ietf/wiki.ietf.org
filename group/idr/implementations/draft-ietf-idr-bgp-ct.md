@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-07-10T05:14:09.437Z
+date: 2023-07-10T05:23:26.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -75,14 +75,14 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 ### RFC 2119 “MAY” Clauses 
 | Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
 |---|---|---|---|---|---|---|---|----|---|
-|[**BGP Service route Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-6)  | A service route received in a BGP service family MAY map to a Resolution Scheme that contains the primary Transport Class identified by the Mapping Community on the route and a fallback to best effort Transport Class. |Yes |Yes |Yes |Yes | |
-|[**RFC8277 Multiple Labels Capability**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-7)  | BGP CT routes MAY carry multiple labels in the NLRI, by negotiating the Multiple Labels Capability as described in https://www.rfc-editor.org/rfc/rfc8277#section-2.1 [RFC8277] |No |No |Yes |Yes | |
-|[**Auto-RD, Auto-RT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.1)  | Implementations MAY provide automatic generation and assignment of RD, RT values; they MAY also provide a way to manually override the automatic mechanism in order to deal with any conflicts that may arise with existing RD, RT values in different network domains participating in the deployment.  |Yes |Yes |Yes |Yes | |
-|[**Customize Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.3)  | In cases where Transport class "C1" tunnels are not available in a domain, the administrator MAY customize the Resolution scheme to map to a different set of transport class available in that domain. |Yes |Yes |Yes |Yes | |
-|[**Install BGP CT routes in FIB**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.10)  | Implementations MAY provide configuration to selectively install  BGP CT routes to the FIB, to provide reachability for control plane peering towards end points in other domains. |No |Yes |Yes |Yes | |
-|[**Flowspec redirect-to-ip with Mapping community**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-11)  | Such Flowspec BGP routes with Redirect to IP nexthop MAY be attached with a Mapping Community (e.g.  Color:0:100), which allows redirecting the flow traffic over a tunnel to the IP nexthop satisfying the desired SLA (e.g.  Transport Class color 100  |Yes |No |Yes |Yes | |
-|[**LU EPE with Mapping community**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-12)  | The Peer/32 or Peer/128 EPE route MAY be originated in BGP CT family with appropriate Mapping Community (e.g. transport-target:0:100), thus allowing an EPE path to the peer that satisfies the desired SLA.|Yes |No |Yes |Yes | |
-|[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-15.2)  | An egress SN MAY advertise BGP CT route for RD:eSN with two Route Targets: transport-target:0:TC and a RT carrying "eSN:TC". |No |No |Yes |Yes | |
+|[**BGP Service route Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-6)  | A service route received in a BGP service family MAY map to a Resolution Scheme that contains the primary Transport Class identified by the Mapping Community on the route and a fallback to best effort Transport Class. |Yes |Yes |Yes |Yes | |
+|[**RFC8277 Multiple Labels Capability**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-7)  | BGP CT routes MAY carry multiple labels in the NLRI, by negotiating the Multiple Labels Capability as described in https://www.rfc-editor.org/rfc/rfc8277#section-2.1 [RFC8277] |No |No |Yes |Yes | |
+|[**Auto-RD, Auto-RT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-10.1)  | Implementations MAY provide automatic generation and assignment of RD, RT values; they MAY also provide a way to manually override the automatic mechanism in order to deal with any conflicts that may arise with existing RD, RT values in different network domains participating in the deployment.  |Yes |Yes |Yes |Yes | |
+|[**Customize Resolution scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-10.3)  | In cases where Transport class "C1" tunnels are not available in a domain, the administrator MAY customize the Resolution scheme to map to a different set of transport class available in that domain. |Yes |Yes |Yes |Yes | |
+|[**Install BGP CT routes in FIB**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-10.10)  | Implementations MAY provide configuration to selectively install  BGP CT routes to the FIB, to provide reachability for control plane peering towards end points in other domains. |No |Yes |Yes |Yes | |
+|[**Flowspec redirect-to-ip with Mapping community**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-11)  | Such Flowspec BGP routes with Redirect to IP nexthop MAY be attached with a Mapping Community (e.g.  Color:0:100), which allows redirecting the flow traffic over a tunnel to the IP nexthop satisfying the desired SLA (e.g.  Transport Class color 100  |Yes |No |Yes |Yes | |
+|[**LU EPE with Mapping community**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-12)  | The Peer/32 or Peer/128 EPE route MAY be originated in BGP CT family with appropriate Mapping Community (e.g. transport-target:0:100), thus allowing an EPE path to the peer that satisfies the desired SLA.|Yes |No |Yes |Yes | |
+|[**On Demand Nexthop using RTC for BGP CT**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-15.2)  | An egress SN MAY advertise BGP CT route for RD:eSN with two Route Targets: transport-target:0:TC and a RT carrying "eSN:TC". |No |No |Yes |Yes | |
 | |The RT carrying eSN:TC MAY be an IP-address specific regular RT (BGP attribute code 16), IPv6-address specific RT (BGP attribute code 25), or a Wide-communities based RT (BGP attribute code 34) as described in Route Target Constrain Extension [RTC-Ext].  This document recommends using Wide-communities based RT for the same.|No |No |Yes |Yes | |
 | | An ingress SN MAY import BGP CT routes with Route Target carrying eSN:TC.  The ingress SN MAY learn the eSN values either by configuration, or it MAY discover them from the BGP nexthop field in the BGP VPN service routes received from eSN. |No |No |Yes |Yes | |
 | | the RTC route advertisements for OriginASN:eSN/[80/176] MAY be confined to the BNs in home region of ingress-SN, or the BNs of a super core.|No |No |Yes |Yes | |
@@ -91,8 +91,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 ### RFC 2119 “RECOMMENDED” Clauses 
 | Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
 |---|---|---|---|---|---|---|---|----|---|
-|[**Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.9) | Deploying unique RDs is strongly RECOMMENDED because it helps in troubleshooting by uniquely identifying the originator of a route and avoids path-hiding.  |Yes |Yes |Yes |Yes | |
-|[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |No |Yes |Yes | |
+|[**Unique RD**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-10.9) | Deploying unique RDs is strongly RECOMMENDED because it helps in troubleshooting by uniquely identifying the originator of a route and avoids path-hiding.  |Yes |Yes |Yes |Yes | |
+|[**Separate RIBs for SAFI 4 and SAFI 1 routes**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-09.html#section-22) | To avoid such scenarios, it is RECOMMENDED that implementations support keeping SAFI 4 routes in a separate transport RIB, distinct from service RIB that contain SAFI 1 service routes.  |Yes |No |Yes |Yes | |
 {.dense}
   
 ## IANA sections perspective 
