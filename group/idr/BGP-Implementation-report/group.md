@@ -2,7 +2,7 @@
 title: draft-ietf-idr-entropy-label Implementation Report
 description: IDR WG report on implementations of draft-ietf-idr-entropy-label (BGP Router Capabilities Attribute)
 published: true
-date: 2023-07-10T20:19:48.279Z
+date: 2023-07-10T20:23:02.008Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T20:19:48.279Z
@@ -77,4 +77,10 @@ Although this section makes use of RFC 2119 terminology, the requirement is addr
 - Does the implementation discard any received ELC attribute (BGP Attribute 28)? (MUST)
 
 # *Vendor* Implementation Report, *Software* *Version*
-TBD
+## Reported By
+(name)
+(contact information)
+
+## Components of Conformance 
+
+(paste elements of conformance from above, and fill out)
