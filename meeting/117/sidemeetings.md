@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-10T06:48:03.163Z
+date: 2023-07-10T06:49:50.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -72,7 +72,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 08:30-09:30 | TBD | YANG network models | opsawg  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) | Experiences on Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
+| 08:30-09:30 | Continental 2-3 | YANG network models | opsawg  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) | Experiences on Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
 | 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
 
@@ -174,8 +174,8 @@ Location: Tower 1, Ballroom Level
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
 | 08:00 | NOT AVAILABLE    |                  |  
-| 08:30 | NOT AVAILABLE    |                  |  
-| 09:00 | NOT AVAILABLE    |                  |     
+| 08:30 | NOT AVAILABLE    |   YANG Network Models               |  
+| 09:00 | NOT AVAILABLE    |   YANG Network Models               |     
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
