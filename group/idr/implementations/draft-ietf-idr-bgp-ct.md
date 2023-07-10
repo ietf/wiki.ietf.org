@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-07-10T05:10:44.420Z
+date: 2023-07-10T05:13:18.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -68,8 +68,8 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 ### RFC 2119 “SHOULD NOT” Clauses 
 | Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
 |---|---|---|---|---|---|---|---|----|---|
-|[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.2)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
-|[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-04.html#section-10.7)  | Tunnels belonging to non best effort Transport Classes SHOULD NOT be provisioned between ABRs.|Yes |Yes |Yes |Yes |*Operator provisioning*|
+|[**Originating BGP CT route**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-originating-classful-transp)  | This BGP CT route is advertised to EBGP peers and IBGP peers in neighboring domains. This route SHOULD NOT be advertised to the IBGP core that contains the tunnel.  |Yes |Yes |Yes |Yes | |
+|[**Loop avoidance between redundant ABRs**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-avoiding-loops-between-rout)  | Tunnels belonging to non best effort Transport Classes SHOULD NOT be provisioned between ABRs.|Yes |Yes |Yes |Yes |*Operator provisioning*|
  {.dense}
 
 ### RFC 2119 “MAY” Clauses 
