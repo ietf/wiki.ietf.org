@@ -2,7 +2,7 @@
 title: DetNet Open Working Meetings on Enhanced DetNet Data Plane
 description: 
 published: true
-date: 2023-06-20T23:46:52.682Z
+date: 2023-07-10T10:12:16.291Z
 tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
@@ -25,7 +25,7 @@ The following table summarizes our efforts to evaluate existing or proposed mech
 | Name | Draft | On Agenda | Slides | Youtube | Notes |
 |------|-------|-----------|--------|---------|-------|
 | CQF |   NA    | [2023-06-06](https://datatracker.ietf.org/meeting/interim-2023-detnet-06/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-06-sessa-cqf-evaluation-as-revised-in-meeting/) | [link](https://youtu.be/HVE_FCe_5x8?t=785) | CQF is [IEEE 802.1 Qch](https://standards.ieee.org/ieee/802.1Qch/6072/) |
-| "TSN" | NA | [2023-06-21](https://datatracker.ietf.org/meeting/interim-2023-detnet-07/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-07-sessa-tsn-queuing-mechanisms-evaluation/) | TBD | |
+| "TSN" | NA | [2023-06-21](https://datatracker.ietf.org/meeting/interim-2023-detnet-07/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-07-sessa-tsn-queuing-mechanisms-evaluation/) | [link](https://www.youtube.com/watch?v=Cakvxdc3qOU) | |
 ## Mechanism Proposals
 
 The following table summarizes the different proposals proposed to the effort to easier get an overview than delving into above meeting material pages.
