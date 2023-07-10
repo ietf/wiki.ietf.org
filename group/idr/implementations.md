@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-06-09T11:15:47.778Z
+date: 2023-07-10T14:51:33.117Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -21,6 +21,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
 -  [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement)
 
+
 ## Implementation reports for drafts at WG LC
 
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
@@ -36,8 +37,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) 
 
 ## Drafts past WG LC awaiting 2 implementations
+ - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
 
- - [draft-ietf-idr-sr-policy-ifit-02](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)
  - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
  
  - [draft-ietf-idr-route-oscillation-stop implementations](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
