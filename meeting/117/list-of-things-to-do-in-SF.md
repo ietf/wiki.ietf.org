@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-09T22:31:49.183Z
+date: 2023-07-10T03:13:35.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -84,10 +84,7 @@ https://www.famsf.org/visit/legion-of-honor
 
 ## **Musée Mécanique**
 
-Wes thinks this is one of the best hidden things in SF.  It contains
-arcade type history games from the old "shock yourself" games up to
-some more modern classics like pac-man and defender.  Located near
-fisherman's wharf.
+Wes thinks this is one of the best hidden things in SF.  It contains arcade type history games from the old "shock yourself" games up to some more modern classics like pac-man and defender.  Located near fisherman's wharf.
 
 https://museemecanique.com/
 
@@ -133,8 +130,9 @@ This museum is in the presidio park adjacent to Golden Gate Bridge, which is als
 
 ## **Ferry Building**
 
-1.7km one-way walk.  Not much to see once there, but still a nice walk
-to the bay shore. Contains shops and restaurants.
+1.7km one-way walk.  Not much to see once there, but still a nice walk to the bay shore. Contains shops and restaurants. Also, you can take actual ferries to Sausalito and north, and points in the East Bay.
+
+Routes and schedules: https://sfport.com/ferry
 
 ## Yoda Fountain
 
@@ -144,8 +142,7 @@ https://www.atlasobscura.com/places/yoda-fountain
 
 ## Lombard Street
 
-Iconic winding street (but only one block of it is winding).  Often
-has a line of cars waiting to drive down it. Powell cable car stops at the top of the winding block.
+Iconic winding street (but only one block of it is winding).  Often has a line of cars waiting to drive down it. Powell cable car stops at the top of the winding block.
 
 ## **Grace Cathedral**
 
