@@ -2,14 +2,14 @@
 title: IETF 117 Code Lounge
 description: 
 published: true
-date: 2023-04-18T14:29:15.048Z
+date: 2023-07-10T18:56:36.672Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:29:00.868Z
 ---
 
 # Code Lounge
-Monday - Friday, 24-28 July, Room: TBD
+Tuesday - Friday, 25-28 July, Room: [Golden Gate 2, Lobby Level](https://datatracker.ietf.org/meeting/117/floor-plan?room=golden-gate-2)
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
@@ -19,10 +19,10 @@ Please sign up for a time slot below by entering your working group or Hackathon
 
 |      |  Monday, 24 July | Tuesday, 25 July  | Wednesday, 26 July |  Thursday, 27 July | Friday, 28 July |  
 |-------|------|------|------|------|------|
-| 08:00 |      |      |      |      |      |
-| 10:00 |      |      |      |      |      |
-| 12:00 |      |      |      |      |      |     
-| 14:00 |      |      |      |      | **Lounge Closed** |
-| 16:00 |      |      |      |      | **Lounge Closed** |                         
-| 18:00 |      |      |      |      | **Lounge Closed** |  
-| 20:00 |      |      |      |      | **Lounge Closed** |
+| 08:00 |  **Lounge Closed** |      |      |      |      |
+| 10:00 |  **Lounge Closed** |      |      |      |      |
+| 12:00 |  **Lounge Closed** |      |      |      |      |     
+| 14:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |
+| 16:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |                         
+| 18:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |  
+| 20:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |
