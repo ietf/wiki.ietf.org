@@ -2,7 +2,7 @@
 title: Implementation report for CT
 description: Implementation report
 published: true
-date: 2023-07-10T04:25:49.336Z
+date: 2023-07-10T04:50:57.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-05T16:30:59.788Z
@@ -23,14 +23,18 @@ Additionally, the link to interop test results from tests conducted at EANTC 202
 
 | Feature  | Draft Text  |	 Implemented **Juniper** |  Implemented **FreeRTR** | Compliance **Juniper**  | Compliance  **FreeRTR** | Comments |
 |---|---|---|---|---|---|---|---|----|---|
-|[**Transport-Target**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-transport-class-route-targe)| The remaining 2 octets after SubType field are Reserved. They MUST be set to zero on transmission, SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes | |
+|[**Transport-Target**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-transport-class-route-targe)|Type: This 1-octet field MUST be set to 0xa.|Yes |Yes |Yes |Yes | |
+|[**Transport-Target**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-transport-class-route-targe)| SubType: This 1-octet field MUST be set to 0x2 to indicate 'Route Target'.|Yes |Yes |Yes |Yes | |
+|[**Transport-Target**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-transport-class-route-targe)| Reserved: A 2 octets reserved bits. That MUST be set to zero on transmission. This field SHOULD be ignored on reception and  left unaltered.|Yes |Yes |Yes |Yes | |
 |[**RTC**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-transport-class-route-targe) | A BGP speaker that implements RT Constraint Route Target Constraints [RFC4684] MUST apply the RT Constraint procedures to the "Transport class" Route Target Extended community as well. |Yes |Yes |Yes |Yes | |
-|[**MP_BGP Negotiation**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-bgp-classful-transport-fami) | These AFI, SAFI pair of values MUST be negotiated in Multiprotocol Extensions capability described in [RFC4760] to be able to send and receive BGP CT routes. . |Yes |Yes |Yes |Yes | |
+|[**MP_BGP Negotiation**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-bgp-classful-transport-fami) | The Classful Transport (CT) family will use the existing Address Family Identifier (AFI) of IPv4 or IPv6 and a new SAFI 76 "Classful Transport" that will applies to both IPv4 and IPv6 AFIs. These AFI/SAFI pair of values MUST be negotiated as per the Multiprotocol Extensions capability described in section 8 of [RFC4760] to be able to send and receive BGP CT routes. |Yes |Yes |Yes |Yes | |
 |[**RFC8277 NLRI Label**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-bgp-classful-transport-fami) | This 3-bit field SHOULD be set to zero on transmission and MUST be ignored on reception. |Yes |Yes |Yes |Yes | |
 | | When single label is advertised, this 1-bit field MUST be set to  one on transmission and MUST be ignored on reception.  |Yes |Yes |Yes |Yes | |
-|[**TRDB Nexthop Resolution**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#section-10.3)  | If the resolution process does not find  a matching route in any of the associated Transport Route Databases, the BGP CT route MUST be considered unusable for forwarding purpose and be withdrawn. |Yes |Yes |Yes |Yes | |
-| [**TRDB Tunnel Nexthop Resolution**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#section-10.8)| If  the resolution process does not find a Tunnel Ingress Route in any of the Transport Route Databases, the service route MUST be considered unusable for forwarding purpose and be withdrawn.   |Yes |Yes |Yes |Yes | |
-|[**Best Effort Resolution Scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#section-10.10) | When a BN or SN receives a BGP CT route with Best Effort Transport class route target as the mapping community… If no best effort tunnel was found to resolve the BGP nexthop, the BGP CT route MUST be considered unusable, and not be propagated further.    |Yes |Yes |Yes |Yes | |
+|[**TRDB Nexthop Resolution**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-processing-classful-transpo)  | If the resolution process does not find  a matching route in any of the associated Transport Route Databases, the BGP CT route MUST be considered unusable for forwarding purpose and be withdrawn. |Yes |Yes |Yes |Yes | |
+|[**TRDB Route Addition**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-processing-classful-transpo)  | The received BGP CT route MUST be added to the TRDB corresponding to the Transport Class "C1". So that service routes can resolve over this BGP CT ingress route. RD is stripped by the ingress node from the BGP CT NLRI prefix when a BGP CT route is added to a TRDB. |Yes |Yes |Yes |Yes | |
+|[**Inter-AS Link**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-border-nodes-receiving-clas)  | If the inter-AS links need to honor Transport Class, then the BN MUST follow procedures of an Ingress node described above and perform next hop resolution process. The route to directly connected PNH SHOULD be installed in the TRDB belonging to the associated Transport Class. |Yes |Yes |Yes |Yes | |
+| [**TRDB Tunnel Nexthop Resolution**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-ingress-nodes-receiving-ser)| If  the resolution process does not find a Tunnel Ingress Route in any of the Transport Route Databases, the service route MUST be considered unusable for forwarding purpose and be withdrawn.   |Yes |Yes |Yes |Yes | |
+|[**Best Effort Resolution Scheme**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-best-effort-transport-class) | When a BN or SN receives a BGP CT route with Best Effort Transport class route target as the mapping community… If no best effort tunnel was found to resolve the BGP nexthop, the BGP CT route MUST be considered unusable, and not be propagated further.    |Yes |Yes |Yes |Yes | |
 |[**SRv6**](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-ct-11.html#name-srv6-support)  | The BGP Classful Transport route update for SRv6 MUST include an attribute containing SRv6 SID information.  |No |No |Yes |Yes | *SRv6 is not part of minimal requirement*|
 {.dense}
 
