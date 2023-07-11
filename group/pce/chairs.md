@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-07-11T09:03:54.338Z
+date: 2023-07-11T09:05:19.109Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -27,7 +27,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 | Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv sent a request to John|
 | Enhance GitHub for PCE WG | - | Dhruv | - |
 | Possible recharter for PCE WG | - | Ready to send it to John or wait till IETF 117 | - |
-| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Julien to respond to the email to John|
+| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Julien to respond to the email to John before 117 and dhruv to follwup|
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | - |
 
 ## Completed Tasks
