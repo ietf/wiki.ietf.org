@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-07-02T13:30:13.867Z
+date: 2023-07-11T09:02:56.660Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -24,7 +24,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---|
-|draft-dong-pce-pcep-nrp|This is the new merged I-D, authors ask fro adoption in 116|
+|draft-dong-pce-pcep-nrp|This is the new merged I-D, authors ask for adoption in 116|
 draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
 
 ## WG Adoption Call Queue
@@ -39,7 +39,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
 |draft-sidor-pce-circuit-style-pcep-extensions|Pending|-|-| 
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | Chairs have asked to break the document into informational and standards tracks | - |  
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors | - |  
 | draft-peng-pce-entropy-label-position | Pending | - | - |
 | draft-chen-pce-sr-mpls-sid-verification | Penidng | Coordinate with SRv6 draft for IANA allocation | - |
 | draft-chen-pce-sr-ingress-protection | Expired | - | - |
