@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-10T15:06:37.757Z
+date: 2023-07-11T10:52:29.634Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -59,7 +59,7 @@ Please sort the meeting by time if possible.
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
 | 08:30-09:30 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | TBD  | TBD  |
 |  17:00-17:45 | Continental 2-3 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTUwZmYyNTMtMGJlZC00NGRkLWFjNzYtZjdjZGYyMmU1MjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
-|  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
+|  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Oscar González de Dios / Thomas Graf / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | TBD | TBD |
 | 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
 |   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        TBD            |    TBD    |
