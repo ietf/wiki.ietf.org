@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-06-20T08:47:39.109Z
+date: 2023-07-11T06:31:41.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| WG Secretary | - | - | - |
+| WG Secretary Onboarding | - | Dhruv | Planned for IETF 117 |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of June |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm | 
 
@@ -24,15 +24,16 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | WG adoption | draft-dhody-pce-stateful-pce-vendor | Julien | Started a poll on June 20 |
-| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv started poll|
+| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv sent a request to John|
 | Enhance GitHub for PCE WG | - | Dhruv | - |
-| Possible recharter for PCE WG | - | Dhruv drafted an email (to be sent); Awaiting John | - |
+| Possible recharter for PCE WG | - | Ready to send it to John or wait till IETF 117 | - |
 | VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Julien to respond to the email to John|
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | - |
 
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| WG Secretary | - | Dhruv/Julien | Andrew is our new Secretery |
 | Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | Marked as Parked WG I-D |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental; Dhruv is responsible |
 | WGLC Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv | - |
