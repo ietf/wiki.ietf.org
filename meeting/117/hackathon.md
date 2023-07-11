@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-11T14:24:02.984Z
+date: 2023-07-11T14:25:35.688Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -443,7 +443,7 @@ For information on OIDs used to create interoperable structures, consult: https:
   - John Todd (jtodd@quad9.net)
   - Willem Toorop 
 - **Project Info**
-  - Group initially including Allison, John, Willem Toorop (NLNet Labs), and Baula Xu (Salesforce) will prototype (https://datatracker.ietf.org/doc/draft-jt-add-dns-server-redirection/) - all welcome!
+  - Group initially including Allison, John, Willem Toorop (NLNet Labs), and Baula Xu (Salesforce) will prototype https://datatracker.ietf.org/doc/draft-jt-add-dns-server-redirection/ - all welcome!
   
 
 ### Your Project Name
