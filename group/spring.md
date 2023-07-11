@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-05-23T11:43:32.135Z
+date: 2023-07-11T15:06:44.383Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -28,15 +28,14 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * 2021-03-29 Authors asked for WGLC
    * Waiting for the dependent MPLS WG draft to progress past WGLC
    * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
+* draft-ietf-spring-segment-protection-sr-te-paths
+     * 2023-07-03 Authors asked for WGLC
 
 
 ## Documents requested by authors for WG adoption
 * draft-saad-spring-srfa-link
    * 2021-10-23 Authors sent request
    * 2023-04-21 Pinged authors and asked for on-list discussion before moving forward (Alvaro)
-* draft-schmutzer-spring-cs-sr-policy
-   * 2021-07-27 Authors sent request
-   * 2023-05-16 Started adoption call (https://mailarchive.ietf.org/arch/msg/spring/0ggQlHR-4qLEGG_eFj8caok1Prw/)
 * draft-peng-spring-pmtu-sr-policy
    * 2022-11-9 Authors sent request
    * 2023-5-23 Pinged authors and asked for on-list discussion before moving forward (Alvaro)
@@ -68,7 +67,10 @@ https://mailarchive.ietf.org/arch/msg/spring/6r2GygMj9NP3YHFNsawSnhhc71U/
 * draft-song-spring-siam-03
    * 2022-4-12 Authors sent request
    * 2023-5-22 On-list discussions resulted in no agreement on the approach or even that a new/different solution is needed.  Not considering adoption until there is agreement on at least the need. (Alvaro) 
-
+* draft-schmutzer-spring-cs-sr-policy
+   * 2021-07-27 Authors sent request
+   * 2023-05-16 Started adoption call (https://mailarchive.ietf.org/arch/msg/spring/0ggQlHR-4qLEGG_eFj8caok1Prw/)
+   * 2023-06-06 Adopted
 
 ## History of WG Last Call
 * draft-ietf-spring-nsh-sr-11 
