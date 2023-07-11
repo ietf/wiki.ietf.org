@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-11T11:22:05.573Z
+date: 2023-07-11T11:26:18.842Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,6 +18,7 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 1. Update on ISOC Policy Program (Ryan Polk) - Joint IAB/IESG Sunday
 2. Areamandering (Martin Duke) - IESG
 3. Registration fees by other SDOs (e.g., ICAO for DRIP WG) - Joint IAB/IESG (Éric & Mirja)
+4. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob) - IESG low priority
 4. Topic (IESG or IESG/IAB) (Name)
 
 
