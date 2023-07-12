@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-11T11:30:49.236Z
+date: 2023-07-12T22:13:08.732Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -15,7 +15,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
-1. Update on ISOC Policy Program (Ryan Polk) - Joint IAB/IESG Sunday
+1. Update on ISOC Policy Program (Ryan Polk) - Joint IAB/IESG Sunday (Added to the agenda as item #2 on Sunday afternoon)
 2. Areamandering (Martin Duke) - IESG
 3. Registration fees by other SDOs (e.g., ICAO for DRIP WG) - Joint IAB/IESG (Éric & Mirja)
 4. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob) - IESG low priority
@@ -65,7 +65,8 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 
 
 > 1. Welcome and introductions
-> 2. Area walkthrough for hot topics (list randomized for 117)
+> 2. Update on ISOC Policy Program (Ryan Polk)
+> 3. Area walkthrough for hot topics (list randomized for 117)
     > - ART
     > - TSV
     > - GEN
@@ -75,7 +76,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
     > - INT
     > - SEC
     > - OPS
-> 3. Topic (Name)
+> 4. Topic (Name)
  
 
 ## Monday, July 24, 2023 
