@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-06-29T12:44:23.347Z
+date: 2023-07-13T16:07:22.883Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - June 29, 2023 
+# Informal Telechat - August 17, 2023 
 
- There **will be** a meeting on this date.
+ There will be **NO** a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -46,11 +46,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Followup on the Joint Retreat Discussion about Design Teams (Jay, Lars, Wes)
-* Executive session about draft-ietf-ippm-stamp-srpm (Martin)
-* Nomcom AD qualifications (John)
-* Is further agenda deconflicting needed, i.e., email from Tommy (Rob)
-* Can I pre-reserve side meeting space for Data folks? (Rob)
+* Topic (NAME)
 
 #### Urgent but not important
 
