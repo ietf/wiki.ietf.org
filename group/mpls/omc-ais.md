@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-07-13T13:52:17.663Z
+date: 2023-07-13T13:58:04.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -18,7 +18,7 @@ Update:
 - 07/06: no update.
 
   
-### 3. Update to MNA WG IDs: <draft-ietf-mpls-mna-requirements> and <draft-ietf-mpls-mna-fwk> to cover discussion points on 06/15:
+### 2. Update to MNA WG IDs: <draft-ietf-mpls-mna-requirements> and <draft-ietf-mpls-mna-fwk> to cover discussion points on 06/15:
 Owners: editors of IDs
 Points raised:
   - LSR's behavior when multiple ISDs are in the packet
