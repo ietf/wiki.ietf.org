@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-07-13T13:49:55.890Z
+date: 2023-07-13T13:52:17.663Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -26,8 +26,7 @@ Points raised:
   - If ISD is repeated in the stack (due to readable depth) - modifying only the (above) ISD can lead to inconsistency
 Update:
   - 06/22: no update.
-  - 07/06: to send a summary of discussion to WG mailing list..
-
+  - 07/06: to send a summary of discussion to WG mailing list.
  
 
 ## Closed Action Items
