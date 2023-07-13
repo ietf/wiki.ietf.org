@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-07-13T13:58:04.757Z
+date: 2023-07-13T14:13:55.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -16,6 +16,8 @@ Owner: WG
 Update:
 - 06/22: no update so far.
 - 07/06: no update.
+- 07/13: Greg may be able to give a similar presentation for BIER with MNA (after IETF117)
+
 
   
 ### 2. Update to MNA WG IDs: <draft-ietf-mpls-mna-requirements> and <draft-ietf-mpls-mna-fwk> to cover discussion points on 06/15:
@@ -28,6 +30,7 @@ Update:
   - 06/22: no update.
   - 07/06: to send a summary of discussion to WG mailing list.
  
+
 
 ## Closed Action Items
 
