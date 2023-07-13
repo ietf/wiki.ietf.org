@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-12T22:13:08.732Z
+date: 2023-07-13T14:00:16.835Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -140,6 +140,7 @@ Location: Continental 7
 note: Not available before 09:00 Sunday
 
 * 09:00-09:15: DHC WG chairs + AD (Éric V)
+* 14:00-15:00: TSV AD Office Hours (Martin, Zahed)
 * TIME - ACTIVITY
 
 ## Monday, 24 July 2023
