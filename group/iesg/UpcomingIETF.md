@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-13T15:25:56.547Z
+date: 2023-07-13T15:48:26.566Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -76,7 +76,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
     > - INT
     > - SEC
     > - OPS
-> 4. Topic (Name)
+> 4. IAB Outreach Coordinator (Dhruv) 
  
 
 ## Monday, July 24, 2023 
