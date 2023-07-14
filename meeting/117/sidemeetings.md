@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-14T00:27:05.102Z
+date: 2023-07-14T08:05:19.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -85,6 +85,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-10:50 |   Golden Gate 4     | Protocol Performance over Satellite | TSV | G Fairhurst | Side for participant to discuss transport protocol performance over deployed satellite systems |    TBD                |     TBD   |
+| 16:30-17:30  |  Continental 2-3    | Network Inventory for Engegy Monitoring | OPS | Qin Wu | To explore the network inventory model is expanded to support engergy Monitoring | TBD | TBD|
 | 17:30-18:30 |   Continental 2-3    | Evolution of Network Management (Research Group) | IRTF | Laurent Ciavaglia, Jerome Francois,  <nmrg-chairs@ietf.org> | Discussing evolution of the network management research group: research questions/topics, building research agenda, research approach/methodology |    [Webex meeting](https://ietf.webex.com/ietf/j.php?MTID=m03eee3192d0c9b6e124443888e141d4e) ; Meeting ID : 2434 296 8680  ; Meeting password: netmanevo  |     [ Network Management Evolution.ics](https://drive.google.com/file/d/13YBh9Hz9JMu82tpoAFbVSTn-ZHooiu74/view?usp=drive_link)   |
 |  19:00-20:00         | Continental 2-3        |   6GIP Side Meeting             | INT     |    B Sarikaya (sarikaya@ieee.org) with help from R. Schott (Roland.Schott@telekom.de)          |  Next G Alliance Update IP Mobility Update           | https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDZlMTk4ZjYtODI2NC00MWE4LWEzYzUtYWUzYjlhYTdmNmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d	
    | https://mail.google.com/mail/u/0?ui=2&ik=da7e3a6cde&attid=0.2&permmsgid=msg-f:1770745601476731483&th=1892f3be239b225b&view=att&disp=safe |
