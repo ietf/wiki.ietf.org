@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2023-07-10T15:23:30.308Z
+date: 2023-07-14T08:11:26.402Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -15,7 +15,8 @@ The IRSG meets for a working dinner at each IETF meeting, typically on the Wedne
 * IETF 117 San Francisco
   * Doodle poll for attendance:
      https://doodle.com/meeting/participate/id/eVQoZGvd
-  * Wednesday 26 July 2023, after the IETF plenary
+  * Wednesday 26 July 2023, 8:00pm
+  * Venue: https://www.baiasf.com/
 
 * IETF 116 Yokohama
   * Doodle poll for attendance: https://doodle.com/meeting/organize/id/aA6kjJPb
