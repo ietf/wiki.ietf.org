@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-14T09:59:05.008Z
+date: 2023-07-14T15:17:03.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -73,7 +73,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:00-08:30 | Continental 2-3 | ECH Deployment Considerations | opsawg  | [Andrew Campling](mailto:Andrew.Campling@419.Consulting)/ [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.Com) | An update on progress with the Internet-Draft and discussion on next steps.  |   TBD   | TBD |
-| 08:30-09:30 | Continental 2-3 | YANG network models | opsawg  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) | Experiences on Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
+| 08:30-09:30 | Continental 2-3 | YANG network models | opsawg  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) | Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
 | 15:00-16:30 |   Continental 2-3     | Sustainable Networking | N/A | Alex Clemm, Suresh Krishnan | Follow up on sustainable networking discussions from Yokohama, discussion of progress and next steps |    TBD                |   TBD |
 | 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
