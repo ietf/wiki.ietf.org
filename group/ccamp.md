@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2023-06-15T07:22:54.104Z
+date: 2023-07-14T09:58:56.993Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -48,6 +48,7 @@ A YANG Data Model for Ethernet TE Topology
 
 **- draft-ietf-ccamp-flexe-yang-cm-01**
 YANG Data Model for FlexE Management
+> YANG doctor and RTG DIR review requests. deadline 14 Aug 23
 
 
 **- draft-ietf-ccamp-flexigrid-tunnel-yang**
@@ -71,59 +72,70 @@ A YANG Data Model for L1 Connectivity Service Model (L1CSM)
 
 **- draft-ietf-ccamp-layer1-types-15**
 *A YANG Data Model for Layer 1 Types*
-> Submitted to IETF for publication
+> Publication requested
 
 **- draft-ietf-ccamp-mw-topo-yang-05**
 A YANG Data Model for Microwave Topology
-> Presented and Request WG LC in IETF 116. Next draft in queue for WG last call.
+> WG last call passed. Waiting for authors to address LS comments, than Daniele Sheperd.
 
 **- draft-ietf-ccamp-network-inventory-yang-01**
 A YANG Data Model for Network Hardware Inventory
-> Consider relationship with YAVIN WG
+> Consider relationship with IVY WG
 
 **- draft-ietf-ccamp-optical-impairment-topology-yang-12**
 A YANG Data Model for Optical Impairment-aware Topology
 > Version 12 reviewed by YANG doctors. Make sure comments are addressed. Cluster with RFC9093 bis
 
 
-**- draft-ietf-ccamp-optical-path-computation-yang-00
-YANG Data Models for requesting Path Computation in Optical Networks**
+**- draft-ietf-ccamp-optical-path-computation-yang-00**
+YANG Data Models for requesting Path Computation in Optical Networks
 
-**- draft-ietf-ccamp-otn-path-computation-yang-00
-A YANG Data Model for requesting Path Computation in an Optical Transport Network (OTN)**
+**- draft-ietf-ccamp-otn-path-computation-yang-00**
+A YANG Data Model for requesting Path Computation in an Optical Transport Network (OTN)
 
 **-draft-ietf-ccamp-otn-topo-yang-16**
 *A YANG Data Model for Optical Transport Network Topology*
-> Submitted to IETF for publication
+> Publication requested
 
-**- draft-ietf-ccamp-otn-tunnel-model-17
-OTN Tunnel YANG Model**
+**- draft-ietf-ccamp-otn-tunnel-model-17**
+OTN Tunnel YANG Model
 
 **- draft-ietf-ccamp-rfc9093-bis-04**
 A YANG Data Model for Layer 0 Types
 >Version 04 reviewed by YANG doctors. Make sure comments are addressed. Ready with issues. Cluster with optical impairments draft.
 
-**- draft-ietf-ccamp-wson-tunnel-model-08
-A Yang Data Model for WSON Tunnel**
+**- draft-ietf-ccamp-wson-tunnel-model-08**
+A Yang Data Model for WSON Tunnel
 
-**- draft-ietf-ccamp-yang-otn-slicing-04
-Framework and Data Model for OTN Network Slicing**
+**- draft-ietf-ccamp-yang-otn-slicing-04**
+Framework and Data Model for OTN Network Slicing
 
 
 ## Draft prioritization for WG adoption
-Prio 1 - draft-zheng-ccamp-client-pm-yang-07
+Prio 1 - draft-poidt-ccamp-actn-poi-pluggable-02
+Applicability of ACTN to Packet Optical Integration (POI) extensions to support Router             Optical interfaces
+> Haomian to run IPR polling after IETF 117
+> WG adoption process managed by Luis
+
+Prio 2 - draft-zheng-ccamp-client-pm-yang-07
 A YANG Data Model for Client Signal Performance Monitoring
 >Daniele
 
-Prio 2 - draft-zheng-ccamp-client-tunnel-yang-12
+Prio 3 - draft-zheng-ccamp-client-tunnel-yang-12
 A YANG Data Model for Client-layer Tunnel
 
 ## Draft prioritization for WG last call
 Prio 1 **- draft-ietf-ccamp-mw-topo-yang-05**
 A YANG Data Model for Microwave Topology
->IPR for last call completed, In WG last call, ending June 28th
+>last call passed. comments to be addressed and the shepherd writeup.
 
+Prio 2 **- draft-ietf-ccamp-flexe-yang-cm-01**
+YANG Data Model for FlexE Management
+> YANG doctor and RTG DIR review requests. deadline 14 Aug 23
 
+Prio 3 (cluster)
+**- draft-ietf-ccamp-optical-impairment-topology-yang-12**
+**- draft-ietf-ccamp-rfc9093-bis-04**
 
 ## IPR polling ongoing
 ...
