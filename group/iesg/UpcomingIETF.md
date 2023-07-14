@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-13T23:07:00.462Z
+date: 2023-07-14T18:15:04.684Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -113,8 +113,10 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg_2
 No IESG breakfast. IAB has a breakfast meeting
 
 ## Friday, July 28, 2023 
-### Joint IAB/IESG Lunch - Time: TBD Room: Continental 2/3
-### Joint IESG/IAB Meeting - Time: TBD PDT (UTC-7)
+### Experiences of Women Participating in the IETF - Time: 13:45-14:15 Room: Continental 4
+
+### Joint IAB/IESG Lunch - Time: 14:15-14:45 Room: Continental 2/3
+### Joint IESG/IAB Meeting - Time: 14:45-16:00 PDT (UTC-7) Room: Continental 2/3
 
 Meetecho: https://meetings.conf.meetecho.com/ietf117/?group=iabiesg_2
 Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg_2
