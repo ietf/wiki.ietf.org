@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-14T08:09:46.708Z
+date: 2023-07-14T08:10:42.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -226,8 +226,8 @@ Location: Tower 1, Ballroom Level
 | 15:00 |                  |                  |  
 | 15:30 |                  |                  |  
 | 16:00 |                  |                  |  
-| 16:30 |                  | Network Inventory for Green Energy|  
-| 17:00 |                  | Network Inventory for Green Energy| 
+| 16:30 | Network Inventory for Green Energy  | |  
+| 17:00 | Network Inventory for Green Energy  | | 
 | 17:30 |                  | Network Management Evolution                 | 
 | 18:00 |                  | Network Management Evolution                 |  
 | 18:30 |                  | Network Management Evolution                 | 
