@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-14T18:15:04.684Z
+date: 2023-07-14T18:46:04.456Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -21,7 +21,8 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 4. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob) - IESG low priority
 5. IAB Outreach Coordinator (Dhruv) - added to Sunday joint session
 6. ICANN Blog Post on UN Technical Envoy (Mirja) - added to Sunday joint session
-7. Topic (IESG or IESG/IAB) (Name)
+7. Interim Meeting LoI Guidelines (Martin) - IESG
+8. Topic (IESG or IESG/IAB) (Name)
 
 
 # IESG Activities
