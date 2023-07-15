@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-10T15:39:56.014Z
+date: 2023-07-15T20:35:57.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -130,7 +130,7 @@ This museum is in the presidio park adjacent to Golden Gate Bridge, which is als
 
 ## **Ferry Building**
 
-1.7km one-way walk.  Not much to see once there, but still a nice walk to the bay shore. Contains shops and restaurants. Also, you can take actual ferries to Sausalito and north, and points in the East Bay.
+1.7km one-way walk.  Not much to see once there, but still a nice walk to the bay shore. Contains shops and restaurants including a nice bookstore on the harbor side, Mariposa Bakery inside, which sells wonderful allergy-friendlu baked goods, and Cowgirl Creamery, also inside. Also, you can take actual ferries to Sausalito and north, and points in the East Bay.
 
 Routes and schedules: https://sfport.com/ferry
 
