@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-15T20:35:57.950Z
+date: 2023-07-15T20:39:35.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z
@@ -218,6 +218,12 @@ There are various bicycle rental places such as near Pier 39 (tourist area). You
 There are a number of beaches to visit, and the further west you go the bigger the waves get generally.  Ocean beach is a big long strip of beach that is popular but so big there aren't endless people on it.  The other beaches just east of the golden gate facing the bridge can get you good views of the bridge and the bay.
 
 **Warning: the pacific ocean is COLD and also frequently has an undercurrent -- if you want to swim, check the signs first. Wet suit recommended and don't go alone.**
+
+## San Francisco Cross-Town Trail
+
+17 miles which can be walked, run or biked in sections. Only 4 years old
+https://crosstowntrail.org/
+
 
 # Beyond San Francisco
 
