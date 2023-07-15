@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-07-15T17:00:58.992Z
+date: 2023-07-15T17:32:03.674Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -71,6 +71,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05; -02 posted on 2022-07-06 that handles WG adoption comments  | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; Comments received during adoption are pending | - |
+| draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
 
@@ -90,7 +91,6 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-enhanced-errors](https://datatracker.ietf.org/doc/draft-ietf-pce-enhanced-errors) | Y | Feedback requested on the mailing list by 2021-05-17 | -11 posted on 2022-03-07; Work out how to encourage other I-Ds to use this; is there still interest? | Dhruv | 
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Y | In WG-LC | IPR - 4/4 | Dhruv | Dhruv |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -07 version posted on 2022-03-07 | Gather implementation experience | - | - |
 
 ## Post WG LC Queue  
@@ -101,13 +101,14 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
 | [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Waiting for authors to handle LC comments |  IPR Poll - 6/6 | Hari |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Waiting for write-up and Shepherd review| IPR - 4/4 | Dhruv |
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-pcep-stateful-pce-gmpls | AD review done. -21 posted 2023-05-10 to address AD comments | IETF Last Call ends 2023-05-29 | Dhruv |
-| draft-ietf-pce-local-protection-enforcement |  AD review done, Andrew responded, awaiting a new version to be posted | Sent to IESG on 2022-08-09 | Julien |
+| draft-ietf-pce-pcep-stateful-pce-gmpls | Approved-announcement to be sent::Revised I-D Needed| Waiting on Authors | Dhruv |
+
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
 
@@ -117,7 +118,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | draft-ietf-pce-binding-label-sid | MISSREF*A*R(1G) | Pending on draft-ietf-pce-segment-routing-ipv6 [Cluster454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
-
+| draft-ietf-pce-local-protection-enforcement | EDIT | - | Julien |
 
 ## Recent RFCs
 
