@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-17T17:03:53.380Z
+date: 2023-07-17T17:10:55.801Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -16,7 +16,6 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 ### Notes about public side meetings
 
-* To begin, lunch slots are blocked off in case these rooms are needed for other IETF meetings and events. The week of July 17, some lunch slots will be opened up if they are available for side meetings.
 
 * Side meetings posted here are open for any registered IETF participant to attend and are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
 
