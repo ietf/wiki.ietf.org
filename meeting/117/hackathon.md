@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-17T22:05:57.522Z
+date: 2023-07-17T22:29:18.955Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -450,6 +450,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 ### Linearized Matrix
 - **Champion(s)**
   - Travis Ralston (travisr@matrix.org)
+  - Matthew Hodgson (matthew@matrix.org)
 - **Project Info**
   - Testing the feasibility for using Linearized Matrix in existing messaging server software by implementing it.
   - Iterating on the Internet-Draft following learnings of implementation interoperability testing.
