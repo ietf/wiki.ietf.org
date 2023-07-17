@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-17T18:38:32.210Z
+date: 2023-07-17T18:49:47.853Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -57,6 +57,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
 | 08:30-09:30 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | TBD  | TBD  |
+| 9:45-11:15 |   Golden Gate 4     | Sustainable Networking | N/A | Alex Clemm, Suresh Krishnan | Follow up on sustainable networking discussions from Yokohama, discussion of progress and next steps |    TBD                |   TBD |
 |  17:00-17:45 | Continental 2-3 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTUwZmYyNTMtMGJlZC00NGRkLWFjNzYtZjdjZGYyMmU1MjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
 |  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Oscar González de Dios / Thomas Graf / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | TBD | TBD |
@@ -74,7 +75,6 @@ Please sort the meeting by time if possible.
 | 08:00-08:30 | Continental 2-3 | ECH Deployment Considerations | opsawg  | [Andrew Campling](mailto:Andrew.Campling@419.Consulting)/ [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.Com) | An update on progress with the Internet-Draft and discussion on next steps.  |   TBD   | TBD |
 | 08:30-09:30 | Continental 2-3 | YANG network models | opsawg  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) | Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
-| 15:00-16:30 |   Continental 2-3     | Sustainable Networking | N/A | Alex Clemm, Suresh Krishnan | Follow up on sustainable networking discussions from Yokohama, discussion of progress and next steps |    TBD                |   TBD |
 | 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
@@ -141,10 +141,10 @@ Location: Tower 1, Ballroom Level
 | 08:00 |                  |  NOT AVAILABLE  |  
 | 08:30 | Mobile Traffic Steering |   NOT AVAILABLE  |  
 | 09:00 | Mobile Traffic Steering |   NOT AVAILABLE  |     
-| 09:30 |                  |   NOT AVAILABLE  |   
-| 10:00 |                  |                  |  
-| 10:30 |                  |                  |  
-| 11:00 |     |  NOT AVAILABLE   |  
+| 09:30 | Sustainable networking side meeting (from 9:45)  |   NOT AVAILABLE  |   
+| 10:00 | Sustainable networking side meeting |                  |  
+| 10:30 | Sustainable networking side meeting |                  |  
+| 11:00 | Sustainable networking side meeting (until 11:15)|  NOT AVAILABLE   |  
 | 11:30 |    |  NOT AVAILABLE   |
 | 12:00 |     |  NOT AVAILABLE   |
 | 12:30 |    |  NOT AVAILABLE   |
@@ -189,9 +189,9 @@ Location: Tower 1, Ballroom Level
 | 13:30 |                  | L4S on WiFi side meeting | 
 | 14:00 |                  | L4S on WiFi side meeting |  
 | 14:30 |                  | L4S on WiFi side meeting | 
-| 15:00 |                  | Sustainable networking side meeting                 | 
-| 15:30 |                  | Sustainable networking side meeting                 | 
-| 16:00 |                  | Sustainable networking side meeting                 | 
+| 15:00 |                  |                  | 
+| 15:30 |                  |                  | 
+| 16:00 |                  |                  | 
 | 16:30 |                  |                  | 
 | 17:00 |                  |                  | 
 | 17:30 |                  |                  | 
