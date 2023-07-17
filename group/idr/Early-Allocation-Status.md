@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-07-17T21:37:22.411Z
+date: 2023-07-17T21:40:49.381Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -19,6 +19,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Site preference | TBD | in process | 
 |draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Site capacity availability | TBD | in process | 
 |draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Service Delay prediction | TBD | in process | 
+|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Raw measurements of packets/bytes to/from the Edge Service address | TBD | in process | 
 {.dense}
 
 
