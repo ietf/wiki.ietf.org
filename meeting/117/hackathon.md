@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-11T14:25:35.688Z
+date: 2023-07-17T14:44:54.781Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -224,6 +224,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   We would like to go further with more QUIC stacks such as Mozilla Neqo (in Rust) or 
   Google Quiche(in C++) or Cloudflare Quiche (in Rust) or picoquic(in C) or QUINN (in Rust).
 - **Additional Info**
+  - git for the hackathon: https://github.com/marcblanchet/quic-in-space-hackathon.git
+  - a slack channel has been created. send email to marc.blanchet at viagenie.ca to get an invite.
   - POC: https://www.privateoctopus.com/2023/02/07/quic-to-mars.html
   - Mozilla Neqo: https://github.com/mozilla/neqo
   - Cloudflare Quiche: https://github.com/cloudflare/quiche
