@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-05-25T23:43:10.788Z
+date: 2023-07-17T21:37:22.411Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -15,6 +15,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |---|---|---|---|---|---|---|
 |draft-ietf-idr-car-01 (RFC9029) |	TBD | TBD | TBD | TBD	| WG chair | 
 |draft-ietf-idr-ct-01 | TBD | TBD | TBD | TBD | WG chair | 
+|draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process | 
+|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Site preference | TBD | in process | 
+|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Site capacity availability | TBD | in process | 
+|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Service Delay prediction | TBD | in process | 
 {.dense}
 
 
