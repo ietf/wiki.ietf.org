@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-17T15:00:42.101Z
+date: 2023-07-17T17:03:07.672Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -138,17 +138,17 @@ Location: Tower 1, Ballroom Level
 
 | **Time** | **Golden Gate 4 (16 people)** | **Continental 2-3 (40 people)** | 
 |-------|------------------|------------------| 
-| 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:00 |                  |   NOT AVAILABLE  |  
+| 07:30 |   |     |   
+| 08:00 |                  |  NOT AVAILABLE  |  
 | 08:30 | Mobile Traffic Steering |   NOT AVAILABLE  |  
 | 09:00 | Mobile Traffic Steering |   NOT AVAILABLE  |     
 | 09:30 |                  |   NOT AVAILABLE  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
-| 11:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |  
-| 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
+| 11:00 |     |  NOT AVAILABLE   |  
+| 11:30 |    |  NOT AVAILABLE   |
+| 12:00 |     |  NOT AVAILABLE   |
+| 12:30 |    |  NOT AVAILABLE   |
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
@@ -182,10 +182,10 @@ Location: Tower 1, Ballroom Level
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
-| 11:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |  
-| 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
+| 11:00 |    |  NOT AVAILABLE   |  
+| 11:30 |    |  NOT AVAILABLE   |
+| 12:00 |    |  NOT AVAILABLE   |
+| 12:30 |     |  NOT AVAILABLE   |
 | 13:00 |                  | L4S on WiFi side meeting |  
 | 13:30 |                  | L4S on WiFi side meeting | 
 | 14:00 |                  | L4S on WiFi side meeting |  
@@ -215,10 +215,10 @@ Location: Tower 1, Ballroom Level
 | 09:30 | Protocol Performance over Satellite  |   NOT AVAILABLE  |   
 | 10:00 |  Protocol Performance over Satellite                 |                  |  
 | 10:30 |  Protocol Performance over Satellite                 |                  |  
-| 11:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |  
-| 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
+| 11:00 |     |     |  
+| 11:30 |    |     |
+| 12:00 |     |     |
+| 12:30 |     |     |
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
@@ -248,10 +248,10 @@ Location: Tower 1, Ballroom Level
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
-| 11:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |  
-| 11:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:00 |  NOT AVAILABLE   |  NOT AVAILABLE   |
-| 12:30 |  NOT AVAILABLE   |  NOT AVAILABLE   |
+| 11:00 |  NOT AVAILABLE   |    |  
+| 11:30 |  NOT AVAILABLE   |     |
+| 12:00 | NOT AVAILABLE    |    |
+| 12:30 |  NOT AVAILABLE   |    |
 | 13:00 |                  |RPC GitHub Workshop|  
 | 13:30 |                  |RPC GitHub Workshop| 
 | 14:00 |  SML side meeting|                  |  
