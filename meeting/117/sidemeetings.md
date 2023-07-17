@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-17T17:03:07.672Z
+date: 2023-07-17T17:03:53.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -215,10 +215,10 @@ Location: Tower 1, Ballroom Level
 | 09:30 | Protocol Performance over Satellite  |   NOT AVAILABLE  |   
 | 10:00 |  Protocol Performance over Satellite                 |                  |  
 | 10:30 |  Protocol Performance over Satellite                 |                  |  
-| 11:00 |     |     |  
-| 11:30 |    |     |
-| 12:00 |     |     |
-| 12:30 |     |     |
+| 11:00 |     |  NOT AVAILABLE   | 
+| 11:30 |    |  NOT AVAILABLE   |
+| 12:00 |     |  NOT AVAILABLE   |
+| 12:30 |     | NOT AVAILABLE    |
 | 13:00 |                  |                  |  
 | 13:30 |                  |                  | 
 | 14:00 |                  |                  |  
