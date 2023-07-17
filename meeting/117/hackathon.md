@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-17T14:52:59.060Z
+date: 2023-07-17T22:05:57.522Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -447,6 +447,17 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - Group initially including Allison, John, Willem Toorop (NLNet Labs), and Baula Xu (Salesforce) will prototype https://datatracker.ietf.org/doc/draft-jt-add-dns-server-redirection/ - all welcome!
   
+### Linearized Matrix
+- **Champion(s)**
+  - Travis Ralston (travisr@matrix.org)
+- **Project Info**
+  - Testing the feasibility for using Linearized Matrix in existing messaging server software by implementing it.
+  - Iterating on the Internet-Draft following learnings of implementation interoperability testing.
+  - Incorporating and testing the working group's feedback on the draft through further implementation.
+  - Time permitting, designing replacement Transport and MLS semantics for the draft.
+  - MIMI working group members are particularly welcome to emit feedback & help design the future of the I-D ahead of the IETF 117 sessions.
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ralston-mimi-linearized-matrix/
 
 ### Your Project Name
 - **Champion(s)**
