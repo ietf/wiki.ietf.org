@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-07-17T21:27:59.286Z
+date: 2023-07-17T21:29:22.328Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -107,7 +107,6 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## In WG Adoption Process (IDR Chairs review)
 |  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
-
 |  draft-zhou-idr-bgp-srmpls-elp-03  |  Susan Hares | Held for review  |  TBD  | 1/27 to 3/8    |  3/8          |  5/26    |
 |  draft-dong-idr-sr-policy-nrp-01   |  Susan Hares  |  Held for review   |  uploaded        |  3/1 to 3/28      |  3/17           |  5/26   |
 |  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption     |  4/12-5/12      |  5/12    |   TBD       |
@@ -115,11 +114,9 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 {.dense}
 
 ## In WG Adoption Process (WG discussion)
-
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
 |none| 
-
 {.dense}
 
 ## Adoption process - upcoming Adoptions
