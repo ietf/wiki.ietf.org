@@ -2,7 +2,7 @@
 title: IETF 117 Code Lounge
 description: 
 published: true
-date: 2023-07-10T18:56:36.672Z
+date: 2023-07-17T22:34:19.546Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:29:00.868Z
@@ -19,10 +19,10 @@ Please sign up for a time slot below by entering your working group or Hackathon
 
 |      |  Monday, 24 July | Tuesday, 25 July  | Wednesday, 26 July |  Thursday, 27 July | Friday, 28 July |  
 |-------|------|------|------|------|------|
-| 08:00 |  **Lounge Closed** |      |      |      |      |
-| 10:00 |  **Lounge Closed** |      |      |      |      |
-| 12:00 |  **Lounge Closed** |      |      |      |      |     
-| 14:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |
-| 16:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |                         
-| 18:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |  
-| 20:00 |  **Lounge Closed** |      |      |      | **Lounge Closed** |
+| 08:00 |  **Lounge Closed** | L4S/AccECN |   L4S/AccECN   |  L4S/AccECN    |   L4S/AccECN   |
+| 10:00 |  **Lounge Closed** |  L4S/AccECN    |   L4S/AccECN   |  L4S/AccECN    |   L4S/AccECN   |
+| 12:00 |  **Lounge Closed** |  L4S/AccECN    |  L4S/AccECN    |  L4S/AccECN    |   L4S/AccECN   |     
+| 14:00 |  **Lounge Closed** |   L4S/AccECN   |  L4S/AccECN    |  L4S/AccECN    | **Lounge Closed** |
+| 16:00 |  **Lounge Closed** |   L4S/AccECN   |  L4S/AccECN    |  L4S/AccECN    | **Lounge Closed** |                         
+| 18:00 |  **Lounge Closed** |   L4S/AccECN   |  L4S/AccECN    | L4S/AccECN     | **Lounge Closed** |  
+| 20:00 |  **Lounge Closed** |   L4S/AccECN   |   L4S/AccECN   | L4S/AccECN    | **Lounge Closed** |
