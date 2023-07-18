@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-18T20:31:41.773Z
+date: 2023-07-18T20:59:24.295Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -21,17 +21,21 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 # IESG Activities
 *All times are in PDT (UTC -7).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
 
-## Saturday and Sunday, July 22 and 23, 2023
+## Saturday and Sunday, July 22, 2023
 
 **Code Sprint** - Saturday, July 22, 2023 - 10:00-18:00 - Room: Golden Gate 1
 
 **Hackathon**
   - Saturday, July 22, 2023 - 09:30-21:00 - Room: Plaza AB
-  - Sunday, July 23, 2023 - 09:30-16:00 - Room: Plaza AB
 
-### Saturday Night Social 
+### AMS-IETF Leadership Venue Tour 
 
-Time: 17:00-19:00
+Time: 16:30-17:00
+Location: meetin in Golden Gate Foyer
+
+### AMS-IETF Leadership Happy Hour 
+
+Time: 17:00-18:30
 Location: Vista Lounge
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
@@ -40,6 +44,10 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 
 ## Sunday, July 23, 2023
+
+**Hackathon**
+
+  - Sunday, July 23, 2023 - 09:30-16:00 - Room: Plaza AB
 
 ### IESG Only Meeting - Time: 09:30-11:30 Room: Continental 2/3
 
