@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-18T12:03:47.103Z
+date: 2023-07-18T17:13:36.504Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -149,7 +149,7 @@ note: Not available before 09:00 Sunday
 ## Monday, 24 July 2023
 
 * 09:00-09:15: DHC WG chairs + AD (Éric V)
-* TIME - ACTIVITY
+* 12:00-12:45: SEC AD Office Hours (Roman and Paul)
 
 ## Tuesday, 25 July 2023
 
