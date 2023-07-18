@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-18T14:00:09.687Z
+date: 2023-07-18T20:28:00.497Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -284,7 +284,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://datatracker.ietf.org/doc/rfc9203/
 
 
-### PQ in X.509, Signatures, KEMS and protocols
+### PQ in X.509, Signatures, KEMs and protocols
 - **Champion(s)**
 John Gray (john.gray@entrust.com)
 Mike Ounsworth (mike.ounsworth@entrust.com)
