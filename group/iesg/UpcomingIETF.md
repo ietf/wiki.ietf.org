@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-18T00:18:48.536Z
+date: 2023-07-18T11:42:37.580Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -17,7 +17,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
 1. Update on ISOC Policy Program (Ryan Polk) - added to Sunday joint session
 2. Areamandering (Martin Duke) - IESG
-3. Registration fees by other SDOs (e.g., ICAO for DRIP WG) - Joint IAB/IESG (Éric & Mirja)
+3. Registration fees by other SDOs (e.g., ICAO for DRIP WG) - Joint IAB/IESG (Éric & Mirja) - added to Sunday joint
 4. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob) - IESG low priority
 5. IAB Outreach Coordinator (Dhruv) - added to Sunday joint session
 6. ICANN Blog Post on UN Technical Envoy (Mirja) - added to Sunday joint session
@@ -79,8 +79,11 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
     > - INT
     > - SEC
     > - OPS
-> 4. ICANN Blog Post on UN Technical Envoy (Mirja)
-> 5. IAB Outreach Coordinator (Dhruv) 
+> 4. Highlights Blog Post for 118 (Mirja/Greg)
+> 5. Registration fees by other SDOs (e.g., ICAO for DRIP WG) (Éric & Mirja)
+> 6. IAB Outreach Coordinator (Dhruv) 
+> 7. LLC Outreach Process (Jay)
+> 8. ICANN Blog Post on UN Technical Envoy (Mirja)
  
 
 ## Monday, July 24, 2023 
