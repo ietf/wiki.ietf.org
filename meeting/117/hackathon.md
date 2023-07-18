@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-18T12:03:39.728Z
+date: 2023-07-18T13:33:36.110Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -480,6 +480,22 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/draft-gao-alto-fcs/
 - **Repositories**
   - OpenALTO - [server-side code](http://github.com/openalto/alto)
+
+### DRIP scripting
+- **Champion**
+  - Robert Moskowitz (rgm at labs.htt-consult.com) (only Sunday from noon onwards)
+- **Project Info**
+  - Develop scripts (python and others) to support DRIP
+  - Scripts for various DRIP objects like DETs, DETs Endorsements, and DRIP related DNS RR
+  - Scripts for X.509 certificates that may "shadow" DETs (and general X.509 usage)
+  - Any other needed DRIP work
+- **Specifications**
+  - https://datatracker.ietf.org/doc/rfc9374/
+  - https://datatracker.ietf.org/doc/draft-ietf-drip-registries/
+  - https://datatracker.ietf.org/doc/draft-moskowitz-drip-dki/
+  - https://datatracker.ietf.org/doc/draft-moskowitz-eddsa-pki/
+- **Repositories**
+  - https://github.com/ietf-wg-drip/drip-scripts
 
 ### Your Project Name
 - **Champion(s)**
