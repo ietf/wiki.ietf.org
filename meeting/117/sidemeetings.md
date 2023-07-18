@@ -2,22 +2,20 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-18T01:57:51.974Z
+date: 2023-07-18T11:25:32.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
 ---
 
-# Public Side Meetings at IETF 117
+IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support. These rooms and this page are not to be used for [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
+This wiki is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 117 San Francisco](https://www.ietf.org/how/meetings/117/).
 
-IETF participants occasionally organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. While these are side meetings, the IETF does provide this wiki to register the topics, contact persons, dates and times, and other information about the meetings being planned. This page provides details for side meetings around  [IETF 117 San Francisco](https://www.ietf.org/how/meetings/117/).
+# Guidelines for public side meetings
+* Side meetings posted here are open for any registered IETF participant to attend.
 
-
-### Notes about public side meetings
-
-
-* Side meetings posted here are open for any registered IETF participant to attend and are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
+* All side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
 
 * Working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html), which is not the case for informal side meetings.
 
@@ -25,17 +23,18 @@ IETF participants occasionally organize side meetings around [IETF meetings](htt
 
 * Side meetings do not record attendance ("blue sheets") as is done during IETF working groups sessions.
 
-* Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
-
-* Since there are many freely available conferencing services, the [IESG](https://www.ietf.org/about/groups/iesg/) has decided not to provide conferencing support for side meetings.
-
 * Active consent from participants should be sought by organizers for any side meeting that is recorded.
 
 * Side meeting dates and times should be listed in San Francisco local time, UTC-7 (Please note that Europe and the USA go into Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
 * Please provide a calendar invitation (an `.ics` file) for a side meeting by putting the link in the appropriate column below.
 
-#  ***!!!NEW!!!*** Two Step Process to Schedule a Side Meeting 
+# Audio/Visual provision and remote participation
+Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
+
+Since there are many freely available conferencing services, the [IESG](https://www.ietf.org/about/groups/iesg/) has decided not to provide conferencing support for side meetings.
+
+# Two step process to schedule a side meeting 
 
 **1. Enter your meeting information (day, time, name, area, contact, description, room links) into the [meeting information table](#meetinginfo) below. Note this is not the room reservation. The actual room reservation is step 2.**
 
