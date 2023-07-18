@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-18T11:42:37.580Z
+date: 2023-07-18T12:01:12.604Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -15,14 +15,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
-1. Update on ISOC Policy Program (Ryan Polk) - added to Sunday joint session
-2. Areamandering (Martin Duke) - IESG
-3. Registration fees by other SDOs (e.g., ICAO for DRIP WG) - Joint IAB/IESG (Éric & Mirja) - added to Sunday joint
 4. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob) - IESG low priority
-5. IAB Outreach Coordinator (Dhruv) - added to Sunday joint session
-6. ICANN Blog Post on UN Technical Envoy (Mirja) - added to Sunday joint session
-7. Interim Meeting LoI Guidelines (Martin) - IESG
-8. Topic (IESG or IESG/IAB) (Name)
 
 
 # IESG Activities
@@ -58,7 +51,9 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 >    - RFC Editor
 >    - IANA
 > 1. [IETF Mail Statistics Post Covid](https://docs.google.com/spreadsheets/d/16IQmbHr6fkr7Bv-qk-y0uW58cdj4HhkeCFEMmTufppc/edit?usp=sharing) (Rob and Warren)
-> 1. Topic (Name)
+> 1. Interim Meeting LoI Guidelines (Martin)
+> 1. Areamandering (Martin)
+
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Continental 2/3
 
@@ -68,8 +63,8 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 
 
 > 1. Welcome and introductions
-> 2. Update on ISOC Policy Program (Ryan Polk)
-> 3. Area walkthrough for hot topics (list randomized for 117)
+> 1. Brief Update on ISOC Policy Program (Ryan Polk)
+> 1. Area walkthrough for hot topics (list randomized for 117)
     > - ART
     > - TSV
     > - GEN
@@ -79,11 +74,11 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
     > - INT
     > - SEC
     > - OPS
-> 4. Highlights Blog Post for 118 (Mirja/Greg)
-> 5. Registration fees by other SDOs (e.g., ICAO for DRIP WG) (Éric & Mirja)
-> 6. IAB Outreach Coordinator (Dhruv) 
-> 7. LLC Outreach Process (Jay)
-> 8. ICANN Blog Post on UN Technical Envoy (Mirja)
+> 1. Registration fees by other SDOs (e.g., ICAO for DRIP WG) (Éric & Mirja)
+> 1. IAB Outreach Coordinator (Dhruv) 
+> 1. LLC Outreach Process (Jay)
+> 1. ICANN Blog Post on UN Technical Envoy (Mirja)
+> 1. Highlights Blog Post for 118 (Mirja/Greg)
  
 
 ## Monday, July 24, 2023 
@@ -95,7 +90,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf117/?group=iesg
 Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg
 
 > 1. IPR Disclosure Bug (Vigdis)
-> 2. Topic (Name)
+
 ## Tuesday, July 25, 2023
 
 No IESG breakfast. IAB has a breakfast meeting
@@ -107,7 +102,6 @@ Meetecho: https://meetings.conf.meetecho.com/ietf117/?group=iesg_2
 Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg_2
 
 > 1. Plenary Prep
-> 2. Topic (Name)
 
 
 ### IETF 117 Plenary TIME: 17:30-19:30 PDT (UTC-7) Room: Continetal 4/5/6
@@ -136,8 +130,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg_2
     > - ART
     > - TSV
     > - GEN
->  2.  General discussion of productivity and how the meeting went	 (standing item)
->  3. Topic (Name)
+>  1.  General discussion of productivity and how the meeting went	 (standing item)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
