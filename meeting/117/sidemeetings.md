@@ -2,12 +2,13 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-18T11:25:32.568Z
+date: 2023-07-18T11:26:27.689Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
 ---
 
+# Side meetings at IETF 117
 IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support. These rooms and this page are not to be used for [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
 This wiki is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 117 San Francisco](https://www.ietf.org/how/meetings/117/).
