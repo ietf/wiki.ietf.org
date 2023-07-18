@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-18T12:01:12.604Z
+date: 2023-07-18T12:03:47.103Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -15,8 +15,8 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
-4. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob) - IESG low priority
 
+> 1. Example topic (Name)
 
 # IESG Activities
 *All times are in PDT (UTC -7).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -90,6 +90,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf117/?group=iesg
 Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg
 
 > 1. IPR Disclosure Bug (Vigdis)
+> 1. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob)
 
 ## Tuesday, July 25, 2023
 
