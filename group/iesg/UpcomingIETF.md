@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-19T08:33:54.466Z
+date: 2023-07-19T08:35:54.481Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -61,6 +61,8 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 > 1. [IETF Mail Statistics Post Covid](https://docs.google.com/spreadsheets/d/16IQmbHr6fkr7Bv-qk-y0uW58cdj4HhkeCFEMmTufppc/edit?usp=sharing) (Rob and Warren)
 > 1. Interim Meeting LoI Guidelines (Martin)
 > 1. Areamandering (Martin)
+> 1. Registration fees by other SDOs (e.g., ICAO for DRIP WG) (Éric & Mirja)
+> 1. Highlights Blog Post for 118 (Mirja/Greg)
 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Continental 2/3
@@ -83,12 +85,10 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
     > - SEC
     > - OPS
 > 1. Friday afternoon at 118 (Lars/Jay)
-> 1. Registration fees by other SDOs (e.g., ICAO for DRIP WG) (Éric & Mirja)
 > 1. IAB Outreach Coordinator and LLC Outreach Process (Dhruv/Jay) 
 > 1. Direct IETF liaisons to JTC & ISO (Lars/Jay)
-> 1. ICANN Blog Post on UN Technical Envoy (Mirja)
-> 1. Highlights Blog Post for 118 (Mirja/Greg)
 > 1. "Encryption policies" statement (Paul/Mallory)
+> 1. ICANN Blog Post on UN Technical Envoy (Mirja)
  
 
 ## Monday, July 24, 2023 
