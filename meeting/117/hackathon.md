@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-18T20:28:00.497Z
+date: 2023-07-19T14:27:08.661Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -497,6 +497,20 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/draft-moskowitz-eddsa-pki/
 - **Repositories**
   - https://github.com/ietf-wg-drip/drip-scripts
+  
+### Trusted Execution Environment Provisioning (TEEP)
+- **Champion(s)**
+  - Dave Thaler (dthaler at microsoft.com)
+- **Project Info**
+  - TEEP/SUIT/RATS integration
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+  - https://datatracker.ietf.org/doc/draft-ietf-suit-report/
+  - https://datatracker.ietf.org/doc/draft-ietf-suit-trust-domains/
+- **Repositories**
+  - https://github.com/ietf-teep/teep-protocol
+  - https://github.com/dthaler/TEEP
+  - https://github.com/kentakayama/libcsuit
 
 ### Your Project Name
 - **Champion(s)**
