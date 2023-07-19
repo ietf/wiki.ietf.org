@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-19T08:35:54.481Z
+date: 2023-07-19T08:37:37.409Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -62,7 +62,6 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 > 1. Interim Meeting LoI Guidelines (Martin)
 > 1. Areamandering (Martin)
 > 1. Registration fees by other SDOs (e.g., ICAO for DRIP WG) (Éric & Mirja)
-> 1. Highlights Blog Post for 118 (Mirja/Greg)
 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Continental 2/3
@@ -101,6 +100,8 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg
 
 > 1. IPR Disclosure Bug (Vigdis)
 > 1. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob)
+> 1. Highlights Blog Post for 118 (Mirja/Greg)
+
 
 ## Tuesday, July 25, 2023
 
