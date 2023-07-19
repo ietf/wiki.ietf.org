@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-19T13:07:34.294Z
+date: 2023-07-19T13:10:22.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -191,9 +191,9 @@ Location: Tower 1, Ballroom Level
 | 13:30 | SFrame | L4S on WiFi side meeting | 
 | 14:00 |                  | L4S on WiFi side meeting |  
 | 14:30 |                  | L4S on WiFi side meeting | 
-| 15:00 |                  |                  | 
-| 15:30 |                  |                  | 
-| 16:00 |                  |                  | 
+| 15:00 |                  | IPMON side meeting | 
+| 15:30 |                  | IPMON side meeting | 
+| 16:00 |                  | IPMON side meeting | 
 | 16:30 |                  |                  | 
 | 17:00 |                  |                  | 
 | 17:30 |                  |                  | 
