@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-19T14:27:08.661Z
+date: 2023-07-19T14:29:16.519Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -511,6 +511,16 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://github.com/ietf-teep/teep-protocol
   - https://github.com/dthaler/TEEP
   - https://github.com/kentakayama/libcsuit
+
+### (e)BPF
+- **Champion(s)**
+  - Dave Thaler (dthaler at microsoft.com)
+- **Project Info**
+  - Discuss (e)BPF specifications
+  - Available to advise any other projects using BPF
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-thaler-bpf-isa/
+  - https://datatracker.ietf.org/doc/draft-thaler-bpf-elf/
 
 ### Your Project Name
 - **Champion(s)**
