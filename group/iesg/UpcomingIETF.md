@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-19T08:39:15.342Z
+date: 2023-07-19T10:41:43.055Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -88,6 +88,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 > 1. Direct IETF liaisons to JTC & ISO (Lars/Jay)
 > 1. "Encryption policies" statement (Paul/Mallory)
 > 1. ICANN Blog Post on UN Technical Envoy (Mirja)
+> 1. Highlights Blog Post for 118 (Mirja/Greg)
  
 
 ## Monday, July 24, 2023 
@@ -100,7 +101,6 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg
 
 > 1. IPR Disclosure Bug (Vigdis)
 > 1. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob)
-> 1. Highlights Blog Post for 118 (Mirja/Greg)
 
 
 ## Tuesday, July 25, 2023
