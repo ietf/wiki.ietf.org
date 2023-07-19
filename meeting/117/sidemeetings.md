@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-19T18:50:31.608Z
+date: 2023-07-19T18:59:35.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -74,7 +74,8 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:00-08:30 | Continental 2-3 | ECH Deployment Considerations | opsawg  | [Andrew Campling](mailto:Andrew.Campling@419.Consulting)/ [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.Com) | An update on progress with the Internet-Draft and discussion on next steps.  |   TBD   | TBD |
 | 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com)| Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
-| 11:30-13:00 | Golden Gate 4 | Alternative optimizations for low-latency media handling | ART, TSV, IRTF  | [Spencer Dawkins](mailto:spencerdawkins.ietf@gmail.com) / [John Kaippallimalil](mailto:john.kaippallimalil@futurewei.com) / [Sri Gundavelli](mailto:sgundave@cisco.com) 
+| 11:00-11:30 | Golden Gate 4 | RASPRG | IRTF | [Rich Salz](mailto:rsalz@akamai.com) / [RASPRG list](mailto:rasprg@irtf.org) | No RG session, just informal get-together | TBD | TBD |
+| 11:30-13:00 | Golden Gate 4 | Alternative optimizations for low-latency media handling | ART, TSV, IRTF  | [Spencer Dawkins](mailto:spencerdawkins.ietf@gmail.com) / [John Kaippallimalil](mailto:john.kaippallimalil@futurewei.com) / [Sri Gundavelli](mailto:sgundave@cisco.com) | - | - | - |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
 | 15:00-16:00 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | Next steps for the SFrame WG and beyond | TBD | N/A |
 | 15:00-16:30 | Continental 2-3 | IPMON side meeting | INT  | [Jaehoon (Paul) Jeong](mailto:pauljeong@skku.edu) | Discussion about the charter of IPMON including work items.  |   TBD   | TBD |
@@ -184,7 +185,7 @@ Location: Tower 1, Ballroom Level
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
-| 11:00 |                  |  NOT AVAILABLE   |  
+| 11:00 | RASPRG           |  NOT AVAILABLE   |  
 | 11:30 | Alternative optimizations for low-latency media handling  |  NOT AVAILABLE   |
 | 12:00 | Alternative optimizations for low-latency media handling  |  NOT AVAILABLE   |
 | 12:30 | Alternative optimizations for low-latency media handling  |  NOT AVAILABLE   |
