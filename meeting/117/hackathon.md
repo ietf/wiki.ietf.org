@@ -501,8 +501,10 @@ For information on OIDs used to create interoperable structures, consult: https:
 ### Trusted Execution Environment Provisioning (TEEP)
 - **Champion(s)**
   - Dave Thaler (dthaler at microsoft.com)
+  - Akira Tsukamoto (akira.tsukamoto at alaxala.com)
 - **Project Info**
   - TEEP/SUIT/RATS integration
+  - Update TEEP Protocol implimentation applying feedbacks after IETF116
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
   - https://datatracker.ietf.org/doc/draft-ietf-suit-report/
@@ -511,6 +513,10 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://github.com/ietf-teep/teep-protocol
   - https://github.com/dthaler/TEEP
   - https://github.com/kentakayama/libcsuit
+  - https://github.com/mcd500/ta-ref
+  - https://github.com/mcd500/teep-protocol
+- **TEEP Protocol Wiki**
+  - https://github.com/ietf-teep/teep-protocol/wiki
 
 ### (e)BPF
 - **Champion(s)**
