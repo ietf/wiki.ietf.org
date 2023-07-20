@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-20T07:57:39.577Z
+date: 2023-07-20T09:57:22.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -62,7 +62,7 @@ Please sort the meeting by time if possible.
 |  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Oscar González de Dios / Thomas Graf / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | [Github link](https://github.com/dirk-trossen-huawei/IETF117_ROSA) | TBD |
 | 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
-|   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |      [GitHub: MeetingInfo](https://github.com/Yingzhen-ietf/AIDC-IETF117)   [Zoom Link](https://futurewei.zoom.us/j/95053285236?pwd=U1B3QlZ5bkZ2Mmc5VEczUUtncVM3UT09) [Agenda](https://github.com/Yingzhen-ietf/AIDC-IETF117/blob/main/AIDC_Agenda.md)          |    TBD    |
+|   15:15-17:00        |     Continental 2-3      |       AI DC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        TBD            |    TBD    |
 | 19:00-20:00 | Golden Gate 4 | Public Interest Technology Group (PITG) | - | Corinne Cath-Speth, Gurshabad Grover, Mallory Knodel | Public Interest Technology Group (PITG) | TBD | TBD |
 
 {.dense}
@@ -74,12 +74,10 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:00-08:30 | Continental 2-3 | ECH Deployment Considerations | opsawg  | [Andrew Campling](mailto:Andrew.Campling@419.Consulting)/ [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.Com) | An update on progress with the Internet-Draft and discussion on next steps.  |   TBD   | TBD |
 | 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com)| Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
-| 11:00-11:30 | Golden Gate 4 | RASPRG | IRTF | [Rich Salz](mailto:rsalz@akamai.com) / [RASPRG list](mailto:rasprg@irtf.org) | No RG session, just informal get-together | https://us04web.zoom.us/j/73449121239?pwd=KFiqKCqcheWaM4ObuwWEdPZKYZKa5G.1 | - |
-| 11:30-13:00 | Golden Gate 4 | Alternative optimizations for low-latency media handling | ART, TSV, IRTF  | [Spencer Dawkins](mailto:spencerdawkins.ietf@gmail.com) / [John Kaippallimalil](mailto:john.kaippallimalil@futurewei.com) / [Sri Gundavelli](mailto:sgundave@cisco.com) | - | - | - |
+| 13:00-14:00 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | TBD | N/A |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
-| 15:00-16:00 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | Next steps for the SFrame WG and beyond | TBD | N/A |
 | 15:00-16:30 | Continental 2-3 | IPMON side meeting | INT  | [Jaehoon (Paul) Jeong](mailto:pauljeong@skku.edu) | Discussion about the charter of IPMON including work items.  |   TBD   | TBD |
-| 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Sri Gundavelli (sgundave) <sgundave@cisco.com>
+| 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
 
@@ -88,6 +86,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-10:50 |   Golden Gate 4     | Protocol Performance over Satellite | TSV | G Fairhurst | Meeting for participants to discuss transport protocol performance over deployed satellite systems. https://erg.abdn.ac.uk/users/gorry/stuff/ETOSAT/IETF-117.html |  https://meet.jit.si/IETF117-satellite-perf  |     TBD   |
+| 16:30-17:30  |  Golden Gate 4    | Network Inventory for Engegy Monitoring | OPS | Qin Wu | To explore the network inventory model is expanded to support engergy Monitoring | TBD | TBD|
 | 17:30-18:30 |   Continental 2-3    | Evolution of Network Management (Research Group) | IRTF | Laurent Ciavaglia, Jerome Francois,  <nmrg-chairs@ietf.org> | Discussing evolution of the network management research group: research questions/topics, building research agenda, research approach/methodology |    [Webex meeting](https://ietf.webex.com/ietf/j.php?MTID=m03eee3192d0c9b6e124443888e141d4e) ; Meeting ID : 2434 296 8680  ; Meeting password: netmanevo  |     [ Network Management Evolution.ics](https://drive.google.com/file/d/13YBh9Hz9JMu82tpoAFbVSTn-ZHooiu74/view?usp=drive_link)   |
 |  19:00-20:00         | Continental 2-3        |   6GIP Side Meeting             | INT     |    B Sarikaya (sarikaya@ieee.org) with help from R. Schott (Roland.Schott@telekom.de)          |  Next G Alliance Update IP Mobility Update           | https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDZlMTk4ZjYtODI2NC00MWE4LWEzYzUtYWUzYjlhYTdmNmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d	
    |  |
@@ -102,9 +101,10 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:30-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | [WeMeeting](https://meeting.huaweicloud.com/welink/#/j/99621846/70lRrgZ5BBzxX3kHG5eQFgzhzqcjeAV3I) Meeting ID: 99621846 Meeting Passcode: 772744 | TBD |
 |   8:30-9:30     |  Golden Gate 4      |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project  [Background information and notes](https://notes.ietf.org/co2-footprint-20230727)                    |        [Zoom link](https://ietf.zoom.us/j/83150022323?pwd=MG1uQi9ST0hxeDBQVy8rMEkvVzQxUT09), Meeting Meeting ID: 831 5002 2323 Passcode: ietfco2             |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1YicTBLp3ZFVKIPWYxDy8NSTQMhzbxNFv/view?usp=sharing)        |
-|      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48.  [Background information and meeting materials](https://www.rfc-editor.org/rpc/wiki/doku.php?id=github_auth48_experiments)  |    TBD    |   TBD    |
+|      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    TBD    |   TBD    |
 |      14:00-15:00     |    Golden Gate 4   |     Structured Email (SML)     |  ART   |       [Hans-Jörg Happel](mailto:happel@audriga.com)         |    Charter discussion  |
-|      15:30-17:00     |    Continental 2-3   |     IPv6 operations side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing  <br/> 2. US Government IPv6 mandates & impact to global companies doing business with USG - perspective and practice from SAP, ESnet and Dell     |       To be announced  | |
+|      15:30-17:00     |    Continental 2-3   |     IPv6 operations side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing - Alexandra Huides  <br/> 2. Panel: US Government IPv6 mandates & impact to global companies doing business with USG - perspectives and practices from SAP (Phillip Tiesel), ESnet (Nick Buraglio) and Dell (George Dilger)     |       .[Zoom link].(https://us06web.zoom.us/j/82596474577?pwd=S0pBR0pWNTVoOVhmUXROU2VEWGhCUT09), Meeting ID: 825 9647 4577 Passcode: 986391
+  | |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 
@@ -115,7 +115,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|      8:30-9:30     |    Continental 2-3   |     eodir @ IETF 117       |   GEN   |       eodir-chairs@ietf.org       |      Education & Outreach Directorate  ([agenda](https://notes.ietf.org/eodir-20230728))     |        [Zoom link](https://ietf.zoom.us/j/88481338117?pwd=NDV4ZGs2aGk5eTFCOEcvdGs2Y0ladz09) Meeting ID: 884 8133 8117 Passcode: eodir   |  [eodir.ics](https://drive.google.com/file/d/1JYlO74TWSuHowGUIjrL98xCVuq53mNzV/view?usp=sharing)|
+|      8:30-9:30     |    Continental 2-3   |     eodir @ IETF 117       |   GEN   |       eodir-chairs@ietf.org       |      Education & Outreach Directorate       |        [Zoom link](https://ietf.zoom.us/j/88481338117?pwd=NDV4ZGs2aGk5eTFCOEcvdGs2Y0ladz09) Meeting ID: 884 8133 8117 Passcode: eodir   |  [eodir.ics](https://drive.google.com/file/d/1JYlO74TWSuHowGUIjrL98xCVuq53mNzV/view?usp=sharing)|
 |      9:30-11:00     |    Golden Gate 4   |     CoRE core topics @ IETF 117       |   ART   |       core-chairs@ietf.org       |      CoRE core topics       |  https://meetings.conf.meetecho.com/interim/?short=442370dd-2bf3-4013-aeb8-7dc3f1dba22f   |   |
 {.dense}
 
@@ -184,16 +184,16 @@ Location: Tower 1, Ballroom Level
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |  
 | 10:30 |                  |                  |  
-| 11:00 | RASPRG           |  NOT AVAILABLE   |  
-| 11:30 | Alternative optimizations for low-latency media handling  |  NOT AVAILABLE   |
-| 12:00 | Alternative optimizations for low-latency media handling  |  NOT AVAILABLE   |
-| 12:30 | Alternative optimizations for low-latency media handling  |  NOT AVAILABLE   |
-| 13:00 |                  | L4S on WiFi side meeting |  
-| 13:30 |                  | L4S on WiFi side meeting | 
+| 11:00 |    |  NOT AVAILABLE   |  
+| 11:30 |    |  NOT AVAILABLE   |
+| 12:00 |    |  NOT AVAILABLE   |
+| 12:30 |     |  NOT AVAILABLE   |
+| 13:00 | SFrame | L4S on WiFi side meeting |  
+| 13:30 | SFrame | L4S on WiFi side meeting | 
 | 14:00 |                  | L4S on WiFi side meeting |  
 | 14:30 |                  | L4S on WiFi side meeting | 
-| 15:00 | SFrame           | IPMON side meeting | 
-| 15:30 | SFrame           | IPMON side meeting | 
+| 15:00 |                  | IPMON side meeting | 
+| 15:30 |                  | IPMON side meeting | 
 | 16:00 |                  | IPMON side meeting | 
 | 16:30 |                  |                  | 
 | 17:00 |                  |                  | 
@@ -228,8 +228,8 @@ Location: Tower 1, Ballroom Level
 | 15:00 |                  |                  |  
 | 15:30 |                  |                  |  
 | 16:00 |                  |                  |  
-| 16:30 |                  |                  |  
-| 17:00 |                  |                  | 
+| 16:30 | Network Inventory for Green Energy  | |  
+| 17:00 | Network Inventory for Green Energy  | | 
 | 17:30 |                  | Network Management Evolution                 | 
 | 18:00 |                  | Network Management Evolution                 |  
 | 18:30 |                  | Network Management Evolution                 | 
