@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-20T16:38:20.774Z
+date: 2023-07-20T18:39:57.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -87,6 +87,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-10:50 |   Golden Gate 4     | Protocol Performance over Satellite | TSV | G Fairhurst | Meeting for participants to discuss transport protocol performance over deployed satellite systems. https://erg.abdn.ac.uk/users/gorry/stuff/ETOSAT/IETF-117.html |  https://meet.jit.si/IETF117-satellite-perf  |     TBD   |
+| 9:30-11:30 |   Continental 2-3     | NRO ECG Meeting | GEN | M Kosters | |   |     TBD   |
+| 13:00-15:00 |   Continental 2-3     | NRO ECG Meeting | GEN | M Kosters | |   |     TBD   |
 | 15:00-16:30 | Continental 2-3 | Satellite networks @ IETF | INT/RTG | Carlos J. Bernardos | To discuss potential topics in scope of the IETF regarding Satellite networks/NTN | TBD | TBD |
 | 16:30-17:30  |  Golden Gate 4    | Network Inventory for Engegy Monitoring | OPS | Qin Wu | To explore the network inventory model is expanded to support engergy Monitoring | TBD | TBD |
 | 17:30-18:30 |   Continental 2-3    | Evolution of Network Management (Research Group) | IRTF | Laurent Ciavaglia, Jerome Francois,  <nmrg-chairs@ietf.org> | Discussing evolution of the network management research group: research questions/topics, building research agenda, research approach/methodology |    [Webex meeting](https://ietf.webex.com/ietf/j.php?MTID=m03eee3192d0c9b6e124443888e141d4e) ; Meeting ID : 2434 296 8680  ; Meeting password: netmanevo  |     [ Network Management Evolution.ics](https://drive.google.com/file/d/13YBh9Hz9JMu82tpoAFbVSTn-ZHooiu74/view?usp=drive_link)   |
