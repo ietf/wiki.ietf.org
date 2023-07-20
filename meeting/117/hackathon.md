@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-20T10:13:03.687Z
+date: 2023-07-20T13:12:06.414Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -171,6 +171,38 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
+
+### Software Supply Chain Security with SCITT
+- **Champion(s)**
+  - Hannes Tschofenig
+  - Jon Geater
+  - Dick Brooks
+  - Orie Steele
+  - Michael Prorock 
+  - Henk Birkholz
+  
+- **Project Info**
+  - At this hackathon we will apply SCITT to a use case from the U.S.
+    Food and Drug Administration (FDA).
+  - The use case is based on an actual need to acquire software artifacts 
+    from medical device manufacturers under the US FDA PATCH Act, ref: Section
+    524B of the FDA rules, that went into effect in March 2023, with enforcement
+    beginning October 1, 2023.
+  - The use case is proposing to register a signed statement (Vendor Response
+    File) into a SCITT Registry that identifies the location of required
+    cybersecurity artifacts, i.e. SBOM, Vulnerability Disclosure Reports and
+    other info, which FDA can use to download the required data. 
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/html/draft-ietf-scitt-architecture-02
+- **Code**
+  - https://github.com/scitt-community/scitt-api-emulator
+  - https://github.com/transmute-industries/transmute/tree/main/examples/scitt
+  - https://raw.githubusercontent.com/rjb4standards/REA-Products/master/SAGVendorSchema.xsd
+  - https://raw.githubusercontent.com/rjb4standards/REA-Products/master/SAGVendorResponseSAMPLE.xml
+
+
+
+  
 
 ### Network Telemetry - IPFIX SRv6 data-plane visibility
 - **Champion(s)**
