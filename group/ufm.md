@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-06-29T10:45:21.250Z
+date: 2023-07-20T16:17:01.227Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -18,6 +18,12 @@ Please feel free to add content however you think best, and we'll discuss how to
 
 * [SoK: Computer-Aided Cryptography](https://hal.inria.fr/hal-03046757/file/BarbosaetalOakland21.pdf)
 * [CyBoK - Formal Methods for Security](https://www.cybok.org/media/downloads/Formal_Methods_for_Security_v1.0.0.pdf)
+
+## For IETF-117 Isabelle presentation
+
+* [Paulson - The Inductive Approach to Verifying Cryptographic Protocols](https://arxiv.org/pdf/2105.06319.pdf)
+* [Paulson - Inductive Analysis of the Internet Protocol TLS](https://dl.acm.org/doi/pdf/10.1145/322510.322530)
+
 
 ## Ongoing Analyses
 
