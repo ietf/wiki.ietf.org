@@ -2,7 +2,7 @@
 title: draft-ietf-idr-ts-flowspec-srv6-policy  implementations
 description: Implementations of draft-ietf-idr-ts-flowspec-srv6-policy
 published: true
-date: 2023-07-20T09:08:22.310Z
+date: 2023-07-20T09:11:22.403Z
 tags: implementation reports for idr rfc
 editor: markdown
 dateCreated: 2023-07-20T09:06:45.421Z
@@ -11,7 +11,14 @@ dateCreated: 2023-07-20T09:06:45.421Z
 # Implementations of draft-ietf-idr-ts-flowspec-srv6-policy
 The Traffic Steering using BGP FlowSpec with SR-MPLS / SRv6 Policy mechanism has been implemented on the following hardware devices, Network Operating System software, and SDN controllers.
 
+
+| Colume Name 1 | Colume Name 2 | Colume Name 3 | Colume Name 4 |
+|:------:+:-----+---:---+---------|
+| Center | Left | Right | Default |
+| Center | Left | Right | Default |
+
    Routers:
+   
    +---------+---------------+--------------------------------+
    | Vendors | Device Model  | Version                        |
    +---------+---------------+--------------------------------+
@@ -25,6 +32,7 @@ The Traffic Steering using BGP FlowSpec with SR-MPLS / SRv6 Policy mechanism has
    +---------+---------------+--------------------------------+
 
    Controllers:
+   
    +----------------+---------------+-------------------------+
    | Vendors        | Device Model  | Version                 |
    +----------------+---------------+-------------------------+
