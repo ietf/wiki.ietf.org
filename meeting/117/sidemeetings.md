@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-20T10:03:08.286Z
+date: 2023-07-20T10:47:36.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -104,7 +104,7 @@ Please sort the meeting by time if possible.
 |      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    TBD    |   TBD    |
 |      14:00-15:00     |    Golden Gate 4   |     Structured Email (SML)     |  ART   |       [Hans-Jörg Happel](mailto:happel@audriga.com)         |    Charter discussion  |
 |      15:30-17:00     |    Continental 2-3   |     IPv6 operations side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing - Alexandra Huides  <br/> 2. Panel: US Government IPv6 mandates & impact to global companies doing business with USG - perspectives and practices from SAP (Phillip Tiesel), ESnet (Nick Buraglio) and Dell (George Dilger)     |       [Zoom link](https://us06web.zoom.us/j/82596474577?pwd=S0pBR0pWNTVoOVhmUXROU2VEWGhCUT09), Meeting ID: 825 9647 4577 Passcode: 986391
-  | |
+  | [v6opsSideMeetingJuly272023.ics](https://drive.google.com/file/d/1aVFeTpV_Qs0q5xuYr6nBuok_w79ZOQml/view?usp=sharing) |
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 
