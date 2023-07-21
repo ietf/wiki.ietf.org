@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-07-05T12:39:02.996Z
+date: 2023-07-21T10:39:18.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -138,7 +138,6 @@ Shepherd's name indicated within parenthesis.
 | --- | --- | --- |
 |draft-ietf-bess-evpn-bfd-03 | 3/2/23 |   |
 |draft-ietf-bess-ipv6-only-pe-design-03 |3/6/23| waiting for authors comment |
-|draft-ietf-bess-end-system-requirements-00 | 3/6/23 | parked document |
 |draft-ietf-bess-evpn-modes-interop | 3/6/23 | Expired, checking with authors |
 |draft-ietf-bess-evpn-mvpn-seamless-interop-04 | 6/30/23 |authors working on updating the draft |
 |draft-ietf-bess-mvpn-evpn-sr-p2mp | 3/6/23 | Update in progress based on SPRING WG comments |
