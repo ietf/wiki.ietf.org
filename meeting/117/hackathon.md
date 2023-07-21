@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-21T11:57:28.659Z
+date: 2023-07-21T17:58:50.981Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -570,7 +570,15 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Implement encoder/decoder for CBOR-based DNS messages in Python
 - **Specification**
   - https://datatracker.ietf.org/doc/draft-lenders-dns-cbor/
-  
+
+### DNS Out Of Protocol Signalling
+- **Champion(s)**
+  - Willem Toorop
+- **Project Info**
+  - https://datatracker.ietf.org/doc/draft-grubto-dnsop-dns-out-of-protocol-signalling/
+  - My intention is to learn about DOTS and MQTT as the signalling channel for DNS-OOPS
+    I would really like to speak to experts in this field.
+
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
