@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-21T17:58:50.981Z
+date: 2023-07-21T18:19:06.645Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -475,7 +475,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Champion(s)**
   - Allison Mankin (allison@pch.net)
   - John Todd (jtodd@quad9.net)
-  - Willem Toorop 
+  - Willem Toorop (willem at nlnetlabs.nl)
 - **Project Info**
   - Group initially including Allison, John, Willem Toorop (NLNet Labs), and Baula Xu (Salesforce) will prototype https://datatracker.ietf.org/doc/draft-jt-add-dns-server-redirection/ - all welcome!
   
@@ -573,7 +573,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 ### DNS Out Of Protocol Signalling
 - **Champion(s)**
-  - Willem Toorop
+  - Willem Toorop (willem at nlnetlabs.nl)
 - **Project Info**
   - https://datatracker.ietf.org/doc/draft-grubto-dnsop-dns-out-of-protocol-signalling/
   - My intention is to learn about DOTS and MQTT as the signalling channel for DNS-OOPS
