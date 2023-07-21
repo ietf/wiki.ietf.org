@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-21T18:45:44.128Z
+date: 2023-07-21T18:46:29.936Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -48,7 +48,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
   - Sunday, July 23, 2023 - 09:30-16:00 - Room: Plaza AB
   
 - **New Participant's Quick Connections** Sunday, July 23, 2023 - 16:00-17:00 - Room: California Room
-- **IETF 116 Welcome Reception** Sunday, July 23, 2023 - 17:00-19:00 - Room: Continental 5/6
+- **IETF 117 Welcome Reception** Sunday, July 23, 2023 - 17:00-19:00 - Room: Continental 5/6
 
 ### IESG Only Meeting - Time: 09:30-11:30 Room: Continental 2/3
 
