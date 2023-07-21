@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-21T18:27:53.154Z
+date: 2023-07-21T18:44:24.490Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -21,7 +21,7 @@ Please add any topics for either IESG only meetings at IETF 117, or the joint me
 # IESG Activities
 *All times are in PDT (UTC -7).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
 
-## Saturday and Sunday, July 22, 2023
+## Saturday, July 22, 2023
 
 **Code Sprint** - Saturday, July 22, 2023 - 10:00-18:00 - Room: Golden Gate 1
 
