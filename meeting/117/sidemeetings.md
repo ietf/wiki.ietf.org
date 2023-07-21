@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-21T22:42:40.558Z
+date: 2023-07-21T23:10:01.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -108,7 +108,7 @@ Please sort the meeting by time if possible.
 | 8:30-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | [WeMeeting](https://meeting.huaweicloud.com/welink/#/j/99621846/70lRrgZ5BBzxX3kHG5eQFgzhzqcjeAV3I) Meeting ID: 99621846 Meeting Passcode: 772744 | TBD |
 |   8:30-9:30     |  Golden Gate 4      |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project  [Background information and notes](https://notes.ietf.org/co2-footprint-20230727)                    |        [Zoom link](https://ietf.zoom.us/j/83150022323?pwd=MG1uQi9ST0hxeDBQVy8rMEkvVzQxUT09), Meeting Meeting ID: 831 5002 2323 Passcode: ietfco2             |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1YicTBLp3ZFVKIPWYxDy8NSTQMhzbxNFv/view?usp=sharing)        |
 | 11:30-12:30 | Continental 2-3 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Next steps for SCIM drafts | [Zoom](https://okta.zoom.us/j/95814000575?pwd=b0ZPNjVkbHNuZGJ6WjIxUHRjNjJyQT09) | TBD |
-|      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    [Remote participation link](https://meetings.conf.meetecho.com/ietf117/?group=rpc)    |   TBD    |
+|      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    [Remote participation link](https://meetings.conf.meetecho.com/ietf117/?group=rpc)    |   [RPC GitHub Workshop.ics](https://drive.google.com/file/d/1hBDFVMP8gAk-xdjdMcfFPkWNjE91-YOJ/view?usp=sharing)    |
 |      14:00-15:00     |    Golden Gate 4   |     Structured Email (SML)     |  ART   |       [Hans-Jörg Happel](mailto:happel@audriga.com)         |    Charter discussion  |
 |      15:30-17:00     |    Continental 2-3   |     IPv6 operations side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing - Alexandra Huides  <br/> 2. Panel: US Government IPv6 mandates & impact to global companies doing business with USG - perspectives and practices from SAP (Philipp Tiesel), ESnet (Nick Buraglio) and Dell (George Dilger)     |       [Zoom link](https://us06web.zoom.us/j/82596474577?pwd=S0pBR0pWNTVoOVhmUXROU2VEWGhCUT09), Meeting ID: 825 9647 4577 Passcode: 986391 |[v6opsSideMeetingJuly272023.ics](https://drive.google.com/file/d/1aVFeTpV_Qs0q5xuYr6nBuok_w79ZOQml/view?usp=sharing)   |
 |           |           |                 |      |              |             |                    |        |
