@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-21T03:20:31.681Z
+date: 2023-07-21T11:57:28.659Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -547,8 +547,11 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://github.com/kentakayama/libcsuit
   - https://github.com/mcd500/ta-ref
   - https://github.com/mcd500/teep-protocol
-- **TEEP Protocol Wiki**
+- **TEEP Protocol wiki**
   - https://github.com/ietf-teep/teep-protocol/wiki
+- **Hackathon branches on github**
+  - https://github.com/mcd500/ta-ref/tree/ietf-117-hackathon
+  - https://github.com/mcd500/teep-device/tree/ietf-117-hackathon
 
 ### (e)BPF
 - **Champion(s)**
