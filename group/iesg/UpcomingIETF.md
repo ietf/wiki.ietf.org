@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-21T05:07:24.487Z
+date: 2023-07-21T18:27:53.154Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -90,6 +90,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 > 1. "Encryption policies" statement (Paul/Mallory)
 > 1. ICANN Blog Post on UN Technical Envoy (Mirja)
 > 1. Highlights Blog Post for 118 (Mirja/Greg)
+> 1. IESG Ballots and the Nomcom Desired Expertise (David)
  
 
 ## Monday, July 24, 2023 
