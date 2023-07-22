@@ -199,6 +199,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - https://github.com/transmute-industries/transmute/tree/main/examples/scitt
   - https://raw.githubusercontent.com/rjb4standards/REA-Products/master/SAGVendorSchema.xsd
   - https://raw.githubusercontent.com/rjb4standards/REA-Products/master/SAGVendorResponseSAMPLE.xml
+  - https://raw.githubusercontent.com/rjb4standards/REA-Products/master/SAGVendorResponseSAMPLE.json
 
 
 
