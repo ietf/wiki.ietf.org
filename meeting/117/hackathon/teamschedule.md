@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon Team Schedule
 description: 
 published: true
-date: 2023-07-22T15:51:43.054Z
+date: 2023-07-22T15:52:22.632Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:21:21.781Z
@@ -23,7 +23,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
 |  PQ Keys, Sigs and KEMs in X509 | Saturday 11am and 2:30 pm PDT (UTC-7), Sunday at 12:00pm PDT (UTC-7)   |  Gather town Table G - https://app.gather.town/app/L4fNNdm1NJa1sE2v/ietf  |
-| SAV Openplay Ground  | Saturday 10:30am and 7:00 pm PDT (UTC-7), Sunday at 10:00am PDT (UTC-7)  |  https://gather.town/app/L4fNNdm1NJa1sE2v/ietf |
+| SAV Openplay Ground  | Saturday 10:30am and 7:00pm PDT (UTC-7), Sunday at 10:00am PDT (UTC-7)  |  https://gather.town/app/L4fNNdm1NJa1sE2v/ietf |
 |   |   |   |
 |   |   |   |
 |   |   |   |
