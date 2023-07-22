@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-22T18:52:52.848Z
+date: 2023-07-22T18:53:35.508Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -58,7 +58,7 @@ Hackathon *(all times are Pacific Daylight Time, UTC-7)*
 * **09:30** : Room opens - pastries and coffee provided
 * **12:30** : Lunch provided
 * **13:30** : Hacking stops, prepare brief presentation of project
-* **14:00** : Project results presentations, [Meetecho] TBD
+* **14:00** : Project results presentations, [Meetecho](https://meetings.conf.meetecho.com/ietf117/?session=30527)
 * **16:00** : Hackathon ends
 * **17:00** : Tear down complete
 {.grid-list}
