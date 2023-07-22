@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-21T18:44:42.886Z
+date: 2023-07-22T16:43:28.578Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -590,6 +590,14 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Alan Frindell (afrind at meta.com)
 - **Project Info**
   - Working on basic MOQT implementation, possible interop testing with https://github.com/afrind/draft-frindell-moq-chat
+
+### BGPsec Maintenance
+- **Champion(s)**
+  - Ignas Bagdonas (ibagdona.public at gmail.com)
+- **Project Info**
+  - Transform running code experiments into a draft on BGPsec-bis.
+
+
 
 ### Your Project Name
 - **Champion(s)**
