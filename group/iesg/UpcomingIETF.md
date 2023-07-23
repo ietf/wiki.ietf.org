@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-23T16:16:43.133Z
+date: 2023-07-23T16:18:01.677Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -85,7 +85,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 >   - INT
 >   - SEC
 >   - OPS
-> 1. Quick update on OpenRoaming (Warren) (cannot present at IESG only, as conflict with IEPG)
+> 4. Quick update on OpenRoaming (Warren) (cannot present at IESG only, as conflict with IEPG)
 > 1. Friday afternoon at 118 (Lars/Jay)
 > 1. IAB Outreach Coordinator (Dhruv)
 > 1. LLC Outreach Process (Jay) 
