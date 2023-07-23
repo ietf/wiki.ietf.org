@@ -2,7 +2,7 @@
 title: IETF 117 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-07-23T01:03:03.033Z
+date: 2023-07-23T22:28:01.567Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:27:02.593Z
@@ -20,7 +20,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
 | IPMON (IP-Based Mobile Object Networking)  | Jaehoon Paul Jeong  | jaehoon.paul@gmail.com  | https://github.com/ipwave-hackathon-ietf/IETF-117-IPMON-Hackathon-Project.git  |
-|   |   |   |   |
+|Path Tracing VPP   | Julian Klaiber   | julian.klaiber@ost.ch   | https://gerrit.fd.io/r/c/vpp/+/39257/1..3 |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
