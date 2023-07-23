@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-07-18T18:22:42.648Z
+date: 2023-07-23T22:53:08.189Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -54,9 +54,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD evaluation (AD review revised draft) |  IETF Review    |  Nov-11-2021   |  Feb-11-2022 |  TBD | 19 days | 521 days|  613 days     |
-|  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD Evaluation (revised ID)  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD   |  151 days  |  388 days  |  438 days | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  AD review  |  IESG telechat      |  Aug-06-2021      |  Jul-04-2022   |  TBD | 6 days | 378 days  | 710 days   |
+|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD + IDR chairs in-depth review  |  IETF Review    |  Nov-11-2021   |  Feb-11-2022 |  TBD | 19 days | 521 days|  613 days     |
+|  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD + IDR Chairs in-depth review  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD   |  151 days  |  388 days  |  438 days | 
+
 
 {.dense}
 
@@ -66,6 +66,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | shepherd's write-up | IESG | 5/25/2023 |  4/14 to 4/24/2023 | 53 days | TBD | 53 days | 
 | draft-ietf-idr-sdwan-edge-discovery | Keyur Patel | Shepherd's write-up | IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 8 days | 
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document  |  WG LC split     |  1st: Aug-06-2021  |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
 {.dense}
 
 
