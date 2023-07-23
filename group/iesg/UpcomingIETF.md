@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-23T16:18:16.163Z
+date: 2023-07-23T21:31:26.524Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -105,6 +105,7 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg
 > 1. IPR Disclosure Bug (Vigdis)
 > 1. Appeal discussion (Lars)
 > 1. [Action items](https://docs.google.com/presentation/d/1ybBwlOJcD37OT8Ador3MjzXGoIs0eSdkEc9qm_6eEag/edit?usp=sharing)  from the retreat SWOT analysis (Éric & Rob)
+> 1. Areamandering again (Martin, who hasn't had enough, apparently)
 
 
 ## Tuesday, July 25, 2023
