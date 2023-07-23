@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-23T21:22:17.410Z
+date: 2023-07-23T23:24:13.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -80,7 +80,6 @@ Please sort the meeting by time if possible.
 | 15:00-16:30 | Continental 2-3 | IPMON side meeting | INT  | [Jaehoon (Paul) Jeong](mailto:pauljeong@skku.edu) | Discussion about the charter of IPMON including work items.  |   TBD   | TBD |
 | 15:30-17:00 | Golden Gate 4   | MUP side meeting.   | OPS | Mahesh Jethanandani (mailto:mjethanandani@gmail.com) | Discussion around the MUP draft | TBD | TBD
 | 16:30-17:00 | Continental 2-3   | TAPS and QUIC with space requirements  | Transport | Marc Blanchet (marc.blanchet@viagenie.ca, Emile Stephan (emile.stephan@orange.com) | Discuss gaps of using TAPS (with QUIC) for space communications (delays, disruptions, ...) | TBD | TBD
-
 | 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
