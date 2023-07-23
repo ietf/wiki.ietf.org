@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-23T19:34:14.851Z
+date: 2023-07-23T19:38:47.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -73,7 +73,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:00-08:30 | Continental 2-3 |  |  |  |   |      |  |
-| 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com)| Experiences on Yang Network Models for network management and operation.  |   TBD   | TBD |
+| 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com)| Experiences on Yang Network Models for network management and operation.  |   [Agenda](https://github.com/oscargdd/network-yang-models/blob/main/README.md)  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQ4NTJjZjMtNjNkNC00N2YzLWFmYjgtYTg4NGUxZWZhMjA2%40thread.v2/0?context=%7b%22Tid%22%3a%229744600e-3e04-492e-baa1-25ec245c6f10%22%2c%22Oid%22%3a%22da2f5331-ab84-46bb-bbde-a9c8c0ec3b1a%22%7d)   | TBD |
 | 11:00-12:30 | Golden Gate 4 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Discussions around change detection and group memberships | [Zoom](https://okta.zoom.us/j/91225273797?pwd=SFNCT2dhZ2c2dkFYT1NLTTBlSjRrZz09) | TBD |
 | 13:00-14:00 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | TBD | N/A |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   TBD   | TBD |
