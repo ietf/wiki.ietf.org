@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-23T16:11:39.837Z
+date: 2023-07-23T16:16:13.681Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -76,15 +76,15 @@ Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iabiesg
 > 1. Welcome and introductions
 > 1. Brief Update on ISOC Policy Program (Ryan Polk)
 > 1. Area walkthrough for hot topics (list randomized for 117)
-    > - ART
-    > - TSV
-    > - GEN
-    > - IAB
-    > - IRTF
-    > - RTG
-    > - INT
-    > - SEC
-    > - OPS
+> - ART
+> - TSV
+> - GEN
+> - IAB
+> - IRTF
+> - RTG
+> - INT
+> - SEC
+> - OPS
 > 1. Quick update on OpenRoaming (Warren) (cannot present at IESG only, as conflict with IEPG)
 > 1. Friday afternoon at 118 (Lars/Jay)
 > 1. IAB Outreach Coordinator (Dhruv)
