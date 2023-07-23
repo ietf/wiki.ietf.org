@@ -2,7 +2,7 @@
 title: IETF 117 Hackathon
 description: 
 published: true
-date: 2023-07-22T18:53:35.508Z
+date: 2023-07-23T00:49:32.400Z
 tags: meeting information, hackathon
 editor: markdown
 dateCreated: 2023-04-05T18:18:15.719Z
@@ -563,11 +563,12 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/draft-thaler-bpf-isa/
   - https://datatracker.ietf.org/doc/draft-thaler-bpf-elf/
 
-### application/dns+cbor
+### cbor4dns
 - **Champion(s)**
   - Martine S. Lenders (m.lenders at fu-berlin.de)
 - **Project Info**
   - Implement encoder/decoder for CBOR-based DNS messages in Python
+  - Project repository: https://github.com/netd-tud/cbor4dns
 - **Specification**
   - https://datatracker.ietf.org/doc/draft-lenders-dns-cbor/
 
