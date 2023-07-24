@@ -2,13 +2,13 @@
 title: draft-ietf-idr-entropy-label Implementation Report
 description: IDR WG report on implementations of draft-ietf-idr-entropy-label (BGP Router Capabilities Attribute)
 published: true
-date: 2023-07-10T20:33:37.085Z
+date: 2023-07-24T17:44:39.845Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T20:19:48.279Z
 ---
 
-# Implementation Report for draft-ietf-idr-entropy-label
+# Implementation Report for draft-ietf-idr-entropy-label-06
 ## BGP Router Capabilities Attribute
   
  ### Abbrevatiations 
@@ -35,11 +35,11 @@ John Scudder (jgs@juniper.net)
 
 - When originating a route with RCA, does the implementation set the header portion to be equal to the next hop of the route? (MUST)
 - When propagating a route with RCA, if changing the next hop, does the implementation remove all unrecognized TLVs? (This is a MUST although is expressed in other terms, paragraph 4 of §2.2.) *Conformance to this requirement is especially important.*
-- Is RCA sent by default to EBGP peers? (MUST NOT)
+- Is RCA sent by default to all types of peers? (SHOULD)
 
 #### 2.3 Receiving the RCA
 
-- Is RCA accepted by default from EBGP peers? (MUST NOT)
+- Is RCA accepted by default from all types of peers? (SHOULD)
 - If RCA is received from EBGP peers, is it discarded without further processing (unless configured to accept)? (MUST)
 - Does the implementation provide configuration options to permit RCA to be sent to/received from EBGP peers? (SHOULD)
 - Does the implementation compare the address given in the header portion of the RCA to the next hop in the received route, and disregard the RCA if they don't match? (MUST)
