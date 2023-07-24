@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-24T18:29:12.382Z
+date: 2023-07-24T19:20:14.557Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -114,7 +114,9 @@ Please sort the meeting by time if possible.
 | 11:30-12:30 | Continental 2-3 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Next steps for SCIM drafts | [Zoom](https://okta.zoom.us/j/95814000575?pwd=b0ZPNjVkbHNuZGJ6WjIxUHRjNjJyQT09) | TBD |
 |      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    [Remote participation link](https://meetings.conf.meetecho.com/ietf117/?group=rpc)    |   [RPC GitHub Workshop.ics](https://drive.google.com/file/d/1hBDFVMP8gAk-xdjdMcfFPkWNjE91-YOJ/view?usp=sharing)    |
 |      14:00-15:00     |    Golden Gate 4   |     [Structured Email (SML)](https://datatracker.ietf.org/group/sml/about/)     |  ART   |       [Hans-Jörg Happel](mailto:happel@audriga.com)         |    Charter discussion  | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJmNmY0ZDEtMWVmZi00ODI5LThlNzItZTcyOGU4ZmIzN2Uy%40thread.v2/0?context=%7b%22Tid%22%3a%22d209aae3-f615-424d-be74-134102dfaae2%22%2c%22Oid%22%3a%2239c5fe9a-a373-4ad5-93ac-94e31f37dd19%22%7d)
-|      15:30-17:00     |    Continental 2-3   |     IPv6 operations side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing - Alexandra Huides  <br/> 2. Panel: US Government IPv6 mandates & impact to global companies doing business with USG - perspectives and practices from SAP (Philipp Tiesel), ESnet (Nick Buraglio) and Dell (George Dilger)     |       [Zoom link](https://us06web.zoom.us/j/82596474577?pwd=S0pBR0pWNTVoOVhmUXROU2VEWGhCUT09), Meeting ID: 825 9647 4577 Passcode: 986391 |[v6opsSideMeetingJuly272023.ics](https://drive.google.com/file/d/1aVFeTpV_Qs0q5xuYr6nBuok_w79ZOQml/view?usp=sharing)   |
+|      15:30-17:00     |    Continental 2-3   |     IPv6 operations side meeting      |   OPS   |       [Xipeng Xiao](mailto:xipengxiao@gmail.com)       |      1. AWS IPv6 deployment case sharing - Alexandra Huides  <br/> 2. Panel: US Government IPv6 mandates & impact to global companies doing business with USG - perspectives and practices from SAP (Philipp Tiesel), ESnet (Nick Buraglio) and Dell (George Dilger)     |       [Zoom link](https://us06web.zoom.us/j/82596474577?pwd=S0pBR0pWNTVoOVhmUXROU2VEWGhCUT09), Meeting ID: 825 9647 4577 Passcode: 986391 |[v6opsSideMeetingJuly272023.ics](https://drive.google.com/file/d/1aVFeTpV_Qs0q5xuYr6nBuok_w79ZOQml/view?usp=sharing)   
+| 13:00-15:00 | Golden Gate 4 | MIMI | ART | alissa@cooperw.in | Additional time for MIMI discussion | TBD | TBD |
+|
 |           |           |                 |      |              |             |                    |        |
 |           |           |                 |      |              |             |                    |        |
 
@@ -264,10 +266,10 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  SCIM   |
 | 12:00 | NOT AVAILABLE    |  SCIM   |
 | 12:30 |  NOT AVAILABLE   |    |
-| 13:00 |                  |RPC GitHub Workshop|  
-| 13:30 |                  |RPC GitHub Workshop| 
-| 14:00 |  SML side meeting|                  |  
-| 14:30 |  SML side meeting|                  | 
+| 13:00 | MIMI                 |RPC GitHub Workshop|  
+| 13:30 | MIMI                 |RPC GitHub Workshop| 
+| 14:00 |  SML side meeting| MIMI                 |  
+| 14:30 |  SML side meeting| MIMI                 | 
 | 15:00 |                  |                  |  
 | 15:30 |                  |v6ops side meeting|  
 | 16:00 |                  |v6ops side meeting|  
