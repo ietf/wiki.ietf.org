@@ -2,7 +2,7 @@
 title: DetNet Open Working Meetings on Enhanced DetNet Data Plane
 description: 
 published: true
-date: 2023-07-10T10:12:16.291Z
+date: 2023-07-24T21:30:39.843Z
 tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
@@ -42,3 +42,5 @@ The following table summarizes the different proposals proposed to the effort to
 | | [draft-eckert-detnet-mpls-tc-tcqf/](https://datatracker.ietf.org/doc/draft-eckert-detnet-mpls-tc-tcqf/) | - | - | - | Superceeded, older versions of TCQF, superseded |
 | CQF-Variant <br> TCQF | [draft-yizhou-detnet-ipv6-options-for-cqf-variant/](https://datatracker.ietf.org/doc/draft-yizhou-detnet-ipv6-options-for-cqf-variant/) <br> [draft-eckert-detnet-tcqf](https://datatracker.ietf.org/doc/html/draft-eckert-detnet-tcqf) | [2023-05-24](https://datatracker.ietf.org/meeting/interim-2023-detnet-05/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-05-sessa-tcqf-slides-for-interim/) | [link](https://www.youtube.com/watch?v=ELDZYOXKer4&t=2004s) | Both drafts intended to be merged into one draft before IETF117 |
 | TQF | [draft-peng-detnet-packet-timeslot-mechanism/](https://datatracker.ietf.org/doc/draft-peng-detnet-packet-timeslot-mechanism/)| [2023-06-06](https://datatracker.ietf.org/meeting/interim-2023-detnet-06/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-06-sessa-timeslot-queueing-and-forwarding/) | [link](https://youtu.be/HVE_FCe_5x8?t=3959) | |
+| |[draft-aft-detnet-bound-delay-queue-00](https://datatracker.ietf.org/doc/draft-aft-detnet-bound-delay-queue/00/) |[2023-06-21](https://datatracker.ietf.org/meeting/interim-2023-detnet-07/session/detnet)| [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-07-sessa-enforcing-end-to-end-delay-bounds-via-queue-resizing/) | [link](https://youtu.be/Cakvxdc3qOU?t=4166) | Resizing queues when admitting flows |
+| gLBF | [draft-eckert-detnet-glbf-01](https://datatracker.ietf.org/doc/draft-eckert-detnet-glbf/01/) | [2023-07-19](https://datatracker.ietf.org/meeting/interim-2023-detnet-08/session/detnet) | [slides](https://datatracker.ietf.org/doc/slides-interim-2023-detnet-08-sessa-deterministic-networking-detnet-data-plane-guaranteed-latency-based-forwarding-glbf/)| [link](https://youtu.be/urMhng79blQ?t=2527) | See also [ietf117-slides](https://datatracker.ietf.org/doc/slides-117-detnet-sessa-07-deterministic-networking-detnet-data-plane-guaranteed-latency-based-forwarding-glbf/)|
