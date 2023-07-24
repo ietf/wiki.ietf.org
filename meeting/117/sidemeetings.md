@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-24T17:59:21.814Z
+date: 2023-07-24T18:09:40.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -287,9 +287,9 @@ Location: Tower 1, Ballroom Level
 | **Time** | **Golden Gate 4 (16 people)** | **Continental 2-3 (40 people)** | 
 |-------|------------------|------------------| 
 | 07:30 | NOT AVAILABLE    |   NOT AVAILABLE  |   
-| 08:00 |                  |                  |  
-| 08:30 |                  |         eodir @ IETF 117          |  
-| 09:00 |                  |         eodir @ IETF 117         |     
+| 08:00 |     NOT AVAILABLE              |                  |  
+| 08:30 |          NOT AVAILABLE         |         eodir @ IETF 117          |  
+| 09:00 |        NOT AVAILABLE           |         eodir @ IETF 117         |     
 | 09:30 | CoRE core topics |                  |   
 | 10:00 | CoRE core topics |                  |  
 | 10:30 | CoRE core topics |                  |  
