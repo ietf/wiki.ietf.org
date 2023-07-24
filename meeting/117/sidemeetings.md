@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-24T18:23:09.481Z
+date: 2023-07-24T18:29:12.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -63,7 +63,7 @@ Please sort the meeting by time if possible.
 | 08:30-09:30 | Golden Gate 4 | Mobile Traffic Steering  | INT |  Marco Liebsch (marco.liebsch@neclab.eu)  |  Follow-up topic discussion from DMM WG; complement mobility management systems with end-to-end traffic steering enablers  | [Zoom](https://neclab.zoom.us/j/67555359947?pwd=bUcweU9EZjA1cTEzblVuZjc3MnBKZz09), Meeting ID: 675 5535 9947, Passcode: 149417 | TBD  |
 | 9:45-11:15 |   Golden Gate 4     | Sustainable Networking | N/A | Alex Clemm, Suresh Krishnan, Carlos Pignataro | Follow up on sustainable networking discussions from Yokohama, discussion of progress and next steps, agenda: https://github.com/cpignata/e-impact/blob/main/ietf117/Agenda.md |    [Zoom](https://futurewei.zoom.us/j/99640456380?pwd=T0dtNDcyUWRVKzZzMUNhd0NLQ2FzZz09), Meeting ID: 996 4045 6380, Passcode: 112233                 |   TBD |
 |   15:15-17:00        |     Continental 2-3      |       AIDC/HPC          | RTG     |     Yingzhen Qu / Jeff Tantsura         |     Exploring networking technologies in data centers for AI computing and HPC         |        [GitHub](https://github.com/Yingzhen-ietf/AIDC-IETF117)  [teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmMwNzFlODYtZjZlMS00YTkxLWJkZDItZmU1OTRhNTg2MmRh%40thread.v2/0?context={"Tid"%3a"43083d15-7273-40c1-b7db-39efd9ccc17a"%2c"Oid"%3a"7d3e6979-fe9f-4b8a-aa69-b56b812dd427"}) [Agenda](https://github.com/Yingzhen-ietf/AIDC-IETF117/blob/main/AIDC_Agenda.md)              |    TBD    |
-| 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | TBD | TBD |
+| 15:30-17:00 | Golden Gate 4  | Gordian Envelope and dCBOR | TBD | Shigeya Suzuki  | Gordian Envelope and in general requirements for data minimization through hash-based selective disclosure | [Zoom Link](https://keio-univ.zoom.us/j/85772527841?pwd=ZVV2aUttK3d2dm9GUWI2djk2US9iQT09) Meeting ID: 857 7252 7841, Passcode: `oV*4wW!2` | TBD |
 |  17:00-17:45 | Continental 2-3 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTUwZmYyNTMtMGJlZC00NGRkLWFjNzYtZjdjZGYyMmU1MjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
 |  17:45-18:30 | Continental 2-3 | Digital Map | OPS | Benoit Claise / Oscar González de Dios / Thomas Graf / Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |  18:30-20:00 | Continental 2-3 | Routing on Service Addresses | RTG | Dirk Trossen /  Luis M. Contreras | Discussing ways forward for ROSA (problem, use cases, reqs) | [Github link](https://github.com/dirk-trossen-huawei/IETF117_ROSA) | [Meet Link](https://meet.google.com/snd-tjsg-frj) |
