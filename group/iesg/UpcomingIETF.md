@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-24T02:39:43.670Z
+date: 2023-07-24T16:54:05.452Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -171,6 +171,7 @@ note: Not available before 09:00 Sunday
 
 * TIME - ACTIVITY
 * 12:00-13:00: INT/DMM PvD work brainstorm
+* 14:30-15:00: Rob - Mahesh OPS AD chat
 * 16:30-17:00: INT/6MAN zone IDs and URLs discussion
 
 ## Wednesday, 26 July 2023
