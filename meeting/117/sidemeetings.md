@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-24T20:55:33.605Z
+date: 2023-07-24T20:57:32.631Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -198,7 +198,7 @@ Location: Tower 1, Ballroom Level
 | 10:30 | Transport NBI    |                  |  
 | 11:00 |  SCIM  |  NOT AVAILABLE   |  
 | 11:30 |  SCIM  |  NOT AVAILABLE   |
-| 12:00 |    |  NOT AVAILABLE   |
+| 12:00 |  SCIM  |  NOT AVAILABLE   |
 | 12:30 |     |  NOT AVAILABLE   |
 | 13:00 | SFrame | L4S on WiFi side meeting |  
 | 13:30 | SFrame | L4S on WiFi side meeting | 
