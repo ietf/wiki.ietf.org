@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-24T17:15:41.317Z
+date: 2023-07-24T17:20:21.954Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -200,7 +200,7 @@ Location: Tower 1, Ballroom Level
 | 15:00 |                  | IPMON side meeting | 
 | 15:30 | MUP              | IPMON side meeting | 
 | 16:00 | MUP              | IPMON side meeting | 
-| 16:30 | MUP              | TAPS-QUIC-Space  | 
+| 16:30 | MUP              | TAPS-QUIC-Space (happy to share with others as it is a large room  | 
 | 17:00 |                  |                  | 
 | 17:30 |                  |                  | 
 | 18:00 |                  | SADCDN meeting   |  
