@@ -2,13 +2,17 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-24T17:32:20.105Z
+date: 2023-07-24T17:56:20.581Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
 ---
 
 # Side meetings at IETF 117
+---
+
+---
+
 IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support. These rooms and this page are not to be used for [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
 This wiki is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 117 San Francisco](https://www.ietf.org/how/meetings/117/).
@@ -74,6 +78,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:00-08:30 | Continental 2-3 |  |  |  |   |      |  |
 | 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com)| Experiences on Yang Network Models for network management and operation.  |   [Agenda](https://github.com/oscargdd/network-yang-models/blob/main/README.md)  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQ4NTJjZjMtNjNkNC00N2YzLWFmYjgtYTg4NGUxZWZhMjA2%40thread.v2/0?context=%7b%22Tid%22%3a%229744600e-3e04-492e-baa1-25ec245c6f10%22%2c%22Oid%22%3a%22da2f5331-ab84-46bb-bbde-a9c8c0ec3b1a%22%7d)   | TBD |
+| 10:00-11:00 | Continental 2-3 | Transport NBI | OPS  | [Daniel King](mailto:daniel@olddog.co.uk) / [Italo Busi](mailto:italo. busi@huawei.com) | Transport NBI  |   TBD   | TBD |
 | 11:00-12:30 | Golden Gate 4 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Discussions around change detection and group memberships | [Zoom](https://okta.zoom.us/j/91225273797?pwd=SFNCT2dhZ2c2dkFYT1NLTTBlSjRrZz09) | TBD |
 | 13:00-14:00 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | TBD | N/A |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   [WebEx](https://broadcom.webex.com/broadcom/j.php?MTID=m93e1b14eb05d87b95eb8afc7995be906)   | TBD |
