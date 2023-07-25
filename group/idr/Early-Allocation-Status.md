@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-07-17T21:41:51.513Z
+date: 2023-07-25T14:52:02.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -16,12 +16,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |draft-ietf-idr-car-01 (RFC9029) |	TBD | TBD | TBD | TBD	| WG chair | 
 |draft-ietf-idr-ct-01 | TBD | TBD | TBD | TBD | WG chair | 
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process | 
-|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Site preference | TBD | in process | 
-|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Site capacity availability | TBD | in process | 
-|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Service Delay prediction | TBD | in process | 
-|draft-ietf-idr-5g-edge-service-metadata-04 | Metadata SubTLVs | TBD | Raw measurements of packets/bytes to/from the Edge Service address | TBD | in process | 
+| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI-Types | TBD (5) | SR Policy Candidate Path NLRI | TBD | hold until 8-15-2023 |
+| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Bidirectional Group Constraint | TBD | hold until 8-15-2023 |
+| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Metric Constraint | TBD | hold until 8-15-2023 |
+| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Segment List Bandwidth | TBD | hold until 8-15-2023 |
+| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Segment List Identifier | TBD | hold until 8-15-2023 |
 {.dense}
-
 
 ## Approved Early Allocations  - drafts at RFC editor
 ### draft-ietf-idr-bgpls-srv6-ext
