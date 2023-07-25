@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-07-23T22:53:08.189Z
+date: 2023-07-25T14:10:52.898Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -124,6 +124,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+| draft-wang-idr-cpr-02 | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 7/28 to 8/14 | 
 |  draft-zhang-idr-sr-policy-metric-04 |  Susan Hares  |  Adoption and IPR Call  |  TBD        |  TBD   |  TBD | 7/28 to 8/14  | 
 |  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 7/28 to 8/14 | 
 | draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 7/28 to 8/14  | 
@@ -131,7 +132,10 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | TBD | 
 | draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | TBD | 
 |  draft-wu-idr-bgp-segment-allocation-ext-08  |  Susan Hares  |  on hold   |  IPR check  |  TBD    |  TBD             |  on hold    |
-| draft-lin-idr-sr-policy-seglist-id | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD| 
+| draft-lin-idr-sr-policy-seglist-id | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD | 
+| draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD | 
+| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD |
+| draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD |
 {.dense}
 
 
