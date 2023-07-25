@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-25T17:27:17.158Z
+date: 2023-07-25T19:02:32.113Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -88,7 +88,7 @@ Please sort the meeting by time if possible.
 | 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com) / [Samier Barguil](mailto:samier.barguil_giraldo@nokia.com)| Experiences on Yang Network Models for network management and operation.  |   [Agenda](https://github.com/oscargdd/network-yang-models/blob/main/README.md)  [Webex](https://ietf.webex.com/meet/ietfsidemeeting2) CHANGED!!  | TBD |
 | 10:00-11:00 | Golden Gate 4 | Transport NBI | RTG  | [Daniel King](mailto:daniel@olddog.co.uk) / [Italo Busi](mailto:italo.busi@huawei.com) | Transport NBI  |   [Zoom](https://futurewei.zoom.us/j/7999264574?pwd=Y00rMTBsUm9vSzBMeklYb2ErdXA2Zz09)   | TBD |
 | 11:00-12:30 | Golden Gate 4 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Discussions around change detection and group memberships | [Zoom](https://okta.zoom.us/j/91225273797?pwd=SFNCT2dhZ2c2dkFYT1NLTTBlSjRrZz09) | [ics](https://events.scim.cloud/ics/2023/07/scim-side-meeting-1xfEsqdaQ9N3.ics) |
-| 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   [WebEx](https://broadcom.webex.com/broadcom/j.php?MTID=m93e1b14eb05d87b95eb8afc7995be906)   | TBD |
+| 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  [Slides](https://drive.google.com/drive/u/0/folders/1YX9lnxWo9anhkNlpd46KvvpkanHqd_3G)|   [WebEx](https://broadcom.webex.com/broadcom/j.php?MTID=m93e1b14eb05d87b95eb8afc7995be906) | TBD |
 | 15:00-16:30 | Continental 2-3 | IPMON side meeting | INT  | [Jaehoon (Paul) Jeong](mailto:pauljeong@skku.edu) | Discussion about the charter of IPMON including work items.  |   [Zoom](https://us02web.zoom.us/j/88244461841?pwd=aGlWQkF2UUhBYWNVbTBMdnkxeWhvUT09) | TBD |
 | 15:00-15:30 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | [Webex](https://go.webex.com/go/j.php?MTID=m2f2924a90e39b0a9456759472c440290) | N/A |
 | 15:30-17:00 | Golden Gate 4   | MUP side meeting.   | OPS | Mahesh Jethanandani (mailto:mjethanandani@gmail.com) | Discussion around the MUP draft | TBD | TBD
