@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-25T17:24:13.095Z
+date: 2023-07-25T17:27:17.158Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -92,7 +92,7 @@ Please sort the meeting by time if possible.
 | 15:00-16:30 | Continental 2-3 | IPMON side meeting | INT  | [Jaehoon (Paul) Jeong](mailto:pauljeong@skku.edu) | Discussion about the charter of IPMON including work items.  |   [Zoom](https://us02web.zoom.us/j/88244461841?pwd=aGlWQkF2UUhBYWNVbTBMdnkxeWhvUT09) | TBD |
 | 15:00-15:30 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | [Webex](https://go.webex.com/go/j.php?MTID=m2f2924a90e39b0a9456759472c440290) | N/A |
 | 15:30-17:00 | Golden Gate 4   | MUP side meeting.   | OPS | Mahesh Jethanandani (mailto:mjethanandani@gmail.com) | Discussion around the MUP draft | TBD | TBD
-| 16:30-17:00 | Continental 2-3   | TAPS and QUIC with space requirements  | Transport | Marc Blanchet (marc.blanchet@viagenie.ca, Emile Stephan (emile.stephan@orange.com) | Discuss gaps of using TAPS (with QUIC) for space communications (delays, disruptions, ...) | TBD | TBD
+| 16:30-17:00 | Continental 2-3   | TAPS and QUIC with space requirements  | Transport | Marc Blanchet (marc.blanchet@viagenie.ca, Emile Stephan (emile.stephan@orange.com) | Discuss gaps of using TAPS (with QUIC) for space communications (delays, disruptions, ...) | [Zoom](https://us04web.zoom.us/j/78210629931?pwd=HgNvQaebwpGL1zeBCacYkALgUCQol9.1) | TBD
 | 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
 | 13:00–14:00  | Hackathon(?), BYO laptop  | ACE: reverse tokens? |  ART    | [Christian Amsüss](mailto:christian@amsuess.com) | Using ACE-EDHOC with signed tokens, and necessary semantics | [gather.town hackathon table A](https://www.ietf.org/how/meetings/gather/) | N/A |
 |           |           |                 |      |              |             |                    |        |
