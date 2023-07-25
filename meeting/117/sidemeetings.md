@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-25T00:26:56.537Z
+date: 2023-07-25T01:11:54.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -80,9 +80,9 @@ Please sort the meeting by time if possible.
 | 08:30-09:30 | Continental 2-3 | YANG network models | OPS  | [Oscar Gonzalez de Dios](mailto:oscar.gonzalezdedios@telefonica.com)/ [Victor Lopez](mailto:victor.lopez@nokia.com) / [Qin Wu](mailto:bill.wu@huawei.com) / [Samier Barguil](mailto:samier.barguil_giraldo@nokia.com)| Experiences on Yang Network Models for network management and operation.  |   [Agenda](https://github.com/oscargdd/network-yang-models/blob/main/README.md)  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQ4NTJjZjMtNjNkNC00N2YzLWFmYjgtYTg4NGUxZWZhMjA2%40thread.v2/0?context=%7b%22Tid%22%3a%229744600e-3e04-492e-baa1-25ec245c6f10%22%2c%22Oid%22%3a%22da2f5331-ab84-46bb-bbde-a9c8c0ec3b1a%22%7d)   | TBD |
 | 10:00-11:00 | Golden Gate 4 | Transport NBI | RTG  | [Daniel King](mailto:daniel@olddog.co.uk) / [Italo Busi](mailto:italo.busi@huawei.com) | Transport NBI  |   [Zoom](https://futurewei.zoom.us/j/7999264574?pwd=Y00rMTBsUm9vSzBMeklYb2ErdXA2Zz09)   | TBD |
 | 11:00-12:30 | Golden Gate 4 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Discussions around change detection and group memberships | [Zoom](https://okta.zoom.us/j/91225273797?pwd=SFNCT2dhZ2c2dkFYT1NLTTBlSjRrZz09) | [ics](https://events.scim.cloud/ics/2023/07/scim-side-meeting-1xfEsqdaQ9N3.ics) |
-| 13:00-14:00 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | TBD | N/A |
 | 13:00-14:30 | Continental 2-3 | L4S on WiFi side meeting | TSV  | [Bjørn Ivar Teigen](mailto:bjorn@domos.no) | Discussion about future challenges of L4S deployment, with a specific focus on WiFi.  |   [WebEx](https://broadcom.webex.com/broadcom/j.php?MTID=m93e1b14eb05d87b95eb8afc7995be906)   | TBD |
 | 15:00-16:30 | Continental 2-3 | IPMON side meeting | INT  | [Jaehoon (Paul) Jeong](mailto:pauljeong@skku.edu) | Discussion about the charter of IPMON including work items.  |   TBD   | TBD |
+| 15:00-15:30 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | [Webex](https://go.webex.com/go/j.php?MTID=m2f2924a90e39b0a9456759472c440290) | N/A |
 | 15:30-17:00 | Golden Gate 4   | MUP side meeting.   | OPS | Mahesh Jethanandani (mailto:mjethanandani@gmail.com) | Discussion around the MUP draft | TBD | TBD
 | 16:30-17:00 | Continental 2-3   | TAPS and QUIC with space requirements  | Transport | Marc Blanchet (marc.blanchet@viagenie.ca, Emile Stephan (emile.stephan@orange.com) | Discuss gaps of using TAPS (with QUIC) for space communications (delays, disruptions, ...) | TBD | TBD
 | 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
@@ -199,11 +199,11 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  SCIM  |  NOT AVAILABLE   |
 | 12:00 |  SCIM  |  NOT AVAILABLE   |
 | 12:30 |     |  NOT AVAILABLE   |
-| 13:00 | SFrame | L4S on WiFi side meeting |  
-| 13:30 | SFrame | L4S on WiFi side meeting | 
+| 13:00 |                  | L4S on WiFi side meeting |  
+| 13:30 |                  | L4S on WiFi side meeting | 
 | 14:00 |                  | L4S on WiFi side meeting |  
 | 14:30 |                  | L4S on WiFi side meeting | 
-| 15:00 |                  | IPMON side meeting | 
+| 15:00 | SFrame           | IPMON side meeting | 
 | 15:30 | MUP              | IPMON side meeting | 
 | 16:00 | MUP              | IPMON side meeting | 
 | 16:30 | MUP              | TAPS-QUIC-Space (happy to share with others as it is a large room  | 
