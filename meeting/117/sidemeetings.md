@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-25T21:02:49.268Z
+date: 2023-07-25T22:37:07.306Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -49,11 +49,10 @@ We provide a Chromebook with a preconfigured WebEx room in each side meeting roo
 
 At a minimum, please make sure to provide a day/time/room as well as meeting name, point of contact and meeting description.
 
-For remote participation: Please arrange your own conferencing service and put the link in the table if you would like to have remote participants.
 
 A Chromebook is available to facilitate remote participation using Webex. The Webex personal meeting are as follow:
 
-Continental 2-3 (40U): https://ietf.webex.com/meet/ietfsidemeeting2
+Continental 2-3 (40U): https://ietf.webex.com/meet/ietfsidemeeting2. Please review instructions for managing your side meeting. 
 
 Golden Gate 4: https://ietf.webex.com/meet/sidemeetingietf1
 
