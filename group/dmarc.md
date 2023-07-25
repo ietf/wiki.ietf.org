@@ -2,7 +2,7 @@
 title: DMARC WG - Domain-based Message Authentication, Reporting & Conformance
 description: 
 published: true
-date: 2023-07-25T17:56:35.392Z
+date: 2023-07-25T17:57:23.303Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z
@@ -21,7 +21,7 @@ To meet these objectives, the WG will produce the following deliverables:
 
 1. [Document describing interoperability issues with DMARC and indirect mail flows](/group/dmarc/MilestoneOneWiki) and possible methods for addressing them. 
 2. Document describing DMARC improvements to better support indirect mail flows. 
-3. Possible changes to the base DMARC specification based on MilestoneOneWiki and MilestoneTwoWiki.
+3. Possible changes to the base DMARC specification based on [MilestoneOneWiki] and [MilestoneTwoWiki].
 4. A Usage Guide to document DMARC-related operational practices. 
 
 ## Phased Approach To Work
