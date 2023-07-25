@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-25T19:37:05.030Z
+date: 2023-07-25T20:10:52.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -93,7 +93,7 @@ Please sort the meeting by time if possible.
 | 15:00-15:30 | Golden Gate 4 | SFrame | SEC | [Richard Barnes](mailto:rlb@ipv.sx) | SFrame | [Webex](https://go.webex.com/go/j.php?MTID=m2f2924a90e39b0a9456759472c440290) | N/A |
 | 15:30-17:00 | Golden Gate 4   | MUP side meeting.   | OPS | Mahesh Jethanandani (mailto:mjethanandani@gmail.com) | Discussion around the MUP draft | TBD | TBD
 | 16:30-17:00 | Continental 2-3   | TAPS and QUIC with space requirements  | Transport | Marc Blanchet (marc.blanchet@viagenie.ca, Emile Stephan (emile.stephan@orange.com) | Discuss gaps of using TAPS (with QUIC) for space communications (delays, disruptions, ...) | [Zoom](https://us04web.zoom.us/j/78210629931?pwd=HgNvQaebwpGL1zeBCacYkALgUCQol9.1) | TBD
-| 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   TBD   | TBD |
+| 18:00-19:00 | Continental 2-3 | SADCDN side meeting | TSV  | [Matt Joras](mailto:matt.joras@gmail.com) | Discussions following the DISPATCH discussion of SADCDN  |   [Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDU2ZGIwMTYtY2Q5OC00ZGMxLWI3YTEtNjk4NjA3YmQyNDFm%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252292e84ceb-fbfd-47ab-be52-080c6b87953f%2522%252c%2522Oid%2522%253a%25223466507a-8f95-47f2-ae1b-ce7d6ca611a4%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=183fdd9c-d3c0-4feb-b5a5-9dcfc9201a32&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)   | TBD |
 | 13:00–14:00  | Hackathon(?), BYO laptop  | ACE: reverse tokens? |  ART    | [Christian Amsüss](mailto:christian@amsuess.com) | Using ACE-EDHOC with signed tokens, and necessary semantics | [gather.town hackathon table A](https://www.ietf.org/how/meetings/gather/), [notes](https://notes.ietf.org/notes-ietf-117-sidemeeting-ace-reversed#) | N/A |
 |           |           |                 |      |              |             |                    |        |
 {.dense}
