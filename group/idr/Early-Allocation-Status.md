@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2023-07-25T14:52:02.422Z
+date: 2023-07-25T14:55:03.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -13,8 +13,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  IANA Link | Status|       
 |---|---|---|---|---|---|---|
-|draft-ietf-idr-car-01 (RFC9029) |	TBD | TBD | TBD | TBD	| WG chair | 
-|draft-ietf-idr-ct-01 | TBD | TBD | TBD | TBD | WG chair | 
+|draft-ietf-idr-car-01 (RFC9029) |	TBD | TBD | TBD | TBD	| WG chair Checks IANA | 
+|draft-ietf-idr-ct-01 | TBD | TBD | TBD | TBD | WG chair check IANA | 
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process | 
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI-Types | TBD (5) | SR Policy Candidate Path NLRI | TBD | hold until 8-15-2023 |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Bidirectional Group Constraint | TBD | hold until 8-15-2023 |
