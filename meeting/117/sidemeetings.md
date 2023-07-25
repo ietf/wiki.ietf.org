@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-25T20:10:52.763Z
+date: 2023-07-25T21:02:49.268Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -13,7 +13,7 @@ dateCreated: 2023-06-30T15:26:34.713Z
 
 ---
 
-IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support. These rooms and this page are not to be used for [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
+IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support and a WebEx meeting room for remote participants. These rooms and this page are not to be used for [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
 This wiki is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 117 San Francisco](https://www.ietf.org/how/meetings/117/).
 
@@ -37,7 +37,7 @@ This wiki is used to book the side meeting rooms and share details of the topics
 # Audio/Visual provision and remote participation
 Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
 
-Since there are many freely available conferencing services, the [IESG](https://www.ietf.org/about/groups/iesg/) has decided not to provide conferencing support for side meetings.
+We provide a Chromebook with a preconfigured WebEx room in each side meeting room (details below and in each side meeting room). The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
 
 # Two step process to schedule a side meeting 
 
