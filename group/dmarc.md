@@ -2,7 +2,7 @@
 title: DMARC WG - Domain-based Message Authentication, Reporting & Conformance
 description: 
 published: true
-date: 2023-02-27T03:45:08.241Z
+date: 2023-07-25T17:53:15.600Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z
@@ -11,9 +11,10 @@ dateCreated: 2022-07-23T21:35:44.456Z
 # Welcome to the DMARC Working Group
 
 The DMARC WG is [chartered](https://datatracker.ietf.org/wg/dmarc/charter/) to address issues with DMARC interoperability around indirect email flows, to review and improve the base DMARC specification, and to develop a DMARC Usage Guide.
-## Tracker New Account Setup
+## Issue Tracker
 
-The Issue Tracker uses the same login information as the Datatracker. New Accounts can be created here: [https://datatracker.ietf.org/accounts/create/]
+The working group uses github as its Issue Tracker. The open issues for the DMARCbis document can be found here:
+https://github.com/ietf-wg-dmarc/draft-ietf-dmarc-dmarcbis/issues
 ## Deliverables
 
 To meet these objectives, the WG will produce the following deliverables:
