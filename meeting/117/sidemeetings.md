@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-26T19:29:25.834Z
+date: 2023-07-26T19:39:27.528Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
