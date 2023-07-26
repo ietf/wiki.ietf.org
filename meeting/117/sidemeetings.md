@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-26T19:39:27.528Z
+date: 2023-07-26T19:41:50.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -273,8 +273,8 @@ Location: Tower 1, Ballroom Level
 | 11:30 |  NOT AVAILABLE   |  SCIM   |
 | 12:00 | NOT AVAILABLE    |  SCIM   |
 | 12:30 |  NOT AVAILABLE   |    |
-| 13:00 |  IDR CT meeting  |RPC GitHub Workshop|  
-| 13:30 |  IDR CT meeting  |RPC GitHub Workshop| 
+| 13:00 | IDR CT WG LC actions  |RPC GitHub Workshop|  
+| 13:30 | IDR CT WG LC actions  |RPC GitHub Workshop| 
 | 14:00 |  SML side meeting|                  |  
 | 14:30 |  SML side meeting|                  | 
 | 15:00 |                  |                  |  
