@@ -2,13 +2,13 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2023-02-27T06:19:05.150Z
+date: 2023-07-26T17:08:32.498Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
 ---
 
-Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work at the IETF.  It consists of working groups focused on security and privacy protocols, and supports the appropriate application of security mechanisms in the protocols being developed in other areas of the IETF.  The 25 [Security area working groups](https://datatracker.ietf.org/wg/#sec) are focused on:
+Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work at the IETF.  It consists of working groups focused on security and privacy protocols, and supports the appropriate application of security mechanisms in the protocols being developed in other areas of the IETF.  The 25 [Security area working groups](https://datatracker.ietf.org/wg/#sec) and the 3 co-managed in the [Applications and Real-Time area working groups](https://datatracker.ietf.org/wg/#art) are focused on:
 * enabling secure and privacy-preserving communications; 
 * helping collect, verify, understand, and update the state of network end-points; and
 * providing protocols and applications the means to handle the authentication, authorization, and accounting of users, applications, and devices.
@@ -28,8 +28,8 @@ In additional to the IETF standard operating procedures on [starting new work](h
 The SEC Area directors can also be contacted to discuss how to engage the IETF on new work.
 
 New work currently being discussed includes:
-* [JSON Web Proofs (JWP)](https://datatracker.ietf.org/wg/jwp/about/)  BoF
-* [Secure Asset Transfer Protocol](https://datatracker.ietf.org/wg/satp/about/) (SATP) BoF
+* [Key Transparency](https://datatracker.ietf.org/wg/keytrans/about/) (KEYTRANS) BoF
+* [Detecting Unwanted Location Trackers (DULT)](https://datatracker.ietf.org/wg/dult/about/) (DULT) BoF
 * Adding [Post-Quantum Agility](/group/sec/PQCAgility) to IETF protocols.
 
 ## Security Directorate (SECDIR) and Document Reviews
@@ -46,7 +46,7 @@ If specific security expertise is needed in a WG, please contact the Security AD
 
 ## Security Areas Advisory Group (SAAG)
 
-The [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/)(SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
+The [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/) (SAAG) is an open IETF forum to discuss security issues. It meets during IETF meetings.
 
 SAAG is not working group.  As such, it does not adopt or publish documents.
 
@@ -57,11 +57,5 @@ The community is welcome to [subscribe](https://www.ietf.org/mailman/listinfo/sa
 
 Security Area leadership past and present is further described on the [Security Area Directors](/group/sec/secADs) page.
 
-
-&nbsp;
-&nbsp;
 &nbsp;
 
----
-
-*The content of this page was last updated on 2022-10-18. It was migrated from the old Trac wiki on 2023-02-26.*
