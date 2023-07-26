@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-25T21:09:11.423Z
+date: 2023-07-26T05:24:18.209Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -183,7 +183,8 @@ note: Not available before 09:00 Sunday
 
 ## Thursday, 27 July 2023
 
-* 09:00-9:30: Rob - NETMOD chairs, progress discussion
+* 08:00-09:00: MIMI (Murray)
+* 09:00-09:30: Rob - NETMOD chairs, progress discussion
 * 09:30-10:30: IETF Trust office hour (Glenn Deen) (Thank you for sharing your room!)
 * 15:05-15:25: Rob - Quifang - New WG chair chat
 * 16:30-17:00: ALTO next steps (Martin, Rob, Warren)
