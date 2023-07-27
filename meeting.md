@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2023-07-11T15:04:07.180Z
+date: 2023-07-27T01:17:33.964Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -29,6 +29,13 @@ Wikis are used by participants to share information about and coordinate around 
 - IETF 118 Meeting Wiki
 - IETF 118 Side meetings
 - IETF 118 Hackathon
+{.links-list}
+
+#### IETF 119 Brisbane
+**March 16-26, 2024** - :australia: Brisbane, Australia
+- IETF 119 Meeting Wiki
+- IETF 119 Side meetings
+- IETF 119 Hackathon
 {.links-list}
 
 ## Past meetings
