@@ -2,7 +2,7 @@
 title: IETF 117 Side Meeting Signups
 description: To sign up for side meeting rooms at IETF 117
 published: true
-date: 2023-07-27T01:15:10.846Z
+date: 2023-07-27T16:51:27.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-30T15:26:34.713Z
@@ -119,6 +119,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:30-9:30 | Continental 2-3 | Metaverse side meeting | N/A | [Giuseppe Fioccola](mailto:giuseppe.fioccola@huawei.com), [Shuping Peng](mailto:pengshuping@huawei.com) | Discussion about the implications of Metaverse and the related IETF technologies, [GitHub](https://github.com/giuseppefioccola/Metaverse-side-meeting-at-IETF) | [WeMeeting](https://meeting.huaweicloud.com/welink/#/j/99621846/70lRrgZ5BBzxX3kHG5eQFgzhzqcjeAV3I) Meeting ID: 99621846 Meeting Passcode: 772744 | TBD |
 |   8:30-9:30     |  Golden Gate 4      |  C02 measurement and offsetting   |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |     Discussion and detail about C02 measurement and offsetting   project  [Background information and notes](https://notes.ietf.org/co2-footprint-20230727)                    |        [Zoom link](https://ietf.zoom.us/j/83150022323?pwd=MG1uQi9ST0hxeDBQVy8rMEkvVzQxUT09), Meeting Meeting ID: 831 5002 2323 Passcode: ietfco2             |  [ C02 measurement and offsetting.ics](https://drive.google.com/file/d/1YicTBLp3ZFVKIPWYxDy8NSTQMhzbxNFv/view?usp=sharing)        |
+|   10:00-10:30     |  Golden Gate 4      |  New WG Chairs experience |  IETF LLC     |    [Greg Wood](mailto:ghwood@staff.ietf.org)   |         |     |  |
 | 11:30-12:30 | Continental 2-3 | SCIM | art  | [Aaron Parecki](https://datatracker.ietf.org/person/aaron@parecki.com) | Next steps for SCIM drafts | [Zoom](https://okta.zoom.us/j/95814000575?pwd=b0ZPNjVkbHNuZGJ6WjIxUHRjNjJyQT09) | [ics](https://events.scim.cloud/ics/2023/07/scim-side-meeting-bf657EX7BgF8.ics) |
 |      13:00-14:00     |    Continental 2-3   |     RPC GitHub Workshop     |   N/A   |       [Jean Mahoney](mailto:jmahoney@amsl.com)         |      Discussion of the use of GitHub during AUTH48   |    [Remote participation link](https://meetings.conf.meetecho.com/ietf117/?group=rpc)    |   [RPC GitHub Workshop.ics](https://drive.google.com/file/d/1hBDFVMP8gAk-xdjdMcfFPkWNjE91-YOJ/view?usp=sharing)    |
 |      14:00-15:00     |    Golden Gate 4   |     [Structured Email (SML)](https://datatracker.ietf.org/group/sml/about/)     |  ART   |       [Hans-Jörg Happel](mailto:happel@audriga.com)         |    Charter discussion  | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJmNmY0ZDEtMWVmZi00ODI5LThlNzItZTcyOGU4ZmIzN2Uy%40thread.v2/0?context=%7b%22Tid%22%3a%22d209aae3-f615-424d-be74-134102dfaae2%22%2c%22Oid%22%3a%2239c5fe9a-a373-4ad5-93ac-94e31f37dd19%22%7d)
