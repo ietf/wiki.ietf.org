@@ -2,7 +2,7 @@
 title: IDR Review of draft-ietf-bess-ebgp-dmz-03
 description: IDR Chair review of draft-ietf-bess-ebgp-dmz-03
 published: true
-date: 2023-07-27T11:03:45.013Z
+date: 2023-07-27T11:05:30.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T10:30:55.132Z
