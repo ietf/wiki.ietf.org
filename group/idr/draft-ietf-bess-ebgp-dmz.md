@@ -2,7 +2,7 @@
 title: IDR Review of draft-ietf-bess-ebgp-dmz-03
 description: IDR Chair review of draft-ietf-bess-ebgp-dmz-03
 published: true
-date: 2023-07-27T11:01:40.089Z
+date: 2023-07-27T11:03:45.013Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T10:30:55.132Z
@@ -49,4 +49,4 @@ Whether this
 
 The English text has spelling errors, grammar errors, and portions that need to be clarified.  At this stage, the content needs to be considered before a final check of the text. 
 
-Before reviewing the English text, the authors should use the commonly available tool "Grammarly" or an equivalent to check the text.     
+Before requesting a review of the English text, the authors should use the commonly available tools (such as "Grammarly") to check the English text. 
