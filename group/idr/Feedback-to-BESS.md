@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2023-07-17T21:45:14.972Z
+date: 2023-07-27T10:05:40.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -33,5 +33,5 @@ The following page tracks BESS drafts needing feedback from IDR
  
  2) [Feedback on draft-ietf-bess-bgp-multicast-controller](/group/idr/draft-ietf-bess-bgp-multicast-controller)
  
- 3) draft-ietf-bess-ebgp-dmz/
+ 3) [Feedback on draft-ietf-bess-ebgp-dmz](/group/idr/draft-ietf-bess-ebgp-dmz)
  
