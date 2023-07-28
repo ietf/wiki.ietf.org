@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-26T05:24:18.209Z
+date: 2023-07-28T13:11:14.210Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -190,6 +190,6 @@ note: Not available before 09:00 Sunday
 * 16:30-17:00: ALTO next steps (Martin, Rob, Warren)
 
 ## Friday, 28 July 2023
-* TIME - ACTIVITY
+* 11:00-11:30: Rob/Benoit WG chartering discussion
 
 PLEASE NOTE: NOT AVAILABLE AFTER 13:00pm 
