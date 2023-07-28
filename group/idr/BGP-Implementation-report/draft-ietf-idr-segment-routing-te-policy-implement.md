@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2023-02-14T23:15:48.095Z
+date: 2023-07-28T18:25:03.509Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -49,7 +49,7 @@ Report created by Ketan Talaulikar (ketant@…)
 | Sub-TLV |	Segment type Description | Cisco IOS-XR |	Arista EOS |	Huawei VRP | Nokia SR OS | GoBGP |
 |---|---|---|---|---|---|---|
 | A  | SR-MPLS Label  | Yes | Yes | Yes | Yes |	Yes | 
-| B	 | SRv6 SID	      | --- | Yes | Yes | Yes | 	--- | 
+| B	 | SRv6 SID	      | --- | --- | Yes | Yes | 	--- | 
 | C	 | IPv4 Prefix with optional SR algorithm	 | --- | --- | --- | --- | --- |		
 | D	 | IPv6 Global Prefix with optional SR algorithm for SR-MPLS	| --- | --- | --- | --- | --- |		
 | E	 | IPv4 Prefix with local interface ID (if ID) | --- | --- | --- | --- | --- |
