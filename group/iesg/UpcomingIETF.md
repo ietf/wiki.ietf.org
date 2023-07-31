@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-31T17:42:37.689Z
+date: 2023-07-31T17:43:40.530Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -166,7 +166,7 @@ note: Not available before 09:00 Sunday
 
 * TIME - ACTIVITY
 * TIME - ACTIVITY
-* 17:00-17:25 
+* 17:00-17:25 pre-plenary refreshments
 
 ## Thursday, 9 November 2023
 
