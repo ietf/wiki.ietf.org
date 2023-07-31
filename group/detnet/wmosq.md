@@ -2,7 +2,7 @@
 title: DetNet Open Working Meetings on Enhanced DetNet Data Plane
 description: 
 published: true
-date: 2023-07-24T21:30:39.843Z
+date: 2023-07-31T16:33:12.185Z
 tags: detnet
 editor: markdown
 dateCreated: 2023-04-11T15:07:45.147Z
@@ -17,6 +17,7 @@ dateCreated: 2023-04-11T15:07:45.147Z
 [2023-06-06](https://datatracker.ietf.org/meeting/interim-2023-detnet-06/session/detnet)
 [2023-06-21](https://datatracker.ietf.org/meeting/interim-2023-detnet-07/session/detnet)
 [2023-07-19](https://datatracker.ietf.org/meeting/interim-2023-detnet-08/session/detnet)
+[2023-09-22](https://datatracker.ietf.org/meeting/interim-2023-detnet-09/session/detnet)
 
 ## Mechanism evaluations
 
