@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-07-24T21:21:27.772Z
+date: 2023-07-31T17:35:26.756Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -49,7 +49,7 @@ Please feel free to add content however you think best, and we'll discuss how to
 | Type    | Peer-reviewed | Reference | TLS Draft | Artifacts | 
 |:--------|:--------------|:----------|:----------|:----------|
 | TODO | Y | [Beurdouche et al. - 2015 - A Messy State of the Union: Taming the Composite State Machines of TLS](https://hal.inria.fr/hal-01114250/file/messy-state-of-the-union-oakland15.pdf) | TODO | TODO |
-| Tamarin model (symbolic) | Y | [Cremers, Horvat, Hoyland, Scott, van der Merwe - 2017 - A Comprehensive Symbolic Analysis of TLS 1.3](https://dl.acm.org/doi/pdf/10.1145/3133956.3134063) | draft 21 | TODO |
+| Tamarin model (symbolic) | Y | [Cremers, Horvat, Hoyland, Scott, van der Merwe - 2017 - A Comprehensive Symbolic Analysis of TLS 1.3](https://dl.acm.org/doi/pdf/10.1145/3133956.3134063) | draft 21 | [webpage](https://tls13tamarin.github.io/TLS13Tamarin/), [repo](https://github.com/tls13tamarin/TLS13Tamarin/tree/master/src/rev21) |
 | Symbolic (ProVerif) and Computational (CryptoVerif) | Y | [Bhargavan et al. 2018 - Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate](https://hal.inria.fr/hal-01528752/document) | draft 18 | TODO |
 | TODO | Y | [Patton et al. - 2018 - Partially Specified Channels](https://dl.acm.org/doi/pdf/10.1145/3243734.3243789) | draft 23 | TODO |
 
