@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2023-08-01T14:02:40.732Z
+date: 2023-08-01T14:04:42.778Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -18,9 +18,9 @@ Wikis are used by participants to share information about and coordinate around 
 
 #### IETF 118 Prague
 **November 4-11, 2023** - :czech_republic: Prague, Czechia
-- IETF 118 Meeting Wiki
+- [IETF 118 Meeting Wiki](/meeting/118)
 - IETF 118 Side meetings
-- IETF 118 Hackathon
+- [IETF 118 Hackathon](/meeting/118/hackathon)
 {.links-list}
 
 #### IETF 119 Brisbane
