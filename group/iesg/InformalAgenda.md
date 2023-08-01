@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-07-31T09:18:51.140Z
+date: 2023-08-01T12:29:59.614Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-* 
+* Éric Vyncke - PTO
 
 ## Agenda
 
@@ -53,7 +53,7 @@ Please use your best judgement to add new items into one of the categories below
 * Topic (NAME)
 
 #### Important but not urgent
-* Humming tool (Éric V): per [Ekr's email](https://mailarchive.ietf.org/arch/msg/iesg/-c0O0Rp_zMWkFyACbilWFouWffM/)
+* Humming tool (Éric V who is regret for 17th of Aug): per [Ekr's email](https://mailarchive.ietf.org/arch/msg/iesg/-c0O0Rp_zMWkFyACbilWFouWffM/)
 * Topic (NAME)
 
 #### Not important and not urgent
