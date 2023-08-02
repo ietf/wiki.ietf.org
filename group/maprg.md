@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2023-08-02T18:50:10.255Z
+date: 2023-08-02T18:52:15.858Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -20,7 +20,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 
 - Internet Scale Reverse Traceroute [YouTube](https://youtu.be/K-Lm-RywPX4?t=7m42s) [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-internet-scale-reverse-traceroute), Kevin Vermeulen, July 2023
 - Web Privacy By Design: Evaluating Cross-layer Interactions of QUIC, DNS and H/3 [YouTube](https://youtu.be/K-Lm-RywPX4?t=27m35s) [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-web-privacy-by-design-evaluating-cross-layer-interactions-of-quic-dns-and-h3), Jayasree Sengupta, July 2023
-- Exploring the Cookieverse: A Multi-Perspective Analysis of Web Cookies [YouTube](https://youtu.be/K-Lm-RywPX4?t=54m43s) sorry; poor audio quality [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-exploring-the-cookieverse-a-multi-perspective-analysis-of-web-cookies), Ali Rasaii, July 2023
+- Exploring the Cookieverse: A Multi-Perspective Analysis of Web Cookies - sorry, poor audio quality [YouTube](https://youtu.be/K-Lm-RywPX4?t=54m43s)  [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-exploring-the-cookieverse-a-multi-perspective-analysis-of-web-cookies), Ali Rasaii, July 2023
 - User Awareness and Behaviors Concerning Encrypted DNS Settings in Web Browsers [YouTube](https://youtu.be/K-Lm-RywPX4?t=1h11m43s) [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-user-awareness-and-behaviors-concerning-encrypted-dns-settings-in-web-browsers), Ranya Sharma, July 2023
 - IPvSeeYou: Exploiting Leaked Identifiers in IPv6 for Street-Level Geolocation [YouTube](https://youtu.be/K-Lm-RywPX4?t=1h33m0s) [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-follow-the-scent-ipvseeyou), Robert Beverly, July 2023
 - Measurement Lab: Supporting Open Internet Research [YouTube](https://youtu.be/K-Lm-RywPX4?t=1h51m12s) [slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-m-lab-open-internet-measurement-at-scale-v1), Lai Yi Ohlsen, July 2023
