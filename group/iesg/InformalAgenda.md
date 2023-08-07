@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-02T21:20:42.014Z
+date: 2023-08-07T18:05:57.947Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -58,7 +58,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Not important and not urgent
 * Deceased contributor email address (Paul/Murray)
-
+* Document Shepherd, RFC 4858 and IESG Statement reality (Paul)
 
 ### WG News 
 
