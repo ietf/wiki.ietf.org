@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2023-08-05T21:05:02.907Z
+date: 2023-08-09T20:00:34.624Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
 ---
 
-- > # Welcome to the IETF Community Wiki
+> # Welcome to the IETF Community Wiki
 {.is-warning}
 
 This is a community wiki for IETF participants to use.  It replaces the previous structure of trac wikis where each working group/team had its own trac instance.  
