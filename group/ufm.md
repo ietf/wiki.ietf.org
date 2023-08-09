@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-08-09T09:52:55.940Z
+date: 2023-08-09T12:27:52.237Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -60,12 +60,12 @@ Old TLS versions:
 
 ### TLS Extensions
 
-|Extension | Type    | Peer-reviewed | Reference | 
-|:---------|:--------|:--------------|:----------|
-| TLS Encrypted ClientHello | ProVerif model (symbolic) | Y | [A Symbolic Analysis of Privacy for TLS 1.3 with Encrypted Client Hello](https://dl.acm.org/doi/abs/10.1145/3548606.3559360) |
-| Exported Authenticators | TODO | ? | [Exported Authenticators](https://pure.royalholloway.ac.uk/ws/files/33074422/2018HoylandJGPhD.pdf) |
-| KEMTLS (AuthKEM and Hybrid-KEX) | Computational | Y | [KEMTLS](https://eprint.iacr.org/2022/1111.pdf) |
-| KEMTLS (AuthKEM and Hybrid-KEX) | Tamarin model (symbolic) | Y | [A tale of two models: formal verification of KEMTLS via Tamarin](https://eprint.iacr.org/2022/1111.pdf) |
+|Extension | Type    | Peer-reviewed | Reference | Artifacts | 
+|:---------|:--------|:--------------|:----------|:----------|
+| TLS Encrypted ClientHello | ProVerif model (symbolic) | Y | [A Symbolic Analysis of Privacy for TLS 1.3 with Encrypted Client Hello](https://dl.acm.org/doi/abs/10.1145/3548606.3559360) | [repo](https://gitlab.inria.fr/chevalvi/echo_tls)
+| Exported Authenticators | TODO | ? | [Exported Authenticators](https://pure.royalholloway.ac.uk/ws/files/33074422/2018HoylandJGPhD.pdf) | TODO |
+| KEMTLS (AuthKEM and Hybrid-KEX) | Computational | Y | [KEMTLS](https://eprint.iacr.org/2022/1111.pdf) | TODO |
+| KEMTLS (AuthKEM and Hybrid-KEX) | Tamarin model (symbolic) | Y | [A tale of two models: formal verification of KEMTLS via Tamarin](https://eprint.iacr.org/2022/1111.pdf) | TODO |
 
 ### [Message Layer Security](https://datatracker.ietf.org/doc/draft-ietf-mls-architecture/) (and [protocol](https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/))
 
