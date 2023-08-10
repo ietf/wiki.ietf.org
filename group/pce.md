@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-08-10T06:06:51.107Z
+date: 2023-08-10T19:07:28.070Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -67,7 +67,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | -03 posted on 2022-07-10 | Should priority setting be out of scope? |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | -02 posted on 2021-10-23 | Comments receiving during adoption call are handled |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -01 posted on 2022-07-07 | More review requested |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03;  Authors have requested early IANA allocation(2023-08-02). SRv6 registries not created yet. | Author count to be reduced,  IANA to be evaluated |
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03;  Authors have requested early IANA allocation(2023-08-02) | Author count to be reduced by editor. Pending WG feedback for early allocate. |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05; -02 posted on 2022-07-06 that handles WG adoption comments. Expired July 25, 2023  | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; Comments received during adoption are pending | - |
@@ -134,8 +134,8 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|
 | --- | --- | --- |
-| draft-ietf-pce-sid-algo | WG I-D | Authors requested early allocation | 
-| draft-ietf-pce-pcep-extension-native-ip | WG I-D | Authors requested early allocation during WG-LC |
+| draft-ietf-pce-sid-algo | WG I-D | Authors requested early allocation. Seeking WG input. SRv6 registry will not have early allocate since undefined | 
+| draft-ietf-pce-pcep-extension-native-ip | WG I-D | Authors requested early allocation during WG-LC. AD has approved, request pending |
 | draft-ietf-pce-sr-bidir-path | WG I-D | Authors requested early allocation 2023-07-26 | 
 | draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19; dependent on PCEP-SRv6 / PCECC-SR  |
 
