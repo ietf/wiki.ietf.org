@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-07-11T09:20:22.923Z
+date: 2023-08-10T05:56:39.826Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,7 +13,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| WG Secretary Onboarding | - | Dhruv | Planned for IETF 117 |
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of Sept (Dhruv: can check with Andrew) |
 | Track comments | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv and Hari to confirm - after 117 send to AD| 
 
@@ -23,6 +22,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | Poll till Aug 24th |
 | WG adoption | draft-dhody-pce-stateful-pce-vendor | Julien | Started a poll on June 20 ; Julien to send email to WG |
 | Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv sent a request to John (Dhruv to track)|
 | Enhance GitHub for PCE WG | - | Dhruv | Announce during WG meetings as well |
@@ -33,6 +33,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| WG Secretary Onboarding | - | Dhruv | Done at IETF 117 |
 | WG Secretary | - | Dhruv/Julien | Andrew is our new Secretery |
 | Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | Marked as Parked WG I-D |
 |Respond to Huaimo | draft-chen-pce-sr-ingress-protection | Julien/Dhruv | Think aboout experimental; Dhruv is responsible |
