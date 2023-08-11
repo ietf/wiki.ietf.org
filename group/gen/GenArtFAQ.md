@@ -2,7 +2,7 @@
 title: Gen-ART Frequently Asked Questions
 description: 
 published: true
-date: 2023-01-25T05:26:43.019Z
+date: 2023-08-11T13:48:49.874Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:09:01.769Z
@@ -52,7 +52,7 @@ A: Not unless your AD/document shepherd asks you to revise the document. Some co
 
 **Q: What if the Gen-ART reviewer is just flat wrong?**
 
-A: The General Area director understands that these are reviews by generalists who are not experts in every protocol the IETF works on, plus security and MIBs. If you disagree with comments, say so. The gen-art reviewers *want* to hear feedback. They want to learn more about your area, and appreciate feedback about how helpful their comments are. And always remember that the IESG ballot position is called "DISCUSS", not "IMPERIAL EDICT" or "BLACKMAIL".
+A: The General Area director understands that these are reviews by generalists who are not experts in every protocol the IETF works on, plus security and MIBs. If you disagree with comments, say so. The gen-art reviewers *want* to hear feedback. They want to learn more about your area, and appreciate feedback about how helpful their comments are. And always remember that the IESG ballot position is called "DISCUSS", a request to have a discussion; see https://www.ietf.org/about/groups/iesg/statements/handling-ballot-positions/.
 
 **Q: Is there any written Gen-ART procedure?**
 
