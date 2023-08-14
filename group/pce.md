@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-08-10T19:07:28.070Z
+date: 2023-08-14T21:03:36.520Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -135,7 +135,6 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |Draft|State|Remarks|
 | --- | --- | --- |
 | draft-ietf-pce-sid-algo | WG I-D | Authors requested early allocation. Seeking WG input. SRv6 registry will not have early allocate since undefined | 
-| draft-ietf-pce-pcep-extension-native-ip | WG I-D | Authors requested early allocation during WG-LC. AD has approved, request pending |
 | draft-ietf-pce-sr-bidir-path | WG I-D | Authors requested early allocation 2023-07-26 | 
 | draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19; dependent on PCEP-SRv6 / PCECC-SR  |
 
@@ -146,6 +145,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2023-04-04|2024-05-09|
 |draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2022-12-12|2024-01-12|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
+|draft-ietf-pce-pcep-extension-native-ip| WG I-D |- CCI Object-Type<br>- BGP Peer Info Object-Type<br>- Explicit Peer Route Object-Type<br>- Peer Prefix Advertisement Object-Type<br>- PCEP-ERROR Object Error Type<br>- Path Setup Type<br>- PCECC-Capability sub-TLV|2023-08-14|-|2024-08-14| 
 
 ### Recent Errata
 
