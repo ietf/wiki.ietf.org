@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-07-11T15:16:49.740Z
+date: 2023-08-14T18:53:40.444Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -31,6 +31,9 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-segment-protection-sr-te-paths
      * 2023-07-03 Authors asked for WGLC
 
+> History of WGLC
+https://wiki.ietf.org/en/group/spring/WGLC_history
+{.is-info}
 
 ## Documents requested by authors for WG adoption
 * draft-saad-spring-srfa-link
@@ -42,50 +45,12 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-agrawal-spring-srv6-mpls-interworking
    * 2022-11-9 Authors sent request     
 * draft-gong-teas-hierarchical-slice-solution
-   * 2022-11-9 Authors sent request    
+   * 2022-11-9 Authors sent request   
    
-## History of WG adoption
-* draft-gandhi-spring-twamp-srpm-05
-   * 2020-1-3 Authors sent request
-   * adoption call initiated cf datatracker.
-   * Waiting on IPPM WG decision on the dependant extension.
-   * Replaced by draft-ietf-spring-stamp-srpm.
-* draft-gandhi-spring-stamp-srpm-00
-   * 2020-4-21 Authors sent request
-   * adoption call initiated cf datatracker.
-   * Waiting on IPPM WG decision on the dependant extension.
-   * Replaced by draft-ietf-spring-stamp-srpm.
-* draft-hu-spring-segment-routing-proxy-forwarding
-   * 2020-08-02 Authors sent request
-   * 2022-01-13 WG adoption poll https://mailarchive.ietf.org/arch/msg/spring/C_6p_1y1JP7BSAe1_8gmkkgci_s/
-   * 2022-02-24 Not adopted in this form https://mailarchive.ietf.org/arch/msg/spring/_e7gCFQSNcNE-JrVPIFuXxrradU/
-   * 2023-02-22 Not adopted. https://mailarchive.ietf.org/arch/msg/spring/giS0_lLsyBjV-EZlkLi_sGFFzFY/   
- * draft-fz-spring-srv6-alt-mark
-   * 2021-8-16 Authors sent request
-   * 2023-04-20 Not Adopted.
-https://mailarchive.ietf.org/arch/msg/spring/6r2GygMj9NP3YHFNsawSnhhc71U/
-* draft-song-spring-siam-03
-   * 2022-4-12 Authors sent request
-   * 2023-5-22 On-list discussions resulted in no agreement on the approach or even that a new/different solution is needed.  Not considering adoption until there is agreement on at least the need. (Alvaro) 
-* draft-schmutzer-spring-cs-sr-policy
-   * 2021-07-27 Authors sent request
-   * 2023-05-16 Started adoption call (https://mailarchive.ietf.org/arch/msg/spring/0ggQlHR-4qLEGG_eFj8caok1Prw/)
-   * 2023-06-06 Adopted
+> History of WG Adoption
+https://wiki.ietf.org/en/group/spring/adoption_history
+{.is-info}
 
-## History of WG Last Call
-* draft-ietf-spring-nsh-sr-11 
-   * 2020-10-20 Authors asked for WGLC
-   * 2020-11-02 Shepherd comments sent on the list. Waiting for reply/update from authors.
-   * 2020-12-11 Reply & update from authors
-   * Submitted to IESG for Publication
-* draft-ietf-spring-mpls-path-segment-08 
-   * 2020-11-4 Authors asked for WGLC
-   * 2021-12-23 Submitted to IESG for publication
-   * Submitted to IESG for Publication
-* draft-ietf-spring-sr-replication-segment-10
-   * 2022-07-14 Authors asked for WGLC
-   * 2022-10-18 In WG Last Call
-   * 2023-03-21 Submitted to IESG for Publication
 
 &nbsp;
 
