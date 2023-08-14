@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-car
 description: report on implementations
 published: true
-date: 2023-07-10T06:25:16.264Z
+date: 2023-08-14T16:38:30.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-09T11:17:21.968Z
@@ -19,7 +19,7 @@ dateCreated: 2023-06-09T11:17:21.968Z
 | Route Type | Cisco IOS-XR | Arrcus ArcOS | comments |
 |---|---|---|---|
 | (E,C) | Y | Y | |
-| Prefix | N | N | |
+| Prefix | Y | N | |
 ### Non Key TLVs
 | TLV | Cisco IOS-XR | Arrcus ArcOS | comments |
 |---|---|---|---|
