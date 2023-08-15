@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2023-08-09T18:22:20.201Z
+date: 2023-08-15T21:30:03.409Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -12,7 +12,7 @@ dateCreated: 2022-03-03T23:54:36.026Z
 
 Wikis are used by participants to share information about and coordinate around IETF meetings. 
 
-## Upcoming meetings
+## Upcoming meetings 
 
 ### {.tabset}
 
