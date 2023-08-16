@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-08-14T18:53:40.444Z
+date: 2023-08-16T19:18:05.417Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -28,8 +28,9 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * 2021-03-29 Authors asked for WGLC
    * Waiting for the dependent MPLS WG draft to progress past WGLC
    * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
+   * [IETF 117] The authors asked for WGLC.
 * draft-ietf-spring-segment-protection-sr-te-paths
-     * 2023-07-03 Authors asked for WGLC
+   * 2023-07-03 Authors asked for WGLC
 
 > History of WGLC
 https://wiki.ietf.org/en/group/spring/WGLC_history
@@ -45,7 +46,9 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-agrawal-spring-srv6-mpls-interworking
    * 2022-11-9 Authors sent request     
 * draft-gong-teas-hierarchical-slice-solution
-   * 2022-11-9 Authors sent request   
+   * 2022-11-9 Authors sent request  
+* draft-hr-spring-intentaware-routing-using-color
+   * [IETF 117] Authors asked for adoption, but the document has 19 (!) authors.  The request will be considered once an update is submitted with (at most) 5 authors.
    
 > History of WG Adoption
 https://wiki.ietf.org/en/group/spring/adoption_history
