@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-15T09:21:28.927Z
+date: 2023-08-16T11:55:33.268Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,7 +46,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Topic (NAME)
+* Klensin Appeal (Lars)
 
 #### Urgent but not important
 
