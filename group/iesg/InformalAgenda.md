@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-17T07:14:58.290Z
+date: 2023-08-17T13:41:30.848Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -30,6 +30,7 @@ Meeting password: 12345
 ## Regrets
 * Éric Vyncke - PTO
 * Erik Kline - partial; air travel
+* Martin Duke - PTO
 
 ## Agenda
 
