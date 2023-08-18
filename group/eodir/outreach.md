@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-06-22T12:05:50.440Z
+date: 2023-08-18T12:42:10.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Jul 2023|[APIGA2023](https://community.icann.org/display/GSEAPAC/APIGA+2023)|Students|knowledge sharing|Dhruv Dhody|Introducing IETF to those interested in Internet Governance [Link](https://docs.google.com/presentation/d/18HaHXXRqojpgAxPJbzEfX8aiqeU9Y-dqcECwRQHZDgU/edit?usp=sharing)|
 |May 2023|RIPE 86|Network Operators in Europe & Middle East|*all levels*|Mirja,Warren,Eric,Jari|IETF Overview of Technical Work and Hot Topics [Slides](https://ripe86.ripe.net/wp-content/uploads/presentations/62-RIPE86-IAB-IETF-Overview-2023-04.pdf),  [Video](https://ripe86.ripe.net/archives/video/1023/)|
 |May 2023|University of Washington|Faculty and Students|Knowledge Sharing|IAB & IESG|Update on current work at IETF|
 |March 2023|[APRICOT 2023](https://2023.apricot.net/program/schedule/#/day/10)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody & Paresh Khatri|Sharing the latest development at IETF 115 and urging participation in the IETF 116 meeting in the region [Link](https://docs.google.com/presentation/d/1W0KrE_9yK7BTAcrwooTUX2VJ_mbnyIowAeMRGOWUEj8/edit?usp=sharing) [Blog](https://blog.apnic.net/2023/02/27/ietf-roundup-for-the-apnic-community/)|
