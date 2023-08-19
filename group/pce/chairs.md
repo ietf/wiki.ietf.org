@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-08-10T05:56:39.826Z
+date: 2023-08-19T14:34:16.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -22,17 +22,17 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19 |
 | Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | Poll till Aug 24th |
-| WG adoption | draft-dhody-pce-stateful-pce-vendor | Julien | Started a poll on June 20 ; Julien to send email to WG |
-| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | Dhruv sent a request to John (Dhruv to track)|
 | Enhance GitHub for PCE WG | - | Dhruv | Announce during WG meetings as well |
-| Possible recharter for PCE WG | - | Ready to send it to John or wait till IETF 117 | Present at 117; move after it! |
 | VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Julien to respond to the email to John before 117 and dhruv to follwup|
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
 
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | - |
+| WG adoption closed | draft-dhody-pce-stateful-pce-vendor | Julien | - |
 | WG Secretary Onboarding | - | Dhruv | Done at IETF 117 |
 | WG Secretary | - | Dhruv/Julien | Andrew is our new Secretery |
 | Finalize next step | draft-ietf-pce-enhanced-errors | Dhruv | Marked as Parked WG I-D |
