@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-08-14T21:03:36.520Z
+date: 2023-08-19T16:52:55.944Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -49,7 +49,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhody-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-dhody-pce-pceps-tls13/) | Waiting for -00 | - | Was Julien |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | WG I-D | - | Was Julien |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
 | draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
 | draft-ietf-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
@@ -90,6 +90,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Y | WG I-D | - | Julien | Andrew |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
 
 ## Post WG LC Queue  
@@ -125,7 +126,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- |
 | RFC9358 | Published 2023-02; Was draft-ietf-pce-vn-association | Hari |
 | RFC9357 | Published 2023-02; Was draft-ietf-pce-lsp-extended-flags | Dhruv | 
-| RFC9168 | Published 2022-01; Was  draft-ietf-pce-pcep-flowspec | Julien |
+
 
 ## Other Useful Information
 
