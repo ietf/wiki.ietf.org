@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-08-19T16:52:55.944Z
+date: 2023-08-19T16:56:11.315Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,7 +33,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhody-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-dhody-pce-stateful-pce-vendor) | Poll in progress | IPR - 5/5 | Julien |
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Pending | Confimed with BIER WG | Dhruv |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | Julien |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
@@ -49,6 +48,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | WG I-D | - | Was Julien |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | WG I-D | - | Was Julien |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
 | draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
