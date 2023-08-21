@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-17T13:41:30.848Z
+date: 2023-08-21T19:35:30.978Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 17, 2023 
+# Informal Telechat - August 31, 2023 
 
  There will be a meeting on this date.
 
@@ -28,9 +28,9 @@ Meeting password: 12345
 
 
 ## Regrets
-* Éric Vyncke - PTO
-* Erik Kline - partial; air travel
-* Martin Duke - PTO
+* 
+* 
+* 
 
 ## Agenda
 
@@ -48,7 +48,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Klensin Appeal (Lars)
+* Topic (NAME)
 
 #### Urgent but not important
 
@@ -56,11 +56,11 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 * Humming tool (Éric V who is regret for 17th of Aug): per [Ekr's email](https://mailarchive.ietf.org/arch/msg/iesg/-c0O0Rp_zMWkFyACbilWFouWffM/)
-* Topic (NAME)
+
 
 #### Not important and not urgent
-* Deceased contributor email address (Paul/Murray)
-* Document Shepherd, RFC 4858 and IESG Statement reality (Paul)
+* Topic (NAME)
+* Topic (NAME)
 
 ### WG News 
 
