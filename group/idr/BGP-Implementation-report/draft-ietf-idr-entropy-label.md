@@ -2,13 +2,13 @@
 title: draft-ietf-idr-entropy-label Implementation Report
 description: IDR WG report on implementations of draft-ietf-idr-entropy-label (BGP Router Capabilities Attribute)
 published: true
-date: 2023-08-01T21:10:17.407Z
+date: 2023-08-25T18:15:57.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T20:19:48.279Z
 ---
 
-# Implementation Report for draft-ietf-idr-entropy-label-06
+# Implementation Report for draft-ietf-idr-entropy-label-08
 ## BGP Router Capabilities Attribute
   
  ### Abbrevatiations 
@@ -30,11 +30,14 @@ John Scudder (jgs@juniper.net)
 - Does the implementation ever include more than one instance of a capability with the same Capability Code, Capability Length, and Capability Value? (MUST NOT)
 - Is the implementation prepared to accept such multiple instances? (MUST)
 - Does the implementation insert TLVs in increasing order of Capability Code? (MUST) 
+- Does the implementation consume TLVs in any order? (MUST)
 
 #### 2.2 Sending the RCA
 
 - When originating a route with RCA, does the implementation set the header portion to be equal to the next hop of the route? (MUST)
-- When propagating a route with RCA, if changing the next hop, does the implementation remove all unrecognized TLVs? (This is a MUST although is expressed in other terms, paragraph 4 of §2.2.) *Conformance to this requirement is especially important.*
+- When propagating a route with RCA, if changing the next hop, does the implementation... 
+  - remove all unrecognized TLVs? (This is a MUST although is expressed in other terms, paragraph 4 of §2.2.) *Conformance to this requirement is especially important.*
+  - include all recognized TLVs, constructed appropriately? (SHOULD)
 - Is RCA sent by default to all types of peers? (SHOULD)
 
 #### 2.3 Receiving the RCA
@@ -49,7 +52,7 @@ John Scudder (jgs@juniper.net)
 
 - Are updates with malformed RCA handled using the approach of "attribute discard"? (MUST, written as SHALL)
 - Are unknown TLVs considered to be an error? (MUST NOT)
-- Are malformed TLVs ignored, and other supported TLVs processed as usual? (MUST, although if only a single TLV type is supported this requirement is vacuous since in such a case there would be no other supported TLVs.)
+- Are malformed TLVs ignored, and other supported TLVs processed as usual? (SHOULD, although if only a single TLV type is supported this requirement is vacuous since in such a case there would be no other supported TLVs. There could be a variance from the SHOULD if there were a new TLV type defined that defined different behavior.)
 
 #### 2.5 Network Operation Considerations
 
@@ -65,6 +68,7 @@ Although this section makes use of RFC 2119 terminology, the requirement is addr
     - ...and is not changing the next hop? (MAY)
     - ...and is changing the next hop, but knows that the new next hop is EL-capable or need not process the entropy label? (MAY; if this option is YES please provide details.) 
   - If it is redistributing a route learned from another protocol and that protocol conveyed the knowledge that the egress was EL-capable? (MAY; if this option is YES please provide details.)
+- Is the ELCv3 included with labeled, entropy label capable routes? (SHOULD)
 - Is the ELCv3 ever advertised with routes that are not labeled? (MUST NOT)
 
 #### 3.3 Receiving the ELCv3
@@ -91,11 +95,14 @@ Conformant on all points, details below.
 - Does the implementation ever include more than one instance of a capability with the same Capability Code, Capability Length, and Capability Value? (MUST NOT) **NO**
 - Is the implementation prepared to accept such multiple instances? (MUST) **YES**
 - Does the implementation insert TLVs in increasing order of Capability Code? (MUST) **YES** (N/A at the moment since there is only one capability defined currently)
+- Does the implementation consume TLVs in any order? (MUST) **YES** (N/A at the moment since there is only one capability defined currently)
 
 #### 2.2 Sending the RCA
 
 - When originating a route with RCA, does the implementation set the header portion to be equal to the next hop of the route? (MUST) **YES** 
-- When propagating a route with RCA, if changing the next hop, does the implementation remove all unrecognized TLVs? (This is a MUST although is expressed in other terms, paragraph 4 of §2.2.) *Conformance to this requirement is especially important.* **YES**
+- When propagating a route with RCA, if changing the next hop, does the implementation... 
+  - remove all unrecognized TLVs? (This is a MUST although is expressed in other terms, paragraph 4 of §2.2.) *Conformance to this requirement is especially important.* **YES**
+  - include all recognized TLVs, constructed appropriately? (SHOULD) **YES**
 - Is RCA sent by default to all types of peers? (SHOULD) **YES**
 
 #### 2.3 Receiving the RCA
@@ -110,7 +117,7 @@ Conformant on all points, details below.
 
 - Are updates with malformed RCA handled using the approach of "attribute discard"? (MUST, written as SHALL) **YES**
 - Are unknown TLVs considered to be an error? (MUST NOT) **NO**
-- Are malformed TLVs ignored, and other supported TLVs processed as usual? (MUST, although if only a single TLV type is supported this requirement is vacuous since in such a case there would be no other supported TLVs.) **YES**
+- Are malformed TLVs ignored, and other supported TLVs processed as usual? (SHOULD, although if only a single TLV type is supported this requirement is vacuous since in such a case there would be no other supported TLVs. There could be a variance from the SHOULD if there were a new TLV type defined that defined different behavior.) **YES**
 
 #### 2.5 Network Operation Considerations
 
@@ -126,7 +133,8 @@ Although this section makes use of RFC 2119 terminology, the requirement is addr
     - ...and is not changing the next hop? (MAY) **YES**
     - ...and is changing the next hop, but knows that the new next hop is EL-capable or need not process the entropy label? (MAY; if this option is YES please provide details.)  **YES** (if it is a label swap (aka no need to process the entropy label) or it is a label pop and this node is EL-capable)
   - If it is redistributing a route learned from another protocol and that protocol conveyed the knowledge that the egress was EL-capable? (MAY; if this option is YES please provide details.) **YES** (if it is a label swap (aka no need to process the entropy label) or it is a label pop and this node is EL-capable)
-- Is the ELCv3 ever advertised with routes that are not labeled? (MUST NOT) **YES**
+- Is the ELCv3 included with labeled, entropy label capable routes? (SHOULD) **YES**
+- Is the ELCv3 ever advertised with routes that are not labeled? (MUST NOT) **NO** (Note that "no" means "conform" in this MUST NOT case.)
 
 #### 3.3 Receiving the ELCv3
 
