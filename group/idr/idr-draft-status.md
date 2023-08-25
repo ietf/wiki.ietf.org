@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-07-25T14:22:23.882Z
+date: 2023-08-25T14:13:23.190Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -24,6 +24,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|
 |  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         | 150 days             |  972 days           |
 |  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  139 days               |  614 days         |
+|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  RFC-editor   |  Auth-48  |  Nov-01-2022  |  Dec-30-2022   |  8-10-2023 | 14 days   |  TBD | 
 {.dense}
 
 
