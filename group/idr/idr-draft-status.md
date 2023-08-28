@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-08-25T14:13:23.190Z
+date: 2023-08-28T17:23:14.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -41,8 +41,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
 |---|---|---|---|---|---|---|---|---|
 | none | 
-|  draft-ietf-idr-long-lived-gr              |  Jeff Haas    |  IESG telechat   |  TBD  |  Nov-01-2022        |  Dec-30-2022   |  4 days   |  8-10-2023 | 258 days   |
-{.dense}
+
  
 ## Needs revision During AD Review
 
@@ -83,8 +82,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2   |  WG LC      |  TBD       |  7/24/2023    |  6/24 to 7/24 | 7/24/2023 | 
-|  draft-ietf-idr-bgp-car |  Susan Hares  | 2   |  WG LC      |  TBD       |  7/24/2023    |  7/10 to 7/24 | 7/24/2023 |  
 {.dense}
 
 ## WG LC Pending
@@ -93,8 +90,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-sr-policy-fit-03         |  Susan Hares  |  Need implementation report        |  IPR + implementation report  | TBD | TBD      |  7/25      |
 | draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | Need implementation report         |  WG LC    |   TBD   |  TBD |  7/25 
-| draft-ietf-idr-entropy-label-05 | Susan Hares | Chair review + implementation report | WG LC | TBD | TBD | 7/25 to 8/15 |  
+| draft-ietf-idr-entropy-label-05 | Susan Hares | Chair review + implementation report | WG LC | TBD | TBD | 8/28 to  |  
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  |  Awaiting -03 revision    |  WG LC    |  TBD   |  TBD        |  TBD       |
+|  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2   |  WG LC      |  TBD       |  7/24/2023    |  6/24 to 7/24 | 7/24/2023 | 
+|  draft-ietf-idr-bgp-car |  Susan Hares  | 2   |  WG LC      |  TBD       |  7/24/2023    |  7/10 to 7/24 | 7/24/2023 |
 {.dense}
 
 ## Adopted
