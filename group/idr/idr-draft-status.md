@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-08-28T17:23:14.909Z
+date: 2023-08-28T18:46:41.980Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -22,9 +22,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   |
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|
-|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         | 150 days             |  972 days           |
-|  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  139 days               |  614 days         |
-|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  RFC-editor   |  Auth-48  |  Nov-01-2022  |  Dec-30-2022   |  8-10-2023 | 14 days   |  TBD | 
+|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         | 192 days             |  1014 days           |
+|  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  181 days               |  753 days         |
+|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  RFC-editor   |  Auth-48  |  Nov-01-2022  |  Dec-30-2022   |  Aug-10-2023 | 19 days   |  TBD | 
 {.dense}
 
 
