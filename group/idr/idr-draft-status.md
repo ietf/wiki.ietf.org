@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-08-28T19:04:08.898Z
+date: 2023-08-28T19:11:17.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -88,6 +88,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd     |  implementation status    |  Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA               |
 |---|---|---|---|---|---|---|---|---|
+| draft-ietf-idr-entropy-label-05 | Susan Hares | version -09 | WG LC | TBD | TBD | TBD |
 |  draft-ietf-idr-sr-policy-fit-03         |  Susan Hares  |  Need implementation report        |  IPR + implementation report  | TBD | TBD      |  7/25      |
 | draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | Need implementation report         |  WG LC    |   TBD   |  TBD |  7/25 
 | draft-ietf-idr-entropy-label-05 | Susan Hares | Chair review + implementation report | WG LC | TBD | TBD | 8/28 to  |  
