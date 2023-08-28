@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-08-28T18:46:41.980Z
+date: 2023-08-28T19:04:08.898Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -64,7 +64,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | shepherd's write-up | IESG | 5/25/2023 |  4/14 to 4/24/2023 | 53 days | TBD | 53 days | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | shepherd's write-up | IESG | 5/25/2023 |  4/14 to 4/24/2023 | 53 days | TBD | 96 days | 
 | draft-ietf-idr-sdwan-edge-discovery | Keyur Patel | Shepherd's write-up | IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 8 days | 
 |  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document  |  WG LC split     |  1st: Aug-06-2021  |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
 {.dense}
