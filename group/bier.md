@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-03-09T07:50:36.446Z
+date: 2023-08-28T19:48:54.100Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -116,6 +116,20 @@ Shepherd assigned: Hooman Bidgoli
 1. [BIER-TE OSPFv3 extensions for BP advertisement](https://datatracker.ietf.org/doc/draft-ietf-bier-te-ospfv3/) -- 
 1. [BIER TE YANG](https://tools.ietf.org/id/draft-zhang-bier-te-yang-01.txt/) -- 
 
+## BIER Interop at IETF118 Hackathon
+
+We're considering an interop event as part of the IETF118 hackathon. Arrcus, Cisco, FreeRtr, Juniper, Nokia, and ZTE have shown interest (this is not the final list - please add/remove to truly reflect your organization's intent).
+
+It is expected to have mixed virtual and physical BFRs connected by a switch. The exact environment is to be figured out.
+
+The following functionalities are expected to be tested:
+*	MPLS encapsulation, multiple sub-domains, BitStringLen 256
+* ISIS signaling, BFIR/BFER/BFR
+* MVPN overlay
+	* Upstream-assigned VPN labels
+	* DCB VPN labels (https://datatracker.ietf.org/doc/draft-ietf-bess-mvpn-evpn-aggregation-label/)
+
+This page will be updated with more details as we figure things out.
 
 
 
