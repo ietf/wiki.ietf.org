@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-29T12:47:23.142Z
+date: 2023-08-29T14:12:47.295Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -56,7 +56,7 @@ Please use your best judgement to add new items into one of the categories below
 * Topic (NAME)
 
 #### Important but not urgent
-* Humming tool (Éric V who is regret for 17th of Aug): per [Ekr's email](https://mailarchive.ietf.org/arch/msg/iesg/-c0O0Rp_zMWkFyACbilWFouWffM/)
+* Humming tool : per [Ekr's email](https://mailarchive.ietf.org/arch/msg/iesg/-c0O0Rp_zMWkFyACbilWFouWffM/)
 
 
 #### Not important and not urgent
