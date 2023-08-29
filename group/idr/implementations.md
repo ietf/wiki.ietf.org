@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-08-28T19:12:35.714Z
+date: 2023-08-29T13:53:00.513Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -29,6 +29,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
   - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
   - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
+  - https://wiki.ietf.org/e/en/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label
+  
    
 
 ## Fast Track Drafts (returned to WG, 2 implementations)
