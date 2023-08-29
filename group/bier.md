@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2023-08-28T19:48:54.100Z
+date: 2023-08-29T12:45:39.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -118,7 +118,7 @@ Shepherd assigned: Hooman Bidgoli
 
 ## BIER Interop at IETF118 Hackathon
 
-We're considering an interop event as part of the IETF118 hackathon. Arrcus, Cisco, FreeRtr, Juniper, Nokia, and ZTE have shown interest (this is not the final list - please add/remove to truly reflect your organization's intent).
+We're considering an interop event as part of the IETF118 hackathon. Arrcus, Cisco, Juniper, Nokia, and ZTE have shown interest (this is not the final list - please add/remove to truly reflect your organization's intent).
 
 It is expected to have mixed virtual and physical BFRs connected by a switch. The exact environment is to be figured out.
 
