@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-25T05:41:58.561Z
+date: 2023-08-29T12:47:23.142Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,7 +48,8 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Topic (NAME)
+* Webcore Area (Lars, Martin)
+* Chair Update (Lars)
 
 #### Urgent but not important
 
