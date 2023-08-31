@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-08-19T16:58:38.852Z
+date: 2023-08-31T09:45:02.477Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -101,14 +101,14 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
-| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Waiting for authors to handle LC comments |  IPR Poll - 6/6 | Hari |
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Waiting for write-up and Shepherd review| IPR - 4/4 | Dhruv |
+| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Waiting for authors to handle LC comments |  IPR - 6/6 | Hari |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Waiting for authors to handle the shepherd review| IPR - 4/4 | Dhruv |
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-pcep-stateful-pce-gmpls | Approved-announcement to be sent::Revised I-D Needed| Waiting on Authors | Dhruv |
+
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
@@ -120,6 +120,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 | draft-ietf-pce-binding-label-sid | MISSREF*A*R(1G) | Pending on draft-ietf-pce-segment-routing-ipv6 [Cluster454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
 | draft-ietf-pce-local-protection-enforcement | EDIT | - | Julien |
+| draft-ietf-pce-pcep-stateful-pce-gmpls | EDIT| - | Dhruv |
 
 ## Recent RFCs
 
@@ -136,7 +137,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|
 | --- | --- | --- |
-| draft-ietf-pce-sid-algo | WG I-D | Authors requested early allocation. Seeking WG input. SRv6 registry will not have early allocate since undefined | 
+| draft-ietf-pce-sid-algo | WG I-D | Authors requested early allocation. NO objection from WG. Awaiting confirmation from John. SRv6 registry will not have early allocate since undefined | 
 | draft-ietf-pce-sr-bidir-path | WG I-D | Authors requested early allocation 2023-07-26 | 
 | draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19; dependent on PCEP-SRv6 / PCECC-SR  |
 
