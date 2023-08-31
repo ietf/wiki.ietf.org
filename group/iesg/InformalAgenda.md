@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-31T11:25:09.600Z
+date: 2023-08-31T13:41:05.437Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -30,7 +30,7 @@ Meeting password: 12345
 ## Regrets
 * Erik Kline (should be *somewhere* in the Sierras)
 * Andrew Alston
-* 
+* Murray
 
 ## Agenda
 
