@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-08-31T13:41:05.437Z
+date: 2023-09-01T15:10:28.245Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 31, 2023 
+# Informal Telechat - September 14, 2023 
 
  There will be a meeting on this date.
 
@@ -28,9 +28,9 @@ Meeting password: 12345
 
 
 ## Regrets
-* Erik Kline (should be *somewhere* in the Sierras)
-* Andrew Alston
-* Murray
+* 
+* 
+* 
 
 ## Agenda
 
@@ -48,19 +48,18 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Webcore Area (Lars, Martin)
-* Chair Update (Lars)
+* Topic (NAME)
 
 #### Urgent but not important
 
 * Topic (NAME)
 
 #### Important but not urgent
-* Humming tool : per [Ekr's email](https://mailarchive.ietf.org/arch/msg/iesg/-c0O0Rp_zMWkFyACbilWFouWffM/)
+* Topic (NAME)
 
 
 #### Not important and not urgent
-* Errata emails of closed WG go to basically /dev/null [PAUL]
+
 * Topic (NAME)
 
 ### WG News 
