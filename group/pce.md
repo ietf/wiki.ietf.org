@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-08-31T10:00:50.275Z
+date: 2023-09-03T10:31:00.124Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -83,6 +83,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Y | Authors requested WGLC at 116 | Early code point allocated |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | - | - |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - |
+| draft-ietf-pce-pcep-color | N | Authors requested WGLC on 2023-09-01 | - |
 
 
 ## WG Last Call Queue 
