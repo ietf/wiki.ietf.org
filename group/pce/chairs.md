@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-08-31T09:50:15.688Z
+date: 2023-09-04T12:43:06.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -41,3 +41,11 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Who should shepherd (and notify SPRING WG) | draft-ietf-pce-segment-routing-ipv6 | Julien/Dhruv | Hari is the shepherd, he will post to the spring list | 
 |BIER WG opinion|draft-chen-pce-bier|Dhruv|Mail sent to BIER and added to the adoption queue|
 |BFD WG opinion|draft-fizgeer-pce-pcep-bfd-parameters|Dhruv|Mail sent and response from Reshad received|
+
+
+## AD Tracker
+|Item|Document|Remarks|
+|---|---|---|
+|Recharter|-|Sent email on 2023-08-19|
+|Early Code Point|draft-ietf-pce-sid-algo|Sent email on 2023-08-31|
+
