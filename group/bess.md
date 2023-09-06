@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-07-21T10:39:18.514Z
+date: 2023-09-06T18:09:50.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -126,6 +126,8 @@ Shepherd's name indicated within parenthesis.
 * draft-sajassi-bess-evpn-ip-aliasing-04
 * draft-thubert-bess-secure-evpn-mac-signaling
 * draft-duan-bess-mvpn-ipv6-infras
+* draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
+  - the above two should be considered together
 * draft-burdet-bess-evpn-fast-reroute
 
 ## Documents that failed WG adoption
@@ -162,5 +164,3 @@ https://trac.ietf.org/trac/idr/wiki/Feedback%20for%20BESS%20drafts
 &nbsp;
 
 ---
-
-*The content of this page was last updated on 2022-08-04. It was migrated from the old Trac wiki on 2023-01-12.*
