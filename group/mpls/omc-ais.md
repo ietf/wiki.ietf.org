@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-08-10T15:54:14.185Z
+date: 2023-09-07T14:13:50.510Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -11,13 +11,6 @@ dateCreated: 2023-06-15T13:32:47.922Z
 # Open MNA Interim Calls Action Items
 
 ## Open Action Items
-  
-### 1. Update to WG IDs: <draft-ietf-mpls-mna-requirements> and <draft-ietf-mpls-mna-fwk> to cover discussion points on 06/15:
-Owners: editors of IDs
-- Requirements ID:
-  * Possible merge of the requirements and framework document (RTG feedback review)
-Update:
-    - 08/10: Tony/Matthew to follow-up
 
 ### 2. Update to WG ID-draft-ietf-mpls-mna-hdr:
 - MNA ISD Solutions 
@@ -26,11 +19,19 @@ Update:
 Update:
   - 06/22: no update.
   - 07/06: to send a summary of discussion to WG mailing list.
-  - 08/10: Text was suggested and authors will get back.
+  - 08/10: Text was suggested and authors will get back
  
 
 
 ## Closed Action Items
+
+### 1. Update to WG IDs: <draft-ietf-mpls-mna-requirements> and <draft-ietf-mpls-mna-fwk> to cover discussion points on 06/15:
+Owners: editors of IDs
+- Requirements ID:
+  * Possible merge of the requirements and framework document (RTG feedback review)
+Update:
+    - 08/10: Tony/Matthew to follow-up
+    - 09/07: meeting occurred and changes suggested are included in the latest revision of framework draft.
 
 ### 1. DETNET discussion on MNA
 Owner: DETNET Chairs/Greg
