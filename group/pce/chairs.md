@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-09-07T08:56:12.815Z
+date: 2023-09-07T08:57:49.250Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -22,9 +22,9 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting authors |
 | Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19; awaiting on John |
 | Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | Awaiting John's confirmation |
-| Last Push | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv polled for X-bit | 
+| Last Push | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv polled for X-bit, ready to submit to ADs | 
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
-| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Email discussion with John; Dhruv to write an email to ISE |
+| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Confirmed with ISE; awaiting confirmation from John |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
 
 ## Completed Tasks
@@ -49,4 +49,5 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|
 |Recharter|-|Sent email on 2023-08-19|
 |Early Code Point|draft-ietf-pce-sid-algo|Sent email on 2023-08-31|
+|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email |
 
