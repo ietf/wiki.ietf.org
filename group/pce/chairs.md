@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-09-07T09:11:41.064Z
+date: 2023-09-07T16:28:17.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -49,5 +49,5 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|
 |Recharter|-|Sent email on 2023-08-19|
 |Early Code Point|draft-ietf-pce-sid-algo|Sent email on 2023-08-31|
-|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email |
+|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email 2023-09-07|
 
