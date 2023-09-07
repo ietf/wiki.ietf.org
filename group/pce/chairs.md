@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-09-07T16:28:17.341Z
+date: 2023-09-07T16:56:22.827Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -14,11 +14,12 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of Sept |
-| Early allocation | draft-ietf-pce-pcep-color | Dhruv | To be done |
+| WGLC assigned reviews | - | Dhruv | - |
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Early allocation | draft-ietf-pce-pcep-color | Dhruv | Poll ends 2023-09-21 |
 |Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting authors |
 | Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19; awaiting on John |
 | Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | Awaiting John's confirmation |
