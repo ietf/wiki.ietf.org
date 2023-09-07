@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-09-07T09:02:22.741Z
+date: 2023-09-07T09:09:31.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of Sept (Dhruv: can check with Andrew) |
+| Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of Sept |
 | Early allocation | draft-rajagopalan-pce-pcep-color | - | - |
 
 ## Initiated and ongoing Tasks
