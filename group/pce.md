@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-09-06T17:52:51.016Z
+date: 2023-09-07T16:49:03.345Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -24,7 +24,6 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---|
-|draft-dong-pce-pcep-nrp|This is the new merged I-D, authors ask for adoption in 116|
 draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
 
 ## WG Adoption Call Queue
@@ -35,25 +34,25 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | --- | --- | --- | --- |
 | [draft-chen-pce-bier](https://datatracker.ietf.org/doc/draft-chen-pce-bier/) | Pending | Confimed with BIER WG | Dhruv |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | Julien |
-| [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
-| [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
-|draft-sidor-pce-circuit-style-pcep-extensions|Pending|-|-| 
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors | - |  
 | draft-peng-pce-entropy-label-position | Pending | - | - |
+| draft-peng-pce-stateful-pce-autobw-update | Pending | - | - |
+| [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
+|draft-sidor-pce-circuit-style-pcep-extensions|Pending|-|-| 
+| [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors | - |  
 | draft-chen-pce-sr-mpls-sid-verification | Pending | Coordinate with SRv6 draft for IANA allocation | - |
 | draft-chen-pce-sr-ingress-protection | Pending | - | - |
-| draft-peng-pce-stateful-pce-autobw-update | Pending | - | - |
+|draft-dong-pce-pcep-nrp|Pending| - | - |
 
 
 ## Recently Adopted Documents
 
-| Draft | State | Remarks | Responsible Chair |
-| --- | --- | --- | --- |
-| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | WG I-D | - | Was Julien |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | WG I-D | - | Was Julien |
-| draft-ietf-pce-pcep-extension-pce-controller-srv6 | WG-ID | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
-| draft-ietf-pce-pcep-color | WG I-D | Adopted on 2022-12-27 | Was Dhruv |
-| draft-ietf-pce-pcep-srv6-yang | WG I-D | Adopted on 2022-09-26; Comments received during adoption needs to be handled | Was Dhruv |
+| Draft |  Remarks | Responsible Chair |
+| --- | --- | --- |
+| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | - | Was Julien |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | - | Was Julien |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 | Adopted on 2023-02-08; comments received during adoption needs to be handled | Was Julien |
+
 
 ## Other WG I-Ds
 
@@ -70,8 +69,10 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -01 posted on 2022-07-07 | More review requested |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03;  Authors have requested early IANA allocation(2023-08-02) | Author count to be reduced by editor. Pending WG feedback for early allocate. |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | WG-ID | Adopted on 2022-05-05  | waiting for spring adoption |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | Adopted on 2022-05-05  | waiting for spring adoption |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; | - |
+| draft-ietf-pce-pcep-color | Adopted on 2022-12-27 | - |
+| draft-ietf-pce-pcep-srv6-yang |  Adopted on 2022-09-26; Comments received during adoption needs to be handled | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
@@ -80,10 +81,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Remarks|Action|
 | --- | --- | --- | ---|
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Y | Authors requested WGLC at 116 | Early code point allocated |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | - | - |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - |
-| draft-ietf-pce-pcep-color | N | Authors requested WGLC on 2023-09-01. <br>Pending Impl. Status. <br>Requested code points 2023-09-03 | - |
+
 
 
 ## WG Last Call Queue 
@@ -94,6 +92,11 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Y | WGLC Initiated 2023-09-05 | IPR - 3/3 | Julien | Andrew |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Y | - | Early code point allocated | - | - |
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | - | - |
+| draft-ietf-pce-pcep-color | N | Pending Impl. Status.  | Requested code points 2023-09-03 | - | - |
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - | - | - |
+
 
 ## Post WG LC Queue  
 
