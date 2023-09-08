@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-08-29T14:19:36.344Z
+date: 2023-09-08T11:38:56.096Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -89,11 +89,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd     |  implementation status    |  Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA               |
 |---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-sr-policy-fit-03         |  Susan Hares  |  Need implementation report        |  IPR + implementation report  | TBD | TBD      |  7/25      |
+|  draft-ietf-idr-sr-policy-fit-06         |  Susan Hares  |  Implementation report   |  draft -07 + IPR report  | TBD | TBD      |  7/25      |
 | draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | Need implementation report         |  WG LC    |   TBD   |  TBD |  7/25  
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  |  Awaiting -03 revision    |  WG LC    |  TBD   |  TBD        |  TBD       |
-|  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2   |  WG LC      |  TBD       |  7/24/2023    |  6/24 to 7/24 | 7/24/2023 | 
-|  draft-ietf-idr-bgp-car |  Susan Hares  | 2   |  WG LC      |  TBD       |  7/24/2023    |  7/10 to 7/24 | 7/24/2023 |
+|  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2   |  WG LC resolution      |  TBD       |  7/24/2023    |  6/24 to 7/24 | 7/24/2023 | 
+|  draft-ietf-idr-bgp-car |  Susan Hares  | 2   |  WG LC resolution     |  TBD       |  7/24/2023    |  7/10 to 7/24 | 7/24/2023 |
 {.dense}
 
 ## Adopted
