@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-09-08T16:24:10.013Z
+date: 2023-09-11T11:03:40.264Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -67,7 +67,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | -03 posted on 2022-07-10 | - |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | -02 posted on 2021-10-23 | Comments receiving during adoption call are handled |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -01 posted on 2022-07-07 | More review requested |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03;  Authors have requested early IANA allocation(2023-08-02) | Author count to be reduced by editor. Pending WG feedback for early allocate. |
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03 | Author count to be reduced by editor. IANA early alloc request sent on 2023-09-11 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | Adopted on 2022-05-05  | waiting for spring adoption |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; | - |
@@ -140,7 +140,6 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|
 | --- | --- | --- |
-| draft-ietf-pce-sid-algo | WG I-D | Authors requested early allocation. NO objection from WG. Awaiting confirmation from John. SRv6 registry will not have early allocate since undefined | 
 | draft-ietf-pce-sr-bidir-path | WG I-D | Authors requested early allocation 2023-07-26 | 
 | draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19; dependent on PCEP-SRv6 / PCECC-SR  |
 
@@ -152,6 +151,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2022-12-12|2024-01-12|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
 |draft-ietf-pce-pcep-extension-native-ip| WG I-D |- CCI Object-Type<br>- BGP Peer Info Object-Type<br>- Explicit Peer Route Object-Type<br>- Peer Prefix Advertisement Object-Type<br>- PCEP-ERROR Object Error Type<br>- Path Setup Type<br>- PCECC-Capability sub-TLV|2023-08-14|-|2024-08-14| 
+|draft-ietf-pce-sid-algo|WG I-D| Request sent to IANA (2023-09-11) |Pending|Pending|Pending|
 
 ### Recent Errata
 
