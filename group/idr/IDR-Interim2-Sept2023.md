@@ -2,7 +2,7 @@
 title: IDR Interim 2 - September 25, 2023 
 description: Interim 2 Page
 published: true
-date: 2023-09-11T14:56:36.823Z
+date: 2023-09-11T22:14:06.402Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T14:46:58.228Z
@@ -10,6 +10,7 @@ dateCreated: 2023-09-11T14:46:58.228Z
 
 # IDR Interim 2 - September 25, 2023
 
+## Time 10:00 am - 12:30pm EDT 
 ## Agenda
 1. CAR WG LC Issues for Experimental Draft
 
