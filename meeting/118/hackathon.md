@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-08-22T14:39:26.772Z
+date: 2023-09-11T11:04:06.849Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -170,6 +170,14 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+
+### SCION path aware networking
+- **Champion(s)**
+  - Nicola Rustignoli (nic at scion.org)
+  - Matthias Frei (matzf at scion.org)
+- **Project Info**
+  - Potential projects will focus around deployment and development on the SCION open source implementation. More info TBD.
+
 
 ### Your Project Name
 - **Champion(s)**
