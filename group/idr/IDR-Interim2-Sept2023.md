@@ -2,7 +2,7 @@
 title: IDR Interim 2 - September 25, 2023 
 description: Interim 2 Page
 published: true
-date: 2023-09-11T14:51:31.371Z
+date: 2023-09-11T14:56:36.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T14:46:58.228Z
@@ -18,7 +18,7 @@ Discussion of IP Prefix and Sections 8-10.
 2. CT WG LC Issues for Experimental Draft
 TBD 
 
-3. Next Steps for Intent Routing 
+3. Next Steps for Intent-Aware (Color) Routing 
 
 4. FlowSpecification v2 split 
 
