@@ -2,18 +2,17 @@
 title: Home
 description: 
 published: true
-date: 2023-08-09T20:00:34.624Z
+date: 2023-09-12T21:11:01.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
 ---
 
-> # Welcome to the IETF Community Wiki
-{.is-warning}
+# Welcome to the IETF Community Wiki
 
 This is a community wiki for IETF participants to use.  It replaces the previous structure of trac wikis where each working group/team had its own trac instance.  
 
-1. The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all content on this wiki, and it is referenced on every page.
+The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all content on this wiki, and it is referenced on every page.
 
 # Scope
 
@@ -28,9 +27,11 @@ This wiki should not be used for content that should be on any of the other dedi
 This wiki complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
 
 # Contributing to this wiki
+
 This wiki is for the IETF Community and any IETF participant is welcome to edit it. See the [Contributing to this wiki](/contributing) page for a quick start guide and more details. A few [guidelines for contributing](/guidelines) aim to provide high-level principles and inspiration for contributions.
 
 # Other IETF websites
+
 The other IETF websites where relevant information can be found are:
 - [www.ietf.org *The public-facing front door for the IETF.*](https://www.ietf.org)
 - [datatracker.ietf.org *The day-to-day front-end to the IETF database for people who work on IETF standards.*](https://datatracker.ietf.org)
