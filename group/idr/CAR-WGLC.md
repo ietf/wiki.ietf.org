@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2023-09-12T01:51:11.075Z
+date: 2023-09-12T02:00:10.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
@@ -10,10 +10,13 @@ dateCreated: 2023-07-25T13:11:40.965Z
 
 # CAR WG LC 
 
-## Reviews
+## Shepherd Report 
+list of issues:  [car-wg-lc-track-v6.pdf](/idr/idr/car-wg-lc-track-v6.pdf)
 
+(Note: A version of the shepherd report with action items will be uploaded by 9/15) 
+
+## Directorate Reviews
 1. RTG-DIR Review 
-
 action item: Needs short overview in section 1 before leaping into terminology
 
 ## Open issues from Mail list 
@@ -27,10 +30,14 @@ action item: Needs short overview in section 1 before leaping into terminology
     1-6) Relationship among multiple drafts for SRv6 
     1-7) Use of CAR SAFI and VPN CAR SAFI for transport
     1-8) Use of CAR SAFI and VPN CAR SAFI for Service Families 
-    
+
+Action items involve: Revisions of sections 2, 3, 8, 9, 10, and 13. 
+
  2. CAR-WGLC-Q-2: Inter-domain Intent-Aware Routing 
+  Why do we not have 1 solution after 2 years? 
  
- Why do we not have 1 solution for the future. 
+ Action item: IDR WG shepherd will make selection 
+ in September. 
  
  ## Open Issues from Adoption call
  ### CAR specific issues from Adoption  
@@ -40,7 +47,11 @@ action item: Needs short overview in section 1 before leaping into terminology
  3. 33-CAR-Issue-3: Handling of LCM and Extended Communities
  4. F3-CAR-Issue-4: CAR Routing in Color Domains for Anycast EP
  5. F3-CAR-Issue-5: BGP Update packing. 
- 
+
+### detailed report on WG LC email
+[car-wg-lc-track-v6.pdf](/idr/idr/car-wg-lc-track-v6.pdf)
+
+
 ### WG issues from Adoption 
 1. F3-WG-Issue-3 - Key operational Issues
 status: awaiting Jeff Haas review
@@ -61,8 +72,10 @@ status: awaiting confirmation of Shraddha Hedge
 6. F3-WG-Issue-8: Scaling 
 status: awaiting review by Jeff Haas 
 
-
 ## Implementation
 
 draft-ietf-bgp-car-02 - has only 1 implementation of the 
 type 2 NLRI.  
+
+###
+
