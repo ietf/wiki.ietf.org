@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-09-01T15:10:28.245Z
+date: 2023-09-12T19:58:03.447Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-* 
+* Andrew
 * 
 * 
 
@@ -48,7 +48,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Topic (NAME)
+* RSWG Chair Appointment
 
 #### Urgent but not important
 
