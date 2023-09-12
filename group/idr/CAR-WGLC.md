@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2023-09-12T02:00:10.271Z
+date: 2023-09-12T02:00:36.016Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
@@ -12,7 +12,6 @@ dateCreated: 2023-07-25T13:11:40.965Z
 
 ## Shepherd Report 
 list of issues:  [car-wg-lc-track-v6.pdf](/idr/idr/car-wg-lc-track-v6.pdf)
-
 (Note: A version of the shepherd report with action items will be uploaded by 9/15) 
 
 ## Directorate Reviews
@@ -77,5 +76,4 @@ status: awaiting review by Jeff Haas
 draft-ietf-bgp-car-02 - has only 1 implementation of the 
 type 2 NLRI.  
 
-###
 
