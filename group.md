@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-09-12T21:16:34.947Z
+date: 2023-09-12T21:19:04.974Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -229,9 +229,6 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [vwrap *Virtual World Region Agent Protocol*](/group/vwrap)
 - [wpkops *Web PKI OPS*](/group/wpkops)
 - [yam *Yet Another Mail*](/group/yam)
-
-
-
 {.links-list}
 
 # IAB Groups
