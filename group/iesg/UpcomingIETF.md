@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-07-31T17:43:40.530Z
+date: 2023-09-13T15:49:38.475Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -14,7 +14,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 *(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/))*
 
 # Candidate Meeting Topics
-Please add any topics for either IESG only meetings at IETF 117, or the joint meetings with the IAB.
+Please add any topics for either IESG only meetings at IETF 118, or the joint meetings with the IAB.
 
 > 1. Example topic (Name)
 > 2. Example topic (Name)
@@ -72,18 +72,18 @@ Onsite Tool:
 
 
 > 1. Welcome and introductions
-> 1. Area walkthrough for hot topics (list randomized for 117)
->   - ART
->   - TSV
->   - GEN
->   - IAB
+> 2. Area walkthrough for hot topics (list randomized for 118)
 >   - IRTF
 >   - RTG
->   - INT
 >   - SEC
+>   - GEN
+>   - ART
 >   - OPS
+>   - INT
+>   - IAB
+>   - TSV
+> 3. Topic (name)
 > 4. Topic (name)
-> 5. Topic (name)
 > 
  
 
@@ -105,9 +105,8 @@ No IESG breakfast. IAB has a breakfast meeting
 ## Wednesday, November 8, 2023
 ### IESG Meeting Time: 08:00-09:20 CET (UTC+1) Room: TBD
 
-Meetecho: https://meetings.conf.meetecho.com/ietf117/?group=iesg_2
-Onsite Tool: https://meetings.conf.meetecho.com/onsite117/?group=iesg_2
-
+Meetecho: 
+Onsite Tool: 
 > 1. Plenary Prep
 
 
@@ -126,16 +125,16 @@ Meetecho:
 Onsite Tool: 
 
 >  1. Welcome
->  1. Post-meeting review (randomized for 117)
-    > - IAB
-    > - OPS
-    > - INT
-    > - IRTF
+>  1. Post-meeting review (randomized for 118)
     > - SEC
-    > - RTG
-    > - ART
-    > - TSV
     > - GEN
+    > - OPS
+    > - ART
+    > - IRTF
+    > - INT
+    > - TSV
+    > - IAB
+    > - RTG
 >  3.  General discussion of productivity and how the meeting went	 (standing item)
 >  4. Topic (name)
 
