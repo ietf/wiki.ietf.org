@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-09-14T14:33:04.276Z
+date: 2023-09-14T15:59:20.373Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -59,35 +59,40 @@ This section lists actions other than document updates
 Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
 * draft-ietf-bess-evpn-irb-mcast (Mankamana):
- - AD evaluation not done
+	- AD evaluation not done
 * draft-ietf-bess-mvpn-evpn-aggregation-label (Stephane)
- - Jeffrey addressed comments from directorates
- - AD to move fwd
+	- Jeffrey addressed comments from directorates
+	- AD to move fwd
 * draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
- - 2nd last call passed
- - Not republished to IESG ?
+	- 2nd last call passed
+	- Authors have to fix grammar issues before we republish to IESG (shepherd's write up will need update as well).
+	- Action: Mankamana to talk with Ali
 * draft-ietf-bess-evpn-pref-df (Stephane)
- - Authors to reply and address comments from IESG
+	- Authors to reply and address comments from IESG
+	- Action: Stephane to push Authors to replu
 * draft-ietf-bess-evpn-fxc (Stephane)
 	- AD evaluation not done
-  - RTGDIR review received (8/23), ready but few comments to addres
+  - RTGDIR review received (8/23), ready but few comments to address
+  - Action: Stephane to check with authors
 * draft-ietf-bess-pbb-evpn-isid-cmacflush-06 (Matthew)
 	- IESG comments to be addressed
+ 	- Action: Matthew is discussing with Jorge to get an update
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
-	- Status ?
+	- Directorates comments have been addressed
+  - AD to followup
 
 
 ## Documents under Shepherd's review
 
 - draft-ietf-bess-evpn-redundant-mcast-source (Mankamana)
 	- Jorge replied to RTGDIR review and addressed comments
-  - Status ?
+  - Action: Mankamana to do the write-up.
 
 - draft-ietf-bess-evpn-mh-pa (Stephane)
   - RTGDIR review closed and document updated accordingly
   - Shepherd write-up and chair review to be done (action Stephane)
 
-- draft-ietf-bess-evpn-mh-split-horizon (Mankamana)
+- draft-ietf-bess-evpn-mh-split-horizon (Jeffrey)
   - RTGDIR review comments addressed
   - Shepherd review to be done
 
@@ -97,11 +102,11 @@ Shepherd's name indicated within parenthesis.
   - Need to request review from RTGDIR
 
 - draft-ietf-bess-evpn-geneve: (Matthew)
-  - Comments have been addressed
-  - Status ?
+  - Waiting for implementation
 
 - draft-ietf-bess-evpn-fast-df-recovery (Matthew)
 	- Luc Andre replied to RTGDIR comments
+  - To sort out: can we keep marking it as updating RFC7432 ? (based on Adrian's comment) => need to recheck definition of "UPDATE" (Matthew)
 
 
 ## Documents that failed Working Group Last Call 
@@ -110,10 +115,11 @@ Shepherd's name indicated within parenthesis.
 	- no objection during WGLC but too few replies from WG
   - Implementations exist
   - Luc Andre addressed RTGDIR comments
+  - Hold on until we can assess that there is more support
 
 - draft-ietf-bess-evpn-ipvpn-interworking:
-  - need feedback from IDR chairs on aggregation rules and attribute propagation.
-  - Authors needs to address IDR chair's comments
+  - Draft is on good track but haven't got confirmation from Jeff
+  - Action: Jeffrey to check with Jeff if he is fine with new text.
 
 
 ## Documents candidates for Working Group Last Call
@@ -121,18 +127,29 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-evpn-ac-aware-bundling
 	- RTGDIR review comments provided. Authors haven't replied
+  - Action: update in progress
+  
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
 	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress. 
+  
 * draft-ietf-bess-extended-evpn-optimized-ir-03 
-  - EXPIRED
+  - EXPIRED: Mankamana to send reminder for refresh
 	- RTGDIR review requested, not received
+  
 * draft-ietf-bess-rfc7432bis
-  - EXPIRED
-	- RTGDIR review comments received but no reply from authors
+  - EXPIRED: Mankamana to send reminder for refresh
+	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
+  
 * draft-ietf-bess-evpn-irb-extended-mobility (failed before, retry needed):
 	- Neeraj addressed RTGDIR comments
   - Probably ready to move fwd with new short WGLC
+  - Stephane to trigger WGLC -> 9/18
  
+* draft-ietf-bess-bgp-multicast-controller
+
+* draft-ietf-bess-bgp-multicast
+
+
 ## Recently adopted documents
 
 * draft-brissette-bess-evpn-vpws-seamless (6/14)
@@ -140,16 +157,26 @@ Shepherd's name indicated within parenthesis.
 
 ## Documents candidates for Working Group adoption
 
-
+* draft-trr-bess-bgp-srv6-args: (Matthew) -> 9/25
+	- draft has already multiple implementations (fixing issue in base RFC)
+ 
 * draft-sr-bess-evpn-dpath-01
-* draft-sajassi-bess-evpn-ip-aliasing-04
+	- Matthew to check with Jorge if it's ready 
+  
+* draft-sajassi-bess-evpn-ip-aliasing: (Jeffrey) -> Beg of October
  - Significant discussions happened, document is probably ready for adoption
+ 
 * draft-thubert-bess-secure-evpn-mac-signaling
  - Few discussion happened, hard to evaluate interest. Authors addressed comments.
+ - Hold on
+
 * draft-duan-bess-mvpn-ipv6-infras
 * draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
   - the above two should be considered together
-* draft-burdet-bess-evpn-fast-reroute
+  - Action: Matthew and Stephane to review both and come with a conclusion
+  
+* draft-burdet-bess-evpn-fast-reroute:
+	- no active discussion
 
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
@@ -165,7 +192,6 @@ Shepherd's name indicated within parenthesis.
 |draft-ietf-bess-evpn-mvpn-seamless-interop-04 | 6/30/23 |authors working on updating the draft |
 |draft-ietf-bess-mvpn-evpn-sr-p2mp | 3/6/23 | Update in progress based on SPRING WG comments |
 |draft-ietf-bess-weighted-hrw-00| 6/1/23 | update in progress |
-|draft-ietf-bess-bgp-multicast-05 |6/30/23| new update posted |
 |draft-ietf-bess-secure-evpn-00  | 6/30/23 | recently adopted |
 | draft-ietf-bess-ebgp-dmz-03  | 6/30/23 | Discussion with IDR to be solved |
 |draft-ietf-bess-evpn-vpws-seamless-00 | 6/30/23 | recently adopted |
