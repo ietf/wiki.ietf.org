@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-09-14T00:45:17.584Z
+date: 2023-09-14T22:35:05.671Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - September 14, 2023 
+# Informal Telechat - September 28, 2023 
 
- There will be a meeting on this date.
+ There WILL be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-* Andrew
-* Erik
-* Martin
+
 *
 
 ## Agenda
@@ -49,7 +47,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* RSWG Chair Appointment
+* Final BOF approvals
 
 #### Urgent but not important
 
