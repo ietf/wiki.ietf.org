@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-09-15T15:01:16.549Z
+date: 2023-09-15T15:08:34.906Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -179,11 +179,11 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Potential projects will focus around deployment and development on the SCION open source implementation. More info TBD.
 
 
-### DNS version 2030
+### Does Not Scale: Rethinking DNS for the Future of the Internet
 - **Champion(s)**
   - Petr Špaček (pspacek at isc.org)
 - **Project Info**
-  Brainstorming session with people who work on DNS protocol, write implementations and operate networks. How do we make DNS:
+  Brainstorming session with people who work on Domain Name System protocol, write implementations and operate networks. How do we make DNS:
     - ... transfers [scale to millions of zones](https://indico.dns-oarc.net/event/47/contributions/1017/)? And how do we monitor it?
     - ... protocol handle [humongous post-quantum crypto keys and signatures](https://indico.dns-oarc.net/event/46/contributions/985/)?
     - ... support distributed multi-master setups?
