@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-09-15T15:08:34.906Z
+date: 2023-09-15T15:09:34.914Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -179,7 +179,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Potential projects will focus around deployment and development on the SCION open source implementation. More info TBD.
 
 
-### Does Not Scale: Rethinking DNS for the Future of the Internet
+### *D*oes *N*ot *S*cale: Rethinking DNS for the Future of the Internet
 - **Champion(s)**
   - Petr Špaček (pspacek at isc.org)
 - **Project Info**
