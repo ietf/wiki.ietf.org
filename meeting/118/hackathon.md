@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-09-15T15:09:34.914Z
+date: 2023-09-15T15:18:01.131Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -185,7 +185,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project Info**
   Brainstorming session with people who work on Domain Name System protocol, write implementations and operate networks. How do we make DNS:
     - ... transfers [scale to millions of zones](https://indico.dns-oarc.net/event/47/contributions/1017/)? And how do we monitor it?
-    - ... protocol handle [humongous post-quantum crypto keys and signatures](https://indico.dns-oarc.net/event/46/contributions/985/)?
+    - ... protocol & transport handle [humongous post-quantum crypto keys and signatures](https://indico.dns-oarc.net/event/46/contributions/985/)?
     - ... support distributed multi-master setups?
     - ... extensible to new wire format & at the same time, **maintain a single namespace**?
     - ... simpler to operate? What if we [rethink basic assumptions](https://icann.zoom.us/rec/share/PUZu_QsO_rdY0gavMatzFOSVpZY1oNahNYnPBuy6pgTUJARw-YIOEzWEV11aqaHW.4Cwr3dGRlunUwhD9?startTime=1693897245000)? (see the talk starting at 33:40)
