@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-09-08T11:38:56.096Z
+date: 2023-09-21T13:57:27.586Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -124,17 +124,17 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-| draft-wang-idr-cpr-02 | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 7/28 to 8/14 | 
-|  draft-zhang-idr-sr-policy-metric-04 |  Susan Hares  |  Adoption and IPR Call  |  TBD        |  TBD   |  TBD | 7/28 to 8/14  | 
-|  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 7/28 to 8/14 | 
-| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 7/28 to 8/14  | 
-| draft-peng-idr-segment-routing-te-policy-attr | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | TBD| 
-| draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | TBD | 
+|  draft-zhang-idr-sr-policy-metric-04 |  Susan Hares  |  Adoption and IPR Call  |  TBD        |  TBD   |  TBD |9/21 to 10/5  | 
+| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 9/21 to 10/5  | 
+| draft-peng-idr-segment-routing-te-policy-attr | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 9/21 to 10/5| 
+| draft-wang-idr-cpr-02 | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 9/28 to 10/12 |
+|  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 9/28 to 10/12 | 
+| draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | 9/28 to 10/12  | 
+| draft-lin-idr-sr-policy-seglist-id | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/5 to1 10/19   | 
+| draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/5 to 10/19  | 
 |  draft-wu-idr-bgp-segment-allocation-ext-08  |  Susan Hares  |  on hold   |  IPR check  |  TBD    |  TBD             |  on hold    |
-| draft-lin-idr-sr-policy-seglist-id | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD | 
-| draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD | 
-| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD |
-| draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD |
+| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/12 to 10/26 |
+| draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/12 to 10/26  |
 {.dense}
 
 
