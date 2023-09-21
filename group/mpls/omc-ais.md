@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-09-07T15:18:56.740Z
+date: 2023-09-21T15:21:16.398Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z
@@ -23,6 +23,7 @@ Update:
   - 09/07: additional comments
            - to follow up on RLD and MSD limitation
            - to work with Joel on addressing NA conflicts
+  - 09/21: text proposed by Joel but not acked by authors 
 
 
 ## Closed Action Items
