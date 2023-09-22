@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T09:48:46.491Z
+date: 2023-09-22T10:30:28.049Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -59,7 +59,7 @@ Action 6:  EC to facilitate bringing eArchiving and respective requirements into
 
 Action 7: In collaboration with the Data Spaces Support Centre (DSSC), stakeholders to address the topic of gathering and processing data from different sources across domains which is becoming a priority and is largely encouraged trough standardisation actions. In several sectors a global approach may be helpful as regards reference data and vocabularies, dictionaries an other meta data and respective standardisation developments might be started in order to enhance interoperability and lower implementation costs.
 
-The following IETF WGs are active in this area:
+The following IETF Working Groups are active in this area:
 
 The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
 
@@ -105,25 +105,26 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecuri
 
 In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules. Proposed specific areas for SDOs to focus on are:
 
-Action 1: Continuing work on standardising browser functionalities and defaults to enable users to easily control whether they want to be tracked.
+Action 1:  Continuing work on standardising browser functionalities and defaults to enable users to easily control whether they want to be tracked.
 
-Action 2: SDOs to work on standardised solutions for location data used by mobile applications.
+Action 2:  SDOs to work on standardised solutions for location data used by mobile applications. ISO/IEC 29184 Information technology - Online privacy notices and consent is adopted unmodified as EN ISO/IEC 29184.
 
-Action 3: SDOs to investigate standards for supporting compliance and certification of compliance with GDPR and possible other EU data privacy requirements.
+Action 3: SDOs to investigate standards for supporting compliance and certification of compliance with GDPR and possible other EU data privacy requirements. . Also a gap analysis should be run so to understand needed future work that may have to be prioritised.
 
-Action 4: Promote EU-wide attention to standardisation of privacy statements and terms & conditions, given that there is mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, and taking into account the GDPR. The Kantara CIS work and the data use statements described in ISO/IEC 19944 could be used as a basis for this action.
+Action 4:  Promote EU-wide attention to standardisation of privacy statements and terms & conditions, given that there is mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, and taking into account the GDPR. The Kantara CIS work and the data use statements described in ISO/IEC 19944 could be used as a basis for this action.
 
 Action 5: SDOs to continue investigating technical measures apt to make personal data anonymous or pseudonymised (and therefore unintelligible by those who are not authorised to access them).
 
-Action 6: SDOs to continue investigating how to warrant a user-centric approach in privacy & access management: see http://www.laceproject.eu/blog/give-students-control-data/ andhttp://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centred-personal-data-management-and-processing.
+Action 6:  SDOs to continue investigating how to warrant a user-centric approach in privacy & access management:  see http://www.laceproject.eu/blog/give-students-control-data/ and 
+http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centred-personal-data-management-and-processing.
 
 Action 7: SDOs to prevent unwarranted pervasive monitoring by default when developing standards. This is not only relevant in the context the internet but also the IoT.
 
 Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.
 
-The [DNS PRIVate Exchange (dprive)](https://datatracker.ietf.org/wg/dprive/about/) WG develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
+The following IETF Working Groups are active in this area:
 
-The [DNS Over HTTPS (doh)](https://datatracker.ietf.org/wg/doh/about/) WG standardised encodings for DNS queries and responses that are suitable for use in HTTPS. This enables the domain name system to function over certain paths where existing DNS methods (UDP, TLS [RFC 7857], and DTLS [RFC 8094]) experience problems. [DNS Queries over HTTPS](https://datatracker.ietf.org/doc/rfc8484/) (RFC8484) was published in October 2018.
+The [DNS PRIVate Exchange (dprive)](https://datatracker.ietf.org/wg/dprive/about/) WG develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
 
 The [Privacy Pass (privacypass)](https://datatracker.ietf.org/wg/privacypass/about/) WG is standardising a protocol that provides a performant, application-layer mechanism for token creation and anonymous redemption. Servers (Issuers) create and later verify tokens that are redeemed by an ecosystem of clients, such that:
 
@@ -146,10 +147,10 @@ The ​Oblivious HTTP Application Intermediation (ohai) Working Group will defin
 
 The [Privacy Enhancements and Assessments Research Group](https://datatracker.ietf.org/wg/ohai/about/) (PEARG) in the IRTF is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the IETF in particular.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ePrivacy
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-303-eprivacy
 
 ## 3.1 Key enablers
-### 3.1.1 5G
+### 3.1.1 5G and beyond
 **RP:** The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.
 
 The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.
@@ -170,22 +171,30 @@ Interactions between IETF and 5G developments fall into several categories:
 - Dependencies on ongoing IETF work: The IETF [Deterministic Networking](https://datatracker.ietf.org/wg/detnet/about) (DETNET) Working Group defines mechanisms to guarantee deterministic delays for some flows across a network. As one of the 5G use cases is time-critical communication and low-latency applications, this is a component technology that is being looked at. Similarly, IETF routing-related work such as [traffic engineering](https://datatracker.ietf.org/wg/teas/about/), [service chaining](https://datatracker.ietf.org/wg/sfc/about) and [source routing](https://datatracker.ietf.org/wg/spring/about) are likely tools for managing traffic flows in 5G networks, as they are for other large service provider networks. 5G-related topics are also discussed in the [Distributed Mobility Management Working Group](https://datatracker.ietf.org/wg/dmm/about/).
 - There are many IETF tools already for dealing with virtualisation and separation of networks (see 3.1.2 Cloud computing, below), so the first order of business is mapping what can be done with those tools for the 5G use cases.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#FiveG
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-311-5g-and-beyond
 
 ### 3.1.2 Cloud and edge computing
-**RP:** The Communication on ICT Standardisation Priorities for the digital single market proposes priority actions in the domain of Cloud. Actions mentioned below reflect some of them.
+**RP:** The Communication on ICT Standardisation Priorities for the digital single market proposed priority actions in the domain of Cloud. Some actions are still relevant and mentioned below. Others come from the need to respond to the challenges of the Digital Decade Communication.
 
-Action 1: Identify needs for ICT standards to further improve the interoperability, data protection and portability of cloud services and start respective development activities.
+Action 1: Identify needs for ICT standards and open source technologies to further improve the interoperability, data protection and portability of cloud services and continue or start respective development activities. This should also take into account available open source technologies and their role for interoperability, data protection and management of multiple clouds.
 
-Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services.
+Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services as well as multi-cloud management.
 
-Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation.
+Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation. Foster a level playing field that allows the use of Open Source procedures and deliverables where they make economic sense complementing or substituting standardisation.
 
-Action 4: Promote international standards on service level agreements (SLAs) and usage of the cloud code of conduct (CoC).
+Action 4:  Promote international standards on service level agreements (SLAs) and usage of the cloud code of conduct (CoC).
 
-Action 5: ESOs are asked to update the mapping of cloud standards and guidelines for end-users (especially SMEs and the public sector), in collaboration with international SDOs, cloud providers and end users. This action could also draw on the material developed, e.g. to update the standards mapping carried out by cloud standards coordination phases 1 & 2.
+Action 5: Promote the use of the ISO/IEC JTC 1 reference cloud architecture and define generic cloud architecture building blocks. Map available standards to the generic cloud architecture building blocks. Define privacy, security and test standards for each building block. This will also help determine which standards can be used for open cloud platforms and architectures taking into account the key role of open source for cloud infrastructure design and implementations.
 
-Action 6: Promote the use of the ISO/IEC JTC 1 reference cloud architecture and define generic cloud architecture building blocks. Map available standards to the generic cloud architecture building blocks. Define privacy, security and test standards for each building block. This will also help determine which standards can be used for open cloud platforms and architectures taking into account the key role of open source for cloud infrastructure design and implementations.
+Action 6: Promote the development of adequate standards/open source developments to ensure a competitive playing field for cloud services provision in Europe and contribute to the green agenda.
+
+Action 7: SDOs and open source communities to foster their collaboration, mutual exchange, integration of Open Source outcomes in SDO deliverables and identification of technologies, e.g. APIs, that have been developed in open source and could be standardised.
+
+Action 8: SDOs should focus on addressing the edge/cloud X-continuum paradigm and standardisation challenges. In particular, due to huge increase of connected devices and systems, several computing deployments are embracing the notion of computing continuum, where the right compute resources are placed at optimal processing points, i.e., cloud data centre, edge computing systems and end devices, This requires the support of: (1) continuum of technologies across sensors, connectivity, gateways, edge processing, robotics, platforms, applications, Al, and analytics, including underlying technologies like optical, wireless (cellular and non-cellular) and satellite communications, (2) continuum of intelligence and edge capabilities, (3) continuum of edge applications across vertical sectors and seamless integration.
+
+Action 9: SDOs to prepare an overview of available open interoperability specifications that respond to the legal requirements outlined in the draft data act and that could be promoted for use to demonstrate compliance.
+
+Action 10: SDOs to Promote the development of a standard or a set of standards for processor sockets for cloud computing infrastructure.
 
 The IETF has multiple groups working on standards for virtualization techniques, including techniques used in cloud computing and datacenters.
 
@@ -201,17 +210,57 @@ The [System for Cross-domain Identity Management (SCIM) Working Group](https://d
 
 The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.org/rg/coinrg/about/) of the IRTF explores existing research and fosters investigation of “Compute In the Network” and resultant impacts to the data plane. The goal is to investigate how to harness and to benefit from this emerging disruption to the Internet architecture to improve network and application performance as well as user experience.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Cloud
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-312-cloud-and-edge-computing
 
-### 3.1.3. Big data, open data and public sector information
+### 3.1.3. Data interoperability
 **RP:** With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
 
 Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.
 
-Editor's note: No specific work identified in the IETF or IRTF
+The following IETF Working Group is active in this area:
+
+The [A Semantic Definition Format for Data and Interactions of Things (asdf) Working Group](https://datatracker.ietf.org/wg/asdf/about/) is tasked with developing [Semantic Definition Format (SDF)](https://datatracker.ietf.org/doc/draft-onedm-t2trg-sdf/) into a standards-track specification for thing interaction and data modelling. In the process of developing this specification, further functional requirements that emerge in the usage of SDF for model harmonization will be addressed.
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-313-data-interoperability
 
 ### 3.1.4. Internet of Things
-**RP:** The Communication on ICT standardisation priorities for the digital single market proposes priority actions in the domain of internet of things. Actions mentioned below reflect some of them. Action 1: SDOs to complement ongoing gap analysis by analysis of gaps in wireless technologies required by IoT, including URLL (Ultra Reliable Low Latency) technologies required by Industry Automation. Action 2: SDOs to continue ongoing work in the area of semantic standards for better data interoperability. Action 3: SDOs to provide standards that can be used for compliance for IoT products, systems, applications and processes. Action 4: Develop a European standard for cyber security compliance of products that is aligned with the current compliance framework of organisations based on ISO 270xx and the GDPR regulation. Preferably the standard could be used to harmonise the requirements set out in the NIS directive. Action 5: Promote the development and foster the adoption of the international Reference Architecture for IoT developed in ISO/IEC JTC 1 SC41. Action 6: SDOs to assess gaps and develop standards on safety and cybersecurity of IoT consumer products under the European Cybersecurity Act or sectorial legislation. Action 7: SDOs should consider further inclusion of and outreach to verticals.
+**RP:** The Communication on ICT standardisation priorities for the digital single market proposes priority actions in the domain of internet of things. Actions mentioned below reflect some of them.
+
+Action 1: SDOs to work on a landscape overview report and a gap analysis for IoT standardisation in the edge and swarm context.
+
+Action 2: SDOs to continue ongoing work in the area of semantic standards for better data interoperability. Special focus should be put on further extending the SAREF ontology both in number of extensions and the content of each extension and further evolve it towards the requirements of the common European Data Spaces.. The results of European projects (such as the large scale IoT pilots and similar) could be used to achieve this, by providing interoperability profiles, associated justifications (interoperability cases) that would extend current standards e.g., ISO 21823 IoT interoperability. SAREF should also be adapted for new realities such as edge computing, (federated) machine learning and AI, etc. SDOs should also continue ongoing work for existing standards (e.g. ISO 13584-1 or IEC 61360/ Common Data Dictionary) on semantics. Concepts for digital twins require additional property types for operational use compared to the purely descriptive properties of an asset. These are states and parameters of the assets as well as their measured and actor values (dynamic data). Commands and entire functions (often called technical functions) must also be described using the same concepts. The concept of properties in today’s standards is to extend such semantics in the data models to be able to represent dynamic values correctly. Models for functions/commands are to be developed or existing ones defined in standards.
+
+Action 3: SDOs to provide standards supporting compliance as well as standards enabling the integration of AI, data processing capabilities and digital twin systems into IoT products, systems, applications and processes. The digital twin part should cover aspects such as identifiers, trust, security, privacy, APIs, provisioning, monitoring, vocabularies and ontologies, metadata, etc.
+
+Action 4: Develop a European standard for cyber security compliance of products and systems that is aligned with the current compliance framework of organisations based on the ISO 27000 Information Security Management Standards series and the GDPR regulation and the future compliance framework of systems based on standards such as ISO/IEC 27100, ISO/IEC 27400, 27402, 27403, ISO 31700.. Preferably the standard could be used to harmonise the requirements set out in the NIS directive and the cybersecurity certification framework.
+
+Action 5: Promote the development and foster the adoption of novel Reference Architectures for IoT developed in ISO/IEC JTC 1/SC 41 and OneM2M. This architectures should interconnect highly heterogeneous and distributed edge nodes and (resource-constraint) devices and be compliant to the latest developments such as edge computing, distributed intelligence and learning, cognitive computing, mesh networking, swarm computing and digital twins.
+
+Action 6: SDOs to assess further gaps and develop standards on the safety and cybersecurity of IoT consumer products under the European Cybersecurity Act or sectorial legislation.
+
+Action 7: SDOs should consider further inclusion of and outreach to verticals.
+
+Action 8: SDOs should get involved in the definition of the technical common ground of the Common European Data Spaces to be developed and deployed under the Digital Europe and Horizon Europe programmes and leverage the IoT interoperability standardisation assets for that purpose. This could include the management of data lifecycle, common interoperability and discovery language, common data models, data curation network, trustworthiness, governance models, decentralised architecture, scale-up methodologoes, etc.
+
+Action 9: SDOs should look in the standardisation needs of the new edge paradigm and investigate the impact 
+on it of the specific use cases of the verticals (such as energy, mobility, agriculture, health and other). Specific concepts such as software containers, APIs and interfaces, etc. should be explored.
+
+Action 10: Increased collaboration/synchronization between standardisation bodies (e.g., ETSI SAREF, W3C SOSA/SSN, IEEE 1872.2 Autonomous Robotics Ontology, ISO 21823- 3 IoT Semantic Interoperability, etc.).
+
+Action 11: SDOs should consider addressing the standardisation of federated Learning and AI for IoT edge related challenges. In particular, federated Learning brings Al models close to the edge to enhance data protection, improve inference reliability, and increase autonomy of end clusters (e.g., end loT/lloT devices, on-premises servers, etc.). The cloud plays a federation role for aggregating insights from different loT edge distributed clusters to generate a federated model shared with each individual cluster. Such standardisation challenges are: (1) workflow standardisation, (2) interfaces edge/cloud, orchestration, (3) model contamination, and (4) pipes for handling distributed traffic.
+
+Action 12: SDOs should get involved in the standardisation of loT Swarm Systems. In particular, focus on concepts for loT intelligence clustering to promote collaboration and share of resources and functions for performing specific tasks. These concepts impose standardisation challenges in the required architecture, such as interfaces, data models and ontologies and as well as security and privacy models.
+
+Action 13: SDOs should focus on standardisation needs for IoT and edge computing 
+coexistence/integration/interoperability and continuum across several sectors and platforms. In particular, the use of end-to-end capabilities of IoT technologies across the edge granularity and beyond impose continuum standardisation challenges, such as support of interoperability by the means of new interfaces, data models, security and privacy models and security and privacy models.
+
+Action 14: SDOs should consider addressing standardisation challenges for service discovery and authentication in the context of distributed and federated edge computing systems and in particular, for scenarios where multiple mobile devices are used that require services simultaneously and uninterruptedly. There is a challenge of effectively managing billions of IoT devices, ensuring that they are suitably configured, running appropriate software, kept up-to-date with security updates and patches, and run only properly authenticated and authorised applications. Authentication of services and service providers, while accounting for resource usage, is also an essential part of the economics of the network of the future. There is a need of ensuring interoperability across platforms, devices, and locations, by enabling assets to be securely purchased and transferred between virtual and real-world locations, authenticated and validated, using various consensus methods that support the validation of identity, ownership, and usage rights of any asset subject to relevant rights.
+
+Action 15: SDOs should investigate and elaborate on system-level optimisation techniques combining lower power consumption and energy harvesting technologies, E2E energy methods and models for data compression and exchange in edge-cloud IoT platforms, benchmarking methods for energy-efficient and low CO2 footprint of edge IoT infrastructure and technical solutions, energy-efficient data aggregation mechanisms in intelligent edge IoT systems considering the associated processing and connectivity capabilities across the computing continuum. Specify (or modify existing) interfaces that help monitor and control of the energy usage in communication protocol layer stacks applied in IoT and edge computing solutions. Specify (or modify existing) IoT and edge computing related standards, interfaces, data models and ontologies to reduce the energy and carbon footprint.
+
+Action 16: SDOs should investigate IoT system level and network function virtualisation and AI-based zero-touch operations automation including automated reconfiguration and setup. 
+
+Action 17: SDOs to work towards a faster standardisation cycle more adapted to the fast pace of IoT technology developments. Some examples already exist (e.g. for SAREF and FIWARE).
 
 The IETF has a number of Working Groups chartered to develop standards to support the Internet of Things.
 
@@ -219,9 +268,9 @@ The [IPv6 Over Low Power WPAN (6LOWPAN) Working Group](https://datatracker.ietf.
 
 The [IPv6 over Networks of Resource-constrained Nodes (6LO) Working Group](https://datatracker.ietf.org/wg/6lo/about/) develops IPv6 adaptation mechanisms to a wider range of radio technologies including “Bluetooth Low Energy” (RFC 7668), ITU-T G.9959 (as used in Z-Wave, RFC 7428), and the Digital Enhanced Cordless Telecommunications (DECT) Ultra Low Energy (ULE) cordless phone standard and the low-cost wired networking technology Master-Slave / Token-Passing (MS/TP) that is widely used over RS-485 in building automation.
 
-The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf.org/wg/lpwan/about/) focuses on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa?, WI-SUN and NB-IOT.
+The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf.org/wg/lpwan/about/) focused on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa?, WI-SUN and NB-IOT.
 
-The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/roll/about/) focuses on helping the implementors of the smallest devices. The goal is to be able to build minimal yet interoperable IP-capable devices for the most constrained environments.
+The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/lwig/about/) focuses on helping the implementors of the smallest devices. The goal is to be able to build minimal yet interoperable IP-capable devices for the most constrained environments.
 
 The [Routing over Low Power and Lossy Networks (ROLL) Working Group](https://datatracker.ietf.org/wg/roll/about/) is developing standards to support the routing of communications within low-power and lossy networks.
 
@@ -250,18 +299,25 @@ but the LAKE must still provide the security properties expected of IETF protoco
 
 While the IoT-oriented IETF working groups have already produced the first wave of mature standards for IoT, new research questions are emerging based on the use of those standards. The IRTF [Thing-to-Thing Research Group (T2TRG)](https://irtf.org/t2trg) was chartered in 2015 to investigate open research issues in IoT, focusing on issues that exhibit standardisation potential at the IETF.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IOT
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-314-internet-of-things
 
 ### 3.1.5 Electronic identification and trust services including e-signatures
 **RP:** The eIDAS Regulation adopted on 23 July 2014 addresses in one comprehensive piece of legislation, electronic identification, electronic signatures, electronic seals, time stamping, electronic delivery, electronic documents and website certificates as core instruments for electronic transactions. To support the implementation of this highly technical regulation, further standardisation work will be needed. In the case of trust services, the planned secondary legislation refers extensively to the availability of standards as possible means to meet the regulatory requirements. Existing standards should be checked to take account of the protection of individuals with regard to personal data processing and the free movement of such data. Specific privacy by design standards should be identified and where needed developed. The accessibility needs of persons with disabilities should also be taken into account.
 
-Action 1. Build on the work done under Mandate M/460, in the following way: address the trust service providers (TSP) providing signature creation services, the TSPs providing signature validation services, and standards for trust application service providers. Support harmonisation of identity proofing, particularly in relation certificate issuance and remote signing.
+Action 1. Take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, European and international standards should be aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported.
 
-Action 2. Take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, European and international standards should be aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported.
+Action 2: As required by the framework established under the proposed regulatory framework for European Digital Identities prepare standards for
+- interfaces between the European Digital Identity Wallet and trust services as well as services for signing by means of electronic signatures and seals
+- interfaces between the European Digital Identity Wallet and relying parties and issuers of electronic attestations of attributes
+- Issuance and revocation of wallets and electronic attestation of attributes
+- security evaluation and certification of the European Digital Identity Wallet
+- Protocol and security standards for new trust services including electronic attestation of attributes , electronic archiving and electronic ledgers.
+- Supporting additional requirements for identity proofing and validation of attributes.
+- Adapting existing standards to take into account new provisions of eIDAS 2.0 including alignment with NIS2 and ensuring that the requirements of privacy by design are met.
+- Next generation of registered electronic mail and electronic delivery to take account of new services available under eIDAS 2.0 including EU digital identity wallets and electronic ledgers.
+- Use of electronic identities and electronic signatures with electronic ledgers in support of smart contracts.
 
-Action 3. Support and improve the development of interoperable standards by facilitating the organisation of plugtests (interoperability events) and developing and enhancing conformity testing tools. Such interoperability events may address CAdES, XAdES, PAdES, ASiC, use of trusted lists, signature validation, remote signature creation and validation, e-delivery services, preservation services, etc.
-
-Action 4. Foster the development of standards supporting the implementation of the measures derived from the revision of the eIDAS regulation, aimed to improve its effectiveness, extend its benefits to the private sector and promote trusted digital identities for all Europeans.
+Action 3: SDOs to cooperate and work in the areas of identifiers, vocabularies, semantics, taxonomies, ontologies for electronic attestations
 
 The following IETF Working Groups are active in this area:
 
@@ -269,11 +325,11 @@ The [Web Authorization Protocol (OAUTH) WG](https://datatracker.ietf.org/wg/oaut
 
 The ongoing standardisation effort within the OAUTH working group is focusing on enhancing interoperability of OAUTH deployments.
 
-The [Public Notary Transparency (TRANS) WG](https://datatracker.ietf.org/wg/trans/about/) develops a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
+The [Public Notary Transparency (TRANS) WG](https://datatracker.ietf.org/wg/trans/about/) developed a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
 
 The [Automated Certificate Management Environment (ACME) WG](https://datatracker.ietf.org/wg/acme/about/) specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eIdentity
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-315-electronic-identification-and-trust-services-including-e-signatures
 
 ### 3.1.6 e-Infrastructures for research data and computing intensive science
 Editor's note: No specific work identified in the IETF or IRTF
