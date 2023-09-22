@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T12:45:24.396Z
+date: 2023-09-22T12:51:10.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -59,7 +59,7 @@ Action 6:  EC to facilitate bringing eArchiving and respective requirements into
 
 Action 7: In collaboration with the Data Spaces Support Centre (DSSC), stakeholders to address the topic of gathering and processing data from different sources across domains which is becoming a priority and is largely encouraged trough standardisation actions. In several sectors a global approach may be helpful as regards reference data and vocabularies, dictionaries an other meta data and respective standardisation developments might be started in order to enhance interoperability and lower implementation costs.
 
-The following IETF Working Groups are active in this area:
+The following IETF Working Group is active in this area:
 
 The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
 
