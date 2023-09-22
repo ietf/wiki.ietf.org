@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T10:49:19.766Z
+date: 2023-09-22T12:29:27.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -440,24 +440,78 @@ Since quantum networks are so different when compared to classical networking, t
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3111-quantum-technologies
 
 ## 3.2 Societal challenges
-### 3.2.1 eHealth, healthy living and ageing
+### 3.2.1 Digital Health, healthy living and ageing
 Editor's note: No specific work identified in the IETF or IRTF
 
-### 3.2.2 Education, digital skills and digital learning
+### 3.2.2 Digital skills
 Editor's note: No specific work identified in the IETF or IRTF
 
-### 3.2.3 Emergency communications and public warning systems
+### 3.2.3 Digital learning
+Editor's note: No specific work identified in the IETF or IRTF
+
+### 3.2.4 eGovernment
+Editor's note: No specific work identified in the IETF or IRTF
+
+### 3.2.5 eCall
+**RP:** In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually. Further conformance, performance and periodic tests need to be developed and innovative solutions found for situations (such as low cost, low power P2WVs) where normal full eCall provisions are not practical. The European eCall Implementation Platform is making recommendations to ensure the best operation of the service and to take full advantage of all its possibilities. eCall is regulated for the life of the vehicle, and further provisions may be required in respect of periodic technical inspection (PTI) and test, and at end of life decommissioning. Recognising that introducing the service via new vehicle models will mean taking considerable time to equip all cars, EU regulation has already encouraged automotive manufacturers to voluntarily introduce eCall in existing models. However, now that the public land mobile network (PLMN) and PSAP support networks are in place and operational, there is a considerable aftermarket opportunity to bring the benefits of eCall to the current stock of vehicles throughout Europe, and several equipment vendors (both from within Europe and abroad) have already shown interest to fill this market niche, in some cases directly for 112-eCall, and in others for third-party service-supported eCall. Other entrants are expected. However, as it will prove more difficult to control the performance and quality of such aftermarket devices, there is an urgent need to develop standards for the physical parameters, installation and operational performance of such aftermarket devices, to enable adequate certification and PTI provisions. This will be essential to avoid PSAPs to be potentially inundated with false messages from such devices, and to increase the reliable and safe operation of such devices. Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to the current regulations.
+
+Action 1: SDOs to develop technical specification and standards for the implementation of eCall in vehicles of categories other than M1 and N1 and for other user types, taking into account requirements included within type-approval regulation and ongoing activities in this area (pilots, the Connecting Europe Facility (CEF), etc).
+
+Action 2: SDOs to lay down physical and operating requirements for aftermarket in-vehicle devices.
+
+Action 3: SDOs to draft guidelines on certification of eCall Systems including aftermarket in-vehicle devices.
+
+Action 4: SDOs to provide conformance and performance tests to the recently developed standards for packet-
+switched networks (HLAP E-UTRAN — LTE/4G and migration to further generations by use of an IMS sublayer)
+
+Action 5: SDOs to develop conformance and performance tests for recently developed technical specifications / standards for the provision of the eCall service eCall via shared vehicle platforms (C-ITS).
+
+Action 6: SDOs to produce detailed conformity test specifications in support of certification schemes and periodic testing on IVS equipment.
+
+Action 7: SDOs to carry out plugtest interoperability events, taking into account the technological evolution of the system [1].
+
+Action 8: SDOs to collect feedback about the early versions of the standards and their implementation with technical representatives from vendors and implementers.
+
+Action 9: SDOs to collect feedback from the relevant stakeholders on the real operation of the eCall service and when needed improve the standards, including through the European eCall Implementation Platform.
+
+Action 10: SDOs to consider any changes to eCall that may be relevant in a 5G paradigm.
+
+Action 11: In view of technology and networks evolution , SDOs to consider the development of conformance and interoperability test specifications for eCall provided over 4G (using VoLTE) and 5G (and VoNR) networks. When developing these specifications, considered the work done in CEN TS 17240
+
+The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
+
+The [Geographic Location/Privacy (GEOPRIV) Working Group](https://datatracker.ietf.org/wg/geopriv/about/) has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
+
+The application-specific working groups in the IETF (for example, the [Session Initiation Protocol Core (SIPCORE) Working Group](https://datatracker.ietf.org/wg/sipcore/about/)) have developed extensions to support emergency calling as required.
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-325-ecall
+
+### 3.2.6 Pandemic preparedness
+Editor's note: No specific work identified in the IETF or IRTF
+
+### 3.2.7 Safety, transparency and due process online
+Editor's note: No specific work identified in the IETF or IRTF
+
+### 3.2.8 Emergency communications and public warning systems
 **RP:** The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC). Standards for total conversation access to 112 are required to meet special needs for users’ rights under Directive 2009/136/EC. The lack of harmonised values for location accuracy and reliability hampers Member State's efforts to develop adequate solutions.
 
-Action 1 SDOs to address data protection and privacy requirements (privacy by design) in ongoing standardisation activities concerning location accuracy.
+Action 1: SDOs to update the existing standards to reflect the conceptual framework of the Directive (EU) 2018/1972, in particular where the concept of 'emergency services' is not consistently used to reflect the 'public safety answering points' or 'emergency communications' (for example ETSI TS 103 479).
 
-Action 2 Identify standardisation needs for the deployment of 112 smartphone applications enhanced with caller location and multimedia features accessible for the widest range of users. Action 3 SDOs to complete the M/493 standards to support the location-enhanced emergency call service. Global standards bodies are invited to contribute taking into account next-generation networks and location accuracy and reliability. Action 4 SDOs to identify the standardisation needs for the transmission of the GNSS location data from the handset to the PSAPs by mobile network operators. Action 5 SDOs to define dictionaries for warning messages for emergency communication service based on the input of various civil protection agencies. Action 6 SDOs to add rich media to the EU-Alert.
+Action 2: SDOs to address data protection and privacy requirements (privacy by design) in ongoing standardisation activities concerning emergency communications and processing and transmission of caller location information.
 
-Action 7 SDOs to define requirements for communications involving IoT devices in all types of emergency situations.
+Action 3: SDOs to identify the applicable specifications and standardisation needs for the transmission of handset derived caller location to the most appropriate PSAPs by mobile network operators in both, user plane and control plane modes.
 
-Action 8 SDOs to describe the architecture (currently named Next Generation Emergency Communication architecture), the core elements and corresponding technical interfaces for network independent access to emergency services.
+Action 4: SDOs to identify interoperability issues for packet switched emergency communications (e.g: VoLTE) at network and handset level, in particular when using roaming services.
 
-Action 9 SDOs to set requirements, functional architecture, protocol and procedures specification for a Pan European mobile emergency application. Action 10 ESOs to elaborate standards on accessibility of emergency number 112 as arising under the European Accessibility Act.
+Action 5: SDOs to set requirements, functional architecture, protocol and procedures specification for a Pan European mobile emergency application. Identify standardisation needs for the deployment of emergency applications enhanced with caller location information and accessibility  features for the widest range of users, including end-users living with disabilities.
+
+Action 6: ESOs to elaborate standards on accessibility of emergency communications as arising under the European Accessibility Act.
+
+Action 7: to support the standardization of emergency SMS, in particular to '112', to enable the correct routing while roaming services are used.
+
+Action 8: SDOs to define dictionaries for public warning messages for emergency communication services based on the input of various civil protection agencies.
+
+Action 9: SDOs to identify standardisation needs for the establishment of a Union wide public warning system in line with recital 294 of Directive (EU) 2018/1972.
 
 The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
@@ -467,27 +521,7 @@ The application-specific working groups in the IETF (for example, the [Session I
 
 The [Secure Telephone Identity Revisited (STIR) WG](https://datatracker.ietf.org/wg/stir/about/) is developing Internet-based mechanisms that allow verification of the calling party's authorisation to use a particular telephone number for an incoming call. The main focus is on the SIP as one of the main VoIP technologies used by parties that want to misrepresent their origin, in this context the telephone number of origin. See, for example, [RFC7375 "Secure telephone identity threat model"](https://datatracker.ietf.org/doc/rfc7375/).
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Emergency
-
-### 3.2.4 eGovernment
-Editor's note: No specific work identified in the IETF or IRTF
-
-### 3.2.5 eCall
-**RP:** In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually. Further conformance, performance and periodic tests need to be developed and innovative solutions found for situations (such as low cost, low power P2WVs) where normal full eCall provisions are not practical. The European eCall Implementation Platform is making recommendations to ensure the best operation of the service and to take full advantage of all its possibilities. eCall is regulated for the life of the vehicle, and further provisions may be required in respect of periodic technical inspection (PTI) and test, and at end of life decommissioning. Recognising that introducing the service via new vehicle models will mean taking considerable time to equip all cars, EU regulation has already encouraged automotive manufacturers to voluntarily introduce eCall in existing models. However, now that the public land mobile network (PLMN) and PSAP support networks are in place and operational, there is a considerable aftermarket opportunity to bring the benefits of eCall to the current stock of vehicles throughout Europe, and several equipment vendors (both from within Europe and abroad) have already shown interest to fill this market niche, in some cases directly for 112-eCall, and in others for third-party service-supported eCall. Other entrants are expected. However, as it will prove more difficult to control the performance and quality of such aftermarket devices, there is an urgent need to develop standards for the physical parameters, installation and operational performance of such aftermarket devices, to enable adequate certification and PTI provisions. This will be essential to avoid PSAPs to be potentially inundated with false messages from such devices, and to increase the reliable and safe operation of such devices. Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to the current regulations.
-
-The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
-
-The [Geographic Location/Privacy (GEOPRIV) Working Group](https://datatracker.ietf.org/wg/geopriv/about/) has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
-
-The application-specific working groups in the IETF (for example, the [Session Initiation Protocol Core (SIPCORE) Working Group](https://datatracker.ietf.org/wg/sipcore/about/)) have developed extensions to support emergency calling as required.
-
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#eCall
-
-### 3.2.6 Covid-19
-Editor's note: No specific work identified in the IETF or IRTF
-
-### 3.2.7 Safety, transparency and due process online
-Editor's note: No specific work identified in the IETF or IRTF
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-328-emergency-communications-and-public-warning-systems
 
 ## 3.3 Innovation for the Digital Single Market
 ### 3.3.1 e-Procurement – Pre and Post award
@@ -502,17 +536,7 @@ Editor's note: No specific work identified in the IETF or IRTF
 ### 3.3.4 Preservation of digital cinema
 Editor's note: No specific work identified in the IETF or IRTF
 
-### 3.3.5 Fin-Tech and Reg-Tech standardisation
-**RP:** Traditional financial institutions realize they have a lot to lose or gain from the Fintech revolution and invest huge effort and money to adapt their technology and processes to adjust to a new environment, find a place in this new ecosystem, compete with new business models and respond to new consumer needs and behaviours. Across Europe, there has been considerable uptake of new digital channels: over 58% of Western Europeans (85% for Northern Europeans) prefer to use digital over physical branches, compared to 52% of US bank customers. These trends have grabbed the attention of investors who have made massive investments, growing by 75% in 2015 to $22.3bn, five times higher than in 2013.
-
-Fintech start-ups appear with innovative solutions challenging existing financial services business models, markets and regulation. The existing legal framework is being reviewed at EU level and the concept of regulatory experimentation frameworks (or sandboxes) explored to help address this transformation and enable innovation.
-
-Some regulatory adjustments have already been adopted such as amendments to the Anti-Money Laundering directive and the use of electronic identification. Since July 2016, the Electronic Identification and Trust Services Regulation can give e-transactions and other e-signed documents the same legal status as those that are paper-based. The new Capital Requirement Regulation CRR2 package adopted in 2016 takes technological innovations into consideration, and so is the 2017 Action Plan for Retail Financial Services.
-
-Following several public consultations regarding financial services and the EU Parliament report on blockchain and virtual currencies, the Commission has set-up a horizontal Financial Technology Task Force to explore the impact of new financial technologies on consumers and businesses and the possible risks for financial stability. One of the work streams of the Task Force focuses on Interoperability and Standardisation.
-
-In parallel, and in relation to the need for more harmonised supervisory reporting, in its Communication on the CfE: “EU regulatory framework for financial services" the Commission committed to investigate and address the concerns around the costs and complexity of reporting by undertaking a review of reporting requirements in the financial sector. This work is performed within the ongoing financial data standardisation (FDS) project which will produce a comprehensive mapping of reporting requirements and aims to develop a common language on financial data. This initiative forms a key contribution to the Commission's Better Regulation agenda and the Regulatory Fitness and Performance (REFIT) programme, which ensures that EU Legislation delivers results for citizens and businesses effectively, efficiently and at minimum cost.
-
+### 3.3.5 FinTech and RegTech standardisation
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.3.6 Blockchain and Distributed Digital Ledger Technologies
@@ -532,7 +556,7 @@ Action 1: The standardisation community should continue analysing possible stand
 
 Action 2: Regularly update the white paper on the EU perspective on blockchain/DLT standardisation.
 
-Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, TOOP, etc..) and submit them to relevant standardization bodies, including CEN-CENELEC and ETSI, and also ISO, ITU
+Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, AMLD, TOOP, etc..) and submit them to relevant standardisation bodies, including CEN & CENELEC and ETSI, and also ISO, ITU
 
 Action 4: Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
 
@@ -540,19 +564,40 @@ Action 5: Standardisation of the operation and reference implementation of permi
 
 Action 6: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
 
-Action 7: A general framework for Governance of the European networks based on DLT should be developed to allow the flow of smart contracts between different networks.
+Action 7: ESOs to develop standards in line with the Data Act legislative proposal, in particular regarding essential requirements for smart-contracts. In addition, it would be recommended to explore a general framework for Governance of the European networks based on DLT to allow the flow of smart contracts between different networks.
 
-Action 8: ESOs to develop the standards needed for the for the introduction of a private-sector programmable Euro, in particular to ensure interoperability.
+Action 8: ESOs to develop the standards needed for the introduction of Digital Euro (CBDC) and token economy (upcoming MiCA Regulation), in particular to ensure interoperability with smart-contracts, legacy systems, etc. The revised legislative proposal of MiCA regulation introduces links with the EU Sustainable Finance taxonomy, thus activities towards assessing CO2 footprint of different blockchains/DLTs are very welcome. 
 
-The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datatracker.ietf.org/rg/dinrg/about/) will investigate open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
+Action 9: SDOs to develop standards to support the eIDAS2 proposal requirements related to Electronic Ledgers.
 
-More details of the DIN RG are [available](https://trac.ietf.org/trac/irtf/wiki/blockchain-federation).
+Action 10: Standardisation efforts to analyze and if needed, enhance the interoperability and international compatibility of the current and pending EBSI topics and capabilities previously mentioned.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Ledger
+The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datatracker.ietf.org/rg/dinrg/about/) investigates open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-336-blockchain-and-distributed-digital-ledger-technologies
+
+### 3.3.7 Web 4.0 and virtual worlds
+Editor's note: No specific work identified in the IETF or IRTF
 
 ## 3.4 Sustainable growth
 ### 3.4.1 Smart grids and Smart Metering
 **RP:** Standards are needed to cover the communication needs of the grid management, balancing and interfacing with the millions of new renewable sources, as well as standards for the complex interactions of the new distributed energy market, and in special a transparent Demand Response scheme which is accessible for all consumers. Communication standards will also be crucial for the deployment of electric cars and the building-up of smart cities. Harmonised communication protocols would provide standard components and interfaces giving ‘plug-and-play’ capability for any new entrant to the network, such as renewables or electric cars, or the use of open architectures based on global communication standards. To further promote interoperability, in addition to standardisation, testing and profiling should also be considered. A major challenge is engaging the right stakeholders which need to be brought together to conduct the standardisation work taking into account that between smart grid management (of relevance to utility producers, the utility network operators) and smart consumption (involving the end consumer) a seamless environment should be established where interests are not identical and potentially conflicting.
+
+Action 1: Active involvement and participation of CEN & CENELEC CG-SG experts in the ongoing work of the Smart Grids Task Force on interoperability for access to data in a smart grid environment, building upon available standards.  This is to prepare the ground for implementing acts on interoperability requirements and transparent and non-discriminatory procedures for access and exchange of data. The respective reports from this latest strand of work, as well as earlier deliverables from other activities of the Task Force are available on the smart grids task force dedicated webpage (CIRCA BC), which is a collaborative platform that gives access to all task-force documents, via the platform library”.
+
+Action 2:  ETSI, CEN & CENELEC and the other relevant SDOs and related organisations (such as DLMS, KNX and others) should combine their efforts to further enrich and extend the SAREF4ENER extension as well as the main SAREF ontology (including interoperability profiles and associated justifications (interoperability cases) from large-scale projects). The ETSI SAREF portal, which was launched recently, could be one of the tools to be leveraged for this purpose. Security aspects should be investigated. All new additions to the SAREF specifications should be transposed into the OneM2M specifications. A number of European projects could contribute to a larger scale deployment of SAREF-based solutions such as the Operational Digital Platforms under CEF Digital and the deployment of a common European data space in the DIGITAL programme, which will be prepared in Horizon Europe. An EN describing the principles of SAREF, thus avoiding annual updates, which is in the pipeline, should be completed. The updates needed to make SAREF fit for digital twins, edge-cloud IoT continuum, AI as well as other recent technological developments should be investigated and developed.
+
+Action 3: CEN & CENELEC, IEEE and OASIS to foster their cooperation to ensure complementary parallel standardisation efforts, to avoid serious conflicts between their respective standardisation deliverables. This action should notably be undertaken in the context of H2-type standards (the interface used for smart grid communication), distributed energy resources and the smart grids architecture model as developed under M/490.
+
+Action 4: ETSI, CEN & CENELEC should collaborate with the H2020 IoT Large Scale Pilot on Smart Grids and Smart Homes INTERCONNECT to include the outcomes and recommendations from the project into the SAREF4ENER and SAREF4BLDG standards.  All new additions to the SAREF specifications should be transposed into the OneM2M specifications. The principles of SAREFisation should also be included.
+
+Action 5: ETSI, CEN & CENELEC should collaborate with (or participate in) the Horizon Europe projects, which will establish the foundations for a Common European Energy Dataspace, and help identify, develop and standardise a set of common technical specifications for it. They should also collaborate with an upcoming Horizon Europe project on establishing an interoperable ecosystem in the energy area through creating a set of Minimum Interoperability Mechanisms for the energy sector.  
+
+Action 6: SDOs and related stakeholders and initiatives should work towards cross-sector interoperability, in particular for data exchange between grid, building and mobility domains.
+
+Action 7: SDOs, in particular their grid-oriented, mobility-oriented, DER-oriented and storage-oriented technical committees, should cooperate to develop standards enabling the electric vehicles (with their – on-board or off-board – chargers) to play an active role through demand-response up to offering grid services.
+
+Action 8: SDOs should collaborate with the project(s) resulting from call HORIZON-CL5-2023-D3-01-15 “Supporting the green and digital transformation of the energy ecosystem and enhancing its resilience through the development and piloting of AI-IoT Edge-cloud and platform solutions” to modify existing standards or adopt new ones based on the standardisation work and deliverables of the project(s).
 
 [RFC6272](http://www.rfc-editor.org/rfc/rfc6272.txt) identifies the key infrastructure protocols of the Internet Protocol Suite for use in the Smart Grid. The target audience is those people seeking guidance on how to construct an appropriate Internet Protocol Suite profile for the Smart Grid. In practice, such a profile would consist of selecting what is needed for Smart Grid deployment from the picture presented here.
 
@@ -560,10 +605,35 @@ The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) h
 
 Many of the IETF Working Groups listed under section 3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to Smart grids.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartGrid
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-341-smart-grids-and-smart-metering
 
-### 3.4.2 Smart Cities and communities / Technologies and Services for smart and efficient energy use
+### 3.4.2 Smart and sustainable cities and communities
 **RP:** In standards terms, there are some over-arching requirements, concerning standards for the way cities are managed, for common terminologies, for citizens’ interface with their local authority, etc. But mainly, smart city standards topics relate to the need to ensure commonalities —as far as these are appropriate and cost-effective— between the approaches taken by the different application areas, to enable the city to derive the best horizontal advantage from its overall approach and above all benefit from interoperability. The standards requirements as such for these application areas are specified in the Rolling Plan elsewhere at the appropriate points. The core components in such a complex system are the frameworks that assist companies, cities and other actors to provide appropriate solutions that prioritise economic, social and environmental outcomes. Solutions should address the whole lifecycle, optimising environmental, social and economic outcomes through the seamless transfer of information.
+
+Action 1: Concerning Local Digital Twins, the following should be undertaken:
+- A Toolbox for Local Digital Twins will be developed as an initial repository of mechanisms, and as a basis for validation leading to formal standardisation.
+- Facilitation of the European Task Group on Local Digital Twins, including secretariat support.
+- Facilitating the development of a work item on ITU-T SG20 coordinated e.g. with the IEC Smart Cities Systems Committee, JTC1, ISO/TC 268, CEN Sector Forum on Smart and Sustainable Cities- Task Group on Local Digital Twins, ETSI Task force on Digital Twins and ISG on cross-cutting Context Information Management (ISG CIM), and OGC.
+- Develop the necessary preparatory steps for relevant proposals on the standardisation of MIMs Plus: the Living-in.EU Technical Group.
+
+Action 2: SSDOs to consider the recommendations of the ETSI Technical Report 103 455 “Smart cities and communities; standardisation for citizens and consumers” and review how they could incorporate the proposals for organizational improvements to benefit smart city standardisation’s coverage of citizen/consumer issues, and for guidance material, codes of conduct and standards.
+
+Action 3: Taking into account the results of the EU funded projects ESPRESSO and SynchroniCity, and in cooperation with city-led initiatives like the Smart Cities Marketplace demand-side group on Urban Platforms, the Open and Agile Smart Cities (OASC) network and Living-in.EU, SDOs should continue developing standards and technical specifications needed for a global market of open service platforms and applications for cities and communities,including for local digital twins, aligning their activities and integrating different standards and complementing protocols and communication standards. Possible actions in this sense could be:
+- An open catalogue of the best practise and lessons learned of Smart Cities in using standards
+More promotion at local and regional level of the existing standards and their functionalities ("outreach to the grass roots"), levering Living-in.EU.
+- Guidelines or specifications for federating Smart City data spaces (selective access) and for data marketplaces across cities and communities
+- Referencing of ITU-T FG DPM work in ETSI work, to reduce “parallel evolution” between the ESOs and ITU
+- Interworking of NGSI-LD on top of the oneM2M platform
+- Further recommendations for SAREF extensions and evolutions to cover wider applications in different (urban) vertical applications and across applications.
+- Operational guidelines on modelling of real-world systems in ways that are extensible and shareable so that Smart City engineers and technical decision-makers have blueprints to speed their work and ease re-use of Big Data.
+- Activities to promote standardised ontologies (as is beginning in the SmartGrid area) to improve cross-border efficiencies
+- Guidelines or specifications to ensure NGSI-LD could be installed with SAREF family of ontologies
+- Guidelines or specifications for NGSI-LD on how to add the provenance of information to each dataset, so that licensing, GDPR information, and appropriate security/confidentiality features can be enabled.
+- Development of open Test Suites for standards-based solutions, not limited to particular software implementations, to allow improved efficiency in procurement ("does it meet the Tests?") and assessment ("does the system run as expected?")
+
+Action 4: Define a set of standards and related criteria, value proposition and applicability statements for the deployment of platforms for cities and communities under the Digital Europe Programme. The set will be based on the EIP-SCC Reference architecture and design principles for urban platforms, the OASC Minimum Interoperability Mechanisms, OneM2M, NGSI-LD and SAREF and will further specify the minimum standardisation requirements to be met to achieve the goal of Interoperable European ecosystem of platforms and applications.
+
+Action 5:  Related to the CitiVerse, define a pre-standardisation roadmap to cater for a set of well-stablished technical standards to address the technological challenges and constraints arising from vertical technologies, and key enablers touching intrinsic EU-values, such as trust, security, privacy, sustainability and accessibility, openness, interoperability. All of it, driven by concrete use cases focusing on citizen’s engagement and predictive services for city’s efficiency. 
 
 The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
 
@@ -571,7 +641,7 @@ A recently published standards track specification ([RFC7603](https://tools.ietf
 
 Many of the IETF Working Groups listed under section 3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to this section.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#SmartEnergy
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-342-smart-and-sustainable-cities-and-communities
 
 ### 3.4.3. ICT Environmental Impact
 **RP:** A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.
