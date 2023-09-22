@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T12:29:27.393Z
+date: 2023-09-22T12:40:35.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -646,11 +646,21 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-342-smart-and-s
 ### 3.4.3. ICT Environmental Impact
 **RP:** A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.
 
+Action 1: Definition of Global KPIs for Energy Management of Fixed and Mobile access, and Core networks.
+Action 2: Guidelines for the use of Global KPIs for Data Centres.
+Action 3: Definition of Global KPIs for Data Services.
+Action 4: Guidelines for the definition of Green Data Services.
+Action 5: Definition and guidelines of KPIs for ICT networks.
+Action 6: SDOs to identify needs and develop standards to support UN SDGs, in particular KPI for both synergies and conflicts in Digital transformation and Green transition projects.
+Action 7: ETSI, in collaboration with the EGDC, to consider possible paths for ITU L.1480 and L.1333 to be made available for European standardisation to meet EU policy objectives.
+
 The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
 
 A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTenvironment
+The [Internet Architecture Board](https://www.iab.org/) has recently established the [Environmental Impacts of Internet Technology (E-Impact)](https://datatracker.ietf.org/group/eimpact/about/) program as a venue for discussing environmental impacts and sustainability of Internet technology. Within this scope, the program looks at trends, issues, improvement opportunities, ideas, best practices, and subsequent direction of work related to Internet technology, architecture, and operations, including visibility and efficiency on energy and other environmentally-impacting attributes. In particular, the group focuses on Internet architecture's role in these topics.
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environmental-impact
 
 ### 3.4.4. European Electronic Toll Service (EETS)
 Editor's note: No specific work identified in the IETF or IRTF
@@ -658,19 +668,13 @@ Editor's note: No specific work identified in the IETF or IRTF
 ### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility
 **RP:** To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.
 
-The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
-
-The https://datatracker.ietf.org/wg/geopriv/about/ Geographic Location/Privacy? (GEOPRIV) Working Group) has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
-
-The application-specific working groups in the IETF (for example, the https://datatracker.ietf.org/wg/sipcore/about/ Session Initiation Protocol Core (SIPCORE) Working Group) have developed extensions to support emergency calling as required.
-
-The [IP Wireless Access in Vehicular Environments (ipwave) WG](https://datatracker.ietf.org/wg/ipwave/about/) works on Vehicle-2-Vehicle (V2V) and Vehicle-2-Internet (V2I) use-cases where IP is well-suited as a networking technology and will develop an IPv6 based solution to establish direct and secure connectivity between a vehicle and other vehicles or stationary systems. These vehicular networks are characterized by dynamically changing network topologies and connectivity.
+The [IP Wireless Access in Vehicular Environments (ipwave) WG](https://datatracker.ietf.org/wg/ipwave/about/) worked on Vehicle-2-Vehicle (V2V) and Vehicle-2-Internet (V2I) use-cases where IP is well-suited as a networking technology and will develop an IPv6 based solution to establish direct and secure connectivity between a vehicle and other vehicles or stationary systems. These vehicular networks are characterized by dynamically changing network topologies and connectivity.
 
 V2V and V2I communications may involve various kinds of link layers: 802.11-OCB (Outside the Context of a Basic Service Set), 802.15.4 with 6lowpan, 802.11ad, VLC (Visible Light Communications), IrDA, LTE-D, LP-WAN. One of the most used link layers for vehicular networks is IEEE 802.11-OCB, as a basis for Dedicated short-range communications (DSRC). Several of these link-layers already provide support for IPv6. However, IPv6 on 802.11-OCB is yet to be fully defined. Some aspects of the IPv6 over 802.11-OCB work have been already defined at IEEE 1609 and the specification produced by this working group is expected be compatible with these aspects.
 
-This group's primary deliverable (and the only Standards track item) will be a document that will specify the mechanisms for transmission of IPv6 datagrams over IEEE 802.11-OCB mode.
+This group's primary deliverable is [RFC8691, a standard to specify the mechanisms for transmission of IPv6 datagrams over IEEE 802.11-OCB mode](https://www.rfc-editor.org/rfc/rfc8691.pdf).
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#IntelligentTransport
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-345-intelligent-transport-systems-(its)
 
 ### 3.4.6 Digitisation of European Industry
 Editor's note: No specific work identified in the IETF or IRTF
