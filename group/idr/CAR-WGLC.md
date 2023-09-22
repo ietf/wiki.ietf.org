@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2023-09-22T13:27:10.796Z
+date: 2023-09-22T13:31:06.486Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
@@ -16,8 +16,21 @@ Shepherd's report on issues:  [car-shepherd-report](idr/idr/idr-car-wglc-Q1-issu
 
 ## Directorate Reviews
 1. RTG-DIR Review 
+[email-RTG-DIR](  https://mailarchive.ietf.org/arch/msg/idr/0X_q_e09ejtb0NZQ25smUrklwmQ/)
+Reviewer: Ben Niven-Jenkins
+Review result: Has Issues
 action item: Needs short overview in section 1 before leaping into terminology
-2. OPS-DIR REview 
+
+2. OPS-DIR Review 
+[mail-message](https://mailarchive.ietf.org/arch/msg/idr/4SgOciKKtA9nap1M-f6eHRKNtWc/)
+
+Raised issues on 
+1) amount of abbreviations without explanation 
+2) In this draft, it says E is globally unique, which makes E-C in that order unique.  Can this be explained. 
+3) Why the type 2 NLRI for IP Prefix was needed. 
+4) dependency on the progression of draft-ietf-hr-spring-intentaware-routing-using-color? 
+5) Needing an operations section      
+6) Several Editorial issues (see list in email). 
 
 ## Open issues from Mail list 
 1. CAR WGLC Q1 - Logic behind sections 9 and 10 in CAR 
