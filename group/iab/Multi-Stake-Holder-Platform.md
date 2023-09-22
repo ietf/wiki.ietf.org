@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-06-21T14:26:32.393Z
+date: 2023-09-22T09:31:53.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -15,7 +15,7 @@ dateCreated: 2023-01-26T04:05:43.693Z
 ### Purpose of this Page
 This page contains specific information about the IETF relevant to the European Multi Stakeholder Platform on ICT Standardisation, MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [more information](https://digital-strategy.ec.europa.eu/en/policies/multi-stakeholder-platform-ict-standardisation) about the MSP.
 
-For more detailed information, or to submit relevant information to the MSP, please contact Mat Ford (ford at isoc.org) or Andrei Robachevsky (robachevsky at isoc.org) who are the IETF representatives in the platform and the editors of this page.
+For more detailed information, or to submit relevant information to the MSP, please contact [Mat Ford](mailto:ford@isoc.org) or [Andrei Robachevsky](mailto:robachevsky@isoc.org) who are the IETF representatives in the platform and the editors of this page.
 
 ## The Rolling Plan
 ### Introduction
@@ -27,18 +27,16 @@ In chapter 3 of the Rolling Plan various policy areas are identified that need t
 
 Previous versions of the Rolling Plan and the IETF work that fits into it:
 
-- Rolling Plan 2016
-- Rolling Plan 2017
-- Rolling Plan 2018
 - [Rolling Plan 2019](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2019)
 - [Rolling Plan 2020](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2020)
 - [Rolling Plan 2021](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2021)
 - [Rolling Plan 2022](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2022)
+- [Rolling Plan 2023](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2023)
 
-### Draft Rolling Plan 2023
-The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2023 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
+### Draft Rolling Plan 2024
+The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2024 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
 
-Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](http://trac.tools.ietf.org/area/) for potentially related technology work and contact Mat Ford or Andrei Robachevsky or any Area Director with general or specific questions.
+Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](https://www.ietf.org/topics/areas/) for potentially related technology work and contact [Mat Ford](mailto:ford@isoc.org) or [Andrei Robachevsky](mailto:robachevsky@isoc.org) or any Area Director with general or specific questions.
 
 ### General comments
 - From the EU RP Task Force: The Review process leads to a new version of the EU Rolling Plan on ICT Standardisation. The new version will be finalised by the MSP in December before being handed over to the Commission for endorsement and publication. From end of July until late September all MSP members have the opportunity to provide comments and further input to the draft Rolling Plan as provided by the European Commission. Focus should be put in particular to the actions. For an effective Rolling Plan it is important to have actions that are as precise as possible so that they can trigger respective standardisation work. Therefore, the CARV criteria should be met: actions should be **C**oncrete, **A**chievable, **R**elevant and **V**oluntary.
@@ -57,9 +55,13 @@ Action 4: SDOs to identify and inform about standards that are available or unde
 
 Action 5: SDOs to develop standards in support of the Data Governance Act, the Digital Services Act and the Digital Markets Act, taking into account the results of ISA2 program.
 
+Action 6:  EC to facilitate bringing eArchiving and respective requirements into standardisation.
+
+Action 7: In collaboration with the Data Spaces Support Centre (DSSC), stakeholders to address the topic of gathering and processing data from different sources across domains which is becoming a priority and is largely encouraged trough standardisation actions. In several sectors a global approach may be helpful as regards reference data and vocabularies, dictionaries an other meta data and respective standardisation developments might be started in order to enhance interoperability and lower implementation costs.
+
 The following IETF WGs are active in this area:
 
-The [Building Blocks for HTTP APIs (httpapi)](https://wiki.ietf.org/group/httpauth) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
+The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
 
 - Specifications for HTTP extensions that relate to HTTP APIs (typically, new HTTP header and/or trailer fields)
 - Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
