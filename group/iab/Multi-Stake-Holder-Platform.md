@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T10:30:28.049Z
+date: 2023-09-22T10:49:19.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -329,35 +329,43 @@ The [Public Notary Transparency (TRANS) WG](https://datatracker.ietf.org/wg/tran
 
 The [Automated Certificate Management Environment (ACME) WG](https://datatracker.ietf.org/wg/acme/about/) specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
 
+The [Supply Chain Integrity, Tranparency, and Trust (SCITT) Working Group](https://datatracker.ietf.org/wg/scitt/about/) works to define a set of interoperable building blocks that will allow implementers to build integrity and accountability into software supply chain systems to help assure trustworthy operation. For example, a public computer interface system could report its software composition that can then be compared against known software compositions or certifications for such a device thereby giving confidence that the system is running the software expected and has not been modified, either by attack or accident, in the supply chain.
+
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-315-electronic-identification-and-trust-services-including-e-signatures
 
-### 3.1.6 e-Infrastructures for research data and computing intensive science
+### 3.1.6 e-Infrastructures for data and computing intensive science
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.1.7 Broadband infrastructure mapping
 **RP:** Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension. In order to achieve the EU broadband objectives of the Digital Agenda Europe, it is fundamentally important that there is reliable and valid data on existing and planned broadband infrastructures, services offered; and demand and investment. A standardised mapping of broadband infrastructures and services as well as of other related data will help identify gaps of broadband coverage and quality of service level and identify suitable areas of investment. Increasing the reliability of coverage data (QS1) will be particularly useful to avoid duplication of financing as subsidies can be allocated to areas truly affected by market failure and regulatory needs linked to market regulation. Gathering reliable quality of service data (QS2 and QS3) based on common methodologies will feed into other regulatory aspect linked to net neutrality and consumer protection as well as assisting in the provision of reliable 5G services to vertical industries.
 
-Action 1 SDOs to develop standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
-
-Action 2 SDOs to develop standardised methodology to run public consultations and map future broadband investments in the EU.
+Action 1 SDOs to  further develop a standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
 
 The [Large-Scale Measurement of Broadband Performance (LMAP) Working Group](https://datatracker.ietf.org/wg/lmap/about/) standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
 
 Measuring portions of the Internet on a large scale is essential for accurate characterisations of performance over time and geography, for network diagnostic investigations by providers and their users, and for collecting information to support public policy development. The goal is to have the measurements (made using the same metrics and mechanisms) for a large number of points on the Internet, and to have the results collected and stored in the same form.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#BImap
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-317-broadband-infrastructure-mapping
 
 ### 3.1.8 Accessibility of ICT products and services
-RP: Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.
+**RP:** Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.
 
-Relevant work may be found in the [ART area](https://datatracker.ietf.org/wg/#art). For instance [RFC 3551](http://www.rfc-editor.org/rfc/rfc3551.txt) identifies the requirements for SIP to support the hearing impaired and [RFC4103](http://www.rfc-editor.org/rfc/rfc4103.txt) defines the RTP payload for text conversation.
+Action 1:  SDOs to work on the development and revisions of the harmonised standards and technical reports, as requested by standardisation request Mandate 587.
+
+Action 2: SDOs to produce a technical report describing requirements for ICT products and services to be designed to meet the needs of persons with cognitive and learning disabilities; the report should propose enhancements to relevant existing standards and identify needs for further standardisation such as the development of measurable requirements to address cognitive accessibility to be included in the standards implementing relevant legislation. The report should take into account the latest research in the field of cognitive disabilities and give guidance on which aspects of cognitive disabilities are sufficiently well understood so that support for people with such disabilities can be standardised (and tested) in a technically meaningful way.
+
+Action 3:  SDOs to produce a technical report on the possible accessibility requirements and standardisation needs of ICT products and services that are based on emerging technologies, such as natural language processing, wearables, virtual and augmented reality, AI, as well as biometrics and enhanced ICT security. These technologies must be designed to meet the needs of persons with disabilities, which includes cognitive and learning disabilities. 
+
+Action 4:  SDOs to continue work on the implementation of the methodology developed under M/473, providing that new standardisation deliverables including the European standards comply with the methodology for mainstream accessibility in standardisation processes and the revision of existing standards in line with what it was agreed in the Mandate deliverable 3.1
+
+Relevant work may be found in the [ART area](https://datatracker.ietf.org/wg#art). For instance [RFC 3551](http://www.rfc-editor.org/rfc/rfc3551.txt) identifies the requirements for SIP to support the hearing impaired and [RFC4103](http://www.rfc-editor.org/rfc/rfc4103.txt) defines the RTP payload for text conversation.
 
 RFCs [4103](http://www.rfc-editor.org/rfc/rfc4103.txt) and [5194](http://www.rfc-editor.org/rfc/rfc5194.txt) are being referenced in various accessibility regulations being proposed in the US ([Section 255/508](http://transition.fcc.gov/Daily_Releases/Daily_Business/2013/db0311/DOC-319386A1.pdf)) and EU (e.g. M376).
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#ICTAccess
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-318-acccessibility-of-ict-products-and-services
 
 ### 3.1.9 Artificial Intelligence
-RP: AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
+**RP:** AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
 
 Most of these activities are recent and will lead to requests for developing new standards. For the time being, there are no significant past activities to report about their progress.
 
@@ -371,31 +379,56 @@ The most likely areas where new AI standards will be required are the following:
 - Data interchange formats
 - Computer system integration and APIs
 
-Action 1: Foster coordination and interaction of all stakeholders in providing European requirements for AI, e.g. based on the work of the AI High Level Expert Group, Members States initiatives, OECD etc. Encourage the development of shared visions as a basis for input and requirements to standardisation
+Action 1: SDOs should establish coordinated linkages with, and adequately consider European requirements or expectations from initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the contents of the EU proposal for an AI Regulation and of the standardisation request on AI issued by the European Commission in 2023 as well as the orientations set in the 2021 review of the Coordinated Plan.
 
-Action 2: SDOs should coordinate their efforts on AI standardisation in Europe and internationally, especially ISO/IEC JTC 1 SC 42
+Action 2: SDOs should further increase their coordination efforts around AI standardisation both in Europe and internationally in order to avoid overlap or unnecessary duplication of efforts and aim to the highest quality to avoid  the creation and use of discriminating algorithms and to ensure a trustworthy and safe deployment of this technology.
 
-Action 3: SDOs should establish coordinated linkages with, and consider European requirements from, initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the results of the EU HLEG on AI and also the European Parliament, Member States' initiatives, Council of Europe, and others
+Action 3: ESOs should coordinate with the Commission and appropriately direct their activities to ensure that the objectives set in the standardisation request on AI issued in 2023 are adequately and timely fulfilled. This includes ensuring active participation of representatives from SMEs and civil society organisations in their activities. 
 
-Action 4: SDOs to consider cybersecurity and related aspects of artificial intelligence, to identify gaps and develop the necessary standards on safety, privacy and security of artificial intelligence, to protect against malicious artificial intelligence and to use artificial intelligence to protect against cyber-attacks
+Action 4: Taking into account the cross-sectorial aspects of the proposed AI Regulation and the interactions between the AI Regulation and existing or future sectorial safety legislation (for example the proposed new EU Regulation on machinery products), ESOs shall devote specific attention to the elaboration of standards on the methodology of risk assessment of cyber-physical products powered by AI and on the testing framework.
 
-Action 5: Within the AI4EU initiative, identify leading open source activities which complement standardisation work and analyse to what extend they respond to EU requirements. Where useful establish dialogue, liaisons or partnerships with such open source projects.
+Action 5: EC and ESOs should coordinate to promote mobilisation of stakeholders around AI standardisation activities.
+
+Action 6: EC/JRC to coordinate with SDOs and other initiatives on developing analysis of AI standards and gap analysis to inform SDOs planning of activities. 
 
 The IETF [Autonomic Networking Integrated Model and Approach Working Group](https://datatracker.ietf.org/wg/anima/about/) will develop a system of autonomic functions that carry out the intentions of the network operator without the need for detailed low- level management of individual devices. This will be done by providing a secure closed-loop interaction mechanism whereby network elements cooperate directly to satisfy management intent. The working group will develop a control paradigm where network processes coordinate their decisions and automatically translate them into local actions, based on various sources of information including operator-supplied configuration information or from the existing protocols, such as routing protocol, etc.
 
 Autonomic networking refers to the self-managing characteristics (configuration, protection, healing, and optimization) of distributed network elements, adapting to unpredictable changes while hiding intrinsic complexity from operators and users. Autonomic Networking, which often involves closed-loop control, is applicable to the complete network (functions) lifecycle (e.g. installation, commissioning, operating, etc). An autonomic function that works in a distributed way across various network elements is a candidate for protocol design. Such functions should allow central guidance and reporting, and co-existence with non-autonomic methods of management. The general objective of this working group is to enable the progressive introduction of autonomic functions into operational networks, as well as reusable autonomic network infrastructure, in order to reduce operating expenses.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#AI
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-319-artificial-intelligence
 
 ### 3.1.10 European Global Navigation Satellite System (EGNSS)
 Editor's note: No specific work identified in the IETF or IRTF
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#EGNSS
-
 ### 3.1.11 Quantum Technologies
-The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings. The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet. The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). Currently, it is working on two Internet Drafts which the group aims to publish as informational RFCs (i.e. not standards specifications):
+**RP:** The development of quantum technologies and infrastructures is a key objective of the 2030 Path to the Digital Decade[1] policy programme. The Commission has set a specific target  for quantum (by 2025, the EU should have its first computer with quantum acceleration, paving the way for being at the cutting edge of quantum capabilities by 2030), and has proposed to set up a number of multi-country projects together with the MS (using the new instrument European Digital Infrastructure Consortium – EDICs) to ensure that this target is met. standardisation will be key, especially to develop quantum infrastructures with interoperable (certified) quantum technologies.
 
-- [Architectural Principles for a Quantum Internet,](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)
+Action 1:  CEN & CENELEC to continue the work on the standardisation landscape and gap analysis for quantum technologies (standardisation roadmap for Quantum Technologies) to identify which standards will be needed and for which applications. The roadmap should include recommendations for an action plan and a methodology that will identify the most important needs that have to be standardised.
+
+Action 2: SDOs should develop standards for supply chains for modular quantum computers and communication architectures, and their enabling technologies. Initially the focus should be on QT research infrastructure, evolving towards QT commercial infrastructure
+
+Action 3: The creation of an intelligent Dashboard to support SMEs, in which the existing standards as well 
+the work relating to quantum technologies of the main standardisation bodies are presented. The dashboard will facilitate SMEs to identify relevant open-source projects in the field of Quantum Computing and Communications, e.g. providing tools for testing, benchmarking etc.
+
+Action 4: SDOs to set up processes for eliciting industry standardisation needs, and industry alliances to coordinate their experts' efforts to contribute to standardisation.
+
+Action 5:  SDOs should further increase their coordination efforts in Europe and internationally around Quantum Technologies standardisation in order to to avoid overlap or unnecessary duplication of efforts.
+
+Action 6: SDOs should appropriately consider the effect of quantum computing and Quantum communication technologies on cybersecurity and provide an overview and analyse whether new standards or updates of existing standards on safety, privacy and cybersecurity are required.
+
+Action 7: SDOs should devote specific attention to the standardisation processes (public documents) and existing or future sectorial export control legislation.
+
+Action 8: SDOs should cooperate with the EuroQCI and start forming the technical committees to create the necessary pre-standards/standards for the commercial quantum communication technology in synergy with the specific requirements that are being explored for a certification of the technology.
+
+Action 9: SDOs should cooperate with the EuroHPC Joint Undertaking and start forming the technical committees to create the necessary pre-standards/standards  for quantum computing technology in synergy with the specific requirements that are being explored for a certification of the technology.
+
+Some IETF protocols rely upon cryptographic mechanisms that are considered secure given today’s “classical computers” but would be vulnerable to attacks by a Cryptographically Relevant Quantum Computer (CRQC). These mechanisms rely upon algorithms based on integer factorization or the discrete logarithm problem. Active work is underway to develop and validate Post-Quantum Cryptography (PQC) mechanisms that are expected to be resilient to the cryptanalysis capabilities of future CRQCs (e.g., CFRG, US NIST). Select IETF WGs (e.g., LAMPS, TLS, IPSECME, COSE) have already begun standardizing revised protocol behaviors. The focus of the [Post-Quantum Use In Protocols Working Group](https://datatracker.ietf.org/wg/pquip/about/) is to support this growing body of work in the IETF to facilitate the evolution of IETF protocols and document associated operational guidance with respect to PQC.
+
+The WG will provide a standing venue to discuss PQC (operational and engineering) transition issues and experiences to date relevant to work in the IETF. The WG will also provide a venue of last resort to discuss PQC-related issues in IETF protocols that have no associated maintenance WGs. This WG will not update existing protocols, specify new protocols, define new cryptographic mechanisms, or assess whether a given cryptographic mechanism is quantum-resistant.
+
+The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings. The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet. The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). Currently, the research group is working on two documents:
+
+- [Architectural Principles for a Quantum Internet](https://www.rfc-editor.org/rfc/rfc9340.html) - now published as [RFC9340](https://www.rfc-editor.org/rfc/rfc9340.html).
 - [Application Scenarios for the Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-quantum-internet-use-cases/).
 
 Since quantum networks are so different when compared to classical networking, the QIRG is also focused on educating the classical networking community on this new subject. In addition to discussions on the mailing list, the QIRG also hosts seminars with speakers from both industry and academia. So far three such seminars have taken place:
@@ -404,7 +437,7 @@ Since quantum networks are so different when compared to classical networking, t
 - “[Genuine and Optimized Entanglement-Based Quantum Networks”](https://www.youtube.com/watch?v=j-Ri-RRfUXY) by Wolfgang Dür (University of Innsbruck),
 - “[Building Quantum Networks at the Local-Area Scale”](https://www.youtube.com/watch?v=D_Nb43-uicY) by Marc Kaplan (VeriQloud?)
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#Quantum
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3111-quantum-technologies
 
 ## 3.2 Societal challenges
 ### 3.2.1 eHealth, healthy living and ageing
