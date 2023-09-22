@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T12:51:10.713Z
+date: 2023-09-22T13:25:00.778Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -59,6 +59,8 @@ Action 6:  EC to facilitate bringing eArchiving and respective requirements into
 
 Action 7: In collaboration with the Data Spaces Support Centre (DSSC), stakeholders to address the topic of gathering and processing data from different sources across domains which is becoming a priority and is largely encouraged trough standardisation actions. In several sectors a global approach may be helpful as regards reference data and vocabularies, dictionaries an other meta data and respective standardisation developments might be started in order to enhance interoperability and lower implementation costs.
 
+#### IETF/IAB input to Rolling Plan
+
 The following IETF Working Group is active in this area:
 
 The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
@@ -92,6 +94,8 @@ Action 9: SDOs should foster/establish cooperation with the European Cybersecuri
 
 Action 10: SDOs to assess gaps and develop standards in support of trust services under the NIS2 proposal and other possible instruments of EU law
 
+#### IETF/IAB input to Rolling Plan
+
 The IETF Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital.
 
 The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
@@ -121,6 +125,8 @@ http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centred-perso
 Action 7: SDOs to prevent unwarranted pervasive monitoring by default when developing standards. This is not only relevant in the context the internet but also the IoT.
 
 Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.
+
+#### IETF/IAB input to Rolling Plan
 
 The following IETF Working Groups are active in this area:
 
@@ -163,6 +169,8 @@ The European Commission has called on Member States and industry to commit to th
 
 In December 2017, Commissioner Gabriel sent a letter to 3G PP, urging the standardisation bodies and the concerned industrial actors to step-up their efforts for the rapid development of 5G standards addressing more immediate market needs while driving a clear strategy for a 5G global standard bringing benefits to a wide range of industrial use cases, in line with the EU strategy targeting 5G developments in support of "vertical" industries and of our wider objectives of digitising the European industry.
 
+#### IETF/IAB input to Rolling Plan
+
 Interactions between IETF and 5G developments fall into several categories:
 
 - New dependencies on existing IETF technology: For instance, introducing a flexible authentication framework based on EAP (RFC 3748, RFC 5448). This work is being addressed in the [EAP Method Update](https://datatracker.ietf.org/wg/emu/about/) (EMU) Working Group. This working group has been chartered to provide updates to some commonly used EAP methods. Specifically, the working group shall produce documents to:
@@ -196,6 +204,8 @@ Action 9: SDOs to prepare an overview of available open interoperability specifi
 
 Action 10: SDOs to Promote the development of a standard or a set of standards for processor sockets for cloud computing infrastructure.
 
+#### IETF/IAB input to Rolling Plan
+
 The IETF has multiple groups working on standards for virtualization techniques, including techniques used in cloud computing and datacenters.
 
 The [Layer 2 Virtual Private Networks](https://datatracker.ietf.org/wg/l2vpn/about/) (L2VPN) Working Group produced specifications defining and specifying solutions for supporting provider-provisioned Layer-2 Virtual Private Networks (L2VPNs). They also addressed requirements driven by cloud computing services and data centers as they apply to Layer-2 VPN services. The [L2VPN Service Model](https://datatracker.ietf.org/wg/l2sm/about/) (L2SM) Working Group is tasked to created a data model that describes an L2VPN service.
@@ -216,6 +226,8 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-312-cloud-and-e
 **RP:** With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
 
 Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.
+
+#### IETF/IAB input to Rolling Plan
 
 The following IETF Working Group is active in this area:
 
@@ -261,6 +273,8 @@ Action 15: SDOs should investigate and elaborate on system-level optimisation te
 Action 16: SDOs should investigate IoT system level and network function virtualisation and AI-based zero-touch operations automation including automated reconfiguration and setup. 
 
 Action 17: SDOs to work towards a faster standardisation cycle more adapted to the fast pace of IoT technology developments. Some examples already exist (e.g. for SAREF and FIWARE).
+
+#### IETF/IAB input to Rolling Plan
 
 The IETF has a number of Working Groups chartered to develop standards to support the Internet of Things.
 
@@ -319,6 +333,8 @@ Action 2: As required by the framework established under the proposed regulatory
 
 Action 3: SDOs to cooperate and work in the areas of identifiers, vocabularies, semantics, taxonomies, ontologies for electronic attestations
 
+#### IETF/IAB input to Rolling Plan
+
 The following IETF Working Groups are active in this area:
 
 The [Web Authorization Protocol (OAUTH) WG](https://datatracker.ietf.org/wg/oauth/about/) developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
@@ -341,6 +357,8 @@ Editor's note: No specific work identified in the IETF or IRTF
 
 Action 1 SDOs to  further develop a standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
 
+#### IETF/IAB input to Rolling Plan
+
 The [Large-Scale Measurement of Broadband Performance (LMAP) Working Group](https://datatracker.ietf.org/wg/lmap/about/) standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
 
 Measuring portions of the Internet on a large scale is essential for accurate characterisations of performance over time and geography, for network diagnostic investigations by providers and their users, and for collecting information to support public policy development. The goal is to have the measurements (made using the same metrics and mechanisms) for a large number of points on the Internet, and to have the results collected and stored in the same form.
@@ -357,6 +375,8 @@ Action 2: SDOs to produce a technical report describing requirements for ICT pro
 Action 3:  SDOs to produce a technical report on the possible accessibility requirements and standardisation needs of ICT products and services that are based on emerging technologies, such as natural language processing, wearables, virtual and augmented reality, AI, as well as biometrics and enhanced ICT security. These technologies must be designed to meet the needs of persons with disabilities, which includes cognitive and learning disabilities. 
 
 Action 4:  SDOs to continue work on the implementation of the methodology developed under M/473, providing that new standardisation deliverables including the European standards comply with the methodology for mainstream accessibility in standardisation processes and the revision of existing standards in line with what it was agreed in the Mandate deliverable 3.1
+
+#### IETF/IAB input to Rolling Plan
 
 Relevant work may be found in the [ART area](https://datatracker.ietf.org/wg#art). For instance [RFC 3551](http://www.rfc-editor.org/rfc/rfc3551.txt) identifies the requirements for SIP to support the hearing impaired and [RFC4103](http://www.rfc-editor.org/rfc/rfc4103.txt) defines the RTP payload for text conversation.
 
@@ -391,6 +411,8 @@ Action 5: EC and ESOs should coordinate to promote mobilisation of stakeholders 
 
 Action 6: EC/JRC to coordinate with SDOs and other initiatives on developing analysis of AI standards and gap analysis to inform SDOs planning of activities. 
 
+#### IETF/IAB input to Rolling Plan
+
 The IETF [Autonomic Networking Integrated Model and Approach Working Group](https://datatracker.ietf.org/wg/anima/about/) will develop a system of autonomic functions that carry out the intentions of the network operator without the need for detailed low- level management of individual devices. This will be done by providing a secure closed-loop interaction mechanism whereby network elements cooperate directly to satisfy management intent. The working group will develop a control paradigm where network processes coordinate their decisions and automatically translate them into local actions, based on various sources of information including operator-supplied configuration information or from the existing protocols, such as routing protocol, etc.
 
 Autonomic networking refers to the self-managing characteristics (configuration, protection, healing, and optimization) of distributed network elements, adapting to unpredictable changes while hiding intrinsic complexity from operators and users. Autonomic Networking, which often involves closed-loop control, is applicable to the complete network (functions) lifecycle (e.g. installation, commissioning, operating, etc). An autonomic function that works in a distributed way across various network elements is a candidate for protocol design. Such functions should allow central guidance and reporting, and co-existence with non-autonomic methods of management. The general objective of this working group is to enable the progressive introduction of autonomic functions into operational networks, as well as reusable autonomic network infrastructure, in order to reduce operating expenses.
@@ -421,6 +443,8 @@ Action 7: SDOs should devote specific attention to the standardisation processes
 Action 8: SDOs should cooperate with the EuroQCI and start forming the technical committees to create the necessary pre-standards/standards for the commercial quantum communication technology in synergy with the specific requirements that are being explored for a certification of the technology.
 
 Action 9: SDOs should cooperate with the EuroHPC Joint Undertaking and start forming the technical committees to create the necessary pre-standards/standards  for quantum computing technology in synergy with the specific requirements that are being explored for a certification of the technology.
+
+#### IETF/IAB input to Rolling Plan
 
 Some IETF protocols rely upon cryptographic mechanisms that are considered secure given today’s “classical computers” but would be vulnerable to attacks by a Cryptographically Relevant Quantum Computer (CRQC). These mechanisms rely upon algorithms based on integer factorization or the discrete logarithm problem. Active work is underway to develop and validate Post-Quantum Cryptography (PQC) mechanisms that are expected to be resilient to the cryptanalysis capabilities of future CRQCs (e.g., CFRG, US NIST). Select IETF WGs (e.g., LAMPS, TLS, IPSECME, COSE) have already begun standardizing revised protocol behaviors. The focus of the [Post-Quantum Use In Protocols Working Group](https://datatracker.ietf.org/wg/pquip/about/) is to support this growing body of work in the IETF to facilitate the evolution of IETF protocols and document associated operational guidance with respect to PQC.
 
@@ -478,6 +502,8 @@ Action 10: SDOs to consider any changes to eCall that may be relevant in a 5G pa
 
 Action 11: In view of technology and networks evolution , SDOs to consider the development of conformance and interoperability test specifications for eCall provided over 4G (using VoLTE) and 5G (and VoNR) networks. When developing these specifications, considered the work done in CEN TS 17240
 
+#### IETF/IAB input to Rolling Plan
+
 The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
 The [Geographic Location/Privacy (GEOPRIV) Working Group](https://datatracker.ietf.org/wg/geopriv/about/) has developed protocols that allow IP networks to inform end devices about their geolocation, a critical pre-requisite for emergency calling.
@@ -512,6 +538,8 @@ Action 7: to support the standardization of emergency SMS, in particular to '112
 Action 8: SDOs to define dictionaries for public warning messages for emergency communication services based on the input of various civil protection agencies.
 
 Action 9: SDOs to identify standardisation needs for the establishment of a Union wide public warning system in line with recital 294 of Directive (EU) 2018/1972.
+
+#### IETF/IAB input to Rolling Plan
 
 The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
 
@@ -572,6 +600,8 @@ Action 9: SDOs to develop standards to support the eIDAS2 proposal requirements 
 
 Action 10: Standardisation efforts to analyze and if needed, enhance the interoperability and international compatibility of the current and pending EBSI topics and capabilities previously mentioned.
 
+#### IETF/IAB input to Rolling Plan
+
 The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datatracker.ietf.org/rg/dinrg/about/) investigates open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-336-blockchain-and-distributed-digital-ledger-technologies
@@ -598,6 +628,8 @@ Action 6: SDOs and related stakeholders and initiatives should work towards cros
 Action 7: SDOs, in particular their grid-oriented, mobility-oriented, DER-oriented and storage-oriented technical committees, should cooperate to develop standards enabling the electric vehicles (with their – on-board or off-board – chargers) to play an active role through demand-response up to offering grid services.
 
 Action 8: SDOs should collaborate with the project(s) resulting from call HORIZON-CL5-2023-D3-01-15 “Supporting the green and digital transformation of the energy ecosystem and enhancing its resilience through the development and piloting of AI-IoT Edge-cloud and platform solutions” to modify existing standards or adopt new ones based on the standardisation work and deliverables of the project(s).
+
+#### IETF/IAB input to Rolling Plan
 
 [RFC6272](http://www.rfc-editor.org/rfc/rfc6272.txt) identifies the key infrastructure protocols of the Internet Protocol Suite for use in the Smart Grid. The target audience is those people seeking guidance on how to construct an appropriate Internet Protocol Suite profile for the Smart Grid. In practice, such a profile would consist of selecting what is needed for Smart Grid deployment from the picture presented here.
 
@@ -635,6 +667,8 @@ Action 4: Define a set of standards and related criteria, value proposition and 
 
 Action 5:  Related to the CitiVerse, define a pre-standardisation roadmap to cater for a set of well-stablished technical standards to address the technological challenges and constraints arising from vertical technologies, and key enablers touching intrinsic EU-values, such as trust, security, privacy, sustainability and accessibility, openness, interoperability. All of it, driven by concrete use cases focusing on citizen’s engagement and predictive services for city’s efficiency. 
 
+#### IETF/IAB input to Rolling Plan
+
 The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
 
 A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
@@ -654,6 +688,8 @@ Action 5: Definition and guidelines of KPIs for ICT networks.
 Action 6: SDOs to identify needs and develop standards to support UN SDGs, in particular KPI for both synergies and conflicts in Digital transformation and Green transition projects.
 Action 7: ETSI, in collaboration with the EGDC, to consider possible paths for ITU L.1480 and L.1333 to be made available for European standardisation to meet EU policy objectives.
 
+#### IETF/IAB input to Rolling Plan
+
 The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
 
 A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
@@ -667,6 +703,8 @@ Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility
 **RP:** To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.
+
+#### IETF/IAB input to Rolling Plan
 
 The [IP Wireless Access in Vehicular Environments (ipwave) WG](https://datatracker.ietf.org/wg/ipwave/about/) worked on Vehicle-2-Vehicle (V2V) and Vehicle-2-Internet (V2I) use-cases where IP is well-suited as a networking technology and will develop an IPv6 based solution to establish direct and secure connectivity between a vehicle and other vehicles or stationary systems. These vehicular networks are characterized by dynamically changing network topologies and connectivity.
 
@@ -704,6 +742,8 @@ Action 1: Based on the U-space regulatory framework, and in coordination with th
 Action 2: The following complementary actions could be developed in addition to the standardisation action:
 - Development of a reference implementation of U-space software components to facilitate the adoption of U-space.
 - Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
+
+#### IETF/IAB input to Rolling Plan
 
 The [Drone Remote ID Protocol (drip) WG](https://datatracker.ietf.org/wg/drip/about/) has recently formed in the IETF. Civil Aviation Authorities (CAAs) worldwide have initiated rule making for Unmanned Aircraft Systems (UAS) Remote Identification (RID). CAAs currently promulgate performance-based regulations that do not mandate specific techniques, but rather cite industry-consensus technical standards as acceptable means of compliance. One key standard is ASTM International (formerly the American Society for Testing and Materials) WK65041. This technical specification defines UAS RID message formats, and transmission methods. Network RID defines a set of information for UAS to be made available globally via the Internet. Broadcast RID defines a set of messages for UAS to send locally one-way over Bluetooth or Wi-Fi. WK65041 does not address how to populate/query registries, how to ensure trustworthiness of information, nor how to make the information useful.
 
