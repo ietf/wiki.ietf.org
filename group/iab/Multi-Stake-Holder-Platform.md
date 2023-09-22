@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T09:31:53.733Z
+date: 2023-09-22T09:48:46.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -67,42 +67,38 @@ The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/ht
 - Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
 - Best practices and other documentation for HTTP API designers, consumers, implementers, operators, etc.
 
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#dataEconomy
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-301-data-economy
 
 ### 3.0.2 Cybersecurity / network and information security
 **RP:** The Communication on ICT standardisation priorities for the digital single market proposes actions on cybersecurity, considered as priority domain for Europe For security and notification requirements for operators of essential services, the focus will be on establishing a number of reference standards and/or specifications relevant to network and information security, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practices across the EU. For security and notification requirements for digital service providers, in line with the objectives of the Digital single market strategy, the Directive aims to establish a harmonised set of requirements so that they can expect similar rules wherever they operate in the EU. It is important that all levels of an organisation –particularly the strategic level and the management board - are aware of the need for standards and frameworks for cybersecurity. Moreover, between organisations that are partners in (vital) online chains, clear agreements will have to be made on the different standards.
 
-ACTION 1 SDOs to develop standards for critical infrastructure protection and thus in support of and responding to the requirements laid down in the NIS Directive.
+Action 1: SDOs to develop standards and sectorial specifications for critical infrastructure protection in support of and responding to the requirements in anticipation of the reviewed NIS2 Directive. Foster the application of EN 62443 series (base on IEC 62443 series) for the firm establishment of EU regulatory requirement operational technology (OT) security including critical infrastructures.
 
-ACTION 2 SDOs to assess existing standards required to support the European Cyber-security Certification Framework to ensure that standards are available for providing the core of any certification activity. In particular, SDOs are encouraged to work on standards related to the specification and assessment of security properties in ICT products and services as well as those related to security in processes related to the design, development, delivery and maintenance of an ICT product or service.
+Action 2: SDOs to assess  the content of existing standards and specifications applied under the European Cybersecurity Certification Framework in order to revise existing documents or create new standards. It should be ensured that these standards are gradually and timely made available for providing support to any certification activity, particularly as the preparation and implementation of certification schemes has come under the remit of ENISA on Common Criteria (EUCC), Cloud services (EUCS) and 5G (EU5G). In particular, SDOs are encouraged to develop and harmonise standards related to the specification and assessment of security properties in ICT products and services (including cloud services), as well as those related to security in processes related to the design, development, delivery and maintenance of an ICT product or service, as well as methodologies concerning assurance levels for industry sectors.
 
-ACTION 3 SDOs to investigate the issue of malware on personal computers. ENISA (the European union agency for network and information security) has concluded that many personal computers contain malware that is can monitor (financial) transactions. As we are becoming increasingly dependent on eBusiness and e-transactions, a European initiative should investigate this topic
+Action 3: SDOs to investigate and prepare harmonised evaluation methodologies of cybersecurity risks, controls and interfaces as required by EU policy instruments such as the Certification Framework of the EU Cybersecurity Act, the Cyber Resilience Act and others for their horizontal application into trusted products such as semiconductors, the European Digital Identity Wallet, and other digital technologies.
 
-ACTION 4 SDOs to investigate requirements for secure protocols for networks of highly constrained devices and heavily constrained protocol interaction (low bandwidth/ ultra-short session duration (50ms)/low processing capabilities
+Action 4: SDOs to assess areas and options for the preparation and implementation of European cybersecurity policy, in particular of essential cybersecurity requirements relevant to the digital products and ancillary services referred by the Cyber Resilience Act, but also of relevance to complement the instruments related to the Machinery Directive, the Radio Equipment Directive or to the machine learning component for the AI Act.
 
-ACTION 5 SDOs to investigate the availability of standards as regards to the security and incident notification requirements for digital service providers as defined in the NIS Directive
+Action 5: SDOs to investigate requirements for secure and interoperable communication protocols for mobile and fixed networks of distributed devices and services that may in addition rely upon limited resources and interfaces.  Requirements should address relevant mechanisms of authenticating, registering, and processing user identities seamlessly across devices, services and applications.
 
-ACTION 6 SDOs to develop a “guided” version of ISO/IEC 270xx series (information security management systems including specific activity domains) specifically addressed to SMEs, possibly coordinating with ISO/IEC JTC1 SC27 WG1 to extend the existing guidance laid out in ISO/IEC 27003. This guidance should be 100% compatible with ISO/IEC 270xx and help SMEs to practically apply it, including in scarce resource and competence scenarios
+Action 6: SDOs to investigate the availability of standards and specifications in general or for business sectors as regards to the requirements to risk management across the supply chain and incident notification for operators of essential services in anticipation of the NIS2 Directive and in support of possible other pieces of EU law , including certification schemes as defined in the Cybersecurity Act.
 
-ACTION 7 SDOs to assess gaps and develop standards on cybersecurity of consumer products in support of possible certification schemes completed under the European Cybersecurity Act
+Action 7: SDOs to assess gaps and develop standards on cybersecurity of consumer products in support of possible certification schemes completed under the European Cybersecurity Act and in support of other possible instruments of EU law.
 
-ACTION 8 SDOs to prepare a report on measures to mitigate, prevent and/or detect CLI spoofing. The report should address the technical, operational, standardisation and cost aspects of the different possible solutions (STIR/SHAKEN, blockchain, Solid, etc.) from the European perspective. It should also consider how such solutions could be deployed and managed at the European level.
+Action 8: SDOs to explore options for the composition and matching of assurance statements as issued under the Certification Framework of the Cybersecurity Act also in conjunction to the provisions of related EU policy instruments like the Cyber Resilience Act, the NIS2 Directive or the new eIDAS regulation.
 
-The following IETF WGs are active in this area:
+Action 9: SDOs should foster/establish cooperation with the European Cybersecurity Coordination Centre in order to facilitate the results of current research and outputs from the funding programmes Horizon Europe and Digital Europe.
 
-The [Managed Incident Lightweight Exchange (MILE)](https://datatracker.ietf.org/wg/mile/about/) WG develops standards to support computer and network security incident management. The WG is focused on two areas: IODEF (Incident Object Description Exchange Format, RFC5070), the data format and extensions to represent incident and indicator data, and RID (Real-time Inter-network Defense, RFC6545), the policy and transport for structured data.
+Action 10: SDOs to assess gaps and develop standards in support of trust services under the NIS2 proposal and other possible instruments of EU law
 
-The [Security Automation and Continuous Monitoring (SACM)](https://datatracker.ietf.org/wg/sacm/about/) WG worked on standardising protocols to collect, verify, and update system security configurations that allow a high degree of automation. This facilitates securing information and the systems that store, process, and transmit that information. The focus of the WG was the assessment of network endpoint compliance with security policies so that corrective measures can be provided before they are exposed to those threats.
+The IETF Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital.
 
-The aim of [DDoS Open Threat Signalling (DOTS)](https://datatracker.ietf.org/wg/dots/about/) WG is to develop a standards based approach for the realtime signalling of DDoS related telemetry and threat handling requests and data between elements concerned with DDoS attack detection, classification, traceback, and mitigation.
+The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
 
-The goal of the [Interface to Network Security Functions (I2NSF)](https://datatracker.ietf.org/wg/i2nsf/about/) WG is to define a set of software interfaces and data models for controlling and monitoring aspects of physical and virtual NSFs. A Network Security Function (NSF) is a function used to ensure integrity, confidentiality, or availability of network communications, to detect unwanted network activity, or to block or at least mitigate the effects of unwanted activity. The hosted, or cloud-based, security service is especially attractive to small and medium size enterprises who suffer from a lack of security experts to continuously monitor networks, acquire new skills and propose immediate mitigations to ever increasing sets of security attacks.
+The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg#sec
 
-There are many situations in which it is desirable to transfer a copy of a digital credential to another person. For example, a private car owner may want to provide access to their vehicle to a friend or a family member. A private homeowner may want to provide access to their home to their cat sitter. An individual staying at a hotel may want to transfer a copy of a hotel room key to their spouse. Today, no such standardized method exists in a cross-platform, credential type-agnostic capacity. The The [Transfer dIGital cREdentialS Securely (tigress)](https://datatracker.ietf.org/wg/tigress/about/) Working Group will standardize a protocol that will facilitate such credential transfers from one person's device to another person's device.
-
-The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg/#sec
-
-https://trac.ietf.org/trac/iab/wiki/Multi-Stake-Holder-Platform#NISec
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecurity-network-and-information-security
 
 ### 3.0.3 ePrivacy
 **RP:** The focus will be on establishing a number of reference standards and/or specifications relevant to privacy in the electronic communications environment, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practises across the Union. The Commission recently has proposed a mandate to European Standards Organisations seeking to routinely include privacy management methodologies in both the design and production phases of cybersecurity technologies generally.
