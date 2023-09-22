@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T12:40:35.406Z
+date: 2023-09-22T12:45:24.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -674,7 +674,7 @@ V2V and V2I communications may involve various kinds of link layers: 802.11-OCB 
 
 This group's primary deliverable is [RFC8691, a standard to specify the mechanisms for transmission of IPv6 datagrams over IEEE 802.11-OCB mode](https://www.rfc-editor.org/rfc/rfc8691.pdf).
 
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-345-intelligent-transport-systems-(its)
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-345-intelligent-transport-systems-its-cooperative-connected-and-automated-mobility-its-ccam-and-electromobility
 
 ### 3.4.6 Digitisation of European Industry
 Editor's note: No specific work identified in the IETF or IRTF
@@ -697,15 +697,21 @@ Editor's note: No specific work identified in the IETF or IRTF
 ### 3.4.12 U-Space
 RP: U-space is a set of new services relying on a high level of digitalisation and automation of functions and specific procedures, supported by AI, designed to provide safe, efficient and secure access to airspace for large numbers of unmanned aircraft, operating automatically and beyond visual line of sight. This initiative confirms the EU’s ambition to develop sustainable and digital mobility solutions.'
 
-Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data: between air navigation service providers, common information service providers and U-space service providers; and between U-space service providers and UAS operators.
+Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data:
+- between air navigation service providers, common information service providers and U-space service providers; and
+- between U-space service providers and UAS operators.
 
-Action 2: The following complementary actions could be developed in addition to the standardisation action: Development of a reference implementation of U-space software components to facilitate the adoption of U-space. Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
+Action 2: The following complementary actions could be developed in addition to the standardisation action:
+- Development of a reference implementation of U-space software components to facilitate the adoption of U-space.
+- Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
 
 The [Drone Remote ID Protocol (drip) WG](https://datatracker.ietf.org/wg/drip/about/) has recently formed in the IETF. Civil Aviation Authorities (CAAs) worldwide have initiated rule making for Unmanned Aircraft Systems (UAS) Remote Identification (RID). CAAs currently promulgate performance-based regulations that do not mandate specific techniques, but rather cite industry-consensus technical standards as acceptable means of compliance. One key standard is ASTM International (formerly the American Society for Testing and Materials) WK65041. This technical specification defines UAS RID message formats, and transmission methods. Network RID defines a set of information for UAS to be made available globally via the Internet. Broadcast RID defines a set of messages for UAS to send locally one-way over Bluetooth or Wi-Fi. WK65041 does not address how to populate/query registries, how to ensure trustworthiness of information, nor how to make the information useful.
 
 DRIP’s goal is to specify how RID can be made trustworthy and available in both Internet and local-only connected scenarios, especially in emergency situations. Some UAS operate in environments where the network or the devices or both are severely constrained in terms of processing, bandwidth (e.g., Bluetooth 4 beacon payload is 25 bytes long), or battery life, and DRIP aims to function in these environments. The specifications produced by the WG will need to balance public safety authorities’ need to know trustworthy information with UAS operators’ and other involved parties’ privacy.
 
 The working group will primarily leverage Internet standards (including HIP, EPP, RDAP, and DNS) and infrastructure as well as domain name registration business models. The WG will track and align with the requirements being developed by regulatory authorities, e.g., the International Civil Aviation Organization the European Union Aviation Safety Agency (EASA) delegated and implementing regulations, and the US Federal Aviation Administration (US FAA).
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
 
 ### 3.4.13 Circular economy
 Editor's note: No specific work identified in the IETF or IRTF
@@ -744,6 +750,8 @@ Editor's note: No specific work identified in the IETF or IRTF
 2021-09-24: Archived RP2021, updates to reflect RP2022 changes from MSP, added text on asdf, iotops and madinas WGs.
 
 2022-09-21: Archived RP2022, updates to reflect RP2023 changes from MSP, added text on qirg, ohai, ppm, httpapi, and tigress WGs.
+
+2023-09-22: Archived RP2023, updates to reflect RP2024 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work, updated all links from old trac instance to new IETF wiki. 
 
 Attachments:
 [089_draft_rolling_plan_tfrp055r3_rp.pdf](/089_draft_rolling_plan_tfrp055r3_rp.pdf)
