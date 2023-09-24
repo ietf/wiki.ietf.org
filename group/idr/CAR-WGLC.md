@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2023-09-22T13:31:06.486Z
+date: 2023-09-24T17:22:22.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
@@ -11,8 +11,8 @@ dateCreated: 2023-07-25T13:11:40.965Z
 # CAR WG LC 
 
 ## Shepherd Report 
-list of issues:  [car-wg-lc-track-v7.pdf](/idr/idr/car-wg-lc-track-v7.pdf)
-Shepherd's report on issues:  [car-shepherd-report](idr/idr/idr-car-wglc-Q1-issues-v3.pdf)
+list of issues:  [car-wg-lc-track-v7.pdf](/idr/car-wg-lc-track-v7.pdf)
+Shepherd's report on issues:  [car-shepherd-report](/idr/idr-car-wglc-Q1-issues-v3.pdf)
 
 ## Directorate Reviews
 1. RTG-DIR Review 
