@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-09-07T16:56:22.827Z
+date: 2023-09-25T09:43:33.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -14,16 +14,15 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of Sept |
-| WGLC assigned reviews | - | Dhruv | - |
+
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Early allocation | draft-ietf-pce-pcep-color | Dhruv | Poll ends 2023-09-21 |
+| WGLC assigned reviews | - | Dhruv | - |
+| Early allocation | draft-ietf-pce-pcep-color | John | Sent to john 2023-09-25 |
 |Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting authors |
 | Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19; awaiting on John |
-| Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | Awaiting John's confirmation |
-| Last Push | draft-ietf-pce-segment-routing-ipv6 | Cheng Li | Hari is Shepherd; Dhruv polled for X-bit, ready to submit to ADs | 
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Confirmed with ISE; awaiting confirmation from John |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -31,6 +30,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Last Push | draft-ietf-pce-segment-routing-ipv6 | -| Hari is Shepherd | 
+| Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | - |
 | Early Allocation for Native IP | draft-ietf-pce-pcep-extension-native-ip | Dhruv is shepherd | - |
 | WG adoption closed | draft-dhody-pce-stateful-pce-vendor | Julien | - |
 | WG Secretary Onboarding | - | Dhruv | Done at IETF 117 |
@@ -49,6 +50,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Remarks|
 |---|---|---|
 |Recharter|-|Sent email on 2023-08-19|
-|Early Code Point|draft-ietf-pce-sid-algo|Sent email on 2023-08-31|
+|Early Code Point|draft-ietf-pce-pcep-color|Sent email on 2023-09-25|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email 2023-09-07|
 
