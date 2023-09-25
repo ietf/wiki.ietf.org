@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-09-21T18:47:46.453Z
+date: 2023-09-25T08:45:30.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -65,8 +65,8 @@ Shepherd's name indicated within parenthesis.
 	- AD to move fwd
 * draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
 	- 2nd last call passed
-	- Authors have to fix grammar issues before we republish to IESG (shepherd's write up will need update as well).
-	- Action: Mankamana to talk with Ali
+	- Authors have fixed grammar issues (shepherd's write up will need update as well).
+	- Action: Matthew to update shepherd's write up and request publication.
 * draft-ietf-bess-evpn-pref-df (Stephane)
 	- Authors to reply and address comments from IESG
 	- Action: Stephane to push Authors to replu
