@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-09-25T21:18:23.813Z
+date: 2023-09-25T21:23:04.213Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -90,11 +90,11 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Y | WGLC Initiated 2023-09-05 | IPR - 3/3 | Julien | Andrew |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Y | WGLC Accepted 2023-09-25 | IPR - 3/3<br>Shepherd report, RtgDir and SecDir pending | Julien | Andrew |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Y | - | Early code point allocated | - | - |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | - | - |
-| draft-ietf-pce-pcep-color | N | Pending Impl. Status.  | Requested code points 2023-09-03 | - | - |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | N | Pending Impl. Status.  | IANA Early alloc to be sent | - | - |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - | - | - |
 
 
@@ -152,6 +152,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
 |draft-ietf-pce-pcep-extension-native-ip| WG I-D |- CCI Object-Type<br>- BGP Peer Info Object-Type<br>- Explicit Peer Route Object-Type<br>- Peer Prefix Advertisement Object-Type<br>- PCEP-ERROR Object Error Type<br>- Path Setup Type<br>- PCECC-Capability sub-TLV|2023-08-14|-|2024-08-14| 
 |draft-ietf-pce-sid-algo|WG I-D| 4 allocation done |2023-09-13|-|2024-09-13|
+|draft-ietf-pce-pcep-color|WG I-D| To be sent |Pending|-|-|
 
 ### Recent Errata
 
