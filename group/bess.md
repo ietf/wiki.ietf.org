@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-09-25T08:45:30.519Z
+date: 2023-09-25T16:05:55.338Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -13,6 +13,7 @@ dateCreated: 2022-11-05T16:17:26.188Z
 
 ## Critical items (<span style="color:red">RED FLAG</span>)
 * Consistency checks required between editors of BESS YANG models to ensure a similar way of configuring and operations VPN models.
+* If new Path Attributes are specified, IDR review is mandatory.
 
 ## Items to note
 
@@ -118,8 +119,7 @@ Shepherd's name indicated within parenthesis.
   - Hold on until we can assess that there is more support
 
 - draft-ietf-bess-evpn-ipvpn-interworking:
-  - Draft is on good track but haven't got confirmation from Jeff
-  - Action: Jeffrey to check with Jeff if he is fine with new text.
+  - Jeff Haas needs to do another top-to-bottom review of the draft
 
 
 ## Documents candidates for Working Group Last Call
