@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-08-18T12:45:56.874Z
+date: 2023-09-27T04:10:30.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -83,7 +83,7 @@ Reach out to the EODIR mailing list if you need help with an outreach activity. 
 - Dhruv Dhody (overall, regional)
 - Charles Eckel (Hackathon, 3GPP related)
 - Mallory Knodel (Policy)
-- Andrew Campling (Policy)
+
 
 ## Others
 
