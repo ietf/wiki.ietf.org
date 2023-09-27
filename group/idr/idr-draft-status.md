@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-09-27T00:38:59.223Z
+date: 2023-09-27T01:02:07.927Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -56,8 +56,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD + IDR chairs in-depth review  |  IETF Review    |  Nov-11-2021   |  Feb-11-2022 |  TBD | 19 days | 521 days|  613 days     |
 |  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD + IDR Chairs in-depth review  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD   |  151 days  |  388 days  |  438 days | 
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD
-s Review| IESG | 5/25/2023 |  4/14 to 4/24/2023 | 12 days | Sept-8-2023 | 119 days | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 |  4/14 to 4/24/2023 | 12 days | Sept-8-2023 | 119 days | 
 
 {.dense}
 
@@ -66,7 +65,7 @@ s Review| IESG | 5/25/2023 |  4/14 to 4/24/2023 | 12 days | Sept-8-2023 | 119 da
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery | Keyur Patel | Shepherd's write-up + document changes| IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 8 days | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document |  WG LC split     |  1st: Aug-06-2021 Split Oct 3-15 |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document |  WG LC split     |  1st: Aug-06-2021 Split WG LC Oct 3-15 |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
 {.dense}
 | draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Split Document | WG LC split text | 2nd Oct 3-15|  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
 
