@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-09-26T06:46:40.830Z
+date: 2023-09-27T01:14:00.120Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -55,7 +55,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 * RSWG scheduling (see https://mailarchive.ietf.org/arch/msg/iesg/OLV5vU2fMiFRNToS5bfiVrGk5xo/)
-
+* IAB and IESG joint statement (Paul)
 
 #### Not important and not urgent
 
