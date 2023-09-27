@@ -2,7 +2,7 @@
 title: IRSG Teleconference Minutes
 description: 
 published: true
-date: 2023-09-27T22:32:20.214Z
+date: 2023-09-27T22:48:52.958Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
@@ -12,6 +12,7 @@ dateCreated: 2023-02-27T17:52:35.934Z
  ## 2023
  * [2023-09-26](https://wiki.ietf.org/en/group/irtf/irsgminutes/2023-09-26)
  	* Okay from: Jane Coffin, CSP
+  * Okay from: Melinda Shore, at large member
  * [2023-08-29](https://wiki.ietf.org/group/irtf/irsgminutes/2023-08-29)    
  * [2023-06-27](https://wiki.ietf.org/group/irtf/irsgminutes/2023-06-27)
  * [2023-05-30](https://wiki.ietf.org/group/irtf/irsgminutes/2023-05-30)
