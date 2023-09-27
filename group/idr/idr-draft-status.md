@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-09-27T01:02:07.927Z
+date: 2023-09-27T01:06:06.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -66,8 +66,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery | Keyur Patel | Shepherd's write-up + document changes| IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 8 days | 
 |  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document |  WG LC split     |  1st: Aug-06-2021 Split WG LC Oct 3-15 |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
-{.dense}
 | draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Split Document | WG LC split text | 2nd Oct 3-15|  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
+{.dense}
 
 ## Past WG LC awaiting implementation  
 
