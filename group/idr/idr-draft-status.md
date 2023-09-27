@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-09-27T01:06:06.568Z
+date: 2023-09-27T01:06:57.338Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -98,7 +98,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Adopted
 
 For information on adoption process: [IDR adoption process](/group/idr/idr-adoption-process)
-
 | draft                                          | Shepherd       |  status               |  Next step                       |  WG adoption date  |  Adoption call            |  Draft uploaded   |
 |---|---|---|---|---|---|---|
 |  draft-haas-idr-diffract  |  Susan Hares   |  Adopted    |  uploaded WG doc  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
@@ -116,7 +115,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 9/26 to 10/10 / 
+| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 9/26 to 10/10 | 
 {.dense
 
 ## Adoption process - upcoming Adoptions
