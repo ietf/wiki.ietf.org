@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-09-21T15:14:39.448Z
+date: 2023-09-27T00:38:59.223Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -66,9 +66,9 @@ s Review| IESG | 5/25/2023 |  4/14 to 4/24/2023 | 12 days | Sept-8-2023 | 119 da
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery | Keyur Patel | Shepherd's write-up + document changes| IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 8 days | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document  |  WG LC split     |  1st: Aug-06-2021  |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Split Document |  WG LC split     |  1st: Aug-06-2021 Split Oct 3-15 |  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
 {.dense}
-
+| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Split Document | WG LC split text | 2nd Oct 3-15|  1st: Jul-04-2022   |  TBD | 1 day | 378 days  | 710 days   |
 
 ## Past WG LC awaiting implementation  
 
@@ -82,7 +82,7 @@ s Review| IESG | 5/25/2023 |  4/14 to 4/24/2023 | 12 days | Sept-8-2023 | 119 da
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-entropy-label-05 | Susan Hares | 1  | WG LC |  TBD | 8/29 to 9/12 | 2 weeks | TBD | 
+| draft-ietf-idr-entropy-label-12 | Susan Hares | 1  | WG LC |  2nd WG LC | 8/29 to 9/12 | 2 weeks | 2nd WG LC Oct 3-15 | 
 {.dense}
 
 ## WG LC Pending
@@ -109,7 +109,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## In WG Adoption Process (IDR Chairs review)
 |  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
-|  draft-dong-idr-sr-policy-nrp-01   |  Susan Hares  |  Held for review   |  uploaded        |  3/1 to 3/28      |  3/17           |  5/26   |
+|  draft-dong-idr-sr-policy-nrp-01   |  Susan Hares  |  Held for TEAS WG  |  uploaded        |  3/1 to 3/28      |  3/17           |  5/26   |
 |  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption     |  4/12-5/12      |  5/12    |   TBD       |
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28           |  5/26   |
 {.dense}
@@ -117,16 +117,15 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-|none| 
-{.dense}
+| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 9/26 to 10/10 / 
+{.dense
 
 ## Adoption process - upcoming Adoptions
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-|  draft-zhang-idr-sr-policy-metric-04 |  Susan Hares  |  Adoption and IPR Call  |  TBD        |  TBD   |  TBD |9/21 to 10/5  | 
-| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Adoption and IPR Call |  TBD | TBD | TBD | 9/21 to 10/5  | 
-| draft-peng-idr-segment-routing-te-policy-attr | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 9/21 to 10/5| 
+|  draft-zhang-idr-sr-policy-metric-04 |  Susan Hares  |  Awaitng -05   |  Adoption call        |  TBD   |  TBD | TBD   | 
+| draft-peng-idr-segment-routing-te-policy-attr | Susan Hares |  IPR call | Adoption call | TBD | TBD | 9/22 to 9/27| 
 | draft-wang-idr-cpr-02 | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 9/28 to 10/12 |
 |  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 9/28 to 10/12 | 
 | draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | 9/28 to 10/12  | 
