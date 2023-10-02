@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-02T13:54:47.499Z
+date: 2023-10-02T13:59:20.359Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -235,12 +235,13 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - Evaluate the applicability of TAPS API for the use of QUIC tranport in deep space
 - **documents**
-  - https://datatracker.ietf.org/doc/draft-kuhn-quic-bdpframe-extension
-  - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-careful-resume
-  - https://datatracker.ietf.org/doc/draft-many-deepspace-ip-assessment
+  - [draft-kuhn-quic-bdpframe-extension](https://datatracker.ietf.org/doc/draft-kuhn-quic-bdpframe-extension)
+  - [draft-ietf-tsvwg-careful-resume](https://datatracker.ietf.org/doc/draft-ietf-tsvwg-careful-resume)
+  - [draft-many-deepspace-ip-assessment](https://datatracker.ietf.org/doc/draft-many-deepspace-ip-assessment)
 - **media**
-  - [ml deepspace] (https://www.ietf.org/mailman/listinfo/deepspace)
-  - quic-in-space in quic slack https://app.slack.com/client/T68CVLH1R/C05JBHWTMM5 
+  - [ml deepspace](https://www.ietf.org/mailman/listinfo/deepspace)
+  - [#quic-in-space in slack sub channel](https://app.slack.com/client/T68CVLH1R/C05JBHWTMM5 )
+
  
 ### Your Project Name
 - **Champion(s)**
