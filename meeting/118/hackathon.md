@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-09-28T19:44:42.309Z
+date: 2023-10-02T09:51:44.628Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -216,12 +216,18 @@ A good starting place is our Github repository: https://github.com/IETF-Hackatho
 
 For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
   
-
-### Your Project Name
+  
+  ### PQ Encrypted Client Hello 
 - **Champion(s)**
-  - Your Name (email at domain.com)
+  - Georgios Tasopoulos (g.tasop@isi.gr)
+  - Evangelos Haleplidis (haleplidis@isi.gr)
+  - Apostolos Fournaris (fournaris@isi.gr)
 - **Project Info**
-  - Your project description here
+  - Our goal is to initiate an effort to introduce Post-Quantum algorithms (specifically PQ KEMs) into the TLS 1.3 extension Encrypted Client Hello (ECH). We have selected the wolfSSL library as our TLS 1.3 implementation as it includes an ECH extension implementation and we are the most familiar with. We have setup a common code starting point using Vagrant and a github repository in order to help the development between participants during the Hackathon.
+- **Draft Specifications**
+	- https://datatracker.ietf.org/doc/rfc8446/
+  - https://datatracker.ietf.org/doc/draft-ietf-tls-esni/16
+
   
 ### Your Project Name
 - **Champion(s)**
