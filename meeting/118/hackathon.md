@@ -228,7 +228,21 @@ For information on OIDs used to create interoperable structures, consult: https:
 	- https://datatracker.ietf.org/doc/rfc8446/
   - https://datatracker.ietf.org/doc/draft-ietf-tls-esni/16
 
-  
+### Tie Die IoT Onboarding and Application Layer Gateway
+ - **Champions**
+   - Eliot Lear ( lear at lear.ch )
+   - Bart Brinckman ( bbrinckm at cisco.com )
+   - Rohit Mohan ( rohitmo at cisco.com )
+ - **Project Info**
+   - Tie Die is a combination of IoT provisioning technology and an application layer gateway that may be used to
+     register new IoT devices, whether they are BLE, Zigbee, or IP-based.  Tie Die starts with the SCIM model for
+     provisioning, with the notion that schemas should be technology neutral.  The first code we have, though, is
+     primarily BLE.  By the time of the Hackathon we will have Zigbee.  We hope also to do some work to enable both
+     DPP, and to extend the SCIM device model to also handle Fido Device Onboarding.
+- **Documents**
+  - https://datatracker.ietf.org/doc/html/draft-ietf-scim-device-model
+  - Draft for Non-IP-Control (NIPC) to be released shortly, along with open source.
+
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
