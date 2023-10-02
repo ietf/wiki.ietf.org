@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-02T13:52:23.584Z
+date: 2023-10-02T13:54:47.499Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -239,8 +239,8 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://datatracker.ietf.org/doc/draft-ietf-tsvwg-careful-resume
   - https://datatracker.ietf.org/doc/draft-many-deepspace-ip-assessment
 - **media**
-  - ml  deepspace  https://www.ietf.org/mailman/listinfo/deepspace
-  - quic-in-space in quic slack 
+  - [ml deepspace] (https://www.ietf.org/mailman/listinfo/deepspace)
+  - quic-in-space in quic slack https://app.slack.com/client/T68CVLH1R/C05JBHWTMM5 
  
 ### Your Project Name
 - **Champion(s)**
