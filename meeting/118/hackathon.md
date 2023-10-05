@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-02T14:01:28.139Z
+date: 2023-10-05T10:02:12.503Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -233,7 +233,14 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Emile Stephan (emile.stephan@orange.com)
   - Marc Blanchet (marc.blanchet@viagenie.ca)
 - **Project Info**
-  - Evaluate the applicability of TAPS API for the use of QUIC tranport in deep space
+  - The purpose of the project is to devellop an open-source TAPS transport service for space an deep space based on existing open source QUIC stack and extensions. 
+    
+  - This includes prior knowledge parameters already discussed during at Marc table during IETF117 hackathon : need to customize the bootstrapping parameters, default parameters, multipath...
+ 
+  - When needed, the project will extend TAPS API for covering DTN transport services like store-and-forward, routing, dynamic network paths...;
+ 
+  - To ease the work during this first table it is suggested to start with Christian [QUIC to Mars]( https://www.privateoctopus.com/2023/02/07/quic-to-mars.html) open-source QUIC implementation.
+  
 - **documents**
   - [draft-kuhn-quic-bdpframe-extension](https://datatracker.ietf.org/doc/draft-kuhn-quic-bdpframe-extension)
   - [draft-ietf-tsvwg-careful-resume](https://datatracker.ietf.org/doc/draft-ietf-tsvwg-careful-resume)
@@ -241,7 +248,9 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **media**
   - [deepspace ietf ml](https://www.ietf.org/mailman/listinfo/deepspace)
   - [#quic-in-space in slack sub channel](https://app.slack.com/client/T68CVLH1R/C05JBHWTMM5 )
+- **materials**
 
+  - Huitema Picoquic: https://github.com/private-octopus/picoquic
  
 ### Your Project Name
 - **Champion(s)**
