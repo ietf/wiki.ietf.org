@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-09-28T01:34:01.446Z
+date: 2023-10-05T10:22:02.999Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -79,8 +79,9 @@ Shepherd's name indicated within parenthesis.
 	- IESG comments to be addressed
  	- Action: Matthew is discussing with Jorge to get an update
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
-	- Directorates comments have been addressed
-  - AD to followup
+	- Numerouse DISCUSS and other comments from IESG
+  - Sent back to WG due to boilerplate issue requiring new adoption and WG LC.
+  - Action: Matthew to progress
 
 
 ## Documents under Shepherd's review
