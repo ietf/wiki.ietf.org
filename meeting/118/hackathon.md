@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-06T07:24:07.352Z
+date: 2023-10-06T13:34:58.174Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -264,6 +264,18 @@ For information on OIDs used to create interoperable structures, consult: https:
     2) Second to survey DNS statistics tools out there to see how they handle long-lived TCP sessions to understand how wide a problem this might be, if any. And maybe fix some of them if issues are spotted when doing this.
 
     Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
+    
+# Tie Die IoT Onboarding and Application Layer Gateway
+- **Champions**
+   - Eliot Lear ( lear at lear.ch )
+   - Bart Brinckman ( bbrinckm at cisco.com )
+   - Rohit Mohan ( rohitmo at cisco.com )
+- **Project Info**
+   - Tie Die is a combination of IoT provisioning technology and an application layer gateway that may be used to register new IoT devices, whether they are BLE, Zigbee, or IP-based. Tie Die starts with the SCIM model for provisioning, with the notion that schemas should be technology neutral. The first code we have, though, is primarily BLE. By the time of the Hackathon we will have Zigbee. We hope also to do some work to enable both DPP, and to extend the SCIM device model to also handle Fido Device Onboarding.
+- **Documents**
+  - https://datatracker.ietf.org/doc/html/draft-ietf-scim-device-model
+  - Draft for Non-IP-Control (NIPC) to be released shortly, along with open source.
+
 
 ### Your Project Name
 - **Champion(s)**
