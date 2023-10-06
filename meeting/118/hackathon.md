@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-05T10:02:12.503Z
+date: 2023-10-06T07:17:58.620Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -252,12 +252,25 @@ For information on OIDs used to create interoperable structures, consult: https:
 
   - Huitema Picoquic: https://github.com/private-octopus/picoquic
  
+### Are long-lived TCP sessions a problem for (DNS) statistics?
+- **Champion(s)**
+  - Jerry Lundström (jerry@dns-oarc.net)
+  - Roy Arends (roy@dnss.ec)
+- **Project Info**
+  - Some tools uses packet capturing to do statistics for DNS and some of them needs to see the beginning of the TCP sessions. If resolver systems out there start keeping TCP session against authorities open for a very long time (days or weeks) then it might become a problem for these tools.
+
+    We would like to look at two things;
+    1) First to poke at data to see if there are very long-lived TCP sessions out there today, or not(!) which is equally interesting to know.
+    2) Second to survey DNS statistics tools out there to see how they handle long-lived TCP sessions to understand how wide a problem this might be, if any. And maybe fix some of them if issues are spotted when doing this.
+
+    Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
+
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
 - **Project Info**
   - Your project description here
-  
+
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
