@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-06T07:17:58.620Z
+date: 2023-10-06T07:24:07.352Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -254,8 +254,8 @@ For information on OIDs used to create interoperable structures, consult: https:
  
 ### Are long-lived TCP sessions a problem for (DNS) statistics?
 - **Champion(s)**
-  - Jerry Lundström (jerry@dns-oarc.net)
-  - Roy Arends (roy@dnss.ec)
+  - Jerry Lundström (jerry at dns-oarc.net)
+  - Roy Arends (roy at dnss.ec)
 - **Project Info**
   - Some tools uses packet capturing to do statistics for DNS and some of them needs to see the beginning of the TCP sessions. If resolver systems out there start keeping TCP session against authorities open for a very long time (days or weeks) then it might become a problem for these tools.
 
