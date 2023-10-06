@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-06T13:34:58.174Z
+date: 2023-10-06T16:15:41.030Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -265,7 +265,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 
     Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
     
-# Tie Die IoT Onboarding and Application Layer Gateway
+### Tie Die IoT Onboarding and Application Layer Gateway
 - **Champions**
    - Eliot Lear ( lear at lear.ch )
    - Bart Brinckman ( bbrinckm at cisco.com )
@@ -275,6 +275,19 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Documents**
   - https://datatracker.ietf.org/doc/html/draft-ietf-scim-device-model
   - Draft for Non-IP-Control (NIPC) to be released shortly, along with open source.
+
+### Low-Latency, Low-Loss, and Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champion(s)**
+  - Greg White (g.white at cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss. 
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in the Code Lounge for the rest of the week.
+- **Documents**
+  - [RFC9330](https://www.rfc-editor.org/rfc/rfc9330.html)
+  - [RFC9331](https://www.rfc-editor.org/rfc/rfc9331.html)
+  - [RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
+  - [draft-ietf-tcpm-accurate-ecn-26](https://www.ietf.org/archive/id/draft-ietf-tcpm-accurate-ecn-26.html)
 
 
 ### Your Project Name
