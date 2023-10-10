@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-06T16:15:41.030Z
+date: 2023-10-10T07:25:37.635Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -289,6 +289,17 @@ For information on OIDs used to create interoperable structures, consult: https:
   - [RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
   - [draft-ietf-tcpm-accurate-ecn-26](https://www.ietf.org/archive/id/draft-ietf-tcpm-accurate-ecn-26.html)
 
+### Encryption algorithm Rocca-S
+
+- **Champion(s)**
+	- Yuto Nakano (yt-nakano at kddi.com)
+
+- **Project Info**
+	- Rocca-S is an authenticated encryption with associated data (AEAD) algorithm designed for high performance applications. The goal of this hackathon is to include Rocca-S as one of the algorithms in OpenSSL.
+  - The academic paper of Rocca-S is presented at ESORICS 2023 (https://esorics2023.org/)
+
+- **Draft Specification**
+	- https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
 
 ### Your Project Name
 - **Champion(s)**
