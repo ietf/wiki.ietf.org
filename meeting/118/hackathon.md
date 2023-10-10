@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-02T09:51:44.628Z
+date: 2023-10-10T07:25:37.635Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -228,27 +228,85 @@ For information on OIDs used to create interoperable structures, consult: https:
 	- https://datatracker.ietf.org/doc/rfc8446/
   - https://datatracker.ietf.org/doc/draft-ietf-tls-esni/16
 
+### Tapsce, TAPS in space
+- **Champion(s)**
+  - Emile Stephan (emile.stephan@orange.com)
+  - Marc Blanchet (marc.blanchet@viagenie.ca)
+- **Project Info**
+  - The purpose of the project is to devellop an open-source TAPS transport service for space an deep space based on existing open source QUIC stack and extensions. 
+    
+  - This includes prior knowledge parameters already discussed during at Marc table during IETF117 hackathon : need to customize the bootstrapping parameters, default parameters, multipath...
+ 
+  - When needed, the project will extend TAPS API for covering DTN transport services like store-and-forward, routing, dynamic network paths...;
+ 
+  - To ease the work during this first table it is suggested to start with Christian [QUIC to Mars]( https://www.privateoctopus.com/2023/02/07/quic-to-mars.html) open-source QUIC implementation.
+  
+- **documents**
+  - [draft-kuhn-quic-bdpframe-extension](https://datatracker.ietf.org/doc/draft-kuhn-quic-bdpframe-extension)
+  - [draft-ietf-tsvwg-careful-resume](https://datatracker.ietf.org/doc/draft-ietf-tsvwg-careful-resume)
+  - [draft-many-deepspace-ip-assessment](https://datatracker.ietf.org/doc/draft-many-deepspace-ip-assessment)
+- **media**
+  - [deepspace ietf ml](https://www.ietf.org/mailman/listinfo/deepspace)
+  - [#quic-in-space in slack sub channel](https://app.slack.com/client/T68CVLH1R/C05JBHWTMM5 )
+- **materials**
+
+  - Huitema Picoquic: https://github.com/private-octopus/picoquic
+ 
+### Are long-lived TCP sessions a problem for (DNS) statistics?
+- **Champion(s)**
+  - Jerry Lundström (jerry at dns-oarc.net)
+  - Roy Arends (roy at dnss.ec)
+- **Project Info**
+  - Some tools uses packet capturing to do statistics for DNS and some of them needs to see the beginning of the TCP sessions. If resolver systems out there start keeping TCP session against authorities open for a very long time (days or weeks) then it might become a problem for these tools.
+
+    We would like to look at two things;
+    1) First to poke at data to see if there are very long-lived TCP sessions out there today, or not(!) which is equally interesting to know.
+    2) Second to survey DNS statistics tools out there to see how they handle long-lived TCP sessions to understand how wide a problem this might be, if any. And maybe fix some of them if issues are spotted when doing this.
+
+    Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
+    
 ### Tie Die IoT Onboarding and Application Layer Gateway
- - **Champions**
+- **Champions**
    - Eliot Lear ( lear at lear.ch )
    - Bart Brinckman ( bbrinckm at cisco.com )
    - Rohit Mohan ( rohitmo at cisco.com )
- - **Project Info**
-   - Tie Die is a combination of IoT provisioning technology and an application layer gateway that may be used to
-     register new IoT devices, whether they are BLE, Zigbee, or IP-based.  Tie Die starts with the SCIM model for
-     provisioning, with the notion that schemas should be technology neutral.  The first code we have, though, is
-     primarily BLE.  By the time of the Hackathon we will have Zigbee.  We hope also to do some work to enable both
-     DPP, and to extend the SCIM device model to also handle Fido Device Onboarding.
+- **Project Info**
+   - Tie Die is a combination of IoT provisioning technology and an application layer gateway that may be used to register new IoT devices, whether they are BLE, Zigbee, or IP-based. Tie Die starts with the SCIM model for provisioning, with the notion that schemas should be technology neutral. The first code we have, though, is primarily BLE. By the time of the Hackathon we will have Zigbee. We hope also to do some work to enable both DPP, and to extend the SCIM device model to also handle Fido Device Onboarding.
 - **Documents**
   - https://datatracker.ietf.org/doc/html/draft-ietf-scim-device-model
   - Draft for Non-IP-Control (NIPC) to be released shortly, along with open source.
+
+### Low-Latency, Low-Loss, and Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champion(s)**
+  - Greg White (g.white at cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss. 
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in the Code Lounge for the rest of the week.
+- **Documents**
+  - [RFC9330](https://www.rfc-editor.org/rfc/rfc9330.html)
+  - [RFC9331](https://www.rfc-editor.org/rfc/rfc9331.html)
+  - [RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
+  - [draft-ietf-tcpm-accurate-ecn-26](https://www.ietf.org/archive/id/draft-ietf-tcpm-accurate-ecn-26.html)
+
+### Encryption algorithm Rocca-S
+
+- **Champion(s)**
+	- Yuto Nakano (yt-nakano at kddi.com)
+
+- **Project Info**
+	- Rocca-S is an authenticated encryption with associated data (AEAD) algorithm designed for high performance applications. The goal of this hackathon is to include Rocca-S as one of the algorithms in OpenSSL.
+  - The academic paper of Rocca-S is presented at ESORICS 2023 (https://esorics2023.org/)
+
+- **Draft Specification**
+	- https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
 
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
 - **Project Info**
   - Your project description here
-  
+
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.

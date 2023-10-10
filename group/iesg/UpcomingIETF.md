@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-09-13T15:49:38.475Z
+date: 2023-10-05T11:24:56.931Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,7 +16,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 118, or the joint meetings with the IAB.
 
-> 1. Example topic (Name)
+> 1. To the IESG, about the ISE (Suggested by Eliot Lear)
 > 2. Example topic (Name)
 > 3. Example topic (Name)
 > 4. Example topic (Name)
