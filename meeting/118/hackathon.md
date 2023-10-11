@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-10T07:25:37.635Z
+date: 2023-10-11T14:25:54.688Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -300,6 +300,22 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 - **Draft Specification**
 	- https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
+  
+### Attestation and TLS
+- **Champion(s)**
+  - Thomas Fossati (thomas.fossati at arm.com)
+  - Paul Howard (paul.howard at arm.com)
+  - Yogesh Deshpande (yogesh.deshpande at arm.com)
+  - Ionut Mihalcea (ionut.mihalcea at arm.com)
+- **Project Info**
+  - TLS extensions to support attestation tokens as first-class authentication credentials
+  - End-to-end demonstrator with attester, verifier and relying party
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-fossati-tls-attestation
+  - https://datatracker.ietf.org/doc/draft-bft-rats-kat
+  - https://datatracker.ietf.org/doc/draft-ftbs-rats-msg-wrap
+- **Code**
+  - https://github.com/CCC-Attestation/attested-tls-poc
 
 ### Your Project Name
 - **Champion(s)**
