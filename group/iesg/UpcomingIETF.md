@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-05T11:24:56.931Z
+date: 2023-10-12T17:57:57.683Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -141,13 +141,13 @@ Onsite Tool:
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: TBD
+Location: [Paris](https://datatracker.ietf.org/meeting/118/floor-plan?room=paris), Lobby Level
 
 
 ## Sunday, 5 November 2023
 note: Not available before 09:00 Sunday
 
-* TIME - ACTIVITY
+* 14:00 - TSV AD Office Hours
 * TIME - ACTIVITY
 
 ## Monday, 6 November 2023
