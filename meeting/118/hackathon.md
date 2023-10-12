@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-12T16:07:42.031Z
+date: 2023-10-12T17:09:52.058Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: Saturday - Sunday, 4-5 November 2023
 * :bridge_at_night: **Where**: Hilton Prague, Prague, Czechia
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: [Ballroom](https://datatracker.ietf.org/meeting/118/floor-plan?room=ballroom), Mezzanine Level
 {.grid-list}
  
 **Sponsored by**
@@ -67,13 +67,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 6 November, Time: 18:30 - 19:30, Room: TBD
+  * Monday, 6 November, Time: 18:30 - 19:30, Room: Ballroom Foyer, Mezzanine Level
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 6 November
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Tuesday - Friday, 7-10 November, Room: TBD
+  * Tuesday - Friday, 7-10 November, Room: Karlin 3, Mezzanine Level
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
