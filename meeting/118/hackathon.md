@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-12T16:06:31.892Z
+date: 2023-10-12T16:07:42.031Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -20,7 +20,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 | Gold Running Code Sponsor | Silver Running Code Sponsor | Bronze Running Code Sponsors | 
 |:---:|:---:|:---:|
-| ![Ericsson](/eri_vertical_rgb.max-120x74.png) |![meta_logo.png](/hackathon/meta_logo.png) | ![ICANN](/icann_primary_logo_cmyk_noeyywh.max-120x74.jpg) ![cnnic-logo-sm.png](/hackathon/cnnic-logo-sm.png) |
+| ![Ericsson](/eri_vertical_rgb.max-120x74.png) |![meta_logo.png](/hackathon/meta_logo.png) | ![ICANN](/icann_primary_logo_cmyk_noeyywh.max-120x74.jpg) ![cnnic-logo-sm2.png](/hackathon/cnnic-logo-sm2.png)|
 
 
 **Sign up for the Hackathon**
