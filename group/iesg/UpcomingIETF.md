@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-12T17:57:57.683Z
+date: 2023-10-12T18:03:43.889Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -11,7 +11,7 @@ dateCreated: 2022-07-23T19:50:44.319Z
 # IETF 118 - Prague, Czechia
 This is scratch space for the upcoming IETF meeting; it *will* be cleared afterwards and reused for the next meeting. 
 
-*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/))*
+*(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/agenda/))*
 
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 118, or the joint meetings with the IAB.
