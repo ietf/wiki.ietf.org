@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-12T17:09:52.058Z
+date: 2023-10-12T17:51:18.252Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -265,6 +265,15 @@ For information on OIDs used to create interoperable structures, consult: https:
 
     Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
     
+### Media over QUIC (MoQ)
+
+- **Champion**
+  - Suhas Nandakumar
+  
+- **Project Info**
+   - Media over QUIC is developing a low-latency media delivery solution suitable for ingest and distribution of media with for support for relays.This effort is expected to be focused on testing the MoQ transport, using the latest version of draft-ietf-moq-transport as an implementation target.
+ - **Documents**
+  -https://datatracker.ietf.org/doc/draft-ietf-moq-transport/
 ### Tie Die IoT Onboarding and Application Layer Gateway
 - **Champions**
    - Eliot Lear ( lear at lear.ch )
