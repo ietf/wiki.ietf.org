@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T18:08:52.001Z
+date: 2023-10-13T19:14:52.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -125,7 +125,6 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 07:30 |                  |                  |   
 | 08:00 |                  |   NOT AVAILABLE  |   
 | 08:30 |                  |   NOT AVAILABLE  |   
 | 09:00 |                  |   NOT AVAILABLE  |   
@@ -162,7 +161,6 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 07:30 |                  |   NOT AVAILABLE  |   
 | 08:00 |                  |   NOT AVAILABLE  |   
 | 08:30 |                  |   NOT AVAILABLE  |   
 | 09:00 |                  |   NOT AVAILABLE  |   
@@ -195,7 +193,6 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 07:30 |                  |   NOT AVAILABLE  |   
 | 08:00 |                  |   NOT AVAILABLE  |   
 | 08:30 |                  |   NOT AVAILABLE  |   
 | 09:00 |                  |   NOT AVAILABLE  |   
@@ -226,8 +223,7 @@ Location: Mezzanine Level
 ## <a id="thursday"></a>Thursday 9 November {#Thursday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
-|-------|------------------|------------------| 
-| 07:30 |                  |                  |   
+|-------|------------------|------------------|  
 | 08:00 |                  |                  |   
 | 08:30 |                  |                  |   
 | 09:00 |                  |                  |   
@@ -260,7 +256,6 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 07:30 |                  |                  |   
 | 08:00 |                  |                  |   
 | 08:30 |                  |                  |   
 | 09:00 |                  |                  |   
