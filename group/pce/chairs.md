@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-09-25T09:43:33.802Z
+date: 2023-10-13T11:00:17.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,7 +21,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 | WGLC assigned reviews | - | Dhruv | - |
 | Early allocation | draft-ietf-pce-pcep-color | John | Sent to john 2023-09-25 |
-|Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting authors |
+|Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting Dhruv's response |
 | Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19; awaiting on John |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Confirmed with ISE; awaiting confirmation from John |
