@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T17:56:11.016Z
+date: 2023-10-13T18:08:52.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -74,7 +74,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|          |          |                  |          |             |                         |                       |          |
+|    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
@@ -180,11 +180,11 @@ Location: Mezzanine Level
 | 15:00 |                  |                  |  
 | 15:30 |                  |                  |   
 | 16:00 |                  |                  |   
-| 16:30 |                  |                  |   
-| 17:00 |                  |                  |   
-| 17:30 |                  |                  |   
-| 18:00 |                  |                  |   
-| 18:30 |                  |                  |   
+| 16:30 |                  |     AIDC             |   
+| 17:00 |                  |     AIDC             |   
+| 17:30 |                  |     AIDC            |   
+| 18:00 |                  |     AIDC            |   
+| 18:30 |                  |     AIDC            |   
 | 19:00 |                  |                  |   
 | 19:30 |                  |                  |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
