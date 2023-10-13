@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T19:39:50.405Z
+date: 2023-10-13T21:14:16.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -226,8 +226,8 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------|  
 | 08:00 |                  |                  |   
-| 08:30 |                  |  eodir           |   
-| 09:00 |                  |  eodir           |   
+| 08:30 |                  |                  |   
+| 09:00 |                  |                  |  
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
@@ -257,9 +257,9 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |                  |   
-| 08:30 |                  |                  |   
-| 09:00 |                  |                  |   
+| 08:00 |                  |                  |  
+| 08:30 |                  |  eodir           |   
+| 09:00 |                  |  eodir           |   
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
