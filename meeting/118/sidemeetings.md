@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T19:36:46.761Z
+date: 2023-10-13T19:39:50.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -38,7 +38,7 @@ This wiki is used to book the side meeting rooms and share details of the topics
 # Audio/Visual provision and remote participation
 Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
 
-We provide a Chromebook with a preconfigured WebEx room in each side meeting room (details below and in each side meeting room). The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
+We provide a Chromebook with a preconfigured WebEx room in each side meeting room (details will be posted on this wiki soon and in each side meeting room). The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
 
 # Two step process to schedule a side meeting 
 
@@ -59,7 +59,7 @@ Other platforms including Zoom, Teams, and etc. can also be used.
  
 Please sort the meeting by time if possible.
 
-## [MONDAY 6 NOVEMBER](#monday)
+## [MONDAY 6 November](#monday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -70,7 +70,7 @@ Please sort the meeting by time if possible.
 {.dense}
 
 
-## [TUESDAY 7 NOVEMBER](#tuesday)
+## [TUESDAY 7 November](#tuesday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -87,7 +87,7 @@ Please sort the meeting by time if possible.
 
 {.dense}
 
-## [THURSDAY 9 NOVEMBER](#thursday)
+## [THURSDAY 9 November](#thursday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -96,7 +96,7 @@ Please sort the meeting by time if possible.
 {.dense}
 
 
-## [FRIDAY 10 NOVEMBER](#friday)
+## [FRIDAY 10 November](#friday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -190,7 +190,7 @@ Location: Mezzanine Level
 {.dense}
 
 
-## <a id="wednesday"></a>Wednesday 8 November{#Wednesday}
+## <a id="wednesday"></a>WEDNESDAY 8 November{#Wednesday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
@@ -221,7 +221,7 @@ Location: Mezzanine Level
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
-## <a id="thursday"></a>Thursday 9 November {#Thursday}
+## <a id="thursday"></a>THURSDAY 9 November {#Thursday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------|  
@@ -253,7 +253,7 @@ Location: Mezzanine Level
 {.dense}
 
 
-## <a id="friday"></a>Friday 10 November {#Friday}
+## <a id="friday"></a>FRIDAY 10 November {#Friday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
