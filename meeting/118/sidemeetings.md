@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T21:14:16.965Z
+date: 2023-10-13T21:17:40.729Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -82,7 +82,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|          |          |                  |          |             |                         |                       |          |
+|      8:30-9:30    |  Karlin 4        |  IETF sustainability/co2 footprint                |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 
 {.dense}
@@ -226,8 +226,8 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------|  
 | 08:00 |                  |                  |   
-| 08:30 |                  |                  |   
-| 09:00 |                  |                  |  
+| 08:30 |  co2 footprint   |                  |   
+| 09:00 |  co2 footprint   |                  |  
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
