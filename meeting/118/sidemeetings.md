@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T21:17:40.729Z
+date: 2023-10-13T21:54:22.321Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -51,7 +51,12 @@ We provide a Chromebook with a preconfigured WebEx room in each side meeting roo
 At a minimum, please make sure to provide a day/time/room as well as meeting name, point of contact and meeting description.
 
 
-A Chromebook is available to facilitate remote participation using Webex. Room-specific instructions for using Webex will be available closer to the meeting date.
+A Chromebook is available to facilitate remote participation using Webex. The Webex personal meetings are as follow:
+
+Palmovka 1/2 (40U): https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting. 
+
+Prague (smaller side meeting room): https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions.pdf) for managing your meeting.
+
 
 Other platforms including Zoom, Teams, and etc. can also be used.
 
