@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-14T00:04:46.111Z
+date: 2023-10-14T02:46:38.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -97,6 +97,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
+|          |          |                  |          |             |                         |                       |          |
+| 14:30-9:30  |  Palmovka 1/2  | Collective Communications Optimization （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communications optimization   |                       |        |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
@@ -243,8 +245,8 @@ Location: Mezzanine Level
 | 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
 | 14:00 |                  |                  |  
-| 14:30 |                  |                  | 
-| 15:00 |                  |                  |  
+| 14:30 |                  |       CCO        | 
+| 15:00 |                  |       CCO        |  
 | 15:30 |                  |                  |   
 | 16:00 |                  |                  |   
 | 16:30 |                  |                  |   
