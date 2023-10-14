@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-14T02:47:57.777Z
+date: 2023-10-14T02:49:06.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -247,7 +247,7 @@ Location: Mezzanine Level
 | 14:00 |                  |                  |  
 | 14:30 |                  |       CCO        | 
 | 15:00 |                  |       CCO        |  
-| 15:30 |                  |                  |   
+| 15:30 |                  |       CCO        |   
 | 16:00 |                  |                  |   
 | 16:30 |                  |                  |   
 | 17:00 |                  |                  |   
