@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-14T02:49:06.831Z
+date: 2023-10-14T07:31:05.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -79,6 +79,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|    08:00-09:30      |    Karlin 4       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 |    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
@@ -169,9 +170,9 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |                  |   NOT AVAILABLE  |   
-| 09:00 |                  |   NOT AVAILABLE  |   
+| 08:00 |    SR Operation  |   NOT AVAILABLE  |   
+| 08:30 |    SR Operation  |   NOT AVAILABLE  |   
+| 09:00 |    SR Operation  |   NOT AVAILABLE  |   
 | 09:30 |                  |   NOT AVAILABLE  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
