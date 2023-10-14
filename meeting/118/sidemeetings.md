@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-13T23:57:34.413Z
+date: 2023-10-14T00:04:46.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -96,7 +96,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |          |
+|   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
