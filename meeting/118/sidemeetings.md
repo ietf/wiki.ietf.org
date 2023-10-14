@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-14T07:31:05.352Z
+date: 2023-10-14T07:40:36.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -68,6 +68,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|    14:00-15:30      |    Palmovka 1/2       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
 |          |          |                  |          |             |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
@@ -79,7 +80,6 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|    08:00-09:30      |    Karlin 4       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 |    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
@@ -146,9 +146,9 @@ Location: Mezzanine Level
 | 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
-| 14:00 |                  |                  |  
-| 14:30 |                  |                  | 
-| 15:00 |                  |                  |  
+| 14:00 |                  |   SR Operation   |  
+| 14:30 |                  |   SR Operation   | 
+| 15:00 |                  |   SR Operation   |  
 | 15:30 |                  |                  |   
 | 16:00 |                  |                  |   
 | 16:30 |                  |                  |   
@@ -170,9 +170,9 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |    SR Operation  |   NOT AVAILABLE  |   
-| 08:30 |    SR Operation  |   NOT AVAILABLE  |   
-| 09:00 |    SR Operation  |   NOT AVAILABLE  |   
+| 08:00 |                  |   NOT AVAILABLE  |   
+| 08:30 |                  |   NOT AVAILABLE  |   
+| 09:00 |                  |   NOT AVAILABLE  |   
 | 09:30 |                  |   NOT AVAILABLE  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
