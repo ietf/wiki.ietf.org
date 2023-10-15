@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-15T08:56:20.996Z
+date: 2023-10-15T09:01:57.031Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -70,7 +70,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    14:00-15:30      |    Palmovka 1/2       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
-| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |                         |                       |          |
+| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
@@ -154,9 +154,9 @@ Location: Mezzanine Level
 | 16:30 |                  |                  |   
 | 17:00 |                  |                  |   
 | 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
-| 18:00 |                  |                  |   
-| 18:30 |                  |                  |   
-| 19:00 |                  |                  |   
+| 18:00 |                  | QoS & TE for differentiated deterministic service                 |   
+| 18:30 |                  | QoS & TE for differentiated deterministic service                 |   
+| 19:00 |                  | QoS & TE for differentiated deterministic service                 |   
 | 19:30 |                  |                  |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
