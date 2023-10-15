@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-15T08:52:56.512Z
+date: 2023-10-15T08:56:20.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -70,7 +70,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    14:00-15:30      |    Palmovka 1/2       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 |  25:00        |    The Bar      |    Example Side Meeting              |   IESG   |         we@example.com    |     We <3 IETF        |          [Link!](#)             |   [Link!](#)       |
-| 17：30-19：00  |  Palmovka 1/2   |   QoS & TE for Differenticated Derteminstic service          |          |             |                         |                       |          |
+| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
@@ -153,7 +153,7 @@ Location: Mezzanine Level
 | 16:00 |                  |                  |   
 | 16:30 |                  |                  |   
 | 17:00 |                  |                  |   
-| 17:30 |                  | QoS & TE for differentiated determinstic service                 |   
+| 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:00 |                  |                  |   
 | 18:30 |                  |                  |   
 | 19:00 |                  |                  |   
