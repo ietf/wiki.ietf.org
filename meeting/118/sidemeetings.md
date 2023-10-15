@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-15T13:52:55.442Z
+date: 2023-10-15T16:13:52.497Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -81,6 +81,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|      8:30-9:30    |  Palmovka 1/2        |  enterprise IP network evolution               |   RTGWG   |   gaoqiangzhou@huawei.com      |    enterprise IP network evolution                   |          |
 |    16:30-17:30      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
 |    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |          |
 |          |          |                  |          |             |                         |                       |          |
@@ -173,9 +174,9 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |                  |   NOT AVAILABLE  |   
-| 09:00 |                  |   NOT AVAILABLE  |   
-| 09:30 |                  |   NOT AVAILABLE  |   
+| 08:30 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
+| 09:00 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
+| 09:30 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
