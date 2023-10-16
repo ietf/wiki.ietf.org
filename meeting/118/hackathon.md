@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-16T10:18:59.041Z
+date: 2023-10-16T10:41:34.548Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -234,7 +234,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 		- You can find a list with usefull links for reading [here](https://github.com/IETF-Hackathon/pq-ech/tree/main/documentation)
 	  - You can find a roadmap for the development [here](https://github.com/IETF-Hackathon/pq-ech/blob/main/documentation/roadmap.md)
-	  - You can find a presentation with general inforamtion for this project [here](https://github.com/IETF-Hackathon/pq-ech/blob/main/documentation/Encrypted%20Client%20Hello%20Presentation.pptx)
+	  - You can find a presentation with general information for this project [here](https://github.com/IETF-Hackathon/pq-ech/blob/main/documentation/pq-ech_presentation.pdf)
   
 ### Tapsce, TAPS in space
 - **Champion(s)**
