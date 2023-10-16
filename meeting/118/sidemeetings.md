@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T04:31:32.422Z
+date: 2023-10-16T08:50:14.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -102,7 +102,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
 |   9:30-11:30  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 60m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 30m (3) Nalini Elkins, Priyanka Sinha et al, Happy Eyeballs & other IPv6 issues with various OSes, 30m  |    TBD                   |   TBD       |   |                            
-| 14:30-16:00  |  Palmovka 1/2  | Collective Communications Optimization （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communications optimization   |                       |        |
+| 14:30-16:00  |  Palmovka 1/2  | Collective Communication Optimizations （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communication optimizations   |                       |        |
 
 {.dense}
 
