@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T14:30:27.317Z
+date: 2023-10-16T14:32:05.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -107,7 +107,7 @@ Please sort the meeting by time if possible.
 | 14:30-16:00  |  Palmovka 1/2  | Collective Communication Optimizations （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communication optimizations   |                       |        |
 
 {.dense}|
-19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link to be provided by Roland Schott (roland.schott@telecom.de). | TBD | TBD |
+19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite to be provided by Roland Schott (roland.schott@telecom.de). | TBD | TBD |
 
 
 ## [FRIDAY 10 November](#friday)
