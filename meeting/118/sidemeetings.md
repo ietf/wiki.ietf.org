@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T02:24:32.269Z
+date: 2023-10-16T04:31:04.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -177,7 +177,7 @@ Location: Mezzanine Level
 | 08:30 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
 | 09:00 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
 | 09:30 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
-| 10:00 |                  |                  |   
+| 10:00 |enterprise IP network evolution                   |                  |   
 | 10:30 |                  |                  |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
