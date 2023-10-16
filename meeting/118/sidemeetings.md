@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T09:11:52.918Z
+date: 2023-10-16T09:15:22.828Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -67,6 +67,7 @@ Please sort the meeting by time if possible.
 ## [MONDAY 6 November](#monday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
+|----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |08:30-09:30| Palmovka 1/2|VT Discussion-1|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 |    9:30- 11:00      |    Karlin 4           |  Time Schdule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |  14:00-15:30        |    Palmovka 1/2      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        |          [Link!](#)             |   [Link!](#)       |
@@ -91,7 +92,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|08:30-09:30| Palmovka 1/2|VT Discussion-1|RTG, ART|pengshuping@huawei.com|TBD|TBD|
+|08:30-09:30| Palmovka 1/2|VT Discussion-2|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 |      8:30-9:30    |  Karlin 4        |  IETF sustainability/co2 footprint                |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 
@@ -139,9 +140,9 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |                  |   NOT AVAILABLE  |   
-| 09:00 |                  |   NOT AVAILABLE  |   
-| 09:30 |                  |                  |   
+| 08:30 | VT Discussion -1 |   NOT AVAILABLE  |   
+| 09:00 | VT Discussion -1 |   NOT AVAILABLE  |   
+| 09:30 | VT Discussion -1 |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
@@ -207,9 +208,9 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |                  |   NOT AVAILABLE  |   
-| 09:00 |                  |   NOT AVAILABLE  |   
-| 09:30 |                  |                  |   
+| 08:30 | VT Discussion -2 |   NOT AVAILABLE  |   
+| 09:00 | VT Discussion -2 |   NOT AVAILABLE  |   
+| 09:30 | VT Discussion -2 |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
