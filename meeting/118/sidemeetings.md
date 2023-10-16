@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T16:17:02.871Z
+date: 2023-10-16T19:32:15.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -69,6 +69,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |08:30-09:30| Palmovka 1/2|VT Discussion-1|RTG, ART|pengshuping@huawei.com|TBD|TBD|
+|09:30-11:00| Palmovka 1/2|AI4NETWORK |RTG, OPS|c.l@huawei.com|This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network|TBD|
 |    9:30- 11:00      |    Karlin 4           |  Time Schdule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |  14:00-15:30        |    Palmovka 1/2      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        |          [Link!](#)             |   [Link!](#)       |
 |    15:30-17:30      |    Palmovka 1/2       |      SR Operation             |    RTG,OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
@@ -141,9 +142,9 @@ Location: Mezzanine Level
 | 08:00 |                  |   NOT AVAILABLE  |   
 | 08:30 | VT Discussion -1 |   NOT AVAILABLE  |   
 | 09:00 | VT Discussion -1 |   NOT AVAILABLE  |   
-| 09:30 | VT Discussion -1 |                  |   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
+| 09:30 | VT Discussion -1 |   AI4NETWORK     |   
+| 10:00 |                  |   AI4NETWORK     |   
+| 10:30 |                  |   AI4NETWORK     |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
