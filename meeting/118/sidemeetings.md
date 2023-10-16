@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T09:15:22.828Z
+date: 2023-10-16T14:30:27.317Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -106,7 +106,8 @@ Please sort the meeting by time if possible.
 |   9:30-11:30  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 60m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 30m (3) Nalini Elkins, Priyanka Sinha et al, Happy Eyeballs & other IPv6 issues with various OSes, 30m  |    TBD                   |   TBD       |   |                            
 | 14:30-16:00  |  Palmovka 1/2  | Collective Communication Optimizations （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communication optimizations   |                       |        |
 
-{.dense}
+{.dense}|
+19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link to be provided by Roland Schott (roland.schott@telecom.de). | TBD | TBD |
 
 
 ## [FRIDAY 10 November](#friday)
