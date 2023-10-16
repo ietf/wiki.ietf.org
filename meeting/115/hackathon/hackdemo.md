@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour!
 description: 
 published: true
-date: 2023-10-16T10:50:47.056Z
+date: 2023-10-16T10:54:48.279Z
 tags: hackathon
 editor: markdown
 dateCreated: 2022-08-05T14:58:48.954Z
@@ -32,4 +32,3 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | SRv6 data-plane visibility | Thomas Graf | thomas.graf@swisscom.com | https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh, https://github.com/insa-unyte/vpp-srh-onpath-telemetry|
 | Drone Remote ID Protocol | Adam Wiethuechter | adam.wiethuechter@axenterprize.com | |
 | ALTO to Steer XR Flows  | Jordi Ros-Giralt  | jros@qti.qualcomm.com  |  www.openalto.org |
-| PQ ECH | Georgios Tasopoulos | g.tasop@isi.gr | https://github.com/IETF-Hackathon/pq-ech |
