@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-16T03:13:28.347Z
+date: 2023-10-16T03:20:52.187Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -330,7 +330,8 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Champion(s)**
   - Chunchi Liu (liuchunchi at huawei.com)
 - **Project Info**
-  - Path validation is a technique that verifies whether the actual data forwarding path aligns with a predetermined path. It is critical to support protocols and frameworks that feature centralized/source path planning, such as Service Function Chaining, Segment Routing, MPLS, etc.
+  - Path validation is a technique that verifies whether the actual data forwarding path aligns with a predetermined path. 
+  - Path validation is critical to support protocols and frameworks that feature centralized/source path planning, such as Service Function Chaining, Segment Routing, MPLS, etc. 
   - We implement and demonstrate a new solution to path validation using a cryptographic primitive named "vector commitment".
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-liu-on-network-path-validation/ (to be updated)
