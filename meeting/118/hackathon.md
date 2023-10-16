@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-16T03:20:52.187Z
+date: 2023-10-16T10:02:02.311Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -326,15 +326,17 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Code**
   - https://github.com/CCC-Attestation/attested-tls-poc
 
-### Vector Commitment based Path Validation
+### Vector Commitment based Proof of Transit
 - **Champion(s)**
   - Chunchi Liu (liuchunchi at huawei.com)
 - **Project Info**
-  - Path validation is a technique that verifies whether the actual data forwarding path aligns with a predetermined path. 
-  - Path validation is critical to support protocols and frameworks that feature centralized/source path planning, such as Service Function Chaining, Segment Routing, MPLS, etc. 
-  - We implement and demonstrate a new solution to path validation using a cryptographic primitive named "vector commitment".
+  - Proof of transit is a technique that provides evidence that a data packet has traveled through certain predetermined nodes or hops.
+  - Proof of transit is critical to support protocols and frameworks that feature centralized/source path planning, such as Service Function Chaining, Segment Routing, etc. 
+  - We implement and demonstrate a new solution to proof of transit using a cryptographic primitive named "vector commitment".
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-liu-on-network-path-validation/ (to be updated)
+- **Code**
+	- https://github.com/liuchunchi/vcpot-demo
   
 ### Your Project Name
 - **Champion(s)**
