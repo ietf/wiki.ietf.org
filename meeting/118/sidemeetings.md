@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T15:51:51.029Z
+date: 2023-10-16T16:17:02.871Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -112,7 +112,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|      8:30-9:30     |   Palmovka 1-2   |     eodir @ IETF 118      |   GEN   |       eodir-chairs@ietf.org  |      Education & Outreach Directorate       |        [Zoom link](https://ietf.zoom.us/j/84316506583?pwd=yMbi9iAEvbQbtOBXnhdVuJ6Mlu2owo.1) Meeting ID: 843 1650 6583 Passcode: 236955 [Notes](https://notes.ietf.org/eodir-20231110?both)  | [.ics file](https://drive.google.com/file/d/1JYlO74TWSuHowGUIjrL98xCVuq53mNzV/view?usp=share_link) |
+|      8:30-9:30     |   Palmovka 1-2   |     eodir @ IETF 118      |   GEN   |       eodir-chairs@ietf.org  |      Education & Outreach Directorate       |        [Zoom link](https://ietf.zoom.us/j/84316506583?pwd=yMbi9iAEvbQbtOBXnhdVuJ6Mlu2owo.1) Meeting ID: 843 1650 6583 Passcode: 236955 [Notes](https://notes.ietf.org/eodir-20231110?both)  | [.ics file](https://drive.google.com/file/d/1aIcdp1ScT4uhFkHH3a597B-LK7b2ovr_/view?usp=share_link) |
 |          |          |                  |          |             |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
