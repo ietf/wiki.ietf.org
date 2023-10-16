@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T15:49:45.624Z
+date: 2023-10-16T15:51:51.029Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -209,9 +209,9 @@ Location: Mezzanine Level
 | 08:00 |                  |   NOT AVAILABLE  |   
 | 08:30 | VT Discussion -2 |   NOT AVAILABLE  |   
 | 09:00 | VT Discussion -2 |   NOT AVAILABLE  |   
-| 09:30 | VT Discussion -2 |   Openconfig/YANG workshop|   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
+| 09:30 | VT Discussion -2 |Openconfig/YANG workshop|   
+| 10:00 |                  |Openconfig/YANG workshop|   
+| 10:30 |                  |Openconfig/YANG workshop|   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
