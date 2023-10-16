@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T02:10:53.678Z
+date: 2023-10-16T02:18:33.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -69,8 +69,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    9:30- 11:00      |    Karlin 4           |  Time Schdule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
-|    14:00-15:30      |    Palmovka 1/2       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
-|  15:30-17:30        |    Palmovka 1/2      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        |          [Link!](#)             |   [Link!](#)       |
+|  14:00-15:30        |    Palmovka 1/2      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        |          [Link!](#)             |   [Link!](#)       |
+|    15:30-17:30      |    Palmovka 1/2       |      SR Operation             |    OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
@@ -149,13 +149,13 @@ Location: Mezzanine Level
 | 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
-| 14:00 |                  |   SR Operation   |  
-| 14:30 |                  |   SR Operation   | 
-| 15:00 |                  |   SR Operation   |  
-| 15:30 |                  |   Metaverse      |   
-| 16:00 |                  |   Metaverse      |   
-| 16:30 |                  |   Metaverse      |   
-| 17:00 |                  |   Metaverse      |   
+| 14:00 |                  |   Metaverse      |  
+| 14:30 |                  |   Metaverse      | 
+| 15:00 |                  |   Metaverse      |  
+| 15:30 |                  |   SR Operation   |   
+| 16:00 |                  |   SR Operation   |   
+| 16:30 |                  |   SR Operation   |   
+| 17:00 |                  |   SR Operation   |   
 | 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:00 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:30 |                  | QoS & TE for differentiated deterministic service                 |   
