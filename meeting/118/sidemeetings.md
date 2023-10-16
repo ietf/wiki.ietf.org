@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T01:45:42.063Z
+date: 2023-10-16T02:00:01.158Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -152,10 +152,10 @@ Location: Mezzanine Level
 | 14:00 |                  |   SR Operation   |  
 | 14:30 |                  |   SR Operation   | 
 | 15:00 |                  |   SR Operation   |  
-| 15:30 |                  |                  |   
-| 16:00 |                  |                  |   
-| 16:30 |                  |                  |   
-| 17:00 |                  |                  |   
+| 15:30 |                  |   Metaverse      |   
+| 16:00 |                  |   Metaverse      |   
+| 16:30 |                  |   Metaverse      |   
+| 17:00 |                  |   Netaverse      |   
 | 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:00 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:30 |                  | QoS & TE for differentiated deterministic service                 |   
