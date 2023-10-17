@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-17T09:35:27.369Z
+date: 2023-10-17T09:55:01.026Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -365,6 +365,16 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project site**
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-05.md
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/yang-push-workflow-02.pdf
+
+### Incident Labeling Specifications
+- **Champion(s)**
+  - Vincenzo Riccobene (vincenzo dot riccobene at huawei-partners dot com)
+  - Wanting Du (wanting dot Du at swisscom dot com)
+  - Benoit Claise (benoit.claise at huawei.com)
+
+- **Project Info**
+  - Specifications for tagging (categorizing and exchanging) incident data from network telemetry.
+
 
 ### MADINAS - OpenRoaming
 - **Champion(s)**
