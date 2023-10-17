@@ -2,7 +2,7 @@
 title: IETF 118 Arrival Coordination
 description: 
 published: true
-date: 2023-10-17T17:59:52.155Z
+date: 2023-10-17T18:02:49.742Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:08:33.228Z
@@ -20,7 +20,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 ## Friday, November 3, 2023
 |  TIME  | FLIGHT |      NAME     |  EMAIL  | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:------:|:------:|:-------------:|:-------:|:-------:|:--------:|:-----------:|:-----:|
-|  17.30 | EW4231 | Thomas Fossati | thomas.fossati@linaro.org | PRG | 2 |     | |
+|  17.30 | EW4231 | Thomas Fossati | thomas.fossati@linaro.org | PRG | 2 | IETF meeting venue | - |
 |  |   |    |    |     |          |     | |
 
 ## Saturday, November 4, 2023
