@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-16T20:22:36.824Z
+date: 2023-10-17T15:31:14.593Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -60,7 +60,8 @@ Onsite Tool:
 > 1. Updates
 >    - RFC Editor
 >    - IANA
-> 3. Topic (Name)
+> 3. Strategy for WG Chairs.  Proposal previously circulated (Lars)
+> 4. Topic (name)
 > 
 
 
@@ -82,7 +83,7 @@ Onsite Tool:
 >   - INT
 >   - IAB
 >   - TSV
-> 3. Topic (name)
+> 3. Report on Experience of Women in the IETF - Analysis and Next Steps (Jay/Mirja)
 > 4. Topic (name)
 > 
  
