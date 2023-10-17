@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-16T20:54:44.248Z
+date: 2023-10-17T02:13:36.414Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -69,7 +69,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |08:30-09:30| Karlin 4 |VT Discussion-1|RTG, ART|pengshuping@huawei.com|TBD|TBD|
-|09:30-11:00| Palmovka 1/2|AI4NETWORK |RTG, OPS|c.l@huawei.com|This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network|TBD|
+|  | |  | | |TBD|
 |    9:30- 11:00      |    Karlin 4           |  Time Schdule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |  14:00-15:30        |    Palmovka 1/2      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        |          [Link!](#)             |   [Link!](#)       |
 |    15:30-17:30      |    Palmovka 1/2       |      SR Operation             |    RTG,OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
@@ -94,8 +94,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |08:30-09:30| Palmovka 1/2 |VT Discussion-2|RTG, ART|pengshuping@huawei.com|TBD|TBD|
-|      8:30-9:30    |  Karlin 4        |  IETF sustainability/co2 footprint                |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      |                       |          |
-|          |          |                  |          |             |                         |                       |          |
+|      8:30-9:30    |  Karlin 4        |  IETF sustainability/co2 footprint                |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      | |          |
+| 14:00-15：30      |  Palmovka1/2        |   AI4Net     |  RTG, OPS             |  zhoutianran@huawei.com, c.l@huawei.com | This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network     |          | |
 
 {.dense}
 
