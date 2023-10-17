@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-17T08:14:09.445Z
+date: 2023-10-17T08:14:44.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -191,9 +191,9 @@ Location: Mezzanine Level
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
 | 14:00 |                  |                  |  
 | 14:30 |                  |                  | 
-| 15:00 |                  | YANG @ Kafka and Digital Map |  
-| 15:30 |                  | YANG @ Kafka and Digital Map |
-| 16:00 |                  | YANG @ Kafka and Digital Map |
+| 15:00 |                  | YANG/Kafka and Digital Map |  
+| 15:30 |                  | YANG/Kafka and Digital Map |
+| 16:00 |                  | YANG/Kafka and Digital Map |
 | 16:30 |                  |     AIDC             |   
 | 17:00 |                  |     AIDC             |   
 | 17:30 |                  |     AIDC            |   
