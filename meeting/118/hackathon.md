@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-16T10:41:34.548Z
+date: 2023-10-17T08:28:08.934Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -345,7 +345,28 @@ For information on OIDs used to create interoperable structures, consult: https:
 	- https://datatracker.ietf.org/doc/draft-liu-on-network-path-validation/ (to be updated)
 - **Code**
 	- https://github.com/liuchunchi/vcpot-demo
-  
+
+### Network Telemetry - YANG Push Integration into Apache Kafka
+- **Champion(s)**
+  - Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
+  - Zhuoyao Lin (zephyre888 at gmail.com)
+  - Jean Quilbeuf (jean.quilbeuf at huawei.com)
+  - Benoit Claise (benoit.claise at huawei.com)
+  - Ahmed Elhassany (ahmed.elhassany at swisscom.com)
+- **Draft(s)**
+  - https://datatracker.ietf.org/doc/html/rfc8639
+  - https://datatracker.ietf.org/doc/html/rfc8641
+  - https://datatracker.ietf.org/doc/html/draft-ahuang-netconf-notif-yang
+  - https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
+  - https://datatracker.ietf.org/doc/html/draft-tgraf-yang-push-observation-time
+- **Project info**
+  - Marry YANG Push wit Apache Kafka message broker.
+- **Project site**
+  - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-05.md
+  - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/yang-push-workflow-02.pdf
+
+
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
