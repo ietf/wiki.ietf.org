@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-17T11:16:55.309Z
+date: 2023-10-17T11:26:58.922Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -153,9 +153,9 @@ Location: Mezzanine Level
 | 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
-| 14:00 |                  |   Metaverse      |  
-| 14:30 |                  |   Metaverse      | 
-| 15:00 |                  |   Metaverse      |  
+| 14:00 |                  |                  |  
+| 14:30 |                  |                  | 
+| 15:00 |                  |                  |  
 | 15:30 |                  |   SR Operation   |   
 | 16:00 |                  |   SR Operation   |   
 | 16:30 |                  |   SR Operation   |   
