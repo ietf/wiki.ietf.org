@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-17T11:26:58.922Z
+date: 2023-10-17T14:13:34.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -98,6 +98,8 @@ Please sort the meeting by time if possible.
 | 08:30-09:30 | Palmovka 1/2 |VT Discussion-2|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 | 8:30-9:30   |  Karlin 4    |  IETF sustainability/co2 footprint  |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      | |          |
 | 14:00-15:30 |  Palmovka1/2 |   AI4Net |  RTG, OPS | zhoutianran@huawei.com, c.l@huawei.com | This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network  | TBD | TBD |
+| 15:30-17:00 |  Karlin 4 |   ALTO |  IETF ALTO | jros@qti.qualcomm.com, Qualcomm | TBD  | TBD | TBD |
+
 
 {.dense}
 
@@ -224,9 +226,9 @@ Location: Mezzanine Level
 | 14:00 |                  |   AI4Net         |  
 | 14:30 |                  |   AI4Net         | 
 | 15:00 |                  |   AI4Net         |  
-| 15:30 |                  |                  |   
-| 16:00 |                  |                  |   
-| 16:30 |                  |                  |   
+| 15:30 |  ALTO            |                  |   
+| 16:00 |  ALTO            |                  |   
+| 16:30 |  ALTO            |                  |   
 | 17:00 |                  |                  |   
 | 17:30 |                  |                  |   
 | 18:00 |                  |                  |   
