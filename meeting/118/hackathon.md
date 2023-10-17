@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-17T15:41:15.959Z
+date: 2023-10-17T19:21:31.305Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -385,7 +385,17 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - OpenRoaming works similarly to Eduroam, allowing users to automatically connect to Wi-Fi networks, but with a federated structure that allows multiple Access Network Providers (ANPs) and multiple Identity Providers (IDPs) to interoperate under the same federation. It leverages technologies developed in the IETF, IEEE802 and Wi-Fi Alliance (WFA), such as RADIUS/RADSEC/PKI (RFCs 2865, 3579, 4372, 5280, 6614…), IEEE 802.1X, 802.11, and WFA WPA2/WPA3. OpenRoaming is being discussed as a solution to some of the use cases considered by the IETF MADINAS WG. The project will look for potential areas of improvement to IETF protocols, as well as potential leakage of PIIs.
 
-
+### Formal Specification and Verification of Architecturally-defined Attestation in Confidential Computing
+- **Champion(s)**
+  - Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+- **Project Info**
+  - Arm CCA
+  - Intel TDX 
+  - Analysis tool: ProVerif
+- **Technical specs**
+https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing
+- **Code**
+https://github.com/CCC-Attestation/formal-spec-TEE
 
 ### Your Project Name
 - **Champion(s)**
