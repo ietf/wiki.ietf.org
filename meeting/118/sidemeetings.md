@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-17T09:52:31.677Z
+date: 2023-10-17T10:36:38.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -70,7 +70,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |08:30-09:30| Karlin 4 |VT Discussion-1|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 |  | |  | | |TBD|
-|    9:30- 11:00      |    Karlin 4           |  Time Schdule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
+|    9:30- 11:00      |    Karlin 4           |  Time Schedule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |  14:00-15:30        |    Palmovka 1/2      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        |          [Link!](#)             |   [Link!](#)       |
 |    15:30-17:30      |    Palmovka 1/2       |      SR Operation             |    RTG,OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
@@ -144,9 +144,9 @@ Location: Mezzanine Level
 | 08:00 |                  |   NOT AVAILABLE  |   
 | 08:30 | VT Discussion -1 |   NOT AVAILABLE  |   
 | 09:00 | VT Discussion -1 |   NOT AVAILABLE  |   
-| 09:30 | VT Discussion -1 |                  |   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
+| 09:30 |  Time Schedule   |                  |   
+| 10:00 |  Time Schedule   |                  |   
+| 10:30 |  Time Schedule   |                  |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
@@ -194,9 +194,9 @@ Location: Mezzanine Level
 | 15:00 |                  | YANG/Kafka and Digital Map |  
 | 15:30 |                  | YANG/Kafka and Digital Map |
 | 16:00 |                  | YANG/Kafka and Digital Map |
-| 16:30 |                  |     AIDC             |   
-| 17:00 |                  |     AIDC             |   
-| 17:30 |                  |     AIDC            |   
+| 16:30 | Incident Mgt     |     AIDC            |   
+| 17:00 | Incident Mgt     |     AIDC            |   
+| 17:30 | Incident Mgt     |     AIDC            |   
 | 18:00 |                  |     AIDC            |   
 | 18:30 |                  |     AIDC            |   
 | 19:00 |                  |                  |   
