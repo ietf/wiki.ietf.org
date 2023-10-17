@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-17T15:31:14.593Z
+date: 2023-10-17T22:48:42.995Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -26,32 +26,33 @@ Please add any topics for either IESG only meetings at IETF 118, or the joint me
 
 ## Saturday, November 4, 2023
 
-**Code Sprint** - Saturday, November 4, 2023 - 10:00-18:00 - Room: TBD
+**Code Sprint** - Saturday, November 4, 2023 - 10:00-18:00 - Room: Palmovka 3
 
 **Hackathon**
-  - Saturday, November 4, 2023 - 09:30-21:00 - Room: TBD
+  - Saturday, November 4, 2023 - 09:30-21:00 - Room: Ballroom
 
 ### AMS-IETF Leadership Venue Tour 
 
 Time: 16:30-17:00
-Location: meeting place TBD
+Location: Meet @ Congress Hall Foyer, lower lobby level
 
 ### AMS-IETF Leadership Happy Hour 
 
 Time: 17:00-18:30
-Location: TBD
+Location: Liben 3 (Mezzanine Level)
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Sunday, November 5, 2023
 
 - **Hackathon**
 
-  - Sunday, November 5, 2023 - 09:30-16:00 - Room: TBD
+  - Sunday, November 5, 2023 - 09:30-16:00 - Room: Ballroom
   
-- **New Participant's Quick Connections** Sunday, November 5, 2023 - 16:00-17:00 - Room: TBD
-- **IETF 118 Welcome Reception** Sunday, November 5, 2023 - 17:00-19:00 - Room: TBD
+- **New Participant's Quick Connections** Sunday, November 5, 2023 - 16:00-17:00 - Room: Liben 3
+- **IETF 118 Welcome Reception** Sunday, November 5, 2023 - 17:00-19:00 - Room: Congress Hall 1/2
+- **HotRFC Lightning Talks** Sunday, November 5, 2023 - 18:00-20:00 - Room: Congress Hall 3
 
-### IESG Only Meeting - Time: TBD Room: TBD
+### IESG Only Meeting - Time: 09:30-11:30 Room: Palmovka 1/2
 
 Meetecho: 
 Onsite Tool: 
@@ -65,9 +66,9 @@ Onsite Tool:
 > 
 
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: Palmovka 1/2
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD 
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: Palmovka 1/2
 Meetecho: 
 Onsite Tool: 
 
@@ -90,7 +91,7 @@ Onsite Tool:
 
 ## Monday, November 6, 2023 
 
-### IESG Meeting Time: 08:00-09:20 CET (UTC +1) Room: TBD
+### IESG Meeting Time: 08:00-09:20 CET (UTC +1) Room: Palmovka 1/2
 
 Meetecho: 
 Onsite Tool: 
@@ -104,14 +105,14 @@ Onsite Tool:
 No IESG breakfast. IAB has a breakfast meeting
   
 ## Wednesday, November 8, 2023
-### IESG Meeting Time: 08:00-09:20 CET (UTC+1) Room: TBD
+### IESG Meeting Time: 08:00-09:20 CET (UTC+1) Room: Palmovka 1/2
 
 Meetecho: 
 Onsite Tool: 
 > 1. Plenary Prep
 
 
-### IETF 118 Plenary TIME: 17:30-19:30 CET (UTC+1) Room: TBD
+### IETF 118 Plenary TIME: 17:00-19:00 CET (UTC+1) Room: Congress Hall 1/2
 
 ## Thursday, November 9, 2023
 
@@ -119,8 +120,7 @@ No IESG breakfast. IAB has a breakfast meeting
 
 ## Friday, November 10, 2023 
 
-### Joint IAB/IESG Lunch - Time: TBD Room: TBD
-### Joint IESG/IAB Meeting - Time: TBD  Room: TBD
+### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Palmovka 1/2
 
 Meetecho: 
 Onsite Tool: 
