@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-17T02:20:40.615Z
+date: 2023-10-17T03:16:34.100Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -85,7 +85,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |      8:30-10:00    |  Karlin 4         |  enterprise IP network evolution               |   RTG   |   gaoqiangzhou@huawei.com      |    enterprise IP network evolution                   |          |
 |    16:30-17:30      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
-|    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |          |
+|    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |     [118-aidc_side_meeting.ics](/118-aidc_side_meeting.ics)     |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
