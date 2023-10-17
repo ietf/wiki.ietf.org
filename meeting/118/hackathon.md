@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-17T08:28:08.934Z
+date: 2023-10-17T09:35:27.369Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -365,6 +365,14 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project site**
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-05.md
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/yang-push-workflow-02.pdf
+
+### MADINAS - OpenRoaming
+- **Champion(s)**
+  - Bruno Tomas (bruno at wballiance.com)
+  - Mark Grayson (mgrayson at cisco.com)
+- **Project Info**
+  - OpenRoaming works similarly to Eduroam, allowing users to automatically connect to Wi-Fi networks, but with a federated structure that allows multiple Access Network Providers (ANPs) and multiple Identity Providers (IDPs) to interoperate under the same federation. It leverages technologies developed in the IETF, IEEE802 and Wi-Fi Alliance (WFA), such as RADIUS/RADSEC/PKI (RFCs 2865, 3579, 5280, 6614…), IEEE 802.1X, 802.11, and WFA WPA2/WPA3. OpenRoaming is being discussed as a solution to some of the use cases considered by the IETF MADINAS WG. The project will look for potential areas of improvement to IETF protocols, as well as potential leakage of PIIs.
+
 
 
 ### Your Project Name
