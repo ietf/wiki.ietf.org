@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-17T14:20:48.859Z
+date: 2023-10-17T15:41:15.959Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -259,6 +259,8 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **materials**
 
   - Huitema Picoquic: https://github.com/private-octopus/picoquic
+  - pytaps: https://github.com/fg-inet/python-asyncio-taps/tree
+  - aioquic:   https://github.com/aiortc/aioquic
  
 ### Are long-lived TCP sessions a problem for (DNS) statistics?
 - **Champion(s)**
