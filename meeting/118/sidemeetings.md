@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-17T14:13:34.474Z
+date: 2023-10-17T15:56:30.858Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -226,9 +226,9 @@ Location: Mezzanine Level
 | 14:00 |                  |   AI4Net         |  
 | 14:30 |                  |   AI4Net         | 
 | 15:00 |                  |   AI4Net         |  
-| 15:30 |  ALTO            |                  |   
-| 16:00 |  ALTO            |                  |   
-| 16:30 |  ALTO            |                  |   
+| 15:30 |  ALTO            |   Pluggable/PoI  |   
+| 16:00 |  ALTO            |   Pluggable/PoI  |   
+| 16:30 |  ALTO            |   Pluggable/PoI  |   
 | 17:00 |                  |                  |   
 | 17:30 |                  |                  |   
 | 18:00 |                  |                  |   
