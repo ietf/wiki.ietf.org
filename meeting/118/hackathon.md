@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-18T07:10:49.513Z
+date: 2023-10-18T07:19:02.450Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -397,20 +397,21 @@ https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidenti
 - **Code**
 https://github.com/CCC-Attestation/formal-spec-TEE
 
-
-### IBN: Intent Based Network, srsRAN and Open5gs
+### IP-Based Mobile Object Networking (IPMON) over 5G V2X
 - **Champion(s)**
-  - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
-
+	- Jaehoon (Paul) Jeong (pauljeong at skku.edu)
 - **Participant(s)**
-  - Joseph Ahn (ahnjs124 at skku.edu)
-  - Mose Gu (rna0415 at skku.edu)
-  - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
-
+  - Mugabarigira Bien Aime (bienaime at skku.edu)
+	- Hyeonah Jung (hyeonah_jung at naver.com)
+  - Junhee Kwon (lovekwon200 at gmail.com)
 - **Project Info**
-  - Evaluate Intent Based Network, srsRAN and Open5gs
-
-
+  - Builld an IPv4 Based 5G network that guatantee the safety of flights in drone networks; V2I scenarios.
+  - Evaluate the performance of safety message information exchange in drone networks.
+  - Search for technology gaps between current practise and the standard process
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-jeong-6man-ipmon-problem-statement/
+  - https://datatracker.ietf.org/doc/draft-jeong-6man-ipv6-over-5g-v2x/ 
+  - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
 
 ### Your Project Name
 - **Champion(s)**
