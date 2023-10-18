@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-18T13:17:49.333Z
+date: 2023-10-18T14:17:25.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -73,7 +73,7 @@ Please sort the meeting by time if possible.
 |    9:30- 11:00      |    Karlin 4           |  Time Schedule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |    15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
-|          |          |                  |          |             |                         |                       |          |
+| 18:00-20:00  |  Karlin 4  | EAP-FIDO Design&Feedback   |  SEC        |  [Janfred Rieckers (rieckers@dfn.de)](mailto:rieckers@dfn.de)           | Discussion and first community feedback on the Protocol Design of EAP-FIDO (I-D.janfred-eap-fido, to be published ~21.10.) | TBD | TBD |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
@@ -166,10 +166,10 @@ Location: Mezzanine Level
 | 16:30 |                  |   SR Operations  |   
 | 17:00 |                  |   SR Operations  |   
 | 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
-| 18:00 |                  | QoS & TE for differentiated deterministic service                 |   
-| 18:30 |                  | QoS & TE for differentiated deterministic service                 |   
-| 19:00 |                  | QoS & TE for differentiated deterministic service                 |   
-| 19:30 |                  |                  |   
+| 18:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
+| 18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
+| 19:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
+| 19:30 | EAP-FIDO         |                  |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
