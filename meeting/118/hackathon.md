@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-18T11:44:56.963Z
+date: 2023-10-18T17:04:35.327Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -433,6 +433,26 @@ https://github.com/CCC-Attestation/formal-spec-TEE
 - **Specification**
 	- https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/
 
+### EDHOC
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Establish keying material for OSCORE using the EDHOC protocol
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
+  - https://datatracker.ietf.org/doc/rfc8613/
+
+### Interfaces of the OSCORE Group Manager
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - User and admin interface of the OSCORE Group Manager based on the ACE framework
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-ietf-ace-oscore-gm-admin/
+  - https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/
+  - https://datatracker.ietf.org/doc/rfc9200/
+  - https://datatracker.ietf.org/doc/rfc9203/
 
 ### Your Project Name
 - **Champion(s)**
