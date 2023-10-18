@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-18T07:19:02.450Z
+date: 2023-10-18T07:25:42.691Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -399,15 +399,15 @@ https://github.com/CCC-Attestation/formal-spec-TEE
 
 ### IP-Based Mobile Object Networking (IPMON) over 5G V2X
 - **Champion(s)**
-	- Jaehoon (Paul) Jeong (pauljeong at skku.edu)
+  - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
 - **Participant(s)**
   - Mugabarigira Bien Aime (bienaime at skku.edu)
 	- Hyeonah Jung (hyeonah_jung at naver.com)
   - Junhee Kwon (lovekwon200 at gmail.com)
 - **Project Info**
-  - Builld an IPv4 Based 5G network that guatantee the safety of flights in drone networks; V2I scenarios.
+  - Build an IPv4 based 5G network that guarantee the safety of flights in drone networks; V2I scenarios.
   - Evaluate the performance of safety message information exchange in drone networks.
-  - Search for technology gaps between current practise and the standard process
+  - Search for technology gaps between current practice and the standard process.
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-jeong-6man-ipmon-problem-statement/
   - https://datatracker.ietf.org/doc/draft-jeong-6man-ipv6-over-5g-v2x/ 
