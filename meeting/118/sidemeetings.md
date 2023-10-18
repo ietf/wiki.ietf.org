@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-18T09:19:41.315Z
+date: 2023-10-18T09:20:20.456Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -160,10 +160,10 @@ Location: Mezzanine Level
 | 14:00 |                  |                  |  
 | 14:30 |                  |                  | 
 | 15:00 |                  |                  |  
-| 15:30 |                  |   SR Operation   |   
-| 16:00 |                  |   SR Operation   |   
-| 16:30 |                  |   SR Operation   |   
-| 17:00 |                  |   SR Operation   |   
+| 15:30 |                  |   SR Operations  |   
+| 16:00 |                  |   SR Operations  |   
+| 16:30 |                  |   SR Operations  |   
+| 17:00 |                  |   SR Operations  |   
 | 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:00 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:30 |                  | QoS & TE for differentiated deterministic service                 |   
