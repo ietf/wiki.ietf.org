@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-18T07:25:42.691Z
+date: 2023-10-18T07:29:01.798Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -412,6 +412,19 @@ https://github.com/CCC-Attestation/formal-spec-TEE
   - https://datatracker.ietf.org/doc/draft-jeong-6man-ipmon-problem-statement/
   - https://datatracker.ietf.org/doc/draft-jeong-6man-ipv6-over-5g-v2x/ 
   - https://datatracker.ietf.org/doc/draft-jeong-ipwave-vehicular-neighbor-discovery/
+
+### Intent-Based Network Management Automation for 5/6G Core Networks
+- **Champion(s)**
+  - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
+
+- **Participant(s)**
+  - Joseph Ahn (ahnjs124 at skku.edu)
+  - Mose Gu (rna0415 at skku.edu)
+  - Yiwen (Chris) Shen (chrisshen at skku.edu)
+
+- **Project Info**
+  - Evaluate Intent-Based Network Management Automation for 5/6G Core Networks.
+
 
 ### Your Project Name
 - **Champion(s)**
