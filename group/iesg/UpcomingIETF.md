@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-18T17:29:28.075Z
+date: 2023-10-18T18:15:50.290Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -29,6 +29,9 @@ Please add any topics for either IESG only meetings at IETF 118, or the joint me
 **Code Sprint** - Saturday, November 4, 2023 - 10:00-18:00 - Room: Palmovka 3
 
 **Hackathon**
+  - Saturday, November 4, 2023 - 09:30-21:00 - Room: Ballroom
+  
+**IETF Leadership + SVTA (Room: Florenc 1/2)**
   - Saturday, November 4, 2023 - 09:30-21:00 - Room: Ballroom
 
 ### AMS-IETF Leadership Venue Tour 
