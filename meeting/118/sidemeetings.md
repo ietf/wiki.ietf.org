@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-18T11:55:09.180Z
+date: 2023-10-18T13:17:49.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -97,7 +97,6 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 | Palmovka 1/2 |VT Discussion-2|RTG, ART|pengshuping@huawei.com|TBD|TBD|
-| 8:30-9:30   |  Karlin 4    |  IETF sustainability/co2 footprint  |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      | |          |
 | 14:00-15:30 |  Palmovka1/2 |   AI4Net |  RTG, OPS | zhoutianran@huawei.com, c.l@huawei.com, chengweiqiang@chinamobile.com | This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network  | TBD | TBD |
 | 15:30-17:00 |  Karlin 4 |   ALTO |  IETF ALTO | jros@qti.qualcomm.com, Qualcomm | TBD  | TBD | TBD |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
@@ -111,6 +110,7 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
+| 8:30-9:30   |  Karlin 4    |  IETF sustainability/co2 footprint  |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      | |          |
 |   9:30-11:30  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 60m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 30m (3) Nalini Elkins, Priyanka Sinha et al, Happy Eyeballs & other IPv6 issues with various OSes, 30m  |    TBD                   |   TBD       |   |                            
 | 14:30-16:00  |  Palmovka 1/2  | Collective Communication Optimizations （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communication optimizations   |                       |        |
 |19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite to be provided by Roland Schott (roland.schott@telecom.de). | TBD | TBD |
