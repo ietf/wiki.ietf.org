@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-17T22:48:42.995Z
+date: 2023-10-18T17:29:28.075Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -60,6 +60,8 @@ Onsite Tool:
 > 1. Welcome
 > 1. Updates
 >    - RFC Editor
+>        - General update (Sandy)
+>        - Authors pushing the boundaries to change policy incrementally not via the RSWG (Sandy/Jay)
 >    - IANA
 > 3. Strategy for WG Chairs.  Proposal previously circulated (Lars)
 > 4. Topic (name)
