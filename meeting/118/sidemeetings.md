@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-18T09:15:30.375Z
+date: 2023-10-18T09:19:41.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -71,7 +71,7 @@ Please sort the meeting by time if possible.
 |08:30-09:30| Karlin 4 |VT Discussion-1|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 |  | |  | | |TBD|
 |    9:30- 11:00      |    Karlin 4           |  Time Schedule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
-|    15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
+|    15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
 |          |          |                  |          |             |                         |                       |          |
 |          |          |                  |          |             |                         |                       |          |
