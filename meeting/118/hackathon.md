@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-18T07:29:01.798Z
+date: 2023-10-18T11:44:56.963Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -424,6 +424,14 @@ https://github.com/CCC-Attestation/formal-spec-TEE
 
 - **Project Info**
   - Evaluate Intent-Based Network Management Automation for 5/6G Core Networks.
+
+### Multipath QUIC
+- **Champion(s)**
+  - Magnus Westerlund (magnus.westerlund@ericsson.com
+- **Project Info**
+  - Interop testing of the current draft of Multipath QUIC.
+- **Specification**
+	- https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/
 
 
 ### Your Project Name
