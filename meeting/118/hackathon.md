@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-17T19:21:31.305Z
+date: 2023-10-18T07:10:38.090Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -396,6 +396,21 @@ For information on OIDs used to create interoperable structures, consult: https:
 https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing
 - **Code**
 https://github.com/CCC-Attestation/formal-spec-TEE
+
+
+### IBN: Intent Based Network, srsRAN and Open5gs
+- **Champion(s)**
+  - Jaehoon (Paul) Jeong (pauljeong at skku.edu)
+
+- **Participant(s)**
+  - Joseph Ahn (ahnjs124 at skku.edu)
+  - Mose Gu (rna0415 at skku.edu)
+  - Yiwen (Chris) Shen (chrisshen at ks.ac.kr)
+
+- **Project Info**
+  - Evaluate Intent Based Network, srsRAN and Open5gs
+
+
 
 ### Your Project Name
 - **Champion(s)**
