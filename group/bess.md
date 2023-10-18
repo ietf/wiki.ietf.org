@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-10-18T06:44:46.462Z
+date: 2023-10-18T06:45:49.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -142,11 +142,7 @@ Shepherd's name indicated within parenthesis.
   - EXPIRED: Mankamana to send reminder for refresh
 	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
   
-* draft-ietf-bess-evpn-irb-extended-mobility (failed before, retry needed):
-	- Neeraj addressed RTGDIR comments
-  - Probably ready to move fwd with new short WGLC
-  - Stephane to trigger WGLC -> 9/18
- 
+
 * draft-ietf-bess-bgp-multicast-controller
 
 * draft-ietf-bess-bgp-multicast
