@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-19T01:40:44.210Z
+date: 2023-10-19T06:59:44.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -80,7 +80,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|      8:30-10:00    |  Karlin 4         |  enterprise IP network evolution               |   RTG   |   gaoqiangzhou@huawei.com      |    enterprise IP network evolution                   |          |
+|      8:30-9:30    |  Karlin 4         |  Non-Routing information distribution               |   RTG   |   gaoqiangzhou@huawei.com      |    Non-Routing information distribution                   |          |
 |  15:00-16:30        |    Karlin 4      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com, giuseppe.fioccola@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        | TBD | TBD |
 |  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
@@ -182,10 +182,10 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
-| 09:00 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
-| 09:30 |enterprise IP network evolution                  |   NOT AVAILABLE  |   
-| 10:00 |enterprise IP network evolution                   |                  |   
+| 08:30 |Non-Routing information distribution                  |   NOT AVAILABLE  |   
+| 09:00 |Non-Routing information distribution                  |   NOT AVAILABLE  |   
+| 09:30 |Non-Routing information distribution                  |   NOT AVAILABLE  |   
+| 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
