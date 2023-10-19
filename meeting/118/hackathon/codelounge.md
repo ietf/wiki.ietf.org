@@ -2,14 +2,14 @@
 title: IETF 118 Code Lounge
 description: 
 published: true
-date: 2023-10-19T21:09:55.119Z
+date: 2023-10-19T21:11:33.720Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T21:09:55.119Z
 ---
 
 # Code Lounge
-Tuesday - Friday, 7-10 November, Room: [Karlin 3, Mezzanine](https://datatracker.ietf.org/meeting/118/floor-plan)
+Tuesday - Friday, 7-10 November, Room: [Karlin 3, Mezzanine Level](https://datatracker.ietf.org/meeting/118/floor-plan)
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
