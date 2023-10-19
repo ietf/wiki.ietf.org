@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-18T17:04:35.327Z
+date: 2023-10-19T08:14:43.295Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -384,6 +384,12 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Mark Grayson (mgrayson at cisco.com)
 - **Project Info**
   - OpenRoaming works similarly to Eduroam, allowing users to automatically connect to Wi-Fi networks, but with a federated structure that allows multiple Access Network Providers (ANPs) and multiple Identity Providers (IDPs) to interoperate under the same federation. It leverages technologies developed in the IETF, IEEE802 and Wi-Fi Alliance (WFA), such as RADIUS/RADSEC/PKI (RFCs 2865, 3579, 4372, 5280, 6614…), IEEE 802.1X, 802.11, and WFA WPA2/WPA3. OpenRoaming is being discussed as a solution to some of the use cases considered by the IETF MADINAS WG. The project will look for potential areas of improvement to IETF protocols, as well as potential leakage of PIIs.
+  
+An example 
+  
+NOTE1: Hackathon participants wanting to be issued a test certificate for use in mutual authenticated OpenRoaming signalling exchanges, should email pki@wballiance.com with the subject “IETF Hackathon Test Certificate Request”.
+
+NOTE2: The OpenRoaming PKI Certificate Policy and WBA issuing I-CA require specific subject distinguished name values. An example certificate signing request configuration that meets the OpenRoaming Certificate Policy is available here (https://github.com/wireless-broadband-alliance/openroaming-config/blob/main/OpenRoaming%20CSR%20config.cfg)
 
 ### Formal Specification and Verification of Architecturally-defined Attestation in Confidential Computing
 - **Champion(s)**
