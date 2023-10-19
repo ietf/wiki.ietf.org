@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-19T10:22:34.833Z
+date: 2023-10-19T14:57:20.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -98,7 +98,6 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|TBD|TBD|
-| 14:00-15:30 |  Karlin 4|   T-NBI Design Team |  RTG | daniel@olddog.co.uk, i.busi@huawei.com | This side meeting focus on discussing use cases of the CCAMP Design Team for Transport NBI (2.0 use cases | TBD | TBD |
 | 14:00-15:30 |  Palmovka1/2 |   AI4Net |  RTG, OPS | zhoutianran@huawei.com, c.l@huawei.com, chengweiqiang@chinamobile.com | This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network  | TBD | TBD |
 | 15:30-17:00 |  Karlin 4 |   ALTO |  IETF ALTO | jros@qti.qualcomm.com, Qualcomm | TBD  | TBD | TBD |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
@@ -228,9 +227,9 @@ Location: Mezzanine Level
 | 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
-| 14:00 |  T-NBI (CCAMP)   |   AI4Net         |  
-| 14:30 |  T-NBI (CCAMP)   |   AI4Net         | 
-| 15:00 |  T-NBI (CCAMP)   |   AI4Net         |    
+| 14:00 |                  |   AI4Net         |  
+| 14:30 |                  |   AI4Net         | 
+| 15:00 |                  |   AI4Net         |    
 | 15:30 |  ALTO            |   Pluggable/PoI  |   
 | 16:00 |  ALTO            |   Pluggable/PoI  |   
 | 16:30 |  ALTO            |   Pluggable/PoI  |   
