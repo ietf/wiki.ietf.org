@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-19T01:36:51.352Z
+date: 2023-10-19T01:40:44.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -214,9 +214,9 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 | VT Discussion -2 |   NOT AVAILABLE  |   
-| 09:00 | VT Discussion -2 |   NOT AVAILABLE  |   
-| 09:30 | VT Discussion -2 |Openconfig/YANG workshop|   
+| 08:30 | VT Discussion    |   NOT AVAILABLE  |   
+| 09:00 | VT Discussion    |   NOT AVAILABLE  |   
+| 09:30 | VT Discussion    |Openconfig/YANG workshop|   
 | 10:00 |                  |Openconfig/YANG workshop|   
 | 10:30 |                  |Openconfig/YANG workshop|   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
