@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-19T09:37:58.894Z
+date: 2023-10-19T09:44:53.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -72,7 +72,7 @@ Please sort the meeting by time if possible.
 |    9:30- 11:00      |    Karlin 4           |  Time Schedule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |    15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:00- 18:00 | Karlin 4 | Path Validation | SEC,OPS,RTG | Chunchi Liu/ Meiling Chen/ Diego Lopez | Path Validation use case, problem statement and gap analysis discussion. | TBD | TBD |
-| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
+| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn, xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
 | 18:00-20:00  |  Karlin 4  | EAP-FIDO Design&Feedback   |  SEC        |  [Janfred Rieckers (rieckers@dfn.de)](mailto:rieckers@dfn.de)           | Discussion and first community feedback on the Protocol Design of EAP-FIDO (I-D.janfred-eap-fido, to be published ~21.10.) | TBD | TBD |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
