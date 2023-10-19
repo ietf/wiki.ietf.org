@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-19T21:29:38.783Z
+date: 2023-10-19T21:43:16.883Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -134,7 +134,7 @@ If you received the email but the link to create an account has expired, please 
   * All teams have the opportunity to present what they did at the end of the Hackathon.
     * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub](https://github.com/IETF-Hackathon/ietf118-project-presentations).
     * You must be a member of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation
-    * To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf117-project-presentations/blob/main/README.md)
+    * To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf118-project-presentations/blob/main/README.md)
     * DO NOT WAIT until just before Hackathon project presentations start or your request may be lost in the chaos
 
 ## Network
