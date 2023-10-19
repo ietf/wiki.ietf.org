@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-18T17:30:31.217Z
+date: 2023-10-19T01:34:29.735Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -96,7 +96,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 08:30-09:30 | Palmovka 1/2 |VT Discussion-2|RTG, ART|pengshuping@huawei.com|TBD|TBD|
+| 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 | 14:00-15:30 |  Karlin 4|   T-NBI Design Team |  RTG | daniel@olddog.co.uk, i.busi@huawei.com | This side meeting focus on discussing use cases of the CCAMP Design Team for Transport NBI (2.0 use cases | TBD | TBD |
 | 14:00-15:30 |  Palmovka1/2 |   AI4Net |  RTG, OPS | zhoutianran@huawei.com, c.l@huawei.com, chengweiqiang@chinamobile.com | This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network  | TBD | TBD |
 | 15:30-17:00 |  Karlin 4 |   ALTO |  IETF ALTO | jros@qti.qualcomm.com, Qualcomm | TBD  | TBD | TBD |
