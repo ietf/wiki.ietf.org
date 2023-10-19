@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-19T12:00:29.545Z
+date: 2023-10-19T13:58:10.249Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -368,7 +368,7 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-05.md
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/yang-push-workflow-02.pdf
 
-### Incident Labeling Specifications
+### Incident Labelling Specifications
 - **Champion(s)**
   - Vincenzo Riccobene (vincenzo dot riccobene at huawei-partners dot com)
   - Wanting Du (wanting dot Du at swisscom dot com)
