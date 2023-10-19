@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-19T08:14:43.295Z
+date: 2023-10-19T12:00:29.545Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -378,7 +378,7 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Specifications for tagging (categorizing and exchanging) incident data from network telemetry.
 
 
-### MADINAS - OpenRoaming
+### MADINAS - Wi-Fi OpenRoaming
 - **Champion(s)**
   - Bruno Tomas (bruno at wballiance.com)
   - Mark Grayson (mgrayson at cisco.com)
