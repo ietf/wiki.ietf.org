@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-19T21:19:13.314Z
+date: 2023-10-19T21:29:38.783Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -159,7 +159,7 @@ Champions are welcome and encouraged to list times and mechanisms for collaborat
 
 The Hackathon kickoff and the project results presentations can be joined via Meetecho. The Hackathon Zulip stream may be used for general and project specific communication.
 
-* [Zulip stream](https://zulip.ietf.org/#streams/326/hackathon)
+* [Zulip stream](https://zulip.ietf.org/#narrow/stream/326-hackathon)
 {.links-list}
 
 ## IPR and Code Contribution Guideline
