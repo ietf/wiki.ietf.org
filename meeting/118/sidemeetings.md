@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-19T08:56:31.184Z
+date: 2023-10-19T08:59:32.086Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -68,6 +68,7 @@ Please sort the meeting by time if possible.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|    8:45 - 9:30 | Karlin 4 | Sustainability Insights | OPS | Marisol Palmero & Emile Stephan | Gaps on Power Metrics Normalization | TBD | TBD |
 |    9:30- 11:00      |    Karlin 4           |  Time Schedule |    OPS              |  Qin Wu               |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |    15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn/xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
@@ -147,8 +148,8 @@ Location: Mezzanine Level
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
 | 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |                  |   NOT AVAILABLE  |   
-| 09:00 |                  |   NOT AVAILABLE  |   
+| 08:30 | Sustainability Insights  |   NOT AVAILABLE  |   
+| 09:00 | Sustainability Insights  |   NOT AVAILABLE  |   
 | 09:30 |  Time Schedule   |                  |   
 | 10:00 |  Time Schedule   |                  |   
 | 10:30 |  Time Schedule   |                  |   
@@ -265,8 +266,8 @@ Location: Mezzanine Level
 | 16:30 |                  |                  |   
 | 17:00 |                  |                  |   
 | 17:30 |                  |                  |   
-| 18:00 |6gip+ Side Meeting| Hold for open    |   
-| 18:30 |6gip+ Side Meeting|   discussion     |   
+| 18:00 | 6gip Side Meeting| Hold for open    |   
+| 18:30 | 6gip Side Meeting| discussion       |   
 | 19:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
