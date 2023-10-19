@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-19T08:32:54.010Z
+date: 2023-10-19T08:34:14.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -201,10 +201,10 @@ Location: Mezzanine Level
 | 16:30 | Incident Mgt     |     AIDC            |   
 | 17:00 | Incident Mgt     |     AIDC            |   
 | 17:30 | Incident Mgt     |     AIDC            |   
-| 18:00 |                  |     AIDC            |   
-| 18:30 |                  |     AIDC            |   
-| 19:00 |                  | ECH Deployment Considerations |   
-| 19:30 |                  | ECH Deployment Considerations |   
+| 18:00 | Path Validation  |     AIDC            |   
+| 18:30 | Path Validation  |     AIDC            |   
+| 19:00 | Path Validation  | ECH Deployment Considerations |   
+| 19:30 | Path Validation  | ECH Deployment Considerations |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
