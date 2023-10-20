@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-20T10:48:24.806Z
+date: 2023-10-20T13:02:54.152Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -461,6 +461,12 @@ https://github.com/CCC-Attestation/formal-spec-TEE
   - https://datatracker.ietf.org/doc/rfc9200/
   - https://datatracker.ietf.org/doc/rfc9203/
 
+### A Rust API for DNS
+- **Champion**
+  - Philip Homburg (philip at nlnetlabs.nl)
+- **Project Info**
+  - APIs are often specified in C (for example, the socket interface, getaddrinfo, getdns) and then bindings are created for other languages. Rust is both a low level language and sufficiently different from C that it makes sense to take a new look at an API for DNS.
+  
 ### Your Project Name
 - **Champion(s)**
   - Your Name (email at domain.com)
