@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-10-20T18:08:36.160Z
+date: 2023-10-20T18:15:56.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -121,6 +121,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-zhang-idr-sr-policy-metric-05 |  Susan Hares  |  Awaitng -05   |  Adoption call        |  TBD   |  TBD | 10/20 to 11/6   | 
 | draft-ssangli-idr-bgp-generic-metric-aigp | Susan Haers | Adoption and IPR call | TBD | TBD | TBD | 10/20 to 11/6  | 
 | draft-lin-idr-sr-policy-seglist-id | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/20 to 11/3  | 
+
 {.dense
 
 ## Adoption process - upcoming Adoptions
@@ -128,10 +129,11 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 |  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 9/28 to 10/12 | 
-| draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/5 to 10/19  | 
-|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  |  on hold   |  IPR check  |  TBD    |  TBD             |  on hold    |
-| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/12 to 10/26 |
-| draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/12 to 10/26  |
+| draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 11/10 to 11/24   | 
+|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  |  on hold   |  IPR check  |  TBD    |  TBD             |  11/10 to 11/24   |
+| draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 11/10 to 11/24/2023 |  |
+| draft-smn-idr-inter-domain-ibgp-02 | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | TBD | 
+| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD  |
 | draft-peng-idr-segment-routing-te-policy-attr | Susan Hares |  IPR call | Adoption call (9/22 to 10/10) no consensus | TBD | TBD | TBD | 
 {.dense}
 
