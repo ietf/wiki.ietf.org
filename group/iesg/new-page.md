@@ -2,13 +2,13 @@
 title: Document States
 description: 
 published: true
-date: 2023-10-20T16:29:31.689Z
+date: 2023-10-20T16:30:06.391Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T16:29:31.689Z
 ---
 
-# Conventions of Documents States in the Datatracker
+# Convention for IESG Status States in the Datatracker
 
 **** THIS IS A WORK IN PROGRESS WITH NO AGREEMENT FROM THE IESG ****
 
