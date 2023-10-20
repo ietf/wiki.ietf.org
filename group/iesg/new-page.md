@@ -1,8 +1,8 @@
 ---
-title: Document States
+title: Convention for IESG Status States in the Datatracker
 description: 
 published: true
-date: 2023-10-20T16:30:50.447Z
+date: 2023-10-20T17:03:03.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T16:29:31.689Z
