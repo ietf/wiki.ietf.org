@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-20T08:08:15.024Z
+date: 2023-10-20T08:11:44.064Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -267,7 +267,7 @@ Location: Mezzanine Level
 | 17:00 |                  |                  |   
 | 17:30 |                  |                  |   
 | 18:00 | 6gip+            | 6gip+            |   
-| 18:30 | 6gip+            | 6gip+.           |   
+| 18:30 | 6gip+            | 6gip+            |   
 | 19:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
