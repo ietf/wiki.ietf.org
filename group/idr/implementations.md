@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-09-08T10:28:29.817Z
+date: 2023-10-20T22:52:51.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -60,6 +60,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-wide-bgp-communities](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
  - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
  - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
+  - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 
 ## Implementation Report for drafts at WG
 
