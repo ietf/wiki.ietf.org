@@ -2,7 +2,7 @@
 title: Document States
 description: 
 published: true
-date: 2023-10-20T16:30:06.391Z
+date: 2023-10-20T16:30:50.447Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T16:29:31.689Z
