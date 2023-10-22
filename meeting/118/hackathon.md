@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-22T20:29:33.199Z
+date: 2023-10-22T20:34:00.146Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -470,9 +470,10 @@ https://github.com/CCC-Attestation/formal-spec-TEE
 - **Project Info**
   - APIs are often specified in C (for example, the socket interface, getaddrinfo, getdns) and then bindings are created for other languages. Rust is both a low level language and sufficiently different from C that it makes sense to take a new look at an API for DNS.
   
-### Your Project Name
-- **Champion(s)**
-  - Your Name (email at domain.com)
+### Ad-hoc IoT Networking
+- **Champions**
+  - Andreas Foglar (foglar@innoroute.com)
+  - Marian Ulbricht (ulbricht@innoroute.de)
 - **Project Info**
   - Your project description here
 
@@ -486,8 +487,7 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 ```markdown
 ### Ad-hoc IoT networking
 - **Champions**
-  - Andreas Foglar (foglar@innoroute.com)
-  - Marian Ulbricht (ulbricht@innoroute.de)
+  - 
 - **Project Info**
   - Your project description here
 ```
