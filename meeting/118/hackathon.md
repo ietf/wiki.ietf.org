@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-22T09:43:32.764Z
+date: 2023-10-22T20:29:33.199Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -484,9 +484,10 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
-### Your Project Name
-- **Champion(s)**
-  - Your Name (email at domain.com)
+### Ad-hoc IoT networking
+- **Champions**
+  - Andreas Foglar (foglar@innoroute.com)
+  - Marian Ulbricht (ulbricht@innoroute.de)
 - **Project Info**
   - Your project description here
 ```
