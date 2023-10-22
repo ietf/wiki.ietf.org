@@ -2,13 +2,18 @@
 title: ad-hoc_IoT
 description: Secure networking of IoT devices based on IPv6 routing network
 published: true
-date: 2023-09-28T12:25:46.769Z
+date: 2023-10-22T20:26:39.749Z
 tags: ipv6
 editor: markdown
 dateCreated: 2023-09-28T11:46:54.091Z
 ---
 
-# Header
+### Ad-hoc IoT
+- **Champions**
+ - Foglar@innoroute.com
+ - Ulbricht@innoroute.de
+
+- **Project Info** 
 Based on Internet Draft https://datatracker.ietf.org/doc/draft-foglar-ipv6-ull-routing/ an experimental network has been created in Germany with the prefix AF49/16.
 The 6Tree network is ideal vor IoT thanks to
 - IPv6
@@ -16,4 +21,4 @@ The 6Tree network is ideal vor IoT thanks to
 - low latency thanks to hierarchical network structure
 
 Participants are invited to test and evaluate the 6Tree network, for example latency.
-Instant access to this network is possible with a (Linux) PC and a mobile phone with German telephone number. A phone call is used for payment and verified prefix generation. For non-German residents pre-paid SIM cards will be provided.
+Instant access to this network is possible with a PC and a mobile phone with German telephone number. A phone call is used for payment and verified prefix generation. For non-German residents pre-paid SIM cards will be provided.
