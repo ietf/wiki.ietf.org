@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-22T20:47:46.398Z
+date: 2023-10-22T20:49:31.563Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -492,7 +492,7 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
-### Ad-hoc IoT networking
+### Your Project
 - **Champions**
   - Your name and e-Mail
 - **Project Info**
