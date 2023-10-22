@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-22T20:44:40.403Z
+date: 2023-10-22T20:47:46.398Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -475,7 +475,8 @@ https://github.com/CCC-Attestation/formal-spec-TEE
   - Andreas Foglar (foglar@innoroute.com)
   - Marian Ulbricht (ulbricht@innoroute.de)
 - **Project Info**
-Based on Internet Draft https://datatracker.ietf.org/doc/draft-foglar-ipv6-ull-routing/ an experimental network has been created in Germany with the prefix AF49/16.
+https://datatracker.ietf.org/doc/draft-foglar-ipv6-ull-routing/ 
+an experimental network has been created in Germany with the prefix AF49/16.
 The "6Tree" network is ideal vor IoT thanks to
 	- IPv6 with phone number prefix and MAC address mapping
 	- Intrinsic security thanks to verified IPv6 prefix
