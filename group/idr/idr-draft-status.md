@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-10-23T02:19:15.780Z
+date: 2023-10-23T02:36:05.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -128,7 +128,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-|  draft-mishra-idr-v4-island-v6-core-4pe-02   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 9/28 to 10/12 | 
+|  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 9/28 to 10/12 | 
 | draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 11/10 to 11/24   | 
 |  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  |  on hold   |  IPR check  |  TBD    |  TBD             |  11/10 to 11/24   |
 | draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 11/10 to 11/24/2023 |  |
