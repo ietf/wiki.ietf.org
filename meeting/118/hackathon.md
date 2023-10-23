@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-22T21:04:04.819Z
+date: 2023-10-23T19:51:13.742Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -485,6 +485,22 @@ The "6Tree" network is ideal vor IoT thanks to
 	- Participants are invited to test and evaluate the 6Tree network, for example latency.
 Instant access to this network is possible with a PC and a mobile phone with German telephone number. A phone call is used for prefix verification. For non-German residents pre-paid SIM cards will be provided. Technology hand-over to Polish operator planned at the Hackathon.
 
+
+### RPKI ASPA Interop
+- **Champions**
+  - Tassilo Tanneberger <tassilo.tanneberger@tu-dresden.de>
+  - Carl Seifert <carl.seifert1@mailbox.tu-dresden.de>
+  - Moritz Schulz <moritz.schulz@proton.me>
+- **Participants**
+  - …
+- **Project Info**
+	- https://datatracker.ietf.org/doc/html/draft-ietf-sidrops-8210bis-11#name-aspa-pdu
+	- https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/
+	- https://datatracker.ietf.org/doc/html/draft-ietf-sidrops-aspa-profile-16
+	- https://github.com/rtrlib/rtrlib
+		- ASPA fork https://github.com/tanneberger/rtrlib
+    
+  
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
