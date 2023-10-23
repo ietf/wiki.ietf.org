@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-23T09:34:31.971Z
+date: 2023-10-23T19:30:30.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -84,7 +84,8 @@ Please sort the meeting by time if possible.
 |  15:00-16:30        |    Karlin 4      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com, giuseppe.fioccola@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        | TBD | TBD |
 |  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
-|    16:30-17:30      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
+|    16:30-17:30      |    Karlin 4           |    Deepspace IP   |    INT                |    Marc Blanchet  | updates on deepspace IP| TBD | TBD|
+|    18:00-18:30      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
 |    18:30-20:00      |    Karlin 4           |    Path Validation   |    SEC, OPS, RTG          |     Chunchi Liu/ Meiling Chen/ Diego Lopez/ Nicola Rustignoli  | Path Validation use case, problem statement and gap analysis discussion. | TBD | TBD|
 |    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |     [118-aidc_side_meeting.ics](/118-aidc_side_meeting.ics)     |
 | 19:00-20:00         |    Palmovka 1/2       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82164205604?pwd=YnZCZ1BxWWw3VjdBSzJtVmhid1hxZz09&from=addon), Meeting ID: 821 6420 5604, Passcode: 993243 |          |
@@ -204,7 +205,7 @@ Location: Mezzanine Level
 | 16:30 | Incident Mgt     |     AIDC            |   
 | 17:00 | Incident Mgt     |     AIDC            |   
 | 17:30 | Incident Mgt     |     AIDC            |   
-| 18:00 |                  |     AIDC            |   
+| 18:00 | Deepspace IP     |     AIDC            |   
 | 18:30 | Path Validation  |     AIDC            |   
 | 19:00 | Path Validation  | ECH Deployment Considerations |   
 | 19:30 | Path Validation  | ECH Deployment Considerations |   
