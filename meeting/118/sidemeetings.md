@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-23T02:07:18.217Z
+date: 2023-10-23T07:55:11.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -250,9 +250,9 @@ Location: Mezzanine Level
 | 08:00 |                  |                  |   
 | 08:30 |  co2 footprint   | HTTP Concurrency |   
 | 09:00 |  co2 footprint   | HTTP Concurrency |  
-| 09:30 |                  |                  |   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
+| 09:30 |                  |IPv6 deployment in enterprises|   
+| 10:00 |                  |IPv6 deployment in enterprises|   
+| 10:30 |                  |IPv6 deployment in enterprises|   
 | 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
