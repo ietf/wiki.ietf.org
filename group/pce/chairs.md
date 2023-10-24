@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-10-13T11:00:17.380Z
+date: 2023-10-24T09:12:33.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -19,6 +19,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Adoption | draft-chen-pce-bier | Dhruv | To be confirmed |
 | WGLC assigned reviews | - | Dhruv | - |
 | Early allocation | draft-ietf-pce-pcep-color | John | Sent to john 2023-09-25 |
 |Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting Dhruv's response |
