@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-24T14:22:23.260Z
+date: 2023-10-24T17:26:25.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -36,9 +36,19 @@ This wiki is used to book the side meeting rooms and share details of the topics
 * Please provide a calendar invitation (an `.ics` file) for a side meeting by putting the link in the appropriate column below.
 
 # Audio/Visual provision and remote participation
-Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. Side meeting organizers are still responsible for providing their own conferencing bridge to use with the camera.
+Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. 
 
-We provide a Chromebook with a preconfigured WebEx room in each side meeting room (details will be posted on this wiki soon and in each side meeting room). The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
+We provide a Chromebook with a preconfigured WebEx room in each side meeting room. The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
+
+The Webex info is as follows:
+
+Palmovka 1/2 (40U): https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting. 
+
+Prague (smaller side meeting room): https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions.pdf) for managing your meeting.
+
+
+Other platforms including Zoom, Teams, and etc. can also be used.
+
 
 # Two step process to schedule a side meeting 
 
@@ -49,16 +59,6 @@ We provide a Chromebook with a preconfigured WebEx room in each side meeting roo
 # Step One: Meeting Information {#meetinginfo}
 
 At a minimum, please make sure to provide a day/time/room as well as meeting name, point of contact and meeting description.
-
-
-A Chromebook is available to facilitate remote participation using Webex. The Webex personal meetings are as follow:
-
-Palmovka 1/2 (40U): https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting. 
-
-Prague (smaller side meeting room): https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions.pdf) for managing your meeting.
-
-
-Other platforms including Zoom, Teams, and etc. can also be used.
 
 ***Note this is not the room reservation. The actual room reservation happens in the tables in Step 2!***
  
