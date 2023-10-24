@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-23T19:51:13.742Z
+date: 2023-10-24T02:28:57.977Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -347,7 +347,7 @@ For information on OIDs used to create interoperable structures, consult: https:
   - Proof of transit is critical to support protocols and frameworks that feature centralized/source path planning, such as Service Function Chaining, Segment Routing, etc. 
   - We implement and demonstrate a new solution to proof of transit using a cryptographic primitive named "vector commitment".
 - **Specifications**
-	- https://datatracker.ietf.org/doc/draft-liu-on-network-path-validation/ (to be updated)
+	- https://datatracker.ietf.org/doc/draft-liu-path-validation-problem-statement/
 - **Code**
 	- https://github.com/liuchunchi/vcpot-demo
 
