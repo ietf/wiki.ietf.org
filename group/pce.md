@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-10-18T16:34:51.529Z
+date: 2023-10-24T14:46:19.783Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -24,7 +24,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-| draft-fizgeer-pce-pcep-bfd-parameters| Marina Fizgeer made the request on 2023-09-27|  
+
 draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
 
 ## WG Adoption Call Queue
@@ -44,6 +44,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-chen-pce-sr-mpls-sid-verification | Pending | Coordinate with SRv6 draft for IANA allocation | - |
 | draft-chen-pce-sr-ingress-protection | Pending | - | - |
 |draft-dong-pce-pcep-nrp|Pending| - | - |
+|draft-fizgeer-pce-pcep-bfd-parameters|Pending |-|-|
 
 
 ## Recently Adopted Documents
