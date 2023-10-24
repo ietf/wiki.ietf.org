@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2023-10-24T16:57:02.097Z
+date: 2023-10-24T16:59:22.695Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
