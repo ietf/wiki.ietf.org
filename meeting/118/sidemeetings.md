@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-24T13:39:10.220Z
+date: 2023-10-24T14:17:27.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -86,7 +86,7 @@ Please sort the meeting by time if possible.
 |  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |    16:30-18:00      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
-|    18:00-18:30      |    Karlin 4           |    Deepspace IP   |    INT                |    Marc Blanchet  | updates on deepspace IP| TBD | TBD|
+|    18:00-18:30      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP| TBD | TBD|
 |    18:30-20:00      |    Karlin 4           |    Path Validation   |    SEC, OPS, RTG          |     Chunchi Liu/ Meiling Chen/ Diego Lopez/ Nicola Rustignoli  | Path Validation use case, problem statement and gap analysis discussion. | TBD | TBD|
 |    16:30-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |                       |     [118-aidc_side_meeting.ics](/118-aidc_side_meeting.ics)     |
 | 19:00-20:00         |    Palmovka 1/2       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82164205604?pwd=YnZCZ1BxWWw3VjdBSzJtVmhid1hxZz09&from=addon), Meeting ID: 821 6420 5604, Passcode: 993243 |          |
@@ -116,6 +116,7 @@ Please sort the meeting by time if possible.
 | 14:30-16:00  |  Palmovka 1/2  | Collective Communication Optimizations （CCO） |  TSV  |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on requirements and mechanisms to facilitate the collective communication optimizations   |                       |        |
 |    15:00- 16:00      |    Karlin 4           |  Time Schedule |    OPS              | bill.wu@huawei.com; yingzhen.qu@futurewei.com; luismiguel.contrerasmurillo@telefonica.com                |  Common Time Schedule for various different network management use cases | TBD | TBD |
 | 16:00-17:00 | Palmovka 1/2 | Transport challenges and Collaboration Requirements | TSV       | rachel.huang@huawei.com          | Discussion on current transport challenges and the requirements for newtork&host collaboration | TBD                                                             | TBD
+|    18:00-19:00      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP| TBD | TBD|
 |18:00-19:00  |Palmovka 1/2  | Open Discussion on IETF alternatives for 6G | ?  | d.lake@surrey.ac.uk | Presentations on the current issues with 3GPP architectures and solutions when seen from an IETF viewpoint followed by an open discussion to identify what an IETF-centric architecture would look like | TBD |
 |19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite provided by Roland Schott (roland.schott@telecom.de). | https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFiMzBiYWQtMjYxNy00MGY0LWI3YjQtZDQ2Y2JjZDc3YzQy%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d | https://aka.ms/JoinTeamsMeeting, https://mail.google.com/mail/u/0?ui=2&ik=da7e3a6cde&attid=0.1&permmsgid=msg-f:1780111053324284480&th=18b439925223f240&view=att&disp=safe |
 {.dense}
@@ -269,8 +270,8 @@ Location: Mezzanine Level
 | 16:30 |                  | trans challenges |   
 | 17:00 |                  |                  |   
 | 17:30 |                  |                  |   
-| 18:00 | 6gip+            | 6gip+            |   
-| 18:30 | 6gip+            | 6gip+            |   
+| 18:00 | Deepspace IP     | 6gip+            |   
+| 18:30 | Deepspace IP     | 6gip+            |   
 | 19:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
