@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-18T18:15:50.290Z
+date: 2023-10-24T14:55:33.710Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -154,6 +154,7 @@ Location: [Paris](https://datatracker.ietf.org/meeting/118/floor-plan?room=paris
 note: Not available before 09:00 Sunday
 
 * 14:00 - 15:00: TSV AD Office Hours
+* 15:00 - 16:00: RTG AD Office Hours
 * TIME - ACTIVITY
 
 ## Monday, 6 November 2023
