@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-24T11:58:53.300Z
+date: 2023-10-24T13:39:10.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -98,10 +98,10 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|TBD|TBD|
+| 09:30-11:00 | Palmovka1/2 |Openconfig/YANG workshop|OPS/MGMT|Dan Voyer|TBD|TBD|
 | 14:00-15:30 |  Palmovka1/2 |   AI4Net |  RTG, OPS | zhoutianran@huawei.com, c.l@huawei.com, chengweiqiang@chinamobile.com | This side meeting focus on discussing use cases of AI4NETWORK, some speakers will be invited to share their topics on AI4NETWORK, and you are welcome to discuss how to use AI for helping Network  | TBD | TBD |
 | 15:30-17:00 |  Karlin 4 |   ALTO |  IETF ALTO | jros@qti.qualcomm.com, Qualcomm | TBD  | TBD | TBD |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
-
 
 
 {.dense}
