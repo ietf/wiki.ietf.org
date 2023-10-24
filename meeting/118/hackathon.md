@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-24T02:28:57.977Z
+date: 2023-10-24T15:36:02.823Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -500,6 +500,16 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 	- https://github.com/rtrlib/rtrlib
 		- ASPA fork https://github.com/tanneberger/rtrlib
     
+  
+  ### High-level CoAP abstraction in RIOT
+- **Champions**
+  - Tim Rieß tim.riess@mailbox.tu-dresden.de
+  - Jan Sommer jan.sommer@mailbox.tu-dresden.de
+  - Dennis Kraus dennis.kraus@mailbox.tu-dresden.de
+  - Niko Kirste niko.kirste@mailbox.tu-dresden.de
+- **Project Info**
+  - There are many diverging implementations for the Constrained Application Protocol (CoAP, RFC 7252)
+  - We try to implement a prototype for a high-level API for the RIOT operating system that can be used on top of different CoAP implementations.
   
 ---
 
