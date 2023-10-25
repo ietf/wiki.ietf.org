@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-10-25T02:30:04.535Z
+date: 2023-10-25T02:35:38.120Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -25,6 +25,7 @@ dateCreated: 2022-11-05T16:17:26.188Z
 * Grammar checking (e.g., Grammarly)
 * 5-author guideline (need justification for more than 5 front-page authors, e.g., specific ideas and/or significant text contribution)
 * IPR declaration
+* Cross-review or joint-call by relevant WGs (e.g., IDR)
 
 ## WG LC checklist
 
@@ -34,6 +35,7 @@ dateCreated: 2022-11-05T16:17:26.188Z
 * IPR declaration
 * Implementation status
 * GenArt and RtgDir early review
+* Cross-review or joint-call by relevant WGs (e.g., IDR)
 
 ## On going polls
 | Document Name | Poll type | Chair in Charge | Start date | End date | Comment | 
