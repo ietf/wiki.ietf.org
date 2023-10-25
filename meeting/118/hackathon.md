@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T02:42:36.851Z
+date: 2023-10-25T09:10:55.081Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -371,14 +371,16 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-05.md
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/yang-push-workflow-02.pdf
 
-### Incident Labelling Specifications
+### Semantic Metadata Annotation for Network Anomaly Detection
 - **Champion(s)**
   - Vincenzo Riccobene (vincenzo dot riccobene at huawei-partners dot com)
   - Wanting Du (wanting dot Du at swisscom dot com)
   - Benoit Claise (benoit.claise at huawei.com)
+  - Thomas Graf (thomas dot graf at swisscom dot com)
 
 - **Project Info**
-  - Specifications for tagging (categorizing and exchanging) incident data from network telemetry.
+  - Semantic Metadata Annotation for Network Anomaly Detection. Categorizing and defining unified semantics for operational Network Telemetry data.
+  - https://datatracker.ietf.org/doc/html/draft-netana-opsawg-nmrg-network-anomaly-semantics
 
 
 ### MADINAS - Wi-Fi OpenRoaming
