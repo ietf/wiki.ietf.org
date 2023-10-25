@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T09:10:55.081Z
+date: 2023-10-25T13:26:00.317Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -529,6 +529,20 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - https://datatracker.ietf.org/doc/html/draft-zzd-tvr-use-case-tidal-network
   - https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling
   - https://datatracker.ietf.org/doc/html/draft-zzd-idr-flowspec-path-scheduling
+
+### Measuring transparent DNS-forwarders
+- **Champions** 
+	- Florian Dolzmann <florian.dolzmann@mailbox.tu-dresden.de>
+	- Carl Bennet Kuhlmann <carl_bennet.kuhlmann@mailbox.tu-dresden.de>
+	- Maximilian Stäps <maximilian.staeps@mailbox.tu-dresden.de>
+- **Project Info** 
+	- We are working with a tool to measure and analyze the DNS infrastructure especially the commonly overlooked transparent DNS-forwarders.
+	- Our goal is to extend this tool to support DNS-over-TCP and QUIC.
+- **Documentation**
+	- <https://odns.secnow.net/>
+	- <https://odns.secnow.net/assets/static/nksw-tfuco-21.pdf>
+- **Code**
+	- <https://github.com/ilabrg/artifacts-conext21-dns-fwd>
 
 ---
 
