@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T01:55:15.476Z
+date: 2023-10-25T01:59:51.503Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -514,7 +514,11 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 
 ### Dynamic Network Routing
 - **Champion(s)**
-  - Greg White (g.white at cablelabs.com)
+	- Li Zhang <zhangli344@huawei.com>
+  - Jie Dong <jie.dong@huawei.com>
+  - Tianran Zhou <zhoutianran@huawei.com>
+  - Qiangzhou Gao <gaoqiangzhou@huawei.com>
+	- Zhenbin Li <lizhenbin@huawei.com>
 - **Project Info**
   - L4S and AccECN enable applications to receive fine-grained feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss. 
   - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
