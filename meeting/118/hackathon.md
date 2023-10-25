@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T02:00:26.797Z
+date: 2023-10-25T02:30:27.761Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -520,14 +520,13 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - Qiangzhou Gao <gaoqiangzhou@huawei.com>
   - Zhenbin Li <lizhenbin@huawei.com>
 - **Project Info**
-  - L4S and AccECN enable applications to receive fine-grained feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss. 
+  - Dynamic Network means the topology of network changes frequently, the typical Dynamic Network use cases include Operating efficiency network, L4S and AccECN enable applications to receive fine-grained feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss. 
   - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
   - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in the Code Lounge for the rest of the week.
 - **Documents**
-  - [RFC9330](https://www.rfc-editor.org/rfc/rfc9330.html)
-  - [RFC9331](https://www.rfc-editor.org/rfc/rfc9331.html)
-  - [RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
-  - [draft-ietf-tcpm-accurate-ecn-26](https://www.ietf.org/archive/id/draft-ietf-tcpm-accurate-ecn-26.html)
+  - https://datatracker.ietf.org/doc/html/draft-zzd-tvr-use-case-tidal-network
+  - https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling
+  - https://datatracker.ietf.org/doc/html/draft-zzd-idr-flowspec-path-scheduling
 
 ---
 
