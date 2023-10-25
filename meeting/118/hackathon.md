@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T02:30:27.761Z
+date: 2023-10-25T02:41:00.518Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -520,9 +520,9 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - Qiangzhou Gao <gaoqiangzhou@huawei.com>
   - Zhenbin Li <lizhenbin@huawei.com>
 - **Project Info**
-  - Dynamic Network means the topology of network changes frequently, the typical Dynamic Network use cases include Operating efficiency network, L4S and AccECN enable applications to receive fine-grained feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss. 
-  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
-  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in the Code Lounge for the rest of the week.
+  - Dynamic Network means the topology of network changes frequently, the typical Dynamic Network use cases include energy efficiency network, resource limited network and satellite network. 
+  - The goal of this project is to evaluate the performance of existing routing protocols on dynamic networks. This project will simulate the topology change of Dynamic Network and run some existing routing protocols on it. Based on that, we will know the problems of dynamic network routing.
+
 - **Documents**
   - https://datatracker.ietf.org/doc/html/draft-zzd-tvr-use-case-tidal-network
   - https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling
