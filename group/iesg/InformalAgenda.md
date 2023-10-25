@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-10-19T17:24:11.386Z
+date: 2023-10-25T19:56:44.787Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -18,7 +18,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 ## Webex URL
 
-> https://ietf.webex.com/ietf/j.php?MTID=md68c9487454a70b3bb298efa7b181143
+> https://ietf.webex.com/ietf/j.php?MTID=m3cc48bcbd48465d4da48d0197a6e7bb2
 Meeting number: 2427 431 7054
 Meeting password: 12345 
 
