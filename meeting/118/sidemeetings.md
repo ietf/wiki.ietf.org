@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-25T07:59:47.560Z
+date: 2023-10-25T08:00:17.822Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -167,7 +167,7 @@ Location: Mezzanine Level
 | 14:00 |  ANIMA Discovery |                  |  
 | 14:30 |  ANIMA Discovery |                  | 
 | 15:00 |  ANIMA Discovery |                  |  
-| 15:30 |  ANIMA Discovery |   SR Operations  |   
+| 15:30 |                  |   SR Operations  |   
 | 16:00 |                  |   SR Operations  |   
 | 16:30 |                  |   SR Operations  |   
 | 17:00 |                  |   SR Operations  |   
