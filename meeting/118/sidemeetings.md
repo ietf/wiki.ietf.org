@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-25T03:07:11.238Z
+date: 2023-10-25T07:59:47.560Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -69,7 +69,8 @@ Please sort the meeting by time if possible.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    8:45 - 9:30 | Karlin 4 | Sustainability Insights | OPS | Marisol Palmero & Emile Stephan | Gaps on Power Metrics Normalization | TBD | TBD |
-|    15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, liuyisong@chinamobile.com, daniel.voyer@bell.ca      |  Segment Routing Deployment and Operation discussion                        |                       |          |
+|    14:00 - 15:30 | Karlin 4 | ANIMA BRSKI Discovery | OPS | david.von.oheimb@siemens.com | Discussion about the options for discovering BRSKI nodes | TBD | TBD |
+15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, liuyisong@chinamobile.com, daniel.voyer@bell.ca      |  Segment Routing Deployment and Operation discussion                        |                       |          |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn, xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
 | 18:00-20:00  |  Karlin 4  | EAP-FIDO Design&Feedback   |  SEC        |  [Janfred Rieckers (rieckers@dfn.de)](mailto:rieckers@dfn.de)           | Discussion and first community feedback on the Protocol Design of EAP-FIDO (I-D.janfred-eap-fido, to be published ~21.10.) | TBD | TBD |
 |          |          |                  |          |             |                         |                       |          |
@@ -163,10 +164,10 @@ Location: Mezzanine Level
 | 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
 | 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
 | 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
-| 14:00 |                  |                  |  
-| 14:30 |                  |                  | 
-| 15:00 |                  |                  |  
-| 15:30 |                  |   SR Operations  |   
+| 14:00 |  ANIMA Discovery |                  |  
+| 14:30 |  ANIMA Discovery |                  | 
+| 15:00 |  ANIMA Discovery |                  |  
+| 15:30 |  ANIMA Discovery |   SR Operations  |   
 | 16:00 |                  |   SR Operations  |   
 | 16:30 |                  |   SR Operations  |   
 | 17:00 |                  |   SR Operations  |   
