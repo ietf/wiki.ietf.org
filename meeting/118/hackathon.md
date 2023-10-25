@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T13:26:00.317Z
+date: 2023-10-25T17:00:40.820Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -543,6 +543,15 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 	- <https://odns.secnow.net/assets/static/nksw-tfuco-21.pdf>
 - **Code**
 	- <https://github.com/ilabrg/artifacts-conext21-dns-fwd>
+
+### Identifier Locator Network Protocol (ILNP)
+- **Champions**
+  - Saleem Bhatti <saleem@st-andrews.ac.uk>
+  - Gregor Haywood <gh66@st-andrews.ac.uk>
+- **Project Info**
+  - <https://ilnp.cs.st-andrews.ac.uk>
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with separate Locator and Identifier values a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our research demonstration will be based on IPv6.
 
 ---
 
