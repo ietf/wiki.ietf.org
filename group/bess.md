@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-10-25T02:35:38.120Z
+date: 2023-10-25T09:44:47.923Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -98,6 +98,7 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
 	- Numerouse DISCUSS and other comments from IESG
   - Sent back to WG due to boilerplate issue requiring new adoption and WG LC.
+  - New WG adoption poll issued and closed. Next step to do another WG LC.
   - Action: Matthew to progress
 * draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
 
@@ -127,6 +128,7 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-fast-df-recovery (Matthew)
 	- Luc Andre replied to RTGDIR comments
   - To sort out: can we keep marking it as updating RFC7432 ? (based on Adrian's comment) => need to recheck definition of "UPDATE" (Matthew)
+  - Poll on the list if they see any interop issues with legacy 7432 implementations.
 
 
 ## Documents that failed Working Group Last Call 
@@ -164,6 +166,9 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-multicast
 
+* draft-kaliraj-bess-bgp-sig-private-mpls-labels
+  - Needs MPLS and IDR review
+ 
 
 ## Recently adopted documents
 
