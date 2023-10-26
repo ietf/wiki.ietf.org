@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-26T14:52:24.358Z
+date: 2023-10-26T14:54:31.874Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,7 +18,7 @@ Please add any topics for either IESG only meetings at IETF 118, or the joint me
 
 > 1. To the IESG, about the ISE (Suggested by Eliot Lear)
 > 2. (IESG-only) draft-ietf-core-sid (Francesca, do we want to invite Carsten?)
-> 3. (IESG-only) timeline for WIT creation (Francesca)
+> 3. (IESG-only) timeline for WIT creation and WIT structure (Francesca)
 > 4. (IESG-only) experiment: merging dispatch sessions at IETF 119 (Francesca)
 > 5. ...
 
