@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-26T15:24:41.592Z
+date: 2023-10-26T19:10:27.617Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -575,6 +575,18 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - <https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/>
   - <https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/>
   - <https://datatracker.ietf.org/doc/draft-ietf-ntp-roughtime/>  
+ 
+### Explicit Flow Measurements
+- **Champion(s)**
+  - Massimo Nilo (massimo.nilo at telecomitalia.it)
+  - Fabio Bulgarella (fabio.bulgarella at guest.telecomitalia.it)
+- **Project Info**
+  - Explicit flow measurement techniques applied to performance parameters (e.g. Latency) for trasport-layer protocols.
+
+- **Documents**
+  - https://www.ietf.org/archive/id/draft-ietf-ippm-explicit-flow-measurements-07.html
+  - https://datatracker.ietf.org/doc/html/draft-cnbf-ippm-user-devices-explicit-monitoring-04
+  
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
