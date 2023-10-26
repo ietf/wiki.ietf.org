@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-26T12:00:01.654Z
+date: 2023-10-26T15:24:41.592Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -564,6 +564,17 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
 - **Code**
   - https://github.com/nttcom/fluvia
+  
+### NTPv5 and Roughtime
+- **Champions**
+  - Karen O'Donoghue <kodonog@pobox.com>
+  - Dieter Sibold <dsibold.ietf@gmail.com>
+- **Project Info**
+  - In this project we plan to work on implementations of Roughtime and NTPv5.
+- **Documents** 
+  - <https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/>
+  - <https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/>
+  - <https://datatracker.ietf.org/doc/draft-ietf-ntp-roughtime/>  
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
