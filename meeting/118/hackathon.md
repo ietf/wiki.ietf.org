@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-25T17:00:40.820Z
+date: 2023-10-26T11:08:04.892Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -553,6 +553,15 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with separate Locator and Identifier values a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our research demonstration will be based on IPv6.
 
+### IPFIX On-Path Telemetry with SRv6
+- **Champions**
+  - Wataru Mishima <watal@wide.ad.jp>
+  - Yuta Fukagawa <skyline@fkgw.org>
+- **Project Info**
+  - In this project, we try to implement on-path delay measurement of SRv6 flow on a Linux router and export it by IPFIX. This feature will be implemented to the Fluvia Exporter, an IPFIX exporter using eBPF/XDP created in IETF117.
+- **Documents**
+  - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-on-path-telemetry
+  - https://datatracker.ietf.org/doc/html/draft-ietf-opsawg-ipfix-srv6-srh
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
