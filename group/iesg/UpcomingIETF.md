@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-26T14:50:04.235Z
+date: 2023-10-26T14:52:24.358Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -68,7 +68,8 @@ Onsite Tool:
 >        - Authors pushing the boundaries to change policy incrementally not via the RSWG (Sandy/Jay)
 >    - IANA
 > 3. Strategy for WG Chairs.  Proposal previously circulated (Lars)
-> 4. Topic (name)
+> 4. VCON Charter approval (Murray) 
+> 5. Topic (name)
 > 
 
 
