@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-27T14:27:18.228Z
+date: 2023-10-27T18:56:18.698Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -41,12 +41,12 @@ Saturday, November 4, 2023 - 16:00-18:00 - Room: Florenc 1/2
 
 **AMS-IETF Leadership Venue Tour**
 
-Time: 16:30-17:00
+Time: 16:45-17:15
 Location: Meet @ Congress Hall Foyer, lower lobby level
 
 **AMS-IETF Leadership Happy Hour**
 
-Time: 17:00-18:30
+Time: 17:15-18:45
 Location: Liben 3 (Mezzanine Level)
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
@@ -62,8 +62,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### IESG Only Meeting - Time: 09:30-11:30 Room: Palmovka 1/2
 
-Meetecho: 
-Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1001
 
 > 1. Welcome
 > 1. Updates
@@ -80,8 +80,8 @@ Onsite Tool:
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Palmovka 1/2
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: Palmovka 1/2
-Meetecho: 
-Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1001
 
 
 > 1. Welcome and introductions
@@ -104,8 +104,8 @@ Onsite Tool:
 
 ### IESG Meeting Time: 08:00-09:20 CET (UTC +1) Room: Palmovka 1/2
 
-Meetecho: 
-Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1002
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1002
 
 > 1. Topic (Name)
 > 1. Topic (name)
@@ -118,8 +118,9 @@ No IESG breakfast. IAB has a breakfast meeting
 ## Wednesday, November 8, 2023
 ### IESG Meeting Time: 08:00-09:20 CET (UTC+1) Room: Palmovka 1/2
 
-Meetecho: 
-Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1004
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1004
+
 > 1. Plenary Prep
 
 
@@ -133,8 +134,8 @@ No IESG breakfast. IAB has a breakfast meeting
 
 ### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Palmovka 1/2
 
-Meetecho: 
-Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1006
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1006
 
 >  1. Welcome
 >  1. Post-meeting review (randomized for 118)
