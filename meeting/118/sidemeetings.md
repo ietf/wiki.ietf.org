@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-27T13:48:46.385Z
+date: 2023-10-27T13:51:21.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -44,7 +44,7 @@ The Webex info is as follows:
 
 Palmovka 1/2 (40U): https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting. 
 
-Prague (smaller side meeting room): https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions.pdf) for managing your meeting.
+Karlin 4 (16U): https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions.pdf) for managing your meeting.
 
 
 Other platforms including Zoom, Teams, and etc. can also be used.
