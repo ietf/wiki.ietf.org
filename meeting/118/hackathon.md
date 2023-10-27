@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-27T08:34:22.887Z
+date: 2023-10-27T08:36:51.594Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -632,7 +632,7 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - Li Chen (lichen at zgclab.edu.cn)
 - **Project Info**
   - SAV Open Playground(SAVOP) provides an open platform to emulate different SAV mechanisms. 
-  - Open-source: https://github.com/SAV-Open-Playground/
+  - Code: https://github.com/SAV-Open-Playground/
   - Feel free to share your ideas at https://github.com/SAV-Open-Playground/savop/discussions
 - **Hackathon Plan**
   - Emulations of SAV mechanisms based on SAVOP
