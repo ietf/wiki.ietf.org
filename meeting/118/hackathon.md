@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-27T08:36:51.594Z
+date: 2023-10-27T12:22:48.351Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -640,6 +640,14 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
     - Validation accuracy in different scenarios, such as limited propagation of prefixes, hidden prefixes, attacks by source address spoofing within a customer cone, attacks by source address spoofing from a provider/peer AS
     - Control plane performance and data plane performance
     - Scalability of SAVOP
+    
+### Streamlining Social Decision Making for Improved Internet Standards (sodestream)
+- **Champion(s)**
+  - Stephen McQuistin (sm at smcquistin.uk)
+  - Ignacio Castro (i.castro at qmul.ac.uk)
+- **Project Info**
+  - Working on tasks related to the sodestream (sodestream.github.io) project, which applies natural language processing and social networking techniques to data produced by the IETF, in order to better understand standardisation processes.
+
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
