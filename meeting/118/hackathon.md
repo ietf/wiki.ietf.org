@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-27T07:28:02.345Z
+date: 2023-10-27T07:34:30.903Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -614,6 +614,15 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - https://github.com/mcd500/ta-ref/tree/ietf-117-hackathon
   - https://github.com/mcd500/teep-device/tree/ietf-117-hackathon
 
+### CoAP Group Communication with Group OSCORE
+- **Champion(s)**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Message exchange of group messages protected with Group OSCORE
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
   
 ---
 
