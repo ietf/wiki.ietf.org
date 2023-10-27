@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-26T15:06:12.452Z
+date: 2023-10-27T13:06:47.803Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -27,20 +27,24 @@ Please add any topics for either IESG only meetings at IETF 118, or the joint me
 
 ## Saturday, November 4, 2023
 
-**Code Sprint** - Saturday, November 4, 2023 - 10:00-18:00 - Room: Palmovka 3
+**Code Sprint**
+
+Saturday, November 4, 2023 - 10:00-18:00 - Room: Palmovka 3
 
 **Hackathon**
-  - Saturday, November 4, 2023 - 09:30-21:00 - Room: Ballroom
+
+Saturday, November 4, 2023 - 09:30-21:00 - Room: Ballroom
   
 **IETF Leadership + SVTA (Room: Florenc 1/2)**
-  - Saturday, November 4, 2023 - 09:30-21:00 - Room: Ballroom
 
-### AMS-IETF Leadership Venue Tour 
+Saturday, November 4, 2023 - 16:00-18:00 - Room: Florenc 1/2
+
+**AMS-IETF Leadership Venue Tour**
 
 Time: 16:30-17:00
 Location: Meet @ Congress Hall Foyer, lower lobby level
 
-### AMS-IETF Leadership Happy Hour 
+**AMS-IETF Leadership Happy Hour**
 
 Time: 17:00-18:30
 Location: Liben 3 (Mezzanine Level)
@@ -176,7 +180,7 @@ note: Not available before 09:00 Sunday
 
 * TIME - ACTIVITY
 * TIME - ACTIVITY
-* 17:00-17:25 pre-plenary refreshments (note by Éric: probably earlier though)
+* 16:30-17:00 pre-plenary refreshments
 
 ## Thursday, 9 November 2023
 
