@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-27T13:07:11.013Z
+date: 2023-10-27T14:20:30.191Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -167,6 +167,7 @@ note: Not available before 09:00 Sunday
 ## Monday, 6 November 2023
 
 * 11:30 - 12:15: SEC AD Office Hours
+* 12:15 - 12:45: INT AD discussion with DRIP WG & IANA
 * 17:15 - 18:30: INT AD Office Hours
 * TIME - ACTIVITY
 
