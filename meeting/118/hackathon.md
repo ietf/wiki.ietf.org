@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-27T05:46:14.959Z
+date: 2023-10-27T07:28:02.345Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -557,6 +557,8 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 - **Champions**
   - Wataru Mishima <watal@wide.ad.jp>
   - Yuta Fukagawa <skyline@fkgw.org>
+  - Motoki Takenaka <m.takenaka@ntt.com>
+  - Yuya Tajima <yuya.tajima@ntt.com>
 - **Project Info**
   - In this project, we aim to implement on-path delay measurement for SRv6 flow on a Linux router and export the data with IPFIX. This feature will be integrated to the Fluvia Exporter, an IPFIX exporter using eBPF/XDP developed during the in IETF117.
 - **Documents**
