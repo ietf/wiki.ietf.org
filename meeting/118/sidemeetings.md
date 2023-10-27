@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-27T02:50:13.400Z
+date: 2023-10-27T13:41:38.031Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -168,9 +168,9 @@ Location: Mezzanine Level
 | 14:30 |  ANIMA Discovery |                  | 
 | 15:00 |  ANIMA Discovery |                  |  
 | 15:30 |                  |   SR Operations  |   
-| 16:00 |                  |   SR Operations  |   
-| 16:30 |                  |   SR Operations  |   
-| 17:00 |                  |   SR Operations  |   
+| 16:00 | DNSSD            |   SR Operations  |   
+| 16:30 | DNSSD            |   SR Operations  |   
+| 17:00 | DNSSD            |   SR Operations  |   
 | 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
 | 18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
