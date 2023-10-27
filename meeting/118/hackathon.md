@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-27T07:34:30.903Z
+date: 2023-10-27T08:33:55.018Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -623,7 +623,23 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis  
-  
+
+### SAV Open Playground
+- **Champion(s)**
+  - Yuqian Shi (shiyuqian at zgclab.edu.cn)
+  - Lancheng Qin (qlc19 at mails.tsinghua.edu.cn)
+  - Libin Liu (liulb at zgclab.edu.cn)
+  - Li Chen (lichen at zgclab.edu.cn)
+- **Project Info**
+  - SAV Open Playground(SAVOP) provides an open platform to emulate different SAV mechanisms. 
+  - Open-source: https://github.com/SAV-Open-Playground/
+  - Feel free to share your ideas at https://github.com/SAV-Open-Playground/savop/discussions
+- **Hackathon Plan**
+  - Emulations of SAV mechanisms based on SAVOP
+  - Evaluation of SAV mechanisms with SAVOP in terms of the following aspects
+    - Validation accuracy in different scenarios, such as limited propagation of prefixes, hidden prefixes, attacks by source address spoofing within a customer cone, attacks by source address spoofing from a provider/peer AS
+    - Control plane performance and data plane performance
+    - Scalability of SAVOP
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
