@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-26T19:10:27.617Z
+date: 2023-10-27T05:46:14.959Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -586,6 +586,32 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 - **Documents**
   - https://www.ietf.org/archive/id/draft-ietf-ippm-explicit-flow-measurements-07.html
   - https://datatracker.ietf.org/doc/html/draft-cnbf-ippm-user-devices-explicit-monitoring-04
+  
+ ### Trusted Execution Environment (TEEP)
+- **Champion(s)**
+  - Dave Thaler (dthaler at microsoft.com)
+  - Akira Tsukamoto (akira.tsukamoto at alaxala.com)
+- **Project Info**
+  - TEEP/SUIT/RATS integration
+  - Update TEEP Protocol implimentation applying feedbacks after IETF117
+  - Discussing about Formal Verification of TEEP
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+  - https://datatracker.ietf.org/doc/draft-ietf-suit-report/
+  - https://datatracker.ietf.org/doc/draft-ietf-suit-trust-domains/
+- **Repositories**
+  - https://github.com/ietf-teep/teep-protocol
+  - https://github.com/dthaler/TEEP
+  - https://github.com/kentakayama/libcsuit
+  - https://github.com/mcd500/ta-ref
+  - https://github.com/mcd500/teep-protocol
+  - https://github.com/ko-isobe/tamproto
+- **TEEP Protocol wiki**
+  - https://github.com/ietf-teep/teep-protocol/wiki
+- **Hackathon branches on github**
+  - https://github.com/mcd500/ta-ref/tree/ietf-117-hackathon
+  - https://github.com/mcd500/teep-device/tree/ietf-117-hackathon
+
   
 ---
 
