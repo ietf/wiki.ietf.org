@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-10-24T14:45:44.537Z
+date: 2023-10-28T04:23:50.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -19,6 +19,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Early Code Point|draft-ietf-pce-pcep-color|Dhruv|Sent email to IANA on 2023-10-28|
+|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
 | Adoption | draft-chen-pce-bier | Dhruv | Make sure authors make the update with name change |
 | WGLC | draft-ietf-pce-pceps-tls13-01 | Andrew | Make sure ready to send to AD |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -51,7 +53,5 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |Item|Document|Remarks|
 |---|---|---|
-|Recharter|-|Sent email on 2023-08-19|
-|Early Code Point|draft-ietf-pce-pcep-color|Sent email on 2023-09-25|
-|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email 2023-09-07|
+|Recharter|[Proposed Charter](https://datatracker.ietf.org/doc/charter-ietf-pce/)|On agenda of 2023-11-30 IESG telechat|
 
