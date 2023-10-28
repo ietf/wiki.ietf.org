@@ -2,7 +2,7 @@
 title: IETF 118 Arrival Coordination
 description: 
 published: true
-date: 2023-10-28T16:13:36.602Z
+date: 2023-10-28T16:14:14.831Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:08:33.228Z
@@ -20,7 +20,6 @@ For ease of taxi-sharing or having companions to take the public transport from 
 ## Friday, November 3, 2023
 |  TIME  | FLIGHT |      NAME     |  EMAIL  | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:------:|:------:|:-------------:|:-------:|:-------:|:--------:|:-----------:|:-----:|
-|  16.05 | LH1692 | Lixia Zhang | lixia@cs.ucla.edu | PRG | 2 | IETF meeting venue | - |
 |  17.30 | EW4231 | Thomas Fossati | thomas.fossati@linaro.org | PRG | 2 | IETF meeting venue | - |
 |  |   |    |    |     |          |     | |
 
@@ -28,6 +27,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 |  TIME  | FLIGHT |      NAME     |  EMAIL  | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:------:|:------:|:-------------:|:-------:|:-------:|:--------:|:-----------:|:-----:|
+|  16.05 | LH1692 | Lixia Zhang | lixia@cs.ucla.edu | PRG | 2 | IETF meeting venue | - |
 |  |   |    |    |     |          |     | |
 |  |   |    |    |     |          |     | |                |     |
 
