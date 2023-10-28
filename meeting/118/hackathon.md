@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-27T12:23:07.651Z
+date: 2023-10-28T16:07:12.623Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -505,6 +505,7 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   
   ### High-level CoAP abstraction in RIOT
 - **Champions**
+  - Martine Lenders <martine.lenders@tu-dresden.de>
   - Tim Rieß tim.riess@mailbox.tu-dresden.de
   - Jan Sommer jan.sommer@mailbox.tu-dresden.de
   - Dennis Kraus dennis.kraus@mailbox.tu-dresden.de
