@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-28T03:28:35.741Z
+date: 2023-10-28T03:35:10.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -269,10 +269,10 @@ Location: Mezzanine Level
 | 14:30 |                  |       CCO        | 
 | 15:00 |  Time Schedule   |       CCO        |  
 | 15:30 |  Time Schedule   |       CCO        |   
-| 16:00 |                  |                  |   
-| 16:30 |                  |                  |   
-| 17:00 |                  |                  |   
-| 17:30 |                  |                  |   
+| 16:00 | ipmon Side Meeting|                  |   
+| 16:30 | ipmon Side Meeting|                  |   
+| 17:00 | ipmon Side Meeting|                  |   
+| 17:30 | ipmon Side Meeting|                  |   
 | 18:00 | Deepspace IP     | 6gip+            |   
 | 18:30 | Deepspace IP     | 6gip+            |   
 | 19:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
