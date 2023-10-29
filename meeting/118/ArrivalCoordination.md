@@ -2,7 +2,7 @@
 title: IETF 118 Arrival Coordination
 description: 
 published: true
-date: 2023-10-28T16:14:14.831Z
+date: 2023-10-29T12:21:06.586Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:08:33.228Z
@@ -29,7 +29,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:------:|:------:|:-------------:|:-------:|:-------:|:--------:|:-----------:|:-----:|
 |  16.05 | LH1692 | Lixia Zhang | lixia@cs.ucla.edu | PRG | 2 | IETF meeting venue | - |
 |  |   |    |    |     |          |     | |
-|  |   |    |    |     |          |     | |                |     |
+|  | 11:35  |    |    |  Houda chihi   |   houda.chihi@supcom.tn       |     | |                |     |
 
 
 ## Sunday, November 5, 2023
