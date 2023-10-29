@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-28T03:35:10.142Z
+date: 2023-10-29T19:13:33.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -104,7 +104,7 @@ Please sort the meeting by time if possible.
 | 14:00-15:30 |  Palmovka1/2 |   AI4NETWORK |  RTG, OPS | d.king@lancaster.ac.uk, Lancaster University | This side meeting brings together some AI topics for the Network (AI4NETWORK). An agenda will be provided shortly. | TBD | TBD |
 | 15:30-17:00 |  Karlin 4 |   Edge Computing |  RTG, TSV, OPS | jros@qti.qualcomm.com, Qualcomm | Exposure of Network and Compute information to Support Edge Computing Applications | TBD | TBD |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
-
+| 17:00-18:00 |  Karlin 4 |  CCAMP T-NBI Design Team | RTG | daniel@olddog.co.uk, ODC | Discussing CCAMP T-NBI Use Cases and YANG Models | TBD | TBD |
 
 {.dense}
 
@@ -240,9 +240,9 @@ Location: Mezzanine Level
 | 15:30 |  Edge Computing  |   Pluggable/PoI  |   
 | 16:00 |  Edge Computing  |   Pluggable/PoI  |   
 | 16:30 |  Edge Computing  |   Pluggable/PoI  |   
-| 17:00 |                  |                  |   
-| 17:30 |                  |                  |   
-| 18:00 |                  |                  |   
+| 17:00 |  CCAMP T-NBI DT  |                  |   
+| 17:30 |  CCAMP T-NBI DT  |                  |   
+| 18:00 |  CCAMP T-NBI DT  |                  |   
 | 18:30 |                  |                  |   
 | 19:00 |                  |                  |   
 | 19:30 |                  |                  |   
