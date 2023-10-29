@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-28T16:07:12.623Z
+date: 2023-10-29T14:15:19.262Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -175,10 +175,33 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Champion(s)**
   - Nicola Rustignoli (nic at scion.org)
   - Matthias Frei (matzf at scion.org)
+  - Dominik Roos (roos at anapaya.net)
 - **Project Info**
-  - Potential projects will focus around deployment and development on the SCION open source implementation. More info TBD.
-
-
+  - Projects centered on open-source SCION applications
+    - **HTTP3-over-SCION Plugin for Caddy**
+      Create an HTTP3-over-SCION plugin for Caddy, the popular web server.
+      This plugin will enable Caddy to seamlessly act as a reverse proxy
+      for legacy HTTP servers, unlocking SCION adoption without the need
+      for extensive code modifications on existing applications.
+      Foundations have been established in [Caddy](https://github.com/caddyserver/caddy/pull/5573),
+      simplifying integration with custom SCION-based networks.
+    - **Integrating SVC resolution in QUIC handshake**
+      Optimize the SCION control plane RPCs by integrating the SVC
+      resolution into the QUC handshake. This will reduce the number
+      of round trips required for the RPCs. Our [open proposal](https://github.com/scionproto/scion/issues/4388) aims to
+      eliminate this round trip, simplifying the entire exchange process.
+    - **QUIC-Based VPN over SCION**
+      Prototype a VPN solution over SCION utilizing QUIC, eliminating the
+      need for a SCION-IP Gateway as an intermediary. Building on our
+      existing QUIC-over-SCION support, this prototype aims to connect
+      hosts seamlessly. We can draw inspiration from [quincy](https://github.com/M0dEx/quincy) for this prototype.
+    - **Connect over SCION**
+      Enable [Connect](https://connectrpc.com/), an HTTP-based RPC
+      framework, to operate over SCION. Unlike gRPC, [connect-go](https://github.com/connectrpc/connect-go)
+      features a compact codebase primarily built on the Go stdlib,
+      simplifying the implementation process.
+  - Potential additional projects will focus around deployment and visualization of SCION. More info TBD. 
+   
 ### *D*oes *N*ot *S*cale: Rethinking DNS for the Future of the Internet
 - **Champion(s)**
   - Petr Špaček (pspacek at isc.org)
