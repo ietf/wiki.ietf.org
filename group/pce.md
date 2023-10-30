@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-10-30T18:02:57.969Z
+date: 2023-10-30T18:04:33.603Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -62,18 +62,14 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | --- | --- | --- |
 | [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | -05 posted on 2022-02-13 | More review, implementation exist |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | -09 posted on 2022-03-06  | More review, implementation exist |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) |  -07 posted on 2022-04-21 | Early code point allocated |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) |-05 posted on 2022-07-10 | More review requested | 
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -03 posted on 2022-03-04; EXPIRED  | Question on using draft-ietf-pce-enhanced-errors |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -06 posted on 2022-05-17  | More review requested |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | -03 posted on 2022-07-10 | - |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | -02 posted on 2021-10-23 | Comments receiving during adoption call are handled |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -01 posted on 2022-07-07 | More review requested |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03 | Author count to be reduced by editor. IANA early alloc request sent on 2023-09-11 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | Adopted on 2022-05-05  | waiting for spring adoption |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; | - |
-| draft-ietf-pce-pcep-color | Adopted on 2022-12-27 | - |
 | draft-ietf-pce-pcep-srv6-yang |  -04 posted on 2023-09-11 | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
