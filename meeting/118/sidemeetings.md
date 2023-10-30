@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-30T09:44:29.714Z
+date: 2023-10-30T11:12:04.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -101,7 +101,7 @@ Please sort the meeting by time if possible.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|TBD|TBD|
 | 09:30-11:00 | Palmovka1/2 |Openconfig/YANG workshop|OPS/MGMT|daniel.voyer@bell.ca, Nils.Warnke@telekom.de|TBD|TBD|
-| 14:00-15:30 |  Palmovka1/2 |   AI4NETWORK |  RTG, OPS | d.king@lancaster.ac.uk, Lancaster University | This side meeting brings together some AI topics for the Network (AI4NETWORK). An agenda will be provided shortly. | TBD | TBD |
+| 14:00-15:30 |  Palmovka1/2 |   AI4NETWORK |  RTG, OPS | d.king@lancaster.ac.uk, Lancaster University,  chengweiqiang@chinamobile.com, China Mobile| This side meeting brings together some AI topics for the Network (AI4NETWORK). An agenda will be provided shortly. | TBD | TBD |
 | 15:30-17:00 |  Karlin 4 |   Edge Computing |  RTG, TSV, OPS | jros@qti.qualcomm.com, Qualcomm | Exposure of Network and Compute information to Support Edge Computing Applications | TBD | TBD |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
 | 17:00-18:00 |  Karlin 4 |  CCAMP T-NBI Design Team | RTG | daniel@olddog.co.uk, ODC | Discussing CCAMP T-NBI Use Cases and YANG Models | TBD | TBD |
