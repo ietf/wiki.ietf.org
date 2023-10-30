@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-27T18:56:18.698Z
+date: 2023-10-30T15:01:41.084Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -98,7 +98,10 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 > 3. Report on Experience of Women in the IETF - Analysis and Next Steps (Jay/Mirja)
 > 4. Topic (name)
 > 
- 
+
+### IAB Only Meeting - 14:00-16:00 Room: Palmovka 1/2
+
+See [IAB Meeting Week Agenda](https://www.iab.org/wiki/index.php/Agenda118)
 
 ## Monday, November 6, 2023 
 
@@ -113,7 +116,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Tuesday, November 7, 2023
 
-No IESG breakfast. IAB has a breakfast meeting
+No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.php/Agenda118)
   
 ## Wednesday, November 8, 2023
 ### IESG Meeting Time: 08:00-09:20 CET (UTC+1) Room: Palmovka 1/2
@@ -128,7 +131,7 @@ No IESG breakfast. IAB has a breakfast meeting
 
 ## Thursday, November 9, 2023
 
-No IESG breakfast. IAB has a breakfast meeting
+No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.php/Agenda118)
 
 ## Friday, November 10, 2023 
 
