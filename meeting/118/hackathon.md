@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-29T14:15:19.262Z
+date: 2023-10-30T06:19:07.243Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -394,7 +394,7 @@ For information on OIDs used to create interoperable structures, consult: https:
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/draft-daisy-kafka-yang-integration-05.md
   - https://github.com/network-analytics/draft-daisy-kafka-yang-integration/blob/main/yang-push-workflow-02.pdf
 
-### Semantic Metadata Annotation for Network Anomaly Detection
+### Network Telemetry - Semantic Metadata Annotation for Network Anomaly Detection
 - **Champion(s)**
   - Vincenzo Riccobene (vincenzo dot riccobene at huawei-partners dot com)
   - Wanting Du (wanting dot Du at swisscom dot com)
