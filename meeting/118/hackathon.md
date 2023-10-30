@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T12:21:16.137Z
+date: 2023-10-30T12:23:10.798Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -557,12 +557,12 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 ### Measuring transparent DNS-forwarders
 - **Champions** 
   - Maynard Koch
-	- Florian Dolzmann <florian.dolzmann@mailbox.tu-dresden.de>
-	- Carl Bennet Kuhlmann <carl_bennet.kuhlmann@mailbox.tu-dresden.de>
-	- Maximilian Stäps <maximilian.staeps@mailbox.tu-dresden.de>
+  - Florian Dolzmann <florian.dolzmann@mailbox.tu-dresden.de>
+  - Carl Bennet Kuhlmann <carl_bennet.kuhlmann@mailbox.tu-dresden.de>
+  - Maximilian Stäps <maximilian.staeps@mailbox.tu-dresden.de>
 - **Project Info** 
-	- We are working with a tool to measure and analyze the DNS infrastructure especially the commonly overlooked transparent DNS-forwarders.
-	- Our goal is to extend this tool to support DNS-over-TCP and QUIC.
+	- We work on a framework  to measure and analyze the open DNS infrastructure especially the commonly overlooked transparent DNS forwarders.
+	- Our goal is to extend https://odns.secnow.net/ tool to support DNS-over-TCP and QUIC.
 - **Documentation**
 	- <https://odns.secnow.net/>
 	- <https://odns.secnow.net/assets/static/nksw-tfuco-21.pdf>
