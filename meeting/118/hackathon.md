@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T12:23:10.798Z
+date: 2023-10-30T12:30:02.966Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -440,7 +440,7 @@ https://github.com/CCC-Attestation/formal-spec-TEE
 	- Hyeonah Jung (hyeonah_jung at naver.com)
   - Junhee Kwon (lovekwon200 at gmail.com)
 - **Project Info**
-  - Build an IPv4 based 5G network that guarantee the safety of flights in drone networks; V2I scenarios.
+  - Build an IP-based 5G network that guarantee the safety of flights in drone networks; V2I scenarios.
   - Evaluate the performance of safety message information exchange in drone networks.
   - Search for technology gaps between current practice and the standard process.
 - **Specifications**
