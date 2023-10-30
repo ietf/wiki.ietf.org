@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-10-30T18:04:33.603Z
+date: 2023-10-30T18:07:25.537Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -68,9 +68,10 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -01 posted on 2022-07-07 | More review requested |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -04 posted on 2022-08-03 | Author count to be reduced by editor. IANA early alloc request sent on 2023-09-11 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -02 posted on 2022-07-09 |  More review requested |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | Adopted on 2022-05-05  | waiting for spring adoption |
-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | Adopted on 2022-07-19; | - |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -04 posted on 2023-07-26  | waiting for spring adoption |
+| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | -03 posted on 2023-07-07 | - |
 | draft-ietf-pce-pcep-srv6-yang |  -04 posted on 2023-09-11 | - |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 | -01 posted on 2023-08-13 | Adoption comments from Adrian are handled |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
