@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-30T15:30:11.251Z
+date: 2023-10-30T17:54:54.434Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -119,7 +119,7 @@ Please sort the meeting by time if possible.
 |    15:00- 16:00      |    Karlin 4           |  Time Schedule |    OPS              | bill.wu@huawei.com; yingzhen.qu@futurewei.com; luismiguel.contrerasmurillo@telefonica.com                |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |    16:00- 18:00      |    Karlin 4           | IPMON BoF Preparation |  INT  | pauljeong@skku.edu; chrisshen@skku.edu; pjs@etri.re.kr; |  Discussion on IPMON charter and the sharing of IPMON activity after IETF-117 | https://us02web.zoom.us/j/82656058380?pwd=Z016RjBxWW4zZGNWVU05V2xwQm5GZz09 | TBD |
 |    18:00-19:00      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP| TBD | TBD|
-|18:00-19:00  |Palmovka 1/2  | Part 1: Open Discussion on IETF alternatives for 6G | ?  | d.lake@surrey.ac.uk | Presentations on the current issues with 3GPP architectures and solutions when seen from an IETF viewpoint followed by an open discussion to identify what an IETF-centric architecture would look like | Microsoft Teams Link Below in Part2 https://ietf.webex.com/meet/ietfsidemeeting2 |
+|18:00-19:00  |Palmovka 1/2  | Part 1: Open Discussion on IETF alternatives for 6G | ?  | d.lake@surrey.ac.uk | Presentations on the current issues with 3GPP architectures and solutions when seen from an IETF viewpoint followed by an open discussion to identify what an IETF-centric architecture would look like |  https://ietf.webex.com/meet/ietfsidemeeting2 |
 |19:00-20:00  |Palmovka 1/2  | Part 2: AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite provided by Roland Schott (roland.schott@telecom.de). | https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFiMzBiYWQtMjYxNy00MGY0LWI3YjQtZDQ2Y2JjZDc3YzQy%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d | https://aka.ms/JoinTeamsMeeting, https://mail.google.com/mail/u/0?ui=2&ik=da7e3a6cde&attid=0.1&permmsgid=msg-f:1780111053324284480&th=18b439925223f240&view=att&disp=safe |
 {.dense}
 
