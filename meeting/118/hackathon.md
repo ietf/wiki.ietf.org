@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T06:19:07.243Z
+date: 2023-10-30T07:21:35.852Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -187,7 +187,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       simplifying integration with custom SCION-based networks.
     - **Integrating SVC resolution in QUIC handshake**
       Optimize the SCION control plane RPCs by integrating the SVC
-      resolution into the QUC handshake. This will reduce the number
+      resolution into the QUIC handshake. This will reduce the number
       of round trips required for the RPCs. Our [open proposal](https://github.com/scionproto/scion/issues/4388) aims to
       eliminate this round trip, simplifying the entire exchange process.
     - **QUIC-Based VPN over SCION**
