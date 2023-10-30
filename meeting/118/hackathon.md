@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T12:30:02.966Z
+date: 2023-10-30T13:01:42.740Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -202,6 +202,12 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       simplifying the implementation process.
   - Potential additional projects will focus around deployment and visualization of SCION. More info TBD. 
    
+- **Draft Specifications** 
+  - [draft-dekater-panrg-scion-overview](https://datatracker.ietf.org/doc/draft-dekater-panrg-scion-overview/)
+  - [draft-rustignoli-panrg-scion-components](https://datatracker.ietf.org/doc/draft-rustignoli-panrg-scion-components/)
+  - [draft-dekater-scion-pki](https://datatracker.ietf.org/doc/draft-dekater-scion-pki/)
+  - [draft-dekater-scion-controlplane](https://datatracker.ietf.org/doc/draft-dekater-scion-controlplane/)
+  - [draft-dekater-scion-dataplane](https://datatracker.ietf.org/doc/draft-dekater-scion-dataplane/)
 ### *D*oes *N*ot *S*cale: Rethinking DNS for the Future of the Internet
 - **Champion(s)**
   - Petr Špaček (pspacek at isc.org)
