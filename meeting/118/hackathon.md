@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T08:20:02.346Z
+date: 2023-10-30T12:21:16.137Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -526,7 +526,7 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 		- ASPA fork https://github.com/tanneberger/rtrlib
     
   
-  ### High-level CoAP abstraction in RIOT
+ ### High-level CoAP abstraction in RIOT
 - **Champions**
   - Martine Lenders <martine.lenders@tu-dresden.de>
   - Tim Rieß tim.riess@mailbox.tu-dresden.de
@@ -556,6 +556,7 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 
 ### Measuring transparent DNS-forwarders
 - **Champions** 
+  - Maynard Koch
 	- Florian Dolzmann <florian.dolzmann@mailbox.tu-dresden.de>
 	- Carl Bennet Kuhlmann <carl_bennet.kuhlmann@mailbox.tu-dresden.de>
 	- Maximilian Stäps <maximilian.staeps@mailbox.tu-dresden.de>
