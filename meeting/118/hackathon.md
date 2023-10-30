@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T13:01:56.217Z
+date: 2023-10-30T13:26:19.425Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -699,8 +699,8 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 - **Champion(s)**	
   - Kehan Yao (yaokehan@chinamobile.com)
   - Yizhou Li (liyizhou@huawei.com)
-  - Hongyi Huang(hongyi.huang@huawei.com)
   - Wenfei Wu(wenfeiwu@pku.edu.cn)
+  - Hongyi Huang(hongyi.huang@huawei.com)
   - Dirk KUTSCHER(ietf@dkutscher.net)
 - **Project Info**
   - Collective communication plays a key role in high performance computing and the modern distributed AI training workloads such as recommender systems and natural language processing. It involves a group or groups of processes participating in collective operations like AllReduce or Bcast. The communication model can be one-to-all, all-to-one or all-to-all, but is usually realized by a sequence of unicast messages in underlying network. 
