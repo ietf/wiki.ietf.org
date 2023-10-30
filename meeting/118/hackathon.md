@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T07:42:24.329Z
+date: 2023-10-30T08:06:39.513Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -688,6 +688,20 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 
+### Collective Communication Optimizations(CCO)
+- **Champion(s)**	
+  - Kehan Yao (yaokehan@chinamobile.com)
+  - Yizhou Li (liyizhou@huawei.com)
+  - Hongyi Huang(hongyi.huang@huawei.com)
+  - Wenfei Wu(wenfeiwu@pku.edu.cn)
+  - Dirk KUTSCHER(ietf@dkutscher.net)
+- **Project Info**
+  - Collective communication plays a key role in high performance computing and the modern distributed AI training workloads such as recommender systems and natural language processing. It involves a group or groups of processes participating in collective operations like AllReduce or Bcast. The communication model can be one-to-all, all-to-one or all-to-all, but is usually realized by a sequence of unicast messages in underlying network. 
+  - Designing network assissted collective communication, that is to offload some collective opeartions to the network to execute one or some key steps in the process, so as to provide more efficient group communication, is drawing some special attentions as the ways for collective communication optimizations (CCO). It also imposes some challenges and requirements for both message transport and packet forwarding, and co-design of protocols and distributed learning frameworks.
+- **Specifications**
+---
+
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
