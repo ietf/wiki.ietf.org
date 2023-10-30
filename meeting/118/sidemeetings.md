@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-30T19:21:22.751Z
+date: 2023-10-30T23:09:08.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -105,6 +105,7 @@ Please sort the meeting by time if possible.
 | 15:30-17:00 |  Karlin 4 |   Edge Computing |  RTG, TSV, OPS | jros@qti.qualcomm.com, Qualcomm | Exposure of Network and Compute information to Support Edge Computing Applications | TBD | TBD |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
 | 17:00-18:00 |  Karlin 4 |  CCAMP T-NBI Design Team | RTG | daniel@olddog.co.uk, ODC | Discussing CCAMP T-NBI Use Cases and YANG Models | TBD | TBD |
+| 19:00-20:00 | Karlin 4  | KIRA – Scalable Zero-Touch Routing | RTG | roland.bless@kit.edu, KIT | Discuss KIRA use cases and next steps for standardization | TBD | TBD |
 
 {.dense}
 
@@ -244,8 +245,8 @@ Location: Mezzanine Level
 | 17:30 |  CCAMP T-NBI DT  |                  |   
 | 18:00 |  CCAMP T-NBI DT  |                  |   
 | 18:30 |                  |                  |   
-| 19:00 |                  |                  |   
-| 19:30 |                  |                  |   
+| 19:00 |  KIRA            |                  |   
+| 19:30 |  KIRA            |                  |   
 | 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
 {.dense}
 
