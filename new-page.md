@@ -2,13 +2,14 @@
 title: Comprehensive Evaluation of Multicast Source Routing over IPv6
 description: Comprehensive Evaluation of MSR6 schemes at the software level and the hardware level.
 published: true
-date: 2023-10-31T10:06:36.241Z
+date: 2023-10-31T10:09:20.903Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T10:06:36.241Z
 ---
 
-# Champions
+[Comprehensive Evaluation of MSR6]
+(/Comprehensive Evaluation of MSR6)# Champions
 - Wu Weihong(wuweihong@bupt.edu.cn)
 - Jiang Yuxin(jyxin728@gmail.com)
 - Tang Yunyi(tangyunyi0708@bupt.edu.cn)
