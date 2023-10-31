@@ -1,0 +1,355 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0100
+TZOFFSETTO:-0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:-0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Jordi Ros Giralt";RSVP=TRUE:mailto:jros@qti.qualcomm.com
+ATTENDEE;CN="LUIS MIGUEL CONTRERAS MURILLO";RSVP=TRUE:mailto:luismiguel.con
+	trerasmurillo@telefonica.com
+ATTENDEE;CN="Randriamasy, Sabine (Nokia - FR/Paris-Saclay)";RSVP=TRUE:mailt
+	o:sabine.randriamasy@nokia-bell-labs.com
+ATTENDEE;CN="Y. Richard Yang";RSVP=TRUE:mailto:yry@cs.yale.edu
+ATTENDEE;CN="Motoyoshi Sekiya (Fujitsu)";RSVP=TRUE:mailto:sekiya.motoyosh@f
+	ujitsu.com
+ATTENDEE;CN="Junichi Suga (Fujitsu)";RSVP=TRUE:mailto:suga.junichi@fujitsu.
+	com
+ATTENDEE;CN="Jensen Zhang";RSVP=TRUE:mailto:jingxuan.n.zhang@gmail.com
+ATTENDEE;CN=kaigao@scu.edu.cn;RSVP=TRUE:mailto:kaigao@scu.edu.cn
+ATTENDEE;CN=Roland.Schott@telekom.de;RSVP=TRUE:mailto:Roland.Schott@telekom
+	.de
+ATTENDEE;CN="Qin Wu";RSVP=TRUE:mailto:bill.wu@huawei.com
+CLASS:PUBLIC
+CREATED:20231031T165744Z
+DESCRIPTION:WARNING: This email originated from outside of Qualcomm. Please
+	 be wary of any links or attachments\, and do not enable macros.\n\nDear a
+	ll\,\n\n \n\nThis side meeting will discuss the topic of “Exposure of Ne
+	twork and Compute information to Support Edge Computing Applications”. \
+	n\n \n\nSide meeting wiki: https://wiki.ietf.org/en/meeting/118/sidemeetin
+	gs#Wednesday <https://wiki.ietf.org/en/meeting/118/sidemeetings#Wednesday>
+	 \n\n*	Topic: Edge computing\n*	When: Wed Nov 8\, 15:30 -17:00\, \n*	Where
+	: Karlin 4\n\n \n\nAs the industry has reached peak computational centrali
+	zation\, compute needs communication to scale through distributed computin
+	g. There is a need to have a forum to discuss how the two sides of the sam
+	e coin (compute and communication) can be exposed to the application to ma
+	ke efficient service placement and selection decisions. This is especially
+	 important at the edge of the network\, where services such as distributed
+	 AI\, XR/VR\, vehicle networks (V2X)\, etc. need this compute and communic
+	ation information to be efficiently deployed and managed. Exposed informat
+	ion should also account for the application footprint reaching out to cell
+	ular networks and for trust capabilities exposure. \n\n \n\nThe tentative 
+	agenda for this meeting will include talks and discussions covering the fo
+	llowing topics. \n\n*	Compute information exposure for service placement a
+	nd selection.\n*	Cellular information exposure to Internet applications.\n
+	*	Security information exposure for trust modelling and measurement.\n*	So
+	uthbound mechanisms to obtain network and compute information.\n*	IETF WGs
+	 GAP Analysis.\n\n \n\nThank you for sharing this meeting details with the
+	 people might be be interested in these topics.\n\n \n\nKind regards\,\n\n
+	The Side meeting organisers\n\n___________________________________________
+	_____________________________________ \n\nMicrosoft Teams meeting \n\nJoin
+	 on your computer\, mobile app or room device \n\nClick here to join the m
+	eeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxOGE0ZjY
+	tYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjIx%40thread.v2/0?context=%7b%22Tid%22%3
+	a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2c%22Oid%22%3a%22fca5f38d-5297
+	-46aa-b455-d0973e7cb68a%22%7d>  \n\nMeeting ID: 448 822 383 586 \nPasscode
+	: 3WWvk9 \n\nDownload Teams <https://www.microsoft.com/en-us/microsoft-tea
+	ms/download-app>  | Join on the web <https://www.microsoft.com/microsoft-t
+	eams/join-a-meeting> \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | M
+	eeting options <https://teams.microsoft.com/meetingOptions/?organizerId=fc
+	a5f38d-5297-46aa-b455-d0973e7cb68a&tenantId=a19f121d-81e1-4858-a9d8-736e26
+	7fd4c7&threadId=19_meeting_ZjYxOGE0ZjYtYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjI
+	x@thread.v2&messageId=0&language=en-US>  | Legal <https://www.fujitsu.com/
+	global/about/resources/privacy/>  \n\n____________________________________
+	____________________________________________ \n\n \n\n
+DTEND;TZID="GMT Standard Time":20231108T160000
+DTSTAMP:20231031T143949Z
+DTSTART;TZID="GMT Standard Time":20231108T143000
+LAST-MODIFIED:20231031T165744Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN=ayoub.messous@fujitsu.com:mailto:ayoub.messous@fujitsu.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:[IETF 118] [side meeting] Exposure of Network and Compute informati
+	on to Support Edge Computing Applications
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000105D2FE4050CDA01000000000000000
+	010000000FF4215FF278E6843B267C1B62E0836FE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n\n<meta name="Gen
+	erator" content="Microsoft Word 15 (filtered medium)">\n<style><!--\n/* Fo
+	nt Definitions */\n@font-face\n	{font-family:Wingdings\;\n	panose-1:5 0 0 
+	0 0 0 0 0 0 0\;}\n@font-face\n	{font-family:SimSun\;\n	panose-1:2 1 6 0 3 
+	1 1 1 1 1\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 
+	3 5 4 6 3 2 4\;}\n@font-face\n	{font-family:"Yu Gothic"\;\n	panose-1:2 11 
+	4 0 0 0 0 0 0 0\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 
+	2 2 2 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5
+	 2 4 2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panos
+	e-1:2 11 7 2 4 2 4 2 2 3\;}\n@font-face\n	{font-family:"\\@SimSun"\;\n	pan
+	ose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n	{font-family:"\\@Yu Gothic"\;\n
+		panose-1:2 11 4 0 0 0 0 0 0 0\;}\n/* Style Definitions */\np.MsoNormal\, 
+	li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-f
+	amily:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-pr
+	iority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\np.elementtop
+	roof\, li.elementtoproof\, div.elementtoproof\n	{mso-style-name:elementtop
+	roof\;\n	margin:0cm\;\n	font-size:12.0pt\;\n	font-family:SimSun\;\n	mso-fa
+	reast-language:ZH-CN\;}\nspan.EmailStyle20\n	{mso-style-type:personal-comp
+	ose\;\n	color:black\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	f
+	ont-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	/* List Definitions */\n@list l0\n	{mso-list-id:95753486\;\n	mso-list-temp
+	late-ids:-183355356\;}\n@list l0:level1\n	{mso-level-number-format:bullet\
+	;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:36.0pt\;\n	mso-level-numb
+	er-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n
+		font-family:Symbol\;}\n@list l0:level2\n	{mso-level-number-format:bullet\
+	;\n	mso-level-text:o\;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-number-po
+	sition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font
+	-family:"Courier New"\;\n	mso-bidi-font-family:"Times New Roman"\;}\n@list
+	 l0:level3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\\F0A7\;\n
+		mso-level-tab-stop:108.0pt\;\n	mso-level-number-position:left\;\n	text-in
+	dent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@
+	list l0:level4\n	{mso-level-number-format:bullet\;\n	mso-level-text:\\F0A7
+	\;\n	mso-level-tab-stop:144.0pt\;\n	mso-level-number-position:left\;\n	tex
+	t-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;
+	}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n	mso-level-text:\\
+	F0A7\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-number-position:left\;\n
+		text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdin
+	gs\;}\n@list l0:level6\n	{mso-level-number-format:bullet\;\n	mso-level-tex
+	t:\\F0A7\;\n	mso-level-tab-stop:216.0pt\;\n	mso-level-number-position:left
+	\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Win
+	gdings\;}\n@list l0:level7\n	{mso-level-number-format:bullet\;\n	mso-level
+	-text:\\F0A7\;\n	mso-level-tab-stop:252.0pt\;\n	mso-level-number-position:
+	left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family
+	:Wingdings\;}\n@list l0:level8\n	{mso-level-number-format:bullet\;\n	mso-l
+	evel-text:\\F0A7\;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-posit
+	ion:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-fa
+	mily:Wingdings\;}\n@list l0:level9\n	{mso-level-number-format:bullet\;\n	m
+	so-level-text:\\F0A7\;\n	mso-level-tab-stop:324.0pt\;\n	mso-level-number-p
+	osition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	fon
+	t-family:Wingdings\;}\n@list l1\n	{mso-list-id:1216428545\;\n	mso-list-tem
+	plate-ids:-831364708\;}\n@list l1:level1\n	{mso-level-number-format:bullet
+	\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:36.0pt\;\n	mso-level-num
+	ber-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\
+	n	font-family:Symbol\;}\n@list l1:level2\n	{mso-level-number-format:bullet
+	\;\n	mso-level-text:o\;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-number-p
+	osition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	fon
+	t-family:"Courier New"\;\n	mso-bidi-font-family:"Times New Roman"\;}\n@lis
+	t l1:level3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\\F0A7\;\
+	n	mso-level-tab-stop:108.0pt\;\n	mso-level-number-position:left\;\n	text-i
+	ndent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n
+	@list l1:level4\n	{mso-level-number-format:bullet\;\n	mso-level-text:\\F0A
+	7\;\n	mso-level-tab-stop:144.0pt\;\n	mso-level-number-position:left\;\n	te
+	xt-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\
+	;}\n@list l1:level5\n	{mso-level-number-format:bullet\;\n	mso-level-text:\
+	\F0A7\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-number-position:left\;\
+	n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdi
+	ngs\;}\n@list l1:level6\n	{mso-level-number-format:bullet\;\n	mso-level-te
+	xt:\\F0A7\;\n	mso-level-tab-stop:216.0pt\;\n	mso-level-number-position:lef
+	t\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wi
+	ngdings\;}\n@list l1:level7\n	{mso-level-number-format:bullet\;\n	mso-leve
+	l-text:\\F0A7\;\n	mso-level-tab-stop:252.0pt\;\n	mso-level-number-position
+	:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-famil
+	y:Wingdings\;}\n@list l1:level8\n	{mso-level-number-format:bullet\;\n	mso-
+	level-text:\\F0A7\;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-posi
+	tion:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-f
+	amily:Wingdings\;}\n@list l1:level9\n	{mso-level-number-format:bullet\;\n	
+	mso-level-text:\\F0A7\;\n	mso-level-tab-stop:324.0pt\;\n	mso-level-number-
+	position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	fo
+	nt-family:Wingdings\;}\n@list l2\n	{mso-list-id:1926373949\;\n	mso-list-te
+	mplate-ids:-1999469786\;}\n@list l2:level1\n	{mso-level-number-format:bull
+	et\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:36.0pt\;\n	mso-level-n
+	umber-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\
+	;\n	font-family:Symbol\;}\n@list l2:level2\n	{mso-level-number-format:bull
+	et\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-n
+	umber-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\
+	;\n	font-family:Symbol\;}\n@list l2:level3\n	{mso-level-number-format:bull
+	et\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:108.0pt\;\n	mso-level-
+	number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt
+	\;\n	font-family:Symbol\;}\n@list l2:level4\n	{mso-level-number-format:bul
+	let\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:144.0pt\;\n	mso-level
+	-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0p
+	t\;\n	font-family:Symbol\;}\n@list l2:level5\n	{mso-level-number-format:bu
+	llet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:180.0pt\;\n	mso-leve
+	l-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0
+	pt\;\n	font-family:Symbol\;}\n@list l2:level6\n	{mso-level-number-format:b
+	ullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:216.0pt\;\n	mso-lev
+	el-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.
+	0pt\;\n	font-family:Symbol\;}\n@list l2:level7\n	{mso-level-number-format:
+	bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:252.0pt\;\n	mso-le
+	vel-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10
+	.0pt\;\n	font-family:Symbol\;}\n@list l2:level8\n	{mso-level-number-format
+	:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:288.0pt\;\n	mso-l
+	evel-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:1
+	0.0pt\;\n	font-family:Symbol\;}\n@list l2:level9\n	{mso-level-number-forma
+	t:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:324.0pt\;\n	mso-
+	level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:
+	10.0pt\;\n	font-family:Symbol\;}\n@list l3\n	{mso-list-id:2048024384\;\n	m
+	so-list-template-ids:-1080656018\;}\n@list l3:level1\n	{mso-level-number-f
+	ormat:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:36.0pt\;\n	m
+	so-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-si
+	ze:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level2\n	{mso-level-number-f
+	ormat:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:72.0pt\;\n	m
+	so-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-si
+	ze:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level3\n	{mso-level-number-f
+	ormat:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:108.0pt\;\n	
+	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-s
+	ize:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level4\n	{mso-level-number-
+	format:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:144.0pt\;\n
+		mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-
+	size:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level5\n	{mso-level-number
+	-format:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:180.0pt\;\
+	n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font
+	-size:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level6\n	{mso-level-numbe
+	r-format:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:216.0pt\;
+	\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-fon
+	t-size:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level7\n	{mso-level-numb
+	er-format:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:252.0pt\
+	;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-fo
+	nt-size:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level8\n	{mso-level-num
+	ber-format:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:288.0pt
+	\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-f
+	ont-size:10.0pt\;\n	font-family:Symbol\;}\n@list l3:level9\n	{mso-level-nu
+	mber-format:bullet\;\n	mso-level-text:\\F0B7\;\n	mso-level-tab-stop:324.0p
+	t\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-
+	font-size:10.0pt\;\n	font-family:Symbol\;}\nol\n	{margin-bottom:0cm\;}\nul
+	\n	{margin-bottom:0cm\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedef
+	aults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]
+	><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n<
+	/o:shapelayout></xml><![endif]-->\n</head>\n<body lang="EN-GB" link="#0563
+	C1" vlink="#954F72" style="word-wrap:break-word">\n<p style="text-align: c
+	enter\;"><span style="background-color: #ffff00\; font-size: 14px\; font-f
+	amily: sans-serif\; color: #000000\;"><strong>WARNING:</strong> This email
+	 originated from outside of Qualcomm. Please be wary of any links or attac
+	hments\, and do not\n enable macros.</span></p>\n<div>\n<div class="WordSe
+	ction1">\n<p><span style="color:black">Dear all\,<o:p></o:p></span></p>\n<
+	p><span style="color:black"><o:p>&nbsp\;</o:p></span></p>\n<p><span style=
+	"color:black">This side meeting will discuss the topic of <b>“Exposure o
+	f Network and Compute information to Support Edge Computing Applications
+	”.\n<o:p></o:p></b></span></p>\n<p><b><span style="color:black"><o:p>&nb
+	sp\;</o:p></span></b></p>\n<p style="text-indent:18.0pt"><span style="colo
+	r:black">Side meeting wiki: <a href="https://wiki.ietf.org/en/meeting/118/
+	sidemeetings#Wednesday" target="_blank">\n<span style="font-size:12.0pt">h
+	ttps://wiki.ietf.org/en/meeting/118/sidemeetings#Wednesday</span></a><o:p>
+	</o:p></span></p>\n<ul style="margin-top:0cm" type="disc">\n<li class="Mso
+	Normal" style="color:black\;mso-list:l0 level1 lfo3">Topic: Edge computing
+	<o:p></o:p></li><li class="MsoNormal" style="color:#242424\;mso-list:l0 le
+	vel1 lfo3">When<b>: Wed Nov 8\, 15:30 -17:00\,&nbsp\;<o:p></o:p></b></li><
+	li class="MsoNormal" style="color:black\;mso-list:l0 level1 lfo3">Where<b>
+	: </b><b><span style="color:#242424\;background:white">Karlin 4</span></b>
+	<b><o:p></o:p></b></li></ul>\n<p class="elementtoproof"><span style="font-
+	size:11.0pt\;font-family:&quot\;Calibri&quot\;\,sans-serif\;color:black"><
+	o:p>&nbsp\;</o:p></span></p>\n<p class="elementtoproof"><span style="font-
+	size:11.0pt\;font-family:&quot\;Calibri&quot\;\,sans-serif\;color:black">A
+	s the industry has reached peak computational centralization\, compute nee
+	ds communication to scale through distributed computing. There is a need t
+	o have\n a forum to discuss how the two sides of the same coin (compute an
+	d communication) can be exposed to the application to make efficient servi
+	ce placement and selection decisions. This is especially important at the 
+	edge of the network\, where services such as\n distributed AI\, XR/VR\, ve
+	hicle networks (V2X)\, etc. need this compute and communication informatio
+	n to be efficiently deployed and managed.\n<span style="background:white">
+	Exposed information should also account for the application footprint reac
+	hing out to cellular networks and for trust capabilities exposure.&nbsp\;<
+	/span></span><o:p></o:p></p>\n<p><span style="color:black">&nbsp\;</span><
+	o:p></o:p></p>\n<p><span style="color:black">The tentative agenda for this
+	 meeting will include talks and discussions covering the following topics.
+	\n</span><o:p></o:p></p>\n<ul style="margin-top:0cm" type="disc">\n<li cla
+	ss="MsoNormal" style="color:black\;mso-list:l1 level1 lfo6"><span style="b
+	ackground:white">Compute&nbsp\;information exposure for service placement 
+	and selection.</span><o:p></o:p></li><li class="MsoNormal" style="color:bl
+	ack\;mso-list:l1 level1 lfo6">Cellular information exposure to Internet ap
+	plications.<o:p></o:p></li><li class="MsoNormal" style="color:black\;mso-l
+	ist:l1 level1 lfo6">Security information exposure for trust modelling and 
+	measurement.<o:p></o:p></li><li class="MsoNormal" style="color:black\;mso-
+	margin-top-alt:auto\;mso-margin-bottom-alt:auto\;mso-list:l1 level1 lfo6">
+	\nSouthbound mechanisms to obtain network and compute information.<o:p></o
+	:p></li><li class="MsoNormal" style="color:black\;mso-list:l1 level1 lfo6"
+	>IETF WGs GAP Analysis.<o:p></o:p></li></ul>\n<p class="MsoNormal"><span s
+	tyle="color:black"><o:p>&nbsp\;</o:p></span></p>\n<p class="MsoNormal"><sp
+	an style="color:black">Thank you for sharing this meeting details with the
+	 people might be be interested in these topics.<o:p></o:p></span></p>\n<p 
+	class="MsoNormal"><span style="color:black"><o:p>&nbsp\;</o:p></span></p>\
+	n<p class="MsoNormal"><span style="color:black">Kind regards\,<o:p></o:p><
+	/span></p>\n<p class="MsoNormal">The Side meeting organisers<o:p></o:p></p
+	>\n<div>\n<p class="MsoNormal"><span style="color:#5F5F5F">_______________
+	_________________________________________________________________</span>\n
+	<o:p></o:p></p>\n</div>\n<div>\n<div style="margin-top:18.0pt\;margin-bott
+	om:15.0pt">\n<p class="MsoNormal"><span lang="EN-US" style="font-size:18.0
+	pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Microso
+	ft Teams meeting</span><span lang="EN-US" style="font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\;color:#252424">\n<o:p></o:p></span></p>\n</div>\n<d
+	iv style="margin-bottom:15.0pt">\n<div>\n<p class="MsoNormal"><b><span lan
+	g="EN-US" style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,san
+	s-serif\;color:#252424">Join on your computer\, mobile app or room device<
+	/span></b><b><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#252424">\n<o:p></o:p></span></b></p>\n</div>\n<p class
+	="MsoNormal"><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#252424"><a href="https://teams.microsoft.com/l/meetup-
+	join/19%3ameeting_ZjYxOGE0ZjYtYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjIx%40threa
+	d.v2/0?context=%7b%22Tid%22%3a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2
+	c%22Oid%22%3a%22fca5f38d-5297-46aa-b455-d0973e7cb68a%22%7d" target="_blank
+	"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI Semibold&quot
+	\;\,sans-serif\;color:#6264A7">Click\n here to join the meeting</span></a>
+	 <o:p></o:p></span></p>\n</div>\n<div style="margin-top:15.0pt\;margin-bot
+	tom:15.0pt">\n<div style="margin-bottom:3.0pt">\n<p class="MsoNormal"><spa
+	n lang="EN-US" style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#252424">Meeting ID:\n</span><span lang="EN-US" style=
+	"font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#
+	252424">448 822 383 586</span><span lang="EN-US" style="font-size:10.5pt\;
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">\n</span><s
+	pan lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;co
+	lor:#252424"><br>\n</span><span lang="EN-US" style="font-size:10.5pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Passcode:\n</sp
+	an><span lang="EN-US" style="font-size:12.0pt\;font-family:&quot\;Segoe UI
+	&quot\;\,sans-serif\;color:#252424">3WWvk9\n</span><span lang="EN-US" styl
+	e="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><o:p></o
+	:p></span></p>\n<div>\n<p class="MsoNormal"><span lang="EN-US" style="font
+	-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#25242
+	4"><a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" 
+	target="_blank"><span style="color:#6264A7">Download Teams</span></a> |\n<
+	a href="https://www.microsoft.com/microsoft-teams/join-a-meeting" target="
+	_blank">\n<span style="color:#6264A7">Join on the web</span></a><o:p></o:p
+	></span></p>\n</div>\n</div>\n</div>\n<div style="margin-top:15.0pt\;margi
+	n-bottom:18.0pt">\n<p class="MsoNormal"><span lang="EN-US" style="font-fam
+	ily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="https://ak
+	a.ms/JoinTeamsMeeting" target="_blank"><span style="font-size:10.5pt\;colo
+	r:#6264A7">Learn More</span></a> |\n<a href="https://teams.microsoft.com/m
+	eetingOptions/?organizerId=fca5f38d-5297-46aa-b455-d0973e7cb68a&amp\;tenan
+	tId=a19f121d-81e1-4858-a9d8-736e267fd4c7&amp\;threadId=19_meeting_ZjYxOGE0
+	ZjYtYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjIx@thread.v2&amp\;messageId=0&amp\;l
+	anguage=en-US" target="_blank">\n<span style="font-size:10.5pt\;color:#626
+	4A7">Meeting options</span></a> | <a href="https://www.fujitsu.com/global/
+	about/resources/privacy/" target="_blank">\n<span style="font-size:10.5pt\
+	;color:#6264A7">Legal</span></a> <o:p></o:p></span></p>\n</div>\n</div>\n<
+	div>\n<p class="MsoNormal"><span style="color:#5F5F5F">___________________
+	_____________________________________________________________</span>\n<o:p
+	></o:p></p>\n</div>\n<p class="MsoNormal"><o:p>&nbsp\;</o:p></p>\n</div>\n
+	</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
