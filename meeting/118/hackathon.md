@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-31T13:11:14.737Z
+date: 2023-10-31T13:22:19.290Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -745,7 +745,7 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 - **Project Info**
   - draft-ietf-netmod-yang-module-versioning defines the revision-label extension, this change also also updates the specified filename schema for YANG modules (currently **module.yang** or **module@YYYY-MM-DD.yang**) to also support **module#revision-label.yang**.
   - Currently there are ongoing discussions about this change, if it should be or not. One question raised was that it could require a big effort to update tooling to understand the assumed filenames for a YANG module.
-  - During this hackathon we explore if changing the assumptions on filenames for YANG modules requires a big effort.
+  - During this hackathon we explore if changing the assumptions on filenames, and other revision label extensions, for YANG modules requires a big effort.
   
 - **Documentation**
   - [Updated YANG Module Revision Handling](https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-module-versioning/)
