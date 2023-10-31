@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-31T09:24:43.544Z
+date: 2023-10-31T09:28:13.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -57,6 +57,8 @@ Other platforms including Zoom, Teams, and etc. can also be used.
 1. **Enter your meeting information** (time, room, meeting name, related IETF area, organizer contact, description, conferening link, calendar invite) into the [meeting information table](#meetinginfo) below. **Note this is not the room reservation. The actual room reservation is in step 2.**
 
 2. **Choose the day and time** that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. **If the meeting is not in the room tables, the room is not reserved!**
+
+Also, and this should be obvious, **please don't edit others' side meeting information** without their consent.
 
 ## Step 1: Meeting information {#meetinginfo}
 
