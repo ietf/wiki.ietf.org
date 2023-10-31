@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-10-26T11:20:52.989Z
+date: 2023-10-31T06:18:32.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,7 +50,8 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|Oct 2023|[IGF2023]()|Policy|Supporter|In-Room: Mirja,Colin,Mallory; Remote:Lars,Andrew Alston,Dhruv,Suresh|[Slides](https://intgovforum.org/sites/default/files/IGF23-IETF-Town-Hall-2.pdf) [Report](https://intgovforum.org/en/content/igf-2023-town-hall-32-internet-engineering-task-force-open-forum)|
+|Oct 2023|IGF2023|Policy|Supporter|In-Room: Mirja,Colin,Mallory; Remote:Lars,Andrew Alston,Dhruv,Suresh|[Slides](https://intgovforum.org/sites/default/files/IGF23-IETF-Town-Hall-2.pdf) [Report](https://intgovforum.org/en/content/igf-2023-town-hall-32-internet-engineering-task-force-open-forum)|
+|Oct 2023|inSIG2023|Policy|Supporter|Dhruv Dhody|[Slide](https://docs.google.com/presentation/d/1KW0wrSUkjJQkUrFvHuQiyQRe5Eq5ZxeqI6YPEr97_lU/edit#slide=id.g28637e88c85_0_0)|
 |Jul 2023|[APIGA2023](https://community.icann.org/display/GSEAPAC/APIGA+2023)|Students|knowledge sharing|Dhruv Dhody|Introducing IETF to those interested in Internet Governance [Link](https://docs.google.com/presentation/d/18HaHXXRqojpgAxPJbzEfX8aiqeU9Y-dqcECwRQHZDgU/edit?usp=sharing)|
 |May 2023|RIPE 86|Network Operators in Europe & Middle East|*all levels*|Mirja,Warren,Eric,Jari|IETF Overview of Technical Work and Hot Topics [Slides](https://ripe86.ripe.net/wp-content/uploads/presentations/62-RIPE86-IAB-IETF-Overview-2023-04.pdf),  [Video](https://ripe86.ripe.net/archives/video/1023/)|
 |May 2023|University of Washington|Faculty and Students|Knowledge Sharing|IAB & IESG|Update on current work at IETF|
