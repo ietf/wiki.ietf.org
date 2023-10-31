@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-10-30T18:17:43.379Z
+date: 2023-10-31T05:54:09.245Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -127,8 +127,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
-| RFC9358 | Published 2023-02; Was draft-ietf-pce-vn-association | Hari |
-| RFC9357 | Published 2023-02; Was draft-ietf-pce-lsp-extended-flags | Dhruv | 
+| RFC9488 | Published 2023-10; Was draft-ietf-pce-local-protection-enforcement | Julien |
 
 
 ## Other Useful Information
