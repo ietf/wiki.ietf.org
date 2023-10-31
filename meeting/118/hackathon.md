@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-30T13:26:19.425Z
+date: 2023-10-31T10:11:17.937Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -709,6 +709,30 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - [draft-yao-tsvwg-cco-problem-statement-and-usecases-00](https://datatracker.ietf.org/doc/draft-yao-tsvwg-cco-problem-statement-and-usecases/)
   - [draft-yao-tsvwg-cco-requirement-and-analysis-00](https://datatracker.ietf.org/doc/draft-yao-tsvwg-cco-requirement-and-analysis/)
   
+### Sustainability Insights
+- **Champions** 
+  - Per Andersson <perander@cisco.com>
+  - Jan Lindblad <jlindbla@cisco.com>
+  - Snezana Mitrovic <snmitrov@cisco.com>
+  - Marisol Palmero <mpalmero@cisco.com>
+  - Esther Roure <erourevi@cisco.com>
+  - Ajit Thyagarajan <ajthyaga@cisco.com>
+  
+
+- **Project Info** 
+	- Our group is working on “Sustainability Insights", POWEFF and philatelist drafts.
+  - Our objective is to validate, test and extend green monitoring open source tool to include:
+    * YANG-capable devices as part of Telegraph connector​
+    * Connect real lab devices, to facilitate testing.​
+    * Introduce Data Normalization effort through POWEFF model
+
+- **Documentation**
+  - [Sustainability Insights IETF draft](https://datatracker.ietf.org/doc/draft-almprs-sustainability-insights/)
+  - [Philatelist IETF draft](https://datatracker.ietf.org/doc/draft-lindblad-tlm-philatelist/)
+  - [POWEFF IETF draft](https://datatracker.ietf.org/doc/draft-opsawg-poweff/)
+  
+- **Code**
+	- [Green Monitoring](https://github.com/cisco-open/green-monitoring/tree/main)
 --- 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
