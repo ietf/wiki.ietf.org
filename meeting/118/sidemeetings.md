@@ -2,14 +2,13 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-31T08:58:43.460Z
+date: 2023-10-31T09:15:40.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
 ---
 
 # Side Meetings at IETF 118
----
 
 IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support and a WebEx meeting room for remote participants. These rooms and this page are not to be used for [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
@@ -17,30 +16,30 @@ This wiki is used to book the side meeting rooms and share details of the topics
 
 # Guidelines for public side meetings
 
-* Public side meetings posted here are **open for any registered IETF participant** to attend.
+* **All public side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well)**.
 
-* **All** public side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
+* Public side meetings posted here are **open for any registered IETF participant** to attend.
 
 * **All** working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html). Working group business **must not** happen during side meetings.
 
   * Side meetings *may* be used for design teams or other informal discussions related to working groups.
 
-* Side meetings do not record formal attendance ("blue sheets"). The organizers of side meetings may ask for participants' contact information; participants are free to withhold it.
+* Side meetings **do not record formal attendance** ("blue sheets"). The organizers of side meetings may ask for participants' contact information; participants are free to withhold it.
 
 * Organizers must seek participants' **active consent for any side meeting that is desired to be recorded**.
 
-* Please provide a calendar invitation (an `.ics` file) for a side meeting by putting the link in the appropriate column below.
+* Please **provide a calendar invitation** (an `.ics` file) for a side meeting by putting the link in the appropriate column below. **Please don't skip this!** Participants are surprisingly poor at correctly transcribing information from this wiki into their calendars, causing them to miss your side meeting.
 
-# IETF 118 special considerations
+## IETF 118 special considerations
 
 * To begin, lunch slots are blocked off in case these rooms are needed for other IETF meetings and events. The week of October 30, some lunch slots will be opened up if they are available for side meetings.
 
 * Side meeting dates and times should be listed in Prague local time, UTC+1 (Please note that Europe and the USA end Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
-# Audio/Visual provision and remote participation
-Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. 
+# Audio/visual provision for remote participation
+Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation.
 
-We provide a Chromebook with a preconfigured WebEx room in each side meeting room. The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
+THE IETF provides a Chromebook with a preconfigured WebEx room in each side meeting room. The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
 
 The Webex info is as follows:
 
@@ -48,25 +47,22 @@ Palmovka 1/2 (40U): https://ietf.webex.com/meet/ietfsidemeeting2. Please review 
 
 Karlin 4 (16U): https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions.pdf) for managing your meeting.
 
-
 Other platforms including Zoom, Teams, and etc. can also be used.
 
 
-# Two step process to schedule a side meeting 
+# Two-step process for scheduling
 
-**1. Enter your meeting information (day, time, name, area, contact, description, room links) into the [meeting information table](#meetinginfo) below. Note this is not the room reservation. The actual room reservation is step 2.**
+1. **Enter your meeting information** (time, room, meeting name, related IETF area, organizer contact, description, conferening link, calendar invite) into the [meeting information table](#meetinginfo) below. **Note this is not the room reservation. The actual room reservation is in step 2.**
 
-**2. Please choose the day and time that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. If the meeting is not in the room table, the room is not reserved!**
+2. **Choose the day and time** that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. **If the meeting is not in the room tables, the room is not reserved!**
 
-# Step One: Meeting Information {#meetinginfo}
+## Step 1: Meeting information {#meetinginfo}
 
-At a minimum, please make sure to provide a day/time/room as well as meeting name, point of contact and meeting description.
-
-***Note this is not the room reservation. The actual room reservation happens in the tables in Step 2!***
+**Note this is not the room reservation. The actual room reservation happens in the tables in Step 2 below!**
  
-Please sort the meeting by time if possible.
+Please keep the tables sorted by meeting by time.
 
-## [MONDAY 6 November](#monday)
+### [MONDAY 6 November](#meeting-monday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -80,7 +76,7 @@ Please sort the meeting by time if possible.
 {.dense}
 
 
-## [TUESDAY 7 November](#tuesday)
+### [TUESDAY 7 November](#meeting-tuesday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -97,7 +93,7 @@ Please sort the meeting by time if possible.
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
-## [WEDNESDAY 8 NOVEMBER](#wednesday)
+### [WEDNESDAY 8 NOVEMBER](#meeting-wednesday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -111,7 +107,7 @@ Please sort the meeting by time if possible.
 
 {.dense}
 
-## [THURSDAY 9 November](#thursday)
+### [THURSDAY 9 November](#meeting-thursday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -126,7 +122,7 @@ Please sort the meeting by time if possible.
 |19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite provided by Roland Schott (roland.schott@telecom.de). | https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFiMzBiYWQtMjYxNy00MGY0LWI3YjQtZDQ2Y2JjZDc3YzQy%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d | use the Teams link |
 {.dense}
 
-## [FRIDAY 10 November](#friday)
+### [FRIDAY 10 November](#meeting-friday)
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
@@ -136,10 +132,13 @@ Please sort the meeting by time if possible.
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
 
-# Step Two: Room Reservation
-## Please put the name of your meeting in the table below to reserve a room for your time slot.
+## Step 2: Room Reservation
 
-## Room Info
+**Please put the name of your meeting into the tables below to reserve a room for your time slot.**
+
+"NOT AVAILABLE" in the tables below really means that a room is **not available** during those times. Removing these labels does *not* magically make a room available, so don't do that.
+
+### Room Info
 
 Room: **Karlin 4** 
 Occupancy: up to 16 attendees
@@ -148,27 +147,27 @@ Location: Mezzanine Level
 
 Room: **Palmovka 1/2**
 Occupancy: up to 40 attendees
-Configuration: u-shape 
+Configuration: U-shape 
 Location: Mezzanine Level
 
 
 
-## <a id="monday"></a>MONDAY 6 November {#Monday}
+#### MONDAY 6 November {#room-monday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 | Sustainability Insights  |   NOT AVAILABLE  |   
-| 09:00 | Sustainability Insights  |   NOT AVAILABLE  |   
+| 08:00 |                  |   **NOT AVAILABLE**  |   
+| 08:30 | Sustainability Insights  |   **NOT AVAILABLE**  |   
+| 09:00 | Sustainability Insights  |   **NOT AVAILABLE**  |   
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
-| 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
-| 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
+| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
 | 14:00 |  ANIMA Discovery |                  |  
 | 14:30 |  ANIMA Discovery |                  | 
 | 15:00 |  ANIMA Discovery |                  |  
@@ -181,30 +180,26 @@ Location: Mezzanine Level
 | 18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
 | 19:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
 | 19:30 | EAP-FIDO         |                  |   
-| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
+| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
 
-
-
-
-
-## <a id="tuesday"></a>TUESDAY 7 November {#Tuesday}
+#### TUESDAY 7 November {#room-tuesday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 |Non-Routing information distribution                  |   NOT AVAILABLE  |   
-| 09:00 |Non-Routing information distribution                  |   NOT AVAILABLE  |   
-| 09:30 |Non-Routing information distribution                  |   NOT AVAILABLE  |   
+| 08:00 |                  |   **NOT AVAILABLE**  |   
+| 08:30 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
+| 09:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
+| 09:30 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
-| 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
-| 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
+| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
 | 14:00 |                  |   SADCDN         |  
 | 14:30 |                  |   SADCDN         | 
 | 15:00 | Metaverse        | YANG/Kafka and Digital Map |  
@@ -217,26 +212,26 @@ Location: Mezzanine Level
 | 18:30 | Path Validation  |     AIDC            |   
 | 19:00 | Path Validation  | ECH Deployment Considerations |   
 | 19:30 | Path Validation  | ECH Deployment Considerations |   
-| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
+| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
 
-## <a id="wednesday"></a>WEDNESDAY 8 November{#Wednesday}
+#### WEDNESDAY 8 November{#room-wednesday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   NOT AVAILABLE  |   
-| 08:30 | VT Discussion    |   NOT AVAILABLE  |   
-| 09:00 | VT Discussion    |   NOT AVAILABLE  |   
+| 08:00 |                  |   **NOT AVAILABLE**  |   
+| 08:30 | VT Discussion    |   **NOT AVAILABLE**  |   
+| 09:00 | VT Discussion    |   **NOT AVAILABLE**  |   
 | 09:30 | VT Discussion    |Openconfig/YANG workshop|   
 | 10:00 |                  |Openconfig/YANG workshop|   
 | 10:30 |                  |Openconfig/YANG workshop|   
-| 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
-| 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
+| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
 | 14:00 |                  |   AI4Net         |  
 | 14:30 |                  |   AI4Net         | 
 | 15:00 |                  |   AI4Net         |    
@@ -249,10 +244,10 @@ Location: Mezzanine Level
 | 18:30 |                  |                  |   
 | 19:00 |  KIRA            |                  |   
 | 19:30 |  KIRA            |                  |   
-| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
+| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
-## <a id="thursday"></a>THURSDAY 9 November {#Thursday}
+#### THURSDAY 9 November {#room-thursday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------|  
@@ -262,12 +257,12 @@ Location: Mezzanine Level
 | 09:30 |                  |IPv6 deployment in enterprises|   
 | 10:00 |                  |IPv6 deployment in enterprises|   
 | 10:30 |                  |IPv6 deployment in enterprises|   
-| 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 13:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |  
-| 13:30 |  NOT AVAILABLE   |   NOT AVAILABLE  | 
+| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
 | 14:00 |                  |                  |  
 | 14:30 |                  |       CCO        | 
 | 15:00 |  Time Schedule   |       CCO        |  
@@ -280,11 +275,11 @@ Location: Mezzanine Level
 | 18:30 | Deepspace IP     | 6gip+            |   
 | 19:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
 | 19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
-| 20:00 |  NOT AVAILABLE   |    NOT AVAILABLE |  
+| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
 
-## <a id="friday"></a>FRIDAY 10 November {#Friday}
+#### FRIDAY 10 November {#room-friday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
@@ -294,7 +289,7 @@ Location: Mezzanine Level
 | 09:30 |                  |                  |   
 | 10:00 |                  |                  |   
 | 10:30 |                  |                  |   
-| 11:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 11:30 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
-| 12:00 |  NOT AVAILABLE   |   NOT AVAILABLE  |   
+| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 {.dense}
