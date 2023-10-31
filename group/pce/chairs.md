@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-10-28T04:23:50.282Z
+date: 2023-10-31T06:01:26.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -28,7 +28,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting Dhruv's response |
 | Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19; awaiting on John |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
-| VLAN-based Traffic Forwarding|draft-wang-pce-vlan-based-traffic-forwarding|-|Confirmed with ISE; awaiting confirmation from John |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
 
 ## Completed Tasks
