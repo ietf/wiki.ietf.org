@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-30T23:09:08.245Z
+date: 2023-10-31T08:58:43.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -17,23 +17,25 @@ This wiki is used to book the side meeting rooms and share details of the topics
 
 # Guidelines for public side meetings
 
-* To begin, lunch slots are blocked off in case these rooms are needed for other IETF meetings and events. The week of October 30, some lunch slots will be opened up if they are available for side meetings.
+* Public side meetings posted here are **open for any registered IETF participant** to attend.
 
-* Side meetings posted here are open for any registered IETF participant to attend.
+* **All** public side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
 
-* All side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well).
+* **All** working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html). Working group business **must not** happen during side meetings.
 
-* Working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html), which is not the case for informal side meetings.
+  * Side meetings *may* be used for design teams or other informal discussions related to working groups.
 
-* Side meetings may be used for design teams or other informal discussions related to working groups.
+* Side meetings do not record formal attendance ("blue sheets"). The organizers of side meetings may ask for participants' contact information; participants are free to withhold it.
 
-* Side meetings do not record attendance ("blue sheets") as is done during IETF working groups sessions.
-
-* Active consent from participants should be sought by organizers for any side meeting that is recorded.
-
-* Side meeting dates and times should be listed in Prague local time, UTC+1 (Please note that Europe and the USA end Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
+* Organizers must seek participants' **active consent for any side meeting that is desired to be recorded**.
 
 * Please provide a calendar invitation (an `.ics` file) for a side meeting by putting the link in the appropriate column below.
+
+# IETF 118 special considerations
+
+* To begin, lunch slots are blocked off in case these rooms are needed for other IETF meetings and events. The week of October 30, some lunch slots will be opened up if they are available for side meetings.
+
+* Side meeting dates and times should be listed in Prague local time, UTC+1 (Please note that Europe and the USA end Daylight Savings at different times before the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
 # Audio/Visual provision and remote participation
 Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation. 
