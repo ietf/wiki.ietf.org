@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-31T10:18:23.180Z
+date: 2023-10-31T10:25:30.031Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -716,23 +716,24 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
 
 - **Participants**
   - Per Andersson <perander@cisco.com>
+  - Kristian Larsson <k@centor.se>
   - Snezana Mitrovic <snmitrov@cisco.com>
   - Esther Roure <erourevi@cisco.com>
-  - Ajit Thyagarajan <ajthyaga@cisco.com>
-  - Kristian Larsson <k@centor.se>
   - Emile Stephan <emile.stephan@orange.com>
+  - Ajit Thyagarajan <ajthyaga@cisco.com>
 
 - **Project Info** 
-	- Our group is working on “Sustainability Insights", POWEFF and philatelist drafts.
+	- Our group is working on “Sustainability Insights", philatelist, label-tsdb and POWEFF drafts.
   - Our objective is to validate, test and extend green monitoring open source tool to include:
-    * YANG-capable devices as part of Telegraph connector​
-    * Connect real lab devices, to facilitate testing.​
-    * Introduce Data Normalization effort through POWEFF model
+    * YANG-capable devices as part of Telegraph connector.
+    * Connect real lab devices, to facilitate testing.
+    * Introduce Data Normalization effort through POWEFF model.
 
 - **Documentation**
   - [Sustainability Insights IETF draft](https://datatracker.ietf.org/doc/draft-almprs-sustainability-insights/)
   - [Philatelist IETF draft](https://datatracker.ietf.org/doc/draft-lindblad-tlm-philatelist/)
   - [POWEFF IETF draft](https://datatracker.ietf.org/doc/draft-opsawg-poweff/)
+  - [Label-tsdb IETF draft](https://datatracker.ietf.org/doc/draft-kll-yang-label-tsdb/)
   
 - **Code**
 	- [Green Monitoring](https://github.com/cisco-open/green-monitoring/tree/main)
