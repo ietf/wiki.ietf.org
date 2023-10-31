@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2023-07-19T19:55:10.365Z
+date: 2023-10-31T21:08:59.058Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -21,12 +21,13 @@ This wiki contains additional information for IETF RTGWG working group. Please r
 **WG Document Status**
 | Draft                                   | Remarks                                     |
 |-----------------------------------------|---------------------------------------------|
-| draft-ietf-rtgwg-bgp-pic                | The draft was sent back to the WG.                     |
-| draft-ietf-rtgwg-yang-rib-extend        | In RFC editor queue.                               
-| draft-ietf-rtgwg-qos-model              | Updates will be presented at IETF 117 |
-| draft-ietf-rtgwg-segment-routing-ti-lfa | Directorate reviews close to finish, will start WGLC soon.         |
+| draft-ietf-rtgwg-bgp-pic                | More work needs to be done before the 2nd WGLC.                   |
+| draft-ietf-rtgwg-yang-rib-extend        | Had last-minute change. Back to auth48 state.                               
+| draft-ietf-rtgwg-qos-model              | Started directorate reviews and YANG Doctor review.|
+| draft-ietf-rtgwg-segment-routing-ti-lfa | OPS Directorate review comments to be addressed.|
 | draft-ietf-rtgwg-atn-bgp                | Some directorate reviews have been done. Waiting for related drats to progress in 6man.              |
-|draft-ietf-rtgwg-vrrp-rfc5798bis         | In WGLC.
+|draft-ietf-rtgwg-vrrp-rfc5798bis         | Pending IPR disclosure from RFC5798.|
+| draft-ietf-rtgwg-net2cloud-problem-statement | Finished direcorate reviews. Ready for WGLC. |
 
 **Recently Adopted Documents**
 | Draft                            | State  | Remarks               |
