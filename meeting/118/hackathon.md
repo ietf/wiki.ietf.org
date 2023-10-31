@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-31T14:45:58.384Z
+date: 2023-10-31T21:41:28.391Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -219,7 +219,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
     - ... extensible to new wire format & at the same time, **maintain a single namespace**?
     - ... simpler to operate? What if we [rethink basic assumptions](https://icann.zoom.us/rec/share/PUZu_QsO_rdY0gavMatzFOSVpZY1oNahNYnPBuy6pgTUJARw-YIOEzWEV11aqaHW.4Cwr3dGRlunUwhD9?startTime=1693897245000)? (see the talk starting at 33:40)
 
-### PQ in X.509, Signatures, KEMs and protocols
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs and protocols
 - **Champion(s)**
 John Gray (john.gray@entrust.com)
 Mike Ounsworth (mike.ounsworth@entrust.com)
