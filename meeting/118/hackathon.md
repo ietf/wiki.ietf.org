@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-31T10:11:17.937Z
+date: 2023-10-31T10:18:23.180Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -711,13 +711,16 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   
 ### Sustainability Insights
 - **Champions** 
-  - Per Andersson <perander@cisco.com>
   - Jan Lindblad <jlindbla@cisco.com>
-  - Snezana Mitrovic <snmitrov@cisco.com>
   - Marisol Palmero <mpalmero@cisco.com>
+
+- **Participants**
+  - Per Andersson <perander@cisco.com>
+  - Snezana Mitrovic <snmitrov@cisco.com>
   - Esther Roure <erourevi@cisco.com>
   - Ajit Thyagarajan <ajthyaga@cisco.com>
-  
+  - Kristian Larsson <k@centor.se>
+  - Emile Stephan <emile.stephan@orange.com>
 
 - **Project Info** 
 	- Our group is working on “Sustainability Insights", POWEFF and philatelist drafts.
