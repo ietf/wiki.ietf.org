@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon Team Schedule
 description: 
 published: true
-date: 2023-10-31T03:45:09.947Z
+date: 2023-10-31T03:47:31.350Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T20:40:07.569Z
@@ -23,7 +23,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
 |PQ in X.509, Signatures, KEMs and protocols  | Saturday Nov 4th 11am CET, 3pm CET.  Sunday Nov 5th 11am CET| Gather town Hackathon Table G   |
-|SAV Open Playground|Saturday Nov 4th 11am CET, 3pm CET.  Sunday Nov 5th 11am CET|Gather town Hackathon Table C|
+|SAV Open Playground|Saturday Nov 4th 11am CET, 3pm CET.  Sunday Nov 5th 11am CET|Ballroom, Mezzanine Level and Gather town Hackathon Table C|
 |   |   |   |
 
 *To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
