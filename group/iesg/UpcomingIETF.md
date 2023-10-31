@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-30T15:01:41.084Z
+date: 2023-10-31T10:28:58.490Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -15,12 +15,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 118, or the joint meetings with the IAB.
-
-> 1. To the IESG, about the ISE (Suggested by Eliot Lear)
-> 2. (IESG-only) draft-ietf-core-sid (Francesca, do we want to invite Carsten?)
-> 3. (IESG-only) timeline for WIT creation and WIT structure (Francesca)
-> 4. (IESG-only) One Dispatch (or experiment: merging dispatch sessions at IETF 119) (Francesca)
-> 5. ...
+> Has been triaged. If you add something, tell Lars & Mirja.
 
 # IESG Activities
 *All times are in CET (UTC +1).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -67,14 +62,14 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 > 1. Welcome
 > 1. Updates
->    - RFC Editor
->        - General update (Sandy)
->        - Authors pushing the boundaries to change policy incrementally not via the RSWG (Sandy/Jay)
->    - IANA
-> 3. Strategy for WG Chairs.  Proposal previously circulated (Lars)
-> 4. VCON Charter approval (Murray) 
-> 5. Topic (name)
-> 
+>    - IANA general update (Sabrina?, 10 min)
+>    - RFC Editor general update (Sandy, 5 min)
+> 1. Authors pushing the boundaries to change policy incrementally not via the RSWG (Sandy/Jay, 15 min)
+> 1. VCON Charter approval (Murray, 10 min) 
+> 1. WIT creation and WIT structure (Francesca, 30 min)
+> 1. SUPERMEGADISPATCH experiment at IETF 119 (Francesca, 30 min)
+> 1. Exec session
+>    1. Request by Dan Harkins (Lars)
 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Palmovka 1/2
@@ -85,7 +80,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 
 > 1. Welcome and introductions
-> 2. Area walkthrough for hot topics (list randomized for 118)
+> 1. Policymaker update (Sally/Carl, 10)
+> 1. Area walkthrough for hot topics (list randomized for 118)
 >   - IRTF
 >   - RTG
 >   - SEC
@@ -95,9 +91,9 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >   - INT
 >   - IAB
 >   - TSV
-> 3. Report on Experience of Women in the IETF - Analysis and Next Steps (Jay/Mirja)
-> 4. Topic (name)
-> 
+> 1. Report on Experience of Women in the IETF - Analysis and Next Steps (Jay/Mirja, 20 min)
+> 1. Update on IETF web site revamp (Jay/Greg, 10 min)
+
 
 ### IAB Only Meeting - 14:00-16:00 Room: Palmovka 1/2
 
@@ -110,8 +106,8 @@ See [IAB Meeting Week Agenda](https://www.iab.org/wiki/index.php/Agenda118)
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1002
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1002
 
-> 1. Topic (Name)
-> 1. Topic (name)
+> 1. draft-ietf-core-sid (Francesca, 30 min)
+> 1. About the ISE (Eliot, 30 min)
 
 
 ## Tuesday, November 7, 2023
@@ -124,6 +120,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1004
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1004
 
+> 1. Strategy for WG Chairs (Jay/Greg 20 min)
 > 1. Plenary Prep
 
 
@@ -140,8 +137,9 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1006
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1006
 
->  1. Welcome
->  1. Post-meeting review (randomized for 118)
+> 1. Welcome
+> 1. IETF dashboard update (Greg/Robert, 20 min)
+> 1. Post-meeting review (randomized for 118)
     > - SEC
     > - GEN
     > - OPS
@@ -151,9 +149,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
     > - TSV
     > - IAB
     > - RTG
->  3.  General discussion of productivity and how the meeting went	 (standing item)
->  4. IETF dashboard update (Greg Wood, Robert Sparks)
->  5. Topic (name
+> 1. General discussion of productivity and how the meeting went (standing item)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
