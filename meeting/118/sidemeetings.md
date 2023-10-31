@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-10-31T10:00:24.738Z
+date: 2023-10-31T15:57:44.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -164,8 +164,8 @@ Location: Mezzanine Level
 | 08:30 | Sustainability Insights  |   **NOT AVAILABLE**  |   
 | 09:00 | Sustainability Insights  |   **NOT AVAILABLE**  |   
 | 09:30 |                  |                  |   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
+| 10:00 |                  |    SADCDN        |   
+| 10:30 |                  |    SADCDN        |   
 | 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
