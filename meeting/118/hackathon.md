@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-10-31T10:25:30.031Z
+date: 2023-10-31T13:11:14.737Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -737,6 +737,24 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   
 - **Code**
 	- [Green Monitoring](https://github.com/cisco-open/green-monitoring/tree/main)
+  
+### Revision Label in YANG tooling
+- **Champions**
+  - Per Andersson <perander@cisco.com>
+  
+- **Project Info**
+  - draft-ietf-netmod-yang-module-versioning defines the revision-label extension, this change also also updates the specified filename schema for YANG modules (currently **module.yang** or **module@YYYY-MM-DD.yang**) to also support **module#revision-label.yang**.
+  - Currently there are ongoing discussions about this change, if it should be or not. One question raised was that it could require a big effort to update tooling to understand the assumed filenames for a YANG module.
+  - During this hackathon we explore if changing the assumptions on filenames for YANG modules requires a big effort.
+  
+- **Documentation**
+  - [Updated YANG Module Revision Handling](https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-module-versioning/)
+  - [YANG Semantic Versioning](https://datatracker.ietf.org/doc/draft-ietf-netmod-yang-semver/)
+
+- **Code**
+  - https://github.com/mbj4668/pyang
+  - https://github.com/mbj4668/yanger
+  - https://github.com/CESNET/libyang
 --- 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
