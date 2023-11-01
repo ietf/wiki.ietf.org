@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-01T10:14:50.304Z
+date: 2023-11-01T14:42:52.868Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -293,7 +293,7 @@ For information on OIDs used to create interoperable structures, consult: https:
  
 ### Are long-lived TCP sessions a problem for (DNS) statistics?
 - **Champion(s)**
-  - Jerry Lundström (jerry at dns-oarc.net)
+  - Jerry Lundström (jerry at dns-oarc.net) (remote)
   - Roy Arends (roy at dnss.ec)
 - **Project Info**
   - Some tools uses packet capturing to do statistics for DNS and some of them needs to see the beginning of the TCP sessions. If resolver systems out there start keeping TCP session against authorities open for a very long time (days or weeks) then it might become a problem for these tools.
@@ -303,6 +303,8 @@ For information on OIDs used to create interoperable structures, consult: https:
     2) Second to survey DNS statistics tools out there to see how they handle long-lived TCP sessions to understand how wide a problem this might be, if any. And maybe fix some of them if issues are spotted when doing this.
 
     Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
+    
+    Please join [#IETF Hackathon LLTCP](https://chat.dns-oarc.net/community/channels/ietf118-hackathon-lltcp) (on DNS-OARC's Mattermost) to discuss the project with all participants.
     
 ### Media over QUIC (MoQ)
 
