@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-01T23:27:40.878Z
+date: 2023-11-01T23:30:11.063Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -234,7 +234,7 @@ https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-sigs/
 https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/00/
 https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-kemri/
 https://datatracker.ietf.org/doc/draft-ietf-lamps-rfc4210bis/
-https://datatracker.ietf.org/doc/draft-becker-guthrie-cert-binding-for-multi-auth/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cert-binding-for-multi-auth/01/
 https://www.ietf.org/id/draft-lamps-okubo-certdiscovery-00.html
 https://datatracker.ietf.org/doc/draft-bonnell-lamps-chameleon-certs/
 https://datatracker.ietf.org/doc/draft-gazdag-x509-hash-sigs/
