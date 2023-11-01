@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-10-25T09:44:47.923Z
+date: 2023-11-01T22:35:13.150Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -166,20 +166,16 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-multicast
 
-* draft-kaliraj-bess-bgp-sig-private-mpls-labels
-  - Needs MPLS and IDR review
+
  
 
 ## Recently adopted documents
 
-* draft-brissette-bess-evpn-vpws-seamless (6/14)
-* draft-sajassi-bess-secure-evpn (6/20)
+* draft-ietf-bess-bgp-srv6-args-00
+
 
 ## Documents candidates for Working Group adoption
 
-* draft-trr-bess-bgp-srv6-args: (Matthew) -> 9/25
-	- draft has already multiple implementations (fixing issue in base RFC)
- 
 * draft-sr-bess-evpn-dpath-01
 	- Action: Matthew to check with Jorge if it's ready
   - (9/21): Confirmed this is ready.
@@ -199,6 +195,8 @@ Shepherd's name indicated within parenthesis.
 * draft-burdet-bess-evpn-fast-reroute:
 	- no active discussion
   - will require joint calls with SPRING
+* draft-kaliraj-bess-bgp-sig-private-mpls-labels
+  - Needs MPLS and IDR review
 
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
@@ -210,16 +208,12 @@ Shepherd's name indicated within parenthesis.
 | --- | --- | --- |
 |draft-ietf-bess-evpn-bfd-03 | 3/2/23 |   |
 |draft-ietf-bess-ipv6-only-pe-design-03 |3/6/23| waiting for authors comment |
-|draft-ietf-bess-evpn-modes-interop | 3/6/23 | Expired, checking with authors |
 |draft-ietf-bess-evpn-mvpn-seamless-interop-04 | 6/30/23 |authors working on updating the draft |
 |draft-ietf-bess-mvpn-evpn-sr-p2mp | 3/6/23 | Update in progress based on SPRING WG comments |
-|draft-ietf-bess-weighted-hrw-00| 6/1/23 | update in progress |
 |draft-ietf-bess-secure-evpn-00  | 6/30/23 | recently adopted |
 | draft-ietf-bess-ebgp-dmz-03  | 6/30/23 | Discussion with IDR to be solved |
 |draft-ietf-bess-evpn-vpws-seamless-00 | 6/30/23 | recently adopted |
 | draft-ietf-bess-evpn-geneve-06  | 6/30/23 | waiting for implementation |
-| draft-ietf-bess-bgp-multicast-controller-11 | 9/14/23 | Status ?|
-| draft-ietf-bess-bgp-multicast-05 | 9/14/23 | Status ?|
 | draft-ietf-bess-ipv6-only-pe-design-04 | 9/14/23 | Status ?|
 
 
