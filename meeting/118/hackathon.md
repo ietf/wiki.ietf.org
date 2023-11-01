@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-01T14:42:52.868Z
+date: 2023-11-01T14:53:51.177Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -304,7 +304,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 
     Sounds interesting? Do you have data to poke at? Hope to see you at the hackathon then! :)
     
-    Please join [#IETF Hackathon LLTCP](https://chat.dns-oarc.net/community/channels/ietf118-hackathon-lltcp) (on DNS-OARC's Mattermost) to discuss the project with all participants.
+  - Please join [#IETF Hackathon LLTCP](https://chat.dns-oarc.net/community/channels/ietf118-hackathon-lltcp) (on DNS-OARC's Mattermost) to discuss the project with all participants.
     
 ### Media over QUIC (MoQ)
 
