@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-01T04:23:26.480Z
+date: 2023-11-01T10:50:08.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -164,31 +164,31 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   **NOT AVAILABLE**  |   
-| 08:30 | Sustainability Insights  |   **NOT AVAILABLE**  |   
-| 09:00 | Sustainability Insights  |   **NOT AVAILABLE**  |   
-| 09:30 |                  |                  |   
-| 10:00 |                  |    SADCDN        |   
-| 10:30 |                  |    SADCDN        |   
-| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
-| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00 |  ANIMA Discovery |   UNS / UCA      |  
-| 14:30 |  ANIMA Discovery |   UNS / UCA      | 
-| 15:00 |  ANIMA Discovery |                  |  
-| 15:30 |                  |   SR Operations  |   
-| 16:00 | DNSSD editing    |   SR Operations  |   
-| 16:30 | DNSSD editing    |   SR Operations  |   
-| 17:00 | DNSSD editing    |   SR Operations  |   
-| 17:30 |                  | QoS & TE for differentiated deterministic service                 |   
-| 18:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
-| 18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
-| 19:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
-| 19:30 | EAP-FIDO         |                  |   
-| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
+| 08:00-08:30 |                  |   **NOT AVAILABLE**  |   
+| 08:30-09:00 | Sustainability Insights  |   **NOT AVAILABLE**  |   
+| 09:00-09:30 | Sustainability Insights  |   **NOT AVAILABLE**  |   
+| 09:30-10:00 |                  |                  |   
+| 10:00-10:30 |                  |    SADCDN        |   
+| 10:30-11:00 |                  |    SADCDN        |   
+| 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
+| 14:00-14:30 |  ANIMA Discovery |   UNS / UCA      |  
+| 14:30-15:00 |  ANIMA Discovery |   UNS / UCA      | 
+| 15:00-15:30 |  ANIMA Discovery |                  |  
+| 15:30-16:00 |                  |   SR Operations  |   
+| 16:00-16:30 | DNSSD editing    |   SR Operations  |   
+| 16:30-17:00 | DNSSD editing    |   SR Operations  |   
+| 17:00-17:30 | DNSSD editing    |   SR Operations  |   
+| 17:30-18:00 |                  | QoS & TE for differentiated deterministic service                 |   
+| 18:00-18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
+| 18:30-19:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
+| 19:00-19:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
+| 19:30-20:00 | EAP-FIDO         |                  |   
+| 20:00-20:30 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
 
@@ -196,108 +196,106 @@ Location: Mezzanine Level
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   **NOT AVAILABLE**  |   
-| 08:30 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
-| 09:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
-| 09:30 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
-| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
-| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00 |                  |   SADCDN         |  
-| 14:30 |                  |   SADCDN         | 
-| 15:00 | Metaverse        | YANG/Kafka and Digital Map |  
-| 15:30 | Metaverse        | YANG/Kafka and Digital Map |
-| 16:00 | Metaverse        | YANG/Kafka and Digital Map |
-| 16:30 | Incident Mgt     |     AIDC            |   
-| 17:00 | Incident Mgt     |     AIDC            |   
-| 17:30 | Incident Mgt     |     AIDC            |   
-| 18:00 | Deepspace IP     |     AIDC            |   
-| 18:30 | Path Validation  |     AIDC            |   
-| 19:00 | Path Validation  | ECH Deployment Considerations |   
-| 19:30 | Path Validation  | ECH Deployment Considerations |   
-| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
+| 08:00-08:30 |                  |   **NOT AVAILABLE**  |   
+| 08:30-09:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
+| 09:00-09:30 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
+| 09:30-10:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
+| 10:00-10:30 |                  |                  |   
+| 10:30-11:00 |                  |                  |   
+| 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
+| 14:00-14:30 |                  |   SADCDN         |  
+| 14:30-15:00 |                  |   SADCDN         | 
+| 15:00-15:30 | Metaverse        | YANG/Kafka and Digital Map |  
+| 15:30-16:00 | Metaverse        | YANG/Kafka and Digital Map |
+| 16:00-16:30 | Metaverse        | YANG/Kafka and Digital Map |
+| 16:30-17:00 | Incident Mgt     |     AIDC            |   
+| 17:00-17:30 | Incident Mgt     |     AIDC            |   
+| 17:30-18:00 | Incident Mgt     |     AIDC            |   
+| 18:00-18:30 | Deepspace IP     |     AIDC            |   
+| 18:30-19:00 | Path Validation  |     AIDC            |   
+| 19:00-19:30 | Path Validation  | ECH Deployment Considerations |   
+| 19:30-20:00 | Path Validation  | ECH Deployment Considerations |   
+| 20:00-20:30 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
-
 
 #### WEDNESDAY 8 November{#room-wednesday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |   **NOT AVAILABLE**  |   
-| 08:30 | VT Discussion    |   **NOT AVAILABLE**  |   
-| 09:00 | VT Discussion    |   **NOT AVAILABLE**  |   
-| 09:30 | VT Discussion    |Openconfig/YANG workshop|   
-| 10:00 | WimSE BoF        |Openconfig/YANG workshop|   
-| 10:30 | WimSE BoF        |Openconfig/YANG workshop|   
-| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
-| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00 |                  |   AI4Net         |  
-| 14:30 |                  |   AI4Net         | 
-| 15:00 |                  |   AI4Net         |    
-| 15:30 |  Edge Computing  |   Pluggable/PoI  |   
-| 16:00 |  Edge Computing  |   Pluggable/PoI  |   
-| 16:30 |  Edge Computing  |   Pluggable/PoI  |   
-| 17:00 |  CCAMP T-NBI DT  |                  |   
-| 17:30 |  CCAMP T-NBI DT  |                  |   
-| 18:00 |  CCAMP T-NBI DT  |                  |   
-| 18:30 |                  |                  |   
-| 19:00 |  KIRA            |                  |   
-| 19:30 |  KIRA            |                  |   
-| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
+| 08:00-08:30 |                  |   **NOT AVAILABLE**  |   
+| 08:30-09:00 | VT Discussion    |   **NOT AVAILABLE**  |   
+| 09:00-09:30 | VT Discussion    |   **NOT AVAILABLE**  |   
+| 09:30-10:00 | VT Discussion    |Openconfig/YANG workshop|   
+| 10:00-10:30 | WimSE BoF        |Openconfig/YANG workshop|   
+| 10:30-11:00 | WimSE BoF        |Openconfig/YANG workshop|   
+| 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
+| 14:00-14:30 |                  |   AI4Net         |  
+| 14:30-15:00 |                  |   AI4Net         | 
+| 15:00-15:30 |                  |   AI4Net         |    
+| 15:30-16:00 |  Edge Computing  |   Pluggable/PoI  |   
+| 16:00-16:30 |  Edge Computing  |   Pluggable/PoI  |   
+| 16:30-17:00 |  Edge Computing  |   Pluggable/PoI  |   
+| 17:00-17:30 |  CCAMP T-NBI DT  |                  |   
+| 17:30-18:00 |  CCAMP T-NBI DT  |                  |   
+| 18:00-18:30 |  CCAMP T-NBI DT  |                  |   
+| 18:30-19:00 |                  |                  |   
+| 19:00-19:30 |  KIRA            |                  |   
+| 19:30-20:00 |  KIRA            |                  |   
+| 20:00-20:30 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
 #### THURSDAY 9 November {#room-thursday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------|  
-| 08:00 |                  |                  |   
-| 08:30 |  co2 footprint   | HTTP Concurrency |   
-| 09:00 |  co2 footprint   | HTTP Concurrency |  
-| 09:30 |                  |IPv6 deployment in enterprises|   
-| 10:00 |                  |IPv6 deployment in enterprises|   
-| 10:30 |                  |IPv6 deployment in enterprises|   
-| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
-| 13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00 |                  |                  |  
-| 14:30 |                  |       CCO        | 
-| 15:00 |  Time Schedule   |       CCO        |  
-| 15:30 |  Time Schedule   |       CCO        |   
-| 16:00 | ipmon Side Meeting|      CCO        |   
-| 16:30 | ipmon Side Meeting|                  |   
-| 17:00 | ipmon Side Meeting|                  |   
-| 17:30 | ipmon Side Meeting|                  |   
-| 18:00 | Deepspace IP     | 6gip+            |   
-| 18:30 | Deepspace IP     | 6gip+            |   
-| 19:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
-| 19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
-| 20:00 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
+| 08:00-08:30 |                  |                  |   
+| 08:30-09:00 |  co2 footprint   | HTTP Concurrency |   
+| 09:00-09:30 |  co2 footprint   | HTTP Concurrency |  
+| 09:30-10:00 |                  |IPv6 deployment in enterprises|   
+| 10:00-10:30 |                  |IPv6 deployment in enterprises|   
+| 10:30-11:00 |                  |IPv6 deployment in enterprises|   
+| 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
+| 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
+| 14:00-14:30 |                  |                  |  
+| 14:30-15:00 |                  |       CCO        | 
+| 15:00-15:30 |  Time Schedule   |       CCO        |  
+| 15:30-16:00 |  Time Schedule   |       CCO        |   
+| 16:00-16:30 | ipmon Side Meeting|      CCO        |   
+| 16:30-17:00 | ipmon Side Meeting|                  |   
+| 17:00-17:30 | ipmon Side Meeting|                  |   
+| 17:30-18:00 | ipmon Side Meeting|                  |   
+| 18:00-18:30 | Deepspace IP     | 6gip+            |   
+| 18:30-19:00 | Deepspace IP     | 6gip+            |   
+| 19:00-19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
+| 19:30-20:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
+| 20:00-20:30 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
-
 
 #### FRIDAY 10 November {#room-friday}
 
 | **Time** | **Karlin 4 (16 people)** | **Palmovka 1/2 (40 people)** | 
 |-------|------------------|------------------| 
-| 08:00 |                  |                  |  
-| 08:30 | trans challenges |  eodir           |   
-| 09:00 | trans challenges |  eodir           |   
-| 09:30 |                  |                  |   
-| 10:00 |                  |                  |   
-| 10:30 |                  |                  |   
-| 11:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
-| 12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 08:00-08:30 |                  |                  |  
+| 08:30-09:00 | trans challenges |  eodir           |   
+| 09:00-09:30 | trans challenges |  eodir           |   
+| 09:30-10:00 |                  |                  |   
+| 10:00-10:30 |                  |                  |   
+| 10:30-11:00 |                  |                  |   
+| 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
+| 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 {.dense}
