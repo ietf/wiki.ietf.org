@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-10-31T10:28:58.490Z
+date: 2023-11-01T09:55:58.427Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -69,7 +69,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 > 1. WIT creation and WIT structure (Francesca, 30 min)
 > 1. SUPERMEGADISPATCH experiment at IETF 119 (Francesca, 30 min)
 > 1. Exec session
->    1. Request by Dan Harkins (Lars)
+>    - Request by Dan Harkins (Lars)
 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Palmovka 1/2
@@ -82,15 +82,15 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 > 1. Welcome and introductions
 > 1. Policymaker update (Sally/Carl, 10)
 > 1. Area walkthrough for hot topics (list randomized for 118)
->   - IRTF
->   - RTG
->   - SEC
->   - GEN
->   - ART
->   - OPS
->   - INT
->   - IAB
->   - TSV
+>    - IRTF
+>    - RTG
+>    - SEC
+>    - GEN
+>    - ART
+>    - OPS
+>    - INT
+>    - IAB
+>    - TSV
 > 1. Report on Experience of Women in the IETF - Analysis and Next Steps (Jay/Mirja, 20 min)
 > 1. Update on IETF web site revamp (Jay/Greg, 10 min)
 
@@ -140,15 +140,15 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
 > 1. Welcome
 > 1. IETF dashboard update (Greg/Robert, 20 min)
 > 1. Post-meeting review (randomized for 118)
-    > - SEC
-    > - GEN
-    > - OPS
-    > - ART
-    > - IRTF
-    > - INT
-    > - TSV
-    > - IAB
-    > - RTG
+>    - SEC
+>    - GEN
+>    - OPS
+>    - ART
+>    - IRTF
+>    - INT
+>    - TSV
+>    - IAB
+>    - RTG
 > 1. General discussion of productivity and how the meeting went (standing item)
 
 
