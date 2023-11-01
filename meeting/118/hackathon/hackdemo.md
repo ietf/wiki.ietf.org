@@ -2,7 +2,7 @@
 title: IETF 118 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-10-25T17:04:32.531Z
+date: 2023-11-01T19:01:11.749Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T20:56:22.040Z
@@ -20,7 +20,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
 |ILNP| Saleem Bhatti  | saleem@st-andrews.ac.uk | <https://ilnp.cs.st-andrews.ac.uk> |
-|   |   |   |   |
+|PQ Encrypted Client Hello|Georgios Tasopoulos|g.tasop@isi.gr|https://github.com/IETF-Hackathon/pq-ech|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
