@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-01T21:43:58.838Z
+date: 2023-11-01T21:48:52.116Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -120,7 +120,7 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
 | 8:30-9:30   |  Karlin 4    |  IETF sustainability/co2 footprint  |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      | |          |
-|   9:30-11:30  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 60m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 30m (3) Nalini Elkins, Priyanka Sinha et al, Happy Eyeballs & other IPv6 issues with various OSes, 30m  |    TBD                   |   TBD       |   |                            
+|   9:30-11:00  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 45m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 20m (3) Nalini Elkins, Priyanka Sinha et al, ND6, 25m  |    TBD                   |   TBD       |   |                            
 | 14:30-16:30  |  Palmovka 1/2  | Collective Communication Optimizations (CCO) |TSV,ART,RTG |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on cases, challenges, requirements and mechanisms to facilitate the collective communication optimizations   | https://ietf.webex.com/meet/ietfsidemeeting2    |   [cco-ietf118-sidemeeting.ics](/cco-ietf118-sidemeeting.ics) |
 |    15:00- 16:00      |    Karlin 4           |  Time Schedule |    OPS              | bill.wu@huawei.com; yingzhen.qu@futurewei.com; luismiguel.contrerasmurillo@telefonica.com                |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |    16:00- 18:00      |    Karlin 4           | IPMON BoF Preparation |  INT  | pauljeong@skku.edu; chrisshen@skku.edu; pjs@etri.re.kr; |  Discussion on IPMON charter and the sharing of IPMON activity after IETF-117 | https://us02web.zoom.us/j/82656058380?pwd=Z016RjBxWW4zZGNWVU05V2xwQm5GZz09 | TBD |
