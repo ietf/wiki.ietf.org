@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-01T08:03:23.659Z
+date: 2023-11-01T10:14:50.304Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: Saturday - Sunday, 4-5 November 2023
 * :bridge_at_night: **Where**: Hilton Prague, Prague, Czechia
-* :cityscape: **Room**: [Ballroom](https://datatracker.ietf.org/meeting/118/floor-plan?room=ballroom), Mezzanine Level
+* :cityscape: **Room**: [Congress Hall 1/2](https://datatracker.ietf.org/meeting/118/floor-plan?room=congress-hall-1-2), Lower Lobby Level
 {.grid-list}
  
 **Sponsored by**
