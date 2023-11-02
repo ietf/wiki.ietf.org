@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-01T09:55:58.427Z
+date: 2023-11-02T17:38:21.318Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -68,6 +68,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 > 1. VCON Charter approval (Murray, 10 min) 
 > 1. WIT creation and WIT structure (Francesca, 30 min)
 > 1. SUPERMEGADISPATCH experiment at IETF 119 (Francesca, 30 min)
+> 1. eIDAS (Lars)
 > 1. Exec session
 >    - Request by Dan Harkins (Lars)
 
