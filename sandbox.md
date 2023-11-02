@@ -2,7 +2,7 @@
 title: Sandbox
 description: 
 published: true
-date: 2023-11-02T16:51:54.012Z
+date: 2023-11-02T16:52:21.658Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:47:08.101Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:47:08.101Z
 
 - [content-sprints](/content-sprints)![ietf-logo-reversed-square-300dpi-transparent-background.png](/ietf-logo-reversed-square-300dpi-transparent-background.png){.align-center}# This is a sandbox page for testing only.
 
-- money  https://app.fastspring.com/site/store/home.xml?mRef=BasicStoreSite:26JVVK55ZJHW2#
+- money  https://app.fastspring.com/site/store/home.xml?mRef=BasicStoreSite:26JVVK55ZJHW2#http://vetnamesemusicartists.comhttp
 ## WG News
 *
 ## Documents to swap
