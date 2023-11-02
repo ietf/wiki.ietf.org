@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T13:04:27.391Z
+date: 2023-11-02T15:27:49.825Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -171,16 +171,15 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
-### SCION path aware networking
+### SCION open source applications
 - **Champion(s)**
-  - Nicola Rustignoli (nic at scion.org)
   - Matthias Frei (matzf at scion.org)
   - Dominik Roos (roos at anapaya.net)
   - Thorben Krüger (thorben.krueger at ovgu.de)
-  - John Studarus		(John.Studarus at martincoit.net)  
+  - François Wirz		(wirzf at inf.ethz.ch)
 
 - **Project Info**
-  - Projects centered on open-source SCION applications
+  - Projects centered on open-source SCION applications (Dominik Roos)
     - **HTTP3-over-SCION Plugin for Caddy**
       Create an HTTP3-over-SCION plugin for Caddy, the popular web server.
       This plugin will enable Caddy to seamlessly act as a reverse proxy
@@ -203,9 +202,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       framework, to operate over SCION. Unlike gRPC, [connect-go](https://github.com/connectrpc/connect-go)
       features a compact codebase primarily built on the Go stdlib,
       simplifying the implementation process.
-   - ** DNS over QUIC (RFC 9250) for SCION** 
-		
-  - Potential additional projects will focus around deployment and visualization of SCION. More info TBD. 
+   - **DNS over QUIC (RFC 9250) for SCION** (Thorben Krüger)
    
 - **Draft Specifications** 
   - [draft-dekater-panrg-scion-overview](https://datatracker.ietf.org/doc/draft-dekater-panrg-scion-overview/)
@@ -213,6 +210,30 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - [draft-dekater-scion-pki](https://datatracker.ietf.org/doc/draft-dekater-scion-pki/)
   - [draft-dekater-scion-controlplane](https://datatracker.ietf.org/doc/draft-dekater-scion-controlplane/)
   - [draft-dekater-scion-dataplane](https://datatracker.ietf.org/doc/draft-dekater-scion-dataplane/)
+  
+### SCION Deployment guide
+- **SCION Deployment guide**
+- **Champion(s)**
+  - John Studarus		(John.Studarus at martincoit.net)  
+  - Nicola Rustignoli (nic at scion.org)
+  - Corine de Kater (cdk at scion.org)
+  
+- **Project info**
+
+   Part of having a successful open source implementation is making it easy for newcomers (developers, hobbyists, students, etc) to set up and run a SCION environment. [SCIONLab](https://docs.scionlab.org) and the SCION development (scion.sh) are two starting points but going to the “next level” - a stand alone network, can be daunting. This came about when attempting to perform large scale testing of SCION which would have been inappropriate across SCIONLab and unfeasible in a local development environment. 
+  Goals:
+   - Documentation written up and placed as part of the existing [SCION Docs webpage](https://docs.scion.org/en/latest/)
+  - Deployment options (bare metal, VMs, containers)
+  - Requirements (hardware and network)
+  - Prerequisites - OS version/configuration, network interface configuration
+  - Sample deployment architecture(s)/Topologies
+  - Where to find packages/binaries (i.e. tagged/tested releases)
+  - Creating configuration files
+  - Setting up keys (and on-going key operations)
+  - Verifying Proper Operations/Troubleshooting guide
+  - Prometheus monitoring of SCION metrics
+
+
 ### *D*oes *N*ot *S*cale: Rethinking DNS for the Future of the Internet
 - **Champion(s)**
   - Petr Špaček (pspacek at isc.org)
