@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-11-01T22:42:15.791Z
+date: 2023-11-02T07:37:46.240Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -188,6 +188,7 @@ Shepherd's name indicated within parenthesis.
  - Hold on
 
 * draft-duan-bess-mvpn-ipv6-infras
+* draft-wang-bess-mvpn-upstream-df-selection
 * draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
   - the above two should be considered together
   - Action: Matthew and Stephane to review both and come with a conclusion
@@ -206,15 +207,15 @@ Shepherd's name indicated within parenthesis.
 
 | Document Name | Last Update |  Status |
 | --- | --- | --- |
-|draft-ietf-bess-evpn-bfd-03 | 3/2/23 |   |
-|draft-ietf-bess-ipv6-only-pe-design-03 |3/6/23| waiting for authors comment |
-|draft-ietf-bess-evpn-mvpn-seamless-interop-04 | 6/30/23 |authors working on updating the draft |
-|draft-ietf-bess-mvpn-evpn-sr-p2mp | 3/6/23 | Update in progress based on SPRING WG comments |
-|draft-ietf-bess-secure-evpn-00  | 6/30/23 | recently adopted |
-| draft-ietf-bess-ebgp-dmz-03  | 6/30/23 | Discussion with IDR to be solved |
-|draft-ietf-bess-evpn-vpws-seamless-00 | 6/30/23 | recently adopted |
-| draft-ietf-bess-evpn-geneve-06  | 6/30/23 | waiting for implementation |
-| draft-ietf-bess-ipv6-only-pe-design-04 | 9/14/23 | Status ?|
+|draft-ietf-bess-evpn-bfd-03 | 11/2/23 | Authors to confirm about next step  |
+|draft-ietf-bess-ipv6-only-pe-design-03 |11/2/23| waiting for authors comment |
+|draft-ietf-bess-evpn-mvpn-seamless-interop-04 | 11/02/23 |Draft being presented in IETF 118 and ready for WGLC |
+|draft-ietf-bess-mvpn-evpn-sr-p2mp | 11/2/23 | Update in progress based on SPRING WG comments |
+|draft-ietf-bess-secure-evpn-00  | 11/2/23 | recently adopted |
+| draft-ietf-bess-ebgp-dmz-03  | 11/2/23 | Discussion with IDR to be solved |
+|draft-ietf-bess-evpn-vpws-seamless-00 | 11/2/23 | recently adopted |
+| draft-ietf-bess-evpn-geneve-06  | 11/2/23 | waiting for implementation |
+| draft-ietf-bess-ipv6-only-pe-design-04 | 11/2/23 | Authors being checked |
 
 
 
