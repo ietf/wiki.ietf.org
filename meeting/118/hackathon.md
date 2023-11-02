@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T17:58:53.101Z
+date: 2023-11-02T18:07:55.205Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -849,6 +849,20 @@ visitors to join from the kickoff or at any time during day.
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-sakemi-areion/
   	- Work in progress
+    
+ ### Introduction to the MTL Mode Open Source Library
+An opportunity for participants to engage around the recently released open-source library for Merkle Tree Ladder Mode (MTL) signatures (https://github.com/verisign/MTL). MTL Mode is described in the recent I-D for CFRG (https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/) as a means for reducing the size impact of PQC algorithms for some use cases, such as DNSSEC.
+    
+- **Champions**
+  - Joe Harvey (jharvey@verisign.com)
+  - Andy Fregly (afregly@verisign.com)
+- **Project Info**
+  - Participation in the project will provide an opportunity to:
+     - Learn from two members of the team that developed MTL Mode about how it works and how it might be used
+     - Receive guided walkthroughs of the open-source library and example code
+     - Receive guidance on how the code can be built into a docker container
+    - If hacking, receive support in developing code that incorporates the open-source library or is derived from the example code
+    - Influence future activities related to the open-source library such as additional language bindings and support for additional underlying PQC signature schemes
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
@@ -860,17 +874,9 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 ```markdown
 ### Your Project
 - **Champions**
-Joe Harvey (jharvey@verisign.com)
-Andy Fregly (afregly@verisign.com)
+name and email
 - **Project Info**
-An opportunity for participants to engage around the recently released open-source library for Merkle Tree Ladder Mode (MTL) signatures (https://github.com/verisign/MTL). MTL Mode is described in the recent I-D for CFRG (https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/) as a means for reducing the size impact of PQC algorithms for some use cases, such as DNSSEC.
- 
-Participation in the project will provide an opportunity to:
-- Learn from two members of the team that developed MTL Mode about how it works and how it might be used
-- Receive guided walkthroughs of the open-source library and example code
-- Receive guidance on how the code can be built into a docker container
-- If hacking, receive support in developing code that incorporates the open-source library or is derived from the example code
-- Influence future activities related to the open-source library such as additional language bindings and support for additional underlying PQC signature schemes
+project description
  ```
  
 ----
