@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-02T06:47:06.721Z
+date: 2023-11-02T06:48:37.676Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -73,7 +73,7 @@ Please keep the tables sorted by meeting by time.
 |    8:45 - 9:30 | Karlin 4 | Sustainability Insights | OPS | Marisol Palmero & Emile Stephan | Gaps on Power Metrics Normalization | TBD | TBD |
 |    14:00 - 15:30 | Karlin 4 | ANIMA BRSKI Discovery and BRSKI-AE | OPS | david.von.oheimb@siemens.com | Exchange on the options for discovering BRSKI nodes and the features they support, and how to handle disovery in BRSKI-AE | [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDYzY2U3MGUtNmZiOC00ZTFjLWEwODgtYzRmNWY4MTVkNGNj%40thread.v2/0?context=%7b%22Tid%22%3a%2238ae3bcd-9579-4fd4-adda-b42e1495d55a%22%2c%22Oid%22%3a%22b10a0893-f9d8-434b-a5e8-6ee626ba9448%22%7d) Meeting ID: 357 072 360 048 Passcode: poSX7V |  |
 14:00-15:00      |    Palmovka 1/2       |      Universal Name System / Universal Certificate Authority             |    ?      |   manu@hushmesh.com      |  Discussion and guidance to bring this work to the IETF community                        |                       |          |
-15:30-17:30      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, daniel.voyer@bell.ca, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |   Conference Link: https://ietf.webex.com/meet/ietfsidemeeting2     Agenda: https://github.com/China-Mobile-SRv6-Research/IETF118_SR_Operations_side_meeting/blob/main/Side%20Meeting%20Agenda |    |
+15:30-17:00      |    Palmovka 1/2       |      SR Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, daniel.voyer@bell.ca, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |   Conference Link: https://ietf.webex.com/meet/ietfsidemeeting2     Agenda: https://github.com/China-Mobile-SRv6-Research/IETF118_SR_Operations_side_meeting/blob/main/Side%20Meeting%20Agenda |    |
 | 16:00-17:30 | Karlin 4 | DNSSD document editing | INT | chris.box.ietf@gmail.com | Discussion and document editing on TSR, SRP Replication, Advertising proxy et al | https://ietf.webex.com/meet/sidemeetingietf1 | [dnssd.ics](/dnssd.ics) |
 | 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn, xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks.                       |                       |          |
 | 18:00-20:00  |  Karlin 4  | EAP-FIDO Design&Feedback   |  SEC        |  [Janfred Rieckers (rieckers@dfn.de)](mailto:rieckers@dfn.de)           | Discussion and first community feedback on the Protocol Design of EAP-FIDO (I-D.janfred-eap-fido, to be published ~21.10.) | TBD | TBD |
@@ -182,7 +182,7 @@ Location: Mezzanine Level
 | 15:30-16:00 |                  |   SR Operations  |   
 | 16:00-16:30 | DNSSD editing    |   SR Operations  |   
 | 16:30-17:00 | DNSSD editing    |   SR Operations  |   
-| 17:00-17:30 | DNSSD editing    |   SR Operations  |   
+| 17:00-17:30 | DNSSD editing    |                  |   
 | 17:30-18:00 |                  | QoS & TE for differentiated deterministic service                 |   
 | 18:00-18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
 | 18:30-19:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
