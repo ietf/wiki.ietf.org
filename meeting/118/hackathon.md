@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T12:33:51.920Z
+date: 2023-11-02T12:57:41.531Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -176,6 +176,9 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Nicola Rustignoli (nic at scion.org)
   - Matthias Frei (matzf at scion.org)
   - Dominik Roos (roos at anapaya.net)
+  - Thorben Krüger (thorben.krueger at ovgu.de)
+  
+
 - **Project Info**
   - Projects centered on open-source SCION applications
     - **HTTP3-over-SCION Plugin for Caddy**
@@ -200,6 +203,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       framework, to operate over SCION. Unlike gRPC, [connect-go](https://github.com/connectrpc/connect-go)
       features a compact codebase primarily built on the Go stdlib,
       simplifying the implementation process.
+   - ** DNS over QUIC (RFC 9250) for SCION** 
+		
   - Potential additional projects will focus around deployment and visualization of SCION. More info TBD. 
    
 - **Draft Specifications** 
