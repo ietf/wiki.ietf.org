@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T12:59:55.636Z
+date: 2023-11-02T13:04:27.391Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -815,6 +815,19 @@ visitors to join from the kickoff or at any time during day.
   - **Plugins for popular HTTP proxies for handling resumable uploads**. Plugins for popular HTTP proxies, which handle resumability with buffering. Once the upload is complete, it will forward the upload as a regular HTTP request to your backend.
   - **CLI program to test if a server conforms to the spec**. Implementing RUFH means re-implementing the same kind of end-to-end tests over and over again. To ensure compatability and interoperability between servers and clients, a tool for checking conformness to the protocol is helpful.
   - **JavaScript runtime compatibility**. There is a rise in JavaScript runtimes, such as Deno, Bun, Cloudfare Workers, AWS Lambda, and more. These should have minimal differences, but the devil is in the details and we need to know if the current version of RUFH works in most runtimes, particularly on the edge. This would be done with a minimal proof of concept of RUFH in JavaScript with different adapters for runtimes.
+
+### Ultra-Low Latency Cryptography
+- **Champion(s)**
+  - Yumi Sakemi (yumi.sakemi@gmo-cybersecurity.com)
+  - Satoru Kanno (satoru.kanno@gmo-cybersecurity.com)
+- **Project Info**
+  - In future communication technologies such as 6G, there are technical requirements that demand ultra-low latency and high levels of security. So, the purpose of this project is to achieve low-latency and highly secure cryptographic techniques targeting future communication technologies.
+  - At IETF117 hackathon, we undertook efforts to make the low-latency cryptography ‘Areion’ available for use with TLS 1.3. Based on this work,  at the IETF118 Hackathon, we will take on the challenge of applying “Areion” to QUIC and WebRTC.
+  - Paper at https://tches.iacr.org/index.php/TCHES/article/view/10279/9727
+  - We are currently recruiting collaborators who will join us in this project.
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-sakemi-areion/
+  	- Work in progress
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
