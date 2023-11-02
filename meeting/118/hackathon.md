@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T19:55:58.812Z
+date: 2023-11-02T22:51:46.955Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -870,6 +870,25 @@ An opportunity for participants to engage around the recently released open-sour
 Christian Hopps (chopps@chopps.org)
 - **Project Info**
 IP-TFS in Linux is the implementation of IP-TFS in Linux. The code is nearing the point of merging and the netlink API is stable. As such it's time to start extending the swans to support configuring IP-TFS. Plan on adapting existing strongswan code published previously. Participants welcome to help or bring support to other swans (libre).
+
+### Improving IPv6-only experience on Linux
+- **Champions**
+  - Ondřej Caletka (ondrej.caletka@gmail.com)
+- **Project Info**
+In order to work properly on an IPv6-only network a [CLAT](https://datatracker.ietf.org/doc/html/rfc6877#section-2) is typically needed to help with corner cases like using IPv4-only applications or IPv4 literals. This is especially useful with the advent of [IPv6-mostly](https://www.rfc-editor.org/rfc/rfc8925.html#name-terminology) networks where a host can opt-out from IPv4 using *IPv6-Only Preferred* DHCP option. Support for this option is already implemented in Linux DHCPv4 clients ([systemd-networkd](https://github.com/systemd/systemd/pull/29472), [dhcpcd](https://github.com/NetworkConfiguration/dhcpcd/commit/25e2eec83b600968f01f7fdb3ebfc3c82fc8c742)) but a properly integrated CLAT is still missing.
+Let's try to figure out if anything can be done in this area. For instance a daemon similar to `rdnssd` that would look for [PREF64](https://datatracker.ietf.org/doc/html/rfc8781) option in router advertisments and set up some NAT46 translator when such option is received.
+
+- **Resources**
+  - [clatd](https://github.com/toreanderson/clatd) - a CLAT daemon utilizing userspace translator [TAYGA](http://www.litech.org/tayga/)
+  - [nat46](https://github.com/ayourtch/nat46/tree/master/nat46/modules) - stateles kernel-space SIIT
+  - [tundra](https://github.com/vitlabuda/tundra-nat64) - a user-space NAT64 translator
+  - [ndisc6](https://git.remlab.net/gitweb/?p=ndisc6.git;a=summary) - userspace Neighbor Discovery tools, including `rdnssd`
+  - [systemd-networkd 464XLAT issue](https://github.com/systemd/systemd/issues/23674)
+  
+- **Relevant documents**
+  - [RFC 6877](https://www.rfc-editor.org/rfc/rfc6877.html): 464XLAT: Combination of Stateful and Stateless Translation
+  - [RFC 8925](https://www.rfc-editor.org/rfc/rfc8925.html): IPv6-Only Preferred Option for DHCPv4
+  - [RFC 8781](https://www.rfc-editor.org/rfc/rfc8781.html): Discovering PREF64 in Router Advertisements
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
