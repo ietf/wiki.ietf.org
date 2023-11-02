@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-02T13:57:48.967Z
+date: 2023-11-02T13:58:44.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -274,8 +274,8 @@ Location: Mezzanine Level
 | 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
 | 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00-14:30 |                  |                  |  
-| 14:30-15:00 |                  |       CCO        | 
+| 14:00-14:30 |  Jumbo frames    |                  |  
+| 14:30-15:00 |  Jumbo frames    |       CCO        | 
 | 15:00-15:30 |  Time Schedule   |       CCO        |  
 | 15:30-16:00 |  Time Schedule   |       CCO        |   
 | 16:00-16:30 | ipmon Side Meeting|      Discussion on IPMON charter and the sharing of IPMON activity after IETF-117        |   
