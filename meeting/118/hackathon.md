@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-01T23:30:11.063Z
+date: 2023-11-02T11:43:20.288Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -412,6 +412,15 @@ For information on OIDs used to create interoperable structures, consult: https:
 - **Project Info**
   - Semantic Metadata Annotation for Network Anomaly Detection. Categorizing and defining unified semantics for operational Network Telemetry data.
   - https://datatracker.ietf.org/doc/html/draft-netana-opsawg-nmrg-network-anomaly-semantics
+
+### YANG SIDs — making PYANG fit for YANG SIDs
+- **Champion(s)**
+  - Carsten Bormann (cabo@tzi.org)
+
+- **Project Info**
+  - PYANG can be used for automatically generating the numerical YANG SIDs that are to accompany YANG Modules.
+  - Almost at least.  It cannot fully reproduce the .sid file in https://www.ietf.org/archive/id/draft-ietf-core-sid-23.html yet.
+  - We want to make sure that PYANG can be used as a routine tool for that by IANA and Designated Expert teams.
 
 
 ### MADINAS - Wi-Fi OpenRoaming
