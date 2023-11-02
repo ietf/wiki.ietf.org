@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-01T21:56:08.047Z
+date: 2023-11-02T05:15:55.153Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -274,10 +274,10 @@ Location: Mezzanine Level
 | 14:30-15:00 |                  |       CCO        | 
 | 15:00-15:30 |  Time Schedule   |       CCO        |  
 | 15:30-16:00 |  Time Schedule   |       CCO        |   
-| 16:00-16:30 | ipmon Side Meeting|      CCO        |   
-| 16:30-17:00 | ipmon Side Meeting|FRMCS & Hyperloop - latest developments in railway networks|   
-| 17:00-17:30 | ipmon Side Meeting|FRMCS & Hyperloop - latest developments in railway networks|   
-| 17:30-18:00 | ipmon Side Meeting|FRMCS & Hyperloop - latest developments in railway networks|   
+| 16:00-16:30 | ipmon Side Meeting|      Discussion on IPMON charter and the sharing of IPMON activity after IETF-117        |   
+| 16:30-17:00 | ipmon Side Meeting|Discussion on IPMON charter and the sharing of IPMON activity after IETF-117| 
+| 17:00-17:30 | ipmon Side Meeting|Discussion on IPMON charter and the sharing of IPMON activity after IETF-117| 
+| 17:30-18:00 | ipmon Side Meeting|Discussion on IPMON charter and the sharing of IPMON activity after IETF-117| 
 | 18:00-18:30 | Deepspace IP     | 6gip+            |   
 | 18:30-19:00 | Deepspace IP     | 6gip+            |   
 | 19:00-19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
