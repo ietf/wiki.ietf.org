@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T19:12:26.975Z
+date: 2023-11-02T19:55:58.812Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -864,6 +864,12 @@ An opportunity for participants to engage around the recently released open-sour
      - Receive guidance on how the code can be built into a docker container
     - If hacking, receive support in developing code that incorporates the open-source library or is derived from the example code
     - Influence future activities related to the open-source library such as additional language bindings and support for additional underlying PQC signature schemes
+
+### IP-TFS in Linux (swan support)
+- **Champions**
+Christian Hopps (chopps@chopps.org)
+- **Project Info**
+IP-TFS in Linux is the implementation of IP-TFS in Linux. The code is nearing the point of merging and the netlink API is stable. As such it's time to start extending the swans to support configuring IP-TFS. Plan on adapting existing strongswan code published previously. Participants welcome to help or bring support to other swans (libre).
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
