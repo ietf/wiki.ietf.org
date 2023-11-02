@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T11:43:20.288Z
+date: 2023-11-02T12:33:51.920Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -788,6 +788,28 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - https://datatracker.ietf.org/doc/draft-geng-msr6-rlb-segment/02/
   - https://datatracker.ietf.org/doc/draft-chen-pim-srv6-p2mp-path/
   - https://datatracker.ietf.org/doc/draft-chen-pim-mrh6/
+ 
+### Resumable Uploads for HTTP (RUFH)*
+
+This project is beginner-friendly and we encourage all newcomers (and experienced) 
+visitors to join from the kickoff or at any time during day.
+
+- **Champions**
+  - Marius Kleidl (marius@transloadit.com)
+  - Merlijn Vos (merlijn@transloadit.com)
+  
+- **Project info**
+  - HTTP provides resumable downloads out of the box, but not resumable uploads. To handle unreliable networks, many platforms implement their own proprietary approach for resumable uploads. With RUFH, we attempt to find a standard method for resumable uploads allowing interoperable implementions and widespread use.
+  - We have a hackathon repository for this project with extra context and requirements: https://github.com/tus/ietf-hackathon
+    
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-httpbis-resumable-upload/02/
+
+- **Challenges**
+  - **Resumability polyfill for the Fetch API in browsers**. Creating a [polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill) for the [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) API for resumable uploads in the browser. It could help to find a suitable API for resumable upload in browsers.
+  - **Plugins for popular HTTP proxies for handling resumable uploads**. Plugins for popular HTTP proxies, which handle resumability with buffering. Once the upload is complete, it will forward the upload as a regular HTTP request to your backend.
+  - **CLI program to test if a server conforms to the spec**. Implementing RUFH means re-implementing the same kind of end-to-end tests over and over again. To ensure compatability and interoperability between servers and clients, a tool for checking conformness to the protocol is helpful.
+  - **JavaScript runtime compatibility**. There is a rise in JavaScript runtimes, such as Deno, Bun, Cloudfare Workers, AWS Lambda, and more. These should have minimal differences, but the devil is in the details and we need to know if the current version of RUFH works in most runtimes, particularly on the edge. This would be done with a minimal proof of concept of RUFH in JavaScript with different adapters for runtimes.
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
