@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-11-02T07:37:46.240Z
+date: 2023-11-02T07:39:16.664Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -149,17 +149,18 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-evpn-ac-aware-bundling
 	- RTGDIR review comments provided. Authors haven't replied
   - Action: update in progress
+  - RTGDIR review comment addressed. 
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
 	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress. 
   
 * draft-ietf-bess-extended-evpn-optimized-ir-03 
-  - EXPIRED: Mankamana to send reminder for refresh
 	- RTGDIR review requested, not received
   
 * draft-ietf-bess-rfc7432bis
   - EXPIRED: Mankamana to send reminder for refresh
 	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
+  - Draft being updated as of 11/2 
   
 
 * draft-ietf-bess-bgp-multicast-controller
