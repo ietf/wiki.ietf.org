@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-02T13:58:44.322Z
+date: 2023-11-02T14:01:34.486Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -122,7 +122,7 @@ Please keep the tables sorted by meeting by time.
 | 8:30-9:30   |  Karlin 4    |  IETF sustainability/co2 footprint  |   IETF LLC   |   ghwood@staff.ietf.org   |    update on co2 calculations and sustainabilty efforts      | |          |
 |   9:30-11:00  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 45m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 20m (3) Nalini Elkins, Priyanka Sinha et al, ND6, 25m  |    TBD                   |   TBD       |   | 
 
-| 14:00-15:00 | Karlin 4 | Jumbo frame discussion | TSV | tim.chown@jisc.ac.uk | Discussion of how IETF WGs and protocols might promote wider use of jumbo frames | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
+| 14:00-15:00 | Karlin 4 | Jumbo frame discussion | TSV, INT, OPS | tim.chown@jisc.ac.uk | Discussion of how IETF WGs and protocols might promote wider use of jumbo frames | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 
 | 14:30-16:30  |  Palmovka 1/2  | Collective Communication Optimizations (CCO) |TSV,ART,RTG |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on cases, challenges, requirements and mechanisms to facilitate the collective communication optimizations   | https://ietf.webex.com/meet/ietfsidemeeting2    |   [cco-ietf118-sidemeeting.ics](/cco-ietf118-sidemeeting.ics) |
 
