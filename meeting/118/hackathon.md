@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T12:57:41.531Z
+date: 2023-11-02T12:59:55.636Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -177,7 +177,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - Matthias Frei (matzf at scion.org)
   - Dominik Roos (roos at anapaya.net)
   - Thorben Krüger (thorben.krueger at ovgu.de)
-  
+  - John Studarus		(John.Studarus at martincoit.net)  
 
 - **Project Info**
   - Projects centered on open-source SCION applications
