@@ -2,7 +2,7 @@
 title: IETF 118 Arrival Coordination
 description: 
 published: true
-date: 2023-11-02T17:47:54.479Z
+date: 2023-11-02T19:54:49.313Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:08:33.228Z
@@ -20,9 +20,9 @@ For ease of taxi-sharing or having companions to take the public transport from 
 ## Friday, November 3, 2023
 |  TIME  | FLIGHT |      NAME     |  EMAIL  | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:------:|:------:|:-------------:|:-------:|:-------:|:--------:|:-----------:|:-----:|
+| 9:50 |  LH1392 | Jeffrey Zhang  | zzhang@juniper.net|     PRG   |  2   | IETF meeting venue         | |
 |  17.30 | EW4231 | Thomas Fossati | thomas.fossati@linaro.org | PRG | 2 | IETF meeting venue | - |
 |  13.40 | DL9533 | Rohit Mohan    | rohitmo@cisco.com         | PRG | 2 | IETF meeting venue | - |
-| 13:55 |  LX1486 | Jeffrey Zhang  | zzhang@juniper.net|     PRG   |  2   | IETF meeting venue         | |
 | 13:55 | LX1486 | Donald Eastlake | d3e3e3@gmail.com | PRG | 2 | IETF meetng venue  | |
 
 ## Saturday, November 4, 2023
