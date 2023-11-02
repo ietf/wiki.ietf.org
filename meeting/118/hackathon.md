@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T15:27:49.825Z
+date: 2023-11-02T17:58:53.101Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -860,10 +860,18 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 ```markdown
 ### Your Project
 - **Champions**
-  - Your name and e-Mail
+Joe Harvey (jharvey@verisign.com)
+Andy Fregly (afregly@verisign.com)
 - **Project Info**
-  - Your project description here
-```
+An opportunity for participants to engage around the recently released open-source library for Merkle Tree Ladder Mode (MTL) signatures (https://github.com/verisign/MTL). MTL Mode is described in the recent I-D for CFRG (https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/) as a means for reducing the size impact of PQC algorithms for some use cases, such as DNSSEC.
+ 
+Participation in the project will provide an opportunity to:
+- Learn from two members of the team that developed MTL Mode about how it works and how it might be used
+- Receive guided walkthroughs of the open-source library and example code
+- Receive guidance on how the code can be built into a docker container
+- If hacking, receive support in developing code that incorporates the open-source library or is derived from the example code
+- Influence future activities related to the open-source library such as additional language bindings and support for additional underlying PQC signature schemes
+ ```
  
 ----
 
