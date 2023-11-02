@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T18:07:55.205Z
+date: 2023-11-02T19:12:26.975Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -823,6 +823,7 @@ visitors to join from the kickoff or at any time during day.
 - **Champions**
   - Marius Kleidl (marius@transloadit.com)
   - Merlijn Vos (merlijn@transloadit.com)
+  - Jonathan Flat (jflat@apple.com)
   
 - **Project info**
   - HTTP provides resumable downloads out of the box, but not resumable uploads. To handle unreliable networks, many platforms implement their own proprietary approach for resumable uploads. With RUFH, we attempt to find a standard method for resumable uploads allowing interoperable implementions and widespread use.
