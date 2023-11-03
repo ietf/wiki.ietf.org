@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T05:37:54.135Z
+date: 2023-11-03T05:38:44.421Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -178,7 +178,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project Info**
   - its a plugfest, so its normal that we have different targets....
   - freertr.org interested in https://datatracker.ietf.org/doc/html/draft-ietf-bier-pim-signaling-12 , here is a pre-recorded demo https://files.fm/f/2eanhgkmx 
-  - juniper.net interested in mvpn-next services
+  - juniper.net interested in mvpn-next services but i let them do their homework... :)
   - the plugfests goal is packet transport over isis and/or ospf in the simplest topologies possible...
 
 ### SCION open source applications
