@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-10-31T07:37:37.541Z
+date: 2023-11-03T06:21:44.566Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -24,8 +24,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-
-draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
+|draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
 
 ## WG Adoption Call Queue
 
@@ -103,7 +102,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Waiting for authors to handle the shepherd review| IPR - 4/4 | Dhruv |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | WGLC Ended |IPR check done | Andrew |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | WGLC Ended - new editorial update pending |IPR check done | Andrew |
 
 ## Drafts with the IESG
 
