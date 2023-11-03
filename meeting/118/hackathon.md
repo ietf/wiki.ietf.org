@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T19:14:58.089Z
+date: 2023-11-03T22:28:20.946Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -937,6 +937,15 @@ We will be working on the py-vcon server.
 [vCon tentative charter](https://github.com/dgpetrie/draft-petrie-vcon/blob/main/vcon_charter.md)
 [vCon ID](https://github.com/dgpetrie/draft-petrie-vcon)
 
+### RIFT Interop
+
+- **Champions**
+
+Tony Przygienda prz@juniper.net
+
+We will have multiple implementations of RIFT from open source and vendors and interop those. 
+
+Workplan will be mashed up on first day dependig on who shows up with what gear.
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
