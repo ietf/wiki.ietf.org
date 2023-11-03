@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T14:10:41.479Z
+date: 2023-11-03T16:24:32.486Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -209,6 +209,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       need for a SCION-IP Gateway as an intermediary. Building on our
       existing QUIC-over-SCION support, this prototype aims to connect
       hosts seamlessly. We can draw inspiration from [quincy](https://github.com/M0dEx/quincy) for this prototype.
+      [project description](https://docs.google.com/document/d/1s-BEBSfJU7Dmrz04fo6bEIH5mSLNOc_pdcJ9Rel9pts/edit?usp=sharing)
     - **Connect over SCION**
       Enable [Connect](https://connectrpc.com/), an HTTP-based RPC
       framework, to operate over SCION. Unlike gRPC, [connect-go](https://github.com/connectrpc/connect-go)
