@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T13:25:38.486Z
+date: 2023-11-03T13:30:49.234Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -196,6 +196,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       for extensive code modifications on existing applications.
       Foundations have been established in [Caddy](https://github.com/caddyserver/caddy/pull/5573),
       simplifying integration with custom SCION-based networks.
+      [project description](https://docs.google.com/document/d/1JqtMajvV_ioeG1l73nU98xKR3-yXEY1635BpECjMNz0/edit?usp=sharing)
     - **Integrating SVC resolution in QUIC handshake**
       Optimize the SCION control plane RPCs by integrating the SVC
       resolution into the QUIC handshake. This will reduce the number
