@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T18:56:42.807Z
+date: 2023-11-03T19:14:58.089Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -932,8 +932,10 @@ Dan Petrie dan.ietf@sipez.com
 
 - **Project Info**
 
+We will be working on the py-vcon server.
+
 [vCon tentative charter](https://github.com/dgpetrie/draft-petrie-vcon/blob/main/vcon_charter.md)
-[vCon ID]()
+[vCon ID](https://github.com/dgpetrie/draft-petrie-vcon)
 
 
 
