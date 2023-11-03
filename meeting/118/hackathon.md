@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T18:31:00.463Z
+date: 2023-11-03T18:56:42.807Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -925,6 +925,16 @@ Let's try to figure out if anything can be done in this area. For instance a dae
   - For this hackathon, we will review the code for DelTiC, and see if we can use Antler to test a multipath routing topology change.
 - **Documents**
   - [draft-morton-tsvwg-sce](https://www.ietf.org/archive/id/draft-morton-tsvwg-sce-04.html)
+
+### vCon
+- **Champions**
+Dan Petrie dan.ietf@sipez.com
+
+- **Project Info**
+
+[vCon tentative charter](https://github.com/dgpetrie/draft-petrie-vcon/blob/main/vcon_charter.md)
+[vCon ID]()
+
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
