@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T13:30:49.234Z
+date: 2023-11-03T14:01:37.800Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -202,6 +202,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
       resolution into the QUIC handshake. This will reduce the number
       of round trips required for the RPCs. Our [open proposal](https://github.com/scionproto/scion/issues/4388) aims to
       eliminate this round trip, simplifying the entire exchange process.
+      [project description](https://docs.google.com/document/d/1BSLxmSVJO0u8BTQGApp8w3f-pu9ZZHFDx8q_jsgDDnQ/edit?usp=sharing)
     - **QUIC-Based VPN over SCION**
       Prototype a VPN solution over SCION utilizing QUIC, eliminating the
       need for a SCION-IP Gateway as an intermediary. Building on our
