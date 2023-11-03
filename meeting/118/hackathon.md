@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T22:28:20.946Z
+date: 2023-11-03T22:29:34.325Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -943,7 +943,7 @@ We will be working on the py-vcon server.
 
 Tony Przygienda prz@juniper.net
 
-We will have multiple implementations of RIFT from open source and vendors and interop those. 
+We will have multiple implementations of [RIFT](https://datatracker.ietf.org/doc/draft-ietf-rift-rift/) from open source and vendors and interop those. 
 
 Workplan will be mashed up on first day dependig on who shows up with what gear.
 
