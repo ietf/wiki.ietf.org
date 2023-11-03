@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T14:09:40.853Z
+date: 2023-11-03T14:10:41.479Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -173,8 +173,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ### BIER plugfest
 - **Champion(s)**
-  - mc36 (remote) freertr.org with a programmable asic up to 12tbps in pizzabox and providing images / pdfs also... :)
-  - Simon Leinen (on-site) swit.ch with a laptop helping the collaboration, manage / present the results / achievements.... :)
+  - mc36 (remote) freertr.org with a programmable asic up to 12tbps in pizzabox and providing images / pdfs also...
+  - Simon Leinen (on-site) swit.ch with a laptop helping the collaboration, manage / present the results / advocate achievements, etc...
   - Jeffrey Zhaohui Zhang (on-site) juniper.net with a Ubuntu laptop running virtual routers
 - **Project Info**
   - its a plugfest, so its normal that we have different targets....
