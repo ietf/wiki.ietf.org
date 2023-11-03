@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T08:12:58.419Z
+date: 2023-11-03T13:25:38.486Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -174,12 +174,11 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ### BIER plugfest
 - **Champion(s)**
   - mc36 (remote) freertr.org with a programmable asic up to 12tbps in pizzabox
-  - Jeffrey Zhaohui Zhang (on-site) juniper.net with a ptx10k up to 28tbps in a pizzaboz
+  - Jeffrey Zhaohui Zhang (on-site) juniper.net with a Ubuntu laptop running virtual routers
 - **Project Info**
   - its a plugfest, so its normal that we have different targets....
   - freertr.org interested in https://datatracker.ietf.org/doc/html/draft-ietf-bier-pim-signaling-12 , here is a pre-recorded demo https://files.fm/f/2eanhgkmx 
-  - juniper.net interested in mvpn-next services but i let them do their homework... :)
-  - the plugfest's goal is packet transport over isis and/or ospf in the simplest topologies possible...
+  - The goal is informal interop testing with BGP-MVPN overlay, ISIS signaling, and BIER forwarding with MPLS encapsulation
 
 ### SCION open source applications
 - **Champion(s)**
