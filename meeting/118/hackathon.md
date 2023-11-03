@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T05:39:08.607Z
+date: 2023-11-03T08:12:58.419Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -899,6 +899,18 @@ Let's try to figure out if anything can be done in this area. For instance a dae
   - [RFC 6877](https://www.rfc-editor.org/rfc/rfc6877.html): 464XLAT: Combination of Stateful and Stateless Translation
   - [RFC 8925](https://www.rfc-editor.org/rfc/rfc8925.html): IPv6-Only Preferred Option for DHCPv4
   - [RFC 8781](https://www.rfc-editor.org/rfc/rfc8781.html): Discovering PREF64 in Router Advertisements
+  
+### Additional Addresses for QUIC
+- **Champion(s)**
+  - Maxime Piraux (maxime.piraux@uclouvain.be)
+  - François Michel (francois.michel@uclouvain.be)
+- **Project Info**
+  - The QUIC protocol specifies two techniques for network path migration: Client Migration and Server Preferred Address. The first enables the client to use another local address while the other indicates a server preferred address to be used shortly after the handshake. However, the server cannot advertise additional addresses that a client may use. We proposed an extension consisting of a frame indicating the server's additional addresses in the I-D [draft-piraux-quic-additional-addresses](https://datatracker.ietf.org/doc/draft-piraux-quic-additional-addresses/).
+  - During the hackathon, we will implement the specified extension in open-source QUIC implementations and perform interop testing. We're aiming at testing both QUIC and MPQUIC.
+  - Coordination will happen on channel #additional-addresses of the quicdev Slack.
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-piraux-quic-additional-addresses/
+    
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
