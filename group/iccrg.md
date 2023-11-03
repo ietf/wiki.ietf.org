@@ -2,7 +2,7 @@
 title: Internet Congestion Control
 description: This is the Wiki for the IRTF ICC Research Group (ICCRG).
 published: true
-date: 2023-03-14T09:55:32.448Z
+date: 2023-11-03T01:30:10.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T09:46:42.963Z
@@ -17,7 +17,7 @@ Your content here
 
 
 ## Contact ICCRG chairs
-Jana Iyengar, Michael Schapira, Simone Ferlin
+Simone Ferlin, Vidhi Goel, Reese Enghardt
 
 
 ## ICCRG Documents and Presentation Materials
