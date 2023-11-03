@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-02T22:51:46.955Z
+date: 2023-11-03T05:32:33.245Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -170,6 +170,11 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+
+### BIER plugfest
+- **Champion(s)**
+  - mc36 (remote) freertr.org with a programmable asic up to 12tbps in pizzabox
+  - Jeffrey Zhaohui Zhang (on-site) juniper.net with a ptx10k up to 28tbps in a pizzaboz
 
 ### SCION open source applications
 - **Champion(s)**
