@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T16:24:32.486Z
+date: 2023-11-03T18:31:00.463Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -914,6 +914,18 @@ Let's try to figure out if anything can be done in this area. For instance a dae
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-piraux-quic-additional-addresses/
     
+### Testing SCE and the DelTiC AQM with Antler
+- **Champion(s)**
+  - Pete Heist (pete@heistp.net)
+  - Rodney Grimes (rgrimes@freebsd.org)
+- **Project Info**
+  - Some Congestion Experienced is an experimental high-fidelity congestion control protocol that provides fine-grained congestion signaling for transports to increase utilization and decrease latency.
+  - [DelTiC](https://github.com/chromi/sce/blob/sce/net/sched/sch_deltic.c) is a fully time-domain AQM based on a delta-sigma control loop and a numerically-controlled oscillator.  Delta-sigma means a PID controller lacking a Proportional term, with the D term accumulated into the I term.
+  - [Antler](https://github.com/heistp/antler/) is a congestion control testing tool currently in development.
+  - For this hackathon, we will review the code for DelTiC, and see if we can use Antler to test a multipath routing topology change.
+- **Documents**
+  - [draft-morton-tsvwg-sce](https://www.ietf.org/archive/id/draft-morton-tsvwg-sce-04.html)
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 ---
