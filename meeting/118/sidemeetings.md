@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-02T18:27:52.606Z
+date: 2023-11-03T01:58:34.049Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -103,7 +103,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|TBD|TBD|
+| 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|Discuss the progress, next step, and future directions|https://ietf.webex.com/meet/sidemeetingietf1 |
 | 09:30-11:00 | Palmovka1/2 |Openconfig/YANG workshop|OPS/MGMT|daniel.voyer@bell.ca, Nils.Warnke@telekom.de|TBD|TBD|
 | 10:00-11:00 | Karlin 4 | WimSE: Workload Authz | ART |yaronf.ietf@gmail.com|TBD|TBD|
 | 14:00-15:30 |  Palmovka1/2 |   AI4NETWORK |  RTG, OPS | d.king@lancaster.ac.uk, Lancaster University,  chengweiqiang@chinamobile.com, China Mobile| This side meeting brings together some AI topics for the Network (AI4NETWORK). The agenda can be found at: https://github.com/danielkinguk/ai4network |  [Webex](https://ietf.webex.com/meet/ietfsidemeeting2) | TBD |
