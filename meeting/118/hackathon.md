@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T09:29:19.708Z
+date: 2023-11-04T09:40:55.479Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -791,6 +791,7 @@ Instant access to this network is possible with a PC and a mobile phone with Ger
   - Esther Roure <erourevi@cisco.com>
   - Emile Stephan <emile.stephan@orange.com>
   - Ajit Thyagarajan <ajthyaga@cisco.com>
+  - Vesna Manojlovic <BECHA@ripe.net> 
 
 - **Project Info** 
 	- Our group is working on “Sustainability Insights", philatelist, label-tsdb and POWEFF drafts.
