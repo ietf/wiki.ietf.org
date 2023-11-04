@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon Lost and Found
 description: 
 published: true
-date: 2023-11-03T16:20:33.577Z
+date: 2023-11-04T09:54:10.567Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T21:21:56.063Z
@@ -23,7 +23,7 @@ Champions wanting help on their projects are encouraged to add themselves to the
 ## Skills to Offer
 | Name| Email Address| Skills and/or interests you have to offer |
 |---|---|---|
-|   |   |   |
+| Aidan Welch | aidan@freedwave.com | WebM, M3U8(streaming), WS, HTTP |
 |   |   |   |
 |   |   |   |
 |   |   |   |
