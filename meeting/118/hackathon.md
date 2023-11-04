@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T07:01:05.162Z
+date: 2023-11-04T08:27:58.230Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -955,6 +955,14 @@ Continue to improve the t_cose implementation of COSE encryption. Hoping to
 complete more testing and support of non-aead ciphers (Thanks Ken!)
 
 https://github.com/laurencelundblade/t_cose/tree/dev
+
+### ASDF SDF
+- **Champions**
+Ari Keränen <ari.keranen@ericsson.com>
+Carsten Bormann <cabo@tzi.org> 
+- **Project Info**
+Progressing the implementations of the Semantic Definition Format (SDF) and pressure testing the CDDL grammar. 
+
 
 
  ```
