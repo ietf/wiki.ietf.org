@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T09:14:21.942Z
+date: 2023-11-04T09:29:19.708Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -180,6 +180,26 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - its a plugfest, so its normal that we have different targets....
   - freertr.org interested in https://datatracker.ietf.org/doc/html/draft-ietf-bier-pim-signaling-12 , here is a pre-recorded demo https://files.fm/f/2eanhgkmx 
   - The goal is informal interop testing with BGP-MVPN overlay, ISIS signaling, and BIER forwarding with MPLS encapsulation
+
+### RIFT plugfest
+- **Champion(s)**
+  - AntoniPrzygienda (prz@juniper.net)
+  - Jordan Head (jhead@juniper.net)
+  - Sandy Zhang (zhang.zheng@zte.com.cn)
+  - Benchong Xu (xu.benchong@zte.com.cn)
+  - Yuehua Wei (wei.yuehua@zte.com.cn)
+
+- **Project Info**
+  - It's a plugfest, The goal is informal interop testing with rift base specification, including:
+  	- Bring up adjacency with fixed level config
+  	- Bring up adjacencies with ZTP
+  	- Exchange TIEs
+  	- Verify routing tables
+
+- **Draft Specifications** 
+  - [RIFT: Routing in Fat Trees](https://datatracker.ietf.org/doc/draft-ietf-rift-rift/)
+  - [RIFT Applicability](https://datatracker.ietf.org/doc/draft-ietf-rift-rift/)
+  - [YANG Data Model for Routing in Fat Trees (RIFT)](https://datatracker.ietf.org/doc/draft-ietf-rift-yang/)
 
 ### SCION open source applications
 - **Champion(s)**
