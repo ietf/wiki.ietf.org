@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T11:07:31.682Z
+date: 2023-11-04T16:04:42.004Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -991,6 +991,17 @@ https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-16.html
 https://github.com/one-data-model/tools
 https://github.com/EricssonResearch/ipso-odm
 
+### Careful Resume - Speeding-up QUIC Start-up
+- **Champions**
+Ana Custura <ana@erg.abdn.ac.uk>
+Gorry Fairhurst <gorry@erg.abdn.ac.uk> 
+Joerg Deutschmann <joerg.deutschmann@fau.de>
+- **Project Info**
+Implementing a Careful Resume server and testing with new clients; Adding QLOG support.  
+- **Documents**
+https://www.ietf.org/archive/id/draft-ietf-tsvwg-careful-resume-04
+- **Implementations**
+https://github.com/ana-cc/quiche
 
 ---
 
