@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-03T22:29:34.325Z
+date: 2023-11-04T07:01:05.162Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -946,6 +946,18 @@ Tony Przygienda prz@juniper.net
 We will have multiple implementations of [RIFT](https://datatracker.ietf.org/doc/draft-ietf-rift-rift/) from open source and vendors and interop those. 
 
 Workplan will be mashed up on first day dependig on who shows up with what gear.
+
+### COSE encryption implemenation -- t_cose
+- **Champions**
+Laurence Lundblade lgl@island-resort.com
+- **Project Info**
+Continue to improve the t_cose implementation of COSE encryption. Hoping to 
+complete more testing and support of non-aead ciphers (Thanks Ken!)
+
+https://github.com/laurencelundblade/t_cose/tree/dev
+
+
+ ```
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
