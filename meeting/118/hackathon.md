@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T09:11:39.892Z
+date: 2023-11-04T09:14:21.942Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -962,8 +962,11 @@ Ari Keränen <ari.keranen@ericsson.com>
 Carsten Bormann <cabo@tzi.org> 
 - **Project Info**
 Progressing the implementations of the Semantic Definition Format (SDF) and pressure testing the CDDL grammar. 
-
-
+- **Documents**
+https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-16.html
+- **Implementations**
+https://github.com/one-data-model/tools
+https://github.com/EricssonResearch/ipso-odm
 
 
 ---
