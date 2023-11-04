@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T09:40:55.479Z
+date: 2023-11-04T09:54:17.382Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -918,6 +918,7 @@ Let's try to figure out if anything can be done in this area. For instance a dae
   - [tundra](https://github.com/vitlabuda/tundra-nat64) - a user-space NAT64 translator
   - [ndisc6](https://git.remlab.net/gitweb/?p=ndisc6.git;a=summary) - userspace Neighbor Discovery tools, including `rdnssd`
   - [systemd-networkd 464XLAT issue](https://github.com/systemd/systemd/issues/23674)
+  - [PREF64 RA deamon](https://gist.github.com/zajdee/8424ce31bc6addae2316ecba64c2960d) 
   
 - **Relevant documents**
   - [RFC 6877](https://www.rfc-editor.org/rfc/rfc6877.html): 464XLAT: Combination of Stateful and Stateless Translation
