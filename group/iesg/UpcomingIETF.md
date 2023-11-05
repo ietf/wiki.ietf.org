@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-05T08:22:49.962Z
+date: 2023-11-05T11:41:39.209Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -108,8 +108,8 @@ See [IAB Meeting Week Agenda](https://www.iab.org/wiki/index.php/Agenda118)
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1002
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1002
 
-> 1. draft-ietf-core-sid (Francesca, 30 min)
 > 1. About the ISE (Eliot, 30 min)
+> 1. draft-ietf-core-sid (Francesca, 30 min)
 
 
 ## Tuesday, November 7, 2023
