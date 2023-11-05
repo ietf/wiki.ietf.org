@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-05T17:16:28.118Z
+date: 2023-11-05T17:19:01.330Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -92,7 +92,7 @@ Please keep the tables sorted by meeting by time.
 |  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |    16:30-18:00      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
 |    18:00-18:30      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org)| https://ietf.webex.com/meet/sidemeetingietf1 | TBD|
-|    18:30-20:00      |    Karlin 4           |    Path Validation   |    SEC, OPS, RTG          |     Chunchi Liu/ Meiling Chen/ Diego Lopez/ Nicola Rustignoli  | Path Validation use case, problem statement and gap analysis discussion. | https://ietf.webex.com/meet/sidemeetingietf1  | [path_validation_side_meeting.ics](/path_validation_side_meeting.ics)|
+|    18:30-20:00      |    Karlin 4           |    Path Validation   |    SEC, OPS, RTG          |     Chunchi Liu/ Meiling Chen/ Diego Lopez/ Nicola Rustignoli  | Path Validation use case, problem statement and gap analysis discussion. [Link to agenda and materials at Github](https://github.com/liuchunchi/path_validation_side_meeting_118) | https://ietf.webex.com/meet/sidemeetingietf1  | [path_validation_side_meeting.ics](/path_validation_side_meeting.ics)|
 |    17:00-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |  https://ietf.webex.com/meet/ietfsidemeeting2                     |     [118-aidc_side_meeting.ics](/118-aidc_side_meeting_new.ics)     |
 | 19:00-20:00         |    Palmovka 1/2       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82164205604?pwd=YnZCZ1BxWWw3VjdBSzJtVmhid1hxZz09&from=addon), Meeting ID: 821 6420 5604, Passcode: 993243 |          |
 |          |          |                  |          |             |                         |                       |          |
