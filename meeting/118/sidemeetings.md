@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-05T17:19:01.330Z
+date: 2023-11-05T18:07:12.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -165,9 +165,9 @@ Location: Mezzanine Level
 | 08:00-08:30 |                  |   **NOT AVAILABLE**  |   
 | 08:30-09:00 | Sustainability Insights  |   **NOT AVAILABLE**  |   
 | 09:00-09:30 | Sustainability Insights  |   **NOT AVAILABLE**  |   
-| 09:30-10:00 |                  |                  |   
-| 10:00-10:30 |                  |                  |   
-| 10:30-11:00 |                  |                  |   
+| 09:30-10:00 |                  |  Testing - Secretariat   |   
+| 10:00-10:30 |                  |  Testing - Secretariat   |   
+| 10:30-11:00 |                  |  Testing - Secretariat   |   
 | 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
