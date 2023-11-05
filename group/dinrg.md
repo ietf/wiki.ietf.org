@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2023-11-05T18:44:40.248Z
+date: 2023-11-05T18:47:08.932Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -30,8 +30,12 @@ The Decentralization of the Internet Research Group (DINRG) aims to provide for 
 https://datatracker.ietf.org/doc/draft-mcfadden-consolidation-taxonomy/
 
 ### Obvservations and Measurements
-* Christian Huitema, Geoff Huston, Dirk Kutscher, and Lixia Zhang. 2023. Report of 2021 DINRG Workshop on Centralization in the Internet. SIGCOMM Comput. Commun. Rev. 53, 2 (April 2023), 31–39. https://doi.org/10.1145/3610381.3610386
-* Leonhard Balduf, Maciej Korczyński, Onur Ascigil, Navin V. Keizer, George Pavlou, Björn Scheuermann, and Michał Król. 2023. The Cloud Strikes Back: Investigating the Decentralization of IPFS. In Proceedings of the 2023 ACM on Internet Measurement Conference (IMC '23). Association for Computing Machinery, New York, NY, USA, 391–405. https://doi.org/10.1145/3618257.3624797
+* Christian Huitema, Geoff Huston, Dirk Kutscher, and Lixia Zhang.
+"Report of 2021 DINRG Workshop on Centralization in the Internet"
+ACM Computer Communication Review 53, 2 (April 2023), 31–39. https://doi.org/10.1145/3610381.3610386
+
+* Leonhard Balduf, Maciej Korczyński, Onur Ascigil, Navin V. Keizer, George Pavlou, Björn Scheuermann, and Michał Król
+"The Cloud Strikes Back: Investigating the Decentralization of IPFS" In Proceedings of 2023 ACM on Internet Measurement Conference (IMC '23). Association for Computing Machinery, New York, NY, USA, 391–405. https://doi.org/10.1145/3618257.3624797
 
 
 ### New Designs and Technology
