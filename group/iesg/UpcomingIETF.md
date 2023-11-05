@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-02T17:38:21.318Z
+date: 2023-11-05T08:18:43.837Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -92,6 +92,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >    - INT
 >    - IAB
 >    - TSV
+> 1. ITU-T liaison statements (Andrew, 15 min)
 > 1. Report on Experience of Women in the IETF - Analysis and Next Steps (Jay/Mirja, 20 min)
 > 1. Update on IETF web site revamp (Jay/Greg, 10 min)
 
