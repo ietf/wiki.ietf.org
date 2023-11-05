@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-05T12:25:19.189Z
+date: 2023-11-05T13:29:36.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -91,7 +91,7 @@ Please keep the tables sorted by meeting by time.
 |  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
 |  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
 |    16:30-18:00      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Multi-Layer Incident Management Use Case Discussion| TBD | TBD|
-|    18:00-18:30      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org)| TBD | TBD|
+|    18:00-18:30      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org)| https://ietf.webex.com/meet/sidemeetingietf1 | TBD|
 |    18:30-20:00      |    Karlin 4           |    Path Validation   |    SEC, OPS, RTG          |     Chunchi Liu/ Meiling Chen/ Diego Lopez/ Nicola Rustignoli  | Path Validation use case, problem statement and gap analysis discussion. | https://ietf.webex.com/meet/sidemeetingietf1  | [path_validation_side_meeting.ics](/path_validation_side_meeting.ics)|
 |    17:00-19:00      |    Palmovka 1/2       |      AIDC            |    RTG      |       Yingzhen Qu/Jeff Tantsura      |  a continuation of the AIDC discussion                        |  https://ietf.webex.com/meet/ietfsidemeeting2                     |     [118-aidc_side_meeting.ics](/118-aidc_side_meeting.ics)     |
 | 19:00-20:00         |    Palmovka 1/2       |     ECH Deployment Considerations             |      N/A    | [Arnaud Taddei](mailto:Arnaud.Taddei@Broadcom.com) and  [Andrew Campling](mailto:Andrew.Campling@419.Consulting) | Discuss ECH development and next steps | [Zoom Link](https://us02web.zoom.us/j/82164205604?pwd=YnZCZ1BxWWw3VjdBSzJtVmhid1hxZz09&from=addon), Meeting ID: 821 6420 5604, Passcode: 993243 |          |
@@ -125,7 +125,7 @@ Please keep the tables sorted by meeting by time.
 |    15:00- 16:00      |    Karlin 4           |  Time Schedule |    OPS              | bill.wu@huawei.com; yingzhen.qu@futurewei.com; luismiguel.contrerasmurillo@telefonica.com                |  Common Time Schedule for various different network management use cases | TBD | TBD |
 |    16:00- 18:00      |    Karlin 4           | IPMON BoF Preparation |  INT  | pauljeong@skku.edu; chrisshen@skku.edu; pjs@etri.re.kr; |  Discussion on IPMON charter and the sharing of IPMON activity after IETF-117 | https://us02web.zoom.us/j/82656058380?pwd=Z016RjBxWW4zZGNWVU05V2xwQm5GZz09 | TBD |
 |    16:30-18:00     |    Palmovka 1/2    |    FRMCS & Hyperloop - latest developments in railway networks |    OPS   |    xipengxiao@gmail.com  | (1)Paolo Volpato, intro to railway networks and FRMCS (Future Railways Mobile Communication Systems), 20m; (2) Lorenzo Benedetti, EuroTube and its network requirements, 40m; (3) Open discussion & social for people interested in railway networking| TBD | TBD|
-|    18:00-19:00      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org)| TBD | TBD|
+|    18:00-19:00      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org)| https://ietf.webex.com/meet/sidemeetingietf1 | TBD|
 |18:00-19:00  |Palmovka 1/2  | Open Discussion on IETF alternatives for 6G | ?  | d.lake@surrey.ac.uk | Presentations on the current issues with 3GPP architectures and solutions when seen from an IETF viewpoint followed by an open discussion to identify what an IETF-centric architecture would look like. Chaired by David Lake |  https://ietf.webex.com/meet/ietfsidemeeting2 |
 |19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite provided by Roland Schott (roland.schott@telecom.de). | https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFiMzBiYWQtMjYxNy00MGY0LWI3YjQtZDQ2Y2JjZDc3YzQy%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d | use the Teams link |
 {.dense}
