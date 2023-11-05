@@ -2,7 +2,7 @@
 title: IETF 118 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-11-05T14:30:50.632Z
+date: 2023-11-05T15:41:29.370Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T20:56:22.040Z
@@ -28,4 +28,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |Dynamic Network Routing | Li Zhang, Jie Dong, Tianran Zhou, Qiangzhou Gao, Zhenbin Li | <zhangli344@huawei.com>, <jie.dong@huawei.com>, <zhoutianran@huawei.com>, <gaoqiangzhou@huawei.com>,  <lizhenbin@huawei.com>  | https://github.com/Satellite-Routing/IETF118-hackathon  |
 | Attested CSRs | Hannes Tschofenig, Thomas Fossati | thomas.fossati@linaro.org, hannes.tschofenig@siemens.com | https://github.com/IETF-Hackathon/ietf118-project-presentations/blob/main/CSR-Attestation.pdf |
 | SCION  | Nicola Rustignoli, Matthias Frei  |  <nic@scion.org> , <matzf@scion.org> |  https://github.com/scionproto/scion/tree/connectrpc https://github.com/scionproto/scion/pull/4435 |
+| NTS & Roughtime  | Christer Weinigel  |  <christer@weinigel.se> | https://www.netnod.se/nts/ https://vadarklockan.readthedocs.io/ |
 
