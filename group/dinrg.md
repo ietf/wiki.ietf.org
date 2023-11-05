@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2023-11-05T13:18:28.980Z
+date: 2023-11-05T17:29:38.735Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -22,9 +22,6 @@ The Decentralization of the Internet Research Group (DINRG) aims to provide for 
      *   Dirk Kutscher
      *   Lixia Zhang 
 
-## Relevant RFCs and Internet Drafts
-
-* Mark Mc Fadden (Ed.); A Taxonomy of Internet Consolidation; https://datatracker.ietf.org/doc/draft-mcfadden-consolidation-taxonomy/
 
 ## Research Resources
 
