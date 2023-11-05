@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-05T12:21:55.943Z
+date: 2023-11-05T12:23:06.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -119,7 +119,6 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
-
 |   9:30-11:00  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 45m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 20m (3) Nalini Elkins, Priyanka Sinha et al, ND6, 25m  |    TBD                   |   TBD       | 
 | 14:00-15:00 | Karlin 4 | Jumbo frame discussion | TSV, INT, OPS | tim.chown@jisc.ac.uk | Discussion of how IETF WGs and protocols might enable and promote wider use of jumbo frames, e.g., MTU 9000 | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 14:30-16:30  |  Palmovka 1/2  | Collective Communication Optimizations (CCO) |TSV,ART,RTG |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on cases, challenges, requirements and mechanisms to facilitate the collective communication optimizations https://github.com/CCO-IETF/ietf118-side-meeting  | https://ietf.webex.com/meet/ietfsidemeeting2    |   [cco-ietf118-sidemeeting.ics](/cco-ietf118-sidemeeting.ics) |
