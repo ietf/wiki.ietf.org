@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-05T20:21:08.128Z
+date: 2023-11-05T21:08:46.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -85,7 +85,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|      8:30-9:30    |  Karlin 4         |  Non-Routing information distribution|   RTG   |   gaoqiangzhou@huawei.com      |    Non-Routing information distribution                   |          |
+|      8:30-9:30    |  Karlin 4         |  Non-Routing information distribution|   RTG   |   gaoqiangzhou@huawei.com      |    Non-Routing information distribution                   |https://ietf.webex.com/meet/sidemeetingietf1|
 |  10:00-11:00 | Palmovka 1/2 | SADCDN | TSV | Matt Joras | SADCDN | TBD | TBD |
 |  15:00-16:30        |    Karlin 4      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com, giuseppe.fioccola@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) | TBD |
 |  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
