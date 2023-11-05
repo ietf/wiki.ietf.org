@@ -2,7 +2,7 @@
 title: IETF 118 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-11-01T23:07:35.716Z
+date: 2023-11-05T12:20:01.598Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T20:56:22.040Z
@@ -22,7 +22,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |ILNP| Saleem Bhatti  | saleem@st-andrews.ac.uk | <https://ilnp.cs.st-andrews.ac.uk> |
 |PQ Encrypted Client Hello|Georgios Tasopoulos, Evangelos Haleplidis, Apostolos Fournaris|g.tasop@isi.gr haleplidis@isi.gr fournaris@isi.gr|https://github.com/IETF-Hackathon/pq-ech|
 | PQC in X.509  | John Gray, Corey Bonnell, Mike Ounsworth, Tomofumi Okubo  | john.gray@entrust.com  | https://github.com/IETF-Hackathon/pqc-certificates  |
-|   |   |   |   |
+| Sustainability Insights  | Jan Lindblad, Per Anderson, Snezana Mitrovic, Marisol Palmero, Esther Roure, Ajit Thyagarajan, Vesna Manojlovic   |  <jlindbla@cisco.com>, <panderso@cisco.com>, <smitrovi@cisco.com>, <mpalmeroo@cisco.com>, <erourevi@cisco.com>, <ajthyaga@cisco.com>, <BECHA@ripe.net> |  https://github.com/cisco-open/green-monitoring/tree/main |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
