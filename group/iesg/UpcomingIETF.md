@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-05T15:10:12.076Z
+date: 2023-11-05T21:43:37.522Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -168,8 +168,10 @@ note: Not available before 09:00 Sunday
 
 ## Monday, 6 November 2023
 
+* 09:30 - 10:00: NMOP Charter Discussion (Rob)
 * 11:30 - 12:15: SEC AD Office Hours
 * 12:15 - 12:55: INT AD discussion with DRIP WG & IANA
+* 15:00 - 15:30: IEEE CBOR SID Mega Block allocation (Rob, Francesca)
 * 17:15 - 18:30: INT AD Office Hours
 * TIME - ACTIVITY
 
