@@ -2,13 +2,13 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-05T13:59:13.601Z
+date: 2023-11-05T14:30:52.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
 ---
 
-# Side Meetings at IETF 118
+- # Side Meetings at IETF 118
 
 IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support and a WebEx meeting room for remote participants. That said, **side meetings are not part of the official IETF meeting agenda, are not approved or even reviewed by the IESG, and have no formal standing.**
 
@@ -166,8 +166,9 @@ Location: Mezzanine Level
 | 08:30-09:00 | Sustainability Insights  |   **NOT AVAILABLE**  |   
 | 09:00-09:30 | Sustainability Insights  |   **NOT AVAILABLE**  |   
 | 09:30-10:00 |                  |                  |   
-| 10:00-10:30 |                  |    SADCDN        |   
-| 10:30-11:00 |                  |    SADCDN        |   
+| 10:00-10:30 |                  |                  |   
+
+| 10:30-11:00 |                  |                  |   
 | 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
@@ -197,17 +198,18 @@ Location: Mezzanine Level
 | 08:00-08:30 |                  |   **NOT AVAILABLE**  |   
 | 08:30-09:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
 | 09:00-09:30 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
-| 09:30-10:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |   
-| 10:00-10:30 |                  |                  |   
-| 10:30-11:00 |                  |                  |   
+| 09:30-10:00 |Non-Routing information distribution                  |   **NOT AVAILABLE**  |
+| 10:00-10:30 |                  |    SADCDN        |   
+| 10:30-11:00 |                  |    SADCDN        |   
+
 | 11:00-11:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 11:30-12:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 12:00-12:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
 | 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00-14:30 |                  |   SADCDN         |  
-| 14:30-15:00 |                  |   SADCDN         | 
+| 14:00-14:30 |                  |            |  
+| 14:30-15:00 |                  |            | 
 | 15:00-15:30 | Metaverse        | YANG/Kafka and Digital Map |  
 | 15:30-16:00 | Metaverse        | YANG/Kafka and Digital Map |
 | 16:00-16:30 | Metaverse        | YANG/Kafka and Digital Map |
