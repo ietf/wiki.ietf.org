@@ -2,7 +2,7 @@
 title: IETF 118 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-11-05T14:27:53.607Z
+date: 2023-11-05T14:29:38.591Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T20:56:22.040Z
@@ -27,4 +27,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | IPv6 Mobile Object Networking (IPMON) | Jaehoon (Paul) Jeong, Bien Aime Mugabarigira | pauljeong@skku.edu, bienaime@skku.edu | https://github.com/ipwave-hackathon-ietf/IETF-118-IPMON-Hackathon-Project |
 |Dynamic Network Routing | Li Zhang, Jie Dong, Tianran Zhou, Qiangzhou Gao, Zhenbin Li | <zhangli344@huawei.com>, <jie.dong@huawei.com>, <zhoutianran@huawei.com>, <gaoqiangzhou@huawei.com>,  <lizhenbin@huawei.com>  | https://github.com/Satellite-Routing/IETF118-hackathon  |
 | Attested CSRs | Hannes Tschofenig, Thomas Fossati | thomas.fossati@linaro.org, hannes.tschofenig@siemens.com | - |
+| SCION  | Nicola Rustignoli, Matthias Frei  |  <nic@scion.org> , <matzf@scion.org> |  https://github.com/scionproto/scion/tree/connectrpc https://github.com/scionproto/scion/pull/4435 |
 
