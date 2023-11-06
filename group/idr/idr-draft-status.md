@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-10-23T02:36:05.297Z
+date: 2023-11-06T23:37:53.258Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -20,11 +20,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 {.dense}
 
 ## At RFC Editor
-|  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   |
-|---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|
-|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   RFC-editor |  Auth-48    |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         | 245 days             |  1072 days           |
-|  draft-ietf-idr-rfc7752bis      |  Jeff Haas    |  RFC-editor - AD hold  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  235 days (65 days on hold)       |  806 days         |
-|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  Auth-48  |  RFC  |  Nov-01-2022  |  Dec-30-2022   |  Aug-10-2023 | 72 days (18 days Auth-48)  |  354 days | 
+|  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
+|---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
+|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   Auth-48 |  RFC9514  |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         | 262 days  |  1081 days   | Oct-30-2023 (7 days) | 
+|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  Auth-48  |  RFC9494  |  Nov-01-2022  |  Dec-30-2022  |  Aug-10-2023 | 88 days  | 354 days | 10-2-2023 }  
+|  draft-ietf-idr-rfc7752bis   |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  251 days (hold off 10/26)  |  822 days     | TBD | 
 {.dense}
 
 
@@ -50,14 +50,18 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | none | 
 {.dense}
 
-## In Queue of AD: Awaiting AD Feedback
-
+## Queue for AD review 
 | draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-rpd                        |  Keyur Patel  |  AD + IDR chairs in-depth review  |  IETF Review    |  Nov-11-2021   |  Feb-11-2022 |  TBD (7/23 AD note) | 89 days (Awaits AD scheduling) | 616 days|  708 days     |
-|  draft-ietf-idr-wide-bgp-communities       |  Keyur Patel  |  AD + IDR Chairs in-depth review  |  IETF Review    |  Mar-11-2022      |  Apr-30-2022   |  TBD (7/23 AD Note)  |  89 days (Awaits AD Scheduling) |  388 days  |  588 days | 
 |  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 12 days | 42 days | 119 days | 
+{.dense}
 
+## Sent Back to WG 
+
+| draft  | Shepherd   |   status    |  Next step      |  1st WG LC completed  |  1st IESG Pub Req  |  Revision  | Time in State |  Time since 1st WG LC   |
+|---|---|---|---|---|---|---|---|---|---|
+|  draft-ietf-idr-rpd |  Keyur Patel  | WG doc | Revision Req   |  Nov-11-2021 | Feb-11-2022 | Nov-5-2023 | 2 days |  708 days   |
+|  draft-ietf-idr-wide-bgp-communities |  Keyur Patel  |  AD + IDR Chairs in-depth review  |  IETF Review  |  Mar-11-2022      |  Apr-30-2022   |  Nov-5-2023  | 2 days |  563 days | 
 {.dense}
 
 
@@ -65,7 +69,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery-12 | Keyur Patel | Shepherd's write-up | IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 103 days (3 days on -12) | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Document Split |  WG LC split (AD watches)  | 1st: 8/06/2021, Split: 3/15/2023, Split Text: TBD |  TBD  |  TBD | TBD | 710 days   |
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Document Split |  WG LC split (AD watches)  | 1st: 8/06/2021, Split: 3/15/2023, Split Text: TBD |  TBD  |  TBD | TBD | 710 days |
 | draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Document Split | WG LC split text | Split: Oct 3/15/2023 Split Text: TBD|  1st: 3/1/2023 to 3/15/2023  |  TBD | 1 day | TBD  | TBD  |
 {.dense}
 
