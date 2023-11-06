@@ -2,7 +2,7 @@
 title: IETF 118 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-11-05T15:41:29.370Z
+date: 2023-11-06T03:06:20.929Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T20:56:22.040Z
@@ -29,4 +29,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Attested CSRs | Hannes Tschofenig, Thomas Fossati | thomas.fossati@linaro.org, hannes.tschofenig@siemens.com | https://github.com/IETF-Hackathon/ietf118-project-presentations/blob/main/CSR-Attestation.pdf |
 | SCION  | Nicola Rustignoli, Matthias Frei  |  <nic@scion.org> , <matzf@scion.org> |  https://github.com/scionproto/scion/tree/connectrpc https://github.com/scionproto/scion/pull/4435 |
 | NTS & Roughtime  | Christer Weinigel  |  <christer@weinigel.se> | https://www.netnod.se/nts/ https://vadarklockan.readthedocs.io/ |
+| L4S & AccECN | Greg White | <g.white@cablelabs.com> | https://www.rfc-editor.org/rfc/rfc9330.html |
 
