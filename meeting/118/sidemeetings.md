@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-06T08:46:03.469Z
+date: 2023-11-06T08:47:28.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -75,7 +75,7 @@ Please keep the tables sorted by meeting by time.
 14:00-15:00      |    Palmovka 1/2       |      Universal Name System / Universal Certificate Authority             |    ?      |   manu@hushmesh.com      |  Discussion and guidance to bring this work to the IETF community                        |                       |          |
 15:30-17:30      |    Palmovka 1/2       |      SRv6 Operations             |    RTG,OPS      |   chengweiqiang@chinamobile.com, daniel.voyer@bell.ca, liuyisong@chinamobile.com      |  Segment Routing Deployment and Operation discussion                        |   Conference Link: https://ietf.webex.com/meet/ietfsidemeeting2     Agenda: https://github.com/China-Mobile-SRv6-Research/IETF118_SR_Operations_side_meeting/blob/main/Side%20Meeting%20Agenda |    |
 | 16:00-17:30 | Karlin 4 | DNSSD document editing | INT | chris.box.ietf@gmail.com | Discussion and document editing on TSR, SRP Replication, Advertising proxy et al | https://ietf.webex.com/meet/sidemeetingietf1 | [dnssd.ics](/dnssd.ics) |
-| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn, xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks. Github link: https://github.com/xiongquan1230/IETF118-Sidemeeting                    |    teams ID: 958 937 268 416/Password: AzrPUs  conference link:https://teams.live.com/meet/958937268416?p=LhYlkLtlTU7BOBSm                 |          |
+| 17:30-19:00  |  Palmovka 1/2   |   QoS & TE for Differentiated Deterministic service          |  RTG       | huang.guangping@zte.com.cn, xiong.quan@zte.com.cn            |  Consideration and discussion about differentiated deterministic services and  QoS-related behaviors and the TE solutions including per-class or aggregate TE, time-based resource scheduling in scaling networks. Github link: https://github.com/xiongquan1230/IETF118-Sidemeeting                    | conference link:https://teams.live.com/meet/958937268416?p=LhYlkLtlTU7BOBSm   teams ID: 958 937 268 416/Password: AzrPUs                |          |
 | 18:00-20:00  |  Karlin 4  | EAP-FIDO Design&Feedback   |  SEC        |  [Janfred Rieckers (rieckers@dfn.de)](mailto:rieckers@dfn.de)           | Discussion and first community feedback on the Protocol Design of EAP-FIDO (I-D.janfred-eap-fido, to be published ~21.10.) | https://dfn.zoom-x.de/j/68496729531?pwd=TmFjL25rN3FiNzJQWmd0dXY3Wlc1QT09 | TBD |
 |          |          |                  |          |             |                         |                       |          |
 {.dense}
