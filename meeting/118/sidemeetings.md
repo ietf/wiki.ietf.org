@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-06T13:22:36.949Z
+date: 2023-11-06T13:26:12.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -177,7 +177,7 @@ Location: Mezzanine Level
 | 14:00-14:30 |  ANIMA Discovery |   UNS / UCA      |  
 | 14:30-15:00 |  ANIMA Discovery |   UNS / UCA      | 
 | 15:00-15:30 |  ANIMA Discovery |                  |  
-| 15:30-16:00 |                  |  SRv6 Operations |   
+| 15:30-16:00 |  ASPA sidrops                |  SRv6 Operations |   
 | 16:00-16:30 | DNSSD editing    |  SRv6 Operations |   
 | 16:30-17:00 | DNSSD editing    |  SRv6 Operations |   
 | 17:00-17:30 | DNSSD editing    |  SRv6 Operations |   
