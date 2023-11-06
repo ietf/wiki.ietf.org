@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-06T08:50:30.595Z
+date: 2023-11-06T09:36:21.060Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -178,9 +178,8 @@ note: Not available before 09:00 Sunday
 * TIME - ACTIVITY
 
 ## Tuesday, 7 November 2023
-
-* TIME - ACTIVITY
-* TIME - ACTIVITY
+* 08:30 - 9:30: NMOP Charter Discussion (Rob)
+* 17:00 - 18:00: NMOP Charter Discussion (Rob)
 * TIME - ACTIVITY
 
 ## Wednesday, 8 November 2023
