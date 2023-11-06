@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-06T15:27:19.038Z
+date: 2023-11-06T16:00:32.516Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -181,7 +181,7 @@ Location: Mezzanine Level
 | 16:00-16:30 | DNSSD editing    |  SRv6 Operations |   
 | 16:30-17:00 | DNSSD editing    |  SRv6 Operations |   
 | 17:00-17:30 | DNSSD editing    |  SRv6 Operations |   
-| 17:30-18:00 |                  | QoS & TE for differentiated deterministic service                 |   
+| 17:30-18:00 | DNSSD editing    | QoS & TE for differentiated deterministic service                 |   
 | 18:00-18:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
 | 18:30-19:00 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
 | 19:00-19:30 | EAP-FIDO         | QoS & TE for differentiated deterministic service                 |   
