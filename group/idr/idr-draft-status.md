@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-11-06T23:37:53.258Z
+date: 2023-11-06T23:43:13.713Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -22,7 +22,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
-|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   Auth-48 |  RFC9514  |  Nov-17-2020          |  May-21-2021   |  Feb-17-2023         | 262 days  |  1081 days   | Oct-30-2023 (7 days) | 
+|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   Auth-48 |  RFC9514  |  Nov-17-2020        |  May-21-2021   |  Feb-17-2023         | 262 days  |  1081 days   | Oct-30-2023 (7 days) | 
 |  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  Auth-48  |  RFC9494  |  Nov-01-2022  |  Dec-30-2022  |  Aug-10-2023 | 88 days  | 354 days | 10-2-2023 }  
 |  draft-ietf-idr-rfc7752bis   |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  251 days (hold off 10/26)  |  822 days     | TBD | 
 {.dense}
@@ -68,8 +68,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sdwan-edge-discovery-12 | Keyur Patel | Shepherd's write-up | IESG | 7/9 | 6/11 to 6/25 | 8 days | TBD  | 103 days (3 days on -12) | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Document Split |  WG LC split (AD watches)  | 1st: 8/06/2021, Split: 3/15/2023, Split Text: TBD |  TBD  |  TBD | TBD | 710 days |
+| draft-ietf-idr-sdwan-edge-discovery-12 | Keyur Patel | Shepherd's write-up | IESG | 7/9 | 6/11 to 6/25 | 23 days | TBD | 103 days | 
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Document Split |  WG LC split (AD watches)  | 1st: 8/06/2021, Split: 3/15/2023, Split Text: 11/6/2023 |  TBD  |  TBD | TBD | 710 days |
 | draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Document Split | WG LC split text | Split: Oct 3/15/2023 Split Text: TBD|  1st: 3/1/2023 to 3/15/2023  |  TBD | 1 day | TBD  | TBD  |
 {.dense}
 
