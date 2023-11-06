@@ -2,7 +2,7 @@
 title: IETF 118 Code Lounge
 description: 
 published: true
-date: 2023-11-06T03:03:36.205Z
+date: 2023-11-06T17:05:51.116Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-10-19T21:09:55.119Z
@@ -19,9 +19,9 @@ Please sign up for a time slot below by entering your working group or Hackathon
 
 |      |  Monday, 6 November | Tuesday, 7 November  | Wednesday, 8 November |  Thursday, 9 November | Friday, 10 November |  
 |-------|------|------|------|------|------|
-| 08:00 |   |   |       |       |       |
-| 10:00 |   |     |      |      |      |
-| 12:00 |   |      |      |      |      |     
+| 08:00 |   | radext  |       |       |       |
+| 10:00 |   | radext  |      |      |      |
+| 12:00 |   | radext  |      |      |      |     
 | 14:00 |   |      |      |      | **Lounge Closed** |
 | 16:00 |   |      |      |      | **Lounge Closed** |                         
 | 18:00 |   |      |      |      | **Lounge Closed** |  
