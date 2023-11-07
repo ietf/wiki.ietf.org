@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-10-20T22:52:51.713Z
+date: 2023-11-07T00:52:22.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -18,8 +18,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## Implementation report for drafts at IESG
 
 - [draft-ietf-idr-segment-routing-te-policy implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
- - [draft-ietf-idr-wide-bgp-communities](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
- - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
+- [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/BGP-Implementation-report/draft-ietf-idr-bp-sr-segtypes-ext-01]
 
 
 ## Implementation reports for drafts at WG LC
@@ -34,7 +33,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
    
 
 ## Fast Track Drafts (returned to WG, 2 implementations)
-
+ - [draft-ietf-idr-wide-bgp-communities](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
+ - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) 
 
 ## Drafts past WG LC awaiting 2 implementations
