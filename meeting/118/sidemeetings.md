@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-07T16:43:38.468Z
+date: 2023-11-07T16:46:07.385Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -104,7 +104,7 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 |Karlin 4 |VT Discussion|RTG, ART|pengshuping@huawei.com|Discuss the progress, next step, and future directions|https://ietf.webex.com/meet/sidemeetingietf1 |
 | 09:30-11:00 | Palmovka1/2 |Openconfig/YANG workshop|OPS/MGMT|daniel.voyer@bell.ca, Nils.Warnke@telekom.de|Discussion on how the industry should move forward with Openconfig/YANG|https://ietf.webex.com/meet/ietfsidemeeting2|
-| 10:00-11:00 | Karlin 4 | WimSE: Workload Authz | ART |yaronf.ietf@gmail.com| [Webex](https://ietf.webex.com/meet/sidemeetingietf1) |TBD|
+| 10:00-11:00 | Karlin 4 | WimSE: Workload Identity | ART |yaronf.ietf@gmail.com| Discuss refinement of scope and deliverables for WIMSE | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) |TBD|
 | 14:00-15:00 |  Karlin 4   | TieDie | ART | lear@lear.ch | Discussion of Tiedie IoT Onboarding and control | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) | TBD |
 | 14:00-15:30 |  Palmovka1/2 |   AI4NETWORK |  RTG, OPS | d.king@lancaster.ac.uk, Lancaster University,  chengweiqiang@chinamobile.com, China Mobile| This side meeting brings together some AI topics for the Network (AI4NETWORK). The agenda can be found at: https://github.com/danielkinguk/ai4network |  [Webex](https://ietf.webex.com/meet/ietfsidemeeting2) | TBD |
 | 15:00-15:30 | Karlin 4 | NETCONF/RESTCONF-next | OPS/MGMT | perander@cisco.com | Start categorizing open issues to identify what needs YANG-next, new protocol versions, completed work, can be done extending current protocol versions, uninteresting work(?). | https://ietf.webex.com/meet/sidemeetingietf1 | [ietf-118-side-meeting-netconf-restconf-next.ics](/ietf-118-side-meeting-netconf-restconf-next.ics) |
