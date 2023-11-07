@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-11-07T00:58:45.783Z
+date: 2023-11-07T01:05:45.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -115,17 +115,16 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12 |  5/12  | TBD  |
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28           |  5/26   |
 |  draft-haas-idr-diffract  |  Susan Hares   |  held for revision    |  uploaded WG doc  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
-| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Hold for edits |  WG draft | 9/26 to 10/10/2023 | TBD | TBD |
 {.dense}
 
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
+| draft-xie-idr-mpbgp-extension-4map6 | Susan Hares | Hold for edits |  WG draft | 9/26 to 10/10/2023 | TBD | TBD |
 | draft-wang-idr-cpr-03 | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 10/20 to 11/6 |
 |  draft-zhang-idr-sr-policy-metric-05 |  Susan Hares  |  Awaitng -05   |  Adoption call        |  TBD   |  TBD | 10/20 to 11/6   | 
 | draft-ssangli-idr-bgp-generic-metric-aigp | Susan Hares | Adoption and IPR call | TBD | TBD | TBD | 10/20 to 11/6  | 
 | draft-lin-idr-sr-policy-seglist-id | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | 10/20 to 11/3  | 
-
 {.dense
 
 ## Adoption process - upcoming Adoptions
