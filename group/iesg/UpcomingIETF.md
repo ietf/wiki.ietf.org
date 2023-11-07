@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-07T09:37:53.689Z
+date: 2023-11-07T09:38:32.814Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -162,11 +162,10 @@ Location: [Paris](https://datatracker.ietf.org/meeting/118/floor-plan?room=paris
 
 
 ## Sunday, 5 November 2023
-note: Not available before 09:00 Sunday
+**PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * 14:00 - 15:00: TSV AD Office Hours
 * 15:00 - 16:00: RTG AD Office Hours
-* TIME - ACTIVITY
 
 ## Monday, 6 November 2023
 
@@ -175,12 +174,11 @@ note: Not available before 09:00 Sunday
 * 12:15 - 12:55: INT AD discussion with DRIP WG & IANA
 * 15:00 - 15:30: IEEE CBOR SID Mega Block allocation (Rob, Francesca)
 * 17:15 - 18:30: INT AD Office Hours
-* TIME - ACTIVITY
 
 ## Tuesday, 7 November 2023
+
 * 08:30 - 9:30: NMOP Charter Discussion (Rob)
 * 17:00 - 18:00: NMOP Charter Discussion (Rob)
-* TIME - ACTIVITY
 
 ## Wednesday, 8 November 2023
 
