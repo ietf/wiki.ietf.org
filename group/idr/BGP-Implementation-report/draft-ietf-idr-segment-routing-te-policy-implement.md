@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2023-07-28T18:25:03.509Z
+date: 2023-11-07T07:13:33.095Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z
@@ -50,15 +50,7 @@ Report created by Ketan Talaulikar (ketant@…)
 |---|---|---|---|---|---|---|
 | A  | SR-MPLS Label  | Yes | Yes | Yes | Yes |	Yes | 
 | B	 | SRv6 SID	      | --- | --- | Yes | Yes | 	--- | 
-| C	 | IPv4 Prefix with optional SR algorithm	 | --- | --- | --- | --- | --- |		
-| D	 | IPv6 Global Prefix with optional SR algorithm for SR-MPLS	| --- | --- | --- | --- | --- |		
-| E	 | IPv4 Prefix with local interface ID (if ID) | --- | --- | --- | --- | --- |
-| F	 | IPv4 addresses for if ID for link endpoints (local, remote)  | --- | --- | --- | --- | --- |		
-| G	 | IPv6 Prefix and If ID for link endpoints (local, remote) for SR-MPLS	| --- | --- | --- | --- | --- |
-| H	 | IPv6 Addresses for link endpoints (local, remote) for SR-MPLS | --- | --- | --- | --- | --- |	
-| I	 | IPv6 Global Prefix with optional SR algorithm for SRv6 | --- | --- | --- | --- | --- |		
-| J	 | IPv6 Prefix and If ID for link endpoints (local, remote) for SRv6 | --- | --- | --- | --- | --- |
-| K |	IPv6 Addresses for link endpoints (local, remote) for SRv6 | --- | --- | --- | --- | --- |	
+
 
 ### Color Extended Community Support for Steering over SR Policy
 
