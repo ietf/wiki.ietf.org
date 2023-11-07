@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-11-07T00:32:24.576Z
+date: 2023-11-07T00:49:52.840Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -23,7 +23,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
 |  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   Auth-48 |  RFC9514  |  Nov-17-2020        |  May-21-2021   |  Feb-17-2023         | 262 days  |  1081 days   | Oct-30-2023 (7 days) | 
-|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  Auth-48  |  RFC9494  |  Nov-01-2022  |  Dec-30-2022  |  Aug-10-2023 | 88 days  | 354 days | 10-2-2023 }  
+|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  Auth-48  |  RFC9494  |  Nov-01-2022  |  Dec-30-2022  |  Aug-10-2023 | 88 days  | 354 days | 10-2-2023 |   
 |  draft-ietf-idr-rfc7752bis   |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  251 days (hold off 10/26)  |  822 days     | TBD | 
 {.dense}
 
@@ -53,7 +53,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Queue for AD review 
 | draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 12 days | 42 days | 119 days | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 12 days | 59 days | 165 days | 
 {.dense}
 
 ## Sent Back to WG 
