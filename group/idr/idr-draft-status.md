@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-11-06T23:43:13.713Z
+date: 2023-11-07T00:32:24.576Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -69,8 +69,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery-12 | Keyur Patel | Shepherd's write-up | IESG | 7/9 | 6/11 to 6/25 | 23 days | TBD | 103 days | 
-|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  Document Split |  WG LC split (AD watches)  | 1st: 8/06/2021, Split: 3/15/2023, Split Text: 11/6/2023 |  TBD  |  TBD | TBD | 710 days |
-| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Document Split | WG LC split text | Split: Oct 3/15/2023 Split Text: TBD|  1st: 3/1/2023 to 3/15/2023  |  TBD | 1 day | TBD  | TBD  |
+|  draft-ietf-idr-segment-routing-te-policy  |  Susan Hares  |  WG LC split ok |  Edit check + IESG  | 1st: 8/06/2021, Split-IETF 3/15/2023, WG LC split: 11/6/2023 | split: 10/10-10/23/2023  |  1 day | 11/13 | 822 days (1 day)   |
+| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | WG LC split ok | Edit Check + OK  | Nov-6-2023 | Split Text: 10/10-10/23 |  1 day | 11/13 | 822 days (1 day)  |
 {.dense}
 
 ## Past WG LC awaiting implementation  
