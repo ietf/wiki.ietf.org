@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-bgp-sr-segtypes-ext
 description: BGP implementations of draft-ietf-idr-bgp-sr-segtypes-ext
 published: true
-date: 2023-11-07T07:13:09.692Z
+date: 2023-11-07T07:14:51.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-07T00:56:48.946Z
