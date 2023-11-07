@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-07T09:38:32.814Z
+date: 2023-11-07T12:02:28.408Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -178,6 +178,7 @@ Location: [Paris](https://datatracker.ietf.org/meeting/118/floor-plan?room=paris
 ## Tuesday, 7 November 2023
 
 * 08:30 - 9:30: NMOP Charter Discussion (Rob)
+* 16:30 - 17:00 TAPS closing discussion
 * 17:00 - 18:00: NMOP Charter Discussion (Rob)
 
 ## Wednesday, 8 November 2023
