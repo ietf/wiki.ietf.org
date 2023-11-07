@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-07T09:12:52.463Z
+date: 2023-11-07T09:26:39.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -238,9 +238,9 @@ Location: Mezzanine Level
 | 12:30-13:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |   
 | 13:00-13:30 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  |  
 | 13:30-14:00 |  **NOT AVAILABLE**   |   **NOT AVAILABLE**  | 
-| 14:00-14:30 | TI-LFA and ULoop     |   AI4Net         |  
-| 14:30-15:00 | TI-LFA and ULoop     |   AI4Net         | 
-| 15:00-15:30 | TI-LFA and ULoop     |   AI4Net         |    
+| 14:00-14:30 |                      |   AI4Net         |  
+| 14:30-15:00 |                      |   AI4Net         | 
+| 15:00-15:30 |                      |   AI4Net         |    
 | 15:30-16:00 |  Edge Computing  |   Pluggable/PoI  |   
 | 16:00-16:30 |  Edge Computing  |   Pluggable/PoI  |   
 | 16:30-17:00 |  Edge Computing  |   Pluggable/PoI  |   
