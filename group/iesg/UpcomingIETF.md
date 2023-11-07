@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-06T09:36:21.060Z
+date: 2023-11-07T09:36:04.287Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -125,7 +125,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
 > 1. Strategy for WG Chairs (Jay/Greg 20 min)
 > 1. Statement on SUPERDISPATCH Experiment (https://docs.google.com/document/d/1n26nDuIYJyLmEEuT09ZuzF0BhUSRGWH4fRfjdapYh5Q/edit?usp=sharing)
 > 1. WIT scheduling (Francesca)
-> 1. Plenary Prep
+> 1. Plenary Prep (https://docs.google.com/presentation/d/1AFon10WMTDgdyhm6ODQD2CQRoyQbguQWzn5JCIsqaLo/edit?usp=sharing)
 
 
 ### IETF 118 Plenary TIME: 17:00-19:00 CET (UTC+1) Room: Congress Hall 1/2
