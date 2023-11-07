@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-07T09:11:51.955Z
+date: 2023-11-07T09:12:52.463Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -106,7 +106,7 @@ Please keep the tables sorted by meeting by time.
 | 09:30-11:00 | Palmovka1/2 |Openconfig/YANG workshop|OPS/MGMT|daniel.voyer@bell.ca, Nils.Warnke@telekom.de|Discussion on how the industry should move forward with Openconfig/YANG|https://ietf.webex.com/meet/ietfsidemeeting2|
 | 10:00-11:00 | Karlin 4 | WimSE: Workload Authz | ART |yaronf.ietf@gmail.com|TBD|TBD|
 | 14:00-15:30 |  Palmovka1/2 |   AI4NETWORK |  RTG, OPS | d.king@lancaster.ac.uk, Lancaster University,  chengweiqiang@chinamobile.com, China Mobile| This side meeting brings together some AI topics for the Network (AI4NETWORK). The agenda can be found at: https://github.com/danielkinguk/ai4network |  [Webex](https://ietf.webex.com/meet/ietfsidemeeting2) | TBD |
-|17:00-18:00| Palmovka1/2| TI-LFA and ULoop| RTG | Yingzhen Qu |  Discuss draft-ietf-rtgwg-segment-routing-ti-lfa|https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
+|17:00-18:00| Palmovka1/2| TI-LFA and ULoop| RTG | Yingzhen Qu |  Discuss draft-ietf-rtgwg-segment-routing-ti-lfa|https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
 | 15:30-17:00 |  Karlin 4 |   Edge Computing |  RTG, TSV, OPS | jros@qti.qualcomm.com, Qualcomm | Exposure of Network and Compute information to Support Edge Computing Applications | [Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxOGE0ZjYtYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjIx%40thread.v2/0?context=%7b%22Tid%22%3a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2c%22Oid%22%3a%22fca5f38d-5297-46aa-b455-d0973e7cb68a%22%7d) | [Download calendar invite (.ics)](/ietf_118_side_meeting_exposure_of_network_and_compute_information_to_support.ics) |
 | 15:30-17:00 |   Palmovka1/2 |   Pluggable/PoI  |  RTG/CCAMP | oscar.gonzalezdedios@telefonica.com, daniele.ietf@gmail.com | Discussion on Pluggable Management and control. There are several alterative architectures proposed. This side meeting is aimed at aligning the views.  | TBD | TBD |
 | 17:00-18:00 |  Karlin 4 |  CCAMP T-NBI Design Team | RTG | daniel@olddog.co.uk and italo.busi@huawei.com | Discussing CCAMP T-NBI Use Cases and YANG Models | TBD | TBD |
