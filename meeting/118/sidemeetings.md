@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-07T09:43:26.928Z
+date: 2023-11-07T10:15:29.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -86,7 +86,9 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |      8:30-9:30    |  Karlin 4         |  Non-Routing information distribution|   RTG   |   gaoqiangzhou@huawei.com      |    Non-Routing information distribution                   |https://ietf.webex.com/meet/sidemeetingietf1|
-|  10:00-11:00 | Palmovka 1/2 | SADCDN | TSV | Matt Joras, Abhishek Tiwari | Consensus on SADCDN Use Cases (https://github.com/afrind/sadcdn)| [Zoom](https://us02web.zoom.us/j/82645696303?pwd=RDRTSVlYZVY1ZDJvdWM1cHVnNGkwdz09 ) | TBD |
+|  10:00-11:00 | Palmovka 1/2 | SADCDN | TSV | Matt Joras, Abhishek Tiwari | Consensus on SADCDN Use Cases (https://github.com/afrind/sadcdn)
+[Notes](https://notes.ietf.org/41c4WyYtT6O9hfedpqztrw)
+| [Zoom](https://us02web.zoom.us/j/82645696303?pwd=RDRTSVlYZVY1ZDJvdWM1cHVnNGkwdz09 ) | TBD |
 |  15:00-16:30        |    Karlin 4      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com, giuseppe.fioccola@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) | TBD |
 |  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZlNjIzNDItYTdiYS00MjBkLWE4ZWItMDI4YzJkNGNhMjEw%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
 |  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZlNjIzNDItYTdiYS00MjBkLWE4ZWItMDI4YzJkNGNhMjEw%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
