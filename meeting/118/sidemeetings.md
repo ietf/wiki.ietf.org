@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-07T07:58:57.889Z
+date: 2023-11-07T08:59:05.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -88,8 +88,8 @@ Please keep the tables sorted by meeting by time.
 |      8:30-9:30    |  Karlin 4         |  Non-Routing information distribution|   RTG   |   gaoqiangzhou@huawei.com      |    Non-Routing information distribution                   |https://ietf.webex.com/meet/sidemeetingietf1|
 |  10:00-11:00 | Palmovka 1/2 | SADCDN | TSV | Matt Joras, Abhishek Tiwari | Consensus on SADCDN Use Cases (https://github.com/afrind/sadcdn)| [Zoom](https://us02web.zoom.us/j/82645696303?pwd=RDRTSVlYZVY1ZDJvdWM1cHVnNGkwdz09 ) | TBD |
 |  15:00-16:30        |    Karlin 4      |    Metaverse              |   TSV, INT, RTG   |         zhoutianran@huawei.com, giuseppe.fioccola@huawei.com    |     Discussion about realted technologies and understand what IETF can do on Metaverse        | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) | TBD |
-|  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | TBD | TBD |
-|  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | TBD | TBD |
+|  15:30-16:00 | Palmovka 1/2 | YANG/Kafka | OPS | Thomas Graf / Rob Wilton | YANG Semantic and Serialization Integration into Apache Kafka Message Broker | [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZlNjIzNDItYTdiYS00MjBkLWE4ZWItMDI4YzJkNGNhMjEw%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
+|  16:00-16:30 | Palmovka 1/2 | Digital Map | OPS | Benoit Claise / Olga Havel / Oscar González de Dios /  Rob Wilton | Modeling the Digital Map based on RFC 8345 | [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjZlNjIzNDItYTdiYS00MjBkLWE4ZWItMDI4YzJkNGNhMjEw%40thread.v2/0?context=%7b%22Tid%22%3a%22364e5b87-c1c7-420d-9bee-c35d19b557a1%22%2c%22Oid%22%3a%22487bc3e3-9ce7-4cdd-b7b4-8899ea88d289%22%7d) | TBD |
 |    16:30-17:30      |    Karlin 4           |    Incident Management   |    OPS                |     Qin Wu  |Incident Management Use Case Discussion| https://ietf.webex.com/meet/sidemeetingietf1 | [Network_Incident_Management_Side_meeting.ics]|
 |    18:00-18:30      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org)| https://ietf.webex.com/meet/sidemeetingietf1 | TBD|
 |    18:30-20:00      |    Karlin 4           |    Path Validation   |    SEC, OPS, RTG          |     Chunchi Liu/ Meiling Chen/ Diego Lopez/ Nicola Rustignoli  | Path Validation use case, problem statement and gap analysis discussion. [Link to agenda and materials at Github](https://github.com/liuchunchi/path_validation_side_meeting_118) | https://ietf.webex.com/meet/sidemeetingietf1  | [path_validation_side_meeting.ics](/path_validation_side_meeting.ics)|
