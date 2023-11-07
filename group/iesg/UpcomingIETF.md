@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-07T09:36:04.287Z
+date: 2023-11-07T09:37:31.722Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -184,8 +184,7 @@ note: Not available before 09:00 Sunday
 
 ## Wednesday, 8 November 2023
 
-* TIME - ACTIVITY
-* TIME - ACTIVITY
+* 13:00 - 14:00: MAILMAN chartering (Murray)
 * 16:30 - 17:00 pre-plenary refreshments
 
 ## Thursday, 9 November 2023
