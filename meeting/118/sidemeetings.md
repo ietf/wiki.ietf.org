@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-08T18:15:08.547Z
+date: 2023-11-08T18:19:32.518Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -129,7 +129,7 @@ Please keep the tables sorted by meeting by time.
 |    16:30-18:00     |    Palmovka 1/2    |    FRMCS & Hyperloop - latest developments in railway networks |    OPS   |    xipengxiao@gmail.com  | (1)Paolo Volpato, intro to railway networks and FRMCS (Future Railways Mobile Communication Systems), 20m; (2) Lorenzo Benedetti, EuroTube and its network requirements, 40m; (3) Open discussion & social for people interested in railway networking| https://ietf.webex.com/meet/ietfsidemeeting2  | TBD|
 |    18:00-19:00      |    Karlin 4           |    Deepspace IP   |    INT                |    marc.blanchet@viagenie.ca  | updates on deepspace IP (see ML: deepspace@ietf.org and [group web site](https://deepspaceip.github.io/meetings/ietf118/) )| https://ietf.webex.com/meet/sidemeetingietf1 | TBD|
 |18:00-19:00  |Palmovka 1/2  | Open Discussion on IETF alternatives for future mobile (a.k.a. 6G) | ?  | d.lake@surrey.ac.uk | Presentations on the current issues with 3GPP architectures and solutions when seen from an IETF viewpoint followed by an open discussion to identify what an IETF-centric architecture would look like. Chaired by David Lake |  https://ietf.webex.com/meet/ietfsidemeeting2 |
-|19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite provided by Roland Schott (roland.schott@telecom.de). [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFiMzBiYWQtMjYxNy00MGY0LWI3YjQtZDQ2Y2JjZDc3YzQy%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d) | use the Teams link |
+|19:00-20:00  |Palmovka 1/2  | AI/ML Standardization in 3GPP | INT | sarikaya@ieee.org   |  6GIP Side Meeting on AI/ML in 6G, Subscribe to 6gip@ietf.org for more info. Microsoft Meets conferencing link and calendar invite provided by Roland Schott (roland.schott@telecom.de). | [ Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFiMzBiYWQtMjYxNy00MGY0LWI3YjQtZDQ2Y2JjZDc3YzQy%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%22a23b1692-7674-4dc8-8401-6e14c3b067c0%22%7d) | use the Teams link |
 {.dense}
 
 ### [FRIDAY 10 November](#meeting-friday)
