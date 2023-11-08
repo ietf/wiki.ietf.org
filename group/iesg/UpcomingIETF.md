@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-08T07:03:53.167Z
+date: 2023-11-08T10:49:47.734Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -184,6 +184,7 @@ Location: [Paris](https://datatracker.ietf.org/meeting/118/floor-plan?room=paris
 ## Wednesday, 8 November 2023
 
 * 13:00 - 14:00: MAILMAN chartering (Murray)
+* 14:00 - 14:30: SML chairing (Murray)
 * 16:30 - 17:00 pre-plenary refreshments
 
 ## Thursday, 9 November 2023
