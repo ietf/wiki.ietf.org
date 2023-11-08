@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-08T10:49:47.734Z
+date: 2023-11-08T11:34:16.692Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -189,6 +189,7 @@ Location: [Paris](https://datatracker.ietf.org/meeting/118/floor-plan?room=paris
 
 ## Thursday, 9 November 2023
 
+* 11:30 - 13:00: INT-related directorates chairs/AD shared lunch (Éric V)
 * 16:30 - 17:00: CDNI discussion (Francesca)
 
 ## Friday, 10 November 2023
