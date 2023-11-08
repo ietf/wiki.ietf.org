@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-08T18:19:32.518Z
+date: 2023-11-08T19:57:52.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -123,7 +123,7 @@ Please keep the tables sorted by meeting by time.
 |   8:30-9:30   |  Palmovka 1/2  | HTTP Concurrency |  WIT? ART?  |  mnot@mnot.net  |  Potential responses to the "H2 Rapid Reset" CVE    |                       |  [http_concurrency_side_meeting.ics](/http_concurrency_side_meeting.ics)        |
 |   9:30-11:00  |   Palmovka 1/2 | IPv6 deployment in enterprises                 |  OPS        | xipengxiao@gmail.com; Jen Linkova <furry13@gmail.com>            |(1) Jen Linkova, Google’s IPv6 deployment experience, 45m (2) George Dilger, How Dell meets IPv6 certification requirement of USG, 20m (3) Nalini Elkins, Priyanka Sinha et al, ND6, 25m  |    https://ietf.webex.com/meet/ietfsidemeeting2                    |   TBD       | 
 | 14:00-15:00 | Karlin 4 | Jumbo frame discussion | TSV, INT, OPS | tim.chown@jisc.ac.uk | Discussion of how IETF WGs and protocols might enable and promote wider use of jumbo frames, e.g., MTU 9000 | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-| 14:30-16:30  |  Palmovka 1/2  | Collective Communication Optimizations (CCO) |TSV,ART,RTG |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on cases, challenges, requirements and mechanisms to facilitate the collective communication optimizations https://github.com/CCO-IETF/ietf118-side-meeting  | https://ietf.webex.com/meet/ietfsidemeeting2    |   [cco-ietf118-sidemeeting.ics](/cco-ietf118-sidemeeting.ics) |
+| 14:30-16:00  |  Palmovka 1/2  | Collective Communication Optimizations (CCO) |TSV,ART,RTG |  yaokehan@chinamobile.com liyizhou@huawei.com  |  Discussion on cases, challenges, requirements and mechanisms to facilitate the collective communication optimizations https://github.com/CCO-IETF/ietf118-side-meeting  | https://ietf.webex.com/meet/ietfsidemeeting2    |   [cco-ietf118-sidemeeting.ics](/cco-ietf118-sidemeeting.ics) |
 |    15:00- 16:00      |    Karlin 4           |  Time Schedule |    OPS              | bill.wu@huawei.com; yingzhen.qu@futurewei.com; luismiguel.contrerasmurillo@telefonica.com                |  Common Time Schedule for various different network management use cases | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |    16:00- 18:00      |    Karlin 4           | IPMON BoF Preparation |  INT  | pauljeong@skku.edu; chrisshen@skku.edu; pjs@etri.re.kr; |  Discussion on IPMON charter and the sharing of IPMON activity after IETF-117 | https://us02web.zoom.us/j/82656058380?pwd=Z016RjBxWW4zZGNWVU05V2xwQm5GZz09 | TBD |
 |    16:30-18:00     |    Palmovka 1/2    |    FRMCS & Hyperloop - latest developments in railway networks |    OPS   |    xipengxiao@gmail.com  | (1)Paolo Volpato, intro to railway networks and FRMCS (Future Railways Mobile Communication Systems), 20m; (2) Lorenzo Benedetti, EuroTube and its network requirements, 40m; (3) Open discussion & social for people interested in railway networking| https://ietf.webex.com/meet/ietfsidemeeting2  | TBD|
@@ -274,7 +274,7 @@ Location: Mezzanine Level
 | 14:30-15:00 |  Jumbo frames    |       CCO        | 
 | 15:00-15:30 |  Time Schedule   |       CCO        |  
 | 15:30-16:00 |  Time Schedule   |       CCO        |   
-| 16:00-16:30 | IPMON Side Meeting|      CCO        |   
+| 16:00-16:30 | IPMON Side Meeting|                 |   
 | 16:30-17:00 | IPMON Side Meeting|FRMCS & Hyperloop - latest developments in railway networks| 
 | 17:00-17:30 | IPMON Side Meeting|FRMCS & Hyperloop - latest developments in railway networks| 
 | 17:30-18:00 | IPMON Side Meeting|FRMCS & Hyperloop - latest developments in railway networks| 
