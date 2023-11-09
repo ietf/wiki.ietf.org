@@ -2,7 +2,7 @@
 title: IETF 118 Side Meetings
 description: 
 published: true
-date: 2023-11-08T19:57:52.069Z
+date: 2023-11-09T14:22:33.871Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-06T19:21:36.995Z
@@ -280,8 +280,8 @@ Location: Mezzanine Level
 | 17:30-18:00 | IPMON Side Meeting|FRMCS & Hyperloop - latest developments in railway networks| 
 | 18:00-18:30 | Deepspace IP     | 6gip+            |   
 | 18:30-19:00 | Deepspace IP     | 6gip+            |   
-| 19:00-19:30 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
-| 19:30-20:00 | 6gip Side Meeting| AI/ML standardization issue will be taken up |   
+| 19:00-19:30 |                  | 6gip Side Meeting, AI/ML standardization issue will be taken up |   
+| 19:30-20:00 |                  | 6gip Side Meeting, AI/ML standardization issue will be taken up |   
 | 20:00-20:30 |  **NOT AVAILABLE**   |    **NOT AVAILABLE** |  
 {.dense}
 
