@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2023-11-09T09:17:06.451Z
+date: 2023-11-10T08:27:31.252Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -143,6 +143,8 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
 
 > 1. Welcome
 > 1. IETF dashboard update (Greg/Robert, 20 min)
+> 1. Disposition of draft-pauly-v6ops-happy-eyeballs-update (Martin, 15 min)
+> 1. ALLDISPATCH statement final discussion (Martin, 15 min, https://docs.google.com/document/d/1n26nDuIYJyLmEEuT09ZuzF0BhUSRGWH4fRfjdapYh5Q/edit?usp=sharing)
 > 1. Post-meeting review (randomized for 118)
 >    - SEC
 >    - GEN
@@ -154,7 +156,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://www.iab.org/wiki/index.
 >    - IAB
 >    - RTG
 > 1. General discussion of productivity and how the meeting went (standing item)
-> 1. Disposition of draft-pauly-v6ops-happy-eyeballs-update
+>
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
