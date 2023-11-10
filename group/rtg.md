@@ -2,7 +2,7 @@
 title: Routing Area Wiki
 description: 
 published: true
-date: 2023-01-30T04:28:41.086Z
+date: 2023-11-10T08:57:16.243Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T05:24:30.144Z
@@ -20,10 +20,10 @@ John Scudder
 John is affiliated with Juniper Networks
 &nbsp;
 
-<img src="https://www.ietf.org/lib/dt/media/photo/alvaro-retana-LAL06.jpg" alt="Alvaro" height="150"/>
+<img src="https://www.ietf.org/lib/dt/media/photo/jim_RMEvG91.png" alt="Jim" height="150"/>
 
-Alvaro Retana
-[IESG biography](https://datatracker.ietf.org/person/Alvaro%20Retana)
+Jim Guichard
+[IESG biography](https://datatracker.ietf.org/person/james.n.guichard@futurewei.com)
 Alvaro is affiliated with Futurewei Technologies
 
 
