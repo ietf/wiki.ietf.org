@@ -2,7 +2,7 @@
 title: Routing Directorate Charter
 description: 
 published: true
-date: 2022-12-21T19:07:36.194Z
+date: 2023-11-10T08:43:42.133Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:04:58.121Z
@@ -64,12 +64,12 @@ The Routing Area Directorate Coordinator will determine which "triggered" docume
         * Specific procedures to follow (such as, where to send the response)
         * Boilerplate text to include in response
         * A list of things to look for and how to report them
-    * The reviewer must ACK within 24 hours "*can review by deadline*", "*can review, but need additional time*", or "*can't review*"
+    * The reviewer must ACK within 7 days "*can review by deadline*", "*can review, but need additional time*", or "*can't review*"
         * No reply is interpreted as "*can't review*'.
         * If a reviewer can't provide the review it is assigned to different reviewer.
         * If a reviewer asks for additional time, the review may be assigned to a different reviewer if the extra time cannot be found.
 
-To say this one more time, to ensure we have timely reviews, it is really important that reviewers respond quickly when receiving a request.  If a reviewer does not respond within a day or two, the review will be reassigned. If you don’t respond to / refuse 3 reviews over a 6 month period, we will suggest that you not be on the Directorate.  If you are on vacation or will be without email, just let the Coordinators know (contact details below) and/or use an away-from-email auto-responder, and you will not be penalized.
+To say this one more time, to ensure we have timely reviews, it is really important that reviewers respond quickly when receiving a request. Quick rejections allow coordinators to reassign documents. If a reviewer does not respond within 7 days, the review will be reassigned. If you are on vacation or will be without email, please let the coordinators know (contact details below) and/or use an away-from-email auto-responder, and you will not be penalized.
 
 ## How is the Directorate Formed? 
 
@@ -98,15 +98,15 @@ To say this one more time, to ensure we have timely reviews, it is really import
 Contact the [Routing ADs](mailto:rtg-ads@tools.ietf.org)
 
 Or contact them direct:
- * [Deborah Brungard](mailto:db3546@att.com)
- * [Alvaro Retana](mailto:aretana@cisco.com)
- * [Martin Vigoureux](mailto:martin.vigoreux@nokia.com )
+ * [Andrew Alston](mailto:andrew-ietf@liquid.tech)
+ * [Jim Guichard](mailto:james.n.guichard@futurewei.com)
+ * [John Scudder](mailto:jgs@juniper.net)
 
 ## Routing Directorate Coordinators 
 
 The Routing Area Directorate is coordinated by:
- * [Amy Min](mailto:amy.yemin@huawei.com)
- * [Luc Burdet](mailto:lburdet@cisco.com)
+ * [Daniam Henriques](mailto:daniam.henriques@liquid.tech)
+ * [Haomian Zheng](mailto:zhenghaomian@huawei.com)
 
 ## Current Routing Area Directorate Membership 
 
