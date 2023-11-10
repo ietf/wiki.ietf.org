@@ -2,7 +2,7 @@
 title: Routing Area Wiki
 description: 
 published: true
-date: 2023-11-10T08:57:38.705Z
+date: 2023-11-10T08:58:15.889Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T05:24:30.144Z
@@ -25,7 +25,7 @@ John is affiliated with Juniper Networks
 Jim Guichard
 [IESG biography](https://datatracker.ietf.org/person/james.n.guichard@futurewei.com)
 Jim is affiliated with Futurewei Technologies
-
+&nbsp;
 
 <img src="https://www.ietf.org/lib/dt/media/photo/Andrew-Alston_GERYWEW.jpg" alt="Andrew" height="150"/>
 
