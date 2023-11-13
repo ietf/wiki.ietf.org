@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-11-07T00:55:16.675Z
+date: 2023-11-13T16:09:53.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -12,8 +12,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## Implementation Reports for Drafts in queue of RFC editor
  - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
  - [draft-ietf-idr-RFC7752bis implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
-  - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode)
-  -  [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement)
+ -  [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement)
 
 ## Implementation report for drafts at IESG
 
@@ -104,6 +103,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgp-ls-flex-algo implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-implement)
  - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
  - [draft-ietf-idr-RFC7752bis implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
-  - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode)
-
+  - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode) (RFC 9384)
+  
 *The content of this page was last updated on 2022-11-27. It was migrated from the old Trac wiki on 2023-03-12.*    
