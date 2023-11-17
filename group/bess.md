@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-11-02T07:39:16.664Z
+date: 2023-11-17T15:52:51.944Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -127,8 +127,9 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-evpn-fast-df-recovery (Matthew)
 	- Luc Andre replied to RTGDIR comments
-  - To sort out: can we keep marking it as updating RFC7432 ? (based on Adrian's comment) => need to recheck definition of "UPDATE" (Matthew)
-  - Poll on the list if they see any interop issues with legacy 7432 implementations.
+  - To sort out: can we keep marking it as updating RFC8584 ? (based on Adrian's comment) => need to recheck definition of "UPDATE" (Matthew)
+  - Poll on the list if they see any interop issues with legacy 8584 implementations concluded with no concerns raised.
+  - Action: Proceed with shepherds write up (Matthew)
 
 
 ## Documents that failed Working Group Last Call 
