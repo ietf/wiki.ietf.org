@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-11-20T18:23:26.518Z
+date: 2023-11-22T10:51:47.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,6 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks |
 | --- | --- | --- | 
+|     |     |     |
 
 
 ## Queued for WG Adoption Poll
@@ -27,7 +28,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-
+|     |     |     |     |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -35,7 +36,7 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair |
 | --- | --- | --- | --- |
-
+|     |     |     |     |
 
 ## MPLS WG Documents
 
@@ -47,6 +48,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks |
 | --- | --- | --- | 
+|     |     |     |
 
 
 ## Queued for WG Last Call
@@ -57,6 +59,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |  
 
 
 ## Working Group Last Call Completed Pending Author Action
@@ -65,7 +68,8 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 | --- | --- | --- | --- |
-
+| 2023-11-03 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | Significant updates after review | Adrian |
+|     |     |     |     |  
 
 ## Post Working Group Last Call
 
