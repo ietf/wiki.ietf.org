@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-11-24T16:08:22.888Z
+date: 2023-11-25T05:24:47.870Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,10 +33,10 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | Julien |
-| draft-peng-pce-entropy-label-position | Pending | - | - |
-| draft-peng-pce-stateful-pce-autobw-update | Pending | - | - |
+| draft-peng-pce-entropy-label-position | Pending | - | Dhruv |
+| draft-peng-pce-stateful-pce-autobw-update | Pending | - | Julien |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
-|draft-sidor-pce-circuit-style-pcep-extensions|Pending|-|-| 
+|draft-sidor-pce-circuit-style-pcep-extensions|Pending|-|Dhruv| 
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
 | [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors | - |  
 | draft-chen-pce-sr-mpls-sid-verification | Pending | Coordinate with SRv6 draft for IANA allocation | - |
