@@ -2,7 +2,7 @@
 title: Contact Details for the Routing Area Directorate
 description: 
 published: true
-date: 2023-05-25T10:09:33.358Z
+date: 2023-11-28T18:37:14.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:03:56.374Z
@@ -10,20 +10,11 @@ dateCreated: 2022-12-21T23:03:56.374Z
 
 # Contact Details for the Routing Area Directorate 
 
-## Routing Area Directors 
+## Personnel
 
-Contact the [Routing ADs](mailto:rtg-ads@tools.ietf.org)
+The [Routing Area Directorate Datatracker Page](https://datatracker.ietf.org/group/rtgdir/about/) lists the Routing Area Directorate Coordinators (called "Chairs" on that page), and Directorate members (called "reviewers" on that page).
 
-Or contact them direct:
- * Andrew Alston
- * John Scudder
- * Jim Guichard
-
-## Routing Directorate Coordinators 
-
-The Routing Area Directorate is coordinated by:
- * Haomian Zheng (zhenghaomian at huawei . com)
- * Luc Burdet (lburdet at cisco . com)
+The [Routing Area Datatracker Page](https://datatracker.ietf.org/wg/#RTG) lists the Routing Area Directors (ADs). 
 
 ## Mailing List 
 
