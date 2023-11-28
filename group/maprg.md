@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2023-08-02T18:52:15.858Z
+date: 2023-11-28T16:13:05.366Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -15,6 +15,19 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### November 2023 (Prague) [YouTube](https://youtu.be/XHls8PvCVws?t=1m30s) [intro slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-chairs-welcome)
+
+
+- QUIC(k) Enough in the Long Run? Sustained Throughput Performance of QUIC Implementations [YouTube](https://youtu.be/XHls8PvCVws?t=5m20s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-sustained-throughput-performance-of-quic-implementations), Roland Bless, November 2023
+- Dissecting Performance of Production QUIC [YouTube](https://youtu.be/XHls8PvCVws?t=17m20s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-dissecting-performance-of-production-quic), Theo Benson, November 2023
+- Using the Spin Bit and ECN with QUIC: Adoption and Challenges in the Wild [YouTube](https://youtu.be/XHls8PvCVws?t=31m58s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-using-the-spin-bit-and-ecn-with-quic-adoption-and-challenges-in-the-wild), Ike Kunze & Constantin Sander, November 2023
+- Transparent Forwarders: An Unnoticed Component of the Open DNS Infrastructure [YouTube](https://youtu.be/XHls8PvCVws?t=51m25s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-transparent-forwarders-an-unnoticed-component-of-the-open-dns-infrastructure), Maynard Koch, November 2023
+- Characterizing Open DNS Resolver (Mis)behavior for DNSSEC Queries [YouTube](https://youtu.be/XHls8PvCVws?t=1h0m33s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-unresolved-issues-characterizing-open-dns-resolver-misbehavior-for-dnssec-queries), Sudheesh Singanamalla, November 2023
+- RoVista: Measuring and Analyzing the Route Origin Validation (ROV) in RPKI [YouTube](https://youtu.be/XHls8PvCVws?t=1h15m45s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-rovista-measuring-and-analyzing-the-route-origin-validation-rov-in-rpki-weitong-li), Weitong Li, November 2023
+- Adaptive Address Family Selection for Latency-Sensitive Applications on Dual-stack Hosts [YouTube](https://youtu.be/XHls8PvCVws?t=1h28m28s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-address-family-matters-in-end-to-end-latency), Maxime Piraux, November 2023
+- IPv6 Hitlist: Dusting and Updates [YouTube](https://youtu.be/XHls8PvCVws?t=1h43m4s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-ipv6-hitlist-dusting-and-updates), Johannes Zirngibl, November 2023
+- I Tag, You Tag, Everybody Tags! [YouTube](https://youtu.be/XHls8PvCVws?t=1h52m11s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-i-tag-you-tag-everybody-tags), Yasir Zaki, November 2023
 
 ### July 2023 (San Francisco) [YouTube](https://youtu.be/K-Lm-RywPX4?t=2m28s) [intro slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-maprg-chairs-intro)
 
