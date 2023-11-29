@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2023-05-12T13:23:25.543Z
+date: 2023-11-29T23:23:14.045Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -17,7 +17,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Remote Participation 
 
-https://ietf.webex.com/meet/cmm
+TBD
 
 
 
@@ -247,33 +247,8 @@ The IESG chair and IAB chair will review this list short before the retreat and 
 
 | Name        | Arrival    | Departure  | Dinner 2023-05-10? | Hotel |
 | :---        |   :----:   |    :----:  | :----:  |:----: |
-| Cindy M     | 2023-05-07 | 2023-05-13 | Yes     | |
-| Liz F       | 2023-05-07 | 2023-05-12 | Yes     | |
-| John S      | 2023-05-08 (flight arrives 10:21 a.m.) | 2023-05-11 | Yes | Renaissance |
-| Martin D    |   N/A      |    N/A     |    ?    | |
-| Jiankang Yao | 2023-05-07 | 2023-05-13 | Yes     | citizenM Seattle Pioneer Square |
-|Colin Perkins  | 2023-05-09 | 2023-05-13 | Yes     | Crowne Plaza Seattle-Downtown |
-|David Schinazi | 2023-05-09 21:27 | 2023-05-13 14:50 | Yes  | Crowne Plaza Seattle Downtown |
-|Dhruv Dhody | 2023-05-08 (13:25)| 2023-05-13 | Yes | Crowne Plaza Seattle Downtown |
-|Qin Wu      | 2023-05-08 15:30 | 2023-05-13 | Yes | Crowne Plaza Seattle Downtown |
-|Rob W        | Sat 6th (13:55) | Thu 11th (16:25) | Yes | Crowne Plaza Seattle Downtown |
-|Éric Vyncke|2023-05-06 21:02|2023-05-11 07:00| Yes | Crowne Plaza Seattle Downtown |
-| Zaheduzzaman Sarker | 2023-05-07 | 2023-05-12 | Yes | Courtyard Marriott downtown |
-|Jim Guichard | 2023-05-07 | 2023-05-11 | Yes     | Renaissance
-|  Roman D    | 2023-05-07 | 2023-05-12 | Yes     | |
-|  Lars           | 2023-5-7           |   2023-5-12         |  Yes        | Kimpton Vintage |
-|    Mrja         | 2023-5-6  | 2023-5-13   | Yes        | Courtyard
-| His Supreme Highness, Warren  | 2023-5-7 | 2023-5-11 | Yes        | Renaissance| 
-| Tommy Pauly | 2023-05-09 | 2023-05-12 | Maybe (if earlier) | W Hotel
-| Paul Wouters|2023-05-06 20:37|2023-05-12 22:30| Yes | Crowne Plaza Seattle
-| Mallory Knodel|2023-05-10 14:17            |2023-05-13 12:52            |Yes         |Theodore
-| Wes Hardaker    | 2023-05-10 11:00 | 2023-05-12  19:35     | Yes        | Courtyard
-| Cullen Jennings | 2023-05-09 12:00 | 2023-05-12  08:00     | yes        | Fairmont
-| Chris Wood | 2023-05-09 | 2023-05-13     | yes        | 
-| Karen O'Donoghue | 2023-05-09 | 2023-05-13 | yes  | Courtyard Downtown
-| Alvaro | 2032-05-09 | 2023-05-12 (AM) | Yes | Hilton Seattle
-| Suresh Krishnan | 2023-05-09 (15:50)| 2023-05-11 (22:30) | Yes | Crowne Plaza Seattle Downtown |
-| Erik Kline | 2023-05-08 | 2023-05-12 | Yes | Kasa The Oxford Apartments Seattle |
+| Cindy M     |   |  |      | |
+| Liz F       |  |  |      | |
 
 
 
