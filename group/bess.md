@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-11-29T12:10:37.170Z
+date: 2023-11-29T16:08:56.560Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -102,8 +102,12 @@ Shepherd's name indicated within parenthesis.
  
 * draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
 
+ draft-ietf-bess-evpn-fast-df-recovery (Matthew)
+  - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
 
-## Documents under Shepherd's review
+
+## Documents under Shepherds Review
+
 
 - draft-ietf-bess-evpn-redundant-mcast-source (Mankamana)
 	- Jorge replied to RTGDIR review and addressed comments
@@ -125,11 +129,7 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-geneve: (Matthew)
   - Waiting for implementation
 
-- draft-ietf-bess-evpn-fast-df-recovery (Matthew)
-	- Luc Andre replied to RTGDIR comments
-  - To sort out: can we keep marking it as updating RFC8584 ? (based on Adrian's comment) => need to recheck definition of "UPDATE" (Matthew)
-  - Poll on the list if they see any interop issues with legacy 8584 implementations concluded with no concerns raised.
-  - Action: Proceed with shepherds write up (Matthew)
+-
 
 
 ## Documents that failed Working Group Last Call 
