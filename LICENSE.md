@@ -1,4 +1,1 @@
-The content of https://authors.ietf.org is copyright IETF Trust and licensed
-under a Creative Commons Attribution 4.0 International License (CC BY 4.0). 
-Details of this license can be found at 
-  https://creativecommons.org/licenses/by/4.0/
+The content of https://wiki.ietf.org are considered Contributions to the IETF as detailed in BCP 78 (https://www.rfc-editor.org/rfc/rfc5378).  These contents are copyright IETF Trust and licensed under the IETF Trust Legal Provisions (https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/).
