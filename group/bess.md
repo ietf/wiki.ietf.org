@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-11-17T15:52:51.944Z
+date: 2023-11-29T09:27:35.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -168,7 +168,7 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-multicast
 
-
+* draft-ietf-bess-evpn-mvpn-seamless-interop
  
 
 ## Recently adopted documents
@@ -185,6 +185,9 @@ Shepherd's name indicated within parenthesis.
 * draft-sajassi-bess-evpn-ip-aliasing: (Jeffrey) -> Beg of October
  - Significant discussions happened, document is probably ready for adoption
  
+* draft-mpmz-bess-mup-safi:
+ - implementation/prototype exists, authors would like to move forward
+ 
 * draft-thubert-bess-secure-evpn-mac-signaling
  - Few discussion happened, hard to evaluate interest. Authors addressed comments.
  - Hold on
@@ -200,6 +203,9 @@ Shepherd's name indicated within parenthesis.
   - will require joint calls with SPRING
 * draft-kaliraj-bess-bgp-sig-private-mpls-labels
   - Needs MPLS and IDR review
+
+* draft-mackenzie-bess-evpn-l3mh-proto
+
 
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
