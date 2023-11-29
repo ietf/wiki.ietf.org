@@ -2,7 +2,7 @@
 title: Annual-calendar
 description: This is a high level calendar of IAB events over the course of a typical year.
 published: true
-date: 2023-11-29T23:06:02.499Z
+date: 2023-11-29T23:06:31.164Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T23:06:02.499Z
@@ -25,10 +25,10 @@ This is a high level calendar of IAB events over the course of a typical year. A
 ## March
 
 - IETF Meeting #1
--    New IAB members seated
--    IAB Chair selected / re-confirmed
--   IAB Exec Dir selected / re-confirmed
--   IAB Liaison to the IESG selected / re-confirmed
+ -   New IAB members seated
+ -   IAB Chair selected / re-confirmed
+ -   IAB Exec Dir selected / re-confirmed
+ -   IAB Liaison to the IESG selected / re-confirmed
 - ISOC BOT #4: New IAB finalizes candidate selection
 ## April
 
