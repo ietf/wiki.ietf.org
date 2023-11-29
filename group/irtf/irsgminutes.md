@@ -2,7 +2,7 @@
 title: IRSG Teleconference Minutes
 description: 
 published: true
-date: 2023-10-27T13:31:22.892Z
+date: 2023-11-29T15:24:27.758Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
@@ -10,11 +10,9 @@ dateCreated: 2023-02-27T17:52:35.934Z
 
 # IRSG Teleconference Minutes 
  ## 2023
-  * [2023-10-24](https://wiki.ietf.org/en/group/irtf/irsgminutes/2023-10-24)
- 	* Okay from: 
-  	Dave Oran (fixed some typos)
-    Ignacio Castro (fixed some typos, clarified references to his comments)
-    Colin Perkins (one clarification: hope to send hrpc-guidelines for IESG conflict review before Prague; the review won't be completed by then)
+ * [2023-11-28](https://wiki.ietf.org/en/group/irtf/irsgminutes/2023-11-28)
+  	* Okay from: 
+ * [2023-10-24](https://wiki.ietf.org/en/group/irtf/irsgminutes/2023-10-24)
  * [2023-09-26](https://wiki.ietf.org/en/group/irtf/irsgminutes/2023-09-26)
  * [2023-08-29](https://wiki.ietf.org/group/irtf/irsgminutes/2023-08-29)    
  * [2023-06-27](https://wiki.ietf.org/group/irtf/irsgminutes/2023-06-27)
