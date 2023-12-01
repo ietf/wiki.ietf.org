@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-11-13T10:32:06.237Z
+date: 2023-12-01T10:47:16.826Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -19,7 +19,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|Early Code Point|draft-ietf-pce-sr-bidir-path|Julien|Waiting for John|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
 | Adoption | draft-chen-pce-bier | Dhruv | Make sure authors make the update with name change |
 | WGLC | draft-ietf-pce-pceps-tls13-01 | Andrew | Make sure ready to send to AD |
@@ -33,6 +32,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Early Code Point|draft-ietf-pce-sr-bidir-path|Julien|-|
 |Early Code Point|draft-ietf-pce-pcep-color|Dhruv|-|
 | Last Push | draft-ietf-pce-segment-routing-ipv6 | -| Hari is Shepherd | 
 | Early Allocation for SID ALGO | draft-ietf-pce-sid-algo | Dhruv | - |
