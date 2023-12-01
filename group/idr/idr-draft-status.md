@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-12-01T14:58:35.036Z
+date: 2023-12-01T17:24:23.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -91,13 +91,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## WG LC Pending
 
-| draft | Shepherd     |  implementation status    |  Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA               |
-|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-sr-policy-fit-07         |  Susan Hares  |  Implementation report   |  draft -07 + IPR report  | TBD | TBD      |  7/25      |
-| draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | Need implementation report         |  WG LC    |   TBD   |  TBD |  7/25  
-|  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  |  Awaiting -03 revision    |  WG LC    |  TBD   |  TBD        |  TBD       |
-|  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2   |  WG LC resolution      |  2nd WG LC      |  7/24/2023    |  6/24 to 7/24 | 7/24/2023 | 
-|  draft-ietf-idr-bgp-car |  Susan Hares  | 2   |  WG LC resolution     |  2nd WG LC       |  7/24/2023    |  7/10 to 7/24 | 7/24/2023 |
+| draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
+|---|---|---|---|---|---|---|---|---|---|
+|  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2 (juniper, x) | 1st WGLC resolve | 2nd WG LC | 12/5-12/19 | 2 weeks | 12/22/2023 |  1st WG LC 6/24-7/24 |  
+|  draft-ietf-idr-bgp-car |  Susan Hares  | 2 (cisco, arrcus) | 1st WG LC resolve  | 2nd WG LC  | 12/12/23-1/4/2024    | 1/4/2024 | 1st WG LC 7/10-7/24 |
+|  draft-ietf-idr-sr-policy-fit-07|  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
+| draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | 1 (Huawei) | Await Implementation report |  WG LC  | TBD  |  TBD |  TBD   | --- | 
+|  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  | 3 (juniper, nokia, x) |  WG LC (-03)  |  TBD   |  TBD  |  TBD    | Need version -03 | 
 {.dense}
 
 ## Adopted
@@ -108,7 +108,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-zhou-idr-bgp-srmpls-elp-08  |  Susan Hares | adopted  |  upload document  | 5/26    |  1/27 to 3/8     |  TBD    |
 {.dense}
 
-## In WG Adoption Process (WG chair review/edits )
+## In WG Adoption Process (hold WG chair review/edits )
 |  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
 |  draft-dong-idr-sr-policy-nrp-01   |  Susan Hares  |  Held for TEAS WG  |  uploaded        |  3/1 to 3/28      |  3/17           |  5/26   |
@@ -144,7 +144,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## Flow Specification v2 drafts
 | draft                           | Shepherd       |   status      |  Next step        |  ETA   |  IPR Check   |
 |---------------------------------|----------------|---------------|-------------------|--------|--------------|
-|  draft-ietf-idr-flowspec-l2vpn  |  Susan Hares   |  FSv2 Review  |  implementations  |  TBD   |              |
+|  draft-ietf-idr-flowspec-l2vpn  |  Susan Hares   |  FSv2 Review | implementations  |  TBD   |              |
 |  draft-ietf-idr-flowspec-nv03   |  Susan Hares   |  FSv2 Review  |  implementations  |  TBD   |              |
 |  draft-ietf-idr-flowspec-srv6   |  Susan Hares   |  FSv2 Review  |  implementations  |  TBD   |              |
 {.dense}
