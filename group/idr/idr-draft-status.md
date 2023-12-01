@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-11-07T06:33:50.955Z
+date: 2023-12-01T14:58:35.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -17,13 +17,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
   | | |
 | [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/rfc9351/) | Jie Dong  |[RFC9351](https://datatracker.ietf.org/doc/rfc9351/) | Published | 2-22-2023 | Nov-17-2020 | 827 days |
 | [draft-ietf-idr-bfd-subcode](https://datatracker.ietf.org/doc/rfc9384)  |  Keyur Patel | [RFC9384](https://datatracker.ietf.org/doc/rfc9384)  | Published  | 3-24-2023 | Sep-10-2022      |  195 days |  
+|  [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/rfc9294/)  |  Jeff Haas | [RFC9294](https://datatracker.ietf.org/doc/rfc9294/)  | Published  |  Nov-29-2023  |  Nov-10-2022  | 385 days |   
 {.dense}
 
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
-|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  |   Auth-48 |  RFC9514  |  Nov-17-2020        |  May-21-2021   |  Feb-17-2023         | 262 days  |  1081 days   | Oct-30-2023 (7 days) | 
-|  draft-ietf-idr-long-lived-gr |  Jeff Haas    |  Auth-48  |  RFC9494  |  Nov-01-2022  |  Dec-30-2022  |  Aug-10-2023 | 88 days  | 354 days | 10-2-2023 |   
+|  draft-ietf-idr-bgpls-srv6-ext  |  Susan Hares  | Auth-48 done |  RFC9514  |  Nov-17-2020        |  May-21-2021   |  Feb-17-2023    | 262 days  |  1081 days   | Oct-30-2023 (7 days) | 
 |  draft-ietf-idr-rfc7752bis   |  Jeff Haas    |  RFC-editor  |  Auth-48    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023         |  251 days (hold off 10/26)  |  822 days     | TBD | 
 {.dense}
 
