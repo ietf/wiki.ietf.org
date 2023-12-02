@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-11-29T16:08:56.560Z
+date: 2023-12-02T22:55:36.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -71,16 +71,14 @@ This section lists actions other than document updates
 
 * draft-ietf-bess-evpn-bum-procedure-updates) (MISSREF – waiting on draft-ietf-bess-evpn-aggregation-label)
 * draft-ietf-bess-evpn-optimized-ir (MISSREF – waiting on draft-ietf-bess-evpn-bum-procedure-updates)
-* draft-ietf-bess-evpn-lsp-ping 
+* draft-ietf-bess-evpn-lsp-ping
+* draft-ietf-bess-mvpn-evpn-aggregation-label
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
 * draft-ietf-bess-evpn-irb-mcast (Mankamana):
 	- AD evaluation not done
-* draft-ietf-bess-mvpn-evpn-aggregation-label (Stephane)
-	- Jeffrey addressed comments from directorates
-	- AD to move fwd
 * draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
 	- 2nd last call passed
 	- Authors have fixed grammar issues (shepherd's write up will need update as well).
@@ -102,7 +100,7 @@ Shepherd's name indicated within parenthesis.
  
 * draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
 
- draft-ietf-bess-evpn-fast-df-recovery (Matthew)
+* draft-ietf-bess-evpn-fast-df-recovery (Matthew)
   - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
 
 
@@ -165,8 +163,11 @@ Shepherd's name indicated within parenthesis.
   
 
 * draft-ietf-bess-bgp-multicast-controller
+  - GenArt early review passed
+  - RtgDir early review comments being addressed
 
 * draft-ietf-bess-bgp-multicast
+  - GenArt and RtgDir early review passed ( revision -07)
 
 * draft-ietf-bess-evpn-mvpn-seamless-interop
  
@@ -174,6 +175,7 @@ Shepherd's name indicated within parenthesis.
 ## Recently adopted documents
 
 * draft-ietf-bess-bgp-srv6-args-00
+* https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-ip-aliasing/
 
 
 ## Documents candidates for Working Group adoption
@@ -193,11 +195,10 @@ Shepherd's name indicated within parenthesis.
  - Hold on
 
 * draft-duan-bess-mvpn-ipv6-infras
-* draft-wang-bess-mvpn-upstream-df-selection
 * draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
   - the above two should be considered together
   - Action: Matthew and Stephane to review both and come with a conclusion
-  
+* draft-wang-bess-mvpn-upstream-df-selection  
 * draft-burdet-bess-evpn-fast-reroute:
 	- no active discussion
   - will require joint calls with SPRING
