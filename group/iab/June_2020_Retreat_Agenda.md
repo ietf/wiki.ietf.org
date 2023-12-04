@@ -2,7 +2,7 @@
 title: June 2020 Retreat Agenda
 description: 
 published: true
-date: 2023-12-04T19:49:56.741Z
+date: 2023-12-04T22:57:42.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T19:49:56.741Z
@@ -35,7 +35,7 @@ dateCreated: 2023-12-04T19:49:56.741Z
 ### Tuesday, 2020-06-02
 
 * 0430-0600 UTC: Breakout: Strategic/long-term issues] (1 of 2) 
-  * ([see the doc]([https://docs.google.com/document/d/1PZdxRJE1gIO_y-mzR0-b-QNEBToMXcZrkb5bLcu43cg/edit)) or the wiki [2020 Retreat: Mission of the IAB: strategic/long term issues of the Internet](/group/iab/2020_Retreat:_Mission_of_the_IAB:_strategic/long_term_issues_of_the_Internet)
+  * ([see the doc]([https://docs.google.com/document/d/1PZdxRJE1gIO_y-mzR0-b-QNEBToMXcZrkb5bLcu43cg/edit)) or the wiki [2020 Retreat: Mission of the IAB: strategic/long term issues of the Internet](/group/iab/2020_Retreat_Mission_of_the_IAB_strategic_long_term_issues_of_the_Internet)
 
 * 0700-0730 UTC: IAB/IESG Coffee Break/Happy Hour (Europe, China, Australia)
 
@@ -46,7 +46,7 @@ dateCreated: 2023-12-04T19:49:56.741Z
 ### Wednesday, 2020-06-03
 
 * 1400-1500 UTC: Breakout: Mission of the IAB: Strategic/long-term issues] (2 of 2) 
-  * (see the wiki at [2020 Retreat: Mission of the IAB: strategic/long term issues of the Internet](/group/iab/2020_Retreat:_Mission_of_the_IAB:_strategic/long_term_issues_of_the_Internet))
+  * (see the wiki at [2020 Retreat: Mission of the IAB: strategic/long term issues of the Internet](/group/iab/2020_Retreat_Mission_of_the_IAB_strategic_long_term_issues_of_the_Internet))
   * Breakout group: Zhenbin Li*, Jari*, Wes, Jiankang Yao, Colin, Karen, Mirja, Mark, Jared, Jeff*
   * [Google doc](https://docs.google.com/document/d/1PZdxRJE1gIO_y-mzR0-b-QNEBToMXcZrkb5bLcu43cg/edit)
 
