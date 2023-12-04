@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-12-02T23:00:40.815Z
+date: 2023-12-04T19:57:55.886Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -97,12 +97,14 @@ Shepherd's name indicated within parenthesis.
 	- Numerouse DISCUSS and other comments from IESG
   - Sent back to WG due to boilerplate issue requiring new adoption and WG LC.
   - New WG Adoption and WG LC passed. Resubmitted to IESG.
- 
+
 * draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
 
 * draft-ietf-bess-evpn-fast-df-recovery (Matthew)
   - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
-
+  
+* draft-ietf-bess-evpn-mh-split-horizon (Jeffrey)
+  - requested GenArt early review
 
 ## Documents under Shepherds Review
 
@@ -114,10 +116,6 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-mh-pa (Stephane)
   - Chair review done and document updated
   - GEN ART review requested, then write-up will be done
-
-- draft-ietf-bess-evpn-mh-split-horizon (Jeffrey)
-  - RTGDIR review comments addressed
-  - Shepherd review comments out to be addressed
 
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
   - the document has a lot of normative dependencies that are not ready yet
