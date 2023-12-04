@@ -2,7 +2,7 @@
 title: IAB Retreats
 description: 
 published: true
-date: 2023-11-29T23:11:51.815Z
+date: 2023-12-04T23:30:16.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T23:11:51.815Z
