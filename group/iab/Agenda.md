@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2023-12-04T23:36:48.294Z
+date: 2023-12-04T23:38:12.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -116,12 +116,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > 
 >    • A Vision Statement for the Internet (Mallory, Mirja)
 > 
->      Open action item:
+>    Open action item:
 > 
->      • 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a
->        document outlining the architectural principles that the IAB
->        thinks are important and need to be understood when
->        considering Internet governance.
+>    • 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a
+>      document outlining the architectural principles that the IAB
+>      thinks are important and need to be understood when
+>      considering Internet governance.
 > 
 > 
 > 1.6. WG Chartering in Progress (Initial Charters Only)
@@ -244,7 +244,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Past Teleconferences 
 
-* [023 Teleconferences - Datatracker](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
+* [2023 Teleconferences - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
 * [2022 Teleconferences](/group/iab/2022_Teleconferences)
 * [2021 Teleconferences](/group/iab/2021_Teleconferences)
 * [2020 Teleconferences](/group/iab/2020_Teleconferences)
