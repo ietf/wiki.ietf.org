@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-12-04T17:40:22.079Z
+date: 2023-12-04T19:47:37.727Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,7 @@ Please use your best judgement to add new items into one of the categories below
 #### Urgent and important
 
 * NomCom confirmations (Lars, exec session)
+* IESG appointment to the Trust (Cindy)
 
 #### Urgent but not important
 
