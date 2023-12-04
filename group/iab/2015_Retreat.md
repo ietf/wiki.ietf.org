@@ -2,7 +2,7 @@
 title: 2015 Retreat
 description: 
 published: true
-date: 2023-12-04T23:29:27.697Z
+date: 2023-12-04T23:29:57.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:29:27.697Z
@@ -139,7 +139,7 @@ The schedule for the IAB and IESG events are:
 
 ## All Retreat Archives 
 
-* [[IAB Retreats]]
+* [IAB Retreats](/group/iab/IAB_Retreats)
 
 &nbsp;
 &nbsp;
