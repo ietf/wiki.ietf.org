@@ -2,7 +2,7 @@
 title: 2020 Retreat
 description: 
 published: true
-date: 2023-12-04T19:41:01.386Z
+date: 2023-12-04T20:58:48.977Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T19:41:01.386Z
@@ -39,7 +39,7 @@ For the full retreat agenda, please see [June 2020 Retreat Agenda](/group/iab/Ju
 
 * Breakout group: Zhenbin, Jari (Lead), Wes, Jiankang, Colin, Karen, Mirja, Mark, Jared, Jeff
 * [Notes](https://docs.google.com/document/d/1PZdxRJE1gIO_y-mzR0-b-QNEBToMXcZrkb5bLcu43cg/edit)
-* Wiki page: [2020 Retreat: Mission of the IAB: strategic/long term issues of the Internet](/group/iab/2020_Retreat:_Mission_of_the_IAB:_strategic/long_term_issues_of_the_Internet)
+* Wiki page: [2020 Retreat: Mission of the IAB: strategic long term issues of the Internet](/group/iab/2020_Retreat_Mission_of_the_IAB_strategic_long_term_issues_of_the_Internet)
 
 ### 6. Technical factors related to deployment of increased security
 
