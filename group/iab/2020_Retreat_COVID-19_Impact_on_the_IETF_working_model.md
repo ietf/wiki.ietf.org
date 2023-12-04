@@ -2,7 +2,7 @@
 title: 2020 Retreat COVID-19 Impact on the IETF working model
 description: 
 published: true
-date: 2023-12-04T22:55:17.697Z
+date: 2023-12-04T22:55:59.066Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T22:55:17.697Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T22:55:17.697Z
 * increase in nationalism may lead to less interoperability desire
 * Remote chatham house
 * not the only org going through these things, we have liason relationships that may change
-** we already have a reputation for being slow
+     *  we already have a reputation for being slow
 
 ## Summary of the discussion 
 
