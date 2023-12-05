@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2023-12-05T20:10:52.287Z
+date: 2023-12-05T20:20:58.010Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
