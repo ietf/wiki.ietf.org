@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-12-05T14:11:45.691Z
+date: 2023-12-05T16:54:49.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -49,7 +49,7 @@ The authors have indicated to the chairs that they consider these documents read
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
 | IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |   | Tarek |  
-| IETF-117 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) |   |  None |
+| IETF-117 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Check for relationship with MNA |  None |
 | IETF-117 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) |  | Nic |
 
 ## Queued for WG Last Call
