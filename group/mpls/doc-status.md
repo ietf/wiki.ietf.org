@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-12-05T13:59:26.667Z
+date: 2023-12-05T14:11:45.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -46,10 +46,11 @@ Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working gr
 
 The authors have indicated to the chairs that they consider these documents ready for working group last call. The chairs will look at these I-Ds, discuss them, and either tell the authors what issues exist or will move the documents to the next status.
 
-| Date | Draft | Remarks |
-| --- | --- | --- | 
-|     |     |     |
-
+| Date | Draft | Remarks | Shepherd |
+| --- | --- | --- | --- |
+| IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |   | Tarek |  
+| IETF-117 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) |   |  None |
+| IETF-117 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) |  | Nic |
 
 ## Queued for WG Last Call
 
@@ -61,10 +62,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | --- | --- | --- | --- | --- | --- |
 | IETF-116 | [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/) |  | -05 Michael Richardson, Ready. Nits fixed in -06 |  | Mach |
 | IETF-116 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) |   | -06 Stewart Bryant, not ready. -08 Sasha Vainshtein, pending |    | Tarek |
-| IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |     |     |     | Tarek |  
 | IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) |   | Jeffrey Zhang 2023-08-09 Has issues |  | Tarek |
-| IETF-117 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) |   |   |   | None |
-| IETF-117 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) |  |  |  | Nic |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) |   |   | Pending Requirements I-D | Tarek |
 
 
