@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-12-04T19:51:41.306Z
+date: 2023-12-05T18:53:02.351Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -59,6 +59,7 @@ Please use your best judgement to add new items into one of the categories below
 
 * Chair training (Lars)
 * Review of suggestion actions that emerged from Report on Experience of Women Participating in IETF (Alexa)
+* Administrators of non-WG mailing lists being available per [IESG Statement on Disruptive Posting](https://www.ietf.org/about/groups/iesg/statements/disruptive-posting/) (Roman)
 
 #### Not important and not urgent
 
