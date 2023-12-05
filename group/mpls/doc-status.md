@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-12-05T17:03:51.282Z
+date: 2023-12-05T17:44:57.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -64,7 +64,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | IETF-116 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) |   | -06 Stewart Bryant, not ready. -08 Sasha Vainshtein, pending |    | Tarek |
 | IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) |   | Jeffrey Zhang 2023-08-09 Has issues |  | Tarek |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) |   |   | Pending Requirements I-D | Tarek |
-
+| 2023-12-05 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) |  |  | Going for YANG Dr review | Tarek |
 
 ## Working Group Last Call Completed Pending Author Action
 
