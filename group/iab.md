@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2023-12-05T00:22:15.550Z
+date: 2023-12-05T00:36:10.990Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
