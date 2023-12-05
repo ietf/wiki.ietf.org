@@ -2,7 +2,7 @@
 title: Planning a Plenary
 description: 
 published: true
-date: 2023-12-05T22:50:34.949Z
+date: 2023-12-05T22:51:22.132Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T22:50:34.949Z
@@ -30,7 +30,7 @@ We need to be able to present a diverse set of (not only technical) viewpoints t
   - To highlight and promote work within or adjacent the IETF and bring it to the attention of the wider community
 - Each plenary program must have a showrunner.
   - This should be a member of the IAB.
-  - This is not necessarily one of the chairs of the plenary planning program (hint, hint)
+  - This is not necessarily one of the chairs of the plenary planning program (**hint, hint**)
 - Think about timing. Sixty minutes for a full program including discussion should be the upper bound. The expected timing for the technical plenary program should be made explicit in the agenda for the full plenary.
   - Note that the March plenary meeting often runs long anyway, due to IAB/IESG turnover; consider scheduling shorter (or no) topics for these meetings.
   - Consider scheduling an intermission between administrative and technical parts of the plenary.
