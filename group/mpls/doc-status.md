@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-11-22T10:51:47.578Z
+date: 2023-12-05T13:12:02.876Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -59,7 +59,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |  
+| IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |     |     |     | Tarek |  
 
 
 ## Working Group Last Call Completed Pending Author Action
