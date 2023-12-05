@@ -2,7 +2,7 @@
 title: Agenda118
 description: 
 published: true
-date: 2023-12-05T00:27:46.614Z
+date: 2023-12-05T00:28:52.325Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T00:27:46.614Z
@@ -45,7 +45,7 @@ Agenda:
 
 ## Tuesday, 2023-11-07
 
-**0800-0920 Prague: IAB Business Meeting (Room: Florenc 1/2) **
+**0800-0920 Prague: IAB Business Meeting (Room: Florenc 1/2)**
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1003
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1003
@@ -60,11 +60,11 @@ Agenda:
 
 ## Wednesday, 2023-11-08
 
-**1700-1900 Prague: IETF 118 Plenary (Room: Congress Hall 1/2) **
+**1700-1900 Prague: IETF 118 Plenary (Room: Congress Hall 1/2)**
 
 ## Thursday, 2023-11-09
 
-**0800-0920 Prague: IAB Business Meeting (Room: Florenc 1/2) **
+**0800-0920 Prague: IAB Business Meeting (Room: Florenc 1/2)**
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1005
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1005
@@ -87,7 +87,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 * Meetecho: https://meetings.conf.meetecho.com/ietf118/?session=1006
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite118/?session=1006
 
-**1830 Prague: IAB-ISOC Joint Dinner (Location: SIA, V Celnici 1034/6, 110 00 Praha)
+**1830 Prague: IAB-ISOC Joint Dinner (Location: SIA, V Celnici 1034/6, 110 00 Praha)**
 
 RSVP: Please email your RSVP and any dietary restrictions/allergies to terrell@isoc.org by no later than Friday, 3 November 2023.
 
