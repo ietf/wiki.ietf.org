@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-12-05T13:43:26.271Z
+date: 2023-12-05T13:56:17.295Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -75,7 +75,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 | --- | --- | --- | --- |
 | 2022-12-22 | [draft-ietf-mpls-sr-epe-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-sr-epe-oam/) | Updated after last call. Pending implementation | Tarek |
 | 2023-11-03 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | Significant updates after review. Will require 2nd WGLC | Adrian |
-|     |     |     |     |  
+| 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24 | Nic |
 
 ## Post Working Group Last Call
 
