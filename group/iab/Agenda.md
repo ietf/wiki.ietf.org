@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2023-12-05T00:20:45.686Z
+date: 2023-12-05T00:21:09.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -244,5 +244,5 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Past Teleconferences 
 
-* [2023 Teleconferences - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
+* [Past IAB Teleconferences - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
 
