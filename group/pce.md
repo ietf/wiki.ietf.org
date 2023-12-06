@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-12-01T19:20:52.477Z
+date: 2023-12-06T05:19:44.615Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -101,14 +101,14 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Waiting for authors to handle the shepherd review| IPR - 4/4 | Dhruv |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | WGLC Ended - new editorial update pending |IPR check done | Andrew |
+
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Submitted to IESG for Publication |  Sent to AD on 2023-09-08 | Hari |
-
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Submitted to IESG for Publication |IETF LC Ends 2023-12-19 | Andrew |
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
 
