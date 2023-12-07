@@ -2,7 +2,7 @@
 title: 2020 Retreat
 description: 
 published: true
-date: 2023-12-04T22:47:58.468Z
+date: 2023-12-07T20:44:47.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T19:41:01.386Z
