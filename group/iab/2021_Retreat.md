@@ -2,7 +2,7 @@
 title: 2021 Retreat
 description: 2021 IAB Retreat
 published: true
-date: 2023-12-04T18:44:41.137Z
+date: 2023-12-07T20:09:11.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T18:44:41.137Z
@@ -29,6 +29,63 @@ For the full retreat agenda, please see the IESG wiki
 - Living Standards (Cullen Jennings & Rob Wilton)
 - Next Steps for Technical Topics (Cullen Jennings)
 - IAB Technical Topics Summary for the IESG and IAB meeting (Jari Arkko)
+
+---
+
+# Agenda
+## Monday, April 26, 2021
+**Joint IAB and IESG Meeting 1400-1600 UTC**
+
+- 1400-1430: Introductions
+- 1430-1530: D&I: Focus on Inclusion: Have everyone's opinions been considered? (Russ + Alvaro)
+- 1530-1600 How to reach our community? (Mirja)
+
+**Joint IAB and IESG Social Time 1600-1630 UTC Webex**
+
+## Tuesday, April 27, 2021
+**IAB Only 1400-1600 UTC **
+
+- 1400-1430 Experience from one year online-only work: What was good? what was bad? Do we need to improve our social interactions? (Mirja)
+- 1430-1500 Liaison coordinator role (Mirja)
+- 1500-1600 How to improve our outreach? Do the right people know about the work we are doing? Do the right people come to IETF and bring their work? Do we know good enough what "others" are doing? (Deborah)
+- Extend IETF to Reach more (Jiankang)
+
+## Wednesday, April 28, 2021
+**Joint IAB and IESG Social Time 0800-0830 UTC**
+
+**Joint IAB and IESG Social Time 1330-1400 UTC**
+
+**IAB Only 1400-1600 UTC**
+
+- 1400-1500 What new technical work should the IETF take on and can the IAB help & Potential workshop topics and status thereof (Jari)
+- 1500-1600 Adding trust and consent to path signals / communication in a privacy-focused architecture -- AKA how to prepare networks for a world of DoH/ECH/MASQUE (Tommy)
+
+**Joint IAB and IESG Social Time 2300-2330 UTC**
+
+## Thursday, April 29, 2021
+**IAB Only 1400-1600 UTC**
+
+- 1400-1445 Addressing (some) centralization concerns via standards work -- case study based on DoH/ADD WGs (Tommy)
+- 1445-1530 Social Media Moderation (Ben)
+- 1530-1600 Parking Lot
+  - Wrap-up technical work: action items and next steps (Cullen)
+
+## Friday, April 30, 2021
+**Joint IAB and IESG Social Time 1330-1400 UTC** 
+**
+Joint IAB and IESG Meeting 1400-1600 UTC**
+
+- 1400-1430 Living Documents or any steps into that direction (like updating normative references to avoid blocking in the RFC editor queue) (Cullen + Rob?)
+- 1430-1530 Getting large/unfocused/early new work to the BoF stage (Wes)
+- Recaps from previous discussions
+  - How to reach the community (Mirja)
+  - readout from IAB
+    - Outreach (Deborah)
+    - Overview technical discussions (Jari)
+  - readout from IESG:
+    - IETF mission
+- Parking lot
+
 
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
