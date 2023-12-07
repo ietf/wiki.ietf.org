@@ -2,7 +2,7 @@
 title: IAB Nomcom
 description: 
 published: true
-date: 2023-12-07T23:19:24.074Z
+date: 2023-12-07T23:26:22.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:20:04.160Z
@@ -54,7 +54,7 @@ So that the Nomcom is not later surprised, it is important to point them to the 
 It is extremely important that the IAB Liaison to the IETF NomCom provide the full list of IAB-required confirming materials to the NomCom chair at the start of the NomCom. This enables the NomCom and NomCom chair to ensure that willing nominees for IESG positions are made aware that required supporting materials will be provided to the IAB should they be put forth as the nominee of choice by the NomCom. Permission to share these materials with the IAB (as confirming body), to include CVs and questionnaire responses, should be requested in advance by the NomCom chair when the materials are submitted to the NomCom. The NomCom may wish to provide questionnaires which include sections that the candidate is comfortable sharing (e.g., "To Be Shared with Confirming Body"), and sections which will not be distributed beyond the NomCom members (e.g., Not to be distributed beyond the NomCom - "Joe and Sally are mean").
 
 ## IAB Confirmation of Nominated IESG Candidates
-As provided [here](https://www.iab.org/documents/correspondence-reports-documents/docs2003/2003-12-09-iab-confirmation-process/), the following process will be used by the IAB for confirmation of nominated candidates for vacant IESG positions:
+The following process will be used by the IAB for confirmation of nominated candidates for vacant IESG positions:
 
 - The IAB will undertake its best endeavour to make a confirmation decision according to this process within the stipulated time period allowed for confirmation, and not allow the decision process to lapse. If there are extenuating circumstances that do not permit the IAB to make a decision within the necessary timeframe, then these circumstances shall be addressed as appropriate.
 - There shall be a positive vote for confirmation. This requires that a majority of the sitting members who are not disqualified or have not recused themselves at the outset of the process must vote to confirm the candidate, otherwise the candidate is rejected.
@@ -97,7 +97,14 @@ Response to (2012) nomcom chair about timeline was:
 
 IAB commit to confirming the slate within 30 days of receiving it. IAB will provide either a confirmation or rejection or questions/comments to nomcom within 15 days of receiving the slate. Since IAB meets on wednesdays, receiving the slate or any communication by the preceding monday shall help to speed up the process.
 
-Moreover, IAB expects to receive the following information from nomcom: http://www.iab.org/documents/correspondence-reports-documents/docs2003/2003-07-23-nomcom/.
+Moreover, IAB expects to receive the following information from nomcom: 
+
+- Resume or CV of the candidate
+- Summary of the IETF feedback on the candidate
+- Summary of the IETF community feedback on the state of the Area and it’s current needs
+- The Nominating Committee’s conclusions of the qualifications required for the position
+- Nominating Committee’s view of the qualifications of the candidate to undertake the role associated with the position
+- Candidate’s statement to the Nominating Committee on the position, conveyed to the IAB with the candidate’s knowledge and assent
 
 The IAB recognizes that the Nominating Committee may solicit information that nominees provide for the exclusive use of the Nominating Committee, not to be shared with confirming bodies. The IAB understands that the Nominating Committee will not provide this information to the IAB. The IAB will not disclose this material outside of those IAB members who have the responsibility to consider the nomination.
 
