@@ -2,7 +2,7 @@
 title: IAB Nomcom
 description: 
 published: true
-date: 2023-12-07T23:13:57.270Z
+date: 2023-12-07T23:19:24.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:20:04.160Z
@@ -15,7 +15,7 @@ RFC 3777 provides guidelines for the "IAB and IESG Selection, Confirmation, and 
 - According to bullet 8 in Section 4 of RFC 3777, the IAB appoints a liaison to the IETF NomCom.
 - Bullet 7 in section 4 of RFC 3777 describes the role and responsibilities of the liaisons. The IAB also provides the IAB defined guidelines for the IAB liaison (as summarized below) to the NomCom chair to ensure that expectations are clear from the start.
 - The IAB is responsible for providing the NomCom chair with the list of IAB positions to be reviewed.
-- The IAB is responsible for providing a summary of the expertise desired of the candidates selected for their respective open positions to the NomCom chair. This is provided in the form of the IAB Job Description.
+- The IAB is responsible for providing a summary of the expertise desired of the candidates selected for their respective open positions to the NomCom chair. This is provided in the form of the [IAB Job Description](https://github.com/intarchboard/nomcom-description/tree/main).
 
 ## Guidelines for the IAB Liaison to Nomcom
 
