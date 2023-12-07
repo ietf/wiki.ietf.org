@@ -2,7 +2,7 @@
 title: IAB Nomcom
 description: 
 published: true
-date: 2023-12-05T20:20:04.160Z
+date: 2023-12-07T23:13:57.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:20:04.160Z
@@ -60,9 +60,9 @@ As provided [here](https://www.iab.org/documents/correspondence-reports-document
 - There shall be a positive vote for confirmation. This requires that a majority of the sitting members who are not disqualified or have not recused themselves at the outset of the process must vote to confirm the candidate, otherwise the candidate is rejected.
 - The IETF chair is disqualified from voting or participating in the discussion on the IESG slate or IESG candidates. The IAB may ask the IETF chair questions about the needs of the IESG prior to the IAB being advised of a nominated candidate.
 - The chair of the IAB can choose when to call the question with the following conditions:
-- The chair must not call the question any earlier than 1 week after the IAB is informed of the nominated candidate.
-- The chair must not call the question prior to a teleconference which has this action as an agenda item.
-- The chair must call the question by whatever deadline generally imposed - usually within 2 weeks after the IAB is advised of the nominated candidate.
+    - The chair must not call the question any earlier than 1 week after the IAB is informed of the nominated candidate.
+    - The chair must not call the question prior to a teleconference which has this action as an agenda item.
+    - The chair must call the question by whatever deadline generally imposed - usually within 2 weeks after the IAB is advised of the nominated candidate.
 - A vote may be held by voice vote during a teleconference, by email ballot to the IAB members' mail list, or by secret ballot to the Executive Director and Chair as agreed to by consensus. If there is no consensus, vote will be by secret ballot to the Executive Director and Chair.
 - In the event that a sitting IAB member was nominated to replace the casual vacancy in the IESG, the IETF Executive Director would be informed of the casual vacancy only upon confirmation of the initial nomination, and the Nominations Committee would then need to undertake a subsequent nominations process for the IAB casual vacancy.
 
