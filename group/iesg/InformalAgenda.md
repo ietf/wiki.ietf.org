@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2023-12-05T20:56:35.386Z
+date: 2023-12-07T22:58:48.167Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - December 7, 2023 
+# Informal Telechat - December 21, 2023 
 
- There WILL be a meeting on this date.
+ There WILL NOT be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,9 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-* Jim on vacation
-* Kline, Erik
-* Duke, Martin
+*
 
 ## Agenda
 
@@ -49,8 +47,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* NomCom confirmations (Lars, exec session)
-* IESG appointment to the Trust (Cindy)
+* Topic (NAME)
 
 #### Urgent but not important
 
@@ -58,9 +55,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 
-* Chair training (Lars)
-* Review of suggestion actions that emerged from Report on Experience of Women Participating in IETF (Alexa)
-* Administrators of non-WG mailing lists being available per [IESG Statement on Disruptive Posting](https://www.ietf.org/about/groups/iesg/statements/disruptive-posting/) (Roman)
+* Topic (NAME)
 
 #### Not important and not urgent
 
