@@ -2,7 +2,7 @@
 title: Agenda117
 description: 
 published: true
-date: 2023-12-07T00:42:13.818Z
+date: 2023-12-07T00:42:55.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T00:42:13.818Z
@@ -36,8 +36,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 >  9. Executive Session: CCG Appointments - 5 mins
  
 ## Monday, 2023-07-24
-**1130-1300: IETF-3GPP Coordination (Room: Continental 2/3)
-**
+**1130-1300: IETF-3GPP Coordination (Room: Continental 2/3)**
 
 Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 
