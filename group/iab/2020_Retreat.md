@@ -2,7 +2,7 @@
 title: 2020 Retreat
 description: 
 published: true
-date: 2023-12-07T20:44:47.409Z
+date: 2023-12-09T00:21:51.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T19:41:01.386Z
@@ -28,7 +28,7 @@ For the full retreat agenda, please see [June 2020 Retreat Agenda](/group/iab/Ju
 ###  3. IAB Program Structure
 
 * All IAB Session
-* [Slides](https://www.iab.org/wp-content/IAB-uploads/2020/06/IAB-programs-virtual-retreat-2020-june.pdf) 
+* [Slides](/iab/iab-programs-virtual-retreat-2020-june.pdf)
 
 ### 4. COVID-19 Impact on technical work 
 
