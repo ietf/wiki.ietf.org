@@ -2,7 +2,7 @@
 title: Plenary86
 description: 
 published: true
-date: 2023-12-05T23:57:04.472Z
+date: 2023-12-05T23:57:09.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T23:57:04.472Z

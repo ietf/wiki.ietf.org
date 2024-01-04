@@ -2,7 +2,7 @@
 title: RFC Readability
 description: 
 published: true
-date: 2023-12-06T00:24:55.568Z
+date: 2023-12-06T00:25:00.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:24:55.568Z

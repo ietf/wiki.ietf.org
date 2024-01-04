@@ -2,7 +2,7 @@
 title: 2020 Retreat: Identify technical topics for architectural guidance
 description: 
 published: true
-date: 2023-12-07T19:57:45.440Z
+date: 2023-12-07T19:57:50.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T19:57:45.440Z

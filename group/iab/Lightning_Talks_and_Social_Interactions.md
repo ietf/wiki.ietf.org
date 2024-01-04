@@ -2,7 +2,7 @@
 title: Lightning Talks and Social Interactions
 description: 
 published: true
-date: 2023-12-06T00:29:42.778Z
+date: 2023-12-06T00:29:47.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:29:42.778Z

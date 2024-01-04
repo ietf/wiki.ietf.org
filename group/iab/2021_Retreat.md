@@ -2,7 +2,7 @@
 title: 2021 Retreat
 description: 2021 IAB Retreat
 published: true
-date: 2023-12-07T20:09:58.512Z
+date: 2023-12-09T00:32:04.778Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T18:44:41.137Z
@@ -12,23 +12,23 @@ dateCreated: 2023-12-04T18:44:41.137Z
 For the full retreat agenda, please see the IESG wiki
 
 ## Retreat Topics
-- Focus on Inclusion: Have everyone's opinions been considered (Russ White & Alvaro Retana)
-- How to reach our community? (Mirja Kühlewind)
-   - How to reach our community? Post-discussion update
-- How to improve our outreach? (Deborah Brungard)
-- Extend IETF to Reach more (Jiankang Yao)
+- [Focus on Inclusion: Have everyone's opinions been considered](/iab/iab-programs-virtual-retreat-2020-june.pdf) (Russ White & Alvaro Retana)
+- [How to reach our community?](/iab/how-to-reach-our-community.pdf) (Mirja Kühlewind)
+   - [How to reach our community? Post-discussion update](/iab/how-to-reach-our-community-update.pdf)
+- [How to improve our outreach?](/iab/outreach.pdf) (Deborah Brungard)
+- [Extend IETF to Reach more](/iab/extend-ietf-to-reach-more.pdf) (Jiankang Yao)
 - Experience from one year online-only work: What was good? what was bad? Do we need to improve our social interactions? (Mirja Kühlewind)
    - Discussion only; no slides
-- Liaison Coordinator role (Mirja Kühlewind)
-- Future IETF Framework v0.2 (Alvaro Retana, Martin Vigoureux, Rob Wilton)
+- [Liaison Coordinator role](https://www.iab.org/2021/05/20/iab-liaison-coordinator-role-established/) (Mirja Kühlewind)
+- [Future IETF Framework v0.2](/iab/framework-v0.2.pdf) (Alvaro Retana, Martin Vigoureux, Rob Wilton)
 - Getting large/unfocused/early new work to the BoF stage (Wes Hardaker)
-- What new technical work should the IETF take on? (Jari Arkko)
-- Adding trust and consent to path signals (Tommy Pauly)
-- Mitigating centralization through standards (Tommy Pauly)
-- Social Media Moderation (Ben Campbell)
-- Living Standards (Cullen Jennings & Rob Wilton)
-- Next Steps for Technical Topics (Cullen Jennings)
-- IAB Technical Topics Summary for the IESG and IAB meeting (Jari Arkko)
+- [What new technical work should the IETF take on?](/iab/iabtechtopics.pdf) (Jari Arkko)
+- [Adding trust and consent to path signals](/iab/trust-and-consent.pdf) (Tommy Pauly)
+- [Mitigating centralization through standards](/iab/mitigating-centralization.pdf) (Tommy Pauly)
+- [Social Media Moderation](/iab/social_media_moderation.pdf) (Ben Campbell)
+- [Living Standards](/iab/livingstandards-iab-april2021.pdf) (Cullen Jennings & Rob Wilton)
+- [Next Steps for Technical Topics](/iab/tech-next-steps.pdf) (Cullen Jennings)
+- [IAB Technical Topics Summary for the IESG and IAB meeting](/iab/tech-next-steps-iesgiab.pdf) (Jari Arkko)
 
 ---
 

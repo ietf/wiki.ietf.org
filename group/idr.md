@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2023-09-11T14:40:28.936Z
+date: 2023-09-11T14:47:05.838Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z

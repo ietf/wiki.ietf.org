@@ -2,7 +2,7 @@
 title: 2016 Retreat
 description: 
 published: true
-date: 2023-12-04T23:27:06.766Z
+date: 2023-12-04T23:27:12.585Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:27:06.766Z

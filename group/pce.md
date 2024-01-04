@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2023-12-08T16:22:37.244Z
+date: 2024-01-02T17:32:59.326Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -32,7 +32,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-|draft-sidor-pce-circuit-style-pcep-extensions|In WGLC|Ends 2023-12-15; IPR - 3/5 responses, 1x IPR disclosed|Dhruv| 
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | Julien |
 | draft-peng-pce-entropy-label-position | Pending | - | Dhruv |
 | draft-peng-pce-stateful-pce-autobw-update | Pending | - | Julien |
@@ -49,6 +48,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
+|draft-ietf-pce-circuit-style-pcep-extensions|-|Was Dhruv| 
 |draft-ietf-pce-bier-te | - | Was Dhruv |
 
 
@@ -58,7 +58,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | --- | --- | --- |
 | [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | -08 posted on 2023-08-24 | Nearing WGLC? |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | -12 posted on 2023–09-09  | Nearing WGLC? |
-| [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) |-07 posted on 2023-07-09 | Nearing WGLC? | 
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -04 posted on 2023-10-23  | Question on using draft-ietf-pce-enhanced-errors |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -09 posted on 2023-07-24  | Comments from 117 are not handled yet! |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -04 posted on 2023-10-23 | More review requested |
@@ -87,11 +86,11 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Y | - | Early code point allocated | - | - |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | - | - |
-| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | N | Pending Impl. Status.  | IANA Early alloc done | - | - |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Y | - | Early code point allocated | Dhruv | Dhruv |
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | - | - | - | - |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | N | Pending Impl. Status.  | IANA Early alloc done | Dhruv | Dhruv |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - | - | - |
-
+| [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | - | - | - | - |
 
 ## Post WG LC Queue  
 
@@ -100,7 +99,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Waiting for authors to handle the shepherd review| IPR - 4/4 | Dhruv |
 
 
 ## Drafts with the IESG
@@ -108,7 +106,9 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Submitted to IESG for Publication |  Sent to AD on 2023-09-08 | Hari |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Submitted to IESG for Publication |IETF LC Ends 2023-12-19 | Andrew |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | Submitted to IESG for Publication |Telechat 2024-01-04 | Andrew |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Submitted to IESG for Publication on 2023-12-30 | IDNITS - 1 issue | Dhruv |
+
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
 
@@ -142,7 +142,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
 |draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2023-04-04|2024-05-09|
-|draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2022-12-12|2024-01-12|
+|draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2023-12-14|2025-01-12|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
 |draft-ietf-pce-pcep-extension-native-ip| WG I-D |- CCI Object-Type<br>- BGP Peer Info Object-Type<br>- Explicit Peer Route Object-Type<br>- Peer Prefix Advertisement Object-Type<br>- PCEP-ERROR Object Error Type<br>- Path Setup Type<br>- PCECC-Capability sub-TLV|2023-08-14|-|2024-08-14| 
 |draft-ietf-pce-sid-algo|WG I-D| 4 allocation done |2023-09-13|-|2024-09-13|

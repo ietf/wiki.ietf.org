@@ -2,7 +2,7 @@
 title: IESG Liaison
 description: 
 published: true
-date: 2023-12-05T00:38:56.715Z
+date: 2023-12-05T00:39:01.560Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T00:38:56.715Z

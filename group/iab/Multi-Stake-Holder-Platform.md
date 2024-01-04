@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T13:25:00.778Z
+date: 2023-09-22T13:25:07.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z

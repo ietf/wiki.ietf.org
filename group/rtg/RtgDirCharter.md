@@ -2,7 +2,7 @@
 title: Routing Directorate Charter
 description: 
 published: true
-date: 2023-11-28T18:12:59.395Z
+date: 2023-11-28T18:13:04.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:04:58.121Z

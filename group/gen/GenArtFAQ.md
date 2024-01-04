@@ -2,7 +2,7 @@
 title: Gen-ART Frequently Asked Questions
 description: 
 published: true
-date: 2023-08-11T13:48:49.874Z
+date: 2023-08-11T13:48:55.308Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:09:01.769Z

@@ -2,7 +2,7 @@
 title: CATS: Computing-Aware Traffic Steering
 description: Wiki Page of CATS WG
 published: true
-date: 2023-05-24T06:51:07.631Z
+date: 2023-05-24T06:51:11.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-24T06:51:07.631Z

@@ -2,7 +2,7 @@
 title: IAB Social Media Guidelines
 description: 
 published: true
-date: 2023-12-06T21:15:00.555Z
+date: 2023-12-06T21:15:05.739Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T21:15:00.555Z

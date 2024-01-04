@@ -2,7 +2,7 @@
 title: IETF 117 Hackdemo Happy Hour
 description: 
 published: true
-date: 2023-07-24T18:55:04.261Z
+date: 2023-07-24T18:55:09.010Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:27:02.593Z

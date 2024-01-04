@@ -2,7 +2,7 @@
 title: IETF 118 Arrival Coordination
 description: 
 published: true
-date: 2023-11-03T23:06:01.189Z
+date: 2023-11-03T23:06:06.200Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:08:33.228Z

@@ -2,7 +2,7 @@
 title: IETF 117 Arrival Coordination
 description: 
 published: true
-date: 2023-07-11T14:20:27.675Z
+date: 2023-07-11T14:20:32.749Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-04-21T17:39:03.765Z

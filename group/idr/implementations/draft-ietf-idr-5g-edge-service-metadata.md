@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-5g-edge-service-metadata
 description: draft-ietf-idr-5g-edge-service-metadata
 published: true
-date: 2023-10-20T23:00:41.027Z
+date: 2023-10-20T23:00:46.324Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T23:00:41.027Z

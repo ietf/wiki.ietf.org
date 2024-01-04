@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2022-11-29T19:39:25.549Z
+date: 2023-12-15T22:01:22.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -66,7 +66,7 @@ Then you are asked what Editor type you want to use - please choose a new **Mark
 Finally you are asked for a title for the page. Please make this consistent with the page name you chose earlier.
 
 ## Adding an asset
-If you need to add an image or other assent (PDF) for your wiki, you can do that by using the "Insert Asset" folder icon in the left side of the editor view. From there you will be prompted to browse for the file to upload. After uploading, you will be able to perform various actions on the asset using the '...' link in the Action column of the asset list.
+If you need to add an image or other asset (PDF) for your wiki, you can do that by using the "Insert Asset" folder icon in the left side of the editor view. From there you will be prompted to browse for the file to upload. After uploading, you will be able to perform various actions on the asset using the '...' link in the Action column of the asset list.
 
 # Migrating from Trac and other legacy wikis
 If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.

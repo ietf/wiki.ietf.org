@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2023-12-05T21:01:18.463Z
+date: 2023-12-05T21:01:23.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z

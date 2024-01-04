@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2023-12-05T19:52:11.773Z
+date: 2023-12-05T19:52:15.912Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z

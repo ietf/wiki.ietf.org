@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-09-28T11:06:41.212Z
+date: 2023-09-28T11:06:45.690Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z

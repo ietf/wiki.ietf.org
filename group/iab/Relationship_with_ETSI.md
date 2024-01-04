@@ -2,7 +2,7 @@
 title: Relationship with ETSI
 description: 
 published: true
-date: 2023-12-05T17:48:58.916Z
+date: 2023-12-05T17:49:03.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:48:58.916Z

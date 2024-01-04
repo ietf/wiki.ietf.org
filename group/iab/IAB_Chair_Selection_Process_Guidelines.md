@@ -2,7 +2,7 @@
 title: IAB Chair Selection Process Guidelines
 description: 
 published: true
-date: 2023-12-05T19:51:30.914Z
+date: 2023-12-05T19:51:35.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:51:30.914Z

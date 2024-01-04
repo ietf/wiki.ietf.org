@@ -2,7 +2,7 @@
 title: IAB's Role in BoFs
 description: 
 published: true
-date: 2023-12-05T20:57:37.560Z
+date: 2023-12-05T20:57:42.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:57:37.560Z

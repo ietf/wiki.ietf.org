@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-12-04T19:57:55.886Z
+date: 2023-12-15T14:22:03.998Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -119,6 +119,7 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
   - the document has a lot of normative dependencies that are not ready yet
+  - An outstanding comment from Jeffrey about inconsistent/inappropriate use of "ECMP"
   - Review requested to IDR chairs
   - RTGDIR and GENART review requested
 
@@ -143,10 +144,11 @@ Shepherd's name indicated within parenthesis.
 ## Documents candidates for Working Group Last Call
 
 
-* draft-ietf-bess-evpn-ac-aware-bundling
+* draft-ietf-bess-evpn-ac-aware-bundling (Jeffrey)
 	- RTGDIR review comments provided. Authors haven't replied
   - Action: update in progress
-  - RTGDIR review comment addressed. 
+  - RTGDIR review comment addressed.
+  - Outstanding questions/comments from Jeffrey
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
 	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress. 
@@ -200,7 +202,8 @@ Shepherd's name indicated within parenthesis.
 * draft-kaliraj-bess-bgp-sig-private-mpls-labels
   - Needs MPLS and IDR review
 
-* draft-mackenzie-bess-evpn-l3mh-proto
+* draft-mackenzie-bess-evpn-l3mh-proto (Jeffrey)
+  - update may be needed - depending on ac-aware-bundling discussions
 
 
 ## Documents that failed WG adoption

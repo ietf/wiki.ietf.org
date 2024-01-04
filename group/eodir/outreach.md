@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2023-10-31T06:18:44.774Z
+date: 2024-01-04T13:58:14.026Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Jan 2024|[NetMission](https://netmission.asia/)|Students|Knowledge sharing|Dhruv Dhody| [Slide](https://docs.google.com/presentation/d/14I_NVdGEtRd4VJXigZ_LMBWyogtXCJLyCrithJkR_74/edit?usp=sharing)|
 |Oct 2023|IGF2023|Policy|Supporter|In-Room: Mirja,Colin,Mallory; Remote:Lars,Andrew Alston,Dhruv,Suresh|[Slides](https://intgovforum.org/sites/default/files/IGF23-IETF-Town-Hall-2.pdf) [Report](https://intgovforum.org/en/content/igf-2023-town-hall-32-internet-engineering-task-force-open-forum)|
 |Oct 2023|inSIG2023|Policy|Supporter|Dhruv Dhody|[Slide](https://docs.google.com/presentation/d/1KW0wrSUkjJQkUrFvHuQiyQRe5Eq5ZxeqI6YPEr97_lU/edit#slide=id.g28637e88c85_0_0)|
 |Jul 2023|[APIGA2023](https://community.icann.org/display/GSEAPAC/APIGA+2023)|Students|knowledge sharing|Dhruv Dhody|Introducing IETF to those interested in Internet Governance [Link](https://docs.google.com/presentation/d/18HaHXXRqojpgAxPJbzEfX8aiqeU9Y-dqcECwRQHZDgU/edit?usp=sharing)|

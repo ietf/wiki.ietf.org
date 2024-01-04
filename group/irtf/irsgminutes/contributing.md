@@ -2,7 +2,7 @@
 title: IRSG Teleconference October 24, 2023
 description: 
 published: true
-date: 2023-10-25T14:48:35.246Z
+date: 2023-10-25T14:48:39.187Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T14:48:35.246Z

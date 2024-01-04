@@ -2,7 +2,7 @@
 title: Liaison Coordinator Job Description
 description: 
 published: true
-date: 2023-12-05T17:38:05.685Z
+date: 2023-12-05T17:38:10.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:38:05.685Z

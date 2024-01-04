@@ -2,7 +2,7 @@
 title: IDR Interim 2 - September 25, 2023 
 description: Interim 2 Page
 published: true
-date: 2023-09-11T22:14:06.402Z
+date: 2023-09-11T22:14:10.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T14:46:58.228Z

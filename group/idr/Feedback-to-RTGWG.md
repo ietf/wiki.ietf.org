@@ -2,7 +2,7 @@
 title: IDR WG Feedback on RTGWG Drafts 
 description: IDR Working Group feedback on RTGWG drafts 
 published: true
-date: 2023-09-07T21:18:45.042Z
+date: 2023-09-07T21:18:49.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T20:59:49.989Z

@@ -2,7 +2,7 @@
 title: MPLS WG - Multiprotocol Label Switching
 description: The MPLS working group is responsible for standardizing technology for label switching and for the implementation of label-switched paths over packet based link-level technologies.
 published: true
-date: 2023-11-21T18:45:11.034Z
+date: 2023-11-21T18:46:41.761Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-02T07:59:44.503Z

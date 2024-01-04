@@ -2,7 +2,7 @@
 title: Sample IAB Open Agenda
 description: 
 published: true
-date: 2023-12-06T00:14:49.918Z
+date: 2023-12-06T00:14:54.753Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:14:49.918Z

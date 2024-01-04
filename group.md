@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-09-12T21:19:04.974Z
+date: 2023-12-21T01:48:24.651Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -23,6 +23,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [6man *IPv6 Maintenance*](/group/6man)
 - [6tisch *IPv6 over the TSCH mode of IEEE 802.15.4e*](/group/6tisch)
 - [ace *Authentication and Authorization for Constrained Environments*](/group/ace)
+- [alldispatch *Cross-area Dispatch working group (experimental)*](/group/alldispatch)
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [anima *Autonomic Networking Integrated Model and Approach*](/group/anima)
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
@@ -102,7 +103,8 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [uta *Using TLS in Applications*](/group/uta)
 {.links-list}
 ### GEN
-
+- [alldispatch *Cross-area Dispatch working group (experimental)*](/group/alldispatch)
+{.links-list}
 ### INT
 - [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
 - [6man *IPv6 Maintenance*](/group/6man)

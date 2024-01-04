@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-segment-routing-te-policy 
 description: IDR Vendor implementation report for draft-ietf-idr-segment-routing-te-policy
 published: true
-date: 2023-11-07T07:13:33.095Z
+date: 2023-11-07T07:13:38.017Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T20:18:02.396Z

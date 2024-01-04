@@ -2,7 +2,7 @@
 title: IAB Open Chair History
 description: 
 published: true
-date: 2023-12-06T00:13:03.738Z
+date: 2023-12-06T00:13:09.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:13:03.738Z

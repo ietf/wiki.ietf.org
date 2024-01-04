@@ -2,7 +2,7 @@
 title: IAB Errata Process
 description: 
 published: true
-date: 2023-12-05T21:06:37.572Z
+date: 2023-12-05T21:06:41.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:06:37.572Z

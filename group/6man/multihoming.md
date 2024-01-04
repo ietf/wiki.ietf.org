@@ -2,7 +2,7 @@
 title: IPv6 multi-homing
 description: A comparison table of IPv6 multi-homing solutions
 published: true
-date: 2023-11-11T10:55:42.316Z
+date: 2023-11-11T10:55:47.169Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-11T10:55:42.316Z

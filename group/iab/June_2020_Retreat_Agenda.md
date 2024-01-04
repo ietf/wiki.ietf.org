@@ -2,7 +2,7 @@
 title: June 2020 Retreat Agenda
 description: 
 published: true
-date: 2023-12-04T22:57:42.072Z
+date: 2023-12-04T22:57:47.327Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T19:49:56.741Z

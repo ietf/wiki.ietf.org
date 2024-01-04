@@ -2,7 +2,7 @@
 title: Past Plenaries
 description: 
 published: true
-date: 2023-12-06T00:10:29.736Z
+date: 2023-12-06T00:10:35.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T23:05:41.634Z

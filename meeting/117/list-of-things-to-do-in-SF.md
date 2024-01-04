@@ -2,7 +2,7 @@
 title: List of things to do in SF
 description: 
 published: true
-date: 2023-07-15T20:39:35.335Z
+date: 2023-07-15T20:39:40.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-09T01:59:27.375Z

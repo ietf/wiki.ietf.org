@@ -2,7 +2,7 @@
 title: draft-ietf-idr-ts-flowspec-srv6-policy  implementations
 description: Implementations of draft-ietf-idr-ts-flowspec-srv6-policy
 published: true
-date: 2023-07-20T09:27:46.529Z
+date: 2023-07-20T09:27:51.568Z
 tags: implementation reports for idr rfc
 editor: markdown
 dateCreated: 2023-07-20T09:06:45.421Z

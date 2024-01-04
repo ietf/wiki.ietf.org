@@ -2,7 +2,7 @@
 title: Open MNA Interim Calls Action Items
 description: Open MNA Interim Calls Action Items
 published: true
-date: 2023-09-21T15:21:16.398Z
+date: 2023-09-21T15:21:20.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T13:32:47.922Z

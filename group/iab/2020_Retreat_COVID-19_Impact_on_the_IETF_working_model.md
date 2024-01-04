@@ -2,7 +2,7 @@
 title: 2020 Retreat COVID-19 Impact on the IETF working model
 description: 
 published: true
-date: 2023-12-04T22:55:59.066Z
+date: 2023-12-04T22:56:03.948Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T22:55:17.697Z

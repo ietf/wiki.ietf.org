@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-12-01T10:47:16.826Z
+date: 2023-12-20T07:02:39.208Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -20,18 +20,18 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
-| Adoption | draft-chen-pce-bier | Dhruv | Make sure authors make the update with name change |
-| WGLC | draft-ietf-pce-pceps-tls13-01 | Andrew | Make sure ready to send to AD |
+| IESG review | draft-ietf-pce-pceps-tls13-01 | Andrew | - |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
-| Early allocation | draft-ietf-pce-pcep-color | John | Sent to john 2023-09-25 |
 |Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting Dhruv's response |
-| Recharter for PCE WG | - | Dhruv | Request sent to John on 2023-08-19; awaiting on John |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
 
 ## Completed Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Adoption | draft-ietf-pce-bier-te | Dhruv | Make sure authors make the update with name change |
+| Early allocation | draft-ietf-pce-pcep-color | Dhruv | - |
+| Recharter for PCE WG | - | Dhruv | Completed on 2023-12-19 |
 |Early Code Point|draft-ietf-pce-sr-bidir-path|Julien|-|
 |Early Code Point|draft-ietf-pce-pcep-color|Dhruv|-|
 | Last Push | draft-ietf-pce-segment-routing-ipv6 | -| Hari is Shepherd | 

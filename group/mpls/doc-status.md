@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-12-08T11:17:21.051Z
+date: 2023-12-30T18:45:01.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks |
 | --- | --- | --- | 
-|     |     |     |
+|  2023-12-26  | [draft-ietf-mpls-inband-pm-encapsulation](https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation) | Discussion of whether this should move to MNA solution |
 
 
 ## Queued for WG Adoption Poll
@@ -48,9 +48,8 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
-| IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |   | Tarek |  
-| IETF-117 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Check for relationship with MNA |  None |
-| IETF-117 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) |  | Nic |
+| IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Check for relationship with MNA | Tarek |  
+| 2023-12-06 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | -06 | Nic |
 
 ## Queued for WG Last Call
 
@@ -60,11 +59,18 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| IETF-116 | [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/) |  | -05 Michael Richardson, Ready. Nits fixed in -06 |  | Mach |
-| IETF-116 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) |   | -06 Stewart Bryant, not ready. -08 Sasha Vainshtein, minor issues |    | Tarek |
-| IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) |   | Jeffrey Zhang 2023-08-09 Has issues |  | Tarek |
-| IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) |   |   | Pending Requirements I-D | Tarek |
-| 2023-12-05 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) |  |  | Going for YANG Dr review | Tarek |
+| 2023-12-04 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Not done | -08 addresses previous RTG-Dir reviews. Further review from Sasha Vainshtein "Has issues" |    | Tarek |
+| IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Not done | Jeffrey Zhang 2023-08-09 Has issues. Authors working on addressing issues |  | Tarek |
+| IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | Pending Requirements I-D. Chair review of -05 by Adrian | Tarek |
+| 2023-12-05 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | Not done | Not requested | YANG Dr review requested | Tarek |
+| 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Requested | Check for relationship with MNA | Adrian |
+
+
+## In Working Group Last Call
+
+| Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
+|---|---|---|---|---|
+| [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/) |  2023-12-18 | 2024-01-09 | No | Mach |
 
 ## Working Group Last Call Completed Pending Author Action
 
@@ -72,9 +78,9 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 | --- | --- | --- | --- |
-| 2022-12-22 | [draft-ietf-mpls-sr-epe-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-sr-epe-oam/) | Updated after last call. Pending implementation | Tarek |
-| 2023-11-03 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | Significant updates after review. Will require 2nd WGLC | Adrian |
-| 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24 | Nic |
+| 2022-12-22 | [draft-ietf-mpls-sr-epe-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-sr-epe-oam/) | Updated after last call. Pending section on implementation report  | Tarek |
+| 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 with significant updates after review. All comments addressed? Will require 2nd WGLC | Adrian |
+| 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
 
 ## Post Working Group Last Call
 

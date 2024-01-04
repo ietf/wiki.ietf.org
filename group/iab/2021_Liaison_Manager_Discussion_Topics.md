@@ -2,7 +2,7 @@
 title: 2021 Liaison Manager Discussion Topics
 description: 
 published: true
-date: 2023-12-07T19:59:15.556Z
+date: 2023-12-07T19:59:20.254Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T19:59:15.556Z

@@ -2,7 +2,7 @@
 title: Planning a Plenary
 description: 
 published: true
-date: 2023-12-05T22:51:22.132Z
+date: 2023-12-05T22:51:27.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T22:50:34.949Z

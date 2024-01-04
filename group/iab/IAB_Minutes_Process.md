@@ -2,7 +2,7 @@
 title: IAB Minutes Process
 description: 
 published: true
-date: 2023-12-05T21:03:41.847Z
+date: 2023-12-05T21:03:46.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:03:41.847Z

@@ -2,7 +2,7 @@
 title: Hacknet Instructions
 description: 
 published: true
-date: 2023-06-05T18:41:04.387Z
+date: 2023-06-05T18:41:10.018Z
 tags: hackathon
 editor: markdown
 dateCreated: 2023-04-18T14:34:51.315Z
