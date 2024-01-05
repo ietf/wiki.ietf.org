@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-01-05T00:07:13.437Z
+date: 2024-01-05T00:41:38.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -92,12 +92,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
+| draft-ietf-bgp-sendholdtimer | Susan Hares | TBD | Await implementation report | WG LC | TBD | TBD | TBD | 
 |  draft-ietf-idr-bgp-ct  |  Susan Hares  | 2 (juniper, Freertr) | 1st WGLC resolve | 2nd WG LC | 1/10-1/31/2024 | 2 weeks | 2/2/2024 |  1st WG LC 6/24-7/24 |  
 |  draft-ietf-idr-bgp-car |  Susan Hares  | 2 (cisco, arrcus) | 1st WGLC resolve  | 2nd WG LC  | 1/10-1/31/2024  | 2/2/2024| 1st WG LC 7/10-7/24 |
-|  draft-ietf-idr-sr-policy-fit |  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
+|  draft-ietf-idr-sr-policy-ifit |  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
 | draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | 1 (Huawei) | Await Implementation report |  WG LC  | TBD  |  TBD |  TBD   | --- | 
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  | 3 (juniper, nokia, x) |  WG LC (-03)  |  TBD   |  TBD  |  TBD    | Need version -03 | 
-| draft-ietf-bgp-sendholdtimer | Susan Hares | TBD | Await implementation report | WG LC | TBD | TBD | TBD | 
+
 {.dense}
 
 ## Adopted
@@ -136,10 +137,11 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 |  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |  IPR call + Bess Check  |  TBD        |  TBD    | TBD | 9/28 to 10/12 | 
-|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  |  on hold require compression  |  IPR check  |  TBD    |  TBD             |  11/10 to 11/24   |
+|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  |  on hold require 2nd review  |  IPR check  |  TBD    |  TBD             |  11/10 to 11/24   |
 | draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | FSv2 review + IPR call | TBD | TBD | TBD | TBD | 
 | draft-smn-idr-inter-domain-ibgp-02 | Susan Hares | Move to BESS | Joint IDR/BESS adoption | TBD | 12/15/2023  | 
-| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD  |
+| draft-uttaro-idr-bgp-oad | Susan Hares | Adoption and IPR Call | TBD | TBD | TBD | TBD 
+
 | draft-peng-idr-segment-routing-te-policy-attr | Susan Hares |  IPR call | Adoption call (9/22 to 10/10) no consensus | TBD | TBD | TBD | 
 {.dense}
 
