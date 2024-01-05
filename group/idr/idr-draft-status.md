@@ -2,13 +2,13 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-01-05T00:43:09.112Z
+date: 2024-01-05T00:43:43.057Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
 ---
 
-## Status as of December 14, 2023
+## Status as of January 4, 2024
 
 ### New RFCs
 
