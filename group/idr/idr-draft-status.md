@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2023-12-16T21:26:15.078Z
+date: 2024-01-05T00:07:13.437Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -12,19 +12,19 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ### New RFCs
 
-| Name | Shepherd | RFC # | Status | Date | WG LC approval | IESG Approved | IESG Review | 
+| Name | Shepherd | RFC # | Status | RFC Published Date | WG LC approval | IESG Approved | IESG Review | Time since WG LC | 
 |---|---|---|---|---|---|---|---|
   | | |
-| [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/rfc9351/) | Jie Dong  |[RFC9351](https://datatracker.ietf.org/doc/rfc9351/) | Published | 2-22-2023 | Nov-17-2020 |  | 827 days |
-| [draft-ietf-idr-bfd-subcode](https://datatracker.ietf.org/doc/rfc9384)  |  Keyur Patel | [RFC9384](https://datatracker.ietf.org/doc/rfc9384)  | Published  | 3-24-2023 | Sep-10-2022  |  |  195 days |  
-|  [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/rfc9494/)  |  Jeff Haas | [RFC9494](https://datatracker.ietf.org/doc/rfc9494/)  | Published  |11-29-2023  |  Nov-10-2022|    | 385 days |   
-|  [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/rfc9514/)  |  Susan Hares  |   [RFC9514](https://datatracker.ietf.org/rfc9514/)  | Published |  12-05-2023 | Nov-17-2020  |  Feb-17-2023    |  823 days  | 
+| [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/rfc9351/) | Jie Dong  |[RFC9351](https://datatracker.ietf.org/doc/rfc9351/) | Published | Feb-22-2023 | Nov-17-2020 |  | |  827 days |
+| [draft-ietf-idr-bfd-subcode](https://datatracker.ietf.org/doc/rfc9384)  |  Keyur Patel | [RFC9384](https://datatracker.ietf.org/doc/rfc9384)  | Published  | Mar-24-2023 | Sep-10-2022  | |  |  195 days |  
+|  [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/rfc9494/)  |  Jeff Haas | [RFC9494](https://datatracker.ietf.org/doc/rfc9494/)  | Published  |Nov-29-2023  |  Nov-10-2022|  |   | 385 days |   
+|  [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/rfc9514/)  |  Susan Hares  |   [RFC9514](https://datatracker.ietf.org/rfc9514/)  | Published |  Dec-05-2023 | Nov-17-2020  |  Feb-17-2023    |  643 days  | 1113 days| 
+|  [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/RFC9552/)   |  Jeff Haas     |  [RFC9552](https://datatracker.ietf.org/RFC9552/)    | Published | Dec-22-2023 | Aug-6-2021  |  Feb-28-2023   |  475 days   | 868 days | 
 {.dense}
 
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
-|  draft-ietf-idr-rfc7752bis   |  Jeff Haas    |  Auth-48 |  RFC9552    |  Aug-6-2021           |  Nov-10-2021   |  Feb-28-2023      |  251 days (hold off 10/26)  |  822 days     | TBD | 
 {.dense}
 
 
@@ -50,9 +50,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 {.dense}
 
 ## Queue for AD review 
-| draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time WG LC   |
+| draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 12 days | 59 days | 165 days | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 118 days | 118 days | 224 days | 
 {.dense}
 
 ## Sent Back to WG 
