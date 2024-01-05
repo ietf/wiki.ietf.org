@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-01-05T00:42:18.775Z
+date: 2024-01-05T00:43:09.112Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -13,7 +13,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### New RFCs
 
 | Name | Shepherd | RFC # | Status | RFC Published Date | WG LC approval | IESG Approved | IESG Review | Time since WG LC | 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-flex-algo](https://datatracker.ietf.org/doc/rfc9351/) | Jie Dong  |[RFC9351](https://datatracker.ietf.org/doc/rfc9351/) | Published | Feb-22-2023 | Nov-17-2020 |  | |  827 days |
 | [draft-ietf-idr-bfd-subcode](https://datatracker.ietf.org/doc/rfc9384)  |  Keyur Patel | [RFC9384](https://datatracker.ietf.org/doc/rfc9384)  | Published  | Mar-24-2023 | Sep-10-2022  | |  |  195 days |  
 |  [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/rfc9494/)  |  Jeff Haas | [RFC9494](https://datatracker.ietf.org/doc/rfc9494/)  | Published  |Nov-29-2023  |  Nov-10-2022|  |   | 385 days |   
