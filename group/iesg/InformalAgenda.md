@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-01-08T16:12:05.493Z
+date: 2024-01-08T21:56:34.692Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -57,6 +57,7 @@ Please use your best judgement to add new items into one of the categories below
 
 * Evolving away from a public I-D staging directory (Roman)
 * A Strategy for WG Chairs (Lars)
+* Processing Errata (John) (see https://mailarchive.ietf.org/arch/msg/iesg/ecEBRwtYdI9ZwwXAe06YXoHuAYU/)
 
 #### Not important and not urgent
 
