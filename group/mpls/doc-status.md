@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2023-12-30T18:45:01.233Z
+date: 2024-01-09T14:43:43.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,8 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks |
 | --- | --- | --- | 
-|  2023-12-26  | [draft-ietf-mpls-inband-pm-encapsulation](https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation) | Discussion of whether this should move to MNA solution |
-
+| 2024-01-09 | draft-mirsky-mpls-bfd-bootstrap-clarify |   |
 
 ## Queued for WG Adoption Poll
 
@@ -48,7 +47,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
-| IETF-116 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Check for relationship with MNA | Tarek |  
+| 2023-12-23 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Check for relationship with MNA | Tarek |  
 | 2023-12-06 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | -06 | Nic |
 
 ## Queued for WG Last Call
