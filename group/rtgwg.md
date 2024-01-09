@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2024-01-09T00:10:43.207Z
+date: 2024-01-09T19:52:33.860Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -19,7 +19,7 @@ RTGWG is also chartered to work on specific small topics that don't fit within a
 This wiki contains additional information for IETF RTGWG working group. Please refer to the datatracker for the latest status of any draft.
 
 **Recent Published RFCs**
-|-------------------|--------------------------------------------------|
+
 | RFC 9403          | A YANG Data Model for RIB Extensions             |
 
 
