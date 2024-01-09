@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-01-09T15:53:52.341Z
+date: 2024-01-09T16:15:05.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -64,12 +64,11 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | 2023-12-05 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | Not done | Requested 2024-01-09 | YANG Dr review done and draft updated | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Requested | Check for relationship with MNA | Adrian |
 
-
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
-| [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/) |  2023-12-18 | 2024-01-09 | No | Mach |
+| [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/) |  2023-12-18 | Extended to 2024-01-23 | No | Mach |
 
 ## Working Group Last Call Completed Pending Author Action
 
