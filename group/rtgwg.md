@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2023-10-31T21:09:03.955Z
+date: 2024-01-09T00:10:43.207Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -18,16 +18,20 @@ RTGWG is also chartered to work on specific small topics that don't fit within a
 ## Document Status
 This wiki contains additional information for IETF RTGWG working group. Please refer to the datatracker for the latest status of any draft.
 
+**Recent Published RFCs**
+|-------------------|--------------------------------------------------|
+| RFC 9403          | A YANG Data Model for RIB Extensions             |
+
+
 **WG Document Status**
 | Draft                                   | Remarks                                     |
 |-----------------------------------------|---------------------------------------------|
-| draft-ietf-rtgwg-bgp-pic                | More work needs to be done before the 2nd WGLC.                   |
-| draft-ietf-rtgwg-yang-rib-extend        | Had last-minute change. Back to auth48 state.                               
-| draft-ietf-rtgwg-qos-model              | Started directorate reviews and YANG Doctor review.|
+| draft-ietf-rtgwg-bgp-pic                | More work needs to be done before the 2nd WGLC.                   |                               
+| draft-ietf-rtgwg-qos-model              | Review comments to be addressed.|
 | draft-ietf-rtgwg-segment-routing-ti-lfa | OPS Directorate review comments to be addressed.|
 | draft-ietf-rtgwg-atn-bgp                | Some directorate reviews have been done. Waiting for related drats to progress in 6man.              |
-|draft-ietf-rtgwg-vrrp-rfc5798bis         | Pending IPR disclosure from RFC5798.|
-| draft-ietf-rtgwg-net2cloud-problem-statement | Finished direcorate reviews. Ready for WGLC. |
+|draft-ietf-rtgwg-vrrp-rfc5798bis         | In RFC editor queue.|
+| draft-ietf-rtgwg-net2cloud-problem-statement | Ready for WGLC. |
 
 **Recently Adopted Documents**
 | Draft                            | State  | Remarks               |
@@ -38,6 +42,7 @@ This wiki contains additional information for IETF RTGWG working group. Please r
 | RFC      | Errata ID | Type      | Reported By    | State                    | Remarks          |
 |----------|-----------|-----------|----------------|--------------------------|------------------|
 | RFC 9067 | 6844      | Technical | Kris Lambrecht | Held for Document Update | Need to be fixed |
+
 
 ## Other Useful Information
 **Other RTGWG Pages** 
