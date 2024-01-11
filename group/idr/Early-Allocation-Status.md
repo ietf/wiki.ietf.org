@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-01-11T01:55:57.388Z
+date: 2024-01-11T01:56:14.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -18,7 +18,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| WG chair Checks IANA | 
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process | 
 
-# Early allocation - need revision 
+## Early allocation - need revision 
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI-Types | TBD (5) | SR Policy Candidate Path NLRI | TBD | hold until 8-15-2023 |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Bidirectional Group Constraint | TBD | hold until 8-15-2023 |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Metric Constraint | TBD | hold until 8-15-2023 |
