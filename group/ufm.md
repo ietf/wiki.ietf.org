@@ -2,7 +2,7 @@
 title: Usable Formal Methods Proposed RG
 description: 
 published: true
-date: 2023-12-21T17:30:31.528Z
+date: 2024-01-11T10:11:50.793Z
 tags: formal methods
 editor: markdown
 dateCreated: 2023-03-03T13:25:14.503Z
@@ -123,7 +123,7 @@ Old TLS versions:
 
 | Type    | Peer-reviewed | Reference | 
 |:--------|:--------------|:----------|
-| [ProVerif model](https://github.com/CCC-Attestation/formal-spec-TEE) (symbolic) | N | [Sardar, Fossati, Frost, Xiong. Formal Specification and Verification of Architecturally-defined Attestation in Arm CCA and Intel TDX](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX) |
+| [ProVerif model](https://github.com/CCC-Attestation/formal-spec-TEE) (symbolic) | Y | [Sardar, Fossati, Frost, Xiong. Formal Specification and Verification of Architecturally-defined Attestation in Arm CCA and Intel TDX](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX) |
 | ProVerif model (symbolic) | N | [Sardar, Fossati, Frost. SoK: Attestation in Confidential Computing](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing) |
 
 ### [EAPAKA'](https://datatracker.ietf.org/doc/rfc5448)
