@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-10T16:32:43.389Z
+date: 2024-01-12T17:10:23.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -133,7 +133,8 @@ IAB Reviewer: Suresh Krishnan
 -- 2024-03-16 - 2024-03-22: IETF 119 --
 
 ## Future Unscheduled Topics 
-* topic for technical discussions (all)
+* Start IAB Chair selection process (Mirja)
+* topics for technical discussions (all)
 * overview financial starts LLC and ISOC (Jason)
 * review technical program structure (Mirja)
 * maprg review (January)
