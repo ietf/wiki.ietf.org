@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2023-04-04T10:10:53.244Z
+date: 2024-01-12T06:30:03.485Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -33,7 +33,7 @@ The CFRG chairs will make appointments to the Review Panel.  The panel will be c
 Reviewers will be appointed to the panel for a period of 2 years, renewable. The CFRG chairs will endeavour to ensure that the Review Panel has a balanced composition covering the main technical areas of relevance to CFRG. Individuals may self-nominate or nominate others for panel membership.
 Being a panel member represents a commitment to review documents in a timely and thorough fashion; reviewers' panel membership will be rescinded at the discretion of the CFRG chairs.
 
-## Crypto Review Panel members (January 2022 - December 2023)
+## Crypto Review Panel members (January 2022 - February 2024)
 
 | Name | Affiliation |
 | ---- | ----------- |
@@ -95,13 +95,26 @@ Being a panel member represents a commitment to review documents in a timely and
 | Karthikeyan Bhargavan | draft-ietf-lwig-curve-representations-21 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/qB5WvocRX9o_UyOdeHw_L2GSaBY/> | 12 Nov 2021 |
 | Scott Fluhrer | draft-bar-cfrg-spake2plus-04 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/icYpH34oTXVmGAxIzpQ7I-J-PZo/> | 14 Jan 2022 |
 | Virendra Kumar | draft-irtf-cfrg-voprf-09 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/QXC3drh1hs-XGkXyjwyCj_pFNNI/> | 13 Mar 2022 |
-| Ludovic Perret | draft-fluhrer-lms-more-parm-sets | <https://mailarchive.ietf.org/arch/msg/crypto-panel/8wTKXrly_H99FCZvZ-ScE5na0Tg/> | 30 Jun 2022 |
+| Ludovic Perret | draft-fluhrer-lms-more-parm-sets-07 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/8wTKXrly_H99FCZvZ-ScE5na0Tg/> | 30 Jun 2022 |
 | Julia Hesse | draft-irtf-cfrg-voprf-12 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/lHye9ZZYQBJJJcsBxKoGU4hVp2c/> | 25 Aug 2022 |
 | Thomas Pornin | draft-irtf-cfrg-frost-08 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/bPyYzwtHlCj00g8YF1tjj-iYP2c/> | 02 Sep 2022 |
 | Scott Fluhrer | draft-smyslov-ike2-gost-10 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/rhdIyr0I8gewnjnBMy26MPzEuJM/> | 24 Sep 2022 |
 | Bjoern Tackmann | draft-irtf-cfrg-rsa-blind-signatures-04 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/x4BUsorqE6AArD2DVWaweIxR8Ys/> | 29 Sep 2022 |
 | Thomas Pornin | draft-irtf-cfrg-ristretto255-decaf448-04 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/IBS41aU6OOUOPW-QvwxSov-ccW8/> | 23 Nov 2022 |
 | Scott Fluhrer | draft-irtf-cfrg-aead-limits-06 | <https://mailarchive.ietf.org/arch/msg/cfrg/z81wt2T95TZNOXV6PHVh1SMCRZA/> | 14 Feb 2023 |
+| Russ Housley | draft-cuiling-dnsop-sm2-alg-14 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/olU9WEJ59XI8Ucd3646YIL9ZlyI/> | 24 Feb 2023 |
+| Thomas Pornin | draft-fluhrer-lms-more-parm-sets-09 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/742QVSr8r7V2Ec_NE13bluQQoAc/> | 06 Apr 2023 |
+| Virendra Kumar | draft-fluhrer-lms-more-parm-sets-09 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/v27T0ock000daoV59Tf7lqYrCw0/> | 06 Apr 2023 |
+| Russ Housley | draft-makarenko-gost2012-dnssec-00 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/c-q71ea3k52rmAPC8TWHRQEdJAs/> | 01 Sep 2023 |
+| Scott Fluhrer | draft-irtf-cfrg-opaque-11 | <https://mailarchive.ietf.org/arch/msg/cfrg/c3IKNQDDqkUKxSvJXlRXITmsytA/> | 05 Sep 2023 |
+| Jean-Philippe Aumasson | draft-irtf-cfrg-opaque-11 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/32NURJRhj-6nNMINFZNTQkGXsp8/> | 10 Sep 2023 |
+| Julia Hesse | draft-irtf-cfrg-opaque-11 | <https://mailarchive.ietf.org/arch/msg/cfrg/Bwo7jab6ifEG7a9KiDkXhayFgkk/> | 15 Sep 2023 |
+| Chloe Martindale | draft-irtf-cfrg-opaque-11 | <https://mailarchive.ietf.org/arch/msg/cfrg/kq4JClSaBUqgGjwBLMMRSsfgnxs/> | 25 Sep 2023 |
+| Thomas Pornin | draft-irtf-cfrg-cpace-10 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/UTO9Kw2NYCooxByjML4W1y_W3JE/> | 09 Nov 2023 |
+| Scott Fluhrer | draft-irtf-cfrg-dnhpke-03 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/mVv0Qf3MKZGtzfTSoC8My6kgd1s/> | 28 Nov 2023 |
+| Ludovic Perret | draft-josefsson-ntruprime-ssh-02 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/kDiLLcVOhwoix5BUDdv4r91ZhfY/> | 04 Dec 2023 |
+| Thomas Pornin | draft-fluhrer-lms-more-parm-sets-11 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/Q1er_6NPBS8qe5j5xRp_LERKydg/> | 19 Dec 2023 |
+| Bjoern Tackmann | draft-irtf-cfrg-cpace-10 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/lW4UfA5ICPeI7BNwIiokRvblNgE/> | 07 Jan 2024 |
 {.dense}
 
 ##  Reviews done for the PAKE selection process
