@@ -2,7 +2,7 @@
 title: CATS: Computing-Aware Traffic Steering
 description: Wiki Page of CATS WG
 published: true
-date: 2024-01-14T05:46:19.881Z
+date: 2024-01-14T05:53:40.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T21:38:18.769Z
@@ -29,7 +29,7 @@ https://www.rfc-editor.org/rfc/rfc6174.txt
 https://datatracker.ietf.org/group/ops/history/
 
 ## History of WG Last Call
-
+https://www.rfc-editor.org/rfc/rfc8126#section-4.9
 
 
 ---
