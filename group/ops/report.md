@@ -2,7 +2,7 @@
 title: CATS: Computing-Aware Traffic Steering
 description: Wiki Page of CATS WG
 published: true
-date: 2024-01-14T05:32:10.225Z
+date: 2024-01-14T05:46:19.881Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T21:38:18.769Z
@@ -15,21 +15,21 @@ dateCreated: 2023-06-19T21:38:18.769Z
 This wiki aims to track the information related with the active drafts in the IETF [Adil Ishaq)(https://datatracker.ietf.org/person/Adil%20Ishaq) working group which is not shown in the IETF datatracker. 
 
 The datatracker of the CATS WG:
-https://datatracker.ietf.org/wg/cats/documents/
+https://datatracker.ietf.org/doc/charter-ietf-netmod/
 
 
 ## Documents requested by authors for WG Last Call
-TBD
+https://datatracker.ietf.org/group/ops/history/
 
 
 ## Documents requested by authors for WG adoption
-TBD  
+https://www.rfc-editor.org/rfc/rfc6174.txt  
    
 ## History of WG adoption
-TBD
+https://datatracker.ietf.org/group/ops/history/
 
 ## History of WG Last Call
-TBD
+
 
 
 ---
