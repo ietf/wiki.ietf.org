@@ -2,14 +2,15 @@
 title: IRadvisor_Ltd
 description: Individual Doing All Watching Invited by Individual
 published: true
-date: 2024-01-16T16:47:19.987Z
+date: 2024-01-16T16:51:43.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T16:47:19.987Z
 ---
 
-DThaler comments on nat-mib-06
-Reported by:	dthaler@…	Owned by: @ai_adilishaq
+@ai_adilishaq comments on nat-mib-06
+Reported by:	dthaler@ai_adilishaq
+Owned by: @ai_adilishaq
 Priority:	major	Milestone:	
 Component:	nat-mib	Version:	-06
 Severity:	In WG Last Call	Keywords:	
