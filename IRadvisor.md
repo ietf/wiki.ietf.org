@@ -2,7 +2,7 @@
 title: IRadvisor_Ltd
 description: Individual Doing All Watching Invited by Individual
 published: true
-date: 2024-01-16T16:51:43.914Z
+date: 2024-01-16T16:55:32.289Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T16:47:19.987Z
@@ -13,8 +13,8 @@ Reported by:	dthaler@ai_adilishaq
 Owned by: @ai_adilishaq
 Priority:	major	Milestone:	
 Component:	nat-mib	Version:	-06
-Severity:	In WG Last Call	Keywords:	
-Cc:			
+Severity:	In WG Last Call	Keywords: #iradvisor
+Cc:	
 ## Description 
 1) Section 5 of the current draft has " Some of the readable objects in this MIB module (i.e., objects with a
 
