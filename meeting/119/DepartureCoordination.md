@@ -2,7 +2,7 @@
 title: IETF 119 Departure Coordination
 description: 
 published: true
-date: 2024-01-17T00:21:32.830Z
+date: 2024-01-17T00:21:49.249Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T00:20:00.505Z
