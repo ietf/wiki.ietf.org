@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-01-17T15:53:48.797Z
+date: 2024-01-17T16:05:14.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks |
 | --- | --- | --- | 
-| 2024-01-09 | draft-mirsky-mpls-bfd-bootstrap-clarify |   |
+| 2024-01-09 | draft-mirsky-mpls-bfd-bootstrap-clarify | Adrian to review  |
 
 ## Queued for WG Adoption Poll
 
