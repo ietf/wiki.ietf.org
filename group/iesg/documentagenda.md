@@ -2,7 +2,7 @@
 title: Getting a Document on the Agenda
 description: 
 published: true
-date: 2023-02-20T18:37:46.615Z
+date: 2024-01-18T18:02:43.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T20:34:54.536Z
@@ -72,10 +72,3 @@ When you are not talking, please use the mute, particularly if you are on a phon
 
 Sometimes IESG members talk and chat at the same time, be sure you are following the Slack IESG channel on your machine. Also, be sure to use the tracker and get your document positions in before the meeting so that they do not have to be recorded verbally during the call.
 
-&nbsp;
-&nbsp;
-&nbsp;
-
----
-
-*The content of this page was last updated on 2020-01-07. It was migrated from the old Trac wiki on 2023-02-17.*
