@@ -33,10 +33,7 @@ However, in the interest of not adding unnecessary delays, the responsible AD in
   -  Leave the state as is, and when the Last Call expiration notices comes in, issue the ballot at that time. Note that issuing the ballot will automatically change the state to "IESG Evaluation". 
   - notify the IESG by on the IESG mailing list.
     
-Note that documents are NOT commonly placed on the agenda before the Last Call is over. The AD has to remember to take the document off the agenda in case the Last Call shows that the document needs to go back to the WG.
-
-In very exceptional cases, previous IESG have used the following procedure. This is a procedure that hasn't been necessary in several years, so highly discouraged, but documented here for posterity. 
-  - When there is external deadline pressure, it's possible for a document to be on the agenda a few days before the Last Call ends. (Normally, the Last Call should end no later than the Monday after the telechat.) In this case, the correct procedure is for an AD (most likely the responsible AD) to hold a DISCUSS until the end of the Last Call. If the rest of the IESG approves the document, and no more non-editorial Last Call comments arrive, this DISCUSS can be cleared when the Last Call officially ends. Otherwise, document shepherding will resume until the comments are resolved. Since some ballot positions may change based on Last Call comments, it's probably most appropriate to have a document that's had substantive Last Call comments return to another telechat. 
+Note that documents are NOT commonly placed on the agenda before the Last Call is over. The AD has to remember to take the document off the agenda in case the Last Call shows major issues that need to be resolved before IESG evaluation.
 
 If a document is on the agenda as a "returning item" and it shouldn't be marked as a returning item, this bit can be cleared. From the main IESG datatracker page (the one with the form on top), click "Documents on upcoming agendas" button at top and there's a way to [clear returning items](/group/iesg/clearreturning).
 
