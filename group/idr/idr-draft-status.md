@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-01-05T00:43:43.057Z
+date: 2024-01-19T16:29:48.204Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -97,7 +97,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft-ietf-idr-sr-policy-ifit |  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
 | draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | 1 (Huawei) | Await Implementation report |  WG LC  | TBD  |  TBD |  TBD   | --- | 
 |  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  | 3 (juniper, nokia, x) |  WG LC (-03)  |  TBD   |  TBD  |  TBD    | Need version -03 | 
-
 {.dense}
 
 ## Adopted
