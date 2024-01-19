@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-12T17:10:23.667Z
+date: 2024-01-19T18:33:46.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-01-24 0700 PST (UTC-8) 
 
-*Agenda as of 2024-01-05. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-01-19. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -27,64 +27,42 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
+* 2024-01-10 business meeting - (draft submitted 2024-01-10) 
+
 #### 1.3. Meeting Minutes 
 
 #### 1.4. Action Item Review - 5 mins
 
-> Done:
-> 
-> 
-> On Hold:
-> 
->   • 2023-05-11: Suresh Krishnan et al to write a draft on limited
->     domains. (Check back end of June 2023)
-> 
->   • 2023-06-07: Dhruv Dhody and Mallory Knodel to track adding IAB
->     review of proposed WG charters to the Datatracker.
->     See https://github.com/ietf-tools/datatracker/issues/5849
-> 
-> 
-> In Progress:
-> 
->   • 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document 
->     outlining the architectural principles that the IAB thinks are 
->     important and need to be understood when considering Internet 
->     governance.
-> 
->   • 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB
->     Workshops and see if there were any concrete outputs.
-> 
->   • 2023-08-23: Suresh Krishnan to draft a blog post about the E-
->     Impact Program.
-> 
->   • 2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work 
->     with Hannes Tschofenig on a response to the Confidential 
->     Computing Consortium's liaison statement in response to the 
->     IAB Statement on Attestation.
-> 
->   • 2023-11-09: Mirja Kühlewind to reach out to legal regarding 
->     design teams and contributions.
-> 
-> New: 
-> 
->   • 2024-01-10: Cindy Morgan to send email about redirecting the public 
->     IAB Mediawiki to Wikijs.
-> 
->   • 2024-01-10: Dhruv Dhody, Suresh Krishnan, Alvaro Retana, Tommy 
->     Pauly, and Jiankang Yao to interview the ISOC BoT candidates.
-> 
-> 
+##### Done:
+
+* 2024-01-10: Cindy Morgan to send email about redirecting the public
+    IAB Mediawiki to Wikijs.
+    - Currently waiting for Tools Team to implement redirects.
+
+##### On Hold:
+
+* 2023-05-11: Suresh Krishnan et al to write a draft on limited domains.    
+   (Check back end of June 2023)
+
+* 2023-06-07: Dhruv Dhody and Mallory Knodel to track adding IAB review of proposed WG charters to the Datatracker.
+   See https://github.com/ietf-tools/datatracker/issues/5849
+
+##### In Progress: 
+
+* 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
+
+* 2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work with Hannes Tschofenig on a response to the Confidential Computing Consortium's liaison statement in response to the IAB Statement on Attestation.
+
+* 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
+
+* 2024-01-10: Dhruv Dhody, Suresh Krishnan, Alvaro Retana, Tommy Pauly, and Jiankang Yao to interview the ISOC BoT candidates.
 
 
 #### 1.5. IAB Document Status Update
 
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
-- **draft-iab-m-ten-workshop-02**
-Sent to the RFC Editor: AUTH48
-IAB Shepherd: Mirja Kühlewind
-
-- **draft-iab-privacy-partitioning-04**
+- **draft-iab-privacy-partitioning-05**
 Community Review ended 2023-11-03
 IAB Shepherd: David Schinazi
 
@@ -93,6 +71,9 @@ Sent to the RFC Editor
 IAB Shepherd: Wes Hardaker
 
 - **A Vision Statement for the Internet (Mallory, Mirja)**
+     Open action item:
+
+     * 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document outlining the architectural principles that the IAB thinks are important and need to be understood when considering Internet governance.
 
 
 #### 1.6. WG Chartering in Progress (Initial Charters Only)
@@ -114,8 +95,35 @@ IAB Reviewer: Qin Wu
 - **Network Management Operations (nmop)**
 Area: OPS
 External Review
-IESG Telechat: 2024-01-04
+IESG Telechat: (None)
 IAB Reviewer: Suresh Krishnan
+
+
+### 2. Monthly Reports (Liaisons) <5 mins (Public)
+
+### 3. draft-iab-privacy-partitioning-05 - 5 mins (Public)
+
+  Goal: Is the IAB ready to approve this document?
+
+### 4. E-Impact Program Blog Post (Suresh) - 10 mins (Public)
+
+Open action item:
+
+* 2023-08-23: Suresh Krishnan to draft a blog post about the E-Impact Program.
+
+
+### 5. Executive Session: Independent Submissions Editor Appointment - 15 mins
+
+
+### 6. Executive Session: ICANN Technical Liaison Group Appointment - 10 mins
+
+
+### 7. Executive Session: Multistakeholder Platform on ICT Standardization <5 mins
+
+
+8. Next IAB Meeting <5 mins
+
+  Does the IAB have a topic for a technical discussion on 2024-01-31?
 
 
 
