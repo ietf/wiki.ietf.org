@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-19T18:33:46.947Z
+date: 2024-01-19T18:34:55.462Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -35,8 +35,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ##### Done:
 
-* 2024-01-10: Cindy Morgan to send email about redirecting the public
-    IAB Mediawiki to Wikijs.
+* 2024-01-10: Cindy Morgan to send email about redirecting the public IAB Mediawiki to Wikijs.
     - Currently waiting for Tools Team to implement redirects.
 
 ##### On Hold:
@@ -121,7 +120,7 @@ Open action item:
 ### 7. Executive Session: Multistakeholder Platform on ICT Standardization <5 mins
 
 
-8. Next IAB Meeting <5 mins
+### 8. Next IAB Meeting <5 mins
 
   Does the IAB have a topic for a technical discussion on 2024-01-31?
 
