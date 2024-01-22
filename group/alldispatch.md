@@ -2,7 +2,7 @@
 title: ALLDISPATCH
 description: Experiment at IETF 119
 published: true
-date: 2023-12-16T23:31:00.193Z
+date: 2024-01-22T23:59:15.923Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T22:08:41.992Z
@@ -23,6 +23,8 @@ From 0830-1130 on Monday of IETF119, there will be an ALLDISPATCH meeting that r
 Note that the dispatch function is only necessary when the IESG and/or proponents need community input on the disposition of proposals for new work. Non-dispatch processes for placing work remain in place. IESG expects the \*DISPATCH chairs to make sure presentations are properly scoped for the dispatch questions, and to reach out for expertise to other areas when necessary. When in doubt, ART area DISPATCH procedures will be in place. 
 
 The chairs of DISPATCH, SECDISPATCH, and GENDISPATCH will work together to build the agenda, with oversight by the IESG. Those chairs will agree among themselves (adjudicated by the GEN AD, if necessary) who sits at the chairs’ table in Brisbane.
+
+*If you would like time at the meeting to discuss your work or ideas, please email the **ALLDISPATCH** chairs.*
 
 **Proponents MUST submit an internet-draft prior to the IETF 119 cutoff date (4 March 2024) to be considered for ALLDISPATCH.**
 
