@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-01-23T19:20:50.929Z
+date: 2024-01-23T20:27:11.258Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -73,7 +73,7 @@ Related activities before and after the Hackathon weekend
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Tuesday - Friday, 19-22 November, Room: TBD
+  * Tuesday - Friday, 19-22 March, Room: TBD
   * View the schedule or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
