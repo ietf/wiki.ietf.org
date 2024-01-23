@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-01-23T05:55:19.980Z
+date: 2024-01-23T08:33:40.323Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -116,8 +116,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-binding-label-sid | MISSREF*A*R(1G) | Pending on draft-ietf-pce-segment-routing-ipv6 [Cluster454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) | RFC Ed Queue|-| Andrew |
+| draft-ietf-pce-binding-label-sid | MISSREF | Pending on draft-ietf-pce-segment-routing-ipv6 [C454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
 
 
 ## Recent RFCs
