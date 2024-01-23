@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-01-19T11:59:23.923Z
+date: 2024-01-23T15:42:48.832Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -26,7 +26,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- |
-| 2024-01-17 | draft-xp-mpls-spring-lsp-ping-path-sid | No |   |  Tarek |
+| 2024-01-17 | draft-xp-mpls-spring-lsp-ping-path-sid | Started |   |  Tarek |
 | 2024-01-19 | draft-mirsky-mpls-bfd-bootstrap-clarify | No | MPLS-RT reviews commissioned  | Adrian |
 
 ## Adoption Poll Complete But Pending Author Action
