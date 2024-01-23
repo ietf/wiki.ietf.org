@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2023-12-20T07:02:39.208Z
+date: 2024-01-23T05:51:04.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,22 +13,31 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Shepherd Review is pending| draft-ietf-pce-pcep-yang| Julien | Before End of Sept |
+|Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
 
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
+|IPR Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
+|Shpeherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
-| IESG review | draft-ietf-pce-pceps-tls13-01 | Andrew | - |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
-|Shepherd Review Followup | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting Dhruv's response |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
 
-## Completed Tasks
+## AD Tracker
+|Item|Document|Remarks|
+|---|---|---|
+|AD Review|draft-ietf-pce-segment-routing-ipv6|Submitted on 2023-09-08|
+|AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
+
+## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Sent to AD | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting AD review |
+| Sent to RFC Editor | draft-ietf-pce-pceps-tls13 | Andrew | - |
 | Adoption | draft-ietf-pce-bier-te | Dhruv | Make sure authors make the update with name change |
 | Early allocation | draft-ietf-pce-pcep-color | Dhruv | - |
 | Recharter for PCE WG | - | Dhruv | Completed on 2023-12-19 |
@@ -50,9 +59,5 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |BFD WG opinion|draft-fizgeer-pce-pcep-bfd-parameters|Dhruv|Mail sent and response from Reshad received|
 
 
-## AD Tracker
-|Item|Document|Remarks|
-|---|---|---|
-|Early Code Point|draft-ietf-pce-sr-bidir-path|Sent email to John 2023-11-09|
-|Recharter|[Proposed Charter](https://datatracker.ietf.org/doc/charter-ietf-pce/)|On agenda of 2023-11-30 IESG telechat|
+
 
