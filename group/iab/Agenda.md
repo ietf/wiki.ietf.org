@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-19T18:34:55.462Z
+date: 2024-01-23T17:18:57.144Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-01-24 0700 PST (UTC-8) 
 
-*Agenda as of 2024-01-19. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-01-23. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -49,6 +49,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ##### In Progress: 
 
 * 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
+
+* 2023-08-23: Suresh Krishnan to draft a blog post about the E-Impact Program.
 
 * 2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work with Hannes Tschofenig on a response to the Confidential Computing Consortium's liaison statement in response to the IAB Statement on Attestation.
 
@@ -104,23 +106,20 @@ IAB Reviewer: Suresh Krishnan
 
   Goal: Is the IAB ready to approve this document?
 
-### 4. E-Impact Program Blog Post (Suresh) - 10 mins (Public)
+### 4. Open consultations with the UN (Mallory) - 5 mins (Public)
 
-Open action item:
+### 5. Publication of national crypto in the IS stream - 15 mins (Public)
 
-* 2023-08-23: Suresh Krishnan to draft a blog post about the E-Impact Program.
-
-
-### 5. Executive Session: Independent Submissions Editor Appointment - 15 mins
+### 6. Executive Session: Independent Submissions Editor Appointment - 15 mins
 
 
-### 6. Executive Session: ICANN Technical Liaison Group Appointment - 10 mins
+### 7. Executive Session: ICANN Technical Liaison Group Appointment - 10 mins
 
 
-### 7. Executive Session: Multistakeholder Platform on ICT Standardization <5 mins
+### 8. Executive Session: Multistakeholder Platform on ICT Standardization <5 mins
 
 
-### 8. Next IAB Meeting <5 mins
+### 9. Next IAB Meeting <5 mins
 
   Does the IAB have a topic for a technical discussion on 2024-01-31?
 
