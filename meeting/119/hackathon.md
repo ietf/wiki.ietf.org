@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-01-23T19:12:23.336Z
+date: 2024-01-23T19:20:50.929Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -67,13 +67,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 6 November, Time: 18:30 - 19:30, Room: Ballroom Foyer, Mezzanine Level
+  * Monday, 18 March, Time: 18:30 - 19:30, Room: TBD
   * View the schedule or reserve space for your team/project
-    * Reservations for space must be made by 13:00, Monday 6 November
+    * Reservations for space must be made by 13:00, Monday 18 March
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Tuesday - Friday, 7-10 November, Room: Karlin 3, Mezzanine Level
+  * Tuesday - Friday, 19-22 November, Room: TBD
   * View the schedule or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
