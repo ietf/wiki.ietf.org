@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-01-23T15:53:47.941Z
+date: 2024-01-23T15:57:45.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -68,14 +68,13 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
-| [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/) |  2023-12-18 | Extended to 2024-01-23 | No | Mach |
 
 ## Working Group Last Call Completed Pending Author Action
 
 Working group last calls may succeed or fail. In the case of failure, the document moves back to being just another working group I-D. In case of success, the chairs may instruct the shepherd to product the write-up before they pass the document to the AD requesting publication, but sometimes working group last success will be dependent on the authors making specific changes to the document. This state captures such documents.
 
 | Date | Draft | Action Needed | Shepherd |
-| --- | --- | --- | --- |
+| 2024-01-23 | [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/)  | Shepherd and chairs to evaluate last call | Mach |
 | 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 with significant updates after review. All comments addressed? Will require 2nd WGLC | Adrian |
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
 
