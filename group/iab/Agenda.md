@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-23T17:18:57.144Z
+date: 2024-01-24T16:25:05.117Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -16,9 +16,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of November 2021, meetings are at 0700 Pacific time (UTC-7)
 
-## IAB Agenda: 2024-01-24 0700 PST (UTC-8) 
+## IAB Agenda: 2024-01-31 0700 PST (UTC-8) 
 
-*Agenda as of 2024-01-23. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-01-24. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -27,7 +27,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-* 2024-01-10 business meeting - (draft submitted 2024-01-10) 
 
 #### 1.3. Meeting Minutes 
 
@@ -35,8 +34,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ##### Done:
 
-* 2024-01-10: Cindy Morgan to send email about redirecting the public IAB Mediawiki to Wikijs.
-    - Currently waiting for Tools Team to implement redirects.
 
 ##### On Hold:
 
@@ -50,13 +47,19 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
 
-* 2023-08-23: Suresh Krishnan to draft a blog post about the E-Impact Program.
-
 * 2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work with Hannes Tschofenig on a response to the Confidential Computing Consortium's liaison statement in response to the IAB Statement on Attestation.
 
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
 
 * 2024-01-10: Dhruv Dhody, Suresh Krishnan, Alvaro Retana, Tommy Pauly, and Jiankang Yao to interview the ISOC BoT candidates.
+
+* 2024-01-24: Tommy Pauly/David Schinazi to follow up with the people who submitted comments on draft-iab-privacy-partitioning.
+
+* 2024-01-24: Cindy Morgan to send an approval announcement for draft-iab-privacy-partitioning once the authors confirm it is ready to go.
+
+* 2024-01-24: Mallory Knodel to start a thread to set up a technical discussion about upcoming UN consultations that affect IETF technologies.
+
+* 2024-01-24: Cindy Morgan to send an e-vote on the ICANN Technical Liaison Group appointment.
 
 
 #### 1.5. IAB Document Status Update
@@ -64,7 +67,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
 - **draft-iab-privacy-partitioning-05**
-Community Review ended 2023-11-03
+Approved by IAB, To Be Sent to RFC Editor 
 IAB Shepherd: David Schinazi
 
 - **draft-iab-ws-environmental-impacts-report-03**
@@ -100,36 +103,11 @@ IESG Telechat: (None)
 IAB Reviewer: Suresh Krishnan
 
 
-### 2. Monthly Reports (Liaisons) <5 mins (Public)
-
-### 3. draft-iab-privacy-partitioning-05 - 5 mins (Public)
-
-  Goal: Is the IAB ready to approve this document?
-
-### 4. Open consultations with the UN (Mallory) - 5 mins (Public)
-
-### 5. Publication of national crypto in the IS stream - 15 mins (Public)
-
-### 6. Executive Session: Independent Submissions Editor Appointment - 15 mins
-
-
-### 7. Executive Session: ICANN Technical Liaison Group Appointment - 10 mins
-
-
-### 8. Executive Session: Multistakeholder Platform on ICT Standardization <5 mins
-
-
-### 9. Next IAB Meeting <5 mins
-
-  Does the IAB have a topic for a technical discussion on 2024-01-31?
-
-
+### 2. 
 
 ## Upcoming Teleconferences 
 
-* 2024-01-24: IAB Business Meeting
-* 2024-01-31: IAB Technical Discussion (Reserved)
-
+* 2024-01-31: IAB Business Meeting
 * 2024-02-07: IAB Business Meeting
 * 2024-02-14: IAB Business Meeting (Reserved)
 * 2024-02-21: IAB Business Meeting
@@ -147,13 +125,13 @@ IAB Reviewer: Suresh Krishnan
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * Charter Review in datatracker (Dhruv)
 * Liaison tool RFC4053bis document (Tommy)
-* IAB Website revamp (Cindy/Mirja)
 * DNS Root Server Maintenance document (Wes)
 
 ## Unscheduled Technical Discussions
 
 * Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
 * Hate Speech - https://zakird.com/papers/abuse_sok.pdf (Mirja)
+* UN Consultations that affect IETF protocols (Mallory)
 
 ## Planned IRTF RG Reviews 
 
