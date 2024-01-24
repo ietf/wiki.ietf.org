@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-01-24T06:00:21.793Z
+date: 2024-01-24T06:04:04.727Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
