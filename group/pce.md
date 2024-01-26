@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-01-26T17:00:08.300Z
+date: 2024-01-26T22:41:07.957Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -97,7 +97,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Waiting for write-up and Shepherd review | IPR-5/5 | Dhruv | 
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Authors indicate -14 pending, waiting for write-up and Shepherd review | IPR-5/5 | Dhruv | 
 
 
 ## Drafts with the IESG
@@ -142,7 +142,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 | --- | --- | --- | --- | --- | --- |
 |draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2023-04-04|2024-05-09|
 |draft-ietf-pce-segment-routing-ipv6| WG I-D | various |2022-01-12|2023-12-14|2025-01-12|
-|draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV|2021-03-30|2023-03-07|2024-03-30| 
+|draft-ietf-pce-segment-routing-policy-cp| WG I-D |ASSOCIATION Type & TLV<br>Additional early allocs pending request|2021-03-30|2023-03-07|2024-03-30| 
 |draft-ietf-pce-pcep-extension-native-ip| WG I-D |- CCI Object-Type<br>- BGP Peer Info Object-Type<br>- Explicit Peer Route Object-Type<br>- Peer Prefix Advertisement Object-Type<br>- PCEP-ERROR Object Error Type<br>- Path Setup Type<br>- PCECC-Capability sub-TLV|2023-08-14|-|2024-08-14| 
 |draft-ietf-pce-sid-algo|WG I-D| 4 allocation done |2023-09-13|-|2024-09-13|
 |draft-ietf-pce-pcep-color|WG I-D| 3 allocations done |2023-10-30|-|2024-10-30|
