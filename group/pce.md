@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-01-23T08:33:40.323Z
+date: 2024-01-26T13:46:51.263Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -61,7 +61,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -04 posted on 2023-10-23  | Question on using draft-ietf-pce-enhanced-errors |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -09 posted on 2023-07-24  | Comments from 117 are not handled yet! |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -04 posted on 2023-10-23 | More review requested |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | -05 posted on 2023-09-21 | - |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -04 posted on 2023-07-04 |  We need to evaluate if the procedures listed in RFC9168 needs to be updated to support FSv2 or not. |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -04 posted on 2023-07-26  | waiting for spring adoption |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | -03 posted on 2023-07-07 | - |
@@ -90,7 +89,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | N | Pending Impl. Status.  | IANA Early alloc done | Dhruv | Dhruv |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - | - | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | - | - | - | - |
-
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Y | - | Asked to fill Security Considerations | - | - |
 ## Post WG LC Queue  
 
 This is a queue of documents after WG LC and before being sent to the IESG.
