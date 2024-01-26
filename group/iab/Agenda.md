@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-24T16:25:05.117Z
+date: 2024-01-26T20:11:16.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-01-31 0700 PST (UTC-8) 
 
-*Agenda as of 2024-01-24. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-01-26. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -27,13 +27,15 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-
 #### 1.3. Meeting Minutes 
+
+  • 2024-01-24 business meeting - (draft submitted 2024-01-24) 
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
+* 2024-01-24: Cindy Morgan to send an e-vote on the ICANN Technical Liaison Group appointment.
 
 ##### On Hold:
 
@@ -59,8 +61,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-01-24: Mallory Knodel to start a thread to set up a technical discussion about upcoming UN consultations that affect IETF technologies.
 
-* 2024-01-24: Cindy Morgan to send an e-vote on the ICANN Technical Liaison Group appointment.
-
 
 #### 1.5. IAB Document Status Update
 
@@ -76,8 +76,6 @@ IAB Shepherd: Wes Hardaker
 
 - **A Vision Statement for the Internet (Mallory, Mirja)**
      Open action item:
-
-     * 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document outlining the architectural principles that the IAB thinks are important and need to be understood when considering Internet governance.
 
 
 #### 1.6. WG Chartering in Progress (Initial Charters Only)
@@ -98,12 +96,37 @@ IAB Reviewer: Qin Wu
 
 - **Network Management Operations (nmop)**
 Area: OPS
-External Review
-IESG Telechat: (None)
+IESG Review
+IESG Telechat: 2024-02-01
 IAB Reviewer: Suresh Krishnan
 
 
-### 2. 
+### 2. A Vision Statement for the Internet (Mallory) - 10 mins (Public)
+
+  Goal: Next steps
+
+  Open action item: 
+
+  • 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document
+    outlining the architectural principles that the IAB thinks are
+    important and need to be understood when considering Internet
+    governance.
+    
+### 3. Executive Session: ICANN Technical Liaison Group Appointment >5 mins
+
+  Goal: Record/finish e-vote
+
+
+### 4. Executive Session: Multistakeholder Platform on ICT Standardization - 5 mins
+
+  Goal: Confirm suggested personnel change
+
+
+### 5. Executive Session: Independent Submissions Editor Appointment - 20 mins
+
+  Goal: Discussion
+
+    
 
 ## Upcoming Teleconferences 
 
