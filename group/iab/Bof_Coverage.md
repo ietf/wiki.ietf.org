@@ -2,12 +2,13 @@
 title: BOF Coverage
 description: 
 published: true
-date: 2023-12-07T00:34:58.860Z
+date: 2024-01-26T20:42:19.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T23:20:44.158Z
 ---
 
+- [Bof119](/group/iab/Bof119)
 - [Bof118](/group/iab/Bof118)
 - [Bof117](/group/iab/Bof117)
 - [Bof116](/group/iab/Bof116)
