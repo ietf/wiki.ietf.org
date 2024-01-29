@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2023-09-28T11:06:45.690Z
+date: 2024-01-29T12:47:03.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -46,6 +46,8 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
    * 2022-11-9 Authors sent request  
 * draft-hr-spring-intentaware-routing-using-color
    * [IETF 117] Authors asked for adoption, but the document has 19 (!) authors.  The request will be considered once an update is submitted with (at most) 5 authors.
+   * 2023-10-23 -03 with 5 authors
+   * 2024-01-29 authors asked again
 * draft-cheng-spring-srv6-policy-resource-gurantee
 	* 2023-09-28 Authors sent request
    
