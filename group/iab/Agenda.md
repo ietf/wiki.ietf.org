@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-30T23:11:55.476Z
+date: 2024-01-30T23:12:24.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -106,7 +106,7 @@ IAB Reviewer: Suresh Krishnan
   Goal: Discussion session length, topics
 
 
-### 2. A Vision Statement for the Internet (Mallory) - 10 mins (Public)
+### 3. A Vision Statement for the Internet (Mallory) - 10 mins (Public)
 
   Goal: Next steps
 
@@ -117,17 +117,17 @@ IAB Reviewer: Suresh Krishnan
     important and need to be understood when considering Internet
     governance.
     
-### 3. Executive Session: ICANN Technical Liaison Group Appointment >5 mins
+### 4. Executive Session: ICANN Technical Liaison Group Appointment >5 mins
 
   Goal: Record/finish e-vote
 
 
-### 4. Executive Session: Multistakeholder Platform on ICT Standardization - 5 mins
+### 5. Executive Session: Multistakeholder Platform on ICT Standardization - 5 mins
 
   Goal: Confirm suggested personnel change
 
 
-### 5. Executive Session: Independent Submissions Editor Appointment - 20 mins
+### 6. Executive Session: Independent Submissions Editor Appointment - 20 mins
 
   Goal: Discussion
 
