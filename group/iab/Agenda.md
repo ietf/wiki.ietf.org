@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-26T20:11:16.168Z
+date: 2024-01-30T23:11:55.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -37,6 +37,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-01-24: Cindy Morgan to send an e-vote on the ICANN Technical Liaison Group appointment.
 
+* 2024-01-24: Tommy Pauly/David Schinazi to follow up with the people who submitted comments on draft-iab-privacy-partitioning.
+
+* 2024-01-24: Cindy Morgan to send an approval announcement for draft-iab-privacy-partitioning once the authors confirm it is ready to go.
+
 ##### On Hold:
 
 * 2023-05-11: Suresh Krishnan et al to write a draft on limited domains.    
@@ -55,10 +59,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-01-10: Dhruv Dhody, Suresh Krishnan, Alvaro Retana, Tommy Pauly, and Jiankang Yao to interview the ISOC BoT candidates.
 
-* 2024-01-24: Tommy Pauly/David Schinazi to follow up with the people who submitted comments on draft-iab-privacy-partitioning.
-
-* 2024-01-24: Cindy Morgan to send an approval announcement for draft-iab-privacy-partitioning once the authors confirm it is ready to go.
-
 * 2024-01-24: Mallory Knodel to start a thread to set up a technical discussion about upcoming UN consultations that affect IETF technologies.
 
 
@@ -67,7 +67,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
 - **draft-iab-privacy-partitioning-05**
-Approved by IAB, To Be Sent to RFC Editor 
+Sent to the RFC Editor: Informational 
 IAB Shepherd: David Schinazi
 
 - **draft-iab-ws-environmental-impacts-report-03**
@@ -99,6 +99,11 @@ Area: OPS
 IESG Review
 IESG Telechat: 2024-02-01
 IAB Reviewer: Suresh Krishnan
+
+
+### 2. IAB Open Session at IETF 119 (Mirja) - 5 mins (Public)
+
+  Goal: Discussion session length, topics
 
 
 ### 2. A Vision Statement for the Internet (Mallory) - 10 mins (Public)
