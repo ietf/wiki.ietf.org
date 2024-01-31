@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-01-30T23:20:29.015Z
+date: 2024-01-31T16:16:52.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -16,9 +16,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of November 2021, meetings are at 0700 Pacific time (UTC-7)
 
-## IAB Agenda: 2024-01-31 0700 PST (UTC-8) 
+## IAB Agenda: 2024-02-07 0700 PST (UTC-8) 
 
-*Agenda as of 2024-01-26. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-01-31. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -34,12 +34,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
-
-* 2024-01-24: Cindy Morgan to send an e-vote on the ICANN Technical Liaison Group appointment.
-
-* 2024-01-24: Tommy Pauly/David Schinazi to follow up with the people who submitted comments on draft-iab-privacy-partitioning.
-
-* 2024-01-24: Cindy Morgan to send an approval announcement for draft-iab-privacy-partitioning once the authors confirm it is ready to go.
 
 ##### On Hold:
 
@@ -57,9 +51,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
 
-* 2024-01-10: Dhruv Dhody, Suresh Krishnan, Alvaro Retana, Tommy Pauly, and Jiankang Yao to interview the ISOC BoT candidates.
+* 2024-01-31: Mirja Kühlewind to request a 1.5 hour session for IETF 119.
 
-* 2024-01-24: Mallory Knodel to start a thread to set up a technical discussion about upcoming UN consultations that affect IETF technologies.
+* 2024-01-31: Cindy Morgan to send a follow-up email to Andrei Robachevsky about the Multistakeholder Platform on ICT Standardization.
 
 
 #### 1.5. IAB Document Status Update
@@ -67,16 +61,16 @@ dateCreated: 2023-12-04T23:35:41.632Z
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
 - **draft-iab-privacy-partitioning-05**
-Sent to the RFC Editor: Informational 
+Sent to the RFC Editor: EDIT
 IAB Shepherd: David Schinazi
 
 - **draft-iab-ws-environmental-impacts-report-03**
-Sent to the RFC Editor
+Sent to the RFC Editor: EDIT
 IAB Shepherd: Wes Hardaker
 
 - **A Vision Statement for the Internet (Mallory, Mirja)**
      Open action item:
-
+    - 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document outlining the architectural principles that the IAB thinks are important and need to be understood when considering Internet governance.
 
 #### 1.6. WG Chartering in Progress (Initial Charters Only)
 
@@ -101,45 +95,17 @@ IESG Telechat: 2024-02-01
 IAB Reviewer: Suresh Krishnan
 
 
-### 2. IAB Open Session at IETF 119 (Mirja) - 5 mins (Public)
+### 2. 
 
-  Goal: Discussion session length, topics
-
-
-### 3. A Vision Statement for the Internet (Mallory) - 10 mins (Public)
-
-  Goal: Next steps
-
-  Open action item: 
-
-  • 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document
-    outlining the architectural principles that the IAB thinks are
-    important and need to be understood when considering Internet
-    governance.
-    
-### 4. Executive Session: ICANN Technical Liaison Group Appointment >5 mins
-
-  Goal: Record/finish e-vote
-
-
-### 5. Executive Session: Multistakeholder Platform on ICT Standardization - 5 mins
-
-  Goal: Confirm suggested personnel change
-
-
-### 6. Executive Session: Independent Submissions Editor Appointment - 20 mins
-
-  Goal: Discussion
-
-    
-
+### 3. 
 ## Upcoming Teleconferences 
 
-* 2024-01-31: IAB Business Meeting
 * 2024-02-07: IAB Business Meeting
-* 2024-02-14: IAB Business Meeting (Reserved)
-* 2024-02-21: IAB Business Meeting
-* 2024-02-28: IAB Technical Discussion (Reserved)
+* 2024-02-14: IAB Business Meeting
+  - Discussion with ISE
+  - ISOC BOT Appointment
+* 2024-02-21: IAB Business Meeting: New Member Onboarding
+* 2024-02-28: IAB Technical Discussion: UN Consultations that affect IETF protocols
 * 2024-03-06: IAB Business Meeting
 
 -- 2024-03-16 - 2024-03-22: IETF 119 --
@@ -159,7 +125,6 @@ IAB Reviewer: Suresh Krishnan
 
 * Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
 * Hate Speech - https://zakird.com/papers/abuse_sok.pdf (Mirja)
-* UN Consultations that affect IETF protocols (Mallory)
 
 ## Planned IRTF RG Reviews 
 
