@@ -2,7 +2,7 @@
 title: IAB Open Chair History
 description: 
 published: true
-date: 2023-12-06T00:13:09.039Z
+date: 2024-01-31T17:11:34.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:13:03.738Z
@@ -11,6 +11,7 @@ dateCreated: 2023-12-06T00:13:03.738Z
 # IAB Open Chair History
 The IAB Open Meeting is generally chaired by the IAB Chair* and one other IAB member, on a rotating basis.
 
+- 119: Mirja Kühlewind*, Tommy Pauly
 - 118: Mirja Kühlewind*, Dhruv Dhody
 - 117: Mirja Kühlewind*, Suresh Krishnan
 - 116: Mirja Kühlewind*, Wes Hardaker
