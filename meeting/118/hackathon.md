@@ -2,7 +2,7 @@
 title: IETF 118 Hackathon
 description: 
 published: true
-date: 2023-11-04T16:41:20.757Z
+date: 2024-02-01T17:07:57.724Z
 tags: meeting information
 editor: markdown
 dateCreated: 2023-08-22T14:39:26.771Z
@@ -24,8 +24,8 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 
 **Sign up for the Hackathon**
-* [Onsite registration](https://registration.ietf.org/118/new/hackathon_onsite/)
-* [Remote registration](https://registration.ietf.org/118/new/hackathon_remote/)
+* [Onsite registration](https://registration.ietf.org/119/new/hackathon_onsite/)
+* [Remote registration](https://registration.ietf.org/119/new/hackathon_remote/)
 {.links-list}
 
 **View the list of registered**:
