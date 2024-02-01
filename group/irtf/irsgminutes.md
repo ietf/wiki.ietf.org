@@ -2,7 +2,7 @@
 title: IRSG Teleconference Minutes
 description: 
 published: true
-date: 2024-02-01T09:35:11.929Z
+date: 2024-02-01T16:28:10.549Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-27T17:52:35.934Z
 
 ## 2024 
 * [2024-01-30](https://wiki.ietf.org/en/group/irtf/irsgminutes/2024-01-30)
-	* Okay from: Reese Enghardt, Colin Perkins
+	* Okay from: Reese Enghardt, Colin Perkins, Dave Oran
   * OK & thx for details: Allison
  ## 2023
  * [2023-11-28](https://wiki.ietf.org/en/group/irtf/irsgminutes/2023-11-28)
