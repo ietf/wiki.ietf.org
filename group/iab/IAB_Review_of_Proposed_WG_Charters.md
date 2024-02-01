@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2023-12-05T21:01:23.487Z
+date: 2024-02-01T18:10:26.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2023-2024 Assignments
+- WIMSE: David Schinazi (2024-02)
 - NMOP: Suresh Krishnan (2023-11)
 - VCON: Tommy Pauly (2023-09)
 - SML: Chris Wood (2023-09)
