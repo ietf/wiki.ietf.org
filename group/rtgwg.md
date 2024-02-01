@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2024-01-09T19:52:33.860Z
+date: 2024-01-09T19:52:38.881Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z

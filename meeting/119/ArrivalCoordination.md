@@ -2,7 +2,7 @@
 title: IETF 119 Arrival Coordination
 description: 
 published: true
-date: 2024-02-01T15:59:06.701Z
+date: 2024-02-01T15:59:11.966Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:36:45.909Z
