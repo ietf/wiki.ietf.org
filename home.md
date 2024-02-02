@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T19:51:41.760Z
+date: 2024-02-02T00:02:57.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -10,7 +10,7 @@ dateCreated: 2022-03-03T23:49:27.329Z
 
 # Welcome to the IETF Community Wiki
 
-This is a community wiki for IETF participants to use.  It replaces the previous structure of trac wikis where each working group/team had its own trac instance.  
+This is a community wiki for IETF participants to use.  It replaces the previous structure of trac wikis where each working group/team had its own trac instance.
 
 The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all content on this wiki, and it is referenced on every page.
 
