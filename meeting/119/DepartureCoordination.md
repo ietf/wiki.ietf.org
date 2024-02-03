@@ -2,7 +2,7 @@
 title: IETF 119 Departure Coordination
 description: 
 published: true
-date: 2024-01-17T00:21:54.328Z
+date: 2024-02-03T16:11:40.754Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T00:20:00.505Z
@@ -36,7 +36,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 9am  | NZ146 | Bob Hinden | bob.hinden@gmail.com | INT TERM | BNE | Flight to AKL departs at 11:10am |       |
 |      |        |      |       |         |          |             |       |
 
 ## Sunday, March 24, 2024
