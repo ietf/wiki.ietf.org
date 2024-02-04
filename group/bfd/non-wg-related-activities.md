@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2024-02-04T16:16:02.471Z
+date: 2024-02-04T16:23:24.189Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T21:04:04.044Z
 
 # Adopted Non-WG BFD Documents of Interest
 * draft-ietf-idr-bgp-bfd-strict-mode - BGP BFD Strict-Mode.
-* draft-ietf-bier-bfd - BIER BFD
+* draft-ietf-bier-bfd - BIER BFD (ready for WGLC April 2023?)
 * draft-ietf-bess-evpn-bfd - EVPN Network Layer Fault Management
 * draft-ietf-mpls-bfd-directed (was draft-mirsky-mpls-bfd-directed)
   * 2015-08-31: Adopted in MPLS as a WG document.
@@ -24,7 +24,7 @@ dateCreated: 2022-07-23T21:04:04.044Z
   * Replaces draft-mirsky-bfd-p2mp-vrrp-use-case
 
 # BFD Segment Routing Documents of Interest
-* draft-ietf-spring-bfd - Bidirectional Forwarding Detection (BFD) in Segment Routing Networks Using MPLS Dataplane.
+* draft-ietf-spring-bfd - Bidirectional Forwarding Detection (BFD) in Segment Routing Networks Using MPLS Dataplane (Ready for WGLC 01/2024?).
 * draft-ali-spring-bfd-sr-policy - Bidirectional Forwarding Detection (BFD) for Segment Routing Policies for Traffic Engineering
 * draft-liu-bfd-srv6-policy-encap - Encapsulation of BFD for SRv6 Policy
 * draft-lin-sbfd-path-consistency-over-srv6 - S-BFD Path Consistency over SRv6
