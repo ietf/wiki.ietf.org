@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2024-02-04T16:23:24.189Z
+date: 2024-02-04T16:40:01.875Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -32,3 +32,4 @@ dateCreated: 2022-07-23T21:04:04.044Z
 
 # Non-Adopted BFD Documents of Interest
 * draft-xiao-bfd-padding-alteration - Bidirectional Forwarding Detection (BFD) Padding Alteration
+* draft-mirsky-mpls-bfd-bootstrap-clarify - Clarifying Use of LSP Ping to Bootstrap BFD over MPLS LSP (Note that chairs consider this mostly a call for an RFC 5884-bis)
