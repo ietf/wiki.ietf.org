@@ -2,7 +2,7 @@
 title: BFD WG RFC Listing
 description: 
 published: true
-date: 2024-01-22T17:41:48.041Z
+date: 2024-02-04T16:15:48.407Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:56:34.825Z
@@ -58,5 +58,6 @@ dateCreated: 2022-07-23T20:56:34.825Z
 * RFC 9026 - Multicast VPN Fast Upstream Failover
 * RFC 9186 - Fast Failover in Protocol Independent Multicast - Sparse Mode (PIM-SM) Using Bidirectional Forwarding Detection (BFD) for Multipoint Networks
 * RFC 9355 - OSPF BFD Strict-Mode.
+* RFC 9521 - Bidirectional Forwarding Detection (BFD) for Generic Network Virtualization Encapsulation (Geneve) 
 
 
