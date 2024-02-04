@@ -2,7 +2,7 @@
 title: BFD WG Non-WG Related Activities
 description: 
 published: true
-date: 2023-03-21T19:19:09.580Z
+date: 2024-02-04T16:16:02.471Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:04:04.044Z
@@ -11,7 +11,6 @@ dateCreated: 2022-07-23T21:04:04.044Z
 # Adopted Non-WG BFD Documents of Interest
 * draft-ietf-idr-bgp-bfd-strict-mode - BGP BFD Strict-Mode.
 * draft-ietf-bier-bfd - BIER BFD
-* draft-ietf-nvo3-bfd-geneve - BFD for Geneve.
 * draft-ietf-bess-evpn-bfd - EVPN Network Layer Fault Management
 * draft-ietf-mpls-bfd-directed (was draft-mirsky-mpls-bfd-directed)
   * 2015-08-31: Adopted in MPLS as a WG document.
