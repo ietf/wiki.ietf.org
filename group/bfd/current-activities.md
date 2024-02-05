@@ -2,7 +2,7 @@
 title: BFD WG Current Activities
 description: 
 published: true
-date: 2024-01-22T17:40:57.231Z
+date: 2024-02-05T14:26:04.458Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:00:31.891Z
@@ -19,7 +19,7 @@ dateCreated: 2022-07-23T21:00:31.891Z
 
 * draft-ietf-bfd-large-packets - BFD encapsulated in large packets. (2020-07: Updates needed to progress.)
 * draft-ietf-bfd-stability (2024-01: Needs final reconciliation vs. secure sequence numbers document.)
-* draft-ietf-bfd-unaffiliated-echo - Unaffiliated BFD Echo Function. (2024-01: Submitted to IESG for publication.)
+* draft-ietf-bfd-unaffiliated-echo - Unaffiliated BFD Echo. (2024-01: Submitted to IESG for publication.)
 
 # Likely Upcoming Work
 
