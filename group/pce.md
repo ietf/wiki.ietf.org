@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-02-02T16:30:14.184Z
+date: 2024-02-05T10:31:17.010Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -66,7 +66,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | -03 posted on 2023-07-07 | - |
 | draft-ietf-pce-pcep-srv6-yang |  -04 posted on 2023-09-11 | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | -01 posted on 2023-08-13 | Adoption comments from Adrian are handled |
-| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | - |  |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
@@ -90,6 +89,8 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | - | - | - | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | - | - | - | - |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Y | - | v8 posted addressing wglc items, pending feedback | - | - |
+| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | Y | - | - |
+
 ## Post WG LC Queue  
 
 This is a queue of documents after WG LC and before being sent to the IESG.
