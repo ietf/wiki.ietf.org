@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-01-23T20:30:10.768Z
+date: 2024-02-06T13:53:06.306Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -46,7 +46,7 @@ Hackathon *(all times are AEST, GMT+10)*
 * **09:30** : Room open for setup by project champions    
 * **10:00** : Room open for all - pastries and coffee provided
 * **10:30** : Hackathon kickoff
-* **10:45** : Form Teams, see [Team Schedule](/teamschedule)
+* **10:45** : Form Teams, see [Team Schedule](teamschedule)
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
 * **18:30** : Dinner provided
@@ -68,13 +68,13 @@ Related activities before and after the Hackathon weekend
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
   * Monday, 18 March, Time: 18:30 - 19:30, Room: TBD
-  * View the schedule or reserve space for your team/project
+  * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 18 March
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
   * Tuesday - Friday, 19-22 March, Room: TBD
-  * View the schedule or reserve space for your team/project
+  * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
@@ -102,7 +102,7 @@ If you received the email but the link to create an account has expired, please 
    * Before the Hackathon, champions should:
       * Add information about your project to the list of  [Projects included in Hackathon](#ProjectsIncludedinHackathon)
       * Recruit participants from associated working groups, open source projects, etc. Announcing your projects via an email to (hackathon@ietf.org) can be helpful as well.
-      * Specify when and how the project team will meet on the Team Schedule
+      * Specify when and how the project team will meet on the [Team Schedule](teamschedule)
    * At the Hackathon, champions should: 
       * Make themselves available to answer questions and help others
       * Hack on things themselves in their copious free time
@@ -111,7 +111,7 @@ If you received the email but the link to create an account has expired, please 
 ### Choosing a Project
    * Champions post and lead projects 
    * Details on each project and links to additional information for each project are in the list of [Projects included in Hackathon](#ProjectsIncludedinHackathon) 
-   * How and when teams meet during the week is up to them and can be found in the Team Schedule.
+   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamschedule).
    * Familiarity with technology area(s) in which you plan to participate will certainly help
    * It is perfectly fine, even encouraged, to work on multiple projects 
    
