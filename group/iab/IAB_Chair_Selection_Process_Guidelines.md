@@ -2,7 +2,7 @@
 title: IAB Chair Selection Process Guidelines
 description: 
 published: true
-date: 2023-12-05T19:51:35.669Z
+date: 2024-02-06T23:44:41.749Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:51:30.914Z
@@ -46,6 +46,10 @@ This is a set of guidelines describing how the IAB selects its Chair. It is NOT 
 &nbsp;
 &nbsp;
 
+## Handover
+
+Generally, the selection of the new Chair is finalized on the Sunday of the March IETF meeting. The official handover happens during the plenary, with the outgoing chair taking care of the IAB reporting section of the plenary, and the incoming chair taking over for the open mic session.
+
 ---
 
-*The content of this page was last updated on 2020-06-10. It was migrated from the old IAB wiki on 2023-12-04.*
+*The content of this page was last updated on 2024-02-04 It was migrated from the old IAB wiki on 2023-12-04.*
