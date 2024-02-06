@@ -2,7 +2,7 @@
 title: IAB Chair Selection Process Guidelines
 description: 
 published: true
-date: 2024-02-06T23:44:41.749Z
+date: 2024-02-06T23:59:02.357Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:51:30.914Z
@@ -46,10 +46,76 @@ This is a set of guidelines describing how the IAB selects its Chair. It is NOT 
 &nbsp;
 &nbsp;
 
+## Email Templates
+
+### Call for Nominations
+
+> Subject:  Call for Nominations for IAB Chair
+> To: iab
+> 
+> Hello the IAB, and welcome new members!
+> 
+> I've volunteered to serve as the chair of the IAB Chair Selection 
+> Committee for the March [YEAR] IAB chair selection.
+> 
+> This message starts the IAB Chair Selection Process [1] with a solicitation of nominations for IAB Chair. Any incoming or continuing member of the IAB may be selected as chair; self-nominations are accepted and encouraged.
+> 
+> Please send nominations to me (ADDRESS) with a short memo describing the nominee's (i.e., your) motivation, goals, and a statement of time commitment.
+> 
+> Nominations will close on [DATE], end-of-day where ever you happen to be.
+> 
+> Thanks!
+> [Name]
+> 
+> [1] https://wiki.ietf.org/e/en/group/iab/IAB_Chair_Selection_Process_Guidelines
+
+### Candidate List
+
+> Subject: IAB Chair Candidates
+> To: iab-chair-vote
+> 
+> Hi,
+> 
+> This is a note to inform you of the willing candidates we’ve received for the IAB Chair position.
+> 
+> **Mailing list**
+> 
+> Who is on the iab-chair-vote mailing list? The list includes the voting members of the Chair Selection Committee:
+> 
+> - All incoming, continuing, and returning IAB, minus the candidates
+> 
+> The list also includes the non-voting members, who may still participate in the discussion of the candidates, as they have experience working with them
+> 
+> - All outgoing IAB (including me)
+> - The IRTF Chair (Colin)
+> - The Selection Chair Assistant (Cindy), who is on the list to keep things on track on the admin side
+> 
+> **Candidates**
+> 
+> *Names*
+> 
+> Their short memos and declarations of intent are at the bottom of this email. 
+> 
+> **Process**
+> 
+> What follows per the process [1] is that prior to the next face to face meeting, the Selection Committee Members are informed about the candidates and their intentions. The Selection Committee may decide to hold a meeting to discuss about the candidates, in addition to discussion on the iab-chair-vote list. Then during the next IAB face to face meeting, the Selection Committee Members without the candidates shall have in-person discussion about the candidates, possibly vote, inform the candidates about the results, etc.
+> 
+> 
+> 
+> **References**
+> 
+> [1] https://wiki.ietf.org/e/en/group/iab/IAB_Chair_Selection_Process_Guidelines
+> 
+> **Candidate Statements**
+> 
+> *Statement 1*
+> 
+> *Statement 2*
+> 
 ## Handover
 
 Generally, the selection of the new Chair is finalized on the Sunday of the March IETF meeting. The official handover happens during the plenary, with the outgoing chair taking care of the IAB reporting section of the plenary, and the incoming chair taking over for the open mic session.
 
 ---
 
-*The content of this page was last updated on 2024-02-04 It was migrated from the old IAB wiki on 2023-12-04.*
+*The content of this page was last updated on 2024-02-06. It was migrated from the old IAB wiki on 2023-12-04.*
