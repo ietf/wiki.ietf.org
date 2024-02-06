@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-06T15:02:35.540Z
+date: 2024-02-06T19:09:28.779Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -171,6 +171,30 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Mike Ounsworth (mike.ounsworth@entrust.com)
+Tomofumi Okubo (tomofumi.okubo@digicert.com)
+Julien Prat (julien.prat@cryptonext-security.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
+https://datatracker.ietf.org/doc/draft-ounsworth-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/00/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-kemri/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-rfc4210bis/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cert-binding-for-multi-auth/01/
+https://www.ietf.org/id/draft-lamps-okubo-certdiscovery-00.html
+https://datatracker.ietf.org/doc/draft-bonnell-lamps-chameleon-certs/
+https://datatracker.ietf.org/doc/draft-gazdag-x509-hash-sigs/
+
+- **Project Info**
+Purpose is to make use of PQ in real world X.509 structures like keys, signatures, certificates and protocols. This will allow us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage in the real world.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
 
 ----
 
