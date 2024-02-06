@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-02T20:35:00.812Z
+date: 2024-02-06T20:27:57.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -52,8 +52,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
 
-* 2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work with Hannes Tschofenig on a response to the Confidential Computing Consortium's liaison statement in response to the IAB Statement on Attestation.
-
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
 
 #### 1.5. IAB Document Status Update
@@ -102,14 +100,22 @@ IAB Reviewer: Qin Wu
 
   Goal: Choose Selection Committee Chair
 
-### 3. Technical Discussion Topics (Mirja) - 10 mins (Public)
 
-### 4. Executive Session: ICANN Technical Liaison Group Appointment
+### 3. Response to CCC Liaison in response to IAB Statement on Attestation (Tommy) - 10 mins (Public)
+
+  Open action item:
+
+*  2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work with Hannes Tschofenig on a response to the Confidential Computing Consortium's liaison statement in response to the IAB Statement on Attestation.
+
+
+### 4. Technical Discussion Topics (Mirja) - 10 mins (Public)
+
+### 5. Executive Session: ICANN Technical Liaison Group Appointment
 
   Goal: Record/Finish E-Vote
 
 
-### 5. Executive Session: ISOC Board of Trustees Appointment
+### 6. Executive Session: ISOC Board of Trustees Appointment
 
   Goal: Discussion
 
