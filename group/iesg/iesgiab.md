@@ -2,7 +2,7 @@
 title: IESG & IAB Interactions
 description: 
 published: true
-date: 2023-02-20T20:27:19.744Z
+date: 2024-02-07T23:13:27.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:27:16.013Z
@@ -15,21 +15,15 @@ The IESG has one liaison person to the IAB. Every year after the first IETF meet
 
 The tasks of this IESG liaison to the IAB are:
 
-  -  Participate in the IAB conference calls. At the time of this writing that means 3 teleconference calls per month:
-       - two times 90 minutes for normal Business meetings
-       - one 2 hour Technical meeting 
+  -  Participate in the IAB conference calls. At the time of this writing that means 2-4 teleconference calls per month:
+       - 60-minute business meetings are held every other week
+       - The alternate weeks are held in reserve in case an additional business meetings are needed. 
+           - The IAB tries to use one of the reserve slots each month for a purely technical topic, often with an outside presenter
   -  Report important (and IAB relevant) topics from IESG to the IAB
        - including writing-up a short report of a few paragraphs to the IAB for every second business meeting in the month.
        - The recommended method is sending a draft to iesg list first and giving them a day or two to comment. After that, sending it to the IAB mailing list. 
   -  Help the interaction between IESG and IAB. Sometimes that means reminding or asking IAB members to also copy the IESG on certain topics. Sometimes geting a specific task to discuss some topic within IESG to try and get a IESG concensus view on the topic back to IESG.
   -  The IESG liaison is subscribed to the IAB mailing list 
-
-The IESG liaison to the IAB is also currently performing the task of interfacing between the IAB members and the I-D traker in order to ease the follow-up of the draft-iab-... documents and allow visibility of the IETF community in what concerns the status of these documents. This task is assumed on temporary basis until the procedure and tools are updated to allow direct access of the IAB members to the I-D tracker for these documents and includes:
-
-  -  defining the liaison AD as 'shepherding AD' in the tracker when the version 00 of the document is published
-  -  placing the document in 'AD is watching' state
- -   updating the tracker with major milestones (e.g. when entering public review)
- -   including the list and status of the documents in the monthly IESG liaison report 
 
 The IETF chair (currently also IESG chair) is also on the IAB, so he/she also can help with this process.
 
@@ -83,7 +77,7 @@ What we should make clear is:
 
 ## 5. IAB Member Roles in Evaluating New Work Proposals
 
-Under RFC 2850, the IAB is responsible for "oversight of the architecture for the protocols and procedures used by the Internet". An IAB/IESG statement on IAB Member Roles in Evaluating New Work Proposals is available here: http://www.iab.org/documents/correspondence-reports-documents/2012-2/iab-member-roles-in-evaluating-new-work-proposals/
+Under RFC 2850, the IAB is responsible for "oversight of the architecture for the protocols and procedures used by the Internet". An IAB/IESG statement on IAB Member Roles in Evaluating New Work Proposals is available here: https://datatracker.ietf.org/doc/statement-iab-member-roles-in-evaluating-new-work-proposals/
 
 
 &nbsp;
@@ -92,4 +86,3 @@ Under RFC 2850, the IAB is responsible for "oversight of the architecture for th
 
 ---
 
-*The content of this page was last updated on 2018-01-26. It was migrated from the old Trac wiki on 2023-02-17.*
