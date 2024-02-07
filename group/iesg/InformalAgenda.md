@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-02-07T20:27:03.482Z
+date: 2024-02-07T20:28:47.381Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -61,7 +61,7 @@ Please use your best judgement to add new items into one of the categories below
 
 * Should IANA YANG Modules be published in RFCs or elided at publication time. (Rob W, perhaps do in 119 pre-meeting when IANA can also be easily present)
 
-* Does IETF-120 complies with section 3.2.2 2nd bullet of RFC 8718 ? How can we avoid this situation if this is a problem (Éric V)
+* Unsure whether IETF-120 complies with section 3.2.2 2nd bullet of RFC 8718 ? How can we avoid this situation if this is a problem (Éric V)
 
 #### Not important and not urgent
 
