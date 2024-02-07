@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2023-12-05T19:52:15.912Z
+date: 2024-02-07T21:21:05.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -36,6 +36,6 @@ This is a list of several administrative items that are usually handled at the f
   - [ARPA_DNS_Zone](/group/iab/ARPA_DNS_Zone)
 - Identify Tools Team Liaison (2023-2024: Mallory)
 - Identify EMODir Liaison (2023-2024: Chris)
-- Identify IAB Outreach Coordinator (2023-2024: Dhruv)
+- Identify [IAB_Outreach_Coordinator](/group/iab/IAB_Outreach_Coordinator)IAB Outreach Coordinator (2023-2024: Dhruv)
 - Plenary preparation
 
