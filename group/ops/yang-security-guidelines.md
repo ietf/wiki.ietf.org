@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2022-12-20T00:44:54.065Z
+date: 2024-02-07T17:05:08.172Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -11,7 +11,7 @@ dateCreated: 2022-12-20T00:44:50.512Z
 # YANG module security considerations
   
 
-   Each specification that defines one or more YANG modules MUST contain a section that discusses security considerations relevant to those modules. This section MUST be patterned after the latest approved template (available at http://trac.tools.ietf.org/area/ops/trac/wiki/yang-security-guidelines).
+   Each specification that defines one or more YANG modules MUST contain a section that discusses security considerations relevant to those modules. This section MUST be patterned after the latest approved template (available at https://wiki.ietf.org/group/ops/yang-security-guidelines).
 
 In particular, writable data nodes that could be especially disruptive if abused MUST be explicitly listed by name and the associated security risks MUST be spelled out.
 
