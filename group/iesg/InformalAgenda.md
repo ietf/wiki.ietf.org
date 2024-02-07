@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-02-07T09:33:33.730Z
+date: 2024-02-07T18:19:30.541Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -58,6 +58,8 @@ Please use your best judgement to add new items into one of the categories below
 * draft-ietf-6man-sids (Suresh will join for this)
 
 * AVTCORE (Murray and Éric): normative references behind paywalls, security claims
+
+* Should IANA YANG Modules be published in RFCs or elided at publication time. (Rob W, perhaps do in 119 pre-meeting when IANA can also be easily present)
 
 #### Not important and not urgent
 
