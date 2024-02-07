@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-01-26T16:52:18.721Z
+date: 2024-02-07T14:01:20.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -20,7 +20,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
-|IPR Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Poll closed, asked authors to make a small change|
+|IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|Poll ends - 2023-02-21|
+|IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Poll closed, asked authors to make a small change|
 |Shpeherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 |Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
@@ -31,7 +32,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |Item|Document|Remarks|
 |---|---|---|
-|AD Review|draft-ietf-pce-segment-routing-ipv6|Submitted on 2023-09-08|
+|IETF LC|draft-ietf-pce-segment-routing-ipv6|Submitted on 2023-09-08|
 |AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
 
 ## Completed Tasks by Chairs
