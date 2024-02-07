@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-06T20:27:57.242Z
+date: 2024-02-07T16:13:35.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of November 2021, meetings are at 0700 Pacific time (UTC-7)
 
-## IAB Agenda: 2024-02-07 0700 PST (UTC-8) 
+## IAB Agenda: 2024-02-14 0700 PST (UTC-8) 
 
 *Agenda as of 2024-02-02. IAB agendas are subject to change, up to and during the meeting.*
 
@@ -29,16 +29,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-01-24 business meeting - (draft submitted 2024-01-24) 
 * 2024-01-31 business meeting - (draft submitted 2024-01-31) 
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
-* 2024-01-31: Mirja Kühlewind to request a 1.5 hour session for IETF 119.
 
-* 2024-01-31: Cindy Morgan to send a follow-up email to Andrei Robachevsky about the Multistakeholder Platform on ICT Standardization.
 
 ##### On Hold:
 
@@ -53,6 +50,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
 
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
+
+* 2024-02-07: Mallory Knodel to send out a call for nominations for the 2024-2025 IAB Chair.
+
+* 2024-02-07: Tommy Pauly to send the IAB response to the CCC Liaison statement and let Cindy Morgan know once it has been posted so that she can send an announcement.
+
+* 2024-02-07: Cindy Morgan to follow up on the ICANN Technical Liaison Group appointment.
+
+* 2024-02-07: Cindy Morgan to send an e-vote on the ISOC Board of Trustees appointments.
 
 #### 1.5. IAB Document Status Update
 
@@ -79,6 +84,7 @@ Area: SEC
 Internal Review
 IESG Telechat: 2024-02-15
 IAB Reviewer: Mirja Kühlewind
+Review: https://mailarchive.ietf.org/arch/msg/unwanted-trackers/8alpwWykKlWK03fBLmXlOiZSdYw/
 
 - **Multiformats (multi)**
 Area: ART
@@ -94,32 +100,11 @@ IAB Reviewer: Qin Wu
     Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 
-### 2. 2024-2025 IAB Chair Selection Process (Cindy) - 5 mins (Public)
+### 2. 
 
-  Context: https://wiki.ietf.org/group/iab/IAB_Chair_Selection_Process_Guidelines
+### 3.
 
-  Goal: Choose Selection Committee Chair
-
-
-### 3. Response to CCC Liaison in response to IAB Statement on Attestation (Tommy) - 10 mins (Public)
-
-  Open action item:
-
-*  2023-11-07: Chris Wood, Tommy Pauly, and Wes Hardaker to work with Hannes Tschofenig on a response to the Confidential Computing Consortium's liaison statement in response to the IAB Statement on Attestation.
-
-
-### 4. Technical Discussion Topics (Mirja) - 10 mins (Public)
-
-### 5. Executive Session: ICANN Technical Liaison Group Appointment
-
-  Goal: Record/Finish E-Vote
-
-
-### 6. Executive Session: ISOC Board of Trustees Appointment
-
-  Goal: Discussion
-
-  Note: Community review period ends 2024-02-07
+### 4.
 
 ## Upcoming Teleconferences 
 
