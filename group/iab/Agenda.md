@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-09T19:46:57.600Z
+date: 2024-02-10T00:01:05.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,6 +40,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-02-07: Cindy Morgan to send an e-vote on the ISOC Board of Trustees appointments.
 
+* 2024-02-07: Tommy Pauly to send the IAB response to the CCC Liaison statement and let Cindy Morgan know once it has been posted so that she can send an announcement.
+
 ##### On Hold:
 
 * 2023-05-11: Suresh Krishnan et al to write a draft on limited domains.    
@@ -55,9 +57,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
 
 * 2024-02-07: Mallory Knodel to send out a call for nominations for the 2024-2025 IAB Chair.
-
-* 2024-02-07: Tommy Pauly to send the IAB response to the CCC Liaison statement and let Cindy Morgan know once it has been posted so that she can send an announcement.
-
 
 #### 1.5. IAB Document Status Update
 
