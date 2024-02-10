@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-06T19:09:28.779Z
+date: 2024-02-10T15:00:47.032Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -195,6 +195,19 @@ Purpose is to make use of PQ in real world X.509 structures like keys, signature
 A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
 
 For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+----
+
+### Augmentaiton Addition into the IETF-YANG-Library
+- **Champion(s)**
+Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
+Benoit Claise (benoit.claise @ huawei.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentation/
+
+- **Project Info**
+Opensource implementation of the draft, with netopeer/yanglib
 
 ----
 
