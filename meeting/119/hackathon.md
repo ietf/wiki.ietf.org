@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-10T15:00:47.032Z
+date: 2024-02-10T15:02:32.500Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -198,7 +198,7 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 ----
 
-### Augmentaiton Addition into the IETF-YANG-Library
+### Augmentation Addition into the IETF-YANG-Library
 - **Champion(s)**
 Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
 Benoit Claise (benoit.claise @ huawei.com)
