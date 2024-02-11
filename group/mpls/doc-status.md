@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-02-11T14:58:55.011Z
+date: 2024-02-11T15:06:55.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -46,7 +46,6 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
-| 2023-12-23 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Check for relationship with MNA. New version with 7942 implementation section | Tarek |  
 | 2023-12-06 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | -06 | Nic |
 
 ## Queued for WG Last Call
@@ -62,7 +61,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | Pending Requirements I-D. Updated after chair review of -05 by Adrian | Tarek |
 | 2023-12-05 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | Not done | Sue Hares 2024-01-22 (has nits)  | YANG Dr review done and draft updated. Also updated for RTG Dir review | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Joel Halpern 2024-01-09 (not ready) | Needs update after RtgDir review. Check for relationship with MNA | Adrian |
-| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Not done | | Tarek |  
+| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review due 2024-02-15 | | Tarek |  
 
 ## In Working Group Last Call
 
