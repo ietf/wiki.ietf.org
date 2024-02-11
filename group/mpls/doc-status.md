@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-02-11T15:06:55.219Z
+date: 2024-02-11T15:15:56.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -56,7 +56,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2023-12-04 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Not done | -08 addresses previous RTG-Dir reviews. Further review from Sasha Vainshtein "Has issues", -09 and -10 to answer Sasha |    | Tarek |
+| 2023-12-04 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Started | -08 addresses previous RTG-Dir reviews. Further review from Sasha Vainshtein "Has issues", -09 and -10 to answer Sasha |    | Tarek |
 | IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Not done | Jeffrey Zhang 2023-08-09 Has issues | Authors working on addressing issues | Tarek |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | Pending Requirements I-D. Updated after chair review of -05 by Adrian | Tarek |
 | 2023-12-05 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | Not done | Sue Hares 2024-01-22 (has nits)  | YANG Dr review done and draft updated. Also updated for RTG Dir review | Tarek |
@@ -74,7 +74,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
-| 2024-01-23 | [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/)  | Updated after last call. Shepherd review and write-up due | Adrian |
+| 2024-01-23 | [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/)  | Updated after last call. Shepherd review done : needs update. Draft write-up posted | Adrian |
 | 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 and -09 with significant updates after review. -10 posted for further comments. Still some comments to address. Will require 2nd WGLC | Adrian |
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
 
