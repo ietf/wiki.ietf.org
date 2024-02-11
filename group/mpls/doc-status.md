@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-02-06T16:40:29.644Z
+date: 2024-02-11T14:47:30.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -27,7 +27,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Date | Draft | IPR Poll done | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- |
 | 2024-01-17 | draft-xp-mpls-spring-lsp-ping-path-sid | Started | MPLS-RT reviews commissioned. 2024-01-25 Loa has nits | Tarek |
-| 2024-01-19 | draft-mirsky-mpls-bfd-bootstrap-clarify | Started 2024-01-30 | MPLS-RT reviews: Carlos Pignataro 2024-01-24 minor issues. Currently discussing with BFD chairs | Adrian |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -77,7 +76,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
 | 2024-01-23 | [draft-ietf-mpls-spring-inter-domain-oam](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-inter-domain-oam/)  | Updated after last call. Shepherd review and write-up due | Adrian |
-| 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 and -09 with significant updates after review. Still some comments to address Will require 2nd WGLC | Adrian |
+| 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 and -09 with significant updates after review. -10 posted for further comments. Still some comments to address. Will require 2nd WGLC | Adrian |
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
 
 ## Post Working Group Last Call
