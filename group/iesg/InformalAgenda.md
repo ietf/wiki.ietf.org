@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-02-08T07:46:43.785Z
+date: 2024-02-12T18:51:30.484Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - February 8, 2024 
+# Informal Telechat - February 22, 2024 
 
  There **WILL** be a meeting on this date.
 
@@ -29,8 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-* Francesca (tentatively there, but might not make it)
-* Erik K. (ditto--tentatively there, but might not make it)
+* 
 
 ## Agenda
 
@@ -48,7 +47,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* [Final BOF approvals](https://datatracker.ietf.org/doc/bof-requests)
+* New IESG Onboarding and Refresher for Continuing ADs (Secretariat)
 
 #### Urgent but not important
 
@@ -56,13 +55,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 
-* draft-ietf-6man-sids (Suresh will join for this)
-
-* AVTCORE (Murray and Éric V): normative references behind paywalls, security claims
-
-* Should IANA YANG Modules be published in RFCs or elided at publication time. (Rob W, perhaps do in 119 pre-meeting when IANA can also be easily present)
-
-* Unsure whether IETF-120 complies with section 3.2.2 2nd bullet of RFC 8718 ? How can we avoid this situation if this is a problem? (Éric V)
+* Topic (NAME)
 
 #### Not important and not urgent
 
