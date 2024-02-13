@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2024-01-24T13:56:01.316Z
+date: 2024-02-13T04:55:02.228Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -76,14 +76,14 @@ Clear and concise guidance on tasks a working group chair needs to perform and t
 
 ## Eodir Meetings
 
-Eodir holds side meetings during the IETF week that are open to all. Additionally, it occasionally conducts interim online meetings.
+Eodir holds side meetings during the IETF week that are open to all. Additionally, it occasionally conducts interim online meetings. The notes from those meetings are - 
 
-[IETF118](https://notes.ietf.org/eodir-20231110)
-[Interim-2023-09-20](https://notes.ietf.org/eodir-20231110)
-[IETF117](https://notes.ietf.org/eodir-20230728)
-[Interim-2023-05-31](https://notes.ietf.org/eodir-20230531)
-[IETF116](https://notes.ietf.org/rcKUH-iiRk-INgWTmgVWZA#) and [Outreach Side Meeting](https://notes.ietf.org/emodir-ietf-outreach-2022?view)
-[IETF115](https://notes.ietf.org/emodir-20221108)
+- [IETF118](https://notes.ietf.org/eodir-20231110)
+- [Interim-2023-09-20](https://notes.ietf.org/eodir-20231110)
+- [IETF117](https://notes.ietf.org/eodir-20230728)
+- [Interim-2023-05-31](https://notes.ietf.org/eodir-20230531)
+- [IETF116](https://notes.ietf.org/rcKUH-iiRk-INgWTmgVWZA#) and [Outreach Side Meeting](https://notes.ietf.org/emodir-ietf-outreach-2022?view)
+- [IETF115](https://notes.ietf.org/emodir-20221108)
 
 
 
@@ -98,3 +98,7 @@ Technology Deep Dives are organized from time-to-time by the Internet Engineerin
 ### WG Chairs Leadership Training
 
 The IETF Administration LLC has organized an initial round of online training geared to providing Working Group and Internet Research Task Force (IRTF) Research Group chairs with the skills needed to successfully navigate the leadership of a working group. While this has begun as an experiment, it may serve to inform further training organized through eodir. For more information, contact Greg Wood by email:ghwood@ietf.org.
+
+### (concluded) Education (EDU) Team
+
+Now concluded Education (EDU) Team used to organize tutorials, that can be found at [DT](https://datatracker.ietf.org/group/edu/materials/). 
