@@ -2,11 +2,13 @@
 title: E-Impact
 description: 
 published: true
-date: 2024-02-13T16:41:03.282Z
+date: 2024-02-13T16:50:21.088Z
 tags: e-impact, sustainability, energy, co2, footprint
 editor: markdown
 dateCreated: 2023-12-11T15:51:53.675Z
 ---
+
+Moved to (/group/e-impact)
 
 # Useful References for E-impact
 
