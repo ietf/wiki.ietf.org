@@ -1,8 +1,8 @@
 ---
-title: E-Impact Home
+title: E-Impact
 description: 
 published: true
-date: 2023-12-12T16:49:35.847Z
+date: 2024-02-13T16:41:03.282Z
 tags: e-impact, sustainability, energy, co2, footprint
 editor: markdown
 dateCreated: 2023-12-11T15:51:53.675Z
