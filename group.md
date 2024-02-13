@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2023-12-21T01:48:24.651Z
+date: 2024-02-13T16:48:14.525Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -294,4 +294,8 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 
 # Administration
 - [llc *IETF Adminstration LLC*](/group/llc/)
+{.links-list}
+
+# Other
+- [e-impact *Environmental impacts of the Internet*](/group/e-impact)
 {.links-list}
