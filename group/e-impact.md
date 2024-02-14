@@ -2,7 +2,7 @@
 title: E-IMPACT - Environmental impacts of the Internet
 description: Environmental impacts of the Internet
 published: true
-date: 2024-02-14T22:30:17.328Z
+date: 2024-02-14T22:40:41.685Z
 tags: other
 editor: markdown
 dateCreated: 2024-02-13T16:46:40.819Z
@@ -24,7 +24,9 @@ dateCreated: 2024-02-13T16:46:40.819Z
   
 ## Misc
   - [SBTi's dashboard monitoring all the companies who have somehow committed to something](https://sciencebasedtargets.org/companies-taking-action#dashboard)
-  
+  - [Écoinfo](https://cnrs.hal.science/ECOINFO/browse/last)
+  - [ICT4S](https://conf.researchr.org/series/ict4s)
+  - [The Shift Project](https://theshiftproject.org/en/lean-ict-2/)
   
   
 ## Missing references so far
