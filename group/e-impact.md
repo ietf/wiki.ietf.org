@@ -2,7 +2,7 @@
 title: E-IMPACT - Environmental impacts of the Internet
 description: Environmental impacts of the Internet
 published: true
-date: 2024-02-13T16:46:40.819Z
+date: 2024-02-14T22:30:17.328Z
 tags: other
 editor: markdown
 dateCreated: 2024-02-13T16:46:40.819Z
@@ -16,7 +16,7 @@ dateCreated: 2024-02-13T16:46:40.819Z
     	- (Rudolf) not solid at all. It is an average of two older references. Why they took the average befuddles me, more logical would be to take the higher number. The article also uses power consumption as stated on the documentation, which is cute, but it's wrong. 
   
   
-## ICT CO2 Accounting
+## ICT CO~2~ Accounting
 
   - [ICT Sector Guidance from the GHG protocol](https://ghgprotocol.org/sites/default/files/2023-03/GHGP-ICTSG%20-%20ALL%20Chapters.pdf)
   
