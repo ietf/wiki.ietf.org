@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-14T18:04:19.109Z
+date: 2024-02-14T18:04:34.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-02-21 0700 PST (UTC-8) 
 
-*Agenda as of 2024-02-09. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-02-14. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
