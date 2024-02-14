@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-10T00:01:05.683Z
+date: 2024-02-14T14:07:10.759Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -65,10 +65,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - **draft-iab-privacy-partitioning-05**
 Sent to the RFC Editor: EDIT
 IAB Shepherd: David Schinazi
-
-- **draft-iab-ws-environmental-impacts-report-03**
-Sent to the RFC Editor: RFC-EDITOR
-IAB Shepherd: Wes Hardaker
 
 - **A Vision Statement for the Internet (Mallory, Mirja)**
      Open action item:
