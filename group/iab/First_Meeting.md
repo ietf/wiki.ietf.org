@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2024-02-07T21:21:53.611Z
+date: 2024-02-15T22:18:49.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -31,7 +31,7 @@ This is a list of several administrative items that are usually handled at the f
 - Identify IAB Stream Representative (RSAB) (2022-2023: Mirja)
 - Identify IAB List Moderators (2023-2024: Mallory, Jiankang)
   - [IAB Mailing Lists](https://www.iab.org/iab-mailing-lists/)
-- Identify volunteers for Comms Review team (2023-2024: Mirja, Colin)
+- ~~Identify volunteers for Comms Review team (2023-2024: Mirja, Colin)~~ (Group is dormant per Greg Wood on 2024-02-15)
 - Identify ARPA change control approver (2023-2024: Wes)
   - [ARPA_DNS_Zone](/group/iab/ARPA_DNS_Zone)
 - Identify Tools Team Liaison (2023-2024: Mallory)
