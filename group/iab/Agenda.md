@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-14T18:04:34.803Z
+date: 2024-02-15T18:42:45.065Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -35,7 +35,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ##### Done:
 
-
+* 2024-02-14: Cindy Morgan to send the proposed ISOC BoT candidates to the IESG for confirmation.
 
 ##### On Hold:
 
@@ -47,15 +47,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ##### In Progress: 
 
-* 2024-02-14: Eliot Lear to send a proposal to the IAB about how to have a conversation with the community about publishing crypto algorithms that are not widely reviewed.
-
-* 2024-02-14: Cindy Morgan to send the proposed ISOC BoT candidates to the IESG for confirmation.
-
 * 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
 
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
 
 * 2024-02-07: Mallory Knodel to send out a call for nominations for the 2024-2025 IAB Chair.
+
+* 2024-02-14: Eliot Lear to send a proposal to the IAB about how to have a conversation with the community about publishing crypto algorithms that are not widely reviewed.
+
 
 #### 1.5. IAB Document Status Update
 
