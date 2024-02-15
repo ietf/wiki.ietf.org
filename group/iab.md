@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2024-01-26T20:52:35.330Z
+date: 2024-02-15T22:16:40.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -30,7 +30,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)
 
 ## Processes and Guidance 
-* [IAB Lore for new IAB members](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)  (google doc)
+* [IAB Onboarding and Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)  (Google Slides)
 * [First Meeting](/group/iab/First_Meeting) - Administrivia to be handled at the first meeting of an IAB term
 * [Sending Announcements](/group/iab/Sending_Announcements) - Where to send which kind of announcement 
 * [IAB Chair Selection Process Guidelines](/group/iab/IAB_Chair_Selection_Process_Guidelines)
