@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-15T18:42:45.065Z
+date: 2024-02-16T20:13:15.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-02-21 0700 PST (UTC-8) 
 
-*Agenda as of 2024-02-14. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-02-16. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,7 +29,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-02-07 business meeting - (submitted 2024-02-07) 
+* 2024-02-07 business meeting - (submitted 2024-02-07)
+* 2024-02-14 business meeting - (submitted 2024-02-15)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -74,8 +75,8 @@ IAB Shepherd: David Schinazi
 
 - **Detecting Unwanted Location Trackers (dult)**
 Area: SEC
-Internal Review
-IESG Telechat: 2024-02-15
+External Review
+IESG Telechat: 2024-02-29
 IAB Reviewer: Mirja Kühlewind
 Review: https://mailarchive.ietf.org/arch/msg/unwanted-trackers/8alpwWykKlWK03fBLmXlOiZSdYw/
 
@@ -86,17 +87,18 @@ IESG Telechat: (None)
 IAB Reviewer: Qin Wu
 
 - **Workload Identity in Multi System Environments (wimse)**
-    Area: ART
-    Internal Review
-    IESG Telechat: 2024-02-15
-    IAB Reviewer: David Schinazi
-    Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
+Area: ART
+Internal Review
+IESG Telechat: (not on agenda)
+IAB Reviewer: David Schinazi
+Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 
 ### 2. Monthly Reports (Liaisons) <5 mins (Public)
 
-### 3. IAB Onboarding and Refreshers (Cindy) - 50 mins
+### 3. IAB Onboarding and Review for Incoming, Returning, and Continuing IAB Members (Cindy) - 50 mins
 
+Slides: [IAB Onboarding & Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)
 
 ## Upcoming Teleconferences 
 
