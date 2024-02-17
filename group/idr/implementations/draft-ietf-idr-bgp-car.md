@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-car
 description: report on implementations
 published: true
-date: 2023-08-14T16:38:35.946Z
+date: 2024-02-17T03:55:27.446Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-09T11:17:21.968Z
@@ -30,7 +30,7 @@ dateCreated: 2023-06-09T11:17:21.968Z
 | TLV | Cisco IOS-XR | Arrcus ArcOS | comments |
 |---|---|---|---|
 | BGP Color EC | Y | Y | |
-| LCM EC | N | N | |
+| LCM EC | Y | N | |
 ## Protocol Processing
 | Processing | Cisco IOS-XR | Arrcus ArcOS | comments |
 |---|---|---|---|
