@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-02-07T14:01:20.052Z
+date: 2024-02-19T05:40:32.767Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,7 +21,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|Poll ends - 2023-02-21|
-|IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Poll closed, asked authors to make a small change|
 |Shpeherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 |Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
@@ -38,6 +37,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 | Sent to AD | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting AD review |
 | Sent to RFC Editor | draft-ietf-pce-pceps-tls13 | Andrew | - |
 | Adoption | draft-ietf-pce-bier-te | Dhruv | Make sure authors make the update with name change |
