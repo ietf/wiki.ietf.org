@@ -2,7 +2,7 @@
 title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2023-02-19T06:34:11.154Z
+date: 2024-02-20T16:34:57.625Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
@@ -146,7 +146,7 @@ Members have different areas of expertise.   These are listed here: [IotAreasOfE
 | Francesca Palombini | CBOR co-chair, CoAP / CoRE technologies, IoT security | Industrial, Telecom R&D |  |
 | Alexander Pelov | LPWAN co-chair, COAP, IoT security | Low-Power Long-Range Wireless IOT, Industrial, Telecom |  |
 | Charlie Perkins | IOT, Mobility, IEEE | Industry & Telecom R&D | Energy saving, performance improvement |
-| Michael Richardson | Linux, Contiki, ROLL, security, and EnrollmentRoadmap | Industry | also think Authorization is key to success |
+| Michael Richardson | Linux, Contiki, ROLL, security, and [EnrollmentRoadmap] | Industry | also think Authorization is key to success |
 | Maria Ines Robles |ROLL co-chair, IoT Management| Industry 4.0, Technology Research | Industry 4.0 use cases in harsh environments  |
 | Dan Romascanu |OPS and Management, IEEE protocols | Industrial (retired) | |
 | Gonzalo Salgueiro | IoT,CoAP,IPv6,CoRE, IPWAVE | Industry Research & Academia | Especially interested in IoT support & troubleshooting, Authoring book on IoT |
