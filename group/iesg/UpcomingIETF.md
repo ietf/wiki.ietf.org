@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-21T13:53:30.693Z
+date: 2024-02-21T16:01:17.545Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,6 +16,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 119, or the joint meetings with the IAB.
 
+- Update on outreach activities and planning - Dhruv (IAB+IESG)
 
 # IESG Activities
 *All times are in CET (UTC +1).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
