@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-02-19T06:43:40.162Z
+date: 2024-02-21T09:20:37.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,8 +21,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|Poll ends - 2023-02-21|
-|Shpeherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
-|Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
+|Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
@@ -37,6 +36,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
 |IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 | Sent to AD | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting AD review |
 | Sent to RFC Editor | draft-ietf-pce-pceps-tls13 | Andrew | - |
