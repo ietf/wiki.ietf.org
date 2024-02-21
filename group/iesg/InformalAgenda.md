@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-02-16T00:08:59.594Z
+date: 2024-02-21T16:34:56.293Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,7 +47,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* New IESG Onboarding and Refresher for Continuing ADs (Secretariat)
+* [New IESG Onboarding and Refresher for Continuing ADs](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) (Secretariat)
 * Decide what to do about Monday morning IESG meeting at 119 (since alldispatch is using up the regular time) (IESG/Secretariat)
 
 #### Urgent but not important
