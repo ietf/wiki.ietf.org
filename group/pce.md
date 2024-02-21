@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-02-19T05:43:31.568Z
+date: 2024-02-21T09:16:28.367Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,7 +33,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
 | [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | - | Julien |
-| draft-peng-pce-entropy-label-position | In WG Adoption Call | Ends - 2024-02-12; IPR - 4/4 - IPR declared mid adopt| Dhruv |
 | draft-peng-pce-stateful-pce-autobw-update | Pending | - | Julien |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
@@ -48,6 +47,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
+| draft-ietf-pce-entropy-label-position | - | Was Dhruv |
 |draft-ietf-pce-circuit-style-pcep-extensions|-|Was Dhruv| 
 |draft-ietf-pce-bier-te | - | Was Dhruv |
 
