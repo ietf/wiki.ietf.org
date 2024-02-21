@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-16T20:13:15.680Z
+date: 2024-02-21T20:59:36.604Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of November 2021, meetings are at 0700 Pacific time (UTC-7)
 
-## IAB Agenda: 2024-02-21 0700 PST (UTC-8) 
+## IAB Agenda: 2024-02-28 0700 PST (UTC-8) 
 
 *Agenda as of 2024-02-16. IAB agendas are subject to change, up to and during the meeting.*
 
@@ -29,14 +29,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-02-07 business meeting - (submitted 2024-02-07)
 * 2024-02-14 business meeting - (submitted 2024-02-15)
+* 2024-02-21 business meeting - (submitted 2024-02-21)
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
-* 2024-02-14: Cindy Morgan to send the proposed ISOC BoT candidates to the IESG for confirmation.
+
 
 ##### On Hold:
 
@@ -94,15 +94,11 @@ IAB Reviewer: David Schinazi
 Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 
-### 2. Monthly Reports (Liaisons) <5 mins (Public)
-
-### 3. IAB Onboarding and Review for Incoming, Returning, and Continuing IAB Members (Cindy) - 50 mins
-
-Slides: [IAB Onboarding & Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)
+### 2. Technical Discussion: UN Consultations that affect IETF protocols
 
 ## Upcoming Teleconferences 
 
-* 2024-02-21: IAB Business Meeting: New Member Onboarding
+
 * 2024-02-28: IAB Technical Discussion: UN Consultations that affect IETF protocols
 * 2024-03-06: IAB Business Meeting
 
