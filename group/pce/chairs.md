@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-02-21T09:20:37.328Z
+date: 2024-02-21T09:37:41.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -19,6 +19,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|WGLC|draft-ietf-pce-stateful-pce-optional|Dhruv|-|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|Poll ends - 2023-02-21|
 |Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
