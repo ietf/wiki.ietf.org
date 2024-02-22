@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-02-22T10:20:21.189Z
+date: 2024-02-22T10:26:02.848Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -50,7 +50,7 @@ Please use your best judgement to add new items into one of the categories below
 * Decide what to do about Monday morning IESG meeting at 119 (since alldispatch is using up the regular time) (IESG/Secretariat)
 * [New IESG Onboarding and Refresher for Continuing ADs](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) (Secretariat)
 * [RFC Editor & the IESG: An Overview](https://docs.google.com/presentation/d/18Qvq3UgUwA-HHCWXSkbTQsReo6-zEfM0iCkQWyjLsrw/edit#slide=id.p1) (RPC)
-* IESG/IANA liaison - Currently Rob, but I'm stepping down.  A lunch meeting is being planned Mon/Tue/Wed of IETF 119 week, but if my replacement was known then it might make sense for them to also attend. (Added by Rob)
+* IESG/IANA - Currently Rob is the (liaison?, if it is even that formal), but I'm stepping down.  A lunch meeting is being planned Mon/Tue/Wed of IETF 119 week, but if my replacement was known then it might make sense for them to also attend. (Added by Rob)
 
 #### Urgent but not important
 
