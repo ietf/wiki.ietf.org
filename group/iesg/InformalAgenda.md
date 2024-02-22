@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-02-22T10:26:02.848Z
+date: 2024-02-22T16:30:00.454Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -60,6 +60,7 @@ Please use your best judgement to add new items into one of the categories below
 
 * [Follow up on the suggestions made in the Experiences of Women Participating in the IETF report](https://trello.com/b/YBXUa03G/impact-effort-matrix-experiences-of-women-at-ietf) (Executive Director)
 
+* Retreat discussion (Roman)
 #### Not important and not urgent
 
 * Topic (NAME)
