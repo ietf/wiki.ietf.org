@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2023-12-15T14:22:03.998Z
+date: 2024-02-22T09:28:38.881Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -64,44 +64,39 @@ This section lists actions other than document updates
 
 
 ## Latest RFCs
-* None since last IETF
+* draft-ietf-bess-evpn-lsp-ping (RFC9489, Nov 2023)
 
 
 ## Documents in RFC editor queue
 
-* draft-ietf-bess-evpn-bum-procedure-updates) (MISSREF – waiting on draft-ietf-bess-evpn-aggregation-label)
-* draft-ietf-bess-evpn-optimized-ir (MISSREF – waiting on draft-ietf-bess-evpn-bum-procedure-updates)
-* draft-ietf-bess-evpn-lsp-ping
+* draft-ietf-bess-evpn-bum-procedure-updates
+* draft-ietf-bess-evpn-optimized-ir
 * draft-ietf-bess-mvpn-evpn-aggregation-label
+* draft-ietf-bess-evpn-pref-df (MISSREF, need VES)
+* draft-ietf-bess-pbb-evpn-isid-cmacflush (AUTH48, missing Andrew)
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
 * draft-ietf-bess-evpn-irb-mcast (Mankamana):
-	- AD evaluation not done
+	- On telechat beg of March
 * draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
 	- 2nd last call passed
 	- Authors have fixed grammar issues (shepherd's write up will need update as well).
 	- Action: Matthew to update shepherd's write up and request publication.
-* draft-ietf-bess-evpn-pref-df (Stephane)
-	- Authors to reply and address comments from IESG
-	- Action: Stephane to push Authors to reply
 * draft-ietf-bess-evpn-fxc (Stephane)
 	- AD evaluation not done
-  - RTGDIR review received (8/23), ready but few comments to address
-  - Action: Stephane to check with authors
-* draft-ietf-bess-pbb-evpn-isid-cmacflush-06 (Matthew)
-	- IESG comments to be addressed
- 	- Action: Matthew is discussing with Jorge to get an update
+  - RTGDIR: ready
+
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
-	- Numerouse DISCUSS and other comments from IESG
-  - Sent back to WG due to boilerplate issue requiring new adoption and WG LC.
-  - New WG Adoption and WG LC passed. Resubmitted to IESG.
+	- Telechat on 2/29
 
 * draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
+	- need AD to review
 
 * draft-ietf-bess-evpn-fast-df-recovery (Matthew)
   - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
+  - need AD to review
   
 * draft-ietf-bess-evpn-mh-split-horizon (Jeffrey)
   - requested GenArt early review
@@ -116,12 +111,13 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-mh-pa (Stephane)
   - Chair review done and document updated
   - GEN ART review requested, then write-up will be done
+  - no reply from authors about GenArt review => Stephane requested authors to reply
 
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
   - the document has a lot of normative dependencies that are not ready yet
   - An outstanding comment from Jeffrey about inconsistent/inappropriate use of "ECMP"
   - Review requested to IDR chairs
-  - RTGDIR and GENART review requested
+  - RTGDIR and GENART review requested => comments addressed
 
 - draft-ietf-bess-evpn-geneve: (Matthew)
   - Waiting for implementation
