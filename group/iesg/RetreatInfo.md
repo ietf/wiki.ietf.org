@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-02-06T19:29:09.464Z
+date: 2024-02-22T16:19:50.686Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -38,19 +38,21 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 #### Monday
 
 
-
 #### Tuesday
 
 #### Wednesday
 
 
-
 #### Thursday 
 
 
-
 #### Friday
+
 ### Proposed Additional Meeting Topics
+
+#### IESG Parking Lot of Topics
+
+* Consistent IESG understanding/application of errata processing states
 
 ### RSVP
 
