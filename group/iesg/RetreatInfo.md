@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-02-22T16:56:45.989Z
+date: 2024-02-22T16:57:25.825Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -24,10 +24,9 @@ TBD
 
 ### Location 
 
-TBD -- (02/22/2024) with date decided venue are being checked
+TBD -- (02/22/2024) With the date decided, venue are being checked.  It will somewhere in Europe
 
  
-
 ### Covid Information 
 
 Free test and masks will be provided. Daily testing and masks are recommended.
