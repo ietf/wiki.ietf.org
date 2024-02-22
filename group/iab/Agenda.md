@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-21T20:59:36.604Z
+date: 2024-02-22T19:57:31.853Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -101,6 +101,10 @@ Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 * 2024-02-28: IAB Technical Discussion: UN Consultations that affect IETF protocols
 * 2024-03-06: IAB Business Meeting
+	* ISE request for review: draft-bichot-msync-15
+  * Executive session: ISE appointment
+  * BoF Coverage
+  * IAB 119 agenda
 
 -- 2024-03-16 - 2024-03-22: IETF 119 --
 
