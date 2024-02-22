@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2023-09-22T13:25:07.842Z
+date: 2024-02-22T09:19:07.784Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -100,7 +100,7 @@ The IETF Security Area is the home for working groups focused on security protoc
 
 The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
 
-The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg#sec
+The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg#SEC
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecurity-network-and-information-security
 
