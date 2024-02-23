@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-23T22:04:17.963Z
+date: 2024-02-23T22:07:13.283Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -52,6 +52,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
   
 - **New Participant's Quick Connections** Sunday, March 17, 2024 - 16:00-17:00 - Room: Plaza Terrace
 - **IETF 118 Welcome Reception** Sunday, March 17, 2024 - 17:00-19:00 - Room: Plaza Ballroom
+-- Note the Welcome to Country will be performed during the first 15 minutes!
 - **HotRFC Lightning Talks** Sunday, March 17, 2024 - 18:00-20:00 - Room: P2
 
 ### IESG Meeting - Time: 09:30-11:30 Room: P6-7
