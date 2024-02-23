@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-23T22:35:47.399Z
+date: 2024-02-23T23:23:36.848Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -108,7 +108,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+| 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -250,8 +250,8 @@ Location: Plaza Level
 | **Time**    | **M9 (12 people)** | **P6-7 (40 people)** | 
 |-------|------------------|------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 08:00-08:30 |                   |                    |   
-| 08:30-09:00 |                   |                    |   
+| 08:00-08:30 |  Deepspace IP      |                    |   
+| 08:30-09:00 |  Deepspace IP     |                    |   
 | 09:00-09:30 |                   |                    |   
 | 09:30-10:00 |                   |                    |   
 | 10:00-10:30 |                   |                    |   
