@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-23T17:46:51.967Z
+date: 2024-02-23T17:48:04.738Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -14,7 +14,7 @@ IETF participants often organize side meetings around [IETF meetings](https://ww
 
 Rooms made available for side meetings - and this wiki page - are not to be used for closed [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
-This wiki page is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 118 Prague](https://www.ietf.org/how/meetings/119/).
+This wiki page is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 119 Brisbane](https://www.ietf.org/how/meetings/119/).
 
 # Guidelines for public side meetings
 
