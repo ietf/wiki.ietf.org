@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-23T17:59:53.077Z
+date: 2024-02-23T22:04:17.963Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -26,11 +26,11 @@ Please add any topics for either IESG only meetings at IETF 119, or the joint me
 
 **Code Sprint**
 
-Saturday, March 16, 2024 - 10:00-18:00 - Room: TBD
+Saturday, March 16, 2024 - 10:00-18:00 - Room: P4
 
 **Hackathon**
 
-Saturday, March 16, 2024 - 09:30-21:00 - Room: TBD
+Saturday, March 16, 2024 - 09:30-21:00 - Room: Plaza Terrace Room
  
 
 **AMS-IETF Leadership Venue Tour**
@@ -48,37 +48,34 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 - **Hackathon**
 
-  - Sunday, March 17, 2024 - 09:30-16:00 - Room: Ballroom
+  - Sunday, March 17, 2024 - 09:30-16:00 - Room: Plaza Terrace Room
   
-- **New Participant's Quick Connections** Sunday, March 17, 2024 - 16:00-17:00 - Room: TBD
-- **IETF 118 Welcome Reception** Sunday, March 17, 2024 - 17:00-19:00 - Room: TBD
-- **HotRFC Lightning Talks** Sunday, March 17, 2024 - 18:00-20:00 - Room: TBD
+- **New Participant's Quick Connections** Sunday, March 17, 2024 - 16:00-17:00 - Room: Plaza Terrace
+- **IETF 118 Welcome Reception** Sunday, March 17, 2024 - 17:00-19:00 - Room: Plaza Ballroom
+- **HotRFC Lightning Talks** Sunday, March 17, 2024 - 18:00-20:00 - Room: P2
 
-### IESG or IAB Meeting - Time: 09:30-11:30 Room: TBD
+### IESG Meeting - Time: 09:30-11:30 Room: P6-7
 
 * Meetecho: TBD
 * Onsite Tool: TBD
 
 
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: P6-7
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: P6-7
 * Meetecho: TBD
 * Onsite Tool: TBD
 
 
 
-### IAB or IESG Meeting - 14:00-16:00 Room: TBD
+### IAB Meeting - 14:00-16:00 Room: P6-7
 
 
 
 ## Monday, March 18, 2024
 
-### IESG Meeting Time: 08:00-09:20 Room: TBD
-
-* Meetecho:  
-* Onsite Tool:  
+No IESG breakfast. ALLDISPATCH is meeting 08:30-11:30 in room Plaza Terrace.
 
 
 
@@ -87,14 +84,14 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 No IESG breakfast. IAB has a breakfast meeting.
   
 ## Wednesday, March 20, 2024
-### IESG Meeting Time: 08:00-09:20  Room: TBD
+### IESG Meeting Time: 08:00-09:20  Room: P6-7
 
 * Meetecho:  
 * Onsite Tool:  
 
 
 
-### IETF 119 Plenary TIME: TBD Room: TBD
+### IETF 119 Plenary TIME: 17:00-19:00 Room: Plaza Terrace Room
 
 ## Thursday, March 21, 2024
 
@@ -102,7 +99,7 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 ## Friday, March 22, 2024
 
-### Joint IAB/IESG Lunch and Meeting - Time: TBD Room: TBD
+### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: P6-7
 
 * Meetecho:  
 * Onsite Tool: 
@@ -121,13 +118,12 @@ Location: P5 on the Plaza level
 
 ## Monday, 18 March 2024
 
-
+* TIME - ACTIVITY
 
 ## Tuesday, 19 March 2024
 **PLEASE NOTE: Not available Tuesday morning!
-The Systers need to use this room for their networking event.
 Available starting at 11:30 AM**
-
+* TIME - ACTIVITY
 
 ## Wednesday, 20 March 2024
 
@@ -135,7 +131,7 @@ Available starting at 11:30 AM**
 * 14:35-14:55 DTN Mgmt Arch (Rob)
 ## Thursday, 21 March 2024
 
-
+* TIME - ACTIVITY
 
 ## Friday, 22 March 2024
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
