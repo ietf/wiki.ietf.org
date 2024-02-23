@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-23T20:15:17.952Z
+date: 2024-02-23T22:35:47.399Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -47,7 +47,7 @@ The Webex info is as follows:
 
 * **P6-7 (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Room-specific instructions will be available soon. 
 
-* **M9 (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1.Room-specific instructions will be available soon. 
+* **M9 (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Room-specific instructions will be available soon. 
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
