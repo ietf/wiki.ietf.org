@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-24T08:20:43.497Z
+date: 2024-02-24T16:30:46.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -72,7 +72,7 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | M9 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
 |     |  |   |   |   |   |   |  |
-|     |  |   |   |   |   |   |  |
+| 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -169,8 +169,8 @@ Location: Plaza Level
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
 | 15:30-16:00 |                   |                    |   
-| 16:00-16:30 |                   |                    |   
-| 16:30-17:00 |                   |                    |   
+| 16:00-16:30 |                   |  UNS / UCA Update  |   
+| 16:30-17:00 |                   |  UNS / UCA Update  |   
 | 17:00-17:30 |                   |                    |   
 | 17:30-18:00 |                   |                    |   
 | 18:00-18:30 |                   |                    |   
