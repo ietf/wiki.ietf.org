@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-23T23:23:36.848Z
+date: 2024-02-24T00:23:54.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -109,7 +109,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
-|     |  |   |   |   |   |   |  |
+| 14:00-15:00    |M9  | Peering API   | BGP  | ramseyer@meta.com  | Discuss Peering API Draft  | TBD   | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -262,8 +262,8 @@ Location: Plaza Level
 | 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
-| 14:00-14:30 |                   |                    |  
-| 14:30-15:00 |                   |                    | 
+| 14:00-14:30 |  Peering API      |                    |  
+| 14:30-15:00 |  Peering API      |                    | 
 | 15:00-15:30 |                   |                    |  
 | 15:30-16:00 |                   |                    |   
 | 16:00-16:30 |                   |                    |   
