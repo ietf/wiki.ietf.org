@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-02-22T18:26:54.281Z
+date: 2024-02-24T04:08:17.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -30,13 +30,13 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |Item|Document|Remarks|
 |---|---|---|
-|IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|Awaiting AD confirmation|
 |IETF LC|draft-ietf-pce-segment-routing-ipv6|Submitted on 2023-09-08|
 |AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|-|
 |Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
 |IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 | Sent to AD | draft-ietf-pce-pcep-extension-native-ip | Dhruv | Awaiting AD review |
