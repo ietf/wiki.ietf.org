@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-23T19:36:09.424Z
+date: 2024-02-26T20:10:13.238Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -42,6 +42,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
   * Executive session: ISE appointment
   * BoF Coverage
   * IAB 119 agenda
+  * IAB Meeting Time, Length, Cadence
 
 -- 2024-03-16 - 2024-03-22: IETF 119 --
 
