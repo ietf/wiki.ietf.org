@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-01-26T20:49:56.999Z
+date: 2024-02-26T19:20:42.958Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -16,16 +16,16 @@ dateCreated: 2024-01-26T20:49:52.624Z
 
 ## Sunday, 2024-03-17
 
-**1145-1215 Brisbane: IAB/IESG Lunch (Room: TBD)**
+**1145-1215 Brisbane: IAB/IESG Lunch (Room: P6/7)**
 
-**1215-1345 Brisbane: IAB/IESG Meeting (Room: TBD)** 
+**1215-1345 Brisbane: IAB/IESG Meeting (Room: P6/7)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 * Meetecho: 
 * Onsite Tool: 
 
-**1400-1600 Brisbane: IAB Business Meeting (Room: TBD)** 
+**1400-1600 Brisbane: IAB Business Meeting (Room: P6/7)** 
 
 * Meetecho: 
 * Onsite Tool: 
@@ -33,11 +33,11 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Monday, 2024-03-18
 
-**1130-1300 Brisbane: IETF-3GPP Coordination (Room: TBD)**
+**1130-1300 Brisbane: IETF-3GPP Coordination (Room: P6/7)**
 
 ## Tuesday, 2024-03-19
 
-**0800-0920 Brisbane: IAB Business Meeting (Room: TBD)**
+**0800-0920 Brisbane: IAB Business Meeting (Room: P8)**
 
 * Meetecho: 
 * Onsite Tool: 
@@ -45,11 +45,11 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Wednesday, 2024-03-20
 
-**1700-1900 Brisbane: IETF 119 Plenary (Room: TBD)**
+**1700-1900 Brisbane: IETF 119 Plenary (Room: Plaza Terrace Room)**
 
 ## Thursday, 2024-03-21
 
-**0800-0920 Brisbane: IAB Business Meeting (Room: TBD)**
+**0800-0920 Brisbane: IAB Business Meeting (Room: P8)**
 
 * Meetecho: 
 * Onsite Tool:
@@ -57,7 +57,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Friday, 2024-03-22
 
-**1130-1300 Brisbane: IAB/IESG Lunch + Meeting (Room: Palmovka 1/2)** 
+**1130-1300 Brisbane: IAB/IESG Lunch + Meeting (Room: P6/7)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
