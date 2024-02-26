@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-26T15:59:23.207Z
+date: 2024-02-26T15:59:47.417Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -208,7 +208,7 @@ Location: Plaza Level
 | 17:00-17:30 |                   |                    |   
 | 17:30-18:00 |                   |                    |   
 | 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |Standalone Service ID in Routing Network                    |   
+| 18:30-19:00 |        6gip           |Standalone Service ID in Routing Network                    |   
 | 19:00-19:30 |                   |Standalone Service ID in Routing Network                    |   
 | 19:30-20:00 |                   | Standalone Service ID in Routing Network                   |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
