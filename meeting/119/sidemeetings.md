@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-26T18:33:53.862Z
+date: 2024-02-26T22:24:57.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -110,7 +110,9 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
 | 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com | Enterprise network scenarios/deployment/problems discussion | TBD | TBD |
+| 9:30-11:00 | P6-7 | IPv6 operations side meeting | Ops | xipengxiao@gmail.com | IPv6 deployment cases in enterprise networks | TBD | TBD |
 |14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD   | TBD |
+| 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
 | 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -254,9 +256,9 @@ Location: Plaza Level
 | 08:00-08:30 |  Deepspace IP     | ENterprise Network |   
 | 08:30-09:00 |  Deepspace IP     | ENterprise Network |   
 | 09:00-09:30 |                   | ENterprise Network |   
-| 09:30-10:00 |                   |                    |   
-| 10:00-10:30 |                   |                    |   
-| 10:30-11:00 |                   |                    |   
+| 09:30-10:00 |                   | IPv6 operations in enterprises                   |   
+| 10:00-10:30 |                   | IPv6 operations in enterprises                    |   
+| 10:30-11:00 |                   |  IPv6 operations in enterprises                   |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
@@ -265,9 +267,9 @@ Location: Plaza Level
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
 | 14:00-14:30 |  Peering API      |                    |  
 | 14:30-15:00 |  Peering API      |                    | 
-| 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |                   |                    |   
-| 16:00-16:30 |                   |                    |   
+| 15:00-15:30 |                   | ICT for green multi-modal transportation (was railway networking)                   |  
+| 15:30-16:00 |                   | ICT for green multi-modal transportation                    |   
+| 16:00-16:30 |                   | ICT for green multi-modal transportation                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |  HTTP              |   
 | 17:30-18:00 |                   |  HTTP              |   
