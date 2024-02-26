@@ -2,7 +2,7 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2024-01-09T19:52:38.881Z
+date: 2024-02-26T20:12:49.189Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
@@ -28,10 +28,11 @@ This wiki contains additional information for IETF RTGWG working group. Please r
 |-----------------------------------------|---------------------------------------------|
 | draft-ietf-rtgwg-bgp-pic                | More work needs to be done before the 2nd WGLC.                   |                               
 | draft-ietf-rtgwg-qos-model              | Review comments to be addressed.|
-| draft-ietf-rtgwg-segment-routing-ti-lfa | OPS Directorate review comments to be addressed.|
+| draft-ietf-rtgwg-segment-routing-ti-lfa | In IESG Last Call till 3/5/2024.|
 | draft-ietf-rtgwg-atn-bgp                | Some directorate reviews have been done. Waiting for related drats to progress in 6man.              |
 |draft-ietf-rtgwg-vrrp-rfc5798bis         | In RFC editor queue.|
-| draft-ietf-rtgwg-net2cloud-problem-statement | Ready for WGLC. |
+| draft-ietf-rtgwg-net2cloud-problem-statement | In WGLC. |
+| draft-ietf-rtgwg-vrrp-p2mp-bfd          | Ready for WGLC. Directorate revivews requested. |
 
 **Recently Adopted Documents**
 | Draft                            | State  | Remarks               |
