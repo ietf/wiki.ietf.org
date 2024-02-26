@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-26T16:06:20.418Z
+date: 2024-02-26T18:33:53.862Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -111,7 +111,7 @@ Please keep the tables sorted by meeting by time.
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
 | 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com | Enterprise network scenarios/deployment/problems discussion | TBD | TBD |
 |14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD   | TBD |
-|     |  |   |   |   |   |   |  |
+| 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -269,9 +269,9 @@ Location: Plaza Level
 | 15:30-16:00 |                   |                    |   
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   |                    |   
+| 17:00-17:30 |                   |  HTTP              |   
+| 17:30-18:00 |                   |  HTTP              |   
+| 18:00-18:30 |                   |  HTTP              |   
 | 18:30-19:00 |                   |                    |   
 | 19:00-19:30 |                   |                    |   
 | 19:30-20:00 |                   |                    |   
