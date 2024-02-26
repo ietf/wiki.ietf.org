@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-26T02:25:02.451Z
+date: 2024-02-26T02:27:21.919Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -175,9 +175,9 @@ Location: Plaza Level
 | 17:00-17:30 |                   |                    |   
 | 17:30-18:00 |                   |                    |   
 | 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |                    |   
-| 19:00-19:30 |                   |                    |   
-| 19:30-20:00 |                   |                    |   
+| 18:30-19:00 |                   |    Non-routing     |   
+| 19:00-19:30 |                   |    Non-routing     |   
+| 19:30-20:00 |                   |    Non-routing     |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
@@ -251,9 +251,9 @@ Location: Plaza Level
 | **Time**    | **M9 (12 people)** | **P6-7 (40 people)** | 
 |-------|------------------|------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 08:00-08:30 |  Deepspace IP      |                    |   
-| 08:30-09:00 |  Deepspace IP     |                    |   
-| 09:00-09:30 |                   |                    |   
+| 08:00-08:30 |  Deepspace IP     | ENterprise Network |   
+| 08:30-09:00 |  Deepspace IP     | ENterprise Network |   
+| 09:00-09:30 |                   | ENterprise Network |   
 | 09:30-10:00 |                   |                    |   
 | 10:00-10:30 |                   |                    |   
 | 10:30-11:00 |                   |                    |   
