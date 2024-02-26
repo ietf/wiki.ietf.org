@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-26T16:02:32.102Z
+date: 2024-02-26T16:06:20.418Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -85,7 +85,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
-| 18:30 - 19:00 | M9 |  6gip | INT  | Roland.Schott@telekom.de  | AI/ML Networking for 6G |  https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
+| 18:30 - 19:00 | M9 |  6gip | INT  | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G |  https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
