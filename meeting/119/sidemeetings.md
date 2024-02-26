@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-24T18:06:03.140Z
+date: 2024-02-26T02:18:08.856Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -76,7 +76,7 @@ Please keep the tables sorted by meeting by time.
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
-|     |  |   |   |   |   |   |  |
+| 18:30-20:00 | P6-7 | Non-routing Information Distribution | RTG | leo.liubing@huawei.com | Continueing from IETF118 | TBD | TBD |
 {.dense}
 
 
@@ -109,6 +109,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
+| 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com | New proposed harmonization | TBD | TBD |
 |14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD   | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
