@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-10T15:02:32.500Z
+date: 2024-02-26T23:51:56.102Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: Saturday - Sunday, 16-17 March 2024
 * :australia: **Where**: Brisbane Convention & Exhibition Centre, Brisbane, Australia
-* :cityscape: **Room**: TBD
+* :cityscape: **Plaza Terrace Room**
 {.grid-list}
 
 **Sponsored by**
@@ -67,13 +67,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 18 March, Time: 18:30 - 19:30, Room: TBD
+  * Monday, 18 March, Time: 18:30 - 19:30, Room: PTR Concourse
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 18 March
 
 ## Code Lounge
   * Space for groups to gather and collaborate on running code 
-  * Tuesday - Friday, 19-22 March, Room: TBD
+  * Tuesday - Friday, 19-22 March, Room: P4
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
