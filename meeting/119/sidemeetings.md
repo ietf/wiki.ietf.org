@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-26T07:13:40.472Z
+date: 2024-02-26T07:28:54.350Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -97,7 +97,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
-|     |  |   |   |   |   |   |  |
+| 16:00-18:00    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -231,8 +231,8 @@ Location: Plaza Level
 | 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
-| 14:00-14:30 |                   |                    |  
-| 14:30-15:00 |                   |                    | 
+| 14:00-14:30 |                   | DDoS Collaborative Defense                   |  
+| 14:30-15:00 |                   | DDoS Collaborative Defense                   | 
 | 15:00-15:30 |                   | skex               |  
 | 15:30-16:00 |                   | skex               |   
 | 16:00-16:30 |                   | DDoS Collaborative Defense                   |   
