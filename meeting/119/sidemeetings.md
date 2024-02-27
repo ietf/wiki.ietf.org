@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-27T14:50:51.424Z
+date: 2024-02-27T19:59:33.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -45,9 +45,9 @@ THE IETF provides a Chromebook with a preconfigured WebEx room in each side meet
 
 The Webex info is as follows:
 
-* **P6-7 (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Room-specific instructions will be available soon. 
+* **P6-7 (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/large_side_meeting_room_-_chromebook_instructions_119.pdf) for managing your side meeting. 
 
-* **M9 (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Room-specific instructions will be available soon. 
+* **M9 (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions_119.pdf) for managing your side meeting. 
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
