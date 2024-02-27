@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-27T00:20:31.875Z
+date: 2024-02-27T11:31:49.647Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -227,6 +227,22 @@ Opensource implementation of the draft, with netopeer/yanglib
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
   
+----
+### Generalized DNS Notifications
+- **Champions**
+  - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
+- **Project Info**
+Add new functionality to a working open source nameserver implementation (written in Go) to
+provide fully automatic management of delegation information between child and parent zones.
+
+    Detailed project suggestions: https://github.com/johanix/hackathon119/
+    
+- **Specifications**
+  - draft-ietf-dnsop-generalized-notify-01**
+  - draft-johani-dnsop-delegation-mgmt-via-ddns-02
+  
+- **Repositories**
+  Github repo will be listed here shortly. I just need to clean up the code a bit.
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
