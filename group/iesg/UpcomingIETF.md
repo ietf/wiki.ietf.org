@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-27T15:08:06.495Z
+date: 2024-02-27T15:10:13.712Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -119,7 +119,7 @@ Location: P5 on the Plaza level
 
 ## Monday, 18 March 2024
 
-* 11:30 - 12:30 Security Area office hour (Paul & Roman & Mystery Person)
+* 12:00 - 13:00 Security Area office hour (Paul & Roman & Mystery Person)
 
 ## Tuesday, 19 March 2024
 **PLEASE NOTE: Not available Tuesday morning!
