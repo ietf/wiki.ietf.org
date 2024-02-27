@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-26T23:51:56.102Z
+date: 2024-02-27T00:20:31.875Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -209,6 +209,24 @@ https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentation/
 - **Project Info**
 Opensource implementation of the draft, with netopeer/yanglib
 
+----
+
+### BMWG - YANG model for management of Network Tester
+- **Champion(s)**
+  - Vladimir Vassilev (vladimir@lightside-instruments.com)
+- **Project(s)**
+  - Model implementation with software and programmable logic for 1Gb Ethernet
+  - RFC2544 benchmark test in python
+  - RFC2889 benchmark test in python
+- **Specifications**
+  - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
+- **Repositories**
+  - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/vlvassilev/litenc/tree/master/tntapi/example/ietf-network-interconnect-tester)
+  - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+  - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+  - Hardware - [board design](https://github.com/vlvassilev/spark)
+  - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
