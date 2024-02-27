@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-27T07:13:40.896Z
+date: 2024-02-27T07:19:41.359Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -85,7 +85,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
-| 17:00-18:30 | P6-7 | Side Meeting on Exposure of Network and Compute Information for the Edge | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of network and compute information to support service/application deployment and operational life cycle | TBD | TBD |
+| 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge | TBD | TBD |
 | 18:30 - 19:00 | M9 |  6gip | INT  | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G |  https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -208,9 +208,9 @@ Location: Plaza Level
 | 15:30-16:00 |                   | skex               |   
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   | Side Meeting on Exposure of Network and Compute Information for the Edge                   |   
-| 17:30-18:00 |                   | Side Meeting on Exposure of Network and Compute Information for the Edge                   |   
-| 18:00-18:30 |                   | Side Meeting on Exposure of Network and Compute Information for the Edge                   |   
+| 17:00-17:30 |                   | Information Exposure for Edge Computing | 
+| 17:30-18:00 |                   | Information Exposure for Edge Computing | 
+| 18:00-18:30 |                   | Information Exposure for Edge Computing |   
 | 18:30-19:00 |        6gip           |Standalone Service ID in Routing Network                    |   
 | 19:00-19:30 |                   |Standalone Service ID in Routing Network                    |   
 | 19:30-20:00 |                   | Standalone Service ID in Routing Network                   |   
