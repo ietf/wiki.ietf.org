@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-27T11:31:49.647Z
+date: 2024-02-27T11:32:44.840Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -238,7 +238,7 @@ provide fully automatic management of delegation information between child and p
     Detailed project suggestions: https://github.com/johanix/hackathon119/
     
 - **Specifications**
-  - draft-ietf-dnsop-generalized-notify-01**
+  - draft-ietf-dnsop-generalized-notify-01
   - draft-johani-dnsop-delegation-mgmt-via-ddns-02
   
 - **Repositories**
