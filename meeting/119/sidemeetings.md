@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-27T02:05:59.535Z
+date: 2024-02-27T02:07:34.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -98,7 +98,6 @@ Please keep the tables sorted by meeting by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
 | 16:00-18:00    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
-|18:00-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -114,6 +113,7 @@ Please keep the tables sorted by meeting by time.
 |14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD   | TBD |
 | 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
 | 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
+|18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -241,10 +241,10 @@ Location: Plaza Level
 | 16:30-17:00 |                   | DDoS Collaborative Defense                   |   
 | 17:00-17:30 |                   | DDoS Collaborative Defense                   |   
 | 17:30-18:00 |                   | DDoS Collaborative Defense                   |   
-| 18:00-18:30 |                   | APN                |   
-| 18:30-19:00 |                   | APN                |   
-| 19:00-19:30 |                   | APN                |   
-| 19:30-20:00 |                   | APN                |   
+| 18:00-18:30 |                   |                    |   
+| 18:30-19:00 |                   |                    |   
+| 19:00-19:30 |                   |                    |   
+| 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
@@ -274,9 +274,9 @@ Location: Plaza Level
 | 17:00-17:30 |                   |  HTTP              |   
 | 17:30-18:00 |                   |  HTTP              |   
 | 18:00-18:30 |                   |  HTTP              |   
-| 18:30-19:00 |                   |                    |   
-| 19:00-19:30 |                   |                    |   
-| 19:30-20:00 |                   |                    |   
+| 18:30-19:00 |                   |  APN               |   
+| 19:00-19:30 |                   |  APN               |   
+| 19:30-20:00 |                   |  APN               |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
