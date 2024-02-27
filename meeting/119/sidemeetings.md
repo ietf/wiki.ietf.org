@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-27T13:20:17.253Z
+date: 2024-02-27T14:50:51.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -73,7 +73,7 @@ Please keep the tables sorted by meeting by time.
 |    7:00-7:05 | M9 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
 |     |  |   |   |   |   |   |  |
 | 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
-|     |  |   |   |   |   |   |  |
+| 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 | 18:30-20:00 | P6-7 | Non-routing Information Distribution | RTG | leo.liubing@huawei.com | Continueing from IETF118 | TBD | TBD |
@@ -175,9 +175,9 @@ Location: Plaza Level
 | 15:30-16:00 |                   |                    |   
 | 16:00-16:30 |                   |  UNS / UCA Update  |   
 | 16:30-17:00 |                   |  UNS / UCA Update  |   
-| 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   |                    |   
+| 17:00-17:30 |                   |    AI4NET          |   
+| 17:30-18:00 |                   |    AI4NET          |   
+| 18:00-18:30 |                   |    AI4NET          |   
 | 18:30-19:00 |                   |    Non-routing     |   
 | 19:00-19:30 |                   |    Non-routing     |   
 | 19:30-20:00 |                   |    Non-routing     |   
@@ -235,13 +235,13 @@ Location: Plaza Level
 | 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
 | 14:00-14:30 |                   |                    |  
-| 14:30-15:00 |                   |                 | 
+| 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   | skex               |  
 | 15:30-16:00 |                   | skex               |   
-| 16:00-16:30 |                   |                   |   
-| 16:30-17:00 |                   |                 |   
-| 17:00-17:30 |                   |                  |   
-| 17:30-18:00 |                   |                   |   
+| 16:00-16:30 |                   |                    |   
+| 16:30-17:00 |                   |                    |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
 | 18:00-18:30 |                   | DDoS Collaborative Defense                       |   
 | 18:30-19:00 |                   | DDoS Collaborative Defense                       |   
 | 19:00-19:30 |                   | DDoS Collaborative Defense                       |   
