@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-28T06:55:05.155Z
+date: 2024-02-28T06:55:46.620Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -255,9 +255,9 @@ provide fully automatic management of delegation information between child and p
   - Code: https://github.com/SAV-Open-Playground/
   - Feel free to share your ideas at https://github.com/SAV-Open-Playground/savop/discussions
 - **Hackathon Plan**
-  - Implementation of a SAV information base (SIB): SIB consolidates SAV-related information from various sources, such as SAV-specific information, RIB, FIB, and RPKI ROA objects and ASPA objects
-  - Implementation of an operation module: The operation module is designed to facilitate emulations of SAV mechanisms through configurations. We have designed a configuration template
-  - Emulation of SAV mechanisms based on SAVOP across distributed machines
+  - Implementation of a SAV information base (SIB): SIB consolidates SAV-related information from various sources, such as SAV-specific information, RIB, FIB, and RPKI ROA objects and ASPA objects.
+  - Implementation of an operation module: The operation module is designed to facilitate emulations of SAV mechanisms through configurations. We have designed a configuration template.
+  - Emulation of SAV mechanisms based on SAVOP across distributed machines.
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
