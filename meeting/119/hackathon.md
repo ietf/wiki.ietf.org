@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-28T16:16:53.906Z
+date: 2024-02-28T16:49:58.405Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -260,6 +260,24 @@ provide fully automatic management of delegation information between child and p
   - Implementation of an operation module: The operation module is designed to facilitate emulations of SAV mechanisms through configurations. We have designed a configuration template.
   - Emulation of SAV mechanisms based on SAVOP across distributed machines.
 ----
+
+### Antagonist (ANomaly TAGging ON hISTorical data)
+- **Champions**
+	- Vincenzo Riccobene (vincenzo.riccobene@huawei-partners.com)
+	- Wanting (Wanting.Du@swisscom.com)
+	- Antonio Roberto (antonio.roberto@huawei.com)
+	- Thomas (Thomas.Graf@swisscom.com)
+- **Project Info**
+Antagonist is a tool supporting the tagging of historical timeseries data. This is envisioned to support Network Anomaly Detection and it is created with the purpose of supporting network operators tagging their data with network anomaly related metadata.
+- **Hackathon plan**
+Antagonist currently exists as a PoC. The objective for this hackathon is to improve the system design and validate an additional draft, recently submitted, for the definition of lifecycle and metadata of network anomaly lifecycle.
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/
+	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
+- **Repositories**
+  Github repo will be provided soon  
+  
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
