@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-28T06:55:46.620Z
+date: 2024-02-28T16:16:53.906Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -177,6 +177,7 @@ John Gray (john.gray@entrust.com)
 Mike Ounsworth (mike.ounsworth@entrust.com)
 Tomofumi Okubo (tomofumi.okubo@digicert.com)
 Julien Prat (julien.prat@cryptonext-security.com)
+Massimiliano Pala (director@openca.org)
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
