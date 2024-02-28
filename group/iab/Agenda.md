@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-28T17:00:39.306Z
+date: 2024-02-28T21:03:12.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,6 +31,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-02-14 business meeting - (submitted 2024-02-15)
 * 2024-02-21 business meeting - (submitted 2024-02-21)
+* 2024-02-28 technical discussion and business meeting - (submitted 2024-02-28)
 
 #### 1.4. Action Item Review - 5 mins
 
