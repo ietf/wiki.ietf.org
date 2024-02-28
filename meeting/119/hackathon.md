@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-27T11:32:44.840Z
+date: 2024-02-28T06:41:11.963Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -243,6 +243,21 @@ provide fully automatic management of delegation information between child and p
   
 - **Repositories**
   Github repo will be listed here shortly. I just need to clean up the code a bit.
+----
+### SAV Open Playground
+- **Champions**
+  - Yuqian Shi (shiyuqian at zgclab.edu.cn）
+  - Lancheng Qin (qlc19 at mails.tsinghua.edu.cn)
+  - Libin Liu (liulb at zgclab.edu.cn)
+  - Li Chen (lichen at zgclab.edu.cn)
+- **Project Info**
+  - SAV Open Playground (SAVOP) is an open platform designed for the implementation and emulation of various source address validation (SAV) mechanisms
+  - Code: https://github.com/SAV-Open-Playground/
+  - Feel free to share your ideas at https://github.com/SAV-Open-Playground/savop/discussions
+- **Hackathon Plan**
+  - Implementation of a SAV information base (SIB): SIB consolidates SAV-related information from various sources, such as SAV-specific information, RIB, FIB, and RPKI ROA objects and ASPA objects
+  - Implementation of an operation module: The operation module supports a standardized configuration template for initiating emulations of SAV mechanisms
+  - Emulation of SAV mechanisms based on SAVOP across distributed machines
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
