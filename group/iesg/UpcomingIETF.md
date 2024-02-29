@@ -35,8 +35,8 @@ Saturday, March 16, 2024 - 09:30-21:00 - Room: Plaza Terrace Room
 
 **AMS-IETF Leadership Venue Tour**
 
-Time: TBD
-Location: TBD
+Time: 1630
+Location: Plaza Terrace Room Foyer (Meeting Registration)
 
 **AMS-IETF Leadership Happy Hour**
 
