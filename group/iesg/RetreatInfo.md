@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-02-22T16:57:25.825Z
+date: 2024-02-29T15:15:20.422Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -41,6 +41,8 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 (maybe IAB+IESG social this evening)
 
 #### Wednesday, June 26 (IAB+IESG)
+
+(maybe IAB+IESG social this evening)
 
 #### Thursday, June 27 (IESG only)
 
