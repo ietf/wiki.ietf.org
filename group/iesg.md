@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2023-11-20T16:35:54.534Z
+date: 2024-02-29T19:27:59.478Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -62,7 +62,7 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 
 [Reference for All ADs](/group/iesg/newADinfo) on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
 
-[IESG Lore for New Area Directors](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) slide deck, put together by the Secretariat
+[IESG Onboarding and Review](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) slide deck, put together by the Secretariat
 
 ## Useful Mailing Lists or Addresses
 | Email Address or Alias  |	Recipient |
