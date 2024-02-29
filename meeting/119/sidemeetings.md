@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-29T07:42:48.644Z
+date: 2024-02-29T07:47:39.910Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -98,6 +98,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
+| 17:00-18:00 | P6-7 | NASR: Network Attestation For Secure Routing | RTG/SEC | liuchunchi@huawei.com | New proposed harmonization | TBD | TBD |
 | 18:00-19:30    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
