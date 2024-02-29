@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-28T16:49:58.405Z
+date: 2024-02-29T08:05:26.881Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -256,9 +256,9 @@ provide fully automatic management of delegation information between child and p
   - Code: https://github.com/SAV-Open-Playground/
   - Feel free to share your ideas at https://github.com/SAV-Open-Playground/savop/discussions
 - **Hackathon Plan**
+  - Implementation of Signed SAVNET-Peering Information (SiSPI) object for deploying inter-domain SAVNET. For detailed information about the SiSPI object, please refer to the draft draft-chen-sidrops-sispi available at https://datatracker.ietf.org/doc/draft-chen-sidrops-sispi/.
   - Implementation of a SAV information base (SIB): SIB consolidates SAV-related information from various sources, such as SAV-specific information, RIB, FIB, and RPKI ROA objects and ASPA objects.
   - Implementation of an operation module: The operation module is designed to facilitate emulations of SAV mechanisms through configurations. We have designed a configuration template.
-  - Emulation of SAV mechanisms based on SAVOP across distributed machines.
 ----
 
 ### Antagonist (ANomaly TAGging ON hISTorical data)
