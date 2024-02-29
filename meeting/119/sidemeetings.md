@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-28T04:56:14.434Z
+date: 2024-02-29T07:42:48.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -240,8 +240,8 @@ Location: Plaza Level
 | 15:30-16:00 |                   | skex               |   
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
+| 17:00-17:30 |                   | NASR               |   
+| 17:30-18:00 |                   | NASR               |   
 | 18:00-18:30 |                   | DDoS Collaborative Defense                       |   
 | 18:30-19:00 |                   | DDoS Collaborative Defense                       |   
 | 19:00-19:30 |                   | DDoS Collaborative Defense                       |   
