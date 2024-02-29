@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-28T17:50:39.806Z
+date: 2024-02-29T16:30:34.188Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,6 +18,7 @@ Please add any topics for either IESG only meetings at IETF 119, or the joint me
 
 - Update on outreach activities and planning - Dhruv (IAB+IESG)
 - Should IANA YANG Modules be published in RFCs or elided at publication time. Rob (Needs IANA to be present + IESG + maybe IAB)
+- The new ADs could use a primer on how to deal with IPRs.
 
 # IESG Activities
 *All times are in AEST (UTC +10).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
