@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-29T16:30:34.188Z
+date: 2024-02-29T16:34:31.228Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -41,8 +41,8 @@ Location: Plaza Terrace Room Foyer (Meeting Registration)
 
 **AMS-IETF Leadership Happy Hour**
 
-Time: TBD
-Location: TBD
+Time: After venue tour
+Location: P11
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Sunday, March 17, 2024
