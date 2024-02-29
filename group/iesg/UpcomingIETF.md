@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-02-29T18:16:59.717Z
+date: 2024-02-29T19:33:55.685Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -116,7 +116,6 @@ Location: P5 on the Plaza level
 ## Sunday, 17 March 2024
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
-* 12:00-13:00 ART AD Office Hours (Orie & Murray)
 * 14:00-15:00 TSV AD Office Hours
 
 ## Monday, 18 March 2024
@@ -128,6 +127,8 @@ Location: P5 on the Plaza level
 Available starting at 11:30 AM**
 * TIME - ACTIVITY
 
+* 11:45-12:45 ART AD Office Hour (Orie & Murray)
+
 ## Wednesday, 20 March 2024
 
 * 11:30-13:00 Internet Area office hour (Éric & Erik)
@@ -135,6 +136,8 @@ Available starting at 11:30 AM**
 ## Thursday, 21 March 2024
 
 * TIME - ACTIVITY
+
+* 12:00-13:00 ART AD Office Hours (Orie & Murray)
 
 ## Friday, 22 March 2024
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
