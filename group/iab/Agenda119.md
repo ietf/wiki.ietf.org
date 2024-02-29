@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-02-29T18:33:25.273Z
+date: 2024-02-29T18:34:08.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -11,6 +11,7 @@ dateCreated: 2024-01-26T20:49:52.624Z
 # Proposed (not yet scheduled) topics
 
 * Review program description and processes (Mirja)
+* IAB Vision Doc (Mallory/Mirja)
 
 
 # Agenda119
