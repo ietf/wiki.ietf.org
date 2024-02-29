@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-02-29T08:05:26.881Z
+date: 2024-02-29T18:19:22.358Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -282,6 +282,24 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
   Github repo will be provided soon  
   
 ---
+
+### SAV-D 
+- **Champions**
+	- Haoran Luo (HaoranMe@outlook.com)
+	- Shuisong Hu (Hi.shuisong@gmail.com)
+- **Project Info**
+
+- **Hackathon plan**
+
+- **Specifications**
+
+- **Repositories**
+  
+  
+---
+
+
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
