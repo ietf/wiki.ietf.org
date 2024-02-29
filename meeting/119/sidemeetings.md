@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-29T18:40:01.121Z
+date: 2024-02-29T18:42:33.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -100,7 +100,7 @@ Please keep the tables sorted by meeting by time.
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
 | 17:00-18:00 | P6-7 | NASR: Network Attestation For Secure Routing | RTG/SEC | liuchunchi@huawei.com | New proposed harmonization | TBD | TBD |
 | 18:00-19:30    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
-| 18.00 - 19:00 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
+| 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -243,7 +243,7 @@ Location: Plaza Level
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   | NASR               |   
 | 17:30-18:00 |                   | NASR               |   
-| 18:00-18:30 |                   | DDoS Collaborative Defense                       |   
+| 18:00-18:30 |       6gip        | DDoS Collaborative Defense                       |   
 | 18:30-19:00 |                   | DDoS Collaborative Defense                       |   
 | 19:00-19:30 |                   | DDoS Collaborative Defense                       |   
 | 19:30-20:00 |                   |                    |   
