@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-29T18:42:33.385Z
+date: 2024-02-29T18:45:44.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -86,7 +86,7 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
-| 18:30 - 19:00 | M9 |  6gip | INT  | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G |  https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
+|     |  |   |   |   |   |   |  |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -212,7 +212,7 @@ Location: Plaza Level
 | 17:00-17:30 |                   | Information Exposure for Edge Computing | 
 | 17:30-18:00 |                   | Information Exposure for Edge Computing | 
 | 18:00-18:30 |                   | Information Exposure for Edge Computing |   
-| 18:30-19:00 |        6gip           |Standalone Service ID in Routing Network                    |   
+| 18:30-19:00 |                   |Standalone Service ID in Routing Network                    |   
 | 19:00-19:30 |                   |Standalone Service ID in Routing Network                    |   
 | 19:30-20:00 |                   | Standalone Service ID in Routing Network                   |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
