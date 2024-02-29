@@ -199,17 +199,21 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 ----
 
-### Augmentation Addition into the IETF-YANG-Library
+### Augmented-by Addition into the IETF-YANG-Library
 - **Champion(s)**
 Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
 Benoit Claise (benoit.claise @ huawei.com)
+IGNACIO DOMINGUEZ MARTINEZ-CASANUEVA（ignacio.dominguezmartinez @ telefonica.com）
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentation/
 
 - **Project Info**
-Opensource implementation of the draft, with netopeer/yanglib
+Opensource implementation of the augmented-by list in ietf-yang-library, with netopeer/libyang.
+Demonstrate how the additional list improve the performance of two use cases.
 
+- **Repository**
+https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
 ----
 
 ### BMWG - YANG model for management of Network Tester
