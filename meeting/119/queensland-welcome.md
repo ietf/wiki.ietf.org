@@ -2,14 +2,14 @@
 title: IETF 119 Brisbane, Queensland Welcome
 description: Message from the Minister for Tourism and Sport, The Hon. Michael Healy MP
 published: true
-date: 2024-03-01T19:32:22.367Z
+date: 2024-03-01T19:32:42.266Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-01T19:26:45.479Z
 ---
 
 
-
+![au-mp-michael-healy.png](/119/au-mp-michael-healy.png)
 It is my pleasure to welcome you to the [IETF 119 Brisbane](https://www.ietf.org/meeting/119) meeting.
 
 We know that many of you have travelled far and wide to be here today and we hope that while you’re here you are able to make the most of this world-class destination. 
