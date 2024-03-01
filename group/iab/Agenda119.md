@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-02-29T18:35:07.916Z
+date: 2024-03-01T01:15:23.610Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -15,6 +15,7 @@ dateCreated: 2024-01-26T20:49:52.624Z
 * IAB Chair Selection
 * https://wiki.ietf.org/group/iab/First_Meeting
 * UFMRG Review
+* A lookback at IAB Workshops (Dhruv)
 
 
 # Agenda119
