@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2024-02-22T20:02:11.909Z
+date: 2024-03-01T16:28:36.251Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -20,13 +20,16 @@ dateCreated: 2023-01-26T03:27:32.408Z
 
 * [Archive of past Bof Coverage](/group/iab/Bof_Coverage)
 
-## IAB Roles and Liaisons Descriptions 
+## IAB Roles
 * [IESG Liaison](/group/iab/IESG_Liaison)
 * [NomCom Liaison](/group/iab/NomCom_Liaison)
   * See also [IAB_Nomcom](/group/iab/IAB_Nomcom)
 * [ARPA DNS Zone](/group/iab/ARPA_DNS_Zone) - Guidance for the ARPA Change Control Approver
 * [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
 * [IAB Outreach Coordinator](/group/iab/IAB_Outreach_Coordinator)
+
+## Liaison Descriptions
+
 * [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)
 
