@@ -2,7 +2,7 @@
 title: IETF 119 Brisbane, Queensland Welcome
 description: Message from the Minister for Tourism and Sport, The Hon. Michael Healy MP
 published: true
-date: 2024-03-01T19:26:45.479Z
+date: 2024-03-01T19:32:22.367Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-01T19:26:45.479Z
