@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-01T02:36:35.626Z
+date: 2024-03-01T03:42:32.314Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -241,12 +241,12 @@ Location: Plaza Level
 | 15:30-16:00 |                   | skex               |   
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   | NASR               |   
-| 17:30-18:00 |                   | NASR               |   
-| 18:00-18:30 |       6gip        |                        |   
-| 18:30-19:00 |                   |                        |   
-| 19:00-19:30 |                   |                        |   
-| 19:30-20:00 |                   |                    |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |       6gip        |                    |   
+| 18:30-19:00 |                   | NASR               |   
+| 19:00-19:30 |                   | NASR               |   
+| 19:30-20:00 |                   | NASR               |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
