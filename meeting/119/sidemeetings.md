@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-01T13:07:45.652Z
+date: 2024-03-01T20:08:53.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -84,7 +84,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
+| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |     |  |   |   |   |   |   |  |
@@ -98,7 +98,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-11:00    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
-| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
+| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
@@ -210,12 +210,12 @@ Location: Plaza Level
 | 15:30-16:00 |                   | skex               |   
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   | Information Exposure for Edge Computing | 
-| 17:30-18:00 |                   | Information Exposure for Edge Computing | 
-| 18:00-18:30 |                   | Information Exposure for Edge Computing |   
-| 18:30-19:00 |                   |Standalone Service ID in Routing Network                    |   
-| 19:00-19:30 |                   |Standalone Service ID in Routing Network                    |   
-| 19:30-20:00 |                   | Standalone Service ID in Routing Network                   |   
+| 17:00-17:30 |                   | Information Exposure for Edge Computing  | 
+| 17:30-18:00 |                   | Information Exposure for Edge Computing  | 
+| 18:00-18:30 |                   | Information Exposure for Edge Computing  |   
+| 18:30-19:00 |                   | Standalone Service ID in Routing Network |   
+| 19:00-19:30 |                   | Standalone Service ID in Routing Network |   
+| 19:30-20:00 |                   | Standalone Service ID in Routing Network |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
@@ -227,9 +227,9 @@ Location: Plaza Level
 | 08:00-08:30 |                   | **NOT AVAILABLE**  |   
 | 08:30-09:00 |                   | **NOT AVAILABLE**  |   
 | 09:00-09:30 |                   | **NOT AVAILABLE**  |   
-| 09:30-10:00 |                   | DDoS Collaborative Defense                   |   
-| 10:00-10:30 |                   | DDoS Collaborative Defense                   |   
-| 10:30-11:00 |                   | DDoS Collaborative Defense                   |   
+| 09:30-10:00 |                   | DDoS Collaborative Defense               |   
+| 10:00-10:30 |                   | DDoS Collaborative Defense               |   
+| 10:30-11:00 |                   | DDoS Collaborative Defense               |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
@@ -256,12 +256,12 @@ Location: Plaza Level
 | **Time**    | **M9 (12 people)** | **P6-7 (40 people)** | 
 |-------|------------------|------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 08:00-08:30 |  Deepspace IP     | ENterprise Network |   
-| 08:30-09:00 |  Deepspace IP     | ENterprise Network |   
-| 09:00-09:30 |                   | ENterprise Network |   
-| 09:30-10:00 |                   | IPv6 operations in enterprises                   |   
-| 10:00-10:30 |                   | IPv6 operations in enterprises                    |   
-| 10:30-11:00 |                   |  IPv6 operations in enterprises                   |   
+| 08:00-08:30 |  Deepspace IP     | Enterprise Network |   
+| 08:30-09:00 |  Deepspace IP     | Enterprise Network |   
+| 09:00-09:30 |                   | Enterprise Network |   
+| 09:30-10:00 |                   | IPv6 operations in enterprises           |   
+| 10:00-10:30 |                   | IPv6 operations in enterprises           |   
+| 10:30-11:00 |                   | IPv6 operations in enterprises           |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
@@ -270,9 +270,9 @@ Location: Plaza Level
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
 | 14:00-14:30 |  Peering API      | More MPC for Measurement |  
 | 14:30-15:00 |  Peering API      | More MPC for Measurement | 
-| 15:00-15:30 |                   | ICT for green multi-modal transportation                  |  
-| 15:30-16:00 |                   | ICT for green multi-modal transportation                    |   
-| 16:00-16:30 |                   | ICT for green multi-modal transportation                    |   
+| 15:00-15:30 |                   | ICT for green multi-modal transportation |  
+| 15:30-16:00 |                   | ICT for green multi-modal transportation |   
+| 16:00-16:30 |                   | ICT for green multi-modal transportation |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |  HTTP              |   
 | 17:30-18:00 |                   |  HTTP              |   
