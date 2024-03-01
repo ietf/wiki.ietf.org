@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-01T03:45:27.067Z
+date: 2024-03-01T04:53:35.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -112,7 +112,8 @@ Please keep the tables sorted by meeting by time.
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
 | 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com | Enterprise network scenarios/deployment/problems discussion | TBD | TBD |
 | 9:30-11:00 | P6-7 | IPv6 operations for enterprises | Ops | xipengxiao@gmail.com | IPv6 deployment cases in enterprise networks | TBD | TBD |
-|14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD   | TBD |
+|14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD | TBD |
+|14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
 | 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
 | 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
 |18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
@@ -267,8 +268,8 @@ Location: Plaza Level
 | 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
-| 14:00-14:30 |  Peering API      |                    |  
-| 14:30-15:00 |  Peering API      |                    | 
+| 14:00-14:30 |  Peering API      | More MPC for Measurement |  
+| 14:30-15:00 |  Peering API      | More MPC for Measurement | 
 | 15:00-15:30 |                   | ICT for green multi-modal transportation                  |  
 | 15:30-16:00 |                   | ICT for green multi-modal transportation                    |   
 | 16:00-16:30 |                   | ICT for green multi-modal transportation                    |   
