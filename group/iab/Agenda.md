@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-02-28T21:03:12.945Z
+date: 2024-03-01T16:31:24.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -78,13 +78,6 @@ IAB Shepherd: (Not yet assigned)
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
-- **Detecting Unwanted Location Trackers (dult)**
-Area: SEC
-External Review
-IESG Telechat: 2024-02-29
-IAB Reviewer: Mirja Kühlewind
-Review: https://mailarchive.ietf.org/arch/msg/unwanted-trackers/8alpwWykKlWK03fBLmXlOiZSdYw/
-
 - **Multiformats (multi)**
 Area: ART
 Internal Review
@@ -99,7 +92,28 @@ IAB Reviewer: David Schinazi
 Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 
-### 2.
+### 2. IAB Meeting Time, Length, Cadence (Cindy) - 5 mins (Public)
+
+  Goal: Confirm meeting day/time/cadence for 2024-2025
+  
+### 3. IAB Agenda at IETF 119 (Mirja) - 10 mins (Public)
+
+  Goal: Discuss potential agenda topics for IETF 119
+
+
+### 4. BOF Coverage for IETF 119 (Cindy) - 5 mins (Public)
+
+  Goal: Assign BOF Coverage
+
+  Wiki: https://wiki.ietf.org/group/iab/Bof119
+
+
+### 5. ISE request for review: draft-bichot-msync-15 (Mirja, All) - 10 mins (Public)
+
+
+### 6. Executive Session: ISE Appointment
+
+
 
 
 
@@ -107,11 +121,6 @@ Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 ## Upcoming Teleconferences 
 
 * 2024-03-06: IAB Business Meeting
-	* ISE request for review: draft-bichot-msync-15
-  * Executive session: ISE appointment
-  * BoF Coverage
-  * IAB 119 agenda
-  * IAB Meeting Time, Length, Cadence
 
 -- 2024-03-16 - 2024-03-22: IETF 119 --
 
