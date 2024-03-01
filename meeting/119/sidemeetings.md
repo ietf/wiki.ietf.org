@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-02-29T18:49:30.734Z
+date: 2024-03-01T02:36:35.626Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -97,9 +97,9 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+| 9:30-11:00    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | manfred.skex119@qubridge.io | New proposed harmonization | TBD | TBD |
 | 17:00-18:00 | P6-7 | NASR: Network Attestation For Secure Routing | RTG/SEC | liuchunchi@huawei.com | New proposed harmonization | TBD | TBD |
-| 18:00-19:30    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -226,9 +226,9 @@ Location: Plaza Level
 | 08:00-08:30 |                   | **NOT AVAILABLE**  |   
 | 08:30-09:00 |                   | **NOT AVAILABLE**  |   
 | 09:00-09:30 |                   | **NOT AVAILABLE**  |   
-| 09:30-10:00 |                   |                    |   
-| 10:00-10:30 |                   |                    |   
-| 10:30-11:00 |                   |                    |   
+| 09:30-10:00 |                   | DDoS Collaborative Defense                   |   
+| 10:00-10:30 |                   | DDoS Collaborative Defense                   |   
+| 10:30-11:00 |                   | DDoS Collaborative Defense                   |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
@@ -243,9 +243,9 @@ Location: Plaza Level
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   | NASR               |   
 | 17:30-18:00 |                   | NASR               |   
-| 18:00-18:30 |       6gip        | DDoS Collaborative Defense                       |   
-| 18:30-19:00 |                   | DDoS Collaborative Defense                       |   
-| 19:00-19:30 |                   | DDoS Collaborative Defense                       |   
+| 18:00-18:30 |       6gip        |                        |   
+| 18:30-19:00 |                   |                        |   
+| 19:00-19:30 |                   |                        |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
