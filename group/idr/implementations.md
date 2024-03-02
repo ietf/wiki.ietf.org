@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2023-12-18T20:30:57.609Z
+date: 2024-03-02T04:41:17.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -55,7 +55,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementations at Code Allocation
  - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
- - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
+ - [draft-ietf-idr-bgp-ls-sr-policy](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
   - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 
 ## Implementation Report for drafts at WG
