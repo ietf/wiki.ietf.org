@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-02T18:31:00.861Z
+date: 2024-03-02T18:31:57.778Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -308,7 +308,7 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 - **Project Info**
   - <https://ilnp.cs.st-andrews.ac.uk>
   - RFCs 6740(E) - 6748(E)
-  - The basic approach to this is to deprecate the concept of an IP Address and replace it with separate Locator and Identifier values a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our research demonstration will be based on IPv6.
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
   
 --- 
 
