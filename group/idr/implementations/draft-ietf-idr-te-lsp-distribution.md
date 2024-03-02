@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-policy
 description: 
 published: true
-date: 2024-03-02T05:08:36.991Z
+date: 2024-03-02T05:09:24.657Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T07:22:57.929Z
