@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-02T18:30:23.139Z
+date: 2024-03-02T18:31:00.861Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -303,7 +303,8 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
   - Saleem Bhatti <saleem@st-andrews.ac.uk>
   - Gregor Haywood (remote) <gh66@st-andrews.ac.uk>
   - Rodney Grimes <rgrimes@freebsd.org>
-  - Alistair Woodman <>
+  - Alistair Woodman <awoodman@netdef.org>
+  - Ran Arkinson
 - **Project Info**
   - <https://ilnp.cs.st-andrews.ac.uk>
   - RFCs 6740(E) - 6748(E)
