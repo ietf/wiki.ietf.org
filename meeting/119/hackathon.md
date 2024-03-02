@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-02T18:31:57.778Z
+date: 2024-03-02T18:32:31.999Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -301,10 +301,10 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 ### Identifier Locator Network Protocol (ILNP)
 - **Champions**
   - Saleem Bhatti <saleem@st-andrews.ac.uk>
-  - Gregor Haywood (remote) <gh66@st-andrews.ac.uk>
+  - Gregor Haywood (remote, St Andrews, UK) <gh66@st-andrews.ac.uk>
   - Rodney Grimes <rgrimes@freebsd.org>
   - Alistair Woodman <awoodman@netdef.org>
-  - Ran Arkinson
+  - Ran Atkinson
 - **Project Info**
   - <https://ilnp.cs.st-andrews.ac.uk>
   - RFCs 6740(E) - 6748(E)
