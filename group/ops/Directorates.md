@@ -2,7 +2,7 @@
 title: OPS Directorate (OPS-DIR)
 description: 
 published: true
-date: 2024-03-03T21:20:29.828Z
+date: 2024-03-03T21:20:46.146Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T01:09:17.443Z
@@ -14,7 +14,7 @@ dateCreated: 2022-12-20T01:09:17.443Z
 
 Mailing list :   ops-dir@ietf.org
 Area Directors : 
-Benoit Claise rwilton@cisco.com
+Robert Wilton rwilton@cisco.com
 Warren Kumari <warren@kumari.net> 
 
 Secretaries: 
