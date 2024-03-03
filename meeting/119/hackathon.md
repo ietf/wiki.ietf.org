@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-03T16:10:39.887Z
+date: 2024-03-03T16:12:34.997Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -315,6 +315,7 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 ### Enhancing DNS delegation with DELEG
 - **Champions**
 	- Ralf Weber <dns@fl1ger.de>
+  - David Lawrence <tale@dd.org>
 - **Project Info**
 Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all other topics related to DELEG for the upcoming BOF
 
