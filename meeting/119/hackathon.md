@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-02T18:32:51.018Z
+date: 2024-03-03T16:10:39.887Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -310,6 +310,14 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
   
+--- 
+
+### Enhancing DNS delegation with DELEG
+- **Champions**
+	- Ralf Weber <dns@fl1ger.de>
+- **Project Info**
+Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all other topics related to DELEG for the upcoming BOF
+
 --- 
 
 
