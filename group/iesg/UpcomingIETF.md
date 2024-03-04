@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-03T21:23:07.669Z
+date: 2024-03-04T21:45:11.640Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -60,16 +60,16 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### IESG Meeting - Time: 09:30-11:30 Room: P6-7
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: P6-7
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: P6-7
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
 
 
@@ -90,8 +90,8 @@ No IESG breakfast. IAB has a breakfast meeting.
 ## Wednesday, March 20, 2024
 ### IESG Meeting Time: 08:00-09:20  Room: P6-7
 
-* Meetecho:  
-* Onsite Tool:  
+* Meetecho:  https://meetings.conf.meetecho.com/ietf119/?session=1003
+* Onsite Tool:  https://meetings.conf.meetecho.com/onsite119/?session=1003
 
 
 
@@ -105,8 +105,8 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 ### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: P6-7
 
-* Meetecho:  
-* Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1005
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1005
 
  
 
