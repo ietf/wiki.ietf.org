@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-01T20:08:53.746Z
+date: 2024-03-04T03:53:05.056Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -71,7 +71,8 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | M9 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
-|     |  |   |   |   |   |   |  |
+|  |
+| 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
 |     |  |   |   |   |   |   |  |
@@ -173,8 +174,8 @@ Location: Plaza Level
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
-| 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |                   |                    |   
+| 15:00-15:30 |                   |CCO for AI Networking|  
+| 15:30-16:00 |                   |CCO for AI Networking|   
 | 16:00-16:30 |                   |  UNS / UCA Update  |   
 | 16:30-17:00 |                   |  UNS / UCA Update  |   
 | 17:00-17:30 |                   |    AI4NET          |   
