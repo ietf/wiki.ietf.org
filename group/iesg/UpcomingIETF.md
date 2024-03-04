@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-04T21:45:11.640Z
+date: 2024-03-04T21:54:55.110Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -71,7 +71,18 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
-
+    > 1. Welcome and introductions
+    > 1. Area walkthrough for hot topics (list randomized for 119)
+    > - GEN
+    > - RTG
+    > - IAB
+    > - IRTF
+    > - ART
+    > - OPS
+    > - INT
+    > - SEC
+    > - TSV
+    > - WIT
 
 ### IAB Meeting - 14:00-16:00 Room: P6-7
 
@@ -108,7 +119,19 @@ No IESG breakfast. IAB has a breakfast meeting.
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1005
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1005
 
- 
+> 1. Welcome
+> 1. Post-meeting review (randomized for 119)
+> - RTG
+> - GEN
+> - SEC
+> - IAB
+> - ART
+> - OPS
+> - IRTF
+> - WIT
+> - TSV
+> - INT
+> 3. General discussion of productivity and how the meeting went (standing item)
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
