@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-04T03:53:05.056Z
+date: 2024-03-04T15:44:10.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -113,7 +113,7 @@ Please keep the tables sorted by meeting by time.
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
 | 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com | Enterprise network scenarios/deployment/problems discussion | TBD | TBD |
 | 9:30-11:00 | P6-7 | IPv6 operations for enterprises | Ops | xipengxiao@gmail.com | IPv6 deployment cases in enterprise networks | TBD | TBD |
-|14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | TBD | TBD |
+|14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
 | 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
 | 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
