@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-03-01T01:15:23.610Z
+date: 2024-03-04T21:38:46.934Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -22,7 +22,9 @@ dateCreated: 2024-01-26T20:49:52.624Z
 
 ## Saturday, 2024-03-16
 
+**1630-1800 Brisbane: AMS-IETF Leadership Venue Tour + Happy Hour**
 
+Please join us in the Plaza Terrace Room Foyer (Registration) for a quick tour around the conference center. We will end in P11 for the happy hour.
 
 ## Sunday, 2024-03-17
 
@@ -32,25 +34,27 @@ dateCreated: 2024-01-26T20:49:52.624Z
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-* Meetecho: 
-* Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
 **1400-1600 Brisbane: IAB Business Meeting (Room: P6/7)** 
 
-* Meetecho: 
-* Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
 
 ## Monday, 2024-03-18
 
 **1130-1300 Brisbane: IETF-3GPP Coordination (Room: P6/7)**
 
+Webex: https://ietf.webex.com/meet/ietfsidemeeting2
+
 ## Tuesday, 2024-03-19
 
 **0800-0920 Brisbane: IAB Business Meeting (Room: P8)**
 
-* Meetecho: 
-* Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1002
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1002
 
 
 ## Wednesday, 2024-03-20
@@ -61,8 +65,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 **0800-0920 Brisbane: IAB Business Meeting (Room: P8)**
 
-* Meetecho: 
-* Onsite Tool:
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1004
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1004
 
 
 ## Friday, 2024-03-22
@@ -71,8 +75,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-* Meetecho: 
-* Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1005
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1005
 
 
 
