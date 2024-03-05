@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2024-02-15T22:18:49.263Z
+date: 2024-03-05T17:06:38.685Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -15,9 +15,9 @@ This is a list of several administrative items that are usually handled at the f
   - [IAB_Chair_Selection_Process_Guidelines](/group/iab/IAB_Chair_Selection_Process_Guidelines)
 - Finalize meeting day and time
 - Identify Program Leads and members (see [Programs](https://www.iab.org/activities/programs/))
-  - IAB-ISOC: led by Alvaro (IAB member) and co-led by Olaf (ISOC); At least one IAB member and IAB chair as member
-  - IAB-IANA: Lead by Russ Housley and Kim Davis (IANA); One IAB member and IAB chair as members
-  - IAB-IEEE: Lead by Russ Housley (IEEE liaison manager) and Dorothy Stanley (IEEE-side liaison manager)
+  - IAB-ISOC: Led by Alvaro (IAB member) and co-led by Olaf (ISOC); At least one IAB member and IAB chair as member
+  - IAB-IANA: Led by Russ Housley and Kim Davis (IANA); One IAB member and IAB chair as members
+  - IAB-IEEE: Led by Russ Housley (IEEE liaison manager) and Dorothy Stanley (IEEE-side liaison manager)
   - EDM: Both leads are IAB Members and open participation
 - Identify Liaison Coordinators (2023-2024: Wes, Suresh, Tommy)
   - [IETF Liaisons](https://www.ietf.org/about/liaisons/)
