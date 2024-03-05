@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-03-05T00:31:10.060Z
+date: 2024-03-05T00:31:38.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -12,8 +12,8 @@ dateCreated: 2024-01-26T20:49:52.624Z
 
 * Review program description and processes (Mirja)
 * IAB Vision Doc (Mallory/Mirja)
-* Executive Session: IAB Chair Selection - 20 mins
-* https://wiki.ietf.org/group/iab/First_Meeting (Cindy) - 30 mins
+* Executive Session: IAB Chair Selection - 20 mins (Sun)
+* https://wiki.ietf.org/group/iab/First_Meeting (Cindy) - 30 mins (Sun)
 * UFMRG Review (UFMRG Chairs) - 30 mins (Tue or Thu)
 * https://pulse.internetsociety.org/ (Ryan Polk) - 30 mins (Tue or Thu)
 * A lookback at IAB Workshops (Dhruv)
