@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-04T21:54:55.110Z
+date: 2024-03-05T14:44:46.429Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -160,7 +160,7 @@ Available starting at 11:30 AM**
 * 14:35-14:55 DTN Mgmt Arch (Rob)
 ## Thursday, 21 March 2024
 
-* TIME - ACTIVITY
+* 11:30 - 13:00 RTG Office Hours
 
 
 ## Friday, 22 March 2024
