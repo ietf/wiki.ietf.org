@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2024-03-05T17:06:38.685Z
+date: 2024-03-05T18:13:11.191Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -19,6 +19,7 @@ This is a list of several administrative items that are usually handled at the f
   - IAB-IANA: Led by Russ Housley and Kim Davis (IANA); One IAB member and IAB chair as members
   - IAB-IEEE: Led by Russ Housley (IEEE liaison manager) and Dorothy Stanley (IEEE-side liaison manager)
   - EDM: Both leads are IAB Members and open participation
+  - EIMPACT: Led by Suresh (IAB member) and Jari (former IAB member); open participation
 - Identify Liaison Coordinators (2023-2024: Wes, Suresh, Tommy)
   - [IETF Liaisons](https://www.ietf.org/about/liaisons/)
   - [Liaison_Coordinator_Job_Description](/group/iab/Liaison_Coordinator_Job_Description)
