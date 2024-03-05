@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-02-22T09:19:07.784Z
+date: 2024-03-05T15:27:15.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -15,7 +15,7 @@ dateCreated: 2023-01-26T04:05:43.693Z
 ### Purpose of this Page
 This page contains specific information about the IETF relevant to the European Multi Stakeholder Platform on ICT Standardisation, MSP for short. This page is intended for the stakeholders that seek information specific to the MSP's work and how that work relates to the IETF, it is not intended for IETF participants seeking [more information](https://digital-strategy.ec.europa.eu/en/policies/multi-stakeholder-platform-ict-standardisation) about the MSP.
 
-For more detailed information, or to submit relevant information to the MSP, please contact [Mat Ford](mailto:ford@isoc.org) or [Andrei Robachevsky](mailto:robachevsky@isoc.org) who are the IETF representatives in the platform and the editors of this page.
+For more detailed information, or to submit relevant information to the MSP, please contact [Mat Ford](mailto:ford@isoc.org) or [Olaf Kolkman](mailto:kolkman@isoc.org) who are the IETF representatives in the platform and the editors of this page.
 
 ## The Rolling Plan
 ### Introduction
