@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-03-01T16:31:24.329Z
+date: 2024-03-05T23:20:20.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-03-06 0700 PST (UTC-8) 
 
-*Agenda as of 2024-02-28. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-03-05. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -101,17 +101,25 @@ Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
   Goal: Discuss potential agenda topics for IETF 119
 
 
-### 4. BOF Coverage for IETF 119 (Cindy) - 5 mins (Public)
+### 4. IAB Open Agenda at IETF 119 (Mirja, Tommy) - 5 mins (Public)
+
+  Goal: Discuss agenda
+
+
+### 5. BOF Coverage for IETF 119 (Cindy) - 5 mins (Public)
 
   Goal: Assign BOF Coverage
 
   Wiki: https://wiki.ietf.org/group/iab/Bof119
 
+### 6. Co-signing Global Encryption Coalition letter about Australia
 
-### 5. ISE request for review: draft-bichot-msync-15 (Mirja, All) - 10 mins (Public)
+  Goal: Next steps
+
+### 7. ISE request for review: draft-bichot-msync-15 (Mirja, All) - 10 mins (Public)
 
 
-### 6. Executive Session: ISE Appointment
+### 8. Executive Session: ISE Appointment
 
 
 
