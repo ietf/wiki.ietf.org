@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-03-05T15:29:43.908Z
+date: 2024-03-05T15:29:56.516Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -37,7 +37,7 @@ Previous versions of the Rolling Plan and the IETF work that fits into it:
 ### Draft Rolling Plan 2024
 The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2024 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
 
-Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](https://www.ietf.org/topics/areas/) for potentially related technology work and contact [Mat Ford](mailto:ford@isoc.org) or [Olaf Kolkman](mailto:koklkman@isoc.org) or any Area Director with general or specific questions.
+Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](https://www.ietf.org/topics/areas/) for potentially related technology work and contact [Mat Ford](mailto:ford@isoc.org) or [Olaf Kolkman](mailto:kolkman@isoc.org) or any Area Director with general or specific questions.
 
 ### General comments
 - From the EU RP Task Force: The Review process leads to a new version of the EU Rolling Plan on ICT Standardisation. The new version will be finalised by the MSP in December before being handed over to the Commission for endorsement and publication. From end of July until late September all MSP members have the opportunity to provide comments and further input to the draft Rolling Plan as provided by the European Commission. Focus should be put in particular to the actions. For an effective Rolling Plan it is important to have actions that are as precise as possible so that they can trigger respective standardisation work. Therefore, the CARV criteria should be met: actions should be **C**oncrete, **A**chievable, **R**elevant and **V**oluntary.
