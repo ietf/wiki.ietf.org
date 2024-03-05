@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-04T19:19:47.410Z
+date: 2024-03-05T02:43:55.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -77,7 +77,7 @@ Please keep the tables sorted by meeting by time.
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
-| 18:30-20:00 | P6-7 | Non-routing Information Distribution | RTG | leo.liubing@huawei.com | Continueing from IETF118 | TBD | TBD |
+|     |  |   |   |   |   |   |  |
 {.dense}
 
 
