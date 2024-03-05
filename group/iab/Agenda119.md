@@ -2,21 +2,13 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-03-05T17:14:35.293Z
+date: 2024-03-05T23:18:06.286Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
 ---
 
 # Proposed (not yet scheduled) topics
-
-* Review program description and processes (Mirja) (Sun)
-* IAB Vision Doc (Mallory/Mirja) - Tue
-* Executive Session: IAB Chair Selection - 20 mins (Sun)
-* https://wiki.ietf.org/group/iab/First_Meeting (Cindy) - 30 mins (Sun)
-* UFMRG Review (UFMRG Chairs) - 30 mins (Thu)
-* https://pulse.internetsociety.org/ (Ryan Polk) - 30 mins (Tue)
-* A lookback at IAB Workshops (Dhruv) (Sun?)
 
 
 # Agenda119
@@ -43,6 +35,21 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
+> Agenda:
+> 
+> 1. Executive Session: IAB Chair Selection
+> 2. Finalize IAB Roles (Cindy)
+> - Program leads and members
+> - Liaison Coordinators
+> - IAB Liaison to the IESG
+> - IAB Liaison to NomCom
+> - IAB Stream rep to RSAB
+> - IAB List Moderators 
+> - ARPA change control approver (2023-2024: Wes)
+> - Tools Team Liaison (2023-2024: Mallory)
+> - EODir Liaison (2023-2024: Chris)
+> - IAB Outreach Coordinator
+> 3. Review program description and processes (Mirja)
 
 ## Monday, 2024-03-18
 
@@ -57,6 +64,10 @@ Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1002
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1002
 
+> Agenda: 
+> 
+> 1. [Internet Society Pulse](https://pulse.internetsociety.org/) (ISOC) - 30 mins 
+> 2. IAB Vision Doc (Mallory/Mirja)
 
 ## Wednesday, 2024-03-20
 
@@ -68,6 +79,11 @@ Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1004
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1004
+
+> Agenda:
+> 
+> 1. UFMRG Review (UFMRG Chairs) - 30 mins
+> 2. A lookback at IAB Workshops (Dhruv) 
 
 
 ## Friday, 2024-03-22
