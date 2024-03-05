@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-05T09:58:10.150Z
+date: 2024-03-05T10:16:26.191Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -99,7 +99,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
-| 16:00-17:30    | P6-7 | LLM for networking  | OPS/SEC  | gaoyj@zgclab.edu.cn  |  TBD |  TBD | TBD |
+| 16:00-17:30    | P6-7 | LLM for networking  | OPS/SEC  | xiexiaohui@tsinghua.edu.cn gaoyj@zgclab.edu.cn  |  TBD |  TBD | TBD |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
