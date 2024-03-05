@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-05T02:43:55.830Z
+date: 2024-03-05T09:58:10.150Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -98,8 +98,8 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 9:30-11:00    | P6-7 | DDoS Collaborative Defense  | SEC  | gaoyj@zgclab.edu.cn  |  DDoS Hot Issues and Collaborative Mitigation Techniques Seminar |  TBD | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
+| 16:00-17:30    | P6-7 | LLM for networking  | OPS/SEC  | gaoyj@zgclab.edu.cn  |  TBD |  TBD | TBD |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
@@ -228,9 +228,9 @@ Location: Plaza Level
 | 08:00-08:30 |                   | **NOT AVAILABLE**  |   
 | 08:30-09:00 |                   | **NOT AVAILABLE**  |   
 | 09:00-09:30 |                   | **NOT AVAILABLE**  |   
-| 09:30-10:00 |                   | DDoS Collaborative Defense               |   
-| 10:00-10:30 |                   | DDoS Collaborative Defense               |   
-| 10:30-11:00 |                   | DDoS Collaborative Defense               |   
+| 09:30-10:00 |                   |               |   
+| 10:00-10:30 |                   |             |   
+| 10:30-11:00 |                   |              |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
@@ -241,9 +241,9 @@ Location: Plaza Level
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   | skex               |  
 | 15:30-16:00 |                   | skex               |   
-| 16:00-16:30 |                   |                    |   
-| 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
+| 16:00-16:30 |                   | LLM for networking                   |   
+| 16:30-17:00 |                   | LLM for networking                   |   
+| 17:00-17:30 |                   | LLM for networking                   |   
 | 17:30-18:00 |                   |                    |   
 | 18:00-18:30 |       6gip        |                    |   
 | 18:30-19:00 |                   | NASR               |   
