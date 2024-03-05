@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-03-05T15:27:15.696Z
+date: 2024-03-05T15:28:45.649Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -32,6 +32,7 @@ Previous versions of the Rolling Plan and the IETF work that fits into it:
 - [Rolling Plan 2021](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2021)
 - [Rolling Plan 2022](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2022)
 - [Rolling Plan 2023](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2023)
+- [Rolling Plan 2024](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2024)
 
 ### Draft Rolling Plan 2024
 The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2024 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
