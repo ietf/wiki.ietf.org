@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-06T15:34:33.441Z
+date: 2024-03-06T16:14:44.889Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -105,7 +105,7 @@ Please keep the tables sorted by meeting by time.
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | TBD   | TBD  |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-| 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
+| 18:30 - 20:00 | M9 | CCAMP WG: WDM Pluggable | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -120,8 +120,8 @@ Please keep the tables sorted by meeting by time.
 |14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
 | 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
 | 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
-| 17:30 - 19:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
 |18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
+| 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -249,9 +249,9 @@ Location: Plaza Level
 | 17:00-17:30 |                   | LLM for networking                   |   
 | 17:30-18:00 |                   | NMRG IBN use cases |   
 | 18:00-18:30 |       6gip        | NMRG IBN use cases |   
-| 18:30-19:00 | TNBI DT           | NASR               |   
-| 19:00-19:30 | TNBI DT           | NASR               |   
-| 19:30-20:00 | TNBI DT           | NASR               |   
+| 18:30-19:00 | CCAMP WG: WDM Pluggable | NASR               |   
+| 19:00-19:30 | CCAMP WG: WDM Pluggable | NASR               |   
+| 19:30-20:00 | CCAMP WG: WDM Pluggable | NASR               |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
@@ -279,11 +279,11 @@ Location: Plaza Level
 | 16:00-16:30 |                   | ICT for green multi-modal transportation |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |  HTTP              |   
-| 17:30-18:00 | TNBI DT           |  HTTP              |   
-| 18:00-18:30 | TNBI DT           |  HTTP              |   
-| 18:30-19:00 | TNBI DT           |  APN               |   
-| 19:00-19:30 |                   |  APN               |   
-| 19:30-20:00 |                   |  APN               |   
+| 17:30-18:00 |                   |  HTTP              |   
+| 18:00-18:30 |                   |  HTTP              |   
+| 18:30-19:00 | CCAMP WG: TNBI DT |  APN               |   
+| 19:00-19:30 | CCAMP WG: TNBI DT |  APN               |   
+| 19:30-20:00 | CCAMP WG: TNBI DT |  APN               |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
