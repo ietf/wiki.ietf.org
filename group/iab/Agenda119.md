@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-03-05T23:18:06.286Z
+date: 2024-03-06T16:53:49.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -50,6 +50,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > - EODir Liaison (2023-2024: Chris)
 > - IAB Outreach Coordinator
 > 3. Review program description and processes (Mirja)
+> 4. Finalize ISE appointment
+> 5. ISE request for review of draft-bichot-msync-15 (Mirja)
 
 ## Monday, 2024-03-18
 
