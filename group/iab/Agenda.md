@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-03-05T23:20:20.551Z
+date: 2024-03-06T17:44:16.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -14,11 +14,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * [WebEx Link](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
 * Meeting password: 1@Bmeet
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
-* As of November 2021, meetings are at 0700 Pacific time (UTC-7)
+* As of March 2024:
+    * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
+    * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-03-06 0700 PST (UTC-8) 
+## IAB Agenda: 2024-04-03 0700 PDT (UTC-7) 
 
-*Agenda as of 2024-03-05. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-03-06. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,17 +31,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-02-14 business meeting - (submitted 2024-02-15)
-* 2024-02-21 business meeting - (submitted 2024-02-21)
 * 2024-02-28 technical discussion and business meeting - (submitted 2024-02-28)
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
-* 2024-02-07: Mallory Knodel to send out a call for nominations for the 2024-2025 IAB Chair.
-
-* 2024-02-28: Cindy Morgan to send e-vote to finish the SEC AD confirmation.
 
 ##### On Hold:
 
@@ -56,6 +53,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
 
 * 2024-02-14: Eliot Lear to send a proposal to the IAB about how to have a conversation with the community about publishing crypto algorithms that are not widely reviewed.
+
+* 2024-03-06: Cindy Morgan to update the IAB calendar with upcoming meetings through March 2025.
+
+* 2024-03-06: Cindy Morgan to update the BOF coverage wiki for IETF 119.
+
+* 2024-03-06: Cindy Morgan, Mirja Kühlewind, and Sally Wentworth to coordinate on adding the IAB as a signer to the Global Encryption Coalition letter about Australia and announcing it to the community.
+
+* 2024-03-06: Mirja Kühlewind to request the previous reviews of draft-bichot-msync-15 from the ISE.
+
+* 2024-03-06: Cindy Morgan to start an e-vote on the ISE appointment.
+
 
 
 #### 1.5. IAB Document Status Update
@@ -92,45 +100,72 @@ IAB Reviewer: David Schinazi
 Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 
-### 2. IAB Meeting Time, Length, Cadence (Cindy) - 5 mins (Public)
+### 2. 
 
-  Goal: Confirm meeting day/time/cadence for 2024-2025
-  
-### 3. IAB Agenda at IETF 119 (Mirja) - 10 mins (Public)
+### 3. 
 
-  Goal: Discuss potential agenda topics for IETF 119
-
-
-### 4. IAB Open Agenda at IETF 119 (Mirja, Tommy) - 5 mins (Public)
-
-  Goal: Discuss agenda
-
-
-### 5. BOF Coverage for IETF 119 (Cindy) - 5 mins (Public)
-
-  Goal: Assign BOF Coverage
-
-  Wiki: https://wiki.ietf.org/group/iab/Bof119
-
-### 6. Co-signing Global Encryption Coalition letter about Australia
-
-  Goal: Next steps
-
-### 7. ISE request for review: draft-bichot-msync-15 (Mirja, All) - 10 mins (Public)
-
-
-### 8. Executive Session: ISE Appointment
-
-
-
-
-
+### 4. 
 
 ## Upcoming Teleconferences 
 
-* 2024-03-06: IAB Business Meeting
-
 -- 2024-03-16 - 2024-03-22: IETF 119 --
+
+* 2024-04-03: IAB Business Meeting
+* 2024-04-10: IAB Business Meeting (Reserved)
+* 2024-04-17: IAB Business Meeting
+* 2024-04-24: IAB Technical Discussion (Reserved)
+* 2024-05-01: IAB Business Meeting
+* 2024-05-08: IAB Business Meeting (Reserved)
+* 2024-05-15: IAB Business Meeting
+* 2024-05-22: IAB Technical Discussion (Reserved)
+* 2024-05-29: IAB Business Meeting
+* 2024-06-05: IAB Business Meeting (Reserved)
+* 2024-06-12: IAB Business Meeting
+* 2024-06-19: IAB Technical Discussion (Reserved)
+
+-- 2024-06-24 - 2024-06-26: IAB Retreat --
+
+* 2024-07-03: IAB Business Meeting (Reserved)
+* 2024-07-10: IAB Business Meeting
+
+-- 2024-07-20 - 2024-07-26: IETF 120 Vancouver --
+
+* 2024-08-07: IAB Business Meeting
+* 2024-08-14: IAB Business Meeting (Reserved)
+* 2024-08-21: IAB Business Meeting
+* 2024-08-28: IAB Technical Discussion (Reserved)
+* 2024-09-04: IAB Business Meeting
+* 2024-09-11: IAB Business Meeting (Reserved)
+* 2024-09-18: IAB Business Meeting
+* 2024-09-25: IAB Technical Discussion (Reserved)
+* 2024-10-02: IAB Business Meeting
+* 2024-10-09: IAB Business Meeting (Reserved)
+* 2024-10-16: IAB Business Meeting
+* 2024-10-23: IAB Technical Discussion (Reserved)
+
+-- 2024-11-02 - 2024-11-08: IETF 121 Dublin --
+
+*Note: Call time changes to 0700 PST after 2024-11-02*
+
+* 2024-11-20: IAB Business Meeting
+* 2024-11-27: IAB Business Meeting (Reserved)
+* 2024-12-04: IAB Business Meeting
+* 2024-12-11: IAB Technical Discussion (Reserved)
+* 2024-12-18: IAB Business Meeting
+
+-- 2024-12-25 - 2025-01-01: Winter Holiday Break --
+
+* 2025-01-08: IAB Business Meeting
+* 2025-01-15: IAB Business Meeting (Reserved)
+* 2025-01-22: IAB Business Meeting
+* 2024-01-29: IAB Technical Discussion (Reserved)
+* 2025-02-05: IAB Business Meeting
+* 2025-02-12: IAB Business Meeting (Reserved)
+* 2025-02-19: IAB Business Meeting
+* 2024-02-26: IAB Technical Discussion (Reserved)
+* 2025-03-05: IAB Business Meeting
+
+
 
 ## Future Unscheduled Topics 
 
