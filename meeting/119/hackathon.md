@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-06T01:44:00.557Z
+date: 2024-03-06T03:27:34.516Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -327,11 +327,12 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - Shibo Du <dsb20@mails.tsinghua.edu.cn>
   - Jialin Niu <njl@bupt.edu.cn>
 - **Project Info**
-
+	[RFC8612](https://datatracker.ietf.org/doc/rfc8612/) defines the DOTS (DDoS Open Threat Signaling) protocol for the collaborative response to DDoS attacks, which can be used between any devices to convey collaborative information such as mitigation requests and monitoring data. As DDoS attacks and mitigation technology have evolved, DOTS can no longer meet some of the needs for collaborative mitigation. It is necessary to extend the DOTS data model to improve the speed of collaborative response and optimize collaborative mitigation strategies. In this project, we extend the Yang Data Model for DOTS and develop a prototype system to support and evaluate the extensions.
+  </n>
+  Please refer to the RFC drafts listed below for more info about the extensions. Advice and comments are very welcome!
 - **Specifications**
   - [draft-cui-dots-extended-yang-01](https://datatracker.ietf.org/doc/draft-cui-dots-extended-yang/)
   - [draft-cui-anti-ddos-problem-statement-02](https://datatracker.ietf.org/doc/draft-cui-anti-ddos-problem-statement/)
-  - [RFC 8612](https://datatracker.ietf.org/doc/rfc8612/)
   
 ---
 
