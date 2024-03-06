@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-06T13:44:09.108Z
+date: 2024-03-06T18:53:35.112Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -233,21 +233,22 @@ https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
   
 ----
-### Generalized DNS Notifications
+### Rapid Automated Synchronization of DNS Delegation Data From Child to Parent
 - **Champions**
   - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
 - **Project Info**
 Add new functionality to a working open source nameserver implementation (written in Go) to
-provide fully automatic management of delegation information between child and parent zones.
+provide fully automatic management of delegation information between child zones (both
+DNSSEC-signed and unsigned) and parent zones.
 
     Detailed project suggestions: https://github.com/johanix/hackathon119/
     
 - **Specifications**
-  - draft-ietf-dnsop-generalized-notify-01
-  - draft-johani-dnsop-delegation-mgmt-via-ddns-02
+  - [draft-ietf-dnsop-generalized-notify](https://tools.ietf.org/html/draft-ietf-dnsop-generalized-notify)
+  - [draft-johani-dnsop-delegation-mgmt-via-ddns](https://tools.ietf.org/html/draft-johani-dnsop-delegation-mgmt-via-ddns)
   
 - **Repositories**
-  Github repo will be listed here shortly. I just need to clean up the code a bit.
+  Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
 ----
 ### SAV Open Playground
 - **Champions**
