@@ -2,7 +2,7 @@
 title: Agenda119
 description: IAB Agenda at IETF 119
 published: true
-date: 2024-03-06T16:53:49.844Z
+date: 2024-03-06T16:54:26.671Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T20:49:52.624Z
@@ -68,7 +68,7 @@ Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 
 > Agenda: 
 > 
-> 1. [Internet Society Pulse](https://pulse.internetsociety.org/) (ISOC) - 30 mins 
+> 1. [Internet Society Pulse](https://pulse.internetsociety.org/) (Olaf Kolkman, Aftab Siddiqi, Ryan Polk) - 30 mins 
 > 2. IAB Vision Doc (Mallory/Mirja)
 
 ## Wednesday, 2024-03-20
