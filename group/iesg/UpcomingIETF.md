@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-06T13:47:17.027Z
+date: 2024-03-06T15:19:19.597Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -22,6 +22,7 @@ Please add any topics for either IESG only meetings at IETF 119, or the joint me
 - IESG discussion on the viability of an IETF meeting in China (Lars) 
 - RFC 3535 and https://www.ietf.org/archive/id/draft-boucadair-nmop-rfc3535-20years-later-01.html (IAB+IESG) (Mahesh)
 - Reviewing WGs whose charters say they are an experiment, MOPS and PQUIP (Éric, Roman)
+- Choosing the IESG liaison (IAB, NOMCOM, Tools, EODIR, Comms, TDD) (IESG only)
 
 # IESG Activities
 *All times are in AEST (UTC +10).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
