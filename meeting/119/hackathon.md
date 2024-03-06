@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-06T05:59:39.256Z
+date: 2024-03-06T13:44:09.108Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -335,7 +335,19 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
 - **Specifications**
   - [draft-cui-dots-extended-yang-01](https://datatracker.ietf.org/doc/draft-cui-dots-extended-yang/)
   - [draft-cui-anti-ddos-problem-statement-02](https://datatracker.ietf.org/doc/draft-cui-anti-ddos-problem-statement/)
+
+
+### Multipath QUIC
+- **Champion(s)**
+  - Magnus Westerlund (magnus.westerlund@ericsson.com
+- **Project Info**
+  - Interop testing of the current draft of Multipath QUIC.
+  - https://github.com/quicwg/multipath/wiki/Implementation-Draft-Interop
+- **Specification**
+	- https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/
+  - https://github.com/quicwg/multipath/pull/292
   
+
 ---
 
 
