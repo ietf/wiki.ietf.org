@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-06T08:25:23.815Z
+date: 2024-03-06T11:33:01.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -75,7 +75,7 @@ Please keep the tables sorted by meeting by time.
 | 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
-|     |  |   |   |   |   |   |  |
+| 17:30 - 19:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -88,6 +88,7 @@ Please keep the tables sorted by meeting by time.
 | 9:00-10:00 | P6-7 | Power Metrics: concrete usage example | OPSA WG |  mpalmero@cisco.com <br/> jlindbla@cisco.com <br/> sureshk@cisco.com | Practical view on the YANG model approach | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC |  maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
+| 17:30 - 19:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -104,7 +105,7 @@ Please keep the tables sorted by meeting by time.
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | TBD   | TBD  |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-|     |  |   |   |   |   |   |  |
+| 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -119,8 +120,8 @@ Please keep the tables sorted by meeting by time.
 |14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
 | 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
 | 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
+| 17:30 - 19:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
 |18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
-|     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -160,7 +161,7 @@ Location: Plaza Level
 #### MONDAY 18 March {#room-monday}
 
 | **Time**    | **M9 (12 people)** | **P6-7 (40 people)** | 
-|-------|------------------|------------------| 
+|-------------|-------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 08:00-08:30 |                   | **NOT AVAILABLE**  |   
 | 08:30-09:00 |                   | **NOT AVAILABLE**  |   
@@ -181,9 +182,9 @@ Location: Plaza Level
 | 16:00-16:30 |                   |  UNS / UCA Update  |   
 | 16:30-17:00 |                   |  UNS / UCA Update  |   
 | 17:00-17:30 |                   |    AI4NET          |   
-| 17:30-18:00 |                   |    AI4NET          |   
-| 18:00-18:30 |                   |    AI4NET          |   
-| 18:30-19:00 |                   |    Non-routing     |   
+| 17:30-18:00 | IVY               |    AI4NET          |   
+| 18:00-18:30 | IVY               |    AI4NET          |   
+| 18:30-19:00 | IVY               |    Non-routing     |   
 | 19:00-19:30 |                   |    Non-routing     |   
 | 19:30-20:00 |                   |    Non-routing     |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
@@ -214,9 +215,9 @@ Location: Plaza Level
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   | Information Exposure for Edge Computing  | 
-| 17:30-18:00 |                   | Information Exposure for Edge Computing  | 
-| 18:00-18:30 |                   | Information Exposure for Edge Computing  |   
-| 18:30-19:00 |                   | Standalone Service ID in Routing Network |   
+| 17:30-18:00 | IVY               | Information Exposure for Edge Computing  | 
+| 18:00-18:30 | IVY               | Information Exposure for Edge Computing  |   
+| 18:30-19:00 | IVY               | Standalone Service ID in Routing Network |   
 | 19:00-19:30 |                   | Standalone Service ID in Routing Network |   
 | 19:30-20:00 |                   | Standalone Service ID in Routing Network |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
@@ -248,9 +249,9 @@ Location: Plaza Level
 | 17:00-17:30 |                   | LLM for networking                   |   
 | 17:30-18:00 |                   | NMRG IBN use cases |   
 | 18:00-18:30 |       6gip        | NMRG IBN use cases |   
-| 18:30-19:00 |                   | NASR               |   
-| 19:00-19:30 |                   | NASR               |   
-| 19:30-20:00 |                   | NASR               |   
+| 18:30-19:00 | TNBI DT           | NASR               |   
+| 19:00-19:30 | TNBI DT           | NASR               |   
+| 19:30-20:00 | TNBI DT           | NASR               |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
@@ -278,9 +279,9 @@ Location: Plaza Level
 | 16:00-16:30 |                   | ICT for green multi-modal transportation |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |  HTTP              |   
-| 17:30-18:00 |                   |  HTTP              |   
-| 18:00-18:30 |                   |  HTTP              |   
-| 18:30-19:00 |                   |  APN               |   
+| 17:30-18:00 | TNBI DT           |  HTTP              |   
+| 18:00-18:30 | TNBI DT           |  HTTP              |   
+| 18:30-19:00 | TNBI DT           |  APN               |   
 | 19:00-19:30 |                   |  APN               |   
 | 19:30-20:00 |                   |  APN               |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
