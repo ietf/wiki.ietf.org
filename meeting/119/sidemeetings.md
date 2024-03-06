@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-06T16:42:53.899Z
+date: 2024-03-06T17:11:07.157Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -75,7 +75,7 @@ Please keep the tables sorted by meeting by time.
 | 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
-| 18:30 - 20:00 | M9 | IVY WG: Terminology | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
+| 18:30 - 20:00 | M9 | IVY WG: Terminology | OPS | italo.busi@huawei.com | Discuss Terminology issues with network inventory and refine the scope of the IVY WG work |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -105,7 +105,7 @@ Please keep the tables sorted by meeting by time.
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | TBD   | TBD  |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | TBD | TBD |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-| 18:30 - 20:00 | M9 | CCAMP WG: WDM Pluggable | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
+| 18:30 - 20:00 | M9 | CCAMP WG: WDM Pluggable | RTG | italo.busi@huawei.com | Discuss Use Cases and Gap Analysis for WDM pluggable interfaces |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
