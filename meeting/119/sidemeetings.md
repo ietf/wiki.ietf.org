@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-06T13:28:15.909Z
+date: 2024-03-06T15:23:26.521Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -75,7 +75,7 @@ Please keep the tables sorted by meeting by time.
 | 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
-| 17:30 - 19:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
+| 18:30 - 20:00 | M9 | IVY WG: Terminology | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -182,11 +182,11 @@ Location: Plaza Level
 | 16:00-16:30 |                   |  UNS / UCA Update  |   
 | 16:30-17:00 |                   |  UNS / UCA Update  |   
 | 17:00-17:30 |                   |    AI4NET          |   
-| 17:30-18:00 | IVY               |    AI4NET          |   
-| 18:00-18:30 | IVY               |    AI4NET          |   
-| 18:30-19:00 | IVY               |    Non-routing     |   
-| 19:00-19:30 |                   |    Non-routing     |   
-| 19:30-20:00 |                   |    Non-routing     |   
+| 17:30-18:00 |                   |    AI4NET          |   
+| 18:00-18:30 |                   |    AI4NET          |   
+| 18:30-19:00 | IVY WG: Terminology |    Non-routing     |   
+| 19:00-19:30 | IVY WG: Terminology |    Non-routing     |   
+| 19:30-20:00 | IVY WG: Terminology |    Non-routing     |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
