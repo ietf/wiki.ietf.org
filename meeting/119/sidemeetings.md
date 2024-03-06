@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-06T15:23:26.521Z
+date: 2024-03-06T15:34:33.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -88,7 +88,7 @@ Please keep the tables sorted by meeting by time.
 | 9:00-10:00 | P6-7 | Power Metrics: concrete usage example | OPSA WG |  mpalmero@cisco.com <br/> jlindbla@cisco.com <br/> sureshk@cisco.com | Practical view on the YANG model approach | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC |  maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
-| 17:30 - 19:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
+| 18:30 - 20:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -215,11 +215,11 @@ Location: Plaza Level
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   | Information Exposure for Edge Computing  | 
-| 17:30-18:00 | IVY               | Information Exposure for Edge Computing  | 
-| 18:00-18:30 | IVY               | Information Exposure for Edge Computing  |   
-| 18:30-19:00 | IVY               | Standalone Service ID in Routing Network |   
-| 19:00-19:30 |                   | Standalone Service ID in Routing Network |   
-| 19:30-20:00 |                   | Standalone Service ID in Routing Network |   
+| 17:30-18:00 |                   | Information Exposure for Edge Computing  | 
+| 18:00-18:30 |                   | Information Exposure for Edge Computing  |   
+| 18:30-19:00 | IVY WG: BBF LS    | Standalone Service ID in Routing Network |   
+| 19:00-19:30 | IVY WG: BBF LS    | Standalone Service ID in Routing Network |   
+| 19:30-20:00 | IVY WG: BBF LS    | Standalone Service ID in Routing Network |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
