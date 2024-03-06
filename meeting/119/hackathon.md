@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-03T16:12:34.997Z
+date: 2024-03-06T01:44:00.557Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -320,6 +320,20 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all other topics related to DELEG for the upcoming BOF
 
 --- 
+### Extended YANG Data Model for DOTS
+- **Champions**
+	- Xiaohui Xie <xiexiaohui@tsinghua.edu.cn>
+  - Linzhe Li <lilz@zgclab.edu.cn>
+  - Shibo Du <dsb20@mails.tsinghua.edu.cn>
+  - Jialin Niu <njl@bupt.edu.cn>
+- **Project Info**
+
+- **Specifications**
+  - [draft-cui-dots-extended-yang-01](https://datatracker.ietf.org/doc/draft-cui-dots-extended-yang/)
+  - [draft-cui-anti-ddos-problem-statement-02](https://datatracker.ietf.org/doc/draft-cui-anti-ddos-problem-statement/)
+  - [RFC 8612](https://datatracker.ietf.org/doc/rfc8612/)
+  
+---
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
