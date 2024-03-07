@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-07T18:18:13.534Z
+date: 2024-03-07T18:19:54.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -59,7 +59,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Not done | Jeffrey Zhang 2023-08-09 (has issues) -09 posted |  | Tarek |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | Pending Requirements I-D. Updated after chair review of -05 by Adrian | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Joel Halpern 2024-01-09 (not ready). -03 posted | Needs discussion at IETF-119 | Adrian |
-| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review due 2024-02-15 | | Tarek |  
+| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review done. -10 addresses issues | | Tarek |  
 
 ## In Working Group Last Call
 
