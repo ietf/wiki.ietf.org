@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-07T01:52:04.144Z
+date: 2024-03-07T02:04:14.334Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -350,6 +350,22 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - https://github.com/quicwg/multipath/pull/292
   
 
+### Hardware Evaluation of Multicast Source Routing over IPv6 on Experimental network
+- **Champion(s)**
+  - Weihong Wu (wuweihong@bupt.edu.cn)
+  - Yuxin Jiang (jyxin@bupt.edu.cn)
+  - Yutong Zhao(zhaoyutong@bupt.edu.cn)
+  - Yunyi Tang (tangyunyi0708@bupt.edu.cn)
+  - Jiang Liu (liujiang@bupt.edu.cn)
+  - Pei Anbang(anbangpei@bupt.edu.cn)
+
+- **Project Info**
+  - Implement MSR6 TE and MSR6 TE with RLB on a testbed with 5 hardware P4 switches on CENI(China Environment for Network Innovations)
+  - Comprehensively analyze the hardware performance of MSR6 TE and MSR6 TE with RLB from the perspectives of Hardware Resource Usage, Delay, and Stability.
+- **Specification**
+	- https://datatracker.ietf.org/doc/draft-geng-msr6-traffic-engineering/02
+  - https://datatracker.ietf.org/doc/draft-geng-msr6-rlb-segment/01
+  - https://datatracker.ietf.org/doc/draft-chen-pim-srv6-p2mp-path/
 ---
 
 
