@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-07T02:05:17.548Z
+date: 2024-03-07T06:50:56.773Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -367,6 +367,26 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - https://datatracker.ietf.org/doc/draft-geng-msr6-rlb-segment/01
   - https://datatracker.ietf.org/doc/draft-chen-pim-srv6-p2mp-path/
 ---
+
+### NASR: Network Attestation for Secure Routing
+- **Champions**
+  - Peter Chunchi Liu <liuchunchi@huawei.com>
+  - Meiling Chen <chenmeiling@chinamobile.com>
+  - Diego Lopez <diego.r.lopez@telefonica.com>
+  - Michael Richardson <mcr+ietf@sandelman.ca>
+  - Luigi Iannone <luigi.iannone@huawei.com>
+- **Project Info**
+  - <https://ilnp.cs.st-andrews.ac.uk>
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
+- **Mailing List**
+	- <https://www.ietf.org/mailman/listinfo/nasr>
+- **Specifications**
+  - Path Validation Problem Statement: [draft-liu-path-validation-problem-statement-00](https://datatracker.ietf.org/doc/draft-liu-path-validation-problem-statement/)
+  - NASR Use Cases and Requirements: [draft-liu-nasr-requirements-01](https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/)
+  - NASR Terminology: [draft-richardson-nasr-terminology-00](https://datatracker.ietf.org/doc/draft-richardson-nasr-terminology/)
+  - Vector Commitment-based Proof-of-Transit: [draft-liu-vcpot-00](https://datatracker.ietf.org/doc/draft-liu-vcpot/)
+--- 
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
