@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-07T18:52:15.369Z
+date: 2024-03-07T18:55:30.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -26,7 +26,12 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
-| 2024-01-17 | [draft-xp-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-xp-mpls-spring-lsp-ping-path-sid/) | Complete | Ongoing - Ending 2024-03-12 | MPLS-RT reviews commissioned. 2024-01-25 Loa has nits. -09 addresses nits. Authors confirm all issues addressed | Tarek |
+
+## In Adoption Poll
+
+| Draft | Adoption Poll end date | Remarks | Responsible Chair |
+| --- | --- | --- | --- |
+| [draft-xp-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-xp-mpls-spring-lsp-ping-path-sid/) | 2024-03-12 |  | Tarek |
 
 ## Adoption Poll Complete But Pending Author Action
 
