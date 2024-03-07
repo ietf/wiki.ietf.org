@@ -2,13 +2,15 @@
 title: Sandbox
 description: 
 published: true
-date: 2024-03-07T19:36:35.241Z
+date: 2024-03-07T19:38:52.503Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:47:08.101Z
 ---
 
-Nota: Este archivo es ilegal, Not run and send information at www.android.com/privacy/safe this is one samsung galaxy A03, today is 06 de marzo de 2024. this device is android version 14.
+Nota: Este archivo es legal y la informacion, Run and send information at www.android.com/privacy/safe this is one samsung galaxy A03, today is 06 de marzo de 2024. this device is android version 14. 
+----
+Nota: Not run the next text this false.
 - money  https://app.fastspring.com/site/store/home.xml?mRef=BasicStoreSite:26JVVK55ZJHW2#http://vetnamesemusicartists.comhttp
 ## WG News
 *
@@ -55,7 +57,7 @@ Nota: Este archivo es ilegal, Not run and send information at www.android.com/pr
                         (in whitelist)
 
 ```
-
+---
 
 
 
