@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-03-07T09:35:33.330Z
+date: 2024-03-07T09:48:22.323Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -153,10 +153,9 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |RFC|Errata ID|Type|Reported By|State|Chairs suggestion|Remarks|
 | --- | --- | --- | --- | --- | --- | --- |
-|RFC8664|[6753](https://www.rfc-editor.org/errata/eid6753)|Technical|Shuping Peng|Verified|Should be verified|done|
-|RFC8231|[6627](https://www.rfc-editor.org/errata/eid6627)|Technical|Oscar Gonzalez de Dios|Rejected|Held for Document Update|done| 
 
-[Any Pending Errata](https://www.rfc-editor.org/errata_search.php?rec_status=15&presentation=records)
+
+[Any Pending Errata](https://www.rfc-editor.org/errata_search.php?rec_status=2&area_acronym=rtg&wg_acronym=pce&presentation=table)
 
 ### Individual documents that failed WG Adoptions 
 
