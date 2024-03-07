@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-03-06T17:50:22.121Z
+date: 2024-03-07T18:35:09.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -91,13 +91,6 @@ Area: ART
 Internal Review
 IESG Telechat: (None)
 IAB Reviewer: Qin Wu
-
-- **Workload Identity in Multi System Environments (wimse)**
-Area: ART
-External Review
-IESG Telechat: 2024-03-07
-IAB Reviewer: David Schinazi
-Review: https://mailarchive.ietf.org/arch/msg/wimse/rGKcZXJ5eaAlx9in41LF_H2aEgI/
 
 
 ### 2. 
