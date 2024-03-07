@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-02-29T15:15:20.422Z
+date: 2024-03-07T16:44:48.991Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -53,6 +53,7 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 #### IESG Parking Lot of Topics
 
 * Consistent IESG understanding/application of errata processing states
+* BCP14 language in documents status other than PS/S
 
 ### RSVP
 
