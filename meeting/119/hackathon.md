@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-07T06:50:56.773Z
+date: 2024-03-07T06:51:36.815Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -386,6 +386,8 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - NASR Use Cases and Requirements: [draft-liu-nasr-requirements-01](https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/)
   - NASR Terminology: [draft-richardson-nasr-terminology-00](https://datatracker.ietf.org/doc/draft-richardson-nasr-terminology/)
   - Vector Commitment-based Proof-of-Transit: [draft-liu-vcpot-00](https://datatracker.ietf.org/doc/draft-liu-vcpot/)
+- **Side Meeting Materials**
+	- https://github.com/liuchunchi/nasr_side_meeting
 --- 
 
 
