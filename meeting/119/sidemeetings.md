@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-07T07:41:45.304Z
+date: 2024-03-07T15:22:59.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -85,7 +85,6 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 9:00-10:00 | P6-7 | Power Metrics: concrete usage example | OPSA WG |  mpalmero@cisco.com <br/> jlindbla@cisco.com <br/> sureshk@cisco.com | Practical view on the YANG model approach | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC |  maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 18:30 - 20:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
@@ -115,6 +114,7 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
 | 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com | Enterprise network scenarios/deployment/problems discussion | TBD | TBD |
+| 9:00-10:00 | M9 | Power Metrics: concrete usage example | OPSA WG |  mpalmero@cisco.com <br/> jlindbla@cisco.com <br/> sureshk@cisco.com | Practical view on the YANG model approach | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 9:30-11:00 | P6-7 | IPv6 operations for enterprises | Ops | xipengxiao@gmail.com | IPv6 deployment cases in enterprise networks | TBD | TBD |
 |14:00-15:00 |M9  | Peering API | BGP | ramseyer@meta.com  | Discuss Peering API Draft  | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
