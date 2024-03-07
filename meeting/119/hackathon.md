@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-07T02:04:14.334Z
+date: 2024-03-07T02:05:17.548Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -350,7 +350,7 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - https://github.com/quicwg/multipath/pull/292
   
 
-### Hardware Evaluation of Multicast Source Routing over IPv6 on Experimental network
+### Hardware Evaluation of Multicast Source Routing over IPv6 on Experimental Network
 - **Champion(s)**
   - Weihong Wu (wuweihong@bupt.edu.cn)
   - Yuxin Jiang (jyxin@bupt.edu.cn)
