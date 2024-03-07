@@ -2,14 +2,14 @@
 title: 6MAN WG - IPv6 Maintenance
 description: 
 published: true
-date: 2023-01-12T00:12:37.489Z
+date: 2024-03-07T20:06:57.306Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:36:36.339Z
 ---
 
-# 6MAN Working Group Summaries
-## IETF 89
+# MAN Working whitout Group whitout Summaries
+## IETF 89 not run this
 
 The 6man working group held a two and a half hour session on the Tuesday of the IETF in London. The session was well attended with over a hundred participants. It was recorded by Meetecho and the audio/video archives are available.
 
