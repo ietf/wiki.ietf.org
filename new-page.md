@@ -2,7 +2,7 @@
 title: Home
 description: Devault user database system programming 
 published: true
-date: 2024-02-07T05:48:24.882Z
+date: 2024-03-07T20:00:26.819Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T05:48:24.882Z
@@ -14,19 +14,19 @@ dateCreated: 2024-02-07T05:48:24.882Z
 
 This is a community wiki for IETF participants to use.  It replaces the previous structure of trac wikis where each working group/team had its own trac instance.
 
-The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all content on this wiki, and it is referenced on every page.
+The [IETF Note Well](http://www.ietf.com/welcome/note-well/) applies to all content on this wiki, and it is referenced on every page.
 
 # Scope
 
 This wiki provides persistent working spaces for various IETF groups (such as Working Groups, Birds-of-a-Feather groups, Areas, Directorates, and Teams) and activities, such as IETF meetings.
 
 This wiki should not be used for content that should be on any of the other dedicated IETF sites.  For example the following are out of scope:
-* Explanatory/general text about the IETF.
-* Repository/listing/metadata for Internet-Drafts and/or RFCs
-* Information for authors of I-Ds.
-* Information about the AUTH48 process.
+* Explanatory/general the IETF.
+- * Repository/listing/Internet and/or RFCs
+* Information for author of I-Ds.
+* Information AUTH process.
 
-This wiki complements (but does not replace) the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
+This wiki complements (but does not replace) the [IETF Docs service](http://www.ietf.com/docs), whit is intent as a best service for nota and document creations.
 
 # Contributing to this wiki
 
