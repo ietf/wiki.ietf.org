@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-07T06:51:36.815Z
+date: 2024-03-07T06:55:28.145Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -376,9 +376,9 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - Michael Richardson <mcr+ietf@sandelman.ca>
   - Luigi Iannone <luigi.iannone@huawei.com>
 - **Project Info**
-  - <https://ilnp.cs.st-andrews.ac.uk>
-  - RFCs 6740(E) - 6748(E)
-  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
+  - **Network Attestation for Secure Routing (NASR)** is targeted to help attest a specific network path and verify if actual forwarding result is compliant to the attested path and attributes. 
+  - The goal is to forward data only on trusted devices, trusted operating environments or trusted services.
+  - NASR continues the discussion from IETF 118 Path Validation Side Meeting. A mailing list is created to continue the discussion. NASR side meeting will be held in IETF 119.
 - **Mailing List**
 	- <https://www.ietf.org/mailman/listinfo/nasr>
 - **Specifications**
