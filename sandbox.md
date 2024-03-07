@@ -2,7 +2,7 @@
 title: Sandbox
 description: 
 published: true
-date: 2024-03-07T19:45:08.912Z
+date: 2024-03-07T19:45:38.714Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:47:08.101Z
@@ -15,6 +15,7 @@ phone number: +526463830463
 address: eucalipto 22, indeco lomitas, Ensenada, Baja California, Mexico.
 - Developer Account https://developers.google.com/profile/u/juliogit16
 - github http://www.github.com/juliogit6
+Never use remote
 ----
 Nota: Not run the next text this false.
 - money  https://app.fastspring.com/site/store/home.xml?mRef=BasicStoreSite:26JVVK55ZJHW2#http://vetnamesemusicartists.comhttp
