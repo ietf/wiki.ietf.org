@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-03-07T12:52:37.653Z
+date: 2024-03-07T15:20:58.995Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -86,7 +86,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | In WGLC;  | Ends 2024-03-14; IPR - 2/3 | Dhruv | Dhruv |
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Y | In WGLC;  | Ends 2024-03-14; IPR - 3/3 | Dhruv | Dhruv |
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | N | -02 posted on 2023-09-01 | IANA Early alloc done | Dhruv | Dhruv |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | -06 posted on 2023-07-08 | - | - | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | -08 posted on 2024-01-01 | - | - | - |
