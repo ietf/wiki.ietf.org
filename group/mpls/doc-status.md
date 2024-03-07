@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-07T18:19:54.519Z
+date: 2024-03-07T18:26:01.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -65,7 +65,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
-| [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | 2024-02-20 | 2024-03-05 | Yes | Tarek |
 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek |
 
 ## Working Group Last Call Completed Pending Author Action
@@ -76,6 +75,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 |---|---|---|---|
 | 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 and -09 with significant updates after review. -10 posted for further comments. -11 addresses final comments. Ready for 2nd WGLC | Adrian |
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
+| 2024-03-05 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Discussion and updates for last call comments completed | Tarek |
 
 ## Post Working Group Last Call
 
