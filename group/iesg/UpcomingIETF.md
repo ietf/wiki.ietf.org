@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-07T13:11:33.619Z
+date: 2024-03-07T16:24:00.393Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,15 +16,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 119, or the joint meetings with the IAB.
 
-- Update on outreach activities and planning - Dhruv (IAB+IESG)
-- Should IANA YANG Modules be published in RFCs or elided at publication time. Rob (Needs IANA to be present + IESG + maybe IAB)
-- The new ADs could use a primer on how to deal with IPRs (Mahesh)
-- IESG discussion on the viability of an IETF meeting in China (Lars) 
-- RFC 3535 and https://www.ietf.org/archive/id/draft-boucadair-nmop-rfc3535-20years-later-01.html (IAB+IESG) (Mahesh)
-- Reviewing WGs whose charters say they are an experiment, MOPS and PQUIP (Éric, Roman)
-- Choosing the IESG liaison (IAB, NOMCOM, Tools, EODIR, Comms, TDD) (IESG only)
-- Choosing iesg list admins (IESG only)
-- AD balloting expectations (Lars/Roman)
+- The new ADs could use a primer on how to deal with IPRs (Mahesh) -> Informal or Retreat
 
 # IESG Activities
 *All times are in AEST (UTC +10).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -67,7 +59,13 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
-
+- Choosing the IESG liaisons (IAB, NOMCOM, Tools, EODIR, Comms, TDD, RSAB, LLC) (IESG only, 30 min)
+- Choosing iesg list admins (IESG only, 5 min)
+- Reviewing WGs whose charters say they are an experiment, MOPS and PQUIP (Éric, Roman, 15 min)
+- AD balloting expectations (Lars/Roman, 15 min)
+- IESG discussion on the viability of an IETF meeting in China (Lars, 30 min)
+- Should IANA YANG Modules be published in RFCs or elided at publication time. Rob (Needs IANA to be present + IESG + maybe IAB, 10 min)
+- Flextime (20 min)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: P6-7
 
@@ -75,18 +73,23 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
-    > 1. Welcome and introductions
-    > 1. Area walkthrough for hot topics (list randomized for 119)
-    > - GEN
-    > - RTG
-    > - IAB
-    > - IRTF
-    > - ART
-    > - OPS
-    > - INT
-    > - SEC
-    > - TSV
-    > - WIT
+    > 1. Welcome and introductions (5 min)
+    > 1. Area walkthrough for hot topics (list randomized for 119, 45 min)
+    >    - GEN
+    >    - RTG
+    >    - IAB
+    >    - IRTF
+    >    - ART
+    >    - OPS
+    >    - INT
+    >    - SEC
+    >    - TSV
+    >    - WIT
+	> 1. Update on ISOC Policy Program (5 min)
+  > 1. Update RPC and IANA (5 min)
+  > 1. Update on outreach activities and planning - Dhruv (IAB+IESG, 10 min)
+  > 1. RFC 3535 and https://www.ietf.org/archive/id/draft-boucadair-nmop-rfc3535-20years-later-01.html (IAB+IESG) (Mahesh, 10)
+  > 1. Flextime (10)
 
 ### IAB Meeting - 14:00-16:00 Room: P6-7
 
@@ -108,7 +111,8 @@ No IESG breakfast. IAB has a breakfast meeting.
 * Meetecho:  https://meetings.conf.meetecho.com/ietf119/?session=1003
 * Onsite Tool:  https://meetings.conf.meetecho.com/onsite119/?session=1003
 
-
+> 1. ALLDISPATCH Post Mortem (30 min)
+> 1. Plenary Prep
 
 ### IETF 119 Plenary TIME: 17:00-19:00 Room: Plaza Terrace Room
 
