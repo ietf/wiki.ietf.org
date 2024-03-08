@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-08T18:16:12.986Z
+date: 2024-03-08T23:17:29.232Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -99,6 +99,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+| 08:30-09:30 | M9 | QUIC on streams | WIT | lucas@lucaspardue.com | https://datatracker.ietf.org/doc/html/draft-kazuho-quic-quic-on-streams | TBD | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 16:00-17:30    | P6-7 | Large Language Model(LLM) for Networking  | OPS/SEC  | xiexiaohui@tsinghua.edu.cn gaoyj@zgclab.edu.cn  |  Disscussion on the potential of LLMs in the networking domain |  https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | TBD   | TBD  |
@@ -229,8 +230,8 @@ Location: Plaza Level
 |-------|------------------|------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 08:00-08:30 |                   | **NOT AVAILABLE**  |   
-| 08:30-09:00 |                   | **NOT AVAILABLE**  |   
-| 09:00-09:30 |                   | **NOT AVAILABLE**  |   
+| 08:30-09:00 | QUIC on streams   | **NOT AVAILABLE**  |   
+| 09:00-09:30 | QUIC on streams   | **NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |               |   
 | 10:00-10:30 |                   |             |   
 | 10:30-11:00 |                   |              |   
