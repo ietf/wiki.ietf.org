@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-07T06:55:28.145Z
+date: 2024-03-08T16:23:52.285Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -390,6 +390,17 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
 	- https://github.com/liuchunchi/nasr_side_meeting
 --- 
 
+### EAP-FIDO (or whatever it will be called at the end)
+- **Champions**
+	- Janfred Rieckers <rieckers@dfn.de>
+- **Project Info**
+  - EAP-FIDO is a new EAP method that leverages FIDO keys to facilitate an EAP login, primarily intended for WLAN logins
+  - Aim for the hackathon is to implement a proof-of-concept code against the current draft version
+  - Earlier Proof-of-Concept code (not compatible with current spec) is available [here](https://git.rieckers.it/rieckers/hostap/-/tree/eap_fido), this PoC code was presented at the Mobility Day at tnc23 in Tirana, Albania.
+- **Specifications**
+  - Current EAP-FIDO draft: [draft-janfred-eap-fido-02](https://datatracker.ietf.org/doc/draft-janfred-eap-fido)
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
