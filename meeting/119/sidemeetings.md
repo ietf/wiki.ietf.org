@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-07T15:22:59.395Z
+date: 2024-03-08T17:45:55.611Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -166,8 +166,8 @@ Location: Plaza Level
 | 08:00-08:30 |                   | **NOT AVAILABLE**  |   
 | 08:30-09:00 |                   | **NOT AVAILABLE**  |   
 | 09:00-09:30 |                   | **NOT AVAILABLE**  |   
-| 09:30-10:00 |                   |                    |   
-| 10:00-10:30 |                   |                    |   
+| 09:30-10:00 |                   |**NOT AVAILABLE**          |   
+| 10:00-10:30 |                   |     **NOT AVAILABLE**               |   
 | 10:30-11:00 |                   |                    |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
