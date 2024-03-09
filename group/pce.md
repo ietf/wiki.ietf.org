@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-03-07T15:32:54.032Z
+date: 2024-03-09T13:29:13.364Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -100,7 +100,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Waiting for write-up and Shepherd review. RtgDir early review done, pending response to question | IPR-5/5 | Dhruv | 
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Shepherd review and RtgDir early review done, pending response to question | IPR-5/5 | Dhruv | 
 
 
 ## Drafts with the IESG
