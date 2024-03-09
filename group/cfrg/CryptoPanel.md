@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2024-03-09T08:01:05.246Z
+date: 2024-03-09T08:03:57.535Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -33,21 +33,19 @@ The CFRG chairs will make appointments to the Review Panel.  The panel will be c
 Reviewers will be appointed to the panel for a period of 2 years, renewable. The CFRG chairs will endeavour to ensure that the Review Panel has a balanced composition covering the main technical areas of relevance to CFRG. Individuals may self-nominate or nominate others for panel membership.
 Being a panel member represents a commitment to review documents in a timely and thorough fashion; reviewers' panel membership will be rescinded at the discretion of the CFRG chairs.
 
-## Crypto Review Panel members (January 2022 - February 2024)
+## Crypto Review Panel members (March 2024 - February 2026)
 
 | Name | Affiliation |
 | ---- | ----------- |
+| Stephen Farrell | |
 | Scott Fluhrer | Cisco |
 | Russ Housley | Vigil Security |
-| Bjoern Tackmann | DFINITY Foundation |
 | Chloe Martindale | University of Bristol |
 | Julia Hesse | IBM Research |
 | Karthikeyan Bhargavan | |
 | Thomas Pornin | NCC Group |
-| Jean-Philippe Aumasson | Teserakt |
 | Jon Callas | |
 | Virendra Kumar | Qualcomm Technologies |
-| Ludovic Perret | CryptoNext Security, Sorbonne University|
 
 ## Reviews done by the panel
 
@@ -122,6 +120,22 @@ Being a panel member represents a commitment to review documents in a timely and
 ##  Reviews done for the PAKE selection process
 
 <https://github.com/cfrg/pake-selection>
+
+## Crypto Review Panel members (January 2022 - February 2024)
+
+| Name | Affiliation |
+| ---- | ----------- |
+| Scott Fluhrer | Cisco |
+| Russ Housley | Vigil Security |
+| Bjoern Tackmann | DFINITY Foundation |
+| Chloe Martindale | University of Bristol |
+| Julia Hesse | IBM Research |
+| Karthikeyan Bhargavan | |
+| Thomas Pornin | NCC Group |
+| Jean-Philippe Aumasson | Teserakt |
+| Jon Callas | |
+| Virendra Kumar | Qualcomm Technologies |
+| Ludovic Perret | CryptoNext Security, Sorbonne University|
 
 ##  Crypto Review Panel members (January 2020 - December 2021)
 
