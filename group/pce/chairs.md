@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-02-24T04:08:17.341Z
+date: 2024-03-09T13:24:56.560Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,7 +21,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 |WGLC|draft-ietf-pce-stateful-pce-optional|Dhruv|-|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
-|Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
@@ -36,6 +35,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to handle comments|
 |IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|-|
 |Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
 |IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
