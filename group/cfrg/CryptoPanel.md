@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2024-01-12T06:30:09.165Z
+date: 2024-03-09T08:01:05.246Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -115,6 +115,8 @@ Being a panel member represents a commitment to review documents in a timely and
 | Ludovic Perret | draft-josefsson-ntruprime-ssh-02 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/kDiLLcVOhwoix5BUDdv4r91ZhfY/> | 04 Dec 2023 |
 | Thomas Pornin | draft-fluhrer-lms-more-parm-sets-11 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/Q1er_6NPBS8qe5j5xRp_LERKydg/> | 19 Dec 2023 |
 | Bjoern Tackmann | draft-irtf-cfrg-cpace-10 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/lW4UfA5ICPeI7BNwIiokRvblNgE/> | 07 Jan 2024 |
+| Karthikeyan Bhargavan | draft-irtf-cfrg-cpace-10 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/0V7ZhCd7IUFxinCJpxVukq05jVM/> | 04 Feb 2024 |
+| Russ Housley | draft-irtf-cfrg-aead-properties-03 | <https://mailarchive.ietf.org/arch/msg/crypto-panel/aNQc4kc0DFlSPy_ohUttM4QEVXc/> | 12 Feb 2024 |
 {.dense}
 
 ##  Reviews done for the PAKE selection process
