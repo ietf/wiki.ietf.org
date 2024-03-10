@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-08T16:23:52.285Z
+date: 2024-03-10T22:56:05.721Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -399,6 +399,17 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - Earlier Proof-of-Concept code (not compatible with current spec) is available [here](https://git.rieckers.it/rieckers/hostap/-/tree/eap_fido), this PoC code was presented at the Mobility Day at tnc23 in Tirana, Albania.
 - **Specifications**
   - Current EAP-FIDO draft: [draft-janfred-eap-fido-02](https://datatracker.ietf.org/doc/draft-janfred-eap-fido)
+
+---
+
+### RPKI ASPA rpki-rtr support
+- **Champions**
+	- Tom Harrison <tomh@apnic.net>
+  - Zen Chai <zchai@apnic.net>
+- **Project Info**
+  - Proof of concept updates for draft-ietf-sidrops-8210bis.
+- **Specifications**
+  - [draft-ietf-sidrops-8210bis](https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/)
 
 ---
 
