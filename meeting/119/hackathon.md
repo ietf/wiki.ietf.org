@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-11T00:26:44.790Z
+date: 2024-03-11T01:47:10.228Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -214,6 +214,33 @@ Demonstrate how the additional list improve the performance of two use cases.
 
 - **Repository**
 https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
+----
+
+### Validate Configured Subscription YANG-Push Publisher Implementations
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/draft-ahuang-netconf-notif-yang
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-yang-push-observation-time
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-yang-kafka-integration
+
+- **Project Info**
+Validate two YANG-Push configured subscription vendor implementations in terms of configuring periodical and on-change subscription and validating subscription state change and push-update and push-change-update notifications according to RFC 8639 and 8641. 
+
+Validate draft-ietf-netconf-udp-notif and draft-ietf-netconf-distributed-notif packet format on the wire.
+
+Validate first YANG-Push extensions enabling Apache Kafka integration accoring to draft-netana-nmop-yang-kafka-integration.
+
+- **Repository**
+TBD
 ----
 
 ### BMWG - YANG model for management of Network Tester
