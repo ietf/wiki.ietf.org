@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-07T18:55:30.851Z
+date: 2024-03-11T15:27:31.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -62,8 +62,8 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Not done | Jeffrey Zhang 2023-08-09 (has issues) -09 posted |  | Tarek |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | Pending Requirements I-D. Updated after chair review of -05 by Adrian | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Joel Halpern 2024-01-09 (not ready). -03 posted | Needs discussion at IETF-119 | Adrian |
-| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review done. -10 addresses issues | | Tarek |
-| 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Pending | Joel Halpern -06, ready |  | Nic |
+| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review done. -10 addresses issues | Discussion planned at IETF-119 about use of MNA | Tarek |
+| 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready |  | Nic |
 
 ## In Working Group Last Call
 
@@ -71,7 +71,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 |---|---|---|---|---|
 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek |
 
-## Working Group Last Call Completed Pending Author Action
+## Working Group Last Call Completed Pending Action
 
 Working group last calls may succeed or fail. In the case of failure, the document moves back to being just another working group I-D. In case of success, the chairs may instruct the shepherd to product the write-up before they pass the document to the AD requesting publication, but sometimes working group last success will be dependent on the authors making specific changes to the document. This state captures such documents.
 
@@ -79,7 +79,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 |---|---|---|---|
 | 2023-12-14 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | -08 and -09 with significant updates after review. -10 posted for further comments. -11 addresses final comments. Ready for 2nd WGLC | Adrian |
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
-| 2024-03-05 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Discussion and updates for last call comments completed | Tarek |
+| 2024-03-05 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Discussion and updates for last call comments completed. Pending shepherd write-up | Tarek |
 
 ## Post Working Group Last Call
 
