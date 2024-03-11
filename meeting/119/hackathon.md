@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-11T01:47:10.228Z
+date: 2024-03-11T01:50:45.044Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -240,7 +240,7 @@ Validate draft-ietf-netconf-udp-notif and draft-ietf-netconf-distributed-notif p
 Validate first YANG-Push extensions enabling Apache Kafka integration accoring to draft-netana-nmop-yang-kafka-integration.
 
 - **Repository**
-TBD
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/119/Hackathon
 ----
 
 ### BMWG - YANG model for management of Network Tester
