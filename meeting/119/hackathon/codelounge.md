@@ -2,14 +2,14 @@
 title: IETF 119 Code Lounge
 description: 
 published: true
-date: 2024-02-06T14:55:28.935Z
+date: 2024-03-11T15:12:42.689Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-02-06T14:55:28.935Z
 ---
 
 # Code Lounge
-Tuesday - Friday, 19-22 March, Room: TBA
+Tuesday - Friday, 19-22 March, Room: P4
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
