@@ -2,7 +2,7 @@
 title: IETF 119 Arrival Coordination
 description: 
 published: true
-date: 2024-03-11T09:33:21.632Z
+date: 2024-03-11T18:56:35.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:36:45.909Z
@@ -25,7 +25,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | 9:55am | NZ145 | Bob Hinden | bob.hinden@gmail.com | BNE | INT TERM  | Rydges South Bank |    |
 | 10:45am | SQ255 | Dhruv Dhody | dhruv.ietf@gmail.com | BNE | INT | Rydges South Bank | Planning to take Uber |
-|        |       |            |                      |     |           |                   |    | 
+| 11:35am | QF516 | Jim Fenton | fenton@bluepopcorn.net | BNE | Domestic | Rydges South Bank | Taking Airtrain  | 
 
 ## Saturday, March 16, 2024
 
