@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-11T01:50:45.044Z
+date: 2024-03-11T02:52:04.047Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -315,6 +315,8 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 - **Champions**
 	- Haoran Luo (HaoranMe@outlook.com)
 	- Shuisong Hu (Hi.shuisong@gmail.com)
+  - Longjie Wang （whhxd@outlook.com）
+  - Linzhe Li （lilz@zgclab.edu.cn)）
 - **Project Info**
 SAV-D is a distributed defense architecture based on Source Address Validation (SAV) technology, designed to improve the effectiveness of defenses against IP spoofing DDoS attacks. It achieves this by collecting and aggregating threat data from existing SAV devices and then distributing crucial information across a broad range of devices to significantly enhance network-wide defenses. Through its innovative approach of utilizing SAV devices as honeypots to gather threat data, and sharing attack detection information and IP blocklists with victims' defense systems, SAV-D aims to bolster the overall resilience of networks against sophisticated DDoS attacks.
 - **Hackathon plan**
