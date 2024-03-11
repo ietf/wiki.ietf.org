@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-03-11T19:34:46.661Z
+date: 2024-03-11T19:36:20.536Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -110,7 +110,7 @@ IAB Reviewer: Qin Wu
 * 2024-05-01: IAB Business Meeting
 * 2024-05-08: IAB Business Meeting (Reserved)
 * 2024-05-15: IAB Business Meeting
-* 2024-05-22: IAB Technical Discussion: Censorship Measurements
+* 2024-05-22: IAB Technical Discussion: Censorship Measurements (Roya En)
 * 2024-05-29: IAB Business Meeting
 * 2024-06-05: IAB Business Meeting (Reserved)
 * 2024-06-12: IAB Business Meeting
