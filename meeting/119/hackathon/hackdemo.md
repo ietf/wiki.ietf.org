@@ -2,14 +2,14 @@
 title: IETF 119 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-02-06T14:51:20.299Z
+date: 2024-03-11T15:10:52.445Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-02-06T14:51:20.299Z
 ---
 
 # Hackdemo Happy Hour
-Monday, 18 March, Time: 18:30 - 19:30, Room: TBA
+Monday, 18 March, Time: 18:30 - 19:30, Room: PTR Concourse
 
 Join us for an in depth look at some of the great projects from the IETF Hackathon. This is your opportunity to meet with the teams behind the projects and get answers to any and all of the questions you may have about what they did, how they did it, and the impact it has on work going on at the IETF. 
 
