@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-11T02:55:37.212Z
+date: 2024-03-11T15:06:45.242Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: Saturday - Sunday, 16-17 March 2024
 * :australia: **Where**: Brisbane Convention & Exhibition Centre, Brisbane, Australia
-* :cityscape: **Plaza Terrace Room**
+* :cityscape: **Plaza Terrace Room**, Upper Plaza Level
 {.grid-list}
 
 **Sponsored by**
