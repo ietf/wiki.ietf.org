@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-11T02:11:17.188Z
+date: 2024-03-11T15:35:09.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -72,8 +72,8 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | M9 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
 |  |
+| 14:00 - 15:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 | 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
-| 16:00 - 17:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
 | 18:30 - 20:00 | M9 | IVY WG: Terminology | OPS | italo.busi@huawei.com | Discuss Terminology issues with network inventory and refine the scope of the IVY WG work |   |  |
 |     |  |   |   |   |   |   |  |
@@ -177,12 +177,12 @@ Location: Plaza Level
 | 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
-| 14:00-14:30 |                   |                    |  
-| 14:30-15:00 |                   |                    | 
+| 14:00-14:30 |                   |  UNS / UCA Update  |  
+| 14:30-15:00 |                   |  UNS / UCA Update  | 
 | 15:00-15:30 |                   |CCO for AI Networking|  
 | 15:30-16:00 |                   |CCO for AI Networking|   
-| 16:00-16:30 |                   |  UNS / UCA Update  |   
-| 16:30-17:00 |                   |  UNS / UCA Update  |   
+| 16:00-16:30 |                   |                    |   
+| 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |    AI4NET          |   
 | 17:30-18:00 |                   |    AI4NET          |   
 | 18:00-18:30 |                   |    AI4NET          |   
