@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-10T07:51:11.961Z
+date: 2024-03-11T02:11:17.188Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -101,6 +101,7 @@ Please keep the tables sorted by meeting by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 | M9 | QUIC on streams | WIT | lucas@lucaspardue.com | https://datatracker.ietf.org/doc/html/draft-kazuho-quic-quic-on-streams | TBD | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
+| 15:00-16:30 | M9 | SDVNM: Software-Defined Vehicle Network Management | TBD | pauljeong@skku.edu <br/> chrisshen@skku.edu | Discuss the Problem Statement, Use Cases, and Framework for SDVNM BoF | https://us02web.zoom.us/j/87419619218?pwd=QUhxSlFaNnpuQ0ljRFFaR0VDUWFGZz09 | TBD |
 | 16:00-17:30    | P6-7 | Large Language Model(LLM) for Networking  | OPS/SEC  | xiexiaohui@tsinghua.edu.cn gaoyj@zgclab.edu.cn  |  Disscussion on the potential of LLMs in the networking domain |  https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | TBD   | TBD  |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | https://ietf.webex.com/meet/ietfsidemeeting2 https://github.com/liuchunchi/nasr_side_meeting | [nasr_side_meeting.ics](/nasr_side_meeting.ics) |
@@ -243,11 +244,11 @@ Location: Plaza Level
 | 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
-| 15:00-15:30 |                   | skex               |  
-| 15:30-16:00 |                   | skex               |   
-| 16:00-16:30 |                   | LLM for networking                   |   
-| 16:30-17:00 |                   | LLM for networking                   |   
-| 17:00-17:30 |                   | LLM for networking                   |   
+| 15:00-15:30 | SDVNM BoF         | skex               |  
+| 15:30-16:00 | SDVNM BoF         | skex               |   
+| 16:00-16:30 | SDVNM BoF         | LLM for networking |   
+| 16:30-17:00 |                   | LLM for networking |   
+| 17:00-17:30 |                   | LLM for networking |   
 | 17:30-18:00 |                   | NMRG IBN use cases |   
 | 18:00-18:30 |       6gip        | NMRG IBN use cases |   
 | 18:30-19:00 | CCAMP WG: WDM Pluggable | NASR               |   
