@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-11T22:28:10.640Z
+date: 2024-03-12T00:19:57.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -121,7 +121,6 @@ Please keep the tables sorted by meeting by time.
 |14:00-15:00 |M9  | Peering API | OPS | ramseyer@meta.com  | Discuss Peering API Draft  | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
 | 15:00-16:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | TBD | TBD | TBD |
-| 17:00-18:30 | P6-7 | HTTP TBD | WIT | mnot@mnot.net | TBD | TBD | TBD |
 |18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
 | 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
 |     |  |   |   |   |   |   |  |
@@ -280,9 +279,9 @@ Location: Plaza Level
 | 15:30-16:00 |                   | ICT for green multi-modal transportation |   
 | 16:00-16:30 |                   | ICT for green multi-modal transportation |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |  HTTP              |   
-| 17:30-18:00 |                   |  HTTP              |   
-| 18:00-18:30 |                   |  HTTP              |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |                   |                    |   
 | 18:30-19:00 | CCAMP WG: TNBI DT |  APN               |   
 | 19:00-19:30 | CCAMP WG: TNBI DT |  APN               |   
 | 19:30-20:00 | CCAMP WG: TNBI DT |  APN               |   
