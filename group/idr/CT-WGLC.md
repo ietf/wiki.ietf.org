@@ -2,7 +2,7 @@
 title: CT WG LC 
 description: CT WG Last Call Summary 
 published: true
-date: 2024-03-12T15:37:27.457Z
+date: 2024-03-12T16:38:23.204Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:14:09.495Z
@@ -19,23 +19,27 @@ Prior to 2nd WGLC draft-ietf-idr-bgp-ct was split into 3 drafts:
 [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)- CT support for SRv6 
 [draft-ietf-idr-bgp-fwd-rr](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fwd-rr/) - RR in forward path - issue and fixes 
 
-### 2nd WG LC Shepherd Report
-draft-ietf-idr-bgp-ct-26 shepherd report: 
-https://mailarchive.ietf.org/arch/msg/idr/7PIQx2nE0Y4d-lR7bIpTPL_TMR0/
+### 2nd WG LC Shepherd Reports
+[draft-ietf-idr-bgp-ct-26 shepherd report](https://mailarchive.ietf.org/arch/msg/idr/7PIQx2nE0Y4d-lR7bIpTPL_TMR0/)
 
-draft-ietf-idr-bgp-ct-srv6 shepherd report: 
-https://mailarchive.ietf.org/arch/msg/idr/iwFeecKN-DwdjFG3X0bAhnxO2Sw/
+[draft-ietf-idr-bgp-ct-srv6 shepherd report](https://mailarchive.ietf.org/arch/msg/idr/iwFeecKN-DwdjFG3X0bAhnxO2Sw/) 
 
-draft-ietf-idr-bgp-ct-srv6
+draft-ietf-idr-bgp-fwd-rr - report pening 
+
 ### 2nd WG LC email thread 
-Initial thread:
+[Initial thread](https://mailarchive.ietf.org/arch/msg/idr/Ud2coGDvdXYy7x-SHPSK2Onwjx4/)
 https://mailarchive.ietf.org/arch/msg/idr/Ud2coGDvdXYy7x-SHPSK2Onwjx4/
 
-Consensus decision: 
+Consensus decision: [Ready for Publication](https://mailarchive.ietf.org/arch/msg/idr/oNY5gAcE21y1bke6tBzeb76uVo4/)
 https://mailarchive.ietf.org/arch/msg/idr/oNY5gAcE21y1bke6tBzeb76uVo4/
 
-## 1st WG LC  
+## 1st WG LC : 6/26 to 7/16
+version: [draft-ietf-idr-bgp-ct-09.txt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/09/)
+
+[Call mail thread](https://mailarchive.ietf.org/arch/msg/idr/KYZbOsg2y4jcOfjV31pee5uhMjQ/)
 https://mailarchive.ietf.org/arch/msg/idr/KYZbOsg2y4jcOfjV31pee5uhMjQ/
+[Extension of 1st WG LC to 7/28:](https://mailarchive.ietf.org/arch/msg/idr/Qr8GhdlEi8viaZxOCaWii3cA51s/) - https://mailarchive.ietf.org/arch/msg/idr/Qr8GhdlEi8viaZxOCaWii3cA51s/
+[Extension to 1st WG LC to 8/1:](https://mailarchive.ietf.org/arch/msg/idr/fC--NIU7VlyOjmNJwIcsXhXFvSk/) https://mailarchive.ietf.org/arch/msg/idr/fC--NIU7VlyOjmNJwIcsXhXFvSk/
 
 ### 1st WG LC Shepherds report
 [ct-wglc-discussion-v2.pdf](/idr/ct-wglc-discussion-v2.pdf)
@@ -63,7 +67,6 @@ d. The following Communities need explantion
 ## Open Issues from WG LC call 
 1. Ketan Talulikar's comments on the draft
 2. Jeff Haas's comments on the draft
-
 
 ## Open issues from IETF-117
 1. Why not one solution 
