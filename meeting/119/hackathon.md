@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-12T09:18:20.797Z
+date: 2024-03-12T17:47:14.783Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -425,8 +425,7 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
   - NASR continues the discussion from IETF 118 Path Validation Side Meeting. A mailing list is created to continue the discussion. NASR side meeting will be held in IETF 119.
 - **Mailing List**
 	- <https://www.ietf.org/mailman/listinfo/nasr>
-- **Specifications**
-  - Path Validation Problem Statement: [draft-liu-path-validation-problem-statement-00](https://datatracker.ietf.org/doc/draft-liu-path-validation-problem-statement/)
+- **Specification  - Path Validation Problem Statement: [draft-liu-path-validation-problem-statement-00](https://datatracker.ietf.org/doc/draft-liu-path-validation-problem-statement/)
   - NASR Use Cases and Requirements: [draft-liu-nasr-requirements-01](https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/)
   - NASR Terminology: [draft-richardson-nasr-terminology-00](https://datatracker.ietf.org/doc/draft-richardson-nasr-terminology/)
   - Vector Commitment-based Proof-of-Transit: [draft-liu-vcpot-00](https://datatracker.ietf.org/doc/draft-liu-vcpot/)
@@ -458,6 +457,21 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
 
 ---
 
+### vCon - Conversation Container 
+
+- **Champions**
+
+  - Dan Petrie <dan.ietf@sipez.com>
+
+- **Project Info**
+
+- **Specifications**
+
+- **Repository**
+
+---
+
+project description
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
