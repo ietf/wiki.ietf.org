@@ -2,15 +2,14 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2024-03-12T14:18:12.889Z
+date: 2024-03-12T14:19:12.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
 ---
 
 # CAR 1st WG LC 
-## IDR Mail Thread for call
-https://mailarchive.ietf.org/arch/msg/idr/LcOG8V4NAO96GbEjvsbOtY36YS8/
+https://mailarchive.ietf.org/arch/msg/idr/_6wv8MYHgMESkH3ZjVlzn14KYy8/
 
 ## Shepherd Report 
 list of issues:  [car-wg-lc-track-v7.pdf](/idr/car-wg-lc-track-v7.pdf)
