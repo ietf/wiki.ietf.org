@@ -2,18 +2,45 @@
 title: CT WG LC 
 description: CT WG Last Call Summary 
 published: true
-date: 2023-09-12T02:11:42.981Z
+date: 2024-03-12T15:37:27.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:14:09.495Z
 ---
 
-# CT WG LC Summary
+# CT WG Summary
 
-## Shepherds report
+## IESG Publication information 
+
+
+## 2nd WG LC 
+Prior to 2nd WGLC draft-ietf-idr-bgp-ct was split into 3 drafts:
+[draft-ietf-idr-bgp-ct](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/) - CT 
+[draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)- CT support for SRv6 
+[draft-ietf-idr-bgp-fwd-rr](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fwd-rr/) - RR in forward path - issue and fixes 
+
+### 2nd WG LC Shepherd Report
+draft-ietf-idr-bgp-ct-26 shepherd report: 
+https://mailarchive.ietf.org/arch/msg/idr/7PIQx2nE0Y4d-lR7bIpTPL_TMR0/
+
+draft-ietf-idr-bgp-ct-srv6 shepherd report: 
+https://mailarchive.ietf.org/arch/msg/idr/iwFeecKN-DwdjFG3X0bAhnxO2Sw/
+
+draft-ietf-idr-bgp-ct-srv6
+### 2nd WG LC email thread 
+Initial thread:
+https://mailarchive.ietf.org/arch/msg/idr/Ud2coGDvdXYy7x-SHPSK2Onwjx4/
+
+Consensus decision: 
+https://mailarchive.ietf.org/arch/msg/idr/oNY5gAcE21y1bke6tBzeb76uVo4/
+
+## 1st WG LC  
+https://mailarchive.ietf.org/arch/msg/idr/KYZbOsg2y4jcOfjV31pee5uhMjQ/
+
+### 1st WG LC Shepherds report
 [ct-wglc-discussion-v2.pdf](/idr/ct-wglc-discussion-v2.pdf)
 
-## Reviews 
+### 1st WG LC Reviews 
 1. RTG-DIR
 
 Most of the issues taken care before WG LC. 
