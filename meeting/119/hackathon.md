@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-12T02:03:55.666Z
+date: 2024-03-12T09:14:43.014Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -340,6 +340,21 @@ The purpose of this hackathon is to demonstrate the effectiveness of the SAV-D a
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
   
+--- 
+
+### FRRouting doctor(s)
+
+*Probably colocated with ILNP table (see above) due to org overlap.*
+
+- **Champions**
+  - David 'equinox' Lamparter <equinox@opensourcerouting.org>
+- **Project Info**
+  FRRouting is a common choice when prototyping or implementing routing-related IETF drafts.  ~~We're~~ I'm here to help with any questions — code itself, building test setups, but also process related (aka "how do I get my code merged?", or "how do I even get started?")
+- **Contact for remote**
+  If you are remote and looking for help with the above, please send an e-mail directly to the people listed above; other communication channels might be missed.
+- **Repositories**
+  https://github.com/FRRouting/frr/
+
 --- 
 
 ### Enhancing DNS delegation with DELEG
