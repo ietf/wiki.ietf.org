@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240312T091248Z
+DESCRIPTION:Exposure of Network and Compute information to Support Edge Com
+	puting Applications\n\n*	IETF Side meeting wiki: https://wiki.ietf.org/en/
+	meeting/119/sidemeetings#meeting-tuesday\n	\n*	Topic: “Exposure of Commu
+	nication and Compute information to Support Edge Computing Applications”
+	\n*	When: Tuesday March 19\, 17:00 -18:30 (Brisbane\, Australia time)\n*	V
+	ideoconference (in case you are not in Australia): https://ietf.webex.com/
+	meet/ietfsidemeeting2\n*	Where: Room P6-7\n\n​Problem motivation. As the
+	 industry has reached peak computational centralization\, compute needs co
+	mmunication to scale through distributed computing. There is a need to hav
+	e a forum to discuss how the two sides of the same coin (compute and commu
+	nication) can be exposed to the application to make efficient service plac
+	ement and selection decisions. This information exposure is to support sev
+	eral application lifecycle operations including compute and communication 
+	resource discovery\, service deployment\, service selection\, and assuranc
+	e. This is especially important at the edge of the network\, where service
+	s such as distributed AI\, XR/VR\, vehicle networks (V2X)\, etc. need this
+	 compute and communication information to meet stringent performance requi
+	rements. Exposed information should also account for the application footp
+	rint reaching out to cellular networks and for trust capabilities.\n\n
+DTEND;TZID="W. Europe Standard Time":20240319T093000
+DTSTAMP:20240312T091248Z
+DTSTART;TZID="W. Europe Standard Time":20240319T080000
+LAST-MODIFIED:20240312T091248Z
+LOCATION:https://ietf.webex.com/meet/ietfsidemeeting2
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:IETF Side Meeting: Information Exposure for Edge Com
+	puting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000006EDC7FBA5B74DA01000000000000000
+	0100000000C1658FC2546FE45A6D0D002AF431F4D
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n</head>\n<body>\n<div class=
+	"cal_9e96"></div>\n<div class="cal_9e96">\n<div>\n<p dir="auto" style="box
+	-sizing: border-box\; margin-bottom: 16px\; font-size: 16px\; text-align: 
+	start\; margin-top: 0px !important\; color: rgb(31\, 35\, 40)\; background
+	-color: rgb(255\, 255\, 255)\;">\n<strong style="box-sizing:border-box\; f
+	ont-weight:600">Exposure of Network and Compute information to Support Edg
+	e Computing Applications</strong></p>\n<ul dir="auto" style="box-sizing: b
+	order-box\; padding-left: 2em\; margin-top: 0px\; margin-bottom: 16px\; fo
+	nt-size: 16px\; text-align: start\; color: rgb(31\, 35\, 40)\; background-
+	color: rgb(255\, 255\, 255)\;">\n<li class="x_elementToProof" style="box-s
+	izing:border-box"><span style="font-size: 16px\; color: rgb(31\, 35\, 40)\
+	;">IETF Side meeting wiki:</span><span style="font-size: 16px\; color: rgb
+	(31\, 35\, 40)\;">&nbsp\;</span><a href="https://wiki.ietf.org/en/meeting/
+	119/sidemeetings#meeting-tuesday" target="_blank" rel="nofollow noopener n
+	oreferrer" data-auth="NotApplicable" id="OWA5b581679-eb54-b82e-f2c5-a0edbc
+	df5269" class="x_OWAAutoLink" style="font-size:16px\; box-sizing:border-bo
+	x" data-loopstyle="linkonly">https://wiki.ietf.org/en/meeting/119/sidemeet
+	ings#meeting-tuesday</a><br>\n</li><li style="box-sizing:border-box\; marg
+	in-top:0.25em">Topic: “Exposure of Communication and Compute information
+	 to Support Edge Computing Applications”</li><li style="box-sizing:borde
+	r-box\; margin-top:0.25em">When: Tuesday March 19\, 17:00 -18:30 (Brisbane
+	\, Australia time)</li><li style="box-sizing:border-box\; margin-top:0.25e
+	m">Videoconference (in case you are not in Australia):<span>&nbsp\;</span>
+	<a href="https://ietf.webex.com/meet/ietfsidemeeting2" target="_blank" rel
+	="nofollow noopener noreferrer" data-auth="NotApplicable" id="OWA1aaaed34-
+	42bc-7b2b-bbf7-8e65f8ce5b0f" class="x_OWAAutoLink" style="box-sizing:borde
+	r-box\; text-decoration:underline" data-loopstyle="linkonly">https://ietf.
+	webex.com/meet/ietfsidemeeting2</a></li><li class="x_elementToProof" style
+	="box-sizing:border-box\; margin-top:0.25em">Where: Room P6-7</li></ul>\n<
+	p dir="auto" style="box-sizing: border-box\; margin-top: 0px\; margin-bott
+	om: 16px\; font-size: 16px\; text-align: start\; color: rgb(31\, 35\, 40)\
+	; background-color: rgb(255\, 255\, 255)\;">\n​<strong style="box-sizing
+	:border-box\; font-weight:600">Problem motivation.</strong><span>&nbsp\;</
+	span>As the industry has reached peak computational centralization\, compu
+	te needs communication to scale through distributed computing. There is a 
+	need to have a forum\n to discuss how the two sides of the same coin (comp
+	ute and communication) can be exposed to the application to make efficient
+	 service placement and selection decisions. This information exposure is t
+	o support several application lifecycle operations including\n compute and
+	 communication resource discovery\, service deployment\, service selection
+	\, and assurance. This is especially important at the edge of the network\
+	, where services such as distributed AI\, XR/VR\, vehicle networks (V2X)\,
+	 etc. need this compute and communication\n information to meet stringent 
+	performance requirements. Exposed information should also account for the 
+	application footprint reaching out to cellular networks and for trust capa
+	bilities.</p>\n</div>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
