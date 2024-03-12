@@ -2,13 +2,14 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2024-03-12T14:19:12.967Z
+date: 2024-03-12T14:20:54.808Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
 ---
 
 # CAR 1st WG LC 
+## Link to the IDR Mail thread 
 https://mailarchive.ietf.org/arch/msg/idr/_6wv8MYHgMESkH3ZjVlzn14KYy8/
 
 ## Shepherd Report 
@@ -88,7 +89,6 @@ status: awaiting review by Jeff Haas
 
 ## Implementation
 
-draft-ietf-bgp-car-02 - has only 1 implementation of the 
-type 2 NLRI.  
+draft-ietf-bgp-car-02 - has only 1 implementation of the type 2 NLRI.  
 
 
