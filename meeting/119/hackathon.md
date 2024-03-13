@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-13T23:12:34.585Z
+date: 2024-03-13T23:28:18.682Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -487,7 +487,8 @@ The challenge lies in balancing these rights to ensure that AI development is bo
 - **Specifications**
 
 	- [IETF vCon Draft](https://datatracker.ietf.org/doc/draft-petrie-vcon/)
-	- [Art. 9 GDPRProcessing of special categories of personal data](https://gdpr-info.eu/art-9-gdpr/)
+	- [GDPR Right to be Forgotten](https://gdpr-info.eu/issues/right-to-be-forgotten/)
+  - [GDPR Right of Access](https://gdpr-info.eu/issues/right-of-access/) 
   
 - **Repository**
 
