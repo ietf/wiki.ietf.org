@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2024-03-13T06:29:38.890Z
+date: 2024-03-13T06:46:58.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
@@ -14,6 +14,7 @@ dateCreated: 2023-07-25T13:11:40.965Z
 
 ### Post 2nd WG LC Shepherd Reports
 [Shepherd report on Editorial issues: Email](https://mailarchive.ietf.org/arch/msg/idr/de9x2kpB8bI-kojYlYOozKNArsk/)
+
 
 Shepherd Report as issue lists (github)
 G1- Should Fix issues: 16 [(github issue 19)](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/19): status: fixes agreed upon, fixing in -07 
