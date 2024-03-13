@@ -2,29 +2,64 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2024-03-12T14:20:54.808Z
+date: 2024-03-13T06:09:47.338Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
 ---
 
-# CAR 1st WG LC 
-## Link to the IDR Mail thread 
-https://mailarchive.ietf.org/arch/msg/idr/_6wv8MYHgMESkH3ZjVlzn14KYy8/
+# CAR - IDR WG 
+## IESG Publication information 
 
-## Shepherd Report 
+
+### Post 2nd WG LC Shepherd Reports
+[Shepherd report on Editorial issues: Email](https://mailarchive.ietf.org/arch/msg/idr/de9x2kpB8bI-kojYlYOozKNArsk/)
+
+Shepherd Report as issue lists (github)
+G1- Should Fix issues: 16 [(github issue 19)](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/19): status: fixes agreed upon, fixing in -07 
+G2- IANA Issues: 1 [Github issue 20](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/20) - status agreed upon, fixing in -07,  Early IANA review requested (3/12)
+G3- Editorial Nits in Main text: Github issues [21](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/21), [22](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/22), 
+[23](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/23), [24](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/24) - fixing in -07. 
+G4- Editorial Nits in Appendices: Github issue [25](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-car/issues/25) -fixing in -07 
+G5 - Nits (TBD) 
+
+
+## 2nd WG LC Call 
+version: [draft-ietf-idr-car-06](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/)
+[initial call](https://mailarchive.ietf.org/arch/msg/idr/vnaLLq3MUuiONqfjFkpIPl9Q-Zs/)
+[consensus decision]:(https://mailarchive.ietf.org/arch/msg/idr/0z4B2QfVGmmS7EI6IFjfHccd8AY/)
+
+### Directorate Early Reviews for 2nd WG LC 
+#### RTG-DIR
+[draft-ietf-idr-car-05](https://datatracker.ietf.org/doc/review-ietf-idr-bgp-car-05-rtgdir-early-mcbride-2024-01-04/) by Mike McBride - status: has nits 
+
+#### OPS-DIR 
+missing
+
+#### SEC-DIR 
+[draft-ietf-idr-car-05](https://datatracker.ietf.org/doc/review-ietf-idr-bgp-car-05-secdir-early-nir-2023-12-19/) by Yoav Nir - status: has nits 
+#### TSV-DIR 
+[draft-ietf-idr-car-05](https://datatracker.ietf.org/doc/review-ietf-idr-bgp-car-05-tsvart-early-trammell-2024-01-16/) by Brian Trammel - status on the right track. 
+
+## CAR 1st WG LC (for -02) 
+version: draft-ietf-idr-bgp-car-02 
+### IDR 1st WG LC Call 
+[Link to email call](https://mailarchive.ietf.org/arch/msg/idr/_6wv8MYHgMESkH3ZjVlzn14KYy8/)
+Status: [Non-Consensus](https://mailarchive.ietf.org/arch/msg/idr/2mPRIH98LYjrnZ1t4USVij_qzKs/)
+
+### Shepherd Report 
 list of issues:  [car-wg-lc-track-v7.pdf](/idr/car-wg-lc-track-v7.pdf)
 Shepherd's report on issues:  [car-shepherd-report](/idr/idr-shepherd-car-wglc-q1-issues-v3.pdf)
 
-## Directorate Reviews
-1. RTG-DIR Review 
-[email-RTG-DIR](  https://mailarchive.ietf.org/arch/msg/idr/0X_q_e09ejtb0NZQ25smUrklwmQ/)
+### Directorate Reviews 
+#### RTG-DIR Review 
+[email-RTG-DIR](https://mailarchive.ietf.org/arch/msg/idr/0X_q_e09ejtb0NZQ25smUrklwmQ/)
 Reviewer: Ben Niven-Jenkins
 Review result: Has Issues
 action item: Needs short overview in section 1 before leaping into terminology
 
 2. OPS-DIR Review 
-[mail-message](https://mailarchive.ietf.org/arch/msg/idr/4SgOciKKtA9nap1M-f6eHRKNtWc/)
+[mail-OPS-DIR](https://mailarchive.ietf.org/arch/msg/idr/4SgOciKKtA9nap1M-f6eHRKNtWc/)
 
 Raised issues on 
 1) amount of abbreviations without explanation 
@@ -34,7 +69,7 @@ Raised issues on
 5) Needing an operations section      
 6) Several Editorial issues (see list in email). 
 
-## Open issues from Mail list 
+### Open issues from 1st WG LC on Mail list 
 1. CAR WGLC Q1 - Logic behind sections 9 and 10 in CAR 
   issues involved: 
     1-1) is this a ideology change? 
@@ -50,15 +85,12 @@ Action items involve: Revisions of sections 2, 3, 8, 9, 10, and 13.
 
  2. CAR-WGLC-Q-2: Inter-domain Intent-Aware Routing 
   Why do we not have 1 solution after 2 years? 
+  Action item: IDR WG shepherd will make selection in September. 
  
- Action item: IDR WG shepherd will make selection 
- in September. 
- 
- ## Open Issues from Adoption call
+ ## Open Issues from Adoption call  
  ### CAR specific issues from Adoption  
  1. F3-CAR-Issue-1: Appendix A.7 
  2. F3-CAR-Issue-2: BGP-CAR Consensus on need for resolution schemes
-
  3. 33-CAR-Issue-3: Handling of LCM and Extended Communities
  4. F3-CAR-Issue-4: CAR Routing in Color Domains for Anycast EP
  5. F3-CAR-Issue-5: BGP Update packing. 
