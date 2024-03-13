@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-02-22T11:33:07.831Z
+date: 2024-03-13T13:45:36.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -181,9 +181,6 @@ Shepherd's name indicated within parenthesis.
   - (9/21): Confirmed this is ready.
  
 
-* draft-thubert-bess-secure-evpn-mac-signaling
- - Few discussion happened, hard to evaluate interest. Authors addressed comments.
- - Hold on
 
 * draft-duan-bess-mvpn-ipv6-infras
 * draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
@@ -204,7 +201,7 @@ Shepherd's name indicated within parenthesis.
 
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
-
+* draft-thubert-bess-secure-evpn-mac-signaling (3/13/24)
 
 ## Working group document status (Non Expired only)
 
