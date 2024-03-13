@@ -2,7 +2,7 @@
 title: CT WG LC 
 description: CT WG Last Call Summary 
 published: true
-date: 2024-03-13T01:02:15.692Z
+date: 2024-03-13T01:04:29.866Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:14:09.495Z
