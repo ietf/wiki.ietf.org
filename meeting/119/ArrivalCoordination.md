@@ -2,7 +2,7 @@
 title: IETF 119 Arrival Coordination
 description: 
 published: true
-date: 2024-03-12T13:56:54.689Z
+date: 2024-03-13T10:48:29.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:36:45.909Z
@@ -32,8 +32,8 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |      |       |      |      |       |        |        |      |       |         |          |             |       |
-|   
+| 6.40 am | EK 434 | Rob Wilton | robert.public@wilton.org.uk| BNE | INT | Rydges South Bank | Planning on Airtrain |
+|      |        |      |       |         |          |             |       |   
 
 ## Sunday, March 17, 2024
 
