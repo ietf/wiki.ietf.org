@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2024-03-13T07:14:56.856Z
+date: 2024-03-13T14:08:28.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
