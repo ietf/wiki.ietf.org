@@ -2,7 +2,7 @@
 title: CT WG LC 
 description: CT WG Last Call Summary 
 published: true
-date: 2024-03-13T01:04:29.866Z
+date: 2024-03-13T02:31:41.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:14:09.495Z
@@ -39,7 +39,8 @@ https://mailarchive.ietf.org/arch/msg/idr/oNY5gAcE21y1bke6tBzeb76uVo4/
 #### SEC-DIR 
 Chair's instructions to SEC-DIR reviewer: Intent (Color) could have security issues in this draft. The service data (customer data) is being tracked by intent and placed over service quality tunnels.  In one view, it is just more layering. In an alternate view, the color exposes some abstract qualities of the network. 
 
-[SEC-DIR Early Review of draft-ietf-idr-bgp-ct-19](https://datatracker.ietf.org/doc/review-ietf-idr-bgp-ct-19-secdir-early-nystrom-2024-01-15/) - by Magnus Nystrom - did not resolve -18 review issues with 6 issues [see github issue #69](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-ct/issues/69) [Magnus mail message for-19](https://mailarchive.ietf.org/arch/msg/secdir/kFzE5B7LSCmtHH1kyoxuC8dF178) 
+[SEC-DIR Early Review of draft-ietf-idr-bgp-ct-19](https://datatracker.ietf.org/doc/review-ietf-idr-bgp-ct-19-secdir-early-nystrom-2024-01-15/) - by Magnus Nystrom - did not resolve -18 review issues with 6 issues 
+[see github issue #69](https://github.com/ietf-wg-idr/draft-ietf-idr-bgp-ct/issues/69) [Magnus mail message for-19](https://mailarchive.ietf.org/arch/msg/secdir/kFzE5B7LSCmtHH1kyoxuC8dF178) 
 
 #### TSV-DIR
 Chair's instructions to TSV-DIR: Please look at this draft from the viewpoint of having intent (color) aware customer traffic forwarded over a VPN overlay (tunnels) that forwarded over a set of intent (color) aware underlay of tunnels.  Please consider the problems with tunnels in your review of this text.
@@ -51,13 +52,17 @@ Chair's instructions to TSV-DIR: Please look at this draft from the viewpoint of
 [draft-ietf-idr-bgp-ct-srv6-04] - check request sent to IANA 
 
 ### 2nd WG LC Directorate reviews for draft-ietf-idr-bgp-ct-srv6 
-RTG-DIR -  
+#### RTG-DIR - Pending 
 
-OPS-DIR - Bo Wu did the review in July.  It would be helpful for him to review the latest version (-18) or later.  Or you can obtain another person, 
+#### OPS-DIR - Pending 
+ 
+#### SEC-DIR 
+SEC-DIR instructions from shepherd: 
+Intent (Color) could have security issues in this draft. The service data (customer data) is being tracked by intent and placed over service quality tunnels.  In one view, it is just more layering. In an alternate view, the color exposes some abstract qualities about the network. 
 
-SEC-DIR - Intent (Color) could have security issues in this draft. The service data (customer data) is being tracked by intent and placed over service quality tunnels.  In one view, it is just more layering. In an alternate view, the color exposes some abstract qualities about the network. 
-
-TSV-DIR - Please look at this draft from the viewpoint of having intent (color) aware customer traffic forwarded over a VPN overlay (tunnels) that forwarded over a set of intent (color) aware underlay of tunnels.  Please consider the problems with tunnels in your review of this text.
+#### TSV-DIR 
+TSV-DIR instructions from shepherd:
+Please look at this draft from the viewpoint of having intent (color) aware customer traffic forwarded over a VPN overlay (tunnels) that forwarded over a set of intent (color) aware underlay of tunnels.  Please consider the problems with tunnels in your review of this text.
 
 ## 1st WG LC : 6/26/2023 to 7/16/2023
 version: [draft-ietf-idr-bgp-ct-09.txt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct/09/)
