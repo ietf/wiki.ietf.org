@@ -2,7 +2,7 @@
 title: CT WG LC 
 description: CT WG Last Call Summary 
 published: true
-date: 2024-03-13T04:13:35.916Z
+date: 2024-03-13T04:14:59.211Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:14:09.495Z
@@ -52,15 +52,15 @@ Chair's instructions to TSV-DIR: Please look at this draft from the viewpoint of
 [draft-ietf-idr-bgp-ct-srv6-04] - check request sent to IANA 
 
 ### 2nd WG LC Directorate reviews for draft-ietf-idr-bgp-ct-srv6 
-#### RTG-DIR - Pending 
+#### RTG-DIR - Pending (3/31/2024)
 
-#### OPS-DIR - Pending 
+#### OPS-DIR - Pending (3/31/2024) 
  
-#### SEC-DIR 
+#### SEC-DIR - Pending (3/31/2024) 
 SEC-DIR instructions from shepherd: 
 Intent (Color) could have security issues in this draft. The service data (customer data) is being tracked by intent and placed over service quality tunnels.  In one view, it is just more layering. In an alternate view, the color exposes some abstract qualities about the network. 
 
-#### TSV-DIR 
+#### TSV-DIR - Pending (3/31/2024) 
 TSV-DIR instructions from shepherd:
 Please look at this draft from the viewpoint of having intent (color) aware customer traffic forwarded over a VPN overlay (tunnels) that forwarded over a set of intent (color) aware underlay of tunnels.  Please consider the problems with tunnels in your review of this text.
 
