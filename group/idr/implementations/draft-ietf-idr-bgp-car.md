@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-car
 description: report on implementations
 published: true
-date: 2024-03-13T04:51:14.754Z
+date: 2024-03-13T05:02:30.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-09T11:17:21.968Z
@@ -12,28 +12,28 @@ dateCreated: 2023-06-09T11:17:21.968Z
 ## Protocol Encodings
 ### New SAFI
 | SAFI | Cisco IOS-XR | Arrcus ArcOS | FreeRTR | comments |
-|---|---|---|---|
+|---|---|---|---|--|
 |BGP CAR | Y | Y | |
 |VPN CAR | N | N | |
 ### Route Types
 | Route Type | Cisco IOS-XR | Arrcus ArcOS | FreeRTR | comments |
-|---|---|---|---|
+|---|---|---|---|--|
 | (E,C) | Y | Y | |
 | Prefix | Y | N | |
 ### Non Key TLVs
 | TLV | Cisco IOS-XR | Arrcus ArcOS | FreeRTR | comments |
-|---|---|---|---|
+|---|---|---|---|--|
 | Label TLV | Y | Y | |
 | Label Index TLV | Y | Y | |
 | SRv6 SID TLV | Y | Y | |
 ### Extended Communities
 | TLV | Cisco IOS-XR | Arrcus ArcOS | FreeRTR | comments |
-|---|---|---|---|
+|---|---|---|---|--|
 | BGP Color EC | Y | Y | |
 | LCM EC | Y | N | |
 ## Protocol Processing
 | Processing | Cisco IOS-XR | Arrcus ArcOS | FreeRTR | comments |
-|---|---|---|---|
+|---|---|---|---|--|
 | Update generation| Y | Y | |
 | Update receive | Y | Y | |
 | Route Resolution | Y | Y | |
