@@ -2,7 +2,7 @@
 title: CAR WG LC Status 
 description: Summary of CAR WG Last Call 
 published: true
-date: 2024-03-13T06:09:47.338Z
+date: 2024-03-13T06:27:23.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T13:11:40.965Z
@@ -52,14 +52,13 @@ list of issues:  [car-wg-lc-track-v7.pdf](/idr/car-wg-lc-track-v7.pdf)
 Shepherd's report on issues:  [car-shepherd-report](/idr/idr-shepherd-car-wglc-q1-issues-v3.pdf)
 
 ### Directorate Reviews 
-#### RTG-DIR Review 
+#### RTG-DIR Review -draft-ietf-idr-bgp-car-02 
 [email-RTG-DIR](https://mailarchive.ietf.org/arch/msg/idr/0X_q_e09ejtb0NZQ25smUrklwmQ/)
-Reviewer: Ben Niven-Jenkins
-Review result: Has Issues
+Reviewer: Ben Niven-Jenkins status: Has Issues
 action item: Needs short overview in section 1 before leaping into terminology
 
-2. OPS-DIR Review 
-[mail-OPS-DIR](https://mailarchive.ietf.org/arch/msg/idr/4SgOciKKtA9nap1M-f6eHRKNtWc/)
+#### OPS-DIR Review - draft-ietf-idr-bgp-car-02 
+[mail-OPS-DIR](https://mailarchive.ietf.org/arch/msg/idr/4SgOciKKtA9nap1M-f6eHRKNtWc/)draft-Reviewer: Yingzhen Qu) - status: has issues 
 
 Raised issues on 
 1) amount of abbreviations without explanation 
