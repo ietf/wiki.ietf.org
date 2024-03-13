@@ -2,7 +2,7 @@
 title: SendHoldTimer implementation reports
 description: Implementation reports for draft-ietf-idr-sendholdtimer
 published: true
-date: 2023-12-18T20:30:54.256Z
+date: 2024-03-13T21:27:01.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-18T20:30:49.442Z
@@ -43,3 +43,11 @@ https://gitlab.nic.cz/labs/bird/-/commit/bcf2327425d4dd96f381b87501cccf943bed606
 Tested against `bgp-zerowindow-test`.
 
 Closed source implementation.
+
+### Update with IANA code point assignment
+*IANA has registered code 8 for "Send Hold Timer Expired" in the "BGP
+Error (Notification) Codes" sub-registry under the "Border Gateway
+Protocol (BGP) Parameters" registry.
+
+Patches to recognize error code 8 were merged into OpenBSD's and the-
+tcpdump-group's tcpdump implementations.*
