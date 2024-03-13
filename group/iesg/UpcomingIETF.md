@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-12T15:01:00.137Z
+date: 2024-03-13T17:46:25.909Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -154,6 +154,7 @@ Location: P5 on the Plaza level
 ## Monday, 18 March 2024
 
 * 12:00 - 13:00 Security Area office hour (Paul & Roman & Mystery Person)
+* 15:00 - 15:30 Rob Wilton - OPSAWG chair discussion
 
 ## Tuesday, 19 March 2024
 **PLEASE NOTE: Not available Tuesday morning!
@@ -161,6 +162,7 @@ Available starting at 11:30 AM**
 * TIME - ACTIVITY
 
 * 11:45-12:45 ART AD Office Hour (Orie & Murray)
+* 15:30-17:00 Rob/Mahesh hand over.
 
 ## Wednesday, 20 March 2024
 
