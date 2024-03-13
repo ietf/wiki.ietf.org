@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-12T17:47:14.783Z
+date: 2024-03-13T23:12:34.585Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -467,6 +467,28 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
 
 - **Specifications**
 
+- **Repository**
+
+---
+
+### vCon - Right to Know/Forgotten 
+
+- **Champions**
+
+  - Thomas Howe <ghostofbasho@gmail.com>
+
+- **Project Info**
+This hack implements a *Right to Know* and a *Right to be Forgotten* application for vCons. This hack identifies which vCons contain personal information about a particular person, then provides the ability to report on what that personal information is, deletes it, and provides an audit trail.
+In the age of AI, the balance between the right to know and the right to be forgotten has significant implications for personal data like voice recordings. As AI technologies increasingly rely on large datasets, including voice recordings for training purposes, the right to know can support transparency about how these datasets are collected, used, and shared by organizations. This transparency is crucial for understanding and monitoring AI's impact on privacy and individual rights. 
+However, the right to be forgotten plays a crucial role in empowering individuals to control their personal data, including voice recordings. Individuals can request the deletion of their voice data from databases to protect their privacy, especially in cases where the data is no longer necessary or relevant. This right is essential in preventing misuse of personal information and mitigating potential harms, such as unauthorized surveillance or identity theft.
+The challenge lies in balancing these rights to ensure that AI development is both transparent and respectful of privacy. Regulations like the GDPR in the European Union provide frameworks for this, requiring clear consent for data collection and offering mechanisms for data deletion. 
+
+
+- **Specifications**
+
+	- [IETF vCon Draft](https://datatracker.ietf.org/doc/draft-petrie-vcon/)
+	- [Art. 9 GDPRProcessing of special categories of personal data](https://gdpr-info.eu/art-9-gdpr/)
+  
 - **Repository**
 
 ---
