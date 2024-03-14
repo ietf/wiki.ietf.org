@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-14T10:28:44.668Z
+date: 2024-03-14T22:45:24.840Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -492,6 +492,20 @@ The challenge lies in balancing these rights to ensure that AI development is bo
   
 - **Repository**
 
+---
+
+### Formal Analysis of Attested TLS
+- **Champions**
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+- **Project Info**
+	- Pre-handshake attestation
+  - Intra-handshake attestation ([IETF draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+  - Post-handshake attestation  
+- **Overview presentation** 
+	- https://github.com/CCC-Attestation/meetings/blob/main/materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf
+- **Attestation**
+	- Code https://github.com/CCC-Attestation/formal-spec-TEE
+  - Specs https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing
 ---
 
 project description
