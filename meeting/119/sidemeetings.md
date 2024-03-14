@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-14T01:18:40.416Z
+date: 2024-03-14T05:25:01.060Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -168,14 +168,14 @@ Location: Plaza Level
 | 08:30-09:00 |                   | **NOT AVAILABLE**  |   
 | 09:00-09:30 |                   | **NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |**NOT AVAILABLE**          |   
-| 10:00-10:30 |                   |     **NOT AVAILABLE**               |   
+| 10:00-10:30 |                   | **NOT AVAILABLE**               |   
 | 10:30-11:00 |                   |                    |   
-| 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                   | **NOT AVAILABLE**  |  
+| 13:30-14:00 |                   | **NOT AVAILABLE**  | 
 | 14:00-14:30 |                   |  UNS / UCA Update  |  
 | 14:30-15:00 |                   |  UNS / UCA Update  | 
 | 15:00-15:30 |                   |CCO for AI Networking|  
@@ -203,12 +203,12 @@ Location: Plaza Level
 | 09:30-10:00 |                   |                    |   
 | 10:00-10:30 |                   |                    |   
 | 10:30-11:00 |                   |                    |   
-| 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                    | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                    | **NOT AVAILABLE**  |  
+| 13:30-14:00 |                    | **NOT AVAILABLE**  | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   | skex               |  
@@ -235,12 +235,12 @@ Location: Plaza Level
 | 09:30-10:00 |                   |               |   
 | 10:00-10:30 |                   |             |   
 | 10:30-11:00 |                   |              |   
-| 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
+| 11:00-11:30 | **NOT AVAILABLE** |                  |   
+| 11:30-12:00 | **NOT AVAILABLE** |                    |   
+| 12:00-12:30 | **NOT AVAILABLE** |                   |   
+| 12:30-13:00 | **NOT AVAILABLE** |                    |   
+| 13:00-13:30 | **NOT AVAILABLE** |                   |  
+| 13:30-14:00 | **NOT AVAILABLE** |                  | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 | SDVNM BoF         | skex               |  
@@ -267,12 +267,12 @@ Location: Plaza Level
 | 09:30-10:00 |                   | IPv6 operations in enterprises           |   
 | 10:00-10:30 |                   | IPv6 operations in enterprises           |   
 | 10:30-11:00 |                   | IPv6 operations in enterprises           |   
-| 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 12:30-13:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 13:00-13:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
-| 13:30-14:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  | 
+| 11:00-11:30 |                   |                   |   
+| 11:30-12:00 |                   |                    |   
+| 12:00-12:30 |                   |                   |   
+| 12:30-13:00 |                   |                  |   
+| 13:00-13:30 |                   |                   |  
+| 13:30-14:00 |                   |                   | 
 | 14:00-14:30 |  Peering API      | More MPC for Measurement |  
 | 14:30-15:00 |  Peering API      | More MPC for Measurement | 
 | 15:00-15:30 |                   | ICT for green multi-modal transportation |  
@@ -297,8 +297,8 @@ Location: Plaza Level
 | 08:30-09:00 |                   | eodir  |   
 | 09:00-09:30 |                   | eodir  |   
 | 09:30-10:00 |                   |                    |   
-| 10:00-10:30 |                   |                    |   
-| 10:30-11:00 |                   |                    |   
+| 10:00-10:30 | **NOT AVAILABLE** |                    |   
+| 10:30-11:00 | **NOT AVAILABLE** |                    |   
 | 11:00-11:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 11:30-12:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 12:00-12:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
