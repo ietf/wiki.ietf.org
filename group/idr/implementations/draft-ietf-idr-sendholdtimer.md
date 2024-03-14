@@ -2,7 +2,7 @@
 title: SendHoldTimer implementation reports
 description: Implementation reports for draft-ietf-idr-sendholdtimer
 published: true
-date: 2024-03-13T21:27:34.009Z
+date: 2024-03-14T00:07:19.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-18T20:30:49.442Z
@@ -23,7 +23,8 @@ One way to trigger the SendHoldTimer is to reply to each packet with a TCP-recv-
 
 Tested against `bgp-zerowindow-test`.
 
-https://github.com/openbsd/src/commit/ab9b1ccdd3ae2f6b9b7be622908bbd31ddeef78a
+SendHoldTimer event implementation https://github.com/openbsd/src/commit/ab9b1ccdd3ae2f6b9b7be622908bbd31ddeef78a
+IANA code addition: https://github.com/openbsd/src/commit/66500b2f7772472127e272da950033189f1a648e
 
 ## FRR
 
@@ -37,6 +38,7 @@ https://github.com/FRRouting/frr/pull/12142
 Tested against both `bgp-zerowindow-test` and BIRD's own `disable rx` option.
 
 https://gitlab.nic.cz/labs/bird/-/commit/bcf2327425d4dd96f381b87501cccf943bed606e
+IANA code addition https://gitlab.nic.cz/labs/bird/-/commit/44a16bff6cbf3f5ae8db21ffcec602bc51295d0a
 
 ## BGP.Tools neo-bgp
 
