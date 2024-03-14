@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-13T23:28:18.682Z
+date: 2024-03-14T10:28:44.668Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -306,7 +306,7 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/
 	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
 - **Repositories**
-  Github repo will be provided soon  
+  Github repo: https://github.com/vriccobene/antagonist
   
 ---
 
