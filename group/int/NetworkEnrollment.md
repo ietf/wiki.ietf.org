@@ -2,13 +2,13 @@
 title: Network Enrollment
 description: 
 published: true
-date: 2022-12-15T05:53:02.611Z
+date: 2024-03-15T06:09:05.790Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-15T05:48:32.272Z
 ---
 
-Some of the IETF enrollment efforts are documented at: [EnrollmentRoadmap](/group/int/EnrollmentRoadmap) 
+Some of the IETF enrollment efforts are documented at: [EnrollmentRoadmap](/group/iotdir/EnrollmentRoadmap) 
 
 &nbsp;
 &nbsp;
