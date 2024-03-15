@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-14T22:45:24.840Z
+date: 2024-03-15T04:22:47.369Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -508,7 +508,40 @@ The challenge lies in balancing these rights to ensure that AI development is bo
   - Specs https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing
 ---
 
-project description
+### IBN-Network-Management for Software-Defined Vehicles (SDVs)
+- **Champions**
+Jaehoon Paul Jeong (pauljeong at skku.edu)
+Yiwen Chris Shen (chrisshen at skku.edu)
+Younghan Kim (younghak at ssu.ac.kr)
+
+- **Participants**
+Yoseop Ahn (ahnjs124 at skku.edu)
+Mose Gu (rna0415 at skku.edu)
+
+- **Project Info**
+Software-Defined Vehicle (SDV) is a new player towards autonomous
+vehicles in Intelligent Transportation Systems (ITS).  An SDV is
+constructed by a software platform like a cloud-native system and 
+has its internal network.  To facilitate the easy and efficient 
+configuration of networks in the SDV, an intent-based
+management is an appropriate direction.  This project explores a
+framework of intent-based management for networks, security, and
+applications in SDVs so that they can communicate with other SDVs and
+infrastructure nodes for safe driving and infotainment services in
+the road networks.
+- **Internet Drafts**
+https://datatracker.ietf.org/doc/draft-yang-i2nsf-security-policy-translation/
+https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/
+
+- **Youtube Demo**
+https://youtube.com/playlist?list=PLSd4MXSO7VifHLtETuyffZtsEAb6ed_Lq&si=NpfvCX-4Il4RLggh
+
+- **Github**
+https://github.com/jaehoonpauljeong/IBN-Network-Management/tree/main
+
+
+
+---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
