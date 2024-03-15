@@ -2,7 +2,7 @@
 title: IETF 119 Departure Coordination
 description: 
 published: true
-date: 2024-03-11T19:00:57.995Z
+date: 2024-03-15T15:31:43.383Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T00:20:00.505Z
@@ -29,7 +29,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 10:30am | UA97 | Lixia Zhang | lixia@cs.ucla.edu | BNE |  INT |  Rydges South Bank | plan to take train |
 |      |        |      |       |         |          |             |       |
 
 ## Saturday, March 23, 2024
