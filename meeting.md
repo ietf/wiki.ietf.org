@@ -63,7 +63,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 ### Prior Meetings
 
-Meeting Wikis prior to IETF 101 are [here](https://www.ietf.org/registration/MeetingWiki/wiki/). 
+Meeting Wikis prior to IETF 101 are [here](https://web.archive.org/web/20230913022211/https://www.ietf.org/registration/MeetingWiki/wiki/). 
 
 Attachments:
 [omni.ics](/omni.ics)
