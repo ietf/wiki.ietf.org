@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-15T19:18:24.103Z
+date: 2024-03-15T23:31:57.915Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -560,7 +560,18 @@ There is work on "preferred serialization" too.
 The QCBOR implementation is in PRs here: https://github.com/laurencelundblade/QCBOR/pulls.
 In particular, test vectors are at the end here (search for "conformance") https://github.com/laurencelundblade/QCBOR/blob/dcbor-decode/test/qcbor_decode_tests.c
 
-
+### Ultra-Low Latency Cryptography
+- **Champion(s)**
+  - Yumi Sakemi (yumi.sakemi@gmo-cybersecurity.com)
+  - Satoru Kanno (satoru.kanno@gmo-cybersecurity.com)
+- **Project Info**
+  - In future communication technologies such as 6G, there are technical requirements that demand ultra-low latency and high levels of security. So, the purpose of this project is to achieve low-latency and highly secure cryptographic techniques targeting future communication technologies.
+  - TBD
+  - Paper at https://tches.iacr.org/index.php/TCHES/article/view/10279/9727
+  - We are currently recruiting collaborators who will join us in this project.
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-sakemi-areion/
+  	- Work in progress
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
