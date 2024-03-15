@@ -2,7 +2,7 @@
 title: IETF 119 Arrival Coordination
 description: 
 published: true
-date: 2024-03-13T10:48:29.293Z
+date: 2024-03-15T15:21:46.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T23:36:45.909Z
@@ -39,7 +39,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 6:30am | UA 96 | Lixia Zhang | lixia@cs.ucla.edu | BNE |  INT  |  Rydges South Bank | Plan on Airtrain |
 |      |        |      |       |         |          |             |       |
 
 ## Monday, March 18, 2024
