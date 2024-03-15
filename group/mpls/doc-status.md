@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-12T16:50:25.868Z
+date: 2024-03-15T21:08:02.045Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -79,7 +79,6 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
-| 2024-03-05 | [draft-ietf-mpls-egress-tlv-for-nil-fec](https://datatracker.ietf.org/doc/draft-ietf-mpls-egress-tlv-for-nil-fec/) | Discussion and updates for last call comments completed. Pending shepherd write-up | Tarek |
 
 ## Post Working Group Last Call
 
