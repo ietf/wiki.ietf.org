@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-15T05:55:36.865Z
+date: 2024-03-15T21:02:12.629Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -85,7 +85,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC |  maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-tue.ics](/119/skex-tue.ics) |
+| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC |  maelmans@juniper.net <br/> manfred.skex119@qubridge.io | Addressing shortcomings in the standardization of Symmetric Key Exchange interfaces and protocols | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-tue.ics](/119/skex-tue.ics) |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge. Agenda/material: https://github.com/communication-compute-exposure/ietf-side-meetings/tree/main/ietf-119-side-meeting | https://ietf.webex.com/meet/ietfsidemeeting2 | [information-exposure-dge.ics](/ietfsidemeetinginformationexposureforedgecomputing.ics) |
 | 18:30 - 20:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
@@ -100,7 +100,7 @@ Please keep the tables sorted by meeting by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 | M9 | QUIC on streams | WIT | lucas@lucaspardue.com | https://datatracker.ietf.org/doc/html/draft-kazuho-quic-quic-on-streams | TBD | TBD |
-| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | New proposed harmonization | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-wed.ics](/119/skex-wed.ics) |
+| 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | Addressing shortcomings in the standardization of Symmetric Key Exchange interfaces and protocols | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-wed.ics](/119/skex-wed.ics) |
 | 15:00-16:30 | M9 | SDVNM: Software-Defined Vehicle Network Management | TBD | pauljeong@skku.edu <br/> chrisshen@skku.edu | Discuss the Problem Statement, Use Cases, and Framework for SDVNM BoF | https://us02web.zoom.us/j/87419619218?pwd=QUhxSlFaNnpuQ0ljRFFaR0VDUWFGZz09 | TBD |
 | 16:00-17:30    | P6-7 | Large Language Model(LLM) for Networking  | OPS/SEC  | xiexiaohui@tsinghua.edu.cn gaoyj@zgclab.edu.cn  |  Disscussion on the potential of LLMs in the networking domain |  https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | https://ietf.webex.com/meet/ietfsidemeeting2   | TBD  |
