@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-15T07:15:44.577Z
+date: 2024-03-15T19:18:24.103Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -548,6 +548,17 @@ The Dynamic Orbital Communication Adjustment Protocol (DOCAP) optimizes space co
 
 - **Discussion**
 Discord (https://discord.gg/jPAcfMKm)
+
+### CBOR Deterministic Serialization
+- **Champions**
+Laurence Lundblade <lgl@island-resort.com>
+- **Project Info**
+This is implementation and test vector work for recent CBOR drafts specifying 
+CDE (https://datatracker.ietf.org/doc/draft-ietf-cbor-cde/) and dCBOR (https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/).
+There is work on "preferred serialization" too.
+
+The QCBOR implementation is in PRs here: https://github.com/laurencelundblade/QCBOR/pulls.
+In particular, test vectors are at the end here (search for "conformance") https://github.com/laurencelundblade/QCBOR/blob/dcbor-decode/test/qcbor_decode_tests.c
 
 
 ---
