@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-14T19:12:42.170Z
+date: 2024-03-15T05:55:36.865Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -34,7 +34,7 @@ This wiki page is used to book the side meeting rooms and share details of the t
 
 ## IETF 119 special considerations
 
-* To begin, lunch slots are blocked off in case these rooms are needed for other IETF meetings and events. The week of March 11, some lunch slots will be opened up if they are available for side meetings.
+
 
 * Side meeting dates and times should be listed in Brisbane local time, UTC+10 (Please note that Europe and the USA enter Daylight Savings at different times before and after the meeting, so pay attention to your time zones!). For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
 
