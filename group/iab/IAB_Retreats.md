@@ -2,7 +2,7 @@
 title: IAB Retreats
 description: 
 published: true
-date: 2024-03-16T01:00:40.012Z
+date: 2024-03-16T01:00:47.810Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T23:11:51.815Z
@@ -26,5 +26,3 @@ dateCreated: 2023-11-29T23:11:51.815Z
 &nbsp;
 
 ---
-
-*The content of this page was last updated on 2023-04-18. It was migrated from the old IAB wiki on 2023-11-29.*
