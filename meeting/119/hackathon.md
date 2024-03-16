@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-16T00:28:20.443Z
+date: 2024-03-16T00:45:22.316Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -448,8 +448,9 @@ Discuss the current deleg draft <https://github.com/fl1ger/deleg> as well as all
 ### RPKI ASPA rpki-rtr support
 - **Champions**
 	- Tom Harrison <tomh@apnic.net>
-  - George Michaelson <ggm@apnic.net>
   - Zen Chai <zchai@apnic.net>
+  - Rafael Cintra <rafael@apnic.net>
+  - Beau Gieskens <beau@apnic.net>
 - **Project Info**
   - Proof of concept updates for draft-ietf-sidrops-8210bis.
 - **Specifications**
