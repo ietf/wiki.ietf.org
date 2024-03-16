@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-03-07T16:44:48.991Z
+date: 2024-03-16T01:02:58.663Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -24,7 +24,10 @@ TBD
 
 ### Location 
 
-TBD -- (02/22/2024) With the date decided, venue are being checked.  It will somewhere in Europe
+Central Saint Giles
+1 St Giles High St
+London
+WC2H 8AG
 
  
 ### Covid Information 
