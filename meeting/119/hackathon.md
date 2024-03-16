@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-15T23:31:57.915Z
+date: 2024-03-16T00:28:20.443Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -18,9 +18,9 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 **Sponsored by**
 
-| Gold Running Code Sponsor  | Bronze Running Code Sponsors | 
+| Gold Running Code Sponsor  | Silver Running Code Sponsor | Bronze Running Code Sponsors | 
 |:---:|:---:|:---:|
-| ![Ericsson](/eri_vertical_rgb.max-120x74.png) | ![ICANN](/icann_primary_logo_cmyk_noeyywh.max-120x74.jpg) ![cnnic-logo-sm2.png](/hackathon/cnnic-logo-sm2.png)|
+| ![Ericsson](/eri_vertical_rgb.max-120x74.png) |![meta_logo.png](/hackathon/meta_logo.png) | ![ICANN](/icann_primary_logo_cmyk_noeyywh.max-120x74.jpg) ![cnnic-logo-sm2.png](/hackathon/cnnic-logo-sm2.png)|
 
 
 **Sign up for the Hackathon**
