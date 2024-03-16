@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-16T05:56:23.578Z
+date: 2024-03-16T06:01:08.275Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -151,6 +151,7 @@ Location: P5 on the Plaza level
 
 * 14:00-15:00 TSV AD Office Hours
 * 15:00-16:00 Rob/Mahesh sync up (Rob W)
+* 16:00-16:15 Rob/Mahesh/Suresh, Green networking (Rob W)
 
 ## Monday, 18 March 2024
 
