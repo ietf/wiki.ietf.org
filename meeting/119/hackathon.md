@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-16T00:48:33.495Z
+date: 2024-03-16T01:29:58.909Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -585,6 +585,21 @@ In particular, test vectors are at the end here (search for "conformance") https
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-sakemi-areion/
   	- Work in progress
+    
+### Where does IETF Work Come From and Where does the IETF Go?
+- **Champion(s)**
+  - Benson Muite (benson_muite at emailplus dot org)
+- **Project Info**
+  - Use information in the data tracker to find geospatial distribution of IETF participants.
+  - Find out what could help give a partially data driven approach to finding suitable candidate meeting locations.
+  - Code at https://codeberg.org/bkmgit/meeting-locations/src/branch/main/code
+- **Specifications**
+	- https://www.rfc-editor.org/rfc/rfc8719.html
+  	- May need to be revised
+
+- **Discussion**
+Contact by email, and/or raise issues associated with the code in the [repository](https://codeberg.org/bkmgit/meeting-locations/src/branch/main/code)
+
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
