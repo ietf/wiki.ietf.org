@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-16T00:45:22.316Z
+date: 2024-03-16T00:48:33.495Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -275,6 +275,18 @@ DNSSEC-signed and unsigned) and parent zones.
   
 - **Repositories**
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
+----
+
+----
+### Compact denial of existence for DNSSEC
+- **Champions**
+  - Shumon Huque
+- **Project Info**
+Add CDE (Compact Denial of Existence) to authoritative name servers. On of them will be [Drink](https://framagit.org/bortzmeyer/drink/)
+    
+- **Specifications**
+  - [draft-ietf-dnsop-compact-denial-of-existence](https://tools.ietf.org/html/draft-ietf-dnsop-compact-denial-of-existence)
+  
 ----
 ### SAV Open Playground
 - **Champions**
