@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-13T17:53:00.833Z
+date: 2024-03-16T05:56:23.578Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -59,13 +59,13 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf119/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite119/?session=1001
 
-- Choosing the IESG liaisons (IAB, NOMCOM, Tools, EODIR, Comms, TDD, RSAB, LLC) (IESG only, 30 min)
-- Choosing iesg list admins (IESG only, 5 min)
-- Reviewing WGs whose charters say they are an experiment, MOPS and PQUIP (Éric, Roman, 15 min)
-- AD balloting expectations (Lars/Roman, 15 min)
-- IESG discussion on the viability of an IETF meeting in China (Lars, 30 min)
-- Should IANA YANG Modules be published in RFCs or elided at publication time. Rob (Needs IANA to be present + IESG + maybe IAB, 10 min)
-- Flextime (20 min)
+    > - Choosing the IESG liaisons (IAB, NOMCOM, Tools, EODIR, Comms, TDD, RSAB, LLC) (IESG only, 30 min)
+    > - Choosing iesg list admins (IESG only, 5 min)
+    > - Reviewing WGs whose charters say they are an experiment, MOPS and PQUIP (Éric, Roman, 15 min)
+    > - AD balloting expectations (Lars/Roman, 15 min)
+    > - IESG discussion on the viability of an IETF meeting in China (Lars, 30 min)
+    > - Should IANA YANG Modules be published in RFCs or elided at publication time. Rob (Needs IANA to be present + IESG + maybe IAB, 10 min)
+    > - Flextime (20 min)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: P6-7
 
