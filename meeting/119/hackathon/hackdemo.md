@@ -2,7 +2,7 @@
 title: IETF 119 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-03-11T15:10:52.445Z
+date: 2024-03-16T00:47:04.892Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-02-06T14:51:20.299Z
@@ -19,6 +19,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
+|NMRG 5G Intent-Based Network Management|Jaehoon Paul Jeong| pauljeong@skku.edu|https://datatracker.ietf.org/doc/html/draft-jeong-nmrg-ibn-network-management-automation-03|
 |   |   |   |   |
 |   |   |   |   |
