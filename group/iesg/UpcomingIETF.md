@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-16T06:01:08.275Z
+date: 2024-03-16T23:25:13.042Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -66,6 +66,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     > - IESG discussion on the viability of an IETF meeting in China (Lars, 30 min)
     > - Should IANA YANG Modules be published in RFCs or elided at publication time. Rob (Needs IANA to be present + IESG + maybe IAB, 10 min)
     > - Flextime (20 min)
+    > - (time time allows) Draft black-out period (Roman)
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: P6-7
 
