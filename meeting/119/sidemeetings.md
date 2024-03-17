@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-17T14:37:54.140Z
+date: 2024-03-17T21:59:47.802Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -275,11 +275,11 @@ Location: Plaza Level
 | 13:30-14:00 |                   |                   | 
 | 14:00-14:30 |  Peering API      | More MPC for Measurement |  
 | 14:30-15:00 |  Peering API      | More MPC for Measurement | 
-| 15:00-15:30 |                   | ICT for green multi-modal transportation |  
-| 15:30-16:00 |                   | ICT for green multi-modal transportation |   
-| 16:00-16:30 |                   | ICT for green multi-modal transportation |   
-| 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
+| 15:00-15:30 |                   |  |  
+| 15:30-16:00 |                   |  |   
+| 16:00-16:30 |                   |  |   
+| 16:30-17:00 |                   | ICT for green multi-modal transportation                  |   
+| 17:00-17:30 |                   | ICT for green multi-modal transportation                   |   
 | 17:30-18:00 |                   |                    |   
 | 18:00-18:30 |                   |                    |   
 | 18:30-19:00 | CCAMP WG: TNBI DT |  APN               |   
