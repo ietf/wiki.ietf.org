@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-16T08:26:29.025Z
+date: 2024-03-17T00:52:24.663Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -565,6 +565,10 @@ https://github.com/jaehoonpauljeong/IBN-Network-Management/tree/main
 ### Dynamic Orbit Communication Protocol (DOCAP)
 - **Champions**
 Yoshiki Uchida (uchiyoshi@sfc.wide.ad.jp)
+
+- **Participants**
+Ryuto Hisamoto (ryutology2030@duck.com)
+
 
 - **Project Info**
 The Dynamic Orbital Communication Adjustment Protocol (DOCAP) optimizes space communication by using heartbeat messages from orbital nodes like spacecraft to dynamically adjust communication margins based on speed and acceleration. The protocol currently sets a fixed MAX_SPEED_MPH (the assumed maximum speed), which may not reflect actual speed variations due to orbital maneuvers. To enhance communication efficiency and reliability, DOCAP aims to dynamically update MAX_SPEED_MPH based on real-time heartbeat data, ensuring accurate communication adjustments in the dynamic space environment. These topics will be discussed during the Hackathon.
