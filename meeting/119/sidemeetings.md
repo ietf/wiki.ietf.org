@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-17T14:31:38.606Z
+date: 2024-03-17T14:33:04.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -73,7 +73,7 @@ Please keep the tables sorted by meeting by time.
 |    7:00-7:05 | M9 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
 |  |
 | 14:00 - 15:00 | P6-7 | Update on Universal Name System (UNS) and Universal Certificate Authority (UCA) | SEC  | manu@hushmesh.com  | Update since IETF118 |   |  |
-| 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 https://github.com/CCO-IETF/ietf119-side-meeting/| [cco-ietf119.ics](/119/cco-ietf119.ics) |
+| 15:00 - 16:00 | P6-7 | CCO(Collective Communication Optimization) for AI Networking | WIT,RTG,OPS | yaokehan@chinamobile.com, liyizhou@huawei.com | Introduce technologies like In-network aggregation and IP multicasting to optimize Collective Communication, the basic communication pattern in AI model training and inference. | https://ietf.webex.com/meet/ietfsidemeeting2 https://github.com/CCO-IETF/ietf119-side-meeting/| [cco-ietf119-updated.ics](/119/cco-ietf119-updated.ics) |
 | 17:00 - 18:30 | P6-7 | Update on AI4NET work: More research and standard work will be shared | GEN,RTG,OPS  | c.l@huawei.com, chengweiqiang@chinamobile.com  | focusing on the topics of using AI for network, more professors and researchers will share the latest work. Presentations are welcome. |https://ietf.webex.com/meet/ietfsidemeeting2.|TBD
 | 18:30 - 20:00 | M9 | IVY WG: Terminology | OPS | italo.busi@huawei.com | Discuss Terminology issues with network inventory and refine the scope of the IVY WG work |   |  |
 |     |  |   |   |   |   |   |  |
