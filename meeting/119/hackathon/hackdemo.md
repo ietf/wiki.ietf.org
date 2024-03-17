@@ -2,7 +2,7 @@
 title: IETF 119 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-03-16T00:54:47.147Z
+date: 2024-03-17T03:20:22.176Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-02-06T14:51:20.299Z
@@ -21,5 +21,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |---|---|---|---|
 |NMRG 5G Intent-Based Network Management|Jaehoon Paul Jeong|pauljeong@skku.edu| https://github.com/jaehoonpauljeong/IBN-Network-Management/tree/main https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/|
 | PQC in X.509   | Mike Ounsworth   | mike.ounsworth@entrusc.com  | https://github.com/ietf-hackathon/pqc-certificates   |
-|   |   |   |   |
+| HTTP Signature Authentication  |  David Oliver |  david@guardianproject.info |  https://datatracker.ietf.org/doc/draft-ietf-httpbis-unprompted-auth/  |
 |   |   |   |   |
