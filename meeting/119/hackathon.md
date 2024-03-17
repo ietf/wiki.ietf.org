@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-17T00:52:24.663Z
+date: 2024-03-17T03:17:01.080Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -613,6 +613,18 @@ In particular, test vectors are at the end here (search for "conformance") https
 
 - **Discussion**
 Contact by email, and/or raise issues associated with the code in the [repository](https://codeberg.org/bkmgit/meeting-locations/src/branch/main/code)
+### The HTTP Signature Authentication Scheme
+- **Champions**
+David Oliver david@guardianproject.info
+- **Participants**
+David Oliver david@guardianproject.info
+Abel Luck abel@guardianproject.info
+François Michel francois.michel@uclouvain.be
+David Schinazi dschinazi.ietf@gmail.com
+- **Project Info**
+Existing HTTP authentication schemes are probeable in the sense that it is possible for an unauthenticated client to probe whether an origin serves resources that require authentication. HTTP Signature Authentication proposes a new non-probeable cryptographic authentication scheme. See https://datatracker.ietf.org/doc/draft-ietf-httpbis-unprompted-auth/.
+
+Our hackathon project is the first interoperability test between independent implementations of the specification.
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
