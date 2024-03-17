@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-17T01:02:11.352Z
+date: 2024-03-17T04:29:52.017Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -101,7 +101,7 @@ Please keep the tables sorted by meeting by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 08:30-09:30 | M9 | QUIC on streams | WIT | lucas@lucaspardue.com | https://datatracker.ietf.org/doc/html/draft-kazuho-quic-quic-on-streams | TBD | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | Addressing shortcomings in the standardization of Symmetric Key Exchange interfaces and protocols | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-wed.ics](/119/skex-wed.ics) |
-| 15:00-16:30 | M9 | SDVNM: Software-Defined Vehicle Network Management | TBD | pauljeong@skku.edu <br/> chrisshen@skku.edu | Discuss the Problem Statement, Use Cases, and Framework for SDVNM BoF | https://us02web.zoom.us/j/87419619218?pwd=QUhxSlFaNnpuQ0ljRFFaR0VDUWFGZz09 | TBD |
+| 15:00-16:30 | M9 | MONM: Mobile Object Network Management | TBD | pauljeong@skku.edu <br/> chrisshen@skku.edu | Discuss the Problem Statement, Use Cases, and Framework for MONM BoF | https://us02web.zoom.us/j/87419619218?pwd=QUhxSlFaNnpuQ0ljRFFaR0VDUWFGZz09 | TBD |
 | 16:00-17:30    | P6-7 | Large Language Model(LLM) for Networking  | OPS/SEC  | xiexiaohui@tsinghua.edu.cn gaoyj@zgclab.edu.cn  |  Disscussion on the potential of LLMs in the networking domain |  https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | https://ietf.webex.com/meet/ietfsidemeeting2   | TBD  |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | https://ietf.webex.com/meet/ietfsidemeeting2 https://github.com/liuchunchi/nasr_side_meeting | [nasr_side_meeting.ics](/nasr_side_meeting.ics) |
@@ -243,9 +243,9 @@ Location: Plaza Level
 | 13:30-14:00 | **NOT AVAILABLE** |                  | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
-| 15:00-15:30 | SDVNM BoF         | skex               |  
-| 15:30-16:00 | SDVNM BoF         | skex               |   
-| 16:00-16:30 | SDVNM BoF         | LLM for networking |   
+| 15:00-15:30 | MONM BoF         | skex               |  
+| 15:30-16:00 | MONM BoF         | skex               |   
+| 16:00-16:30 | MONM BoF         | LLM for networking |   
 | 16:30-17:00 |                   | LLM for networking |   
 | 17:00-17:30 |                   | LLM for networking |   
 | 17:30-18:00 |                   | NMRG IBN use cases |   
