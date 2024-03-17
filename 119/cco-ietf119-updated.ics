@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:E. Australia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240317T141754Z
+DESCRIPTION:CCO side meeting in IETF 119\nRoom: P6-7\nTime: 15:00-16:00 Mon
+	day (March 18\, 2024)\, Brisbane (AEDT)\nWebex Link: https://ietf.webex.co
+	m/meet/ietfsidemeeting2\n<https://ietf.webex.com/meet/ietfsidemeeting2> \n
+	Info: https://github.com/CCO-IETF/ietf119-side-meeting/\n \nA continuation
+	 of CCO side meeting from IETF 118. \nTo refresh and update the requiremen
+	ts\, analysis and new technologies\nto optimize collective communications 
+	and to explore some usage\nexpansion like data consistency to leverage in-
+	network computing\ncapabilities.\n
+DTEND;TZID="E. Australia Standard Time":20240318T160000
+DTSTAMP:20240311T021341Z
+DTSTART;TZID="E. Australia Standard Time":20240318T150000
+LAST-MODIFIED:20240317T141754Z
+LOCATION:P6-7
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=zh-cn:CCO(Collective Communication Optimization) Side Meet
+	ing in IETF 119
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000509B61129C73DA01000000000000000
+	010000000FA9A180814D7AE4BB5A76B533B55EE62
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.10407.20032">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/plain format -->\n\n<P><FONT SIZE=2>CCO side meeting in IETF 11
+	9</FONT>\n\n<BR><FONT SIZE=2>Room: P6-7</FONT>\n\n<BR><FONT SIZE=2>Time: 1
+	5:00-16:00 Monday (March 18\, 2024)\, Brisbane (AEDT)</FONT>\n\n<BR><FONT 
+	SIZE=2>Webex Link: <A HREF="https://ietf.webex.com/meet/ietfsidemeeting2">
+	https://ietf.webex.com/meet/ietfsidemeeting2</A></FONT>\n\n<BR><FONT SIZE=
+	2>&lt\;<A HREF="https://ietf.webex.com/meet/ietfsidemeeting2">https://ietf
+	.webex.com/meet/ietfsidemeeting2</A>&gt\; </FONT>\n\n<BR><FONT SIZE=2>Info
+	: <A HREF="https://github.com/CCO-IETF/ietf119-side-meeting/">https://gith
+	ub.com/CCO-IETF/ietf119-side-meeting/</A></FONT>\n\n<BR><FONT SIZE=2>&nbsp
+	\;</FONT>\n\n<BR><FONT SIZE=2>A continuation of CCO side meeting from IETF
+	 118. </FONT>\n\n<BR><FONT SIZE=2>To refresh and update the requirements\,
+	 analysis and new technologies</FONT>\n\n<BR><FONT SIZE=2>to optimize coll
+	ective communications and to explore some usage</FONT>\n\n<BR><FONT SIZE=2
+	>expansion like data consistency to leverage in-network computing</FONT>\n
+	\n<BR><FONT SIZE=2>capabilities.</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
