@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-17T03:34:22.957Z
+date: 2024-03-17T11:04:02.761Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -507,7 +507,7 @@ The challenge lies in balancing these rights to ensure that AI development is bo
 
 ---
 
-### Formal Analysis of Attested TLS
+### Formal Analysis of Attested TLS for Confidential Computing
 - **Champions**
 
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
@@ -515,17 +515,13 @@ The challenge lies in balancing these rights to ensure that AI development is bo
 - **Project Info**
 	
   - 3 main ways to combine attestation in TLS
-    - Pre-handshake attestation
+    - Pre-handshake attestation ([Overview slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf))
     - Intra-handshake attestation ([IETF draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
-    - Post-handshake attestation
-  - We are currently recruiting collaborators who will join us in this project. If you are interested, please contact by email. 
+    - Post-handshake attestation ([Project proposal](https://github.com/CCC-Attestation/governance/issues/13))
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. If you are interested, please contact by email. 
   - Tool for formal analysis: ProVerif
 
-- **Overview presentation** 
-
-	- [Slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf) focusing on pre-handshake attestation (Intel's RA-TLS protocol)
-
-- **Attestation**
+- **Background on Attestation**
 
 	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
   - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
