@@ -2,7 +2,7 @@
 title: IETF 119 Hackathon
 description: 
 published: true
-date: 2024-03-17T03:33:07.386Z
+date: 2024-03-17T03:34:22.957Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-01-16T23:52:26.011Z
@@ -531,7 +531,7 @@ The challenge lies in balancing these rights to ensure that AI development is bo
   - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
 ---
 
-### IBN-Based Mobile Object Network Mangement
+### Mobile Object Network Mangement
 - **Champions**
 Jaehoon Paul Jeong (pauljeong at skku.edu)
 Yiwen Chris Shen (chrisshen at skku.edu)
