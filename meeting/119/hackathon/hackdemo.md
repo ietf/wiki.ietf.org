@@ -2,7 +2,7 @@
 title: IETF 119 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-03-17T03:34:32.731Z
+date: 2024-03-17T21:47:53.976Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-02-06T14:51:20.299Z
@@ -22,4 +22,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |Mobile Object Network Mangement|Jaehoon Paul Jeong|pauljeong@skku.edu| https://github.com/jaehoonpauljeong/IBN-Network-Management/tree/main https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/|
 | PQC in X.509   | Mike Ounsworth   | mike.ounsworth@entrusc.com  | https://github.com/ietf-hackathon/pqc-certificates   |
 | HTTP Signature Authentication  |  David Oliver |  david@guardianproject.info |  https://datatracker.ietf.org/doc/draft-ietf-httpbis-unprompted-auth/  |
+|  Generating Fake Conversations | Thomas McCarthy-Howe  |  ghostofbasho@gmail.com |  https://datatracker.ietf.org/doc/draft-petrie-vcon/ https://github.com/vcon-dev/vcon_faker https://vcon-faker.streamlit.app/ |
 |   |   |   |   |
+
+
