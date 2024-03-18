@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-03-11T12:30:36.957Z
+date: 2024-03-18T07:01:09.870Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -84,14 +84,6 @@ This table collects the various IETF outreach activities done by individuals to 
 
 ## Outreach Volunteers
 
-Reach out to the EODIR mailing list if you need help with an outreach activity. You can also reach out to [Dhruv](mailto:dhruv.ietf@gmail.com) directly. Please add your name below if you would like to volunteer and help out in the IETF outreach activities. 
-
-- Dhruv Dhody (overall, regional)
-- Charles Eckel (Hackathon, 3GPP related)
-- Mallory Knodel (Policy)
-
-
-## Others
-
+Reach out to the EODIR mailing list if you need help with an outreach activity. You can also reach out to [Dhruv](mailto:dhruv.ietf@gmail.com) directly. 
 
 
