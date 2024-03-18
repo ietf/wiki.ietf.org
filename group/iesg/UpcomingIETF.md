@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-03-16T23:29:16.531Z
+date: 2024-03-18T05:07:07.501Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -165,6 +165,7 @@ Available starting at 11:30 AM**
 * TIME - ACTIVITY
 
 * 11:45-12:45 ART AD Office Hour (Orie & Murray)
+* 15:00-15:30 HTTP Notif draft. (Rob W/Mahesh/MNot)
 * 15:30-17:00 Rob/Mahesh hand over. (Rob W)
 
 ## Wednesday, 20 March 2024
