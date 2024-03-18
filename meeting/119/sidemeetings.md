@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-18T22:56:28.829Z
+date: 2024-03-18T23:07:52.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -87,7 +87,7 @@ Please keep the tables sorted by meeting by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC |  maelmans@juniper.net <br/> manfred.skex119@qubridge.io | Addressing shortcomings in the standardization of Symmetric Key Exchange interfaces and protocols | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-tue.ics](/119/skex-tue.ics) |
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge. Agenda/material: https://github.com/communication-compute-exposure/ietf-side-meetings/tree/main/ietf-119-side-meeting | https://ietf.webex.com/meet/ietfsidemeeting2 | [information-exposure-dge.ics](/ietfsidemeetinginformationexposureforedgecomputing.ics) |
-| 18:30 - 20:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
+| 18:30 - 20:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements Agenda: https://github.com/xiongquan1230/IETF119-Sidemeeting | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:30 - 17:00    | M9 |  Schedule YANG Discussion |  OPS, RTG |  yingzhen.ietf@gmail.com |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -106,7 +106,7 @@ Please keep the tables sorted by meeting by time.
 | 17:30-18:30    | P6-7  | NMRG IBN Use cases  | IRTF  | Laurent Ciavaglia, Jerome Francois, nmrg-chairs@ietf.org  | Discussion on possible outputs and follow-ups of IBN use cases document   | https://ietf.webex.com/meet/ietfsidemeeting2   | TBD  |
 | 18:30-20:00 | P6-7 | NASR | RTG/SEC | liuchunchi@huawei.com chenmeiling@chinamobile.com diego.r.lopez@telefonica.com | Network Attestation For Secure Routing | https://ietf.webex.com/meet/ietfsidemeeting2 https://github.com/liuchunchi/nasr_side_meeting | [nasr_side_meeting.ics](/nasr_side_meeting.ics) |
 | 18.00-18:30 | M9 | 6gip | INT | Roland.Schott@telekom.de sarikaya@ieee.org | AI/ML Networking for 6G | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-| 18:30 - 20:00 | M9 | CCAMP WG: WDM Pluggable | RTG | italo.busi@huawei.com | Discuss Use Cases and Gap Analysis for WDM pluggable interfaces |   |  |
+| 18:30 - 20:00 | M9 | CCAMP WG: WDM Pluggable | RTG | italo.busi@huawei.com | Discuss Use Cases and Gap Analysis for WDM pluggable interfaces | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -124,7 +124,7 @@ Please keep the tables sorted by meeting by time.
 | 16:30-17:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | (1) Omni: an AI-powered App to make everybody's travel easier & greener (2) collaboration on Omni| https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
 | 17:00-18:00    | M9 | HTTP QUERY | WIT | mnto@mnot.net | design team on HTTP QUERY | TBD | TBD |
-| 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
+| 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
