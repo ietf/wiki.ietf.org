@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2024-02-29T19:27:59.478Z
+date: 2024-03-18T03:29:56.977Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -32,20 +32,25 @@ dateCreated: 2022-07-23T19:21:39.664Z
 ## IESG roles
 | IESG Liaisons | Group  |
 |---|---|
-| Roman D.  | IAB  |
-| John S.  | NomCom |
-| Éric V. and Warren K. |  Tools Team|
-| Warren K. and  Paul W. | EODIR  |
-|Warren, Martin, Roman, John, Zahed	   |  Comms Review |
-|Warren	   |  TDD |
+| John | IAB  |
+| Orie | NomCom |
+| Éric V., Paul, Warren |  Tools Team|
+| Warren, Deb | EODIR  |
+| Warren |  TDD |
+| Roman | RSAB |
+| Roman | LLC Board |
+| Roman Paul | IETF-IANA ASG (IAB Program) |
+| Warren, Zahed | IAB-ISOC Policy Coordination Group |
+
 {.dense}
 
 
 ## IESG mailing List 
 |Admins|
 |---|
-|  Murray Kucherawy |
-| Roman Danyliw |
+| Gunter Van de Velde |
+| Mahesh Jethanandani |
+| Murray Kucherawy |
 | The Secretariat  |
 {.dense}
 
