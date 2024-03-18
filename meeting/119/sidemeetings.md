@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-18T05:16:56.645Z
+date: 2024-03-18T05:31:11.069Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -120,7 +120,7 @@ Please keep the tables sorted by meeting by time.
 | 11:30-13:00 | M9 | TPM Tutorial  | SEC |  hannes.tschofenig@gmail.com monty.wiseman@beyondidentity.com | Tutorial on Trusted Plateform Modules | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 9:30-11:00 | P6-7 | IPv6 operations for enterprises | Ops | xipengxiao@gmail.com | (1) George Dilger, How Dell meets IPv6 certification requirement of USG, 40m (2) Nalini Elkins, Vanessa, Kavya et al, Migration Strategies for Enterprises (30 minutes), eBPF & EH (10 min), IPv6 over BlueTooth (10 min) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |14:00-15:00 |M9  | Peering API | OPS | ramseyer@meta.com  | Discuss Peering API Draft  | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-|14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | TBD | TBD |
+|14:00-15:00 |P6-7 | More MPC for Measurement | SEC | mt@lowentropy.net  | Look at advanced use of MPC in measurement (incl. ads) | [as above](https://ietf.webex.com/meet/ietfsidemeeting2) | TBD |
 | 16:30-17:30 | P6-7 | ICT for green multi-modal transportation | Green | xipengxiao@gmail.com | (1) Omni: an AI-powered App to make everybody's travel easier & greener (2) collaboration on Omni| https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |18:30-20:00     |P6-7|APN: Application Aware Networking|RTG|gengxuesong@huawei.com|APN update and deployment|TBD|TBD|
 | 18:30 - 20:00 | M9 | CCAMP WG: TNBI DT | RTG | italo.busi@huawei.com | TNBI DT open meeting |   |  |
