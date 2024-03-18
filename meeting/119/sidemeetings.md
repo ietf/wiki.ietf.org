@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-18T08:08:35.184Z
+date: 2024-03-18T22:56:28.829Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -89,7 +89,7 @@ Please keep the tables sorted by meeting by time.
 | 17:00-18:30 | P6-7 | Information Exposure for Edge Computing | RTG, TSV, OPS | jros@qti.qualcomm.com roland.schott@telekom.de sabine.randriamasy@nokia-bell-labs.com luismiguel.contrerasmurillo@telefonica.com,  | Exposure of Network and Compute Information for the Edge. Agenda/material: https://github.com/communication-compute-exposure/ietf-side-meetings/tree/main/ietf-119-side-meeting | https://ietf.webex.com/meet/ietfsidemeeting2 | [information-exposure-dge.ics](/ietfsidemeetinginformationexposureforedgecomputing.ics) |
 | 18:30 - 20:00 | M9 | IVY WG: BBF LS | OPS | italo.busi@huawei.com | Discuss Liaison from Broadband Forum regarding a New Project entitled "Network Resource Model (NRM)" |   |  |
 | 18:30-20:00 | P6-7 | Standalone Service ID in Routing Network  | RTG | yuan.dongyu@zte.com.cn huang.guangping@zte.com.cn | Standalone Service ID in Routing Network: Usecases, Problems and Requirements Agenda: https://github.com/xiongquan1230/IETF119-Sidemeeting | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
-|     |  |   |   |   |   |   |  |
+| 15:30 - 17:00    | M9 |  Schedule YANG Discussion |  OPS, RTG |  yingzhen.ietf@gmail.com |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -214,9 +214,9 @@ Location: Plaza Level
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   | skex               |  
-| 15:30-16:00 |                   | skex               |   
-| 16:00-16:30 |                   |                    |   
-| 16:30-17:00 |                   |                    |   
+| 15:30-16:00 | Schedule YANG     | skex               |   
+| 16:00-16:30 | Schedule YANG     |                    |   
+| 16:30-17:00 | Schedule YANG     |                    |   
 | 17:00-17:30 |                   | Information Exposure for Edge Computing  | 
 | 17:30-18:00 |                   | Information Exposure for Edge Computing  | 
 | 18:00-18:30 |                   | Information Exposure for Edge Computing  |   
