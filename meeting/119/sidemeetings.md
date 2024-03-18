@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-17T22:00:54.693Z
+date: 2024-03-18T00:17:39.435Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -268,9 +268,9 @@ Location: Plaza Level
 | 10:00-10:30 |                   | IPv6 operations in enterprises           |   
 | 10:30-11:00 |                   | IPv6 operations in enterprises           |   
 | 11:00-11:30 |                   |                   |   
-| 11:30-12:00 |                   |                    |   
-| 12:00-12:30 |                   |                   |   
-| 12:30-13:00 |                   |                  |   
+| 11:30-12:00 |  TPM Tutorial     |                    |   
+| 12:00-12:30 |  TPM Tutorial     |                   |   
+| 12:30-13:00 |  TPM Tutorial     |                  |   
 | 13:00-13:30 |                   |                   |  
 | 13:30-14:00 |                   |                   | 
 | 14:00-14:30 |  Peering API      | More MPC for Measurement |  
