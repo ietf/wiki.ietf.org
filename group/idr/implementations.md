@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-03-02T04:41:17.200Z
+date: 2024-03-19T21:48:15.426Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -18,19 +18,18 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation report for drafts at WG Shepherds 
 
-- [draft-ietf-idr-segment-routing-te-policy implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
+- [draft-ietf-idr-sr-policy-safi- implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
 - [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-sr-segtypes-ext-implement)
  - [draft-ietf-idr-sdwan-edge-discovery-09](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
- 
- ## Implementation reports for drafts at 2nd WG LC 
  - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
  - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
+ 
+ ## Implementation reports for drafts at 2nd WG LC 
 
 ## Drafts report 2 implementations, but no implementation report. 
  - [draft-ietf-idr-entropy-label](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
-  - [draft-ietf-idr-sdwan-edge-discovery-09](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
  
 
