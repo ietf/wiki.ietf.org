@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IETF 119 NMRG Side Meeting on IBN
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VEVENT
+DTSTART:20240320T073000Z
+DTEND:20240320T083000Z
+DTSTAMP:20240319T064409Z
+CREATED:20240319T063449Z
+DESCRIPTION:<table class="dense" style="box-sizing: inherit\; background-re
+ peat: no-repeat\; padding: 0px\; margin: 0.5rem 0px\; border-spacing: 0px\;
+  border-radius: 5px\; border: 1px solid rgb(224\, 224\, 224)\; color: rgb(6
+ 6\, 66\, 66)\; font-family: Roboto\, sans-serif\; font-size: 16px\; font-st
+ yle: normal\; font-variant-ligatures: normal\; font-variant-caps: normal\; 
+ font-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: start\
+ ; text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit-text-strok
+ e-width: 0px\; white-space: normal\; background-color: rgb(255\, 255\, 255)
+ \; text-decoration-thickness: initial\; text-decoration-style: initial\; te
+ xt-decoration-color: initial\;"><tbody style="box-sizing: inherit\; backgro
+ und-repeat: no-repeat\; padding: 0px\; margin: 0px\;"><tr style="box-sizing
+ : inherit\; background-repeat: no-repeat\; padding: 0px\; margin: 0px\;"><t
+ d style="box-sizing: inherit\; background-repeat: no-repeat\; padding: 0.5r
+ em\; margin: 0px\; border-bottom: 1px solid rgb(224\, 224\, 224)\; border-r
+ ight: 1px solid rgb(245\, 245\, 245)\; font-size: 0.85rem\; background-colo
+ r: rgb(250\, 250\, 250)\;">Discussion on possible outputs and follow-ups of
+  IBN use cases document</td><td style="box-sizing: inherit\; background-rep
+ eat: no-repeat\; padding: 0.5rem\; margin: 0px\; border-bottom: 1px solid r
+ gb(224\, 224\, 224)\; border-right: 1px solid rgb(245\, 245\, 245)\; font-s
+ ize: 0.85rem\;"><a href="https://ietf.webex.com/meet/ietfsidemeeting2" clas
+ s="is-external-link" style="box-sizing: inherit\; background-repeat: no-rep
+ eat\; padding: 0px 3px 0px 0px\; margin: 0px\; background-color: transparen
+ t\; color: rgb(25\, 118\, 210)\; cursor: pointer\;">https://ietf.webex.com/
+ meet/ietfsidemeeting2</a></td></tr></tbody></table>
+LAST-MODIFIED:20240319T064348Z
+LOCATION:P6-7
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Side meeting: NMRG IBN Use cases
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
