@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-19T18:08:06.888Z
+date: 2024-03-19T20:47:01.423Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -99,7 +99,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 08:30-09:30 | M9 | QUIC on streams | WIT | lucas@lucaspardue.com | https://datatracker.ietf.org/doc/html/draft-kazuho-quic-quic-on-streams | TBD | TBD |
+| 08:30-09:30 | M9 | QUIC on streams | WIT | lucas@lucaspardue.com | https://datatracker.ietf.org/doc/html/draft-kazuho-quic-quic-on-streams | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 15:00-16:00 | P6-7 | skex: Symmetric Key Exchange framework | SEC | maelmans@juniper.net <br/> manfred.skex119@qubridge.io | Addressing shortcomings in the standardization of Symmetric Key Exchange interfaces and protocols | https://ietf.webex.com/meet/ietfsidemeeting2 | [skex-wed.ics](/119/skex-wed.ics) |
 | 15:00-16:30 | M9 | MONM: Mobile Object Network Management | TBD | pauljeong@skku.edu <br/> chrisshen@skku.edu | Discuss the Problem Statement, Use Cases, and Framework for MONM BoF | https://us02web.zoom.us/j/87419619218?pwd=QUhxSlFaNnpuQ0ljRFFaR0VDUWFGZz09 | TBD |
 | 16:00-17:30    | P6-7 | Large Language Model(LLM) for Networking  | OPS/SEC  | cuiyong@tsinghua.edu.cn xiexiaohui@tsinghua.edu.cn  |  Disscussion on the potential of LLMs in the networking domain https://github.com/wangtz19/ietf-side-meetings |  https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
