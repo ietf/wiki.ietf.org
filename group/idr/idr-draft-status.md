@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-13T16:05:03.349Z
+date: 2024-03-19T21:51:15.438Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -67,8 +67,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery-12 | Keyur Patel | Shepherd + Editorial| IESG | 7/9 | 6/11 to 6/25 | TBD | TBD | TBD  |
-|  draft-ietf-idr-sr-policy-safi-01  |  Susan Hares  |  3rd WG LC |   IESG  | 3/18/2024 | 2/15-3/18  |  25 days | 3/18/2024  | 25 (900+)  |
-| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | 3rd WG LC | IESG  | 3/18/2024 | 2/15-3/18 |  35 days | 3/18/2024 | (900+) 25  |
+|  draft-ietf-idr-sr-policy-safi-01  |  Susan Hares  |  Shepherd's write-up | IESG  | 3/18/2024 | 2/15-3/18  |  25 days | 3/18/2024  | 25 (900+)  |
+| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Shepherd write-up  | IESG  | 3/18/2024 | 2/15-3/18 |  35 days | 3/18/2024 | (900+) 25  |
 |  draft-ietf-idr-bgp-ct  |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC 2/15-3/1/2024 |  3/25/2024 |    
 |  draft-ietf-idr-bgp-car |  Susan Hares  | Shephherd write-up | IESG | 3/1/2024 | 2nd WG LC | 
 2/15-3/1/2024 |  3/25/2024 | 
@@ -94,7 +94,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-bgp-sendholdtimer | Susan Hares | TBD | Await implementation report | WG LC | TBD | TBD | TBD | 
+| draft-ietf-bgp-sendholdtimer | Susan Hares | 4 | Pre-WG LC | WG LC | TBD | TBD | 
 
 ## WG LC holding 
 |  draft-ietf-idr-sr-policy-ifit |  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
@@ -107,7 +107,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 For information on adoption process: [IDR adoption process](/group/idr/idr-adoption-process)
 | draft   | Shepherd   |  status   |  Next step    |  WG adoption date  |  Adoption call            |  Draft uploaded   |
 |---|---|---|---|---|---|---|
-| draft-kaliraj-idr-multinexthop-attribute | Susan Hares | Adopted | upload draft | 2/15/2024 | 11/10/2023 to 1/1/2024   | ETA: 3/18 | 
+
 {.dense}
 
 ## In WG Adoption Process (hold WG chair review/edits )
