@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2023-11-28T16:13:11.594Z
+date: 2024-03-19T18:29:40.257Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -16,8 +16,17 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
-### November 2023 (Prague) [YouTube](https://youtu.be/XHls8PvCVws?t=1m30s) [intro slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-chairs-welcome)
+### March 2024 (Brisbane) [YouTube](https://youtu.be/XySxvye3AnY?t=1m) [intro slides](https://datatracker.ietf.org/doc/slides-119-maprg-chairs-intro-and-welcome)
 
+- Performance Evaluation of PDM Implementation using eBPF in TC versus Traditional Kernel Methods [YouTube](https://youtu.be/XySxvye3AnY?t=3m40s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-performance-evaluation-of-pdm-implementation-using-ebpf-in-tc-versus-traditional-kernel-methods), Nalini Elkins & Chinmaya Sharma, March 2024
+- Putting the Spin Bit under the Microscope [YouTube](https://youtu.be/XySxvye3AnY?t=7m29s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-putting-the-spin-bit-under-the-microscope), Ike Kunze, March 2024
+- Towards Improving Outage Detection with Multiple Probing Protocols [YouTube](https://youtu.be/XySxvye3AnY?t=21m45s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-towards-improving-outage-detection-with-multiple-probing-protocols), Manasvini Sethuraman, March 2024
+- IRRedicator: Pruning IRR with RPKI-Valid BGP Insights [YouTube](https://youtu.be/XySxvye3AnY?t=44m50s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-irredicator-pruning-irr-with-rpki-valid-bgp-insights), Taejoong (tijay) Chung, March 2024
+- Anycast Polarization in The Wild [YouTube](https://youtu.be/XySxvye3AnY?t=1h1m15s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-anycast-polarization-in-the-wild/), ASM Rizvi, March 2024
+- Measuring L4S & NQB Latency EQects in Real World Network Testing [YouTube](https://youtu.be/XySxvye3AnY?t=1h21m37s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-l4snqb-field-trial-measurements-livingood), Jason Livingood, March 2024
+- Out in the Open: On the Implementation of Mobile App Filtering in India [YouTube](https://youtu.be/XySxvye3AnY?t=1h44m40s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-out-in-the-open-on-the-implementation-of-mobile-app-filtering-in-india), Devashish Gosain, March 2024
+
+### November 2023 (Prague) [YouTube](https://youtu.be/XHls8PvCVws?t=1m30s) [intro slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-chairs-welcome)
 
 - QUIC(k) Enough in the Long Run? Sustained Throughput Performance of QUIC Implementations [YouTube](https://youtu.be/XHls8PvCVws?t=5m20s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-sustained-throughput-performance-of-quic-implementations), Roland Bless, November 2023
 - Dissecting Performance of Production QUIC [YouTube](https://youtu.be/XHls8PvCVws?t=17m20s) [slides](https://datatracker.ietf.org/meeting/118/materials/slides-118-maprg-dissecting-performance-of-production-quic), Theo Benson, November 2023
