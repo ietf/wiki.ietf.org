@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2024-02-27T14:24:42.389Z
+date: 2024-03-19T17:00:44.839Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -23,7 +23,7 @@ https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
 
 Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 
-## Documents requested by authors for WG Last Call
+## WG Last Call requests
 * draft-ietf-spring-bfd-05
    * 2021-03-29 Authors asked for WGLC
    * Waiting for the dependent MPLS WG draft to progress past WGLC
@@ -31,12 +31,17 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * [IETF 117] The authors asked for WGLC.
 * draft-ietf-spring-segment-protection-sr-te-paths
    * 2023-07-03 Authors asked for WGLC
+* draft-ietf-spring-resource-aware-segments
+  * 2024-03-05 Authors sent request
+* draft-ietf-spring-sr-for-enhanced-vpn
+  * 2024-03-05 Authors sent request
+
 
 > History of WGLC
 https://wiki.ietf.org/en/group/spring/WGLC_history
 {.is-info}
 
-## Documents requested by authors for WG adoption
+## WG adoption requests
 * draft-peng-spring-pmtu-sr-policy
    * 2022-11-9 Authors sent request
    * 2023-5-23 Pinged authors and asked for on-list discussion before moving forward (Alvaro)
@@ -49,7 +54,7 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
    * 2023-10-23 -03 with 5 authors
    * 2024-01-29 authors asked again
 * draft-cheng-spring-srv6-policy-resource-gurantee
-	* 2023-09-28 Authors sent request
+	 * 2023-09-28 Authors sent request
 * draft-salih-spring-srv6-inter-domain-sids
   * 2024-01-30 Authors sent request
   * -04 has 6 authors (must lower to <= 5)
