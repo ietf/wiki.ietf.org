@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-19T21:51:15.438Z
+date: 2024-03-19T21:52:34.864Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -142,8 +142,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-geng-idr-flowspec-sav-01 | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
 | draft-geng-idr-bgp-savenet-03 | Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
 | draft-zhang-idr-sr-policy-template-03| Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
-
-
+| draft-lin-idr-sr-epe-over-l2bundle-05 | Susan Hares | Chair REview | Adoption call | TBD | TBD | TBD |
 
 
 ## Flow Specification v2 drafts
