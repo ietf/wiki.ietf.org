@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2024-03-19T18:30:54.591Z
+date: 2024-03-19T18:31:49.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -18,7 +18,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 
 ### March 2024 (Brisbane) [YouTube](https://youtu.be/XySxvye3AnY?t=1m) [intro slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-maprg-chairs-intro-and-welcome)
 
-- Performance Evaluation of PDM Implementation using eBPF in TC versus Traditional Kernel Methods [YouTube](https://youtu.be/XySxvye3AnY?t=3m40s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-performance-evaluation-of-pdm-implementation-using-ebpf-in-tc-versus-traditional-kernel-methods), Nalini Elkins & Chinmaya Sharma, March 2024
+- Performance Evaluation of PDM Implementation using eBPF in TC versus Traditional Kernel Methods [YouTube](https://youtu.be/XySxvye3AnY?t=3m40s) [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-maprg-performance-evaluation-of-pdm-implementation-using-ebpf-in-tc-versus-traditional-kernel-methods), Nalini Elkins & Chinmaya Sharma, March 2024
 - Putting the Spin Bit under the Microscope [YouTube](https://youtu.be/XySxvye3AnY?t=7m29s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-putting-the-spin-bit-under-the-microscope), Ike Kunze, March 2024
 - Towards Improving Outage Detection with Multiple Probing Protocols [YouTube](https://youtu.be/XySxvye3AnY?t=21m45s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-towards-improving-outage-detection-with-multiple-probing-protocols), Manasvini Sethuraman, March 2024
 - IRRedicator: Pruning IRR with RPKI-Valid BGP Insights [YouTube](https://youtu.be/XySxvye3AnY?t=44m50s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-irredicator-pruning-irr-with-rpki-valid-bgp-insights), Taejoong (tijay) Chung, March 2024
