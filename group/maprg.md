@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2024-03-19T18:29:40.257Z
+date: 2024-03-19T18:30:54.591Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -16,7 +16,7 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
-### March 2024 (Brisbane) [YouTube](https://youtu.be/XySxvye3AnY?t=1m) [intro slides](https://datatracker.ietf.org/doc/slides-119-maprg-chairs-intro-and-welcome)
+### March 2024 (Brisbane) [YouTube](https://youtu.be/XySxvye3AnY?t=1m) [intro slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-maprg-chairs-intro-and-welcome)
 
 - Performance Evaluation of PDM Implementation using eBPF in TC versus Traditional Kernel Methods [YouTube](https://youtu.be/XySxvye3AnY?t=3m40s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-performance-evaluation-of-pdm-implementation-using-ebpf-in-tc-versus-traditional-kernel-methods), Nalini Elkins & Chinmaya Sharma, March 2024
 - Putting the Spin Bit under the Microscope [YouTube](https://youtu.be/XySxvye3AnY?t=7m29s) [slides](https://datatracker.ietf.org/doc/slides-119-maprg-putting-the-spin-bit-under-the-microscope), Ike Kunze, March 2024
