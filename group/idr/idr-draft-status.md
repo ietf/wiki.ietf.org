@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-20T00:11:04.067Z
+date: 2024-03-20T00:21:49.372Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -135,6 +135,8 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-geng-idr-bgp-savenet-03 | Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
 | draft-zhang-idr-sr-policy-template-03| Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
 | draft-lin-idr-sr-epe-over-l2bundle-05 | Susan Hares | Chair REview | Adoption call | TBD | TBD | TBD |
+| draft-lin-idr-sr-policy-headend-behavior-03 | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD | 
+|   draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD | TBD | 
 
 ## In WG Adoption Process (hold WG chair review/edits )
 |  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
