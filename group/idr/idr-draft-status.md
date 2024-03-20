@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-20T00:24:19.099Z
+date: 2024-03-20T01:04:44.799Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -114,8 +114,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-| draft-ssangli-idr-bgp-generic-metric-aigp | Susan Hares | needs 2nd adoption call | WG draft | TBD | TBD | TBD  | 
-
+(none) 
 {.dense}
 
 
@@ -124,15 +123,13 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+| draft-ssangli-idr-bgp-generic-metric-aigp | Susan Hares | needs 2nd Adoption call | WG draft | TBD | TBD | TBD  | 
 |  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |  New draft  |  Chair Review + Adoption        |  TBD    | TBD | 9/28 to 10/12 | 
 |  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | Chair Review + IPR check  |  IPR check  |  TBD    |  TBD             |  11/10 to 11/24   |
 | draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | FSv2 review + IPR call | Adoption call | TBD | TBD | TBD | 
 | draft-uttaro-idr-bgp-oad | Susan Hares | Chair Review + IPR | Adoption call | TBD | TBD | TBD 
 | draft-peng-idr-segment-routing-te-policy-attr | Susan Hares |  IPR call | 2nd Adoption call | TBD | TBD | TBD | 
 | draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD | 
-| draft-wang-idr-next-hop-nodes-00 | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
-| draft-geng-idr-flowspec-sav-01 | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
-| draft-geng-idr-bgp-savenet-03 | Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
 | draft-zhang-idr-sr-policy-template-03| Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
 | draft-lin-idr-sr-epe-over-l2bundle-05 | Susan Hares | Chair REview | Adoption call | TBD | TBD | TBD |
 | draft-lin-idr-sr-policy-headend-behavior-03 | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD | 
