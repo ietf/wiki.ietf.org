@@ -2,7 +2,7 @@
 title: IETF 119 Departure Coordination
 description: 
 published: true
-date: 2024-03-20T22:46:06.828Z
+date: 2024-03-20T22:47:50.227Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T00:20:00.505Z
@@ -38,7 +38,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | ~8:30am  | NZ146 | Bob Hinden | bob.hinden@gmail.com | BNE | INT TERM | Rydges South Bank | Flight to AKL departs at 11:10am | 
 | 10am | VA946 | Jim Fenton | fenton@bluepopcorn.net | BNE | Domestic | Rydges South Bank | Flight to SYD departs at 12:05pm |
-| 10:30am | UA97 | Donald Eastlake | d3e3e3@gmail.com | BNE | INT TERM | Rydges South Bank | Will probably take the train to airport |
+| ~8:00am | UA97 | Donald Eastlake | d3e3e3@gmail.com | BNE | INT TERM | Rydges South Bank | Flight to SFO departs 10:30am |
 
 ## Sunday, March 24, 2024
 
