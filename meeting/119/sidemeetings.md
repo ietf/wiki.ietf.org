@@ -2,7 +2,7 @@
 title: IETF 119 Side Meetings
 description: 
 published: true
-date: 2024-03-20T07:52:08.622Z
+date: 2024-03-20T22:10:58.065Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-23T17:45:57.978Z
@@ -114,7 +114,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | TBD  | TBD |
+| 8:00-9:00 | M9 | Deepspace IP | Int | marc.blanchet@viagenie.ca | Continuing from last IETF | <https://ietf.webex.com/meet/sidemeetingietf1>  | TBD |
 | 8:00-9:30 | P6-7 | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion | [webex](https://ietf.webex.com/meet/ietfsidemeeting2) <br> [agenda and notes](https://notes.ietf.org/notes-ietf-119-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main/ietf119-side-meeting) | TBD |
 | 9:00-10:00 | M9 | Power Metrics: concrete usage example | OPSA WG |  mpalmero@cisco.com <br/> jlindbla@cisco.com <br/> sureshk@cisco.com | (1) Overview of ongoing sustainability work in IETF (everyone contributes)(2) Brief presentation of sustainability insights/poweff updates, incl. look at a more concrete example (3) Any other short updates? (4) next steps? E.g. WG coordination/status, form a WG Design Team, call for a BOF? | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 11:30-13:00 | M9 | TPM Tutorial  | SEC |  hannes.tschofenig@gmail.com monty.wiseman@beyondidentity.com | Tutorial on Trusted Plateform Modules | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
