@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-19T21:52:34.864Z
+date: 2024-03-20T00:11:04.067Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -67,11 +67,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery-12 | Keyur Patel | Shepherd + Editorial| IESG | 7/9 | 6/11 to 6/25 | TBD | TBD | TBD  |
-|  draft-ietf-idr-sr-policy-safi-01  |  Susan Hares  |  Shepherd's write-up | IESG  | 3/18/2024 | 2/15-3/18  |  25 days | 3/18/2024  | 25 (900+)  |
-| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Shepherd write-up  | IESG  | 3/18/2024 | 2/15-3/18 |  35 days | 3/18/2024 | (900+) 25  |
-|  draft-ietf-idr-bgp-ct  |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC 2/15-3/1/2024 |  3/25/2024 |    
-|  draft-ietf-idr-bgp-car |  Susan Hares  | Shephherd write-up | IESG | 3/1/2024 | 2nd WG LC | 
-2/15-3/1/2024 |  3/25/2024 | 
+|  draft-ietf-idr-sr-policy-safi-01  |  Susan Hares  |  Shepherd's write-up | IESG  | 3/18/2024 | 2/15-3/18  |  25 days | 3/23/2024  | 25 (900+)  |
+| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Shepherd write-up  | IESG  | 3/18/2024 | 2/15-3/18 |  35 days | 3/23/2024 | (900+) 25  |
+|  draft-ietf-idr-bgp-ct  |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC 2/15-3/1/2024 |  3/23/2024 |    
+|  draft-ietf-idr-bgp-car |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC | 
+2/15-3/1/2024 |  3/31/2024 | 
 {.dense}
 
 ## Past WG LC awaiting implementation  
@@ -110,14 +110,6 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 {.dense}
 
-## In WG Adoption Process (hold WG chair review/edits )
-|  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
-|------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
-|  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
-|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
-|  draft-haas-idr-diffract  |  Susan Hares   |  held for revision    |  uploaded WG doc  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
-
-{.dense}
 
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
@@ -144,6 +136,14 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-zhang-idr-sr-policy-template-03| Susan Hares | Chair Review | Adoption Call | TBD | TBD | TBD | 
 | draft-lin-idr-sr-epe-over-l2bundle-05 | Susan Hares | Chair REview | Adoption call | TBD | TBD | TBD |
 
+## In WG Adoption Process (hold WG chair review/edits )
+|  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
+|------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
+|  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
+|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
+|  draft-haas-idr-diffract  |  Susan Hares   |  held for revision    |  uploaded WG doc  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
+
+{.dense}
 
 ## Flow Specification v2 drafts
 | draft                           | Shepherd       |   status      |  Next step        |  ETA   |  IPR Check   |
