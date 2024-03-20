@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-03-20T01:10:48.094Z
+date: 2024-03-20T01:12:51.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -104,3 +104,4 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode) (RFC 9384)
   -  [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement) (RFC9494) 
    - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement) (RFC9514) 
+    - [draft-ietf-idr-RFC7752bis (RFC9552) implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
