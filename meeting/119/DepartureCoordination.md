@@ -2,7 +2,7 @@
 title: IETF 119 Departure Coordination
 description: 
 published: true
-date: 2024-03-20T22:48:30.051Z
+date: 2024-03-20T23:31:57.381Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-17T00:20:00.505Z
@@ -44,7 +44,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 05:00 | QN50  | Rich Salz     | rsalz@akamai.com      | SYD        | Domestic         |  BNE        |       |
 |      |        |      |       |         |          |             |       |
 
 ## Monday, March 25, 2024
