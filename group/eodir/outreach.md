@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-03-18T07:01:09.870Z
+date: 2024-03-21T12:40:47.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -54,6 +54,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |Feb 2024|[APRICOT2024](https://2024.apricot.net/program/program#/day/8/innovation-1/)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|[Slide](https://2024.apricot.net/assets/files/APIC378/the-ietf-roundup_1709093554.pdf)|
 |Jan 2024|HLIG (High Level Internet Governance Expert Group)|Policy|Supporter|Lars|[Slide](https://docs.google.com/presentation/d/166xSfPk0Qjz_ISxbJbRqQkXInKm968ngRXrjfUcgq0Y/edit?usp=sharing)|
 |Jan 2024|[NetMission](https://netmission.asia/)|Students|Knowledge sharing|Dhruv Dhody| [Slide](https://docs.google.com/presentation/d/14I_NVdGEtRd4VJXigZ_LMBWyogtXCJLyCrithJkR_74/edit?usp=sharing)|
+|Oct 2023|AuDA Webinar|-|Participants|Mark Nottingham & Bron Gondwana|[Link](https://www.auda.org.au/web/events/auda-webinar-ignite-your-curiosity-ahead-ietf-119)|
 |Oct 2023|IGF2023|Policy|Supporter|In-Room: Mirja,Colin,Mallory; Remote:Lars,Andrew Alston,Dhruv,Suresh|[Slides](https://intgovforum.org/sites/default/files/IGF23-IETF-Town-Hall-2.pdf) [Report](https://intgovforum.org/en/content/igf-2023-town-hall-32-internet-engineering-task-force-open-forum)|
 |Oct 2023|inSIG2023|Policy|Supporter|Dhruv Dhody|[Slide](https://docs.google.com/presentation/d/1KW0wrSUkjJQkUrFvHuQiyQRe5Eq5ZxeqI6YPEr97_lU/edit#slide=id.g28637e88c85_0_0)|
 |Jul 2023|[APIGA2023](https://community.icann.org/display/GSEAPAC/APIGA+2023)|Students|knowledge sharing|Dhruv Dhody|Introducing IETF to those interested in Internet Governance [Link](https://docs.google.com/presentation/d/18HaHXXRqojpgAxPJbzEfX8aiqeU9Y-dqcECwRQHZDgU/edit?usp=sharing)|
