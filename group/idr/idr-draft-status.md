@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-22T03:20:54.056Z
+date: 2024-03-22T03:30:58.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -95,7 +95,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
 | draft-ietf-bgp-sendholdtimer | Susan Hares | 4 | Pre-WG LC | WG LC | TBD | TBD | 
-| draft-ietf-idr-vpn-prefix-orf | Susan Hares | 2 | Pre-WG LC | WG LC | TBD | TBD 
+| draft-ietf-idr-vpn-prefix-orf | Susan Hares | 2 | Pre-WG LC | WG LC | TBD | TBD |
 
 ## WG LC holding 
 |  draft-ietf-idr-sr-policy-ifit |  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
