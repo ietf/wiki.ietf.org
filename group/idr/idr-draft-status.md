@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-22T03:30:58.578Z
+date: 2024-03-22T03:32:34.936Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -70,8 +70,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft-ietf-idr-sr-policy-safi-01  |  Susan Hares  |  Shepherd's write-up | IESG  | 3/18/2024 | 2/15-3/18  |  25 days | 3/23/2024  | 25 (900+)  |
 | draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | Shepherd write-up  | IESG  | 3/18/2024 | 2/15-3/18 |  35 days | 3/23/2024 | (900+) 25  |
 |  draft-ietf-idr-bgp-ct  |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC 2/15-3/1/2024 |  3/23/2024 |    
-|  draft-ietf-idr-bgp-car |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC | 
-2/15-3/1/2024 |  3/31/2024 | 
+|  draft-ietf-idr-bgp-car |  Susan Hares  | Shepherd write-up | IESG | 3/1/2024 | 2nd WG LC | 2/15-3/1/2024 |  3/31/2024 | 
 {.dense}
 
 ## Past WG LC awaiting implementation  
