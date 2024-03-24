@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-24T08:40:53.186Z
+date: 2024-03-24T08:41:27.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -69,7 +69,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek |
-| [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | 2024-03-12 | 2024-04-02 | Yes | Adrian |
+| [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | 2024-03-12 | 2024-04-01 | Yes | Adrian |
 
 ## Working Group Last Call Completed Pending Action
 
