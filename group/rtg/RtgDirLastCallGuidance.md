@@ -2,19 +2,20 @@
 title: Routing Directorate Last Call Review draft-ietf-rift-rift
 description: draft-ietf-rift-rift-20 RTG-DIR review 
 published: true
-date: 2024-03-19T07:25:50.693Z
+date: 2024-03-28T15:38:50.734Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:18:39.154Z
 ---
 
+## Routing Directorate Last Call Review Template 
 
 To:
 * rtg-ads@ietf.org
 
 Cc:
 * rtg-dir@ietf.org;
-* draft-ietf-rift-rift.all@ietf.org;
+* draft-name.all@ietf.org;
 * wg-mailing-list;
 * last-call@ietf.org
 
@@ -23,92 +24,90 @@ Subject:
 
 Hello,
 
-I have been selected as the Routing Directorate reviewer for this draft. 
-The Routing Directorate seeks to review all routing or routing-related 
-drafts as they pass through IETF last call and IESG review, and 
-sometimes on special request. The purpose of the review is to provide 
-assistance to the Routing ADs. For more information about the Routing 
-Directorate, please see https://wiki.ietf.org/en/group/rtg/RtgDir
+I have been selected as the Routing Directorate reviewer for this draft. The Routing Directorate seeks to review all routing or routing-related drafts as they pass through IETF last call and IESG review, and sometimes on special request. The purpose of the review is to provide assistance to the Routing ADs. For more information about the Routing Directorate, please see https://wiki.ietf.org/en/group/rtg/RtgDir
 
-Although these comments are primarily for the use of the Routing ADs, it 
-would be helpful if you could consider them along with any other IETF 
-Last Call comments that you receive, and strive to resolve them through 
-discussion or by updating the draft.
+Although these comments are primarily for the use of the Routing ADs, it would be helpful if you could consider them along with any other IETF Last Call comments that you receive, and strive to resolve them through discussion or by updating the draft.
 
-Document: draft-ietf-rift-rift-20 (the current version is -20)
-Reviewer: Loa Andersson
-Review Date: 2024-03-19
-IETF LC End Date:
-Intended Status: Standards Track
+Document: draft-name-version
+Reviewer: your-name
+Review Date: date 
+IETF LC End Date: date-if-known
+Intended Status: copy-from-I-D
 
-Summary:
+**Summary:**
+Choose from this list...
+* No issues found. This document is ready for publication.
+* This document is basically ready for publication but has nits that should be considered prior to publication.
+* I have some minor concerns about this document that I think should be resolved before publication.
+* I have significant concerns about this document and recommend that the Routing ADs discuss these issues further with the authors.
 
-This document is basically ready for publication (with nits) ; though I found it a bit
-hard to read.
+**Comments:**
+* Please supply an overview of the draft quality and readability.
+* Include anything else that you think will be helpful toward understanding your review.
 
-- at least for me the appendixes contain info that was useful when it
-  came to understand the document. This could be mentioned early in the 
-  document. Admittedly the Readers Digest does a good work, but it is 
-  quite a bit into the document.
+**Major Issues:**
+* Major issues are the type of concerns that will result in the document being blocked until they are resolved. The Routing ADs will become involved.
+* Please include all of the major issues you have found. Give as much context information as possible (e.g., section numbers, paragraph counts).
+* If you find no major issues, please write: "No major issues found."
 
+**Minor Issues:**
+* Minor issues are concerns about clarity or technical accuracy that should be discussed and resolved before publication, but which would normally be resolved between the authors and the reviewers.
+* Please include all of the minor issues you have found. Give as much context information as possible (e.g., section numbers, paragraph counts).
+* If you find no minor issues, please write: "No minor issues found."
 
-Document Overview:
+**Nits:**
+* Nits are editorial or layout items. They are things that would ideally be resolved before publication to make the document more readable and may be raised now to save the RFC Editor's work.
+* Usually a reviewer will not be looking for this type of issue but may find some in the course of their review.
+* Please try to avoid raising esoteric questions about English usage. The RFC Editor will spot these, and it is not a wise use of time to discuss these things.
+* If you find no nits, please leave this section out.
 
-This document defines a routing protocol for Clos and fat tree network
-topologies optimized towards control plane state efficiency and a 
-minimum of configuration and operational complexity.
+## Sample Routing Directorate Review 
 
-Note: One have to get far into the document (even into appindixes) before
-you understand the specification of that protocol
+**To:** rtg-ads@ietf.org
+**Cc:** rtg-dir@ietf.org; draft-ietf-pce-p2mp-reqs.all@ietf.org; pce@ietf.org; last-call@ietf.org
+**Subject:** RtgDir Last Call review: draft-ietf-pce-p2mp-reqs-03
 
-Comments:
+Hello,
 
-The draft is long (189 pages), and it takes time to get through all the
-details. That said the authors does a good job, it is more that the 
-topic is new and fairly complicated. Especially the "Readers Disgest"
-section is useful and I had to return to it serval times,
+I have been selected as the Routing Directorate reviewer for this draft. The Routing Directorate seeks to review all routing or routing-related drafts as they pass through IETF last call and IESG review. The purpose of the review is to provide assistance to the Routing ADs. For more information about the Routing Directorate, please see https://wiki.ietf.org/en/group/rtg/RtgDir
 
+Although these comments are primarily for the use of the Routing ADs, it would be helpful if you could consider them along with any other IETF Last Call comments that you receive, and strive to resolve them through discussion or by updating the draft.
 
-Major Issues:
+Document: draft-ietf-pcep-p2mp-reqs-03 
+Reviewer: Albert N. Other 
+Review Date: 25 January 2010 
+IETF LC End Date: 27 January 2010 
+Intended Status: Informational
 
-None
+**Summary:**
+I have some minor concerns about this document that I think should be resolved before publication.
 
-Minor Issues
+**Comments:**
+This document is clearly written and easy to understand. The requirements are numbered, which is helpful. I would have preferred to see more figures, but this is a matter of style. 
+This is the first PCE document I have reviewed, so I went back and read some of the previous RFCs. It may mean that my review is not sufficiently in-depth. 
 
-Abstract 
+**Major Issues:**
+No major issues found.
 
-The abstract of a bit thin, I can't really get what it is asll about
-from just reading the abstract, and that it what is there for, right?
+**Minor Issues:**
+Section 2.1.10 : requirement R11 
+I found the term "reoptimization" confusing. It begs the question of whether the objective is to find an optimum path for the LSP or to place the LSP for the optimum use of the network. Indeed, "optimum" may, itself, be open to interpretation. Can you include some clarification of these terms, possibly by reference to other documents if they have already been defined in the PCE context?
 
-Nits:
+**Nits:**
+Section 2
+s/seciton/section/
 
-There is a long list of nits found by the nits-tool (not running 
-verbose), please fix those!
+----
 
-In the abstract you say "clos and fat tree topologies", in the the
-Terminology section you say "This document uses the terms Clos and 
-Fat Tree interchangeably".
-Should the abstract asy "clos or fat tree topologies"?
-Caveat: This is a grammar comment and I do not normally make grammar
-comments :)!
+[Back to the Routing Area wiki](/group/rtg)
 
-You mixed "terms" and "abbreviations", have concidered two lists?
+[Back to the Routing Area Directorate wiki](/group/rtg/RtgDir)
 
-In section 5.3.1 you use "acronym", I think the preferred word is 
-"abbreviation".
-All acronyms are abbreviations, but not all abbreviations are acronyms.
+&nbsp;
+&nbsp;
+&nbsp;
 
+---
 
-One question on the policy defintion in the IANA registries, can you
-have a reference to an Appendix in the IANA registry?
-
-I have not found any other nits.
-
-
-/Loa
-
-
--- 
-Loa Andersson                        email: loa@pi.nu
-Senior MPLS Expert                          loa.pi.nu@gmail.com
-Bronze Dragon Consulting             phone: +46 739 81 21 64
+*The content of this page was last updated on 2021-07-22. It was migrated from the old Trac wiki on 2022-12-20.*
+All contributions to this wiki are covered by the IETF Note Well | Powered by Wiki.js
