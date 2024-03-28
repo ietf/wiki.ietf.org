@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-03-28T12:09:26.284Z
+date: 2024-03-28T12:12:06.620Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -41,7 +41,11 @@ Free test and masks will be provided. Daily testing and masks are recommended.
 
 #### Monday, June 24 (IAB only)
 
+See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
+
 #### Tuesday, June 25 (IAB only)
+
+See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
 (maybe IAB+IESG social this evening)
 
