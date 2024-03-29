@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-03-11T19:36:20.536Z
+date: 2024-03-29T23:05:06.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-04-03 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-03-06. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-03-29. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -32,11 +32,18 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes 
 
 * 2024-02-28 technical discussion and business meeting - (submitted 2024-02-28)
+* 2024-03-06 business meeting - (submitted 2024-03-06)
+* 2024-03-17 business meeting - Sunday IETF 119 - (submitted 2024-03-18)
+* 2024-03-19 business meeting - Tuesday IETF 119 - (submitted 2024-03-21)
+* 2024-03-21 business meeting - Thursday IETF 119 - (submitted 2024-03-22) 
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
+* 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
+
+* 2024-03-17: Tommy Pauly to respond to the ISE declining the request for an additional IAB review of draft-bichot-msync.
 
 ##### On Hold:
 
@@ -48,21 +55,35 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ##### In Progress: 
 
-* 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
+* 2024-02-14: Eliot Lear to send a proposal to the IAB about how to 
+    have a conversation with the community about publishing crypto 
+    algorithms that are not widely reviewed.
 
-* 2023-11-09: Mirja Kühlewind to reach out to legal regarding design teams and contributions.
+* 2024-03-06: Cindy Morgan, Mirja Kühlewind, and Sally Wentworth to 
+    coordinate on adding the IAB as a signer to the Global Encryption 
+    Coalition letter about Australia and announcing it to the 
+    community.
 
-* 2024-02-14: Eliot Lear to send a proposal to the IAB about how to have a conversation with the community about publishing crypto algorithms that are not widely reviewed.
+* 2024-03-17: Dhruv Dhody, Mirja Kühlewind and Suresh Krishnan to 
+    update the text that describes Technical Programs and 
+    Administrative Support Groups.
 
-* 2024-03-06: Cindy Morgan to update the IAB calendar with upcoming meetings through March 2025.
+* 2024-03-17: Tommy Pauly to send IAB feedback to the ISE.
 
-* 2024-03-06: Cindy Morgan to update the BOF coverage wiki for IETF 119.
+* 2024-03-17: Liaison Managers to follow up with Martin Thomson about 
+    liaison manager for W3C.
 
-* 2024-03-06: Cindy Morgan, Mirja Kühlewind, and Sally Wentworth to coordinate on adding the IAB as a signer to the Global Encryption Coalition letter about Australia and announcing it to the community.
+* 2024-03-17: Suresh Krishnan to follow up with the IETF-3GPP 
+    Administrative Support Group about updating RFC 3113, "3GPP-IETF 
+    Standardization Collaboration."
 
-* 2024-03-06: Mirja Kühlewind to request the previous reviews of draft-bichot-msync-15 from the ISE.
+* 2024-03-17: Alvaro Retana to check with Deborah Brungard about 
+    whether she would like to continue on the IAB-ISOC Policy 
+    Coordination Group
 
-* 2024-03-06: Cindy Morgan to start an e-vote on the ISE appointment.
+* 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
+    Workshops page on the IAB website and a blog post about IETF work 
+    that came out of IAB workshops.
 
 
 
@@ -78,13 +99,17 @@ IAB Shepherd: David Schinazi
 I-D Exists, IAB stream
 IAB Shepherd: (Not yet assigned)
 
-- **A Vision Statement for the Internet (Mallory, Mirja)**
-     Open action item:
-    - 2022-07-24: Mallory Knodel and Mirja Kühlewind to draft a document outlining the architectural principles that the IAB thinks are important and need to be understood when considering Internet governance.
+
 
 #### 1.6. WG Chartering in Progress (Initial Charters Only)
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
+
+- **Mail Maintenance (mailmaint)**
+    Area: ART
+    Internal Review
+    IESG Telechat: 2024-04-04
+    IAB Reviewer: (not assigned)
 
 - **Multiformats (multi)**
 Area: ART
@@ -92,18 +117,44 @@ Internal Review
 IESG Telechat: (None)
 IAB Reviewer: Qin Wu
 
+- **Secure Patterns for Internet CrEdentials (spice)**
+    Area: SEC
+    Draft Charter
+    IESG Telechat: (none)
+    IAB Reviewer: (not assigned)
 
-### 2. 
+### 2. Report out from Liaison Coordinator Office Hours at IETF 119 - 10 mins (Public)
 
-### 3. 
+  Goal: Any new action items?
 
-### 4. 
+### 3. Upcoming IAB Appointments (Cindy) - 20 mins
+
+  Goal: The IAB has a number of appointments to make in the next few 
+  months. This agenda item is to briefly review those and discuss how 
+  this IAB wants to handle appointments in general.
+
+  Note: This is intended to discuss appointments in the abstract, but 
+  the IAB may decide to take this in executive session.
+
+* ICANN NomCom (soon!)
+* RSWG Chair (before IETF 120)
+* ICANN Board of Directors Liaison (around IETF 120)
+* Root Zone Evolution Review Committee (shortly after IETF 120)
+* Community Coordination Group (shortly after IETF 120)
+* IRTF Chair (by IETF 122)
+
+### 4. Weekly Meeting Structure (Tommy) - 10 mins (Public)
+
+
+## 5. Any Other Business
+
+
+## 6. Next IAB Meeting <5 mins (Public)
+
+  Goal: Does the IAB need to meet on 2024-04-10?
 
 ## Upcoming Teleconferences 
 
--- 2024-03-16 - 2024-03-22: IETF 119 --
-
-* 2024-04-03: IAB Business Meeting
 * 2024-04-10: IAB Business Meeting (Reserved)
 * 2024-04-17: IAB Business Meeting
 * 2024-04-24: IAB Technical Discussion (Reserved)
