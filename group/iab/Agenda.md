@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-03-29T23:05:06.848Z
+date: 2024-04-01T20:24:30.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -146,10 +146,10 @@ IAB Reviewer: Qin Wu
 ### 4. Weekly Meeting Structure (Tommy) - 10 mins (Public)
 
 
-## 5. Any Other Business
+### 5. Satellite Networking Collaboration with CCSDS (Alvaro) - 10 mins (Public)
 
 
-## 6. Next IAB Meeting <5 mins (Public)
+### 6. Next IAB Meeting <5 mins (Public)
 
   Goal: Does the IAB need to meet on 2024-04-10?
 
