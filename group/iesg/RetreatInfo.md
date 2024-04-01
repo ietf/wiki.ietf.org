@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-03-28T12:12:06.620Z
+date: 2024-04-01T11:48:16.358Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -65,6 +65,9 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 * BCP14 language in documents status other than PS/S
 * Meetecho use at meetings
 * Code point assignment based on I-Ds
+* IESG Statement on Cryptography
+* Not-registered participants for side meetings
+* Status and use/disuse of "Affiliate Group"
 
 ### RSVP
 
