@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2023-12-05T20:21:02.678Z
+date: 2024-04-02T18:59:34.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
@@ -20,8 +20,8 @@ Background: RFC 8090
 Appointing 3 reps, with staggered terms.
 
 ### Current Appointees
-- 2018-2020: Tim Wicinski
-- 2017-2021: Russ Housley, Barry Leiba
+- 2018-2024: Tim Wicinski
+- 2017-2025: Russ Housley, Barry Leiba
 ### Past Appointees
 - 2017-2018: Andrew Sullivan
 
@@ -52,16 +52,13 @@ From RFC 2850:
 - Jon Postel, 1992–1995
 - Dave Clark, 1989–1992
 
-## ISOC Board of Trust
+## ISOC Board of Trustees
 ISOC BoT appointment procedures are based on R.F.C. 3677 and the [ISOC Board of Trustees Bylaws](http://www.internetsociety.org/who-we-are/governance-and-policies/amended-and-restated-laws-internet-society). Note, that there was a change to the bylaws in 2013 such that the IETF appoints two members every 3 years. That change starts in 2015. Thus, the number of appointments for upcoming years is as follows:
 
-> 2015: name two board members
-> 2016: name one board members
-> 2017: name one board members
-> 2018: name two board members
-> 2019: name one board members
-> 2020: name one board members
-> 2021: name two board members
+> 2024: name two board members
+> 2025: name one board members
+> 2026: name one board members
+> 2027: name two board members
 
 ## ISOC BOT Description
 Source: [ISOC 2015 Call for Nominations](http://www.internetsociety.org/2015-call-nominations-internet-society-board-trustees)
@@ -111,6 +108,7 @@ This is a yearly appointment, usually driven by the ICANN Nomcom cycle: An appoi
 ICANN Nomcom members are appointed by the IAB for the IETF on a yearly bases and may serve 2 consecutive terms (per ICANN bylaws). The IAB has not committed itself to a particular process for selection. However, a general call for volunteers followed by selection (executive session) without any further community consultation has been the mode of operation. In general a reappointment for a second term is done after (executive session) review.
 
 ### Appointed Personnel
+- Suzanne Woolf, 2024
 - Vittorio Bertola, 2022, 2023
 - Peter Koch, 2020, 2021
 - Ole Jacobsen, 2018, 2019
