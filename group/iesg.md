@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2024-04-02T23:34:25.699Z
+date: 2024-04-02T23:38:18.045Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -98,10 +98,10 @@ Which is nonetheless useful to save
 
 - Some [IESG Thoughts on Liaisons](/group/iesg/liaisonthoughts)
 - [On the origins of DISCUSS comments](/group/iesg/discussthoughts)
-  (This is an older page. Much of this is covered on the more recent [ExpertTopics](/group/iesg/experttopics) page)
+  (This is an older page. Much of this is covered on the more recent [ExpertTopics](/group/iesg/ExpertTopics) page)
 - [Joint IAB/IESG Workshop](/group/iesg/Workshop-2022Q1)
   Joint IAB/IESG Workshop Jan 2022
-- [IAB/IESG/LLC Workshop](Workshop-October-2021)
+- [IAB/IESG/LLC Workshop](/group/iesg/Workshop-October-2021)
   IESG IAB and LLC Workshop - information about the October 2021 Workshop
 - Wiki page for [Document Language Editing](/group/iesg/archive/documentlanguage) session at IETF 89 (2014) in  London.
 - [Draft Shepherd Writeup WG Alternate](/group/iesg/draft/draftshepherdwriteupwgalternate)
@@ -120,7 +120,7 @@ Which is nonetheless useful to save
   How to create a special interest group (completed Nov 2020)
 - [Chartering Working Groups](/group/iesg/charteringworkinggroups)
   How to charter a new working group (updated Oct 2020)
-- [Expert Topics](/group/iesg/experttopics)
+- [Expert Topics](/group/iesg/ExpertTopics)
   Expert Topics for WG Chairs and Document Authors
 - [Use Of Updates Tag](/group/iesg/useofupdatestag)
   IESG Statement on the use and meaning of the "Updates" and "Updated by" tags. (see also: draft-kuehlewind-update-tag)
