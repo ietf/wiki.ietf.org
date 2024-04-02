@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2024-03-19T17:02:47.484Z
+date: 2024-04-02T14:30:31.573Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -58,8 +58,10 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-salih-spring-srv6-inter-domain-sids
   * 2024-01-30 Authors sent request
   * -04 has 6 authors (must lower to <= 5)
-  * -05 has 4 authors
-   
+  * -05 has 4 authors 
+* draft-bdmgct-spring-srv6-security
+  * [2024-03-20 @ IETF 119] Authors asked for adoption
+  
 > History of WG Adoption
 https://wiki.ietf.org/en/group/spring/adoption_history
 {.is-info}
