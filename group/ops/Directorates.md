@@ -2,7 +2,7 @@
 title: OPS Directorate (OPS-DIR)
 description: 
 published: true
-date: 2024-03-03T21:20:46.146Z
+date: 2024-04-02T20:56:27.588Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T01:09:17.443Z
@@ -14,11 +14,11 @@ dateCreated: 2022-12-20T01:09:17.443Z
 
 Mailing list :   ops-dir@ietf.org
 Area Directors : 
-Robert Wilton rwilton@cisco.com
+Mahesh Jethanandani <mjethanandani@gmail.com>
 Warren Kumari <warren@kumari.net> 
 
 Secretaries: 
-Gunter Van de Velde <gunter.van_de_velde@nokia.com> 
+Carlos Pignataro <cpignata@gmail.com>
 
 
 ## Quick Links 
