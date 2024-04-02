@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2024-02-13T16:48:14.525Z
+date: 2024-04-02T13:33:21.642Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -24,7 +24,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [6tisch *IPv6 over the TSCH mode of IEEE 802.15.4e*](/group/6tisch)
 - [ace *Authentication and Authorization for Constrained Environments*](/group/ace)
 - [alldispatch *Cross-area Dispatch working group (experimental)*](/group/alldispatch)
-- [alto *Application-Layer Traffic Optimization*](/group/alto)
+- [alto *Application-Layer Traffic Optimization*](/group/ALTO)
 - [anima *Autonomic Networking Integrated Model and Approach*](/group/anima)
 - [bfd *Bidirectional Forwarding Detection*](/group/bfd)
 - [bess *BGP Enabled ServiceS*](/group/bess)
