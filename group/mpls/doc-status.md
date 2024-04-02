@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-03-24T08:41:27.630Z
+date: 2024-04-02T18:24:24.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -58,18 +58,18 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Started 2024-03-12 | Jeffrey Zhang 2023-08-09 (has issues) -09 posted to resolve |  | Tony |
+| IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Started 2024-03-12; blocked waiting for responses | Jeffrey Zhang 2023-08-09 (has issues) -09 posted to resolve |  | Tony |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | Pending Requirements I-D. Updated after chair review of -05 by Adrian | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Joel Halpern 2024-01-09 (not ready). -03 and -04 posted | Discussed at IETF-119. Ready for last call | Adrian |
 | 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review done. -10 addresses issues | Discussion planned at IETF-119 about use of MNA | Tarek |
 | 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready |  | Nic |
+| 2024-04-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Not done | Not requested | | Tony |
 
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek |
-| [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | 2024-03-12 | 2024-04-01 | Yes | Adrian |
 
 ## Working Group Last Call Completed Pending Action
 
@@ -78,6 +78,8 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -24. Pending shepherd write-up | Nic |
+| 2024-04-2 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | Finalized shepherd write-up | Adrian |
+
 
 ## Post Working Group Last Call
 
