@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-02-02T17:12:01.128Z
+date: 2024-04-02T20:48:22.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -37,6 +37,9 @@ This list should be considered as a potentially helpful checklist to ensure that
 - Does the proposal fit within the general scope of IETF? Have the necessary collaborations to other organisations been considered?
 
 ## Review Assignments
+### 2024-2025 Assignments
+- MAILMAINT: Wes Hardaker (2024-04)
+
 ### 2023-2024 Assignments
 - DULT: Mirja Kühlewind (2024-02)
 - WIMSE: David Schinazi (2024-02)
