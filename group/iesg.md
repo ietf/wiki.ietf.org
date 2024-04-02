@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2024-03-18T03:29:56.977Z
+date: 2024-04-02T23:33:03.937Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -57,7 +57,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
 
 ## Rules
 - Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
-- [IESG Statements](https://www.ietf.org/about/groups/iesg/statements/)
+- [IESG Statements](https://datatracker.ietf.org/group/iesg/statements/)
 
 
 ## Getting Started as an AD
