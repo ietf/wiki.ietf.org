@@ -2,7 +2,7 @@
 title: IESG Appointment to the IETF Trust
 description: 
 published: true
-date: 2022-12-06T16:39:24.438Z
+date: 2024-04-02T23:30:36.258Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-10-14T13:16:50.122Z
@@ -13,11 +13,15 @@ The IESG is responsible for appointing one person to the IETF Trust to serve for
 
 ## Current Appointee
 
-Stephan Wenger
-Term: 2019, 2020-2022, 2022-2024
+Kristin Berdan
+Term: 2024-2026
 Appointed By: IESG (2 year term)
 
 ## Past Appointees
+
+Stephan Wenger
+Term: 2019, 2020-2022, 2022-2024
+Appointed By: IESG (2 year term)
 
 ## Timeline of Selection
 
