@@ -2,7 +2,7 @@
 title: AD Review Checklist
 description: 
 published: true
-date: 2023-02-18T03:42:31.974Z
+date: 2024-04-02T23:41:05.673Z
 tags: iesg
 editor: markdown
 dateCreated: 2023-02-13T16:52:49.855Z
@@ -35,4 +35,4 @@ When the AD performs their AD Review there are things they should remember in th
  * ID Nits - This is extra challenging now with V3 format and that our guidance in not in sync. For example several aspects of https://www.ietf.org/standards/ids/checklist/ is wrong for a V3 format document. 
 
 ## Technical Content 
- * Check the usual hot topics by area: [Expert Topics](/groups/iesg/expert)
+ * Check the usual hot topics by area: [Expert Topics](/groups/iesg/ExpertTopics)
