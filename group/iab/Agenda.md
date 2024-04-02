@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-01T20:24:30.795Z
+date: 2024-04-02T20:49:15.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -109,7 +109,7 @@ IAB Shepherd: (Not yet assigned)
     Area: ART
     Internal Review
     IESG Telechat: 2024-04-04
-    IAB Reviewer: (not assigned)
+    IAB Reviewer: Wes Hardaker
 
 - **Multiformats (multi)**
 Area: ART
