@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-04-02T14:23:51.121Z
+date: 2024-04-03T14:59:47.330Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -69,6 +69,7 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 * Not-registered participants for side meetings
 * Status and use/disuse of "Affiliate Group"
 * AI Data Center "AIDC"
+* Technology Deep Dives - future home?
 
 ### RSVP
 
