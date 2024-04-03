@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-03T16:04:21.422Z
+date: 2024-04-03T16:40:55.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -71,17 +71,18 @@ dateCreated: 2023-12-04T23:35:41.632Z
     Administrative Support Group about updating RFC 3113, "3GPP-IETF 
     Standardization Collaboration."
 
-* 2024-03-17: Alvaro Retana to check with Deborah Brungard about 
-    whether she would like to continue on the IAB-ISOC Policy 
-    Coordination Group
+
 
 * 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
     Workshops page on the IAB website and a blog post about IETF work 
     that came out of IAB workshops.
     
-* 2024-04-03: Cindy Morgan to draft timelines for upcoming IAB Appointments.
+* 2024-04-03: Cindy Morgan to draft timelines for upcoming IAB 
+    Appointments.
 
-* 2024-04-03: Alvaro Retana to follow up with Ed Birrane about collaboration with CCSDS on a requirements document for satellite networking.
+* 2024-04-03: Alvaro Retana to follow up with Ed Birrane about 
+    collaboration with CCSDS on a requirements document for satellite 
+    networking.
 
 
 
