@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-02T20:49:15.655Z
+date: 2024-04-03T16:04:21.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-04-03 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-04-17 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-03-29. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-04-03. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,27 +31,24 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-02-28 technical discussion and business meeting - (submitted 2024-02-28)
-* 2024-03-06 business meeting - (submitted 2024-03-06)
-* 2024-03-17 business meeting - Sunday IETF 119 - (submitted 2024-03-18)
-* 2024-03-19 business meeting - Tuesday IETF 119 - (submitted 2024-03-21)
 * 2024-03-21 business meeting - Thursday IETF 119 - (submitted 2024-03-22) 
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
-* 2023-05-11: Dhruv Dhody to look at the last ~10 years of IAB Workshops and see if there were any concrete outputs.
 
-* 2024-03-17: Tommy Pauly to respond to the ISE declining the request for an additional IAB review of draft-bichot-msync.
 
 ##### On Hold:
 
 * 2023-05-11: Suresh Krishnan et al to write a draft on limited domains.    
-   (Check back end of June 2023)
+  - (Check back end of June 2023)
 
-* 2023-06-07: Dhruv Dhody and Mallory Knodel to track adding IAB review of proposed WG charters to the Datatracker.
-   See https://github.com/ietf-tools/datatracker/issues/5849
+* 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB review of proposed WG charters to the Datatracker.
+  - See https://github.com/ietf-tools/datatracker/issues/5849
+   
+* 2024-03-17: Liaison Managers to follow up with Martin Thomson about liaison manager for W3C.
+  - (Check back in August 2024)
 
 ##### In Progress: 
 
@@ -70,9 +67,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-03-17: Tommy Pauly to send IAB feedback to the ISE.
 
-* 2024-03-17: Liaison Managers to follow up with Martin Thomson about 
-    liaison manager for W3C.
-
 * 2024-03-17: Suresh Krishnan to follow up with the IETF-3GPP 
     Administrative Support Group about updating RFC 3113, "3GPP-IETF 
     Standardization Collaboration."
@@ -84,6 +78,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
     Workshops page on the IAB website and a blog post about IETF work 
     that came out of IAB workshops.
+    
+* 2024-04-03: Cindy Morgan to draft timelines for upcoming IAB Appointments.
+
+* 2024-04-03: Alvaro Retana to follow up with Ed Birrane about collaboration with CCSDS on a requirements document for satellite networking.
 
 
 
@@ -97,7 +95,7 @@ IAB Shepherd: David Schinazi
 
 - **draft-iab-bias-workshop-report-00**
 I-D Exists, IAB stream
-IAB Shepherd: (Not yet assigned)
+IAB Shepherd: Suresh Krishnan
 
 
 
@@ -123,40 +121,13 @@ IAB Reviewer: Qin Wu
     IESG Telechat: (none)
     IAB Reviewer: (not assigned)
 
-### 2. Report out from Liaison Coordinator Office Hours at IETF 119 - 10 mins (Public)
-
-  Goal: Any new action items?
-
-### 3. Upcoming IAB Appointments (Cindy) - 20 mins
-
-  Goal: The IAB has a number of appointments to make in the next few 
-  months. This agenda item is to briefly review those and discuss how 
-  this IAB wants to handle appointments in general.
-
-  Note: This is intended to discuss appointments in the abstract, but 
-  the IAB may decide to take this in executive session.
-
-* ICANN NomCom (soon!)
-* RSWG Chair (before IETF 120)
-* ICANN Board of Directors Liaison (around IETF 120)
-* Root Zone Evolution Review Committee (shortly after IETF 120)
-* Community Coordination Group (shortly after IETF 120)
-* IRTF Chair (by IETF 122)
-
-### 4. Weekly Meeting Structure (Tommy) - 10 mins (Public)
-
-
-### 5. Satellite Networking Collaboration with CCSDS (Alvaro) - 10 mins (Public)
-
-
-### 6. Next IAB Meeting <5 mins (Public)
-
-  Goal: Does the IAB need to meet on 2024-04-10?
+### 2. 
 
 ## Upcoming Teleconferences 
 
-* 2024-04-10: IAB Business Meeting (Reserved)
 * 2024-04-17: IAB Business Meeting
+  - Monthly reports
+  - Executive Session: IRTF Chair and other appointments
 * 2024-04-24: IAB Technical Discussion (Reserved)
 * 2024-05-01: IAB Business Meeting
 * 2024-05-08: IAB Business Meeting (Reserved)
