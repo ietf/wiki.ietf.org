@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-04-02T20:48:22.620Z
+date: 2024-04-04T19:24:31.833Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2024-2025 Assignments
+- SPICE: Dhruv Dhody (2024-04)
 - MAILMAINT: Wes Hardaker (2024-04)
 
 ### 2023-2024 Assignments
