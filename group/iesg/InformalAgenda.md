@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-03-01T20:40:42.482Z
+date: 2024-04-04T22:14:01.698Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,6 +40,7 @@ Note that this page is public.
 ### Administrivia
 
 ### Document Discussions
+- How to deal with MUD documents? Two of the most recent "MUD" documents that have come before IESG have had some serious issues with them. What can be done beyond sending them back to the WG? (Mahesh).
 
 ### Management Issues
 
