@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-04-03T14:59:47.330Z
+date: 2024-04-05T16:08:06.294Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -61,6 +61,7 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
 #### IESG Parking Lot of Topics
 
+Please include initials next to topics, otherwise we risk forgetting what the topic is about :^)
 * Consistent IESG understanding/application of errata processing states
 * BCP14 language in documents status other than PS/S
 * Meetecho use at meetings
@@ -69,7 +70,8 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 * Not-registered participants for side meetings
 * Status and use/disuse of "Affiliate Group"
 * AI Data Center "AIDC"
-* Technology Deep Dives - future home?
+* WK: Technology Deep Dives - future home?
+* WK: Improving DT for CfA / WGLC requests.
 
 ### RSVP
 
