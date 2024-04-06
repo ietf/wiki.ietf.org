@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-04-05T15:16:07.260Z
+date: 2024-04-06T14:18:24.755Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -56,8 +56,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-| [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | -09 posted on 2024-02-26
- | Nearing WGLC? |
+| [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | -09 posted on 2024-02-26 | Nearing WGLC? |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | -13 posted on 2024–02-13  | Nearing WGLC? |
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -04 posted on 2023-10-23  | Question on using draft-ietf-pce-enhanced-errors |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -10 posted on 2024-01-16  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
