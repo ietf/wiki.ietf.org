@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-03-09T13:24:56.560Z
+date: 2024-04-06T14:19:27.810Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,13 +13,14 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
+
 
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|WGLC|draft-ietf-pce-stateful-pce-optional|Dhruv|-|
+|Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
+|Shepherd Review|draft-ietf-pce-stateful-pce-optional|Dhruv|-|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -29,7 +30,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |Item|Document|Remarks|
 |---|---|---|
-|IETF LC|draft-ietf-pce-segment-routing-ipv6|Submitted on 2023-09-08|
 |AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
 
 ## Completed Tasks by Chairs
