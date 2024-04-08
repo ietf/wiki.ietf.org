@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-03-16T00:42:04.522Z
+date: 2024-04-08T19:16:15.430Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -15,13 +15,6 @@ Wikis are used by participants to share information about and coordinate around 
 ## Upcoming meetings 
 
 ### {.tabset}
- 
-#### IETF 119 Brisbane
-**March 16-22, 2024** - :australia: Brisbane, Australia
-- [IETF 119 Meeting Wiki](/meeting/119)
-- [IETF 119 Side Meetings](/meeting/119/sidemeetings)
-- [IETF 119 Hackathon](/meeting/119/hackathon)
-{.links-list}
 
 #### IETF 120 Vancouver
 **July 20-26, 2024** - :canada: Vancouver, Canada
@@ -41,7 +34,8 @@ Wikis are used by participants to share information about and coordinate around 
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
-| **IETF 118** | :czech_republic: Prague, CZ | November 4-11, 2023 | [Meeting Wiki](/meeting/118) - [Side Meetings](/meeting/118/sidemeetings) - [Hackathon](/meeting/118/hackathon) |
+| **IETF 119** | :australia: Brisbane, AU | March 16-22, 2024 | [Meeting Wiki](/meeting/119) - [Side Meetings](/meeting/119/sidemeetings) - [Hackathon](/meeting/119/hackathon) |
+**IETF 118** | :czech_republic: Prague, CZ | November 4-11, 2023 | [Meeting Wiki](/meeting/118) - [Side Meetings](/meeting/118/sidemeetings) - [Hackathon](/meeting/118/hackathon) |
 | **IETF 117** | :us: San Francisco, USA | July 22-28, 2023 | [Meeting Wiki](/meeting/117) - [Side Meetings](/meeting/117/sidemeetings) - [Hackathon](/meeting/117/hackathon) |
 | **IETF 116** | :jp: Yokohama, JP | March 25-31, 2023 | [Meeting Wiki](/meeting/116) - [Side Meetings](/meeting/116/sidemeetings) - [Hackathon](/meeting/116/hackathon) |
 | **IETF 115** | :uk: London, UK  | November 5-11, 2022 | [Meeting Wiki](/meeting/115) - [Side Meetings](/meeting/115/sidemeetings) - [Hackathon](/meeting/115/hackathon) |
