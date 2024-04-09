@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-04-09T14:57:23.025Z
+date: 2024-04-09T17:33:37.980Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -25,6 +25,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 | Draft | Remarks |
 |---|---| 
 |draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
+| draft-wang-pce-vlan-based-traffic-forwarding | Authors have moved VLAN forwarding details to an independent I-D |
 
 ## WG Adoption Call Queue
 
@@ -32,7 +33,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | Pending | IPR-Authors (4/5)<br> IPR-Contributors (3/6) | Julien |
+| [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | In WG Adoption Poll | IPR-Authors (4/5)<br> IPR-Contributors (3/6) | Julien |
 | draft-peng-pce-stateful-pce-autobw-update | Pending | - | Julien |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
@@ -98,15 +99,14 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Shepherd review and RtgDir early review done. -15 posted addressing comments | IPR-5/5 | Dhruv | 
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | WGLC closed, all comments acknowledged resolved in IETF 119, new version pending open window. Pending Shepherd | IPR-3/3 | - | 
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Shepherd review and RtgDir early review done. Waiting for authors to update | IPR-5/5 | Dhruv | 
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Shepherd review done. Waiting for authors to update. RtgDir early review requested | IPR-3/3 | - | 
 
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) | Submitted to IESG for Publication |  Sent to AD on 2023-09-08; On IESG telechat 2024-03-07 | Hari |
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Submitted to IESG for Publication on 2023-12-30 | IDNITS - 1 issue. Early dir reviews, some nits. | Dhruv |
 
 
@@ -117,8 +117,9 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-binding-label-sid | MISSREF | Pending on draft-ietf-pce-segment-routing-ipv6 [C454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
+| draft-ietf-pce-binding-label-sid | EDIT | [C454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
+| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) |  EDIT |  [C454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Hari |
 
 
 ## Recent RFCs
