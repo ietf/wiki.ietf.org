@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-05T23:19:43.433Z
+date: 2024-04-09T17:22:37.866Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -57,8 +57,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 
-* Closing inactive/quiescent  WGs (Roman)
-* WG milestone curation (Roman)
+* Topic (NAME)
 
 #### Not important and not urgent
 
@@ -72,3 +71,7 @@ Please use your best judgement to add new items into one of the categories below
 
 ### Executive Sessions
 
+### Topics Deferred Till Next Informal 
+
+* Closing inactive/quiescent  WGs (Roman)
+* WG milestone curation (Roman)
