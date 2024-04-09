@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-04-09T15:35:28.136Z
+date: 2024-04-09T15:53:17.160Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -62,6 +62,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Not requested | RTG review comments received and working on addressing comments | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Not done | Joel Halpern 2024-01-09 (not ready). -03 and -04 posted | To trigger IPR poll | Tarek |
 | 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Not done | Darren Dukes RTGDir review done. -10 addresses issues | Wiating on new revision | Tony |
+| 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready |  | Nic |
 | 2024-04-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Not done | Not requested | | Tony |
 
 ## In Working Group Last Call
@@ -69,7 +70,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
 | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek - revised ID expected. 2nd WGLC required. |
-| 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready |  | Nic |
 
 
 ## Working Group Last Call Completed Pending Action
