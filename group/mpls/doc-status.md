@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-04-09T15:33:25.603Z
+date: 2024-04-09T15:35:28.136Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -68,7 +68,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
-| [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek |
+| [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | 2024-03-05 | 2024-03-19 | Yes | Tarek - revised ID expected. 2nd WGLC required. |
 | 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready |  | Nic |
 
 
