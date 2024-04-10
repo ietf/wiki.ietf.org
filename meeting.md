@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-04-10T22:27:13.811Z
+date: 2024-04-10T22:42:56.120Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -20,7 +20,7 @@ Wikis are used by participants to share information about and coordinate around 
 **July 20-26, 2024** - :canada: Vancouver, Canada
 - [IETF 120 Meeting Wiki](/meeting/120)
 - IETF 120 Side Meetings
-- IETF 120 Hackathon
+- [IETF 120 Hackathon](/meeting/120/hackathon)
 {.links-list}
 
 #### IETF 121 Dublin
