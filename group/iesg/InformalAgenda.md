@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-11T07:29:44.761Z
+date: 2024-04-11T13:54:51.983Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -55,11 +55,12 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent but not important
 
-* Topic (NAME)
+* ssh-reg-review list (Paul)
 
 #### Important but not urgent
 
 * Chairs' Pipeline Discussion at IETF 119 WG Chairs Lunch (Jay)
+* Specification Required using drafts (Paul)
 
 #### Not important and not urgent
 
@@ -72,6 +73,8 @@ Please use your best judgement to add new items into one of the categories below
 ### AOB
 
 ### Executive Sessions
+
+* (Paul)
 
 ### Topics Deferred Till Next Informal 
 
