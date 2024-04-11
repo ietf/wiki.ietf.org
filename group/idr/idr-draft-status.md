@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-03-22T03:46:26.287Z
+date: 2024-04-11T22:47:02.553Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -86,14 +86,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-| none | 
+| draft-ietf-bgp-sendholdtimer | Susan Hares | 4 | WG LC | Extend WG-LC (4/19)| 3/22 | 3/22-4/12 | 4/19 | need more feedback | 
 {.dense}
 
 ## WG LC Pending
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-bgp-sendholdtimer | Susan Hares | 4 | Pre-WG LC | WG LC | TBD | TBD | 
 | draft-ietf-idr-vpn-prefix-orf | Susan Hares | 2 | Pre-WG LC | WG LC | TBD | TBD |
 
 ## WG LC holding 
