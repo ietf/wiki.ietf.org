@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-11T14:38:48.271Z
+date: 2024-04-12T22:07:07.093Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - April 11, 2024 
+# Informal Telechat - April 25, 2024 
 
  There **WILL** be a meeting on this date.
 
@@ -29,11 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-* Jim
-* Murray
-* Éric V (or at least on unstable high speed train mobile connection)
-* Erik K.
-* Roman
+
 
 ## Agenda
 
@@ -44,10 +40,8 @@ Note that this page is public.
 ### Administrivia
 
 ### Document Discussions
-- How to deal with MUD documents? Two of the most recent "MUD" documents that have come before IESG have had some serious issues with them. What can be done beyond sending them back to the WG? (Mahesh).
 
 
- - draft-ietf-dnsop-avoid-fragmentation-17 (Warren)
 ### Management Issues
 
 Please use your best judgement to add new items into one of the categories below.
@@ -58,13 +52,12 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent but not important
 
-* ssh-reg-review list of RFC 9519 (Paul)
+* Topic (NAME)
 
 #### Important but not urgent
 
-* Chairs' Pipeline Discussion at IETF 119 WG Chairs Lunch (Jay)
-* Specification Required using drafts (Paul)
-* Disruptive people (Jay)
+* Closing inactive/quiescent  WGs (Roman)
+* WG milestone curation (Roman)
 
 #### Not important and not urgent
 
@@ -78,9 +71,6 @@ Please use your best judgement to add new items into one of the categories below
 
 ### Executive Sessions
 
-* (Paul)
 
 ### Topics Deferred Till Next Informal 
 
-* Closing inactive/quiescent  WGs (Roman)
-* WG milestone curation (Roman)
