@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-12T22:07:07.093Z
+date: 2024-04-12T22:31:13.172Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-
+- Tommy Pauly
 
 
 ## Agenda
