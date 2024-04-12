@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-12T17:43:02.241Z
+date: 2024-04-12T17:44:02.085Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -121,13 +121,13 @@ IAB Shepherd: Suresh Krishnan
 
 ### 2. Monthly Written Reports and Other Brief Updates - 10 mins (Public)
 
-  • IANA Liaison
-  • ICANN Board Liaison
-  • IESG Liaison
-  • IRTF Chair
-  • ISOC Liaison
-  • Liaison Coordinators
-  • Tools Liaison
+- IANA Liaison
+- ICANN Board Liaison
+- IESG Liaison
+- IRTF Chair
+- ISOC Liaison
+- Liaison Coordinators
+- Tools Liaison
 
 
 ### 3. Next IAB Meeting <5 mins (Public)
