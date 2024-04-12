@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-03T16:40:55.424Z
+date: 2024-04-12T17:43:02.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,13 +31,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-03-21 business meeting - Thursday IETF 119 - (submitted 2024-03-22) 
+* 2024-03-21 business meeting - Thursday IETF 119 - (submitted 2024-03-22)
+* 2024-04-03 business meeting - (submitted 2024-04-03) 
 
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
+* 2024-03-17: Tommy Pauly to send IAB feedback to the ISE.
 
+* 2024-04-03: Cindy Morgan to draft timelines for upcoming IAB 
+    Appointments.
 
 ##### On Hold:
 
@@ -65,20 +69,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
     update the text that describes Technical Programs and 
     Administrative Support Groups.
 
-* 2024-03-17: Tommy Pauly to send IAB feedback to the ISE.
-
 * 2024-03-17: Suresh Krishnan to follow up with the IETF-3GPP 
     Administrative Support Group about updating RFC 3113, "3GPP-IETF 
     Standardization Collaboration."
 
-
-
 * 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
     Workshops page on the IAB website and a blog post about IETF work 
     that came out of IAB workshops.
-    
-* 2024-04-03: Cindy Morgan to draft timelines for upcoming IAB 
-    Appointments.
 
 * 2024-04-03: Alvaro Retana to follow up with Ed Birrane about 
     collaboration with CCSDS on a requirements document for satellite 
@@ -86,12 +83,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-#### 1.5. IAB Document Status Update
+#### 1.5. IAB Document Status Update - No updates since last meeting
 
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
 - **draft-iab-privacy-partitioning-05**
-Sent to the RFC Editor: EDIT
+Sent to the RFC Editor: RFC-EDITOR
 IAB Shepherd: David Schinazi
 
 - **draft-iab-bias-workshop-report-00**
@@ -100,35 +97,52 @@ IAB Shepherd: Suresh Krishnan
 
 
 
-#### 1.6. WG Chartering in Progress (Initial Charters Only)
+#### 1.6. IAB Review of WG Charters - No updates since last meeting
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
-- **Mail Maintenance (mailmaint)**
+-   **Mail Maintenance (mailmaint)**
     Area: ART
     Internal Review
-    IESG Telechat: 2024-04-04
-    IAB Reviewer: Wes Hardaker
+    IESG Telechat: (None)
+    IAB Reviewer: Wes Hardaker (sent 2024-04-03)
 
-- **Multiformats (multi)**
-Area: ART
-Internal Review
-IESG Telechat: (None)
-IAB Reviewer: Qin Wu
+-   **Multiformats (multi)**
+    Area: ART
+    Internal Review
+    IESG Telechat: (None)
+    IAB Reviewer: Qin Wu (sent 2023-09-12)
 
-- **Secure Patterns for Internet CrEdentials (spice)**
+-   **Secure Patterns for Internet CrEdentials (spice)**
     Area: SEC
-    Draft Charter
-    IESG Telechat: (none)
-    IAB Reviewer: (not assigned)
+    Internal Review
+    IESG Telechat: 2024-04-18
+    IAB Reviewer: Dhruv Dhody (sent 2024-04-05)
 
-### 2. 
+### 2. Monthly Written Reports and Other Brief Updates - 10 mins (Public)
+
+  • IANA Liaison
+  • ICANN Board Liaison
+  • IESG Liaison
+  • IRTF Chair
+  • ISOC Liaison
+  • Liaison Coordinators
+  • Tools Liaison
+
+
+### 3. Next IAB Meeting <5 mins (Public)
+
+  Goal: Does the IAB have a topic for a technical discussion on 
+  2024-04-24?
+
+
+### 4. Executive Session: Requirements for IAB-appointed positions
+
+  Goal: Brainstorm requirements and logistics for various upcoming 
+  Appointments
 
 ## Upcoming Teleconferences 
 
-* 2024-04-17: IAB Business Meeting
-  - Monthly reports
-  - Executive Session: IRTF Chair and other appointments
 * 2024-04-24: IAB Technical Discussion (Reserved)
 * 2024-05-01: IAB Business Meeting
 * 2024-05-08: IAB Business Meeting (Reserved)
