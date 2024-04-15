@@ -2,7 +2,7 @@
 title: WEB3WEBSITES
 description: w3w
 published: true
-date: 2024-04-15T01:37:53.801Z
+date: 2024-04-15T01:38:40.975Z
 tags: w3c
 editor: markdown
 dateCreated: 2022-07-23T19:47:08.101Z
@@ -13,8 +13,8 @@ user: jrodriguez74909@gmail.com
 smartphone: Galaxy A03
 phone number: +526463830463
 address: eucalipto 22, indeco lomitas, Ensenada, Baja California, Mexico.
-- Developer Account https://developers.google.com/profile/u/juliogit16
-- github http://www.github.com/juliogit6
+- Developer Account https://developers.google.com/profile/u/jimhilljameel
+- github http://www.github.com/bigjimhilljameel
 Never use remote
 ----
 Nota: Not run the next text this false.
