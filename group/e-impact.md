@@ -2,7 +2,7 @@
 title: E-IMPACT - Environmental impacts of the Internet
 description: Environmental impacts of the Internet
 published: true
-date: 2024-04-16T12:59:17.457Z
+date: 2024-04-16T15:13:34.217Z
 tags: other
 editor: markdown
 dateCreated: 2024-02-13T16:46:40.819Z
