@@ -2,7 +2,7 @@
 title: E-IMPACT - Environmental impacts of the Internet
 description: Environmental impacts of the Internet
 published: true
-date: 2024-02-14T22:40:41.685Z
+date: 2024-04-16T12:59:17.457Z
 tags: other
 editor: markdown
 dateCreated: 2024-02-13T16:46:40.819Z
@@ -20,6 +20,8 @@ dateCreated: 2024-02-13T16:46:40.819Z
 
   - [ICT Sector Guidance from the GHG protocol](https://ghgprotocol.org/sites/default/files/2023-03/GHGP-ICTSG%20-%20ALL%20Chapters.pdf)
   
+  - [Lunden, Bergmark and Malmodin](https://www.sciencedirect.com/science/article/pii/S0308596123002124?via%3Dihub) Breakdown of ICT impact across [production;operation], and [devices, datacenter, networks
+  
   
   
 ## Misc
@@ -27,6 +29,8 @@ dateCreated: 2024-02-13T16:46:40.819Z
   - [Écoinfo](https://cnrs.hal.science/ECOINFO/browse/last)
   - [ICT4S](https://conf.researchr.org/series/ict4s)
   - [The Shift Project](https://theshiftproject.org/en/lean-ict-2/)
+  - [Waste factor paper](https://arxiv.org/abs/2309.01018)
+  
   
   
 ## Missing references so far
