@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-04-09T17:26:36.154Z
+date: 2024-04-16T10:26:53.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -20,7 +20,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 |Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
-|Shepherd Tracking|draft-ietf-pce-stateful-pce-optional|Dhruv|Waiting for authors to post a new version|
 |Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to post a new version|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -31,6 +30,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Remarks|
 |---|---|---|
 |AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
+|AD Review|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
