@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-12T17:44:14.788Z
+date: 2024-04-16T20:37:40.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -130,13 +130,16 @@ IAB Shepherd: Suresh Krishnan
 - Tools Liaison
 
 
-### 3. Next IAB Meeting <5 mins (Public)
+### 3. Addition of service.arpa to the arpa zone (r6dnu2eh) (Wes) <5 mins (Public)
+
+
+### 4. Next IAB Meeting <5 mins (Public)
 
   Goal: Does the IAB have a topic for a technical discussion on 
   2024-04-24?
 
 
-### 4. Executive Session: Requirements for IAB-appointed positions
+### 5. Executive Session: Requirements for IAB-appointed positions
 
   Goal: Brainstorm requirements and logistics for various upcoming 
   Appointments
