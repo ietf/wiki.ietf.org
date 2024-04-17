@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-16T20:37:40.044Z
+date: 2024-04-17T15:54:00.394Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-04-17 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-05-01 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-04-12. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-04-17. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,17 +31,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-03-21 business meeting - Thursday IETF 119 - (submitted 2024-03-22)
-* 2024-04-03 business meeting - (submitted 2024-04-03) 
-
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
-* 2024-03-17: Tommy Pauly to send IAB feedback to the ISE.
 
-* 2024-04-03: Cindy Morgan to draft timelines for upcoming IAB 
-    Appointments.
 
 ##### On Hold:
 
@@ -77,13 +71,21 @@ dateCreated: 2023-12-04T23:35:41.632Z
     Workshops page on the IAB website and a blog post about IETF work 
     that came out of IAB workshops.
 
-* 2024-04-03: Alvaro Retana to follow up with Ed Birrane about 
-    collaboration with CCSDS on a requirements document for satellite 
-    networking.
+* 2024-04-03: Alvaro Retana to report back on the CCSDS discussion 
+    about collaboration on a requirements document for satellite 
+    networking. (Check back 2024-05-15)
 
+* 2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN 
+    NomCom Liaison appointment once the list of positions being filled 
+    is available.
 
+* 2024-04-17: Cindy Morgan to check whether the incumbent RSWG Chair 
+    is willing to continue and draft text for a call for nominations.
 
-#### 1.5. IAB Document Status Update - No updates since last meeting
+* 2024-04-17: Cindy Morgan to update the IRTF Chair timeline to open 
+    nominations before IETF 120, with a longer CFN and feedback period.
+
+#### 1.5. IAB Document Status Update 
 
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
@@ -97,7 +99,7 @@ IAB Shepherd: Suresh Krishnan
 
 
 
-#### 1.6. IAB Review of WG Charters - No updates since last meeting
+#### 1.6. IAB Review of WG Charters 
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
@@ -119,34 +121,9 @@ IAB Shepherd: Suresh Krishnan
     IESG Telechat: 2024-04-18
     IAB Reviewer: Dhruv Dhody (sent 2024-04-05)
 
-### 2. Monthly Written Reports and Other Brief Updates - 10 mins (Public)
-
-- IANA Liaison
-- ICANN Board Liaison
-- IESG Liaison
-- IRTF Chair
-- ISOC Liaison
-- Liaison Coordinators
-- Tools Liaison
-
-
-### 3. Addition of service.arpa to the arpa zone (r6dnu2eh) (Wes) <5 mins (Public)
-
-
-### 4. Next IAB Meeting <5 mins (Public)
-
-  Goal: Does the IAB have a topic for a technical discussion on 
-  2024-04-24?
-
-
-### 5. Executive Session: Requirements for IAB-appointed positions
-
-  Goal: Brainstorm requirements and logistics for various upcoming 
-  Appointments
 
 ## Upcoming Teleconferences 
 
-* 2024-04-24: IAB Technical Discussion (Reserved)
 * 2024-05-01: IAB Business Meeting
 * 2024-05-08: IAB Business Meeting (Reserved)
 * 2024-05-15: IAB Business Meeting
