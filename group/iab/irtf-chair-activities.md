@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T15:56:22.369Z
+date: 2024-04-17T16:00:06.219Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -111,7 +111,7 @@ Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (
   * Participate in research studies (e.g., students doing studies of Internet governance)
 * Participate in Internet governance activities
   * IRTF chair will likely receive invitations to engage with national and regional government consultations and events
-  * IRTF chair is invited to attend UN Internet Governance Forum, may with to engage with national IGF, etc.
+  * IRTF chair is invited to attend UN Internet Governance Forum, may wish to engage with national IGF, etc.
   * Contribute to IAB response to consultations, giving research perspective
 * Participate in IAB-ISOC activities
   * IRTF Chair is likely to be invited to participate in ISOC Policymakers programme, Policy Roundtable, IAB-ISOC coordination programme, etc.
