@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-17T20:32:54.712Z
+date: 2024-04-17T20:49:16.707Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -85,7 +85,6 @@ a result of IP filters
 2. Redirect to IP 
 [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
 
-
 **New IP filters from draft-ietf-idr-flowspec-v2**
  1. generalized redirection for IPv6 (EC-v6) 
  [draft-ietf0-idr-srv6-flowspec-path-redirect-11](https://datatracker.ietf.org/doc/html/draft-ietf0-idr-srv6-flowspec-path-redirect-11) 
@@ -104,6 +103,34 @@ Mark APN Group ID (full, partial, inherit, or stitch)
 [draft-shen-idr-flowspec-traffic-compress-action-01](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/)
 
 
-## Non-IP Filters
+### 4. Non-IP Filters and Actions 
 
+FSv2 (([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) specified Non-IP filters for MPLS, SFC, L2VPN, and tunnels (using nvo3 concepts). 
+
+
+**Design team:** Design Team 4 - Non-IP Filters and Actions    
+**Meetings before IETF-120:** 5/13 and 6/17 (Time 10-11:30am ET) 
+**appropriate drafts:** Drafts proposing any Non-IP filters or Non-IP Actions 
+**initial drafts:**  
+1. draft-ietf-hares-fsv2-non-IP -
+  This FSv2 work included MPLS Filters and actions. 
+  
+2. [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) 
+This IDR WG draft provides the L2 Filters and Actions. 
+
+3.[draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/)
+  This IDR draft includes filtering of various headers of 
+  L2 and L3 tunnels.  
+
+4. [RFC9015](https://datatracker.ietf.org/doc/rfc9015/)
+This draft provides the SFC flowspecification filters and actions. 
+
+**individual drafts for this team **:
+1. [draft-xiong-idr-detnet-flow-mapping](https://datatracker.ietf.org/doc/draft-xiong-idr-detnet-flow-mapping/) 
+This draft provides L2 + latency filters and actions. 
+
+2. [draft-zzd-flowspec-path-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/)
+Filtering and actions based on packet timing. 
+
+Additional 
  
