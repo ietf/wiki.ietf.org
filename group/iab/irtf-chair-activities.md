@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T15:56:17.807Z
+date: 2024-04-17T15:56:22.369Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
