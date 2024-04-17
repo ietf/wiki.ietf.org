@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-17T16:08:48.915Z
+date: 2024-04-17T17:31:58.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -46,16 +46,15 @@ b. Drafts with filters
 FSv2 opens the possibility to add new filters for data packets (IP and non-IP). This chunk of work expands the IP filters based on the following: 
 a. New IP filters from draft-ietf-idr-flowspec-v2 
 b. New IP filters proposed to IDR 
+New Filtesr 
 
 Design Team: Design 
 Initial draft: draft-hares-idr-fsv2-IP-filters
 existing IDR drafts on IP filters: 
 
 ### 3. More IP Actions for FSv2 
-FSv2 
 
 4. Non-IP Filters and actions 
-
 
 As presented at IETF-119 in the IDR session, we will be creating design teams to break the full draft into pieces. 
 Your content here
