@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T15:54:02.635Z
+date: 2024-04-17T15:55:08.842Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -33,7 +33,7 @@ Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (
 
 * Act of IRTF Representative on RSAB (can potentially be delegated)
 
-Responsible for managing existing IRTF research groups:
+**Responsible for managing existing IRTF research groups:**
 * Appoint replacement chairs, as needed
 * Manage rechartering, as needed
 * Liaise with RG chairs
@@ -45,7 +45,7 @@ Responsible for managing existing IRTF research groups:
 * Work with Secretariat/RG chairs on agenda planning
 * Work with Secretariat/IAB to schedule IAB review of RGs
 
-Responsible for chartering new IRTF research groups:
+**Responsible for chartering new IRTF research groups:**
 * Review charter proposals, formal or informal, from interested parties; give feedback as appropriate
 * Help to develop promising ideas into proposed RGs
   * Support proponents to put together initial group of participants, organise workshop and side meetings to develop ideas, etc.
@@ -58,22 +58,22 @@ Responsible for chartering new IRTF research groups:
   * Direct non-IRTF work towards IETF, Independent Stream, other SDOs, other research or industry venues, as appropriate
   * Work with proponents to support them when declining to charter an activity
 
-Responsible for closing no-longer relevant/viable IRTF research groups
+**Responsible for closing no-longer relevant/viable IRTF research groups**
 * Work with chairs to manage expectations prior to closing
 
-Maintain awareness of relevant research areas
+**Maintain awareness of relevant research areas**
 * Keep up-to-date with literature, relevant conferences, etc.
 * Keep up-to-date with relevant activities in IETF
 * Attend relevant ACM/IEEE/USENIX conferences and events
 
-Chair IRSG:
+**Chair IRSG:**
 * Manage RG chairs, as above
 * Manage draft review process, as above
 * Appoint at-large members, as needed
 * Arrange IRSG dinner at IETF meeting
 * Report to IETF Plenary
 
-Support ANRW as Steering Committee Chair:
+**Support ANRW as Steering Committee Chair:**
 * Appoint TPC Chairs in coordination with Steering Committee
 * Coordinate with ACM
   * Revise and update MoU, as needed
@@ -83,20 +83,21 @@ Support ANRW as Steering Committee Chair:
 * Update website as needed
 * Publicity via IRTF website and social media
 
-Maintain IRTF Website
+**Maintain IRTF Website**
 * Update for ANRW
 * Update for ANRP
 * Update for travel grants
 * Update for changes to RGs
 
-Manage IRTF social media
+**Manage IRTF social media**
 * Twitter
 * Mastodon
 * LinkedIn
 * Facebook
 * Blog posts
+* Coordinate with Greg Wood on all the above
 
-Participate as ex-officio member of IAB
+**Participate as ex-officio member of IAB**
 * Attend weekly business meetings
 * Attend business meetings during IETF (Sunday, Tuesday/Thursday breakfast)
 * Attend joint IAB/IESG meetings during IETF (Sunday, Friday)
@@ -119,14 +120,14 @@ Participate as ex-officio member of IAB
 * Participate in selection of ISE
   * IRTF Chair has been involved in selection of the ISE, to ensure there is cross stream input into the decision
 
-Promote diversity of IRTF participants
+**Promote diversity of IRTF participants**
 * Run IRTF Diversity travel grant programme
   * Advertising the programme
   * Organise the review process and make decisions
   * Secretariat organise the logistics
 * Organise and promote other diversity initiatives as necessary
 
-Manage ANRP
+**Manage ANRP**
 * Appoint award committee
 * Manage review process
   * Assign reviewers
@@ -141,12 +142,12 @@ Manage ANRP
   * Organise talk logistics, collect slides, paper, etc.
   * Chair IRTF Open Meeting with award talks
 
-IRTF Open Meeting
+**IRTF Open Meeting**
 * Logistics for talks from ANRP winners (as above)
 * Prepare agenda and Chair meeting
 * Ensure minutes are taken
 
-Attend IETF meetings
+**Attend IETF meetings**
 * Attend IRTF RGs, ANRW, IRTF Open Meeting
 * Attend side meetings relating to potential RG topics
 * Attend IAB Open and IAB business meetings
@@ -155,8 +156,8 @@ Attend IETF meetings
 * Track BoFs and side meetings for relevance to IRTF
 * Decide on IRTF in-person meeting fee waivers
 
-Review and update IRTF process documents, working with IRSG, IETF LLC, Secretariat, and Legal as needed:
+**Review and update IRTF process documents, working with IRSG, IETF LLC, Secretariat, and Legal as needed:**
 * e.g., policy for reporting potential copyright infringement by IRTF, policy for cross-stream updates affecting IRTF RFCs, inclusive language policy, archival of AUTH48 communications, policy for restricting access to IRTF mailing lists and events, fee waiver policy, code of conduct, 2014bis, …
 
-Manage code of conduct violations, harassment, etc.
+**Manage code of conduct violations, harassment, etc.**
 * Liaise with Ombudsteam, Legal, IETF LLC, Secretariat, IRSG, and IESG as needed
