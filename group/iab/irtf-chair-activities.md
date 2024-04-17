@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T15:52:30.545Z
+date: 2024-04-17T15:53:19.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -18,12 +18,12 @@ Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (
 
 Responsible for the IRTF publication stream:
 * Manage to IRSG document review process after RG last call
-  * Initial review of draft (broadly similar to AD review)
-  * Assign IRSG reviewer
-  * Initiate IRSG ballot
-  * Initiate IESG conflict review (RFC 5742) and IANA review
-  * Sent to RFC Editor
-  * Manage any AUTH48 discussion
+  - Initial review of draft (broadly similar to AD review)
+  - Assign IRSG reviewer
+  - Initiate IRSG ballot
+  - Initiate IESG conflict review (RFC 5742) and IANA review
+  - Sent to RFC Editor
+  - Manage any AUTH48 discussion
 * Act as IRTF Stream Manager
 	* Liaise with RPC and RFC Series Editor
 	* Organise review of errata for IRTF stream RFCs (most of the IRTF errata relate to CFRG-produced RFCs and review is delegated to the CFRG chairs)
