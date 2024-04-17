@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T15:55:08.842Z
+date: 2024-04-17T15:56:17.807Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -37,7 +37,7 @@ Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (
 * Appoint replacement chairs, as needed
 * Manage rechartering, as needed
 * Liaise with RG chairs
-  * Guidance on direction – too many RGs act as WGs
+  * Guidance on direction – maintain distinction between RGs and WGs
   * Awareness of potential issues
 * Maintain awareness of activity in research groups
   * Attend meetings, or review minutes/recordings
