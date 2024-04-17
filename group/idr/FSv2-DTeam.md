@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-17T20:49:45.169Z
+date: 2024-04-17T22:12:39.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -23,7 +23,7 @@ implemented a little at a time.  These "chunks" of technology will be
 3. More Actions for FSv2
 4. Non-IP actions for FSv2 
 
-Below is a description of the "chunks" of technology.  The IDR will be starting up 4 parallel design teams (see below)  to resolve issues with basic drafts in each area, and encourage new work for FSv2 filters and actions. 
+Below is a description of the "chunks" of technology.  The IDR will be starting up 4 parallel design teams (see below)  to resolve issues with basic drafts in each area, and encourage new work for FSv2 filters and actions.  By parallel, we mean that the 4 design teams will operate simulataneously. 
 
 The IDR draft ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) will be kept as an IDR draft that combines approved FSv2 issues. 
 
