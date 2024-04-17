@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-17T20:49:16.707Z
+date: 2024-04-17T20:49:45.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -132,5 +132,5 @@ This draft provides L2 + latency filters and actions.
 2. [draft-zzd-flowspec-path-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/)
 Filtering and actions based on packet timing. 
 
-Additional 
+
  
