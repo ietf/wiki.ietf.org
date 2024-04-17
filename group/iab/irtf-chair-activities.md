@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T15:53:38.800Z
+date: 2024-04-17T15:54:02.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -16,7 +16,7 @@ The following is an attempt to outline the set of tasks performed by the IRTF Ch
 
 Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (3x IETF, 1x IAB retreat; possibly others) *plus* time taken to keep up-to-date with the research community, including attending conferences such as ACM SIGCOMM, IMC, etc., and any outreach activities.
 
-Responsible for the IRTF publication stream:
+**Responsible for the IRTF publication stream:**
 * Manage to IRSG document review process after RG last call
   * Initial review of draft (broadly similar to AD review)
   * Assign IRSG reviewer
