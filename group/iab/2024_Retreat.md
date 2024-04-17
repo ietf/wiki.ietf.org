@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-03-28T12:14:08.737Z
+date: 2024-04-17T15:44:32.388Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -26,7 +26,7 @@ WC2H 8AG
 
 ## Proposed Agenda Topics
 
-&nbsp;
+- IETF-3GPP Relationship (Suresh)
 
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
