@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2024-04-16T18:39:40.759Z
+date: 2024-04-17T12:04:58.055Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -39,6 +39,7 @@ If you have questions or concerns regarding the implementation requirement, plea
 [CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/group/idr/CAR-CTAdoption)
 
 ## FSv2 Design teams 
+[Background on Design Teams](/group/idr/FSv2-DTeam)
 [Design Team-1: Basic IP FSv](/group/idr/Basic-IP-FSv2)
 [Design Team 2: More IP Filters for FSv2](/group/idr/More-IP-Filter-FSv2)
 [Design Team 3: More IP Actions for FSv2](/group/idr/More-IP-Action-FSv2)
