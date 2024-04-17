@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2024-04-17T15:46:27.279Z
+date: 2024-04-17T15:48:56.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
@@ -38,7 +38,7 @@ From RFC 2850:
 >    The IRTF chair is an ex-officio member as defined in Section 1.2.
    
 [The Role of the IRTF Chair - RFC 7827](https://datatracker.ietf.org/doc/rfc7827/)
-[What does the IRTF Chair do?]
+[What does the IRTF Chair do?](/group/iab/irtf-chair-activities)
 
 ### Current Chair 
 - Colin Perkins, 2019-
