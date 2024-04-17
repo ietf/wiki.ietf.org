@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T16:00:06.219Z
+date: 2024-04-17T16:01:40.389Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -157,7 +157,7 @@ Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (
 * Decide on IRTF in-person meeting fee waivers
 
 **Review and update IRTF process documents, working with IRSG, IETF LLC, Secretariat, and Legal as needed:**
-* e.g., policy for reporting potential copyright infringement by IRTF, policy for cross-stream updates affecting IRTF RFCs, inclusive language policy, archival of AUTH48 communications, policy for restricting access to IRTF mailing lists and events, fee waiver policy, code of conduct, 2014bis, …
+* Illustrative examples: policy for reporting potential copyright infringement by IRTF, policy for cross-stream updates affecting IRTF RFCs, inclusive language policy, archival of AUTH48 communications, policy for restricting access to IRTF mailing lists and events, fee waiver policy, code of conduct, 2014bis, …
 
 **Manage code of conduct violations, harassment, etc.**
 * Liaise with Ombudsteam, Legal, IETF LLC, Secretariat, IRSG, and IESG as needed
