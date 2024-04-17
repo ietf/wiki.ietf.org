@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-17T13:22:53.643Z
+date: 2024-04-17T13:23:31.179Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -23,7 +23,7 @@ implemented a little at a time.  These "chunks" of technology will be
 2. More IP Filters for FSv2
 3. More Actions for FSv2
 4. Non-IP actions for FSv2 
- 
+
 
 ### 1. Basic FS v2 for DDOS   
 The key addition for this chunk of FSv2 is the user ordering of filters defined by the FSv2. 
