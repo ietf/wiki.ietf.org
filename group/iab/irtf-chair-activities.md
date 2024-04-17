@@ -2,7 +2,7 @@
 title: What does the IRTF Chair do?
 description: 
 published: true
-date: 2024-04-17T16:13:42.028Z
+date: 2024-04-17T16:13:54.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T15:47:42.029Z
@@ -161,5 +161,5 @@ Time commitment is likely 20-25% FTE, plus at least 4 long haul trips per year (
 * Work with IRSG, IETF LLC, Secretariat, and Legal as needed
 
 
-## Manage code of conduct violations, harassment, etc.
+## Handle code of conduct violations, harassment, etc.
 * Liaise with Ombudsteam, Legal, IETF LLC, Secretariat, IRSG, and IESG as needed
