@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-17T22:27:05.008Z
+date: 2024-04-17T22:28:29.150Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -82,12 +82,10 @@ c. Dependency between filters.
 ## Meetings Times and Dates for all FSv2 Design teams
 
 Topics for design teams
-**Design Team 1: Basic IP FSv2: **    Current IPv4/v6 filters + current actions + order
-Design Team 2: More IP Filters FSv2 
-   Defining more IP filters to add to IP
-Design Team 3: More IP actions FSv2
-  Defining more actions  + action sequences
-Design Team 4: Non-IP filters and actions FSv2
+**Design Team 1: Basic IP FSv2: **  
+Design Team 2: More IP Filters FSv2 - Adding IP filters to FSv2
+Design Team 3: More IP actions FSv2 - Adding More IP Actions to FSv2 + Action ordering 
+Design Team 4: Non-IP filters and actions FSv2 - Adding Non-IP filters and actions 
 
 Meetings: 4/29, 5/6, 5/13, 6/3, 6/10, and 6/17
 Time: 10:00-11:30 am EDT (7-8:30am PDT)
