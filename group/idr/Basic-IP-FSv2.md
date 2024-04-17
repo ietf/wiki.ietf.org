@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-17T14:56:23.387Z
+date: 2024-04-17T16:08:52.181Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -26,13 +26,12 @@ b. Drafts with filters
 **Time for Meeting:** 4/29, 6/3 
 **Team Members:** (TBD) 
 
-### Open issues for Design Team 1: 
+### Open issues for Design Team 1 
 **1. Does the User Ordering Encoding support use cases for current DDOS scenarios? **
 There are two 
 
 2. What happens if multiple FSv2 filters are received with the the same user order?
-Currently the 
-3. 
+Currently the FSv2 uses the form 
 
 
 2. More IP Filters for FSv2  
