@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2024-04-17T12:04:58.055Z
+date: 2024-04-18T11:59:29.618Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -20,18 +20,20 @@ If you have questions or concerns regarding the implementation requirement, plea
 
 [idr-draft-status](idr-draft-status)
 [Early Allocation Status](/group/idr/Early-Allocation-Status)
-[Feedback for BESS drafts](/group/idr/Feedback-to-BESS)
-[Feedback for PCE drafts](/group/idr/Feedback-to-PCE)
-[Feedback for Bier drafts](/group/idr/Feedback-to-Bier)
-[Feedback for SIDROPS drafts](/group/idr/Feedback-to-SIDROPS)
-[Feedback for RTGWG drafts](/group/idr/Feedback-to-RTGWG)
-[Feedback on Yang Models](/group/idr/Feedback-Yang-Models)
 [Features for BGP Yang Models](/group/idr/BGP-Model-Features)
 
 ## Draft Implementation status
 
 [Protocol implementations Reports](/group/idr/implementations) 
 [Administrative draft testimonials](/group/idr/BGP-Admin-IANA)
+
+## Feedback to other WGs 
+[Feedback for BESS drafts](/group/idr/Feedback-to-BESS)
+[Feedback for PCE drafts](/group/idr/Feedback-to-PCE)
+[Feedback for Bier drafts](/group/idr/Feedback-to-Bier)
+[Feedback for SIDROPS drafts](/group/idr/Feedback-to-SIDROPS)
+[Feedback for RTGWG drafts](/group/idr/Feedback-to-RTGWG)
+[Feedback on Yang Models](/group/idr/Feedback-Yang-Models)
 
 ## Notes on CAR/CT 
 [CAR WG LC](/group/idr/CAR-WGLC)
@@ -45,7 +47,22 @@ If you have questions or concerns regarding the implementation requirement, plea
 [Design Team 3: More IP Actions for FSv2](/group/idr/More-IP-Action-FSv2)
 [Design Team 4: Design Team 4: Non-IP filters and actions FSv2](/group/idr/Non-IP-FSv2)
 
-## Minutes from Past 2021 IDR Interims
+## Interims 
+
+## Interims in 2024 
+
+### Interims in 2023 
+[IDR Interim-1 in April 2023](/group/idr/IDR-New-Drafts-Apr2023)
+[IDR interim-2 on Sept 25, 2023](/group/idr/IDR-Interim2-Sept2023)
+
+## Interims in 2022 
+[BGP Autoconfiguration + FSv2 - moved to January 10th or 24th](/group/idr/BGPAustoconfiguration+FSv2)
+[Embedded NLRI and Error Handling (CAR, Classful Transport)) - Moved to January 10th or 24th](/group/idr/EmbeddedNLRI)
+
+[IDR-New-Drafts-Aug-2022 - 8/29/2022](/group/idr/IDR-New-Drafts-Aug2022)
+[IDR-CAR-CT and NextHop - Oct-2022](/group/idr/IDR-CAR-CTandNextHop-Oct-
+
+### Interims in 2021
 
 [June 07, 2021 - Flow Specification Feedback](/group/idr/FlowSpecificationFeedback)
 [June 21, 2021 - AutoConfiguration Feedback](/group/idr/AutoConfigurationFeedback)
@@ -54,19 +71,6 @@ If you have questions or concerns regarding the implementation requirement, plea
 [October 11, 2021 - Embedded NLRI and Error Handling (CAR, Classful Transport)) - cancelled](/group/idr/EmbeddedNLRIandErrorHandling)
 [October 18, 2021 - BGP Autoconfiguration + New Drafts](/group/idr/BGPAutoconfiguration)
 
-## Interim in 2022 Prior to IETF 113
-
-[BGP Autoconfiguration + FSv2 - moved to January 10th or 24th](/group/idr/BGPAustoconfiguration+FSv2)
-[Embedded NLRI and Error Handling (CAR, Classful Transport)) - Moved to January 10th or 24th](/group/idr/EmbeddedNLRI)
-
-## Interims in 2022 After IETF-114
-
-[IDR-New-Drafts-Aug-2022 - 8/29/2022](/group/idr/IDR-New-Drafts-Aug2022)
-[IDR-CAR-CT and NextHop - Oct-2022](/group/idr/IDR-CAR-CTandNextHop-Oct-2022) - 10/13/2022
-
-## Interims in 2023 
-[IDR Interim-1 in April 2023](/group/idr/IDR-New-Drafts-Apr2023)
-[IDR interim-2 on Sept 25, 2023](/group/idr/IDR-Interim2-Sept2023)
 
 ## Useful information
 
