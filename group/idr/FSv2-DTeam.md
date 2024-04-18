@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-18T11:55:34.197Z
+date: 2024-04-18T12:22:11.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -43,7 +43,8 @@ This initial draft will stay with the FSv IPv4 and IPv6 and current actions in t
 **Design team:** Design Team 1 - Basic IP FSv2 
 **Meetings before IETF-120:** 4/29 and 6/3 (Time 10-11:30am EDT) 
 **Meets with Design Team 2:** 5/6 and 6/10 (Time 10-11:30am EDT)  
-**initial draft:**  [draft-hares-idr-fsv2-IP-Basic]
+**initial draft:**  [draft-hares-idr-fsv2-IP-Basic](https://datatracker.ietf.org/doc/draft-hares-idr-fsv2-ip-basic/) 
+
 **New drafts requested:** 
 a. Drafts that discuss the pros/cons of filter ordering for work 
 b. Drafts with filters 
