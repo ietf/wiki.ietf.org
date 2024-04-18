@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-17T22:33:10.684Z
+date: 2024-04-18T12:01:41.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -61,23 +61,10 @@ a. New IP Filters,
 b. New Non-IP Filters, and 
 c. Dependency between filters. 
 
-
 4. What happens if errors are detected in the parsing of the filters? 
-
 5. What happens if errors are detected when filters are used? 
-
 6. What type of validity checks should be issues. 
 
-
-
-
-**4/29 agenda:**
-0) Agenda Bashing  [5 minutes]
-1) Introduction of Design team members [5 minutes]
-2) Review of FSv2 split + Communities for FSv2  [10 minutes]
-3) Discussion of Basic IP FSv2 [30 minutes]
-4) Discussion of Filter ordering + Deployment issues [30 minutes]
-5) Action items [10 minutes]
 
 ## Meetings Times and Dates for all FSv2 Design teams
 
@@ -93,4 +80,14 @@ Design Team 1 Meets: 4/29, 6/3
 Design Teams 1 and 2 Meet: 5/6, 6/10
 Design Teams 3 and 4 Meet: 5/13, 6/17
  
+ 
+## Agenda for 4/29/2024 Interim 
+
+0) Agenda Bashing  [5 minutes]
+1) Introduction of Design team members [5 minutes]
+2) Review of FSv2 split + Communities for FSv2  [10 minutes]
+3) Discussion of Basic IP FSv2 [30 minutes]
+4) Discussion of Filter ordering + Deployment issues [30 minutes]
+5) Action items [10 minutes]
+
  
