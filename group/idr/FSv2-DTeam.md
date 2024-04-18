@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-17T22:33:16.017Z
+date: 2024-04-18T11:55:34.197Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -10,25 +10,30 @@ dateCreated: 2024-04-17T12:08:27.991Z
 
 # Background on FSv2 Design Teams
 
-## Why Design teams
 
-Flow Specification v2 work was chartered to fix the ordering problems with FSv1 (IPv4 [RFC8959](https://datatracker.ietf.org/doc/rfc8955/), IPv6 [RFC8956](https://datatracker.ietf.org/doc/rfc8956/), and allow for grow in adding new filters and actions.  
+## 4 Parallel Design Teams to Speed up FSv2 work. 
 
-Flow Specification v2 found the current full flow specification draft: 
-([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) technically correct, but a lot to implement.  
+Flow Specification v2 work was chartered to fix the ordering problems with FSv1 (IPv4 [RFC8959](https://datatracker.ietf.org/doc/rfc8955/), IPv6 [RFC8956](https://datatracker.ietf.org/doc/rfc8956/), and allow for grow in adding new filters and actions.  Flow Specification v2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) is technically correct, but a lot to implement.  
+
 Since IDR requires 2 implementations to publish an RFC, the implementers have requested we break the draft into "chunks" that can be 
-implemented a little at a time.  These "chunks" of technology will be
+implemented a little at a time.  These "chunks" (portions) of technology will be
+
 1. Basic FSv2 for DDOS  
 2. More IP Filters for FSv2
 3. More Actions for FSv2
 4. Non-IP actions for FSv2 
 
-Below is a description of the "chunks" of technology.  The IDR will be starting up 4 parallel design teams (see below)  to resolve issues with basic drafts in each area, and encourage new work for FSv2 filters and actions.  By parallel, we mean that the 4 design teams will operate simulataneously. 
+Below is a description of the "chunks" of technology, and how four parallel design teams (design teams 1-4) will progress work on documents for each chunk. 
 
-The IDR draft ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) will be kept as an IDR draft that combines approved FSv2 issues. 
+By parallel, we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology.  It is hoped that implementers will 
+
+## What happens to current FSv2 
+The IDR draft ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) will be kept as an IDR WG draft that combines approved FSv2 issues. This document will collect approved changes into one place.  
+
 
 ### How to Join a FSv2 Design 
-Send email to idr-chairs@ietf.org or contact Susan Hares (shares@ndzh.com) 
+Send email to idr-chairs@ietf.org or contact Susan Hares (shares@ndzh.com).  
+ 
 
 ### 1. Basic FS v2 for DDOS   
 The key addition for this chunk of FSv2 is the user ordering of filters defined by the FSv2. 
