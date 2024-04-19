@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-19T13:47:57.246Z
+date: 2024-04-19T19:16:29.828Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -11,7 +11,7 @@ dateCreated: 2024-04-17T12:08:27.991Z
 # Background on FSv2 Design Teams
 
 
-## 4 Parallel Design Teams to Speed up FSv2 work. 
+## Four Parallel Open Design Teams to Speed up FSv2 work. 
 
 Flow Specification v2 work was chartered to fix the ordering problems with FSv1 (IPv4 [RFC8959](https://datatracker.ietf.org/doc/rfc8955/), IPv6 [RFC8956](https://datatracker.ietf.org/doc/rfc8956/), and allow for grow in adding new filters and actions.  Flow Specification v2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) is technically correct, but a lot to implement.  
 
@@ -25,7 +25,20 @@ implemented a little at a time.  These "chunks" (portions) of technology will be
 
 Below is a description of the "chunks" of technology, and how four parallel design teams (design teams 1-4) will progress work on documents for each chunk. 
 
-By parallel, we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology.  It is hoped that implementers will 
+### What does Parallel Open Design 
+By **Open** Design Teams, we mean that anyone may join the design team and attend the FSv2 interims. Minutes will be posted from the design team interims so that others can follow along. 
+
+By Open **Design Team**, we mean that the participants will be expected to:
+- read FSv2 work (drafts, RFCs, and web pages) ahead of the meeting,
+- be ready at the interim to discuss the work, and 
+- take action items to investigate issues or write drafts. 
+
+By Four **Parallel** Open Design Teams,  we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology from the original FSv2 work.  
+
+Our focus is to get "chunks" of basic technology so that the following can happen:
+- implementers can implement FSv2 Base IP chunk and other "chunks" later, 
+- the additional technology "chunks" that add new IP filters, new IP actions, and Non-IP filters and actions can be added easily to the base chunk.  
+
 
 ## What happens to current FSv2 
 The IDR draft ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) will be kept as an IDR WG draft that combines approved FSv2 issues. This document will collect approved changes into one place.  
@@ -35,7 +48,8 @@ The IDR draft ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/
 Send email to idr-chairs@ietf.org or contact Susan Hares (shares@ndzh.com).  
  
 
-### 1. Basic FS v2 for DDOS   
+## FSv2 Open Design Teams 
+### Design Team 1:  Basic FS v2 for DDOS   
 The key addition for this chunk of FSv2 is the user ordering of filters defined by the FSv2. 
 
 This initial draft will stay with the FSv IPv4 and IPv6 and current actions in the Flow Specification Extended Community (FS-EC).  The focus of this design team is to determine if the technology for user ordering of filters forms a good foundation for FSV2 work. 
@@ -49,7 +63,7 @@ This initial draft will stay with the FSv IPv4 and IPv6 and current actions in t
 a. Drafts that discuss the pros/cons of filter ordering for work 
 b. Drafts with filters 
 
-### 2. More IP Filters for FSv2  **
+### Design Team 2: More IP Filters for FSv2 
 FSv2 opens the possibility to add new filters for data packets (IP and non-IP). This chunk of work expands the IP filters to the IP packet headers (layers 3-7) and the payload. 
 
 **Design team:** Design Team 2 - More IP Filters for FSv2 
@@ -69,7 +83,7 @@ FSv2 opens the possibility to add new filters for data packets (IP and non-IP). 
    [draft-geng-idr-flowspec-saf-00](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
    
    
-### 3. More IP Actions for FSv2 
+### Design Team 3: More IP Actions for FSv2 
 FSv1 found problems with undefined interactions between actions. 
 FSv2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/))
 allows for ordered actions using Wide Community. Many implementers desired both Extended-Community Actions with specific default order and 
@@ -109,7 +123,7 @@ Mark APN Group ID (full, partial, inherit, or stitch)
 [draft-shen-idr-flowspec-traffic-compress-action-01](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/)
 
 
-### 4. Non-IP Filters and Actions 
+### Design Team 4: Non-IP Filters and Actions 
 
 FSv2 (([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) specified Non-IP filters for MPLS, SFC, L2VPN, and tunnels (using nvo3 concepts). 
 
