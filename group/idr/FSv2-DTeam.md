@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-19T12:53:03.576Z
+date: 2024-04-19T13:47:36.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -79,8 +79,8 @@ Other implementers want to be able to specify an order for actions.  The user sp
 
 One key issues with Ordering of Actions is the action taken when an action does not successfully complete.  Potential recovery from a failed action are: ignore, continue, halt, roll-back. 
 
-**Design team:** Design Team 3 - More IP Actions for FSv2   
-**Meetings before IETF-120:** 5/6 and 6/10 (Time 10-11:30am ET) 
+**Design team:** Design Team 3 - More IP Actions for FSv2  
+**Meetings before IETF-120:** 5/13 and 6/17 (Time 10-11:30am ET) with Design Team 4 
 **initial draft:**  draft-ietf-hares-fsv2-more-ip-actions 
 **New drafts requested:** Any Drafts specifying actions taken as 
 a result of IP filters 
@@ -113,10 +113,10 @@ Mark APN Group ID (full, partial, inherit, or stitch)
 
 FSv2 (([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) specified Non-IP filters for MPLS, SFC, L2VPN, and tunnels (using nvo3 concepts). 
 
-
 **Design team:** Design Team 4 - Non-IP Filters and Actions    
-**Meetings before IETF-120:** 5/13 and 6/17 (Time 10-11:30am ET) 
+**Meetings before IETF-120:** 5/13 and 6/17 (Time 11-12:00) ET) with Design Team 3 
 **appropriate drafts:** Drafts proposing any Non-IP filters or Non-IP Actions 
+
 **initial drafts:**  
 1. draft-ietf-hares-fsv2-non-IP -
   This FSv2 work included MPLS Filters and actions. 
