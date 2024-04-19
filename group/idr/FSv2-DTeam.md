@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-19T19:21:45.303Z
+date: 2024-04-19T19:28:07.989Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -18,7 +18,7 @@ Flow Specification v2 work was chartered to fix the ordering problems with FSv1 
 Since IDR requires 2 implementations to publish an RFC, the implementers have requested we break the draft into "chunks" that can be 
 implemented a little at a time.  These "chunks" (portions) of technology will be
 
-1. Basic FSv2 for DDOS  
+1. FSv2 for Basic IP functions 
 2. More IP Filters for FSv2
 3. More Actions for FSv2
 4. Non-IP actions for FSv2 
@@ -35,10 +35,11 @@ By Open **Design Team**, we mean that the participants will be expected to:
 
 By Four **Parallel** Open Design Teams,  we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology from the original FSv2 work.  
 
-Our focus is to get "chunks" of basic technology so that the following can happen:
+Our focus is to get "chunks" of FSv2 technology defined so that the following can happen:
 - implementers can implement FSv2 Base IP chunk and other "chunks" later, 
 - the additional technology "chunks" that add new IP filters, new IP actions, and Non-IP filters and actions can be added easily to the base chunk.  
 
+**Why are we doing this now?** The CAR/CT work put FSv2 work on hold so we are trying to catch up. 
 
 ## What happens to current FSv2 
 The IDR draft ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) will be kept as an IDR WG draft that combines approved FSv2 issues. This document will collect approved changes into one place.  
@@ -49,7 +50,7 @@ Send email to idr-chairs@ietf.org or contact Susan Hares (shares@ndzh.com).
  
 
 ## FSv2 Open Design Teams 
-### Design Team 1:  Basic FS v2 for DDOS   
+### Design Team 1:  FSv2 for Basic IP
 The key addition for this chunk of FSv2 is the user ordering of filters defined by the FSv2. 
 
 This initial draft will stay with the FSv IPv4 and IPv6 and current actions in the Flow Specification Extended Community (FS-EC).  The focus of this design team is to determine if the technology for user ordering of filters forms a good foundation for FSV2 work. 
