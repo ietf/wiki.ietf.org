@@ -2,7 +2,7 @@
 title: More IP Actions for FSv2 
 description: Adding Actions to FSv2 beyond Basic FSv2 Actions 
 published: true
-date: 2024-04-19T13:46:12.691Z
+date: 2024-04-19T18:57:12.154Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T12:54:26.814Z
@@ -64,8 +64,8 @@ Mark APN Group ID (full, partial, inherit, or stitch)
 ### Design Team 3 Meetings 
 
 Note that Design Team 3 will meet with Design Team 4.  
-- The first 45 minutes of the meeting will focus on Design Team 3. 
-- The second 45 minutes of the meeting will focus on Design Team 4 (Non-IP Filters and Actions)  
+- The first 45 minutes of each interim meeting will focus on Design Team 3. 
+- The second 45 minutes of each interim will focus on Design Team 4 (Non-IP Filters and Actions). 
 
 #### 5/13 Design Team 3 and 4 Meetings 
 Interim link: 
@@ -74,18 +74,17 @@ https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr
 **5/13 Agenda**
 5/13/2024  - Design Team 3 and 4 Meet
  Agenda Bashing  (5 minutes)
-IP Actions (45 minutes) 
-1. Introduction of Design team members (5 minutes)
-2. Review of FSv2 split + Status Wide Communities Type 2 (FSv2) Format (5 minutes)
-3. Discussion of More IP actions FSv2 (15 minutes)
-4. Discussion of Action ordering + Design Issues (15 minutes)
-5. Action items for IP Actions (5 minutes) 
+**IP Actions (45 minutes)**
+  1. Introduction of Design team members (5 minutes)
+  2. Review of FSv2 split + Status Wide Communities Type 2 (FSv2) Format (5 minutes)
+  3. Discussion of More IP actions FSv2 (15 minutes)
+  4. Discussion of Action ordering + Design Issues (15 minutes)
+  5. Action items for IP Actions (5 minutes) 
 
-Switch to Non-IP (45 minutes) 
-6. Review of Non-IP Filter and Actions (MPLS, L2VPN, SFC, Tunnels, L2-Latency (15 minutes) 
-7. Review of Filters/Actions on Group ID (interfaces, APN, CAT, Compression ID, SAV (interfaces + Group-ID) (25 minutes) 
-8. Action items (5 minuites
-
+**Switch to Non-IP (45 minutes)**
+  6. Review of Non-IP Filter and Actions (MPLS, L2VPN, SFC, Tunnels, L2-Latency (15 minutes) 
+  7. Review of Filters/Actions on Group ID (interfaces, APN, CAT, Compression ID, SAV (interfaces + Group-ID) (25 minutes) 
+  8. Action items (5 minutes) 
 
 #### 6/17 Design Teams 3 and 4 Meeting 
 Interim Link: 
