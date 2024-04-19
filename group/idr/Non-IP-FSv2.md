@@ -2,13 +2,13 @@
 title: FSv2 - Non-IP Filters + Actions 
 description: Adding Non-IP Filters and Actions to FSv2 
 published: true
-date: 2024-04-19T13:46:16.229Z
+date: 2024-04-19T13:52:18.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T13:34:20.891Z
 ---
 
-## 4. Adding Non-IP Filters and Actions to FSv2 
+## Design Team 4 -  Adding Non-IP Filters and Actions to FSv2 
 
 FSv2 (([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) specified Non-IP filters for MPLS, SFC, L2VPN, and tunnels (using nvo3 concepts). 
 
@@ -33,6 +33,7 @@ This IDR WG draft provides the L2 Filters and Actions.
 
 4. [RFC9015](https://datatracker.ietf.org/doc/rfc9015/)
 This draft provides the SFC flowspecification filters and actions. 
+
 
 ### Questions for Design team 
 1. How do Non-IP Filters differ from IP packet (header and paylod) filters? 
