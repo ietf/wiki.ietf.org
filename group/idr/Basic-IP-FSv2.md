@@ -2,15 +2,15 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-19T18:52:28.524Z
+date: 2024-04-19T19:28:04.842Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
 ---
 
-# Design Team for Basic IP FSv2 for DDOS
+# Design Team for FSv2 for Basic IP functions  
 
-## Design Team 1: Basic IP FSv2 for DDOS 
+## Design Team 1: FSv2 - Basic IP 
  
  Design team 1 will be in charge of selecting the FSv2 functions ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) that will form the base specification for FSv2. 
  
