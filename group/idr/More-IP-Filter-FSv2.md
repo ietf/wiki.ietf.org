@@ -2,7 +2,7 @@
 title: FSv2 Design Team 2 - More IP Filters 
 description: FSv2 Design Team 2 Home Page 
 published: true
-date: 2024-04-19T13:47:52.947Z
+date: 2024-04-19T13:51:40.924Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T12:21:49.627Z
@@ -48,7 +48,7 @@ Design Team 1 will be encouraged to join Design Team 2 meetings.
 ### 5/6 agenda 
 **Interim link:** https://datatracker.ietf.org/meeting/interim-2024-idr-06/session/idr
 
-5/6 - Design team 1 and 2
+5/6 - Design Team 1 and 2
 - 1) Agenda Bashing + Introduction of design team members (5 minutes)
 - 2) Review of FSv2 split + Status of Wide Communities (10 minutes)
 - 3) Review Basic IP FSv2 Open Issues + Discussion (30 minutes)
@@ -59,7 +59,7 @@ Design Team 1 will be encouraged to join Design Team 2 meetings.
 ### 6/10 agenda 
 **Interim link:** https://datatracker.ietf.org/meeting/interim-2024-idr-09/session/idr
 
-6/10/2024
+6/10/2024 - Design Team 1 and 2 
 - 1) Agenda Bashing  (5 minutes)
 - 2) Introduction of Design team members [5 minutes]
 - 3) Review of Drafts for More IP Filters FSv2 [60 minutes]
