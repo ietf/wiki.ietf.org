@@ -2,7 +2,7 @@
 title: More IP Actions for FSv2 
 description: Adding Actions to FSv2 beyond Basic FSv2 Actions 
 published: true
-date: 2024-04-19T19:00:36.106Z
+date: 2024-04-19T19:29:50.955Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T12:54:26.814Z
@@ -73,8 +73,9 @@ https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr
  
 **5/13 Agenda**
 5/13/2024  - Design Team 3 and 4 Meet
- Agenda Bashing  (5 minutes)
+
 **IP Actions (45 minutes)**
+  0. Agenda bashing 
   1. Introduction of Design team members (5 minutes)
   2. Review of FSv2 split + Status Wide Communities Type 2 (FSv2) Format (5 minutes)
   3. Discussion of More IP actions FSv2 (15 minutes)
