@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-19T19:20:25.629Z
+date: 2024-04-19T19:21:45.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -13,7 +13,7 @@ dateCreated: 2024-04-17T12:08:27.991Z
 
 ## Four Parallel Open Design Teams to Speed up FSv2 work. 
 
-Flow Specification v2 work was chartered to fix the ordering problems with FSv1 (IPv4 [RFC8955](https://datatracker.ietf.org/doc/rfc8955/), IPv6 [RFC8956](https://datatracker.ietf.org/doc/rfc8956/), and to allow for additions new filters and actions.  Flow Specification v2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) is technically correct, but a lot to implement.  
+Flow Specification v2 work was chartered to fix the ordering problems with FSv1 (IPv4 [RFC8955](https://datatracker.ietf.org/doc/rfc8955/), IPv6 [RFC8956](https://datatracker.ietf.org/doc/rfc8956/), and to allow additions of new filters and actions.  Flow Specification v2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/)) is technically correct, but a lot to implement.  
 
 Since IDR requires 2 implementations to publish an RFC, the implementers have requested we break the draft into "chunks" that can be 
 implemented a little at a time.  These "chunks" (portions) of technology will be
