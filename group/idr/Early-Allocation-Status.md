@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-04-19T17:43:51.210Z
+date: 2024-04-19T17:44:29.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -18,7 +18,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| WG chair Checks IANA | 
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process (IDR chair review) | 
 | draft-ietf-idr-sr-policy-path-segment-09 | SR Policy List Sub-TLVs  | TBD | Path Segment | in proces (Needs revised draft) |   
-
+| draft-ietf-idr-sr-policy-path-segment-09 | SR Policy List Sub-TLVs  | TBD |  Reverse Segment List sub-TLV  | in proces (Needs revised draft) |   
 
 ## Early allocation - need revision 
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
