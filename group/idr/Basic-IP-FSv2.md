@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-19T18:43:53.771Z
+date: 2024-04-19T18:51:27.567Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -82,7 +82,8 @@ Design Teams 1 and 2 Meet: 5/6, 6/10
 Design Teams 3 and 4 Meet: 5/13, 6/17
  
  
-## Agenda for 4/29/2024 Interim 
+### Agenda for 4/29/2024 Interim with Design Team 1 
+Link to interim: https://datatracker.ietf.org/meeting/interim-2024-idr-03/session/idr
 
 0) Agenda Bashing  [5 minutes]
 1) Introduction of Design team members [5 minutes]
@@ -91,4 +92,33 @@ Design Teams 3 and 4 Meet: 5/13, 6/17
 4) Discussion of Filter ordering + Deployment issues [30 minutes]
 5) Action items [10 minutes]
 
+### Agenda for 5/3/2024 Interim with Design Team 1 and Design Team 2
+Link to interim: https://datatracker.ietf.org/meeting/interim-2024-idr-06/session/idr
+
+5/6/2024 at 10:00-11:30 EDT -  Design team 1 and 2
+0) Agenda Bashing + Introduction of design team members [5 minutes]
+2) Review of FSv2 split + Status of Wide Communities [10 minutes]
+3) Review Basic IP FSv2 Open Issues + Discussion [30 minutes]
+4) Drafts proposing new IP Filters [40]
+5) Action items [10 minutes]
+
+ ### Agenda for 6/3/2024 Interim with Design Team 1 
+ Link to interim: https://datatracker.ietf.org/meeting/interim-2024-idr-08/session/idr
+ 
+ 6/3/2024 agenda
+0) Agenda Bashing   [5 minutes]
+1) Introduction of Design team members [5 minutes]
+2) Review of Basic IP FSv2 draft [45 minutes]
+3) Review of Basic IP FSv2 Open Issues [30 minutes]
+4) Action items [5 mimutes]
+
+### Agenda for 6/10/204 Interim with Design Team 1 and Design Team 2
+Link to interim: https://datatracker.ietf.org/meeting/interim-2024-idr-09/session/idr
+ 
+ 6/10/2024
+0) Agenda Bashing  [5 minutes]
+1) Introduction of Design team members [5 minutes]
+2) Review of Drafts for More IP Filters FSv2 [60 minutes]
+3) Review of Any Open Issues  + IETF-116 plan [15 minutes]
+4) Action items [5 minutes] 
  
