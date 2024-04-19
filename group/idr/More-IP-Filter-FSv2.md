@@ -2,7 +2,7 @@
 title: FSv2 Design Team 2 - More IP Filters 
 description: FSv2 Design Team 2 Home Page 
 published: true
-date: 2024-04-19T12:53:32.243Z
+date: 2024-04-19T13:16:11.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T12:21:49.627Z
@@ -10,7 +10,7 @@ dateCreated: 2024-04-18T12:21:49.627Z
 
 ## FSv2 Design Team 2: More IP Filters for FSv2 
 
-FSv2 opens the possibility to add new filters for data packets (IP and non-IP). This chunk of work expands the IP filters to the IP packet headers (layers 3-7) and the payload.
+Design Team 2 will work on adding additional IP Filters into FSv2.  While FSv2 opens the possibility to add new filters for data packets (IP and non-IP), Design Team 2 will focus on adding new IP filters to FSv2.  These filters may be in the IP header or the IP payload. 
 
 **Design team:** Design Team 2 - More IP Filters for FSv2
 **Meetings before IETF-120:** 5/6 and 6/10 (Time 10-11:30am ET)
@@ -42,8 +42,10 @@ The initial draft will just contains the initial filters from Flow Specification
 [draft-lin-idr-cats-flowspec-ts-00](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/)
 [draft-geng-idr-flowspec-sav-03](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
 
-## Interim Agendas 
-### 5/3 agenda 
+## Design Team 2 Meetings Interim Agendas 
+Design Team 1 will be encouraged to join Design Team 2 meetings.  
+
+### 5/6 agenda 
 **Interim link:** https://datatracker.ietf.org/meeting/interim-2024-idr-06/session/idr
 
 5/6 - Design team 1 and 2
