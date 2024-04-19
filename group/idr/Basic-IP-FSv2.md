@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-19T18:51:27.567Z
+date: 2024-04-19T18:52:28.524Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -92,7 +92,7 @@ Link to interim: https://datatracker.ietf.org/meeting/interim-2024-idr-03/sessio
 4) Discussion of Filter ordering + Deployment issues [30 minutes]
 5) Action items [10 minutes]
 
-### Agenda for 5/3/2024 Interim with Design Team 1 and Design Team 2
+### Agenda for 5/6/2024 Interim with Design Team 1 and Design Team 2
 Link to interim: https://datatracker.ietf.org/meeting/interim-2024-idr-06/session/idr
 
 5/6/2024 at 10:00-11:30 EDT -  Design team 1 and 2
