@@ -2,7 +2,7 @@
 title: More IP Actions for FSv2 
 description: Adding Actions to FSv2 beyond Basic FSv2 Actions 
 published: true
-date: 2024-04-19T19:00:07.522Z
+date: 2024-04-19T19:00:36.106Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T12:54:26.814Z
@@ -84,8 +84,9 @@ https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr
 **Switch to Non-IP (45 minutes)**
   6. Review of Non-IP Filter and Actions (MPLS, L2VPN, SFC, Tunnels, L2-Latency (15 minutes) 
   7. Review of Filters/Actions on Group ID (25 minutes) 
-       Group IDs are on FSv2 for interfaces, APN, CAT, Compression ID, SAV (interfaces + src-address group).  
+-  Group IDs are on FSv2 for interfaces, APN, CAT, Compression ID, SAV (interfaces + src-address group).  
   8. Action items (5 minutes) 
+
 
 #### 6/17 Design Teams 3 and 4 Meeting 
 Interim Link: 
