@@ -2,7 +2,7 @@
 title: More IP Actions for FSv2 
 description: Adding Actions to FSv2 beyond Basic FSv2 Actions 
 published: true
-date: 2024-04-19T12:54:26.814Z
+date: 2024-04-19T13:46:12.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T12:54:26.814Z
@@ -22,13 +22,75 @@ One key issues with Ordering of Actions is the action taken when an action does 
 ### Design Team Meetings 
 **Design team:** Design Team 3 - More IP Actions for FSv2   
 **Meetings before IETF-120:** 5/6 and 6/10 (Time 10-11:30am ET) 
+**Meeting Agendas**: See below 
+
 **initial draft:**  draft-ietf-hares-fsv2-more-ip-actions 
 **New drafts requested:** Any Drafts specifying actions for FSv1 or FSv2.  
 
+### Questions 
+1.  What Actions interaction?  Are those interactions clearly defined? 
+2.  What Actions do users want to order? 
+3.  What happens when Actions fail? 
+4.  What Actions can be implemented as Extended Communities (New FSv2 Actions)? 
+5.  What Actions should be implemented as User Ordered? 
+6.  What Data needs to be in User Ordered Actions? 
+7.  Should Actions use dependencies? 
 
-**FSv1 Actions in addition to RFC8895 and RFC8896**
+
+### Reading list  
+#### FSv1 Actions in addition to RFC8895 and RFC8896
 1. redirect to indirection id 
 [draft-ietf-idr-path-redirect-12](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect)
 2. Redirect to IP 
 [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
 
+#### New IP filters from draft-ietf-idr-flowspec-v2
+ 1. generalized redirection for IPv6 (EC-v6) 
+ [draft-ietf0-idr-srv6-flowspec-path-redirect-11](https://datatracker.ietf.org/doc/html/draft-ietf0-idr-srv6-flowspec-path-redirect-11) 
+
+2. Mark Group ID (APN ID)  - 4 actions) 
+Mark APN Group ID (full, partial, inherit, or stitch) 
+[draft-peng-idr-apn-bgp-flowspec-00](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) 
+
+3. CATS marking of CATs in V6 heaer (1 action)
+[draft-lin-idr-cats-flowspec-ts-00](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) 
+
+4. Process FS based on interface group + data direction (inbound/outbound)
+[draft-ietf-idr-flowspec-interfaceset-05](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)
+
+5. Compress traffic basic on Compression ID 
+[draft-shen-idr-flowspec-traffic-compress-action-01](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/)
+
+### Design Team 3 Meetings 
+
+Note that Design Team 3 will meet with Design Team 4.  
+- The first 45 minutes of the meeting will focus on Design Team 3. 
+- The second 45 minutes of the meeting will focus on Design Team 4 (Non-IP Filters and Actions)  
+
+#### 5/13 Design Team 3 and 4 Meetings 
+Interim link: 
+https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr
+ 
+**5/13 Agenda**
+5/13/2024  - Design Team 3 and 4 Meet
+ Agenda Bashing  (5 minutes)
+IP Actions (45 minutes) 
+1. Introduction of Design team members (5 minutes)
+2. Review of FSv2 split + Status Wide Communities Type 2 (FSv2) Format (5 minutes)
+3. Discussion of More IP actions FSv2 (15 minutes)
+4. Discussion of Action ordering + Design Issues (15 minutes)
+5. Action items for IP Actions (5 minutes) 
+
+Switch to Non-IP (45 minutes) 
+6. Review of Non-IP Filter and Actions (MPLS, L2VPN, SFC, Tunnels, L2-Latency (15 minutes) 
+7. Review of Filters/Actions on Group ID (interfaces, APN, CAT, Compression ID, SAV (interfaces + Group-ID) (25 minutes) 
+8. Action items (5 minuites
+
+
+#### 6/17 Design Teams 3 and 4 Meeting 
+Interim Link: 
+6/17/2024 Agenda https://datatracker.ietf.org/meeting/interim-2024-idr-10/session/idr
+
+Agenda Bashing + Introductions 
+1. Review of IP Actions Drafts (60 minutes)
+2. Review of Proposed drafts with Non-IP Filters (60 minutes)  
