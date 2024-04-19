@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-18T12:01:41.001Z
+date: 2024-04-19T13:46:48.040Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -43,7 +43,7 @@ b. Drafts with filters
 
 **Team Members:** (TBD) 
  
-### Open issues for Design Team 1 
+### Questions/Open Issues for Design Team 1 
 1. Does the User Ordering Encoding support use cases for current DDOS scenarios?
 
 Design Team 1 will review the use cases for FSv2 and determine if the user ordering can support the use cases.  Design Team 1 members will seek out the use cases describe by the other FSv2 design teams 2, 3, and 4 plus other new use cases.  
