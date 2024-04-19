@@ -2,7 +2,7 @@
 title: FSv2 - Non-IP Filters + Actions 
 description: Adding Non-IP Filters and Actions to FSv2 
 published: true
-date: 2024-04-19T14:02:13.338Z
+date: 2024-04-19T14:02:40.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T13:34:20.891Z
@@ -74,6 +74,7 @@ Switch to Non-IP (45 minutes)
 
 
 #### 6/17 Design Teams 3 and 4 Meeting 
+
 Interim Link: 
 6/17/2024 Agenda https://datatracker.ietf.org/meeting/interim-2024-idr-10/session/idr
 
