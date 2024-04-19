@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-19T19:28:07.989Z
+date: 2024-04-19T19:38:08.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -26,14 +26,16 @@ implemented a little at a time.  These "chunks" (portions) of technology will be
 Below is a description of the "chunks" of technology, and how four parallel design teams (design teams 1-4) will progress work on documents for each chunk. 
 
 ### What does Parallel Open Design 
-By **Open** Design Teams, we mean that anyone may join the design team and attend the FSv2 interims. Minutes will be posted from the design team interims so that others can follow along. 
 
-By Open **Design Team**, we mean that the participants will be expected to:
+By **Design Team**, we mean that the participants will be expected to:
 - read FSv2 work (drafts, RFCs, and web pages) ahead of the meeting,
 - be ready at the interim to discuss the work, and 
 - take action items to investigate issues or write drafts. 
 
-By Four **Parallel** Open Design Teams,  we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology from the original FSv2 work.  
+By **Open** Design Teams, we mean that anyone may join the design team and attend the FSv2 interims. Minutes will be posted from the design team interims so that others can follow along. 
+
+
+By ** Four Parallel** Open Design Teams,  we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology from the original FSv2 work.  
 
 Our focus is to get "chunks" of FSv2 technology defined so that the following can happen:
 - implementers can implement FSv2 Base IP chunk and other "chunks" later, 
@@ -50,7 +52,7 @@ Send email to idr-chairs@ietf.org or contact Susan Hares (shares@ndzh.com).
  
 
 ## FSv2 Open Design Teams 
-### Design Team 1:  FSv2 for Basic IP
+### Design Team 1:  Basic IP FSv2 
 The key addition for this chunk of FSv2 is the user ordering of filters defined by the FSv2. 
 
 This initial draft will stay with the FSv IPv4 and IPv6 and current actions in the Flow Specification Extended Community (FS-EC).  The focus of this design team is to determine if the technology for user ordering of filters forms a good foundation for FSV2 work. 
