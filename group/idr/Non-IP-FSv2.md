@@ -2,7 +2,7 @@
 title: FSv2 - Non-IP Filters + Actions 
 description: Adding Non-IP Filters and Actions to FSv2 
 published: true
-date: 2024-04-19T14:02:40.326Z
+date: 2024-04-19T18:42:47.406Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T13:34:20.891Z
@@ -53,14 +53,13 @@ This draft provides L2 + latency filters and actions.
 Filtering and actions based on packet timing. 
 
 
-#### 5/13 Design Team 3 and 4 Meetings 
-Interim link: 
-https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr
+#### 5/13 Meeting - Design Team 3 and 4
+Interim link: https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr
  
 **5/13 Agenda**
-5/13/2024  - Design Team 3 and 4 Meet
- Agenda Bashing  (5 minutes)
-IP Actions (45 minutes) 
+
+5/13/2024  - Design Team 3 and 4 Meet Together 
+0. Agenda Bashing  (5 minutes) 
 1. Introduction of Design team members (5 minutes)
 2. Review of FSv2 split + Status Wide Communities Type 2 (FSv2) Format (5 minutes)
 3. Discussion of More IP actions FSv2 (15 minutes)
@@ -73,12 +72,11 @@ Switch to Non-IP (45 minutes)
 8. Action items (5 minuites
 
 
-#### 6/17 Design Teams 3 and 4 Meeting 
+#### 6/17 Meeting - Design Teams 3 and 4 
 
-Interim Link: 
-6/17/2024 Agenda https://datatracker.ietf.org/meeting/interim-2024-idr-10/session/idr
+Interim Link: https://datatracker.ietf.org/meeting/interim-2024-idr-10/session/idr
 
-Agenda Bashing + Introductions (5 Minutes) 
+0Agenda Bashing + Introductions (5 Minutes) 
 1. Review of IP Actions Drafts (55 minutes)
 2. Review of Proposed drafts with Non-IP Filters (55 minutes)  
  
