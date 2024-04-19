@@ -2,7 +2,7 @@
 title: FSv2 Design Team 2 - More IP Filters 
 description: FSv2 Design Team 2 Home Page 
 published: true
-date: 2024-04-18T12:21:49.627Z
+date: 2024-04-19T12:43:20.052Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T12:21:49.627Z
@@ -34,11 +34,34 @@ Currently the only IP (IPv4/IPv6) filters are SID Filters (from draft-ietf-idr-f
 
 ### IDR drafts 
 - Flow Specification v2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/))
-- FSv2 IP Basic draft [draft-hares-idr-fsv2-IP-Basic](https://datatracker.ietf.org/doc/draft-hares-idr-fsv2-ip-basic/)
-- ]draft-ietf-idr-flowspec-srv6-05](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) 
+- [draft-hares-idr-fsv2-IP-Basic](https://datatracker.ietf.org/doc/draft-hares-idr-fsv2-ip-basic/)
+- [draft-ietf-idr-flowspec-srv6-05](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) 
+- draft-hares-idr-fsv2-More-IP-Filters (upcoming) 
 
-### Individual Drafts to read 
-draft-peng-idr-apn-bgp-flowspec] 
-draft-cui-idr-content-filter-flowspec-00
-draft-lin-idr-cats-flowspec-ts-00
-draft-geng-idr-flowspec-saf-00
+### Individual Drafts
+[draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/)
+[draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/)
+[draft-lin-idr-cats-flowspec-ts-00](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/)
+[draft-geng-idr-flowspec-sav-03](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
+
+## Interim Agendas 
+### 5/3 agenda 
+**Interim link:** https://datatracker.ietf.org/meeting/interim-2024-idr-06/session/idr
+
+5/6 - Design team 1 and 2
+- 1) Agenda Bashing + Introduction of design team members (5 minutes)
+- 2) Review of FSv2 split + Status of Wide Communities (10 minutes)
+- 3) Review Basic IP FSv2 Open Issues + Discussion (30 minutes)
+- 4) Drafts proposing new IP Filters (40 minutes) 
+- 5) Action items (10 minutes) 
+
+
+### 6/10 agenda 
+**Interim link:** https://datatracker.ietf.org/meeting/interim-2024-idr-09/session/idr
+
+6/10/2024
+- 1) Agenda Bashing  (5 minutes)
+- 2) Introduction of Design team members [5 minutes]
+- 3) Review of Drafts for More IP Filters FSv2 [60 minutes]
+- 4) Review of Any Open Issues + IETF-116 plan [15 minutes]
+- 5) Action items [5 minutes] 
