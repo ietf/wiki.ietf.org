@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-04-05T16:08:06.294Z
+date: 2024-04-20T18:33:46.900Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -72,6 +72,8 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * AI Data Center "AIDC"
 * WK: Technology Deep Dives - future home?
 * WK: Improving DT for CfA / WGLC requests.
+* WK: Keywords / Tags 
+  * was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
 
 ### RSVP
 
