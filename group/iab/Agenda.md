@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-17T15:54:00.394Z
+date: 2024-04-23T21:16:36.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -125,7 +125,7 @@ IAB Shepherd: Suresh Krishnan
 ## Upcoming Teleconferences 
 
 * 2024-05-01: IAB Business Meeting
-* 2024-05-08: IAB Business Meeting (Reserved)
+* 2024-05-08: IAB Technical Discussion: Community Networks (ISOC)
 * 2024-05-15: IAB Business Meeting
 * 2024-05-22: IAB Technical Discussion: Censorship Measurements (Roya En)
 * 2024-05-29: IAB Business Meeting
