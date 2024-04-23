@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-23T21:16:36.403Z
+date: 2024-04-23T21:24:54.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -180,7 +180,6 @@ IAB Shepherd: Suresh Krishnan
 ## Future Unscheduled Topics 
 
 * overview financial starts LLC and ISOC (Jason)
-* review technical program structure (Mirja)
 * maprg review (January)
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * Charter Review in datatracker (Dhruv)
