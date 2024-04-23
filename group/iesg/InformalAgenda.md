@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-23T15:14:00.301Z
+date: 2024-04-23T19:48:28.404Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -62,6 +62,8 @@ Please use your best judgement to add new items into one of the categories below
    * WG milestone curation
    * Closing inactive/quiescent WGs
    * Document load by Areas and ADs
+
+* Transferring responsibility for RFC8110 (OWE) to the IEEE. See [draft-wkumari-rfc8110-to-ieee](https://wkumari.github.io/draft-wkumari-rfc8110-to-ieee/draft-wkumari-rfc8110-to-ieee.html) (Eric Vyncke, Admirable Kumari)
 
 #### Not important and not urgent
 
