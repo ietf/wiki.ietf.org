@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-04-23T14:55:35.262Z
+date: 2024-04-23T16:37:55.552Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -74,12 +74,11 @@ This section lists actions other than document updates
 * draft-ietf-bess-mvpn-evpn-aggregation-label
 * draft-ietf-bess-evpn-pref-df (MISSREF, need VES)
 * draft-ietf-bess-pbb-evpn-isid-cmacflush (AUTH48, missing Andrew)
+* draft-ietf-bess-evpn-irb-mcast
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
-* draft-ietf-bess-evpn-irb-mcast (Mankamana):
-	- On telechat beg of March
 * draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
 	- 2nd last call passed
 	- Authors have fixed grammar issues (shepherd's write up updated and publication requested by Matthew).
@@ -121,8 +120,6 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-evpn-geneve: (Matthew)
   - Waiting for implementation
-
--
 
 
 ## Documents that failed Working Group Last Call 
@@ -174,7 +171,6 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-srv6-args-00
 * https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-ip-aliasing/
-
 * draft-ietf-bess-evpn-dpath
 
  
