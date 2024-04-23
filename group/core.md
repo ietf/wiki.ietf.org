@@ -18,7 +18,8 @@ Most of the current work on the WG drafts happens on the CoRE-WG github organiza
 
 With respect to the mode of operation of the repository, the CoRE WG follows the lead of the HTTPBIS WG [add link here]. Specifically that means that github issues are welcome to record editorial issues as well as technical ones; as are "pull requests" (forks of the repository with fixes for an issue). However, technical discussion should not happen in the forums implicitly created by the issues, but on the WG mailing list.
 
-Some older drafts are on the IETF CoRE SVN — the Repository Root is at: https://svn.tools.ietf.org/svn/wg/core
+Some work has moved from the CORE WG to the CBOR WG.  In particular the YANG-CBOR work is described at: https://github.com/core-wg/yang-cbor/wiki/YANG-CBOR-Roadmap
+
 
 ## CoRE Agile Backlog
 We are a very active working group with a lot of personal draft submissions being maintained. In order to maintain common objectives for progressing work, the following page maintains an Agile backlog of work items that are the next highest priority for the working group. This page is to be reviewed and updated periodically (e.g. at IETF meetings). This is not however a formal tool of the IETF, and acceptance of a draft as a WG item follows normal IETF procedure.
@@ -70,4 +71,3 @@ CoRE held two successful Plugfests in Maastricht on [draft-ietf-core-coap-01](ht
 
 ---
 
-*The content of this page was last updated on 2016-11-12. It was migrated from the old Trac wiki on 2023-02-17.*
