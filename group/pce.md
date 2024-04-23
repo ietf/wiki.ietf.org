@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-04-22T09:30:56.576Z
+date: 2024-04-23T16:07:37.520Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,7 +33,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | In WG Adoption Poll | IPR-Authors (5/5)<br> IPR-Contributors (5/6) | Julien |
+| [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | In WG Adoption Poll | IPR-Authors (5/5)<br> IPR-Contributors (6/6) | Julien |
 | draft-peng-pce-stateful-pce-autobw-update | Pending | - | Julien |
 | [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending | - | Dhruv |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
