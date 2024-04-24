@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-24T09:35:36.370Z
+date: 2024-04-24T17:35:15.424Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -50,6 +50,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
+* Participant Issue (Roman)
 * Preparation for the IETF Tools Retreat (April 30-31).  See [IESG-relevant datatracker enhancement requests](https://docs.google.com/document/d/1pPs_f4KAuxRiNp1vZJnfsM1tH1GReaMEz8pstCGWEzw/).
 
 #### Urgent but not important
