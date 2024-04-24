@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-23T19:48:28.404Z
+date: 2024-04-24T09:35:36.370Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -30,6 +30,7 @@ Meeting password: 12345
 ## Regrets
 - Tommy Pauly
 - Paul Wouters
+- Éric Vyncke (hard stop after 60 or 90 minutes)
 
 
 ## Agenda
