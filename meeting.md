@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-04-10T22:42:56.120Z
+date: 2024-04-24T23:52:18.443Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -27,7 +27,21 @@ Wikis are used by participants to share information about and coordinate around 
 **November 2-8, 2024** - :ireland: Dublin, Ireland
 - [IETF 121 Meeting Wiki](/meeting/121)
 - IETF 121 Side Meetings
-- IETF 121 Hackathon 
+- IETF 121 Hackathon
+{.links-list}
+
+#### IETF 122 Bangkok
+**March 15-21, 2025** - :thailand: Bangkok, Thailand
+- IETF 122 Meeting Wiki
+- IETF 122 Side Meetings
+- IETF 122 Hackathon
+{.links-list}
+
+#### IETF 123 Madrid
+**June 19-25, 2025** - :es: Madrid, Spain
+- IETF 123 Meeting Wiki
+- IETF 123 Side Meetings
+- IETF 123 Hackathon
 {.links-list}
 
 ## Past meetings
