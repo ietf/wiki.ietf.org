@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-04-24T23:52:18.443Z
+date: 2024-04-24T23:53:24.209Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -50,7 +50,7 @@ Wikis are used by participants to share information about and coordinate around 
 |----------|------------------|---------------------|-------------------------------------------------|
 | **IETF 119** | :australia: Brisbane, AU | March 16-22, 2024 | [Meeting Wiki](/meeting/119) - [Side Meetings](/meeting/119/sidemeetings) - [Hackathon](/meeting/119/hackathon) |
 **IETF 118** | :czech_republic: Prague, CZ | November 4-11, 2023 | [Meeting Wiki](/meeting/118) - [Side Meetings](/meeting/118/sidemeetings) - [Hackathon](/meeting/118/hackathon) |
-| **IETF 117** | :us: San Francisco, USA | July 22-28, 2023 | [Meeting Wiki](/meeting/117) - [Side Meetings](/meeting/117/sidemeetings) - [Hackathon](/meeting/117/hackathon) |
+| **IETF 117** | :us: San Francisco, US | July 22-28, 2023 | [Meeting Wiki](/meeting/117) - [Side Meetings](/meeting/117/sidemeetings) - [Hackathon](/meeting/117/hackathon) |
 | **IETF 116** | :jp: Yokohama, JP | March 25-31, 2023 | [Meeting Wiki](/meeting/116) - [Side Meetings](/meeting/116/sidemeetings) - [Hackathon](/meeting/116/hackathon) |
 | **IETF 115** | :uk: London, UK  | November 5-11, 2022 | [Meeting Wiki](/meeting/115) - [Side Meetings](/meeting/115/sidemeetings) - [Hackathon](/meeting/115/hackathon) |
 | **IETF 114** | :us: Philadelphia, US | July 23-29, 2022 | [Meeting Wiki](/meeting/114) - [Side Meetings](/meeting/114/114sidemeetings) - [Hackathon](/meeting/114/114Hackathon) |
