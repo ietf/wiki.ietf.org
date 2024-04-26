@@ -2,7 +2,7 @@
 title: draft-ietf-bess-srv6-services
 description: 
 published: true
-date: 2024-04-26T11:41:22.493Z
+date: 2024-04-26T11:42:14.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:37:46.928Z
