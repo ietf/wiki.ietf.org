@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-23T21:24:54.774Z
+date: 2024-04-26T18:50:48.369Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-05-01 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-04-17. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-04-26. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,11 +31,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
+- 2024-04-17 business meeting - (submitted 2024-04-17) 
+
 #### 1.4. Action Item Review - 5 mins
 
 ##### Done:
 
+* 2024-04-17: Cindy Morgan to check whether the incumbent RSWG Chair 
+    is willing to continue and draft text for a call for nominations.
 
+* 2024-04-17: Cindy Morgan to update the IRTF Chair timeline to open 
+    nominations before IETF 120, with a longer CFN and feedback period.
 
 ##### On Hold:
 
@@ -79,13 +85,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     NomCom Liaison appointment once the list of positions being filled 
     is available.
 
-* 2024-04-17: Cindy Morgan to check whether the incumbent RSWG Chair 
-    is willing to continue and draft text for a call for nominations.
 
-* 2024-04-17: Cindy Morgan to update the IRTF Chair timeline to open 
-    nominations before IETF 120, with a longer CFN and feedback period.
 
-#### 1.5. IAB Document Status Update 
+#### 1.5. IAB Document Status Update - No updates since last meeting
 
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
@@ -99,7 +101,7 @@ IAB Shepherd: Suresh Krishnan
 
 
 
-#### 1.6. IAB Review of WG Charters 
+#### 1.6. IAB Review of WG Charters - No updates since last meeting
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
@@ -120,6 +122,46 @@ IAB Shepherd: Suresh Krishnan
     Internal Review
     IESG Telechat: 2024-04-18
     IAB Reviewer: Dhruv Dhody (sent 2024-04-05)
+    
+### 2. Update on Private Wiki Move (Cindy, Liz) - 5 mins (Public)
+
+  Goal: Update on the status of the private wiki move to wikijs
+
+
+### 3. IAB Workshops (Mirja, Dhruv) - 15 mins (Public)
+
+  Open action item:
+
+- 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
+    Workshops page on the IAB website and a blog post about IETF work 
+    that came out of IAB workshops.
+
+
+### 4. 2024 Retreat Agenda Topics (All) - 10 mins (Public)
+
+  Wiki: https://wiki.ietf.org/group/iab/2024_Retreat
+
+  Goal: Brainstorm potential retreat topics
+
+
+### 5. Closing Old Workshop Lists (Cindy) - 5 mins (Public)
+
+  Goal: Approve closing old workshop-related mailing lists (where the 
+  workshop report has been published):
+
+- aid-workshop (Attendees)
+- aid-workshop-pc (PC)
+- network-quality-workshop (Attendees)
+- network-quality-workshop-pc (PC)
+- mten-workshop (Attendees)
+- mten-workshop-pc (PC)
+- e-impact-workshop-attendees (Attendees)
+- e-impact-workshop (PC)
+
+
+### 6. Other Business
+
+    
 
 
 ## Upcoming Teleconferences 
