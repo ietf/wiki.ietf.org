@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-24T17:35:15.424Z
+date: 2024-04-26T20:30:37.776Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - April 25, 2024 
+# Informal Telechat - May 9, 2024 
 
- There **WILL** be a meeting on this date.
+ There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-- Tommy Pauly
-- Paul Wouters
-- Éric Vyncke (hard stop after 60 or 90 minutes)
+
 
 
 ## Agenda
@@ -50,8 +48,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Participant Issue (Roman)
-* Preparation for the IETF Tools Retreat (April 30-31).  See [IESG-relevant datatracker enhancement requests](https://docs.google.com/document/d/1pPs_f4KAuxRiNp1vZJnfsM1tH1GReaMEz8pstCGWEzw/).
+* Topic (NAME)
 
 #### Urgent but not important
 
@@ -59,13 +56,7 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 
-* Review of non-WG mailing lists.  See [summary presentation](https://docs.google.com/presentation/d/1BktVK0exBKSFqcIzJy5PjlK6el1y_tWEIcXF-0bftQ8/) (Roman)
-* Observations from skimming WG Charters and WG Document Queues. See [summary presentation](https://docs.google.com/presentation/d/1LUuvLnqv3hH7AuzZ12fIXBFjqa3GXgT4wjPFzSkwrjE/) (Roman)
-   * WG milestone curation
-   * Closing inactive/quiescent WGs
-   * Document load by Areas and ADs
-
-* Transferring responsibility for RFC8110 (OWE) to the IEEE. See [draft-wkumari-rfc8110-to-ieee](https://wkumari.github.io/draft-wkumari-rfc8110-to-ieee/draft-wkumari-rfc8110-to-ieee.html) (Eric Vyncke, Admirable Kumari)
+* Topic (NAME)
 
 #### Not important and not urgent
 
