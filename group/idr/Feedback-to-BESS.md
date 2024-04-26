@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2024-04-26T11:38:53.229Z
+date: 2024-04-26T11:43:59.658Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -22,7 +22,6 @@ The following page tracks BESS drafts needing feedback from IDR
 - [Feedback on draft-ietf-bess-srv6-service](/group/idr/draft-ietf-bess-srv6-services)
   Reviewer: Jeff Haas 
 
- draft reference:  [draft-ietf-bess-srv6-service (RFC9252)](https://datatracker.ietf.org/doc/rfc9252/)
   
   ## Draft Feedback Pending
   
@@ -35,5 +34,4 @@ The following page tracks BESS drafts needing feedback from IDR
  Reviwer: Susan Hares (not completed) 
  
  3) [Feedback on draft-ietf-bess-ebgp-dmz](/group/idr/draft-ietf-bess-ebgp-dmz)
- Reviwer: Susan Hares 
-S
+ Reveiwer: Susan Hares 
