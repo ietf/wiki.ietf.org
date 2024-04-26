@@ -2,7 +2,7 @@
 title: Feedback on draft-ietf-bess-evpn-ipvpn-interworking
 description: IDR WG and IDR Shepherds feedback on draft-ietf-bess-evpn-ipvpn-interworking
 published: true
-date: 2024-04-26T11:35:49.474Z
+date: 2024-04-26T11:36:04.357Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T12:26:22.648Z
