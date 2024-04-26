@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2024-04-26T11:38:25.946Z
+date: 2024-04-26T11:38:53.229Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -18,7 +18,6 @@ The following page tracks BESS drafts needing feedback from IDR
    2024 Reviewer: Jeff Haas 
    2021 Reviewer: Susan Hares 
       
-   (https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-ipvpn-interworking/)
 
 - [Feedback on draft-ietf-bess-srv6-service](/group/idr/draft-ietf-bess-srv6-services)
   Reviewer: Jeff Haas 
