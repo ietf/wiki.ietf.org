@@ -2,7 +2,7 @@
 title: Feedback on draft-ietf-bess-evpn-ipvpn-interworking
 description: IDR WG and IDR Shepherds feedback on draft-ietf-bess-evpn-ipvpn-interworking
 published: true
-date: 2023-02-14T23:17:13.658Z
+date: 2024-04-26T11:35:49.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-27T12:26:22.648Z
@@ -15,8 +15,11 @@ dateCreated: 2022-11-27T12:26:22.648Z
 [draft-ietf-bess-evpn-ipvpn-interworking](https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-ipvpn-interworking/)
 
 ## Reviews for draft 
+### Review 2024 (Jeff Haas) 
+[Long email](https://mailarchive.ietf.org/arch/msg/idr/jEU8rZEKMsG4uANupzLY2-WKtis/)
+[Small Add-on](https://mailarchive.ietf.org/arch/msg/idr/rHzJeXmBYXm97eiJyucMGiARKSo/) 
 
-### Review 1
+### Review 2021 (Susan Hares) 
 **[Hares-July-2021-Review](/groups/idr/Feedback-to-BESS/evpn-ipvpn-interworking-feedback/Review1)**
 
 -  [Hares Email (from archive)](https://mailarchive.ietf.org/arch/msg/bess/xr35SuwoY6pJTYS0J2tSopiH-4E/)
