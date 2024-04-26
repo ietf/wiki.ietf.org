@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-04-26T18:50:48.369Z
+date: 2024-04-26T18:51:38.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -235,8 +235,6 @@ IAB Shepherd: Suresh Krishnan
 
 ## Planned IRTF RG Reviews 
 
-* IETF 118: MAPRG
-* IETF 119: UFMRG
 * IETF 120: RASPRG
 * IETF 121: T2TRG
 * IETF 122: DINRG
