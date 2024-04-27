@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-04-16T10:26:53.889Z
+date: 2024-04-27T07:08:15.836Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,13 +13,13 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Start WGLC|draft-ietf-pce-pcep-color|Dhruv|Waiting for authors to make an update|
 
 
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
 |Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to post a new version|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -35,6 +35,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|-|Sent email to authors on 2023-10-28; Authors have updated document and posted a draft targeted at the ISE|
 |Shepherd Review|draft-ietf-pce-stateful-pce-optional|Dhruv|Waiting for authors to handle comments|
 |Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to handle comments|
