@@ -2,7 +2,7 @@
 title: Background on FSv2 Design Teams in 2024 
 description: Reasoning behind FSv2 Design teams in 2024 
 published: true
-date: 2024-04-19T19:38:08.808Z
+date: 2024-04-29T05:36:49.126Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-17T12:08:27.991Z
@@ -35,9 +35,9 @@ By **Design Team**, we mean that the participants will be expected to:
 By **Open** Design Teams, we mean that anyone may join the design team and attend the FSv2 interims. Minutes will be posted from the design team interims so that others can follow along. 
 
 
-By ** Four Parallel** Open Design Teams,  we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology from the original FSv2 work.  
+By **Four Parallel** Open Design Teams,  we mean that the 4 design teams will operate simulataneously to create documents for the "chunks" of technology from the original FSv2 work.  
 
-Our focus is to get "chunks" of FSv2 technology defined so that the following can happen:
+**Our focus** is to get "chunks" of FSv2 technology defined so that the following can happen:
 - implementers can implement FSv2 Base IP chunk and other "chunks" later, 
 - the additional technology "chunks" that add new IP filters, new IP actions, and Non-IP filters and actions can be added easily to the base chunk.  
 
