@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-23T20:00:45.177Z
+date: 2024-04-29T07:36:12.600Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -47,9 +47,9 @@ b. Drafts with filters
 ### Questions/Open Issues for Design Team 1 
 1. Does the User Ordering Encoding support use cases for current DDOS scenarios?
 
-Design Team 1 will review the use cases for FSv2 and determine if the user ordering can support the use cases.  Design Team 1 members will seek out the use cases describe by the other FSv2 design teams 2, 3, and 4 plus other new use cases.  
+Design Team 1 will review the use cases for FSv2 and determine if the user ordering described in FSv1 IP Basic can support the use cases.  Design Team 1 members will seek out the use cases described by the FSv2 design teams 2, 3, and 4.   plus other new use cases.  
  
-2. What happens if multiple FSv2 filters are received with the the same user order?
+2. What happens if multiple FSv2 filters are received with the same user order?
 
 FSv2 currently orders filters with the same user order by FSv1 component types (using FSv1 logic). 
 
@@ -57,10 +57,11 @@ FSv2 currently orders filters with the same user order by FSv1 component types (
 
 The FSv2 initial draft put FSv1 after all FSv2 filters.  A user knob provides the number were the ID starts. 
 
-3. Does the user ordering allow for future additions of: 
+3. Does the NLRI format for user ordering allow for future additions of: 
 a. New IP Filters, 
 b. New Non-IP Filters, and 
-c. Dependency between filters. 
+c. Dependency between filters (if a found, then test b filter)  
+d. How can we handle levels of filter  
 
 4. What happens if errors are detected in the parsing of the filters? 
 5. What happens if errors are detected when filters are used? 
