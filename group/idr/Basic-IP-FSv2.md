@@ -2,7 +2,7 @@
 title: FSv2 - Design Team 1:  Basic IP FSv2
 description: IDR Design Team for FSv2 for Basic IP Functions 
 published: true
-date: 2024-04-29T07:36:12.600Z
+date: 2024-04-29T12:59:25.618Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-16T18:41:46.485Z
@@ -57,15 +57,15 @@ FSv2 currently orders filters with the same user order by FSv1 component types (
 
 The FSv2 initial draft put FSv1 after all FSv2 filters.  A user knob provides the number were the ID starts. 
 
-3. Does the NLRI format for user ordering allow for future additions of: 
+4. Does the NLRI format for user ordering allow for future additions of: 
 a. New IP Filters, 
 b. New Non-IP Filters, and 
 c. Dependency between filters (if a found, then test b filter)  
 d. How can we handle levels of filter  
 
-4. What happens if errors are detected in the parsing of the filters? 
-5. What happens if errors are detected when filters are used? 
-6. What type of validity checks should be issues. 
+5. What happens if errors are detected in the parsing of the filters? 
+6. What happens if errors are detected when filters are used? 
+7. Are the validity checks sufficient? 
 
 
 ## Meetings Times and Dates for all FSv2 Design teams
