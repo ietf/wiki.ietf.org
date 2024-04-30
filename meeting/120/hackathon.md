@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-04-26T21:28:57.902Z
+date: 2024-04-30T21:59:22.260Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -66,7 +66,7 @@ Related activities before and after the Hackathon weekend
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 22 July
 
-## Code Lounge
+## Shared Workspace
   * Space for groups to gather and collaborate on running code 
   * Tuesday - Friday, 22-26 July, Room: TBD
   * View the [schedule](codelounge) or reserve space for your team/project
