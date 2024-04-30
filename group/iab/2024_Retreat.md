@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-04-30T12:11:43.336Z
+date: 2024-04-30T12:12:37.580Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -14,8 +14,8 @@ dateCreated: 2024-03-16T01:00:22.295Z
 
 * 24 June 2024: IAB 
 * 25 June 2024: IAB 
-* 26 June 2024: IAB + IESG. See [IESG Retreat Agenda](https://wiki.ietf.org/e/en/group/iesg/RetreatInfo)
-* 27 - 28 June 2024: IESG only.  See [IESG Retreat Agenda](https://wiki.ietf.org/e/en/group/iesg/RetreatInfo)
+* 26 June 2024: IAB + IESG. See [IESG Retreat Agenda](https://wiki.ietf.org/en/group/iesg/RetreatInfo)
+* 27 - 28 June 2024: IESG only.  See [IESG Retreat Agenda](https://wiki.ietf.org/en/group/iesg/RetreatInfo)
 
 ## Venue
 
