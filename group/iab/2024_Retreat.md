@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-05-01T15:13:03.055Z
+date: 2024-05-01T15:13:39.260Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -32,11 +32,12 @@ WC2H 8AG
 - Using part of the vision document for other purposes (Mirja)
 - Liaison coordination; lighter weight options (Suresh)
 - Brainstorm more tech topics, workshops, programs, etc (Tommy)
+  - incl. technical plenaries/IAB Open
 - Joint topic: IAB's role in chartering/new work (Matthew)
 - Joint topic: how much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
 - National crypto / ISE 
 - Pipeline for appointments (maybe joint topic)
-- Technical plenaries? (Mirja)
+
 
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
