@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-01T14:14:12.316Z
+date: 2024-05-01T16:16:06.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -11,16 +11,16 @@ dateCreated: 2023-12-04T23:35:41.632Z
 # Agenda
 ## Details
 
-* [Zoom link](https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09)
-* Passcode: 1234
+* [WebEx Link](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
+* Meeting password: 1@Bmeet
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of March 2024:
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-05-01 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-05-08 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-04-26. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-05-01. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,146 +29,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-#### 1.3. Meeting Minutes 
-
-- 2024-04-17 business meeting - (submitted 2024-04-17) 
-
-#### 1.4. Action Item Review - 5 mins
-
-##### Done:
-
-* 2024-04-17: Cindy Morgan to check whether the incumbent RSWG Chair 
-    is willing to continue and draft text for a call for nominations.
-
-* 2024-04-17: Cindy Morgan to update the IRTF Chair timeline to open 
-    nominations before IETF 120, with a longer CFN and feedback period.
-
-##### On Hold:
-
-* 2023-05-11: Suresh Krishnan et al to write a draft on limited domains.    
-  - (Check back end of June 2023)
-
-* 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB review of proposed WG charters to the Datatracker.
-  - See https://github.com/ietf-tools/datatracker/issues/5849
-   
-* 2024-03-17: Liaison Managers to follow up with Martin Thomson about liaison manager for W3C.
-  - (Check back in August 2024)
-
-##### In Progress: 
-
-* 2024-02-14: Eliot Lear to send a proposal to the IAB about how to 
-    have a conversation with the community about publishing crypto 
-    algorithms that are not widely reviewed.
-
-* 2024-03-06: Cindy Morgan, Mirja Kühlewind, and Sally Wentworth to 
-    coordinate on adding the IAB as a signer to the Global Encryption 
-    Coalition letter about Australia and announcing it to the 
-    community.
-
-* 2024-03-17: Dhruv Dhody, Mirja Kühlewind and Suresh Krishnan to 
-    update the text that describes Technical Programs and 
-    Administrative Support Groups.
-
-* 2024-03-17: Suresh Krishnan to follow up with the IETF-3GPP 
-    Administrative Support Group about updating RFC 3113, "3GPP-IETF 
-    Standardization Collaboration."
-
-* 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
-    Workshops page on the IAB website and a blog post about IETF work 
-    that came out of IAB workshops.
-
-* 2024-04-03: Alvaro Retana to report back on the CCSDS discussion 
-    about collaboration on a requirements document for satellite 
-    networking. (Check back 2024-05-15)
-
-* 2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN 
-    NomCom Liaison appointment once the list of positions being filled 
-    is available.
-
-
-
-#### 1.5. IAB Document Status Update 
-
- Datatracker: https://datatracker.ietf.org/stream/iab/
-
-- **draft-iab-privacy-partitioning-05**
-Sent to the RFC Editor: RFC-EDITOR
-IAB Shepherd: David Schinazi
-
-- **draft-iab-bias-workshop-report-01**
-I-D Exists, IAB stream
-IAB Shepherd: Suresh Krishnan
-
-
-
-#### 1.6. IAB Review of WG Charters - No updates since last meeting
-
- Datatracker: https://datatracker.ietf.org/group/chartering/	
-
--   **Mail Maintenance (mailmaint)**
-    Area: ART
-    Internal Review
-    IESG Telechat: (None)
-    IAB Reviewer: Wes Hardaker (sent 2024-04-03)
-
--   **Multiformats (multi)**
-    Area: ART
-    Internal Review
-    IESG Telechat: (None)
-    IAB Reviewer: Qin Wu (sent 2023-09-12)
-
--   **Secure Patterns for Internet CrEdentials (spice)**
-    Area: SEC
-    Internal Review
-    IESG Telechat: 2024-04-18
-    IAB Reviewer: Dhruv Dhody (sent 2024-04-05)
-    
-### 2. Update on Private Wiki Move (Cindy, Liz) - 5 mins (Public)
-
-  Goal: Update on the status of the private wiki move to wikijs
-
-
-### 3. IAB Workshops (Mirja, Dhruv) - 15 mins (Public)
-
-  Open action item:
-
-- 2024-03-21: Dhruv Dhody and Mirja Kühlewind to draft text for the 
-    Workshops page on the IAB website and a blog post about IETF work 
-    that came out of IAB workshops.
-
-
-### 4. 2024 Retreat Agenda Topics (All) - 10 mins (Public)
-
-  Wiki: https://wiki.ietf.org/group/iab/2024_Retreat
-
-  Goal: Brainstorm potential retreat topics
-
-
-### 5. Closing Old Workshop Lists (Cindy) - 5 mins (Public)
-
-  Goal: Approve closing old workshop-related mailing lists (where the 
-  workshop report has been published):
-
-- aid-workshop (Attendees)
-- aid-workshop-pc (PC)
-- network-quality-workshop (Attendees)
-- network-quality-workshop-pc (PC)
-- mten-workshop (Attendees)
-- mten-workshop-pc (PC)
-- e-impact-workshop-attendees (Attendees)
-- e-impact-workshop (PC)
-
-
-### 6. Other Business
-
+### 2. Technical Discussion: Community Networks (ISOC)
     
 
 
 ## Upcoming Teleconferences 
 
-* 2024-05-01: IAB Business Meeting
-* 2024-05-08: IAB Technical Discussion: Community Networks (ISOC)
 * 2024-05-15: IAB Business Meeting
+    * draft-iab-bias-workshop-report-01 for community review
 * 2024-05-22: IAB Technical Discussion: Censorship Measurements (Roya En)
 * 2024-05-29: IAB Business Meeting
 * 2024-06-05: IAB Business Meeting (Reserved)
@@ -245,6 +113,9 @@ IAB Shepherd: Suresh Krishnan
 * [Past IAB Teleconferences - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
 
 
-### Regular Webex info to put back up top later:
-* [WebEx Link](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
-* Meeting password: 1@Bmeet
+### Backup Zoom info:
+
+* [Zoom link](https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09)
+* Passcode: 1234
+
+
