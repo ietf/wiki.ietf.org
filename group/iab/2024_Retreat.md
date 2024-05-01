@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-05-01T15:16:20.001Z
+date: 2024-05-01T15:17:46.835Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -39,6 +39,8 @@ WC2H 8AG
 - Pipeline for appointments (maybe joint topic)
 - E-impact and follow-ons (BOF? PRG?) 
   - there may be a BOF proposal by the retreat
+- Joint topic: limited domains (Suresh)  
+  
  
  
 ## All Retreat Archives
