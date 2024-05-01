@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-04-30T12:12:37.580Z
+date: 2024-05-01T15:11:33.202Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -28,6 +28,14 @@ WC2H 8AG
 
 - IETF-3GPP Relationship (Suresh)
 - Outreach (Dhruv)
+- ISOC / Policy related topics - 1 hour or so at a time Sally is available to call in
+- Using part of the vision document for other purposes (Mirja)
+- Liaison coordination; lighter weight options (Suresh)
+- Brainstorm more tech topics, workshops, programs, etc (Tommy)
+- Joint topic: IAB's role in chartering/new work (Matthew)
+- Joint topic: how much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
+- National crypto / ISE 
+- Pipeline for appointments (maybe joint topic)
 
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
