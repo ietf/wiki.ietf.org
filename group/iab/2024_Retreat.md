@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-05-01T15:13:39.260Z
+date: 2024-05-01T15:15:07.587Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -37,7 +37,7 @@ WC2H 8AG
 - Joint topic: how much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
 - National crypto / ISE 
 - Pipeline for appointments (maybe joint topic)
-
+- E-impact and follow-ons (BOF? PRG?) 
 
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
