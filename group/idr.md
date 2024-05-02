@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2024-04-23T19:53:27.173Z
+date: 2024-05-02T08:58:48.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -50,10 +50,10 @@ If you have questions or concerns regarding the implementation requirement, plea
 
 ## Interims 
 
-### Interims in 2024 
-[IDR Interim-1 on 1/26 - CAR, CT, AIGP, and Sendholdtimer](https://datatracker.ietf.org/meeting/interim-2024-idr-02/session/idr)
-[IDR Interim-2 on 2/26 - New Drafts Interim](https://datatracker.ietf.org/meeting/interim-2024-idr-01/session/idr) 
-[IDR Interim on 5/20 - Adoption Drafts](https://datatracker.ietf.org/meeting/interim-2024-idr-04/session/idr)
+### Upcoming Review 
+
+[IDR Interim on 5/20 - SR and BGP-LS](https://datatracker.ietf.org/meeting/interim-2024-idr-04/session/idr)
+
 [IDR Interim on 6/24 - Pre-IETF-120 New Drafts (-00)](https://datatracker.ietf.org/meeting/interim-2024-idr-05/session/idr) 
 
 #### IDR FSv2 interims in 2024
@@ -66,6 +66,9 @@ If you have questions or concerns regarding the implementation requirement, plea
 [Design team 3 + 4 on 5/13](https://datatracker.ietf.org/meeting/interim-2024-idr-07/session/idr)
 [Design team 3 + 4 on 6/17](https://datatracker.ietf.org/meeting/interim-2024-idr-10/session/idr) 
 
+### Past Interims in 2024 
+[IDR Interim-1 on 1/26 - CAR, CT, AIGP, and Sendholdtimer](https://datatracker.ietf.org/meeting/interim-2024-idr-02/session/idr)
+[IDR Interim-2 on 2/26 - New Drafts Interim](https://datatracker.ietf.org/meeting/interim-2024-idr-01/session/idr) 
 
 ### Interims in 2023 
 [IDR Interim-1 in April 2023](/group/idr/IDR-New-Drafts-Apr2023)
