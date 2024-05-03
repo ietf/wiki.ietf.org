@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-01T16:16:06.674Z
+date: 2024-05-03T18:28:20.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,7 +29,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-### 2. Technical Discussion: Community Networks (ISOC)
+### 2. Technical Discussion: Community Networks (ISOC) - 45 mins
+
+### 3. Executive Session: Community Coordination Group Appointment
+
+  Goal: Confirm process for 2024
     
 
 
