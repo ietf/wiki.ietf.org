@@ -2,7 +2,7 @@
 title: FSv2 Design Team 2 - More IP Filters 
 description: FSv2 Design Team 2 Home Page 
 published: true
-date: 2024-04-19T13:51:40.924Z
+date: 2024-05-03T23:23:58.621Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-18T12:21:49.627Z
@@ -28,7 +28,7 @@ The initial draft will just contains the initial filters from Flow Specification
 4. What IPv4 or IPv6 filters have we missed. 
 5. What impact does grouping of data per application (APN ID, CATS-ID, SAVNET ID)? 
 
-## Reading before 5/3 meeting 
+## Reading before 5/5 meeting 
 
 ### IDR drafts 
 - Flow Specification v2 ([draft-ietf-idr-flowspec-v2-03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-v2/))
