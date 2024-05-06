@@ -2,7 +2,7 @@
 title: SECDISPATCH WG - Security Dispatch
 description: 
 published: true
-date: 2023-02-27T06:54:43.203Z
+date: 2024-05-06T12:11:13.686Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:56:10.700Z
@@ -46,8 +46,6 @@ The chairs will consider the points above and any deriving discussions when sett
 
 Note that precedence in the meeting will be given to documents that have demonstrated interest in the form of active drafts and mailing list discussion, as well as presenters who submit slides according to the timeline. The chairs reserve the right to remove presentations from the agenda if slides are not sent in on time.
 
-*Current submitted agenda items are listed in [ietf111] (work in progress)*.
-
 ## Preparing your slides
 When preparing your slides, try to include point 1 to 7 above. The presentation should cover motivation, background and hoped dispatching outcome (see above).
 
@@ -55,21 +53,15 @@ We suggest the slides to be clear and concise: the discussion after the presenta
 
 Please remember to put page numbers on your slides!
 
-To submit your slides, [upload them directly](https://datatracker.ietf.org/meeting/111/session/secdispatch) (requires datatracker login) or send them to the chairs.
-
 ## Good to Think About
 - Because of the dispatch nature of the working group, participants in secdispatch mail threads might not be subscribed to the mailing list. Think about keeping people you are addressing in the To: field, if you want to make sure they see your email.
 - Send your slides on time!
 - starting a thread in the mailing list is great; "advertising" your work to possible interested parties and get them to provide feedback in the mail thread and participate in the meeting is even better to help the chairs dispatch your work.
 ## Contact Points
 - Mailing list - secdispatch@ietf.org
-- WG chairs: Kathleen Moriarty, Richard Barnes, Rifaat Shekh-Yusef - secdispatch-chairs@ietf.org
-- Area directors: Roman Danyliw, Paul Wouters - secdispatch-ads@ietf.org
+- WG chairs: Daniel Kahn Gillmor and Rifaat Shekh-Yusef - secdispatch-chairs@ietf.org
+- Area directors: Deb Cooley and Paul Wouters - secdispatch-ads@ietf.org
 
 &nbsp;
 &nbsp;
 &nbsp;
-
----
-
-*The content of this page was last updated on 2022-10-21. It was migrated from the old Trac wiki on 2023-02-26.*
