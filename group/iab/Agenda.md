@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-03T18:28:47.862Z
+date: 2024-05-06T20:57:55.377Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -41,30 +41,36 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * 2024-05-15: IAB Business Meeting
     * draft-iab-bias-workshop-report-01 for community review
+    * Monthly Reports
 * 2024-05-22: IAB Technical Discussion: Censorship Measurements (Roya En)
 * 2024-05-29: IAB Business Meeting
 * 2024-06-05: IAB Business Meeting (Reserved)
 * 2024-06-12: IAB Business Meeting
+    * Monthly Reports
 * 2024-06-19: IAB Technical Discussion (Reserved)
 
 -- 2024-06-24 - 2024-06-26: IAB Retreat --
 
 * 2024-07-03: IAB Business Meeting (Reserved)
 * 2024-07-10: IAB Business Meeting
+    * Monthly Reports
 
 -- 2024-07-20 - 2024-07-26: IETF 120 Vancouver --
 
 * 2024-08-07: IAB Business Meeting
 * 2024-08-14: IAB Business Meeting (Reserved)
 * 2024-08-21: IAB Business Meeting
+    * Monthly Reports
 * 2024-08-28: IAB Technical Discussion (Reserved)
 * 2024-09-04: IAB Business Meeting
 * 2024-09-11: IAB Business Meeting (Reserved)
 * 2024-09-18: IAB Business Meeting
+    * Monthly Reports
 * 2024-09-25: IAB Technical Discussion (Reserved)
 * 2024-10-02: IAB Business Meeting
 * 2024-10-09: IAB Business Meeting (Reserved)
 * 2024-10-16: IAB Business Meeting
+    * Monthly Reports
 * 2024-10-23: IAB Technical Discussion (Reserved)
 
 -- 2024-11-02 - 2024-11-08: IETF 121 Dublin --
@@ -72,10 +78,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 *Note: Call time changes to 0700 PST after 2024-11-02*
 
 * 2024-11-20: IAB Business Meeting
+    * Monthly Reports
 * 2024-11-27: IAB Business Meeting (Reserved)
 * 2024-12-04: IAB Business Meeting
 * 2024-12-11: IAB Technical Discussion (Reserved)
 * 2024-12-18: IAB Business Meeting
+    * Monthly Reports
 
 -- 2024-12-25 - 2025-01-01: Winter Holiday Break --
 
