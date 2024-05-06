@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-04-26T20:30:37.776Z
+date: 2024-05-06T07:34:18.750Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-
+- Éric V (Ascension Thursday = bank holiday in Belgium)
 
 ## Agenda
 
