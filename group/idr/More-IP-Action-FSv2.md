@@ -2,7 +2,7 @@
 title: More IP Actions for FSv2 
 description: Adding Actions to FSv2 beyond Basic FSv2 Actions 
 published: true
-date: 2024-04-19T19:41:26.048Z
+date: 2024-05-07T17:07:19.693Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T12:54:26.814Z
@@ -24,7 +24,7 @@ One key issues with Ordering of Actions is the action taken when an action does 
 **Meetings before IETF-120:** 5/6 and 6/10 (Time 10-11:30am ET) 
 **Meeting Agendas**: See below 
 
-**initial draft:**  draft-ietf-hares-fsv2-more-ip-actions 
+**initial draft:**  draft-ietf-hares-idr-fsv2-more-ip-actions 
 **New drafts requested:** Any Drafts specifying actions for FSv1 or FSv2.  
 
 ### Questions 
