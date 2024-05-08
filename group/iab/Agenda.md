@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-06T21:40:41.824Z
+date: 2024-05-08T19:24:28.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-05-08 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-05-15 0730 PDT (UTC-7) 
 
 *Agenda as of 2024-05-03. IAB agendas are subject to change, up to and during the meeting.*
 
@@ -29,11 +29,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-### 2. Technical Discussion: Community Networks (ISOC) - 45 mins
 
-### 3. Executive Session: Community Coordination Group Appointment
-
-  Goal: Confirm process for 2024
     
 
 
