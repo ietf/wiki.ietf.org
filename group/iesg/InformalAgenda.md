@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-08T15:38:58.791Z
+date: 2024-05-08T18:03:38.332Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -15,12 +15,22 @@ dateCreated: 2022-07-23T19:46:23.149Z
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
 
+## Zoom URL
+**We should be back to Webex next week!**
 
-## Webex URL
+Join Zoom Meeting
+https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09
 
-> https://ietf.webex.com/ietf/j.php?MTID=m3cc48bcbd48465d4da48d0197a6e7bb2
-Meeting number: 2427 431 7054
-Meeting password: 12345 
+Meeting ID: 264 912 1587
+Passcode: 1234
+
+One tap mobile
++16694449171,,2649121587# US
++17193594580,,2649121587# US
+
+Dial by your location
+• +1 669 444 9171 US
+• +1 719 359 4580 US
 
 ## Calendar subscription URL
 
@@ -73,4 +83,14 @@ Please use your best judgement to add new items into one of the categories below
 
 
 ### Topics Deferred Till Next Informal 
+
+
+
+-------
+
+## Webex URL
+
+> https://ietf.webex.com/ietf/j.php?MTID=m3cc48bcbd48465d4da48d0197a6e7bb2
+Meeting number: 2427 431 7054
+Meeting password: 12345 
 
