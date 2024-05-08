@@ -2,7 +2,7 @@
 title: More IP Actions for FSv2 
 description: Adding Actions to FSv2 beyond Basic FSv2 Actions 
 published: true
-date: 2024-05-07T17:07:19.693Z
+date: 2024-05-08T11:47:33.239Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T12:54:26.814Z
@@ -28,7 +28,7 @@ One key issues with Ordering of Actions is the action taken when an action does 
 **New drafts requested:** Any Drafts specifying actions for FSv1 or FSv2.  
 
 ### Questions 
-1.  What Actions interaction?  Are those interactions clearly defined? 
+1.  What Actions interact?  Are those interactions clearly defined? 
 2.  What Actions do users want to order? 
 3.  What happens when Actions fail? 
 4.  What Actions can be implemented as Extended Communities (New FSv2 Actions)? 
