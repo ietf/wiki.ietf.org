@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-06T07:34:18.750Z
+date: 2024-05-08T15:36:58.889Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - May 9, 2024 
 
- There **WILL NOT** be a meeting on this date.
+ There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -48,7 +48,8 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Topic (NAME)
+* Alldispatch V2 - Francesca
+[Summary of feedback and proposal](https://docs.google.com/document/d/1Nl0ZU3xUpg1XSPiWeI-Bo3LJ-K0LxNBk_d3zDWuvQsw/edit?usp=sharing)
 
 #### Urgent but not important
 
