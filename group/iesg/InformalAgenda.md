@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-09T05:04:48.157Z
+date: 2024-05-09T13:17:19.147Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -62,6 +62,8 @@ Please use your best judgement to add new items into one of the categories below
 
 * Alldispatch V2 - Francesca
 [Summary of feedback and proposal](https://docs.google.com/document/d/1Nl0ZU3xUpg1XSPiWeI-Bo3LJ-K0LxNBk_d3zDWuvQsw/edit?usp=sharing)
+* Disruptive people - Jay
+Document from Meetecho on their planned changes: https://docs.google.com/document/d/1b3h7anm9dczG7cI6-Cmt4_k7BFCovk7mwL522zawgeU/edit?usp=sharing
 
 #### Urgent but not important
 
