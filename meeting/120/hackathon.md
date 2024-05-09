@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-05-09T08:50:49.753Z
+date: 2024-05-09T14:10:38.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -174,7 +174,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 - **Project Info**
 	
   - 3 main ways to combine attestation in TLS
-    - Pre-handshake attestation ([Overview slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf))
+    - Pre-handshake attestation ([Overview slides](https://gtmfs2024.sciencesconf.org/data/pages/usama.pdf))
     - Intra-handshake attestation ([IETF draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
     - Post-handshake attestation ([Project proposal](https://github.com/CCC-Attestation/governance/issues/13))
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. If you are interested, please contact by email. 
