@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-08T22:55:37.614Z
+date: 2024-05-09T05:04:48.157Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -41,6 +41,7 @@ Dial by your location
 
 - Éric V (Ascension Thursday = bank holiday in Belgium)
 - David Schinazi
+- Erik Kline
 
 ## Agenda
 
