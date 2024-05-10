@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-policy
 description: 
 published: true
-date: 2024-05-10T10:10:34.221Z
+date: 2024-05-10T10:12:54.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T07:22:57.929Z
@@ -25,7 +25,7 @@ Report created by Ketan Talaulikar (ketant@…)
 ### TLV code point support 
 
 | TLV Code Point |	Description	 | Cisco IOS-XR | Huawei VRP | |
-|----------------|---------------|--------------|----|
+|----------------|---------------|--------------|----|---|
 |   554 |   SR Policy CP Descriptor              | Yes | Yes |
 |  1201 |   SR Binding SID                       | Yes | Yes |
 |  1202 |   SR CP State                          | Yes | Yes |
@@ -49,7 +49,7 @@ Report created by Ketan Talaulikar (ketant@…)
 ### Segment Type Description 
 
 | Sub-TLV |	Segment type | Cisco IOS-XR |	Huawei VRP | |
-|---------|--------------|--------------|--|
+|---------|--------------|--------------|-----|--|
 |    1    | (Type A)     |  Yes         | Yes |
 |    2    | (Type B)     |  Yes         | Yes |
 |    3    | (Type C)     |  Yes         |  -  |
