@@ -2,35 +2,25 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-09T13:43:55.006Z
+date: 2024-05-10T15:41:34.048Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 9, 2024 
+# Informal Telechat - May 23, 2024 
 
- There **WILL** be a meeting on this date.
+ There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
 
-## Zoom URL
-**We should be back to Webex next week!**
+## Webex URL
 
-Join Zoom Meeting
-https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09
+> https://ietf.webex.com/ietf/j.php?MTID=m3cc48bcbd48465d4da48d0197a6e7bb2
+Meeting number: 2427 431 7054
+Meeting password: 12345 
 
-Meeting ID: 264 912 1587
-Passcode: 1234
-
-One tap mobile
-+16694449171,,2649121587# US
-+17193594580,,2649121587# US
-
-Dial by your location
-• +1 669 444 9171 US
-• +1 719 359 4580 US
 
 ## Calendar subscription URL
 
@@ -39,11 +29,6 @@ Dial by your location
 
 ## Regrets
 
-- Éric V (Ascension Thursday = bank holiday in Belgium)
-- David Schinazi
-- Erik Kline
-- John Scudder
-- Zahed Sarker
 
 ## Agenda
 
@@ -62,10 +47,8 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Urgent and important
 
-* Alldispatch V2 - Francesca
-[Summary of feedback and proposal](https://docs.google.com/document/d/1Nl0ZU3xUpg1XSPiWeI-Bo3LJ-K0LxNBk_d3zDWuvQsw/edit?usp=sharing)
-* Disruptive people - Jay
-Document from Meetecho on their planned changes: https://docs.google.com/document/d/1b3h7anm9dczG7cI6-Cmt4_k7BFCovk7mwL522zawgeU/edit?usp=sharing
+* Topic (NAME)
+
 
 #### Urgent but not important
 
@@ -94,9 +77,4 @@ Document from Meetecho on their planned changes: https://docs.google.com/documen
 
 -------
 
-## Webex URL
-
-> https://ietf.webex.com/ietf/j.php?MTID=m3cc48bcbd48465d4da48d0197a6e7bb2
-Meeting number: 2427 431 7054
-Meeting password: 12345 
 
