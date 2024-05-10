@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-policy
 description: 
 published: true
-date: 2024-05-10T10:12:54.442Z
+date: 2024-05-10T11:25:56.661Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T07:22:57.929Z
@@ -65,6 +65,7 @@ Report created by Ketan Talaulikar (ketant@…)
 
 ## interoperability test results 
 
+Interoperability tests for this draft implementations were performed as part of the EANTC 2024 Interop testing event. Refer page no 43 (section title - Advertisement of SR Policies using BGP-LS) of the report: https://eantc.de/wp-content/uploads/2023/12/EANTC-MPLSSDNInterop2024-TestReport-v1.3.pdf
  
 ## References for Configuration per Vendor
 
