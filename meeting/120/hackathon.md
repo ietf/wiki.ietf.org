@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-05-09T14:10:38.850Z
+date: 2024-05-13T22:10:23.906Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -16,7 +16,9 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * :cityscape: Room: **TBD**
 {.grid-list}
 
-
+| Gold Running Code Sponsor  | 
+|:---:|:---:|:---:|
+| ![Ericsson](/eri_vertical_rgb.max-120x74.png) |
 
 **Sign up for the Hackathon**
 * [Onsite registration](https://registration.ietf.org/120/new/hackathon_onsite/)
