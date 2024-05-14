@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-04-04T19:24:31.833Z
+date: 2024-05-14T16:57:01.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,8 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2024-2025 Assignments
+- DELEG: Alvaro Retana (2024-05)
+- SRV6OPS: Matthew Bocci (2024-05)
 - SPICE: Dhruv Dhody (2024-04)
 - MAILMAINT: Wes Hardaker (2024-04)
 
