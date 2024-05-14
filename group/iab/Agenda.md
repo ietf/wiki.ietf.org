@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-10T19:17:25.308Z
+date: 2024-05-14T17:31:26.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-05-15 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-05-10. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-05-14. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -115,13 +115,15 @@ In Progress:
     IAB Shepherd: Not assigned
 
 
-#### 1.6. IAB Review of WG Charters - No IAB actions pending
+#### 1.6. IAB Review of WG Charters - Outstanding IAB Reviews
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
 - DNS Delegation (deleg)
     Area: INT
-    Draft Charter
+    Internal Review
+    IESG Telechat: 2024-05-30
+    IAB Reviewer: Alvaro Retana
 
 - Multiformats (multi)
     Area: ART
@@ -132,8 +134,14 @@ In Progress:
 - Secure Patterns for Internet CrEdentials (spice)
     Area: SEC
     External Review
-    IESG Telechat: 2024-05-40
+    IESG Telechat: 2024-05-30
     IAB Reviewer: Dhruv Dhody (sent 2024-04-05)
+
+- SRv6 Operations (srv6ops)
+    Area: OPS
+    Internal Review
+    IESG Telechat: 2024-05-30
+    IAB Reviewer: Matthew Bocci
 
 
 #### 1.7 IAB Appointments
@@ -163,7 +171,15 @@ In Progress:
 ### 4. Logistics for the ISE discussion session at IETF 120 (Tommy) - 10 mins (Public)
 
 
-### 5. Other Business 
+### 5. Request for Network Management Workshop (Wes) - 5 mins (Public)
+
+
+### 6. Outreach (Dhruv, Mirja) - 5 mins (Public)
+
+
+### 7. Other Business 
+
+
     
 
 
