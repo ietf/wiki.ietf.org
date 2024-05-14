@@ -2,14 +2,13 @@
 title: Enterprise
 description: Wiki page for the enterprise@ietf.org non-wg mailing list
 published: true
-date: 2024-05-14T18:36:48.449Z
+date: 2024-05-14T18:41:34.661Z
 tags: other enterprise non-wg
 editor: markdown
 dateCreated: 2024-05-14T18:36:48.449Z
 ---
 
-# Enterprise
-This wiki page is designated to collect information relevant to the non-wg mailing list enterprise@ietf.org: Discussions about enterprise networking specific scenarios and deployment problems.
+This wiki page is designated to collect information relevant to the non-wg mailing list [enterprise@ietf.org](https://mailman3.ietf.org/mailman3/lists/enterprise@ietf.org/): Discussions about enterprise networking specific scenarios and deployment problems.
 
 If you have enterprise deployment and scenario related questions or sugestions, please contact the mailing list.
 
