@@ -2,7 +2,7 @@
 title: ALLDISPATCH
 description: Experiment at IETF 119
 published: true
-date: 2024-05-09T17:13:52.420Z
+date: 2024-05-14T08:07:26.735Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T22:08:41.992Z
@@ -65,7 +65,7 @@ The focus of each presentation at ALLDISPATCH is to answer the *dispatch questio
 
 ### IESG Liaison
 
-[Martin Duke](https://datatracker.ietf.org/person/martin.h.duke@gmail.com)
+[Francesca Palombini](https://datatracker.ietf.org/person/francesca.palombini@ericsson.com)
 
 ## Evaluation Criteria
 
