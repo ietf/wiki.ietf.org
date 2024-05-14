@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-05-14T12:58:05.303Z
+date: 2024-05-14T17:29:42.418Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -86,7 +86,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-bgp-sendholdtimer | Jeff Haas | 4 | WG LC | Extend WG-LC (4/19)| 3/22 | 3/22-4/12 | 5/3 | IDR Chairs review  |  
+| draft-ietf-bgp-sendholdtimer | Jeff Haas | 4 | WG LC Chairs review | TBD | 3/22-4/19 | 5/3 | TBD |  
+| draft-ietf-idr-cpr-00 |  Susan Hares | Info | WG LC | TBD | 4/26 - 5/16 | 5/17 |  
 {.dense}
 
 ## WG LC Pending
