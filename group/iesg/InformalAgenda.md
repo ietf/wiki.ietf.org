@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-15T14:12:15.137Z
+date: 2024-05-15T14:12:48.016Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -56,7 +56,8 @@ Please use your best judgement to add new items into one of the categories below
 
 #### Important but not urgent
 
-* Proposed Upcoming IETF Meeting Dates - https://docs.google.com/spreadsheets/d/1r2pZ3dTSFX2ZDQnNlZ9X4xkMNs0KORn-PNYZNVUUHu0/edit#gid=824980808
+* Proposed Upcoming IETF Meeting Dates (Laura)
+    https://docs.google.com/spreadsheets/d/1r2pZ3dTSFX2ZDQnNlZ9X4xkMNs0KORn-PNYZNVUUHu0/edit#gid=824980808
 
 #### Not important and not urgent
 
