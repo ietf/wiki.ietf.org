@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-14T19:29:48.933Z
+date: 2024-05-15T13:31:55.140Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -51,7 +51,7 @@ On Hold:
 - 2023-05-11: Suresh Krishnan et al to write a draft on limited
     domains. (Check back end of June 2023)
 
-- 2023-06-07: Dhruv Dhody and Mallory Knodel to track adding IAB
+- 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
     review of proposed WG charters to the Datatracker.
     See https://github.com/ietf-tools/datatracker/issues/5849
 
