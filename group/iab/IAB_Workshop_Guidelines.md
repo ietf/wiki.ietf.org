@@ -2,7 +2,7 @@
 title: IAB Workshop Guidelines
 description: 
 published: true
-date: 2023-12-05T20:47:30.943Z
+date: 2024-05-15T10:36:35.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:47:25.471Z
