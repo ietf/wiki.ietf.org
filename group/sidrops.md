@@ -2,7 +2,7 @@
 title: SIDROPS
 description: Secure Inter-Domain Routing Operations
 published: true
-date: 2024-05-16T22:55:45.621Z
+date: 2024-05-16T22:56:51.513Z
 tags: sidrops, rpki, sidr, pkix, x509, asn1
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
@@ -28,7 +28,7 @@ If you have questions or concerns regarding the implementation requirement, plea
 
 ## SIDROPS WG Last Call
 
-[draft-ietf-sidrops-rrdp-desynchronization(/group/sidrops/draft-ietf-sidrops-rrdp-desynchronization)
+[draft-ietf-sidrops-rrdp-desynchronization].(/group/sidrops/draft-ietf-sidrops-rrdp-desynchronization)
 
 
 ## SIDROPS WG Call for adoption
