@@ -2,7 +2,7 @@
 title: SIDROPS
 description: Secure Inter-Domain Routing Operations
 published: true
-date: 2024-01-04T00:26:38.090Z
+date: 2024-05-16T22:48:28.863Z
 tags: sidrops, rpki, sidr, pkix, x509, asn1
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
@@ -25,6 +25,12 @@ SIDROPS requires at least two interoperable implementations of a Standards Track
 Implementation reports are published on our wiki (see below). Implementation reports should highlight aspects of the spec that have been implemented (for example, consider the sections and SHOULD/MUST/MAY/etc keywords as a matrix, with tickmarks to indicate compliance), aspects that have not been implemented (and why, if the answer would be interesting), what testing, interoperation, and deployment the implementation has seen, and any observations that the reporter deems interesting. Naturally it should indicate the software release, organization, and individual filing the report.
 
 If you have questions or concerns regarding the implementation requirement, please send questions to the [SIDROPS mailing-list](https://www.ietf.org/mailman/listinfo/sidrops) or the [SIDROPS chairs](mailto:sidrops-chairs@ietf.org). We are here to help you!
+
+## SIDROPS WG Last Call
+
+
+## SIDROPS WG Call for adoption
+
 
 ## Draft Implementation status
 
