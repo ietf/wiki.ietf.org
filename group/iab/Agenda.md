@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-15T17:33:40.703Z
+date: 2024-05-16T18:45:52.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -11,8 +11,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 # Agenda
 ## Details
 
-* [Zoom link](https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09)
-* Passcode: 1234
+* [WebEx Link](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
+* Meeting password: 1@Bmeet
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of March 2024:
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
@@ -124,9 +124,3 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * [Zoom link](https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09)
 * Passcode: 1234
-
-### Webex (not used this week)
-
-* [WebEx Link](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
-* Meeting password: 1@Bmeet
-
