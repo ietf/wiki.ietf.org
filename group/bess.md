@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-04-25T13:56:03.335Z
+date: 2024-05-16T15:03:14.235Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -157,7 +157,7 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-multicast-controller
   - GenArt early review passed
-  - RtgDir early review comments being addressed
+  - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement yet from reviewer yet.
 
 * draft-ietf-bess-bgp-multicast
   - GenArt and RtgDir early review passed ( revision -07)
