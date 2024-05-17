@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-05-17T04:42:20.026Z
+date: 2024-05-17T11:13:23.023Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,7 +21,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 |Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to post a new version|
-| Shepherd Review | draft-ietf-pce-pcep-yang| Julien | Waiting for authors to post a new version |
+| Shepherd Review | draft-ietf-pce-pcep-yang| Julien | Waiting for writeup |
+|WG Adoption|draft-li-pce-controlled-id-space|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
