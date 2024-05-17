@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-16T18:45:52.373Z
+date: 2024-05-17T18:37:58.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,7 +29,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-## 2. Technical Discussion: Censorship Measurements (Roya En)
+### 2. Technical Discussion: Censorship Measurements (Roya En) - 55 mins (Public)
 
     
 
