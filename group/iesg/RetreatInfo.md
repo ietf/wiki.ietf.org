@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-22T16:41:39.726Z
+date: 2024-05-22T18:04:55.352Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -81,6 +81,7 @@ IESG-only
 * Improving DT for Call for Adoption / WGLC requests (Warren)
 * Keywords / Tags (Warren)
   * was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
+* Actions from [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + ??)
 
 IESG+IAB
 * Privacy and Operational Considerations in drafts (Matthew/Alvaro)
