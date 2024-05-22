@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-22T15:25:52.180Z
+date: 2024-05-22T15:32:13.571Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -63,19 +63,23 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 #### IESG Parking Lot of Topics
 
 Please include initials next to topics, otherwise we risk forgetting what the topic is about :^)
-* Consistent IESG understanding/application of errata processing states
-* BCP14 language in documents status other than PS/S
-* Meetecho use at meetings
-* Code point assignment based on I-Ds
-* IESG Statement on Cryptography
-* Not-registered participants for side meetings
-* Status and use/disuse of "Affiliate Group"
-* AI Data Center "AIDC"
-* WK: Technology Deep Dives - future home?
-* WK: Improving DT for CfA / WGLC requests.
-* WK: Keywords / Tags 
+
+IESG-only
+* Consistent IESG understanding/application of errata processing states (??)
+* BCP14 language in documents status other than PS/S (??)
+* Meetecho use at meetings (??)
+* Code point assignment based on I-Ds (??)
+* IESG Statement on Cryptography (Paul/Deb)
+* Not-registered participants for side meetings (??)
+* Status and use/disuse of "Affiliate Group" (??)
+* AI Data Center "AIDC" (??)
+* Technology Deep Dives - future home? (Warren)
+* Improving DT for Call for Adoption / WGLC requests (Warren)
+* Keywords / Tags (Warren)
   * was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
-* Joint topic: Privacy and Operational Considerations in drafts (Matthew/Alvaro)
+
+IESG+IAB
+* Privacy and Operational Considerations in drafts (Matthew/Alvaro)
 
 ### RSVP
 
