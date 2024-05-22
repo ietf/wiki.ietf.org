@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-22T15:32:13.571Z
+date: 2024-05-22T16:39:23.207Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -56,7 +56,11 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
 #### Thursday, June 27 (IESG only)
 
+XXXX-XXXX: Lunch (in the Google cafeteria) 
+
 #### Friday, June 28 (IESG only)
+
+XXXX-XXXX: Lunch (in the Google cafeteria) 
 
 ### Proposed Additional Meeting Topics
 
