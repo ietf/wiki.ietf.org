@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-15T14:12:48.016Z
+date: 2024-05-22T02:08:55.758Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -58,6 +58,8 @@ Please use your best judgement to add new items into one of the categories below
 
 * Proposed Upcoming IETF Meeting Dates (Laura)
     https://docs.google.com/spreadsheets/d/1r2pZ3dTSFX2ZDQnNlZ9X4xkMNs0KORn-PNYZNVUUHu0/edit#gid=824980808
+    
+* [IESG Retreat Agenda](https://wiki.ietf.org/group/iesg/RetreatInfo) (Roman) -- additional topics? layout by day? what should be joint with IAB?
 
 #### Not important and not urgent
 
