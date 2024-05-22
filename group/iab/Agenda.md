@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-21T16:44:46.932Z
+date: 2024-05-22T17:40:37.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -168,7 +168,7 @@ In Progress:
 * 2024-06-05: IAB Business Meeting (Reserved)
 * 2024-06-12: IAB Business Meeting
     * Monthly Reports
-* 2024-06-19: IAB Technical Discussion (Reserved)
+* 2024-06-19: Executive Session: ICANN GWG
 
 -- 2024-06-24 - 2024-06-26: IAB Retreat --
 
