@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-22T17:40:37.052Z
+date: 2024-05-23T21:00:51.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,7 +39,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Done:
 
-
+* 2024-05-15: Cindy Morgan to send draft-iab-bias-workshop-report-01 
+    out for community review.
 
 On Hold:
 
@@ -52,7 +53,12 @@ On Hold:
 
 * 2024-03-17: Liaison Managers to follow up with Martin Thomson about 
     liaison manager for W3C.
-    Check back August 2024
+    - Check back August 2024
+    
+* 2024-03-17: Dhruv Dhody, Mirja Kühlewind and Suresh Krishnan to 
+    update the text that describes Technical Programs and 
+    Administrative Support Groups.
+    - Check back after 2024 Retreat
 
 In Progress:
 
@@ -86,9 +92,6 @@ In Progress:
 
 * 2024-05-01: All IAB to review the draft blog post about IAB 
     workshops.
-
-* 2024-05-15: Cindy Morgan to send draft-iab-bias-workshop-report-01 
-    out for community review.
 
 * 2024-05-15: Tommy Pauly to follow up with Eliot Lear about holding 
     a discussion with the community about the Independent Stream at IETF 120.
@@ -149,14 +152,57 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-  • RSWG Chair - call for nominations ends 2024-05-28
+* RSWG Chair - call for nominations ended 2024-05-28 (see later 
+    agenda topic)
 
-  • CCG - call for feedback ends 2024-06-11
+* CCG - call for feedback ends 2024-06-11
 
-  • RZERC - call for nominations to go out 2024-05-28 (mandated by term 
-    limits)
-    
-  • ICANN Board Liaison - 2024-06-11
+* RZERC - call for nominations sent 2024-05-28 
+
+* ICANN Board Liaison - call for nominations to go out 2024-06-11 
+    (see later agenda topic)
+
+
+### 2. Upcoming Technical Discussions and Executive Sessions - 15 mins (Public)
+
+  Goal: There are a number of potential upcoming meetings with guests 
+  that should be coordinated:
+
+  • Mark Nottingham topic (mail coming soon) (Tommy): 2024-06-05
+  • Executive Session with the IAB's GWG Appointees (Wes): 2024-06-19
+  • Rescheduling the technical discussion with Roya Ensafi on 
+    Censorship Measurements (Mirja)
+  • Technical Discussion on Networking and Sustainability (Suresh)
+  • Other topics?
+
+
+
+### 3. IAB Open Meeting at IETF 120 (Tommy) - 5 mins (Public)
+
+  Goal: Find co-chair
+
+
+### 4. Reporting on Border Gateway Protocol Risk Mitigation Progress (Alvaro/Sally) - 10 mins (Public)
+
+  Context: https://docs.fcc.gov/public/attachments/DOC-402609A1.pdf
+
+  Goal: ISOC is tracking this and would like to know if there is 
+  anything the IAB would like them to raise.
+
+
+### 5. Executive Session: RSWG Chair Appointment - 10 mins
+
+  Goal: Nominations closed 2024-05-28. Next steps?
+
+
+### 6. Executive Session: ICANN Board Liaison Appointment - 10 mins
+
+  Goal: Discuss call for nominations text, requirements for position
+
+
+### 7. Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2024-06-05?
 
 
     
