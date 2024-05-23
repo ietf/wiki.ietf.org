@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-23T13:51:22.997Z
+date: 2024-05-23T23:36:32.287Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 23, 2024 
+# Informal Telechat - June 6, 2024 
 
- There **WILL** be a meeting on this date.
+ There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,8 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-* Erik K.
-* David S
+
 
 ## Agenda
 
@@ -45,32 +44,6 @@ Note that this page is public.
 
 ### Management Issues
 
-Please use your best judgement to add new items into one of the categories below.
-
-#### Urgent and important
-
-* Topic (NAME)
-
-
-#### Urgent but not important
-
-* Topic (NAME)
-
-#### Important but not urgent
-
-* Proposed Upcoming IETF Meeting Dates (Laura)
-    https://docs.google.com/spreadsheets/d/1r2pZ3dTSFX2ZDQnNlZ9X4xkMNs0KORn-PNYZNVUUHu0/edit#gid=824980808
-    
-* [IESG Retreat Agenda](https://wiki.ietf.org/group/iesg/RetreatInfo) (Roman) -- additional topics? layout by day? what should be joint with IAB?
-
-* Proposal: Replace the "urgent/important, urgent/not important, etc" standing informal telechat agenda items with (roughly) "(a) Discussion topics and (b) Discussion topics only if the meeting is happening"
-
-* ISE / IAB / SEC IETF-120 deconfusion ?
-
-#### Not important and not urgent
-
-* Topic (NAME)
-
 ### WG News 
 
 ### Documents to Swap 
@@ -79,11 +52,11 @@ Please use your best judgement to add new items into one of the categories below
 
 ### Executive Sessions
 
-* Background from last informal (EricV)
+
+### Parking Lot
+Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
 ### Topics Deferred Till Next Informal 
-
-
 
 -------
 
