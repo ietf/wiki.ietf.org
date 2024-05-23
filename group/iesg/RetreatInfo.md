@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-23T15:33:53.139Z
+date: 2024-05-23T15:35:11.869Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -50,7 +50,7 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 #### Wednesday, June 26 (IAB+IESG)
 
 
-1830: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
+1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
 
 
 
