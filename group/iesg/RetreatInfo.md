@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-23T13:52:33.538Z
+date: 2024-05-23T13:53:57.301Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -84,7 +84,8 @@ IESG-only
 * Actions from [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + ??)
 
 IESG+IAB
-* Privacy and Operational Considerations in drafts (Matthew/Alvaro)
+* How to encourage Privacy and Operational Considerations in drafts (Matthew/Alvaro)
+* IAB's role in chartering/new work (Matthew)
 
 ### RSVP
 
