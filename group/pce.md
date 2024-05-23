@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-05-21T12:20:45.854Z
+date: 2024-05-23T06:09:54.709Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -97,7 +97,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Waiting for write-up and Shepherd review | IPR -4/4 | Julien |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Shepherd review and RtgDir early review done. Waiting for authors to update | IPR-5/5 | Dhruv | 
 
 
@@ -107,7 +106,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Submitted to IESG for Publication on 2023-12-30 | IDNITS - 1 issue. Early dir reviews, some nits. | Dhruv |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | RtgDir early review requested | Dhruv | 
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | RtgDir early review requested | Dhruv |
+| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | RtgDir,SecDir, Yang doctor early review done | Julien |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
