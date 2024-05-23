@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-23T13:53:57.301Z
+date: 2024-05-23T15:33:23.018Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -86,6 +86,7 @@ IESG-only
 IESG+IAB
 * How to encourage Privacy and Operational Considerations in drafts (Matthew/Alvaro)
 * IAB's role in chartering/new work (Matthew)
+* Limited domains (Suresh)
 
 ### RSVP
 
