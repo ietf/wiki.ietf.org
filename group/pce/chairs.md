@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-05-17T11:13:23.023Z
+date: 2024-05-23T06:13:18.100Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,7 +21,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 |Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to post a new version|
-| Shepherd Review | draft-ietf-pce-pcep-yang| Julien | Waiting for writeup |
 |WG Adoption|draft-li-pce-controlled-id-space|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -33,13 +32,15 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|
 |AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
 |AD Review|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
+|AD Review|draft-ietf-pce-pcep-yang|Submitted on 2024-05-22|
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
 |Shepherd Review|draft-ietf-pce-stateful-pce-optional|Dhruv|Waiting for authors to handle comments|
-|Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to handle comments|
+|Shepherd Review|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
 |IANA Poll|draft-ietf-pce-circuit-style-pcep-extensions|Dhruv|-|
 |Adoption|draft-peng-pce-entropy-label-position|Dhruv|-|
 |IANA Poll for additional codepoints|draft-ietf-pce-segment-routing-policy-cp|Dhruv|-|
