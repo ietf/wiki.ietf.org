@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-23T07:08:05.326Z
+date: 2024-05-23T12:32:32.224Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -62,6 +62,8 @@ Please use your best judgement to add new items into one of the categories below
     
 * [IESG Retreat Agenda](https://wiki.ietf.org/group/iesg/RetreatInfo) (Roman) -- additional topics? layout by day? what should be joint with IAB?
 
+* Proposal: Replace the "urgent/important, urgent/not important, etc" standing informal telechat agenda items with (roughly) "(a) Discussion topics and (b) Discussion topics only if the meeting is happening"
+
 #### Not important and not urgent
 
 * Topic (NAME)
@@ -74,6 +76,7 @@ Please use your best judgement to add new items into one of the categories below
 
 ### Executive Sessions
 
+* Background from last informal (EricV)
 
 ### Topics Deferred Till Next Informal 
 
