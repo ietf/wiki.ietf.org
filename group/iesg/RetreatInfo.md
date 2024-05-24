@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-05-23T15:35:11.869Z
+date: 2024-05-24T19:33:32.158Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -71,10 +71,10 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 IESG-only
 * Consistent IESG understanding/application of errata processing states (??)
 * BCP14 language in documents status other than PS/S (??)
-* Meetecho use at meetings (??)
+* Meetecho use at meetings (??) --> Potential joint topic with IAB
 * Code point assignment based on I-Ds (??)
 * IESG Statement on Cryptography (Paul/Deb)
-* Not-registered participants for side meetings (??)
+* Not-registered participants for side meetings (??) --> Potential joint topic with IAB (since it can relate to new work/liaisons)
 * Status and use/disuse of "Affiliate Group" (??)
 * AI Data Center "AIDC" (??)
 * Technology Deep Dives - future home? (Warren)
