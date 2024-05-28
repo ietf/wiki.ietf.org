@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-28T20:47:39.836Z
+date: 2024-05-28T21:15:59.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -168,7 +168,7 @@ In Progress:
   Goal: There are a number of potential upcoming meetings with guests 
   that should be coordinated:
 
-  • Mark Nottingham topic (mail coming soon) (Tommy): 2024-06-05
+  • AI Opt-Out (with Mark Nottingham) (Tommy): 2024-06-05
   • Executive Session with the IAB's GWG Appointees (Wes): 2024-06-19
   • Rescheduling the technical discussion with Roya Ensafi on 
     Censorship Measurements (Mirja)
