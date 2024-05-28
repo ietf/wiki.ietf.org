@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-23T21:00:51.409Z
+date: 2024-05-28T20:47:39.836Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-05-29 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-05-21. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-05-28. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -190,17 +190,21 @@ In Progress:
   anything the IAB would like them to raise.
 
 
-### 5. Executive Session: RSWG Chair Appointment - 10 mins
+### 5. Call for feedback on draft-rswg-rfc7990-updates-10 (Mirja) - 5 mins  (Public)
+
+  Note: RSAB sent out call for feedback on 2024-05-15
+
+### 6. Executive Session: RSWG Chair Appointment - 10 mins
 
   Goal: Nominations closed 2024-05-28. Next steps?
 
 
-### 6. Executive Session: ICANN Board Liaison Appointment - 10 mins
+### 7. Executive Session: ICANN Board Liaison Appointment - 10 mins
 
   Goal: Discuss call for nominations text, requirements for position
 
 
-### 7. Next IAB Meeting
+### 8. Next IAB Meeting
 
   Goal: Does the IAB need to meet on 2024-06-05?
 
