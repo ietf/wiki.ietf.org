@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-28T21:15:59.797Z
+date: 2024-05-29T16:09:54.187Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-05-29 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-06-05 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-05-28. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-05-29. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,9 +31,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-05-08 technical discussion and business meeting - (submitted 
-    2024-05-08) 
-* 2024-05-15 business meeting - (submitted 2024-05-15) 
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -152,70 +149,20 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-* RSWG Chair - call for nominations ended 2024-05-28 (see later 
-    agenda topic)
+* RSWG Chair
 
-* CCG - call for feedback ends 2024-06-11
+* CCG 
 
-* RZERC - call for nominations sent 2024-05-28 
+* RZERC 
 
-* ICANN Board Liaison - call for nominations to go out 2024-06-11 
-    (see later agenda topic)
+* ICANN Board Liaison 
 
 
-### 2. Upcoming Technical Discussions and Executive Sessions - 15 mins (Public)
-
-  Goal: There are a number of potential upcoming meetings with guests 
-  that should be coordinated:
-
-  • AI Opt-Out (with Mark Nottingham) (Tommy): 2024-06-05
-  • Executive Session with the IAB's GWG Appointees (Wes): 2024-06-19
-  • Rescheduling the technical discussion with Roya Ensafi on 
-    Censorship Measurements (Mirja)
-  • Technical Discussion on Networking and Sustainability (Suresh)
-  • Other topics?
-
-
-
-### 3. IAB Open Meeting at IETF 120 (Tommy) - 5 mins (Public)
-
-  Goal: Find co-chair
-
-
-### 4. Reporting on Border Gateway Protocol Risk Mitigation Progress (Alvaro/Sally) - 10 mins (Public)
-
-  Context: https://docs.fcc.gov/public/attachments/DOC-402609A1.pdf
-
-  Goal: ISOC is tracking this and would like to know if there is 
-  anything the IAB would like them to raise.
-
-
-### 5. Call for feedback on draft-rswg-rfc7990-updates-10 (Mirja) - 5 mins  (Public)
-
-  Note: RSAB sent out call for feedback on 2024-05-15
-
-### 6. Executive Session: RSWG Chair Appointment - 10 mins
-
-  Goal: Nominations closed 2024-05-28. Next steps?
-
-
-### 7. Executive Session: ICANN Board Liaison Appointment - 10 mins
-
-  Goal: Discuss call for nominations text, requirements for position
-
-
-### 8. Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2024-06-05?
-
-
-    
 
 
 ## Upcoming Teleconferences 
 
-* 2024-05-29: IAB Business Meeting
-* 2024-06-05: IAB Business Meeting (Reserved)
+* 2024-06-05: IAB Business Meeting 
 * 2024-06-12: IAB Business Meeting
     * Monthly Reports
 * 2024-06-19: Executive Session: ICANN GWG
