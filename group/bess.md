@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-05-16T15:17:00.561Z
+date: 2024-05-30T18:10:13.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -57,21 +57,21 @@ This section lists actions other than document updates
 
 | Document Name | Request date (by authors) | Status | AD approval date | IANA first allocation date | Renewal date | Expiration date |
 | --- | --- | --- | --- | --- | --- | --- |
-|draft-ietf-bess-mvpn-evpn-aggregation-label|12/11/18|Allocated|12/19/18|01/23/19|11/19/20 |01/23/22|
-|draft-ietf-bess-evpn-bum-procedure-updates | |Allocated||02/17/17|02/06/20|02/17/21|
+
+
 |draft-ietf-bess-evpn-ipvpn-interworking] |07/03/19|Allocated|07/05/19||05/26/20|07/08/21|
 {.dense}
 
 
 ## Latest RFCs
+* draft-ietf-bess-evpn-bum-procedure-updates (RFC9572, May 2024)
+* draft-ietf-bess-mvpn-evpn-aggregation-label (RFC9573, May 2024)
+* draft-ietf-bess-evpn-optimized-ir (RFC9574, May 2024)
 * draft-ietf-bess-evpn-lsp-ping (RFC9489, Nov 2023)
 
 
 ## Documents in RFC editor queue
 
-* draft-ietf-bess-evpn-bum-procedure-updates
-* draft-ietf-bess-evpn-optimized-ir
-* draft-ietf-bess-mvpn-evpn-aggregation-label
 * draft-ietf-bess-evpn-pref-df (MISSREF, need VES)
 * draft-ietf-bess-pbb-evpn-isid-cmacflush (AUTH48, missing Andrew)
 * draft-ietf-bess-evpn-irb-mcast
@@ -95,7 +95,7 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-evpn-fast-df-recovery (Matthew)
   - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
-  - need AD to review
+  - AD reviewed; revision needed; Outstanding comments from Jeffrey
   
 * draft-ietf-bess-evpn-mh-split-horizon (Jeffrey)
   - requested GenArt early review
@@ -146,8 +146,8 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
 	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress. 
   
-* draft-ietf-bess-extended-evpn-optimized-ir-03 
-	- RTGDIR review requested, not received
+* draft-ietf-bess-extended-evpn-optimized-ir-05 
+	- RTGDIR and GENART review passed
   
 * draft-ietf-bess-rfc7432bis
   - EXPIRED: Mankamana to send reminder for refresh
@@ -157,7 +157,7 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-bgp-multicast-controller
   - GenArt early review passed
-  - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement yet from reviewer yet.
+  - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement from reviewer yet.
   - Requested Susan for IDR review for both bgp-multicast drafts.
 
 * draft-ietf-bess-bgp-multicast
