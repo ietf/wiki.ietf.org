@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-05-23T23:37:52.402Z
+date: 2024-05-30T15:59:00.687Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -51,6 +51,7 @@ Note that this page is public.
 ### AOB
 
 ### Executive Sessions
+* IETF 125 Meeting (Roman)
 
 
 ### Parking Lot
