@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-29T16:09:54.187Z
+date: 2024-05-30T18:49:34.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -230,6 +230,8 @@ In Progress:
 
 * Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
 * Hate Speech - https://zakird.com/papers/abuse_sok.pdf (Mirja)
+* sustainability related technical discussion (Suresh) - possibly 2024-07-03
+* Censorship Mesasurements - Royal Ensafi (Mirja) - rescheduled
 
 ## Planned IRTF RG Reviews 
 
