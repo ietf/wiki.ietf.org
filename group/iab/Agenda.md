@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-05-30T19:08:40.450Z
+date: 2024-05-31T18:51:10.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-06-05 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-05-29. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-05-31. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,13 +31,25 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
+* 2024-05-08 technical discussion and business meeting - (submitted 
+    2024-05-08) 
+* 2024-05-15 business meeting - (submitted 2024-05-15) 
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
-* 2024-05-15: Cindy Morgan to send draft-iab-bias-workshop-report-01 
-    out for community review.
+* 2024-05-29: Cindy Morgan to add Suresh Krishan as a co-chair for 
+    IAB Open.
+
+* 2024-05-29: Cindy Morgan to send a call for feedback for the RSWG 
+    Chair appointment.
+
+* 2024-05-29: Wes Hardaker to follow up with the incumbent ICANN 
+    Board Liaison.
+
+* 2024-05-29: Cindy Morgan to update the call for nominations for the 
+    ICANN Board Liaison and send it to the IAB for review.
 
 On Hold:
 
@@ -51,54 +63,41 @@ On Hold:
 * 2024-03-17: Liaison Managers to follow up with Martin Thomson about 
     liaison manager for W3C.
     - Check back August 2024
-    
-* 2024-03-17: Dhruv Dhody, Mirja Kühlewind and Suresh Krishnan to 
-    update the text that describes Technical Programs and 
-    Administrative Support Groups.
-    - Check back after 2024 Retreat
 
-In Progress:
-
-* 2024-02-14: Eliot Lear to send a proposal to the IAB about how to 
-    have a conversation with the community about publishing crypto 
-    algorithms that are not widely reviewed.
-
-* 2024-03-06: Cindy Morgan, Mirja Kühlewind, and Sally Wentworth to 
-    coordinate on adding the IAB as a signer to the Global Encryption 
-    Coalition letter about Australia and announcing it to the 
-    community.
-    
 * 2024-03-17: Suresh Krishnan to follow up with the IETF-3GPP 
     Administrative Support Group about updating RFC 3113, "3GPP-IETF 
     Standardization Collaboration."
+    - Check back after 2024 Retreat
 
-* 2024-04-03: Alvaro Retana to follow up with Ed Birrane about 
-    collaboration with CCSDS on a requirements document for satellite 
-    networking. (Check back 2024-05-15)
+* 2024-03-17: Mirja Kühlewind and Suresh Krishnan to update the text 
+    that describes Technical Programs and Administrative Support 
+    Groups.
+    - Check back after 2024 Retreat
 
 * 2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN
     NomCom Liaison appointment once the list of positions being filled
     is available.
 
-* 2024-05-01: Dhruv Dhody to merge the content of the existing "IAB 
-    Workshop Guidelines" wiki page with the new proposed 
-    "Considerations for IAB Workshops" wiki page.
+In Progress:
 
-* 2024-05-01: All IAB to review the content for the proposed pages on 
-    the IAB Website and public wiki about IAB Workshops.
-
-* 2024-05-01: All IAB to review the draft blog post about IAB 
-    workshops.
-
-* 2024-05-15: Tommy Pauly to follow up with Eliot Lear about holding 
-    a discussion with the community about the Independent Stream at IETF 120.
+* 2024-04-03: Alvaro Retana to follow up with Ed Birrane about 
+    collaboration with CCSDS on a requirements document for satellite 
+    networking. 
 
 * 2024-05-15: Wes Hardaker and Suresh Krishnan to follow up on a 
     proposal for a workshop on network management.
- 
+
 * 2024-05-15: Dhruv Dhody and Mirja Kühlewind to follow up about 
     a potential IETF presentation at NetDev in Santa Clara (July 2024).
 
+* 2024-05-29: Suresh Krishnan, Dhruv Dhody, and Matthew Bocci to 
+    review the FCC Notice of Proposed Rulemaking PS Docket Nos. 24-146 
+    and 22-90 and flag any items the IAB would like ISOC to include in 
+    their response. 
+    See https://docs.fcc.gov/public/attachments/DOC-402609A1.pdf
+
+* 2024-05-29: Tommy Pauly to forward the RSAB Call for feedback on 
+    draft-rswg-rfc7990-updates-10 to the architecture-discuss list.
 
 #### 1.5. IAB Document Status Update - No Updates This Week
 
@@ -125,7 +124,7 @@ In Progress:
 * DNS Delegation (deleg)
     Area: INT
     Internal Review
-    IESG Telechat: 2024-05-30
+    IESG Telechat: (None)
     IAB Reviewer: Alvaro Retana (sent 2024-05-20)
 
 * Multiformats (multi)
@@ -137,28 +136,37 @@ In Progress:
 * Secure Patterns for Internet CrEdentials (spice)
     Area: SEC
     External Review
-    IESG Telechat: 2024-05-30
+    IESG Telechat: 2024-06-13
     IAB Reviewer: Dhruv Dhody (sent 2024-04-05)
 
 * SRv6 Operations (srv6ops)
     Area: OPS
-    Internal Review
-    IESG Telechat: 2024-05-30
+    External Review
+    IESG Telechat: 2024-06-13
     IAB Reviewer: Matthew Bocci (sent 2024-05-16)
 
 
 #### 1.7 IAB Appointments
 
-* RSWG Chair
+* RSWG Chair - Call for Feedback ends 2024-06-26
 
-* CCG 
+* CCG - Call for Feedback ends 2024-06-11
 
-* RZERC 
+* RZERC - Call for Nominations sent 2024-05-28 
 
-* ICANN Board Liaison 
+* ICANN Board Liaison - See later agenda item
 
 
+### 2. AI Opt-Out (Mark Nottingham) - 30 mins (Public)
 
+  Context: https://www.mnot.net/blog/2024/04/21/ai-control
+
+
+### 3. Executive Session: ICANN Board Liaison Appointment - 15 mins
+
+  Goal: Discuss call for nominations text
+
+  Context: Text sent to iab-vote 2024-05-29
 
 ## Upcoming Teleconferences 
 
