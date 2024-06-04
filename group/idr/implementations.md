@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-06-04T13:10:29.056Z
+date: 2024-06-04T13:12:25.355Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -27,8 +27,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - None 
 
 ## Drafts report 2 implementations, but no implementation report. 
- - [draft-ietf-idr-entropy-label](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
- - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
  
 
@@ -39,6 +37,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 
 ## Drafts past WG LC awaiting 2 implementations
+ - [draft-ietf-idr-entropy-label](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
+ - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
  - [draft-ietf-idr-route-oscillation-stop implementations](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
