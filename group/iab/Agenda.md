@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-06-04T22:43:15.793Z
+date: 2024-06-04T23:08:20.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -121,8 +121,8 @@ In Progress:
 
 * DNS Delegation (deleg)
     Area: INT
-    Internal Review
-    IESG Telechat: (None)
+    External Review
+    IESG Telechat: 2024-06-20
     IAB Reviewer: Alvaro Retana (sent 2024-05-20)
 
 * Multiformats (multi)
