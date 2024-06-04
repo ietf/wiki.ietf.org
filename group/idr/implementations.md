@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-06-04T13:09:46.859Z
+date: 2024-06-04T13:10:29.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -17,18 +17,14 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
  - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer)
 
-
 ## Implementation report for drafts at WG Shepherds 
 
 - [draft-ietf-idr-sr-policy-safi- implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
 - [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-sr-segtypes-ext-implement)
  - [draft-ietf-idr-sdwan-edge-discovery-09](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
-
- - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
- - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
  
  ## Implementation reports for drafts at WG LC 
-  - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer)
+ - None 
 
 ## Drafts report 2 implementations, but no implementation report. 
  - [draft-ietf-idr-entropy-label](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
