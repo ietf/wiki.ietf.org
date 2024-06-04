@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-05-13T22:38:48.347Z
+date: 2024-06-04T21:19:02.292Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -168,6 +168,25 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 
+---
+
+### Low-Power Wireless IPv6 Networking with Thread
+- **Champions**
+  - Stuart Cheshire &lt;cheshire@apple.com&gt;
+- **Project Info**
+[Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a mesh of low-power IEEE 802.15.4 wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a brief presentation about Thread at the [IETF 119 IAB Open meeting in Brisbane](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/).
+For this Hackathon event, the goal is to introduce people to Thread and OpenThread programming. This Hackathon event is open to all — Thread Group membership is not required, though of course Thread Group members are also welcome to participate. If you plan to participate in writing code at the Hackathon, please add your name to the participant list. If you already have a Thread developer board and the OpenThread build environment on your laptop, please bring that. If not, we will have a few extra Thread developer boards available and we can help you get the build environment set up. We will have experienced OpenThread developers present to help people get started.
+Below is a partial list of project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
+
+- **Participants**
+
+- **Project Info**
+  - **SSH daemon for OpenThread.** Historically the way developers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds of 100 Thread devices, being able to log in and transfer log files using the network is much better than needing a bundle of a hundred USB cables to connect to all the devices.
+
+  - **Thread Latency Investigations.** One of the main uses of Thread is for home automation, and when you are using an IP network to turn lights on and off, quick response times (under ¼ second) are very desirable. At the same time, an IP network like Thread is ideal for installing firmware updates and similar large data transfers. Because Thread is a low-power low-throughput technology aimed at low-cost devices that can run for years on a single battery, intelligent queue management (including ECN and L4S) is vital so that the network can support large bulk transfers while still maintaining good responsivenss for control operations. The Thread 1.3 specification includes requirements for delay-aware queue management, and there are a rich set of research opportunites related to analysing this behavior and perhaps finding ways to make it even better.
+
+---
+
 ### Formal Analysis of Attested TLS for Confidential Computing
 - **Champions**
 
@@ -187,8 +206,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
   - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
 
-
 ---
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
