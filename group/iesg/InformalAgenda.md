@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-06-03T17:22:35.544Z
+date: 2024-06-04T19:37:48.983Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -30,6 +30,7 @@ Meeting password: 12345
 ## Regrets
 
 - Éric Vyncke (first hour only)
+- Warren (first hour only)
 - Francesca Palombini
 - John Scudder
 - Orie Steele
