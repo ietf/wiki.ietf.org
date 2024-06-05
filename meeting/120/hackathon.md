@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-05T00:50:25.426Z
+date: 2024-06-05T00:52:49.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -183,7 +183,7 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 - **Project Info**
   - **SSH daemon for OpenThread.** Historically the way developers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds of 100 Thread devices, being able to log in and transfer log files using the network is much better than needing a bundle of a hundred USB cables to connect to all the devices.
 
-  - **General OTA (over-the-air) firmware update.** Today firmware is typically installed into the flash memory of a Thread developer board via a USB port. It would be very helpful to have a general way of updating firmware over IP — particularly for people managing hundreds of Thread devices instead of just two or three.
+  - **General OTA (over-the-air) Firmware Update.** Today firmware is typically installed into the flash memory of a Thread developer board via a USB port. It would be very helpful to have a general way of updating firmware over IP — particularly for people managing hundreds of Thread devices instead of just two or three.
 
   - **Thread Latency Investigations.** One of the main uses of Thread is for home automation, and when you are using an IP network to turn lights on and off, quick response times (under ¼ second) are very desirable. At the same time, an IP network like Thread is ideal for installing firmware updates and similar large data transfers. Because Thread is a low-power low-throughput technology aimed at low-cost devices that can run for years on a single battery, intelligent queue management (including ECN and L4S) is vital so that the network can support large bulk transfers while still maintaining good responsiveness for control operations. The Thread 1.3 specification includes requirements for delay-aware queue management, and there are a rich set of research opportunities related to analyzing this behavior and perhaps finding ways to make it even better.
 
