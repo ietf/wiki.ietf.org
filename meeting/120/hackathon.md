@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-05T01:13:23.706Z
+date: 2024-06-05T01:26:39.375Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -40,7 +40,7 @@ Hackathon *(all times are PDT, GMT-7)*
 
 ### Saturday, 20 July 
 
-* **09:30** : Room open for setup by project champions    
+* **09:30** : Room open for setup by project champions
 * **10:00** : Room open for all - pastries and coffee provided
 * **10:30** : Hackathon kickoff
 * **10:45** : Form Teams, see [Team Schedule](teamschedule)
@@ -88,7 +88,7 @@ If you received the email but the link to create an account has expired, please 
 
 ## Meeting Materials
 
-* Code can be accessed from  [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
+* Code can be accessed from [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
 * Results of Hackathon projects should be uploaded to [GitHub](https://github.com/IETF-Hackathon/ietf120-project-presentations). See the [README](https://github.com/IETF-Hackathon/ietf120-project-presentations/blob/main/README.md) for details.
 
@@ -97,7 +97,7 @@ If you received the email but the link to create an account has expired, please 
    * Champions are the leads for individual projects in the Hackathon
    * Champions are individuals familiar with a given technology who volunteer to help get others get up and running with that technology
    * Before the Hackathon, champions should:
-      * Add information about your project to the list of  [Projects included in Hackathon](#ProjectsIncludedinHackathon)
+      * Add information about your project to the list of [Projects included in Hackathon](#ProjectsIncludedinHackathon)
       * Recruit participants from associated working groups, open source projects, etc. Announcing your projects via an email to (hackathon@ietf.org) can be helpful as well.
       * Specify when and how the project team will meet on the [Team Schedule](teamschedule)
    * At the Hackathon, champions should: 
@@ -144,7 +144,7 @@ The NOC team has an ongoing experiment that allows you to join the IETF network 
 Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
 {.links-list}
-  
+
 ## <a id="Webexsessionsforteams"></a>Webex sessions for teams
 Champions can request a Webex account they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts will remain active and available for the duration of the IETF meeting. Request your account [HERE](https://www.ietf.org/forms/wg-webex-account-request/). In the request form, you can use your project name where it asks for "Working Group Name" ("Hackathon Project Name").
 
@@ -170,7 +170,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ---
 
-### Low-Power Wireless IPv6 Networking with Thread *
+### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champions**
   - Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Project Info**
@@ -197,7 +197,7 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
 
 - **Project Info**
-	
+
   - 3 main ways to combine attestation in TLS
     - Pre-handshake attestation ([Overview slides](https://gtmfs2024.sciencesconf.org/data/pages/usama.pdf))
     - Intra-handshake attestation ([IETF draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
