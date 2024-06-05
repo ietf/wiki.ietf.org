@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-05T00:54:11.224Z
+date: 2024-06-05T00:56:49.422Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -170,7 +170,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ---
 
-### Low-Power Wireless IPv6 Networking with Thread
+### Low-Power Wireless IPv6 Networking with Thread *
 - **Champions**
   - Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Project Info**
