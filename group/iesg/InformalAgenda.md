@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-06-04T19:37:48.983Z
+date: 2024-06-05T15:21:22.769Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -61,6 +61,7 @@ Note that this page is public.
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
+* List administrators (Mahesh). How, when, why?
 
 ### Topics Deferred Till Next Informal 
 
