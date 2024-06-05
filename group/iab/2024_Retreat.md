@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-05-29T17:02:36.709Z
+date: 2024-06-05T15:21:34.263Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -26,7 +26,7 @@ WC2H 8AG
 
 ## Proposed Agenda Topics
 
-### Monday (Late start ~lunch, June 24)
+### Monday (Late start 11:00am, June 24)
 
 - Survey results, welcome activities
 
