@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-05T15:21:34.263Z
+date: 2024-06-06T16:35:09.118Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -19,10 +19,14 @@ dateCreated: 2024-03-16T01:00:22.295Z
 
 ## Venue
 
+### Monday-Tuesday
 Google - Central Saint Giles
 1 St Giles High St
 London
 WC2H 8AG
+
+### Wednesday
+Hotel; details coming soon
 
 ## Proposed Agenda Topics
 
@@ -50,7 +54,7 @@ WC2H 8AG
 
 - Using part of the vision document for other purposes (Mirja)
 
-- Reiview of program/support group description (Mirja)
+- Review of program/support group description (Mirja)
 - National crypto / ISE (any prep needed for IETF 120)
 
 ## Joint IAB/IESG Topics
