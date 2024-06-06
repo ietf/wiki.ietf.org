@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-06-05T15:23:31.635Z
+date: 2024-06-06T08:44:30.529Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -34,6 +34,7 @@ Meeting password: 12345
 - Francesca Palombini
 - John Scudder
 - Orie Steele
+- Erik K. (first two hours only ;-)
 
 
 ## Agenda
