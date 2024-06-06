@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-05T01:26:39.375Z
+date: 2024-06-06T04:01:29.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -173,17 +173,24 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champions**
   - Stuart Cheshire &lt;cheshire@apple.com&gt;
-- **Project Info**
-[Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a brief presentation about Thread at the [IETF 119 IAB Open meeting in Brisbane](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/).
+
+- **Thread Overview**
+
+  [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a brief presentation about Thread at the [IETF 119 IAB Open meeting in Brisbane](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/).
 For this Hackathon event, the goal is to introduce people to Thread and OpenThread programming. This Hackathon event is open to all — Thread Group membership is not required, though of course Thread Group members are also welcome to participate. If you plan to participate in writing code at the Hackathon, please add your name to the participant list. If you already have a Thread developer board and the OpenThread build environment on your laptop, please bring that. If not, we will have a few extra Thread developer boards available and we can help you get the build environment set up. We will have experienced OpenThread developers present to help people get started.
 Below is a partial list of project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
 
 - **Participants**
 
 - **Project Info**
+
   - **SSH daemon for OpenThread.** Historically the way developers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds of 100 Thread devices, being able to log in and transfer log files using the network is much better than needing a bundle of a hundred USB cables to connect to all the devices.
 
   - **General OTA (over-the-air) Firmware Update.** Today firmware is typically installed into the flash memory of a Thread developer board via a USB port. It would be very helpful to have a general way of updating firmware over IP — particularly for people managing hundreds of Thread devices instead of just two or three.
+
+  - **Sensor Data Batched Upload.** Many types of sensors, like temperature sensors, collect data at regular intervals, which should be uploaded to a data collection server, perhaps not right away, but in a reasonably timely manner when the Thread mesh is idle enough that such uploads will not disrupt other operations. Now that OpenThread has TCP, it would be useful to have a general mechanism for uploading this kind of sensor data.
+
+  - **Live Thread Diagnostics.** When a large Thread mesh is not behaving as expected, it would be very useful to have a general mechanism for fetching information from nodes on the mesh regarding their connectivity to neighbors and other similar diagnostic data.
 
   - **Thread Latency Investigations.** One of the main uses of Thread is for home automation, and when you are using an IP network to turn lights on and off, quick response times (under ¼ second) are very desirable. At the same time, an IP network like Thread is ideal for installing firmware updates and similar large data transfers. Because Thread is a low-power low-throughput technology aimed at low-cost devices that can run for years on a single battery, intelligent queue management (including ECN and L4S) is vital so that the network can support large bulk transfers while still maintaining good responsiveness for control operations. The Thread 1.3 specification includes requirements for delay-aware queue management, and there are many research opportunities related to analyzing this behavior and perhaps finding ways to make it even better.
 
