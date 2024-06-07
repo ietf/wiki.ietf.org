@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-06-05T18:42:11.822Z
+date: 2024-06-07T18:47:49.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-06-12 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-06-05. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-06-07. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -85,7 +85,6 @@ In Progress:
 * 2024-06-05: Tommy Pauly, Suresh Krishnan, Matthew Bocci, and Dhruv 
     Dhody to interview RZERC candidates.
 
-
 * 2024-06-05: Alissa Cooper, Dhruv Dhody, and Mirja Kühlewind to work 
     with Mark Nottingham on a proposal for an IAB workshop on AI Opt-
     Out.
@@ -148,17 +147,30 @@ In Progress:
 
 * RSWG Chair - Call for Feedback ends 2024-06-26
 
-* CCG - Call for Feedback ends 2024-06-11
+* CCG - Call for Feedback ends 2024-06-11; ; see later agenda item
 
-* RZERC - Call for Nominations sent 2024-05-28 
+* RZERC - Call for Nominations ends 2024-06-26
 
 * ICANN Board Liaison - Call for Nominations to be sent 2024-06-11
 
 
 ### 2. Monthly Written Reports and Other Brief Updates - 10 mins (Public)
 
+* IANA Report (received 2024-06-07)
 
-### 3. 
+### 3. Retreat Planning (All) - 15 mins
+
+  Survey: See email from Tommy
+
+  Wiki: https://wiki.ietf.org/group/iab/2024_Retreat
+
+  Goal: Refine agenda
+
+
+### 4. Executive Session: CCG Appointment
+
+  Goal: Next steps, possible vote
+
 
 ## Upcoming Teleconferences 
 
