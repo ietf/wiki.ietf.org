@@ -2,23 +2,28 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-04-26T11:25:51.841Z
+date: 2024-06-07T12:12:41.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
 ---
 
 # Early Allocation Status
-## Pending early allocations 
+## Temporary early allocations 
 
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
 |---|---|---|---|---|---|---|
 |draft-ietf-idr-car-03 | SAFI | 83 | [BGP CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Need to update draft | 
 |draft-ietf-idr-car-03 | SAFI | 84 | [BGP VPN CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | WG chair check IANA | 
 |draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| WG chair Checks IANA | 
+
+## Pending early allocations 
+|  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
+|---|---|---|---|---|---|---|
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process (IDR chair review) | 
-| draft-ietf-idr-sr-policy-path-segment-09 | SR Policy List Sub-TLVs  | TBD | Path Segment | in proces (Needs revised draft) |   
-| draft-ietf-idr-sr-policy-path-segment-09 | SR Policy List Sub-TLVs  | TBD |  Reverse Segment List sub-TLV  | in proces (Needs revised draft) |   
+
+
+
 | draft-ietf-idr-bgpls-inter-as-topology-ext-15 | BGP-LS NLRI Types | TBD | Stub Link | TBD | 
 | draft-ietf-idr-bgpls-inter-as-topology-ext-15 | BGP-LS NLRI and Attribute TLVs | TBD | Remote AS Number | TBD | 
 | draft-ietf-idr-bgpls-inter-as-topology-ext-15 | BGP-LS NLRI and Attribute TLVs | TBD | IPv4 Remote ASBR ID | TBD | 
@@ -32,6 +37,80 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Metric Constraint | TBD | hold until 8-15-2023 |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Segment List Bandwidth | TBD | hold until 8-15-2023 |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  TBD | SR Segment List Identifier | TBD | hold until 8-15-2023 |
+{.dense}
+
+## Early allocations waiting for draft-ietf-idr-sr-policy-safi registries 
+### draft-ietf-idr-sr-policy-safi (was draft-ietf-idr-segment-routing-te-policy) New Registries 
+| IDR Draft | IANA Registry | Under Registry | Other Allocations | Date allocation expires | draft status | 
+|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | yes | TBD | Past WGLC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | yes | TBD | Past WGLC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy SRv6 Binding SID Flags | BGP Tunnel Encapsulation | yes | TBD | Past WGLC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment Flags | BGP Tunnel Encapsulation | yes | TBD | Past WGLC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | yes | TBD | Past WGLC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy ENLP Values | BGP Tunnel Encapsulation | yes | TBD | Past WGLC | 
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry -  Color Extended Community Color-only Types 
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | bit 0-1 | Color-only Types field | Past WGLC | 
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry: SR Policy Segment List Sub-TLVs  
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 0 | Reserved | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 1 | Segment Type A sub-TLV | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 2 | deprecated | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 3-8 | unassigned | Past WG LC |
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 9 | Weight | Past WG LC |
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 10-13 | deprecated | Past WG LC |
+| draft-ietf-idr-sr-policy-path-segment-10 | SR Policy List Sub-TLVs  | TBD1 (14) | Path Segment | in process  |   
+| draft-ietf-idr-sr-policy-path-segment-10 | SR Policy List Sub-TLVs  | TBD2 (15) |  Reverse Segment List sub-TLV  | in proces (Needs revised draft) |
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 14-255 | unassigned| Past WG LC | 
+
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry: SR Policy Binding SID Flags
+| IDR Draft  |  IANA Registry |  Under Registry | Bit |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 0 | Specified-BSID-Only Flag (S-Flag) | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 1 | Drop on INvalid Flag (I-Flag) | Past WG LC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 2-7 | Unassigned | Past WG LC |  
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry: SR Policy SRv6 Binding SID Flags
+| IDR Draft  |  IANA Registry |  Under Registry | Bit |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 0 | Specified-BSID-Only Flag (S-Flag) | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 1 | Drop on INvalid Flag (I-Flag) | Past WG LC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 2 | SR Endpoint Behavior + SID Structure (B-Flag) | Past WG LC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 3-7 | Unassigned | Past WG LC |  
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry: SR Policy Segment Flags
+| IDR Draft  |  IANA Registry |  Under Registry | Bit |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 0 | Segment Verification (V-Flag) | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 1-2 | Unassigned | Past WG LC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 3 | SR Endpoint Behavior + SID Structure (B-Flag) | Past WG LC |  
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Binding SID Flags | BGP Tunnel Encapsulation | 347 | Unassigned | Past WG LC |  
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry -  Color Extended Community Color-only Types 
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | bit 0-1 | Color-only Types field | Past WGLC | 
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi registry: Color Extended community Color-only Types 
+| IDR Draft  |  IANA Registry |  Under Registry | Bit |  Description   |  Status | draft status |        
+|---|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | 0 | Specific Endpoint Match | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | 1 | Specific or Null Endpoint Match | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | 2 | Specific, Null or Any Endpoint Match | Past WG LC | 
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | Color Extended Community Color-only Types | BGP Tunnel Encapsulation | 3 | unassigned | Past WG LC | 
 {.dense}
 
 ## Approved Early Allocations  - drafts at RFC editor
@@ -83,6 +162,14 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-sr-policy-safi-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Candidate Path Name sub-TLV    | subtlv 129 | 05-25-2024 | WG Revision) | 
 | [draft-ietf-idr-sr-policy-safi-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Name sub-TLV  | subtlv 130 | 05-25-2024 | WG Revision) | 
 | [draft-ietf-idr-sr-policy-safi-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-25-2024 | WG Revision) | 
+{.dense}
+
+### draft-ietf-idr-sr-policy-safi (was draft-ietf-idr-segment-routing-te-policy) New Registries 
+| IDR Draft | IANA Registry | Under Registry | Other Allocations | Date allocation expires | draft status | 
+|---|---|---|---|---|---|
+| [draft-ietf-idr-sr-policy-safi-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | yes | TBD | Past WGLC |  
+
+|   Color Extended Community Flags  | bit position 0-1 | 05-25-2024 | WG Revision) | 
 {.dense}
 
 ### draft-ietf-idr-bgp-ls-isis-flood-reflection 
