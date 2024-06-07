@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-04T18:21:20.174Z
+date: 2024-06-07T15:04:49.886Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -24,13 +24,15 @@ TBD
 
 ### Location 
 
-Google's Central St. Giles office in London:
+Venue 1: Google's Central St. Giles office in London:
 
 Central Saint Giles
 1 St Giles High St
 London
 WC2H 8AG
 [map](https://www.google.com/maps/place/Central+Saint+Giles/)
+ 
+Venue 2: TBD
  
 ### Covid Information 
 
@@ -48,19 +50,21 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
 #### Wednesday, June 26 (IAB+IESG)
-
+Venue: to be announced but NOT Google's office
 
 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
 
-
-
 #### Thursday, June 27 (IESG only)
+Venue: Google office
 
 XXXX-XXXX: Lunch (in the Google facility) 
 
 #### Friday, June 28 (IESG only)
+Venue: Google office
 
 XXXX-XXXX: Lunch (in the Google facility) 
+
+Will finish no later than 1330.
 
 ### Proposed Additional Meeting Topics
 
