@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-07T19:58:33.339Z
+date: 2024-06-07T20:01:28.875Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -57,12 +57,12 @@ Venue: to be announced but NOT Google's office
 #### Thursday, June 27 (IESG only)
 Venue: Google office
 
-XXXX-XXXX: Morning
+0900-XXXX: Morning
 * Actions from [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + Laura)
 
-XXXX-XXXX: Lunch (in the Google facility) 
+1200?-XXXX: Lunch (in the Google facility) 
 
-XXXX-1700: Afternoon Block (document related topics)
+1300?-1700: Afternoon Block (document related topics)
 * Consistent IESG understanding/application of errata processing states (??)
 * BCP14 language in documents status other than PS/S (??)
 * Code point assignment based on I-Ds (??)
@@ -72,7 +72,7 @@ XXXX-1700: Afternoon Block (document related topics)
 #### Friday, June 28 (IESG only)
 Venue: Google office
 
-XXXX-XXXX: Morning (non-document related topics)
+0900-1200?: Morning (non-document related topics)
 * IESG Statement on Cryptography (Paul/Deb)
 * Status and use/disuse of "Affiliate Group" (??)
 * Technology Deep Dives - future home? (Warren)
@@ -80,7 +80,7 @@ XXXX-XXXX: Morning (non-document related topics)
   * Not-registered participants for side meetings (Laura)
   * Meetecho use at meetings (??)
 
-XXXX-XXXX: Lunch (in the Google facility) 
+1200?-XXXX: Lunch (in the Google facility) 
 
 Will finish no later than 1330.
 
