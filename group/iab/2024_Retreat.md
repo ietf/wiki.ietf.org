@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-06T16:35:09.118Z
+date: 2024-06-07T10:43:23.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -28,7 +28,7 @@ WC2H 8AG
 ### Wednesday
 Hotel; details coming soon
 
-## Proposed Agenda Topics
+## Agenda
 
 ### Monday (Late start 11:00am, June 24)
 
@@ -66,7 +66,11 @@ Hotel; details coming soon
 - How much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
 - Limited domains (Suresh)
 - Pipeline for appointments
- 
+
+## Proposed Agenda Topics
+- IAB BoFs/Sessions (Mirja)
+- Expectation on the ICANN Board liaiaon (Mirja)
+
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
