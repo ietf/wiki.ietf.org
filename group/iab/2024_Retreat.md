@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-07T10:43:23.866Z
+date: 2024-06-07T15:33:40.558Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -60,6 +60,8 @@ Hotel; details coming soon
 ## Joint IAB/IESG Topics
 
 ### Wednesday (June 26)
+
+Venue: to be announced but NOT Google's office
   
 - IAB's role in chartering/new work (Matthew)
 - "New Work Help Desk" idea (Mirja)
@@ -67,9 +69,11 @@ Hotel; details coming soon
 - Limited domains (Suresh)
 - Pipeline for appointments
 
+**1800-2100:** Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
+
 ## Proposed Agenda Topics
 - IAB BoFs/Sessions (Mirja)
-- Expectation on the ICANN Board liaiaon (Mirja)
+- Expectation on the ICANN Board liaison (Mirja)
 
  
 ## All Retreat Archives
