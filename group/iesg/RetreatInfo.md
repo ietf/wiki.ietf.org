@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-07T15:04:49.886Z
+date: 2024-06-07T19:58:33.339Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -57,10 +57,28 @@ Venue: to be announced but NOT Google's office
 #### Thursday, June 27 (IESG only)
 Venue: Google office
 
+XXXX-XXXX: Morning
+* Actions from [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + Laura)
+
 XXXX-XXXX: Lunch (in the Google facility) 
+
+XXXX-1700: Afternoon Block (document related topics)
+* Consistent IESG understanding/application of errata processing states (??)
+* BCP14 language in documents status other than PS/S (??)
+* Code point assignment based on I-Ds (??)
+* Improving DT for Call for Adoption / WGLC requests (Warren)
+* Keywords / Tags (Warren) -- was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
 
 #### Friday, June 28 (IESG only)
 Venue: Google office
+
+XXXX-XXXX: Morning (non-document related topics)
+* IESG Statement on Cryptography (Paul/Deb)
+* Status and use/disuse of "Affiliate Group" (??)
+* Technology Deep Dives - future home? (Warren)
+* Side Meetings
+  * Not-registered participants for side meetings (Laura)
+  * Meetecho use at meetings (??)
 
 XXXX-XXXX: Lunch (in the Google facility) 
 
@@ -73,19 +91,11 @@ Will finish no later than 1330.
 Please include initials next to topics, otherwise we risk forgetting what the topic is about :^)
 
 IESG-only
-* Consistent IESG understanding/application of errata processing states (??)
-* BCP14 language in documents status other than PS/S (??)
-* Meetecho use at meetings (??) --> Potential joint topic with IAB
-* Code point assignment based on I-Ds (??)
-* IESG Statement on Cryptography (Paul/Deb)
-* Not-registered participants for side meetings (Laura) --> Potential joint topic with IAB (since it can relate to new work/liaisons)
-* Status and use/disuse of "Affiliate Group" (??)
+
 * AI Data Center "AIDC" (??)
-* Technology Deep Dives - future home? (Warren)
-* Improving DT for Call for Adoption / WGLC requests (Warren)
-* Keywords / Tags (Warren)
-  * was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
-* Actions from [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + Laura)
+
+
+
 
 IESG+IAB
 * How to encourage Privacy and Operational Considerations in drafts (Matthew/Alvaro)
