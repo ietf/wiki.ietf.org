@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-06-07T12:12:41.691Z
+date: 2024-06-07T12:27:02.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -21,9 +21,6 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
 |---|---|---|---|---|---|---|
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process (IDR chair review) | 
-
-
-
 | draft-ietf-idr-bgpls-inter-as-topology-ext-15 | BGP-LS NLRI Types | TBD | Stub Link | TBD | 
 | draft-ietf-idr-bgpls-inter-as-topology-ext-15 | BGP-LS NLRI and Attribute TLVs | TBD | Remote AS Number | TBD | 
 | draft-ietf-idr-bgpls-inter-as-topology-ext-15 | BGP-LS NLRI and Attribute TLVs | TBD | IPv4 Remote ASBR ID | TBD | 
