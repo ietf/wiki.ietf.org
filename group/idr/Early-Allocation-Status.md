@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-06-07T12:28:22.282Z
+date: 2024-06-07T12:51:32.145Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -60,11 +60,21 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 0 | Reserved | Past WG LC | 
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 1 | Segment Type A sub-TLV | Past WG LC | 
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 2 | deprecated | Past WG LC | 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 3-8 | unassigned | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 3 | Segment Type C Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 4 | Segment Type D Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 5 | Segment Type E Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 6 | Segment Type F Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 7 | Segment Type G Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 8 | Segment Type H Sub-TLV | Past WG LC |
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 9 | Weight | Past WG LC |
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 10-13 | deprecated | Past WG LC |
-| [draft-ietf-idr-sr-policy-path-segment-10](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  | TBD1 (14) | Path Segment | in process  |   
-| [draft-ietf-idr-sr-policy-path-segment-10](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  | TBD2 (15) |  Reverse Segment List sub-TLV  | in proces (Needs revised draft) |
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 10-13 | deprecated | Past WG LC |
+Encapsulation | 14 | Segment Type I Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 15 | Segment Type J Sub-TLV | Past WG LC |
+| [draft-ietf-idr-bgp-sr-segtypes-ext-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-segtypes-ext/) | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 16 | Segment Type K Sub-TLV | Past WG LC |
+| [draft-ietf-idr-sr-policy-path-segment-10](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  | TBD1 (17) | Path Segment | in process  |   
+| [draft-ietf-idr-sr-policy-path-segment-10](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  | TBD2 (18) |  Reverse Segment List sub-TLV  | in proces (Needs revised draft) |
+| [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)| SR Policy List Sub-TLVs  | TBD2 (19) | Segment List ID Sub-TLV  | in proces (Needs revised draft) |
+
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 16-255 | unassigned| Past WG LC | 
 
 {.dense}
