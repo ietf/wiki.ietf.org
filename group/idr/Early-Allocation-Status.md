@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-06-08T07:50:46.880Z
+date: 2024-06-08T08:06:13.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -20,19 +20,11 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | 
 
 ## Temporary early allocations 
-### CAR/CT allocations 
-|  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
-|---|---|---|---|---|---|---|
-|draft-ietf-idr-car-03 | SAFI | 83 | [BGP CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Need to update draft | 
-|draft-ietf-idr-car-03 | SAFI | 84 | [BGP VPN CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Assigned 2023  | 
-|draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| Assigned 2023 | 
-
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations 
 |  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|       
 |---|---|---|---|---|---|---|---|
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI-Types | BGP-LS  | 5 | SR Policy Candidate Path NLRI | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | Protocol ID | BGP-LS | 9 | Segment Routing
-| Assigned 2023-08 |
+| draft-ietf-idr-bgp-ls-sr-policy-04 | Protocol ID | BGP-LS | 9 | Segment Routing | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 554 | SR Policy CP Descriptor  | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1201 | SR Binding SID  | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1202 | SR CP State  | Assigned 2023-08 |
@@ -48,14 +40,18 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1212 |  SR Bandwidth Constraint   | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1213 |  SR Bandwidth Constraint   | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1214  | SR Bidirectional Group Constraint | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1215 | SR Metric Constraint | Assigned |
-| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1216 |  SR Segment List Bandwidth |  hold until 8-15-2023 |
-| draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1217 | SR Segment List Identifier | TBD | hold until 8-15-2023 |
+| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1215 | SR Metric Constraint | Assigned 2023-08 |
+| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1216 |  SR Segment List Bandwidth | Assigned 2023-08 |
+| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1217 | SR Segment List Identifier | Assigned 2023-08 |
 {.dense}
 
 ### draft-ietf-idr-bgp-ls-sr-policy New registries 
-
-
+|  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point Assigned  | Unassigned Code Points | Type |  Status |       
+|---|---|---|---|---|---|---|---|
+| draft-ietf-idr-bgp-ls-sr-policy-04 | SR Policy Protocol Origin | Segment Routing Parameters | 0-3, 10, 20, 30 | 4-9, 11-19, 31-250 | Spec Req | Awaits RFC | 
+| draft-ietf-idr-bgp-ls-sr-policy-04 | SR Segment Descriptor Types | BGP-LS Parameters | 0-11 | 12-255 | Expert Review | Awaits RFC | 
+| draft-ietf-idr-bgp-ls-sr-policy-04 | Metric Type | BGP-LS Parameters | 0-4 | 5-255 | Expert Review | Awaits RFC | 
+{.dense}
 
 ## Early allocations waiting for draft-ietf-idr-sr-policy-safi registries 
 ### draft-ietf-idr-sr-policy-safi (was draft-ietf-idr-segment-routing-te-policy) New Registries 
