@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-06-08T08:06:13.459Z
+date: 2024-06-08T08:07:08.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -14,10 +14,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
 |---|---|---|---|---|---|---|
 |draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process (IDR chair review) | 
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 | 
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD2 (270) | Remote AS Number | AD-Req 6-7-2024 |  
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD3 (271) | IPv4 Remote ASBR ID | AD-Req 6-7-2024 | 
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | 
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 | 
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD2 (270) | Remote AS Number | AD-Req 6-7-2024 |  
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD3 (271) | IPv4 Remote ASBR ID | AD-Req 6-7-2024 | 
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | 
 
 ## Temporary early allocations 
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations 
