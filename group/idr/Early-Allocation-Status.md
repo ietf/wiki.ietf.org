@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-06-08T07:46:08.163Z
+date: 2024-06-08T07:50:46.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -24,10 +24,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
 |---|---|---|---|---|---|---|
 |draft-ietf-idr-car-03 | SAFI | 83 | [BGP CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Need to update draft | 
-|draft-ietf-idr-car-03 | SAFI | 84 | [BGP VPN CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | WG chair check IANA | 
-|draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| WG chair Checks IANA | 
+|draft-ietf-idr-car-03 | SAFI | 84 | [BGP VPN CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Assigned 2023  | 
+|draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| Assigned 2023 | 
 
-### draft-ietf-idr-bgp-ls-sr-policy allocations 
+### draft-ietf-idr-bgp-ls-sr-policy Early allocations 
 |  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|       
 |---|---|---|---|---|---|---|---|
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI-Types | BGP-LS  | 5 | SR Policy Candidate Path NLRI | Assigned 2023-08 |
@@ -51,18 +51,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1215 | SR Metric Constraint | Assigned |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1216 |  SR Segment List Bandwidth |  hold until 8-15-2023 |
 | draft-ietf-idr-bgp-ls-sr-policy-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1217 | SR Segment List Identifier | TBD | hold until 8-15-2023 |
-
-
 {.dense}
 
-## Pending early allocations 
-|  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
-|---|---|---|---|---|---|---|
-|draft-ietf-idr-5g-edge-service-metadata-04 | BGP Path Attribute | TBD |  Metadata | TBD | in process (IDR chair review) | 
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 | 
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD2 (270) | Remote AS Number | AD-Req 6-7-2024 |  
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD3 (271) | IPv4 Remote ASBR ID | AD-Req 6-7-2024 | 
-| draft-ietf-idr-bgpls-inter-as-topology-ext-16 | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | 
+### draft-ietf-idr-bgp-ls-sr-policy New registries 
+
 
 
 ## Early allocations waiting for draft-ietf-idr-sr-policy-safi registries 
@@ -153,6 +145,15 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |---|---|---|---|---|---|---|
 (none) 
 {.dense}
+
+
+## Approved Early Allocations - Drafts at IESG 
+### CAR/CT allocations 
+|  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
+|---|---|---|---|---|---|---|
+|draft-ietf-idr-car-03 | SAFI | 83 | [BGP CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Need to update draft | 
+|draft-ietf-idr-car-03 | SAFI | 84 | [BGP VPN CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Assigned 2023  | 
+|draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| Assigned 2023 | 
 
 ## Approved Early Allocations: drafts at WG 
 ### draft-ietf-idr-wide-communities 
