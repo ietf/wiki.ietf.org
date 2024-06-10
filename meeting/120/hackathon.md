@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-06T04:01:29.036Z
+date: 2024-06-10T12:13:39.281Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -217,6 +217,65 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
   - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
 
+---
+### Validate Configured Subscription YANG-Push Publisher Implementations
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/draft-ahuang-netconf-notif-yang
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-yang-push-observation-time
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-kafka-integration
+
+- **Project Info**
+Validate three YANG-Push configured subscription vendor implementations in terms of configuring periodical and on-change subscriptions and validating subscription state change and push-update and push-change-update notifications according to RFC 8639 and 8641. 
+
+Validate draft-ietf-netconf-udp-notif and draft-ietf-netconf-distributed-notif packet format on the wire.
+
+Validate first YANG-Push extensions enabling Apache Kafka integration accoring to draft-ietf-nmop-yang-kafka-integration.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon
+
+---
+### Augmented-by Addition into the IETF-YANG-Library
+- **Champion(s)**
+Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
+Benoit Claise (benoit.claise @ huawei.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentation/
+
+- **Project Info**
+Opensource implementation of the augmented-by list in ietf-yang-library, with netopeer/libyang.
+Demonstrate how the additional list improve the performance of the Data Mesh architecture use case.
+
+- **Repository**
+https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
+
+----
+### Antagonist (ANomaly TAGging ON hISTorical data)
+- **Champions**
+	- Vincenzo Riccobene (vincenzo.riccobene@huawei-partners.com)
+	- Wanting (Wanting.Du@swisscom.com)
+	- Antonio Roberto (antonio.roberto@huawei.com)
+	- Thomas (Thomas.Graf@swisscom.com)
+- **Project Info**
+Antagonist is a tool supporting the tagging of historical timeseries data. This is envisioned to support Network Anomaly Detection and it is created with the purpose of supporting network operators tagging their data with network anomaly related metadata.
+- **Hackathon plan**
+Antagonist currently exists as a PoC. The objective for this hackathon is to improve the system design and validate an additional draft, recently submitted, for the definition of lifecycle and metadata of network anomaly lifecycle.
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/
+	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
+- **Repositories**
+  Github repo: https://github.com/vriccobene/antagonist
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
