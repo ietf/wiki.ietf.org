@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-10T12:21:10.023Z
+date: 2024-06-10T12:22:24.212Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -258,7 +258,7 @@ Opensource implementation of the augmented-by list in ietf-yang-library, with ne
 Demonstrate how the additional list improve the performance of the Data Mesh architecture use case.
 
 - **Repository**
-https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon
+https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
 
 ----
 ### Validating anydata in YANG Library context
@@ -272,7 +272,7 @@ https://datatracker.ietf.org/doc/html/draft-aelhassany-anydata-validation
 Implementing and validating draft-aelhassany-anydata-validation document with running code.
 
 - **Repository**
-https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon
 
 ----
 ### Antagonist (ANomaly TAGging ON hISTorical data)
