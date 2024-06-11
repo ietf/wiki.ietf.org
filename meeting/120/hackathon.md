@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-10T12:22:24.212Z
+date: 2024-06-11T18:01:46.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -284,7 +284,7 @@ https://github.com/network-analytics/ietf-network-analytics-document-status/tree
 - **Project Info**
 Antagonist is a tool supporting the tagging of historical timeseries data. This is envisioned to support Network Anomaly Detection and it is created with the purpose of supporting network operators tagging their data with network anomaly related metadata.
 - **Hackathon plan**
-Antagonist currently exists as a PoC. The objective for this hackathon is to improve the system design and validate an additional draft, recently submitted, for the definition of lifecycle and metadata of network anomaly lifecycle.
+Antagonist currently exists as a PoC. The objective for this hackathon is to improve the system design, extend the validation of the models defined in the drafts below, and showcase integration with third parties components.
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/
 	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
