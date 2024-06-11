@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-07T15:33:40.558Z
+date: 2024-06-11T17:48:49.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -56,6 +56,8 @@ Hotel; details coming soon
 
 - Review of program/support group description (Mirja)
 - National crypto / ISE (any prep needed for IETF 120)
+
+- IAB Decisions (David)
 
 ## Joint IAB/IESG Topics
 
