@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-06-07T18:47:49.821Z
+date: 2024-06-11T22:04:08.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -38,7 +38,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Done:
 
+* 2024-06-05: All IAB to review the draft text for the ICANN Board 
+    Liaison call for nominations by Friday 2024-06-07.
 
+* 2024-06-05: Cindy Morgan to send the ICANN Board Liaison call for 
+    nominations on 2024-06-11.
 
 On Hold:
 
@@ -88,12 +92,6 @@ In Progress:
 * 2024-06-05: Alissa Cooper, Dhruv Dhody, and Mirja Kühlewind to work 
     with Mark Nottingham on a proposal for an IAB workshop on AI Opt-
     Out.
-
-* 2024-06-05: All IAB to review the draft text for the ICANN Board 
-    Liaison call for nominations by Friday 2024-06-07.
-
-* 2024-06-05: Cindy Morgan to send the ICANN Board Liaison call for 
-    nominations on 2024-06-11.
 
 
 #### 1.5. IAB Document Status Update - No Updates This Week
