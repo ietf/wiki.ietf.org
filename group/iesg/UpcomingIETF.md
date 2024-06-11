@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-04-02T23:15:04.781Z
+date: 2024-06-11T16:38:41.605Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -14,9 +14,11 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 *(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/agenda/))*
 
 # Candidate Meeting Topics
-Please add any topics for either IESG only meetings at IETF 119, or the joint meetings with the IAB.
+Please add any topics for either IESG only meetings at IETF 120, or the joint meetings with the IAB.
 
 - The new ADs could use a primer on how to deal with IPRs (Mahesh) -> Informal or Retreat
+- Plenary slide review (All) -> Wednesday
+- Meeting with IETF Counsel (Roman, Jay) -> Wednesday
 
 # IESG Activities
 *All times are in PDT (UTC -7).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -89,7 +91,7 @@ No IESG breakfast. IAB has a breakfast meeting.
 * Onsite Tool:   
 
 
-### IETF 119 Plenary TIME: TBD Room: TBD
+### IETF 120 Plenary TIME: TBD Room: TBD
 
 ## Thursday, July 25, 2024
 
