@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-07T22:52:25.206Z
+date: 2024-06-11T22:10:32.270Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -34,9 +34,6 @@ WC2H 8AG
  
 Venue 2: TBD
  
-### Covid Information 
-
-Free test and masks will be provided. Daily testing and masks are recommended.
 
 
 ### Agenda 
