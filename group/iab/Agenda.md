@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-06-11T22:04:08.509Z
+date: 2024-06-11T22:15:27.715Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -154,7 +154,14 @@ In Progress:
 
 ### 2. Monthly Written Reports and Other Brief Updates - 10 mins (Public)
 
-* IANA Report (received 2024-06-07)
+* IANA Liaison - written report received 
+* ICANN Board Liaison
+* IESG Liaison
+* IRTF Chair - written report received 
+* ISOC Liaison
+* Liaison Coordinators
+* Outreach
+* Tools Liaison
 
 ### 3. Retreat Planning (All) - 15 mins
 
