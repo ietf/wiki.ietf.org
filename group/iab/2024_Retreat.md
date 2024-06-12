@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-12T13:58:48.192Z
+date: 2024-06-12T14:05:32.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -46,7 +46,7 @@ Hotel; details coming soon
   - incl. technical plenaries/IAB Open
 - E-impact and follow-ons (BOF? PRG?) 
   - there may be a BOF proposal by the retreat
-- IAB Workshops - IPR, Notewell, Paper Format (Dhruv, Mirja)
+- IAB Workshops - IPR, Notewell, Paper Format, post-workshop activities (Dhruv, Mirja)
 
 ### Tuesday Afternoon (June 25)
 
