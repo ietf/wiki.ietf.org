@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-11T22:10:32.270Z
+date: 2024-06-12T15:39:13.165Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -91,8 +91,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 IESG-only
 
-* AI Data Center "AIDC" (??)
-
+* (This space intentionally left blank other than this message.)
 
 
 
