@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-12T14:05:32.340Z
+date: 2024-06-12T18:59:37.175Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -32,51 +32,80 @@ Hotel; details coming soon
 
 ### Monday (Late start 11:00am, June 24)
 
-- Survey results, welcome activities
+Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 
-### Monday Afternoon (June 24)
+#### 11:00-12:00: Survey results, welcome activities
 
-- IETF-3GPP Relationship (Suresh)
-- Liaison coordination; lighter weight options (Suresh)
-- Outreach (Dhruv)
+#### 12:00-13:00: Lunch
 
-### Tuesday Morning (June 25)
+#### 13:00-13:30: IETF-3GPP Relationship (Suresh)
 
-- Brainstorm more tech topics, workshops, programs, etc (Tommy)
-  - incl. technical plenaries/IAB Open
-- E-impact and follow-ons (BOF? PRG?) 
-  - there may be a BOF proposal by the retreat
-- IAB Workshops - IPR, Notewell, Paper Format, post-workshop activities (Dhruv, Mirja)
+#### 13:30-14:15: Liaison Coordination; lighter-weight options (Suresh/Liaison Coordinators)
 
-### Tuesday Afternoon (June 25)
+#### 14:15-15:00: Outreach (Dhruv)
 
-- ISOC / Policy related topics - 13.00 London / 08.00 EDT on June 25
+#### 15:00-15:30: Break
 
-- Using part of the vision document for other purposes (Mirja)
+#### 15:30-16:00: IAB BoFs/Sessions (Mirja)
 
-- Review of program/support group description (Mirja)
-- National crypto / ISE (any prep needed for IETF 120)
+#### 16:00-17:00: Parking Lot
 
-- IAB Decisions (David)
+
+### Tuesday (June 25)
+
+Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
+
+#### 09:00-10:15: Brainstorm more tech topics, workshops, programs, etc (Tommy)
+
+* including technical plenaries/IAB Open
+
+#### 10:15-10:30: Break
+
+#### 10:30-11:00: E-Impact and follow-ons (Suresh)
+
+#### 11:00-11:30: Network Management Workshop (Wes)
+
+#### 11:30-12:00: IAB Workshops - IPR, Notewell, Paper Format, post-workshop activities (Dhruv, Mirja)
+
+#### 12:00-13:00: Lunch
+
+#### 13:00-14:00: ISOC / Policy related topics (Sally - remote)
+
+* WTSA Outreach
+
+#### 14:00-14:30: Using part of the vision document for other purposes (Mirja)
+
+#### 14:30-15:00: Expectations on the ICANN Board Liaison (Mirja)
+
+#### 15:00-15:30: Break
+
+#### 15:30-16:00: Review of program/support group description (Mirja)
+
+#### 16:00-16:30: IAB Feedback Questions for ISE Session at IETF 120 (Tommy)
+
+#### 16:30-17:00: IAB Decisions (David)
+
 
 ## Joint IAB/IESG Topics
 
 ### Wednesday (June 26)
 
 Venue: to be announced but NOT Google's office
+
+#### Proposed Topics
   
 - IAB's role in chartering/new work (Matthew)
 - "New Work Help Desk" idea (Mirja)
 - How much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
 - Limited domains (Suresh)
 - Pipeline for appointments
+- IAB Visibility (esp in RTG area) (Dhruv)
 
-**1800-2100:** Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
+#### 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
 
 ## Proposed Agenda Topics
-- IAB BoFs/Sessions (Mirja)
-- Expectation on the ICANN Board liaison (Mirja)
-- IAB Visibility (esp in RTG area) (Dhruv)
+
+
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
