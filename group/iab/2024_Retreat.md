@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-11T17:48:49.378Z
+date: 2024-06-12T13:58:48.192Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -76,7 +76,7 @@ Venue: to be announced but NOT Google's office
 ## Proposed Agenda Topics
 - IAB BoFs/Sessions (Mirja)
 - Expectation on the ICANN Board liaison (Mirja)
-
+- IAB Visibility (esp in RTG area) (Dhruv)
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
