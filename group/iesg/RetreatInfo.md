@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T15:00:21.705Z
+date: 2024-06-13T16:27:20.464Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -57,7 +57,8 @@ Venue: to be announced but NOT Google's office
 Venue: Google office
 
 0900-XXXX: Morning
-* Actions from [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + Laura)
+* SWOT/PEST Analysis Results (Éric)
+* Actions from and related to [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + Laura)
 
 1200?-XXXX: Lunch (in the Google facility) 
 
