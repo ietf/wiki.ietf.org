@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T14:59:19.910Z
+date: 2024-06-13T15:00:21.705Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -79,7 +79,7 @@ Venue: Google office
 * Technology Deep Dives - future home? (Warren)
 * Side Meetings
   * Not-registered participants for side meetings (Laura)
-  * Meetecho use at meetings (??)
+  * Support for side meetings (Paul)
 
 1200?-XXXX: Lunch (in the Google facility) 
 
