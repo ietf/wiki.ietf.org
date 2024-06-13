@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-12T15:39:13.165Z
+date: 2024-06-13T14:10:56.003Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -33,7 +33,9 @@ WC2H 8AG
 [map](https://www.google.com/maps/place/Central+Saint+Giles/)
  
 Venue 2: TBD
- 
+
+### Coffee
+Good **coffee** is 7 minutes [walk](https://www.google.com/maps/dir/1+Central+Saint+Giles+Piazza,+St+Giles+High+St,+London+WC2H+8AG/Redemption+Roasters+-+Covent+Garden,+Drury+Lane,+London/@51.5158797,-0.1275184,17z/data=!3m2!4b1!5s0x487604cb4c3a1cbd:0x23dcd6c851dc987a!4m14!4m13!1m5!1m1!1s0x48761ba615783291:0xcf51dfe4c663b3a3!2m2!1d-0.127425!2d51.516054!1m5!1m1!1s0x4876058ea2839d87:0xea3d259c87a66d76!2m2!1d-0.1222819!2d51.5146058!3e2?entry=ttu).
 
 
 ### Agenda 
