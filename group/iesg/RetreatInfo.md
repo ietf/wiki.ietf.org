@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T14:57:41.010Z
+date: 2024-06-13T14:58:33.545Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -74,7 +74,7 @@ Venue: Google office
 Venue: Google office
 
 0900-1200?: Morning (non-document related topics)
-* IESG Statement on Cryptography (Paul/Deb)
+
 * Status and use/disuse of "Affiliate Group" (??)
 * Technology Deep Dives - future home? (Warren)
 * Side Meetings
@@ -101,6 +101,7 @@ IESG+IAB
 * How to encourage Privacy and Operational Considerations in drafts (Matthew/Alvaro)
 * IAB's role in chartering/new work (Matthew)
 * Limited domains (Suresh)
+* IESG Statement on Cryptography (Paul/Deb)
 
 ### RSVP
 
