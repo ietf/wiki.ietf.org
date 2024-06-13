@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T14:55:39.098Z
+date: 2024-06-13T14:56:26.437Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -65,7 +65,7 @@ Venue: Google office
 * Processing errata
   * Consistent IESG understanding/application of errata processing states (Orie)
   * Errata tooling (Paul)
-* BCP14 language in documents status other than PS/S (??)
+* BCP14 language in documents status other than PS/S (Murray/Éric)
 * Code point assignment based on I-Ds (??)
 * Improving DT for Call for Adoption / WGLC requests (Warren)
 * Keywords / Tags (Warren) -- was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
