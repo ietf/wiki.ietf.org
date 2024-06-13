@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T14:10:56.003Z
+date: 2024-06-13T14:55:39.098Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -63,7 +63,7 @@ Venue: Google office
 
 1300?-1700: Afternoon Block (document related topics)
 * Processing errata
-  * Consistent IESG understanding/application of errata processing states (??)
+  * Consistent IESG understanding/application of errata processing states (Orie)
   * Errata tooling (Paul)
 * BCP14 language in documents status other than PS/S (??)
 * Code point assignment based on I-Ds (??)
