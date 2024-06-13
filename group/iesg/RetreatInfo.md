@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T14:58:33.545Z
+date: 2024-06-13T14:59:19.910Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -75,7 +75,7 @@ Venue: Google office
 
 0900-1200?: Morning (non-document related topics)
 
-* Status and use/disuse of "Affiliate Group" (??)
+* Status and use/disuse of "Affiliate Group" (Éric/Warren)
 * Technology Deep Dives - future home? (Warren)
 * Side Meetings
   * Not-registered participants for side meetings (Laura)
