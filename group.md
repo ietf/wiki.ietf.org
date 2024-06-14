@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2024-05-14T18:39:35.902Z
+date: 2024-06-14T04:10:49.613Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -81,6 +81,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [secdispatch *Security Dispatch*](/group/secdispatch)
 - [sipcore *Session Initiation Protocol Core*](/group/sipcore)
 - [spring *Source Packet Routing in Networking*](/group/spring)
+- [srv6ops *SRv6 Operations*](/group/srv6ops)
 - [stir *Secure Telephone Identity Revisited*](/group/stir)
 - [suit *Software Updates for Internet of Things*](/group/suit)
 - [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
@@ -137,6 +138,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [dnsop *Domain Name System Operations*](/group/dnsop)
 - [netconf *Network Configuration*](/group/netconf)
 - [netmod *Network Modeling*](/group/netmod)
+- [srv6ops *SRv6 Operations*](/group/srv6ops)
 {.links-list}
 
 ### RTG
