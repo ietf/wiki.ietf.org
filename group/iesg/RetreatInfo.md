@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-13T16:27:20.464Z
+date: 2024-06-14T17:41:08.140Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -24,7 +24,7 @@ TBD
 
 ### Location 
 
-Venue 1: Google's Central St. Giles office in London:
+Venue 1 (Thursday and Friday): Google's Central St. Giles office in London:
 
 Central Saint Giles
 1 St Giles High St
@@ -32,7 +32,7 @@ London
 WC2H 8AG
 [map](https://www.google.com/maps/place/Central+Saint+Giles/)
  
-Venue 2: TBD
+Venue 2 (Wednesday): [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room TBA)
 
 ### Coffee
 Good **coffee** is 7 minutes [walk](https://www.google.com/maps/dir/1+Central+Saint+Giles+Piazza,+St+Giles+High+St,+London+WC2H+8AG/Redemption+Roasters+-+Covent+Garden,+Drury+Lane,+London/@51.5158797,-0.1275184,17z/data=!3m2!4b1!5s0x487604cb4c3a1cbd:0x23dcd6c851dc987a!4m14!4m13!1m5!1m1!1s0x48761ba615783291:0xcf51dfe4c663b3a3!2m2!1d-0.127425!2d51.516054!1m5!1m1!1s0x4876058ea2839d87:0xea3d259c87a66d76!2m2!1d-0.1222819!2d51.5146058!3e2?entry=ttu).
@@ -49,12 +49,12 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
 #### Wednesday, June 26 (IAB+IESG)
-Venue: to be announced but NOT Google's office
+Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room TBA)
 
 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
 
 #### Thursday, June 27 (IESG only)
-Venue: Google office
+Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 
 0900-XXXX: Morning
 * SWOT/PEST Analysis Results (Éric)
@@ -72,7 +72,7 @@ Venue: Google office
 * Keywords / Tags (Warren) -- was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
 
 #### Friday, June 28 (IESG only)
-Venue: Google office
+Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 
 0900-1200?: Morning (non-document related topics)
 
