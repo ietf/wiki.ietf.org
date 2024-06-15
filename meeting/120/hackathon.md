@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-14T22:09:56.179Z
+date: 2024-06-15T00:07:19.095Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -186,11 +186,11 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 
   - **SSH daemon for OpenThread.** Historically the way engineers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds with hundreds of Thread devices, being able to log in and transfer log files using the network is much better than needing hundreds of USB cables to connect all the devices to a computer.
 
-  - **Lightweight QUIC for OpenThread.** Both TCP and QUIC are sophisticated transport protocols, suitable for efficiently transporting small and large amounts of data. Zero-round-trip connection setup in both TCP and QUIC allows for small request/response exchanges in a single round-trip. Windowed flow control and congestion-control algorithms enable TCP and QUIC to transfer large amounts of data, quickly, reliably, and efficiently, without unreasonably disrupting other traffic sharing the network. OpenThread includes TCP, and it would be good to complement that with support for QUIC as well.
+  - **Lightweight QUIC for OpenThread.** Both TCP and QUIC are sophisticated transport protocols, suitable for efficiently transporting small and large amounts of data. Zero-round-trip connection setup in both TCP and QUIC allows for small request/response exchanges in a single round-trip. Sliding-window flow control and refined congestion-control algorithms enable TCP and QUIC to transfer large amounts of data, quickly, reliably, and efficiently, without unreasonably disrupting other traffic sharing the network. OpenThread includes TCP, and it would be good to complement that with support for QUIC as well.
 
-  - **General OTA (over-the-air) Firmware Update.** Today firmware is typically installed into the flash memory of a Thread developer board via a USB port. It would be very helpful to have a general way of updating firmware over IP — particularly for people managing hundreds of Thread devices instead of just two or three.
+  - **General OTA (over-the-air) Firmware Update.** Today firmware is typically installed into the flash memory of a Thread developer board via a USB port. It would be very helpful to have a general way of updating firmware over IP — particularly for people working with hundreds of Thread devices instead of just two or three.
 
-  - **Sensor Data Batched Upload.** Many types of sensors, like temperature sensors, collect data at regular intervals, which should be uploaded to a data collection server, perhaps not right away, but in a reasonably timely manner when the Thread mesh is idle enough that such uploads will not disrupt other operations. Now that OpenThread has TCP, it would be useful to have a general mechanism for uploading this kind of sensor data.
+  - **Sensor Data Batched Upload.** Many types of sensors, like temperature sensors, collect data at regular intervals, which should be uploaded to a data collection server in a reasonably timely manner when the Thread mesh is idle enough that such uploads will not disrupt other operations. Now that OpenThread has TCP, it would be useful to have a general mechanism for uploading this kind of sensor data.
 
   - **Live Thread Diagnostics.** When a large Thread mesh is not behaving as expected, it would be very useful to have a general mechanism for fetching information from nodes on the mesh regarding their connectivity to neighbors and other similar diagnostic data.
 
