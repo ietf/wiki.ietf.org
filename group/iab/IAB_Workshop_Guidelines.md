@@ -2,7 +2,7 @@
 title: IAB Workshop Guidelines
 description: 
 published: true
-date: 2024-05-29T17:40:18.433Z
+date: 2024-06-16T14:13:24.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:47:25.471Z
@@ -39,14 +39,14 @@ The program committee (PC) for the IAB workshop consists of volunteer IAB member
 * Review all submitted Papers
 * Select Papers that are in the scope of the workshop and invite authors, further select papers that should get presentation time. 
 * Identify members of PC that will moderate chair the workshop sessions on each day. Moderators should take responsibilty for meeting material for their session.
-* Prepare and announce an agenda for the workshop and request slides
-* Maintain all the submitted papers and slides in the datatrackerrepository
-* Prepare a reading list to be shared with all workshop participants in advance
-* Prepare welcome and session slides, if needed
-* Participate and help guide the discussion during the workshop
-* Define follow-up activities after the workshop
-* Prepare a draft report in the form of an internet-draft promptly
-* Prepare a blog for the IETF community summarizing the workshop
+* Prepare and announce an agenda for the workshop and request slides.
+* Maintain all the submitted papers and slides in the datatracker repository.
+* Prepare a reading list to be shared with all workshop participants in advance.
+* Prepare welcome and session slides, if needed.
+* Participate and help guide the discussion during the workshop.
+* Define follow-up activities after the workshop.
+* Prepare a draft report in the form of an internet-draft promptly.
+* Prepare a blog for the IETF community summarizing the workshop.
 
 The IAB Executive Administrative Manager assists with the logistical support and secretarial duties such as mailing list creation, datatracker and website support, invitations, Github etc. 
 
