@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-06-17T12:24:33.831Z
+date: 2024-06-17T12:48:30.872Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -25,6 +25,7 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 ## Chair's Corner
 
 - Handle the mailing list subscription and next step for the bof list
+- Send a welcome email
 - Setup Github and move the charter repository
 	- See https://chairs.ietf.org/github
   - Please include the GitHub user IDs for all WG Chairs, Secretaries and Area Directors when making your request:  dhruvdhody, danv0yer, and WeiqiangCheng 
