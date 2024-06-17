@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-17T18:10:39.482Z
+date: 2024-06-17T18:11:50.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
