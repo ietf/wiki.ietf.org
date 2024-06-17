@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-06-17T12:48:30.872Z
+date: 2024-06-17T13:50:15.422Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -37,5 +37,5 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 * Chair conflict: pce, IABopen, spring, teas
 * Person must be present: none
 * Technology overlap: 6man, v6ops, rtgwg, mpls, bess, lsr, idr
-* Key participant conflict: nmop, alldispatch, gendispatch, genarea, rtgarea, opsawg, 
+* Key participant conflict: nmop, alldispatch, gendispatch, genarea, rtgarea, opsawg 
 * Special Requests: Do not schedule against BOFs if possible.
