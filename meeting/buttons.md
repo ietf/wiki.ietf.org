@@ -2,13 +2,13 @@
 title: IETF Language Buttons
 description: 
 published: true
-date: 2023-08-05T21:01:46.275Z
+date: 2024-06-17T02:08:16.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-09T22:16:40.467Z
 ---
 
-[ace](/group/ace)# IETF Language Buttons
+# IETF Language Buttons
 
 Since IETF 87, the IETF Secretariat has provided language buttons (pins) for attendees to borrow and display on their clothing as a resource to other bilingual participants. This page is a compilation of all of the languages our community has requested and are currently available at the meetings. If you notice a spelling mistake on this page or if there is a language you would like added, please email the registrar at support@ietf.org. 
 
@@ -143,7 +143,7 @@ Since IETF 87, the IETF Secretariat has provided language buttons (pins) for att
 ## Swedish 
 
 ![swedish.png](/language-buttons/swedish.png)
-- 
+
 ## Tamil 
 
 ![tamil.png](/language-buttons/tamil.png)
