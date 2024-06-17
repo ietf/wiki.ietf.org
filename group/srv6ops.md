@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-06-17T13:50:15.422Z
+date: 2024-06-17T13:57:27.183Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -14,8 +14,8 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 
 ## Prep for IETF 120
 
-- Prepare a conflict list
-- Agenda planning for IETF 120
+- Prepare a conflict list - Done!
+- Agenda planning for IETF 120 - Ongoing! 
 	- Go over the approved charter
   - Word from the AD 
   - Administrativia 
@@ -26,7 +26,7 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 
 - Handle the mailing list subscription and next step for the bof list
 - Send a welcome email
-- Setup Github and move the charter repository
+- Setup Github and move the charter repository - ongoing
 	- See https://chairs.ietf.org/github
   - Please include the GitHub user IDs for all WG Chairs, Secretaries and Area Directors when making your request:  dhruvdhody, danv0yer, and WeiqiangCheng 
 
