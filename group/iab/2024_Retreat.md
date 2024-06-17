@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-14T17:39:04.361Z
+date: 2024-06-17T10:45:02.062Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -47,6 +47,10 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 
 #### 14:15-15:00: Outreach (Dhruv)
 
+[Slides](https://docs.google.com/presentation/d/1F7gfNF8AX6QjCRVRqgWk8Jz_eiBbgOlxwc9Ry_HdeTQ/edit?usp=sharing)
+[Miro](https://miro.com/app/board/uXjVNiPwtfs=/?share_link_id=139764338636
+)
+
 #### 15:00-15:30: Break
 
 #### 15:30-16:00: IAB BoFs/Sessions (Mirja)
@@ -74,7 +78,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 
 #### 13:00-14:00: ISOC / Policy related topics (Sally - remote)
 
-* WTSA Outreach
+* Participation in ITU-T WTSA/GSS in Oct 2024
 
 #### 14:00-14:30: Using part of the vision document for other purposes (Mirja)
 
