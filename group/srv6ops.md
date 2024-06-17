@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-06-17T07:23:18.784Z
+date: 2024-06-17T12:24:33.831Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -17,10 +17,10 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 - Prepare a conflict list
 - Agenda planning for IETF 120
 	- Go over the approved charter
-  - Ask for AD to speak
-  - WG practices
-- Inviting some operator presentation
-- Drafts as per our milestones
+  - Word from the AD 
+  - Administrativia 
+	- Inviting some operator presentation
+	- Drafts as per our milestones
 
 ## Chair's Corner
 
