@@ -2,7 +2,7 @@
 title: IAB Workshop Guidelines
 description: 
 published: true
-date: 2024-06-17T10:55:48.556Z
+date: 2024-06-17T11:01:25.113Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:47:25.471Z
@@ -25,7 +25,7 @@ The following factors need to be considered while deciding the possible format o
 * **Format:** Various formats can be adopted for workshops, including paper presentations, short presentations followed by group discussions, roundtable discussions, and breakout rooms with subsequent joint discussions on the findings. The choice of format should be carefully aligned with the workshop's established goals and scope, ensuring that it is appropriate for the planned discussions. The aim should be to have ample discussions leading to clear next steps and follow-up action items post-workshop. 
 * **Workshop report and blog post:** Following the workshop, a report summarizing the discussions, findings, and recommendations is published typically as an IAB internet draft. These reports contribute to the broader community's understanding of the issues explored during the workshop. In addition, a short IETF blog post should also be published shortly afterwards.
 
-Note: If the IETF note well will apply, location at an IETF meeting would not restrict the set of likely participants, attendance should not be gated on position papers, remote participation is desired, and wide IETF community participation is desired, consider proposing a BoF session at an IETF meeting, instead.
+*Note: If the IETF Note Well applies, the location of an IETF meeting does not limit the likely participants, attendance is not restricted by position papers and remote participation along with broad community involvement is encouraged, then consider proposing a BoF session at an IETF meeting instead.*
 
 ## Role of the Workshop Program Committee (PC)
 
