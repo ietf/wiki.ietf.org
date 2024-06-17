@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-17T10:45:36.458Z
+date: 2024-06-17T12:43:05.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -47,8 +47,8 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 
 #### 14:15-15:00: Outreach (Dhruv)
 
-[Slides](https://docs.google.com/presentation/d/1F7gfNF8AX6QjCRVRqgWk8Jz_eiBbgOlxwc9Ry_HdeTQ/edit?usp=sharing)
-[Miro](https://miro.com/app/board/uXjVNiPwtfs=/?share_link_id=139764338636
+[Slide](https://docs.google.com/presentation/d/1F7gfNF8AX6QjCRVRqgWk8Jz_eiBbgOlxwc9Ry_HdeTQ/edit?usp=sharing)
+[Miro Board](https://miro.com/app/board/uXjVNiPwtfs=/?share_link_id=139764338636
 )
 
 #### 15:00-15:30: Break
@@ -73,6 +73,8 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 #### 11:00-11:30: Network Management Workshop (Wes)
 
 #### 11:30-12:00: IAB Workshops - IPR, Notewell, Paper Format, post-workshop activities (Dhruv, Mirja)
+
+[Slide](https://docs.google.com/presentation/d/1J86450kkCF_NWWGwzkfVZB-KKf89qYO6aSP_HUf1-Z8/edit?usp=sharing)
 
 #### 12:00-13:00: Lunch
 
