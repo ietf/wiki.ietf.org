@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-15T00:07:19.095Z
+date: 2024-06-18T19:11:23.133Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -170,6 +170,27 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ---
 
+### Formal Analysis of Attested TLS for Confidential Computing
+- **Champions**
+
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+
+- **Project Info**
+
+  - 3 main ways to combine attestation in TLS
+    - Pre-handshake attestation ([Tutorial slides](https://www.researchgate.net/publication/380734475_Interactive_Tutorial_Towards_Formal_Verification_of_Attested_TLS))
+    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Post-handshake attestation (Sec. 4 in [this draft](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. If you are interested, please contact by email. 
+  - Tool for formal analysis: ProVerif (other tools are welcome too)
+
+- **Background on Attestation**
+
+	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
+  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
+
+---
+
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champions**
   - Stuart Cheshire &lt;cheshire@apple.com&gt;
@@ -202,26 +223,7 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 
   - **Thread Credential Sharing.** Wi-Fi generally utilizes a user-visible password (when we’re not using 802.1X certificates), but Thread opts instead for strong cryptographic keys, which are arguably more secure, but harder for humans to deal with. When we want to have multiple Thread devices participate in a single Thread mesh, they all need to know the key to the mesh. Work is underway on developing a safe secure way to perform device-to-device key transfer, and this Hackathon will be a good opportunity for the people working on that to get together and do some interop testing and debugging.
 
----
 
-### Formal Analysis of Attested TLS for Confidential Computing
-- **Champions**
-
-	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
-
-- **Project Info**
-
-  - 3 main ways to combine attestation in TLS
-    - Pre-handshake attestation ([Overview slides](https://gtmfs2024.sciencesconf.org/data/pages/usama.pdf))
-    - Intra-handshake attestation ([IETF draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
-    - Post-handshake attestation ([Project proposal](https://github.com/CCC-Attestation/governance/issues/13))
-  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. If you are interested, please contact by email. 
-  - Tool for formal analysis: ProVerif
-
-- **Background on Attestation**
-
-	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
-  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
 
 ---
 ### Validate Configured Subscription YANG-Push Publisher Implementations
