@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-18T10:49:25.193Z
+date: 2024-06-18T19:23:05.890Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -26,7 +26,7 @@ London
 WC2H 8AG
 
 ### Wednesday
-The Dilly London
+The Dilly London, Georgian/Adams Suite
 21 Piccadilly
 London
 W1J 0BH
@@ -99,7 +99,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 
 ### Wednesday (June 26)
 
-Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room TBA)
+Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room: Georgian/Adams Suite)
 
 #### Proposed Topics
   
