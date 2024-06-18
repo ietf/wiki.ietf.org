@@ -113,8 +113,9 @@ The chair of the IAB will typically follow the following process:
 
 ## Expedited Process
 
-However, in some rare cases where time is of the essence, the IAB chair can
-choose to follow an expedited process where votes are open and sent via email:
+However, in some rare cases where time is of the essence and the topic is
+expected to be uncontroversial, the IAB chair can choose to follow an expedited
+process where votes are open and sent via email:
 
 - The chair emails the list of voting members to announce the Expedited Process.
 
