@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-06-17T13:57:27.183Z
+date: 2024-06-18T03:02:29.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -26,11 +26,9 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 
 - Handle the mailing list subscription and next step for the bof list
 - Send a welcome email
-- Setup Github and move the charter repository - ongoing
-	- See https://chairs.ietf.org/github
-  - Please include the GitHub user IDs for all WG Chairs, Secretaries and Area Directors when making your request:  dhruvdhody, danv0yer, and WeiqiangCheng 
+- Setup Github and move the charter repository - Done 
 
-### IETF Meeting Session Request
+### IETF Meeting Session Request - Done!
 * Number of Sessions: 1
 * Length of Session(s): 1.5 Hours
 * Number of Attendees: 75
