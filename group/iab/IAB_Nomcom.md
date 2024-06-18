@@ -10,10 +10,10 @@ dateCreated: 2023-12-05T20:20:04.160Z
 
 # IAB Nomcom
 ## IAB role in IETF Nominations Committee
-RFC 3777 provides guidelines for the "IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees". Within this process, the IAB has several roles:
+RFC 8713 provides guidelines for the "IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees". Within this process, the IAB has several roles:
 
-- According to bullet 8 in Section 4 of RFC 3777, the IAB appoints a liaison to the IETF NomCom.
-- Bullet 7 in section 4 of RFC 3777 describes the role and responsibilities of the liaisons. The IAB also provides the IAB defined guidelines for the IAB liaison (as summarized below) to the NomCom chair to ensure that expectations are clear from the start.
+- According to Section 4.8 of RFC 8713, the IAB appoints a liaison to the IETF NomCom.
+- Section 4.7 of RFC 8713 describes the role and responsibilities of the liaisons. The IAB also provides the IAB defined guidelines for the IAB liaison (as summarized below) to the NomCom chair to ensure that expectations are clear from the start.
 - The IAB is responsible for providing the NomCom chair with the list of IAB positions to be reviewed.
 - The IAB is responsible for providing a summary of the expertise desired of the candidates selected for their respective open positions to the NomCom chair. This is provided in the form of the [IAB Job Description](https://github.com/intarchboard/nomcom-description/tree/main).
 
@@ -33,7 +33,7 @@ RFC 3777 provides guidelines for the "IAB and IESG Selection, Confirmation, and 
 >    and views that the Liaison believes represent the consensus of the
 >    IAB.  The Liaison should avoid personal opinions.
 >  
-> 2. Follow NomCom Liaison Rules in RFC 3777, which includes:
+> 2. Follow NomCom Liaison Rules in RFC 8713, which includes:
 >      Liaisons are expected to represent the views of their respective
 >      organizations during the deliberations of the committee.  They
 >      should provide information as requested or when they believe it
@@ -54,17 +54,43 @@ So that the Nomcom is not later surprised, it is important to point them to the 
 It is extremely important that the IAB Liaison to the IETF NomCom provide the full list of IAB-required confirming materials to the NomCom chair at the start of the NomCom. This enables the NomCom and NomCom chair to ensure that willing nominees for IESG positions are made aware that required supporting materials will be provided to the IAB should they be put forth as the nominee of choice by the NomCom. Permission to share these materials with the IAB (as confirming body), to include CVs and questionnaire responses, should be requested in advance by the NomCom chair when the materials are submitted to the NomCom. The NomCom may wish to provide questionnaires which include sections that the candidate is comfortable sharing (e.g., "To Be Shared with Confirming Body"), and sections which will not be distributed beyond the NomCom members (e.g., Not to be distributed beyond the NomCom - "Joe and Sally are mean").
 
 ## IAB Confirmation of Nominated IESG Candidates
-The following process will be used by the IAB for confirmation of nominated candidates for vacant IESG positions:
 
-- The IAB will undertake its best endeavour to make a confirmation decision according to this process within the stipulated time period allowed for confirmation, and not allow the decision process to lapse. If there are extenuating circumstances that do not permit the IAB to make a decision within the necessary timeframe, then these circumstances shall be addressed as appropriate.
-- There shall be a positive vote for confirmation. This requires that a majority of the sitting members who are not disqualified or have not recused themselves at the outset of the process must vote to confirm the candidate, otherwise the candidate is rejected.
-- The IETF chair is disqualified from voting or participating in the discussion on the IESG slate or IESG candidates. The IAB may ask the IETF chair questions about the needs of the IESG prior to the IAB being advised of a nominated candidate.
-- The chair of the IAB can choose when to call the question with the following conditions:
-    - The chair must not call the question any earlier than 1 week after the IAB is informed of the nominated candidate.
-    - The chair must not call the question prior to a teleconference which has this action as an agenda item.
-    - The chair must call the question by whatever deadline generally imposed - usually within 2 weeks after the IAB is advised of the nominated candidate.
-- A vote may be held by voice vote during a teleconference, by email ballot to the IAB members' mail list, or by secret ballot to the Executive Director and Chair as agreed to by consensus. If there is no consensus, vote will be by secret ballot to the Executive Director and Chair.
-- In the event that a sitting IAB member was nominated to replace the casual vacancy in the IESG, the IETF Executive Director would be informed of the casual vacancy only upon confirmation of the initial nomination, and the Nominations Committee would then need to undertake a subsequent nominations process for the IAB casual vacancy.
+The following process will be used by the IAB for confirmation of nominated
+candidates for vacant IESG positions:
+
+
+- The IAB will undertake its best endeavour to make a confirmation decision
+  according to this process within the stipulated time period allowed for
+  confirmation, and not allow the decision process to lapse. If there are
+  extenuating circumstances that do not permit the IAB to make a decision
+  within the necessary timeframe, then these circumstances shall be addressed
+  as appropriate.
+
+- There shall be a positive vote for confirmation. This requires that a simple
+  majority of the sitting members who are not disqualified or have not recused
+  themselves at the outset of the process must vote to confirm the candidate,
+  otherwise the candidate is rejected.
+
+- The IETF chair is disqualified from voting or participating in the discussion
+  on the IESG slate or IESG candidates. The IAB may ask the IETF chair
+  questions about the needs of the IESG prior to the IAB being advised of a
+  nominated candidate.
+
+- This confirmation vote follows the process described in [](IAB_Decisions.md).
+  It is eligible for the Expedited Process.
+
+- In the event that a sitting IAB member was nominated to replace the casual
+  vacancy in the IESG, the IETF Executive Director would be informed of the
+  casual vacancy only upon confirmation of the initial nomination, and the
+  Nominations Committee would then need to undertake a subsequent nominations
+  process for the IAB casual vacancy.
+
+- RFC 8713 does not mandate the criteria by which the IAB evaluates the IESG
+  slate for confirmation. The most common criteria is whether the IAB thinks
+  the NomCom process was followed correctly. However, other criteria are
+  possible; for example, a voting IAB member can decline to confirm a candidate
+  if they feel that the candidate's views go against the IAB's architectural
+  goals for the Internet.
 
 ## Material to be provided in support of a Candidate
 In undertaking due diligence in its role as the confirming body for nominations to the Internet Engineering Steering Group the IAB would like to advise all Nominating Committees of its expectations in terms of provided material.
