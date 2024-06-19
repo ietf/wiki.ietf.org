@@ -2,12 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2024-02-02T00:02:57.757Z
+date: 2024-06-19T17:22:35.051Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
 ---
 
+> NOTE: Expect IETF tools service outages on 20 June starting at 1800 UTC. As part of moving to a new cloud infrastructure, the IETF Datatracker and related services will be unavailable for up to 4 hours. [More info on the IETF Blog](https://www.ietf.org/blog/it-infrastructure-outage-2024-06-20/).
+{.is-warning}
 # Welcome to the IETF Community Wiki
 
 This is a community wiki for IETF participants to use.  It replaces the previous structure of trac wikis where each working group/team had its own trac instance.
