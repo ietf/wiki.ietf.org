@@ -2,7 +2,7 @@
 title: Breakout120
 description: IAB Breakout Room Reservations at IETF 120
 published: true
-date: 2024-06-19T20:07:34.646Z
+date: 2024-06-19T20:10:58.757Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:07:34.646Z
@@ -22,7 +22,7 @@ For food & beverage service requests, please include:
 
 ## Monday 
 
-* 
+* Lunch: IETF-3GPP Coordination
 
 ## Tuesday 
 
