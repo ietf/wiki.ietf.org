@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-18T19:23:47.354Z
+date: 2024-06-19T15:17:01.208Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -24,15 +24,16 @@ TBD
 
 ### Location 
 
-Venue 1 (Thursday and Friday): Google's Central St. Giles office in London:
-
-Central Saint Giles
+**Venue 1 (Thursday and Friday):**
+Google's [Central Saint Giles](https://www.google.com/maps/place/Central+Saint+Giles/) offices
 1 St Giles High St
 London
 WC2H 8AG
-[map](https://www.google.com/maps/place/Central+Saint+Giles/)
- 
-Venue 2 (Wednesday): [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room: Georgian/Adams Suite)
+Room: 3rd Floor, in the "Tech Talk" room/area
+
+**Venue 2 (Wednesday):**
+[The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) 
+Room: Georgian/Adams Suite
 
 ### Coffee
 Good **coffee** is 7 minutes [walk](https://www.google.com/maps/dir/1+Central+Saint+Giles+Piazza,+St+Giles+High+St,+London+WC2H+8AG/Redemption+Roasters+-+Covent+Garden,+Drury+Lane,+London/@51.5158797,-0.1275184,17z/data=!3m2!4b1!5s0x487604cb4c3a1cbd:0x23dcd6c851dc987a!4m14!4m13!1m5!1m1!1s0x48761ba615783291:0xcf51dfe4c663b3a3!2m2!1d-0.127425!2d51.516054!1m5!1m1!1s0x4876058ea2839d87:0xea3d259c87a66d76!2m2!1d-0.1222819!2d51.5146058!3e2?entry=ttu).
