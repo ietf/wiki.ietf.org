@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-19T00:04:33.920Z
+date: 2024-06-19T07:46:22.184Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -308,6 +308,22 @@ Christian Hopps (chopps@chopps.org)
 IP-TFS in Linux is the implementation of IP-TFS in Linux. The code is nearing the point of merging and the netlink API is stable. As such it's time to start extending the swans to support configuring IP-TFS. Plan on adapting existing strongswan code published previously. Participants welcome to help or bring support to other swans (libre).
 
 ---
+
+### BMWG - YANG model for management of Network Tester
+- **Champion(s)**
+  - Vladimir Vassilev (vladimir@lightside-instruments.com)
+- **Project(s)**
+  - Model implementation with software and programmable logic for 1Gb Ethernet
+  - RFC2544 benchmark test in python
+  - RFC2889 benchmark test in python
+- **Specifications**
+  - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
+- **Repositories**
+  - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/vlvassilev/litenc/tree/master/tntapi/example/ietf-network-interconnect-tester)
+  - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+  - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+  - Hardware - [board design](https://github.com/vlvassilev/spark)
+  - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
