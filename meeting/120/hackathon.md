@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-19T23:48:24.728Z
+date: 2024-06-19T23:52:52.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -329,6 +329,7 @@ IP-TFS in Linux is the implementation of IP-TFS in Linux. The code is nearing th
 
 ### vCon - Virtual Conversation Container
 - **Overview**
+**WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
 **I-D:** [vCon container](https://datatracker.ietf.org/doc/draft-petrie-vcon/)
 One of the primary goals of vCon is to ease and standardize the integration and data transfer between enterprise or contact center:
   
