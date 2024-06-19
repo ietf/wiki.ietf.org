@@ -253,19 +253,20 @@ Validate first YANG-Push extensions enabling Apache Kafka integration accoring t
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon
 
 ---
-### Augmented-by Addition into the IETF-YANG-Library
+### Implement find relationship solution with Augmented-by list in ietf-yang-library
 - **Champion(s)**
 Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
 Benoit Claise (benoit.claise @ huawei.com)
 
 - **Draft Specifications**
-https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentation/
+https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentedby/
 
 - **Project Info**
-Opensource implementation of the augmented-by list in ietf-yang-library, with netopeer/libyang.
+Implement the ietf-yang-library augmentedby list to the find-relationship solution of libyangpush(YANG push receiver component of the Data Mesh Architecture defined in draft-ietf-nmop-yang-message-broker-integration).
 Demonstrate how the additional list improve the performance of the Data Mesh architecture use case.
 
 - **Repository**
+https://github.com/network-analytics/libyangpush
 https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
 
 ----
