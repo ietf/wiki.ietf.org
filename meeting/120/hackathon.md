@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-19T07:48:11.413Z
+date: 2024-06-19T23:48:24.728Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -326,10 +326,52 @@ IP-TFS in Linux is the implementation of IP-TFS in Linux. The code is nearing th
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 
+
+### vCon - Virtual Conversation Container
+- **Overview**
+**I-D:** [vCon container](https://datatracker.ietf.org/doc/draft-petrie-vcon/)
+One of the primary goals of vCon is to ease and standardize the integration and data transfer between enterprise or contact center:
+  
+  + Communications systems (email, sms, web chate, voice and video calls)
+  + Data consumer or customer data platform
+  + AI, ML and algorithmic analysis services and model training
+  + CRM systems
+  
+  
+- **Champions**
+Dan Petrie <dan.ietf@sipez.com>
+
+- **Project Info**
+The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.
+
+- **Hackathon Work Items**
+  + JSON/CBOR conversion and verification using [vCon CDDL](https://github.com/py-vcon/py-vcon/blob/main/docs/vcon.cddl)
+  
+  + vCon filter_plugin and server processor for redaction
+    1) Use the [Captial One DataProfiler](https://github.com/capitalone/DataProfiler) to identify PII in the transcript and create a redacted vCon that refers to the encrypted original, unredacted vCon.
+    2) Redact the audio in the vCon using the transcription time stamps of the redacted text
+    3) Redact the video in the vCon using the transcription time stamps of the redacted text
+  
+  + py_vcon_server vCon processors:
+  Create [VconProcessor plugins](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins) for the vCon server.  The **init** and **processor** method of the [VconProcessor abstract interface](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server/py_vcon_server/processor#py_vcon_serverprocessorvconprocessor) need to be implemente using existing vcon methods.
+  
+    - sign
+    Use [python_vcon.Vcon.sign method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md#sign)
+    - verify
+    Use [python_vcon.Vcon.verify method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md#verify)
+    - encrypt
+    Use [python_vcon.Vcon.encrypt method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md#encrypt)
+    - decrypt
+    Use [python_vcon.Vcon.decrypt method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md#decrypt)
+
+    - slack notification
+    Use the approach described in: [How to Send a Message to a Slack Channel Using Python](https://www.datacamp.com/tutorial/how-to-send-slack-messages-with-python) to implement a [VconProcessor plugin](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins) to send slack messages in a simalar way to how the [SendEmail VconProcessor](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/py_vcon_server/processor/README.md#py_vcon_serverprocessorbuiltinsend_emailsendemail) works.
+
+
+---
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-
-
-
+    
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
