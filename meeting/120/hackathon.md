@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-18T19:11:23.133Z
+date: 2024-06-19T00:04:33.920Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -300,7 +300,18 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
   Github repo: https://github.com/vriccobene/antagonist
 ---
 
+### IPsec: IP-TFS in Linux (swan support)
+- **Champions**
+Christian Hopps (chopps@chopps.org)
+  
+- **Project Info**
+IP-TFS in Linux is the implementation of IP-TFS in Linux. The code is nearing the point of merging and the netlink API is stable. As such it's time to start extending the swans to support configuring IP-TFS. Plan on adapting existing strongswan code published previously. Participants welcome to help or bring support to other swans (libre).
+
+---
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
