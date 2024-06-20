@@ -13,7 +13,7 @@ dateCreated: 2023-12-05T20:20:04.160Z
 RFC 8713 provides guidelines for the "IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees". Within this process, the IAB has several roles:
 
 - According to Section 4.8 of RFC 8713, the IAB appoints a liaison to the IETF NomCom.
-- Section 4.7 of RFC 8713 describes the role and responsibilities of the liaisons. The IAB also provides the IAB defined guidelines for the IAB liaison (as summarized below) to the NomCom chair to ensure that expectations are clear from the start.
+- Section 4.7 of RFC 8713 describes the role and responsibilities of the liaisons. The IAB also provides the IAB-defined guidelines for the IAB liaison (as summarized below) to the NomCom chair to ensure that expectations are clear from the start.
 - The IAB is responsible for providing the NomCom chair with the list of IAB positions to be reviewed.
 - The IAB is responsible for providing a summary of the expertise desired of the candidates selected for their respective open positions to the NomCom chair. This is provided in the form of the [IAB Job Description](https://github.com/intarchboard/nomcom-description/tree/main).
 
@@ -76,8 +76,9 @@ candidates for vacant IESG positions:
   questions about the needs of the IESG prior to the IAB being advised of a
   nominated candidate.
 
-- This confirmation vote follows the process described in [](IAB_Decisions.md).
-  It is eligible for the Expedited Process.
+- This confirmation vote follows the process described in [IAB_Decisions](IAB_Decisions.md).
+  It is eligible for the Expedited Process but requires a response from all
+  voting members.
 
 - In the event that a sitting IAB member was nominated to replace the casual
   vacancy in the IESG, the IETF Executive Director would be informed of the
@@ -86,7 +87,7 @@ candidates for vacant IESG positions:
   process for the IAB casual vacancy.
 
 - RFC 8713 does not mandate the criteria by which the IAB evaluates the IESG
-  slate for confirmation. The most common criteria is whether the IAB thinks
+  slate for confirmation. The most common criterion is whether the IAB thinks
   the NomCom process was followed correctly. However, other criteria are
   possible; for example, a voting IAB member can decline to confirm a candidate
   if they feel that the candidate's views go against the IAB's architectural
