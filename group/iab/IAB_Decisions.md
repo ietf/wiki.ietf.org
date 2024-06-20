@@ -25,7 +25,7 @@ IAB decision taking is documented in RFC 2850:
 Practically, in most day-to-day business, the chair will determine consensus
 based on the absence of dissenting positions being put forward in a reasonable
 time. However, some decisions are deemed important enough to require a formal
-vote. This document formalizes the process used by the IAB to make such
+vote. This document outlines the process used by the IAB to make such
 decisions.
 
 # Number of allowable dissents
@@ -40,12 +40,25 @@ require a simple majority:
 
 * IAB confirmation of the IESG slate from the NomCom
 
-* Appointments
+* Appointments made by the IAB
 
 * Signing of letters from the IAB as a whole
 
-In such cases, votes require a simple majority of the non recused voting
+* Decisions related to Appeals  
+
+In such cases, votes require a simple majority of the non-recused voting
 members of the IAB to vote in the affirmative.
+
+A non-exhaustive list of cases where IAB aims for a unanimous decision and 
+fallback to the use of the two-dissent rule from RFC 2850 includes: 
+
+* Decisions related to IAB Stream Documents
+
+* IAB Statements
+  
+* Decisions related to IAB Technical Programs and Administrative Support Groups
+  
+* Decisions related to IAB Workshops
 
 # Decision Process
 
@@ -54,7 +67,7 @@ members of the IAB to vote in the affirmative.
 Votes can either use open or secret ballots. The first step in the process is
 for the IAB chair to determine whether it will be held open or secret.
 
-- By default, votes should be open.
+- By default, votes should be open. 
 
 - Open ballots are only shared with voting members (IAB members minus
   disqualified and recused members).
@@ -66,18 +79,19 @@ for the IAB chair to determine whether it will be held open or secret.
 
 - If there is no consensus among voting members on whether a vote should be
   open or secret, the vote will be by secret ballot.
-
+  
 The IAB chair will then determine whether to use the Normal or Expedited
 process.
 
 ## Normal Process
 
-The chair of the IAB will typically follow the following process:
+The IAB chair (or executive director on the instructions of the chair) will 
+typically follow the following process:
 
 - If the request for a vote comes from an external source (e.g., the NomCom
   provides its IESG slate for confirmation), then, as soon as possible after
   receiving the request, the IAB chair adds the vote topic to the agenda of the
-  next IAB teleconference. If the next meeting is less than 48 hours away, the
+  next IAB teleconference. If the next meeting is less than 24 hours away, the
   chair should instead add the topic to the following teleconference.
 
 - The chair emails the list of voting members to announce the date of the
@@ -85,7 +99,7 @@ The chair of the IAB will typically follow the following process:
   thread on the topic.
   
 - The agenda of that meeting will include the vote discussion, and needs to be
-  posted at least 24 hours in advance. If the discussion will happen in any
+  posted at least 24 hours in advance. If the discussion will happen in an
   irregularly scheduled meeting (i.e. meetings other than the weekly IAB
   meeting teleconference or meetings prescheduled during IETF week) then, the
   new meeting needs to be announced at least a week in advance.
@@ -106,7 +120,7 @@ The chair of the IAB will typically follow the following process:
 
 - A vote can result as a consequence of a teleconference discussion (e.g., the
   topic of an appointment was on the agenda of the teleconference without
-  explicitly mentioning a vote, but during the discussion there was consensus
+  explicitly mentioning a vote, but during the discussion there was a consensus
   to start a vote on the topic). In those cases, votes can be tallied in the
   teleconference, and/or the email to announce the vote can be sent out without
   requiring a second teleconference on this topic.
