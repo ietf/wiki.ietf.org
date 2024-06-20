@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-19T23:56:52.629Z
+date: 2024-06-20T00:00:18.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -346,7 +346,7 @@ One of the primary goals of vCon is to ease and standardize the integration and 
 - **Champions**
 Dan Petrie <dan.ietf@sipez.com>
 
-- **Project Info**
+- **Hackathon Objective**
 The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.
 
 - **Hackathon Work Items**
