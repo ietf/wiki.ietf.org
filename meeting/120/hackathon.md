@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-20T00:00:18.928Z
+date: 2024-06-20T15:03:32.974Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -372,6 +372,15 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
     - slack notification
     Use the approach described in: [How to Send a Message to a Slack Channel Using Python](https://www.datacamp.com/tutorial/how-to-send-slack-messages-with-python) to implement a [VconProcessor plugin](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins) to send slack messages in a simalar way to how the [SendEmail VconProcessor](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/py_vcon_server/processor/README.md#py_vcon_serverprocessorbuiltinsend_emailsendemail) works.
 
+### Testing congestion control algorithms
+- **Champions**
+	- Reese Enghardt (ietf@tenghardt.net)
+- **Related Groups**
+	- [Internet Congestion Control Working Group (ICCRG)](https://datatracker.ietf.org/rg/iccrg/about/)
+  - [Congestion Control Working Group (CCWG)](https://datatracker.ietf.org/group/ccwg/about/)
+- **Project Info**
+	- Work on congestion control testing: Simulation, testbeds, AB testing, or any other way of testing
+  - Hack on tooling, test cases, or the congestion control algorithm implementation itself
 
 ---
 
