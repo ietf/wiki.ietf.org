@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-20T15:03:32.974Z
+date: 2024-06-20T21:39:30.355Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -381,6 +381,13 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 - **Project Info**
 	- Work on congestion control testing: Simulation, testbeds, AB testing, or any other way of testing
   - Hack on tooling, test cases, or the congestion control algorithm implementation itself
+
+
+### QUIC profiling for Deep Space
+- **Champions**
+Marc Blanchet, marc.blanchet@viagenie.ca
+- **Project Info**
+[IP can be used in deep space networking](https://deepspaceip.github.io) with some profiling, especially  for QUIC. Work has progressed a lot in the recent months on which QUIC configuration parameters are needed for this use case. We used the Quinn QUIC stack (see [QUIC in space](https://github.com/marcblanchet/quic-in-space) and [QUIC workbench](https://github.com/aochagavia/quinn-workbench)) since pretty much all necessary configuration parameters were already available in the API. This hackathon is about externalizing the needed configuration parameters of other QUIC stacks in order to be usable in deep space. Depending on the participants interests, we will choose at the beginning which ones we want to modify and create PRs. Feel free to contact the organizers in advance for questions.
 
 ---
 
