@@ -67,7 +67,7 @@ fallback to the use of the two-dissent rule from RFC 2850 includes:
 Votes can either use open or secret ballots. The first step in the process is
 for the IAB chair to determine whether it will be held open or secret.
 
-- By default, votes should be open. 
+- By default, votes should be open.
 
 - Open ballots are only shared with voting members (IAB members minus
   disqualified and recused members).
@@ -79,7 +79,6 @@ for the IAB chair to determine whether it will be held open or secret.
 
 - If there is no consensus among voting members on whether a vote should be
   open or secret, the vote will be by secret ballot.
-  
 The IAB chair will then determine whether to use the Normal or Expedited
 process.
 
@@ -120,7 +119,7 @@ typically follow the following process:
 
 - A vote can result as a consequence of a teleconference discussion (e.g., the
   topic of an appointment was on the agenda of the teleconference without
-  explicitly mentioning a vote, but during the discussion there was a consensus
+  explicitly mentioning a vote, but during the discussion there was consensus
   to start a vote on the topic). In those cases, votes can be tallied in the
   teleconference, and/or the email to announce the vote can be sent out without
   requiring a second teleconference on this topic.
