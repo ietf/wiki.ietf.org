@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-20T21:39:50.571Z
+date: 2024-06-21T16:11:06.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -381,6 +381,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 - **Project Info**
 	- Work on congestion control testing: Simulation, testbeds, AB testing, or any other way of testing
   - Hack on tooling, test cases, or the congestion control algorithm implementation itself
+  	- Idea: Design test cases based on [5033bis, the proposed new BCP on Specifying New Congestion Control Algorithms](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/)
 
 
 ### QUIC profiling for Deep Space
