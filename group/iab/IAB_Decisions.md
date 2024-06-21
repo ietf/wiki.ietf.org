@@ -79,6 +79,10 @@ for the IAB chair to determine whether it will be held open or secret.
 
 - If there is no consensus among voting members on whether a vote should be
   open or secret, the vote will be by secret ballot.
+
+- If a vote starts off open but two voting members then request that it be
+  secret, then the voting restarts with secret ballots.
+
 The IAB chair will then determine whether to use the Normal or Expedited
 process.
 
