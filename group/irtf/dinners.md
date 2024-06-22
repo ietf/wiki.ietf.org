@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2024-06-22T09:54:16.860Z
+date: 2024-06-22T09:54:30.295Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -17,7 +17,7 @@ The IRSG meets for a working dinner at each IETF meeting, typically on the Wedne
     https://doodle.com/meeting/participate/id/bkOnMNvb
   * Wednesday, 24 July 2024, 8:00pm
   * Venue: https://pidginyvr.com
-    350 Carrall St, Vancouver, BC V6B 2J3
+    PIDGIN, 50 Carrall St, Vancouver, BC V6B 2J3
 
 * IETF 119 Brisbane
   * Doodle poll for attendance:
