@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-23T18:03:19.912Z
+date: 2024-06-23T19:56:49.279Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -62,6 +62,7 @@ Webex: https://ietf.webex.com/meet/cmm
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 
 0900-1200: Morning
+* Welcome and stage setting (Roman)
 * SWOT/PEST Analysis Results (Éric)
 * Actions from and related to "Experience of Women Participating in the IETF"  report -- [slides](https://docs.google.com/presentation/d/1ks6u6Xu1Zc8TUKJMMEE9nykAnIJ5BlC8QotyWMd-9GQ/) (Roman + Laura)
 
