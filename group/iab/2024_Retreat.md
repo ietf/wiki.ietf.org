@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-23T00:26:15.601Z
+date: 2024-06-23T18:02:59.953Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -103,15 +103,21 @@ Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.509432
 
 Webex: https://ietf.webex.com/meet/cmm
 
-#### Proposed Topics
-  
+#### Topics
+
+0900 - 1200: Morning Session
 - IAB's role in chartering/new work (Matthew)
 - "New Work Help Desk" idea (Mirja)
 - IAB Visibility (esp in RTG area) (Dhruv)
 	- [Slide](https://docs.google.com/presentation/d/1vi7DGOywB9KJG3YtCB7kdcIj_yBFw8CvkpmhgYOE1ao/edit?usp=sharing)
 - How much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
+
+1200 - 1300: Lunch
+
+1300 - 1700: Afternoon Session 
 - Limited domains (Suresh)
 - Pipeline for appointments
+- IESG Statement on Cryptography (Paul/Deb)
 
 
 #### 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
