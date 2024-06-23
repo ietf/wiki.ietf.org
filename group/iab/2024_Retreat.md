@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-18T19:23:05.890Z
+date: 2024-06-23T00:26:15.601Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -100,6 +100,8 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 ### Wednesday (June 26)
 
 Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room: Georgian/Adams Suite)
+
+Webex: https://ietf.webex.com/meet/cmm
 
 #### Proposed Topics
   
