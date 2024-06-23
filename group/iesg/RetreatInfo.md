@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-23T00:26:50.993Z
+date: 2024-06-23T18:03:19.912Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -52,6 +52,8 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 #### Wednesday, June 26 (IAB+IESG)
 Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room: Georgian/Adams Suite)
 
+See [IAB Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
+
 Webex: https://ietf.webex.com/meet/cmm
 
 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
@@ -59,13 +61,13 @@ Webex: https://ietf.webex.com/meet/cmm
 #### Thursday, June 27 (IESG only)
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 
-0900-XXXX: Morning
+0900-1200: Morning
 * SWOT/PEST Analysis Results (Éric)
-* Actions from and related to [Experience of Women Participating in the IETF report](https://www.ietf.org/media/documents/Experience_of_Women_Participating_in_the_IETF.pdf) (Roman + Laura)
+* Actions from and related to "Experience of Women Participating in the IETF"  report -- [slides](https://docs.google.com/presentation/d/1ks6u6Xu1Zc8TUKJMMEE9nykAnIJ5BlC8QotyWMd-9GQ/) (Roman + Laura)
 
-1200?-XXXX: Lunch (in the Google facility) 
+1200-1300: Lunch (in the Google facility) 
 
-1300?-1700: Afternoon Block (document related topics)
+1300-1700: Afternoon Block (document related topics)
 * Processing errata
   * Consistent IESG understanding/application of errata processing states (Orie)
   * Errata tooling (Paul)
@@ -78,7 +80,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 #### Friday, June 28 (IESG only)
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 
-0900-1200?: Morning (non-document related topics)
+0900-1200: Morning (non-document related topics)
 
 * Status and use/disuse of "Affiliate Group" (Éric/Warren)
 * Technology Deep Dives - future home? (Warren)
@@ -86,7 +88,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
   * Not-registered participants for side meetings (Laura)
   * Support for side meetings (Paul)
 
-1200?-XXXX: Lunch (in the Google facility) 
+1200-1300: Lunch (in the Google facility) 
 
 Will finish no later than 1330.
 
@@ -100,13 +102,9 @@ IESG-only
 
 * Depending on how the 120 agenda process goes, I may want to grab 15 minutes with everyone trapped together in a room to go over final changes (Liz)
 
+* IETF 125 Meeting Planning (Roman)
 
 
-IESG+IAB
-* How to encourage Privacy and Operational Considerations in drafts (Matthew/Alvaro)
-* IAB's role in chartering/new work (Matthew)
-* Limited domains (Suresh)
-* IESG Statement on Cryptography (Paul/Deb)
 
 ### RSVP
 
