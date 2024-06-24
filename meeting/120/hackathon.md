@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-21T16:11:06.916Z
+date: 2024-06-24T14:23:12.194Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -395,6 +395,36 @@ Marc Blanchet, marc.blanchet@viagenie.ca
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
     
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+### Digital Map for ISIS and OSPF 
+- **Champions**
+  - Oscar Gonzalez De Dios (oscar.gonzalezdedios@telefonica.com)
+  - Olga Havel (olga.havel@huawei.com)
+  - Benoit Claise (benoit.claise@huawei.com)
+  - Sherif Mostafa (sherif.mostafa@huawei.com)
+  - Pierre Francois (pierre.francois@insa-lyon.fr)
+  - Vivekananda Boudia (vivekananda.boudia@insa-lyon.fr)
+
+- **Specifications**
+	- https://www.rfc-editor.org/rfc/rfc8345
+  - https://www.rfc-editor.org/rfc/rfc8346
+  - https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
+  - https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
+  - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-00
+  - https://datatracker.ietf.org/doc/rfc9130/
+  - https://datatracker.ietf.org/doc/rfc9129/
+  
+- **Project Info**
+  - The goal is to demonstrate how operators can use the IETF Topology Yang models to represent a real carrier IP/MPLS network. 
+  - This will be a multi-year project, so we dont want to boil the ocean… we start with one particular problem space: How to use IETF topology model to represent a real carrier network based on IS-IS domains and OSPF domains for planning/simulation purposes. 
+  - We want to demonstrate if RFC8345 is the suitable standard for representing the multi-layered topology for Digital Map and show how the models compare with and without the identified gaps 
+  - This IETF120 Hackathon will initially focus on generic topology queries, and compare  IS-IS topology and ISPF topology drafts with RFC8345 versus RFC8345bis (gaps identified in RFC8345) approaches. 
+  - We would also show how we can retrieve performance metrics or configuration attributes (defined in RFC9030 or RFC9129 and retrieved via device API) norhbound from the Controller via RFC8345 API and its IS-IS and OSPF Augmentation. 
+  - The next IETF121 Hackathon will start looking at simulation/emulation.
+
+- **Related Groups**
+	- Network Management Operations (nmop) Working Group
+
 
 ```markdown
 ### Your Project
