@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-24T08:08:15.782Z
+date: 2024-06-24T10:20:13.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -59,6 +59,8 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 #### 15:30-16:00: IAB BoFs/Sessions (Mirja)
 
 #### 16:00-17:00: Parking Lot
+
+* Global Digital Compact letter
 
 
 ### Tuesday (June 25)
