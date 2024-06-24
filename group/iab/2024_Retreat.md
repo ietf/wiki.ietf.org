@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-24T06:41:04.475Z
+date: 2024-06-24T08:08:15.782Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -36,6 +36,7 @@ W1J 0BH
 ### Monday (Late start 11:00am, June 24)
 
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
+Remote link: http://meet.google.com/eiz-ypew-kdu
 
 #### 11:00-12:00: Survey results, welcome activities
 
@@ -63,6 +64,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 ### Tuesday (June 25)
 
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
+Remote link: http://meet.google.com/eiz-ypew-kdu
 
 #### 09:00-10:15: Brainstorm more tech topics, workshops, programs, etc (Tommy)
 
