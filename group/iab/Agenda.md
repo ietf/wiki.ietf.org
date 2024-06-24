@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-06-19T14:54:31.485Z
+date: 2024-06-24T16:50:55.798Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -38,6 +38,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2024-07-03: IAB Business Meeting (Reserved)
 * 2024-07-10: IAB Business Meeting
     * Monthly Reports
+    * Record CCG E-Vote Results
+    * Executive Session: RSWG Chair Vote
 
 -- 2024-07-20 - 2024-07-26: IETF 120 Vancouver --
 
