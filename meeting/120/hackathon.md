@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T15:00:54.903Z
+date: 2024-06-24T15:42:14.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -417,11 +417,11 @@ Don’t see anything that interests you? Feel free to add a project to the list,
   
 - **Project Info**
   - The goal is to demonstrate how operators can use the IETF Topology Yang models to represent a real carrier IP/MPLS network. 
-  - This will be a multi-year project, so we dont want to boil the ocean… we start with one particular problem space: How to use IETF topology model to represent a real carrier network based on IS-IS domains and OSPF domains for planning/simulation purposes. 
+  - We start with one particular problem space: How to use IETF topology model to represent a real carrier network based on IS-IS domains and OSPF domains for planning/simulation purposes. 
   - We want to demonstrate if RFC8345 is the suitable standard for representing the multi-layered topology for Digital Map and show how the models compare with and without the identified gaps 
-  - This IETF120 Hackathon will initially focus on generic topology queries, and compare  IS-IS topology and ISPF topology drafts with RFC8345 versus RFC8345bis (gaps identified in RFC8345) approaches. 
-  - We would also show how we can retrieve performance metrics or configuration attributes (defined in RFC9030 or RFC9129 and retrieved via device API) norhbound from the Controller via RFC8345 API and its IS-IS and OSPF Augmentation. 
-  - The next IETF121 Hackathon will start looking at simulation/emulation.
+  - This IETF120 Hackathon will initially focus on generic topology queries, and compare IS-IS topology and ISPF topology drafts with RFC8345 versus RFC8345bis (gaps identified in RFC8345) approaches. 
+  - We would also show how we can retrieve performance metrics or configuration attributes (defined in RFC9030 or RFC9129 and retrieved via device API) northbound from the Controller via RFC8345 API and its IS-IS and OSPF Augmentation. 
+  - The next IETF121 Hackathon will start looking at simulation/emulation details.
 
 - **Related Groups**
 	- Network Management Operations (nmop) Working Group
