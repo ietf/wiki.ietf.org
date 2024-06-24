@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-24T08:28:24.511Z
+date: 2024-06-24T09:59:09.790Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -18,9 +18,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Remote Participation 
 
-TBD
-
-
+See daily agenda for link
 
 ### Location 
 
@@ -51,10 +49,11 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
 #### Wednesday, June 26 (IAB+IESG)
 Venue: [The Dilly London](https://www.google.com/maps/place/The+Dilly/@51.5094322,-0.138873,17z/data=!3m2!4b1!5s0x487604d69f731b91:0xce5791168088f041!4m9!3m8!1s0x487605d32ca35887:0x8a31d9ec2e355273!5m2!4m1!1i2!8m2!3d51.5094289!4d-0.1362927!16s%2Fg%2F11pdxtzvpl?entry=ttu) (Room: Georgian/Adams Suite)
+Remote link: https://ietf.webex.com/meet/cmm
 
 See [IAB Agenda](https://wiki.ietf.org/group/iab/2024_Retreat)
 
-Webex: https://ietf.webex.com/meet/cmm
+
 
 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
 
