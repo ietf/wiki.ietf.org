@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-23T21:10:43.744Z
+date: 2024-06-24T06:40:55.962Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -42,8 +42,10 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 #### 12:00-13:00: Lunch
 
 #### 13:00-13:30: IETF-3GPP Relationship (Suresh)
+[Slides](https://docs.google.com/presentation/d/1OpBHSdcZ_tASRNYARjHVP0QQ7EVqrEFz7dc7KXXvIDQ/edit?usp=sharing)
 
 #### 13:30-14:15: Liaison Coordination; lighter-weight options (Suresh/Liaison Coordinators)
+[Slides](https://docs.google.com/presentation/d/1HRT0lMRZ1uE3sehckrr8_3Ev1mvEmHbCO5NbplrHF2s/edit?usp=sharing)
 
 #### 14:15-15:00: Outreach (Dhruv)
 
@@ -69,6 +71,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 #### 10:15-10:30: Break
 
 #### 10:30-11:00: E-Impact and follow-ons (Suresh)
+[Slides](https://docs.google.com/presentation/d/13SpegIXLSFx0znOYieP4CdPgGHgQjQR6n0qhNRcJjVw/edit?usp=sharing)
 
 #### 11:00-11:30: Network Management Workshop (Wes)
 
