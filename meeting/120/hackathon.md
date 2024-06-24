@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T18:19:53.246Z
+date: 2024-06-24T18:26:23.061Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -431,10 +431,14 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 - **Champions**
 Burt Kaliski (bkaliski@verisign.com)
 Andrew Fregly (afregly@verisign.com)
+- **Specifications**
+- https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+- https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
 - **Project Info**
 This hackathon will allow participants to experiment with a DNS zone signed with SLH-DSA-MTL signatures as defined in the draft "Stateless Hash-Based Signatures in Merkle Tree Ladder Mode (SLH-DSA-MTL) for DNSSEC". The draft defines an implementation of draft "Merkle Tree Ladder (MTL) Mode Signatures". Merkle Tree Ladder (MTL Mode) provides a mode of operation that can reduce the size and processing impact of Post-Quantum Cryptographic signature algorithms. In this hackathon, participants can interact with two of the authors of the MTL Mode draft to explore the characteristics of MTL Mode relative to DNS resolver and authoritative name-server implementation.  The example signed zone [from the SLH-DSA-MTL draft] will serve as a basis for explaining signing, verification and resolution processes related to SLH-DSA-MTL signatures in the DNSSEC use case.
 - **Related Groups**
 	- DNS Operations (DNSOP) Working Group
+  - Crypto Forum Research Group (CFRG)
 
 ```markdown
 ### Your Project
