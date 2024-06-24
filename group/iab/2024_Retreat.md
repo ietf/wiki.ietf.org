@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-24T10:20:13.957Z
+date: 2024-06-24T11:20:00.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -96,6 +96,8 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 #### 15:00-15:30: Break
 
 #### 15:30-16:00: Review of program/support group description (Mirja)
+
+[Slides](https://docs.google.com/presentation/d/1CvHnsnbRyFNN5nPOlh_KVBUk_JlEkcRCLxtR5JABDgY/edit#slide=id.p)
 
 #### 16:00-16:30: IAB Feedback Questions for ISE Session at IETF 120 (Tommy)
 
