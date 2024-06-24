@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T18:26:23.061Z
+date: 2024-06-24T22:07:08.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -439,6 +439,19 @@ This hackathon will allow participants to experiment with a DNS zone signed with
 - **Related Groups**
 	- DNS Operations (DNSOP) Working Group
   - Crypto Forum Research Group (CFRG)
+
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champions**
+Greg White (g.white @ cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in the Code Lounge for the rest of the week.
+- **Specifications**
+[RFC9330](https://www.rfc-editor.org/rfc/rfc9330.html)
+[RFC9331](https://www.rfc-editor.org/rfc/rfc9331.html)
+[RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
+[draft-ietf-tcpm-accurate-ecn-28](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/)
 
 ```markdown
 ### Your Project
