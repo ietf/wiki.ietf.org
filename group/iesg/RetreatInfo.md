@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-23T19:57:04.547Z
+date: 2024-06-24T08:09:12.608Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -60,6 +60,7 @@ Webex: https://ietf.webex.com/meet/cmm
 
 #### Thursday, June 27 (IESG only)
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
+Remote link: http://meet.google.com/eiz-ypew-kdu
 
 0900-1200: Morning
 * Welcome, Logistics, and Stage Setting (Roman)
@@ -80,6 +81,7 @@ Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+L
 
 #### Friday, June 28 (IESG only)
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
+Remote link: http://meet.google.com/eiz-ypew-kdu
 
 0900-1200: Morning (non-document related topics)
 
