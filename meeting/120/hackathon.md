@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T14:23:12.194Z
+date: 2024-06-24T15:00:54.903Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -411,6 +411,7 @@ Don’t see anything that interests you? Feel free to add a project to the list,
   - https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
   - https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
   - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-00
+  - https://datatracker.ietf.org/doc/draft-davis-opsawg-some-refinements-to-rfc8345
   - https://datatracker.ietf.org/doc/rfc9130/
   - https://datatracker.ietf.org/doc/rfc9129/
   
