@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T18:18:15.174Z
+date: 2024-06-24T18:19:53.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -427,7 +427,6 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 	- Network Management Operations (nmop) Working Group
 
 
-```markdown
 ### Exploring Implementation Approaches for Merkle Tree Ladder Mode Signatures for DNSSEC
 - **Champions**
 Burt Kaliski (bkaliski@verisign.com)
