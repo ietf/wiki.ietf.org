@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-06-11T13:11:40.745Z
+date: 2024-06-24T11:36:45.935Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -85,7 +85,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
-| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Y | In WGLC | Ends - 2024-06-18; IPR-3/5 | Dhruv | Dhruv |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Y | In WGLC | Ends - 2024-06-18; IPR-5/5 | Dhruv | Dhruv |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | -07 posted on 2024-03-17 | Missing support for Open message forwarding discussed during WGLC & IETF 119. | - | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | -08 posted on 2024-01-01 | - | - | - |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Y | -08 posted on 2024-02-01 | v8 posted addressing wglc items, pending feedback | - | - |
