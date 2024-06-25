@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-25T08:08:04.402Z
+date: 2024-06-25T12:47:40.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -116,6 +116,8 @@ Webex: https://ietf.webex.com/meet/cmm
 
 0900 - 1200: Morning Session
 - IAB's role in chartering/new work (Matthew)
+  - [Slide](https://docs.google.com/presentation/d/1xw8DXzGZFEQfnZqs91v1_-HSYOCObVcS/edit?usp=sharing&ouid=103201611620383383460&rtpof=true&sd=true)
+  
 - "New Work Help Desk" idea (Mirja)
 - IAB Visibility (esp in RTG area) (Dhruv)
 	- [Slide](https://docs.google.com/presentation/d/1vi7DGOywB9KJG3YtCB7kdcIj_yBFw8CvkpmhgYOE1ao/edit?usp=sharing)
