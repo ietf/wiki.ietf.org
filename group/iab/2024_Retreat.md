@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-25T13:08:11.824Z
+date: 2024-06-25T17:41:02.995Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -115,6 +115,7 @@ Webex: https://ietf.webex.com/meet/cmm
 #### Topics
 
 0900 - 1200: Morning Session
+- Welcome (Tommy and Roman)
 - IAB's role in chartering/new work (Matthew)
   - [Slide](https://docs.google.com/presentation/d/1xw8DXzGZFEQfnZqs91v1_-HSYOCObVcS/edit?usp=sharing&ouid=103201611620383383460&rtpof=true&sd=true)
   
@@ -128,7 +129,7 @@ Webex: https://ietf.webex.com/meet/cmm
 
 1300 - 1700: Afternoon Session 
 - Limited domains (Suresh)
-- Pipeline for appointments
+- Pipeline for appointments (Tommy)
 - IESG Statement on Cryptography (Paul/Deb)
 
 
