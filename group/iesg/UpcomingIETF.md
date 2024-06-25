@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-06-11T16:38:41.605Z
+date: 2024-06-25T17:28:08.475Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -121,7 +121,7 @@ Location: TBD
 
 ## Monday, 22 July 2024
 
-* TIME - ACTIVITY
+* 11:30 - 13:00 - RTG AD office hours
 
 ## Tuesday, 23 July 2024
 
