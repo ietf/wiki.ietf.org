@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-24T11:20:00.930Z
+date: 2024-06-25T08:08:04.402Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -119,7 +119,8 @@ Webex: https://ietf.webex.com/meet/cmm
 - "New Work Help Desk" idea (Mirja)
 - IAB Visibility (esp in RTG area) (Dhruv)
 	- [Slide](https://docs.google.com/presentation/d/1vi7DGOywB9KJG3YtCB7kdcIj_yBFw8CvkpmhgYOE1ao/edit?usp=sharing)
-- How much we require/encourage operational concerns/privacy considerations throughout (Alvaro?)
+- Considerations in RFCs (Matthew/Alvaro)
+	- [Slides](https://docs.google.com/presentation/d/1XxZhxobIM1Fs__awadNpLmTX6ZJFIizhoTAvxA2mSBk/edit?usp=sharing)
 
 1200 - 1300: Lunch
 
