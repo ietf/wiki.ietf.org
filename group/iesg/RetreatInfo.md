@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-26T12:07:27.883Z
+date: 2024-06-26T14:25:46.870Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -105,7 +105,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 IESG-only
 
-* Depending on how the 120 agenda process goes, I may want to grab 15 minutes with everyone trapped together in a room to go over final changes (Liz)
+
 
 * IETF 125 Meeting Planning (Roman)
 
