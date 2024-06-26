@@ -24,41 +24,9 @@ IAB decision taking is documented in RFC 2850:
 
 Practically, in most day-to-day business, the chair will determine consensus
 based on the absence of dissenting positions being put forward in a reasonable
-time. However, some decisions are deemed important enough to require a formal
-vote. This document outlines the process used by the IAB to make such
-decisions.
-
-# Number of allowable dissents
-
-The two-dissent rule from RFC 2850 aims to reach consensus and support from the
-IAB as a whole. The drawback of such a rule is that it may end up in deadlocks
-or it may take significant time to reach a decision. While this is acceptable
-to a number of situations, there are other IAB decisions where not having a
-decision by a given deadline is not acceptable. Because of that, those
-decisions do not follow the two-dissent rule from RFC 2850 and instead only
-require a simple majority:
-
-* IAB confirmation of the IESG slate from the NomCom
-
-* Appointments made by the IAB
-
-* Signing of letters from the IAB as a whole
-
-* Decisions related to Appeals  
-
-In such cases, votes require a simple majority of the non-recused voting
-members of the IAB to vote in the affirmative.
-
-A non-exhaustive list of cases where IAB aims for a unanimous decision and 
-fallback to the use of the two-dissent rule from RFC 2850 includes: 
-
-* Decisions related to IAB Stream Documents
-
-* IAB Statements
-  
-* Decisions related to IAB Technical Programs and Administrative Support Groups
-  
-* Decisions related to IAB Workshops
+time. However, some decisions are deemed important enough or controversial
+enough to require a formal vote. This document outlines the process used by the
+IAB to make such decisions.
 
 # Decision Process
 
@@ -82,9 +50,6 @@ for the IAB chair to determine whether it will be held open or secret.
 
 - If a vote starts off open but two voting members then request that it be
   secret, then the voting restarts with secret ballots.
-
-The IAB chair will then determine whether to use the Normal or Expedited
-process.
 
 ## Normal Process
 
@@ -128,34 +93,6 @@ typically follow the following process:
   teleconference, and/or the email to announce the vote can be sent out without
   requiring a second teleconference on this topic.
 
-## Expedited Process
-
-However, in some rare cases where time is of the essence and the topic is
-expected to be uncontroversial, the IAB chair can choose to follow an expedited
-process where votes are open and sent via email:
-
-- The chair emails the list of voting members to announce the Expedited Process.
-
-- Any voting member can veto the use of the Expedited Process and request the
-  Normal Process be followed.
-  
-- The Expedited Process allows voting members to immediately start voting by
-  email in response to the chair's email.
-
-- The completion of the Expedited Process depends on the importance of the
-  vote, and the external time pressure that it is in response to:
-  
-    - IESG slate confirmations always require a response from all voting
-      members.
-    
-    - If the external deadline is almost reached (e.g., a letter that the IAB
-      is considering co-signing is being published with or without the IAB's
-      signature at a certain date), then the IAB chair can call the vote
-      complete if both (a) the vote has enough votes that it would pass if all
-      remaining votes were dissents (b) the IAB is very confident that the vote
-      is uncontroversial and confidently expects missing votes to be
-      affirmative.
-
 ## Alternative Process
 
 The IAB can use an alternative voting process. In order to do that, the IAB
@@ -165,5 +102,8 @@ alternative voting rules, the resolution of the conflict will be addressed
 following usual RFC 2850 guidelines; i.e., if more than two voting members
 object to the alternative voting process, the vote reverts to the Normal
 Process.
+
+Note that any alternative process still needs to follow the rules in Section
+3.5 of RFC 2850.
 
 ---

@@ -58,7 +58,6 @@ It is extremely important that the IAB Liaison to the IETF NomCom provide the fu
 The following process will be used by the IAB for confirmation of nominated
 candidates for vacant IESG positions:
 
-
 - The IAB will undertake its best endeavour to make a confirmation decision
   according to this process within the stipulated time period allowed for
   confirmation, and not allow the decision process to lapse. If there are
@@ -66,19 +65,25 @@ candidates for vacant IESG positions:
   within the necessary timeframe, then these circumstances shall be addressed
   as appropriate.
 
-- There shall be a positive vote for confirmation. This requires that a simple
-  majority of the sitting members who are not disqualified or have not recused
-  themselves at the outset of the process must vote to confirm the candidate,
-  otherwise the candidate is rejected.
+- There shall be a positive vote for confirmation. The confirmation is
+  considered an IAB decision and follows the process documented in
+  [IAB_Decisions](IAB_Decisions.md). If that process does not lead to a
+  positive vote, the candidate is rejected.
+
+- Usually the confirmation of the entire slate is brought to an IAB vote as a
+  single decision. However, if the IAB fails to reach consensus on the entire
+  slate, the IAB can split the vote into multiple votes, each for a portion of
+  the slate, so that some of the candidates can be confirmed.
 
 - The IETF chair is disqualified from voting or participating in the discussion
   on the IESG slate or IESG candidates. The IAB may ask the IETF chair
   questions about the needs of the IESG prior to the IAB being advised of a
   nominated candidate.
 
-- This confirmation vote follows the process described in [IAB_Decisions](IAB_Decisions.md).
-  It is eligible for the Expedited Process but requires a response from all
-  voting members.
+- If any voting IAB member is a candidate for an IESG position, they must
+  recuse themselves and are disqualified from voting or participating in the
+  discussion for that specific confirmaiton. The vote is split to allow these
+  recused members to participate in the vote to confirm other IESG positions.
 
 - In the event that a sitting IAB member was nominated to replace the casual
   vacancy in the IESG, the IETF Executive Director would be informed of the
