@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-26T08:19:09.453Z
+date: 2024-06-26T10:03:44.556Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -130,6 +130,8 @@ Webex: https://ietf.webex.com/meet/cmm
 1300 - 1700: Afternoon Session 
 - Match game activity (Liz)
 - Limited domains (Suresh)
+	- [Slides](https://docs.google.com/presentation/d/1aNBKOY26g5_b4tYv9gy1NSk9LCattMu9n0OKtQgzl38/edit?usp=drive_link)
+
 - Pipeline for appointments (Tommy)
 - IETF Cryptography (Paul/Deb)
 	- [Slides](https://docs.google.com/presentation/d/1B5uG_buiI_TCF07DwZxSdN4Xln5Ys1OVlSaAmDvPSII/edit#slide=id.p1)
