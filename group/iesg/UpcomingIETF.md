@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-06-25T17:28:08.475Z
+date: 2024-06-26T08:46:19.862Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -110,7 +110,7 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: TBD
+Location: Dover, 4th floor ([floor plan](https://datatracker.ietf.org/meeting/120/floor-plan?room=dover))
 
 
 ## Sunday, 21 July 2024
