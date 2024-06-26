@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-26T12:05:13.661Z
+date: 2024-06-26T12:33:17.075Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -114,7 +114,7 @@ Webex: https://ietf.webex.com/meet/cmm
 
 #### Topics
 
-0900 - 1200: Morning Session
+0900 - 1230: Morning Session
 - Welcome (Tommy and Roman)
 - IAB's role in chartering/new work (Matthew)
   - [Slide](https://docs.google.com/presentation/d/1xw8DXzGZFEQfnZqs91v1_-HSYOCObVcS/edit?usp=sharing&ouid=103201611620383383460&rtpof=true&sd=true)
@@ -126,9 +126,9 @@ Webex: https://ietf.webex.com/meet/cmm
 	- [Slides](https://docs.google.com/presentation/d/1XxZhxobIM1Fs__awadNpLmTX6ZJFIizhoTAvxA2mSBk/edit?usp=sharing)
   - Match game activity (Liz)
 
-1200 - 1300: Lunch
+1230 - 1330: Lunch
 
-1300 - 1700: Afternoon Session 
+1330 - 1700: Afternoon Session 
 
 - Limited domains (Suresh)
 	- [Slides](https://docs.google.com/presentation/d/1aNBKOY26g5_b4tYv9gy1NSk9LCattMu9n0OKtQgzl38/edit?usp=drive_link)
