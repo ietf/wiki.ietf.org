@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-26T07:48:40.608Z
+date: 2024-06-26T08:19:09.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -131,7 +131,8 @@ Webex: https://ietf.webex.com/meet/cmm
 - Match game activity (Liz)
 - Limited domains (Suresh)
 - Pipeline for appointments (Tommy)
-- IESG Statement on Cryptography (Paul/Deb)
+- IETF Cryptography (Paul/Deb)
+	- [Slides](https://docs.google.com/presentation/d/1B5uG_buiI_TCF07DwZxSdN4Xln5Ys1OVlSaAmDvPSII/edit#slide=id.p1)
 
 
 #### 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)
