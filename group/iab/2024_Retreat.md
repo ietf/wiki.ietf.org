@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-26T10:03:44.556Z
+date: 2024-06-26T12:05:13.661Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -124,11 +124,12 @@ Webex: https://ietf.webex.com/meet/cmm
 	- [Slide](https://docs.google.com/presentation/d/1vi7DGOywB9KJG3YtCB7kdcIj_yBFw8CvkpmhgYOE1ao/edit?usp=sharing)
 - Considerations in RFCs (Matthew/Alvaro)
 	- [Slides](https://docs.google.com/presentation/d/1XxZhxobIM1Fs__awadNpLmTX6ZJFIizhoTAvxA2mSBk/edit?usp=sharing)
+  - Match game activity (Liz)
 
 1200 - 1300: Lunch
 
 1300 - 1700: Afternoon Session 
-- Match game activity (Liz)
+
 - Limited domains (Suresh)
 	- [Slides](https://docs.google.com/presentation/d/1aNBKOY26g5_b4tYv9gy1NSk9LCattMu9n0OKtQgzl38/edit?usp=drive_link)
 
