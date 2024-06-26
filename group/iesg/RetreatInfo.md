@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-26T14:25:46.870Z
+date: 2024-06-26T21:44:05.417Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -69,7 +69,7 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 
 1200-1300: Lunch (in the Google facility) 
 
-1300-1700: Afternoon Block (document related topics)
+1300-1700: Afternoon Block (document related topics) ([slides](https://docs.google.com/presentation/d/19Cb1mVc6P2ICAZdA7a0yOxcqp_oTv9fVncawCCKaiZY/edit?usp=sharing))
 * Processing errata
   * Consistent IESG understanding/application of errata processing states (Orie)
   * Errata tooling (Paul)
