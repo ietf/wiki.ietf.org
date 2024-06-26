@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-06-26T10:58:16.818Z
+date: 2024-06-26T12:04:15.153Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -141,5 +141,3 @@ Location: Dover, 4th floor ([floor plan](https://datatracker.ietf.org/meeting/12
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
 * TIME - ACTIVITY
-
-https://docs.google.com/presentation/d/1sJrVR8VzHxiUq9FGaloAP1aE17BvNIBl-quRLtj3UmU/edit#
