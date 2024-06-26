@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-26T08:38:20.119Z
+date: 2024-06-26T12:07:27.883Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -63,7 +63,7 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 
 0900-1200: Morning
 * Welcome, Logistics, and Stage Setting (Roman)
-* SWOT/PEST Analysis Results (Éric)
+* SWOT/PEST Analysis Results (Éric) [slides](https://docs.google.com/presentation/d/1A_uPcVDxzaxx5ZHbw0p-rxcNz2RwBa9uoOg9GqchA08/edit?usp=sharing)
 * Actions from and related to "Experience of Women Participating in the IETF"  report -- [slides](https://docs.google.com/presentation/d/1ks6u6Xu1Zc8TUKJMMEE9nykAnIJ5BlC8QotyWMd-9GQ/) (Roman + Laura)
 * IETF 120 agenda checkin - 10 mins to review some changes (Liz)
 
