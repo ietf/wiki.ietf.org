@@ -59,7 +59,7 @@ typically follow the following process:
 - If the request for a vote comes from an external source (e.g., the NomCom
   provides its IESG slate for confirmation), then, as soon as possible after
   receiving the request, the IAB chair adds the vote topic to the agenda of the
-  next IAB teleconference. If the next meeting is less than 24 hours away, the
+  next IAB teleconference. If the next meeting is less than 48 hours away, the
   chair should instead add the topic to the following teleconference.
 
 - The chair emails the list of voting members to announce the date of the
