@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-27T14:38:13.644Z
+date: 2024-06-27T18:53:32.185Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -390,11 +390,6 @@ Marc Blanchet, marc.blanchet@viagenie.ca
 - **Project Info**
 [IP can be used in deep space networking](https://deepspaceip.github.io) with some profiling, especially  for QUIC. Work has progressed a lot in the recent months on which QUIC configuration parameters are needed for this use case. We used the Quinn QUIC stack (see [QUIC in space](https://github.com/marcblanchet/quic-in-space) and [QUIC workbench](https://github.com/aochagavia/quinn-workbench)) since pretty much all necessary configuration parameters were already available in the API. This hackathon is about externalizing the needed configuration parameters of other QUIC stacks in order to be usable in deep space. Depending on the participants interests, we will choose at the beginning which ones we want to modify and create PRs. Feel free to contact the organizers in advance for questions.
 
----
-
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-    
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ### Digital Map for ISIS and OSPF 
 - **Champions**
@@ -473,6 +468,13 @@ This is a continuation of the work we did during the IETF 119 Hackathon.
 - **Repositories**
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
   
+
+---
+
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+    
+**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
 ```markdown
 ### Your Project
 - **Champions**
