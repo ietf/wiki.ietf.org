@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T22:07:08.391Z
+date: 2024-06-27T14:38:13.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -453,6 +453,26 @@ Greg White (g.white @ cablelabs.com)
 [RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
 [draft-ietf-tcpm-accurate-ecn-28](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/)
 
+
+### Rapid Automated Synchronization of DNS Delegation Data From Child to Parent
+- **Champions**
+  - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
+- **Project Info**
+Add new functionality to a working open source nameserver implementation (written in Go) to
+provide fully automatic management of delegation information between child zones (both
+DNSSEC-signed and unsigned) and parent zones.
+
+This is a continuation of the work we did during the IETF 119 Hackathon.
+
+    Detailed project suggestions: https://github.com/johanix/hackathon120/
+    
+- **Specifications**
+  - [draft-ietf-dnsop-generalized-notify](https://tools.ietf.org/html/draft-ietf-dnsop-generalized-notify)
+  - [draft-johani-dnsop-delegation-mgmt-via-ddns](https://tools.ietf.org/html/draft-johani-dnsop-delegation-mgmt-via-ddns)
+  
+- **Repositories**
+  Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
+  
 ```markdown
 ### Your Project
 - **Champions**
