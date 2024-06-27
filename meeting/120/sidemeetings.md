@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-27T14:59:15.362Z
+date: 2024-06-27T15:00:13.637Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -66,7 +66,7 @@ Also, and this should be obvious, **please don't edit others' side meeting infor
 
 **Note this is not the room reservation. The actual room reservation happens in the tables in Step 2 below!**
  
-Please keep the tables sorted by meeting by time.
+Please keep the tables sorted by meeting, by time.
 
 ### [MONDAY 22 July](#meeting-monday)
 
