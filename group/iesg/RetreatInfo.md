@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-27T16:06:35.231Z
+date: 2024-06-27T16:09:28.101Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -96,6 +96,8 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 * Side Meetings
   * Not-registered participants for side meetings (Laura)
   * Support for side meetings (Paul)
+
+* IETF 125 (Roman)
 
 1200-1300: Lunch (in the Google facility) 
 
