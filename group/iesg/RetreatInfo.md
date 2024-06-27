@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-27T08:00:51.043Z
+date: 2024-06-27T08:53:56.230Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -87,7 +87,7 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 
 0900-1200: Morning (non-document related topics)
 
-* Status and use/disuse of "Affiliate Group" (Éric/Warren)
+* Status and use/disuse of "Affiliate Group" (Éric/Warren) ([slides](https://docs.google.com/presentation/d/1JG9GJ72IpA_lbZAkIgLa3vFVLWlGI6XW4URXt4J_6Gw/edit?usp=sharing))
 * Technology Deep Dives - future home? (Warren)
 * Side Meetings
   * Not-registered participants for side meetings (Laura)
