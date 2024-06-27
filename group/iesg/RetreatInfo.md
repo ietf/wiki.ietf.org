@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-27T15:49:37.037Z
+date: 2024-06-27T15:55:25.994Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -80,6 +80,8 @@ Remote link: http://meet.google.com/jrr-sqrr-zaf
 
 * Status and use/disuse of "Affiliate Group" (Éric/Warren) ([slides](https://docs.google.com/presentation/d/1JG9GJ72IpA_lbZAkIgLa3vFVLWlGI6XW4URXt4J_6Gw/edit?usp=sharing))
 
+* Technology Deep Dives - future home? (Warren)
+
 #### Friday, June 28 (IESG only)
 Venue: [Google - Central Saint Giles](https://www.google.com/maps/place/Google+London+-+Central+Saint+Giles/@51.5160322,-0.1296894,17z/data=!3m1!4b1!4m6!3m5!1s0x4876051f55732655:0x77d00e13ac2579f8!8m2!3d51.5160322!4d-0.1271091!16s%2Fg%2F1tdy3_0c?entry=ttu)
 Remote link: http://meet.google.com/eiz-ypew-kdu
@@ -89,7 +91,6 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 * Keywords / Tags (Warren) -- was requested at IETF119. See [preso from 2017](https://slides.com/wkumari/deck-f68ee558-abac-4af2-9357-5669734d3445?token=hcQPCnnP#/9), [Demo site](https://www.superficialinjurymonkey.com/keywords/page.html), [Real Site](https://www.ietf.org/technologies/keywords/)
    * [Slides](https://slides.com/wkumari/document-tags-making-keywords-useful/scroll?token=gQPN2tZm&chrome=hidden)
 
-* Technology Deep Dives - future home? (Warren)
 * Side Meetings
   * Not-registered participants for side meetings (Laura)
   * Support for side meetings (Paul)
