@@ -1,0 +1,292 @@
+---
+title: IETF 120 Side Meetings
+description: 
+published: true
+date: 2024-06-27T13:01:35.173Z
+tags: 
+editor: markdown
+dateCreated: 2024-06-27T13:01:35.173Z
+---
+
+# PLEASE NOTE: THIS PAGE IS NOT YET LIVE. ANY ENTRIES MADE BEFORE FRIDAY 28 JUNE WILL BE DELETED. 
+
+# Side Meetings at IETF 120
+
+IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support and a WebEx meeting room for remote participants. That said, **side meetings are not part of the official IETF meeting agenda, are not approved or even reviewed by the IESG, and have no formal standing.**
+
+Rooms made available for side meetings - and this wiki page - are not to be used for closed [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
+
+This wiki page is used to book the side meeting rooms and share details of the topics, contact persons, dates and times, and other information. This page provides details for side meetings around  [IETF 120 Vancouver](https://www.ietf.org/how/meetings/120/).
+
+# Guidelines for public side meetings
+
+* **All public side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well)**; participants are expected to follow the usual IETF policies on personal conduct, IPR disclosure obligations, etc.
+
+* Public side meetings posted here are **open for any registered IETF participant** to attend.
+
+* **All** working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html). Working group business **must not** happen during side meetings.
+
+  * Side meetings *may* be used for design teams or other informal discussions related to working groups.
+
+* Side meetings **do not record formal attendance** ("blue sheets"). The organizers of side meetings may ask for participants' contact information; participants are free to withhold it.
+
+* Organizers must seek participants' **active consent for any side meeting that is desired to be recorded**.
+
+* Please **provide a calendar invitation** (an `.ics` file) for a side meeting by putting the link in the appropriate column below. **Please don't skip this!** Participants are surprisingly poor at correctly transcribing information from this wiki into their calendars, causing them to miss your side meeting.
+
+## IETF 120 special considerations
+
+
+
+* Side meeting dates and times should be listed in Vancouver local time, UTC-7. For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). 
+
+# Audio/visual provision for remote participation
+Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation.
+
+THE IETF provides a Chromebook with a preconfigured WebEx room in each side meeting room. The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
+
+The Webex info is as follows:
+
+* **Prince of Wales/Oxford (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/large_side_meeting_room_-_chromebook_instructions_119.pdf) for managing your side meeting. 
+
+* **Tennyson (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room-specific instructions](/small_side_meeting_room_-_chromebook_instructions_119.pdf) for managing your side meeting. 
+
+Other platforms including Zoom, Teams, etc. can also be used.
+
+
+# Two-step process for scheduling
+
+1. **Enter your meeting information** (time, room, meeting name, related IETF area, organizer contact, description, conferening link, calendar invite) into the [meeting information table](#meetinginfo) below. **Note this is not the room reservation. The actual room reservation is in step 2.**
+
+2. **Choose the day and time** that best accommodates your group and complete the room reservation by entering the meeting name in the tables further down. This is the actual room reservation. **If the meeting is not in the room tables, the room is not reserved!**
+
+Also, and this should be obvious, **please don't edit others' side meeting information** without their consent.  And please leave the markdown properly formatted (i.e., check the preview before saving); if you leave the page in a messy state, **you will lose your side meeting**.
+
+## Step 1: Meeting information {#meetinginfo}
+
+**Note this is not the room reservation. The actual room reservation happens in the tables in Step 2 below!**
+ 
+Please keep the tables sorted by meeting by time.
+
+### [MONDAY 22 July](#meeting-monday)
+
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
+|----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|    7:00-7:05 | M9 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+{.dense}
+
+
+### [TUESDAY 23 July](#meeting-tuesday)
+
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
+|----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+{.dense}
+
+### [WEDNESDAY 24 July](#meeting-wednesday)
+
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
+|---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+{.dense}
+
+### [THURSDAY 25 July](#meeting-thursday)
+
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
+|----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+{.dense}
+
+### [FRIDAY 26 July](#meeting-friday)
+
+| **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
+|----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+|     |  |   |   |   |   |   |  |
+{.dense}
+
+## Step 2: Room Reservation
+
+**Please put the name of your meeting into the tables below to reserve a room for your time slot.**
+
+"NOT AVAILABLE" in the tables below really means that a room is **not available** during those times. Removing these labels does *not* magically make a room available, so don't do that.
+
+### Room Info
+
+Room: **Tennyson** 
+Occupancy: up to 12 attendees
+Configuration: Boardroom
+Location: Mezzanine Level
+
+Room: **Prince of Wales/Oxford**
+Occupancy: up to 40 attendees
+Configuration: U-shape 
+Location: Plaza Level
+
+
+
+#### MONDAY 22 July {#room-monday}
+
+| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+|-------------|-------------------|--------------------| 
+| 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+| 08:00-08:30 |                   | **NOT AVAILABLE**  |   
+| 08:30-09:00 |                   | **NOT AVAILABLE**  |   
+| 09:00-09:30 |                   | **NOT AVAILABLE**  |   
+| 09:30-10:00 |                   | **NOT AVAILABLE**  |   
+| 10:00-10:30 |                   | **NOT AVAILABLE**  |   
+| 10:30-11:00 |                   |                    |   
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                   | **NOT AVAILABLE**  |  
+| 13:30-14:00 |                   | **NOT AVAILABLE**  | 
+| 14:00-14:30 |                   |                    |  
+| 14:30-15:00 |                   |                    | 
+| 15:00-15:30 |                   |                    |  
+| 15:30-16:00 |                   |                    |   
+| 16:00-16:30 |                   |                    |   
+| 16:30-17:00 |                   |                    |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |                   |                    |   
+| 18:30-19:00 |                   |                    |   
+| 19:00-19:30 |                   |                    |   
+| 19:30-20:00 |                   |                    |   
+| 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+{.dense}
+
+
+#### TUESDAY 23 July {#room-tuesday}
+
+| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+|-------------|-------------------|--------------------| 
+| 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+| 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 08:30-09:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:00-09:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:30-10:00 |                   | **NOT AVAILABLE**  |   
+| 10:00-10:30 |                   | **NOT AVAILABLE**  |   
+| 10:30-11:00 |                   |                    |   
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                   | **NOT AVAILABLE**  |  
+| 13:30-14:00 |                   | **NOT AVAILABLE**  | 
+| 14:00-14:30 |                   |                    |  
+| 14:30-15:00 |                   |                    | 
+| 15:00-15:30 |                   |                    |  
+| 15:30-16:00 |                   |                    |   
+| 16:00-16:30 |                   |                    |   
+| 16:30-17:00 |                   |                    |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |                   |                    |   
+| 18:30-19:00 |                   |                    |   
+| 19:00-19:30 |                   |                    |   
+| 19:30-20:00 |                   |                    |   
+| 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+{.dense}
+
+#### WEDNESDAY 24 July {#room-wednesday}
+
+| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+|-------------|-------------------|--------------------| 
+| 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+| 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 08:30-09:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:00-09:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:30-10:00 |                   | **NOT AVAILABLE**  |   
+| 10:00-10:30 |                   | **NOT AVAILABLE**  |   
+| 10:30-11:00 |                   |                    |   
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                   | **NOT AVAILABLE**  |  
+| 13:30-14:00 |                   | **NOT AVAILABLE**  | 
+| 14:00-14:30 |                   |                    |  
+| 14:30-15:00 |                   |                    | 
+| 15:00-15:30 |                   |                    |  
+| 15:30-16:00 |                   |                    |   
+| 16:00-16:30 |                   |                    |   
+| 16:30-17:00 |                   |                    |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |                   |                    |   
+| 18:30-19:00 |                   |                    |   
+| 19:00-19:30 |                   |                    |   
+| 19:30-20:00 |                   |                    |   
+| 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+{.dense}
+
+#### THURSDAY 25 July {#room-thursday}
+
+| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+|-------------|-------------------|--------------------| 
+| 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+| 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 08:30-09:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:00-09:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |    
+| 09:30-10:00 |                   | **NOT AVAILABLE**  |   
+| 10:00-10:30 |                   | **NOT AVAILABLE**  |   
+| 10:30-11:00 |                   |                    |   
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                   | **NOT AVAILABLE**  |  
+| 13:30-14:00 |                   | **NOT AVAILABLE**  | 
+| 14:00-14:30 |                   |                    |  
+| 14:30-15:00 |                   |                    | 
+| 15:00-15:30 |                   |                    |  
+| 15:30-16:00 |                   |                    |   
+| 16:00-16:30 |                   |                    |   
+| 16:30-17:00 |                   |                    |   
+| 17:00-17:30 |                   |                    |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |                   |                    |   
+| 18:30-19:00 |                   |                    |   
+| 19:00-19:30 |                   |                    |   
+| 19:30-20:00 |                   |                    |   
+| 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+{.dense}
+
+
+#### FRIDAY 26 July {#room-friday}
+
+| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+|-------------|-------------------|--------------------| 
+| 07:30-08:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+| 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 08:30-09:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:00-09:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:30-10:00 |                   | **NOT AVAILABLE**  |   
+| 10:00-10:30 |                   | **NOT AVAILABLE**  |   
+| 10:30-11:00 |                   |                    |   
+| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |  
+{.dense}
