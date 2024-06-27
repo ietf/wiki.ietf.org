@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-27T14:14:55.381Z
+date: 2024-06-27T14:19:54.249Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -149,9 +149,9 @@ Location: Plaza Level
 | **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** |   **NOT AVAILABLE** |  
-| 08:00-08:30 |                   |  |   
-| 08:30-09:00 |                   |  |   
-| 09:00-09:30 |                   | |   
+| 08:00-08:30 |        **NOT AVAILABLE**            | **NOT AVAILABLE**  |   
+| 08:30-09:00 |     **NOT AVAILABLE**               | **NOT AVAILABLE**  |   
+| 09:00-09:30 |    **NOT AVAILABLE**               |**NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |  |   
 | 10:00-10:30 |                   |   |   
 | 10:30-11:00 |                   |                    |   
@@ -220,7 +220,7 @@ Location: Plaza Level
 | 09:30-10:00 |                   |  |   
 | 10:00-10:30 |                   |  |   
 | 10:30-11:00 |                   |                    |   
-| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:00-11:30 |                   |   |   
 | 11:30-12:00 | **NOT AVAILABLE**                   | **NOT AVAILABLE**  |   
 | 12:00-12:30 |           **NOT AVAILABLE**         | **NOT AVAILABLE**  |   
 | 12:30-13:00 | **NOT AVAILABLE**                   | **NOT AVAILABLE**  |   
@@ -252,7 +252,7 @@ Location: Plaza Level
 | 09:30-10:00 |                   |  |   
 | 10:00-10:30 |                   |  |   
 | 10:30-11:00 |                   |                    |   
-| 11:00-11:30 |                   | **NOT AVAILABLE**  |   
+| 11:00-11:30 |                   |  |   
 | 11:30-12:00 |                   | **NOT AVAILABLE**  |   
 | 12:00-12:30 |                   | **NOT AVAILABLE**  |   
 | 12:30-13:00 |                   | **NOT AVAILABLE**  |   
