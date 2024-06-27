@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-27T14:57:46.322Z
+date: 2024-06-27T14:59:15.362Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -72,7 +72,7 @@ Please keep the tables sorted by meeting by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | Ics here |
+|    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
