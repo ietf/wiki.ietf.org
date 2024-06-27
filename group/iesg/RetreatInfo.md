@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-27T16:10:31.929Z
+date: 2024-06-27T16:10:45.928Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -96,7 +96,7 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 * Side Meetings
   * Not-registered participants for side meetings (Laura)
   * Support for side meetings (Paul)
-* Registry review lists (Paul)
+* IANA Registry review lists (Paul)
 
 * IETF 125 (Roman)
 
