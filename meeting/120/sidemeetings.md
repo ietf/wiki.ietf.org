@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T14:45:51.425Z
+date: 2024-06-28T14:59:37.946Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -82,8 +82,8 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+| 09:30-11:30    | Prince of Wales/Oxford | Attested TLS | SEC, IRTF  | Muhammad Usama Sardar  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | TBD  | TBD |
 | 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD  |
-|     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -183,10 +183,10 @@ Location: Third Floor
 | 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 08:30-09:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
 | 09:00-09:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
-| 09:30-10:00 |                   |                    |   
-| 10:00-10:30 |                   |                    |   
-| 10:30-11:00 |                   |                    |   
-| 11:00-11:30 |                   |                    |   
+| 09:30-10:00 |                   |  Attested TLS                  |   
+| 10:00-10:30 |                   |  Attested TLS                  |   
+| 10:30-11:00 |                   |  Attested TLS                  |   
+| 11:00-11:30 |                   |  Attested TLS                  |   
 | 11:30-12:00 |                   | **NOT AVAILABLE**  |   
 | 12:00-12:30 |                   | **NOT AVAILABLE**  |   
 | 12:30-13:00 |                   | **NOT AVAILABLE**  |   
