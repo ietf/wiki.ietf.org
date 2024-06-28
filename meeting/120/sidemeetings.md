@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T14:45:13.139Z
+date: 2024-06-28T14:45:51.425Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -276,10 +276,9 @@ Location: Third Floor
 
 | **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
-| 07:30-08:00 |  | **NOT AVAILABLE**  |  
-| 08:00-08:30 |  | **NOT AVAILABLE**  |   
-| 08:30-09:00 | | **NOT AVAILABLE**  |   
-| 09:00-09:30 |  | **NOT AVAILABLE**  |   
+| 08:00-08:30 |                   | eodir   |   
+| 08:30-09:00 |                   | eodir  |   
+| 09:00-09:30 |                   | eodir  |    
 | 09:30-10:00 |                   |   |   
 | 10:00-10:30 |                   |   |   
 | 10:30-11:00 |                   |                    |   
