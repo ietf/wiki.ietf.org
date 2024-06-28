@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-28T01:21:51.156Z
+date: 2024-06-28T01:27:10.835Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -474,6 +474,8 @@ This is a continuation of the work we did during the IETF 119 Hackathon.
 	Tom Pusateri <pusateri@bangj.com>
 - **Project Info**
 We will be building the open source conferene app and working on the calendaring feature plus other features you might want to add. Please bring a modern macOS machine with the latest XCode installed.
+- **Android Interest?**
+If anyone wants to work on an Android version, I would be interested in contributing expertise with the APIs but I do not have any Android programming experience. It would be good to have an identical Android app and if the intention is to look similar, you can use the same name.
 - **Repositories**
 	https://github.com/pusateri/IETFNext/
 ---
