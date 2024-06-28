@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-28T01:27:10.835Z
+date: 2024-06-28T19:24:31.950Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -192,8 +192,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ---
 
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
-- **Champions**
-  - Stuart Cheshire &lt;cheshire@apple.com&gt;
+- **Champion**
+Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Thread Overview**
 
@@ -202,6 +202,8 @@ For this Hackathon event, the goal is to introduce people to Thread and OpenThre
 Below is a partial list of project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
 
 - **Participants**
+Stuart Cheshire
+Jot Kailay
 
 - **Project Info**
 
