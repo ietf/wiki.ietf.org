@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-27T15:18:26.916Z
+date: 2024-06-28T09:34:43.858Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -22,7 +22,7 @@ This wiki page is used to book the side meeting rooms and share details of the t
 
 * **All public side meetings are subject to the [IETF Note Well](https://www.ietf.org/about/note-well)**; participants are expected to follow the usual IETF policies on personal conduct, IPR disclosure obligations, etc.
 
-* Public side meetings posted here are **open for any registered IETF participant** to attend.
+* Public side meetings posted here are **open for any registered IETF participant** to attend. **Remote side meeting attendees must also be registered for the meeting.**
 
 * **All** working group business needs to occur during scheduled working group sessions in ways that comply with [RFC 2026](https://www.rfc-editor.org/rfc/rfc2026.html)  and [RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html). Working group business **must not** happen during side meetings.
 
