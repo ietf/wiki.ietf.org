@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-28T08:05:37.385Z
+date: 2024-06-28T08:18:42.757Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -94,7 +94,7 @@ Remote link: http://meet.google.com/dvo-fkmt-bbj
 
 
 * Side Meetings
-  * Not-registered participants for side meetings (Laura)
+  * Not-registered participants for side meetings (Laura) ([slides](https://drive.google.com/file/d/1v6kxyEcsorOvnwpfUhtwirdUx3UcBTO7/view?usp=sharing))
   * Support for side meetings (Paul)
 * IANA Registry review lists (Paul)
 
