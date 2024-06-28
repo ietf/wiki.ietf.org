@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T17:10:09.659Z
+date: 2024-06-28T20:35:20.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -93,6 +93,8 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+| 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
+
 |  17:30-19:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
 | 17:30-18:30 | Tennyson | DNS Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 |     |  |   |   |   |   |   |  |
@@ -212,9 +214,9 @@ Location: Third Floor
 | **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 |  | **NOT AVAILABLE**  |  
-| 08:00-08:30 |  | **NOT AVAILABLE**  |   
-| 08:30-09:00 | | **NOT AVAILABLE**  |   
-| 09:00-09:30 | | **NOT AVAILABLE**  |   
+| 08:00-08:30 | Deepspace IP | **NOT AVAILABLE**  |   
+| 08:30-09:00 | Deepspace IP| **NOT AVAILABLE**  |   
+| 09:00-09:30 | Deepspace IP | **NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |  |   
 | 10:00-10:30 |                   |  |   
 | 10:30-11:00 |                   |                    |   
