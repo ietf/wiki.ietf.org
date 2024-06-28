@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T16:17:39.637Z
+date: 2024-06-28T16:33:32.138Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -72,6 +72,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | tbd | tbd |
+| 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -83,7 +84,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | Muhammad Usama Sardar  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | TBD  | TBD |
-| 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD  |
+
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -166,10 +167,10 @@ Location: Third Floor
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |                    |   
-| 19:00-19:30 |                   |                    |   
+| 17:30-18:00 |                   |    AIDC                |   
+| 18:00-18:30 |                   |    AIDC                |   
+| 18:30-19:00 |                   |    AIDC                |   
+| 19:00-19:30 |                   |    AIDC                |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
@@ -199,10 +200,10 @@ Location: Third Floor
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |     AIDC               |   
-| 18:00-18:30 |                   |     AIDC               |   
-| 18:30-19:00 |                   |     AIDC               |   
-| 19:00-19:30 |                   |     AIDC               |   
+| 17:30-18:00 |                   |                    |   
+| 18:00-18:30 |                   |                    |   
+| 18:30-19:00 |                   |                    |   
+| 19:00-19:30 |                   |                    |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
