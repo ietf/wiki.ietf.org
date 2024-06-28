@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T14:22:26.743Z
+date: 2024-06-28T14:25:03.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -179,19 +179,19 @@ Location: Third Floor
 
 | **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
-| 07:30-08:00 | | **NOT AVAILABLE**  |  
-| 08:00-08:30 |  | **NOT AVAILABLE**  |   
-| 08:30-09:00 |  | **NOT AVAILABLE**  |   
-| 09:00-09:30 |  | **NOT AVAILABLE**  |   
-| 09:30-10:00 |                   | |   
-| 10:00-10:30 |                   |   |   
+| 07:30-08:00 |**NOT AVAILABLE**  | **NOT AVAILABLE**  |  
+| 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 08:30-09:00 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:00-09:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
+| 09:30-10:00 |                   |                    |   
+| 10:00-10:30 |                   |                    |   
 | 10:30-11:00 |                   |                    |   
-| 11:00-11:30 |                   |   |   
+| 11:00-11:30 |                   |                    |   
 | 11:30-12:00 |                   | **NOT AVAILABLE**  |   
-| 12:00-12:30 |                  | **NOT AVAILABLE**  |   
-| 12:30-13:00 |                    | **NOT AVAILABLE**  |   
-| 13:00-13:30 |                   |  |  
-| 13:30-14:00 |                   |  | 
+| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 13:00-13:30 |                   |                    |  
+| 13:30-14:00 |                   |                    | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
