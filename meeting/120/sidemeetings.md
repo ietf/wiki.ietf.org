@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T15:00:47.990Z
+date: 2024-06-28T15:28:19.670Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -93,7 +93,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+|  17:30-19:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -231,9 +231,9 @@ Location: Third Floor
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                   |   
-| 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |                    |   
+| 17:30-18:00 |                   |   new-ssh-work     |   
+| 18:00-18:30 |                   |   new-ssh-work     |   
+| 18:30-19:00 |                   |   new-ssh-work     |   
 | 19:00-19:30 |                   |                    |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
