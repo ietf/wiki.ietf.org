@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T13:39:44.893Z
+date: 2024-06-28T14:01:34.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -71,7 +71,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
-|     |  |   |   |   |   |   |  |
+|  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -153,7 +153,7 @@ Location: Third Floor
 | 09:30-10:00 |                   |  |   
 | 10:00-10:30 |                   |   |   
 | 10:30-11:00 |                   |                    |   
-| 11:00-11:30 |                   |  |   
+| 11:00-11:30 | PQC DNSSEC Research |  |   
 | 11:30-12:00 |   **NOT AVAILABLE**                 | **NOT AVAILABLE**  |   
 | 12:00-12:30 |   **NOT AVAILABLE**                 | **NOT AVAILABLE**  |   
 | 12:30-13:00 |     **NOT AVAILABLE**               | **NOT AVAILABLE**  |   
