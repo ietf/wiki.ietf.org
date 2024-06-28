@@ -2,13 +2,11 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T09:34:43.858Z
+date: 2024-06-28T13:11:05.004Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
 ---
-
-# PLEASE NOTE: THIS PAGE IS NOT YET LIVE. ANY ENTRIES MADE BEFORE FRIDAY 28 JUNE WILL BE DELETED. 
 
 # Side Meetings at IETF 120
 
