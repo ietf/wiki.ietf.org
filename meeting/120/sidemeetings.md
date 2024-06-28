@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T16:33:32.138Z
+date: 2024-06-28T17:10:09.659Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -83,8 +83,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | Muhammad Usama Sardar  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | TBD  | TBD |
-
+| 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
