@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T13:11:05.004Z
+date: 2024-06-28T13:39:44.893Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-27T13:01:35.173Z
 
 # Side Meetings at IETF 120
 
-IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support and a WebEx meeting room for remote participants. That said, **side meetings are not part of the official IETF meeting agenda, are not approved or even reviewed by the IESG, and have no formal standing.**
+IETF participants often organize side meetings around [IETF meetings](https://www.ietf.org/how/meetings) to discuss topics of interest to some portion of the IETF community. The IETF supports [Public Side Meetings](https://www.ietf.org/how/meetings/side-meetings/) by setting aside rooms that can be booked by participants and by providing basic A/V support and a WebEx meeting room for remote participants. That said, **side meetings are not part of the official IETF meeting agenda, are not approved or even reviewed by the IESG, and have no formal standing. Side meetings should not be used to imply endorsement by the IETF.**
 
 Rooms made available for side meetings - and this wiki page - are not to be used for closed [Private Meetings](https://www.ietf.org/how/meetings/side-meetings/).
 
