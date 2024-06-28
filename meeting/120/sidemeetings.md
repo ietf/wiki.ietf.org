@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T14:01:34.167Z
+date: 2024-06-28T14:22:26.743Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -82,7 +82,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+| 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -199,10 +199,10 @@ Location: Third Floor
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |                    |   
-| 19:00-19:30 |                   |                    |   
+| 17:30-18:00 |                   |     AIDC               |   
+| 18:00-18:30 |                   |     AIDC               |   
+| 18:30-19:00 |                   |     AIDC               |   
+| 19:00-19:30 |                   |     AIDC               |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
@@ -231,7 +231,7 @@ Location: Third Floor
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
+| 17:30-18:00 |                   |                   |   
 | 18:00-18:30 |                   |                    |   
 | 18:30-19:00 |                   |                    |   
 | 19:00-19:30 |                   |                    |   
