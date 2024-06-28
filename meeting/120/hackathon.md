@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-27T18:53:32.185Z
+date: 2024-06-28T01:21:51.156Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -469,6 +469,13 @@ This is a continuation of the work we did during the IETF 119 Hackathon.
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
   
 
+### IETF Next Conference App
+- **Champions**
+	Tom Pusateri <pusateri@bangj.com>
+- **Project Info**
+We will be building the open source conferene app and working on the calendaring feature plus other features you might want to add. Please bring a modern macOS machine with the latest XCode installed.
+- **Repositories**
+	https://github.com/pusateri/IETFNext/
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
