@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-28T14:25:03.246Z
+date: 2024-06-28T14:45:13.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -114,7 +114,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+|8:15-9:15|Prince of Wales/Oxford|EODIR@120|GEN|eodir-chairs@ietf.org|Education & Outreach Directorate [Agenda & notes] | [TBC] |[To come] 
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
