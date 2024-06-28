@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2024-06-28T08:18:42.757Z
+date: 2024-06-28T13:08:54.987Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -100,7 +100,7 @@ Remote link: http://meet.google.com/dvo-fkmt-bbj
 
 * IETF 125 (Roman)
 
-* Action item review (Liz/all) ([doc](https://docs.google.com/document/d/1-eX_PLAud-mvgYg0Q_-dNMUcVmOKvXpOhMCQGONEaMM/edit?usp=sharing))
+* Action item review (Liz/all) 
 
 1200-1300: Lunch (in the Google facility) 
 
