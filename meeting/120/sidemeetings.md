@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-29T00:41:26.780Z
+date: 2024-06-29T02:22:19.156Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -84,7 +84,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
-|     |  |   |   |   |   |   |  |
+| 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf.chinatelecom.cn  | TBD  | TBD  | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -188,9 +188,9 @@ Location: Third Floor
 | 10:00-10:30 |                   |  Tutorial: Attested TLS                  |   
 | 10:30-11:00 |                   |  Tutorial: Attested TLS                  |   
 | 11:00-11:30 |                   |  Tutorial: Attested TLS                  |   
-| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
-| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
-| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |Telecom Cloud Services and operations                 | **NOT AVAILABLE**  |   
+| 12:00-12:30 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
+| 12:30-13:00 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
 | 13:00-13:30 |                   |                    |  
 | 13:30-14:00 |                   |                    | 
 | 14:00-14:30 |                   |                    |  
