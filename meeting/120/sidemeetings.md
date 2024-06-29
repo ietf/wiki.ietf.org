@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-29T00:33:48.180Z
+date: 2024-06-29T00:41:26.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -72,7 +72,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | tbd | tbd |
-| 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD  |
+| 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
