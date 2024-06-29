@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-29T11:13:24.221Z
+date: 2024-06-29T19:29:22.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -106,7 +106,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+|  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -269,7 +269,7 @@ Location: Third Floor
 | 18:00-18:30 |                   |                    |   
 | 18:30-19:00 |                   |                    |   
 | 19:00-19:30 |                   |                    |   
-| 19:30-20:00 |                   |                    |   
+| 19:30-20:00 | Public Interest Technology Group (PITG) |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
