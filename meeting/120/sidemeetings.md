@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T13:01:47.440Z
+date: 2024-07-01T17:21:19.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -110,6 +110,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
+|  11:30 - 13:00   | Prince of Wales/Oxford | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | -  | TBA  | TBA |
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
