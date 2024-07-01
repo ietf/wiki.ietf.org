@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T12:01:48.511Z
+date: 2024-07-01T12:08:22.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -200,10 +200,10 @@ Location: Third Floor
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |                   |                    |   
-| 16:00-16:30 |                   |                    |   
-| 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
+| 15:30-16:00 |                   | HP-WAN             |   
+| 16:00-16:30 |                   | HP-WAN             |   
+| 16:30-17:00 |                   | HP-WAN             |   
+| 17:00-17:30 |                   | HP-WAN             |   
 | 17:30-18:00 | NMOP incident terminology |                    |   
 | 18:00-18:30 | NMOP incident terminology |                    |   
 | 18:30-19:00 | NMOP incident terminology |     new-ssh-work   |   
