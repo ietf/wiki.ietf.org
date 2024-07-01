@@ -2,7 +2,7 @@
 title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2024-02-20T16:34:57.625Z
+date: 2024-07-01T07:49:10.305Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
@@ -132,6 +132,8 @@ Members have different areas of expertise.   These are listed here: [IotAreasOfE
 | Benjamin Kaduk | SEC AD, OpenSSL, Kerberos | (non-IoT) Industry |  |
 | Ari Keränen | CoAP / CoRE technologies, data models, semantics, IoT Device Lifecycle Management; T2TRG co-chair | Industrial, Telecom R&D |  |
 | Matthias Kovatsch | Architecture, Application Layer, Implementation, CoAP, Industrial IoT | Industrial R&D | W3C Web of Things co-chair |
+| Jouni Korhonen | CoAP, IPv6, protocol design, security. Cat-M1/NB-IOT/5G. Specifically IoT for MNO's device management. | Industry (cellular IoT modules and chipsets) | |
+
 | Suresh Krishnan | ex-INTAREA AD | Telecom & Industrial R&D | |
 | Eliot Lear | Device identity, onbarding, and protection, device/network interface | Networking Products | |
 | Ted Lemon       | Thread, Service Discovery, 802.15.4 mesh, constrained-to-homenet autodiscovery | Constrained network infrastructure | |
