@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T12:08:22.664Z
+date: 2024-07-01T12:58:56.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -71,6 +71,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
+|    8:00-9:30 | Tennyson | CCAMP T-NBI Discussion | RTG | daniel@olddog.co.uk | NBI for Transport Networks | https://github.com/ietf-ccamp-wg/transport-nbi | .ics here |
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | tbd | tbd |
 |  11:00-11:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
