@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T17:23:42.437Z
+date: 2024-07-01T22:21:23.700Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -98,6 +98,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
+| 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 17:30-18:30 | Tennyson | DNS Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 |     |  |   |   |   |   |   |  |
@@ -229,9 +230,9 @@ Location: Third Floor
 | 11:30-12:00 | **NOT AVAILABLE**                   | **NOT AVAILABLE**  |   
 | 12:00-12:30 |           **NOT AVAILABLE**         | **NOT AVAILABLE**  |   
 | 12:30-13:00 | **NOT AVAILABLE**                   | **NOT AVAILABLE**  |   
-| 13:00-13:30 |                   |  |  
-| 13:30-14:00 |                   |  | 
-| 14:00-14:30 |                   |                    |  
+| 13:00-13:30 |                   | UNS/UCA for a Global Least-Trust Information Space |  
+| 13:30-14:00 |                   | UNS/UCA for a Global Least-Trust Information Space | 
+| 14:00-14:30 |                   | UNS/UCA for a Global Least-Trust Information Space |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
 | 15:30-16:00 |                   |                    |   
