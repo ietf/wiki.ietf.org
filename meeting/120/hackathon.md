@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-28T19:24:31.950Z
+date: 2024-07-01T10:38:12.961Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -270,20 +270,6 @@ Demonstrate how the additional list improve the performance of the Data Mesh arc
 - **Repository**
 https://github.com/network-analytics/libyangpush
 https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
-
-----
-### Validating anydata in YANG Library context
-- **Champion(s)**
-Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
-
-- **Draft Specifications**
-https://datatracker.ietf.org/doc/html/draft-aelhassany-anydata-validation
-
-- **Project Info**
-Implementing and validating draft-aelhassany-anydata-validation document with running code.
-
-- **Repository**
-https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/120/Hackathon
 
 ----
 ### Antagonist (ANomaly TAGging ON hISTorical data)
