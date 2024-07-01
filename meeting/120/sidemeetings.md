@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T11:57:49.400Z
+date: 2024-07-01T12:01:48.511Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -87,8 +87,8 @@ Please keep the tables sorted by meeting, by time.
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf@chinatelecom.cn, hujy5@chinatelecom.cn  | Experiences and problems in Telecom Cloud Services deployment and operation  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+| 17:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |  18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
-| 18:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -204,11 +204,11 @@ Location: Third Floor
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |     new-ssh-work   |   
-| 19:00-19:30 |                   |     new-ssh-work   |   
-| 19:30-20:00 |                   |     new-ssh-work   |   
+| 17:30-18:00 | NMOP incident terminology |                    |   
+| 18:00-18:30 | NMOP incident terminology |                    |   
+| 18:30-19:00 | NMOP incident terminology |     new-ssh-work   |   
+| 19:00-19:30 | NMOP incident terminology |     new-ssh-work   |   
+| 19:30-20:00 | NMOP incident terminology |     new-ssh-work   |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
