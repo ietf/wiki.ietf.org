@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-06-29T22:38:05.761Z
+date: 2024-07-01T02:41:09.601Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -74,7 +74,7 @@ Please keep the tables sorted by meeting, by time.
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | tbd | tbd |
 |  11:00-11:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
-|     |  |   |   |   |   |   |  |
+| 15:00-17:30 |  | A post-IETF world DG  | None  | JFQueralt@TheIOFoundation.org  | Side discussion out of the HotRFC of the same name.  | TBC  | TBC |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -165,9 +165,9 @@ Location: Third Floor
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |                   |                    |   
-| 16:00-16:30 |                   |                    |   
-| 16:30-17:00 |                   |                    |   
+| 15:30-16:00 |  A post-IETF world DG  |                    |   
+| 16:00-16:30 |  A post-IETF world DG  |                    |   
+| 16:30-17:00 |  A post-IETF world DG  |                    |   
 | 17:00-17:30 |                   |                    |   
 | 17:30-18:00 |                   |    AIDC                |   
 | 18:00-18:30 |                   |    AIDC                |   
