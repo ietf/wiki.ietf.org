@@ -2,7 +2,7 @@
 title: IAB Retreat 2024
 description: 
 published: true
-date: 2024-06-25T08:08:04.402Z
+date: 2024-06-26T12:41:07.971Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T01:00:22.295Z
@@ -14,7 +14,7 @@ dateCreated: 2024-03-16T01:00:22.295Z
 
 * 24 June 2024: IAB 
 * 25 June 2024: IAB 
-* 26 June 2024: IAB + IESG. See [IESG Retreat Agenda](https://wiki.ietf.org/en/group/iesg/RetreatInfo)
+* 26 June 2024: IAB + IESG. 
 * 27 - 28 June 2024: IESG only.  See [IESG Retreat Agenda](https://wiki.ietf.org/en/group/iesg/RetreatInfo)
 
 ## Venue
@@ -103,6 +103,8 @@ Remote link: http://meet.google.com/eiz-ypew-kdu
 
 #### 16:30-17:00: IAB Decisions (David)
 
+[Slides](https://docs.google.com/presentation/d/1QQDfMmMVP4JQxCAqeK7ZEutV_wajTBq4CYyuCrj4Kmw/edit?usp=sharing)
+
 
 ## Joint IAB/IESG Topics
 
@@ -114,20 +116,28 @@ Webex: https://ietf.webex.com/meet/cmm
 
 #### Topics
 
-0900 - 1200: Morning Session
+0900 - 1230: Morning Session
+- Welcome (Tommy and Roman)
 - IAB's role in chartering/new work (Matthew)
+  - [Slide](https://docs.google.com/presentation/d/1xw8DXzGZFEQfnZqs91v1_-HSYOCObVcS/edit?usp=sharing&ouid=103201611620383383460&rtpof=true&sd=true)
+  
 - "New Work Help Desk" idea (Mirja)
 - IAB Visibility (esp in RTG area) (Dhruv)
 	- [Slide](https://docs.google.com/presentation/d/1vi7DGOywB9KJG3YtCB7kdcIj_yBFw8CvkpmhgYOE1ao/edit?usp=sharing)
 - Considerations in RFCs (Matthew/Alvaro)
 	- [Slides](https://docs.google.com/presentation/d/1XxZhxobIM1Fs__awadNpLmTX6ZJFIizhoTAvxA2mSBk/edit?usp=sharing)
+  - Match game activity (Liz)
 
-1200 - 1300: Lunch
+1230 - 1330: Lunch
 
-1300 - 1700: Afternoon Session 
+1330 - 1700: Afternoon Session 
+
 - Limited domains (Suresh)
-- Pipeline for appointments
-- IESG Statement on Cryptography (Paul/Deb)
+	- [Slides](https://docs.google.com/presentation/d/1aNBKOY26g5_b4tYv9gy1NSk9LCattMu9n0OKtQgzl38/edit?usp=drive_link)
+
+- Pipeline for appointments (Tommy)
+- IETF Cryptography (Paul/Deb)
+	- [Slides](https://docs.google.com/presentation/d/1B5uG_buiI_TCF07DwZxSdN4Xln5Ys1OVlSaAmDvPSII/edit#slide=id.p1)
 
 
 #### 1800-2100: Group dinner at [Dishoom Carnaby](https://www.dishoom.com/carnaby/) on [22 Kingly Street, London, W1B 5QP](https://www.google.com/maps/place/Dishoom+Carnaby/@51.5130915,-0.1417758,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d56e75df5f:0x46d397c759942b9f!8m2!3d51.5130882!4d-0.1395871?shorturl=1)

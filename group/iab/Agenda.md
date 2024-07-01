@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-06-24T16:50:55.798Z
+date: 2024-06-27T04:44:34.306Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-07-03 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-07-10 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-06-19. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-06-27. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -33,13 +33,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Upcoming Teleconferences 
 
--- 2024-06-24 - 2024-06-26: IAB Retreat --
-
-* 2024-07-03: IAB Business Meeting (Reserved)
 * 2024-07-10: IAB Business Meeting
     * Monthly Reports
     * Record CCG E-Vote Results
     * Executive Session: RSWG Chair Vote
+    * IAB Agenda at IETF 120
+    * BOF Coverage at IETF 120
 
 -- 2024-07-20 - 2024-07-26: IETF 120 Vancouver --
 

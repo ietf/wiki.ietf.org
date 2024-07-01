@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-06-24T22:07:08.391Z
+date: 2024-06-28T19:24:31.950Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -192,8 +192,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ---
 
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
-- **Champions**
-  - Stuart Cheshire &lt;cheshire@apple.com&gt;
+- **Champion**
+Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Thread Overview**
 
@@ -202,6 +202,8 @@ For this Hackathon event, the goal is to introduce people to Thread and OpenThre
 Below is a partial list of project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
 
 - **Participants**
+Stuart Cheshire
+Jot Kailay
 
 - **Project Info**
 
@@ -390,11 +392,6 @@ Marc Blanchet, marc.blanchet@viagenie.ca
 - **Project Info**
 [IP can be used in deep space networking](https://deepspaceip.github.io) with some profiling, especially  for QUIC. Work has progressed a lot in the recent months on which QUIC configuration parameters are needed for this use case. We used the Quinn QUIC stack (see [QUIC in space](https://github.com/marcblanchet/quic-in-space) and [QUIC workbench](https://github.com/aochagavia/quinn-workbench)) since pretty much all necessary configuration parameters were already available in the API. This hackathon is about externalizing the needed configuration parameters of other QUIC stacks in order to be usable in deep space. Depending on the participants interests, we will choose at the beginning which ones we want to modify and create PRs. Feel free to contact the organizers in advance for questions.
 
----
-
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-    
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ### Digital Map for ISIS and OSPF 
 - **Champions**
@@ -452,6 +449,42 @@ Greg White (g.white @ cablelabs.com)
 [RFC9331](https://www.rfc-editor.org/rfc/rfc9331.html)
 [RFC9332](https://www.rfc-editor.org/rfc/rfc9332.html)
 [draft-ietf-tcpm-accurate-ecn-28](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn/)
+
+
+### Rapid Automated Synchronization of DNS Delegation Data From Child to Parent
+- **Champions**
+  - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
+- **Project Info**
+Add new functionality to a working open source nameserver implementation (written in Go) to
+provide fully automatic management of delegation information between child zones (both
+DNSSEC-signed and unsigned) and parent zones.
+
+This is a continuation of the work we did during the IETF 119 Hackathon.
+
+    Detailed project suggestions: https://github.com/johanix/hackathon120/
+    
+- **Specifications**
+  - [draft-ietf-dnsop-generalized-notify](https://tools.ietf.org/html/draft-ietf-dnsop-generalized-notify)
+  - [draft-johani-dnsop-delegation-mgmt-via-ddns](https://tools.ietf.org/html/draft-johani-dnsop-delegation-mgmt-via-ddns)
+  
+- **Repositories**
+  Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
+  
+
+### IETF Next Conference App
+- **Champions**
+	Tom Pusateri <pusateri@bangj.com>
+- **Project Info**
+We will be building the open source conferene app and working on the calendaring feature plus other features you might want to add. Please bring a modern macOS machine with the latest XCode installed.
+- **Android Interest?**
+If anyone wants to work on an Android version, I would be interested in contributing expertise with the APIs but I do not have any Android programming experience. It would be good to have an identical Android app and if the intention is to look similar, you can use the same name.
+- **Repositories**
+	https://github.com/pusateri/IETFNext/
+---
+
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+    
+**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
 ### Your Project
