@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T12:59:51.358Z
+date: 2024-07-01T13:01:47.440Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -156,9 +156,9 @@ Location: Third Floor
 | 08:00-08:30 |        **NOT AVAILABLE**            | **NOT AVAILABLE**  |   
 | 08:30-09:00 |     **NOT AVAILABLE**               | **NOT AVAILABLE**  |   
 | 09:00-09:30 |    **NOT AVAILABLE**               |**NOT AVAILABLE**  |   
-| 09:30-10:00 |                   |  |   
-| 10:00-10:30 |                   |   |   
-| 10:30-11:00 |                   |                    |   
+| 09:30-10:00 |    CCAMP T-NBI    |  |   
+| 10:00-10:30 |    CCAMP T-NBI    |   |   
+| 10:30-11:00 |    CCAMP T-NBI    |                    |   
 | 11:00-11:30 | PQC DNSSEC Research | Happy Eyeballs WG Charter Proposal |   
 | 11:30-12:00 |   **NOT AVAILABLE**                 | **NOT AVAILABLE**  |   
 | 12:00-12:30 |   **NOT AVAILABLE**                 | **NOT AVAILABLE**  |   
