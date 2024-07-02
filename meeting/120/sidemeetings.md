@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T11:14:13.559Z
+date: 2024-07-02T11:18:43.079Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -195,10 +195,10 @@ Location: Third Floor
 | 11:30-12:00 |Telecom Cloud Services and operations                 | **NOT AVAILABLE**  |   
 | 12:00-12:30 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
 | 12:30-13:00 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
-| 13:00-13:30 |                   |                    |  
-| 13:30-14:00 |                   |                    | 
-| 14:00-14:30 |                   |                    |  
-| 14:30-15:00 |                   |                    | 
+| 13:00-13:30 |                   |    AI4NETWORK      |  
+| 13:30-14:00 |                   |    AI4NETWORK      | 
+| 14:00-14:30 |                   |    AI4NETWORK      |  
+| 14:30-15:00 |                   |    AI4NETWORK      | 
 | 15:00-15:30 |                   |                    |  
 | 15:30-16:00 |                   | HP-WAN             |   
 | 16:00-16:30 |                   | HP-WAN             |   
