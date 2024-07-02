@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T02:28:47.632Z
+date: 2024-07-02T10:18:41.197Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -87,7 +87,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf@chinatelecom.cn, hujy5@chinatelecom.cn  | Experiences and problems in Telecom Cloud Services deployment and operation  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
-| 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+| 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 17:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |  18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
 |     |  |   |   |   |   |   |  |
@@ -99,7 +99,7 @@ Please keep the tables sorted by meeting, by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
-| 15:30-17:30    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+
 | 17:30-18:30 | Tennyson | DNS Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 |     |  |   |   |   |   |   |  |
@@ -114,7 +114,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  11:30 - 13:00   | Prince of Wales/Oxford | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
-|     |  |   |   |   |   |   |  |
+| 18:30-20:00    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
