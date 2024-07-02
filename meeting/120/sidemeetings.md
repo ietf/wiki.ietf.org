@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T14:49:25.885Z
+date: 2024-07-02T21:50:01.701Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -88,7 +88,9 @@ Please keep the tables sorted by meeting, by time.
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf@chinatelecom.cn, hujy5@chinatelecom.cn  | Experiences and problems in Telecom Cloud Services deployment and operation  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 13:00-15:00    | Prince of Wales/Oxford |  AI4NETWORK | RTG  | d.king@lancaster.ac.uk  | Utilising AI in Network Operations |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+| 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+
 | 17:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |  18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
 |     |  |   |   |   |   |   |  |
@@ -198,9 +200,9 @@ Location: Third Floor
 | 12:00-12:30 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
 | 12:30-13:00 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
 | 13:00-13:30 |                   |    AI4NETWORK      |  
-| 13:30-14:00 |                   |    AI4NETWORK      | 
-| 14:00-14:30 |                   |    AI4NETWORK      |  
-| 14:30-15:00 |                   |    AI4NETWORK      | 
+| 13:30-14:00 |NETCONF private candidates|    AI4NETWORK      | 
+| 14:00-14:30 |NETCONF private candidates|    AI4NETWORK      |  
+| 14:30-15:00 |NETCONF private candidates|    AI4NETWORK      | 
 | 15:00-15:30 |                   |                    |  
 | 15:30-16:00 |                   | HP-WAN             |   
 | 16:00-16:30 |                   | HP-WAN             |   
