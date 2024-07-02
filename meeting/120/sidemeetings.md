@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T21:50:01.701Z
+date: 2024-07-02T21:50:47.458Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -90,7 +90,6 @@ Please keep the tables sorted by meeting, by time.
 | 13:00-15:00    | Prince of Wales/Oxford |  AI4NETWORK | RTG  | d.king@lancaster.ac.uk  | Utilising AI in Network Operations |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
-
 | 17:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 |  18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
 |     |  |   |   |   |   |   |  |
