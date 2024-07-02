@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T11:04:19.432Z
+date: 2024-07-02T11:13:37.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -269,10 +269,10 @@ Location: Third Floor
 | 16:30-17:00 |                   |                    |   
 | 17:00-17:30 |                   |                    |   
 | 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   |                    |   
-| 18:30-19:00 |                   |                    |   
-| 19:00-19:30 |                   |                    |   
-| 19:30-20:00 | Public Interest Technology Group (PITG) |                    |   
+| 18:00-18:30 |                   |Satellite Networking|   
+| 18:30-19:00 |                   |Satellite Networking|   
+| 19:00-19:30 |                   |Satellite Networking|   
+| 19:30-20:00 | Public Interest Technology Group (PITG)|Satellite Networking|   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
