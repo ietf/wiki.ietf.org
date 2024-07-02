@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T11:40:24.337Z
+date: 2024-07-02T14:18:29.482Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -109,7 +109,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|  11:30 - 13:00   | Prince of Wales/Oxford | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
+|  11:30 - 13:00   | Tennyson | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 | 18:30-20:00    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 |     |  |   |   |   |   |   |  |
@@ -257,9 +257,9 @@ Location: Third Floor
 | 10:00-10:30 |                   |  |   
 | 10:30-11:00 |                   |                    |   
 | 11:00-11:30 |                   |  |   
-| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
-| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
-| 12:30-13:00 |                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 | TPM Tutorial                  | **NOT AVAILABLE**  |   
+| 12:00-12:30 | TPM Tutorial                  | **NOT AVAILABLE**  |   
+| 12:30-13:00 | TPM Tutorial                  | **NOT AVAILABLE**  |   
 | 13:00-13:30 |                   | **NOT AVAILABLE**  |  
 | 13:30-14:00 |                   | **NOT AVAILABLE**  | 
 | 14:00-14:30 |                   |                    |  
