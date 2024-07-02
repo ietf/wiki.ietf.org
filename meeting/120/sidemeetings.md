@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-02T11:38:17.058Z
+date: 2024-07-02T11:40:07.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -76,7 +76,7 @@ Please keep the tables sorted by meeting, by time.
 |  11:00-11:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 | 15:00-17:30 |  | A post-IETF world DG  | None  | JFQueralt@TheIOFoundation.org  | Side discussion out of the HotRFC of the same name.  | TBC  | TBC |
-|17:30-18:30 |Tennyson | Standalone service ID |RTG| huang.guangping@zte.com.cn/Daniel Huang  |Standalone service ID for Routing network   |   | TBD |
+|17:30-18:30 |Tennyson | Standalone service ID |RTG| huang.guangping@zte.com.cn/Daniel Huang  |Standalone service ID for Routing network   |https://ietf.webex.com/meet/sidemeetingietf1   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
