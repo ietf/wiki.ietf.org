@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-01T10:38:12.961Z
+date: 2024-07-02T11:55:56.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -467,6 +467,32 @@ If anyone wants to work on an Android version, I would be interested in contribu
 - **Repositories**
 	https://github.com/pusateri/IETFNext/
 ---
+
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Mike Ounsworth (mike.ounsworth@entrust.com)
+Julien Prat (julien.prat@cryptonext-security.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/00/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-kemri/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-rfc4210bis/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cert-binding-for-multi-auth/01/
+https://www.ietf.org/id/draft-lamps-okubo-certdiscovery-00.html
+https://datatracker.ietf.org/doc/draft-bonnell-lamps-chameleon-certs/
+https://datatracker.ietf.org/doc/draft-gazdag-x509-hash-sigs/
+
+- **Project Info**
+Purpose is to make use of PQ in real world X.509 structures like keys, signatures, certificates and protocols. This will allow us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage in the real world.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
     
