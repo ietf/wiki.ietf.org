@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-01T22:21:23.700Z
+date: 2024-07-02T02:28:47.632Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -101,6 +101,7 @@ Please keep the tables sorted by meeting, by time.
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 17:30-18:30 | Tennyson | DNS Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf1 |  |
+| 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -235,10 +236,10 @@ Location: Third Floor
 | 14:00-14:30 |                   | UNS/UCA for a Global Least-Trust Information Space |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |                   |                    |   
-| 16:00-16:30 |                   |                    |   
-| 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
+| 15:30-16:00 |                   |   AIDC                 |   
+| 16:00-16:30 |                   |   AIDC                 |   
+| 16:30-17:00 |                   |   AIDC                 |   
+| 17:00-17:30 |                   |   AIDC                 |   
 | 17:30-18:00 | DNS Load Balancing  |                  |   
 | 18:00-18:30 | DNS Load Balancing |                   |   
 | 18:30-19:00 |                   |                    |   
