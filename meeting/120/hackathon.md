@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-02T12:04:17.432Z
+date: 2024-07-03T22:41:14.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 20 - 21 July 2024 (Saturday - Sunday)
 * :canada: **Where**: Hyatt Regency, Vancouver, Canada
-* :cityscape: Room: **TBD**
+* :cityscape: **Room**: Regency D/E/F
 {.grid-list}
 
 | Gold Running Code Sponsor  |  Bronze Running Code Sponsors | 
@@ -64,13 +64,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 22 July, Time: 18:30 - 19:30, Room: TBD
+  * Monday, 22 July, Time: 18:30 - 19:30, Room: Regency Hallway
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 22 July
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Tuesday - Friday, 22-26 July, Room: TBD
+  * Tuesday - Friday, 22-26 July, Room: Brighton/Kensington/Constable 
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
