@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+LAST-MODIFIED:20231222T233358Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240703T160341Z
+UID:1720022586607-47049@ical.marudot.com
+DTSTART;TZID=America/Vancouver:20240724T173000
+DTEND;TZID=America/Vancouver:20240724T190000
+SUMMARY:DNS Load Balancing - IETF 120 Side Meeting
+URL:https://ietf.webex.com/meet/ietfsidemeeting2
+DESCRIPTION:Topic: Improving DNS standards' support for geotargeting and load balancing \nRoom: Prince of Wales/Oxford\nWebEx Link: https://ietf.webex.com/meet/ietfsidemeeting2
+LOCATION:Prince of Wales/Oxford\, Hyatt Regency\, Vancouver\, BC\, CA
+END:VEVENT
+END:VCALENDAR
