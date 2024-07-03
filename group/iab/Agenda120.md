@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-06-19T20:05:10.316Z
+date: 2024-07-03T17:43:27.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -69,7 +69,7 @@ Webex: TBD
 
 > Agenda:
 > 
-> TBD
+> RASPRG Review (30 mins)
 
 
 ## Friday, 2024-07-26
