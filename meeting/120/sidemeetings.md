@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-03T08:42:20.817Z
+date: 2024-07-03T13:40:11.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -101,8 +101,8 @@ Please keep the tables sorted by meeting, by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
-| 17:30-18:30 | Tennyson | DNS Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu/Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
+| 17:30-19:00 | Prince of Wales/Oxford | DNS Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf2 |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -239,9 +239,9 @@ Location: Third Floor
 | 16:00-16:30 |                   |   AIDC                 |   
 | 16:30-17:00 |                   |   AIDC                 |   
 | 17:00-17:30 |                   |   AIDC                 |   
-| 17:30-18:00 | DNS Load Balancing  |                  |   
-| 18:00-18:30 | DNS Load Balancing |                   |   
-| 18:30-19:00 |                   |                    |   
+| 17:30-18:00 |                   | DNS Load Balancing |
+| 18:00-18:30 |                   | DNS Load Balancing |
+| 18:30-19:00 |                   | DNS Load Balancing |
 | 19:00-19:30 |                   |                    |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
