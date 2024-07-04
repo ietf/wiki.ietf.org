@@ -2,7 +2,7 @@
 title: IRSG Teleconference Minutes
 description: 
 published: true
-date: 2024-07-03T16:57:19.867Z
+date: 2024-07-04T11:26:21.857Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-27T17:52:35.934Z
 
 ## 2024
 * [2024-07-02](https://wiki.ietf.org/en/group/irtf/irsgminutes/2024-07-02)
-* OK from: 
+* OK from: Dave Oran
 * [2024-05-28](/group/irtf/irsgminutes/2024-05-28)
 * [2024-04-30](/group/irtf/irsgminutes/2024-04-30)
 * [2024-02-27](https://wiki.ietf.org/en/group/irtf/irsgminutes/2024-02-27)
