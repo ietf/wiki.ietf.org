@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-06-22T08:45:52.715Z
+date: 2024-07-04T13:23:40.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,6 +13,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|-|
 
 
 
@@ -20,10 +21,10 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|-|
 |Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started|
-|WGLC|draft-ietf-pce-pcep-color|Dhruv|Ongoing|
-|Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Waiting for authors to post a new version|
-|WG Adoption|draft-li-pce-controlled-id-space|Dhruv|-|
+|Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv|Waiting for authors to make an update|
+|Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Pending on Dhruv|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
@@ -39,6 +40,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|WG Adoption|draft-li-pce-controlled-id-space|Dhruv|comments to be handled|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
 |Shepherd Review|draft-ietf-pce-stateful-pce-optional|Dhruv|Waiting for authors to handle comments|
