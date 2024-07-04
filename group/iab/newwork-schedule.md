@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2024-07-04T02:16:07.269Z
+date: 2024-07-04T18:09:42.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -18,5 +18,5 @@ Please put your name in this table for slots where you might be available. This 
 |Lunch      |               	  |           | Mirja        |              | **N/A**    |
 |Session II | Mirja             |           |              | **iabopen** |  (Tommy)      |
 |Session III| Mirja   	        |           |              |              |             |
-|Session IV | (Tommy)     	  |           | **Plenary** | (Mirja), Tommy      | **N/A**    |
-|Session  V | **N/A**      	   | **N/A**  | **Plenary** | (Mirja)      | **N/A**    |
+|Session IV | (Tommy)     	  |           | **Plenary** | (Mirja), Tommy, Dhruv      | **N/A**    |
+|Session  V | **N/A**      	   | **N/A**  | **Plenary** | (Mirja), Dhruv      | **N/A**    |
