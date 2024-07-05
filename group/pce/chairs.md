@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-07-04T13:23:40.319Z
+date: 2024-07-05T16:50:30.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -23,8 +23,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 |WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|-|
 |Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started|
-|Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv|Waiting for authors to make an update|
-|Shepherd Tracking|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Pending on Dhruv|
+|Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv/Andrew|Waiting for authors to make an update|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
@@ -40,6 +39,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|WGLC|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Needs Managability Section|
 |WG Adoption|draft-li-pce-controlled-id-space|Dhruv|comments to be handled|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
 |Adoption|draft-dhodylee-pce-pcep-ls|Julien|-|
