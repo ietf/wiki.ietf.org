@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-07-04T13:25:33.741Z
+date: 2024-07-05T11:41:52.375Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -96,7 +96,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Shepherd review and RtgDir early review done. Waiting for authors to update | - | Dhruv | 
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Waiting for authors to handle the WGLC comments | - | Dhruv |
 
 
@@ -108,6 +107,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Submitted to IESG for Publication on 2023-12-30 | IDNITS - 1 issue. Early dir reviews, some nits. | Dhruv |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | RtgDir early review completed | Dhruv |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | RtgDir,SecDir, Yang doctor early review done | Julien |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | RtgDir early review completed; Asked to add a Managebility Consideration Section | Dhruv | 
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
