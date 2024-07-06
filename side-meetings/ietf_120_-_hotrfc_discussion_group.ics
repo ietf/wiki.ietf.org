@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IETF 120 - HotRFC Discussion Group
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTART:20240722T223000Z
+DTEND:20240723T000000Z
+DTSTAMP:20240703T055632Z
+UID:6p08j9937pm53cjsb9mgaiom9v@google.com
+CREATED:20240703T055615Z
+DESCRIPTION:<b>In-person Participation:</b><br>Tennyson room<br><br><b>Remo
+ te Participation:</b><br><a href="https://www.google.com/url?q=https://ietf
+ .webex.com/meet/sidemeetingietf1&amp\;sa=D&amp\;source=calendar&amp\;ust=17
+ 20418002302364&amp\;usg=AOvVaw1JbLSnFQb9YjMGdyozeQ0s" target="_blank">https
+ ://ietf.webex.com/meet/sidemeetingietf1</a>
+LAST-MODIFIED:20240703T055615Z
+LOCATION:Hyatt Regency Vancouver\, 655 Burrard St\, Vancouver\, BC V6C 2R7\
+ , Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#IETF IETF 120 Side Event: A post-IETF world DG 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
