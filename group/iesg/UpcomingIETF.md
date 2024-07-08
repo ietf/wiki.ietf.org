@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-05T21:09:21.794Z
+date: 2024-07-08T17:36:39.079Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -27,11 +27,11 @@ Please add any topics for either IESG only meetings at IETF 120, or the joint me
 
 **Code Sprint**
 
-Saturday, July 20, 2024 - 10:00-18:00 - Room: TBD
+Saturday, July 20, 2024 - 10:00-18:00 - Room: Brighton/Constable, 4th floor
 
 **Hackathon**
 
-Saturday, July 20, 2024 - 09:30-21:00 - Room: TBD
+Saturday, July 20, 2024 - 09:30-21:00 - Room: Regency D/E/F, 3rd floor
  
 
 **AMS-IETF Leadership Venue Tour**
@@ -49,21 +49,22 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 - **Hackathon**
 
-  - Sunday, July 21, 2024 - 09:30-16:00 - Room: TBD
+  - Sunday, July 21, 2024 - 09:30-16:00 - Room: Regency D/E/F, 3rd floor
   
-- **New Participant's Quick Connections** Sunday, July 21, 2024 - 16:00-17:00 - Room: TBD
-- **IETF 118 Welcome Reception** Sunday, July 21, 2024 - 17:00-19:00 - Room: TBD
-- **HotRFC Lightning Talks** Sunday, July 21, 2024 - 18:00-20:00 - Room: TBD
+- **New Participant's Quick Connections** Sunday, July 21, 2024 - 16:00-17:00 - Room: Plaza C, 2nd floor
+- **IETF 120 Welcome Reception** Sunday, July 21, 2024 - 17:00-19:00 - Room: Regency A/B/C, 3rd floor
+- **HotRFC Lightning Talks** Sunday, July 21, 2024 - 18:00-20:00 - Room: Georgia B, 2nd floor
 
-### IESG Meeting - Time: TBD Room: TBD
+### IESG Meeting - Time:  09:30-11:30 Room: Prince of Wales/Oxford, 3rd floor
 
-* Meetecho: 
-* Onsite Tool: 
+* Meetecho: TBD
+* Onsite Tool: TBD
 
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: Prince of Wales/Oxford, 3rd floor
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: Prince of Wales/Oxford, 3rd floor
+
 * Meetecho: 
 * Onsite Tool: 
 
@@ -71,27 +72,30 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >2. Area walkthrough for hot topics (45 min)
 
 
-### IAB Meeting - TBD Room: TBD
+### IAB Meeting - 14:00-16:00 Room: Prince of Wales/Oxford, 3rd floor
 
 
 
 ## Monday, July 22, 2024
 
-TBD based on ALLDISPATCH. IESG generally has a breakfast meeting.
+### IESG Breakfast: 08:00-09:20   Room: Prince of Wales/Oxford, 3rd floor
 
 
+* Meetecho:  
+* Onsite Tool:  
 ## Tuesday, July 23, 2024
+
 
 No IESG breakfast. IAB has a breakfast meeting.
   
 ## Wednesday, July 24, 2024
-### IESG Meeting Time: 08:00-09:20  Room: TBD
+### IESG Meeting Time: 08:00-09:20  Room: Prince of Wales/Oxford, 3rd floor
 
 * Meetecho:  
 * Onsite Tool:   
 
 
-### IETF 120 Plenary TIME: TBD Room: TBD
+### IETF 120 Plenary TIME: 17:30-19:30 Room: Regency A/B/C/D
 
 ## Thursday, July 25, 2024
 
@@ -99,7 +103,7 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 ## Friday, July 26, 2024
 
-### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: TBD
+### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Prince of Wales/Oxford, 3rd floor
 
 * Meetecho:  
 * Onsite Tool:  
