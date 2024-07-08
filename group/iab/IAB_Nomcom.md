@@ -157,5 +157,3 @@ The IAB IETF NomCom liaison should be prepared to provide periodic updates on th
 &nbsp;
 
 ---
-
-*The content of this page was last updated on 2020-12-10. It was migrated from the old IAB wiki on 2023-12-05.*
