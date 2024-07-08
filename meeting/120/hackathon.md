@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-05T16:42:13.072Z
+date: 2024-07-08T23:47:12.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -457,7 +457,7 @@ This is a continuation of the work we did during the IETF 119 Hackathon.
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
   
 
-### IETF Next Conference App
+### IETF Next Conference App - Saturday Only
 - **Champions**
 	Tom Pusateri <pusateri@bangj.com>
 - **Project Info**
