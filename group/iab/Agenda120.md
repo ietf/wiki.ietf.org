@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-03T17:43:27.385Z
+date: 2024-07-08T21:52:49.502Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -21,16 +21,16 @@ Please join us for a quick tour around the conference center. We will end with a
 
 ## Sunday, 2024-07-21
 
-**1145-1215 PDT: IAB/IESG Lunch (Room: TBD)**
+**1145-1215 PDT: IAB/IESG Lunch (Room: Prince of Wales/Oxford)**
 
-**1215-1345 PDT: IAB/IESG Meeting (Room: TBD)** 
+**1215-1345 PDT: IAB/IESG Meeting (Room: Prince of Wales/Oxford)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 * Meetecho: TBD
 * Onsite Tool: TBD
 
-**1400-1600 PDT: IAB Business Meeting (Room: TBD)** 
+**1400-1600 PDT: IAB Business Meeting (Room: Prince of Wales/Oxford)** 
 
 * Meetecho: TBD
 * Onsite Tool: TBD
@@ -41,13 +41,13 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Monday, 2024-07-22
 
-**1130-1300 PDT: IETF-3GPP Coordination (Room: TBD)**
+**1130-1300 PDT: IETF-3GPP Coordination (Room: English Bay)**
 
 Webex: TBD
 
 ## Tuesday, 2024-07-23
 
-**0800-0920 PDT: IAB Business Meeting (Room: TBD)**
+**0800-0920 PDT: IAB Business Meeting (Room: English Bay)**
 
 * Meetecho: TBD
 * Onsite Tool: TBD
@@ -62,7 +62,7 @@ Webex: TBD
 
 ## Thursday, 2024-07-25
 
-**0800-0920 PDT: IAB Business Meeting (Room: TBD)**
+**0800-0920 PDT: IAB Business Meeting (Room: English Bay)**
 
 * Meetecho: TBD
 * Onsite Tool: TBD
@@ -74,7 +74,7 @@ Webex: TBD
 
 ## Friday, 2024-07-26
 
-**1130-1300 PDT: IAB/IESG Lunch + Meeting (Room: TBD)** 
+**1130-1300 PDT: IAB/IESG Lunch + Meeting (Room: Prince of Wales/Oxford)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
