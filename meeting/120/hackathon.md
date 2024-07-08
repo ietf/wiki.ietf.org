@@ -473,6 +473,7 @@ If anyone wants to work on an Android version, I would be interested in contribu
 John Gray (john.gray@entrust.com)
 Mike Ounsworth (mike.ounsworth@entrust.com)
 Julien Prat (julien.prat@cryptonext-security.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
@@ -491,6 +492,8 @@ Purpose is to make use of PQ in real world X.509 structures like keys, signature
 A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
 
 For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 120, we plan to setup and test the use of hybrid certificates for the TLSv1.3 protocol. The goal of the experiment is to explore different options for efficient use of hybrid certificates' and their multiple signature keys in the TLS protocol. We are looking for collaborations and ideas that can be then brought forward within the IETF and other standardization bodies (e.g., X9, ISO, etc.).
 
 ----
 
