@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-09T02:09:22.050Z
+date: 2024-07-09T11:36:21.707Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -114,6 +114,7 @@ Please keep the tables sorted by meeting, by time.
 |  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | TBA  | TBA |
 |  10:00-11:00   | Tennyson | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
 |  11:30 - 13:00   | Tennyson | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
+|  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com | Discussing upcoming problem and challenges in interconnecting DC for AI. | | |
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 | 18:30-20:00    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 |     |  |   |   |   |   |   |  |
@@ -272,9 +273,9 @@ Location: Third Floor
 | 15:30-16:00 |                   |                    |   
 | 16:00-16:30 |                   |                    |   
 | 16:30-17:00 |                   |                    |   
-| 17:00-17:30 |                   |                    |   
-| 17:30-18:00 |                   |                    |   
-| 18:00-18:30 |                   ||   
+| 17:00-17:30 |                   | Inter-DC AI Problems and Challenges |   
+| 17:30-18:00 |                   | Inter-DC AI Problems and Challenges |   
+| 18:00-18:30 |                   | Inter-DC AI Problems and Challenges |   
 | 18:30-19:00 |                   |Satellite Networking|   
 | 19:00-19:30 |                   |Satellite Networking|   
 | 19:30-20:00 | Public Interest Technology Group (PITG)|Satellite Networking|   
