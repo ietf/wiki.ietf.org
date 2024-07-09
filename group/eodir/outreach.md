@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-04-27T04:50:47.218Z
+date: 2024-07-09T15:41:42.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|July 2024|[APIGA2024](https://community.icann.org/display/GSEAPAC/APIGA+2024)|Students|knowledge sharing|[Slides](https://docs.google.com/presentation/d/1KOnmNk2jVuC0BuRrI1R7QTiIMQvd66igJHAmSsuZeWE/edit?usp=sharing)|
 |April 2024|Open Source Summit|Open Source|-|Dave Thaler|[Video](https://www.youtube.com/watch?v=rudTOHXHZQo) [Slide](https://1drv.ms/b/s!Aqj-Bj9PNivcn-xw_IVnf1tmRce0EA?e=vKjpqK)| 
 |March 2024|Workshop on IPv6 Deployment at NITK, India|Students, Campus Network Operators|*all levels*|Nalini Elkins, Mike Ackermann, Dhruv Dhody|Workshop included a session on IETF|
 |Feb 2024|[APRICOT2024](https://2024.apricot.net/program/program#/day/8/innovation-1/)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|[Slide](https://2024.apricot.net/assets/files/APIC378/the-ietf-roundup_1709093554.pdf)|
