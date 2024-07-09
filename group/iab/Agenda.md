@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-07-05T19:06:14.395Z
+date: 2024-07-09T21:04:40.288Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-07-10 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-07-05. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-07-09. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -33,6 +33,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 *  2024-05-29 business meeting - (submitted 2024-05-29)
 *  2024-06-05 business meeting - (submitted 2024-06-05)
+*  2024-06-19 executive session - (submitted 2024-06-19)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -79,8 +80,8 @@ On Hold:
 
 In Progress:
 
-*  2024-05-15: Wes Hardaker and Suresh Krishnan to follow up on a 
-    proposal for a workshop on network management.
+*  2024-05-15: Dhruv Dhody, Wes Hardaker, Suresh Krishnan and Qin Wu 
+    to follow up on a proposal for a workshop on network management.
 
 *  2024-05-29: Suresh Krishnan, Dhruv Dhody, and Matthew Bocci to 
     review the FCC Notice of Proposed Rulemaking PS Docket Nos. 24-146 
@@ -102,7 +103,7 @@ In Progress:
     checklist for liaison relationships.
 
 *  2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
-    IGF 2025.
+    APRICOT 2025/APNIC 59.
 
 *  2024-06-24: Cindy Morgan to draft text for the wiki about how to 
     request IAB sessions for the agenda, including making sure there 
