@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-09T12:54:02.115Z
+date: 2024-07-09T20:44:02.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -126,7 +126,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |8:15-9:15|Prince of Wales/Oxford|EODIR@120|GEN|eodir-chairs@ietf.org|Education & Outreach Directorate [Agenda & notes] | [TBC] |[To come] 
-|     |  |   |   |   |   |   |  |
+| 9:00-10:30 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |  TBA | TBA |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -289,9 +289,9 @@ Location: Third Floor
 |-------------|-------------------|--------------------| 
 | 08:00-08:30 |                   | eodir   |   
 | 08:30-09:00 |                   | eodir  |   
-| 09:00-09:30 |                   | eodir  |    
-| 09:30-10:00 |                   |   |   
-| 10:00-10:30 |                   |   |   
+| 09:00-09:30 | Confidential Workloads | eodir  |    
+| 09:30-10:00 | Confidential Workloads |   |   
+| 10:00-10:30 | Confidential Workloads |   |   
 | 10:30-11:00 |                   |                    |   
 | 11:00-11:30 |                   |**NOT AVAILABLE**   |   
 | 11:30-12:00 |                   | **NOT AVAILABLE**  |   
