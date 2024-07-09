@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-08T21:52:49.502Z
+date: 2024-07-09T21:56:25.881Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -15,9 +15,11 @@ dateCreated: 2024-06-19T20:05:10.316Z
 
 ## Saturday, 2024-07-20
 
-**TBD: AMS-IETF Leadership Venue Tour + Happy Hour**
+**1630-1800: AMS-IETF Leadership Venue Tour + Happy Hour**
 
-Please join us for a quick tour around the conference center. We will end with a happy hour.
+Please join us for a quick tour around the conference center. We will end with a happy hour. 
+Meeting point: 16:30, Georgia Foyer (2nd floor)
+Happy hour: 16:45 on, Grouse (34th floor)
 
 ## Sunday, 2024-07-21
 
@@ -27,13 +29,13 @@ Please join us for a quick tour around the conference center. We will end with a
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
 **1400-1600 PDT: IAB Business Meeting (Room: Prince of Wales/Oxford)** 
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
 > Agenda:
 > 
@@ -43,14 +45,15 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 **1130-1300 PDT: IETF-3GPP Coordination (Room: English Bay)**
 
-Webex: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1003
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1003
 
 ## Tuesday, 2024-07-23
 
 **0800-0920 PDT: IAB Business Meeting (Room: English Bay)**
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1004
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1004
 
 > Agenda: 
 > 
@@ -64,8 +67,8 @@ Webex: TBD
 
 **0800-0920 PDT: IAB Business Meeting (Room: English Bay)**
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1006
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1006
 
 > Agenda:
 > 
@@ -78,10 +81,10 @@ Webex: TBD
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1007
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1007
 
-**1715-1815 PDT: Farewell Reception (Room: TBD)**
+**1715-1815 PDT: Farewell Reception (Room: Regency C/D)**
 
 
 
