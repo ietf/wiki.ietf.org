@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-09T19:48:53.801Z
+date: 2024-07-09T22:09:09.803Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -21,7 +21,7 @@ Please add any topics for either IESG only meetings at IETF 120, or the joint me
 - Meeting with IETF Counsel (Roman, Jay) -> Wednesday
 
 # IESG Activities
-*All times are in PDT (UTC -7).* Go [here see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
+*All times are in PDT (UTC -7).* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
 
 ## Saturday, July 20, 2024
 
@@ -36,13 +36,13 @@ Saturday, July 20, 2024 - 09:30-21:00 - Room: Regency D/E/F, 3rd floor
 
 **AMS-IETF Leadership Venue Tour**
 
-Time: TBD
-Location: TBD
+Time: 16:30 
+Location: Meet in Georgia Foyer (2nd Floor)
 
 **AMS-IETF Leadership Happy Hour**
 
-Time: After venue tour
-Location: TBD
+Time: After venue tour -18:00
+Location: Grouse (34th Floor)
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Sunday, July 21, 2024
@@ -57,16 +57,16 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### IESG Meeting - Time:  09:30-11:30 Room: Prince of Wales/Oxford, 3rd floor
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Prince of Wales/Oxford, 3rd floor
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: Prince of Wales/Oxford, 3rd floor
 
-* Meetecho: 
-* Onsite Tool: 
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
@@ -81,8 +81,9 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 ### IESG Breakfast: 08:00-09:20   Room: Prince of Wales/Oxford, 3rd floor
 
 
-* Meetecho:  
-* Onsite Tool:  
+* Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1002
+* Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1002
+ 
 ## Tuesday, July 23, 2024
 
 
@@ -91,12 +92,12 @@ No IESG breakfast. IAB has a breakfast meeting.
 ## Wednesday, July 24, 2024
 ### IESG Meeting Time: 08:00-09:20  Room: Prince of Wales/Oxford, 3rd floor
 
-* Meetecho:  
-* Onsite Tool:   
-
+* Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1005
+* Onsite Tool:   https://meetings.conf.meetecho.com/onsite120/?session=1005
+&nbsp;
 
 ### IETF 120 Plenary TIME: 17:30-19:30 Room: Regency A/B/C/D
-
+&nbsp;
 ## Thursday, July 25, 2024
 
 No IESG breakfast. IAB has a breakfast meeting.
@@ -105,8 +106,8 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 ### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Prince of Wales/Oxford, 3rd floor
 
-* Meetecho:  
-* Onsite Tool:  
+* Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1007
+* Onsite Tool:  https://meetings.conf.meetecho.com/onsite120/?session=1007
 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
