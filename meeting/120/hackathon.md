@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-09T17:17:43.006Z
+date: 2024-07-09T17:45:35.786Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -505,6 +505,33 @@ Rob Sliwa (rsliwa@somos.com)
 https://datatracker.ietf.org/doc/draft-wendt-stir-certificate-transparency/
 - **Project Info**
 Our project focuses on improving Secure Telephone Identity (STI) by using Certificate Transparency (CT) to detect mis-issued certificates. Participants will adapt CT frameworks for telephone numbers, ensuring secure and authentic communications through advanced transparency protocols and mechanisms.
+----
+
+### Responsible DNS Integration
+- **Champions**
+Swapneel Sheth (ssheth@verisign.com)
+Andrew Kaizer (akaizer@verisign.com)
+Bryan Newbold (bryan@blueskyweb.xyz)
+Nick Johnson (nick@ens.domains)
+
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-sheth-dns-integration/
+
+- **Project Info**
+Domain names have long been used as identifiers in applications ranging from TELNET and FTP to email services to web browsing.  Recently, blockchain applications, decentralized protocols, and social media platforms have also emerged as new use cases for DNS domain names.  How a DNS domain name is enabled for use as an identifier in each of these applications is known as a DNS integration.
+
+  
+ - At this hackathon you will learn and discuss
+
+    -   responsible DNS integration and why it is important.
+    -   published measurement studies on responsible DNS integrations.
+    -   recently published - https://datatracker.ietf.org/doc/draft-sheth-dns-integration/ on the motivations of using DNS domain names in new applications and the challenges of achieving a responsible DNS integration.
+    -   the criteria that constitute a responsible DNS integration. What are we missing?
+    -   two application developers integrating DNS domains and their lessons learnt.
+    -   any feedback before adoption by a working group?
+
+We welcome anyone interested about the draft to stop by and chat with available authors from Bluesky, Ethereum Name Service, and Verisign who are working on responsible DNS integrations.
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
