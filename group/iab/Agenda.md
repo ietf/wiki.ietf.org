@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-07-09T21:04:40.288Z
+date: 2024-07-09T21:35:18.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -136,7 +136,7 @@ In Progress:
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
 *  draft-iab-privacy-partitioning-05
-    Sent to the RFC Editor: RFC-EDITOR
+    Sent to the RFC Editor: AUTH48
     IAB Shepherd: David Schinazi
 
 *  draft-iab-bias-workshop-report-02
@@ -173,8 +173,14 @@ In Progress:
 
 ### 2. Monthly Written Reports and Other Brief Updates - 10 mins (Public)
 
+*  IANA - Written report received
+*  IRTF Chair - Written report received 
+*  EODir Liaison
+*  Liaison Coordinators
+*  Outreach Coordinator
+*  Tools Liaison
 
-### 3. BOF Coverage for IETF 120 (All) - 5 mins (Public)
+### 3. BOF and PRG Coverage for IETF 120 (All) - 5 mins (Public)
 
   Wiki: https://wiki.ietf.org/group/iab/Bof120
 
@@ -213,6 +219,7 @@ In Progress:
   Goal: Vote
 
 
+### 10. Executive Session: ICANN Board Liaison Appointment
 
 ## Upcoming Teleconferences 
 
