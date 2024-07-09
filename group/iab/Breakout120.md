@@ -2,7 +2,7 @@
 title: Breakout120
 description: IAB Breakout Room Reservations at IETF 120
 published: true
-date: 2024-07-09T19:16:16.035Z
+date: 2024-07-09T22:38:56.621Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:07:34.646Z
@@ -22,23 +22,24 @@ For food & beverage service requests, please include:
 
 ## Monday 
 
-* Lunch: IETF-3GPP Coordination
+* 1130-1300: IETF-3GPP Coordination
 
 ## Tuesday 
 
-* Breakfast: IAB Business Meeting
-* Lunch: Unavailable (see Cindy or Paige for questions)
+* 0800-0920: : IAB Business Meeting
+* 1130-1300: Unavailable (see Cindy or Paige for questions)
 
 
 ## Wednesday 
 
-* Breakfast: E-impact informal meeting (Suresh)
+* 0800-0920: : E-impact informal meeting (Suresh)
 
 ## Thursday 
 
-* Breakfast: IAB Business Meeting
-* Lunch: Liaison Coordinators Office Hours
+* 0800-0920: IAB Business Meeting
+* 1130-1300: Liaison Coordinators Office Hours
 
 ## Friday 
 
+* 0800-0920: EDM (Tentative)
 * Not available after 1300
