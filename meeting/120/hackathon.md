@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-08T23:47:12.729Z
+date: 2024-07-09T17:17:43.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -495,6 +495,16 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 At IETF 120, we plan to setup and test the use of hybrid certificates for the TLSv1.3 protocol. The goal of the experiment is to explore different options for efficient use of hybrid certificates' and their multiple signature keys in the TLS protocol. We are looking for collaborations and ideas that can be then brought forward within the IETF and other standardization bodies (e.g., X9, ISO, etc.).
 
+---
+### STIR Certificate Transparency
+- **Champions**
+Chris Wendt (cwendt@somos.com)
+Jeff Smith (jsmith@somos.com)
+Rob Sliwa (rsliwa@somos.com)
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-wendt-stir-certificate-transparency/
+- **Project Info**
+Our project focuses on improving Secure Telephone Identity (STI) by using Certificate Transparency (CT) to detect mis-issued certificates. Participants will adapt CT frameworks for telephone numbers, ensuring secure and authentic communications through advanced transparency protocols and mechanisms.
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
