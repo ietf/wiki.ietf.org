@@ -41,7 +41,7 @@ for the IAB chair to determine whether it will be held open or secret.
   disqualified and recused members).
 
 - Open ballots can be submitted either by email to the list of voting members
-  or as voice votes during an IAB teleconference.
+  or as verbal votes during an IAB teleconference.
 
 - Secret ballots are only shared with the Executive Director and Chair.
 
@@ -95,7 +95,7 @@ typically follow the following process:
 
 ## Alternative Process
 
-The IAB can use an alternative voting process. In order to do that, the IAB
+The IAB can use alternative voting processes. In order to do that, the IAB
 chair must announce the alternative voting rules to the IAB at least one week
 before the voting takes place. If any voting member of the IAB objects to the
 alternative voting rules, the resolution of the conflict will be addressed
