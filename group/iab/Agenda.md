@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-07-09T21:36:54.214Z
+date: 2024-07-10T14:21:12.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -209,17 +209,20 @@ In Progress:
   Goal: Vote to approve as Informational IAB-stream document
 
 
-### 8. Executive Session: IRTF Chair Appointment
+### 8. IAB Decisions - 5 mins (David) 
+
+
+### 9. Executive Session: IRTF Chair Appointment
 
   Goal: Approve call for nominations text
 
 
-### 9. Executive Session: RSWG Chair Appointment
+### 10. Executive Session: RSWG Chair Appointment
 
   Goal: Vote
 
 
-### 10. Executive Session: ICANN Board Liaison Appointment
+### 11. Executive Session: ICANN Board Liaison Appointment
 
 ## Upcoming Teleconferences 
 
