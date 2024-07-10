@@ -91,14 +91,6 @@ candidates for vacant IESG positions:
   Nominations Committee would then need to undertake a subsequent nominations
   process for the IAB casual vacancy.
 
-- RFC 8713 does not mandate the criteria by which the IAB evaluates the IESG
-  slate for confirmation. The most common criterion is whether the IAB thinks
-  the NomCom process was followed correctly. However, other criteria are
-  possible; for example, a voting IAB member can decline to confirm a candidate
-  if they believe that the candidate's confirmation will be harmful to the
-  functioning of the IESG or IETF, or if they feel that the candidate's views
-  go against the IAB's technical direction for the Internet.
-
 ## Material to be provided in support of a Candidate
 In undertaking due diligence in its role as the confirming body for nominations to the Internet Engineering Steering Group the IAB would like to advise all Nominating Committees of its expectations in terms of provided material.
 
