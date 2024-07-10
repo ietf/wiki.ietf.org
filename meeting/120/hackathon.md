@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-09T17:45:35.786Z
+date: 2024-07-10T23:15:51.056Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -358,7 +358,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
     Use [python_vcon.Vcon.decrypt method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md#decrypt)
 
     - slack notification
-    Use the approach described in: [How to Send a Message to a Slack Channel Using Python](https://www.datacamp.com/tutorial/how-to-send-slack-messages-with-python) to implement a [VconProcessor plugin](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins) to send slack messages in a simalar way to how the [SendEmail VconProcessor](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/py_vcon_server/processor/README.md#py_vcon_serverprocessorbuiltinsend_emailsendemail) works.
+    Use the approach described in: [How to Send a Message to a Slack Channel Using Python](https://www.datacamp.com/tutorial/how-to-send-slack-messages-with-python) to implement a [VconProcessor plugin](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins) to send slack messages in a similar way to how the [SendEmail VconProcessor](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/py_vcon_server/processor/README.md#py_vcon_serverprocessorbuiltinsend_emailsendemail) works.
 
 ### Testing congestion control algorithms
 - **Champions**
