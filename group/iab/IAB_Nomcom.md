@@ -85,11 +85,10 @@ candidates for vacant IESG positions:
   discussion for that specific confirmaiton. The vote is split to allow these
   recused members to participate in the vote to confirm other IESG positions.
 
-- In the event that a sitting IAB member was nominated to replace the casual
-  vacancy in the IESG, the IETF Executive Director would be informed of the
-  casual vacancy only upon confirmation of the initial nomination, and the
-  Nominations Committee would then need to undertake a subsequent nominations
-  process for the IAB casual vacancy.
+- In the event that a sitting IAB member was nominated to replace a mid-term
+  vacancy in the IESG, then, upon confirmation of the initial nomination, the
+  Nominations Committee would need to undertake a subsequent nominations
+  process for the IAB mid-term vacancy.
 
 ## Material to be provided in support of a Candidate
 In undertaking due diligence in its role as the confirming body for nominations to the Internet Engineering Steering Group the IAB would like to advise all Nominating Committees of its expectations in terms of provided material.
