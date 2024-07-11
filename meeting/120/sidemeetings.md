@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-10T19:59:54.453Z
+date: 2024-07-11T10:03:09.885Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -111,7 +111,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | TBA  | TBA |
+|  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | https://ietf.webex.com/meet/sidemeetingietf2  | TBA |
 |  10:00-11:00   | Tennyson | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
 |  11:30 - 13:00   | Tennyson | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
 |  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | Discussing upcoming problem and challenges in interconnecting DC for AI. | | |
