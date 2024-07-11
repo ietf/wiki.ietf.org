@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-09T22:09:09.803Z
+date: 2024-07-11T14:13:59.194Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -17,6 +17,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 Please add any topics for either IESG only meetings at IETF 120, or the joint meetings with the IAB.
 
 - The new ADs could use a primer on how to deal with IPRs (Mahesh) -> Informal or Retreat
+- RFC7120-bis discussion (Sabrina) -> Monday
 - Plenary slide review (All) -> Wednesday
 - Meeting with IETF Counsel (Roman, Jay) -> Wednesday
 
