@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-11T10:03:09.885Z
+date: 2024-07-11T18:02:48.085Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -103,6 +103,7 @@ Please keep the tables sorted by meeting, by time.
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu/Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
+| 15:30-17:30    | Tennyson | I2INF | OPS | Jaehoon Paul Jeong | Interface to In-Network Functions  | https://us02web.zoom.us/j/87173908036?pwd=lIjbDFlLFizXP8QpNPydOayrlLMdKQ.1  | TBD |
 | 17:30-19:00 | Prince of Wales/Oxford | DNS-Based Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf2 | [Link](/side-meetings/dns-load-balancing-120-v2.ics) |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -238,10 +239,10 @@ Location: Third Floor
 | 14:00-14:30 |                   | UNS/UCA for a Global Least-Trust Information Space |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |                   |   AIDC                 |   
-| 16:00-16:30 |                   |   AIDC                 |   
-| 16:30-17:00 |                   |   AIDC                 |   
-| 17:00-17:30 |                   |   AIDC                 |   
+| 15:30-16:00 | I2INF             |   AIDC                 |   
+| 16:00-16:30 | I2INF             |   AIDC                 |   
+| 16:30-17:00 | I2INF             |   AIDC                 |   
+| 17:00-17:30 | I2INF             |   AIDC                 |   
 | 17:30-18:00 |                   | DNS Load Balancing |
 | 18:00-18:30 |                   | DNS Load Balancing |
 | 18:30-19:00 |                   | DNS Load Balancing |
