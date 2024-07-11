@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-10T23:15:51.056Z
+date: 2024-07-11T14:42:20.220Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -533,6 +533,15 @@ Domain names have long been used as identifiers in applications ranging from TEL
 We welcome anyone interested about the draft to stop by and chat with available authors from Bluesky, Ethereum Name Service, and Verisign who are working on responsible DNS integrations.
 
 ----
+
+### Multipath QUIC Interop
+- **Champions**
+Marcus Ihlar marcus.ihlar@ericsson.com
+- **Project Info**
+Interop testing of Multipath QUIC implementations - see https://github.com/quicwg/multipath/wiki/Implementation-Draft-Interop
+ 
+----
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
     
