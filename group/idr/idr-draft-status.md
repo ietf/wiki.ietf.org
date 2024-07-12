@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-07-12T19:20:49.468Z
+date: 2024-07-12T19:21:15.620Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -145,7 +145,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 |  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |  New draft  |  Chair Review + Adoption        |  TBD    | TBD | TBD | 
 {.dense}
 
-## Flow Specification v2 drafts
+## Flow Specification v2 drafts (IDR drafts needing revision) 
 | draft | Shepherd |   status |  Next step |  ETA   |  IPR Check   | Time | 
 |---------------------------------|----------------|---------------|-------------------|--------|--------------|
 |  draft-ietf-idr-flowspec-l2vpn  |  Susan Hares   |  FSv2 review | TBD  |  TBD  |  TBD  |
