@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-07-12T19:08:33.243Z
+date: 2024-07-12T19:20:49.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -121,8 +121,6 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 (none) 
 {.dense}
 
-
-
 ## Adoption process - upcoming Adoptions
 
 | draft                                        | Shepherd      |  Status                 |  Next step  |  Adoption complete   |  Post-Adoption   |   ETA       |
@@ -131,7 +129,8 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | Pre-Adoption Review | Adoption call | TBD | TBD | await -05 | 
 | draft-lin-idr-sr-epe-over-l2bundle-06 | Susan Hares | Pre-Adoption Review | Adoption call | TBD | TBD | await version -07 | 
 | draft-dmc-idr-flowspec-tn-aware-mobility | Susan Hares | FSv2 review | Adoption call | TBD | TBD | await FSv2 ip basic ok |  
-| draft-cui-idr-content-filter-flowspec-01 | IDR Chairs | FSv2 review  | Adoption call | TBD | TBD |  await FSv2 ip basic ok  | 
+| draft-cui-idr-content-filter-flowspec-01 | IDR Chairs | FSv2 review  | Adoption call | TBD | TBD |  await FSv2 ip basic ok  |
+| draft-geng-idr-flowspec-sav | IDR Chairs | FSv2 review | Adoption call | TBD | TBD | awaits FSv2 ip basic ok |  
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | TBD | 
 | draft-uttaro-idr-bgp-oad | Susan Hares | Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
 | draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |  
