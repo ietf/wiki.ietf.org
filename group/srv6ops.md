@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-07-08T13:05:20.028Z
+date: 2024-07-12T14:24:08.856Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -47,16 +47,7 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 - What does it mean to have an SRv6 agent in virtual incloud router?
 - Not much meat! 
 
-## Chair's Corner
 
-### Yet to start
-
-### Ongoing
-
-### Completed 
-- Handle the mailing list subscription and next step for the bof list
-- Send a welcome email
-- Setup Github and move the charter repository 
 
 ### IETF Meeting Session Request 
 * Number of Sessions: 1
