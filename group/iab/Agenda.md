@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-07-10T16:37:12.680Z
+date: 2024-07-12T16:18:12.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -84,7 +84,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2024-09-11: IAB Business Meeting (Reserved)
 * 2024-09-18: IAB Business Meeting
     * Monthly Reports
-* 2024-09-25: IAB Technical Discussion (Reserved)
+* 2024-09-25: IAB Technical Discussion: Censorship Measurements (Roya Ensafi)
 * 2024-10-02: IAB Business Meeting
 * 2024-10-09: IAB Business Meeting (Reserved)
 * 2024-10-16: IAB Business Meeting
@@ -129,8 +129,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
 * Hate Speech - https://zakird.com/papers/abuse_sok.pdf (Mirja)
-* sustainability related technical discussion (Suresh) - possibly 2024-07-03
-* Censorship Mesasurements - Royal Ensafi (Mirja) - rescheduled
+* sustainability related technical discussion (Suresh) - after 120
+
 
 ## Planned IRTF RG Reviews 
 
