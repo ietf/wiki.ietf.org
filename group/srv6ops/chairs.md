@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-07-12T14:22:53.552Z
+date: 2024-07-12T14:23:42.742Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -32,3 +32,15 @@ Possible speakers
 Possible speakers
 
 * ?? - Jio
+
+
+## Chair's Tracker
+
+### Yet to start
+
+### Ongoing
+
+### Completed 
+- Handle the mailing list subscription and next step for the bof list
+- Send a welcome email
+- Setup Github and move the charter repository 
