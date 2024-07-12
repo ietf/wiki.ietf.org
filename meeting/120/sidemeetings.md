@@ -115,6 +115,7 @@ Please keep the tables sorted by meeting, by time.
 |  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | https://ietf.webex.com/meet/sidemeetingietf2  | TBA |
 |  10:00-11:00   | Tennyson | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
 |  11:30 - 13:00   | Tennyson | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
+|  14:00 - 15:00   | Tennyson | [ALFA 2.0 - the Abbreviated Language for Authorization](https://davidjbrossard.github.io/alfa-authorization-language/draft-brossard-alfa-authz.html) |  - | David Brossard <david.brossard@gmail.com>  | Introducing an updated authorization language for fine-grained access control.  | TBA  | TBA |
 |  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | Discussing upcoming problem and challenges in interconnecting DC for AI. | | |
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 | 18:30-20:00    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
