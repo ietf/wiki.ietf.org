@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-07-12T10:50:52.428Z
+date: 2024-07-12T10:52:34.206Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -35,7 +35,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
 |AD Review|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
 |AD Review|draft-ietf-pce-pcep-yang|Submitted on 2024-05-22|
-|AD Review|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-06-25|
+|AD Review|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
