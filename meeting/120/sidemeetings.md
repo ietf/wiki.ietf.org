@@ -269,8 +269,8 @@ Location: Third Floor
 | 12:30-13:00 | TPM Tutorial                  | **NOT AVAILABLE**  |   
 | 13:00-13:30 |                   | **NOT AVAILABLE**  |  
 | 13:30-14:00 |                   | **NOT AVAILABLE**  | 
-| 14:00-14:30 |                   |                    |  
-| 14:30-15:00 |                   |                    | 
+| 14:00-14:30 | ALFA 2.0 AuthZ Language                  |                    |  
+| 14:30-15:00 | ALFA 2.0 AuthZ Language                  |                    | 
 | 15:00-15:30 |                   |                    |  
 | 15:30-16:00 |                   |                    |   
 | 16:00-16:30 |                   |                    |   
