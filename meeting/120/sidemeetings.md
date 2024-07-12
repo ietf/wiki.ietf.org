@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-12T10:55:05.150Z
+date: 2024-07-12T22:30:27.671Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -74,7 +74,6 @@ Please keep the tables sorted by meeting, by time.
 |    9:30-11:00 | Tennyson | CCAMP T-NBI Discussion | RTG | daniel@olddog.co.uk | NBI for Transport Networks | https://github.com/ietf-ccamp-wg/transport-nbi | .ics here |
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | https://ietf.webex.com/meet/sidemeetingietf1 | [pqc-dnssec-research.ics](/side-meetings/pqc-dnssec-research.ics) |
 |  16:30-17:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
-| 17:30-19:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu / Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 | 15:00-17:30 | Tennyson | A post-IETF world DG  | HotRFC  | Jean F. Quearlt JFQueralt@TheIOFoundation.org  | Side discussion out of the HotRFC of the same name.  | https://ietf.webex.com/meet/sidemeetingietf1  | [Calendar ICS](/side-meetings/ietf_120_-_hotrfc_discussion_group.ics) |
 |17:30-19:00 |Tennyson | Standalone service ID |RTG|Daniel Huang/Feng Yang huang.guangping@zte.com.cn / yangfeng@chinamobile.com|Standalone service ID for Routing network   |https://ietf.webex.com/meet/sidemeetingietf1   |  |
 |     |  |   |   |   |   |   |  |
@@ -178,10 +177,10 @@ Location: Third Floor
 | 16:00-16:30 |  A post-IETF world DG  |                    |   
 | 16:30-17:00 |  A post-IETF world DG  | Happy Eyeballs WG Charter Proposal |   
 | 17:00-17:30 |                   | Happy Eyeballs WG Charter Proposal|   
-| 17:30-18:00 |Standalone service ID|    AIDC                |   
-| 18:00-18:30 |Standalone service ID|    AIDC                |   
-| 18:30-19:00 |Standalone Service ID|    AIDC                |   
-| 19:00-19:30 |                   |    AIDC                |   
+| 17:30-18:00 |Standalone service ID|                    |   
+| 18:00-18:30 |Standalone service ID|                    |   
+| 18:30-19:00 |Standalone Service ID|                    |   
+| 19:00-19:30 |                   |                   |   
 | 19:30-20:00 |                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
