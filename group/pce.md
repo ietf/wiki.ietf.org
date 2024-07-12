@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-07-08T14:11:53.277Z
+date: 2024-07-12T12:57:56.793Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -45,10 +45,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
-| draft-ietf-pce-entropy-label-position | - | Was Dhruv |
-|draft-ietf-pce-circuit-style-pcep-extensions|-|Was Dhruv| 
-| [draft-dhodylee-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-dhodylee-pce-pcep-ls) | - | Was Julien |
-| [draft-li-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-li-pce-controlled-id-space) | Pending comments received during adoption | Was Dhruv |
+| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) | - | Was Julien |
+| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | Pending comments received during adoption | Was Dhruv |
 
 
 
@@ -67,6 +65,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-ietf-pce-pcep-srv6-yang |  -04 posted on 2023-09-11 | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | -02 posted on 2024-02-04 | Adoption comments from Adrian are handled |
 |draft-ietf-pce-bier-te | -00 posted on 2023-11-04 | - |
+| draft-ietf-pce-entropy-label-position | - | - |
+|draft-ietf-pce-circuit-style-pcep-extensions|-|-| 
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
