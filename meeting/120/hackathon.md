@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-11T14:42:20.220Z
+date: 2024-07-12T06:59:03.660Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -532,6 +532,14 @@ Domain names have long been used as identifiers in applications ranging from TEL
 
 We welcome anyone interested about the draft to stop by and chat with available authors from Bluesky, Ethereum Name Service, and Verisign who are working on responsible DNS integrations.
 
+
+### Interface to In-Network Functions (I2INF) Project
+- **Champion(s)**
+  - Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project(s)**
+  - Demonstrate Interface to In-Network Functions (I2INF).
+  - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
+  
 ----
 
 ### Multipath QUIC Interop
