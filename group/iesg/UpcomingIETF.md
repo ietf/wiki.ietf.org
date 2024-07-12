@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-12T16:34:11.742Z
+date: 2024-07-12T17:16:55.028Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -123,7 +123,7 @@ Location: Dover, 4th floor ([floor plan](https://datatracker.ietf.org/meeting/12
 ## Sunday, 21 July 2024
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
-* 1000-1130 - Roman's Meetings (may shrink time box)
+* 0900-1030 - Roman's Meetings (may shrink time box)
 * 1400-1500 - WIT AD Office hours
 
 ## Monday, 22 July 2024
