@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-07-12T19:21:15.620Z
+date: 2024-07-12T19:54:04.612Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -134,15 +134,16 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | TBD | 
 | draft-uttaro-idr-bgp-oad | Susan Hares | Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
 | draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |  
+{.dense}
 
-## In WG Adoption Process (hold WG chair review/edits )
+## In WG Adoption Process (on hold )
 |  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
 |  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
-|  draft-haas-idr-diffract  |  Susan Hares   |  held for revision    |  uploaded WG doc  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
-|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | Chair Review + IPR check  |  IPR check  |  TBD    |  TBD             |  11/10 to 11/24   |
-|  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |  New draft  |  Chair Review + Adoption        |  TBD    | TBD | TBD | 
+|  draft-haas-idr-diffract  |  Susan Hares   |  author hold  |  TBD  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
+|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD    |  TBD | TBD   |
+|  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |   Chair Review hold | Adoption  |  TBD  | TBD | TBD | 
 {.dense}
 
 ## Flow Specification v2 drafts (IDR drafts needing revision) 
