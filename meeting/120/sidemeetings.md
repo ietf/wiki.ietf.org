@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T19:55:28.746Z
+date: 2024-07-15T19:56:38.288Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -183,8 +183,8 @@ Location: Third Floor
 | 17:30-18:00 |Standalone service ID|                    |   
 | 18:00-18:30 |Standalone service ID|                    |   
 | 18:30-19:00 |Standalone Service ID|                    |   
-| 19:00-19:30 |                   |                   |   
-| 19:30-20:00 |                   |                    |   
+| 19:00-19:30 |Pluggables                   |                   |   
+| 19:30-20:00 |Pluggables                   |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
