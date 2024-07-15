@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-07-12T09:00:11.401Z
+date: 2024-07-15T05:49:23.477Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,6 +52,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |---|---|---|---|---|---|
 |July 2024|[HKSU](https://hksu.ee.nfu.edu.tw/wp/ietfcourse2024/%e8%ad%b0%e7%a8%8b/) IETF Course|Students|knowledge sharing|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/15emi_D0xJdxFcMeUaX9wsTVvBfQg5C_HWW0emhqj928/edit?usp=sharing)|
 |July 2024|[APIGA2024](https://community.icann.org/display/GSEAPAC/APIGA+2024)|Students|knowledge sharing|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/1KOnmNk2jVuC0BuRrI1R7QTiIMQvd66igJHAmSsuZeWE/edit?usp=sharing)|
+|June 2024|IDR WG @ [Nanog91](https://nanog.org/events/nanog-91/agenda/)|Network Operators|*all levels*|Susan Hares & Jeffrey Haas|[Video](https://youtu.be/dvmIe2hqfEw)[Slide](https://storage.googleapis.com/site-media-prod/meetings/NANOG91/5153/20240608_Hares_Ietf_Wg_For_v1.pdf)|
 |April 2024|Open Source Summit|Open Source|-|Dave Thaler|[Video](https://www.youtube.com/watch?v=rudTOHXHZQo) [Slide](https://1drv.ms/b/s!Aqj-Bj9PNivcn-xw_IVnf1tmRce0EA?e=vKjpqK)| 
 |March 2024|Workshop on IPv6 Deployment at NITK, India|Students, Campus Network Operators|*all levels*|Nalini Elkins, Mike Ackermann, Dhruv Dhody|Workshop included a session on IETF|
 |Feb 2024|[APRICOT2024](https://2024.apricot.net/program/program#/day/8/innovation-1/)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|[Slide](https://2024.apricot.net/assets/files/APIC378/the-ietf-roundup_1709093554.pdf)|
