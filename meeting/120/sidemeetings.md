@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T17:34:11.239Z
+date: 2024-07-15T17:40:12.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -261,10 +261,10 @@ Location: Third Floor
 | 08:00-08:30 | **NOT AVAILABLE** |   |   
 | 08:30-09:00 | **NOT AVAILABLE** |   |   
 | 09:00-09:30 | **NOT AVAILABLE** | Attested TLS |    
-| 09:30-10:00 |                   | Attested TLS |   
-| 10:00-10:30 |                   | ID Alignment |   
-| 10:30-11:00 |                   | ID Alignment |   
-| 11:00-11:30 |                   |  |   
+| 09:30-10:00 |   **NOT AVAILABLE**                 | Attested TLS |   
+| 10:00-10:30 |     **NOT AVAILABLE**               | ID Alignment |   
+| 10:30-11:00 |    **NOT AVAILABLE**                | ID Alignment |   
+| 11:00-11:30 |    **NOT AVAILABLE**                |  |   
 | 11:30-12:00 | TPM Tutorial                  | **NOT AVAILABLE**  |   
 | 12:00-12:30 | TPM Tutorial                  | **NOT AVAILABLE**  |   
 | 12:30-13:00 | TPM Tutorial                  | **NOT AVAILABLE**  |   
