@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T11:52:54.179Z
+date: 2024-07-15T11:54:02.131Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -126,7 +126,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|8:15-9:15|Prince of Wales/Oxford|EODIR@120|GEN|eodir-chairs@ietf.org|Education & Outreach Directorate [Agenda & notes] | [Zoom](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09&omn=84949522179) |[eodir-ietf120.ics]([eodir_meeting_during_ietf_120.ics](/side-meetings/eodir_meeting_during_ietf_120.ics))
+|8:15-9:15|Prince of Wales/Oxford|EODIR@120|GEN|eodir-chairs@ietf.org|Education & Outreach Directorate [Agenda & notes] | [Zoom](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09&omn=84949522179) |[eodir_ietf_120.ics](/side-meetings/eodir_meeting_during_ietf_120.ics))
 | 9:00-10:30 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |   https://ietf.webex.com/meet/sidemeetingietf1 | [ietf120_side_meeting_-_trusted_and_confidential_workloads.ics](/side-meetings/ietf120_side_meeting_-_trusted_and_confidential_workloads.ics) |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
