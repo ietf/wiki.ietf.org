@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-12T22:30:27.671Z
+date: 2024-07-15T10:36:42.732Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -71,7 +71,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
-|    9:30-11:00 | Tennyson | CCAMP T-NBI Discussion | RTG | daniel@olddog.co.uk | NBI for Transport Networks | https://github.com/ietf-ccamp-wg/transport-nbi | .ics here |
+|    9:30-11:00 | Tennyson | CCAMP T-NBI Discussion | RTG | daniel@olddog.co.uk | NBI for Transport Networks https://github.com/ietf-ccamp-wg/transport-nbi | https://ietf.webex.com/meet/sidemeetingietf1 | .ics here |
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | https://ietf.webex.com/meet/sidemeetingietf1 | [pqc-dnssec-research.ics](/side-meetings/pqc-dnssec-research.ics) |
 |  16:30-17:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:00-17:30 | Tennyson | A post-IETF world DG  | HotRFC  | Jean F. Quearlt JFQueralt@TheIOFoundation.org  | Side discussion out of the HotRFC of the same name.  | https://ietf.webex.com/meet/sidemeetingietf1  | [Calendar ICS](/side-meetings/ietf_120_-_hotrfc_discussion_group.ics) |
