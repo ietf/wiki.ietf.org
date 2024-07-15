@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T19:40:25.236Z
+date: 2024-07-15T19:55:28.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -76,6 +76,7 @@ Please keep the tables sorted by meeting, by time.
 |  16:30-17:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:00-17:30 | Tennyson | A post-IETF world DG  | HotRFC  | Jean F. Quearlt JFQueralt@TheIOFoundation.org  | Side discussion out of the HotRFC of the same name.  | https://ietf.webex.com/meet/sidemeetingietf1  | [Calendar ICS](/side-meetings/ietf_120_-_hotrfc_discussion_group.ics) |
 |17:30-19:00 |Tennyson | Standalone service ID |RTG|Daniel Huang/Feng Yang huang.guangping@zte.com.cn / yangfeng@chinamobile.com|Standalone service ID for Routing network   |https://ietf.webex.com/meet/sidemeetingietf1   |  |
+|19:00-20:00    | Tennyson | Pluggables | CCAMP  | rrokui@ciena.com  | Pluggable properties | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -84,7 +85,6 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 08:00-09:00    | Prince of Wales/Oxford | Pluggables | CCAMP  | rrokui@ciena.com  | Pluggable properties | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD || 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf@chinatelecom.cn, hujy5@chinatelecom.cn  | Experiences and problems in Telecom Cloud Services deployment and operation  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
