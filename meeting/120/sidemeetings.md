@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T11:54:40.026Z
+date: 2024-07-15T13:44:41.741Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -174,8 +174,8 @@ Location: Third Floor
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   |                    |  
-| 15:30-16:00 |  A post-IETF world DG  |                    |   
-| 16:00-16:30 |  A post-IETF world DG  |                    |   
+| 15:30-16:00 |  A post-IETF world DG  | Open Source Routing |
+| 16:00-16:30 |  A post-IETF world DG  | Open Source Routing |   
 | 16:30-17:00 |  A post-IETF world DG  | Happy Eyeballs WG Charter Proposal |   
 | 17:00-17:30 |                   | Happy Eyeballs WG Charter Proposal|   
 | 17:30-18:00 |Standalone service ID|                    |   
