@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T22:50:34.812Z
+date: 2024-07-15T23:27:01.720Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -86,7 +86,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD || 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf@chinatelecom.cn, hujy5@chinatelecom.cn  | Experiences and problems in Telecom Cloud Services deployment and operation  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
-| 09:30-11:00 | Tennyson | SCIM: Large Object Pagination | SEC | aaron@parecki.com | TBD | TBD |
+| 09:30-11:00 | Tennyson | SCIM: Delta Queries | SEC | aaron@parecki.com | Discuss a significant update to the SCIM Delta Query draft | [Zoom](https://us06web.zoom.us/j/83465285353?pwd=84c44Ey2k7rgfD4gMHWBp9ORUVaTUA.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-8HassWHAXn16.ics) |
 | 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
@@ -102,7 +102,7 @@ Please keep the tables sorted by meeting, by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
-| 13:00-14:30 | Tennyson | SCIM: Delta Queries | SEC | aaron@parecki.com | Discuss new Delta Queries draft from Danny | TBD | TBD |
+| 13:00-14:30 | Tennyson | SCIM: Large Object Pagination | SEC | aaron@parecki.com | Discuss methods for large object pagination in SCIM | [Zoom](https://us06web.zoom.us/j/84492228569?pwd=LNU0gHrsTSKnDOkCwuaTEaFSba8iLg.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-O9Yfhw4xZE26.ics) |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu/Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 | 15:30-17:30    | Tennyson | I2INF | OPS | Jaehoon Paul Jeong (pauljeong@skku.edu) | Interface to In-Network Functions  | https://us02web.zoom.us/j/87173908036?pwd=lIjbDFlLFizXP8QpNPydOayrlLMdKQ.1  | TBD |
 | 17:30-19:00 | Prince of Wales/Oxford | DNS-Based Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf2 | [Link](/side-meetings/dns-load-balancing-120-v2.ics) |
