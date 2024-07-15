@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T19:56:38.288Z
+date: 2024-07-15T20:19:34.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -116,6 +116,7 @@ Please keep the tables sorted by meeting, by time.
 |  11:30 - 13:00   | Tennyson | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
 |  14:00 - 15:00   | Tennyson | [ALFA 2.0 - the Abbreviated Language for Authorization](https://davidjbrossard.github.io/alfa-authorization-language/draft-brossard-alfa-authz.html) |  - | David Brossard <david.brossard@gmail.com>  | Introducing an updated authorization language for fine-grained access control.  | TBA  | TBA |
 | 15:00-16:30 |Prince of Wales/Oxford | [v6ops](https://datatracker.ietf.org/wg/v6ops) Side Meeting|ops|Nick Buraglio buraglio@forwardingplane.net Xipengxiao xipengxiao@huawei.com | Discussion of IPv6 Operational issues and progress |TBA|TBA|
+| 15:00-16:30   | Tennyson | Threat Modeling for Decentralized Identities | -  |  Simone Onofri <simone@w3.org> |  Session on creating a meta [Threat Model for Decentralised Identities](https://github.com/WICG/digital-credentials/issues/115) for Security, Privacy and Harm. | TBD | TBD |
 |  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | Discussing upcoming problem and challenges in interconnecting DC for AI. | | |
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 | 18:30-20:00    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
@@ -272,9 +273,9 @@ Location: Third Floor
 | 13:30-14:00 |                   | **NOT AVAILABLE**  | 
 | 14:00-14:30 | ALFA 2.0 AuthZ Language                  |                    |  
 | 14:30-15:00 | ALFA 2.0 AuthZ Language                  |                    | 
-| 15:00-15:30 |                   |   v6ops side meeting                 |  
-| 15:30-16:00 |                   |   v6ops side meeting                 |   
-| 16:00-16:30 |                   |   v6ops side meeting                 |   
+| 15:00-15:30 | Threat Modeling for Decentralized Identities |   v6ops side meeting                 |  
+| 15:30-16:00 | Threat Modeling for Decentralized Identities                  |   v6ops side meeting                 |   
+| 16:00-16:30 | Threat Modeling for Decentralized Identities                  |   v6ops side meeting                 |   
 | 16:30-17:00 |                   |                    |   
 | 17:30-18:00 |                   | Inter-DC AI Problems and Challenges |   
 | 18:00-18:30 |                   | Inter-DC AI Problems and Challenges |   
