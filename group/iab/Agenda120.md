@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-15T03:00:09.832Z
+date: 2024-07-15T16:31:37.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -81,6 +81,11 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > Reviewing new work (30+ mins) - BoF summaries, any items from new work help desk
 
 ## Friday, 2024-07-26
+
+**0800-0920 PDT: EDM Program Meeting (Room: English Bay)**
+
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1008
+* Onsite: https://meetings.conf.meetecho.com/onsite120/?session=1008
 
 **1130-1300 PDT: IAB/IESG Lunch + Meeting (Room: Prince of Wales/Oxford)** 
 
