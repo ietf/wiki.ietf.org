@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-15T16:31:37.591Z
+date: 2024-07-15T17:46:33.093Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -42,6 +42,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > Recommendations for testing protcools in varying/global conditions (20 mins) (Tommy) -- preview MAPRG presentation, discuss integration with GAIA, etc 
 >
 > ISOC updates (Ryan)
+> 
+> Executive Session: RZERC Appointment
 
 ## Monday, 2024-07-22
 
