@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T16:40:55.471Z
+date: 2024-07-15T16:58:35.993Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -91,7 +91,7 @@ Please keep the tables sorted by meeting, by time.
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 15:30-17:30 | Tennyson | Digital Map | OPS/RTG | italo.busi@huawei.com | Applicability of TE Topology to Digital Map Use Cases | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 18:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
-|  18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
+| 18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -104,7 +104,7 @@ Please keep the tables sorted by meeting, by time.
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu/Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
 | 15:30-17:30    | Tennyson | I2INF | OPS | Jaehoon Paul Jeong (pauljeong@skku.edu) | Interface to In-Network Functions  | https://us02web.zoom.us/j/87173908036?pwd=lIjbDFlLFizXP8QpNPydOayrlLMdKQ.1  | TBD |
 | 17:30-19:00 | Prince of Wales/Oxford | DNS-Based Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf2 | [Link](/side-meetings/dns-load-balancing-120-v2.ics) |
-|     |  |   |   |   |   |   |  |
+|  18:30- 20:00 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |   https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 {.dense}
 
 ### [THURSDAY 25 July](#meeting-thursday)
@@ -247,9 +247,9 @@ Location: Third Floor
 | 17:00-17:30 | I2INF             |   AIDC                 |   
 | 17:30-18:00 |                   | DNS Load Balancing |
 | 18:00-18:30 |                   | DNS Load Balancing |
-| 18:30-19:00 |                   | DNS Load Balancing |
-| 19:00-19:30 |                   |                    |   
-| 19:30-20:00 |                   |                    |   
+| 18:30-19:00 | Confidential Workloads | DNS Load Balancing |
+| 19:00-19:30 | Confidential Workloads |                    |   
+| 19:30-20:00 | Confidential Workloads |                    |   
 | 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
 {.dense}
 
