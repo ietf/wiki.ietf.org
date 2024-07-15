@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T13:47:05.011Z
+date: 2024-07-15T15:09:21.662Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -112,7 +112,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | https://ietf.webex.com/meet/sidemeetingietf2  | TBA |
-|  10:00-11:00   | Tennyson | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
+|  10:00-11:00   | Prince of Wales/Oxford | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
 |  11:30 - 13:00   | Tennyson | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | TBA  | TBA |
 |  14:00 - 15:00   | Tennyson | [ALFA 2.0 - the Abbreviated Language for Authorization](https://davidjbrossard.github.io/alfa-authorization-language/draft-brossard-alfa-authz.html) |  - | David Brossard <david.brossard@gmail.com>  | Introducing an updated authorization language for fine-grained access control.  | TBA  | TBA |
 |  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | Discussing upcoming problem and challenges in interconnecting DC for AI. | | |
@@ -128,6 +128,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |8:15-9:15|Prince of Wales/Oxford|EODIR@120|GEN|eodir-chairs@ietf.org|Education & Outreach Directorate [Agenda & notes] | [Zoom](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09&omn=84949522179) |[eodir_ietf_120.ics](/side-meetings/eodir_meeting_during_ietf_120.ics)
 | 9:00-10:30 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |   https://ietf.webex.com/meet/sidemeetingietf1 | [ietf120_side_meeting_-_trusted_and_confidential_workloads.ics](/side-meetings/ietf120_side_meeting_-_trusted_and_confidential_workloads.ics) |
+|  10:00-11:00   | Prince of Wales/Oxford | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -292,7 +293,8 @@ Location: Third Floor
 | 08:30-09:00 |                   | eodir  |   
 | 09:00-09:30 | Confidential Workloads | eodir  |    
 | 09:30-10:00 | Confidential Workloads |   |   
-| 10:00-10:30 | Confidential Workloads |   |   
+| 10:00-10:30 | Confidential Workloads |  ID Alignment |   
+| 10:30-11:00 |                   | ID Alignment |   
 | 10:30-11:00 |                   |                    |   
 | 11:00-11:30 |                   |**NOT AVAILABLE**   |   
 | 11:30-12:00 |                   | **NOT AVAILABLE**  |   
