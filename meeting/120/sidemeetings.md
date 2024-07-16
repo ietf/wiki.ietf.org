@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-16T10:53:25.528Z
+date: 2024-07-16T13:57:28.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -180,8 +180,8 @@ Location: Third Floor
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
 | 15:00-15:30 |                   | Review suite of BFD authentication documents |  
-| 15:30-16:00 |  A post-IETF world DG  | Open Source Routing |
-| 16:00-16:30 |  A post-IETF world DG  | Open Source Routing |   
+| 15:30-16:00 |  A post-IETF world DG  |  |
+| 16:00-16:30 |  A post-IETF world DG  |  |   
 | 16:30-17:00 |  A post-IETF world DG  | Happy Eyeballs WG Charter Proposal |   
 | 17:00-17:30 |                   | Happy Eyeballs WG Charter Proposal|   
 | 17:30-18:00 |Standalone service ID|                    |   
@@ -205,9 +205,9 @@ Location: Third Floor
 | 10:00-10:30 | SCIM: Delta Queries |  Tutorial: Attested TLS                  |   
 | 10:30-11:00 | SCIM: Delta Queries |  Tutorial: Attested TLS                  |   
 | 11:00-11:30 |                   |  Tutorial: Attested TLS                  |   
-| 11:30-12:00 |Telecom Cloud Services and operations                 | **NOT AVAILABLE**  |   
-| 12:00-12:30 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
-| 12:30-13:00 |Telecom Cloud Services and operations                   | **NOT AVAILABLE**  |   
+| 11:30-12:00 |Telecom Cloud Services and operations | Open Source Routing |   
+| 12:00-12:30 |Telecom Cloud Services and operations | Open Source Routing |   
+| 12:30-13:00 |Telecom Cloud Services and operations | Open Source Routing |   
 | 13:00-13:30 |                   |    AI4NETWORK      |  
 | 13:30-14:00 |NETCONF private candidates|    AI4NETWORK      | 
 | 14:00-14:30 |NETCONF private candidates|    AI4NETWORK      |  
