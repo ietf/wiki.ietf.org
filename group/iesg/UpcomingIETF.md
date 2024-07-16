@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-16T14:42:14.442Z
+date: 2024-07-16T14:45:49.728Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -17,9 +17,8 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 Please add any topics for either IESG only meetings at IETF 120, or the joint meetings with the IAB.
 
 - The new ADs could use a primer on how to deal with IPRs (Mahesh) -> Informal or Retreat
-- RFC7120-bis discussion (Sabrina) -> Monday
-- IANA review mailing lists (Paul) -> Informal or 120
-- Review and approval of CBOR code points (Paul) -> 120 
+- Finish action plans on "Experience of Women in IETF" from retreat (Roman)
+
 
 # IESG Activities
 *All times are in PDT (UTC -7).* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -61,6 +60,10 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
+> - IANA topics
+>   -- RFC7120-bis discussion (Sabrina), 30min
+>   -- IANA review mailing lists (Paul), 10min
+>   -- Review and approval of CBOR code points (Paul), 10min 
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Prince of Wales/Oxford, 3rd floor
 
