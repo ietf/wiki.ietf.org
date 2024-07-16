@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-15T10:00:07.970Z
+date: 2024-07-16T11:43:15.532Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -21,6 +21,7 @@ Please add any topics for either IESG only meetings at IETF 120, or the joint me
 - Plenary slide review (All) -> Wednesday
 - Meeting with IETF Counsel (Roman, Jay) -> Wednesday
 - IANA review mailing lists (Paul) -> Informal or 120
+- Review and approval of CBOR code pointss (Paul) -> 120 
 
 # IESG Activities
 *All times are in PDT (UTC -7).* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
