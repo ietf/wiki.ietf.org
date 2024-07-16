@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-16T14:45:49.728Z
+date: 2024-07-16T14:46:50.327Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -87,6 +87,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 * Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1002
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1002
+
+> -- To Schedule --
  
 ## Tuesday, July 23, 2024
 
