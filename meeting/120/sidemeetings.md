@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-15T23:27:01.720Z
+date: 2024-07-16T02:22:52.129Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -73,6 +73,7 @@ Please keep the tables sorted by meeting, by time.
 |    7:00-7:05 | Tennyson | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |    9:30-11:00 | Tennyson | CCAMP T-NBI Discussion | RTG | daniel@olddog.co.uk | NBI for Transport Networks https://github.com/ietf-ccamp-wg/transport-nbi | https://ietf.webex.com/meet/sidemeetingietf1 | .ics here |
 |  11:00-11:30 | Tennyson | PQC DNSSEC Research |      | peter@desec.io | Discuss venue for [PQC DNSSEC research](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/) | https://ietf.webex.com/meet/sidemeetingietf1 | [pqc-dnssec-research.ics](/side-meetings/pqc-dnssec-research.ics) |
+|  15:00-15:30 | Prince of Wales/Oxford | BFD authentication document review | RTG | Reshad Rahman reshad@yahoo.com | Review suite of BFD authentication documents | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 |  16:30-17:30 | Prince of Wales/Oxford | Happy Eyeballs WG Charter Proposal | WIT | tpauly@apple.com | Review proposal charter for a short-lived WG to cover a new version of Happy Eyeballs (based on IETF 119 ALLDISPATCH) | https://ietf.webex.com/meet/ietfsidemeeting2 | TBD |
 | 15:00-17:30 | Tennyson | A post-IETF world DG  | HotRFC  | Jean F. Quearlt JFQueralt@TheIOFoundation.org  | Side discussion out of the HotRFC of the same name.  | https://ietf.webex.com/meet/sidemeetingietf1  | [Calendar ICS](/side-meetings/ietf_120_-_hotrfc_discussion_group.ics) |
 |17:30-19:00 |Tennyson | Standalone service ID |RTG|Daniel Huang/Feng Yang huang.guangping@zte.com.cn / yangfeng@chinamobile.com|Standalone service ID for Routing network   |https://ietf.webex.com/meet/sidemeetingietf1   |  |
@@ -178,7 +179,7 @@ Location: Third Floor
 | 13:30-14:00 |                   |  | 
 | 14:00-14:30 |                   |                    |  
 | 14:30-15:00 |                   |                    | 
-| 15:00-15:30 |                   |  |  
+| 15:00-15:30 |                   | Review suite of BFD authentication documents |  
 | 15:30-16:00 |  A post-IETF world DG  | Open Source Routing |
 | 16:00-16:30 |  A post-IETF world DG  | Open Source Routing |   
 | 16:30-17:00 |  A post-IETF world DG  | Happy Eyeballs WG Charter Proposal |   
