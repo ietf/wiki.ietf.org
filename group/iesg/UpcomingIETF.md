@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-16T11:47:06.587Z
+date: 2024-07-16T12:02:05.693Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,8 +18,6 @@ Please add any topics for either IESG only meetings at IETF 120, or the joint me
 
 - The new ADs could use a primer on how to deal with IPRs (Mahesh) -> Informal or Retreat
 - RFC7120-bis discussion (Sabrina) -> Monday
-- Plenary slide review (All) -> Wednesday
-- Meeting with IETF Counsel (Roman, Jay) -> Wednesday
 - IANA review mailing lists (Paul) -> Informal or 120
 - Review and approval of CBOR code pointss (Paul) -> 120 
 
@@ -98,6 +96,9 @@ No IESG breakfast. IAB has a breakfast meeting.
 * Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1005
 * Onsite Tool:   https://meetings.conf.meetecho.com/onsite120/?session=1005
 &nbsp;
+
+> - Meeting with IETF Counsel (Brad, Vigdis), 20min
+> - Plenary preparation and slide review (All), 60 min
 
 ### IETF 120 Plenary TIME: 17:30-19:30 Room: Regency A/B/C/D
 &nbsp;
