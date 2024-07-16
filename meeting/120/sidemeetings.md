@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-16T18:42:45.921Z
+date: 2024-07-16T21:15:49.052Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -88,7 +88,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD || 11:30-13:00    | Tennyson | Telecom Cloud Services and Operations | OPS, RTG  | xiechf@chinatelecom.cn, hujy5@chinatelecom.cn  | Experiences and problems in Telecom Cloud Services deployment and operation  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 09:30-11:00 | Tennyson | SCIM: Delta Queries | SEC | aaron@parecki.com | Discuss a significant update to the SCIM Delta Query draft | [Zoom](https://us06web.zoom.us/j/83465285353?pwd=84c44Ey2k7rgfD4gMHWBp9ORUVaTUA.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-8HassWHAXn16.ics) |
-| 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+| 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? [Agenda](https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md) |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 15:30-17:30 | Tennyson | Digital Map | OPS/RTG | italo.busi@huawei.com | Applicability of TE Topology to Digital Map Use Cases | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
