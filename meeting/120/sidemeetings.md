@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-16T02:22:52.129Z
+date: 2024-07-16T08:28:01.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -101,7 +101,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 |  |
+| 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 | [ICS](/side-meetings/side-meetings/ietf_120_side_meeting_-_deepspace_ip.ics) |
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
 | 13:00-14:30 | Tennyson | SCIM: Large Object Pagination | SEC | aaron@parecki.com | Discuss methods for large object pagination in SCIM | [Zoom](https://us06web.zoom.us/j/84492228569?pwd=LNU0gHrsTSKnDOkCwuaTEaFSba8iLg.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-O9Yfhw4xZE26.ics) |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu/Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
