@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-16T09:30:31.529Z
+date: 2024-07-16T09:32:05.997Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -120,7 +120,7 @@ Please keep the tables sorted by meeting, by time.
 |  14:00 - 15:00   | Tennyson | [ALFA 2.0 - the Abbreviated Language for Authorization](https://davidjbrossard.github.io/alfa-authorization-language/draft-brossard-alfa-authz.html) |  - | David Brossard <david.brossard@gmail.com>  | Introducing an updated authorization language for fine-grained access control.  | TBA  | TBA |
 | 15:00-16:30 |Prince of Wales/Oxford | [v6ops](https://datatracker.ietf.org/wg/v6ops) Side Meeting|ops|Nick Buraglio buraglio@forwardingplane.net Xipengxiao xipengxiao@huawei.com | Discussion of IPv6 Operational issues and progress |TBA|TBA|
 | 15:00-16:30   | Tennyson | Threat Modeling for Decentralized Identities | -  |  Simone Onofri <simone@w3.org> |  Session on creating a meta [Threat Model for Decentralised Identities](https://github.com/WICG/digital-credentials/issues/115) for Security, Privacy and Harm. | TBD | TBD |
-|  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | Discussing upcoming problem and challenges in interconnecting DC for AI. | | [ICS](https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai/blob/main/Calendar.ics)|
+|  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | Discussing upcoming problem and challenges in interconnecting DC for AI. | | [ICS](/side-meetings/inter-dcn-sidemeeting-ietf120.ics)|
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
 | 18:30-20:00    | Prince of Wales/Oxford |  satellite networks | RTG  | liupengyjy@chinamobile.com, tianjijiang@chinamobile.com  | Discussing satellite networks and the potential work in IETF |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 |     |  |   |   |   |   |   |  |
