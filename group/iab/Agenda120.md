@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-15T17:46:33.093Z
+date: 2024-07-16T21:16:47.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -80,7 +80,9 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > 
 > RASPRG Review (30 mins)
 >
-> Reviewing new work (30+ mins) - BoF summaries, any items from new work help desk
+> Meeting IETF Counsel (15 mins)
+>
+> Reviewing new work (20 mins) - BoF summaries, any items from new work help desk
 
 ## Friday, 2024-07-26
 
