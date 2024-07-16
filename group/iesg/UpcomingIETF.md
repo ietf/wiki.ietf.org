@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-16T14:46:50.327Z
+date: 2024-07-16T20:05:39.980Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -60,6 +60,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
+> - Meetecho feature walk-through (Greg), 10min
 > - IANA topics
 >   -- RFC7120-bis discussion (Sabrina), 30min
 >   -- IANA review mailing lists (Paul), 10min
