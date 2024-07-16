@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-16T14:28:27.548Z
+date: 2024-07-16T14:32:50.451Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -98,6 +98,7 @@ No IESG breakfast. IAB has a breakfast meeting.
 &nbsp;
 
 > - Meeting with IETF Counsel (Brad, Vigdis), 20min
+> -- Add your questions to [this list](https://docs.google.com/document/d/15GpPbLJ6xZNR4otjlxR4Q2svn9626aRb_m2Nqex_OeY/)
 > - Plenary preparation and slide review (All), 60 min
 
 ### IETF 120 Plenary TIME: 17:30-19:30 Room: Regency A/B/C/D
