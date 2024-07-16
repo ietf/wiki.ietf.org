@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2024-05-24T02:39:52.941Z
+date: 2024-07-16T11:28:28.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -40,7 +40,7 @@ The IETF Newcomers’ Overview provides an introduction to getting started in th
 
 ### IETF Guides
 
-IETF Guides provide 1-1 matches between newcomers and experienced IETF participants, in particular during IETF meeting weeks. While the details of individual interactions are left to the 1-1 match, the IETF Guides program provides the framework for matching on the order of dozens of newcomers for each meeting week. This can be seen as a lightweight mentoring program for getting started in the IETF. If you would like to serve as a guide, or help coordinate the IETF Guides program, contact Wes Hardaker, Barbara Stark, and Paul Wouters via the [eodir mailing list](https://www.ietf.org/mailman/listinfo/eodir/).
+IETF Guides provide 1-1 matches between newcomers and experienced IETF participants, in particular during IETF meeting weeks. While the details of individual interactions are left to the 1-1 match, the IETF Guides program provides the framework for matching on the order of dozens of newcomers for each meeting week. This can be seen as a lightweight mentoring program for getting started in the IETF. If you would like to [serve as a guide](https://guides.ietf.org/guides/become_guide), or help coordinate the IETF Guides program, contact Wes Hardaker, Reese Enghardt, or Paul Wouters who lead the [Guides program](https://datatracker.ietf.org/group/guides/about/).
 
 ### Newcomers’ networking events
 
