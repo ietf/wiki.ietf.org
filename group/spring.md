@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2024-07-09T18:40:40.312Z
+date: 2024-07-17T18:44:22.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -29,6 +29,7 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * Waiting for the dependent MPLS WG draft to progress past WGLC
    * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
    * [IETF 117] The authors asked for WGLC.
+   * [2024-07-17] The Shepherd (Ketan Talaulikar) sent a review.
 * draft-ietf-spring-segment-protection-sr-te-paths
    * 2023-07-03 Authors asked for WGLC
 * draft-ietf-spring-resource-aware-segments
@@ -43,7 +44,8 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 
 ## WG adoption requests
 * draft-agrawal-spring-srv6-mpls-interworking
-   * 2021-03 (IETF110) Authors sent request     
+   * 2021-03 (IETF110) Authors sent request
+   * 2024-07-11 Adoption call started: https://mailarchive.ietf.org/arch/msg/spring/qVc41lFqOknxAluPGYLjNWbk560/
 * draft-gong-spring-hierarchical-slice-solution (WAS: draft-gong-teas-hierarchical-slice-solution)
    * 2022-11-9 Authors sent request
    * 2024-06-11 Asked the authors to rename the draft (to avoid confusion) and start an on-list discussion (Alvaro).
