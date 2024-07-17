@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-07-16T14:17:49.561Z
+date: 2024-07-17T06:39:39.457Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -76,6 +76,9 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Remarks|Action|
 | --- | --- | --- | ---|
+|draft-ietf-pce-sr-bidir-path|Y|-|-|
+|draft-ietf-pce-sr-path-segment|Y|Has Normative dependencies|-|
+
 
 
 
