@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-17T01:17:41.946Z
+date: 2024-07-17T16:30:27.721Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -203,11 +203,15 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 
 - **Participants**
 Stuart Cheshire
+Suvesh Pratapa
 Jot Kailay
+François Michel
 
 - **Project Info**
 
   - **SSH daemon for OpenThread.** Historically the way engineers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds with hundreds of Thread devices, being able to log in and transfer log files using the network is much better than needing hundreds of USB cables to connect all the devices to a computer.
+
+  - **Native Thread Commissioning for Matter.** Current [Matter](https://csa-iot.org/all-solutions/matter/) devices that operate over Thread incur the cost of Bluetooh hardware and firmware, which is only needed for initial commissioning. This adds hardware cost to Matter devices for something that most users only do once in the lifetime of the product. It would be better to perform Matter commissioning for Thread devices via the Thread radio itself, using the Thread MeshCoP (Mesh Commissioning Protocol) mechanism. Some minor work is needed to implement tunnelling the Matter commissioning data (e.g., Device Attestation) over Thread MeshCoP.
 
   - **Lightweight QUIC for OpenThread.** Both TCP and QUIC are sophisticated transport protocols, suitable for efficiently transporting small and large amounts of data. Zero-round-trip connection setup in both TCP and QUIC allows for small request/response exchanges in a single round-trip. Sliding-window flow control and refined congestion-control algorithms enable TCP and QUIC to transfer large amounts of data, quickly, reliably, and efficiently, without unreasonably disrupting other traffic sharing the network. OpenThread includes TCP, and it would be good to complement that with support for QUIC as well.
 
