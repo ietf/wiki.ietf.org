@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-17T15:10:39.555Z
+date: 2024-07-17T22:46:11.166Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -105,7 +105,7 @@ Please keep the tables sorted by meeting, by time.
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 | [ICS](/side-meetings/ietf_120_side_meeting_-_deepspace_ip.ics) |
 | 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/sidemeetingietf2 | TBD |
 | 13:00-14:30 | Tennyson | SCIM: Large Object Pagination | SEC | aaron@parecki.com | Discuss methods for large object pagination in SCIM | [Zoom](https://us06web.zoom.us/j/84492228569?pwd=LNU0gHrsTSKnDOkCwuaTEaFSba8iLg.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-O9Yfhw4xZE26.ics) |
-| 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu/Jeff Tantasura  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | aidc  |
+| 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu (yingzhen.ietf@gmail.com) /Jeff Tantasura (jefftant.ietf@gmail.com)  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | [aidc.ics](/side-meetings/aidc.ics)  |
 | 15:30-17:30    | Tennyson | I2INF | OPS | Jaehoon Paul Jeong (pauljeong@skku.edu) | Interface to In-Network Functions  | https://us02web.zoom.us/j/87173908036?pwd=lIjbDFlLFizXP8QpNPydOayrlLMdKQ.1  | TBD |
 | 17:30-19:00 | Prince of Wales/Oxford | DNS-Based Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf2 | [Link](/side-meetings/dns-load-balancing-120-v2.ics) |
 |  18:30- 20:00 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |   https://ietf.webex.com/meet/sidemeetingietf1 | [link.ics](/side-meetings/trusted_and_confidential_workloads-wed-jul-24-6_30pm.ics) |
