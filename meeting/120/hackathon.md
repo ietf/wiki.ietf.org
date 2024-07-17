@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-17T16:30:27.721Z
+date: 2024-07-17T16:40:30.939Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -565,6 +565,18 @@ Interop testing of Multipath QUIC implementations - see https://github.com/quicw
   - https://ilnp.cs.st-andrews.ac.uk
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
+
+----
+
+### Collecting Consolidated ABNF From RFCs
+- **Champions**
+Dominique Hazael-Massieux dom@w3.org
+- **Project Info**
+  - https://github.com/dontcallmedom/rfcref/tree/main/abnf
+
+ABNF is used in many RFCs to describe the formal syntax of the associated specification. These ABNF declarations can be used to generate parsers, build tests, validators, documentation …. In a number of cases, the ABNF in a given RFC makes references to ABNF terms defined in other RFCs. The GitHub project above offers tooling to help consolidate these ABNFs into directly comprehensive versions. During the hackathon, interested participants could help extract and consolidate ABNF from more RFCs, explore how these consolidated RFCs could be exploited, approaches to automate more of the extraction/consolidation steps.
+
+This project is inspired by the [webref](https://github.com/dontcallmedom/rfcref/tree/main/abnf) project where a number of reusable data and formal syntax from Web specifications get automatically extracted and curated, which have found adoption in a number of places (documentation, libraries, code/IDE support, automated testing of implementations, spec authoring tools, …)
 
 ---- 
 
