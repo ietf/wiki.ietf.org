@@ -67,7 +67,7 @@ typically follow the following process:
   thread on the topic.
   
 - The agenda of that meeting will include the vote discussion, and needs to be
-  posted at least 24 hours in advance. If the discussion will happen in an
+  posted at least 48 hours in advance. If the discussion will happen in an
   irregularly scheduled meeting (i.e. meetings other than the weekly IAB
   meeting teleconference or meetings prescheduled during IETF week) then, the
   new meeting needs to be announced at least a week in advance.
