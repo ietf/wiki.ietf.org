@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IETF120
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+DTSTART:20240723T163000Z
+DTEND:20240723T183000Z
+DTSTAMP:20240717T144723Z
+UID:3plkpuca6u0gf2qmailf8kcv5v@google.com
+CREATED:20240717T142929Z
+DESCRIPTION:Interactive Tutorial: Towards Formal Verification of Attested T
+ LS<br><br>Relevant for: TLS\, RATS\, LAKE WGs and UFMRG <br><br>Room: Princ
+ e of Wales/Oxford<br><br>Conference link: <a href="https://ietf.webex.com/m
+ eet/ietfsidemeeting2">https://ietf.webex.com/meet/ietfsidemeeting2</a><br><
+ br>Contact: <a href="mailto:muhammad_usama.sardar@tu-dresden.de">muhammad_u
+ sama.sardar@tu-dresden.de</a>
+LAST-MODIFIED:20240717T144154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Side meeting: Tutorial: Attested TLS
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
