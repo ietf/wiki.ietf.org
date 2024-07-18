@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-18T19:17:01.093Z
+date: 2024-07-18T23:22:18.327Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -608,6 +608,25 @@ Per Andersson <per.ietf@ionio.se>
 - Code
   - https://github.com/cisco-open/green-monitoring
   - https://github.com/cisco-open/sustainability-insights-in-a-box
+  
+### OAuth and atproto Identities
+
+**Champions**
+- Bryan Newbold <bryan@blueskyweb.xyz> (arriving Saturday afternoon, all day Sunday)
+- Boris Mann Boris Mann <boris@bmannconsulting.com>
+- Chad Kohalyk <chad@fission.codes>
+
+**Project Info**
+
+atproto is an open federated social web protocol. The identity and auth system builds on open standards like DNS, DIDs (W3C), HTTP, and OAuth. The challenges of using OAuth between multiple independent hosts and multiple independent client software implementations are similar to challenges with ActivityPub, and an area of work at the IETF. This hackathon project involves prototyping and demonstrating interoperation between different types of clients and hosts.
+
+**Resources**
+
+- https://github.com/bluesky-social/indigo
+- https://github.com/bluesky-social/cookbook
+- https://github.com/bluesky-social/proposals/tree/main/0004-oauth
+- https://atproto.com/specs/handle
+- https://atproto.com/specs/did
   
 ----
 
