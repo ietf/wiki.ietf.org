@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2024-07-18T14:09:05.962Z
+date: 2024-07-18T14:16:55.998Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -17,4 +17,4 @@ Please put your name in this table to sign up for a slots. The goal is to 2-3 IA
 |Session II | **13:00-15:15** <br> Mirja , (Suresh) | **iabopen**     |
 |Session III| **15:15-17:15** <br> (Mirja)   | **14:30-16:45** <br> Matthew | 
 |Session IV | **17:15-18:30** <br> (Tommy), (Suresh) |**16:45-18:15** <br> Mirja, Tommy, Dhruv, Suresh  |
-|Session  V | **N/A**      	   | **18:15-19:30** (Mirja), Dhruv |
+|Session  V | **N/A**      	   | **18:15-19:30** <br> (Mirja), Dhruv |
