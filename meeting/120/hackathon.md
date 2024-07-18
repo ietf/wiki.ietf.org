@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-18T13:10:49.134Z
+date: 2024-07-18T19:17:01.093Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -590,6 +590,26 @@ ABNF is used in many RFCs to describe the formal syntax of the associated specif
 This project is inspired by the [webref](https://github.com/dontcallmedom/rfcref/tree/main/abnf) project where a number of reusable data and formal syntax from Web specifications get automatically extracted and curated, which have found adoption in a number of places (documentation, libraries, code/IDE support, automated testing of implementations, spec authoring tools, …)
 
 ---- 
+
+### Sustainability Insights
+- **Champions**
+Per Andersson <per.ietf@ionio.se>
+- **Project Info**
+  - Our group is working on “Sustainability Insights", philatelist, label-tsdb, and POWEFF drafts.
+  - This is a continuation of the IETF 118 Hackathon where the group had worked on proof of concept
+    implementation of the green monitoring open source project.
+  - Topics will be on proof of concept implementation of parts of the philatelist and label-tsdb drafts,
+    and connect the green-monitoring and sustainability-in-a-box projects.
+- Draft specifications
+  - [draft-almprs-sustainability-insights](https://datatracker.ietf.org/doc/draft-almprs-sustainability-insights/)
+  - [draft-lindblad-tlm-philatelist](https://datatracker.ietf.org/doc/draft-lindblad-tlm-philatelist/)
+  - [draft-opsawg-poweff](https://datatracker.ietf.org/doc/draft-opsawg-poweff/)
+  - [draft-kll-yang-label-tsdb](https://datatracker.ietf.org/doc/draft-kll-yang-label-tsdb/)
+- Code
+  - https://github.com/cisco-open/green-monitoring
+  - https://github.com/cisco-open/sustainability-insights-in-a-box
+  
+----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
     
