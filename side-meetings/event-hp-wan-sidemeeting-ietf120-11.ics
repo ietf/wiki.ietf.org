@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:ietf-120-HP-WAN-sidemeeing
+SUMMARY:High-Performance WAN Side Meeting at IETF 120
+LOCATION:Prince of Wales/Oxford
+STATUS:CONFIRMED
+CLASS:PUBLIC
+DTSTART:20240723T223000Z
+DTEND:20240724T003000Z
+DESCRIPTION:\n
+ \n
+ High-Performance WAN Side Meeting at IETF 120\n
+ \n
+ Webex: https://ietf.webex.com/meet/ietfsidemeeting2\n
+ \n
+ Session materials: https://github.com/xiongquan1230/IETF120-Sidemeeting-HP-WAN\n
+ \n
+END:VEVENT
+END:VCALENDAR
