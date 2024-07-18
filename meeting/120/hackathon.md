@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-17T16:40:30.939Z
+date: 2024-07-18T13:10:49.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -565,6 +565,17 @@ Interop testing of Multipath QUIC implementations - see https://github.com/quicw
   - https://ilnp.cs.st-andrews.ac.uk
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on IPv6.
+
+----
+
+### Joint Exposure of Network and Compute Information
+
+- **Champions**
+  - Jingxuan Zhang (jingxuan.n.zhang@gmail.com)
+- **Project Info**
+  - Demonstrate how to use kafka to collect and aggregate network and compute information from multiple data sources.
+  - Extend ALTO to provide both network and compute information.
+  - Use [CERN Rucio](https://rucio.github.io/documentation/started/what_is_rucio/) as a use case to demonstrate the how the joint exposure of network and compute information can improve the source selection of Rucio data movement in the large-scale scientific workflow.
 
 ----
 
