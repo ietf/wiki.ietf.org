@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-17T22:46:11.166Z
+date: 2024-07-18T04:46:00.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -91,7 +91,7 @@ Please keep the tables sorted by meeting, by time.
 | 11:30-13:00    |Tennyson|Telecom Cloud Services and Operations| OPS, RTG|xiechf@chinatelecom.cn, hujy5@chinatelecom.cn| Share experiences on the deployment and operations of Telecom Cloud services, discuss the requirements and gaps that might be solved by IETF| https://ietf.webex.com/meet/sidemeetingietf1|TBD|
 | 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? [Agenda](https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md) |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
-| 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
+| 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](/side-meetings/event-hp-wan-sidemeeting-ietf120-11.ics)|
 | 15:30-17:30 | Tennyson | Digital Map | OPS/RTG | italo.busi@huawei.com | Applicability of TE Topology to Digital Map Use Cases | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 18:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | TBD  | TBD |
