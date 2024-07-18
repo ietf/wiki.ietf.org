@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-05-30T18:12:57.559Z
+date: 2024-07-18T17:11:50.095Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -64,10 +64,11 @@ This section lists actions other than document updates
 
 
 ## Latest RFCs
-* draft-ietf-bess-evpn-bum-procedure-updates (RFC9572, May 2024)
-* draft-ietf-bess-mvpn-evpn-aggregation-label (RFC9573, May 2024)
-* draft-ietf-bess-evpn-optimized-ir (RFC9574, May 2024)
-* draft-ietf-bess-evpn-lsp-ping (RFC9489, Nov 2023)
+* RFC 9541 Flush Mechanism for Customer MAC Addresses Based on Service Instance Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN)
+* RFC 9574 Optimized Ingress Replication Solution for Ethernet VPNs (EVPNs)
+* RFC 9573 MVPN/EVPN Tunnel Aggregation with Common Labels
+* RFC 9572  Updates to EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Procedures
+
 
 
 ## Documents in RFC editor queue
@@ -105,7 +106,7 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-evpn-redundant-mcast-source (Mankamana)
 	- Jorge replied to RTGDIR review and addressed comments
-  - Action: Mankamana to do the write-up.
+  - Writeup done, ready to move to next step 
 
 - draft-ietf-bess-evpn-mh-pa (Stephane)
   - Chair review done and document updated
@@ -142,6 +143,7 @@ Shepherd's name indicated within parenthesis.
   - Action: update in progress
   - RTGDIR review comment addressed.
   - Outstanding questions/comments from Jeffrey
+  - Action : mankamana addressing comments 
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
 	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress. 
@@ -150,7 +152,6 @@ Shepherd's name indicated within parenthesis.
 	- RTGDIR and GENART review passed
   
 * draft-ietf-bess-rfc7432bis
-  - EXPIRED: Mankamana to send reminder for refresh
 	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
   - Draft being updated as of 11/2 
   
@@ -164,6 +165,8 @@ Shepherd's name indicated within parenthesis.
   - GenArt and RtgDir early review passed ( revision -07)
 
 * draft-ietf-bess-evpn-mvpn-seamless-interop
+  - Review comment addressed. 
+ 
  
 * draft-ietf-bess-evpn-bfd
   - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
