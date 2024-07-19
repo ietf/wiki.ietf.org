@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-19T15:42:51.253Z
+date: 2024-07-19T15:44:21.797Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -17,7 +17,6 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 Please add any topics for either IESG only meetings at IETF 120, or the joint meetings with the IAB.
 
 - The new ADs could use a primer on how to deal with IPRs (Mahesh) -> Informal or Retreat
-- Finish action plans on "Experience of Women in IETF" from retreat (Roman)
 
 
 # IESG Activities
@@ -67,6 +66,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >   -- Review and approval of CBOR code points (Paul), 10min 
 > - AllDispatch items (EricV), 15min
 > - Action plan from Experiences of Women in IETF, Part 2 -- [materials](https://docs.google.com/presentation/d/12VPcPHEBCWDnqQVwN6W7t5eLThaTZP-Yt2d8jDogrhg/) (Roman), 45min
+> - Plan or cancel Monday IESG meeting
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Prince of Wales/Oxford, 3rd floor
 
@@ -90,7 +90,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1002
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1002
 
-> -- To Schedule based on agenda items, will cancel if none --
+> -- To schedule based on overflow from Sunday meeting, new agenda item, or cancel  --
  
 ## Tuesday, July 23, 2024
 
