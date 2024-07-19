@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-19T06:03:29.428Z
+date: 2024-07-19T06:03:35.346Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
