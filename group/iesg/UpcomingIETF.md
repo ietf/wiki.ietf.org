@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-19T15:44:21.797Z
+date: 2024-07-19T20:32:03.848Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,7 +63,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 > - IANA topics
 >   -- RFC7120-bis discussion (Sabrina), 30min
 >   -- IANA review mailing lists (Paul), 10min
->   -- Review and approval of CBOR code points (Paul), 10min 
+> - RFC Production Center (RPC) Update and "Ask Me Anything" (Sandy), 10min
 > - AllDispatch items (EricV), 15min
 > - Action plan from Experiences of Women in IETF, Part 2 -- [materials](https://docs.google.com/presentation/d/12VPcPHEBCWDnqQVwN6W7t5eLThaTZP-Yt2d8jDogrhg/) (Roman), 45min
 > - Plan or cancel Monday IESG meeting
