@@ -568,6 +568,24 @@ Interop testing of Multipath QUIC implementations - see https://github.com/quicw
 
 ----
 
+###  Using sconepro to reduce real-time communication latency (Sconepro-RTC)
+- **Champions**
+  - Jiaxing Zhang zhangjiaxing20g@ict.ac.cn
+  - Xuesong Geng gengxuesong@huawei.com
+  - Hang Shi shihang9@huawei.com
+  - Qinghua Wu wuqinghua@ict.ac.cn
+  - Shuping Peng pengshuping@huawei.com
+  - Zhenbin Li lizhenbin@huawei.com
+  - Zhenyu Li zyli@ict.ac.cn
+  
+- **Project Info**
+  - https://github.com/zhangjiaxingict/sconepro-rtc
+  - The goal of this project is to study the optimization of RTC application latency through feedback mechanisms. We have developed a simple RTC implementation based on QUIC that generates video frames according to the calculated sending rate and the size of packets in the sender's queue. We have also provided a basic feedback mechanism on network devices. The feedback implementation will be further refined in the future.
+  - The project utilizes Docker to simulate AP network devices, as well as the sender and receiver. We use Linux tc to emulate latency and dynamically changing bandwidth at the AP point.
+  - https://datatracker.ietf.org/doc/draft-joras-sconepro-video-opt-requirements/
+
+----
+
 ### Collecting Consolidated ABNF From RFCs
 - **Champions**
 Dominique Hazael-Massieux dom@w3.org
