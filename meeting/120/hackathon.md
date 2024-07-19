@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-19T08:21:03.034Z
+date: 2024-07-19T17:07:07.265Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -608,6 +608,8 @@ Per Andersson <per.ietf@ionio.se>
 - Code
   - https://github.com/cisco-open/green-monitoring
   - https://github.com/cisco-open/sustainability-insights-in-a-box
+- Webex (9:00 - 10:30 CET)
+  - https://cisco.webex.com/cisco/j.php?MTID=m8e078696d5aedd514447f233c99863ce
   
 ### OAuth and atproto Identities
 
