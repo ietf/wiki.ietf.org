@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-19T06:03:35.346Z
+date: 2024-07-19T08:21:03.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -630,7 +630,7 @@ atproto is an open federated social web protocol. The identity and auth system b
   
 ----
 
-###  Using sconepro to reduce real-time communication latency (Sconepro-RTC)
+###  A possible attempt to use sconepro for RTC scenario
 - **Champions**
   - Jiaxing Zhang zhangjiaxing20g@ict.ac.cn
   - Qinghua Wu wuqinghua@ict.ac.cn
