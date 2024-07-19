@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-19T05:58:13.893Z
+date: 2024-07-19T05:58:51.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -630,11 +630,23 @@ atproto is an open federated social web protocol. The identity and auth system b
   
 ----
 
+###  Using sconepro to reduce real-time communication latency (Sconepro-RTC)
+- **Champions**
+  - Jiaxing Zhang zhangjiaxing20g@ict.ac.cn
+  - Xuesong Geng gengxuesong@huawei.com
+  - Hang Shi shihang9@huawei.com
+  - Qinghua Wu wuqinghua@ict.ac.cn
+  - Shuping Peng pengshuping@huawei.com
+  - Zhenbin Li lizhenbin@huawei.com
+  - Zhenyu Li zyli@ict.ac.cn
+  
 - **Project Info**
   - https://github.com/zhangjiaxingict/sconepro-rtc
   - The goal of this project is to study the optimization of RTC application latency through feedback mechanisms. We have developed a simple RTC implementation based on QUIC that generates video frames according to the calculated sending rate and the size of packets in the sender's queue. We have also provided a basic feedback mechanism on network devices. The feedback implementation will be further refined in the future.
   - The project utilizes Docker to simulate AP network devices, as well as the sender and receiver. We use Linux tc to emulate latency and dynamically changing bandwidth at the AP point.
   - https://datatracker.ietf.org/doc/draft-joras-sconepro-video-opt-requirements/
+
+----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
     
