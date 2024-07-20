@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-20T16:48:57.782Z
+date: 2024-07-20T16:51:00.867Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -653,7 +653,9 @@ atproto is an open federated social web protocol. The identity and auth system b
 Maarten Wullink maarten.wullink@sidn.nl
 - **Project Info**
 - https://datatracker.ietf.org/doc/draft-wullink-restful-epp/
-The goal of this project is to create an implementation of RESTful EPP.
+The goal of this project is to create an implementation of RESTful EPP (REPP) API compatible with current EPP (extensions).
+REPP is currently being discussed in the REGEXT working group and having running code will help towards creating a new RFC. 
+
 
 ----
 
