@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-19T23:48:06.816Z
+date: 2024-07-20T16:48:25.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -646,8 +646,19 @@ atproto is an open federated social web protocol. The identity and auth system b
 
 ----
 
+
+
+### RESTful EPP implementation Project
+- **Champions**
+Maarten Wullink maarten.wullink@sidn.nl
+- **Project Info**
+- https://datatracker.ietf.org/doc/draft-wullink-restful-epp/
+The goal of this project is to create an implementation of RESTful EPP.
+
+----
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-    
+ 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
