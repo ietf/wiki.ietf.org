@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-20T17:22:18.710Z
+date: 2024-07-20T17:39:40.541Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -658,7 +658,7 @@ REPP is currently being discussed in the REGEXT working group and having running
 
 ----
 
-### Generic DNS Catch all
+### Just DNS -- Generic DNS catch all
 - **Champions**
   - Shumon Huque <shuque@gmail.com>
   - Yorgos Thessalonikefs <yorgos@nlnetlabs.nl>
