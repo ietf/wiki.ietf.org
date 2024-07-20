@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-19T20:32:34.537Z
+date: 2024-07-20T18:13:49.228Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -77,6 +77,18 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
+> 
+> - WIT
+> - RTG
+> - IAB
+> - ART
+> - OPS
+> - INT
+> - GEN
+> - SEC
+> 
+- IRTF
+
 
 ### IAB Meeting - 14:00-16:00 Room: Prince of Wales/Oxford, 3rd floor
 
@@ -123,6 +135,16 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
+> ART
+> SEC
+> OPS
+> IAB
+> WIT
+> INT
+> RTG
+> IRTF
+> GEN
+> 
 > 3. General discussion of productivity and how the meeting went (standing item)
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
