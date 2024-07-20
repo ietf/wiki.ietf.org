@@ -2,14 +2,14 @@
 title: IETF 120 Code Lounge
 description: 
 published: true
-date: 2024-07-02T16:21:10.283Z
+date: 2024-07-20T22:11:39.913Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-05-21T18:25:22.267Z
 ---
 
 # Code Lounge
-Tuesday - Friday, 23-26 July, Room: TBD
+Tuesday - Friday, 23-26 July, Room: Brighton/Constable 
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
