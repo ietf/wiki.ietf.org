@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-20T21:58:37.773Z
+date: 2024-07-20T22:51:17.586Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -45,9 +45,9 @@ The IETF provides a Chromebook with a preconfigured WebEx room in each side meet
 
 The Webex info is as follows:
 
-* **Prince of Wales/Oxford (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Room-specific instructions on how to manage your side meeting will be avilable soon.
+* **Prince of Wales/Oxford (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/ietf120_large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
 
-* **Tennyson (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Room-specific instructions on how to manage your side meeting will be avilable soon.
+* **Tennyson (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions](/ietf120_small_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
