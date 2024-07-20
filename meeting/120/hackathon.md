@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-20T18:41:38.080Z
+date: 2024-07-20T23:14:12.936Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -516,7 +516,7 @@ Our project focuses on improving Secure Telephone Identity (STI) by using Certif
 - **Champions**
 Swapneel Sheth (ssheth@verisign.com)
 Andrew Kaizer (akaizer@verisign.com)
-Bryan Newbold (bryan@blueskyweb.xyz)
+Bryan Newbold (bryan@blueskyweb.xyz)  (update: out sick)
 Nick Johnson (nick@ens.domains)
 
 - **Specifications**
@@ -614,7 +614,7 @@ Per Andersson <per.ietf@ionio.se>
 ### OAuth and atproto Identities
 
 **Champions**
-- Bryan Newbold <bryan@blueskyweb.xyz> (arriving Saturday afternoon, all day Sunday)
+- Bryan Newbold <bryan@blueskyweb.xyz> (arriving Saturday afternoon, all day Sunday) (update: out sick)
 - Boris Mann Boris Mann <boris@bmannconsulting.com>
 - Chad Kohalyk <chad@fission.codes>
 
