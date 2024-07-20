@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-20T16:48:25.476Z
+date: 2024-07-20T16:48:57.782Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -648,7 +648,7 @@ atproto is an open federated social web protocol. The identity and auth system b
 
 
 
-### RESTful EPP implementation Project
+### RESTful EPP implementation
 - **Champions**
 Maarten Wullink maarten.wullink@sidn.nl
 - **Project Info**
