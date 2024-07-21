@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-21T16:47:56.049Z
+date: 2024-07-21T19:12:29.594Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -46,6 +46,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > ISOC updates (Ryan)
 > 
 > Executive Session: RZERC Appointment
+>
+> Executive Session: ICANN Board Liaison Appointment discussion
 
 ## Monday, 2024-07-22
 
