@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-07-20T21:32:08.450Z
+date: 2024-07-21T04:21:51.021Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -56,6 +56,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |June 2024|IDR WG @ [Nanog91](https://nanog.org/events/nanog-91/agenda/)|Network Operators|*all levels*|Susan Hares & Jeffrey Haas|[Video](https://youtu.be/dvmIe2hqfEw)[Slide](https://storage.googleapis.com/site-media-prod/meetings/NANOG91/5153/20240608_Hares_Ietf_Wg_For_v1.pdf)|
 |May 2024|SPIFFE Virtual Community Meetup|SPIFFE developers|knowledge sharing|Justin Richer||
 |April 2024|Open Source Summit|Open Source|-|Dave Thaler|[Video](https://www.youtube.com/watch?v=rudTOHXHZQo) [Slide](https://1drv.ms/b/s!Aqj-Bj9PNivcn-xw_IVnf1tmRce0EA?e=vKjpqK)| 
+|March 2024|Presentation on increasing African participation in the IETF|Part of a panel in [Afrinic webinar series](https://afrinic.net/events/webinar-series)| *all levels*|Benson Muite| [slides](https://kichakatokizito.solutions/presentations/afrinic2024/index.html) [video](https://www.youtube.com/live/ZLMQIM2NsG0?si=qg7YdKh8W86eUrXX&t=3754)|
 |March 2024|Workshop on IPv6 Deployment at NITK, India|Students, Campus Network Operators|*all levels*|Nalini Elkins, Mike Ackermann, Dhruv Dhody|Workshop included a session on IETF|
 |Feb 2024|[APRICOT2024](https://2024.apricot.net/program/program#/day/8/innovation-1/)|Network Operators in Asia Pacific|*all levels*|Dhruv Dhody|[Slide](https://2024.apricot.net/assets/files/APIC378/the-ietf-roundup_1709093554.pdf)|
 |Jan 2024|HLIG (High Level Internet Governance Expert Group)|Policy|Supporter|Lars|[Slide](https://docs.google.com/presentation/d/166xSfPk0Qjz_ISxbJbRqQkXInKm968ngRXrjfUcgq0Y/edit?usp=sharing)|
