@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-07-12T19:54:04.612Z
+date: 2024-07-21T00:39:18.317Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -37,6 +37,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At IESG Review 
 
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
+| draft-ietf-bgp-sendholdtimer | Jeff Haas | IETF LC | IESG review | 4/19/2024 | 5/3/204 | TBD |  
 |---|---|---|---|---|---|---|---|---|
 | none | 
 
@@ -51,7 +52,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Queue for AD review 
 | draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 308 days | 414 days | 224 days | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
+|  draft-ietf-idr-bgp-ct  |  Susan Hares  | IESG | AD review | 3/1/2024 |  4/26/2024 | TBD | 143 days  | 87 days | 
+|  draft-ietf-idr-bgp-car |  Susan Hares  | AD review | 3/1/2024 | 4/26/2024 | TBD | 143 days | 87 days |  
+| draft-ietf-idr-cpr-00 |  Susan Hares | AD review | 5/17/2024 | 7/19/2024 | TBD | 1 day | 1 day | 
 {.dense}
 
 ## Sent Back to WG 
