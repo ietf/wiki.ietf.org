@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-21T20:26:14.015Z
+date: 2024-07-21T20:58:39.803Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -173,6 +173,7 @@ Location: Dover, 4th floor ([floor plan](https://datatracker.ietf.org/meeting/12
 ## Monday, 22 July 2024
 
 * 11:30 - 13:00 - RTG AD office hours
+* 15:15 - 16:00 - WIT AD - BoF discussion
 
 ## Tuesday, 23 July 2024
 
