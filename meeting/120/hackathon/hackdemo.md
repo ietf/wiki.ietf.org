@@ -2,7 +2,7 @@
 title: IETF 120 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-07-21T23:09:08.962Z
+date: 2024-07-21T23:10:33.235Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-05-21T18:21:49.933Z
@@ -24,4 +24,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | I2INF  | Jaehoon Paul Jeong & Yoseop Ahn | pauljeong@skku.edu ahnjs124@skku.edu | https://datatracker.ietf.org/doc/slides-120-hackathon-sessd-interface-to-in-network-functions-i2inf/ |
 | Low-Power Wireless IPv6 Networking with Thread  | Stuart Cheshire  | cheshire@apple.com  | [Thread Information](https://wiki.ietf.org/en/meeting/120/hackathon#Thread)  |
 | Implementation Approaches for Merkle Tree Ladder Mode | Andrew Fregly | afregly@verisign.com | https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/ |
+|vCon|Dan Petrie|dan.ietf@sipez.com| **WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/) <br> **I-D:** [vCon container](https://datatracker.ietf.org/doc/draft-petrie-vcon/) <br> **Repos:** <br>[python vcon library and CLI](https://github.com/py-vcon/py-vcon/tree/main) <br>[Python vCon server](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/README.md) 
+|
 | |   |   |   |
