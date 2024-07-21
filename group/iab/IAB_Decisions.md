@@ -9,6 +9,7 @@ dateCreated: 2023-12-05T19:59:02.303Z
 ---
 
 # IAB Decision taking
+
 IAB decision taking is documented in RFC 2850:
 
 > 3.5 Decision taking
@@ -21,45 +22,88 @@ IAB decision taking is documented in RFC 2850:
 >   The IAB may reach decisions by face to face meeting, teleconference,
 >   Internet communication, or any combination of the above.
 
-Practically, in most day-to-day business, the chair will determine consensus based on the absence of dissenting positions being put forward in a reasonable time.
+Practically, in most day-to-day business, the chair will determine consensus
+based on the absence of dissenting positions being put forward in a reasonable
+time. However, some decisions are deemed important enough or controversial
+enough to require a formal vote. This document outlines the process used by the
+IAB to make such decisions.
 
-This decision taking procedure aims to reach consensus and support from the IAB as a whole. The drawback of such procedure is that it may end up in deadlocks or it may take significant time to reach a decision. While this is acceptable to a number of situations, there are other IAB decisions where not having a decision is not acceptable. In particular, in the case of appointments or IESG slate confirmation, a decision needs to be made on a given deadline. Because of that, the IAB follows the procedure defined in Section 3.7.4 of RFC 8713 (https://www.rfc-editor.org/rfc/rfc8713.html#name-confirmation) in this type of cases.
+# Decision Process
 
-## NOMCOM confirmation
-During nomcom confirmation process the IAB follows the rule from section 3.7.4 of RFC8713:
-> 
->  4.  A confirming body decides whether it confirms each candidate
->     using a confirmation decision rule chosen by the confirming
->     body.
->    
->    If a confirming body has no specific confirmation decision
->     rule, then confirming a given candidate should require at least
->     one-half of the confirming body's sitting members to agree to
->     that confirmation.
-        
-It should be noted that if this rule results in a dead-lock the IAB may choose another decision rule.
+## Open vs Secret Ballots
 
-However, there are several aspects missing in the procedure documented in RFC8713. In order to provide guidance on how to deal with these issues, the following default procedure is defined.
+Votes can either use open or secret ballots. The first step in the process is
+for the IAB chair to determine whether it will be held open or secret.
 
-## IAB default voting rules for appointments, confirmation of slates and other deadline driven decisions
-The default voting rules are as follows:
+- By default, votes should be open.
 
-In order to make an appointment or confirm a candidate, the IAB requires a simple majority of the non recused voting members of the IAB to vote in the affirmative.
+- Open ballots are only shared with voting members (IAB members minus
+  disqualified and recused members).
 
-When the voting will be taken in a meeting (physical, audioconference, jabber), the fact that a given appointment or confirmation will be voted in a given regular business meeting MUST be announced in the agenda for that meeting which MUST be posted 24 hrs in advance. If the voting will be performed in any irregularly scheduled meeting (i.e. meetings other than the regular IAB meeting or in a regular IAB tech chat) then, this MUST be announced a week in advance.
+- Open ballots can be submitted either by email to the list of voting members
+  or as verbal votes during an IAB teleconference.
 
-The members who cannot participate in the discussion will not be able to cast their vote for this particular round of voting.
+- Secret ballots are only shared with the Executive Director and Chair.
 
-When the voting will take place via email ("e-vote"), a ballot with the question will be sent to the IAB by the IAB Chair or the IAB Executive Administrative Manager, and the e-vote will remain open until all IAB members have responded; IAB members who have not responded to the e-vote before the next IAB meeting will be asked to cast their vote during that meeting. The results of the e-vote will be recorded in the minutes of the next IAB meeting.
+- If there is no consensus among voting members on whether a vote should be
+  open or secret, the vote will be by secret ballot.
 
-By default, the voting will be non-blind.
+- If a vote starts off open but two voting members then request that it be
+  secret, then the voting restarts with secret ballots.
 
-The IAB MAY use alternative voting rules. In order to do that the IAB chair MUST announce the alternative voting rules to the IAB at least one week before the voting takes place. If a member of the IAB objects to the alternative voting rules, the resolution of the conflict will be addressed following usual RFC 2850 guidelines.
+## Normal Process
 
-&nbsp;
-&nbsp;
-&nbsp;
+The IAB chair (or executive director on the instructions of the chair) will 
+typically follow the following process:
+
+- If the request for a vote comes from an external source (e.g., the NomCom
+  provides its IESG slate for confirmation), then, as soon as possible after
+  receiving the request, the IAB chair adds the vote topic to the agenda of the
+  next IAB teleconference. If the next meeting is less than 48 hours away, the
+  chair should instead add the topic to the following teleconference.
+
+- The chair emails the list of voting members to announce the date of the
+  discussion, whether ballots are open or secret, and start an email discussion
+  thread on the topic.
+  
+- The agenda of that meeting will include the vote discussion, and needs to be
+  posted at least 48 hours in advance. If the discussion will happen in an
+  irregularly scheduled meeting (i.e. meetings other than the weekly IAB
+  meeting teleconference or meetings prescheduled during IETF week) then, the
+  new meeting needs to be announced at least a week in advance.
+
+- Discussion and votes will continue on the voting members list, and during the
+  teleconference.
+
+- The vote will typically stay open until a vote has been recorded for every
+  single voting member, even after a majority has been reached. This ensures
+  every voice can be heard. Note that it is reasonable for any voting member to
+  request a few days to review available information before voting.
+
+- If the vote has enough affirmative votes that it would pass if all remaining
+  votes were dissents, and at least 7 days have elapsed since the
+  teleconference, then the chair can decide to declare the vote closed and
+  successful. This avoids deadlock if a voting member is unable or unwilling to
+  vote.
+
+- A vote can result as a consequence of a teleconference discussion (e.g., the
+  topic of an appointment was on the agenda of the teleconference without
+  explicitly mentioning a vote, but during the discussion there was consensus
+  to start a vote on the topic). In those cases, votes can be tallied in the
+  teleconference, and/or the email to announce the vote can be sent out without
+  requiring a second teleconference on this topic.
+
+## Alternative Process
+
+The IAB can use alternative voting processes. In order to do that, the IAB
+chair must announce the alternative voting rules to the IAB at least one week
+before the voting takes place. If any voting member of the IAB objects to the
+alternative voting rules, the resolution of the conflict will be addressed
+following usual RFC 2850 guidelines; i.e., if more than two voting members
+object to the alternative voting process, the vote reverts to the Normal
+Process.
+
+Note that any alternative process still needs to follow the rules in Section
+3.5 of RFC 2850.
 
 ---
-
-*The content of this page was last updated on 2023-03-16. It was migrated from the old IAB wiki on 2023-12-05.*
