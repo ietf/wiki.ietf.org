@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-20T18:14:49.320Z
+date: 2024-07-21T15:19:29.492Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -59,11 +59,17 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1001
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1001
 
+(this is likely too many topics for the slot.  Unfinished topics will be rescheduled to Monday if needed)
+
 > - Meetecho feature walk-through (Greg), 10min
 > - IANA topics
 >   -- RFC7120-bis discussion (Sabrina), 30min
 >   -- IANA review mailing lists (Paul), 10min
 > - RFC Production Center (RPC) update and "Ask Me Anything" (Sandy), 10min
+> - For future action (Roman) (10min)
+>   -- "Extended Friday at meetings" experiment since IETF 118
+>   -- Alldispatch experiment since IETF 119
+>   -- Revise [IESG Statement on Maximizing Encrypted Access To IETF Information](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-maximizing-encrypted-access-to-ietf-information-20150820/) from 2015 
 > - AllDispatch items (EricV), 15min
 > - Action plan from Experiences of Women in IETF, Part 2 -- [materials](https://docs.google.com/presentation/d/12VPcPHEBCWDnqQVwN6W7t5eLThaTZP-Yt2d8jDogrhg/) (Roman), 45min
 > - Plan or cancel Monday IESG meeting
