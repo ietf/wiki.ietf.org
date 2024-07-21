@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-21T19:43:08.623Z
+date: 2024-07-21T20:11:36.865Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -40,6 +40,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > Agenda:
 > 
 > Finalizing IAB voting wiki updates (David)
+>
+> Updating IAB Program descriptions (Mirja)
 >
 > Recommendations for testing protcools in varying/global conditions (20 mins) (Tommy) -- preview MAPRG presentation, discuss integration with GAIA, etc 
 >
