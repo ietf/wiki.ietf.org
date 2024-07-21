@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-21T18:32:00.272Z
+date: 2024-07-21T19:34:30.953Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -179,6 +179,7 @@ Location: Dover, 4th floor ([floor plan](https://datatracker.ietf.org/meeting/12
 * 13:00 - 14:00 - DIEM BoF pre-meeting chairs/proponents/on site AD (Orie & Warren) booked by Éric V
 * 14:00 - 14:30 - 1:1 with Henk booked by Mahesh 
 * 16:45 - 17:30 - INT AD office hour
+* 17:30 - 18:30 - ART AD office hour
 
 ## Wednesday, 24 July 2024
 
