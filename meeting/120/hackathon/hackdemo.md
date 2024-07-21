@@ -2,7 +2,7 @@
 title: IETF 120 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-07-21T23:02:28.943Z
+date: 2024-07-21T23:09:08.962Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-05-21T18:21:49.933Z
@@ -23,4 +23,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Practical SCITT  | Jon Geater & Steve Lasker | jon.geater@datatrails.ai steve.lasker@datatrails.ai  | https://docs.datatrails.ai/developers/developer-patterns/scitt-api/  |
 | I2INF  | Jaehoon Paul Jeong & Yoseop Ahn | pauljeong@skku.edu ahnjs124@skku.edu | https://datatracker.ietf.org/doc/slides-120-hackathon-sessd-interface-to-in-network-functions-i2inf/ |
 | Low-Power Wireless IPv6 Networking with Thread  | Stuart Cheshire  | cheshire@apple.com  | [Thread Information](https://wiki.ietf.org/en/meeting/120/hackathon#Thread)  |
-|   |   |   |   |
+| Implementation Approaches for Merkle Tree Ladder Mode | Andrew Fregly | afregly@verisign.com | https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/ |
+| |   |   |   |
