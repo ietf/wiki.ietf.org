@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-21T17:12:52.090Z
+date: 2024-07-21T17:34:22.895Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -96,6 +96,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 > - GEN
 > - SEC
 > - IRTF
+>3. New work help desk (10 min)
 
 
 ### IAB Meeting - 14:00-16:00 Room: Prince of Wales/Oxford, 3rd floor
