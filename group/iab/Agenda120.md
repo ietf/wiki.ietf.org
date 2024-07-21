@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-18T22:23:35.570Z
+date: 2024-07-21T16:47:56.049Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -65,7 +65,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > 
 > ITU-T Liaison Update (Scott Mansfield - remote)
 >
-> NEMOPs workshop preparation (Wes + others?), could be Sunday too
+> NEMOPs workshop preparation (Wes + others organizers)
 
 ## Wednesday, 2024-07-24
 
