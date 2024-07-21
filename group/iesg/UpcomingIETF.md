@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-21T16:36:35.884Z
+date: 2024-07-21T17:12:52.090Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -71,7 +71,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >   -- Alldispatch experiment since IETF 119
 >   -- Revise [IESG Statement on Maximizing Encrypted Access To IETF Information](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-maximizing-encrypted-access-to-ietf-information-20150820/) from 2015 
 > - Procedural discussions 
->   -- Mahesh
+>   -- Updating reference to documents that defined IANA registries (Mahesh), 10 min 
 >   -- Francesca
 > - AllDispatch items (EricV), 15min
 > - Action plan from Experiences of Women in IETF, Part 2 -- [materials](https://docs.google.com/presentation/d/12VPcPHEBCWDnqQVwN6W7t5eLThaTZP-Yt2d8jDogrhg/) (Roman), 45min
