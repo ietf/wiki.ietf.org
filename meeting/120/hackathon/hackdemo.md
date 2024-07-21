@@ -2,7 +2,7 @@
 title: IETF 120 Hackdemo Happy Hour
 description: 
 published: true
-date: 2024-06-29T10:18:38.229Z
+date: 2024-07-21T21:26:58.076Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-05-21T18:21:49.933Z
@@ -20,7 +20,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
 | Formal analysis of Attested TLS  | Muhammad Usama Sardar  | muhammad_usama.sardar@tu-dresden.de  | TBD  |
-|   |   |   |   |
+| Practical SCITT  | Jon Geater & Steve Lasker | jon.geater@datatrails.ai steve.lasker@datatrails.ai  | https://docs.datatrails.ai/developers/developer-patterns/scitt-api/  |
 |   |   |   |   |
 
 
