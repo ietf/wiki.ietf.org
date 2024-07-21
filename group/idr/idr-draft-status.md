@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-07-21T01:47:50.558Z
+date: 2024-07-21T02:07:32.072Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -65,13 +65,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares | awaiting safi -05 | IESG  | 3/18/2024 | 2/15-3/18/2024 |  124 days | TBD | (900+) 124  |
 {.dense}
 
-## Waiting for Revision from Authors 
+## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-sr-policy-safi-04  |  Susan Hares  |  awaiting -05 | IESG  | 3/18/2024 | 2/15-3/18  |  124 days | 3/23/2024  | 25 (900+)  |
-|  draft-ietf-idr-rpd-19 |  Keyur Patel  | WG doc | Revision Req   |  Nov-11-2021 | Feb-11-2022 | Nov-5-2023 | 250 days |  1247 days   |
-|  draft-ietf-idr-wide-bgp-communities |  Keyur Patel  |  AD + IDR Chairs in-depth review  |  IETF Review  |  Mar-11-2022      |  Apr-30-2022   |  Nov-5-2023  | 250 days |  804 days | 
-| draft-ietf-idr-flowspec-redirect-ip | Susan Hares | awaiting -03 | WG LC | 
+|  draft-ietf-idr-sr-policy-safi-04  |  Sue Hares  |  awaiting -05 | IESG  | 3/18/2024 | 2/15-3/18  |  124 days | 3/23/2024  | 47 (900+) |
+|  draft-ietf-idr-wide-bgp-communities |  Sue Hares  | Split draft | WG LC  |  Nov-5-2023  |  TBD | (11/5/2023) 259 days  | TBD | TBD | 
+|  draft-ietf-idr-rpd-19 |  Keyur Patel  | WG doc | Revision with Path Communnities | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
+| draft-ietf-idr-flowspec-redirect-ip | Susan Hares | awaiting -03 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
 {.dense}
 
 
