@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-21T15:19:29.492Z
+date: 2024-07-21T15:20:36.244Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -151,6 +151,8 @@ No IESG breakfast. IAB has a breakfast meeting.
 > GEN
 > 
 > 3. General discussion of productivity and how the meeting went (standing item)
+> -- "Extended Friday at meetings" experiment since IETF 118
+> -- Alldispatch experiment since IETF 119
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
