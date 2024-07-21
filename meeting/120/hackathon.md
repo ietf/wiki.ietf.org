@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-21T06:05:05.466Z
+date: 2024-07-21T17:28:47.147Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -400,10 +400,12 @@ Marc Blanchet, marc.blanchet@viagenie.ca
 
 - **Specifications**
 	- https://www.rfc-editor.org/rfc/rfc8345
+  - https://www.rfc-editor.org/rfc/rfc8944
   - https://www.rfc-editor.org/rfc/rfc8346
   - https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
   - https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
-  - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-00
+   - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-concept-00
+  - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-01
   - https://datatracker.ietf.org/doc/draft-davis-opsawg-some-refinements-to-rfc8345
   - https://datatracker.ietf.org/doc/rfc9130/
   - https://datatracker.ietf.org/doc/rfc9129/
