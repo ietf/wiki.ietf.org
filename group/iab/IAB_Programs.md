@@ -2,7 +2,7 @@
 title: IAB Technical Programs and Administrative Support Groups
 description: The IAB website provides a description of the definition & scope for technical programs & administrative support groups. This wiki records the IAB agreed procedures to establish, maintain, and close programs/groups & participation rules and expectations.
 published: true
-date: 2024-07-21T18:07:51.795Z
+date: 2024-07-21T18:08:58.958Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-21T18:06:04.185Z
@@ -17,6 +17,7 @@ The IAB website provides a description of the definition and scope for technical
 Before a program or group is formally established by the IAB, the IAB member(s) proposing the program/group needs to provide a program description. For technical programs the IAB should then gauge community interest by requesting public feedback on the proposed scope. This can be done by requesting a new open mailing list or discussion on architecture-discuss@ietf.org, or even perhaps by starting with a few virtual or in-person meetings when appropriate.
 
 The initial description should describe the scope of the work and, if appropriate goals the program or groups wants to achieve. Technical programs usually outline an issue or question relating to the Internet architecture. The program description can be refined anytime with approval by the IAB. The IAB liaison to the IESG is responsible to inform the IESG about new programs or groups under consideration and should feed back any comments from the IESG.
+
 The IAB needs to agree to both – start a new technical program and to set up the required mailing list(s), but a formal vote is not required – agreement of those present at an IAB meeting and confirmed on the IAB mailing list without objection (e.g., in minutes) is sufficient.
 
 If no active work is being undertaken in a program/group, it can be closed anytime by the IAB (usually in agreement with the community or members). In addition, program reviews serve as a check to determine if there is still work to do for the IAB and the IAB might decide to close a program (see below).
