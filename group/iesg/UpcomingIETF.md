@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-21T19:34:30.953Z
+date: 2024-07-21T20:26:14.015Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -111,7 +111,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho:  https://meetings.conf.meetecho.com/ietf120/?session=1002
 * Onsite Tool: https://meetings.conf.meetecho.com/onsite120/?session=1002
 
-> - Continuation of Experiences of Women discussion (Roman)
+> - Action plan from Experiences of Women in IETF, Part 3 -- [materials](https://docs.google.com/presentation/d/12VPcPHEBCWDnqQVwN6W7t5eLThaTZP-Yt2d8jDogrhg/) (Roman, 45min)
 > - [Approach to WG Chairs Survey](https://docs.google.com/presentation/d/1WpkHl7mPuXyXACMB5gZj4lNP36Njoc9SweFeesmXauk/edit#slide=id.p). (Jay, 15 mins) 
  
 ## Tuesday, July 23, 2024
