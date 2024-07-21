@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-07-21T02:07:32.072Z
+date: 2024-07-21T02:22:57.833Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -88,24 +88,15 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | TBD | WG LC | 
-
-
-
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | TBD | WG LC | TBD | 7/8-7/22/2024 | TBD | 7/22 | 
 {.dense}
 
 ## WG LC Pending
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-vpn-prefix-orf | Susan Hares | 2 | Pre-WG LC | WG LC | TBD | TBD | TBD | TBD |  
-te-as-set-confed-set | Susan Hares | TBD | TBD | TBD | TBD | TBD | TBD | TBD | 
-| draft-ietf-idr-depreca
-## WG LC holding 
-|  draft-ietf-idr-sr-policy-ifit |  Susan Hares  |  1 (Huawei) | Await implementation report  |  WG LC  | TBD | TBD  |  TBD   |  -- | 
-| draft-ietf-idr-bgp-ifit-capabilities-02  | Susan Hares   | 1 (Huawei) | Await Implementation report |  WG LC  | TBD  |  TBD |  TBD   | --- | 
-|  draft-ietf-idr-flowspec-redirect-ip-03  |  Susan Hares  | 3 (juniper, nokia, x) |  WG LC (-03)  |  TBD   |  TBD  |  TBD    | Need version -03 | 
-{.dense}
+| draft-ietf-idr-vpn-prefix-orf | Keyur Patel| 2 implementations | Awaiting -07 | WG LC | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-rt-derived-community-01 | Jie Dong | TBD | Pre WG LC review | WG LC | TBD | TBD | TBD | TBD | 
 
 ## Adopted
 
