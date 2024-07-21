@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-21T19:12:45.771Z
+date: 2024-07-21T19:43:08.623Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -71,6 +71,11 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Wednesday, 2024-07-24
 
+**0800-0920 PDT: E-Impact Program Meeting (Room: English Bay)**
+
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=33313
+* Onsite: https://meetings.conf.meetecho.com/onsite120/?session=33313
+
 **1730-1930 PDT: IETF 120 Plenary (Room: Regency A/B/C/D)**
 
 ## Thursday, 2024-07-25
@@ -92,8 +97,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 **0800-0920 PDT: EDM Program Meeting (Room: English Bay)**
 
-* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=1008
-* Onsite: https://meetings.conf.meetecho.com/onsite120/?session=1008
+* Meetecho: https://meetings.conf.meetecho.com/ietf120/?session=33301
+* Onsite: https://meetings.conf.meetecho.com/onsite120/?session=33301
 
 **1130-1300 PDT: IAB/IESG Lunch + Meeting (Room: Prince of Wales/Oxford)** 
 
