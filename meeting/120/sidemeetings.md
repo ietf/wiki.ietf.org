@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-20T22:51:17.586Z
+date: 2024-07-21T22:33:03.561Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -86,7 +86,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](/side-meetings/Tutorial-aTLS.ics)|
+| 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS and Formalization| SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](/side-meetings/Tutorial-aTLS.ics)|
 | 09:30-11:00 | Tennyson | SCIM: Large Object Pagination | SEC | aaron@parecki.com | Discuss methods for large object pagination in SCIM | [Zoom](https://us06web.zoom.us/j/83465285353?pwd=84c44Ey2k7rgfD4gMHWBp9ORUVaTUA.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-8HassWHAXn16.ics) |
 | 11:30-13:00    |Tennyson|Telecom Cloud Services and Operations| OPS, RTG|xiechf@chinatelecom.cn, hujy5@chinatelecom.cn| Share experiences on the deployment and operations of Telecom Cloud services, discuss the requirements and gaps that might be solved by IETF| https://ietf.webex.com/meet/sidemeetingietf1|TBD|
 | 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? [Agenda](https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md) |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
