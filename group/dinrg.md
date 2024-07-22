@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2024-07-22T08:55:30.044Z
+date: 2024-07-22T08:57:40.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -44,6 +44,8 @@ ACM Computer Communication Review 53, 2 (April 2023), 31–39. https://doi.org/1
 * Martin Kleppmann, Adam Wiggins, Peter van Hardenberg, and Mark McGranaghan. 2019. Local-first software: you own your data, in spite of the cloud. In Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! 2019). Association for Computing Machinery, New York, NY, USA, 154–178. https://doi.org/10.1145/3359591.3359737
 
 * Navin V. Keizer, Onur Ascigil, Michał Król, Dirk Kutscher, and George Pavlou; A Survey on Content Retrieval on the Decentralised Web; ACM Computing Surveys; (March 2024; https://doi.org/10.1145/3649132
+
+* Ash Wilson, Shumon Huque, Olle E. Johansson, Michael Richardson; An Architecture for DNS-Bound Client and Sender Identities; Internet Draft draft-ietf-dance-architecture (Work in Progress); May 2024; https://datatracker.ietf.org/doc/draft-ietf-dance-architecture/06/
 
 
  
