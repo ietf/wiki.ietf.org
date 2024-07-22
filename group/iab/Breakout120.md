@@ -2,7 +2,7 @@
 title: Breakout120
 description: IAB Breakout Room Reservations at IETF 120
 published: true
-date: 2024-07-09T22:38:56.621Z
+date: 2024-07-22T15:02:39.885Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:07:34.646Z
@@ -28,6 +28,7 @@ For food & beverage service requests, please include:
 
 * 0800-0920: : IAB Business Meeting
 * 1130-1300: Unavailable (see Cindy or Paige for questions)
+* 1300-1345: Roman's Meeting
 
 
 ## Wednesday 
