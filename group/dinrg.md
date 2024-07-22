@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2024-07-22T08:54:58.882Z
+date: 2024-07-22T08:55:30.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -37,6 +37,7 @@ ACM Computer Communication Review 53, 2 (April 2023), 31–39. https://doi.org/1
 * Leonhard Balduf, Maciej Korczyński, Onur Ascigil, Navin V. Keizer, George Pavlou, Björn Scheuermann, and Michał Król
 "The Cloud Strikes Back: Investigating the Decentralization of IPFS" In Proceedings of 2023 ACM on Internet Measurement Conference (IMC '23). Association for Computing Machinery, New York, NY, USA, 391–405. https://doi.org/10.1145/3618257.3624797
 
+* Gautam Akiwate, Kimberly Ruth, Rumaisa Habib, Zakir Durumeric; On the Centralization and Regionalization of the Web; 2024; https://arxiv.org/abs/2406.19569
 
 ### New Designs and Technology
 
@@ -44,7 +45,7 @@ ACM Computer Communication Review 53, 2 (April 2023), 31–39. https://doi.org/1
 
 * Navin V. Keizer, Onur Ascigil, Michał Król, Dirk Kutscher, and George Pavlou; A Survey on Content Retrieval on the Decentralised Web; ACM Computing Surveys; (March 2024; https://doi.org/10.1145/3649132
 
-* Gautam Akiwate, Kimberly Ruth, Rumaisa Habib, Zakir Durumeric; On the Centralization and Regionalization of the Web; 2024; https://arxiv.org/abs/2406.19569
+
  
 ### Regulation
 
