@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-22T22:39:07.808Z
+date: 2024-07-22T23:02:51.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -92,7 +92,7 @@ Please keep the tables sorted by meeting, by time.
 | 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? [Agenda](https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md) |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | https://github.com/xiongquan1230/IETF120-Sidemeeting-HP-WAN |
-| 15:30-17:30 | Tennyson | Digital Map | OPS/RTG | italo.busi@huawei.com | Applicability of TE Topology to Digital Map Use Cases | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
+| 15:30-17:30 | Tennyson | Digital Map | OPS/RTG | italo.busi@huawei.com olga.havel@huawei.com | Applicability of TE Topology to Digital Map Use Cases | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 17:30-18:30 | Tennyson | IETF Next Future Direction | Tools | pusateri@bangj.com | Come help direct the future of the mobile app | | |
 | 18:30-20:00 | Tennyson | Network Incident Terminology | OPS | adrian@olddog.co.uk | NMOP terminology team. Resolving issues | https://ietf.webex.com/meet/sidemeetingietf1 | TBD |
 | 18:30-20:00   |   Prince of Wales/Oxford |  new-ssh-work  |  SEC  |  francois.michel@uclouvain.be  |  Discussing new work on SSH at IETF  | https://ietf.webex.com/meet/ietfsidemeeting2   |  |
