@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2024-07-22T08:57:40.568Z
+date: 2024-07-23T09:11:12.930Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -47,7 +47,9 @@ ACM Computer Communication Review 53, 2 (April 2023), 31–39. https://doi.org/1
 
 * Ash Wilson, Shumon Huque, Olle E. Johansson, Michael Richardson; An Architecture for DNS-Bound Client and Sender Identities; Internet Draft draft-ietf-dance-architecture (Work in Progress); May 2024; https://datatracker.ietf.org/doc/draft-ietf-dance-architecture/06/
 
+* Tianyuan Yu, Xinyu Ma, Varun Patil, Yekta Kocaogullar, Yulong Zhang, Jeff Burke, Dirk Kutscher, Lixia Zhang; Secure Web Objects: Building Blocks for Metaverse Interoperability and Decentralization; IEEE MetaCom 2024; August 12-14 2024; Hong Kong, China; [pre-print](https://arxiv.org/abs/2407.15221)
 
+* Tianyuan Yu, Xinyu Ma, Varun Patil, Yekta Kocaogullar, Lixia Zhang; Exploring the Design of Collaborative Applications via the Lens of NDN Workspace; IEEE MetaCom 2024; August 12-14 2024; Hong Kong, China; [pre-print](https://arxiv.org/abs/2407.15234)
  
 ### Regulation
 
