@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-23T18:05:05.618Z
+date: 2024-07-23T18:58:31.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -47,7 +47,7 @@ The Webex info is as follows:
 
 * **Prince of Wales/Oxford (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/ietf120_large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
 
-* **Tennyson (12 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions](/ietf120_small_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
+* **Tennyson (16 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions](/ietf120_small_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
@@ -152,7 +152,7 @@ Please keep the tables sorted by meeting, by time.
 ### Room Info
 
 Room: **Tennyson** 
-Occupancy: up to 12 attendees
+Occupancy: up to 16 attendees
 Configuration: Boardroom
 Location: Fourth Floor
 
@@ -165,7 +165,7 @@ Location: Third Floor
 
 #### MONDAY 22 July {#room-monday}
 
-| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+| **Time**    | **Tennyson (16 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** |   **NOT AVAILABLE** |  
 | 08:00-08:30 |        **NOT AVAILABLE**            | **NOT AVAILABLE**  |   
@@ -198,7 +198,7 @@ Location: Third Floor
 
 #### TUESDAY 23 July {#room-tuesday}
 
-| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+| **Time**    | **Tennyson (16 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 |**NOT AVAILABLE**  | **NOT AVAILABLE**  |  
 | 08:00-08:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |   
@@ -230,7 +230,7 @@ Location: Third Floor
 
 #### WEDNESDAY 24 July {#room-wednesday}
 
-| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+| **Time**    | **Tennyson (16 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 |  | **NOT AVAILABLE**  |  
 | 08:00-08:30 | Deepspace IP | **NOT AVAILABLE**  |   
@@ -262,7 +262,7 @@ Location: Third Floor
 
 #### THURSDAY 25 July {#room-thursday}
 
-| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+| **Time**    | **Tennyson (16 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE** |  |  
 | 08:00-08:30 | **NOT AVAILABLE** |   |   
@@ -294,7 +294,7 @@ Location: Third Floor
 
 #### FRIDAY 26 July {#room-friday}
 
-| **Time**    | **Tennyson (12 people)** | **Prince of Wales/Oxford (40 people)** | 
+| **Time**    | **Tennyson (16 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 08:00-08:30 |                   | eodir   |   
 | 08:30-09:00 |                   | eodir  |   
