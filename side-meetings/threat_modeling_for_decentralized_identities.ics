@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+X-WR-CALNAME:Threat Modeling for Decentralized Identities
+METHOD:PUBLISH
+PRODID:-//Apple Inc.//macOS 14.3//EN
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:GMT-7
+TZOFFSETTO:-0700
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:GMT-8
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Vancouver:20240725T163000
+UID:6nc25gdt9p88hsun0uotms6rb1@google.com
+DTSTAMP:20240723T175759Z
+LOCATION:Tennyson
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin Zoom Meeting\nhttps://w3c.zoom.us/j/85
+ 901173875?pwd=04FtVUSbfnqIJaz5Ky8lAdTkNjAXGI.1 (ID: 85901173875\, passco
+ de: 311823)\n\nJoin by phone\n(US) +1 253-215-8782 (passcode: 311823)\n\
+ nJoin using SIP\n85901173875@zoomcrc.com (passcode: 311823)\n\nJoining i
+ nstructions: https://www.google.com/url?q=https://applications.zoom.us/a
+ ddon/invitation/detail?meetingUuid%3Du6GPtWeAT%252FiKuJvGeTdcmQ%253D%253
+ D%26signature%3D1e5bbdd5ef55686bd19fede2003925ba153049a4b72c6c31b7cd6d9a
+ f9531f30%26v%3D1&sa=D&source=calendar&usg=AOvVaw3R48blmSeJu3mpdOYADWTg\n
+ \n------------<br /><a href="https://www.google.com/url?q=https://suppor
+ t.zoom.us/hc/en-us/articles/360020187492-Zoom-for-GSuite-add-on-Troubles
+ hooting%23h_01FRGZTWJYRGRDMPQW4N041QF7&amp\;sa=D&amp\;source=calendar&am
+ p\;usg=AOvVaw3pOlmJKYg-DG37_G4Qn9Q2" target="_blank">Zoom for G Suite Ad
+ d-On Help</a><br />------------<br /><br />Meeting host: <a href="mailto
+ :simone@w3.org" target="_blank">simone@w3.org</a><br /><br />Join Zoom M
+ eeting: <br /><a href="https://www.google.com/url?q=https://w3c.zoom.us/
+ j/85901173875?pwd%3D04FtVUSbfnqIJaz5Ky8lAdTkNjAXGI.1&amp\;sa=D&amp\;sour
+ ce=calendar&amp\;usg=AOvVaw29nU3s6nTJ8cWsIOsfyBse" target="_blank">https
+ ://w3c.zoom.us/j/85901173875?pwd=04FtVUSbfnqIJaz5Ky8lAdTkNjAXGI.1</a>\n\
+ nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:Threat Modeling for Decentralized Identities
+DTSTART;TZID=America/Vancouver:20240725T150000
+LAST-MODIFIED:20240723T175415Z
+CREATED:20240723T175415Z
+BEGIN:VALARM
+UID:D346A30E-8E6D-4D77-AECA-676918596202
+X-WR-ALARMUID:D346A30E-8E6D-4D77-AECA-676918596202
+TRIGGER:-PT10M
+DESCRIPTION:This is an event reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
