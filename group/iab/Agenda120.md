@@ -2,7 +2,7 @@
 title: Agenda120
 description: IAB Agenda at IETF 120
 published: true
-date: 2024-07-21T22:26:58.584Z
+date: 2024-07-23T20:50:21.298Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:05:10.316Z
@@ -96,8 +96,11 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > Meeting IETF Counsel (15 mins)
 >
 > Reviewing new work (20 mins) - BoF summaries, any items from new work help desk
+>
+> NomCom IAB Job Description
 > 
 > Executive Session: Vote on RZERC Appointment
+>
 
 ## Friday, 2024-07-26
 
