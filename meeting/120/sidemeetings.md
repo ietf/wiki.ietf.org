@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-23T20:13:31.107Z
+date: 2024-07-23T22:08:26.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -233,8 +233,8 @@ Location: Third Floor
 | **Time**    | **Tennyson (16 people)** | **Prince of Wales/Oxford (40 people)** | 
 |-------------|-------------------|--------------------| 
 | 07:30-08:00 |  | **NOT AVAILABLE**  |  
-| 08:00-08:30 | Deepspace IP | **NOT AVAILABLE**  |   
-| 08:30-09:00 | Deepspace IP| **NOT AVAILABLE**  |   
+| 08:00-08:30 | Deepspace IP | rSPF  |   
+| 08:30-09:00 | Deepspace IP| rSPF  |   
 | 09:00-09:30 | Deepspace IP | **NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |  |   
 | 10:00-10:30 |                   |  |   
