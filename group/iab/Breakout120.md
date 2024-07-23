@@ -2,7 +2,7 @@
 title: Breakout120
 description: IAB Breakout Room Reservations at IETF 120
 published: true
-date: 2024-07-22T18:39:33.843Z
+date: 2024-07-23T14:38:59.401Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:07:34.646Z
@@ -35,6 +35,7 @@ For food & beverage service requests, please include:
 ## Wednesday 
 
 * 0800-0920: : E-impact informal meeting (Suresh)
+* 1630-1730: AI-CONTROL Workshop PC
 
 ## Thursday 
 
