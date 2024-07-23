@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-23T22:08:26.912Z
+date: 2024-07-23T22:46:38.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -119,7 +119,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | https://ietf.webex.com/meet/sidemeetingietf2  | TBA |
 |  10:00-11:00   | Prince of Wales/Oxford | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
-|  11:30 - 13:00   | Prince of Wales/Oxford | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | [webex](https://ietf.webex.com/meet/sidemeetingietf1)  | [TPM](/side-meetings/TPMTutorial.ics) |
+|  11:30 - 13:00   | Prince of Wales/Oxford | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | [webex](https://ietf.webex.com/meet/sidemeetingietf2)  | [TPM](/side-meetings/TPMTutorial.ics) |
 |  13:00 - 14:00   | Tennyson | RESTful EPP  |  ART |  Maarten Wullink <maarten.wullink@sidn.nl>  | Deep-dive into further development of the RESTful EPP specificaion | TBA | TBA |
 |  14:00 - 15:00   | Tennyson | [ALFA 2.0 - the Abbreviated Language for Authorization](https://davidjbrossard.github.io/alfa-authorization-language/draft-brossard-alfa-authz.html) |  - | David Brossard <david.brossard@gmail.com>  | Introducing an updated authorization language for fine-grained access control.  | https://ietf.webex.com/meet/sidemeetingietf1  | https://calendar.app.google/wsirsTaXF9t1ADsS8 |
 | 15:00-16:30 |Prince of Wales/Oxford | [v6ops](https://datatracker.ietf.org/wg/v6ops) Side Meeting|ops|Nick Buraglio buraglio@forwardingplane.net Xipengxiao xipengxiao@huawei.com | Discussion of IPv6 Operational issues and progress |TBA|TBA|
