@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-07-12T12:33:46.504Z
+date: 2024-07-23T12:44:12.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,8 +21,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|-|
-|Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started|
+|WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|waiting for a revision|
+|Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started, waiting for a I-D update|
 |Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv/Andrew|Waiting for authors to make an update|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -32,7 +32,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |Item|Document|Remarks|
 |---|---|---|
-|AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29|
+|AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29, AD review done and now waiting for final resolution, may need to wait for IANA I-D|
 |AD Review|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
 |AD Review|draft-ietf-pce-pcep-yang|Submitted on 2024-05-22|
 |AD Review|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
