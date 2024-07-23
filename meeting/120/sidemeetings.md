@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-23T08:06:13.402Z
+date: 2024-07-23T08:10:39.738Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -89,7 +89,7 @@ Please keep the tables sorted by meeting, by time.
 | 09:30-11:30    | Prince of Wales/Oxford | Tutorial: Attested TLS and Formalization| SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Interactive Tutorial: Towards Formal Verification of Attested TLS  | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](/side-meetings/Tutorial-aTLS.ics)|
 | 09:30-11:00 | Tennyson | SCIM: Large Object Pagination | SEC | aaron@parecki.com | Discuss methods for large object pagination in SCIM | [Zoom](https://us06web.zoom.us/j/83465285353?pwd=84c44Ey2k7rgfD4gMHWBp9ORUVaTUA.1) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-8HassWHAXn16.ics) |
 | 11:30-13:00    |Tennyson|Telecom Cloud Services and Operations| OPS, RTG|xiechf@chinatelecom.cn, hujy5@chinatelecom.cn| Share experiences on the deployment and operations of Telecom Cloud services, discuss the requirements and gaps that might be solved by IETF| https://ietf.webex.com/meet/sidemeetingietf1|TBD|
-| 11:30-13:00    | Prince of Wales/Oxford | Open Source Routing | RTG  | lberger@labn.net  | Open roundtable discussions on open source routing  | |Webex|(https://ietf.webex.com/meet/ietfsidemeeting2)  | [ICS](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=XzZoMmplZGk1NjkyajhiOW84b29qZ2I5azc1MTM0YmExNjkzM2diYTI4Z3MzNGc5Zzg4bzM0ZDloODggNmI0ZGNkNGQyOGUwZThiOGQ3ODAyYjZmMjBjMTkxMzk5NTJjOTU4NDEyYWE2OWJmZWE3NDliNmU1Y2U2Y2E5OUBn&tmsrc=6b4dcd4d28e0e8b8d7802b6f20c19139952c958412aa69bfea749b6e5ce6ca99%40group.calendar.google.com) |
+| 11:30-13:00    | Prince of Wales/Oxford | Open Source Routing | RTG  | lberger@labn.net  | Open roundtable discussions on open source routing  | [Webex](https://ietf.webex.com/meet/ietfsidemeeting2)  | [Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=XzZoMmplZGk1NjkyajhiOW84b29qZ2I5azc1MTM0YmExNjkzM2diYTI4Z3MzNGc5Zzg4bzM0ZDloODggNmI0ZGNkNGQyOGUwZThiOGQ3ODAyYjZmMjBjMTkxMzk5NTJjOTU4NDEyYWE2OWJmZWE3NDliNmU1Y2U2Y2E5OUBn&tmsrc=6b4dcd4d28e0e8b8d7802b6f20c19139952c958412aa69bfea749b6e5ce6ca99%40group.calendar.google.com) |
 | 13:00-15:30    | Prince of Wales/Oxford |  AI4NETWORK | OPS, RTG, SEC | d.king@lancaster.ac.uk, c.l@huawei.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? [Agenda](https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md) |  https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 | 13:30-15:00    | Tennyson |  NETCONF private candidates | OPS  | james.cumming@nokia.com, rowills@cisco.com | Discussing strategic approach and modelling |  https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 | 15:30-17:30    | Prince of Wales/Oxford |  High-Performance WAN | RTG  | zhang.zheng@zte.com.cn, yaokehan@chinamobile.com  | Discussing HP-WAN use cases and requirements  |  https://ietf.webex.com/meet/ietfsidemeeting2  | https://github.com/xiongquan1230/IETF120-Sidemeeting-HP-WAN |
