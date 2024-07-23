@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-07-22T23:44:52.021Z
+date: 2024-07-23T15:24:53.978Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -186,6 +186,7 @@ Location: Dover, 4th floor ([floor plan](https://datatracker.ietf.org/meeting/12
 ## Wednesday, 24 July 2024
 
 * 08:00-09:30 - IAB AI-CONTROL Program Committee
+* 17:00-17:30 - Pre-plenary prep (Éric V)
 
 ## Thursday, 25 July 2024
 
