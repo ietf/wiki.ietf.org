@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-24T18:37:37.277Z
+date: 2024-07-24T18:40:57.280Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -105,7 +105,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 8:00-9:30 | Tennyson | Deepspace IP | INT | marc.blanchet@viagenie.ca | Use of IP in deep space | https://ietf.webex.com/meet/sidemeetingietf1 | [ICS](/side-meetings/ietf_120_side_meeting_-_deepspace_ip.ics) |
-| 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/ietfsidemeeting2 | [ICS](/side-meetings/uns-uca.ics) |
+| 13:00-14:30 | Prince of Wales/Oxford | UNS/UCA for a Global Least-Trust Information Space | SEC | manu@hushmesh.com | Update on the UNS/UCA - Creating a Global Least-Trust Information Space| https://ietf.webex.com/meet/ietfsidemeeting2 | - |
 | 13:00-14:30 | Tennyson | SCIM: Delta Queries | SEC | Danny.Zollner@microsoft.com | Discuss a significant update to the SCIM Delta Query draft | [Zoom](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkN2M5NGUtZTQ2Ni00NmRjLWE0OTMtYzRmNTlmNjBkMjFi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f2bb5591-9657-4748-8ff5-b542dc8e7434%22%7d) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-O9Yfhw4xZE26.ics) |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu (yingzhen.ietf@gmail.com) /Jeff Tantasura (jefftant.ietf@gmail.com)  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | [aidc.ics](/side-meetings/aidc.ics)  |
 | 15:30-17:30    | Tennyson | I2INF | OPS | Jaehoon Paul Jeong (pauljeong@skku.edu) | Interface to In-Network Functions  | https://us02web.zoom.us/j/87173908036?pwd=lIjbDFlLFizXP8QpNPydOayrlLMdKQ.1  | TBD |
