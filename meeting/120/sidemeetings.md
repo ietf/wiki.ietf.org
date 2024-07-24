@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-24T18:40:57.280Z
+date: 2024-07-24T21:38:43.234Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -125,7 +125,7 @@ Please keep the tables sorted by meeting, by time.
 | 15:00-16:30 |Prince of Wales/Oxford | [v6ops](https://datatracker.ietf.org/wg/v6ops) Side Meeting|ops|Nick Buraglio buraglio@forwardingplane.net Xipengxiao xipengxiao@huawei.com | Discussion of IPv6 Operational issues and progress |TBA|TBA|
 | 15:00-16:30   | Tennyson | Threat Modeling for Decentralized Identities | -  |  Simone Onofri <simone@w3.org> |  Session on creating a meta [Threat Model for Decentralised Identities](https://github.com/WICG/digital-credentials/issues/115) for Security, Privacy and Harm. | [Conference (Zoom)](https://w3c.zoom.us/j/85901173875?pwd=04FtVUSbfnqIJaz5Ky8lAdTkNjAXGI.1) | [ICS](/side-meetings/threat_modeling_for_decentralized_identities.ics) |
 |  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | [Discussing upcoming problem and challenges in interconnecting DC for AI](https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai). | https://ietf.webex.com/meet/ietfsidemeeting2 | [ICS](/side-meetings/inter-dcn-sidemeeting-ietf120.ics)|
-|  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | -  | TBA  | TBA |
+|  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | Public Interest Technology Group (PITG)  | [Zoom Link](https://zoom.us/j/94997587258?pwd=tKfG1pqeQVCYr662SvSnIHRyMyg1LM.1)  | TBA |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
