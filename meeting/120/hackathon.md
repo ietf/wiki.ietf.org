@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-21T17:40:03.484Z
+date: 2024-07-24T22:15:39.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -91,6 +91,8 @@ If you received the email but the link to create an account has expired, please 
 * Code can be accessed from [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
 * Results of Hackathon projects should be uploaded to [GitHub](https://github.com/IETF-Hackathon/ietf120-project-presentations). See the [README](https://github.com/IETF-Hackathon/ietf120-project-presentations/blob/main/README.md) for details.
+* The Hackathon Results presentations from Sunday, 14:00-16:00, are available on datatracker:
+    * https://datatracker.ietf.org/meeting/120/session/hackathon#autoid-16
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
