@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2024-07-24T18:06:05.992Z
+date: 2024-07-24T18:23:17.094Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -18,7 +18,6 @@ The following page tracks BESS drafts needing feedback from IDR
    2024 Reviewer: Jeff Haas 
    2021 Reviewer: Susan Hares 
       
-
 2.  [Feedback on draft-ietf-bess-srv6-service](/group/idr/draft-ietf-bess-srv6-services)
   Reviewer: Jeff Haas 
   [Review]:(https://mailarchive.ietf.org/arch/msg/idr/aNs3-rs2-nWAVvNKRFOreBcRdgc/)
@@ -26,6 +25,7 @@ The following page tracks BESS drafts needing feedback from IDR
  2) [Feedback on draft-ietf-bess-bgp-multicast-controller](/group/idr/draft-ietf-bess-bgp-multicast-controller)
  Reviwer: Susan Hares
  [Review]:(https://mailarchive.ietf.org/arch/msg/bess/gCydvdkALH_eN7IANfyDzyHh4xo/)
+ Status: needs to be resolved 
   
   ## Draft Feedback Pending
   
@@ -33,13 +33,18 @@ The following page tracks BESS drafts needing feedback from IDR
  
  [draft-ietf-bess-evpn-unequal-lb ](https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-unequal-lb/)    
  Reviewer: (Keyur Patel) - version 15 or later
- Missing link: 
+ Requested: Feb 2024 
+ status: pending 
  
- 2) [Feedback on draft-ietf-bess-bgp-multicast-controller](/group/idr/draft-ietf-bess-bgp-multicast-controller)
- Reviwer: Susan Hares
- [Review]:(https://mailarchive.ietf.org/arch/msg/bess/gCydvdkALH_eN7IANfyDzyHh4xo/)
-
+ 2) draft-ietf-bess-multicast 
+ Reviewer: Susan Hares
+ Note: Keyur Patel (IDR co-chair) is a co-author 
+ Requested: April 2024 (ETA 7/29) 
  
+ 2) [Feedback on draft-ietf-bess-ebgp-dmz](/group/idr/draft-ietf-bess-ebgp-dmz)
+ Reviewer:  Susan Hares 
+ Requested: April 2024 (ETA 7/29) 
  
- 3) [Feedback on draft-ietf-bess-ebgp-dmz](/group/idr/draft-ietf-bess-ebgp-dmz)
- Reveiwer: Susan Hares 
+ 3) draft-ietf-bess-evpn-geneve-08 
+   Reviewer: TBD 
+   Requested: (7/24) 
