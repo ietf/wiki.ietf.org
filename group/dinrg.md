@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2024-07-23T09:11:12.930Z
+date: 2024-07-24T18:15:55.140Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -14,7 +14,7 @@ The Decentralization of the Internet Research Group (DINRG) aims to provide for 
 
 ## DINRG Administrative Information
 
-* [Official DINRG web page](https://irtf.org/dinrg)
+* [Official DINRG web page](https://www.irtf.org/dinrg.html)
 * [Mailing list](https://www.irtf.org/mailman/listinfo/din)
 * [Charter](https://datatracker.ietf.org/rg/dinrg/charter/)
 * [Previous Meetings](https://datatracker.ietf.org/rg/dinrg/meetings/)
