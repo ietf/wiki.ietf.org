@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-23T22:47:03.767Z
+date: 2024-07-24T01:22:48.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -237,8 +237,8 @@ Location: Third Floor
 | 08:30-09:00 | Deepspace IP| rSPF  |   
 | 09:00-09:30 | Deepspace IP | **NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |  |   
-| 10:00-10:30 |                   |  |   
-| 10:30-11:00 |                   |                    |   
+| 10:00-10:30 | SCIM & SSF                  |  |   
+| 10:30-11:00 | SCIM & SSF                  |                    |   
 | 11:00-11:30 |                   |   |   
 | 11:30-12:00 | **NOT AVAILABLE**                   | **NOT AVAILABLE**  |   
 | 12:00-12:30 |           **NOT AVAILABLE**         | **NOT AVAILABLE**  |   
