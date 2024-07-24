@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2024-07-24T18:23:17.094Z
+date: 2024-07-24T18:25:13.933Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
