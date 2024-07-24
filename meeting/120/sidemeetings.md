@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-24T01:22:48.625Z
+date: 2024-07-24T04:17:46.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -237,8 +237,8 @@ Location: Third Floor
 | 08:30-09:00 | Deepspace IP| rSPF  |   
 | 09:00-09:30 | Deepspace IP | **NOT AVAILABLE**  |   
 | 09:30-10:00 |                   |  |   
-| 10:00-10:30 | SCIM & SSF                  |  |   
-| 10:30-11:00 | SCIM & SSF                  |                    |   
+| 10:00-10:30 |                 |  |   
+| 10:30-11:00 |                  |                    |   
 | 11:00-11:30 |                   |   |   
 | 11:30-12:00 | **NOT AVAILABLE**                   | **NOT AVAILABLE**  |   
 | 12:00-12:30 |           **NOT AVAILABLE**         | **NOT AVAILABLE**  |   
@@ -272,9 +272,9 @@ Location: Third Floor
 | 10:00-10:30 |     **NOT AVAILABLE**               | ID Alignment |   
 | 10:30-11:00 |    **NOT AVAILABLE**                | ID Alignment |   
 | 11:00-11:30 |    **NOT AVAILABLE**                |  |   
-| 11:30-12:00 |                  | TPM Tutorial  |   
-| 12:00-12:30 |                  | TPM Tutorial  |   
-| 12:30-13:00 |                  | TPM Tutorial  |   
+| 11:30-12:00 |  SCIM & SSF                | TPM Tutorial  |   
+| 12:00-12:30 |  SCIM & SSF                | TPM Tutorial  |   
+| 12:30-13:00 |  SCIM & SSF                | TPM Tutorial  |   
 | 13:00-13:30 | regext                  | **NOT AVAILABLE**  |  
 | 13:30-14:00 | regext                  | **NOT AVAILABLE**  | 
 | 14:00-14:30 | ALFA 2.0 AuthZ Language                  |                    |  
