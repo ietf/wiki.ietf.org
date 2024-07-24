@@ -23,12 +23,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240722T174427Z
+DTSTAMP:20240724T121736Z
 UID:1721670201453-64274@ical.marudot.com
 DTSTART;TZID=America/Los_Angeles:20240725T113000
 DTEND;TZID=America/Los_Angeles:20240725T130000
-SUMMARY:TPM Tutorial for Attestation
+SUMMARY:Tutorial: TPM for Attestation
+URL:https://ietf.webex.com/meet/ietfsidemeeting2
 DESCRIPTION:Deep-dive into TPM technology and their use in attestation. Relevant for RATS\, LAMPS\, and other working groups.
-LOCATION:Tennyson
+LOCATION:Prince of Wales/Oxford
 END:VEVENT
 END:VCALENDAR
