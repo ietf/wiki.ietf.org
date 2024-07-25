@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-25T00:42:23.756Z
+date: 2024-07-25T05:31:39.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -272,9 +272,9 @@ Location: Third Floor
 | 10:00-10:30 |     **NOT AVAILABLE**               | ID Alignment |   
 | 10:30-11:00 |    **NOT AVAILABLE**                | ID Alignment |   
 | 11:00-11:30 |    **NOT AVAILABLE**                |  |   
-| 11:30-12:00 |  SCIM & SSF                | TPM Tutorial  |   
-| 12:00-12:30 |  SCIM & SSF                | TPM Tutorial  |   
-| 12:30-13:00 |  SCIM & SSF                | TPM Tutorial  |   
+| 11:30-12:00 |                | TPM Tutorial  |   
+| 12:00-12:30 |                | TPM Tutorial  |   
+| 12:30-13:00 |                | TPM Tutorial  |   
 | 13:00-13:30 | regext                  | **NOT AVAILABLE**  |  
 | 13:30-14:00 | regext                  | **NOT AVAILABLE**  | 
 | 14:00-14:30 | ALFA 2.0 AuthZ Language                  |                    |  
