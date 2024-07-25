@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-25T18:29:27.222Z
+date: 2024-07-25T19:23:06.483Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -123,7 +123,7 @@ Please keep the tables sorted by meeting, by time.
 |  13:00 - 14:00   | Tennyson | RESTful EPP  |  ART |  Maarten Wullink <maarten.wullink@sidn.nl>  | Deep-dive into further development of the RESTful EPP specificaion | [Zoom](https://denic-de.zoom.us/j/88910439371?pwd=FDkhMC1Bqx2dO0RRhIHThs8yrhACHL.1) | [repp-invite.ics](/side-meetings/repp-invite.ics) |
 |  14:00 - 15:00   | Tennyson | [ALFA 2.0 - the Abbreviated Language for Authorization](https://davidjbrossard.github.io/alfa-authorization-language/draft-brossard-alfa-authz.html) |  - | David Brossard <david.brossard@gmail.com>  | Introducing an updated authorization language for fine-grained access control.  | https://ietf.webex.com/meet/sidemeetingietf1  | https://calendar.app.google/wsirsTaXF9t1ADsS8 |
 | 15:00-16:30 |Prince of Wales/Oxford | [v6ops](https://datatracker.ietf.org/wg/v6ops) Side Meeting|ops|Nick Buraglio buraglio@forwardingplane.net Xipengxiao xipengxiao@huawei.com | Discussion of IPv6 Operational issues and progress |https://ietf.webex.com/meet/ietfsidemeeting2|TBA|
-| 15:00-16:30   | Tennyson | Threat Modeling for Decentralized Identities | -  |  Simone Onofri <simone@w3.org> |  Session on creating a meta [Threat Model for Decentralised Identities](https://github.com/WICG/digital-credentials/issues/115) for Security, Privacy and Harm. | [Conference (Zoom)](https://w3c.zoom.us/j/85901173875?pwd=04FtVUSbfnqIJaz5Ky8lAdTkNjAXGI.1) | [ICS](/side-meetings/threat_modeling_for_decentralized_identities.ics) |
+| 15:00-16:30   | Tennyson | Threat Modeling for Decentralized Identities | -  |  Simone Onofri <simone@w3.org> |  Brainstorming session for creating a Threat Model for Decentralized Identities/Credentials (Security, Privacy and Harm): [Live Threat Model](https://github.com/w3c-cg/threat-modeling/blob/main/models/decentralized-identities.md) (suggested pre-reading); [Agenda and Slides](https://docs.google.com/presentation/d/1dBwcyFWiKrvA5FgfAP7gFhE7__mYEMtmh8U0k-ZMdvw/edit#slide=id.p1). | [Conference (Zoom)](https://w3c.zoom.us/j/85901173875?pwd=04FtVUSbfnqIJaz5Ky8lAdTkNjAXGI.1) | [ICS](/side-meetings/threat_modeling_for_decentralized_identities.ics) |
 |  17:00-18:30   | Prince of Wales/Oxford | Inter-DC AI Problems and Challenges | - | dirk.trossen@huawei.com zhe.lou@huawei.com  ggx@gigix.net   | [Discussing upcoming problem and challenges in interconnecting DC for AI](https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai). | https://ietf.webex.com/meet/ietfsidemeeting2 | [ICS](/side-meetings/inter-dcn-sidemeeting-ietf120.ics)|
 |  19:30-20:00   | Tennyson | Public Interest Technology Group (PITG)  |  - | Gurshabad Grover <gurshabad@pm.me>  | Public Interest Technology Group (PITG)  | [Zoom Link](https://zoom.us/j/94997587258?pwd=tKfG1pqeQVCYr662SvSnIHRyMyg1LM.1)  | TBA |
 |     |  |   |   |   |   |   |  |
