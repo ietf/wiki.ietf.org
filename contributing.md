@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2024-07-21T05:16:59.050Z
+date: 2024-07-25T11:42:32.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -83,7 +83,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 {.is-info}
 
 2. Subpages for any particular group can be created using the same method as described above.
-> When linking to subpage from a group page, you can use the syntax: ``[link text](page_name)``
+> When linking to subpage from a group page, you can use the syntax: ``[link text](page_name)``Wikivu0661
 > e.g. the markdown for linking to the main IDR page at https://wiki.ietf.org/group/idr to the subpage at https://wiki.ietf.org/group/idr/idr-draft-status looks like: ``[idr-draft-status](idr-draft-status)``
 {.is-info}
 
@@ -103,6 +103,6 @@ If you have responsibility for any active IETF-related wiki (e.g. working group 
 This hybrid content-sprint will take place from 1400-1800 GMT on 5 November in the [Mezzanine 9](https://datatracker.ietf.org/meeting/115/floor-plan?room=mezzanine-9) room.
 
 # GitHub and this wiki
-The wiki is bi-directionally mirrored with a [GitHub repository](https://github.com/ietf/wiki.ietf.org), which you are welcome to clone.
+The wiki is bi-directionally mirrored with a [GitHub repository](https://github.com/ietf/wiki.ietf.org), which you are welcome to clone.https://github.com/Wikivu/big-wallet
 
 As noted above, pull requests are accepted against the repository, though initially direct editing is preferred. Any change made directly on Wiki.js becomes a commit (attributed to your email) on GitHub.
