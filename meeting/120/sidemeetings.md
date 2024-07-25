@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-24T22:51:26.359Z
+date: 2024-07-25T00:42:23.756Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -109,7 +109,7 @@ Please keep the tables sorted by meeting, by time.
 | 13:00-14:30 | Tennyson | SCIM: Delta Queries | SEC | Danny.Zollner@microsoft.com | Discuss a significant update to the SCIM Delta Query draft | [Zoom](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkN2M5NGUtZTQ2Ni00NmRjLWE0OTMtYzRmNTlmNjBkMjFi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f2bb5591-9657-4748-8ff5-b542dc8e7434%22%7d) | [ICS](https://events.scim.cloud/ics/2024/07/scim-side-meeting-at-ietf-120-O9Yfhw4xZE26.ics) |
 | 15:30-17:30    | Prince of Wales/Oxford | AIDC  | RTG  | Yingzhen Qu (yingzhen.ietf@gmail.com) /Jeff Tantasura (jefftant.ietf@gmail.com)  | New Technologies in AIDC  | https://ietf.webex.com/meet/ietfsidemeeting2  | [aidc.ics](/side-meetings/aidc.ics)  |
 | 15:30-17:30    | Tennyson | I2INF | OPS | Jaehoon Paul Jeong (pauljeong@skku.edu) | Interface to In-Network Functions  | https://us02web.zoom.us/j/87173908036?pwd=lIjbDFlLFizXP8QpNPydOayrlLMdKQ.1  | TBD |
-| 17:30-19:00 | Prince of Wales/Oxford | DNS-Based Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/sidemeetingietf2 | [Link](/side-meetings/dns-load-balancing-120-v2.ics) |
+| 17:30-19:00 | Prince of Wales/Oxford | DNS-Based Load Balancing | OPS | bemasc@meta.com | Improving standards support for DNS geotargeting and load balancing | https://ietf.webex.com/meet/ietfsidemeeting2 | [Link](/side-meetings/dns-load-balancing-120-v2.ics) |
 |  18:30- 20:00 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |   https://ietf.webex.com/meet/sidemeetingietf1 | [link.ics](/side-meetings/trusted_and_confidential_workloads-wed-jul-24-6_30pm.ics) |
 {.dense}
 
