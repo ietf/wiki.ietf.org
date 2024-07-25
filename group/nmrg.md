@@ -2,7 +2,7 @@
 title: NMRG RG - Network Management Research Group
 description: 
 published: true
-date: 2023-01-04T22:20:57.691Z
+date: 2024-07-25T00:44:11.924Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T19:40:03.663Z
@@ -13,7 +13,7 @@ dateCreated: 2022-12-19T19:40:03.663Z
 
 ## Introduction
 
-The [Network Management Research Group](http://irtf.org/nmrg) (NMRG) of the [Internet Research Task Force](http://irtf.org/) (IRTF) was approved by the [Internet Architecture Board](http://www.iab.org/) (IAB) on Sunday, 14 March 1999. If you have any questions, comments, or wishes, feel free to contact the research group by sending email to the nmrg@irtf.org mailing list. The mailing list is being archived at http://irtf.org/mailman/listinfo/nmrg.
+The [Network Management Research Group](https://www.irtf.org/nmrg.html) (NMRG) of the [Internet Research Task Force](http://irtf.org/) (IRTF) was approved by the [Internet Architecture Board](http://www.iab.org/) (IAB) on Sunday, 14 March 1999. If you have any questions, comments, or wishes, feel free to contact the research group by sending email to the nmrg@irtf.org mailing list. The mailing list is being archived at http://irtf.org/mailman/listinfo/nmrg.
 
 ## Charter
 
