@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-25T05:31:39.691Z
+date: 2024-07-25T15:44:54.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -117,7 +117,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | https://ietf.webex.com/meet/sidemeetingietf2  | TBA |
+|  09:00-10:00   | Prince of Wales/Oxford | Attested TLS |  - | Yaron Sheffer <yaronf.ietf@gmail.com>  | -  | [webex](https://ietf.webex.com/meet/ietfsidemeeting2)  | TBA |
 |  10:00-11:00   | Prince of Wales/Oxford | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
 |  11:30 - 13:00   | Prince of Wales/Oxford | Tutorial: TPM for Attestation  |  - | Monty Wiseman <monty.wiseman@beyondidentity.com>  | Deep-dive into TPM technology and their use in attestation. Relevant for RATS, LAMPS, and other working groups.  | [webex](https://ietf.webex.com/meet/ietfsidemeeting2)  | [TPM](/side-meetings/TPMTutorial.ics) |
 |  13:00 - 14:00   | Tennyson | RESTful EPP  |  ART |  Maarten Wullink <maarten.wullink@sidn.nl>  | Deep-dive into further development of the RESTful EPP specificaion | [Zoom](https://denic-de.zoom.us/j/88910439371?pwd=FDkhMC1Bqx2dO0RRhIHThs8yrhACHL.1) | [repp-invite.ics](/side-meetings/repp-invite.ics) |
