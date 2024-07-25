@@ -2,7 +2,7 @@
 title: ICNRG Wiki
 description: 
 published: true
-date: 2023-02-18T03:41:20.331Z
+date: 2024-07-25T00:40:19.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:00:02.553Z
@@ -12,7 +12,7 @@ dateCreated: 2023-01-30T03:00:02.553Z
 This is the Wiki for the IRTF ICN Research Group (ICNRG).
 
 ## ICNRG Administrative Information
-- [Official ICNRG web page](http://irtf.org/icnrg)
+- [Official ICNRG web page](https://www.irtf.org/icnrg.html)
 - [Mailing List](http://irtf.org/mailman/listinfo/icnrg)
 - [Charter](https://datatracker.ietf.org/rg/icnrg/charter/)
 ### Contact ICNRG chairs
