@@ -2,14 +2,14 @@
 title: NWC RG Wiki
 description: 
 published: true
-date: 2023-01-30T02:42:43.161Z
+date: 2024-07-25T00:44:54.356Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T02:42:37.747Z
 ---
 
 # Network Coding IRTF Research Group 
-[Official page here](https://irtf.org/nwcrg)
+[Official page here](https://irtf.org/nwcrg.html)
 ## Chairs
 - Vincent Roca vincent dot roca at inria dot fr
 - Marie-Jose Montpetit marie at mjmontpetit dot com
