@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-25T19:23:06.483Z
+date: 2024-07-26T03:13:10.979Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -136,7 +136,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |8:15-9:15|Prince of Wales/Oxford|EODIR@120|GEN|eodir-chairs@ietf.org|Education & Outreach Directorate [Agenda & notes](https://notes.ietf.org/eodir-20240726?view) | [Zoom](https://ietf.zoom.us/j/3671772413?pwd=TzhsaTNXcHhVYTRRMWEwUml3WnhwQT09&omn=84949522179) |[eodir_ietf_120.ics](/side-meetings/eodir_meeting_during_ietf_120.ics)
 | 9:00-10:30 | Tennyson | Trusted and Confidential Workloads  | -  |  Ned Smith <ned.smith@intel.com>, Thomas Fossati <thomas.fossati@linaro.com> | Brainstorming technology ingredients for trusted and confidential workloads  |   https://ietf.webex.com/meet/sidemeetingietf1 | [ietf120_side_meeting_-_trusted_and_confidential_workloads.ics](/side-meetings/ietf120_side_meeting_-_trusted_and_confidential_workloads.ics) |
-|  10:00-11:00   | Prince of Wales/Oxford | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | TBA  | TBA |
+|  10:00-11:00   | Prince of Wales/Oxford | ID Align |  - | Rifaat Shekh-Yusef <rifaat.s.ietf@gmail.com>  | -  | https://ietf.webex.com/meet/ietfsidemeeting2  | TBA |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
