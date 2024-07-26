@@ -2,7 +2,7 @@
 title: IETF 120 Side Meetings
 description: 
 published: true
-date: 2024-07-26T03:13:10.979Z
+date: 2024-07-26T17:16:21.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T13:01:35.173Z
@@ -301,10 +301,10 @@ Location: Third Floor
 | 09:00-09:30 | Confidential Workloads | eodir  |    
 | 09:30-10:00 | Confidential Workloads |   |   
 | 10:00-10:30 | Confidential Workloads |  ID Alignment |   
-| 10:30-11:00 |                   | ID Alignment |   
-| 10:30-11:00 |                   |                    |   
-| 11:00-11:30 |                   |**NOT AVAILABLE**   |   
-| 11:30-12:00 |                   | **NOT AVAILABLE**  |   
-| 12:00-12:30 |                   | **NOT AVAILABLE**  |   
-| 12:30-13:00 |                   | **NOT AVAILABLE**  |  
+| 10:30-11:00 | **NOT AVAILABLE**   | ID Alignment |   
+| 10:30-11:00 | **NOT AVAILABLE**   |                    |   
+| 11:00-11:30 | **NOT AVAILABLE**   |**NOT AVAILABLE**   |   
+| 11:30-12:00 | **NOT AVAILABLE**   | **NOT AVAILABLE**  |   
+| 12:00-12:30 | **NOT AVAILABLE**   | **NOT AVAILABLE**  |   
+| 12:30-13:00 | **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
 {.dense}
