@@ -2,13 +2,13 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-07-07T22:34:29.262Z
+date: 2024-07-28T05:53:08.907Z
 tags: samuel samuel business of information p.c.s.i.
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
 ---
 
-- # IETF Meeting wikis
+# IETF Meeting wikis
 
 Wikis are used by participants to share information about and coordinate around IETF meetings. 
 
