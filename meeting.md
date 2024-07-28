@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-07-28T05:53:39.913Z
+date: 2024-07-28T06:03:42.306Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -15,13 +15,6 @@ Wikis are used by participants to share information about and coordinate around 
 ## Upcoming meetings 
 
 ### {.tabset}
-
-#### IETF 120 Vancouver
-**July 20-26, 2024** - :canada: Vancouver, Canada
-- [IETF 120 Meeting Wiki](/meeting/120)
-- [IETF 120 Side Meetings](/meeting/120/sidemeetings)
-- [IETF 120 Hackathon](/meeting/120/hackathon)
-{.links-list}
 
 #### IETF 121 Dublin
 **November 2-8, 2024** - :ireland: Dublin, Ireland
@@ -48,6 +41,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
+| **IETF 120** | :canada: Vancouver, CA | July 20-26, 2024 | [Meeting Wiki](/meeting/120) - [Side Meetings](/meeting/120/sidemeetings) - [Hackathon](/meeting/120/hackathon) |
 | **IETF 119** | :australia: Brisbane, AU | March 16-22, 2024 | [Meeting Wiki](/meeting/119) - [Side Meetings](/meeting/119/sidemeetings) - [Hackathon](/meeting/119/hackathon) |
 **IETF 118** | :czech_republic: Prague, CZ | November 4-11, 2023 | [Meeting Wiki](/meeting/118) - [Side Meetings](/meeting/118/sidemeetings) - [Hackathon](/meeting/118/hackathon) |
 | **IETF 117** | :us: San Francisco, US | July 22-28, 2023 | [Meeting Wiki](/meeting/117) - [Side Meetings](/meeting/117/sidemeetings) - [Hackathon](/meeting/117/hackathon) |
