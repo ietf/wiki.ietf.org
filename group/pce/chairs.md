@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-07-23T23:52:52.043Z
+date: 2024-07-30T03:18:29.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -22,7 +22,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 |WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|waiting for a revision|
-|Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started, waiting for AD approval|
+|Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started, waiting for IANA approval|
 |Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv/Andrew|Waiting for authors to make an update|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
