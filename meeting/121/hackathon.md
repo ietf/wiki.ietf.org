@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-07-30T21:41:54.009Z
+date: 2024-07-30T21:53:50.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -12,7 +12,7 @@ dateCreated: 2024-07-30T21:41:54.009Z
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * :spiral_calendar: **When**: 02 - 03 November 2024 (Saturday - Sunday)
-* :canada: **Where**: The Convention Centre Dublin (CCD)
+* :ireland: **Where**: The Convention Centre Dublin (CCD)
 * :cityscape: **Room**: TBD
 {.grid-list}
 
