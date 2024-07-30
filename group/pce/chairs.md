@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-07-30T03:18:29.424Z
+date: 2024-07-30T03:35:59.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,6 +21,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|IANA Inconsistency|RFC8780|Dhruv|Written to IANA|
 |WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|waiting for a revision|
 |Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started, waiting for IANA approval|
 |Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv/Andrew|Waiting for authors to make an update|
