@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-07-30T18:10:09.891Z
+date: 2024-07-31T03:37:46.326Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -153,7 +153,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |draft-ietf-pce-segment-routing-ipv6| WG I-D | various<br><br>Error-Type 10 : Value 44 was dropped 2024-07-25 |2022-01-12|2023-12-14|2025-01-12|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |[1]ASSOCIATION Type & TLV<br><br>[2]PCEP TLV Type, PCEP-ERROR types, TE-PATH-BINDING|[1]2021-03-30<br><br>[2]2024-02-13|[1]2024-02-16<br><br>[2] -|[1]2025-03-30<br><br>[2]2025-02-13| 
 |draft-ietf-pce-pcep-extension-native-ip| WG I-D |- CCI Object-Type<br>- BGP Peer Info Object-Type<br>- Explicit Peer Route Object-Type<br>- Peer Prefix Advertisement Object-Type<br>- PCEP-ERROR Object Error Type<br>- Path Setup Type<br>- PCECC-Capability sub-TLV<br><br> Nearing expiration, chair and AD approved extension, pending|2023-08-14|-|2024-08-14| 
-|draft-ietf-pce-sid-algo|WG I-D| 5 allocation done. |2023-09-13|2024-07-23|2025-09-13|
+|draft-ietf-pce-sid-algo|WG I-D| 5 allocation done.<br><br>Bandwidth related |2023-09-13<br><br>2024-07-30|2024-07-23<br><br> |2025-09-13<br><br>2025-07-30|
 |draft-ietf-pce-pcep-color|WG I-D| 3 allocations done |2023-10-30|-|2024-10-30|
 |draft-ietf-pce-sr-bidir-path |WG I-D|ASSOCIATION Type code point 8|2023-11-30|-|2024-11-30|
 |draft-ietf-pce-circuit-style-pcep-extensions |WG I-D|STATEFUL-PCE-CAPABILITY TLV Flag<br>LSP-EXTENDED-FLAG TLV Flag<BR>PCEP TLV TYPE|2024-02-23|-|2025-02-23|
