@@ -2,7 +2,7 @@
 title: IAB Nomcom
 description: 
 published: true
-date: 2024-08-01T21:28:11.474Z
+date: 2024-08-01T21:36:16.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:20:04.160Z
@@ -34,7 +34,8 @@ and Recall Committees". Within this process, the IAB has several roles:
 
 ## Guidelines for the IAB Liaison to Nomcom
 
-> These guidelines apply when the liaison is speaking to NomCom in his or her liaison role.
+> These guidelines apply when the liaison is speaking to NomCom in their
+> liaison role.
 > 
 > The person who fills the liaison role may also provide personal feedback
 > to NomCom but only through communication channels available to general
