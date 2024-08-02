@@ -100,9 +100,10 @@ executive director) can call a vote without first placing the topic on an IAB
 meeting agenda. If all voting members reply and they have all voted
 affirmatively or recused themselves, then the decision is considered to have
 the full consensus of the IAB and does not need to follow the Normal Process
-described above. If any voting member votes against the decision, or simply
-requests a discussion on the topic, then the topic is added to the agenda of an
-upcoming IAB meeting and the Normal or Alternative Process is followed as usual.
+described above. If any voting member votes against the decision, has not
+responded, or simply requests a discussion on the topic, then the topic is
+added to the agenda of an upcoming IAB meeting and the Normal or Alternative
+Process is followed as usual.
 
 ## Alternative Process
 
