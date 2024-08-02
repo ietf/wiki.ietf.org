@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-02T19:34:00.137Z
+date: 2024-08-02T19:34:15.461Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -231,7 +231,6 @@ In Progress:
 
 ## Planned IRTF RG Reviews 
 
-* IETF 120: RASPRG
 * IETF 121: T2TRG
 * IETF 122: DINRG
 * IETF 123: ICNRG
