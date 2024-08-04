@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-07-30T03:35:59.225Z
+date: 2024-08-04T05:53:15.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|-|
+
 
 
 
@@ -21,11 +21,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|IANA Inconsistency|RFC8780|Dhruv|Written to IANA|
-|WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|waiting for a revision|
-|Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|New early allocation for some new codepoints started, waiting for IANA approval|
+|Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|Poll ends on 19th Aug|
 |Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv/Andrew|Waiting for authors to make an update|
-|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -41,6 +38,10 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish; authors made an update|
+|Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|-|
+|IANA Inconsistency|RFC8780|Dhruv|IANA updates|
+|WG Adoption|draft-ietf-pce-stateful-pce-vendor|Dhruv|-|
 |WGLC|draft-ietf-pce-segment-routing-policy-cp|Dhruv|Needs Managability Section|
 |WG Adoption|draft-li-pce-controlled-id-space|Dhruv|comments to be handled|
 | Shepherd Review | draft-ietf-pce-pcep-yang| Julien | - |
