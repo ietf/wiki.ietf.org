@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-07-31T03:37:46.326Z
+date: 2024-08-04T05:53:52.834Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -143,7 +143,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 |Draft|State|Remarks|
 | --- | --- | --- |
 | draft-ietf-pce-sr-path-segment-06 | WG I-D | Authors requested early allocation on 2022-08-19; dependent on PCEP-SRv6 / PCECC-SR  |
-| draft-ietf-pce-sr-p2mp-policy | WG I-D | Authors requested early allocation on 2024-06-25 | 
+| draft-ietf-pce-sr-p2mp-policy | WG I-D | Poll ends on 2024-08-19 | 
 
 ### Early IANA Allocations
 
