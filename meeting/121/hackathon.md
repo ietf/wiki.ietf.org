@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-07-30T21:53:50.844Z
+date: 2024-08-05T22:44:22.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -97,7 +97,7 @@ If you received the email but the link to create an account has expired, please 
    * Before the Hackathon, champions should:
       * Add information about your project to the list of [Projects included in Hackathon](#ProjectsIncludedinHackathon)
       * Recruit participants from associated working groups, open source projects, etc. Announcing your projects via an email to (hackathon@ietf.org) can be helpful as well.
-      * Specify when and how the project team will meet on the [Team Schedule](teamschedule)
+      * Specify when and how the project team will meet on the [Team Schedule](teamschedule) 
    * At the Hackathon, champions should: 
       * Make themselves available to answer questions and help others
       * Hack on things themselves in their copious free time
