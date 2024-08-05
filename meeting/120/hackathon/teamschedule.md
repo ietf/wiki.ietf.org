@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon Team Schedule
 description: 
 published: true
-date: 2024-05-21T18:16:10.644Z
+date: 2024-08-05T22:42:45.441Z
 tags: hackathon
 editor: markdown
 dateCreated: 2024-05-21T18:16:10.644Z
