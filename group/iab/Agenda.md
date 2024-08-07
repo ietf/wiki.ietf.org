@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-02T19:34:15.461Z
+date: 2024-08-07T16:50:19.748Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-08-07 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-08-14 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-08-02. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-08-07. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,7 +31,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-07-10 business meeting - (submitted 2024-07-10)
 * 2024-07-21 business meeting - (submitted 2024-07-25)
 * 2024-07-23 business meeting - (submitted 2024-07-25)
 * 2024-07-25 business meeting - (submitted 2024-07-25) 
@@ -40,32 +39,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Done:
 
-*  2024-03-17: Mirja Kühlewind and Suresh Krishnan to update the text 
-    that describes Technical Programs and Administrative Support 
-    Groups.
 
-*  2024-05-15: Wes Hardaker and Suresh Krishnan to follow up on a 
-    proposal for a workshop on network management.
-
-*  2024-05-29: Suresh Krishnan, Dhruv Dhody, and Matthew Bocci to 
-    review the FCC Notice of Proposed Rulemaking PS Docket Nos. 24-146 
-    and 22-90 and flag any items the IAB would like ISOC to include in 
-    their response. 
-    See https://docs.fcc.gov/public/attachments/DOC-402609A1.pdf
-
-*  2024-06-05: Tommy Pauly, Suresh Krishnan, Matthew Bocci, and Dhruv 
-    Dhody to interview RZERC candidates.
-
-*  2024-06-05: Alissa Cooper, Dhruv Dhody, and Mirja Kühlewind to work 
-    with Mark Nottingham on a proposal for an IAB workshop on AI Opt-
-    Out.
-
-*  2024-06-25: Alissa Cooper to figure out a location/date for an AI 
-    opt-out workshop by July 1 and let Mark Nottingham know it's in 
-    progress.
-
-*  2024-06-25: David Schinazi will make a proposal for decision-making 
-    using the 2-dissent rule for everything.
 
 On Hold:
 
@@ -98,10 +72,6 @@ In Progress:
     can be a session request in the Datatracker before scheduling 
     requests close.
 
-*  2024-06-25: Alissa Cooper, Dhruv Dhody, Mirja Kühlewind, Alvaro 
-    Retana, Suresh Krishnan, Qin Wu to form AI opt-out workshop program 
-    committee.
-
 *  2024-06-25: 2024-06-24: Suresh Krishnan to draft a document 
     obsoleting RFC 3113 (Update RFC3113 to in only high level details 
     of the collaboration (3GPP-IETF co-ordination team) and move the 
@@ -110,9 +80,6 @@ In Progress:
 
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
-
-*  2024-07-21: David Schinazi to work with Greg Wood to merge the 
-    updates in GitHub to the IAB wiki page on voting.
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -142,38 +109,14 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  RZERC - Announcement to be sent
-
 *  ICANN Board Liaison - Call for Feedback ends 2024-08-19; interviews 
     in progress 
 
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
-### 2. AI Control Workshop Update (Program Committee) - 10 mins (Public)
-
-  Goal: Status update (call for papers closed 2024-08-02)
- 
-
-### 3. Next Era of Network Management Operations (NEMOPS) Workshop Update - 
-   10 mins (Public)
-
-  Goal: Status update
-
-
-### 4. Followup from IETF 120 (All) - 10 mins (Public)
-
-  Goal: Are there things from IETF 120 (e.g. IS Open, New Work Help 
-  Desk) that require further discussion or action?
-
-
-5. Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2024-08-14?
-
 
 ## Upcoming Teleconferences 
 
-* 2024-08-14: IAB Business Meeting (Reserved)
 * 2024-08-21: IAB Business Meeting
     * Monthly Reports
 * 2024-08-28: IAB Technical Discussion (Reserved)
