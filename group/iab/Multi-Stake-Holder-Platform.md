@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:19:34.265Z
+date: 2024-08-08T14:20:09.356Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -439,31 +439,19 @@ RFCs [4103](http://www.rfc-editor.org/rfc/rfc4103.txt) and [5194](http://www.rfc
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-318-acccessibility-of-ict-products-and-services
 
 ### 3.1.9 Artificial Intelligence
-**RP:** AI is a field that has had little standardisation activities in the past. However, the big increase of interest and activities around AI in the latest years brings together a need for the development of a coherent set of AI standards. In response to this, ISO has created a standardisation committee on AI, namely ISO/IEC JTC 1/SC 42, which is mostly active in the field of big data. The professional association IEEE is also very active in investigating and proposing new standards for AI, particularly in the field of ethics of autonomous and intelligent systems. The European Commission has launched its Communications of 25th April and a number of initiatives about AI, which are commented below.
-
-Most of these activities are recent and will lead to requests for developing new standards. For the time being, there are no significant past activities to report about their progress.
-
-The most likely areas where new AI standards will be required are the following:
-
-- AI vocabulary and definitions
-- Benchmarking
-- Ethics
-- Safety
-- Knowledge representation
-- Data interchange formats
-- Computer system integration and APIs
-
-Action 1: SDOs should establish coordinated linkages with, and adequately consider European requirements or expectations from initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the contents of the EU proposal for an AI Regulation and of the standardisation request on AI issued by the European Commission in 2023 as well as the orientations set in the 2021 review of the Coordinated Plan.
+**RP:** 
+Action 1: SDOs should establish coordinated linkages with, and adequately consider European requirements or expectations from initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the contents of the AI Act, the standardisation request on AI issued by the European Commission in 2023, its amendment, as well as the orientations set in the 2021 review of the Coordinated Plan.
 
 Action 2: SDOs should further increase their coordination efforts around AI standardisation both in Europe and internationally in order to avoid overlap or unnecessary duplication of efforts and aim to the highest quality to avoid  the creation and use of discriminating algorithms and to ensure a trustworthy and safe deployment of this technology.
 
-Action 3: ESOs should coordinate with the Commission and appropriately direct their activities to ensure that the objectives set in the standardisation request on AI issued in 2023 are adequately and timely fulfilled. This includes ensuring active participation of representatives from SMEs and civil society organisations in their activities. 
+Action 3: ESOs should coordinate with the Commission and appropriately direct their activities to ensure that the objectives set in the standardisation request on AI issued in 2023 (and its amendment) are adequately and timely fulfilled. This includes ensuring active participation of representatives from SMEs and civil society organisations in their activities. 
 
-Action 4: Taking into account the cross-sectorial aspects of the proposed AI Regulation and the interactions between the AI Regulation and existing or future sectorial safety legislation (for example the proposed new EU Regulation on machinery products), ESOs shall devote specific attention to the elaboration of standards on the methodology of risk assessment of cyber-physical products powered by AI and on the testing framework.
+Action 4: SDOs to take into account the cross-sectorial aspects of the AI Act and the interactions between the AI Act and existing or future sectorial safety legislation.
 
 Action 5: EC and ESOs should coordinate to promote mobilisation of stakeholders around AI standardisation activities.
 
-Action 6: EC/JRC to coordinate with SDOs and other initiatives on developing analysis of AI standards and gap analysis to inform SDOs planning of activities. 
+Action 6: Taking into account the gap analysis by EC/JRC, EC/JRC to coordinate with SDOs and other initiatives on a follow-up and ways to address the identified gaps. 
+
 
 #### IETF/IAB input to Rolling Plan
 
