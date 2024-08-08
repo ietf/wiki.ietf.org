@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:13:57.970Z
+date: 2024-08-08T14:15:23.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -235,9 +235,36 @@ The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-312-cloud-and-edge-computing
 
 ### 3.1.3. Data interoperability
-**RP:** With the continuously growing amount of data (often referred to as 'big data') and the increasing amount of open data, interoperability is increasingly a key issue in exploiting the value of this data.
+**RP:** 
+Action 1: SDOs to optimize the management of DCAT and DCAT-AP (data discovery)
+-	Related legal requirements: Open Data Directive, implementing act on High Value Data Sets, Data Act
+-	Help to establish a governance framework for DCAT profiles
+-	Develop rules for the management of new requirements, including criteria to decide whether to implement these in the base DCAT-AP standard or as extensions
+-	Consider the development of interface standards for DCAT-AP publication and querying
+-	Evaluate the suitability of DCAT for sharing of closed data, for example in a data spaces context
 
-Standardisation at different levels (such as metadata schemata, data representation formats and licensing conditions of open data) is essential to enable broad data integration, data exchange and interoperability with the overall goal of fostering innovation based on data. This refers to all types of (multilingual) data, including both structured and unstructured data, and data from different domains as diverse as geospatial data, statistical data, weather data, public sector information (PSI) and research data (see also the rolling plan contribution on 'e-Infrastructures for data and computing-intensive science'), to name just a few.
+Action 2: SDOs to define a framework for the sharing of data from smart devices (data sharing, data usage)
+-	Related legal requirements: Data Governance Act, Data Act, GDPR
+
+Action 3: SDOs to define a framework for the sharing of consent-based data based (data altruism by organisations or persons), including metadata standards to define the consent attributes (e.g. purpose) and mechanisms to manage withdrawal of consent (data sharing, data governance).
+-	Related legal requirements: Data Governance Act, GDPR
+
+Action 4: SDOs to optimize the management of domain ontologies:
+o	Related legal requirements: Open Data Directive, implementing act on High Value Data Sets, Data Act
+-	Help to establish a common governance framework for ontologies
+-	Address long-term sustainability aspects such as maintenance funding 
+-	Develop standard criteria to evaluate quality of ontologies, e.g. avoiding bias, ensuring completeness, use of persistent URLs
+-	Develop standard methods for the automated testing of ontologies
+
+Action 5: SDOs to identify standards for data integration, semantic mapping / tagging, data fabric. Also addressing the way this can help to leverage common domain ontologies (data usage)
+
+Action 6: SDOs to define standards for data governance, addressing two levels:
+-	Data governance standards to support individual parties, for example certification of internal data governance processes and tools.
+-	Data governance standards to support collaborative data sharing, in particular open data portals and data spaces.
+-	Data governance standards to support collaboration with existing communities for the creation and evolution of each specification / standard. 
+
+Action 7: Support standardisation needs of the European open data infrastructure, especially the European Data Portal and the SEMIC.
+
 
 #### IETF/IAB input to Rolling Plan
 
