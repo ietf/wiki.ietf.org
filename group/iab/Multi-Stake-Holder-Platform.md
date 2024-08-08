@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:22:31.919Z
+date: 2024-08-08T14:23:25.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -607,37 +607,27 @@ Editor's note: No specific work identified in the IETF or IRTF
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.3.6 Blockchain and Distributed Digital Ledger Technologies
-**RP:** Blockchain has great potential in providing an infrastructure for trusted, decentralised and disintermediated services beyond the financial sector. The first Semester of 2018 has seen $6.3bn invested in ICOs and $885mn for VC.[1]
+**RP:** 
+Action 1: The standardisation community should continue analysing possible standardisation gaps and identify solutions to fill them, taking into account also other chapters in the Rolling Plan including actions and references to Blockchain and DLT and their applications. Activities may focus on governance and interoperability, electronic ledgers, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
 
-While the FinTech? industry has been an early adopter because of its early awareness of bitcoin, blockchain will benefit many other industries. It is considered a foundational technology that some compare to the raise of the Internet in the early 90s. More than a technology, it could lead to a major political innovation by redefining the way we operate transactions, access information and share data (e.g. empowering patients to securely share e-health records and decide who to grant access to their data).
+Action 2: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, AMLD, TOOP, etc..) and submit them to relevant standardisation bodies, including CEN & CENELEC and ETSI, and also ISO, ITU
 
-Blockchain is a promising technology to share data and manage transactions in a controlled manner, with many possible applications to deliver social goods in the field of eHealth and eGovernment, health records, land registries or the security certification of links in an Internet of Things chain of devices, manage intellectual property rights and eID.
+Action 3: Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
 
-It has also great potential for the private sector, in trading, contracting, supply chain management, traceability along industrial supply chains (e.g. on social & environmental conditions of work, on material composition or on the maintenance history of the item) and much more. It may also transform the governance of private organisations and of companies (concept of Decentralised Autonomous Organisation - DAO), and hence impact labour rights. Furthermore, from a regulatory and supervisory point of view, it can provide regulators with the same view into the data as the companies they're regulating, thereby reducing fraud and compliance costs.
+Action 4: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
 
-However, this process is hindered by a lack of harmonisation and interoperability that constitute obstacles to cross border and cross sector transactions. The responsibility for public policy-makers would be to support innovation within a safe and future-proof technological and regulatory environment, ensuring appropriate transparency, accessibility, monitoring and governance
+Action 5: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
 
-In the context of a DSM where the amount of online transactions and data is exploding, setting the right conditions for the advent of an open, trustworthy, transparent, compliant and authenticated transaction system is a real challenge for the EU. Existing decentralised environments lack trust, accountability, interoperability, regulatory certainty and mature governance models.
+Action 6: ESOs to develop standards in line with the Data Act Regulation, in particular regarding essential requirements for smart-contracts. In addition, it would be recommended to explore a general framework for Governance of the European networks based on DLT to allow the flow of smart contracts between different networks.
 
-Action 1: The standardisation community should continue analysing possible standardisation gaps and reflect on best way to fill them. Activities may focus on governance and interoperability, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
+Action 7: ESOs when relevant to develop the standards needed for the introduction of Digital Euro (CBDC),  if the European Central Bank (ECB) decides to its issuance, and for digital assets (MiCA Regulation), in particular to ensure interoperability with smart-contracts, legacy systems, etc, linked with either CBDCs or private money. As per Art. 24 of the draft digital euro Regulation proposed by the Commission in June 2023, to ensure conditional payments on digital euro, the ECB may adopt detailed measures, rules and standards that PSPs can use to ensure interoperable conditional digital euro payment transactions. ESOs to liaise with ECB and in particular with the Digital euro scheme rulebook development group to ensure coordination between the standards for conditional payments involving digital euro and other existing or future standards.
 
-Action 2: Regularly update the white paper on the EU perspective on blockchain/DLT standardisation.
+Action 8: In the context of the standardisation described in Action 7, ESO to develop standards towards assessing CO2 footprint of different blockchains/DLTs, MiCA, EU Sustainable Finance taxonomy.
 
-Action 3: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, AMLD, TOOP, etc..) and submit them to relevant standardisation bodies, including CEN & CENELEC and ETSI, and also ISO, ITU
+Action 9: Standardisation efforts to analyze and if needed, enhance the interoperability and international compatibility of the current and pending EBSI topics and capabilities previously mentioned.
 
-Action 4: Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
+Action 10: ESOs to develop standards in line with the eIDAS2 regulation, in particular regarding essential requirements for electronic ledgers. 
 
-Action 5: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
-
-Action 6: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
-
-Action 7: ESOs to develop standards in line with the Data Act legislative proposal, in particular regarding essential requirements for smart-contracts. In addition, it would be recommended to explore a general framework for Governance of the European networks based on DLT to allow the flow of smart contracts between different networks.
-
-Action 8: ESOs to develop the standards needed for the introduction of Digital Euro (CBDC) and token economy (upcoming MiCA Regulation), in particular to ensure interoperability with smart-contracts, legacy systems, etc. The revised legislative proposal of MiCA regulation introduces links with the EU Sustainable Finance taxonomy, thus activities towards assessing CO2 footprint of different blockchains/DLTs are very welcome. 
-
-Action 9: SDOs to develop standards to support the eIDAS2 proposal requirements related to Electronic Ledgers.
-
-Action 10: Standardisation efforts to analyze and if needed, enhance the interoperability and international compatibility of the current and pending EBSI topics and capabilities previously mentioned.
 
 #### IETF/IAB input to Rolling Plan
 
