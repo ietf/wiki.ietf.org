@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:28:37.874Z
+date: 2024-08-08T14:30:32.535Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -723,17 +723,7 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environ
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility
-**RP:** To take full advantage of the benefits that ICT-based systems and applications can bring to the transport sector it is necessary to ensure interoperability and continuity of the services among the different systems throughout Europe. The existence of common European standards and technical specifications is paramount to ensure the interoperability of ITS services and applications and to accelerate their introduction and impact. International cooperation aiming at global harmonisation should be pursued.
-
-#### IETF/IAB input to Rolling Plan
-
-The [IP Wireless Access in Vehicular Environments (ipwave) WG](https://datatracker.ietf.org/wg/ipwave/about/) worked on Vehicle-2-Vehicle (V2V) and Vehicle-2-Internet (V2I) use-cases where IP is well-suited as a networking technology and will develop an IPv6 based solution to establish direct and secure connectivity between a vehicle and other vehicles or stationary systems. These vehicular networks are characterized by dynamically changing network topologies and connectivity.
-
-V2V and V2I communications may involve various kinds of link layers: 802.11-OCB (Outside the Context of a Basic Service Set), 802.15.4 with 6lowpan, 802.11ad, VLC (Visible Light Communications), IrDA, LTE-D, LP-WAN. One of the most used link layers for vehicular networks is IEEE 802.11-OCB, as a basis for Dedicated short-range communications (DSRC). Several of these link-layers already provide support for IPv6. However, IPv6 on 802.11-OCB is yet to be fully defined. Some aspects of the IPv6 over 802.11-OCB work have been already defined at IEEE 1609 and the specification produced by this working group is expected be compatible with these aspects.
-
-This group's primary deliverable is [RFC8691, a standard to specify the mechanisms for transmission of IPv6 datagrams over IEEE 802.11-OCB mode](https://www.rfc-editor.org/rfc/rfc8691.pdf).
-
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-345-intelligent-transport-systems-its-cooperative-connected-and-automated-mobility-its-ccam-and-electromobility
+Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.4.6 Digitisation of European Industry
 Editor's note: No specific work identified in the IETF or IRTF
