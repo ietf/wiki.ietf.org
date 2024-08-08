@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:25:28.200Z
+date: 2024-08-08T14:26:00.801Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -693,15 +693,21 @@ Many of the IETF Working Groups listed under section 3.1.4 Internet of Things ab
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-342-smart-and-sustainable-cities-and-communities
 
 ### 3.4.3. ICT Environmental Impact
-**RP:** A key challenge is achieving transparency around claims relating to the environmental performance of ICT products and services, and setting an effective basis to drive competition.
-
+**RP:** 
 Action 1: Definition of Global KPIs for Energy Management of Fixed and Mobile access, and Core networks.
+
 Action 2: Guidelines for the use of Global KPIs for Data Centres.
+
 Action 3: Definition of Global KPIs for Data Services.
+
 Action 4: Guidelines for the definition of Green Data Services.
+
 Action 5: Definition and guidelines of KPIs for ICT networks.
+
 Action 6: SDOs to identify needs and develop standards to support UN SDGs, in particular KPI for both synergies and conflicts in Digital transformation and Green transition projects.
+
 Action 7: ETSI, in collaboration with the EGDC, to consider possible paths for ITU L.1480 and L.1333 to be made available for European standardisation to meet EU policy objectives.
+
 
 #### IETF/IAB input to Rolling Plan
 
