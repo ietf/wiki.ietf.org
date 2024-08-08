@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:17:46.761Z
+date: 2024-08-08T14:19:34.265Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -404,12 +404,11 @@ The [Supply Chain Integrity, Tranparency, and Trust (SCITT) Working Group](https
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-315-electronic-identification-and-trust-services-including-e-signatures
 
-### 3.1.6 e-Infrastructures for data and computing intensive science
+### 3.1.6 e-Infrastructures for data and computing intensive science and the European Open Science Cloud
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.1.7 Broadband infrastructure mapping
-**RP:** Telecom manufacturers, operators and other stakeholders have an interest in assuring a minimum of interoperability of broadband infrastructure mapping to facilitate the deployment of next-generation networks, simplify their operation, reduce cost and finally open up a single market dimension. In order to achieve the EU broadband objectives of the Digital Agenda Europe, it is fundamentally important that there is reliable and valid data on existing and planned broadband infrastructures, services offered; and demand and investment. A standardised mapping of broadband infrastructures and services as well as of other related data will help identify gaps of broadband coverage and quality of service level and identify suitable areas of investment. Increasing the reliability of coverage data (QS1) will be particularly useful to avoid duplication of financing as subsidies can be allocated to areas truly affected by market failure and regulatory needs linked to market regulation. Gathering reliable quality of service data (QS2 and QS3) based on common methodologies will feed into other regulatory aspect linked to net neutrality and consumer protection as well as assisting in the provision of reliable 5G services to vertical industries.
-
+**RP:** 
 Action 1 SDOs to  further develop a standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
 
 #### IETF/IAB input to Rolling Plan
@@ -421,8 +420,7 @@ Measuring portions of the Internet on a large scale is essential for accurate ch
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-317-broadband-infrastructure-mapping
 
 ### 3.1.8 Accessibility of ICT products and services
-**RP:** Standardisation needs arise, for instance from the UN Convention, Article 9 of which requires the development of accessibility standards, and from the general obligations to promote universal design when drafting standards. Work on this area needs to advance at European level, where possible in coordination with related work at international level, and to support harmonised market requirements within Europe.
-
+**RP:** 
 Action 1:  SDOs to work on the development and revisions of the harmonised standards and technical reports, as requested by standardisation request Mandate 587.
 
 Action 2: SDOs to produce a technical report describing requirements for ICT products and services to be designed to meet the needs of persons with cognitive and learning disabilities; the report should propose enhancements to relevant existing standards and identify needs for further standardisation such as the development of measurable requirements to address cognitive accessibility to be included in the standards implementing relevant legislation. The report should take into account the latest research in the field of cognitive disabilities and give guidance on which aspects of cognitive disabilities are sufficiently well understood so that support for people with such disabilities can be standardised (and tested) in a technically meaningful way.
@@ -430,6 +428,7 @@ Action 2: SDOs to produce a technical report describing requirements for ICT pro
 Action 3:  SDOs to produce a technical report on the possible accessibility requirements and standardisation needs of ICT products and services that are based on emerging technologies, such as natural language processing, wearables, virtual and augmented reality, AI, as well as biometrics and enhanced ICT security. These technologies must be designed to meet the needs of persons with disabilities, which includes cognitive and learning disabilities. 
 
 Action 4:  SDOs to continue work on the implementation of the methodology developed under M/473, providing that new standardisation deliverables including the European standards comply with the methodology for mainstream accessibility in standardisation processes and the revision of existing standards in line with what it was agreed in the Mandate deliverable 3.1
+
 
 #### IETF/IAB input to Rolling Plan
 
