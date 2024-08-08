@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:24:43.871Z
+date: 2024-08-08T14:25:28.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -674,32 +674,13 @@ Many of the IETF Working Groups listed under section 3.1.4 Internet of Things ab
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-341-smart-grids-and-smart-metering
 
 ### 3.4.2 Smart and sustainable cities and communities
-**RP:** In standards terms, there are some over-arching requirements, concerning standards for the way cities are managed, for common terminologies, for citizens’ interface with their local authority, etc. But mainly, smart city standards topics relate to the need to ensure commonalities —as far as these are appropriate and cost-effective— between the approaches taken by the different application areas, to enable the city to derive the best horizontal advantage from its overall approach and above all benefit from interoperability. The standards requirements as such for these application areas are specified in the Rolling Plan elsewhere at the appropriate points. The core components in such a complex system are the frameworks that assist companies, cities and other actors to provide appropriate solutions that prioritise economic, social and environmental outcomes. Solutions should address the whole lifecycle, optimising environmental, social and economic outcomes through the seamless transfer of information.
+**RP:** 
+Action 1: A Toolbox for Local Digital Twins is being developed with a set of advanced AI-based tools for urban Digital Twin. Concerning Local Digital Twins, the following should be undertaken:
+-	ESOs to develop an European standard for a Local Digital Twin reference architecture depicting components and specifications, based on on-going works supported by the EC and EDIC on CitiVerse.
 
-Action 1: Concerning Local Digital Twins, the following should be undertaken:
-- A Toolbox for Local Digital Twins will be developed as an initial repository of mechanisms, and as a basis for validation leading to formal standardisation.
-- Facilitation of the European Task Group on Local Digital Twins, including secretariat support.
-- Facilitating the development of a work item on ITU-T SG20 coordinated e.g. with the IEC Smart Cities Systems Committee, JTC1, ISO/TC 268, CEN Sector Forum on Smart and Sustainable Cities- Task Group on Local Digital Twins, ETSI Task force on Digital Twins and ISG on cross-cutting Context Information Management (ISG CIM), and OGC.
-- Develop the necessary preparatory steps for relevant proposals on the standardisation of MIMs Plus: the Living-in.EU Technical Group.
+Action 2: Recommendation for the standardisation of the MIMs framework (y.MIMs) is being discussed at ITU-T Study Group 20 dealing with Internet of Things, smart cities and communities, to position MIMs as a global standard that every community can benefit from. There is a need to have a EU standard for the individual technical MIMs:
+-	ESOs to develop European standards of MIM key specifications (MIMs 1, 2, and 7) based on on-going works in Living-in.EU technical subgroup and standardisation efforts of the MIM framework at ITU-T (Y.MIM).
 
-Action 2: SSDOs to consider the recommendations of the ETSI Technical Report 103 455 “Smart cities and communities; standardisation for citizens and consumers” and review how they could incorporate the proposals for organizational improvements to benefit smart city standardisation’s coverage of citizen/consumer issues, and for guidance material, codes of conduct and standards.
-
-Action 3: Taking into account the results of the EU funded projects ESPRESSO and SynchroniCity, and in cooperation with city-led initiatives like the Smart Cities Marketplace demand-side group on Urban Platforms, the Open and Agile Smart Cities (OASC) network and Living-in.EU, SDOs should continue developing standards and technical specifications needed for a global market of open service platforms and applications for cities and communities,including for local digital twins, aligning their activities and integrating different standards and complementing protocols and communication standards. Possible actions in this sense could be:
-- An open catalogue of the best practise and lessons learned of Smart Cities in using standards
-More promotion at local and regional level of the existing standards and their functionalities ("outreach to the grass roots"), levering Living-in.EU.
-- Guidelines or specifications for federating Smart City data spaces (selective access) and for data marketplaces across cities and communities
-- Referencing of ITU-T FG DPM work in ETSI work, to reduce “parallel evolution” between the ESOs and ITU
-- Interworking of NGSI-LD on top of the oneM2M platform
-- Further recommendations for SAREF extensions and evolutions to cover wider applications in different (urban) vertical applications and across applications.
-- Operational guidelines on modelling of real-world systems in ways that are extensible and shareable so that Smart City engineers and technical decision-makers have blueprints to speed their work and ease re-use of Big Data.
-- Activities to promote standardised ontologies (as is beginning in the SmartGrid area) to improve cross-border efficiencies
-- Guidelines or specifications to ensure NGSI-LD could be installed with SAREF family of ontologies
-- Guidelines or specifications for NGSI-LD on how to add the provenance of information to each dataset, so that licensing, GDPR information, and appropriate security/confidentiality features can be enabled.
-- Development of open Test Suites for standards-based solutions, not limited to particular software implementations, to allow improved efficiency in procurement ("does it meet the Tests?") and assessment ("does the system run as expected?")
-
-Action 4: Define a set of standards and related criteria, value proposition and applicability statements for the deployment of platforms for cities and communities under the Digital Europe Programme. The set will be based on the EIP-SCC Reference architecture and design principles for urban platforms, the OASC Minimum Interoperability Mechanisms, OneM2M, NGSI-LD and SAREF and will further specify the minimum standardisation requirements to be met to achieve the goal of Interoperable European ecosystem of platforms and applications.
-
-Action 5:  Related to the CitiVerse, define a pre-standardisation roadmap to cater for a set of well-stablished technical standards to address the technological challenges and constraints arising from vertical technologies, and key enablers touching intrinsic EU-values, such as trust, security, privacy, sustainability and accessibility, openness, interoperability. All of it, driven by concrete use cases focusing on citizen’s engagement and predictive services for city’s efficiency. 
 
 #### IETF/IAB input to Rolling Plan
 
