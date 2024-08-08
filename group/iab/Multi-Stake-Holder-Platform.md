@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:05:04.267Z
+date: 2024-08-08T14:08:06.599Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -34,14 +34,15 @@ Previous versions of the Rolling Plan and the IETF work that fits into it:
 - [Rolling Plan 2023](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2023)
 - [Rolling Plan 2024](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2024)
 
-### Draft Rolling Plan 2024
-The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2024 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
+### Draft Rolling Plan 2025
+The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2025 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
 
 Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](https://www.ietf.org/topics/areas/) for potentially related technology work and contact [Mat Ford](mailto:ford@isoc.org) or [Olaf Kolkman](mailto:kolkman@isoc.org) or any Area Director with general or specific questions.
 
 ### General comments
 - From the EU RP Task Force: The Review process leads to a new version of the EU Rolling Plan on ICT Standardisation. The new version will be finalised by the MSP in December before being handed over to the Commission for endorsement and publication. From end of July until late September all MSP members have the opportunity to provide comments and further input to the draft Rolling Plan as provided by the European Commission. Focus should be put in particular to the actions. For an effective Rolling Plan it is important to have actions that are as precise as possible so that they can trigger respective standardisation work. Therefore, the CARV criteria should be met: actions should be **C**oncrete, **A**chievable, **R**elevant and **V**oluntary.
 - The numbering of the various section titles refers to the numbers of the sections in the rolling plan.
+
 ## 3.0 Foundational drivers
 ### 3.0.1 Data Economy
 **RP:** Digital technologies are transforming the economy and society, and data is at the centre of this transformation. Data-driven innovation will be essential for the modernisation of Europe and the data economy which has the potential of bringing enormous benefits for citizens, for example in support to medicine, mobility, Green Deal. The key role of data is reflected in many chapters of the rolling plan outlining the respective sector specific aspects. On top of that, and addressed in this chapter, data is of foundational and horizontal relevance.
@@ -807,6 +808,8 @@ Editor's note: No specific work identified in the IETF or IRTF
 2022-09-21: Archived RP2022, updates to reflect RP2023 changes from MSP, added text on qirg, ohai, ppm, httpapi, and tigress WGs.
 
 2023-09-22: Archived RP2023, updates to reflect RP2024 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work, updated all links from old trac instance to new IETF wiki. 
+
+2024-08-08: 
 
 Attachments:
 [089_draft_rolling_plan_tfrp055r3_rp.pdf](/089_draft_rolling_plan_tfrp055r3_rp.pdf)
