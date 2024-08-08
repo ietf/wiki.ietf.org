@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:11:23.403Z
+date: 2024-08-08T14:12:18.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -99,7 +99,6 @@ Action 11: ESOs to work with global SDOs and the open-source community to identi
 
 Action 12: ESOs and SDOs to evaluate the need and feasibility of sector-specific cybersecurity standards for healthcare (for e.g. electronic health record systems, digital health applications, software as medical device, medical devices software, IoMT) that would complement relevant horizontal cybersecurity standards with the view of supporting the implementation of the upcoming Cyber Resilience Act and the European Health Data Space regulation. 
 
-
 #### IETF/IAB input to Rolling Plan
 
 The IETF Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital.
@@ -113,10 +112,9 @@ The full list of IETF Working Groups in the Security Area is available here: htt
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecurity-network-and-information-security
 
 ### 3.0.3 ePrivacy
-**RP:** The focus will be on establishing a number of reference standards and/or specifications relevant to privacy in the electronic communications environment, including, where relevant, harmonised standards, to serve as a basis for encouraging the coherent adoption of standardisation practises across the Union. The Commission recently has proposed a mandate to European Standards Organisations seeking to routinely include privacy management methodologies in both the design and production phases of cybersecurity technologies generally.
+**RP:** In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules.
 
-In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules. Proposed specific areas for SDOs to focus on are:
-
+Proposed specific areas for SDOs to focus on are:
 Action 1:  Continuing work on standardising browser functionalities and defaults to enable users to easily control whether they want to be tracked.
 
 Action 2:  SDOs to work on standardised solutions for location data used by mobile applications. ISO/IEC 29184 Information technology - Online privacy notices and consent is adopted unmodified as EN ISO/IEC 29184.
