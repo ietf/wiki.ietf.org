@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:21:49.727Z
+date: 2024-08-08T14:22:31.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -558,8 +558,7 @@ Editor's note: No specific work identified in the IETF or IRTF
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.2.8 Emergency communications and public warning systems
-**RP:** The lack of commonly agreed standards in support of electronic communications networks for the emergency call service in Europe is a barrier to implementing future proof solutions which meet the requirements of the amended Universal Service Directive (Directive 2002/22/EC). Standards for total conversation access to 112 are required to meet special needs for users’ rights under Directive 2009/136/EC. The lack of harmonised values for location accuracy and reliability hampers Member State's efforts to develop adequate solutions.
-
+**RP:** 
 Action 1: SDOs to update the existing standards to reflect the conceptual framework of the Directive (EU) 2018/1972, in particular where the concept of 'emergency services' is not consistently used to reflect the 'public safety answering points' or 'emergency communications' (for example ETSI TS 103 479).
 
 Action 2: SDOs to address data protection and privacy requirements (privacy by design) in ongoing standardisation activities concerning emergency communications and processing and transmission of caller location information.
@@ -577,6 +576,7 @@ Action 7: to support the standardization of emergency SMS, in particular to '112
 Action 8: SDOs to define dictionaries for public warning messages for emergency communication services based on the input of various civil protection agencies.
 
 Action 9: SDOs to identify standardisation needs for the establishment of a Union wide public warning system in line with recital 294 of Directive (EU) 2018/1972.
+
 
 #### IETF/IAB input to Rolling Plan
 
