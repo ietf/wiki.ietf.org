@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:26:00.801Z
+date: 2024-08-08T14:28:37.874Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -754,15 +754,15 @@ Editor's note: No specific work identified in the IETF or IRTF
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.4.12 U-Space
-RP: U-space is a set of new services relying on a high level of digitalisation and automation of functions and specific procedures, supported by AI, designed to provide safe, efficient and secure access to airspace for large numbers of unmanned aircraft, operating automatically and beyond visual line of sight. This initiative confirms the EU’s ambition to develop sustainable and digital mobility solutions.'
-
+**RP**:
 Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data:
-- between air navigation service providers, common information service providers and U-space service providers; and
-- between U-space service providers and UAS operators.
+-	between air navigation service providers, common information service providers and U-space service providers; and
+-	between U-space service providers and UAS operators.
 
 Action 2: The following complementary actions could be developed in addition to the standardisation action:
-- Development of a reference implementation of U-space software components to facilitate the adoption of U-space.
-- Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
+-	Development of a reference implementation of U-space software components to facilitate the adoption of U-space.
+-	Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
+
 
 #### IETF/IAB input to Rolling Plan
 
