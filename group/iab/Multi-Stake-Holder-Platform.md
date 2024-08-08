@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:12:18.984Z
+date: 2024-08-08T14:13:03.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -167,17 +167,15 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-303-eprivacy
 
 ## 3.1 Key enablers
 ### 3.1.1 5G and beyond
-**RP:** The Communication on ICT standardisation priorities[11] identifies 5G standards as key to competitiveness and the interoperability of global networks, with stakeholders from different standardisation cultures called upon to collaborate. It also details the actions required.
+**RP:** 
+Action 1: Global industry standards. Foster the emergence of global industry standards under EU leadership for key 5G/6G technologies (radio access network, core network) and network architectures notably through the exploitation of 5G public-private partnership results in key EU and international standardisation bodies (3GPP, ITU, ETSI).
 
-The first phase of 5G standards from 3GPP focuses on enhanced mobile broadband while also supporting ultra-reliability and low latency. The second phase should deliver the standards for other use-cases, such as those related to industrial applications or transversal needs such as lawful interception. Here, availability of standards promoting open innovation and opportunities for start-ups is also key.
+Action 2:   Ensure that 5G/6G standards are compatible with innovative use-cases of vertical industries and ensure sufficient spectrum-sharing capabilities, notably through broader participation of industries and authorities with sector-specific needs and in close collaboration with other industry specific standards developing organisations, in 5G standardisation organisations. Several projects funded by the European Commission, as well as the  5G PPP are dealing with 5G standardisation. 
 
-The European Commission has called on Member States and industry to commit to the following objectives:
+Action 3: Lawful interception and lawful disclosure related standards. Foster the emergence of standards that ensure proper provisions for enabling lawful interception mechanisms in the context of 5G networks by encouraging and coordinating law enforcement involvement in 5G standardisation related committees (e.g. ETSI TC LI, ETSI NFV-SEC, 3GPP SA3-LI) and promoting a European approach based on its legal system.
 
-- a standardisation approach that preserves future evolution capabilities and aims at availability of 5G global standards by end of 2019;
-- a holistic standardisation approach encompassing both radio access and core networks as coordinated activities within global standardisation bodies, encompassing disruptive use-cases and promoting open innovation;
-- establishment of cross-industry partnerships by 2017, at the latest, to support timely standard-setting, partly by leveraging international cooperation partnerships, in particular towards the digitisation of industry.
+Action 4:  SDOs to work with the stakeholders in standardisation to deliver a report on the standardisation needs and specific requirements for the uptake of 5G in vertical sectors (e.g. transportation, healthcare, manufacturing, energy).
 
-In December 2017, Commissioner Gabriel sent a letter to 3G PP, urging the standardisation bodies and the concerned industrial actors to step-up their efforts for the rapid development of 5G standards addressing more immediate market needs while driving a clear strategy for a 5G global standard bringing benefits to a wide range of industrial use cases, in line with the EU strategy targeting 5G developments in support of "vertical" industries and of our wider objectives of digitising the European industry.
 
 #### IETF/IAB input to Rolling Plan
 
