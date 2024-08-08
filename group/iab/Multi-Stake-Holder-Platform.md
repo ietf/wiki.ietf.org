@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:13:03.354Z
+date: 2024-08-08T14:13:57.970Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -190,11 +190,10 @@ Interactions between IETF and 5G developments fall into several categories:
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-311-5g-and-beyond
 
 ### 3.1.2 Cloud and edge computing
-**RP:** The Communication on ICT Standardisation Priorities for the digital single market proposed priority actions in the domain of Cloud. Some actions are still relevant and mentioned below. Others come from the need to respond to the challenges of the Digital Decade Communication.
+**RP:** 
+Action 1: Identify needs for ICT standards and open source technologies to further improve the interoperability, data protection and portability of cloud services and continue or start respective development activities. This should also take into account available open source technologies and their role for interoperability, data sovereignty, data protection and management of multiple clouds.
 
-Action 1: Identify needs for ICT standards and open source technologies to further improve the interoperability, data protection and portability of cloud services and continue or start respective development activities. This should also take into account available open source technologies and their role for interoperability, data protection and management of multiple clouds.
-
-Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data protection and portability of cloud services as well as multi-cloud management.
+Action 2: Promote the use of the ICT standards needed to further improve the interoperability, data sovereignty, data protection and portability of cloud services as well as multi-cloud management.
 
 Action 3: Further strengthen the interlock between standardisation and open source in the area of Cloud and establish and support bilateral actions for close collaboration of open source and standardisation. Foster a level playing field that allows the use of Open Source procedures and deliverables where they make economic sense complementing or substituting standardisation.
 
@@ -208,9 +207,10 @@ Action 7: SDOs and open source communities to foster their collaboration, mutual
 
 Action 8: SDOs should focus on addressing the edge/cloud X-continuum paradigm and standardisation challenges. In particular, due to huge increase of connected devices and systems, several computing deployments are embracing the notion of computing continuum, where the right compute resources are placed at optimal processing points, i.e., cloud data centre, edge computing systems and end devices, This requires the support of: (1) continuum of technologies across sensors, connectivity, gateways, edge processing, robotics, platforms, applications, Al, and analytics, including underlying technologies like optical, wireless (cellular and non-cellular) and satellite communications, (2) continuum of intelligence and edge capabilities, (3) continuum of edge applications across vertical sectors and seamless integration.
 
-Action 9: SDOs to prepare an overview of available open interoperability specifications that respond to the legal requirements outlined in the draft data act and that could be promoted for use to demonstrate compliance.
+Action 9: SDOs to contribute to the preparation of an overview of relevant harmonised standards and open interoperability specifications that respond to the legal requirements outlined in the Data Act and that could be recognised in the to-be-established common Union repository for the interoperability of data processing services. 
 
 Action 10: SDOs to Promote the development of a standard or a set of standards for processor sockets for cloud computing infrastructure.
+
 
 #### IETF/IAB input to Rolling Plan
 
