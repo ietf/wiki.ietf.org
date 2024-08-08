@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2024-03-19T18:37:15.958Z
+date: 2024-08-08T15:52:14.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -15,6 +15,17 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### July 2024 (Vancouver) [YouTube](https://youtu.be/pzXLJe6QOc4?t=16s) [intro slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-intro-mirjadave)
+
+- HTTP/3's Extensible Prioritization Scheme in the Wild [YouTube](https://youtu.be/pzXLJe6QOc4?t=4m27s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-http3s-extensible-prioritization-scheme-in-the-wild-heads-up-talk), Joris Herbots, July 2024
+- Peaking Beyond the Best Route: An Extensive Dataset for Looking Glasses [YouTube](https://youtu.be/pzXLJe6QOc4?t=11m48s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-peaking-beyond-the-best-route-an-extensive-dataset-for-looking-glasses), Pascal Hennen, July 2024
+- Testing Protocols in Simulated Network Conditions [YouTube](https://youtu.be/pzXLJe6QOc4?t=25m48s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-simulated-network-conditions), Tommy Pauly, July 2024
+- Watching Stars in Pixels: The Interplay of Traffic Shaping and YouTube Streaming QoE over GEO Satellite Networks [YouTube](https://youtu.be/pzXLJe6QOc4?t=42m30s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-watching-stars-in-pixels-the-interplay-of-traffic-shaping-and-youtube-streaming-qoe-over-geo-satellite-networks), Jiamo Liu, July 2024
+- A First Look At NAT64 Deployment In-The-Wild [YouTube](https://youtu.be/pzXLJe6QOc4?t=1h2m56s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-a-first-look-at-nat64-deployment-in-the-wild), Amanda Hsu, July 2024
+- Preparing to Detect IPv6 Attacks on Your IoT Devices [YouTube](https://youtu.be/pzXLJe6QOc4?t=1h23m48s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-preparing-to-detect-ipv6-attacks-on-your-iot-devices), Phil Roberts & Leslie Daigle, July 2024
+- Understanding anomalies using a baseline dataset comparison [YouTube](https://youtu.be/pzXLJe6QOc4?t=1h37m48s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-understanding-anomalies-using-a-baseline-dataset-comparison), Wes Hardaker, July 2024
+- Field Experiments on Post-Quantum DNSSEC [YouTube](https://youtu.be/pzXLJe6QOc4?t=1h46m45s) [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-field-experiments-on-post-quantum-dnssec), Jason Goertzen, July 2024
 
 ### March 2024 (Brisbane) [YouTube](https://youtu.be/XySxvye3AnY?t=1m) [intro slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-maprg-chairs-intro-and-welcome)
 
