@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:08:06.599Z
+date: 2024-08-08T14:10:04.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -45,21 +45,21 @@ Since there may not be sufficient specific policy area expertise for each of the
 
 ## 3.0 Foundational drivers
 ### 3.0.1 Data Economy
-**RP:** Digital technologies are transforming the economy and society, and data is at the centre of this transformation. Data-driven innovation will be essential for the modernisation of Europe and the data economy which has the potential of bringing enormous benefits for citizens, for example in support to medicine, mobility, Green Deal. The key role of data is reflected in many chapters of the rolling plan outlining the respective sector specific aspects. On top of that, and addressed in this chapter, data is of foundational and horizontal relevance.
+**RP:** The actions proposed focus on fields where ICT standardisation can support horizontal and high-level policy objectives in the area of data economy. Actions that address sector specific needs and objectives are included in the respective chapters addressing the different sectors and technology areas.
 
-Action 1: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the digital transformation at the level of data-innovation and of the data economy.
+Action 1: Stock-taking and collaboration:
 
-Action 2: SDOs to collaborate on developing a programme for addressing standardisation needs around all the data lifecycle, from data collection to record keeping, archiving and long term preservation of information and start the respective standardisation activities.
+- Action 1.1: SDOs to identify, map and inform about standards that are available or under development that are of relevance in supporting the scenarios listed in section A2 above. StandICT.eu to contribute to this activity.  
 
-Action 3: In the context of the MSP, start an analysis on the role of open source software complementing standardisation for the data economy, e.g. with APIs, protocols, service delivery and other platforms.
+- Action 1.2: SDOs to collaborate on addressing standardisation needs around all the data lifecycle, from data collection to record keeping, archiving and long term preservation of information and start the respective standardisation activities, taking into account the results of ISA2 program and other relevant activities (see for example section C.2).
 
-Action 4: SDOs to identify and inform about standards that are available or under way and that are of relevance in supporting the interoperability of data as well as data sharing services between different sectors and domains.
+- Action 1.3: Following an analysis of standards available or under development (Action 1 above) and of possible standardisation needs (Action 2 above), SDOs to collaborate on developing specific standards in support of the scenarios outlined in section A.2 above, closing well-identified gaps
 
-Action 5: SDOs to develop standards in support of the Data Governance Act, the Digital Services Act and the Digital Markets Act, taking into account the results of ISA2 program.
+Action 2: In the context of the MSP, start an analysis on the role of open source software complementing standardisation in the support of the scenarios listed in section A.2 above, e.g. with APIs, protocols, service delivery and other platforms. 
 
-Action 6:  EC to facilitate bringing eArchiving and respective requirements into standardisation.
+Action 3: In collaboration with the Data Spaces Support Centre (DSSC), and considering the policy objectives outlined in the chapter on Data Interoperability as well as the work of the EU High-Level Forum, stakeholders to address the topic of gathering and processing data from different sources across domains and develop proposals for respective standardisation projects. 
 
-Action 7: In collaboration with the Data Spaces Support Centre (DSSC), stakeholders to address the topic of gathering and processing data from different sources across domains which is becoming a priority and is largely encouraged trough standardisation actions. In several sectors a global approach may be helpful as regards reference data and vocabularies, dictionaries an other meta data and respective standardisation developments might be started in order to enhance interoperability and lower implementation costs.
+Action 4: SDOs to establish an exchange with relevant open source developing foundations for identifying open source technologies that are available or under way and that can be of relevance for supporting the upcoming EU Data Act and EU policy objectives around the EU data strategy.
 
 #### IETF/IAB input to Rolling Plan
 
