@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:20:09.356Z
+date: 2024-08-08T14:20:56.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -465,14 +465,12 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-319-artificial-
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.1.11 Quantum Technologies
-**RP:** The development of quantum technologies and infrastructures is a key objective of the 2030 Path to the Digital Decade[1] policy programme. The Commission has set a specific target  for quantum (by 2025, the EU should have its first computer with quantum acceleration, paving the way for being at the cutting edge of quantum capabilities by 2030), and has proposed to set up a number of multi-country projects together with the MS (using the new instrument European Digital Infrastructure Consortium – EDICs) to ensure that this target is met. standardisation will be key, especially to develop quantum infrastructures with interoperable (certified) quantum technologies.
-
-Action 1:  CEN & CENELEC to continue the work on the standardisation landscape and gap analysis for quantum technologies (standardisation roadmap for Quantum Technologies) to identify which standards will be needed and for which applications. The roadmap should include recommendations for an action plan and a methodology that will identify the most important needs that have to be standardised.
+**RP:** 
+Action 1:  CEN & CENELEC to continue their standardisation work on the most recent topics for quantum technology that were suggested by the Focus Group on Quantum Technologies and their published standardisation roadmap. 
 
 Action 2: SDOs should develop standards for supply chains for modular quantum computers and communication architectures, and their enabling technologies. Initially the focus should be on QT research infrastructure, evolving towards QT commercial infrastructure
 
-Action 3: The creation of an intelligent Dashboard to support SMEs, in which the existing standards as well 
-the work relating to quantum technologies of the main standardisation bodies are presented. The dashboard will facilitate SMEs to identify relevant open-source projects in the field of Quantum Computing and Communications, e.g. providing tools for testing, benchmarking etc.
+Action 3: The creation of an intelligent Dashboard to support SMEs, in which the existing standards as well the work relating to quantum technologies of the main standardisation bodies are presented. The dashboard will facilitate SMEs to identify relevant open-source projects in the field of Quantum Computing and Communications, e.g. providing tools for testing, benchmarking etc.
 
 Action 4: SDOs to set up processes for eliciting industry standardisation needs, and industry alliances to coordinate their experts' efforts to contribute to standardisation.
 
@@ -485,6 +483,7 @@ Action 7: SDOs should devote specific attention to the standardisation processes
 Action 8: SDOs should cooperate with the EuroQCI and start forming the technical committees to create the necessary pre-standards/standards for the commercial quantum communication technology in synergy with the specific requirements that are being explored for a certification of the technology.
 
 Action 9: SDOs should cooperate with the EuroHPC Joint Undertaking and start forming the technical committees to create the necessary pre-standards/standards  for quantum computing technology in synergy with the specific requirements that are being explored for a certification of the technology.
+
 
 #### IETF/IAB input to Rolling Plan
 
