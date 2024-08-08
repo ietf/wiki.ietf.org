@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T13:47:35.115Z
+date: 2024-08-08T14:05:04.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -133,6 +133,10 @@ Action 8: SDOs to develop secure coding standards for secure application develop
 
 The following IETF Working Groups are active in this area:
 
+The [Detecting Unwanted Location Trackers (dult)](https://datatracker.ietf.org/wg/dult/about/) Working Group will standardize an application protocol for information exchange between location-tracking accessories and nearby devices, along with actions that these accessories and devices should take once unwanted tracking is detected. This protocol is intended to protect people against being unknowingly tracked. The intent of this WG is to make it easier for arbitrary devices to detect unwanted tracking by these accessories. The protocols and interactions between devices may be limited to certain states or modes, such as the accessory being separated from a paired/owner device.
+
+The working group will define privacy and security properties of its solution, including privacy and security protections for accessory owners when accessories are used appropriately, and evaluate the tradeoffs. The mechanisms specified by the WG will be designed to not create new vectors for user tracking.
+
 The [DNS PRIVate Exchange (dprive)](https://datatracker.ietf.org/wg/dprive/about/) WG develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
 
 The [Privacy Pass (privacypass)](https://datatracker.ietf.org/wg/privacypass/about/) WG is standardising a protocol that provides a performant, application-layer mechanism for token creation and anonymous redemption. Servers (Issuers) create and later verify tokens that are redeemed by an ecosystem of clients, such that:
@@ -211,6 +215,10 @@ Action 10: SDOs to Promote the development of a standard or a set of standards f
 
 The IETF has multiple groups working on standards for virtualization techniques, including techniques used in cloud computing and datacenters.
 
+The [Workload Identity in Multi System Environments (wimse)](https://datatracker.ietf.org/wg/wimse/about/) Working Group is chartered to address the challenges associated with implementing fine-grained, least privilege access control for workloads deployed across multiple service platforms, spanning both public and private clouds. The work will build on existing standards, open source projects, and community practices, focusing on combining them in a coherent manner to address multi-service workload identity use cases such as those identified in the [Workload Identity Use Cases Internet Draft](https://datatracker.ietf.org/doc/draft-gilman-wimse-use-cases/).
+
+The goal of the WIMSE working group is to identify, articulate, and bridge the gaps and ambiguities in workload identity problems and define solutions across a diverse set of platforms and deployments, building on various protocols used in workload environments. The WG will standardize solutions (as proposed standard) and document existing or best practices (as informational or BCP) per the Program of Work.
+
 The [Layer 2 Virtual Private Networks](https://datatracker.ietf.org/wg/l2vpn/about/) (L2VPN) Working Group produced specifications defining and specifying solutions for supporting provider-provisioned Layer-2 Virtual Private Networks (L2VPNs). They also addressed requirements driven by cloud computing services and data centers as they apply to Layer-2 VPN services. The [L2VPN Service Model](https://datatracker.ietf.org/wg/l2sm/about/) (L2SM) Working Group is tasked to created a data model that describes an L2VPN service.
 
 The [Layer 3 Virtual Private Networks (L3VPN)](https://datatracker.ietf.org/wg/l3vpn/about/) Working Group was responsible for defining, specifying and extending solutions for supporting provider-provisioned Layer-3 (routed) Virtual Private Networks (L3VPNs). These solutions provide IPv4, IPv6, and MPLS services including multicast.
@@ -285,9 +293,9 @@ The [IPv6 Over Low Power WPAN (6LOWPAN) Working Group](https://datatracker.ietf.
 
 The [IPv6 over Networks of Resource-constrained Nodes (6LO) Working Group](https://datatracker.ietf.org/wg/6lo/about/) develops IPv6 adaptation mechanisms to a wider range of radio technologies including “Bluetooth Low Energy” (RFC 7668), ITU-T G.9959 (as used in Z-Wave, RFC 7428), and the Digital Enhanced Cordless Telecommunications (DECT) Ultra Low Energy (ULE) cordless phone standard and the low-cost wired networking technology Master-Slave / Token-Passing (MS/TP) that is widely used over RS-485 in building automation.
 
-The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf.org/wg/lpwan/about/) focused on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa?, WI-SUN and NB-IOT.
+The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf.org/wg/lpwan/about/) focused on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa, WI-SUN and NB-IOT.
 
-The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/lwig/about/) focuses on helping the implementors of the smallest devices. The goal is to be able to build minimal yet interoperable IP-capable devices for the most constrained environments.
+The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/lwig/about/) focused on helping the implementors of the smallest devices. Standards developed by the group enablit the building of minimal yet interoperable IP-capable devices for the most constrained environments.
 
 The [Routing over Low Power and Lossy Networks (ROLL) Working Group](https://datatracker.ietf.org/wg/roll/about/) is developing standards to support the routing of communications within low-power and lossy networks.
 
@@ -339,6 +347,10 @@ Action 3: SDOs to cooperate and work in the areas of identifiers, vocabularies, 
 #### IETF/IAB input to Rolling Plan
 
 The following IETF Working Groups are active in this area:
+
+The [Secure Patterns for Internet Credentials (spice)](https://datatracker.ietf.org/wg/spice/about/) Working Group is chartered to analyze existing and emerging IETF technologies and address any remaining gaps to facilitate their application in digital credentials and presentations.
+
+The SPICE WG will develop digital credential profiles that support various use cases. The profiles developed by the SPICE WG will enable digital credentials to leverage existing IETF technologies. Privacy by design, confidentiality, and consent will be considered, and implementation guidance will be given for each proposed standard in the program of work.
 
 The [Web Authorization Protocol (OAUTH) WG](https://datatracker.ietf.org/wg/oauth/about/) developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
 
