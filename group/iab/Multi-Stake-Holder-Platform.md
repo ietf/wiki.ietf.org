@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:20:56.329Z
+date: 2024-08-08T14:21:49.727Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -518,16 +518,14 @@ Editor's note: No specific work identified in the IETF or IRTF
 Editor's note: No specific work identified in the IETF or IRTF
 
 ### 3.2.5 eCall
-**RP:** In the event of an accident, in-vehicle sensors will automatically trigger an eCall. An audio connection is made with the European emergency number 112 and routed to the PSAP. At the same time, an emergency message is sent, providing information (the minimum set of data, or MSD) including the time, location and driving direction. The emergency call can also be triggered manually. Further conformance, performance and periodic tests need to be developed and innovative solutions found for situations (such as low cost, low power P2WVs) where normal full eCall provisions are not practical. The European eCall Implementation Platform is making recommendations to ensure the best operation of the service and to take full advantage of all its possibilities. eCall is regulated for the life of the vehicle, and further provisions may be required in respect of periodic technical inspection (PTI) and test, and at end of life decommissioning. Recognising that introducing the service via new vehicle models will mean taking considerable time to equip all cars, EU regulation has already encouraged automotive manufacturers to voluntarily introduce eCall in existing models. However, now that the public land mobile network (PLMN) and PSAP support networks are in place and operational, there is a considerable aftermarket opportunity to bring the benefits of eCall to the current stock of vehicles throughout Europe, and several equipment vendors (both from within Europe and abroad) have already shown interest to fill this market niche, in some cases directly for 112-eCall, and in others for third-party service-supported eCall. Other entrants are expected. However, as it will prove more difficult to control the performance and quality of such aftermarket devices, there is an urgent need to develop standards for the physical parameters, installation and operational performance of such aftermarket devices, to enable adequate certification and PTI provisions. This will be essential to avoid PSAPs to be potentially inundated with false messages from such devices, and to increase the reliable and safe operation of such devices. Subsequently (voluntary) specifications have been developed to extend the benefits of eCall to all categories of vehicles, and to migrate from 2G/3G communications to any wireless IMS communications media, and in special circumstances, to be supported over satellite communications. As soon as the new specifications are validated it may be desirable to upgrade them to EN’s, so that they may be referenceable in extensions to the current regulations.
-
+**RP:** 
 Action 1: SDOs to develop technical specification and standards for the implementation of eCall in vehicles of categories other than M1 and N1 and for other user types, taking into account requirements included within type-approval regulation and ongoing activities in this area (pilots, the Connecting Europe Facility (CEF), etc).
 
 Action 2: SDOs to lay down physical and operating requirements for aftermarket in-vehicle devices.
 
 Action 3: SDOs to draft guidelines on certification of eCall Systems including aftermarket in-vehicle devices.
 
-Action 4: SDOs to provide conformance and performance tests to the recently developed standards for packet-
-switched networks (HLAP E-UTRAN — LTE/4G and migration to further generations by use of an IMS sublayer)
+Action 4: SDOs to provide conformance and performance tests to the recently developed standards for packet-switched networks (HLAP E-UTRAN — LTE/4G and migration to further generations by use of an IMS sublayer)
 
 Action 5: SDOs to develop conformance and performance tests for recently developed technical specifications / standards for the provision of the eCall service eCall via shared vehicle platforms (C-ITS).
 
