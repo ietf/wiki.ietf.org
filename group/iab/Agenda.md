@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-07T16:50:19.748Z
+date: 2024-08-09T18:48:34.232Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,6 +34,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * 2024-07-21 business meeting - (submitted 2024-07-25)
 * 2024-07-23 business meeting - (submitted 2024-07-25)
 * 2024-07-25 business meeting - (submitted 2024-07-25) 
+* 2024-08-07 business meeting - (submitted 2024-08-07)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -114,6 +115,7 @@ In Progress:
 
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
+### 2. Followup from IS Open Meeting (45 mins) - Public
 
 ## Upcoming Teleconferences 
 
