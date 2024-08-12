@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2024-07-11T13:53:43.747Z
+date: 2024-08-12T13:24:27.235Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -48,9 +48,12 @@ If you have questions or concerns regarding the implementation requirement, plea
 [Design Team 3: More IP Actions for FSv2](/group/idr/More-IP-Action-FSv2)
 [Design Team 4: Non-IP filters and actions FSv2](/group/idr/Non-IP-FSv2)
 
-## Interims 
+## Interims in 2024 
 
-### Upcoming Review 
+### Future interims 
+[IDR interim on 9/9/2024 on SR and BGP Routing] 
+
+### Past Interims 
 
 [IDR Interim on 5/20 - SR and BGP-LS](https://datatracker.ietf.org/meeting/interim-2024-idr-04/session/idr)
 
