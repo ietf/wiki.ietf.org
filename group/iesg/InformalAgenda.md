@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-14T14:20:15.135Z
+date: 2024-08-14T15:36:15.626Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,6 +44,8 @@ Note that this page is public.
 ### Document Discussions
 
 ### Management Issues
+
+* Review of stalled charters; see https://datatracker.ietf.org/group/chartering/
 
 ### WG News 
 
