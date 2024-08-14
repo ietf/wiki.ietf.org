@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-09T18:48:34.232Z
+date: 2024-08-14T18:27:12.985Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-08-14 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-08-21 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-08-07. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-08-14. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,9 +31,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-07-21 business meeting - (submitted 2024-07-25)
-* 2024-07-23 business meeting - (submitted 2024-07-25)
-* 2024-07-25 business meeting - (submitted 2024-07-25) 
 * 2024-08-07 business meeting - (submitted 2024-08-07)
 
 #### 1.4. Action Item Review - 5 mins
@@ -119,8 +116,6 @@ In Progress:
 
 ## Upcoming Teleconferences 
 
-* 2024-08-21: IAB Business Meeting
-    * Monthly Reports
 * 2024-08-28: IAB Technical Discussion (Reserved)
 * 2024-09-04: IAB Business Meeting
 * 2024-09-11: IAB Business Meeting (Reserved)
