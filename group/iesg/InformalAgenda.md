@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-14T19:43:35.228Z
+date: 2024-08-15T23:04:55.131Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 15, 2024
+# Informal Telechat - August 29, 2024
 
- There **WILL** be a meeting on this date.
+ There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,11 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-- Éric V (Assumption day)
-- Gunter V
-- Deb C
-- Orie S
-- Erik K
+
 
 ## Agenda
 
@@ -46,7 +42,6 @@ Note that this page is public.
 
 ### Management Issues
 
-* Review of stalled charters; see https://datatracker.ietf.org/group/chartering/ (Cindy)
 
 ### WG News 
 
@@ -55,7 +50,7 @@ Note that this page is public.
 ### AOB
 
 ### Executive Sessions
-* Initial discussion of IETF 125 survey results
+
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
