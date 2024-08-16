@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-14T18:27:12.985Z
+date: 2024-08-16T18:31:09.070Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-08-21 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-08-14. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-08-16. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -32,12 +32,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes 
 
 * 2024-08-07 business meeting - (submitted 2024-08-07)
+* 2024-08-14 business meeting - (submitted 2024-08-14)
 
 #### 1.4. Action Item Review - 5 mins
-
-Done:
-
-
 
 On Hold:
 
@@ -107,12 +104,39 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  ICANN Board Liaison - Call for Feedback ends 2024-08-19; interviews 
-    in progress 
+*  ICANN Board Liaison - Call for Feedback ended 2024-08-19; interviews 
+    complete
 
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
-### 2. Followup from IS Open Meeting (45 mins) - Public
+### 2. Monthly Written Reports and Other Brief Updates
+
+*  IANA Liaison Report
+*  IRTF Chair Report
+*  IAB Outreach Coordinator Report
+*  EODir Liaison Report
+*  Liaison Coordinators Report
+*  Tools Liaison Report
+
+
+### 3. Moving the iab-vote list to iab.org (Cindy) - 10 mins (Public)
+
+  Background: There is a desire to turn off i1b.org; iab-vote is the 
+  last remaining active list there, but finding a time to move that 
+  list without disrupting ongoing conversations has been difficult. 
+  Theoretically there should be a lull after finishing the ICANN Board 
+  Liaison appointment--would it be okay to move the list then?
+
+
+### 4. Executive Session: ICANN Board Liaison Appointment (30 mins)
+
+  Goal: Discussion, possible vote
+
+
+### 5. Next IAB Meeting 
+
+  Goal: Does the IAB need to meet on 2024-08-28?
+
 
 ## Upcoming Teleconferences 
 
