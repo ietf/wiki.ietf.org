@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-08-04T05:53:52.834Z
+date: 2024-08-17T03:28:00.696Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -110,7 +110,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Submitted to IESG for Publication on 2023-12-30 | In IETF LC; dependent on draft-dhody-pce-iana-update | Dhruv |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | Submitted to IESG for Publication on 2023-12-30 | On IESG Telechat 2024-08-22; dependent on draft-dhody-pce-iana-update | Dhruv |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | RtgDir early review completed | Dhruv |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | RtgDir,SecDir, Yang doctor early review done | Julien |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | RtgDir early review completed; Asked to add a Managebility Consideration Section | Dhruv | 
@@ -123,9 +123,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| draft-ietf-pce-binding-label-sid | EDIT | [C454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Julien |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
-| [draft-ietf-pce-segment-routing-ipv6](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-ipv6) |  AUTH48	 |  [C454](https://www.rfc-editor.org/cluster_info.php?cid=C454) | Hari |
+
 
 
 ## Recent RFCs
@@ -133,6 +132,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
 | RFC9504 | Published 2023-12; Was draft-ietf-pce-pcep-stateful-pce-gmpls| Dhruv |
+| RFC 9603 | Published 2024-07; Was draft-ietf-pce-segment-routing-ipv6 | Hari | 
+| RFC 9604 | Published 2024-08; Was draft-ietf-pce-binding-label-sid | Julien | 
 
 
 ## Other Useful Information
