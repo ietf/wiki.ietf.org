@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-08-20T09:43:04.430Z
+date: 2024-08-20T09:45:26.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -28,7 +28,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | --- | --- | --- | --- | --- | --- |
 | 2024-08-20 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | No | open | pending resolution of the WG poll on IOAM with MNA | Nic |
 | 2024-08-20 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) | No | open |  pending resolution of the WG poll on IOAM with MNA | Nic |
-
+| 2024-08-20 | [draft-li-mpls-mna-entropy ](https://datatracker.ietf.org/doc/draft-li-mpls-mna-entropy/) | No | open |  review in preparation | Nic |
 ## In Adoption Poll
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
