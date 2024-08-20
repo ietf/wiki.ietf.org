@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-04-23T13:59:25.682Z
+date: 2024-08-20T09:37:17.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -63,8 +63,8 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Toerless 2024-04-03 (not ready)  | Authors addressing comments | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Polled 04/16 | Joel Halpern 2024-01-09 (not ready). -03 and -04 posted | Pending on Kireeti Kompella | Tarek |
 | 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Started 2024-04-10; waiting for responses | Darren Dukes RTGDir review done. -10 addresses issues | | Tony |
-| 2024-03-01 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready |  | Nic |
-| 2024-04-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Not done | Review from Dhruv | Waiting for document rev | Tony |
+| 2024-08-20 | [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Complete | Joel Halpern -06, ready | write-up published | Nic |
+| 2024-00-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Not done | Review from Dhruv | Waiting for document rev | Tony |
 
 ## In Working Group Last Call
 
