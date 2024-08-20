@@ -2,7 +2,7 @@
 title: SIDROPS
 description: Secure Inter-Domain Routing Operations
 published: true
-date: 2024-05-16T22:57:45.564Z
+date: 2024-08-20T08:49:46.383Z
 tags: sidrops, rpki, sidr, pkix, x509, asn1
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
@@ -27,11 +27,11 @@ Implementation reports are published on our wiki (see below). Implementation rep
 If you have questions or concerns regarding the implementation requirement, please send questions to the [SIDROPS mailing-list](https://www.ietf.org/mailman/listinfo/sidrops) or the [SIDROPS chairs](mailto:sidrops-chairs@ietf.org). We are here to help you!
 
 ## SIDROPS WG Last Call
-[draft-ietf-sidrops-rrdp-desynchronization](/group/sidrops/draft-ietf-sidrops-rrdp-desynchronization)
 
 
 ## SIDROPS WG Call for adoption
 
+[draft-spaghetti-sidrops-rpki-crl-numbers](/group/sidrops/draft-spaghetti-sidrops-rpki-crl-numbers)
 
 ## Draft Implementation status
 
@@ -39,3 +39,5 @@ If you have questions or concerns regarding the implementation requirement, plea
 [draft-ietf-sidrops-aspa-profile](/group/sidrops/draft-ietf-sidrops-aspa-profile)
 [draft-ietf-sidrops-8210bis](draft-ietf-sidrops-8210bis)
 [draft-ietf-sidrops-cms-signing-time](draft-ietf-sidrops-cms-signing-time)
+[draft-ietf-sidrops-rrdp-desynchronization](/group/sidrops/draft-ietf-sidrops-rrdp-desynchronization)
+[draft-ietf-sidrops-rrdp-same-origin](/group/sidrops/draft-ietf-sidrops-rrdp-same-origin)
