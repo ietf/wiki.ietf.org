@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-21T15:52:36.610Z
+date: 2024-08-21T16:30:57.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -71,7 +71,8 @@ In Progress:
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
     
-* 2024-08-21: Cindy Morgan to send an e-vote for the ICANN Board Liaison appointment.
+* 2024-08-21: Cindy Morgan to send an e-vote for the ICANN Board 
+    Liaison appointment.
 
 
 #### 1.5. IAB Document Status Update - No updates this week
