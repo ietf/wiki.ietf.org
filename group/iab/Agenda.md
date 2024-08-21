@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-21T13:20:37.591Z
+date: 2024-08-21T15:52:36.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,20 +18,21 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-08-21 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-09-04 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-08-16. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-08-21. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
 
 #### 1.1. Attendance 
 
+* Regrets from Tommy
+
 #### 1.2. Agenda bash and announcements 
 
 #### 1.3. Meeting Minutes 
 
-* 2024-08-07 business meeting - (submitted 2024-08-07)
 * 2024-08-14 business meeting - (submitted 2024-08-14)
 
 #### 1.4. Action Item Review - 5 mins
@@ -41,10 +42,6 @@ On Hold:
 *  2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
     review of proposed WG charters to the Datatracker.
     See https://github.com/ietf-tools/datatracker/issues/5849
-
-*  2024-03-17: Liaison Managers to follow up with Martin Thomson about 
-    liaison manager for W3C.
-    - Check back August 2024
 
 *  2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN
     NomCom Liaison appointment once the list of positions being filled
@@ -56,16 +53,14 @@ On Hold:
 
 In Progress:
 
+*  2024-03-17: Liaison Managers to follow up with Martin Thomson about 
+    liaison manager for W3C.
+    
 *  2024-06-12: Mirja Kühlewind to work with Wes Hardaker on 
     prioritizing the current list of IAB requests for the Tools Team.
 
 *  2024-06-24: Liaison Coordinators + Wes Hardaker to come up with a 
     checklist for liaison relationships.
-
-*  2024-06-24: Cindy Morgan to draft text for the wiki about how to 
-    request IAB sessions for the agenda, including making sure there 
-    can be a session request in the Datatracker before scheduling 
-    requests close.
 
 *  2024-06-25: 2024-06-24: Suresh Krishnan to draft a document 
     obsoleting RFC 3113 (Update RFC3113 to in only high level details 
@@ -75,6 +70,8 @@ In Progress:
 
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
+    
+* 2024-08-21: Cindy Morgan to send an e-vote for the ICANN Board Liaison appointment.
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -104,44 +101,13 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  ICANN Board Liaison - Call for Feedback ended 2024-08-19; interviews 
-    complete
-
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
-### 2. Monthly Written Reports and Other Brief Updates
-
-*  IANA Liaison Report
-*  ICANN Liaison Report
-*  IRTF Chair Report
-*  IAB Outreach Coordinator Report
-*  EODir Liaison Report
-*  Liaison Coordinators Report
-*  Tools Liaison Report
-
-
-### 3. Moving the iab-vote list to iab.org (Cindy) - 10 mins (Public)
-
-  Background: There is a desire to turn off i1b.org; iab-vote is the 
-  last remaining active list there, but finding a time to move that 
-  list without disrupting ongoing conversations has been difficult. 
-  Theoretically there should be a lull after finishing the ICANN Board 
-  Liaison appointment--would it be okay to move the list then?
-
-
-### 4. Executive Session: ICANN Board Liaison Appointment (30 mins)
-
-  Goal: Discussion, possible vote
-
-
-### 5. Next IAB Meeting 
-
-  Goal: Does the IAB need to meet on 2024-08-28?
+### 2. 
 
 
 ## Upcoming Teleconferences 
 
-* 2024-08-28: IAB Technical Discussion (Reserved)
 * 2024-09-04: IAB Business Meeting
 * 2024-09-11: IAB Business Meeting (Reserved)
 * 2024-09-18: IAB Business Meeting
