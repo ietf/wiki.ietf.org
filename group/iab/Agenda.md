@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-16T18:31:09.070Z
+date: 2024-08-21T13:20:37.591Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -112,6 +112,7 @@ In Progress:
 ### 2. Monthly Written Reports and Other Brief Updates
 
 *  IANA Liaison Report
+*  ICANN Liaison Report
 *  IRTF Chair Report
 *  IAB Outreach Coordinator Report
 *  EODir Liaison Report
