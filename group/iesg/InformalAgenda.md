@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-15T23:04:55.131Z
+date: 2024-08-21T10:48:20.604Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - August 29, 2024
 
- There **WILL NOT** be a meeting on this date.
+ There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -37,6 +37,10 @@ Note that this page is public.
 {.is-info}
 
 ### Administrivia
+
+**1. Alldispatch: next steps (Francesca)**
+
+Now that we've had 2 Alldispatch meetings, it's time to decide if the experiment was successful (so charter a WG), unsuccessful (go back to separate Dispatch groups), or if we need to run it a bit longer (1, 2 more meetings?). We have a deadline of September 6th if we need to enter it as a BoF request.
 
 ### Document Discussions
 
