@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-21T16:30:57.825Z
+date: 2024-08-22T07:07:05.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -53,7 +53,7 @@ On Hold:
 
 In Progress:
 
-*  2024-03-17: Liaison Managers to follow up with Martin Thomson about 
+*  2024-03-17: Liaison Coordinators to follow up with Martin Thomson about 
     liaison manager for W3C.
     
 *  2024-06-12: Mirja Kühlewind to work with Wes Hardaker on 
