@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-08-23T11:42:39.774Z
+date: 2024-08-23T11:43:13.599Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -37,7 +37,6 @@ Possible speakers
 
 ### Yet to start
 - Planning for IETF 121
-	- 
   
 ### Ongoing
 
