@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-05-14T16:57:01.698Z
+date: 2024-08-23T16:21:13.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2024-2025 Assignments
+- SSHM: Cullen Jennings (2024-08)
 - DELEG: Alvaro Retana (2024-05)
 - SRV6OPS: Matthew Bocci (2024-05)
 - SPICE: Dhruv Dhody (2024-04)
