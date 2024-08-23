@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-08-23T01:43:54.710Z
+date: 2024-08-23T01:44:39.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -59,7 +59,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 
--[draft-ietf-idr-vpn-prefix-orf](/group/idr/implementation/draft-ietf-idr-vpn-prefix-orf)
+-[draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
 
  - [draft-ietf-idr-best-external-implementations]  (/group/idr/implementations/draft-ietf-idr-best-external) - broken web
  - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) - broken web 
