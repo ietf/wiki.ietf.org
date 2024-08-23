@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-vpn-prefix-orf
 description: Implementation report for draft-ietf-idr-vpn-prefix-orf
 published: true
-date: 2024-08-23T01:55:25.072Z
+date: 2024-08-23T01:56:15.855Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-23T01:55:25.072Z
@@ -24,5 +24,4 @@ dateCreated: 2024-08-23T01:55:25.072Z
 |  Unique RD, multiple RT   |  4.1.2|  (describe) | yes | yes |   |    | 
 |  Universal RD  |  4.1.3|  (describe) | yes | yes |   |    | 
 | Source PE Extended Community | 5 | describe | yes | yes |  |  | 
-
 {.dense}
