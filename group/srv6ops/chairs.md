@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-08-23T08:59:11.625Z
+date: 2024-08-23T11:42:39.774Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -16,8 +16,8 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 Possible speakers
 
-* Martin Gysi - Swisscom
-* Bryan Loh - TPG Telecom
+* Martin Gysi - Swisscom <martin.gysi@swisscom.com>
+* Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
 
 
 ### IETF 122 - Bangkok
