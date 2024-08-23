@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2024-07-21T18:03:40.771Z
+date: 2024-08-23T16:17:18.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -52,6 +52,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [IAB Web Site Management](/group/iab/IAB_Web_Site_Management)
 * [IAB GitHub](/group/iab/IAB_Github)
 * [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (on Github)
+* [Requesting Sessions at IETF Meetings](/group/iab/Sessions_At_IETF_Meetings)
 * [RG Reviews](/group/iab/RG_Reviews)
 * [Social Media Guidelines](/group/iab/Social_Media_Guidelines)
 
