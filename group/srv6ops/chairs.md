@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-07-12T14:23:42.742Z
+date: 2024-08-23T08:59:11.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -10,14 +10,7 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 # SRv6OPS Chairs Tracking Page
 
-
 ## Operator Presentations
-
-### IETF 120 - Vancouver
-
-* Verizon - Luay Jalil
-* China Unicom - Xinxin Yi
-* Rakuten  - Akash Agrawal
 
 ### IETF 121 - Dublin
 
@@ -33,11 +26,19 @@ Possible speakers
 
 * ?? - Jio
 
+### Past 
+#### IETF 120 - Vancouver
+
+* Rakuten  - Akash Agrawal
+* Verizon - Luay Jalil
+* China Unicom - Xinxin Yi
 
 ## Chair's Tracker
 
 ### Yet to start
-
+- Planning for IETF 121
+	- 
+  
 ### Ongoing
 
 ### Completed 
