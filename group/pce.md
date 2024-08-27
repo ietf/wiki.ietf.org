@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-08-27T22:28:08.219Z
+date: 2024-08-27T22:37:32.953Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -57,14 +57,14 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | --- | --- | --- |
 | [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | -09 posted on 2024-02-26 | Nearing WGLC? |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | -13 posted on 2024–02-13  | Nearing WGLC? |
-| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -04 posted on 2023-10-23  | Question on using draft-ietf-pce-enhanced-errors |
+| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -05 posted on 2024-07-03  | Question on using draft-ietf-pce-enhanced-errors |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -10 posted on 2024-01-16  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
-| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -05 posted on 2024-03-03 | More review requested, IANA early code points allocated |
-| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -05 posted on 2023-12-25 |  this I-D relies on the processing rules as per RFC 9168 |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -05 posted on 2024-01-28  | waiting for spring adoption |
-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | WG-ID | -04 posted on 2024-01-08 | - |
-| draft-ietf-pce-pcep-srv6-yang |  -04 posted on 2023-09-11 | - |
-| draft-ietf-pce-pcep-extension-pce-controller-srv6 | -02 posted on 2024-02-04 | Adoption comments from Adrian are handled |
+| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -09 posted on 2024-08-01 | More review requested, IANA early code points allocated |
+| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -06 posted on 2024-06-19 |  this I-D relies on the processing rules as per RFC 9168 |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -06 posted on 2024-07-08  | waiting for spring adoption |
+| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | -05 posted on 2024-07-05 | | - |
+| draft-ietf-pce-pcep-srv6-yang |  -05 posted on 2024-03-18 | - |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 | -03 posted on 2024-08-18 | Adoption comments from Adrian are handled |
 |draft-ietf-pce-bier-te | -00 posted on 2023-11-04 | - |
 | draft-ietf-pce-entropy-label-position | - | - |
 |draft-ietf-pce-circuit-style-pcep-extensions|-|-| 
@@ -91,7 +91,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -09 version posted on 2023-03-07 | - | Julien | Julien |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | -07  posted on 2024-03-17 | Missing support for Open message forwarding discussed during WGLC & IETF 119. <br> IANA pre-meeting review : update registry namings | - | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | -08 posted on 2024-01-01 | - | - | - |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Y | -12 posted on 2024-07-23 | v12 posted addressing iana and comments. Request for more early codepoint approved but pending request | - | - |
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Y | -13 posted on 2024-08-12 | Early directorate, outstanding OpsDir comments | - | - |
 
 
 ## Post WG LC Queue  
