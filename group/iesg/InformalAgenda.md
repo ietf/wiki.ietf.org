@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-21T10:48:20.604Z
+date: 2024-08-27T17:11:56.456Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,7 +45,7 @@ Now that we've had 2 Alldispatch meetings, it's time to decide if the experiment
 ### Document Discussions
 
 ### Management Issues
-
+- Quick review of [BOF request wiki](https://datatracker.ietf.org/doc/bof-requests)? Seem to be several spam requests - Secretariat want to check which are real before we delete some as spam. 
 
 ### WG News 
 
