@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-27T20:50:33.145Z
+date: 2024-08-28T17:51:43.005Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,9 +47,9 @@ Now that we've had 2 Alldispatch meetings, it's time to decide if the experiment
 ### Management Issues
 - Quick review of [BOF requests](https://datatracker.ietf.org/doc/bof-requests)? Seem to be several spam requests - Secretariat want to check which are real before we delete some as spam. (Liz)
 
-- New Participant Program (Michelle Cotton)
+- New Participant Program (Michelle)
 
-- IETF 125 Decision (Roman)
+- IETF 125 Decision [slides](https://docs.google.com/presentation/d/1eNCiB2-ialzkeeKoQsch67VdVXWGyYhOb7U7oAVWFvM/) (Roman)
 
 ### WG News 
 
