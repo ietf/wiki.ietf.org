@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-30T15:10:36.046Z
+date: 2024-08-30T15:11:06.491Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,7 +47,7 @@ Note that this page is public.
 - New Participant Program (Michelle)
 
 - WG/WG Chair Survey (Jay)
-  -  See Appendices 1 and 2 of the [WG Chairs Strategy document](https://docs.google.com/document/d/14LRLy8L-P375CO__inYCjkV5phOw5vd1HSe7npGxakE/edit?pli=1#heading=h.jqklwclxt031) 
+
 
 
 ### WG News 
