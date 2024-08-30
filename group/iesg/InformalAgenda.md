@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-08-29T07:21:33.563Z
+date: 2024-08-30T15:10:36.046Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 29, 2024
+# Informal Telechat - September 12, 2024
 
  There **WILL** be a meeting on this date.
 
@@ -29,7 +29,6 @@ Meeting password: 12345
 
 ## Regrets
 
-* Erik K. (may try to dial in from the road)
 
 ## Agenda
 
@@ -39,18 +38,17 @@ Note that this page is public.
 
 ### Administrivia
 
-**1. Alldispatch: next steps (Francesca)**
 
-Now that we've had 2 Alldispatch meetings, it's time to decide if the experiment was successful (so charter a WG), unsuccessful (go back to separate Dispatch groups), or if we need to run it a bit longer (1, 2 more meetings?). We have a deadline of September 6th if we need to enter it as a BoF request.
 
 ### Document Discussions
 
 ### Management Issues
-- Quick review of [BOF requests](https://datatracker.ietf.org/doc/bof-requests)? Seem to be several spam requests - Secretariat want to check which are real before we delete some as spam. (Liz)
 
 - New Participant Program (Michelle)
 
-- IETF 125 Decision [slides](https://docs.google.com/presentation/d/1eNCiB2-ialzkeeKoQsch67VdVXWGyYhOb7U7oAVWFvM/) (Roman)
+- WG/WG Chair Survey (Jay)
+  -  See Appendices 1 and 2 of the [WG Chairs Strategy document](https://docs.google.com/document/d/14LRLy8L-P375CO__inYCjkV5phOw5vd1HSe7npGxakE/edit?pli=1#heading=h.jqklwclxt031) 
+
 
 ### WG News 
 
