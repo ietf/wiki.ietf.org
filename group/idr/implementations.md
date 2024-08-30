@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-08-30T15:09:37.471Z
+date: 2024-08-30T15:11:24.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -85,7 +85,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-te-pm-bgp implementations](/group/idr/implementations/draft-ietf-idr-te-pm-bgp)
  - [draft-ietf-idr-bgpls-segment-routing-epe](/group/idr/implementations/draft-ietf-idr-bgpls-segment-routing-epe)
  - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
- - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended) - draft-ietf-idr-bgp-extended-messages
+ - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended) 
  - [draft-ietf-rfc5575bis implementations](/group/idr/implementations/draft-ietf-rfc5575bis)
  - [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
  - [draft-ietf-idr-ts-flowspec-srv6-policy implementations](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
