@@ -2,7 +2,7 @@
 title: IAB Technical Programs and Administrative Support Groups
 description: The IAB website provides a description of the definition & scope for technical programs & administrative support groups. This wiki records the IAB agreed procedures to establish, maintain, and close programs/groups & participation rules and expectations.
 published: true
-date: 2024-07-21T18:09:45.436Z
+date: 2024-08-30T12:35:04.718Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-21T18:06:04.185Z
@@ -55,9 +55,9 @@ Programs may target a workshop to generate broader input and have more time for 
 
 To hold a workshop the program will propose a workshop to the IAB, and the IAB will decide and organize such workshops following the usual IAB process. For IAB workshops interested parties are usually required to provide some statement of interest to be invited to participate. This enables the workshop organisers to keep the discussion focused and prepare accordingly. However, everybody who has provided a statement that is in scope for the respective workshop usually should be invited. Similar as for all IAB workshops, a report will be published as RFC on the IAB stream as a public record of the discussion and activities at the workshop.
 
-##Reporting and Review
-Technical programs are 
-expected to report back to the community in the IAB Open Meeting or, alternatively, on the architecture-discuss mailing list. The frequency and level of detail of such reporting is to be defined by the IAB, but it is expected that each program will report back at least once per year.
+## Reporting and Review
+
+Technical programs are expected to report back to the community in the IAB Open Meeting or, alternatively, on the architecture-discuss mailing list. The frequency and level of detail of such reporting is to be defined by the IAB, but it is expected that each program will report back at least once per year.
 
 The IAB will review each technical program once every year to decide if the program should be continued (in its current form) and potentially also adapt the scope of a program. Program reviews can happen during an IETF meeting, at the IAB retreat, in IAB business calls (or the reserved slot), or in dedicated calls if needed for any reason. The review will be open to observers based on the usual rules of the type of meeting where the review is done. No matter which meeting will be chosen, the minutes of the review should be published.
 
