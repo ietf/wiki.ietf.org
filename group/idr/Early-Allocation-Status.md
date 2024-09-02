@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-09-01T18:10:07.297Z
+date: 2024-09-02T10:27:38.126Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -96,7 +96,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (22) | Segment type M   | Needs revised draft |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (23) | Segment type N | Needs revised draft |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (24) | Segment type O  | Needs revised draft |
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 21-255 | unassigned| Past WG LC | 
+| [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (25) | Path MTU  | Needs revised draft |
+| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 25-255 | unassigned| Past WG LC | 
 {.dense}
 
 ### draft-ietf-idr-sr-policy-safi registry: SR Policy Binding SID Flags
