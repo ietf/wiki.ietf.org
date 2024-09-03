@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-08-22T07:07:05.334Z
+date: 2024-09-03T16:37:01.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,22 +20,28 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-09-04 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-08-21. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-08-30. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
 
 #### 1.1. Attendance 
 
-* Regrets from Tommy
+* Regrets from Matthew, Roman, Tommy
 
 #### 1.2. Agenda bash and announcements 
 
 #### 1.3. Meeting Minutes 
 
 * 2024-08-14 business meeting - (submitted 2024-08-14)
+* 2024-08-21 business meeting - (submitted 2024-08-21)
 
 #### 1.4. Action Item Review - 5 mins
+
+Done:
+
+* 2024-08-21: Cindy Morgan to send an e-vote for the ICANN Board
+    Liaison appointment.
 
 On Hold:
 
@@ -71,8 +77,6 @@ In Progress:
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
     
-* 2024-08-21: Cindy Morgan to send an e-vote for the ICANN Board 
-    Liaison appointment.
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -93,18 +97,31 @@ In Progress:
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
-*  Multiformats (multi)
-    Area: ART
+*  Secure Shell Maintenance (SSHM)
+    Area: SEC
     Internal Review
-    IESG Telechat: (None)
-    IAB Reviewer: Qin Wu (sent 2023-09-12)
+    IESG Telechat: (2024-09-05)
+    IAB Reviewer: Cullen Jennings
 
 
 #### 1.7 IAB Appointments
 
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
-### 2. 
+### 2. ICANN Board Liaison Appointment (Cindy) - <5 mins (Public)
+
+  Goal: Record results of e-vote
+
+
+### 3. AI Control Workshop Update (Suresh) - 5 mins (Public)
+
+
+### 4. NEMOPS Workshop Update (Wes, Qin, Suresh, Dhruv) - 5 mins (Public)
+
+
+### 5. Next IAB Meeting 
+
+  Goal: Does the IAB need to meet on 2024-09-11?
 
 
 ## Upcoming Teleconferences 
