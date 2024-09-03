@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-03T16:37:01.882Z
+date: 2024-09-03T21:04:24.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -119,7 +119,13 @@ In Progress:
 ### 4. NEMOPS Workshop Update (Wes, Qin, Suresh, Dhruv) - 5 mins (Public)
 
 
-### 5. Next IAB Meeting 
+### 5. Rejoinder to GDC 'open letter'
+
+
+
+
+
+### 6. Next IAB Meeting 
 
   Goal: Does the IAB need to meet on 2024-09-11?
 
