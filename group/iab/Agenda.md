@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-04T14:32:52.220Z
+date: 2024-09-04T14:35:27.000Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -27,7 +27,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.1. Attendance 
 
-* Regrets from Matthew, Roman, Tommy, Qin
+* Regrets from Matthew, David, Tommy, Qin
 
 #### 1.2. Agenda bash and announcements 
 
