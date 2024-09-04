@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-04T14:35:27.000Z
+date: 2024-09-04T16:15:26.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,30 +18,25 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-09-04 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-09-18 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-08-30. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-09-04. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
 
 #### 1.1. Attendance 
 
-* Regrets from Matthew, David, Tommy, Qin
-
 #### 1.2. Agenda bash and announcements 
 
 #### 1.3. Meeting Minutes 
 
-* 2024-08-14 business meeting - (submitted 2024-08-14)
-* 2024-08-21 business meeting - (submitted 2024-08-21)
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
-* 2024-08-21: Cindy Morgan to send an e-vote for the ICANN Board
-    Liaison appointment.
+
 
 On Hold:
 
@@ -65,9 +60,6 @@ In Progress:
 *  2024-06-12: Mirja Kühlewind to work with Wes Hardaker on 
     prioritizing the current list of IAB requests for the Tools Team.
 
-*  2024-06-24: Liaison Coordinators + Wes Hardaker to come up with a 
-    checklist for liaison relationships.
-
 *  2024-06-25: 2024-06-24: Suresh Krishnan to draft a document 
     obsoleting RFC 3113 (Update RFC3113 to in only high level details 
     of the collaboration (3GPP-IETF co-ordination team) and move the 
@@ -77,7 +69,17 @@ In Progress:
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
     
+*  2024-09-04: Cindy Morgan to subscribe Cullen Jennings to the IETF-
+    W3C Coordination list.
 
+*  2024-09-04: Liaison Coordinators to update RFC 4052 to improve 
+    documentation about liaison relationships.
+
+*  2024-09-04: Alissa Cooper to ask Mallory Knodel to put her in touch 
+    with the people who wrote the rejoinder to the GDC open letter.
+
+*  2024-09-04: Suresh Krishnan to provide contacts for the people at 
+    Cisco working on Tesla Transport Protocol over Ethernet (TTPoE).
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -93,7 +95,7 @@ In Progress:
     IAB Shepherd: Not assigned
 
 
-#### 1.6. IAB Review of WG Charters - No Outstanding IAB Reviews
+#### 1.6. IAB Review of WG Charters 
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
@@ -108,39 +110,23 @@ In Progress:
 
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
-### 2. ICANN Board Liaison Appointment (Cindy) - <5 mins (Public)
+### 2. Monthly Written Reports and Other Brief Updates
 
-  Goal: Record results of e-vote
+### 3. 
 
+### 4. 
 
-### 3. AI Control Workshop Update (Suresh) - 5 mins (Public)
-
-
-### 4. NEMOPS Workshop Update (Wes, Qin, Suresh, Dhruv) - 5 mins (Public)
-
-
-### 5. Rejoinder to GDC 'open letter'
-
-
-
-
-
-### 6. Next IAB Meeting 
-
-  Goal: Does the IAB need to meet on 2024-09-11?
-
+### 5. 
 
 ## Upcoming Teleconferences 
 
-* 2024-09-04: IAB Business Meeting
-* 2024-09-11: IAB Business Meeting (Reserved)
 * 2024-09-18: IAB Business Meeting
-    * Monthly Reports
+    * Monthly Written Reports and Other Brief Updates
 * 2024-09-25: IAB Technical Discussion: Censorship Measurements (Roya Ensafi)
 * 2024-10-02: IAB Business Meeting
 * 2024-10-09: IAB Business Meeting (Reserved)
 * 2024-10-16: IAB Business Meeting
-    * Monthly Reports
+    * Monthly Written Reports and Other Brief Updates
 * 2024-10-23: IAB Technical Discussion (Reserved)
 
 -- 2024-11-02 - 2024-11-08: IETF 121 Dublin --
