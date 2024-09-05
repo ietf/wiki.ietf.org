@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-09-02T10:27:38.126Z
+date: 2024-09-05T13:19:11.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -43,6 +43,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1215 | SR Metric Constraint | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1216 |  SR Segment List Bandwidth | Assigned 2023-08 |
 | draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1217 | SR Segment List Identifier | Assigned 2023-08 |
+| draft-ietf-idr-bgp-ls-sr-policy-nrp-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | TBD (1218) | SR Segment List Identifier | Requested |
 {.dense}
 
 ### draft-ietf-idr-bgp-ls-sr-policy New registries 
