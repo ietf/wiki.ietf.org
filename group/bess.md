@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-07-18T17:11:50.095Z
+date: 2024-09-06T14:26:09.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -64,18 +64,14 @@ This section lists actions other than document updates
 
 
 ## Latest RFCs
-* RFC 9541 Flush Mechanism for Customer MAC Addresses Based on Service Instance Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN)
-* RFC 9574 Optimized Ingress Replication Solution for Ethernet VPNs (EVPNs)
-* RFC 9573 MVPN/EVPN Tunnel Aggregation with Common Labels
-* RFC 9572  Updates to EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Procedures
 
+* RFC 9625 EVPN Optimized Inter-Subnet Multicast (OISM) Forwarding
 
 
 ## Documents in RFC editor queue
 
 * draft-ietf-bess-evpn-pref-df (MISSREF, need VES)
-* draft-ietf-bess-pbb-evpn-isid-cmacflush (AUTH48, missing Andrew)
-* draft-ietf-bess-evpn-irb-mcast
+* draft-ietf-bess-evpn-mh-split-horizon-11 
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
@@ -97,27 +93,19 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-evpn-fast-df-recovery (Matthew)
   - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
   - AD reviewed; revision needed; Outstanding comments from Jeffrey
-  
-* draft-ietf-bess-evpn-mh-split-horizon (Jeffrey)
-  - requested GenArt early review
+* draft-ietf-bess-evpn-mh-pa
+* draft-ietf-bess-evpn-redundant-mcast-source
+
 
 ## Documents under Shepherds Review
 
-
-- draft-ietf-bess-evpn-redundant-mcast-source (Mankamana)
-	- Jorge replied to RTGDIR review and addressed comments
-  - Writeup done, ready to move to next step 
-
-- draft-ietf-bess-evpn-mh-pa (Stephane)
-  - Chair review done and document updated
-  - GEN ART review requested, then write-up will be done
-  - no reply from authors about GenArt review => Stephane requested authors to reply
 
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
   - the document has a lot of normative dependencies that are not ready yet
   - An outstanding comment from Jeffrey about inconsistent/inappropriate use of "ECMP"
   - Review requested to IDR chairs
   - RTGDIR and GENART review requested => comments addressed
+  - Draft expired, 09/06, reminder sent to authors to refresh. 
 
 - draft-ietf-bess-evpn-geneve: (Matthew)
   - Waiting for implementation
@@ -143,10 +131,11 @@ Shepherd's name indicated within parenthesis.
   - Action: update in progress
   - RTGDIR review comment addressed.
   - Outstanding questions/comments from Jeffrey
-  - Action : mankamana addressing comments 
+  - Action : mankamana addressing comments , being submitted in before end of Sep 2024
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
-	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress. 
+	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress.
+  - New version updated, ETA end of Sep 2024 
   
 * draft-ietf-bess-extended-evpn-optimized-ir-06 
 	- RTGDIR and GENART review passed
@@ -170,12 +159,12 @@ Shepherd's name indicated within parenthesis.
  
 * draft-ietf-bess-evpn-bfd
   - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
+ * draft-ietf-bess-mvpn-evpn-sr-p2mp-09 
+   - Early review requested 
   
 ## Recently adopted documents
 
-* draft-ietf-bess-bgp-srv6-args-00
-* https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-ip-aliasing/
-* draft-ietf-bess-evpn-dpath
+
 
  
 ## Documents candidates for Working Group adoption
