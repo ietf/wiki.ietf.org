@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-09-06T14:26:09.351Z
+date: 2024-09-06T15:26:26.238Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -76,25 +76,26 @@ This section lists actions other than document updates
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
+  - Matthew to find new editor (09/06) 
 * draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
-	- 2nd last call passed
-	- Authors have fixed grammar issues (shepherd's write up updated and publication requested by Matthew).
-	- Action: With AD.
+	- mankamana to follow up with Authors (09/06)
 * draft-ietf-bess-evpn-fxc (Stephane)
 	- AD evaluation not done
   - RTGDIR: ready
 
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
 	- Telechat on 2/29
+  - park it for now (09/06)
 
 * draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
-	- need AD to review
+	- Authors need to update the draft 
 
 * draft-ietf-bess-evpn-fast-df-recovery (Matthew)
-  - Publication requested after poll suggested no interop issues with legacy 8584 implementations. (Matthew)
-  - AD reviewed; revision needed; Outstanding comments from Jeffrey
+  - Revised ID needed from author (09/06)
 * draft-ietf-bess-evpn-mh-pa
+  - Revised ID needed from author 
 * draft-ietf-bess-evpn-redundant-mcast-source
+  - sent to IESG as of 09/06
 
 
 ## Documents under Shepherds Review
@@ -108,7 +109,7 @@ Shepherd's name indicated within parenthesis.
   - Draft expired, 09/06, reminder sent to authors to refresh. 
 
 - draft-ietf-bess-evpn-geneve: (Matthew)
-  - Waiting for implementation
+  - Moved to experimental now , Matthew to write up and move to next step (09/06)
 
 
 ## Documents that failed Working Group Last Call 
@@ -139,26 +140,33 @@ Shepherd's name indicated within parenthesis.
   
 * draft-ietf-bess-extended-evpn-optimized-ir-06 
 	- RTGDIR and GENART review passed
+  - Draft expired , mankamana to send reminder to author (09/06)
   
 * draft-ietf-bess-rfc7432bis
 	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
   - Draft being updated as of 11/2 
+  - Mankamana to check with Ali about if its ready. 
+  - Matthew to review the draft 
   
 
 * draft-ietf-bess-bgp-multicast-controller
   - GenArt early review passed
   - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement from reviewer yet.
   - Requested Susan for IDR review for both bgp-multicast drafts.
+  - Susan comment has been addressed, waiting for her comment. 
 
 * draft-ietf-bess-bgp-multicast
   - GenArt and RtgDir early review passed ( revision -07)
+  - Susan comment has been addressed, waiting for her comment. 
 
 * draft-ietf-bess-evpn-mvpn-seamless-interop
   - Review comment addressed. 
+  - mankamana to send note about review comment being addressed. 
  
  
 * draft-ietf-bess-evpn-bfd
   - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
+  - early review to be started 
  * draft-ietf-bess-mvpn-evpn-sr-p2mp-09 
    - Early review requested 
   
