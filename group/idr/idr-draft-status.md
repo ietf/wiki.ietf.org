@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-08-15T15:59:40.424Z
+date: 2024-09-08T23:59:31.032Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -24,13 +24,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
+| draft-ietf-bgp-sendholdtimer | Jeff Haas | RFC edit | Auth-48 | 4/19/2024 | 5/3/2024 | 87 days | 7/27/2024 | 93 days |  
 {.dense}
 
 
 ## IESG Approved
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
-|---|---|---|---|---|---|---|---|---|
-| draft-ietf-bgp-sendholdtimer | Jeff Haas | IETF LC | IESG review | 4/19/2024 | 5/3/2024 | 87 days | 7/27/2024 | 93 days |  
+|---|---|---|---|---|---|---|---|---| 
 | none | 
 {.dense}
 
