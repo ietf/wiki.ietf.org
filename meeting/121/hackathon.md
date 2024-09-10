@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-09-10T19:35:06.433Z
+date: 2024-09-10T19:56:39.935Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -166,6 +166,26 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+
+---
+
+### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
+- **Champion**
+Stuart Cheshire &lt;cheshire@apple.com&gt;
+
+- **Thread Overview**
+
+  [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a brief presentation about Thread at the [IETF 119 IAB Open meeting in Brisbane](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/).
+For this Hackathon event, the goal is to introduce people to Thread and OpenThread programming. This Hackathon event is open to all — Thread Group membership is not required, though of course Thread Group members are also welcome to participate. If you plan to participate in the Thread work at the Hackathon (on-site or remotely), please add your name to the participant list. If you already have a Thread developer board and the OpenThread build environment on your laptop, please bring that. If not, we will have a few extra Thread developer boards available and we can help you get the build environment set up. For people totally new to Thread development, we have some recommendations from [Allie Clifford](/meeting/120/hackathon/Thread-Guide-Allie-Clifford) and [Ann Olivo](/meeting/120/hackathon/Thread-Guide-Ann-Olivo).
+We have a list of some project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
+
+- **Participants**
+Stuart Cheshire (Apple)
+François Michel (Apple)
+
+- **Project Info**
+
+  - To avoid taking up too much space on the main Hackathon page, Thread projects are listed on the separate [Thread Projects page](/meeting/121/hackathon/thread-projects).
 
 ----
 
