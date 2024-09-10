@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-09-10T19:56:39.935Z
+date: 2024-09-10T22:15:21.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -185,7 +185,7 @@ François Michel (Apple)
 
 - **Project Info**
 
-  - To avoid taking up too much space on the main Hackathon page, Thread projects are listed on the separate [Thread Projects page](/meeting/121/hackathon/thread-projects).
+  - To avoid taking up too much space on the main Hackathon page, Thread projects are listed separately on the [Thread Projects page](/meeting/121/hackathon/thread-projects).
 
 ----
 
