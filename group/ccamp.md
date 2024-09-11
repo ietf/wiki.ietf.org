@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2023-07-14T09:59:02.244Z
+date: 2024-09-11T09:41:19.645Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -68,7 +68,7 @@ A YANG Data Model for Interface Reference Topology
 **- draft-ietf-ccamp-l1csm-yang-21**
 A YANG Data Model for L1 Connectivity Service Model (L1CSM)
 > Publication requested
-
+> MISSREF - Depending ....
 
 **- draft-ietf-ccamp-layer1-types-15**
 *A YANG Data Model for Layer 1 Types*
@@ -112,33 +112,37 @@ Framework and Data Model for OTN Network Slicing
 
 
 ## Draft prioritization for WG adoption
-Prio 1 - draft-poidt-ccamp-actn-poi-pluggable-02
-Applicability of ACTN to Packet Optical Integration (POI) extensions to support Router             Optical interfaces
-> Haomian to run IPR polling after IETF 117
+Prio 1 - draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
+Use cases, Network Scenarios and gap analysis for Packet Optical Integration (POI) with coherent plugables under ACTN Framework
+> Haomian running IPR polling
 > WG adoption process managed by Luis
 
-Prio 2 - draft-zheng-ccamp-client-pm-yang-07
-A YANG Data Model for Client Signal Performance Monitoring
->Daniele
+Prio 2 - draft-gstk-ccamp-actn-optical-transport-mgmt
+Integrating YANG Configuration and Management into an Abstraction and Control of TE Networks (ACTN) System for Optical Networks
 
-Prio 3 - draft-zheng-ccamp-client-tunnel-yang-12
-A YANG Data Model for Client-layer Tunnel
+Prio 3 - draft-zheng-ccamp-client-pm-yang-07
+A YANG Data Model for Client Signal Performance Monitoring
+
 
 ## Draft prioritization for WG last call
-Prio 1 **- draft-ietf-ccamp-mw-topo-yang-05**
-A YANG Data Model for Microwave Topology
->last call passed. comments to be addressed and the shepherd writeup.
+Prio 1 (cluster)
 
-Prio 2 **- draft-ietf-ccamp-flexe-yang-cm-01**
-YANG Data Model for FlexE Management
-> YANG doctor and RTG DIR review requests. deadline 14 Aug 23
-
-Prio 3 (cluster)
 **- draft-ietf-ccamp-optical-impairment-topology-yang-12**
 **- draft-ietf-ccamp-rfc9093-bis-04**
 
+Prio 2
+
+**- draft-ietf-ccamp-wdm-tunnel-yang-02**
+> Dependency on draft-ietf-teas-yang-te-36
+
+Prio 3
+
+**- draft-ietf-ccamp-otn-tunnel-model-21**
+> Dependency on draft-ietf-teas-yang-te-36
+
 ## IPR polling ongoing
-...
+- draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
+- draft-ietf-ccamp-rfc9093-bis-04
 
 &nbsp;
 &nbsp;
