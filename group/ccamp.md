@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-09-12T10:13:07.792Z
+date: 2024-09-12T10:16:41.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -162,7 +162,7 @@ Contributors
    Daniele Ceccarelli https://mailarchive.ietf.org/arch/msg/ccamp/RKy4wxB5qfQ3y6hMFGb1HjB6pds/
    Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/ptdeFXzF9ulu81iQ8JVyOCmDbzY/
    Ori Gerstel (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/v3ikDqTegMOmpoGtYeti9rSPsho/
-   Stefan Melin
+   Stefan Melin (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/_dsyYyLexTOuIY996EbRiLVLflM/
    Deborah Brungard https://mailarchive.ietf.org/arch/msg/ccamp/RABlQJ_fSPbNC9SmYfqlaZc8Ah8/
    
 Others:    
