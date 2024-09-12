@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-09-10T22:15:21.205Z
+date: 2024-09-12T18:37:15.283Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -186,6 +186,24 @@ François Michel (Apple)
 - **Project Info**
 
   - To avoid taking up too much space on the main Hackathon page, Thread projects are listed separately on the [Thread Projects page](/meeting/121/hackathon/thread-projects).
+
+----
+
+### Identifier Locator Network Protocol (ILNP)
+
+- **Champions**
+  - Saleem Bhatti saleem@st-andrews.ac.uk
+  - Rodney Grimes rgrimes@freebsd.org
+  - Alistair Woodman awoodman@netdef.org
+
+- **Participants**
+  - Gregor Haywood (remote) gh66@st-andrews.ac.uk
+  - Ryo Yanagida ryo@htonl.net
+
+- **Project Info**
+  - https://ilnp.cs.st-andrews.ac.uk
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
 
 ----
 
