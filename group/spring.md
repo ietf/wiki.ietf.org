@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2024-08-20T19:00:40.877Z
+date: 2024-09-12T15:36:32.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -47,10 +47,6 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-agrawal-spring-srv6-mpls-interworking
    * 2021-03 (IETF110) Authors sent request
    * 2024-07-11 Adoption call started: https://mailarchive.ietf.org/arch/msg/spring/qVc41lFqOknxAluPGYLjNWbk560/
-* draft-gong-spring-hierarchical-slice-solution (WAS: draft-gong-teas-hierarchical-slice-solution)
-   * 2022-11-9 Authors sent request
-   * 2024-06-11 Asked the authors to rename the draft (to avoid confusion) and start an on-list discussion (Alvaro).
-   * 2024-06-17 The draft has been renamed.
 * draft-cheng-spring-srv6-policy-resource-gurantee
 	 * 2023-09-28 Authors sent request
 * draft-salih-spring-srv6-inter-domain-sids
