@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-09-11T09:41:19.645Z
+date: 2024-09-12T06:31:06.378Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -142,7 +142,52 @@ Prio 3
 
 ## IPR polling ongoing
 - draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
-- draft-ietf-ccamp-rfc9093-bis-04
+
+IPR Poll Track 20240912
+draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
+
+Authors
+   Oscar Gonzalez de Dios https://mailarchive.ietf.org/arch/msg/ccamp/YbJEGcxNOudMb8Lb7iYdlpktjg8/
+   Jean-Francois Bouquier https://mailarchive.ietf.org/arch/msg/ccamp/EsghGlg4YKc81SDaTno-vnGHmzY/
+   Julien Meuric https://mailarchive.ietf.org/arch/msg/ccamp/hFSWSOMAZfg4n1GxyV0nomf1INU/
+   Gyan Mishra https://mailarchive.ietf.org/arch/msg/ccamp/rakJg3YtyNTzOAOKpA2pxzZnR1c/
+   Gabriele Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/JF2Nn4MrIbOhB-GQPsGdhv2q6EI/
+
+Contributors
+   Nigel Davis
+   Reza Rokui
+   Edward Echeverry
+   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/F_UdaygEy04kFGFzdHG2-eSTFBA/
+   Brent Foster https://mailarchive.ietf.org/arch/msg/ccamp/R5kHwG-RLRF_sOcF5t1WmXQxTDk/
+   Daniele Ceccarelli https://mailarchive.ietf.org/arch/msg/ccamp/RKy4wxB5qfQ3y6hMFGb1HjB6pds/
+   Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/ptdeFXzF9ulu81iQ8JVyOCmDbzY/
+   Ori Gerstel (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/v3ikDqTegMOmpoGtYeti9rSPsho/
+   Stefan Melin
+   Deborah Brungard https://mailarchive.ietf.org/arch/msg/ccamp/RABlQJ_fSPbNC9SmYfqlaZc8Ah8/
+   
+Others:    
+   Sergio Belotti: https://mailarchive.ietf.org/arch/msg/ccamp/lkQDI4j7KOMFFFeXt5XFcMgWhKk/
+
+
+- draft-ietf-ccamp-rfc9093-bis-11
+
+Authors
+   Sergio Belotti (editor) https://mailarchive.ietf.org/arch/msg/ccamp/BsuMbgNt3Sqie4efuMXB6n6wXio/
+   Italo Busi (editor) https://mailarchive.ietf.org/arch/msg/ccamp/7cqYvXQIXXxfAVxr0Va1Vk_VEfQ/
+   Dieter Beller (editor)
+   Esther Le Rouzic
+   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/7cqYvXQIXXxfAVxr0Va1Vk_VEfQ/
+
+Contributors
+   Haomian Zheng https://mailarchive.ietf.org/arch/msg/ccamp/aBljL5LSj5XQe89NZhZ0tRvqi68/
+   Daniel King https://mailarchive.ietf.org/arch/msg/ccamp/BsuMbgNt3Sqie4efuMXB6n6wXio/
+   Gabriele Galimberti
+   Enrico Griseri
+   Dhruv Dhody https://mailarchive.ietf.org/arch/msg/ccamp/Kt3IapVi4GfESt5DJE3MDwOCSFA/
+   Bin Yeong Yoon
+   Ricard Vilalta https://mailarchive.ietf.org/arch/msg/ccamp/Vc9k-Wc8MxMVHjtxomOOEcfJe1s/
+   Young Lee
+   Victor Lopez
 
 &nbsp;
 &nbsp;
