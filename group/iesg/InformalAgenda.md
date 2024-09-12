@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-11T09:13:14.485Z
+date: 2024-09-12T06:48:14.950Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -31,6 +31,7 @@ Meeting password: 12345
 
 - Éric Vyncke (PTO)
 - Deb Cooley
+- Erik K
 
 ## Agenda
 
