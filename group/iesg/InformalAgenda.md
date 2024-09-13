@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-12T06:48:26.969Z
+date: 2024-09-13T20:30:14.913Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - September 12, 2024
+# Informal Telechat - September 26, 2024
 
- There **WILL** be a meeting on this date.
+ There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,9 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-- Éric Vyncke (PTO)
-- Deb Cooley
-- Erik K
+
 
 ## Agenda
 
@@ -47,11 +45,7 @@ Note that this page is public.
 
 ### Management Issues
 
-- New Participant Program (Michelle)
-- I-D Guidelines Change Control (Jay)
-- WG/WG Chair Survey (Jay)
-- IESG responses to two request by D.J. Bernstein (Paul)
-- Alldispatch (part 2) (Francesca): see https://mailarchive.ietf.org/arch/msg/iesg/Tr9XZqK3AzB98MwT_iWOBfSppW4/
+
 
 ### WG News 
 
