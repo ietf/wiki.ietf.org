@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-09-10T22:14:38.631Z
+date: 2024-09-13T16:33:25.301Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -10,7 +10,7 @@ dateCreated: 2024-09-10T19:46:03.732Z
 
 # [IETF 121 Hackathon](/meeting/121/hackathon) Thread Projects
 
-To avoid taking up too much space on the main Hackathon page, Thread projects are listed separately here.
+To avoid taking up too much space on the [main Hackathon page](/meeting/121/hackathon), Thread projects are listed separately here.
 
 ### Low-Power Wireless IPv6 Networking with Thread *
 
