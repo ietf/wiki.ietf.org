@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-04T16:15:26.821Z
+date: 2024-09-13T15:11:18.621Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -36,7 +36,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Done:
 
-
+* 2024-09-04: Cindy Morgan to subscribe Cullen Jennings to the IETF-
+    W3C Coordination list.
 
 On Hold:
 
@@ -68,9 +69,6 @@ In Progress:
 
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
-    
-*  2024-09-04: Cindy Morgan to subscribe Cullen Jennings to the IETF-
-    W3C Coordination list.
 
 *  2024-09-04: Liaison Coordinators to update RFC 4052 to improve 
     documentation about liaison relationships.
@@ -99,11 +97,24 @@ In Progress:
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
+* Getting Ready for Energy-Efficient Networking (GREEN)
+    Area: OPS
+    Internal Review
+    IESG Telechat: (2024-09-19)
+    IAB Reviewer: Alissa Cooper
+
+* MODeration PrOceDures (MODPOD)
+    Area: GEN
+    Internal Review
+    IESG Telechat: (2024-09-19)
+    IAB Reviewer: Qin Wu (Review sent 2024-09-11)
+
+
 *  Secure Shell Maintenance (SSHM)
     Area: SEC
     Internal Review
     IESG Telechat: (2024-09-05)
-    IAB Reviewer: Cullen Jennings
+    IAB Reviewer: Cullen Jennings (Review sent 2024-09-06)
 
 
 #### 1.7 IAB Appointments
@@ -112,16 +123,24 @@ In Progress:
 
 ### 2. Monthly Written Reports and Other Brief Updates
 
-### 3. 
+### 3. AI Control Workshop Update (Suresh) - 5 mins (Public)
 
-### 4. 
+### 4. NEMOPS Workshop Update (Wes, Qin, Suresh, Dhruv) - 5 mins (Public)
 
-### 5. 
+  Goal: Is the IAB ready to remove the "Preliminary - Subject to 
+  Change" note from the description in the Datatracker?
+
+### 5. ANSI Consortia Roundtable (All) - 5 mins (Public)
+
+  Goal: Is anyone available to attend (Washington DC, 2024-10-17)?
+  
+### 6. IAB Open Meeting at IETF 120 (All) - 10 mins (Public)
+
+  Goal: Find co-chair, brainstorm topics
+
 
 ## Upcoming Teleconferences 
 
-* 2024-09-18: IAB Business Meeting
-    * Monthly Written Reports and Other Brief Updates
 * 2024-09-25: IAB Technical Discussion: Censorship Measurements (Roya Ensafi)
 * 2024-10-02: IAB Business Meeting
 * 2024-10-09: IAB Business Meeting (Reserved)
