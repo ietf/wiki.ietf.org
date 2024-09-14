@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2023-12-14T10:03:36.098Z
+date: 2024-09-14T16:30:44.285Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -37,6 +37,7 @@ dateCreated: 2022-09-28T14:08:25.237Z
  * [Obsoleting RFCs belonging to other Streams](/group/iesg/obsoletingotherstreams)
  * Information about [informal telechats](/group/iesg/informaltelechats)
  * [Processing Errata](/group/iesg/processingerrata)
+ * [AD sponsoring drafts](/group/uesg/adsponsoring)
 
 When you surface after joining the IESG long enough to think about "steering", instead of just reviewing docs for telechats
  * RFC 3774 is a snapshot of what the community thought the IETF needed to fix in 2004. It is still relevant, and that is not a good sign ... 
