@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-09-16T13:33:10.346Z
+date: 2024-09-16T13:34:34.499Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -174,7 +174,7 @@ Others:
 Authors
    Sergio Belotti (editor) https://mailarchive.ietf.org/arch/msg/ccamp/BsuMbgNt3Sqie4efuMXB6n6wXio/
    Italo Busi (editor) https://mailarchive.ietf.org/arch/msg/ccamp/7cqYvXQIXXxfAVxr0Va1Vk_VEfQ/
-   Dieter Beller (editor)
+   Dieter Beller (editor) https://mailarchive.ietf.org/arch/msg/ccamp/pOdM_lZxgQRTxBuNSgxx3iOln3E/
    Esther Le Rouzic https://mailarchive.ietf.org/arch/msg/ccamp/oHYmNPSP-wKyTFTaHmP80MVpdOQ/
    Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/7cqYvXQIXXxfAVxr0Va1Vk_VEfQ/
 
@@ -186,7 +186,7 @@ Contributors
    Dhruv Dhody https://mailarchive.ietf.org/arch/msg/ccamp/Kt3IapVi4GfESt5DJE3MDwOCSFA/
    Bin Yeong Yoon
    Ricard Vilalta https://mailarchive.ietf.org/arch/msg/ccamp/Vc9k-Wc8MxMVHjtxomOOEcfJe1s/
-   Young Lee
+   Young Lee https://mailarchive.ietf.org/arch/msg/ccamp/hIf4ZI57tPZTj7a2sUhCnqUGmgo/
    Victor Lopez https://mailarchive.ietf.org/arch/msg/ccamp/npBe2n8O75kvozXz3-iDWprFRMk/
 
 &nbsp;
