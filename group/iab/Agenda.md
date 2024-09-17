@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-17T22:21:53.074Z
+date: 2024-09-17T22:27:04.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,6 +31,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
+* 2024-09-04 business meeting - (submitted 2024-09-04)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -123,6 +124,15 @@ In Progress:
 
 ### 2. Monthly Written Reports and Other Brief Updates
 
+*  EC Multi-stakeholder Platform for ICT Standardisation Report - 
+    written report received
+*  IANA Liaison Report - written report received
+*  IRTF Chair Report - written report received
+*  ISOC Liaison Report - written report received
+*  IAB Outreach Coordinator Report
+*  EODir Liaison Report
+*  Liaison Coordinators Report
+*  Tools Liaison Report - written report received
 ### 3. AI Control Workshop Update (Suresh) - 5 mins (Public)
 
 ### 4. NEMOPS Workshop Update (Wes, Qin, Suresh, Dhruv) - 5 mins (Public)
