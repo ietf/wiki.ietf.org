@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-13T15:11:18.621Z
+date: 2024-09-17T22:21:53.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -134,7 +134,7 @@ In Progress:
 
   Goal: Is anyone available to attend (Washington DC, 2024-10-17)?
   
-### 6. IAB Open Meeting at IETF 120 (All) - 10 mins (Public)
+### 6. IAB Open Meeting at IETF 121 (All) - 10 mins (Public)
 
   Goal: Find co-chair, brainstorm topics
 
