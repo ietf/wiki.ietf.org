@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-09-18T13:28:33.633Z
+date: 2024-09-18T13:33:51.077Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -141,33 +141,6 @@ Prio 3
 > Dependency on draft-ietf-teas-yang-te-36
 
 ## IPR polling ongoing
-- draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
-
-IPR Poll Track 20240912
-draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
-
-Authors
-   Oscar Gonzalez de Dios https://mailarchive.ietf.org/arch/msg/ccamp/YbJEGcxNOudMb8Lb7iYdlpktjg8/
-   Jean-Francois Bouquier https://mailarchive.ietf.org/arch/msg/ccamp/EsghGlg4YKc81SDaTno-vnGHmzY/
-   Julien Meuric https://mailarchive.ietf.org/arch/msg/ccamp/hFSWSOMAZfg4n1GxyV0nomf1INU/
-   Gyan Mishra https://mailarchive.ietf.org/arch/msg/ccamp/rakJg3YtyNTzOAOKpA2pxzZnR1c/
-   Gabriele Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/JF2Nn4MrIbOhB-GQPsGdhv2q6EI/
-
-Contributors
-   Nigel Davis
-   Reza Rokui https://mailarchive.ietf.org/arch/msg/ccamp/CQVMZ5qTzTBZm8p89w0jObFZRbc/
-   Edward Echeverry (via Luis) https://mailarchive.ietf.org/arch/msg/ccamp/fx6p3WyUXJcOqWaAmLUcQuJa71U/
-   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/F_UdaygEy04kFGFzdHG2-eSTFBA/
-   Brent Foster https://mailarchive.ietf.org/arch/msg/ccamp/R5kHwG-RLRF_sOcF5t1WmXQxTDk/
-   Daniele Ceccarelli https://mailarchive.ietf.org/arch/msg/ccamp/RKy4wxB5qfQ3y6hMFGb1HjB6pds/
-   Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/ptdeFXzF9ulu81iQ8JVyOCmDbzY/
-   Ori Gerstel (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/v3ikDqTegMOmpoGtYeti9rSPsho/
-   Stefan Melin (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/_dsyYyLexTOuIY996EbRiLVLflM/
-   Deborah Brungard https://mailarchive.ietf.org/arch/msg/ccamp/RABlQJ_fSPbNC9SmYfqlaZc8Ah8/
-   
-Others:    
-   Sergio Belotti: https://mailarchive.ietf.org/arch/msg/ccamp/lkQDI4j7KOMFFFeXt5XFcMgWhKk/
-
 
 - draft-ietf-ccamp-rfc9093-bis-11
 
@@ -188,6 +161,38 @@ Contributors
    Ricard Vilalta https://mailarchive.ietf.org/arch/msg/ccamp/Vc9k-Wc8MxMVHjtxomOOEcfJe1s/
    Young Lee https://mailarchive.ietf.org/arch/msg/ccamp/hIf4ZI57tPZTj7a2sUhCnqUGmgo/
    Victor Lopez https://mailarchive.ietf.org/arch/msg/ccamp/npBe2n8O75kvozXz3-iDWprFRMk/
+
+
+## Past IPR polling
+
+### WG adoption IPR polling
+
+#### 2024-09 - draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
+
+Authors
+   Oscar Gonzalez de Dios https://mailarchive.ietf.org/arch/msg/ccamp/YbJEGcxNOudMb8Lb7iYdlpktjg8/
+   Jean-Francois Bouquier https://mailarchive.ietf.org/arch/msg/ccamp/EsghGlg4YKc81SDaTno-vnGHmzY/
+   Julien Meuric https://mailarchive.ietf.org/arch/msg/ccamp/hFSWSOMAZfg4n1GxyV0nomf1INU/
+   Gyan Mishra https://mailarchive.ietf.org/arch/msg/ccamp/rakJg3YtyNTzOAOKpA2pxzZnR1c/
+   Gabriele Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/JF2Nn4MrIbOhB-GQPsGdhv2q6EI/
+
+Contributors
+   Nigel Davis (exempt)
+   Reza Rokui https://mailarchive.ietf.org/arch/msg/ccamp/CQVMZ5qTzTBZm8p89w0jObFZRbc/
+   Edward Echeverry (via Luis) https://mailarchive.ietf.org/arch/msg/ccamp/fx6p3WyUXJcOqWaAmLUcQuJa71U/
+   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/F_UdaygEy04kFGFzdHG2-eSTFBA/
+   Brent Foster https://mailarchive.ietf.org/arch/msg/ccamp/R5kHwG-RLRF_sOcF5t1WmXQxTDk/
+   Daniele Ceccarelli https://mailarchive.ietf.org/arch/msg/ccamp/RKy4wxB5qfQ3y6hMFGb1HjB6pds/
+   Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/ptdeFXzF9ulu81iQ8JVyOCmDbzY/
+   Ori Gerstel (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/v3ikDqTegMOmpoGtYeti9rSPsho/
+   Stefan Melin (via Daniele) https://mailarchive.ietf.org/arch/msg/ccamp/_dsyYyLexTOuIY996EbRiLVLflM/
+   Deborah Brungard https://mailarchive.ietf.org/arch/msg/ccamp/RABlQJ_fSPbNC9SmYfqlaZc8Ah8/
+   
+Others:    
+   Sergio Belotti: https://mailarchive.ietf.org/arch/msg/ccamp/lkQDI4j7KOMFFFeXt5XFcMgWhKk/
+
+### WG last call IPR polling
+#### 2024-09 - 
 
 &nbsp;
 &nbsp;
