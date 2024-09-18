@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-09-16T13:34:34.499Z
+date: 2024-09-18T13:20:02.465Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -155,8 +155,8 @@ Authors
 
 Contributors
    Nigel Davis
-   Reza Rokui
-   Edward Echeverry
+   Reza Rokui https://mailarchive.ietf.org/arch/msg/ccamp/CQVMZ5qTzTBZm8p89w0jObFZRbc/
+   Edward Echeverry (via Luis) https://mailarchive.ietf.org/arch/msg/ccamp/fx6p3WyUXJcOqWaAmLUcQuJa71U/
    Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/F_UdaygEy04kFGFzdHG2-eSTFBA/
    Brent Foster https://mailarchive.ietf.org/arch/msg/ccamp/R5kHwG-RLRF_sOcF5t1WmXQxTDk/
    Daniele Ceccarelli https://mailarchive.ietf.org/arch/msg/ccamp/RKy4wxB5qfQ3y6hMFGb1HjB6pds/
