@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-18T13:45:47.389Z
+date: 2024-09-18T16:20:07.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-09-18 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-09-25 0730 PDT (UTC-7) 
 
 *Agenda as of 2024-09-04. IAB agendas are subject to change, up to and during the meeting.*
 
@@ -31,14 +31,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-* 2024-09-04 business meeting - (submitted 2024-09-04)
+
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
-* 2024-09-04: Cindy Morgan to subscribe Cullen Jennings to the IETF-
-    W3C Coordination list.
+
 
 On Hold:
 
@@ -74,11 +73,17 @@ In Progress:
 *  2024-09-04: Liaison Coordinators to update RFC 4052 to improve 
     documentation about liaison relationships.
 
-*  2024-09-04: Alissa Cooper to ask Mallory Knodel to put her in touch 
-    with the people who wrote the rejoinder to the GDC open letter.
-
 *  2024-09-04: Suresh Krishnan to provide contacts for the people at 
     Cisco working on Tesla Transport Protocol over Ethernet (TTPoE).
+    
+*   2024-09-18: Cindy Morgan to update the NEMOPS Workshop page in the 
+    Datatracker and send out the call for papers.
+
+*   2024-09-18: Alissa Cooper to reach out to contacts at ANSI and ask 
+    for more information on the upcoming ANSI Consortia Roundtable.
+
+*   2024-09-18: Suresh Krishnan to reach out to Stephen Farrell about 
+    possible guest speakers for IAB Open.
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -102,7 +107,7 @@ In Progress:
     Area: OPS
     Internal Review
     IESG Telechat: (2024-09-19)
-    IAB Reviewer: Alissa Cooper
+    IAB Reviewer: Alvaro Retana
 
 * MODeration PrOceDures (MODPOD)
     Area: GEN
@@ -122,32 +127,7 @@ In Progress:
 
 *  IRTF Chair - Call for Nominations ends 2024-09-10
 
-### 2. Monthly Written Reports and Other Brief Updates
-
-*  EC Multi-stakeholder Platform for ICT Standardisation Report - 
-    written report received
-*  IANA Liaison Report - written report received
-*  IRTF Chair Report - written report received
-*  ISOC Liaison Report - written report received
-*  IAB Outreach Coordinator Report - written report received
-*  EODir Liaison Report
-*  Liaison Coordinators Report
-*  Tools Liaison Report - written report received
-### 3. AI Control Workshop Update (Suresh) - 5 mins (Public)
-
-### 4. NEMOPS Workshop Update (Wes, Qin, Suresh, Dhruv) - 5 mins (Public)
-
-  Goal: Is the IAB ready to remove the "Preliminary - Subject to 
-  Change" note from the description in the Datatracker?
-
-### 5. ANSI Consortia Roundtable (All) - 5 mins (Public)
-
-  Goal: Is anyone available to attend (Washington DC, 2024-10-17)?
-  
-### 6. IAB Open Meeting at IETF 121 (All) - 10 mins (Public)
-
-  Goal: Find co-chair, brainstorm topics
-
+### 2. Technial Discussion: Censorship Measurements
 
 ## Upcoming Teleconferences 
 
