@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-09-10T17:23:19.496Z
+date: 2024-09-18T15:33:34.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -39,7 +39,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 ## Review Assignments
 ### 2024-2025 Assignments
 - MODPOD: Qin Wu (2024-09)
-- GREEN: Alissa Cooper (2024-09)
+- GREEN: ~~Alissa Cooper~~ Alvaro Retana (2024-09)
 - SSHM: Cullen Jennings (2024-08)
 - DELEG: Alvaro Retana (2024-05)
 - SRV6OPS: Matthew Bocci (2024-05)
