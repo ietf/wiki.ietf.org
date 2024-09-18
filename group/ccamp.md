@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-09-18T13:33:51.077Z
+date: 2024-09-18T13:36:33.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -140,7 +140,7 @@ Prio 3
 **- draft-ietf-ccamp-otn-tunnel-model-21**
 > Dependency on draft-ietf-teas-yang-te-36
 
-## IPR polling ongoing
+## Ongoing IPR polling
 
 - draft-ietf-ccamp-rfc9093-bis-11
 
@@ -163,7 +163,7 @@ Contributors
    Victor Lopez https://mailarchive.ietf.org/arch/msg/ccamp/npBe2n8O75kvozXz3-iDWprFRMk/
 
 
-## Past IPR polling
+## Concluded IPR polling
 
 ### WG adoption IPR polling
 
