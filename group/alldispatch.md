@@ -2,16 +2,16 @@
 title: ALLDISPATCH
 description: Experiment at IETF 119/120
 published: true
-date: 2024-07-10T08:07:26.735Z
+date: 2024-09-18T03:56:26.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T22:08:41.992Z
 ---
 
 # ALLDISPATCH Experiment
-*Page being updated for IETF 120*
+*Page being updated for IETF 121*
 
-At IETF 119 and IETF 120, the [IESG](https://www.ietf.org/about/groups/iesg/) is planning an experiment with ALLDISPATCH – the union of all the various dispatch functions into a single meeting. This is meant to solve five problems: 
+As we did at IETF 119 and IETF 120, at IETF 121 the [IESG](https://www.ietf.org/about/groups/iesg/) is repeating its experiment with ALLDISPATCH – the union of all the various dispatch functions into a single meeting. This is meant to solve five problems: 
 1. Proponents often have trouble figuring out where to dispatch something that spans multiple areas.
 2. Each Dispatch session aggravates scheduling because they have large target audiences, and consolidating them in a single time slot will simplify that problem.
 3. Participants with cross-area expertise, who provide valuable input for dispatching, find it difficult to attend multiple Dispatch sessions.
@@ -20,25 +20,25 @@ At IETF 119 and IETF 120, the [IESG](https://www.ietf.org/about/groups/iesg/) is
 
 ## Proposal Summary
 
-From 0830-1130 on Monday of IETF119 (timing for IETF 120 TBD), there will be an ALLDISPATCH meeting that replaces [DISPATCH](https://datatracker.ietf.org/wg/dispatch/about/), [SECDISPATCH](https://datatracker.ietf.org/wg/secdispatch/about/), and [GENDISPATCH](https://datatracker.ietf.org/wg/gendispatch/about/). Meetings of other working groups with dispatch functions – [RTGWG](https://datatracker.ietf.org/wg/rtgwg/about/), [TSVWG](https://datatracker.ietf.org/wg/tsvwg/about/), [OPSAWG](https://datatracker.ietf.org/wg/opsawg/about/), and [INTAREA](https://datatracker.ietf.org/wg/intarea/about/) – will not execute their dispatch functions in this cycle. Thus, ALLDISPATCH will be the sole venue for Dispatch functions at IETF 119 for all areas (including the new WIT area).
+The timing of ALLDISPATCH at IETF 121 is TBD (not necessarily the first session Monday as in the past. The ALLDISPATCH session replaces [DISPATCH](https://datatracker.ietf.org/wg/dispatch/about/), [SECDISPATCH](https://datatracker.ietf.org/wg/secdispatch/about/), and [GENDISPATCH](https://datatracker.ietf.org/wg/gendispatch/about/). Meetings of other working groups with dispatch functions – [RTGWG](https://datatracker.ietf.org/wg/rtgwg/about/), [TSVWG](https://datatracker.ietf.org/wg/tsvwg/about/), [OPSAWG](https://datatracker.ietf.org/wg/opsawg/about/), and [INTAREA](https://datatracker.ietf.org/wg/intarea/about/) – will not execute their dispatch functions in this cycle. Thus, ALLDISPATCH will be the sole venue for Dispatch functions at IETF 121 for all areas (including the new WIT area).
 
 Note that the dispatch function is only necessary when the IESG and/or proponents need community input on the disposition of proposals for new work. Non-dispatch processes for placing work remain in place. IESG expects the \*DISPATCH chairs to make sure presentations are properly scoped for the dispatch questions, and to reach out for expertise to other areas when necessary. When in doubt, ART area DISPATCH procedures will be in place. 
 
-The chairs of DISPATCH, SECDISPATCH, and GENDISPATCH will work together to build the agenda, with oversight by the IESG. Those chairs will agree among themselves (adjudicated by the GEN AD, if necessary) who sits at the chairs’ table in Brisbane.
+The chairs of DISPATCH, SECDISPATCH, and GENDISPATCH will work together to build the agenda, with oversight by the IESG. Those chairs will agree among themselves (adjudicated by the GEN AD, if necessary) who sits at the chairs’ table.
 
 *If you would like time at the meeting to discuss your work or ideas, please email the **ALLDISPATCH** chairs.*
 
-**Proponents MUST submit an internet-draft prior to the IETF 119 cutoff date (4 March 2024) to be considered for ALLDISPATCH.**
+**Proponents MUST submit an internet-draft prior to the IETF 121 cutoff date (21 October 2024) to be considered for ALLDISPATCH.**
 
-Formally, it will be a joint session of DISPATCH, SECDISPATCH, and GENDISPATCH. Other events will be scheduled in the Monday first slot (0930-1130) with IESG approval only.
+Formally, it will be a joint session of DISPATCH, SECDISPATCH, and GENDISPATCH. Other events will be scheduled in the same timeslot with IESG approval only.
 
 There is a new [alldispatch@ietf.org](mailto:alldispatch@ietf.org) mailing list for ongoing discussion of the proposals.
 
 Tentatively, each topic will receive 10 minutes for the presentation and for clarification questions, and 10 minutes for discussion. This means 9 topics can be addressed. There were 10 topics across all three DISPATCH meetings at IETF 118, so the IESG believes this is appropriately resourced.
 
-ALLDISPATCH topics MUST NOT also be on the agenda of a WG meeting at IETF 119, unless the topic is directly dispatched to that WG in the session. The IESG asks working group chairs to ensure that this is so.
+ALLDISPATCH topics MUST NOT also be on the agenda of a WG meeting at IETF 121, unless the topic is directly dispatched to that WG in the session. The IESG asks working group chairs to ensure that this is so. Proposals MUST NOT be the topic of a HotRFC presentation at IETF 121.
 
-This experiment has no impact on HotRFC, assessments of research proposals clearly destined for a Research Group, or anything else orthogonal to previous iterations of dispatch.
+This experiment has no impact on assessments of research proposals clearly destined for a Research Group or anything else orthogonal to previous iterations of \*DISPATCH.
 
 ## Process
 
