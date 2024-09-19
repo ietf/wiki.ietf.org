@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-09-13T16:34:02.224Z
+date: 2024-09-19T07:15:34.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -26,6 +26,7 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 - **Participants**
 Stuart Cheshire (Apple)
 François Michel (Apple)
+Esko Dijk (IoTconsultancy.nl)
 
 - **Project Info**
 
@@ -33,6 +34,8 @@ François Michel (Apple)
 
   - **Native Thread Commissioning for Matter.** Current [Matter](https://csa-iot.org/all-solutions/matter/) devices that operate over Thread incur the cost of Bluetooh hardware and firmware, which is only needed for initial commissioning. This adds hardware cost to Matter devices for something that most users only do once in the lifetime of the product. It would be better to perform Matter commissioning for Thread devices via the Thread radio itself, using the Thread MeshCoP (Mesh Commissioning Protocol) mechanism. Some minor work is needed to implement tunnelling the Matter commissioning data (e.g., Device Attestation) over Thread MeshCoP.
 
+  - **cBRSKI Device Onboarding.** In the [ANIMA WG](https://datatracker.ietf.org/wg/anima/about/), a lightweight version of the BRSKI device onboarding protocol has been developed: [Constrained BRSKI](https://datatracker.ietf.org/doc/html/draft-ietf-anima-constrained-voucher). This protocol is suitable for professional installation use cases, to onboard a large number of new Thread IoT devices onto a network while checking for mutual authenticity and allowing a vendor to be in the loop during the process. There is ongoing implementation work on a [Registrar + MASA](https://github.com/EskoDijk/ot-registrar) and OpenThread (code public soon) to enable cBRSKI. It re-uses Thread MeshCoP mechanisms, like the above project. This work does not require dev boards: the [OTNS2 simulator](https://github.com/openthread/ot-ns/issues/528) is used to build and test cBRSKI with virtual OpenThread nodes.
+  
   - **Lightweight QUIC for OpenThread.** Both TCP and QUIC are sophisticated transport protocols, suitable for efficiently transporting small and large amounts of data. Zero-round-trip connection setup in both TCP and QUIC allows for small request/response exchanges in a single round-trip. Sliding-window flow control and refined congestion-control algorithms enable TCP and QUIC to transfer large amounts of data, quickly, reliably, and efficiently, without unreasonably disrupting other traffic sharing the network. OpenThread includes TCP, and it would be good to complement that with support for QUIC as well.
 
   - **General OTA (over-the-air) Firmware Update.** Today firmware is typically installed into the flash memory of a Thread developer board via a USB port. It would be very helpful to have a general way of updating firmware over IP — particularly for people working with hundreds of Thread devices instead of just two or three.
