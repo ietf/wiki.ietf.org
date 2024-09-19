@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-09-09T13:01:50.059Z
+date: 2024-09-19T04:41:19.684Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -66,8 +66,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-ietf-pce-pcep-srv6-yang |  -05 posted on 2024-03-18 | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | -03 posted on 2024-08-18 | Adoption comments from Adrian are handled |
 |draft-ietf-pce-bier-te | -00 posted on 2023-11-04 | - |
-| draft-ietf-pce-entropy-label-position | - | - |
-
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
@@ -79,6 +77,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 |draft-ietf-pce-sr-bidir-path|Y|-|-|
 |draft-ietf-pce-sr-path-segment|Y|Has Normative dependencies|-|
 |draft-ietf-pce-circuit-style-pcep-extensions|Y|-|-|
+| draft-ietf-pce-entropy-label-position |N| - | - |
 
 
 
