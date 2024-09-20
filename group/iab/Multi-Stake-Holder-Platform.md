@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2024-08-08T14:32:18.990Z
+date: 2024-09-20T09:57:01.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -331,7 +331,7 @@ The [IPv6 over Networks of Resource-constrained Nodes (6LO) Working Group](https
 
 The [IPv6 Over Low Power Wide-Area Networks (lpwan) WG](https://datatracker.ietf.org/wg/lpwan/about/) focused on enabling IPv6 connectivity over the following selection of Low-Power Wide-Area networking technologies: SIGFOX, LoRa, WI-SUN and NB-IOT.
 
-The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/lwig/about/) focused on helping the implementors of the smallest devices. Standards developed by the group enablit the building of minimal yet interoperable IP-capable devices for the most constrained environments.
+The [Light-Weight Implementation Guidance (LWIG) Working Group](https://datatracker.ietf.org/wg/lwig/about/) focused on helping the implementors of the smallest devices. Standards developed by the group enable the building of minimal yet interoperable IP-capable devices for the most constrained environments.
 
 The [Routing over Low Power and Lossy Networks (ROLL) Working Group](https://datatracker.ietf.org/wg/roll/about/) is developing standards to support the routing of communications within low-power and lossy networks.
 
