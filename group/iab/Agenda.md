@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-18T16:20:07.332Z
+date: 2024-09-20T16:10:54.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-09-25 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-09-04. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-09-20. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,109 +29,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-#### 1.3. Meeting Minutes 
 
-
-
-#### 1.4. Action Item Review - 5 mins
-
-Done:
-
-
-
-On Hold:
-
-*  2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
-    review of proposed WG charters to the Datatracker.
-    See https://github.com/ietf-tools/datatracker/issues/5849
-
-*  2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN
-    NomCom Liaison appointment once the list of positions being filled
-    is available.
-
-*  2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
-    APRICOT 2025/APNIC 59.
-    - Check back October 2024
-
-In Progress:
-
-*  2024-03-17: Liaison Coordinators to follow up with Martin Thomson about 
-    liaison manager for W3C.
-    
-*  2024-06-12: Mirja Kühlewind to work with Wes Hardaker on 
-    prioritizing the current list of IAB requests for the Tools Team.
-
-*  2024-06-25: 2024-06-24: Suresh Krishnan to draft a document 
-    obsoleting RFC 3113 (Update RFC3113 to in only high level details 
-    of the collaboration (3GPP-IETF co-ordination team) and move the 
-    details to a Wiki. Remove references to technology and org 
-    structure items that will become out of date quickly.
-
-*  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
-    Vyncke will work on text around limited domains.
-
-*  2024-09-04: Liaison Coordinators to update RFC 4052 to improve 
-    documentation about liaison relationships.
-
-*  2024-09-04: Suresh Krishnan to provide contacts for the people at 
-    Cisco working on Tesla Transport Protocol over Ethernet (TTPoE).
-    
-*   2024-09-18: Cindy Morgan to update the NEMOPS Workshop page in the 
-    Datatracker and send out the call for papers.
-
-*   2024-09-18: Alissa Cooper to reach out to contacts at ANSI and ask 
-    for more information on the upcoming ANSI Consortia Roundtable.
-
-*   2024-09-18: Suresh Krishnan to reach out to Stephen Farrell about 
-    possible guest speakers for IAB Open.
-
-#### 1.5. IAB Document Status Update - No updates this week
-
- Datatracker: https://datatracker.ietf.org/stream/iab/
-
-*  draft-iab-bias-workshop-report-02
-    Sent to RFC Editor: Informational
-    IAB Shepherd: Suresh Krishnan
-
-*  draft-edm-protocol-greasing-03 
-    Maintaining Protocols Using Grease and Variability
-    I-D Exists, IAB stream
-    IAB Shepherd: Not assigned
-
-
-#### 1.6. IAB Review of WG Charters 
-
- Datatracker: https://datatracker.ietf.org/group/chartering/	
-
-* Getting Ready for Energy-Efficient Networking (GREEN)
-    Area: OPS
-    Internal Review
-    IESG Telechat: (2024-09-19)
-    IAB Reviewer: Alvaro Retana
-
-* MODeration PrOceDures (MODPOD)
-    Area: GEN
-    Internal Review
-    IESG Telechat: (2024-09-19)
-    IAB Reviewer: Qin Wu (Review sent 2024-09-11)
-
-
-*  Secure Shell Maintenance (SSHM)
-    Area: SEC
-    Internal Review
-    IESG Telechat: (2024-09-05)
-    IAB Reviewer: Cullen Jennings (Review sent 2024-09-06)
-
-
-#### 1.7 IAB Appointments
-
-*  IRTF Chair - Call for Nominations ends 2024-09-10
-
-### 2. Technial Discussion: Censorship Measurements
+### 2. Technial Discussion: Censorship Measurements (Roya Ensafi)
 
 ## Upcoming Teleconferences 
 
-* 2024-09-25: IAB Technical Discussion: Censorship Measurements (Roya Ensafi)
 * 2024-10-02: IAB Business Meeting
 * 2024-10-09: IAB Business Meeting (Reserved)
 * 2024-10-16: IAB Business Meeting
