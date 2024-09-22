@@ -2,7 +2,7 @@
 title: Standing IESG Meetings
 description: 
 published: true
-date: 2024-09-22T12:07:14.984Z
+date: 2024-09-22T12:09:04.156Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T12:07:14.984Z
@@ -38,6 +38,8 @@ During the plenary meeting, the IESG typically has the following standing meetin
   * review of the plenary slides
 * **Friday** -- either at lunch or after the end of the plenary meeting; joint with IAB-IESG session. Standing agenda topics include:
   * review of what happened at the meeting
+  
+See [Schedule of IESG meetings at the upcoming plenary meeting](https://wiki.ietf.org/group/iesg/UpcomingIETF).
 
   
 
