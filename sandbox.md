@@ -2,11 +2,25 @@
 title: sandbox
 description: sandbox
 published: true
-date: 2024-09-23T14:35:19.533Z
+date: 2024-09-23T14:37:35.885Z
 tags: w3c
 editor: markdown
 dateCreated: 2022-07-23T19:47:08.101Z
 ---
+
+https://datatracker.ietf.org/meeting/interim-2024-eodir-03/materials/agenda-interim-2024-eodir-03-eodir-01-00
+
+---
+
+
+| **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
+|----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
+|  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   https://datatracker.ietf.org/meeting/interim-2024-eodir-03/materials/agenda-interim-2024-eodir-03-eodir-01-00 |  NOT AVAILABLE |   NOT AVAILABLE  |
+|  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
+|  08:30   |   NOT AVAILABLE  |  NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE           |  NOT AVAILABLE    |  NOT AVAILABLE     | 
+|  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
+|  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
+
 
 > is-info test
 {.is-info}
@@ -40,14 +54,4 @@ dateCreated: 2022-07-23T19:47:08.101Z
                         (in whitelist)
 
 ```
----
-
-
-| **Time** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **.ics** |
-|----------|------------------|----------|-------------|-------------------------|----------------------|-----------------------|----------|
-|  -07:30  |   NOT AVAILABLE  |   NOT AVAILABLE  |   NOT AVAILABLE  |   https://datatracker.ietf.org/meeting/interim-2024-eodir-03/materials/agenda-interim-2024-eodir-03-eodir-01-00 |  NOT AVAILABLE |   NOT AVAILABLE  |
-|  08:00   |   NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE  |  NOT AVAILABLE         |     NOT AVAILABLE   |   NOT AVAILABLE   |   
-|  08:30   |   NOT AVAILABLE  |  NOT AVAILABLE  |   NOT AVAILABLE  |  NOT AVAILABLE           |  NOT AVAILABLE    |  NOT AVAILABLE     | 
-|  09:00   |  NOT AVAILABLE  | NOT AVAILABLE |  NOT AVAILABLE  |  NOT AVAILABLE          |   NOT AVAILABLE  |   NOT AVAILABLE    |  
-|  09:30   |  NOT AVAILABLE  |  NOT AVAILABLE | NOT AVAILABLE  |  NOT AVAILABLE        |    NOT AVAILABLE   |  NOT AVAILABLE     | 
 
