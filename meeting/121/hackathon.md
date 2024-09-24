@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-09-12T18:37:15.283Z
+date: 2024-09-24T14:38:13.350Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -206,6 +206,36 @@ François Michel (Apple)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
 
 ----
+
+### CoAP Group Communication with Group OSCORE
+
+- **Champions**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+
+- **Project Info**
+  - Message exchange of group and pairwise messages protected with Group OSCORE
+
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis
+  
+---
+
+### Key Update for OSCORE using KUDOS
+
+- **Champions**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+
+- **Project Info**
+  - Performing key update for OSCORE using the KUDOS procedure
+
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-key-update
+  - https://datatracker.ietf.org/doc/rfc8613
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
