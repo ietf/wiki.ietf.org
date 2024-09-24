@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-23T21:01:41.510Z
+date: 2024-09-24T15:06:02.152Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,6 +46,7 @@ Note that this page is public.
 ### Management Issues
 
 - Final IETF 121 BOF Approvals (All)
+- Formal response to ekr (Paul)
 
 ### WG News 
 
