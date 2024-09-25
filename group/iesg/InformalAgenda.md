@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-25T17:01:37.835Z
+date: 2024-09-25T21:55:38.626Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-
+David Schinazi (regrets for everything until October 12)
 
 
 ## Agenda
