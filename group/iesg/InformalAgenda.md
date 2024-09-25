@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-24T15:42:15.176Z
+date: 2024-09-25T16:57:45.569Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,13 +45,15 @@ Note that this page is public.
 
 ### Management Issues
 
-- Final IETF 121 BOF Approvals (All)
+- Final IETF 121 BOF Approvals -- [status](https://docs.google.com/spreadsheets/d/15FNFvV30jdZv5j0W_lHc_FKk8FbLYx8LuncBB3htJvQ/edit) | [BOF requests](https://datatracker.ietf.org/doc/bof-requests) (All)
 - Formal response to ekr (Paul)
 - Liaison Request (Paul)
 
 ### WG News 
 
 ### Documents to Swap 
+
+[Documents in PubReq >= 40 days](https://docs.google.com/spreadsheets/d/19GNya_Yupgek_V5a0a-qcyoEbPmwOW6CpzGrn--hmeE/) -- discussion and offers to swap responsible AD (Roman)
 
 ### AOB
 - Criteria for attracting new participants to IETF (Mahesh)
