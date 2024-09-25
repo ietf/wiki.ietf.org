@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-25T17:32:07.822Z
+date: 2024-09-25T17:33:05.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -129,7 +129,7 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  IRTF Chair - Call for Nominations ends 2024-09-10
+*  IRTF Chair - Interviews in progress; community feedback period ends 2024-11-06
 
 
 ## Upcoming Teleconferences 
