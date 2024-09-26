@@ -2,7 +2,7 @@
 title: RG Reviews
 description: 
 published: true
-date: 2023-12-06T00:52:39.338Z
+date: 2024-09-26T17:37:33.921Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:52:34.911Z
@@ -12,6 +12,9 @@ dateCreated: 2023-12-06T00:52:34.911Z
 
 The IAB periodically reviews IRTF Research Groups, generally at or around IETF meetings. The IRSG is invited to attend these reviews.
 
+- IETF 120: [Research and Analysis of Standard-Setting Processes Research Group (RASPRG)](https://datatracker.ietf.org/doc/minutes-interim-2024-iab-27-202407251500/)
+- IETF 119: [Usable Formal Methods Proposed Research Group (UFMRG)](https://datatracker.ietf.org/doc/minutes-interim-2024-iab-12-202403202200/)
+- IETF 118: None
 - IETF 117: [Global Access to the Internet for All (GAIA)](https://datatracker.ietf.org/doc/minutes-interim-2023-iab-24-202307271500/)
 - IETF 116: [Decentralized Internet Infrastructure Research Group (DINRG)](https://datatracker.ietf.org/doc/minutes-interim-2023-iab-12-202303272315/)
 - IETF 115: [Human Rights Protocol Considerations (HRPC)](https://datatracker.ietf.org/doc/minutes-interim-2022-iab-31-20221108/)
