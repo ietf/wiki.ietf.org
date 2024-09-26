@@ -40,7 +40,7 @@ A: Your Gen-ART reviewer was the next available reviewer selected from a list of
 
 **Q: Are the reviews public or private?**
 
-A: The reviews are sent to the Gen-ART mailing list (which includes the General Area director). Ordinarily, copies are sent to authors/editors, shepherding ADs, document shepherds, working group chairs, and may be sent to the IETF discussion list. Gen-ART archives are publicly viewable at https://datatracker.ietf.org/group/genart/archives/.
+A: The reviews are sent to the Gen-ART mailing list (which includes the General Area director). Ordinarily, copies are sent to authors/editors, shepherding ADs, document shepherds, working group chairs, and may be sent to the IETF discussion list. Gen-ART archives are publicly viewable at [https://datatracker.ietf.org/group/genart/archives/](https://mailarchive.ietf.org/arch/browse/gen-art/).
 
 **Q: Are Gen-ART comments binding?**
 
@@ -56,7 +56,7 @@ A: The General Area director understands that these are reviews by generalists w
 
 **Q: Is there any written Gen-ART procedure?**
 
-A: In addition to this wiki, see http://www.rfc-editor.org/rfc/rfc6385.txt
+A: In addition to this wiki, see [http://www.rfc-editor.org/rfc/rfc6385.txt](https://www.rfc-editor.org/rfc/rfc6385).
 
 &nbsp;
 &nbsp;
