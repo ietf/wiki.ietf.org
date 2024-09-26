@@ -82,15 +82,11 @@ The review should apply generally agreed IETF criteria, such as
 
 [NITS](https://author-tools.ietf.org/idnits) "I-D Nits" tool
 
-[RFC2223](https://datatracker.ietf.org/doc/rfc2223/) Instructions to RFC Authors
-
-[BCP26](https://datatracker.ietf.org/doc/rfc5226/) Guidelines for Writing an IANA Considerations Section in RFCs
+[BCP26](https://datatracker.ietf.org/doc/rfc8126/) Guidelines for Writing an IANA Considerations Section in RFCs
 
 [RFC3552](https://datatracker.ietf.org/doc/rfc3552/) Guidelines for Writing RFC Text on Security Considerations
 
 [RFC Style Guide](https://www.rfc-editor.org/styleguide/)
-
-[RFC Editor Abbreviations List](https://www.rfc-editor.org/materials/abbrev.expansion.txt)
 
 as well as any other applicable architectural or procedural documents. It is important that reviews give precise references to such criteria when relevant.
 
@@ -98,7 +94,7 @@ Of special interest to the GEN area (because it's no area's special interest) is
 
 * Clear description of why the document or protocol is useful to the Internet
 * Adherence to IETF formalities such as capitalized MUST/SHOULD (ID-Nits)
-* Useful and reasonable IANA considerations
+* Useful and reasonable IANA Considerations
 * Correct dependencies for normative references
 * That it's written in reasonably clear English. 
 &nbsp;
