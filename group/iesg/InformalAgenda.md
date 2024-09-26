@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-25T21:55:38.626Z
+date: 2024-09-26T21:03:18.528Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,6 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
+John Scudder - regrets October 10
 David Schinazi (regrets for everything until October 12)
 
 
