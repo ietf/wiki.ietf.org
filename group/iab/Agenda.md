@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-25T17:33:05.154Z
+date: 2024-09-27T17:16:11.923Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-10-02 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-09-25. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-09-27. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -37,12 +37,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes 
 
 * 2024-09-18 business meeting - (submitted 2024-09-18)
+* 2024-09-25 technical discussion - (submitted 2024-09-25)
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
-
+*   2024-09-18: Cindy Morgan to update the NEMOPS Workshop page in the 
+    Datatracker and send out the call for papers.
 
 On Hold:
 
@@ -80,9 +82,6 @@ In Progress:
 
 *  2024-09-04: Suresh Krishnan to provide contacts for the people at 
     Cisco working on Tesla Transport Protocol over Ethernet (TTPoE).
-    
-*   2024-09-18: Cindy Morgan to update the NEMOPS Workshop page in the 
-    Datatracker and send out the call for papers.
 
 *   2024-09-18: Alissa Cooper to reach out to contacts at ANSI and ask 
     for more information on the upcoming ANSI Consortia Roundtable.
@@ -119,18 +118,31 @@ In Progress:
     External Review
     IESG Telechat: (2024-10-03)
     IAB Reviewer: Qin Wu (Review sent 2024-09-11)
-
-*  Secure Shell Maintenance (SSHM)
-    Area: SEC
-    Approved pending final check from the AD
-    IESG Telechat: (not on agenda)
-    IAB Reviewer: Cullen Jennings (Review sent 2024-09-06)
-
+    
+* Standard Communication with Network Elements (SCONE)
+    Area: WIT
+    Internal Review
+    IESG Telechat: (2024-10-03)
+    IAB Reviewer: Suresh Krishnan
 
 #### 1.7 IAB Appointments
 
-*  IRTF Chair - Interviews in progress; community feedback period ends 2024-11-06
+*  IRTF Chair - Interviews in progress; community feedback period ends 
+   2024-11-06
 
+### 2. IAB Agenda at IETF 121 (All) - 15 mins (Public)
+
+  Goal: Confirm schedule, brainstorm agenda topics
+
+
+### 3. Followup from AI Control Workshop (Suresh) - 15 mins (Public)
+
+  Goal: Report out from workshop, next steps
+
+
+### 4. Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2024-10-09?
 
 ## Upcoming Teleconferences 
 
