@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-26T21:03:18.528Z
+date: 2024-09-27T15:34:36.044Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - September 26, 2024
+# Informal Telechat - October 10, 2024
 
- There **WILL** be a meeting on this date.
+ There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-John Scudder - regrets October 10
+John Scudder
 David Schinazi (regrets for everything until October 12)
 
 
@@ -46,18 +46,15 @@ Note that this page is public.
 
 ### Management Issues
 
-- Final IETF 121 BOF Approvals -- [status](https://docs.google.com/spreadsheets/d/15FNFvV30jdZv5j0W_lHc_FKk8FbLYx8LuncBB3htJvQ/edit) | [BOF requests](https://datatracker.ietf.org/doc/bof-requests) (All)
-- Formal response to ekr (Paul)
-- Liaison Request (Paul)
+
 
 ### WG News 
 
 ### Documents to Swap 
 
-[Documents in PubReq >= 40 days](https://docs.google.com/spreadsheets/d/19GNya_Yupgek_V5a0a-qcyoEbPmwOW6CpzGrn--hmeE/) -- discussion and offers to swap responsible AD (Roman)
+
 
 ### AOB
-- Criteria for attracting new participants to IETF (Mahesh)
 
 ### Executive Sessions
 
