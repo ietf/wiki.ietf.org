@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-09-24T14:38:13.350Z
+date: 2024-09-28T16:30:54.658Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -236,6 +236,34 @@ François Michel (Apple)
   - https://datatracker.ietf.org/doc/rfc8613
 
 ---
+
+### Formal Analysis of Attested TLS for Confidential Computing
+- **Champions**
+
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+
+- **Project Info**
+
+  - 3 main ways to combine attestation in TLS
+    - Pre-handshake attestation ([Slides](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing))
+    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Post-handshake attestation (Sec. 4 in [this draft](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
+  - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+
+- **Background on Attestation**
+
+	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
+  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
+
+- **Background on Attested TLS**
+
+	- [Tutorial slides](https://www.researchgate.net/publication/382489639_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization) from side meeting of IETF 120 
+	- Some slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS) 
+
+---
+
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
