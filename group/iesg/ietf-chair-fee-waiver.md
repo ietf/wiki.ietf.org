@@ -2,13 +2,11 @@
 title: IETF Chair Fee Waiver Program
 description: 
 published: true
-date: 2024-10-01T15:00:42.201Z
+date: 2024-10-01T15:01:49.329Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T15:00:42.201Z
 ---
-
-# IETF Chair Fee Waiver Program
 
 # Background
 
