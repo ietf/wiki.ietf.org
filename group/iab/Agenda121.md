@@ -2,7 +2,7 @@
 title: Agenda12`
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-01T22:17:54.039Z
+date: 2024-10-01T22:30:46.518Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -64,7 +64,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 
 
-**1730-1930 Dublin: IETF 121 Plenary (Room: TBD)**
+**1700-1900 Dublin: IETF 121 Plenary (Room: TBD)**
 
 ## Thursday, 2024-11-07
 
