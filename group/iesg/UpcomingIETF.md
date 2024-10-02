@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-09-20T22:25:51.911Z
+date: 2024-10-02T16:47:50.521Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -54,11 +54,6 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: TBD
 - **IETF 121 Welcome Reception** Sunday, November 3, 2024 - 17:00-19:00 - Room: TBD
 - **HotRFC Lightning Talks** Sunday, November 3, 2024 - 18:00-20:00 - Room: TBD
 
-### IESG or IAB Meeting - Time:  09:30-11:30 Room: TBD
-
-* Meetecho: TBD
-* Onsite Tool: TBD
-
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
@@ -70,8 +65,10 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: TBD
 >2. Area walkthrough for hot topics (45 min)
 
 
-### IAB or IESG Meeting - 14:00-16:00 Room: TBD
+### IESG Meeting - 14:00-16:00 Room: TBD
 
+* Meetecho: TBD
+* Onsite Tool: TBD
 
 ## Monday, November 4, 2024
 
