@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-02T16:46:32.380Z
+date: 2024-10-02T20:35:50.039Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -89,7 +89,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Friday, 2024-11-08
 
-**1130-1300 Dubilne: IAB/IESG Lunch + Meeting (Room: TBD)** 
+**1130-1300 Dublin: IAB/IESG Lunch + Meeting (Room: TBD)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
