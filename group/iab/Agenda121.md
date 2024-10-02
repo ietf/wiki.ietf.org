@@ -2,7 +2,7 @@
 title: Agenda12`
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-01T22:30:46.518Z
+date: 2024-10-02T15:27:33.276Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -57,7 +57,8 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 * Onsite Tool:
 
 > Agenda: 
-> 
+> Discussion with ISOC (30 min) (updates on policy maker program, other hot topics)
+> Chat with David Lawrence as the new ICANN Board Liaison (30 min)
 
 
 ## Wednesday, 2024-11-06
