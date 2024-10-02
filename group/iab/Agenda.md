@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-10-02T16:26:53.178Z
+date: 2024-10-02T16:33:32.711Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -56,11 +56,11 @@ In Progress:
 *  2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
     APRICOT 2025/APNIC 59.
 
-*  2024-06-25: 2024-06-24: Suresh Krishnan to draft a document 
-    obsoleting RFC 3113 (Update RFC3113 to in only high level details 
-    of the collaboration (3GPP-IETF co-ordination team) and move the 
-    details to a Wiki. Remove references to technology and org 
-    structure items that will become out of date quickly.
+*  2024-06-25: Suresh Krishnan to draft a document obsoleting RFC 3113 
+    (Update RFC3113 to in only high level details of the collaboration 
+    (3GPP-IETF co-ordination team) and move the details to a Wiki. 
+    Remove references to technology and organizational structure items 
+    that will become out of date quickly.
 
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
