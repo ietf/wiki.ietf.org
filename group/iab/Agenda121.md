@@ -1,8 +1,8 @@
 ---
-title: Agenda12`
+title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-02T15:27:33.276Z
+date: 2024-10-02T16:46:32.380Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -11,6 +11,10 @@ dateCreated: 2024-10-01T22:17:54.039Z
 # Proposed (not yet scheduled) topics
 
 * Executive Session: IRTF Chair Appointment (Thursday)
+* ISOC Policy Program/Roundtable Update (Olaf - Tuesday?)
+* ICANN Board Liaison Coordination with Dave Lawrence (Tuesday?)
+* NEMOPS Workshop (Sunday?)
+
 
 # Agenda121
 
@@ -19,10 +23,19 @@ dateCreated: 2024-10-01T22:17:54.039Z
 **1630-1800: AMS-IETF Leadership Venue Tour + Happy Hour**
 
 Please join us for a quick tour around the conference center. We will end with a happy hour. 
-Meeting point: 16:30,
+Meeting point: 16:30
 Happy hour: 16:45
 
 ## Sunday, 2024-11-03
+
+**0930-1130 Dublin: IAB Business Meeting (Room: TBD)** 
+
+* Meetecho: 
+* Onsite Tool:
+
+> Agenda:
+> 
+> 
 
 **1145-1215 Dublin: IAB/IESG Lunch (Room: TBD)**
 
@@ -33,14 +46,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 * Meetecho: 
 * Onsite Tool:
 
-**1400-1600 Dublin: IAB Business Meeting (Room: TBD)** 
 
-* Meetecho: 
-* Onsite Tool:
-
-> Agenda:
-> 
-> 
 
 ## Monday, 2024-11-04
 
