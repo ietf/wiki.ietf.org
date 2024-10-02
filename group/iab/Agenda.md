@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-09-30T16:48:27.797Z
+date: 2024-10-02T13:41:08.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -143,7 +143,12 @@ In Progress:
 ### 4. Clarification of IPv6 Address Assignment Policy (Suresh) - 5 minutes
 
 
-### 5. Next IAB Meeting
+### 5. Global Digital Justice Forum (Alissa)
+
+  Goal: Followup
+
+
+### 6. Next IAB Meeting
 
   Goal: Does the IAB need to meet on 2024-10-09?
 
