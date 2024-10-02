@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-02T16:47:50.521Z
+date: 2024-10-02T20:37:54.507Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -117,7 +117,8 @@ Location: TBD
 ## Sunday, 3 November 2024
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
-* TIME - ACTIVITY
+* 10:00 - 11:30 -- RTG Office Hours
+
 ## Monday, 4 November 2024
 * TIME - ACTIVITY
 
