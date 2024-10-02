@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-10-02T13:41:08.846Z
+date: 2024-10-02T13:55:10.470Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -151,6 +151,10 @@ In Progress:
 ### 6. Next IAB Meeting
 
   Goal: Does the IAB need to meet on 2024-10-09?
+  
+  
+### 7. Executive Session: ICANN NomCom Appointment
+
 
 
 ## Upcoming Teleconferences 
