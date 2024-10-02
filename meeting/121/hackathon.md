@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-01T11:32:21.092Z
+date: 2024-10-02T17:49:33.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 02 - 03 November 2024 (Saturday - Sunday)
 * :ireland: **Where**: The Convention Centre Dublin (CCD)
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: The Liffey B
 {.grid-list}
 
 **Sign up for the Hackathon**
@@ -66,7 +66,7 @@ Related activities before and after the Hackathon weekend
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 04 - 08 November, Room: **TBD** 
+  * Monday - Friday, 04 - 08 November, Room: **Liffey Meeting Room 1** 
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
