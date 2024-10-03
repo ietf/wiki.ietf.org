@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-02T17:49:33.467Z
+date: 2024-10-03T21:34:17.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -234,6 +234,31 @@ François Michel (Apple)
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-key-update
   - https://datatracker.ietf.org/doc/rfc8613
+
+---
+
+### EDHOC
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Establish keying material for OSCORE using the EDHOC protocol
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/rfc9528/
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-edhoc/
+  - https://datatracker.ietf.org/doc/rfc8613/
+
+---
+
+### EDHOC and OSCORE Profile of the ACE Framework
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Use the ACE access control framework combined with the EDHOC protocol for mutual authentication and establishment of keying material for OSCORE
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-ietf-ace-edhoc-oscore-profile/
+  - https://datatracker.ietf.org/doc/rfc9200/
+  - https://datatracker.ietf.org/doc/rfc9528/
+  - https://datatracker.ietf.org/doc/rfc8613/
 
 ---
 
