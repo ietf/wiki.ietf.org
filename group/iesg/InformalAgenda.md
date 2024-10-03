@@ -2,15 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-09-27T15:34:36.044Z
+date: 2024-10-03T13:15:11.757Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
 # Informal Telechat - October 10, 2024
-
- There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -40,9 +38,12 @@ Note that this page is public.
 
 ### Administrivia
 
-
+* Closing the "Long Friday at the plenary meeting" experiment (Roman)
+* Discussion on IETF 120 plenary questions (Roman)
 
 ### Document Discussions
+
+* Document Swaps/Draining PubReq in advance of IETF 121 (Roman)
 
 ### Management Issues
 
