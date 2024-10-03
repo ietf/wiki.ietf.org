@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-07-26T13:14:59.709Z
+date: 2024-10-03T15:54:30.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Oct 2024|[inSIG](https://insig.in/program-agenda-for-insig-2024/)|Mixed|*all levels*|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/1RWJZOiItvgJzLQr9JdVpTlLds5gxHQspDfOFXaNH0q4/edit?usp=sharing)|
 |July 2024|[NetDev](https://netdevconf.info/0x18/sessions/workshop/workshop-on-extension-headers.html) IPv6 Extension header workshop|Developers|Participants|Tom Herbert||
 |July 2024|[HKSU](https://hksu.ee.nfu.edu.tw/wp/ietfcourse2024/%e8%ad%b0%e7%a8%8b/) IETF Course|Students|knowledge sharing|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/15emi_D0xJdxFcMeUaX9wsTVvBfQg5C_HWW0emhqj928/edit?usp=sharing)|
 |July 2024|[APIGA2024](https://community.icann.org/display/GSEAPAC/APIGA+2024)|Students|knowledge sharing|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/1KOnmNk2jVuC0BuRrI1R7QTiIMQvd66igJHAmSsuZeWE/edit?usp=sharing)|
