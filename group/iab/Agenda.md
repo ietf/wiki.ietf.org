@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-10-02T16:33:32.711Z
+date: 2024-10-04T18:36:46.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -100,12 +100,6 @@ In Progress:
 #### 1.6. IAB Review of WG Charters 
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
-
-* Getting Ready for Energy-Efficient Networking (GREEN)
-    Area: OPS
-    External Review
-    IESG Telechat: (2024-10-03)
-    IAB Reviewer: Alvaro Retana (Review sent 2024-09-23)
 
 * MODeration PrOceDures (MODPOD)
     Area: GEN
