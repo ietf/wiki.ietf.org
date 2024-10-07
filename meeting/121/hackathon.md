@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-07T11:24:41.591Z
+date: 2024-10-07T11:25:43.873Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -307,6 +307,7 @@ François Michel (Apple)
   - Fabian Seidl (Fabian.Seidl at h-da.de)
   - Malte Bauch (Malte.Bauch at h-da.de)
   - Neil Schark (Neil.Schark at h-da.de)
+  - Johanna Henrich (Johanna.Henrich at h-da.de)
 - **Project Info**
 	- A first attempt to define and implement protocols for control and management of QDKNs, i.e., between two adjacent Key Management Systems (KMS) and between a network controller and the KMS. 
   - More information to come soon.
