@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-10-01T04:42:38.279Z
+date: 2024-10-07T11:23:11.189Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -78,7 +78,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 |draft-ietf-pce-sr-path-segment|Y|Has Normative dependencies|-|
 |draft-ietf-pce-circuit-style-pcep-extensions|Y|-|-|
 | draft-ietf-pce-entropy-label-position |N| - | - |
-
+| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y| - | - |
 
 
 
