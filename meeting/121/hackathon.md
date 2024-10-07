@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-03T21:34:17.811Z
+date: 2024-10-07T10:11:44.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -298,6 +298,15 @@ François Michel (Apple)
 
 - **Specification**
   - https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap
+
+---
+
+### Protocols for Quantum Key Distribution Networks (QKDN)
+- **Champions**
+	- Martin Stiemerling (mls.ietf at gmail.com)
+- **Project Info**
+	- A first attempt to define and implement protocols for control and management of QDKNs, i.e., between two adjacent Key Management Systems (KMS) and between a network controller and the KMS. 
+  - More information to come soon.
 
 ---
 
