@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-10-07T11:23:11.189Z
+date: 2024-10-07T11:25:32.597Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -25,7 +25,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 | Draft | Remarks |
 |---|---| 
 |draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
-| draft-wang-pce-vlan-based-traffic-forwarding | Authors have moved VLAN forwarding details to an independent I-D |
+
 
 ## WG Adoption Call Queue
 
@@ -40,6 +40,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-chen-pce-sr-ingress-protection | Pending | - | - |
 |draft-dong-pce-pcep-nrp|Pending| - | - |
 |draft-fizgeer-pce-pcep-bfd-parameters|Pending |-|-|
+| draft-wang-pce-vlan-based-traffic-forwarding | - |Authors have moved VLAN forwarding details to an independent I-D | - |
 
 
 ## Recently Adopted Documents
