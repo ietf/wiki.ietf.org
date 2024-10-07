@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-07T19:11:01.527Z
+date: 2024-10-07T21:51:27.894Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -60,7 +60,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 04 November, Time: 18:30 - 19:30, Room: **TBD**
+  * Monday, 04 November, Time: 18:30 - 19:30, Room: **Ground Floor Foyer**
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 04 November
 
