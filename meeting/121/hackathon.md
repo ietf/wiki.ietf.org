@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-07T11:25:43.873Z
+date: 2024-10-07T19:11:01.527Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -311,6 +311,15 @@ François Michel (Apple)
 - **Project Info**
 	- A first attempt to define and implement protocols for control and management of QDKNs, i.e., between two adjacent Key Management Systems (KMS) and between a network controller and the KMS. 
   - More information to come soon.
+
+---
+
+### Roughtime
+- **Champions**
+	- Marcus Dansarie (marcus at dansarie.se)
+- **Project Info**
+	- Document interoperability of Roughtime implementations
+  - Update Roughtime implementations for interoperatbility and compatibility with the [latest draft](https://www.ietf.org/archive/id/draft-ietf-ntp-roughtime-11.html)
 
 ---
 
