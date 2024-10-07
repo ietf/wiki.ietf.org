@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-10-04T13:47:33.586Z
+date: 2024-10-07T18:10:31.066Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -39,7 +39,7 @@ Note that this page is public.
 ### Administrivia
 
 * Statement on Comments and Crediting Contributors (Orie, Francesca, Murray, Mahesh, and Warren)
-* Closing the "Long Friday at the plenary meeting" experiment (Roman)
+* [Closing the "Long Friday at the plenary meeting" experiment](https://docs.google.com/document/d/1Edhvtm5QsDehZHX-9uSLgDgg_3kUPblTD3cTQhPZrug/edit) (Roman)
 * Discussion on IETF 120 plenary questions (Roman)
 
 ### Document Discussions
