@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-10-07T17:20:57.686Z
+date: 2024-10-07T17:27:58.140Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
