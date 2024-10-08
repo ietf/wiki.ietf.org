@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-10-08T17:43:54.403Z
+date: 2024-10-08T18:13:54.396Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,7 +46,7 @@ Note that this page is public.
 
 ### Document Discussions
 
-* Document Swaps/Draining PubReq in advance of IETF 121 (Roman)
+* [Document Swaps/Draining PubReq in advance of IETF 121](https://docs.google.com/spreadsheets/d/19GNya_Yupgek_V5a0a-qcyoEbPmwOW6CpzGrn--hmeE/edit) -- documents >=45 days in a state requiring AD action, data pulled on 2024-Oct-08 (Roman)
 
 ### Management Issues
 
