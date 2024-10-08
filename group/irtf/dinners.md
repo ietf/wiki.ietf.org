@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2024-06-22T09:54:39.639Z
+date: 2024-10-08T16:49:38.611Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -12,6 +12,13 @@ dateCreated: 2023-02-27T16:52:39.142Z
 
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
 
+* IETF 121 Dublin
+  * Doodle poll for attendance:
+    https://doodle.com/meeting/participate/id/ejL9A1vb
+  * Wednesday, 6 November, after the plenary
+  * Venue: (tbc)
+  
+  
 * IETF 120 Vancouver
   * Doodle poll for attendance:
     https://doodle.com/meeting/participate/id/bkOnMNvb
