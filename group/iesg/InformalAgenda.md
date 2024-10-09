@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-10-08T18:13:54.396Z
+date: 2024-10-09T21:57:05.028Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -65,6 +65,8 @@ Note that this page is public.
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
+
+* [New co-chair for HotRFC needed](https://mailarchive.ietf.org/arch/msg/iesg/F5O6IVJ8B-CO1i1g5vbvfHLdulU/#) (Secretariat)
 
 ### Topics Deferred Till Next Informal 
 
