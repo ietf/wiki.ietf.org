@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-09T15:42:31.670Z
+date: 2024-10-09T15:49:19.692Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -121,7 +121,7 @@ Location: Liffey Boardroom 3
 * 10:00 - 11:30 -- RTG Office Hours
 
 ## Monday, 4 November 2024
-* 08:30 - 09:30 IESG AMA (Ask Me Anything)
+
 * 11:45-12:45 SEC Office Hours
 
 ## Tuesday, 5 November 2024
@@ -136,5 +136,7 @@ Location: Liffey Boardroom 3
 
 ## Friday, 8 November 2024
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
+
+* 08:30 - 09:30 IESG AMA (Ask Me Anything)
 
 
