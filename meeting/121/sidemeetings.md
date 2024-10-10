@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-10T17:50:39.735Z
+date: 2024-10-10T20:37:08.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -48,9 +48,9 @@ The IETF provides a Chromebook with a preconfigured WebEx room in each side meet
 
 The Webex info is as follows:
 
-* **Wicklow Hall 2A (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions] (link TBD) for managing your side meeting.
+* **Wicklow Hall 2A (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](/ietf120_large_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
 
-* **Wicklow Meeting Room 4 (16 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions] (link TBD) for managing your side meeting.
+* **Wicklow Meeting Room 4 (20 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions](/ietf120_small_side_meeting_room_-_chromebook_instructions.pdf) for managing your side meeting.
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
@@ -137,7 +137,7 @@ Please keep the tables sorted by meeting, by time.
 ### Room Info
 
 Room: **Wicklow MR 4** 
-Occupancy: up to 16 attendees
+Occupancy: up to 20 attendees
 Configuration: Boardroom
 Location: Second Floor
 
@@ -150,7 +150,7 @@ Location: Second Floor
 
 #### MONDAY 4 November {#room-monday}
 
-| **Time**    | **WMR 4 (16 people)** | **Wicklow Hall 2A (40 people)**| 
+| **Time**    | **WMR 4 (20 people)** | **Wicklow Hall 2A (40 people)**| 
 |-------------|-----------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
@@ -177,13 +177,13 @@ Location: Second Floor
 | 18:30-19:00 |                       |                    |    
 | 19:00-19:30 |                       |                    |    
 | 19:30-20:00 |                       |                    |    
-| 20:00-20:30 | **NOT AVAILABLE** | **NOT AVAILABLE**  |  
+| 20:00-20:30 | **NOT AVAILABLE**     | **NOT AVAILABLE**  |  
 {.dense}
 
 
 #### TUESDAY 5 November {#room-tuesday}
 
-| **Time**    | **WMR 4 (16 people)** | **Wicklow Hall 2A (40 people)**| 
+| **Time**    | **WMR 4 (20 people)** | **Wicklow Hall 2A (40 people)**| 
 |-------------|-----------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
@@ -215,7 +215,7 @@ Location: Second Floor
 
 #### WEDNESDAY 6 November {#room-wednesday}
 
-| **Time**    | **WMR 4 (16 people)** | **Wicklow Hall 2A (40 people)**| 
+| **Time**    | **WMR 4 (20 people)** | **Wicklow Hall 2A (40 people)**| 
 |-------------|-----------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
@@ -236,10 +236,10 @@ Location: Second Floor
 | 15:30-16:00 |                       |                    |    
 | 16:00-16:30 |                       |                    |    
 | 16:30-17:00 |                       |                    |    
-| 17:00-17:30 |                       |                    |    
-| 17:30-18:00 |                       |                    |    
-| 18:00-18:30 |                       |                    |    
-| 18:30-19:00 |                       |                    |    
+| 17:00-17:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 17:30-18:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 18:00-18:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 18:30-19:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 19:00-19:30 |                       |                    |    
 | 19:30-20:00 |                       |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
@@ -248,7 +248,7 @@ Location: Second Floor
 
 #### THURSDAY 7 November {#room-thursday}
 
-| **Time**    | **WMR 4 (16 people)** | **Wicklow Hall 2A (40 people)**| 
+| **Time**    | **WMR 4 (20 people)** | **Wicklow Hall 2A (40 people)**| 
 |-------------|-----------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
@@ -258,10 +258,10 @@ Location: Second Floor
 | 10:00-10:30 |                       |                    |    
 | 10:30-11:00 |                       |                    |    
 | 11:00-11:30 |                       |                    |    
-| 11:30-12:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 13:00-13:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 11:30-12:00 |                       | **NOT AVAILABLE**  |  
+| 12:00-12:30 |                       | **NOT AVAILABLE**  |  
+| 12:30-13:00 |                       | **NOT AVAILABLE**  |  
+| 13:00-13:30 |                       | **NOT AVAILABLE**  |  
 | 13:30-14:00 |                       |                    |    
 | 14:00-14:30 |                       |                    |    
 | 14:30-15:00 |                       |                    |    
@@ -275,23 +275,23 @@ Location: Second Floor
 | 18:30-19:00 |                       |                    |    
 | 19:00-19:30 |                       |                    |    
 | 19:30-20:00 |                       |                    |    
-| 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
+| 20:00-20:30 |   **NOT AVAILABLE**  | **NOT AVAILABLE**  |  
 {.dense}
 
 
 #### FRIDAY 8 November {#room-friday}
 
-| **Time**    | **WMR 4 (16 people)** | **Wicklow Hall 2A (40 people)**| 
+| **Time**    | **WMR 4 (20 people)** | **Wicklow Hall 2A (40 people)**| 
 |-------------|-----------------------|--------------------| 
 | 07:30-08:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 08:30-09:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 09:00-09:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 08:00-08:30 |                       |  **NOT AVAILABLE** |  
+| 08:30-09:00 |                       |  **NOT AVAILABLE** |  
+| 09:00-09:30 |                       |  **NOT AVAILABLE** |  
 | 09:30-10:00 |                       |                    |    
 | 10:00-10:30 |                       |                    |    
 | 10:30-11:00 |                       |                    |    
 | 11:00-11:30 |                       |                    |    
-| 11:30-12:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 11:30-12:00 |                       |  **NOT AVAILABLE** |  
+| 12:00-12:30 |                       |  **NOT AVAILABLE** |  
+| 12:30-13:00 |                       |  **NOT AVAILABLE** |    
 {.dense}
