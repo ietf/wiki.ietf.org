@@ -2,13 +2,13 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-10T20:37:08.579Z
+date: 2024-10-10T21:21:30.962Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
 ---
 
-# THIS PAGE IS NOT YET LIVE. ANY INFORMATION ADDED WILL BE DELETED ON FRIDAY 11 OCTOBER.
+# THIS PAGE IS NOT YET LIVE. ANY INFORMATION ADDED BEFORE FRIDAY 11 OCTOBER WILL BE DELETED.
 
 
 # Side Meetings at IETF 121
@@ -40,6 +40,10 @@ This wiki page is used to book the side meeting rooms and share details of the t
 
 
 * Side meeting dates and times should be listed in Dublin local time, UTC. For help converting time zones, please use a tool like [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html). Please note that Ireland will end Daylight Savings hours in October.
+
+> During the week of October 28, some breakfast and lunch slots will be unblocked if those rooms are not needed for other meetings.
+{.is-info}
+
 
 # Audio/visual provision for remote participation
 Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation.
