@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-10-10T05:24:53.672Z
+date: 2024-10-10T22:29:04.423Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - October 10, 2024
+# Informal Telechat - December 12, 2024
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,6 @@ Meeting password: 12345
 
 
 ## Regrets
-John Scudder
-David Schinazi (regrets for everything until October 12)
-Kline, Erik
 
 
 ## Agenda
@@ -41,13 +38,11 @@ Note that this page is public.
 
 ### Administrivia
 
-* Statement on Comments and Crediting Contributors (Orie, Francesca, Murray, Mahesh, and Warren)
-* [Closing the "Long Friday at the plenary meeting" experiment](https://docs.google.com/document/d/1Edhvtm5QsDehZHX-9uSLgDgg_3kUPblTD3cTQhPZrug/edit) (Roman)
-* [Follow-up to Questions/Comments from IESG Open Mic at the IETF 120 Plenary](https://docs.google.com/document/d/1tmacEz3myUeJkV_x3VjDwrPvoAO5mEUPRpuO14jwltU/edit) (Roman)
+
 
 ### Document Discussions
 
-* [Document Swaps/Draining PubReq in advance of IETF 121](https://docs.google.com/spreadsheets/d/19GNya_Yupgek_V5a0a-qcyoEbPmwOW6CpzGrn--hmeE/edit) -- documents >=45 days in a state requiring AD action, data pulled on 2024-Oct-08 (Roman)
+
 
 ### Management Issues
 
