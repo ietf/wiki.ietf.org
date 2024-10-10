@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-10T17:21:11.884Z
+date: 2024-10-10T18:29:52.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -327,6 +327,7 @@ Henry Yu (hyu2010b@gmail.com)
 - **Specification**
   - https://datatracker.ietf.org/doc/rfc8795/
   - https://datatracker.ietf.org/doc/rfc9094/
+  - https://datatracker.ietf.org/doc/html/draft-ietf-ccamp-otn-topo-yang
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
