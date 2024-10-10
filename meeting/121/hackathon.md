@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-10T14:08:04.724Z
+date: 2024-10-10T17:15:49.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -318,6 +318,17 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 
 ---
 
+### IETF TE Topology Display
+- **Champions**
+Henry Yu (hyu2010b@gmail.com)
+- **Project Info**
+  - This project develops a toolkit which includes YANG datastore, GUI of YANG data, and RESTCONF server with Swagger interface.
+  - We use this toolkit to demonstrate some key aspects of the IETF TE topology model (RFC8795), such as bidirectional links and link hierarchy.
+- **Specification**
+  - https://datatracker.ietf.org/doc/rfc8795/
+  - https://datatracker.ietf.org/doc/rfc9094/
+
+---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
