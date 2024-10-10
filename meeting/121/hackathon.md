@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-10T19:11:49.018Z
+date: 2024-10-10T19:33:15.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -39,7 +39,7 @@ Hackathon *(all times are IST, GMT+1)*
 * **09:30** : Room open for setup by project champions
 * **10:00** : Room open for all - pastries and coffee provided
 * **10:30** : Hackathon kickoff
-* **10:45** : Form Teams, see [Team Schedule](teamschedule)
+* **10:45** : Form teams, see [Team Schedule](teamschedule)
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
 * **18:30** : Dinner provided
