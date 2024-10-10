@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-09-23T01:19:31.686Z
+date: 2024-10-10T16:48:27.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -26,6 +26,7 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 - **Participants**
 Stuart Cheshire (Apple)
 François Michel (Apple)
+Ted Lemon (Apple)
 Esko Dijk (IoTconsultancy.nl)
 Aaron Zhang (Westford Academy)
 - **Project Info**
