@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-10T17:15:49.928Z
+date: 2024-10-10T17:21:11.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -318,7 +318,7 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 
 ---
 
-### IETF TE Topology Display
+### IETF TE Topology Graphical Display
 - **Champions**
 Henry Yu (hyu2010b@gmail.com)
 - **Project Info**
