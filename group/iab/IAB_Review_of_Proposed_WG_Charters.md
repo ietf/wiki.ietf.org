@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-09-26T17:46:42.558Z
+date: 2024-10-10T15:48:11.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2024-2025 Assignments
+- IANABIS: Mirja Kühlewind (2024-10)
 - SCONE: Suresh Krishnan (2024-09)
 - MODPOD: Qin Wu (2024-09)
 - GREEN: ~~Alissa Cooper~~ Alvaro Retana (2024-09)
