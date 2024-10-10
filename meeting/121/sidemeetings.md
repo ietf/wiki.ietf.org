@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-10T17:47:50.536Z
+date: 2024-10-10T17:50:39.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -48,9 +48,9 @@ The IETF provides a Chromebook with a preconfigured WebEx room in each side meet
 
 The Webex info is as follows:
 
-* **Wicklow Hall 2A (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions](TBD) for managing your side meeting.
+* **Wicklow Hall 2A (40 seats, U-shape)**: https://ietf.webex.com/meet/ietfsidemeeting2. Please review [room-specific instructions] (link TBD) for managing your side meeting.
 
-* **Wicklow Meeting Room 4 (16 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions](TBD) for managing your side meeting.
+* **Wicklow Meeting Room 4 (16 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. Please review [room specific-instructions] (link TBD) for managing your side meeting.
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
