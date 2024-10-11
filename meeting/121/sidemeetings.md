@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T16:54:06.706Z
+date: 2024-10-11T16:55:54.817Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -77,7 +77,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | WMR 4 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |     |  |   |   |   |   |   |  |
-|     |  |   |   |   |   |   |  |
+|13:30-15:00|Wicklow Hall|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -166,9 +166,9 @@ Location: Second Floor
 | 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 13:00-13:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 13:30-14:00 |                       |                    |    
-| 14:00-14:30 |                       |                    |    
-| 14:30-15:00 |                       |                    |    
+| 13:30-14:00 |                       |   Deepspace        |    
+| 14:00-14:30 |                       |   Deepspace        |    
+| 14:30-15:00 |                       |   Deepspace        |    
 | 15:00-15:30 |                       |                    |    
 | 15:30-16:00 |                       |                    |    
 | 16:00-16:30 |                       |                    |    
@@ -208,9 +208,9 @@ Location: Second Floor
 | 16:30-17:00 |                       |                    |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
-| 18:00-18:30 |                       | Enterprise Network |    
-| 18:30-19:00 |                       | Enterprise Network |    
-| 19:00-19:30 |                       | Enterprise Network |    
+| 18:00-18:30 |                       |                    |    
+| 18:30-19:00 |                       |                    |    
+| 19:00-19:30 |                       |                    |    
 | 19:30-20:00 |                       |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
 {.dense}
