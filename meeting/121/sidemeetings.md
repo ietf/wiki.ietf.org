@@ -2,13 +2,11 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-10T21:21:30.962Z
+date: 2024-10-11T16:23:22.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
 ---
-
-# THIS PAGE IS NOT YET LIVE. ANY INFORMATION ADDED BEFORE FRIDAY 11 OCTOBER WILL BE DELETED.
 
 
 # Side Meetings at IETF 121
