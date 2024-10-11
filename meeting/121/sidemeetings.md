@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T20:00:09.867Z
+date: 2024-10-11T20:02:17.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -275,10 +275,10 @@ Location: Second Floor
 | 16:30-17:00 |                       |                    |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
-| 18:00-18:30 |                       | On-Path Proxy Disc.|    
-| 18:30-19:00 |                       | On-Path Proxy Disc.|    
-| 19:00-19:30 |                       | On-Path Proxy Disc.|    
-| 19:30-20:00 |                       | On-Path Proxy Disc.|    
+| 18:00-18:30 |                       | On-Path Proxy Discovery |    
+| 18:30-19:00 |                       | On-Path Proxy Discovery |    
+| 19:00-19:30 |                       | On-Path Proxy Discovery |    
+| 19:30-20:00 |                       | On-Path Proxy Discovery |    
 | 20:00-20:30 |   **NOT AVAILABLE**  | **NOT AVAILABLE**  |  
 {.dense}
 
