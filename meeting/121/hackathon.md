@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-11T15:22:13.798Z
+date: 2024-10-11T16:13:41.463Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -32,7 +32,7 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda 
 ***Subject to Change***
-Hackathon *(all times are IST, GMT+1)*
+Hackathon *(all times are GMT)*
 
 ### Saturday, 02 November 
 
@@ -82,12 +82,13 @@ If you received the email but the link to create an account has expired, please 
 3. Enter the email address that you registered with for the Hackathon
 4. Follow the instructions in the email you receive
 
-## Meeting Materials
+## Presentation and Meeting Materials
 
-* Code can be accessed from [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or from links provided within project descriptions below.
+* You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Results of Hackathon projects should be uploaded to [GitHub](https://github.com/IETF-Hackathon/ietf121-project-presentations). See the [README](https://github.com/IETF-Hackathon/ietf121-project-presentations/blob/main/README.md) for details.
-* The Hackathon Results presentations from Sunday, 14:00-16:00, are available on datatracker:
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/121/session/33500/propose_slides) by 14:00-16:00 GMT.
+    * To upload your presentation, you must have a Datatracker account and be logged in.
+* The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
     * https://datatracker.ietf.org/meeting/121/session/hackathon#autoid-16
 
 ## Participant Preparation and Prerequisites
