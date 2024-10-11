@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T21:50:36.707Z
+date: 2024-10-11T23:19:19.040Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -77,6 +77,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    7:00-7:05 | WMR 4 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |     |  |   |   |   |   |   |  |
+|12:30-13:25|Wicklow Hall|Originator Profile|SEC|shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow Hall|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |     |  |   |   |   |   |   |  |
@@ -168,8 +169,8 @@ Location: Second Floor
 | 11:00-11:30 |                       |                    |    
 | 11:30-12:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 13:00-13:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
+| 12:30-13:00 | **NOT AVAILABLE**     |  Originator Profile |  
+| 13:00-13:30 | **NOT AVAILABLE**     |  Originator Profile |  
 | 13:30-14:00 | UNS-UCA Update        |   Deepspace        |    
 | 14:00-14:30 | UNS-UCA Update        |   Deepspace        |    
 | 14:30-15:00 | UNS-UCA Update        |   Deepspace        |    
