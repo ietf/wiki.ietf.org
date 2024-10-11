@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T16:38:28.008Z
+date: 2024-10-11T16:54:06.706Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -208,9 +208,9 @@ Location: Second Floor
 | 16:30-17:00 |                       |                    |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
-| 18:00-18:30 |                       |                    |    
-| 18:30-19:00 |                       |                    |    
-| 19:00-19:30 |                       |                    |    
+| 18:00-18:30 |                       | Enterprise Network |    
+| 18:30-19:00 |                       | Enterprise Network |    
+| 19:00-19:30 |                       | Enterprise Network |    
 | 19:30-20:00 |                       |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
 {.dense}
