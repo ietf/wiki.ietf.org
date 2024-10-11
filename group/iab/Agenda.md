@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-10-04T18:36:46.953Z
+date: 2024-10-11T19:20:50.064Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-10-16 0730 PDT (UTC-7) 
 
-*Agenda as of 2024-10-02. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-10-11. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -31,13 +31,25 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 * 2024-09-25 technical discussion - (submitted 2024-09-25)
+* 2024-10-02 business meeting - (submitted 2024-10-02)
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
+*  2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN
+    NomCom Liaison appointment once the list of positions being filled
+    is available.
+    
+*  2024-10-02: Cindy Morgan to draft a call for nominations for the 
+    ICANN NomCom appointment.
 
+*  2024-10-02: Cindy Morgan to send a reminder about the call for 
+    feedback on the IRTF Chair nominees.
 
+*  2024-10-02: Cindy Morgan to update the list of potential agenda 
+    items for IETF 121 in the wiki.
+    
 On Hold:
 
 *  2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
@@ -45,10 +57,6 @@ On Hold:
     See https://github.com/ietf-tools/datatracker/issues/5849
 
 In Progress:
-    
-*  2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN
-    NomCom Liaison appointment once the list of positions being filled
-    is available.
     
 *  2024-06-12: Mirja Kühlewind to work with Wes Hardaker on 
     prioritizing the current list of IAB requests for the Tools Team.
@@ -71,17 +79,10 @@ In Progress:
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
 
-*  2024-10-02: Cindy Morgan to send a reminder about the call for 
-    feedback on the IRTF Chair nominees.
-
-*  2024-10-02: Cindy Morgan to update the list of potential agenda 
-    items for IETF 121 in the wiki.
-
 *  2024-10-02: Alissa Cooper to reach out to the Global Digital 
     Justice Forum about possibly meeting on 2024-12-11.
 
-*  2024-10-02: Cindy Morgan to draft a call for nominations for the 
-    ICANN NomCom appointment.
+
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -101,25 +102,72 @@ In Progress:
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
-* MODeration PrOceDures (MODPOD)
+*  Update to IANA Considerations (IANABIS)
     Area: GEN
-    External Review
-    IESG Telechat: (2024-10-03)
-    IAB Reviewer: Qin Wu (Review sent 2024-09-11)
-    
-* Standard Communication with Network Elements (SCONE)
-    Area: WIT
     Internal Review
-    IESG Telechat: (2024-10-03)
+    IESG Telechat: (2024-10-17)
+    IAB Reviewer: Mirja Kühlewind
+
+*  MODeration PrOceDures (MODPOD)
+    Area: GEN
+    Approved pending chair selection
+    IESG Telechat: (none)
+    IAB Reviewer: Qin Wu (Review sent 2024-09-11)
+
+*  Standard Communication with Network Elements (SCONE)
+    Area: WIT
+    External Review
+    IESG Telechat: (2024-10-17)
     IAB Reviewer: Suresh Krishnan
 
 #### 1.7 IAB Appointments
 
 *  IRTF Chair - Interviews complete; community feedback period ends 
-   2024-11-06
+    2024-11-06
+*  ICANN NomCom - Call for Nominations closes 2024-10-21
+*  ISOC Board of Trustees - Call for Nominations will start mid-
+    November
 
 ### 2. Monthly Written Reports and Other Brief Updates
 
+*  EODir Liaison Report
+*  IANA Liaison Report - written report received
+*  ICANN Liaison Report
+*  IRTF Chair Report
+*  ISOC Liaison Report
+*  IAB Outreach Coordinator Report
+*  Tools Liaison Report
+
+### 3. BOF Coverage at IETF 121 (All) - 10 mins (Public)
+
+  Wiki: https://wiki.ietf.org/group/iab/Bof121
+
+*  High Performance Wide Area Network (HPWAN) - WIT
+*  Digital Emblems (DIEM) - INT
+*  RESTful Provisioning Protocol (RPP) - ART
+*  Deepspace (DEEPSPACE) - INT
+
+
+### 4. IAB Agenda at IETF 121 (All) - 10 mins (Public)
+
+  Goal: Confirm schedule, brainstorm agenda topics
+
+  Wiki: https://wiki.ietf.org/en/group/iab/Agenda121
+
+
+### 5. IAB Open Session at IETF 121 (Tommy, Matthew) - 5 mins (Public)
+
+  Goal: Agenda refinement, guest speaker
+
+
+### 6. ISOC Board of Trustees Appointment (Cindy) - 5 mins (Public)
+
+  Goal: Review timeline and process
+
+
+### 7. Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2024-10-23?
 
 ## Upcoming Teleconferences 
 
