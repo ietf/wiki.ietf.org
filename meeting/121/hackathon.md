@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-10T19:33:15.303Z
+date: 2024-10-11T15:22:13.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -265,7 +265,7 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 - **Project Info**
 
   - 3 main ways to combine attestation in TLS
-    - Pre-handshake attestation ([Slides](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing))
+    - Pre-handshake attestation ([Slides](https://www.researchgate.net/publication/384800091_Vulnerabilities_in_Intel's_RA-TLS_Protocol_and_Proposed_Mitigations))
     - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
     - Post-handshake attestation (Sec. 4 in [this draft](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
@@ -279,7 +279,7 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 - **Background on Attested TLS**
 
 	- [Tutorial slides](https://www.researchgate.net/publication/382489639_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization) from side meeting of IETF 120 
-	- Some slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS) 
+	- Some slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
 
 ---
 
