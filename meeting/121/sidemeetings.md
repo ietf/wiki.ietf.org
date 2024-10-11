@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T18:45:44.449Z
+date: 2024-10-11T19:35:44.437Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -124,7 +124,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+|   08:00-09:30  | Wicklow Hall 2A | eodir  | GEN  | ghwood@staff.ietf.org  | education & outreach directorate | TBC  |  TBC |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -286,9 +286,9 @@ Location: Second Floor
 
 | **Time**    | **WMR 4 (20 people)** | **Wicklow Hall 2A (40 people)**| 
 |-------------|-----------------------|--------------------| 
-| 07:30-08:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 08:00-08:30 |                       |  **NOT AVAILABLE** |  
-| 08:30-09:00 |                       |  **NOT AVAILABLE** |  
+| 07:30-08:00 | **NOT AVAILABLE**     |eodir |  
+| 08:00-08:30 |                       |  eodir |  
+| 08:30-09:00 |                       |  eodir |  
 | 09:00-09:30 |                       |  **NOT AVAILABLE** |  
 | 09:30-10:00 |                       |                    |    
 | 10:00-10:30 |                       |                    |    
