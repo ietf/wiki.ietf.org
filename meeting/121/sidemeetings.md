@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T17:55:56.350Z
+date: 2024-10-11T18:38:12.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -113,7 +113,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    10:00-11:30 | WMR 4 | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
-|    11:30-13:00 | WMR 4 | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd ||     |  |   |   |   |   |   |  |
+|    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd ||     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -261,10 +261,10 @@ Location: Second Floor
 | 10:00-10:30 |                       | PQ DNSSEC Research |    
 | 10:30-11:00 |                       | PQ DNSSEC Research |    
 | 11:00-11:30 |                       | PQ DNSSEC Research |    
-| 11:30-12:00 |    AI Control         | **NOT AVAILABLE**  |  
-| 12:00-12:30 |    AI Control         | **NOT AVAILABLE**  |  
-| 12:30-13:00 |    AI Control         | **NOT AVAILABLE**  |  
-| 13:00-13:30 |    AI Control         | **NOT AVAILABLE**  |  
+| 11:30-12:00 |                       |     AI Control     |  
+| 12:00-12:30 |                       |     AI Control     |  
+| 12:30-13:00 |                       |     AI Control     | 
+| 13:00-13:30 |                       |     AI Control     | 
 | 13:30-14:00 |                       |                    |    
 | 14:00-14:30 |                       |                    |    
 | 14:30-15:00 |                       |                    |    
