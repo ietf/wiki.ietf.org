@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T19:48:55.769Z
+date: 2024-10-11T19:58:47.348Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -113,7 +113,8 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    10:00-11:30 | WMR 4 | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
-|    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd ||     |  |   |   |   |   |   |  |
+|    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
+| 18:00-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
