@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T17:00:29.007Z
+date: 2024-10-11T17:03:23.306Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -92,7 +92,8 @@ Please keep the tables sorted by meeting, by time.
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
-|     |  |   |   |   |   |   |  |
+ 18:00 - 19:30 | Wicklow Hall 4A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion |    |   |     |
+ |     |  |   |   |   |   |   |  |
 {.dense}
 
 ### [WEDNESDAY 6 November](#meeting-wednesday)
