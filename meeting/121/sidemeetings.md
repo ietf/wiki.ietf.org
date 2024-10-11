@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T19:39:42.596Z
+date: 2024-10-11T19:39:59.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -90,7 +90,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
-| 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk   | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?  |   |  |
+| 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk   | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?  | TBA   | TBA |
 |     |  |   |   |   |   |   |  |
  18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   |   |     |
  |     |  |   |   |   |   |   |  |
