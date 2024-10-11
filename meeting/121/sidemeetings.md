@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T16:55:54.817Z
+date: 2024-10-11T16:58:18.846Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -111,8 +111,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
-|     |  |   |   |   |   |   |  |
+|    10:00-11:30 | WMR 4 | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -257,9 +256,9 @@ Location: Second Floor
 | 08:30-09:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 09:00-09:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 09:30-10:00 |                       |                    |    
-| 10:00-10:30 |                       |                    |    
-| 10:30-11:00 |                       |                    |    
-| 11:00-11:30 |                       |                    |    
+| 10:00-10:30 |                       | PQ DNSSEC Research |    
+| 10:30-11:00 |                       | PQ DNSSEC Research |    
+| 11:00-11:30 |                       | PQ DNSSEC Research |    
 | 11:30-12:00 |                       | **NOT AVAILABLE**  |  
 | 12:00-12:30 |                       | **NOT AVAILABLE**  |  
 | 12:30-13:00 |                       | **NOT AVAILABLE**  |  
