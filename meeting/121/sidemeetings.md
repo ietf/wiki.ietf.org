@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T20:02:17.378Z
+date: 2024-10-11T20:21:10.407Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -78,6 +78,7 @@ Please keep the tables sorted by meeting, by time.
 |    7:00-7:05 | WMR 4 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |     |  |   |   |   |   |   |  |
 |13:30-15:00|Wicklow Hall|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
+|13:30-15:00|Wicklow MR4|UNS-UCA Update|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
