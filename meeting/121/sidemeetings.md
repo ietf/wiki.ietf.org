@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T16:59:48.559Z
+date: 2024-10-11T17:00:29.007Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -111,7 +111,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|    10:00-11:30 | Wicklow Hall | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
+|    10:00-11:30 | WMR 4 | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -207,9 +207,9 @@ Location: Second Floor
 | 16:30-17:00 |                       |                    |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
-| 18:00-18:30 |                       |                    |    
-| 18:30-19:00 |                       |                    |    
-| 19:00-19:30 |                       |                    |    
+| 18:00-18:30 |                       | Enterprise Network |    
+| 18:30-19:00 |                       | Enterprise Network |    
+| 19:00-19:30 |                       | Enterprise Network |    
 | 19:30-20:00 |                       |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
 {.dense}
