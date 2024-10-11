@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-11T16:13:41.463Z
+date: 2024-10-11T16:39:21.282Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -86,7 +86,7 @@ If you received the email but the link to create an account has expired, please 
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/121/session/33500/propose_slides) by 14:00-16:00 GMT.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/121/session/33500/propose_slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
     * https://datatracker.ietf.org/meeting/121/session/hackathon#autoid-16
@@ -123,15 +123,14 @@ If you received the email but the link to create an account has expired, please 
 ### Sharing Code
    * Git/GitHub is commonly used for open source projects. Familiarizing yourself with it is recommended.
    * An online tutorial is available here: [Git Tutorial](https://git-scm.com/docs/gittutorial)
-   * The [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org is used for Hackathon presentations and contains repositories for some Hackathon projects.
+   * The [IETF Hackathon](https://github.com/IETF-Hackathon) GitHub organisation is used by some of the Hackathon projects to host their repositories.
      * If you would like to have your project/code hosted here, send your GitHub ID and the name of your project via email to (hackathon-chairs@ietf.org)
      
 ### Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-    * IETF Hackathon teams should upload their Hackathon project presentations to [GitHub](https://github.com/IETF-Hackathon/ietf120-project-presentations).
-    * You must be a member of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation
-    * To be added as a member, see details in the [README](https://github.com/IETF-Hackathon/ietf120-project-presentations/blob/main/README.md)
-    * DO NOT WAIT until just before Hackathon project presentations start or your request may be lost in the chaos
+  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/121/session/33500/propose_slides) at 14:00-16:00.
+    * To upload your presentation, you must have a Datatracker account and be logged in.
+    * DO NOT WAIT until just before the start of the Hackathon project presentations to upload your presentation, as it may be lost in the chaos.
 
 ## Network
 
