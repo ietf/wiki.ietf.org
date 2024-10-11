@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-11T20:23:18.341Z
+date: 2024-10-11T20:41:36.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -89,7 +89,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|     |  |   |   |   |   |   |  |
+|  9:30-11:30   | Hall 2A | attested tls |  sec |  usama |   |   |  |
 |     |  |   |   |   |   |   |  |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk   | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?  | TBA   | TBA |
 |     |  |   |   |   |   |   |  |
@@ -194,10 +194,10 @@ Location: Second Floor
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:30-09:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 09:00-09:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 09:30-10:00 |                       |                    |    
-| 10:00-10:30 |                       |                    |    
-| 10:30-11:00 |                       |                    |    
-| 11:00-11:30 |                       |                    |    
+| 09:30-10:00 |                       |    attested TLS                |    
+| 10:00-10:30 |                       |   attested TLS                 |    
+| 10:30-11:00 |                       |    attested TLS               |    
+| 11:00-11:30 |                       |    attested TLS                |    
 | 11:30-12:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
