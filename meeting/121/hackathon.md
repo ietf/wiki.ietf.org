@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-11T16:39:21.282Z
+date: 2024-10-12T13:45:15.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -295,6 +295,35 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
   - https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap
 
 ---
+
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Mike Ounsworth (mike.ounsworth@entrust.com)
+Julien Prat (julien.prat@cryptonext-security.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-rfc4210bis/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cert-binding-for-multi-auth/01/
+https://www.ietf.org/id/draft-lamps-okubo-certdiscovery-00.html
+https://datatracker.ietf.org/doc/draft-bonnell-lamps-chameleon-certs/
+https://datatracker.ietf.org/doc/draft-gazdag-x509-hash-sigs/
+
+- **Project Info**
+Purpose is to make use of PQ in real world X.509 structures like keys, signatures, certificates and protocols. This will allow us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage in the real world.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 121, we plan to update the artifact repository to support the FIPS 203, 204 and 205 algorithm standards as well as updates to the Certificate Mechanisms for transitioning to PQ. 
+There is also interest in setup and testing the use of hybrid certificates for the TLSv1.3 protocol. The goal of the experiment is to explore different options for efficient use of hybrid certificates' and their multiple signature keys in the TLS protocol. We are looking for collaborations and ideas that can be then brought forward within the IETF and other standardization bodies (e.g., X9, ISO, etc.).
+
 
 ### Protocols for Quantum Key Distribution Networks (QKDN)
 - **Champions**
