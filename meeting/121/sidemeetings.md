@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-12T01:54:20.773Z
+date: 2024-10-12T01:59:19.789Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -105,7 +105,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 8:30-9:30    | Wicklow Hall 2A | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | TBD | TBD | 
+|     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |  2:30-3:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | tbd  | tbd |
 |     |  |   |   |   |   |   |  |
@@ -209,9 +209,9 @@ Location: Second Floor
 | 13:30-14:00 |                       |      AI4NET        |    
 | 14:00-14:30 |                       |      AI4NET        |    
 | 14:30-15:00 |                       |      AI4NET        |    
-| 15:00-15:30 |                       | LLM for Networking |    
-| 15:30-16:00 |                       | LLM for Networking |    
-| 16:00-16:30 |                       | LLM for Networking |    
+| 15:00-15:30 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
+| 15:30-16:00 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
+| 16:00-16:30 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
 | 16:30-17:00 |                       |                    |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
