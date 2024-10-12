@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-12T07:26:39.307Z
+date: 2024-10-12T07:31:53.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -80,7 +80,7 @@ Please keep the tables sorted by meeting, by time.
 |12:30-13:25|Wicklow Hall 2A|Originator Profile| |shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow Hall 2A|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
-|18:30-20:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
+|     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -97,6 +97,7 @@ Please keep the tables sorted by meeting, by time.
 | 1500 - 1630 | Wicklow Hall 2A | LLM for Networking | None | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | TBD | will use the IETF provided Webex | TBD |
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | TBD | TBD | 
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
+|18:00 - 19:30 | Wicklow Meeting Room 4 | NeoTec | OPS | xiechf@chinatelecom.cn;linda.dunbar@futurewei.com| Operations of Networks for Telecom Cloud（NeoTec）will discuss the use cases, requirements and possible work in management and operation of networks for Telecom Clouds.
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   |   |     |
  |     |  |   |   |   |   |   |  |
 {.dense}
@@ -183,9 +184,9 @@ Location: Second Floor
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
 | 18:00-18:30 |                       |                    |    
-| 18:30-19:00 |  Perceptive Routing   |                    |    
-| 19:00-19:30 |  Perceptive Routing    |                    |    
-| 19:30-20:00 |   Perceptive Routing    |                    |    
+| 18:30-19:00 |                       |                    |    
+| 19:00-19:30 |                       |                    |    
+| 19:30-20:00 |                       |                    |    
 | 20:00-20:30 | **NOT AVAILABLE**     | **NOT AVAILABLE**  |  
 {.dense}
 
@@ -215,9 +216,9 @@ Location: Second Floor
 | 16:30-17:00 |                       |                    |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
-| 18:00-18:30 |                       | Enterprise Network |    
-| 18:30-19:00 |                       | Enterprise Network |    
-| 19:00-19:30 |                       | Enterprise Network |    
+| 18:00-18:30 |   NeoTec              | Enterprise Network |    
+| 18:30-19:00 |   NeoTec              | Enterprise Network |    
+| 19:00-19:30 |   NeoTec              | Enterprise Network |    
 | 19:30-20:00 |                       |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
 {.dense}
