@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-12T04:47:42.155Z
+date: 2024-10-12T06:49:19.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -107,7 +107,7 @@ Please keep the tables sorted by meeting, by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
-|  2:30-3:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | tbd  | tbd |
+|  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | tbd  | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
