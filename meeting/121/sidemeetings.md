@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-12T01:19:08.899Z
+date: 2024-10-12T01:36:42.904Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -94,7 +94,7 @@ Please keep the tables sorted by meeting, by time.
 |     |  |   |   |   |   |   |  |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk   | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?  | TBA   | TBA |
 |     |  |   |   |   |   |   |  |
-| 1600 - 1730 | Wicklow Hall 2A | LLM for Networking | None | cuiyong@tsinghua.edu.cn | TBD | will use the IETF provided Webex | TBD |
+| 1600 - 1730 | Wicklow Hall 2A | LLM for Networking | None | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | TBD | will use the IETF provided Webex | TBD |
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   |   |     |
  |     |  |   |   |   |   |   |  |
