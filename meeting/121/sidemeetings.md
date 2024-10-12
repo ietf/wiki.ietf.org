@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-12T09:11:56.769Z
+date: 2024-10-12T09:15:22.677Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -273,9 +273,9 @@ Location: Second Floor
 | 12:00-12:30 |                       |     AI Control     |  
 | 12:30-13:00 |   Perceptive Routing  |     AI Control     | 
 | 13:00-13:30 |   Perceptive Routing  |     AI Control     | 
-| 13:30-14:00 |   Perceptive Routing  |                    |   
-| 14:00-14:30 |                       |                    |   
-| 14:30-15:00 |                       |                    |    
+| 13:30-14:00 |   Perceptive Routing  | Inter-DC AI Networking |   
+| 14:00-14:30 |                       | Inter-DC AI Networking |   
+| 14:30-15:00 |                       | Inter-DC AI Networking |    
 | 15:00-15:30 |                       |                    |    
 | 15:30-16:00 | **NOT AVAILABLE**    |                    |    
 | 16:00-16:30 | **NOT AVAILABLE**    |                    |    
