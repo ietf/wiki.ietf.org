@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-14T15:58:00.738Z
+date: 2024-10-14T16:01:46.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -81,7 +81,6 @@ Please keep the tables sorted by meeting, by time.
 |13:30-15:00|Wicklow Hall 2A|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |16:00-18:00|Wicklow MR4|AI4NET Update |RTG|c.l@huawei.com|Will invite AI4NET researchers and experts to share the latest research output on AI4NET, and disucss the potential standard work and next step of AI4NET|will use the IETF provided Webex|TBD|
-
 |18:00-19:00|Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments|https://ietf.webex.com/meet/sidemeetingietf1|TBD |
 |     |  |   |   |   |   |   |  |
 {.dense}
