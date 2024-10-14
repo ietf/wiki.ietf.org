@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-14T05:19:13.520Z
+date: 2024-10-14T06:00:48.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -43,6 +43,8 @@ Possible speakers
 |Free|France|-|
 |Swiscomm|Swiss|Thomas Graf presented in IETF 119 BoF|
 |NOIA/Syntropy|Lithuania|-|
+|CESNET|Czech|-|
+|Reformo|Finland|-|
 |MTN|Uganda, SA, Rwanda, Ghana, Cameroon|Zoltan Miklos presented in IETF 119 BoF|
 |VDCOM|Tanzania, Kenya|-|
 |Airtel|Nigeria|-|
@@ -56,7 +58,6 @@ Possible speakers
 |CERNET2| China | - |
 |indosat/IOH|Indonasia|-|
 |XL Axiata|Indonasia|-|
-|indosat|Indonasia|-|
 |indosat|Indonasia|-|
 |Singtel|Singapore, Indonasia|-|
 |Globe|Philippines|-|
