@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-10-08T12:34:07.348Z
+date: 2024-10-15T11:25:44.289Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -75,7 +75,6 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Remarks|Action|
 | --- | --- | --- | ---|
-|draft-ietf-pce-sr-bidir-path|Y|-|-|
 |draft-ietf-pce-sr-path-segment|Y|Has Normative dependencies|-|
 |draft-ietf-pce-circuit-style-pcep-extensions|Y|-|-|
 | draft-ietf-pce-entropy-label-position |N| - | - |
@@ -93,6 +92,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | -07  posted on 2024-03-17 | Missing support for Open message forwarding discussed during WGLC & IETF 119. <br> IANA pre-meeting review : update registry namings | - | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | -08 posted on 2024-01-01 | - | - | - |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Y | -13 posted on 2024-08-12 | Early directorate, outstanding OpsDir comments | - | - |
+|draft-ietf-pce-sr-bidir-path|Y|-|-|-|-|
 
 
 ## Post WG LC Queue  
