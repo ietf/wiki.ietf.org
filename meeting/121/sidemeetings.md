@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-15T08:19:33.514Z
+date: 2024-10-15T08:21:23.275Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -182,8 +182,8 @@ Location: Second Floor
 | 15:30-16:00 |                       |                    |    
 | 16:00-16:30 |                       |                    |    
 | 16:30-17:00 |                       |                    |    
-| 17:00-17:30 |                       | Perceptive Routing |    
-| 17:30-18:00 |                       | Perceptive Routing |    
+| 17:00-17:30 |  Perceptive Routing   |                    |    
+| 17:30-18:00 |  Perceptive Routing   |                    |    
 | 18:00-18:30 |                       |                    |    
 | 18:30-19:00 |                       |                    |    
 | 19:00-19:30 |                       |                    |    
