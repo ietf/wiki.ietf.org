@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-15T00:38:14.014Z
+date: 2024-10-15T06:12:41.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -117,7 +117,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|    10:00-11:30 | WMR 4 | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
+|    10:00-11:30 | Wicklow Hall 2A | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com | Discuss Inter-DC AI Networking Challenges | tbd | tbd |
 |12:30-14:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
