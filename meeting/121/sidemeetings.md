@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-15T06:12:41.011Z
+date: 2024-10-15T08:18:49.455Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -80,7 +80,7 @@ Please keep the tables sorted by meeting, by time.
 |12:30-13:25|Wicklow Hall 2A|Originator Profile| |shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow Hall 2A|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
-|16:00-18:00|Wicklow MR4|AI4NET Update |RTG|c.l@huawei.com|Will invite AI4NET researchers and experts to share the latest research output on AI4NET, and disucss the potential standard work and next step of AI4NET|will use the IETF provided Webex|TBD|
+|16:00-17:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
 |18:00-19:00|Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments|https://ietf.webex.com/meet/sidemeetingietf1|TBD |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -120,7 +120,7 @@ Please keep the tables sorted by meeting, by time.
 |    10:00-11:30 | Wicklow Hall 2A | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com | Discuss Inter-DC AI Networking Challenges | tbd | tbd |
-|12:30-14:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
+
 | 18:00-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -180,10 +180,10 @@ Location: Second Floor
 | 14:30-15:00 | UNS-UCA Update        |   Deepspace        |    
 | 15:00-15:30 |                       |                    |    
 | 15:30-16:00 |                       |                    |    
-| 16:00-16:30 |                       |   AI4NET           |    
-| 16:30-17:00 |                       |   AI4NET           |    
-| 17:00-17:30 |                       |   AI4NET           |    
-| 17:30-18:00 |                       |   AI4NET           |    
+| 16:00-16:30 |                       |                    |    
+| 16:30-17:00 |                       |                    |    
+| 17:00-17:30 |                       | Perceptive Routing |    
+| 17:30-18:00 |                       | Perceptive Routing |    
 | 18:00-18:30 |                       |                    |    
 | 18:30-19:00 |                       |                    |    
 | 19:00-19:30 |                       |                    |    
