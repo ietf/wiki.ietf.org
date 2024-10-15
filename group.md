@@ -303,3 +303,5 @@ The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/tra
 {.links-list}
 - [enterprise *Enterprise scenario and deployment discussions*](/group/enterprise)
 {.links-list}
+- [pq-dnssec *PQ DNSSEC Research*](/group/pq-dnssec)
+{.links-list}
