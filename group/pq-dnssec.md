@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2024-10-15T22:48:08.507Z
+date: 2024-10-15T22:56:46.054Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -42,3 +42,17 @@ SIDN Labs has developed the Post-quantum Algorithm Testing and Analysis for the 
 
 ## Agenda
 Figure out where to live.
+
+## Notes
+There were about 20 people present (more than we expected).
+
+Apologies for the lack of remote participation -- we were under the impression the session was established when it was actually only the preview.
+
+Below are some notes from the meeting, but they only cover major points, not the entire discussion.
+
+We briefly discussed some of the concerns that Colin (IRTF Chair) has voiced earlier:
+- It's clear that there is work to be done in this area, but not sure if fits with the IRTF.
+- The narrow scope of the proposed RG.
+- The expected run-time of the proposed RG (which might be significantly shorter than the typical WG).
+
+After some discussion, we have arrived at a different approach: we'll create a non-WG mailing list at the IETF, do work in side meetings, and start tackling work as we see fit. The idea is that later, after a few meetings, we can evaluate the work that has taken place and see if it looks like an RG, or more like a WG (or neither).
