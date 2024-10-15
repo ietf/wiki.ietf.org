@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-15T08:21:23.275Z
+date: 2024-10-15T08:23:03.457Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -120,7 +120,6 @@ Please keep the tables sorted by meeting, by time.
 |    10:00-11:30 | Wicklow Hall 2A | PQ DNSSEC Research | SEC | peter@desec.io | tbd | tbd | tbd ||     |  |   |   |   |   |   |  |
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com | Discuss Inter-DC AI Networking Challenges | tbd | tbd |
-
 | 18:00-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -271,9 +270,9 @@ Location: Second Floor
 | 11:00-11:30 |                       | PQ DNSSEC Research |    
 | 11:30-12:00 |                       |     AI Control     |  
 | 12:00-12:30 |                       |     AI Control     |  
-| 12:30-13:00 |   Perceptive Routing  |     AI Control     | 
-| 13:00-13:30 |   Perceptive Routing  |     AI Control     | 
-| 13:30-14:00 |   Perceptive Routing  | Inter-DC AI Networking |   
+| 12:30-13:00 |                       |     AI Control     | 
+| 13:00-13:30 |                       |     AI Control     | 
+| 13:30-14:00 |                       | Inter-DC AI Networking |   
 | 14:00-14:30 |                       | Inter-DC AI Networking |   
 | 14:30-15:00 |                       | Inter-DC AI Networking |    
 | 15:00-15:30 |                       |                    |    
