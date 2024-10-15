@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2024-10-15T13:50:25.960Z
+date: 2024-10-15T13:53:42.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -16,9 +16,15 @@ Documents:
 # IETF 121 Side Meeting
 - Thursday, Nov 7, 2024 10:00-11:30 UTC
 
-## Agenda:
+## Agenda
 - 5' Note Well / Agenda Bashing
 - 15'+q Swapneel Sheth and Joe Harvey (Verisign): Merkle Tree approach I
 - 20'+q Jason Goertzen (SandboxAQ): Merkle Tree approach II
 - 20'+q Ralph Koning (SIDN): PATAD testbed
 - Open Discussion / AOB
+
+# IETF 120 Side Meeting
+- Monday, July 22, 2024 11:00-11:30 PDT
+
+## Agenda
+Figure out where to live.
