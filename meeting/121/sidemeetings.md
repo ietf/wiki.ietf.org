@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-14T16:01:46.123Z
+date: 2024-10-15T00:37:01.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -214,7 +214,7 @@ Location: Second Floor
 | 15:00-15:30 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
 | 15:30-16:00 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
 | 16:00-16:30 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
-| 16:30-17:00 |                       |                    |    
+| 16:30-17:00 |                       | Blockchain standards search |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
 | 18:00-18:30 |                       | Enterprise Network |    
