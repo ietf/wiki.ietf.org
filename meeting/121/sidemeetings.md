@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-16T07:33:02.330Z
+date: 2024-10-16T12:05:28.051Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -83,6 +83,8 @@ Please keep the tables sorted by meeting, by time.
 |17:00-18:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
 |18:00-19:00|Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org|https://ietf.webex.com/meet/sidemeetingietf1|TBD |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
+| 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | TBD  |   |     |
+
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -186,8 +188,8 @@ Location: Second Floor
 | 17:30-18:00 |  Perceptive Routing   |                    |    
 | 18:00-18:30 |                       |    IHL Foundations |    
 | 18:30-19:00 |                       |    IHL Foundations |    
-| 19:00-19:30 |                       |                    |    
-| 19:30-20:00 |                       |                    |    
+| 19:00-19:30 |   NASR                |                    |    
+| 19:30-20:00 |   NASR                |                    |    
 | 20:00-20:30 | **NOT AVAILABLE**     | **NOT AVAILABLE**  |  
 {.dense}
 
