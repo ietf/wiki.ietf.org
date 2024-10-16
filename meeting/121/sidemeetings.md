@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-16T20:25:05.819Z
+date: 2024-10-16T20:25:48.807Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -80,7 +80,7 @@ Please keep the tables sorted by meeting, by time.
 |12:30-13:25|Wicklow Hall 2A|Originator Profile| |shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow Hall 2A|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
-|15: 00-15:30| WH2A|DKIM2|ART|johnl@taugh.com|New version of the DKIM protocol|TBD||
+|15: 00-15:30| Wicklow Hall 2A|DKIM2|ART|johnl@taugh.com|New version of the DKIM protocol|TBD||
 |17:00-18:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
 | 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | TBD  |   |     |
