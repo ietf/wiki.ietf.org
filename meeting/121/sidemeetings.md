@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-15T15:56:26.358Z
+date: 2024-10-16T01:23:15.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -95,7 +95,7 @@ Please keep the tables sorted by meeting, by time.
 |     |  |   |   |   |   |   |  |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk   | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?  | TBA   | TBA |
 |     |  |   |   |   |   |   |  |
-| 1500 - 1630 | Wicklow Hall 2A | LLM for Networking | None | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | TBD | will use the IETF provided Webex | TBD |
+| 1500 - 1630 | Wicklow Hall 2A | Large Language Models for Networking |  | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | Exploring how large language model technology can enhance network tasks and discussing related network standards | will use the IETF provided Webex | TBA |
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | TBD | TBD | 
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   |   |     |
