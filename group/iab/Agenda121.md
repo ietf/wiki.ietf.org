@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-16T14:40:40.181Z
+date: 2024-10-16T14:43:18.240Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -16,7 +16,7 @@ dateCreated: 2024-10-01T22:17:54.039Z
 * NEMOPS Workshop (Sunday?)
 * Planning for Outreach activity at APRICOT2025/APNIC59
 * Geo IP topics (technical discussion, Tommy/David)
-* Liaison RFC updates (Mirja/Suresh)
+* Liaison RFC updates 4052/4053 (Mirja/Suresh)
 
 
 # Agenda121
