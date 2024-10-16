@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-16T20:25:48.807Z
+date: 2024-10-16T20:27:41.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -180,7 +180,7 @@ Location: Second Floor
 | 13:30-14:00 | UNS-UCA Update        |   Deepspace        |    
 | 14:00-14:30 | UNS-UCA Update        |   Deepspace        |    
 | 14:30-15:00 | UNS-UCA Update        |   Deepspace        |    
-| 15:00-15:30 |       DKIM2           |                    |    
+| 15:00-15:30 |                       |   DKIM2            |    
 | 15:30-16:00 |                       |                    |    
 | 16:00-16:30 |                       |                    |    
 | 16:30-17:00 |                       |                    |    
