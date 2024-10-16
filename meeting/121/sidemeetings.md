@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-16T16:07:09.897Z
+date: 2024-10-16T18:07:10.652Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -81,7 +81,6 @@ Please keep the tables sorted by meeting, by time.
 |13:30-15:00|Wicklow Hall 2A|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |17:00-18:00| WMR 4  |  Perceptive Routing | RTG  | gengxuesong@huawei.com  | TBD  |   |  |
-|18:00-19:00|Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org|https://ietf.webex.com/meet/sidemeetingietf1|TBD |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
 | 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | TBD  |   |     |
 
@@ -101,7 +100,7 @@ Please keep the tables sorted by meeting, by time.
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | TBD | TBD | 
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
-| 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|AI/ML Networking Meeting cont'd  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
+| 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
 {.dense}
 
 ### [WEDNESDAY 6 November](#meeting-wednesday)
