@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-02T20:35:50.039Z
+date: 2024-10-16T10:14:02.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -14,6 +14,7 @@ dateCreated: 2024-10-01T22:17:54.039Z
 * ISOC Policy Program/Roundtable Update (Olaf - Tuesday?)
 * ICANN Board Liaison Coordination with Dave Lawrence (Tuesday?)
 * NEMOPS Workshop (Sunday?)
+* Planning for Outreach activity at APRICOT2025/APNIC59
 
 
 # Agenda121
