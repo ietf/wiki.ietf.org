@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-12T13:45:15.127Z
+date: 2024-10-16T18:31:09.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -359,6 +359,21 @@ Henry Yu (hyu2010b@gmail.com)
   - https://datatracker.ietf.org/doc/html/draft-ietf-ccamp-otn-topo-yang
 
 ---
+### Low-Latency, Low-Loss, Scalable Throughput (L4S)  and Accurate ECN Interop
+- **Champions**
+Greg White (g.white at cablelabs.com)
+- **Project Info**
+
+  - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in a nearby room for the rest of the week.
+- **Specifications**
+  - https://datatracker.ietf.org/doc/rfc9330/
+  - https://datatracker.ietf.org/doc/rfc9331/
+  - https://datatracker.ietf.org/doc/rfc9332/
+  - https://datatracker.ietf.org/doc/html/draft-ietf-tcpm-accurate-ecn-30
+ 
+----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
