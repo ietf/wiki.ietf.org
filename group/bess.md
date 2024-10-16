@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-10-02T19:45:53.770Z
+date: 2024-10-16T00:19:39.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -182,12 +182,15 @@ Shepherd's name indicated within parenthesis.
 * draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
   - the above two should be considered together
   - Action: Matthew and Stephane to review both and come with a conclusion
+  - Jeffrey: no follow-up from the draft-duan-bess-mvpn-ipv6-infras authors. Current plan is to fold the solution in draft-zzhang for the common problem into rfc6514bis, so the adoption of the above two drafts could be tabled for now.
 * draft-wang-bess-mvpn-upstream-df-selection  
 * draft-burdet-bess-evpn-fast-reroute:
 	- no active discussion
+  - need to resolve a discussion related to draft-liu-bess-srv6-service-sid-nffrr-flag
   - will require joint calls with SPRING
 * draft-kaliraj-bess-bgp-sig-private-mpls-labels
   - Needs MPLS and IDR review
+  - Jeffrey is discussing with the IDR chair Jeff Haas
 
 * draft-mackenzie-bess-evpn-l3mh-proto (Jeffrey)
   - update may be needed - depending on ac-aware-bundling discussions
