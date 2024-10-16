@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-14T06:01:37.317Z
+date: 2024-10-16T11:11:00.409Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -18,6 +18,10 @@ Possible speakers
 
 * Martin Gysi - Swisscom <martin.gysi@swisscom.com>
 * Thomas Graf - Swisscom
+* Jiangang Lu - China Southern Power Grid
+* Dan B - Bell 
+
+Send a response for draft presentations
 
 ### IETF 122 - Bangkok
 
