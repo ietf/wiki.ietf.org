@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-16T15:05:58.491Z
+date: 2024-10-16T15:06:44.552Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -13,7 +13,7 @@ dateCreated: 2024-10-01T22:17:54.039Z
 * Executive Session: IRTF Chair Appointment (Thursday)
 * ISOC Policy Program/Roundtable Update (Olaf - Tuesday)
 * ICANN Board Liaison Coordination with Dave Lawrence (Tuesday)
-* NEMOPS Workshop (Sunday?)
+* NEMOPS Workshop (Sunday -- joint session?)
 * Planning for Outreach activity at APRICOT2025/APNIC59
 * Geo IP topics (technical discussion, Tommy/David, Sunday)
 * Liaison RFC updates 4052/4053 (Mirja/Suresh, Sunday)
