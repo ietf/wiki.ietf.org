@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-16T11:11:00.409Z
+date: 2024-10-16T11:13:08.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -88,10 +88,10 @@ Possible speakers
 ## Chair's Tracker
 
 ### Yet to start
-- Planning for IETF 121
-  
+-   
 ### Ongoing
-
+- IETF 121 agenda setting
+- IETF 121 public side meetings for drafts
 ### Completed 
 - Handle the mailing list subscription and next step for the bof list
 - Send a welcome email
