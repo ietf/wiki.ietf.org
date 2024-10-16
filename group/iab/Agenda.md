@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-10-11T19:20:50.064Z
+date: 2024-10-16T14:30:03.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -133,9 +133,9 @@ In Progress:
 *  EODir Liaison Report
 *  IANA Liaison Report - written report received
 *  ICANN Liaison Report
-*  IRTF Chair Report
+*  IRTF Chair Report - - written report received
 *  ISOC Liaison Report
-*  IAB Outreach Coordinator Report
+*  IAB Outreach Coordinator Report - - written report received
 *  Tools Liaison Report
 
 ### 3. BOF Coverage at IETF 121 (All) - 10 mins (Public)
