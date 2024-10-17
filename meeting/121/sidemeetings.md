@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-17T17:55:18.771Z
+date: 2024-10-17T17:57:11.601Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -248,9 +248,9 @@ Location: Second Floor
 | 14:00-14:30 |                       |                    |    
 | 14:30-15:00 |                       |  SUSTAIN RG        |    
 | 15:00-15:30 |                       |  SUSTAIN RG        |    
-| 15:30-16:00 |                       |                    |    
-| 16:00-16:30 |                       |                    |    
-| 16:30-17:00 |                       |                    |    
+| 15:30-16:00 |                       | Coherent Pluggable |    
+| 16:00-16:30 |                       | Coherent Pluggable |    
+| 16:30-17:00 |                       | Coherent Pluggable |    
 | 17:00-17:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 17:30-18:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 18:00-18:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
