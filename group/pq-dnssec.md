@@ -2,26 +2,26 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2024-10-15T22:56:46.054Z
+date: 2024-10-17T09:07:18.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
 ---
 
-This wiki page is designated to collecting information relevant to the non-wg mailing list pq-dnssec@ietf.org on post-quantum DNSSEC research.
+This wiki page is designated to collecting information relevant to the non-wg mailing list pq-dnssec@ietf.org ([mailman](https://mailman3.ietf.org/mailman3/lists/pq-dnssec.ietf.org/)) on post-quantum DNSSEC research.
 
 Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
 
 # IETF 121 Side Meeting
-- Thursday, Nov 7, 2024 10:00-11:30 UTC
+Thursday, Nov 7, 2024 10:00-11:30 UTC ([information about room and online participation](https://wiki.ietf.org/en/meeting/121/sidemeetings#meeting-thursday))
 
 ## Agenda
 
 - 5' Note Well / Agenda Bashing
 - 15'+q Swapneel Sheth and Joe Harvey (Verisign): PQ DNSSEC with MTL Mode
 - 15'+q Jason Goertzen (SandboxAQ): Field study on mitigating the costs of Post-Quantum DNSSEC with Merkle Trees
-- 20'+q Ralph Koning (SIDN): A testbed to evaluate post-quantum cryptography in DNSSEC
+- 20'+q Ralph Koning (SIDN Labs): A testbed to evaluate post-quantum cryptography in DNSSEC
 - Open Discussion / AOB
 
 ### Swapneel Sheth, Joe Harvey: PQ DNSSEC with MTL Mode
@@ -38,7 +38,7 @@ SIDN Labs has developed the Post-quantum Algorithm Testing and Analysis for the 
 
 
 # IETF 120 Side Meeting
-- Monday, July 22, 2024 11:00-11:30 PDT
+Monday, July 22, 2024 11:00-11:30 PDT
 
 ## Agenda
 Figure out where to live.
