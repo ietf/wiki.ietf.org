@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-16T21:28:15.064Z
+date: 2024-10-17T18:09:44.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -388,6 +388,22 @@ Greg White (g.white at cablelabs.com)
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  
+---
+### Congestion control testing
+- **Champions**
+  - Reese Enghardt (ietf@tenghardt.net)
+- **Related Groups**
+  - [Internet Congestion Control Research Group (ICCRG)](https://datatracker.ietf.org/rg/iccrg/about/)
+  - [Congestion Control Working Group (CCWG)](https://datatracker.ietf.org/group/ccwg/about/)
+  - [Transport and Services Working Group (TSVWG)](https://datatracker.ietf.org/wg/tsvwg/about/)
+- **Project Info**
+  - Build tooling and test congestion control algorithms and other related proposals, including those discussed in CCWG, ICCRG, or TSVWG
+  - Potential project ideas:
+    - Test congestion control proposals in simulated or emulated environments or in the field
+    - Refine tooling such as the [ns-3 simulator](https://www.nsnam.org/) to support congestion control testing better
+    - Design a suite of test cases based on [5033bis, the proposed new BCP on Specifying New Congestion Control Algorithms](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) 
+  
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
