@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-18T08:53:11.473Z
+date: 2024-10-18T09:25:06.676Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -112,7 +112,7 @@ Please keep the tables sorted by meeting, by time.
 | 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
 |     |  |   |   |   |   |   |  |
 |  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
-|  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  IRTF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
+|  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  RTG,IETF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
