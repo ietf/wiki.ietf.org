@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-16T11:13:08.112Z
+date: 2024-10-18T07:31:12.870Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -17,18 +17,20 @@ dateCreated: 2024-07-12T14:22:53.552Z
 Possible speakers
 
 * Martin Gysi - Swisscom <martin.gysi@swisscom.com>
-* Thomas Graf - Swisscom
 * Jiangang Lu - China Southern Power Grid
 * Dan B - Bell 
 
+* Options: 1- Iliad, ~~2-Orange,~~ 3- Gyan, 4- Thomas,  5- China Telecom, 6-Softbank (10-15)
 Send a response for draft presentations
 
 ### IETF 122 - Bangkok
 
 Possible speakers
 
-* ?? - Jio
+
 * Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
+* Nicolai Leymann - DT (focus on address planning and preparing for deployment)
+* ?? - Jio
 
 ### Past 
 #### IETF 120 - Vancouver
