@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-10-16T14:30:03.433Z
+date: 2024-10-18T17:22:17.553Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-10-16 0730 PDT (UTC-7) 
+## IAB Agenda: 2024-11-20 0700 PST (UTC-8) 
 
-*Agenda as of 2024-10-11. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-10-18. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -30,8 +30,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.2. Agenda bash and announcements 
 
 #### 1.3. Meeting Minutes 
-* 2024-09-25 technical discussion - (submitted 2024-09-25)
-* 2024-10-02 business meeting - (submitted 2024-10-02)
+* 2024-10-16 business meeting (posted 2024-10-16)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -108,17 +107,7 @@ In Progress:
     IESG Telechat: (2024-10-17)
     IAB Reviewer: Mirja Kühlewind
 
-*  MODeration PrOceDures (MODPOD)
-    Area: GEN
-    Approved pending chair selection
-    IESG Telechat: (none)
-    IAB Reviewer: Qin Wu (Review sent 2024-09-11)
 
-*  Standard Communication with Network Elements (SCONE)
-    Area: WIT
-    External Review
-    IESG Telechat: (2024-10-17)
-    IAB Reviewer: Suresh Krishnan
 
 #### 1.7 IAB Appointments
 
@@ -128,52 +117,11 @@ In Progress:
 *  ISOC Board of Trustees - Call for Nominations will start mid-
     November
 
-### 2. Monthly Written Reports and Other Brief Updates
-
-*  EODir Liaison Report
-*  IANA Liaison Report - written report received
-*  ICANN Liaison Report
-*  IRTF Chair Report - - written report received
-*  ISOC Liaison Report
-*  IAB Outreach Coordinator Report - - written report received
-*  Tools Liaison Report
-
-### 3. BOF Coverage at IETF 121 (All) - 10 mins (Public)
-
-  Wiki: https://wiki.ietf.org/group/iab/Bof121
-
-*  High Performance Wide Area Network (HPWAN) - WIT
-*  Digital Emblems (DIEM) - INT
-*  RESTful Provisioning Protocol (RPP) - ART
-*  Deepspace (DEEPSPACE) - INT
-
-
-### 4. IAB Agenda at IETF 121 (All) - 10 mins (Public)
-
-  Goal: Confirm schedule, brainstorm agenda topics
-
-  Wiki: https://wiki.ietf.org/en/group/iab/Agenda121
-
-
-### 5. IAB Open Session at IETF 121 (Tommy, Matthew) - 5 mins (Public)
-
-  Goal: Agenda refinement, guest speaker
-
-
-### 6. ISOC Board of Trustees Appointment (Cindy) - 5 mins (Public)
-
-  Goal: Review timeline and process
-
-
-### 7. Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2024-10-23?
 
 ## Upcoming Teleconferences 
 
 * 2024-10-23: IAB Technical Discussion (Reserved)
 
--- 2024-11-02 - 2024-11-08: IETF 121 Dublin --
 
 *Note: Call time changes to 0700 PST after 2024-11-02*
 
@@ -181,7 +129,7 @@ In Progress:
     * Monthly Reports
 * 2024-11-27: IAB Business Meeting (Reserved)
 * 2024-12-04: IAB Business Meeting
-* 2024-12-11: IAB Technical Discussion (Reserved)
+* 2024-12-11: IAB Technical Discussion: Global Digital Justice Forum
 * 2024-12-18: IAB Business Meeting
     * Monthly Reports
 
