@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-19T12:45:11.356Z
+date: 2024-10-19T13:01:17.302Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -444,7 +444,6 @@ https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
 https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
 https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
 https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-yang-push-observation-time
-https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-kafka-integration
 
 - **Project Info**
 Validate three YANG-Push configured subscription vendor implementations in terms of configuring periodical and on-change subscriptions and validating subscription state change and push-update and push-change-update notifications according to RFC 8639 and 8641. 
@@ -455,6 +454,24 @@ Validate first YANG-Push extensions enabling Apache Kafka integration according 
 
 - **Repository**
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/121/Hackathon
+
+
+---
+### YANG-Push to Message Broker Integration
+- **Champion(s)**
+Ahmed Elhassany (ahmed.elhassany at swisscom.com)
+Alex Huang-Feng (alex.huang-feng at insa-lyon.fr)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-kafka-integration
+https://datatracker.ietf.org/doc/html/draft-aelhassany-anydata-validation
+
+- **Project Info**
+draft-aelhassany-anydata-validation implemented in YANG schema registry and message broker YANG data producer and consumer. 
+
+
+- **Repository**
+
 
 
 ---
