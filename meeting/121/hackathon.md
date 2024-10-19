@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-17T18:09:44.759Z
+date: 2024-10-19T12:45:11.356Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -403,7 +403,91 @@ Greg White (g.white at cablelabs.com)
     - Test congestion control proposals in simulated or emulated environments or in the field
     - Refine tooling such as the [ns-3 simulator](https://www.nsnam.org/) to support congestion control testing better
     - Design a suite of test cases based on [5033bis, the proposed new BCP on Specifying New Congestion Control Algorithms](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) 
-  
+
+---
+### Validate BMP Extension for Path Status TLV
+- **Champion(s)**
+Paolo Lucente (paolo @ pmacct.net)
+Maxence Younsi (maxence.younsi @ insa-lyon.fr)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+Thomas Graf (thomas.graf @ swisscom.com)
+Daniel Voyer (daniel.voyer @ bell.ca)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/draft-ietf-grow-bmp-tlv
+https://datatracker.ietf.org/doc/html/draft-ietf-grow-bmp-path-marking-tlv
+
+- **Project Info**
+Validate  BMP Extension for Path Status TLV implementation in frrouting, Wireshark dissector and pmacct.
+
+- **Repository**
+https://github.com/mxyns/frr/tree/bmp-draft-path-marking
+https://github.com/network-analytics/wireshark/tree/draft-cppy-grow-bmp-path-marking-tlv
+https://github.com/pmacct/pmacct
+
+
+---
+### Validate Configured Subscription YANG-Push Publisher Implementations
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+Daniel Voyer (daniel.voyer @ bell.ca)
+Holger Keller (holger.keller @ telekom.de)
+Rob Wilton (rwilton @ cisco.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/draft-ahuang-netconf-notif-yang
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-notif-sequencing
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-tgraf-netconf-yang-push-observation-time
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-kafka-integration
+
+- **Project Info**
+Validate three YANG-Push configured subscription vendor implementations in terms of configuring periodical and on-change subscriptions and validating subscription state change and push-update and push-change-update notifications according to RFC 8639 and 8641. 
+
+Validate draft-ietf-netconf-udp-notif and draft-ietf-netconf-distributed-notif packet format on the wire.
+
+Validate first YANG-Push extensions enabling Apache Kafka integration according to draft-ietf-nmop-yang-kafka-integration.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/121/Hackathon
+
+
+---
+### Implement find relationship solution with Augmented-by list in ietf-yang-library
+- **Champion(s)**
+Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
+Benoit Claise (benoit.claise @ huawei.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentedby/
+
+- **Project Info**
+Validate based on draft-ietf-netconf-yang-notifications-versioning that with draft-lincla-netconf-yang-library-augmentedby all datastore-subtree-filter or datastore-xpath-filter referenced YANG modules and their dependencies can be fully identified.
+
+- **Repository**
+https://github.com/network-analytics/libyangpush
+https://github.com/Zephyre777/draft-lincla-netconf-yang-library-augmentation.git
+
+----
+### Antagonist (ANomaly TAGging ON hISTorical data)
+- **Champions**
+	- Vincenzo Riccobene (vincenzo.riccobene@huawei-partners.com)
+	- Wanting (Wanting.Du@swisscom.com)
+- **Project Info**
+Antagonist is a tool supporting the tagging of historical timeseries data. This is envisioned to support Network Anomaly Detection and it is created with the purpose of supporting network operators tagging their data with network anomaly related metadata.
+- **Hackathon plan**
+Antagonist currently exists as a PoC. The objective for this hackathon is to improve the system design, extend the validation of the models defined in the drafts below, and showcase integration with third parties components.
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-semantics/
+	- https://datatracker.ietf.org/doc/draft-netana-nmop-network-anomaly-lifecycle/
+- **Repositories**
+  Github repo: https://github.com/vriccobene/antagonist
+
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
