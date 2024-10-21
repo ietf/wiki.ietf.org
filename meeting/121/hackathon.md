@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-21T20:57:55.306Z
+date: 2024-10-21T23:07:55.168Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -530,7 +530,19 @@ This is a continuation of the work we did during the IETF 119 and 120 Hackathons
   
 - **Repositories**
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
-  
+
+---
+
+### rpki-rtr updates
+- **Champions**
+  - Tom Harrison <tomh@apnic.net>
+- **Project Info**
+  - Proof of concept updates for draft-ietf-sidrops-8210bis.
+- **Specifications**
+  - [draft-ietf-sidrops-8210bis](https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/)  
+- **Repositories**
+  - https://github.com/APNIC-net/rpki-rtr-demo
+
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
