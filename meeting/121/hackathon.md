@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-21T18:45:57.766Z
+date: 2024-10-21T20:53:56.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -507,6 +507,28 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 - **Repositories**
   Github repo: https://github.com/vriccobene/antagonist
 
+----
+
+### Automatic DNS Delegation Synchronization Using DNS UPDATE
+- **Champions**
+  - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
+- **Project Info**
+Add new functionality to a working open source nameserver implementation (called "TDNS", written in Go) to
+provide fully automatic management of delegation information between child zones (both
+DNSSEC-signed and unsigned) and parent zones.
+
+This is a continuation of the work we did during the IETF 119 and 120 Hackathons.
+
+    Detailed project suggestions: https://github.com/johanix/hackathon121/
+    
+- **Specifications**
+  - [draft-ietf-dnsop-generalized-notify](https://tools.ietf.org/html/draft-ietf-dnsop-generalized-notify)
+  - [draft-johani-dnsop-delegation-mgmt-via-ddns](https://tools.ietf.org/html/draft-johani-dnsop-delegation-mgmt-via-ddns)
+  - [draft-berra-dnsop-keystate](https://tools.ietf.org/html/draft-berra-dnsop-keystate)
+  
+- **Repositories**
+  Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
+  
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
