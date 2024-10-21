@@ -2,7 +2,7 @@
 title: Code Lounge
 description: Schedule for Code Lounge
 published: true
-date: 2024-10-10T19:26:27.956Z
+date: 2024-10-21T23:03:19.851Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T19:26:27.956Z
@@ -19,10 +19,10 @@ Please sign up for a time slot below by entering your working group or Hackathon
 
 |       | Monday | Tuesday | Wednesday | Thursday | Friday |  
 |-------|------|------|------|------|------|
-| 08:00 |      |      |      |      |      |
-| 10:00 |      |      |      |      |      |
-| 12:00 |      |      |      |      |      |    
-| 14:00 |      |      |      |      | **Lounge Closed** |
-| 16:00 |      |      |      |      | **Lounge Closed** |       
-| 18:00 |      |      |      |      | **Lounge Closed** |  
+| 08:00 |  L4S    | L4S     | L4S     | L4S     |      |
+| 10:00 |  L4S    | L4S     | L4S     | L4S     |      |
+| 12:00 |  L4S    | L4S     | L4S     | L4S     |      |    
+| 14:00 |  L4S    | L4S     | L4S     | L4S     | **Lounge Closed** |
+| 16:00 |  L4S    | L4S     | L4S     | L4S     | **Lounge Closed** |       
+| 18:00 |  L4S    | L4S     | L4S     | L4S     | **Lounge Closed** |  
 | 20:00 |      |      |      |      | **Lounge Closed** |
