@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-19T13:01:17.302Z
+date: 2024-10-21T18:45:57.766Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -332,9 +332,11 @@ There is also interest in setup and testing the use of hybrid certificates for t
   - Malte Bauch (Malte.Bauch at h-da.de)
   - Neil Schark (Neil.Schark at h-da.de)
   - Johanna Henrich (Johanna.Henrich at h-da.de)
+- **Internet Draft**
+	- https://datatracker.ietf.org/doc/draft-danet-qkdn-considerations/
 - **Project Info**
 	- A first attempt to define and implement protocols for control and management of QDKNs, i.e., between two adjacent Key Management Systems (KMS) and between a network controller and the KMS. 
-  - More information to come soon.
+
 
 ---
 
