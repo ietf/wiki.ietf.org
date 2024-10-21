@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-18T10:33:03.154Z
+date: 2024-10-21T14:21:21.211Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -84,8 +84,6 @@ Please keep the tables sorted by meeting, by time.
 |17:00-18:00| WMR 4  |  Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies in the presence of varying traffic demands |   |  |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
 | 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | TBD  |   |     |
-
-|     |  |   |   |   |   |   |  |
 {.dense}
 
 
