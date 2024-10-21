@@ -19,7 +19,7 @@ Wikis are used by participants to share information about and coordinate around 
 #### IETF 121 Dublin
 **November 2-8, 2024** - :ireland: Dublin, Ireland
 - [IETF 121 Meeting Wiki](/meeting/121)
-- IETF 121 Side Meetings
+- [IETF 121 Side Meetings](/meeting/121/sidemeetings)
 - [IETF 121 Hackathon](/meeting/121/hackathon)
 {.links-list}
 
