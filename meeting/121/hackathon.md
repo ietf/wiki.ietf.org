@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-21T20:53:56.128Z
+date: 2024-10-21T20:57:55.306Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -516,6 +516,8 @@ Antagonist currently exists as a PoC. The objective for this hackathon is to imp
 Add new functionality to a working open source nameserver implementation (called "TDNS", written in Go) to
 provide fully automatic management of delegation information between child zones (both
 DNSSEC-signed and unsigned) and parent zones.
+
+This time we will look at implementing a new EDNS(0) option called KeyState (see the keystate draft below) which will be used to augment the communication between child and parent to allow more detailed expression of the state of the SIG(0) keys used for signing and validating DNS UPDATEs.
 
 This is a continuation of the work we did during the IETF 119 and 120 Hackathons.
 
