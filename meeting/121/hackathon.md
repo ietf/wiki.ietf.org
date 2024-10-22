@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-21T23:07:55.168Z
+date: 2024-10-22T09:59:20.554Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -216,6 +216,29 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis
   
 ---
+
+
+----
+
+### SW103K and Havi Expansion Protocols
+Champions
+Chazah Group (chief3@chazahgroup.org)
+
+Project Info
+The SW103K project is a cutting-edge compression and decompression protocol designed to enhance data transmission efficiency in high-throughput networking environments. By leveraging advanced algorithms, SW103K reduces data packet sizes while maintaining optimal speed and security, making it ideal for applications that handle large volumes of data, such as cloud services, streaming, and data centers. The protocol adapts dynamically to fluctuating network conditions, maximizing bandwidth utilization and minimizing latency, while ensuring data integrity during transmission. The project has been submitted as an Internet-Draft to the IETF to foster collaboration, testing, and adoption within various networking infrastructures, with a focus on scalability, reliability, and security in modern data transport systems.
+
+specification:
+URL:      https://www.ietf.org/archive/id/draft-rfcxml-rfc-swl-103k-02.txt
+Status:   https://datatracker.ietf.org/doc/draft-rfcxml-rfc-swl-103k/
+HTML:     https://www.ietf.org/archive/id/draft-rfcxml-rfc-swl-103k-02.html
+HTMLized: https://datatracker.ietf.org/doc/html/draft-rfcxml-rfc-swl-103k
+Diff:     https://author-tools.ietf.org/iddiff?url2=draft-rfcxml-rfc-swl-103k-02
+
+Repositories
+Github repo: https://github.com/chazahgroup/expansion
+
+----
+
 
 ### Key Update for OSCORE using KUDOS
 
@@ -530,19 +553,7 @@ This is a continuation of the work we did during the IETF 119 and 120 Hackathons
   
 - **Repositories**
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
-
----
-
-### rpki-rtr updates
-- **Champions**
-  - Tom Harrison <tomh@apnic.net>
-- **Project Info**
-  - Proof of concept updates for draft-ietf-sidrops-8210bis.
-- **Specifications**
-  - [draft-ietf-sidrops-8210bis](https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/)  
-- **Repositories**
-  - https://github.com/APNIC-net/rpki-rtr-demo
-
+  
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
