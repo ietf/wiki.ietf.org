@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-22T09:59:20.554Z
+date: 2024-10-22T10:05:10.498Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -553,6 +553,20 @@ This is a continuation of the work we did during the IETF 119 and 120 Hackathons
   
 - **Repositories**
   Github repo for the code we will use as a starting point: (https://github.com/johanix/tdns)
+
+---
+
+### NIPC in ASDF
+- **Champions**
+  - Bart Brinckman <bbrinckm@cisco.com>
+  - Ari Keranen <ari.keranen@ericsson.com>
+- **Project Info**
+  - NIPC in SDF: Work on NIPC integration in SDF: Specify how NIPC integrates into SDF, create a few sample models, build a library/sample app that ingests a SDF model with NIPC integration.
+- **Specifications**
+  - [draft-ietf-asdf-sdf](https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf/)
+  - [draft-ietf-asdf-nipc](https://datatracker.ietf.org/doc/draft-ietf-asdf-nipc/)
+- **Repositories**
+  - https://github.com/iot-onboarding/non-ip-iot-control
   
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
