@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-22T15:35:36.603Z
+date: 2024-10-22T19:13:30.734Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -602,6 +602,18 @@ Following-up from the IETF-120 Hackathon “Exploring Implementation Approaches 
 - **Related Groups**
 	- DNS Operations (DNSOP) Working Group
 	- Crypto Forum Research Group (CFRG)
+
+### NTPv5 and NTS for PTP
+- **Champions**
+	- Karen O’Donoghue (kodonog@pobox.com)
+	- Dieter Sibold (dsibold.ietf@gmail.com)
+
+- **Project Info**
+	- Interoperability testing between different NTPv5 implementations.
+
+- **Specifications**
+		- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/
+		- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 
 ----
 
