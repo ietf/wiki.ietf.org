@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-22T14:54:50.877Z
+date: 2024-10-22T15:31:44.154Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -123,7 +123,7 @@ Please keep the tables sorted by meeting, by time.
 |    10:00-11:30 | Wicklow Hall 2A | PQ DNSSEC Research | SEC | peter@desec.io | Updates on post-quantum DNSSEC research | https://ietf.webex.com/meet/ietfsidemeeting2 | [ietf121-pq-dnssec.ics](/121/ietf121-pq-dnssec.ics) |
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
 | 13:00-15:00 | WNR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/ietfsidemeeting1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
-|    13:30-15:30 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com liuyisong@chinamobile.com | Discuss Inter-DC AI Networking Challenges | tbd | tbd |
+|    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com liuyisong@chinamobile.com | [Discuss Inter-DC AI Networking Challenges](https://github.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121) |  https://ietf.webex.com/meet/ietfsidemeeting2 | tbd |
 | 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | https://ietf.webex.com/meet/sidemeetingietf1 | tbd |
 | 17:00-18:30 | WNR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | TBD | TBD |
 | 18:30-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
