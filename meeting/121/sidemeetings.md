@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-21T14:21:21.211Z
+date: 2024-10-22T03:13:09.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -124,6 +124,7 @@ Please keep the tables sorted by meeting, by time.
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
 | 13:00-15:00 | WNR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/ietfsidemeeting1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
 |    13:30-15:30 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com | Discuss Inter-DC AI Networking Challenges | tbd | tbd |
+| 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | tbd | tbd |
 | 18:30-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -278,10 +279,10 @@ Location: Second Floor
 | 13:30-14:00 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:00-14:30 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:30-15:00 | Multiformats pre-BoF  | Inter-DC AI Networking |    
-| 15:00-15:30 |                       |                    |    
-| 15:30-16:00 | **NOT AVAILABLE**    |                    |    
-| 16:00-16:30 | **NOT AVAILABLE**    |                    |    
-| 16:30-17:00 |                       |                    |    
+| 15:00-15:30 |                       |   AIDC                 |    
+| 15:30-16:00 | **NOT AVAILABLE**    |    AIDC                |    
+| 16:00-16:30 | **NOT AVAILABLE**    |    AIDC                |    
+| 16:30-17:00 |                       |   AIDC                |    
 | 17:00-17:30 |                       |                    |    
 | 17:30-18:00 |                       |                    |    
 | 18:00-18:30 |                       |                    |    
