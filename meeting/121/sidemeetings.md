@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-22T03:13:09.514Z
+date: 2024-10-22T03:15:20.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -124,7 +124,7 @@ Please keep the tables sorted by meeting, by time.
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | tbd | tbd |
 | 13:00-15:00 | WNR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/ietfsidemeeting1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
 |    13:30-15:30 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com | Discuss Inter-DC AI Networking Challenges | tbd | tbd |
-| 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | tbd | tbd |
+| 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | https://ietf.webex.com/meet/sidemeetingietf1 | tbd |
 | 18:30-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
