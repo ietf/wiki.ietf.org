@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-18T07:31:12.870Z
+date: 2024-10-22T07:25:42.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -30,6 +30,7 @@ Possible speakers
 
 * Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
 * Nicolai Leymann - DT (focus on address planning and preparing for deployment)
+* China Telecom
 * ?? - Jio
 
 ### Past 
