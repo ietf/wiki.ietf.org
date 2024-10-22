@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-10-22T06:17:29.880Z
+date: 2024-10-22T10:48:09.146Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,7 +33,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-peng-pce-stateful-pce-autobw-update | pending | in progress - IPR 3/3 | Julien |
+| draft-peng-pce-stateful-pce-autobw-update | Adoption Poll Ongoing | in progress - IPR 3/3 | Julien |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
 | [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors | - |  
 | draft-chen-pce-sr-mpls-sid-verification | Pending | Coordinate with SRv6 draft for IANA allocation | - |
@@ -47,25 +47,24 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
-| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) | - | Was Julien |
-| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | Pending comments received during adoption | Was Dhruv |
-| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | Merged with draft-farrel-pce-experimental-error. Expediting process. | Was Julien |
+
+
+* [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update)  was adopted in Aug 2024 
 
 
 ## Other WG I-Ds
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-| [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | -11 posted on 2024-09-14 | Nearing WGLC? |
-| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -05 posted on 2024-07-03  | Question on using draft-ietf-pce-enhanced-errors |
-| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -11 posted on 2024-04-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
+| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -05 posted on 2024-07-03  | - |
+| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -12 posted on 2024-10-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -09 posted on 2024-08-01 | More review requested, IANA early code points allocated |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -06 posted on 2024-06-19 |  this I-D relies on the processing rules as per RFC 9168 |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -06 posted on 2024-07-08  | waiting for spring adoption |
-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) | -05 posted on 2024-07-05 | | - |
-| draft-ietf-pce-pcep-srv6-yang |  -05 posted on 2024-03-18 | Expired! |
-| draft-ietf-pce-pcep-extension-pce-controller-srv6 | -03 posted on 2024-08-18 | Adoption comments from Adrian are handled |
-|draft-ietf-pce-bier-te | -00 posted on 2023-11-04 | Expired |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -06 posted on 2024-07-08  | waiting for spring draft for WGLC |
+| draft-ietf-pce-pcep-srv6-yang |  -06 posted on 2024-10-19 | - |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 | -03 posted on 2024-08-18 | Ready for WGLC? |
+|draft-ietf-pce-bier-te | -01 posted on 2024-10-10 | Needs more review |
+| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -01 posted on 2024-10-21 | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
@@ -74,10 +73,11 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Remarks|Action|
 | --- | --- | --- | ---|
-|draft-ietf-pce-sr-path-segment|Y|Has Normative dependencies|-|
-|draft-ietf-pce-circuit-style-pcep-extensions|Y|-|-|
-| draft-ietf-pce-entropy-label-position |N| - | - |
-| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y| - | - |
+| [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | -12 posted on 2024-10-14 | Has Normative dependencies, thus need to wait |
+|draft-ietf-pce-circuit-style-pcep-extensions|Y|-06 posted on 2024-09-03|-|
+| draft-ietf-pce-entropy-label-position |N| -02 posted on 2024-09-19 | - |
+| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y| -02 posted on 2024-10-20 | - |
+| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |  N| -05 posted on 2024-07-05  | - |
 
 
 
