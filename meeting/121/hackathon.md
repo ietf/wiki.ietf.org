@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-22T11:55:30.935Z
+date: 2024-10-22T15:35:36.603Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -580,6 +580,28 @@ This is a continuation of the work we did during the IETF 119 and 120 Hackathons
 - **Repositories**
   - [github.com/openschc/openschc](https://github.com/openschc/openschc)
   - [gitlab.com/lab-schc/sdk/full-sdk-delivery](https://gitlab.com/lab-schc/sdk/full-sdk-delivery)
+
+----
+### Experiments with MTL Mode in Recursive Resolvers
+
+-	**Champions**
+	- Joe Harvey (jsharvey@verisign.com)
+ 	- Swapneel Sheth (ssheth@verisign.com)
+ 	- Willem Toorop (willem@nlnetlabs.nl)
+
+- **Draft Specifications**
+[1] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
+[2] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/
+[3] https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+
+- **Project Info**
+Following-up from the IETF-120 Hackathon “Exploring Implementation Approaches for Merkle Tree Ladder Mode Signatures for DNSSEC” [4], we would like to do interoperability experiments with MTL Mode [1] validation at the recursive resolver using the “request / retry” or “flag” approach in the MTL considerations draft [2].  This will be initially expressed as the SOA lookup approach in the appendix of the MTL DNSSEC draft [3] while we work towards the full EDNS option implementation from the draft.  This configuration allows us to validate our initial assumptions on the average endurance [5] of a reference value that would be sent to a requester in MTL mode and the query/response sizes. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases and collect overall operational experience.
+[4] https://wiki.ietf.org/en/meeting/120/hackathon
+[5] https://eprint.iacr.org/2022/1730.pdf
+
+- **Related Groups**
+	- DNS Operations (DNSOP) Working Group
+	- Crypto Forum Research Group (CFRG)
 
 ----
 
