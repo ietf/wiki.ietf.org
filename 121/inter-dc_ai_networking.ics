@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20241022T153501Z
+DESCRIPTION:\nhttps://ietf.webex.com/meet/ietfsidemeeting2\n\nhttps://githu
+	b.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121
+	\n\n\n\n\nBEIJING\, China\n21:30	Thu\, Nov 7 2024\n23:00	Thu\, Nov 7 2024\
+	n\nPARIS\, France\n14:30	Thu\, Nov 7 2024\n16:00	Thu\, Nov 7 2024\n\nUTC\,
+	 Coordinated Universal Time\n13:30	Thu\, Nov 7 2024\n15:00	Thu\, Nov 7 202
+	4\n\nSAN FRANCISCO\, United States\, California\n05:30	Thu\, Nov 7 2024\n0
+	7:00	Thu\, Nov 7 2024\n\nNEW YORK\, United States\, New York\n08:30	Thu\, 
+	Nov 7 2024\n10:00	Thu\, Nov 7 2024\n\nSYDNEY\, Australia\n00:30	Fri\, Nov 
+	8 2024\n02:00	Fri\, Nov 8 2024\n\nDUBLIN\, Ireland\n13:30	Thu\, Nov 7 2024
+	\n15:00	Thu\, Nov 7 2024\n\n\n\nScheduled with www.worldtimebuddy.com\n
+DTEND;TZID="Romance Standard Time":20241107T160000
+DTSTAMP:20241022T153025Z
+DTSTART;TZID="Romance Standard Time":20241107T143000
+LAST-MODIFIED:20241022T153501Z
+LOCATION:Wicklow Hall 2A / https://ietf.webex.com/meet/ietfsidemeeting2
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:Inter-DC AI Networking
+TRANSP:OPAQUE
+UID:9b6a794d-b436-5ff4-cda7-51c2b5335e81@worldtimebuddy.com
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.10414.20002">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/plain format -->\n<BR>\n\n<P><FONT SIZE=2><A HREF="https://ietf
+	.webex.com/meet/ietfsidemeeting2">https://ietf.webex.com/meet/ietfsidemeet
+	ing2</A></FONT>\n</P>\n\n<P><FONT SIZE=2><A HREF="https://github.com/afres
+	sancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121">https://g
+	ithub.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF
+	-121</A></FONT>\n</P>\n<BR>\n<BR>\n<BR>\n\n<P><FONT SIZE=2>BEIJING\, China
+	</FONT>\n\n<BR><FONT SIZE=2>21:30&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>\n\
+	n<BR><FONT SIZE=2>23:00&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>\n</P>\n\n<P>
+	<FONT SIZE=2>PARIS\, France</FONT>\n\n<BR><FONT SIZE=2>14:30&nbsp\;&nbsp\;
+	 Thu\, Nov 7 2024</FONT>\n\n<BR><FONT SIZE=2>16:00&nbsp\;&nbsp\; Thu\, Nov
+	 7 2024</FONT>\n</P>\n\n<P><FONT SIZE=2>UTC\, Coordinated Universal Time</
+	FONT>\n\n<BR><FONT SIZE=2>13:30&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>\n\n<
+	BR><FONT SIZE=2>15:00&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>\n</P>\n\n<P><F
+	ONT SIZE=2>SAN FRANCISCO\, United States\, California</FONT>\n\n<BR><FONT 
+	SIZE=2>05:30&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>\n\n<BR><FONT SIZE=2>07:
+	00&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>\n</P>\n\n<P><FONT SIZE=2>NEW YORK
+	\, United States\, New York</FONT>\n\n<BR><FONT SIZE=2>08:30&nbsp\;&nbsp\;
+	 Thu\, Nov 7 2024</FONT>\n\n<BR><FONT SIZE=2>10:00&nbsp\;&nbsp\; Thu\, Nov
+	 7 2024</FONT>\n</P>\n\n<P><FONT SIZE=2>SYDNEY\, Australia</FONT>\n\n<BR><
+	FONT SIZE=2>00:30&nbsp\;&nbsp\; Fri\, Nov 8 2024</FONT>\n\n<BR><FONT SIZE=
+	2>02:00&nbsp\;&nbsp\; Fri\, Nov 8 2024</FONT>\n</P>\n\n<P><FONT SIZE=2>DUB
+	LIN\, Ireland</FONT>\n\n<BR><FONT SIZE=2>13:30&nbsp\;&nbsp\; Thu\, Nov 7 2
+	024</FONT>\n\n<BR><FONT SIZE=2>15:00&nbsp\;&nbsp\; Thu\, Nov 7 2024</FONT>
+	\n</P>\n<BR>\n<BR>\n\n<P><FONT SIZE=2>Scheduled with www.worldtimebuddy.co
+	m</FONT>\n</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
