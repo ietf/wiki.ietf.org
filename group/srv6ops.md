@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2024-10-23T08:49:58.503Z
+date: 2024-10-23T08:50:38.122Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -29,7 +29,7 @@ Categorisation for I-Ds can be on
 - Address Planning 
  
 | I-D     | Title     | State | Category     | Remarks. |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | draft-liu-srv6ops-problem-summary | SRv6 Deployment and Operation Problem Summary | Active | Operational Issues | - |
 | | | | | |
 | draft-hy-srv6ops-sfc-in-cloud-uc | Use Cases and Requirements for Service Function Chaining based on SRv6 in cloud | Active |Deployment Information | - |
