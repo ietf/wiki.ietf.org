@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-22T07:25:42.492Z
+date: 2024-10-23T09:02:51.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -14,14 +14,13 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 ### IETF 121 - Dublin
 
-Possible speakers
-
-* Martin Gysi - Swisscom <martin.gysi@swisscom.com>
-* Jiangang Lu - China Southern Power Grid
 * Dan B - Bell 
-
+* Jiangang Lu - China Southern Power Grid
+* Thomas - Swisscom
+* Gyan - Verizon
 * Options: 1- Iliad, ~~2-Orange,~~ 3- Gyan, 4- Thomas,  5- China Telecom, 6-Softbank (10-15)
-Send a response for draft presentations
+
+Send a response for draft presentations - done!
 
 ### IETF 122 - Bangkok
 
@@ -32,6 +31,11 @@ Possible speakers
 * Nicolai Leymann - DT (focus on address planning and preparing for deployment)
 * China Telecom
 * ?? - Jio
+
+### Future speakers
+
+* Martin Gysi - Swisscom 
+* Med will find someone - Orange-spain
 
 ### Past 
 #### IETF 120 - Vancouver
@@ -86,6 +90,8 @@ Possible speakers
 
 
 
+---
+
 
 
 ## Chair's Tracker
@@ -98,4 +104,41 @@ Possible speakers
 ### Completed 
 - Handle the mailing list subscription and next step for the bof list
 - Send a welcome email
-- Setup Github and move the charter repository 
+- Setup Github and move the charter repository
+
+
+
+---
+
+## Chairs early thoughts on the Drafts
+
+This feedback was given at IETF 120!
+
+### SRv6 Deployment and Operation Problem Summary
+[draft-liu-srv6ops-problem-summary-03](https://datatracker.ietf.org/doc/draft-liu-srv6ops-problem-summary/)
+
+- Make sure that the drafts align to our charter and suggest to limit this to Operational Problem Summary
+- Currently bare bones, need meet to describe issues and not be a wishlist of new features!
+- Limit front page authors to 5
+
+### IPv6 Address Assignment for SRv6
+[draft-liu-srv6ops-sid-address-assignment-00](https://datatracker.ietf.org/doc/draft-liu-srv6ops-sid-address-assignment/)
+
+- Does it align with draft-ietf-6man-sids?
+
+### Best Practices for Protection of SR Networks
+[draft-liu-srv6ops-sr-protection-01](https://datatracker.ietf.org/doc/draft-liu-srv6ops-sr-protection/)
+
+- Please limit to SRv6 only, any text related to SR-MPLS is out of scope! 
+- It lacks operational issues or guidance, it feels more like a list of everything! 
+
+### Alternate Marking Deployment Status and Considerations
+[draft-zhou-srv6ops-am-deployment-status-00](https://datatracker.ietf.org/doc/draft-zhou-srv6ops-am-deployment-status/)
+
+- More clearer guidance is needed
+
+### Use Cases and Requirements for IPv6 enhancement techniques in cloud 
+[draft-he-yi-srv6ops-ipv6-enhancemnet-in-cloud-uc-00](https://datatracker.ietf.org/doc/draft-he-yi-srv6ops-ipv6-enhancemnet-in-cloud-uc/)
+
+- What does it mean to have an SRv6 agent in virtual incloud router?
+- Not much meat! 
