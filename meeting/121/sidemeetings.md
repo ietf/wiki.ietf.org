@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-23T14:09:31.845Z
+date: 2024-10-23T16:44:24.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -302,7 +302,7 @@ Location: Second Floor
 | 08:00-08:30 | Workload token translation |  eodir |  
 | 08:30-09:00 | Workload token translation |  eodir |  
 | 09:00-09:30 | Workload token translation |  **NOT AVAILABLE** |  
-| 09:30-10:00 |                       |                    |    
+| 09:30-10:00 |                       |  **NOT AVAILABLE**   |    
 | 10:00-10:30 |                       |                    |    
 | 10:30-11:00 |                       |                    |    
 | 11:00-11:30 |                       |                    |    
