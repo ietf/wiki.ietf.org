@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20241105T150000Z
+DTEND:20241105T160000Z
+DTSTAMP:20241023T135946Z
+ORGANIZER;CN=Dhruv Dhody:mailto:dd@dhruvdhody.com
+UID:4goitv361p3n2un65294ir2tpp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Dhruv Dhody;X-NUM-GUESTS=0:mailto:dd@dhruvdhody.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dhruv.ietf@gmail.com;X-NUM-GUESTS=0:mailto:dhruv.ietf@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1524054470
+CREATED:20241023T135042Z
+DESCRIPTION:Hi SRv6OPS I-D authors\,<br><br>As mentioned earlier\, we have 
+ ​a side meeting room booked for an informal discussion among the draft auth
+ ors. It would be nice if some of you would join it so that we can have a di
+ scussion on how best to progress the various drafts in alignment with our c
+ harter and milestones.​ <br><br>Date: 5th Nov<br>Time: 1500 - 1600 Dublin T
+ ime / UTC<br>Room: Wicklow Meeting Room 4 (20 seats)<br>WebEx: : <a href="h
+ ttps://ietf.webex.com/meet/sidemeetingietf1">https://ietf.webex.com/meet/si
+ demeetingietf1</a><br><br><br>This is NOT an official WG meeting and no for
+ mal decisions will be made.
+LAST-MODIFIED:20241023T135943Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SRv6OPS Draft Authors Informal Side Meeting @ IETF 121
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
