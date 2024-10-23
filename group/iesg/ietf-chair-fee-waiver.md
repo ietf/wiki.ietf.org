@@ -2,7 +2,7 @@
 title: IETF Chair Fee Waiver Program
 description: 
 published: true
-date: 2024-10-01T15:01:49.329Z
+date: 2024-10-23T21:05:15.265Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T15:00:42.201Z
@@ -31,6 +31,6 @@ Due to its limited scope, this fee waiver is not intended to support:
 
 # Submitting a Request
 
-Requests for waiver can be submitted as soon as the registration opens for a given plenary meeting by sending an email to support@ietf.org. When requesting a fee waiver, please explain why you need a fee waiver, in which WGs/BOFs you will be active, and what contribution you will make to the group(s).
+Requests for waiver can be submitted as soon as the registration opens for a given plenary meeting by sending an email to support@ietf.org. When requesting a fee waiver, please explain why you need a fee waiver, in which WGs/BOFs you will be active, what contribution you will make to the group(s), and which meeting you are requesting a fee waiver for.
 
 Notice of award will come no later than 30 days from the start of the meeting.  
