@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-22T19:14:43.546Z
+date: 2024-10-23T14:33:55.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -617,6 +617,13 @@ Following-up from the IETF-120 Hackathon “Exploring Implementation Approaches 
 		- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 
 ----
+### Multipath QUIC Interop testing
+- **Champions**
+Magnus Westerlund (magnus.westerlund@ericsson.com)
+- **Project Info**
+Interop testing of Multipath QUIC implementations - see https://github.com/quicwg/multipath/wiki/Implementation-Draft-Interop
+
+
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
