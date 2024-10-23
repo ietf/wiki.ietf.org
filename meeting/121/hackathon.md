@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-23T14:54:33.287Z
+date: 2024-10-23T14:55:25.411Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -223,7 +223,8 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 - **Project Info**
   - Update [cbor4dns](https://github.com/netd-tud/cbor4dns) to newest draft version
   - More implementations welcome!
-
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-lenders-dns-cbor/
 
 ----
 
