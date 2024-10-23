@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-23T14:55:25.411Z
+date: 2024-10-23T22:24:13.534Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -15,6 +15,11 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * :ireland: **Where**: The Convention Centre Dublin (CCD)
 * :cityscape: **Room**: The Liffey B
 {.grid-list}
+
+
+| Gold Running Code Sponsor  | Silver Running Code Sponsor |  Bronze Running Code Sponsor | 
+|:---:|:---:|:---:|:---:|
+| ![Ericsson](/eri_vertical_rgb.max-120x74.png) | ![meta_logo.png](/hackathon/meta_logo.png)  | ![ICANN](/icann_primary_logo_cmyk_noeyywh.max-120x74.jpg) |
 
 **Sign up for the Hackathon**
 * [Onsite registration](https://registration.ietf.org/121/new/hackathon_onsite/)
