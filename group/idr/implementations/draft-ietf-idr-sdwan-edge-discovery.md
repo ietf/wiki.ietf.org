@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2023-06-09T14:16:18.784Z
+date: 2024-10-24T18:18:58.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -21,13 +21,13 @@ Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatrac
 |  6  | NLRI for SDWAN Underlay Tunnel Update | Yes | Yes | 
 |  6  | SDWAN-Hybrid Tunnel | Yes | Yes |
 |  6  | IPsec SA ID	|  Yes	|  Yes  |
-|  6  | Extended Port Attribute | Yes | Yes | 
-|  6  | Underlay Network Properties | Yes  | Yes | 
-|  7  | IPsec SA Property Update  | Yes  | Yes | 
-|  7  | IPsec SA Nonce Sub-TLV    |	Yes	 | Yes | 
-|  7  | IPsec Public Key Sub-TLV  | 	Yes | Yes | 
-|  7  | IPsec SA Proposal Sub-TLV	|  Yes	| Yes |
-|  7  | Simplified IPsec SA Sub – TLV	| Yes | Yes | 
+|  7  | Extended Port Attribute | Yes | Yes | 
+|  7  | Underlay Network Properties | Yes  | Yes | 
+|  8  | IPsec SA Property Update  | Yes  | Yes | 
+|  8  | IPsec SA Nonce Sub-TLV    |	Yes	 | Yes | 
+|  8  | IPsec Public Key Sub-TLV  | 	Yes | Yes | 
+|  8  | IPsec SA Proposal Sub-TLV	|  Yes	| Yes |
+|  8  | Simplified IPsec SA Sub – TLV	| Yes | Yes | 
 {.dense}
 
 ## Other implementations of SDWAN: Arista
