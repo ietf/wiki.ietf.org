@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-23T22:24:13.534Z
+date: 2024-10-24T03:55:09.646Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -428,6 +428,16 @@ Greg White (g.white at cablelabs.com)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
   
 ---
+### Interface to In-Network Functions (I2INF) Project
+- **Champion(s)**
+  - Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project(s)**
+  - Demonstrate Interface to In-Network Functions (I2INF) Intent Translator of Intent Service Application for IoT Device.
+  - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
+- **Specifications**
+  - [draft-jeong-cats-its-use-cases-01](https://datatracker.ietf.org/doc/html/draft-jeong-cats-its-use-cases-01)
+  
+----
 ### Congestion control testing
 - **Champions**
   - Reese Enghardt (ietf@tenghardt.net)
