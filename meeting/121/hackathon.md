@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-24T03:55:09.646Z
+date: 2024-10-24T04:15:03.372Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -435,7 +435,10 @@ Greg White (g.white at cablelabs.com)
   - Demonstrate Interface to In-Network Functions (I2INF) Intent Translator of Intent Service Application for IoT Device.
   - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
 - **Specifications**
-  - [draft-jeong-cats-its-use-cases-01](https://datatracker.ietf.org/doc/html/draft-jeong-cats-its-use-cases-01)
+  - [draft-jeong-opsawg-i2inf-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-framework/)
+  - [draft-jeong-opsawg-i2inf-problem-statement](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-problem-statement/)
+  - [draft-jeong-opsawg-intent-based-sdv-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/)
+  - [draft-jeong-cats-its-use-cases-01](https://datatracker.ietf.org/doc/draft-jeong-cats-its-use-cases/)
   
 ----
 ### Congestion control testing
