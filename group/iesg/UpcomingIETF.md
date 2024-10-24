@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-21T17:08:49.743Z
+date: 2024-10-24T17:18:48.524Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,7 +16,8 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 121, or the joint meetings with the IAB.
 
-
+* IESG Statement on 2119 language
+* IESG Statement on comments/contributors
 
 
 # IESG Activities
