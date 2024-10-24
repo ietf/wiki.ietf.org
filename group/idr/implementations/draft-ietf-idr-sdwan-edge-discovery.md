@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2024-10-24T18:18:58.552Z
+date: 2024-10-24T18:21:55.494Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -16,7 +16,7 @@ Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatrac
 | Section | Description | Huawei VRP v5 | Huawei VRP v8 |  
 |---|---|---|---|
   | | |
-|  6	| SDWAN Underlay UPDATE	| Yes | -- |
+|  6	| SDWAN Underlay UPDATE	| Yes | Yes |
 |  6  | SAFI = 74	|  Yes  |  Yes  |
 |  6  | NLRI for SDWAN Underlay Tunnel Update | Yes | Yes | 
 |  6  | SDWAN-Hybrid Tunnel | Yes | Yes |
