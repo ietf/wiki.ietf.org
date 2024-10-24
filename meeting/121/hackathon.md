@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-24T10:00:26.015Z
+date: 2024-10-24T10:45:45.659Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -585,7 +585,7 @@ This is a continuation of the work we did during the IETF 119 and 120 Hackathons
 ### NIPC in ASDF
 - **Champions**
   - Bart Brinckman <bbrinckm@cisco.com>
-  - Ari Keranen <ari.keranen@ericsson.com>
+  - Ari Keränen <ari.keranen@ericsson.com>
 - **Project Info**
   - NIPC in SDF: Work on NIPC integration in SDF: Specify how NIPC integrates into SDF, create a few sample models, build a library/sample app that ingests a SDF model with NIPC integration.
 - **Specifications**
