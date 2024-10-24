@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-24T09:25:37.300Z
+date: 2024-10-24T09:27:00.095Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -600,7 +600,7 @@ This is a continuation of the work we did during the IETF 119 and 120 Hackathons
 - **Champions**
   - Javier Alejandro Fernandez (<javier-alejandro.fernandez@imt-atlantique.fr>)
 - **Project Info**
-"SCHC Interoperability" addresses the current challenges between three SCHC protocol implementations: OpenSCHC in Python, cSCHC in C, and the recently open-sourced [Lab.SCHC](https://lab-schc.fr/) FullSDK for embedded devices. Interoperability issues exist due to missing features in OpenSCHC and differences in rule formats between the two. This hackathon project aims to implement the missing features and develop tools to ensure seamless operation between both implementations, enabling cross-platform compatibility for SCHC-based IoT networks.
+"SCHC Interoperability" addresses the current challenges between three SCHC protocol implementations: OpenSCHC in Python, cSCHC in C, and the recently open-sourced [Lab.SCHC](https://lab-schc.fr/) FullSDK for embedded devices. Interoperability issues exist due to missing features in OpenSCHC and differences in rule formats. This hackathon project aims to implement the missing features and develop tools to ensure seamless operation between implementations, enabling cross-platform compatibility and facilitating the adoption of SCHC-based IoT networks.
 - **Specifications**
   - [RFC8724](https://www.rfc-editor.org/rfc/rfc8724.html)
 - **Repositories**
