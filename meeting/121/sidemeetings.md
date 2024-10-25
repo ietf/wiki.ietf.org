@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-25T17:54:44.803Z
+date: 2024-10-25T19:30:51.657Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -80,7 +80,7 @@ Please keep the tables sorted by meeting, by time.
 |12:30-13:25|Wicklow Hall 2A|Originator Profile| |shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
 |13:30-15:30|Wicklow Hall 2A|Technical discussions on deepspace|INT|marc.blanchet@viagenie.ca|[see proposed agenda](https://deepspaceip.github.io/meetings/ietf121/) |[IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2)|[.ics](https://deepspaceip.github.io/meetings/ietf121/ietf121-deepspace-side-meeting.ics)|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
-|17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies and in general networks in the presence of varying traffic demands | https://ietf.webex.com/meet/sidemeetingietf1 |  |
+|17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies and in general networks in the presence of varying traffic demands | [IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2) |  |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
 | 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | TBD  |   |     |
 {.dense}
