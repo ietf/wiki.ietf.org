@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-25T17:25:27.003Z
+date: 2024-10-25T17:34:45.147Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -186,8 +186,8 @@ Location: Second Floor
 | 15:30-16:00 |                       |                    |    
 | 16:00-16:30 |                       |                    |    
 | 16:30-17:00 |                       |                    |    
-| 17:00-17:30 |Adaptive/Perceptive Routing|                    |    
-| 17:30-18:00 |Adaptive/Perceptive Routing|                    |    
+| 17:00-17:30 |                       | Adaptive/Perceptive Routing |    
+| 17:30-18:00 |                       | Adaptive/Perceptive Routing |    
 | 18:00-18:30 |                       |    IHL Foundations |    
 | 18:30-19:00 |                       |    IHL Foundations |    
 | 19:00-19:30 |   NASR                |                    |    
