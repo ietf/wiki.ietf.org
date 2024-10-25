@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-25T18:23:42.645Z
+date: 2024-10-25T19:20:41.587Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -93,7 +93,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1007
 
-**1715-1815 Dublin: Farewell Reception (Room: Level 3 Foyerr)**
+**1715-1815 Dublin: Farewell Reception (Room: Level 3 Foyer)**
 
 
 
