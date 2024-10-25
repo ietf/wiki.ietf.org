@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-16T15:06:44.552Z
+date: 2024-10-25T18:23:42.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -31,39 +31,35 @@ Happy hour: 16:45
 
 ## Sunday, 2024-11-03
 
-**0930-1130 Dublin: IAB Business Meeting (Room: TBD)** 
+**0930-1130 Dublin: IAB Business Meeting (Room: Wicklow Hall 2A)** 
 
-* Meetecho: 
-* Onsite Tool:
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1001
+
 
 > Agenda:
 > 
 > 
 
-**1145-1215 Dublin: IAB/IESG Lunch (Room: TBD)**
+**1145-1215 Dublin: IAB/IESG Lunch (Room: Wicklow Hall 2A)**
 
-**1215-1345 Dublin: IAB/IESG Meeting (Room: TBD)** 
+**1215-1345 Dublin: IAB/IESG Meeting (Room: Wicklow Hall 2A)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-* Meetecho: 
-* Onsite Tool:
-
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1001
 
 
 ## Monday, 2024-11-04
 
-**1130-1300 Dublin: IETF-3GPP Coordination (Room: TBD)**
+**1145-1245 Dublin: IETF-3GPP Coordination (Room: Wicklow Hall 2A)**
 
-* Meetecho: 
-* Onsite Tool:
+* Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 
 ## Tuesday, 2024-11-05
 
-**0800-0920 Dublin: IAB Business Meeting (Room: TBD)**
+**0800-0920 Dublin: IAB Business Meeting (Room: Wicklow Meeting Room 1)**
 
-* Meetecho: 
-* Onsite Tool:
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1004
 
 > Agenda: 
 > Discussion with ISOC (30 min) (updates on policy maker program, other hot topics)
@@ -72,16 +68,15 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Wednesday, 2024-11-06
 
+**1130-1300 Dublin: Liaison Coordinator Office Hours (Room: Wicklow Meeting Room 1)**
 
-
-**1700-1900 Dublin: IETF 121 Plenary (Room: TBD)**
+**1700-1900 Dublin: IETF 121 Plenary (Room: The Auditorium)**
 
 ## Thursday, 2024-11-07
 
-**0800-0920 Dublin: IAB Business Meeting (Room: TBD)**
+**0800-0920 Dublin: IAB Business Meeting (Room: Wicklow Meeting Room 1)**
 
-* Meetecho: 
-* Onsite Tool:
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1006
 
 > Agenda:
 > 
@@ -92,14 +87,13 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Friday, 2024-11-08
 
-**1130-1300 Dublin: IAB/IESG Lunch + Meeting (Room: TBD)** 
+**1130-1300 Dublin: IAB/IESG Lunch + Meeting (Room: Wicklow Hall 2A)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-* Meetecho: 
-* Onsite Tool:
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1007
 
-**1715-1815 Dublin: Farewell Reception (Room: TBD)**
+**1715-1815 Dublin: Farewell Reception (Room: Level 3 Foyerr)**
 
 
 
