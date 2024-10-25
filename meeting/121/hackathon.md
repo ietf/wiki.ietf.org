@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-24T10:45:45.659Z
+date: 2024-10-25T08:39:06.219Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -687,6 +687,32 @@ Interop testing of Multipath QUIC implementations - see https://github.com/quicw
 
 - **Related Groups**
   - [Network Management Operations (nmop)](https://datatracker.ietf.org/group/nmop/about/)
+
+----
+### RPP - RESTful Provisioning Protocol
+- **Champions**
+	- Pawel Kowalik (pawel.kowalik@denic.de)
+	- Maarten Wullink (maarten.wullink@sidn.nl)
+
+- **Project Info**
+
+	RPP is a new proposed standard for domain name provisioning using a RESTful API.
+	- Based on HTTP using the REST architectural style
+	- Compatible (where possible) with existing EPP  standards (STD69) 
+	- Using JSON data format and schema validation
+
+	##### The following areas would be worked on during the hackathon:
+	- Requirements for the protocol framework
+	- Requirements for object representations
+	- Modeling of object representations into JSON
+	- Code experiments of data transformation from/to EPP/JSON
+	- Code experiments of RESTful API using above transformations
+
+- **Specifications**
+	- Draft for RESTful EPP (which is start for RPP) - https://datatracker.ietf.org/doc/draft-wullink-restful-epp/
+	- Draft for conversion of EPP data model to JSON data model - https://datatracker.ietf.org/doc/draft-wullink-rpp-json/
+- **Repositories**
+	- Prototype API based on OpenAPI spec - https://github.com/SIDN/ietf-rpp-api
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
