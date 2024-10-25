@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-25T17:34:45.147Z
+date: 2024-10-25T17:46:43.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -78,7 +78,7 @@ Please keep the tables sorted by meeting, by time.
 |    7:00-7:05 | WMR 4 | Sample Meeting | GEN | support@ietf.org | We <3 the IETF! | Link here | .ics here |
 |     |  |   |   |   |   |   |  |
 |12:30-13:25|Wicklow Hall 2A|Originator Profile| |shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
-|13:30-15:00|Wicklow Hall 2A|Deepspace|INT|marc.blanchet@viagenie.ca|Technical discussions on architecture, intermittance and storage management|will use the IETF provided Webex|TBD|
+|13:30-15:00|Wicklow Hall 2A|Technical discussions on deepspace|INT|marc.blanchet@viagenie.ca|see proposed agenda: https://deepspaceip.github.io/meetings/ietf121/ |will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies in the presence of varying traffic demands | https://ietf.webex.com/meet/sidemeetingietf1 |  |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
