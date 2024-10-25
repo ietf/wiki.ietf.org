@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-25T18:20:09.400Z
+date: 2024-10-25T22:05:52.995Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -32,8 +32,8 @@ Saturday, November 2, 2024 - 09:30-21:00 - Room: Liffey B
 
 **AMS-IETF Leadership Venue Tour**
 
-Time: TBD
-Location: TBD
+Time: 1600
+Location: DCC Ground Foyer
 
 **AMS-IETF Leadership Happy Hour**
 
