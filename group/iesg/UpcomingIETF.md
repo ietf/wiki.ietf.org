@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-24T17:19:18.342Z
+date: 2024-10-25T18:20:09.400Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -27,7 +27,7 @@ Please add any topics for either IESG only meetings at IETF 121, or the joint me
 
 **Hackathon**
 
-Saturday, November 2, 2024 - 09:30-21:00 - Room: TBD
+Saturday, November 2, 2024 - 09:30-21:00 - Room: Liffey B
  
 
 **AMS-IETF Leadership Venue Tour**
@@ -45,41 +45,39 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 **Code Sprint**
 
-Sunday, November 3, 2024 - 10:00-18:00 - Room: TBD
+Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 
 - **Hackathon**
 
-  - Sunday, November 3, 2024 - 09:30-16:00 - Room: TBD
+  - Sunday, November 3, 2024 - 09:30-16:00 - Room: Liffey B
   
-- **New Participant's Quick Connections** Sunday, November 3, 2024 - 16:00-17:00 - Room: TBD
-- **IETF 121 Welcome Reception** Sunday, November 3, 2024 - 17:00-19:00 - Room: TBD
-- **HotRFC Lightning Talks** Sunday, November 3, 2024 - 18:00-20:00 - Room: TBD
+- **New Participant's Quick Connections** Sunday, November 3, 2024 - 16:00-17:00 - Room: Level 3 Foyer
+- **IETF 121 Welcome Reception** Sunday, November 3, 2024 - 17:00-19:00 - Room: The Forum
+- **HotRFC Lightning Talks** Sunday, November 3, 2024 - 18:00-20:00 - Room: Liffey A
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: Wicklow Hall 2A
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: Wicklow Hall 2A
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1001
 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
 
 
-### IESG Meeting - 14:00-16:00 Room: TBD
+### IESG Meeting - 14:00-16:00 Room: Wicklow Hall 2A
 
-* Meetecho: TBD
-* Onsite Tool: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1001
 
 > IANA Update (10min, Sabrina)
 
 ## Monday, November 4, 2024
 
-### IESG Breakfast: 08:00-09:20   Room: TBD
+### IESG Breakfast: 08:00-09:20   Room: Wicklow Hall 2A
 
 
-* Meetecho:  TBD
-* Onsite Tool: TBD
+* Meetecho:  https://meetings.conf.meetecho.com/ietf121/?session=1002
+
 
  
 ## Tuesday, November 5, 2024
@@ -88,13 +86,12 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: TBD
 No IESG breakfast. IAB has a breakfast meeting.
   
 ## Wednesday, November 6, 2024
-### IESG Meeting Time: 08:00-09:20  Room: TBD
+### IESG Meeting Time: 08:00-09:20  Room: Wicklow Hall 2AD
 
-* Meetecho: TBD
-* Onsite Tool:   TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1005
 
 
-### IETF 121 Plenary TIME: TBD Room: TBD
+### IETF 121 Plenary TIME: 17:00-19:00 Room: The Auditorium
 &nbsp;
 ## Thursday, November 7, 2024
 
@@ -102,9 +99,9 @@ No IESG breakfast. IAB has a breakfast meeting.
 
 ## Friday, November 8, 2024
 
-### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: TBD
+### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Wicklow Hall 2A
 
-* Meetecho:  TBD
+* Meetecho:  https://meetings.conf.meetecho.com/ietf121/?session=1007
 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
