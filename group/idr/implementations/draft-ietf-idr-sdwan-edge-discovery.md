@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2024-10-24T18:21:55.494Z
+date: 2024-10-25T12:55:00.938Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -31,6 +31,7 @@ Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatrac
 {.dense}
 
 ## Other implementations of SDWAN: Arista
+### Note that Arista was granted SubTLVs by IANA in FCFS for same content.  Authors reached out to Arista team and agreed upon future direction. This section of the implementation report details the current IANA assignments given to Arista.   
 
 | IETF Draft | Description | Arista version | IANA name |  contact | 
 |---|---|---|---|---|
