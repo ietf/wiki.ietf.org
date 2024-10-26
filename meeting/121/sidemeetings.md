@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-25T19:30:51.657Z
+date: 2024-10-26T08:42:16.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -112,7 +112,7 @@ Please keep the tables sorted by meeting, by time.
 |  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  RTG,IETF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:00-16:30   | WMR 4 | I2INF  |  OPS |  pauljeong@skku.edu | Preparation for Interface to In-Network Functions (I2INF) BoF | https://us02web.zoom.us/j/89634926657?pwd=3SBoUaOsQAn1BobXzPKIR2uH1XT4NC.1 | TBD |
 |     |  |   |   |   |   |   |  |
-|     |  |   |   |   |   |   |  |
+|  19:00–20:00   | WMR4 | KIRA  | RTG | roland.bless@kit.edu  | Q&A, PreBoF  | https://ietf.webex.com/meet/sidemeetingietf1  | TBD |
 {.dense}
 
 
@@ -255,8 +255,8 @@ Location: Second Floor
 | 17:30-18:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 18:00-18:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 18:30-19:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 19:00-19:30 |                       |                    |    
-| 19:30-20:00 |                       |                    |    
+| 19:00-19:30 |  KIRA                 |                    |    
+| 19:30-20:00 |  KIRA                 |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
 {.dense}
 
