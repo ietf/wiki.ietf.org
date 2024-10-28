@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-28T16:15:04.427Z
+date: 2024-10-28T17:53:53.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -18,8 +18,8 @@ dateCreated: 2024-10-01T22:17:54.039Z
 **1630-1800: AMS-IETF Leadership Venue Tour + Happy Hour**
 
 Please join us for a quick tour around the conference center. We will end with a happy hour. 
-Meeting point: 16:30
-Happy hour: 16:45
+Meeting point: 16:30, Ground Floor Foyer
+Happy hour: 16:45, Wicklow Hall 2B (second floor)
 
 ## Sunday, 2024-11-03
 
