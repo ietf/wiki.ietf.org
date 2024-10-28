@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-25T22:06:03.935Z
+date: 2024-10-28T12:52:00.846Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -83,7 +83,7 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 ## Tuesday, November 5, 2024
 
 
-No IESG breakfast. IAB has a breakfast meeting.
+No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/Agenda121).
   
 ## Wednesday, November 6, 2024
 ### IESG Meeting Time: 08:00-09:20  Room: Wicklow Hall 2AD
@@ -95,7 +95,7 @@ No IESG breakfast. IAB has a breakfast meeting.
 &nbsp;
 ## Thursday, November 7, 2024
 
-No IESG breakfast. IAB has a breakfast meeting.
+No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/Agenda121).
 
 ## Friday, November 8, 2024
 
