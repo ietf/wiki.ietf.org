@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-10-10T16:48:27.944Z
+date: 2024-10-28T10:04:36.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -29,6 +29,7 @@ François Michel (Apple)
 Ted Lemon (Apple)
 Esko Dijk (IoTconsultancy.nl)
 Aaron Zhang (Westford Academy)
+Konrad Derda (Nordic Semiconductor)
 - **Project Info**
 
   - **SSH daemon for OpenThread.** Historically the way engineers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds with hundreds of Thread devices, being able to log in and transfer log files using the network is much better than needing hundreds of USB cables to connect all the devices to a computer.
