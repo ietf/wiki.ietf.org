@@ -2,21 +2,13 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-25T19:20:41.587Z
+date: 2024-10-28T16:15:04.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
 ---
 
 # Proposed (not yet scheduled) topics
-
-* Executive Session: IRTF Chair Appointment (Thursday)
-* ISOC Policy Program/Roundtable Update (Olaf - Tuesday)
-* ICANN Board Liaison Coordination with Dave Lawrence (Tuesday)
-* NEMOPS Workshop (Sunday -- joint session?)
-* Planning for Outreach activity at APRICOT2025/APNIC59
-* Geo IP topics (technical discussion, Tommy/David, Sunday)
-* Liaison RFC updates 4052/4053 (Mirja/Suresh, Sunday)
 
 
 # Agenda121
@@ -38,7 +30,10 @@ Happy hour: 16:45
 
 > Agenda:
 > 
-> 
+> 0930: Liaison RFC updates 4052/4053 (Mirja/Suresh)
+> 1000: Planning for Outreach activity at APRICOT2025/APNIC59 (Dhruv)
+> 1030: Geo IP topics (technical discussion, Tommy/David)
+> 1130: Meeting Ends
 
 **1145-1215 Dublin: IAB/IESG Lunch (Room: Wicklow Hall 2A)**
 
@@ -62,9 +57,10 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 * Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1004
 
 > Agenda: 
-> Discussion with ISOC (30 min) (updates on policy maker program, other hot topics)
-> Chat with David Lawrence as the new ICANN Board Liaison (30 min)
-
+> 
+> 0800: ISOC Policy Program/Roundtable Update (30 min) - with Olaf Kolkman
+> 0830: Chat with the new ICANN Board Liaison (30 min) - with David Lawrence
+> 0920: Meeting Ends
 
 ## Wednesday, 2024-11-06
 
@@ -80,8 +76,9 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 > Agenda:
 > 
-> T2TRG Review (30 mins)
->
+> 0800: T2TRG Review (30 mins) - with Ari Keränen & Carsten Bormann
+> 0830: Executive Session: IRTF Chair Appointment
+> 0920: Meeting Ends
 >
 >
 
