@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-28T06:35:38.860Z
+date: 2024-10-28T13:30:33.490Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -108,7 +108,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
-|     |  |   |   |   |   |   |  |
+|  14:00-15:00   | WMR 4  | NMRG-NDT  |  IRTF |  jerome.francois@uni.lu laurent.ciavaglia@nokia.com | Objectives and strategy for NDT topic at NMRG  | https://ietf.webex.com/meet/ietfsidemeeting21  | tbd |
 |  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  RTG,IETF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:00-16:30   | WMR 4 | I2INF  |  OPS |  pauljeong@skku.edu | Preparation for Interface to In-Network Functions (I2INF) BoF | https://us02web.zoom.us/j/89634926657?pwd=3SBoUaOsQAn1BobXzPKIR2uH1XT4NC.1 | TBD |
@@ -247,8 +247,8 @@ Location: Second Floor
 | 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 13:00-13:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 13:30-14:00 |                       |                    |    
-| 14:00-14:30 |                       |                    |    
-| 14:30-15:00 |                       |  SUSTAIN RG        |    
+| 14:00-14:30 | NMRG-NDT              |                    |    
+| 14:30-15:00 | NMRG-NDT              |  SUSTAIN RG        |    
 | 15:00-15:30 | I2INF                 |  SUSTAIN RG        |    
 | 15:30-16:00 | I2INF                 | Coherent Pluggable |    
 | 16:00-16:30 | I2INF                 | Coherent Pluggable |    
