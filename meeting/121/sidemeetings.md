@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-29T08:36:27.846Z
+date: 2024-10-29T10:57:34.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -82,6 +82,7 @@ Please keep the tables sorted by meeting, by time.
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |13:30-15:00|Wicklow MR4|UNS-UCA Update|SEC|manu@hushmesh.com||will use the IETF provided Webex|TBD|
 |16:00-17:30|Wicklow MR4|Performance Monitoring|RTG|italo.busi@huawei.com|YANG models for Performance Monitoring|will use the IETF provided Webex|TBD|
+|16:00-17:00|Wicklow Hall 2A|NMRG|IRTF|jerome.francois@uni.lu laurent.ciavaglia@nokia.com|Objectives and strategy for NDT topic at NMRG |https://ietf.webex.com/meet/ietfsidemeeting2|TBD|
 |17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies and in general networks in the presence of varying traffic demands | [IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2) |  |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
 | 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | TBD  |   |     |
@@ -188,8 +189,8 @@ Location: Second Floor
 | 14:30-15:00 | UNS-UCA Update        |   Deepspace        |    
 | 15:00-15:30 |                       |   Deepspace        |    
 | 15:30-16:00 |                       |                    |    
-| 16:00-16:30 | Performance Monitoring |                    |    
-| 16:30-17:00 | Performance Monitoring |                    |    
+| 16:00-16:30 | Performance Monitoring |  NMRG                  |    
+| 16:30-17:00 | Performance Monitoring |  NMRG                  |    
 | 17:00-17:30 | Performance Monitoring | Adaptive/Perceptive Routing |    
 | 17:30-18:00 |                       | Adaptive/Perceptive Routing |    
 | 18:00-18:30 |                       |    IHL Foundations |    
