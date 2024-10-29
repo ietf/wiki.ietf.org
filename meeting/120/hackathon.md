@@ -2,7 +2,7 @@
 title: IETF 120 Hackathon
 description: 
 published: true
-date: 2024-07-24T22:15:39.253Z
+date: 2024-10-29T08:23:54.203Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-10T22:34:18.739Z
@@ -272,7 +272,7 @@ Zhuoyao Lin (zhuoyao.lin1 @ huawei-partners.com)
 Benoit Claise (benoit.claise @ huawei.com)
 
 - **Draft Specifications**
-https://datatracker.ietf.org/doc/draft-lincla-netconf-yang-library-augmentedby/
+https://datatracker.ietf.org/doc/draft-ietf-netconf-yang-library-augmentedby/
 
 - **Project Info**
 Implement the ietf-yang-library augmentedby list to the find-relationship solution of libyangpush(YANG push receiver component of the Data Mesh Architecture defined in draft-ietf-nmop-yang-message-broker-integration).
