@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-29T20:01:59.343Z
+date: 2024-10-29T20:04:58.826Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -130,6 +130,7 @@ Location: Liffey Boardroom 3
 ## Tuesday, 5 November 2024
 * 08:45 - 09:15 -- DIEM BoF preparation (chairs, proponents, ADs) (Éric Vyncke)
 * 11:30 - 13:00 -- NEMOPS Workshop PC (Warren, Mahesh)
+* 14:45 - 15:45 -- Chair/ExecDir Meeting with Global Host/Huawei (Roman/Jay)
 * 17:30-19:00 -- INT Office Hours
 
 ## Wednesday, 6 November 2024
