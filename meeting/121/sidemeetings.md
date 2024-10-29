@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-29T11:30:34.787Z
+date: 2024-10-29T11:31:53.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -111,7 +111,6 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | TBD |
-|  14:00-15:00   | WMR 4  | NMRG-NDT  |  IRTF |  jerome.francois@uni.lu laurent.ciavaglia@nokia.com | Objectives and strategy for NDT topic at NMRG  | https://ietf.webex.com/meet/ietfsidemeeting21  | tbd |
 |  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  RTG,IETF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:00-16:30   | WMR 4 | I2INF  |  OPS |  pauljeong@skku.edu | Preparation for Interface to In-Network Functions (I2INF) BoF | https://us02web.zoom.us/j/89634926657?pwd=3SBoUaOsQAn1BobXzPKIR2uH1XT4NC.1 | TBD |
