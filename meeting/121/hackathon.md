@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-28T15:54:47.471Z
+date: 2024-10-29T13:10:06.060Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -743,6 +743,16 @@ Philip Homburg <philip@nlnetlabs.nl>
 Chain queries are an interesting approach to speed up local DNSSEC valition. I'll look into adding both the server and client side to the (Rust) Domain crate NLnet Labs is working on.
 
 ----
+### Greasing the DNS
+- **Champions**
+Stéphane Bortzmeyer <bortzmeyer@nic.fr>
+- **Project Info**
+Adding greasing support to DNS software (for starting: in the authoritative name server Drink) and testing through various systems such as the RIPE Atlas probes) that it does not break anything.
+- **Draft Specification**
+https://datatracker.ietf.org/doc/draft-ietf-dnsop-grease
+
+----
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
