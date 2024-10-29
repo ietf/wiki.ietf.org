@@ -2,7 +2,7 @@
 title: IETF 121 Departure Coordination
 description: 
 published: true
-date: 2024-07-30T20:28:26.241Z
+date: 2024-10-29T17:34:52.487Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T20:28:26.241Z
@@ -37,7 +37,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+|  04:00 | AF 1017 | Bob | bob.hinden@gmail.com | DUB |1 | DUB  | to Paris  |
 |      |        |      |       |         |          |             |       |
 
 
