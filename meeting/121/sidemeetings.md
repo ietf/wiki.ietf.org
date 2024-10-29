@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-29T11:32:40.587Z
+date: 2024-10-29T17:46:23.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -129,7 +129,7 @@ Please keep the tables sorted by meeting, by time.
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com liuyisong@chinamobile.com | [Discuss Inter-DC AI Networking Challenges](https://github.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121) |  https://ietf.webex.com/meet/ietfsidemeeting2 | [inter-dc_ai_networking.ics](/121/inter-dc_ai_networking.ics) |
 | 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | https://ietf.webex.com/meet/sidemeetingietf1 | tbd |
 | 17:00-18:00 | Wicklow Hall 2A | Public Interest Technology Group (PITG) | - | gurshabad@cis-india.org | Open to everyone: discussion of issues at the intersection of IETF, rights, security, privacy, equity | [Zoom](https://zoom.us/j/99541533367) | [.ics](https://pitg.network/ietf121.ics) |
-| 17:00-18:30 | WNR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | TBD | TBD |
+| 17:00-19:00 | WMR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | TBD | TBD |
 | 18:30-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | tbd | tbd |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -291,7 +291,7 @@ Location: Second Floor
 | 17:00-17:30 |  Satellite            |  PITG                   |    
 | 17:30-18:00 |  Satellite            |  PITG                   |    
 | 18:00-18:30 |  Satellite            |                         |    
-| 18:30-19:00 |                       | On-Path Proxy Discovery |    
+| 18:30-19:00 |  Satellite            | On-Path Proxy Discovery |    
 | 19:00-19:30 |                       | On-Path Proxy Discovery |    
 | 19:30-20:00 |                       | On-Path Proxy Discovery |    
 | 20:00-20:30 |   **NOT AVAILABLE**  | **NOT AVAILABLE**  |  
