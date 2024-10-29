@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-28T17:53:11.131Z
+date: 2024-10-29T12:02:36.886Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -66,6 +66,7 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
 >3. NEMOPS Workshop Update (Program Committee)
+>4. ITU GSS/WTSA 2024 Trip Report (Roman) 
 
 
 ### IESG Meeting - 14:00-16:00 Room: Wicklow Hall 2A
