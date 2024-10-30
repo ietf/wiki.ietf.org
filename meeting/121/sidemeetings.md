@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-30T18:11:31.899Z
+date: 2024-10-30T18:14:08.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -96,7 +96,7 @@ Please keep the tables sorted by meeting, by time.
 |     |  |   |   |   |   |   |  |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk & chengweiqiang@chinamobile.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? Agenda: https://github.com/danielkinguk/ai4network/blob/main/ietf121/agenda-121.md | https://ietf.webex.com/meet/ietfsidemeeting2    | TBA |
 |     |  |   |   |   |   |   |  |
-| 13:30  - 15:00  | Wicklow Meeting Room 4 | ALFA 2.0  | SEC | t.dimitrakos@kent.ac.uk & david.brossard@axiomatics.com  | Proposing a new working group focused on fine-grained authorization policy language ALFA 2.0 Github: https://github.com/davidjbrossard/alfa-authorization-language | https://ietf.webex.com/meet/ietfsidemeeting1    | TBA |
+| 13:30  - 15:00  | Wicklow Meeting Room 4 | ALFA 2.0  | SEC | t.dimitrakos@kent.ac.uk & david.brossard@axiomatics.com  | Proposing a new working group focused on fine-grained authorization policy language ALFA 2.0 Github: https://github.com/davidjbrossard/alfa-authorization-language | https://ietf.webex.com/meet/sidemeetingietf1    | TBA |
 |     |  |   |   |   |   |   |  |
 | 1500 - 1630 | Wicklow Hall 2A | Large Language Models for Networking |  | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | Exploring how large language models can enhance networking tasks and discussing related standards. | will use the IETF provided Webex | TBA |
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | [IETF WebEx](https://ietf.webex.com/meet/sidemeetingietf1) | [.ics](/side-meetings/srv6ops_draft_authors_informal_side_meeting_ietf_121.ics) | 
