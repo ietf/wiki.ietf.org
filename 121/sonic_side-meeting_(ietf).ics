@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Patrice Brissette (pbrisset):mailto:pbrisset@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=murali Ve
+ nkateshaiah (muraliv):mailto:muraliv@cisco.com
+DESCRIPTION:\n\n-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-\n-- Do not de
+ lete or change any of the following text. --\n\nWhen it's time\, join your
+  Webex meeting here.\n\n\nMeeting number (access code): 2662 467 8378\nMee
+ ting password: 3Ri5FHFMCb9 (37453436 when dialing from a phone)\n\n\nJoin 
+ meeting<https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f342c3da9
+ 8a2d119b>\n\nTap to join from a mobile device (attendees only)\n+1-408-525
+ -6800\,\,26624678378#37453436#<tel:%2B1-408-525-6800\,\,*01*26624678378%23
+ 37453436%23*01*> Call-in toll number (US/Canada)\nSome mobile devices may 
+ ask attendees to enter a numeric password.\n\nJoin by phone\n+1-408-525-68
+ 00 Call-in toll number (US/Canada)\nGlobal call-in numbers<https://cisco.w
+ ebex.com/cisco/globalcallin.php?MTID=mf59db5da67607cfc3718fa6e0fcdaae2>\n\
+ nJoin from a video system or application\nDial 26624678378@webex.com<sip:2
+ 6624678378@webex.com>\nYou can also dial 173.243.2.68 and enter your meeti
+ ng number.\n\n\nIf you are a host\, click here<https://cisco.webex.com/web
+ appng/sites/cisco/meeting/info/ccbf9eb2dbf24cd7b97f2d239b92495b> and login
+  site to view host information.\n\n\nNeed help? Go to http://help.webex.co
+ m\n\n\n
+UID:040000008200E00074C5B7101A82E0080000000091470800382ADB01000000000000000
+ 010000000C5E0BFE4D1E7CE44A0D8E383ECA80287
+SUMMARY:SONIC Side-meeting (IETF)
+DTSTART:20241105T170000Z
+DTEND:20241105T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20241029T194226Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+LOCATION;ALTREP="https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f3
+ 42c3da98a2d119b":https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f
+ 342c3da98a2d119b
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:
+X-MICROSOFT-ONLINEMEETINGCONFLINK:
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://cisco.webex.com/cisco/j.php?MTID=m4
+ f4fb566a209962f342c3da98a2d119b
+X-MICROSOFT-LOCATIONSOURCE:Resource
+X-MICROSOFT-LOCATIONURI:https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a
+ 209962f342c3da98a2d119b
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT5M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
