@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-30T09:06:53.456Z
+date: 2024-10-30T15:29:40.097Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -770,6 +770,40 @@ This project is beginner-friendly and we encourage all newcomers (and experience
 - **Challenges**
   - Updating implementations to support the latest draft. As the draft has been stable and is nearing its completion, we want to update existing implementations from earlier drafts to work with the latest revision.
   - Testing interoperability between different clients and servers. 
+
+---
+  ### vCon
+- **Champions**
+  - Dan Petrie (dan.vcon@sipez.com)
+  
+- **Project Info**
+**WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
+**I-D:** [vCon container](https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-container/)
+**Repos:**
+  - [python_vcon library and CLI](https://github.com/py-vcon/py-vcon/tree/main)
+  - [py_vcon_server](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/README.md)
+  
+One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
+  
+  + Communications systems (email, sms, web chate, voice and video calls)
+  + Data consumer or customer data platform
+  + AI, ML and algorithmic analysis services, model training and testing
+  + CRM systems
+  
+- **Hackathon Objective**
+The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.  The **group** and **appended** features of vCon have not been implemented or tested.  The **redacted** feature has been implemented and tested mainly with text transcriptions.  Further exploration of redacted audio and video dialogs had not been well tested.
+
+- **Hackathon Work Items**
+
+  - Implement amended vCon and generate example for the vCon Container I-D
+    - Implement **appended** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md) and [plugin](https://github.com/py-vcon/py-vcon/blob/main/README.md#adding-vcon-filter-plugins)
+    - Implement **appended** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+  - Implement **group** vCon and generate example for the vCon Container I-D
+  	- Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
+    - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+  - Implement **redacted** for video and/or audio media dialogs
+  
+  
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
