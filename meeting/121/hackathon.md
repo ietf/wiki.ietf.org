@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-29T13:10:06.060Z
+date: 2024-10-30T09:05:42.073Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -751,6 +751,24 @@ Adding greasing support to DNS software (for starting: in the authoritative name
 - **Draft Specification**
 https://datatracker.ietf.org/doc/draft-ietf-dnsop-grease
 
+----
+### Resumable Uploads for HTTP (RUFH)*
+
+This project is beginner-friendly and we encourage all newcomers (and experienced) visitors to join from the kickoff or at any time during day.
+
+- **Champions**
+  - Marius Kleidl (marius@transloadit.com)
+  
+- **Project info**
+  - HTTP provides resumable downloads out of the box, but not resumable uploads. To handle unreliable networks, many platforms implement their own proprietary approach for resumable uploads. With RUFH, we attempt to find a standard method for resumable uploads allowing interoperable implementations and widespread use.
+  - List of existing implementations: https://github.com/tus/rufh-implementations
+    
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-httpbis-resumable-upload/05/
+
+- **Challenges**
+  - Updating implementations to support the latest draft. As the draft has been stable and is nearing its completion, we want to update existing implementations from earlier drafts to work with the latest revision.
+  - Testing interoperability between different clients and servers. 
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
