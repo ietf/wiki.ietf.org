@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-30T09:05:42.073Z
+date: 2024-10-30T09:06:53.456Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -758,6 +758,7 @@ This project is beginner-friendly and we encourage all newcomers (and experience
 
 - **Champions**
   - Marius Kleidl (marius@transloadit.com)
+  - Guoye Zhang (guoye_zhang@apple.com)
   
 - **Project info**
   - HTTP provides resumable downloads out of the box, but not resumable uploads. To handle unreliable networks, many platforms implement their own proprietary approach for resumable uploads. With RUFH, we attempt to find a standard method for resumable uploads allowing interoperable implementations and widespread use.
