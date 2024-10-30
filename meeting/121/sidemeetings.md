@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-30T14:29:51.177Z
+date: 2024-10-30T14:30:18.212Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -79,8 +79,7 @@ Please keep the tables sorted by meeting, by time.
 |     |  |   |   |   |   |   |  |
 |12:30-13:25|Wicklow Hall 2A|Originator Profile| |shigeya@wide.ad.jp|Introduction to Orignator Profile Project https://www.originator-profile.org/en-US/ |will use the IETF provided Webex|TBD|
 |13:30-15:30|Wicklow Hall 2A|Technical discussions on deepspace|INT|marc.blanchet@viagenie.ca|[see proposed agenda](https://deepspaceip.github.io/meetings/ietf121/) |[IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2)|[.ics](https://deepspaceip.github.io/meetings/ietf121/ietf121-deepspace-side-meeting.ics)|
-|13:30-15:00|WMR4|UNS-UCA Update: About Extrinsic, Intrinsic,
-Decentralized, and Stem Identifiers|SEC|manu@hushmesh.com|Contrast properties of Extrinsic, Intrinsic, Decentralized, and Stem identifiers. Update on how Stem identifiers enable the creation of a "least-trust" Universal Name System and Universal Certificate Authority. |https://ietf.webex.com/meet/sidemeetingietf1|TBD|
+|13:30-15:00|WMR4|UNS-UCA Update: About Extrinsic, Intrinsic, Decentralized, and Stem Identifiers|SEC|manu@hushmesh.com|Contrast properties of Extrinsic, Intrinsic, Decentralized, and Stem identifiers. Update on how Stem identifiers enable the creation of a "least-trust" Universal Name System and Universal Certificate Authority. |https://ietf.webex.com/meet/sidemeetingietf1|TBD|
 |16:00-17:30|Wicklow MR4|Performance Monitoring|RTG|italo.busi@huawei.com|YANG models for Performance Monitoring|will use the IETF provided Webex|TBD|
 |16:00-17:00|Wicklow Hall 2A|NMRG|IRTF|jerome.francois@uni.lu laurent.ciavaglia@nokia.com|NMRG – Network Digital Twin (NDT) side meeting focusing on objectives and guidance for the work and document organization in/by the research group. The goal is to agree on best course of actions, targeted form(s) of research results, their scopes and organization. |https://ietf.webex.com/meet/ietfsidemeeting2|[.ics](https://drive.google.com/file/d/1-EhZ1Mpepb4Ei-KjWwBaozXT2NH_2ttI/view?usp=sharing)|
 |17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies and in general networks in the presence of varying traffic demands | [IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2) |  |
