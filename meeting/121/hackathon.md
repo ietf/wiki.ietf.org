@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-30T15:32:52.723Z
+date: 2024-10-30T15:38:48.619Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -782,13 +782,13 @@ This project is beginner-friendly and we encourage all newcomers (and experience
 **Repos:**
   - [python_vcon library and CLI](https://github.com/py-vcon/py-vcon/tree/main)
   - [py_vcon_server](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/README.md)
+
+  One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
   
-One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
-  
-  + Communications systems (email, sms, web chate, voice and video calls)
-  + Data consumer or customer data platform
-  + AI, ML and algorithmic analysis services, model training and testing
-  + CRM systems
+  - Communications systems (email, sms, web chate, voice and video calls)
+  - Data consumer or customer data platform
+  - AI, ML and algorithmic analysis services, model training and testing
+  - CRM systems
   
 - **Hackathon Objective**
 The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.  The **group** and **appended** features of vCon have not been implemented or tested.  The **redacted** feature has been implemented and tested mainly with text transcriptions.  Further exploration of redacted audio and video dialogs had not been well tested.
