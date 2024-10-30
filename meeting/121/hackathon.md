@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-30T15:38:48.619Z
+date: 2024-10-30T20:16:02.769Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -642,8 +642,13 @@ Following-up from the IETF-120 Hackathon “Exploring Implementation Approaches 
 	- Interoperability testing between different NTPv5 implementations.
 
 - **Specifications**
-		- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/
-		- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
+	- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5-requirements/
+	- https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
+
+- **Repositories**
+	 - NTPD-RS: https://github.com/pendulum-project/ntpd-rs
+   - NTPv5-EXP: https://github.com/mlichvar/ntp5-exp
+
 
 ----
 ### Multipath QUIC Interop testing
