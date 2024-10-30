@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-10-30T14:09:43.671Z
+date: 2024-10-30T14:13:01.939Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -131,7 +131,7 @@ Please keep the tables sorted by meeting, by time.
 | 17:00-18:00 | Wicklow Hall 2A | Public Interest Technology Group (PITG) | - | gurshabad@cis-india.org | Open to everyone: discussion of issues at the intersection of IETF, rights, security, privacy, equity | [Zoom](https://zoom.us/j/99541533367) | [.ics](https://pitg.network/ietf121.ics) |
 | 17:00-19:00 | WMR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | TBD | TBD |
 | 18:30-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | https://uio.zoom.us/j/61646201397?pwd=Eiy8ZJYLhFVEShxS8ica7umKattqra.1
- | tbd |
+ | https://github.com/mwelzl/oppd/blob/main/ietf121-oppd.ics |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
