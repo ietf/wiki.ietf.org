@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-30T15:29:40.097Z
+date: 2024-10-30T15:32:52.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -774,7 +774,7 @@ This project is beginner-friendly and we encourage all newcomers (and experience
 ---
   ### vCon
 - **Champions**
-  - Dan Petrie (dan.vcon@sipez.com)
+  - Dan Petrie (dan.ietf@sipez.com)
   
 - **Project Info**
 **WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
