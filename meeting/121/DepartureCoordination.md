@@ -2,7 +2,7 @@
 title: IETF 121 Departure Coordination
 description: 
 published: true
-date: 2024-10-29T17:35:43.811Z
+date: 2024-10-31T01:03:34.259Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T20:28:26.241Z
@@ -29,6 +29,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
+|  11:50AM | UA229 | Lixia Zhjang | lixia@cs.ucla.edu | DUB |2 | Travel Lodge  | to IAD  |
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
 
