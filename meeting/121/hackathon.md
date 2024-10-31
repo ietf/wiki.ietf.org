@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-30T20:16:02.769Z
+date: 2024-10-31T11:20:21.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -426,6 +426,17 @@ Greg White (g.white at cablelabs.com)
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  
+---
+### Implement GoBGP BGP-LS Extensions for SRv6 Service Chaining
+- **Champion(s)**
+  - Yuta Fukagawa (y.fukagawa@ntt.com)
+- **Project Info**
+  - Implement GoBGP BGP-LS Extensions for SRv6 Service Chaining
+- **Specifications**
+  - [BGP-LS Advertisement of Segment Routing Service Segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
+- **Repositories*
+  - [GoBGP Extended for IETF Hackathon](https://github.com/yfskyline/ietf121-hackathon)
   
 ---
 ### Interface to In-Network Functions (I2INF) Project
