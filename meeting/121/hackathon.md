@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-31T13:59:25.128Z
+date: 2024-10-31T17:29:12.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -435,7 +435,7 @@ Greg White (g.white at cablelabs.com)
   - Implement GoBGP BGP-LS Extensions for SRv6 Service Chaining
 - **Specifications**
   - [BGP-LS Advertisement of Segment Routing Service Segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
-- **Repositories*
+- **Repositories**
   - [GoBGP Extended for IETF Hackathon](https://github.com/yfskyline/ietf121-hackathon)
   
 ---
