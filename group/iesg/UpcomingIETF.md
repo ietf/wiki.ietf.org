@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-10-30T16:22:25.491Z
+date: 2024-10-31T01:08:41.570Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -72,8 +72,9 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1001
 
-> Approve [IESG Statement on comments/contributors](https://docs.google.com/document/d/1b81ufX4kxgQBcEH7NomS4t6SO3c42r-mORCulI0js1Q/edit)
 > IANA Update (10min, Sabrina)
+> RPC Check-in (10min, Sandy)
+> Approve [IESG Statement on comments/contributors](https://docs.google.com/document/d/1b81ufX4kxgQBcEH7NomS4t6SO3c42r-mORCulI0js1Q/edit)
 
 ## Monday, November 4, 2024
 
