@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2024-10-17T09:07:18.112Z
+date: 2024-10-31T16:57:23.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -19,12 +19,12 @@ Thursday, Nov 7, 2024 10:00-11:30 UTC ([information about room and online partic
 ## Agenda
 
 - 5' Note Well / Agenda Bashing
-- 15'+q Swapneel Sheth and Joe Harvey (Verisign): PQ DNSSEC with MTL Mode
+- 15'+q Joe Harvey (Verisign): PQ DNSSEC with MTL Mode
 - 15'+q Jason Goertzen (SandboxAQ): Field study on mitigating the costs of Post-Quantum DNSSEC with Merkle Trees
 - 20'+q Ralph Koning (SIDN Labs): A testbed to evaluate post-quantum cryptography in DNSSEC
 - Open Discussion / AOB
 
-### Swapneel Sheth, Joe Harvey: PQ DNSSEC with MTL Mode
+### Joe Harvey: PQ DNSSEC with MTL Mode
 
 Post-quantum DNSSEC has been one of the core use cases for [MTL Mode](https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/). The first phase of our operational research on MTL mode for DNSSEC focused on demonstrating zone signing. A proof-of-concept zone with MTL Mode condensed and full signatures was provided at the [IETF-120 hackathon - Exploring Implementation Approaches for Merkle Tree Ladder Mode Signatures for DNSSEC](https://wiki.ietf.org/en/meeting/120/hackathon). Using the open source MTL Mode validation tools, users were able to make sample queries and verify the responses. The next phase of research has focused on adding a recursive validator to the proof-of-concept system.  The proof-of-concept system tests the integration of MTL Mode into DNSSEC while minimizing changes to the resolver codebase.  Implementation was done using the  “request / retry” or “flag” approach in the [MTL considerations draft](https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/) which is expressed as the SOA lookup approach in the appendix of the [MTL DNSSEC draft](https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/).  This implementation allows us to validate our initial [assumptions on the average endurance](https://eprint.iacr.org/2022/1730.pdf) of a reference value that would be sent to a requester in MTL mode and the query/response sizes. The third research phase will involve creating a more complete MTL DNSSEC draft specification implementation that includes the new EDNS full signature option.  Further, we would like to collect further feedback from the resolver community with additional proof-of-concept implementations in other code bases and overall operational experience.
 
