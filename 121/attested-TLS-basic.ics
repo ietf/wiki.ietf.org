@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IETF 121
+X-WR-TIMEZONE:Europe/Dublin
+BEGIN:VEVENT
+DTSTART:20241105T093000Z
+DTEND:20241105T113000Z
+DTSTAMP:20241031T101917Z
+UID:75vgfta41ba01puniarr47r1mj@google.com
+CREATED:20241031T095140Z
+DESCRIPTION:Basic Tutorial: Attested TLS<br><br><ul><li>Integrating attesta
+ tion in network protocol </li></ul><br><br>Relevant for: TLS\, RATS\, LAMPS
+ \, LAKE WGs and UFMRG <br><br>Room: Wicklow Hall 2A<br><br>Conference link:
+  <a href="https://ietf.webex.com/meet/ietfsidemeeting2">https://ietf.webex.
+ com/meet/ietfsidemeeting2</a><br><br>Contact: <a href="mailto:muhammad_usam
+ a.sardar@tu-dresden.de" target="_blank">muhammad_usama.sardar@tu-dresden.de
+ </a>
+LAST-MODIFIED:20241031T100837Z
+LOCATION:Wicklow Hall 2A
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Side meeting: Tutorial: Attested TLS
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
