@@ -23,29 +23,31 @@ ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=Lihua Yua
  n:mailto:Lihua.Yuan@microsoft.com
 ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=syed.naqv
  i@broadcom.com:mailto:syed.naqvi@broadcom.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=kristina.
+ moore@microsoft.com:mailto:kristina.moore@microsoft.com
 DESCRIPTION:Agenda:\n\n4 min: Welcome – Patrice Brissette (Cisco)\n15 min
  : Introduction to SONiC and its philosophy – Lihua Yuan (Microsoft)\n12 
  min: SONiC High-Level Architecture – Patrice Brissette (Cisco)\n12 min: 
  SONiC Routing Workgroup – modes of operation and use cases – Syed Hasa
- n Raza Naqvi (Broadcom)\n12 min: Smartswitch Workgroup – modes of operat
- ion and use cases – Murali Venkateshaiah (Cisco)\n5 min: Closure and cal
- l for action – Patrice Brissette (Cisco)\n\n\n-~-~-~-~-~-~-~-~-~-~-~-~-~
- -~-~-~-~-~-~-~-~-~-\n-- Do not delete or change any of the following text.
-  --\n\nWhen it's time\, join your Webex meeting here.\n\n\nMeeting number 
- (access code): 2662 467 8378\nMeeting password: 3Ri5FHFMCb9 (37453436 when
-  dialing from a phone)\n\n\nJoin meeting<https://cisco.webex.com/cisco/j.p
- hp?MTID=m4f4fb566a209962f342c3da98a2d119b>\n\nTap to join from a mobile de
- vice (attendees only)\n+1-408-525-6800\,\,26624678378#37453436#<tel:%2B1-4
- 08-525-6800\,\,*01*26624678378%2337453436%23*01*> Call-in toll number (US/
- Canada)\nSome mobile devices may ask attendees to enter a numeric password
- .\n\nJoin by phone\n+1-408-525-6800 Call-in toll number (US/Canada)\nGloba
- l call-in numbers<https://cisco.webex.com/cisco/globalcallin.php?MTID=mf59
- db5da67607cfc3718fa6e0fcdaae2>\n\nJoin from a video system or application\
- nDial 26624678378@webex.com<sip:26624678378@webex.com>\nYou can also dial 
- 173.243.2.68 and enter your meeting number.\n\n\nIf you are a host\, click
-  here<https://cisco.webex.com/webappng/sites/cisco/meeting/info/ccbf9eb2db
- f24cd7b97f2d239b92495b> and login site to view host information.\n\n\nNeed
-  help? Go to http://help.webex.com\n\n\n
+ n Raza Naqvi (Broadcom)\n12 min: DASH/Smartswitch Workgroup – modes of o
+ peration and use cases – Kristina Moore (Microsoft)\, Murali Venkateshai
+ ah (Cisco)\n5 min: Closure and call for action – Patrice Brissette (Cisc
+ o)\n\n\n-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-\n-- Do not delete or
+  change any of the following text. --\n\nWhen it's time\, join your Webex 
+ meeting here.\n\n\nMeeting number (access code): 2662 467 8378\nMeeting pa
+ ssword: 3Ri5FHFMCb9 (37453436 when dialing from a phone)\n\n\nJoin meeting
+ <https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f342c3da98a2d119
+ b>\n\nTap to join from a mobile device (attendees only)\n+1-408-525-6800\,
+ \,26624678378#37453436#<tel:%2B1-408-525-6800\,\,*01*26624678378%233745343
+ 6%23*01*> Call-in toll number (US/Canada)\nSome mobile devices may ask att
+ endees to enter a numeric password.\n\nJoin by phone\n+1-408-525-6800 Call
+ -in toll number (US/Canada)\nGlobal call-in numbers<https://cisco.webex.co
+ m/cisco/globalcallin.php?MTID=mf59db5da67607cfc3718fa6e0fcdaae2>\n\nJoin f
+ rom a video system or application\nDial 26624678378@webex.com<sip:26624678
+ 378@webex.com>\nYou can also dial 173.243.2.68 and enter your meeting numb
+ er.\n\n\nIf you are a host\, click here<https://cisco.webex.com/webappng/s
+ ites/cisco/meeting/info/ccbf9eb2dbf24cd7b97f2d239b92495b> and login site t
+ o view host information.\n\n\nNeed help? Go to http://help.webex.com\n\n\n
 UID:040000008200E00074C5B7101A82E0080000000091470800382ADB01000000000000000
  010000000C5E0BFE4D1E7CE44A0D8E383ECA80287
 SUMMARY:SONIC Side-meeting (IETF)
@@ -53,7 +55,7 @@ DTSTART:20241105T170000Z
 DTEND:20241105T180000Z
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20241029T195544Z
+DTSTAMP:20241031T180853Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 LOCATION;ALTREP="https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f3
