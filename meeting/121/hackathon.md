@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-31T11:20:21.838Z
+date: 2024-10-31T13:59:25.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -818,7 +818,21 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   	- Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
     - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
   - Implement **redacted** for video and/or audio media dialogs
-  
+
+----
+### TLS Client puzzles
+- **Champions**
+David Venhoek: david@venhoek.nl
+- **Project Info**
+TLS client puzzles are a way to have a client perform some amount of computational work before the server starts processing the handshake. This is intended to defend against DDoS attacks that exploit the asymmetry in effort needed to generate a client hello versus processing it at the TLS server. 
+
+Our goal during the hackathon will be to implement TLS client puzzles in more TLS libraries and test them against a demo server using the RusTLS implementation of tls client puzzles.
+
+- **Current implementations**
+  - RusTLS patches: https://github.com/tweedegolf/rustls-pow
+- **Relevant documents**
+  - Draft soon to be uploaded to datatracker: https://github.com/tweedegolf/draft-TLS-client-puzzles
+  - Original Nygren draft: https://datatracker.ietf.org/doc/draft-nygren-tls-client-puzzles/
   
 ----
 
