@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-10-31T20:22:26.946Z
+date: 2024-11-01T09:38:50.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -834,6 +834,20 @@ Our goal during the hackathon will be to implement TLS client puzzles in more TL
   - Draft soon to be uploaded to datatracker: https://github.com/tweedegolf/draft-TLS-client-puzzles
   - Original Nygren draft: https://datatracker.ietf.org/doc/draft-nygren-tls-client-puzzles/
   
+----
+  
+### CBOR: Implementing packed
+- **Champions**
+Christian Amsüss <chrysn@fsfe.org>
+- **Project Info**
+  CBOR is a binary serialization format that is compact and extends the JSON model. Packed CBOR is a compression mechanism that uses CBOR's extension points; unlike stream compression, it can be used in place without unpacking. The [current draft is an implementation draft](https://datatracker.ietf.org/doc/draft-ietf-cbor-packed/13/): We believe it is feature complete, but it has not been tested with many implementations.
+
+  In this hackathon project will change that.
+  
+- **Implementations under consideration**
+
+  [cbor2](https://github.com/agronholm/cbor2) (Python), [minicbpr](https://github.com/twittner/minicbor) (Rust for embedded), [cbor-edn](https://codeberg.org/chrysn/cbor-edn) (Rust for diagnostic notation)
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
