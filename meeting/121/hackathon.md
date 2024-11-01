@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-01T14:20:34.228Z
+date: 2024-11-01T14:23:37.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -877,6 +877,8 @@ Papers, slides etc. https://s.kit.edu/KIRA
 - **Champions**
 	- Michael Mackey (michael.mackey@huawei.com)
 	- Anatolii Pererva (anatolii.pererva@huawei.com)
+  - Benoit Claise (benoit.claise@huawei.com)
+  
 - **Project Info**
 Knowledge Graphs are an essential tool for connecting data and recording dynamic relationships. A big barrier to using Knowledge Graphs within the networking world is the ability to represent networking data in a Knowledge Graph. In order to bridge this gap we introduce YANG2RDF,  a tool that takes YANG files and converts them to RDF.
 
