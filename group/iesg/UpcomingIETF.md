@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-01T12:26:05.089Z
+date: 2024-11-01T21:37:00.491Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -66,16 +66,17 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 >2. Area walkthrough for hot topics (45 min)
     Random order: WIT, RTG, GEN, OPS, IRTF, SEC, INT, ART, IAB
 >3. NEMOPS Workshop Update (Program Committee)
->4. ITU GSS/WTSA 2024 Trip Report (Roman) 
+>4. [ITU GSS/WTSA 2024 Trip Report](https://docs.google.com/document/d/1aZb4OH9hHZwrk_Jg-k0quRLllO0mcOZ5k2WDGQLERtA/edit) (Roman) 
 
 
 ### IESG Meeting - 14:00-16:00 Room: Wicklow Hall 2A
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1001
 
-> IANA Update (10min, Sabrina)
-> RPC Check-in (10min, Sandy)
-> Approve [IESG Statement on comments/contributors](https://docs.google.com/document/d/1b81ufX4kxgQBcEH7NomS4t6SO3c42r-mORCulI0js1Q/edit)
+>1.  IANA Update (10min, Sabrina)
+>2.  RPC Check-in (10min, Sandy)
+>3.  Approve [IESG Statement on comments/contributors](https://docs.google.com/document/d/1b81ufX4kxgQBcEH7NomS4t6SO3c42r-mORCulI0js1Q/edit)
+>4.  [Consistent use of Document States](https://docs.google.com/document/d/1AHzNzTbym2aQ9RPuFrRNjOKA2Is9o-BNKg-IwOdbEoY/edit) (Roman)
 
 ## Monday, November 4, 2024
 
