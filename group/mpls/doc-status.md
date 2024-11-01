@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-11-01T13:55:33.388Z
+date: 2024-11-01T16:55:41.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -26,9 +26,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
-| 2024-11-01 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | yes | closed | WGAP successful, document to be merged with draft-gandhi-mpls-mna-ioam-dex; merged document to be published as WG document | Nic |
-| 2024-11-01 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) | yes | closed |  WGAP successful, document to be merged with draft-mb-mpls-ioam-dex; merged document to be published as WG document | Nic |
-| 2024-11-01 | [draft-li-mpls-mna-entropy ](https://datatracker.ietf.org/doc/draft-li-mpls-mna-entropy/) | yes | closed |  WGAP not successful, document not adopted | Nic |
 | 2024-11-01 | [draft-jags-mpls-ps-man-hdr-03 ](https://datatracker.ietf.org/doc/draft-jags-mpls-ps-mna-hdr/) | no | in preparation |  - none -  | Nic |
 ## In Adoption Poll
 
@@ -41,6 +38,8 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair |
 | --- | --- | --- | --- |
+| 2024-11-01 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | WGAP successful, document to be merged with draft-gandhi-mpls-mna-ioam-dex; merged document to be published as WG document | Nic |
+| 2024-11-01 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) |  WGAP successful, document to be merged with draft-mb-mpls-ioam-dex; merged document to be published as WG document | Nic |
 
 ## MPLS WG Documents
 
@@ -61,10 +60,8 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| IETF-117 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | Started 2024-03-12 | Jeffrey Zhang 2023-08-09 (has issues) -09 posted to resolve | blocked waiting for responses | Tony |
 | IETF-118 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Not done  | Toerless 2024-04-03 (not ready)  | Authors addressing comments | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Polled 04/16 | Joel Halpern 2024-01-09 (not ready). -03 and -04 posted | Pending on Kireeti Kompella | Tarek |
-| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Started 2024-04-10; waiting for responses | Darren Dukes RTGDir review done. -10 addresses issues | | Tony |
 | 2024-00-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Not done | Review from Dhruv | Waiting for document rev | Tony |
 
 ## In Working Group Last Call
@@ -87,6 +84,8 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
+| 2024-10-17 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | In RFC Editor queue | Tony |
+| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  Started 2024-04-10; waiting for responses | Darren Dukes RTGDir review done. -10 addresses issues | | Tony |
 | 2024-04-2 | [draft-ietf-mpls-mna-requirements](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-requirements) | None | Adrian |
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
