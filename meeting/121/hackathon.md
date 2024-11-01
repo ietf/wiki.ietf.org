@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-01T11:22:18.445Z
+date: 2024-11-01T14:20:34.228Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -873,7 +873,22 @@ Git repository  https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
 Papers, slides etc. https://s.kit.edu/KIRA
 
 ----
+### YANG To RDF
+- **Champions**
+	- Michael Mackey (michael.mackey@huawei.com)
+	- Anatolii Pererva (anatolii.pererva@huawei.com)
+- **Project Info**
+Knowledge Graphs are an essential tool for connecting data and recording dynamic relationships. A big barrier to using Knowledge Graphs within the networking world is the ability to represent networking data in a Knowledge Graph. In order to bridge this gap we introduce YANG2RDF,  a tool that takes YANG files and converts them to RDF.
 
+- **Hackathon plan**
+YANG2RDF is currently a PoC, we plan to improve the translation during the IETF. 
+
+- **Specifications**
+	https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
+- **Repositories**
+  Github repo: https://github.com/Huawei-IOAM/yang2rdf
+
+----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
