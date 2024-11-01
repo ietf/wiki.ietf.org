@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-11-01T18:00:46.770Z
+date: 2024-11-01T18:01:17.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -16,7 +16,7 @@ This page shows the status of MPLS WG documents.
 The authors have indicated to the chairs that they consider these documents ready for adoption. The chairs will look at these I-Ds, discuss them, and either tell the authors what issues exist or will move the documents to the next status.
 
 | Date | Draft | Remarks | Shepherd  |
-| --- | --- | --- | 
+| --- | --- | --- | --- |
 | 2024-06-24 | [draft-li-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-li-mpls-mna-nrp-selector/) | Waiting for review | Nic
 
 ## Queued for WG Adoption Poll
