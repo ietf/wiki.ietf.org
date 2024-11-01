@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-01T09:38:50.916Z
+date: 2024-11-01T11:22:18.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -847,6 +847,30 @@ Christian Amsüss <chrysn@fsfe.org>
 - **Implementations under consideration**
 
   [cbor2](https://github.com/agronholm/cbor2) (Python), [minicbpr](https://github.com/twittner/minicbor) (Rust for embedded), [cbor-edn](https://codeberg.org/chrysn/cbor-edn) (Rust for diagnostic notation)
+
+----
+
+### KIRA Routing Architecture: Testing of Prototypical Implementation
+- **Champion(s)**
+Roland Bless roland.bless@kit.edu
+- **Project Info**
+KIRA offers highly scalable zero-touch IPv6 connectivity, i.e., it can connect hundred thousands of routers and devices in a single network (without requiring any form of hierarchy like areas).  It is self-organizing to achieve a zero-touch solution that provides resilient (control plane) IPv6 connectivity without requiring any manual configuration by operators.  It works well in various topologies and is loop-free even during convergence.  The architecture consists of the ID-based network layer routing protocol R²/Kad in its routing tier and a Path-ID-based forwarding tier.  The topological independent IDs can be embedded into IPv6 addresses, so that KIRA provides zero-touch IPv6 connectivity between KIRA nodes.
+
+- **Internet Draft:**
+See https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+
+- **Hackathon Objective**
+Get several test cases running for KIRA.
+
+- **Code**
+The current prototype is written in Rust.
+
+- **Repository**
+Git repository  https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
+(may change to github for convenience)
+
+- **Additional Info:** 
+Papers, slides etc. https://s.kit.edu/KIRA
 
 ----
 
