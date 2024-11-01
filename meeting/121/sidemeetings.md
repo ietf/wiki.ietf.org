@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-01T21:21:10.865Z
+date: 2024-11-01T22:03:04.776Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -133,7 +133,7 @@ Please keep the tables sorted by meeting, by time.
 | 17:00-18:00 | Wicklow Hall 2A | Public Interest Technology Group (PITG) | - | gurshabad@cis-india.org | Open to everyone: discussion of issues at the intersection of IETF, rights, security, privacy, equity | [Zoom](https://zoom.us/j/99541533367) | [.ics](https://pitg.network/ietf121.ics) |
 | 17:00-19:00 | WMR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | TBD | TBD |
 | 18:30-20:00 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | https://uio.zoom.us/j/61646201397?pwd=Eiy8ZJYLhFVEShxS8ica7umKattqra.1 | https://github.com/mwelzl/oppd/blob/main/ietf121-oppd.ics |
-|     |  |   |   |   |   |   |  |
+| 19:00-20:00 | WMR 4 | TCP_REPLENISH_TIME | WIT | cheshire@apple.com | Latency management for congestion-controlled transports (TCP, QUIC, etc.) |  |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
 
@@ -294,8 +294,8 @@ Location: Second Floor
 | 17:30-18:00 |  Satellite            |  PITG                   |    
 | 18:00-18:30 |  Satellite            |                         |    
 | 18:30-19:00 |  Satellite            | On-Path Proxy Discovery |    
-| 19:00-19:30 |                       | On-Path Proxy Discovery |    
-| 19:30-20:00 |                       | On-Path Proxy Discovery |    
+| 19:00-19:30 |  TCP_REPLENISH_TIME   | On-Path Proxy Discovery |    
+| 19:30-20:00 |  TCP_REPLENISH_TIME   | On-Path Proxy Discovery |    
 | 20:00-20:30 |   **NOT AVAILABLE**  | **NOT AVAILABLE**  |  
 {.dense}
 
