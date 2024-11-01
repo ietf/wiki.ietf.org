@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2024-08-20T09:45:26.149Z
+date: 2024-11-01T13:28:52.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -26,9 +26,10 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
-| 2024-08-20 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | No | open | pending resolution of the WG poll on IOAM with MNA | Nic |
-| 2024-08-20 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) | No | open |  pending resolution of the WG poll on IOAM with MNA | Nic |
-| 2024-08-20 | [draft-li-mpls-mna-entropy ](https://datatracker.ietf.org/doc/draft-li-mpls-mna-entropy/) | No | open |  review in preparation | Nic |
+| 2024-11-01 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | yes | closed | WGAP successful, document to be merged with draft-gandhi-mpls-mna-ioam-dex; merged document to be published as WG document | Nic |
+| 2024-11-01 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) | yes | closed |  WGAP successful, document to be merged with draft-mb-mpls-ioam-dex; merged document to be published as WG document | Nic |
+| 2024-11-01 | [draft-li-mpls-mna-entropy ](https://datatracker.ietf.org/doc/draft-li-mpls-mna-entropy/) | yes | closed |  WGAP not successful, document not adopted | Nic |
+| 2024-11-01 | [draft-jags-mpls-ps-man-hdr-03 ](https://datatracker.ietf.org/doc/draft-jags-mpls-ps-mna-hdr/) | no | in preparation |  - none -  | Nic |
 ## In Adoption Poll
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
