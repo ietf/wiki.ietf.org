@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-01T21:37:00.491Z
+date: 2024-11-01T21:37:59.577Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,7 +16,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 121, or the joint meetings with the IAB.
 
-* IESG Statement on 2119 language
+
 
 
 # IESG Activities
@@ -77,6 +77,7 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 >2.  RPC Check-in (10min, Sandy)
 >3.  Approve [IESG Statement on comments/contributors](https://docs.google.com/document/d/1b81ufX4kxgQBcEH7NomS4t6SO3c42r-mORCulI0js1Q/edit)
 >4.  [Consistent use of Document States](https://docs.google.com/document/d/1AHzNzTbym2aQ9RPuFrRNjOKA2Is9o-BNKg-IwOdbEoY/edit) (Roman)
+>5.  Next steps on IESG Statement on 2119 language (Murray)
 
 ## Monday, November 4, 2024
 
