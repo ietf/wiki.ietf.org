@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-02T11:43:32.479Z
+date: 2024-11-02T12:58:24.714Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -60,6 +60,10 @@ Michael Richardson (Sandelman Software Works)
   - **Thread Latency Investigations.** One of the main uses of Thread is for home automation, and when you are using an IP network to turn lights on and off, quick response times (under ¼ second) are very desirable. At the same time, an IP network like Thread is ideal for installing firmware updates and similar large data transfers. Because Thread is a low-power low-throughput technology aimed at low-cost devices that can run for years on a single battery, intelligent queue management (including ECN and L4S) is vital so that the network can support large bulk transfers while still maintaining good responsiveness for control operations. The Thread 1.3 specification includes requirements for delay-aware queue management, and there are many research opportunities related to analyzing this behavior and perhaps finding ways to make it even better.
 
   - **Thread Credential Sharing.** Wi-Fi generally utilizes a user-visible password (when we’re not using 802.1X certificates), but Thread opts instead for strong cryptographic keys, which are arguably more secure, but harder for humans to deal with. When we want to have multiple Thread devices participate in a single Thread mesh, they all need to know the key to the mesh. Work is underway on developing a safe secure way to perform device-to-device key transfer, and this Hackathon will be a good opportunity for the people working on that to get together and do some interop testing and debugging.
+
+  - **Lightweight WebSocket Server.** Providing a browser based user interface can be much simpler than providing native apps for different systems. At the moment, it may be hard to do for hardware with limited resources as it requires not only embedding a HTTP server but also all the resources that will be served to the user including HTML, images etc. (not to mention that any updates of web interface would require a software update). A simple WebSocket server can address such issues as the protocol is supported by all the major browsers. Then, the web application with all resources can be hosted on client's side and all the information could be get or set through WebSocket API. Moreover, such endpoints can be reused by any platform supporting WebSocket client (e.g. native desktop app, phone etc.).
+  
+  - **Event logging.** Due to limited resources (device's memory, bandwidth, connectivity issues etc.) it is hard to fetch debug text logs from End Devices set up in the home's network. The idea is to implement an event logger which can store only necessary data that can be fetched in a binary form to be decoded by a simple script/app.
 
 ----
 
