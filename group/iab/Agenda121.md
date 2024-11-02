@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-10-28T17:53:53.630Z
+date: 2024-11-02T11:02:26.341Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -31,7 +31,7 @@ Happy hour: 16:45, Wicklow Hall 2B (second floor)
 > Agenda:
 > 
 > 0930: Liaison RFC updates 4052/4053 (Mirja/Suresh)
-> 1000: Planning for Outreach activity at APRICOT2025/APNIC59 (Dhruv)
+> 1000: Planning for Outreach activity at APRICOT2025/APNIC59 (Dhruv) [[Slide]](https://docs.google.com/presentation/d/1ozvnNmhbDc2pl-BC_97Ri4Al3IQTZaMaUfVZu39Jq0Y/edit?usp=sharing)
 > 1030: Geo IP topics (technical discussion, Tommy/David)
 > 1130: Meeting Ends
 
