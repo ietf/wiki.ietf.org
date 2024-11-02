@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-02T11:19:45.366Z
+date: 2024-11-02T11:43:32.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -31,9 +31,11 @@ Stuart Cheshire (Apple)
 François Michel (Apple)
 Ted Lemon (Apple)
 Esko Dijk (IoTconsultancy.nl)
+Zhaohui (Jeffrey) Zhang (Juniper)
 Aaron Zhang (Westford Academy)
-Konrad Derda (Nordic Semiconductor)
+Konrad Derda (Nordic Semiconductor) (remote)
 Hermin Anggawijaya (Allied Telesis Labs)
+Michael Richardson (Sandelman Software Works)
 
 - **Project Info**
 
