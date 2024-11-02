@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-02T11:10:19.924Z
+date: 2024-11-02T11:32:42.284Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -968,9 +968,14 @@ Working on EAP(-FIDO), RADIUS, OpenRoaming technologies as well as with RADEXT w
 
 ### `scitt` Supply Chain Integrity, Transparency, and Trust
 - **Champions**
-name and email
+  - Jon Geater <jon.geater@rkvst.com>
+  - Nobuo Aoki <n_aoki@ieee.org>
+  - Roy Williams
 - **Project Info**
-project description
+  - SCRAPI - CBOR ALL The Things
+  - ScraPy - Python implementation of SCRAPI
+  - Architecture Hacking
+  - Slide hackings (Promothing transparency)
 - **Location**
   - Onsite: Table 1
 
