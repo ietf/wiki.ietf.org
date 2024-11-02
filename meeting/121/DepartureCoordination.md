@@ -2,7 +2,7 @@
 title: IETF 121 Departure Coordination
 description: 
 published: true
-date: 2024-11-02T18:32:52.514Z
+date: 2024-11-02T18:33:16.927Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T20:28:26.241Z
