@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-02T10:48:17.970Z
+date: 2024-11-02T10:50:40.061Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -297,7 +297,7 @@ Github repo: https://github.com/chazahgroup/expansion
 - **Champion(s)**
   - Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
 - **Project Info**
-	- `lakers` is an implementation of EDHOC in Rust, optimized for microcontrollers, with bindings for C and Python. It also includes an implementation of ELA (lake-authz), and the edhoc-psk draft.
+	- [lakers](https://github.com/openwsn-berkeley/lakers) is an implementation of EDHOC in Rust, optimized for microcontrollers, with bindings for C and Python. It also includes an implementation of ELA (lake-authz), and the edhoc-psk draft.
   - plans for the hackathon include:
     - pure Rust crypto backend for CryptoCell 310
     - CI task to measure and report memory usage
