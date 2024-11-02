@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-02T10:41:39.933Z
+date: 2024-11-02T10:45:00.226Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -290,6 +290,25 @@ Github repo: https://github.com/chazahgroup/expansion
   - https://datatracker.ietf.org/doc/rfc9200/
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc8613/
+
+---
+
+### `lakers` implementation of EDHOC, ELA, and remote attestation
+- **Champion(s)**
+  - Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
+- **Project Info**
+	- `lakers` is an implementation of EDHOC in Rust, optimized for microcontrollers, with bindings for C and Python. It also includes an implementation of ELA (lake-authz).
+  - plans for the hackathon include:
+    - pure Rust crypto backend for CryptoCell 310
+    - CI task to measure and report memory usage
+    - EDHOC error messages
+    - remote attestation over EDHOC
+    - updates to the implementation of ELA
+    - interoperability tests
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/rfc9528/
+  - https://datatracker.ietf.org/doc/draft-ietf-lake-authz/
+  - https://datatracker.ietf.org/doc/draft-song-lake-ra/
 
 ---
 
