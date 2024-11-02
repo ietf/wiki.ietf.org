@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-02T10:50:40.061Z
+date: 2024-11-02T10:59:37.350Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -302,6 +302,7 @@ Github repo: https://github.com/chazahgroup/expansion
     - pure Rust crypto backend for CryptoCell 310
     - CI task to measure and report memory usage
     - EDHOC error messages
+    - support for message_4
     - remote attestation over EDHOC
     - updates to the implementation of ELA
     - interoperability tests
