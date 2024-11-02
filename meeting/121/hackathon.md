@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-02T11:09:31.524Z
+date: 2024-11-02T11:10:19.924Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -971,6 +971,8 @@ Working on EAP(-FIDO), RADIUS, OpenRoaming technologies as well as with RADEXT w
 name and email
 - **Project Info**
 project description
+- **Location**
+  - Onsite: Table 1
 
 ----
 ### Ultra-Low Latency Cryptography
