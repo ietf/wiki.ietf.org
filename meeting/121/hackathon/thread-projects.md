@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-02T10:40:28.872Z
+date: 2024-11-02T11:16:11.251Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -23,6 +23,9 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 For this Hackathon event, the goal is to introduce people to Thread and OpenThread programming. This Hackathon event is open to all — Thread Group membership is not required, though of course Thread Group members are also welcome to participate. If you plan to participate in the Thread work at the Hackathon (on-site or remotely), please add your name to the participant list. If you already have a Thread developer board and the OpenThread build environment on your laptop, please bring that. If not, we will have a few extra Thread developer boards available and we can help you get the build environment set up. For people totally new to Thread development, we have some recommendations from [Allie Clifford](/meeting/120/hackathon/Thread-Guide-Allie-Clifford) and [Ann Olivo](/meeting/120/hackathon/Thread-Guide-Ann-Olivo).
 Below is a partial list of project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
 
+- **Slack Channel**
+For communication among Thread Hackathon participants, particularly remote participants, we have the [#team-thread-hackathon channel](https://ietf.slack.com/archives/C07DE1M657E) in the [IETF Slack Workspace](https://join.slack.com/t/ietf/shared_invite/zt-2tp4eenlx-5XWQGCglltuzsxpwsQm_tw).
+
 - **Participants**
 Stuart Cheshire (Apple)
 François Michel (Apple)
@@ -31,6 +34,7 @@ Esko Dijk (IoTconsultancy.nl)
 Aaron Zhang (Westford Academy)
 Konrad Derda (Nordic Semiconductor)
 Hermin Anggawijaya (Allied Telesis Labs)
+
 - **Project Info**
 
   - **SSH daemon for OpenThread.** Historically the way engineers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds with hundreds of Thread devices, being able to log in and transfer log files using the network is much better than needing hundreds of USB cables to connect all the devices to a computer.
