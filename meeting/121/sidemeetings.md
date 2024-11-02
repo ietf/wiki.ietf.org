@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-01T22:28:26.632Z
+date: 2024-11-02T14:58:06.346Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -103,7 +103,7 @@ Please keep the tables sorted by meeting, by time.
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
 | 1700 - 1800 | Wicklow Meeting Room 4 | SONiC | None | patricebrissette@gmail.com | Introduction to SONiC and its philosophy, High-Level Architecture, Routing and DASH/SmartSwitch Workgroups. Presented by Microsoft, Cisco and Broadcom. | [Webex](https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f342c3da98a2d119b) | [SONiC.ics](/121/sonic_side-meeting.ics) |
 |19:00 - 20:00 | Wicklow Meeting Room 4 | NeoTec | OPS | xiechf@chinatelecom.cn;linda.dunbar@futurewei.com| Operations of Networks for Telecom Cloud（NeoTec）will discuss the use cases, requirements and possible work in management and operation of networks for Telecom Clouds.
-| 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
+| 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> https://ietf.webex.com/meet/sidemeetingietf1	<br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
 | 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
 {.dense}
 
