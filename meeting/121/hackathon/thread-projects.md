@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-02T11:16:11.251Z
+date: 2024-11-02T11:19:45.366Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -24,7 +24,7 @@ For this Hackathon event, the goal is to introduce people to Thread and OpenThre
 Below is a partial list of project ideas. Other ideas are welcome and encouraged. Please feel free to add suggestions to the project list.
 
 - **Slack Channel**
-For communication among Thread Hackathon participants, particularly remote participants, we have the [#team-thread-hackathon channel](https://ietf.slack.com/archives/C07DE1M657E) in the [IETF Slack Workspace](https://join.slack.com/t/ietf/shared_invite/zt-2tp4eenlx-5XWQGCglltuzsxpwsQm_tw).
+For communication among Thread Hackathon participants, particularly remote participants, in the [IETF Slack Workspace](https://join.slack.com/t/ietf/shared_invite/zt-2tp4eenlx-5XWQGCglltuzsxpwsQm_tw) we have the [#team-thread-hackathon](https://ietf.slack.com/archives/C07DE1M657E) channel.
 
 - **Participants**
 Stuart Cheshire (Apple)
