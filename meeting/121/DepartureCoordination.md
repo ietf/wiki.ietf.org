@@ -2,7 +2,7 @@
 title: IETF 121 Departure Coordination
 description: 
 published: true
-date: 2024-10-31T01:03:34.259Z
+date: 2024-11-02T18:32:52.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T20:28:26.241Z
@@ -22,7 +22,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+|  03:00am    |    TP1237    |   Milton Cabral    |   milton.cabral@digital.cv    |    DUB     |    1      |     Travel Lodge | To Lisbon      |       |
 |      |        |      |       |         |          |             |       |
 
 ## Friday, November 8, 2024
