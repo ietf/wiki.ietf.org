@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-03T16:06:50.687Z
+date: 2024-11-03T16:46:08.970Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -142,7 +142,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   08:00-09:30  | Wicklow Hall 2A | eodir  | GEN  | ghwood@staff.ietf.org  | education & outreach directorate | TBC  |  TBC |
-|   08:00-09:30  | Wicklow MR4 | workload token translation  |  ART |  yrosomakho@zscaler.com | Brainstorming on workload token translation profiles  | TBC  | TBC |
+|   08:00-09:30  | Wicklow MR4 | workload token translation  |  ART |  yrosomakho@zscaler.com | Brainstorming on workload token translation profiles  | https://ietf.webex.com/meet/sidemeetingietf1  | TBC |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
