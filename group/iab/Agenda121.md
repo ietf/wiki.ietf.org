@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-11-02T11:02:26.341Z
+date: 2024-11-03T09:35:03.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -30,7 +30,7 @@ Happy hour: 16:45, Wicklow Hall 2B (second floor)
 
 > Agenda:
 > 
-> 0930: Liaison RFC updates 4052/4053 (Mirja/Suresh)
+> 0930: ICANN Board Liaison feedback prep (Mirja)
 > 1000: Planning for Outreach activity at APRICOT2025/APNIC59 (Dhruv) [[Slide]](https://docs.google.com/presentation/d/1ozvnNmhbDc2pl-BC_97Ri4Al3IQTZaMaUfVZu39Jq0Y/edit?usp=sharing)
 > 1030: Geo IP topics (technical discussion, Tommy/David)
 > 1130: Meeting Ends
@@ -60,6 +60,7 @@ Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 > 
 > 0800: ISOC Policy Program/Roundtable Update (30 min) - with Olaf Kolkman
 > 0830: Chat with the new ICANN Board Liaison (30 min) - with David Lawrence
+> 0900: Liaison RFC updates 4052/4053 (Mirja/Suresh)
 > 0920: Meeting Ends
 
 ## Wednesday, 2024-11-06
