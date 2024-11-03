@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-03T16:09:54.332Z
+date: 2024-11-03T18:55:16.167Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -132,6 +132,7 @@ Location: Liffey Boardroom 3
 
 ## Monday, 4 November 2024
 
+* 08:45-09:15 -- Limited domains draft authors (Éric V & Warren)
 * 11:45-12:45 SEC Office Hours
 
 ## Tuesday, 5 November 2024
