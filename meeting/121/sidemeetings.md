@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-03T17:30:41.868Z
+date: 2024-11-03T17:31:44.355Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -99,7 +99,7 @@ Please keep the tables sorted by meeting, by time.
 | 1500 - 1630 | Wicklow Hall 2A | Large Language Models for Networking |  | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | Exploring how large language models can enhance networking tasks and discussing related standards. Agenda: https://github.com/THUxiexiaohui/LLM4Net/tree/main/IETF121 | https://ietf.webex.com/meet/ietfsidemeeting2 | TBA |
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | [IETF WebEx](https://ietf.webex.com/meet/sidemeetingietf1) | [.ics](/side-meetings/srv6ops_draft_authors_informal_side_meeting_ietf_121.ics) | 
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
-| 1700 - 1800 | Wicklow Meeting Room 4 | SONiC | None | patricebrissette@gmail.com | Introduction to SONiC and its philosophy, SONiC High-Level Architecture, SONiC Routing and DASH/Smartswitch Workgroups. Presented by Microsoft, Cisco and Broadcom. | [Webex](https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f342c3da98a2d119b) | [.ics](/meeting/121/)|
+| 1700 - 1800 | Wicklow Meeting Room 4 | SONiC | None | patricebrissette@gmail.com | Introduction to SONiC and its philosophy, SONiC High-Level Architecture, SONiC Routing and DASH/Smartswitch Workgroups. Presented by Microsoft, Cisco and Broadcom. | [Webex](https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f342c3da98a2d119b) | [.ics](/meeting/121/sonic_side-meeting.ics)|
 |19:00 - 20:00 | Wicklow Meeting Room 4 | NeoTec | OPS | xiechf@chinatelecom.cn;linda.dunbar@futurewei.com| Operations of Networks for Telecom Cloud（NeoTec）will discuss the use cases, requirements and possible work in management and operation of networks for Telecom Clouds.
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
 | 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
