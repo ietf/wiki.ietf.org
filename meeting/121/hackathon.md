@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon
 description: 
 published: true
-date: 2024-11-03T10:40:06.306Z
+date: 2024-11-03T14:15:18.758Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T21:41:54.009Z
@@ -870,7 +870,9 @@ Christian Amsüss <chrysn@fsfe.org>
   
 - **Implementations under consideration**
 
-  [cbor2](https://github.com/agronholm/cbor2) (Python), [minicbpr](https://github.com/twittner/minicbor) (Rust for embedded), [cbor-edn](https://codeberg.org/chrysn/cbor-edn) (Rust for diagnostic notation)
+  [cbor2](https://github.com/agronholm/cbor2) (Python), <del>[minicbpr](https://github.com/twittner/minicbor) (Rust for embedded), [cbor-edn](https://codeberg.org/chrysn/cbor-edn) (Rust for diagnostic notation)</del>
+ 
+- **Repository**: https://codeberg.org/chrysn/cbor-packed-examples
 
 ----
 
