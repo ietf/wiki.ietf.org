@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-11-03T06:40:33.309Z
+date: 2024-11-03T07:52:48.005Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
