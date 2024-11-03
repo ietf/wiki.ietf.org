@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-02T23:41:43.665Z
+date: 2024-11-03T05:20:42.415Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -96,7 +96,7 @@ Please keep the tables sorted by meeting, by time.
 |     |  |   |   |   |   |   |  |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk & chengweiqiang@chinamobile.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? Agenda: https://github.com/danielkinguk/ai4network/blob/main/ietf121/agenda-121.md | https://ietf.webex.com/meet/ietfsidemeeting2    | TBA |
 |     |  |   |   |   |   |   |  |
-| 1500 - 1630 | Wicklow Hall 2A | Large Language Models for Networking |  | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | Exploring how large language models can enhance networking tasks and discussing related standards. | will use the IETF provided Webex | TBA |
+| 1500 - 1630 | Wicklow Hall 2A | Large Language Models for Networking |  | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | Exploring how large language models can enhance networking tasks and discussing related standards. Agenda: https://github.com/THUxiexiaohui/LLM4Net/tree/main/IETF121 | https://ietf.webex.com/meet/ietfsidemeeting2 | TBA |
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | [IETF WebEx](https://ietf.webex.com/meet/sidemeetingietf1) | [.ics](/side-meetings/srv6ops_draft_authors_informal_side_meeting_ietf_121.ics) | 
 | 1630 - 1730 | Wicklow Hall 2A | Blockchain standards search | None | paul.hoffman@icann.org | Beginning a list of actual standards (as compared to things just documented in code or on random web sites) related to blockchains: message formats, transport protocols, ... | will use the IETF provided Webex | TBD |
 | 1700 - 1800 | WMR | SONiC | None | patricebrissette@gmail.com | Basics of SONiC | [Webex](https://cisco.webex.com/cisco/j.php?MTID=m4f4fb566a209962f342c3da98a2d119b) | TBD |
