@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-03T15:50:17.107Z
+date: 2024-11-03T16:09:54.332Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -82,10 +82,10 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 
 ## Monday, November 4, 2024
 
-### IESG Breakfast: 08:00-09:20   Room: Wicklow Hall 2A
+### NO IESG MEETING!
 
 
-* Meetecho:  https://meetings.conf.meetecho.com/ietf121/?session=1002
+
 
 
  
