@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2024-11-02T23:24:28.357Z
+date: 2024-11-03T13:15:20.325Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T19:10:47.281Z
@@ -20,7 +20,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
 |Formal Analysis of Attested TLS for Confidential Computing| Muhammad Usama Sardar| muhammad_usama.sardar at tu-dresden.de| **3 main ways to combine attestation in TLS:** <br> 1. Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol)) <br> 2. Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)) <br> 3. Post-handshake attestation (Sec. 4 in [this draft](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing)) <br> **Background on Attestation:** <br> [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX) <br> [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)|
-|---|---|---|---|
+|vCon: conversational data exchange container|Dan Petrie|dan.ietf@sipez.com|py_vcon [repo README](https://qrs.ly/k6gadog), <br> [vCon WG](https://datatracker.ietf.org/wg/vcon/about/), <br> [vCon container I-D](https://ietf-wg-vcon.github.io/draft-ietf-vcon-vcon-container/draft-ietf-vcon-vcon-container.html)|
 |---|---|---|---|
 |---|---|---|---|
 |---|---|---|---|
