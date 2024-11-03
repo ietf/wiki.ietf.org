@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-03T15:17:03.655Z
+date: 2024-11-03T15:18:41.183Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -82,7 +82,7 @@ Please keep the tables sorted by meeting, by time.
 |13:30-15:00|WMR4|UNS-UCA Update: About Extrinsic, Intrinsic, Decentralized, and Stem Identifiers|SEC|manu@hushmesh.com|Contrast properties of Extrinsic, Intrinsic, Decentralized, and Stem identifiers. Update on how Stem identifiers enable the creation of a "least-trust" Universal Name System and Universal Certificate Authority. |https://ietf.webex.com/meet/sidemeetingietf1|TBD|
 |16:00-17:30|Wicklow MR4|Performance Monitoring|RTG|italo.busi@huawei.com|YANG models for Performance Monitoring|[IETF provided Webex](https://ietf.webex.com/meet/sidemeetingietf1)|TBD|
 |16:00-17:00|Wicklow Hall 2A|NMRG|IRTF|jerome.francois@uni.lu laurent.ciavaglia@nokia.com|NMRG – Network Digital Twin (NDT) side meeting focusing on objectives and guidance for the work and document organization in/by the research group. The goal is to agree on best course of actions, targeted form(s) of research results, their scopes and organization. |https://ietf.webex.com/meet/ietfsidemeeting2|[.ics](https://drive.google.com/file/d/1-EhZ1Mpepb4Ei-KjWwBaozXT2NH_2ttI/view?usp=sharing)|
-|17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies and in general networks in the presence of varying traffic demands | [IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2) |  |
+|17:00-18:00|Wicklow Hall 2A| Adaptive/Perceptive Routing | RTG  | gengxuesong@huawei.com adrian@olddog.co.uk | Examination of what work the IETF might do in the development / applicability of routing protocols in new DC topologies and in general networks in the presence of varying traffic demands. [Agenda and materials](https://github.com/danielkinguk/adaptive-perceptive-routing) | [IETF provided Webex](https://ietf.webex.com/meet/ietfsidemeeting2) |  |
 |18:00-19:00|Wicklow Hall 2A|International Humanitarian Law Foundations| |sdcunha@icrc.org|Discussion of the basics of IHL|IETF-provided webex|TBD|
 | 19:00 - 20:00 | WMR4 | NASR | Sec | ggx@gigix.net | Progress and Next Steps in NASR | https://ietf.webex.com/meet/sidemeetingietf1 | [NASR side meeting](/121/nasr_side_meeting.ics)  |     |
 {.dense}
