@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-10-23T09:02:51.546Z
+date: 2024-11-03T06:40:33.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -58,6 +58,7 @@ Possible speakers
 |CESNET|Czech|-|
 |Reformo|Finland|-|
 |MTN|Uganda, SA, Rwanda, Ghana, Cameroon|Zoltan Miklos presented in IETF 119 BoF|
+|Turkcell|Turkey|-|
 |VDCOM|Tanzania, Kenya|-|
 |Airtel|Nigeria|-|
 |Softbank|Japan|-|
