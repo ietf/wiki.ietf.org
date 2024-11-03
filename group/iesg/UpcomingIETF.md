@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-01T21:37:59.577Z
+date: 2024-11-03T13:16:44.954Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -78,6 +78,7 @@ Sunday, November 3, 2024 - 10:00-18:00 - Room: LIffey Meeting Room 1
 >3.  Approve [IESG Statement on comments/contributors](https://docs.google.com/document/d/1b81ufX4kxgQBcEH7NomS4t6SO3c42r-mORCulI0js1Q/edit)
 >4.  [Consistent use of Document States](https://docs.google.com/document/d/1AHzNzTbym2aQ9RPuFrRNjOKA2Is9o-BNKg-IwOdbEoY/edit) (Roman)
 >5.  Next steps on IESG Statement on 2119 language (Murray)
+>6.  Guidance on non-WG mailing list (Mahesh)
 
 ## Monday, November 4, 2024
 
