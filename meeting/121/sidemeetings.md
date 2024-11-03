@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-03T22:09:36.661Z
+date: 2024-11-03T23:09:19.266Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -103,7 +103,7 @@ Please keep the tables sorted by meeting, by time.
 |19:00 - 20:00 | Wicklow Meeting Room 4 | NeoTec | OPS | xiechf@chinatelecom.cn;linda.dunbar@futurewei.com| Operations of Networks for Telecom Cloud（NeoTec）will discuss the use cases, requirements and possible work in management and operation of networks for Telecom Clouds.
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
 | 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
-{.dense}
+| 18:00 - 19:00  |  MR4|sav-igp|RTG|yingzhen.ietf@gmail.com|SAV Intra-domain PS and Architecture  |https://ietf.webex.com/meet/sidemeetingietf1| TBD |
 
 ### [WEDNESDAY 6 November](#meeting-wednesday)
 
@@ -227,8 +227,8 @@ Location: Second Floor
 | 16:30-17:00 |                       | Blockchain standards search |    
 | 17:00-17:30 |    SONIC              | Blockchain standards search |    
 | 17:30-18:00 |    SONIC              |                    |    
-| 18:00-18:30 |                       | Enterprise Network |    
-| 18:30-19:00 |                       | Enterprise Network |    
+| 18:00-18:30 |    sav-igp            | Enterprise Network |    
+| 18:30-19:00 |    sav-igp            | Enterprise Network |    
 | 19:00-19:30 |    NeoTec             | Enterprise Network |    
 | 19:30-20:00 |    NeoTec             |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
