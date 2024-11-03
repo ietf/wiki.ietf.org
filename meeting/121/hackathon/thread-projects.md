@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-02T15:04:57.772Z
+date: 2024-11-03T12:22:51.556Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -36,6 +36,7 @@ Aaron Zhang (Westford Academy)
 Konrad Derda (Nordic Semiconductor) (remote)
 Hermin Anggawijaya (Allied Telesis Labs)
 Marvin Wißfeld
+Josh Cohen
 Michael Richardson (Sandelman Software Works)
 
 - **Project Info**
