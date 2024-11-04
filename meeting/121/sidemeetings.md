@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-04T11:01:36.617Z
+date: 2024-11-04T12:05:52.180Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -44,7 +44,7 @@ This wiki page is used to book the side meeting rooms and share details of the t
 
 
 # Audio/visual provision for remote participation
-Each room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation.
+The small side room will be equipped with a [Meeting Owl](https://owllabs.com/products/meeting-owl-3) 360-degree camera with microphone and speaker to facilitate remote participation.
 
 The IETF provides a Chromebook with a preconfigured WebEx room in each side meeting room. The Chromebook is also configured to work with Zoom and Microsoft Teams; however you must login with your own account details to use anything other than WebEx.  
 
