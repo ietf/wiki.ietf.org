@@ -2,7 +2,7 @@
 title: Agenda121
 description: IAB Agenda at IETF 121
 published: true
-date: 2024-11-03T09:35:47.357Z
+date: 2024-11-04T11:12:02.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:17:54.039Z
@@ -12,6 +12,10 @@ dateCreated: 2024-10-01T22:17:54.039Z
 
 
 # Agenda121
+
+## IAB Breakout Room
+
+To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Breakout121
 
 ## Saturday, 2024-11-02
 
