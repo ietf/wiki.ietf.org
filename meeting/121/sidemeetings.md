@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-04T14:08:02.042Z
+date: 2024-11-04T14:30:27.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -100,6 +100,8 @@ Please keep the tables sorted by meeting, by time.
 | 9:30-11:30  | Wicklow Hall 2A | Basic Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Basic Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/Tutorial-aTLS.ics) |
 |     |  |   |   |   |   |   |  |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk & chengweiqiang@chinamobile.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? Agenda: https://github.com/danielkinguk/ai4network/blob/main/ietf121/agenda-121.md | https://ietf.webex.com/meet/ietfsidemeeting2    | TBA |
+| 13:30  - 15:00  | Wicklow Meeting Room 4 | ALFA 2.0  | SEC | t.dimitrakos@kent.ac.uk & david.brossard@axiomatics.com  | Proposing a new working group focused on fine-grained authorization policy language ALFA 2.0 Github: https://github.com/davidjbrossard/alfa-authorization-language | https://ietf.webex.com/meet/sidemeetingietf1    | [Link to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWswYmU3ZTI2bm9qNmpoaGoyZ2QxOHA5czkgZGF2aWQuYnJvc3NhcmRAbQ&tmsrc=david.brossard%40gmail.com) |
+
 |     |  |   |   |   |   |   |  |
 | 1500 - 1630 | Wicklow Hall 2A | Large Language Models for Networking |  | cuiyong@tsinghua.edu.cn  xiexiaohui@tsinghua.edu.cn | Exploring how large language models can enhance networking tasks and discussing related standards. Agenda: https://github.com/THUxiexiaohui/LLM4Net/tree/main/IETF121 | https://ietf.webex.com/meet/ietfsidemeeting2 | TBA |
 | 1500 - 1630 | Wicklow Meeting Room 4 | SRv6OPS Draft Author Informal Discussion | OPS | srv6ops-chairs@ietf.org | an informal discussion among the draft authors so that we can organize, align and map the various individual drafts with the charter and milestones | [IETF WebEx](https://ietf.webex.com/meet/sidemeetingietf1) | [.ics](/side-meetings/srv6ops_draft_authors_informal_side_meeting_ietf_121.ics) | 
