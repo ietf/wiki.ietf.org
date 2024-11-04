@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-10-22T11:45:55.487Z
+date: 2024-11-04T15:23:12.228Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -112,16 +112,15 @@ Framework and Data Model for OTN Network Slicing
 
 
 ## Draft prioritization for WG adoption
-Prio 1 - draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
-Use cases, Network Scenarios and gap analysis for Packet Optical Integration (POI) with coherent plugables under ACTN Framework
-> Haomian running IPR polling
-> WG adoption process managed by Luis
 
-Prio 2 - draft-gstk-ccamp-actn-optical-transport-mgmt
+Prio 1 - draft-gstk-ccamp-actn-optical-transport-mgmt
 Integrating YANG Configuration and Management into an Abstraction and Control of TE Networks (ACTN) System for Optical Networks
 
-Prio 3 - draft-zheng-ccamp-client-pm-yang-07
+Prio 2 - draft-zheng-ccamp-client-pm-yang-07
 A YANG Data Model for Client Signal Performance Monitoring
+
+Prio 3 - draft-rokui-ccamp-actn-wdm-pluggable-modelling-01
+Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Optical Network
 
 
 ## Draft prioritization for WG last call
@@ -142,7 +141,7 @@ Prio 3
 
 ## Ongoing IPR polling
 
-- draft-
+- draft-ietf-ccamp-optical-impairment-topology-yang-17 (Luis)
 
 
 ## Concluded IPR polling
