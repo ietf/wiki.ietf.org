@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2024-11-04T13:21:43.981Z
+date: 2024-11-04T13:24:01.215Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T19:10:47.281Z
@@ -26,5 +26,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |Thread low-power wireless IPv6 mesh|Stuart Cheshire|cheshire@apple.com|[IETF 121 Thread Hackathon report](https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-ietf-121-thread-hackathon-report-00.pdf)|
 |Validate Configured Subscription YANG-Push Publisher Implementations|Thomas Graf, Yannick Buchs|thomas.graf at swisscom.com, yannick.buchs at swisscom.com|https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-validate-configured-subscription-yang-push-publisher-implementations-00.pdf|
 |KIRA Scalable Zero-Touch Routing|Roland Bless| roland.bless at kit.edu |[Project Page](https://s.kit.edu/KIRA)<br/> [Rust Code](https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust)<br/> [Hackathon IETF 121 Report](https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-kira-hackathon-ietf-121-00) |
-|https-notif collector implementation| Bharadwaja Meherrushi Chittapragada |meher.211cs216@nitk.edu.in |[Link to the draft](https://datatracker.ietf.org/doc/draft-ietf-netconf-https-notif/) <br> [Extended C impl](https://github.com/Sidhub723/https-notif-c-collector-fork/tree/development) <br> [Python (Flask and Fast API impl)](https://github.com/MeherRushi/https-notif-servers/)|
+|https-notif collector implementation| Bharadwaja Meherrushi Ch.(Siddharth Bhat, Vartika TR, Hayyan A) |meher.211cs216@nitk.edu.in |[Link to the draft](https://datatracker.ietf.org/doc/draft-ietf-netconf-https-notif/) <br> [Extended C impl](https://github.com/Sidhub723/https-notif-c-collector-fork/tree/development) <br> [Python (Flask and Fast API impl)](https://github.com/MeherRushi/https-notif-servers/)|
 |---|---|---|---|
