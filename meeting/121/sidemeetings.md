@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-04T16:48:46.753Z
+date: 2024-11-04T18:27:39.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -109,7 +109,7 @@ Please keep the tables sorted by meeting, by time.
 |19:00 - 20:00 | Wicklow Meeting Room 4 | NeoTec | OPS | xiechf@chinatelecom.cn;linda.dunbar@futurewei.com| Operations of Networks for Telecom Cloud（NeoTec）will discuss the use cases, requirements and possible work in management and operation of networks for Telecom Clouds. | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) <br> [Github](https://github.com/xiechf974/NeoTec-IETF121)
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
 | 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
-| 18:00 - 19:00  |  MR4|sav-igp|RTG|yingzhen.ietf@gmail.com|SAV Intra-domain PS and Architecture  |https://ietf.webex.com/meet/sidemeetingietf1| TBD |
+
 
 ### [WEDNESDAY 6 November](#meeting-wednesday)
 
@@ -117,6 +117,7 @@ Please keep the tables sorted by meeting, by time.
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-advanced.ics) |
 |  13:30-14:30   | Wicklow MR4  | YANG profiles and views  |  RTG, OPS |  italo.busi@huawei.com | Problem statement and use cases for defining YANG profiles and views  | [IETF provided Webex](https://ietf.webex.com/meet/sidemeetingietf1)  | tbd |
+| 13:30 - 14:30  |  MR4|sav-igp|RTG|yingzhen.ietf@gmail.com|SAV Intra-domain PS and Architecture  |https://ietf.webex.com/meet/sidemeetingietf1| TBD |
 |  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed charter  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  RTG,IETF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:00-16:30   | WMR 4 | I2INF  |  OPS |  pauljeong@skku.edu | Preparation for Interface to In-Network Functions (I2INF) BoF | https://us02web.zoom.us/j/89634926657?pwd=3SBoUaOsQAn1BobXzPKIR2uH1XT4NC.1 | TBD |
@@ -233,8 +234,8 @@ Location: Second Floor
 | 16:30-17:00 |                       | Blockchain standards search |    
 | 17:00-17:30 |    SONIC              | Blockchain standards search |    
 | 17:30-18:00 |    SONIC              |                    |    
-| 18:00-18:30 |    sav-igp            | Enterprise Network |    
-| 18:30-19:00 |    sav-igp            | Enterprise Network |    
+| 18:00-18:30 |                       | Enterprise Network |    
+| 18:30-19:00 |                       | Enterprise Network |    
 | 19:00-19:30 |    NeoTec             | Enterprise Network |    
 | 19:30-20:00 |    NeoTec             |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
@@ -256,8 +257,8 @@ Location: Second Floor
 | 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 13:00-13:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 13:30-14:00 |                       |                    |    
-| 14:00-14:30 |                       |                    |    
+| 13:30-14:00 |   sav-igp             |                    |    
+| 14:00-14:30 |   sav-igp             |                    |    
 | 14:30-15:00 |                       |  SUSTAIN RG        |    
 | 15:00-15:30 | I2INF                 |  SUSTAIN RG        |    
 | 15:30-16:00 | I2INF                 | Coherent Pluggable |    
