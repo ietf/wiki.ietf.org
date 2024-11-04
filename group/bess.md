@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-10-22T02:05:57.832Z
+date: 2024-11-04T11:03:06.654Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -176,6 +176,7 @@ Shepherd's name indicated within parenthesis.
 ## Documents requested for Working Group adoption
 
 
+* draft-ietf-bess-bgp-srv6-args-02
 * draft-duan-bess-mvpn-ipv6-infras
 * draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
   - the above two should be considered together
