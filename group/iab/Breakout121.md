@@ -2,13 +2,13 @@
 title: Breakout121
 description: IAB Breakout Room Reservations at IETF 121
 published: true
-date: 2024-11-04T10:09:25.858Z
+date: 2024-11-04T10:23:27.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T22:07:40.287Z
 ---
 
-**IAB Breakout Room: TBD**
+**IAB Breakout Room: Wicklow Meeting Room 1 2nd floor**
 
 The IAB breakout room is available for use by IAB members -  schedule a time-slot by editing the wiki below.  
 
