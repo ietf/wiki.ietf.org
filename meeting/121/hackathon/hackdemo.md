@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2024-11-03T15:52:38.443Z
+date: 2024-11-04T11:02:24.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T19:10:47.281Z
@@ -25,5 +25,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |TLS Client Puzzles|David Venhoek|david@tweedegolf.com|https://wiki.ietf.org/en/meeting/121/hackathon#tls-client-puzzles|
 |Thread low-power wireless IPv6 mesh|Stuart Cheshire|cheshire@apple.com|[IETF 121 Thread Hackathon report](https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-ietf-121-thread-hackathon-report-00.pdf)|
 |Validate Configured Subscription YANG-Push Publisher Implementations|Thomas Graf, Yannick Buchs|thomas.graf at swisscom.com, yannick.buchs at swisscom.com|https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-validate-configured-subscription-yang-push-publisher-implementations-00.pdf|
-|---|---|---|---|
+|KIRA Scalable Zero-Touch Routing|Roland Bless| roland.bless at kit.edu |[Project Page](https://s.kit.edu/KIRA)<br/> [Rust Code](https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust)<br/> [Hackathon IETF 121 Report](https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-kira-hackathon-ietf-121-00) |
 |---|---|---|---|
