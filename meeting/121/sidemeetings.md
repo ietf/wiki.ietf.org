@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-04T10:40:56.505Z
+date: 2024-11-04T11:01:36.617Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -52,10 +52,10 @@ The Webex info is as follows:
 
 * **Wicklow Hall 2A (40 seats, U-shape)**:
 https://ietf.webex.com/meet/ietfsidemeeting2. 
-[Side Meeting 2 Room specific instructions](/small_side_meeting_room_-_chromebook_instructions-2.pdf)
+[Side Meeting 2 Room specific instructions](/large_side_meeting_room_-_chromebook_instructions.pdf)
 
 * **Wicklow Meeting Room 4 (20 seats, conference):** https://ietf.webex.com/meet/sidemeetingietf1. 
-[Side Meeting 1 Room specific instructions](/large_side_meeting_room_-_chromebook_instructions.pdf)
+[Side Meeting 1 Room specific instructions](/small_side_meeting_room_-_chromebook_instructions-2.pdf)
 
 Other platforms including Zoom, Teams, etc. can also be used.
 
