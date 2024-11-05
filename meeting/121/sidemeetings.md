@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-05T09:34:47.302Z
+date: 2024-11-05T10:11:07.699Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -235,7 +235,7 @@ Location: Second Floor
 | 17:00-17:30 |    SONiC              | Blockchain standards search |    
 | 17:30-18:00 |    SONiC              |                    |    
 | 18:00-18:30 |    SONiC              | Enterprise Network |    
-| 18:30-19:00 |                       | Enterprise Network |    
+| 18:30-19:00 |    6gip/pidloc        | Enterprise Network |    
 | 19:00-19:30 |    NeoTec             | Enterprise Network |    
 | 19:30-20:00 |    NeoTec             |                    |    
 | 20:00-20:30 |   **NOT AVAILABLE**   | **NOT AVAILABLE**  |  
