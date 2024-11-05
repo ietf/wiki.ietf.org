@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-05T11:51:12.731Z
+date: 2024-11-05T17:05:34.762Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -143,6 +143,7 @@ Location: Liffey Boardroom 3
 * 13:00 - 14:00 -- Ombudsteam Meeting (Roman)
 * 14:45 - 15:45 -- Chair/ExecDir Meeting with Global Host/Huawei (Roman/Jay)
 * 15:45 - 16:45 -- Meeting (Roman)
+* 16:45 - 17:15 -- Roman + Shauna Sync (Roman)
 * 17:30-19:00 -- INT Office Hours
 
 ## Wednesday, 6 November 2024
