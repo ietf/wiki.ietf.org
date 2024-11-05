@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-05T09:16:17.132Z
+date: 2024-11-05T09:27:50.628Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -217,8 +217,8 @@ Location: Second Floor
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:30-09:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 09:00-09:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 09:30-10:00 |                       |    Basic tutorial: attested TLS                |    
-| 10:00-10:30 |                       |   Basic tutorial: attested TLS                 |    
+| 09:30-10:00 |  **NOT AVAILABLE**      |    Basic tutorial: attested TLS                |    
+| 10:00-10:30 |  **NOT AVAILABLE**    |   Basic tutorial: attested TLS                 |    
 | 10:30-11:00 |                       |    Basic tutorial: attested TLS               |    
 | 11:00-11:30 |                       |    Basic tutorial: attested TLS                |    
 | 11:30-12:00 | rtg-open-source@ietf.org |  **NOT AVAILABLE** |  
