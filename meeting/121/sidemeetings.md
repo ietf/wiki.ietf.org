@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-05T14:02:28.631Z
+date: 2024-11-05T14:25:38.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -132,8 +132,8 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |    10:00-11:30 | Wicklow Hall 2A | PQ DNSSEC Research | SEC | peter@desec.io | Updates on post-quantum DNSSEC research | https://ietf.webex.com/meet/ietfsidemeeting2 | [ietf121-pq-dnssec.ics](/121/ietf121-pq-dnssec.ics) |
 |    11:30-13:00 | Wicklow Hall 2A | AI Control | WIT/APP | suresh.krishnan@gmail.com | AI Control Workshop Followup | https://ietf.webex.com/meet/ietfsidemeeting2 | tbd |
-| 12:00-13:00 | WNR 1 | HPWAN Discussion | WIT | tim.chown@jisc.ac.uk  gorry@erg.abdn.ac.uk | [**NB. Moved to  WNR 1**] Continue discussions and topics raised during HPWAN BOF | https://ietf.webex.com/meet/ietfsidemeeting1 | |
-| 13:00-15:00 | WNR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/ietfsidemeeting1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
+| 12:00-13:00 | WMR 1 | HPWAN Discussion | WIT | tim.chown@jisc.ac.uk  gorry@erg.abdn.ac.uk | [**NB. Moved to  WNR 1**] Continue discussions and topics raised during HPWAN BOF | https://ietf.webex.com/meet/ietfsidemeeting1 | |
+| 13:00-15:00 | WMR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/ietfsidemeeting1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com liuyisong@chinamobile.com | [Discuss Inter-DC AI Networking Challenges](https://github.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121) |  https://ietf.webex.com/meet/ietfsidemeeting2 | [inter-dc_ai_networking.ics](/121/inter-dc_ai_networking.ics) |
 | 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | https://ietf.webex.com/meet/sidemeetingietf1 | tbd |
 | 17:00-18:00 | Wicklow Hall 2A | Public Interest Technology Group (PITG) | - | gurshabad@cis-india.org | Open to everyone: discussion of issues at the intersection of IETF, rights, security, privacy, equity | [Zoom](https://zoom.us/j/99541533367) | [.ics](https://pitg.network/ietf121.ics) |
@@ -287,8 +287,8 @@ Location: Second Floor
 | 10:30-11:00 |                       | PQ DNSSEC Research |    
 | 11:00-11:30 |                       | PQ DNSSEC Research |    
 | 11:30-12:00 |                       |     AI Control     |  
-| 12:00-12:30 | HPWAN - in room WNR 1 |     AI Control     |  
-| 12:30-13:00 | HPWAN - in room WNR 1 |     AI Control     | 
+| 12:00-12:30 | HPWAN - in room WMR 1 |     AI Control     |  
+| 12:30-13:00 | HPWAN - in room WMR 1 |     AI Control     | 
 | 13:00-13:30 | Multiformats pre-BoF  |     AI Control     | 
 | 13:30-14:00 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:00-14:30 | Multiformats pre-BoF  | Inter-DC AI Networking |   
