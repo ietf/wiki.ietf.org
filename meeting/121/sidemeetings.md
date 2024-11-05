@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-05T00:36:02.910Z
+date: 2024-11-05T09:15:53.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -232,9 +232,9 @@ Location: Second Floor
 | 15:30-16:00 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
 | 16:00-16:30 | SRv6OPS Draft Author Informal Discussion                      | LLM for Networking |    
 | 16:30-17:00 |                       | Blockchain standards search |    
-| 17:00-17:30 |    SONIC              | Blockchain standards search |    
-| 17:30-18:00 |    SONIC              |                    |    
-| 18:00-18:30 |                       | Enterprise Network |    
+| 17:00-17:30 |    SONiC              | Blockchain standards search |    
+| 17:30-18:00 |    SONiC              |                    |    
+| 18:00-18:30 |    SONiC              | Enterprise Network |    
 | 18:30-19:00 |                       | Enterprise Network |    
 | 19:00-19:30 |    NeoTec             | Enterprise Network |    
 | 19:30-20:00 |    NeoTec             |                    |    
