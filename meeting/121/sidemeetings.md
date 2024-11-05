@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-05T14:00:51.894Z
+date: 2024-11-05T14:02:28.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -287,8 +287,8 @@ Location: Second Floor
 | 10:30-11:00 |                       | PQ DNSSEC Research |    
 | 11:00-11:30 |                       | PQ DNSSEC Research |    
 | 11:30-12:00 |                       |     AI Control     |  
-| 12:00-12:30 | HPWAN Discussion      |     AI Control     |  
-| 12:30-13:00 | HPWAN Discussion      |     AI Control     | 
+| 12:00-12:30 | HPWAN - in room WNR 1 |     AI Control     |  
+| 12:30-13:00 | HPWAN - in room WNR 1 |     AI Control     | 
 | 13:00-13:30 | Multiformats pre-BoF  |     AI Control     | 
 | 13:30-14:00 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:00-14:30 | Multiformats pre-BoF  | Inter-DC AI Networking |   
