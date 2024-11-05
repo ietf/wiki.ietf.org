@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-05T17:42:09.085Z
+date: 2024-11-05T18:39:16.754Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -100,13 +100,9 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 * Meetecho: https://meetings.conf.meetecho.com/ietf121/?session=1005
 
 >1. Plenary Slide Review + Prep
->2. Approve DEs for IPN Allocator registry (Erik Kline)
->  - Ed Birrane (edward.birrane@jhuapl.edu)
->  - Rick Taylor (rick@tropicalstormsoftware.com)
->  IESG can approve today and it will be officially minuted on 21 Nov
->3. IESG Statement on Use of BCP 14 Key Words (Murray)
->4. Side meetings wiki (Francesca/all)
->5. Changes to IESG statment on document shepherds (Mahesh)
+>2. IESG Statement on Use of BCP 14 Key Words (Murray)
+>3. Side meetings wiki (Francesca/all)
+>4. Changes to IESG statment on document shepherds (Mahesh)
 
 ### IETF 121 Plenary TIME: 17:00-19:00 Room: The Auditorium
 &nbsp;
