@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2024-11-06T12:03:24.205Z
+date: 2024-11-06T12:04:04.596Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -15,7 +15,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-| 3:40pm | AF1116 | Bob Hinden | bob.hinden@gmail.com | DUB | 1  | Travel Lodge |       |
+|  |  |  |  |  |  |  |       |
 |      |        |      |       |         |          |             |       |
 
 
