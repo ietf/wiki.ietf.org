@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-06T13:34:43.822Z
+date: 2024-11-06T13:48:05.276Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -97,7 +97,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 9:30-11:30  | Wicklow Hall 2A | Basic Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Basic Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-basic.ics) |
+| 9:30-11:30  | Wicklow Hall 2A | Basic Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Basic Tutorial: Attested TLS [slides](https://www.researchgate.net/publication/385587687_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization) | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-basic.ics) |
 | 11:30  - 13:00  | Wicklow … 4 | Open Source Routing  | RTG  | Lou Berger <lberger@labn.net>, rtg-open-source@ietf.org  | Open source routing meetup (non-routing welcome!) | Slack and/or https://ietf.webex.com/meet/ietfsidemeeting1 | [121-rtg-open-source.ics](/121/121-rtg-open-source.ics) |
 | 13:30  - 15:00  | Wicklow Hall 2A | AI4NET  |   | d.king@lancaster.ac.uk & chengweiqiang@chinamobile.com  | Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF? Agenda: https://github.com/danielkinguk/ai4network/blob/main/ietf121/agenda-121.md | https://ietf.webex.com/meet/ietfsidemeeting2    | TBA |
 | 13:30  - 15:00  | Wicklow Meeting Room 4 | ALFA 2.0  | SEC | t.dimitrakos@kent.ac.uk & david.brossard@axiomatics.com  | Proposing a new working group focused on fine-grained authorization policy language ALFA 2.0 Github: https://github.com/davidjbrossard/alfa-authorization-language | https://ietf.webex.com/meet/sidemeetingietf1    | [Link to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWswYmU3ZTI2bm9qNmpoaGoyZ2QxOHA5czkgZGF2aWQuYnJvc3NhcmRAbQ&tmsrc=david.brossard%40gmail.com) |
@@ -115,7 +115,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-| 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-advanced.ics) |
+| 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS  [slides](https://www.researchgate.net/publication/385587687_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization)| https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-advanced.ics) |
 |  13:30-14:30   | Wicklow Hall 2A  | YANG profiles and views  |  RTG, OPS |  italo.busi@huawei.com | Problem statement and use cases for defining YANG profiles and views  | [IETF provided Webex](https://ietf.webex.com/meet/sidemeetingietf1)  | tbd |
 | 13:30 - 14:30  |  MR4|sav-igp|RTG|yingzhen.ietf@gmail.com|SAV Intra-domain PS and Architecture  |https://ietf.webex.com/meet/sidemeetingietf1| TBD |
 |  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed [charter](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/blob/main/IRTF_Proposed_Research_Group_SUSTAIN_RG_Draft_Charter_v1_0.pdf).  Slides and agenda on [GitHub](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG). | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
