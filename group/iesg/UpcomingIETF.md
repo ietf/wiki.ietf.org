@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-06T10:05:11.480Z
+date: 2024-11-06T10:07:41.150Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -147,6 +147,7 @@ Location: Liffey Boardroom 3
 * 17:30-19:00 -- INT Office Hours
 
 ## Wednesday, 6 November 2024
+* 11:15 - 12:00 -- Meeting (Roman)
 * 14:30 - 15:00 -- Deepspace BoF preparation (chairs, proponents, ADs) (Éric Vyncke)
 * 16:30 - 17:00 -- informal plenary preparation, bring some drafts (Éric Vyncke)
 
