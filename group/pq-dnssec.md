@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2024-11-06T15:39:35.643Z
+date: 2024-11-06T16:22:59.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -18,11 +18,11 @@ Thursday, Nov 7, 2024 10:00-11:30 UTC ([information about room and online partic
 
 ## Agenda
 
-- 5' Note Well / Agenda Bashing
+- 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/chair-slides.pdf))
 - 15'+q Joe Harvey (Verisign): PQ DNSSEC with MTL Mode ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Harvey_PQ_DNSSEC_with_MTL_Mode.pdf))
 - 15'+q Jason Goertzen (SandboxAQ): Field study on mitigating the costs of Post-Quantum DNSSEC with Merkle Trees ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Goertzen_Field_Experiments_on_Post-Quantum_DNSSEC.pdf))
 - 20'+q Ralph Koning (SIDN Labs): A testbed to evaluate post-quantum cryptography in DNSSEC ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Koning_A_testbed_to_evaluate_post-quantum_cryptography_in_DNSSEC.pdf))
-- Open Discussion / AOB
+- Open Discussion / AOB ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/chair-slides.pdf))
 
 ### Joe Harvey: PQ DNSSEC with MTL Mode
 
