@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-06T11:01:43.229Z
+date: 2024-11-06T12:44:28.267Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -118,7 +118,7 @@ Please keep the tables sorted by meeting, by time.
 | 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS | https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-advanced.ics) |
 |  13:30-14:30   | Wicklow MR4  | YANG profiles and views  |  RTG, OPS |  italo.busi@huawei.com | Problem statement and use cases for defining YANG profiles and views  | [IETF provided Webex](https://ietf.webex.com/meet/sidemeetingietf1)  | tbd |
 | 13:30 - 14:30  |  MR4|sav-igp|RTG|yingzhen.ietf@gmail.com|SAV Intra-domain PS and Architecture  |https://ietf.webex.com/meet/sidemeetingietf1| TBD |
-|  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed [charter](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/blob/main/IRTF_Proposed_Research_Group_SUSTAIN_RG_Draft_Charter_v1_0.pdf)  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
+|  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed [charter](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/blob/main/IRTF_Proposed_Research_Group_SUSTAIN_RG_Draft_Charter_v1_0.pdf).  Slides and agenda on [GitHub](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG). | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:30-17:00   | Wicklow Hall 2A  | Coherent Pluggable  |  RTG,IETF |  rrokui@ciena.com | Review the pluggalbe work  | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
 |  15:00-16:30   | WMR 4 | I2INF  |  OPS |  pauljeong@skku.edu | Preparation for Interface to In-Network Functions (I2INF) BoF | https://us02web.zoom.us/j/89634926657?pwd=3SBoUaOsQAn1BobXzPKIR2uH1XT4NC.1 | TBD |
 |     |  |   |   |   |   |   |  |
