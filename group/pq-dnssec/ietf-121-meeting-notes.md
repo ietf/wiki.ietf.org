@@ -2,7 +2,7 @@
 title: IETF 121 pq-dnssec side meeting notes
 description: 
 published: true
-date: 2024-11-07T15:06:08.203Z
+date: 2024-11-07T17:48:47.614Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T15:06:08.203Z
@@ -20,13 +20,11 @@ Minutes: Shane Kerr
 
 ## Note Well / Agenda Bashing
 
-https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/chair-slides.pdf
+[Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/chair-slides.pdf)
 
 ## PQ DNSSEC with MTL Mode
 
-Presented by Joe Harvey Verisign
-
-https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Harvey_PQ_DNSSEC_with_MTL_Mode.pdf
+Presented by Joe Harvey Verisign, [slides available here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Harvey_PQ_DNSSEC_with_MTL_Mode.pdf)
 
 Merkle Tree Ladders
 
@@ -84,9 +82,7 @@ question, we need to look at the impacts.
 
 ## Field study on mitigating the costs of Post-Quantum DNSSEC with Merkle Trees
 
-Presented by Jason Goertzen
-
-https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Goertzen_Field_Experiments_on_Post-Quantum_DNSSEC.pdf
+Presented by Jason Goertzen, [slides available here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Goertzen_Field_Experiments_on_Post-Quantum_DNSSEC.pdf)
 
 Investigate what happens with no changes to DNSSEC, deploying
 post-quantum cryptography today.
@@ -140,9 +136,7 @@ Shane Kerr: Don't worry about making the code too clean!
 
 ## A testbed to evaluate post-quantum cryptography in DNSSEC
 
-Presented by Ralph Koning
-
-https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Koning_A_testbed_to_evaluate_post-quantum_cryptography_in_DNSSEC.pdf
+Presented by Ralph Koning, [slides available here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/Koning_A_testbed_to_evaluate_post-quantum_cryptography_in_DNSSEC.pdf)
 
 Comparison of algorithms: https://pqshield.github.io/nist-sigs-zoo/
 
@@ -152,12 +146,12 @@ Walk-through of how to use it.
 
 Includes a DNSViz interface.
 
-You can either use the testbed or run it yourself.
+You can run the testbed yourself.
 
 Working with SURF (Dutch NREN) to measure impact of DNSSEC signing &
 resolvers: validation timings, response times, packet sizes.
 
-Implement/investigate other Route 2 candidate algorithms.
+Implement/investigate other Round 2 candidate algorithms.
 
 Look at Merkle-Tree/MTL solutions.
 
@@ -192,7 +186,7 @@ Mark Andrews: We already have private code points.
 
 ## Open Discussion / AOB
 
-https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/chair-slides.pdf
+[Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF121/chair-slides.pdf) (the last slide of the slide deck)
 
 Shane Kerr: As a DNS operator we have no plans at all and are just
 eagerly following the work.
