@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-07T09:58:51.891Z
+date: 2024-11-07T10:34:20.096Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -135,6 +135,7 @@ Please keep the tables sorted by meeting, by time.
 | 12:00-13:00 | WMR 1 | HPWAN Discussion | WIT | tim.chown@jisc.ac.uk  gorry@erg.abdn.ac.uk | [**NB. Moved to  WMR 1**] Continue discussions and topics raised during HPWAN BOF | https://ietf.webex.com/meet/ietfsidemeeting1 | |
 | 13:00-15:00 | WMR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/ietfsidemeeting1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com liuyisong@chinamobile.com | [Discuss Inter-DC AI Networking Challenges](https://github.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121) |  https://ietf.webex.com/meet/ietfsidemeeting2 | [inter-dc_ai_networking.ics](/121/inter-dc_ai_networking.ics) |
+| 15:30-15:30| WMR 4 | SRv6 SFC Architecture with SR-aware Functions |RTG | y.fukagawa@ntt.com / w.mishima@ntt.com | Discuss SRv6 SFC architecture | [https://ietf.webex.com/meet/ietfsidemeeting2](https://ietf.webex.com/meet/ietfsidemeeting2)  | tbd |
 | 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | https://ietf.webex.com/meet/sidemeetingietf1 | tbd |
 | 17:00-18:00 | Wicklow Hall 2A | Public Interest Technology Group (PITG) | - | gurshabad@cis-india.org | Open to everyone: discussion of issues at the intersection of IETF, rights, security, privacy, equity | [Zoom](https://zoom.us/j/99541533367) | [.ics](https://pitg.network/ietf121.ics) |
 | 17:00-18:30 | WMR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | https://ietf.webex.com/meet/ietfsidemeeting1 |  TBD |
@@ -293,7 +294,7 @@ Location: Second Floor
 | 13:30-14:00 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:00-14:30 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:30-15:00 | Multiformats pre-BoF  | Inter-DC AI Networking |    
-| 15:00-15:30 |                       |   AIDC                  |    
+| 15:00-15:30 | SRv6 SFC Architecture with SR-aware Functions              |   AIDC                  |    
 | 15:30-16:00 | **NOT AVAILABLE**    |    AIDC                 |    
 | 16:00-16:30 | **NOT AVAILABLE**    |    AIDC                 |    
 | 16:30-17:00 |                       |   AIDC                  |    
