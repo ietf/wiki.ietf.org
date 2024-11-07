@@ -697,8 +697,8 @@ Interop testing of Multipath QUIC implementations - see https://github.com/quicw
 	- Olga Havel (olga.havel@huawei.com)
 	- Vivekananda Boudia (vivekananda.boudia@insa-lyon.fr)
 	- Oscar Gonzalez De Dios (oscar.gonzalezdedios@telefonica.com)
-        - Yannick Buchs (yannick.buchs@swisscom.com)
-        - Daniel Voyer (daniel.voyer@bell.ca)
+	- Yannick Buchs (yannick.buchs@swisscom.com)
+	- Daniel Voyer (daniel.voyer@bell.ca)
 	- Benoit Claise (benoit.claise@huawei.com)
 	- Pierre Francois (pierre.francois@insa-lyon.fr)
 
