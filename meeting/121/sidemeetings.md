@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-07T12:33:32.228Z
+date: 2024-11-07T12:53:42.038Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -135,11 +135,12 @@ Please keep the tables sorted by meeting, by time.
 | 12:00-13:00 | WMR 1 | HPWAN Discussion | WIT | tim.chown@jisc.ac.uk  gorry@erg.abdn.ac.uk | [**NB. Moved to  WMR 1**] Continue discussions and topics raised during HPWAN BOF | https://ietf.webex.com/webappng/sites/ietf/dashboard/pmr/sidemeetingietf1 | |
 | 13:00-15:00 | WMR 4 | Use-cases for proposed Multiformats WG | ART | [bumblefudge@ipfs.tech](mailto:bumblefudge@ipfs.tech) | Use-cases for the proposed Multiformats WG | https://ietf.webex.com/meet/sidemeetingietf1 | [ietf121-multiformats-sidemeeting.ics](/121/ietf121-multiformats-sidemeeting.ics) |
 |    13:30-15:00 | Wicklow Hall 2A | Inter-DC AI Networking | RTG | zhe.lou@huawei.com liuyisong@chinamobile.com | [Discuss Inter-DC AI Networking Challenges](https://github.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121) |  https://ietf.webex.com/meet/ietfsidemeeting2 | [inter-dc_ai_networking.ics](/121/inter-dc_ai_networking.ics) |
-| 15:00-15:30| WMR 4 | SRv6 SFC Architecture with SR-aware Functions |RTG | y.fukagawa@ntt.com / w.mishima@ntt.com | Discuss SRv6 SFC architecture | [https://ietf.webex.com/meet/sidemeetingietf1](https://ietf.webex.com/meet/sidemeetingietf1)  | tbd |
+| 15:00-15:30| WMR 4 | SRv6 SFC Architecture with SR-aware Functions |RTG | y.fukagawa@ntt.com / w.mishima@ntt.com | Discuss SRv6 SFC architecture | [https://ietf.webex.com/meet/sidemeetingietf1](https://ietf.webex.com/meet/sidemeetingietf1)  | TBD |
 | 15:00-17:00| Wicklow Hall 2A | AIDC |RTG | jeff.ietf@gmail.com / yingzhen.ietf@gmail.com | Networking for AI | https://ietf.webex.com/meet/ietfsidemeeting2 | tbd |
 | 17:00-18:00 | Wicklow Hall 2A | Public Interest Technology Group (PITG) | - | gurshabad@cis-india.org | Open to everyone: discussion of issues at the intersection of IETF, rights, security, privacy, equity | [Zoom](https://zoom.us/j/99541533367) | [.ics](https://pitg.network/ietf121.ics) |
 | 17:00-18:30 | WMR 4 | Networking Issues in Large-scale Satellite Network | None | tianjijiang@chinamobile.com / liupengyjy@chinamobile.com) | Discuss networking related issues upon using the large-scale satellite constellation network for TN-NTN integration | https://ietf.webex.com/meet/sidemeetingietf1 |  TBD |
 | 18:30-19:30 | Wicklow Hall 2A | On-Path Proxy Discovery | WIT | michawe@ifi.uio.no | See [here](https://github.com/mwelzl/oppd) | [https://ietf.webex.com/meet/ietfsidemeeting2](https://ietf.webex.com/meet/ietfsidemeeting2) | https://github.com/mwelzl/oppd/blob/main/ietf121-oppd.ics |
+| 18:30-19:30| WMR 4 | SRv6 SFC Architecture with SR-aware Functions |RTG | y.fukagawa@ntt.com / w.mishima@ntt.com | Discuss SRv6 SFC architecture | [https://ietf.webex.com/meet/sidemeetingietf1](https://ietf.webex.com/meet/sidemeetingietf1)  | tbd |
 | 19:30-20:00 | WMR 4 | TCP_REPLENISH_TIME | WIT | cheshire@apple.com | Latency management for congestion-controlled transports (TCP, QUIC, etc.) NOTE: Time changed to 19:30 at the request of other transport area people. | [Zoom]( https://zoom.us/j/93279338427?pwd=6ofiuEh9iqizHi9nvT7EKMU9gGZlka.1) | [ietf121-tcp_replenish_time.ics](/121/ietf121-tcp_replenish_time.ics) |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
@@ -294,15 +295,15 @@ Location: Second Floor
 | 13:30-14:00 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:00-14:30 | Multiformats pre-BoF  | Inter-DC AI Networking |   
 | 14:30-15:00 | Multiformats pre-BoF  | Inter-DC AI Networking |    
-| 15:00-15:30 | SRv6 SFC Architecture with SR-aware Functions              |   AIDC                  |    
+| 15:00-15:30 | SRv6 SFC Architecture with SR-aware Functions |   AIDC                  |    
 | 15:30-16:00 | **NOT AVAILABLE**    |    AIDC                 |    
 | 16:00-16:30 | **NOT AVAILABLE**    |    AIDC                 |    
 | 16:30-17:00 |                       |   AIDC                  |    
 | 17:00-17:30 |  Satellite            |  PITG                   |    
 | 17:30-18:00 |  Satellite            |  PITG                   |    
 | 18:00-18:30 |  Satellite            |                         |    
-| 18:30-19:00 |                       | On-Path Proxy Discovery |    
-| 19:00-19:30 |                       | On-Path Proxy Discovery |
+| 18:30-19:00 | SRv6 SFC Architecture with SR-aware Functions | On-Path Proxy Discovery |    
+| 19:00-19:30 | SRv6 SFC Architecture with SR-aware Functions | On-Path Proxy Discovery |
 | 19:30-20:00 |  TCP_REPLENISH_TIME   |                         |
 | 20:00-20:30 |   **NOT AVAILABLE**  | **NOT AVAILABLE**  |  
 {.dense}
