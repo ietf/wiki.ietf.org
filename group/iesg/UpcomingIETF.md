@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-06T13:56:23.100Z
+date: 2024-11-07T08:04:25.058Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -144,7 +144,7 @@ Location: Liffey Boardroom 3
 * 14:45 - 15:45 -- Chair/ExecDir Meeting with Global Host/Huawei (Roman/Jay)
 * 15:45 - 16:45 -- Meeting (Roman)
 * 16:45 - 17:15 -- Roman + Shauna Sync (Roman)
-* 17:30-19:00 -- INT Office Hours
+* 17:30 -1 9:00 -- INT Office Hours
 
 ## Wednesday, 6 November 2024
 * 11:15 - 12:00 -- Meeting (Roman)
@@ -154,7 +154,7 @@ Location: Liffey Boardroom 3
 * 16:30 - 17:00 -- informal plenary preparation, bring some drafts (Éric Vyncke)
 
 ## Thursday, 7 November 2024
-
+* 09:30 - 11:00 - DIEM charter discussion (Éric V)
 * 15:00 - 15:30 - HTTP Client Server Draft (Mahesh & Francesca)
 * 15:30 - 16:30 - Meeting (Roman)
 * 17:00 - 18:00 - SPACE RG (ek)
