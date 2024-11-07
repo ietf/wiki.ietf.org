@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-07T13:19:05.656Z
+date: 2024-11-07T14:03:08.972Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -158,11 +158,12 @@ Location: Liffey Boardroom 3
 * 15:00 - 15:30 - HTTP Client Server Draft (Mahesh & Francesca)
 * 15:30 - 16:30 - Meeting (Roman)
 * 17:00 - 18:00 - SPACE RG (ek)
+* 18:30 - 19:00 - Meeting (Francesca)
 
 ## Friday, 8 November 2024
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
 * 08:30 - 09:30 IESG AMA (Ask Me Anything)
-* 11:30 - 12:00 Meeting (Francesca)
+* 11:30 - 12:00 - Meeting (Francesca)
 
 
