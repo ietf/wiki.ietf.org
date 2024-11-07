@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-07T09:18:20.202Z
+date: 2024-11-07T09:26:36.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -126,7 +126,7 @@ In Progress:
 
 * 2024-11-20: IAB Business Meeting
     * Monthly Reports
-    * IRTF Chair appointment
+    * Executive Session: IRTF Chair appointment vote
     * ICANN NomCom appointment
 * 2024-11-27: IAB Business Meeting (Reserved)
 * 2024-12-04: IAB Business Meeting
