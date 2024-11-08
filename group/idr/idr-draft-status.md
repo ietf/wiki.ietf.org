@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-09-08T23:59:31.032Z
+date: 2024-11-08T15:04:37.467Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -18,13 +18,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | [draft-ietf-idr-bfd-subcode](https://datatracker.ietf.org/doc/rfc9384)  |  Keyur Patel | [RFC9384](https://datatracker.ietf.org/doc/rfc9384)  | Published  | Mar-24-2023 | Sep-10-2022  | |  |  195 days |  
 |  [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/rfc9494/)  |  Jeff Haas | [RFC9494](https://datatracker.ietf.org/doc/rfc9494/)  | Published  |Nov-29-2023  |  Nov-10-2022|  |   | 385 days |   
 |  [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/rfc9514/)  |  Susan Hares  |   [RFC9514](https://datatracker.ietf.org/rfc9514/)  | Published |  Dec-05-2023 | Nov-17-2020  |  Feb-17-2023    |  643 days  | 1113 days| 
-|  [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/RFC9552/)   |  Jeff Haas     |  [RFC9552](https://datatracker.ietf.org/RFC9552/)    | Published | Dec-22-2023 | Aug-6-2021  |  Feb-28-2023   |  475 days   | 868 days | 
+|  [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/RFC9552/)   |  Jeff Haas     |  [RFC9552](https://datatracker.ietf.org/RFC9552/)    | Published | Dec-22-2023 | Aug-6-2021  |  Feb-28-2023   |  475 days   | 868 days |
+| [draft-ietf-bgp-sendholdtimer](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sendholdtimer/15/) | Jeff Haas | [RFC 9687](https://datatracker.ietf.org/doc/rfc9687/)| Published | Nov-11-2024 |  Jeff Haas |  5/3/2024 | 8/27/2024 |  189 (93) days | 
 {.dense}
 
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  |  Sent to IESG  |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---------------------------------|---------------|--------------|-------------|-----------------------|----------------|----------------------|----------------------|---------------------|----------| 
-| draft-ietf-bgp-sendholdtimer | Jeff Haas | RFC edit | Auth-48 | 4/19/2024 | 5/3/2024 | 87 days | 7/27/2024 | 93 days |  
 {.dense}
 
 
@@ -36,9 +36,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
  
 ## At IESG Review 
-
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
-| none | 
+|---|---|---|---|---|---|---|---|---| 
+| draft-ietf-idr-sr-policy-safi  |  Sue Hares  | IETF LC | IESG Review | 3/18/2024 | 7/20/2024  |  15 days | 11/11/2024  | 101 days  |
+| draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | IETF LC | IESG REview |  3/18/2024 | 7/30/2024 |  15 days | 11/11/2024 | 101 days  |
+{.dense}
 
  
 ## Needs revision During AD Review
@@ -56,15 +58,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft-ietf-idr-bgp-ct  |  Sue Hares  | IESG | AD review | 3/1/2024 |  4/26/2024 | TBD | 143 days  | 87 days | 
 |  draft-ietf-idr-bgp-car |  Sue Hares  | AD review | 3/1/2024 | 4/26/2024 | TBD | 143 days | 87 days |  
 | draft-ietf-idr-cpr-04 |  Sue Hares | AD review | 5/17/2024 | 7/19/2024 | TBD | 1 day | 27 day | 
-|  draft-ietf-idr-sr-policy-safi-04  |  Sue Hares  | AD Review| 3/18/2024 | 7/20  |  124 days | TBD  | 20 days (900+) |
-| draft-ietf-idr-bgp-sr-segment-types-ext-01 | Susan Hares |  AD REview | 3/18/2024 | 7/30/2024 |  124 days | TBD | (900+) 16 days  |
 {.dense}
 
 ## In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sdwan-edge-discovery-13 | Keyur Patel | version -14| IESG | 6/4/2024 | 6/11-6/25/2023 | 1 days | 8/15 | 392 |
-
+| draft-ietf-idr-sdwan-edge-discovery-18 | Keyur Patel | version -19 | IESG | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | Shepherd Review| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 80 days | 
 {.dense}
 
 ## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
@@ -89,14 +89,15 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | TBD | WG LC (awaiting -15)| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 
+| draft-ietf-idr-bgp-ls-sr-policy-07 | Sue Hares | WG LC | TBD |  11/8-11/22/2024 | 1 day | 8/20 | 
 {.dense}
 
 ## WG LC Pending
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-vpn-prefix-orf | Keyur Patel| 2 (need list)  | Awaiting -07 | WG LC | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares | WG LC | TBD | TBD | TBD | in November| 
+| draft-ietf-idr-vpn-prefix-orf-08 | Keyur Patel| 2  | Shepherd review | WG LC | TBD | TBD | TBD | TBD |  
 | draft-ietf-idr-rt-derived-community-01 | Jie Dong | TBD | Pre WG LC review | WG LC | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-fsm-iana | Sue Hares | TBD | IETF 120 discuss | WG LC | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-bfd-13 | Sue Hares | TBD | IETF 120 discuss | WG LC | TBD | TBD | TBD | TBD |  
@@ -113,9 +114,6 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-| draft-hares-idr-fsv2-ip-basic-02 | IDR Chairs | Adoption call | 6/1-7/26 | TBD | TBD | 7/26/2024/ 
-| draft-ssangli-idr-bgp-generic-metric-aigp | Susan Hares | 2nd Adoption call | WG draft | 7/9/2024 to 7/23/2024 | TBD | 7/23/2024  | 
-| draft-peng-idr-segment-routing-te-policy-attr | Susan Hares |  IPR call | 2nd Adoption call | 7/12/2024 - 7/26/2024 | TBD | 7/26/2024 | 
 (none) 
 {.dense}
 
@@ -124,17 +122,15 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------| 
 | draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Pre-Adoption review | Adoption call | TBD | TBD | await -06 | 
-| draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | Pre-Adoption  Review | Adoption call | TBD | TBD | await -05 | 
-| draft-lin-idr-sr-epe-over-l2bundle-06 | Susan Hares | Pre-Adoption  Review | Adoption call | TBD | TBD | await version -07 | 
+| draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | Pre-Adoption  Review | Adoption call | TBD | TBD | await -05 |  
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | TBD | 
 {.dense}
 
-### FSv2 Base Drafts 
+### FSv2 Base Drafts - adoption pending 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 | draft-hares-idr-fsv2-more-ip-filters | idr chairs | FSv2 ip basic ok | adoption call  | TBD | TBD | TBD |
 | draft-hares-idr-fsv2-more-ip-actions | idr chairs | FSv2 ip basic ok | adoption call  | TBD | TBD | TBD | 
-| draft-hares-idr-fsv2-non-ip | idr chairs | FSv2 ip basic ok | adoption call  | TBD | TBD | TBD | 
  {.dense}  
  
 ### FSv2 Filter + Action Drafts 
@@ -149,15 +145,15 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-wang-idr-flowspec-dip-origin-as-filter | Sue Hares | FSv2 Filter | FSv2 filters | TBD | TBD | Filters + AS set |  
 | draft-zzd-idr-flowspec-pa| th-scheduling | Sue Hares | FSv2 Filter | TBD | TBD | filters + time 
 | draft-peng-idr-apn-bgp-flowspec | Sue Hares | FSv2 filter + action | FSv2 based + filters + actions | TBD | TBD | group and subgroup id | 
-| draft-dmc-idr-flowspec-tn-aware-mobility | Sue Hares | FSv2 action | FSv2 action base | TBD | TBD | redirect to IPsec tunnel |
-draft-wang-idr-flowspec-dip-origin-as-filter 
+| draft-dmc-idr-flowspec-tn-aware-mobility | Sue Hares | FSv2 action | FSv2 action base | TBD | TBD | redirect to IPsec tunnel | 
+| draft-wang-idr-flowspec-dip-origin-as-filter | Sue Hares | FSv2 action | FSv2 action Base | TBD | TBD | TBD |  
 | draft-shen-idr-flowspec-traffic-compress-action | Sue Hares | FSv2 action | FSv2 action base | TBD | TBD | compress traffic | 
  {.dense}  
 
 ### Flow Specification FSv1 actions - Need FSv1 actions 
 | draft | Shepherd |   status |  Next step |  Adoption  |  ETA   | Comment | 
 |---------------------------------|----------------|---------------|-------------------|--------|--------------|
-|  draft-ietf-idr-flowspec-interfaceset | Sue Hares | FSv1 action | FSv2 action |  TBD  |  TBD  | prefix + Interface group | 
+| draft-ietf-idr-flowspec-interfaceset | Sue Hares | FSv1 action | FSv2 action |  TBD  |  TBD  | prefix + Interface group | 
 | draft-ietf-idr-flowspec-redirect-ip| Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  redirect to IPv4 |  
 | draft-ietf-idr-flowspec-path-redirect | Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  IPv4 redirect to GID  |  
 | draft-ietf0-idr-flowspec-path-redirect | Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  ipv6 redirect to GID  |
@@ -176,7 +172,8 @@ draft-wang-idr-flowspec-dip-origin-as-filter
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 | draft-uttaro-idr-bgp-oad | Susan Hares | Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
-| draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |  
+| draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
+| draft-
 {.dense}
 
 ## In WG Adoption Process (on hold )
