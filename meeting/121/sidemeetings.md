@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-08T01:12:40.801Z
+date: 2024-11-08T07:46:18.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -151,7 +151,7 @@ Please keep the tables sorted by meeting, by time.
 
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
-|   08:00-09:00  | Wicklow Hall 2A | eodir  | GEN  | ghwood@staff.ietf.org  | education & outreach directorate | https://ietf.webex.com/meet/ietfsidemeeting2  |  [eodir-ietf121sidemeeting.ics](/eodir-ietf121sidemeeting.ics) |
+|   08:00-09:00  | Wicklow Hall 2A | eodir  | GEN  | ghwood@staff.ietf.org  | education & outreach directorate | [WebEX](https://ietf.webex.com/meet/ietfsidemeeting2) [Notes](https://notes.ietf.org/eodir-20241108) |  [eodir-ietf121sidemeeting.ics](/eodir-ietf121sidemeeting.ics) |
 |   08:00-09:30  | Wicklow MR4 | workload token translation  |  ART |  yrosomakho@zscaler.com | Brainstorming on workload token translation profiles  | https://ietf.webex.com/meet/sidemeetingietf1  | [tokentranslation-ietf121.ics](/121/tokentranslation-ietf121.ics) |
 |   12:00-12.30  | Wicklow MR4 | IPFIX on-path | OPS  | thomas.graf@swisscom.com  | IPFIX on-path implementers quick sync  |   |  |
 |     |  |   |   |   |   |   |  |
