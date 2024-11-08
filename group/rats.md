@@ -1,10 +1,6 @@
 ---
 title: RATS WG - Remote ATtestation proceedureS
 description:
-published: true
-date: 2023-02-28T16:38:49.045Z
-tags:
-editor: markdown
 ---
 
 # RATS - Remote Attestation proceedureS
