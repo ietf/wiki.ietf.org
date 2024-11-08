@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-11-08T15:04:37.467Z
+date: 2024-11-08T15:28:55.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -101,13 +101,14 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft-ietf-idr-rt-derived-community-01 | Jie Dong | TBD | Pre WG LC review | WG LC | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-fsm-iana | Sue Hares | TBD | IETF 120 discuss | WG LC | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-bfd-13 | Sue Hares | TBD | IETF 120 discuss | WG LC | TBD | TBD | TBD | TBD |  
+{.dense}
 
 ## Adopted
 
 For information on adoption process: [IDR adoption process](/group/idr/idr-adoption-process)
 | draft   | Shepherd   |  status   |  Next step    |  WG adoption date  |  Adoption call            |  Draft uploaded   |
 |---|---|---|---|---|---|---|
-
+(no recently adopted drafts)  
 {.dense}
 
 
@@ -187,9 +188,8 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 {.dense}
 
 ## Expired Internet-Drafts Needing Conclusion
-
-| draft                                 |  Shepherd  |  Status                                |  Next step                             |
-|---------------------------------------|------------|----------------------------------------|----------------------------------------|
+| draft    |  Shepherd  |  Status                   |  Next step         |
+|-----|-----|---|-------------------|
 |  draft-ietf-idr-best-external         | Sue Hares  |  Expired Draft, Implementations Exist  |  Republish draft, WGLC?                |
 |  draft-ietf-idr-add-paths-guidelines  |  Sue Hares  |  Expired Draft, Informational?         |  Determine if WG wishes to progress?   |
 {.dense}
