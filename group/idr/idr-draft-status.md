@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-11-08T15:28:55.578Z
+date: 2024-11-08T15:31:50.116Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -64,7 +64,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery-18 | Keyur Patel | version -19 | IESG | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | Shepherd Review| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 80 days | 
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | Shepherd Review| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 11/15/2024 | 80 days | 
 {.dense}
 
 ## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
