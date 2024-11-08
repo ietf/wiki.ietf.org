@@ -3,7 +3,7 @@ title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
 date: 2024-06-14T04:10:49.613Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
 ---
@@ -16,7 +16,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [iab *Internet Architecture Board*](/group/iab)
 {.links-list}
 
-# Working Groups 
+# Working Groups
 # {.tabset}
 ## Alphabetical
 - [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
@@ -75,6 +75,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [regext *Registration Protocols Extensions*](/group/regext)
 - [rift *Routing In Fat Trees*](/group/rift)
 - [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
+- [rats *Remote ATtestation proceedureS*](/group/rats)
 - [roll *Routing Over Low power and Lossy networks*](/group/roll)
 - [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
 - [rtgwg *Routing Area Working Group*](/group/rtgwg)
@@ -167,6 +168,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [ipsecme *IP Security Maintenance and Extensions*](/group/ipsecme)
 - [jose *Javascript Object Signing and Encryption*](/group/jose)
 - [oauth *Web Authorization Protocol*](/group/oauth)
+- [rats *Remote ATtestation proceedureS*](/group/rats)
 - [secdispatch *Security Dispatch*](/group/secdispatch)
 - [suit *Software Updates for Internet of Things*](/group/suit)
 - [tls *Transport Layer Security*](/group/tls)
