@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2024-11-08T10:07:52.791Z
+date: 2024-11-08T11:10:10.031Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -165,6 +165,5 @@ Location: Liffey Boardroom 3
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
 * 08:30 - 09:30 IESG AMA (Ask Me Anything)
-* 11:30 - 12:00 - Meeting (Francesca)
 
 
