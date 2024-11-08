@@ -1,4 +1,4 @@
----
+group/jose.md---
 title: JOSE WG - Javascript Object Signing and Encryption
 description: 
 published: true
