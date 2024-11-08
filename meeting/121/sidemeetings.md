@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-08T07:46:32.605Z
+date: 2024-11-08T11:43:36.676Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -153,7 +153,7 @@ Please keep the tables sorted by meeting, by time.
 |----------|----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 |   08:00-09:00  | Wicklow Hall 2A | eodir  | GEN  | ghwood@staff.ietf.org  | education & outreach directorate | [WebEX](https://ietf.webex.com/meet/ietfsidemeeting2) <br> [Notes](https://notes.ietf.org/eodir-20241108) |  [eodir-ietf121sidemeeting.ics](/eodir-ietf121sidemeeting.ics) |
 |   08:00-09:30  | Wicklow MR4 | workload token translation  |  ART |  yrosomakho@zscaler.com | Brainstorming on workload token translation profiles  | https://ietf.webex.com/meet/sidemeetingietf1  | [tokentranslation-ietf121.ics](/121/tokentranslation-ietf121.ics) |
-|   12:00-12.30  | Wicklow MR4 | IPFIX on-path | OPS  | thomas.graf@swisscom.com  | IPFIX on-path implementers quick sync  |   |  |
+|     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 |     |  |   |   |   |   |   |  |
 {.dense}
@@ -322,6 +322,6 @@ Location: Second Floor
 | 10:30-11:00 |                       |                    |    
 | 11:00-11:30 |                       |                    |    
 | 11:30-12:00 |                       |  **NOT AVAILABLE** |  
-| 12:00-12:30 | IPFIX on-path         |  **NOT AVAILABLE** |  
+| 12:00-12:30 |                       |  **NOT AVAILABLE** |  
 | 12:30-13:00 |                       |  **NOT AVAILABLE** |    
 {.dense}
