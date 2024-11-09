@@ -1,9 +1,9 @@
 ---
 title: RATS WG - Remote ATtestation proceedureS
-description: 
+description:
 published: true
 date: 2024-11-10T14:23:57.733Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2024-11-08T19:26:25.665Z
 ---
@@ -17,4 +17,6 @@ Drafts can be reached via the [tracker](https://datatracker.ietf.org/wg/rats/doc
 
 * [Evidence Carrying Protocols/APIs](/group/rats/evidence)
 * [Attestation Results Carrying Protocols/APIs](/group/rats/attestationresults)
+* [Protocols/APIs for conveying Reference Values](/group/rats/referencevalues)
+* [Protocols/APIs for conveying Appraisal Policies](/group/rats/appraisalpolicies)
 

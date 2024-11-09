@@ -1,8 +1,8 @@
 ---
-title: RATS WG - Evidence Carrying Protocols and APIs
+title: RATS WG - Protocols/APIs for conveying Appraisal Policies
 ---
 
-# Evidence Carrying Protocols and APIs
+# Protocols/APIs for conveying Appraisal Policies
 
 ## RFCs
 
