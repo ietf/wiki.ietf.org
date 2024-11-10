@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-11-04T17:20:53.891Z
+date: 2024-11-10T10:52:21.222Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -148,7 +148,14 @@ Prio 3
 
 ### WG adoption IPR polling
 
-- draft-gstk-ccamp-actn-optical-transport-mgmt (Haomian)
+#### 2024-11 - draft-gstk-ccamp-actn-optical-transport-mgmt-05
+
+Authors
+Yinxia Tan https://mailarchive.ietf.org/arch/msg/ccamp/Y3C7dTc-YtNReCCqeQm8UXTBnxQ/
+Xing Zhao https://mailarchive.ietf.org/arch/msg/ccamp/EuZZfyvlYl2AJsvz9vR0r_NAKcc/
+Chaode Yu https://mailarchive.ietf.org/arch/msg/ccamp/-gK89EmlsMOn-LZ84_d3GhRQ_8I/
+Daniel King https://mailarchive.ietf.org/arch/msg/ccamp/LB29yL3RDhZRsNDN067L_B8xA4w/
+Adrian Farrel https://mailarchive.ietf.org/arch/msg/ccamp/t2AvHpnZeGtARl7SDAYK4NzBbbU/
 
 
 #### 2024-09 - draft-poidt-ccamp-actn-poi-pluggable-usecases-gaps-01
