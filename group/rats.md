@@ -1,6 +1,11 @@
 ---
 title: RATS WG - Remote ATtestation proceedureS
-description:
+description: 
+published: true
+date: 2024-11-10T14:23:57.733Z
+tags: 
+editor: markdown
+dateCreated: 2024-11-08T19:26:25.665Z
 ---
 
 # RATS - Remote Attestation proceedureS
@@ -10,6 +15,6 @@ Meeting materials (agendas, slides, minutes) can be reached via the [normal IETF
 
 Drafts can be reached via the [tracker](https://datatracker.ietf.org/wg/rats/documents/).
 
-* [Evidence Carrying Protocols/APIs](rats/evidence)
-* [Attestation Results Carrying Protocols/APIs](rats/attestationresults)
+* [Evidence Carrying Protocols/APIs](/group/rats/evidence)
+* [Attestation Results Carrying Protocols/APIs](/group/rats/attestationresults)
 
