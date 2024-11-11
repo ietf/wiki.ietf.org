@@ -1,8 +1,8 @@
 ---
-title: RATS WG - Attestation Results Carrying Protocols and APIs
+title: RATS WG - Protocols/APIs for conveying Appraisal Policies
 ---
 
-# Attestation Results Carrying Protocols and APIs
+# Protocols/APIs for conveying Appraisal Policies
 
 ## RFCs
 
@@ -11,5 +11,4 @@ title: RATS WG - Attestation Results Carrying Protocols and APIs
 ## Documents in other Standards Development Organizations (SDO)
 
 ## Historical things of note
-
 
