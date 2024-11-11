@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-08-30T15:11:24.723Z
+date: 2024-11-11T14:07:37.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -24,7 +24,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-sdwan-edge-discovery-09](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
  
  ## Implementation reports for drafts at WG LC 
- - [draft-ietf-idr-deprecate-as-set-confed-set-15](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set)
+ - [draft-ietf-idr-deprecate-as-set-confed-set](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set)
  
 
 ## Drafts report 2 implementations, but no implementation report. 
