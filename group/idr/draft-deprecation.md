@@ -2,7 +2,7 @@
 title: IDR Drafts being Deprecated 
 description: List of Expired IDR Drafts being deprecated
 published: true
-date: 2024-11-11T15:36:14.184Z
+date: 2024-11-11T15:36:33.937Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-19T17:38:53.671Z
