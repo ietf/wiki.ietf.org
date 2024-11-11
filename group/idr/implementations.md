@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2024-11-11T15:39:37.410Z
+date: 2024-11-11T15:40:10.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -15,7 +15,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  ## Implementation reports for Drafts at IESG
  - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
  - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
- - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer)
+
  - [draft-ietf-idr-sr-policy-safi- implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
 - [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-sr-segtypes-ext-implement)
 
@@ -71,7 +71,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ---
 ## Implementation Reports for IDR RFC
-
+ - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer)
  - [draft-ietf-idr-add-paths implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
  - [draft-ietf-idr-as-migration implementations](/group/idr/implementations/draft-ietf-idr-as-migration)
  - [draft-ietf-idr-ls-distribution implementations](/group/idr/implementations/draft-ietf-idr-ls-distribution)
