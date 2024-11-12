@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2024-11-12T22:47:12.887Z
+date: 2024-11-12T22:52:01.317Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -15,13 +15,6 @@ Wikis are used by participants to share information about and coordinate around 
 ## Upcoming meetings 
 
 ### {.tabset}
-
-#### IETF 121 Dublin
-**November 2-8, 2024** - :ireland: Dublin, Ireland
-- [IETF 121 Meeting Wiki](/meeting/121)
-- [IETF 121 Side Meetings](/meeting/121/sidemeetings)
-- [IETF 121 Hackathon](/meeting/121/hackathon)
-{.links-list}
 
 #### IETF 122 Bangkok
 **March 15-21, 2025** - :thailand: Bangkok, Thailand
@@ -48,6 +41,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
+| **IETF 121** | :ireland: Dublin, IE | November 02-08, 2024 | [Meeting Wiki](/meeting/121) - [Side Meetings](/meeting/121/sidemeetings) - [Hackathon](/meeting/121/hackathon) |
 | **IETF 120** | :canada: Vancouver, CA | July 20-26, 2024 | [Meeting Wiki](/meeting/120) - [Side Meetings](/meeting/120/sidemeetings) - [Hackathon](/meeting/120/hackathon) |
 | **IETF 119** | :australia: Brisbane, AU | March 16-22, 2024 | [Meeting Wiki](/meeting/119) - [Side Meetings](/meeting/119/sidemeetings) - [Hackathon](/meeting/119/hackathon) |
 **IETF 118** | :czech_republic: Prague, CZ | November 4-11, 2023 | [Meeting Wiki](/meeting/118) - [Side Meetings](/meeting/118/sidemeetings) - [Hackathon](/meeting/118/hackathon) |
