@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-07T09:26:36.785Z
+date: 2024-11-12T22:59:21.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -120,12 +120,9 @@ In Progress:
 
 ## Upcoming Teleconferences 
 
--- 2024-11-02 - 2024-11-08: IETF 121 Dublin --
-
 *Note: Call time changes to 0700 PST after 2024-11-02*
 
 * 2024-11-20: IAB Business Meeting
-    * Monthly Reports
     * Executive Session: IRTF Chair appointment vote
     * ICANN NomCom appointment
 * 2024-11-27: IAB Business Meeting (Reserved)
