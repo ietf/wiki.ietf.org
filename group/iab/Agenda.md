@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-13T23:09:50.399Z
+date: 2024-11-13T23:11:56.558Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -160,7 +160,6 @@ In Progress:
 
 * maprg review 
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
-* Liaison tool RFC4053bis document (Tommy)
 * DNS Root Server Maintenance document (Wes)
 * Boilerplate resonses to liaison statements (post 121)
 * Report from November 2024 I* meeting
