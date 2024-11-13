@@ -2,7 +2,7 @@
 title: Routing Area Wiki
 description: 
 published: true
-date: 2023-11-10T08:58:21.610Z
+date: 2024-11-13T10:48:31.106Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T05:24:30.144Z
@@ -27,11 +27,11 @@ Jim Guichard
 Jim is affiliated with Futurewei Technologies
 &nbsp;
 
-<img src="https://www.ietf.org/lib/dt/media/photo/Andrew-Alston_GERYWEW.jpg" alt="Andrew" height="150"/>
+<img src="https://www.ietf.org/lib/dt/media/photo/vandevelde-photo_xQRLsCk.jpg" alt="Gunter" height="150"/>
 
-Andrew Alston
-[IESG biography](https://datatracker.ietf.org/person/Andrew%20Alston)
-Andrew is affiliated with Liquid Labs
+Gunter Van de Velde
+[IESG biography](https://datatracker.ietf.org/person/Gunter%20Van%20de%20Velde)
+Gunter is affiliated with Nokia
 
 ----
 
