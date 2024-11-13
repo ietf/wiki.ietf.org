@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-11-13T17:53:06.287Z
+date: 2024-11-13T18:22:51.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -54,16 +54,16 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Queue for AD review 
 | draft    | Shepherd   |   status  |  Next step   |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD review (10/28) | IETF LC | 3/1/2024 | 4/26/2024 | 14 days | 199 days | 255 days | 
-|  draft-ietf-idr-bgp-car |  Sue Hares  | AD review (10/28) | IETF LC | 3/1/2024 | 4/26/2024 | 14 days | 199 days | 255 days |  
-| draft-ietf-idr-cpr-04 |  Sue Hares | AD review (10/28) | 5/17/2024 | 7/19/2024 | 14 days | 115 days | 178 days | 
+|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD review (10/28) | IETF LC | 3/1/2024 | 4/26/2024 | TBD |  14 days | 199 days | 255 days | 
+|  draft-ietf-idr-bgp-car |  Sue Hares  | AD review (10/28) | IETF LC | 3/1/2024 | 4/26/2024 | TBD | 14 days | 199 days | 255 days |  
+| draft-ietf-idr-cpr-04 |  Sue Hares | AD review (10/28) | IETF LC | 5/17/2024 | 7/19/2024 | TBD | 14 days | 115 days | 178 days | 
 {.dense}
 
 ## In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sdwan-edge-discovery-18 | Keyur Patel | version -19 | IESG | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | Shepherd Review| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 11/15/2024 | 80 days | 
+| draft-ietf-idr-sdwan-edge-discovery-18 | Keyur Patel | awaits -19 | IESG | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | Awaits RTG-DIR | IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 11/15/2024 | 80 days | 
 {.dense}
 
 ## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
@@ -128,11 +128,14 @@ To effeciently handle drafts along, we are considering drafts in existing IDR ch
 ### SR and BGP-LS Adoptions Requested 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------| 
+| draft-hegdearvind-idr-bgp-ls-algo-ext-00 | Sue Hares | Pre-adoption review | Adoptoin call | TBD | TBD | TBD | 
 | draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Pre-Adoption review | Adoption call | TBD | TBD | await -06 | 
-| draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | Pre-Adoption  Review | Adoption call | TBD | TBD | await -05 |  
+| draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | await -05| Pre-adoption review | TBD | TBD | await -05 |  
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
+| draft-hegdearvind-idr-bgp-ls-algo-ext-00 | Sue Hares | Pre 
 |  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
 |  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD    |  TBD | TBD   |
+| draft-hegdearvind-idr-bgp-ls-algo-ext-00
 {.dense}
  
 ### FSv2 Base Drafts - adoption pending 
