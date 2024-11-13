@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-11-13T16:48:17.828Z
+date: 2024-11-13T17:53:06.287Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -38,33 +38,32 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At IESG Review 
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
 |---|---|---|---|---|---|---|---|---| 
-| draft-ietf-idr-sr-policy-safi  |  Sue Hares  | IETF LC | IESG Review | 3/18/2024 | 7/20/2024  |  15 days | 11/11/2024  | 101 days  |
-| draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | IETF LC | IESG REview |  3/18/2024 | 7/30/2024 |  15 days | 11/11/2024 | 101 days  |
+| draft-ietf-idr-sr-policy-safi  |  Sue Hares  | Post IETF LC  | IESG Review | 3/18/2024 | 7/20/2024  | 4 days | 11/11/2024  | 101 days  |
+| draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | POST IETF LC  | IESG Review |  3/18/2024 | 7/30/2024 |  4 days | 11/11/2024 | 101 days  |
 {.dense}
 
  
 ## Needs revision During AD Review
 
 |  draft                                | Shepherd      |   status        |  Next step  |  WG LC approval Date  |  Time in State  |  ETA  |  Time since WG LC   |        |
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | Awaiting ip-redirect | IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
 |---|---|---|---|---|---|---|---|---|
 | none | 
 {.dense}
 
 ## Queue for AD review 
-| draft                                      | Shepherd      |   status                     |  Next step      |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time since WG LC   |
+| draft    | Shepherd   |   status  |  Next step   |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | AD Review| IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
-|  draft-ietf-idr-bgp-ct  |  Sue Hares  | IESG | AD review | 3/1/2024 |  4/26/2024 | TBD | 143 days  | 87 days | 
-|  draft-ietf-idr-bgp-car |  Sue Hares  | AD review | 3/1/2024 | 4/26/2024 | TBD | 143 days | 87 days |  
-| draft-ietf-idr-cpr-04 |  Sue Hares | AD review | 5/17/2024 | 7/19/2024 | TBD | 1 day | 27 day | 
+|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD review (10/28) | IETF LC | 3/1/2024 | 4/26/2024 | 14 days | 199 days | 255 days | 
+|  draft-ietf-idr-bgp-car |  Sue Hares  | AD review (10/28) | IETF LC | 3/1/2024 | 4/26/2024 | 14 days | 199 days | 255 days |  
+| draft-ietf-idr-cpr-04 |  Sue Hares | AD review (10/28) | 5/17/2024 | 7/19/2024 | 14 days | 115 days | 178 days | 
 {.dense}
 
 ## In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sdwan-edge-discovery-18 | Keyur Patel | version -19 | IESG | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Patel + Hares | Shepherd Review| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 11/15/2024 | 80 days | 
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | Shepherd Review| IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 11/15/2024 | 80 days | 
 {.dense}
 
 ## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
@@ -96,11 +95,16 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares | WG LC | TBD | TBD | TBD | in November| 
-| draft-ietf-idr-vpn-prefix-orf-08 | Keyur Patel| 2  | Shepherd review | WG LC | TBD | TBD | TBD | TBD |  
-| draft-ietf-idr-rt-derived-community-01 | Jie Dong | TBD | Pre WG LC review | WG LC | TBD | TBD | TBD | TBD | 
+| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  | n/a | IDR chair review | WG LC | TBD | TBD | TBD | TBD | 
+| draft-ietf-idr-vpn-prefix-orf-08 | Keyur Patel | 2  | Shepherd review | WG LC | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-rt-derived-community-03 | Jie Dong | awaiting -03  | Pre WG LC review | WG LC | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-fsm-iana | Sue Hares | TBD | IETF 120 discuss | WG LC | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-bfd-13 | Sue Hares | TBD | IETF 120 discuss | WG LC | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-sr-policy-nrp-01 | Sue Hares | TBD  | Awaiting IDR chairs review | WG LC | TBD | TBD | TBD | TBD |   
+| draft-ietf-idr-bgp-ls-isis-flood-reflection | Sue Hares | TBD | Awaiting -05 | WG LC | TBD | TBD | TBD | TBD |   
+| draft-ietf-idr-bgp-bfd-strict-mode-13 | Sue Hares | TBD | waiting revision -14 | WG LC | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-flowspec-srv6 | Sue Hares | TBD | adoption of FSv2 more IP filters| WG LC |  TBD  | TBD | TBD | Needs FSv2 update |  
+| draft-ietf-idr-flowspec-ip-redirect | Sue Hares | needs -04 | WG LC | TBD | TBD | TBD | TBD | Needs FSv2 section |  
 {.dense}
 
 ## Adopted
@@ -119,89 +123,84 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 {.dense}
 
 ## Adoption process - upcoming Adoptions
-### SR/BGP-LS
+To effeciently handle drafts along, we are considering drafts in existing IDR chartered technology (Segment Routing, BGP-LS, Flow Specification v2 (FSv2), IPv6, and new Tunnel Encapsulation drafts) different than other drafts. Existing IDR Chartered Technologies will receive reviews prior to WG Adoption.  An interim will be held per IETF cycle where WG drafts and individual drafts for these technologies will be reviewed.  This will help 
+
+### SR and BGP-LS Adoptions Requested 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------| 
 | draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Pre-Adoption review | Adoption call | TBD | TBD | await -06 | 
 | draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | Pre-Adoption  Review | Adoption call | TBD | TBD | await -05 |  
-| draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | TBD | 
+| draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
+|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
+|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD    |  TBD | TBD   |
 {.dense}
-
-### FSv2 Base Drafts - adoption pending 
-| draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
-|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-| draft-hares-idr-fsv2-more-ip-filters | idr chairs | FSv2 ip basic ok | adoption call  | TBD | TBD | TBD |
-| draft-hares-idr-fsv2-more-ip-actions | idr chairs | FSv2 ip basic ok | adoption call  | TBD | TBD | TBD | 
- {.dense}  
  
-### FSv2 Filter + Action Drafts 
+### FSv2 Base Drafts - adoption pending 
+| draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   | Comment | 
+|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+| draft-hares-idr-fsv2-more-ip-filters | idr chairs | FSv2 ip basic ok | adoption call  | TBD | TBD | TBD | Filter dependency list will not be defined prior to adoption | 
+| draft-hares-idr-fsv2-more-ip-actions | idr charis |  needs revision | pre-adoption review | TBD | TBD | TBD | Discuss on list | 
+{.dense}  
+ 
+### FSv2 Extended IP Filter Adoption pending 
 | draft  | Shepherd | Status |  Next step  | Adoption planned |  ETA  | Comment 
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-| draft-ietf-idr-flowspec-srv6 | Sue Hares | FSv1 srv6 filter | FSv2 base filters | TBD |  TBD  |  SRv6 Header filter | 
-| draft-ietf-idr-ts-flowspec-srv6-policy | Sue Hares | FSv1 filter | FSv2 actions | TBD | TBD | filters (color, intf, prefix), action: SID tunnel |
-| draft-ietf-idr-flowspec-network-slice-ts | Sue Hares | FSv1 filter + action | FSv2 actions | TBD | TBD | NRP-ID fiter + action |  
-| draft-cui-idr-content-filter-flowspec-01 | IDR Chairs | FSv2 more ip filters ok | Adoption call | TBD | TBD | Payload filters  |
-| draft-geng-idr-flowspec-sav | Sue Hares  | FSv2 filter | FSv2 base + SAVnet arch | TBD | TBD | filters + interfaces |   
-| draft-lin-idr-cats-flowspec-ts | Sue Hares | FSv2 Filter | FSv2 base + CAT-ID ok | TBD |  TBD | Cat-ID | 
-| draft-wang-idr-flowspec-dip-origin-as-filter | Sue Hares | FSv2 Filter | FSv2 filters | TBD | TBD | Filters + AS set |  
-| draft-zzd-idr-flowspec-pa| th-scheduling | Sue Hares | FSv2 Filter | TBD | TBD | filters + time 
+| draft-cui-idr-content-filter-flowspec-01 | IDR Chairs | FSv2 more ip filters ok | Adoption call | TBD | TBD | Payload filters |
+| draft-geng-idr-flowspec-sav | Sue Hares  | FSv2 Ext IP filter | SAVnet arch | TBD | TBD | filters + interfaces |   
+| draft-lin-idr-cats-flowspec-ts | Sue Hares | FSv2 Ext IP Filter | FSv2 base + CAT-ID ok | TBD |  TBD | Cat-ID | 
+| draft-wang-idr-flowspec-dip-origin-as-filter | Sue Hares | FSv2 IP Filter | FSv2 filters | TBD | TBD | Filters + AS set |  
+| draft-zzd-idr-flowspec-pa| th-scheduling | Sue Hares | FSv2 IP Filter | TBD | TBD | filters + time 
 | draft-peng-idr-apn-bgp-flowspec | Sue Hares | FSv2 filter + action | FSv2 based + filters + actions | TBD | TBD | group and subgroup id | 
 | draft-dmc-idr-flowspec-tn-aware-mobility | Sue Hares | FSv2 action | FSv2 action base | TBD | TBD | redirect to IPsec tunnel | 
 | draft-wang-idr-flowspec-dip-origin-as-filter | Sue Hares | FSv2 action | FSv2 action Base | TBD | TBD | TBD |  
 | draft-shen-idr-flowspec-traffic-compress-action | Sue Hares | FSv2 action | FSv2 action base | TBD | TBD | compress traffic | 
- {.dense}  
-
-### Flow Specification FSv1 actions - Need FSv1 actions 
-| draft | Shepherd |   status |  Next step |  Adoption  |  ETA   | Comment | 
-|---------------------------------|----------------|---------------|-------------------|--------|--------------|
-| draft-ietf-idr-flowspec-interfaceset | Sue Hares | FSv1 action | FSv2 action |  TBD  |  TBD  | prefix + Interface group | 
-| draft-ietf-idr-flowspec-redirect-ip| Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  redirect to IPv4 |  
-| draft-ietf-idr-flowspec-path-redirect | Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  IPv4 redirect to GID  |  
-| draft-ietf0-idr-flowspec-path-redirect | Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  ipv6 redirect to GID  |
- {.dense}  
-
-### Flow Specification V1 Non-IP Drafts - need FSv2  
-| draft | Shepherd |   status |  Next step |  Adoption  |  ETA   | Comment | 
-|---------------------------------|----------------|---------------|-------------------|--------|--------------|
-|  draft-ietf-idr-flowspec-l2vpn | Sue Hares | FSv1 L2 filters + actions | TBD | TBD | TBD | TBD | 
-|  draft-ietf-idr-flowspec-nv03  | Sue Hares | FSv1 tunnel filters + actions  | TBD |  TBD  |  TBD  | VLAN and TPID  | 
-| RFC9015 (RFC9015bis) | Sue Hares | FSv1 action | FSv2 action | TBD | TBD | SFC classifier (SPI, SI, SPT) | 
 | draft-xiong-idr-detnet-flow-mapping | Sue Hares | FSv1 Filter + actions | FSv2 Filter + actions | TBD | TBD | TSN related actions | 
+ {.dense}  
+ 
+### New Tunnel Encapsulation Drafts 
+|  draft  | Shepherd   |  Status     |  Next step     |  Adoption cycle   |  Post-Adoption  |   ETA   |
+|------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
+|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
+ 
+ ### IPv6 related Adoptions 
+| draft  | Shepherd | Status |  Next step  | Adoption planned |  ETA  | Comment 
+|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+| draft-mishra-idr-v4-island-v6-core-4pe  |  Sue Hares  | Revise draft | Chair Review |  TBD  | TBD | github discussion | 
+| draft-kato-bgp-ipv6-link-local     | Sue Hares   | Chair Review | TBD | TBD | TBD |  | 
+| draft-kumar-idr-link-local-nexthop | Sue Hares   | Chair Review | TBD | TBD | TBD |  | 
+| draft-white-linklocalnh            | Sue Hares   | Chair Review | TBD | TBD | TBD |  |  
 {.dense}
-
-## Awaiting IDR Chair Shepherd Review 
+ 
+ ### New concepts category for Adoption 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-| draft-uttaro-idr-bgp-oad | Susan Hares | Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
+| draft-uttaro-idr-bgp-oad | Susan Hares | All-IDR chairs Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
 | draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
-| draft-
+ {.dense}
+ 
+## WG Drafts needing FSv2 update 
+| draft | Shepherd |   status |  Next step |  Adoption  |  ETA   | Comment | 
+|---------------------------------|----------------|---------------|-------------------|--------|--------------|
+| draft-ietf-idr-flowspec-interfaceset | Sue Hares | FSv1 action | FSv2 action | TBD | TBD  | prefix + Interface group | 
+| draft-ietf-idr-flowspec-redirect-ip| Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  redirect to IPv4 |  
+| draft-ietf-idr-flowspec-path-redirect | Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  IPv4 redirect to GID  |
+| draft-ietf0-idr-flowspec-path-redirect | Sue Hares | FSv1 action | FSv2 action | TBD |  TBD   |  ipv6 redirect to GID  |
+| draft-ietf-idr-ts-flowspec-srv6-policy | Sue Hares | FSv1 filter | FSv2 actions | TBD | TBD | filters (color, intf, prefix), action: SID tunnel |
+| draft-ietf-idr-flowspec-network-slice-ts | Sue Hares | FSv1 filter + action | FSv2 actions | TBD | TBD | NRP-ID fiter + action |  
+|  draft-ietf-idr-flowspec-l2vpn | Sue Hares | FSv1 L2 filters + actions | TBD | TBD | TBD | TBD | 
+|  draft-ietf-idr-flowspec-nv03  | Sue Hares | FSv1 tunnel filters + actions  | TBD |  TBD  |  TBD  | VLAN and TPID  | 
+| RFC9015 (RFC9015bis) | Sue Hares | FSv1 action | Need FSv2 action | TBD | TBD | SFC classifier (SPI, SI, SPT) | 
 {.dense}
 
-## In WG Adoption Process (on hold )
-|  draft                                              | Shepherd      |  Status     |  Next step       |  Adoption cycle   |  Post-Adoption  |   ETA   |
-|------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
-|  draft-chen-idr-mbinding-00   |  Susan Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
-|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
-|  draft-haas-idr-diffract  |  Susan Hares   |  author hold  |  TBD  |  11/5/2022 |  10/12 to 10/26  |   TBD  |
-|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD    |  TBD | TBD   |
-|  draft-mishra-idr-v4-island-v6-core-4pe   |  Susan Hares  |   Chair Review hold | Adoption  |  TBD  | TBD | TBD | 
-{.dense}
 
-## Expired Internet-Drafts Needing Conclusion
+## WG Expired Internet-Drafts Needing Conclusion
 | draft    |  Shepherd  |  Status                   |  Next step         |
 |-----|-----|---|-------------------|
-|  draft-ietf-idr-best-external         | Sue Hares  |  Expired Draft, Implementations Exist  |  Republish draft, WGLC?                |
+|  draft-ietf-idr-best-external         | Sue Hares  |  Expired Draft, Implementations Exist  |  Republish draft, WGLC? | 
 |  draft-ietf-idr-add-paths-guidelines  |  Sue Hares  |  Expired Draft, Informational?         |  Determine if WG wishes to progress?   |
 {.dense}
 
-## IPv6 Link Local Nexthop Work
 
-| draft                                 |  Focus   |
-|---------------------------------------|----------|
-|  draft-kato-bgp-ipv6-link-local       |          |
-|  draft-kumar-idr-link-local-nexthop   |          |
-|  draft-white-linklocalnh              |          |
-{.dense}
 
 
 
