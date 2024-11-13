@@ -2,7 +2,7 @@
 title: Routing Directorate Charter
 description: 
 published: true
-date: 2023-11-28T18:13:04.696Z
+date: 2024-11-13T10:43:18.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:04:58.121Z
@@ -22,6 +22,11 @@ The notion of a directorate is defined in RFC 2418 as follows:
 >    the primary intent is that these groups assist the Area Director(s),
 >    e.g., with the review of specifications produced in the area.
 > 
+
+Routing Directorate reviews are primarily solicited to assist Area Directors in enhancing their efficiency, especially in preparation for IESG telechats. These reviews allow Area Directors to concentrate on potentially problematic documents, spending less time on those without issues. Improving the quality of the documents is an important, though secondary, purpose. A third aim is to broaden the Routing Directorate reviewers' exposure to work happening in other parts of the IETF case-by-case.
+ 
+As such, reviews from Routing Directorate members do not directly cause the IESG to block a document. However, these reviews may influence individual IESG members to do so. Additionally, reviews—particularly those conducted during last call and earlier stages—can assist document editors in refining their documents. In all these respects, a Routing Directorate review is not privileged above any other timely review.
+
 
 ##  What Does the Directorate Do? 
 
