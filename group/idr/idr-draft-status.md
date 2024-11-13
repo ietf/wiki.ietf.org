@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-11-08T15:31:50.116Z
+date: 2024-11-13T16:48:17.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -19,7 +19,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  [draft-ietf-idr-long-lived-gr](https://datatracker.ietf.org/doc/rfc9494/)  |  Jeff Haas | [RFC9494](https://datatracker.ietf.org/doc/rfc9494/)  | Published  |Nov-29-2023  |  Nov-10-2022|  |   | 385 days |   
 |  [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/rfc9514/)  |  Susan Hares  |   [RFC9514](https://datatracker.ietf.org/rfc9514/)  | Published |  Dec-05-2023 | Nov-17-2020  |  Feb-17-2023    |  643 days  | 1113 days| 
 |  [draft-ietf-idr-rfc7752bis](https://datatracker.ietf.org/RFC9552/)   |  Jeff Haas     |  [RFC9552](https://datatracker.ietf.org/RFC9552/)    | Published | Dec-22-2023 | Aug-6-2021  |  Feb-28-2023   |  475 days   | 868 days |
-| [draft-ietf-bgp-sendholdtimer](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sendholdtimer/15/) | Jeff Haas | [RFC 9687](https://datatracker.ietf.org/doc/rfc9687/)| Published | Nov-11-2024 |  Jeff Haas |  5/3/2024 | 8/27/2024 |  189 (93) days | 
+| [draft-ietf-bgp-sendholdtimer](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sendholdtimer/15/) | Jeff Haas | [RFC 9687](https://datatracker.ietf.org/doc/rfc9687/)| Published | Nov-11-2024 |  5/3/2024 | 8/27/2024 |  116 days |  192 days| 
 {.dense}
 
 ## At RFC Editor
