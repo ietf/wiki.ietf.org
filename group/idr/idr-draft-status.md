@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2024-11-13T20:19:42.109Z
+date: 2024-11-13T20:20:17.109Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -46,8 +46,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Needs revision During AD Review
 
 |  draft                                | Shepherd      |   status        |  Next step  |  WG LC approval Date  |  Time in State  |  ETA  |  Time since WG LC   |        |
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | Awaiting ip-redirect | IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
 |---|---|---|---|---|---|---|---|---|
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | Awaiting ip-redirect | IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
 | none | 
 {.dense}
 
