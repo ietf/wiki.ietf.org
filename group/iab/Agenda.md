@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-12T22:59:21.236Z
+date: 2024-11-13T23:09:50.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-11-20 0700 PST (UTC-8) 
 
-*Agenda as of 2024-10-18. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-11-13. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -30,24 +30,20 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.2. Agenda bash and announcements 
 
 #### 1.3. Meeting Minutes 
+
+For approval: 
 * 2024-10-16 business meeting (posted 2024-10-16)
+
+Under review:
+* 2024-11-03 business meeting - Sunday IETF 121 - (submitted 2024-11-12)
+* 2024-11-05 business meeting - Tuesday IETF 121 - (submitted 2024-11-12)
+* 2024-11-07 business meeting - Thursday IETF 121 - (submitted 2024-11-12) 
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
-*  2024-04-17: Cindy Morgan to update the timeline for the 2025 ICANN
-    NomCom Liaison appointment once the list of positions being filled
-    is available.
-    
-*  2024-10-02: Cindy Morgan to draft a call for nominations for the 
-    ICANN NomCom appointment.
 
-*  2024-10-02: Cindy Morgan to send a reminder about the call for 
-    feedback on the IRTF Chair nominees.
-
-*  2024-10-02: Cindy Morgan to update the list of potential agenda 
-    items for IETF 121 in the wiki.
     
 On Hold:
 
@@ -78,10 +74,6 @@ In Progress:
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
 
-*  2024-10-02: Alissa Cooper to reach out to the Global Digital 
-    Justice Forum about possibly meeting on 2024-12-11.
-
-
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -91,40 +83,59 @@ In Progress:
     Sent to RFC Editor: Informational
     IAB Shepherd: Suresh Krishnan
 
-*  draft-edm-protocol-greasing-03 
+*  draft-edm-protocol-greasing-04 
     Maintaining Protocols Using Grease and Variability
     I-D Exists, IAB stream
     IAB Shepherd: Not assigned
 
+*  draft-iab-ai-control-report-00 
+    IAB AI-CONTROL Workshop Report
+    I-D Exists, IAB stream
+    IAB Shepherd: Not assigned
 
-#### 1.6. IAB Review of WG Charters 
+#### 1.6. IAB Review of WG Charters - No updates this week
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
 *  Update to IANA Considerations (IANABIS)
     Area: GEN
-    Internal Review
-    IESG Telechat: (2024-10-17)
+    Exterbak Review
+    IESG Telechat: (2024-11-21)
     IAB Reviewer: Mirja Kühlewind
-
-
 
 #### 1.7 IAB Appointments
 
-*  IRTF Chair - Interviews complete; community feedback period ends 
+*  IRTF Chair - Interviews complete; community feedback period ended 
     2024-11-06
-*  ICANN NomCom - Call for Nominations closes 2024-10-21
-*  ISOC Board of Trustees - Call for Nominations will start mid-
-    November
+*  ICANN NomCom - Interviews complete; community feedback period ends 
+    2024-11-19
+*  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
+*  ICANN Technical Liaison Group - Currently Under Review
+
+### 2. Executive Session: ICANN Technical Liaison Group Appointment
+
+  Goal: Decide process for 2024
+
+
+### 3. Executive Session: ICANN NomCom Appointment
+
+  Goal: Discussion, vote
+
+
+### 4. Executive Session: IRTF Chair Appointment
+
+  Goal: Discussion, vote
+
+
+### 5. Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2024-11-27?
 
 
 ## Upcoming Teleconferences 
 
-*Note: Call time changes to 0700 PST after 2024-11-02*
+*Note: Call time changed to 0700 PST after 2024-11-02*
 
-* 2024-11-20: IAB Business Meeting
-    * Executive Session: IRTF Chair appointment vote
-    * ICANN NomCom appointment
 * 2024-11-27: IAB Business Meeting (Reserved)
 * 2024-12-04: IAB Business Meeting
 * 2024-12-11: IAB Technical Discussion: Global Digital Justice Forum
