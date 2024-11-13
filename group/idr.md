@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2024-11-11T14:18:21.830Z
+date: 2024-11-13T17:58:43.169Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -20,8 +20,10 @@ If you have questions or concerns regarding the implementation requirement, plea
 
 [idr-draft-status](idr-draft-status)
 [Early Allocation Status](/group/idr/Early-Allocation-Status)
+[Shepherd Reviews on SR and BGP-LS drasfts](/group/idr/Shepherd-SR-BGP-LS)
 [Features for BGP Yang Models](/group/idr/BGP-Model-Features)
 [Deprecating Drafts](/group/idr/draft-deprecation)
+
 
 ## Draft Implementation status
 
