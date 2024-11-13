@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-09-09T15:42:15.076Z
+date: 2024-11-13T17:54:30.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -203,20 +203,10 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-25-2024 | WG Revision) | 
 {.dense}
 
-
-
 ### draft-ietf-idr-bgp-ls-isis-flood-reflection 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)  |  [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | IS-IS Flood Reflection | TLV Code 1160  |  1/2/2023 | Awaiting 2 implementations ) | 
-{.dense}
-
-
-## BGP-LS Link to ISIS TLVS
-
-| IDR Draft |  TLV Code Name    |  TLV Code Point  Value |  ISIS TLVS numbers      |
-|---|---|---|-----------------------------------------|
-|  [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)  |  IS-IS Flood Reduction  |  1160            |   22\|23\|25\|141\|222\|223\|242\|161   |
 {.dense}
 
 
