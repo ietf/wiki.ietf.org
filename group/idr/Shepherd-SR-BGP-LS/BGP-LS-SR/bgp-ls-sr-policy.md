@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-11-14T22:40:03.068Z
+date: 2024-11-14T22:52:17.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -13,6 +13,13 @@ dateCreated: 2024-11-14T21:15:40.055Z
 
 ## Review for -07
 
+### Summary: 
+**Shepherd:** Susan Hares 
+**draft:** drafat-ietf-idr-bgp-ls-sr-policy-07 
+**status:** review in process. 
+
+### Technical Issues 
+
 
 
 
@@ -20,7 +27,9 @@ dateCreated: 2024-11-14T21:15:40.055Z
 ### Summary:  
 **Shepherd:** Susan Hares
 **draft:** draft-ietf-idr-bgp-ls-sr-policy-05 
-**email link**: 
+**Status:** Needs revision 
+**email link**: https://mailarchive.ietf.org/arch/msg/idr/DLfvkhT7HOClFSfUzFNQ9z8bSFc/
+
 
 ### Technical Issues 
 **Issue 1: Section 1, introduction**
