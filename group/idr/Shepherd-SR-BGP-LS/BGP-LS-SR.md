@@ -2,7 +2,7 @@
 title: IDR WG Status for BGP-LS drafts that pass SR 
 description: IDR WG status for BGP-LS for SR 
 published: true
-date: 2024-11-14T21:54:37.700Z
+date: 2024-11-14T22:42:46.709Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:50:47.064Z
