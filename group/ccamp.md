@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-11-10T10:52:21.222Z
+date: 2024-11-14T15:29:31.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -142,6 +142,28 @@ Prio 3
 ## Ongoing IPR polling
 
 - draft-ietf-ccamp-optical-impairment-topology-yang-17 (Luis)
+
+   (Authors)
+   Dieter Beller (editor) https://mailarchive.ietf.org/arch/msg/ccamp/fSJ-gxhQNQRRLBbDX0s1NaCdLfc/
+   Esther Le Rouzic https://mailarchive.ietf.org/arch/msg/ccamp/HcYFS180UpKxdJ1U46oUi0C9wBM/
+   Sergio Belotti https://mailarchive.ietf.org/arch/msg/ccamp/49YUIZviyijzYG_FYgTbpdOIb3U/
+   G. Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/4QrYw1jp3FuR8XE1bdJiJ_Eknn8/
+   Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/6pdz2yA0U-k1l4U6ySqjLmIz6Gs/
+   (Additional Authors)
+   Young Lee
+   Haomian Zheng
+   Nicola Sambo
+   Giovanni Martinelli
+   Jean-Luc Auge https://mailarchive.ietf.org/arch/msg/ccamp/ZF8McuclyWpP9Dp1-zutrpyuL9Y/
+   Julien Meuric https://mailarchive.ietf.org/arch/msg/ccamp/M1GHGl_gyQUfgeajywKw7fXYDUQ/
+   Victor Lopez
+   Enrico Griseri https://mailarchive.ietf.org/arch/msg/ccamp/GSCwLCzhrbtg4BmfHXP-fJop9Pc/
+   Gert Grammel
+   Roberto Manzotti https://mailarchive.ietf.org/arch/msg/ccamp/jpZWN78thqANSfzKo-D7SCTLe4U/
+   (Contributors)
+   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/51KjiLCxyEZm9fD5rqLhHX4vbVY/
+   Jonas Martensson
+
 
 
 ## Concluded IPR polling
