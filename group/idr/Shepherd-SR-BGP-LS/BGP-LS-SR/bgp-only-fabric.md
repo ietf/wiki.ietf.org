@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2024-11-14T20:23:47.675Z
+date: 2024-11-14T20:35:34.257Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
@@ -13,9 +13,9 @@ dateCreated: 2024-11-14T20:16:59.450Z
 ## Shepherd Review for version 03 
 draft: [draft-ietf-idr-bgp-ls-bgp-only-fabric-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) 
 
-Shepherd: Susan Hares (shares@ndzh.com) 
-**status: **WG Draft, expired November 14, 2022
-**Status:** Proposed Standard, 
+**Shepherd:** Susan Hares (shares@ndzh.com) 
+**Draft status:** WG Draft, expired November 14, 2022
+**Publication Status:** Proposed Standard, 
 **version: **revision needed (-04) 
 **implementations:** unknown
 **Authors:** 6 
@@ -34,7 +34,7 @@ this document to the latest RFCs and drafts.
 
 After that I would like Ketan to relook at two issues:
 
-1. On Section 5.1, last 2 paragraphs: Does this align with draft-ietf-idr-bgp-ls-te-path?
+1. **On Section 5.1, last 2 paragraphs: Does this align with draft-ietf-idr-bgp-ls-te-path?**
 
 Text: 
 >    This document introduces some of the TE concepts into BGP-only
@@ -47,18 +47,24 @@ Text:
 >    Other Node Attributes applicable to a BGP Router may also be included
 >    and this document does not describe the exhaustive list./
    
- If it aligns with [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/), then please indicate
+If it aligns with [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/), then please indicate
 - which Node Attributes attributes applicable to the BGP Router can be included, 
 or 
 - which Node attributes assigned by RFCs cannot be use. 
 
 You will need to list the RFCs. 
 
-2. Section 5.3 has the same type of language at the end. 
+2. **Section 5.3 has the same type of language at the end.** 
 
-3. Security considerations should reference [RF9552]
-and give an acknowledgement that you are passing 
-critical information. 
+> Other Prefix Attributes applicable may also be included and this
+>    document does not describe the exhaustive list. 
+> 
+ 
+Please provide a prefix attributes that may be included. 
+You may use an exception-list ("all but ...") 
 
-You can use text from the security section of [draft-ietf-idr-sr-policy-safi].
+3. Security considerations should reference [RFC9552](https://datatracker.ietf.org/doc/rfc9252/)
+
+Please indicate that this draft is passing critical information. 
+You can use text from the security section of [draft-ietf-idr-sr-policy-safi](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)
 
