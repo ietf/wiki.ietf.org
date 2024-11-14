@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-11-14T22:31:49.106Z
+date: 2024-11-14T22:40:03.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -23,15 +23,15 @@ dateCreated: 2024-11-14T21:15:40.055Z
 **email link**: 
 
 ### Technical Issues 
-****Issue 1: Section 1, introduction **
+**Issue 1: Section 1, introduction**
 Does this draft cover explicit Candidate Policy (CP) information in BGP-LS or dynamic and explicit CP information?  
 Please specify whether this is appropriate for explicit, dynamic, or composite Candidate Paths. 
 
-**Issue 2: Section 3 diagram: **
+**Issue 2: Section 3 diagram:**
 
 “Node Descriptor TLV (for the Headend)” in the diagram in section 3 should be “Local Node Descriptor”
 
-**Issue 3: ** Section 4, Flags 
+**Issue 3: Section 4, Flags** 
 
 – Why is “cleared” used for bits?  It would seem that “zero would be better”.  
 >  Other bits MUST be cleared by the originator and 
@@ -44,7 +44,7 @@ Suggested new text:
 
 **Note:** You can simply indicate that you will be using “cleared”/”sets” for bits. I am looking for consistency across the document. 
  
-**Issue 4: Section 5.1, Bit Definition ** 
+**Issue 4: Section 5.1, Bit Definition** 
 
 Summary:  The Bit Definition (D-Flag, B-Flag, U-Flag, L-Flag, and F-flag) link to section in RFC9256 are unclear. 
 
@@ -108,7 +108,7 @@ New text:/
 >    MUST be ignored by a receiver.
 
 
-Issue 6: Section 5.2 – bit definitions link to RFC9256 is not clear. 
+**Issue 6: Section 5.2 – bit definitions link to RFC9256 is not clear.**
 
 The following text describing the “bit positions” does not give a clear and specific reference to sections in RFC9256: 
    Draft-text:/
@@ -140,7 +140,7 @@ New text:/
 >    And SRv6 SID Structure TLV. 
 > 
 
-**Issue 8: Section 5.3 – Flag bits definitions ** 
+**Issue 8: Section 5.3 – Flag bits definitions** 
 •	S-Flag – Please define what it means when S-Flag is clear (zero), and give RFC9256 reference. 
 •	A-Flag – Please define what it means when A-Flag is clear (zero), and give RFC9256 reference.
 •	E-Flag – Please define what it means when B-Flag is clear (zero), and give RFC9256 reference.  
@@ -156,18 +156,18 @@ Please give references to specific sections in RFC9256 since you state in the bi
 > 
 > “The following bit positions are defined and the semantics are described in detail in [RFC9256].”
 
-**Issue 9: Section 5.6 – Only Explicit CP and Dynamic CP discussion **
+**Issue 9: Section 5.6 – Only Explicit CP and Dynamic CP discussion**
 
 This section describes usage by:
 •	explicit candidate paths (tunnels), and 
 •	dynamic candidate paths (on-demand tunnels). 
 It does not discuss usage by a composite path.  Is it valid to apply to composite? 
 
-Issue 10: Section 5.6 – Bit flags definitions 
+**Issue 10: Section 5.6 – Bit flags definitions** 
 •	P-Flag, U-Flag, A-Flag, T-Flag, S-flag, F-Flag, H-Flag – do not indicate what a cleared flag means. 
 •	What does mutual exclusive mean between P-Flag and U-Flag.  (I think it means both cannot be set). 
 
-Issue 11: Section 5.6, What sub-TLVs can be included
+**Issue 11: Section 5.6, What sub-TLVs can be included**
 
 concern:  The text does not clearly state which sub-TLVs MAY be included.  
 
@@ -181,7 +181,7 @@ New text:/
 >               Constraint, SR Disjoint Group Constraint, SR Bidirectional Group Constraint, 
 >               and SR Metric Constraint. These constraint Sub-TLVs are defined below. / 
 
-**Issue-12: Section 5.6.3, text description of SR Bandwidth Sub-TLv **
+**Issue-12: Section 5.6.3, text description of SR Bandwidth Sub-TLV**
 
 old text:/  
 > 					  Only a single instance of
@@ -197,24 +197,24 @@ New text:/
 		   CP Constraint TLV, and CP.  Recall that only one 
 		   CP constraint TLV is allowed per CP./ 
 		 
-**Issue-13: Section 5.6.4, clear of Request Flag Bits when cleared **
+**Issue-13: Section 5.6.4, clear of Request Flag Bits when cleared**
 
 The descriptions of the request flags (S-Flag, N-Flag, L-Flag, F-Flag, and I-Flag)
 do specify a behavior when the bit is set.  What is the behavior when the bit is cleared?  
 This needs to be described either in the introduction the request bits or on each bit. 
 
-> Issue-14, Section 5.6.4, clear meaning of Status Flag bits when cleared
+**Issue-14, Section 5.6.4, clear meaning of Status Flag bits when cleared**
 
 The descriptions of the status flags (S-Flag, N-Flag, L-Flag, F-Flag, I-Flag, and X-flag)
 do specify the status meaning when the bit is set.   What is the behavior when the bit is cleared?   
 
 This needs to be described either in the introduction the status bits or on each bit. 
 
-**Issue-15: Section 5.6.5, length maximum **
+**Issue-15: Section 5.6.5, length maximum**
 
 The minimum length is clearly stated.  Is there a maximum length for this field? 
 
-**Issue-16: Section 5.6.5, C-Flag, what does C-Flag mean if clear **
+**Issue-16: Section 5.6.5, C-Flag, what does C-Flag mean if clear**
 
 Current text:
 >       -  C-Flag: Indicates that the bidirectional path is co-routed when
@@ -222,12 +222,12 @@ Current text:
 		 
 Problem: What does it mean when the C-Flag is clear? 
 
-**Issue-17: Section 5.6.6 **
+**Issue-17: Section 5.6.6**
 
 The SR Metric Constraint Sub-TLV is used for a dynamic path and an explicit path. 
 Is this sub-TLV supported for a composite path? 
 
-**Issue-18: Section 5.6.6, Metric-Type **
+**Issue-18: Section 5.6.6, Metric-Type**
 
 Are all other values except the values in section 8.6 invalid? 
 
@@ -237,7 +237,7 @@ a) What is the meaning of the O-Flag when the bit is cleared?
 b) What is the meaning of the M-Flag when the bit is cleared? 
 c) What is the meaning of the B-Flag when the bit is cleared? 
 
-**Issue-20: Section 5.7, Flags clarity **
+**Issue-20: Section 5.7, Flags clarity**
 
 The link between RFC9256 and the Flag bits (D-Flag, E-Flag, C-Flag, V-Flag, 
 R-Flag, F-Flag, A-Flag, T-Flag, M-Flag)is vague.  Please give a 
@@ -246,11 +246,11 @@ section reference per flag bit in the form (RFC9256, section x.x (or x.x.x)).
 Please indicate what action occurs when the following flags are clear: C-Flag, 
 A-Flag, and T-Flag, 
 
-**Issue-21: Section 5.7, Algorithm values **
+**Issue-21: Section 5.7, Algorithm values**
 
 Please indicate what values can be set in the Algorithm octet. 
 
-**Issue-22: Section 5.7, Methodology paragraph clarity, ";" issue **
+**Issue-22: Section 5.7, Methodology paragraph clarity, ";" issue**
 
 The ";" causes the methodology to be unclear.  
  
@@ -268,22 +268,22 @@ The ";" causes the methodology to be unclear.
 >     In such cases where the SID-LIST is empty, the SR Segment List TLV 
 > 	SHOULD NOT include any SR Segment sub-TLVs. 
 
-Issue-23, Section 5.8, Segment type 
+**Issue-23, Section 5.8, Segment type** 
 
   Other proposed specifications give other segment types. 
   The following text does not take this into consideration: 
   
  Old text:/
-    /*  Segment Type: 1 octet which indicates the type of segment (refer
-      Section 5.8.1 for details)/
+>     Segment Type: 1 octet which indicates the type of segment (refer
+>       Section 5.8.1 for details)
 	  
 A suggestion for the new text is: 
 New text:/
-   *  Segment Type: 1 octet which indicates the type of segment. Initial 
-      values are specified by this document (See Section 5.8.1 for details).
-	  Additional segment types are possible, but out of scope for this document./
+>    Segment Type: 1 octet which indicates the type of segment. Initial 
+>     values are specified by this document (See Section 5.8.1 for details).
+> 	  Additional segment types are possible, but out of scope for this document./
 
-Issue-24, Section 5.8, Flag bits 
+**Issue-24, Section 5.8, Flag bits** 
 
 The link between RFC9256 and the flag bits is unclear for S-Flag, E-Flag, V-Flag, 
 R-Flag, and A-Flag.  Please give a reference for a section in RFC9256 for each bit type. 
@@ -302,7 +302,7 @@ Suggested new text:
 
 R-Flag and A-Flag might als benefit from a similar rewrite. 
 
-Issue-25: Section 5.8, methodology paragraph at end 
+**Issue-25: Section 5.8, methodology paragraph at end**
 
 Text: 
 >    The SRv6 Endpoint Behavior TLV (1250) and the SRv6 SID Structure TLV
@@ -319,17 +319,17 @@ alternative text:
 >    indicate the SRv6 Endpoint behavior and SID structure when 
 >    advertising the SRv6 specific segment types.
    
-**Issue-26: Section 5.8.1.1, 5.8.1.2, 5.8.1.3, and 5.8.1.4 **
+**Issue-26: Section 5.8.1.1, 5.8.1.2, 5.8.1.3, and 5.8.1.4**
 
 Algorithm: What are the valid values for Algorithm. 
 Is there a Minimum and maximum value for the algorithm? 
 
-**Issue-27: Section 5.8.1.3, 5.8.1.4, 5.8.1.5, 5.8.1.6, 5.8.1.7 **
+**Issue-27: Section 5.8.1.3, 5.8.1.4, 5.8.1.5, 5.8.1.6, 5.8.1.7**
 
 Are there any invalid IPv4 Node addresses or IPv6 Node addresses.  
 If so, please indicate this in the text. 
 
-**Issue-28: Section 5.8.1.6, 5.8.1.7, 5.8.1.10  **
+**Issue-28: Section 5.8.1.6, 5.8.1.7, 5.8.1.10**
 
 Please indicate why point-to-point link might not have a remote address or interface ID. 
 
@@ -337,18 +337,18 @@ Please indicate why point-to-point link might not have a remote address or inter
 
 Are there any invalid Global IPv6 addresses? If so, please indicate what addresses are invalid. 
 
-**Issue-30: Section 5.9, Metric type  **
+**Issue-30: Section 5.9, Metric type**
 
 Metric type:  Are values not listed in Section 8.6 valid? 
 I believe you are allowing additional values in the future, but 
 those values are outside the scope of this work. 
-**
-Issue-31: Section 5.9, Flags **
+
+**Issue-31: Section 5.9, Flag**
 
 What is the meaning of the following flags when they are not set: 
 M-Flag, A-Flag, B-Flag, and V-Flag.  Please provide this information. 
 
-**Issue-32: Section 6, Does this text apply to all protocol origins? **
+**Issue-32: Section 6, Does this text apply to all protocol origins?**
 
 Current text:/ 
 >    Then the SR Policy Candidate Path's state and attributes are encoded in
@@ -372,14 +372,14 @@ to information originated by all BGP-LS producers (see table 8.4).
 
 ### Editorial comments: 
 
-Nit-1.	Section 1, paragraph 1, English language usage of “;”
+**Nit-1.	Section 1, paragraph 1, English language usage of “;”**
 
 Old text:/
-   Each CP in turn may have one or
-   more SID-List of which one or more may be active; when multiple are
-   active then traffic is load balanced over them. This document covers
-   the advertisement of state information at the individual SR Policy CP
-   level./ 
+>    Each CP in turn may have one or
+>    more SID-List of which one or more may be active; when multiple are
+>    active then traffic is load balanced over them. This document covers
+>    the advertisement of state information at the individual SR Policy CP
+>    level./ 
 
 New text:/
 >    Each CP may have one or more SID-List and one or 
@@ -388,7 +388,7 @@ New text:/
 >     the advertisement of state information at the individual SR Policy CP
 >    level via BGP [RFC9552]. 
 ----
-Nit-2.	Section 1, paragraph 2, unclear sentence 
+**Nit-2.	Section 1, paragraph 2, unclear sentence**
 
 Old text:/
 >    SR Policies are generally instantiated at the head-end and are based
@@ -401,7 +401,7 @@ New text:/
 >    node using various APIs and protocols (e.g., PCEP or BGP). / 
 
 ----
-Nit-3.	Section 1, paragraph 3 run-on sentence, broken into two statements. 
+**Nit-3.	Section 1, paragraph 3 run-on sentence, broken into two statements.** 
 
 Old text:/
 >    In many network environments, the configuration, and state of each SR
@@ -439,15 +439,15 @@ New text:/
 >    section 5.5 of [RFC4655]./ 
 
 Old text:/
-  This document proposes using the BGP-LS protocol [RFC9552] to collect SR Policy state 
-  In a mechanism complementary to the mechanism defined in [RFC8231]./
+>   This document proposes using the BGP-LS protocol [RFC9552] to collect SR Policy state 
+>   In a mechanism complementary to the mechanism defined in [RFC8231]./
 
 New text:/
-  This document proposes SR Policy state collection
-   mechanism complementary to the mechanism defined in [RFC8231]./
+>   This document proposes SR Policy state collection
+>    mechanism complementary to the mechanism defined in [RFC8231]./
 
 
-Nit-5.	Section 1, paragraph 5
+**Nit-5.	Section 1, paragraph 5**
  
 Old text:/
 >    An external 
@@ -462,7 +462,7 @@ Old text:/
 >    paths (tunnels) in the network./ 
 
 
-**Nit-6.	Section 3, diagram **
+**Nit-6.	Section 3, diagram**
  
 
 Current diagram:/
@@ -496,7 +496,7 @@ New diagram:
 
 
 
-Nit-7. Section 5.6,  repeat the abbreviation (CP) before reusing it in this section. 
+**Nit-7. Section 5.6,  repeat the abbreviation (CP) before reusing it in this section.** 
 
 Why: The refresh of the CP abbreviation provides easier reading.  
 Otherwise, the reader must go back and find where CP was defined. 
@@ -509,7 +509,7 @@ New text:/
 >    The SR Candidate Path Constraints TLV is an optional TLV that is used
 >    to report the constraints associated with the candidate path (CP)./ 
 
-Nit-8. Section 5.6.3, lack of clarity of length of SRLG value. 
+**Nit-8. Section 5.6.3, lack of clarity of length of SRLG value.** 
 
 old text:/
 >   *  SRLG Values: One or more SRLG values (each of 4 octets)./
@@ -518,7 +518,7 @@ new text:/
 >    * SRLG VAlues: One or more SRLG values.  Each SRLG value is 4 octets. 
 /
 
-NIT-8, Section 5.6.4, "a" candidate path instead of "the" candidate path
+**NIT-9, Section 5.6.4, "a" candidate path instead of "the" candidate path**
 
 Old text:/
 >    The SR Disjoint Group Constraint sub-TLV is an optional sub-TLV of
@@ -529,7 +529,7 @@ Old text:/
 >    the SR CP Constraints TLV that is used to carry the disjointness
 >    constraint associated with a candidate path. /
    
- NIT-9, Section 5.6.5, clarity of R-Flag description 
+**NIT-10, Section 5.6.5, clarity of R-Flag description** 
  
  Old text:/
 >       -  R-Flag: Indicates that this CP of the SR Policy forms the
@@ -541,7 +541,7 @@ Old text:/
 >          reverse path when the R-Flag is set.  If the R-Flag is clear, 
 >          this CP forms the forward path./
 		 
-NIT-10: Section 6, sentence clarity can be improved by breaking long sentence into two sentences. 
+**NIT-10: Section 6, sentence clarity can be improved by breaking long sentence into two sentences.** 
 
 Original text:/ 
 >    For the reporting of SR Policy Candidate Paths, the NLRI descriptor
@@ -572,7 +572,7 @@ new text:/
 >    the BGP-LS Attribute field as SR Policy State TLVs and sub-TLVs as
 >    described in Section 5. /
    
- NIT-11: Security considerations, paragraph 3, unclear use of ";"
+** NIT-11: Security considerations, paragraph 3, unclear use of ";"**
  
  Original text:/  
 >    BGP peerings are
