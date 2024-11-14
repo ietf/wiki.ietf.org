@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-11-14T22:07:24.901Z
+date: 2024-11-14T22:15:28.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -44,43 +44,43 @@ Suggested new text:
 
 **Note:** You can simply indicate that you will be using “cleared”/”sets” for bits. I am looking for consistency across the document. 
  
-**Issue 4: Section 5.1 – **
+**Issue 4: Section 5.1, Bit Definition ** 
 
-**What:** The Bit Definition (D-Flag, B-Flag, U-Flag, L-Flag, and F-flag) link to section in RFC9256 are unclear. 
+Summary:  The Bit Definition (D-Flag, B-Flag, U-Flag, L-Flag, and F-flag) link to section in RFC9256 are unclear. 
 
- 4a) D-Flag: 
+**4a) D-Flag: **
 
- Draft text:/
-         D-Flag: Indicates the dataplane for the BSIDs and if they are
-         16 octet SRv6 SID when set and are 4 octet SR/MPLS label value
-         when clear./
+ Draft text:
+>          D-Flag: Indicates the dataplane for the BSIDs and if they are
+>          16 octet SRv6 SID when set and are 4 octet SR/MPLS label value
+>          when clear.
 
- New text:/ 
-         D-Flag: Indicates the dataplane for the BSIDs. If D-Flag is set, 
-         the BSID is 16 octet SRv6 SID. If D-Flag is clear, the BSID is
-         the 4-octet SR/MPLS label value.  [RFC9256, section 6.2]/ 
-
+ New text:
+>          D-Flag: Indicates the dataplane for the BSIDs. If D-Flag is set, 
+>          the BSID is 16 octet SRv6 SID. If D-Flag is clear, the BSID is
+>          the 4-octet SR/MPLS label value.  [RFC9256, section 6.2] 
+> 
 
  Text in RFC9256, section 6.2, text:/
-  “When the active candidate path has a specified BSID, 
-   the SR Policy uses that BSID if this value 
-  (label in MPLS, IPv6 address in SRv6) is available.”/
+>   “When the active candidate path has a specified BSID, 
+>    the SR Policy uses that BSID if this value 
+>   (label in MPLS, IPv6 address in SRv6) is available.
 
- 4b) B-Flag 
+** 4b) B-Flag **
  Draft text:/ 
-       B-Flag: Indicates the allocation of the value in the BSID field
-       when set and indicates that BSID is not allocated when clear./
+>        B-Flag: Indicates the allocation of the value in the BSID field
+>        when set and indicates that BSID is not allocated when clear. 
 
-  Question: Does “B-Flag” set indicate a specified BSID-only case per 
+**Question:** Does the “B-Flag” set indicate a specified BSID-only case per 
   [RFC9256, section 6.2.3].  Does B-Flag clear, indicate unspecified 
   BSID (RFC9256, section 6.2.1)? Or just that the node has allocated (or not-allocated)
-  the BSID value.  The problem with this definition is the linkage to 
+  the BSID value. The problem with this definition is the linkage to 
   RFC9252. 
 
- 4c) U-Flag – Does this U-Flag link to the Unspecified BSID (RFC9256, section 6.2.1)? 
+** 4c) U-Flag ** – Does this U-Flag link to the Unspecified BSID (RFC9256, section 6.2.1)? 
      Or is it just that the BSID is unavailable due to another cause? 
 
- 4d) L-Flag – If this explanation references RFC9256 section 6.2, please add the section to the text.  
+** 4d) L-Flag** – If this explanation references RFC9256 section 6.2, please add the section to the text.  
 
 RFC9256 text:/Optionally, instead of only checking that the BSID of the active path is available, 
 a headend MAY check that it is available within the given SID range i.e., 
@@ -90,7 +90,7 @@ Segment Routing Local Block (SRLB) as specified in [RFC8402]./
     Is this a reference to section 9 in RFC9256.  
 
 
-Issue 5: Section 5.1 text on length of BSID fields
+**Issue 5: Section 5.1 text on length of BSID fields**
 
 Old text:/ The BSID fields above are 4-octet carrying the MPLS Label or 16-octet
    carrying the SRv6 SID based on the BSID D-flag.  When carrying the
