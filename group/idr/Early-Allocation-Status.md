@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-11-13T18:38:29.556Z
+date: 2024-11-14T00:39:07.729Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -14,10 +14,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status | Comment |       
 |---|---|---|---|---|---|---|
 | [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Path Attribute | TBD |  Metadata | IDR Chair review | Discussion in github | 
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 | Checking status | 
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD2 (270) | Remote AS Number | AD-Req 6-7-2024 | Checking status |  
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD3 (271) | IPv4 Remote ASBR ID | AD-Req 6-7-2024 | Checking status | 
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | Checking status | 
+
+### pending request for draft-ietf-idr-bgpls-inter-as-topology on hold 
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 |  Request withdrawn until lsr work done | 
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD2 (270) | Remote AS Number | AD-Req 6-7-2024 | Request withdrawn until lsr work done |  
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD3 (271) | IPv4 Remote ASBR ID | AD-Req 6-7-2024 | Request withdrawn until lsr work done | 
+| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | Request withdrawn until lsr work done | 
 
 ## Temporary early allocations 
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations 
