@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2024-11-14T20:23:33.645Z
+date: 2024-11-14T20:23:47.675Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
@@ -34,7 +34,7 @@ this document to the latest RFCs and drafts.
 
 After that I would like Ketan to relook at two issues:
 
-**1. On Section 5.1, last 2 paragraphs: Does this align with draft-ietf-idr-bgp-ls-te-path? **
+1. On Section 5.1, last 2 paragraphs: Does this align with draft-ietf-idr-bgp-ls-te-path?
 
 Text: 
 >    This document introduces some of the TE concepts into BGP-only
