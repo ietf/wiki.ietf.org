@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-11-14T22:52:17.859Z
+date: 2024-11-14T23:23:33.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -11,14 +11,42 @@ dateCreated: 2024-11-14T21:15:40.055Z
 # Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 
 
-## Review for -07
+## Review for -07 
+### Summary: 
+**Shepherd:** Susan Hares 
+**draft:** draft-ietf-idr-bgp-ls-sr-policy-06 
+**status:** review in process. 
+
+
+## Review for -06
 
 ### Summary: 
 **Shepherd:** Susan Hares 
-**draft:** drafat-ietf-idr-bgp-ls-sr-policy-07 
-**status:** review in process. 
+**draft:** draft-ietf-idr-bgp-ls-sr-policy-06 
+**status:** Needs -07 
+email: https://mailarchive.ietf.org/arch/msg/idr/JJnFs4pJZhdMQ2f1bESK9Qtr0Us/
+Summary: Thanks to Ketan for resolving a great deal of the issues. 
 
-### Technical Issues 
+### Technical Issues in -06 
+Issues resolved from -05: most
+
+The following technical issues still need to be resolved:
+
+- Issue 4e (definition of F-Flag when clear),
+- Issue 8a and 8b (bit definitions when bit is cleared)
+- Issue 10 (bit definitions when cleared, reference to 9252 specific section)
+- Issues 13, 14, 15, 16, 19, 20, 31 - all request clarity of on definition of bit (or bits) when cleared.
+- Issue 18 and 30:  Values for type of metric (consider values 6-120 in section 8.6)
+- Issue 28: Awaiting validation on p2p question, before I close the issue.
+
+The Two major issues are:
+a) definition of Flags when the flag is cleared,
+b) the metric types (section 8.6) being full defined when values 6-120 are not assigned.
+
+### NITS 
+All NITs are closed, but I would like to you to look at NIT-8b following (I've copied it below).
+
+
 
 
 
