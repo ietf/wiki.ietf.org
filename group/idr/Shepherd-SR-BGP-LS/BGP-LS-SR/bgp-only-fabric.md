@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2024-11-14T20:35:34.257Z
+date: 2024-11-14T20:35:55.136Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
@@ -63,7 +63,7 @@ You will need to list the RFCs.
 Please provide a prefix attributes that may be included. 
 You may use an exception-list ("all but ...") 
 
-3. Security considerations should reference [RFC9552](https://datatracker.ietf.org/doc/rfc9252/)
+3. **Security considerations should reference [RFC9552](https://datatracker.ietf.org/doc/rfc9252/)**
 
 Please indicate that this draft is passing critical information. 
 You can use text from the security section of [draft-ietf-idr-sr-policy-safi](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)
