@@ -2,7 +2,7 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-03T12:22:51.556Z
+date: 2024-11-14T03:33:13.587Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
@@ -66,6 +66,18 @@ Michael Richardson (Sandelman Software Works)
   - **Lightweight WebSocket Server.** Providing a browser based user interface can be much simpler than providing native apps for different systems. At the moment, it may be hard to do for hardware with limited resources as it requires not only embedding a HTTP server but also all the resources that will be served to the user including HTML, images etc. (not to mention that any updates of web interface would require a software update). A simple WebSocket server can address such issues as the protocol is supported by all the major browsers. Then, the web application with all resources can be hosted on client's side and all the information could be get or set through WebSocket API. Moreover, such endpoints can be reused by any platform supporting WebSocket client (e.g. native desktop app, phone etc.).
   
   - **Event logging.** Due to limited resources (device's memory, bandwidth, connectivity issues etc.) it is hard to fetch debug text logs from End Devices set up in the home's network. The idea is to implement an event logger which can store only necessary data that can be fetched in a binary form to be decoded by a simple script/app.
+
+  - **Thread Hello World Walkthrough**
+  
+This walkthrough takes you through the following steps:
+
+1. Setting up your dev environment
+2. Building the OpenThread CLI example
+3. Flashing MCU 1 and activating the thread system
+4. Flashing MCU 2 and activating the thread system
+5. Running tcpsockserver on MCU 1 and tcpsockclient on MCU 2 and sending Hello_World messages back and forth
+
+See:  [https://github.com/joshco/esp-walkthrough/blob/main/hello_world.md](https://github.com/joshco/esp-walkthrough/blob/main/hello_world.md)
 
 ----
 
