@@ -2,7 +2,7 @@
 title: IDR WG Status for BGP-LS drafts that pass SR 
 description: IDR WG status for BGP-LS for SR 
 published: true
-date: 2024-11-14T21:24:00.367Z
+date: 2024-11-14T21:54:37.700Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:50:47.064Z
@@ -19,10 +19,15 @@ dateCreated: 2024-11-14T20:50:47.064Z
 ## Drafts in WG LC 
 | draft  | Shepherd  |   status  |  Next step  |  Implementations | WG LC |  Time  |  ETA  |  Shepherd Review  |  
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp=ls-sr-policy](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | WG LC | -07 | TBD | TBD | TBD | TBD | TBD | [06 and 07](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | 
+| [draft-ietf-idr-bgp=ls-sr-policy](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | WG LC | -07 | TBD | 2 | TBD | TBD | TBD | [06 and 07](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | 
 
-## WG drafts for BGP-LS for SR  as of 11/14/2024 
-| draft  | Shepherd  |   status  |  Next step  |  Implementations | WG LC |  Time  |  ETA  |  Shepherd Review  |  
+## WG drafts for BGP-LS for SR
+| draft  | Type |  Shepherd  |   status  |  Next step  | Implementation |   Shepherd Review  |  
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp-ls-bgp-only-fabric-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) | Hares | WG | revision (-04) | TBD | TBD | TBD  | TBD | [Review-bgp-only-fabric-03](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric/) | 
+| [draft-ietf-idr-bgp-ls-bgp-only-fabric-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) | PS | Hares | WG | revise  -04 | TBD |  [03](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric/) | 
+| [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) | PS | Hares | WG | revise -01 | TBD | [00](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-nrp) | 
+| [draft-ietf-idr-bgp-ls-sr-policy-path-segment](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segment) | PS | Hares | WG |  review -08 | [07](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segment) |  
+| [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/) | PS | Hares | WG | review -02 | none | [01](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-te-path) |
+| 
+|[draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/) | Info | Hares WG | (/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-te-path) | [07] 
 {.dense}
