@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-13T23:11:56.558Z
+date: 2024-11-15T18:42:21.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -112,22 +112,26 @@ In Progress:
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
 *  ICANN Technical Liaison Group - Currently Under Review
 
-### 2. Executive Session: ICANN Technical Liaison Group Appointment
+### Executive Session: ITU-T SG12 Liaison Manager
+
+  Goal: Vote
+
+### 3. Executive Session: ICANN Technical Liaison Group Appointment
 
   Goal: Decide process for 2024
 
 
-### 3. Executive Session: ICANN NomCom Appointment
+### 4. Executive Session: ICANN NomCom Appointment
 
   Goal: Discussion, vote
 
 
-### 4. Executive Session: IRTF Chair Appointment
+### 5. Executive Session: IRTF Chair Appointment
 
   Goal: Discussion, vote
 
 
-### 5. Next IAB Meeting
+### 6. Next IAB Meeting
 
   Goal: Does the IAB need to meet on 2024-11-27?
 
