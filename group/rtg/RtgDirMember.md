@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2023-04-11T21:49:31.061Z
+date: 2024-11-15T16:31:24.886Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -32,7 +32,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Jia He              |  hejia at huawei.com                    |  Huawei Technologies       |  31 December 2022   |
 |  Joel Halpern        |  jmh at joelhalpern.com                 |  Ericsson                  |  31 December 2024   |
 |  John Drake          |  jdrake at juniper.net                  |  Juniper Networks          |  31 December 2022   |
-|  Jonathan Hardwick   |  jonhardwick at microsoft.com           |  Microsoft                 |  31 December 2024   |
+|  Jonathan Hardwick   |  jonathan.e.hardwick at gmail.com           |  NVIDIA                 |  31 December 2024   |
 |  Julien Meuric       |  julien.meuric at orange.com            |  Orange                    |  31 December 2024   |
 |  Loa Andersson       |  loa at pi.nu                           |  Huawei Technologies       |  31 December 2023   |
 |  Lou Berger          |  lberger at labn.net                    |  LabN Consulting           |  31 December 2024   |
