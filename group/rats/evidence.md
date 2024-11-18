@@ -2,7 +2,7 @@
 title: RATS WG - Evidence Carrying Protocols and APIs
 description: 
 published: true
-date: 2024-11-18T21:54:14.204Z
+date: 2024-11-18T22:01:01.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:41.964Z
@@ -25,7 +25,7 @@ dateCreated: 2024-11-11T12:59:41.964Z
 
 ## Documents in other Standards Development Organizations (SDO)
 
-* [OPC UA](https://reference.opcfoundation.org/Core/Part2/v104/docs/8) does not use TLS but its own protocol for authentication. There are prototypes that do attestation using certifications, such as the one discussed at https://ieeexplore.ieee.org/document/9886014.
+* [OPC UA](https://reference.opcfoundation.org/Core/Part2/v104/docs/8) does not use TLS but its own protocol for authentication. There are prototypes that do attestation using certifications, such as the ones discussed at https://ieeexplore.ieee.org/document/9886014 and https://publica-rest.fraunhofer.de/server/api/core/bitstreams/644d2633-9870-4f53-8685-6623bfe0ff89/content.
 
 ## Historical things of note
 
