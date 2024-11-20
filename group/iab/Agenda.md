@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-20T16:12:02.327Z
+date: 2024-11-20T16:12:13.998Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -122,7 +122,6 @@ In Progress:
 
 *Note: Call time changed to 0700 PST after 2024-11-02*
 
-* 2024-11-27: IAB Business Meeting (Reserved)
 * 2024-12-04: IAB Business Meeting
 * 2024-12-11: IAB Technical Discussion: Global Digital Justice Forum
 * 2024-12-18: IAB Business Meeting
