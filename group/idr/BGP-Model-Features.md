@@ -2,7 +2,7 @@
 title: BGP-Model-Features
 description: 
 published: true
-date: 2024-11-11T16:00:20.344Z
+date: 2024-11-20T23:19:17.873Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T22:12:04.078Z
@@ -23,6 +23,10 @@ dateCreated: 2023-01-28T22:12:04.078Z
 - [RFC7752]
 - [draft-ietf-idr-bgp-ls-sr-policy-07](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/)
 
+5) Flow Specification (v1 FS + FSv2) 
+
+
+6) draft-ietf-idr-vpn-prefix-orf-08
 &nbsp;
 &nbsp;
 &nbsp;
