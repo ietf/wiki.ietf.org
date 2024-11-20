@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-15T18:42:21.931Z
+date: 2024-11-20T16:12:02.327Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-11-20 0700 PST (UTC-8) 
+## IAB Agenda: 2024-12-04 0700 PST (UTC-8) 
 
-*Agenda as of 2024-11-13. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-11-20. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -32,9 +32,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes 
 
 For approval: 
-* 2024-10-16 business meeting (posted 2024-10-16)
 
-Under review:
 * 2024-11-03 business meeting - Sunday IETF 121 - (submitted 2024-11-12)
 * 2024-11-05 business meeting - Tuesday IETF 121 - (submitted 2024-11-12)
 * 2024-11-07 business meeting - Thursday IETF 121 - (submitted 2024-11-12) 
@@ -68,12 +66,20 @@ In Progress:
 *  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
     Vyncke will work on text around limited domains.
 
-*  2024-09-04: Liaison Coordinators to update RFC 4052 to improve 
-    documentation about liaison relationships.
-
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
 
+*  2024-11-20: Cindy Morgan to send an announcement about the ITU-T 
+    SG12 liaison manager appointment.
+
+*  2024-11-20: Cindy Morgan to follow up on the ICANN Technical 
+    Liaison Group appointment and send an announcement.
+
+*  2024-11-20: Cindy Morgan to send an e-vote to finish the ICANN 
+    NomCom appointment.
+
+*  2024-11-20: Cindy Morgan to follow up with the IRTF Chair 
+    candidates and send an announcement.
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -105,36 +111,12 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  IRTF Chair - Interviews complete; community feedback period ended 
-    2024-11-06
-*  ICANN NomCom - Interviews complete; community feedback period ends 
-    2024-11-19
+*  IRTF Chair 
+*  ICANN NomCom 
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
-*  ICANN Technical Liaison Group - Currently Under Review
+*  ICANN Technical Liaison Group 
 
-### Executive Session: ITU-T SG12 Liaison Manager
-
-  Goal: Vote
-
-### 3. Executive Session: ICANN Technical Liaison Group Appointment
-
-  Goal: Decide process for 2024
-
-
-### 4. Executive Session: ICANN NomCom Appointment
-
-  Goal: Discussion, vote
-
-
-### 5. Executive Session: IRTF Chair Appointment
-
-  Goal: Discussion, vote
-
-
-### 6. Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2024-11-27?
-
+### 2. 
 
 ## Upcoming Teleconferences 
 
