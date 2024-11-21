@@ -2,8 +2,8 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2024-06-14T04:10:49.613Z
-tags:
+date: 2024-11-21T00:05:00.248Z
+tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
 ---
@@ -89,6 +89,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
 - [tls *Transport Layer Security*](/group/tls)
 - [uta *Using TLS in Applications*](/group/uta)
+- [v6ops *IPv6 Operations*](/group/v6ops)
 {.links-list}
 
 ## By Area
@@ -140,6 +141,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [netconf *Network Configuration*](/group/netconf)
 - [netmod *Network Modeling*](/group/netmod)
 - [srv6ops *SRv6 Operations*](/group/srv6ops)
+- [v6ops *IPv6 Operations*](/group/v6ops)
 {.links-list}
 
 ### RTG
