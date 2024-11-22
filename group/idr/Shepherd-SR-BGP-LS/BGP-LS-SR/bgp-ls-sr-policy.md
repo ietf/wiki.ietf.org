@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-11-15T12:16:18.390Z
+date: 2024-11-22T14:34:16.982Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -11,11 +11,20 @@ dateCreated: 2024-11-14T21:15:40.055Z
 # Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 
 
-## Review for -07 
+## Review for -08
 ### Summary: 
 **Shepherd:** Susan Hares 
-**draft:** draft-ietf-idr-bgp-ls-sr-policy-06 
+**draft:** draft-ietf-idr-bgp-ls-sr-policy-08 
 **status:** review in process. 
+**email:** 
+**Summary:** Resolved all but 15, 18, and 30.  Che
+
+You have resolved the shepherd’s points except issues 15, 18, and 30. 
+- On issue 15, you believe that the base BGP-LS handles the maximum case. 
+- On issue 18 and 30, you feel that implementers understand by the assignments what values are in scope and what values are not in scope. 
+
+My resolution to these issues is to send a note to IDR’s WG’s AD (John Scudder)
+to confirm that your resolution is acceptable to him.  If so, we will com 
 
 
 ## Review for -06
@@ -24,8 +33,8 @@ dateCreated: 2024-11-14T21:15:40.055Z
 **Shepherd:** Susan Hares 
 **draft:** draft-ietf-idr-bgp-ls-sr-policy-06 
 **status:** Needs -07 
-email: https://mailarchive.ietf.org/arch/msg/idr/JJnFs4pJZhdMQ2f1bESK9Qtr0Us/
-Summary: Thanks to Ketan for resolving a great deal of the issues. 
+**email:** https://mailarchive.ietf.org/arch/msg/idr/JJnFs4pJZhdMQ2f1bESK9Qtr0Us/
+**Summary:** Thanks to Ketan for resolving a great deal of the issues. 
 
 ### Technical Issues in -06 
 Issues resolved from -05: most
