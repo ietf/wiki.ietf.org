@@ -2,7 +2,7 @@
 title: BGP-Model-Features
 description: 
 published: true
-date: 2024-11-20T23:19:17.873Z
+date: 2024-11-22T13:16:48.033Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-28T22:12:04.078Z
