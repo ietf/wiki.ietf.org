@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-11-18T13:46:22.219Z
+date: 2024-11-25T08:36:36.111Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -100,7 +100,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Shepherd review done, pending IESG submission after IANA codepoint deprecation update | - | Andrew |
+
 
 ## Drafts with the IESG
 
@@ -111,6 +111,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | In Last Call (ends 2024-11-11) | Dhruv | Roman |
 | [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | Submitted to IESG for Publication on 2024-08-28 | telechat | Dhruv | Roman |
 | [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | Submitted to IESG for Publication on 2024-10-07 | In Last Call (ends 2024-11-01) | Julien | John |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 | - | Andrew | John |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
