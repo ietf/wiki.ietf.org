@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-20T16:12:13.998Z
+date: 2024-11-29T22:08:35.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-12-04 0700 PST (UTC-8) 
 
-*Agenda as of 2024-11-20. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-11-29. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -36,12 +36,20 @@ For approval:
 * 2024-11-03 business meeting - Sunday IETF 121 - (submitted 2024-11-12)
 * 2024-11-05 business meeting - Tuesday IETF 121 - (submitted 2024-11-12)
 * 2024-11-07 business meeting - Thursday IETF 121 - (submitted 2024-11-12) 
+* 2024-11-20 business meeting - (submitted 2024-11-20) 
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
+*  2024-11-20: Cindy Morgan to send an announcement about the ITU-T 
+    SG12 liaison manager appointment.
 
+*  2024-11-20: Cindy Morgan to follow up on the ICANN Technical 
+    Liaison Group appointment and send an announcement.
+
+*  2024-11-20: Cindy Morgan to send an e-vote to finish the ICANN 
+    NomCom appointment.
     
 On Hold:
 
@@ -68,15 +76,6 @@ In Progress:
 
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
-
-*  2024-11-20: Cindy Morgan to send an announcement about the ITU-T 
-    SG12 liaison manager appointment.
-
-*  2024-11-20: Cindy Morgan to follow up on the ICANN Technical 
-    Liaison Group appointment and send an announcement.
-
-*  2024-11-20: Cindy Morgan to send an e-vote to finish the ICANN 
-    NomCom appointment.
 
 *  2024-11-20: Cindy Morgan to follow up with the IRTF Chair 
     candidates and send an announcement.
@@ -111,18 +110,33 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  IRTF Chair 
-*  ICANN NomCom 
-*  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
-*  ICANN Technical Liaison Group 
+*  IRTF Chair - Candidate followup in progress; announcement pending
+*  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
 
-### 2. 
+
+
+### 2. ICANN NomCom Liaison Manager Appointment <5 mins (Public)
+
+  Goal: Record results of e-vote
+
+
+### 3. Report from November 2024 I* meeting (Tommy) - 10 mins (Public)
+
+
+### 4. EU Targeted consultation on Internet Governance - 10 mins (Public)
+
+  Context: https://ec.europa.eu/eusurvey/runner/TargetedConsultionOnInternetGovernannce
+
+  Goal: Does the IAB want to respond?
+
+
+### 5. Preparation for call with Global Digital Justice Forum - 30 mins
+
 
 ## Upcoming Teleconferences 
 
 *Note: Call time changed to 0700 PST after 2024-11-02*
 
-* 2024-12-04: IAB Business Meeting
 * 2024-12-11: IAB Technical Discussion: Global Digital Justice Forum
 * 2024-12-18: IAB Business Meeting
     * Monthly Reports
