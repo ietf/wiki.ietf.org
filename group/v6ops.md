@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2024-12-02T23:20:39.277Z
+date: 2024-12-02T23:28:50.178Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -13,6 +13,7 @@ dateCreated: 2024-11-21T00:02:34.685Z
 Welcome to the wiki for V6OPS!
 
 ## Consensus Call Schedule
+
    ***********************************************************************************
   |                               |           |         Projected          |          |   
   | File Name                     | Call Type |  Start Date  |  End Date   |  Result  |
