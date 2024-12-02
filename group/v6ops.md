@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2024-11-21T00:02:34.685Z
+date: 2024-12-02T22:45:34.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -10,4 +10,4 @@ dateCreated: 2024-11-21T00:02:34.685Z
 
 # V6OPS WG Wiki
 
-Welcome to the wiki for V6OPS!
+Welcome to the wiki for V6OPS!!
