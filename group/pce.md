@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-11-25T08:36:36.111Z
+date: 2024-12-03T12:02:20.066Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -106,11 +106,11 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | telechat | Dhruv | Roman |
-| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | AD Eval | Julien | Gunter |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | In Last Call (ends 2024-11-11) | Dhruv | Roman |
-| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | Submitted to IESG for Publication on 2024-08-28 | telechat | Dhruv | Roman |
-| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | Submitted to IESG for Publication on 2024-10-07 | In Last Call (ends 2024-11-01) | Julien | John |
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | AD Followup | Dhruv | Roman |
+| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | telechat: Pending on authors to handle YANGDOCTOR review | Julien | Gunter |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | Pending on Authors - <br> 1) Samuel's email about specified BSID <br> 2) IANA issue spotted by Ketan <br> 3) GENART review <br> 4) Marina's email that led to addition of error handling text | Dhruv | Roman |
+| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | Submitted to IESG for Publication on 2024-08-28 | AD Followup | Dhruv | Roman |
+| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | Submitted to IESG for Publication on 2024-10-07 | telechat | Julien | John |
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 | - | Andrew | John |
 
 
