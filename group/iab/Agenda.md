@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-11-29T22:08:35.576Z
+date: 2024-12-03T20:19:26.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -98,9 +98,15 @@ In Progress:
     I-D Exists, IAB stream
     IAB Shepherd: Not assigned
 
-#### 1.6. IAB Review of WG Charters - No updates this week
+#### 1.6. IAB Review of WG Charters 
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
+
+* AI Preferences (AIPREF)
+    Area: WIT
+    Internal Review
+    IESG Telechat: (2024-12-05)
+    IAB Reviewer: Chris Wood
 
 *  Update to IANA Considerations (IANABIS)
     Area: GEN
