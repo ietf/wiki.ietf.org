@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-03T20:19:26.344Z
+date: 2024-12-03T20:20:07.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -110,8 +110,8 @@ In Progress:
 
 *  Update to IANA Considerations (IANABIS)
     Area: GEN
-    Exterbak Review
-    IESG Telechat: (2024-11-21)
+    Approved pending the naming of chairs
+    IESG Telechat: (not on agenda)
     IAB Reviewer: Mirja Kühlewind
 
 #### 1.7 IAB Appointments
