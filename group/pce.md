@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2024-12-03T12:02:20.066Z
+date: 2024-12-03T12:03:42.176Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -36,7 +36,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | draft-peng-pce-stateful-pce-autobw-update | Adoption Poll Ongoing | in progress - IPR 3/3 | Julien |
 |draft-fizgeer-pce-pcep-bfd-parameters|Pending |-|Dhruv|
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors | - |  
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors; suggestion to add text to handle overload notifications | - |  
 | draft-chen-pce-sr-mpls-sid-verification | Pending | Coordinate with SRv6 draft for IANA allocation | - |
 | draft-chen-pce-sr-ingress-protection | Pending | - | - |
 |draft-dong-pce-pcep-nrp|Pending| - | - |
