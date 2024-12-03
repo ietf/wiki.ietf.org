@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2024-12-03T14:19:27.297Z
+date: 2024-12-03T15:44:30.198Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -150,7 +150,7 @@ Prio 3
    G. Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/4QrYw1jp3FuR8XE1bdJiJ_Eknn8/
    Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/6pdz2yA0U-k1l4U6ySqjLmIz6Gs/
    (Additional Authors)
-   Young Lee
+   Young Lee https://mailarchive.ietf.org/arch/msg/ccamp/g7eILcslKdg6pqvTXFZASnzQw3c/
    Haomian Zheng
    Nicola Sambo
    Giovanni Martinelli https://mailarchive.ietf.org/arch/msg/ccamp/I7U2Nuetn7wPdJxVI0AAvygqOEU/
