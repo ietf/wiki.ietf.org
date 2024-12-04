@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2024-11-06T12:04:04.596Z
+date: 2024-12-04T18:04:13.524Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -30,7 +30,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-| 10:05am | UA228 | Lixia Zhang | lixia@cs.ucla.edu | DUB | 2  | Travel Lodge |       |
+|  |  |   |  |  |   |   |       |
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       | 
 
