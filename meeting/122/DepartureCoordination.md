@@ -2,7 +2,7 @@
 title: IETF 122 Departure Coordination
 description: 
 published: true
-date: 2024-12-04T18:04:52.808Z
+date: 2024-12-04T18:05:34.052Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:06:20.904Z
@@ -22,7 +22,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|   |      |       |     |         |    1      |     |       |       |
+|   |      |       |     |         |          |     |       |       |
 |      |        |      |       |         |          |             |       |
 
 ## Friday, March 21, 2025
@@ -38,7 +38,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|  04:00 | AF 1017 | Bob | bob.hinden@gmail.com | DUB |1 | Travel Lodge  | to Paris  |
+|   |  |  |  |  | |    |   |
 |      |        |      |       |         |          |             |       |
 
 
