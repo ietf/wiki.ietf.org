@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-03T20:20:07.502Z
+date: 2024-12-04T16:39:05.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-12-04 0700 PST (UTC-8) 
+## IAB Agenda: 2024-12-11 0700 PST (UTC-8) 
 
-*Agenda as of 2024-11-29. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-12-04. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -32,24 +32,18 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes 
 
 For approval: 
-
-* 2024-11-03 business meeting - Sunday IETF 121 - (submitted 2024-11-12)
-* 2024-11-05 business meeting - Tuesday IETF 121 - (submitted 2024-11-12)
-* 2024-11-07 business meeting - Thursday IETF 121 - (submitted 2024-11-12) 
+ 
 * 2024-11-20 business meeting - (submitted 2024-11-20) 
+
+Under review:
+
+* 2024-12-04 business meeting - (submitted 2024-12-04)
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
-*  2024-11-20: Cindy Morgan to send an announcement about the ITU-T 
-    SG12 liaison manager appointment.
 
-*  2024-11-20: Cindy Morgan to follow up on the ICANN Technical 
-    Liaison Group appointment and send an announcement.
-
-*  2024-11-20: Cindy Morgan to send an e-vote to finish the ICANN 
-    NomCom appointment.
     
 On Hold:
 
@@ -58,9 +52,6 @@ On Hold:
     See https://github.com/ietf-tools/datatracker/issues/5849
 
 In Progress:
-    
-*  2024-06-12: Mirja Kühlewind to work with Wes Hardaker on 
-    prioritizing the current list of IAB requests for the Tools Team.
     
 *  2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
     APRICOT 2025/APNIC 59.
@@ -79,6 +70,22 @@ In Progress:
 
 *  2024-11-20: Cindy Morgan to follow up with the IRTF Chair 
     candidates and send an announcement.
+
+*  2024-12-04: Tommy Pauly to reach out to Roman Danyliw about slides 
+    describing the IETF's outreach activities for the meeting with the 
+    Global Digital Justice Forum.
+
+*  2024-12-04: Ryan Polk to reach out to David Frautschy (cc Mirja 
+    Kühlewind) about how the IAB should respond to the EC consultation 
+    on Internet governance.
+
+*  2024-12-04: Mirja Kühlewind to draft text for a response to the EC 
+    consultation on Internet governance.
+
+*  2024-12-04: Cindy Morgan to invite Scott Mansfield to the IAB 
+    meeting on 2024-12-18 to discuss boilerplate responses to liaison 
+    statements.
+
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -121,31 +128,16 @@ In Progress:
 
 
 
-### 2. ICANN NomCom Liaison Manager Appointment <5 mins (Public)
-
-  Goal: Record results of e-vote
-
-
-### 3. Report from November 2024 I* meeting (Tommy) - 10 mins (Public)
-
-
-### 4. EU Targeted consultation on Internet Governance - 10 mins (Public)
-
-  Context: https://ec.europa.eu/eusurvey/runner/TargetedConsultionOnInternetGovernannce
-
-  Goal: Does the IAB want to respond?
-
-
-### 5. Preparation for call with Global Digital Justice Forum - 30 mins
+### 2. Discussion with Global Digital Justice Forum 
 
 
 ## Upcoming Teleconferences 
 
-*Note: Call time changed to 0700 PST after 2024-11-02*
-
-* 2024-12-11: IAB Technical Discussion: Global Digital Justice Forum
 * 2024-12-18: IAB Business Meeting
     * Monthly Reports
+    * Boilerplate responses to liaison statements (post 121)
+    * ECH Blocking (December 18)
+    * Response to EC consultation on Internet Governance
 
 -- 2024-12-25 - 2025-01-01: Winter Holiday Break --
 
@@ -166,8 +158,9 @@ In Progress:
 * maprg review 
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * DNS Root Server Maintenance document (Wes)
-* Boilerplate resonses to liaison statements (post 121)
-* Report from November 2024 I* meeting
+* SUSTAIN RG (January 2025)
+
+
 
 ## Unscheduled Technical Discussions
 
