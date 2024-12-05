@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-04T16:39:05.405Z
+date: 2024-12-05T16:22:34.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -123,7 +123,6 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  IRTF Chair - Candidate followup in progress; announcement pending
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
 
 
