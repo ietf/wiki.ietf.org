@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-12-05T16:24:06.336Z
+date: 2024-12-05T16:26:02.659Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-
+- Paul Wouters
 
 ## Agenda
 
@@ -72,6 +72,8 @@ Please list topics in this section that could use discussion but may not warrant
 Action item from 121:  IESG to decide whether we are going to collectively agree to opt in 
     to the RPC auth 48 Github experiment if authors are part of the 
     github experiment.
+    
+Reminder: if IESG wants to make changes to how side meetings work, ideally this could be decided in January so the Secretariat/LLC can have time to implement any changes before 122.
 
 
 ### Topics Deferred Till Next Informal 
