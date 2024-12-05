@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-05T16:22:34.298Z
+date: 2024-12-05T17:08:50.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -43,7 +43,12 @@ Under review:
 
 Done:
 
-
+*  2024-11-20: Cindy Morgan to follow up with the IRTF Chair 
+    candidates and send an announcement.
+    
+*  2024-12-04: Cindy Morgan to invite Scott Mansfield to the IAB 
+    meeting on 2024-12-18 to discuss boilerplate responses to liaison 
+    statements.
     
 On Hold:
 
@@ -68,24 +73,12 @@ In Progress:
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
 
-*  2024-11-20: Cindy Morgan to follow up with the IRTF Chair 
-    candidates and send an announcement.
-
-*  2024-12-04: Tommy Pauly to reach out to Roman Danyliw about slides 
-    describing the IETF's outreach activities for the meeting with the 
-    Global Digital Justice Forum.
-
 *  2024-12-04: Ryan Polk to reach out to David Frautschy (cc Mirja 
     Kühlewind) about how the IAB should respond to the EC consultation 
     on Internet governance.
 
 *  2024-12-04: Mirja Kühlewind to draft text for a response to the EC 
     consultation on Internet governance.
-
-*  2024-12-04: Cindy Morgan to invite Scott Mansfield to the IAB 
-    meeting on 2024-12-18 to discuss boilerplate responses to liaison 
-    statements.
-
 
 #### 1.5. IAB Document Status Update - No updates this week
 
