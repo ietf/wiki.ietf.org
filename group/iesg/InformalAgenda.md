@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-12-04T13:25:52.415Z
+date: 2024-12-05T16:24:06.336Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -69,7 +69,10 @@ We need to decide on the Alldispatch experiment. Relevant:
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
-* [New co-chair for HotRFC needed](https://mailarchive.ietf.org/arch/msg/iesg/F5O6IVJ8B-CO1i1g5vbvfHLdulU/#) (Secretariat)
+Action item from 121:  IESG to decide whether we are going to collectively agree to opt in 
+    to the RPC auth 48 Github experiment if authors are part of the 
+    github experiment.
+
 
 ### Topics Deferred Till Next Informal 
 
