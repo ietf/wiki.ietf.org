@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2024-12-06T13:25:23.648Z
+date: 2024-12-06T13:27:17.165Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
