@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2024-12-06T13:27:17.165Z
+date: 2024-12-06T14:00:40.891Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -25,21 +25,67 @@ sub-TLVs.
 ## New Tunnel Types 
 [Tunnel-type template](https://wiki.ietf.org/e/en/group/idr/TEA-templates/Tunnel)
 
-Tunnel encapsulation specification requires the following things for each tunnel: 
-1. Name
-2. Code 
-3. Description 
-4. List of all SubTLVs that can be passed in TEA 
-5. A validation procedures 
-6. Multiple Tunnel interactions 
-7. A security section with specific comments regarding tunnel, 
-8. A management section that includes comments on how the tunel will be managed. 
+## New SubTLV for Tunnel Encaps TLV
+
+
+A new SubTLV requires 
+1. Title  
+2. Type Code 
+3. Encoding of Value bytes  
+3.1 diagram of value byte 
+3.2 Description of each field in Encoding 
+3.3 Error handling per field 
+4. What tunnel types this subTLV can go in. 
+5. Does this subTLV play a part in validation of the TLV 
 
 It is helpful for items 1-5 be clearly laid out in one section. 
 If new sub-TLVs are defined, it is helpful that these subTLVs 
 go before the list of all subTLVs. 
 
-Suggestions for each section are listed below. 
+In addition, the SUB-tLV may be part of discussions on 
+1. Multiple Tunnel interactions 
+2. A security section with specific comments regarding tunnel, 
+3. A management section that includes comments on how the tunel will be managed. 
+
+### 1. Title
+**format:** Title: One-line summary
+
+The Title should be the name that you want to be added to the [IANA SubTLV list](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml)
+
+The One line summary should be less that 80 characters.  
+
+### 2 Type 
+**format:** Type: code-value 
+
+Code value is either either value or TBDXX. 
+
+### 3. Encoding of value byte
+
+The encoding of the type value starts with the 
+
+ 3.1 diagram of byte layout 
+ (most people use 32 bit, but you can use 16 bit)
+ 
+   0                   1
+   0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 
+  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+  |               |               |
+  +---------------+---------------+
+
+(on the RPF, I cannot tell if you have 1 byte or no bytes)  
+
+3.2 Description of each field with: 
+  a) title, definition  (e.g. RPF Su 
+  b) size  
+  c) limits on the field (e.g.    
+
+3.3) Error handling 
+
+What constitutes malformed subTLV? 
+
+3.4) What Tunnels this document specifies it can go in 
+3.5) Does this subTLV play a part in validation . 
+
 
 
 ### 1. Name -
