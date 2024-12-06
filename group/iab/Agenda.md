@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-05T17:08:50.499Z
+date: 2024-12-06T20:20:02.540Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-12-11 0700 PST (UTC-8) 
 
-*Agenda as of 2024-12-04. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-12-06. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -104,8 +104,8 @@ In Progress:
 
 * AI Preferences (AIPREF)
     Area: WIT
-    Internal Review
-    IESG Telechat: (2024-12-05)
+    External Review
+    IESG Telechat: 2024-12-19
     IAB Reviewer: Chris Wood
 
 *  Update to IANA Considerations (IANABIS)
