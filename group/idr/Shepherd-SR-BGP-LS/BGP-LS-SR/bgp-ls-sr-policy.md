@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-11-22T22:54:49.035Z
+date: 2024-12-07T11:58:01.760Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -10,6 +10,11 @@ dateCreated: 2024-11-14T21:15:40.055Z
 
 # Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 
+## Review for -09
+**draft:** draft-ietf-idr-bgp-ls-sr-policy-08 
+**status:** Ready for publication 
+**email:** https://mailarchive.ietf.org/arch/msg/idr/0dL1E-C74DUgkjyOlvFStqingfg/
+**2nd email:** 
 
 ## Review for -08
 ### Summary: 
@@ -17,7 +22,7 @@ dateCreated: 2024-11-14T21:15:40.055Z
 **draft:** draft-ietf-idr-bgp-ls-sr-policy-08 
 **status:** review in process. 
 **email:** 
-**Summary:** Resolved all but 15, 18, and 30. 
+**Summary:** Resolved all but 15, 18, and 30.  John OKed the resolution. 
 
 Ketan has resolved the shepherd’s points except issues 15, 18, and 30. 
 - On issue 15, you believe that the base BGP-LS handles the maximum case in section 5.3 
@@ -31,6 +36,10 @@ See [RFC9552](https://www.rfc-editor.org/rfc/rfc9552.html#section-5.3).
 I believe Ketan's argument is solid.  
 
 **My resolution** to issues 15, 18, and 30 is to send a note to IDR’s WG’s AD (John Scudder) to confirm that your resolution is acceptable to him.  By confirming it now, it set a precedence for the subsequent AD review. 
+
+John OKed resolution: 
+https://mailarchive.ietf.org/arch/msg/idr/bje6-B888d6Eykk7Q7IJ-GMM7wA/
+
 
 
 ## Review for -06
