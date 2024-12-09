@@ -2,7 +2,7 @@
 title: Routing Directorate Early Guidance
 description: 
 published: true
-date: 2022-12-21T19:25:58.941Z
+date: 2024-12-09T11:30:45.325Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:25:52.882Z
@@ -16,15 +16,15 @@ To:
 
 Cc:
 * rtg-dir@ietf.org;
-* foo-wg-mailing-list;
+* ;
 
 Subject:
-* RtgDir Early review: draft-foo-name-version.txt
+* RtgDir Early review: draft-ietf-spring-bfd-12.txt
 
 Hello
 
 I have been selected to do a routing directorate “early” review of this draft.
-https://datatracker.ietf.org/doc/draft-foo-name/
+https://datatracker.ietf.org/doc/draft-ietf-spring-bfd-12.txt/
 
 The routing directorate will, on request from the working group chair, perform an “early” review of a draft before it is submitted for publication to the IESG.  The early review can be performed at any time during the draft’s lifetime as a working group document.  The purpose of the early review depends on the stage that the document has reached.
 
@@ -37,10 +37,10 @@ The routing directorate will, on request from the working group chair, perform a
 For more information about the Routing Directorate, please see https://wiki.ietf.org/en/group/rtg/RtgDir
 
 
-Document: draft-name-version.txt
-Reviewer: your-name 
+Document: draft-ietf-spring-bfd-12.txt
+Reviewer: Loa Andersson
 Review Date: date 
-Intended Status: copy-from-I-D
+Intended Status: Experimental
 
 **Summary:**
 Choose from this list...
