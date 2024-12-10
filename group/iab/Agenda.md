@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-06T20:20:02.540Z
+date: 2024-12-10T23:59:31.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -130,6 +130,7 @@ In Progress:
     * Boilerplate responses to liaison statements (post 121)
     * ECH Blocking (December 18)
     * Response to EC consultation on Internet Governance
+    * Executive Session: IESG Slate Confirmation (20 mins)
 
 -- 2024-12-25 - 2025-01-01: Winter Holiday Break --
 
