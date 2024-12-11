@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-11T00:09:08.343Z
+date: 2024-12-11T16:24:44.244Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-12-11 0700 PST (UTC-8) 
+## IAB Agenda: 2024-12-18 0700 PST (UTC-8) 
 
-*Agenda as of 2024-12-06. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-12-11. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -33,22 +33,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 For approval: 
  
-* 2024-11-20 business meeting - (submitted 2024-11-20) 
+* 2024-12-04 business meeting - (submitted 2024-12-04)
 
 Under review:
 
-* 2024-12-04 business meeting - (submitted 2024-12-04)
+* 2024-12-11 technical discussion - (submitted 2024-12-11)
 
 #### 1.4. Action Item Review - 5 mins
 
-Done:
+Closed:
 
-*  2024-11-20: Cindy Morgan to follow up with the IRTF Chair 
-    candidates and send an announcement.
-    
-*  2024-12-04: Cindy Morgan to invite Scott Mansfield to the IAB 
-    meeting on 2024-12-18 to discuss boilerplate responses to liaison 
-    statements.
+
     
 On Hold:
 
@@ -66,9 +61,6 @@ In Progress:
     (3GPP-IETF co-ordination team) and move the details to a Wiki. 
     Remove references to technology and organizational structure items 
     that will become out of date quickly.
-
-*  2024-06-26: Suresh Krishnan, Warren Kumari, Dhruv Dhody, and Éric 
-    Vyncke will work on text around limited domains.
 
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
@@ -112,7 +104,7 @@ In Progress:
     Area: INT
     Draft Charter
     IESG Telechat: (not on agenda)
-        * IAB Shepherd Requested by Orie
+    IAB Shepherds: Suresh Krishnan, Mirja Kühlewind
     
  * **RESTful Provisioning Protocol (RPP)**
     Area: ART
