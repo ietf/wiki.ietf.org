@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-10T23:59:31.416Z
+date: 2024-12-11T00:09:08.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -84,16 +84,16 @@ In Progress:
 
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
-*  draft-iab-bias-workshop-report-02
+*  **draft-iab-bias-workshop-report-02**
     Sent to RFC Editor: Informational
     IAB Shepherd: Suresh Krishnan
 
-*  draft-edm-protocol-greasing-04 
+*  **draft-edm-protocol-greasing-04**
     Maintaining Protocols Using Grease and Variability
     I-D Exists, IAB stream
     IAB Shepherd: Not assigned
 
-*  draft-iab-ai-control-report-00 
+*  **draft-iab-ai-control-report-00** 
     IAB AI-CONTROL Workshop Report
     I-D Exists, IAB stream
     IAB Shepherd: Not assigned
@@ -102,13 +102,24 @@ In Progress:
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
 
-* AI Preferences (AIPREF)
+* **AI Preferences (AIPREF)**
     Area: WIT
     External Review
     IESG Telechat: 2024-12-19
     IAB Reviewer: Chris Wood
+  
+* **Digital Emblems (DIEM)**
+    Area: INT
+    Draft Charter
+    IESG Telechat: (not on agenda)
+        * IAB Shepherd Requested by Orie
+    
+ * **RESTful Provisioning Protocol (RPP)**
+    Area: ART
+    Draft Charter
+    IESG Telechat: (not on agenda)
 
-*  Update to IANA Considerations (IANABIS)
+*  **Update to IANA Considerations (IANABIS)**
     Area: GEN
     Approved pending the naming of chairs
     IESG Telechat: (not on agenda)
