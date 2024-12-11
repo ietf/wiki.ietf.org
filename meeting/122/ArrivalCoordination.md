@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2024-12-04T18:04:13.524Z
+date: 2024-12-11T23:43:29.501Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -23,8 +23,8 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
-|      |        |      |       |         |          |             |       |
+|12:05am|NH805|Bob | bob.hinden@gmail.com | BKK  | | Marriott Marquis Queen’s Park | |
+|      |       |      |       |         |          |             |       |
 
 ## Saturday, March 15, 2025
 
