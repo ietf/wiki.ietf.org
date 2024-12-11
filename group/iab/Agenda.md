@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-11T16:24:44.244Z
+date: 2024-12-11T16:24:54.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -123,7 +123,6 @@ In Progress:
 
 
 
-### 2. Discussion with Global Digital Justice Forum 
 
 
 ## Upcoming Teleconferences 
