@@ -2,7 +2,7 @@
 title: IETF 122 Departure Coordination
 description: 
 published: true
-date: 2024-12-04T18:05:34.052Z
+date: 2024-12-11T23:46:58.348Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:06:20.904Z
@@ -29,7 +29,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|   |  |  |  |  | |   |   |
+| 7:10am| NH806 | Bob | bob.hinden@gmail.com | BKK |  | Marriott Marquis Queen’s Park  | Flight time |
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
 
