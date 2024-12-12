@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-11-04T11:03:06.654Z
+date: 2024-12-12T14:55:51.768Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -72,14 +72,15 @@ This section lists actions other than document updates
 
 * draft-ietf-bess-evpn-pref-df (MISSREF, need VES)
 * draft-ietf-bess-evpn-mh-split-horizon-11 
+* draft-ietf-bess-evpn-virtual-eth-segment-19 
+* draft-ietf-bess-evpn-mh-pa-13 
+* draft-ietf-bess-evpn-irb-extended-mobility-21 
+* draft-ietf-bess-evpn-fast-df-recovery-12 
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
   - Matthew to find new editor (09/06) 
-* draft-ietf-bess-evpn-virtual-eth-segment (Luc Andre)
-	- mankamana to follow up with Authors (09/06)
-  - Note sent to authors on 10/21 again to update WG during meeting.
 * draft-ietf-bess-evpn-fxc (Stephane)
 	- AD evaluation not done
   - RTGDIR: ready
@@ -87,18 +88,8 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
 	- Telechat on 2/29
   - park it for now (09/06)
-
-* draft-ietf-bess-evpn-irb-extended-mobility (Stephane)
-	- Submitted to IESG 
-
-* draft-ietf-bess-evpn-fast-df-recovery (Matthew)
-  - Revised ID needed from author (09/06)
-  - On agenda IETF 121 
-* draft-ietf-bess-evpn-mh-pa
-  - Submitted to IESG 
 * draft-ietf-bess-evpn-redundant-mcast-source
   - sent to IESG as of 09/06
-
 
 ## Documents under Shepherds Review
 
@@ -167,6 +158,8 @@ Shepherd's name indicated within parenthesis.
   - early review to be started 
  * draft-ietf-bess-mvpn-evpn-sr-p2mp-09 
    - Early review requested 
+* draft-ietf-bess-evpn-vpws-seamless-01
+
   
 ## Recently adopted documents
 
