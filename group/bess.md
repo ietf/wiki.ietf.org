@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2024-12-12T14:55:51.768Z
+date: 2024-12-12T14:58:27.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -194,7 +194,9 @@ Shepherd's name indicated within parenthesis.
 * draft-liu-bess-srv6-service-sid-nffrr-flag
   - Need to resolve a discussion related to draft-burdet-bess-evpn-fast-reroute
   - https://mailarchive.ietf.org/arch/msg/bess/PchNf8Sg_tZm2Sft8zvqfp0WyCs/
-
+* draft-sajassi-bess-rfc8317bis-02
+* draft-sajassi-bess-evpn-umr-mobility-02
+* draft-sajassi-bess-evpn-first-hop-security-03
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
 * draft-thubert-bess-secure-evpn-mac-signaling (3/13/24)
