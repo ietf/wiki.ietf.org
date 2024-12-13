@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2024-12-13T13:10:13.094Z
+date: 2024-12-13T13:11:32.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -30,7 +30,7 @@ sub-TLVs.
 
 
 ### New tunnel type in that also uses PMSI tunnel Attribute 
-[Subtlv-template](https://wiki.ietf.org/e/en/group/idr/TEA-templates/PMSI-TEA)
+[PMSI Tunnel Type Considerations](https://wiki.ietf.org/e/en/group/idr/TEA-templates/PMSI-TEA)
 
 [RFC9012](https://datatracker.ietf.org/doc/rfc9012/) states that the consideration of 
 "P-Multicast Service Interface Tunnel" (PMSI Tunnel) attribute. 
