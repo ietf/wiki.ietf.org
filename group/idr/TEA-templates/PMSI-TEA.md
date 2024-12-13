@@ -2,7 +2,7 @@
 title: PMSI Tunnel Considerations for  New Tunnel Types for Tunnel Encapsulation Attribute 
 description: PMSI Considerations for TEA Tunnels 
 published: true
-date: 2024-12-13T13:14:45.182Z
+date: 2024-12-13T13:15:27.367Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T13:14:45.182Z
@@ -35,4 +35,5 @@ about
    and some content must be check prior to installing the tunnel and 
    multicast tunnel that the two attributes require. 
 
+ 
  
