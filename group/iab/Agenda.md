@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-11T20:37:29.728Z
+date: 2024-12-13T20:04:58.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2024-12-18 0700 PST (UTC-8) 
 
-*Agenda as of 2024-12-11. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-12-13. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -65,12 +65,7 @@ In Progress:
 *  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
     talk about the Tesla Transport Protocol over Ethernet (TTPoE).
 
-*  2024-12-04: Ryan Polk to reach out to David Frautschy (cc Mirja 
-    Kühlewind) about how the IAB should respond to the EC consultation 
-    on Internet governance.
 
-*  2024-12-04: Mirja Kühlewind to draft text for a response to the EC 
-    consultation on Internet governance.
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -116,13 +111,46 @@ In Progress:
     Approved pending the naming of chairs
     IESG Telechat: (not on agenda)
     IAB Reviewer: Mirja Kühlewind
+    
+*  **Taking IP To Other Planets (TIPTOP)**
+    Area: INT
+    Draft Charter
+    IESG Telechat: (not on agenda)
+
 
 #### 1.7 IAB Appointments
 
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
+    - 1 accepted nomination, 2 pending acceptance 
+
+2. Monthly Written Reports and Other Brief Updates (Liaisons) - 5 mins (Public)
+
+  • EODir Liaison Report
+  • IANA Liaison Report
+  • ICANN Liaison Report
+  • IRTF Chair Report
+  • ISOC Liaison Report
+  • IAB Outreach Coordinator Report
+  • Tools Liaison Report
+
+### 3. Boilerplate Responses to Liaison Statements (All) - 10 mins (Public)
 
 
+### 4. Response to EC Consultation on Internet Governance (Mirja) - 10 mins (Public)
 
+  Related action items:
+
+*  2024-12-04: Ryan Polk to reach out to David Frautschy (cc Mirja 
+    Kühlewind) about how the IAB should respond to the EC consultation 
+    on Internet governance.
+
+*  2024-12-04: Mirja Kühlewind to draft text for a response to the EC 
+    consultation on Internet governance.
+
+
+### 5. Executive Session: IESG Slate Confirmation - 20 mins
+
+  Goal: Vote
 
 
 ## Upcoming Teleconferences 
