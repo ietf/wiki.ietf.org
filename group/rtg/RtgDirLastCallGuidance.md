@@ -2,7 +2,7 @@
 title: Routing Directorate Last Call Review Guidance
 description: draft-ietf-rift-rift-20 RTG-DIR review 
 published: true
-date: 2024-12-13T17:25:55.766Z
+date: 2024-12-13T17:39:40.760Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:18:39.154Z
@@ -61,7 +61,31 @@ Choose from this list...
 * Please try to avoid raising esoteric questions about English usage. The RFC Editor will spot these, and it is not a wise use of time to discuss these things.
 * If you find no nits, please leave this section out.
 
+SR-MPLS is not a wellknow abbreviation, so it need to expanded at first use. If it is used both in the Abstract and the document text I think it should be expanded twice. The Abstract is treated as something stand-alone.
+
 **Grammar concerns:**
+
+I have a couple of comments that are grammatical in nature. Please take care with these comments. English is not my mother tongue, but I'm happy if you read and consider (even if you decide not to take what I suggest). 
+
+***MPLS Data Plane***
+
+In the Abstract you talk about the MPLS Data Plane and say:
+
+Inm the 2nd sentence "It can be realized in the Multiprotocol Label Switching (MPLS) network without changing the data plane."
+
+I have the feeling that "without changing the data plane" can be understood that the entire data plane is swapped, maybe:
+ 
+s/without changing the data plane/without any changes to the data
+plane/
+
+***Expected to***
+The second sentence in the Abstract says:
+
+"Bidirectional Forwarding Detection (BFD) is expected to monitor a segment list..."
+
+I have the feeling that "expectations" leave quite a bit of
+uncertainty. What about:
+s/(BFD) is expected to/(BFD) is used to/
 
 ## Sample Routing Directorate Review 
 
