@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2024-12-13T12:56:11.129Z
+date: 2024-12-13T14:12:14.876Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
