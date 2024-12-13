@@ -2,7 +2,7 @@
 title: Routing Directorate Last Call Review Guidance
 description: draft-ietf-rift-rift-20 RTG-DIR review 
 published: true
-date: 2024-12-13T17:25:06.062Z
+date: 2024-12-13T17:25:55.766Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:18:39.154Z
