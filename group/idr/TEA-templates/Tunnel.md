@@ -2,7 +2,7 @@
 title: BGP Tunnel Encapsulation Attribute - Tunnel Template 
 description: BGP TEA Tunnel Template 
 published: true
-date: 2024-12-06T13:27:02.904Z
+date: 2024-12-13T12:40:09.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:27:02.904Z
@@ -117,5 +117,3 @@ How is the operator going to create the three new tunnels in
 configuration?  What problems do you envision gluing 
 
 It will be useful to have these in unique setions. 
-
-###
