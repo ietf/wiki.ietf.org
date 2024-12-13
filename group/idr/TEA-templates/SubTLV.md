@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2024-12-13T12:52:54.872Z
+date: 2024-12-13T12:56:11.129Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
@@ -91,7 +91,20 @@ Please specify:
 
 ### 5. Does this subTLV play a part in validation 
 
-   Please indicate whether this subTLV is involved in the validation of the tunnel. 
+  Please indicate whether this subTLV is involved in the validation of the tunnel. 
+  
+  One way to provide this is a Table. Below is an example. 
+   
+ | Tunnel-name | Code | SubTLVS Supported | SubTLVs not supported | documents | 
+|---|---|---|---|
+| New-tunnel | TBD1 | List-1 | List-2 | 
+{.dense}
+
+List 1: Encapsulation (1), Protocol Type (2), Color (3), Tunnel Egress Endpoint (6), 	DS Field (7), UDP Destination Port (8), 
+Embedded Label Handling (9), MPLS Label Stack (10), Prefix-SID (11), Preference (12), binding SID (13), ENLP (14), Priority (15),  SRv6 Binding SID (20), NRP (123), Segment List (128), 	Policy CP Name (129), Policy Name (130), New-TLV1 (TBD2), new-TLV2 (TBD3)
+
+List 2: Load-Balancing Block (5), SPI/SI (16), IPSEC-SA-ID (64),
+Extended Port Property (65), Underlay ISP Properties (66), IPsec SA Nonce (67), IPsec Public Key (68), 	IPsec SA Proposal (69), 	Simplified IPsec SA (70), IPsec Version (71), RPF (124), Tree Label Stack (125), The WAN ID (192), The Bytes (193), IPSEC DIM (194),  IPSEC Key Exchange (195), IPSEC SA Proposals (196), Service Segment List (197), 	Service Vtep (198), 	Distributed Etherlink Switch (DES) Adjacency (199). 
    
 ## Information that might be added 
 
