@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2024-12-13T14:12:14.876Z
+date: 2024-12-13T14:31:27.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
@@ -53,14 +53,6 @@ The encoding of the type value starts with the
 
  #### 3.1 diagram of byte layout 
  (most people use 32 bit, but you can use 16 bit)
- 
-   0                   1
-   0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 
-  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-  |               |               |
-  +---------------+---------------+
-
-(on the RPF, I cannot tell if you have 1 byte or no bytes)  
 
 #### 3.2 Description of each field with: 
 
