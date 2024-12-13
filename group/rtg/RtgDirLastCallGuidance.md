@@ -2,7 +2,7 @@
 title: Routing Directorate Last Call Review Guidance
 description: draft-ietf-rift-rift-20 RTG-DIR review 
 published: true
-date: 2024-04-02T11:45:30.228Z
+date: 2024-12-13T17:25:06.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:18:39.154Z
@@ -15,12 +15,12 @@ To:
 
 Cc:
 * rtg-dir@ietf.org;
-* draft-name.all@ietf.org;
-* wg-mailing-list;
-* last-call@ietf.org
+* draft-ietf-spring-bfd.all@ietf.org;
+* spring@ietf.org;
+* last-call@ietf.org;
 
 Subject:
-* [RtgDir](/group/rtg/RtgDir) Last Call review: draft-name-version
+* [RtgDir](/group/rtg/RtgDir) Last Call review: draft-ietf-spring-bfd-12
 
 Hello,
 
@@ -28,11 +28,11 @@ I have been selected as the Routing Directorate reviewer for this draft. The Rou
 
 Although these comments are primarily for the use of the Routing ADs, it would be helpful if you could consider them along with any other IETF Last Call comments that you receive, and strive to resolve them through discussion or by updating the draft.
 
-Document: draft-name-version
-Reviewer: your-name
+Document: draft-ietf-spring-bfd-12
+Reviewer: Loa Andersson
 Review Date: date 
-IETF LC End Date: date-if-known
-Intended Status: copy-from-I-D
+IETF LC End Date: 2024-12-13
+Intended Status: Experimental
 
 **Summary:**
 Choose from this list...
@@ -60,6 +60,8 @@ Choose from this list...
 * Usually a reviewer will not be looking for this type of issue but may find some in the course of their review.
 * Please try to avoid raising esoteric questions about English usage. The RFC Editor will spot these, and it is not a wise use of time to discuss these things.
 * If you find no nits, please leave this section out.
+
+**Grammar concerns:**
 
 ## Sample Routing Directorate Review 
 
