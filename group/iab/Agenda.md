@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-13T20:04:58.568Z
+date: 2024-12-13T20:05:47.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -155,16 +155,10 @@ In Progress:
 
 ## Upcoming Teleconferences 
 
-* 2024-12-18: IAB Business Meeting
-    * Monthly Reports
-    * Boilerplate responses to liaison statements (post 121)
-    * ECH Blocking (December 18)
-    * Response to EC consultation on Internet Governance
-    * Executive Session: IESG Slate Confirmation (20 mins)
-
 -- 2024-12-25 - 2025-01-01: Winter Holiday Break --
 
 * 2025-01-08: IAB Business Meeting
+    * ECH Blocking
 * 2025-01-15: IAB Business Meeting (Reserved)
 * 2025-01-22: IAB Business Meeting
     - Monthly Reports
