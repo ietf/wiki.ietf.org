@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-15T20:01:32.567Z
+date: 2024-12-15T20:03:20.619Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -47,6 +47,9 @@ Choose from this list...
 **Comments:**
 * Please supply an overview of the draft quality and readability.
 * Include anything else that you think will be helpful toward understanding your review.
+
+***Mailing list discussion***
+Shortly after 
 
 **Major Issues:**
 * Major issues are the type of concerns that will result in the document being blocked until they are resolved. The Routing ADs will become involved.
