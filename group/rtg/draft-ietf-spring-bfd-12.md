@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-15T19:42:04.122Z
+date: 2024-12-15T20:01:32.567Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -78,8 +78,7 @@ Inm the 2nd sentence "It can be realized in the Multiprotocol Label Switching (M
 
 I have the feeling that "without changing the data plane" can be understood that the entire data plane is swapped, maybe:
  
-s/without changing the data plane/without any changes to the data
-plane/
+s/without changing the data plane/without any changes to the data plane/
 
 ***Expected to***
 The second sentence in the Abstract says:
