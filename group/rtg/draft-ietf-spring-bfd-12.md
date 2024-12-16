@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-15T20:03:20.619Z
+date: 2024-12-16T09:15:03.670Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -49,7 +49,7 @@ Choose from this list...
 * Include anything else that you think will be helpful toward understanding your review.
 
 ***Mailing list discussion***
-Shortly after 
+The SPRING mailining list has been actvie discussing this WGLC. I had not read all the mails when I started my review, but has done so prior to finish it. There are some overlaps, and some differences between my comments and thise on the mailing list, for example ALvaro and I both have a comment on the use of the "expected" in the Abstract, I suggest a change and Alvaro to drop the enire sentence. While I prefer what I proposed, I have no problem living with what Alvaro proposes. This is true for almost all overlapping comments, I have made a note if I strongly prefer something I suggested.
 
 **Major Issues:**
 * Major issues are the type of concerns that will result in the document being blocked until they are resolved. The Routing ADs will become involved.
