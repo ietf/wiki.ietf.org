@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-16T09:37:11.485Z
+date: 2024-12-16T09:45:27.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -76,7 +76,21 @@ SR-MPLS is not a wellknow abbreviation, so it need to expanded at first use. If 
 
 ***Terminology***
 
-You expand 
+In the terminology section you expand SR-MPLS as:
+
+- SR-MPLS Segment Routing with MPLS data plane
+
+The working group have told the RFC Editor to use:
+
+- SR-MPLS Segment Routing over MPLS
+
+in the Abbreviation list. We should follow the abbreviation list.
+
+The terminology section kisses:
+
+- LSR Label Switching Router
+
+which is used in setion 11.
 
 
 **Grammar concerns:**
