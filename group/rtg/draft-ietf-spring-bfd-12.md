@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-16T09:15:03.670Z
+date: 2024-12-16T09:37:11.485Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -48,6 +48,9 @@ Choose from this list...
 * Please supply an overview of the draft quality and readability.
 * Include anything else that you think will be helpful toward understanding your review.
 
+***Overview***
+The document describes the use of BFD for monitoring individual segment lists of candidate paths of an SR Policy.  It documents the use of various BFD modes and features such as BFD Demand mode, Seamless BFD, and BFD Echo function with the BFD Control packet payload. in the SR-MPLS domain. The document also defines the use of LSP Ping for Segment Routing networks over the MPLS data plane [RFC8287] to bootstrap and control path of a BFD session from the egress LER to the ingress LER using Segment Routing segment list with MPLS data plane (SR-MPLS).
+
 ***Mailing list discussion***
 The SPRING mailining list has been actvie discussing this WGLC. I had not read all the mails when I started my review, but has done so prior to finish it. There are some overlaps, and some differences between my comments and thise on the mailing list, for example ALvaro and I both have a comment on the use of the "expected" in the Abstract, I suggest a change and Alvaro to drop the enire sentence. While I prefer what I proposed, I have no problem living with what Alvaro proposes. This is true for almost all overlapping comments, I have made a note if I strongly prefer something I suggested.
 
@@ -67,7 +70,14 @@ The SPRING mailining list has been actvie discussing this WGLC. I had not read a
 * Please try to avoid raising esoteric questions about English usage. The RFC Editor will spot these, and it is not a wise use of time to discuss these things.
 * If you find no nits, please leave this section out.
 
+***Abstract***
+
 SR-MPLS is not a wellknow abbreviation, so it need to expanded at first use. If it is used both in the Abstract and the document text I think it should be expanded twice. The Abstract is treated as something stand-alone.
+
+***Terminology***
+
+You expand 
+
 
 **Grammar concerns:**
 
