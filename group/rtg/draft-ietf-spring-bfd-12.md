@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-17T11:21:24.013Z
+date: 2024-12-17T15:21:21.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -134,9 +134,33 @@ You create the Non-FEC Path sub-TLV registry almost correctly, but I think Table
 
 I.e. do it exactly as for other sub-TLV registries. If not you'll have to motivate this.
 
-Two questions:
+Some questions:
 
-- You use in the "Note column" for the 
+****Experimental RFC needed****
+
+In the "Note column" of the "Non-FEC Path sub-TLV registry" you "Specification Required", that registration policy is the widest we have, almost anything that we can imagine to be a "specification" is allowed. All documents from any SDO is liokely to pass that var. You scribble something on a napkin, take a photo of it and store somewhere where it is publicly retrievable, and you can make a case for "specification". Then we go to the "Note" field and  there you say "Experimental RFC needed", so you limit our widest category down to a single type of document. Please not that "Experimental RFC needed" is not a registrtation policy. If you want it you have to describe it,
+
+Why is that? Isn't RFC do it like this? Isn't RFC Required" sufficicient?
+
+****Populate new registries****
+
+When you create a new registry you can populate if, the "TBDs" are not needed, there are no conflicts. IANA will review and do what you say. We let INA pick the values when there are a risk for conflict. Add a value instead of "TBD2".
+
+****First Come, First Served****
+
+Why did you remove FCFS? We had a long discussion on including it when we wrote RFC 9041.
+
+****Assignement conflicts****
+
+For "Non-FEC Path sub-TLV registry" you first say that we have a small problem. You want to Reserve to values "0" and "65535". The glitch is that you first say that for "0" the registration policy is "Standard Tracks", and then yo try to "Reserve" it from and Experimental RFC. It shold not work.
+
+For "65535" you first say it "First Come, First Served" and then"Reserve", it can't be both. I think you can reserve "0" and "65535" and make the first Standard track range 1-16383, and the Private Use range 64512-65534. But I think yuo should get an opinion from IANA before you commit. 
+
+Alternatively you could do as all other sub-TLV registries does, skip reserving 65535.
+
+****Assigment from the Return Code registry****
+
+You are requesting that a Standard Track code point from the "Return Codes" registry. You can't do that from an Experimental RFC. I suggest that you pick a value from the RFC Required range instead.
 
 **Nits:**
 * Nits are editorial or layout items. They are things that would ideally be resolved before publication to make the document more readable and may be raised now to save the RFC Editor's work.
