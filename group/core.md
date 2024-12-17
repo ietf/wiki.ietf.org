@@ -2,7 +2,7 @@
 title: CORE WG - Constrained RESTful Environments Wiki
 description: 
 published: true
-date: 2024-12-17T10:04:31.519Z
+date: 2024-12-17T10:59:44.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:20:32.189Z
@@ -47,15 +47,15 @@ The [CoAP Content-Formats registry](https://www.iana.org/assignments/core-parame
 ### Resource Type (rt=) Link Target Attribute Values
 
 The [Resource Type (rt=) Link Target Attribute Values registry](https://www.iana.org/assignments/core-parameters/core-parameters.xhtml#rt-link-target-att-value) enables implementers of (IoT) devices to learn about, and potentially re-use, functionality that was defined/registered by others. This can ease and accelerate the development and testing of such devices.
-However, by its definition the registry only includes plain (string) values, while URIs (including URNs) are never included. The following page keeps track of known URIs used to encode Resource Types. Please add any URIs you know about, or [mail us](mailto://core-parameters@ietf.org)!
+However, by its definition the registry only includes plain (string) values, while URIs (including URNs) are never included. The following page keeps track of known URIs used to encode Resource Types. 
 
-* [Known Resource Type URIs](/group/core/RtUris)
+* [Known URIs Used in CoRE Protocols](/group/core/RtUris)
 
 ### Interface Description (if=) Link Target Attribute Values
 The [Interface Description (if=) Link Target Attribute Values registry](https://www.iana.org/assignments/core-parameters/core-parameters.xhtml#if-link-target-att-value), similar to the above, enables implementers to re-use interface types.
-The following page keeps track of known URIs used to encode Interface Descriptions.  Please add any URIs you know about, or [mail us](mailto://core-parameters@ietf.org)!
+The below page keeps track of known URIs used to encode Interface Descriptions.
 
-* [Known Resource Type URIs](/group/core/IfUris)
+* [Known URIs Used in CoRE Protocols](/group/core/RtUris)
 
 ## CoRE Agile Backlog
 We are a very active working group with a lot of personal draft submissions being maintained. In order to maintain common objectives for progressing work, the following page maintains an Agile backlog of work items that are the next highest priority for the working group. This page is to be reviewed and updated periodically (e.g. at IETF meetings). This is not however a formal tool of the IETF, and acceptance of a draft as a WG item follows normal IETF procedure.
