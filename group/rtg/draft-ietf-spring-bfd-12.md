@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-17T10:22:58.719Z
+date: 2024-12-17T11:21:24.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -94,7 +94,49 @@ Table 1 should have a column listing if there are sub-TLV registries or not.
             
 Since you assign a sub-TLV I prefer that you list it.
 
-You create the Non-FEC Path sub-TLV registry correctly (almost), you are 
+You create the Non-FEC Path sub-TLV registry almost correctly, but I think Table 2 should look like this:
+    
+    +=============+==============+===========================+
+    | 0-16383     | Standards    | This range is for sub-TLVs|
+    |             |  Action      | that require an error     |
+    |             |              | message if notrecognized. |
+    |             |              | [RFC9041, Section 3.1     | 
+    +=============+==============+===========================+
+    | 16384-31739 | RFC          | This range is for sub-TLVs|
+    |             | Required     | that require an error     |
+    |             |              | message if notrecognized. |     |             |              | [RFC9041, Section 3.1     |     +=============+==============+===========================+ 
+    | 31740-31743 | Experimental | Reserved, not to be       |
+    |             | Use          | assigned.                 |
+    |             |              | This range is for sub-TLVs|
+    |             |              | that require an error     |
+    |             |              | message if notrecognized. |     |             |              | [RFC9041, Section 3.1     |     +=============+==============+===========================+ 
+    | 31744-32767 | First Come   | This range is for sub-TLVs|
+    |             | Use          | that require an error     |
+    |             |              | message if notrecognized. |
+    |             |              | [RFC9041, Section 3.1     |
+    +=============+==============+===========================+
+    | 32768-49161 | Standards    | This range is for sub-TLVs|
+    |             |  Action      | that that can be silently |
+    |             |              | dropped if notrecognized. | 
+    +=============+==============+===========================+
+    | 49162-64507 | RFC          | This range is for sub-TLVs|
+    |             | Required     | that that can be silently |
+    |             |              | dropped if notrecognized. |     +=============+==============+===========================+ 
+    | 64508-64511 | Experimental | Reserved, not to be       |
+    |             | Use          | assigned.                 |
+    |             |              | This range is for sub-TLVs|
+    |             |              | that that can be silently |
+    |             |              | dropped if notrecognized. |     +=============+==============+===========================+ 
+    | 64512-65535 | First Come   | This range is for sub-TLVs|
+    |             | Use          | that that can be silently |
+    |             |              | dropped if notrecognized. |
+    +=============+==============+===========================+
+
+I.e. do it exactly as for other sub-TLV registries. If not you'll have to motivate this.
+
+Two questions:
+
+- You use in the "Note column" for the 
 
 **Nits:**
 * Nits are editorial or layout items. They are things that would ideally be resolved before publication to make the document more readable and may be raised now to save the RFC Editor's work.
