@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-16T09:45:27.094Z
+date: 2024-12-17T10:02:49.578Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -64,6 +64,22 @@ The SPRING mailining list has been actvie discussing this WGLC. I had not read a
 * Please include all of the minor issues you have found. Give as much context information as possible (e.g., section numbers, paragraph counts).
 * If you find no minor issues, please write: "No minor issues found."
 
+***IANA COnsiderations***
+
+I have a some concerns about the IANA Considerations. Ketan had almost the same concerns in a mail to the list, but the document has changed, so I go through.
+
+    It is OK to allocate the new "Non-FEC Path TLV" the 
+    way  you do.
+    
+    However you assign it from a range that require a response
+    if the the TLV is not recognized, which is fine if that is
+    what you want. If that is the case this need to be
+    described in section 3.1.
+    
+    If youy think that it can be silently dropped if not 
+    recognized you should use range 49162-64507. Again you 
+    need to describe this in section 3.1.
+
 **Nits:**
 * Nits are editorial or layout items. They are things that would ideally be resolved before publication to make the document more readable and may be raised now to save the RFC Editor's work.
 * Usually a reviewer will not be looking for this type of issue but may find some in the course of their review.
@@ -91,7 +107,6 @@ The terminology section kisses:
 - LSR Label Switching Router
 
 which is used in setion 11.
-
 
 **Grammar concerns:**
 
