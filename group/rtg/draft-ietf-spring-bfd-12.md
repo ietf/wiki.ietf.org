@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-17T10:02:49.578Z
+date: 2024-12-17T10:22:58.719Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -79,6 +79,22 @@ I have a some concerns about the IANA Considerations. Ketan had almost the same 
     If youy think that it can be silently dropped if not 
     recognized you should use range 49162-64507. Again you 
     need to describe this in section 3.1.
+    
+Table 1 should have a column listing if there are sub-TLV registries or not.
+
+    +=======+==================+===============+============+
+    | Value | TLV Name         | Reference     | Sub-TLV    |
+    |       |                  |               |registry    |
+    +=======+==================+===============+============|
+    |  TBD1 | Non-FEC Path TLV | This document | Non-FEC    |
+    |       |                  |               |Path sub-TLV|
+    +-------+------------------+---------------+------------|
+
+            Table 1: New Non-FEC Path TLV
+            
+Since you assign a sub-TLV I prefer that you list it.
+
+You create the Non-FEC Path sub-TLV registry correctly (almost), you are 
 
 **Nits:**
 * Nits are editorial or layout items. They are things that would ideally be resolved before publication to make the document more readable and may be raised now to save the RFC Editor's work.
