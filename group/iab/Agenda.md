@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-18T16:27:50.952Z
+date: 2024-12-18T16:28:15.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -67,7 +67,6 @@ In Progress:
 * 2024-12-18: Mirja Kühlewind to finalize the text for a response to 
     the EC consultation on Internet governance, send it out, and ask 
     for it to be published.
-
 
 * 2024-12-18: Cindy Morgan to start an e-vote to confirm the INT, 
     RTG, and SEC candidates selected by the IETF NomCom.
