@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-17T15:21:21.916Z
+date: 2024-12-18T10:00:48.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -160,7 +160,7 @@ Alternatively you could do as all other sub-TLV registries does, skip reserving 
 
 ****Assigment from the Return Code registry****
 
-You are requesting that a Standard Track code point from the "Return Codes" registry. You can't do that from an Experimental RFC. I suggest that you pick a value from the RFC Required range instead.
+You are requesting that a Standard Track code point from the "Return Codes" registry. You can't do that from an Experimental RFC. I suggest that you ask for a value from the RFC Required range instead.
 
 **Nits:**
 * Nits are editorial or layout items. They are things that would ideally be resolved before publication to make the document more readable and may be raised now to save the RFC Editor's work.
