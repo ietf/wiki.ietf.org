@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-13T20:05:47.264Z
+date: 2024-12-18T16:27:50.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2024-12-18 0700 PST (UTC-8) 
+## IAB Agenda: 2025-01-08 0700 PST (UTC-8) 
 
-*Agenda as of 2024-12-13. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2024-12-18. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -32,12 +32,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes 
 
 For approval: 
- 
-* 2024-12-04 business meeting - (submitted 2024-12-04)
-
-Under review:
 
 * 2024-12-11 technical discussion - (submitted 2024-12-11)
+
+Under review:
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -53,18 +51,26 @@ On Hold:
 
 In Progress:
     
-*  2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
+* 2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
     APRICOT 2025/APNIC 59.
 
-*  2024-06-25: Suresh Krishnan to draft a document obsoleting RFC 3113 
+* 2024-06-25: Suresh Krishnan to draft a document obsoleting RFC 3113 
     (Update RFC3113 to in only high level details of the collaboration 
     (3GPP-IETF co-ordination team) and move the details to a Wiki. 
     Remove references to technology and organizational structure items 
     that will become out of date quickly.
 
-*  2024-10-02: Suresh Krishnan to try and find a contact at Tesla to 
-    talk about the Tesla Transport Protocol over Ethernet (TTPoE).
+* 2024-12-18: Suresh Krishnan to try and schedule a technical 
+    discussion about the Tesla Transport Protocol over Ethernet 
+    (TTPoE).
 
+* 2024-12-18: Mirja Kühlewind to finalize the text for a response to 
+    the EC consultation on Internet governance, send it out, and ask 
+    for it to be published.
+
+
+* 2024-12-18: Cindy Morgan to start an e-vote to confirm the INT, 
+    RTG, and SEC candidates selected by the IETF NomCom.
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -72,7 +78,7 @@ In Progress:
  Datatracker: https://datatracker.ietf.org/stream/iab/
 
 *  **draft-iab-bias-workshop-report-02**
-    Sent to RFC Editor: Informational
+    AUTH48: Informational
     IAB Shepherd: Suresh Krishnan
 
 *  **draft-edm-protocol-greasing-04**
@@ -103,8 +109,8 @@ In Progress:
     
  * **RESTful Provisioning Protocol (RPP)**
     Area: ART
-    Draft Charter
-    IESG Telechat: (not on agenda)
+    Internal Review
+    IESG Telechat: 2025-01-09
 
 *  **Update to IANA Considerations (IANABIS)**
     Area: GEN
@@ -123,34 +129,6 @@ In Progress:
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
     - 1 accepted nomination, 2 pending acceptance 
 
-2. Monthly Written Reports and Other Brief Updates (Liaisons) - 5 mins (Public)
-
-  • EODir Liaison Report
-  • IANA Liaison Report
-  • ICANN Liaison Report
-  • IRTF Chair Report
-  • ISOC Liaison Report
-  • IAB Outreach Coordinator Report
-  • Tools Liaison Report
-
-### 3. Boilerplate Responses to Liaison Statements (All) - 10 mins (Public)
-
-
-### 4. Response to EC Consultation on Internet Governance (Mirja) - 10 mins (Public)
-
-  Related action items:
-
-*  2024-12-04: Ryan Polk to reach out to David Frautschy (cc Mirja 
-    Kühlewind) about how the IAB should respond to the EC consultation 
-    on Internet governance.
-
-*  2024-12-04: Mirja Kühlewind to draft text for a response to the EC 
-    consultation on Internet governance.
-
-
-### 5. Executive Session: IESG Slate Confirmation - 20 mins
-
-  Goal: Vote
 
 
 ## Upcoming Teleconferences 
@@ -178,7 +156,7 @@ In Progress:
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * DNS Root Server Maintenance document (Wes)
 * SUSTAIN RG (January 2025)
-
+* Boilerplate responses to liaison statements (with Scott Mansfield)
 
 
 ## Unscheduled Technical Discussions
