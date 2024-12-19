@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-18T10:00:48.591Z
+date: 2024-12-19T21:41:20.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -44,14 +44,14 @@ Choose from this list...
 * I have some minor concerns about this document that I think should be resolved before publication.
 * I have significant concerns about this document and recommend that the Routing ADs discuss these issues further with the authors.
 
-**Comments:**
+## Comments:
 * Please supply an overview of the draft quality and readability.
 * Include anything else that you think will be helpful toward understanding your review.
 
-***Overview***
+### Overview
 The document describes the use of BFD for monitoring individual segment lists of candidate paths of an SR Policy.  It documents the use of various BFD modes and features such as BFD Demand mode, Seamless BFD, and BFD Echo function with the BFD Control packet payload. in the SR-MPLS domain. The document also defines the use of LSP Ping for Segment Routing networks over the MPLS data plane [RFC8287] to bootstrap and control path of a BFD session from the egress LER to the ingress LER using Segment Routing segment list with MPLS data plane (SR-MPLS).
 
-***Mailing list discussion***
+### Mailing list discussion
 The SPRING mailining list has been actvie discussing this WGLC. I had not read all the mails when I started my review, but has done so prior to finish it. There are some overlaps, and some differences between my comments and thise on the mailing list, for example ALvaro and I both have a comment on the use of the "expected" in the Abstract, I suggest a change and Alvaro to drop the enire sentence. While I prefer what I proposed, I have no problem living with what Alvaro proposes. This is true for almost all overlapping comments, I have made a note if I strongly prefer something I suggested.
 
 **Major Issues:**
@@ -64,7 +64,7 @@ The SPRING mailining list has been actvie discussing this WGLC. I had not read a
 * Please include all of the minor issues you have found. Give as much context information as possible (e.g., section numbers, paragraph counts).
 * If you find no minor issues, please write: "No minor issues found."
 
-***IANA COnsiderations***
+### IANA Considerations
 
 I have a some concerns about the IANA Considerations. Ketan had almost the same concerns in a mail to the list, but the document has changed, so I go through.
 
@@ -136,21 +136,21 @@ I.e. do it exactly as for other sub-TLV registries. If not you'll have to motiva
 
 Some questions:
 
-****Experimental RFC needed****
+#### Experimental RFC needed
 
 In the "Note column" of the "Non-FEC Path sub-TLV registry" you "Specification Required", that registration policy is the widest we have, almost anything that we can imagine to be a "specification" is allowed. All documents from any SDO is liokely to pass that var. You scribble something on a napkin, take a photo of it and store somewhere where it is publicly retrievable, and you can make a case for "specification". Then we go to the "Note" field and  there you say "Experimental RFC needed", so you limit our widest category down to a single type of document. Please not that "Experimental RFC needed" is not a registrtation policy. If you want it you have to describe it,
 
 Why is that? Isn't RFC do it like this? Isn't RFC Required" sufficicient?
 
-****Populate new registries****
+#### Populate new registries
 
 When you create a new registry you can populate if, the "TBDs" are not needed, there are no conflicts. IANA will review and do what you say. We let INA pick the values when there are a risk for conflict. Add a value instead of "TBD2".
 
-****First Come, First Served****
+#### First Come, First Served
 
 Why did you remove FCFS? We had a long discussion on including it when we wrote RFC 9041.
 
-****Assignement conflicts****
+#### Assignement conflicts
 
 For "Non-FEC Path sub-TLV registry" you first say that we have a small problem. You want to Reserve to values "0" and "65535". The glitch is that you first say that for "0" the registration policy is "Standard Tracks", and then yo try to "Reserve" it from and Experimental RFC. It shold not work.
 
@@ -158,7 +158,7 @@ For "65535" you first say it "First Come, First Served" and then"Reserve", it ca
 
 Alternatively you could do as all other sub-TLV registries does, skip reserving 65535.
 
-****Assigment from the Return Code registry****
+#### Assigment from the Return Code registry
 
 You are requesting that a Standard Track code point from the "Return Codes" registry. You can't do that from an Experimental RFC. I suggest that you ask for a value from the RFC Required range instead.
 
@@ -168,11 +168,16 @@ You are requesting that a Standard Track code point from the "Return Codes" regi
 * Please try to avoid raising esoteric questions about English usage. The RFC Editor will spot these, and it is not a wise use of time to discuss these things.
 * If you find no nits, please leave this section out.
 
-***Abstract***
+### Abstract
 
 SR-MPLS is not a wellknow abbreviation, so it need to expanded at first use. If it is used both in the Abstract and the document text I think it should be expanded twice. The Abstract is treated as something stand-alone.
 
-***Terminology***
+### Terminology
+
+#### Consistency
+This is is inconsistence, sometimes there is a ":" between the abbreviation and expansion, sometime not. I prefer with the ":".
+
+#### SR-MPLS
 
 In the terminology section you expand SR-MPLS as:
 
@@ -190,11 +195,46 @@ The terminology section kisses:
 
 which is used in setion 11.
 
-**Grammar concerns:**
+### Section 2
+You correctly have a reference to RFC 8660, but the forwarding plane operation "NEXT" shows up a bit abrupt and if I undedrstand correctly it is explained in RFC 8402, could please add some text on what "NEXT" is and where to find the definition.
+
+In section 2 you have this paragraph:
+
+     When LSP Ping is used to bootstrapping a BFD session for
+     SR-MPLS segment list the FEC corresponding to the last
+     segment to be associated with the BFD session MUST be
+     as the very last sub-TLV in the Target FEC TLV.
+     
+First, a "Target FEC" TLV does not exist. There is a "Target FEC Stack" TLV (TLV # 1)is that the TLV you mean?
+
+Second, the "Target FEC Stack" TLV shares sub-TLVs with the "Reverse-path Target FEC Stack" TLV and the "Reply Path" TLV, together there are in the order of 50 sub-TLVs defined. Then you say "last must be last", is that among all sub-TLVs, or just among those defined in this document.
+
+You also have this paragraph:
+
+    Encapsulation of a BFD Control packet in Segment Routing 
+    network with MPLS data plane MUST follow Section 7 
+    [RFC5884] when the IP/UDP header used and MUST follow 
+    Section 3.4 [RFC6428] without IP/UDP header being used.
+    
+I think this would be better:
+
+    Encapsulation of a BFD Control packet in Segment Routing 
+    networks over a MPLS data plane MUST follow Section 7 of
+    [RFC5884] when the IP/UDP is header used. The 
+    encapsulation MUST follow Section 3.4 of [RFC6428] when 
+    an IP/UDP header is not used.
+
+
+### Section 5
+
+In your text is p2mp and multicast synoumous? I have a tendency to think of multicast as a application offered to "users" that they can join or leave, while p2mp is a service that a lower layer supply. I'm not dogmnatic about just wanna know how to understand your text.
+
+
+## Grammar concerns
 
 I have a couple of comments that are grammatical in nature. Please take care with these comments. English is not my mother tongue, but I'm happy if you read and consider (even if you decide not to take what I suggest). 
 
-***MPLS Data Plane***
+### MPLS Data Plane
 
 In the Abstract you talk about the MPLS Data Plane and say:
 
@@ -204,7 +244,7 @@ I have the feeling that "without changing the data plane" can be understood that
  
 s/without changing the data plane/without any changes to the data plane/
 
-***Expected to***
+### "Expected to"
 The second sentence in the Abstract says:
 
 "Bidirectional Forwarding Detection (BFD) is expected to monitor a segment list..."
