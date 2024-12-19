@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2024-12-11T19:07:45.972Z
+date: 2024-12-19T19:37:55.519Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - January 16, 2025
 
-There **WILL NOT** be a meeting on this date.
+There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -45,6 +45,12 @@ Note that this page is public.
 
 
 ### Management Issues
+
+(Proposed by Liz:)
+- ALLDISPATCH next steps (see parking lot item)
+- Github experiment for auth-48
+- Side meetings at 122?
+
 
 ### WG News 
 
