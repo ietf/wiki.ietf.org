@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-20T11:17:24.555Z
+date: 2024-12-20T11:20:40.802Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -277,7 +277,9 @@ In section 6 you use "Echo-BFD", "Echo BFD". and "Echo BFD packets", RFC 5880 ta
 
 ### Section 10
 
+Security considerations are normally outside the scope of my competence, I'll be waiting for the SEC-DIR review of the document.
 
+I know from experience that the SEC-DIR does not like "no additional security risks".
 
 ## Grammar concerns
 
