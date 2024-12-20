@@ -2,7 +2,7 @@
 title: CORE WG - Constrained RESTful Environments Wiki
 description: 
 published: true
-date: 2024-12-17T10:59:44.328Z
+date: 2024-12-20T11:30:49.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:20:32.189Z
@@ -26,23 +26,23 @@ IETF administrative information about CoRE is available from [the CoRE Datatrack
 
 ## CoRE/CoAP external sites and tools
 There's a site for testing CoAP: https://coap.me/
-And a website for all things CoAP: http://coap.technology
+A website for all things CoAP: https://coap.space
 
 ## CoRE IANA Registries
 
 The IANA registries for CoRE WG documents can be found [here](http://www.iana.org/assignments/core-parameters/core-parameters.xhtml).
 
-For a number of these registries, in the subsections below, this Wiki page keeps supplemental information based on consensus from the WG. This is particular information that is not kept in the IANA registries themselves or in related RFCs.
-
-*NOTE*: TO BE CONFIRMED by CoRE WG.
+For a number of these registries, in the subsections below, this Wiki page keeps supplemental information based on consensus from the WG, or discussions on the [core-parameters](https://mailarchive.ietf.org/arch/browse/core-parameters/) mailing list. This is particular information that is not kept in the IANA registries themselves or in related RFCs.
 
 ### CoAP Content-Formats
 
-The [CoAP Content-Formats registry](https://www.iana.org/assignments/core-parameters/core-parameters.xhtml#content-formats) has the following additional constraints (updated 2024/12):
+The [CoAP Content-Formats registry](https://www.iana.org/assignments/core-parameters/core-parameters.xhtml#content-formats) has the following additional remarks:
 
-* In the range 256-9999	IETF Review or IESG Approval, the sub-range 1000-9999 is currently earmarked (informally reserved) for an experiment to automatically assign Content-Format IDs to existing media types as registered by IANA in the [Media Types registry](https://www.iana.org/assignments/media-types/media-types.xhtml).
+1. In the range 256-9999	IETF Review or IESG Approval, the sub-range 1000-9999 is currently earmarked (informally reserved) for an experiment to automatically assign Content-Format IDs to existing media types as registered by IANA in the [Media Types registry](https://www.iana.org/assignments/media-types/media-types.xhtml).
    * To support this, the designated experts are requested to only allocate in the range 256-999 as long as there are IDs available there.
    * Further information [in this thread on the core-parameters mailing list](https://mailarchive.ietf.org/arch/msg/core-parameters/Qiu3c9QbTMmlkK-XSf-ICZllwQE/).
+
+1. Content-Format 434 is earmarked for [application/sdf+json](https://datatracker.ietf.org/doc/html/draft-ietf-asdf-sdf-18#name-content-format)   (see [thread](https://mailarchive.ietf.org/arch/msg/core-parameters/iLDsdxk80YO9IsLMXMAgcx5S8Ak/))
 
 ### Resource Type (rt=) Link Target Attribute Values
 
