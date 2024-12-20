@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-19T21:41:20.470Z
+date: 2024-12-20T10:42:29.396Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -225,6 +225,30 @@ I think this would be better:
     an IP/UDP header is not used.
 
 
+### Section 3
+I found the text hard to read, I think it could be improved. If you want I can do an attempt off-line.
+
+### Section 3.1
+
+RFC 8029 gives the names of the LÖSP Ping messages as:
+
+- MPLS echo request; and
+- MPLS echo reply
+
+In section 3.1 you use "echo request" and "Echo Request", please align with RFC 8029.
+
+### Section 3.2
+
+Section 3.2 is unclear. You say:
+
+    "...BFD Reverse Path TLV MAY use Target FEC sub-TLVs
+    defined in [RFC8287]."
+    
+Do you mean that it can use ALL the Target FEC Stack TLVs, or just the three sub-TLVs defined in RFC 8287? If the latter I think we should say:
+
+    "...the BFD Reverse Path TLV MAY use the three Target FEC 
+    sub-TLVs defined in [RFC8287]."
+
 ### Section 5
 
 In your text is p2mp and multicast synoumous? I have a tendency to think of multicast as a application offered to "users" that they can join or leave, while p2mp is a service that a lower layer supply. I'm not dogmnatic about just wanna know how to understand your text.
@@ -252,3 +276,9 @@ The second sentence in the Abstract says:
 I have the feeling that "expectations" leave quite a bit of
 uncertainty. What about:
 s/(BFD) is expected to/(BFD) is used to/
+
+### Language concerns
+
+I think there is a need to clean up the language in this document, but for easily understandle reasons I'm not the person to do this.
+
+I can point at some problems, dor example I find that articles (the, a and an) are often missing. However, my English is not good enough.
