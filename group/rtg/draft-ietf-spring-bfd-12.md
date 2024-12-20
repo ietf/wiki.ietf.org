@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-20T11:20:40.802Z
+date: 2024-12-20T11:48:46.611Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -39,14 +39,12 @@ Intended Status: Experimental
 
 **Summary:**
 Choose from this list...
-* No issues found. This document is ready for publication.
-* This document is basically ready for publication but has nits that should be considered prior to publication.
-* I have some minor concerns about this document that I think should be resolved before publication.
-* I have significant concerns about this document and recommend that the Routing ADs discuss these issues further with the authors.
+
+I have some minor concerns about this document that I think should be resolved before publication.
+
 
 ## Comments:
-* Please supply an overview of the draft quality and readability.
-* Include anything else that you think will be helpful toward understanding your review.
+
 
 ### Overview
 The document describes the use of BFD for monitoring individual segment lists of candidate paths of an SR Policy.  It documents the use of various BFD modes and features such as BFD Demand mode, Seamless BFD, and BFD Echo function with the BFD Control packet payload. in the SR-MPLS domain. The document also defines the use of LSP Ping for Segment Routing networks over the MPLS data plane [RFC8287] to bootstrap and control path of a BFD session from the egress LER to the ingress LER using Segment Routing segment list with MPLS data plane (SR-MPLS).
@@ -54,15 +52,7 @@ The document describes the use of BFD for monitoring individual segment lists of
 ### Mailing list discussion
 The SPRING mailining list has been actvie discussing this WGLC. I had not read all the mails when I started my review, but has done so prior to finish it. There are some overlaps, and some differences between my comments and thise on the mailing list, for example ALvaro and I both have a comment on the use of the "expected" in the Abstract, I suggest a change and Alvaro to drop the enire sentence. While I prefer what I proposed, I have no problem living with what Alvaro proposes. This is true for almost all overlapping comments, I have made a note if I strongly prefer something I suggested.
 
-**Major Issues:**
-* Major issues are the type of concerns that will result in the document being blocked until they are resolved. The Routing ADs will become involved.
-* Please include all of the major issues you have found. Give as much context information as possible (e.g., section numbers, paragraph counts).
-* If you find no major issues, please write: "No major issues found."
-
 **Minor Issues:**
-* Minor issues are concerns about clarity or technical accuracy that should be discussed and resolved before publication, but which would normally be resolved between the authors and the reviewers.
-* Please include all of the minor issues you have found. Give as much context information as possible (e.g., section numbers, paragraph counts).
-* If you find no minor issues, please write: "No minor issues found."
 
 ### IANA Considerations
 
@@ -308,4 +298,4 @@ s/(BFD) is expected to/(BFD) is used to/
 
 I think there is a need to clean up the language in this document, but for easily understandle reasons I'm not the person to do this.
 
-I can point at some problems, dor example I find that articles (the, a and an) are often missing. However, my English is not good enough.
+I can point at some problems, for example I find that articles (the, a and an) are often missing. However, my English is not good enough.
