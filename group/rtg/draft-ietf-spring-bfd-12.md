@@ -2,7 +2,7 @@
 title: RTG-DIR Last Call review of draft-ietf-spring-bfd-12
 description: RTG-DIR Last Call review of draft-ietf-spring-bfd-12 in December 2024
 published: true
-date: 2024-12-20T10:42:29.396Z
+date: 2024-12-20T11:17:24.555Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T17:50:09.593Z
@@ -248,10 +248,35 @@ Do you mean that it can use ALL the Target FEC Stack TLVs, or just the three sub
 
     "...the BFD Reverse Path TLV MAY use the three Target FEC 
     sub-TLVs defined in [RFC8287]."
+    
+I also wonder about the "MAY", is there an alternative. maybe the is "may"?
+    
+### Section 4
+
+s/can be following in SR-MPLS/can be followed in SR-MPLS
+
+You say:
+
+"an ingress SR node bootstraps BFD session over SR-MPLS in Async BFD mode"
+
+RFC 5880 does not use "Async BFD mode", but uses "Asynchronous mode", I think we should follow RFC 5880.
+
+You say:
+
+"it sends its BFD Control packet to the ingress SR node over the IP network with a Poll sequence"
+
+You might want to add a reference to RFC 5880 section 6.5.
 
 ### Section 5
 
 In your text is p2mp and multicast synoumous? I have a tendency to think of multicast as a application offered to "users" that they can join or leave, while p2mp is a service that a lower layer supply. I'm not dogmnatic about just wanna know how to understand your text.
+
+### Section 6
+
+In section 6 you use "Echo-BFD", "Echo BFD". and "Echo BFD packets", RFC 5880 talks about "BFD Echo packets", please align.
+
+### Section 10
+
 
 
 ## Grammar concerns
