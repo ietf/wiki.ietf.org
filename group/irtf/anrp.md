@@ -2,7 +2,7 @@
 title: Applied Networking Research Prize (ANRP)
 description: 
 published: true
-date: 2024-12-30T22:58:06.558Z
+date: 2024-12-30T23:00:41.608Z
 tags: irtf, anrp
 editor: markdown
 dateCreated: 2023-02-27T17:29:10.492Z
@@ -35,6 +35,7 @@ A typical timeline for the nomination and award process is as follows:
 * January -- Inform nominees
   * Inform nominees of the outcome in early January, ask to confirm acceptance
   * Inform IAB, IRSG, and Internet Society
+  * Pay for HotCRP
 
 ## Timeline for Awards  
 
