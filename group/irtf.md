@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2024-12-30T22:53:18.595Z
+date: 2024-12-30T22:53:32.776Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -57,7 +57,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [IRSG document reviews and final polls](/group/irtf/reviewsandpolls)
  * [IRSG dinners](/group/irtf/dinners)
  * [IAB review of research groups](/group/irtf/iabreviewofRG)
- * [Applied Networking Research Prize timeline](/group/irtf/anrp)
+ * [Applied Networking Research Prize timeline and logistics](/group/irtf/anrp)
  * [RFCs relating to IRTF policies and procedures](http://irtf.org/policies/)
  * [IRSG Teleconference Minutes](/group/irtf/irsgminutes/)
 
