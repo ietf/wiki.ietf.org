@@ -2,7 +2,7 @@
 title: Applied Networking Research Prize (ANRP)
 description: 
 published: true
-date: 2024-12-30T22:55:15.015Z
+date: 2024-12-30T22:58:06.558Z
 tags: irtf, anrp
 editor: markdown
 dateCreated: 2023-02-27T17:29:10.492Z
@@ -17,8 +17,9 @@ The Applied Networking Research Prize (ANRP) is awarded for recent results in ap
 A typical timeline for the nomination and award process is as follows:
 * July -- Discuss with Internet Society and IETF LLC to confirm that ANRP will continue
   * Usually happens during the summer IETF meeting
-  * ISOC holds the budget and secures sponsorship; IETF LLC is not significantly involved
-* August -- Create HotCRP instance (billed to the IETF LLC)
+  * The Internet Society holds the budget and secures sponsorship; IETF LLC is not significantly involved
+* August -- Create HotCRP instance
+  * This is a paid instance on hotcrp.com, billed to the IETF LLC
 * September -- Invite award committee, setup HotCRP, and update website
   * Some continuity in award committee membership is desirable, but also rotate in new people
 * October -- Announce ANRP, collect nominations
@@ -26,9 +27,10 @@ A typical timeline for the nomination and award process is as follows:
 * November -- Nominations close
   * Send reminder announcements via email and social media early in November
   * Announce at IETF plenary
-  * Nominations usually close on the Monday after the IETF
-* December -- Award committee call to select winners; email nominees
-  * Allow two or three weeks for the committee to review
+  * Nominations usually close about a week after the IETF
+* December -- Reviewing
+  * Allow two or three weeks for the committee to review. ANRP is single blind (reviewers see nominee details) and doesn't give detailed feedback to nominees.
+  * Award committee call to select winners; email nominees
   * The call to select winners is generally a week or so before Christmas
 * January -- Inform nominees
   * Inform nominees of the outcome in early January, ask to confirm acceptance
