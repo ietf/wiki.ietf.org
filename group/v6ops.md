@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2024-12-10T17:59:42.255Z
+date: 2024-12-30T12:31:54.932Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -14,7 +14,7 @@ Welcome to the wiki for V6OPS!
 
 ## Next scheduled chair calls
 
-* Jan-01-2025
+* Jan-14-2024
 * Jan-28-2025
 
 ## Consensus Calls
@@ -31,7 +31,8 @@ Welcome to the wiki for V6OPS!
 ** Call type: WG Adoption
 ** Projected start date: Dec 08, 2024
 ** Projected end date: Dec 22, 2024
-** Result: TBD
+** End Date: Dec 26, 2024 
+** Result: _Adopted_
   
    
 ## Terminology
