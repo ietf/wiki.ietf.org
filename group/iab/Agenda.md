@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2024-12-18T16:28:15.379Z
+date: 2025-01-03T20:38:35.946Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-01-08 0700 PST (UTC-8) 
 
-*Agenda as of 2024-12-18. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-01-03. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -34,6 +34,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 For approval: 
 
 * 2024-12-11 technical discussion - (submitted 2024-12-11)
+* 2024-12-18 business meeting - (submitted 2024-12-18)
 
 Under review:
 
@@ -68,8 +69,7 @@ In Progress:
     the EC consultation on Internet governance, send it out, and ask 
     for it to be published.
 
-* 2024-12-18: Cindy Morgan to start an e-vote to confirm the INT, 
-    RTG, and SEC candidates selected by the IETF NomCom.
+
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -96,8 +96,8 @@ In Progress:
 
 * **AI Preferences (AIPREF)**
     Area: WIT
-    External Review
-    IESG Telechat: 2024-12-19
+    Approved Pending Chairs
+    IESG Telechat: (not on agenda)
     IAB Reviewer: Chris Wood
   
 * **Digital Emblems (DIEM)**
@@ -110,6 +110,7 @@ In Progress:
     Area: ART
     Internal Review
     IESG Telechat: 2025-01-09
+    IAB Reviewer: TBA
 
 *  **Update to IANA Considerations (IANABIS)**
     Area: GEN
@@ -119,8 +120,9 @@ In Progress:
     
 *  **Taking IP To Other Planets (TIPTOP)**
     Area: INT
-    Draft Charter
-    IESG Telechat: (not on agenda)
+    Internal Review
+    IESG Telechat: 2025-01-09
+    IAB Reviewer: TBA
 
 
 #### 1.7 IAB Appointments
@@ -128,14 +130,27 @@ In Progress:
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
     - 1 accepted nomination, 2 pending acceptance 
 
+### 2. ECH Blocking (All) - 15 mins (Public)
 
+  Goal: RFC 7754 - is there anything new to say?
+
+
+### 3. SUSTAIN RG (Colin) - 10 mins (Public)
+
+  Goal: Next steps
+
+
+### 4. Executive Session: IESG Slate Confirmation - 20 mins
+
+  Goal: Discussion, Vote
+
+  Open action item:
+
+* 2024-12-18: Cindy Morgan to start an e-vote to confirm the INT, 
+    RTG, and SEC candidates selected by the IETF NomCom.
 
 ## Upcoming Teleconferences 
 
--- 2024-12-25 - 2025-01-01: Winter Holiday Break --
-
-* 2025-01-08: IAB Business Meeting
-    * ECH Blocking
 * 2025-01-15: IAB Business Meeting (Reserved)
 * 2025-01-22: IAB Business Meeting
     - Monthly Reports
