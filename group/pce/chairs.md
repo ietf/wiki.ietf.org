@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2024-08-04T05:53:15.996Z
+date: 2025-01-04T11:17:41.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -14,15 +14,9 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 
-
-
-
-
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|Poll ends on 19th Aug|
-|Shepherd Tracking|draft-ietf-pce-pcep-color|Dhruv/Andrew|Waiting for authors to make an update|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -30,14 +24,15 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |Item|Document|Remarks|
 |---|---|---|
-|AD Review|draft-ietf-pce-pcep-extension-native-ip|Submitted on 2023-12-29, AD review done and now waiting for final resolution, may need to wait for IANA I-D|
-|AD Review|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
-|AD Review|draft-ietf-pce-pcep-yang|Submitted on 2024-05-22|
-|AD Review|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
+|AD Review|draft-ietf-pce-pcep-color|Submitted on 2024-11-25|
+|Approved-announcement to be sent::AD Followup|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
+|Discuss|draft-ietf-pce-pcep-yang|Submitted on 2024-05-22|
+|Pending on Authors|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish; authors made an update|
 |Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|-|
 |IANA Inconsistency|RFC8780|Dhruv|IANA updates|
