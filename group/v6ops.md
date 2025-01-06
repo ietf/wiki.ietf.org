@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2024-12-30T12:32:00.654Z
+date: 2025-01-06T15:32:06.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -14,10 +14,17 @@ Welcome to the wiki for V6OPS!
 
 ## Next scheduled chair calls
 
-* Jan-14-2024
-* Jan-28-2025
+* 14-Jan-2024
+* 28-Jan-2025
 
-## Consensus Calls
+### Chair call topics
+
+* [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/)
+** Projected meeting for discussion: 14-Jan-2024
+* Status of [draft-ietf-v6ops-cpe-lan-pd](https://datatracker.ietf.org/doc/draft-ietf-v6ops-cpe-lan-pd/)
+** Projected meeting for discussion: 14-Jan-2024
+
+## Open Consensus Calls
 
 * [draft-ietf-v6ops-cpe-lan-pd](https://datatracker.ietf.org/doc/draft-ietf-v6ops-cpe-lan-pd/)
 ** Call type: Shepherd Write-up
@@ -26,6 +33,7 @@ Welcome to the wiki for V6OPS!
 ** Projected end date: Dec 31, 2024
 ** Result: TBD
 
+## Completed Consensus Calls
 
 * [draft-buraglio-deprecate7050](https://datatracker.ietf.org/doc/draft-buraglio-deprecate7050/)
 ** Call type: WG Adoption
