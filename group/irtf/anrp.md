@@ -2,7 +2,7 @@
 title: Applied Networking Research Prize (ANRP)
 description: 
 published: true
-date: 2024-12-30T23:00:41.608Z
+date: 2025-01-06T22:57:47.192Z
 tags: irtf, anrp
 editor: markdown
 dateCreated: 2023-02-27T17:29:10.492Z
@@ -30,7 +30,7 @@ A typical timeline for the nomination and award process is as follows:
   * Nominations usually close about a week after the IETF
 * December -- Reviewing
   * Allow two or three weeks for the committee to review. ANRP is single blind (reviewers see nominee details) and doesn't give detailed feedback to nominees.
-  * Award committee call to select winners; email nominees
+  * Award committee call to select winners
   * The call to select winners is generally a week or so before Christmas
 * January -- Inform nominees
   * Inform nominees of the outcome in early January, ask to confirm acceptance
