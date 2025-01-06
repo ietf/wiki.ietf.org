@@ -2,7 +2,7 @@
 title: Typical ART Area Issues
 description: 
 published: true
-date: 2023-01-13T01:01:03.560Z
+date: 2025-01-06T18:39:31.030Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:21:45.195Z
@@ -58,7 +58,7 @@ One common approach is to carry the language tag in a separate field (e.g., in X
 
 See [Building Protocols with HTTP](https://datatracker.ietf.org/html/rfc9205) for an overview of how to use HTTP in IETF protocols.
 
-## Passwordsa
+## Passwords
 
 Binary passwords should have a standard way to represent them to users/enter in configuration files (e.g., hex). Text passwords will almost certainly have internationalization issues; see above.
 
