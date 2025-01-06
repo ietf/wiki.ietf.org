@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-03T20:38:35.946Z
+date: 2025-01-06T23:58:34.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -128,7 +128,7 @@ In Progress:
 #### 1.7 IAB Appointments
 
 *  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
-    - 1 accepted nomination, 2 pending acceptance 
+    - 3 accepted nominations 
 
 ### 2. ECH Blocking (All) - 15 mins (Public)
 
