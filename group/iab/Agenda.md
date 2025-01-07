@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-06T23:58:34.766Z
+date: 2025-01-07T20:00:56.917Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -93,12 +93,6 @@ In Progress:
 #### 1.6. IAB Review of WG Charters 
 
  Datatracker: https://datatracker.ietf.org/group/chartering/	
-
-* **AI Preferences (AIPREF)**
-    Area: WIT
-    Approved Pending Chairs
-    IESG Telechat: (not on agenda)
-    IAB Reviewer: Chris Wood
   
 * **Digital Emblems (DIEM)**
     Area: INT
@@ -110,7 +104,7 @@ In Progress:
     Area: ART
     Internal Review
     IESG Telechat: 2025-01-09
-    IAB Reviewer: TBA
+    IAB Reviewer: Tommy Pauly
 
 *  **Update to IANA Considerations (IANABIS)**
     Area: GEN
@@ -122,7 +116,7 @@ In Progress:
     Area: INT
     Internal Review
     IESG Telechat: 2025-01-09
-    IAB Reviewer: TBA
+    IAB Reviewer: David Schinazi
 
 
 #### 1.7 IAB Appointments
