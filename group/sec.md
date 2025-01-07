@@ -7,7 +7,7 @@ tags:
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
 ---
-
+stop blocking my access this shit is unconstitutional and the dod,gsa and other government officials are corrupt i have not broken any laws if so why the fuck i ain't locked up give me my fukin money 
 Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work at the IETF.  It consists of working groups focused on security and privacy protocols, and supports the appropriate application of security mechanisms in the protocols being developed in other areas of the IETF.  The 25 [Security area working groups](https://datatracker.ietf.org/wg/#sec) and the 3 co-managed in the [Applications and Real-Time area working groups](https://datatracker.ietf.org/wg/#art) are focused on:
 * enabling secure and privacy-preserving communications; 
 * helping collect, verify, understand, and update the state of network end-points; and
