@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2024-12-03T20:16:04.602Z
+date: 2025-01-07T19:59:57.007Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,8 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2024-2025 Assignments
+- TIPTOP: David Schinazi (2025-01)
+- RPP: Tommy Pauly (2025-01)
 - AIPREF: Chris Wood (2024-12)
 - IANABIS: Mirja Kühlewind (2024-10)
 - SCONE: Suresh Krishnan (2024-09)
