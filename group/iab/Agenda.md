@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-07T20:00:56.917Z
+date: 2025-01-07T22:30:05.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -134,7 +134,12 @@ In Progress:
   Goal: Next steps
 
 
-### 4. Executive Session: IESG Slate Confirmation - 20 mins
+### 4. . Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2025-01-15?
+
+
+### 5. Executive Session: IESG Slate Confirmation - 20 mins
 
   Goal: Discussion, Vote
 
