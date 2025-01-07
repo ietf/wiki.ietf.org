@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-01-07T15:36:23.776Z
+date: 2025-01-07T15:38:43.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -53,7 +53,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
-| 2024-10-29 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | YANG Dr. completed. Requested early RTG-DIR review | Tarek
+
 
 ## Queued for WG Last Call
 
@@ -63,7 +63,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | Requested |  YANG Dr. completed | Tarek
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
@@ -77,19 +77,19 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 |---|---|---|---|
 | 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -30. Submitted for publication | Nic |
 | 2024-11-01 |  [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Standards Track, Submitted for publication | Nic |
-| 2024-10-29 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | Consensus on document status - ETA 1/07 | Tarek
-| 2024-08-20 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | Shepherd's Writeup | Tarek
+| 2025-01-07 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | Consensus on document status - ETA 1/07 | Tarek
+| 2025-01-07 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | Shepherd's Writeup | Tarek
 
 ## Post Working Group Last Call
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
 | 2025-01-07  | [draft-ietf-mpls-msd-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-msd-yang/) | In RFC Editor queue | Tarek |
-| 2024-10-18 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | EDIT\*A (IANA) | Tarek |
+| 2025-01-07 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | EDIT\*A (IANA) | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | IANA actions - Waiting on Authors | Tarek |
 | 2024-10-17 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | In RFC Editor queue | Tony |
 | 2024-00-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | In publication queue, waiting for Framework | Tony |
-| 2024-01-30 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  In AUTH48 | Tony |
-| 2024-08-13 | [draft-ietf-mpls-ri-rsvp-frr-19](https://datatracker.ietf.org/doc/draft-ietf-mpls-ri-rsvp-frr/) | In AUTH48 | Nic |
+| 2025-01-07 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  In AUTH48 | Tony |
+| 2025-01-07 | [draft-ietf-mpls-ri-rsvp-frr-19](https://datatracker.ietf.org/doc/draft-ietf-mpls-ri-rsvp-frr/) | In AUTH48 | Nic |
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
