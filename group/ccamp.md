@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-01-07T09:55:12.905Z
+date: 2025-01-07T10:00:16.759Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -141,28 +141,9 @@ Prio 3
 
 ## Ongoing IPR polling
 
-- draft-ietf-ccamp-optical-impairment-topology-yang-17 (Luis)
+None
 
-   (Authors)
-   Dieter Beller (editor) https://mailarchive.ietf.org/arch/msg/ccamp/fSJ-gxhQNQRRLBbDX0s1NaCdLfc/
-   Esther Le Rouzic https://mailarchive.ietf.org/arch/msg/ccamp/HcYFS180UpKxdJ1U46oUi0C9wBM/
-   Sergio Belotti https://mailarchive.ietf.org/arch/msg/ccamp/49YUIZviyijzYG_FYgTbpdOIb3U/
-   G. Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/4QrYw1jp3FuR8XE1bdJiJ_Eknn8/
-   Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/6pdz2yA0U-k1l4U6ySqjLmIz6Gs/
-   (Additional Authors)
-   Young Lee https://mailarchive.ietf.org/arch/msg/ccamp/g7eILcslKdg6pqvTXFZASnzQw3c/
-   Haomian Zheng https://mailarchive.ietf.org/arch/msg/ccamp/UQajIea7wjFE_ZYI53prM6fQ10M/
-   Nicola Sambo https://mailarchive.ietf.org/arch/msg/ccamp/Yg5USd6TEm4bwhBcGfcYR2JyyLk/
-   Giovanni Martinelli https://mailarchive.ietf.org/arch/msg/ccamp/I7U2Nuetn7wPdJxVI0AAvygqOEU/
-   Jean-Luc Auge https://mailarchive.ietf.org/arch/msg/ccamp/ZF8McuclyWpP9Dp1-zutrpyuL9Y/
-   Julien Meuric https://mailarchive.ietf.org/arch/msg/ccamp/M1GHGl_gyQUfgeajywKw7fXYDUQ/
-   Victor Lopez https://mailarchive.ietf.org/arch/msg/ccamp/1J8tI_ogYFEqIzLIQ3IZC6G9E6Q/
-   Enrico Griseri https://mailarchive.ietf.org/arch/msg/ccamp/GSCwLCzhrbtg4BmfHXP-fJop9Pc/
-   Gert Grammel https://mailarchive.ietf.org/arch/msg/ccamp/X4fazbrd6kXP7TFtZHfxzvWbSkg/
-   Roberto Manzotti https://mailarchive.ietf.org/arch/msg/ccamp/jpZWN78thqANSfzKo-D7SCTLe4U/
-   (Contributors)
-   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/51KjiLCxyEZm9fD5rqLhHX4vbVY/
-   Jonas Martensson https://mailarchive.ietf.org/arch/msg/ccamp/N-CBxzY3koM9f5JXZRiiKCSzyMw/
+   
 
 
 
@@ -205,6 +186,31 @@ Others:
    Sergio Belotti: https://mailarchive.ietf.org/arch/msg/ccamp/lkQDI4j7KOMFFFeXt5XFcMgWhKk/
 
 ### WG last call IPR polling
+
+#### 2025-01 - draft-ietf-ccamp-optical-impairment-topology-yang-17
+
+(Authors)
+   Dieter Beller (editor) https://mailarchive.ietf.org/arch/msg/ccamp/fSJ-gxhQNQRRLBbDX0s1NaCdLfc/
+   Esther Le Rouzic https://mailarchive.ietf.org/arch/msg/ccamp/HcYFS180UpKxdJ1U46oUi0C9wBM/
+   Sergio Belotti https://mailarchive.ietf.org/arch/msg/ccamp/49YUIZviyijzYG_FYgTbpdOIb3U/
+   G. Galimberti https://mailarchive.ietf.org/arch/msg/ccamp/4QrYw1jp3FuR8XE1bdJiJ_Eknn8/
+   Italo Busi https://mailarchive.ietf.org/arch/msg/ccamp/6pdz2yA0U-k1l4U6ySqjLmIz6Gs/
+   (Additional Authors)
+   Young Lee https://mailarchive.ietf.org/arch/msg/ccamp/g7eILcslKdg6pqvTXFZASnzQw3c/
+   Haomian Zheng https://mailarchive.ietf.org/arch/msg/ccamp/UQajIea7wjFE_ZYI53prM6fQ10M/
+   Nicola Sambo https://mailarchive.ietf.org/arch/msg/ccamp/Yg5USd6TEm4bwhBcGfcYR2JyyLk/
+   Giovanni Martinelli https://mailarchive.ietf.org/arch/msg/ccamp/I7U2Nuetn7wPdJxVI0AAvygqOEU/
+   Jean-Luc Auge https://mailarchive.ietf.org/arch/msg/ccamp/ZF8McuclyWpP9Dp1-zutrpyuL9Y/
+   Julien Meuric https://mailarchive.ietf.org/arch/msg/ccamp/M1GHGl_gyQUfgeajywKw7fXYDUQ/
+   Victor Lopez https://mailarchive.ietf.org/arch/msg/ccamp/1J8tI_ogYFEqIzLIQ3IZC6G9E6Q/
+   Enrico Griseri https://mailarchive.ietf.org/arch/msg/ccamp/GSCwLCzhrbtg4BmfHXP-fJop9Pc/
+   Gert Grammel https://mailarchive.ietf.org/arch/msg/ccamp/X4fazbrd6kXP7TFtZHfxzvWbSkg/
+   Roberto Manzotti https://mailarchive.ietf.org/arch/msg/ccamp/jpZWN78thqANSfzKo-D7SCTLe4U/
+   (Contributors)
+   Aihua Guo https://mailarchive.ietf.org/arch/msg/ccamp/51KjiLCxyEZm9fD5rqLhHX4vbVY/
+   Jonas Martensson https://mailarchive.ietf.org/arch/msg/ccamp/N-CBxzY3koM9f5JXZRiiKCSzyMw/
+
+
 #### 2024-10 - draft-ietf-ccamp-rfc9093-bis-11
 
 Authors
