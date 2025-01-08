@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2025-01-08T10:06:53.239Z
+date: 2025-01-08T10:15:48.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -116,6 +116,7 @@ Please keep the tables sorted by meeting, by time.
 | **Time** | **Room** | **Meeting Name** | **Area** | **Contact** | **Meeting Description** | **Conferencing Link** | **Calendar Invite (.ics)** |
 |---------- |----------|------------------|----------|-------------|-------------------------|-----------------------|----------|
 | 9:30-11:30  | Wicklow Hall 2A | Advanced Tutorial: Attested TLS | SEC, IRTF  | muhammad_usama.sardar@tu-dresden.de  | Advanced Tutorial: Attested TLS  [slides](https://www.researchgate.net/publication/385587687_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization)| https://ietf.webex.com/meet/ietfsidemeeting2  | [ICS](https://wiki.ietf.org/121/attested-TLS-advanced.ics) |
+|  9:30-11:30    | WMR4 | test for HW  | SEC  | lilun20@huawei.com  |  test for HW  | ZOOM  | TBD |
 |  13:30-14:30   | Wicklow Hall 2A  | YANG profiles and views  |  RTG, OPS |  italo.busi@huawei.com | Problem statement and use cases for defining YANG profiles and views  | [IETF provided Webex](https://ietf.webex.com/meet/sidemeetingietf1)  | tbd |
 | 13:30 - 14:30  |  MR4|sav-igp|RTG|yingzhen.ietf@gmail.com|SAV Intra-domain PS and Architecture  |https://ietf.webex.com/meet/sidemeetingietf1| TBD |
 |  14:30-15:30   | Wicklow Hall 2A  | SUSTAIN RG  |  IRTF |  ali.rezaki@nokia.com eve.schooler@gmail.com | Review of proposed [charter](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/blob/main/IRTF_Proposed_Research_Group_SUSTAIN_RG_Draft_Charter_v1_0.pdf).  Slides and agenda on [GitHub](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG). | https://ietf.webex.com/meet/ietfsidemeeting2  | tbd |
