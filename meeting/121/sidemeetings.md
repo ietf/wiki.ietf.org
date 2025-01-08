@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2024-11-08T11:43:36.676Z
+date: 2025-01-08T10:06:53.239Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -251,10 +251,10 @@ Location: Second Floor
 | 08:00-08:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 08:30-09:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 09:00-09:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
-| 09:30-10:00 |                       | Advanced tutorial: attested TLS |   
-| 10:00-10:30 |                       | Advanced tutorial: attested TLS |   
-| 10:30-11:00 |                       | Advanced tutorial: attested TLS |   
-| 11:00-11:30 |                       | Advanced tutorial: attested TLS |   
+| 09:30-10:00 |  test from HW         | Advanced tutorial: attested TLS |   
+| 10:00-10:30 |  test from HW         | Advanced tutorial: attested TLS |   
+| 10:30-11:00 |  test from HW         | Advanced tutorial: attested TLS |   
+| 11:00-11:30 |  test from HW         | Advanced tutorial: attested TLS |   
 | 11:30-12:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:00-12:30 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
 | 12:30-13:00 | **NOT AVAILABLE**     |  **NOT AVAILABLE** |  
