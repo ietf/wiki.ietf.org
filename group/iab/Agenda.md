@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-07T22:30:05.149Z
+date: 2025-01-08T17:52:52.161Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2025-01-08 0700 PST (UTC-8) 
+## IAB Agenda: 2025-01-15 0700 PST (UTC-8) 
 
 *Agenda as of 2025-01-03. IAB agendas are subject to change, up to and during the meeting.*
 
@@ -28,6 +28,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.1. Attendance 
 
 #### 1.2. Agenda bash and announcements 
+
+<!--
 
 #### 1.3. Meeting Minutes 
 
@@ -46,28 +48,27 @@ Closed:
     
 On Hold:
 
-*  2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
-    review of proposed WG charters to the Datatracker.
-    See https://github.com/ietf-tools/datatracker/issues/5849
-
-In Progress:
-    
-* 2024-06-24: Dhruv Dhody to coordinate a panel or other activity for 
-    APRICOT 2025/APNIC 59.
-
 * 2024-06-25: Suresh Krishnan to draft a document obsoleting RFC 3113 
     (Update RFC3113 to in only high level details of the collaboration 
     (3GPP-IETF co-ordination team) and move the details to a Wiki. 
     Remove references to technology and organizational structure items 
     that will become out of date quickly.
-
+    
 * 2024-12-18: Suresh Krishnan to try and schedule a technical 
     discussion about the Tesla Transport Protocol over Ethernet 
     (TTPoE).
 
-* 2024-12-18: Mirja Kühlewind to finalize the text for a response to 
-    the EC consultation on Internet governance, send it out, and ask 
-    for it to be published.
+-  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
+    Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
+
+-  2025-01-08: Tommy Pauly to reply to Stephen Farrell's email about 
+    ECH blocking.
+
+-  2025-01-08: Cindy Morgan to create a wiki page to capture potential 
+    retreat topics and add "Architecture for Zero-Trust Networks."
+
+-  2025-01-08: Cindy Morgan to send outs e-votes on the confirmation 
+    of the OPS, ART, and WIT candidates selected by the IETF NomCom.
 
 
 
@@ -121,33 +122,14 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  ISOC Board of Trustees - Call for Nominations closes 2025-01-07
+*  ISOC Board of Trustees - Call for feedback ends 2025-02-05
     - 3 accepted nominations 
 
-### 2. ECH Blocking (All) - 15 mins (Public)
+-->
 
-  Goal: RFC 7754 - is there anything new to say?
+### 2. Executive Session: IESG Slate Confirmation 
 
-
-### 3. SUSTAIN RG (Colin) - 10 mins (Public)
-
-  Goal: Next steps
-
-
-### 4. . Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2025-01-15?
-
-
-### 5. Executive Session: IESG Slate Confirmation - 20 mins
-
-  Goal: Discussion, Vote
-
-  Open action item:
-
-* 2024-12-18: Cindy Morgan to start an e-vote to confirm the INT, 
-    RTG, and SEC candidates selected by the IETF NomCom.
-
+Note: This may be canceled if resolved in the meantime.
 ## Upcoming Teleconferences 
 
 * 2025-01-15: IAB Business Meeting (Reserved)
