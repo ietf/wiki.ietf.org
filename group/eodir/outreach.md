@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2024-11-07T22:47:18.879Z
+date: 2025-01-09T17:38:26.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Jan 2025|NetMission|Students|Knowledge sharing|Dhruv|[Slides](https://docs.google.com/presentation/d/1Snfw5s66fqjtqxckkxWYW8dx3o17_69cheFns34Esqs/edit?usp=sharing)|
 |Oct 2024|[NANOG](https://nanog.org/events/nanog-92/agenda/); [RIPE](https://ripe89.ripe.net/archives/); [LACNIC](https://lacnic42.lacnic.net/en/programme/presentations-and-videos)|Network Operators|Participants|IAB NEMOPS Workshop PC|[NANOG](https://storage.googleapis.com/site-media-prod/meetings/NANOG92/5018/20241021_Watsen_Iab_Pre-Event_On_v1.pdf); [RIPE](https://ripe89.ripe.net/archives/video/1417/); [LACNIC](https://lacnic42.lacnic.net/en/programme/presentations-and-videos)| 
 |Oct 2024|[inSIG](https://insig.in/program-agenda-for-insig-2024/)|Mixed|*all levels*|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/1RWJZOiItvgJzLQr9JdVpTlLds5gxHQspDfOFXaNH0q4/edit?usp=sharing)|
 |July 2024|[NetDev](https://netdevconf.info/0x18/sessions/workshop/workshop-on-extension-headers.html) IPv6 Extension header workshop|Developers|Participants|Tom Herbert||
