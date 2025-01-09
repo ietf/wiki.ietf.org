@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-09T02:35:00.275Z
+date: 2025-01-09T16:43:46.433Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -67,13 +67,13 @@ Note that this page is public.
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
-Action item from 121:  IESG to decide whether we are going to collectively agree to opt in 
-    to the RPC auth 48 Github experiment if authors are part of the 
-    github experiment.
+#### 1. Action item from 121:  IESG to decide whether we are going to collectively agree to opt in 
+   to the RPC auth 48 Github experiment if authors are part of the github experiment.
     
-Reminder: if IESG wants to make changes to how side meetings work, ideally this could be decided in January so the Secretariat/LLC can have time to implement any changes before 122.
+#### 2. Reminder: Side Meetings
+If IESG wants to make changes to how side meetings work, ideally this could be decided in January so the Secretariat/LLC can have time to implement any changes before 122. (Per the usual schedule, the wiki offering side meeting slots will be published on 21 Feb 2025)
 
-#### 1. Alldispatch - way forward (Francesca)
+#### 3. Alldispatch - way forward (Francesca)
 
 We need to decide on the Alldispatch experiment. Relevant:
 - initial announcement: https://mailarchive.ietf.org/arch/msg/iesg/KBuTBDTmbZ_gLUqs-sLGRqbzwmE/
