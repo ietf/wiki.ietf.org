@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-01-07T15:25:23.992Z
+date: 2025-01-10T18:51:26.911Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -24,7 +24,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-|draft-zhang-pce-resource-sharing | Authors request for the 2nd adoption call during 106, support in the room; Expired, a new update is needed | 
+|draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106 | 
 
 
 ## WG Adoption Call Queue
