@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-10T15:39:06.260Z
+date: 2025-01-10T15:39:18.151Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -44,7 +44,7 @@ Done:
 -  2025-01-08: Tommy Pauly to reply to Stephen Farrell's email about 
     ECH blocking.
 
--  2025-01-08: Cindy Morgan to send outs e-votes on the confirmation 
+-  2025-01-08: Cindy Morgan to send out e-votes on the confirmation 
     of the OPS, ART, and WIT candidates selected by the IETF NomCom.
     
 On Hold:
