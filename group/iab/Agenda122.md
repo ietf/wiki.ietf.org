@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-01-10T00:04:39.597Z
+date: 2025-01-10T00:06:33.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
