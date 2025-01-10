@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-10T17:48:20.061Z
+date: 2025-01-10T17:48:43.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -165,8 +165,9 @@ On Hold:
 * [Past IAB Teleconferences - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
 
 
-
+<!--
 ### Alternate Zoom info:
 
 * [Zoom link](https://ietf.zoom.us/j/2649121587?pwd=dVJXTHRoQ2RqeE5tY2huWFFDdTFpdz09)
 * Passcode: 1234
+-->
