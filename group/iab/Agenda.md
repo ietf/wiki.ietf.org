@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-10T16:23:28.096Z
+date: 2025-01-10T17:47:36.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -101,7 +101,7 @@ On Hold:
  * **RESTful Provisioning Protocol (RPP)**
     Area: ART
     Internal Review
-    IESG Telechat: 2025-01-09
+    IESG Telechat: (not on agenda)
     IAB Reviewer: Tommy Pauly
 
 *  **Update to IANA Considerations (IANABIS)**
@@ -112,8 +112,8 @@ On Hold:
     
 *  **Taking IP To Other Planets (TIPTOP)**
     Area: INT
-    Internal Review
-    IESG Telechat: 2025-01-09
+    External Review
+    IESG Telechat: 2025-01-23
     IAB Reviewer: David Schinazi
 
 
