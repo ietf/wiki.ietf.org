@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-10T17:47:36.433Z
+date: 2025-01-10T17:48:02.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2025-01-15 0700 PST (UTC-8) 
+## IAB Agenda: 2025-01-22 0700 PST (UTC-8) 
 
-*Agenda as of 2025-01-03. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-01-10. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
