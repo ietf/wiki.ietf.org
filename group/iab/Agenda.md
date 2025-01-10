@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-08T22:52:06.784Z
+date: 2025-01-10T15:39:06.260Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,22 +29,23 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-<!--
-
 #### 1.3. Meeting Minutes 
 
 For approval: 
 
-* 2024-12-11 technical discussion - (submitted 2024-12-11)
-* 2024-12-18 business meeting - (submitted 2024-12-18)
+* 2025-01-09 business meeting - (submitted 2025-01-09)
 
 Under review:
 
 #### 1.4. Action Item Review - 5 mins
 
-Closed:
+Done:
 
+-  2025-01-08: Tommy Pauly to reply to Stephen Farrell's email about 
+    ECH blocking.
 
+-  2025-01-08: Cindy Morgan to send outs e-votes on the confirmation 
+    of the OPS, ART, and WIT candidates selected by the IETF NomCom.
     
 On Hold:
 
@@ -61,14 +62,10 @@ On Hold:
 -  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
     Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
 
--  2025-01-08: Tommy Pauly to reply to Stephen Farrell's email about 
-    ECH blocking.
-
 -  2025-01-08: Cindy Morgan to create a wiki page to capture potential 
     retreat topics and add "Architecture for Zero-Trust Networks."
 
--  2025-01-08: Cindy Morgan to send outs e-votes on the confirmation 
-    of the OPS, ART, and WIT candidates selected by the IETF NomCom.
+
 
 
 
@@ -125,14 +122,11 @@ On Hold:
 *  ISOC Board of Trustees - Call for feedback ends 2025-02-05
     - 3 accepted nominations 
 
--->
 
-### 2. Executive Session: IESG Slate Confirmation 
 
-Note: This may be canceled if resolved in the meantime.
+
 ## Upcoming Teleconferences 
 
-* 2025-01-15: IAB Business Meeting (Reserved)
 * 2025-01-22: IAB Business Meeting
     - Monthly Reports
 * 2024-01-29: IAB Technical Discussion (Reserved)
