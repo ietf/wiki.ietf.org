@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2024-09-03T12:42:45.095Z
+date: 2025-01-13T20:47:06.567Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -25,8 +25,8 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
 | WG Document                                      | Chairs' Notes                                      | Date of Notes
 |--------------------------------------------------|----------------------------------------------------|---------------------------------
-| [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/)  | YDR Done;  Authors report no open issues exist | 2024-07-20
-| [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)    | Open issues exist| 2024-07-23
+| [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/)  | YDR Done;  Ready for WGLC (as per Authors) | 2025-01-13
+| [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)    | Open issues exist| 2025-01-13
 | [draft-ietf-teas-actn-vn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-vn-yang/)                  | Publication requested; Issues raised in Directorate reviews| 2024-06-24
 | [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/)  | Expired; Waiting for yang-te to progress| 2023-09-08
 | [draft-ietf-teas-applicability-actn-slicing](https://datatracker.ietf.org/doc/draft-ietf-teas-applicability-actn-slicing/)    | Publication requested; Issues raised in Directorate reviews| 2024-08-14
