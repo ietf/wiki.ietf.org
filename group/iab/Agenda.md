@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-10T17:48:43.416Z
+date: 2025-01-13T23:31:22.179Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -144,7 +144,6 @@ On Hold:
 * maprg review 
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * DNS Root Server Maintenance document (Wes)
-* SUSTAIN RG (January 2025)
 * Boilerplate responses to liaison statements (with Scott Mansfield)
 
 
