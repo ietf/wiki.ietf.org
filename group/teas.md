@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-01-13T23:45:12.811Z
+date: 2025-01-13T23:58:40.375Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -49,6 +49,14 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 22| [draft-ietf-teas-yang-te-mpls-topology](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls/)                             | Open issues exist                   | 2025-01-13
 | 23| [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter)                       | Open issues exist                   | 2025-01-13
 
+## Candidates for WG adoption (in no particular order)
+
+|No.| Draft | Notes | Updated
+|---|-------|-------|---------
+|  1| [draft-barguil-teas-network-slices-instantation](https://datatracker.ietf.org/doc/draft-barguil-teas-network-slices-instantation/) | IPR Poll Done | 2025-01-13 
+|  2| [draft-liu-teas-transport-network-slice-yang](https://datatracker.ietf.org/doc/draft-liu-teas-transport-network-slice-yang/)       | IPR Poll Done | 2025-01-13
+|  3| [draft-poidt-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-poidt-teas-actn-poi-assurance/)                       | Under chairs' consideration | 2025-01-13
+|  4| [draft-atkinson-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-atkinson-teas-rsvp-auth-v2/)                             | Under chairs' consideration | 2025-01-13
 
 ## Open informal meetings (driven by authors and contributors)
 
