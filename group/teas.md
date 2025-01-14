@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-01-14T00:08:57.345Z
+date: 2025-01-14T00:17:07.192Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -62,4 +62,4 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
  #### ACTN POI Applicability
  #### TE Models - Design Discussion
-  * ICS calendar invite: [TE Models discussion ics invite](https://mailarchive.ietf.org/arch/msg/teas/xKm4Q0KZaPtwtZawSWcL75UnNrg/5/) 
+  * ICS calendar invite: [TE Models discussion ics invite](https://ietf.webex.com/webappng/sites/ietf/meeting/info/fa4e7863001146d4972e827058f0e5a5_20250117T150000Z#) 
