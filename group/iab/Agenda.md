@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-15T20:58:01.995Z
+date: 2025-01-15T20:58:39.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -33,7 +33,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 For approval: 
 
-* 2025-01-09 business meeting - (submitted 2025-01-09)
+* 2025-01-08 business meeting - (submitted 2025-01-08)
 
 Under review:
 
