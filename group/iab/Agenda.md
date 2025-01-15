@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-13T23:31:22.179Z
+date: 2025-01-15T20:58:01.995Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -48,7 +48,11 @@ Done:
     of the OPS, ART, and WIT candidates selected by the IETF NomCom.
     
 On Hold:
+- 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
+    review of proposed WG charters to the Datatracker.
+    - See https://github.com/ietf-tools/datatracker/issues/5849
 
+In Progress: 
 * 2024-06-25: Suresh Krishnan to draft a document obsoleting RFC 3113 
     (Update RFC3113 to in only high level details of the collaboration 
     (3GPP-IETF co-ordination team) and move the details to a Wiki. 
