@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-01-10T18:51:26.911Z
+date: 2025-01-15T12:45:16.788Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -86,7 +86,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -10 version posted on 2024-07-05 | There are pending comments and need for a cleanup | Julien | Julien |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | -09 posted on 2024-10-21 | Authors have handled comments; minor edits are needed? | Dhruv | - |
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | -11 posted on 2025-01-13 | Next to be WGLC | Dhruv | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | -09 posted on 2024-07-04 | Ready for WGLC | Dhruv | - |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| -14 posted on 2024–08-11  | Ready for WGLC | Dhruv | - |
 
@@ -103,11 +103,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | Submitted to IESG for Publication on 2024-04-16 | AD Followup | Dhruv | Roman |
-| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | telechat: Pending on authors to handle YANGDOCTOR review | Julien | Gunter |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | Pending on Authors - <br> 1) Samuel's email about specified BSID <br> 2) IANA issue spotted by Ketan <br> 3) GENART review <br> 4) Marina's email that led to addition of error handling text | Dhruv | Roman |
-| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | Submitted to IESG for Publication on 2024-08-28 | AD Followup | Dhruv | Roman |
-| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | Submitted to IESG for Publication on 2024-10-07 | telechat | Julien | John |
+| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | Pending on authors to handle 1 pending DISCUSS from Mahesh | Julien | Gunter |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | Pending on Authors - Minor comments sent by Dhruv | Dhruv | Roman |
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 | - | Andrew | John |
 
 
@@ -120,7 +117,10 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | MISSREF | Pending on draft-ietf-pce-iana-update | Dhruv |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | EDIT | - | Dhruv |
+| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | EDIT | - | Julien |
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | EDIT| - | Dhruv |
+| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | EDIT | - | Dhruv |
 
 ## Recent RFCs
 
