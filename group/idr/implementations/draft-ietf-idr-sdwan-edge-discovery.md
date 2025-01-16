@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2025-01-16T21:16:16.317Z
+date: 2025-01-16T21:17:44.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -16,7 +16,7 @@ Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatrac
 | Section | Description | Huawei VRP v5 | Huawei VRP v8 |  
 |---|---|---|---|
 |  3  | Hybrid SD-WAN tunnel TEA attached to 1/1 and 1/2 (Secure Links | yes | Yes |
-|  3  | Hybrid SD-WAN tunnel TEA attached to 1/128 and 2/128 (Secure L3VPN) | Yes | 
+|  3  | Hybrid SD-WAN tunnel TEA attached to 1/128 and 2/128 (Secure L3VPN) | Yes |  yes | 
 |  3.1  | Hybrid SD-WAN Tunnel in TEA | Yes | Yes |
 |  3.2	| SDWAN Underlay UPDATE	| Yes | Yes |
 |  3.2  | SD-WAN NLRI AFI/SAFI 1/74, 2/74  (SDWAN Tunnel Underlay) |  Yes  |  Yes  |
