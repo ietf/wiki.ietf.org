@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2024-11-03T07:52:48.005Z
+date: 2025-01-16T10:09:00.419Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -12,21 +12,9 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 ## Operator Presentations
 
-### IETF 121 - Dublin
-
-* Dan B - Bell 
-* Jiangang Lu - China Southern Power Grid
-* Thomas - Swisscom
-* Gyan - Verizon
-* Options: 1- Iliad, ~~2-Orange,~~ 3- Gyan, 4- Thomas,  5- China Telecom, 6-Softbank (10-15)
-
-Send a response for draft presentations - done!
-
 ### IETF 122 - Bangkok
 
 Possible speakers
-
-
 * Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
 * Nicolai Leymann - DT (focus on address planning and preparing for deployment)
 * China Telecom
@@ -38,6 +26,14 @@ Possible speakers
 * Med will find someone - Orange-spain
 
 ### Past 
+#### IETF 121 - Dublin
+
+* Dan B - Bell 
+* Jiangang Lu - China Southern Power Grid
+* Thomas - Swisscom
+* Gyan - Verizon
+* Options: 1- Iliad, ~~2-Orange,~~ 3- Gyan, 4- Thomas,  5- China Telecom, 6-Softbank (10-15)
+
 #### IETF 120 - Vancouver
 
 * Rakuten  - Akash Agrawal
@@ -100,9 +96,12 @@ Possible speakers
 ### Yet to start
 -   
 ### Ongoing
-- IETF 121 agenda setting
-- IETF 121 public side meetings for drafts
+- IETF 122 agenda setting
+- Affiliation change announcement
+
 ### Completed 
+- IETF 121 agenda setting
+- IETF 121 public side meetings for drafts [slide](https://docs.google.com/presentation/d/1WDWW5VnG5GjgPzwwsrgHLB7qQwhD83w39yjl32RsJzs/edit?usp=sharing)
 - Handle the mailing list subscription and next step for the bof list
 - Send a welcome email
 - Setup Github and move the charter repository
