@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2024-10-25T12:55:00.938Z
+date: 2025-01-16T21:16:16.317Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -15,19 +15,26 @@ Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatrac
 
 | Section | Description | Huawei VRP v5 | Huawei VRP v8 |  
 |---|---|---|---|
-  | | |
-|  6	| SDWAN Underlay UPDATE	| Yes | Yes |
-|  6  | SAFI = 74	|  Yes  |  Yes  |
-|  6  | NLRI for SDWAN Underlay Tunnel Update | Yes | Yes | 
-|  6  | SDWAN-Hybrid Tunnel | Yes | Yes |
-|  6  | IPsec SA ID	|  Yes	|  Yes  |
-|  7  | Extended Port Attribute | Yes | Yes | 
-|  7  | Underlay Network Properties | Yes  | Yes | 
-|  8  | IPsec SA Property Update  | Yes  | Yes | 
-|  8  | IPsec SA Nonce Sub-TLV    |	Yes	 | Yes | 
-|  8  | IPsec Public Key Sub-TLV  | 	Yes | Yes | 
-|  8  | IPsec SA Proposal Sub-TLV	|  Yes	| Yes |
-|  8  | Simplified IPsec SA Sub – TLV	| Yes | Yes | 
+|  3  | Hybrid SD-WAN tunnel TEA attached to 1/1 and 1/2 (Secure Links | yes | Yes |
+|  3  | Hybrid SD-WAN tunnel TEA attached to 1/128 and 2/128 (Secure L3VPN) | Yes | 
+|  3.1  | Hybrid SD-WAN Tunnel in TEA | Yes | Yes |
+|  3.2	| SDWAN Underlay UPDATE	| Yes | Yes |
+|  3.2  | SD-WAN NLRI AFI/SAFI 1/74, 2/74  (SDWAN Tunnel Underlay) |  Yes  |  Yes  |
+|  3.2.2 | Validation of SD-WAN NLRI | Yes | Yes | 
+|  3.2.3 | Passes Req BGP Attributes | Yes | Yes |
+|  3.2.3 | Optional attributes Supported | xx | xx | 
+|  3.3.1  | IPsec SA ID SubTLV	|  Yes	|  Yes  
+|  3.3.2  | IPsec SA ReKey Counter | 	Yes | Yes | 
+|  3.3.3  | IPsec Public Key Sub-TLV  | 	Yes | Yes | 
+|  3.3.4  | IPsec SA Proposal Sub-TLV	|  Yes	| Yes |
+|  3.3.5  | IPsec SA Proposal Sub-TLV	|  Yes	| Yes |
+|  3.3.6  | Extended Port Attribute SubTLV | Yes | Yes |
+|  3.4    | Client Route procedure  | Yes | Yes | 
+|  3.5    | Underlay Routes procedures | Yes | Yes | 
+|  3.6    | Error handling             | Yes | Yes | 
+|  4      | Manageability              | Yes | Yes |      
+
+
 {.dense}
 
 ## Other implementations of SDWAN: Arista
