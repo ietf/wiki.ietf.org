@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2024-12-06T15:00:30.029Z
+date: 2025-01-16T23:32:20.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -46,18 +46,26 @@ If you have questions or concerns regarding the implementation requirement, plea
 [CT WG LC](/group/idr/CT-WGLC)
 [CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/group/idr/CAR-CTAdoption)
 
-## FSv2 Open Design teams 
-[Background on Open Design Teams](/group/idr/FSv2-DTeam)
-[Design Team 1: Basic IP FSv2](/group/idr/Basic-IP-FSv2)
-[Design Team 2: More IP Filters for FSv2](/group/idr/More-IP-Filter-FSv2)
-[Design Team 3: More IP Actions for FSv2](/group/idr/More-IP-Action-FSv2)
-[Design Team 4: Non-IP filters and actions FSv2](/group/idr/Non-IP-FSv2)
+## Interims in 2025 
+### February 10th, 2025 - BGP-LS, BGP-SR, FSv2 + other drafts 
+[IDR interim on BGP-LS, BGP-SR, and FSv2 drafts](https://datatracker.ietf.org/meeting/interim-2025-idr-01/session/idr)
+### February 24, 2025 - 00 drafts prior to IETF-122 
+[00- Draft presentation before IETF 122](https://datatracker.ietf.org/meeting/interim-2025-idr-02/session/idr)
+
 
 ## Interims in 2024 
 
 ### Future interims 
 [IDR interim on 9/9/2024 on SR and BGP Routing](https://datatracker.ietf.org/meeting/interim-2024-idr-11/session/idr)
 [IDR interim on 9/23/2024 on Next Hop features and Link Bandwidth](https://datatracker.ietf.org/meeting/interim-2024-idr-12/session/idr)
+
+
+## Closed FSv2 Design teams 
+[Background on Open Design Teams](/group/idr/FSv2-DTeam)
+[Design Team 1: Basic IP FSv2](/group/idr/Basic-IP-FSv2)
+[Design Team 2: More IP Filters for FSv2](/group/idr/More-IP-Filter-FSv2)
+[Design Team 3: More IP Actions for FSv2](/group/idr/More-IP-Action-FSv2)
+[Design Team 4: Non-IP filters and actions FSv2](/group/idr/Non-IP-FSv2)
 
 ### Past Interims 
 
