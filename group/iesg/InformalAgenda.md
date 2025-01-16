@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-16T12:59:18.128Z
+date: 2025-01-16T15:20:48.572Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -52,7 +52,7 @@ Note that this page is public.
 (Proposed by Liz:)
 
 - Github experiment for auth-48
-- Side meetings at 122?
+- Side meetings at 122
 
 
 ### WG News 
