@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-16T12:56:36.164Z
+date: 2025-01-16T12:59:18.128Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,7 +48,6 @@ Note that this page is public.
 ### Management Issues
 
 - [ALLDISPATCH next steps](https://docs.google.com/document/d/1t1wqZQqPQ8xMNJKcKRZR_clyf30yaRGXeV4a3pbCu1o/) (Francesca, Deb, Roman)
-- RTG Appeal Discussion
 
 (Proposed by Liz:)
 
