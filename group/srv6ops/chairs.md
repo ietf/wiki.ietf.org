@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-01-16T10:09:16.139Z
+date: 2025-01-16T13:17:54.100Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -24,6 +24,8 @@ Possible speakers
 
 * Martin Gysi - Swisscom 
 * Med will find someone - Orange-spain
+* Michael Valentine - Goldman Sachs
+* 
 
 ### Past 
 #### IETF 121 - Dublin
