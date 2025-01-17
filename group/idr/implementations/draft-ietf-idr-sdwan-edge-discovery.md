@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2025-01-16T21:32:25.668Z
+date: 2025-01-17T15:14:15.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -22,7 +22,7 @@ Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatrac
 |  3.2  | SD-WAN NLRI AFI/SAFI 1/74, 2/74  (SDWAN Tunnel Underlay) |  Yes  |  Yes  |
 |  3.2.2 | Validation of SD-WAN NLRI | Yes | Yes | 
 |  3.2.3 | Passes Req BGP Attributes | Yes | Yes |
-|  3.2.3 | Optional attributes Supported | No | No | 
+|  3.2.3 | Optional attributes Supported | Yes | Yes | 
 |  3.3.1  | IPsec SA ID SubTLV	|  Yes	|  Yes  
 |  3.3.2  | IPsec SA ReKey Counter | 	Yes | Yes | 
 |  3.3.3  | IPsec Public Key Sub-TLV  | 	Yes | Yes | 
