@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-17T17:57:39.724Z
+date: 2025-01-17T19:55:14.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-01-22 0700 PST (UTC-8) 
 
-*Agenda as of 2025-01-10. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-01-17. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -47,6 +47,9 @@ Done:
 -  2025-01-08: Cindy Morgan to send out e-votes on the confirmation 
     of the OPS, ART, and WIT candidates selected by the IETF NomCom.
     
+-  2025-01-08: Cindy Morgan to create a wiki page to capture potential 
+    retreat topics and add "Architecture for Zero-Trust Networks."
+    
 On Hold:
 - 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
     review of proposed WG charters to the Datatracker.
@@ -65,13 +68,6 @@ In Progress:
 
 -  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
     Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
-
--  2025-01-08: Cindy Morgan to create a wiki page to capture potential 
-    retreat topics and add "Architecture for Zero-Trust Networks."
-
-
-
-
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -102,11 +98,11 @@ In Progress:
     IESG Telechat: (not on agenda)
     IAB Shepherds: Suresh Krishnan, Mirja Kühlewind
     
- * **RESTful Provisioning Protocol (RPP)**
-    Area: ART
+ * **Heuristics and Algorithms to Prioritize Protocol deploYment (HAPPY)**
+    Area: WIT
     Internal Review
-    IESG Telechat: (not on agenda)
-    IAB Reviewer: Tommy Pauly
+    IESG Telechat: 2025-01-23
+    IAB Reviewer: Matthew Bocci
 
 *  **Update to IANA Considerations (IANABIS)**
     Area: GEN
@@ -114,6 +110,12 @@ In Progress:
     IESG Telechat: (not on agenda)
     IAB Reviewer: Mirja Kühlewind
     
+ * **RESTful Provisioning Protocol (RPP)**
+    Area: ART
+    Internal Review
+    IESG Telechat: (not on agenda)
+    IAB Reviewer: Tommy Pauly
+
 *  **Taking IP To Other Planets (TIPTOP)**
     Area: INT
     External Review
@@ -123,9 +125,38 @@ In Progress:
 
 #### 1.7 IAB Appointments
 
-*  ISOC Board of Trustees - Call for feedback ends 2025-02-05
-    - 3 accepted nominations 
+*  ISOC Board of Trustees - Interviews in Progress
+*  Calendar for 2025-2026 cycle appointments is in progress; next will 
+    be CCG in May
 
+
+### 2. Monthly Written Reports and Other Brief Updates (Liaisons) - 5 mins
+   (Public)
+
+*  EODir Liaison Report
+*  IANA Liaison Report
+*  ICANN Liaison Report
+*  IRTF Chair Report
+*  ISOC Liaison Report
+*  IAB Outreach Coordinator Report
+*  Tools Liaison Report
+
+### 3. IAB Open Meeting at IETF 122 (Public) - 10 mins
+
+  Goal: Find co-chair, agenda topics; decide session length
+
+
+### 4. Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2025-01-29?
+
+
+### 5. Executive Session: Discussion with NomCom Chair - 20 mins
+
+
+### 6. Executive Session: IESG Slate Confirmation - 10 mins
+
+  Goal: Vote on ART and WIT candidates
 
 
 
