@@ -2,13 +2,13 @@
 title: IAB Workshop Guidelines
 description: 
 published: true
-date: 2025-01-19T18:27:54.192Z
+date: 2025-01-19T18:28:28.621Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:47:25.471Z
 ---
 
-- [home](/home)# IAB Workshop Guidelines
+![ietf-logo-reversed-square-300dpi-transparent-background.png](/ietf-logo-reversed-square-300dpi-transparent-background.png){.align-right}- [home](/home)# IAB Workshop Guidelines
 
 ## Considerations for IAB Workshops
 
