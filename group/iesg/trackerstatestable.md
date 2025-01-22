@@ -2,7 +2,7 @@
 title: Tracker States
 description: 
 published: true
-date: 2023-02-20T19:02:14.742Z
+date: 2025-01-22T18:46:53.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T19:02:10.644Z
@@ -20,7 +20,7 @@ Note that the available states are expected to be expanded when the tracker is e
 
 **State Diagram**
 
-https://datatracker.ietf.org/state_diagram.gif 
+https://static.ietf.org/dt/12.33.0/ietf/images/iesg-draft-state-diagram.png
 
 
 &nbsp;
