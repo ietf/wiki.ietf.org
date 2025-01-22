@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-17T19:55:14.869Z
+date: 2025-01-22T16:15:51.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2025-01-22 0700 PST (UTC-8) 
+## IAB Agenda: 2025-02-05 0700 PST (UTC-8) 
 
-*Agenda as of 2025-01-17. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-01-22. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -33,7 +33,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 For approval: 
 
-* 2025-01-08 business meeting - (submitted 2025-01-08)
+* 2025-01-22 business meeting - (submitted 2025-01-22)
 
 Under review:
 
@@ -41,14 +41,7 @@ Under review:
 
 Done:
 
--  2025-01-08: Tommy Pauly to reply to Stephen Farrell's email about 
-    ECH blocking.
 
--  2025-01-08: Cindy Morgan to send out e-votes on the confirmation 
-    of the OPS, ART, and WIT candidates selected by the IETF NomCom.
-    
--  2025-01-08: Cindy Morgan to create a wiki page to capture potential 
-    retreat topics and add "Architecture for Zero-Trust Networks."
     
 On Hold:
 - 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
@@ -69,6 +62,12 @@ In Progress:
 -  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
     Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
 
+* 2025-01-22: Tommy Pauly to send a response to the liaison from ITU-
+    T FG AINN once Colin Perkins confirms that it is ready to be sent.
+
+* 2025-01-22: Suresh Krishnan to draft a wiki page detailing what 
+    information the IAB needs from NomCom in order to confirm IESG 
+    candidates.
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -130,41 +129,12 @@ In Progress:
     be CCG in May
 
 
-### 2. Monthly Written Reports and Other Brief Updates (Liaisons) - 5 mins
-   (Public)
-
-*  EODir Liaison Report
-*  IANA Liaison Report
-*  ICANN Liaison Report
-*  IRTF Chair Report
-*  ISOC Liaison Report
-*  IAB Outreach Coordinator Report
-*  Tools Liaison Report
-
-### 3. IAB Open Meeting at IETF 122 (Public) - 10 mins
-
-  Goal: Find co-chair, agenda topics; decide session length
-
-
-### 4. Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2025-01-29?
-
-
-### 5. Executive Session: Discussion with NomCom Chair - 20 mins
-
-
-### 6. Executive Session: IESG Slate Confirmation - 10 mins
-
-  Goal: Vote on ART and WIT candidates
+### 2. 
 
 
 
 ## Upcoming Teleconferences 
 
-* 2025-01-22: IAB Business Meeting
-    - Monthly Reports
-* 2024-01-29: IAB Technical Discussion (Reserved)
 * 2025-02-05: IAB Business Meeting
 * 2025-02-12: IAB Business Meeting (Reserved)
 * 2025-02-19: IAB Business Meeting
@@ -180,6 +150,7 @@ In Progress:
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * DNS Root Server Maintenance document (Wes)
 * Boilerplate responses to liaison statements (with Scott Mansfield)
+* Executive Session: NomCom confirmation process debrief
 
 
 ## Unscheduled Technical Discussions
