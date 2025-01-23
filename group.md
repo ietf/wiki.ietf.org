@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2024-11-21T00:05:00.248Z
+date: 2025-01-23T17:34:11.188Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -85,6 +85,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [srv6ops *SRv6 Operations*](/group/srv6ops)
 - [stir *Secure Telephone Identity Revisited*](/group/stir)
 - [suit *Software Updates for Internet of Things*](/group/suit)
+- [sustain *Sustainability and the Internet*](/group/sustain)
 - [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
 - [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
 - [tls *Transport Layer Security*](/group/tls)
@@ -132,6 +133,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [nwcrg *Network Coding*](/group/nwcrg)
 - [pearg *Privacy Enhancements and Assessments Research Group*](/group/pearg)
 - [qirg *Quantum Internet Research Group*](/group/qirg)
+- [sustain *Sustainability and the Internet*](/group/sustain)
 {.links-list}
 
 ### OPS
