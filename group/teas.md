@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-01-14T00:18:49.191Z
+date: 2025-01-24T21:38:15.802Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -53,7 +53,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
 |No.| Draft | Notes | Updated
 |---|-------|-------|---------
-|  1| [draft-barguil-teas-network-slices-instantation](https://datatracker.ietf.org/doc/draft-barguil-teas-network-slices-instantation/) | IPR Poll Done | 2025-01-13 
+|  1| [draft-barguil-teas-network-slices-instantation](https://datatracker.ietf.org/doc/draft-barguil-teas-network-slices-instantation/) | Adoption Poll Initiated | 2025-01-15 
 |  2| [draft-liu-teas-transport-network-slice-yang](https://datatracker.ietf.org/doc/draft-liu-teas-transport-network-slice-yang/)       | IPR Poll Done | 2025-01-13
 |  3| [draft-poidt-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-poidt-teas-actn-poi-assurance/)                       | Under chairs' consideration | 2025-01-13
 |  4| [draft-atkinson-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-atkinson-teas-rsvp-auth-v2/)                             | Under chairs' consideration | 2025-01-13
