@@ -2,7 +2,7 @@
 title: SUSTAIN PRG - Sustainability and the Internet Proposed Research Group
 description: 
 published: true
-date: 2025-01-24T12:49:55.218Z
+date: 2025-01-24T12:50:11.894Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T17:32:33.956Z
@@ -13,7 +13,7 @@ dateCreated: 2025-01-23T17:32:33.956Z
 Welcome to the SUSTAIN PRG wiki!
 
 
-## An overview of sustainability-related IETF activities
+## An overview of other sustainability-related IETF/IRTF activities
 
 This is meant to make it easier for people to find their way around the IETF regarding sustainability. Any mistakes are our (Sustain RG chairs) own, and please feel free to make corrections or add things (or tell us to do so!).
 
