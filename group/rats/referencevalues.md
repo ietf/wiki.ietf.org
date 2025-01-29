@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-01-29T16:05:51.995Z
+date: 2025-01-29T16:08:15.641Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -144,7 +144,7 @@ It is interesting to note that Veraison would be acting as a _secondary_ Endorse
 In no particular order...
 
 - What exactly needs to go into I-Ds?
-    - Should we enhance [I-D.rats-reference-interaction-models](https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/) to cover endorsement/RV ingestion/distribution conveyance paths? Or is that document already too large? Should it be a specific new I-D for Endorser/RVP models?
+    - Should we enhance [I-D.rats-reference-interaction-models](https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/) to cover endorsement/RV ingestion/distribution conveyance paths? Or is that document already too large? Should it be a specific new I-D for Endorser/RVP models? (Latest rounds of review strongly suggest that the existing I-D should have its scope/title explicitly narrowed to cover Evidence only, in which case the natural next steo would be a separate I-D with similarly-narrowed scope to focus on Endorsement conveyances.
     - Should I-Ds include actual API definitions, eg OpenAPI specifications? No RATS I-D has gone this far to date. However, there is some precedent elsewhere in IETF, eg. [I-D.duffy-csmp](https://www.ietf.org/archive/id/draft-duffy-csmp-01.html).
  - How would distribution API endpoints be discovered by the consumer?
     - A-priori knowledge? Documentation produced by supply-chain entities? (This is the case for the AMD and NVIDIA services referenced below).
