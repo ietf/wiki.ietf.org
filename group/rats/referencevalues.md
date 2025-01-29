@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-01-29T10:46:18.522Z
+date: 2025-01-29T12:20:22.412Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -144,4 +144,8 @@ There do not appear to be any existing standardisation efforts in flight for end
 
 - The [AMD Key Distribution Service (KDS)](https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/specifications/57230.pdf).
 - The [NVIDIA Reference Integrity Manifest (RIM) Service](https://docs.attestation.nvidia.com/api-docs/rim.html#get-/v1/rim/ids).
+
+## Documents in Other Standards Development Organisations
+
+- TCG DICE [Endorsement Architecture for Devices (DRAFT)](https://trustedcomputinggroup.org/wp-content/uploads/TCG-Endorsement-Architecture-for-Devices-r38_5May22.pdf)
 
