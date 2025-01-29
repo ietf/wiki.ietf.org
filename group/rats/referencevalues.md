@@ -66,18 +66,18 @@ It would be interesting to explore the patterns of ingestion and distribution as
 
 One of the existing reference interaction models is the so-called _challenge-response_ model, which is instantiated by Veraison's [challenge-response API](https://github.com/veraison/docs/tree/main/api/challenge-response). This is an example of where Veraison has taken one of the reference interaction models from RATS, and implemented it as an OpenAPI specification.
 
-So far, challenge-response is the only one of Veraison's APIs that is based on a RATS Reference Interaction Model. However, if endorsement ingestion and distribution were also described in the Reference Interaction Models, then it's conceivable that the existing endorsement-provisioning API could implement the former, and some yet-to-be-defined distribution API could implement the latter. This would lead to situation where all of Veraison's main APIs (disgregarding general housekeeping/management functions) are based on reference models from within RATS, which might be a nice place to be. Veraison is a specific implementation and therefore not part of the RATS WG charter directly. It is a CCC open-source project. However, it has some history as a proving ground and an experimental platform for the evolution of RATS WG models and data formats - not only challenge-response as mentioned above, but also data formats such as EAT and CoRIM, that are nurtured within IETF.
+So far, challenge-response is the only one of Veraison's APIs that is based on a RATS Reference Interaction Model. However, if endorsement ingestion and distribution were also described in the Reference Interaction Models, then it's conceivable that the existing endorsement-provisioning API could implement the former, and some yet-to-be-defined distribution API could implement the latter. This would lead to a situation where all of Veraison's main APIs (disregarding general housekeeping/management functions) are based on reference models from within RATS, which might be a nice place to be. Veraison is a specific implementation and therefore not part of the RATS WG charter directly. It is a CCC open-source project. However, it has some history as a proving ground and an experimental platform for the evolution of RATS WG models and data formats - not only challenge-response as mentioned above, but also data formats such as EAT, CMW and CoRIM, that are nurtured within IETF.
 
 ## Endorsements and Reference Values
-Endorsements and Reference Values are both artifacts that are defined within section 4.2 of [RFC9334](https://datatracker.ietf.org/doc/rfc9334/). This wiki page adopts that definition. However, there has been some discourse on the distinction between endorsements and RVs, and on whether an RV can be considered to be a special case of endorsement, since an RV is a known-good value. On this page, the phrase "Endorsement/RV" is used as a convenient shorthand in order to maintain the distinction while also respecting the similarity. The scope of this effort is to define APIs for the conveyance of both Endorsements and Reference Values.
+Endorsements and Reference Values are both artifacts that are defined within [section 4.2 of RFC9334](https://www.rfc-editor.org/rfc/rfc9334.html#section-4.2)). This wiki page adopts that definition. However, there has been some discourse on the distinction between endorsements and RVs, and on whether an RV can be considered to be a special case of endorsement, since an RV is a known-good value. On this page, the phrase "Endorsement/RV" is used as a convenient shorthand in order to maintain the distinction while also respecting the similarity. The scope of this effort is to define APIs for the conveyance of both Endorsements and Reference Values.
 
 ## Examples of Endorsements/RVs
 Just for illustrative purposes, here is a non-exhaustive list of artifacts that might be considered as endorsements/RVs:-
 
 - An endorsed public key (including but not limited to x509 or similar certificate). Attestation evidence is typically signed by the Attester. Cryptographic verification of the evidence requires access to the Attester's public key, and that public key in turn needs a means of establishing trust. This establishment of trust would typically be the result of an Endorser making the public key available as an endorsement.
 - Intermediate/root public keys or trust chains. In the case above, where the Attester's endorsed public key is something like an x509 certificate, the Endorser might also make the parent certificate chain available.
-- Statements or measurements of valid platform state/configuration.
-- Measurements (hashes) of firmware or software images that are included on the system.
+- Statements or measurements of valid platform state/configuration (e.g., a security certification record, a benchmark identifier, etc.).
+- Measurements (hashes) of firmware or software images that are included in the system.
 
 ## Security Properties of Endorsements/RVs
 Endorsements/RVs need to exhibit the security properties of **integrity** and **availability**.
@@ -85,7 +85,7 @@ Endorsements/RVs need to exhibit the security properties of **integrity** and **
 ASSERTION (to check): They do not need to exhibit the security properties of **confidentiality**, at least in general. There may be some specific conveyance channels where confidentiality is needed. But where this is the case, sufficient protection can probably be provided in the transport (eg. TLS). For the particular case of endorsement _distribution_, the channels are likely to be deliberately public, designed to be consumed in the field by a variety of components. There would be no value in confidentiality here. Integrity and availability would matter far more. Take the examples of existing distribution services at the bottom of this page. All of those emit signed data in the clear (modulo TLS). What this suggests is that confidentiality does not specifically need to be baked into API designs or data formats for distribution.
 
 ## Categories of Endorser (or Reference Value Provider)
-It may be useful to categorise the Endorser/RVP along the following lines (although there's a need to align on terminology):-
+It may be useful to categorise the Endorser/RVP along the following lines (although there's a need to align on terminology):
 
 - A **primary** Endorser/RVP is an original source of truth for one or more supply chain components. It does not consume any endorsements/RVs from anywhere else. It would typically be the same entity that manufactures the thing that is being endorsed. One example might be a silicon manufacturer that produces chips with a factory-provisioned identity, where the endorsements are the public keys/certificates for those identities. Another example might be a firmware distributor, which provides access to binary images along with their reference measurements/hashes. This could also perhaps be called a "leaf" or "component" endorser/RVP.
 - A **secondary** Endorser/RVP is one that aggregates Endorsements/RVs from other sources, despite not being the originator of the endorsed component(s). An example could be a Cloud Service Provider (CSP) that endorses entire compute environments (eg. VMs), and distributes aggregated endorsements/RVs for the whole system, which could include measurements of virtual firmware, platform firmware, and platform hardware right down to the RoT. This could also be called an "aggregate" or "system" endorser/RVP.
@@ -101,7 +101,7 @@ Where this distinction matters the most is in the trust model that exists betwee
 ## Trust Models
 If we assume the above primary/secondary classification model, then the trust relationships between the producer and the consumer can be considered as follows.
 
-For a primary Endorser/RVP, the trust model is relatively simple and has already characterised in RATS. A primary Endorser/RVP produces signed artifacts. The consumer (such as  Verifier) simply needs to hold a trust anchor for the Endorser/RVP in order to verifier their integrity and authenticity.
+For a primary Endorser/RVP, the trust model is relatively simple and has already been characterised in RATS. A primary Endorser/RVP produces signed artifacts. The consumer (such as  Verifier) simply needs to hold a trust anchor for the Endorser/RVP in order to verify their integrity and authenticity.
 
 For a secondary Endorser/RVP, there are two possible models. The first model would be the same simple model expressed above. In this case, the secondary Endorser/RVP is essentially behaving as a trusted and convenient "one-stop shop", and is trusted to faithfully aggregate data from the leaf-case supply chain actors. The consumer, once again, simply needs a suitable trust anchor to the Endorser/RVP. In the second model, this level of trust would be deemed insufficient, and it would also be necessary for the consumer to verify not only the aggregated data, but also the leaf data as produced from the original (primary) supply chain actors.
 
@@ -110,13 +110,13 @@ It would be valuable to establish common terminology for these two models - eg. 
 For endorsement conveyance in general, and for distribution in particular, it would be necessary to design protocols such that either trust model can be accommodated.
 
 ## Desirable Properties of an Endorsement Distribution API
-As part of the requirements gathering excercise for a distribution API, below are some desirable properties that an API should have.
+As part of the requirements gathering exercise for a distribution API, below are some desirable properties that an API should have.
 
 - Transport/message independence. The producers of Endorsements/RVs would typically be highly compute-capable nodes, such as cloud services operated by supply chain vendors. However, the same cannot be said for the consumer. A consumer might be a constrained node with an on-device Verifier, where a CoAP (or similar) protocol might be preferred over HTTP. Something like a common CDDL data model, which could be transacted via HTTP or CoAP APIs, might be suitable.
 - Support for different trust models (see above) - aggregated endorsement payloads should make it possible to discover and verify the primary sources.
 - Flexibility/extensibility of payload. It should not be assumed that the endorsements/RVs are required to be expressed in one specific format (such as CoRIM, for example). With suitable application of CMW/media types and negotiation, it should be possible to transact different formats while maintaining a consistent overall framework.
 - Support for consumer-side caching. The consumer (Verifier) might prefer to cache Endorsements/RVs locally, to provide better performance at evidence-verification time. The API should make it possible to discover and transact deltas between cached and current data. (Consider pub/sub mechanism?)
-- Reuse, where possible, of existing RATS designs, eg: [EAT](https://datatracker.ietf.org/doc/draft-ietf-rats-eat/), [CoRIM](https://datatracker.ietf.org/doc/draft-ietf-rats-corim/), [CMW](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/), [EAT measured component](https://datatracker.ietf.org/doc/draft-ietf-rats-eat-measured-component/), [Epoch Markers](https://datatracker.ietf.org/doc/draft-ietf-rats-epoch-markers/).
+- Reuse, where possible, of existing RATS designs, e.g.: [EAT](https://datatracker.ietf.org/doc/draft-ietf-rats-eat/), [CoRIM](https://datatracker.ietf.org/doc/draft-ietf-rats-corim/), [CMW](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/), [EAT measured component](https://datatracker.ietf.org/doc/draft-ietf-rats-eat-measured-component/), [Epoch Markers](https://datatracker.ietf.org/doc/draft-ietf-rats-epoch-markers/).
 
 ## PoC With Veraison Components
 (Possibly migrate this section elsewhere because it's quite implementation-specific).
@@ -151,5 +151,4 @@ There do not appear to be any existing standardisation efforts in flight for end
 
 ## Documents in Other Standards Development Organisations
 
-- TCG DICE [Endorsement Architecture for Devices (DRAFT)](https://trustedcomputinggroup.org/wp-content/uploads/TCG-Endorsement-Architecture-for-Devices-r38_5May22.pdf)
-
+- TCG DICE [Endorsement Architecture for Devices](https://trustedcomputinggroup.org/wp-content/uploads/TCG-Endorsement-Architecture-for-Devices-V1-R38_pub.pdf)
