@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-01-29T14:58:43.081Z
+date: 2025-01-29T16:05:51.995Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -62,7 +62,7 @@ Veraison's Endorsement Provisioning API exemplifies the ingestion model, where s
 Therefore, Endorsement/RV distribution is where there is the greatest gap in terms of community standardisation efforts.
 
 ## Veraison as a Proving Ground for Reference Interaction Models
-It would be interesting to explore the patterns of ingestion and distribution as new _reference interaction models_ in RATS. The existing [Reference Interaction Models](https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/) are focused on the conveyance of Evidence, rather than that of Endorsements/RVs. However, the general intent of the reference interaction models is to look at the interactions between all linked roles in the RATS architecture. There is no reason why this should be limited to the conveyance of Evidence.
+It would be interesting to explore the patterns of ingestion and distribution as new _reference interaction models_ in RATS. The existing [Reference Interaction Models](https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/) are focused on the conveyance of Evidence, rather than that of Endorsements/RVs. We need to examine how to enrich the landscape of I-Ds to focus on interaction models between other roles. It may not be practical for a single I-D to cover them all. See the open questions in a later section below.
 
 One of the existing reference interaction models is the so-called _challenge-response_ model, which is instantiated by Veraison's [challenge-response API](https://github.com/veraison/docs/tree/main/api/challenge-response). This is an example of where Veraison has taken one of the reference interaction models from RATS, and implemented it as an OpenAPI specification.
 
@@ -103,11 +103,17 @@ If we assume the above primary/secondary classification model, then the trust re
 
 For a primary Endorser/RVP, the trust model is relatively simple and has already been characterised in RATS. A primary Endorser/RVP produces signed artifacts. The consumer (such as  Verifier) simply needs to hold a trust anchor for the Endorser/RVP in order to verify their integrity and authenticity.
 
-For a secondary Endorser/RVP, there are two possible models. The first model would be the same simple model expressed above. In this case, the secondary Endorser/RVP is essentially behaving as a trusted and convenient "one-stop shop", and is trusted to faithfully aggregate data from the leaf-case supply chain actors. The consumer, once again, simply needs a suitable trust anchor to the Endorser/RVP. In the second model, this level of trust would be deemed insufficient, and it would also be necessary for the consumer to verify not only the aggregated data, but also the leaf data as produced from the original (primary) supply chain actors.
+For a secondary Endorser/RVP, there are two possible models.
+
+The first model would be the same simple model expressed above. In this case, the secondary Endorser/RVP is essentially behaving as a trusted and convenient "one-stop shop", and is trusted to faithfully aggregate data from the leaf-case supply chain actors. The consumer, once again, simply needs a suitable trust anchor to the Endorser/RVP.
+
+In the second model, this level of trust would be deemed insufficient, and it would also be necessary for the consumer to verify not only the aggregated data, but also the leaf data as produced from the original (primary) supply chain actors. We can also call this a trust-but-verify model, where the consumer trusts the aggregator _in the first instance_, but then needs to follow references from the aggregated endorsement data to the individual contributing pieces, and verify those as well.
 
 It would be valuable to establish common terminology for these two models - eg. "centralised trust" and "distributed trust". Or maybe there are some more industry-standard terms to apply here.
 
 For endorsement conveyance in general, and for distribution in particular, it would be necessary to design protocols such that either trust model can be accommodated.
+
+NOTE: CoRIM already has a means by which a manifest can provide links/references to contributing components.
 
 ## Desirable Properties of an Endorsement Distribution API
 As part of the requirements gathering exercise for a distribution API, below are some desirable properties that an API should have.
@@ -115,7 +121,8 @@ As part of the requirements gathering exercise for a distribution API, below are
 - Transport/message independence. The producers of Endorsements/RVs would typically be highly compute-capable nodes, such as cloud services operated by supply chain vendors. However, the same cannot be said for the consumer. A consumer might be a constrained node with an on-device Verifier, where a CoAP (or similar) protocol might be preferred over HTTP. Something like a common CDDL data model, which could be transacted via HTTP or CoAP APIs, might be suitable.
 - Support for different trust models (see above) - aggregated endorsement payloads should make it possible to discover and verify the primary sources.
 - Flexibility/extensibility of payload. It should not be assumed that the endorsements/RVs are required to be expressed in one specific format (such as CoRIM, for example). With suitable application of CMW/media types and negotiation, it should be possible to transact different formats while maintaining a consistent overall framework.
-- Support for consumer-side caching. The consumer (Verifier) might prefer to cache Endorsements/RVs locally, to provide better performance at evidence-verification time. The API should make it possible to discover and transact deltas between cached and current data. (Consider pub/sub mechanism?)
+- Efficient use of the transport - allowing the consumer to cache data locally, and/or query for deltas between previously-cached data and the current data.
+- Flexible interaction design (also related to caching/deltas above). There could be one interaction model that is essentially just a `GET` method, but we could also consider a publish-subscribe pattern.
 - Reuse, where possible, of existing RATS designs, e.g.: [EAT](https://datatracker.ietf.org/doc/draft-ietf-rats-eat/), [CoRIM](https://datatracker.ietf.org/doc/draft-ietf-rats-corim/), [CMW](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/), [EAT measured component](https://datatracker.ietf.org/doc/draft-ietf-rats-eat-measured-component/), [Epoch Markers](https://datatracker.ietf.org/doc/draft-ietf-rats-epoch-markers/).
 
 ## PoC With Veraison Components
