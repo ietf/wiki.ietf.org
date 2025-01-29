@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-01-17T19:48:30.175Z
+date: 2025-01-29T19:34:02.249Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2024-2025 Assignments
+- DIEM: Wes Hardaker (2025-01)
 - HAPPY: Matthew Bocci (2025-01)
 - TIPTOP: David Schinazi (2025-01)
 - RPP: Tommy Pauly (2025-01)
