@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-29T14:55:07.018Z
+date: 2025-01-29T14:55:40.359Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,8 +48,10 @@ Note that this page is public.
 ### Management Issues
 
 - Side Meetings (Secretariat/all)
-* [Secretariat/LLC View](https://docs.google.com/document/d/1nFJVatsaDHZNKcg08oZ8ADh63RcayoMA6XIhCRxHMB4/edit?tab=t.0)
-* [Discussion Planner](https://docs.google.com/document/d/1GnF7gb9waGuePZtCpmbvkkLlJylljxv748iWEWIcFPc/edit?tab=t.0#heading=h.fu46bfjet6tc)
+  * [Secretariat/LLC View](https://docs.google.com/document/d/1nFJVatsaDHZNKcg08oZ8ADh63RcayoMA6XIhCRxHMB4/edit?tab=t.0)
+  * [Discussion Planner](https://docs.google.com/document/d/1GnF7gb9waGuePZtCpmbvkkLlJylljxv748iWEWIcFPc/edit?tab=t.0#heading=h.fu46bfjet6tc)
+
+- Follow-up to Appeal Response
 
 ### WG News 
 
