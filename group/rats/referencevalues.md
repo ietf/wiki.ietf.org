@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-01-29T12:20:22.412Z
+date: 2025-01-29T12:27:10.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -134,11 +134,15 @@ See Slide 11 [here](https://github.com/CCC-Attestation/meetings/blob/main/materi
 It is interesting to note that Veraison would be acting as a _secondary_ Endorser (as per the discussion above) in this PoC. This is because Veraison's existing endorsement-provisioning API would be used as the conveyance from the primary supply chain sources. Veraison would store those Endorsements/RVs in its database, and then use the distribution API to broadcast an aggregated view of them. So there is an opportunity here for the PoC to exemplify the different trust models and demonstrate an API that is capable of supporting both.
 
 ## Questions and Discussion Points
+In no particular order...
 
 - What exactly needs to go into I-Ds?
     - Should we enhance [I-D.rats-reference-interaction-models](https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/) to cover endorsement/RV ingestion/distribution conveyance paths? Or is that document already too large? Should it be a specific new I-D for Endorser/RVP models?
     - Should I-Ds include actual API definitions, eg OpenAPI specifications? No RATS I-D has gone this far to date. However, there is some precedent elsewhere in IETF, eg. [I-D.duffy-csmp](https://www.ietf.org/archive/id/draft-duffy-csmp-01.html).
-    
+ - How would distribution API endpoints be discovered by the consumer?
+    - A-priori knowledge? Documentation produced by supply-chain entities? (This is the case for the AMD and NVIDIA services referenced below).
+    - Hints in the Evidence? (EAT tokens can provide hints that reference suitable Verifier endpoints, so could this be extended or appropriated to include endorsement endpoints?)
+     
 ## Examples of Existing Endorsement Distribution APIs
 There do not appear to be any existing standardisation efforts in flight for endorsement distribution APIs, either in IETF or other communities. However, a number of endorsement distribution endpoints do already exist in the industry, each of which follows its own proprietary scheme. Some examples are given below.
 
