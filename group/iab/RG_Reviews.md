@@ -2,7 +2,7 @@
 title: RG Reviews
 description: 
 published: true
-date: 2024-09-26T17:37:33.921Z
+date: 2025-01-30T19:27:48.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:52:34.911Z
@@ -12,6 +12,8 @@ dateCreated: 2023-12-06T00:52:34.911Z
 
 The IAB periodically reviews IRTF Research Groups, generally at or around IETF meetings. The IRSG is invited to attend these reviews.
 
+- IETF 122: DINRG
+- IETF 121: [Thing-to-Thing Research Group (T2TRG)](https://datatracker.ietf.org/doc/minutes-interim-2024-iab-36-202411070800/)
 - IETF 120: [Research and Analysis of Standard-Setting Processes Research Group (RASPRG)](https://datatracker.ietf.org/doc/minutes-interim-2024-iab-27-202407251500/)
 - IETF 119: [Usable Formal Methods Proposed Research Group (UFMRG)](https://datatracker.ietf.org/doc/minutes-interim-2024-iab-12-202403202200/)
 - IETF 118: None
