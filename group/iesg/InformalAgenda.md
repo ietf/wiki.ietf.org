@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-30T16:22:33.385Z
+date: 2025-01-30T23:04:49.319Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - January 30, 2025
+# Informal Telechat - February 13, 2025
 
 There **WILL** be a meeting on this date.
 
@@ -47,20 +47,9 @@ Note that this page is public.
 
 ### Management Issues
 
-- Side Meetings (Secretariat/all)
-  * [Secretariat/LLC View](https://docs.google.com/document/d/1nFJVatsaDHZNKcg08oZ8ADh63RcayoMA6XIhCRxHMB4/edit?tab=t.0)
-  * [Discussion Planner](https://docs.google.com/document/d/1GnF7gb9waGuePZtCpmbvkkLlJylljxv748iWEWIcFPc/edit?tab=t.0#heading=h.fu46bfjet6tc)
+- **IETF 122 Agenda Deconfliction! 💃🎉 (Liz/All)**
 
-- Appeals
-  * [Follow-up to LSR Appeal Response](https://mailarchive.ietf.org/arch/msg/lsr/At4vxTdJHX5vjeZbfKHu4CblhBo/)
-  * [Response to Appeal on GREEN Conflict Review](https://docs.google.com/document/d/1LCoMlbdk_rebaY6OZKKmJuIPXmJ6j5jAxlvIHnDx2YA/edit?tab=t.0)
-  
- - IETF Network  
- - Retreat Location
- - WG scheduling reminder: OPS, RTG, WIT areas are pretty much all in.
-    ART, INT, SEC - we're still missing a few groups
-    - Outstanding question: art/sec/wit dispatches? We have a session request for SECDISPATCH only so far
-    - https://datatracker.ietf.org/meeting/requests
+
 
 
 ### WG News 
