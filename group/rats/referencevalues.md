@@ -146,9 +146,17 @@ In no particular order...
 - What exactly needs to go into I-Ds?
     - Should we enhance [I-D.rats-reference-interaction-models](https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/) to cover endorsement/RV ingestion/distribution conveyance paths? Or is that document already too large? Should it be a specific new I-D for Endorser/RVP models? (Latest rounds of review strongly suggest that the existing I-D should have its scope/title explicitly narrowed to cover Evidence only, in which case the natural next steo would be a separate I-D with similarly-narrowed scope to focus on Endorsement conveyances.
     - Should I-Ds include actual API definitions, eg OpenAPI specifications? No RATS I-D has gone this far to date. However, there is some precedent elsewhere in IETF, eg. [I-D.duffy-csmp](https://www.ietf.org/archive/id/draft-duffy-csmp-01.html).
+      Any "required" API should focus on a minimal surface for the most constrained environments that must depend on it.
+      Higher bandwidth distributors will want the option to provide "the same" capabilities with better quality of service using technologies that are not subject to standards bodies, such as gRPC and its use of protocol buffers, or non-standard publish/subscribe interaction models that differ from OpenAPI webhooks and callbacks.
+      When it comes to information retrieval, GraphQL is a useful query language that can pick out endorsements with certain shared characteristics, but evaluators tend to be customized with added stored functions over time.
+   - Should the endorsement API design focus on syndication and not on being "online" for multiple interactions during an attestation appraisal?
+     Or should it be designed for smaller instances (curated, versioned, follows rollout principles) of the same API to offer a lower latency online interaction with an attestation verifier?
+     In other words, is the Veraison RVPS replaced by the endorsement API or supplementing it as a knowledge base that additional curation policy and human due diligence will then lead to RVPS interactions?
  - How would distribution API endpoints be discovered by the consumer?
     - A-priori knowledge? Documentation produced by supply-chain entities? (This is the case for the AMD and NVIDIA services referenced below).
     - Hints in the Evidence? (EAT tokens can provide hints that reference suitable Verifier endpoints, so could this be extended or appropriated to include endorsement endpoints?)
+    - A `.well-known` file (RFC 8615) for web crawlers to discover?
+      This would be suitable for endpoints that follow a common API specification.
      
 ## Examples of Existing Endorsement Distribution APIs
 There do not appear to be any existing standardisation efforts in flight for endorsement distribution APIs, either in IETF or other communities. However, a number of endorsement distribution endpoints do already exist in the industry, each of which follows its own proprietary scheme. Some examples are given below.
