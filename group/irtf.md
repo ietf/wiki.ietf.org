@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2024-12-30T22:53:32.776Z
+date: 2025-01-30T16:44:28.560Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -34,6 +34,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Thing-to-Thing RG (T2TRG)](https://github.com/t2trg)
  * [Quantum Internet Proposed RG (QIRG)](/group/qirg)
  * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
+ * [ Sustainability and the Internet Proposed Research Group (SUSTAIN)](/group/sustain)
 
 ## Pages for Past Activities 
  * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( )
