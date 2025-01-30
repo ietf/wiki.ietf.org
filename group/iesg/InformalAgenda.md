@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-30T15:53:31.565Z
+date: 2025-01-30T16:22:33.385Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -57,6 +57,10 @@ Note that this page is public.
   
  - IETF Network  
  - Retreat Location
+ - WG scheduling reminder: OPS, RTG, WIT areas are pretty much all in.
+    ART, INT, SEC - we're still missing a few groups
+    - Outstanding question: art/sec/wit dispatches? We have a session request for SECDISPATCH only so far
+    - https://datatracker.ietf.org/meeting/requests
 
 
 ### WG News 
