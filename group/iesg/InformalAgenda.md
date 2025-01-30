@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-30T15:02:08.766Z
+date: 2025-01-30T15:08:25.519Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,6 +54,9 @@ Note that this page is public.
 - Appeals
   * [Follow-up to LSR Appeal Response](https://mailarchive.ietf.org/arch/msg/lsr/At4vxTdJHX5vjeZbfKHu4CblhBo/)
   * [Response to Appeal on GREEN Conflict Review](https://docs.google.com/document/d/1LCoMlbdk_rebaY6OZKKmJuIPXmJ6j5jAxlvIHnDx2YA/edit?tab=t.0)
+  
+ - Retreat Location
+ - IETF Network
 
 ### WG News 
 
