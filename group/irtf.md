@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2025-01-30T16:44:28.560Z
+date: 2025-01-30T16:55:35.739Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -63,6 +63,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [IRSG Teleconference Minutes](/group/irtf/irsgminutes/)
 
  * [What does the IRTF Chair do?](/group/iab/irtf-chair-activities)
+ * [IRTF Document Shepherd Guidelines](/group/irtf/documentshepherdguidelines)
 
 ## Wiki Pages of Concluded Research Groups 
 
