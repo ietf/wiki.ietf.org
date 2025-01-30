@@ -2,7 +2,7 @@
 title: SUSTAIN PRG - Sustainability and the Internet Proposed Research Group
 description: 
 published: true
-date: 2025-01-24T16:45:18.312Z
+date: 2025-01-30T17:30:51.606Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T17:32:33.956Z
@@ -21,7 +21,7 @@ This is meant to make it easier for people to find their way around the IETF reg
 ### Sustainability as the prime goal
 
 - The [Getting Ready for Energy-Efficient Networking (green) WG](https://datatracker.ietf.org/wg/green/about/)
-- The IAB [Environmental Impacts of Internet Technology (eimpact)](https://datatracker.ietf.org/wg/green/about/) program
+- The IAB [Environmental Impacts of Internet Technology (eimpact)](https://datatracker.ietf.org/group/eimpact/about/) program
 
 ### Sustainability as an element (e.g., a use case)
 
