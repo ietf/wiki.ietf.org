@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-22T16:15:51.891Z
+date: 2025-01-31T19:14:19.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-02-05 0700 PST (UTC-8) 
 
-*Agenda as of 2025-01-22. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-01-31. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -28,6 +28,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.1. Attendance 
 
 #### 1.2. Agenda bash and announcements 
+
+* Please fill out the Doodle poll to select retreat dates: 
+    https://doodle.com/meeting/organize/id/e9GAPyPb
+
+* Welcome, new IAB Members!
 
 #### 1.3. Meeting Minutes 
 
@@ -41,7 +46,11 @@ Under review:
 
 Done:
 
+-  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
+    Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
 
+* 2025-01-22: Tommy Pauly to send a response to the liaison from ITU-
+    T FG AINN once Colin Perkins confirms that it is ready to be sent.
     
 On Hold:
 - 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
@@ -58,12 +67,6 @@ In Progress:
 * 2024-12-18: Suresh Krishnan to try and schedule a technical 
     discussion about the Tesla Transport Protocol over Ethernet 
     (TTPoE).
-
--  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
-    Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
-
-* 2025-01-22: Tommy Pauly to send a response to the liaison from ITU-
-    T FG AINN once Colin Perkins confirms that it is ready to be sent.
 
 * 2025-01-22: Suresh Krishnan to draft a wiki page detailing what 
     information the IAB needs from NomCom in order to confirm IESG 
@@ -86,6 +89,12 @@ In Progress:
     IAB AI-CONTROL Workshop Report
     I-D Exists, IAB stream
     IAB Shepherd: Not assigned
+    
+*   **draft-iab-nemops-workshop-report-00**
+    Report from the IAB Workshop on the Next Era of Network Management
+    Operations (NEMOPS)
+    I-D Exists, IAB stream
+    IAB Shepherd: Not assigned
 
 #### 1.6. IAB Review of WG Charters 
 
@@ -93,14 +102,15 @@ In Progress:
   
 * **Digital Emblems (DIEM)**
     Area: INT
-    Draft Charter
-    IESG Telechat: (not on agenda)
+    Internal Review
+    IESG Telechat: 2025-02-06 
     IAB Shepherds: Suresh Krishnan, Mirja Kühlewind
+    IAB Reviewer: Wes Hardaker
     
  * **Heuristics and Algorithms to Prioritize Protocol deploYment (HAPPY)**
     Area: WIT
-    Internal Review
-    IESG Telechat: 2025-01-23
+    External Review 
+    IESG Telechat: 2025-02-06
     IAB Reviewer: Matthew Bocci
 
 *  **Update to IANA Considerations (IANABIS)**
@@ -111,31 +121,53 @@ In Progress:
     
  * **RESTful Provisioning Protocol (RPP)**
     Area: ART
-    Internal Review
-    IESG Telechat: (not on agenda)
+    Internal Review 
+    IESG Telechat: 2025-01-09
     IAB Reviewer: Tommy Pauly
 
 *  **Taking IP To Other Planets (TIPTOP)**
     Area: INT
     External Review
-    IESG Telechat: 2025-01-23
+    IESG Telechat: 2025-02-06
     IAB Reviewer: David Schinazi
 
 
 #### 1.7 IAB Appointments
 
-*  ISOC Board of Trustees - Interviews in Progress
 *  Calendar for 2025-2026 cycle appointments is in progress; next will 
     be CCG in May
 
 
-### 2. 
+### 2. IAB at IETF 122 (All) - 10 mins (Public)
+
+  Goal: Confirm IAB Open co-chair, agenda topics for IAB Open and 
+  business meetings
+
+
+### 3. Bringing atproto to the IETF (Alissa) - 10 mins (Public)
+
+  Goal: Discussion
+
+
+### 4. IAB Meeting Time after IETF 122 (Cindy) 5 mins (Public)
+
+  Goal: Discuss/decide on IAB meeting time after IETF 122.
+
+  Context: https://docs.google.com/presentation/d/18cDdJ1_YuI8UdIo-DjAu4ZklfqrKHTatUD-bYc1s05I/edit?usp=sharing
+
+
+### 5. Next IAB Meeting
+
+  Goal: Does the IAB need to meet on 2025-02-12?
+
+
+### 6. Executive Session: Internet Society BOT Appointment
+
 
 
 
 ## Upcoming Teleconferences 
 
-* 2025-02-05: IAB Business Meeting
 * 2025-02-12: IAB Business Meeting (Reserved)
 * 2025-02-19: IAB Business Meeting
     - Monthly Reports
