@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2024-10-01T15:03:59.089Z
+date: 2025-01-31T16:53:31.190Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -70,6 +70,8 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 [IESG Onboarding and Review](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) slide deck, put together by the Secretariat
 
 [Standing Meetings](/group/iesg/StandingMeetings)
+
+[BOF Coordination Meeting](/group/iesg/bof-coordination-meetings)
 
 ## Useful Mailing Lists or Addresses
 | Email Address or Alias  |	Recipient |
