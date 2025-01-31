@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-01-24T12:17:48.183Z
+date: 2025-01-31T19:08:34.154Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -105,7 +105,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | Submitted to IESG for Publication on 2024-05-22 | Pending on 1 pending DISCUSS confirmation from Mahesh | Julien | Gunter |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | Waiting for AD Go-Ahead::AD Followup (IANA section) | Dhruv | Roman |
-| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 |  On agenda of 2025-02-20 IESG telechat | Andrew | John |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 |  On agenda of 2025-02-20 IESG telechat, OpsDir review comments pending response | Andrew | John |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
