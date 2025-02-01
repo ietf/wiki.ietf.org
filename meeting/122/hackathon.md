@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-01-18T20:21:40.358Z
+date: 2025-02-01T12:51:17.177Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -209,6 +209,43 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - [draft-opsawg-ipfix-on-path-telemetry](https://datatracker.ietf.org/doc/draft-ietf-opsawg-ipfix-on-path-telemetry/)
   - [draft-ahuang-ippm-dex-timestamp-ext](https://datatracker.ietf.org/doc/draft-ahuang-ippm-dex-timestamp-ext/)
   - [draft-spiegel-ippm-ioam-rawexport](https://datatracker.ietf.org/doc/draft-spiegel-ippm-ioam-rawexport/)
+
+---
+
+### Validate Configured Subscription YANG-Push Publisher Implementations
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+Daniel Voyer (danvoyerwork @ gmail.com)
+Holger Keller (holger.keller @ telekom.de)
+Rob Wilton (rwilton @ cisco.com)
+Benoit Claise (benoit.claise@huawei.com)
+Qiufang Ma (maqiufang1 @ huawei.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Samuel Gauthier (samuel.gauthier @ 6wind.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-netana-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-netana-netconf-yp-transport-capabilities
+
+- **Project Info**
+Validates and verify 3 YANG-Push vendor implementations in the area of:
+
+- *Subscription automation*
+Discover YANG-Push systems and notifications capabilities and configure periodical and on-change subscriptions with netconf.
+- *Notification integration*
+Validate subscription state change and push-update and push-change-update notifications for draft-ietf-nmop-yang-message-broker-integration integration.
+- *Configured subscription transport integration*
+Validate draft-ietf-netconf-udp-notif and draft-ietf-netconf-distributed-notif packet format on the wire.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/122/Hackathon
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
