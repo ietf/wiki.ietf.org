@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-02T06:33:22.459Z
+date: 2025-02-02T06:34:37.460Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -247,7 +247,7 @@ Validate draft-ietf-netconf-udp-notif and draft-ietf-netconf-distributed-notif p
 - **Repository**
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/122/Hackathon
 
-```markdown
+
 ### PQC implementation in Open Source Software
 - **Champions**
 Jaykishan Mutkawoa <jay@cyberstorm.mu>
