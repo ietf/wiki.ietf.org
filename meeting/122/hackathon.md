@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-02T06:34:37.460Z
+date: 2025-02-03T08:02:44.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -253,6 +253,9 @@ https://github.com/network-analytics/ietf-network-analytics-document-status/tree
 Jaykishan Mutkawoa <jay@cyberstorm.mu>
 Kavish Nadan <kn@cyberstorm.mu>
 Loganaden Velvindron <logan@cyberstorm.mu>
+Poshan Peeroo 
+Atish Jootun
+
 
 - **Project Info**
 Nmap & wireshark pending PRs for PQC.
