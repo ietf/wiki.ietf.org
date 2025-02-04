@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-01-31T19:14:19.703Z
+date: 2025-02-04T23:06:38.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,9 +28,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.1. Attendance 
 
 #### 1.2. Agenda bash and announcements 
-
-* Please fill out the Doodle poll to select retreat dates: 
-    https://doodle.com/meeting/organize/id/e9GAPyPb
 
 * Welcome, new IAB Members!
 
@@ -156,12 +153,14 @@ In Progress:
   Context: https://docs.google.com/presentation/d/18cDdJ1_YuI8UdIo-DjAu4ZklfqrKHTatUD-bYc1s05I/edit?usp=sharing
 
 
-### 5. Next IAB Meeting
+### 5. Retreat Logistics
+
+### 6. Next IAB Meeting
 
   Goal: Does the IAB need to meet on 2025-02-12?
 
 
-### 6. Executive Session: Internet Society BOT Appointment
+### 7. Executive Session: Internet Society BOT Appointment
 
 
 
