@@ -2,13 +2,13 @@
 title: Breakout122
 description: IAB Breakout Room Reservations at IETF 122
 published: true
-date: 2025-01-10T00:06:18.942Z
+date: 2025-02-05T16:01:06.680Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:06:18.942Z
 ---
 
-**IAB Breakout Room: TBD**
+**IAB Breakout Room: Meeting Room 1**
 
 The IAB breakout room is available for use by IAB members -  schedule a time-slot by editing the wiki below.  
 
