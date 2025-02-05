@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-01-10T00:06:33.924Z
+date: 2025-02-05T18:07:47.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
@@ -26,7 +26,7 @@ Please join us for a quick tour around the conference center. We will end with a
 
 ## Sunday, 2025-03-16
 
-930-1130: Either IESG or IAB Meeting
+0930-1130: Either IESG or IAB Meeting
 
 **1145-1215: IAB/IESG Lunch (Room: TBD)**
 
@@ -42,19 +42,17 @@ Please join us for a quick tour around the conference center. We will end with a
 
 ## Tuesday, 2025-03-18
 
-**0800-0920 Bangkok: IAB Business Meeting (Room:TBD)**
+**0800-0920 Bangkok: IAB Business Meeting (Meeting Room 1)**
 
 
 ## Wednesday, 2025-03-19
-
-**1130-1300 Bangkok: Liaison Coordinator Office Hours (Room: TBD)**
 
 **1700-1900 Bangkok: IETF 121 Plenary (Room: TBD)**
 
 ## Thursday, 2025-03-20
 
-**0800-0920 Bangkok: IAB Business Meeting (Room: TBD)**
-
+**0800-0920 Bangkok: IAB Business Meeting (Meeting Room 1)**
+**1130-1300: Liaison Coordinators + Liaison Managers Meeting (Meeting Room 1)**
 
 ## Friday, 2025-03-21
 
