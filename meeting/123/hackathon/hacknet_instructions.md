@@ -1,8 +1,8 @@
 ---
 title: HackNet Instructions
-description: 
+description: Instructions for how to use Hacknet
 published: true
-date: 2025-02-05T22:51:42.008Z
+date: 2025-02-05T22:52:20.287Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:51:42.008Z
