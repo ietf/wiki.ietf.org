@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-05T22:31:18.050Z
+date: 2025-02-05T22:41:41.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-24T19:41:53.686Z
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * :spiral_calendar: **When**: 15 - 16 March 2025 (Saturday - Sunday)
-* :ireland: **Where**: Marriott Marquis Queen's Park
+* :thailand: **Where**: Marriott Marquis Queen's Park
 * :cityscape: **Room**: Sala Thai Ballroom
 {.grid-list}
 
