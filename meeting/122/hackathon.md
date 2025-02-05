@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-03T08:02:44.812Z
+date: 2025-02-05T22:30:15.671Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 15 - 16 March 2025 (Saturday - Sunday)
 * :ireland: **Where**: Marriott Marquis Queen's Park
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: Sala Thai Ballroom
 {.grid-list}
 
 
@@ -62,13 +62,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 17 March, Time: 19:00 - 20:00, Room: **TBD**
+  * Monday, 17 March, Time: 19:00 - 20:00, Room: 5th floor foyer
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 17 March
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 17 - 21 March, Room: **TBD** 
+  * Monday - Friday, 17 - 21 March, Room: Pavillions 1-2
   * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
