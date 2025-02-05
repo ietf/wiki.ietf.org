@@ -2,14 +2,14 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2024-12-11T23:43:29.501Z
+date: 2025-02-05T20:54:14.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
 ---
 
 # IETF 122 Arrival Coordination
-For ease of taxi-sharing or having companions to take the public transport from the airport to the IETF 121 venue and hotels.
+For ease of taxi-sharing or having companions to take the public transport from the airport to the IETF 122 venue and hotels.
 
 ## Thursday, March 13, 2025
 
