@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-01-30T23:04:49.319Z
+date: 2025-02-05T21:18:04.970Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,6 +44,7 @@ Note that this page is public.
 ### Document Discussions
 
 - [Prioritization on the pre-IETF122 Telechat Load](https://docs.google.com/spreadsheets/d/1RFN7bWnEMuSy8BgkcqrtnnuhpoktMWuozRUZ-5rZApg/edit?gid=0#gid=0) (Roman)
+- [Review Documents with long-held DISCUSS position](https://datatracker.ietf.org/iesg/discusses/) (Roman)
 
 ### Management Issues
 
