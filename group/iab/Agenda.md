@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-05T14:18:14.285Z
+date: 2025-02-05T14:19:56.443Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -141,23 +141,22 @@ In Progress:
   business meetings
 
 
-### 3. Bringing atproto to the IETF (Alissa) - 10 mins (Public)
-
-  Goal: Discussion
-
-
-### 4. IAB Meeting Time after IETF 122 (Cindy) 5 mins (Public)
+### 3. IAB Meeting Time after IETF 122 (Cindy) 5 mins (Public)
 
   Goal: Discuss/decide on IAB meeting time after IETF 122.
 
   Context: https://docs.google.com/presentation/d/18cDdJ1_YuI8UdIo-DjAu4ZklfqrKHTatUD-bYc1s05I/edit?usp=sharing
 
 
-### 5. Retreat Logistics
+### 4. Retreat Logistics
 
-### 6. Next IAB Meeting
+### 5. Next IAB Meeting
 
   Goal: Does the IAB need to meet on 2025-02-12?
+
+### 6. Bringing atproto to the IETF (Alissa) - 10 mins (Public)
+
+  Goal: Discussion
 
 
 ### 7. Executive Session: Internet Society BOT Appointment
