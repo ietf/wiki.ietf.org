@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-05T14:19:56.443Z
+date: 2025-02-05T16:36:52.885Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2025-02-05 0700 PST (UTC-8) 
+## IAB Agenda: 2025-02-19 0700 PST (UTC-8) 
 
-*Agenda as of 2025-01-31. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-02-05. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,13 +29,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-* Welcome, new IAB Members!
-
 #### 1.3. Meeting Minutes 
 
 For approval: 
 
-* 2025-01-22 business meeting - (submitted 2025-01-22)
+* 2025-02-05 business meeting - (submitted 2025-02-05)
 
 Under review:
 
@@ -43,31 +41,36 @@ Under review:
 
 Done:
 
--  2025-01-08: Matthew Bocci, Dhruv Dhody, Suresh Krishnan, Tommy 
-    Pauly, and Alvaro Retana to interview the ISOC BoT candidates.
-
-* 2025-01-22: Tommy Pauly to send a response to the liaison from ITU-
-    T FG AINN once Colin Perkins confirms that it is ready to be sent.
     
 On Hold:
+
+* 2024-12-18: Suresh Krishnan to try and schedule a technical 
+    discussion about the Tesla Transport Protocol over Ethernet 
+    (TTPoE).
 - 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
     review of proposed WG charters to the Datatracker.
     - See https://github.com/ietf-tools/datatracker/issues/5849
 
 In Progress: 
-* 2024-06-25: Suresh Krishnan to draft a document obsoleting RFC 3113 
-    (Update RFC3113 to in only high level details of the collaboration 
-    (3GPP-IETF co-ordination team) and move the details to a Wiki. 
-    Remove references to technology and organizational structure items 
-    that will become out of date quickly.
-    
-* 2024-12-18: Suresh Krishnan to try and schedule a technical 
-    discussion about the Tesla Transport Protocol over Ethernet 
-    (TTPoE).
 
 * 2025-01-22: Suresh Krishnan to draft a wiki page detailing what 
     information the IAB needs from NomCom in order to confirm IESG 
     candidates.
+
+* 2025-02-05: Cindy Morgan to add Alvaro Retana as a co-chair for IAB 
+    Open.
+
+* 2025-02-05: Liz Flynn to update the IAB Open meeting request at 
+    IETF 122 to have two one-hour sessions.
+
+* 2025-02-05: Cindy Morgan to update the IAB calendar to add meetings 
+    at 0600 PT between IETF 122 and IETF 124.
+
+* 2025-02-05: Cindy Morgan to follow up with the IESG about retreat 
+    timing.
+
+* 2025-02-05: Cindy Morgan to send an e-vote to finish the ISOC BoT 
+    selection.
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -93,9 +96,9 @@ In Progress:
     I-D Exists, IAB stream
     IAB Shepherd: Not assigned
 
-#### 1.6. IAB Review of WG Charters 
+#### 1.6. IAB Review of WG Charters - No updates this week
 
- Datatracker: https://datatracker.ietf.org/group/chartering/	
+ Datatracker: https://datatracker.ietf.org/group/chartering/
   
 * **Digital Emblems (DIEM)**
     Area: INT
@@ -135,41 +138,16 @@ In Progress:
     be CCG in May
 
 
-### 2. IAB at IETF 122 (All) - 10 mins (Public)
-
-  Goal: Confirm IAB Open co-chair, agenda topics for IAB Open and 
-  business meetings
-
-
-### 3. IAB Meeting Time after IETF 122 (Cindy) 5 mins (Public)
-
-  Goal: Discuss/decide on IAB meeting time after IETF 122.
-
-  Context: https://docs.google.com/presentation/d/18cDdJ1_YuI8UdIo-DjAu4ZklfqrKHTatUD-bYc1s05I/edit?usp=sharing
-
-
-### 4. Retreat Logistics
-
-### 5. Next IAB Meeting
-
-  Goal: Does the IAB need to meet on 2025-02-12?
-
-### 6. Bringing atproto to the IETF (Alissa) - 10 mins (Public)
-
-  Goal: Discussion
-
-
-### 7. Executive Session: Internet Society BOT Appointment
+### 2. 
 
 
 
 
 ## Upcoming Teleconferences 
-
-* 2025-02-12: IAB Business Meeting (Reserved)
 * 2025-02-19: IAB Business Meeting
     - Monthly Reports
-* 2024-02-26: IAB Technical Discussion (Reserved)
+* 2024-02-26: IAB Technical Discussion
+    - IAB Onboarding and Review (Cindy)
 * 2025-03-05: IAB Business Meeting
 
 
