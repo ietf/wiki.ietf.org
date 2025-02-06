@@ -2,14 +2,14 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2025-02-06T11:42:30.504Z
+date: 2025-02-06T12:02:06.803Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:42:30.504Z
 ---
 
 # Hackdemo Happy Hour
-Monday, 17 March, Time: TBD, Room: TBD
+Monday, 17 March, Time: 19:00 - 20:00, Room: 5th floor foyer
 
 Join us for an in depth look at some of the great projects from the IETF Hackathon. This is your opportunity to meet with the teams behind the projects and get answers to any and all of the questions you may have about what they did, how they did it, and the impact it has on work going on at the IETF. 
 
