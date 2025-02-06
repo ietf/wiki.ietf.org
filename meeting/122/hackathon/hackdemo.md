@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2025-02-06T12:02:06.803Z
+date: 2025-02-06T12:02:15.625Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:42:30.504Z
