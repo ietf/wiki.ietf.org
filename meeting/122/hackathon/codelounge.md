@@ -2,14 +2,14 @@
 title: Code Lounge
 description: Schedule for Code Lounge
 published: true
-date: 2025-02-06T11:44:57.681Z
+date: 2025-02-06T12:02:58.934Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:44:57.681Z
 ---
 
 # Code Lounge
-Monday - Friday, 17 - 21 March, Room: TBD
+Monday - Friday, 17 - 21 March, Room: Pavillions 1-2
 
 The Code Lounge provides a space for groups to informally meet to brainstorm, code, and test ideas. The area will be designated by signage. 
 
