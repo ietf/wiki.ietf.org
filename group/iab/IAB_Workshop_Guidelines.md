@@ -1,33 +1,14 @@
 ---
-title: soeng.ll060@gmail.com
-description: soenaing
+title: IAB Workshop Guidelines
+description: 
 published: true
-date: 2025-01-19T18:33:40.993Z
-tags: soenaing
+date: 2025-02-06T21:04:16.880Z
+tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:47:25.471Z
 ---
 
-> - [LICENSE](/LICENSE)![ietf-logo-reversed-square-300dpi-transparent-background.png](/ietf-logo-reversed-square-300dpi-transparent-background.png){.align-right}- [home](/home)# IAB Workshop Guidelines```diagram
-{.is-success}
-> 
-{.is-success}
-1. > 
-{.is-success}
-> 
-{.is-danger}
-> 
-{.is-success}
-> 
-{.is-success}
-
-{.is-success}
-> 
-{.is-success}
-
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMXB4IiBoZWlnaHQ9IjFweCIgdmlld0JveD0iLTAuNSAtMC41IDEgMSIgY29udGVudD0iJmx0O214ZmlsZSBob3N0PSZxdW90O2VtYmVkLmRpYWdyYW1zLm5ldCZxdW90OyBhZ2VudD0mcXVvdDtNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IEspIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzIuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYmcXVvdDsgdmVyc2lvbj0mcXVvdDsyNi4wLjYmcXVvdDsmZ3Q7Jmx0O2RpYWdyYW0gaWQ9JnF1b3Q7V2gwVEQtNEI0WXUzWnhFM21aZzcmcXVvdDsgbmFtZT0mcXVvdDtQYWdlLTEmcXVvdDsmZ3Q7ZFpIQkRvSXdESWFmWm5kWUU5UXpvbDQ4Y2ZDOHNNcVdERXJHRE9qVEN4a1RGL1N5OVAvNnQ5MDZCbmt6bnEzbzFKVWtHc1lUT1RJNE1zNEJwbVBXVDYrenhPdmFhdWxKdW9KU3YzQ0J3ZmJRRXZ2STZJaU0wMTBNSzJwYnJGekVoTFUweExZN21YaHFKMnJjZ0xJU1prdHZXanJsNlo3dlZuNUJYYXN3T2MwT1B0T0lZRjVlMGlzaGFmaENVRERJTFpIelVUUG1hT2JOaGIzNHV0T2Y3T2RpRmx2M28yQUsxdDZUaUw0SGlqYz0mbHQ7L2RpYWdyYW0mZ3Q7Jmx0Oy9teGZpbGUmZ3Q7Ij48ZGVmcy8+PGc+PGcgZGF0YS1jZWxsLWlkPSIwIj48ZyBkYXRhLWNlbGwtaWQ9IjEiLz48L2c+PC9nPjwvc3ZnPg==
-```
-
+# IAB Workshop Guidelines
 
 ## Considerations for IAB Workshops
 
