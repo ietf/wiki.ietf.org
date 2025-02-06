@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-02-06T17:00:10.110Z
+date: 2025-02-06T17:00:44.440Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -12,7 +12,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 ##  IESG Retreat for Spring 2025 
 [Information](https://docs.google.com/document/d/1qhVhBBAbjujyjSZygTPeqWOs6Vg1zU-DLVTVodV7bDw/edit?usp=sharing) for anyone considering hosting the retreat. 
 
-### June XX, 2025 
+### June 16-19, 2025 
 
 
 
