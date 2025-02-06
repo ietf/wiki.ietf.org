@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-05T22:49:55.329Z
+date: 2025-02-06T12:09:36.185Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -164,6 +164,12 @@ The Hackathon kickoff and the project results presentations can be joined via Me
 All Hackathon participants are free to work on any code. The rules regarding that code are what each open source project and each participant's organization says they are. The code itself is not an IETF Contribution. However, discussions, presentations, demos, etc., during the Hackathon are IETF Contributions (similar to Contributions made in working group meetings). Thus, the usual IETF policies apply to these Contributions, including copyright, license, and IPR disclosure rules. 
 
 -------
+
+## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
+
+* Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+
+---
 
 ### Formal Analysis of Attested TLS for Confidential Computing
 - **Champions**
