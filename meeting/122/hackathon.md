@@ -270,6 +270,21 @@ zmap pending PRs for PQC.
 GnuTLS pending PRs.
 
 ----
+
+### Identifier Locator Network Protocol (ILNP)
+
+- **Champions**
+  - Saleem Bhatti saleem@st-andrews.ac.uk
+  - Rodney Grimes rgrimes@freebsd.org
+  - Alistair Woodman awoodman@netdef.org
+
+- **Project Info**
+  - https://ilnp.cs.st-andrews.ac.uk
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
+
+----
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
