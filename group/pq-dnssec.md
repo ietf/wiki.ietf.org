@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2024-11-07T15:06:44.816Z
+date: 2025-02-10T15:18:46.609Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -13,10 +13,19 @@ This wiki page is designated to collecting information relevant to the non-wg ma
 Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
 
+# IETF 122 Side Meeting
+[Timeslot tbd]
+
+Meeting notes are available [tbd].
+
+## Agenda (work-in-progress)
+- 5' Note Well / Agenda Bashing ([Slides])
+- 15'+q Verisign: MTL Mode Update ([Slides])
+- 15'+q Minh Hoang Tran (Virginia Tech): Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes ([Slides])
+- AOB
+
 # IETF 121 Side Meeting
 Thursday, Nov 7, 2024 10:00-11:30 UTC ([information about room and online participation](https://wiki.ietf.org/en/meeting/121/sidemeetings#meeting-thursday))
-
-## Meeting notes
 
 Meeting notes are available [here](https://wiki.ietf.org/en/group/pq-dnssec/ietf-121-meeting-notes).
 
