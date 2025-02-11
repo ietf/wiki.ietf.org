@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="536" viewBox="0 0 536 432" version="1.1" text-anchor="middle" height="432" font-size="13px" font-family="monospace" class="diagram">
+              <path stroke="black" fill="none" d="M 8,32 L 8,64"></path>
+              <path stroke="black" fill="none" d="M 48,64 L 48,80"></path>
+              <path stroke="black" fill="none" d="M 48,144 L 48,208"></path>
+              <path stroke="black" fill="none" d="M 48,240 L 48,368"></path>
+              <path stroke="black" fill="none" d="M 48,400 L 48,416"></path>
+              <path stroke="black" fill="none" d="M 96,32 L 96,64"></path>
+              <path stroke="black" fill="none" d="M 176,32 L 176,64"></path>
+              <path stroke="black" fill="none" d="M 240,64 L 240,112"></path>
+              <path stroke="black" fill="none" d="M 240,144 L 240,176"></path>
+              <path stroke="black" fill="none" d="M 240,208 L 240,272"></path>
+              <path stroke="black" fill="none" d="M 240,304 L 240,336"></path>
+              <path stroke="black" fill="none" d="M 304,32 L 304,64"></path>
+              <path stroke="black" fill="none" d="M 440,32 L 440,64"></path>
+              <path stroke="black" fill="none" d="M 480,64 L 480,112"></path>
+              <path stroke="black" fill="none" d="M 480,176 L 480,304"></path>
+              <path stroke="black" fill="none" d="M 480,336 L 480,368"></path>
+              <path stroke="black" fill="none" d="M 480,400 L 480,416"></path>
+              <path stroke="black" fill="none" d="M 528,32 L 528,64"></path>
+              <path stroke="black" fill="none" d="M 8,32 L 96,32"></path>
+              <path stroke="black" fill="none" d="M 176,32 L 304,32"></path>
+              <path stroke="black" fill="none" d="M 440,32 L 528,32"></path>
+              <path stroke="black" fill="none" d="M 8,64 L 96,64"></path>
+              <path stroke="black" fill="none" d="M 176,64 L 304,64"></path>
+              <path stroke="black" fill="none" d="M 440,64 L 528,64"></path>
+              <path stroke="black" fill="none" d="M 248,160 L 304,160"></path>
+              <path stroke="black" fill="none" d="M 352,160 L 432,160"></path>
+              <path stroke="black" fill="none" d="M 56,192 L 80,192"></path>
+              <path stroke="black" fill="none" d="M 128,192 L 208,192"></path>
+              <path stroke="black" fill="none" d="M 48,256 L 80,256"></path>
+              <path stroke="black" fill="none" d="M 208,256 L 232,256"></path>
+              <path stroke="black" fill="none" d="M 304,288 L 320,288"></path>
+              <path stroke="black" fill="none" d="M 448,288 L 472,288"></path>
+              <path stroke="black" fill="none" d="M 288,352 L 312,352"></path>
+              <path stroke="black" fill="none" d="M 464,352 L 480,352"></path>
+              <polygon transform="rotate(0,472,288)" points="480,288 468,282.4 468,293.6" fill="black" class="arrowhead"></polygon>
+              <polygon transform="rotate(180,288,352)" points="296,352 284,346.4 284,357.6" fill="black" class="arrowhead"></polygon>
+              <polygon transform="rotate(180,248,160)" points="256,160 244,154.4 244,165.6" fill="black" class="arrowhead"></polygon>
+              <polygon transform="rotate(0,232,256)" points="240,256 228,250.4 228,261.6" fill="black" class="arrowhead"></polygon>
+              <polygon transform="rotate(180,56,192)" points="64,192 52,186.4 52,197.6" fill="black" class="arrowhead"></polygon>
+              <g class="text">
+                <text y="52" x="52">Attester</text>
+                <text y="52" x="216">Relying</text>
+                <text y="52" x="272">Party</text>
+                <text y="52" x="484">Verifier</text>
+                <text y="100" x="60">time(VG_a)</text>
+                <text y="116" x="48">|</text>
+                <text y="132" x="48">~</text>
+                <text y="132" x="240">~</text>
+                <text y="132" x="480">~</text>
+                <text y="148" x="480">|</text>
+                <text y="164" x="328">Nonce</text>
+                <text y="164" x="476">time(NS_v)</text>
+                <text y="196" x="104">Nonce</text>
+                <text y="196" x="252">time(NR_r)</text>
+                <text y="228" x="60">time(EG_a)</text>
+                <text y="260" x="144">Evidence{Nonce}</text>
+                <text y="292" x="252">time(ER_r)</text>
+                <text y="292" x="384">Evidence{Nonce}</text>
+                <text y="324" x="492">time(RG_v)</text>
+                <text y="356" x="240">ime(RA_r)</text>
+                <text y="356" x="360">Attestation</text>
+                <text y="356" x="436">Result</text>
+                <text y="372" x="240">|</text>
+                <text y="372" x="368">{time(RX_v)-time(RG_v)}</text>
+                <text y="388" x="48">~</text>
+                <text y="388" x="240">~</text>
+                <text y="388" x="480">~</text>
+                <text y="404" x="240">|</text>
+                <text y="420" x="252">time(OP_r)</text>
+              </g>
+            </svg>
