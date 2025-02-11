@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-01-29T16:08:15.641Z
+date: 2025-02-11T13:56:21.005Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -124,6 +124,7 @@ As part of the requirements gathering exercise for a distribution API, below are
 - Efficient use of the transport - allowing the consumer to cache data locally, and/or query for deltas between previously-cached data and the current data.
 - Flexible interaction design (also related to caching/deltas above). There could be one interaction model that is essentially just a `GET` method, but we could also consider a publish-subscribe pattern.
 - Reuse, where possible, of existing RATS designs, e.g.: [EAT](https://datatracker.ietf.org/doc/draft-ietf-rats-eat/), [CoRIM](https://datatracker.ietf.org/doc/draft-ietf-rats-corim/), [CMW](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/), [EAT measured component](https://datatracker.ietf.org/doc/draft-ietf-rats-eat-measured-component/), [Epoch Markers](https://datatracker.ietf.org/doc/draft-ietf-rats-epoch-markers/).
+- Should support clients with limited processing capability, where the burden of format translation can be shouldered by the server/producer, and handed to the client/consumer in a convenient format without additional client-side processing. Some sort of data type negotiation pattern may be needed.
 
 ## PoC With Veraison Components
 (Possibly migrate this section elsewhere because it's quite implementation-specific).
