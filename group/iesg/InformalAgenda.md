@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-05T21:18:04.970Z
+date: 2025-02-12T22:21:47.170Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,7 @@ Note that this page is public.
 ### Management Issues
 
 - **IETF 122 Agenda Deconfliction! 💃🎉 (Liz/All)**
+- Confirmation of IAB-selected ISOC Board of Trustees candidate (Roman)
 
 
 
