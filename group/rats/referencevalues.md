@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-02-12T10:17:38.191Z
+date: 2025-02-12T10:19:00.411Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -168,4 +168,4 @@ There do not appear to be any existing standardisation efforts in flight for end
 ## Documents in Other Standards Development Organisations
 
 - TCG DICE [Endorsement Architecture for Devices](https://trustedcomputinggroup.org/wp-content/uploads/TCG-Endorsement-Architecture-for-Devices-V1-R38_pub.pdf)
-- [DMTF Common Information Model (CIM)][https://www.dmtf.org/standards/cim] - A common data model for systems inventory, including hardware/firmware/software elements.
+- [DMTF Common Information Model (CIM)](https://www.dmtf.org/standards/cim) - A common data model for systems inventory, including hardware/firmware/software elements.
