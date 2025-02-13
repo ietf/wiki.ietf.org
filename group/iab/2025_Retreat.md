@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-01-15T21:01:13.993Z
+date: 2025-02-13T16:46:42.599Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -10,20 +10,26 @@ dateCreated: 2025-01-09T23:58:21.217Z
 
 # 2025 Retreat
 
-## Location, Date
+## 16-18 June 2025, Toronto
 
 
 
 ## Venue
 
-
+Cisco
+RBC WaterPark Place
+88 Queens Quay W #2900, 
+Toronto, ON M5J 0B8, Canada
+Banff Room, 29th floor
 
 ## Agenda
 
-### Day 1 
+### Monday, 16 June 2025 (IAB Only)
 
 
-### Day 2
+### Tuesday, 17 June 2025 (AM IAB Only, PM Joint IAB/IESG)
+
+### Wednesday, 18 June 2025 (AM Joint IAB/IESG)
 
 
 
