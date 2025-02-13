@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-13T14:57:53.942Z
+date: 2025-02-13T16:32:31.532Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - February 13, 2025
+# Informal Telechat - February 27, 2025
 
 There **WILL** be a meeting on this date.
 
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-David Schinazi
+
 
 ## Agenda
 
@@ -48,8 +48,6 @@ Note that this page is public.
 
 ### Management Issues
 
-- **IETF 122 Agenda Deconfliction! 💃🎉 (Liz/All)**
-- Confirmation of IAB-selected ISOC Board of Trustees candidate (Roman)
 
 
 
