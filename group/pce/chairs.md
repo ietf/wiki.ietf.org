@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-01-04T11:17:41.890Z
+date: 2025-02-13T09:59:26.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -17,17 +17,20 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| WG Adoption | draft-ietf-pce-state-sync | Dhruv | - |
+| Shephered Review and Writeup| draft-ietf-pce-sid-algo | Dhruv | - |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
 
 ## AD Tracker
-|Item|Document|Remarks|
-|---|---|---|
-|AD Review|draft-ietf-pce-pcep-color|Submitted on 2024-11-25|
-|Approved-announcement to be sent::AD Followup|draft-ietf-pce-stateful-pce-optional|Submitted on 2024-04-16|
-|Discuss|draft-ietf-pce-pcep-yang|Submitted on 2024-05-22|
-|Pending on Authors|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
+|AD|Item|Document|Remarks|
+|---|---|---|---|
+|John|IESG Telechat|draft-ietf-pce-pcep-color|Submitted on 2024-11-25|
+|Roman|IESG Telechat|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
+
+Some concerns: 
+- Not many responses 
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
