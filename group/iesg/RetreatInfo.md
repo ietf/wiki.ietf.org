@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-02-06T17:00:44.440Z
+date: 2025-02-13T16:57:57.062Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -23,7 +23,11 @@ See daily agenda for link
 ### Location 
 
 
-**TBD:**
+Cisco
+RBC WaterPark Place
+88 Queens Quay W #2900,
+Toronto, ON M5J 0B8, Canada
+Banff Room, 29th floor
 
 
 ### Coffee
