@@ -2,7 +2,7 @@
 title: SUSTAIN PRG - Sustainability and the Internet Proposed Research Group
 description: 
 published: true
-date: 2025-02-14T04:14:11.438Z
+date: 2025-02-14T04:15:22.642Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T17:32:33.956Z
@@ -48,6 +48,6 @@ This is meant to make it easier for people to find their way around the IETF reg
 
 - In December 2022, the [IAB workshop on Environmental Impact of Internet Applications and Systems (eimpactws)](https://datatracker.ietf.org/group/eimpactws/about/) was held.
 
-### Tombstoned Internet-drafts
+### Relevant Internet-drafts
 
 - An Overview of Energy-related Effort within the IETF: [draft-eckert-ietf-and-energy-overview-07](https://datatracker.ietf.org/doc/draft-eckert-ietf-and-energy-overview/)
