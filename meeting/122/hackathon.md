@@ -285,6 +285,22 @@ GnuTLS pending PRs.
 
 ----
 
+### Verifiable Routing Origins via AS Cooperations (VRO)
+- **Champions**
+  - Qi Li liq23@mail.zgclab.edu.cn (Remote)
+  - Shenglin Jiang jiangshl@zgclab.edu.cn (Onsite)
+  - Ke Xu xuke@csnet1.cs.tsinghua.edu.cn
+  - Zhuotao Liu zhuotaoliu@tsinghua.edu.cn
+  - Li Qi qli01@tsinghua.edu.cn
+- **Project Info**
+  The Internet faces significant challenges related to legitimate MOAS (Multiple-Origin Autonomous System) conflicts and route origin hijacking, which often exhibit similar patterns. [VRO](https://github.com/VRO-Project/VRO-Project) addresses these issues through a decentralized cooperative system among ASes (Autonomous Systems) to enhance routing security.
+  
+- **Related documents**
+  - [draft-jiang-sidrops-psvro](https://datatracker.ietf.org/doc/draft-jiang-sidrops-psvro/)
+  - [draft-li-sidrops-rpki-moasgroup](https://datatracker.ietf.org/doc/draft-li-sidrops-rpki-moasgroup/)
+
+----
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
