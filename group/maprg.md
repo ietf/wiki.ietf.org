@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-02-14T14:10:01.792Z
+date: 2025-02-14T15:13:10.690Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -239,10 +239,10 @@ Membership in the MAPRG is open to all interested parties.
 - [All meetings since (via IETF datatracker)](https://datatracker.ietf.org/rg/maprg/meetings/)
 - [Sixth Meeting, IETF 100](https://datatracker.ietf.org/meeting/100/proceedings#maprg)
 - [Fifth Meeting, IETF 99](https://datatracker.ietf.org/meeting/99/proceedings#maprg)
-- [Fourth Meeting, IETF 98](https://www.ietf.org/proceedings/98/maprg)
-- [Third Meeting, IETF 97](https://www.ietf.org/proceedings/97/maprg) (first meeting as a chartered Research Group)
-- ["Second" Meeting, IETF 96 (as a Proposed Research Group)](https://www.ietf.org/proceedings/96/maprg)
-- ["First" Meeting, IETF 95 (as a Proposed Research Group)](https://www.ietf.org/proceedings/95/maprg)
+- [Fourth Meeting, IETF 98](https://datatracker.ietf.org/meeting/98/proceedings#maprg)
+- [Third Meeting, IETF 97](https://datatracker.ietf.org/meeting/97/proceedings#maprg) (first meeting as a chartered Research Group)
+- ["Second" Meeting, IETF 96 (as a Proposed Research Group)](https://www.ietf.org/proceedings/96/maprg.html)
+- ["First" Meeting, IETF 95 (as a Proposed Research Group)](https://www.ietf.org/proceedings/95/maprg.html)
 
 Two previous meeting of the Proposed How Ossified is the Protocol Stack? Research Group (hopsrg) were held:
 
