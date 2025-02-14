@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-02-13T20:31:27.279Z
+date: 2025-02-14T06:24:31.920Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -39,13 +39,13 @@ Banff Room, 29th floor
 
 #### Topics
 
-
-
+- Next retreat in Asia (Qin/Dhruv)
 
 
 ## Proposed Agenda Topics
 
 - Architecture for Zero-Trust Networks (Cullen; see notes from 2025-01-08)
+- Outreach Planning (Dhruv)
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
