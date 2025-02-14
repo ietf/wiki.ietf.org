@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-02-14T15:13:10.690Z
+date: 2025-02-14T15:14:42.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -246,8 +246,8 @@ Membership in the MAPRG is open to all interested parties.
 
 Two previous meeting of the Proposed How Ossified is the Protocol Stack? Research Group (hopsrg) were held:
 
-- [hopsrg at IETF 94](/group/maprg)https://www.ietf.org/proceedings/94/hopsrg.html)
-- [hopsrg at IETF 93](/group/maprg)https://www.ietf.org/proceedings/93/hopsrg.html)
+- [hopsrg at IETF 94](https://www.ietf.org/proceedings/94/hopsrg.html)
+- [hopsrg at IETF 93](https://www.ietf.org/proceedings/93/hopsrg.html)
 ## Current Chairs <maprg-chairs@…>
 - Dave Plonka <dave@…>
 - Mirja Kühlewind <mirja.kuehlewind@…>
