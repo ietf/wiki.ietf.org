@@ -301,6 +301,22 @@ GnuTLS pending PRs.
 
 ----
 
+### Enhancing Inter-domain routing security with Forwarding Commitment-based BGP (FC-BGP)
+- **Champions**
+    - Yangfei Guo <guoyangfei@zgclab.edu.cn>
+- **Project Info**
+    - FC-BGP is a secure framework of inter-domain routing and forwarding security.
+    - The current goal of FC-BGP is to authenticate the AS_PATH attribute in the BGP UPDATE message.
+    - The final goal of FC-BGP is to build a secure inter-domain system that can simultaneously authenticate BGP route propagation in the control plane, validate network forwarding in the data plane, and secure both routing and forwarding.
+- **Specification**:
+  - [FC-BGP Protocol Specification: draft-wang-sidrops-fcbgp-protocol](https://datatracker.ietf.org/doc/draft-wang-sidrops-fcbgp-protocol/)
+  - [Framework of Forwarding Commitment BGP: draft-wang-idr-frameworkoffcbgp](https://datatracker.ietf.org/doc/draft-wang-idr-frameworkoffcbgp/)
+  - [Secure Inter-domain Routing and Forwarding via Verifiable Forwarding Commitments](https://arxiv.org/abs/2309.13271)
+- **Codebase**:
+  - [Github Repo: https://github.com/FCBGP/fcbgp-implementation](https://github.com/FCBGP/fcbgp-implementation)
+
+----
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
