@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-02-14T14:00:48.351Z
+date: 2025-02-14T14:10:01.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -24,7 +24,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 - Do CAA, CT, and DANE Interlink in Certificate Deployments? [YouTube](https://youtu.be/rFAD1j70WoQ?t=43m) [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-maprg-do-caa-ct-and-dane-interlink-in-certificate-deployments), Pouyan Fotouhi Tehrani, November 2024
 - Destination Reachable: What ICMPv6 Error Messages Reveal About Their Sources [YouTube](https://youtu.be/rFAD1j70WoQ?t=1h13m10s) [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-maprg-destination-reachable-what-icmpv6-error-messages-reveal-about-their-sources), Johanna Ullrich, November 2024
 - Seeds of Scanning: Exploring the Effects of Datasets, Methods, and Metrics on IPv6 Internet Scanning [YouTube](https://youtu.be/rFAD1j70WoQ?t=1h31m30s) [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-maprg-seeds-of-scanning-understanding-the-effects-of-datasets-methods-and-metrics-on-ipv6-address-discovery), Grant Williams, November 2024
-- IoT Bricks Over v6: Understanding IPv6 Usage in Smart Homes [YouTube](https://youtu.be/rFAD1j70WoQ?t=1h48m30s) [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-maprg-iot-bricks-over-v6), Author(s), November 2024
+- IoT Bricks Over v6: Understanding IPv6 Usage in Smart Homes [YouTube](https://youtu.be/rFAD1j70WoQ?t=1h48m30s) [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-maprg-iot-bricks-over-v6), Tianrui Hu, November 2024
 
 ### July 2024 (Vancouver) [YouTube](https://youtu.be/pzXLJe6QOc4?t=16s) [intro slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-intro-mirjadave)
 
