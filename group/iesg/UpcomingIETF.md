@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-02-05T13:29:54.509Z
+date: 2025-02-16T09:41:17.824Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -133,6 +133,7 @@ Location: TBD
 
 ## Wednesday, 19 March 2025
 
+* 1630 - 1700 -- Let's relax before plenary (Éric V)
 * TIME - TIME -- Thing (Person responsible)
 
 
