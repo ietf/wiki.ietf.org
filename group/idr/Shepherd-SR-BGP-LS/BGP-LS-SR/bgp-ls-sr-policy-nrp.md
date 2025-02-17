@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Review of bgp-ls-sr-policy-nrp
 published: true
-date: 2025-02-17T17:17:11.528Z
+date: 2025-02-17T18:54:22.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T17:17:11.528Z
@@ -35,3 +35,17 @@ new text:/ On the other hand, the increase in state when NRP increases will
            cause an increate in the state reported on the head node.  
 		   Due to this fact, the impact to the BGP control plan is considered
 		   acceptable./ 
+       
+       
+ Editorial: 
+ 1. Abstract,, paragraph 2, sentences 2. 
+
+Old text:/ The association between SR Policy and NRP policy needs to be 
+specified so that for service traffic which is steered into the SR Policy, 
+the header of the packets can be augmented with information associated with 
+the NRP./
+
+Old text:/ The association between SR Policy and NRP policy needs to be 
+specified so that for service traffic which is steered into the SR Policy, 
+the header of the packets can be augmented with information associated with 
+the NRP./
