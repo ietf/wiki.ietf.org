@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-06T12:11:54.158Z
+date: 2025-02-17T22:36:19.903Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -314,6 +314,29 @@ GnuTLS pending PRs.
   - [Secure Inter-domain Routing and Forwarding via Verifiable Forwarding Commitments](https://arxiv.org/abs/2309.13271)
 - **Codebase**:
   - [Github Repo: https://github.com/FCBGP/fcbgp-implementation](https://github.com/FCBGP/fcbgp-implementation)
+
+----
+
+### On the Use of YANG Provenance Signatures 
+- **Champion(s)**
+Diego Lopez, diego.r.lopez@telefonica.com
+Ignacio Dominguez, ignacio.dominguezmartinez@telefonica.com
+
+- **Reference Specification**
+https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/
+
+- **Project Info**
+	- The YANG provenance development team is working on a set of microservice to demonstrate the proposal and explore its integration with otrher YANG solutions.
+
+	- These microservices provide interfaces for the generation and verification of provenance signatures using XML and JSON serialization in the four *enclosing methods* described in the reference draft:
+
+		- Provenance leaf in a YANG element
+
+		- Provenance signature in NETCONF event notifications and YANG-Push notifications
+
+		- Provenance as metadata in YANG instance data
+
+		- Provenance in YANG Annotations
 
 ----
 
