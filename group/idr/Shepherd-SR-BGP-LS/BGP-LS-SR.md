@@ -2,7 +2,7 @@
 title: IDR WG Status for BGP-LS drafts that pass SR 
 description: IDR WG status for BGP-LS for SR 
 published: true
-date: 2024-11-14T22:42:46.709Z
+date: 2025-02-17T16:34:51.790Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:50:47.064Z
@@ -16,10 +16,17 @@ dateCreated: 2024-11-14T20:50:47.064Z
 |  [draft-ietf-idr-bgpls-srv6-ext](https://datatracker.ietf.org/rfc9514/)  |  Susan Hares  |   [RFC9514](https://datatracker.ietf.org/rfc9514/)  | Published |  Dec-05-2023 | Nov-17-2020  |  Feb-17-2023    |  643 days  | 1113 days| 
 {.dense}
 
-## Drafts in WG LC 
+## Drafts at IESG 
 | draft  | Shepherd  |   status  |  Next step  |  Implementations | WG LC |  Time  |  ETA  |  Shepherd Review  |  
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp=ls-sr-policy](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | WG LC | -07 | TBD | 2 | TBD | TBD | TBD | [06 and 07](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | 
+| [draft-ietf-idr-bgp-ls-sr-policy](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | WG LC | -07 | TBD | 2 | TBD | TBD | TBD | [06 and 07](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy) | 
+{.dense}
+
+## Pending WG LC 
+| draft  | Shepherd  |   status  |  Next step  |  Implementations | WG LC |  Time  |  ETA  |  Shepherd Review  |  
+|---|---|---|---|---|---|---|---|---|
+none 
+{.dense}
 
 ## WG drafts for BGP-LS for SR
 | draft  | Type |  Shepherd  |   status  |  Next step  | Implementation |   Shepherd Review  |  
