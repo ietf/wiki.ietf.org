@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-05T16:36:52.885Z
+date: 2025-02-18T18:48:38.786Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-02-19 0700 PST (UTC-8) 
 
-*Agenda as of 2025-02-05. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-02-18. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -41,6 +41,20 @@ Under review:
 
 Done:
 
+* 2025-02-05: Cindy Morgan to add Alvaro Retana as a co-chair for IAB 
+    Open.
+
+* 2025-02-05: Liz Flynn to update the IAB Open meeting request at 
+    IETF 122 to have two one-hour sessions.
+
+* 2025-02-05: Cindy Morgan to update the IAB calendar to add meetings 
+    at 0600 PT between IETF 122 and IETF 124.
+
+* 2025-02-05: Cindy Morgan to follow up with the IESG about retreat 
+    timing.
+
+* 2025-02-05: Cindy Morgan to send an e-vote to finish the ISOC BoT 
+    selection.
     
 On Hold:
 
@@ -57,20 +71,7 @@ In Progress:
     information the IAB needs from NomCom in order to confirm IESG 
     candidates.
 
-* 2025-02-05: Cindy Morgan to add Alvaro Retana as a co-chair for IAB 
-    Open.
 
-* 2025-02-05: Liz Flynn to update the IAB Open meeting request at 
-    IETF 122 to have two one-hour sessions.
-
-* 2025-02-05: Cindy Morgan to update the IAB calendar to add meetings 
-    at 0600 PT between IETF 122 and IETF 124.
-
-* 2025-02-05: Cindy Morgan to follow up with the IESG about retreat 
-    timing.
-
-* 2025-02-05: Cindy Morgan to send an e-vote to finish the ISOC BoT 
-    selection.
 
 #### 1.5. IAB Document Status Update - No updates this week
 
@@ -103,15 +104,9 @@ In Progress:
 * **Digital Emblems (DIEM)**
     Area: INT
     Internal Review
-    IESG Telechat: 2025-02-06 
+    IESG Telechat: 2025-02-20
     IAB Shepherds: Suresh Krishnan, Mirja Kühlewind
     IAB Reviewer: Wes Hardaker
-    
- * **Heuristics and Algorithms to Prioritize Protocol deploYment (HAPPY)**
-    Area: WIT
-    External Review 
-    IESG Telechat: 2025-02-06
-    IAB Reviewer: Matthew Bocci
 
 *  **Update to IANA Considerations (IANABIS)**
     Area: GEN
@@ -121,35 +116,92 @@ In Progress:
     
  * **RESTful Provisioning Protocol (RPP)**
     Area: ART
-    Internal Review 
-    IESG Telechat: 2025-01-09
+    External Review 
+    IESG Telechat: 2025-02-20
     IAB Reviewer: Tommy Pauly
-
-*  **Taking IP To Other Planets (TIPTOP)**
-    Area: INT
-    External Review
-    IESG Telechat: 2025-02-06
-    IAB Reviewer: David Schinazi
-
 
 #### 1.7 IAB Appointments
 
-*  Calendar for 2025-2026 cycle appointments is in progress; next will 
-    be CCG in May
+- ISOC BoT Announcement to go out around 2025-04-24 (coordinated with announcement of ISOC election results)
+- Appointment Calendar for 2025-2026 to be reviewed at IETF 122
+- Next up: Community Coordination Group (CCG); kick-off in May
 
 
-### 2. 
+### 2. Monthly Written Reports and Other Brief Updates (Liaisons) - 5 mins (Public)
+
+- EODir Liaison Report
+- IANA Liaison Report - written report received
+- ICANN Liaison Report
+- IRTF Chair Report
+- ISOC Liaison Report
+- IAB Outreach Coordinator Report
+- Tools Liaison Report - written report received
+
+
+### 3. IAB Chair Selection Process for 2025-2026 (Cindy) - 5 mins (Public)
+
+  Goal: Review process, confirm selection committee chair (David has 
+  volunteered)
+
+  Wiki: https://wiki.ietf.org/group/iab/IAB_Chair_Selection_Process_Guidelines
+
+
+### 4. New Work Help Desk (Mirja) - 5 mins (Public)
+
+  Goal: Does the IAB want to have a New Work Help Desk at IETF 122?
+
+
+### 5. IAB Agendas at IETF 122 (All) - 10 mins (Public)
+
+  Goal: Discuss potential agenda topics, invited guests
+  
+  Wiki: https://wiki.ietf.org/group/iab/Agenda122
+
+
+### 6. E-Vote: Joint Letter against UK Government Attack on Encryption <5 mins (Public)
+
+  Goal: Record results of e-vote
+
+
+### 7. Next IAB Meeting
+
+  "IAB Onboarding and Review" presentation is scheduled for 2025-02-26
+
 
 
 
 
 ## Upcoming Teleconferences 
-* 2025-02-19: IAB Business Meeting
-    - Monthly Reports
+
 * 2024-02-26: IAB Technical Discussion
     - IAB Onboarding and Review (Cindy)
 * 2025-03-05: IAB Business Meeting
+    - BOF Coverage
+    - IAB Agendas at IETF 122
 
+-- 2025-03-15 - 2025-03-21: IETF 122 Bangkok --
+
+** NOTE: Meeting time changes to 0600 Pacific after IETF 122 **
+
+- 2025-04-02: IAB Business Meeting
+- 2025-04-09: IAB Business Meeting (Reserved)
+- 2025-04-16: IAB Business Meeting
+- 2025-04-23: IAB Technical Discussion (Reserved)
+- 2025-04-30: IAB Business Meeting
+- 2025-05-07: IAB Business Meeting (Reserved)
+- 2025-05-14: IAB Business Meeting
+- 2025-05-21: IAB Technical Discussion (Reserved)
+- 2025-05-28: IAB Business Meeting
+- 2025-06-04: IAB Business Meeting (Reserved)
+- 2025-06-11: IAB Business Meeting
+
+-- 2025-06-16 - 2025-06-20: IAB/IESG Retreat --
+
+- 2025-06-25: IAB Business Meeting (Reserved)
+- 2025-07-02: IAB Business Meeting
+- 2025-07-09: IAB Technical Discussion (Reserved)
+
+-- 2025-07-19 - 2025-07-25: IETF 123 Madrid --
 
 
 ## Future Unscheduled Topics 
