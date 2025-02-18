@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-18T11:13:59.620Z
+date: 2025-02-18T16:59:48.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -354,7 +354,21 @@ https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 ----
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champions**
+Greg White (g.white@cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in a nearby room for the rest of the week.
+- **Specifications**
+  - [RFC9330](https://datatracker.ietf.org/doc/rfc9330/)
+  - [RFC9331](https://datatracker.ietf.org/doc/rfc9331/)
+  - [RFC9332](https://datatracker.ietf.org/doc/rfc9332/)
+  - [RFC8888](https://datatracker.ietf.org/doc/rfc8888/)
+  - [draft-ietf-tcpm-accurate-ecn](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn)
 
+---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
