@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-13T16:33:12.037Z
+date: 2025-02-18T23:17:36.970Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,8 @@ Note that this page is public.
 ### Management Issues
 
 - Introduction for New ADs (Cindy)
+- Introduction to the RPC (Sandy)
+- Introduction to IANA (Sabrina)
 
 
 
