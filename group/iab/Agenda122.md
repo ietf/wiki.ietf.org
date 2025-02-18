@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-02-05T18:07:47.238Z
+date: 2025-02-18T19:05:57.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
@@ -32,7 +32,25 @@ Please join us for a quick tour around the conference center. We will end with a
 
 **1215-1345: IAB/IESG Meeting (Room: TBD)** 
 
+Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
+
 1400-1600: Either IESG or IAB Meeting
+
+> IAB-Only Agenda:
+> 
+> 1. IAB Chair Selection (Executive Session)
+> 2. Finalize IAB Roles (Cindy)
+>     - Program Leads and Members
+>     - Liaison Coordinators
+>     - IAB Liaison to the IESG
+>     - IAB Liaison to NomCom
+>     - IAB Stream Representative (RSAB)
+>     - IAB List Moderators
+>     - ARPA change control approver
+>     - Tools Team Liaison 
+>     - Identify EMODir Liaison
+>     - IAB Outreach Coordinator
+> 
 
 
 ## Monday, 2025-03-17
@@ -44,6 +62,10 @@ Please join us for a quick tour around the conference center. We will end with a
 
 **0800-0920 Bangkok: IAB Business Meeting (Meeting Room 1)**
 
+> Agenda:
+> 
+> 1. DINRG Review (DINRG Chairs)
+> 2. ISOC Updates (Sally)
 
 ## Wednesday, 2025-03-19
 
@@ -52,6 +74,11 @@ Please join us for a quick tour around the conference center. We will end with a
 ## Thursday, 2025-03-20
 
 **0800-0920 Bangkok: IAB Business Meeting (Meeting Room 1)**
+
+> Agenda:
+> 
+> 1. How the IAB Does its Work (Tommy, Mark)
+
 **1130-1300: Liaison Coordinators + Liaison Managers Meeting (Meeting Room 1)**
 
 ## Friday, 2025-03-21
