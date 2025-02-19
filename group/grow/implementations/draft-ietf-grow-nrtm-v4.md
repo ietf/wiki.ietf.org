@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-19T09:32:24.929Z
+date: 2025-02-19T13:27:46.196Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -83,7 +83,7 @@ For brevity, Update Notification File is abbreviated as UNF.
 | Every time a mirror client retrieves a new version of the UNF, it MUST verify the included signature (4.4) | yes | ?? |
 | The signature MUST be valid for the configured public key for the contents of the UNF (4.4) | yes | ?? |
 | If the signature does not match, the mirror client MUST reject the UNF, unless a key rotation is in progress (4.4) | yes | ?? |
-| If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | ?? | ?? |
+| If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | yes/no (old files are rejected) | ?? |
 | MAY have a policy that restricts the processing of objects to certain object classes, or other limitations on which objects it processes .. this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified (4.5) | yes/yes | ?? |
 {.dense}
 
