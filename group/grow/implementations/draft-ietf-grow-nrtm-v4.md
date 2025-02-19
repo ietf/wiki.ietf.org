@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-19T13:48:41.900Z
+date: 2025-02-19T13:56:30.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -52,7 +52,7 @@ For brevity, Update Notification File is abbreviated as UNF.
 | URL where the Snapshot File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.2) | yes | ?? |
 | The UNF MUST be updated to include the new snapshot, if one was generated (3.3.2) | yes | ?? |
 | SHOULD continue to produce Delta Files during this (snapshot update) window, which means the server MAY publish a Snapshot File with a version number older than the most recent Delta File at the time of publication (3.3.2) | yes/yes | ?? |
-| UNF must be updated when a new Delta or Snapshot File is published and, even if there have been no changes, at least every 24 hours (3.3.3) | ?? | ?? |
+| UNF must be updated when a new Delta or Snapshot File is published and, even if there have been no changes, at least every 24 hours (3.3.3) | yes | ?? |
 | MAY have a policy that restricts the publication of certain IRR objects or attributes, or modifies these before publication (3.3.4)  | yes | ?? |
 | RECOMMENDED to modify objects in such a way that this change is evident to humans reading the object text (3.3.4)  | yes | ?? |
 | RECOMMENDED to remove password hashes from the auth lines in mntner objects (3.3.4) | yes | ?? |
