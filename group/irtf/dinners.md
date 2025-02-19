@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2024-10-21T13:17:26.793Z
+date: 2025-02-19T17:19:21.570Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -11,6 +11,13 @@ dateCreated: 2023-02-27T16:52:39.142Z
 # IRSG Dinners 
 
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
+
+* IETF 122 Bangkok
+  * Doodle poll for attendance: 
+  https://doodle.com/meeting/participate/id/e9GW3KPb 
+  * Wednesday, 19 March, after the plenary 
+  * Venue: Terrace Rim Naam at Mandarin Oriental 
+		https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/dine/terrace-rim-naam
 
 * IETF 121 Dublin
   * Doodle poll for attendance:
