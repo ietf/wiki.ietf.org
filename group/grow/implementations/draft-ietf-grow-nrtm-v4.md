@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-19T13:27:46.196Z
+date: 2025-02-19T13:48:41.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -71,7 +71,7 @@ For brevity, Update Notification File is abbreviated as UNF.
 | (on reinitialization) MUST verify that the hash of the Snapshot File matches the hash in the UNF that referenced it. If ... compressed with GZIP, the hash MUST match the compressed data. In case of a mismatch of this hash, the file MUST be rejected (4.2) | yes/yes/yes | ?? |
 | (on reinitialization) MUST record the session_id and version of the loaded Snapshot File (4.2) | yes | ?? |
 | MUST verify that the session ID matches the previously known session ID. If this does not match, the client MUST reinitialize from the snapshot (4.3) | yes/yes | ?? |
-| MUST verify that the UNF version is the same or higher than the client's current most recent version. If not, the UNF MUST be rejected. It is RECOMMENDED for the client to distinguish between an UNF that is a single version older, and a much older version, in any status messages (4.3) | yes/yes/yes | ?? |
+| MUST verify that the UNF version is the same or higher than the client's current most recent version. If not, the UNF MUST be rejected. It is RECOMMENDED for the client to distinguish between an UNF that is a single version older, and a much older version, in any status messages (4.3) | yes/yes/no | ?? |
 | MUST verify that the UNF contains one contiguous set of Delta File versions after the client's current most recent version up to the latest version in the UNF. If ... not contiguous, the UNF MUST be rejected. If the available Delta File versions do not range from the client's most recent version plus one, the client MUST reinitialize from the snapshot (4.3) | yes/yes/yes | ?? |
 | MUST verify that the hashes of each Delta and Snapshot File have not changed compared to previous entries seen for the same file type and version. If a newer UNF contains a different hash for a specific file ... client MUST reject the UNF (4.3) | yes/yes | ?? |
 | MUST retrieve all Delta Files for versions since the client's last known version (4.3) | yes | ?? |
