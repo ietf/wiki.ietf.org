@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-02-19T19:31:05.470Z
+date: 2025-02-19T19:31:40.711Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -95,8 +95,6 @@ A Verifier might need to consume Endorsements/RVs from either or both of these.
 A secondary Endorser/RVP might consume Endorsements/RVs from one or more primary Endorsers/RVPs.
 
 Where this distinction matters the most is in the trust model that exists between the producer and the consumer (see next heading).
-
-(TODO: some diagrams would be helpful here)
 
 ## Trust Models
 If we assume the above primary/secondary classification model, then the trust relationships between the producer and the consumer can be considered as follows.
