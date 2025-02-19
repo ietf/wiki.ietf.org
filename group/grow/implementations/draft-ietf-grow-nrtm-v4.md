@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-19T15:20:38.204Z
+date: 2025-02-19T19:09:15.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -19,12 +19,15 @@ The following versions of IRR software have reported to have implemented [draft-
 
 |**Implementation** |	**Version** |	**Reported by**|
 |---|---|---|
-|IRRD |	4.5 (unreleased) | Sasha Romijn |
+|[IRRD](https://github.com/irrdnet/irrd/) |	4.5 (unreleased) | Sasha Romijn |
 |RIPE NCC Whois 	| 1.115.1 (released)  | Ed Shryane |
+|[nrtm4-validator](https://github.com/mxsasha/nrtm4-validator/) | 0.1.0 (released) | Sasha Romijn
 
 ## Implemented Features 
 
 For brevity, Update Notification File is abbreviated as UNF.
+
+The nrtm4-validator is a partial client implementation, as it does not retain any local data. Its purpose is syntax validation for e.g. monitoring. It is not included in the feature tables due to the limited implementation, but does serve use as a check against other implementations.
 
 ### Mirror server
 
@@ -115,8 +118,9 @@ For brevity, Update Notification File is abbreviated as UNF.
 
 ## Overview of tested Interoperability
 
-| | IRRD server | RIPE NCC whois server |
-|-|:-:|:-:|:-:|:-:|:-:|
-| IRRD client | yes | yes |
-| RIPE NCC whois client | not implemented | not implemented |
+| | IRRD server | RIPE NCC whois server | nrtm4-validator server
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| IRRD client | yes | yes | not implemented |
+| RIPE NCC whois client | not implemented | not implemented | not implemented |
+| nrtm4-validator client | yes | yes | not implemented |
 {.dense}
