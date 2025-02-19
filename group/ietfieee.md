@@ -2,7 +2,7 @@
 title: IETF/IEEE Coordination 
 description: 
 published: true
-date: 2023-01-18T19:31:43.021Z
+date: 2025-02-19T14:09:54.395Z
 tags: iab, ietf, ieee
 editor: markdown
 dateCreated: 2023-01-18T19:31:39.159Z
@@ -17,7 +17,7 @@ The purpose of this guide is to document the process that has been working to ru
 Quick links:
 
 * RFC 7241 documents "The IEEE 802/IETF Relationship".
-* IAB IEEE coordination meeting agenda links are [here](https://www.iab.org/liaisons/iab-ieee-coordination/ ).
+* IAB IEEE coordination meeting agenda links are [here](https://datatracker.ietf.org/iabasg/ietfieee/meetings/).
 
 ## Meeting cycle:
 
