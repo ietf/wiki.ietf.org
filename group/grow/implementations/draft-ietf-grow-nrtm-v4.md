@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-19T14:54:26.575Z
+date: 2025-02-19T15:20:38.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -26,7 +26,7 @@ The following versions of IRR software have reported to have implemented [draft-
 
 For brevity, Update Notification File is abbreviated as UNF.
 
-### Mirror client
+### Mirror server
 
 | |IRRD | RIPE NCC Whois |
 |-|-|-|-|
