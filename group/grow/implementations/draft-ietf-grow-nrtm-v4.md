@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-19T13:56:30.986Z
+date: 2025-02-19T14:54:26.575Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -20,7 +20,7 @@ The following versions of IRR software have reported to have implemented [draft-
 |**Implementation** |	**Version** |	**Reported by**|
 |---|---|---|
 |IRRD |	4.5 (unreleased) | Sasha Romijn |
-|RIPE NCC Whois 	| ??  | |
+|RIPE NCC Whois 	| 1.115.1 (released)  | Ed Shryane |
 
 ## Implemented Features 
 
