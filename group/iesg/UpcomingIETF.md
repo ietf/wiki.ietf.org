@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-02-16T09:41:17.824Z
+date: 2025-02-19T23:45:35.763Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -26,7 +26,11 @@ Please add any topics for either IESG only meetings at IETF 122, or the joint me
 
 **Hackathon**
 
-09:30-21:00 - Room: TBD
+09:30-21:00 - Room: Sala Thai Ballroom
+
+**Code Sprint**
+
+10:00-18:00 - Room: Meeting Room 3
  
 
 **AMS-IETF Leadership Venue Tour**
@@ -42,24 +46,15 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Sunday, March 16, 2025
 
-**Code Sprint**
-
-10:00-18:00 - Room: TBD
-
  **Hackathon**
-
- Sunday 09:30-16:00 - Room: TBD
+ Sunday 09:30-16:00 - Room: Sala Thai Ballroom
   
-- **New Participant's Quick Connections** TBD
-- **IETF 121 Welcome Reception** TBD
-- **HotRFC Lightning Talks** TBD
-
 
 ### 0930 - 1130: IAB or IESG Meeting
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: TBD
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: Meeting Room 2
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: TBD
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: Meeting Room 2
 
 * Meetecho: TBD
 >1. Welcome and introductions (5 min)
@@ -67,19 +62,27 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     Random order: WIT, RTG, GEN, OPS, IRTF, SEC, INT, ART, IAB
 
 
-### IESG or IAB Meeting - 14:00-16:00 Room: TBD
+### IESG or IAB Meeting - 14:00-16:00 Room: Meeting Room 2
 
 * Meetecho: TBD
 
 >1.  IANA Update (10min, Sabrina)
 >2.  RPC Check-in (10min, Sandy)
 
+### Meeting Events
+
+- **New Participant's Quick Connections** 16:00-17:00; Room: Pagoda
+- **IETF 122 Welcome Reception** 17:00-19:00; Room: Chitlada 1/2
+- **HotRFC Lightning Talks** 18:00-20:00; Room: Chitlada 3
+
+
 
 ## Monday, March 17, 2025
 
-### IESG Meeting Time: 08:00-09:20  Room: TBD
+### IESG Meeting Time: 08:00-09:20  Room: Meeting Room 2
 
-
+* Meetecho: TBD
+>1. Topics?
 
  
 ## Tuesday, March 18, 2025
@@ -88,13 +91,15 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/Agenda122).
   
 ## Wednesday, March 19, 2025
-### IESG Meeting Time: 08:00-09:20  Room: TBD
+### IESG Meeting Time: 08:00-09:20  Room: Meeting Room 2
 
 
 >1. Plenary Slide Review + Prep
 
 
-### IETF 122 Plenary TIME: TBD Room: TBD
+### IETF 122 Plenary 
+**TIME: 17:00-19:00 
+Room: Chitlada 1/2**
 &nbsp;
 ## Thursday, March 20, 2025
 
@@ -102,7 +107,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ## Friday, March 21, 2025
 
-### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: TBD
+### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Meeting Room 2
 
 
 
@@ -114,7 +119,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: TBD
+Location: Meeting Room 4
 
 ## Sunday, 16 March 2025
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
