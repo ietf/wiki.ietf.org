@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-01-10T00:09:06.058Z
+date: 2025-02-19T10:31:21.603Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -28,6 +28,8 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [ARPA DNS Zone](/group/iab/ARPA_DNS_Zone) - Guidance for the ARPA Change Control Approver
 * [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
 * [IAB Outreach Coordinator](/group/iab/IAB_Outreach_Coordinator)
+* [RSAB Stream Representative](/group/iab/RSAB_stream_representative)
+
 
 ## Liaison Descriptions
 
