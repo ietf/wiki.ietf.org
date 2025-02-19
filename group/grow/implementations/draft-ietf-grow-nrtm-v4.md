@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-18T16:04:52.514Z
+date: 2025-02-19T09:32:24.929Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -30,7 +30,7 @@ For brevity, Update Notification File is abbreviated as UNF.
 
 | |IRRD | RIPE NCC Whois |
 |-|-|-|-|
-| published public key MUST be encoded in PEM (3.1) | yes | ?? |
+| published public key MUST be encoded in PEM (3.1) | yes | yes |
 | RECOMMENDED that implementations provide easily accessible tools for operators to generate new signing keys ... and assist with key rotation (3.1) | yes | ?? |
 | configuration options SHOULD be clearly named to indicate that they are private keys (3.1) | yes | ?? |
 | MUST follow the initialization steps upon the first export ..., or if the server ...  can not reliably produce a continuous set of deltas from a previous state (3.2) | yes | ?? |
