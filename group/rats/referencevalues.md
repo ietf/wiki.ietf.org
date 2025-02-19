@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-02-12T10:19:00.411Z
+date: 2025-02-19T19:31:05.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -114,6 +114,11 @@ It would be valuable to establish common terminology for these two models - eg. 
 For endorsement conveyance in general, and for distribution in particular, it would be necessary to design protocols such that either trust model can be accommodated.
 
 NOTE: CoRIM already has a means by which a manifest can provide links/references to contributing components.
+
+## Endorsement Service Architectures
+With reference to the sections above, the following figure summarises the categories of endorsement service (primary and secondary/aggregating) and the associated interaction and trust models. The figure intends to be illustrative rather than definitive. There could be additional layers or additional supply chain actors. Or, in some cases, actors might be coalesced or operate as a single business entity.
+
+![endorsementservicemodels.png](/rats/endorsements/endorsementservicemodels.png)
 
 ## Desirable Properties of an Endorsement Distribution API
 As part of the requirements gathering exercise for a distribution API, below are some desirable properties that an API should have.
