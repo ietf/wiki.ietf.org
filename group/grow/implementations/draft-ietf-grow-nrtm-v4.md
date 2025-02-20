@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-02-20T12:23:17.749Z
+date: 2025-02-20T12:24:32.469Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -112,7 +112,7 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 
 | |IRRD | RIPE NCC Whois |
 |-|-|-|-|
-| The HTTPS endpoint used for NRTMv4 MUST be configured according to the best practices in RFC9325 (9) | N/A, HTTPS configuration by operator in separate frontend proxy | ?? | yes |
+| The HTTPS endpoint used for NRTMv4 MUST be configured according to the best practices in RFC9325 (9) | N/A, HTTPS configuration by operator in separate frontend proxy | yes |
 | Mirror clients MUST NOT use other protocols than HTTPS, such as HTTP or FTP (9) | yes | yes |
 {.dense}
 
