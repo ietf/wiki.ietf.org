@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-02-19T23:45:35.763Z
+date: 2025-02-20T18:29:38.620Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -50,7 +50,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
  Sunday 09:30-16:00 - Room: Sala Thai Ballroom
   
 
-### 0930 - 1130: IAB or IESG Meeting
+### 0930 - 1130: IAB Meeting
 
 ### Joint IAB/IESG Lunch - 11:45-12:15 Room: Meeting Room 2
 
@@ -62,7 +62,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     Random order: WIT, RTG, GEN, OPS, IRTF, SEC, INT, ART, IAB
 
 
-### IESG or IAB Meeting - 14:00-16:00 Room: Meeting Room 2
+### IESG Meeting - 14:00-16:00 Room: Meeting Room 2
 
 * Meetecho: TBD
 
