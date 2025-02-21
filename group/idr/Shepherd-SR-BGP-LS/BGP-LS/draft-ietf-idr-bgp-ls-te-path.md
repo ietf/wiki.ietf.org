@@ -2,7 +2,7 @@
 title: Shepherd Review: draft-ietf-idr-bgp-ls-te-path
 description: Review draft-ietf-idr-idr-bgp-ls-te-path
 published: true
-date: 2025-02-21T21:31:11.376Z
+date: 2025-02-21T21:39:18.572Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T21:25:30.138Z
