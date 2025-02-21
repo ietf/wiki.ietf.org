@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-19T17:55:58.951Z
+date: 2025-02-21T20:55:23.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-02-26 0700 PST (UTC-8) 
 
-*Agenda as of 2025-02-19. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-02-21. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,9 +29,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
+- Nominations are open for IAB Chair; see email from David.
 #### 1.3. Meeting Minutes 
 
-For approval: 
+Under Review: 
 
 * 2025-02-19 business meeting - (submitted 2025-02-19)
 
@@ -41,6 +42,16 @@ Under review:
 
 Done:
 
+- 2025-02-19: Cindy Morgan to follow up with David Schinazi about 
+    kicking off the IAB Chair selection process.
+
+- 2025-02-19: Cindy Morgan to invite Scott Mansfield to an IAB 
+    meeting at IETF 122 to discuss boilerplate responses to liaison 
+    statements.
+
+- 2025-02-19: Tommy Pauly to respond to Daniel Migault's email 
+    regarding the RSSAC document "Guidelines for Changing IP 
+    Addresses."
 
     
 On Hold:
@@ -60,19 +71,9 @@ In Progress:
 
 New: 
 
-- 2025-02-19: Cindy Morgan to follow up with David Schinazi about 
-    kicking off the IAB Chair selection process.
-
 - 2025-02-19: Mirja Kühlewind to send email proposing times for the 
     New Work Help Desk once the final agenda for IETF 122 is published.
 
-- 2025-02-19: Cindy Morgan to invite Scott Mansfield to an IAB 
-    meeting at IETF 122 to discuss boilerplate responses to liaison 
-    statements.
-
-- 2025-02-19: Tommy Pauly to respond to Daniel Migault's email 
-    regarding the RSSAC document "Guidelines for Changing IP 
-    Addresses."
 
 
 #### 1.5. IAB Document Status Update - No updates this week
@@ -124,18 +125,16 @@ New:
 
 #### 1.7 IAB Appointments
 
-- ISOC BoT Announcement to go out around 2025-04-24 (coordinated with announcement of ISOC election results)
-- Appointment Calendar for 2025-2026 to be reviewed at IETF 122
 - Next up: Community Coordination Group (CCG); kick-off in May
 
 
-### 2. IAB Onboarding and Review (Cindy)
+### 2. IGF Proposal (Dhruv) - 10 mins (Public)
 
-### 3. IGF Proposal (Dhruv)
+  Goal: Review proposal for IGF, new steps.
 
+### 3. IAB Onboarding and Review (Cindy) - 30 mins (Public)
 
-
-
+  Slides: [IAB Onboarding and Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)
 
 ## Upcoming Teleconferences 
 
