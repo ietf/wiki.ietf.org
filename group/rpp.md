@@ -1,8 +1,8 @@
 ---
 title: RPP Wiki
 description: RESTful Provisioning Protocol WG
-published: false
-date: 2025-02-19T15:44:52.358Z
+published: true
+date: 2025-02-21T08:51:17.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
