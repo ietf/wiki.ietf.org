@@ -1,8 +1,8 @@
 ---
-title: Public Side Meetings at IETF 122
+title: Side Meetings at IETF 122
 description: 
 published: true
-date: 2025-02-21T20:14:39.222Z
+date: 2025-02-21T20:59:09.146Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T20:14:39.222Z
