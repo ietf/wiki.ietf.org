@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T16:05:21.958Z
+date: 2025-02-21T17:13:00.201Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -20,7 +20,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  | IESG Pub Req |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---|---|---|---|---|---|---|---|---|--|
-| draft-ietf-idr-sr-policy-safi  | Sue Hares  | At RFC editor  | RFC | 3/18/2024 | 7/20/2024  | 2/6/2025 | 14 days | TBD  | TBD |   
+| draft-ietf-idr-sr-policy-safi  | Sue Hares  | At RFC editor  | RFC | 3/18/2024 | 7/20/2024  | 2/6/2025 | 14 days | 339  | TBD |   
 {.dense}
 
 
@@ -28,17 +28,17 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---| 
 | draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | IESG approved | RFC editor | 3/18/2024 | 7/30/2024 |   2/20/2025  | 1 day | 336 days  |
-| draft-ietf-idr-cpr-04 |  Sue Hares | IESG approve  | RFC editor queue | 5/17/2024 | 7/19/2024 | 2/20/2025 day | 1 days | 273 days | 
+| draft-ietf-idr-cpr-04 |  Sue Hares | IESG approve  | RFC editor queue | 5/17/2024 | 7/19/2024 | 2/20/2025 day | 1 days | 279 days | 
 {.dense}
 
  
 ## At IESG Review 
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
 |---|---|---|---|---|---|---|---|---| 
-|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD followup  | IESG Approval | 3/1/2024 | 4/26/2024 | 1 day | TBD |  353 days | 
-|  draft-ietf-idr-bgp-car |  Sue Hares  | AD followup | IESG Approval | 3/1/2024 | 4/26/2024 | 1 day | TBD  | 353 days |
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 7/8/2024-8/15/2024 | 1/16/2025 | TBD | TDB | TBD | TBD | 
-| draft-ietf-idr-bgp-ls-sr-policy-07 | Sue Hares | IETF LC | IESG Review | 11/8-11/22/2024 | TBD | TBD | TBD |  TBD  | TBD | 
+|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD followup  | IESG Approval | 3/1/2024 | 4/26/2024 | 1 day | TBD |  356 days | 
+|  draft-ietf-idr-bgp-car |  Sue Hares  | AD followup | IESG Approval | 3/1/2024 | 4/26/2024 | 1 day | TBD  | 356 days |
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 7/8/2024-8/15/2024 | 1/16/2025 | 3 weeks | 3/6/2025 | 189 days |
+| draft-ietf-idr-bgp-ls-sr-policy-07 | Sue Hares | IETF LC | IESG Review | 11/8-11/22/2024 | 12/13/2024| 7 days/ 2/27/2025 | 3/6/2025 |  90 days   | 
 {.dense}
 
  
