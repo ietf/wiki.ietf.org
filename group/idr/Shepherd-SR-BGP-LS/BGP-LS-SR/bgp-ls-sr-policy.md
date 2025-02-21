@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2024-12-07T11:58:01.760Z
+date: 2025-02-21T19:41:49.569Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
@@ -10,11 +10,24 @@ dateCreated: 2024-11-14T21:15:40.055Z
 
 # Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 
+
+
+## -13 at AD REview 
+**AD-Review:** https://mailarchive.ietf.org/arch/msg/idr/IcSkiOQXuP9431iATnvxIgO_E2I/
+
+## -11 at AD Review 
+**AD Review:** https://mailarchive.ietf.org/arch/msg/idr/PFzh_zMvqfz13-KyUSs4r54fK5A/
+
+## -10 submitted to IESG
+**Early RTG-DIR review:** (Joel Halpren): https://mailarchive.ietf.org/arch/msg/idr/iuD4n-9b4-dMI1SQa1vkCPK7nfA/ 
+**Early OPS-DIR review:** (Tina Tsou): https://mailarchive.ietf.org/arch/msg/idr/PRhis-VEcyVEjQItu2VUYNLtj0Y/
+**SEC-DIR (telehat):** (Ned Smith): https://mailarchive.ietf.org/arch/msg/idr/ca-Xo4WS-gsGXZ4Jg7I74XK5gxA/
+
 ## Review for -09
 **draft:** draft-ietf-idr-bgp-ls-sr-policy-08 
 **status:** Ready for publication 
 **email:** https://mailarchive.ietf.org/arch/msg/idr/0dL1E-C74DUgkjyOlvFStqingfg/
-**2nd email:** 
+**2nd email:** https://mailarchive.ietf.org/arch/msg/idr/BwcU5Bmxd_7RyULcwQAcG5uTUmg/
 
 ## Review for -08
 ### Summary: 
