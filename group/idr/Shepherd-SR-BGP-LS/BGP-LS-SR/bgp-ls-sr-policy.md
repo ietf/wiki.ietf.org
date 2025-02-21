@@ -2,13 +2,13 @@
 title: Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
 description: Review BGP-LS for draft-ietf-idr-bgp-ls-sr-policy
 published: true
-date: 2025-02-21T19:41:49.569Z
+date: 2025-02-21T19:57:52.463Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T21:15:40.055Z
 ---
 
-# Shepherd Reviews for BGP-LS for SR Policiy (draft-ietf-idr-bgp-ls-sr-policy)
+# Shepherd Reviews for BGP-LS for SR Policy (draft-ietf-idr-bgp-ls-sr-policy)
 
 
 
