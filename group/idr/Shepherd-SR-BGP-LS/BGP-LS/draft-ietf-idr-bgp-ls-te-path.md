@@ -2,7 +2,7 @@
 title: Shepherd Review: draft-ietf-idr-bgp-ls-te-path
 description: Review draft-ietf-idr-idr-bgp-ls-te-path
 published: true
-date: 2025-02-21T21:39:18.572Z
+date: 2025-02-21T21:40:13.174Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T21:25:30.138Z
@@ -10,13 +10,13 @@ dateCreated: 2025-02-21T21:25:30.138Z
 
 # Shepherd review for draft-ietf-idr-bgp-ls-te-path
 
-# Review for draft-ietf-idr-bgp-ls-te-path-01 
+# Review for draft-ietf-idr-bgp-ls-te-path-02 
 **Status:**
 Document: draft-ietf-idr-bgp-ls-te-path-02 
 Status:  needs revision 
 Technical status:  Generally valid, needs revision to cover all issues 
 Editorial status: Needs revision for clarity 
-Email link to review:  
+Email link to review:  https://mailarchive.ietf.org/arch/msg/idr/SLDpob6bXRvSPhn0AZ_tpaiqdcc/
 
 # Review for draft-ietf-idr-bgp-ls-te-path-01 
 ### overview 
