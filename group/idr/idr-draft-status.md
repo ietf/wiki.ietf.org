@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T15:23:51.509Z
+date: 2025-02-21T15:24:16.766Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -81,7 +81,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 {.dense}
 
 ## WG LC 
-| draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
+| draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  |  WG LC | TBD | 2/17-3/3 | 4 days  | 3/3/ 
 {.dense}
