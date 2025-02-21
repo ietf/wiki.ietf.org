@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2025-02-20T20:22:11.027Z
+date: 2025-02-21T17:37:19.046Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -47,12 +47,9 @@ If you have questions or concerns regarding the implementation requirement, plea
 [CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/group/idr/CAR-CTAdoption)
 
 ## Interims in 2025 
-### February 10th, 2025 - BGP-LS, BGP-SR, FSv2 + other drafts 
-[IDR interim on BGP-LS, BGP-SR, and FSv2 drafts](https://datatracker.ietf.org/meeting/interim-2025-idr-01/session/idr)
-### February 24, 2025 - 00 drafts prior to IETF-122 
-[00- Draft presentation before IETF 122](https://datatracker.ietf.org/meeting/interim-2025-idr-02/session/idr)
-
-
+- February 10th, 2025 - BGP-LS, BGP-SR, FSv2 - Canceled 
+- February 24, 2025 - 00 drafts prior to IETF-122 - Canceled 
+ 
 ## Interims in 2024 
 
 ### Future interims 
