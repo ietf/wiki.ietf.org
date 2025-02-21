@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T15:18:35.719Z
+date: 2025-02-21T15:23:51.509Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -37,7 +37,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---| 
 |  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD followup  | IESG Approval | 3/1/2024 | 4/26/2024 | TBD |  4 days | 2/20/2025 | 353 days | 
 |  draft-ietf-idr-bgp-car |  Sue Hares  | AD followup | IESG Approval | 3/1/2024 | 4/26/2024 | TBD | 4 days  | 2/20/2025 | 353 days |
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 7/8/2024-8/15/2024 | 1/16/2025 | 32 days | 
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 7/8/2024-8/15/2024 | 1/16/2025 | TBD | TDB | TBD | TBD | 
+| draft-ietf-idr-bgp-ls-sr-policy-07 | Sue Hares | IETF LC | IESG Review | 11/8-11/22/2024 | TBD | TBD | TBD |  TBD  | TBD | 
 {.dense}
 
  
@@ -52,7 +53,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Queue for AD review 
 | draft    | Shepherd   |   status  |  Next step   |  WG LC completed  |  IESG Pub Req  |   ETA  |  Time in State | Time in AD queue |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | Awaits RTG-DIR | IESG | TBD | 7/8/2024-8/15/2024 | 8/20 | 11/15/2024 | 80 days | 
+| None | 
 {.dense}
 
 ## In Queue of WG Shepherd
@@ -82,14 +83,14 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | ETA | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-sr-policy-07 | Sue Hares | WG LC | TBD |  11/8-11/22/2024 | 1 day | 8/20 | 
+| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  |  WG LC | TBD | 2/17-3/3 | 4 days  | 3/3/ 
 {.dense}
 
 ## WG LC Pending - Waiting for Shepherd 
 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  | Pre-WG LC review |  WG LC | TBD | TBD | 2/18-3/4 | TBD | 
+| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  | Pre-WG LC review |  WG LC | TBD |  2/18-3/4 | TBD | TBD | 
 | draft-ietf-idr-vpn-prefix-orf-10 | Keyur Patel | 2  | Shepherd review | WG LC | TBD | TBD | TBD | TBD |  
 | draft-ietf-idr-sr-policy-nrp-02 | Sue Hares | TBD  | Awaiting IDR chairs review | WG LC | TBD | TBD | TBD | TBD |
 | draft-ietf-idr-flowspec-redirect-ip | Susan Hares | awaiting -03 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
