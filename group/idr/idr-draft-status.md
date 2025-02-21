@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T15:24:16.766Z
+date: 2025-02-21T15:30:54.537Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -35,8 +35,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At IESG Review 
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
 |---|---|---|---|---|---|---|---|---| 
-|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD followup  | IESG Approval | 3/1/2024 | 4/26/2024 | TBD |  4 days | 2/20/2025 | 353 days | 
-|  draft-ietf-idr-bgp-car |  Sue Hares  | AD followup | IESG Approval | 3/1/2024 | 4/26/2024 | TBD | 4 days  | 2/20/2025 | 353 days |
+|  draft-ietf-idr-bgp-ct  |  Sue Hares  | AD followup  | IESG Approval | 3/1/2024 | 4/26/2024 | 1 day | TBD |  353 days | 
+|  draft-ietf-idr-bgp-car |  Sue Hares  | AD followup | IESG Approval | 3/1/2024 | 4/26/2024 | 1 day | TBD  | 353 days |
 | draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 7/8/2024-8/15/2024 | 1/16/2025 | TBD | TDB | TBD | TBD | 
 | draft-ietf-idr-bgp-ls-sr-policy-07 | Sue Hares | IETF LC | IESG Review | 11/8-11/22/2024 | TBD | TBD | TBD |  TBD  | TBD | 
 {.dense}
@@ -139,7 +139,7 @@ To effeciently handle drafts along, we are considering drafts in existing IDR ch
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
 | draft-hegdearvind-idr-bgp-ls-algo-ext-00 | Sue Hares | Pre 
 |  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
-|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD    |  TBD | TBD   |
+|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD  | TBD | TBD   |
 {.dense}
  
 ### FSv2 Base Drafts - adoption pending 
