@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T15:40:31.973Z
+date: 2025-02-21T15:50:11.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -59,7 +59,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sdwan-edge-discovery-18 | Keyur Patel | awaits -19 | IESG | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392  
+| draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Shepherd Review + RTG-DIR | IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
 {.dense}
 
 ## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
@@ -77,30 +77,28 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---| 
 |  draft-ietf-idr-bgp-model  |  Jie Dong   | none  | Awaiting  Implementations |  4/11 to 5/26/2023 | 4 weeks | 5/26/2023  |
 | draft-ietf-idr-entropy-label | Susan Hares | one (Juniper) | 2nd implementation |  8/29/2023 to 9/12/2023  2nd: 10/10-10/17)   | 35 days | TBD | 
-|  draft-ietf-rs-bfd  |  Susan Hares  |  none |  2 implementations  |  10-4-2018   |  859   |  TBD   |
+|  draft-ietf-rs-bfd  | Susan Hares  |  none |  2 implementations  |  10-4-2018   |  859  |   TBD |
 {.dense}
 
 ## WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  |  WG LC | TBD | 2/17-3/3 | 4 days  | 3/3/ 
+| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  |  WG LC | TBD |  TBD | 2/17-3/3 | 4 days | 3/3/2025 | TBD |  
 {.dense}
 
 ## WG LC Pending - Waiting for Shepherd 
-
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgpls-sr-vtn-mt-06 | Sue Hares  | Pre-WG LC review |  WG LC | TBD |  2/18-3/4 | TBD | TBD | 
 | draft-ietf-idr-vpn-prefix-orf-10 | Keyur Patel | 2  | Shepherd review | WG LC | TBD | TBD | TBD | TBD |  
 | draft-ietf-idr-sr-policy-nrp-02 | Sue Hares | TBD  | Awaiting IDR chairs review | WG LC | TBD | TBD | TBD | TBD |
-| draft-ietf-idr-flowspec-redirect-ip | Susan Hares | awaiting -03 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
+{.dense}
 
-## WG LC Pending - awaiting other draft 
+## WG LC Pending - awaiting other drafts
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | WG doc | Revision with Path Communnities | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
 | draft-ietf-idr-flowspec-srv6-06 | Sue Hares | TBD | awaiting adoption of FSv2 more IP filters | pre-WG LC |  TBD  | TBD | TBD | Needs FSv2 update |  
+{.dense}
 
-
-## WG LC Pending - but waiting for drafts or dependent on other drafts
+## WG LC Pending - but waiting for drafts  
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-flowspec-redirect-ip-03 | Susan Hares | awaiting -04 | Pre-WG LC Review | TBD | TBD | TBD |  TBD | TBD |
@@ -128,7 +126,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 {.dense}
 
 ## Adoption process - upcoming Adoptions
-To effeciently handle drafts along, we are considering drafts in existing IDR chartered technology (Segment Routing, BGP-LS, Flow Specification v2 (FSv2), IPv6, and new Tunnel Encapsulation drafts) different than other drafts. Existing IDR Chartered Technologies will receive reviews prior to WG Adoption.  An interim will be held per IETF cycle where WG drafts and individual drafts for these technologies will be reviewed.  This will help 
+To effeciently handle drafts along, we are considering drafts in existing IDR chartered technology (Segment Routing, BGP-LS, Flow Specification v2 (FSv2), IPv6, and new Tunnel Encapsulation drafts) different than other drafts. Existing IDR Chartered Technologies will receive reviews prior to WG Adoption.  An interim will be held per IETF cycle where WG drafts and individual drafts for these technologies can present revision or new draft.   
 
 ### SR and BGP-LS Adoptions Requested 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
