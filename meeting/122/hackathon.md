@@ -293,7 +293,7 @@ GnuTLS pending PRs.
   - Zhuotao Liu zhuotaoliu@tsinghua.edu.cn
   - Li Qi qli01@tsinghua.edu.cn
 - **Project Info**
-  The Internet faces significant challenges related to legitimate MOAS (Multiple-Origin Autonomous System) conflicts and route origin hijacking, which often exhibit similar patterns. [VRO](https://github.com/VRO-Project/VRO-Project) addresses these issues through a decentralized cooperative system among ASes (Autonomous Systems) to enhance routing security.
+  The Internet faces significant challenges related to legitimate MOAS (Multiple-Origin Autonomous System) conflicts and route origin hijacking, which often exhibit similar patterns. [VRO](https://github.com/VRO-Project) addresses these issues through a decentralized cooperative system among ASes (Autonomous Systems) to enhance routing security.
   
 - **Related documents**
   - [draft-jiang-sidrops-psvro](https://datatracker.ietf.org/doc/draft-jiang-sidrops-psvro/)
