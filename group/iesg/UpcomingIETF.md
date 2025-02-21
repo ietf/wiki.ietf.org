@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-02-21T21:52:30.594Z
+date: 2025-02-21T22:29:35.173Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -67,7 +67,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 * Meetecho: TBD
 
 >1.  IANA Update (10min, Sabrina)
->2.  RPC Check-in (10min, Sandy)
+>2.  RPC Check-in (10min, Jean)
 
 ### Meeting Events
 
