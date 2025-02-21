@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-19T03:32:35.904Z
+date: 2025-02-21T10:32:34.541Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -380,7 +380,16 @@ This project’s approach to realizing this analyzes requirements for ensuring a
 - **Related documents**
 - [Securing hybrid network - criteria and requirements](https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/)
 ----
+### YANG Configuration Data To Knowledge Graph 
+- **Champions**
+  - Michael Mackey michael.mackey@huawei.com
+  - Benoit Claise benoit.claise@huawei.com
+- **Project Info**
+Translate YANG network configuration data into RDF data so that it can be used in a Knowledge Based Information System.
+- **Related documents**
+- [Knowledge Graph Framework for Network Operations](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
+---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
