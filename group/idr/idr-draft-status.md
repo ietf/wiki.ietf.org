@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T15:39:46.910Z
+date: 2025-02-21T15:40:31.973Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -28,7 +28,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---| 
 | draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | IESG approved | RFC editor | 3/18/2024 | 7/30/2024 |   2/20/2025  | 1 day | 336 days  |
-| draft-ietf-idr-cpr-04 |  Sue Hares | IESG approve  | RFC editor queue | 5/17/2024 | 7/19/2024 | TBD | 4 days | 2/20/2025 days | 273 days | 
+| draft-ietf-idr-cpr-04 |  Sue Hares | IESG approve  | RFC editor queue | 5/17/2024 | 7/19/2024 | 2/20/2025 day | 1 days | 273 days | 
 {.dense}
 
  
