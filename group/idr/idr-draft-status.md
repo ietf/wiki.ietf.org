@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T16:04:16.101Z
+date: 2025-02-21T16:05:21.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -165,6 +165,7 @@ To effeciently handle drafts along, we are considering drafts in existing IDR ch
 |  draft  | Shepherd   |  Status     |  Next step     |  Adoption cycle   |  Post-Adoption  |   ETA   |
 |------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
+{.dense}
  
  ### IPv6 related Adoptions 
 | draft  | Shepherd | Status |  Next step  | Adoption planned |  ETA  | Comment 
