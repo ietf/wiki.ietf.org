@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-21T10:32:34.541Z
+date: 2025-02-21T10:56:48.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -383,6 +383,7 @@ This project’s approach to realizing this analyzes requirements for ensuring a
 ### YANG Configuration Data To Knowledge Graph 
 - **Champions**
   - Michael Mackey michael.mackey@huawei.com
+  - Beyza Yaman
   - Benoit Claise benoit.claise@huawei.com
 - **Project Info**
 Translate YANG network configuration data into RDF data so that it can be used in a Knowledge Based Information System.
