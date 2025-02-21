@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon Team Schedule
 description: 
 published: true
-date: 2025-02-21T20:50:58.280Z
+date: 2025-02-21T20:52:03.785Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:35:59.817Z
@@ -21,7 +21,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 ## Teams: Please fill out the table below to inform others how and when to collaborate with your team.
 
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
-|The Powerpuff Girls|---|---|
+|---|---|---|
 |   |   |   |
 |   |   |   |
 |   |   |   |
