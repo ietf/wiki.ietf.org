@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-li-idr-bgpls-sr-policy-composite-path
 description: Shepherd draft-li-idr-bgpls-sr-policy-composite-path
 published: true
-date: 2025-02-22T18:47:34.866Z
+date: 2025-02-22T18:48:55.027Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:46:27.306Z
