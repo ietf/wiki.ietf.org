@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-02-21T21:10:32.415Z
+date: 2025-02-22T00:06:19.097Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -27,7 +27,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### BGP-LS Drafts at IESG
 -[ draft-ietf-idr-bgp-ls-sr-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/): for  [versions 05-14](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy)  
-### BGP-LS WG drafts 
+### BGP-LS WG drafts (alphabetical) 
 -  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [-03](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric)
 - [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) [-04](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04)
 - [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) [-06](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-link-mtu)
