@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgpls-sr-vtn-mt
 description: Shepherd draft-ietf-idr-bgpls-sr-vtn-mt
 published: true
-date: 2025-02-22T17:24:41.745Z
+date: 2025-02-22T17:25:43.822Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T17:09:57.739Z
