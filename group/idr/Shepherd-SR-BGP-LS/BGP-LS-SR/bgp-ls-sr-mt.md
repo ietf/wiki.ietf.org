@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgpls-sr-vtn-mt
 description: Shepherd draft-ietf-idr-bgpls-sr-vtn-mt
 published: true
-date: 2025-02-22T17:20:34.669Z
+date: 2025-02-22T17:24:41.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T17:09:57.739Z
@@ -35,72 +35,37 @@ draft-ietf-teas-enhanced-vpn-20,
 
 **Desription:**  It is possible for a single eBGP session to be established between the two ASes and BGP-LS could signal for all links between those ASes that each side is up.  However, this can have issues previously identified for the base BGP-LS specification when this is done.  Consider this small example:
 
-> 
->      +------+
->      |  L1  |
->    --+......+---
-> R1........... R2
->    --+      +---
->      |  L2  |
->      +------+
-{.is-info}
+   R1----L1----R2
+   R1----L2----R2 
 
-
-
-
-R1 and R2 peer via eBGP over L1.
-
-R1 advertises to the rest of the network links L1 and L2 at R1
-
-R1 propagates the state for links L1 and L2 received from R2.
-
-
-
-R1 and R2 do not peer over L2.
-
+- R1 and R2 peer via eBGP over L1.
+- R1 advertises to the rest of the network links L1 and L2 at R1
+- R1 propagates the state for links L1 and L2 received from R2.
+- R1 and R2 do not peer over L2.
 
 
 If the link status of L2 at R1 and R2 is Up, but there is no connectivity between them (connectivity is down), it is possible that a controller will compute traffic over the down L2.
 
 
 
-This issue was covered in RFC 9952, Section 5.2.2 - Link Descriptors:
+**This issue was covered in RFC 9952, Section 5.2.2 - Link Descriptors:**
+> An implementation MAY suppress the advertisement of a Link NLRI,
+> corresponding to a half-link, from a link-state IGP unless the IGP has
+> verified that the link is being reported in the IS-IS LSP or OSPF Router LSA
+> by both the nodes connected by that link. This 'two-way connectivity check'
+> is performed by link-state IGPs during their computation and can be
+> leveraged before passing information for any half-link that is reported from
+> these IGPs into BGP-LS. This ensures that only those link-state IGP
+> adjacencies that are established get reported via Link NLRIs. Such a
+> 'two-way connectivity check' could also be required in certain cases (e.g.,
+> with OSPF) to obtain the proper link identifiers of the remote node.
+{.is-info}
 
 
-
-: An implementation MAY suppress the advertisement of a Link NLRI,
-
-: corresponding to a half-link, from a link-state IGP unless the IGP has
-
-: verified that the link is being reported in the IS-IS LSP or OSPF Router LSA
-
-: by both the nodes connected by that link. This 'two-way connectivity check'
-
-: is performed by link-state IGPs during their computation and can be
-
-: leveraged before passing information for any half-link that is reported from
-
-: these IGPs into BGP-LS. This ensures that only those link-state IGP
-
-: adjacencies that are established get reported via Link NLRIs. Such a
-
-: 'two-way connectivity check' could also be required in certain cases (e.g.,
-
-: with OSPF) to obtain the proper link identifiers of the remote node.
-
-
-
-The issue with RFC9552 here that is that the inter-domain case doesn't have an IGP on both sides to do the check.
-
-
-
-For typical eBGP, if the router advertised its connectivity at a link only when the session is up, we're good.  R1 would get each half side only if the session is up on each link.
-
+The issue with RFC9552 here that is that the inter-domain case doesn't have an IGP on both sides to do the check. For typical eBGP, if the router advertised its connectivity at a link only when the session is up, we're good.  R1 would get each half side only if the session is up on each link.
 
 
 As Jie Dong point out, draft-ietf-idr-bgpls-sr-vtn-mt-07 covers the following cases:
-
-
 
 1. Multiple eBGP sessions, each over an inter-domain link. As Jeff said, this case should be good.
 
@@ -109,14 +74,13 @@ As Jie Dong point out, draft-ietf-idr-bgpls-sr-vtn-mt-07 covers the following ca
 3. One EBGP session is established using loopback addresses, and there are multiple layer-3 inter-domain links between the ASBRs.
 
 
-
 Note that only #3, may have the problem above. However, in deployments there is some detection mechanism (e.g. BFD) to check the availability of the connection.
 
 
+ ## Editorial issues
 
- 3. Editorial issues
-
-     *   Section 2.1, paragraph 2, block quote - the block quote is not indented.  Typically, block quotes are indented.  Please indent in your next version.
+#### NIT-1: Section 2.1, paragraph 2, block quote - 
+The block quote is not indented.   Typically, block quotes are indented.  Please indent in your next version.
 
 
 
