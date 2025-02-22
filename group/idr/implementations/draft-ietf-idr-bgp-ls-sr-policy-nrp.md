@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Implementations draft-ietf-idr-bgp-ls-sr-policy-nrp
 published: true
-date: 2025-02-22T13:18:18.948Z
+date: 2025-02-22T13:19:14.046Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:18:18.948Z
@@ -19,9 +19,9 @@ implementation report:
 
 Implementations: 
 
-| Core Functionality | section |	Cisco IOS-XR | |	Huawei VRP	| Comments | 
+| Core Functionality | section |	Cisco IOS-XR |	Huawei VRP	| Comments | 
 |---|---|---|---|---|---|---|---|
-| NRP TLV  | 2 | TBD |	TBD | TBD | 
-| NRP Scaling | 3 | TBD | TBD | TBD 
-| Error handling |	TBD  | --- | --- | 			
+| NRP TLV  | 2 | TBD |	TBD |    | 
+| NRP Scaling | 3 | TBD | TBD |   |  
+| Error handling |	TBD  | TBD | TBD |   | 			
 
