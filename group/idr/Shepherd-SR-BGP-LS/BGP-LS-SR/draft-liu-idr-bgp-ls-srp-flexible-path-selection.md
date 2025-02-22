@@ -2,7 +2,7 @@
 title: Shepherd review for draft-liu-idr-bgp-ls-srp-flexible-path-seledtion 
 description: Shepherd draft-liu-idr-bgp-ls-srp-flexible-path-seledtion 
 published: true
-date: 2025-02-22T19:06:46.727Z
+date: 2025-02-22T19:09:52.871Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T19:06:46.727Z
@@ -23,7 +23,8 @@ dateCreated: 2025-02-22T19:06:46.727Z
 ## Review -00 and -001 
 **type:** Proposed standard 
 **WG status:** Individual draft 
-**current version:** 00 
+**-00 document:** [-00](https://datatracker.ietf.org/doc/html/draft-liu-idr-bgp-ls-srp-flexible-path-selection-00)
+**-01 document:** [-01](https://datatracker.ietf.org/doc/html/draft-liu-idr-bgp-ls-srp-flexible-path-selection-01)
 **review email:** https://mailarchive.ietf.org/arch/msg/idr/gUAvOQnTXt1hZD1WASzn3mDUkFo/
 
 ### short technical review 
