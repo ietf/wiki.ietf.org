@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-02-22T16:08:59.108Z
+date: 2025-02-22T16:42:03.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -15,6 +15,7 @@ Shepherd reports for each drafts are listed by draft in alphabetical order.
 Categories are: WG LC, WG drafts, adoption of individual draft, or individual draft (pre-adoption).  
 
 [Current status of BGP SR summary] 
+
 ### SR WG LC drafts
 
 ### SR WG drafts 
@@ -23,12 +24,11 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 ### SR drafts in adoption 
 ### SR Pre-Adoption Drafts 
 
+
 ## BGP-LS 
 Shepherd reports for each drafts are listed by draft in alphabetical order. 
 Categories are: WG LC, WG drafts, adoption of individual draft, or individual draft (pre-adoption).  
 
-
-### BGP-LS Statis pvervoews 00
 - [Summary of status of BGP-LS drafts](/group/idr/Shepherd-SR-BGP-LS/BGP-LS)
 - [Summary of status of BGP-LS focusing on SR drafts](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/)
 
