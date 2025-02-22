@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-li-idr-bgpls-sr-policy-composite-path
 description: Shepherd draft-li-idr-bgpls-sr-policy-composite-path
 published: true
-date: 2025-02-22T18:46:27.306Z
+date: 2025-02-22T18:47:34.866Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:46:27.306Z
@@ -17,7 +17,9 @@ dateCreated: 2025-02-22T18:46:27.306Z
 **current version:** -07 
 **review email for -06:** https://mailarchive.ietf.org/arch/msg/idr/gUAvOQnTXt1hZD1WASzn3mDUkFo/
 
-## -06 Review 
+
+
+## -06 and -07 Review 
 Please address the things before asking for a Pre-Adoption shepherd review.
 You may also ask for a review after any future revisions. 
 
