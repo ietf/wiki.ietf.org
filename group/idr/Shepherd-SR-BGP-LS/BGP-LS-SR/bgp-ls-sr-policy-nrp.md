@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Review of bgp-ls-sr-policy-nrp
 published: true
-date: 2025-02-22T13:40:39.563Z
+date: 2025-02-22T13:42:04.192Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T17:17:11.528Z
@@ -16,7 +16,7 @@ Status: WG draft, adopted (8/12/2024 upload), WG LC requested
 WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp. 
 implementation report: [v1](group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
 
-## -01 + -02  review - Pending 
+## -01  review - Pending 
 
 Status: WG LC requested (9/15), In Shepherd checks (2/21) 
 Shepherd checking: 
