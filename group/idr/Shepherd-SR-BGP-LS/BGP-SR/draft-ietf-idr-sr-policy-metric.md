@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-02-24T21:20:15.874Z
+date: 2025-02-24T21:26:59.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -28,7 +28,11 @@ dateCreated: 2025-02-24T21:07:32.555Z
  ## -01 Review 
  **draft (-01):**  [-01](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-01) handles Issue 1 and Editorial Nit-1.
  
- Technical issues remaining: Issue 2. 
+ Technical issues remaining: Issue 2 has needs a bit more in security section. 
+ 
+ Based on security AD/SEC-DIR is important to reference:
+- a) operates in trusted environment (as draft-ietf-idr-sr-policy-safi)
+- b) Operators must a metric for a segment is critical piece of information about critical infrastructure.  Care must be take with distribution of information.  
  
 
 ## -00 Review  
@@ -62,7 +66,7 @@ with distribution of information.
 
 #### Issue-3: Section 9, reference to [I-D.ietf-idr-bgp-ls-sr-policy], not in text 
 
-Why are you references drsaft-ietf-idr-bgp-ls-sr-policy? 
+Why are you references draft-ietf-idr-bgp-ls-sr-policy? 
 Is there something I missed?  
 
 ### Editorial Nits
