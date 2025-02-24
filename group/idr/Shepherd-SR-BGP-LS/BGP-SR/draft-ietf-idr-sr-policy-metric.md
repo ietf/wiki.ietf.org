@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-02-24T21:12:45.777Z
+date: 2025-02-24T21:20:15.874Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -21,12 +21,20 @@ dateCreated: 2025-02-24T21:07:32.555Z
 **implementations:** TBD  
 **bgp-ls draft:** none 
 
+## -02 Review 
+ **draft (-02):**  [refresh only](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-02) 
+ Update only refresh the draft.  No changes. 
+ 
+ ## -01 Review 
+ **draft (-01):**  [-01](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-01) handles Issue 1 and Editorial Nit-1.
+ 
+ Technical issues remaining: Issue 2. 
+ 
+
 ## -00 Review  
  
  **draft (-00):**  [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-00) 
- **draft (-01):** [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-01) 
- email link: https://mailarchive.ietf.org/arch/msg/idr/dSfqgekAtrTWgOf5qICKUEln2ow/
- 
+
  
 ### Technical issues
 #### Issue-1: Introduction, sentence 1,  SR Policy NLRI 
@@ -46,7 +54,6 @@ New text:**
 
 Security section should refer to security section in 
 [draft-ietf-idr-sr-policy-safi]. It is important to reference:
-
 a) operates in trusted environment (as draft-ietf-idr-sr-policy-safi)
 b) Operators must a metric for a segment is critical piece of 
 information about critical infrastructure.  Care must be take 
