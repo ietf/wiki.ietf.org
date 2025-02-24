@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-02-24T21:07:32.555Z
+date: 2025-02-24T21:12:45.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -28,7 +28,7 @@ dateCreated: 2025-02-24T21:07:32.555Z
  email link: https://mailarchive.ietf.org/arch/msg/idr/dSfqgekAtrTWgOf5qICKUEln2ow/
  
  
-### Technical issues:
+### Technical issues
 #### Issue-1: Introduction, sentence 1,  SR Policy NLRI 
 
 **Old text:**
@@ -58,6 +58,6 @@ with distribution of information.
 Why are you references drsaft-ietf-idr-bgp-ls-sr-policy? 
 Is there something I missed?  
 
-### Editorial NITS
+### Editorial Nits
 
 #### NIT-1: Figure 3, line with 5 Loss rate, fix alignment 
