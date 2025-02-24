@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-02-24T23:48:45.554Z
+date: 2025-02-24T23:50:15.248Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -14,7 +14,8 @@ dateCreated: 2025-02-24T23:48:45.554Z
 ## Summary 
 **draft:** [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
 **status:** WG Draft (expires 3/2/2025)
-**adopted:** 
+**adopted:** 12/14/2023 (delayed to due checking with TEAS) 
+**adoption calls:** 3/01 to 3/14/2024 
 **current version:** -02 
 **Early Allocation**: TBD 
 **implementations:** TBD  
