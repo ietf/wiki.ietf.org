@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-24T08:59:43.867Z
+date: 2025-02-24T23:08:10.928Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,7 +49,7 @@ Note that this page is public.
 ### Management Issues
 
 - Introduction for New ADs (Cindy)
-- Introduction to the RPC (Sandy)
+- Introduction to the RPC (Jean)
 - Introduction to IANA (Sabrina)
 - IETF 125 announcement at IETF-122? (Paul)
 - IETF 127 plans - likely plenary Q (Paul)
