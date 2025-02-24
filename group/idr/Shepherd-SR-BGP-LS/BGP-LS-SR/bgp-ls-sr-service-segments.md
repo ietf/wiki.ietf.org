@@ -2,7 +2,7 @@
 title: Shepherd Review of draft-ietf-idr-bgp-ls-sr-service-segment
 description: Shepherd draft-ietf-idr-bgp-ls-sr-service-segment
 published: true
-date: 2025-02-22T16:49:48.072Z
+date: 2025-02-24T20:14:43.128Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T16:49:48.072Z
@@ -14,10 +14,11 @@ dateCreated: 2025-02-22T16:49:48.072Z
 ## Summary of document
 **draft:** [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
 **Type:** Proposed Standard 
-**Status:** WG document 
-**current version:** -02 
-**implementations:** TBD 
 **status:** WG Draft (last publication 11/22/2022), expired, needs revision 
+**current version:** -02 
+
+**implementations:** TBD 
+**SR draft:**  TBD 
 
 ## -02 Review 
 **Email Link:** https://mailarchive.ietf.org/arch/msg/idr/BdAT2NbDpc9QLK-7QJEhou8fh-E/
