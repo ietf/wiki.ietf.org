@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-21T15:50:19.108Z
+date: 2025-02-24T13:38:32.236Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -389,6 +389,21 @@ This project’s approach to realizing this analyzes requirements for ensuring a
 Translate YANG network instance configuration data into RDF data so that it can be used in a Knowledge Based Information System.
 - **Related documents**
 - [Knowledge Graph Framework for Network Operations](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
+
+----
+### Implementation of SAV Benchmarking Methodology Based on SAV Open Playground
+- **Champions**
+  - Libin Liu (liulb at zgclab.edu.cn)
+- **Project Info**
+  - SAV Open Playground (SAVOP) is an open platform that enables the implementation, emulation, and evaluation of source dddress validation (SAV) mechanisms.
+  - Code: https://github.com/SAV-Open-Playground/
+  - Collaboration: Share ideas and feedback via [GitHub Discussions](https://github.com/SAV-Open-Playground/savop/discussions). Contributions are welcome!
+- **Hackathon Plan**
+  - Emulate existing SAV mechanisms (e.g., Strict uRPF, Loose uRPF, EFP-uRPF) in classic Internet topologies and scenarios.
+  - Develop benchmarking methodologies to evaluate intra-domain and inter-domain SAV performance.
+- **Related Documents**
+- [Benchmarking Methodology for Source Address Validation](https://datatracker.ietf.org/doc/draft-chen-bmwg-savnet-sav-benchmarking/)
+----
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
