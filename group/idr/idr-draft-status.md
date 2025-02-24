@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-21T17:15:44.418Z
+date: 2025-02-24T19:58:33.381Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -20,14 +20,14 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  | IESG Pub Req |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---|---|---|---|---|---|---|---|---|--|
-| draft-ietf-idr-sr-policy-safi  | Sue Hares  | At RFC editor  | RFC | 3/18/2024 | 7/20/2024  | 2/6/2025 | 14 days | 339  | TBD |   
+| draft-ietf-idr-sr-policy-safi  | Sue Hares  | At RFC editor  | RFC | 3/18/2024 | 7/20/2024  | 2/6/2025 | 14 days | 339  | TBD |  
+| draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | IESG approved | RFC editor | 3/18/2024 | 7/30/2024 |   2/20/2025  | 1 day | 336 days  |
 {.dense}
 
 
 ## IESG Approved
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---| 
-| draft-ietf-idr-bgp-sr-segment-types-ext | Sue Hares | IESG approved | RFC editor | 3/18/2024 | 7/30/2024 |   2/20/2025  | 1 day | 336 days  |
 | draft-ietf-idr-cpr-04 |  Sue Hares | IESG approve  | RFC editor queue | 5/17/2024 | 7/19/2024 | 2/20/2025 day | 1 days | 279 days | 
 {.dense}
 
@@ -47,6 +47,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft                                | Shepherd      |   status        |  Next step  |  WG LC approval Date  |  Time in State  |  ETA  |  Time since WG LC   |        |
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | Awaiting ip-redirect | IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
+
 {.dense}
 
 ## Queue for AD review 
@@ -64,8 +65,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## Waiting for Revision from Authors  (WG LC or impacts WG LC ) 
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-wide-bgp-communities |  Sue Hares  | Split draft | WG LC  |  Nov-5-2023  |  TBD | (11/5/2023) 259 days  | TBD | TBD | 
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | WG doc | Revision with Path Communnities | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
+|  draft-ietf-idr-wide-bgp-communities |  Sue Hares  | Split draft | WG LC  |  Nov-5-2023  |  TBD | (11/5/2023) 259 days  | TBD | TBD | 
 | draft-ietf-idr-flowspec-redirect-ip | Susan Hares | awaiting -03 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
 {.dense}
 
