@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-24T02:32:13.965Z
+date: 2025-02-24T08:41:03.982Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -53,6 +53,7 @@ Note that this page is public.
 - Introduction to IANA (Sabrina)
 - IETF 125 announcement at IETF-122? (Paul)
 - IETF 127 plans - likely plenary Q (Paul)
+- Last Call result of Moving RFCs 793, 1065, 1723 and 1725 to Historic (Francesca)
 
 
 ### WG News 
