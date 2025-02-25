@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-jiang-idr-sr-policy-composite-path
 description: Shepherd draft-jiang-idr-sr-policy-composite-path
 published: true
-date: 2025-02-25T22:52:11.936Z
+date: 2025-02-25T23:00:11.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T15:20:31.757Z
@@ -28,7 +28,7 @@ dateCreated: 2025-02-25T15:20:31.757Z
 **adoption status:** adoption requested 
 **email**: 
 
-Needs to address the issues from Review 0
+None of the issue from "Review of the [draft-jiang-idr-sr-policy-composite-path-00](https://datatracker.ietf.org/doc/html/draft-jiang-idr-sr-policy-composite-path-00) were addressed.  The -02 needs to address the issues from Review 0. 
 
 
 ## Review -00 
