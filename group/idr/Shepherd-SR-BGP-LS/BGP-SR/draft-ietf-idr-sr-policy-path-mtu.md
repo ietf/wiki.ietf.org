@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-02-25T00:11:51.623Z
+date: 2025-02-25T00:16:27.019Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -17,11 +17,14 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **status:** WG Draft (expires 3/2/2025),
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -10
-**Early Allocation**: TBD 
+**Early Allocation**: yes 
 **implementations:** TBD  
 **bgp-ls draft:** none
 
 ## Review -10 
+draft: [draft-ietf-idr-sr-policy-path-mtu-10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-mtu-10)
+Summary: Revision 10 resolves all the issues listed in the shepherd report. 
+Needs Template Revisions:  yes
 
 
 ## Review -09 
@@ -60,26 +63,29 @@ Summary: revision suggested
 
    
 #### Issue-2: Introduction, paragraph 1, 
-**
-Old text:/**
-   In order to distribute SR policies to the headend,
-   [I-D.ietf-idr-sr-policy-safi] specifies a mechanism by using BGP./
+
+**Old text:/**
+>    In order to distribute SR policies to the headend,
+>    [I-D.ietf-idr-sr-policy-safi] specifies a mechanism by using BGP./
+{.is-info}
 
 **New text:/**
-   In order to distribute SR policies to the headend,
-   [I-D.ietf-idr-sr-policy-safi] specifies a BGP mechanism 
-   to pass SR Policies and Candidate SR Policies in BGP UPDATE 
-   message.  Each SR Candidate Path is passed as combination of a
-   specific type of NLRI and BGP Tunnel Encapsulation Attribute (Tunnel-Encaps) 
-   with SR Policy Tunnel type tunnel.  The NLRI must contain 
-   either be the IPv4 Unicast AFI with SR Policy SAFI (AFI=1/SAFI=73), 
-   the IPv6 Unicast AFI with the SR Policy SAFI (AFI=2/SAFI=73)./ 
+>    In order to distribute SR policies to the headend,
+>    [I-D.ietf-idr-sr-policy-safi] specifies a BGP mechanism 
+>    to pass SR Policies and Candidate SR Policies in BGP UPDATE 
+>    message.  Each SR Candidate Path is passed as combination of a
+>    specific type of NLRI and BGP Tunnel Encapsulation Attribute (Tunnel-Encaps) 
+>    with SR Policy Tunnel type tunnel.  The NLRI must contain 
+>    either be the IPv4 Unicast AFI with SR Policy SAFI (AFI=1/SAFI=73), 
+>    the IPv6 Unicast AFI with the SR Policy SAFI (AFI=2/SAFI=73)./ 
+{.is-info}
+
  
 
 #### Issue-2. Introduction, paragraph 4, ingress needs to be ingress router 
 
-**Old text:**
->    /But the ingress still needs to
+**Old text: /**
+>    But the ingress still needs to
 >    examine the packet size for dropping too large packets to avoid
 >    malicious traffic or error traffic.  Also, the packet size may
 >    exceeds the PMTU because of the new encapsulation of SR-MPLS or SRv6
