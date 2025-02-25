@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-02-25T02:16:24.553Z
+date: 2025-02-25T02:17:20.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-25T01:55:41.779Z
 # Shepherd reviews for draft-ietf-idr-sr-policy-seglist-id
 
 ## Summary 
-**draft:**  [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
+**draft:**  [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-seglist-id) 
 **Type:** Proposed Standard 
 **status:** WG Draft (expired 2/16/2025) 
 **adopted:**  
