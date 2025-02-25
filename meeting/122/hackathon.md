@@ -404,6 +404,43 @@ Translate YANG network instance configuration data into RDF data so that it can 
 - **Related Documents**
   - [Benchmarking Methodology for Source Address Validation](https://datatracker.ietf.org/doc/draft-chen-bmwg-savnet-sav-benchmarking/)
 ----
+### SIMap for SRV6 and Linking Topology to External Data
+
+- **Champions**
+	- Sherif Mostafa (sherif.mostafa@huawei.com)
+	- Olga Havel (olga.havel@huawei.com)
+	- Vivekananda Boudia (vivekananda.boudia@insa-lyon.fr)
+	- Pierre Francois (pierre.francois@insa-lyon.fr)
+	- Oscar Gonzalez De Dios (oscar.gonzalezdedios@telefonica.com)
+	- Yannick Buchs (yannick.buchs@swisscom.com)
+	- Benoit Claise (benoit.claise@huawei.com)
+
+- **Project Info**
+	- The goal of this project is to demonstrate how operators can utilize IETF Topology YANG models to represent a real carrier IP/MPLS network, focusing on:
+	- Using the IETF topology model to represent a carrier network based on ISIS and SRV6 domains.
+	- Linking topological entities to external models/data.
+	- Evaluating whether RFC8345 is a suitable standard for representing multi-layered topologies for SIMap, and comparing models with and without the identified gaps.
+
+- **Specifications**
+  	- https://www.rfc-editor.org/rfc/rfc8345
+	- https://www.rfc-editor.org/rfc/rfc8944
+	- https://www.rfc-editor.org/rfc/rfc8346
+	- https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
+	- https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
+	- https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-concept
+	- https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map
+	- https://datatracker.ietf.org/doc/draft-davis-nmop-some-refinements-to-rfc8345
+	- https://datatracker.ietf.org/doc/rfc9130/
+	- https://datatracker.ietf.org/doc/rfc9129/
+
+- **Hackathon Plan**
+	- In IETF121 Hackathon, we demonstrated how RFC8345 could be used to model IS-IS and OSPF in both operator and virtual LAB environments, showcasing how to link topology to external data (such as inventory and metrics data). 
+	- The objective for this hackathon is to improve upon that prototype by:
+	- Enhancing methods for retrieving configuration attributes and metrics through the RFC8345 API, with IS-IS/OSPF/SRV6 augmentations.
+	- Demonstrating use cases such as traversing queries and querying external data for topology entities.
+
+## Related Groups
+- [Network Management Operations (nmop)](https://datatracker.ietf.org/group/nmop/)
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
