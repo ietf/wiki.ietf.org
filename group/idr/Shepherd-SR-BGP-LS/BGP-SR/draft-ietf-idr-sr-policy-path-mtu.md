@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-02-25T00:17:26.641Z
+date: 2025-02-25T02:15:55.443Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
