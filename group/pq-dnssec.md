@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-02-24T16:06:00.804Z
+date: 2025-02-25T10:04:38.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -20,15 +20,15 @@ Meeting notes are available [tbd].
 
 ## Agenda (work-in-progress)
 - 5' Note Well / Agenda Bashing ([Slides])
-- 15'+q Joe Harvey & Swapneel Sheth (Verisign): PQ DNSSEC with MTL Mode - Metrics and Observations ([Slides])
 - 15'+q Minh Hoang Tran (Virginia Tech): Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes ([Slides])
+- 15'+q Joe Harvey & Swapneel Sheth (Verisign): PQ DNSSEC with MTL Mode - Metrics and Observations ([Slides])
 - AOB
-
-### Joe Harvey & Swapneel Sheth: PQ DNSSEC with MTL Mode - Metrics and Observations
-Using the open-sourced MTL mode enabled DNS software from the current and past IETF Hackathons, we present some metrics that focus on the general operation of PQC DNSSEC and the operational considerations of MTL mode on zone signing and query/responses. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases to further evaluate interoperability and to confirm our collected metrics.
 
 ### Minh Hoang Tran: Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes
 Given the potential of the quantum computers to defeat existing asymmetric key cryptography algorithms that current DNSSEC relies upon, recent works have surveyed possible PQC candidates for DNSSEC. SLH-DSA-MTL (draft-harvey-cfrg-mtl-mode-04) is an extension to SLH-DSA which seeks to reduce the bandwidth and computation costs of SLH-DSA signatures through amortization using a growing Merkle Tree Ladder (MTL). The algorithm has also been proposed as a possible PQC candidate for DNSSEC (draft-fregly-dnsop-slh-dsa-mtl-dnssec-03). However, little has been done to survey its operational suitability within DNSSEC, particularly with regards to the limited message sizes and computational resources of DNS servers. This work seeks to estimate the effect that SLH-DSA-MTL’s condensed signatures have on reducing PQ-DNSSEC message costs by simulated randomized querying of a TLD zone and comparing SLH-DSA-MTL against both normal SLH-DSA and existing non-PQC algorithms.
+
+### Joe Harvey & Swapneel Sheth: PQ DNSSEC with MTL Mode - Metrics and Observations
+Using the open-sourced MTL mode enabled DNS software from the current and past IETF Hackathons, we present some metrics that focus on the general operation of PQC DNSSEC and the operational considerations of MTL mode on zone signing and query/responses. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases to further evaluate interoperability and to confirm our collected metrics.
 
 # IETF 121 Side Meeting
 Thursday, Nov 7, 2024 10:00-11:30 UTC ([information about room and online participation](https://wiki.ietf.org/en/meeting/121/sidemeetings#meeting-thursday))
