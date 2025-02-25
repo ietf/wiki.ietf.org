@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-jiang-idr-sr-policy-composite-path
 description: Shepherd draft-jiang-idr-sr-policy-composite-path
 published: true
-date: 2025-02-25T15:20:57.743Z
+date: 2025-02-25T22:52:11.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T15:20:31.757Z
@@ -211,6 +211,7 @@ dynamic (not defined yet)
 
 
 #### NIT-2: section 2.2, paragraph 2, sub-TLV
+
 I believe the convention from [draft-ietf-idr-sr-policy-safi]((https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)
 is to use Sub-TLV for each entry.  If not, please make the 
 convention clear in this text. 
