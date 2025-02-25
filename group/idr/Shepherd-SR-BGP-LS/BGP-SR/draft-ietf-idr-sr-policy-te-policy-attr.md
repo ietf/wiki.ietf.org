@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-02-25T02:27:54.922Z
+date: 2025-02-25T14:07:25.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-25T02:26:19.820Z
 
 
 ## Summary 
-**draft:**  [draft-ietf-idr-sr-policy--te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy--te-policy-attr) 
+**draft:**  [draft-ietf-idr-sr-policy-te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-te-policy-attr) 
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  8/12/2024 (7/12/2024 - 7/30/2024) 
@@ -23,7 +23,7 @@ dateCreated: 2025-02-25T02:26:19.820Z
 
 
 ## Review -00 
-**draft:**  [draft-ietf-idr-sr-policy--te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy--te-policy-attr)
+**draft:**  [draft-ietf-idr-sr-policy-te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-te-policy-attr)
 **Status**: WG draft, needs revision 
 **implementations:** unknown 
 **allocation status:** needs early allocation 
