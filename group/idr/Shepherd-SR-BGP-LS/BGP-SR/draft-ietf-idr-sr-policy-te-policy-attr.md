@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-02-25T02:26:19.820Z
+date: 2025-02-25T02:27:54.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -24,12 +24,12 @@ dateCreated: 2025-02-25T02:26:19.820Z
 
 ## Review -00 
 **draft:**  [draft-ietf-idr-sr-policy--te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy--te-policy-attr)
+**Status**: WG draft, needs revision 
+**implementations:** unknown 
+**allocation status:** needs early allocation 
+**WG LC status: **TBD (unknown)
+email: https://mailarchive.ietf.org/arch/msg/idr/v6GpJtriu8z0qg8OyjS9caGfy0M/
 
-Shepherd report for draft-ietf-idr-sr-te-policy-attr
-Status: WG draft, needs revision 
-implementations: unknown 
-allocation status: needs early allocation 
-WG LC status: TBD (unknown) 
 
 
 ### Technical: 
@@ -102,17 +102,21 @@ old text:/
 
    
  
- NIT-3: SEction 3.1, sentence 1, editorial
+#### NIT-3: SEction 3.1, sentence 1, editorial
  
- Old text:/
-    This type allows for identification of an Adjacency SID or BGP Peer
-   Adjacency SID (as defined in [RFC8402] ) SR-MPLS label for point-to-
-   point links including IP unnumbered links/
-   
- first suggestion:/
-     This type allows for identification of an Adjacency SID or BGP Peer
-   Adjacency SID (as defined in [RFC8402] ) as an SR-MPLS label for point-to-
-   point links including IP unnumbered links/
+>  Old text:/
+>     This type allows for identification of an Adjacency SID or BGP Peer
+>    Adjacency SID (as defined in [RFC8402] ) SR-MPLS label for point-to-
+>    point links including IP unnumbered links/
+{.is-info}
+
+>    
+>  first suggestion:/
+>      This type allows for identification of an Adjacency SID or BGP Peer
+>    Adjacency SID (as defined in [RFC8402] ) as an SR-MPLS label for point-to-
+>    point links including IP unnumbered links/
+{.is-info}
+
    
    comment; Are you trying to use an SR-MPLS label as an Adjacency SID or 
    a BGP Peer Adjaency SID or something else?  Please reword the sentence. 
