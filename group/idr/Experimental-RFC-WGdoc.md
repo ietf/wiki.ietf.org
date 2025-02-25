@@ -2,7 +2,7 @@
 title: Status of Experimental RFC and WG documents
 description: Experimental RFC-Docs 
 published: true
-date: 2025-02-20T22:38:02.236Z
+date: 2025-02-25T22:34:50.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-20T21:17:58.113Z
@@ -37,7 +37,10 @@ CAR (discussion here)
 State: Experimental 
 **Status:** At IESG 
 **implementations:** 2
-**Deployments:** TBD 
+**Deployments:** 
+
+CT (discussion here). 
+
 
 
 ## CPR 
@@ -48,9 +51,10 @@ State: Informational
 **Deployments**: TBD 
 
 
-### March 2023 Experiment Status (prior to IETF-122)  
+### March 2023 Experiment Status (by IETF-122) - Pendng 
 
-TBD 
+TBD - by March10th. 
+
 
 # New SR Segment types 
 
