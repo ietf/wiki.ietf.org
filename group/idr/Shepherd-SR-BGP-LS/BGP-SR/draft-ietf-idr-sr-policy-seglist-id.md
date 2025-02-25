@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-02-25T02:15:43.614Z
+date: 2025-02-25T02:16:24.553Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
