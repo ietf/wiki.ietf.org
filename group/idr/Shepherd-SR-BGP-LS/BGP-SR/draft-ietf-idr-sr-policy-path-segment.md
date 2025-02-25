@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-02-25T01:34:42.835Z
+date: 2025-02-25T01:41:27.393Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
