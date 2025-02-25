@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-21T20:55:23.401Z
+date: 2025-02-25T17:56:19.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -68,8 +68,6 @@ In Progress:
 * 2025-01-22: Suresh Krishnan to draft a wiki page detailing what 
     information the IAB needs from NomCom in order to confirm IESG 
     candidates.
-
-New: 
 
 - 2025-02-19: Mirja Kühlewind to send email proposing times for the 
     New Work Help Desk once the final agenda for IETF 122 is published.
