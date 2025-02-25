@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-02-25T00:09:15.826Z
+date: 2025-02-25T00:11:51.623Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -76,7 +76,7 @@ Old text:/**
    the IPv6 Unicast AFI with the SR Policy SAFI (AFI=2/SAFI=73)./ 
  
 
-2. Introduction, paragraph 4, ingress needs to be ingress router 
+#### Issue-2. Introduction, paragraph 4, ingress needs to be ingress router 
 
 **Old text:**
 >    /But the ingress still needs to
