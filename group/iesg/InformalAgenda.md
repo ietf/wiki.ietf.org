@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-25T19:21:29.930Z
+date: 2025-02-25T20:45:08.361Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -56,6 +56,7 @@ Note that this page is public.
 - Last Call result of Moving RFCs 793, 1065, 1723 and 1725 to Historic (Francesca) : https://mailarchive.ietf.org/arch/msg/iesg/xpgD8bNtS4IAZPjrEGFAkCe6rvE/
 - Use of IETF videos for AI training (John)
 - AD sponsored AD document Q (Paul)
+- Appeal Review (Roman)
 
 ### WG News 
 
