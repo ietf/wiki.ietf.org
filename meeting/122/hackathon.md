@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-26T10:23:17.412Z
+date: 2025-02-26T10:25:17.632Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -444,13 +444,13 @@ Translate YANG network instance configuration data into RDF data so that it can 
 
 
 ----
-### RESTful Provisioing Protocol (RPP)
+### RESTful Provisioning Protocol (RPP)
 - **Champions**
 Maarten Wullink maarten.wullink@sidn.nl
 Pawel Kowalik pawel.kowalik@denic.de
 
 - **Project Info**
-The RPP working group is focused on designing a new protocol via a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
+The newly formed RPP working group is focused on designing a new protocol via a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
 
 - **Hackathon Plan**
 - Develop proposals for protocol architecture 
