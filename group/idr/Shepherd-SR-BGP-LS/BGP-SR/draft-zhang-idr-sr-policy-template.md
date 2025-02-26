@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-zhang-idr-sr-policy-template 
 description: Shepherd draft-zhang-idr-sr-policy-template 
 published: true
-date: 2025-02-26T01:00:52.202Z
+date: 2025-02-26T01:03:05.233Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T00:56:51.369Z
@@ -21,6 +21,9 @@ dateCreated: 2025-02-26T00:56:51.369Z
 **Early Allocation**: yes, need early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
+
+## Review of -04 (-05) - Pending 
+**draft:**  [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/html/draft-zhang-idr-sr-policy-template)
 
 
 ## Notes from 5/20/2024 Interim
