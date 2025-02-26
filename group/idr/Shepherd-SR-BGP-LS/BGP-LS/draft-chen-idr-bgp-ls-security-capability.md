@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-ls-security-capability
 description: Shepherd draft-chen-idr-bgp-ls-security-capability
 published: true
-date: 2025-02-22T18:19:02.986Z
+date: 2025-02-26T03:00:45.736Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:19:02.986Z
@@ -22,7 +22,7 @@ dateCreated: 2025-02-22T18:19:02.986Z
 ## Review -04 
 
 Comment: The changes in abstract from -03 do not address technical Issue-1. 
-Also you ned to address the other issues. 
+Also you need to address the other issues. 
 
 ## Review -03 
 **draft:** [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-ls-security-capability-03)
