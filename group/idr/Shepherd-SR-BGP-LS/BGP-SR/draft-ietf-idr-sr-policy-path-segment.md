@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-02-25T01:48:42.909Z
+date: 2025-02-26T02:44:00.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -25,7 +25,7 @@ dateCreated: 2025-02-25T01:30:56.613Z
 ## Review -13 - Pending) 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-13](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-13)
 
-(pending: ETA 2/25): topics - early allocation, template for SubTLV in TEA, and implementatnoi reports. 
+(pending: ETA 2/26): topics - early allocation, template for SubTLV in TEA, and implementatnoi reports. 
 
 ## Review -11 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-11](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-11))
