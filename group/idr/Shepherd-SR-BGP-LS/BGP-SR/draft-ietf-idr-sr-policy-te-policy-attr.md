@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-02-25T14:07:25.827Z
+date: 2025-02-26T02:46:52.952Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -21,6 +21,9 @@ dateCreated: 2025-02-25T02:26:19.820Z
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
 
+## Review -01  (pending) 
+
+Review -01 pending (ETA 2/26)
 
 ## Review -00 
 **draft:**  [draft-ietf-idr-sr-policy-te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-te-policy-attr)
