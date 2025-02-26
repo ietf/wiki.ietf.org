@@ -2,7 +2,7 @@
 title: IRSG Teleconference Minutes
 description: 
 published: true
-date: 2025-02-26T19:04:27.041Z
+date: 2025-02-26T19:13:07.552Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
