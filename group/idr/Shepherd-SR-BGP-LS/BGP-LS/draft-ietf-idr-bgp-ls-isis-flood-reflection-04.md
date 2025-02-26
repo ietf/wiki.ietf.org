@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-ls-isis-flood-reflection
 description: Review draft-ietf-idr-bgp-ls-isis-flood-reflection
 published: true
-date: 2025-02-26T02:55:58.777Z
+date: 2025-02-26T02:56:43.676Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T00:05:16.125Z
@@ -23,8 +23,8 @@ https://wiki.ietf.org/e/en/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-
 ## Version -04 
 
 ### overview 
-**draft:** [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04)
-**Implementations:** Unknown, need 2 for WG LC
+**draft:** [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)
+
 **Implementation Report Page:** [no report yet] (https://wiki.ietf.org/e/en/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection_) 
 **draft status:** -04 expired (needs -05) 
 **email link:** https://mailarchive.ietf.org/arch/msg/idr/UtFizxx1WtGMZXR2m-GOcxptEuI/
