@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-02-24T23:50:15.248Z
+date: 2025-02-26T02:40:52.929Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -21,7 +21,7 @@ dateCreated: 2025-02-24T23:48:45.554Z
 **implementations:** TBD  
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp/](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) 
 
-## -02 pending Shepherd for WG LC (ETA 2/25) 
+## -02 pending Shepherd for WG LC (ETA 2/26) 
 
 ### Technical Issues 
 Need to use new template format for Sub-TLV for NRP-ID in Tunnel-encaps Attribute. 
