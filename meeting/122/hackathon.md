@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-26T10:25:17.632Z
+date: 2025-02-26T10:48:37.573Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -453,10 +453,10 @@ Pawel Kowalik pawel.kowalik@denic.de
 The newly formed RPP working group is focused on designing a new protocol via a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
 
 - **Hackathon Plan**
-- Develop proposals for protocol architecture 
+- Discuss/Develop/Validate proposals for protocol architecture 
 - Develop running code for:
-  - API sandbox environment 
-  - RPP to EPP adapter adapter 
+  - RPP API sandbox & client 
+  - RPP to EPP adapter 
 - Other interesting ideas
 
 
