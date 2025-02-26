@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-02-26T00:40:45.884Z
+date: 2025-02-26T02:09:56.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -21,6 +21,8 @@ none
 none 
 
 ### SR WG drafts 
+
+- [draft-ietf-idr-bgp-srmpls-elp-2](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/) - [(-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) 
 
 - [draft-ietf-idr-sr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-epe-over-l2bundle)
 
@@ -42,6 +44,9 @@ none
 ### SR drafts in adoption call 
 
 ### SR Pre-Adoption Drafts 
+
+
+
 - [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity)
 
 - [draft-jiang-idr-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) 
