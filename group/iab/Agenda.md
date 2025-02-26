@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-25T17:56:25.862Z
+date: 2025-02-26T16:40:21.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -18,9 +18,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
     * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
     * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
 
-## IAB Agenda: 2025-02-26 0700 PST (UTC-8) 
+## IAB Agenda: 2025-03-05 0700 PST (UTC-8) 
 
-*Agenda as of 2025-02-21. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-02-26. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -32,26 +32,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - Nominations are open for IAB Chair; see email from David.
 #### 1.3. Meeting Minutes 
 
-Under Review: 
+For approval:
 
 * 2025-02-19 business meeting - (submitted 2025-02-19)
 
-Under review:
+Under Review: 
+
+* 2025-02-26 business meeting - (submitted 2025-02-26)
 
 #### 1.4. Action Item Review - 5 mins
 
 Done:
-
-- 2025-02-19: Cindy Morgan to follow up with David Schinazi about 
-    kicking off the IAB Chair selection process.
-
-- 2025-02-19: Cindy Morgan to invite Scott Mansfield to an IAB 
-    meeting at IETF 122 to discuss boilerplate responses to liaison 
-    statements.
-
-- 2025-02-19: Tommy Pauly to respond to Daniel Migault's email 
-    regarding the RSSAC document "Guidelines for Changing IP 
-    Addresses."
 
     
 On Hold:
@@ -115,30 +106,20 @@ In Progress:
     IESG Telechat: (not on agenda)
     IAB Reviewer: Mirja Kühlewind
     
- * **RESTful Provisioning Protocol (RPP)**
-    Area: ART
-    External Review 
-    IESG Telechat: 2025-02-20
-    IAB Reviewer: Tommy Pauly
 
 #### 1.7 IAB Appointments
 
 - Next up: Community Coordination Group (CCG); kick-off in May
 
 
-### 2. IGF Proposal (Dhruv) - 10 mins (Public)
-
-  Goal: Review proposal for IGF, new steps.
-
-### 3. IAB Onboarding and Review (Cindy) - 30 mins (Public)
-
-  Slides: [IAB Onboarding and Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)
+### 2. 
 
 ## Upcoming Teleconferences 
 
 * 2025-03-05: IAB Business Meeting
     - BOF Coverage
     - IAB Agendas at IETF 122
+    - IGF Proposal
 
 -- 2025-03-15 - 2025-03-21: IETF 122 Bangkok --
 
