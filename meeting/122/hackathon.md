@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-26T10:20:51.074Z
+date: 2025-02-26T10:23:17.412Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -454,7 +454,9 @@ The RPP working group is focused on designing a new protocol via a series of spe
 
 - **Hackathon Plan**
 - Develop proposals for protocol architecture 
-- Develop running code for a sandbox environment or a RPP to EPP adapter adapter 
+- Develop running code for:
+  - API sandbox environment 
+  - RPP to EPP adapter adapter 
 - Other interesting ideas
 
 
