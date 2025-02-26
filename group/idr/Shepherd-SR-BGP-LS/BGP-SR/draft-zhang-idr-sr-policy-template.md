@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-zhang-idr-sr-policy-template 
 description: Shepherd draft-zhang-idr-sr-policy-template 
 published: true
-date: 2025-02-26T01:03:05.233Z
+date: 2025-02-26T01:47:30.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T00:56:51.369Z
@@ -25,12 +25,100 @@ dateCreated: 2025-02-26T00:56:51.369Z
 ## Review of -04 (-05) - Pending 
 **draft:**  [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/html/draft-zhang-idr-sr-policy-template)
 
+## Query by Jie Dong to IDR WG (9/3) 
+**email link:** https://mailarchive.ietf.org/arch/msg/idr/4Uevk5jPnST9PsSvFJS2MSuCASs/
+
+### Message from Jie Dong: 
+> Dear all,
+> 
+> A few month ago, draft-zhang-idr-sr-policy-template was presented at an interim meeting of IDR WG, and on the meeting there was suggestion that the architecture part of introducing template to SR Policy needs to be discussed in SPRING. Hence we would like to solicit attention and opinions from SPRING WG on this topic.
+> 
+> As described in the IDR draft, a template consists of a set of attributes and functions which can be associated with an SR Policy and its candidate paths. Some examples of the attributes and functions are:
+> 
+> - BFD and its parameters
+> - protection
+> - in-situ performance measurement
+> - traffic statistics
+> - etc.
+> 
+> The content of a template can be defined by an operator and then provided to both the controller and the network devices via management interfaces. A template may be used only on a specific headend node, or it may be used on multiple headend nodes in the network.
+> 
+> For the instantiation of an SR Policy, only the template ID needs to be carried as one of the attributes of the SR Policy in the control protocols, such as BGP and PCEP. Thus the extensions to the control protocols are straightforward. Please note for PCEP there is a draft proposing similar concept and extensions: draft-alvarez-pce-path-profiles.
+> 
+> 
+> Any comments and considerations on introducing template to the SR Policy architecture would be appreciated.
+> 
+> Best regards, Jie Dong
+> 
+{.is-info}
+
+#### Comments from Nat Kao 
+
+> Hi, Jie.
+> I've read -04 of this draft.
+> We can further augment it by introducing attributes in the current
+> candidate paths(CPs). (ex: SID lists, ENLP, ...etc.)
+> The template acts as a collection of default values of SR policy CPs on the
+> headend.
+> If we do so, we can define procedures for the following:
+>     1. How are the values for the same attribute selected from the received
+> CP or the referring template?
+>        -We can inherit the values from the referring template for the
+> attributes if there's no definition in the CP.
+>        -For some attributes, a merge might also be an option.
+>     2. How to deal with CPs when we add/modify/remove the referring template 
+{.is-info}
+
+#### Response from Jie Dong
+> Hi Nat,
+> 
+> Thanks for the review and comments.
+> 
+> In my understanding there are two types of attributes for a candidate path.
+> 
+> The first type is the attributes which are necessary for creating a candidate path, this includes binding SID, SID list, priority, etc. In BGP, these attributes are defined as TLVs/sub-TLVs associated with the SR Policy SAFI.
+> 
+> The second type is the attributes which are ancillary and could be associated with a candidate path, this includes BFD, protection, traffic monitoring, etc. In BGP, these attributes will not be defined as individual TLVs/sub-TLVs of the SR Policy SAFI.
+> 
+> The template concept we are introducing here is about the second type of attributes, as it is possible that these attributes could be the same for multiple candidate paths, which means the template can be reused. And using one template ID can refer to a series of attributes. Thus I would say “a template acts as a collection of customized attributes associated with an SR Policy candidate path”.
+> 
+> For your first comment about the procedure, since the attributes defined in a template are not covered in the existing SR Policy attributes, there will be no overlap or conflict.
+> 
+> As for your second comment, if the template for an SR Policy CP needs to be updated or removed, the control plane mechanism (e.g. BGP) would be used to send an update of the CP.
+> 
+> Best regards Jie Dong: 
+{.is-info}
+
+#### Response from Nat to Jie's response 
+
+**ON comment 1: **
+> <NK>
+> As you mentioned, there are two sets of attributes of a CP: the "base set"
+> and the "ancillary set." The base set is carried in the BGP SR-Policy SAFI,
+> while the ancillary set can specified by other means. A template is one of
+> those means to pack the ancillary set. According to the current assumptions
+> of the SR-Policy template draft, these two sets are disjoint.
+> 
+> However, this might pose a restriction on the SAFI for ancillary sets. For
+> the extensibility of the SAFI and the template itself, I suggest adding a
+> tie-breaking procedure for the templates just in case of overlaps. If that
+> case is out of the scope of the current draft, maybe we can add some text
+> describing it and let the following drafts(if any) deal with that in the
+> future.
+> </NK>
+{.is-info}
+
+**On Comment 2: **
+
+> <NK>
+> Do you mean there will be another SAFI to distribute ancillary sets?
+> </NK>
+{.is-info}
+
+
 
 ## Notes from 5/20/2024 Interim
 **Email:** https://mailarchive.ietf.org/arch/msg/idr/LURaaODPdiT6Sn7HG1qrWQqSpys/
-
-Link to Email on 5/20/2024 Interim
-https://mailarchive.ietf.org/arch/msg/idr/XQkAVav3Kg23B5UsOO764_CPvOE/
 
 
 ### Notes  from 5/20/2024 interim:
