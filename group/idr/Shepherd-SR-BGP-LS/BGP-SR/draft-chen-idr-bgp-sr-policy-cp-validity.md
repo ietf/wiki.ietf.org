@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2025-02-25T14:30:24.249Z
+date: 2025-02-26T02:48:19.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -30,7 +30,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **email:** pending 
 **Authors:** 5 
 
-**ETA for Review**: 2/25/2025 
+**ETA for Review**: 2/26/2025 
 
 
 ## Review -02 
