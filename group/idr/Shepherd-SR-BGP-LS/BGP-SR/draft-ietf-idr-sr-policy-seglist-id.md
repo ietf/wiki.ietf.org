@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-02-25T02:21:41.975Z
+date: 2025-02-26T02:45:35.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -19,6 +19,11 @@ dateCreated: 2025-02-25T01:55:41.779Z
 **Early Allocation**: yes, need early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
+
+
+## Revision -03 
+
+Review pending (ETA 2/26) 
 
 
 ## Revision -02 
