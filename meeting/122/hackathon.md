@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-25T14:51:55.306Z
+date: 2025-02-26T10:20:51.074Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -441,6 +441,28 @@ Translate YANG network instance configuration data into RDF data so that it can 
 
 ## Related Groups
 - [Network Management Operations (nmop)](https://datatracker.ietf.org/group/nmop/)
+
+
+----
+### RESTful Provisioing Protocol (RPP)
+- **Champions**
+Maarten Wullink maarten.wullink@sidn.nl
+Pawel Kowalik pawel.kowalik@denic.de
+
+- **Project Info**
+The RPP working group is focused on designing a new protocol via a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
+
+- **Hackathon Plan**
+- Develop proposals for protocol architecture 
+- Develop running code for a sandbox environment or a RPP to EPP adapter adapter 
+- Other interesting ideas
+
+
+- **Related documents**
+
+- [WG Charter](https://datatracker.ietf.org/wg/rpp/about/)
+- [Related work: RESTful EPP](https://datatracker.ietf.org/doc/draft-wullink-restful-epp/)
+
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
