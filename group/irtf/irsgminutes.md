@@ -2,7 +2,7 @@
 title: IRSG Teleconference Minutes
 description: 
 published: true
-date: 2025-01-30T00:50:22.015Z
+date: 2025-02-26T19:04:27.041Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T17:52:35.934Z
@@ -11,8 +11,9 @@ dateCreated: 2023-02-27T17:52:35.934Z
 # IRSG Teleconference Minutes 
 
 ## 2025
-* [2025-01-28](https://wiki.ietf.org/en/group/irtf/irsgminutes/2025-01-28)
-	* OK from: Michael Welzl, Eve Schooler
+* [2025-02-25](https://wiki.ietf.org/en/group/irtf/irsgminutes/2025-02-25)
+	* OK from: 
+ * [2025-01-28](https://wiki.ietf.org/en/group/irtf/irsgminutes/2025-01-28)
 ## 2024
 * [2024-11-26](https://wiki.ietf.org/en/group/irtf/irsgminutes/2024-11-26)
 * [2024-09-24](/group/irtf/irsgminutes/2024-09-24)
