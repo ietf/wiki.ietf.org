@@ -2,7 +2,7 @@
 title: SUSTAIN PRG - Sustainability and the Internet Proposed Research Group
 description: 
 published: true
-date: 2025-02-14T04:21:01.903Z
+date: 2025-02-26T13:07:39.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T17:32:33.956Z
@@ -51,4 +51,5 @@ This is meant to make it easier for people to find their way around the IETF reg
 
 ### Relevant Internet-drafts
 
+- Sustainability Considerations for Networking Protocols and Applications: [draft-pignataro-enviro-sustainability-consid-01](https://datatracker.ietf.org/doc/draft-pignataro-enviro-sustainability-consid/)
 - An Overview of Energy-related Effort within the IETF: [draft-eckert-ietf-and-energy-overview-07](https://datatracker.ietf.org/doc/draft-eckert-ietf-and-energy-overview/)
