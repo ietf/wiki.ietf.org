@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-liu-idr-bgpls-sr-p2mp-policy-distribution
 description: Shepherd draft-liu-idr-bgpls-sr-p2mp-policy-distribution
 published: true
-date: 2025-02-22T19:17:36.783Z
+date: 2025-02-26T03:02:25.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T19:17:36.783Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-22T19:17:36.783Z
 
 ## overview 
 
-**draft:** [draft-liu-idr-bgpls-sr-p2mp-policy-distribution] (https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution)
+**draft:** [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution)
 **type:** Proposed standard 
 **WG status:** Individual draft 
 **current version:** 04 
