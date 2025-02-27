@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-02-25T10:04:38.794Z
+date: 2025-02-27T12:28:42.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -22,6 +22,7 @@ Meeting notes are available [tbd].
 - 5' Note Well / Agenda Bashing ([Slides])
 - 15'+q Minh Hoang Tran (Virginia Tech): Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes ([Slides])
 - 15'+q Joe Harvey & Swapneel Sheth (Verisign): PQ DNSSEC with MTL Mode - Metrics and Observations ([Slides])
+- 15'+q Ondřej Surý: Feasibility of the new Post Quantum Cryptography for DNSSEC ([Slides])
 - AOB
 
 ### Minh Hoang Tran: Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes
@@ -29,6 +30,16 @@ Given the potential of the quantum computers to defeat existing asymmetric key c
 
 ### Joe Harvey & Swapneel Sheth: PQ DNSSEC with MTL Mode - Metrics and Observations
 Using the open-sourced MTL mode enabled DNS software from the current and past IETF Hackathons, we present some metrics that focus on the general operation of PQC DNSSEC and the operational considerations of MTL mode on zone signing and query/responses. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases to further evaluate interoperability and to confirm our collected metrics.
+
+### Ondřej Surý: Feasibility of the new Post Quantum Cryptography for DNSSEC
+
+The Domain Name System (DNS) is a critical part of the internet that maps domain names to their corresponding IP addresses. DNS Security Extensions (DNSSEC) were developed to secure DNS, preventing attacks like cache poisoning and man-in-the-middle attacks by authenticating DNS data with cryptographic signatures. However, the rise of quantum computing presents major risks to current cryptographic systems because many public-key cryptosystems can be broken by quantum algorithms.
+ 
+As a result, the National Institute of Standards and Technology (NIST) is currently working on standardizing more post-quantum cryptographic algorithms because current post-quantum signature schemes standardized by NIST have large public keys and/or signatures that can make DNSSEC operations more complicated and burdensome.
+ 
+Beernink suggested the solution of putting the public keys on webservers that would decrease the size of DNSSEC records but would add complexity, for instance, dependence on the HTTP protocol and the need for the DNS resolver operators to have webservers. 
+ 
+In this work, we investigate the appropriateness of the new post-quantum cryptography schemes for the DNSSEC.
 
 # IETF 121 Side Meeting
 Thursday, Nov 7, 2024 10:00-11:30 UTC ([information about room and online participation](https://wiki.ietf.org/en/meeting/121/sidemeetings#meeting-thursday))
