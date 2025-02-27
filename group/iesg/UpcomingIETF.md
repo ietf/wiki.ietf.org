@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-02-27T19:42:11.742Z
+date: 2025-02-27T21:17:43.449Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -90,7 +90,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/Agenda122).
 
-* 08:30 - 9:30 - ART AD Office Hours (ART ADs)
+
   
 ## Wednesday, March 19, 2025
 ### IESG Meeting Time: 08:00-09:20  Room: Meeting Room 2
@@ -140,6 +140,7 @@ Conference style seats for 16
 
 ## Tuesday, 18 March 2025
 
+* 08:30 - 9:30 - ART AD Office Hours (ART ADs)
 * 1345 - 1530 -- INT office hour (INT ADs)
 * TIME - TIME -- Thing (Person responsible)
 
