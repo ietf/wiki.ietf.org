@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-02-27T16:03:49.844Z
+date: 2025-02-27T17:45:46.943Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -56,7 +56,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: Meeting Room 2
 
-* Meetecho: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: WIT, RTG, GEN, OPS, IRTF, SEC, INT, ART, IAB
@@ -64,7 +64,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### IESG Meeting - 14:00-16:00 Room: Meeting Room 2
 
-* Meetecho: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
 
 >1.  IANA Update (10min, Sabrina)
 >2.  RPC Check-in (10min, Jean)
@@ -81,7 +81,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### IESG Meeting Time: 08:00-09:20  Room: Meeting Room 2
 
-* Meetecho: TBD
+* Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1002
 >1. Topics?
 
  
@@ -92,6 +92,8 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
   
 ## Wednesday, March 19, 2025
 ### IESG Meeting Time: 08:00-09:20  Room: Meeting Room 2
+
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1004
 
 
 >1. Plenary Slide Review + Prep
@@ -109,6 +111,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ### Joint IAB/IESG Lunch and Meeting - Time: 11:30-13:00 Room: Meeting Room 2
 
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1007
 
 
 > 1. Welcome
