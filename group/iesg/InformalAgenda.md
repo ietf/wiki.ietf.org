@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-27T14:54:32.363Z
+date: 2025-02-27T16:24:18.780Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -57,6 +57,7 @@ Note that this page is public.
 - Use of IETF videos for AI training (John)
 - AD sponsored AD document Q (Paul)
 - Appeal Review (Roman)
+- Update of IESG Statement on Inclusive Language (John) (see https://mailarchive.ietf.org/arch/msg/terminology/hTbe8e2Iey_SvZNyjDRRVZ_1Nws/)
 
 ### WG News 
 
