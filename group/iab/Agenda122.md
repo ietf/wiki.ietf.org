@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-02-18T19:05:57.206Z
+date: 2025-02-27T17:45:01.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
@@ -26,15 +26,10 @@ Please join us for a quick tour around the conference center. We will end with a
 
 ## Sunday, 2025-03-16
 
-0930-1130: Either IESG or IAB Meeting
+**0930-1130: IAB Meeting (Meeting Room 2)**
 
-**1145-1215: IAB/IESG Lunch (Room: TBD)**
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
 
-**1215-1345: IAB/IESG Meeting (Room: TBD)** 
-
-Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
-
-1400-1600: Either IESG or IAB Meeting
 
 > IAB-Only Agenda:
 > 
@@ -52,15 +47,26 @@ Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 >     - IAB Outreach Coordinator
 > 
 
+**1145-1215: IAB/IESG Lunch (Meeting Room 2)**
+
+**1215-1345: IAB/IESG Meeting (Meeting Room 2)** 
+
+Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
+
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
+
+
+
 
 ## Monday, 2025-03-17
 
-**1145-1245: IETF-3GPP Coordination (Room: TBD)**
+**1145-1245: IETF-3GPP Coordination (Meeting Room 2)**
 
 
 ## Tuesday, 2025-03-18
 
 **0800-0920 Bangkok: IAB Business Meeting (Meeting Room 1)**
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1003
 
 > Agenda:
 > 
@@ -69,11 +75,13 @@ Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 ## Wednesday, 2025-03-19
 
-**1700-1900 Bangkok: IETF 121 Plenary (Room: TBD)**
+**1700-1900 Bangkok: IETF 121 Plenary (Chitlada 1/2)**
 
 ## Thursday, 2025-03-20
 
 **0800-0920 Bangkok: IAB Business Meeting (Meeting Room 1)**
+
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1005
 
 > Agenda:
 > 
@@ -81,11 +89,15 @@ Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
 **1130-1300: Liaison Coordinators + Liaison Managers Meeting (Meeting Room 1)**
 
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1006
+
 ## Friday, 2025-03-21
 
-**1130-1300 Bangkok: IAB/IESG Lunch + Meeting (Room: TBD)** 
+**1130-1300 Bangkok: IAB/IESG Lunch + Meeting (Meeting Room 2)** 
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
+
+Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1007
 
 
 **1715-1815 Bangkok: Farewell Reception (Room: TBD)**
