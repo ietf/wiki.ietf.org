@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-28T18:37:35.175Z
+date: 2025-02-28T18:52:59.266Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -468,12 +468,12 @@ The newly formed RPP working group is focused on designing a new protocol via a 
 ----
 ### MAPRG IPv6 Test Pod Open Testing and Diagnosis
 - **Champions**
-David Plonka dave@plonka.us (MAPRG co-chair)
+David Plonka dave@plonka.us (MAPRG co-chair, WiscNet's Principal Research Scientist)
 
 - **Project Info**
-The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irtf.org/maprg.html)) will provide an open testing enviroment for participants to determine how well equipment and applications work in a variety of IPv6 network environments.
+The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irtf.org/maprg.html)) and [WiscNet](https://wiscnet.net/) will provide an open testing enviroment for participants to determine how well equipment and applications work in a variety of IPv6 network environments.
 
-  To accomplish this, we will provide access to the IPv6 Test Pod (https://ipv6-pod.info/): a wireless and wired access point specially configured for testing IPv6 compatibility and graciously provided to MAPRG by [Internet2](https://internet2.edu/) and the [ARIN Community Grant program](https://www.arin.net/blog/2023/09/11/Congratulations-2023-ARIN-Community-GrantRecipients/#ipv6-test-pod).
+  To accomplish this, we will provide access to the IPv6 Test Pod (https://ipv6-pod.info/): a wireless and wired access point specially configured for testing IPv6 compatibility and graciously provided by [Internet2](https://internet2.edu/) and the [ARIN Community Grant program](https://www.arin.net/blog/2023/09/11/Congratulations-2023-ARIN-Community-GrantRecipients/#ipv6-test-pod).
 
   > The IPv6 Test Pod provides a variety of IPv6 test networks via Wifi SSIDs and optionally over Wired Ethernet connections. All you have to do is provide a wired internet connection to the WAN interface (IPv4-only is OK), power, and it will provide a series of networks to test devices and software with:
   >
