@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-26T10:48:37.573Z
+date: 2025-02-28T18:15:08.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -465,6 +465,35 @@ The newly formed RPP working group is focused on designing a new protocol via a 
 - [WG Charter](https://datatracker.ietf.org/wg/rpp/about/)
 - [Related work: RESTful EPP](https://datatracker.ietf.org/doc/draft-wullink-restful-epp/)
 
+----
+### MAPRG IPv6 Test Pod Open Testing and Diagnosis
+- **Champions**
+David Plonka dave@plonka.us (MAPRG co-chair)
+
+- **Project Info**
+The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irtf.org/maprg.html)) will provide an open testing enviroment for participants to determine how well equipment and applications work in a variety of IPv6 network environments.
+
+To accomplish this, we will provide access to the IPv6 Test Pod (https://ipv6-pod.info/): a wireless and wired access point specially configured for this purpose and provided by Internet2 to the IRTF.
+
+> The IPv6 Test Pod [...] provides a variety of IPv6 test networks via Wifi SSIDs and optionally over Wired Ethernet connections. All you have to do is provide a wired internet connection to the WAN interface (IPv4-only is OK), power, and it will provide a series of networks to test devices and software with:
+>
+> * Dual-Stack (IPv4 and IPv6)
+> * IPv6-only
+> * IPv6 only with NAT64+DNS64
+> * IPv6-only with NAT64+PREF64
+> * IPv6 only with NAT64+DNS64+PREF64
+
+In addition to employing the IPv6 Test Pod, we'll do complementary testing with IPvFoo browser extension, the IETF network, etc.
+
+- **Open Call for Participants**
+
+**Feel free to drop by for IPv6-compatibility testing of your wireless or wired user equipment, *e.g.,* smartphone, or applications of interest,web-based or otherwise.**
+
+**If you are an IPv6 or transition mechanism aficionado, or simply want to learn more about their use in a live environment, please join the project and stay a while. We could use help with testing and identifying the root causes of problems found.**
+
+- Background:
+  * [IPvFoo browser extenstion/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
+  * [Testing IPv6-only Networks (YouTube recording of NANOG presentation re: IPv6 Test Pod)](https://www.youtube.com/watch?v=0QCQVX9rZ6s)
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
