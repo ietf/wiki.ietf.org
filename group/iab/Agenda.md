@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-02-26T16:40:21.855Z
+date: 2025-02-28T20:06:41.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-03-05 0700 PST (UTC-8) 
 
-*Agenda as of 2025-02-26. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-02-28. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,7 +29,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-- Nominations are open for IAB Chair; see email from David.
+- Nominations for IAB Chair close 2025-03-07; see email from David.
 #### 1.3. Meeting Minutes 
 
 For approval:
@@ -38,7 +38,7 @@ For approval:
 
 Under Review: 
 
-* 2025-02-26 business meeting - (submitted 2025-02-26)
+* 2025-02-26 business meeting - (submitted 2025-02-27)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -68,10 +68,6 @@ In Progress:
 #### 1.5. IAB Document Status Update - No updates this week
 
  Datatracker: https://datatracker.ietf.org/stream/iab/
-
-*  **draft-iab-bias-workshop-report-02**
-    AUTH48: Informational
-    IAB Shepherd: Suresh Krishnan
 
 *  **draft-edm-protocol-greasing-04**
     Maintaining Protocols Using Grease and Variability
@@ -112,14 +108,31 @@ In Progress:
 - Next up: Community Coordination Group (CCG); kick-off in May
 
 
-### 2. 
+### 2. IGF Proposal (Dhruv) - 15 mins (Public)
+
+  Goal: Review proposal for IGF, next steps.
+
+
+### 3. BOF Coverage at IETF 122 (Cindy) - 5 mins (Public)
+
+  Wiki: https://wiki.ietf.org/group/iab/Bof122
+
+
+### 4. IAB Agendas at IETFF 122 (All) - 10 minutes (Public)
+
+  Wiki: https://wiki.ietf.org/group/iab/Agenda122
+
+  Goal: Finalize plans for IETF 122
+
+### 5. Update to IAB Statement on Inclusive Language - 5 mins (Public)
+
+  Context: https://datatracker.ietf.org/doc/statement-iab-statement-on-inclusive-language-in-iab-stream-documents/
+
+  Goal: Agree to update link to NISTIR3866 to https://web.archive.org/web/20250203031433/https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8366.pdf
+
+
 
 ## Upcoming Teleconferences 
-
-* 2025-03-05: IAB Business Meeting
-    - BOF Coverage
-    - IAB Agendas at IETF 122
-    - IGF Proposal
 
 -- 2025-03-15 - 2025-03-21: IETF 122 Bangkok --
 
