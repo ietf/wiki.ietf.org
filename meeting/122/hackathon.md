@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-28T18:33:39.061Z
+date: 2025-02-28T18:37:35.175Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -475,7 +475,7 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
 
   To accomplish this, we will provide access to the IPv6 Test Pod (https://ipv6-pod.info/): a wireless and wired access point specially configured for testing IPv6 compatibility and graciously provided to MAPRG by [Internet2](https://internet2.edu/) and the [ARIN Community Grant program](https://www.arin.net/blog/2023/09/11/Congratulations-2023-ARIN-Community-GrantRecipients/#ipv6-test-pod).
 
-  > The IPv6 Test Pod [...] provides a variety of IPv6 test networks via Wifi SSIDs and optionally over Wired Ethernet connections. All you have to do is provide a wired internet connection to the WAN interface (IPv4-only is OK), power, and it will provide a series of networks to test devices and software with:
+  > The IPv6 Test Pod provides a variety of IPv6 test networks via Wifi SSIDs and optionally over Wired Ethernet connections. All you have to do is provide a wired internet connection to the WAN interface (IPv4-only is OK), power, and it will provide a series of networks to test devices and software with:
   >
   > * Dual-Stack (IPv4 and IPv6)
   > * IPv6-only
