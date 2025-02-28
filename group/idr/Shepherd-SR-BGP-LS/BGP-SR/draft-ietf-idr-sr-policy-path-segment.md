@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-02-26T02:44:00.254Z
+date: 2025-02-28T14:18:56.703Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-25T01:30:56.613Z
 
 
 ## Summary 
-**draft:**  [draft-ietf-idr-sr-policy-path-segment](/group/idr/implementations/draft-ietf-idr-sr-policy-path-segment)
+**draft:**  [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-li-idr-bgp-ls-sr-policy-path-segment/)
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  [draft-li-sr-policy-path-segment-01](https://datatracker.ietf.org/doc/draft-li-idr-bgp-ls-sr-policy-path-segment/)
