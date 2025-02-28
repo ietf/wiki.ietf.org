@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-02-26T02:41:03.677Z
+date: 2025-02-28T13:11:50.151Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -23,9 +23,133 @@ dateCreated: 2025-02-24T23:48:45.554Z
 
 ## -02 pending Shepherd for WG LC (ETA 2/26) 
 
-### Technical Issues 
-Need to use new template format for Sub-TLV for NRP-ID in Tunnel-encaps Attribute. 
+draft: [daft-ietf-idr-sr-policy-nrp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-02)
+**Document type: **Proposed Standard 
+**WG Status:** WG Draft, pre-WG LC 
+**review summary: Needs revision prior to WG LC 
+Review criteria for SR Sub-TLV:** [SR Sub-TLV Templates](/group/idr/TEA-templates/SubTLV)
+**Reviewer:** Susan Hares 
+**Email: ** TBD 
 
+### Technical issues
+
+#### Issue-1: Consistent title for SubTLV, [editorial] 
+
+section 2.0, sentence 1, replace "NRP sub-TLV" with "NRP" sub-TLV 
+> **old text:/**
+>   In order to specify the NRP the candidate path of SR policy is
+>    associated with, a new sub-TLV called "NRP sub-TLV" is defined in the
+>    BGP Tunnel Encapsulation Attribute [RFC9012]./
+{.is-info}
+
+> nre text:/
+>   In order to specify the NRP the candidate path of SR policy is
+>    associated with, a new sub-TLV called NRP "sub-TLV" is defined in the
+>    BGP Tunnel Encapsulation Attribute [RFC9012]./
+{.is-info}
+   
+#### Issue-2: Section 2, Use of NRP Sub-TLV in Tunnel Types, only specifying SR Policy tunnel type 
+
+> **Old text:/ **The NRP sub-TLV can be
+>    carried in the BGP Tunnel Encapsulation Attribute with the tunnel
+>    type set to SR Policy./
+{.is-info}
+
+   
+> **New text: **/ The NRP sub-TLV can be
+>    carried in the BGP Tunnel Encapsulation Attribute with the tunnel
+>    type set to SR Policy. The use of the NRP sub-TLV in other tunnel 
+>    types is outside the scope of this document. / 
+{.is-info}
+
+
+#### Issue-3: Section 2, Type value is already assigned by IANA 
+
+> **old text:** /Type: 123/
+{.is-info}
+
+> **New text:** /Type: 123 (IANA)/
+{.is-info}
+
+
+#### Issue-3: Section 2, Length in octets 
+
+> **old text:** /Length: 6 / 
+{.is-info}
+
+>** new text:** /Length: 6 (octets)./  
+{.is-info}
+
+
+#### Issue-4: Section 2, NRP ID text
+
+> **Old text:** /Value 0 and 0xFFFFFFFF are reserved./ 
+{.is-info}
+> 
+> **new text:** /The values of  0 and 0xFFFFFFFF are reserved.
+{.is-info}
+
+
+#### Issue-5: Section 3, Error handling of the NRP Sub-TLV augments draft-ietf-idr-sr-policy-safi
+
+Please put the Error handling text in Section 2 as a final paragraph. 
+(See sub-TLV template suggestions) 
+
+> **New text:** / 
+> Error handling of SubTLV: The NRP sub-TLV is malformed if it does not match 
+> the above description. A malformed NRP Sub-TLV is ignored. 
+> 
+> Validation of SR Policy Tunnel:  The validation of the SR Policy tunnel TLV 
+>    with the NRP Sub-TLV in the BGP tunnel encapsulation attribute [RFC9012] 
+>    follows the procedures in draft-ietf-idr-sr-policy-safi in section 4.2 
+>    augmented by the validation procedures described in section 2 and section 3
+>    of this document.    
+> /
+{.is-info}
+
+
+#### Issue-6 Error handling, new section, suggested text below 
+
+> **New text:** /
+> Error handling of SR Policy Tunnel with NRP sub-TLV:  The validation of the 
+>    SR Policy tunnel TLV with the NRP Sub-TLV follows the procedures in   
+>    draft-ietf-idr-sr-policy-safi section 13 augmented by the validation 
+>    of the NRP-ID described in section. Please note that in the 
+>    any error detected, either at the attribute or its TLV/sub-TLV level, 
+>    [draft-ietf-idr-sr-policy-safi] states the "treat-as-withdraw" strategy 
+>    MUST be applied.  
+> / 
+{.is-info}
+
+
+#### Issue-7: Please augment the Security consideration 
+
+> **Old text:** /
+>    The security considerations of BGP [RFC4271] and BGP SR policy
+>    [I-D.ietf-idr-sr-policy-safi] apply to this document./
+{.is-info}
+
+   
+> **suggested new text:** /
+>    /The security considerations of BGP [RFC4271] and BGP SR policy
+>    [I-D.ietf-idr-sr-policy-safi] apply to this document.
+>    
+>    The NRP sub-TLV provides the NRP identifier that may be passed in 
+>    IPv6 Hop-by-Hop options header or used in encapsulation for SR-MPLS. 
+>    This NRP identifier impacts forwarding in a network so care 
+>    should be taken to protect this mission-critical or commercially 
+>    sensitive information during configuration, query (via BGP-LS) and 
+>    transmission of the NRP-ID in BGP./
+{.is-info}
+
+     
+#### Issue-8: Add a Manageability section prior to security section 
+
+The BGP-LS NRP TLV (per draft-ietf-idr-bgp-ls-sr-policy-nrp) allows the user
+to query the state and the attributes of the NRP identifier.  
+ 
+### Editorial issues: none 
+ 
 
 ## -01 Shepherd Report: 
 **draft:** [draft-ietf-idr-sr-policy-nrp-01](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-01)
