@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-02-27T16:24:18.780Z
+date: 2025-02-28T17:03:21.335Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - February 27, 2025
+# Informal Telechat - April 10, 2025
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,7 +29,6 @@ Meeting password: 12345
 
 ## Regrets
 
-Gunter Van de Velde
 
 ## Agenda
 
@@ -43,21 +42,11 @@ Note that this page is public.
 
 ### Document Discussions
 
-- [Prioritization on the pre-IETF122 Telechat Load](https://docs.google.com/spreadsheets/d/1RFN7bWnEMuSy8BgkcqrtnnuhpoktMWuozRUZ-5rZApg/edit?gid=0#gid=0) (Roman)
 - [Review Documents with long-held DISCUSS position](https://datatracker.ietf.org/iesg/discusses/) (Roman)
 
 ### Management Issues
 
-- [Introduction for New ADs](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) (Cindy)
-- [Introduction to the RPC](https://docs.google.com/presentation/d/1jZhtvxNB1NFu4DzUVltGIGN_qoVnrbBnguQl7yHOps8/edit?usp=sharing) (Jean)
-- [Introduction to IANA](https://drive.google.com/file/d/1JM1sdjuVQT1XUuldUqzNOyArwPdsuMZX/view?usp=drive_link) (Sabrina)
-- IETF 125 announcement at IETF-122? (Paul)
-- IETF 127 plans - likely plenary Q (Paul)
-- Last Call result of Moving RFCs 793, 1065, 1723 and 1725 to Historic (Francesca) : https://mailarchive.ietf.org/arch/msg/iesg/xpgD8bNtS4IAZPjrEGFAkCe6rvE/
-- Use of IETF videos for AI training (John)
-- AD sponsored AD document Q (Paul)
-- Appeal Review (Roman)
-- Update of IESG Statement on Inclusive Language (John) (see https://mailarchive.ietf.org/arch/msg/terminology/hTbe8e2Iey_SvZNyjDRRVZ_1Nws/)
+
 
 ### WG News 
 
