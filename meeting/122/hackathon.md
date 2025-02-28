@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-28T18:52:59.266Z
+date: 2025-02-28T18:54:17.867Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -471,7 +471,7 @@ The newly formed RPP working group is focused on designing a new protocol via a 
 David Plonka dave@plonka.us (MAPRG co-chair, WiscNet's Principal Research Scientist)
 
 - **Project Info**
-The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irtf.org/maprg.html)) and [WiscNet](https://wiscnet.net/) will provide an open testing enviroment for participants to determine how well equipment and applications work in a variety of IPv6 network environments.
+The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irtf.org/maprg.html)) and [WiscNet (AS2381)](https://wiscnet.net/) will provide an open testing environment for participants to determine how well equipment and applications work in a variety of IPv6 network environments.
 
   To accomplish this, we will provide access to the IPv6 Test Pod (https://ipv6-pod.info/): a wireless and wired access point specially configured for testing IPv6 compatibility and graciously provided by [Internet2](https://internet2.edu/) and the [ARIN Community Grant program](https://www.arin.net/blog/2023/09/11/Congratulations-2023-ARIN-Community-GrantRecipients/#ipv6-test-pod).
 
@@ -491,7 +491,7 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   Please join the project, and stay a while, if you are an IPv6 or transition mechanism aficionado, or simply want to learn more about using IPv6 in a live environment. We could use help with testing and identifying the root causes of problems found.
 
 - Background:
-  * [IPvFoo browser extenstion/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
+  * [IPvFoo browser extension/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
   * [Testing IPv6-only Networks (YouTube recording of NANOG presentation re: IPv6 Test Pod)](https://www.youtube.com/watch?v=0QCQVX9rZ6s)
 
 ---
