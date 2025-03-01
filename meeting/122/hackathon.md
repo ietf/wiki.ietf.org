@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-02-28T18:54:17.867Z
+date: 2025-03-01T09:32:17.952Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -171,7 +171,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ---
 
-### Formal Analysis of Attested TLS for Confidential Computing
+### Identity Crisis in Attested TLS for Confidential Computing
 - **Champions**
 
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
@@ -197,6 +197,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 	- RATS [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-rats-security-considerations-of-attested-tls-00) and [video](https://youtu.be/sWQ6sZkIZE8?t=4187) at IETF 121
 	- TLS [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-tls-tls-and-attestation-00) and [video](https://youtu.be/46ItvWI_k4Y?t=6086) at IETF 121
 	- Further slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
+  - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
 ---
 
