@@ -2,7 +2,7 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: true
-date: 2023-11-27T02:48:26.667Z
+date: 2025-03-02T03:07:06.808Z
 tags: dns, directorate, int area, ops area
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
@@ -32,3 +32,16 @@ The DNS directorate reviewers and secretary are volunteers, and serve at the ple
 
 
 
+
+```
+
+Reviewer: Your Name
+Review Result: Ready/Not Ready/Has Nits/Has Issues/Serious Issues
+
+I have reviewed this document as part of the DNS directorate's 
+ongoing effort to review all IETF documents being processed by the IESG.  These 
+comments were written with the intent of improving the operational aspects of the 
+IETF drafts. Comments that are not addressed in last call may be included in AD reviews 
+during the IESG review.  Document editors and WG chairs should treat these comments 
+just like any other last call comments. 
+```
