@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T08:27:29.466Z
+date: 2025-03-03T08:32:30.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -10,20 +10,20 @@ dateCreated: 2025-03-03T08:18:26.821Z
 
 # RPP - Requirements
 
-**Concept requirements document, subject to change following group discussion.**
+**IMPORTANT: This is a concept requirements document, all concept requirements are subject to change following group discussion.**
 
 This is a non-exhaustive list of requirements for the RESTful Provisioning Protocol (RPP)
 
 
 ## Authentication/Authorization
 
-- Support for scalable modern authorization standards (OAuth)
-- define and standarize scopes for different usage scenario
-- federated authentication (b2b)
+- Support for scalable modern authorization standards (OAuth, OpenId Connect)
+- Define and standarize scopes for different usage scenario
+- Federated authentication (b2b)
 - Fine-granular authorisation model for changes, using framework such as OAuth, beyond current auth-code based authorisation for transfers only
-- domain transfers
+- Domain transfers
 - DNS providers
-- renewals
+- Renewals
 
 ## EPP Compatibility
 
@@ -51,9 +51,9 @@ Contact (RDAP JScontact?, or maybe limited items from that)
 
 ## Transactions
 
-Does RPP need transaction support over multiple RPP requests?
-References? ROID? Handles?
-Compound requests (optional for server) - domain name with embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request) Return complete representation (similar to object info in EPP) after compound request completed.
+- Does RPP need transaction support over multiple RPP requests?
+- References? ROID? Handles?
+- Compound requests (optional for server) - domain name with embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request) Return complete representation (similar to object info in EPP) after compound request completed.
 
 ## Depth of data representation
 - The client may want to request different depth of data representations, depending of its use-case:
@@ -84,6 +84,7 @@ No need for EPP command-response extension, use standard HTTP response/error han
 
 ## Expanded features
 
+- Discover mechanism for RPP services
 - Allow for common bulk/listing/filter capabilities
 
 ## Architecture
