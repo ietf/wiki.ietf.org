@@ -1,6 +1,6 @@
 ---
 title: OAUTH WG - Web Authorization Protocol
-description: 
+description: GitHub @isabelschoeps
 published: true
 date: 2023-01-04T22:46:25.173Z
 tags: 
@@ -18,12 +18,6 @@ This wiki is for use by the IETF's OAuth WG. We're currently working on the foll
 
  * [InterimMeeting](/group/oauth/InterimMeeting)
  * [InterimMeetingAttendance](/group/oauth/InterimMeetingAttendance)
-
-
- 
-&nbsp;
-&nbsp;
-&nbsp;
 
 ---
 
