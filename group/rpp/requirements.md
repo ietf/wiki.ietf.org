@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T09:13:35.882Z
+date: 2025-03-03T09:35:47.306Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -17,7 +17,7 @@ Currently this list reads more like a "wish" list and it also contains comments 
 
 ## Authentication/Authorization
 
-Adding support for modern authenticatino schemes may allow for more efficient provisioning systems or even enable support for new functionality and or protocol features that are not (easilky) possible when using EPP.
+Adding support for modern authentication schemes may allow for more efficient provisioning systems and may enable support for new functionality and or protocol features that are not (easily) possible using EPP.
 
 - Support for scalable modern authorization standards (OAuth, OpenId Connect)
 	- maybe this can help enable a easier and faster object transfer process, where approval from the losing registar can be obtained interactively by the registrant during the transfer process
@@ -32,29 +32,36 @@ Adding support for modern authenticatino schemes may allow for more efficient pr
 ## EPP Compatibility
 
 - Compatible with the existing EPP data model (what level?)
-- Allow automatic/mechanical mapping/conversion
-- EPP -> RPP - a mapping should should exist for the core objects (domain, contact, host) and a selection of most commonly used extensions - a draft shall name all RFCs
-- RPP -> EPP - a compatibility definition may be defined for the scope of RPP being represented in EPP
-- Compatibility Profiles (compatibility definition?):
-- RPP -> EPP what objects/attributes are included?
+- Allow automatic/mechanical bidirectional mapping/conversion between RPP and EPP
+- EPP -> RPP 
+	- a mapping should should exist for the core objects (domain, contact, host) and a selection of most commonly used extensions - a draft shall name all RFCs
+- RPP -> EPP 
+	- A compatibility definition may be defined for the scope of RPP being represented in EPP
+	- What objects/attributes are included?
+- Compatibility Profiles (compatibility definition?)
+	- Allow servers to only support a subset of EPP functionality?
+
 
 ### Profiles
 
-- Allow for the use of different profiles, for indicating required parts for the data model and/or  mapping definitions.
-	- Uses a mime type header?
+- Allow for the use of server profiles, indicating required parts for the data model and/or  mapping definitions.
+	- Uses a HTTP header for profile signaling?
 
 ## Internationalization
 
-- The data model must have support for internationalization Contact (RDAP JScontact?, or maybe limited items from that)
+- The data model must have support for internationalization of contact details (RDAP JScontact?, or maybe limited items from that)
 	- Email
   - IDN -> domain name
   - Human readable localized responses
 
 ## Transactions
 
+Every RPP request should be atomic and idempotent when possible.
+
 - Does RPP need transaction support over multiple RPP requests?
 - References? ROID? Handles?
-- Compound requests (optional for server) - domain name with embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request) Return complete representation (similar to object info in EPP) after compound request completed.
+- Compound requests (optional for server) 
+  - domain create request having embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request) Return complete representation (similar to object info in EPP) after compound request completed or return redirect to newly created object location.
 
 ## Depth of data representation
 - The client may want to request different depth of data representations, depending of its use-case:
@@ -67,14 +74,16 @@ Adding support for modern authenticatino schemes may allow for more efficient pr
     - responses to PUT/POST/PATCH requests
 - Design: Consider using Prefer HTTP header “return” tag to distinguish between full and minimal data representation in the responses (for example if client is not interested in the full response for bulk use-cases) 
 
+Question: are we not describing EPP Check vs Info command here? the new RPP "info" command may combine both the check and info command in a single REST endpoint?
+
 ## Representation of the data vs. transaction information
 
 - The data representation in responses to transactions shall only contain the provisioning object itself, the transaction information shall be rather represented in headers
-- Not having transaction identifiers in the representation allows for better caching, so maybe not include client/server ids for info/check requests but only for data modifying requests?
+- Not having transaction identifiers in the representation allows for more efficient caching, so maybe not include client/server ids for info/check requests but only for data modifying requests?
 
 ## Extensibility
 
-- Allow for flexibility in extending data model (EPP object extension) e.g. adding a new attribute to an object.
+- Allow for flexibility in extending data model (EPP object extension) e.g. adding new objects or a new attribute to an existing object.
 - Use Prefer HTTP header "handling=strict" vs. "handling=lenient” to make the server behave strictly about unknown attributes vs. ignoring unknown attributes. Another way would be with a more fine-granular approach like the “crit” claim in JWT.
 - Allow extension for new operations (EPP protocol extension) on resources, e.g. registry-lock “/domains/example.nl/extensions/lock” . The extension name/definition may need to include an IANA registration. 
 - No need for EPP command-response extension, use standard HTTP response/error handling (headers)?
