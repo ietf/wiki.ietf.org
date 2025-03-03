@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T12:12:35.868Z
+date: 2025-03-03T13:22:13.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -19,6 +19,8 @@ Currently this list reads more like a "wish" list and it also contains comments 
 * **RESTful Architecture:** The protocol MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
 
 * **JSON Data Format:** The protocol MUST use JSON as the primary data-interchange format for request and response payloads. 
+
+* **Data validation:** RPP includes support validation of request and response message, in order to determine if the content is valid and no required attributes are missing.
 
 * **Functional Equivalence to EPP:** RPP SHOULD provide functional equivalents for core EPP functionalities related to domain names, hosts, and contacts as defined in RFC5731, RFC5732 and RFC5733 mappings for core objects (domain, contact, host) and a selection of commonly used EPP extensions will be provided in separate specifications.
 
