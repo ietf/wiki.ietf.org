@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-02T05:23:58.777Z
+date: 2025-03-03T08:19:44.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -544,6 +544,22 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   - Data consumer or customer data platform
   - AI, ML and algorithmic analysis services, model training and testing
   - CRM systems
+  
+----
+
+### Enhancing ICMP Error Message Authentication Using Challenge-Confirm Mechanism
+- **Champions**
+  - Ziqiang Wang ziqiangwang@seu.edu.cn
+  - Yuxiang Yang yangyx22@mails.tsinghua.edu.cn
+  - Ao Wang wangao@seu.edu.cn
+- **Project Info**
+  The Internet Control Message Protocol (ICMP) plays a crucial role in network diagnostics and error reporting. However, verifying the legitimacy of a received ICMP error message can be challenging, especially when the ICMP error message is embedded with stateless protocol data. In this project, we will demonstrate attacks constructed by exploiting ICMP vulnerabilities and a defense mechanism based on a challenge-confirm mechanism.
+
+- **Related documents**
+  - [draft-xu-intarea-challenge-icmpv4](https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv4/)
+  - [draft-xu-intarea-challenge-icmpv6](https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv6/)
+  
+----
   
 - **Hackathon Objective**
 The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.  The **group** and **appended** features of vCon have not been fully implemented or tested.  The **redacted** feature has been implemented and tested mainly with text transcriptions.  Further exploration of redacted audio and video dialogs had not been well tested.
