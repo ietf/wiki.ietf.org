@@ -2,26 +2,33 @@
 title: RPP Wiki
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-03T08:40:09.167Z
+date: 2025-03-03T08:48:44.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
 ---
 
-# Welkom to the RPP Working Group Wiki
-
-The RESTful Provisioning Protocol (RPP) WG wiki is currently under construction.
+The RESTful Provisioning Protocol (RPP) WG wiki is the authoritative source of information for all information regarding RPP. 
 
 See the [requirements](https://wiki.ietf.org/en/group/rpp/requirements) page for an overview of the RPP requirents that have been identified.
 
 ## Internet Drafts
 
-[Work in progress]
+TODO
 
 ## RFCs
 
-None.
+TODO
 
-&nbsp;
-&nbsp;
-&nbsp;
+
+## Helpful resources
+
+- [Building Protocols with HTTP](https://datatracker.ietf.org/doc/html/rfc9205)
+- [The JavaScript Object Notation (JSON) Data Interchange Format](https://datatracker.ietf.org/doc/html/rfc8259)
+- [Representational State Transfer (REST)](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+
+
+## Related work
+
+- [Extensible Provisioning Protocol (EPP) RESTful Transport](https://datatracker.ietf.org/doc/draft-wullink-restful-epp/)
+- [STD 95 (RDAP](https://www.rfc-editor.org/info/std95))
