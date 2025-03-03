@@ -171,6 +171,29 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ---
 
+### Evaluating the Performance of Different DNS Server Software Implementations with PDM using AIORI IMN measurement platform
+- **Champions**
+	
+   - Anand Raje <anand@iifon.org>
+   - Arnav Das <arnav.das@iifon.net>
+   - Aindri Mukherjee <aindri.mukherjee@iifon.net>
+   - Debayan Mukherjee <debayan.mukherjee@iifon.net>
+
+- **Project Info**
+	
+   - Network measurements conducted through the internet measurement network by deploying the [PDM](https://datatracker.ietf.org/doc/rfc8250/) Protocol.  
+   - **PDM-aware Internet Measurement Network:** Enhancing AIORI-IMN with PDM-aware measurements to improve data collection capabilities.  
+   - Utilizing AIORI-IMN to evaluate the performance of various DNS server implementations.  
+
+- **Related documents**
+
+   - https://ieeexplore.ieee.org/document/10127255
+   - https://ant.isi.edu/events/dinr2023/S/s21.pdf
+
+- IPv6 Performance and Diagnostic Metrics (PDM) Destination Option, https://datatracker.ietf.org/doc/rfc8250
+
+---
+
 ### Identity Crisis in Attested TLS for Confidential Computing
 - **Champions**
 
