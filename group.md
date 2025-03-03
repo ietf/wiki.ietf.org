@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-01-23T17:34:11.188Z
+date: 2025-03-03T18:28:52.020Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -78,6 +78,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [rats *Remote ATtestation proceedureS*](/group/rats)
 - [roll *Routing Over Low power and Lossy networks*](/group/roll)
 - [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
+- [rpp *RESTful Provisioning Protocol*](/group/rpp)
 - [rtgwg *Routing Area Working Group*](/group/rtgwg)
 - [secdispatch *Security Dispatch*](/group/secdispatch)
 - [sipcore *Session Initiation Protocol Core*](/group/sipcore)
@@ -101,6 +102,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
 - [httpbis *HTTP*](/group/httpbis)
 - [regext *Registration Protocols Extensions*](/group/regext)
+- [rpp *RESTful Provisioning Protocol*](/group/rpp)
 - [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
 - [sipcore *Session Initiation Protocol Core*](/group/sipcore)
 - [stir *Secure Telephone Identity Revisited*](/group/stir)
