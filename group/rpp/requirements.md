@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T09:35:47.306Z
+date: 2025-03-03T09:49:27.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -96,6 +96,7 @@ Question: are we not describing EPP Check vs Info command here? the new RPP "inf
 
 - Discovery mechanism for clients to locate RPP services
 - Allow for common bulk/listing/filter capabilities
+ - Where this does not harm the scalability and performqance requirements
 
 ## Architecture
 
