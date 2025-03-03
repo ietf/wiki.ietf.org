@@ -2,13 +2,11 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T08:37:22.904Z
+date: 2025-03-03T08:37:42.771Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
 ---
-
-# RPP - Requirements
 
 **IMPORTANT: This is a concept requirements document, all concept requirements are subject to change following group discussion.**
 
