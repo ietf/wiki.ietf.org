@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-03T05:04:20.356Z
+date: 2025-03-03T06:28:51.543Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,10 +33,10 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | - | Julien |
-| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Expired | Chairs have asked to break the document into informational and standards tracks ; pending on authors; suggestion to add text to handle overload notifications | - |  
-| draft-chen-pce-sr-mpls-sid-verification | Pending | Coordinate with SRv6 draft for IANA allocation | - |
-| draft-chen-pce-sr-ingress-protection | Pending | - | - |
+| [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | Pending | -14 posted | Julien |
+| [draft-koldychev-pce-operational](https://datatracker.ietf.org/doc/draft-koldychev-pce-operational/) | Pending | Chairs asked to break the document into informational and [standards track](https://datatracker.ietf.org/doc/draft-many-pce-stateful-amendment/) ; -08 posted with that change; suggestion to add text to handle overload notifications | Dhruv |  
+| draft-chen-pce-sr-mpls-sid-verification | Pending | - | - |
+| draft-chen-pce-sr-ingress-protection | Expired | - | - |
 |draft-dong-pce-pcep-nrp|Pending| - | - |
 | draft-wang-pce-vlan-based-traffic-forwarding | - |Authors have moved VLAN forwarding details to the appendix| - |
 
@@ -46,23 +46,22 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
 |draft-ietf-pce-pcep-bfd-parameters|Adopted 2025-02-05 | Dhruv|
-| draft-ietf-pce-stateful-pce-autobw-update | Adopted 2024-12-05 | Julien |
-
 
 
 ## Other WG I-Ds
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -05 posted on 2024-07-03  | - |
+| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -05 posted on 2024-07-03  | Adding SRv6 support |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -12 posted on 2024-10-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
-| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -09 posted on 2024-08-01 | More review requested, IANA early code points allocated |
-| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -06 posted on 2024-06-19 |  this I-D relies on the processing rules as per RFC 9168 |
+| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
+| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -08 posted on 2025-03-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -06 posted on 2024-07-08  | waiting for spring draft for WGLC |
 | draft-ietf-pce-pcep-srv6-yang |  -06 posted on 2024-10-19 | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 | -03 posted on 2024-08-18 | Ready for WGLC? |
 |draft-ietf-pce-bier-te | -01 posted on 2024-10-10 | Needs more review |
 | [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -01 posted on 2024-10-21 | - |
+| draft-ietf-pce-stateful-pce-autobw-update | -01 posted on 2024-12-15 | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 ## WG documents that authors consider ready for LC
