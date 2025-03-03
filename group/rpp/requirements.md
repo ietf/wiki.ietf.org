@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T08:37:42.771Z
+date: 2025-03-03T09:13:35.882Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -10,17 +10,23 @@ dateCreated: 2025-03-03T08:18:26.821Z
 
 **IMPORTANT: This is a concept requirements document, all concept requirements are subject to change following group discussion.**
 
-This is a non-exhaustive list of requirements for the RESTful Provisioning Protocol (RPP)
+This is a non-exhaustive list of requirements for the RESTful Provisioning Protocol (RPP).
+
+Currently this list reads more like a "wish" list and it also contains comments and questions, over time this list must be refined to a final set of requirements.
 
 
 ## Authentication/Authorization
 
+Adding support for modern authenticatino schemes may allow for more efficient provisioning systems or even enable support for new functionality and or protocol features that are not (easilky) possible when using EPP.
+
 - Support for scalable modern authorization standards (OAuth, OpenId Connect)
-- Define and standarize scopes for different usage scenario
+	- maybe this can help enable a easier and faster object transfer process, where approval from the losing registar can be obtained interactively by the registrant during the transfer process
+- Define and standarize scopes for different usage scenarios
 - Federated authentication (b2b)
 - Fine-granular authorisation model for changes, using framework such as OAuth, beyond current auth-code based authorisation for transfers only
-- Domain transfers
-- DNS providers
+- Domain transfers without first getting the "normal" transfertoken should be possible
+- DNS providers should be able to use the API to update the NS records
+	- OpenID Connect to interactively allow for DNS provider to update NS records, directly at the registry of indirectly through a supporting registar.
 - Renewals
 
 ## EPP Compatibility
