@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T13:22:13.943Z
+date: 2025-03-03T13:36:32.104Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -132,7 +132,8 @@ Question: are we not describing EPP Check vs Info command here? the new RPP "inf
 
 ## Expanded features
 
-- Discovery mechanism for clients to locate RPP services
+- Discovery (Bootstrap) mechanism for clients to locate RPP services
+  - As an example see the IANA bootstrap Service Registry for RDAP. Or instead of IANA use a DNS TXT record containing reference to an RPP service URL?
 - Allow for common bulk/listing/filter capabilities
  - Where this does not harm the scalability and performqance requirements
 
