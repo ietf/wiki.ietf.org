@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T09:49:27.468Z
+date: 2025-03-03T12:12:35.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -14,6 +14,42 @@ This is a non-exhaustive list of requirements for the RESTful Provisioning Proto
 
 Currently this list reads more like a "wish" list and it also contains comments and questions, over time this list must be refined to a final set of requirements.
 
+# High level requirements
+
+* **RESTful Architecture:** The protocol MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
+
+* **JSON Data Format:** The protocol MUST use JSON as the primary data-interchange format for request and response payloads. 
+
+* **Functional Equivalence to EPP:** RPP SHOULD provide functional equivalents for core EPP functionalities related to domain names, hosts, and contacts as defined in RFC5731, RFC5732 and RFC5733 mappings for core objects (domain, contact, host) and a selection of commonly used EPP extensions will be provided in separate specifications.
+
+* **EPP Data Model Compatibility:** RPP aims for data model compatibility with the existing EPP data model for core objects (domain, contact, host) to allow automatic/mechanical mapping/conversion between EPP and RPP. Compatibility definitions for RPP to EPP mappings may be defined in compatibility profiles.
+
+* **Extensibility:** The protocol MUST be extensible to accommodate new functionalities, data objects, and operations beyond the initial scope.
+
+* **Security:**  RPP MUST employ strong authentication and utilize encrypted transport (HTTPS) to protect sensitive data and authentication material.  Security mechanisms SHOULD be flexible to allow operators to choose appropriate methods and support federated authentication scenarios. RPP authorization models are intended to be fine-grained and go beyond simple auth-code based models, allowing for control at the operation and potentially attribute level, supporting use cases like domain transfers, DNS provider authorizations, and renewals.
+
+* **Interoperability:** The protocol MUST promote interoperability between different implementations to reduce integration costs and encourage broader adoption.
+
+* **Leverage Web Standards:**  RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI, API gateways, and load balacing, caching and delegate responsibility to the HTTP layer where possible.
+
+* **Internationalization:**  The data model MUST have support for internationalization, including for Contact objects (potentially drawing from RDAP JSContact), email addresses, and Internationalized Domain Names (IDNs). RPP should also support human-readable localized responses.
+
+* **Profiles:** RPP MUST allow for the use of different profiles to indicate required parts of the data model, mapping definitions, or functional subsets for compatibility.
+
+* **Bulk Operations, Listing and Filtering:** RPP SHOULD allow for common bulk operations, resource listing, and filtering capabilities.
+
+* **Data Omission Signaling:** RPP SHOULD provide mechanisms for registrars to signal data omission, indicating data collected but not transmitted to the registry.
+
+* **Expanded Common Models:** RPP's data model SHOULD aim for easy and natural extensibility to richer models compared to EPP, including attributes for VAT numbers, company numbers etc.
+
+* **Registrant Verification:** RPP SHOULD consider mechanisms to support data formats outside of core RPP domain. Especially formats, which lose their properties if transformed, like Verifiable Credentials for contacts which are digitally signed.
+
+* **Service Discovery:** RPP MUST support service discovery to reduce coupling between clients and servers, potentially using well-known URLs.
+
+* **Documentation:** RPP specifications SHOULD include OpenAPI definitions to facilitate documentation, testing, and code generation, and provide implementer-friendly extension descriptions.
+
+  
+# Detailed requirements
 
 ## Authentication/Authorization
 
