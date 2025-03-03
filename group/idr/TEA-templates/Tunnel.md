@@ -2,7 +2,7 @@
 title: BGP Tunnel Encapsulation Attribute - Tunnel Template 
 description: BGP TEA Tunnel Template 
 published: true
-date: 2024-12-13T12:40:09.571Z
+date: 2025-03-03T17:18:38.229Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:27:02.904Z
@@ -30,11 +30,12 @@ Tunnel encapsulation specification requires the following things for each tunnel
 1. Name
 2. Code 
 3. Description 
-4. List of all SubTLVs that can be passed in TEA 
-5. A validation procedures 
-6. Multiple Tunnel interactions 
-7. A security section with specific comments regarding tunnel, 
-8. A management section that includes comments on how the tunel will be managed. 
+4. List of all Sub-TLVs that can be passed in in this Tunnel TLV (optional and mandatory). 
+5. List of all Sub-TLVs that are not supported by this Tunnel TLV 
+6. A validation procedures 
+7. Multiple Tunnel interactions 
+8. A security section with specific comments regarding tunnel, 
+9. A management section that includes comments on how the tunel will be managed. 
 
 It is helpful for items 1-5 be clearly laid out in one section. 
 If new sub-TLVs are defined, it is helpful that these subTLVs 
