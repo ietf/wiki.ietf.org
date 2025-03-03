@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T08:32:30.097Z
+date: 2025-03-03T08:37:22.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -36,18 +36,15 @@ This is a non-exhaustive list of requirements for the RESTful Provisioning Proto
 
 ### Profiles
 
-Allow for the use of different profiles, for indicating required parts for the data model and/or  mapping definitions.
-
-- Uses a mime type header?
+- Allow for the use of different profiles, for indicating required parts for the data model and/or  mapping definitions.
+	- Uses a mime type header?
 
 ## Internationalization
 
-The data model must have support for internationalization
-Contact (RDAP JScontact?, or maybe limited items from that)
-
-- Email
-- IDN -> domain name
-- Human readable localized responses
+- The data model must have support for internationalization Contact (RDAP JScontact?, or maybe limited items from that)
+	- Email
+  - IDN -> domain name
+  - Human readable localized responses
 
 ## Transactions
 
@@ -76,7 +73,7 @@ Contact (RDAP JScontact?, or maybe limited items from that)
 - Allow for flexibility in extending data model (EPP object extension) e.g. adding a new attribute to an object.
 - Use Prefer HTTP header "handling=strict" vs. "handling=lenient” to make the server behave strictly about unknown attributes vs. ignoring unknown attributes. Another way would be with a more fine-granular approach like the “crit” claim in JWT.
 - Allow extension for new operations (EPP protocol extension) on resources, e.g. registry-lock “/domains/example.nl/extensions/lock” . The extension name/definition may need to include an IANA registration. 
-No need for EPP command-response extension, use standard HTTP response/error handling (headers)?
+- No need for EPP command-response extension, use standard HTTP response/error handling (headers)?
 
 ## Data Model
 
@@ -84,12 +81,12 @@ No need for EPP command-response extension, use standard HTTP response/error han
 
 ## Expanded features
 
-- Discover mechanism for RPP services
+- Discovery mechanism for clients to locate RPP services
 - Allow for common bulk/listing/filter capabilities
 
 ## Architecture
 
-- service discovery - allow for less coupling between clients and servers (HATEOAS)
+- REST service discovery - allow for less coupling between clients and servers (HATEOAS)
 
 ## Documentation
 
@@ -98,10 +95,11 @@ No need for EPP command-response extension, use standard HTTP response/error han
 ## Extensions
 
 - lightweight process of publishing extensions and implementer-friendly description requirements (like OpenAPI requirement together with extension specification)
+- Use of IANA registry for namespaces?
 
 ## Other
 
-The items below have been mentioned on the lost and may need to be added as an requirement.
+The items below have been mentioned on the mailinglist and may need to be added as an requirement.
 
 - Data Omission - what requirements will there be around a registrar's ability to signal that it has collected some data but has not transmitted it to the registry?  
 - Registration attribution - will there be requirements for attribution of registration actions (who did what), and will cryptography be used?  
