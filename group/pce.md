@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-03T06:28:51.543Z
+date: 2025-03-03T08:51:42.903Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -56,9 +56,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | -12 posted on 2024-10-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -08 posted on 2025-03-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -06 posted on 2024-07-08  | waiting for spring draft for WGLC |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -07 posted on 2025-02-12  | waiting for spring draft for WGLC |
 | draft-ietf-pce-pcep-srv6-yang |  -06 posted on 2024-10-19 | - |
-| draft-ietf-pce-pcep-extension-pce-controller-srv6 | -03 posted on 2024-08-18 | Ready for WGLC? |
 |draft-ietf-pce-bier-te | -01 posted on 2024-10-10 | Needs more review |
 | [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -01 posted on 2024-10-21 | - |
 | draft-ietf-pce-stateful-pce-autobw-update | -01 posted on 2024-12-15 | - |
@@ -75,6 +74,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 | draft-ietf-pce-entropy-label-position |N| -02 posted on 2024-09-19 | - |
 | [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y| -02 posted on 2024-10-20 | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |  N| -06 posted on 2025-01-03  | - |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 | N| -04 posted on 2025-02-19 | - |
 
 
 
@@ -85,9 +85,8 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |Draft | Imp Sec | State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | -11 version posted on 2024-11-30 | There are pending comments and need for a cleanup | Julien | Julien |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Y | In WG Last Call Ends 2025-02-14; IPR-3/4 | Dhruv | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | -10 posted on 2025-01-06 | Ready for WGLC | Dhruv | - |
-| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| -14 posted on 2024–08-11; EXPIRED  | Ready for WGLC | Dhruv | - |
+| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| -15 posted on 2025-02-13  | Ready for WGLC | Dhruv | - |
 
 
 ## Post WG LC Queue  
@@ -97,13 +96,14 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Waiting for Shepered review | - | Dhruv | 
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | WG Last Call Ended; | But Missing IPR from Siva - 3/4; Cant proceed without it! |Dhruv | - |
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | IESG telechat: 2025-04-03; Track IANA alighment with IDR | Dhruv | Roman |
-| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 |  On agenda of 2025-02-20 IESG telechat; 1 DISCUSS | Andrew | John |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 |  Approved-announcement to be sent | Andrew | John |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
@@ -115,8 +115,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) | EDIT | - | Dhruv |
-| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) | EDIT | - | Julien |
+| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) |  RFC-EDITOR | - | Dhruv |
+| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) |  RFC-EDITOR | - | Julien |
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | EDIT| - | Dhruv |
 | [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | EDIT | - | Dhruv |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | EDIT | - | Julien |
