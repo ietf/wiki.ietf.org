@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T13:36:32.104Z
+date: 2025-03-03T13:53:31.558Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -53,9 +53,9 @@ Currently this list reads more like a "wish" list and it also contains comments 
   
 # Detailed requirements
 
-## Authentication/Authorization
+## Security
 
-Adding support for modern authentication schemes may allow for more efficient provisioning systems and may enable support for new functionality and or protocol features that are not (easily) possible using EPP.
+Adding support for modern authentication and authorization schemes may allow for more efficient provisioning systems and may enable support for new functionality and or protocol features that are not (easily) possible using EPP.
 
 - Support for scalable modern authorization standards (OAuth, OpenId Connect)
 	- maybe this can help enable a easier and faster object transfer process, where approval from the losing registar can be obtained interactively by the registrant during the transfer process
@@ -136,6 +136,8 @@ Question: are we not describing EPP Check vs Info command here? the new RPP "inf
   - As an example see the IANA bootstrap Service Registry for RDAP. Or instead of IANA use a DNS TXT record containing reference to an RPP service URL?
 - Allow for common bulk/listing/filter capabilities
  - Where this does not harm the scalability and performqance requirements
+- Enable support for simple object transfer transaction using outh2.0 and/or OpenID Connect (also see Security above)
+- Enable support for DNS hoster to update NS records directly in registry when approved by sponsoring registrar. (also see Security above)
 
 ## Architecture
 
