@@ -2,11 +2,13 @@
 title: ALLDISPATCH
 description: Experiment at IETF 119/120
 published: true
-date: 2024-10-04T21:29:32.588Z
+date: 2025-03-04T03:04:52.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T22:08:41.992Z
 ---
+
+**NOTE**: The ALLDISPATCH experiment has concluded. Individual area dispatch groups ([DISPATCH](https://datatracker.ietf.org/wg/dispatch/about/), [SECDISPATCH](https://datatracker.ietf.org/wg/secdispatch/about/), [GENDISPATCH](https://datatracker.ietf.org/wg/gendispatch/about/), etc.) will meet at IETF 122.
 
 # ALLDISPATCH Experiment
 
