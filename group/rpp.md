@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-03T15:51:01.581Z
+date: 2025-03-04T11:44:23.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -25,7 +25,8 @@ TODO
 - [Building Protocols with HTTP](https://datatracker.ietf.org/doc/html/rfc9205)
 - [The JavaScript Object Notation (JSON) Data Interchange Format](https://datatracker.ietf.org/doc/html/rfc8259)
 - [Representational State Transfer (REST)](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-
+- [URI Design and Ownership](https://datatracker.ietf.org/doc/html/rfc8820)
+- [Web Linking](https://datatracker.ietf.org/doc/html/rfc8288)
 
 ## Related work
 
