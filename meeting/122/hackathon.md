@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-03T08:19:44.644Z
+date: 2025-03-04T22:28:13.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -597,6 +597,31 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
     - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
   - Implement **redacted** for video and/or audio media dialogs
   - Design and add support for dialogs with separate recording file for each party
+
+---
+
+### EDHOC
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Establish keying material for OSCORE using the EDHOC protocol
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/rfc9528/
+  - https://datatracker.ietf.org/doc/rfc9668/
+  - https://datatracker.ietf.org/doc/rfc8613/
+
+---
+
+### EDHOC and OSCORE Profile of the ACE Framework
+- **Champion(s)**
+  - Marco Tiloca (marco.tiloca at ri.se)
+- **Project Info**
+  - Use the ACE access control framework combined with the EDHOC protocol for mutual authentication and establishment of keying material for OSCORE
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/draft-ietf-ace-edhoc-oscore-profile/
+  - https://datatracker.ietf.org/doc/rfc9200/
+  - https://datatracker.ietf.org/doc/rfc9528/
+  - https://datatracker.ietf.org/doc/rfc8613/
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
