@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-02-27T17:45:01.450Z
+date: 2025-03-04T23:42:00.709Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
@@ -34,7 +34,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
 > IAB-Only Agenda:
 > 
 > 1. IAB Chair Selection (Executive Session)
-> 2. Finalize IAB Roles (Cindy)
+> 2. [Finalize IAB Roles](/group/iab/First_Meeting) (Cindy)
 >     - Program Leads and Members
 >     - Liaison Coordinators
 >     - IAB Liaison to the IESG
@@ -45,7 +45,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
 >     - Tools Team Liaison 
 >     - Identify EMODir Liaison
 >     - IAB Outreach Coordinator
-> 
+> 3. Australian eSafety industry codes (Mark)
 
 **1145-1215: IAB/IESG Lunch (Meeting Room 2)**
 
@@ -86,6 +86,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1005
 > Agenda:
 > 
 > 1. How the IAB Does its Work (Tommy, Mark)
+> 2. Boilerplate Liaison Statements (with Scott Mansfield)
 
 **1130-1300: Liaison Coordinators + Liaison Managers Meeting (Meeting Room 1)**
 
