@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2025-02-05T22:42:13.600Z
+date: 2025-03-05T10:04:38.339Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -19,7 +19,7 @@ Wikis are used by participants to share information about and coordinate around 
 #### IETF 122 Bangkok
 **March 15-21, 2025** - :thailand: Bangkok, Thailand
 - [IETF 122 Meeting Wiki](/meeting/122)
-- IETF 122 Side Meetings
+- [IETF 122 Side Meetings](https://trello.com/b/R7yDMPyl)
 - [IETF 122 Hackathon](/meeting/122/hackathon)
 {.links-list}
 
