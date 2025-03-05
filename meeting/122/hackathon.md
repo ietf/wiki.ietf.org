@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-05T09:59:57.890Z
+date: 2025-03-05T17:38:17.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -493,8 +493,8 @@ Translate YANG network instance configuration data into RDF data so that it can 
 	- The objective for this hackathon is to improve upon that prototype by:
 	- Enhancing methods for retrieving configuration attributes and metrics through the RFC8345 API, with IS-IS/OSPF/SRV6 augmentations.
 	- Demonstrating use cases such as traversing queries and querying external data for topology entities.
-
-## Related Groups
+  
+- **Related Groups**
 - [Network Management Operations (nmop)](https://datatracker.ietf.org/group/nmop/)
 
 
@@ -644,6 +644,20 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 - **Repo and Docs**
   - [TDNS Experimental Name Server](https://github.com/johanix/tdns)
   - [TNDS Intro](https://github.com/johanix/tdns/blob/main/README.md)
+---
+### Using EAP with FIDO
+- **Champions**
+  - Janfred Rieckers (rieckers@dfn.de)
+- **Project Info**
+	- Using FIDO authenticators in EAP for passwordless authentication
+- **Specifications**
+	- https://datatracker.ietf.org/doc/draft-ietf-emu-eap-fido/
+- **Repo and docs**
+  - [Current proof-of-concept implementation](https://git.rieckers.it/rieckers/hostap/-/tree/draft-ietf-emu-eap-fido-00)
+- **Hackathon plan**
+  - Add more features to implementation
+- **Related groups**
+	- [EAP Method Update (emu)](https://datatracker.ietf.org/wg/emu/about/)
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
