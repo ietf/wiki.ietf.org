@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-03T13:53:31.558Z
+date: 2025-03-05T08:33:50.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -33,6 +33,21 @@ Currently this list reads more like a "wish" list and it also contains comments 
 * **Interoperability:** The protocol MUST promote interoperability between different implementations to reduce integration costs and encourage broader adoption.
 
 * **Leverage Web Standards:**  RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI, API gateways, and load balacing, caching and delegate responsibility to the HTTP layer where possible.
+
+
+* **Ease of use:**, provide a clear, clean, easy to use and self-explanatory interface that can easily be integrated into existing software systems. 
+
+* **Scalability:** HTTP allows the use of well know mechanisms for creating scalable systems, such as 
+  load balancing. Load balancing at the level of request messages is more efficient compared to load balancing based on TCP sessions. 
+
+* **Stateless:** RPP MUST be stateless and MUST NOT keep client session or any other application state. Each client request needs to provide all the information necessary for the server to successfully process the request.
+
+* **Content negotiation:**, A server may choose to include support for multiple media types.
+  The client must be able to signal to the server what media type the server should expect for the request content and to use for the response content.
+  
+* **Simplicity:** When the semantics of a resource URL and HTTP method match an EPP command and request message, the use of a request message should be optional.
+
+* **Performance:** Reducing the number of required request and response messages, improves the performance and network bandwidth requirements for both client and server. Fewer messages have to be created, marshalled, and transmitted.
 
 * **Internationalization:**  The data model MUST have support for internationalization, including for Contact objects (potentially drawing from RDAP JSContact), email addresses, and Internationalized Domain Names (IDNs). RPP should also support human-readable localized responses.
 
