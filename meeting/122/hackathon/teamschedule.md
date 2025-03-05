@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon Team Schedule
 description: 
 published: true
-date: 2025-02-21T20:52:03.785Z
+date: 2025-03-05T20:58:48.968Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:35:59.817Z
@@ -22,8 +22,8 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
-|   |   |   |
-|   |   |   |
+| PQ in X.509  |  Satureday:  11:30am, 3:00pm, 8:00 pm (Bankok local time)  | IETF Gather Table G  |
+| PQ in X.509  |  Sunday: 11:30 am (Bankok local time) | IETF Gather Table G  |
 |   |   |   |
 
 *To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
