@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-03-05T14:44:49.882Z
+date: 2025-03-05T17:17:44.736Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
@@ -46,6 +46,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1001
 >     - Identify EODir Liaison
 >     - IAB Outreach Coordinator
 > 3. Australian eSafety industry codes (Mark)
+> 4. Inclusive Language / Clarity of Language
 
 **1145-1215: IAB/IESG Lunch (Meeting Room 2)**
 
