@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-04T22:28:13.145Z
+date: 2025-03-05T09:59:57.890Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -623,6 +623,27 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc8613/
 
+---
+### Implemententing Initial HSYNC Processes
+- **Champions**
+  - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
+- **Project Info**
+   The proposed HSYNC DNS record allows zone owners to specify exactly what services they intend different DNS providers to 
+   provide and how to collaborate. The HSYNC RRset specifies the identity of all designated DNS providers, allowing them to 
+   identify and locate each other and establish secure communication. This allows automated collaboration to solve a number of 
+   provisioning issues like how to manage the DNSKEY RRset (when there are multiple signers), how to manage the NS RRset (when 
+   there are multiple authoritative DNS providers), how to deal with on-boarding and off-boarding of DNS providers and also who 
+   is responsible for interaction with the parent (for synchronization of delegation information).
+
+   The experimental name server TDNS has support for HSYNC and the identification and location of remote DNS providers (or 
+   rather, their agents). The next steps are to implement support for initial processes:
+  - Implement *NOTIFICATION* of remote DNS providers when there is a change to the local DNSKEY RRset (i.e. typically steps in a key rollover)
+  - Synchronize the contributions of individual NS records from different DNS providers into a unified NS RRset.
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-leon-dnsop-signaling-zone-owner-intent/
+- **Repo and Docs**
+  - [TDNS Experimental Name Server](https://github.com/johanix/tdns)
+  - [TNDS Intro](https://github.com/johanix/tdns/blob/main/README.md)
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
