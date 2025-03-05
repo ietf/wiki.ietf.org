@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-05T17:38:17.691Z
+date: 2025-03-05T22:27:33.098Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -415,7 +415,6 @@ Greg White (g.white@cablelabs.com)
 - **Project Info**
   - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
   - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
-  - As has been the case at several previous IETFs, the intent is to begin work during the Hackathon, and then continue in a nearby room for the rest of the week.
 - **Specifications**
   - [RFC9330](https://datatracker.ietf.org/doc/rfc9330/)
   - [RFC9331](https://datatracker.ietf.org/doc/rfc9331/)
