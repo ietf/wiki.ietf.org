@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-03-03T23:59:54.695Z
+date: 2025-03-05T16:49:53.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -14,13 +14,15 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * [WebEx Link](https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6)
 * Meeting password: 1@Bmeet
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
-* As of March 2024:
-    * When North America observes Daylight time, meetings are at 0730 PDT (UTC-7)
-    * When North America observes Standard time, meetings are at 0700 PST (UTC-8)
+* As of April 2025:
+    * Meetings are at 0600 Pacific Time 
+         - UTC-7 when North America observes Daylight Time 
+         - UTC-8 when North America observes Standard Time
 
-## IAB Agenda: 2025-03-05 0700 PST (UTC-8) 
 
-*Agenda as of 2025-02-28. IAB agendas are subject to change, up to and during the meeting.*
+## IAB Agenda: 2025-04-02 0600 PDT (UTC-7) 
+
+*Agenda as of 2025-03-05. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -29,14 +31,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.2. Agenda bash and announcements 
 
-- Nominations for IAB Chair close 2025-03-07; see email from David.
 #### 1.3. Meeting Minutes 
 
 For approval:
-
-* 2025-02-19 business meeting - (submitted 2025-02-19)
-
-Under Review: 
 
 * 2025-02-26 business meeting - (submitted 2025-02-27)
 
@@ -60,8 +57,11 @@ In Progress:
     information the IAB needs from NomCom in order to confirm IESG 
     candidates.
 
-- 2025-02-19: Mirja Kühlewind to send email proposing times for the 
-    New Work Help Desk once the final agenda for IETF 122 is published.
+* 2025-03-05: Dhruv Dhody, Mirja Kühlewind, and Mark Nottingham to 
+    work with Olaf Kolkman to finalize the IAB's proposals for IGF.
+
+* 2025-03-05: Liaison Coordinators to propose times for the Liaison 
+    Coordinator office hours at IETF 122.
 
 
 
@@ -108,30 +108,7 @@ In Progress:
 - Next up: Community Coordination Group (CCG); kick-off in May
 
 
-### 2. IGF Proposal (Dhruv) - 15 mins (Public)
-
-  Goal: Review proposal for IGF, next steps.
-
-
-### 3. BOF Coverage at IETF 122 (Cindy) - 5 mins (Public)
-
-  Wiki: https://wiki.ietf.org/group/iab/Bof122
-
-
-### 4. IAB Agendas at IETFF 122 (All) - 10 minutes (Public)
-
-  Wiki: https://wiki.ietf.org/group/iab/Agenda122
-
-  Goal: Finalize plans for IETF 122
-
-### 5. Update to IAB Statement on Inclusive Language - 5 mins (Public)
-
-  Context: https://datatracker.ietf.org/doc/statement-iab-statement-on-inclusive-language-in-iab-stream-documents/
-
-  Goal: Agree to update link to NISTIR3866 to https://web.archive.org/web/20250203031433/https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8366.pdf
-
-
-
+### 2. 
 ## Upcoming Teleconferences 
 
 -- 2025-03-15 - 2025-03-21: IETF 122 Bangkok --
