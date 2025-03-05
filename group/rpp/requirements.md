@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-05T08:33:50.858Z
+date: 2025-03-05T13:04:28.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -65,7 +65,8 @@ Currently this list reads more like a "wish" list and it also contains comments 
 
 * **Documentation:** RPP specifications SHOULD include OpenAPI definitions to facilitate documentation, testing, and code generation, and provide implementer-friendly extension descriptions.
 
-  
+* **Partial updates:** Support for partially upadating an object, ussing HTTP PATCH method and [JSON Merge Patch](https://datatracker.ietf.org/doc/html/rfc7386)
+
 # Detailed requirements
 
 ## Security
