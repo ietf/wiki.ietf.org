@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-01-09T17:42:44.640Z
+date: 2025-03-06T12:54:06.325Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Feb 2025|[Apricot2025](https://2025.apricot.net/programme/programme#/day/7/panel-enhancing-apac-regional-and-operator-engagement-in-the-ietf/)|Operators|Participants|Dhruv,Gunter,Zahed,Mohit|[Video](https://www.youtube.com/live/-tSkj-hWn2g?si=0MnyKBm_Vy6noX_3&t=188)[Slides](https://2025.apricot.net/assets/files/APAC945/enhancing-apac-regio_1740553545.pdf)|
 |Jan 2025|NetMission|Students|Knowledge sharing|Dhruv|[Slides](https://docs.google.com/presentation/d/1Snfw5s66fqjtqxckkxWYW8dx3o17_69cheFns34Esqs/edit?usp=sharing)|
 |Dec 2024|[India IGF](https://indiaigf.in/)|Internet Governance|knowledge sharing| Dhruv, Suresh| Part of panel discussion on multi stakeholderism and e-impact|
 |Oct-Nov 2024|[NANOG](https://nanog.org/events/nanog-92/agenda/); [RIPE](https://ripe89.ripe.net/archives/); [LACNIC](https://lacnic42.lacnic.net/en/programme/presentations-and-videos) [AutoCon2](https://networkautomation.forum/autocon2)|Network Operators|Participants|IAB NEMOPS Workshop PC|[NANOG](https://storage.googleapis.com/site-media-prod/meetings/NANOG92/5018/20241021_Watsen_Iab_Pre-Event_On_v1.pdf); [RIPE](https://ripe89.ripe.net/archives/video/1417/); [LACNIC](https://lacnic42.lacnic.net/en/programme/presentations-and-videos)| 
