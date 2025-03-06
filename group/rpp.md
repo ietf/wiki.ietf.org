@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-04T11:44:23.585Z
+date: 2025-03-06T08:21:42.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -12,6 +12,11 @@ dateCreated: 2025-02-19T15:44:52.358Z
 The RESTful Provisioning Protocol (RPP) WG wiki is the authoritative source for all information regarding RPP.  The [requirements](https://wiki.ietf.org/en/group/rpp/requirements) page contains an overview of the possible RPP requirement. The [architecture](https://wiki.ietf.org/en/group/rpp/rpp-architecture) page describes possible architecture(s) for realizing the requirements.
 
 ## Internet Drafts
+
+Possible documents to create are
+- RPP - Architecture: High level description of RPP architecture, choices and rationale
+- RPP - API/Core: Describes API endpoints and message framework
+- RPP - JSON: Describes RPP messages based on JSON data format 
 
 TODO
 
