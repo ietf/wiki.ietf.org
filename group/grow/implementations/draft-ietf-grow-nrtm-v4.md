@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-06T18:21:57.091Z
+date: 2025-03-06T21:17:09.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -125,4 +125,5 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | IRRD client | yes | yes | not implemented |
 | RIPE NCC whois client | not implemented | not implemented | not implemented |
 | nrtm4-validator client | yes | yes | not implemented |
+| nrtm4tools client | untested | yes | not implemented |
 {.dense}
