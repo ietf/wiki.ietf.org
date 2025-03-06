@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-06T08:21:42.887Z
+date: 2025-03-06T08:27:29.850Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -15,7 +15,7 @@ The RESTful Provisioning Protocol (RPP) WG wiki is the authoritative source for 
 
 Possible documents to create are
 - RPP - Architecture: High level description of RPP architecture, choices and rationale
-- RPP - API/Core: Describes API endpoints and message framework
+- RPP - Core: Describes API endpoints and message framework
 - RPP - JSON: Describes RPP messages based on JSON data format 
 
 TODO
