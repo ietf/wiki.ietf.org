@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-06T02:01:34.074Z
+date: 2025-03-06T10:07:26.334Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -671,6 +671,15 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/122/hackathon/thread-projects).
+
+### Multipath QUIC Interop testing
+
+- **Champions**
+Magnus Westerlund (magnus.westerlund@ericsson.com)
+
+- **Project Info**
+    Interop testing of Multipath QUIC implementations - see https://github.com/quicwg/multipath/wiki/Implementation-Draft-Interop
+
 
 ----
 
