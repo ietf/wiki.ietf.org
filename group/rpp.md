@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-06T09:52:34.420Z
+date: 2025-03-06T09:57:22.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -34,6 +34,7 @@ TODO
 - [Representational State Transfer (REST)](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [URI Design and Ownership](https://datatracker.ietf.org/doc/html/rfc8820)
 - [Web Linking](https://datatracker.ietf.org/doc/html/rfc8288)
+- [OpenAPI](https://www.openapis.org/)
 
 ## Related work
 
