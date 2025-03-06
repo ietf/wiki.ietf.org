@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-03-06T12:54:06.325Z
+date: 2025-03-06T12:56:57.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -51,9 +51,9 @@ This table collects the various IETF outreach activities done by individuals to 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
 |Feb 2025|[Apricot2025](https://2025.apricot.net/programme/programme#/day/7/panel-enhancing-apac-regional-and-operator-engagement-in-the-ietf/)|Operators|Participants|Dhruv,Gunter,Zahed,Mohit|[Video](https://www.youtube.com/live/-tSkj-hWn2g?si=0MnyKBm_Vy6noX_3&t=188)[Slides](https://2025.apricot.net/assets/files/APAC945/enhancing-apac-regio_1740553545.pdf)|
+|Feb 2025;Oct-Nov 2024|[NANOG92](https://nanog.org/events/nanog-92/agenda/); [RIPE89](https://ripe89.ripe.net/archives/); [LACNIC42](https://lacnic42.lacnic.net/en/programme/presentations-and-videos) [AutoCon2](https://networkautomation.forum/autocon2) [Apricot2025](https://2025.apricot.net/programme/programme#/day/8/network-management--monitoring/)|Network Operators|Participants|IAB NEMOPS Workshop PC|[NANOG92](https://storage.googleapis.com/site-media-prod/meetings/NANOG92/5018/20241021_Watsen_Iab_Pre-Event_On_v1.pdf); [RIPE89](https://ripe89.ripe.net/archives/video/1417/); [LACNIC42](https://lacnic42.lacnic.net/en/programme/presentations-and-videos) [APRICOT2025](https://2025.apricot.net/assets/files/APAC945/iabnemopsworkshopapr_1740549807.pdf)| 
 |Jan 2025|NetMission|Students|Knowledge sharing|Dhruv|[Slides](https://docs.google.com/presentation/d/1Snfw5s66fqjtqxckkxWYW8dx3o17_69cheFns34Esqs/edit?usp=sharing)|
 |Dec 2024|[India IGF](https://indiaigf.in/)|Internet Governance|knowledge sharing| Dhruv, Suresh| Part of panel discussion on multi stakeholderism and e-impact|
-|Oct-Nov 2024|[NANOG](https://nanog.org/events/nanog-92/agenda/); [RIPE](https://ripe89.ripe.net/archives/); [LACNIC](https://lacnic42.lacnic.net/en/programme/presentations-and-videos) [AutoCon2](https://networkautomation.forum/autocon2)|Network Operators|Participants|IAB NEMOPS Workshop PC|[NANOG](https://storage.googleapis.com/site-media-prod/meetings/NANOG92/5018/20241021_Watsen_Iab_Pre-Event_On_v1.pdf); [RIPE](https://ripe89.ripe.net/archives/video/1417/); [LACNIC](https://lacnic42.lacnic.net/en/programme/presentations-and-videos)| 
 |Oct 2024|[inSIG](https://insig.in/program-agenda-for-insig-2024/)|Mixed|*all levels*|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/1RWJZOiItvgJzLQr9JdVpTlLds5gxHQspDfOFXaNH0q4/edit?usp=sharing)|
 |July 2024|[NetDev](https://netdevconf.info/0x18/sessions/workshop/workshop-on-extension-headers.html) IPv6 Extension header workshop|Developers|Participants|Tom Herbert||
 |July 2024|[HKSU](https://hksu.ee.nfu.edu.tw/wp/ietfcourse2024/%e8%ad%b0%e7%a8%8b/) IETF Course|Students|knowledge sharing|Dhruv Dhody|[Slides](https://docs.google.com/presentation/d/15emi_D0xJdxFcMeUaX9wsTVvBfQg5C_HWW0emhqj928/edit?usp=sharing)|
