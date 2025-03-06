@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-06T08:40:23.578Z
+date: 2025-03-06T08:40:32.877Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -18,6 +18,8 @@ Possible documents to create are
 - RPP - Core: Describes API endpoints and message framework
 - RPP - JSON: Describes RPP messages based on JSON data format 
 - RPP - EPP: Describes how RPP data structures can be converted to EPP objects
+
+
 TODO
 
 ## RFCs
