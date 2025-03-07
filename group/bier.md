@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-03-07T00:52:42.616Z
+date: 2025-03-07T01:18:00.183Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -79,19 +79,19 @@ This page will be updated with more details as we figure things out.
 | draft                       | WG<br>status                            | WGLC in<br> related<br> WGs | All Normative<br> References<br> sent to<br> IESG | shepherd<br> assigned | shepherd<br>  review<br> done | DIR early<br> review done,<br> if needed | DIR LC<br>  review<br> done | AD early<br> review<br> done | sent to<br>  IESG | notes |
 |-----------------------------|-----------------------------------------|-----------------------------|---------------------------------------------------|-----------------------|-------------------------------|------------------------------------------|-----------------------------|------------------------------|-------------------|-------|
 | draft-ietf-bier-frr         | Submitted to IESG for Publication       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |       |
-| draft-ietf-bier-tether      | Revised I-D Needed - Issue raised by AD | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |       |
-|draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | IPPM WG? | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
-|draft-ietf-bier-pim-signaling| Revised I-D Needed - Issue raised by AD | PIM WG? | Yes | Yes | better to refresh | Not yet | Not yet | Yes  | Not yet |       |
-|draft-ietf-bier-use-cases    | WG Consensus: Waiting for Write-Up      | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |
+|draft-ietf-bier-oam-requirements| WG Consensus: Waiting for Write-Up   | N/A  | Yes | Yes | Not yet | N/A | Yes | Not yet | Not yet |       |
 |draft-ietf-bier-ospfv3-extensions|Revised I-D Needed - Issue raised by AD| LSR WG? | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |       |
 |draft-ietf-bier-lsr-non-mpls-extensions| WG Consensus: Waiting for Write-Up|requested review from LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
+| draft-ietf-bier-tether      | Revised I-D Needed - Issue raised by AD | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |       |
+|draft-ietf-bier-use-cases    | WG Consensus: Waiting for Write-Up      | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |
+| draft-ietf-bier-ping        | In WG Last Call                         | N/A | Yes | Yes | Yes | Yes | Not yet | Not yet | Not yet |       |
+|draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | IPPM WG? | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
+|draft-ietf-bier-pim-signaling| Revised I-D Needed - Issue raised by AD | PIM WG? | Yes | Yes | better to refresh | Not yet | Not yet | Yes  | Not yet |       |
 |draft-ietf-bier-path-mtu-discovery| WG Consensus: Waiting for Write-Up | N/A  | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
-|draft-ietf-bier-oam-requirements| WG Consensus: Waiting for Write-Up   | N/A  | Yes | Yes | Not yet | N/A | Yes | Not yet | Not yet |       |
 |draft-ietf-bier-bierin6      | WG Consensus: Waiting for Write-Up      | N/A | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-prefix-redistribute| WG Consensus: Waiting for Write-Up| LSR WG? | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-bgp-ls-bier-ext|In WG Last Call<br>Revised I-D Needed - Issue raised by WGLC| LSR WG done, IDR not yet?| No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-bfd         | In WG Last Call                         | BFD WGLC done | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
-| draft-ietf-bier-ping        | In WG Last Call                         | N/A | Yes | Yes | Yes | Yes | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-mldp-signaling-over-bier|    WG document               | MPLS WG? PIM WG? | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 |  |  |  |  |  |  |  |  |  |  |       |
 |  |  |  |  |  |  |  |  |  |  |       |
