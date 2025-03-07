@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-03-07T13:52:14.498Z
+date: 2025-03-07T13:58:42.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -85,7 +85,7 @@ This page will be updated with more details as we figure things out.
 | draft-ietf-bier-tether      | Revised I-D Needed - Issue raised by AD | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |       |
 |draft-ietf-bier-use-cases    | WG Consensus: Waiting for Write-Up      | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-ping        | In WG Last Call                         | N/A | Yes | Yes | Yes | Yes | Not yet | Not yet | Not yet |       |
-|draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | Just sent to IPPM WG | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
+|draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | Sent to IPPM WG | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
 |draft-ietf-bier-pim-signaling| Revised I-D Needed - Issue raised by AD | Sent to PIM WG | Yes | Yes | better to refresh | Not yet | Not yet | Yes  | Not yet |       |
 |draft-ietf-bier-path-mtu-discovery| WG Consensus: Waiting for Write-Up | N/A  | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-bierin6      | WG Consensus: Waiting for Write-Up      | N/A | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
