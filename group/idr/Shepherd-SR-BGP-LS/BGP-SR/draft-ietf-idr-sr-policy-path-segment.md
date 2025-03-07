@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-03-07T14:25:50.467Z
+date: 2025-03-07T14:29:36.974Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -22,7 +22,7 @@ dateCreated: 2025-02-25T01:30:56.613Z
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-path-segment](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)
 
 
-## Review -13 - Pending) 
+## Review -13 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-13](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-13)
 **Status: **Needs revision, but Early Allocation can be done 
 **email:** https://mailarchive.ietf.org/arch/msg/idr/pNvmocZVRa1C3o92bhsdtjuttEs/
