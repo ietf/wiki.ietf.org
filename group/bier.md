@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-03-06T07:39:18.547Z
+date: 2025-03-07T00:52:42.616Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -87,7 +87,7 @@ This page will be updated with more details as we figure things out.
 |draft-ietf-bier-lsr-non-mpls-extensions| WG Consensus: Waiting for Write-Up|requested review from LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-path-mtu-discovery| WG Consensus: Waiting for Write-Up | N/A  | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-oam-requirements| WG Consensus: Waiting for Write-Up   | N/A  | Yes | Yes | Not yet | N/A | Yes | Not yet | Not yet |       |
-|draft-ietf-bier-bierin6      | WG Consensus: Waiting for Write-Up      | 6man WG? | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
+|draft-ietf-bier-bierin6      | WG Consensus: Waiting for Write-Up      | N/A | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-prefix-redistribute| WG Consensus: Waiting for Write-Up| LSR WG? | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-bgp-ls-bier-ext|In WG Last Call<br>Revised I-D Needed - Issue raised by WGLC| LSR WG done, IDR not yet?| No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-bfd         | In WG Last Call                         | BFD WGLC done | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
