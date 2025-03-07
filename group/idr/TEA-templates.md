@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2025-03-03T11:59:23.337Z
+date: 2025-03-07T13:33:41.366Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -32,5 +32,7 @@ sub-TLVs.
 ### New tunnel type in that also uses PMSI tunnel Attribute 
 [PMSI Tunnel Type Considerations](/group/idr/TEA-templates/PMSI-TEA)
 
+## Additional things to consider
+- Route Selection Criteria - related to TEA 
 
  
