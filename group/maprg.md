@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-02-14T15:14:42.790Z
+date: 2025-03-07T13:48:31.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -100,7 +100,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 - Performance of QUIC Implementations Over Geostationary Satellite Links [YouTube](https://www.youtube.com/watch?v=vYOBBT69IfI&t=56m5s) [slides](https://datatracker.ietf.org/meeting/113/materials/slides-113-maprg-minor-update) Joerg Deutschmann, March 2022
 - QUICsand: quantifying QUIC reconnaissance scans and DoS flooding events [YouTube](https://www.youtube.com/watch?v=vYOBBT69IfI&t=1h13m56s) [slides](https://datatracker.ietf.org/meeting/113/materials/slides-113-maprg-quicsand-quantifying-quic-reconnaissance-scans-and-dos-flooding-events) Matthias Waehlisch, March 2022
 - Assessing Support for DNS-over-TCP in the Wild [YouTube](https://www.youtube.com/watch?v=vYOBBT69IfI&t=1h37m30s) [slides](https://datatracker.ietf.org/meeting/113/materials/slides-113-maprg-assessing-support-for-dns-over-tcp-in-the-wild) Jerome Mao, March 2022
-#### November 2021 (Online) [YouTube](https://www.youtube.com/watch?v=U04MXLvQKjw&t=17s) [intro slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-maprg-welcome-and-intro-davemirja)
+### November 2021 (Online) [YouTube](https://www.youtube.com/watch?v=U04MXLvQKjw&t=17s) [intro slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-maprg-welcome-and-intro-davemirja)
 - TsuNAME: exploiting misconfiguration and vulnerability to DDoS DNS [YouTube](https://www.youtube.com/watch?v=U04MXLvQKjw&t=7m55s) [slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-maprg-tsuname-exploiting-misconfiguration-and-vulnerability-to-ddos-dns), Giovane C. Moura, November 2021
 - Recommendations on using VPN over SATCOM access [YouTube](https://www.youtube.com/watch?v=U04MXLvQKjw&t=24m17s) [slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-maprg-recommendations-on-using-vpn-over-satcom-access), Nicolas Kuhn, November 2021
 - IoTLS: understanding TLS usage in consumer IoT devices [YouTube](https://www.youtube.com/watch?v=U04MXLvQKjw&t=36m29s) [slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-maprg-iotls-understanding-tls-usage-in-consumer-iot-devices), Muhammad Talha Paracha, November 2021
