@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-02-28T14:18:56.703Z
+date: 2025-03-07T14:25:50.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -24,8 +24,26 @@ dateCreated: 2025-02-25T01:30:56.613Z
 
 ## Review -13 - Pending) 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-13](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-13)
+**Status: **Needs revision, but Early Allocation can be done 
+**email:** https://mailarchive.ietf.org/arch/msg/idr/pNvmocZVRa1C3o92bhsdtjuttEs/
 
-(pending: ETA 2/26): topics - early allocation, template for SubTLV in TEA, and implementatnoi reports. 
+
+### Technical issues 
+**Issues from -11 resolved:** Technical Issues 1-4 from Review-11, but issue-3 is partially resolved
+
+#### 3. Section 5, error handling, Validation SR Candidate routes 
+
+**Version -13 states:**
+> /A BGP implementation MUST NOT perform semantic	
+>  verification of such fields nor consider the SR Policy update to be	
+>  invalid or not usable based on such validation. /
+{.is-info}
+ 
+ Is there a reason, you do not specifically state the SRPM? 
+
+#### Editorial NITs
+**Issues from -11 resolved:** NITS 1-2 
+**Issue not resolved from -13:** NIT-3 
 
 ## Review -11 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-11](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-11))
