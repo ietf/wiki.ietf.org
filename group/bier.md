@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-03-07T13:58:42.578Z
+date: 2025-03-08T07:59:42.662Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -90,7 +90,7 @@ This page will be updated with more details as we figure things out.
 |draft-ietf-bier-path-mtu-discovery| WG Consensus: Waiting for Write-Up | N/A  | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-bierin6      | WG Consensus: Waiting for Write-Up      | N/A | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-prefix-redistribute| WG Consensus: Waiting for Write-Up| Sent to LSR WG | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
-|draft-ietf-bier-bgp-ls-bier-ext|In WG Last Call<br>Revised I-D Needed - Issue raised by WGLC| LSR WG done, IDR not yet?| No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
+|draft-ietf-bier-bgp-ls-bier-ext|In WG Last Call<br>Revised I-D Needed - Issue raised by WGLC| Sent to LSR and IDR WG | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-bfd         | In WG Last Call                         | BFD WGLC done | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
 |draft-ietf-bier-mldp-signaling-over-bier|    WG document               | MPLS WG? PIM WG? | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 |  |  |  |  |  |  |  |  |  |  |       |
