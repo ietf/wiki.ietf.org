@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-09T23:29:17.056Z
+date: 2025-03-09T23:29:55.000Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -16,6 +16,8 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |01:00|HX779|randy | randy@psg.com | BKK  | | Marriott Marquis Queen’s Park | |
+---
+
 |  |  |  |  |  |  |  |       |
 |      |        |      |       |         |          |             |       |
 
