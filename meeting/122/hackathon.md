@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-06T10:07:26.334Z
+date: 2025-03-09T08:16:14.101Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -671,6 +671,21 @@ We have a list of some project ideas. Other ideas are welcome and encouraged. Pl
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/122/hackathon/thread-projects).
+
+---
+### Interface to In-Network Computing Functions (I2ICF) Project
+- **Champion(s)**
+  - Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project(s)**
+  - Demonstrate Interface to In-Network Computing Functions (I2ICF) Intent Translator of Intent Service Application for IoT Device (i.e., Software Defined Vehicles (SDVs)).
+  - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
+- **Specifications**
+  - [draft-jeong-opsawg-i2inf-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-framework/)
+  - [draft-jeong-opsawg-i2inf-problem-statement](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-problem-statement/)
+  - [draft-jeong-opsawg-intent-based-sdv-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/)
+  - [draft-jeong-cats-its-use-cases-01](https://datatracker.ietf.org/doc/draft-jeong-cats-its-use-cases/)
+  
+----
 
 ### Multipath QUIC Interop testing
 
