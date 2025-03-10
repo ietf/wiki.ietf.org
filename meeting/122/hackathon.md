@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T17:32:40.219Z
+date: 2025-03-10T17:35:55.622Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -781,6 +781,7 @@ Martine Lenders (martine.lenders@tu-dresden.de)
   - Validation of rate-limited sender implementation in ns-3
   - Testing of FQ-CoDel and FQ-PIE using ns-3, NeST and WiFi APs
   - New work on improving the delay-throughput tradeoff with CoDel
+  - Testing the interaction of modified CoDel with BBR
 - **Related documents**
   - [RFC 7928](https://datatracker.ietf.org/doc/html/rfc7928)
   - [RFC 8289](https://datatracker.ietf.org/doc/html/rfc8289) 
