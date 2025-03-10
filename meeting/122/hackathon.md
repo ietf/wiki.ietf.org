@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T10:57:01.232Z
+date: 2025-03-10T17:32:40.219Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -766,6 +766,27 @@ Martine Lenders (martine.lenders@tu-dresden.de)
   https://github.com/powerbuilder1/unbound/tree/vm_ubuntu_version
   https://github.com/dig-doc/knot
   https://github.com/dig-doc/digdoc
+
+---
+
+### Testing Congestion Control and Queue Management Mechanisms
+- **Champions**
+  - Mohit P. Tahiliani (tahiliani@nitk.edu.in)
+  - Y. Supradha Bhat (ysupradhabhat.211cs265@nitk.edu.in)
+  - Anuhya Murki (anuhyamurki.211cs213@nitk.edu.in)
+  - Mahati A. Kalale (mahatikalale.211cs138@nitk.edu.in)
+  - Rati Preethi S. (ratipreethi.211cs248@nitk.edu.in)
+  - Shriya Anil (shriya.211cs259@nitk.edu.in)
+- **Project Info**
+  - Validation of rate-limited sender implementation in ns-3
+  - Testing of FQ-CoDel and FQ-PIE using ns-3, NeST and WiFi APs
+  - New work on improving the delay-throughput tradeoff with CoDel
+- **Related documents**
+  - [RFC 7928](https://datatracker.ietf.org/doc/html/rfc7928)
+  - [RFC 8289](https://datatracker.ietf.org/doc/html/rfc8289) 
+  - [RFC 8290](https://datatracker.ietf.org/doc/html/rfc8290) 
+  - [draft-ietf-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
+  - [draft-tahiliani-tsvwg-fq-pie](https://datatracker.ietf.org/doc/draft-tahiliani-tsvwg-fq-pie/)
 
 ---
 
