@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-09T08:16:14.101Z
+date: 2025-03-10T00:51:29.998Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -695,6 +695,16 @@ Magnus Westerlund (magnus.westerlund@ericsson.com)
 - **Project Info**
     Interop testing of Multipath QUIC implementations - see https://github.com/quicwg/multipath/wiki/Implementation-Draft-Interop
 
+---
+
+### rpki-rtr selective sync implementation
+
+- **Champions**
+  - Tom Harrison (tomh@apnic.net)
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-geng-sidrops-rtr-selective-sync/
+- **Repository**
+  - https://github.com/APNIC-net/rpki-rtr-demo
 
 ----
 
