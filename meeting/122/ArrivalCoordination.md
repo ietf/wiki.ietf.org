@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-09T23:30:49.268Z
+date: 2025-03-10T11:14:18.751Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -15,10 +15,8 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
----
+|10:05|KL0843|Gorry | gorry@erg.abdn.ac.uk | BKK  | | Holiday Inn beside Marriott Marquis | |
 
-|  |  |  |  |  |  |  |       |
-|      |        |      |       |         |          |             |       |
 
 
 ## Friday, March 14, 2025
