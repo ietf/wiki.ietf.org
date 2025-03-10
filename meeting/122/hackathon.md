@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T08:37:57.075Z
+date: 2025-03-10T09:08:09.062Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -717,7 +717,7 @@ Wataru Mishima (w.mishima@ntt.com)
 * Interoperability testing.
 
 - **Specifications**
-https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/05/
+https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
 - **Repository**
 https://github.com/watal/gobgp/tree/feature/bgp-ls-service-segments
@@ -731,7 +731,7 @@ Wataru Mishima (w.mishima@ntt.com)
 - **Project Info**
 * Implementation of BGP FlowSpec with SR Policy on GoBGP.
 - **Specifications**
-https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
+https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/05/
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
 - **Repository**
 project description
