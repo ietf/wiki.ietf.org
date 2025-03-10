@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T10:56:30.246Z
+date: 2025-03-10T10:57:01.232Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -759,7 +759,7 @@ Martine Lenders (martine.lenders@tu-dresden.de)
   - [KnotDNS](https://www.knot-dns.cz/)
   - And a Dig-like CLI tool called [`digdoc`](https://github.com/dig-doc/digdoc)
 
-  I would like to work with contributors from this projects to get them integrated. For `digdoc`, the goal is to provide a package for the most common Linux distributions, e.g., Debian.
+  I would like to work with contributors from these projects to get them integrated. For `digdoc`, the goal is to provide a package for the most common Linux distributions, e.g., Debian.
 - **Specifications**:
   https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap/13/
 - **Repositories**:
