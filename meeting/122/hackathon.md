@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T17:35:55.622Z
+date: 2025-03-10T20:04:27.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -788,6 +788,24 @@ Martine Lenders (martine.lenders@tu-dresden.de)
   - [RFC 8290](https://datatracker.ietf.org/doc/html/rfc8290) 
   - [draft-ietf-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
   - [draft-tahiliani-tsvwg-fq-pie](https://datatracker.ietf.org/doc/draft-tahiliani-tsvwg-fq-pie/)
+
+---
+### PQC DNSSEC Metrics with MTL Mode
+- **Champions**
+Joe Harvey (jsharvey@verisign.com)
+Swapneel Sheth (ssheth@verisign.com
+- **Project Info**
+Previous IETF Hackathons have demonstrated how MTL mode works including how to apply it to DNSSEC.  With the release of our [patch for LDNS](https://github.com/verisign/mtl-mode-ldns) (Library for DNS open-source from NLNet Labs) to allow for key generation, signing, and verifiying with MTL mode and PQC algorithms, we would like to now collect some metrics that focus on the general operation of PQC DNSSEC and the operational considerations of MTL mode on zone signing and query/responses. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases to further evaluate interoperability and to confirm our collected metrics.
+
+- **Specifications**
+[1] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
+[2] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/
+[3] https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+
+- **Repositories**
+[1] https://github.com/verisign/MTL 
+[2] https://github.com/verisign/mtl-mode-ldns
+[3] https://github.com/verisign/mtl-mode-unbound
 
 ---
 
