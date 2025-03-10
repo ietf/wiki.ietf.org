@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T00:51:29.998Z
+date: 2025-03-10T08:35:32.199Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -705,6 +705,37 @@ Magnus Westerlund (magnus.westerlund@ericsson.com)
   - https://datatracker.ietf.org/doc/draft-geng-sidrops-rtr-selective-sync/
 - **Repository**
   - https://github.com/APNIC-net/rpki-rtr-demo
+
+----
+
+### BGP-LS Extensions for SRv6 Service Chaining
+- **Champions**
+Wataru Mishima (w.mishima@ntt.com)
+- **Project Info**
+
+* Implementation of BGP-LS Extensions for Service Chaining on GoBGP, ExaBGP, and Wireshark.
+* Interoperability testing.
+
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/05/
+https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
+- **Repository**
+https://github.com/watal/gobgp/tree/feature/bgp-ls-service-segments
+https://gitlab.com/watal/wireshark/-/tree/feature/bgp-ls-service-segments?ref_type=heads
+
+----
+
+### Traffic Steering using BGP FlowSpec with SR Policy
+- **Champions**
+Wataru Mishima (w.mishima@ntt.com)
+- **Project Info**
+* Implementation of BGP FlowSpec with SR Policy on GoBGP.
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
+https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
+- **Repository**
+project description
+https://github.com/y-kzm/gobgp/tree/draft-ietf-idr-ts-flowspec-srv6-policy-05-yykzm
 
 ----
 
