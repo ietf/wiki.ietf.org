@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T08:35:32.199Z
+date: 2025-03-10T08:37:57.075Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -721,7 +721,7 @@ https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/05/
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
 - **Repository**
 https://github.com/watal/gobgp/tree/feature/bgp-ls-service-segments
-https://gitlab.com/watal/wireshark/-/tree/feature/bgp-ls-service-segments?ref_type=heads
+https://gitlab.com/watal/wireshark/-/tree/feature/bgp-ls-service-segments
 
 ----
 
