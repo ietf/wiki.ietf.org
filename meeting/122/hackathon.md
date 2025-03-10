@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T10:36:02.520Z
+date: 2025-03-10T10:56:30.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -747,7 +747,27 @@ Discuss implementation issues of  EESP protocol.
 https://datatracker.ietf.org/doc/draft-klassert-ipsecme-eesp/
 https://datatracker.ietf.org/doc/draft-klassert-ipsecme-eesp-ikev2/
 
+---
 
+### Integrating DNS over CoAP into DNS Resolver Implementations
+- **Champions**
+Martine Lenders (martine.lenders@tu-dresden.de)
+- **Project Info**
+  
+  Students from TU Dresden provided implementations of DNS over CoAP (DoC) for various DNS implementations:
+	- [Unbound](https://nlnetlabs.nl/projects/unbound/about/)
+  - [KnotDNS](https://www.knot-dns.cz/)
+  - And a Dig-like CLI tool called [`digdoc`](https://github.com/dig-doc/digdoc)
+
+  I would like to work with contributors from this projects to get them integrated. For `digdoc`, the goal is to provide a package for the most common Linux distributions, e.g., Debian.
+- **Specifications**:
+  https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap/13/
+- **Repositories**:
+  https://github.com/powerbuilder1/unbound/tree/vm_ubuntu_version
+  https://github.com/dig-doc/knot
+  https://github.com/dig-doc/digdoc
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
