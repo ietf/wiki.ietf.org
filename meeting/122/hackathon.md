@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T09:08:09.062Z
+date: 2025-03-10T09:10:58.312Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -734,7 +734,6 @@ Wataru Mishima (w.mishima@ntt.com)
 https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/05/
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
 - **Repository**
-project description
 https://github.com/y-kzm/gobgp/tree/draft-ietf-idr-ts-flowspec-srv6-policy-05-yykzm
 
 ----
