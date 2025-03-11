@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-03-06T02:17:19.290Z
+date: 2025-03-11T21:10:38.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T02:15:36.611Z
@@ -28,7 +28,6 @@ For communication among Thread Hackathon participants, particularly remote parti
 
 - **Participants**
 Stuart Cheshire (Apple)
-François Michel (Apple)
 Ted Lemon (Apple)
 
 - **Project Info**
