@@ -2,7 +2,7 @@
 title: draft-ietf-idr-dynamic-cap implementations
 description: 
 published: true
-date: 2023-03-13T07:26:48.220Z
+date: 2025-03-11T14:28:25.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T07:26:44.044Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-13T07:26:44.044Z
 
 | Vendor  |  Version of software  |  What version of draft implemented  |  What caps can be re-negotiated  |  Error code for notification?   |
 |---------|-----------------------|-------------------------------------|----------------------------------|---------------------------------|
-
+  Cisco          NXOS: 9.3.X					draft-ietf-idr-dynamic-cap-11		         Capability message type 6       CAPABILITY Message Error
 
 &nbsp;
 &nbsp;
