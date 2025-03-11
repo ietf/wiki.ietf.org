@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-11T12:39:10.194Z
+date: 2025-03-11T12:40:13.863Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -73,7 +73,9 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >2.  RPC Check-in (10min, Jean)
 >3.  Choosing [IESG Roles/Liaisons](https://wiki.ietf.org/group/iesg) (IAB, NOMCOM, Tools, EODIR, TDD, RSAB, LLC, IAB-IANA ASG, IAB-ISOC Policy ASG) (30min, IESG)
 >4.  Approval of [BCP14 Statement](https://docs.google.com/document/d/1qW9yk_Y-jMfUNlsfFiPcjyvGLC3RhesfodO9LtlO2JQ/) (10min, Murray)
+>5. (last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
 
+Any topics which aren't finished in this meeting slot can roll over into the Monday, March 17 meeting.
 
 ### Meeting Events
 
