@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-02-22T13:32:52.704Z
+date: 2025-03-11T23:33:54.716Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -12,17 +12,17 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## Implementation Reports for Drafts in queue of RFC editor
  - [draft-ietf-idr-sr-policy-safi- implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
 - [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-sr-segtypes-ext-implement)
- 
- ## Implementation reports for Drafts at IESG
  - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
  - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
  - [draft-ietf-idr-deprecate-as-set-confed-set](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set)
   - [draft-ietf-idr-bgp-ls-sr-policy](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
  
+## Implementation reports for Drafts at IESG
+- None 
+ 
 ## Implementation report for Post-WG LC drafts  
  - [draft-ietf-idr-sdwan-edge-discovery-20](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
-  
  ## Implementation reports for drafts at WG LC 
 
   - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
