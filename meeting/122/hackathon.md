@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-10T20:04:27.104Z
+date: 2025-03-11T10:44:48.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -806,6 +806,20 @@ Previous IETF Hackathons have demonstrated how MTL mode works including how to a
 [1] https://github.com/verisign/MTL 
 [2] https://github.com/verisign/mtl-mode-ldns
 [3] https://github.com/verisign/mtl-mode-unbound
+
+---
+### Evaluation of Caller ID Verification
+- **Champions**
+Feng Hao (feng.hao@warwick.ac.uk) 
+Basil Thomas (BThomas@squire-technologies.com)
+Steve Smith (stevesmith@truecall.co.uk)
+Muhammad Ajmal Azad (Muhammadajmal.azad@bcu.ac.uk)
+
+- **Project Info**
+Evaluating the feasibility of deploying Caller ID Verification (CIV) as part of the SIP servers in the Telecom cloud to prevent number spoofing attacks.
+
+- **Related document**
+ [1] https://www.ietf.org/archive/id/draft-hao-civ-00.html
 
 ---
 
