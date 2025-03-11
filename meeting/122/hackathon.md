@@ -822,6 +822,20 @@ Evaluating the feasibility of deploying Caller ID Verification (CIV) as part of 
  [1] https://www.ietf.org/archive/id/draft-hao-civ-00.html
 
 ---
+### Multi-Qtype
+**Champions**
+- Ray Bellis (ray@bellis.me.uk)
+- Chris Box (chris.box.ietf@gmail.com)
+
+**Project Info**
+
+We are working on end-to-end testing of a mechanism for DNS clients to query for multiple RR types for the same domain name in a single message (since using question count > 1 never worked well and is now forbidden). Want to get A, AAAA, and HTTPS records with a single query? Everything email system related at once? Come join us!
+
+**Related document**
+
+  [1] https://datatracker.ietf.org/doc/draft-ietf-dnssd-multi-qtypes/
+  
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
  
