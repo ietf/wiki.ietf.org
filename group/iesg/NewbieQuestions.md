@@ -2,7 +2,7 @@
 title: IESG Newbie FAQ
 description: 
 published: true
-date: 2023-02-17T21:02:51.390Z
+date: 2025-03-11T19:10:30.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T21:01:48.145Z
@@ -13,7 +13,8 @@ dateCreated: 2023-02-17T21:01:48.145Z
 ## How can I change the ballot write-up after it's been issued?
 
 For example, to add a note to the RFC editor. Change the ballot text in the tracker and save it. No need to re-issue the ballot.
-What are the steps to initiate MIB doctor review for a draft?
+
+## What are the steps to initiate MIB doctor review for a draft?
 
 Basically, do it before IETF Last Call by contacting the OPS AD. See [MibDoctor](/group/iesg/MibDoctor).
 ## What are the steps to put a draft on the telechat agenda?
