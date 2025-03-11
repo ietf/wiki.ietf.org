@@ -822,14 +822,15 @@ Evaluating the feasibility of deploying Caller ID Verification (CIV) as part of 
  [1] https://www.ietf.org/archive/id/draft-hao-civ-00.html
 
 ---
-### Multi-Qtype
+### DNS Multiple QTYPEs
 **Champions**
 - Ray Bellis (ray@bellis.me.uk)
-- Chris Box (chris.box.ietf@gmail.com)
+- Florian Obser (florian+ietf@narrans.de)
+- Chris Box (chris.box.ietf@gmail.com) (Sunday only)
 
 **Project Info**
 
-We are working on end-to-end testing of a mechanism for DNS clients to query for multiple RR types for the same domain name in a single message (since using question count > 1 never worked well and is now forbidden). Want to get A, AAAA, and HTTPS records with a single query? Everything email system related at once? Come join us!
+We aim to perform the first interop of something long wished-for: a mechanism for DNS clients to query for multiple RR types for the same name *in a single message* (since using question count > 1 never worked well and is now forbidden). Want to get A, AAAA, and HTTPS records with a single query? SRV and TXT? Everything email system related at once? Come join us!
 
 **Related document**
 
