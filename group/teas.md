@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-03-11T16:26:37.840Z
+date: 2025-03-11T16:32:12.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -30,7 +30,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  3| [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)                  | Ready for WGLC (as per Authors) | 2025-03-11
 |  4| [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework| 2025-01-13
 |  5| [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/) ^Exp^ | Open issues exist                   | 2025-01-13
-|  6| [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/)                                | Open issues exist                   | 2025-01-13
+|  6| [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/)                                | Open issues exist <br> On the agenda for IETF 122                  | 2025-01-13
 |  7| [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) | Open issues exist                   | 2025-03-11
 |  8| [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/)                      | No open issues; Wait for other relevant documents to mature and revisit if any updates are necessary|2025-01-13
 |  9| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Open issues exist (issues tracked in the document)| 2025-03-11
