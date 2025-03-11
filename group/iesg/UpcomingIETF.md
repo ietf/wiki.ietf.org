@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-11T12:40:13.863Z
+date: 2025-03-11T12:43:15.102Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,9 +18,6 @@ Please add any topics for either IESG only meetings at IETF 122, or the joint me
 
 - Last Call result of Moving RFCs 793, 1065, 1723 and 1725 to Historic (Francesca) ([mail](https://mailarchive.ietf.org/arch/msg/iesg/xpgD8bNtS4IAZPjrEGFAkCe6rvE/)) [suggestion from Liz]
 - IESG to decide whether we are going to collectively agree to opt in  to the RPC auth 48 Github experiment if authors are part of the github experiment. [suggestion from Liz]
-- IANA question on specification required policy: spec is expected to be "publicly available", but what if it is pay-to-access - are DE to be given access? Are they allowed to refuse registration if no access? (no liaisons in this particular case) (Francesca)
-
-
 
 # IESG Activities
 *All times are in UTC+7.* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -72,7 +69,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >1.  IANA Update (10min, Sabrina)
 >2.  RPC Check-in (10min, Jean)
 >3.  Choosing [IESG Roles/Liaisons](https://wiki.ietf.org/group/iesg) (IAB, NOMCOM, Tools, EODIR, TDD, RSAB, LLC, IAB-IANA ASG, IAB-ISOC Policy ASG) (30min, IESG)
->4.  Approval of [BCP14 Statement](https://docs.google.com/document/d/1qW9yk_Y-jMfUNlsfFiPcjyvGLC3RhesfodO9LtlO2JQ/) (10min, Murray)
+>4.  Approval of [BCP14 Statement](https://docs.google.com/document/d/1qW9yk_Y-jMfUNlsfFiPcjyvGLC3RhesfodO9LtlO2JQ/) (15min, Murray)
+>5. IANA question on specification required policy: spec is expected to be "publicly available", but what if it is pay-to-access - are DE to be given access? Are they allowed to refuse registration if no access? (no liaisons in this particular case) (10min, Francesca)
 >5. (last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday, March 17 meeting.
