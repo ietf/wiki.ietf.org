@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-11T12:43:15.102Z
+date: 2025-03-12T01:14:02.829Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -71,7 +71,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >3.  Choosing [IESG Roles/Liaisons](https://wiki.ietf.org/group/iesg) (IAB, NOMCOM, Tools, EODIR, TDD, RSAB, LLC, IAB-IANA ASG, IAB-ISOC Policy ASG) (30min, IESG)
 >4.  Approval of [BCP14 Statement](https://docs.google.com/document/d/1qW9yk_Y-jMfUNlsfFiPcjyvGLC3RhesfodO9LtlO2JQ/) (15min, Murray)
 >5. IANA question on specification required policy: spec is expected to be "publicly available", but what if it is pay-to-access - are DE to be given access? Are they allowed to refuse registration if no access? (no liaisons in this particular case) (10min, Francesca)
->5. (last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
+>6. Next steps on draft-klensin-idna-rfc5891bis (20min, Orie)
+>7. (last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday, March 17 meeting.
 
