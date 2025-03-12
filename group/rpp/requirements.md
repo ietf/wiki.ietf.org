@@ -1,8 +1,8 @@
 ---
-title: RPP - Requirements
+title: ja 
 description: Concept requirements document
 published: true
-date: 2025-03-12T08:28:20.347Z
+date: 2025-03-12T09:19:51.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -131,6 +131,7 @@ Overall cross-cutting requirements
 - RPP MUST employ strong authentication and utilize encrypted transport (HTTPS) to protect sensitive data and authentication material.  Security mechanisms SHOULD be flexible to allow operators to choose appropriate methods and support federated authentication scenarios. RPP authorization models are intended to be fine-grained and go beyond simple auth-code based models, allowing for control at the operation and potentially attribute level, supporting use cases like domain transfers, DNS provider authorizations, and renewals.
 
 - Enable support for simple object transfer transaction using outh2.0 and/or OpenID Connect (also see Security above)
+
 - Enable support for DNS hoster to update NS records directly in registry when approved by sponsoring registrar. (also see Security above)
 
 ## Interoperability
