@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-11T08:03:53.413Z
+date: 2025-03-12T07:49:26.801Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -16,37 +16,48 @@ Currently this list reads more like a "wish" list and it also contains comments 
 
 # Requirements
 
-## Architecture
+## RESTful
 
 Overall cross-cutting requirements
 
-- RESTful: The protocol MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
+- RPP MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
+
 - REST service discovery - allow for loose coupling between clients and servers (HATEOAS)
 
-- RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI, API gateways, and load balancing, caching and delegate responsibility to the HTTP layer where possible.
+- RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI specification, API gateways, and load balancing, caching and delegate responsibility to the HTTP layer where possible.
 
 - provide a clear, clean, easy to use and self-explanatory interface that can easily be integrated into existing software systems. 
 
 - RPP MUST be stateless and MUST NOT keep client session or any other application state. Each client request needs to provide all the information necessary for the server to successfully process the request.
   
-- When the semantics of a resource URL and HTTP method match an EPP command and request message, the use of a request message should be optional.
+- When the semantics of a resource URL and HTTP method do not require a request message, the use of a request message should be optional.
 
 - Discovery (Bootstrap) mechanism for clients to locate RPP services
-  - As an example see the IANA bootstrap Service Registry for RDAP. Or instead of IANA use a DNS TXT record containing reference to an RPP service URL?
+  - IANA bootstrap Service Registry
+  - DNS TXT record
+  - well-known URI
 
 - RPP specifications SHOULD include OpenAPI definitions to facilitate documentation, testing, and code generation, and provide implementer-friendly extension descriptions.
 
 - Every RPP request should be atomic and idempotent when possible.
-- RPP MAY support object create request having embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request) Return complete representation (similar to object info in EPP) after compound request completed or return redirect to newly created object location.
 
-- OpenAPI used for API documentation
+- RPP MAY support compound object create request having embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request). Return complete representation (similar to object info in EPP) after compound request completed or return redirect to newly created object location.
+
 
 ## Data model
-- RPP MUST allow for the use of different profiles to indicate required parts of the data model, mapping definitions, or functional subsets for compatibility.
+
+- The base data model structures are data format agnostic and can be mapped to multiple data formats (JSON, XML, YAML etc.)
+
 - Commonly used EPP extension may be added to the RPP core data model (example: DNSSEC)
--  The data model MUST have support for internationalization, including for Contact objects (potentially drawing from RDAP JSContact), email addresses, and Internationalized Domain Names (IDNs). RPP should also support human-readable localized responses.
+
+-  The data model MUST have support for internationalization, including for Contact objects (potentially drawing from RDAP JSContact), email addresses, and Internationalized Domain Names (IDNs).
+
+- RPP should also support human-readable localized responses.
+
 - RPP SHOULD provide mechanisms for registrars to signal data omission, indicating data collected but not transmitted to the registry.
-- The RPP data model SHOULD aim for easy and natural extensibility to richer models compared to EPP, including attributes for VAT numbers, company numbers etc.
+
+- RPP MUST allow for the use of different profiles to indicate required parts of the data model, mapping definitions, or functional subsets for compatibility.
+
 - The data model must have support for internationalization of contact details (RDAP JScontact?, or maybe limited items from that)
 	- Email
   - IDN -> domain name
@@ -55,13 +66,19 @@ Overall cross-cutting requirements
 ## Data format 
 
 - Support for multiple data formats (e.g. JSON, XML, YAML)
-- The RPP data structures are described using a format agnostic method
-- The protocol MUST support JSON as the data-interchange format for request and response payloads. 
+
+- The protocol supports at least the JSON format as the data-interchange format for request and response payloads. 
+
 - Support validation of request and response message, in order to determine if the content is valid and no required attributes are missing.
-- A server may choose to include support for multiple media types. The client must be able to signal to the server what media type the server should expect for the request content and to use for the response content.
+
+- A server may choose to include support for multiple media types.
+
+- A client must be able to signal to the server what media type the server should expect for the request content and to use for the response content.
+
 - Allow for the use of server profiles, indicating required parts for the data model and/or mapping definitions.
-- Uses a HTTP header for profile signaling?
+
 - RPP SHOULD consider mechanisms to support data formats outside of core RPP domain. Especially formats, which lose their properties if transformed, like Verifiable Credentials for contacts which are digitally signed.
+
 - Support for partially updating an object, ussing HTTP PATCH method and [JSON Merge Patch](https://datatracker.ietf.org/doc/html/rfc7386)
 
 
@@ -76,6 +93,8 @@ Overall cross-cutting requirements
 ## Extensibility
 
 - The protocol MUST be extensible to accommodate new functionalities, data objects, and operations beyond the initial scope.
+
+- The RPP data model SHOULD aim for easy and natural extensibility to richer models compared to EPP, including attributes for VAT numbers, company numbers etc.
 
 - Allow for flexibility in extending data model (EPP object extension) e.g. adding new objects or a new attribute to an existing object.
 - Use Prefer HTTP header "handling=strict" vs. "handling=lenient” to make the server behave strictly about unknown attributes vs. ignoring unknown attributes. Another way would be with a more fine-granular approach like the “crit” claim in JWT.
