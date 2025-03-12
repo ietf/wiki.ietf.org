@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-02-13T10:03:06.059Z
+date: 2025-03-12T04:09:46.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -17,7 +17,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| WG Adoption | draft-ietf-pce-state-sync | Dhruv | - |
+|IANA Renew| draft-ietf-pce-multipath | Dhruv | Asked authors for commitment |
+| Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | Awaiting an update |
 | Shephered Review and Writeup| draft-ietf-pce-sid-algo | Dhruv | - |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
@@ -26,7 +27,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |AD|Item|Document|Remarks|
 |---|---|---|---|
-|John|IESG Telechat|draft-ietf-pce-pcep-color|Submitted on 2024-11-25|
 |Roman|IESG Telechat|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
 
 Some concerns: 
