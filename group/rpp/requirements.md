@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-12T08:14:54.736Z
+date: 2025-03-12T08:28:20.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -90,7 +90,7 @@ Overall cross-cutting requirements
 
 - RPP aims for data model compatibility with the existing EPP data model for core objects (domain, contact, host) to allow automatic/mechanical mapping/conversion between EPP and RPP. Compatibility definitions for RPP to EPP mappings may be defined in compatibility profiles.
 
-- Allow RPP service to only support a subset of EPP functionality?
+- A RPP service may choose to only support a subset of EPP functionality, this MUST be discoverable by the client.
 
 ## Extensibility
 
@@ -100,23 +100,34 @@ Overall cross-cutting requirements
 
 - Allow for flexibility in extending data model (EPP object extension) e.g. adding new objects or a new attribute to an existing object.
 
-- Allow extension for new operations (EPP protocol extension) on resources, e.g. registry-lock “/domains/example.nl/extensions/lock” . The extension name/definition may need to include an IANA registration. 
+- Allow extension for new operations (EPP protocol extension) on resources, e.g. registry-lock “/domains/example.nl/extensions/lock”.
+
+- The extension name/definition may need to include an IANA registration.
+
 - No need for EPP command-response extension, use standard HTTP response/error handling (headers)?
+
 - lightweight process of publishing extensions and implementer-friendly description requirements (like OpenAPI requirement together with extension specification)
+
 - Use of IANA registry for namespaces?
 
 ## Security
 
-- Support for modern authentication and authorization schemes may allow for more efficient provisioning systems and may enable support for new functionality and or protocol features that are not (easily) possible using EPP.
+- Support for modern authentication and authorization schemes allows for easy integration in modern HTTP infrastructure, and may enable support for new functionality and or protocol features that are not (easily) possible using EPP.
+
 - Support for scalable modern authorization standards (OAuth, OpenId Connect)
-	- maybe this can help enable a easier and faster object transfer process, where approval from the losing registar can be obtained interactively by the registrant during the transfer process
+
+- Support for an easier and faster object transfer process, where approval from the losing registar can be obtained interactively by the registrant during the transfer process
+
 - Define and standarize scopes for different usage scenarios
+
 - Federated authentication (b2b)
+
 - Fine-granular authorisation model for changes, using framework such as OAuth, beyond current auth-code based authorisation for transfers only
-- Domain transfers without first getting the "normal" transfertoken should be possible
-- DNS providers should be able to use the API to update the NS records
+   - Domain transfers without first getting the "normal" transfertoken should be possible
+  - DNS providers should be able to use the API to update the NS records
 	- OpenID Connect to interactively allow for DNS provider to update NS records, directly at the registry of indirectly through a supporting registar.
-- Renewals
+  - Renewals
+  
 - RPP MUST employ strong authentication and utilize encrypted transport (HTTPS) to protect sensitive data and authentication material.  Security mechanisms SHOULD be flexible to allow operators to choose appropriate methods and support federated authentication scenarios. RPP authorization models are intended to be fine-grained and go beyond simple auth-code based models, allowing for control at the operation and potentially attribute level, supporting use cases like domain transfers, DNS provider authorizations, and renewals.
 
 - Enable support for simple object transfer transaction using outh2.0 and/or OpenID Connect (also see Security above)
