@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-12T11:34:33.238Z
+date: 2025-03-12T20:20:57.325Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -72,6 +72,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >4.  Approval of [BCP14 Statement](https://docs.google.com/document/d/1qW9yk_Y-jMfUNlsfFiPcjyvGLC3RhesfodO9LtlO2JQ/) (15min, Murray)
 >5. IANA question on specification required policy: spec is expected to be "publicly available", but what if it is pay-to-access - are DE to be given access? Are they allowed to refuse registration if no access? (no liaisons in this particular case) (10min, Francesca)
 >6. Next steps on draft-klensin-idna-rfc5891bis (20min, Orie)
+>7. Appeal response (at least 30min, Murray)
 >7. (last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday, March 17 meeting.
@@ -89,7 +90,7 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 ### IESG Meeting Time: 08:00-09:20  Room: Meeting Room 2
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1002
->1. Topics?
+>1. See above in Sunday agenda
 
  
 ## Tuesday, March 18, 2025
