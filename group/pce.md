@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-12T08:48:59.847Z
+date: 2025-03-12T09:48:01.721Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -52,7 +52,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -05 posted on 2024-07-03  | Adding SRv6 support |
+| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -07 posted on 2025-03-03  | Adding SRv6 support |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -08 posted on 2025-03-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -07 posted on 2025-02-12  | waiting for spring draft for WGLC |
