@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-03-11T16:40:17.021Z
+date: 2025-03-12T21:50:54.802Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -25,7 +25,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
 |No.| WG Document                                      | Chairs' Notes                                      | Date of Notes
 |---|--------------------------------------------------|----------------------------------------------------|---------------------------------
-|  1| [draft-ietf-teas-5g-network-slice-application](https://datatracker.ietf.org/doc/draft-ietf-teas-5g-network-slice-application/) | Liaison to 3GPP to be sent when Rev 04 is available| 2025-03-11
+|  1| [draft-ietf-teas-5g-network-slice-application](https://datatracker.ietf.org/doc/draft-ietf-teas-5g-network-slice-application/) | Send Liaison to request feedbacks to 3GPP | 2025-03-12
 |  2| [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/) ^YDR^| Ready for WGLC (as per Authors)     | 2025-01-13
 |  3| [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)                  | Ready for WGLC (as per Authors) | 2025-03-11
 |  4| [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework| 2025-01-13
