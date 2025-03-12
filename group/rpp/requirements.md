@@ -2,7 +2,7 @@
 title: ja 
 description: Concept requirements document
 published: true
-date: 2025-03-12T15:31:07.399Z
+date: 2025-03-12T15:32:37.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -149,25 +149,25 @@ Overall cross-cutting requirements
 
 ## Representation
 
-### Depth of data representation
-- The client may want to request different depth of data representations, depending of its use-case:
-    - Minimal representation (like ID, or ID+name)
-    - Full representation (all data of object itself)
-    - Full representation + dereferenced referrals (for example domain with contact and host details)
+- Depth of data representation
+  - The client may want to request different depth of data representations, depending of its use-case:
+      - Minimal representation (like ID, or ID+name)
+      - Full representation (all data of object itself)
+      - Full representation + dereferenced referrals (for example domain with contact and host details)
     
-- Different representations may be requested in different contexts:
-    - GET request to the resource itself
-    - GET request to get a collection of objects
-    - responses to PUT/POST/PATCH requests
+  - Different representations may be requested in different contexts:
+      - GET request to the resource itself
+      - GET request to get a collection of objects
+      - responses to PUT/POST/PATCH requests
     
-- Design: Consider using Prefer HTTP header “return” tag to distinguish between full and minimal data representation in the responses (for example if client is not interested in the full response for bulk use-cases) 
+  - Design: Consider using Prefer HTTP header “return” tag to distinguish between full and minimal data representation in the responses (for example if client is not interested in the full response for bulk use-cases) 
 
 
-### Representation of the data vs. transaction information
+- Representation of the data vs. transaction information
 
-- The data representation in responses to transactions shall only contain the provisioning object itself, the transaction information shall be  represented in HTTP headers
+  - The data representation in responses to transactions shall only contain the provisioning object itself, the transaction information shall be  represented in HTTP headers
 
-- Not having transaction identifiers in the representation allows for more efficient caching, so maybe not include client/server ids for info/check requests but only for data modifying requests?
+  - Not having transaction identifiers in the representation allows for more efficient caching, so maybe not include client/server ids for info/check requests but only for data modifying requests?
 
 ## Other
 
