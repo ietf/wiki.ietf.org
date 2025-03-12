@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-02-19T10:31:21.603Z
+date: 2025-03-12T13:17:57.506Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -29,6 +29,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
 * [IAB Outreach Coordinator](/group/iab/IAB_Outreach_Coordinator)
 * [RSAB Stream Representative](/group/iab/RSAB_stream_representative)
+* [EODIR liaison](/group/iab/EODIR_Liaison)
 
 
 ## Liaison Descriptions
