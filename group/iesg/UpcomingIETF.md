@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-12T01:14:02.829Z
+date: 2025-03-12T11:34:33.238Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -143,6 +143,7 @@ Conference style seats for 16
 ## Monday, 17 March 2025
 
 * 11:30 - 13:00 -- SEC office hours (SEC ADs)
+* 15:30 -16:15 -- MoQ WG AD, chair synch up  (WIT ADs)
 * 16:30 - 17:00 -- TIPTOP WG, 1st meeting preparation (Éric V)
 
 ## Tuesday, 18 March 2025
