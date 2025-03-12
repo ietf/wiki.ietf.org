@@ -1,8 +1,8 @@
 ---
-title: ja 
+title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-12T15:32:37.942Z
+date: 2025-03-12T15:33:11.239Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
