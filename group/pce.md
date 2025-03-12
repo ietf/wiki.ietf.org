@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-12T07:20:52.707Z
+date: 2025-03-12T07:26:04.562Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -103,7 +103,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | IESG telechat: 2025-04-03; Track IANA alighment with IDR | Dhruv | Roman |
-| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | Submitted to IESG for Publication on 2024-11-25 |  Approved-announcement to be sent | Andrew | John |
+
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
@@ -120,6 +120,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | EDIT| - | Dhruv |
 | [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | EDIT | - | Dhruv |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | EDIT | - | Julien |
+| [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | MISRREF |  Pending on draft-ietf-pce-segment-routing-policy-cp | Andrew |
 
 ## Recent RFCs
 
