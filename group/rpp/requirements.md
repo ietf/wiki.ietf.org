@@ -2,7 +2,7 @@
 title: ja 
 description: Concept requirements document
 published: true
-date: 2025-03-12T09:19:51.526Z
+date: 2025-03-12T14:19:42.980Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -134,20 +134,17 @@ Overall cross-cutting requirements
 
 - Enable support for DNS hoster to update NS records directly in registry when approved by sponsoring registrar. (also see Security above)
 
-## Interoperability
-
-- The protocol MUST promote interoperability between different implementations to reduce integration costs and encourage broader adoption.
-
 
 ## Scalability
 
-- Load balancing at the level of request messages is more efficient compared to load balancing based on TCP sessions. 
+- RPP MUST support load balancing at the level of request messages
 
 
 ## Performance
 
-- Reduce the number of required request and response messages, improves the performance and network bandwidth requirements for both client and server. Fewer messages have to be created, marshalled, and transmitted.
-- RPP MAY allow for common bulk operations, resource listing, and filtering capabilities.
+- RPP MUST allow optional or no request/response message when this is not required, improving performance and network bandwidth requirements for both client and server. Fewer messages have to be created, marshalled, and transmitted.
+
+- RPP MAY allow for common bulk operations, resource listing, and filtering capabilities where this does not impact scalability negatively.
 
 
 ## Representation
