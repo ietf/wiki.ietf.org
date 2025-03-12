@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-12T07:49:26.801Z
+date: 2025-03-12T08:14:54.736Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -62,6 +62,8 @@ Overall cross-cutting requirements
 	- Email
   - IDN -> domain name
   - Human readable localized responses
+  
+- Flexible data validation, the server may choose to let the client decide the hwo strict thr data validation must be. Use Prefer HTTP header "handling=strict" vs. "handling=lenient” to make the server behave strictly about unknown attributes vs. ignoring unknown attributes. Another way would be with a more fine-granular approach like the “crit” claim in JWT.
 
 ## Data format 
 
@@ -97,7 +99,7 @@ Overall cross-cutting requirements
 - The RPP data model SHOULD aim for easy and natural extensibility to richer models compared to EPP, including attributes for VAT numbers, company numbers etc.
 
 - Allow for flexibility in extending data model (EPP object extension) e.g. adding new objects or a new attribute to an existing object.
-- Use Prefer HTTP header "handling=strict" vs. "handling=lenient” to make the server behave strictly about unknown attributes vs. ignoring unknown attributes. Another way would be with a more fine-granular approach like the “crit” claim in JWT.
+
 - Allow extension for new operations (EPP protocol extension) on resources, e.g. registry-lock “/domains/example.nl/extensions/lock” . The extension name/definition may need to include an IANA registration. 
 - No need for EPP command-response extension, use standard HTTP response/error handling (headers)?
 - lightweight process of publishing extensions and implementer-friendly description requirements (like OpenAPI requirement together with extension specification)
