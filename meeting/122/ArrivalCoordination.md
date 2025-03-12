@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-10T11:14:18.751Z
+date: 2025-03-12T22:57:47.182Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -37,6 +37,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
+|6:25am|VZ761|Rahul Gupta | cxres+ietf@protonmail.com | BKK  | | Marriott Marquis Queen’s Park |company on the train |
 |10:00am|HX771|Lixia Zhang | lixia@cs.ucla.edu | BKK  | | Marriott Marquis Queen’s Park |look to share a ride |
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
