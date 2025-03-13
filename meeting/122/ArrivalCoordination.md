@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-13T23:04:03.935Z
+date: 2025-03-13T23:04:10.318Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
