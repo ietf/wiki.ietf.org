@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-12T20:20:57.325Z
+date: 2025-03-13T03:30:01.057Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -162,7 +162,7 @@ Conference style seats for 16
 
 ## Thursday, 20 March 2025
 
-* TIME - TIME -- Thing (Person responsible)
+* 08:00 - 09:20 -- GenArt Breakfast
 
 
 ## Friday, 21 March 2025
