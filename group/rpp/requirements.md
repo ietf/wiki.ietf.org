@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-12T15:33:11.239Z
+date: 2025-03-13T07:55:59.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -16,32 +16,36 @@ Currently this list reads more like a "wish" list and it also contains comments 
 
 # Requirements
 
-## RESTful
+## General
 
-Overall cross-cutting requirements
-
-- RPP MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
-
-- REST service discovery - allow for loose coupling between clients and servers (HATEOAS)
-
-- RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI specification, API gateways, and load balancing, caching and delegate responsibility to the HTTP layer where possible.
+- RPP is a client server protocol
 
 - provide a clear, clean, easy to use and self-explanatory interface that can easily be integrated into existing software systems. 
-
-- RPP MUST be stateless and MUST NOT keep client session or any other application state. Each client request needs to provide all the information necessary for the server to successfully process the request.
-  
-- When the semantics of a resource URL and HTTP method do not require a request message, the use of a request message should be optional.
 
 - Discovery (Bootstrap) mechanism for clients to locate RPP services
   - IANA bootstrap Service Registry
   - DNS TXT record
   - well-known URI
 
+
+## HTTP
+
+Overall cross-cutting requirements
+
+- RPP MUST HTTP for data exchange between client and server
+- RPP MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
+
+- REST service discovery - allow for loose coupling between clients and servers (HATEOAS)
+
+- RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI specification, API gateways, and load balancing, caching and delegate responsibility to the HTTP layer where possible.
+
+- RPP MUST be stateless and MUST NOT keep client session or any other application state. Each client request needs to provide all the information necessary for the server to successfully process the request.
+  
+- When the semantics of a resource URL and HTTP method do not require a request message, the use of a request message should be optional.
+
 - RPP specifications SHOULD include OpenAPI definitions to facilitate documentation, testing, and code generation, and provide implementer-friendly extension descriptions.
 
 - Every RPP request should be atomic and idempotent when possible.
-
-- RPP MAY support compound object create request having embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request). Return complete representation (similar to object info in EPP) after compound request completed or return redirect to newly created object location.
 
 
 ## Data model
@@ -145,6 +149,8 @@ Overall cross-cutting requirements
 - RPP MUST allow optional or no request/response message when this is not required, improving performance and network bandwidth requirements for both client and server. Fewer messages have to be created, marshalled, and transmitted.
 
 - RPP MAY allow for common bulk operations, resource listing, and filtering capabilities where this does not impact scalability negatively.
+
+- RPP MAY support compound object create request having embedded contact/host vs. request serialization (client waiting for contact/host creation to succeed before sending a domain request). Return complete representation (similar to object info in EPP) after compound request completed or return redirect to newly created object location.
 
 
 ## Representation
