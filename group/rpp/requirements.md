@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-13T08:03:04.015Z
+date: 2025-03-13T08:05:46.399Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -30,9 +30,7 @@ Currently this list reads more like a "wish" list and it also contains comments 
   - well-known URI
 
 
-## HTTP
-
-Overall cross-cutting requirements
+## API
 
 - RPP MUST HTTP for data exchange between client and server
 - RPP MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
