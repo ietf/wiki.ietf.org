@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-13T10:03:17.215Z
+date: 2025-03-13T10:03:29.906Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -56,4 +56,4 @@ TODO
 - [Extensible Provisioning Protocol (EPP) RESTful Transport](https://datatracker.ietf.org/doc/draft-wullink-restful-epp/)
 - [RPP Architecture](https://datatracker.ietf.org/doc/html/draft-kowalik-rpp-architecture)
 - [STD 95 (RDAP)](https://www.rfc-editor.org/info/std95)
-- [STD 96 (EPP)](https://datatracker.ietf.org/doc/std69/)
+- [STD 69 (EPP)](https://datatracker.ietf.org/doc/std69/)
