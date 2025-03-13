@@ -2,7 +2,7 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-13T07:55:59.909Z
+date: 2025-03-13T08:03:04.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
@@ -22,6 +22,8 @@ Currently this list reads more like a "wish" list and it also contains comments 
 
 - provide a clear, clean, easy to use and self-explanatory interface that can easily be integrated into existing software systems. 
 
+- RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI specification, API gateways, and load balancing, caching and delegate responsibility to the HTTP layer where possible.
+
 - Discovery (Bootstrap) mechanism for clients to locate RPP services
   - IANA bootstrap Service Registry
   - DNS TXT record
@@ -36,8 +38,6 @@ Overall cross-cutting requirements
 - RPP MUST adhere to REST architectural principles, targeting at least level 2 of the Richardson Maturity Model.
 
 - REST service discovery - allow for loose coupling between clients and servers (HATEOAS)
-
-- RPP SHOULD leverage widely deployed web standards, tools, and infrastructure components such as HTTP, JSON, OpenAPI specification, API gateways, and load balancing, caching and delegate responsibility to the HTTP layer where possible.
 
 - RPP MUST be stateless and MUST NOT keep client session or any other application state. Each client request needs to provide all the information necessary for the server to successfully process the request.
   
