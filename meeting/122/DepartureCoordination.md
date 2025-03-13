@@ -2,7 +2,7 @@
 title: IETF 122 Departure Coordination
 description: 
 published: true
-date: 2025-03-13T18:43:08.913Z
+date: 2025-03-13T20:51:55.341Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:06:20.904Z
@@ -48,7 +48,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 12:50 | BR212 | John Levine | johnl@taugh.com |  BKK |    | Admiral Suites | take the train  |
 |      |        |      |       |         |          |             |       |
 
 ## Monday, March 24, 2025
