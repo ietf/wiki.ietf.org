@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-13T20:49:47.399Z
+date: 2025-03-13T23:04:03.935Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -26,6 +26,8 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |12:05am|NH805|Bob | bob.hinden@gmail.com | BKK  | | Marriott Marquis Queen’s Park | |
 |12:05pm|6E 1055|Dhruv|dd@dhruvdhody.com|BKK| |Amora NeoLuxe| Grab |
 |16:10|BA2231|Roy|roy@dnss.ec|BKK| |Marriott Marquis Queen’s Park||
+|07:00pm| QR826 | Ali Hussain |alihussain448@gmail.com| BKK| | 
+Emporium Suites by Chatrium (next to Marriott||
 |11:20pm| KAL653|Linda Dunbar|dunbar.ll@gmail.com|BKK| | Marriott Marquis|
 |23:35|JL707|Geoff Huston|gih@apnic.net| BKK | | Marriott Queen’s Park | |
 
