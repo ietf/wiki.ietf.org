@@ -2,7 +2,7 @@
 title: IETF 122 Departure Coordination
 description: 
 published: true
-date: 2025-03-13T18:37:04.627Z
+date: 2025-03-13T18:43:08.913Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:06:20.904Z
@@ -29,7 +29,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 22:30     |BA2230        |Roy      |roy@dnss.ec       |BKK         |          |Marriott             |       |
 |      |        |      |       |         |          |             |       |
 
 
