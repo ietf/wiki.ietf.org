@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-13T18:22:22.835Z
+date: 2025-03-13T18:24:06.843Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -24,8 +24,8 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |12:05am|NH805|Bob | bob.hinden@gmail.com | BKK  | | Marriott Marquis Queen’s Park | |
-|10:05am|HX771|Monty | monty.wiseman@beyondidentity.com | BKK  | | Marriott Marquis Queen’s Park | |
 |16:10|BA2231|Roy|roy@dnss.ec|BKK||Marriott Marquis Queen’s Park||
+|11:20pm| KE653|Linda Dunbar|dunbar.ll@gmail.com| | Marriott Marquis|
 
 ## Saturday, March 15, 2025
 
@@ -33,7 +33,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |01:00|HX779|randy | randy@psg.com | BKK  | | Marriott Marquis Queen’s Park | |
 |23:20|KAL653|Tony Li | tony.li@tony.li | BKK  | | Marriott Marquis Queen’s Park | Grab |
-|23:35|JL707|Pete Resnick|resnick@episteme.net| BKK | | Admiral Suites (across street from Marriott) | |
+|23:35|JL607|Pete Resnick|resnick@episteme.net| BKK | | Admiral Suites (across street from Marriott) | |
 |      |        |      |       |         |          |             |       | 
 
 ## Sunday, March 16, 2025
