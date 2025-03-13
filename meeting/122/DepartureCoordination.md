@@ -2,7 +2,7 @@
 title: IETF 122 Departure Coordination
 description: 
 published: true
-date: 2025-03-13T18:20:40.310Z
+date: 2025-03-13T18:37:04.627Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:06:20.904Z
@@ -39,6 +39,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | 7:10am | NH806 | Bob | bob.hinden@gmail.com | BKK |  | Marriott  | Flight time  |
+|15:20| FD3017| Pete Resnick| resnick@episteme.net | DMK | | Admiral Suites (across street from Marriott) | Flight time; leaving well before |
 | 21:30 | KAL658 | Tony Li | tony.li@tony.li | BKK |  | Marriott  | Grab |
 |      |        |      |       |         |          |             |       |
 
