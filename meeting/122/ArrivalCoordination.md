@@ -2,7 +2,7 @@
 title: IETF 122 Arrival Coordination
 description: 
 published: true
-date: 2025-03-13T18:44:44.484Z
+date: 2025-03-13T20:46:10.504Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:03:24.205Z
@@ -36,6 +36,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |01:00|HX779|randy | randy@psg.com | BKK  | | Marriott Marquis Queen’s Park | |
 |05:15|AC065|Jonathan Lennox| jonathan.lennox42@gmail.com | BKK| |Marriott Marquis Queen's Park| |
+|08:05 |BR67|John Levine|johnl@taugh.com|BKK|Admiral Suites| |plan to take the train|
 |23:20|KAL653|Tony Li | tony.li@tony.li | BKK  | | Marriott Marquis Queen’s Park | Grab |
 |23:35|JL607|Pete Resnick|resnick@episteme.net| BKK | | Admiral Suites (across street from Marriott) | |
 |      |        |      |       |         |          |             |       | 
