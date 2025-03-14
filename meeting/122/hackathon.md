@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-14T13:27:47.570Z
+date: 2025-03-14T13:38:54.974Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -629,21 +629,18 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - https://datatracker.ietf.org/doc/rfc8613/
 
 ---
-### Implemententing Initial HSYNC Processes
+### Implementing Initial HSYNC Processes
 - **Champions**
   - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
 - **Project Info**
-   The proposed HSYNC DNS record allows zone owners to specify exactly what services they intend different DNS providers to 
-   provide and how to collaborate. The HSYNC RRset specifies the identity of all designated DNS providers, allowing them to 
-   identify and locate each other and establish secure communication. This allows automated collaboration to solve a number of 
-   provisioning issues like how to manage the DNSKEY RRset (when there are multiple signers), how to manage the NS RRset (when 
-   there are multiple authoritative DNS providers), how to deal with on-boarding and off-boarding of DNS providers and also who 
-   is responsible for interaction with the parent (for synchronization of delegation information).
+   The proposed HSYNC DNS record allows zone owners to specify exactly what services they intend different DNS providers to provide and how to collaborate. The HSYNC RRset specifies the identity of all designated DNS providers, allowing them to identify and locate each other and establish secure communication. This allows automated collaboration to solve a number of  provisioning issues like how to manage the DNSKEY RRset (when there are multiple signers), how to manage the NS RRset (when there are multiple authoritative DNS providers), how to deal with on-boarding and off-boarding of DNS providers and also who is responsible for interaction with the parent (for synchronization of delegation information).
 
    The experimental name server TDNS has support for HSYNC and the identification and location of remote DNS providers (or 
    rather, their agents). The next steps are to implement support for initial processes:
   - Implement *NOTIFICATION* of remote DNS providers when there is a change to the local DNSKEY RRset (i.e. typically steps in a key rollover)
   - Synchronize the contributions of individual NS records from different DNS providers into a unified NS RRset.
+  - Implementing debug support in existing CLI tools to simplify testing of htese new sycnhronization mechanisms.
+  - Possibly look at first steps of automatic management of the zone transfer chain via the HSYNC Upstream field.
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-leon-dnsop-signaling-zone-owner-intent/
 - **Repo and Docs**
