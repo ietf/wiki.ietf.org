@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-11T10:44:48.644Z
+date: 2025-03-14T13:27:47.570Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -201,10 +201,16 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 - **Project Info**
 
-  - 3 main ways to combine attestation in TLS
+  - 3 main ways to combine attestation in TLS:
     - Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol))
     - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
-    - Post-handshake attestation (Sec. 4 in [this draft](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+    - Post-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-exported-attestation/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+  - **Hackathon plan**
+  	- Discuss the nits of [identity crisis](https://mailarchive.ietf.org/arch/msg/tls/Jx_yPoYWMIKaqXmPsytKZBDq23o/)
+    - Discuss possible solutions
+    - Discuss open issues
+	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
+		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
 
