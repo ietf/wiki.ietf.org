@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-14T13:38:54.974Z
+date: 2025-03-14T13:42:12.282Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -629,7 +629,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - https://datatracker.ietf.org/doc/rfc8613/
 
 ---
-### Implementing Initial HSYNC Processes
+### Implementing Initial DNS HSYNC Processes
 - **Champions**
   - Johan Stenstam (johan.stenstam@internetstiftelsen.se)
 - **Project Info**
@@ -645,7 +645,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - https://datatracker.ietf.org/doc/draft-leon-dnsop-signaling-zone-owner-intent/
 - **Repo and Docs**
   - [TDNS Experimental Name Server](https://github.com/johanix/tdns)
-  - [TNDS Intro](https://github.com/johanix/tdns/blob/main/README.md)
+  - [TDNS Intro](https://github.com/johanix/tdns/blob/main/README.md)
 ---
 ### Using EAP with FIDO
 - **Champions**
