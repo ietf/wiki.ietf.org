@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2025-02-18T19:01:43.712Z
+date: 2025-03-14T09:07:12.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -35,7 +35,7 @@ This is a list of several administrative items that are usually handled at the f
 - Identify ARPA change control approver (2024-2025: Wes)
   - [ARPA_DNS_Zone](/group/iab/ARPA_DNS_Zone)
 - Identify Tools Team Liaison (2024-2025: Wes)
-- Identify EODir Liaison (2024-2025: Mirja)
+- Identify [EODir Liaison](/group/iab/EODIR_Liaison) (2024-2025: Mirja)
 - Identify [IAB_Outreach_Coordinator](/group/iab/IAB_Outreach_Coordinator) (2024-2025: Dhruv)
 - Plenary preparation
 
