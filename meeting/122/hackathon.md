@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-14T13:42:12.282Z
+date: 2025-03-14T19:50:14.417Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -838,6 +838,35 @@ We aim to perform the first interop of something long wished-for: a mechanism fo
 **Related document**
 
   [1] https://datatracker.ietf.org/doc/draft-ietf-dnssd-multi-qtypes/
+  
+---
+
+### CoAP Group Communication with Group OSCORE
+
+- **Champions**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+
+- **Project Info**
+  - Message exchange of group and pairwise messages protected with Group OSCORE
+
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-bis
+  
+---
+
+### CoAP Group Communication via Proxy Servers
+
+- **Champions**
+  - Rikard Höglund (rikard.hoglund at ri.se)
+  - Marco Tiloca (marco.tiloca at ri.se)
+
+- **Project Info**
+  - Relaying CoAP messages intended for a group via a proxy server
+
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-proxy/
   
 ---
 
