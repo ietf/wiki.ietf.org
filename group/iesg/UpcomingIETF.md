@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-14T06:51:34.327Z
+date: 2025-03-15T04:23:54.500Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -140,6 +140,7 @@ Conference style seats for 16
 
 * 10:00 - 11:00 - WIT AD Office Hours (WIT ADs)
 * 16:00 - 17:00 -- RTG office hours (RTG ADs)
+* 17:00 - 17:30 -- RFC8210bis discussion (John, Med, Warren, Randy, Russ) (tentative)
 
 ## Monday, 17 March 2025
 
