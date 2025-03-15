@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-15T04:44:38.952Z
+date: 2025-03-15T08:02:07.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -830,7 +830,7 @@ Martine Lenders (martine.lenders@tu-dresden.de)
 Joe Harvey (jsharvey@verisign.com)
 Swapneel Sheth (ssheth@verisign.com
 - **Project Info**
-Previous IETF Hackathons have demonstrated how MTL mode works including how to apply it to DNSSEC.  With the release of our [patch for LDNS](https://github.com/verisign/mtl-mode-ldns) (Library for DNS open-source from NLNet Labs) to allow for key generation, signing, and verifiying with MTL mode and PQC algorithms, we would like to now collect some metrics that focus on the general operation of PQC DNSSEC and the operational considerations of MTL mode on zone signing and query/responses. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases to further evaluate interoperability and to confirm our collected metrics.
+Previous IETF Hackathons have demonstrated how MTL mode works including how to apply it to DNSSEC.  With the release of our [patch for LDNS](https://github.com/verisign/mtl-mode-ldns) (Library for DNS open-source from NLNet Labs) to allow for key generation, signing, and verifiying with MTL mode and PQC algorithms, we would like to now collect some metrics that focus on the general operation of PQC DNSSEC and the operational considerations of MTL mode on zone signing and query/responses. We would also like to collect further feedback from the resolver community and setup for additional proof-of-concept implementations in other code bases to further evaluate interoperability and to confirm our collected metrics. To help run some measurement tests, we have hosted an authoritative server with a sample zone signed with MTL Mode at mtlauthoritative.verisignlabs.com and a [test  script](https://github.com/verisign/mtl-mode-ldns/blob/IETF-122-Hackathon/pqc_testing/zone_tester.py). 
 
 - **Specifications**
 [1] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
