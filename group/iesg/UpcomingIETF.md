@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-15T04:43:15.931Z
+date: 2025-03-15T04:44:31.677Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -40,8 +40,8 @@ Location: Second Floor Foyer
 
 **AMS-IETF Leadership Happy Hour**
 
-Time: After venue tour (16:50)
-Location: Meeting Room 6 (7th Floor, North elevators)
+Time: After venue tour (16:50)-18:00
+Location: [Meeting Room 6](https://datatracker.ietf.org/meeting/122/floor-plan?room=meeting-room-6) (7th Floor, North elevators)
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Sunday, March 16, 2025
