@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon Lost & Found
 description: 
 published: true
-date: 2025-03-15T03:50:04.825Z
+date: 2025-03-15T03:57:40.400Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:48:23.008Z
@@ -23,7 +23,7 @@ Champions wanting help on their projects are encouraged to add themselves to the
 ## Skills to Offer
 | Name| Email Address| Skills and/or interests you have to offer |
 |---|---|---|
-| Wataru "Alt" Ohgai  | alt@nic.ad.jp  | General operational RPKI, DNS, SMTP  |
+| Wataru "Alt" Ohgai  | alt@nic.ad.jp / Slack @alt  | General operational RPKI, DNS, SMTP  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
