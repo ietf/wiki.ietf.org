@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2025-03-15T18:50:53.228Z
+date: 2025-03-15T18:55:00.224Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -32,9 +32,9 @@ The following page tracks BESS drafts needing feedback from IDR
 1) [Feedback on draft-ietf-bess-evpn-unequal-lb](/group/idr/draft-ietf-bess-evpn-unequal-lb)
  
  [draft-ietf-bess-evpn-unequal-lb ](https://datatracker.ietf.org/doc/draft-ietf-bess-evpn-unequal-lb/)    
- Reviewer: (Keyur Patel) - version 15 or later
- Requested: Feb 2024 
- status: pending 
+ Reviewer: (Keyur Patel), February 2024 - missing email 
+ Reviewer: (Susan Hares), October 17, 2024 - 
+ Version reviewed: [(-08) to (-09)](group/idr/draft-ietf-bess-evpn-unequal-lb)
  
  2) draft-ietf-bess-multicast 
  Reviewer: Susan Hares
