@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-15T03:42:36.731Z
+date: 2025-03-15T03:45:04.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -615,6 +615,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - EDHOC in large robotic swarms
   - Remote Attestation with EDHOC for Swarms
   - Embedded Rust Cryptographic Abstraction Layer (CAL)
+  - [Sketching use in PC environments](https://notes.ietf.org/8Q3im5qYS3GT-OQhO4E2yw#)
 - **Specifications**:
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc9668/
