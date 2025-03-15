@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-14T19:50:14.417Z
+date: 2025-03-15T01:45:08.620Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -451,15 +451,17 @@ Translate YANG network instance configuration data into RDF data so that it can 
 - [Knowledge Graph Framework for Network Operations](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
 
 ----
-### Implementation of SAV Benchmarking Methodology Based on SAV Open Playground
+### SAVBench: A Benchmarking Framework for Source Address Validation Based on SAVOP
 - **Champions**
   - Libin Liu (liulb at zgclab.edu.cn)
 - **Project Info**
+  - Evaluating the performance of existing SAV mechanisms using the benchmarking methodology proposed in the document draft-chen-bmwg-savnet-sav-benchmarking.
   - SAV Open Playground (SAVOP) is an open platform that enables the implementation, emulation, and evaluation of source dddress validation (SAV) mechanisms.
   - Code: https://github.com/SAV-Open-Playground/
   - Collaboration: Share ideas and feedback via [GitHub Discussions](https://github.com/SAV-Open-Playground/savop/discussions). Contributions are welcome!
 - **Hackathon Plan**
   - Emulate existing SAV mechanisms (e.g., Strict uRPF, Loose uRPF, EFP-uRPF) in classic Internet topologies and scenarios.
+  - Implementation of an operation module: The operation module is designed to facilitate emulations of SAV mechanisms through configurations.
   - Develop benchmarking methodologies to evaluate intra-domain and inter-domain SAV performance.
 - **Related Documents**
   - [Benchmarking Methodology for Source Address Validation](https://datatracker.ietf.org/doc/draft-chen-bmwg-savnet-sav-benchmarking/)
