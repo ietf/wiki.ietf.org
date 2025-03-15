@@ -178,6 +178,12 @@ All Hackathon participants are free to work on any code. The rules regarding tha
    - Arnav Das <arnav.das@iifon.net>
    - Aindri Mukherjee <aindri.mukherjee@iifon.net>
    - Debayan Mukherjee <debayan.mukherjee@iifon.net>
+   - Dipankar Basu <dipankar.basu@gnit.ac.in>
+   - Aditya Ghosh <ghoshswati70@gmail.com>
+   - Debarghya Bhattacharyya <topraven5150@gmail.com>
+   - Raja Karmakar <raja.karmakar@heritageit.edu>
+   - Nabhonil Bhattacharjee <nabhonilbhattacharjee@gmail.com>
+   - Sampurna Pyne <sampurna.pyne.iotcs27@heritageit.edu.in>
 
 - **Project Info**
 	
