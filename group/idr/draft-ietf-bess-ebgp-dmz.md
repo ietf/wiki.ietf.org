@@ -2,7 +2,7 @@
 title: IDR Review of draft-ietf-bess-ebgp-dmz-03
 description: IDR Chair review of draft-ietf-bess-ebgp-dmz-03
 published: true
-date: 2023-07-27T11:05:35.338Z
+date: 2025-03-15T18:48:53.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T10:30:55.132Z
@@ -11,6 +11,7 @@ dateCreated: 2023-07-27T10:30:55.132Z
 # draft-ietf-bess-ebgp-dmz-03 IDR Chair review
 
 #### Reviewer: Susan Hares
+#### Email link: https://mailarchive.ietf.org/arch/msg/bess/Q9R0WhU9JQZ2onJcI6tMGW2ATMo/
 
 ### Issues with this draft: 
 
