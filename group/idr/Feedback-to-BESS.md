@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2025-03-15T18:47:07.598Z
+date: 2025-03-15T18:50:53.228Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -46,9 +46,9 @@ The following page tracks BESS drafts needing feedback from IDR
  Requested: April 2024 (ETA 7/29) 
  
  
- 3) draft-ietf-bess-evpn-geneve-08 
-   email link: https://mailarchive.ietf.org/arch/msg/bess/0kDtSG-vsGj85Iffiby_z9GqpHQ/
-   See: [TEA templates](/group/idr/TEA-templates)
- 
-   Requested: (7/24/2024) 
-   Reviewed: 10/17/2024 
+ 3) [draft-ietf-bess-evpn-geneve-08](https://datatracker.ietf.org/doc/html/draft-ietf-bess-evpn-geneve-08)
+
+-  email link: https://mailarchive.ietf.org/arch/msg/bess/0kDtSG-vsGj85Iffiby_z9GqpHQ/
+-    See: [TEA templates](/group/idr/TEA-templates)
+-    Requested: (7/24/2024) 
+-    Reviewed: 10/17/2024 
