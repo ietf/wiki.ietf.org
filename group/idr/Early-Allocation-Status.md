@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-03-15T23:12:25.421Z
+date: 2025-03-15T23:17:47.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -14,13 +14,13 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status | Comment |       
 |---|---|---|---|---|---|---|
 | [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Path Attribute | TBD |  Metadata | Expert Review | implementation + github | 
-| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Capability | TBD | Metadata | Expert Review | Implementatino + github | 
+| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Capability | TBD | Metadata | Expert Review | Implementation + github | 
 
 ## Temporary early allocations 
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations 
 |  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|     
 |---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-sr-policy-nrp-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | TBD (1220) | SR Segment List Identifier | Requested |
+| [draft-ietf-idr-bgp-ls-sr-policy-nrp-01](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1220 | SR Segment List Identifier | Requested |
 {.dense}
 
 ### draft-ietf-idr-bgp-ls-sr-policy New registries 
@@ -159,23 +159,11 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | [draft-ietf-idr-rpd](https://datatracker.ietf.org/doc/draft-ietf-idr-rpd/)| BGP Community Container Atom Types | Community List | TBD (0x0F) | 12/22/2023 | WG draft | 
 {.dense}
 
-
-### draft-ietf-idr-sr-policy-safi (was draft-ietf-idr-segment-routing-te-policy)
-| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
-|---|---|---|---|---|---| 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   SRv6 Binding SID sub-TLV   | subtlv 20 | 05-20-2025 | WG Revision)| 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/) | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  Segment List sub-TLV     | subtlv 128 | 05-25-2024 | WG Revision) | 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Candidate Path Name sub-TLV    | subtlv 129 | 05-25-2024 | WG Revision) | 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Name sub-TLV  | subtlv 130 | 05-25-2024 | WG Revision) | 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [Color Extended Community Flags](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Color Extended Community Flags  | bit position 0-1 | 05-25-2024 | WG Revision) | 
-{.dense}
-
 ### draft-ietf-idr-bgp-ls-isis-flood-reflection 
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
 |---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)  |  [BGP-LS NLRI and Attribute TLVs](https://www.iana.org/assignments/bgp-ls-parameters/bgp-ls-parameters.xhtml) | IS-IS Flood Reflection | TLV Code 1160  |  1/2/2023 | Awaiting 2 implementations ) | 
 {.dense}
-
 
 &nbsp;
 &nbsp;
