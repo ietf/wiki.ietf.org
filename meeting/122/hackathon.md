@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-15T03:45:33.403Z
+date: 2025-03-15T04:00:39.414Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -900,6 +900,18 @@ We aim to perform the first interop of something long wished-for: a mechanism fo
 - **Specifications**
   - https://datatracker.ietf.org/doc/draft-ietf-core-groupcomm-proxy/
   
+---
+
+### HTTPS-Notif-Draft Kafka integration and Bandwidth Analysis for different encodings
+
+- **Champions**
+	- Bharadwaja Meherrushi Chittapragada (meher.211cs216@nitk.edu.in)
+  - Vartika T Rao (vartikatrao.211it077@nitk.edu.in)
+  - Siddharth Bhat (sidbhat.211ee151@nitk.edu.in)
+  - Hayyan Arshad (hayyanarshad.211cs222@nitk.edu.in)
+- **Project Info**
+Our goal is to evaluate the throughput performance of JSON, XML, and CBOR encoding formats in the context of HTTPS-based YANG notifications, as specified in the https-notif-draft.
+
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
