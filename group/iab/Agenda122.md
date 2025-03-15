@@ -2,7 +2,7 @@
 title: Agenda122
 description: IAB Agenda at IETF 122
 published: true
-date: 2025-03-05T17:17:44.736Z
+date: 2025-03-15T04:45:56.150Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-10T00:04:39.597Z
@@ -19,9 +19,9 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ## Saturday, 2025-03-15
 
-**TBD: AMS-IETF Leadership Venue Tour + Happy Hour**
+**16:30-18:00: AMS-IETF Leadership Venue Tour + Happy Hour**
 
-Please join us for a quick tour around the conference center. We will end with a happy hour. 
+Please join us for a quick tour around the conference center. We will end with a happy hour. Meet in the second floor foyer at the IETF Registration desk. The tour will end in [Meeting Room 6](https://datatracker.ietf.org/meeting/122/floor-plan?room=meeting-room-6) on the 7th floor, North elevators. If you want to skip the tour, the happy hour will be from 16:50-18:00.
 
 
 ## Sunday, 2025-03-16
