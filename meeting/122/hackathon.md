@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-15T03:24:52.959Z
+date: 2025-03-15T03:29:31.995Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -556,7 +556,7 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   * [IPvFoo browser extension/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
   * [Testing IPv6-only Networks (YouTube recording of NANOG presentation re: IPv6 Test Pod)](https://www.youtube.com/watch?v=0QCQVX9rZ6s)
 
----
+----
   ### vCon
 - **Champions**
   - Dan Petrie (dan.ietf@sipez.com)
@@ -575,6 +575,20 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   - AI, ML and algorithmic analysis services, model training and testing
   - CRM systems
   
+- **Hackathon Objective**
+The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.  The **group** and **appended** features of vCon have not been fully implemented or tested.  The **redacted** feature has been implemented and tested mainly with text transcriptions.  Further exploration of redacted audio and video dialogs had not been well tested.
+
+- **Hackathon Work Items**
+
+  - Implement amended vCon and generate example for the vCon Container I-D
+    - Implement **appended** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md) and [plugin](https://github.com/py-vcon/py-vcon/blob/main/README.md#adding-vcon-filter-plugins)
+    - Implement **appended** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+  - Implement **group** vCon and generate example for the vCon Container I-D
+  	- Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
+    - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+  - Implement **redacted** for video and/or audio media dialogs
+  - Design and add support for dialogs with separate recording file for each party
+
 ----
 
 ### Enhancing ICMP Error Message Authentication Using Challenge-Confirm Mechanism
@@ -591,21 +605,6 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   
 ----
   
-- **Hackathon Objective**
-The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.  The **group** and **appended** features of vCon have not been fully implemented or tested.  The **redacted** feature has been implemented and tested mainly with text transcriptions.  Further exploration of redacted audio and video dialogs had not been well tested.
-
-- **Hackathon Work Items**
-
-  - Implement amended vCon and generate example for the vCon Container I-D
-    - Implement **appended** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md) and [plugin](https://github.com/py-vcon/py-vcon/blob/main/README.md#adding-vcon-filter-plugins)
-    - Implement **appended** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
-  - Implement **group** vCon and generate example for the vCon Container I-D
-  	- Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
-    - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
-  - Implement **redacted** for video and/or audio media dialogs
-  - Design and add support for dialogs with separate recording file for each party
-
----
 
 ### EDHOC
 - **Champion(s)**
