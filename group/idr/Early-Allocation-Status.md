@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2024-11-14T00:39:07.729Z
+date: 2025-03-15T17:38:47.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -13,7 +13,9 @@ dateCreated: 2023-02-15T05:33:03.580Z
 ## Pending early allocations 
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status | Comment |       
 |---|---|---|---|---|---|---|
-| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Path Attribute | TBD |  Metadata | IDR Chair review | Discussion in github | 
+| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Path Attribute | TBD |  Metadata | Expert Review | implementation + github | 
+
+BGP Capability | TBD | Metadata | Expert Review | Implementatino + github | 
 
 ### pending request for draft-ietf-idr-bgpls-inter-as-topology on hold 
 | [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 |  Request withdrawn until lsr work done | 
