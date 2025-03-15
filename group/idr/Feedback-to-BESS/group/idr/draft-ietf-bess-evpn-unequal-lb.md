@@ -2,7 +2,7 @@
 title: IDR Chair Review of draft-ietf-bess-evpn-unequal-lb
 description: IDR on draft-ietf-bess-evpn-unequal-lb
 published: true
-date: 2025-03-15T19:02:38.331Z
+date: 2025-03-15T19:05:36.697Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T18:59:42.252Z
