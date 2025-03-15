@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-15T03:29:31.995Z
+date: 2025-03-15T03:42:36.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -609,8 +609,12 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 ### EDHOC
 - **Champion(s)**
   - Marco Tiloca (marco.tiloca at ri.se)
+  - Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
 - **Project Info**
   - Establish keying material for OSCORE using the EDHOC protocol
+  - EDHOC in large robotic swarms
+  - Remote Attestation with EDHOC for Swarms
+  - Embedded Rust Cryptographic Abstraction Layer (CAL)
 - **Specifications**:
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc9668/
@@ -628,6 +632,32 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - https://datatracker.ietf.org/doc/rfc9200/
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc8613/
+
+
+### EDHOC in large robotic swarms
+- **Champion(s)**
+  - Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
+- **Project Info**
+  - blink: Scalable low-power local connectivity supporting mobility, enabling the OpenSwarm 1k DotBots Testbed (https://github.com/DotBots/blink)   
+  - authenticate blink network join using EDHOC
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/rfc9528/
+
+### Remote Attestation with EDHOC for Swarms
+- **Champion(s)**
+  - Yuxuan (xx at inria.fr)
+- **Project Info**
+  - xx
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/rfc9528/
+
+### Embedded Rust Cryptographic Abstraction Layer (CAL)
+- **Champion(s)**
+  - Elsa (xx at inria.fr)
+- **Project Info**
+  - xx
+- **Specifications**:
+  - https://datatracker.ietf.org/doc/rfc9528/
 
 ---
 ### Implementing Initial DNS HSYNC Processes
