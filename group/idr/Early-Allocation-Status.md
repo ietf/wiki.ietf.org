@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-03-15T17:38:47.839Z
+date: 2025-03-15T23:12:25.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -14,40 +14,13 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status | Comment |       
 |---|---|---|---|---|---|---|
 | [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Path Attribute | TBD |  Metadata | Expert Review | implementation + github | 
-
-BGP Capability | TBD | Metadata | Expert Review | Implementatino + github | 
-
-### pending request for draft-ietf-idr-bgpls-inter-as-topology on hold 
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI Types | TBD1 (7) | Stub Link | AD-Req 6-7-2024 |  Request withdrawn until lsr work done | 
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD2 (270) | Remote AS Number | AD-Req 6-7-2024 | Request withdrawn until lsr work done |  
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD3 (271) | IPv4 Remote ASBR ID | AD-Req 6-7-2024 | Request withdrawn until lsr work done | 
-| [draft-ietf-idr-bgpls-inter-as-topology-ext-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) | BGP-LS NLRI and Attribute TLVs | TBD4 (272) | IPv6 Remote ASBR ID | AD-Req 6-7-2024 | Request withdrawn until lsr work done | 
+| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Capability | TBD | Metadata | Expert Review | Implementatino + github | 
 
 ## Temporary early allocations 
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations 
-|  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|       
+|  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|     
 |---|---|---|---|---|---|---|---|
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI-Types | BGP-LS  | 5 | SR Policy Candidate Path NLRI | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | Protocol ID | BGP-LS | 9 | Segment Routing | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 554 | SR Policy CP Descriptor  | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1201 | SR Binding SID  | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1202 | SR CP State  | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1203 | SR CP Name  | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1204 | SR CP Constraints | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1205 | SR Segment List  | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1206 | SR Segment    | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1207 | SR Segment List Metric      | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1208 |  SR Affinity Constraint     | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1209 |   SR SRLG Constraint       | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1210 |  SR Bandwidth Constraint   | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1211 |  SR Bandwidth Constraint   | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1212 |  SR Bandwidth Constraint   | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1213 |  SR Bandwidth Constraint   | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1214  | SR Bidirectional Group Constraint | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1215 | SR Metric Constraint | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1216 |  SR Segment List Bandwidth | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-04 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1217 | SR Segment List Identifier | Assigned 2023-08 |
-| draft-ietf-idr-bgp-ls-sr-policy-nrp-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | TBD (1218) | SR Segment List Identifier | Requested |
+| draft-ietf-idr-bgp-ls-sr-policy-nrp-00 | BGP-LS NLRI and Attribute TLVs |  BGP-LS | TBD (1220) | SR Segment List Identifier | Requested |
 {.dense}
 
 ### draft-ietf-idr-bgp-ls-sr-policy New registries 
@@ -77,7 +50,7 @@ BGP Capability | TBD | Metadata | Expert Review | Implementatino + github |
 {.dense}
 
 ### draft-ietf-idr-sr-policy-safi registry: SR Policy Segment List Sub-TLVs  
-| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |        
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 0 | Reserved | Past WG LC | 
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy Segment List Sub-TLVs | BGP Tunnel Encapsulation | 1 | Segment Type A sub-TLV | Past WG LC | 
@@ -153,14 +126,10 @@ BGP Capability | TBD | Metadata | Expert Review | Implementatino + github |
 (none) 
 {.dense}
 
-
 ## Approved Early Allocations - Drafts at IESG 
-### CAR/CT allocations 
-|  IDR Draft  |  IANA Registry |  Code Point |  Description   |  Status|       
-|---|---|---|---|---|---|---|
-|draft-ietf-idr-car-03 | SAFI | 83 | [BGP CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Need to update draft | 
-|draft-ietf-idr-car-03 | SAFI | 84 | [BGP VPN CAR](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | Assigned 2023  | 
-|draft-ietf-idr-ct-18 |	SAFI | 76 | [Classful-Transport SAFI](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml)	| Assigned 2023 | 
+| IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
+|---|---|---|---|---|---|
+| None | 
 
 ## Approved Early Allocations: drafts at WG 
 ### draft-ietf-idr-wide-communities 
@@ -193,13 +162,7 @@ BGP Capability | TBD | Metadata | Expert Review | Implementatino + github |
 
 ### draft-ietf-idr-sr-policy-safi (was draft-ietf-idr-segment-routing-te-policy)
 | IDR Draft | IANA Registry | IANA Allocation | IANA Numbers | Date expires | draft status | 
-|---|---|---|---|---|---|
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/) | [Subsequent Address Family Identifiers (SAFI) Parameters](https://www.iana.org/assignments/safi-namespace/safi-namespace.xhtml) | SR TE Policy SAFI | SAFI=73 | 5-25-2024 | WG revision  |  
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)| [BGP Tunnel Encapsulation Attribute Tunnel Types](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) | SR Policy | Tunnel type 15 | 05-25-2025 | WG revision |  
-|  [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/) | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  Preference sub-TLV  | subtlv 12| 05-25-2025 | WG revision | 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  Binding SID sub-TLV | subtlv 13| 05-25-2025 | WG Revision |  
-|  [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)  | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  ENLP sub-TLV   | subtlv 14 | 05-25-2025 |  WG Revision |  
-|  [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/) | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  Priority sub-TLV   | subtlv 15 | 05-25-2025 | WG Revision) | 
+|---|---|---|---|---|---| 
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   SRv6 Binding SID sub-TLV   | subtlv 20 | 05-20-2025 | WG Revision)| 
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/) | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |  Segment List sub-TLV     | subtlv 128 | 05-25-2024 | WG Revision) | 
 | [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | [BGP Tunnel Encapsulation Attribute Sub-TLVs](https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml) |   Policy Candidate Path Name sub-TLV    | subtlv 129 | 05-25-2024 | WG Revision) | 
