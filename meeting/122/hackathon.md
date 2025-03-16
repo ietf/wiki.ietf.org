@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-16T03:58:33.838Z
+date: 2025-03-16T04:09:02.783Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -62,7 +62,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 17 March, Time: 19:00 - 20:00, Room: 5th floor foyer
+  * Monday, 17 March, Time: 18:30 - 19:30, Room: 5th floor foyer
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 17 March
 
