@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2025-03-16T04:15:59.765Z
+date: 2025-03-16T06:26:26.293Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:42:30.504Z
@@ -19,6 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
+|vCon| Dan Petrie | <dan.vcon@sipez.com> |  Repo: https://github.com/py-vcon/py-vcon |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
