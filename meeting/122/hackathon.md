@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-15T08:02:07.808Z
+date: 2025-03-16T01:48:31.342Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -935,6 +935,16 @@ Our goal is to evaluate the throughput performance of JSON, XML, and CBOR encodi
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-sakemi-areion/
   	- Work in progress
+----
+
+### MoQT Interop Testing
+- **Champions**
+  - Daniel Fay (danielfay22@meta.com)
+- **Project Info**
+Interop testing of MoQT (Media over Quic Transport) media and text based implementations
+- **Specifications**
+  - https://datatracker.ietf.org/doc/draft-ietf-moq-transport/
+  
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
