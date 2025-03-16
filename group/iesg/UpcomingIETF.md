@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-16T05:28:48.667Z
+date: 2025-03-16T06:34:40.380Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -74,8 +74,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >5. IANA question on specification required policy: spec is expected to be "publicly available", but what if it is pay-to-access - are DE to be given access? Are they allowed to refuse registration if no access? (no liaisons in this particular case) (10min, Francesca)
 >6. Next steps on draft-klensin-idna-rfc5891bis (20min, Orie)
 >7. Appeal response (at least 30min, Murray)
->8. IETF+IEEE Leadership meeting at Madrid (Sat Jul 26 after IETF week); there is also a tentative proposal for DETNET WG + TSN technical meeting. 
->9.(last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
+>8. Last Call result of Moving RFCs 793, 1065, 1723 and 1725 to Historic (Francesca) (mail)
+>9. (last agenda slot) Decide if a Monday, March 17 morning meeting is required (Roman)
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday, March 17 meeting.
 
@@ -109,7 +109,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1004
 
 
 >1. Plenary Slide Review + Prep
-
+>2. IETF+IEEE Leadership meeting at Madrid (Sat Jul 26 after IETF week); there is also a tentative proposal for DETNET WG + TSN technical meeting. 
 
 ### IETF 122 Plenary 
 **TIME: 17:00-19:00 
