@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-16T04:03:20.854Z
+date: 2025-03-16T04:03:53.136Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -56,7 +56,7 @@ none
 
 - [draft-liu-idr-srv6-segment-list-optimize](https://datatracker.ietf.org/doc/draft-liu-idr-srv6-segment-list-optimize/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-segment-list-optimize)
 
-- [draft-wu-idr-bgp-segment-allocation-ext]https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [-14](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext)
+- [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext)
 
 - [draft-zhang-idr-sr-policy-enhanced-detnet](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-enhanced-detnet/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-enhanced-detnet)
 
