@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2025-03-16T06:27:42.051Z
+date: 2025-03-16T08:13:43.070Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:42:30.504Z
@@ -20,6 +20,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
 |vCon - conversational data container| Dan Petrie | <dan.vcon@sipez.com> |  Repo: https://github.com/py-vcon/py-vcon |
-|   |   |   |   |
+| Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar  | muhammad_usama.sardar@tu-dresden.de  | [Description](https://mailarchive.ietf.org/arch/msg/tls/Jx_yPoYWMIKaqXmPsytKZBDq23o/)  and [Presentation](https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-identity-crisis-for-attested-tls-in-confidential-computing-00)  |
 |   |   |   |   |
 |   |   |   |   |
