@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-02-24T19:58:33.381Z
+date: 2025-03-16T04:14:50.924Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -131,12 +131,8 @@ To effeciently handle drafts along, we are considering drafts in existing IDR ch
 ### SR and BGP-LS Adoptions Requested 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------| 
-| draft-hegdearvind-idr-bgp-ls-algo-ext-00 | Sue Hares | Pre-adoption review | Adoptoin call | TBD | TBD | TBD | 
-| draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Pre-Adoption review | Adoption call | TBD | TBD | await -06 | 
 | draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | await -05| Pre-adoption review | TBD | TBD | await -05 |  
-| draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
-| draft-hegdearvind-idr-bgp-ls-algo-ext-00 | Sue Hares | Pre 
-|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
+| draft-zhang-idr-sr-policy-template-05 | Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
 |  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD  | TBD | TBD   |
 {.dense}
  
@@ -182,6 +178,7 @@ To effeciently handle drafts along, we are considering drafts in existing IDR ch
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 | draft-uttaro-idr-bgp-oad | Susan Hares | All-IDR chairs Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
 | draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
+|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
  {.dense}
  
 ## WG Drafts needing FSv2 update 
