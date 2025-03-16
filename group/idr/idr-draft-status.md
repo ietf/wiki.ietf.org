@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-03-16T04:14:50.924Z
+date: 2025-03-16T04:27:41.091Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -178,7 +178,7 @@ To effeciently handle drafts along, we are considering drafts in existing IDR ch
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 | draft-uttaro-idr-bgp-oad | Susan Hares | All-IDR chairs Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
 | draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
-|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
+|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  | 
  {.dense}
  
 ## WG Drafts needing FSv2 update 
