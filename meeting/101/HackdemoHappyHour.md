@@ -2,7 +2,7 @@
 title: Hack Demo Happy Hour
 description: 
 published: true
-date: 2023-01-31T02:42:19.137Z
+date: 2025-03-16T08:03:29.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T02:42:15.901Z
@@ -26,6 +26,7 @@ Hackathon teams are welcome and encouraged to add their project by entering the 
 | * EVC Based Service Models Implemented in OpenDaylight?                                                                             |
 | * I2NSF (Interface to Network Security Functions) Framework https://github.com/kimjinyong/i2nsf-framework/tree/master/Hackathon-101 |
 | * Multilingual E-mail RFC 8255 - demo of reflector and Neomutt [Presentation](https://github.com/IETF-Hackathon/ietf101-project-presentations/blob/master/IETF101-MultilingualEmail-Hackathon.pdf)
+| * Identity Crisis in Attested TLS for Confidential Computing: [Description](https://mailarchive.ietf.org/arch/msg/tls/Jx_yPoYWMIKaqXmPsytKZBDq23o/)  and [Presentation](https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-identity-crisis-for-attested-tls-in-confidential-computing-00) |
 &nbsp;
 &nbsp;
 &nbsp;
