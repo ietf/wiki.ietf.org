@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: Scheduling page for Hackdemo Happy Hour
 published: true
-date: 2025-03-16T08:22:17.279Z
+date: 2025-03-16T08:58:02.052Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-02-06T11:42:30.504Z
@@ -21,5 +21,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |---|---|---|---|
 |vCon - conversational data container| Dan Petrie | <dan.vcon@sipez.com> |  Repo: https://github.com/py-vcon/py-vcon |
 | Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar  | muhammad_usama.sardar@tu-dresden.de  | [Description](https://mailarchive.ietf.org/arch/msg/tls/Jx_yPoYWMIKaqXmPsytKZBDq23o/)  and [Presentation](https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-identity-crisis-for-attested-tls-in-confidential-computing-00) <br> **3 main ways to combine attestation in TLS:** <br> 1. Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol)) <br> 2. Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)) <br> 3. Post-handshake attestation ([Internet-Draft](https://datatracker.ietf.org/doc/draft-fossati-tls-exported-attestation/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing)) <br> **Background on Attestation:** <br> [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX) <br> [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)|
+| Testing Congestion Control and Queue Management Mechanisms | Anuhya Murki | anuhya.murki@gmail.com | 1. Validation of rate-limited sender implementation in ns-3 <br> 2. Testing of FQ-CoDel and FQ-PIE using ns-3, NeST and WiFi APs <br> 3. New work on improving the delay-throughput tradeoff with CoDel <br> 4. Testing the interaction of modified CoDel with BBR |
 |   |   |   |   |
 |   |   |   |   |
