@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-16T04:09:02.783Z
+date: 2025-03-16T08:29:53.159Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -622,7 +622,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - Remote Attestation with EDHOC for Swarms
   - Embedded Rust Cryptographic Abstraction Layer (CAL)
   - [Sketching use in PC environments](https://notes.ietf.org/8Q3im5qYS3GT-OQhO4E2yw#)
-  - ✅ Plugtesting Californium imlementation with Ariel OS demo application (no-code setup)
+  - ✅ Plugtesting: Californium implementation with Ariel OS demo application (no-code setup); Contiki-NG with aiocoap server
 - **Specifications**:
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc9668/
