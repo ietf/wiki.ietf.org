@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-16T01:48:31.342Z
+date: 2025-03-16T03:40:50.697Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -88,7 +88,7 @@ If you received the email but the link to create an account has expired, please 
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/122/session/33500/propose_slides) at 14:00-16:00.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/122/session/34077/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
     * https://datatracker.ietf.org/meeting/122/session/hackathon#autoid-16
@@ -640,7 +640,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - https://datatracker.ietf.org/doc/rfc9528/
   - https://datatracker.ietf.org/doc/rfc8613/
 
-
+---
 ### EDHOC in large robotic swarms
 - **Champion(s)**
   - Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
@@ -650,6 +650,7 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 - **Specifications**:
   - https://datatracker.ietf.org/doc/rfc9528/
 
+--- 
 ### Remote Attestation with EDHOC for Swarms
 - **Champion(s)**
   - Yuxuan (xx at inria.fr)
@@ -657,6 +658,8 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
   - xx
 - **Specifications**:
   - https://datatracker.ietf.org/doc/rfc9528/
+  
+---
 
 ### Embedded Rust Cryptographic Abstraction Layer (CAL)
 - **Champion(s)**
