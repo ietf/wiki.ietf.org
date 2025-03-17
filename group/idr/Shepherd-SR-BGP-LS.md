@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-17T10:05:01.560Z
+date: 2025-03-17T10:09:28.178Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -64,7 +64,7 @@ none
 
 - [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/) - [(-03) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-template/)
 
-- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/)
+- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/) - **new -08 **
 
 
 
@@ -79,7 +79,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 ### BGP-LS Drafts at RFC-editor
 - [draft-ietf-idr-bgp-ls-sr-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/): for [versions 05-14](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy)  
 
-### BGP-LS drafts at WG LC 
+### BGP-LS drafts at Post- WG LC 
 - [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/) [(-04) to (-07)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-mt)
 
 
