@@ -2,19 +2,19 @@
 title: Shepherd Review for draft-zhang-idr-sr-policy-scheduling
 description: draft-zhang-idr-sr-policy-scheduling
 published: true
-date: 2025-02-26T02:01:50.615Z
+date: 2025-03-17T05:19:57.343Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T01:37:34.654Z
 ---
 
-# Shepherd Reviews for draft-zhang-idr-sr-policy-scheduling
+# Shepherd Reviews for draft-zzd-idr-sr-policy-scheduling
 
 ## Summary 
-**draft:**  [draft-zhang-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zhang-idr-sr-policy-scheduling)
+**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-03) 
 **Type:** Proposed standard 
 **status:** Individual Draft 
-**current version:** 06
+**current version:** 8
 **adoption process:** TVR needs to set paradigm, Spring SR, and IDR mechanisms
 **Cross-WG discussion:** TVR, Spring 
 **bgp-ls draft:** none
@@ -22,9 +22,68 @@ dateCreated: 2025-02-26T01:37:34.654Z
 **implementations:** TBD 
 
 
+## Review -08 
+### Technical issues 
+
+#### Issue-1: Technical Issues Not resovlved from version -03 review 
+- **resolved from -05:** Issue-1, Issue-2, Issue-3, Issue-4
+- **Partially resolved:** Issue-4 and Issue 5 
+- **not resolved:** Issue-6 (Security Section), and Issue-7 (Manageability section). 
+
+#### Issue-2: Partially completed Issue-4 
+
+> old text:/The NLRI defined in [I-D.ietf-idr-segment-routing-te-policy] 
+>          contains the SR Policy candidate path./
+         
+> New text:/The NLRI defined in  [I-D.ietf-idr-sr-policy-safi] 
+>          contains the SR Policy candidate path./ 
+
+#### Issue-3: Partially completed Issue-5 
+
+> Old text:/ The content of the SR Policy Candidate Path is encoded 
+> in the Tunnel Encapsulation Attribute defined in [RFC9012] using a 
+> new Tunnel-Type called SR Policy Type with codepoint 15. / 
+{.is-info}
+
+
+> New text:/ The content of the SR Policy Candidate Path is encoded 
+> in the Tunnel Encapsulation Attribute defined in [RFC9012] using a 
+> the Tunnel-Type called SR Policy Type with codepoint 15. /  
+> 
+{.is-info}
+
+Note: You are not definig a new tunnel type. 
+
+#### Issue-3: Review based on Sub-TLV template 
+- Title: Current title is "Schedule Information" the author may wish to consider a more specific title.  
+- Type Code: Accurate (TBD1)
+- Encoding of Value bytes: contains diagram, description of each field, and error handling
+
+What's missing: 
+1) 
+What tunnel types this subTLV can go in.
+Does this subTLV play a part in validation of the TLV
+
+
+### Editorial issues:
+#### NIT-1 section 5.2.1, spelling of from 
+> old text:/
+> When a headend receives a SR Policy form it neighbors or controller, 
+> it SHOULD perform schedule information validation based on the following rules:
+{.is-info}
+
+New text:/
+ When a headend receives a SR Policy from it neighbors or controller, 
+ it SHOULD perform schedule information validation based on the following rules:/
+
+
+
+
+
+
 ## Review -05 
 **
-Draft:** [draft-zhang-idr-sr-policy-scheduling-04](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-04)
+Draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-03) 
 status: individual draft, 
 **Adoption: ** Paradigm approved in TVR + Spring, IDR mechanisms  
 **version:** Revision needed 
