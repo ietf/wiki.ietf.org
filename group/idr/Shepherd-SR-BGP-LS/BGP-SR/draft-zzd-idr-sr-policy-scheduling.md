@@ -2,7 +2,7 @@
 title: Shepherd review for draft-zzd-idr-policy-scheduling
 description: Shepherd  draft-zzd-idr-policy-scheduling
 published: true
-date: 2025-03-17T07:10:39.472Z
+date: 2025-03-17T10:11:34.929Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T07:10:39.472Z
@@ -85,6 +85,18 @@ You  must add to this the critical information passed by your draft.
 Describe how this technology can be monitored or managed by NETCONF/Yang or BGP-LS. 
 
 
+#### Issue-8: (from Jeff Haas): Malformed 
+> "Malformed" is the designation for cases where the syntactically well-formed but semantically incorrect.  In the procedures for BGP-LS in RFC 9552, malformed BGP-LS attributes are treated with 'attribute discard'.  Is this what you really want to happen?
+{.is-info}
+
+#### Issue-9: epoch term (jeff Haas) 
+ 
+"epoch" is used a few times in the document without reference.  I believe it is likely a 64-bit time_t for the epoch, but that isn't guaranteed.  I don't believe POSIX has specified a 64-bit specific value to use as a citation.
+ 
+-> epoch is the 1 January 1970 00:00, sorry for missing the definition. I am also not sure whether " POSIX has specified a 64-bit specific value to use as a citation.", we can leave this question for future.
+
+
+
 ### Editorial issues:
 #### NIT-1 section 5.2.1, spelling of from 
 > old text:/
@@ -92,9 +104,11 @@ Describe how this technology can be monitored or managed by NETCONF/Yang or BGP-
 > it SHOULD perform schedule information validation based on the following rules:
 {.is-info}
 
-New text:/
- When a headend receives a SR Policy from it neighbors or controller, 
- it SHOULD perform schedule information validation based on the following rules:/
+> New text:/
+>  When a headend receives a SR Policy from it neighbors or controller, 
+>  it SHOULD perform schedule information validation based on the following rules:/
+{.is-info}
+
 
 
 ## Review -03
