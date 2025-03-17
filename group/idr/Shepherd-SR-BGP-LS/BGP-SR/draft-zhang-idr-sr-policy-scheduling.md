@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-zhang-idr-sr-policy-scheduling
 description: draft-zhang-idr-sr-policy-scheduling
 published: true
-date: 2025-03-17T05:19:57.343Z
+date: 2025-03-17T05:32:42.409Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T01:37:34.654Z
@@ -40,6 +40,8 @@ dateCreated: 2025-02-26T01:37:34.654Z
 
 #### Issue-3: Partially completed Issue-5 
 
+Note: You are not definig a new tunnel type. 
+
 > Old text:/ The content of the SR Policy Candidate Path is encoded 
 > in the Tunnel Encapsulation Attribute defined in [RFC9012] using a 
 > new Tunnel-Type called SR Policy Type with codepoint 15. / 
@@ -52,17 +54,31 @@ dateCreated: 2025-02-26T01:37:34.654Z
 > 
 {.is-info}
 
-Note: You are not definig a new tunnel type. 
 
-#### Issue-3: Review based on Sub-TLV template 
+#### Issue-4: Review based on Sub-TLV template 
 - Title: Current title is "Schedule Information" the author may wish to consider a more specific title.  
 - Type Code: Accurate (TBD1)
 - Encoding of Value bytes: contains diagram, description of each field, and error handling
 
-What's missing: 
-1) 
-What tunnel types this subTLV can go in.
-Does this subTLV play a part in validation of the TLV
+**What's missing: **
+1) Can this Sub-TLV only go in the SR Policy tunnel TLV. 
+If so polease clear state this in section 3. 
+
+2) What part does this sub-TLV in validating the TLV?  Will a malformed sub-TLV  cause the TLV to be illegal?  Can the Malformed Sub-TLV ignored or does this cause a security issue? 
+
+3) It appears that the Sub-TLV could be repeated at two levels (see section 3) for a tunnel with multiple segments (going over all segments) and at the segment level.  How do the two levels interact? Does any usage make the tunnel invalid? 
+
+#### Issue-5: An Error handling section should be considered. 
+
+4) An Error handling section:  You are extending the [draft-ietf-idr-sr-policy-safi] error handling which extends the [RFC9012] error handling.  It would be good to have a section that calls out changes to both. 
+
+
+#### Issue-6: Please add a security section (see -05 review) 
+
+[draft-ietf-idr-sr-policy-safi] has a good start.  You  must add to this the critical information capture by your draft.  
+
+#### Issue-7: Please add a manageability section. 
+Desribe how this technology can be monitored or managed by NETCONF/Yang or BGP-LS. 
 
 
 ### Editorial issues:
