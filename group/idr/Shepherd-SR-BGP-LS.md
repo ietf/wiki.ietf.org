@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-16T04:03:53.136Z
+date: 2025-03-17T04:41:52.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -62,7 +62,7 @@ none
 
 - [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/) - [(-03) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-template/)
 
-- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-scheduling/)
+- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-scheduling/)
 
 
 
