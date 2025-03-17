@@ -2,7 +2,7 @@
 title: Shepherd review for draft-zzd-idr-policy-scheduling
 description: Shepherd  draft-zzd-idr-policy-scheduling
 published: true
-date: 2025-03-17T10:11:34.929Z
+date: 2025-03-17T10:12:42.565Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T07:10:39.472Z
