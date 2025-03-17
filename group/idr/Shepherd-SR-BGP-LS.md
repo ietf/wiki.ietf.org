@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-17T10:09:28.178Z
+date: 2025-03-17T10:16:50.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -54,7 +54,7 @@ none
 
 - [draft-lin-idr-sr-policy-headend-behavior](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) - [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-policy-headend-behavior/)
 
-- [draft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-lin-idr-sr-policy-admin-flags) - pending 
+- [draft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-lin-idr-sr-policy-admin-flags) - **pending 01**
 
 - [draft-liu-idr-srv6-segment-list-optimize](https://datatracker.ietf.org/doc/draft-liu-idr-srv6-segment-list-optimize/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-segment-list-optimize)
 
@@ -64,7 +64,7 @@ none
 
 - [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/) - [(-03) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-template/)
 
-- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/) - **new -08 **
+- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/) - **new -08**
 
 
 
