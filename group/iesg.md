@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-01-31T16:53:31.190Z
+date: 2025-03-17T05:29:49.365Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -29,18 +29,18 @@ dateCreated: 2022-07-23T19:21:39.664Z
 - [IESG Only Etiquette](/group/iesg/IESG-Only)
   When to use and not to use iesg-only mailing list
 
-## IESG roles
+## IESG roles: 2025-2026
 | IESG Liaisons | Group  |
 |---|---|
-| John | IAB  |
-| Orie | NomCom |
-| Éric V., Paul, Warren |  Tools Team|
-| Warren, Deb | EODIR  |
-| Warren |  TDD |
+| Deb | IAB  |
+| Mike | NomCom |
+| Éric V., Paul, Mahesh |  Tools Team|
+| Deb, Ketan | EODIR  |
+| Med, Andy |  TDD |
 | Roman | RSAB |
 | Roman | LLC Board |
-| Roman Paul | IETF-IANA ASG (IAB Program) |
-| Warren, Zahed | IAB-ISOC Policy Coordination Group |
+| Roman, Orie, Eric, Paul | IETF-IANA ASG (IAB Program) |
+| Roman, Paul | IAB-ISOC Policy Coordination Group |
 
 {.dense}
 
