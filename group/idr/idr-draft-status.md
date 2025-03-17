@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-03-16T05:42:07.680Z
+date: 2025-03-17T07:08:42.609Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -136,6 +136,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
 |  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
 |  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD  | TBD | TBD   |
+| draft-zzd-idr-policy-scheduling-08 | needs revision | 
 {.dense}
  
 ### FSv2 Base Drafts - adoption pending 
