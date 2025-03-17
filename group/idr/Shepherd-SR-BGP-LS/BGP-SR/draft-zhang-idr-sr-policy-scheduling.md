@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-zhang-idr-sr-policy-scheduling
 description: draft-zhang-idr-sr-policy-scheduling
 published: true
-date: 2025-03-17T05:38:14.393Z
+date: 2025-03-17T05:38:37.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T01:37:34.654Z
@@ -94,11 +94,7 @@ New text:/
  it SHOULD perform schedule information validation based on the following rules:/
 
 
-
-
-
-
-## Review -05 
+## Review -03
 **
 Draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-03) 
 status: individual draft, 
