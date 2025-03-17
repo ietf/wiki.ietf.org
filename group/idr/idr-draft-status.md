@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-03-17T07:08:42.609Z
+date: 2025-03-17T08:03:08.842Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -134,9 +134,12 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Pre-Adoption review | Adoption call | TBD | TBD | await -06 | 
 | draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | await -05| Pre-adoption review | TBD | TBD | await -05 |  
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
-|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  |  Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
+| draft-zzd-idr-policy-scheduling-08 | Susan Hares | Pre-adoption (IETF-122 request) | adoption | TBD | TBD | needs -09 revision | 
+| draft-ali-idr-srv6-policy-sl-opt-distribution-00 | Susan Hares | Pre-Adoption review (IETF-122 request) | Adoption call | TBD | TBD | rename + revision -01 |  
+| draft-lin-idr-sr-policy-admin-flags | Susan Hares | Pre-Adoption (IETF-122 request) | adoption call | TBD | TBD | revision -02  + Spring Bits check |   
+| draft-lin-idr-bgp-ls-sr-policy-admin-flags |  Susan Hares | Pre-Adoption (IETF-122 request) | adoption call | TBD | TBD | revision -02 + Spring Bits check |  
+|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  | Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
 |  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD  | TBD | TBD   |
-| draft-zzd-idr-policy-scheduling-08 | needs revision | 
 {.dense}
  
 ### FSv2 Base Drafts - adoption pending 
