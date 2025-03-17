@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-zhang-idr-sr-policy-scheduling
 description: draft-zhang-idr-sr-policy-scheduling
 published: true
-date: 2025-03-17T05:32:42.409Z
+date: 2025-03-17T05:33:59.516Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T01:37:34.654Z
