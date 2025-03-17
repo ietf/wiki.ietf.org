@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-03-17T05:29:49.365Z
+date: 2025-03-17T05:30:24.337Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -50,7 +50,6 @@ dateCreated: 2022-07-23T19:21:39.664Z
 |---|
 | Gunter Van de Velde |
 | Mahesh Jethanandani |
-| Murray Kucherawy |
 | The Secretariat  |
 {.dense}
 
