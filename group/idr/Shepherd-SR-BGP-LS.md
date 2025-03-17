@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-17T06:55:40.693Z
+date: 2025-03-17T07:03:54.506Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -113,7 +113,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-lin-idr-bgpls-te-policy-pm](https://datatracker.ietf.org/doc/draft-lin-idr-bgpls-te-policy-pm) - [(-03) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-lin-idr-bgpls-te-policy-pm)
 
--[draft-ldraft-lin-idr-bgp-ls-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-bgp-ls-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-lin-idr-bgp-ls-sr-policy-admin-flags) - pending 
+-[draft-draft-lin-idr-bgp-ls-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-bgp-ls-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-lin-idr-bgp-ls-sr-policy-admin-flags) - pending 
 
 - [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - [(-03) to -(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/)
 
