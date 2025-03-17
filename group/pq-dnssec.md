@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-02-27T12:37:53.856Z
+date: 2025-03-17T03:06:29.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -18,11 +18,11 @@ Tuesday, March 18, 2025, 09:30-10:30 (local Bangkok time) ([information about ro
 
 Meeting notes are available [tbd].
 
-## Agenda (work-in-progress)
-- 5' Note Well / Agenda Bashing ([Slides])
+## Agenda
+- 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/chair-slides.pdf))
 - 15'+q Minh Hoang Tran (Virginia Tech): Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes ([Slides])
-- 15'+q Joe Harvey & Swapneel Sheth (Verisign): PQ DNSSEC with MTL Mode - Metrics and Observations ([Slides])
-- 15'+q Ondřej Surý: Feasibility of the new Post Quantum Cryptography for DNSSEC ([Slides])
+- 15'+q Joe Harvey & Swapneel Sheth (Verisign): PQ DNSSEC with MTL Mode - Metrics and Observations ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Harvey,Sheth_PQ_DNSSEC_MTL_Mode_Observations.pdf))
+- 15'+q Ondřej Surý: Feasibility of the new Post Quantum Cryptography for DNSSEC ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Surý_PQC_for_DNSSEC.pdf))
 - AOB
 
 ### Minh Hoang Tran: Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes
