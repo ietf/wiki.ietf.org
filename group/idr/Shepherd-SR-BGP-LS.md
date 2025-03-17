@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-17T04:41:52.037Z
+date: 2025-03-17T05:46:53.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -53,6 +53,8 @@ none
 - [draft-jiang-idr-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) 
 
 - [draft-lin-idr-sr-policy-headend-behavior](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) - [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-policy-headend-behavior/)
+
+-[draft-ldraft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-lin-idr-sr-policy-admin-flags)
 
 - [draft-liu-idr-srv6-segment-list-optimize](https://datatracker.ietf.org/doc/draft-liu-idr-srv6-segment-list-optimize/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-segment-list-optimize)
 
@@ -108,6 +110,8 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 - [draft-li-idr-bgpls-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-li-idr-bgpls-sr-policy-composite-path/) [(-06) to (-07)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-li-idr-bgpls-sr-policy-composite-path)  
 
 - [draft-lin-idr-bgpls-te-policy-pm](https://datatracker.ietf.org/doc/draft-lin-idr-bgpls-te-policy-pm) - [(-03) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-lin-idr-bgpls-te-policy-pm)
+
+-[draft-ldraft-lin-idr-bgp-ls-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-bgp-ls-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-lin-idr-bgp-ls-sr-policy-admin-flags)
 
 - [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - [(-03) to -(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/)
 
