@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-17T05:50:04.013Z
+date: 2025-03-17T06:25:30.003Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -47,8 +47,6 @@ none
 ### SR drafts in adoption call 
 
 ### SR Pre-Adoption Drafts 
-
--[draft-ali-idr-srv6-policy-sl-opt-distribution-00](https://datatracker.ietf.org/doc/draft-ali-idr-srv6-policy-sl-opt-distribution/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ali-idr-sr-policy-sl-opt-distribution)  - pending 
 
 - [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity)
 
@@ -101,6 +99,8 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 (none)
 
 ### BGP-LS Pre-Adoption Drafts (alphabetical order) 
+-[draft-ali-idr-srv6-policy-sl-opt-distribution-00](https://datatracker.ietf.org/doc/draft-ali-idr-srv6-policy-sl-opt-distribution/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ali-idr-sr-policy-sl-opt-distribution)  - pending 
+
 - [draft-chen-idr-bgp-ls-algo-related-adjacency-sid](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-algo-related-adjacency-sid/) -  [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-algo-related-adjacency-sid)
 
 - [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-security-capability/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-security-capability)
