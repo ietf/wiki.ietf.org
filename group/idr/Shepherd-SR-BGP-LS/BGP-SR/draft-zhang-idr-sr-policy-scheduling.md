@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-zhang-idr-sr-policy-scheduling
 description: draft-zhang-idr-sr-policy-scheduling
 published: true
-date: 2025-03-17T05:38:37.246Z
+date: 2025-03-17T05:39:53.923Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T01:37:34.654Z
@@ -11,18 +11,21 @@ dateCreated: 2025-02-26T01:37:34.654Z
 # Shepherd Reviews for draft-zzd-idr-sr-policy-scheduling
 
 ## Summary 
-**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-03) 
+**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-08) 
 **Type:** Proposed standard 
 **status:** Individual Draft 
-**current version:** 8
+**current version:** -08
 **adoption process:** TVR needs to set paradigm, Spring SR, and IDR mechanisms
 **Cross-WG discussion:** TVR, Spring 
 **bgp-ls draft:** none
 **Early Allocation**: TBD 
 **implementations:** TBD 
+**Reviewer:** Susan Hares 
 
 
 ## Review -08 
+**Reviewer:** Susan Hares
+
 ### Technical issues 
 
 #### Issue-1: Technical Issues Not resolved from version -03 review 
