@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-03-16T00:15:16.082Z
+date: 2025-03-17T08:55:59.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -85,18 +85,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 (none) 
 {.dense}
 
-## Missing Registries - for documents at RFC editor 
-### draft-ietf-idr-bgp-ls-sr-policy-17 New registries (cannot find) 
-|  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point Assigned  | Unassigned Code Points | Type |  Status |       
-|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp-ls-sr-policy-17](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sr-policy-17) | SR Policy Protocol Origin | Segment Routing Parameters | 0-3, 10, 20, 30 | 4-9, 11-19, 31-250 | Spec Req | RFC section 8.4  | 
-| [draft-ietf-idr-bgp-ls-sr-policy-17](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sr-policy-17) | SR Segment Descriptor Types | BGP-LS Parameters | 0-11 | 12-255 | Expert Review | RFC section 8.5 | 
-| [draft-ietf-idr-bgp-ls-sr-policy-17](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sr-policy-17) | Metric Type | BGP-LS Parameters | 0-4 | 5-255 | Expert Review | RFC 8.6 | 
 
-
-### draft-ietf-idr-sr-policy-safi-13 New registries (cannot find) 
-| [draft-ietf-idr-sr-policy-safi-04](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/)   | SR Policy ENLP Values | BGP Tunnel Encapsulation | yes | TBD | RFC section 6.10 | 
-{.dense}
 
 
 &nbsp;
