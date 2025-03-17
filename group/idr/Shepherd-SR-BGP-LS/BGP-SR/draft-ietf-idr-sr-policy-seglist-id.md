@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-02-26T02:45:35.386Z
+date: 2025-03-17T09:08:03.941Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -22,8 +22,33 @@ dateCreated: 2025-02-25T01:55:41.779Z
 
 
 ## Revision -03 
+### Issues from -02 
+Technical issues resolved: #1 resolved,  #2 partially resolved 
 
-Review pending (ETA 2/26) 
+### Technical issues 
+#### Issue 1: Security section 
+
+>  old text:/   The security requirements and mechanisms 
+> described in[ draft-ietf-idr-sr-policy-safi] also apply to this document./ 
+{.is-info}
+
+  
+Problem: You have added critical information to 
+[draft-ietf-idr-sr-policy-safi] regarding 
+seglist-id to the SR Policy information.  You need 
+to discuss how to protect the critical information in 
+seglist-id.  
+
+#### Issue 2: See the TEA template for Sub-TLV
+
+Please see that you are filling out all the Sub-TLV 
+template from https://wiki.ietf.org/group/idr/TEA-templates/SubTLV
+
+Here's what I think you need to add: 
+1. What tunnel types this subTLV can go in 
+2. Does this subTLV play a part in validation of the TLV
+3. Can this there be two Sub-TLV in a single TLV? 
+4.  Do you need a management section?  (BGP-LS or NETCONF reference)? 
 
 
 ## Revision -02 
