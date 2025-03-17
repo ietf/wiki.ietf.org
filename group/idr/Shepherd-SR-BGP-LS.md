@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-17T09:06:52.739Z
+date: 2025-03-17T09:22:53.587Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -25,7 +25,7 @@ none
 
 ### SR WG drafts 
 
-- [draft-ietf-idr-bgp-srmpls-elp-2](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/) - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - pending -02  
+- [draft-ietf-idr-bgp-srmpls-elp-2](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/) - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - **pending -02** 
 
 - [draft-ietf-idr-sr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-epe-over-l2bundle)
 
@@ -39,7 +39,7 @@ none
 
 - [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - [(-11) to (-13)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment) 
 
-- [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) - pending -03 
+- [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) - **new (-03)** 
 
 - [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-te-policy-attr)
 
