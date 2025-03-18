@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-03-17T03:06:29.796Z
+date: 2025-03-18T02:18:32.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -20,12 +20,12 @@ Meeting notes are available [tbd].
 
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/chair-slides.pdf))
-- 15'+q Minh Hoang Tran (Virginia Tech): Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes ([Slides])
+- 15'+q Minh Hoang Tran (Virginia Tech): Randomized evaluation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Tran_Randomized_evaluation_of_SLH-DSA-MTL's_impact_on_reducing_PQ-DNSSEC_signature_sizes.pdf))
 - 15'+q Joe Harvey & Swapneel Sheth (Verisign): PQ DNSSEC with MTL Mode - Metrics and Observations ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Harvey,Sheth_PQ_DNSSEC_MTL_Mode_Observations.pdf))
 - 15'+q Ondřej Surý: Feasibility of the new Post Quantum Cryptography for DNSSEC ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Surý_PQC_for_DNSSEC.pdf))
 - AOB
 
-### Minh Hoang Tran: Randomized simulation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes
+### Minh Hoang Tran: Randomized evaluation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes
 Given the potential of the quantum computers to defeat existing asymmetric key cryptography algorithms that current DNSSEC relies upon, recent works have surveyed possible PQC candidates for DNSSEC. SLH-DSA-MTL (draft-harvey-cfrg-mtl-mode-04) is an extension to SLH-DSA which seeks to reduce the bandwidth and computation costs of SLH-DSA signatures through amortization using a growing Merkle Tree Ladder (MTL). The algorithm has also been proposed as a possible PQC candidate for DNSSEC (draft-fregly-dnsop-slh-dsa-mtl-dnssec-03). However, little has been done to survey its operational suitability within DNSSEC, particularly with regards to the limited message sizes and computational resources of DNS servers. This work seeks to estimate the effect that SLH-DSA-MTL’s condensed signatures have on reducing PQ-DNSSEC message costs by simulated randomized querying of a TLD zone and comparing SLH-DSA-MTL against both normal SLH-DSA and existing non-PQC algorithms.
 
 ### Joe Harvey & Swapneel Sheth: PQ DNSSEC with MTL Mode - Metrics and Observations
