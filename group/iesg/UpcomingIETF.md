@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-17T00:10:11.596Z
+date: 2025-03-18T06:40:28.170Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -158,6 +158,7 @@ Conference style seats for 16
 
 ## Wednesday, 19 March 2025
 
+* 1130 - 1200 -- Yutaka OIWA, secure hybrid networks (RTG ADs)
 * 1630 - 1700 -- Let's relax before plenary (Éric V)
 * TIME - TIME -- Thing (Person responsible)
 
