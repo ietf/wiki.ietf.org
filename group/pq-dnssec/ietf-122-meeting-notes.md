@@ -2,7 +2,7 @@
 title: IETF 122 PQ DNSSEC side meeting notes
 description: 
 published: true
-date: 2025-03-18T04:58:13.998Z
+date: 2025-03-18T04:58:38.045Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T04:58:13.998Z
@@ -89,9 +89,7 @@ Q: Caspar Schutijser
 - Which variant of SQISign did you use?
 	A: the (newer) NIST 2 variant
 
--------------------------------------------------------
-
-AOB
+## AOB
 
 - Short discussion on how to foster more work into attacks against PQC signature mechanisms
 - Discussion: Do we need to focus on NIST algorithms? Perhaps a non-NIST algorithm fits DNSSEC!
