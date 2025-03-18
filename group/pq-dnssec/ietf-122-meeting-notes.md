@@ -2,7 +2,7 @@
 title: IETF 122 PQ DNSSEC side meeting notes
 description: 
 published: true
-date: 2025-03-18T04:58:38.045Z
+date: 2025-03-18T06:21:13.938Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T04:58:13.998Z
@@ -10,11 +10,13 @@ dateCreated: 2025-03-18T04:58:13.998Z
 
 # IETF 122 PQ DNSSEC Side Meeting notes
 
-Date and time: 2025-03-18, 19:30
+Date and time: 2025-03-18, 9:30
 
 Minutes: Peter Thomassen
 
 ## Randomized evaluation of SLH-DSA-MTL's impact on reducing PQ-DNSSEC signature sizes
+
+Presented by Minh Hoang Tran (Virginia Tech), [slides here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Tran_Randomized_evaluation_of_SLH-DSA-MTL's_impact_on_reducing_PQ-DNSSEC_signature_sizes.pdf)
 
 3 main parts of presentation:
 - overview of MTL mode, also considering signature backwards compatibility
@@ -50,6 +52,8 @@ Q: Paul Hoffman
 
 ## PQ DNSSEC with MTL Mode - Metrics and Observations
 
+Presented by Joe Harvey (Verisign), [slides here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Harvey,Sheth_PQ_DNSSEC_MTL_Mode_Observations.pdf)
+
 Topic today: metrics and observation
 
 test setup with client, Unbound resolver and NSD auth
@@ -70,6 +74,8 @@ Q: Benno Overeinder
 
 ## Feasibility of the new Post Quantum Cryptography for DNSSEC
 
+Presented by Ondřej Surý, [slides here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF122/Sur%C3%BD_PQC_for_DNSSEC.pdf)
+
 Looking at HAWK, SQISign, MAYO, Antrag
 SQISign, HAWK-256, MAYO/Antrag sizes are somewhat DNSSEC-suitable (from promising to less)
 
@@ -79,7 +85,7 @@ shares stats for sig sizes, signing/validation timings, and message sizes
 shows diagrams of latency, CPU usage and memory usage per algorithm, showing deviations from conventional algorithms
 
 Future work: increase EDNS(0) buffer size, optimize implementations, etc.
-suggests not to rush PQ DNSSEC workk as new algorithms are coming that may be suitable
+suggests not to rush PQ DNSSEC work as new algorithms are coming that may be suitable
 
 Q: Scott Fluhrer
 - How painful is it to have large public keys?
