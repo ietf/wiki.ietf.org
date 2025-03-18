@@ -2,7 +2,7 @@
 title: IETF Security Area Review Process
 description: Document review process used by the IETF Security Directorate
 published: true
-date: 2023-03-29T05:44:01.693Z
+date: 2025-03-18T04:55:54.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:37:54.246Z
@@ -99,3 +99,7 @@ The list of reviewers in order can be seen from the [https://datatracker.ietf.or
 ## Accomodating yourself
 
 Feel free to send secdir-secretary@mit.edu any requests regarding your own secdir workload (e.g., "this document can easily be split into three segments, could you assign two more people", "I'm going on holiday, don't give me any assignments until September 2nd", "I'm bored, give me more to do"). While we're happy to accomodate your schedule, more notice will make it easier to reassign the review to someone else. 
+
+## Statistics
+
+- [secdir-stats-122.pdf](/secdir/secdir-stats-122.pdf)
