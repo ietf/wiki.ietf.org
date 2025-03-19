@@ -2,7 +2,7 @@
 title: New AD Info
 description: 
 published: true
-date: 2025-03-19T06:50:55.999Z
+date: 2025-03-19T06:55:50.253Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-28T14:08:25.237Z
@@ -26,7 +26,7 @@ dateCreated: 2022-09-28T14:08:25.237Z
 ## Document Sponsoring and Telechat Information:
 
  * [Publish Path](/group/iesg/PublishPath)
- * [Communicating with the Authors](/group/iesg/letterToAuthors)
+ * [Communicating with the Authors](/group/iesg/newADinfo/letterToAuthors)
  * [AD Review Checklist](/group/iesg/ADReviewChecklist)
  * [Document Onto Agenda](/group/iesg/documentagenda)
  * [Chartering Working Groups](/group/iesg/charteringworkinggroups)
