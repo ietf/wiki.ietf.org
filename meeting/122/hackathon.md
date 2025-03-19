@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-16T08:29:53.159Z
+date: 2025-03-19T02:47:53.244Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -393,7 +393,7 @@ Ignacio Dominguez, ignacio.dominguezmartinez@telefonica.com
 https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/
 
 - **Project Info**
-	- The YANG provenance development team is working on a set of microservice to demonstrate the proposal and explore its integration with otrher YANG solutions.
+	- The YANG provenance development team is working on a set of microservice to demonstrate the proposal and explore its integration with other YANG solutions.
 
 	- These microservices provide interfaces for the generation and verification of provenance signatures using XML and JSON serialization in the four *enclosing methods* described in the reference draft:
 
@@ -534,7 +534,7 @@ The newly formed RPP working group is focused on designing a new protocol via a 
 - [Related work: RESTful EPP](https://datatracker.ietf.org/doc/draft-wullink-restful-epp/)
 
 ----
-### MAPRG IPv6 Test Pod Open Testing and Diagnosis
+### <a id="IPv6TestPod"></a>MAPRG IPv6 Test Pod Open Testing and Diagnosis
 - **Champions**
 David Plonka dave@plonka.us (MAPRG co-chair, WiscNet's Principal Research Scientist)
 
