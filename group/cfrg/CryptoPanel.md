@@ -2,14 +2,14 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2024-03-09T08:03:57.535Z
+date: 2025-03-19T03:07:49.751Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
 ---
 
 # Crypto Review Panel
-Please contact CFRG Chairs (Nick Sullivan <nick@cloudflare.com>, Alexey Melnikov <alexey.melnikov@isode.com> and Stanislav Smyshlyaev <smyshsv@gmail.com>) or the CFRG Secretary (Christopher wood <caw@heapingbits.net>) to request a review. Also contact them if you want to be added to the Crypto Review Panel.
+Please contact CFRG Chairs (Nick Sullivan <nicholas.sullivan+ietf@cloudflare.com>, Alexey Melnikov <alexey.melnikov@isode.com> and Stanislav Smyshlyaev <smyshsv@gmail.com>) or the CFRG Secretary (Christopher wood <caw@heapingbits.net>) to request a review. Also contact them if you want to be added to the Crypto Review Panel.
 
 The work in the Crypto Panel is organized using the mailing list, [the archive of the Crypto Panel list](https://mailarchive.ietf.org/arch/browse/crypto-panel/) is public.
 
