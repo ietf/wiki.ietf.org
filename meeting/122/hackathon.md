@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon
 description: 
 published: true
-date: 2025-03-19T02:47:53.244Z
+date: 2025-03-19T02:55:36.101Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T19:41:53.686Z
@@ -934,7 +934,7 @@ Our goal is to evaluate the throughput performance of JSON, XML, and CBOR encodi
 - **Project Info**
   - In future communication technologies such as 6G, there are technical requirements that demand ultra-low latency and high levels of security. So, the purpose of this project is to achieve low-latency and highly secure cryptographic techniques targeting future communication technologies.
   - We consider appylying Areion to IPsec in this hackathon.
-  - Paper at https://tches.iacr.org/index.php/TCHES/article/view/10279/9727
+  - Paper at https://tches.iacr.org/index.php/TCHES/article/view/10279/9727
   - We are currently recruiting collaborators who will join us in this project.
 - **Specifications**
 	- https://datatracker.ietf.org/doc/draft-sakemi-areion/
