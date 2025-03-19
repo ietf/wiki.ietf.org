@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-18T10:57:12.934Z
+date: 2025-03-19T01:08:44.653Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -109,6 +109,9 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1004
 
 >1. Plenary Slide Review + Prep
 >2. IETF+IEEE Leadership meeting at Madrid (Sat Jul 26 after IETF week); there is also a tentative proposal for DETNET WG + TSN technical meeting. 
+>3. Appeal Response
+>4. PQUIP
+
 
 ### IETF 122 Plenary 
 **TIME: 17:00-19:00 
