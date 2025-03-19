@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-03-15T07:56:21.995Z
+date: 2025-03-19T06:33:36.818Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|March 2025|[RADIUS Conference](https://radiusconference.org)|Operators | Participants | Alan DeKok | [Slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-radext-radius-conference-report-00)
 |March 2025|[TIOF](https://docs.theiofoundation.org/activities/current-season/season-2025/03-march/tiof-training-bytes-2025-03)|Regional, Students|Participants|Jean||
 |March 2025|[Connections2025](https://connections.iiesoc.in/)|Regional|Participants|Dhruv,Ketan|[Slides](https://www.connections.iiesoc.in/abstract)|
 |Feb 2025|[Apricot2025](https://2025.apricot.net/programme/programme#/day/7/panel-enhancing-apac-regional-and-operator-engagement-in-the-ietf/)|Operators|Participants|Dhruv,Gunter,Zahed,Mohit|[Video](https://www.youtube.com/live/-tSkj-hWn2g?si=0MnyKBm_Vy6noX_3&t=188)[Slides](https://2025.apricot.net/assets/files/APAC945/enhancing-apac-regio_1740553545.pdf)|
