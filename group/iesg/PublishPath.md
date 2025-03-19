@@ -2,7 +2,7 @@
 title: Publish Path
 description: 
 published: true
-date: 2023-05-05T19:35:43.880Z
+date: 2025-03-19T06:53:31.332Z
 tags: iesg
 editor: markdown
 dateCreated: 2023-01-13T16:14:58.658Z
@@ -32,5 +32,6 @@ The IESG has some new target times for various steps along the publication path 
  1 week for PROTO shepherd or AD to report actionable DISCUSS comments
  2 weeks for revised ID.
 
+A draft mail to the authors to help the AD communicating timelines and expectations of the publication process can be found at [Communicating with the Authors](/group/iesg/letterToAuthors).
 
 ^1^ [Even Informational and Experimental documents need to be IETF Last Called]()
