@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-03-19T08:52:13.219Z
+date: 2025-03-19T08:54:30.609Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -111,11 +111,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Main interests/skills in signalling and connection-oriented networks.
     * Especially traffic engineering and path computation
     * So that's MPLS, GMPLS, and PCE
+ * Current interests also include Network Slicing and SDN
+ * Reasonably competent at all things routing 
  * Pedant about English and IETF process
  * Co-chair CATS working group
+ * Used to co-chair L1VPN, PCE, CCAMP, L3SM, L2SM, I2NSF, MPLS  
  * Technical advisor to TEAS WG
- * Current interests Network Slicing, Traffic Engineering, SDN
- * Used to co-chair L1VPN, PCE, CCAMP, L3SM, L2SM, I2NSF, MPLS 
  * Was a RTG AD once upon a time
  * Currently on OPSDIR
  * Designated "NMOP Terminology Fairy"
