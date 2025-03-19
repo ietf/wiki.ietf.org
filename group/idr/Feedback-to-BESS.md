@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2025-03-19T07:00:56.745Z
+date: 2025-03-19T07:24:37.486Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -44,9 +44,18 @@ The following page tracks BESS drafts needing feedback from IDR
  Note: Keyur Patel (IDR co-chair) is a co-author 
  Requested: April 2024 (ETA 7/29) 
  
+ 
+ 
  2) [Feedback on draft-ietf-bess-ebgp-dmz](/group/idr/draft-ietf-bess-ebgp-dmz)
  Reviewer:  Susan Hares 
  Requested: April 2024 (ETA 7/29) 
+ email link: https://mailarchive.ietf.org/arch/msg/bess/pBSa-Hexm7MAT-KT6zsgWjicHaQ/
+ 
+ This is linked to the draft-ietf-idr-link-bandwidth.
+ 
+ This was discussed at an IDR interim on 9/23/2024, IETF-121, and IETF-122.
+ There work is on-going so the authors should continue to work 
+ with draft-ietf-idr-link-bandwidth authors. 
  
  
  3) [draft-ietf-bess-evpn-geneve-08](https://datatracker.ietf.org/doc/html/draft-ietf-bess-evpn-geneve-08)
