@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-03-19T08:47:35.911Z
+date: 2025-03-19T08:52:13.219Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -107,7 +107,7 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
      * Some following and contributions in MPLS.
 ### John Drake (last updated : date) 
  * To Be Completed
-### Adrian Farrel (last updated : May 25, 2023) 
+### Adrian Farrel (last updated : March 19, 2025) 
  * Main interests/skills in signalling and connection-oriented networks.
     * Especially traffic engineering and path computation
     * So that's MPLS, GMPLS, and PCE
@@ -115,8 +115,10 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Co-chair CATS working group
  * Technical advisor to TEAS WG
  * Current interests Network Slicing, Traffic Engineering, SDN
- * Used to co-chair L1VPN, PCE, CCAMP, L3SM, L2SM, I2NSF 
+ * Used to co-chair L1VPN, PCE, CCAMP, L3SM, L2SM, I2NSF, MPLS 
  * Was a RTG AD once upon a time
+ * Currently on OPSDIR
+ * Designated "NMOP Terminology Fairy"
  * Written a few RFCs
  * Served as ISE from February 2018 to February 2022
 ### Dan Frost (last updated : 18 Jan 2016) 
