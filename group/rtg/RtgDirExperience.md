@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2023-05-25T10:12:48.835Z
+date: 2025-03-19T08:47:35.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -295,11 +295,11 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
 ### Victoria Pritchard (last updated : 2017-01-30) 
  * Follow mainly MANET, DTN, NETCONF, NETMOD
  * Interests in ad hoc networking and network management
-### Dhruv Dhody (last updated : 2020-05-05) 
-* Co-chair of PCE WG
-* Author of RFCs in PCE, TEAS, MPLS
-* Primarily active in PCE, TEAS, SPRING
-* Following closely MPLS, RTGWG, IDR, LSR, CCAMP, ALTO, 6MAN, and NTP. 
+### Dhruv Dhody (last updated : 2024-05-19) 
+* Co-chair of PCE WG and SRv6OPS
+* Also on the IAB and EODIR
+* Author of RFCs in PCE, TEAS, MPLS, SPRING etc
+* Primarily active in Routing and Ops area
 * Coded PCE, TE, as well as VPN, NTP, OSPF long time back.
 * Interested in SDN and related works
 ### Yingzhen Qu (last updated : 2018-01-31) 
