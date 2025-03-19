@@ -2,7 +2,7 @@
 title: IDR Feedbak to BESS 
 description: IDR Chairs and Members Feedback to Bess on BESS Drafts
 published: true
-date: 2025-03-19T07:24:37.486Z
+date: 2025-03-19T07:43:56.842Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T17:09:59.809Z
@@ -39,11 +39,11 @@ The following page tracks BESS drafts needing feedback from IDR
 -  email: [-22](https://mailarchive.ietf.org/arch/msg/bess/4iVjl_uu50uGMppbCRNvhd9Q2mE/)
  
  
- 2) draft-ietf-bess-multicast 
+ 2) draft-ietf-bess-bgp-multicast 
  Reviewer: Susan Hares
  Note: Keyur Patel (IDR co-chair) is a co-author 
  Requested: April 2024 (ETA 7/29) 
- 
+-   (check if this was a correct review, 3/18/2025) 
  
  
  2) [Feedback on draft-ietf-bess-ebgp-dmz](/group/idr/draft-ietf-bess-ebgp-dmz)
