@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-03-20T01:17:09.608Z
+date: 2025-03-20T08:21:25.103Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -132,6 +132,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf122/?session=1007
 > 2. Post-meeting review (randomized)
     Random order: OPS, GEN, IAB, ART, RTG, SEC, WIT, IRTF, INT
 > 3. General discussion of productivity and how the meeting went (standing item)
+> 4. Farther-past leadership on #alumni slack channel? (Liz)
 
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
