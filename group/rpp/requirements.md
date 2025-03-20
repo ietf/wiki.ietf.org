@@ -2,13 +2,13 @@
 title: RPP - Requirements
 description: Concept requirements document
 published: true
-date: 2025-03-13T08:05:46.399Z
+date: 2025-03-20T09:15:07.730Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T08:18:26.821Z
 ---
 
-**IMPORTANT: This is a concept requirements document, all requirements are subject to change following group discussion.**
+**IMPORTANT: The requirements below have been moved [Github](https://github.com/ietf-wg-rpp/rpp-requirements)**
 
 This is a non-exhaustive list of requirements for the RESTful Provisioning Protocol (RPP).
 
