@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-21T10:50:22.108Z
+date: 2025-03-21T10:58:29.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -48,11 +48,11 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | if lagging in production of Delta Files ... MUST generate one larger "catch up" Delta File (3.3.1) | yes | yes |
 | A new Delta File MUST be generated with a new version, one greater than the last Delta File version, or one greater than the last Snapshot File version if there were no prior deltas at all (3.3.1) | yes | yes |
 | The Delta File MUST include all changes that happened during the time frame, in the order in which they occurred. (3.3.1) | yes | yes |
-| The URL where the Delta File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.1) | yes | ?? |
-| After generating a new Delta File, a mirror server SHOULD remove all Delta Files older than 24 hours (3.3.1) | yes | ?? |
-| The UNF MUST be updated to include the new Delta File and update the database version (3.3.1) | yes | ?? |
-| The mirror server MUST generate a new Snapshot File between once per hour and once per day, if there have been changes to the IRR objects (3.3.2) | yes | ?? |
-| version number of the new snapshot MUST be equal to the last Delta File version (3.3.2) | yes | ?? |
+| The URL where the Delta File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.1) | yes | yes |
+| After generating a new Delta File, a mirror server SHOULD remove all Delta Files older than 24 hours (3.3.1) | yes | yes |
+| The UNF MUST be updated to include the new Delta File and update the database version (3.3.1) | yes | yes |
+| The mirror server MUST generate a new Snapshot File between once per hour and once per day, if there have been changes to the IRR objects (3.3.2) | yes | yes |
+| version number of the new snapshot MUST be equal to the last Delta File version (3.3.2) | yes | yes |
 | If there have been no changes to the IRR objects since the last snapshot, the mirror server MUST NOT generate a new snapshot (3.3.2) | ?? | ?? |
 | URL where the Snapshot File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.2) | yes | ?? |
 | The UNF MUST be updated to include the new snapshot, if one was generated (3.3.2) | yes | ?? |
