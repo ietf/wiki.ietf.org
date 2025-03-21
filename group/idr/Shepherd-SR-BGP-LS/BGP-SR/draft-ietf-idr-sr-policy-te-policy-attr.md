@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-03-21T05:30:44.723Z
+date: 2025-03-21T05:31:01.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -24,7 +24,7 @@ dateCreated: 2025-02-25T02:26:19.820Z
 ## Review -01   
 Reviewer: Susan Hares 
 **draft:** [draft-ietf-idr-sr-te-policy-attr-01](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-te-policy-attr-01)
-**Email: ** https://mailarchive.ietf.org/arch/msg/idr/9dXWKYyb0p5VT0xWgmzH65hGNso/
+**Email:** https://mailarchive.ietf.org/arch/msg/idr/9dXWKYyb0p5VT0xWgmzH65hGNso/
 
 
 ### Technical issues:
