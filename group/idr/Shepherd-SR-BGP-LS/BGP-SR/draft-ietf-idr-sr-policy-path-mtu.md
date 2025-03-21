@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-03-21T02:16:00.225Z
+date: 2025-03-21T02:23:24.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -71,10 +71,9 @@ the tunnel based on the SR Policy information (including the Path MTU Sub-TLV).
 
 The operation of sending information to consumers is out of scope of this document. / 
 
+#### Issue-4:  Missing Manageability section 
 
-
-
-
+Please add an section to indicate how operators may manage set or monitor the PATH MTU via existing Yang modules or BGP-LS support.  If these do not exist, suggest whether these would be useful. 
 
 
 
