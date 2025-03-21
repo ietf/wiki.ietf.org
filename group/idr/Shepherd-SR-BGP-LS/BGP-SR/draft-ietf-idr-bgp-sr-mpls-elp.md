@@ -2,13 +2,13 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-03-07T15:07:44.442Z
+date: 2025-03-21T01:54:03.127Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
 ---
 
-Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
+# Shepherd Reviews for draft-ietf-idr-bgp-srmpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 
 ## Summary 
 **draft:**  [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp)
@@ -16,15 +16,26 @@ Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-e
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  8/12/2024 (7/12/2024 - 7/30/2024) 
-**current version:** 01
-**Early Allocation**: yes, need early allocation 
+**current version:** 02
+**Early Allocation**: yes, but need to revised draft first 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
 
 
 ## Review of -02 (pending)
+**draft:** [draft-ietf-idr-bgp-srmpls-elp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-02)
+**Status**: Need to address technicval issues 
 
-ETA of review on 3/7/2024 
+### Technical issues 
+
+#### All Technical Issue from -01 review are unresolved
+
+Unresolved from Review-01: 
+- Issue #1 - Section 3, paragraph starting "For example". BGP-LS reference - is unresolved 
+- Issue #2 - Section 4 or 5, Missing Error handling for a malformed Explicit NULL Policy TLV 
+- Issue #3 -  Security Section, Please enhance the security section. Mention Critical information. 
+- Issue #4 - Missing Scalability considerations for this work. 
+
 
 ## Review -01 
 **draft:** [draft-ietf-idr-bgp-srmpls-elp-01](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-01)
