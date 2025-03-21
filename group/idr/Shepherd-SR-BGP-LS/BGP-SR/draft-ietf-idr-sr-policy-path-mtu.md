@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-03-21T02:23:24.436Z
+date: 2025-03-21T02:26:01.309Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -62,12 +62,16 @@ New text for section 4:/**
 #### Issue-3 - Section 4, Does this Sub-TLV play a part of the validation 
 
 Please state clearly that this Sub-TLV does not play a part of BGP's validation of this 
-tunnel, but that the tunnel 
+tunnel. 
 
-current text:/ The consumer of the SR policies is not the BGP process. The operation of sending information to consumers is out of scope of this document./ 
+> **current text:** / The consumer of the SR policies is not the BGP process. The operation of sending information to consumers is out of scope of this document./ 
+{.is-info}
 
-New text:/ The consumer of the SR policies is not the BGP process.  The bgp process does not validate
-the tunnel based on the SR Policy information (including the Path MTU Sub-TLV). 
+
+> **New text:/** The consumer of the SR policies is not the BGP process.  The bgp process does not validate
+> the tunnel based on the SR Policy information (including the Path MTU Sub-TLV). 
+{.is-info}
+
 
 The operation of sending information to consumers is out of scope of this document. / 
 
