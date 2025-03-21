@@ -2,17 +2,17 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-02-26T02:46:52.952Z
+date: 2025-03-21T03:56:06.635Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
 ---
 
-# Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
+# Shepherd reviews draft-ietf-idr-sr-te-policy-attr
 
 
 ## Summary 
-**draft:**  [draft-ietf-idr-sr-policy-te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-te-policy-attr) 
+**draft:**  [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-te-policy-attr) 
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  8/12/2024 (7/12/2024 - 7/30/2024) 
@@ -23,52 +23,17 @@ dateCreated: 2025-02-25T02:26:19.820Z
 
 ## Review -01  (pending) 
 
-Review -01 pending (ETA 2/26)
+Review -01 pending  
 
 ## Review -00 
-**draft:**  [draft-ietf-idr-sr-policy-te-policy-attr](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-te-policy-attr)
+**draft:** [draft-ietf-idr-sr-te-policy-att-00](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-te-policy-attr-00)
 **Status**: WG draft, needs revision 
 **implementations:** unknown 
 **allocation status:** needs early allocation 
-**WG LC status: **TBD (unknown)
 email: https://mailarchive.ietf.org/arch/msg/idr/v6GpJtriu8z0qg8OyjS9caGfy0M/
 
-
-
-### Technical: 
-#### Issue-1: Section 3.1, SR Algorithm text, A-Flag setting 
-
-> old text:/
->    SR Algorithm: 1 octet specifying SR Algorithm as described in
->    Section 3.1.1 of [RFC8402]) when A-Flag as defined in
->    [I-D.ietf-idr-bgp-sr-segtypes-ext] is present.  SR Algorithm is used
->    by SRPM as described in Section 4 of [RFC9256]).  When A-Flag is not
->    encoded, this field SHOULD be set to zero on transmission and MUST be
->    ignored on receipt./
-{.is-info}
-
->  New text:/ 
->    SR Algorithm: 1 octet specifying SR Algorithm as described in
->    Section 3.1.1 of [RFC8402]) when A-Flag as defined in
->    [I-D.ietf-idr-bgp-sr-segtypes-ext] is present.  SR Algorithm is used
->    by SRPM as described in Section 4 of [RFC9256]).  When A-Flag is not
->    set, this field SHOULD be set to zero on transmission and MUST be
->    ignored on receipt./
->   
-{.is-info}
-
-#### Issue-2: Section 3.2, SR algorithm text, A-Flag setting. 
-
-Make the same change as in section 3.1 
-
-#### Issue-3: Section 3.3, SR algorithm text, A-Flag setting. 
-
-Make the same change as in section 3.1 
-
-#### Issue-3, Section 3.4, SR algorithm text, A-Flag setting. 
-
-Make the same change as in section 3.1 
-
+### Technical Issues
+(removed due to error). 
 
 ### Editorial: 
 
