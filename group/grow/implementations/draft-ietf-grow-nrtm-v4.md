@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-21T11:20:02.172Z
+date: 2025-03-21T12:10:13.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -53,7 +53,7 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | The UNF MUST be updated to include the new Delta File and update the database version (3.3.1) | yes | yes |
 | The mirror server MUST generate a new Snapshot File between once per hour and once per day, if there have been changes to the IRR objects (3.3.2) | yes | yes |
 | version number of the new snapshot MUST be equal to the last Delta File version (3.3.2) | yes | yes |
-| If there have been no changes to the IRR objects since the last snapshot, the mirror server MUST NOT generate a new snapshot (3.3.2) | ?? | ?? |
+| If there have been no changes to the IRR objects since the last snapshot, the mirror server MUST NOT generate a new snapshot (3.3.2) | ?? | yes |
 | URL where the Snapshot File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.2) | yes | yes |
 | The UNF MUST be updated to include the new snapshot, if one was generated (3.3.2) | yes | yes |
 | SHOULD continue to produce Delta Files during this (snapshot update) window, which means the server MAY publish a Snapshot File with a version number older than the most recent Delta File at the time of publication (3.3.2) | yes/yes | yes |
