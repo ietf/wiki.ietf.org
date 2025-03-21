@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-03-21T05:15:08.203Z
+date: 2025-03-21T05:18:35.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -22,8 +22,9 @@ dateCreated: 2025-02-25T02:26:19.820Z
 **bgp-ls draft:** would need to augment deraft-ietf-idr-bgp-ls-sr-policy 
 
 ## Review -01  (pending) 
+Reviewer: Susan Hares 
 
-**draft:** 
+**draft:** [draft-ietf-idr-sr-te-policy-attr-01](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-te-policy-attr-01)
 
 ### Technical issues:
 
@@ -60,16 +61,20 @@ Just like [draft-ietf-idr-sr-policy-safi], the new segment types are checked syn
 not semantically.   The SRPM in the head-end does the semantic checking to determine the 
 values make sense for deployments.  If so, I suggest the following change 
 
-Section 3 text:
-old text: / The processing procedures for SID with algorithm specified in
-[RFC9256] and [I-D.ietf-idr-bgp-sr-segtypes-ext] are still applicable for the new segment types./
+**Section 3 text:**
+> old text: / The processing procedures for SID with algorithm specified in
+> [RFC9256] and [I-D.ietf-idr-bgp-sr-segtypes-ext] are still applicable for the new segment types./
+{.is-info}
 
-New text: /  The processing procedures for SID with algorithm specified in
-[RFC9256] and [I-D.ietf-idr-bgp-sr-segtypes-ext] are still applicable for the new segment types.
-Just as in [drafat-ietf-idr-sr-policy-safi], the segment list sub-TLV specified in this document 
-(sections 3.1, 3.2, 3.3, and 3.4) may repeat multiple times within the segment-list Sub-TLV. 
 
-BGP only checks the syntax of the fields, but the semantic meaning is check by the consumer. /
+> New text: /  The processing procedures for SID with algorithm specified in
+> [RFC9256] and [I-D.ietf-idr-bgp-sr-segtypes-ext] are still applicable for the new segment types.
+> Just as in [drafat-ietf-idr-sr-policy-safi], the segment list sub-TLV specified in this document 
+> (sections 3.1, 3.2, 3.3, and 3.4) may repeat multiple times within the segment-list Sub-TLV. 
+> 
+> BGP only checks the syntax of the fields, but the semantic meaning is check by the consumer. /
+{.is-info}
+
 
  
 #### Issue-3: Need update to security section 
@@ -88,32 +93,34 @@ Do the authors recommend the creation of Yang module for managing the creation
 of segment types?  
 
 
-
 ### NITS
 
 #### NIT-1, introduction, paragraph 4, add space before (
 
-old text:/
-As specified in [RFC9256], the SR algorithm can be optionally specified for Segment Types C(IPv4 Node and SID), D(IPv6 Node and SID for SR-MPLS), I(IPv6 Node and SID for SRv6), J(IPv6 Node, index for remote and local pair, and SID for SRv6), and K(IPv6 Local/Remote addresses and SID for SRv6)./ 
+> old text:/
+> As specified in [RFC9256], the SR algorithm can be optionally specified for Segment Types C(IPv4 Node and SID), D(IPv6 Node and SID for SR-MPLS), I(IPv6 Node and SID for SRv6), J(IPv6 Node, index for remote and local pair, and SID for SRv6), and K(IPv6 Local/Remote addresses and SID for SRv6)./ 
+{.is-info}
 
-New text:/
-As specified in [RFC9256], the SR algorithm can be optionally specified for Segment Types C (IPv4 Node and SID), D (IPv6 Node and SID for SR-MPLS), I (IPv6 Node and SID for SRv6), J (IPv6 Node, index for remote and local pair, and SID for SRv6), and K (IPv6 Local/Remote addresses and SID for SRv6)./
+
+> New text:/
+> As specified in [RFC9256], the SR algorithm can be optionally specified for Segment Types C (IPv4 Node and SID), D (IPv6 Node and SID for SR-MPLS), I (IPv6 Node and SID for SRv6), J (IPv6 Node, index for remote and local pair, and SID for SRv6), and K (IPv6 Local/Remote addresses and SID for SRv6)./
+{.is-info}
+
 
 
 #### NIT-2, section 3.1, paragraph 1, add 
 
-Old text:/ 
-This type allows for identification of an Adjacency SID or BGP Peer Adjacency SID 
-(as defined in [RFC8402] ) SR-MPLS label for point-to-point links including IP unnumbered links./
+> Old text:/ 
+> This type allows for identification of an Adjacency SID or BGP Peer Adjacency SID 
+> (as defined in [RFC8402] ) SR-MPLS label for point-to-point links including IP unnumbered links./
+{.is-info}
 
-Change /(as defined in [RFC8402] )/ to /(as defined in [RFC8402])/
+> 
+> Change /(as defined in [RFC8402] )/ to /(as defined in [RFC8402])/
+{.is-info}
 
 
 
-
-
-
-Review -01 pending  
 
 ## Review -00 
 **draft:** [draft-ietf-idr-sr-te-policy-att-00](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-te-policy-attr-00)
