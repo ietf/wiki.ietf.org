@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-03-21T01:54:03.127Z
+date: 2025-03-21T05:26:01.140Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -25,6 +25,7 @@ dateCreated: 2025-02-26T02:37:13.865Z
 ## Review of -02 (pending)
 **draft:** [draft-ietf-idr-bgp-srmpls-elp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-02)
 **Status**: Need to address technicval issues 
+email: https://mailarchive.ietf.org/arch/msg/idr/kF4mu_HkG1FMdc931xo6eXo9544/
 
 ### Technical issues 
 
