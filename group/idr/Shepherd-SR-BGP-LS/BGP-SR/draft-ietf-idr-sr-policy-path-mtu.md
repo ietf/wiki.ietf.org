@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-03-21T02:26:01.309Z
+date: 2025-03-21T05:27:11.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-25T00:09:15.826Z
 ## Summary 
 **draft:**  [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
 **Type:** Proposed Standard 
-**status:** WG Draft (expires 3/2/2025),
+**status:** WG Draft (expires 3/2/2025), needs revision 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -10
 **Early Allocation**: yes 
@@ -24,7 +24,9 @@ dateCreated: 2025-02-25T00:09:15.826Z
 ## Review -10 
 draft: [draft-ietf-idr-sr-policy-path-mtu-10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-mtu-10)
 **Summary: **Revision 10 resolves all the issues listed in the shepherd report. 
-**Needs Template Revisions: ** yes
+Needs an update to address TEA Template review. 
+email: https://mailarchive.ietf.org/arch/msg/idr/jP4BwLPxw286FB5ZH9xNruW0rMM/
+
 
 ### Technical issue 
 #### Issue-1: Specify IANA assignments in TBDnnn format, in section 3 + 6 
