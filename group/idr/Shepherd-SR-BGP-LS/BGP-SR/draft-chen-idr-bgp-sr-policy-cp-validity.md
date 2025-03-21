@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2025-03-21T05:57:02.097Z
+date: 2025-03-21T06:00:21.131Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -27,7 +27,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **draft:** [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-sr-policy-cp-validity-03)
 **Status**: All issues in shepherd review of -02 resolved.  TEA template check    
 **implementations:** unknown 
-**email:** pending 
+**email:** https://mailarchive.ietf.org/arch/msg/idr/rRev0V44j0jNoQY6B07nA61MRkg/ 
 **Authors:** 5 
 
 ### Status of -02 shepherd review 
