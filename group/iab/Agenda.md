@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-03-05T16:49:53.526Z
+date: 2025-03-21T11:02:21.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
          - UTC-8 when North America observes Standard Time
 
 
-## IAB Agenda: 2025-04-02 0600 PDT (UTC-7) 
+## IAB Agenda: 2025-04-16 0600-0800 PDT (UTC-7) 
 
 *Agenda as of 2025-03-05. IAB agendas are subject to change, up to and during the meeting.*
 
@@ -109,32 +109,29 @@ In Progress:
 
 
 ### 2. 
-## Upcoming Teleconferences 
+## Upcoming Meetings
 
--- 2025-03-15 - 2025-03-21: IETF 122 Bangkok --
-
-** NOTE: Meeting time changes to 0600 Pacific after IETF 122 **
-
-- 2025-04-02: IAB Business Meeting
-- 2025-04-09: IAB Business Meeting (Reserved)
 - 2025-04-16: IAB Business Meeting
-- 2025-04-23: IAB Technical Discussion (Reserved)
-- 2025-04-30: IAB Business Meeting
-- 2025-05-07: IAB Business Meeting (Reserved)
-- 2025-05-14: IAB Business Meeting
-- 2025-05-21: IAB Technical Discussion (Reserved)
-- 2025-05-28: IAB Business Meeting
-- 2025-06-04: IAB Business Meeting (Reserved)
-- 2025-06-11: IAB Business Meeting
+- 2025-05-14: IAB Business Meeting (Reserved)
 
 -- 2025-06-16 - 2025-06-20: IAB/IESG Retreat --
 
-- 2025-06-25: IAB Business Meeting (Reserved)
-- 2025-07-02: IAB Business Meeting
-- 2025-07-09: IAB Technical Discussion (Reserved)
-
 -- 2025-07-19 - 2025-07-25: IETF 123 Madrid --
 
+- 2025-08-27: IAB Business Meeting (Reserved)
+- 2025-09-24: IAB Business Meeting
+    - ISE Selection Process
+- 2025-10-22: IAB Business Meeting (Reserved)
+
+-- 2025-11-01 - 2025-11-07: IETF 124 Montreal --
+
+- 2025-12-17: IAB Business Meeting
+    - ISE, IESG slate, start ISOC BoT
+- 2026-01-14: IAB Business Meeting (Reserved)
+- 2026-02-18: IAB Business Meeting 
+    - ISOC BOT Vote
+    
+-- 2026-03-14 - 2026-03-20: IETF 125 --
 
 ## Future Unscheduled Topics 
 
@@ -154,7 +151,6 @@ In Progress:
 
 ## Planned IRTF RG Reviews 
 
-* IETF 122: DINRG
 * IETF 123: ICNRG
 
 ## Past Teleconferences 
