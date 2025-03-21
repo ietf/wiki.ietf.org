@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-03-17T09:09:17.907Z
+date: 2025-03-21T02:37:41.933Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -25,7 +25,7 @@ dateCreated: 2025-02-25T01:55:41.779Z
 ### Issues from -02 
 Technical issues resolved: #1 resolved,  #2 partially resolved 
 
-### Technical issues 
+### Technical issues in -03 
 #### Issue 1: Security section 
 
 >  old text:/   The security requirements and mechanisms 
