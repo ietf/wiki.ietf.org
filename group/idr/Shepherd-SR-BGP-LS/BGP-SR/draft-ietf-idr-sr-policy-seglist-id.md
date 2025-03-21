@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-03-21T02:57:33.636Z
+date: 2025-03-21T05:29:27.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -13,7 +13,7 @@ dateCreated: 2025-02-25T01:55:41.779Z
 ## Summary 
 **draft:**  [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-seglist-id) 
 **Type:** Proposed Standard 
-**status:** WG Draft  
+**status:** WG Draft. needs revision 
 **adopted:**  11/6/2024 
 **current version:** 03 (published 2/24/2025) 
 **Early Allocation**: yes, need early allocation 
@@ -22,6 +22,9 @@ dateCreated: 2025-02-25T01:55:41.779Z
 
 
 ## Revision -03 
+**status:**  Needs revision
+**email: **https://mailarchive.ietf.org/arch/msg/idr/ZoOmSG_E48FiW-e5GsW4_bWd4hs/
+
 ### Issues from -02 
 Technical issues resolved: #1 resolved,  #2 partially resolved 
 
