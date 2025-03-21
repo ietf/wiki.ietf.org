@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2025-02-26T02:48:19.406Z
+date: 2025-03-21T05:25:22.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **draft:**  [draft-ietf-idr-sr-policy-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/)
 **Type:** Proposed Standard 
 **WG status:** Individual draft   
-**call for adoption:** authors feel ready 
+**call for adoption:** authors feel ready, need to check Spring Document.  
 **current version:** 03 
 **spring document**: draft-chen-spring-sr-policy-cp-validity 
 **Early Allocation**: needs early allocation 
@@ -25,12 +25,16 @@ dateCreated: 2025-02-25T14:26:50.442Z
 ## Review -03 (pending)
 
 **draft:** [draft-ietf-idr-sr-policy-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-sr-policy-cp-validity-03)
-**Status**: Review pending  
+**Status**: All issues in shepherd review of -02 resolved.  TEA template check    
 **implementations:** unknown 
 **email:** pending 
 **Authors:** 5 
 
-**ETA for Review**: 2/26/2025 
+### Status of previous reviews
+All issues mentioned in shepherd review-02 have been resolved. 
+
+### Technical Issues 
+
 
 
 ## Review -02 
