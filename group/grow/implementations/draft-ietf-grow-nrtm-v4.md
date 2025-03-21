@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-21T11:19:00.067Z
+date: 2025-03-21T11:20:02.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -56,12 +56,12 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | If there have been no changes to the IRR objects since the last snapshot, the mirror server MUST NOT generate a new snapshot (3.3.2) | ?? | ?? |
 | URL where the Snapshot File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.2) | yes | yes |
 | The UNF MUST be updated to include the new snapshot, if one was generated (3.3.2) | yes | yes |
-| SHOULD continue to produce Delta Files during this (snapshot update) window, which means the server MAY publish a Snapshot File with a version number older than the most recent Delta File at the time of publication (3.3.2) | yes/yes | ?? |
-| UNF must be updated when a new Delta or Snapshot File is published and, even if there have been no changes, at least every 24 hours (3.3.3) | yes | ?? |
-| MAY have a policy that restricts the publication of certain IRR objects or attributes, or modifies these before publication (3.3.4)  | yes | ?? |
-| RECOMMENDED to modify objects in such a way that this change is evident to humans reading the object text (3.3.4)  | yes | ?? |
-| RECOMMENDED to remove password hashes from the auth lines in mntner objects (3.3.4) | yes | ?? |
-| a policy that restricts or modifies object publication, this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified. | yes | ?? |
+| SHOULD continue to produce Delta Files during this (snapshot update) window, which means the server MAY publish a Snapshot File with a version number older than the most recent Delta File at the time of publication (3.3.2) | yes/yes | yes |
+| UNF must be updated when a new Delta or Snapshot File is published and, even if there have been no changes, at least every 24 hours (3.3.3) | yes | yes |
+| MAY have a policy that restricts the publication of certain IRR objects or attributes, or modifies these before publication (3.3.4)  | yes | yes |
+| RECOMMENDED to modify objects in such a way that this change is evident to humans reading the object text (3.3.4)  | yes | yes |
+| RECOMMENDED to remove password hashes from the auth lines in mntner objects (3.3.4) | yes | yes |
+| a policy that restricts or modifies object publication, this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified. | yes | yes |
 {.dense}
 
 
