@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-02-25T02:15:55.443Z
+date: 2025-03-21T02:16:00.225Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -23,8 +23,60 @@ dateCreated: 2025-02-25T00:09:15.826Z
 
 ## Review -10 
 draft: [draft-ietf-idr-sr-policy-path-mtu-10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-mtu-10)
-Summary: Revision 10 resolves all the issues listed in the shepherd report. 
-Needs Template Revisions:  yes
+**Summary: **Revision 10 resolves all the issues listed in the shepherd report. 
+**Needs Template Revisions: ** yes
+
+### Technical issue 
+#### Issue-1: Specify IANA assignments in TBDnnn format, in section 3 + 6 
+
+**Section 3: **
+
+> Old text: /Type: to be assigned by IANA./
+{.is-info}
+
+> New text: /Type: TBD1 (to be assigned by IANA). 
+{.is-info}
+
+**Section 6: **
+> Old text:/
+>  TBA     Path MTU sub-TLV                            This document/
+{.is-info}
+
+ 
+>  Next text:/
+>  TBD1     Path MTU sub-TLV                            This document/
+{.is-info}
+
+#### Issue-2 - Sub-TLV link to TLVs in TEA 
+
+Can the Path-MTU appear in any other TEA TLV than SR Policy? 
+
+I believe the answer is "no", but the document needs to state 
+**
+New text for section 4:/**
+> "This document specifies the Path-MTU Sub-TLV to appear only in the SR Policy TLV of
+> the Tunnel Encapsulation Attribute (TEA).  Any other use of the Path-MTU sub-TLV is 
+> outside the scope of this document. / 
+{.is-info}
+
+#### Issue-3 - Section 4, Does this Sub-TLV play a part of the validation 
+
+Please state clearly that this Sub-TLV does not play a part of BGP's validation of this 
+tunnel, but that the tunnel 
+
+current text:/ The consumer of the SR policies is not the BGP process. The operation of sending information to consumers is out of scope of this document./ 
+
+New text:/ The consumer of the SR policies is not the BGP process.  The bgp process does not validate
+the tunnel based on the SR Policy information (including the Path MTU Sub-TLV). 
+
+The operation of sending information to consumers is out of scope of this document. / 
+
+
+
+
+
+
+
 
 
 ## Review -09 
