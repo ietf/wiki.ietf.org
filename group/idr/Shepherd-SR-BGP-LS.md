@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-03-21T05:59:46.469Z
+date: 2025-03-21T06:05:18.423Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -56,7 +56,7 @@ none
 
 - [draft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/)  - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-lin-idr-sr-policy-admin-flags) - **pending 01**
 
-- [draft-liu-idr-srv6-segment-list-optimize](https://datatracker.ietf.org/doc/draft-liu-idr-srv6-segment-list-optimize/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-segment-list-optimize)
+- [draft-liu-idr-sr-segment-list-optimize](https://datatracker.ietf.org/doc/draft-liu-idr-sr-segment-list-optimize/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-segment-list-optimize)
 
 - [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext)
 
