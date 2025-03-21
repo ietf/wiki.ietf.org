@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2025-03-21T05:25:22.659Z
+date: 2025-03-21T05:47:11.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 # Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
  
  ## Summary 
-**draft:**  [draft-ietf-idr-sr-policy-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/)
+**draft:**  [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/)
 **Type:** Proposed Standard 
 **WG status:** Individual draft   
 **call for adoption:** authors feel ready, need to check Spring Document.  
@@ -22,18 +22,55 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **bgp-ls draft:** none
 
 
-## Review -03 (pending)
+## Review -03
 
-**draft:** [draft-ietf-idr-sr-policy-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-sr-policy-cp-validity-03)
+**draft:** [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-sr-policy-cp-validity-03)
 **Status**: All issues in shepherd review of -02 resolved.  TEA template check    
 **implementations:** unknown 
 **email:** pending 
 **Authors:** 5 
 
-### Status of previous reviews
+### Status of -02 shepherd review 
 All issues mentioned in shepherd review-02 have been resolved. 
 
-### Technical Issues 
+### Technical Issues in -03 
+#### issue-1: Better form for IANA type 
+
+**Section 3:**
+old text:/ 
+   /Type: to be assigned by IANA./
+   
+New text:/ 
+     /Type: TBD1 (to be assigned by IANA)./ 
+
+**section 5:**
+
+Old text:/
+   TBD    CP Validity Sub-TLV       This document/
+New text:/
+   TBD1    CP Validity Sub-TLV       This document/
+   
+#### Issue-2: TEA template checks. 
+
+1. Can this Sub-TLV go in any other Tunnel-Encaps Attribute TLV than SR Policy? 
+I suspect the answer to this question is "no".  You simply need to specify this in section 2 or 3. 
+
+2. This sub-TLV provides a role in validating and choosing Active SR Policy paths from candidate paths
+
+This validation is not at the BGP peer, but in the SRPM.  Your text needs to indicate this point. 
+Section 4 should indicate that it is the SRPM in the headend that is making use of this Sub-TLV. 
+
+3. You need to create a manageability section 
+
+Consider two questions: 
+- 3-a) Would setting configuration by Yang module  
+
+If the headend uses configuration to set these values, should a Yang module be created that 
+augments BGP SR imnplementations?  You do not have to create the module, merely indicate that it is useful. 
+
+- 3-b) Monitoring of the information by BGP-LS 
+
+If bgp-ls would be helpful in monitoring the the headend setting of this value, please indicate how it would be useful. 
 
 
 
