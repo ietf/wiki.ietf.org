@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-21T10:41:04.240Z
+date: 2025-03-21T10:50:22.108Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -40,14 +40,14 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | configuration options SHOULD be clearly named to indicate that they are private keys (3.1) | yes | yes |
 | MUST follow the initialization steps upon the first export ..., or if the server ...  can not reliably produce a continuous set of deltas from a previous state (3.2) | yes | yes |
 | (on reinitialization) The mirror server MUST generate a new session ID (3.2) | yes | yes |
-| (on reinitialization) server MUST generate a snapshot for version number one (3.2) | yes | yes nnnm |
-| (on reinitialization) server MUST generate a new UNF with the new session ID, a reference to the new snapshot, and no deltas | yes | ?? |
-| Changes to IRR objects MUST be recorded in Delta Files (3.3.1) | yes | ?? |
-| MUST publish a Delta File approximately every minute, if there have been changes ... (3.3.1) | yes | ?? |
-| If multiple changes have occurred within the time frame that would cancel each other out ... MUST still include all these changes (3.3.1) | yes | ?? |
-| if lagging in production of Delta Files ... MUST generate one larger "catch up" Delta File (3.3.1) | yes | ?? |
-| A new Delta File MUST be generated with a new version, one greater than the last Delta File version, or one greater than the last Snapshot File version if there were no prior deltas at all (3.3.1) | yes | ?? |
-| The Delta File MUST include all changes that happened during the time frame, in the order in which they occurred. (3.3.1) | yes | ?? |
+| (on reinitialization) server MUST generate a snapshot for version number one (3.2) | yes | yes |
+| (on reinitialization) server MUST generate a new UNF with the new session ID, a reference to the new snapshot, and no deltas | yes | yes |
+| Changes to IRR objects MUST be recorded in Delta Files (3.3.1) | yes | yes |
+| MUST publish a Delta File approximately every minute, if there have been changes ... (3.3.1) | yes | yes |
+| If multiple changes have occurred within the time frame that would cancel each other out ... MUST still include all these changes (3.3.1) | yes | yes |
+| if lagging in production of Delta Files ... MUST generate one larger "catch up" Delta File (3.3.1) | yes | yes |
+| A new Delta File MUST be generated with a new version, one greater than the last Delta File version, or one greater than the last Snapshot File version if there were no prior deltas at all (3.3.1) | yes | yes |
+| The Delta File MUST include all changes that happened during the time frame, in the order in which they occurred. (3.3.1) | yes | yes |
 | The URL where the Delta File is published MUST contain the session ID and version number ... It MUST also contain a random value that can not be predicted before publication (3.3.1) | yes | ?? |
 | After generating a new Delta File, a mirror server SHOULD remove all Delta Files older than 24 hours (3.3.1) | yes | ?? |
 | The UNF MUST be updated to include the new Delta File and update the database version (3.3.1) | yes | ?? |
