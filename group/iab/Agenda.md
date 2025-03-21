@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-03-21T11:02:21.679Z
+date: 2025-03-21T11:03:12.876Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -96,11 +96,6 @@ In Progress:
     IAB Shepherds: Suresh Krishnan, Mirja Kühlewind
     IAB Reviewer: Wes Hardaker
 
-*  **Update to IANA Considerations (IANABIS)**
-    Area: GEN
-    Approved pending the naming of chairs
-    IESG Telechat: (not on agenda)
-    IAB Reviewer: Mirja Kühlewind
     
 
 #### 1.7 IAB Appointments
