@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-06T21:17:09.282Z
+date: 2025-03-21T10:41:04.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -36,11 +36,11 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | |IRRD | RIPE NCC Whois |
 |-|-|-|-|
 | published public key MUST be encoded in PEM (3.1) | yes | yes |
-| RECOMMENDED that implementations provide easily accessible tools for operators to generate new signing keys ... and assist with key rotation (3.1) | yes | ?? |
-| configuration options SHOULD be clearly named to indicate that they are private keys (3.1) | yes | ?? |
-| MUST follow the initialization steps upon the first export ..., or if the server ...  can not reliably produce a continuous set of deltas from a previous state (3.2) | yes | ?? |
-| (on reinitialization) The mirror server MUST generate a new session ID (3.2) | yes | ?? |
-| (on reinitialization) server MUST generate a snapshot for version number one (3.2) | yes | ?? |
+| RECOMMENDED that implementations provide easily accessible tools for operators to generate new signing keys ... and assist with key rotation (3.1) | yes | yes |
+| configuration options SHOULD be clearly named to indicate that they are private keys (3.1) | yes | yes |
+| MUST follow the initialization steps upon the first export ..., or if the server ...  can not reliably produce a continuous set of deltas from a previous state (3.2) | yes | yes |
+| (on reinitialization) The mirror server MUST generate a new session ID (3.2) | yes | yes |
+| (on reinitialization) server MUST generate a snapshot for version number one (3.2) | yes | yes nnnm |
 | (on reinitialization) server MUST generate a new UNF with the new session ID, a reference to the new snapshot, and no deltas | yes | ?? |
 | Changes to IRR objects MUST be recorded in Delta Files (3.3.1) | yes | ?? |
 | MUST publish a Delta File approximately every minute, if there have been changes ... (3.3.1) | yes | ?? |
