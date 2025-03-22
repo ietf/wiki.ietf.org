@@ -2,7 +2,7 @@
 title: IAB 2025-2026 Schedule
 description: Schedule for IAB meetings from March 2025-March 2026
 published: true
-date: 2025-03-22T04:34:35.383Z
+date: 2025-03-22T11:02:27.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T04:33:05.299Z
@@ -12,7 +12,7 @@ dateCreated: 2025-03-22T04:33:05.299Z
 
 * IAB calendar: [Subscribe](https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics)
 
-This is the schedule for the IAB Full Board meetings between IETF 122 (March 2025) and IETF 125 (March 2026).
+This is the schedule for the IAB Full Board meetings between IETF 122 (March 2025) and IETF 125 (March 2026). This schedule follows the [committee model](/group/iab/committee-model) of meeting.
 
 The IAB will hold in-person Full Board Meetings at IETF meetings, during the IAB retreat, and virtually.
 
