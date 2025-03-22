@@ -2,7 +2,7 @@
 title: IAB 2025-2026 Schedule
 description: Schedule for IAB meetings from March 2025-March 2026
 published: true
-date: 2025-03-22T11:02:27.588Z
+date: 2025-03-22T11:04:24.191Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T04:33:05.299Z
@@ -24,10 +24,10 @@ Committees of the IAB will hold meetings between Full Board Meetings. These meet
 
 | Dates             | Time              | Location      | Key Agenda Items        |
 | ----------------- | ----------------- | ------------- | ----------------------- |
-| 16 April 2025     | 13:00-15:00 UTC   | Virtual       | Kick off committee work |
+| 16 April 2025     | 13:00-15:00 UTC   | Virtual       | Kick off [committee work](/group/iab/committee-model) |
 | *14 May 2025*     | *13:00-15:00 UTC* | *Virtual*     | *Reserved*              |
-| 16-18 June 2025   | 13:00-15:00 UTC   | Toronto       | Retreat, finalize NomCom job descriptions |
-| 20-24 July 2025   | TBD               | Madrid        | IETF 123                |
+| 16-18 June 2025   | 13:00-15:00 UTC   | Toronto       | [Retreat](/group/iab/2025_Retreat), finalize NomCom job descriptions |
+| 20-24 July 2025   | TBD               | Madrid        | [IETF 123](/meeting/123)                |
 | *27 August 2025*  | *13:00-15:00 UTC* | *Virtual*     | *Reserved*              |
 | 24 September 2025 | 13:00-15:00 UTC   | Virtual       | Start ISE nominations process  |
 | *22 October 2025* | *13:00-15:00 UTC* | *Virtual*     | *Reserved*              |
