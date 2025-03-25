@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-03-05T17:19:50.302Z
+date: 2025-03-25T14:51:14.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -48,6 +48,7 @@ Banff Room, 29th floor
 - Outreach Planning (Dhruv)
 - Inclusive Language / Clarity of Language
 - Reliance on NIST documents
+- Potential 2Q2025-1Q2026 IAB Workshops
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
