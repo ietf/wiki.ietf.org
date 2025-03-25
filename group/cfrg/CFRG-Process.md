@@ -2,7 +2,7 @@
 title: Crypto Forum Research Group Process
 description: Overview of CFRG process and best practices
 published: true
-date: 2025-03-25T13:23:17.757Z
+date: 2025-03-25T13:40:29.550Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-28T23:01:58.095Z
@@ -22,9 +22,9 @@ dateCreated: 2022-12-28T23:01:58.095Z
 	- [Expert Reviewer Expectations](#expert-reviewer-expectations)
 	- [General Public Expectations](#general-public-expectations)
 - [Conclusion](#conclusion)
-
-- [Appendix A: Examples of CFRG Work: Successes and Non-Adoptions](#appendix-a)
-- [Appendix B: Appendix B: Tips for Contributors: How to Engage Effectively](#appendix-b)
+- [Appendices](#appendices)
+	- [Appendix A: Examples of CFRG Work: Successes and Non-Adoptions](#appendix-a)
+	- [Appendix B: Appendix B: Tips for Contributors: How to Engage Effectively](#appendix-b)
 
 ## Introduction
 
@@ -74,7 +74,7 @@ Some characteristics that increase the chance of adoption:
 
 - The proposal is backed up with solid research or evidence (for instance, a security proof, or prior peer-reviewed publication). CFRG heavily values cryptographic soundness and academic consensus. Proponents are encouraged to present candidate mechanisms along with corresponding security analyses or proofs before adoption.
 
-- The scope is well-defined. The chairs might have a “scoping” discussion to ensure everyone agrees on what problems the draft will and won’t address. It’s important to avoid taking on something too vague or too broad that can’t be handled within a reasonable time.
+- The scope is well-defined. The chairs might have a “scoping” discussion to ensure everyone agrees on what problems the draft will and won’t address. It’s important to avoid taking on something too vague or too broad that can’t be handled within a reasonable time. Proponents should clearly define the problem's scope, objectives, and intended outcomes. The initial consensus on scope is critical for the smooth progression of work.
 
 If the adoption call concludes with rough consensus to adopt a problem/topic and the scoping of this problem/topic includes adopting a pre-existing Individual-Draft, that document is adopted as a CFRG work item. The draft name usually changes from `draft-yourname-cfrg-topic` to `draft-irtf-cfrg-topic`, indicating it’s now an official RG document.
 
@@ -96,6 +96,12 @@ After adoption, the real work begins! In this phase, the draft is an official CF
 
 Throughout this phase, the chairs will be ultimately responsible for monitoring consensus, but in practice rely on the editors to resolve disagreements and act as honest arbiters of consensus. The editors can and should draw chairs’ attention to issues and possible changes of direction. They may periodically ask on the list if the group is happy with the direction or if specific choices in the draft have consensus. It’s important as a contributor to **engage constructively**: respond to reviews (even critical ones) professionally, make changes where appropriate, and explain your reasoning where you choose an approach. Remember, the goal is to produce a document that the *whole group* can live with and that provides useful guidance to the broader community.
 
+### Changing Scope
+
+If subsequent discussion, review, or newly introduced work introduces significant changes that shift consensus on the adopted topic’s original scope, editors must explicitly bring this to the attention of the CFRG chairs and working group participants. A formal discussion should be initiated to determine if the group supports these changes. If necessary, the chairs will facilitate a re-scoping conversation to realign consensus and clarify the document’s direction.
+
+In cases where substantial scope changes occur, document editors should **actively coordinate with editors of related or impacted documents** to ensure alignment and consistency across CFRG’s work. Editors are encouraged to collaboratively refactor content when appropriate, clearly communicating these adjustments to the broader group to maintain transparency and facilitate group-wide consensus.
+
 ## Research Group Last Call (RGLC) {#research-group-last-call}
 
 When the draft has matured – i.e., the content is believed to be stable, and there’s general agreement in the group on its recommendations – the chairs will initiate a **Research Group Last Call (RGLC)**. This is analogous to a “last call” in IETF working groups. It’s a final checkpoint where the **entire research group is asked to review the document and speak up with any remaining issues or endorsements.** The goal is to determine if there is rough consensus that the document is ready for publication as an RFC.
@@ -106,7 +112,7 @@ During RGLC, an announcement is sent to the mailing list (typically with a subje
 
 - **Required reviews:** The chairs will usually insist that at least one or two *Crypto Review Panel* members review the draft during RGLC (if it hasn’t happened already). This ensures an extra level of expert scrutiny. In practice, the chairs might say “we need at least one panel review and a few RG folks to explicitly support before we consider the last call passed.” Having broad feedback gives confidence that the document has been vetted.
 
-- **Addressing last call comments:** If during RGLC someone raises an issue (or suggests improvements), the editors should respond and, if needed, update the draft. All **RGLC comments must be resolved** to the chairs’ satisfaction before moving forward ([Crypto Forum Research Group Process | IETF Community Wiki](https://wiki.ietf.org/group/cfrg/CFRG-Process#:~:text=The%20CFRG%20chairs%20require%20at,RGLC%20comments%20before%20the)). This might result in a new draft version (e.g., -09 -> -10) to fix minor issues discovered.
+- **Addressing last call comments:** If during RGLC someone raises an issue (or suggests improvements), the editors should respond and, if needed, update the draft. All **RGLC comments must be resolved** to the chairs’ satisfaction before moving forward. This might result in a new draft version (e.g., -09 -> -10) to fix minor issues discovered.
 
 - **Outcome of RGLC:** After the last call period, if the chairs determine that consensus has been reached, they will declare the RGLC successful. This means the research group endorses the document. If consensus was not reached – perhaps significant objections came in or not enough reviews/support for the finalization of the proposal were shared on the list – the document might require more work and possibly another RGLC later.
 
@@ -199,9 +205,11 @@ Note that the guidelines and expectations listed below are only a guide and do n
 
 ## Conclusion
 
-The Crypto Forum Research Group plays a pivotal role within the cryptographic and broader Internet standards community by bridging rigorous academic research with practical engineering requirements. Its structured yet flexible process—from clearly defining relevant cryptographic problems and thoroughly evaluating proposals to methodically refining drafts through community engagement—ensures that outputs from CFRG are reliable, secure, and practically useful for the Internet ecosystem. Effective CFRG contributions require clear problem definitions directly tied to IETF or Internet protocol needs, appropriate research maturity, and active collaboration with the cryptographic community.
+The Crypto Forum Research Group plays a valuable role within the cryptographic and broader Internet standards community by bridging rigorous academic research with practical engineering requirements. Its structured yet flexible process—from clearly defining relevant cryptographic problems and thoroughly evaluating proposals to methodically refining drafts through community engagement—ensures that outputs from CFRG are reliable, secure, and practically useful for the Internet ecosystem. Effective CFRG contributions require clear problem definitions directly tied to IETF or Internet protocol needs, appropriate research maturity, and active collaboration with the cryptographic community.
 
 Ultimately, the CFRG process embodies a careful balance between innovation and caution. Contributors should approach CFRG as a collaborative environment that thrives on openness, patience, thorough cryptographic vetting, and well-defined applicability to real-world protocols.
+
+# Appendices
 
 ## Appendix A: Examples of CFRG Work: Successes and Non-Adoptions {#appendix-a}
 
