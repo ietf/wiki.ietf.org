@@ -2,7 +2,7 @@
 title: Crypto Forum Research Group Process
 description: Overview of CFRG process and best practices
 published: true
-date: 2025-03-25T13:21:23.561Z
+date: 2025-03-25T13:23:17.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-28T23:01:58.095Z
@@ -17,7 +17,7 @@ dateCreated: 2022-12-28T23:01:58.095Z
 - [Research Group Last Call (RGLC)](#research-group-last-call)
 - [CFRG Document Publishing Process](#cfrg-document-publishing-process)
 - [Guidelines and Expectations](#guidelines-and-expectations)
-	- [Author/Editor Guidelines and Expectations](#author-editor-guidelines-and-expectations)
+	- [Editor/Author Guidelines and Expectations](#editor-author-guidelines-and-expectations)
 	- [Contributor Expectations](#contributor-expectations)
 	- [Expert Reviewer Expectations](#expert-reviewer-expectations)
 	- [General Public Expectations](#general-public-expectations)
@@ -145,7 +145,7 @@ The RFC editor finalizes and publishes the document. Editors must actively commu
 Note that the guidelines and expectations listed below are only a guide and do not comprehensively cover the roles. For detailed guidance on broader IRTF procedures, refer to [RFC 2014 (IRTF Research Group Guidelines and Procedures)](https://datatracker.ietf.org/doc/rfc2014/), [RFC 5743 (Definition of an IRTF Document Stream)](https://datatracker.ietf.org/doc/rfc5743/), [RFC 7418 (IRTF Primer for IETF Participants)](https://datatracker.ietf.org/doc/rfc7418/), and [RFC 7827 (The Role of the RFC Series)](https://datatracker.ietf.org/doc/rfc7827/).
 
 
-### Author/Editor Guidelines and Expectations
+### Editor/Author Guidelines and Expectations {#editor-author-guidelines-and-expectations}
 
 - Actively engage and respond promptly to feedback. Failure to collaborate may result in removal as editor.
 
