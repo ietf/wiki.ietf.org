@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-03-07T13:48:31.433Z
+date: 2025-03-26T16:44:15.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -15,6 +15,16 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### March 2025 (Bangkok) [YouTube](https://youtu.be/XcadEqqFDQA?t=3m11s) [intro slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave)
+
+- Hackathon IPv6 Test Pod Open Testing and Call for HAPPY Measurements [YouTube](https://youtu.be/XcadEqqFDQA?t=5m57s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave), David Plonka, March 2025
+- Progress Yet to Be Fulfilled: Measuring Collateral Damage in RPKI ROV [YouTube](https://youtu.be/XcadEqqFDQA?t=9m13a) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-progress-yet-to-be-fulfilled-measuring-collateral-damage-in-rpki-rov), Weitong Li, March 2025
+- To Adopt or Not to Adopt L4S-Compatible Congestion Control? Understanding Performance in a Partial L4S Deployment [YouTube](https://youtu.be/XcadEqqFDQA?t=26m33s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment), Fatih Berkay Sarpkaya, March 2025
+- A Deep Dive into LEO Satellite Topology Design Parameters [YouTube](https://youtu.be/XcadEqqFDQA?t=49m53s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-a-deep-dive-into-leo-satellite-topology-design-parameters), Wenyi Zhang, March 2025
+- Characterizing Anycast Flipping: Prevalence and Impact [YouTube](https://youtu.be/XcadEqqFDQA?t=1h9m27s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-characterizing-anycast-flipping-prevalence-and-impact), Xiao Zhang, March 2025
+- Simulation study of Quality of Outcome scores in challenging network conditions [YouTube](https://youtu.be/XcadEqqFDQA?t=1h27m5s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-simulation-study-of-quality-of-outcome-scores-in-challenging-network-conditions), Bjørn Ivar Teigen Monclair, March 2025
+- HTTP Conformance vs. Middleboxes: Identifying Where the Rules Actually Break Down [YouTube](https://youtu.be/XcadEqqFDQA?t=1h44m40s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-http-conformance-vs-middleboxes-identifying-where-the-rules-actually-break-down), Mahmoud Attia, March 2025
 
 ### November 2024 (Dublin) [YouTube](https://youtu.be/rFAD1j70WoQ?t=1m52s) [intro slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-maprg-intro-mirjadave)
 
