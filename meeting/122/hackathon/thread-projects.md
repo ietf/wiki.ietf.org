@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-03-11T21:10:38.137Z
+date: 2025-03-26T16:19:51.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T02:15:36.611Z
@@ -31,6 +31,8 @@ Stuart Cheshire (Apple)
 Ted Lemon (Apple)
 
 - **Project Info**
+
+  - **Support DNS Multiple QTYPEs in OpenThread.** Currently OpenThread will put two questions in the same DNS message by setting QDCOUNT to 2. This is not ideal for a number of reasons that DNS experts have talked about for years, which is why standard DNS clients and servers do not do this. We need to switch OpenThread (both client side and server side) to use the [IETF-supported](https://datatracker.ietf.org/doc/html/draft-ietf-dnssd-multi-qtypes) way of combining multiple questions into a single DNS query, This would be a great starter project for someone learning OpenThread programming.
 
   - **SSH daemon for OpenThread.** Historically the way engineers interact with Thread developer boards has been by physically plugging them into a computer’s USB port and using a serial port console program to access OpenThread’s command-line interface. Now that OpenThread includes TCP support (contributed by [Sam Kumar](https://www.samkumar.org/)) it becomes feasible to access the same command-line interface over the network using ssh. The goal of this project is to identify a compact implementation of ssh suitable for constrained embedded devices, and integrate that into OpenThread. Particularly for testbeds with hundreds of Thread devices, being able to log in and transfer log files using the network is much better than needing hundreds of USB cables to connect all the devices to a computer.
 
