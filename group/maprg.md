@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-03-26T16:44:15.469Z
+date: 2025-03-26T16:46:01.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -19,7 +19,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 ### March 2025 (Bangkok) [YouTube](https://youtu.be/XcadEqqFDQA?t=3m11s) [intro slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave)
 
 - Hackathon IPv6 Test Pod Open Testing and Call for HAPPY Measurements [YouTube](https://youtu.be/XcadEqqFDQA?t=5m57s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave), David Plonka, March 2025
-- Progress Yet to Be Fulfilled: Measuring Collateral Damage in RPKI ROV [YouTube](https://youtu.be/XcadEqqFDQA?t=9m13a) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-progress-yet-to-be-fulfilled-measuring-collateral-damage-in-rpki-rov), Weitong Li, March 2025
+- Progress Yet to Be Fulfilled: Measuring Collateral Damage in RPKI ROV [YouTube](https://youtu.be/XcadEqqFDQA?t=9m13s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-progress-yet-to-be-fulfilled-measuring-collateral-damage-in-rpki-rov), Weitong Li, March 2025
 - To Adopt or Not to Adopt L4S-Compatible Congestion Control? Understanding Performance in a Partial L4S Deployment [YouTube](https://youtu.be/XcadEqqFDQA?t=26m33s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment), Fatih Berkay Sarpkaya, March 2025
 - A Deep Dive into LEO Satellite Topology Design Parameters [YouTube](https://youtu.be/XcadEqqFDQA?t=49m53s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-a-deep-dive-into-leo-satellite-topology-design-parameters), Wenyi Zhang, March 2025
 - Characterizing Anycast Flipping: Prevalence and Impact [YouTube](https://youtu.be/XcadEqqFDQA?t=1h9m27s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-characterizing-anycast-flipping-prevalence-and-impact), Xiao Zhang, March 2025
