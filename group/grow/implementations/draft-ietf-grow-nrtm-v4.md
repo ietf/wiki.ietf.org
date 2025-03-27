@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-27T09:19:17.863Z
+date: 2025-03-27T09:27:29.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -99,12 +99,12 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | A mirror client SHOULD be able to handle unknown object classes and objects that are invalid according to its own validation rules (8.1) | yes | yes | yes |
 | RECOMMENDED for mirror clients to log these cases (8.1) | yes | yes | yes |
 | RECOMMENDED for mirror clients to be flexible where possible and reasonable when applying their own validation rules to IRR objects retrieved from mirror servers (8.1) | yes | yes | yes |
-| (for intermediate instances, if supported) they MUST have separate session IDs. The intermediate server MUST NOT republish the same files it retrieved from the authoritative source with the same session ID (8.2) | yes/yes | ?? | N/A |
+| (for intermediate instances, if supported) they MUST have separate session IDs. The intermediate server MUST NOT republish the same files it retrieved from the authoritative source with the same session ID (8.2) | yes/yes | N/A | N/A |
 | implementations MAY also support reading from files on the local filesystem (8.3) | yes | N/A | N/A |
 | (local files) SHOULD still follow all validation rules, including the validation of the signature and hashes (8.3) | yes | N/A | N/A |
 | (for key rotation) MUST include this key in the next_signing_key field in any UNF generated while the new signing key is configured (8.4) | yes | yes | N/A |
 | MAY offer a method to cause the Notification Update File to be refreshed earlier (8.4)  | no | no | N/A |
-| When mirror clients next retrieve the UNF, they MUST detect the next_signing_key field, and store the key (8.4) | yes | ?? | yes |
+| When mirror clients next retrieve the UNF, they MUST detect the next_signing_key field, and store the key (8.4) | yes | no | yes |
 | (after rotation) Any UNF generated after this point MUST be signed with this new key, and will not contain a next_signing_key field (8.4) | yes | yes | N/A |
 | RECOMMENDED period between publication of the upcoming key in the next_signing_key field, and removal of the old key, is one week (8.4) | N/A, manual operator process | yes | N/A |
 | When mirror clients retrieve an UNF and find that the signature does not match, they MUST attempt to verify against a next_signing_key encountered in a previous (valid) file. If the signature matches for this new key, the client MUST update its configuration to use the new key for validation. After this, the client MUST NOT use the old key for validation at any time: a mirror server can not switch back to an old key (8.4) | yes/yes/yes | no/no/no | no/no/no |
