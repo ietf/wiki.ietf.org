@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-03-26T12:47:32.324Z
+date: 2025-03-27T09:19:17.863Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -88,7 +88,7 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 | Every time a mirror client retrieves a new version of the UNF, it MUST verify the included signature (4.4) | yes | yes | yes |
 | The signature MUST be valid for the configured public key for the contents of the UNF (4.4) | yes | yes | yes |
 | If the signature does not match, the mirror client MUST reject the UNF, unless a key rotation is in progress (4.4) | yes | yes/NA | no |
-| If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | yes/no (old files are rejected) | no/yes | no/no |
+| If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | yes/no (old files are rejected) | no/no | no/no |
 | MAY have a policy that restricts the processing of objects to certain object classes, or other limitations on which objects it processes .. this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified (4.5) | yes/yes | no/no | no/no |
 {.dense}
 
