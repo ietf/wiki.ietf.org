@@ -2,7 +2,7 @@
 title: BFD WG Current Activities
 description: 
 published: true
-date: 2025-03-27T13:20:08.543Z
+date: 2025-03-27T13:20:40.111Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T21:00:31.891Z
@@ -17,7 +17,7 @@ dateCreated: 2022-07-23T21:00:31.891Z
 
 # Miscellaneous Documents
 
-* draft-ietf-bfd-large-packets - BFD encapsulated in large packets. (2020-07: Updates needed to progress.)
+* draft-ietf-bfd-large-packets - BFD encapsulated in large packets. (2024-02 At the RFC Editor.)
 * draft-ietf-bfd-stability (2024-01: Needs final reconciliation vs. secure sequence numbers document.)
 
 # Likely Upcoming Work
