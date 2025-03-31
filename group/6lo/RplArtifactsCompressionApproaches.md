@@ -2,13 +2,13 @@
 title: Summary of RPL artifact compression approaches
 description: 
 published: true
-date: 2025-03-31T18:52:45.464Z
+date: 2025-03-31T18:55:20.212Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:51:11.275Z
 ---
 
-# RPL artifacts summary
+[LICENSE](/LICENSE)# RPL artifacts summary
 Here is a summary of approaches to RPL artifact compression. There are two approaches under consideration:
 
 * NHC-based (extensions to 6lowpan (RFC6282) NHC codes) as initially described in draft-thubert-6lo-rpl-nhc
