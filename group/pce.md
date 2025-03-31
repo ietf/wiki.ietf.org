@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-31T17:04:35.637Z
+date: 2025-03-31T17:07:17.359Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -67,15 +67,15 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Manag Sec|Remarks|Action|
 | --- | --- | --- | ---|
-| [draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -12 posted on 2024-10-14 | Has Normative dependencies, thus need to wait |
+|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -12 posted on 2024-10-14 | Has Normative dependencies, thus need to wait |
 |draft-ietf-pce-circuit-style-pcep-extensions|Y|N|-07 posted on 2024-11-05|-|
-| draft-ietf-pce-entropy-label-position |N|N| -02 posted on 2024-09-19 | - |
+| draft-ietf-pce-entropy-label-position |N|N| -02 posted on 2024-09-19 |-|
 | [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -02 posted on 2024-10-20 | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -06 posted on 2025-01-03  | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -12 posted on 2024-10-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
 | draft-ietf-pce-stateful-pce-autobw-update |N|N| -01 posted on 2024-12-15 | - |
-| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
+| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | N | Y| -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
 
 
 ## WG Last Call Queue 
