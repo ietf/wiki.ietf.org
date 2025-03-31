@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-31T16:38:11.008Z
+date: 2025-03-31T16:55:14.159Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -61,6 +61,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -01 posted on 2024-10-21 | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
+
 ## WG documents that authors consider ready for LC
 
 Once the chairs have concluded the document would move to the actual WG LC queue. 
@@ -102,7 +103,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | IESG telechat: 2025-04-03; Track IANA alighment with IDR | Dhruv | Roman |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | IESG telechat: 2025-04-03; Track IANA alighment with IDR. Comments being addressed by authors. | Dhruv | Roman |
 
 
 
@@ -145,7 +146,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
-|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2024-04-25|2025-05-09|
+|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2024-04-25|2025-05-09 <br>(AD has approved +1 year extension)|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |[1]ASSOCIATION Type & TLV<br><br>[2]PCEP TLV Type, PCEP-ERROR types, TE-PATH-BINDING|[1]2021-03-30<br><br>[2]2024-02-13|[1]2024-02-16<br><br>[2] -|[1]2025-03-30<br><br>[2]2025-02-13| 
 |draft-ietf-pce-sid-algo|WG I-D| 5 allocation done.<br><br>Bandwidth related |2023-09-13<br><br>2024-07-30|2024-07-23<br><br> |2025-09-13<br><br>2025-07-30|
 |draft-ietf-pce-sr-bidir-path |WG I-D|ASSOCIATION Type code point 8|2023-11-30|2024-11-13|2025-11-30|
