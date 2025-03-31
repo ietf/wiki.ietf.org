@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-31T16:55:14.159Z
+date: 2025-03-31T17:04:35.637Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -53,7 +53,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | Remarks |Action|
 | --- | --- | --- |
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -07 posted on 2025-03-03  | Adding SRv6 support |
-| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -08 posted on 2025-03-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -07 posted on 2025-02-12  | waiting for spring draft for WGLC |
 | draft-ietf-pce-pcep-srv6-yang |  -06 posted on 2024-10-19 | - |
@@ -76,7 +75,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -12 posted on 2024-10-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
 | draft-ietf-pce-stateful-pce-autobw-update |N|N| -01 posted on 2024-12-15 | - |
-
+| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
 
 
 ## WG Last Call Queue 
