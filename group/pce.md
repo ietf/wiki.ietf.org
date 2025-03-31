@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-03-31T17:07:17.359Z
+date: 2025-03-31T17:08:10.889Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -66,7 +66,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 Once the chairs have concluded the document would move to the actual WG LC queue. 
 
 |Draft|Imp Sec|Manag Sec|Remarks|Action|
-| --- | --- | --- | ---|
+| --- | --- | --- | ---|---|
 |[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -12 posted on 2024-10-14 | Has Normative dependencies, thus need to wait |
 |draft-ietf-pce-circuit-style-pcep-extensions|Y|N|-07 posted on 2024-11-05|-|
 | draft-ietf-pce-entropy-label-position |N|N| -02 posted on 2024-09-19 |-|
@@ -83,7 +83,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 This is a queue of PCE WG I-Ds, to be last called. This is maintained to give visibility to the WG on how the documents are progressing.  
 
 |Draft | Imp Sec | Manag Sec| State | Remarks | Responsible Chair | Shepherd |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |---|
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | Y| -11 version posted on 2024-11-30 | Cleanup done | Julien | Julien |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | Y| -10 posted on 2025-01-06 | Ready for WGLC | Dhruv | - |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| Y| -15 posted on 2025-02-13  | Ready for WGLC | Dhruv | - |
