@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-04-01T05:12:04.471Z
+date: 2025-04-01T05:12:15.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -39,7 +39,7 @@ Banff Room, 29th floor
 
 #### Topics
 
-- Next retreat in Asia (Qin/Dhruv)
+- Next retreat in APAC (Qin/Dhruv)
 
 
 ## Proposed Agenda Topics
