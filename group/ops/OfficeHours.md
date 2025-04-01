@@ -2,7 +2,7 @@
 title: OPS Area Office Hours
 description: 
 published: true
-date: 2025-04-01T21:54:17.821Z
+date: 2025-04-01T21:54:45.619Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:38:43.158Z
@@ -23,5 +23,3 @@ Office hours will be supported by WEBEX. In order to join the meeting, send an e
 &nbsp;
 
 ---
-
-*The content of this page was last updated on 2013-03-13. It was migrated from the old Trac wiki on 2022-12-19.*
