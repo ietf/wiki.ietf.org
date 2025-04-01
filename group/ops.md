@@ -2,7 +2,7 @@
 title: OPS Area (Operations & Management)
 description: 
 published: true
-date: 2023-05-03T05:05:38.577Z
+date: 2025-04-01T21:58:45.919Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:25:37.192Z
@@ -19,7 +19,7 @@ We've started an [Ops reading / book recommendation list](/group/ops/OpsBooks) h
 
 ## Office Hours
 
-Warren Kumari and Rob Wilton hold irregular on-line office hours. 
+Mahesh Jethanandani and Mohamed Boucadir hold irregular on-line office hours. 
 The schedule is posted at the URL below:
 
  * [Office Hours](/group/ops/OfficeHours)
@@ -33,7 +33,7 @@ There are many ways to shoot yourself in the foot when writing an Internet Draft
 
 Note that these are just the personal views and advice from the current OpsAD - it is far from complete, feel free to send me additional pointers / ways which you've seen people trip over operational bits.
 
-RFC 5706 Appendix A. - "Guidelines for Considering Operations and Management of New Protocols and Protocol Extensions" (https://tools.ietf.org/html/rfc5706) contains a checklist which is also very helpful. 
+RFC 5706 Appendix A. - "Guidelines for Considering Operations and Management of New Protocols and Protocol Extensions" (https://tools.ietf.org/html/rfc5706) contains a checklist which is also very helpful. As a side note, we are considering this RFC for a bis. If you are interested, do let us know.
 
 
 
@@ -97,7 +97,7 @@ The MIB Doctors have produced three templates specifically aimed at drafts conta
 
 ### YANG Guidelines
 
-In forthcoming YANG reviews the YANG Doctors will be applying the Guidelines for Authors and Reviewers of YANG Data Model Documents (RFC 6087). 
+In forthcoming YANG reviews the YANG Doctors will be applying the Guidelines for Authors and Reviewers of YANG Data Model Documents (RFC 8407). 
 
 For your convenience: 
 
@@ -157,5 +157,3 @@ List of [YANG typedefs](http://www.netconfcentral.org/typedeflist).
 &nbsp;
 
 ---
-
-*The content of this page was last updated on 2022-03-23. It was migrated from the old Trac wiki on 2022-12-19.*
