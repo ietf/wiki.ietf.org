@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T07:51:20.045Z
+date: 2025-04-03T08:05:46.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -12,15 +12,16 @@ dateCreated: 2022-12-21T19:07:30.904Z
 
 | Name                 |  Email                                  |  Affiliation               |  Renewal Date       |
 |----------------------|-----------------------------------------|----------------------------|---------------------|
-|  Acee Lindem         |  acee.ietf@gmail.com                    |  LabN Consulting        |  3 April 2024   |
-|  Adrian Farrel       |  adrian@olddog.co.uk                 |  Old Dog Consulting     |  3 April 2024  |
-|  Alvaro Retana       | aretana.ietf@gmail.com                  |  Futurewei              |  3 April 2024   |
-| Andrew Alston        | 	andrew-ietf@liquid.tech                |   Liquid Labs          |  3 April 2024   |
-|  Andrew Smith        |  andsmit at cisco.com                   |  Cisco                     |  31 December 2023   |
+|  Acee Lindem         |  acee.ietf at gmail.com                    |  LabN Consulting        |  3 April 2025   |
+|  Adrian Farrel       |  adrian at olddog.co.uk                 |  Old Dog Consulting     |  3 April 2025  |
+|  Alvaro Retana       | aretana.ietf at gmail.com                  |  Futurewei              |  3 April 2025   |
+| Andrew Alston        | andrew-ietf at liquid.tech              |   Liquid Labs          |  3 April 2025   |
+|  Andrew Smith        |  andsmit at oracle.com                   |  Oracle               |  3 April 2025   |
 |  Ben Niven-Jenkins   |  ben at niven-jenkins.co.uk             |  Velocix                   |  31 December 2023   |
-|  Bruno Decraene      |  bruno.decraene at orange.com           |  Orange                    |  31 December 2023   |
-|  Carlos Pignataro    |  cpignata at cisco.com                  |  Cisco                     |  31 December 2022   |
-|  Christian Hopps     |  chopps at chopps.org                   |  LabN Consulting          |  31 December 2024   |
+|  Bruno Decraene      |  bruno.decraene at orange.com           |  Orange                    |  3 April 2025   |
+|  Carlos Pignataro    |  cpignata at gmail.com                  |  North Carolina State University                    |  3 April 2024|
+|  Cheng Li        |  c.l at huawei.com           |  Huawei                    |  3 April 2024   |
+|  Christian Hopps     |  chopps at chopps.org                   |  LabN Consulting          |   3 April 2024   |
 |  Daniele Ceccarelli  |  daniele.ietf at gmail.com     |  Cisco                  |  31 December 2024   |
 |  Dhruv Dhody         |  dhruv.ietf at gmail.com                |  Huawei                    |  31 December 2023   |
 |  Donald Eastlake     |  d3e3e3 at gmail.com                    |  FutureWei                 |  31 December 2024   |
