@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T10:24:22.395Z
+date: 2025-04-03T10:26:42.230Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -39,7 +39,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  John Scudder          |  jgs at juniper.net                  |  Juniper Networks          |  3 April 2025   |
 |  Jonathan Hardwick   |  jonathan.e.hardwick at gmail.com           |  NVIDIA                 |  3 April 2025   |
 |  Julien Meuric       |  julien.meuric at orange.com            |  Orange                    |  31 December 2024   |
-|  Linda Dunbar   |  	linda.dunbar at futurewei.com           |  Huawei       
+|  Linda Dunbar   |  	linda.dunbar at futurewei.com           |  Huawei        |  3 April 2025   |
 |  Loa Andersson       |  loa at pi.nu                           |  Bronze Dragon Consulting  |  3 April 2025   |
 |  Lou Berger          |  lberger at labn.net                    |   LabN Consulting  |  31 December 2024   |
 |  Mach Chen           |  mach.chen at huawei.com                |  Huawei                    |  3 April 2025    |
