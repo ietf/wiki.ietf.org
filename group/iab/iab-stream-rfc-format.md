@@ -2,7 +2,7 @@
 title: Format for RFCs in the IAB Stream 
 description: 
 published: true
-date: 2025-04-02T08:34:11.655Z
+date: 2025-04-03T03:57:02.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T08:34:11.655Z
@@ -79,4 +79,5 @@ ISSN: 2070-1721                                                July 2010
   participants. 
 
 ---------------------------------- 
-This is copied from the RFC editor website.
+*Contents originally from the RFC Editor website [https://www.rfc-editor.org/materials/iab-format.txt].
+Last substantive edits made 2 Oct 2018.*
