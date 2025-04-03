@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-03-19T08:54:30.609Z
+date: 2025-04-03T11:20:28.549Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -47,11 +47,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Designed and implemented L3 data path on several Alcatel-Lucent switch/router products.
  * Interested in SDN and clouds (isnt everyone these days is?)
 
-### Matthew Bocci (last updated : 17th January 2018) 
- * Co-chair of NVO3
+### Matthew Bocci (last updated : 3rd April 2025) 
+ * Co-chair of BESS, NVO3 and member of the IAB
  * Former co-chair of PWE3 and ANCP
- * Co-author of numerous Pseudowire and MPLS-TP RFCs
- * Also interested in data center networks, CCAMP, L2VPNs, control protocols, and OAM technologies
+ * Co-author of numerous Pseudowire and MPLS RFCs
+ * Also interested in data center networks, traffic engineering, L2VPNs/L3VPNs, control protocols, and OAM technologies
+ * Background in multi-service edge, aggregation and core router architecture and design
  * Extensive experience of network modelling and simulation
 ### Ron Bonica (last updated : date) 
  * Past co-chair CCAMP WG
