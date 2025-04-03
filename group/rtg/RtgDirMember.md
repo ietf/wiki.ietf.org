@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T11:21:56.131Z
+date: 2025-04-03T14:41:15.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -43,13 +43,11 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Loa Andersson       |  loa at pi.nu                           |  Bronze Dragon Consulting  |  3 April 2025   |
 |  Lou Berger          |  lberger at labn.net                    |   LabN Consulting  |  31 December 2024   |
 |  Mach Chen           |  mach.chen at huawei.com                |  Huawei                    |  3 April 2025    |
-|  Martin Vigoureux    |  martin.vigoureux at nokia.com          |  Nokia                     |  31 December 2024   |
 |  Matthew Bocci       |  matthew.bocci at nokia.com             |  Nokia                     |  3 April 2025   |
 |  Michael Richardson  |  mcr+ietf at sandelman.ca               |  Sandleman Software Works  |  3 April 2025   |
 |  Mike McBride        |  mmcbride7 at gmail.com                 |  Futurewei                    |  3 April 2025    |
 |  Mohamed Boucadair   |  mohamed.boucadair at orange.com        |  Orange                    |  31 December 2024   |
 |  Nic Leymann         |  n.leymann@telekom.de                   |  DT                        |  3 April 2025   |
-|  Ravi Singh          |  ravis at juniper.net                   |  Juniper Networks          |  31 December 2023   |
 |  Ron Bonica          |  rbonica at juniper.net                 |  Juniper Networks          |  31 December 2024   |
 |  Russ White          |  russ at riw.us or 7riw77 at gmail.com  |   Akamai Technologies                 |  3 April 2025    |
 |  Sasha Vainshtein    |  alexander.vainshtein at rbbn.com    |  ECI Telecommunications    |  31 December 2023   |
