@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2024-11-15T16:31:24.886Z
+date: 2025-04-03T07:45:36.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -12,8 +12,9 @@ dateCreated: 2022-12-21T19:07:30.904Z
 
 | Name                 |  Email                                  |  Affiliation               |  Renewal Date       |
 |----------------------|-----------------------------------------|----------------------------|---------------------|
-|  Acee Lindem         |  acee.ietf at gmail.com                      |  LabN Consulting       |  31 December 2022   |
+|  Acee Lindem         |  acee.ietf at gmail.com                    |  LabN Consulting       |  31 December 2022   |
 |  Adrian Farrel       |  adrian at olddog.co.uk                 |  Old Dog Consulting        |  31 December 2023   |
+|  Alvaro Retana        | aretana.ietf@gmail.com                  |  Futurewei            |  3 April 2024   |
 |  Andrew Smith        |  andsmit at cisco.com                   |  Cisco                     |  31 December 2023   |
 |  Ben Niven-Jenkins   |  ben at niven-jenkins.co.uk             |  Velocix                   |  31 December 2023   |
 |  Bruno Decraene      |  bruno.decraene at orange.com           |  Orange                    |  31 December 2023   |
