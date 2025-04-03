@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T10:20:03.038Z
+date: 2025-04-03T10:21:26.132Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -58,8 +58,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Stig Venaas         |  stig at venaas.com                     |  Cisco                     |  3 April 2025   |
 |  Sue Hares           |  shares at ndzh.com                     |   Huawei   |  3 April 2025   |
 |  Tal Mizrahi         |  	tal.mizrahi.phd at gmail.com            |  Huawei                   |  3 April 2025   |
-|  Toerless Eckert     |  		tte at cs.fau.de            
-|   Futurewei                |  3 April 2025   |
+|  Toerless Eckert     |  		tte at cs.fau.de|   Futurewei                |  3 April 2025   |
 |  Tony Przygienda     |  tonysietf at gmail.com                 |   Juniper                  |  31 December 2023   |
 |  Victoria Pritchard     |  victoria.pritchard at airbus.com       |  Airbus                    |   3 April 2025   |
 |  Yingzheng Qu        |  yingzhen.ietf at gmail.com             |  Futurewei                   |   3 April 2025   |
