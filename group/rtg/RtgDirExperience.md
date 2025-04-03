@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-03T11:23:08.159Z
+date: 2025-04-03T15:16:15.686Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -142,15 +142,14 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Coding expertise in BGP, IS-IS and MPLS infrastructure
  * Main Interest in IP/MPLS FRR and SPRING source routing
  * following OSPF, BFD, MPLS, IDR, RTGWG, SPRING
-### Joel Halpern (last updated : 23 April 2014) 
- * Co-Chair KARP and LISP WGs
- * Active in I2RS, SFC, and ForCES WGs
- * Follow ongoing IPv6 related WGs
- * Former Routing AD (long ago)
- * formerly active in OSPF, IS-IS, and IDR
- * Co-authored drafts in transport (diff-serv) and O&M (Policy Management)
- * Formerly active in MPLS and LxVPN, but very rusty on newer work
- * Interested in all things SDN (which seems to be marketing speak for "everything")
+### Joel Halpern (last updated : 3 April 2015) 
+ * Former Co-Chair KARP, SFC, and LISP WGs
+ * Co-Chair Savnet and SPRING
+* Active in MPLS and TEAS
+* Follow ongoing IPv6 related WGs
+* Former Routing AD (long ago)
+* following many other RTG WGs
+* Co-authored drafts in transport (diff-serv) and O&M (Policy Management)
 ### Jonathan Hardwick (last updated : 12 Feb 2019) 
  * Software engineer working on IP / MPLS / GMPLS control and management planes.
  * Was a co-chair of PCE
