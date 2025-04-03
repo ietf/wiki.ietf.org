@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T10:18:58.145Z
+date: 2025-04-03T10:20:03.038Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -37,8 +37,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Joel Halpern        |  jmh at joelhalpern.com                 |  Ericsson                  |  31 December 2024   |
 |  John Drake          |  jdrake at juniper.net                  |  Juniper Networks          |  3 April 2025   |
 |  John Scudder          |  jgs at juniper.net                  |  Juniper Networks          |  3 April 2025   |
-|  Jonathan Hardwick   |  jonathan.e.hardwick at gmail.com           |  NVIDIA                 |  31 December 2024   |
-          |  3 April 2025   |
+|  Jonathan Hardwick   |  jonathan.e.hardwick at gmail.com           |  NVIDIA                 |  3 April 2025   |
 |  Julien Meuric       |  julien.meuric at orange.com            |  Orange                    |  31 December 2024   |
 |  Linda Dunbar   |  	linda.dunbar at futurewei.com           |  Huawei       
 |  Loa Andersson       |  loa at pi.nu                           |  Bronze Dragon Consulting  |  3 April 2025   |
