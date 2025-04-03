@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T14:41:15.594Z
+date: 2025-04-03T15:05:19.301Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 
 # Routing Directorate Membership and Service Dates
 
-| Name                 |  Email                                  |  Affiliation               |  Renewal Date       |
+| Name                 |  Email                                  |  Affiliation               |  Last updated       |
 |----------------------|-----------------------------------------|----------------------------|---------------------|
 |  Acee Lindem         |  acee.ietf at gmail.com                    |  LabN Consulting        |  3 April 2025   |
 |  Adrian Farrel       |  adrian at olddog.co.uk                 |  Old Dog Consulting     |  3 April 2025  |
