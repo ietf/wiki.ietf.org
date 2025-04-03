@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T10:21:26.132Z
+date: 2025-04-03T10:24:22.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -19,7 +19,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Andrew Smith        |  andsmit at oracle.com                   |  Oracle               |  3 April 2025   |
 |  Ben Niven-Jenkins   |  ben at niven-jenkins.co.uk             |  Velocix                   |  31 December 2023   |
 |  Bruno Decraene      |  bruno.decraene at orange.com           |  Orange                    |  3 April 2025   |
-|  Carlos Pignataro    |  cpignata at gmail.com                  |  North Carolina State University                    |  3 April 2024|
+|  Carlos Pignataro    |  cpignata at gmail.com                  |  North Carolina State University                    |  3 April 2025|
 |  Cheng Li        |  c.l at huawei.com           |  Huawei                    |  3 April 2025   |
 |  Christian Hopps     |  chopps at chopps.org                   |  LabN Consulting          |   3 April 2025   |
 |  Daniele Ceccarelli  |  daniele.ietf at gmail.com    |  Cisco                  |  3 April 2025   |
