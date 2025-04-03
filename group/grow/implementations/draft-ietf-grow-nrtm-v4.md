@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-04-03T16:40:17.010Z
+date: 2025-04-03T16:49:52.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -67,29 +67,29 @@ The nrtm4-validator is a partial client implementation, as it does not retain an
 
 ### Mirror client
 
-| |IRRD | RIPE NCC Whois | DT nrtm4-client |
+| |IRRD | RIPE NCC Whois | DT nrtm4-client | nrtm4tools |
 |-|-|-|-|-|
-| MUST initialize from a Snapshot File when initially configured or if they are not able to update their local data from the provided Delta Files (4.2) | yes | yes | no |
-| MUST retrieve the UNF (4.2 and 4.3) | yes | yes | yes |
-| MUST verify that the source attribute in the UNF matches the configured IRR Database name (4.2 and 4.3) | yes | yes | yes |
-| (on reinitialization) MUST retrieve the Snapshot File and load the objects into its local storage (4.2) | yes | yes | yes |
-| (on reinitialization) MUST verify that the hash of the Snapshot File matches the hash in the UNF that referenced it. If ... compressed with GZIP, the hash MUST match the compressed data. In case of a mismatch of this hash, the file MUST be rejected (4.2) | yes/yes/yes | yes/yes/yes | yes/yes/yes |
-| (on reinitialization) MUST record the session_id and version of the loaded Snapshot File (4.2) | yes | yes | yes |
-| MUST verify that the session ID matches the previously known session ID. If this does not match, the client MUST reinitialize from the snapshot (4.3) | yes/yes | yes/yes | no/no |
-| MUST verify that the UNF version is the same or higher than the client's current most recent version. If not, the UNF MUST be rejected. It is RECOMMENDED for the client to distinguish between an UNF that is a single version older, and a much older version, in any status messages (4.3) | yes/yes/no | yes/yes/no | no/no/no |
-| MUST verify that the UNF contains one contiguous set of Delta File versions after the client's current most recent version up to the latest version in the UNF. If ... not contiguous, the UNF MUST be rejected. If the available Delta File versions do not range from the client's most recent version plus one, the client MUST reinitialize from the snapshot (4.3) | yes/yes/yes | yes/yes/yes | yes |
-| MUST verify that the hashes of each Delta and Snapshot File have not changed compared to previous entries seen for the same file type and version. If a newer UNF contains a different hash for a specific file ... client MUST reject the UNF (4.3) | yes/yes | no/no | no/no |
-| MUST retrieve all Delta Files for versions since the client's last known version (4.3) | yes | yes | yes |
-| MUST verify that the hash of each newly downloaded Delta File matches the hash in the UNF that referenced it. If the Delta File was compressed with GZIP, the hash MUST match the compressed file. In case of a mismatch of this hash, the Delta File MUST be rejected (4.3) | yes/yes/yes | yes/yes/yes | yes/yes/yes |
-| MUST process all changes in the Delta Files in order (4.3) | yes | yes | yes |
-| MUST update its records of the most recent version to the version of the UNF (4.3) | yes | yes | yes |
-| If the UNF or one of the Delta Files is rejected, the mirror client MUST NOT process any newer Deltas than those that are valid and have been successfully verified (4.3) | yes | no | no |
-| If some Delta Files are rejected, it MAY process the valid Delta Files, but MUST NOT skip over any rejected Delta Files while doing so (4.3) | no/NA | no | no |
-| Every time a mirror client retrieves a new version of the UNF, it MUST verify the included signature (4.4) | yes | yes | yes |
-| The signature MUST be valid for the configured public key for the contents of the UNF (4.4) | yes | yes | yes |
-| If the signature does not match, the mirror client MUST reject the UNF, unless a key rotation is in progress (4.4) | yes | yes/NA | no |
-| If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | yes/no (old files are rejected) | no/no | no/no |
-| MAY have a policy that restricts the processing of objects to certain object classes, or other limitations on which objects it processes .. this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified (4.5) | yes/yes | no/no | no/no |
+| MUST initialize from a Snapshot File when initially configured or if they are not able to update their local data from the provided Delta Files (4.2) | yes | yes | no | yes |
+| MUST retrieve the UNF (4.2 and 4.3) | yes | yes | yes | yes |
+| MUST verify that the source attribute in the UNF matches the configured IRR Database name (4.2 and 4.3) | yes | yes | yes | yes |
+| (on reinitialization) MUST retrieve the Snapshot File and load the objects into its local storage (4.2) | yes | yes | yes | yes |
+| (on reinitialization) MUST verify that the hash of the Snapshot File matches the hash in the UNF that referenced it. If ... compressed with GZIP, the hash MUST match the compressed data. In case of a mismatch of this hash, the file MUST be rejected (4.2) | yes/yes/yes | yes/yes/yes | yes/yes/yes | yes/yes/yes |
+| (on reinitialization) MUST record the session_id and version of the loaded Snapshot File (4.2) | yes | yes | yes | yes |
+| MUST verify that the session ID matches the previously known session ID. If this does not match, the client MUST reinitialize from the snapshot (4.3) | yes/yes | yes/yes | no/no | yes/no |
+| MUST verify that the UNF version is the same or higher than the client's current most recent version. If not, the UNF MUST be rejected. It is RECOMMENDED for the client to distinguish between an UNF that is a single version older, and a much older version, in any status messages (4.3) | yes/yes/no | yes/yes/no | no/no/no | yes/yes/no |
+| MUST verify that the UNF contains one contiguous set of Delta File versions after the client's current most recent version up to the latest version in the UNF. If ... not contiguous, the UNF MUST be rejected. If the available Delta File versions do not range from the client's most recent version plus one, the client MUST reinitialize from the snapshot (4.3) | yes/yes/yes | yes/yes/yes | yes |  yes/yes/no |
+| MUST verify that the hashes of each Delta and Snapshot File have not changed compared to previous entries seen for the same file type and version. If a newer UNF contains a different hash for a specific file ... client MUST reject the UNF (4.3) | yes/yes | no/no | no/no | no/no |
+| MUST retrieve all Delta Files for versions since the client's last known version (4.3) | yes | yes | yes | yes |
+| MUST verify that the hash of each newly downloaded Delta File matches the hash in the UNF that referenced it. If the Delta File was compressed with GZIP, the hash MUST match the compressed file. In case of a mismatch of this hash, the Delta File MUST be rejected (4.3) | yes/yes/yes | yes/yes/yes | yes/yes/yes | yes/yes/yes |
+| MUST process all changes in the Delta Files in order (4.3) | yes | yes | yes | yes |
+| MUST update its records of the most recent version to the version of the UNF (4.3) | yes | yes | yes | yes |
+| If the UNF or one of the Delta Files is rejected, the mirror client MUST NOT process any newer Deltas than those that are valid and have been successfully verified (4.3) | yes | no | no | yes |
+| If some Delta Files are rejected, it MAY process the valid Delta Files, but MUST NOT skip over any rejected Delta Files while doing so (4.3) | no/NA | no | no | yes |
+| Every time a mirror client retrieves a new version of the UNF, it MUST verify the included signature (4.4) | yes | yes | yes | yes |
+| The signature MUST be valid for the configured public key for the contents of the UNF (4.4) | yes | yes | yes | yes |
+| If the signature does not match, the mirror client MUST reject the UNF, unless a key rotation is in progress (4.4) | yes | yes/NA | no | no |
+| If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | yes/no (old files are rejected) | no/no | no/no | no/no |
+| MAY have a policy that restricts the processing of objects to certain object classes, or other limitations on which objects it processes .. this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified (4.5) | yes/yes | no/no | no/no | no/no |
 {.dense}
 
 ### Operational Considerations
