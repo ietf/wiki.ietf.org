@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T10:26:42.230Z
+date: 2025-04-03T10:28:59.511Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -30,7 +30,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Gyan Mishra         |  hayabusagsm at gmail.com               |  Verizon                   |   3 April 2025   |
 |  Harish Sitaraman    |  harish.ietf at gmail.com              |  Juniper                   |  31 December 2023   |
 |  Henning Rogge       |  hrogge at gmail.com                    |                            |  31 December 2024   |
-|  Himanshu Shah       |  hshah at ciena.com                     |  Ciena                     |  3 April 2025   |
+|  Himanshu C.Shah       |  hshah at ciena.com                     |  Ciena                     |  3 April 2025   |
 |  Ines Robles         |  mariainesrobles at googlemail.com      |  Ericsson                  |  31 December 2024   |
 |  Jeffrey Zhang       |  zzhang at juniper.net                  |  Juniper                   |  31 December 2024   |
 |  Jia He              |  hejia at huawei.com                    |  Huawei Technologies       |   3 April 2025   |
@@ -59,7 +59,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Sue Hares           |  shares at ndzh.com                     |   Huawei   |  3 April 2025   |
 |  Tal Mizrahi         |  	tal.mizrahi.phd at gmail.com            |  Huawei                   |  3 April 2025   |
 |  Toerless Eckert     |  		tte at cs.fau.de|   Futurewei                |  3 April 2025   |
-|  Tony Przygienda     |  tonysietf at gmail.com                 |   Juniper                  |  31 December 2023   |
+|  Tony Przygienda     |  tonysietf at gmail.com                 |   Juniper                  |  3 April 2025   |
 |  Victoria Pritchard     |  victoria.pritchard at airbus.com       |  Airbus                    |   3 April 2025   |
 |  Yingzheng Qu        |  yingzhen.ietf at gmail.com             |  Futurewei                   |   3 April 2025   |
 |  Zheng Zhang        |  	zhang.zheng at zte.com.cn             |  ZTE                   |   3 April 2025   |
