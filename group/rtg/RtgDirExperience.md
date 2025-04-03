@@ -284,10 +284,9 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Interested in network architecture, control protocols, network operations, IoT, function virtualization, regulation
 
 ### Russ White (last updated : 19 April 2014) 
- * Follow I2RS, IRNCG, IDR, OSPF, IS-IS, and RTGWG
- * Major Focus: Network Design and Architecture; SDNs; Protocol Deployment; Security
- * Minor Focus: Internet Governance; Network Management; Protocol Design; TRILL
- * Interest in: Open Source; Homenet; anything else related to control plane and design
+ * Follow IDR, SPRING, LSR, and RTGWG
+ * Major Focus: Network Design and Architecture; protocol deployment, security, privacy
+ * Interest in: open source, anything related to control plane and design
 
 ### IJsbrand Wijnands (last updated: 4 Jan 2016) 
 
