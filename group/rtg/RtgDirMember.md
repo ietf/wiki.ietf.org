@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T10:28:59.511Z
+date: 2025-04-03T11:21:56.131Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -25,7 +25,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Daniele Ceccarelli  |  daniele.ietf at gmail.com    |  Cisco                  |  3 April 2025   |
 |  Darren Dukes  |  	ddukesietf at gmail.com    |  Cisco                  |  3 April 2025   |
 |  Dhruv Dhody         |  	dd at dhruvdhody.com                |  Huawei                    |   3 April 2025   |
-|  Donald Eastlake 3rd  |  d3e3e3 at gmail.com                    |  Independent                 |   3 April 2025    |
+|  Donald Eastlake 3rd  |  d3e3e3 at gmail.com                    |                |   3 April 2025    |
 |  Emmanuel Baccelli   | Emmanuel.Baccelli at inria.fr           |  INRIA                     |   3 April 2025   |
 |  Gyan Mishra         |  hayabusagsm at gmail.com               |  Verizon                   |   3 April 2025   |
 |  Harish Sitaraman    |  harish.ietf at gmail.com              |  Juniper                   |  31 December 2023   |
