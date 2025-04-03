@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-03T15:16:15.686Z
+date: 2025-04-03T19:56:59.623Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -205,12 +205,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Co-authored RFCs, essentially around multicast (in particular multicast in VPNs and multicast MPLS)
  * Currently follows working groups related to network virtualization (BESS, MPLS, NVO3, SFC, I2RS) and Yang efforts
  * Also an active Openstack contributor on networking topics
-### Ben Niven-Jenkins (last updated : 18-01-2018) 
+### Ben Niven-Jenkins (last updated : 03-04-2025) 
  * Used to chair L3VPN WG
  * Architected MPLS & PWE3 networks at a large operator
  * Involved in the early days of MPLS-TP
  * Played with some OSPF-TE & RSVP-TE code a long time ago as part of a research project
- * I spend most of my time at layer 4-7 these days
+ * I spend most of my time outside of the routing/networking space these days.
 ### Dimitri Papadimitriou (last updated : 18-01-2018) 
  * Follow/contribute: NMRG, ICCRG, ICNRG, DINRG, MAPRG, RRG (dormant)
  * Main interests: Routing/network algorithmic, Network optimization, Reliability & Resilience
