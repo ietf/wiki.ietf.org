@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T19:53:11.172Z
+date: 2025-04-03T19:53:34.755Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -17,7 +17,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 |  Alvaro Retana       | aretana.ietf at gmail.com                  |  Futurewei              |  3 April 2025   |
 | Andrew Alston        | andrew-ietf at liquid.tech              |   Liquid Labs          |  3 April 2025   |
 |  Andrew Smith        |  andsmit at oracle.com                   |  Oracle               |  3 April 2025   |
-|  Ben Niven-Jenkins   |  ben at niven-jenkins.co.uk             |  Red Hat                   |  31 December 2023   |
+|  Ben Niven-Jenkins   |  ben at niven-jenkins.co.uk             |  Red Hat                   |  3 April 2025   |
 |  Bruno Decraene      |  bruno.decraene at orange.com           |  Orange                    |  3 April 2025   |
 |  Carlos Pignataro    |  cpignata at gmail.com                  |  North Carolina State University                    |  3 April 2025|
 |  Cheng Li        |  c.l at huawei.com           |  Huawei                    |  3 April 2025   |
