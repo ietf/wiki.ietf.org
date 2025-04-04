@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-04-04T20:05:00.914Z
+date: 2025-04-04T20:11:09.146Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
