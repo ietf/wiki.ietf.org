@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-03T19:56:59.623Z
+date: 2025-04-04T12:45:01.190Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -96,14 +96,14 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Have coded up a couple of OSPF interface types, OLSR, OLSRv2, and RPL;  	 	 
  * Generally interested in unplanned, spontaneous, constrained, wireless networks, and how to develop protocols, architectures permitting such;  	 	 
  * Do not really understand enough about MPLS to be able to offer qualified reviews in that field yet.
-### Bruno Decraene  (last updated : 2018-01-17) 
- * Mostly active in BGP (IDR, possibly GROW in OPS if relevant) and SPRING.
+### Bruno Decraene  (last updated : 2025-04-04) 
+ * Mostly active in BGP (IDR, possibly GROW in OPS if relevant), LSR (IS-IS) and SPRING.
  * co-chair SPRING WG
  * Have written/co-authored the following draft/RFC mostly related to SPRING, BGP (IDR, GROW), RTGWG, IS-IS, MPLS [datatracker](https://datatracker.ietf.org/doc/search/?name=&sort=&rfcs=on&activedrafts=on&by=author&author=decraene)
  * Working for service provider.
  * Other interests
      * unicast FRR, link state IGP loop free convergence (RTGWG)
-     * Link State IGP (IS-IS, RTGWG) but with no in depth knowledge of the protocol machinery/implementation.
+     * Link State IGP (IS-IS, RTGWG)
      * Used to be active in L3 VPN BGP/MPLS unicast but not any more.
      * Some following and contributions in MPLS.
 ### John Drake (last updated : date) 
