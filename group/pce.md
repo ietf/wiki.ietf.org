@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-04-01T08:46:52.148Z
+date: 2025-04-04T10:38:51.490Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -145,7 +145,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
-|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2024-04-25|2025-05-09 <br>(AD has approved +1 year extension)|
+|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2024-04-25 and 2025-04-04|2026-05-09|
 |draft-ietf-pce-segment-routing-policy-cp| WG I-D |[1]ASSOCIATION Type & TLV<br><br>[2]PCEP TLV Type, PCEP-ERROR types, TE-PATH-BINDING|[1]2021-03-30<br><br>[2]2024-02-13|[1]2024-02-16<br><br>[2] -|[1]2025-03-30<br><br>[2]2025-02-13| 
 |draft-ietf-pce-sid-algo|WG I-D| 5 allocation done.<br><br>Bandwidth related |2023-09-13<br><br>2024-07-30|2024-07-23<br><br> |2025-09-13<br><br>2025-07-30|
 |draft-ietf-pce-sr-bidir-path |WG I-D|ASSOCIATION Type code point 8|2023-11-30|2024-11-13|2025-11-30|
