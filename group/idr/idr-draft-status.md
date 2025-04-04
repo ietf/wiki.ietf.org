@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-03-17T08:03:08.842Z
+date: 2025-04-04T15:03:10.309Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -63,7 +63,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | 2nd RTG-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
+| draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
 | draft-ietf-idr-bgpls-sr-vtn-mt-07 | Sue Hares  | RTG-DIR + Shepherd | Pub to IESG |  TBD | 2/17-3/3 (3/14) | 2 days | 4/101/2025 | 2 days  |  
 {.dense}
 
@@ -73,6 +73,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
 | draft-ietf-idr-flowspec-redirect-ip-03 | Susan Hares | awaiting -04 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
+| draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
+{.dense}
 
 ### Past WG LC awaiting implementation  
 | draft  | Shepherd   | implementations |  Next step   |  WG LC Date  |  Time  |  ETA   |
