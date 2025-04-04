@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-04-04T19:53:16.936Z
+date: 2025-04-04T19:54:21.207Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
