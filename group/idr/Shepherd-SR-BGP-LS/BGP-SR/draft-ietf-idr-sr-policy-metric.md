@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-02-24T21:44:09.154Z
+date: 2025-04-04T19:52:11.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -23,7 +23,7 @@ dateCreated: 2025-02-24T21:07:32.555Z
 
 ## -02 Review 
  **draft (-02):**  [refresh only](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-02) -  Update only refresh the draft.  No changes. 
-** Email link: **https://mailarchive.ietf.org/arch/msg/idr/HiSCW-HKUBQhMSpxB4qqzENrVHA/
+**Email link:** https://mailarchive.ietf.org/arch/msg/idr/HiSCW-HKUBQhMSpxB4qqzENrVHA/
  
  ## -01 Review 
  
