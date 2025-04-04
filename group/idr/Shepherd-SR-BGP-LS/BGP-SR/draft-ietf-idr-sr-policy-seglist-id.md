@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-04-04T19:56:52.793Z
+date: 2025-04-04T19:58:03.022Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -22,10 +22,10 @@ dateCreated: 2025-02-25T01:55:41.779Z
 
 
 ## Revision -03 
-**status:**  Needs revision
+**status:**  Needs -04 revision 
 **email:** https://mailarchive.ietf.org/arch/msg/idr/ZoOmSG_E48FiW-e5GsW4_bWd4hs/
 
-### Issues from -02 
+### Review of Issues from -02 Shepherd Review 
 Technical issues resolved: #1 resolved,  #2 partially resolved 
 
 ### Technical issues in -03 
