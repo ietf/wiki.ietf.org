@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-04-04T18:35:42.298Z
+date: 2025-04-04T18:36:05.985Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,7 +48,7 @@ Note that this page is public.
 - [IESG Balloting Process Documentation](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) (Roman)
 - [Updates from the Board to the IESG](https://docs.google.com/document/d/1w_Z_PSDVYkRTU-V5_NaGAcmSkP0MLlbKCe85H5pGlmk/edit?tab=t.0) (Roman)
 - [Process for IESG Appointment of RSWG Chair](https://iesg.privatewikis.ietf.org/rswgchairappointment) (Cindy)
-- Meeting schedule for IETF 124 (Liz) (details TK)
+- Meeting schedule for IETF 123 (Liz) (details TK)
 
 ### WG News 
 
