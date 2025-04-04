@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-04-04T10:38:51.490Z
+date: 2025-04-04T15:20:55.929Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -73,7 +73,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 | [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -02 posted on 2024-10-20 | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -06 posted on 2025-01-03  | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - |
-| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -12 posted on 2024-10-08  | Comments from 117 are not handled yet! IANA early allocation expiry is coming up |
+| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -12 posted on 2024-10-08  | Comments from 117 are not handled yet! |
 | draft-ietf-pce-stateful-pce-autobw-update |N|N| -01 posted on 2024-12-15 | - |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | N | Y| -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
 
