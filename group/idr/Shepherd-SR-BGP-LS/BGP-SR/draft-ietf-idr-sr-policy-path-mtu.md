@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-03-21T05:27:11.437Z
+date: 2025-04-04T20:03:41.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -17,7 +17,7 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **status:** WG Draft (expires 3/2/2025), needs revision 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -10
-**Early Allocation**: yes 
+**Early Allocation**: yes, needs -11 revision 
 **implementations:** 1 (Huawei in VRP)   
 **bgp-ls draft:** none
 
