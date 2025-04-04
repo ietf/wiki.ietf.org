@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-03-20T09:14:12.794Z
+date: 2025-04-04T11:45:50.328Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -36,7 +36,7 @@ TODO
 - [RPP Requirements](https://github.com/ietf-wg-rpp/rpp-requirements)
 - [RPP Core](https://github.com/SIDN/ietf-rpp-core)
 - [RPP API](https://github.com/SIDN/ietf-rpp-api)
-- [RPP Charter (concluded)](https://github.com/SIDN/ietf-wg-rpp-charter)
+- [RPP Charter (concluded)](https://github.com/ietf-wg-rpp/ietf-wg-rpp-charter)
 
 ## Helpful resources
 
