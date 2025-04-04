@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-03-21T05:26:01.140Z
+date: 2025-04-04T20:05:00.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -22,16 +22,16 @@ dateCreated: 2025-02-26T02:37:13.865Z
 **bgp-ls draft:** none
 
 
-## Review of -02 (pending)
+## Review of -02
 **draft:** [draft-ietf-idr-bgp-srmpls-elp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-02)
-**Status**: Need to address technicval issues 
+**Status**: Need to address technical issues 
 email: https://mailarchive.ietf.org/arch/msg/idr/kF4mu_HkG1FMdc931xo6eXo9544/
 
 ### Technical issues 
 
 #### All Technical Issue from -01 review are unresolved
 
-Unresolved from Review-01: 
+**Unresolved from Review-01:** 
 - Issue #1 - Section 3, paragraph starting "For example". BGP-LS reference - is unresolved 
 - Issue #2 - Section 4 or 5, Missing Error handling for a malformed Explicit NULL Policy TLV 
 - Issue #3 -  Security Section, Please enhance the security section. Mention Critical information. 
