@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-04-04T15:20:55.929Z
+date: 2025-04-06T17:27:53.066Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -95,18 +95,18 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Waiting for Shepered review | - | Dhruv | 
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Pending update after handling WGLC comments | - |Dhruv |
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Shepered review done| Waiting on authors | Dhruv | 
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Pending update after handling WGLC comments | Waiting on authors |Dhruv |
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | IESG telechat: 2025-04-03; Track IANA alighment with IDR. Comments being addressed by authors. | Dhruv | Roman |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | Submitted to IESG for Publication on 2024-07-05 | IESG telechat: 2025-04-03; DISCUSS cleared, author posted update | Dhruv | Roman |
 
 
 
-[AD's Document Queue](https://datatracker.ietf.org/doc/ad/john.scudder)
+[AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
 [IESG Dashboard](https://datatracker.ietf.org/doc/ad)
 
 
@@ -115,10 +115,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
-| [draft-ietf-pce-pcep-extension-native-ip](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-native-ip) |  RFC-EDITOR | - | Dhruv |
-| [draft-ietf-pce-iana-update](https://datatracker.ietf.org/doc/draft-ietf-pce-iana-update) |  RFC-EDITOR | - | Julien |
-| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | EDIT| - | Dhruv |
-| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | EDIT | - | Dhruv |
+| [draft-ietf-pce-stateful-pce-optional](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-optional) | AUTH48 | - | Dhruv |
+| [draft-ietf-pce-stateful-pce-vendor](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-pce-vendor) | AUTH48-DONE | - | Dhruv |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | EDIT | - | Julien |
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | MISRREF |  Pending on draft-ietf-pce-segment-routing-policy-cp | Andrew |
 
@@ -126,8 +124,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
-| RFC 9603 | Published 2024-07; Was draft-ietf-pce-segment-routing-ipv6 | Hari | 
-| RFC 9604 | Published 2024-08; Was draft-ietf-pce-binding-label-sid | Julien | 
+| RFC 9756 | Published 2025-03; Was draft-ietf-pce-iana-update | Julien | 
+| RFC 9757 | Published 2025-03; Was draft-ietf-pce-pcep-extension-native-ip | Dhruv | 
 
 
 ## Other Useful Information
