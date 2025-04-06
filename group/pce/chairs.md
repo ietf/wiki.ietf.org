@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-03-12T05:36:21.044Z
+date: 2025-04-06T17:31:07.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -17,9 +17,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|IANA Renew| draft-ietf-pce-multipath | Dhruv | Asked authors for commitment |
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | Awaiting an update |
-| Shephered Review and Writeup| draft-ietf-pce-sid-algo | Dhruv | - |
+| Shephered Review and Writeup| draft-ietf-pce-sid-algo | Dhruv | Review done, awaiting response |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -35,6 +34,7 @@ Some concerns:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|IANA Renew| draft-ietf-pce-multipath | Dhruv | Asked authors for commitment |
 |Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish; authors made an update|
 |Early IANA allocation|draft-ietf-pce-sid-algo|Dhruv|-|
