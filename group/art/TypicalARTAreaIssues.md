@@ -2,7 +2,7 @@
 title: Typical ART Area Issues
 description: 
 published: true
-date: 2025-04-03T04:49:11.809Z
+date: 2025-04-07T19:58:23.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:21:45.195Z
@@ -72,7 +72,7 @@ If your spec defines a new media type registration, you need to follow the proce
 
 - Using the template in RFC 6838, create a registration and add it to your spec (review some of the similar registrations at [http://www.iana.org/assignments/media-types/application/] for insights). 
 
-- Submit your actual registration (not a pointer to it) for review on the media-types@iana.org discussion list. Do this before you're ready to request publication of your draft. 
+- Submit your actual registration (not a pointer to it) for review on the media-types@ietf.org discussion list. Do this before you're ready to request publication of your draft. (you may also search this discussion list for previous registrations [here](https://mailarchive.ietf.org/arch/browse/media-types/)).
 
 - Wait at least two weeks for review comments and make sure you respond to the feedback provided on the list. 
 
