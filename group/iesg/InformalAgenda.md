@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-04-04T18:36:05.985Z
+date: 2025-04-08T05:27:55.965Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -60,6 +60,7 @@ Note that this page is public.
 
 ### Executive Sessions
 
+- [BCP 83 action](https://mailarchive.ietf.org/arch/msg/iesg-only/5rPdk7MaAT0O4Mj_2LXh24xutnM/) (Éric V.) time allowing
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
