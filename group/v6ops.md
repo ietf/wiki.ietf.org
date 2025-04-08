@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2025-03-21T19:20:10.876Z
+date: 2025-04-08T13:45:51.556Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -14,18 +14,18 @@ Welcome to the wiki for V6OPS!
 
 ## Next scheduled chair calls
 
-* 11-Feb-2025
-* 25-Feb-2025
+* 08-April-2025
+* 22-April-2025
 
 ### Chair call topics
 
 * [draft-equinox-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-equinox-v6ops-icmpext-xlat-v6only-source/) - Requested call for adoption
-** Projected meeting for discussion: 11-Feb-2025
+** Projected meeting for discussion: 08-April-2025
 * [draft-ietf-v6ops-prefer8781](https://datatracker.ietf.org/doc/draft-ietf-v6ops-prefer8781/)  - Requested WGLC
-** Projected meeting for discussion: 11-Feb-2025
+** Projected meeting for discussion: 08-April-2025
 https://datatracker.ietf.org/doc/draft-ietf-v6ops-prefer8781/
 * [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Waiting for further chair discussion. 
-** Projected meeting for discussion: 11-Feb-2025
+** Projected meeting for discussion: 08-April-2025
 * Status of [draft-ietf-v6ops-cpe-lan-pd](https://datatracker.ietf.org/doc/draft-ietf-v6ops-cpe-lan-pd/)
 ** Publication requested
 
