@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-04-09T09:36:59.215Z
+date: 2025-04-09T13:29:14.021Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
@@ -165,7 +165,7 @@ In no particular order...
 ## Examples of Existing Endorsement Distribution APIs
 There do not appear to be any existing standardisation efforts in flight for endorsement distribution APIs, either in IETF or other communities. However, a number of endorsement distribution endpoints do already exist in the industry, each of which follows its own proprietary scheme. Some examples are given below.
 
-- The [AMD Key Distribution Service (KDS)](https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/specifications/57230.pdf).
+- The [AMD Key Distribution Service (KDS)](/group/rats/referencevalues/amd-key-distribution-service).
 - The [NVIDIA Reference Integrity Manifest (RIM) Service](/group/rats/referencevalues/nvidia-endorsement-distribution-api).
 
 ## Documents in Other Standards Development Organisations
