@@ -2,7 +2,7 @@
 title: NVIDIA RIM Service
 description: NVIDIA Reference Integrity Manifest (RIM) Service 1.0
 published: true
-date: 2025-04-09T09:34:59.945Z
+date: 2025-04-09T09:39:23.504Z
 tags: rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2025-04-09T09:34:59.945Z
@@ -50,7 +50,7 @@ which returns the following JSON-formatted payload:
 
 Each RIM identifier listed in the `"ids"` array can be used in a query to obtain the RIM associated with the specific product and firmware release.
 
-### RIM Retrieval for CX7
+## RIM Retrieval for CX7
 
 This section explores the RIM content of CONNECTX-7, an InfiniBand NIC product that incorporates a DICE RoT and SPDM responder.
 
