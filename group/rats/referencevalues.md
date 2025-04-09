@@ -2,7 +2,7 @@
 title: RATS WG - Protocols/APIs for conveying Reference Values
 description: 
 published: true
-date: 2025-04-09T13:29:14.021Z
+date: 2025-04-09T14:09:22.819Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T12:59:46.791Z
