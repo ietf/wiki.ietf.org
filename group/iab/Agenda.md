@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-04-07T18:54:41.730Z
+date: 2025-04-09T15:36:55.758Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,7 +22,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-04-16 0600-0800 PDT (UTC-7) 
 
-*Agenda as of 2025-03-05. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-04-09. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -37,10 +37,21 @@ For approval:
 
 * 2025-02-26 business meeting - (submitted 2025-02-27)
 
+* 2025-03-05 business meeting - (submitted 2025-03-05)
+
+* 2025-03-16 business meeting - (submitted 2025-03-17)
+
+* 2025-03-18 business meeting - (submitted 2025-03-31)
+
 #### 1.4. Action Item Review - 5 mins
 
 Done:
 
+* 2025-03-05: Dhruv Dhody, Mirja Kühlewind, and Mark Nottingham to 
+    work with Olaf Kolkman to finalize the IAB's proposals for IGF.
+
+* 2025-03-05: Liaison Coordinators to propose times for the Liaison 
+    Coordinator office hours at IETF 122.
     
 On Hold:
 
@@ -57,38 +68,43 @@ In Progress:
     information the IAB needs from NomCom in order to confirm IESG 
     candidates.
 
-* 2025-03-05: Dhruv Dhody, Mirja Kühlewind, and Mark Nottingham to 
-    work with Olaf Kolkman to finalize the IAB's proposals for IGF.
+### 2. Reports and Updates from IAB Responsibilities
 
-* 2025-03-05: Liaison Coordinators to propose times for the Liaison 
-    Coordinator office hours at IETF 122.
+  https://github.com/intarchboard/responsibilities/milestone/2
+
+#### 2.1. Report from the IESG Liaison (Matthew)
+
+  https://github.com/intarchboard/responsibilities/issues/31
+
+#### 2.2. NEMOPS Workshop Report
+
+  Goal: Formally adopt draft-iab-nemops-workshop-report-01
+
+  https://github.com/intarchboard/responsibilities/issues/18
+
+#### 2.2. AICONTROL Workshop Report
+
+  Goal: Formally adopt draft-iab-ai-control-report-00
+
+  https://github.com/intarchboard/responsibilities/issues/33
+
+#### 2.3. Liaison Coordinator Updates
+
+#### 2.4. IAB-ISOC Policy Coordination Updates
+
+#### 2.5. Outreach Coordinator Updates
 
 
+### 3. Review of Upcoming IAB Responsibilities
 
-#### 1.5. IAB Document Status Update - No updates this week
+#### 3.1. BoF Shepherding and WG Charter Review
 
- Datatracker: https://datatracker.ietf.org/stream/iab/
+  Goal: Ensure that shepherding work is assigned
 
-*  **draft-edm-protocol-greasing-04**
-    Maintaining Protocols Using Grease and Variability
-    I-D Exists, IAB stream
-    IAB Shepherd: Not assigned
+  Datatracker: https://datatracker.ietf.org/doc/bof-requests
+  Datatracker: https://datatracker.ietf.org/group/chartering/
+  See: https://wiki.ietf.org/group/iab/IAB_Review_of_Proposed_WG_Charters
 
-*  **draft-iab-ai-control-report-00** 
-    IAB AI-CONTROL Workshop Report
-    I-D Exists, IAB stream
-    IAB Shepherd: Not assigned
-    
-*   **draft-iab-nemops-workshop-report-01**
-    Report from the IAB Workshop on the Next Era of Network Management
-    Operations (NEMOPS)
-    I-D Exists, IAB stream
-    IAB Shepherd: Not assigned
-
-#### 1.6. IAB Review of WG Charters - No updates this week
-
- Datatracker: https://datatracker.ietf.org/group/chartering/
-  
 * **Digital Emblems (DIEM)**
     Area: INT
     Internal Review
@@ -96,14 +112,52 @@ In Progress:
     IAB Shepherds: Suresh Krishnan, Mirja Kühlewind
     IAB Reviewer: Wes Hardaker
 
-    
+* **HPKE Publication, Kept Efficient (HPKE)**
+     Area: SEC
+     Draft Charter
+     IESG Telechat: (not on agenda)
+     IAB Reviewer: (not assigned)
 
-#### 1.7 IAB Appointments
+#### 3.2. Meeting Planning (Executive Committee)
 
-- Next up: Community Coordination Group (CCG); kick-off in May
+  Goal: Identify IAB members that will help prepare for upcoming 
+  meetings.
+
+*  2025 IAB Retreat
+*  IAB Open at IETF 123 
+     (https://github.com/intarchboard/responsibilities/issues/34)
+
+#### 3.3. Appointment Committees
+
+  Goal: Review upcoming appointments, details to be discussed in 
+  executive sessions
+
+  https://wiki.ietf.org/en/group/iab/2025_Appointments
+
+#### 3.4. General Responsibility Review
+
+  Review responsibilities that will be reported at the June IAB 
+  meeting.
+
+  https://github.com/intarchboard/responsibilities/milestone/1
+
+  Goal: Ensure that all IAB members have assignments and that necessary 
+  work will be covered.
+
+### 4. Executive Sessions (Appointments)
+
+#### 4.1. Executive Session: Community Coordination Group Appointment (Cindy)
+
+  Goal: Decide Process for 2025
+  Deadline: Appointment to be finished by the end of IETF 123
+
+#### 4.2. Executive Session: Root Zone Evolution Review (RZERC) Appointment (Cindy)
+
+  Goal: Decide Process for 2025
+  Deadline: Appointment to be finished by the end of IETF 123
 
 
-### 2. 
+
 ## Upcoming Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
