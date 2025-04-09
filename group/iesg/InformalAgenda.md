@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-04-09T21:48:09.422Z
+date: 2025-04-09T23:01:26.484Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,6 +54,7 @@ Note that this page is public.
 - [Meeting schedule for IETF 123](https://docs.google.com/document/d/1OvlZg-xlAqjZYqXZTdxO1xdLZ0-Nc-4TeJqAIAl-R8s/edit?usp=sharing) (Liz) 
 - Proceeding with draft-ietf-emailcore-rfc5321bis (Cindy)
 - Interim meeting timing (Roman?)
+- Quick reminder to Mike, Roman, Gorry, Erik K: update/confirm your COI info (Liz)
 
 ### WG News 
 
