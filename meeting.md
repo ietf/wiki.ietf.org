@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2025-03-05T10:04:38.339Z
+date: 2025-04-10T00:54:46.508Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -15,13 +15,6 @@ Wikis are used by participants to share information about and coordinate around 
 ## Upcoming meetings 
 
 ### {.tabset}
-
-#### IETF 122 Bangkok
-**March 15-21, 2025** - :thailand: Bangkok, Thailand
-- [IETF 122 Meeting Wiki](/meeting/122)
-- [IETF 122 Side Meetings](https://trello.com/b/R7yDMPyl)
-- [IETF 122 Hackathon](/meeting/122/hackathon)
-{.links-list}
 
 #### IETF 123 Madrid
 **July 19-25, 2025** - :es: Madrid, Spain
@@ -41,6 +34,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
+| **IETF 122** | :thailand: Bangkok, TH | March 15-21, 2025 | [Meeting Wiki](/meeting/122) - [Side Meetings](https://trello.com/b/R7yDMPyl) - [Hackathon](/meeting/122/hackathon) |
 | **IETF 121** | :ireland: Dublin, IE | November 02-08, 2024 | [Meeting Wiki](/meeting/121) - [Side Meetings](/meeting/121/sidemeetings) - [Hackathon](/meeting/121/hackathon) |
 | **IETF 120** | :canada: Vancouver, CA | July 20-26, 2024 | [Meeting Wiki](/meeting/120) - [Side Meetings](/meeting/120/sidemeetings) - [Hackathon](/meeting/120/hackathon) |
 | **IETF 119** | :australia: Brisbane, AU | March 16-22, 2024 | [Meeting Wiki](/meeting/119) - [Side Meetings](/meeting/119/sidemeetings) - [Hackathon](/meeting/119/hackathon) |
