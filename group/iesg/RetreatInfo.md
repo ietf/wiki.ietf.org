@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-04-10T14:39:34.426Z
+date: 2025-04-10T14:39:46.667Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -50,7 +50,7 @@ Afternoon - Combined IAB/IESG
 
 #### Wednesday, June 18 (IAB/IESG + IESG only)
 
-Morning - Combned IAB/IESG
+Morning - Combined IAB/IESG
 
 Afternoon - IESG only
 
