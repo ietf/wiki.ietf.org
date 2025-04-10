@@ -2,7 +2,7 @@
 title: NVIDIA RIM Service
 description: NVIDIA Reference Integrity Manifest (RIM) Service 1.0
 published: true
-date: 2025-04-09T09:39:23.504Z
+date: 2025-04-10T18:21:02.791Z
 tags: rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2025-04-09T09:34:59.945Z
@@ -54,7 +54,7 @@ Each RIM identifier listed in the `"ids"` array can be used in a query to obtain
 
 This section explores the RIM content of CONNECTX-7, an InfiniBand NIC product that incorporates a DICE RoT and SPDM responder.
 
-CX7 is the only one that uses CoRIM as the RIM format (`"rim_format": "CORIM"`), while all other products use SWID (`"rim_format": "TCG"`).
+CX7 is the only product that uses CoRIM as the RIM format (`"rim_format": "CORIM"`), while all the other use SWID (`"rim_format": "TCG"`).
 
 We will look at one specific version of the CX7 firmware (`NV_NIC_FIRMWARE_CX7_28.39.4082-LTS_MCX713104AC-ADA`).
 
