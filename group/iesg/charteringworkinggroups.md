@@ -2,7 +2,7 @@
 title: Chartering Working Groups
 description: 
 published: true
-date: 2022-11-29T19:39:21.033Z
+date: 2025-04-14T15:34:41.414Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-20T22:26:53.302Z
@@ -26,7 +26,8 @@ dateCreated: 2022-09-20T22:26:53.302Z
 ## If you're chartering with an acronym that existed before, because you're re-creating a working group that used to exist, or chartering a working group with the same acronym as a BoF: 
 
  - The previous step should have taken you to the BoF's or old WG's "about" page.
- - The State will be "BOF", "BOF Concluded", or "Concluded".  Change it to "Proposed".
+ - The State will be "BOF", "BOF Concluded", or "Concluded".  Change it to "Proposed". 
+     - NOTE: If the state is "Concluded," you will need to ask the Secretariat to change it to "Proposed" for you.
  - Change the "Area Director" field if necessary.  You can also change the "Name" field, in case the full name has been tweaked.
  - Press the "Submit Charter" button.
  - You will be taken to the charter submission page.
