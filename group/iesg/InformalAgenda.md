@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-04-09T23:01:26.484Z
+date: 2025-04-14T17:19:27.278Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - April 10, 2025
+# Informal Telechat - May 1, 2025
 
 There **WILL** be a meeting on this date.
 
@@ -28,11 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-Gunter
-Jim
-Kline, Erik
-Matthew
-Paul (maybe)
+
 
 ## Agenda
 
@@ -51,10 +47,7 @@ Note that this page is public.
 - [IESG Balloting Process Documentation](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) (Roman)
 - [Updates from the Board to the IESG](https://docs.google.com/document/d/1w_Z_PSDVYkRTU-V5_NaGAcmSkP0MLlbKCe85H5pGlmk/edit?tab=t.0) (Roman)
 - [Process for IESG Appointment of RSWG Chair](https://iesg.privatewikis.ietf.org/rswgchairappointment) (Cindy)
-- [Meeting schedule for IETF 123](https://docs.google.com/document/d/1OvlZg-xlAqjZYqXZTdxO1xdLZ0-Nc-4TeJqAIAl-R8s/edit?usp=sharing) (Liz) 
-- Proceeding with draft-ietf-emailcore-rfc5321bis (Cindy)
-- Interim meeting timing (Roman?)
-- Quick reminder to Mike, Roman, Gorry, Erik K: update/confirm your COI info (Liz)
+
 
 ### WG News 
 
