@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-04-13T07:46:32.417Z
+date: 2025-04-14T08:31:46.619Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -70,12 +70,13 @@ No meetings.
 
 Please include initials next to topics, otherwise we risk forgetting what the topic is about :^)
 
+
+IESG-only
+
 * Some OPS Matters (Med/Mahesh)
   + YANG deVELpment PrOCEss & maintenance (VELOCE)
   + RFC5706 Refresh: Plan/Status Update of "Guidelines for Considering Operations and Management"
 * Some AUTH48 Matters (Med)
-
-IESG-only
 
 
 
