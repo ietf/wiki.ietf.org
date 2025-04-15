@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-04-15T21:05:31.930Z
+date: 2025-04-15T21:15:29.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,7 +22,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## IAB Agenda: 2025-04-16 0600-0800 PDT (UTC-7) 
 
-*Agenda as of 2025-04-09. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-04-15. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -42,6 +42,10 @@ For approval:
 * 2025-03-16 business meeting - (submitted 2025-03-17)
 
 * 2025-03-18 business meeting - (submitted 2025-03-31)
+
+Under review:
+
+* 2025-03-20 business meeting - (submitted 2025-04-14)
 
 #### 1.4. Action Item Review - 5 mins
 
@@ -120,9 +124,9 @@ In Progress:
 
 * **HPKE Publication, Kept Efficient (HPKE)**
      Area: SEC
-     Draft Charter
-     IESG Telechat: (not on agenda)
-     IAB Reviewer: (not assigned)
+     Internal Review
+     IESG Telechat: 2025-04-24
+     IAB Reviewer: Warren Kumari
 
 #### 4.2. Meeting Planning (Executive Committee)
 
