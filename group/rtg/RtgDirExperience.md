@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-15T01:58:11.933Z
+date: 2025-04-15T02:46:08.131Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -164,14 +164,15 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * On OPS-DIR and able to read MIB or Yang modules   
 ### Jia He (last updated : date) 
  * To Be Completed
-### Christian Hopps (last updated : Jan 13th, 2016) 
- * Co-Chair IS-IS WG
- * Currently Senior Architect @ Deutsche Telekom working on Terastream project.
- * Have worked on routing for Cisco, Procket, Allegro Networks, !NextHop Technologies and GateD.
- * Member of routing area yang design team
- * Active in IS-IS, Yang, follow other routing WGs.
+### Christian Hopps (last updated : Apr 14th, 2025) 
+ * Co-Chair LSR WG
+ * Currently working at LabN Consulting, LLC
+ * Have worked on routing, and systems software for Cisco, Procket, Allegro Networks, NextHop Technologies and GateD.
+ * Have worked on network design, automation and optical control software on the Terastream project @ Deutsche Telekom.
+ * Also defined IPsec/IP-TFS and authored initial Linux implementation.
+ * Active in LSR(rtg), IPsec(sec), Yang(ops), follow other WGs.
  * [Co]-Authored various RFCs.
- * NetBSD Developer
+ * Longtime NetBSD Developer
 ### Geoff Huston (last updated : date) 
  * To Be Completed
 ### Acee Lindem (last updated : May 1st, 2014) 
