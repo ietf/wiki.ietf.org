@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-15T02:46:08.131Z
+date: 2025-04-15T02:47:18.162Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -168,7 +168,7 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Co-Chair LSR WG
  * Currently working at LabN Consulting, LLC
  * Have worked on routing, and systems software for Cisco, Procket, Allegro Networks, NextHop Technologies and GateD.
- * Have worked on network design, automation and optical control software on the Terastream project @ Deutsche Telekom.
+ * Have worked on network design, automation and optical control software for the Terastream project @ Deutsche Telekom.
  * Also defined IPsec/IP-TFS and authored initial Linux implementation.
  * Active in LSR(rtg), IPsec(sec), Yang(ops), follow other WGs.
  * [Co]-Authored various RFCs.
