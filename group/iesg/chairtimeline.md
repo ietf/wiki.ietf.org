@@ -2,22 +2,20 @@
 title: IETF Chair Timeline
 description: 
 published: true
-date: 2023-02-19T19:40:06.829Z
+date: 2025-04-15T13:34:00.725Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-09T20:27:38.978Z
 ---
 
 # Annual Timeline for the IETF Chair
-The IETF year starts with the First IETF, normally held in March. However,
-this timeline for the IETF Chair, IESG Chair, and General AD
-starts about ten weeks earlier.
+The "IETF year" starts with the first IETF plenary meeting, normally held in March. This timeline covers the However, this timeline for the IETF Chair, IESG Chair, and General AD starts about ten weeks earlier.
 
 *Key:*
 
-IETF1: the First IETF, normally in March.
-IETF2: the Second IETF, normally in July.
-IETF3: the Third IETF, normally in November.
+IETF1: the First IETF plenary meeting of the year, normally in March.
+IETF2: the Second IETF plenary meeting of the year, normally in July.
+IETF3: the Third IETF plenary meeting of the year, normally in November.
 IETFn-x: x weeks before IETFn, e.g. IETF1-4.
 IETFn+x: x weeks after IETFn, e.g. IETF2+3.
 
@@ -25,23 +23,43 @@ IETFn+x: x weeks after IETFn, e.g. IETF2+3.
 
 (All dates are approximate. Many items have undoubtedly been forgotten.)
 
-January: Check that IETF dates are already set and announced for two and three years out, and that locations are set for this year and next year. If not, start panic in IAOC.
+### January
+* Check that IETF plenary meeting dates are already set and announced for two and three years out. If not, discuss with the IETF Admin LLC Board.
+* Check that IETF plenary meeting geographies are set for this year and next year. If not, discuss with the IETF Admin LLC Board.
+* Check that the IETF plenary meeting cities are announced for this year.  If not, discuss with the IETF Admin LLC Board.
+* Ensure that NomCom selects are announced.  If not, discuss with the NomCom chair
 
-IETF1-10 through IETF1+4: See generic IETFn timeline below.
+### January/February (IETF1-10 through IETF1) 
+* See generic IETFn timeline below.
 
-IETF1-4: Get confirmed Nom Com results (see [IesgNomcom](/group/iesg/IesgNomcom)). Check that all new ADs are added to relevant lists by the Secretariat, send them personal welcomes, ensure that they receive basic logistics for all IESG meetings at IETF1 and for all future conference calls. Confirm conference call dates for the coming months. (Normally, the Secretariat plans these dates.)
+* Work with the whole IESG:
+  * Prioritize the documents on the formal telechat to favor outgoing ADs to enable a cleaner hand-off.
+  * Resolve DISCUSSes on documents being managed by the outgoing ADs
+  * Manage the orderly transition of DISCUSS positions that can't be resolved before the AD transitions.
 
-IETF1-4: Propose date and place for Spring IESG retreat.
+* Confirm schedule for formal and informal telechats until IETF1+4.
 
-IETF1-4: In even numbered years only, the IESG process for nominating an IAOC member should be finished by now. See BCP113, RFC4333.
 
-IETF1 week: IESG must appoint new liaison to IAB. It is also a good time to select the liaison for the NomCom; this person will not have much to do right now, but knowing who will do it avoids tapping the same people for too much.  Any other special jobs performed by retiring members must be reassigned. Confirm schedule for formal and informal telechats. Finalize date and place for Spring IESG retreat.
+### February/March (IETF1-4)
+* Get confirmed Nom Com results (see [IesgNomcom](/group/iesg/IesgNomcom)). 
 
-IETF1 week: now or soon after, review team leader appointments (EDU, PROTO, TOOLS etc) and charters. Reviewing General Area WG charters now would be a good idea too. 
+* Begin onboarding the new ADs.  Check that all new ADs are added to relevant lists by the Secretariat, send them personal welcomes, ensure that they receive basic logistics for all IESG meetings at IETF1 and for all future conference calls. Confirm conference call dates for the coming months. (Normally, the Secretariat plans these dates.)
 
-IETF1+2: Fix logistics, agenda and session leaders for Spring IESG retreat.
+* Propose candidate dates and place for annual IESG retreat.  Coordinate with the IAB to allow for the possibility of a common week to enable an IESG/IAB session.
 
-April: Expect to get ISOC Trustee nomination from the IAB for confirmation by the IESG.
+* Arrange for recognitions/gifts for the outgoing ADs
+
+### IETF1 week
+* (Before the Wednesday Plenary session) Review plenary slides
+* Review/Appoint liaison positions -- IAB, Tools, NomCom
+* Review/Appoint IESG Representatives -- RSWG, IETF Admin LLC Board
+* Reassign any "special jobs" held by outgoing ADs
+* Finalize the date for the IESG retreat
+
+### April
+* Expect to get ISOC Trustee nomination from the IAB for confirmation by the IESG.
+* Fix logistics, agenda and session leaders for IESG retreat
+* Review review team leader appointments (EDU, PROTO, TOOLS etc) and charters.
 
 IETF1+4: Ensure ISOC President is busy selecting new Nom Com chair. Supply possible names if necessary.
 
@@ -53,8 +71,6 @@ to be filled.
 IETF2+4: Soon, the Nom Com will need the full description of the IESG posts to be filled.
 
 IETF3-10 through IETF3+4: See generic IETFn timeline below.
-
-October of odd numbered years: Start process for IAOC seat selection by IESG, with a detailed timeline. See BCP113, RFC4333. This timeline must end by IETF1-4 next year. (In even numbered years, the IAB should be doing this by now.)
 
 ## Generic Timeline for IETF-n 
 
