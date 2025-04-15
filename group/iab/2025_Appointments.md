@@ -2,7 +2,7 @@
 title: 2025 Appointments
 description: 
 published: true
-date: 2025-04-07T19:37:15.344Z
+date: 2025-04-15T21:31:32.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-07T19:37:15.344Z
@@ -62,6 +62,19 @@ This page gives a high-level timeline of the various appointments that the IAB w
 * By Wed 2026-01-07: Follow up with all candidates
 * By Wed 2026-01-07: Public announcement
 
+
+## Internet Society Board of Trustees (ISOC BOT)
+
+* By Wed 2025-10-29: Confirm process with IAB
+* By Tue 2025-11-11: Send call for nominations (immediately after IETF 124)
+* Tue 2026-01-06 AOE: Deadline to submit nominations 
+* Wed 2026-01-07: Call for community feedback sent
+* Wed 2026-01-07 - Tue 2026-02-03: Candidate interviews
+* Tue 2026-02-03: Deadline for community feedback
+* Wed 2026-02-18: IAB Decision (at IAB Business Meeting)
+* Thu 2026-02-19 - Tue 2026-03-17: IESG Confirmation
+* By Fri 2026-03-27: Follow up with all candidates
+* 2026-04-TBD: Public announcement (aligned with ISOC)
 
 ## RFC Series Working Group (RSWG) Chair
 
