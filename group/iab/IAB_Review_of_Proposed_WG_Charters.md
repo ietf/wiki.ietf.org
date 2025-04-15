@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-01-29T19:34:02.249Z
+date: 2025-04-15T21:15:12.197Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -37,6 +37,8 @@ This list should be considered as a potentially helpful checklist to ensure that
 - Does the proposal fit within the general scope of IETF? Have the necessary collaborations to other organisations been considered?
 
 ## Review Assignments
+### 2025-2026 Assignments
+- HPKE: Warren Kumari (2025-04)
 ### 2024-2025 Assignments
 - DIEM: Wes Hardaker (2025-01)
 - HAPPY: Matthew Bocci (2025-01)
