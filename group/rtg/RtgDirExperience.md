@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-15T02:48:07.096Z
+date: 2025-04-15T02:51:10.888Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -312,6 +312,11 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
 * Active in OSPF, RTGWG, SPRING and NETMOD. 
 * Also following ISIS, IDR, SFC and DETNET.
 * Interested in: network architecture, routing protocols, network operations and design.
+### Zheng(Sandy) Zhang (last updated : 2025-04-15) 
+ * Serving as BIER Secretary, Delegate of BIER and PIM WG
+ * Activly follows: BIER, PIM, MBONED, LSR, RIFT, IDR, BESS, RTGWG, etc.
+ * Following WGs in RTG, OPS, INT areas. 
+ * Interested in routing protocols, network operations, data ceter related, etc.
 
 ----
 [Back to Routing Area wiki](/group/rtg/)
