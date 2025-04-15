@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-04T12:45:01.190Z
+date: 2025-04-15T01:58:11.933Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -260,8 +260,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Background in cable broadband, DOCSIS, linear/fragmented video, large metro networks
  * Always interested in network architecture, monetization, protocol design, regulation, open source
 
-
-
+### Shuping Peng (last updated : 2025-04-15) 
+ * Serving as SPRING Secretary
+ * Co-chair ART DISPATCH 
+ * Primarily active in Routing, INT, and ART area
+ * Interested in network architecture and protocol design
+ 
 ### Tomonori Takeda (last updated : 2015-05-13) 
  * Follow CCAMP, PCE
  * Interest in network architecture, SDN, operation
