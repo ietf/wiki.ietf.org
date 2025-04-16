@@ -2,7 +2,7 @@
 title: NASR(non-WG)-Network Attestation for Secured foRwarding
 description: The aim of Network Attestation for Secured FoRwarding is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 published: true
-date: 2025-04-10T03:07:00.098Z
+date: 2025-04-16T09:04:27.052Z
 tags: nasr
 editor: markdown
 dateCreated: 2025-04-10T03:07:00.098Z
@@ -71,3 +71,11 @@ Q19: Why not doing this in the SFC WG?
 
 Q20: For reliability, what about having multiple paths? Can it be a scalability issue? 
 ----Yes, the attribute of multiple path is included.
+
+Q21: Is it pratical to mechanically verify that a configuration is acceptable
+----Yes. but not RATS and not SEC area question, OPS area question.
+
+Q22: Is it possible to determine that the configuration/policy of a device is acceptable in a fashion that does not expose that configuration/policy to a counterparty
+----the party allowed to receive information about the router such as the configuration must be trusted to handle that information in a required responsible fashion, but not RATS and not SEC area question, OPS area question. RFC8994 can help.
+
+
