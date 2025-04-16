@@ -2,7 +2,7 @@
 title: AMD Key Distribution Service (KDS)
 description: Analysis of the KDS API and interaction model
 published: true
-date: 2025-04-09T12:59:29.998Z
+date: 2025-04-16T10:20:31.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T12:32:10.027Z
@@ -24,3 +24,17 @@ If the caller knows the product family name (eg. "Milan"), it can obtain the roo
 
 If the caller knows the hardware ID for an individual CPU as well as the product family name, it can obtain the leaf certificates, known as VCEKs.
 
+## Interaction Pattern
+The API is based on a small number of simple HTTP `GET` methods to request specific artifacts. Resource selection is implicit in the URL path, and the output is raw certificate data in either PEM or DER format. There is no JSON wrapping.
+
+## API Summary
+The following three HTTP methods are supported, all relative to `https://kdsintf.amd.com`:
+
+- `GET vcek/v1/{product_name}/cert_chain` - Returns the ASK an ARK certificates (PEM format, in that order) for the specified product name, where "Milan" is an example of a product name in the AMD CPU family. The returned data is an unwrapped concatenation of the two PEM files.
+- `GET vcek/v1/{product_name}/crl` - Returns the DER-formatted certificate revocation list for the named product, including the certificate chain, as per [Section 5 of RFC 5280](https://datatracker.ietf.org/doc/html/rfc5280#section-5).
+- `GET vcek/v1/{product_name}/{hwID}?{parameters}` - Returns the (leaf) VCEK Certificate corresponding to the TCB with the specified Security Patch Level (SPL) values, where unspecified SPL values are assumed to be zero.
+
+A VCEK, combined with the cert chain for its product family (ASK and ARK) makes a complete chain of trust for a Verifier.
+
+## Certificate Formats
+VCEK Certificates use custom X509 extensions to encode information about the TCB. These are essentially reference values for a Verifier.
