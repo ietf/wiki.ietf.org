@@ -2,7 +2,7 @@
 title: AMD Key Distribution Service (KDS)
 description: Analysis of the KDS API and interaction model
 published: true
-date: 2025-04-16T10:34:07.162Z
+date: 2025-04-16T13:09:42.077Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T12:32:10.027Z
