@@ -2,7 +2,7 @@
 title: AMD Key Distribution Service (KDS)
 description: Analysis of the KDS API and interaction model
 published: true
-date: 2025-04-16T10:33:13.074Z
+date: 2025-04-16T10:34:07.162Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T12:32:10.027Z
@@ -68,7 +68,7 @@ The certificate can be decoded using `openssl` as follows:
 openssl x509 -in vcek.crt -text -noout
 ```
 
-This results in the following x509 text dump:
+This results in the following x509 text dump (and note the extension fields):
 
 ```output
 Certificate:
