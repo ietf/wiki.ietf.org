@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-02-05T22:59:44.504Z
+date: 2025-04-16T15:33:16.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -159,10 +159,27 @@ The Hackathon kickoff and the project results presentations can be joined via Me
 
 ## IPR and Code Contribution Guideline
 
-All Hackathon participants are free to work on any code. The rules regarding that code are what each open source project and each participant's organization says they are. The code itself is not an IETF Contribution. However, discussions, presentations, demos, etc., during the Hackathon are IETF Contributions (similar to Contributions made in working group meetings). Thus, the usual IETF policies apply to these Contributions, including copyright, license, and IPR disclosure rules. 
+All Hackathon participants are free to work on any code. The rules regarding that code are what each open source project and each participant's organization says they are. The code itself is not an IETF Contribution. However, discussions, presentations, demos, etc., during the Hackathon are IETF Contributions (similar to Contributions made in working group meetings). Thus, the usual IETF policies apply to these Contributions, including copyright, license, and IPR disclosure rules.
 
 -------
- 
+
+## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
+
+* Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+
+---
+
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+```markdown
+### Your Project
+- **Champions**
+name and email
+- **Project Info**
+project description
+```
 ----
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
