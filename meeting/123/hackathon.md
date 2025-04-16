@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-04-16T16:28:31.358Z
+date: 2025-04-16T16:52:02.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -166,6 +166,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+For inspiration and examples of suitable project ideas see the [previous Hackathon page](/meeting/122/hackathon#ProjectsIncludedinHackathon).
 
 ---
 
