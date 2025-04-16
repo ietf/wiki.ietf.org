@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-04-15T21:18:30.530Z
+date: 2025-04-16T12:36:41.798Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -104,6 +104,7 @@ In Progress:
 
 #### 3.5. Outreach Coordinator Updates
 
+https://github.com/intarchboard/responsibilities/issues/15
 
 ### 4. Review of Upcoming IAB Responsibilities
 
