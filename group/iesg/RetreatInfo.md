@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-04-14T08:32:09.817Z
+date: 2025-04-16T18:26:20.573Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -77,6 +77,7 @@ IESG-only
   + YANG deVELpment PrOCEss & maintenance (VELOCE)
   + RFC5706 Refresh: Plan/Status Update of "Guidelines for Considering Operations and Management"
 * Some AUTH48 Matters (Med)
+* Side Meetings -- lessons learned from IETF 122 and discussions about IETF 123 (Secretariat?)
 
 
 
