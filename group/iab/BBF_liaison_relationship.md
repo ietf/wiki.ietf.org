@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-17T13:47:35.115Z
+date: 2025-04-17T13:58:51.075Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -20,7 +20,10 @@ The BBF is a company membership organization and as such their work in progress 
 
 Because BBF is a membership organization, the following should be considered in communication with the BBF:
 - as a company membership organization, individuals attending the BBF and with access to BBF private materials and information are not at liberty to share said information unless it has been explicitly conveyed via official, written BBF liaison to the IETF, IESG and/or specific working groups.  Individuals conveying work in progress, or other private BBF information  (including BBF contributions) outside of a written liaison are most likely in violation of their BBF membership agreement.  Such occurances should be brought to the attention of the IETF Liaison Manager to the BBF AND the BBF Liaison Officer to the IETF.
-- the distinction between coordination, cooperation and collaboration (including "joint meetings") should be strictly maintained.  While engagement and communication between stanards organizations and consortia are encouraged, these should be limited to coordination (i.e., 
+- the differences between coordination, cooperation and collaboration (including "joint meetings") should be strictly distinguished.  While engagement and communication between stanards organizations and consortia is encouraged, care must be taken to explicitly determine the level of engagement and communication.
+-- coordination: liaison exchange and communiation notifying each other of projects, scope and specifications relevant to and/or utilizing the published work of the other. Note: all work is done in each respective organization according to that organization's processes, procedures and policies (e.g., decision making, IPR policy, etc.)
+-- cooperation: coordination, plus - mutual consideration, planning and release of mutually relevant or related specification or activities. Note: all work is done in each respective organization according to that organization's processes, procedures and policies (e.g., decision making, IPR policy, etc.)
+-- collaboration (including "joint" meetings):  cooperation, plus - 
 - The BBF Liaison Officer to IETF is the only individual authorized to speak on behalf of the BBF.  Even then they must do so within the confines of explicit, written liaison to the IETF. (Per BBF process, only explicit, written liaisons represent an official BBF membership consensus view and information.)  Individuals speaking or conveying information beyond what is contained in explicit written liaison AND without authorization from the BBF Liaison Officer are not authorized to speak on behalf of the BBF and are likely in violation of their company's BBF membership agreement.
 
 <Editor's note: the following text applies to all liaison relationships and as such should be placed on a common, parent wiki page, not part of every individual liaison relationship page.  
