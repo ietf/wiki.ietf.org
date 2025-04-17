@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-17T13:20:57.408Z
+date: 2025-04-17T13:47:35.115Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -12,16 +12,19 @@ dateCreated: 2025-04-17T13:20:57.408Z
 
 ***_Under Construction_ - Note: blatantly copied from the ISO Liaison Relationship page to be used as a template/model***
 
-Current liaison relationships with ISO are either listed with ISOC or the IETF (due to historical reason - see further below).
+Current liaison relationships with BBF are with the IETF, the IAB and/or ISOC.  
+BBF information concerning liaison partners, including liaison communication process, can be found here: https://www.broadband-forum.org/about-bbf/liaison-partners
+*Note: while the BBF only lists "IETF" the relationship is actually with the three organizations above.
 
-ISO lists all liaison relationships with ISOC here: https://www.iso.org/organization/9418.html
+The BBF is a company membership organization and as such their work in progress and much of the liaison information, e.g., liaison officers, liaison repository, etc., are private access restricted to members only.  See the links and contact information on the BBF liaison web pages above for details.
 
-ISO lists all liaison relationships with the IETF here: https://www.iso.org/organization/8088116.html
+Because BBF is a membership organization, the following should be considered in communication with the BBF:
+- as a company membership organization, individuals attending the BBF and with access to BBF private materials and information are not at liberty to share said information unless it has been explicitly conveyed via official, written BBF liaison to the IETF, IESG and/or specific working groups.  Individuals conveying work in progress, or other private BBF information  (including BBF contributions) outside of a written liaison are most likely in violation of their BBF membership agreement.  Such occurances should be brought to the attention of the IETF Liaison Manager to the BBF AND the BBF Liaison Officer to the IETF.
+- the distinction between coordination, cooperation and collaboration (including "joint meetings") should be strictly maintained.  While engagement and communication between stanards organizations and consortia are encouraged, these should be limited to coordination (i.e., 
+- The BBF Liaison Officer to IETF is the only individual authorized to speak on behalf of the BBF.  Even then they must do so within the confines of explicit, written liaison to the IETF. (Per BBF process, only explicit, written liaisons represent an official BBF membership consensus view and information.)  Individuals speaking or conveying information beyond what is contained in explicit written liaison AND without authorization from the BBF Liaison Officer are not authorized to speak on behalf of the BBF and are likely in violation of their company's BBF membership agreement.
 
-All these liaison relationships are maintained by the IAB and are category A liaisons, providing full participation and document access. For further information see the ISO Directives (see section on "Liaison with other organisations"): https://www.iso.org/directives-and-policies.html
-
-Current direct link to section on "Liaison with other organisations": https://www.iso.org/sites/directives/current/consolidated/index.html#_Toc134090804
-
+<Editor's note: the following text applies to all liaison relationships and as such should be placed on a common, parent wiki page, not part of every individual liaison relationship page.  
+=== Begin common text ===
 RFC2026 (https://datatracker.ietf.org/doc/html/rfc2026#section-1) delegates all responsibilities from ISOC in the Internet Standards process to the IAB and IESG:
 
 >   The
@@ -43,6 +46,7 @@ The IAB's role in the management of external liaison is described in its charter
 >   or IESG as appropriate.
 
 A such the IAB is responsible for maintaining all liaison relationships with ISO (held by either ISOC or the IETF LLC) including management of the liaison manager role.
+=== End common text ===>
 
 ## Creating new ISO liaison relationships
 ISO requires in their directives (section on Eligibility - section 1.17.6 as of 2023-07-05) a legal entity as the organization to liaise with. Before the IETF LLC was established, ISOC was considered the legal umbrella of the IETF (see RFC2031). With the establishment of the IETF LLC all new liaison relationships have been and should beee established directly with the LLC.
