@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-03-17T05:30:24.337Z
+date: 2025-04-17T22:29:10.667Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -122,7 +122,7 @@ Which is nonetheless useful to save
 - [Special Interest Groups](/group/iesg/specialinterestgroups)
   How to create a special interest group (completed Nov 2020)
 - [Chartering Working Groups](/group/iesg/charteringworkinggroups)
-  How to charter a new working group (updated Oct 2020)
+  How to charter a new working group (updated Apr 2025)
 - [Expert Topics](/group/iesg/ExpertTopics)
   Expert Topics for WG Chairs and Document Authors
 - [Use Of Updates Tag](/group/iesg/useofupdatestag)
