@@ -316,8 +316,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Serving as BIER Secretary, Delegate of BIER and PIM WG
  * Activly follows: BIER, PIM, MBONED, LSR, RIFT, IDR, BESS, RTGWG, etc.
  * Following WGs in RTG, OPS, INT areas. 
- * Interested in routing protocols, network operations, data ceter related, etc.
-
+ * Interested in routing protocols, network operations, data center related, etc.
+### Donald Eastlake (last updated : 2025-04-19)
+* Co-chair of MANET and BABEL WGs
+* Former Co-Chair of TRILL, PPPEXT, XMLDSIG and other WGs
+* Also a member of the Security and Internet Directorates
+* Former Chair of IEEE 802.11s and 802.11ak
 ----
 [Back to Routing Area wiki](/group/rtg/)
 
