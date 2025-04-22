@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T11:57:16.220Z
+date: 2025-04-22T14:04:48.709Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -52,39 +52,6 @@ AND
 2. as specific to the intended recipient group as possible (e.g., BBF Work Area)
 
 &nbsp;
-&nbsp;
-&nbsp;
 
 ---
----
-
-==*<Editor's note: the following text applies to _**all**_ liaison relationships and as such should be placed on a common, parent wiki page, not part of every individual liaison relationship page.  >*==
-==Begin common text==
-## I* Roles and Responsibilities
-
-RFC2026 (https://datatracker.ietf.org/doc/html/rfc2026#section-1) delegates all responsibilities from ISOC in the Internet Standards process to the IAB and IESG:
-
->   The
->   Internet Standards process is an activity of the Internet Society
->   that is organized and managed on behalf of the Internet community by
->   the Internet Architecture Board (IAB) and the Internet Engineering
->   Steering Group (IESG).
-
-The IAB's role in the management of external liaison is described in its charter (RFC2850 - https://datatracker.ietf.org/doc/html/rfc2850#section-2) as following:
-
-> (f) External Liaison
->   The IAB acts as representative of the interests of the IETF and the
->   Internet Society in technical liaison relationships with other
->   organizations concerned with standards and other technical and
->   organizational issues relevant to the world-wide Internet. Liaisons
->   are kept as informal as possible and must be of demonstrable value in
->   improving the quality of IETF specifications.  Individual members of
->   the IETF are appointed as liaisons to other organizations by the IAB
->   or IESG as appropriate.
-
-A such the IAB is responsible for maintaining all liaison relationships with ISO (held by either ISOC or the IETF LLC) including management of the liaison manager role.
-==End common text==
-
----
-
 *The content of this page was last updated on 2025-04-17.
