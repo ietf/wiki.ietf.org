@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T21:24:17.783Z
+date: 2025-04-22T21:24:52.461Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -57,7 +57,7 @@ AND
 
 &nbsp;
 ## Tools and the IETF Datatracker Statements Database/Registry
-As noted, please see the links to the BBF liaison partner guidance above for relevant email addresses and contact informtion when sending liaisons.  If help is needed mapping this information to the [IETF Datatracker Liaison Statements registry/database](https://datatracker.ietf.org/liaison/), please contact the IETF Liaison Manager to the BBF using the contact info above.
+As noted, please see the links to the BBF liaison partner guidance above for relevant BBF email addresses and contact informtion when sending liaisons.  If help is needed mapping this information to the [IETF Datatracker Liaison Statements registry/database](https://datatracker.ietf.org/liaison/), please contact the IETF Liaison Manager to the BBF using the contact info above.
 
 ---
 *The content of this page was last updated on 2025-04-22.
