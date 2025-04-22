@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T16:32:21.708Z
+date: 2025-04-22T16:32:54.442Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -31,8 +31,6 @@ The differences between coordination, cooperation and collaboration (including "
   - _*coordination*_: liaison exchange and communiation notifying each other of projects, scope and specifications relevant to and/or utilizing the published work of the other. Note: all work is done in each respective organization according to that organization's processes, procedures and policies (e.g., decision making, IPR policy, etc.) and communicated in a timely manner to the other organization(s).
   - _*cooperation*_: coordination, plus - mutual consideration, planning and release of mutually relevant or related specification or activities. Note: all work is done in each respective organization according to that organization's processes, procedures and policies (e.g., decision making, IPR policy, etc.) and communicated in a timely manner to the other organization(s).
   - _*collaboration (including "joint" meetings and work)*_:  cooperation, plus - development of deliverables, by two or more organizations independent and outside of each organizations processes, procedures, policies, facilities and meetings.  Development, operations and output is subject to the mutually agreed processes, procedures, policies, facilities and meetings for specifically established apriori to the collaborative or "joint" activity and work.  The implication is that there is much more overhead and preparation needed for truly joint or collaborative work e.g., of usual concern are the membership and the IPR policies under which the joint or collaborative work is undertaken and approval / agreement to the policies by all participating in the joint/collaborative work or activities.  Use of true collaboration and joint work or meetings between multiple organizations is usually rare and well justified. There should be explicit and deliberate rationale for joint/collaborative work and explicit reasons why the work can't be done in one organization (according to the policies, procedures and process of that organization) and communicated or distributed to the others.
-
-
 
 ## Document access
 
