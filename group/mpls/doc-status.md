@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-03-11T14:58:09.634Z
+date: 2025-04-22T14:00:50.187Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 2024-10-29 | [draft-li-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-li-mpls-mna-nrp-selector/) | Waiting for review | Nic
+
 
 ## Queued for WG Adoption Poll
 
@@ -33,6 +33,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| 2025-04-15 | [draft-li-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-li-mpls-mna-nrp-selector/) | ETA=April 29th, 2025 | Nic
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -40,8 +41,8 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair |
 | --- | --- | --- | --- |
-| 2024-11-01 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | WGAP successful, document to be merged with draft-gandhi-mpls-mna-ioam-dex; merged document to be published as WG document | Nic |
-| 2024-11-01 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) |  WGAP successful, document to be merged with draft-mb-mpls-ioam-dex; merged document to be published as WG document | Nic |
+| 2024-11-01 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | merged into draft-ietf-mpls-mna-ioam | Nic |
+| 2024-11-01 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) | merged into draft-ietf-mpls-mna-ioam | Nic |
 
 ## MPLS WG Documents
 
@@ -63,7 +64,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | Requested |  YANG Dr. completed | Tarek
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | Requested |  YANG Dr. completed (pending comments) | Tarek
 
 ## In Working Group Last Call
 
@@ -76,15 +77,14 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
-| 2023-02-11 | [draft-ietf-mpls-bfd-directed](https://datatracker.ietf.org/doc/draft-ietf-mpls-bfd-directed/) | Experimental. Issues fixed in -30. Submitted for publication | Nic |
-| 2024-11-01 |  [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Standards Track, Submitted for publication | Nic |
-| 2025-01-07 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | Consensus on document status - ETA 1/07 | Tarek
-| 2025-01-07 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | Shepherd's Writeup | Tarek
+| 2025-01-07 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | WGLC failed | Tarek
 
 ## Post Working Group Last Call
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
+| 2025-01-07 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | Submitted to publication | Tarek |
+| 2024-11-01 |  [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Standards Track, Submitted for publication | Nic |
 | 2025-01-07 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | EDIT | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | EDIT | Tarek |
 | 2024-10-17 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | In RFC Editor queue | Tony |
