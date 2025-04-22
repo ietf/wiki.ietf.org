@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T14:07:35.628Z
+date: 2025-04-22T14:08:27.350Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -19,7 +19,6 @@ The liaison relationships between BBF and IETF is managed by two roles, one in e
 Note: The two roles may be assigned to the same person, provided they understand the nuances of representing both roles and can keep them independent and separated.
 
 BBF information concerning liaison partners, including liaison communication process and the *BBF Liaison Officer to IETF*, can be found here: https://www.broadband-forum.org/about-bbf/liaison-partners
-*Note: while the BBF only lists "IETF" the relationship is actually with the three organizations above.
 
 The BBF is a company membership organization and as such their work in progress and much of the liaison information, e.g., liaison officers, liaison repository, etc., are private access restricted to members only.  See the links and contact information on the BBF liaison web pages above for details.
 
