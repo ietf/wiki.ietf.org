@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T14:04:48.709Z
+date: 2025-04-22T14:05:38.109Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -34,6 +34,7 @@ Because BBF is a membership organization, the following should be considered in 
 
 
 ## Document access
+
 BBF published, completed works are publically available for free in most cases.  See:
 https://wiki.broadband-forum.org/display/RESOURCES/Broadband+Forum+Published+Resources
 and 
@@ -43,12 +44,16 @@ for details.
 Work in progress: Since the BBF is a membership organization, only company members have acccess to the BBF document facilities for work in progress.
 
 ## Organization Structure
+
 For the BBF organizational structure and "How we work", see:
 https://www.broadband-forum.org/about-bbf/how-we-work
 
 Most liaison activity between the BBF and the IETF is communicated between the BBF Technical Committee and its Work Areas  (similar to IETF Areas) and Project Streams (similar to IETF Working Groups).  Liaisons between the organizations should be addressed 
+
 1. per the BBF liaison guidance noted above 
+
 AND
+
 2. as specific to the intended recipient group as possible (e.g., BBF Work Area)
 
 &nbsp;
