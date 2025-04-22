@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T16:19:27.216Z
+date: 2025-04-22T16:32:21.708Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -24,7 +24,7 @@ The BBF is a company membership organization and as such their work in progress 
 
 Because BBF is a membership organization, the following should be considered in all communication with the BBF:
 - as a company membership organization, individuals attending the BBF and with access to BBF private materials and information are not at liberty to share said information unless it has been explicitly conveyed via official, written BBF liaison to the IETF, IESG and/or specific working groups.  Individuals conveying work in progress, or other private BBF information  (including BBF contributions) outside of a written liaison are most likely in violation of their BBF membership agreement.  Such occurances should be brought to the attention of the IETF Liaison Manager to the BBF AND the BBF Liaison Officer to the IETF.
-- The BBF Liaison Officer to IETF is the **_*only*_** individual authorized to speak on behalf of the BBF.  Even then, they must do so within the confines of explicit, written liaisons to the IETF. (Per BBF process, only explicit, written liaisons represent an official BBF membership consensus view and information.)  Individuals speaking or conveying information beyond what is contained in explicit written liaison AND without authorization from the BBF Liaison Officer are not authorized to speak on behalf of the BBF and are likely in violation of their company's BBF membership agreement.  For details on the BBF Liaison Officer to IETF, please see see the link above or the IETF Liaison Manager to the BBF.
+- The BBF Liaison Officer to IETF is the **_*only*_** individual authorized to speak on behalf of the BBF.  Even then, they must do so within the confines of explicit, written liaisons to the IETF. (Per BBF process, only explicit, written liaisons represent an official BBF membership consensus view and information.)  Individuals speaking or conveying information beyond what is contained in explicit written liaison AND without authorization from the BBF Liaison Officer are not authorized to speak on behalf of the BBF and are likely in violation of their company's BBF membership agreement.  For details on the BBF Liaison Officer to IETF, please see see the link above or the IETF Liaison Manager to the BBF (bbf-liaison@ietf.org)
 
 ## Notes on Coordination vs. Cooperation vs. Collaboration (and Joint) work and meetings
 The differences between coordination, cooperation and collaboration (including "joint meetings") should be strictly distinguished.  While engagement and communication between standards organizations and consortia are encouraged, care must be taken to explicitly determine the level of engagement and implications.
