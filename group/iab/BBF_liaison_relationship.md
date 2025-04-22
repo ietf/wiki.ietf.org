@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-22T14:05:38.109Z
+date: 2025-04-22T14:07:35.628Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
@@ -12,10 +12,9 @@ dateCreated: 2025-04-17T13:20:57.408Z
 
 ***_Under Construction_***
 
-Current liaison relationships with BBF are with the IETF, the IAB and/or ISOC.  
-There are currently two roles that lead and manage the liaison relationship:
-1. IETF Liaison Manager to BBF - represents the IETF view/position and helps BBF (including the BBF Liaison Officer) with IETF process, communications and culture).
-2. BBF Liaison Officer to IETF - represents the BBF view/position and helps IETF (including the IETF Liaison Manager with BBF process, communications and culture).
+The liaison relationships between BBF and IETF is managed by two roles, one in each organization:
+1. IETF Liaison Manager to BBF - represents the IETF view/position and helps BBF (including the BBF Liaison Officer) with IETF process, communications and culture.
+2. BBF Liaison Officer to IETF - represents the BBF view/position and helps IETF (including the IETF Liaison Manager) with BBF process, communications and culture.
 
 Note: The two roles may be assigned to the same person, provided they understand the nuances of representing both roles and can keep them independent and separated.
 
