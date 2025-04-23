@@ -2,7 +2,7 @@
 title: IETF Chair Timeline
 description: 
 published: true
-date: 2025-04-15T13:34:00.725Z
+date: 2025-04-23T19:44:51.918Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-09T20:27:38.978Z
@@ -38,7 +38,6 @@ IETFn+x: x weeks after IETFn, e.g. IETF2+3.
   * Manage the orderly transition of DISCUSS positions that can't be resolved before the AD transitions.
 
 * Confirm schedule for formal and informal telechats until IETF1+4.
-
 
 ### February/March (IETF1-4)
 * Get confirmed Nom Com results (see [IesgNomcom](/group/iesg/IesgNomcom)). 
@@ -80,21 +79,19 @@ IETFn-8: Deadline for WG scheduling and BOF requests should be next week. Ensure
 
 IETFn-7: IAB/IESG joint call to discuss BOFs should be this week.
 
-IETFn-5: Check that IETF agenda rescheduling to avoid clashes is under control.
+IETFn-6: Process the upcoming meeting's fee waiver requests.  
 
-IETFn-4: Arrangements and draft agendas for all IESG meetings at IETFn should be set, including joint meetings with IAB.
+IETFn-5: IESG approves final BOFs for IETFn
 
-IETFn-4: Arrangements and draft agendas for all General Area meetings and WGs at IETF1 should be set.
+IETFn-4: Arrangements and draft agendas for all General Area meetings and WGs at IETFn should be set.
 
 IETFn-4: Plenary agenda and presenters should be set.
 
-IETFn-4: The IAD should have reported to the IAOC "all is well"  for IETFn logistics.
-
-IETFn-2: Final agendas and logistics for all IESG meetings at IETFn should be set.
+IETFn-2: Arrangements and draft agendas for all IESG meetings at IETFn should be set, including joint meetings with IAB.
 
 IETFn-2: Final agendas for all General Area meetings and WGs at IETFn should be set.
 
-IETFn-2: Meetings with IAOC, IANA, RFC Editor, Secretariat at IETFn should be set. Also check for any ISOC Advisory Council or Board meetings at the IETF site.
+IETFn-1: Final agendas and logistics for all IESG meetings at IETFn should be set.
 
 IETFn week: The agenda drives you and you drive it.
 
