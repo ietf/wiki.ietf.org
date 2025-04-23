@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-04-06T17:31:07.655Z
+date: 2025-04-23T03:27:03.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -26,7 +26,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |AD|Item|Document|Remarks|
 |---|---|---|---|
-|Roman|IESG Telechat|draft-ietf-pce-segment-routing-policy-cp|Submitted on 2024-07-05|
+
 
 Some concerns: 
 - Not many responses 
