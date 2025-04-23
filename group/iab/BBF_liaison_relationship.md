@@ -2,7 +2,7 @@
 title: Broadband Forum Liaison Relationship
 description: This page describes the liaison relationship between the IAB, IETF and the Broadband Forum
 published: true
-date: 2025-04-23T17:26:08.562Z
+date: 2025-04-23T17:34:27.363Z
 tags: liaison
 editor: markdown
 dateCreated: 2025-04-17T13:20:57.408Z
