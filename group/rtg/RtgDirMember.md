@@ -2,7 +2,7 @@
 title: Routing Directorate Membership
 description: 
 published: true
-date: 2025-04-03T19:53:34.755Z
+date: 2025-04-23T10:54:20.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T19:07:30.904Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-21T19:07:30.904Z
 
 | Name                 |  Email                                  |  Affiliation               |  Last updated       |
 |----------------------|-----------------------------------------|----------------------------|---------------------|
-|  Acee Lindem         |  acee.ietf at gmail.com                    |  LabN Consulting        |  3 April 2025   |
+|  Acee Lindem         |  acee.ietf at gmail.com                    |  Arrcus, Inc.        |  3 April 2025   |
 |  Adrian Farrel       |  adrian at olddog.co.uk                 |  Old Dog Consulting     |  3 April 2025  |
 |  Alvaro Retana       | aretana.ietf at gmail.com                  |  Futurewei              |  3 April 2025   |
 | Andrew Alston        | andrew-ietf at liquid.tech              |   Liquid Labs          |  3 April 2025   |
