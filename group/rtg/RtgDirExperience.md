@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-15T02:51:10.888Z
+date: 2025-04-23T11:01:04.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -176,13 +176,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
 ### Geoff Huston (last updated : date) 
  * To Be Completed
 ### Acee Lindem (last updated : May 1st, 2014) 
- * Co-Chair OSPF WG
- * Currently Ericsson Distinguished Engineer focusing on IPOS Routing and IPOS system architecture   
- * Have also worked on routing for Cisco IOS, Redback SEOS, and IBM Nways
- * Active in OSPF, KARP, and RTG WGs. Also follow Homenet, ISIS, and IDR.  
- * Homenet Routing Advisor
- * Co-Authored RFCs in OSPF, CCAMP, MIP, and VRRP WGs. 
- * Interested in OSPFv3 modernization, IP Fast Re-Route, Segment Routing, and routing scaling/convergence. 
+ * Co-Chair LSR WG and LSVR WG
+ * Currently Distinguished Engineer at Arrcus, Inc.   
+ * Have also worked on routing for Cisco IOS, Redback SEOS, Ericsson IPOS, Cisco NXOS, and FRR Routing
+ * Active in LSR, LSVR, IDR, TSVR, and RTG WGs. 
+ * Co-Authored RFCs in OSPF, LSR, LSVR, RTG, IDR, CCAMP, MIP, and VRRP WGs. 
+ * Interested in routing scaling, segment routing, and management/monitoring or routing. 
 ### Andy Malis (last updated : 11 January 2019) 
  * Co-chair of PALS WG
  * Former (co-)chair of PWE3, IPATM, FRNETMIB, ROLC, other WGs and BOFs lost to history
