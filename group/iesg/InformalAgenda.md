@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-04-21T17:36:05.902Z
+date: 2025-04-24T10:53:49.151Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -42,6 +42,7 @@ Note that this page is public.
 
 ### Document Discussions
 
+- discussion on RFC7523bis (see https://mailarchive.ietf.org/arch/msg/oauth/Ec9NGQ0UmPvZVNwCGE5W5tadOhI/ - linked from oauth for ease only).  There was an oauth interim on this (minutes here:  https://datatracker.ietf.org/doc/minutes-interim-2025-oauth-04-202501271700/).
 
 ### Management Issues
 - [IESG Balloting Process Documentation](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) (Roman)
