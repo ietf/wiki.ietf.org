@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-04-16T18:36:27.324Z
+date: 2025-04-24T11:40:58.319Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -78,9 +78,8 @@ IESG-only
   + RFC5706 Refresh: Plan/Status Update of "Guidelines for Considering Operations and Management"
 * Some AUTH48 Matters (Med)
 * Side Meetings -- lessons learned from IETF 122 and discussions about IETF 123 (Secretariat)
-
-
-
+  + Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
+* IESG's expectations from documents on Experimental Track (Ketan)
 
 
 ### RSVP
