@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-04-24T11:40:58.319Z
+date: 2025-04-24T11:44:13.938Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -80,6 +80,9 @@ IESG-only
 * Side Meetings -- lessons learned from IETF 122 and discussions about IETF 123 (Secretariat)
   + Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 * IESG's expectations from documents on Experimental Track (Ketan)
+* Balloting Related Topics
+  + Do current DISCUSS criteria cover experimental and informational docs? (Ketan)
+  + How does responsible AD know which comments are "important" (i.e., Do we need classification of comments?) (Ketan)
 
 
 ### RSVP
