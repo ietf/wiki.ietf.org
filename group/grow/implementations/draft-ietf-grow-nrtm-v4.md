@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-04-22T15:30:48.453Z
+date: 2025-04-25T14:00:26.051Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -85,7 +85,7 @@ For brevity, Update Notification File is abbreviated as UNF.
 | If some Delta Files are rejected, it MAY process the valid Delta Files, but MUST NOT skip over any rejected Delta Files while doing so (4.3) | no/NA | no | no/NA | yes |
 | Every time a mirror client retrieves a new version of the UNF, it MUST verify the included signature (4.4) | yes | yes | yes | yes |
 | The signature MUST be valid for the configured public key for the contents of the UNF (4.4) | yes | yes | yes | yes |
-| If the signature does not match, the mirror client MUST reject the UNF, unless a key rotation is in progress (4.4) | yes | yes/NA | yes/NA | no |
+| If the signature does not match, the mirror client MUST reject the UNF, unless a key rotation is in progress (4.4) | yes | yes/NA | yes/yes  | no |
 | If the generation timestamp is more than 24 hours ago, the file is stale and the mirror client SHOULD warn the operator ... but MAY continue to process it otherwise (4.4) | yes/no (old files are rejected) | no/no | yes (warning)/yes | no/yes |
 | MAY have a policy that restricts the processing of objects to certain object classes, or other limitations on which objects it processes .. this MUST be applied consistently to Snapshot Files and Delta Files from the moment the policy is enacted or modified (4.5) | yes/yes | no/no | yes/yes | no/no |
 {.dense}
@@ -105,7 +105,7 @@ For brevity, Update Notification File is abbreviated as UNF.
 | When mirror clients next retrieve the UNF, they MUST detect the next_signing_key field, and store the key (8.4) | yes | no | yes |
 | (after rotation) Any UNF generated after this point MUST be signed with this new key, and will not contain a next_signing_key field (8.4) | yes | yes | N/A |
 | RECOMMENDED period between publication of the upcoming key in the next_signing_key field, and removal of the old key, is one week (8.4) | N/A, manual operator process | yes | N/A |
-| When mirror clients retrieve an UNF and find that the signature does not match, they MUST attempt to verify against a next_signing_key encountered in a previous (valid) file. If the signature matches for this new key, the client MUST update its configuration to use the new key for validation. After this, the client MUST NOT use the old key for validation at any time: a mirror server can not switch back to an old key (8.4) | yes/yes/yes | no/no/no | no/no/no |
+| When mirror clients retrieve an UNF and find that the signature does not match, they MUST attempt to verify against a next_signing_key encountered in a previous (valid) file. If the signature matches for this new key, the client MUST update its configuration to use the new key for validation. After this, the client MUST NOT use the old key for validation at any time: a mirror server can not switch back to an old key (8.4) | yes/yes/yes | no/no/no | yes/yes/yes |
 {.dense}
 
 ### Security Considerations
