@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-04-15T21:15:12.197Z
+date: 2025-04-29T01:26:54.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -18,7 +18,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 - Does this proposal cause any issues with other protocols or functions in the Internet, and have those effects been considered?
 
 ## Deployment incentives
-- Does this proposal promote the interests of end users? See also RFC 8890.
+- Does this proposal promote the interests of end users, and have affected communities been made aware of it and had an opportunity to provide input? Merely asking people to bring their feedback to the IETF is insufficient; we should make an effort to engage others on their own turf. See also RFC 8890.
 - Does the proposal have a realistic chance of being deployed, e.g., have suitable deployment incentives?
 - Does this proposal risk favoring or incentivizing centralized deployments in a way that could harm users? And if so, are there any changes to the proposal that would make it work better?
 - Does this proposal have support of a wide number of entities, or does it represent a few proponents?
