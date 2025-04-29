@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2025-04-10T00:54:46.508Z
+date: 2025-04-29T00:31:29.236Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -28,6 +28,13 @@ Wikis are used by participants to share information about and coordinate around 
 - IETF 124 Meeting Wiki
 - IETF 124 Side Meetings
 - IETF 124 Hackathon
+{.links-list}
+
+#### IETF 124 Shenzhen
+**March 14-20, 2026** - :cn: Shenzhen, China
+- IETF 125 Meeting Wiki
+- IETF 125 Side Meetings
+- IETF 125 Hackathon
 {.links-list}
 
 ## Past meetings
