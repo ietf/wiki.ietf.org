@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2025-04-29T00:31:29.236Z
+date: 2025-04-30T22:20:52.619Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -25,7 +25,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 #### IETF 124 Montreal
 **November 01-07, 2025** - :canada: Montreal, Canada
-- IETF 124 Meeting Wiki
+- [IETF 124 Meeting Wiki](/meeting/124)
 - IETF 124 Side Meetings
 - IETF 124 Hackathon
 {.links-list}
