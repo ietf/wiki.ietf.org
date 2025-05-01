@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-04-24T11:44:13.938Z
+date: 2025-05-01T23:09:36.720Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -59,7 +59,7 @@ Afternoon - IESG only
 #### Thursday, June 19 (IESG only)
 - IETF 123 Agenda Conflict Resolution (Liz + IESG)
 
-#### Friday, June 28
+#### Friday, June 20
 
 No meetings.
 
