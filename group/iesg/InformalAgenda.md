@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-01T08:22:56.925Z
+date: 2025-05-01T13:14:40.618Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,6 +54,7 @@ Note that this page is public.
 - [Process for IESG Appointment of RSWG Chair](https://iesg.privatewikis.ietf.org/rswgchairappointment) (Cindy)
 - [Slack Usage Policy](https://docs.google.com/document/d/1S8S9B2JCNsG3nAv08RAWHgJCn9LPBLVpe0ZfpsbeuSA/) (Roman)
 - Conflict review process Q, Use of FedTLS acronym by ISE (Paul)
+- Pending appeals (Roman)
 
 
 ### WG News 
