@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-04-30T14:11:58.643Z
+date: 2025-05-01T08:22:56.925Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -31,6 +31,7 @@ Meeting password: 12345
 Tommy Pauly
 Gunter Van de Velde
 Éric Vyncke
+Kline, Erik
 
 ## Agenda
 
