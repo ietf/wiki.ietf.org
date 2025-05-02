@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-05-02T15:30:22.183Z
+date: 2025-05-02T22:08:20.065Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -38,6 +38,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [Broadband Forum (BBF) liaison relationship](/group/iab/BBF_liaison_relationship)
 * [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)
+* [ITU-T liaison relationship](/group/iab/ITU-T_liaison_relationship)
 
 ## Processes and Guidance 
 * [IAB Onboarding and Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)  (Google Slides)
