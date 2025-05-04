@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-04-22T14:00:50.187Z
+date: 2025-05-04T21:20:27.258Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -27,13 +27,13 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
-| 2024-11-01 | [draft-jags-mpls-ps-man-hdr-03 ](https://datatracker.ietf.org/doc/draft-jags-mpls-ps-mna-hdr/) | in progress| in preparation |  - none -  | Nic |
+| 2024-11-01 | [draft-jags-mpls-ps-man-hdr-03 ](https://datatracker.ietf.org/doc/draft-jags-mpls-ps-mna-hdr/) | in progress| in preparation |  2nd adoption poll planned  | Adrian |
 
 ## In Adoption Poll
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| 2025-04-15 | [draft-li-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-li-mpls-mna-nrp-selector/) | ETA=April 29th, 2025 | Nic
+| 2025-04-15 | [draft-li-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-li-mpls-mna-nrp-selector/) | Poll completed April 29th, 2025 | Adrian |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -41,8 +41,6 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair |
 | --- | --- | --- | --- |
-| 2024-11-01 | [draft-mb-mpls-ioam-dex-06](https://datatracker.ietf.org/doc/draft-mb-mpls-ioam-dex/) | merged into draft-ietf-mpls-mna-ioam | Nic |
-| 2024-11-01 | [draft-gandhi-mpls-mna-ioam-dex ](https://datatracker.ietf.org/doc/draft-gandhi-mpls-mna-ioam-dex/) | merged into draft-ietf-mpls-mna-ioam | Nic |
 
 ## MPLS WG Documents
 
@@ -83,14 +81,11 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
-| 2025-01-07 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | Submitted to publication | Tarek |
-| 2024-11-01 |  [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Standards Track, Submitted for publication | Nic |
+| 2024-11-01 |  [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | RFC Editor Queue | Nic |
 | 2025-01-07 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | EDIT | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | EDIT | Tarek |
-| 2024-10-17 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | In RFC Editor queue | Tony |
+| 2024-10-17 | [draft-ietf-mpls-rfc6374-sr](https://datatracker.ietf.org/doc/draft-ietf-mpls-rfc6374-sr/) | AUTH48 | Tony |
 | 2024-00-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | In publication queue, waiting for Framework | Tony |
-| 2025-01-07 | [draft-ietf-mpls-inband-pm-encapsulation]( https://datatracker.ietf.org/doc/draft-ietf-mpls-inband-pm-encapsulation/) |  In AUTH48 | Tony |
-| 2025-01-07 | [draft-ietf-mpls-ri-rsvp-frr-19](https://datatracker.ietf.org/doc/draft-ietf-mpls-ri-rsvp-frr/) | In AUTH48 | Nic |
-| 2025-03-11 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | In RFC Editor queue | Tarek
+| 2025-03-11 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | IESG telechat: 2025-05-22 | Tarek
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
