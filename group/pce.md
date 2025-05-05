@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-05-03T14:23:16.224Z
+date: 2025-05-05T15:11:35.620Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -84,7 +84,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Draft | Imp Sec | Manag Sec| State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |---|
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | Y| In WG LC; Ends 2025-05-07 | IPR-0/5 | Julien | Julien |
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Y | Y| In WG LC; Ends 2025-05-07 | IPR-3/5 (1x email unreachable, retired, tbd) | Julien | Julien |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | Y| -10 posted on 2025-01-06 | Ready for WGLC | Dhruv | - |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| Y| -15 posted on 2025-02-13  | Ready for WGLC | Dhruv | - |
 
