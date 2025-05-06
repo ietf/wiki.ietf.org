@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-04-01T05:12:15.313Z
+date: 2025-05-06T08:57:58.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -47,6 +47,7 @@ Banff Room, 29th floor
 - Architecture for Zero-Trust Networks (Cullen; see notes from 2025-01-08)
 - Plans for IGF and WSIS 
 - Outreach Planning (Dhruv)
+- Guidance for External (Non-IETF) Events (Dhruv)
 - Inclusive Language / Clarity of Language
 - Reliance on NIST documents
 - Potential 2Q2025-1Q2026 IAB Workshops
