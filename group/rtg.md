@@ -2,7 +2,7 @@
 title: Routing Area Wiki
 description: 
 published: true
-date: 2025-05-08T09:58:49.116Z
+date: 2025-05-08T09:59:38.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T05:24:30.144Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-21T05:24:30.144Z
 This Wiki contains additional information for the Routing Area. 
 
 ## Who are the Routing Area Directors?
-
+&nbsp;
 <img src="https://www.ietf.org/lib/dt/media/photo/jim_RMEvG91.png" alt="Jim" height="150"/>
 
 Jim Guichard
