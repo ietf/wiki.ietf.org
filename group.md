@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-03-03T18:28:52.020Z
+date: 2025-05-08T09:10:11.995Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -250,7 +250,6 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 # Directorates
 
-The legacy wiki contains [guidelines for directorates](https://trac.ietf.org/trac/iesg/wiki/DirectoratesGuidelines).
 
 # {.tabset}
 ## Alphabetical
