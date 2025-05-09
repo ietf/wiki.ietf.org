@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-06T08:57:58.506Z
+date: 2025-05-09T16:07:13.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -51,6 +51,7 @@ Banff Room, 29th floor
 - Inclusive Language / Clarity of Language
 - Reliance on NIST documents
 - Potential 2Q2025-1Q2026 IAB Workshops
+- Online Harrassment with Zakir Durumeric (remote talk) 
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
