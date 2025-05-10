@@ -54,56 +54,30 @@ for the IAB chair to determine whether it will be held open or secret.
 ## Normal Process
 
 The IAB chair (or executive director on the instructions of the chair) will 
-typically follow the following process:
+typically follow the following process to initiate a vote:
 
-- If the request for a vote comes from an external source (e.g., the NomCom
-  provides its IESG slate for confirmation), then, as soon as possible after
-  receiving the request, the IAB chair adds the vote topic to the agenda of the
-  next IAB teleconference. If the next meeting is less than 48 hours away, the
-  chair should instead add the topic to the following teleconference.
+- The chair emails the list of voting members to start an email discussion on
+  the topic, stating whether ballots are open or secret.
 
-- The chair emails the list of voting members to announce the date of the
-  discussion, whether ballots are open or secret, and start an email discussion
-  thread on the topic.
-  
-- The agenda of that meeting will include the vote discussion, and needs to be
-  posted at least 48 hours in advance. If the discussion will happen in an
-  irregularly scheduled meeting (i.e. meetings other than the weekly IAB
-  meeting teleconference or meetings prescheduled during IETF week) then, the
-  new meeting needs to be announced at least a week in advance.
+- Discussion and votes will continue on the voting members list, and during any
+  teleconference(s) that occur.
 
-- Discussion and votes will continue on the voting members list, and during the
-  teleconference.
-
-- The vote will typically stay open until a vote has been recorded for every
+- The vote will typically stay open until a position has been recorded for every
   single voting member, even after a majority has been reached. This ensures
   every voice can be heard. Note that it is reasonable for any voting member to
   request a few days to review available information before voting.
 
-- If the vote has enough affirmative votes that it would pass if all remaining
-  votes were dissents, and at least 7 days have elapsed since the
-  teleconference, then the chair can decide to declare the vote closed and
-  successful. This avoids deadlock if a voting member is unable or unwilling to
-  vote.
+- At the chair's option, a vote can be held open until there is an opportunity
+  to discuss it in the next meeting. Likewise, if more than two voting members
+  request discussion in the next meeting, the vote will remain open until that
+  discussion takes place. Here, 'next meeting' is the next regularly scheduled
+  meeting greater than 48 hours after the first request is received, or in the
+  case of an irregularly scheduled meeting, 7 days after that time.
 
-- A vote can result as a consequence of a teleconference discussion (e.g., the
-  topic of an appointment was on the agenda of the teleconference without
-  explicitly mentioning a vote, but during the discussion there was consensus
-  to start a vote on the topic). In those cases, votes can be tallied in the
-  teleconference, and/or the email to announce the vote can be sent out without
-  requiring a second teleconference on this topic.
-
-## Expedient Decisions
-
-If a decision is needed within a short time frame, any IAB member (or the
-executive director) can call a vote without first placing the topic on an IAB
-meeting agenda. If all voting members reply and they have all voted
-affirmatively or recused themselves, then the decision is considered to have
-the full consensus of the IAB and does not need to follow the Normal Process
-described above. If any voting member votes against the decision, has not
-responded, or simply requests a discussion on the topic, then the topic is
-added to the agenda of an upcoming IAB meeting and the Normal or Alternative
-Process is followed as usual.
+- Absent that, if the vote has enough affirmative votes that it would pass if all
+  remaining votes were dissents, and at least 7 days have elapsed since the
+  vote was announced, then the chair can decide to declare the vote closed and
+  successful. This avoids deadlock if a voting member is unable or unwilling to vote.
 
 ## Alternative Process
 
