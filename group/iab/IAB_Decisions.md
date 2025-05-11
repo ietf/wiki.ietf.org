@@ -71,7 +71,7 @@ typically follow this process to initiate a vote:
   to discuss it in the next meeting. Likewise, if more than two voting members
   request discussion in the next meeting, the vote will remain open until that
   discussion takes place. Here, 'next meeting' is the next regularly scheduled
-  meeting greater than 48 hours after the first request is received, or in the
+  meeting more than 48 hours after the first request is received, or in the
   case of an irregularly scheduled meeting, 7 days after that time.
 
 - Absent that, if the vote has enough affirmative votes that it would pass if all
