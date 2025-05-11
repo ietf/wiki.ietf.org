@@ -2,7 +2,7 @@
 title: Routing Area Wiki
 description: 
 published: true
-date: 2024-11-13T10:48:31.106Z
+date: 2025-05-08T09:59:38.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T05:24:30.144Z
@@ -12,14 +12,7 @@ dateCreated: 2022-12-21T05:24:30.144Z
 This Wiki contains additional information for the Routing Area. 
 
 ## Who are the Routing Area Directors?
-
-<img src="https://www.ietf.org/lib/dt/media/photo/john-scudder-Qvw5b.jpg" alt="John" height="150"/>
-
-John Scudder
-[IESG biography](https://datatracker.ietf.org/person/John%20Scudder)
-John is affiliated with Juniper Networks
 &nbsp;
-
 <img src="https://www.ietf.org/lib/dt/media/photo/jim_RMEvG91.png" alt="Jim" height="150"/>
 
 Jim Guichard
@@ -32,6 +25,14 @@ Jim is affiliated with Futurewei Technologies
 Gunter Van de Velde
 [IESG biography](https://datatracker.ietf.org/person/Gunter%20Van%20de%20Velde)
 Gunter is affiliated with Nokia
+&nbsp;
+
+<img src="https://www.ietf.org/lib/dt/media/photo/Ketan_Talaulikar_IETF_small_Nkq62aJ.jpg" alt="Ketan" height="150"/>
+
+Ketan Talaulikar
+[IESG biography](https://datatracker.ietf.org/person/Ketan%20Talaulikar)
+Ketan is affiliated with Cisco Systems
+&nbsp;
 
 ----
 

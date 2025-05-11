@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-04-16T17:33:45.457Z
+date: 2025-05-08T17:15:39.789Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -15,16 +15,20 @@ dateCreated: 2023-12-04T23:35:41.632Z
 * Meeting password: 1@Bmeet
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
 * As of April 2025:
-    * Meetings are at 0600 Pacific Time 
+    * Teleconferences are at 0600 Pacific Time 
          - UTC-7 when North America observes Daylight Time 
          - UTC-8 when North America observes Standard Time
+    * The IAB also conducts business at in-person meetings (e.g. during IETF meetings or the IAB retreat)
 
+## Next IAB Business Meeting: 2025-06-16 - 2025-06-17
 
-## IAB Agenda: 2025-05-14 0600-0800 PDT (UTC-7) 
+The next IAB business meeting will be in-person during the [IAB retreat](/group/iab/2025_Retreat).
+
+## Next IAB Teleconference: 2025-08-27 0600-0800 PDT (UTC-7) 
 
 ***NOTE: This is a reserved meeting slot. If there are no urgent agenda items one week before the meeting, it may be cancelled.***
 
-*Agenda as of 2025-04-16. IAB agendas are subject to change, up to and during the meeting.*
+*Agenda as of 2025-05-08. IAB agendas are subject to change, up to and during the meeting.*
 
 
 ### 1. Administrivia (Cindy) - <5 mins (Public)
@@ -35,39 +39,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 #### 1.3. Meeting Minutes 
 
-For approval:
-
-* 2025-03-20 business meeting - (submitted 2025-04-14)
-
 #### 1.4. Action Item Review - 5 mins
-
-Done:
-
-
-    
-On Hold:
-
-* 2024-12-18: Suresh Krishnan to try and schedule a technical 
-    discussion about the Tesla Transport Protocol over Ethernet 
-    (TTPoE).
-- 2023-06-07: Dhruv Dhody and Wes Hardaker to track adding IAB
-    review of proposed WG charters to the Datatracker.
-    - See https://github.com/ietf-tools/datatracker/issues/5849
-
-In Progress: 
-
-* 2025-01-22: Suresh Krishnan to draft a wiki page detailing what 
-    information the IAB needs from NomCom in order to confirm IESG 
-    candidates.
-    
-* 2025-04-16: Cindy Morgan to set up a Webex for a Liaison Coordinator 
-  meeting on 2025-04-23 at 0600 PDT
-
-* 2025-04-16: Cindy Morgan to follow up with the incumbents for the 
-  Community Coordination Group (CCG).
-
-* 2025-04-16: Cindy Morgan to follow up with the incumbent for the Root 
-  Zone Evolution Review Committee.
 
 ### 2. External Reports
 
@@ -82,8 +54,6 @@ In Progress:
 ## Upcoming Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
-
-- 2025-05-14: IAB Business Meeting (Reserved)
 
 -- 2025-06-16 - 2025-06-20: IAB/IESG Retreat --
 
@@ -109,7 +79,6 @@ See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 * maprg review 
 * Direct IETF liaisons to JTC & ISO (Lars/Jay)
 * DNS Root Server Maintenance document (Wes)
-* Boilerplate responses to liaison statements (with Scott Mansfield)
 * Executive Session: NomCom confirmation process debrief
 
 
