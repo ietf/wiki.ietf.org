@@ -57,7 +57,7 @@ The IAB chair (or executive director on the instructions of the chair) will
 typically follow this process to initiate a vote:
 
 - The chair emails the list of voting members to start an email discussion on
-  the topic, stating whether ballots are open or secret.
+  the topic, optionally indicating that the ballots will be secret.
 
 - Discussion and votes will continue on the voting members list, and during any
   teleconference(s) that occur.
