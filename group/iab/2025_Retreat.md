@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-12T02:41:17.363Z
+date: 2025-05-12T02:51:23.182Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -26,8 +26,27 @@ Banff Room, 29th floor
 
 ### Monday, 16 June 2025 (IAB Only)
 
+*Tentative outline*
+Morning:
+1. Formal Board Meeting (tasks, reports, appointments), 2hr
+1. Events & Outreach (IGF/WSIS, focus with ISOC), 2hr
+
+Afternoon:
+1. Process / Administrative topics (appeal, liaisons, decision process), 3-4hr
 
 ### Tuesday, 17 June 2025 (AM IAB Only, PM Joint IAB/IESG)
+
+*Tentative outline*
+Morning:
+1. Workshop proposals, 2hr
+1. Technical topics (invited talk, etc), 2hr
+
+Afternoon:
+1. Joint topics, round table
+1. (Maybe review workshop proposals with IESG)
+
+Evening:
+Joint dinner
 
 ### Wednesday, 18 June 2025 (AM Joint IAB/IESG)
 
