@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-12T02:51:23.182Z
+date: 2025-05-12T02:59:49.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -28,22 +28,23 @@ Banff Room, 29th floor
 
 *Tentative outline*
 Morning:
-1. Formal Board Meeting (tasks, reports, appointments), 2hr
 1. Events & Outreach (IGF/WSIS, focus with ISOC), 2hr
+1. Appeal response (2hr)
 
 Afternoon:
-1. Process / Administrative topics (appeal, liaisons, decision process), 3-4hr
+1. Other Administrative topics (liaisons, decision process), 2hr
+1. Formal Board Meeting (tasks, reports, appointments, votes), 2hr
 
 ### Tuesday, 17 June 2025 (AM IAB Only, PM Joint IAB/IESG)
 
 *Tentative outline*
 Morning:
-1. Workshop proposals, 2hr
+1. IP geo workshop proposal, 1hr
 1. Technical topics (invited talk, etc), 2hr
 
 Afternoon:
 1. Joint topics, round table
-1. (Maybe review workshop proposals with IESG)
+1. Age verification workshop proposal, 1hr (to have Mark join)
 
 Evening:
 Joint dinner
@@ -63,7 +64,7 @@ Joint dinner
 
 ## Proposed Agenda Topics
 
-*Scheduling notes: Full board meeting / votes should be when remote people can join (Mark will be remote from Australia); Sally from ISOC will be able to join for Mon/Tues*
+*Scheduling notes: Full board meeting / votes should be when remote people can join (Mark will be remote from Australia; prefers toronto 3:30-5:30pm slots); Sally from ISOC will be able to join for Mon/Tues*
 
 ### Events and Outreach
 
@@ -94,6 +95,7 @@ Joint dinner
 - Discuss CCG appointment (exec session)
 - Discuss RZERC appointment (exec session)
 - Review IABOPEN agenda for IETF 123
+- Potentially vote on decision process
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
