@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-12T02:59:49.683Z
+date: 2025-05-12T03:04:57.481Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -41,6 +41,7 @@ Afternoon:
 Morning:
 1. IP geo workshop proposal, 1hr
 1. Technical topics (invited talk, etc), 2hr
+	- "Online Harrassment" with Zakir Durumeric talk at 11am?
 
 Afternoon:
 1. Joint topics, round table
