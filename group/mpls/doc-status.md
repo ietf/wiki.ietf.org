@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-05-06T14:54:53.748Z
+date: 2025-05-13T20:38:39.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -18,7 +18,6 @@ The authors have indicated to the chairs that they consider these documents read
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
 
-
 ## Queued for WG Adoption Poll
 
 Documents in this state are waiting for the chairs to issue an adoption poll. Adoption polls and working group last calls will be paced by the chairs so that the working group participants are not swamped with review activity.
@@ -32,7 +31,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| 2025-04-15 | [draft-li-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-li-mpls-mna-nrp-selector/) | Poll completed April 29th, 2025 | Adrian |
 | 2025-05-06 | [draft-jags-mpls-ps-man-hdr](https://datatracker.ietf.org/doc/draft-jags-mpls-ps-mna-hdr/) | In progress. Completes 2025-05-21 | Adrian |
 
 ## Adoption Poll Complete But Pending Author Action
