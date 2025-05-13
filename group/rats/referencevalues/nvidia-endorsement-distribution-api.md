@@ -2,7 +2,7 @@
 title: NVIDIA RIM Service
 description: NVIDIA Reference Integrity Manifest (RIM) Service 1.0
 published: true
-date: 2025-04-10T18:21:02.791Z
+date: 2025-05-13T10:49:54.819Z
 tags: rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2025-04-09T09:34:59.945Z
@@ -145,6 +145,8 @@ Corim:
 ```
 
 `corim-map.id` is a text string with the product ("ConnectX-7") and firmware version ("28.39.408") separated by "_".
+
+Note: There is no explicit profile, but there should be one since this doesn't use TCG DICE.
 
 ```
   "tags": [
