@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-12T03:04:57.481Z
+date: 2025-05-14T04:02:08.063Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -61,6 +61,7 @@ Joint dinner
 #### Topics
 
 - Next retreat in APAC (Qin/Dhruv)
+- Support (meetecho, etc) for groups to co-locate to attend IETF remotely (Tommy)
 
 
 ## Proposed Agenda Topics
