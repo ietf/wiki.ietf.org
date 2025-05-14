@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2025-04-01T22:22:12.920Z
+date: 2025-05-14T19:34:06.867Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -32,47 +32,43 @@ The Network Configuration Access Control Model (NACM) [RFC8341] provides the mea
 > If the data model contains any writable data nodes (those are all the "config true" nodes), then include the following text:
 {.is-info}
 
-
 There are a number of data nodes defined in this YANG module that are writable/creatable/deletable (i.e., "config true", which is the default).  All writable data nodes are likely to be reasonably sensitive or vulnerable in some network environments.  Write operations (e.g., edit-config) and delete operations to these data nodes without proper protection or authentication can have a negative effect on network operations.  The following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
 > If the data model contains any particularly sensitive data nodes, e.g., ones that might be protected by a "nacm:default-deny-write" or a "nacm:default-deny-all" extensions statement, then those subtrees and data nodes must be listed, with an explanation of the associated security risks with a focus on how they can be disruptive if abused. Otherwise, state:
 > "There are no particularly sensitive writable data nodes."
-> 
-{.is-info}
+<!-- {blockquote:.is-info} -->
 
 ### Readable nodes section:
 > If the data model contains any readable data nodes (i.e., those that are "config false" nodes, but also all other nodes, because they can also be read via operations like get or get-config), then include the following text:
-> 
 {.is-info}
 
 Some of the readable data nodes in this YANG module may be considered sensitive or vulnerable in some network environments.  It is thus important to control read access (e.g., via get, get-config, or notification) to these data nodes. Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
-> You must evaluate whether the data model contains any readable data nodes (those are all the "config false" nodes, but also all other nodes, because they can also be read via operations like get or get-config) are particularly sensitive or vulnerable (e.g., if they might reveal customer information or violate personal privacy laws). Typically, particularly sensitive readable data nodes are ones that might be protected by a "nacm:default-deny-read" or a "nacm:default-deny-all" extensions statement. Otherwise, state: "There are no particularly sensitive readable data nodes."
-{.is-info}
+> You must evaluate whether the data model contains any readable data nodes (those are all the "config false" nodes, but also all other nodes, because they can also be read via operations like get or get-config) are particularly sensitive or vulnerable (e.g., if they might reveal customer information or violate personal privacy laws). Typically, particularly sensitive readable data nodes are ones that might be protected by a "nacm:default-deny-read" or a "nacm:default-deny-all" extensions statement. Otherwise, state: 
+> "There are no particularly sensitive readable data nodes."
+<!-- {blockquote:.is-info} -->
 
 
 ### RPC/action operations section:
 > If the data model contains any RPC or action operations, then include the following text:
 {.is-info}
 
-
 Some of the RPC or action operations in this YANG module may be considered sensitive or vulnerable in some network environments. It is thus important to control access to these operations. Specifically, the following operations have particular sensitivities/ vulnerabilities:
 
-> If the data model contains any particularly sensitive RPC or action operations, then those operations must be listed here, along with an explanation of the associated specific sensitivity or vulnerability concerns. Otherwise, state: "There are no particularly sensitive RPC or action operations."
-{.is-info}
+> If the data model contains any particularly sensitive RPC or action operations, then those operations must be listed here, along with an explanation of the associated specific sensitivity or vulnerability concerns. Otherwise, state: 
+>"There are no particularly sensitive RPC or action operations."
+<!-- {blockquote:.is-info} -->
 
 
 ### Reusable groupings from other modules section:
 > If the data model reuses groupings from other modules and the document that specifies these groupings also includes those as data nodes, then add this text to remind the specific sensitivity or vulnerability of reused nodes.
 {.is-info}
 
-
 This YANG module uses groupings from other YANG modules that define nodes that may be considered sensitive or vulnerable in network environments. Refer to the Security Considerations of [RFC-insert-numbers] for information as to which nodes may be considered sensitive or vulnerable in network environments.
 
 ### No data nodes section:
 > If the data model does not define any data nodes (i.e., none of the above sections or readable/writable data nodes or RPCs have been included), then add the following text:
 {.is-info}
-
 
 The YANG module defines a set of identities, types, and groupings. These nodes are intended to be reused by other YANG modules. The module by itself does not expose any data nodes that are writable, data nodes that contain read-only state, or RPCs. As such, there are no additional security issues related to the YANG module that need to be considered.
 
@@ -88,6 +84,7 @@ Modules that use the groupings that are defined in this document should identify
   * Update from RFC5246 to RFC8446 - [WK - 2018-10-08 ]
   * Nit: 'writeable data nodes' -> 'writable data nodes' - [WK: 2018-10-18 ] 
   * Updated the page based on rfc8407bis updates [MJ:2025-04-01]
+  * Nit: Fixed blockquote formatting [JM:2025-05-14]
   
   
 
