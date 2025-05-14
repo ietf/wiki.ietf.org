@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-14T21:09:32.293Z
+date: 2025-05-14T23:46:17.683Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-
+Mike Bishop
 
 ## Agenda
 
