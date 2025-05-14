@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-12T09:50:38.544Z
+date: 2025-05-14T13:34:46.479Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,7 +46,7 @@ Note that this page is public.
 ### Management Issues
 - Final Issue resolution for [IESG Balloting Process Documentation](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) (Roman)
 - [Slack Usage Policy](https://docs.google.com/document/d/1S8S9B2JCNsG3nAv08RAWHgJCn9LPBLVpe0ZfpsbeuSA/) (Roman)
-- Conflict review process Q, Use of FedTLS acronym by ISE (Paul)
+- IESG statement on normative language in diagrams (Paul)
 - Pending appeals (Roman)
 
 
