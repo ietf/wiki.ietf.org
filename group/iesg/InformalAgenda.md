@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-14T13:41:07.726Z
+date: 2025-05-14T13:41:28.861Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,7 +44,7 @@ Note that this page is public.
 
 
 ### Management Issues
-- Final issue resolution for [IESG Balloting Process Documentation](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) (Roman)
+- Final issue resolution for [IESG Balloting Process](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) Statement (Roman)
 - Final issue resolution for [Slack Usage Policy](https://docs.google.com/document/d/1S8S9B2JCNsG3nAv08RAWHgJCn9LPBLVpe0ZfpsbeuSA/) (Roman)
 - IESG statement on normative language in diagrams (Paul)
 - Pending appeals (Roman)
