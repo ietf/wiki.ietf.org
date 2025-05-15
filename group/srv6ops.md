@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2025-01-16T10:05:38.671Z
+date: 2025-05-15T10:43:02.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -12,7 +12,7 @@ dateCreated: 2024-06-14T04:07:24.017Z
 
 This Wiki contains additional information for the IETF [SRv6OPS](https://datatracker.ietf.org/wg/srv6ops/about/) working group. Refer [datatracker](https://datatracker.ietf.org/wg/srv6ops/documents/) for the latest state of any draft. 
 
-## Prep for IETF 122
+## Prep for IETF 123
 
 - Agenda planning and reaching out to operators
 
