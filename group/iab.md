@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-05-02T22:08:20.065Z
+date: 2025-05-15T11:31:47.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -47,7 +47,6 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [IAB Chair Selection Process Guidelines](/group/iab/IAB_Chair_Selection_Process_Guidelines)
 * [IAB Decisions](/group/iab/IAB_Decisions)
 * [IAB Appointments](/group/iab/IAB_Appointments) | [2025 Appointments Timing](/group/iab/2025_Appointments)
-* [Liaison Managers](/group/iab/liaison_managers)
 * [IAB Committee Model of Meetings](/group/iab/committee-model)
 * [IAB Stream RFC Format](/group/iab/iab-stream-rfc-format)
 * [IAB Document Process](/group/iab/IAB_Document_Process)
