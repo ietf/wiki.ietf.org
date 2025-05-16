@@ -2,7 +2,7 @@
 title: BOF Coordination Meetings
 description: 
 published: true
-date: 2025-05-16T12:48:27.532Z
+date: 2025-05-16T12:49:00.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T16:52:38.839Z
@@ -31,7 +31,7 @@ Purpose: Preliminary review of [each BOF request](https://datatracker.ietf.org/d
 
 Attendees: IESG \+ IAB
 
-Outcomes for a proposal
+Outcomes for a proposal:
 
 * Provisional Approval, scheduled for upcoming plenary meeting
 * Maybe  
@@ -51,7 +51,7 @@ Purpose: Final decision for the BOFs at IETF 122
 
 Attendees: IESG
 
-Outcomes for a proposal
+Outcomes for a proposal:
 
-* Final Approved, scheduled for IETF 122  
+* Final Approved, scheduled for upcoming plenary meeting
 * Defer
