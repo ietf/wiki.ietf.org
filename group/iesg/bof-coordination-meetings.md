@@ -2,7 +2,7 @@
 title: BOF Coordination Meetings
 description: 
 published: true
-date: 2025-01-31T16:52:38.839Z
+date: 2025-05-16T12:47:48.481Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T16:52:38.839Z
@@ -33,7 +33,7 @@ Attendees: IESG \+ IAB
 
 Outcomes for a proposal
 
-* Provisional Approval, scheduled for IETF 122  
+* Provisional Approval, scheduled for upcoming plenary meeting
 * Maybe  
 * Defer  
 * Delete as spam
