@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-04-29T01:26:54.028Z
+date: 2025-05-16T19:13:26.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -38,6 +38,7 @@ This list should be considered as a potentially helpful checklist to ensure that
 
 ## Review Assignments
 ### 2025-2026 Assignments
+- PROCON: Mark Nottingham (2025-05)
 - HPKE: Warren Kumari (2025-04)
 ### 2024-2025 Assignments
 - DIEM: Wes Hardaker (2025-01)
