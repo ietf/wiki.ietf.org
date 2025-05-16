@@ -2,7 +2,7 @@
 title: BOF Coordination Meetings
 description: 
 published: true
-date: 2025-05-16T12:47:48.481Z
+date: 2025-05-16T12:48:27.532Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T16:52:38.839Z
@@ -39,7 +39,7 @@ Outcomes for a proposal
 * Delete as spam
 
 
-Proposals are often grouped into two categories – proposed WGs already in the chartering process and those topics that are seeking a BOF.  The former are typically approved to allow defensive scheduling should the topic either need another BOF (assuming it hasn’t had two meetings already) or so that it could convene at a WG at IETF 122\.
+Proposals are often grouped into two categories – proposed WGs already in the chartering process and those topics that are seeking a BOF.  The former are typically approved to allow defensive scheduling should the topic either need another BOF (assuming it hasn’t had two meetings already) or so that it could convene as a WG at the upcoming plenary meeting.
 
 For those designated approved or maybe, a responsible AD is assigned
 
