@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-05-16T19:13:26.519Z
+date: 2025-05-19T02:23:59.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -12,6 +12,8 @@ dateCreated: 2023-12-05T21:01:18.463Z
 During BoF reviews and WG charter reviews, the IAB has opportunities to provide feedback. This list compiles some areas that the IAB can focus on to provide feedback, and questions that can be asked during review.
 
 This list should be considered as a potentially helpful checklist to ensure that reviewers check for some potentially relevant areas. It is not a requirement list or a new "architectural considerations" section for charters.
+
+IAB reviews of WG charters should be sent to the IAB and IESG mailing lists. They can additionally be sent to other lists (lists being used to discuss the charter) at the discretion of the review and the IAB and IESG.
 
 ## Internet health
 - Does this proposal continue to uphold or improve the general aspects of Internet health, e.g., perform congestion avoidance, etc.
