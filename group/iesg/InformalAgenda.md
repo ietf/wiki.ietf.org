@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-15T14:07:35.223Z
+date: 2025-05-19T20:19:05.104Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 15, 2025
+# Informal Telechat - May 29, 2025
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,7 +28,6 @@ Meeting password: 12345
 
 
 ## Regrets
-Mike Bishop
 
 ## Agenda
 
@@ -44,11 +43,6 @@ Note that this page is public.
 
 
 ### Management Issues
-- Final issue resolution for [IESG Balloting Process](https://docs.google.com/document/d/1q36bEeR956PgVaJI8shsqM_u7RZSmQnL52I73tZ5DCI/edit?tab=t.0) Statement (Roman)
-- Final issue resolution for [Slack Usage Policy](https://docs.google.com/document/d/1S8S9B2JCNsG3nAv08RAWHgJCn9LPBLVpe0ZfpsbeuSA/) (Roman)
-- IESG statement on normative language in diagrams (Paul)
-- Review of IESG Statements
-- Appeal (Roman)
 
 
 ### WG News 
