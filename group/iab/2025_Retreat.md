@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-14T04:02:08.063Z
+date: 2025-05-19T20:47:36.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -29,7 +29,7 @@ Banff Room, 29th floor
 *Tentative outline*
 Morning:
 1. Events & Outreach (IGF/WSIS, focus with ISOC), 2hr
-1. Appeal response (2hr)
+1. Appeal responses (2hr)
 
 Afternoon:
 1. Other Administrative topics (liaisons, decision process), 2hr
@@ -52,7 +52,8 @@ Joint dinner
 
 ### Wednesday, 18 June 2025 (AM Joint IAB/IESG)
 
-
+Morning:
+1. Breakout: overflow for appeal responses
 
 
 ## Joint IAB/IESG Topics
@@ -63,6 +64,7 @@ Joint dinner
 - Next retreat in APAC (Qin/Dhruv)
 - Support (meetecho, etc) for groups to co-locate to attend IETF remotely (Tommy)
 
+- Review plans for IGF and WSIS (from events & outreach)
 
 ## Proposed Agenda Topics
 
