@@ -228,6 +228,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [repute *Reputation Services*](/group/repute)
 - [sacm *Security Automation and Continuous Monitoring*](/group/sacm)
 - [sidr *Secure Inter-Domain Routing*](/group/sidr)
+- [sidrops *Secure Inter-Domain Routing Operations*](/group/sidrops)
 - [sieve *Sieve Mail Filtering Language*](/group/sieve)
 - [sipclf *SIP Common Log Format*](/group/sipclf)
 - [siprec *SIP Recording*](/group/siprec)
