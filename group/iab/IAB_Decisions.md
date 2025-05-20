@@ -10,7 +10,7 @@ dateCreated: 2023-12-05T19:59:02.303Z
 
 # IAB Decision taking
 
-IAB decision taking is documented in RFC 2850:
+The requirements for IAB decisions are documented in RFC 2850:
 
 > 3.5 Decision taking
 > 
@@ -21,6 +21,11 @@ IAB decision taking is documented in RFC 2850:
 > 
 >   The IAB may reach decisions by face to face meeting, teleconference,
 >   Internet communication, or any combination of the above.
+
+While all IAB decisions that meet these criteria are valid, in practice it is 
+useful to have guidelines to assure that decisions have adequate consideration 
+by all IAB members, so as to fulfil the aspiration that we attempt to reach all 
+decisions unanimously.
 
 Practically, in most day-to-day business, the chair will determine consensus
 based on the absence of dissenting positions being put forward in a reasonable
@@ -60,7 +65,7 @@ typically follow this process to initiate a vote:
   the topic, optionally indicating that the ballots will be secret.
 
 - Discussion and votes will continue on the voting members list, and during any
-  teleconference(s) that occur.
+  teleconference(s) that occur while the vote is open.
 
 - The vote will typically stay open until a position has been recorded for every
   single voting member, even after a majority has been reached. This ensures
