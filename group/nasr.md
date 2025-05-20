@@ -2,7 +2,7 @@
 title: NASR(non-WG)-Network Attestation for Secured foRwarding
 description: The aim of Network Attestation for Secured FoRwarding is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 published: true
-date: 2025-05-16T09:31:00.205Z
+date: 2025-05-20T07:37:29.844Z
 tags: nasr
 editor: markdown
 dateCreated: 2025-04-10T03:07:00.098Z
@@ -13,7 +13,7 @@ dateCreated: 2025-04-10T03:07:00.098Z
 
 The aim of [Network Attestation for Secured foRwarding (NASR)](https://datatracker.ietf.org/wg/nasr/about/) is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 
-## NASR IETF122 BoF Q/A
+## NASR IETF122 BoF and Maillist Discussion Q/A
 The more detailed BoF discussion records can be viewed in [nasrbof](https://notes.ietf.org/notes-ietf-122-nasr) 
 
 Q1: Why is not end-to-end protection sufficient and why should we care about where the traffic goes through?
@@ -77,5 +77,15 @@ Q21: Is it pratical to mechanically verify that a configuration is acceptable
 
 Q22: Is it possible to determine that the configuration/policy of a device is acceptable in a fashion that does not expose that configuration/policy to a counterparty
 ----the party allowed to receive information about the router such as the configuration must be trusted to handle that information in a required responsible fashion, but not RATS and not SEC area question, OPS area question. RFC8994 can help.
+
+Q23: about device management, what is NASR doing that RANCID doesn't? Why need transit proofs if never exiting a domain?
+----Traditional tools such as RANCID cannot ensure the authenticity of data provided by network devices and may be unreliable due to device tampering; For organizations that require auditing or certification, it is necessary to ensure that the system data obtained is authentic and verifiable, including the legality and security of critical data flows.
+
+Q24：it is difficult/impossible to derive from the configuration a specific behavior
+----Example: evaluate from config that specific traffic not derailed from a path that is easily determined from the config and operational state.
+
+Q25：The semantic correlation verification between configuration and routing behavior has not been resolved yet
+----Simplified routing platform, functional control, Restconf and Orchestration can solve the problem, some operators have done, and Michael is working on a PoC.
+
 
 
