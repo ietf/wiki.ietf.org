@@ -2,13 +2,13 @@
 title: ACE WG - Authentication and Authorization for Constrained Environments
 description: 
 published: true
-date: 2023-01-12T00:35:31.374Z
+date: 2025-05-13T13:07:51.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
 ---
 
-# Welcome to the ACE Wiki
+- # Welcome to the ACE Wiki
 
 ## ACE Profile Roadmap
 

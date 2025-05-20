@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-01-16T13:17:54.100Z
+date: 2025-05-20T11:11:47.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -12,22 +12,31 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 ## Operator Presentations
 
-### IETF 122 - Bangkok
+### IETF 123 - Madrid
 
 Possible speakers
-* Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
+
 * Nicolai Leymann - DT (focus on address planning and preparing for deployment)
-* China Telecom
-* ?? - Jio
+* IX.br (Fabio/Diego)
+
 
 ### Future speakers
 
+* 
+* Nebius (Ai Cloud)
+* Sonic [Microsoft: SONiC for AI with SRv6]
 * Martin Gysi - Swisscom 
+* Rolf Schmid - Swisscom
 * Med will find someone - Orange-spain
 * Michael Valentine - Goldman Sachs
-* 
+* Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
+* ?? - Jio
 
 ### Past 
+#### IETF 122 - Bangkok
+* Turkcell, Mehmet Durmus
+* China Telecom, Yongqing Zhu
+
 #### IETF 121 - Dublin
 
 * Dan B - Bell 
