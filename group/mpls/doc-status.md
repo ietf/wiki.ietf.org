@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-05-14T11:05:00.702Z
+date: 2025-05-20T20:08:38.612Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -61,7 +61,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | Requested |  YANG Dr. completed (pending comments) | Tarek
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | Jeffrey Zhang (2025-01-29) Nits to resolve |  YANG Dr. completed (pending comments) | Tarek
 
 ## In Working Group Last Call
 
@@ -83,7 +83,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 | 2024-11-01 |  [draft-ietf-mpls-p2mp-bfd](https://datatracker.ietf.org/doc/draft-ietf-mpls-p2mp-bfd/) | Auth48 | Nic |
 | 2025-01-07 | [draft-ietf-mpls-mna-fwk](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-fwk/) | Auth48 | Tarek |
 | 2023-12-19 | [draft-ietf-mpls-1stnibble](https://datatracker.ietf.org/doc/draft-ietf-mpls-1stnibble/) | Auth48 | Adrian |
-| 2024-00-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Auth48 (Datatracker state is broken) | Tony |
+| 2024-00-02 | [draft-ietf-mpls-mna-usecases](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-usecases/) | Auth48 | Tony |
 | 2025-03-11 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | IESG telechat: 2025-05-22 | Tarek
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
