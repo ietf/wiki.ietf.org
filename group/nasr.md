@@ -2,7 +2,7 @@
 title: NASR(non-WG)-Network Attestation for Secured foRwarding
 description: The aim of Network Attestation for Secured FoRwarding is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 published: true
-date: 2025-05-20T07:51:30.659Z
+date: 2025-05-20T08:03:02.440Z
 tags: nasr
 editor: markdown
 dateCreated: 2025-04-10T03:07:00.098Z
