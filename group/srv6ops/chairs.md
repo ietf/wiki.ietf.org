@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-05-15T10:51:51.947Z
+date: 2025-05-20T11:11:47.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -22,9 +22,11 @@ Possible speakers
 
 ### Future speakers
 
+* 
 * Nebius (Ai Cloud)
 * Sonic [Microsoft: SONiC for AI with SRv6]
 * Martin Gysi - Swisscom 
+* Rolf Schmid - Swisscom
 * Med will find someone - Orange-spain
 * Michael Valentine - Goldman Sachs
 * Bryan Loh - TPG Telecom <Bryan.Loh@tpgtelecom.com.au>
