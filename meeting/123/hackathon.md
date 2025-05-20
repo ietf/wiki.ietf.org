@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-05-20T03:50:35.078Z
+date: 2025-05-20T09:26:58.074Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -189,7 +189,7 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - Loganaden Velvindron (logan@cyberstorm.mu)
 
 - **Project Info**
-ML-KEM hybrid in OpenIKED (IKEv2 implementation).
+PQC in open source software. 
 
 ```
 ----
