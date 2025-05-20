@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-19T20:47:36.533Z
+date: 2025-05-20T21:26:03.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -29,7 +29,10 @@ Banff Room, 29th floor
 *Tentative outline*
 Morning:
 1. Events & Outreach (IGF/WSIS, focus with ISOC), 2hr
-1. Appeal responses (2hr)
+  - IGF
+  - WSIS
+  - Signing onto ISOC letters/documents
+2. Appeal responses (2hr)
 
 Afternoon:
 1. Other Administrative topics (liaisons, decision process), 2hr
@@ -90,6 +93,7 @@ Morning:
 - Decision Process / Voting [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
 - Reliance on NIST documents + Inclusive Language / Clarity of Language
 - Liaison relationships
+- Signing onto ISOC letters/documents; what is the criteria before we sign on
 
 ### "Formal" Board Meeting Tasks
 - Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35)
