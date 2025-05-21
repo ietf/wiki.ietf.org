@@ -2,7 +2,7 @@
 title: Groups
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-05-08T09:10:11.995Z
+date: 2025-05-21T16:12:51.033Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -81,6 +81,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [rpp *RESTful Provisioning Protocol*](/group/rpp)
 - [rtgwg *Routing Area Working Group*](/group/rtgwg)
 - [secdispatch *Security Dispatch*](/group/secdispatch)
+- [sidrops *SIDR Operations*](/group/sidrops)
 - [sipcore *Session Initiation Protocol Core*](/group/sipcore)
 - [spring *Source Packet Routing in Networking*](/group/spring)
 - [srv6ops *SRv6 Operations*](/group/srv6ops)
@@ -144,6 +145,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [dnsop *Domain Name System Operations*](/group/dnsop)
 - [netconf *Network Configuration*](/group/netconf)
 - [netmod *Network Modeling*](/group/netmod)
+- [sidrops *SIDR Operations*](/group/sidrops)
 - [srv6ops *SRv6 Operations*](/group/srv6ops)
 - [v6ops *IPv6 Operations*](/group/v6ops)
 {.links-list}
