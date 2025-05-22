@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-05-22T15:05:26.260Z
+date: 2025-05-22T15:13:32.143Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -86,6 +86,8 @@ IESG-only
  * Outdates IESG Statements (Paul)
  * Balloting procedures for Charters and Conflict Reviews (Roman)
 * Interim-only Working Groups
+* IETF mailing lists (specifically non-WG): suitable purpose, expiry dates (with renewals like early allocations), etc. (Ketan)
+* IPR disclosure gates at WG adoption/LC - formalizing an existing practice (Ketan)
 
 Joint Topics
 * "Transition Accounts" for Slack
