@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-05-20T09:26:58.074Z
+date: 2025-05-22T11:18:54.552Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -190,6 +190,49 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Project Info**
 PQC in open source software. 
+
+---
+
+### CODECO - Benchmarking with network-compute metrics and energy-awareness across Edge-Cloud
+- **Project Info**
+TBA
+
+- **Hackathon plan**
+TBA
+
+- **Challenge 1: Joint exposure of compute and network metrics for path selection**
+	TBA
+	- **Champions**
+		- Luis Contreras (luismiguel.contrerasmurillo@telefonica.com)
+		- Dalal Ali (ali@fortiss.org)
+		- Alberto del Río (arp@gatv.ssr.upm.es)
+	- **Related WGs**
+		- Computing-Aware Traffic Steering ([CATS](https://datatracker.ietf.org/wg/cats/about/)) 
+		- Getting Ready for Energy-Efficient Networking ([GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/))
+ 
+ 	- **Specifications**
+		- Draft in CATS - [draft-ietf-cats-framework](https://datatracker.ietf.org/doc/draft-ietf-cats-framework/02/)
+		- Draft being proposed - [DRAFT](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
+
+- **Challenge 2: Experimentation Framework (CODEF)**
+	BMWG provides extensions for benchmarking and experimenting with containerized infrastructures. In this line, CODEF is an open-source microservice-based architecture that can be leveraged to evaluate various edge-cloud deployments, applications and components (native or out-of-the-box) including different networking solutions or K8s distributions over various heterogenous testbed and cloud systems. 
+  The hackathon will focus on different experimentation scenarios, such as the comparison of different network fabrics (e.g., L2S-M against other networking plugins) across different edge-oriented Kubernetes distributions, or the performance evaluation and integration over different testbeds in single or multi-cluster environments.
+
+	- **Champions**
+		- George Koukis (george.koukis@athenarc.gr)
+		- Tina Samizadeh (samizadeh@fortiss.org)
+		- Alex Tjaarda (abuning@pa.uc3m.es)
+	- **Specifications**
+		- Draft in BMWG regarding Network Performance in Containerized infrastructures - [draft-ietf-bmwg-containerized-infra-06](https://www.ietf.org/archive/id/draft-ietf-bmwg-containerized-infra-06.txt)
+		- Draft being proposed - [DRAFT](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
+	- **Repository**
+		- CODEF can be downloaded from here: [TBA](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
+- **Background on CODECO**
+	- [Project Repository in GitLab](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
+	- CODECO is an open source project. The code developed needs to be open source under the project and IETF rules.
+ 
+---
+
 
 ```
 ----
