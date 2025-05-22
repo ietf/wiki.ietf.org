@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-05-22T07:42:01.668Z
+date: 2025-05-22T16:16:18.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -39,7 +39,6 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair |
 | --- | --- | --- | --- |
-| 2025-05-22 | [draft-jags-mpls-ps-man-hdr](https://datatracker.ietf.org/doc/draft-jags-mpls-ps-mna-hdr/) | Authors to post as WG document | Adrian |
 
 ## MPLS WG Documents
 
