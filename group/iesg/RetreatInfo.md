@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-05-20T18:07:56.311Z
+date: 2025-05-22T15:03:59.569Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -98,5 +98,7 @@ Joint Topics
 
 
 
+#### Regrets
 
+* Kline, Erik
 
