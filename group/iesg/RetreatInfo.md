@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-05-22T15:03:59.569Z
+date: 2025-05-22T15:05:26.260Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -85,6 +85,7 @@ IESG-only
   + How does responsible AD know which comments are "important" (i.e., Do we need classification of comments?) (Ketan)
  * Outdates IESG Statements (Paul)
  * Balloting procedures for Charters and Conflict Reviews (Roman)
+* Interim-only Working Groups
 
 Joint Topics
 * "Transition Accounts" for Slack
