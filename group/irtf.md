@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2025-01-30T16:55:35.739Z
+date: 2025-05-23T00:36:12.174Z
 tags: irtf
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -22,7 +22,6 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 ## Research Group Wiki Pages 
 
  * [Crypto Forum Research Group (CFRG)](/group/cfrg)
- * [Computation in the Network (COINRG)](/group/coinrg)
  * [Decentralized Internet Infrastructure (DINRG)](/group/dinrg)
  * [Global Access to the Internet for All (GAIA)](/group/gaia)
  * [Internet Congestion Control (iccrg)](/group/iccrg)
@@ -68,6 +67,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 ## Wiki Pages of Concluded Research Groups 
 
  * [ASRG](http://wiki.asrg.sp.am) (now concluded)
+ * [COINRG](/group/coinrg) (now concluded)
  * [EME](/group/eme) (now concluded)
  * [HIPRG](/group/hiprg) (now concluded)
  * [NFVRG](/group/nfvrg) (now concluded)
