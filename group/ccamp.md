@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-05-26T15:31:09.459Z
+date: 2025-05-26T15:33:40.749Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -126,19 +126,19 @@ TBD
 ## Draft prioritization for WG last call
 Prio 1 (cluster)
 
-**- draft-ietf-ccamp-optical-impairment-topology-yang-12** (concluded)
-**- draft-ietf-ccamp-rfc9093-bis-04** (concluded)
+**- draft-ietf-ccamp-optical-impairment-topology-yang** (concluded)
+**- draft-ietf-ccamp-rfc9093-bis** (concluded)
 
 Prio 2
-**- draft-ietf-ccamp-flexigrid-yang-17** (2nd WG last call to be done)
+**- draft-ietf-ccamp-flexigrid-yang** (2nd WG last call to be done)
 
 Prio 3
-**- draft-ietf-ccamp-wdm-tunnel-yang-02**
-> Dependency on draft-ietf-teas-yang-te-36
+**- draft-ietf-ccamp-wdm-tunnel-yang**
+> Dependency on draft-ietf-teas-yang-te
 
 Prio 4
-**- draft-ietf-ccamp-otn-tunnel-model-21**
-> Dependency on draft-ietf-teas-yang-te-36
+**- draft-ietf-ccamp-otn-tunnel-model**
+> Dependency on draft-ietf-teas-yang-te
 
 ## Ongoing IPR polling
 
