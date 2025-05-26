@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-02-10T10:28:35.711Z
+date: 2025-05-26T15:31:09.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -113,11 +113,11 @@ Framework and Data Model for OTN Network Slicing
 
 ## Draft prioritization for WG adoption
 
-Prio 1 - draft-zheng-ccamp-client-pm-yang-07
-A YANG Data Model for Client Signal Performance Monitoring
-
-Prio 2 - draft-rokui-ccamp-actn-wdm-pluggable-modelling-01
+Prio 1 - draft-rokui-ccamp-actn-wdm-pluggable-modelling-01
 Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Optical Network
+
+Prio 2 - draft-zheng-ccamp-client-pm-yang-07
+A YANG Data Model for Client Signal Performance Monitoring
 
 Prio 3 - 
 TBD
@@ -126,15 +126,15 @@ TBD
 ## Draft prioritization for WG last call
 Prio 1 (cluster)
 
-**- draft-ietf-ccamp-optical-impairment-topology-yang-12** (ongoing)
+**- draft-ietf-ccamp-optical-impairment-topology-yang-12** (concluded)
 **- draft-ietf-ccamp-rfc9093-bis-04** (concluded)
 
 Prio 2
-**- draft-ietf-ccamp-wdm-tunnel-yang-02**
-> Dependency on draft-ietf-teas-yang-te-36
+**- draft-ietf-ccamp-flexigrid-yang-17** (2nd WG last call to be done)
 
 Prio 3
-**- draft-ietf-ccamp-flexigrid-yang-17**
+**- draft-ietf-ccamp-wdm-tunnel-yang-02**
+> Dependency on draft-ietf-teas-yang-te-36
 
 Prio 4
 **- draft-ietf-ccamp-otn-tunnel-model-21**
