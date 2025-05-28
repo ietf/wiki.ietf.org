@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-28T12:55:38.070Z
+date: 2025-05-28T20:32:03.032Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,25 +48,29 @@ Note that this page is public.
 
 ### Management Issues
 
-BOF data handling when the BOF is finished
-
+* BOF data handling when the BOF is finished (who is discussion lead?)
+* Email trackers, URL defense, and Mail Archives (Orie)
+* [Appeal Follow-up](https://docs.google.com/presentation/d/1J1IIdsqNcfwzszjOI_F5eFWbRGoJU4VEEmbkhRS_TlU/) (Roman)
+* [Future NOC Design Principle](https://docs.google.com/presentation/d/1J1IIdsqNcfwzszjOI_F5eFWbRGoJU4VEEmbkhRS_TlU/) (Roman)
+* [IETF 127 Feedback](https://docs.google.com/presentation/d/1J1IIdsqNcfwzszjOI_F5eFWbRGoJU4VEEmbkhRS_TlU/) (Roman)
 
 ### WG News 
 
 ### Documents to Swap 
 
+### Executive Sessions
+
+* lamps drafts (who is discussion lead?)
+
 
 
 ### AOB
 
-### Executive Sessions
-
-lamps drafts
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
-- Email trackers, URL defense, and Mail Archives
+
 
 
 ### Topics Deferred Till Next Informal 
