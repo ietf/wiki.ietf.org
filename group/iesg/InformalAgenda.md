@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-28T21:24:38.094Z
+date: 2025-05-28T21:30:24.733Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -60,7 +60,7 @@ Note that this page is public.
 
 ### Executive Sessions
 
-* lamps drafts (Cooley)
+* lamps drafts (where this means no minutes vice asking people to leave) (Cooley)
 
 
 
