@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-27T10:09:13.265Z
+date: 2025-05-28T12:55:38.070Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -65,6 +65,8 @@ lamps drafts
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
+
+- Email trackers, URL defense, and Mail Archives
 
 
 ### Topics Deferred Till Next Informal 
