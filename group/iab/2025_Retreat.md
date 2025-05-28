@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-28T13:34:05.197Z
+date: 2025-05-28T23:47:02.977Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -45,9 +45,10 @@ Banff Room, 29th floor
 
 #### 13:00-14:00: Liaison Coordination
 
-#### 14:00-15:00: Decision Process
+#### 14:00-15:00: Process Discussions
 
-- Decision Process / Voting discussion [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
+- Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
+- Appointment Process
 
 #### 15:00-15:30: Break
 
