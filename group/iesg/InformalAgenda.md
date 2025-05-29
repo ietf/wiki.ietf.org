@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-28T21:30:24.733Z
+date: 2025-05-29T16:55:30.614Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 29, 2025
+# Informal Telechat - June 12, 2025
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-Gunter
-Med
-Éric
+
 
 ## Agenda
 
@@ -48,11 +46,6 @@ Note that this page is public.
 
 ### Management Issues
 
-* BOF data handling when the BOF is finished (Cooley)
-* Email trackers, URL defense, and Mail Archives (Orie)
-* [Appeal Follow-up](https://docs.google.com/presentation/d/1J1IIdsqNcfwzszjOI_F5eFWbRGoJU4VEEmbkhRS_TlU/) (Roman)
-* [Future NOC Design Principle](https://docs.google.com/presentation/d/1J1IIdsqNcfwzszjOI_F5eFWbRGoJU4VEEmbkhRS_TlU/) (Roman)
-* [IETF 127 Feedback](https://docs.google.com/presentation/d/1J1IIdsqNcfwzszjOI_F5eFWbRGoJU4VEEmbkhRS_TlU/) (Roman)
 
 ### WG News 
 
@@ -60,7 +53,6 @@ Note that this page is public.
 
 ### Executive Sessions
 
-* lamps drafts (where this means no minutes vice asking people to leave) (Cooley)
 
 
 
