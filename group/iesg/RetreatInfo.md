@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-05-29T13:51:11.099Z
+date: 2025-05-29T14:17:00.618Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -88,6 +88,7 @@ IESG-only
 * Interim-only Working Groups
 * IETF mailing lists (specifically non-WG): suitable purpose, expiry dates (with renewals like early allocations), etc. (Ketan)
 * IPR disclosure gates at WG adoption/LC - formalizing an existing practice (Ketan)
+* Proposed polic(ies) around content management of the IETF wiki(s) (Deb, Ketan)
 
 Joint Topics
 * "Transition Accounts" for Slack
