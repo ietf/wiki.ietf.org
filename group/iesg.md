@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-05-29T17:17:20.192Z
+date: 2025-05-29T17:17:58.096Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -61,8 +61,8 @@ dateCreated: 2022-07-23T19:21:39.664Z
 ## Policies, Procedures and Practices
 
 * For Meetings
-  * [Standing Meetings](/group/iesg/StandingMeetings) (i.e., formal and informal telechat)
-  * [BOF Coordination Meeting](/group/iesg/bof-coordination-meetings)
+  * [Standing Meetings](/group/iesg/StandingMeetings) (i.e., formal and informal telechat; and during the plenary meeting)
+  * [BOF Coordination Meetings](/group/iesg/bof-coordination-meetings)
 * For Document Balloting
   * [Balloting](https://datatracker.ietf.org/doc/statement-iesg-ballot-procedures-for-documents/)
   * [DISCUSS Criteria](https://datatracker.ietf.org/doc/statement-iesg-discuss-criteria-in-iesg-review-20140507/)
