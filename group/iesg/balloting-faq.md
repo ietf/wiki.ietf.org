@@ -2,7 +2,7 @@
 title: Balloting FAQ
 description: 
 published: true
-date: 2025-05-29T20:43:54.858Z
+date: 2025-05-29T20:44:24.214Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T20:43:30.488Z
@@ -21,7 +21,7 @@ During the formal telechat, ADs might ballot on:
 
 For documents balloting, these procedures are defined in the [IESG Ballot Procedures for Documents](https://datatracker.ietf.org/doc/statement-iesg-ballot-procedures-for-documents/) statement. 
 
-Guidance on the specific positions taken on charters and conflict reviews is not specifically documented.
+Guidance on the specific positions taken on charters and conflict reviews is not specifically documented, but derived from the document procedures.
 
 ## When have procedures outside of the normal document balloting procedures been invoked?
 
