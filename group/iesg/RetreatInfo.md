@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-05-22T15:13:32.143Z
+date: 2025-05-29T13:51:11.099Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -91,6 +91,7 @@ IESG-only
 
 Joint Topics
 * "Transition Accounts" for Slack
+* Guidance to BOF proponents to improve quality of requests (as in - Can we improve the tooling for submission of BoF requests to ensure they have gone through RFC5434 and the necessary background prep?) (Ketan)
 
 ### RSVP
 
