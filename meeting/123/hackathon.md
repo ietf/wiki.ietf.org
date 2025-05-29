@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-05-29T09:35:59.185Z
+date: 2025-05-29T12:03:49.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -236,7 +236,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
  	- **Repository**
 		TBA
 
-- **Challenge 3: Experimentation Framework (CODEF)**
+- **Challenge 3: Benchmarking Network-aware Edge-Cloud Orchestration with CODEF**
 	In alignment with the IETF BMWG's current focus on extending benchmarking methodologies to containerized and cloud-native environments, this initiative proposes the use of the [CODECO](https://he-codeco.eu/) CODEF —an open-source, microservice-driven software-based testbed framework— to evaluate the performance and scalability of edge-cloud orchestration across heterogeneous infrastructures. 
   CODEF supports comprehensive benchmarking of native and customized Kubernetes (K8s)-SDN distributions, container networking interfaces (CNIs), and orchestration components under realistic workload conditions. 
   This work directly supports BMWG's objective of providing standardized, reusable methodologies for benchmarking the performance of virtualized and containerized networking solutions in modern, distributed infrastructures. 
