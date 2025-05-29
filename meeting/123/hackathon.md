@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-05-24T18:23:25.475Z
+date: 2025-05-29T09:35:59.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -200,36 +200,62 @@ TBA
 - **Hackathon plan**
 TBA
 
-- **Challenge 1: Joint exposure of compute and network metrics for path selection**
-	TBA
+- **Challenge 1: Green network observability and reporting**
+This challenge explores energy-awareness observability and reporting that may suit telco-cloud resource management. The challenge relies on approaches and code under development in the context of the Horizon Europe project [CODECO](https://he-codeco.eu/), and also relates with a new informational draft being proposed to [IETF GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/).  
+The main goal of this challenge is to consider enhancements to CODECO (as a relevant example of an edge-cloud orchestrator that provides a data-compute-network approach) in terms of monitoring and exporting metrics aligned with GREEN principles e.g., CO2 network footprinting, green workload percentage. 
+The reporting will be provided to Prometheus and eventually to SDN; alignment to YANG will be considered. 
+
 	- **Champions**
-		- Luis Contreras (luismiguel.contrerasmurillo@telefonica.com)
-		- Dalal Ali (ali@fortiss.org)
-		- Alberto del Río (arp@gatv.ssr.upm.es)
-	- **Related WGs**
-		- Computing-Aware Traffic Steering ([CATS](https://datatracker.ietf.org/wg/cats/about/)) 
-		- Getting Ready for Energy-Efficient Networking ([GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/))
+		Rute C. Sofia (sofia@fortiss.org)
+		Dalal Ali (ali@fortiss.org)
+		Kaikang Huang (khuang@fortiss.org)
+    
+	- **Related WG**
+		[GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/) - Getting Ready for Energy-Efficient Networking
  
  	- **Specifications**
-		- Draft in CATS - [draft-ietf-cats-framework](https://datatracker.ietf.org/doc/draft-ietf-cats-framework/02/)
-		- Draft being proposed - [DRAFT](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
+		draft-sofia-ietf-green-energy-aware-diffserv 
 
-- **Challenge 2: Experimentation Framework (CODEF)**
-	BMWG provides extensions for benchmarking and experimenting with containerized infrastructures. In this line, CODEF is an open-source microservice-based architecture that can be leveraged to evaluate various edge-cloud deployments, applications and components (native or out-of-the-box) including different networking solutions or K8s distributions over various heterogenous testbed and cloud systems. 
-  The hackathon will focus on different experimentation scenarios, such as the comparison of different network fabrics (e.g., L2S-M against other networking plugins) across different edge-oriented Kubernetes distributions, or the performance evaluation and integration over different testbeds in single or multi-cluster environments.
+ 	- **Repositories**
+		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/acm](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/acm) - CODECO
+		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/privacy-preserving-decentralised-learning-and-context-awareness-pdlc/pdlc-ca](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/privacy-preserving-decentralised-learning-and-context-awareness-pdlc/pdlc-ca) - PDLC-CA
 
+- **Challenge 2: Joint exposure of compute and network metrics for path selection**
+	This enhancement to the CODECO framework introduces CATS-aligned path selection capabilities by leveraging [CODECO](https://he-codeco.eu/)’s existing compute and network observability. The goal is to support computing-aware traffic steering across the Edge-Cloud continuum, in line with the architectural direction of IETF CATS. 
+  CODECO collects real-time infrastructure metrics -such as CPU , memory usage, latency, and network congestion— from its ACM and NetMA components and aggregates them via the PDLC-CA module into node and cluster scores. These scores are then used to inform microservice placement and potential workload redirection decisions, consistent with CATS principles. 
+  The aim is to adapt the current approach to provide scores from PDLC and PDLC-CA to NetMA which may assist in Path ranking and selection based on dynamic network latency and congestion data. 
+  This design supports the CATS use case of service instance selection and path steering based on combined compute and network metrics, helping optimize service experience in distributed, heterogeneous edge environments. 
 	- **Champions**
-		- George Koukis (george.koukis@athenarc.gr)
-		- Tina Samizadeh (samizadeh@fortiss.org)
-		- Alex Tjaarda (abuning@pa.uc3m.es)
-	- **Specifications**
-		- Draft in BMWG regarding Network Performance in Containerized infrastructures - [draft-ietf-bmwg-containerized-infra-06](https://www.ietf.org/archive/id/draft-ietf-bmwg-containerized-infra-06.txt)
-		- Draft being proposed - [DRAFT](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
-	- **Repository**
-		- CODEF can be downloaded from here: [TBA](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
-- **Background on CODECO**
-	- [Project Repository in GitLab](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
-	- CODECO is an open source project. The code developed needs to be open source under the project and IETF rules.
+		Luis Contreras (luismiguel.contrerasmurillo@telefonica.com)
+		Alberto del Río (arp@gatv.ssr.upm.es)
+   	Dalal Ali (ali@fortiss.org)
+	- **Related WG**
+	 [CATS](https://datatracker.ietf.org/wg/cats/about/) - Computing-Aware Traffic Steering 
+ 	- **Specifications - Drafts**
+		[draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
+ 	- **Repository**
+		TBA
+
+- **Challenge 3: Experimentation Framework (CODEF)**
+	In alignment with the IETF BMWG's current focus on extending benchmarking methodologies to containerized and cloud-native environments, this initiative proposes the use of the [CODECO](https://he-codeco.eu/) CODEF —an open-source, microservice-driven software-based testbed framework— to evaluate the performance and scalability of edge-cloud orchestration across heterogeneous infrastructures. 
+  CODEF supports comprehensive benchmarking of native and customized Kubernetes (K8s)-SDN distributions, container networking interfaces (CNIs), and orchestration components under realistic workload conditions. 
+  This work directly supports BMWG's objective of providing standardized, reusable methodologies for benchmarking the performance of virtualized and containerized networking solutions in modern, distributed infrastructures. 
+  - **Objective**: 
+Use the open-source CODEF framework to benchmark and compare the performance of various Container Network Interface (CNI) plugins, including L2S-M, within containerized edge-cloud environments.  
+
+  - **Champions**
+		George Koukis (george.koukis@athenarc.gr)
+		Tina Samizadeh (samizadeh@fortiss.org)
+		Alex Tjaarda (abuning@pa.uc3m.es)
+  - **Related WG**
+	 [BMWG](https://datatracker.ietf.org/group/bmwg/about/) - Benchmarking Methodology 
+  - **Specifications**
+		Draft being proposed - [https://github.com/rute19104/ietf-bmwg-draft-2025-1](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
+   - **Repository**
+		CODEF can be downloaded [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
+- **CODECO Background**
+	[CODECO Project Repository in GITLAB](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
+	CODECO is an open source project. The code developed will be open source under the project and IETF rules.
  
 ---
 
