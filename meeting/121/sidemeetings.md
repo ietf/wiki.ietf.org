@@ -2,7 +2,7 @@
 title: Side Meetings at IETF 121
 description: 
 published: true
-date: 2025-01-08T10:15:48.084Z
+date: 2025-05-30T00:23:13.461Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-10T17:47:50.536Z
@@ -109,7 +109,7 @@ Please keep the tables sorted by meeting, by time.
 |19:00 - 20:00 | Wicklow Meeting Room 4 | NeoTec | OPS | xiechf@chinatelecom.cn;linda.dunbar@futurewei.com| Operations of Networks for Telecom Cloud（NeoTec）will discuss the use cases, requirements and possible work in management and operation of networks for Telecom Clouds. | [Webex](https://ietf.webex.com/meet/sidemeetingietf1) <br> [Github](https://github.com/xiechf974/NeoTec-IETF121) <br> Mailing list:  neotec@ietf.org
 | 18:00 - 19:30 | Wicklow Hall 2A | Enterprise Network | Ops | gaoqiangzhou@huawei.com<br/>tte@cs.fau.de | Enterprise network scenarios/deployment/problems discussion (enterprise@ietf.org) | [Invite and Notes](https://notes.ietf.org/notes-ietf-121-public-side-meeting-enterprise) <br> [Webex](https://ietf.webex.com/meet/ietfsidemeeting2) [github](https://github.com/qzhgao/Enterprise-Network/tree/main)   
 | 18:00 - 19:00  | Wicklow MR4|6gip AI/MLNet|INT|sarikaya@ieee.org,roland.schott@telekom.de|Our AI/ML Networking draft will reviewed and new developments Discussions at pidloc@ietf.org  |https://ietf.webex.com/meet/sidemeetingietf1  | TBD  |   |   |  |
-
+{.dense}
 
 ### [WEDNESDAY 6 November](#meeting-wednesday)
 
