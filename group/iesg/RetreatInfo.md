@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-05-29T14:17:00.618Z
+date: 2025-06-02T13:23:21.000Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -85,7 +85,7 @@ IESG-only
   + How does responsible AD know which comments are "important" (i.e., Do we need classification of comments?) (Ketan)
  * Outdates IESG Statements (Paul)
  * Balloting procedures for Charters and Conflict Reviews (Roman)
-* Interim-only Working Groups
+* Interim-only Working Groups (Andy)
 * IETF mailing lists (specifically non-WG): suitable purpose, expiry dates (with renewals like early allocations), etc. (Ketan)
 * IPR disclosure gates at WG adoption/LC - formalizing an existing practice (Ketan)
 * Proposed polic(ies) around content management of the IETF wiki(s) (Deb, Ketan)
