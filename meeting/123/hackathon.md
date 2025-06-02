@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-05-30T15:32:57.565Z
+date: 2025-06-02T12:03:42.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -307,6 +307,43 @@ Use the open-source CODEF framework to benchmark and compare the performance of 
   - https://ilnp.cs.st-andrews.ac.uk
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
+
+----
+
+### Mira: scalable multi-gateway TSCH networking over BLE
+
+- **Champions**:
+  Geovane Fedrecheski, geovane.fedrecheski@inria.fr
+
+- **Project Info**
+
+Mira (Micro-robot Interconnect Radio Architecture) is a lightweight, open-source protocol stack that brings multi-gateway Time Slotted Channel Hopping (TSCH) to Bluetooth Low Energy (BLE) radios, with support for node-initiated roaming.
+Mira is a completely new link layer that replaces the BLE controller and host software.
+
+Built to support large-scale robot swarms and dense IoT deployments, Mira enables fast handovers, predictable latency, and efficient over-the-air updates.
+
+BLE alone does not scale beyond 5–20 concurrent connections (depending on the stack),  
+Wi-Fi supports more nodes but suffers from collisions and higher power draw,  
+and 6TiSCH offers deterministic communication but lacks native roaming support.
+
+Mira fills this gap by:
+- Implementing TSCH directly over the BLE PHY (bypassing the BLE controller and host stack)
+- Supporting seamless roaming across multiple gateways without requiring coordination
+- Running on widely available hardware (e.g., nRF52840)
+- Enabling fast Over-The-Air Programming (OTAP) and dense deployments (100+ nodes)
+
+While Thread and BLE Mesh are designed for static home automation using IPv6 over 6LoWPAN or flooding protocols, Mira targets mobile and high-density scenarios—such as robot swarms—where real-time communication, bounded latency, and remote firmware updates are crucial.
+
+At the IETF 123 Hackathon, we aim to:
+- Demonstrate a live Mira deployment, including multi-gateway roaming
+- Explore how Mira (as a link-layer protocol) can interoperate with upper-layer IETF technologies, including 6LoWPAN, UDP, and CoAP
+- Specify/implement a secure association for Mira using IETF technologies such as EDHOC and ELA
+
+We welcome collaboration with anyone working on:
+- Low-power networking
+- CoAP over BLE or lightweight embedded stacks
+- Mobility extensions to 6TiSCH or RPL
+- Robotics, swarm testbeds, or dense IoT deployments
 
 ----
 
