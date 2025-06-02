@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-02T13:23:21.000Z
+date: 2025-06-02T13:29:19.255Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -83,8 +83,8 @@ IESG-only
 * Balloting Related Topics
   + Do current DISCUSS criteria cover experimental and informational docs? (Ketan)
   + How does responsible AD know which comments are "important" (i.e., Do we need classification of comments?) (Ketan)
- * Outdates IESG Statements (Paul)
- * Balloting procedures for Charters and Conflict Reviews (Roman)
+  + Balloting procedures for Charters and Conflict Reviews (Roman)
+* Outdated IESG Statements (Paul)
 * Interim-only Working Groups (Andy)
 * IETF mailing lists (specifically non-WG): suitable purpose, expiry dates (with renewals like early allocations), etc. (Ketan)
 * IPR disclosure gates at WG adoption/LC - formalizing an existing practice (Ketan)
