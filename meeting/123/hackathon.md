@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-02T12:03:42.396Z
+date: 2025-06-02T12:06:40.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -317,14 +317,9 @@ Use the open-source CODEF framework to benchmark and compare the performance of 
 
 - **Project Info**
 
-Mira (Micro-robot Interconnect Radio Architecture) is a lightweight, open-source protocol stack that brings multi-gateway Time Slotted Channel Hopping (TSCH) to Bluetooth Low Energy (BLE) radios, with support for node-initiated roaming.
-Mira is a completely new link layer that replaces the BLE controller and host software.
+Mira (Micro-robot Interconnect Radio Architecture) is a lightweight, open-source protocol stack that brings multi-gateway Time Slotted Channel Hopping (TSCH) to Bluetooth Low Energy (BLE) radios, with support for node-initiated roaming. Mira is a completely new link layer that replaces the BLE controller and host software. Built to support large-scale robot swarms and dense IoT deployments, Mira enables fast handovers, predictable latency, and efficient over-the-air updates.
 
-Built to support large-scale robot swarms and dense IoT deployments, Mira enables fast handovers, predictable latency, and efficient over-the-air updates.
-
-BLE alone does not scale beyond 5–20 concurrent connections (depending on the stack),  
-Wi-Fi supports more nodes but suffers from collisions and higher power draw,  
-and 6TiSCH offers deterministic communication but lacks native roaming support.
+BLE alone does not scale beyond 5–20 concurrent connections (depending on the stack), Wi-Fi supports more nodes but suffers from collisions and higher power draw, and 6TiSCH offers deterministic communication but lacks native roaming support.
 
 Mira fills this gap by:
 - Implementing TSCH directly over the BLE PHY (bypassing the BLE controller and host stack)
