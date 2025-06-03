@@ -27,41 +27,43 @@ Banff Room, 29th floor
 ### Monday, 16 June 2025 (IAB Only)
 
 #### 09:00-10:30: Events & Outreach
-
-- Review plans and material for IGF and WSIS
-- Outreach Planning (Dhruv)
-- Guidance for External (Non-IETF) Events (Dhruv)
-- Review ISOC Coordination board [(link)](https://github.com/intarchboard/ISOC-coord-board/issues)
-- Signing onto ISOC letters/documents; what is the criteria before we sign on
+- 9:00 - 9:05: Welome & logistics 
+- 9:05 - 9:50: Review plans and material for IGF and WSIS
+- 9:50 - 10:00: Outreach Planning (Dhruv)
+- 10:00 - 10:10: Guidance for External (Non-IETF) Events (Dhruv)
+- 10:10 - 10:20: Review ISOC Coordination board [(link)](https://github.com/intarchboard/ISOC-coord-board/issues)
+- 10:20 - 10:30 Signing onto ISOC letters/documents; what is the criteria before we sign on
 
 #### 10:30-10:45: Break
 
 #### 10:45-12:00: Appeal Responses
 
-- Appeal response to "Appeal for forwarding of draft-ietf-lsr-multi-tlv" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/130)
-- Appeal response to "Complaint regarding antitrust violations" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/132)
+- 10:45 - 11:15: Appeal response to "Appeal for forwarding of draft-ietf-lsr-multi-tlv" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/130)
+- 11:15 - 12:00: Appeal response to "Complaint regarding antitrust violations" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/132)
 
 #### 12:00-13:00: Lunch
 
 #### 13:00-14:00: Liaison Coordination
 
+- LEADER? TOPICS? AGENDA LINE ITEMS?
+
 #### 14:00-15:00: Process Discussions
 
-- Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
-- Appointment Process [(issue)](https://github.com/intarchboard/responsibilities/issues/57)
+- 14:00 - 14:30: Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
+- 14:30 - 15:00: Appointment Process [(issue)](https://github.com/intarchboard/responsibilities/issues/57)
 
 #### 15:00-15:30: Break
 
 #### 15:30-17:30: Formal Board Meeting
 
-- Accept and Discuss Reports
+- 15:30 - 16:00: Accept and Discuss Reports
 	- IESG liaison report
-  - EDM program report
-  - EIMPACT program report
-- Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35)
-- Approve IABOPEN agenda for IETF 123
-- NomCom liaison / job descriptions
-- Executive session
+  	- EDM program report
+  	- EIMPACT program report
+- 16:00 - 16:10: Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35)
+- 16:10 - 16:20: Approve IABOPEN agenda for IETF 123
+- 16:20 - 16:30: NomCom liaison / job descriptions
+- 16:30 - 17:30: Executive session
 	- CCG appointment
 	- RZERC appointment
 	- Decision process (depending on earlier discussion)
@@ -97,9 +99,14 @@ Banff Room, 29th floor
 
 #### Evening: Joint Dinner
 
+- TIME & LOCATION NEEDED
+
 ### Wednesday, 18 June 2025 (AM Joint IAB/IESG)
 
-Morning:
+Morning 9:00 - 12:00 
+
+NEEDS TIMING FOR EACH
+
 1. Breakout: overflow for appeal responses
 
 
