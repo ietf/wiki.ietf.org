@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-05-28T23:51:31.656Z
+date: 2025-06-03T12:12:21.720Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -28,59 +28,64 @@ Banff Room, 29th floor
 
 #### 09:00-10:30: Events & Outreach
 
-- Review plans and material for IGF and WSIS
-- Outreach Planning (Dhruv)
-- Guidance for External (Non-IETF) Events (Dhruv)
-- Review ISOC Coordination board [(link)](https://github.com/intarchboard/ISOC-coord-board/issues)
-- Signing onto ISOC letters/documents; what is the criteria before we sign on
+- Review plans and material for IGF and WSIS — *Roman/Dhruv/Mirja*
+- Outreach Planning — *Dhruv*
+- Guidance for External (Non-IETF) Events — *Dhruv*
+- Review ISOC Coordination board [(link)](https://github.com/intarchboard/ISOC-coord-board/issues) — *Ryan*
+- Signing onto ISOC letters/documents; what is the criteria before we sign on — *Tommy*
 
 #### 10:30-10:45: Break
 
 #### 10:45-12:00: Appeal Responses
 
-- Appeal response to "Appeal for forwarding of draft-ietf-lsr-multi-tlv" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/130)
-- Appeal response to "Complaint regarding antitrust violations" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/132)
+- Appeal response to "Appeal for forwarding of draft-ietf-lsr-multi-tlv" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/130)  — *Alvaro/Matthew/Dhruv*
+- Appeal response to "Complaint regarding antitrust violations" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/132)  — *Jason/Mark*
+- Appeal response to "Complaint regarding BCP 79 violations" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/135)  — *Jason/Mark*
 
 #### 12:00-13:00: Lunch
 
 #### 13:00-14:00: Liaison Coordination
 
+- Open Topics — *Suresh/Mirja/Qin*
+
 #### 14:00-15:00: Process Discussions
 
-- Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
-- Appointment Process [(issue)](https://github.com/intarchboard/responsibilities/issues/57)
+- Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95) — *Tommy*
+- Appointment Process [(issue)](https://github.com/intarchboard/responsibilities/issues/57) — *Tommy*
 
 #### 15:00-15:30: Break
 
 #### 15:30-17:30: Formal Board Meeting
 
 - Accept and Discuss Reports
-	- IESG liaison report
-  - EDM program report
-  - EIMPACT program report
-- Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35)
-- Approve IABOPEN agenda for IETF 123
-- NomCom liaison / job descriptions
+	- IESG liaison report — *Matthew*
+  - IRTF report — *Dirk*
+  - EDM program report — *Jana/Warren/Tommy*
+  - EIMPACT program report — *Suresh/Mark*
+- Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35) — *Mirja/Suresh/Qin*
+- Approve IABOPEN agenda for IETF 123 — *Tommy/Jason*
+- NomCom liaison / job descriptions — *Alvaro*
 - Executive session
 	- CCG appointment
 	- RZERC appointment
-	- Decision process (depending on earlier discussion)
+  - Signing onto "Eight Practical Recommendations for WSIS Review" [(issue)](https://github.com/intarchboard/ISOC-coord-board/issues/13)
+  - Decision process (depending on earlier discussion)
 
 ### Tuesday, 17 June 2025 (AM IAB Only, PM Joint IAB/IESG)
 
 #### 09:00-10:00: IP Geolocation Workshop
 
-- IP Geolocation Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/26)
+- IP Geolocation Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/26) — *Jason/Warren/Jana/Tommy*
 
 #### 10:00-10:15: Break
 
 #### 10:15-10:45: Zero-Trust Networks
 
-- Architecture for Zero-Trust Networks (Cullen; see notes from 2025-01-08)
+- Architecture for Zero-Trust Networks (see notes from 2025-01-08)  — *Cullen*
 
 #### 11:00-12:00: Invited Technical Talk
 
-- "Online Harrassment" from Zakir Durumeric
+- "Online Harrassment" — *Zakir Durumeric*
 
 #### 12:00-13:00: Lunch
 
@@ -88,12 +93,15 @@ Banff Room, 29th floor
 
 - Round table
 - Joint topics
+  - Recap outreach event plans (including IGF and WSIS) — *Dhruv*
+  - Next retreat in APAC — *Qin/Dhruv*
+  - Support (meetecho, etc) for groups to co-locate to attend IETF remotely  — *Tommy*
 
 #### 15:00-15:30: Break
 
 #### 15:30-16:30: Age Verification Workshop
 
-- Age Verification Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/38)
+- Age Verification Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/38) — *Mark*
 
 #### Evening: Joint Dinner
 
@@ -103,52 +111,6 @@ Morning:
 1. Breakout: overflow for appeal responses
 
 
-## Joint IAB/IESG Topics
-
-
-#### Topics
-
-- Next retreat in APAC (Qin/Dhruv)
-- Support (meetecho, etc) for groups to co-locate to attend IETF remotely (Tommy)
-
-- Review plans for IGF and WSIS (from events & outreach)
-
-## Proposed Agenda Topics
-
-*Scheduling notes: Full board meeting / votes should be when remote people can join (Mark will be remote from Australia; prefers toronto 3:30-5:30pm slots); Sally from ISOC will be able to join for Mon/Tues*
-
-### Events and Outreach
-
-- Plans for IGF and WSIS 
-- Outreach Planning (Dhruv)
-- Guidance for External (Non-IETF) Events (Dhruv)
-
-### Workshops and Programs
-- Age Verification Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/38)
-- IP Geolocation Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/26)
-
-### Other Technical Topics
-
-- Architecture for Zero-Trust Networks (Cullen; see notes from 2025-01-08)
-- Online Harrassment with Zakir Durumeric (remote talk)
-
-### Process / Administrative Work
-- Appeal response to "Appeal for forwarding of draft-ietf-lsr-multi-tlv" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/130)
-- Appeal response to "Complaint regarding antitrust violations" [(link)](https://datatracker.ietf.org/group/iab/appeals/artifact/132)
-- Decision Process / Voting [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95)
-- Reliance on NIST documents + Inclusive Language / Clarity of Language
-- Liaison relationships
-- Signing onto ISOC letters/documents; what is the criteria before we sign on
-
-### "Formal" Board Meeting Tasks
-- Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35)
-- Update on EDM / EIMPACT program progress
-- IESG liaison report
-- NomCom liaison / job descriptions
-- Discuss CCG appointment (exec session)
-- Discuss RZERC appointment (exec session)
-- Review IABOPEN agenda for IETF 123
-- Potentially vote on decision process
  
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
