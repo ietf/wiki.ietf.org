@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-02T13:29:19.255Z
+date: 2025-06-04T09:20:06.037Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -106,4 +106,5 @@ Joint Topics
 #### Regrets
 
 * Kline, Erik
+* Remote (will join where I can): Gorry
 
