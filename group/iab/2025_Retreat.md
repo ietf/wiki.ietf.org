@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-03T12:12:21.720Z
+date: 2025-06-04T17:28:47.443Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -107,8 +107,20 @@ Banff Room, 29th floor
 
 ### Wednesday, 18 June 2025 (AM Joint IAB/IESG)
 
-Morning:
-1. Breakout: overflow for appeal responses
+#### 09:00 - 12:00: Additional Topics
+* "Transition Accounts" for Slack (Roman)
+  - Purpose: Share the Slack policy adopted by the IESG for possible adoption by the IAB
+  - Materials: [draft policy](https://docs.google.com/document/d/1S8S9B2JCNsG3nAv08RAWHgJCn9LPBLVpe0ZfpsbeuSA/edit)
+
+* Reflection on BoF coordination
+  - Purpose: discuss the efficacy of the current BOF request intake process
+  - Materials: XXX
+
+* Overflow for appeal responses
+  - Purpose: Q/A by the IAB to the IESG to inform appeal responses
+
+Parking lot
+- 1. Breakout: overflow for appeal responses
 
 
  
