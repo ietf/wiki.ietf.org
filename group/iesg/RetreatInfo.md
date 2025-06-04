@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-04T13:25:30.881Z
+date: 2025-06-04T14:04:22.943Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -37,6 +37,8 @@ See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2025_Retreat)
 
 ### Tuesday, June 17 (IAB only in AM + IAB/IESG in PM)
 
+See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2025_Retreat)
+
 Morning - IAB only
 
 Afternoon - Combined IAB/IESG
@@ -45,7 +47,7 @@ Afternoon - Combined IAB/IESG
 
 ### Wednesday, June 18 (IAB/IESG in AM + IESG only in PM)
 
-Morning - Combined IAB/IESG
+Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org/group/iab/2025_Retreat)
 
 #### 1200 - 1315 -- Lunch
 
