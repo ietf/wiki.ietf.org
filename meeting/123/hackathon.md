@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-02T12:06:40.765Z
+date: 2025-06-04T16:07:00.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -194,11 +194,6 @@ PQC in open source software.
 ---
 
 ### CODECO - Benchmarking with network-compute metrics and energy-awareness across Edge-Cloud
-- **Project Info**
-TBA
-
-- **Hackathon plan**
-TBA
 
 - **Challenge 1: Green network observability and reporting**
 This challenge explores energy-awareness observability and reporting that may suit telco-cloud resource management. The challenge relies on approaches and code under development in the context of the Horizon Europe project [CODECO](https://he-codeco.eu/), and also relates with a new informational draft being proposed to [IETF GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/).  
