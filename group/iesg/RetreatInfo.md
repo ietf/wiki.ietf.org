@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-04T14:04:22.943Z
+date: 2025-06-04T14:29:18.967Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -150,7 +150,7 @@ Joint Topics
 
 | Name          | Arrival    | Departure  | Dinner  | Hotel |
 | :---          |   :----:   |    :----:  | :----:  |:----: |
-|   |   |    |   |    |
+| Éric Vyncke | Mon 16th 15:10 TP567 | Thu 19th 23:50 TP262 | Yes | Westin Harbour Castle |
 |       |  |  |      | |
 
 
