@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-04T14:29:18.967Z
+date: 2025-06-04T14:30:22.491Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -141,7 +141,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 + Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 
 
-Joint Topics
+#### Joint Topics
 * Team-building
 * "Transition Accounts" for Slack
 * Guidance to BOF proponents to improve quality of requests (as in - Can we improve the tooling for submission of BoF requests to ensure they have gone through RFC5434 and the necessary background prep?) (Ketan)
