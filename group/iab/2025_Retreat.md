@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-04T17:39:10.439Z
+date: 2025-06-05T14:12:37.318Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -111,6 +111,14 @@ Banff Room, 29th floor
 * "Transition Accounts" for Slack (Roman)
   - Purpose: Share the Slack policy adopted by the IESG for possible adoption by the IAB
   - Materials: [draft policy](https://docs.google.com/document/d/1S8S9B2JCNsG3nAv08RAWHgJCn9LPBLVpe0ZfpsbeuSA/edit)
+
+* Submitting Appeals via the Datatracker (Cindy, Andy, Ketan, and Paul) 
+  - Purpose: Proposal for a datatracker form to submit an appeal per Section 6 of RFC2026 (instead of an email based mechanism)
+  - Materials: -- add materials --
+
+* Reflection on BoF coordination
+  - Purpose: discuss the efficacy of the current BOF request intake process
+  - Materials: -- add materials --
 
 * Reflection on BoF coordination
   - Purpose: discuss the efficacy of the current BOF request intake process
