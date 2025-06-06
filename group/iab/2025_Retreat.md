@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-05T14:12:37.318Z
+date: 2025-06-06T10:43:29.987Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -28,8 +28,9 @@ Banff Room, 29th floor
 
 #### 09:00-10:30: Events & Outreach
 
-- Review plans and material for IGF and WSIS — *Roman/Dhruv/Mirja*
+- Review plans and material for IGF and WSIS — *Roman/Dhruv/Mirja/Mark*
 - Outreach Planning — *Dhruv*
+	- [Slide](https://docs.google.com/presentation/d/1mHATG1bplUOCj3cbvwa6ygSnyj_r8iFFigCLb0bKqTU/edit?usp=sharing)
 - Guidance for External (Non-IETF) Events — *Dhruv*
 - Review ISOC Coordination board [(link)](https://github.com/intarchboard/ISOC-coord-board/issues) — *Ryan*
 - Signing onto ISOC letters/documents; what is the criteria before we sign on — *Tommy*
