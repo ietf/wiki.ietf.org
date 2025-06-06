@@ -2,7 +2,7 @@
 title: IAB Outreach Coordinator
 description: 
 published: true
-date: 2023-12-05T17:40:34.686Z
+date: 2025-06-06T06:17:21.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:40:30.565Z
@@ -37,9 +37,9 @@ EODIR seeks to coordinate outreach activities for the IETF undertaken by individ
 The Internet Society performs extensive policy and technical outreach activities in the execution of its own mission and planned activities. Where the interests and objectives of these activities overlap with the IAB, the Internet Society and the IAB will work to ensure the two organizations are well informed and coordinated. This coordination will include the IAB Outreach Coordinator and the ISOC Liaison to the IAB. The IAB-ISOC Policy Coordination Administrative Support group may also be engaged in the discussion and coordination as appropriate.
 
 ## Outreach Coverage
-We need to make sure we have good diversity and coverage in the outreach activities selected such that we realize some outreach opportunities every year (i.e., ideally based on the interest or plans of members who already participate in certain events) and also that we don't end up with the same community and events every year. IAB Outreach Coordinator Email
+We need to make sure we have good diversity and coverage in the outreach activities selected such that we realize some outreach opportunities every year (i.e., ideally based on the interest or plans of members who already participate in certain events) and also that we don't end up with the same community and events every year. 
 
-You can send email to the IAB outreach coordinators at outreach@iab.org. The current IAB outreach coordinator is [Dhruv Dhody](https://datatracker.ietf.org/person/dhruv.ietf@gmail.com).
+**IAB Outreach Coordinator Email**: You can send email to the IAB outreach coordinators at outreach@iab.org. The current IAB outreach coordinator is [Dhruv Dhody](https://datatracker.ietf.org/person/dhruv.ietf@gmail.com).
 
 &nbsp;
 &nbsp;
