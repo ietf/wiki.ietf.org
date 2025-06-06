@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-06T13:36:45.290Z
+date: 2025-06-06T13:38:03.731Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -118,7 +118,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 #### 1315 - 1415 -- Document Processing
 * Some AUTH48 Matters (Med)
-  - Purpose: Given that [2% of all RFCs took ≤ 48hrs](https://datatracker.ietf.org/meeting/122/materials/slides-122-ietf-sessa-internet-engineering-steering-group-iesg-report-00), I plan to follow by default the IESG statement on the matter and exercise the AD right to approve the document. There might be valid cases when more time may be needed. Discuss feedback from other IESG memebrs.
+  - Purpose: Given that [2% of all RFCs took ≤ 48hrs](https://datatracker.ietf.org/meeting/122/materials/slides-122-ietf-sessa-internet-engineering-steering-group-iesg-report-00), I plan to follow by default the IESG statement on the matter and exercise the AD right to approve the document. There might be valid cases when more time may be needed. Discuss feedback from other IESG members.
   - Materials: 
      + [IESG Statement on AUTH48 State](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-auth48-state-20060105/)
 * IESG's expectations from documents on Experimental Track (Ketan)
