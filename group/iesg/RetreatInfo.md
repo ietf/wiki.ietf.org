@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-04T17:29:47.466Z
+date: 2025-06-06T11:08:33.982Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -63,7 +63,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Materials: XX
 
 * Managing non-WG IETF mailing lists (Ketan) (15min)
-  - Purpose: -- please clarify -- "suitable purpose, expiry dates (with renewals like early allocations), etc."
+  - Purpose: Review current procedures (if any) for creation and maintenance of ML - (a) Do we have an allow-list of topics? (b) do non-WG mailers have something like an annual review for archival? (c) what distinguishes an official IETF ML as in say WG ML from others like BOF list or general interest list ?
   - Materials: XX
 
 * Side Meetings 1 (Secretariat, Jay) (30 min)
@@ -78,7 +78,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Materials: XX
 
 * IPR disclosure at WG adoption/LC (Ketan) (30 min)
-  - Purpose: -- please clarify -- formalizing an existing practice
+  - Purpose: Many WGs poll for IPR disclosures before/during WG adoption and WGLC. What is the view of the IESG on this? If in favor of formalizing, do we (a) do as part of procon (formal) or (b) as an IESG statement with recommendation (informal)
   - Materials: XX
 
 ### Thursday, June 19 (IESG only)
@@ -90,11 +90,11 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 #### 0945 - 1100 -- Balloting Related Topics
 (timebox all of these together)
 * DISCUSS criteria for experimental and informational document (Ketan) 
-  - Purpose: -- please clarify --
+  - Purpose: Discussion to get a sense of the IESG - Is it OK to approve an informational/experimental document where there are more ABSTAIN positions than YES/NO-OBJ (just as an example) ?
   - Materials: XX
 
 * Classification for ballot COMMENTs (Ketan)
-  - Purpose: -- please clarify -- How does responsible AD know which comments are "important"
+  - Purpose: Are all comments in COMMENT section equal for all ADs and OK to be ignored? If no, how can an AD indicate the importance of specific comments to the responsible AD (and authors as well)?
   - Materials: XX
 
 * Balloting procedures for Charters (Roman)
@@ -117,7 +117,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Purpose: -- please clarify --
   - Materials: XX
 * IESG's expectations from documents on Experimental Track (Ketan)
-  - Purpose: -- please clarify -- 
+  - Purpose: -- Identify what are IESG's expectation for necessary justification for Experimental Status
   - Materials: XX
 
 #### 1415 - 1500 -- Buffer
@@ -137,8 +137,9 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 ##### Parking Lot
 
-
-+ Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
+* Looking for consensus within the IESG on the semantics of the RFC "updates" tag (Ketan)
+  + There exists https://wiki.ietf.org/group/iesg/useofupdatestag as a starting point
+* Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 
 
 #### Joint Topics
