@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-06T16:59:39.134Z
+date: 2025-06-06T18:20:09.382Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -98,6 +98,7 @@ Banff Room, 29th floor
 - Joint topics
   - Recap outreach event plans (including IGF and WSIS) — *Dhruv*
   - Next retreat in APAC — *Qin/Dhruv*
+  	- [Slide](https://docs.google.com/presentation/d/1_-dXuzyxLup9FfyHl_tl23ZjHBAO9cMG-NnEL6D0klw/edit?usp=sharing)
   - Support (meetecho, etc) for groups to co-locate to attend IETF remotely  — *Tommy*
 
 #### 15:00-15:30: Break and Ice Break Event
