@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-06T11:08:33.982Z
+date: 2025-06-06T13:36:45.290Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -103,19 +103,24 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 #### 1100 - 1200 -- OPS Matters
 * YANG deVELpment PrOCEss & maintenance (VELOCE) (Med/Mahesh) (30 min)
-  - Purpose: -- please clarify --
-  - Materials: XX
+  - Purpose: Discuss an approach to develop YANG modules out of RFCs. Discuss the experiment and how this will be conducted. 
+  - Materials: 
+     + Standardization conclusions of [Report from the IAB Workshop on the Next Era of Network Management Operations (NEMOPS)](https://datatracker.ietf.org/doc/html/draft-iab-nemops-workshop-report-02#name-standardization-conclusions)
+     + [YANG deVELpment PrOCEss & maintenance (VELOCE)](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
+     + ["Internet-Draft with YANG Modules" Template Repository](https://github.com/IETF-OPS-AD/I-D-with-yang-template)
 
 * RFC5706 Refresh: Plan/Status Update of "Guidelines for Considering Operations and Management" (Med/Mahesh) (30 min)
-  - Purpose: -- please clarify --
-  - Materials: XX
+  - Purpose: Share plan & status update of the oinging effort to refresh "Guidelines for Considering Operations and Management in IETF Specifications". The effort is heading to require a new section "Operations and Manageability Considerations" section in all I-Ds.
+  - Materials:
+    + [draft-opsarea-rfc5706bis](https://ietf-opsawg-wg.github.io/draft-opsarea-rfc5706bis/draft-opsarea-rfc5706bis.html)
 
 #### 1200 - 1315 -- Lunch
 
 #### 1315 - 1415 -- Document Processing
-* -- please clarify topic -- Some AUTH48 Matters (Med)
-  - Purpose: -- please clarify --
-  - Materials: XX
+* Some AUTH48 Matters (Med)
+  - Purpose: Given that [2% of all RFCs took ≤ 48hrs](https://datatracker.ietf.org/meeting/122/materials/slides-122-ietf-sessa-internet-engineering-steering-group-iesg-report-00), I plan to follow by default the IESG statement on the matter and exercise the AD right to approve the document. There might be valid cases when more time may be needed. Discuss feedback from other IESG memebrs.
+  - Materials: 
+     + [IESG Statement on AUTH48 State](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-auth48-state-20060105/)
 * IESG's expectations from documents on Experimental Track (Ketan)
   - Purpose: -- Identify what are IESG's expectation for necessary justification for Experimental Status
   - Materials: XX
