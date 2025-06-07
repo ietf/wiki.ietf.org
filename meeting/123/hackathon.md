@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-04T16:07:00.334Z
+date: 2025-06-07T16:24:17.175Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -336,6 +336,49 @@ We welcome collaboration with anyone working on:
 - Robotics, swarm testbeds, or dense IoT deployments
 
 ----
+
+### Validate Configured Subscription YANG-Push Publisher Implementations
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Holger Keller (holger.keller @ telekom.de)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Benoit Claise (benoit.claise @ huawei.com)
+Haomian Zheng  (zhenghaomian @ huawei.com)
+Qiufang Ma (maqiufang1 @ huawei.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Samuel Gauthier (samuel.gauthier @ 6wind.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-message-broker-telemetry-message
+
+- **Project Info**
+https://www.network-analytics.org/yp/
+Validate and verify 4 YANG-Push publisher and 1 YANG-Push receiver implementation in the area of:
+
+- *Subscription automation*
+Discover YANG-Push systems and notifications capabilities and configure periodical and on-change subscriptions with netconf.
+- *Notification integration*
+Validate subscription state change and push-update and push-change-update notifications against schema with yanglint
+Validate draft-netana-nmop-message-broker-telemetry-message in message broker for draft-ietf-nmop-yang-message-broker-integration integration
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/123/Hackathon
+https://github.com/NetGauze/NetGauze/pull/213
+
+---
+
+
 
 
 ```
