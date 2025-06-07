@@ -38,7 +38,11 @@ In general, refer to [RFC 6365](https://datatracker.ietf.org/html/rfc6365) for h
 
 ### Character Sets
 
-Your spec might have various textual protocol elements, but not explicitly mention the allowable charsets. In IETF protocols, UTF-8 is preferred (along with US-ASCII, which is a subset of UTF-8). See [RFC 2277](https://datatracker.ietf.org/html/rfc2277) (BCP 18), Sections 3.1 and 3.2. And see below about Unicode Normalization.
+If your specification includes textual elements, that text should consist of Unicode characters. This presents a variety of issues discussed in the rest of this section.
+
+On the wire and in storage, you don’t transfer or store abstract "characters", but rather Unicode's integer "code points" that represent them.  Not all the available code points actually represent characters and some of them have the potential to cause software problems.  This is discussed in [Unicode Character Repertoire Subsets](https://datatracker.ietf.org/doc/draft-bray-unichars/), recently approved by the IESG and soon to be an RFC. It provides multiple options you can reference to specify which subset of the available code points you want to support.
+
+Once you have thought through what the appropriate character set for your work is, the question arises of how to encode those characters for transmission or storage.  In IETF protocols, UTF-8 is preferred (along with US-ASCII, which is a subset of UTF-8). See [RFC 2277](https://datatracker.ietf.org/html/rfc2277) (BCP 18), Sections 3.1 and 3.2. And see below about Unicode Normalization.
 
 ### Unicode Normalization
 
