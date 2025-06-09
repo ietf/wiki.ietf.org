@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-06T18:20:09.382Z
+date: 2025-06-09T15:29:30.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -108,6 +108,9 @@ Banff Room, 29th floor
 - Age Verification Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/38) — *Mark*
 
 #### Evening: Joint Dinner
+
+1800-2130: Group dinner at [AGO Bistro](https://ago.ca/visit/dine/bistro), [317 Dundas St. West, Toronto, ON M5T 1G4](https://www.google.com/maps/place/317+Dundas+St+W,+Toronto,+ON+M5T+1G4,+Canada/@43.6535364,-79.3950596,676m/data=!3m2!1e3!4b1!4m6!3m5!1s0x882b34c593a29ffb:0x428aa3e28b994b99!8m2!3d43.6535364!4d-79.3924847!16s%2Fg%2F11bw42p0pm!5m1!1e1?hl=en&entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D)
+
 
 ### Wednesday, 18 June 2025 (AM Joint IAB/IESG)
 
