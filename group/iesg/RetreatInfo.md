@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-09T15:29:47.018Z
+date: 2025-06-09T22:09:22.301Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -73,11 +73,11 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 #### 1545 - 1600 -- Break
 
 #### 1600 - 1700 -- WG Activities
-* Interim-only Working Groups (Andy) (30 min)
+* Interim-only Working Groups (Andy)
   - Purpose: -- please clarify --
   - Materials: XX
 
-* IPR disclosure at WG adoption/LC (Ketan) (30 min)
+* IPR disclosure at WG adoption/LC (Ketan)
   - Purpose: Many WGs poll for IPR disclosures before/during WG adoption and WGLC. What is the view of the IESG on this? If in favor of formalizing, do we (a) do as part of procon (formal) or (b) as an IESG statement with recommendation (informal)
   - Materials: XX
 
