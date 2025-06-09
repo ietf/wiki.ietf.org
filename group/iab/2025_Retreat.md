@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-09T15:29:57.073Z
+date: 2025-06-09T16:20:16.675Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -121,7 +121,7 @@ Banff Room, 29th floor
 
 * Submitting Appeals via the Datatracker (Cindy, Andy, Ketan, and Paul) 
   - Purpose: Proposal for a datatracker form to submit an appeal per Section 6 of RFC2026 (instead of an email based mechanism)
-  - Materials: -- add materials --
+  - Materials: [draft proposal](https://docs.google.com/document/d/1jVvUg7bls7K8x8sOqYzzJ2aBfwxXZcQra1alVdWHPV0/edit?usp=sharing)
 
 * Reflection on BoF coordination
   - Purpose: discuss the efficacy of the current BOF request intake process
