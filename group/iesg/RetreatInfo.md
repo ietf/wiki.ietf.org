@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-06T13:38:03.731Z
+date: 2025-06-09T15:23:10.307Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -43,7 +43,7 @@ Morning - IAB only
 
 Afternoon - Combined IAB/IESG
 
-1800-2100: Group dinner at TBD
+1800-2130: Group dinner at [AGO Bistro](https://ago.ca/visit/dine/bistro), [317 Dundas St. West, Toronto, ON M5T 1G4](https://www.google.com/maps/place/317+Dundas+St+W,+Toronto,+ON+M5T+1G4,+Canada/@43.6535364,-79.3950596,676m/data=!3m2!1e3!4b1!4m6!3m5!1s0x882b34c593a29ffb:0x428aa3e28b994b99!8m2!3d43.6535364!4d-79.3924847!16s%2Fg%2F11bw42p0pm!5m1!1e1?hl=en&entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D)
 
 ### Wednesday, June 18 (IAB/IESG in AM + IESG only in PM)
 
