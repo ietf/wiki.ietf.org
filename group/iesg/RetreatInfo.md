@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-09T22:09:22.301Z
+date: 2025-06-10T17:45:03.156Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -99,7 +99,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 * Balloting procedures for Charters (Roman)
   - Purpose: Define balloting procedures for charters similar to those for documents; and explore how to roll this out
-  - Materials: XX
+  - Materials: [proposed balloting procedures + roll-out strategy](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/)
 
 #### 1100 - 1200 -- OPS Matters
 * YANG deVELpment PrOCEss & maintenance (VELOCE) (Med/Mahesh) (30 min)
