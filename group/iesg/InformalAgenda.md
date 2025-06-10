@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-06-06T19:07:19.568Z
+date: 2025-06-10T00:00:53.976Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - June 12, 2025
 
-There **WILL NOT** be a meeting on this date.
+There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -41,13 +41,14 @@ Note that this page is public.
 
 ### Administrivia
 
-
+* Final determinations of IETF 123 BOFs (All)
 
 ### Document Discussions
 
 
 
 ### Management Issues
+
 
 
 ### WG News 
