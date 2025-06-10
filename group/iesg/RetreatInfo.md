@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-10T17:45:03.156Z
+date: 2025-06-10T18:07:55.296Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -74,7 +74,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 #### 1600 - 1700 -- WG Activities
 * Interim-only Working Groups (Andy)
-  - Purpose: -- please clarify --
+  - Purpose: Working Groups that only have interim meetings are discouraged. Does the IESG need to change its guidance on this?
   - Materials: XX
 
 * IPR disclosure at WG adoption/LC (Ketan)
