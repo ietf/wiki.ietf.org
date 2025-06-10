@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-06-10T00:00:53.976Z
+date: 2025-06-10T13:37:48.483Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -58,6 +58,8 @@ Note that this page is public.
 ### Executive Sessions
 
 Next steps after https://mailarchive.ietf.org/arch/msg/iesg-only/EDVJrkjp1llcvvBjrKsPn61907g/ (Éric Vyncke)
+
+RFC 2026 question (AD)
 
 
 ### AOB
