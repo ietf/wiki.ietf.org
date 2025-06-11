@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-11T17:02:00.404Z
+date: 2025-06-11T17:22:08.350Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -149,6 +149,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 #### Joint Topics
 * Team-building
 * Guidance to BOF proponents to improve quality of requests (as in - Can we improve the tooling for submission of BoF requests to ensure they have gone through RFC5434 and the necessary background prep?) (Ketan)
+	+ (please review & add/update) https://docs.google.com/document/d/1GDbTJZMw08LJLJMt_RKc9watXTaDvFELYBKwrSMzZ0c/edit?usp=sharing
 
 ### RSVP
 
