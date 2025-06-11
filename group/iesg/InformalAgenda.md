@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-06-10T13:37:48.483Z
+date: 2025-06-11T18:38:07.661Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -31,6 +31,7 @@ Meeting password: 12345
 
 - Gorry - Flight time changed, will not make a meeting on 12th June.
 - Éric Vyncke - can only stay for the first hour
+- Mahesh 
 
 
 ## Agenda
