@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-09T16:20:16.675Z
+date: 2025-06-11T17:20:58.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -124,8 +124,8 @@ Banff Room, 29th floor
   - Materials: [draft proposal](https://docs.google.com/document/d/1jVvUg7bls7K8x8sOqYzzJ2aBfwxXZcQra1alVdWHPV0/edit?usp=sharing)
 
 * Reflection on BoF coordination
-  - Purpose: discuss the efficacy of the current BOF request intake process
-  - Materials: -- add materials --
+  - Purpose: discuss the efficacy of the current BOF request intake process (Ketan, ...)
+  - Materials: (please review & add/update) https://docs.google.com/document/d/1GDbTJZMw08LJLJMt_RKc9watXTaDvFELYBKwrSMzZ0c/edit?usp=sharing
 
 * Overflow for appeal responses
   - Purpose: Q/A by the IAB to the IESG to inform appeal responses
