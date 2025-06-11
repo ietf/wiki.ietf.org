@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-10T19:29:31.267Z
+date: 2025-06-11T13:12:28.189Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -121,8 +121,8 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Materials: 
      + [IESG Statement on AUTH48 State](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-auth48-state-20060105/)
 * IESG's expectations from documents on Experimental Track (Ketan)
-  - Purpose: -- Identify what are IESG's expectation for necessary justification for Experimental Status
-  - Materials: XX
+  - Purpose: Identify what are IESG's expectation for necessary justification for Experimental Status
+  - Materials: (please review & add/update) https://docs.google.com/document/d/1dH3zD-jhYeulXAtOuf4pno8G9vTy0xjY-n4kIidP8as/edit?usp=sharing
 
 #### 1415 - 1500 -- Buffer
 
