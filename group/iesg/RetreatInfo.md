@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-11T15:37:24.144Z
+date: 2025-06-11T16:24:03.626Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -55,8 +55,8 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 (15-min buffer in this slot)
 
 * Content management of the IETF wiki(s) (Deb, Ketan) (45min)
-  - Purpose: Define policies around content manage on the IETF wikis (e.g., uses by WGs, BOFs, others)
-  - Materials: XX
+  - Purpose: To discuss and brainstorm policies around content manage on the IETF wikis (e.g., uses by WGs, BOFs, others)
+  - Materials: https://docs.google.com/document/d/1wrL339-mhvUOF_NdreaaCYc4H-ZG06p948fm-e7e88g/edit?tab=t.0#heading=h.kpapkcsfhe39
 
 * Outdated IESG Statements (Paul) (45min)
   - Purpose: Review prior statements, identify statements that may no longer apply.  Define an approach to signal how statements no longer apply.
@@ -159,7 +159,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 |       |  |  |      | |
 | Mahesh Jethanandani | Tue 17th 18:10 | Thu 19th 23:50  | Yes | Westin Harbour Castle |
 |       |  |  |      | |
-
+ Deb Cooley | Sunday, 15 June, afternoon | Sat 21 June  | Yes | Hilton Toronto 
 
 #### Regrets
 
