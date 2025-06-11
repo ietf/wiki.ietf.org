@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-06-11T12:57:56.198Z
+date: 2025-06-11T13:23:09.816Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -48,6 +48,7 @@ TODO
 - [Web Linking](https://datatracker.ietf.org/doc/html/rfc8288)
 - [OpenAPI](https://www.openapis.org/)
 - [JSON Schema](https://json-schema.org/)
+- [JSON Structure](https://github.com/json-structure)
 
 ## Related work
 
