@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-11T14:01:25.570Z
+date: 2025-06-11T15:37:24.144Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -144,6 +144,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Looking for consensus within the IESG on the semantics of the RFC "updates" tag (Ketan)
   + There exists https://wiki.ietf.org/group/iesg/useofupdatestag as a starting point
 * Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
+* YANG models in experimental/informational drafts (Mahesh)
 
 
 #### Joint Topics
@@ -156,7 +157,8 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 | :---          |   :----:   |    :----:  | :----:  |:----: |
 | Éric Vyncke | Mon 16th 15:10 TP567 | Thu 19th 23:50 TP262 | Yes | Westin Harbour Castle |
 |       |  |  |      | |
-
+| Mahesh Jethanandani | Tue 17th 18:10 | Thu 19th 23:50  | Yes | Westin Harbour Castle |
+|       |  |  |      | |
 
 
 #### Regrets
