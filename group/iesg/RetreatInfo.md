@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-11T13:12:28.189Z
+date: 2025-06-11T14:01:25.570Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -94,7 +94,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 * Classification for ballot COMMENTs (Ketan)
   - Purpose: Are all comments in COMMENT section equal for all ADs and OK to be ignored? If no, how can an AD indicate the importance of specific comments to the responsible AD (and authors as well)?
-  - Materials: XX
+  - Materials: (please review and add/update) https://docs.google.com/document/d/1Flv5O6SxocxqYXBKWrXaaETldaVQSUjeq3i6mlt_RCw/edit?usp=sharing
 
 * Balloting procedures for Charters (Roman)
   - Purpose: Define balloting procedures for charters similar to those for documents; and explore how to roll this out
