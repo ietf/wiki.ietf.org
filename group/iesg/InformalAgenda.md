@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-06-11T18:38:07.661Z
+date: 2025-06-12T14:01:28.385Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -42,7 +42,7 @@ Note that this page is public.
 
 ### Administrivia
 
-* Final determinations of IETF 123 BOFs (All)
+* [Final determinations of IETF 123 BOFs](https://docs.google.com/document/d/1ONTUu21mh2OutlKYs1zuqsx_EfWio-5edkqIsT7guh8/edit?usp=sharing) (All)
 
 ### Document Discussions
 
