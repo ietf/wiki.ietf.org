@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-06-12T14:01:28.385Z
+date: 2025-06-12T20:17:49.163Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - June 12, 2025
+# Informal Telechat - July 3, 2025
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,9 +29,6 @@ Meeting password: 12345
 
 ## Regrets
 
-- Gorry - Flight time changed, will not make a meeting on 12th June.
-- Éric Vyncke - can only stay for the first hour
-- Mahesh 
 
 
 ## Agenda
@@ -42,7 +39,7 @@ Note that this page is public.
 
 ### Administrivia
 
-* [Final determinations of IETF 123 BOFs](https://docs.google.com/document/d/1ONTUu21mh2OutlKYs1zuqsx_EfWio-5edkqIsT7guh8/edit?usp=sharing) (All)
+
 
 ### Document Discussions
 
@@ -58,9 +55,6 @@ Note that this page is public.
 
 ### Executive Sessions
 
-Next steps after https://mailarchive.ietf.org/arch/msg/iesg-only/EDVJrkjp1llcvvBjrKsPn61907g/ (Éric Vyncke)
-
-RFC 2026 question (AD)
 
 
 ### AOB
