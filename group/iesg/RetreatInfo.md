@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-12T16:43:09.214Z
+date: 2025-06-12T17:27:02.203Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -160,6 +160,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 | Mahesh Jethanandani | Tue 17th 18:10 | Thu 19th 23:50  | Yes | Westin Harbour Castle |
 |       |  |  |      | |
  Deb Cooley | Sunday, 15 June, afternoon | Sat 21 June  | Yes | Hilton Toronto 
+| Andy Newton | Tue 17th 10:00 | Thu 19th 19:50  | Yes | Westin Harbour Castle |
 
 #### Regrets
 
