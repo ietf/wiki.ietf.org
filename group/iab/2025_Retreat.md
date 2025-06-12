@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-11T17:20:58.061Z
+date: 2025-06-12T02:08:27.626Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -100,6 +100,7 @@ Banff Room, 29th floor
   - Next retreat in APAC — *Qin/Dhruv*
   	- [Slide](https://docs.google.com/presentation/d/1_-dXuzyxLup9FfyHl_tl23ZjHBAO9cMG-NnEL6D0klw/edit?usp=sharing)
   - Support (meetecho, etc) for groups to co-locate to attend IETF remotely  — *Tommy*
+  - IETF@60 review suggestion [(link)](https://mailarchive.ietf.org/arch/msg/architecture-discuss/ywqFVF9wcmkYZz5J0b2MiEbgfos/)
 
 #### 15:00-15:30: Break and Ice Break Event
 
