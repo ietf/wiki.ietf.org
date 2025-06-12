@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-12T02:08:27.626Z
+date: 2025-06-12T16:44:03.530Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -21,6 +21,7 @@ Cisco
 88 Queens Quay W #2900, 
 Toronto, ON M5J 0B8, Canada
 Banff Room, 29th floor
+[Webex Details](https://co.webex.com/co/j.php?MTID=m79ab2a4cebde3b07bc9ef6e467e03eeb)
 
 ## Agenda
 
