@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-11T17:58:56.108Z
+date: 2025-06-12T15:27:12.594Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -144,7 +144,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
   + There exists https://wiki.ietf.org/group/iesg/useofupdatestag as a starting point
 * Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 * YANG models in experimental/informational drafts (Mahesh)
-
+* Discussion of JSON Structure and the history of JSON Schema, cross SDO collaboration (Orie + Mike)
 
 #### Joint Topics
 * Team-building
