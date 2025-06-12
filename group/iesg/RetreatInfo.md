@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-12T15:27:12.594Z
+date: 2025-06-12T16:43:09.214Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -14,7 +14,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 ### Logistics
 * Background [Information](https://docs.google.com/document/d/1qhVhBBAbjujyjSZygTPeqWOs6Vg1zU-DLVTVodV7bDw/edit?usp=sharing) for anyone considering hosting the retreat. 
 #### Remote Participation
-See daily agenda for link
+[Webex Details](https://co.webex.com/co/j.php?MTID=m79ab2a4cebde3b07bc9ef6e467e03eeb)
 
 #### On-Site Participation
 
