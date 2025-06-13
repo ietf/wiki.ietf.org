@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-12T16:44:03.530Z
+date: 2025-06-13T13:18:40.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -62,7 +62,7 @@ Banff Room, 29th floor
 #### 15:30-17:30: Formal Board Meeting
 
 - Accept and Discuss Reports
-	- IESG liaison report — *Matthew*
+	- IESG liaison report — [(issue)](https://github.com/intarchboard/responsibilities/issues/31#issuecomment-2962221578) *Matthew*
   - IRTF report — *Dirk*
   - EDM program report — *Jana/Warren/Tommy*
   - EIMPACT program report — *Suresh/Mark*
