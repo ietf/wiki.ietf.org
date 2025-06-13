@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-13T14:44:25.567Z
+date: 2025-06-13T14:49:51.441Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -390,7 +390,7 @@ https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
 https://datatracker.ietf.org/doc/draft-belmq-green-framework/
 
 - **Project Info**
-Validate GREEN Framework to cover different use cases:
+Validate GREEN Framework to cover different use cases listed in the GREEN use cases draft:
 * device/component energy consumption report with information collected directly from the device or PDU connected.
 * End-to-End use case, video streaming.
 * API integration to cover multi/inter domain.
