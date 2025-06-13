@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-13T19:42:00.625Z
+date: 2025-06-13T20:33:26.945Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -119,6 +119,11 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Purpose: Given that [2% of all RFCs took ≤ 48hrs](https://datatracker.ietf.org/meeting/122/materials/slides-122-ietf-sessa-internet-engineering-steering-group-iesg-report-00), I plan to follow by default the IESG statement on the matter and exercise the AD right to approve the document. There might be valid cases when more time may be needed. Discuss feedback from other IESG members.
   - Materials: 
      + [IESG Statement on AUTH48 State](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-auth48-state-20060105/)
+
+* Discussion of JSON Structure and the history of JSON Schema, cross SDO collaboration (Orie + Mike)
+  - Purpose: XXX
+  - Materials: XXX
+  
 * IESG's expectations from documents on Experimental Track (Ketan)
   - Purpose: Identify what are IESG's expectation for necessary justification for Experimental Status
   - Materials: (please review & add/update) https://docs.google.com/document/d/1dH3zD-jhYeulXAtOuf4pno8G9vTy0xjY-n4kIidP8as/edit?usp=sharing
@@ -144,7 +149,6 @@ Please include initials next to topics, otherwise we risk forgetting what the to
   + There exists https://wiki.ietf.org/group/iesg/useofupdatestag as a starting point
 * Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 * YANG models in experimental/informational drafts (Mahesh)
-* Discussion of JSON Structure and the history of JSON Schema, cross SDO collaboration (Orie + Mike)
 
 #### Joint Topics
 * Team-building
