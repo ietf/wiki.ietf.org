@@ -2,7 +2,7 @@
 title: INT Area 
 description: Wiki for the Internet Area
 published: true
-date: 2023-01-04T22:03:02.529Z
+date: 2025-06-13T17:32:03.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:25:33.087Z
