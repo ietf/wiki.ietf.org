@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-12T17:27:02.203Z
+date: 2025-06-13T19:41:04.907Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -59,11 +59,11 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 * Content management of the IETF wiki(s) (Deb, Ketan) (45min)
   - Purpose: To discuss and brainstorm processes and potential policies around content manage on the IETF wikis (e.g., uses by WGs, BOFs, others)
-  - Materials: https://docs.google.com/document/d/1wrL339-mhvUOF_NdreaaCYc4H-ZG06p948fm-e7e88g/edit?tab=t.0#heading=h.kpapkcsfhe39
+  - Materials: [discussion slides](https://docs.google.com/document/d/1wrL339-mhvUOF_NdreaaCYc4H-ZG06p948fm-e7e88g/edit?tab=t.0#heading=h.kpapkcsfhe39)
 
 * Managing non-WG IETF mailing lists (Ketan, Deb) (15min)
   - Purpose: Management of non-WG mailing lists - some discussion points, and brainstorming for actions (if any)
-  - Materials: https://docs.google.com/document/d/14nLcKtB-JFL9rQo7hBWImwY4jZbETT1H-22IINYFy1Q/edit?usp=sharing
+  - Materials: [discussion slides](https://docs.google.com/document/d/14nLcKtB-JFL9rQo7hBWImwY4jZbETT1H-22IINYFy1Q/edit?usp=sharing)
 
 * Side Meetings 1 (Secretariat, Jay) (30 min)
   - Purpose: Retrospective on side meeting year; proposal for future assessment
