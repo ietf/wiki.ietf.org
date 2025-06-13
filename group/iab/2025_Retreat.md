@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-13T13:23:45.536Z
+date: 2025-06-13T15:59:38.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -68,7 +68,7 @@ Banff Room, 29th floor
   - EIMPACT program report — *Suresh/Mark*
 - Adopt RFC4052bis / RFC4053bis [(issue)](https://github.com/intarchboard/responsibilities/issues/35) — *Mirja/Suresh/Qin*
 - Approve IABOPEN agenda for IETF 123 — *Tommy/Jason*
-- NomCom liaison / job descriptions — *Alvaro*
+- NomCom liaison / job descriptions [Slides](https://docs.google.com/presentation/d/1yEA5WRZVvkQfC8Xbp1BBFBu_ldHC3K-TTC49fq4-IWk/edit?usp=sharing) — *Alvaro*
 - Executive session
 	- CCG appointment
 	- RZERC appointment
