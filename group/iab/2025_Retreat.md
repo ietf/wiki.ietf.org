@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-13T13:18:40.776Z
+date: 2025-06-13T13:23:45.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
