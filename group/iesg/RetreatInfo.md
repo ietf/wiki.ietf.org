@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-13T20:34:04.162Z
+date: 2025-06-14T06:21:02.293Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -108,7 +108,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
      + ["Internet-Draft with YANG Modules" Template Repository](https://github.com/IETF-OPS-AD/I-D-with-yang-template)
 
 * RFC5706 Refresh: Plan/Status Update of "Guidelines for Considering Operations and Management" (Med/Mahesh) (30 min)
-  - Purpose: Share plan & status update of the oinging effort to refresh "Guidelines for Considering Operations and Management in IETF Specifications". The effort is heading to require a new section "Operations and Manageability Considerations" section in all I-Ds.
+  - Purpose: Share plan & status update of the ongoing effort to refresh "Guidelines for Considering Operations and Management in IETF Specifications". The effort is heading to recommend a new section "Operations and Manageability Considerations" section in all I-Ds targetting IETF Stream (PS track, mainly).
   - Materials:
     + [draft-opsarea-rfc5706bis](https://ietf-opsawg-wg.github.io/draft-opsarea-rfc5706bis/draft-opsarea-rfc5706bis.html)
 
