@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-15T18:05:32.468Z
+date: 2025-06-15T18:37:29.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -90,7 +90,7 @@ Banff Room, 29th floor
 
 #### 11:00-12:00: Invited Technical Talk
 
-- "Online Harrassment" — *Zakir Durumeric*
+- "Online Harassment" — *Zakir Durumeric*
 
 #### 12:00-13:00: Lunch
 
