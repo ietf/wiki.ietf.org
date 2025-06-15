@@ -2,7 +2,7 @@
 title: Summary of RPL artifact compression approaches
 description: 
 published: true
-date: 2025-03-31T18:55:20.212Z
+date: 2025-06-04T12:37:57.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:51:11.275Z

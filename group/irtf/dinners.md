@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2025-02-19T17:19:57.061Z
+date: 2025-05-27T15:11:36.913Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -11,6 +11,12 @@ dateCreated: 2023-02-27T16:52:39.142Z
 # IRSG Dinners 
 
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
+
+* IETF 123 Madrid
+	* Doodle poll for attendance:
+  TBD
+  * Wednesday, 23 July, after the plenary
+  * Venue: TBD
 
 * IETF 122 Bangkok
   * Doodle poll for attendance: 

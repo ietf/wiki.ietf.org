@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-04-17T22:29:10.667Z
+date: 2025-06-10T13:18:42.461Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -58,6 +58,16 @@ dateCreated: 2022-07-23T19:21:39.664Z
 - Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
 - [IESG Statements](https://datatracker.ietf.org/group/iesg/statements/)
 
+## Policies, Procedures and Practices
+
+* For Meetings
+  * [Standing Meetings](/group/iesg/StandingMeetings) (i.e., formal and informal telechat; and during the plenary meeting)
+  * [BOF Coordination Meetings](/group/iesg/bof-coordination-meetings)
+* For Document Balloting
+  * [Balloting](https://datatracker.ietf.org/doc/statement-iesg-ballot-procedures-for-documents/) + [Balloting FAQ](/group/iesg/balloting-faq)
+  * [DISCUSS Criteria](https://datatracker.ietf.org/doc/statement-iesg-discuss-criteria-in-iesg-review-20140507/)
+* [IETF Chair Fee Waiver](/group/iesg/ietf-chair-fee-waiver)
+
 
 ## Getting Started as an AD
 - An IESG Charter, RFC 3710 (2004)
@@ -67,10 +77,6 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 [Reference for All ADs](/group/iesg/newADinfo) on subjects such as basic AD responsibilities, using the datatracker, the document ballot process, and much more.
 
 [IESG Onboarding and Review](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing) slide deck, put together by the Secretariat
-
-[Standing Meetings](/group/iesg/StandingMeetings)
-
-[BOF Coordination Meeting](/group/iesg/bof-coordination-meetings)
 
 ## Useful Mailing Lists or Addresses
 | Email Address or Alias  |	Recipient |
@@ -89,8 +95,6 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 The IESG has a [private Wiki Site](https://iesg.privatewikis.ietf.org/en/home).
 
 The IETF Chair has a demanding [Chair Timeline](/group/iesg/chairtimeline) to plan IETF meetings.
-
-[IETF Chair Fee Waiver Program](/group/iesg/ietf-chair-fee-waiver)
 
 Wiki page for [Handling Changes When ID is in Queue](/group/iesg/handlingchanges), [Legacy Errata Handling](/group/iesg/legacyerrata), [Speaking for IETF](/group/iesg/speakingforietf), [Dealing with Private Feedback in IETF Process](/group/iesg/privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](/group/iesg/ensuringappropriatediscussion).
 

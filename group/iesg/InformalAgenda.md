@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-05-19T20:19:05.104Z
+date: 2025-06-12T20:17:49.163Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 29, 2025
+# Informal Telechat - July 3, 2025
 
 There **WILL NOT** be a meeting on this date.
 
@@ -29,6 +29,8 @@ Meeting password: 12345
 
 ## Regrets
 
+
+
 ## Agenda
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items in the appropriate sections below.
@@ -42,21 +44,26 @@ Note that this page is public.
 ### Document Discussions
 
 
+
 ### Management Issues
+
 
 
 ### WG News 
 
 ### Documents to Swap 
 
+### Executive Sessions
+
 
 
 ### AOB
 
-### Executive Sessions
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
+
+
 
 
 ### Topics Deferred Till Next Informal 

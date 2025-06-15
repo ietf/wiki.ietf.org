@@ -2,7 +2,7 @@
 title: ARPA DNS Zone
 description: 
 published: true
-date: 2023-12-05T17:35:03.697Z
+date: 2025-06-04T04:53:11.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:34:58.648Z
@@ -16,7 +16,7 @@ The IAB is responsible for the contents of the .arpa DNS TLD [see RFC 3172].
 
 ## Approving ARPA change requests 
 
-Proposed hanges to the .arpa zone will be received by IANA and the IAB will be notified to approve of changes.  An IAB member will be selected each year to handle approval requests from IANA.  The responsible IAB member will need to approve or handle the request in coordination with the larger IAB.  For some, it is trivial (updated IP addresses, etc.) and the approver can just say yes.  If the approver doesn't think it is trivial, it would go to the full IAB for discussion or a vote.
+Proposed changes to the .arpa zone will be received by IANA and the IAB will be notified to approve of changes.  An IAB member will be selected each year to handle approval requests from IANA.  The responsible IAB member will need to approve or handle the request in coordination with the larger IAB.  For some, it is trivial (updated IP addresses, etc.) and the approver can just say yes.  If the approver doesn't think it is trivial, it would go to the full IAB for discussion or a vote.
 
 ## Guidance for authors writing IANA considerations sections 
 

@@ -2,7 +2,7 @@
 title: Crypto Forum Research Group Process
 description: Overview of CFRG process and best practices
 published: true
-date: 2025-03-25T13:40:29.550Z
+date: 2025-06-04T10:20:39.949Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-28T23:01:58.095Z
@@ -17,7 +17,7 @@ dateCreated: 2022-12-28T23:01:58.095Z
 - [Research Group Last Call (RGLC)](#research-group-last-call)
 - [CFRG Document Publishing Process](#cfrg-document-publishing-process)
 - [Guidelines and Expectations](#guidelines-and-expectations)
-	- [Editor/Author Guidelines and Expectations](#editor-author-guidelines-and-expectations)
+	- [Editor/Author Guidelines and Expectations](#editor-author-guidelines-and-expectations)[SecurityConsiderations](/group/oauth/SecurityConsiderations)
 	- [Contributor Expectations](#contributor-expectations)
 	- [Expert Reviewer Expectations](#expert-reviewer-expectations)
 	- [General Public Expectations](#general-public-expectations)

@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-05-20T09:26:58.074Z
+date: 2025-06-13T18:18:28.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -191,8 +191,219 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Project Info**
 PQC in open source software. 
 
+---
+
+### CODECO - Benchmarking with network-compute metrics and energy-awareness across Edge-Cloud
+
+- **Challenge 1: Green network observability and reporting**
+This challenge explores energy-awareness observability and reporting that may suit telco-cloud resource management. The challenge relies on approaches and code under development in the context of the Horizon Europe project [CODECO](https://he-codeco.eu/), and also relates with a new informational draft being proposed to [IETF GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/).  
+The main goal of this challenge is to consider enhancements to CODECO (as a relevant example of an edge-cloud orchestrator that provides a data-compute-network approach) in terms of monitoring and exporting metrics aligned with GREEN principles e.g., CO2 network footprinting, green workload percentage. 
+The reporting will be provided to Prometheus and eventually to SDN; alignment to YANG will be considered. 
+
+	- **Champions**
+		Rute C. Sofia (sofia@fortiss.org)
+		Dalal Ali (ali@fortiss.org)
+		Kaikang Huang (khuang@fortiss.org)
+    
+	- **Related WG**
+		[GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/) - Getting Ready for Energy-Efficient Networking
+ 
+ 	- **Specifications**
+		draft-sofia-ietf-green-energy-aware-diffserv 
+
+ 	- **Repositories**
+		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/acm](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/acm) - CODECO
+		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/privacy-preserving-decentralised-learning-and-context-awareness-pdlc/pdlc-ca](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/privacy-preserving-decentralised-learning-and-context-awareness-pdlc/pdlc-ca) - PDLC-CA
+
+- **Challenge 2: Joint exposure of compute and network metrics for path selection**
+	This enhancement to the CODECO framework introduces CATS-aligned path selection capabilities by leveraging [CODECO](https://he-codeco.eu/)’s existing compute and network observability. The goal is to support computing-aware traffic steering across the Edge-Cloud continuum, in line with the architectural direction of IETF CATS. 
+  CODECO collects real-time infrastructure metrics -such as CPU , memory usage, latency, and network congestion— from its ACM and NetMA components and aggregates them via the PDLC-CA module into node and cluster scores. These scores are then used to inform microservice placement and potential workload redirection decisions, consistent with CATS principles. 
+  The aim is to adapt the current approach to provide scores from PDLC and PDLC-CA to NetMA which may assist in Path ranking and selection based on dynamic network latency and congestion data. 
+  This design supports the CATS use case of service instance selection and path steering based on combined compute and network metrics, helping optimize service experience in distributed, heterogeneous edge environments. 
+	- **Champions**
+		Luis Contreras (luismiguel.contrerasmurillo@telefonica.com)
+		Alberto del Río (arp@gatv.ssr.upm.es)
+   	Dalal Ali (ali@fortiss.org)
+	- **Related WG**
+	 [CATS](https://datatracker.ietf.org/wg/cats/about/) - Computing-Aware Traffic Steering 
+ 	- **Specifications - Drafts**
+		[draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
+ 	- **Repository**
+		TBA
+
+- **Challenge 3: Benchmarking Network-aware Edge-Cloud Orchestration with CODEF**
+	In alignment with the IETF BMWG's current focus on extending benchmarking methodologies to containerized and cloud-native environments, this initiative proposes the use of the [CODECO](https://he-codeco.eu/) CODEF —an open-source, microservice-driven software-based testbed framework— to evaluate the performance and scalability of edge-cloud orchestration across heterogeneous infrastructures. 
+  CODEF supports comprehensive benchmarking of native and customized Kubernetes (K8s)-SDN distributions, container networking interfaces (CNIs), and orchestration components under realistic workload conditions. 
+  This work directly supports BMWG's objective of providing standardized, reusable methodologies for benchmarking the performance of virtualized and containerized networking solutions in modern, distributed infrastructures. 
+  - **Objective**: 
+Use the open-source CODEF framework to benchmark and compare the performance of various Container Network Interface (CNI) plugins, including L2S-M, within containerized edge-cloud environments.  
+
+  - **Champions**
+		George Koukis (george.koukis@athenarc.gr)
+		Tina Samizadeh (samizadeh@fortiss.org)
+		Alex Tjaarda (abuning@pa.uc3m.es)
+  - **Related WG**
+	 [BMWG](https://datatracker.ietf.org/group/bmwg/about/) - Benchmarking Methodology 
+  - **Specifications**
+		Draft being proposed - [https://github.com/rute19104/ietf-bmwg-draft-2025-1](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
+   - **Repository**
+		CODEF can be downloaded [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
+- **CODECO Background**
+	[CODECO Project Repository in GITLAB](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
+	CODECO is an open source project. The code developed will be open source under the project and IETF rules.
+ 
+---
+
+### Identity Crisis in Attested TLS for Confidential Computing
+- **Champions**
+
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+
+- **Project Info**
+
+  - 3 main ways to combine attestation in TLS:
+    - Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol))
+    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Post-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-exported-attestation/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+  - **Hackathon plan**
+  	- Discuss the nits of [identity crisis](https://mailarchive.ietf.org/arch/msg/tls/Jx_yPoYWMIKaqXmPsytKZBDq23o/)
+    - Discuss possible solutions
+    - Discuss open issues
+	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
+		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
+  - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+
+- **Background on Attestation**
+
+	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
+  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
+
+- **Background on Attested TLS**
+
+	- [Tutorial slides](https://www.researchgate.net/publication/390121641_Presentation_Attested_TLS_Fundamentals) from side meeting of IETF 122 
+	- RATS [slides](https://datatracker.ietf.org/meeting/interim-2025-rats-01/materials/slides-interim-2025-rats-01-sessa-identity-crisis-in-attested-tls-for-confidential-computing-01.pdf) and [video](https://youtu.be/Vd_gL4YUGkI?t=2942) at Interim meeting
+	- TLS [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-tls-identity-crisis-00) and [video](https://youtu.be/bQ-Bz60AppI?t=6353) at IETF 122
+	- WIMSE [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-wimse-identity-crisis-00) and [video](https://youtu.be/7FUaIYiGzQs?t=4533) at IETF 122
+ 	- UFMRG [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-ufmrg-specifications-of-attested-tls-00) and [video](https://youtu.be/FOiuDqhqLJY?t=912) at IETF 121
+  - Further slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
+  - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
+
+----
+
+### Identifier Locator Network Protocol (ILNP)
+
+- **Champions**
+  - Saleem Bhatti saleem@st-andrews.ac.uk
+  - Rodney Grimes rgrimes@freebsd.org
+  - Alistair Woodman awoodman@netdef.org
+
+- **Project Info**
+  - https://ilnp.cs.st-andrews.ac.uk
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
+
+----
+
+### Mira: scalable multi-gateway TSCH networking over BLE
+
+- **Champions**:
+  Geovane Fedrecheski, geovane.fedrecheski@inria.fr
+
+- **Project Info**
+
+Mira (Micro-robot Interconnect Radio Architecture) is a lightweight, open-source protocol stack that brings multi-gateway Time Slotted Channel Hopping (TSCH) to Bluetooth Low Energy (BLE) radios, with support for node-initiated roaming. Mira is a completely new link layer that replaces the BLE controller and host software. Built to support large-scale robot swarms and dense IoT deployments, Mira enables fast handovers, predictable latency, and efficient over-the-air updates.
+
+BLE alone does not scale beyond 5–20 concurrent connections (depending on the stack), Wi-Fi supports more nodes but suffers from collisions and higher power draw, and 6TiSCH offers deterministic communication but lacks native roaming support.
+
+Mira fills this gap by:
+- Implementing TSCH directly over the BLE PHY (bypassing the BLE controller and host stack)
+- Supporting seamless roaming across multiple gateways without requiring coordination
+- Running on widely available hardware (e.g., nRF52840)
+- Enabling fast Over-The-Air Programming (OTAP) and dense deployments (100+ nodes)
+
+While Thread and BLE Mesh are designed for static home automation using IPv6 over 6LoWPAN or flooding protocols, Mira targets mobile and high-density scenarios—such as robot swarms—where real-time communication, bounded latency, and remote firmware updates are crucial.
+
+At the IETF 123 Hackathon, we aim to:
+- Demonstrate a live Mira deployment, including multi-gateway roaming
+- Explore how Mira (as a link-layer protocol) can interoperate with upper-layer IETF technologies, including 6LoWPAN, UDP, and CoAP
+- Specify/implement a secure association for Mira using IETF technologies such as EDHOC and ELA
+
+We welcome collaboration with anyone working on:
+- Low-power networking
+- CoAP over BLE or lightweight embedded stacks
+- Mobility extensions to 6TiSCH or RPL
+- Robotics, swarm testbeds, or dense IoT deployments
+
+----
+
+### Validate Configured Subscription YANG-Push Publisher Implementations
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Holger Keller (holger.keller @ telekom.de)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Benoit Claise (benoit.claise @ huawei.com)
+Haomian Zheng  (zhenghaomian @ huawei.com)
+Qiufang Ma (maqiufang1 @ huawei.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Samuel Gauthier (samuel.gauthier @ 6wind.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-message-broker-telemetry-message
+
+- **Project Info**
+https://www.network-analytics.org/yp/
+Validate and verify 4 YANG-Push publisher and 1 YANG-Push receiver implementation in the area of:
+
+- *Subscription automation*
+Discover YANG-Push systems and notifications capabilities and configure periodical and on-change subscriptions with netconf.
+- *Notification integration*
+Validate subscription state change and push-update and push-change-update notifications against schema with yanglint
+Validate draft-netana-nmop-message-broker-telemetry-message in message broker for draft-ietf-nmop-yang-message-broker-integration integration
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/123/Hackathon
+https://github.com/NetGauze/NetGauze/pull/213
+
+---
+
+### GREEN framework and Use Cases 
+
+- **Champion(s)**
+Luis Miguel Contreras
+Marisol Palmero
+Jan Lindblad
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
+https://datatracker.ietf.org/doc/draft-belmq-green-framework/
+
+- **Project Info**
+Validate GREEN Framework to cover different use cases listed in the GREEN use cases draft:
+* device/component energy consumption report with information collected directly from the device or PDU connected.
+* End-to-End use case, video streaming.
+* API integration to cover multi/inter domain.
+
+- **Repository**
+TBC
+
+---
+
+
 ```
 ----
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 

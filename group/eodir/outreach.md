@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-03-26T07:27:12.449Z
+date: 2025-06-10T13:23:51.038Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,11 +50,12 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|March 2-25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv |
+|May 2025|[INNOG](https://innog.net/)|Operators, Regulators, Govt|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1rN1No1Md2OQbuqexnY0Z_PNN9YUCYOsCsKmwRVNy9rA/edit?usp=sharing)| 
+|March 2O25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv |Also repeated the event in Tajikistan|
 |March 2025|[RADIUS Conference](https://radiusconference.org)|Operators | Participants | Alan DeKok | [Slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-radext-radius-conference-report-00)
 |March 2025|[TIOF](https://docs.theiofoundation.org/activities/current-season/season-2025/03-march/tiof-training-bytes-2025-03)|Regional, Students|Participants|Jean||
 |March 2025|[Connections2025](https://connections.iiesoc.in/)|Regional|Participants|Dhruv,Ketan|[Slides](https://www.connections.iiesoc.in/abstract)|
-|Feb 2025|[Apricot2025](https://2025.apricot.net/programme/programme#/day/7/panel-enhancing-apac-regional-and-operator-engagement-in-the-ietf/)|Operators|Participants|Dhruv,Gunter,Zahed,Mohit|[Video](https://www.youtube.com/live/-tSkj-hWn2g?si=0MnyKBm_Vy6noX_3&t=188)[Slides](https://2025.apricot.net/assets/files/APAC945/enhancing-apac-regio_1740553545.pdf)|
+|Feb 2025|[Apricot2025](https://2025.apricot.net/programme/programme#/day/7/panel-enhancing-apac-regional-and-operator-engagement-in-the-ietf/)|Operators|Participants|Dhruv,Gunter,Zahed,Mohit|[Video](https://www.youtube.com/live/-tSkj-hWn2g?si=0MnyKBm_Vy6noX_3&t=188) & [Slides](https://2025.apricot.net/assets/files/APAC945/enhancing-apac-regio_1740553545.pdf)|
 |Feb 2025;Oct-Nov 2024|[NANOG92](https://nanog.org/events/nanog-92/agenda/); [RIPE89](https://ripe89.ripe.net/archives/); [LACNIC42](https://lacnic42.lacnic.net/en/programme/presentations-and-videos) [AutoCon2](https://networkautomation.forum/autocon2) [Apricot2025](https://2025.apricot.net/programme/programme#/day/8/network-management--monitoring/)|Network Operators|Participants|IAB NEMOPS Workshop PC|[NANOG92](https://storage.googleapis.com/site-media-prod/meetings/NANOG92/5018/20241021_Watsen_Iab_Pre-Event_On_v1.pdf); [RIPE89](https://ripe89.ripe.net/archives/video/1417/); [LACNIC42](https://lacnic42.lacnic.net/en/programme/presentations-and-videos) [APRICOT2025](https://2025.apricot.net/assets/files/APAC945/iabnemopsworkshopapr_1740549807.pdf)| 
 |Jan 2025|NetMission|Students|Knowledge sharing|Dhruv|[Slides](https://docs.google.com/presentation/d/1Snfw5s66fqjtqxckkxWYW8dx3o17_69cheFns34Esqs/edit?usp=sharing)|
 |Dec 2024|[India IGF](https://indiaigf.in/)|Internet Governance|knowledge sharing| Dhruv, Suresh| Part of panel discussion on multi stakeholderism and e-impact|
