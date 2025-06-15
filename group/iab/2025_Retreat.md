@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-13T22:01:08.263Z
+date: 2025-06-15T18:05:32.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -30,6 +30,7 @@ Banff Room, 29th floor
 #### 09:00-10:30: Events & Outreach
 
 - Review plans and material for IGF and WSIS — *Roman/Dhruv/Mirja/Mark*
+	- [Slide](https://docs.google.com/presentation/d/1zX8BarH0zm_NzNr0QPk0en0i2zt_F_MatY9z8l7Sjx8/edit?usp=sharing)
 - Outreach Planning — *Dhruv* 
 	- [Slide](https://docs.google.com/presentation/d/1mHATG1bplUOCj3cbvwa6ygSnyj_r8iFFigCLb0bKqTU/edit?usp=sharing) 
   - [Miro-Board](https://miro.com/app/board/uXjVNiPwtfs=/)
