@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-15T18:37:29.950Z
+date: 2025-06-16T02:28:00.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -62,6 +62,11 @@ Banff Room, 29th floor
 
 #### 15:30-17:30: Formal Board Meeting
 
+- Minutes Approved
+  - 2025-03-20 business meeting - (submitted 2025-04-14)
+        OK from: Tommy, Dhruv
+  - 2025-04-16 business meeting - (submitted 2025-04-17)
+        OK from: Dhruv
 - Accept and Discuss Reports
 	- IESG liaison report — [(issue)](https://github.com/intarchboard/responsibilities/issues/31#issuecomment-2962221578) *Matthew*
   - IRTF report — *Dirk*
