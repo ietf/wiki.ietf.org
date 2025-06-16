@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-16T06:48:28.268Z
+date: 2025-06-16T07:21:11.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -406,6 +406,9 @@ https://github.com/NetGauze/NetGauze/pull/213
 Luis Miguel Contreras
 Marisol Palmero
 Jan Lindblad
+Emile Stephan
+Benoit Claise
+Qin Wu
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
