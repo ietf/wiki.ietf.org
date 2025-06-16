@@ -73,10 +73,22 @@ typically follow this process to initiate a vote:
   request a few days to review available information before voting.
 
 
-- Absent that, if the vote has enough affirmative votes that it would pass if all
-  remaining votes were dissents, and at least 7 days have elapsed since the
-  vote was announced, then the chair can decide to declare the vote closed and
-  successful. This avoids deadlock if a voting member is unable or unwilling to vote.
+- If a vote has not received all votes, but has enough affirmative votes that
+  it would pass if all remaining votes were dissents, and at least 7 days have
+  elapsed since the vote was started, then the chair can decide to declare the
+  vote closed and successful. This avoids deadlock if a voting member is unable
+  or unwilling to vote.
+  
+- If a vote has not received all votes, but has at least 7 affirmative votes and no
+  more than 2 dissenting votes, and at least 7 days have elapsed since the vote
+  was started, and the vote has also been discussed as part of a teleconference
+  or meeting in which the vote on the agenda at least a week in advance, then
+  the chair can decide to declare the vote closed and successful.
+  
+- If a vote has not received all votes, and neither of the above scenarios are met,
+  the vote remains open. This means that when a certain number of voting members
+  do not respond, the end of the vote will be deferred. This can be used as a
+  mechanism to allow for more discussion.
 
 ## Alternative Process
 
