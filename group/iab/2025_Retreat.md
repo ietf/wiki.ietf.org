@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T02:28:00.798Z
+date: 2025-06-16T02:28:14.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -62,7 +62,7 @@ Banff Room, 29th floor
 
 #### 15:30-17:30: Formal Board Meeting
 
-- Minutes Approved
+- Minutes Approval
   - 2025-03-20 business meeting - (submitted 2025-04-14)
         OK from: Tommy, Dhruv
   - 2025-04-16 business meeting - (submitted 2025-04-17)
