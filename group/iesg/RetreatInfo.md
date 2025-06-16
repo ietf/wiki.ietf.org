@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-14T08:48:07.710Z
+date: 2025-06-16T17:02:45.177Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -76,8 +76,8 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Purpose: Working Groups that only have interim meetings are discouraged. Does the IESG need to change its guidance on this?
   - Materials: [slides](https://docs.google.com/presentation/d/1BE9cIY5Jvz3oHMR2MzoMGkbeiTB1Qx3ZSIPMdiY4168/edit?usp=sharing)
 * IPR disclosure at WG adoption/LC (Ketan)
-  - Purpose: Many WGs poll for IPR disclosures before/during WG adoption and WGLC. What is the view of the IESG on this? If in favor of formalizing, do we (a) do as part of procon (formal) or (b) as an IESG statement with recommendation (informal)
-  - Materials: XX
+  - Purpose: Many WG chairs poll for IPR disclosures before/during WG adoption and WGLC (along lines of RFC 6702 which is informational and referenced by RFC8179). However, this is not covered by the current BCPs i.e., there is no specific requirement to respond to the poll and RFC RFC8179 does not talk about any IPR polls. RFC 6701 (sanctions for IPR process violations) is informational and not referenced in RFC8179. What is the view of the IESG on this? If in favor of formalizing, do we (a) do as part of procon (formal) or (b) as an IESG statement with recommendation (informal) or (c) WG Chairs training/recommendation, or (d) do nothing ?
+  - Materials: none
 
 ### Thursday, June 19 (IESG only)
 
@@ -88,8 +88,8 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 #### 0945 - 1100 -- Balloting Related Topics
 (timebox all of these together)
 * DISCUSS criteria for experimental and informational document (Ketan) 
-  - Purpose: Discussion to get a sense of the IESG - Is it OK to approve an informational/experimental document where there are more ABSTAIN positions than YES/NO-OBJ (just as an example) ?
-  - Materials: XX
+  - Purpose: Do we need to change the IESG balloting procedures for Informational/Experimental document? i.e. Can we say that an informational/experimental is not approved unless it has more Yes/NoObj ballots as opposed to Abstains (in addition to there being at least one Yes and no Discuss)?
+  - Materials: none
 
 * Classification for ballot COMMENTs (Ketan)
   - Purpose: Are all comments in COMMENT section equal for all ADs and OK to be ignored? If no, how can an AD indicate the importance of specific comments to the responsible AD (and authors as well)?
