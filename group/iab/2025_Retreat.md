@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T02:28:14.211Z
+date: 2025-06-16T03:48:30.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -55,8 +55,8 @@ Banff Room, 29th floor
 
 #### 14:00-15:00: Process Discussions
 
-- Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95) — *Tommy*
-- Appointment Process [(issue)](https://github.com/intarchboard/responsibilities/issues/57) — *Tommy*
+- Decision / Voting Process [(issue)](https://github.com/intarchboard/responsibilities/issues/2) [(PR)](https://github.com/ietf/wiki.ietf.org/pull/95) [(slides)](https://github.com/intarchboard/retreats/blob/main/2025-06/Monday/IAB%20Decision%20Process.pdf) — *Tommy*
+- Appointment Process [(issue)](https://github.com/intarchboard/responsibilities/issues/57) [(slides)](https://github.com/intarchboard/retreats/blob/main/2025-06/Monday/IAB%20Appointment%20Process.pdf) — *Tommy*
 
 #### 15:00-15:30: Break
 
