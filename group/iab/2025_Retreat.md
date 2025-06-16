@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T18:46:46.044Z
+date: 2025-06-16T19:32:46.577Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -78,8 +78,8 @@ Banff Room, 29th floor
 - Executive session
 	- CCG appointment
 	- RZERC appointment
+  - Appeal responses
   - Signing onto "Eight Practical Recommendations for WSIS Review" [(issue)](https://github.com/intarchboard/ISOC-coord-board/issues/13)
-  - Decision process (depending on earlier discussion)
 
 ### Tuesday, 17 June 2025 (AM IAB Only, PM Joint IAB/IESG)
 
