@@ -69,8 +69,8 @@ begin without delay if necessary. In such cases, discussion happens in parallel
 with voting.
 
 - The chair or a delegate (such as a secretariat member) will formally start a vote
-by emailing the list or as part of a teleconference or meeting. For votes that start in
-a teleconference or meeting that do not record all votes, the vote will also be sent
+by emailing the list or as part of a teleconference or meeting. When a vote starts in
+a teleconference or meeting but does not record all members' positions, the vote will also be sent
 to the email list.
 
 - Discussion and votes will continue on the voting members list, and during any
