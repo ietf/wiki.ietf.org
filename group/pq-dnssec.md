@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-05-28T08:39:05.943Z
+date: 2025-06-16T09:09:56.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -21,7 +21,7 @@ Meeting notes are available [here].
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides])
 - 15'+q Elmer Lastdrager (SIDN Labs): Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators ([Slides])
-- ...
+- 15'+q Swapneel Sheth (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
 - AOB
 
 # IETF 122 Side Meeting
