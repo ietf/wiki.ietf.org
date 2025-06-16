@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T03:51:17.229Z
+date: 2025-06-16T03:53:04.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -51,7 +51,7 @@ Banff Room, 29th floor
 
 #### 13:00-14:00: Liaison Coordination
 
-- Open Topics [(slides)](https://docs.google.com/presentation/d/1CeXbCROct4Dn2n7r8bz0hGd6M3wpFHFSRWcOnnySmK8/edit?usp=sharing) — *Suresh/Mirja/Qin*
+- Updates [(slides)](https://docs.google.com/presentation/d/1CeXbCROct4Dn2n7r8bz0hGd6M3wpFHFSRWcOnnySmK8/edit?usp=sharing) — *Suresh/Mirja/Qin*
 
 #### 14:00-15:00: Process Discussions
 
