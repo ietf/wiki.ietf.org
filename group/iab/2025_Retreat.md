@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T03:53:04.047Z
+date: 2025-06-16T15:01:46.390Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -114,6 +114,10 @@ Banff Room, 29th floor
 #### 15:30-16:30: Age Verification Workshop
 
 - Age Verification Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/38) — *Mark*
+
+#### 16:30-17:00: BitSquatting... the infinite monkeys theorem...
+
+- Lightning talk from ICANN SSAC — *Warren*
 
 #### Evening: Joint Dinner
 
