@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-16T17:02:45.177Z
+date: 2025-06-16T17:04:49.469Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -160,7 +160,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 | Name          | Arrival    | Departure  | Dinner  | Hotel |
 | :---          |   :----:   |    :----:  | :----:  |:----: |
 | Éric Vyncke | Mon 16th 15:10 TP567 | Thu 19th 23:50 TP262 | Yes | Westin Harbour Castle |
-|       |  |  |      | |
+| Ketan Talaulikar | Mon 16th 10:30 | Fri 20th 09:00  | Yes | Westin Harbour Castle |
 | Mahesh Jethanandani | Tue 17th 18:10 | Thu 19th 23:50  | Yes | Westin Harbour Castle |
 |       |  |  |      | |
  Deb Cooley | Sunday, 15 June, afternoon | Sat 21 June  | Yes | Hilton Toronto 
