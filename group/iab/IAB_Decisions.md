@@ -72,12 +72,6 @@ typically follow this process to initiate a vote:
   every voice can be heard. Note that it is reasonable for any voting member to
   request a few days to review available information before voting.
 
-- At the chair's option, a vote can be held open until there is an opportunity
-  to discuss it in the next meeting. Likewise, if more than two voting members
-  request discussion in the next meeting, the vote will remain open until that
-  discussion takes place. Here, 'next meeting' is the next regularly scheduled
-  meeting more than 48 hours after the first request is received, or in the
-  case of an irregularly scheduled meeting, 7 days after that time.
 
 - Absent that, if the vote has enough affirmative votes that it would pass if all
   remaining votes were dissents, and at least 7 days have elapsed since the
