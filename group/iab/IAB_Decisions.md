@@ -82,19 +82,21 @@ to the email list.
   request a few days to review available information before voting.
 
 
-- If a vote has not received all votes, but has enough affirmative votes that
-  it would pass if all remaining votes were dissents, and at least 7 days have
+While any voting member(s) do not have a position recorded, the result will be determined as follows:
+
+- If there are enough affirmative votes that
+  the question would pass if all remaining positions were dissents and at least 7 days have
   elapsed since the vote was started, then the chair can decide to declare the
   vote closed and successful. This avoids deadlock if a voting member is unable
   or unwilling to vote.
   
-- If a vote has not received all votes, but has at least 7 affirmative votes and no
-  more than 2 dissenting votes, and at least 7 days have elapsed since the vote
-  was started, and the vote has also been discussed as part of a teleconference
-  or meeting in which the vote on the agenda at least a week in advance, then
+- If there are at least 7 affirmative votes, no
+  more than 2 dissenting votes, at least 7 days have elapsed since the vote
+  was started, and the question has also been discussed as part of a teleconference
+  or meeting where the question was on the agenda at least a week in advance, then
   the chair can decide to declare the vote closed and successful.
   
-- If a vote has not received all votes, and neither of the above scenarios are met,
+- Otherwise,
   the vote remains open. This means that when a certain number of voting members
   do not respond, the end of the vote will be deferred. This can be used as a
   mechanism to allow for more discussion.
