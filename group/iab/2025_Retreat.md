@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T15:02:51.755Z
+date: 2025-06-16T15:34:32.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -143,6 +143,7 @@ Banff Room, 29th floor
 
 * Overflow for appeal responses
   - Purpose: Q/A by the IAB to the IESG to inform appeal responses
+  - How to put some form of backpressure on frivolous appeals
 
 Parking lot
 - 1. Breakout: overflow for appeal responses
