@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T19:32:46.577Z
+date: 2025-06-16T21:51:54.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -111,13 +111,14 @@ Banff Room, 29th floor
 
 #### 15:00-15:30: Break and Ice Break Event
 
-#### 15:30-16:30: Age Verification Workshop
+#### 15:30-16:00: BitSquatting... the infinite monkeys theorem...
+
+- Optional ligntning talk style if time permits — *Warren*
+
+#### 16:00-17:00: Age Verification Workshop
 
 - Age Verification Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/38) — *Mark*
 
-#### 16:30-17:00: BitSquatting... the infinite monkeys theorem...
-
-- Optional ligntning talk style if time permits — *Warren*
 
 #### Evening: Joint Dinner
 
