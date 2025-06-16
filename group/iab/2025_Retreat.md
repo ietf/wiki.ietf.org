@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T17:15:14.153Z
+date: 2025-06-16T18:46:46.044Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -83,15 +83,15 @@ Banff Room, 29th floor
 
 ### Tuesday, 17 June 2025 (AM IAB Only, PM Joint IAB/IESG)
 
-#### 09:00-10:00: IP Geolocation Workshop
+#### 09:00-09:45: Zero-Trust Networks
+
+- Architecture for Zero-Trust Networks (see notes from 2025-01-08)  — *Cullen*
+
+#### 09:45-10:45: IP Geolocation Workshop
 
 - IP Geolocation Workshop proposal [(issue)](https://github.com/intarchboard/responsibilities/issues/26) — *Jason/Warren/Jana/Tommy*
 
-#### 10:00-10:15: Break
-
-#### 10:15-10:45: Zero-Trust Networks
-
-- Architecture for Zero-Trust Networks (see notes from 2025-01-08)  — *Cullen*
+#### 10:45-11:00: Break
 
 #### 11:00-12:00: Invited Technical Talk
 
