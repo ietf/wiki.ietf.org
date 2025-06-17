@@ -2,13 +2,13 @@
 title: IETF LLC Comms
 description: An example page for testing various indicators that might be used to share group status.
 published: true
-date: 2025-06-17T18:44:40.845Z
+date: 2025-06-17T18:45:32.933Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T18:44:40.845Z
 ---
 
-> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards process.
+> This page is related to a concluded IETF Working Group and may not be current.
 {.is-warning}
 
 # About
