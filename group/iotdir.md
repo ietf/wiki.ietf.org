@@ -2,7 +2,7 @@
 title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2024-07-01T07:49:10.305Z
+date: 2025-06-18T07:52:40.391Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
@@ -118,6 +118,7 @@ Members have different areas of expertise.   These are listed here: [IotAreasOfE
 | Samita Chakrabarti |IP & Broadband,5G, Edge Cloud, IoT | Industrial, Telecom R&D | Interested in deploying IETF IoT protocols in Industrial Infrastructure|
 | Benoit Claise | Operations & Management | Industry | |
 | Subir Das | !ZigBee Mesh IP,  6lo, 802.11, 802.15, 802.21 and 5G |Industrial R&D |Interested in IoT networks and security |
+|Jacqueline McCall | |  | |
 | János Farkas | IIoT, DetNet co-chair, IEEE 802.1 TSN chair | Industrial, Telecom R&D |  |
 | Rahul Jadhav | LoWPAN, 802.11s, 6lo, Routing for LLNs, Simulation Frameworks, IoT Security | AMI networks, IoT security | Interests in light-weight routing, protocol compression, making it work in the last mile |
 | Toerless Eckert | co-chair ANIMA WG (infra automation, dev lifecycle, routing, discovery), contributor routing/multicast/MPLS, experience SP/industrial/transportation networks | Industry | Interested in Resilience, Research in network layer enhancements, breaking stuff & fixing breakages |
@@ -133,7 +134,6 @@ Members have different areas of expertise.   These are listed here: [IotAreasOfE
 | Ari Keränen | CoAP / CoRE technologies, data models, semantics, IoT Device Lifecycle Management; T2TRG co-chair | Industrial, Telecom R&D |  |
 | Matthias Kovatsch | Architecture, Application Layer, Implementation, CoAP, Industrial IoT | Industrial R&D | W3C Web of Things co-chair |
 | Jouni Korhonen | CoAP, IPv6, protocol design, security. Cat-M1/NB-IOT/5G. Specifically IoT for MNO's device management. | Industry (cellular IoT modules and chipsets) | |
-
 | Suresh Krishnan | ex-INTAREA AD | Telecom & Industrial R&D | |
 | Eliot Lear | Device identity, onbarding, and protection, device/network interface | Networking Products | |
 | Ted Lemon       | Thread, Service Discovery, 802.15.4 mesh, constrained-to-homenet autodiscovery | Constrained network infrastructure | |
