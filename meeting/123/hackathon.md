@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-16T07:21:11.014Z
+date: 2025-06-18T16:17:07.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -425,6 +425,27 @@ TBC
 
 ---
 
+### Model-Based IOT Gateway (ASDF/NIPC) 
+
+- **Champion(s)**
+Bart Brinckman (bbrinckm@cisco.com)
+Rohit Mohan (rohitmo@cisco.com)
+
+- **Draft Specifications**
+model registration: https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf/
+device onboarding: https://datatracker.ietf.org/doc/draft-ietf-scim-device-model/
+gateway: https://datatracker.ietf.org/doc/draft-ietf-asdf-nipc/
+
+- **Project Info**
+Provide the ability to interop with both a vendor implementation as well as an open source implementation of the drafts. 
+Furhter develop the open source implementation, python & java client libraries and sample applications
+Provide the ability to provide feedback on the drafts
+
+- **Repository**
+gateway draft, model examples, openapi: https://github.com/ietf-wg-asdf/asdf-nipc
+open source repo: https://github.com/iot-onboarding/tiedie
+
+---
 
 ```
 ----
