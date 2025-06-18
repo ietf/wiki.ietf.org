@@ -2,7 +2,7 @@
 title: IAB Retreat 2025
 description: 
 published: true
-date: 2025-06-16T21:51:54.784Z
+date: 2025-06-18T14:40:58.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-09T23:58:21.217Z
@@ -148,7 +148,7 @@ Banff Room, 29th floor
 
 Parking lot
 - 1. Breakout: overflow for appeal responses
-
+- 2. Discussion of JSON Structure and the history of JSON Schema, cross SDO collaboration (Orie + Mike)
 
  
 ## All Retreat Archives
