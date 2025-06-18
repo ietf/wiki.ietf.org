@@ -8,14 +8,15 @@ editor: markdown
 dateCreated: 2023-02-17T21:22:14.955Z
 ---
 
- To request a Last Call,
+To request a Last Call,
 
  -   Pull up the document in the Tracker
- -   Click "Prepare for Last Call"
- -   Make sure the version number in the Last Call Announcement Text is correct.
- -   Add the document's abstract to the announcement text
- -   Make other changes to the announcement text if necessary (see below)
- -   Use the "Request Last Call" button. 
+ -   Ensure there is an Intended Status set for the draft
+ -   Ensure that a Document Shepherd has been selected
+ -   Ensure that the Shepherd write-up exists and is reasonably thorough
+ -   Click the "Submit to IESG for publication" button
+ -   Review the information you are prompted to verify
+ -   Click the "Request Publication" button
 
 The secretariat will later send the announcement text to IETF-Announce, often on the next business day.
 
