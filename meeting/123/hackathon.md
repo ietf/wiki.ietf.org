@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-18T16:17:07.102Z
+date: 2025-06-18T16:31:48.402Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -446,7 +446,37 @@ gateway draft, model examples, openapi: https://github.com/ietf-wg-asdf/asdf-nip
 open source repo: https://github.com/iot-onboarding/tiedie
 
 ---
+----
+### <a id="IPv6TestPod"></a>MAPRG IPv6 Test Pod Happy Eyeballs and Open Testing
+- **Champions**
+David Plonka dave@plonka.us (MAPRG co-chair, WiscNet's Principal Research Scientist)
 
+- **Project Info**
+The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irtf.org/maprg.html)) and [WiscNet (AS2381)](https://wiscnet.net/) will provide an open testing environment for participants to determine how well equipment and applications work, including Happy Eyeballs, in a variety of IPv6 network environments.
+
+  To accomplish this, we will provide access to the IPv6 Test Pod (https://ipv6-pod.info/): a wireless and wired access point specially configured for testing IPv6 compatibility and graciously provided by [Internet2](https://internet2.edu/) and the [ARIN Community Grant program](https://www.arin.net/blog/2023/09/11/Congratulations-2023-ARIN-Community-GrantRecipients/#ipv6-test-pod).
+
+  > The IPv6 Test Pod provides a variety of IPv6 test networks via Wifi SSIDs and optionally over Wired Ethernet connections. All you have to do is provide a wired internet connection to the WAN interface (IPv4-only is OK), power, and it will provide a series of networks to test devices and software with:
+  >
+  > * Dual-Stack (IPv4 and IPv6)
+  > * IPv6-only
+  > * IPv6 only with NAT64+DNS64
+  > * IPv6-only with NAT64+PREF64
+  > * IPv6 only with NAT64+DNS64+PREF64
+
+  In addition to employing the IPv6 Test Pod, we'll do complementary testing with IPvFoo browser extension, the IETF network, etc.
+
+- **Open Call for Participants**
+  *Anyone* can drop by for ad hoc IPv6-compatibility testing of your wireless or wired user equipment, *e.g.,* smartphone, or application(s) of interest, web-based or otherwise.
+
+  Please join the project, and stay a while, if you are an IPv6 or transition mechanism aficionado, or simply want to learn more about using IPv6 in a live environment. We could use help with testing and identifying the root causes of problems found.
+
+- Background:
+  * [Heuristics and Algorithms to Prioritize Protocol deploYment (happy) Working Group](https://datatracker.ietf.org/group/happy/about/)
+  * [IPvFoo browser extension/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
+  * [Testing IPv6-only Networks (YouTube recording of NANOG presentation re: IPv6 Test Pod)](https://www.youtube.com/watch?v=0QCQVX9rZ6s)
+
+----
 ```
 ----
 
