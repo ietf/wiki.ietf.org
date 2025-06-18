@@ -2,15 +2,13 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-18T18:25:27.759Z
+date: 2025-06-18T18:26:30.879Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
 ---
 
-# Transport and Services Area (TSV) 
-
-Note: TSV is now one part of the IETF WIT AREA
+# Transport in the WIT Area 
 
 The WIT Area - includes what was previously called "transport area" or "TSV area" - covers a range of technical topics related to data transport in the Internet.
 The Area works on mechanisms related to end-to-end data transport to support Internet applications and services that exchange potentially large volumes of traffic at potentially high bandwidths. A key focus are mechanisms to detect and react to congestion in the Internet, such as the congestion control algorithms in Internet transport control protocols such as TCP, QUIC, SCTP, MPTCP, and DCCP.
