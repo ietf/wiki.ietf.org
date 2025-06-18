@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-18T17:57:58.994Z
+date: 2025-06-18T19:28:37.891Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -151,6 +151,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
   + There exists https://wiki.ietf.org/group/iesg/useofupdatestag as a starting point
 * Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 * YANG models in experimental/informational drafts (Mahesh)
+	- Material: https://docs.google.com/presentation/d/1vUTi-5EU2udrbb8CftQHbHPX1Vskpx6isN-BNEUFuCY/edit?usp=sharing
 * Responding to slide takedown request from June 13 - IESG should decide (All?) (This is Liz just reminding everyone of an outstanding action)
 * BCP 83 PR-Action Nullify Emails (Paul)		
 
