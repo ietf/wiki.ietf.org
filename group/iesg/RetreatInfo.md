@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-18T17:54:59.204Z
+date: 2025-06-18T17:57:58.994Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -107,6 +107,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
      + Standardization conclusions of [Report from the IAB Workshop on the Next Era of Network Management Operations (NEMOPS)](https://datatracker.ietf.org/doc/html/draft-iab-nemops-workshop-report-02#name-standardization-conclusions)
      + [YANG deVELpment PrOCEss & maintenance (VELOCE)](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
      + ["Internet-Draft with YANG Modules" Template Repository](https://github.com/IETF-OPS-AD/I-D-with-yang-template)
+     + [Slides: Non-PS documents with YANG models](https://docs.google.com/presentation/d/1nK_eetutkqgv3XSi-LXJeuCgoNFHp7KU/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true)
 
 * RFC5706 Refresh: Plan/Status Update of "Guidelines for Considering Operations and Management" (Med/Mahesh) (30 min)
   - Purpose: Share plan & status update of the ongoing effort to refresh "Guidelines for Considering Operations and Management in IETF Specifications". The effort is heading to recommend a new section "Operations and Manageability Considerations" section in all I-Ds targetting IETF Stream (PS track, mainly).
