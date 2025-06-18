@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-18T14:39:29.451Z
+date: 2025-06-18T17:54:59.204Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -55,7 +55,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 (15-min buffer in this slot)
 * Outdated IESG Statements (Paul) (45min)
   - Purpose: Review prior statements, identify statements that may no longer apply.  Define an approach to signal how statements no longer apply.
-  - Materials: XX
+  - Materials: https://drive.google.com/file/d/1sWAitjTsX4it8AraQ5YdVw_dlTb5G6BE/view?usp=sharing
 
 * Content management of the IETF wiki(s) (Deb, Ketan) (45min)
   - Purpose: To discuss and brainstorm processes and potential policies around content manage on the IETF wikis (e.g., uses by WGs, BOFs, others)
