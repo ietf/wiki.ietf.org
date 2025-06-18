@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-16T04:14:36.468Z
+date: 2025-06-18T18:29:01.560Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -275,6 +275,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ### OPS
 - [dnsdir *DNS Directorate*](/group/dnsdir)
+- [yang-doctors *YANG Doctors*](/group/yang-doctors)
 {.links-list}
 
 ### RTG
