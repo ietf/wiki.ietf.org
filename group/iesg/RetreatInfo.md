@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-18T14:32:34.663Z
+date: 2025-06-18T14:39:29.451Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -68,7 +68,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 
 * Side Meetings 1 (Secretariat, Jay) (30 min)
   - Purpose: Retrospective on side meeting year; proposal for future assessment
-  - Materials: XX 
+  - Materials: [slides](https://docs.google.com/presentation/d/1ZhydgE7K1FJgqzsTNYUc6GdVjKJG0qPEu8yBlTJp598/edit?slide=id.p#slide=id.p) 
 
 #### 1545 - 1600 -- Break
 
