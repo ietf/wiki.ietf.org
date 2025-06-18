@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-18T16:31:48.402Z
+date: 2025-06-18T16:34:14.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -447,7 +447,7 @@ open source repo: https://github.com/iot-onboarding/tiedie
 
 ---
 ----
-### <a id="IPv6TestPod"></a>MAPRG IPv6 Test Pod Happy Eyeballs and Open Testing
+### <a id="IPv6TestPod"></a>MAPRG Happy Eyeballs and IPv6 Test Pod Open Testing
 - **Champions**
 David Plonka dave@plonka.us (MAPRG co-chair, WiscNet's Principal Research Scientist)
 
