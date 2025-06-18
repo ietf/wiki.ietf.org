@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-18T09:14:08.372Z
+date: 2025-06-18T14:32:34.663Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -151,7 +151,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Recurring "side meeting" of IETF community engaged in routing open source projects (Ketan)
 * YANG models in experimental/informational drafts (Mahesh)
 * Responding to slide takedown request from June 13 - IESG should decide (All?) (This is Liz just reminding everyone of an outstanding action)
-		
+* BCP 83 PR-Action Nullify Emails (Paul)		
 
 #### Joint Topics
 * Team-building
