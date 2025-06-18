@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-17T18:28:59.754Z
+date: 2025-06-18T09:14:08.372Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -60,6 +60,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
 * Content management of the IETF wiki(s) (Deb, Ketan) (45min)
   - Purpose: To discuss and brainstorm processes and potential policies around content manage on the IETF wikis (e.g., uses by WGs, BOFs, others)
   - Materials: [discussion slides](https://docs.google.com/document/d/1wrL339-mhvUOF_NdreaaCYc4H-ZG06p948fm-e7e88g/edit?tab=t.0#heading=h.kpapkcsfhe39)
+ 	- supporting information: https://docs.google.com/document/d/1mwY5l_vtgNE_HbMpwYTUHJ8w5vUx48PZqnXJMQDogUk/edit?usp=sharing
 
 * Managing non-WG IETF mailing lists (Ketan, Deb) (15min)
   - Purpose: Management of non-WG mailing lists - some discussion points, and brainstorming for actions (if any)
