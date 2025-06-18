@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-18T18:29:01.560Z
+date: 2025-06-18T18:41:58.497Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -74,7 +74,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [quic *QUIC*](/group/quic)
 - [regext *Registration Protocols Extensions*](/group/regext)
 - [rift *Routing In Fat Trees*](/group/rift)
-- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
+- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat) (concluded)
 - [rats *Remote ATtestation proceedureS*](/group/rats)
 - [roll *Routing Over Low power and Lossy networks*](/group/roll)
 - [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
@@ -182,12 +182,13 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [tls *Transport Layer Security*](/group/tls)
 {.links-list}
 
-### TSV
+### WIT Area
 - [alto *Application-Layer Traffic Optimization*](/group/alto)
 - [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
 - [ippm *IP Performance Measurement*](/group/ippm)
 - [quic *QUIC*](/group/quic)
-- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
+- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat) (concluded)
+- [quic *QUIC*](/group/quic)
 
 {.links-list}
 
