@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-18T18:25:07.353Z
+date: 2025-06-18T18:25:27.759Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -27,9 +27,7 @@ The WIT area has a working group for transport protocols and specifications ([TS
 
 It is important to differentiate [TSVWG](https://datatracker.ietf.org/group/tsvwg/documents/), which is a document-producing working group, from WITAREA, which is the area-wide meeting that the transport area regularly holds during IETF meetings. WITAREA does not produce any documents, and its purpose is to expose new developments related to web and internet transport topics to the community.
 
-**These TSV working groups have their own wiki pages here:**
 
-- (none)
 ## Mailing List and Aliases
 The area-wide mailing list of the transport area is http://www.ietf.org/mailman/listinfo/tsv-area and the mailing list archive is at http://www.ietf.org/mail-archive/web/tsv-area/. Note that this is a relatively new list, and many participants still use the long-running [TSVWG mailing list](https://datatracker.ietf.org/group/tsvwg/documents/) for area-wide announcements and discussions. The ADs expect this to change over time.
 
