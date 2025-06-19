@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-18T18:41:58.497Z
+date: 2025-06-19T09:53:09.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -74,7 +74,6 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [quic *QUIC*](/group/quic)
 - [regext *Registration Protocols Extensions*](/group/regext)
 - [rift *Routing In Fat Trees*](/group/rift)
-- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat) (concluded)
 - [rats *Remote ATtestation proceedureS*](/group/rats)
 - [roll *Routing Over Low power and Lossy networks*](/group/roll)
 - [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
@@ -183,12 +182,10 @@ dateCreated: 2021-06-16T01:22:07.753Z
 {.links-list}
 
 ### WIT Area
-- [alto *Application-Layer Traffic Optimization*](/group/alto)
-- [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
-- [ippm *IP Performance Measurement*](/group/ippm)
+- [ccwg *Congestion Control*]
 - [quic *QUIC*](/group/quic)
-- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat) (concluded)
-- [quic *QUIC*](/group/quic)
+- [tcpm *TCP maintainance and Minor extensions*]
+- [tsvwg *Transport and Services Working Group*]
 
 {.links-list}
 
@@ -229,6 +226,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [precis *Preparation and Comparison of Internationalized Strings*](/group/precis)
 - [rai *Real-time Applications and Infrastructure Area*](/group/rai)
 - [repute *Reputation Services*](/group/repute)
+- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
 - [sacm *Security Automation and Continuous Monitoring*](/group/sacm)
 - [sidr *Secure Inter-Domain Routing*](/group/sidr)
 - [sieve *Sieve Mail Filtering Language*](/group/sieve)
