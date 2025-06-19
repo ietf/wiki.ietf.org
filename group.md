@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:45:03.054Z
+date: 2025-06-19T17:47:17.410Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
