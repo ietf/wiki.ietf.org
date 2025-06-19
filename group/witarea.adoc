@@ -12,8 +12,8 @@ Several other aliases offer convenient shortcuts to send email to various WIT Ar
 - wit-ads@… reaches the current area directors
 - wit-chairs@… reaches the current set of transport area WG chairs
 - tsv-art@… reaches the current set of transport area review team members
-- -chairs@… reaches the current chairs of the working group with abbreviation < WG >
-- -ads@… reaches the current ADs of the working group with abbreviation < WG >
+- < WG >-chairs@… reaches the current chairs of the working group with abbreviation < WG >
+- < WG >-ads@… reaches the current ADs of the working group with abbreviation < WG >
 
 ## Office Hours
 The WIT area directors try to schedule office hours during each IETF plenary meeting, which allow anyone to drop in to discuss relevant topics. The time and place are usually announced on http://www.ietf.org/mailman/listinfo/tsv-area before each meeting.
