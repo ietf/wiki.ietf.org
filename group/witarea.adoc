@@ -1,6 +1,4 @@
-== header
-
-# WIT Area
+== WIT Area
 
 The WIT area intersects most frequently with Internet area, the applications area, the ART area, the security area and several IRTF research groups. The WIT Area includes what was previously called the "transport area" or "TSV area" - covers a range of technical topics related to data transport in the Internet. 
 
