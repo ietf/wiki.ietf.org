@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-18T16:34:14.657Z
+date: 2025-06-19T19:05:44.073Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -475,6 +475,20 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   * [Heuristics and Algorithms to Prioritize Protocol deploYment (happy) Working Group](https://datatracker.ietf.org/group/happy/about/)
   * [IPvFoo browser extension/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
   * [Testing IPv6-only Networks (YouTube recording of NANOG presentation re: IPv6 Test Pod)](https://www.youtube.com/watch?v=0QCQVX9rZ6s)
+
+----
+### NTP Version 5
+
+- **Champions**
+Karen O'Donoghue (kodonog@pobox.com)
+Dieter Sibold (dsibold.ietf@gmail.com)
+- **Project Info**
+Interoperability testing between different NTPv5 implementations.
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
+- **Repositories**
+   - NTPD-RS: https://github.com/pendulum-project/ntpd-rs
+
 
 ----
 ```
