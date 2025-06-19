@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-06-18T20:05:13.797Z
+date: 2025-06-19T14:26:55.112Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -113,6 +113,8 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Purpose: Share plan & status update of the ongoing effort to refresh "Guidelines for Considering Operations and Management in IETF Specifications". The effort is heading to recommend a new section "Operations and Manageability Considerations" section in all I-Ds targetting IETF Stream (PS track, mainly).
   - Materials:
     + [draft-opsarea-rfc5706bis](https://ietf-opsawg-wg.github.io/draft-opsarea-rfc5706bis/draft-opsarea-rfc5706bis.html)
+    + [Slides: Guidelines for Considering Operations & Management in IETF Specifications](https://docs.google.com/presentation/d/1nrFklfkA9efX3FRp400LBcl2N8zNxS1o/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true)
+    + [Slides: YANG deVELpment PrOCEss & maintenance (VELOCE)](https://docs.google.com/presentation/d/1uKcMz5YqnJQR1ZM9RmbihUAohYa6Z8w4/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true))
 
 #### 1200 - 1315 -- Lunch
 
@@ -121,6 +123,7 @@ Morning - Combined IAB/IESG.  See See [IAB Retreat Agenda](https://wiki.ietf.org
   - Purpose: Given that [2% of all RFCs took ≤ 48hrs](https://datatracker.ietf.org/meeting/122/materials/slides-122-ietf-sessa-internet-engineering-steering-group-iesg-report-00), I plan to follow by default the IESG statement on the matter and exercise the AD right to approve the document. There might be valid cases when more time may be needed. Discuss feedback from other IESG members.
   - Materials: 
      + [IESG Statement on AUTH48 State](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-auth48-state-20060105/)
+     + [Slides: AUTH48 Matters](https://docs.google.com/presentation/d/1-qNeAu6mXr75T3JQuIPdACgyCDhlI85E/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true)
 
 * Discussion of JSON Structure and the history of JSON Schema, cross SDO collaboration (Orie + Mike)
   - Purpose: XXX
