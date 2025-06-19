@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:10:21.800Z
+date: 2025-06-19T17:10:41.981Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -129,8 +129,8 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [coinrg *Computing in the Network*](/group/coinrg)
 - [dinrg *Decentralized Internet Infrastructure*](/group/dinrg)
 - [gaia *Global Access to the Internet for All*](/group/gaia)
-- [icnrg *Information-Centric Networking*](/group/icnrg)
 - [iccrg *Internet Congestion Control RG*](/group/iccrg)
+- [icnrg *Information-Centric Networking*](/group/icnrg)
 - [maprg *Measurement and Analysis for Protocols*](/group/maprg)
 - [nmrg *Network Management*](/group/nmrg)
 - [nwcrg *Network Coding*](/group/nwcrg)
