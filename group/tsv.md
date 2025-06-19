@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T15:32:05.023Z
+date: 2025-06-19T15:32:26.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -27,7 +27,7 @@ The area-wide mailing list of the web and Internet transport area is http://www.
 Several other aliases offer convenient shortcuts to send email to various WIT Area people and community members:
 
 - wit-ads@… reaches the current area directors
-- wit-chairs@… reaches the current set of transport area WG chairs
+- wit-chairs@… reaches the current set of WIT WG chairs
 - tsv-art@… reaches the current set of transport area review team members
 - -chairs@… reaches the current chairs of the working group with abbreviation < WG >
 - -ads@… reaches the current ADs of the working group with abbreviation < WG >
