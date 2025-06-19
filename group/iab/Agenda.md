@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-06-19T16:00:48.939Z
+date: 2025-06-19T16:15:47.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -20,11 +20,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ***NOTE: This is a reserved meeting slot. If there are no agenda items by end of day Friday before the meeting, it may be cancelled.***
 
 
+### Topic
 
+Follow-up on workshop proposals, primarily discussing and reviewing Age Verification workshop.
 
 ### Topic
 
-### Topic
+Appointments policy for calling for nominations (followup from retreat)
 
 ### Topic
 
