@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:13:59.124Z
+date: 2025-06-19T17:19:08.748Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -89,6 +89,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [sustain *Sustainability and the Internet*](/group/sustain)
 - [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
 - [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
+- [tsvwg *Transport and Services*](/group/tsvwg)
 - [tls *Transport Layer Security*](/group/tls)
 - [uta *Using TLS in Applications*](/group/uta)
 - [v6ops *IPv6 Operations*](/group/v6ops)
