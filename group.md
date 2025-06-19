@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T16:52:45.867Z
+date: 2025-06-19T17:01:04.244Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -294,7 +294,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [ops *Operations Area Wiki*](/group/iesg/ops)
 - [rtg *Routing Area*](/group/rtg)
 - [sec *Security Area Wiki*](/group/secdir)
-- [tsv *Transport Area*](/group/tsv)
+- [wit *Web and Internet Transport Area*](/group/witarea)
 {.links-list}
 
 # Teams
