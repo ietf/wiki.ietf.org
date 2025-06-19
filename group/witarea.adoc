@@ -4,7 +4,7 @@ The WIT area intersects most frequently with Internet area, the applications are
 
 ## Transport Area Review Team (TSVART) 
 
-The [Transport Area Review Team](/group/tsv/TSVART) is an advisory group of transport protocol experts selected by the WIT area directors. The area directors use feedback from the Area Review Team when making decisions on a range of topics related to Internet transport and the related IETF activities. More information about the tasks, members and activities of the TSV area review team can be found on the [TSVART](/group/tsv/TSVART) page.
+The [Transport Area Review Team](/group/tsv/TSVART) is an advisory group of transport protocol experts selected by the WIT area directors. The area directors use feedback from the Area Review Team when making decisions on a range of topics related to Internet transport and the related IETF activities. More information about the tasks, members and activities of the TSV area review team can be found on the TSVART page.
 
 ## HTTP Directorate (HTTPDIR)
 
