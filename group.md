@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:19:08.748Z
+date: 2025-06-19T17:45:03.054Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -97,7 +97,6 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ## By Area
 ### ART
-- [core *Constrained RESTful Environments*](/group/core)
 - [dispatch *DISPATCH*](/group/dispatch)
 - [dmarc *Domain-based Message Authentication, Reporting & Conformance*](/group/dmarc)
 - [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
