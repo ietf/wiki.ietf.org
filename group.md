@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:10:41.981Z
+date: 2025-06-19T17:13:59.124Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -46,11 +46,11 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [dprive *DNS PRIVate Exchange*](/group/dprive)
 - [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
 - [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
-- [gaia *Global Access to the Internet for All*](/group/gaia)
+- [gaia *Global Access to the Internet for All RG*](/group/gaia)
 - [httpbis *HTTP*](/group/httpbis)
 - [i2nsf *Interface to Network Security Functions*](/group/i2nsf)
 - [iccrg *Internet Congestion Control RG*](/group/iccrg)
-- [icnrg *Information-Centric Networking*](/group/icnrg)
+- [icnrg *Information-Centric Networking RG*](/group/icnrg)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [ippm *IP Performance Measurement*](/group/ippm)
 - [ipsecme *IP Security Maintenance and Extensions*](/group/ipsecme)
@@ -65,7 +65,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [nmrg *Network Management*](/group/nmrg)
 - [ntp *Network Time Protocols*](/group/ntp)
 - [nvo3 *Network Visualization Overlays*](/group/nvo3)
-- [nwcrg *Network Coding*](/group/nwcrg)
+- [nwcrg *Network Coding RG*](/group/nwcrg)
 - [oauth *Web Authorization Protocol*](/group/oauth)
 - [pce *Path Computation Element*](/group/pce)
 - [pearg *Privacy Enhancements and Assessments Research Group*](/group/pearg)
@@ -184,6 +184,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ### WIT Area
 - [ccwg *Congestion Control*]
+- [core *Constrained RESTful Environments*](/group/core)
 - [httpbis *HTTP*](/group/httpbis)
 - [quic *QUIC*](/group/quic)
 - [tcpm *TCP maintainance and Minor extensions*]
