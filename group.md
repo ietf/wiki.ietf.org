@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T16:51:41.849Z
+date: 2025-06-19T16:52:45.867Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -187,7 +187,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [quic *QUIC*](/group/quic)
 - [tcpm *TCP maintainance and Minor extensions*]
 - [tsvart *Transport and Services Area Review Team*](/group/tsvwg) 
-- [tsvwg *Transport and Services Working Group*](/group/tsv)
+- [tsvwg *Transport and Services Working Group*](/group/tsvwg)
 
 {.links-list}
 
