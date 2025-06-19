@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T15:23:50.114Z
+date: 2025-06-19T15:24:17.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -36,7 +36,7 @@ Several other aliases offer convenient shortcuts to send email to various WIT Ar
 The WIT area directors try to schedule office hours during each IETF plenary meeting, which allow anyone to drop in to discuss relevant topics. The time and place are usually announced on http://www.ietf.org/mailman/listinfo/tsv-area before each meeting.
 
 
-# Transport Area Review Team (TSVART) (Will be a separate page)
+## Transport Area Review Team (TSVART) 
 
 The [Transport Area Review Team](/group/tsv/TSVART) is an advisory group of transport protocol experts selected by the WIT area directors. The area directors use feedback from the Area Review Team when making decisions on a range of topics related to Internet transport and the related IETF activities. More information about the tasks, members and activities of the TSV area review team can be found on the [TSVART](/group/tsv/TSVART) page.
 
