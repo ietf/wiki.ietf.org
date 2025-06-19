@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T15:31:34.533Z
+date: 2025-06-19T15:32:05.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -19,7 +19,7 @@ It is important to differentiate [TSVWG](https://datatracker.ietf.org/group/tsvw
 
 # WIT AREA (Will be a separate page)
 
-The WIT area intersects most frequently with INT area, the applications area, the ART area, the security area and several IRTF research groups. The WIT Area includes what was previously called the "transport area" or "TSV area" - covers a range of technical topics related to data transport in the Internet. 
+The WIT area intersects most frequently with INT area, the applications area, the ART area, the security area and several IRTF research groups. The WIT Area includes what was previously called the "transport area" or "TSV area" - which covers a range of technical topics related to data transport in the Internet. 
 
 ## Mailing List and Aliases
 The area-wide mailing list of the web and Internet transport area is http://www.ietf.org/mailman/listinfo/wit-area and the mailing list archive is at http://www.ietf.org/mail-archive/web/wit-area/.
