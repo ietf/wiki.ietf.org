@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T14:15:03.667Z
+date: 2025-06-19T14:17:33.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-22T22:58:44.553Z
 
 The Transport and Services WG works on mechanisms related to end-to-end data transport to support Internet applications and services that exchange potentially large volumes of traffic at potentially high bandwidths. A key focus are mechanisms to detect and react to congestion in the Internet, such as the congestion control algorithms in Internet transport control protocols such as TCP, QUIC, SCTP, MPTCP, and DCCP. The group also works with endpoint to network control mechanisms, such as ECN, Diffserv, and related protocols.
 
-Current and new transport work includes congestion signaling and reporting, forward error correction, multicast, QoS and reservation signaling, DiffServ? and congestion control for unresponsive flows, NAT regularization and specification, storage protocols for the Internet, peer-to-peer streaming, performance metrics for Internet paths, experimentation with congestion control schemes explored in the IRTF (and possibly standardised by  the ICCRG), multipath extensions to existing transport protocols (when not protocol-specific), and extensions to the IETF protocols to support transpor (e.g., ECN).
+Current and new transport work includes congestion signaling and reporting, forward error correction, multicast, QoS and reservation signaling, DiffServ, and congestion control, NAT, performance metrics for Internet paths, multipath extensions to existing transport protocols (when not protocol-specific), and extensions to the IETF protocols to support transpor (e.g., ECN).
 
 The TSVWG receives occasional proposals for the development and publication of RFCs dealing with transport topics that are not in scope of an existing working group and do not justify the formation of a new working group. 
 
