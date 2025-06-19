@@ -2,20 +2,17 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T14:12:06.901Z
+date: 2025-06-19T14:15:03.667Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
 ---
 
-# Transport Area (TSVWG)) in the WIT Area 
+# Transport Area WG (TSVWG)
 
-The WIT Area - includes what was previously called the "transport area" or "TSV area" - covers a range of technical topics related to data transport in the Internet.
-The WG works on mechanisms related to end-to-end data transport to support Internet applications and services that exchange potentially large volumes of traffic at potentially high bandwidths. A key focus are mechanisms to detect and react to congestion in the Internet, such as the congestion control algorithms in Internet transport control protocols such as TCP, QUIC, SCTP, MPTCP, and DCCP.
+The Transport and Services WG works on mechanisms related to end-to-end data transport to support Internet applications and services that exchange potentially large volumes of traffic at potentially high bandwidths. A key focus are mechanisms to detect and react to congestion in the Internet, such as the congestion control algorithms in Internet transport control protocols such as TCP, QUIC, SCTP, MPTCP, and DCCP. The group also works with endpoint to network control mechanisms, such as ECN, Diffserv, and related protocols.
 
-Current and new transport work includes congestion signaling and reporting, forward error correction, multicast, QoS and reservation signaling, DiffServ? and congestion control for unresponsive flows, NAT regularization and specification, storage protocols for the Internet, peer-to-peer streaming, performance metrics for Internet paths, experimentation with congestion control schemes explored in the IRTF (and possibly standardised by  the ICCRG), multipath extensions to existing transport protocols (when not protocol-specific), and extensions to the IETF protocols for transport (e.g., ECN).
-
-The WIT area intersects most frequently with Internet area, the applications area, the ART area, the security area and several IRTF research groups. The TSVWG can provide a point of contact between these topics.
+Current and new transport work includes congestion signaling and reporting, forward error correction, multicast, QoS and reservation signaling, DiffServ? and congestion control for unresponsive flows, NAT regularization and specification, storage protocols for the Internet, peer-to-peer streaming, performance metrics for Internet paths, experimentation with congestion control schemes explored in the IRTF (and possibly standardised by  the ICCRG), multipath extensions to existing transport protocols (when not protocol-specific), and extensions to the IETF protocols to support transpor (e.g., ECN).
 
 The TSVWG receives occasional proposals for the development and publication of RFCs dealing with transport topics that are not in scope of an existing working group and do not justify the formation of a new working group. 
 
@@ -25,6 +22,9 @@ It is important to differentiate [TSVWG](https://datatracker.ietf.org/group/tsvw
 
 
 # WIT AREA (Will be a separate page)
+
+The WIT Area - includes what was previously called the "transport area" or "TSV area" - covers a range of technical topics related to data transport in the Internet.
+The WIT area intersects most frequently with Internet area, the applications area, the ART area, the security area and several IRTF research groups. 
 
 ## Mailing List and Aliases
 The area-wide mailing list of the web and Internet transport area is http://www.ietf.org/mailman/listinfo/wit-area and the mailing list archive is at http://www.ietf.org/mail-archive/web/wit-area/.
@@ -36,6 +36,7 @@ Several other aliases offer convenient shortcuts to send email to various WIT Ar
 - tsv-art@… reaches the current set of transport area review team members
 - -chairs@… reaches the current chairs of the working group with abbreviation < WG >
 - -ads@… reaches the current ADs of the working group with abbreviation < WG >
+
 ## Office Hours
 The WIT area directors try to schedule office hours during each IETF meeting, which allow anyone to drop in to discuss relevant topics. The time and place are usually announced on http://www.ietf.org/mailman/listinfo/tsv-area before each meeting.
 
