@@ -2,7 +2,7 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T15:24:17.062Z
+date: 2025-06-19T15:26:16.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
@@ -41,6 +41,10 @@ The WIT area directors try to schedule office hours during each IETF plenary mee
 The [Transport Area Review Team](/group/tsv/TSVART) is an advisory group of transport protocol experts selected by the WIT area directors. The area directors use feedback from the Area Review Team when making decisions on a range of topics related to Internet transport and the related IETF activities. More information about the tasks, members and activities of the TSV area review team can be found on the [TSVART](/group/tsv/TSVART) page.
 
 &nbsp;
+
+## HTTP Directorate (HTTPDIR)
+
+The HTTP Directorate reviews documents for how the HTTP protocol is used, to assure proper interoperation and deployability on HTTP infrastructure, architectural alignment with HTTP, and fture extensibility and evolution of the application and HTTP itself.
 
 ---
 
