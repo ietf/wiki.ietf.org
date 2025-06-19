@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:01:04.244Z
+date: 2025-06-19T17:10:21.800Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -49,7 +49,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [gaia *Global Access to the Internet for All*](/group/gaia)
 - [httpbis *HTTP*](/group/httpbis)
 - [i2nsf *Interface to Network Security Functions*](/group/i2nsf)
-- [iccrg *Internet Congestion Control*](/group/iccrg)
+- [iccrg *Internet Congestion Control RG*](/group/iccrg)
 - [icnrg *Information-Centric Networking*](/group/icnrg)
 - [idr *Inter-Domain Routing*](/group/idr)
 - [ippm *IP Performance Measurement*](/group/ippm)
@@ -128,8 +128,9 @@ dateCreated: 2021-06-16T01:22:07.753Z
 - [cfrg *Crypto Forum*](/group/cfrg)
 - [coinrg *Computing in the Network*](/group/coinrg)
 - [dinrg *Decentralized Internet Infrastructure*](/group/dinrg)
-- [icnrg *Information-Centric Networking*](/group/icnrg)
 - [gaia *Global Access to the Internet for All*](/group/gaia)
+- [icnrg *Information-Centric Networking*](/group/icnrg)
+- [iccrg *Internet Congestion Control RG*](/group/iccrg)
 - [maprg *Measurement and Analysis for Protocols*](/group/maprg)
 - [nmrg *Network Management*](/group/nmrg)
 - [nwcrg *Network Coding*](/group/nwcrg)
