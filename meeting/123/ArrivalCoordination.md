@@ -2,7 +2,7 @@
 title: IETF 123 Arrival Coordination
 description: 
 published: true
-date: 2025-02-05T20:54:03.553Z
+date: 2025-06-21T15:39:07.190Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T20:54:03.553Z
@@ -15,7 +15,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|  |  |  |  |  |  |  |       |
+| 14:10 | LH1802 | Bob Hinden | bob.hinden@gmail.com | MAD | 2 | Meliá Castilla |       |
 |      |        |      |       |         |          |             |       |
 
 
