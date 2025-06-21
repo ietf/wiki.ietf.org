@@ -2,7 +2,7 @@
 title: IETF 123 Departure Coordination
 description: 
 published: true
-date: 2025-06-21T15:43:29.531Z
+date: 2025-06-21T15:43:57.656Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T20:57:15.747Z
@@ -37,7 +37,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-| 06:00 | LH1121 | Bob Hinden | bob.hinden@gmail.com | MAD | 2 | Meliá Castilla  | Flight time, leaving a lot earlier :-(  |
+| 06:00 | LH1121 | Bob Hinden | bob.hinden@gmail.com | MAD | 2 | Meliá Castilla  | Flight time, leaving hotel a lot earlier :-(  |
 |      |        |      |       |         |          |             |       |
 
 
