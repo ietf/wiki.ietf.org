@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-19T19:05:44.073Z
+date: 2025-06-23T15:48:52.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -488,6 +488,33 @@ Interoperability testing between different NTPv5 implementations.
 https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 - **Repositories**
    - NTPD-RS: https://github.com/pendulum-project/ntpd-rs
+
+----
+### Testing Congestion Control and Queue Management Mechanisms
+
+- **Champions**
+	- Mohit P. Tahiliani (tahiliani@nitk.edu.in)
+	- Akash Ravi (akashravi.211cs207@nitk.edu.in)
+	- Anirudh V. Gubbi (anirudhvgubbi.211cs210@nitk.edu.in)
+	- Aniket Singh (aniketsingh.232cs001@nitk.edu.in)
+	- Navaneet Y V N (navaneetyvn.211cs234@nitk.edu.in)
+	- Satyam Shukla (satyamshukla.211cs254@nitk.edu.in)
+	- Shashank G (shashankg.211cs256@nitk.edu.in)
+
+- **Project Info**
+	- Testing of FQ-CoDel and FQ-PIE using ns-3, NeST and WiFi APs
+  - Improving the delay-throughput tradeoff with a new version of CoDel
+  - An example for rate-limited sender implementation in ns-3
+  - Testing the effectiveness of Alternative Backoff with ECN (ABE) using ns-3
+- **Related documents**
+	* [RFC 7928](https://datatracker.ietf.org/doc/html/rfc7928)
+  * [RFC 8289](https://datatracker.ietf.org/doc/html/rfc8289)
+  * [RFC 8290](https://datatracker.ietf.org/doc/html/rfc8290)
+  * [Internet Draft on Rate-limited Sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
+  * [Internet Draft on FQ-PIE](https://datatracker.ietf.org/doc/draft-tahiliani-tsvwg-fq-pie/)
+- **Repositories**
+   * [ns-3](https://gitlab.com/nsnam/ns-3-dev/)
+   * [Network Stack Tester](https://gitlab.com/nitk-nest/nest)
 
 
 ----
