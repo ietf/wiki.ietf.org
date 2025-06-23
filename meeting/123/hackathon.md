@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-23T15:48:52.484Z
+date: 2025-06-23T15:50:42.764Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -510,6 +510,7 @@ https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 	* [RFC 7928](https://datatracker.ietf.org/doc/html/rfc7928)
   * [RFC 8289](https://datatracker.ietf.org/doc/html/rfc8289)
   * [RFC 8290](https://datatracker.ietf.org/doc/html/rfc8290)
+  * [RFC 8511](https://datatracker.ietf.org/doc/html/rfc8511)
   * [Internet Draft on Rate-limited Sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
   * [Internet Draft on FQ-PIE](https://datatracker.ietf.org/doc/draft-tahiliani-tsvwg-fq-pie/)
 - **Repositories**
