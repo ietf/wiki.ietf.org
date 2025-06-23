@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-23T15:50:42.764Z
+date: 2025-06-23T18:43:37.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -519,6 +519,21 @@ https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 
 
 ----
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champions**
+Greg White (g.white@cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+- **Specifications**
+  - [RFC9330](https://datatracker.ietf.org/doc/rfc9330/)
+  - [RFC9331](https://datatracker.ietf.org/doc/rfc9331/)
+  - [RFC9332](https://datatracker.ietf.org/doc/rfc9332/)
+  - [RFC8888](https://datatracker.ietf.org/doc/rfc8888/)
+  - [draft-ietf-tcpm-accurate-ecn](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn)
+
+---
+
 ```
 ----
 
