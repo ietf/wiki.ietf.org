@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-06-24T20:40:04.658Z
+date: 2025-06-24T20:47:27.604Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -138,6 +138,7 @@ Conference style for 16
 ## Monday, 21 July 2025
 
 * TIME - TIME -- Thing (Person responsible)
+* 1315-1415 - Sec AD Open Hours (Sec ADs)
 
 ## Tuesday, 22 July 2025
 
