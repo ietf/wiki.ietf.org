@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-23T18:43:37.637Z
+date: 2025-06-24T03:28:36.187Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -533,7 +533,23 @@ Greg White (g.white@cablelabs.com)
   - [draft-ietf-tcpm-accurate-ecn](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn)
 
 ---
+----
+### Agent Protocol Security
 
+- **Champions**
+Song Yurong (songyurong1@huawei.com)
+Foo Chuan Ann (foo.chuan.ann1@h-partners.com)
+- **Project Info**
+In recent years, AI agents have witnessed remarkable progress and are increasingly recognized as a pivotal force in various fields. Regarding agent protocols, they play a crucial role in enabling seamless communication between agents, external tools, and data sources. However, with the development of AI agents and their protocols, security has become a pressing concern. 
+In this hackathon we aim to validate the security design (e.g. identity, authentication, authiorization) for agent protocols, including agent-to-other protocols (e.g. MCP), or agent-to-agent protocols (e.g. A2A).
+- **Related Side Meeting**
+   - TBD
+- **Agent Protocol Background**
+https://modelcontextprotocol.io/introduction
+https://www.a2aprotocol.org/zh
+- **Repositories**
+   - TBD
+----
 ```
 ----
 
