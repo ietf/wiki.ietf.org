@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-06-24T22:59:26.176Z
+date: 2025-06-24T23:01:06.708Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -16,7 +16,7 @@ dateCreated: 2025-06-24T22:59:26.176Z
 ## IAB Breakout Room
 
 To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Breakout123
-
+ 
 ## Saturday, 2025-07-19
 
 **16:30-18:00: AMS-IETF Leadership Venue Tour + Happy Hour**
