@@ -2,13 +2,13 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-06-24T15:14:03.018Z
+date: 2025-06-24T22:08:23.389Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# Agenda - There WILL be a meeting on 2025-06-25
+# There WILL be a meeting on 2025-06-25
 ## Details
 
 * Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mfd1b0522a8e563a647d9095c686ee41a
@@ -24,7 +24,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - Follow-up on workshop proposals, primarily discussing and reviewing Age Verification workshop.
 
-- Appointments policy for calling for nominations (followup from retreat)
+- Appointments policy for calling for nominations (followup from retreat) - [Slides](https://docs.google.com/presentation/d/1AlMuzdXtI77XpiU_azppC_JU-CNXFdajbFJUgFEhT3c/edit?usp=sharing)
 
 
 ## Upcoming IAB Business Meetings
