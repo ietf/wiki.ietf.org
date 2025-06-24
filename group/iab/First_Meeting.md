@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2025-03-17T03:59:49.406Z
+date: 2025-06-24T15:23:15.976Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -29,7 +29,7 @@ This is a list of several administrative items that are usually handled at the f
 - Identify IAB Liaison to the IESG (2025-2026: Matthew Bocci)
   - [IAB Liaisons](https://www.iab.org/liaisons/)
   - [IESG_Liaison](/group/iab/IESG_Liaison)
-- Identify IAB Liaison to the NomCom (2025-2026: Dhruv, Alvaro)
+- Identify IAB Liaison to the NomCom (2025-2026: Alvaro)
   - [IAB Liaisons](https://www.iab.org/liaisons/)
   - [NomCom_Liaison](/group/iab/NomCom_Liaison)
 - Identify IAB Stream Representative (RSAB) (2025-2026: Suresh)
