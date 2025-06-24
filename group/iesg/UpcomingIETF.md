@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-06-24T20:47:27.604Z
+date: 2025-06-24T20:48:15.130Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -80,8 +80,6 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 ### IESG Meeting Time: 08:00-09:20  Room: Escorial
 
 * Meetecho: link tbd
-### SEC AD office hours: 12:15-13:00  Room: Escorial
-
 
 
  
