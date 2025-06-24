@@ -2,16 +2,16 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-06-19T19:23:27.969Z
+date: 2025-06-24T15:14:03.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# Agenda
+# Agenda - There WILL be a meeting on 2025-06-25
 ## Details
 
-* Webex Link TBD
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mfd1b0522a8e563a647d9095c686ee41a
 * Meeting password: 1@Bmeet
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
    
