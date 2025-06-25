@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-25T07:46:43.330Z
+date: 2025-06-25T11:47:54.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -571,6 +571,37 @@ https://modelcontextprotocol.io/introduction
 https://www.a2aprotocol.org/zh
 - **Repositories**
    - TBD
+----
+
+### EDHOC-PSK Interoperability Testing
+
+- **Champions**
+Elsa Lopez Perez (elsa.lopez-perez@inria.fr)
+
+
+- **Project info**
+EDHOC (Ephemeral Diffie-Hellman Over COSE) is a lightweight authenticated key exchange protocol designed for constrained environments (IoT, embedded devices, etc.). 
+The LAKE working group is currently working in a new authentication method for eDHOC based on Pre-Shared Keys (PSK). There are different implementations of this authentication method, but it has not yet been tested.
+
+This project aims to build a suite for interoperability testing between different EDHOC-PSK implementations. The goal is to define test vectors, capture and analyze trace logs, and report compatibility issues or specification gaps.
+
+- **Hackathon Goals**
+	- Identify and collect existing EDHOC-PSK implementations
+
+	- Define test vectors and expected message flows
+
+	- Run cross-implementation tests and record results
+
+	- Provide feedback to developers and IETF draft authors
+
+- **EDHOC Background**
+
+	- https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc/
+	- https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc-psk/
+
+- **Repositories**
+	- https://github.com/ElsaLopez133/lakers/tree/PSK2-coap-inter-test
+
 ----
 ```
 ----
