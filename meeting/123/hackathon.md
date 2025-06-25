@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-24T03:28:36.187Z
+date: 2025-06-25T07:46:26.395Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -167,6 +167,28 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 * Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/122/hackathon#ProjectsIncludedinHackathon).
+---
+### The Fast Software Authenticated Encryption HiAE *
+
+- **Champions**
+  - Phuong Pham pham.phuong@huawei.com
+  - Lucas Prabel lucas.prabel@huawei.com
+  - Shuzhou Sun sunshuzhou@huawei.com
+  
+- **Project Info**
+HiAE is a high-throughput authenticated encryption algorithm designed for next-generation wireless communication (6G) and data transmission applications. The design leverages the AES round function to ensure high and consistent performance across both ARM and x86 architectures, with support for AES-NI acceleration.
+- **Hackathon Plan**
+The goal of this project is to evaluate the performance of HiAE across a range of devices—including mobile phones, laptops, and servers — on both x86 and ARM platforms.
+
+We welcome all participants who are familiar with:
+- SIMD instruction sets
+- Mobile performance testing
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-pham-cfrg-hiae/
+
+- **Repository**
+Benchmark example: https://github.com/Concyclics/HiAE/tree/main
 
 ---
 ### RESTful Provisioning Protocol (RPP)
