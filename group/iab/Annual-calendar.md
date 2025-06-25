@@ -2,13 +2,20 @@
 title: Annual-calendar
 description: This is a high level calendar of IAB events over the course of a typical year.
 published: true
-date: 2023-11-29T23:06:59.479Z
+date: 2025-06-25T17:01:07.178Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T23:06:02.499Z
 ---
 
 # Annual-calendar
+
+For more precise information for 2025, please see:
+
+- [2025_Schedule](/group/iab/2025_Schedule)
+- [2025_Appointments](/group/iab/2025_Appointments)
+
+---
 This is a high level calendar of IAB events over the course of a typical year. Any dates provided are notional.
 
 
