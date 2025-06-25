@@ -2,29 +2,26 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-06-24T22:08:23.389Z
+date: 2025-06-25T15:39:03.392Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# There WILL be a meeting on 2025-06-25
+# There WILL be a meeting on 2025-07-02
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mfd1b0522a8e563a647d9095c686ee41a
-* Meeting password: 1@Bmeet
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8b46fbef4c4f5c23393a804dbcd7193f
 * Subscribe to the IAB calendar: https://calendar.google.com/calendar/ical/ietf.org_k88jdeojmvn249q37ain3ojepc%40group.calendar.google.com/public/basic.ics
    
-## Next IAB Informal Meeting: 2025-06-25, 1400-15:00 UTC)
+## Next IAB Informal Meeting: 2025-07-02, 2100-22:00 UTC)
 
 ***NOTE: This is a reserved meeting slot. If there are no agenda items by end of day Friday before the meeting, it may be cancelled.***
 
 
 ### Topics
 
-- Follow-up on workshop proposals, primarily discussing and reviewing Age Verification workshop.
-
-- Appointments policy for calling for nominations (followup from retreat) - [Slides](https://docs.google.com/presentation/d/1AlMuzdXtI77XpiU_azppC_JU-CNXFdajbFJUgFEhT3c/edit?usp=sharing)
+- ADD TOPIC HERE
 
 
 ## Upcoming IAB Business Meetings
