@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-25T11:48:32.195Z
+date: 2025-06-25T18:48:46.109Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -603,6 +603,19 @@ This project aims to build a suite for interoperability testing between differen
 	- https://github.com/ElsaLopez133/lakers/tree/PSK2-coap-inter-test
 
 ----
+
+### SCONE
+- **Champions**
+TBD - initial Wesley Eddy (wesleyeddy@meta.com)
+
+- **Project Info**
+Collaborators will make progress on early implementation and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) working group technology.  SCONE requires support both by end-host QUIC stacks and by network elements, so work at the hackathon can be coordinated between people working on QUIC stacks, network devices, and other tools (e.g. Wireshark, etc.).  In this early state, there are still some design questions about the protocol that might be explored, in addition to basic interoperability.  Specific goals will be coordinated prior to the event.
+
+- **Repositories**
+  - https://github.com/wesley-eddy/scone-tools
+  - others TBD
+
+
 ```
 ----
 
