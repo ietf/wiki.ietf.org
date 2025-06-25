@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-01-23T14:36:36.204Z
+date: 2025-06-25T00:13:29.015Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -65,44 +65,42 @@ This section lists actions other than document updates
 
 ## Latest RFCs
 
-* RFC 9625 EVPN Optimized Inter-Subnet Multicast (OISM) Forwarding
+* RFC 9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering
+* RFC 9744 EVPN Virtual Private Wire Service (VPWS) Flexible Cross-Connect (FXC) Service
+* RFC 9721 Extended Mobility Procedures for Ethernet VPN Integrated Routing and Bridging (EVPN-IRB)
+* RFC 9722 Fast Recovery for EVPN Designated Forwarder Election
 
 
 ## Documents in RFC editor queue
 
-* draft-ietf-bess-evpn-pref-df (MISSREF, need VES)
-* draft-ietf-bess-evpn-mh-split-horizon-11 
+* draft-ietf-bess-evpn-pref-df-13
 * draft-ietf-bess-evpn-virtual-eth-segment-19 
 * draft-ietf-bess-evpn-mh-pa-13 
-* draft-ietf-bess-evpn-irb-extended-mobility-21 
-* draft-ietf-bess-evpn-fast-df-recovery-12 
+* draft-ietf-bess-bgp-srv6-args-10
+* draft-ietf-bess-evpn-redundant-mcast-source-15
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
-* draft-ietf-bess-vpls-multihoming (Matthew): EXPIRED
-  - Matthew to find new editor (09/06) 
-* draft-ietf-bess-evpn-fxc (Stephane)
-	- AD evaluation not done
-  - RTGDIR: ready
-
+* draft-ietf-bess-vpls-multihoming (Matthew):
 * draft-ietf-bess-bgp-sdwan-usage (Matthew)
 	- Telechat on 2/29
   - park it for now (09/06)
-* draft-ietf-bess-evpn-redundant-mcast-source
-  - sent to IESG as of 09/06
-  
-* draft-ietf-bess-bgp-srv6-args (Jeffrey)
-  - sent to IESG as of 1/23/25
+* draft-ietf-bess-evpn-ipvpn-interworking-14
+
 
 ## Documents under Shepherds Review
 
-
+- draft-ietf-bess-evpn-bfd-10 (Matthew):
+- draft-ietf-bess-evpn-mvpn-seamless-interop-08 (Matthew): 
+- draft-ietf-bess-ebgp-dmz-06 (Matthew): 
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
   - the document has a lot of normative dependencies that are not ready yet
   - An outstanding comment from Jeffrey about inconsistent/inappropriate use of "ECMP"
   - Review requested to IDR chairs
   - RTGDIR and GENART review requested => comments addressed
-
+- draft-ietf-bess-mvpn-evpn-sr-p2mp-12 (Stephane):
+- draft-ietf-bess-rfc7432bis-12 (Jeffery):
+- draft-ietf-bess-evpn-dpath-02 (Jeffery):
 - draft-ietf-bess-evpn-geneve: (Matthew)
   - Moved to experimental now , Matthew to write up and move to next step (09/06)
 
@@ -125,10 +123,12 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-evpn-ac-aware-bundling (Jeffrey)
   - Outstanding questions/comments from Jeffrey
   - Action : Mankamana / Jeffery meeting during IETF 121 to discuss comments. 
+  - Expired, working on It. 
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
 	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress.
   - Mankamana meeting Acee during IETF 121 to discuss the comments provided 
+  - Plan to have presented in IETF 123
   
 * draft-ietf-bess-extended-evpn-optimized-ir-06 
 	- RTGDIR and GENART review passed
@@ -151,11 +151,8 @@ Shepherd's name indicated within parenthesis.
   - Susan comment has been addressed, waiting for her comment. 
 
 * draft-ietf-bess-evpn-mvpn-seamless-interop
-  - Review comment addressed. 
-  - mankamana to send note about review comment being addressed.
-  - Plan to reach out reviewers during IETF 121 to check if there is any pending comments. 
- 
- 
+  - Ready for WGLC 
+
 * draft-ietf-bess-evpn-bfd
   - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
   - early review to be started 
@@ -165,27 +162,16 @@ Shepherd's name indicated within parenthesis.
 
   
 ## Recently adopted documents
-
+* draft-ietf-bess-evpn-fast-reroute-00
+* draft-ietf-bess-evpn-vpws-gateway-00
 
 
  
-## Documents requested for Working Group adoption
+## Documents requested for Working Group adoption (Non Expired drafts only)
 
 
-* draft-ietf-bess-bgp-srv6-args-02
-* draft-duan-bess-mvpn-ipv6-infras
-* draft-zzhang-bess-mvpn-evpn-cmcast-enhancements
-  - the above two should be considered together
-  - Action: Matthew and Stephane to review both and come with a conclusion
-  - Jeffrey: no follow-up from the draft-duan-bess-mvpn-ipv6-infras authors. Current plan is to fold the solution in draft-zzhang for the common problem into rfc6514bis, so the adoption of the above two drafts could be tabled for now.
 * draft-wang-bess-mvpn-upstream-df-selection  
-* draft-burdet-bess-evpn-fast-reroute:
-	- no active discussion
-  - need to resolve a discussion related to draft-liu-bess-srv6-service-sid-nffrr-flag
-  - will require joint calls with SPRING
-* draft-kaliraj-bess-bgp-sig-private-mpls-labels
-  - Needs MPLS and IDR review
-  - Jeffrey is discussing with the IDR chair Jeff Haas
+ - Expired 
 
 * draft-mackenzie-bess-evpn-l3mh-proto (Jeffrey)
   - update may be needed - depending on ac-aware-bundling discussions
@@ -194,9 +180,6 @@ Shepherd's name indicated within parenthesis.
   - Need to reduce to 5 authors
   - Depends on architecture draft being adopted in dmm (draft-mhkk-dmm-mup-architecture-00)
 
-* draft-liu-bess-srv6-service-sid-nffrr-flag
-  - Need to resolve a discussion related to draft-burdet-bess-evpn-fast-reroute
-  - https://mailarchive.ietf.org/arch/msg/bess/PchNf8Sg_tZm2Sft8zvqfp0WyCs/
 * draft-sajassi-bess-rfc8317bis-02
 * draft-sajassi-bess-evpn-umr-mobility-02
 * draft-sajassi-bess-evpn-first-hop-security-03
