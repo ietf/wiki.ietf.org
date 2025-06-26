@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-26T06:02:48.080Z
+date: 2025-06-26T19:46:26.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -380,6 +380,36 @@ We welcome collaboration with anyone working on:
 - Robotics, swarm testbeds, or dense IoT deployments
 
 ----
+
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Mike Ounsworth (mike.ounsworth@entrust.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+Julien Prat (julien.prat@cryptonext-security.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-rfc4210bis/
+https://www.ietf.org/id/draft-ietf-lamps-certdiscovery/
+https://datatracker.ietf.org/doc/draft-bonnell-lamps-chameleon-certs/
+https://datatracker.ietf.org/doc/draft-gazdag-x509-hash-sigs/
+
+- **Project Info**
+Test interoperability of Post Quantum algorithms in x.509 structures (Certificates, keys, CMS and other drafts).   This project started in November 2022 and continues to evolve.  We currently have some github automated actions to automaticlaly test submitted artifacts allowing implementations to get immedidate feedback on their compatibility. This allows us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 123, we plan to add more automation, add interoperability testing for the private key formats (like ML-DSA and ML-KEM), and continue to update our implementations to support the FIPS 203, 204 and 205 algorithm standards.  We are also looking for implementations of Composite Signatures, Composite KEM and other PQ transition mechanisms that are being standardized.    
+
+There is also interest in setup and testing the use of hybrid certificates for the TLSv1.3 protocol. The goal of the experiment is to explore different options for efficient use of hybrid certificates' and their multiple signature keys in the TLS protocol. We are looking for collaborations and ideas that can be then brought forward within the IETF and other standardization bodies (e.g., X9, ISO, etc.).
+
+
 
 ### Validate Configured Subscription YANG-Push Publisher Implementations
 - **Champion(s)**
