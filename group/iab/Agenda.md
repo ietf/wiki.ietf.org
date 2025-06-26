@@ -2,16 +2,15 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-06-26T15:40:10.390Z
+date: 2025-06-26T15:42:46.748Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# There WILL NOT be a meeting on 2025-07-02
-## Next IAB Informal Meeting: 2025-07-02, 2100-22:00 UTC)
+# IAB Informal Meeting Agenda: 2025-07-02, 2100-22:00 UTC)
 
-***NOTE: This is a reserved meeting slot. If there are no agenda items by end of day Friday before the meeting, it may be cancelled.***
+## There WILL NOT be a meeting on 2025-07-02
 
 ## Details
 
@@ -22,8 +21,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Agenda
 
-> When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items in the appropriate sections below.
-Note that this page is public.
+> When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
 - ADD TOPIC HERE
