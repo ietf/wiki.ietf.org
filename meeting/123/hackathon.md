@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-25T18:48:46.109Z
+date: 2025-06-26T03:08:53.783Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -615,7 +615,28 @@ Collaborators will make progress on early implementation and testing of [SCONE](
   - https://github.com/wesley-eddy/scone-tools
   - others TBD
 
+----
+### Network Attestation for Secured foRwarding
 
+- **Champions**
+Michael Richardson (mcr@sandelman.ca)
+Peter Chunchi Liu (liuchunchi@huawei.com)
+Meiling Chen (chenmeiling@chinamobile.com)
+
+- **Project Info**
+
+In the current network deployments, communicating entities implicitly rely on peer entities and use paths as determined by the control plane.  These available path(s) are implicitly trusted. Communicating entities have very little information about the entities in the paths over which their traffic is carried, and have no available means to audit the entities and paths, beyond basic properties like latency, throughput, and congestion.  However, increased demand in network security, privacy, and robustness makes tools for enabling visibility of the entities' security characteristics a necessity.
+
+The Network Attestation for Secured foRwarding (NASR) aims to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior.
+
+- **Related Meetings**
+   - https://datatracker.ietf.org/doc/agenda-122-nasr/
+   - https://datatracker.ietf.org/doc/agenda-120-nasr/
+- **Related Documents**
+https://datatracker.ietf.org/doc/draft-liu-nasr-architecture/
+- **Repositories**
+   - TBA
+----
 ```
 ----
 
