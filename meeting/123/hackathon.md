@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-26T19:46:26.759Z
+date: 2025-06-26T21:54:53.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -666,6 +666,34 @@ The Network Attestation for Secured foRwarding (NASR) aims to address the challe
 https://datatracker.ietf.org/doc/draft-liu-nasr-architecture/
 - **Repositories**
    - TBA
+----
+### Deterministic Networking
+
+- **Champions**
+David Rico (david.rico@uc3m.es)
+Carlos J. Bernardos (cjbc@it.uc3m.es)
+Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
+Marta Blanco (marta.blancocaamano@telefonica.com)
+
+- **Project Info**
+
+Our team brings together the [PREDICT-6G](https://predict-6g.eu), [DESIRE6G](https://desire6g.eu) and [6G-DATADRIVEN-04](https://unica6g.it.uc3m.es/en/6g-datadriven/) projects to tackle Deterministic Networking (DetNet) at IETF 123 Hackathon in Madrid. 
+
+- **Challenge 1: Controller plane API and intelligence**
+Building on PREDICT-6G’s open-source DetNet-based dataplane—an XDP/eBPF implementation that already supports PREOF (Packet Replication, Elimination, and Ordering Functions) and runs DetNet over MPLS-in-UDP/IP. Currently, its DetNet functionality is statically configured at boot time via JSON configuration files and lacks a standardized way to interact with the dataplane dynamically.
+To overcome these limitations, we will design and implement a lightweight control and configuration API—exposed via REST/gRPC—that interfaces directly with the dataplane. This API will allow operators—and higher-level controllers—to define node behavior on the fly: pushing new service definitions, querying per-node state, updating PREOF replication and elimination settings, or modifying a node’s MPLS role (push, pop, forward), all without restarting or reloading static files.
+On top of this, we will integrate a decision-making engine powered by a compact AI module. Given a service profile (with data such as bandwidth, latency bound, extra TSN needs such as PREOF-style reliability, etc.) and a network topology model, this engine will compute suitable DetNet paths—including disjoint and multi-path options—and automatically invoke the API to configure each hop. As services originate, change, or terminate, the system will coordinate per-flow S-Label usage, adjust resource reservations, and adapt routes—reconfiguring nodes seamlessly and meeting stringent DetNet guarantees end-to-end.
+	- **Related Documents**
+https://datatracker.ietf.org/doc/draft-ietf-detnet-controller-plane-framework/
+	- **Repositories**
+   		- TBA
+- **Challenge 2: In-band Telemetry (INT) for DetNet**
+The main feature of deterministic solutions, such as DetNet, is precision in information delivery. However, how can we ensure the deployed solution meets the established timing constraints? In this challenge, we will work on a simulated environment to add timing information via INT to DetNet traffic. Based on an early implementation of INT, one of the goals will be fo develop a Wireshark dissector to visualize the information contained in the INT headers.
+	- **Related Documents**
+   		- TBA
+	- **Repositories**
+   		- TBA
+      
 ----
 ```
 ----
