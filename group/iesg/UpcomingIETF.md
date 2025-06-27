@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-06-24T20:48:15.130Z
+date: 2025-06-27T18:05:20.330Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -14,7 +14,7 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 *(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/agenda/))*
 
 # Candidate Meeting Topics
-Please add any topics for either IESG only meetings at IETF 122, or the joint meetings with the IAB.
+Please add any topics for either IESG only meetings at IETF 123, or the joint meetings with the IAB.
 
 
 # IESG Activities
@@ -24,7 +24,7 @@ Please add any topics for either IESG only meetings at IETF 122, or the joint me
 
 **Hackathon**
 
-09:30-21:00 - Room: Los Tapices
+09:30-21:00 - Room: El Prado
 
 **Code Sprint**
 
@@ -50,9 +50,9 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### 0930 - 1130: IAB Meeting
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: Escorial
+### Joint IAB/IESG Lunch - 11:45-12:15 Room: El Escorial
 
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: Escorial
+### Joint IESG/IAB Meeting - 12:15-13:45 Room: El Escorial
 
 * Meetecho: link tbd
 >1. Welcome and introductions (5 min)
@@ -60,7 +60,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     Random order: SEC, OPS, IRTF, RTG, IAB, ART, WIT, INT, GEN
 
 
-### IESG Meeting - 14:00-16:00 Room: Escorial
+### IESG Meeting - 14:00-16:00 Room: El Escorial
 
 * Meetecho: link tbd
 
@@ -69,15 +69,15 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 
 ### Meeting Events
 
-- **New Participant's Quick Connections** 16:00-17:00; Room: Doblán
-- **Welcome Reception** 17:00-19:00; Room: El Prado
+- **New Participant's Quick Connections** 16:00-17:00; Room: Doblón
+- **Welcome Reception** 17:00-19:00; Room: Tapices
 - **HotRFC Lightning Talks** 18:00-20:00; Room: Castilla
 
 
 
 ## Monday, July 21, 2025
 
-### IESG Meeting Time: 08:00-09:20  Room: Escorial
+### IESG Meeting Time: 08:00-09:20  Room: El Escorial
 
 * Meetecho: link tbd
 
@@ -91,7 +91,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
   
 ## Wednesday, July 23, 2025
-### IESG Meeting Time: 08:00-09:20  Room: Escorial
+### IESG Meeting Time: 08:00-09:20  Room: El Escorial
 
 Meetecho: link tbd
 
@@ -102,7 +102,7 @@ Meetecho: link tbd
 
 ### IETF 123 Plenary 
 **TIME: 17:30-19:30 
-Room: Auditorium**
+Room: Auditorio**
 &nbsp;
 ## Thursday, July 24, 2025
 
@@ -110,7 +110,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ## Friday, July 25, 2025
 
-### Joint IAB/IESG Lunch and Meeting - Time: 13:00-14:30 Room: Escorial
+### Joint IAB/IESG Lunch and Meeting - Time: 13:00-14:30 Room: El Escorial
 
 Meetecho: link tbd
 
@@ -124,7 +124,7 @@ Meetecho: link tbd
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Breakout Room
 
-Location: Galeria
+Location: La Galería, Ground Floor ([floor plan](https://datatracker.ietf.org/meeting/123/floor-plan?room=la-galeria))
 Conference style for 16
 
 ## Sunday, 20 July 2025
