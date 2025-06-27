@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-06-25T15:58:20.624Z
+date: 2025-06-27T19:58:46.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -22,6 +22,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 - CCG Update (Russ, Barry, Tim) 
 - ICNRG Review 
 - IAB Appointments Policy (Cindy)
+- Adoption of 4052bis and 4053bis
 
 
 ## Saturday, 2025-07-19
