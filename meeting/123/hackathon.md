@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-28T15:10:28.698Z
+date: 2025-06-28T15:10:37.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -700,7 +700,7 @@ The main feature of deterministic solutions, such as DetNet, is precision in inf
 
 - **Champions**
 Taiji Kimura (taiji-k@nic.ad.jp)
-Wataru Ohgai (alt@nic.ad.jp)
+Wataru "Alt" Ohgai (alt@nic.ad.jp)
 
 - **Project Info**
 TBA
