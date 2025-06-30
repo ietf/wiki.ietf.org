@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-30T09:08:42.345Z
+date: 2025-06-30T09:19:58.233Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -717,6 +717,8 @@ TBA
 - **Champions**
 Yong Cui (cuiyong@tsinghua.edu.cn)
 Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+Yunze Wei (wyz23@mails.tsinghua.edu.cn)
+Kaiwen Chi (ckw24@mails.tsinghua.edu.cn)
 
 - **Project Info**
 TBA
