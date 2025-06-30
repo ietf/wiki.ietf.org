@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-06-28T07:59:05.435Z
+date: 2025-06-30T09:26:42.583Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -146,6 +146,7 @@ Conference style for 16
 ## Wednesday, 23 July 2025
 
 * TIME - TIME -- Thing (Person responsible)
+* 1700-1730 - IESG Pre-plenary Meditation
 
 
 ## Thursday, 24 July March 2025
