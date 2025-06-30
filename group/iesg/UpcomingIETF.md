@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-06-30T09:26:42.583Z
+date: 2025-06-30T18:03:08.151Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -152,6 +152,7 @@ Conference style for 16
 ## Thursday, 24 July March 2025
 
 * TIME - TIME -- Thing (Person responsible)
+* 0820-0920 -  Sec AD and CFRG chair mtg (we might not need the whole hour)
 
 
 ## Friday, 25 July 2025
