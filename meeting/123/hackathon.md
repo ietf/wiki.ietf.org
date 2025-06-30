@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-30T09:19:58.233Z
+date: 2025-06-30T20:10:19.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -637,14 +637,36 @@ This project aims to build a suite for interoperability testing between differen
 
 ### SCONE
 - **Champions**
-TBD - initial Wesley Eddy (wesleyeddy@meta.com)
+
+  - On-site:
+    - Marcus Ihlar (marcus.ihlar@ericsson.com)
+    - Wesley Eddy (wesleyeddy@meta.com)
+    - Matt Joras (mjoras@meta.com)
+  - Off-site:
+    - Renjie Tang (renjietang@google.com)
+    - Jon Varsanik (jvarsanik@google.com)
+    - Tina Tsou (tina.tsou@tiktok.com)
+
 
 - **Project Info**
-Collaborators will make progress on early implementation and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) working group technology.  SCONE requires support both by end-host QUIC stacks and by network elements, so work at the hackathon can be coordinated between people working on QUIC stacks, network devices, and other tools (e.g. Wireshark, etc.).  In this early state, there are still some design questions about the protocol that might be explored, in addition to basic interoperability.  Specific goals will be coordinated prior to the event.
+
+Collaborators will make progress on early implementation and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) working group technology.  SCONE requires support both by end-host QUIC stacks and by network elements, so work at the hackathon can be coordinated between people working on QUIC stacks, network devices, and other tools (e.g. Wireshark, etc.).
+
+There will be a mixture of on-site and off-site collaborators supported.  At least one prototype in-network element is expected to be available on-site.  It may be possible to route traffic through it from off-site.
+
+
+- **Hackathon Goals**
+
+  - Test basic SCONE interoperation between in-network element prototypes and end-host stack prototypes.
+  - Take any lessons learned or clarifications for the spec back to the working group.
+  - Establish the foundation for future tests and collaboration on SCONE.
 
 - **Repositories**
+
+  - Participants can work on any code that they have access to, in order to add or test SCONE support.
+  - Some code planned to be tested is not open source.
   - https://github.com/wesley-eddy/scone-tools
-  - others TBD
+  - TBD other open source repositories
 
 ----
 ### Network Attestation for Secured foRwarding
