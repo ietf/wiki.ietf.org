@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-06-30T18:04:32.264Z
+date: 2025-06-30T21:02:12.537Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -142,6 +142,7 @@ Conference style for 16
 
 * TIME - TIME -- Thing (Person responsible)
 * 0820-0920 - OPS AD Open Hours (OPS ADs)
+* 1130-1300 - INT AD Office Hours (INT ADs)
 
 ## Wednesday, 23 July 2025
 
