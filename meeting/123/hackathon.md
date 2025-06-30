@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-28T15:10:37.055Z
+date: 2025-06-30T09:08:42.345Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -710,6 +710,26 @@ TBA
 
 - **Repositories**
 TBA
+
+----
+### LLM Driven Automated Network Protocol Testing
+
+- **Champions**
+Yong Cui (cuiyong@tsinghua.edu.cn)
+Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+
+- **Project Info**
+TBA
+
+- **Hackthon Plan**
+TBA
+
+- **Specifications**
+TBA
+
+- **Repositories**
+TBA
+
 
 ---
 
