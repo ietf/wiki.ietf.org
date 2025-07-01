@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-06-26T14:14:57.673Z
+date: 2025-07-01T16:05:40.690Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -37,13 +37,15 @@ Meeting password: 12345
 Note that this page is public.
 {.is-info}
 
+
 ### Administrivia
 
 - Review of retreat action items
+- Plans for IEEE coordination after Madrid IETF Meeting?
 
 ### Document Discussions
 
-
+ * What publication process do we offer for:  draft-livingood-low-latency-deployment ?
 
 ### Management Issues
 
@@ -63,7 +65,6 @@ Note that this page is public.
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
-
 
 
 
