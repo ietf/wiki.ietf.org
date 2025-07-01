@@ -2,7 +2,7 @@
 title: NASR(non-WG)-Network Attestation for Secured foRwarding
 description: The aim of Network Attestation for Secured FoRwarding is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 published: true
-date: 2025-05-20T08:03:02.440Z
+date: 2025-07-01T09:32:51.730Z
 tags: nasr
 editor: markdown
 dateCreated: 2025-04-10T03:07:00.098Z
@@ -87,5 +87,19 @@ Q24：it is difficult/impossible to derive from the configuration a specific beh
 Q25：The semantic correlation verification between configuration and routing behavior has not been resolved yet
 ----Simplified routing platform, functional control, Restconf and Orchestration can solve the problem, some operators have done, and Michael is working on a PoC.
 
+## Policy Drivers of NASR
 
+Privacy concerns and regulation on personal data in various countries
+
+Europe Union: GDPR(General Data Protection Regulation)
+CHAPTER V - Transfers of personal data to third countries or international organisations
+Article 44 - General principle for transfers
+Article 45 - Transfers on the basis of an adequacy decision
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679
+
+Germany: TTDSG/TDDDG(Telekommunikation-Telemedien-Datenschutz-Gesetz)
+https://www.gesetze-im-internet.de/ttdsg/
+
+China: Data Security Law (DSL)
+https://www.gov.cn/xinwen/2021-06/11/content_5616919.htm
 
