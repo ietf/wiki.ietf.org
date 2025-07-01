@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-06-27T15:59:44.963Z
+date: 2025-07-01T13:01:50.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -24,7 +24,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - ADD TOPIC HERE
 
-- For 7/9 meeting: Review / finalize IP Geo workshop call (Jason, etc)
+- For July 9: Review / finalize IP Geo workshop call (Jason, etc)
+- For July 9: IAB response to WSIS+20 Co-Facilitators Consultation (Dhruv et al)
 
 
 ## Upcoming IAB Business Meetings
