@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-01T15:29:17.145Z
+date: 2025-07-01T15:32:05.654Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -66,6 +66,9 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34520
 
 **0800-0920: IAB Business Meeting (El Jardín)**
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1004
+
+**1300-1430: EDM Program Meeting (El Jardín)**
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34524
 
 
 ## Wednesday, 2025-07-23
