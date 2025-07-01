@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-06-27T19:58:46.499Z
+date: 2025-07-01T15:29:17.145Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -34,9 +34,9 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ## Sunday, 2025-07-20
 
-**0930-1130: IAB Meeting (Meeting Room 2)**
+**0930-1130: IAB Meeting (El Escorial)**
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 
 
@@ -56,12 +56,16 @@ Meetecho: TBD
 
 **1315-1415: IETF-3GPP Coordination (El Escorial)**
 
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1003
+
 **1315-1415: RSAB (El Jardín)**
+
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34520
 
 ## Tuesday, 2025-07-22
 
 **0800-0920: IAB Business Meeting (El Jardín)**
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1004
 
 
 ## Wednesday, 2025-07-23
@@ -72,7 +76,7 @@ Meetecho: TBD
 
 **0800-0920: IAB Business Meeting (El Jardín)**
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1006
 
 
 ## Friday, 2025-07-25
@@ -81,7 +85,7 @@ Meetecho: TBD
 
 Agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1007
 
 **1645-1745: Farewell Reception (Room: Red Foyer)**
 
