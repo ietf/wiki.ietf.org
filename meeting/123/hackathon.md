@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-06-30T20:10:19.416Z
+date: 2025-07-01T02:25:34.694Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -756,7 +756,29 @@ TBA
 
 
 ---
+### Testing Privacy-preserving Ciphertext AI inference in Network Functions
 
+- **Champions**
+Lun Li (lilun20@huawei.com)
+Xuan Shen (skyone.beihai@gmail.com)
+
+- **Project Info**
+The academic community has been proposing new privacy technologies, but in existing networks, more pseudonymization is used to protect identifiers. Can these new privacy technologies enhance processing privacy?In this project, we try to let the network perform computing directly on ciphertext through privacy computing. The potential solution is to use homomorphic encryption. AI inference and neural networks are the types of computation we are primarily coped with. The main goal is as follows:
+
+- **Hackthon Plan**
+Test the performance of homomorphic encryption in AI inference
+
+- **Related Side Meeting**
+https://trello.com/c/mxsN80OT/58-1030-1200-next-generation-computing-enhancement-of-processing-privacy
+
+- **Related Drafts**
+https://datatracker.ietf.org/doc/draft-li-ppm-homomorphic-encryption/
+
+- **Repositories**
+TBA
+
+
+---
 
 ```
 ----
