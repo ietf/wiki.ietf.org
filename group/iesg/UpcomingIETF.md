@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-01T15:04:23.243Z
+date: 2025-07-01T15:35:29.480Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -54,7 +54,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### Joint IESG/IAB Meeting - 12:15-13:45 Room: El Escorial
 
-* Meetecho: link tbd
+* Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: SEC, OPS, IRTF, RTG, IAB, ART, WIT, INT, GEN
@@ -62,7 +62,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ### IESG Meeting - 14:00-16:00 Room: El Escorial
 
-* Meetecho: link tbd
+* Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday meeting.
@@ -79,7 +79,7 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 
 ### IESG Meeting Time: 08:00-09:20  Room: El Escorial
 
-* Meetecho: link tbd
+* Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1002
 
 
  
@@ -93,7 +93,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 ## Wednesday, July 23, 2025
 ### IESG Meeting Time: 08:00-09:20  Room: El Escorial
 
-Meetecho: link tbd
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1005
 
 
 >1. Plenary Slide Review + Prep
@@ -112,7 +112,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ### Joint IAB/IESG Lunch and Meeting - Time: 13:00-14:30 Room: El Escorial
 
-Meetecho: link tbd
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1007
 
 
 > 1. Welcome
