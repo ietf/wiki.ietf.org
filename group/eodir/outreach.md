@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-06-10T13:23:51.038Z
+date: 2025-07-02T13:14:43.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|July 2025|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide]()|
 |May 2025|[INNOG](https://innog.net/)|Operators, Regulators, Govt|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1rN1No1Md2OQbuqexnY0Z_PNN9YUCYOsCsKmwRVNy9rA/edit?usp=sharing)| 
 |March 2O25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv |Also repeated the event in Tajikistan|
 |March 2025|[RADIUS Conference](https://radiusconference.org)|Operators | Participants | Alan DeKok | [Slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-radext-radius-conference-report-00)
