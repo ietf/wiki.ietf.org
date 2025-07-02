@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-07-02T13:17:15.137Z
+date: 2025-07-02T13:23:52.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,7 +50,9 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|July 2025|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide]()|
+|July 2025|[WSIS+20 HLE](https://www.itu.int/net4/wsis/forum/2025/en)|Internet Governance|-|Roman, Mirja, Mark|-|
+|July 2025|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
+|June 2025|[IGF 2025](https://www.igf2025.no/)|Internet Governance|Knowledge sharing, Support|Roman, Dirk, Dhruv, Mirja, Warren, Suresh, Mark, Colin, Mirjam|[Blog](https://www.ietf.org/blog/experiences-igf-2025/)| 
 |May 2025|[INNOG](https://innog.net/)|Operators, Regulators, Govt|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1rN1No1Md2OQbuqexnY0Z_PNN9YUCYOsCsKmwRVNy9rA/edit?usp=sharing)| 
 |March 2O25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv |Also repeated the event in Tajikistan|
 |March 2025|[RADIUS Conference](https://radiusconference.org)|Operators | Participants | Alan DeKok | [Slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-radext-radius-conference-report-00)
