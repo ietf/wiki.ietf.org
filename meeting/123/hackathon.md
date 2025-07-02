@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-02T12:53:26.712Z
+date: 2025-07-02T14:01:06.782Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -294,7 +294,12 @@ Use the open-source CODEF framework to benchmark and compare the performance of 
 		CODEF can be downloaded [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
 - **CODECO Background**
 	[CODECO Project Repository in GITLAB](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
+	[CODECO Project website](https://he-codeco.eu)
 	CODECO is an open source project. The code developed will be open source under the project and IETF rules.
+	You can develop in your own repository or in the hackathon repository enabled to this purpose: [Hackathon repository](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon). 
+	If you develop directly in the Hckathon repository or you upload the code to it, you will gain extra visibility and you will opt to [IRCEP Awards](https://he-codeco.eu/ircep/ircep-challenges/). In order to do it, you will need to [Register](https://accounts.eclipse.org/user/register?destination=/user/login) in the Eclipse Foundation, [log in](https://accounts.eclipse.org/) and sign the Eclipse Contributor Agreement.
+
+  
  
 ---
 
