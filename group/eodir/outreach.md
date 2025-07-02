@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-07-02T13:14:43.110Z
+date: 2025-07-02T13:17:15.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -40,9 +40,9 @@ Some examples of outreach activities are listed in the table below
 
 ## Resources
 
-* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit#slide=id.p2)
-* [IETF Snapshot 2023](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I0000y4G2RUl0O40/IETF-Snapshot-2023-pdf) - 1 page summary document
-* [IETF Annual Report 2023](https://www.ietf.org/media/documents/ietf-annual-report-2023.pdf)
+* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2)
+* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
+* [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
 
 ## Outreach activities, done in the past
 
