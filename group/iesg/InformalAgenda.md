@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-07-02T16:57:54.831Z
+date: 2025-07-02T18:27:53.854Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -50,6 +50,11 @@ Note that this page is public.
 ### Management Issues
 
 - IESG Statements follow-up (versioning, marking historic)
+  - [Suggested actions based on retreat discussion](https://docs.google.com/document/d/1rpdDxyLDyZ65QbvQ77qVHz_WyNbbF8XeCSuP0mMeWYA/edit?usp=sharing)
+  - Slides from the retreat: [IESG Retreat: Outdated IESG Statements](https://drive.google.com/file/d/1sWAitjTsX4it8AraQ5YdVw_dlTb5G6BE/view)
+  - Ticket: [Add new status of "historic" for IESG Statements](https://github.com/ietf-tools/datatracker/issues/9022) - CLOSED (Done)
+  - Ticket: [Sort IESG and IAB Statements Pages with Active Statements at the Top](https://github.com/ietf-tools/datatracker/issues/9058) - OPEN
+  - Ticket: [Add "IESG Statements" and "IESG Appeals" as menu items to Document menu](https://github.com/ietf-tools/datatracker/issues/9020) - OPEN
 
 
 ### WG News 
