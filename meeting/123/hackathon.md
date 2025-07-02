@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-01T19:28:22.902Z
+date: 2025-07-02T12:53:26.712Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -777,6 +777,22 @@ https://datatracker.ietf.org/doc/draft-li-ppm-homomorphic-encryption/
 - **Repositories**
 TBA
 
+---
+
+### Packet processing tracer
+- **Champions**
+Ferenc Fejes (ferenc.fejes@ericsson.com)
+
+- **Project Info**
+tablesnoop is a real-time observability tool for Linux kernel table lookups. Using eBPF probes, it taps into the forwarding information base (FIB) for lookups and provides details about them. For example, it provides the source and destination addresses and the next-hop if the lookup was successful. At the moment, only IPv4 and IPv6 routing and rule lookups supported.
+
+- **Hackathon Tasks**
+1. Extend the tool with SRv6 network programming tracing (e.g.: End behaviors, cSID visualization)
+2. Improve compatibility with older Linux kernel versions, distros
+3. GitHub CI to build and publish static binary executable
+
+- **Repository**
+tablesnoop: https://github.com/EricssonResearch/tablesnoop
 
 ---
 
