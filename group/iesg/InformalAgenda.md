@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-07-01T16:05:40.690Z
+date: 2025-07-02T16:57:54.831Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,7 +40,7 @@ Note that this page is public.
 
 ### Administrivia
 
-- Review of retreat action items
+- Review of [retreat action items](https://docs.google.com/document/d/1h3skaePGSlYwDinzLu0xsXEkE47dsrBjzTpAKPo4vkw/edit?usp=sharing)
 - Plans for IEEE coordination after Madrid IETF Meeting?
 
 ### Document Discussions
