@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-07-03T14:00:59.981Z
+date: 2025-07-03T14:37:11.346Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -57,6 +57,7 @@ Note that this page is public.
   - Ticket: [Add "IESG Statements" and "IESG Appeals" as menu items to Document menu](https://github.com/ietf-tools/datatracker/issues/9020) - OPEN
 
 - (time allowing) should the IESG have a AMA for an AD job in the next IESG ?
+- SETTLE BoF? Should we responsd to Martin?
 
 ### WG News 
 
