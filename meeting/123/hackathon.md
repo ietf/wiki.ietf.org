@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-02T14:01:06.782Z
+date: 2025-07-03T12:40:19.116Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -292,12 +292,13 @@ Use the open-source CODEF framework to benchmark and compare the performance of 
 		Draft being proposed - [https://github.com/rute19104/ietf-bmwg-draft-2025-1](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
    - **Repository**
 		CODEF can be downloaded [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
-- **CODECO Background**
+- **Background on CODECO**
 	[CODECO Project Repository in GITLAB](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
 	[CODECO Project website](https://he-codeco.eu)
 	CODECO is an open source project. The code developed will be open source under the project and IETF rules.
 	You can develop in your own repository or in the hackathon repository enabled to this purpose: [Hackathon repository](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon). 
 	If you develop directly in the Hckathon repository or you upload the code to it, you will gain extra visibility and you will opt to [IRCEP Awards](https://he-codeco.eu/ircep/ircep-challenges/). In order to do it, you will need to [Register](https://accounts.eclipse.org/user/register?destination=/user/login) in the Eclipse Foundation, [log in](https://accounts.eclipse.org/) and sign the Eclipse Contributor Agreement.
+  For those interested on CODECO and looking for more information, please reach out to the coordinator Rute C. Sofia (sofia@fortiss.org)
 
   
  
