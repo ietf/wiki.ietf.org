@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-03T12:40:19.116Z
+date: 2025-07-03T15:23:02.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -799,6 +799,19 @@ tablesnoop is a real-time observability tool for Linux kernel table lookups. Usi
 
 - **Repository**
 tablesnoop: https://github.com/EricssonResearch/tablesnoop
+
+---
+
+### Public Interest Technology Group
+- **Champions**
+Gurshabad Grover <gurshabad@cis-india.org>
+
+- **Project Info**
+The Public Interest Technology Group (PITG) <https://pitg.network/> is a loosely organized group of individuals who self-identify as public-interest technologists, or are otherwise working on issues at the intersection of technology, rights and equity. 
+
+- **Hackathon Tasks**
+Details coming soon!
+
 
 ---
 
