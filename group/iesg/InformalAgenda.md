@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-07-03T14:37:11.346Z
+date: 2025-07-03T15:09:49.629Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -69,6 +69,7 @@ Note that this page is public.
 
 ### AOB
 
+- Couple of 123 agenda items/reminders (Liz)
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
