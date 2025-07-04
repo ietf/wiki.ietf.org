@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-03T15:23:02.761Z
+date: 2025-07-04T14:28:48.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -812,6 +812,50 @@ The Public Interest Technology Group (PITG) <https://pitg.network/> is a loosely
 - **Hackathon Tasks**
 Details coming soon!
 
+
+---
+
+### SIMap for Services provided over SRv6, relying on External Relationship models
+
+- **Champions**
+
+    - Sherif Mostafa (sherif.mostafa@huawei.com)
+    - Olga Havel (olga.havel@huawei.com)
+    - Vivekananda Boudia (vivekananda.boudia@insa-lyon.fr)
+    - Pierre Francois (pierre.francois@insa-lyon.fr)
+    - Oscar Gonzalez De Dios (oscar.gonzalezdedios@telefonica.com)
+    - Yannick Buchs (yannick.buchs@swisscom.com)
+    - Benoit Claise (benoit.claise@huawei.com)
+
+- **Project Info**
+
+    - The goal of this project is to demonstrate how operators can utilize IETF Topology YANG models to represent a real carrier IP/SRv6 network
+    - Using the IETF topology model to represent a carrier network based on BGP, SRV6, L3VPN, ISIS.
+    - Linking topological entities to external models/data using a templating approach.
+    - Evaluating whether RFC8345 is a suitable standard for representing multi-layered topologies for SIMap, and comparing models with and without the identified gaps.
+
+- **Specifications**
+
+    - https://www.rfc-editor.org/rfc/rfc8345
+    - https://www.rfc-editor.org/rfc/rfc8944
+    - https://www.rfc-editor.org/rfc/rfc8346
+    - https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
+    - https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
+    - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-concept
+    - https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map
+    - https://datatracker.ietf.org/doc/draft-davis-nmop-some-refinements-to-rfc8345
+    - https://datatracker.ietf.org/doc/rfc9130/
+    - https://datatracker.ietf.org/doc/rfc9129/
+
+- **Hackathon Plan**
+
+    - In IETF122 Hackathon, we demonstrated how RFC8345 could be used to model an SRv6 enabled IS-IS network in both physical and virtual LAB environments, showcasing how to link topology to external data (such as inventory and metrics data).
+    - The objective for this hackathon is to improve upon that prototype by building the POC of a SIMAP for a Layer 3 VPN service  provided in a SRv6 enabled core network
+    - Demonstrating use cases such as traversing queries and querying external data for topology entities.
+
+- **Related Groups**
+
+    - Network Management Operations (nmop) 
 
 ---
 
