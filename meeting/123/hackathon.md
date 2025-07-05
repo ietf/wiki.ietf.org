@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-04T14:28:48.919Z
+date: 2025-07-05T21:53:37.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -717,11 +717,18 @@ https://datatracker.ietf.org/doc/draft-ietf-detnet-controller-plane-framework/
 	- **Repositories**
    		- TBA
 - **Challenge 2: In-band Telemetry (INT) for DetNet**
-The main feature of deterministic solutions, such as DetNet, is precision in information delivery. However, how can we ensure the deployed solution meets the established timing constraints? In this challenge, we will work on a simulated environment to add timing information via INT to DetNet traffic. Based on an early implementation of INT, one of the goals will be fo develop a Wireshark dissector to visualize the information contained in the INT headers.
+5G and emerging 6G systems must make increasingly faster and more reliable decisions at the network edge. In industrial environments, determinism is one of the most critical connectivity requirements—the ability to deliver information at a precise moment in time (in-time) or within a strict delay bound (on-time). Deterministic communication not only constrains delivery latency, but also minimizes delay variation (jitter). In parallel, network reliability becomes essential to ensure uninterrupted service, particularly for mission-critical applications. Today, one of the leading proposals to support deterministic behavior at Layer 3 is defined by the IETF Deterministic Networking (DetNet) Working Group.
+At DESIRE-6G, we’ve built a DetNet-based transport network that integrates Packet Replication, Elimination, and Ordering Functions (PREOF) to enhance reliability while connecting a fully deterministic environment like PREDICT-6G with the DESIRE-6G domain. This implementation is designed for the precise delivery of information, but how can we measure whether the network is performing as expected? One promising approach is to apply In-band Network Telemetry (INT), a technique that enables real-time data plane monitoring by embedding telemetry information within packets.
+At Telefónica, we’ve been experimenting with this technology, and now we invite you to take part in the challenge:
+Can you design a Wireshark dissector for INT headers to help advance the state of deterministic networking and contribute to the open-source community?
+Join us and contribute to open networking innovation!
 	- **Related Documents**
-   		- TBA
+   		- In-band Network Telemetry (INT) Dataplane Specification Version 2.1: [PDF](https://p4.org/p4-spec/docs/INT_v2_1.pdf)
+      - Telemetry Report Format Specification Version 2.0: [PDF](https://p4.org/p4-spec/docs/telemetry_report_v2_0.pdf)
+      - Deterministic Networking Architecture: [RFC 8655](https://datatracker.ietf.org/doc/rfc8655/)
+      - Deterministic Networking (DetNet) Data Plane: [RFC 8964](https://datatracker.ietf.org/doc/rfc8964/)
 	- **Repositories**
-   		- TBA
+   		- https://gitlab.netcom.it.uc3m.es/desire6g/mainrepo/-/tree/main/ietf-hackathon-deterministic-networking
       
 ----
 ### RPKI Publication Server
