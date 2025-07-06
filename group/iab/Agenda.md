@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-02T21:49:44.539Z
+date: 2025-07-06T03:58:55.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -23,6 +23,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - Review / finalize IP Geo workshop call (Jason, etc)
 - [IAB response to WSIS+20 Stakeholder Consultation](https://docs.google.com/document/d/1MYZoReJGQLVW_Y3a6J1PrudmStDDNHuHtjojdW2QqpU/edit?tab=t.0) (Dhruv et al)
+- Schedule for IAB meetings at IETF 123
 
 ## Topics for Future Informal Meetings
 
