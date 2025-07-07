@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-07T13:22:42.261Z
+date: 2025-07-07T17:17:10.653Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -889,6 +889,24 @@ TBA
  
 ---
 
+### CBOR Support in libyang
+
+- **Champions**
+	- Remote : 
+    Siddharth Bhat (sidbhat.211ee151@nitk.edu.in)
+    Bharadwaja M. Chittapragada (meher.211cs216@nitk.edu.in)
+    Vartika T. Rao (vartikatrao.211it077@nitk.edu.in)
+    Hayyan Arshad (hayyanarshad.211cs222@nitk.edu.in)
+
+- **Project Info**
+
+  Our goal is to extend libyang, the widely used YANG data-modeling library written in C, by implementing full CBOR (Concise Binary Object Representation) support—both serialization and parsing—for YANG-modeled data.
+
+- **Related Issue**
+
+   https://github.com/CESNET/libyang/issues/2130 – feature request for CBOR support in data serializers 
+   
+---
 ```
 ----
 
