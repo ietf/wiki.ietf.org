@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-05T21:53:37.171Z
+date: 2025-07-07T06:15:39.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -864,6 +864,29 @@ Details coming soon!
 
     - Network Management Operations (nmop) 
 
+---
+
+### IPv6 Default Source Address Selection in Multihomed Envinronment.
+- **Champions**
+ 
+  David Lamparter, equinox@diac24.net
+  Jen Linkova, furry13@gmail.com
+
+- **Project Info**
+
+The goal is evaluate how different host operating systems behave in IPv6 multi-router multi-prefix network environments. We'll specifically test how hosts react to the addition and removal of routers and IPv6 prefixes on a link, focusing on their source address selection mechanism and overall adaptation to renumbering events and other topology changes.
+
+- **Testing Plan**
+TBA
+
+- **Reading List**
+ 
+    - https://datatracker.ietf.org/doc/rfc6724/
+    - https://datatracker.ietf.org/doc/rfc8978/
+    - https://datatracker.ietf.org/doc/draft-ietf-6man-rfc6724-update/
+    - https://datatracker.ietf.org/doc/draft-link-6man-gulla/
+    - https://datatracker.ietf.org/doc/draft-ietf-6man-slaac-renum/
+ 
 ---
 
 ```
