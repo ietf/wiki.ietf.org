@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-07T06:15:39.593Z
+date: 2025-07-07T11:24:16.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -253,7 +253,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
 		[GREEN](https://datatracker.ietf.org/doc/bofreq-palmero-getting-ready-for-energy-efficient-networking-green/) - Getting Ready for Energy-Efficient Networking
  
  	- **Specifications**
-		draft-sofia-ietf-green-energy-aware-diffserv 
+		[draft-sofia-ietf-green-energy-aware-diffserv](https://www.ietf.org/archive/id/draft-sofia-green-energy-aware-diffserv-00.html) 
 
  	- **Repositories**
 		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/acm](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/acm) - CODECO
