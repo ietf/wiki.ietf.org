@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-07T17:22:29.196Z
+date: 2025-07-07T17:44:21.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -906,6 +906,29 @@ TBA
 
    https://github.com/CESNET/libyang/issues/2130 – feature request for CBOR support in data serializers 
    
+---
+
+### Multipath TCP support in Linux apps
+- **Champions**
+  Matthieu Baerts (matttbe@kernel.org)
+
+- **Project Info**
+  Multipath TCP or MPTCP is an extension to the standard TCP and is described in RFC 8684. It allows a device to make use of multiple interfaces at once to send and receive TCP packets over a single MPTCP connection. MPTCP can aggregate the bandwidth of multiple interfaces or prefer the one with the lowest latency. It also allows a fail-over if one path is down, and the traffic is seamlessly reinjected on other paths.
+
+  Now that MPTCP is included in the Linux kernel, it is extremely easy to use it. Applications can support it natively (a "one line" modification), or can be forced. Some applications, mainly on the server side, even support it by default.
+
+  Fore more details, see the [mptcp.dev](https://www.mptcp.dev) website.
+
+- **Specifications**
+  - https://www.rfc-editor.org/rfc/rfc8684
+  
+- **Hackathon Plan**
+  Add native MPTCP support in more apps. On Linux, adding native MPTCP support should be limited to the modification of the `socket` syscall. More details [here](https://www.mptcp.dev/implementation.html).
+  Some applications already support MPTCP natively, see some [examples](https://www.mptcp.dev/apps.html). For some ideas, feel free to look at this [spreadsheet](https://docs.google.com/spreadsheets/d/1F2-v4Dhdn0rMyJZ3m5chyNiwg7oj0rpSR11GEykatJw/edit?gid=0#gid=0): Firefox, OpenSSH, Syncthing, OpenVPN, IPerf2, etc.
+  Other ideas:
+  - Add native support in some languages core net libraries, e.g. Python, Rust, etc.
+  - Improve some components, e.g. Path-Manager (better support the MP_CAPABLE C-flag), Packet Scheduler, socket options, etc.
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
