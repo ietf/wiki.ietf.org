@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-08T09:59:01.999Z
+date: 2025-07-08T13:06:18.094Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -854,6 +854,8 @@ Details coming soon!
     - https://datatracker.ietf.org/doc/draft-davis-nmop-some-refinements-to-rfc8345
     - https://datatracker.ietf.org/doc/rfc9130/
     - https://datatracker.ietf.org/doc/rfc9129/
+    - https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/
+    - https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/
 
 - **Hackathon Plan**
 
