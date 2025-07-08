@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-04T15:53:24.543Z
+date: 2025-07-08T03:43:54.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -25,6 +25,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 - Adoption of 4052bis and 4053bis
 - Followup from IGF and WSIS
 - IAB feedback and review for joint efforts (like age workshop)
+- Pending Item from Retreat: - Guidance for External (Non-IETF) Events ([issue](https://github.com/intarchboard/responsibilities/issues/53) & [Slide](https://docs.google.com/presentation/d/1lwq-UB5jKMKv8dFxkB1S-dmlyEbn_5C3HhOgg54efMc/edit?usp=sharing)) (Dhruv)
 
 
 ## Saturday, 2025-07-19
