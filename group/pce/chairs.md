@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-08T06:43:00.860Z
+date: 2025-07-08T06:43:48.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -17,6 +17,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 | WGLC | draft-ietf-pce-circuit-style-pcep-extensions | - | Authors requesting WGLC in parallel to spring draft |
 | WGLC | draft-ietf-pce-sr-p2mp-policy | - | Authors requesting WGLC |
 | Enhancing Wiki | - | Extension Map | Decide if it is worth expanding on the [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) |
+|WG Slides for 123|-|Dhruv|-|
 
 
 ## Initiated and ongoing Tasks
