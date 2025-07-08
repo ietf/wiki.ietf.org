@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-08T05:13:55.812Z
+date: 2025-07-08T09:59:01.999Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -952,6 +952,17 @@ Discussion and prototyping of the EESP protocol.
 https://datatracker.ietf.org/doc/draft-klassert-ipsecme-eesp/
 https://datatracker.ietf.org/doc/draft-klassert-ipsecme-eesp-ikev2/
 https://datatracker.ietf.org/doc/draft-xia-ipsecme-eesp-stateless-encryption/
+
+### RATS Endorsement Distribution to Verifiers with CoSERV
+- **Champions**
+Paul Howard (paul.howard@arm.com)
+Thomas Fossati (thomas.fossati@linaro.org)
+- **Project Info**
+Endorsements and Reference Values, defined in [RFC9334](https://www.ietf.org/rfc/rfc9334.html), are essential artifacts for attestation evidence appraisal. They can originate from various sources throughout the supply chain, including silicon manufacturers, hardware integrators, firmware providers, and software providers. Their distribution is influenced by technical, commercial, and even geopolitical factors. The potential consumers of these artifacts, referred to as “Verifiers” in RATS terms, include cloud-hosted verification services, local verifiers bundled with relying parties, constrained nodes, and endpoint devices. This acute diversity creates challenges for software integration and poses fragmentation risks. Aligning on data formats and APIs will help address these challenges and maximise software component reuse for data transactions between endpoints.
+This hackathon project will use components from the open-source [Veraison](https://github.com/veraison) project to demonstrate the use of CoSERV as the basis for a common endorsement distribution mechanism.
+
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-howard-rats-coserv/
 
 ----
 
