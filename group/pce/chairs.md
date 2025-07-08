@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-08T03:45:02.225Z
+date: 2025-07-08T06:43:00.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -16,14 +16,14 @@ dateCreated: 2023-03-07T11:17:56.126Z
 | Adoption | draft-dong-pce-pcep-nrp | - | Request from authors to prioritize |
 | WGLC | draft-ietf-pce-circuit-style-pcep-extensions | - | Authors requesting WGLC in parallel to spring draft |
 | WGLC | draft-ietf-pce-sr-p2mp-policy | - | Authors requesting WGLC |
-| Enhancing Wiki | - | Extension Map | [Miro Bpard](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) |
+| Enhancing Wiki | - | Extension Map | Decide if it is worth expanding on the [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) |
 
 
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Agenda for 123| - | Andrew | [draft agenda](https://notes.ietf.org/PCE-Agenda-IETF123) |
-| WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Still open|
+| WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open, one IPR missing|
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
 | Shephered Review and Writeup| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
