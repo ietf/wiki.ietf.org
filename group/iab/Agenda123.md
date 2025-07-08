@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-08T03:43:54.669Z
+date: 2025-07-08T18:37:12.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -19,8 +19,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
  
 
 ## Potential Topics
-- CCG Update (Russ, Barry, Tim) 
-- ICNRG Review 
+
 - IAB Appointments Policy (Cindy)
 - Adoption of 4052bis and 4053bis
 - Followup from IGF and WSIS
@@ -70,6 +69,10 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34520
 **0800-0920: IAB Business Meeting (El Jardín)**
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1004
 
+> Agenda:
+> 
+> 
+
 **1300-1430: EDM Program Meeting (El Jardín)**
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34524
 
@@ -84,6 +87,10 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34524
 
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1006
 
+> Agenda:
+> 
+> - ICNRG Review 
+> - CCG Update (Russ, Barry, Tim) 
 
 ## Friday, 2025-07-25
 
