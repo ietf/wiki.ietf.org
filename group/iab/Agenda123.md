@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-09T17:18:02.712Z
+date: 2025-07-09T17:18:33.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -53,7 +53,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 Joint agenda: https://wiki.ietf.org/group/iesg/UpcomingIETF
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 
 
