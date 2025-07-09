@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-09T13:53:58.326Z
+date: 2025-07-09T14:39:27.975Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -20,11 +20,8 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ## Potential Topics
 
-- IAB Appointments Policy (Cindy)
-- Adoption of 4052bis and 4053bis
-- Followup from IGF and WSIS
-- IAB feedback and review for joint efforts (like age workshop)
-- Pending Item from Retreat: - Guidance for External (Non-IETF) Events ([issue](https://github.com/intarchboard/responsibilities/issues/53) & [Slide](https://docs.google.com/presentation/d/1lwq-UB5jKMKv8dFxkB1S-dmlyEbn_5C3HhOgg54efMc/edit?usp=sharing)) (Dhruv)
+
+
 
 
 ## Saturday, 2025-07-19
@@ -41,7 +38,11 @@ Please join us at the Registration counter (Hospitality Hall, Main Floor). If yo
 
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
-
+> Agenda:
+> - Formal meeting
+> - IAB Appointments Policy (Cindy)
+> - Adoption of 4052bis and 4053bis
+> - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman)
 
 
 **1145-1215: IAB/IESG Lunch (El Escorial)**
@@ -73,6 +74,9 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1004
 > Agenda:
 > 
 > - ICNRG Review 
+>
+> - Meeting / work approach
+> - IAB feedback and review for joint efforts (like age workshop)
 
 **1300-1430: EDM Program Meeting (El Jardín)**
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34524
@@ -91,6 +95,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1006
 > Agenda:
 > 
 > - CCG Update (Russ, Barry, Tim) 
+> - Pending Item from Retreat: - Guidance for External (Non-IETF) Events ([issue](https://github.com/intarchboard/responsibilities/issues/53) & [Slide](https://docs.google.com/presentation/d/1lwq-UB5jKMKv8dFxkB1S-dmlyEbn_5C3HhOgg54efMc/edit?usp=sharing)) (Dhruv)
 
 ## Friday, 2025-07-25
 
