@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-07-09T13:51:58.854Z
+date: 2025-07-09T13:58:10.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -90,15 +90,16 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-bfd-10 (Matthew):
 - draft-ietf-bess-evpn-mvpn-seamless-interop-08 (Matthew): 
 - draft-ietf-bess-ebgp-dmz-06 (Matthew): 
+	- Expired, note sent to authors. 
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
   - the document has a lot of normative dependencies that are not ready yet
   - An outstanding comment from Jeffrey about inconsistent/inappropriate use of "ECMP"
   - Review requested to IDR chairs
   - RTGDIR and GENART review requested => comments addressed
-- draft-ietf-bess-mvpn-evpn-sr-p2mp-12 (Stephane):
 - draft-ietf-bess-rfc7432bis-12 (Jeffery):
 - draft-ietf-bess-evpn-dpath-02 (Jeffery):
 - draft-ietf-bess-evpn-geneve: (Matthew)
+	- expired. 
   - Moved to experimental now , Matthew to write up and move to next step (09/06)
 - draft-ietf-bess-vpls-multihoming (Matthew):
 - draft-ietf-bess-bgp-sdwan-usage (Matthew)
@@ -114,8 +115,6 @@ Shepherd's name indicated within parenthesis.
   - Luc Andre addressed RTGDIR comments
   - Hold on until we can assess that there is more support
 
-- draft-ietf-bess-evpn-ipvpn-interworking:
-  - Jeff Haas needs to do another top-to-bottom review of the draft
 
 
 ## Documents candidates for Working Group Last Call
@@ -123,21 +122,18 @@ Shepherd's name indicated within parenthesis.
 
 * draft-ietf-bess-evpn-ac-aware-bundling (Jeffrey)
   - Outstanding questions/comments from Jeffrey
-  - Action : Mankamana / Jeffery meeting during IETF 121 to discuss comments. 
-  - Expired, working on It. 
+  - Refreshed, plan to present in IETF 123 
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election
-	- RTGDIR review comments provided. Discussion is not closed yet.Draft update in progress.
-  - Mankamana meeting Acee during IETF 121 to discuss the comments provided 
   - Plan to have presented in IETF 123
   
 * draft-ietf-bess-extended-evpn-optimized-ir-06 
 	- RTGDIR and GENART review passed
+  - expired, note sent to authors. 
   
 * draft-ietf-bess-rfc7432bis
 	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
   - Draft being updated as of 11/2 
-  - Mankamana to check with Ali about if its ready. 
   - Matthew to review the draft 
   
 
@@ -150,6 +146,7 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-bgp-multicast
   - GenArt and RtgDir early review passed ( revision -07)
   - Susan comment has been addressed, waiting for her comment. 
+  - Expired 
 
 * draft-ietf-bess-evpn-mvpn-seamless-interop
   - Ready for WGLC 
@@ -157,10 +154,6 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-evpn-bfd
   - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
   - early review to be started 
- * draft-ietf-bess-mvpn-evpn-sr-p2mp-09 
-   - Early review requested 
-* draft-ietf-bess-evpn-vpws-seamless-01
-
   
 ## Recently adopted documents
 * draft-ietf-bess-evpn-fast-reroute-00
