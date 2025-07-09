@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2024-07-25T16:10:36.495Z
+date: 2025-07-09T18:50:25.119Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -10,11 +10,22 @@ dateCreated: 2024-06-28T10:06:07.006Z
 
 # New Work "Help Desk"
 
-Please put your name in this table to sign up for a slots. The goal is to 2-3 IAB members commited for each slot.
+Please put your name in this list to sign up for a slots. The goal is to 2-3 IAB members commited for each slot. We can then remove the slots that do not have any takers. 
 
-|           | Monday            | Thursday         | 
-| --        | ---               | ----             |
-|Session II | **13:00-15:15** <br> Mirja , Suresh | **iabopen**     |
-|Session III| **15:15-17:15** <br> ---   | **14:30-16:45** <br> Matthew | 
-|Session IV | **17:15-18:30** <br> (Tommy), (Suresh), Roman/1735-1830 |**16:45-18:15** <br> Tommy, Dhruv, Suresh  |
-|Session  V | **N/A**      	   | **18:15-19:30** <br> Mirja, (Dhruv) |
+
+## Monday
+Beverage Break, **11:30-12:30**
+- Mirja
+- Dhruv
+
+## Tuesday
+Beverage Break, **11:00-12:00**
+- xx
+
+## Wednesday
+Beverage Break, **15:30-16:30**
+- xx
+
+## Thursday
+Beverage Break, **11:30-12:30**
+- xx
