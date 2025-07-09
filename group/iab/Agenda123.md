@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-09T17:18:33.957Z
+date: 2025-07-09T20:33:38.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -77,7 +77,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1004
 > 
 > - ICNRG Review 
 >
-> - Meeting / work approach
+> - Meeting / work approach (full calls, informal meetings, committees, voting mechanism)
 > - IAB feedback and review for joint efforts (like age workshop)
 
 **1300-1430: EDM Program Meeting (El Jardín)**
