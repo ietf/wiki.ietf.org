@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T18:53:12.843Z
+date: 2025-07-09T18:54:57.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1016,7 +1016,7 @@ https://github.com/rtrlib/rtrlib
 
 ----
 
-### Multipath Traffic Engineering
+### Multipath Traffic Engineering (MPTE)
 
 - **Champions**
 
