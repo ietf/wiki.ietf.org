@@ -2,15 +2,15 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-09T09:41:45.580Z
+date: 2025-07-09T16:32:28.753Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-07-09, 14:00-15:00 UTC)
+# IAB Informal Meeting Agenda: 2025-08-06, 21:00-22:00 UTC)
 
-## There WILL be a meeting on 2025-07-09
+## There WILL NOT be a meeting on 2025-08-06
 
 ## Details
 
@@ -21,11 +21,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-- Review / finalize IP Geo workshop call (Jason, etc)
-- [IAB response to WSIS+20 Stakeholder Consultation](https://docs.google.com/document/d/1MYZoReJGQLVW_Y3a6J1PrudmStDDNHuHtjojdW2QqpU/edit?tab=t.0) (Dhruv et al)
-- [Schedule for IAB meetings at IETF 123](https://wiki.ietf.org/group/iab/Agenda123)
-- [BOF coverage](https://wiki.ietf.org/group/iab/Bof123) at IETF 123
-- Our working practices / decision policy (Mark)
+
 
 ## Topics for Future Informal Meetings
 
