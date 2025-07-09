@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-09T16:33:03.843Z
+date: 2025-07-09T16:33:41.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,7 +28,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - DATE: TOPIC
 
 
-## Upcoming IAB Business Meetings
+## Upcoming Formal IAB Business Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
