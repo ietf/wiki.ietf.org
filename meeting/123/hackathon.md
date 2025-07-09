@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T18:51:31.344Z
+date: 2025-07-09T18:53:12.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1024,7 +1024,7 @@ https://github.com/rtrlib/rtrlib
     - Vishnu Pavan Beeram (vbeeram@juniper.net)
 
 - **Project Info**
-Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that combines TE with Equal/Unequal-Cost Multipath (ECMP/UCMP) load-balancing. The notions of Multipath Traffic Engineering (MPTE) and of an MPTE Directed Acyclic Graph (MPTED) tunnel are introduced in [I-D.draft-kompella-teas-mpte].  An MPTED tunnel is a Traffic Engineering (TE) construct that contains a constrained set of paths representing an optimized Directed Acyclic Graph (DAG) from one or more ingresses to one or more egresses.  The paths that make up an MPTED tunnel traverse a set of junction nodes, and the state associated with the MPTED at each junction node constitutes a set of previous-hops and a set of next-hops over which traffic is load-balanced in a weighted fashion.  Provisioning an MPTED tunnel in a TE network using a signaling protocol involves provisioning control and forwarding plane state at each junction node. An MPTED tunnel may be realized over a Multiprotocol Label Switching (MPLS) forwarding plane or a native Internet Protocol (IP) v4/v6 forwarding plane using an appropriate tunnel type.  Depending on the deployment needs, a centralized or a distributed approach MAY be adopted for provisioning an MPTED tunnel.
+Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that combines TE with Equal/Unequal-Cost Multipath (ECMP/UCMP) load-balancing. The notions of Multipath Traffic Engineering (MPTE) and of an MPTE Directed Acyclic Graph (MPTED) tunnel are introduced in [draft-kompella-teas-mpte].  An MPTED tunnel is a Traffic Engineering (TE) construct that contains a constrained set of paths representing an optimized Directed Acyclic Graph (DAG) from one or more ingresses to one or more egresses.  The paths that make up an MPTED tunnel traverse a set of junction nodes, and the state associated with the MPTED at each junction node constitutes a set of previous-hops and a set of next-hops over which traffic is load-balanced in a weighted fashion.  Provisioning an MPTED tunnel in a TE network using a signaling protocol involves provisioning control and forwarding plane state at each junction node. An MPTED tunnel may be realized over a Multiprotocol Label Switching (MPLS) forwarding plane or a native Internet Protocol (IP) v4/v6 forwarding plane using an appropriate tunnel type.  Depending on the deployment needs, a centralized or a distributed approach MAY be adopted for provisioning an MPTED tunnel.
 
 	- Hackathon Goals:
     	- Evaluate the unique characteristics of MPTED tunnels (multiple ingresses, multiple egresses, largely pinned DAG shape, handling resource failures and congestion events)
