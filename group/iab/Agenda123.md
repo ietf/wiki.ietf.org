@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-09T16:15:58.767Z
+date: 2025-07-09T17:18:02.712Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -40,11 +40,11 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 > Agenda:
 > - Formal meeting
-> - IAB Appointments Policy (Cindy)
+> - [IAB Appointments Policy](https://docs.google.com/presentation/d/1AlMuzdXtI77XpiU_azppC_JU-CNXFdajbFJUgFEhT3c/edit?usp=sharing) (Cindy)
 > - Adoption of 4052bis and 4053bis
 > - Nemops report
 > - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman)
-> - WSIS Elements Paper input
+> - [WSIS Elements Paper input](https://docs.google.com/document/d/1MYZoReJGQLVW_Y3a6J1PrudmStDDNHuHtjojdW2QqpU/edit?usp=sharing)
 
 
 **1145-1215: IAB/IESG Lunch (El Escorial)**
