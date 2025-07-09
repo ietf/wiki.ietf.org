@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-09T16:32:28.753Z
+date: 2025-07-09T16:33:03.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -14,7 +14,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mfd1b0522a8e563a647d9095c686ee41a
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
 
 ## Agenda
 
