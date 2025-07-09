@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-09T13:53:02.408Z
+date: 2025-07-09T13:53:58.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -31,7 +31,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 **16:30-18:00: AMS-IETF Leadership Venue Tour + Happy Hour**
 
-Please join us at the Registration counter. If you are only joining for the happy hour, we will be in L'albufera (the hotel restaurant) by 16:50.
+Please join us at the Registration counter (Hospitality Hall, Main Floor). If you are only joining for the happy hour, we will be in L'albufera (the hotel restaurant) by 16:50.
 
 
 
