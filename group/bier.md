@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-03-08T07:59:42.662Z
+date: 2025-07-09T08:31:37.898Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -79,7 +79,7 @@ This page will be updated with more details as we figure things out.
 | draft                       | WG<br>status                            | WGLC in<br> related<br> WGs | All Normative<br> References<br> sent to<br> IESG | shepherd<br> assigned | shepherd<br>  review<br> done | DIR early<br> review done,<br> if needed | DIR LC<br>  review<br> done | AD early<br> review<br> done | sent to<br>  IESG | notes |
 |-----------------------------|-----------------------------------------|-----------------------------|---------------------------------------------------|-----------------------|-------------------------------|------------------------------------------|-----------------------------|------------------------------|-------------------|-------|
 | draft-ietf-bier-frr         | Submitted to IESG for Publication       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |       |
-|draft-ietf-bier-oam-requirements| WG Consensus: Waiting for Write-Up   | N/A  | Yes | Yes | Not yet | N/A | Yes | Not yet | Not yet |       |
+|draft-ietf-bier-oam-requirements| WG Consensus: Waiting for Write-Up   | N/A  | Yes | Yes | Yes | N/A | Yes | Not yet | Not yet |       |
 |draft-ietf-bier-ospfv3-extensions|Revised I-D Needed - Issue raised by AD| LSR WG? | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |       |
 |draft-ietf-bier-lsr-non-mpls-extensions| WG Consensus: Waiting for Write-Up|Sent to LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-tether      | Revised I-D Needed - Issue raised by AD | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |       |
