@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-09T18:50:25.119Z
+date: 2025-07-09T18:51:35.369Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -28,4 +28,4 @@ Beverage Break, **15:30-16:30**
 
 ## Thursday
 Beverage Break, **11:30-12:30**
-- xx
+- Dhruv
