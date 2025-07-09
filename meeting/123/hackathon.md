@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T08:46:50.250Z
+date: 2025-07-09T18:51:31.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1015,6 +1015,36 @@ In [RTRlib](github.com/rtrlib/rtrlib) an outdated version of the ASPA draft is i
 https://github.com/rtrlib/rtrlib
 
 ----
+
+### Multipath Traffic Engineering
+
+- **Champions**
+
+    - Kireeti Kompella (kireeti.ietf@gmail.com)
+    - Vishnu Pavan Beeram (vbeeram@juniper.net)
+
+- **Project Info**
+Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that combines TE with Equal/Unequal-Cost Multipath (ECMP/UCMP) load-balancing. The notions of Multipath Traffic Engineering (MPTE) and of an MPTE Directed Acyclic Graph (MPTED) tunnel are introduced in [I-D.draft-kompella-teas-mpte].  An MPTED tunnel is a Traffic Engineering (TE) construct that contains a constrained set of paths representing an optimized Directed Acyclic Graph (DAG) from one or more ingresses to one or more egresses.  The paths that make up an MPTED tunnel traverse a set of junction nodes, and the state associated with the MPTED at each junction node constitutes a set of previous-hops and a set of next-hops over which traffic is load-balanced in a weighted fashion.  Provisioning an MPTED tunnel in a TE network using a signaling protocol involves provisioning control and forwarding plane state at each junction node. An MPTED tunnel may be realized over a Multiprotocol Label Switching (MPLS) forwarding plane or a native Internet Protocol (IP) v4/v6 forwarding plane using an appropriate tunnel type.  Depending on the deployment needs, a centralized or a distributed approach MAY be adopted for provisioning an MPTED tunnel.
+
+	- Hackathon Goals:
+    	- Evaluate the unique characteristics of MPTED tunnels (multiple ingresses, multiple egresses, largely pinned DAG shape, handling resource failures and congestion events)
+    	- Evaluate the requirements of the signaling protocol.
+    	- Evaluate RSVP signaling procedures and sequences in detail.
+    	- Evaluate PCEP signaling procedures.
+    	- Evaluate MPTED data model for managing MPTED tunnels and junctions (config/state).
+    	- Evaluate different tunnel types (traditional/shared MPLS forwarding plane, Native v4/v6)
+
+
+- **Specifications**
+
+  - https://datatracker.ietf.org/doc/draft/draft-kompella-teas-mpte/01/
+  - https://datatracker.ietf.org/doc/draft-kompella-lsr-mptecap/00/
+  - https://datatracker.ietf.org/doc/draft-kbr-teas-mptersvp/01/
+  - https://datatracker.ietf.org/doc/draft-beeram-pce-pcep-mpted/00/
+  - https://datatracker.ietf.org/doc/draft-beeram-teas-yang-mpted/00/
+  - https://datatracker.ietf.org/doc/draft-stone-spring-mpte-sr/00/
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
