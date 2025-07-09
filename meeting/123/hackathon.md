@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T07:53:50.722Z
+date: 2025-07-09T08:46:50.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -992,6 +992,27 @@ https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
 - **Repository**
 https://github.com/nttcom/pola
 https://github.com/watal/gobgp/tree/feature/bgp-ls-service-segments
+
+### Updating the ASPA Implementation Inside RTRlib and Performing ASPA Inter-Op Testing
+
+- **Champions**
+Matthias Bräuer matthias.brauer@haw-hamburg.de
+Tassilo Tanneberger tassilo.tanneberger@tu-dresden.de
+Matthias Wählisch m.waehlisch@tu-dresden.de
+Thomas Schmidt t.schmidt@haw-hamburg.de
+
+- **Project Info**
+ASPA (Autonomous System Provider Authorization) is a new protocol inside the sidrops working group that enables routers to detect route leaks inside the AS_PATH of incoming BGP announcements. This gives routers the capability of dropping those faulty BGP announcements, therefore reducing the blast radius of route leaks.
+
+- **Hackathon Plan**
+In [RTRlib](github.com/rtrlib/rtrlib) an outdated version of the ASPA draft is implemented. We want to update this implementation to the current version of the draft. Thereafter we plan to perform inter-operatbility testing of RTRlib with different RPKI cache servers such as [Routinator](https://github.com/NLnetLabs/routinator).
+
+- **Related Documents**
+[draft-ietf-sidrops-aspa-verification-22](https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/22/)
+[draft-ietf-sidrops-8210bis-21](https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/21/)
+
+- **Repository**
+https://github.com/rtrlib/rtrlib
 
 ----
 
