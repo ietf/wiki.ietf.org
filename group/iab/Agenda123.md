@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-09T14:39:27.975Z
+date: 2025-07-09T14:40:28.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -42,6 +42,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 > - Formal meeting
 > - IAB Appointments Policy (Cindy)
 > - Adoption of 4052bis and 4053bis
+> - Nemops report
 > - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman)
 
 
