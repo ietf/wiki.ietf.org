@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T18:55:28.792Z
+date: 2025-07-09T20:18:47.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1044,6 +1044,38 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - https://datatracker.ietf.org/doc/draft-beeram-teas-yang-mpted/00/
   - https://datatracker.ietf.org/doc/draft-stone-spring-mpte-sr/00/
 
+---
+
+### KIRA – Scalable Zero-Touch Routing for Control Planes
+- **Champions**
+  - Roland Bless (roland.bless@kit.edu)
+- **Project Info**
+  - KIRA is a scalable zero-touch routing architecture that provides IPv6 connectivity without any configuration for hundreds of thousands of nodes. It is ID-based and also works well in fixed networks, data center networks, mobile ad-hoc networks, and LEO satellite networks. The prototypical implementation is written in Rust.
+
+  - More info https://s.kit.edu/KIRA
+
+- **Draft Specifications**
+  - Internet Draft: https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+
+- **Side Meeting**
+  - Wednesday, 23rd, 16:00–17:00h, Room Segovia, [see Sidemeetings](https://trello.com/c/NeYUtS5O)
+
+- **Hackathon Plan**
+  - Testing and debugging KIRA with NEST
+  - Use wire format as defined in https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+  - Wireshark Dissector
+
+- **Technologies**
+  - [Rust](https://www.rust-lang.org/)
+  - IPv6
+  - Linux
+  - [NEST](https://nest.nitk.ac.in/#/) / [ContainerNet](https://github.com/containernet/containernet)
+
+- **Source Code Repository**
+  - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
+  - Github Repository is in preparation
+
+  
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
