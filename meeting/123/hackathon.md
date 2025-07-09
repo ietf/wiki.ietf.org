@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T01:24:48.690Z
+date: 2025-07-09T07:53:50.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -977,6 +977,21 @@ The [AIPREF working group](https://datatracker.ietf.org/wg/aipref/about/) is wor
 https://datatracker.ietf.org/doc/html/draft-ietf-aipref-vocab
 https://datatracker.ietf.org/doc/html/draft-ietf-aipref-attach
 
+### SRv6 SFC Architecture with SR-aware Functions
+- **Champions**
+Wataru Mishima (w.mishima@ntt.com)
+Yuta Fukagawa (y.fukagawa@ntt.com)
+
+- **Project Info**
+Implement each component of Chapter 4 "Overview of Architecture" in "draft-watal-spring-srv6-sfc-sr-aware-functions" to achieve comprehensive management of SRv6 SFC.
+
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/02/
+https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
+
+- **Repository**
+https://github.com/nttcom/pola
+https://github.com/watal/gobgp/tree/feature/bgp-ls-service-segments
 
 ----
 
