@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-08T21:11:09.784Z
+date: 2025-07-09T09:41:45.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,6 +25,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - [IAB response to WSIS+20 Stakeholder Consultation](https://docs.google.com/document/d/1MYZoReJGQLVW_Y3a6J1PrudmStDDNHuHtjojdW2QqpU/edit?tab=t.0) (Dhruv et al)
 - [Schedule for IAB meetings at IETF 123](https://wiki.ietf.org/group/iab/Agenda123)
 - [BOF coverage](https://wiki.ietf.org/group/iab/Bof123) at IETF 123
+- Our working practices / decision policy (Mark)
 
 ## Topics for Future Informal Meetings
 
