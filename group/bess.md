@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-06-25T00:13:29.015Z
+date: 2025-07-09T13:51:58.854Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -59,33 +59,30 @@ This section lists actions other than document updates
 | --- | --- | --- | --- | --- | --- | --- |
 
 
-|draft-ietf-bess-evpn-ipvpn-interworking] |07/03/19|Allocated|07/05/19||05/26/20|07/08/21|
+|draft-ietf-bess-evpn-ipvpn-interworking] |07/03/19|Allocated|07/05/19||06/06/25|07/08/26|
 {.dense}
 
 
 ## Latest RFCs
-
-* RFC 9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering
-* RFC 9744 EVPN Virtual Private Wire Service (VPWS) Flexible Cross-Connect (FXC) Service
 * RFC 9721 Extended Mobility Procedures for Ethernet VPN Integrated Routing and Bridging (EVPN-IRB)
 * RFC 9722 Fast Recovery for EVPN Designated Forwarder Election
+* RFC 9784 Virtual Ethernet Segments for EVPN and Provider Backbone Bridge EVPN
+* RFC 9785 Preference-Based EVPN Designated Forwarder (DF) Election
+* RFC 9786 EVPN Port-Active Redundancy Mode
+
+
 
 
 ## Documents in RFC editor queue
 
-* draft-ietf-bess-evpn-pref-df-13
-* draft-ietf-bess-evpn-virtual-eth-segment-19 
-* draft-ietf-bess-evpn-mh-pa-13 
 * draft-ietf-bess-bgp-srv6-args-10
 * draft-ietf-bess-evpn-redundant-mcast-source-15
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
-* draft-ietf-bess-vpls-multihoming (Matthew):
-* draft-ietf-bess-bgp-sdwan-usage (Matthew)
-	- Telechat on 2/29
-  - park it for now (09/06)
+
 * draft-ietf-bess-evpn-ipvpn-interworking-14
+* draft-ietf-bess-mvpn-evpn-sr-p2mp-14
 
 
 ## Documents under Shepherds Review
@@ -103,6 +100,10 @@ Shepherd's name indicated within parenthesis.
 - draft-ietf-bess-evpn-dpath-02 (Jeffery):
 - draft-ietf-bess-evpn-geneve: (Matthew)
   - Moved to experimental now , Matthew to write up and move to next step (09/06)
+- draft-ietf-bess-vpls-multihoming (Matthew):
+- draft-ietf-bess-bgp-sdwan-usage (Matthew)
+	- Telechat on 2/29
+  - park it for now (09/06)
 
 
 ## Documents that failed Working Group Last Call 
