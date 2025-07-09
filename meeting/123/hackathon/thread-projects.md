@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-04-16T16:17:32.079Z
+date: 2025-07-09T10:06:16.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T16:17:32.079Z
@@ -15,7 +15,7 @@ To avoid taking up too much space on the [main Hackathon page](/meeting/123/hack
 ### Low-Power Wireless IPv6 Networking with Thread *
 
 - **Champion**
-Stuart Cheshire &lt;cheshire@apple.com&gt;
+François Michel (Apple)
 
 - **Thread Overview**
 
@@ -29,6 +29,7 @@ For communication among Thread Hackathon participants, particularly remote parti
 - **Participants**
 Stuart Cheshire (Apple)
 Ted Lemon (Apple)
+François Michel (Apple)
 
 - **Project Info**
 
