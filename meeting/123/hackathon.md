@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T12:24:41.244Z
+date: 2025-07-10T12:34:37.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -737,20 +737,19 @@ Join us and contribute to open networking innovation!
    		- https://gitlab.netcom.it.uc3m.es/desire6g/mainrepo/-/tree/main/ietf-hackathon-deterministic-networking
       
 ----
-### RPKI Publication Server
-
+### Improving RPKI Repository Efficiency and Practices
 - **Champions**
-Taiji Kimura (taiji-k@nic.ad.jp)
-Wataru "Alt" Ohgai (alt@nic.ad.jp)
-
+  - Taiji Kimura (taiji-k@nic.ad.jp)
+  - Wataru Ohgai (alt@nic.ad.jp)
 - **Project Info**
-TBA
+This project focuses on improving the efficiency and operational understanding of RPKI repositories, particularly in the context of RRDP (RPKI Repository Delta Protocol) object delivery.<br>
+First, we will analyze access logs from RRDP servers to determine the actual download patterns of clients—how often they download `snapshot.xml` versus `delta.xml`. This analysis will help us assess the optimal number of delta files to retain in the repository in order to avoid unnecessary snapshot downloads, leading to more efficient bandwidth use and client synchronization.
+Second, we will conduct a comparative study of RPKI repositories operated by other organizations. This includes inspecting the number of deltas and snapshots retained, repository structure, and consistency of RRDP behavior. The goal is to identify common practices and variations across implementations, which will inform operational recommendations.<br>
+Together, these efforts aim to support better-informed design and operation of RRDP-based RPKI repositories by offering both empirical data and tooling.
 
 - **Related Documents**
-TBA
-
-- **Repositories**
-TBA
+https://datatracker.ietf.org/doc/html/rfc8182
+https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
 
 ----
 ### LLM Driven Automated Network Protocol Testing
