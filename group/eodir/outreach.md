@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-07-10T16:59:45.620Z
+date: 2025-07-10T17:06:50.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -101,8 +101,6 @@ This table collects the various IETF outreach activities done by individuals to 
 |May 2018|[AIS Hackathon](https://hackathon.internetsummitafrica.org/doku.php?id=hackathon2018)|Africa|all levels|Charles Eckel|Combination of tutuorial and hackathon focused on IETF technologies|
 |Feb 2018|[NANOG72](https://pc.nanog.org/static/published/meetings/NANOG72/agenda.html)|Network Operators in North America|full participation|Warren Kumari|[Operators and the IETF](https://pc.nanog.org/static/published/meetings/NANOG72/1616/20180220_Howard_Operators_And_The_v1.pdf)|
 |Nov 2013|University Outreach Programme around IETF 87|Students|full participation|ISOC|[Link](https://www.ietf.org/blog/piloting-university-outreach-programme/)
-
-
 *This is a non-exhaustive list, please feel free to add more*
 
 ## Help with Outreach
@@ -121,6 +119,7 @@ This table list IETFers that can potentially help for specific events and commun
 |DNS|ICANN|David Lawrence, Wes Hardaker, Warren Kumari, Daniel Migault|
 |DNS|DNS-OARC|Shumon Huque, Wes Hardaker, Warren Kumari|
 |Civil Society|-|Mallory Knodel, Avri Doria| 
+*This is a non-exhaustive list, please feel free to add more*
 
 For liaison and appointments, refer [here](https://www.ietf.org/about/liaisons/). 
 
