@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-07-10T16:17:06.188Z
+date: 2025-07-10T16:59:45.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -56,7 +56,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |June 2025|[IGF 2025](https://www.igf2025.no/)|Internet Governance|Knowledge sharing, Support|Roman, Dirk, Dhruv, Mirja, Warren, Suresh, Mark, Colin, Mirjam|[Blog](https://www.ietf.org/blog/experiences-igf-2025/)| 
 |May 2025|[INNOG](https://innog.net/)|Operators, Regulators, Govt|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1rN1No1Md2OQbuqexnY0Z_PNN9YUCYOsCsKmwRVNy9rA/edit?usp=sharing)| 
 |May 2025|IETF deep-dive training in China|Regional|Participants|Jianking, Qin, Barry, Pete, Dirk, Georgios|-|
-|March 2O25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv |In Armenia, and then in Tajikistan|
+|March 2O25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv as SRv6OPS co-chair|In Armenia, and then in Tajikistan|
 |March 2025|[RADIUS Conference](https://radiusconference.org)|Operators | Participants | Alan DeKok | [Slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-radext-radius-conference-report-00)
 |March 2025|[TIOF](https://docs.theiofoundation.org/activities/current-season/season-2025/03-march/tiof-training-bytes-2025-03)|Regional, Students|Participants|Jean||
 |March 2025|[Connections2025](https://connections.iiesoc.in/)|Regional|Participants|Dhruv,Ketan|[Slides](https://www.connections.iiesoc.in/abstract)|
@@ -105,8 +105,24 @@ This table collects the various IETF outreach activities done by individuals to 
 
 *This is a non-exhaustive list, please feel free to add more*
 
-## Outreach Volunteers
+## Help with Outreach
+
+This table list IETFers that can potentially help for specific events and communities. 
+
+|Community|Events|IETFers that can potentially help|
+|---|---|---|
+|Operators|APRICOT/APNIC|Dhruv Dhody|
+|Operators|NANOG|Yingzhen Qu, Zhaohui (Jeffrey) Zhang|
+|Operators|RIPE|Mirjam Kühne|
+|Operators|LACNIC|Alvaro Retana|
+|Operators|MANRS|Nick Hilliard, Melchior Aelmans|
+|Operators|AutoCon|Mahesh Jethanandani|
+|Operators|NOGs|Reaching out to local IETFers, ISOC local chapters|
+|DNS|ICANN|David Lawrence, Wes Hardaker, Warren Kumari, Daniel Migault|
+|DNS|DNS-OARC|Shumon Huque, Wes Hardaker, Warren Kumari|
+|Civil Society|-|Mallory Knodel, Avri Doria| 
+
+For liaison and appointments, refer [here](https://www.ietf.org/about/liaisons/). 
 
 Reach out to the EODIR mailing list if you need help with an outreach activity. You can also reach out to [Dhruv](mailto:dhruv.ietf@gmail.com) directly. 
-
 
