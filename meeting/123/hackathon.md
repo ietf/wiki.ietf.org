@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T04:49:17.030Z
+date: 2025-07-10T08:37:45.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -267,7 +267,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
 	- **Champions**
 		Luis Contreras (luismiguel.contrerasmurillo@telefonica.com)
 		Alberto del Río (arp@gatv.ssr.upm.es)
-   	Dalal Ali (ali@fortiss.org)
+   	Alejandro Muñiz (alejandro.muniz@telefonica.com)
 	- **Related WG**
 	 [CATS](https://datatracker.ietf.org/wg/cats/about/) - Computing-Aware Traffic Steering 
  	- **Specifications - Drafts**
