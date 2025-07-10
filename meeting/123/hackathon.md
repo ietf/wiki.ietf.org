@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T10:39:14.391Z
+date: 2025-07-10T12:24:41.244Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -255,7 +255,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
  	- **Specifications**
 		[draft-sofia-ietf-green-energy-aware-diffserv](https://www.ietf.org/archive/id/draft-sofia-green-energy-aware-diffserv-00.html) 
 
- 	- **Repository**
+ 	- **Repository and Instructions**
 		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-GREEN](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-1)
     
 
@@ -276,7 +276,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
 	 [CATS](https://datatracker.ietf.org/wg/cats/about/) - Computing-Aware Traffic Steering 
  	- **Specifications - Drafts**
 		[draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
- 	- **Repository**
+ 	- **Repository and Instructions**
 		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-CATS](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-2/codeco-cats)
 
 - **Challenge 3: Benchmarking Network-aware Edge-Cloud Orchestration with CODEF**
@@ -294,7 +294,7 @@ Use the open-source CODEF framework to benchmark and compare the performance of 
 	 [BMWG](https://datatracker.ietf.org/group/bmwg/about/) - Benchmarking Methodology 
   - **Specifications**
 		Draft being proposed - [https://github.com/rute19104/ietf-bmwg-draft-2025-1](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
-   - **Repository**
+   - **Repository and Instructions**
 		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-3](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-3)
     CODEF can be downloaded [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
 - **Background on CODECO**
