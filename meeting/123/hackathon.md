@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-09T20:20:35.673Z
+date: 2025-07-10T04:06:00.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -966,7 +966,7 @@ This hackathon project will use components from the open-source [Veraison](https
 - **Specifications**
 https://datatracker.ietf.org/doc/draft-howard-rats-coserv/
 
-### Your Project
+### AI Preferences
 - **Champions**
 Martin Thomson (<mt@lowentropy.net>)
 
