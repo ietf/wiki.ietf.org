@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T10:17:37.710Z
+date: 2025-07-10T10:39:14.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -264,6 +264,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
   CODECO collects real-time infrastructure metrics -such as CPU , memory usage, latency, and network congestion— from its ACM and NetMA components and aggregates them via the PDLC-CA module into node and cluster scores. These scores are then used to inform microservice placement and potential workload redirection decisions, consistent with CATS principles. 
   The aim is to adapt the current approach to provide scores from PDLC and PDLC-CA to NetMA which may assist in Path ranking and selection based on dynamic network latency and congestion data. 
   This design supports the CATS use case of service instance selection and path steering based on combined compute and network metrics, helping optimize service experience in distributed, heterogeneous edge environments. 
+  Setup instructions [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-2/codeco-cats/-/blob/main/Installing_the_CODECO_VM__Extracting_Metrics__and_Building_a_Three-Level_Metrics_Management_.pdf).
 	- **Champions**
 		Luis Contreras (luismiguel.contrerasmurillo@telefonica.com)
 		Alberto del Río (arp@gatv.ssr.upm.es)
