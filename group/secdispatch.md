@@ -49,6 +49,8 @@ Note that precedence in the meeting will be given to documents that have demonst
 ## Preparing your slides
 When preparing your slides, try to include point 1 to 7 above. The presentation should cover motivation, background and hoped dispatching outcome (see above).
 
+Please consider using the SecDispatch template ([.odp](secdispatch/secdispatch-template.odp) or [.pptx](secdispatch/secdispatch-template.pptx) formats available) to build your slide deck.
+
 We suggest the slides to be clear and concise: the discussion after the presentation is often more interesting both for the presenters and for us chairs to gauge interest and dispatch the work successfully. An ideal split for a 20 min slot would be 10 min presentation + 10 min discussion. In general, if possible, try to keep more than half time for discussion. People in the working group are expected to have read the draft before the meeting.
 
 Please remember to put page numbers on your slides!
