@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-07-10T16:16:33.066Z
+date: 2025-07-10T16:17:06.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -55,7 +55,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |July 2025|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
 |June 2025|[IGF 2025](https://www.igf2025.no/)|Internet Governance|Knowledge sharing, Support|Roman, Dirk, Dhruv, Mirja, Warren, Suresh, Mark, Colin, Mirjam|[Blog](https://www.ietf.org/blog/experiences-igf-2025/)| 
 |May 2025|[INNOG](https://innog.net/)|Operators, Regulators, Govt|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1rN1No1Md2OQbuqexnY0Z_PNN9YUCYOsCsKmwRVNy9rA/edit?usp=sharing)| 
-|May 2025|IETF deep-dive training in China|Mixed|Participants|Jianking, Qin, Barry, Pete, Dirk, Georgios|-|
+|May 2025|IETF deep-dive training in China|Regional|Participants|Jianking, Qin, Barry, Pete, Dirk, Georgios|-|
 |March 2O25|[Future for Connectivity](https://darpass.com/event/future-of-connectivity-conference/)|State bodies, regulators, industry|Knowledge sharing| Dhruv |In Armenia, and then in Tajikistan|
 |March 2025|[RADIUS Conference](https://radiusconference.org)|Operators | Participants | Alan DeKok | [Slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-radext-radius-conference-report-00)
 |March 2025|[TIOF](https://docs.theiofoundation.org/activities/current-season/season-2025/03-march/tiof-training-bytes-2025-03)|Regional, Students|Participants|Jean||
