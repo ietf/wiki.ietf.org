@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-09T10:43:28.675Z
+date: 2025-07-10T14:43:37.013Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -16,6 +16,9 @@ This is scratch space for the upcoming IETF meeting; it *will* be cleared afterw
 # Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 123, or the joint meetings with the IAB.
 
+## IESG-only
+
+* DNSOP Charter: Pending Block ballots (Med)
 
 # IESG Activities
 *All times are in UTC+2.* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
