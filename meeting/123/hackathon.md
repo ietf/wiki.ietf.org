@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T04:06:00.416Z
+date: 2025-07-10T04:49:17.030Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -969,6 +969,7 @@ https://datatracker.ietf.org/doc/draft-howard-rats-coserv/
 ### AI Preferences
 - **Champions**
 Martin Thomson (<mt@lowentropy.net>)
+Bryan Newbold (<bnewbold@robocracy.org>)
 
 - **Project Info**
 The [AIPREF working group](https://datatracker.ietf.org/wg/aipref/about/) is working on developing a grammar and expression format that will allow people to express their preferences about how AI systems use that information.  These preferences can be expressed using [robots.txt](https://dt.ietf.org/doc/html/rfc9309) and HTTP headers, both in essence to ensure that the retrieval of content (or assets) can be accompanied by preferences. The focus of the hackathon session will be to validate the specification by implementing it.
