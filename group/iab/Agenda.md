@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-09T16:33:41.747Z
+date: 2025-07-10T16:45:33.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2025-08-06, 21:00-22:00 UTC)
 
-## There WILL NOT be a meeting on 2025-08-06
+## There WILL be a meeting on 2025-08-06
 
 ## Details
 
@@ -21,6 +21,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
+> 1. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway) - 20 mins
 
 
 ## Topics for Future Informal Meetings
