@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T12:34:37.026Z
+date: 2025-07-10T15:20:05.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -552,6 +552,7 @@ https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 - **Repositories**
    - NTPD-RS: https://github.com/pendulum-project/ntpd-rs
    - Experimental: https://github.com/mlichvar/ntp5-exp
+   - NTPv5 in Chrony: https://github.com/mlichvar/chrony-ntp5
 
 ----
 ### Testing Congestion Control and Queue Management Mechanisms
