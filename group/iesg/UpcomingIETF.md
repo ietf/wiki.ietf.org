@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-10T15:29:10.315Z
+date: 2025-07-10T16:43:38.300Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,7 +18,6 @@ Please add any topics for either IESG only meetings at IETF 123, or the joint me
 
 ## IESG-only
 
-* DNSOP Charter: Pending Block ballots (Med)
 
 # IESG Activities
 *All times are in UTC+2.* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
@@ -70,6 +69,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday meeting.
 
+> 1. DNSOP Charter: Pending Block ballots (Med)
 ### Meeting Events
 
 - **New Participant's Quick Connections** 16:00-17:00; Room: Doblón
@@ -84,6 +84,7 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1002
 
+> 1. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway) - 20 mins
 
  
 ## Tuesday, July 22, 2025
