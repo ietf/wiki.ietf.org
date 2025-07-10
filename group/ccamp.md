@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-07-10T08:55:53.300Z
+date: 2025-07-10T08:57:31.252Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -129,8 +129,8 @@ YANG Data Models for fine grain Optical Transport Network
 ## Draft prioritization for WG last call
 Prio 1 (cluster)
 
-**- draft-ietf-ccamp-optical-impairment-topology-yang** (concluded)
-**- draft-ietf-ccamp-rfc9093-bis** (concluded)
+**- draft-ietf-ccamp-optical-impairment-topology-yang** (AD Evaluation::AD Followup)
+**- draft-ietf-ccamp-rfc9093-bis** (IESG Evaluation - In IESG telechat)
 
 Prio 2
 **- draft-ietf-ccamp-flexigrid-yang** (2nd WG last call to be done)
