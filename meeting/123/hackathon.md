@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T08:37:45.895Z
+date: 2025-07-10T09:53:54.345Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -273,7 +273,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
  	- **Specifications - Drafts**
 		[draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
  	- **Repository**
-		TBA
+		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-CATS](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-2/codeco-cats)
 
 - **Challenge 3: Benchmarking Network-aware Edge-Cloud Orchestration with CODEF**
 	In alignment with the IETF BMWG's current focus on extending benchmarking methodologies to containerized and cloud-native environments, this initiative proposes the use of the [CODECO](https://he-codeco.eu/) CODEF —an open-source, microservice-driven software-based testbed framework— to evaluate the performance and scalability of edge-cloud orchestration across heterogeneous infrastructures. 
