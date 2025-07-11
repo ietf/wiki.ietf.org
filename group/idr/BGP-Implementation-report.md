@@ -2,7 +2,7 @@
 title: Old BGP Implementation page 
 description: This is an old summary page - moved to wiki. 
 published: true
-date: 2025-07-11T20:13:21.272Z
+date: 2025-07-11T20:14:08.197Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-11T20:10:57.890Z
@@ -15,6 +15,7 @@ This is an old BGP implementation report summary page.
 If you have landed here, please [click here](/group/idr/implementations).
 
 ## Old Implementation report links. 
+
  - [draft-ietf-idr-wide-bgp-communities](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
  - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
 
@@ -23,6 +24,7 @@ If you have landed here, please [click here](/group/idr/implementations).
  - [draft-ietf-idr-entropy-label](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
  
 ## At RFC 
+- [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-sr-segtypes-ext-implement)
 
  - [draft-ietf-idr-bgp-ls-flex-algo implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-implement)
  - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
