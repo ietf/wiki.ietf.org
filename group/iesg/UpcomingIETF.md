@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-10T16:50:24.509Z
+date: 2025-07-11T22:18:47.345Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -70,6 +70,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 Any topics which aren't finished in this meeting slot can roll over into the Monday meeting.
 
 > 1. DNSOP Charter: Pending Block ballots (Med)
+> 2. Draft IESG statement on "Updates" Tag in RFC (Mahesh). For reference see this - https://wiki.ietf.org/group/iesg/useofupdatestag
 ### Meeting Events
 
 - **New Participant's Quick Connections** 16:00-17:00; Room: Doblón
