@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-07-11T20:48:15.821Z
+date: 2025-07-11T20:49:29.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -49,13 +49,13 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
- - [draft-ietf-idr-rs-bfd implementations](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
- - [draft-ietf-idr-rtc-no-rt implementations](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
- - [draft-ietf-idr-flowspec-l2vpn implementations](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
+ - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
+ - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
+ - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
 
 ## Implementations being Flow Specification reclassified
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
- - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
+ - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
 
 ## Implementations at Code Allocation
  - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
@@ -63,11 +63,11 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 
- - [draft-ietf-idr-best-external-implementations](/group/idr/implementations/draft-ietf-idr-best-external) - broken web
- - [draft-ietf-idr-flowspec-path-redirect implementations](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) - broken web 
- - [draft-ietf-idr-dynamic-cap implementations](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
+ - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) - broken web
+ - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) - broken web 
+ - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
- - [draft-ietf-idr-sla-exchange implementations](/group/idr/implementations/draft-ietf-idr-sla-exchange)
+ - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 
     
