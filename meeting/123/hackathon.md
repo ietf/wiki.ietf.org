@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T09:28:05.972Z
+date: 2025-07-11T09:32:17.325Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -174,7 +174,7 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
   - Phuong Pham pham.phuong@huawei.com
   - Lucas Prabel lucas.prabel@huawei.com
   - Shuzhou Sun sunshuzhou@huawei.com
-  - Frank Denis fdenis＠fastly｡com
+  - Frank Denis fdenis@fastly.com
   
 - **Project Info**
 HiAE is a high-throughput authenticated encryption algorithm designed for next-generation wireless communication and data transmission applications. The design leverages the AES round function to ensure high and consistent performance across both ARM and x86 architectures, with support for AES acceleration.
@@ -469,12 +469,12 @@ https://github.com/NetGauze/NetGauze/pull/213
 ### GREEN framework and Use Cases 
 
 - **Champion(s)**
-Luis Miguel Contreras
-Marisol Palmero
-Jan Lindblad
-Emile Stephan
-Benoit Claise
-Qin Wu
+Luis Miguel Contreras (luismiguel.contrerasmurillo@telefonica.com)
+Marisol Palmero (marisol.ietf@gmail.com)
+Jan Lindblad (jan.lindblad+ietf@for.eco)
+Emile Stephan (emile.stephan@orange.com)
+Benoit Claise (benoit.claise@huawei.com)
+Qin Wu (bill.wu@huawei.com)
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
