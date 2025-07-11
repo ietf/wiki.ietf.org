@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T09:53:29.164Z
+date: 2025-07-11T17:04:09.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -763,22 +763,23 @@ https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
 ### LLM Driven Automated Network Protocol Testing
 
 - **Champions**
-Yong Cui (cuiyong@tsinghua.edu.cn)
-Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
-Yunze Wei (wyz23@mails.tsinghua.edu.cn)
-Kaiwen Chi (ckw24@mails.tsinghua.edu.cn)
-
+  Yong Cui (cuiyong@tsinghua.edu.cn)
+  Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+  Yunze Wei (wyz23@mails.tsinghua.edu.cn)
+  Kaiwen Chi (ckw24@mails.tsinghua.edu.cn)
 - **Project Info**
-TBA
+  Traditional network protocol testing methods face significant challenges in adapting to rapid protocol evolution. The challenges stem primarily from protocol specification analysis and customized code development for testing. To address this, we propose NeTestLLM, a Large Language Model (LLM)-powered framework that automates protocol testing through two key components: (1) a hybrid test case generator that extracts protocol specifications and produces high-coverage test cases, and (2) a retrieval-feedback-enhanced engine that translates natural language descriptions into executable code.
 
-- **Hackthon Plan**
-TBA
+- **Hackathon Plan**
+  - Apply LLM to RFC protocol comprehension, including functional modeling, field analysis, and state machine extraction.
+  - Leverage LLM to automatically transform protocol comprehension results into multiple test cases.
+  - Convert predefined test cases into executable test code and execute verification in real-world environments.
 
-- **Specifications**
-TBA
+- **Draft Specification**
+  TBA
 
 - **Repositories**
-TBA
+  TBA
 
 
 ---
