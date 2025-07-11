@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T09:39:53.933Z
+date: 2025-07-11T09:53:29.164Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1105,7 +1105,29 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+
+---
+
+### Constrained Implementation of a Packed CBOR Decoder
+- **Champions**
+  Mikolai Gütschow (mikolai.guetschow@tu-dresden.de)
+
+- **Project Info**
+  Packed CBOR is an active Internet Draft offering transformations of CBOR data items to a more size-efficient form. Compared to traditional compression techniques such as DEFLATE, the resulting "packed" CBOR item can be unpacked and decoded on the fly without a prior decompression step.
+  NanoCBOR is a CBOR decoder written in C and aimed at heavily constrained devices. The goal of this project is to enhance the [existing PR for Packed CBOR support](https://github.com/bergzand/NanoCBOR/pull/93) in order to test it's applicability even on constrained devices.
+  Participants interested in implementing Packed CBOR support even for other CBOR decoders are very welcome to join the project!
   
+- **Hackathon Plan**
+  - update NanoCBOR shared reference PR from -11 to -16
+  - implement argument reference support in NanoCBOR
+  - evaluate memory consumption and benchmark processing time
+  
+- **Related Documents**
+  https://datatracker.ietf.org/doc/draft-ietf-cbor-packed/
+  
+- **Repository**
+  https://github.com/bergzand/NanoCBOR
+
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
