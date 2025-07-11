@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-07-11T20:19:50.753Z
+date: 2025-07-11T20:21:40.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -13,7 +13,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## old implementation pages 
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
 ## Implementation Reports for Drafts in queue of RFC editor
- - [draft-ietf-idr-sr-policy-safi- implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
+ - [draft-ietf-idr-sr-policy-safi- implementations](/group/idr/implementations/draft-ietf-idr-sr-policy-safi)
+ 
 - [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/implementations/draft-ietf-idr-bgp-sr-segtypes-ext)
  - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
  - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
