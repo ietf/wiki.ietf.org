@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T09:32:17.325Z
+date: 2025-07-11T09:39:53.933Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -475,6 +475,10 @@ Jan Lindblad (jan.lindblad+ietf@for.eco)
 Emile Stephan (emile.stephan@orange.com)
 Benoit Claise (benoit.claise@huawei.com)
 Qin Wu (bill.wu@huawei.com)
+
+- **Collaborator(s)**
+Prasad KN (skabbina@cisco.com)
+Josei Tolentino (jotolent@cisco.com)
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
