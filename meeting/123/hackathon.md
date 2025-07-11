@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T08:39:07.786Z
+date: 2025-07-11T09:02:53.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -174,6 +174,7 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
   - Phuong Pham pham.phuong@huawei.com
   - Lucas Prabel lucas.prabel@huawei.com
   - Shuzhou Sun sunshuzhou@huawei.com
+  - Frank Denis fdenis@fastly.com
   
 - **Project Info**
 HiAE is a high-throughput authenticated encryption algorithm designed for next-generation wireless communication and data transmission applications. The design leverages the AES round function to ensure high and consistent performance across both ARM and x86 architectures, with support for AES-NI acceleration.
