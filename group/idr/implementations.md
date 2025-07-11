@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-07-11T20:21:55.136Z
+date: 2025-07-11T20:31:08.752Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -12,14 +12,15 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## old implementation pages 
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
+
 ## Implementation Reports for Drafts in queue of RFC editor
  - [draft-ietf-idr-sr-policy-safi](/group/idr/implementations/draft-ietf-idr-sr-policy-safi)
  
 - [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/implementations/draft-ietf-idr-bgp-sr-segtypes-ext)
+
+ - [draft-ietf-idr-bgp-ls-sr-policy](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
  - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
  - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
- - [draft-ietf-idr-deprecate-as-set-confed-set](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set)
-  - [draft-ietf-idr-bgp-ls-sr-policy](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
  
 ## Implementation reports for Drafts at IESG
 - None 
@@ -76,7 +77,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ---
 ## Implementation Reports for IDR RFC
- - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer)
+ - [draft-ietf-idr-deprecate-as-set-confed-set](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set) -  RFC9774 
+ - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer) - RFC9687
  - [draft-ietf-idr-add-paths implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
  - [draft-ietf-idr-as-migration implementations](/group/idr/implementations/draft-ietf-idr-as-migration)
  - [draft-ietf-idr-ls-distribution implementations](/group/idr/implementations/draft-ietf-idr-ls-distribution)
