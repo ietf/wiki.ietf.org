@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-07-11T20:50:04.908Z
+date: 2025-07-11T20:50:42.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -63,7 +63,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 
- - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) - broken web
+ - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external)
  - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) - broken web 
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
