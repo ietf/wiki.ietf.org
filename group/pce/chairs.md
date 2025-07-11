@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-11T02:55:31.948Z
+date: 2025-07-11T02:56:04.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## To be Started
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Discuss | - | TLVs in sub-object and how to make it work. |Ketan: I would really urge the WG to discuss moving away from this flag based extensions and instead move to TLV based extensions that follow whatever object encodings are defined so far. We cannot expect to change what exists, but anything coming up in the future can stop using this flag based mechanism. If this isn't done, the combinations of flags and the ordering of these variable size objects will make parsing complex for implementations - especially if they were to support some flags but not others.<br>Dhruv: Isnt it too late to do this and the complexisty already exist, does adding more flags really increases the complexity more?|
+| Discuss | - | TLVs in sub-object and how to make it work. |Ketan: I would really urge the WG to discuss moving away from this flag based extensions and instead move to TLV based extensions that follow whatever object encodings are defined so far. We cannot expect to change what exists, but anything coming up in the future can stop using this flag based mechanism. If this isn't done, the combinations of flags and the ordering of these variable size objects will make parsing complex for implementations - especially if they were to support some flags but not others.<br>Dhruv: Isnt it too late to do this and the complexisty already exist, does adding more flags really increases the complexity more? Any past reason why no subobject in RSVP-TE or PCEP ever had TLVs?|
 | Adoption | draft-dong-pce-pcep-nrp | - | Request from authors to prioritize |
 | WGLC | draft-ietf-pce-circuit-style-pcep-extensions | - | Authors requesting WGLC in parallel to spring draft |
 | WGLC | draft-ietf-pce-sr-p2mp-policy | - | Authors requesting WGLC |
