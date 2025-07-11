@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-vpn-prefix-orf
 description: Implementation report for draft-ietf-idr-vpn-prefix-orf
 published: true
-date: 2024-10-30T01:55:41.450Z
+date: 2025-07-11T20:33:07.085Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-23T01:55:25.072Z
@@ -26,7 +26,7 @@ We also implemented the following functions based on the open-source BGP impleme
 
 ## Support of features 
 
-|---|---|---|---|---|---|---|---|----|---|
+|---|---|---|---|---|---|---|
 | Feature  | Section | Description |	 Implemented **H3C**|  Implemented **Vendor2** |  Compliance **H3C**  | Compliance  **Vendor2** | 
 |  Unique RD, One RT   |  4.1.1 |  (describe) | yes | TBD |   |    | 
 |  Unique RD, multiple RT   |  4.1.2|  (describe) | yes | TBD |   |    | 
