@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-07-11T20:31:08.752Z
+date: 2025-07-11T20:39:18.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -38,7 +38,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
 
 ## Fast Track Drafts (returned to WG, 2 implementations)
- - [draft-ietf-idr-wide-bgp-communities](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
+ - [draft-ietf-idr-wide-bgp-communities](/group/idr/Bimplementations/draft-ietf-idr-wide-bgp-communities)
  - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
 
