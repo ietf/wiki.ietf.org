@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T09:02:53.008Z
+date: 2025-07-11T09:05:09.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -186,10 +186,12 @@ We welcome all participants who are familiar with:
 - Mobile performance testing
 
 - **Draft Specifications**
-https://datatracker.ietf.org/doc/draft-pham-cfrg-hiae/
+  - https://hiae-aead.github.io/draft-pham-hiae/draft-pham-cfrg-hiae.html
+  - https://datatracker.ietf.org/doc/draft-pham-cfrg-hiae/
 
 - **Repository**
-Benchmark example: https://github.com/Concyclics/HiAE/tree/main
+  - https://github.com/hiae-aead/draft-pham-hiae
+  - Benchmark example: https://github.com/Concyclics/HiAE/tree/main
 
 ---
 ### RESTful Provisioning Protocol (RPP)
