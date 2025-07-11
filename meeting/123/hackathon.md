@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-10T15:47:53.739Z
+date: 2025-07-11T08:26:54.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -380,12 +380,12 @@ Mira fills this gap by:
 While Thread and BLE Mesh are designed for static home automation using IPv6 over 6LoWPAN or flooding protocols, Mira targets mobile and high-density scenarios—such as robot swarms—where real-time communication, bounded latency, and remote firmware updates are crucial.
 
 At the IETF 123 Hackathon, we aim to:
-- Demonstrate a live Mira deployment, including multi-gateway roaming
+- Demonstrate a live Mira deployment
 - Explore how Mira (as a link-layer protocol) can interoperate with upper-layer IETF technologies, including 6LoWPAN, UDP, and CoAP
 - Specify/implement a secure association for Mira using IETF technologies such as EDHOC and ELA
 
 We welcome collaboration with anyone working on:
-- Low-power networking
+- Low-power networking and Internet of Things protocols
 - CoAP over BLE or lightweight embedded stacks
 - Mobility extensions to 6TiSCH or RPL
 - Robotics, swarm testbeds, or dense IoT deployments
