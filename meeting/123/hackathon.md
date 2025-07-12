@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-11T17:04:09.793Z
+date: 2025-07-12T08:11:21.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -783,6 +783,37 @@ https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
 
 
 ---
+
+### Knowledge Graph–Driven Threat Intelligence Analysis and Network Configuration Generation
+
+- **Champions**
+  Yong Cui (cuiyong@tsinghua.edu.cn)
+  Mingzhe Xing (xingmz@mail.zgclab.edu.cn)
+  Chenguang Du (ducg@zgclab.edu.cn)
+- **Project Info**
+  Traditional threat intelligence and network defense workflows are often siloed, making it difficult to achieve an automated closed loop from intelligence to protection configuration. To address this, this project develops a security-focused knowledge graph and multi-agent collaboration framework:
+
+  1. **Knowledge Graph Construction:** Build a unified knowledge graph from network device API manuals and existing threat intelligence data, enabling agents to gain deep semantic understanding of device capabilities and threat elements.
+  2. **Retrieval-Augmented Workflow Design:** Design a knowledge-graph-based retrieval and augmentation pipeline so agents can dynamically fetch relevant device interfaces, policy templates, and past incident playbooks during threat analysis, improving inference accuracy.
+  3. **End-to-End Multi-Agent Collaboration:** Implement a three-stage workflow—“Threat Intelligence Analysis - Configuration Intent Generation - Executable Network Configuration”—to fully automate the closed loop of network defense.
+
+- **Hackathon Plan**
+  - Data Ingestion & Knowledge Graph Visualization
+  - Intent Generation via LLM & Knowledge Graph
+  - Executable Configuration Command Generation
+  - End-to-End Demonstration & Validation
+
+- **Draft Specification**
+  - https://datatracker.ietf.org/doc/draft-cui-nmrg-llm-nm/
+  - https://datatracker.ietf.org/doc/draft-cui-nmrg-llm-benchmark/
+  - https://datatracker.ietf.org/doc/draft-cui-ai-agent-task/
+
+- **Repositories**
+  TBA
+
+
+---
+
 ### Testing Privacy-preserving Ciphertext AI inference in Network Functions
 
 - **Champions**
