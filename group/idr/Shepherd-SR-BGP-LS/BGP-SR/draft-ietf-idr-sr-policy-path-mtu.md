@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-04-04T20:03:58.373Z
+date: 2025-07-13T16:23:30.007Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -16,10 +16,13 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **Type:** Proposed Standard 
 **status:** WG Draft (expires 3/2/2025), needs revision 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
-**current version:** -10
-**Early Allocation**: yes, needs -11 revision 
+**current version:** -11
+**Early Allocation**: yes, needs -12 revision 
 **implementations:** 1 (Huawei in VRP)   
 **bgp-ls draft:** none
+
+## Review -11
+**Summary:** All Technical issues and Editorial issues need to be addressed
 
 ## Review -10 
 draft: [draft-ietf-idr-sr-policy-path-mtu-10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-mtu-10)
@@ -80,8 +83,6 @@ The operation of sending information to consumers is out of scope of this docume
 #### Issue-4:  Missing Manageability section 
 
 Please add an section to indicate how operators may manage set or monitor the PATH MTU via existing Yang modules or BGP-LS support.  If these do not exist, suggest whether these would be useful. 
-
-
 
 
 ## Review -09 
