@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-04-04T20:02:06.930Z
+date: 2025-07-13T17:50:31.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -20,6 +20,52 @@ dateCreated: 2025-02-25T02:26:19.820Z
 **Early Allocation**: Needs early allocation, -02 required 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** would need to augment deraft-ietf-idr-bgp-ls-sr-policy 
+
+## Review -02 
+Reviewer: Susan Hares
+**draft:** [draft-ietf-idr-sr--te-policy-attr-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-te-policy-attr-02)
+
+### Status of Technical issues from -01 Review
+#### Review-01, Issue-1: Resolved in section 1 in the following text: 
+>    BGP UPDATE message
+>    sends the NLRI that identifies an SR Policy Candidate Path, and the
+>    attributes that encode the segment lists and other details of that SR
+>    Policy Candidate Path.  These BGP attributes include the Tunnel
+>    Encapsulation Attribute [RFC9012] with the SR Policy Tunnel-Type, and
+>    it encodes SR Policy tunnel information (per
+>    [I-D.ietf-idr-sr-policy-safi]).
+{.is-info}
+
+#### Review-01, Issue-2: Resolved in section with the text: 
+
+>    This section defines four new Segment types and the corresponding
+>    Segment Sub-TLVs of Segment List Sub-TLV to provide algorithm
+>    information for SR-MPLS Adjacency-SIDs.  The Segment Sub-TLVs in this
+>    document are only defined for the Segment list Sub-TLV used by the
+>    Tunnel Encapsulation Attribute with the SR Policy Tunnel-Type as per
+>    [I-D.ietf-idr-sr-policy-safi].  All other usages are outside the
+>    scope of this document.
+{.is-info}
+
+#### review-01, Issue-3: Resolved by the text in section 3 of: 
+>     The processing procedures for SID with algorithm specified in
+>    [RFC9256] and [I-D.ietf-idr-bgp-sr-segtypes-ext] are still applicable
+>    for the new segment types.  Just as in [I-D.ietf-idr-sr-policy-safi],
+>    the segment list sub-TLVs specified in this document (sections 3.1,
+>    3.2, 3.3, and 3.4) MAY repeat multiple times within the segment-list
+>    Sub-TLV.  BGP only checks the syntax of the fields, but the semantic
+>    meaning is check by the consumer.  When the algorithm is not
+>    specified for the SID types above which optionally allow for it, the
+>    headend SHOULD use the Strict Shortest Path algorithm if available;
+>    otherwise, it SHOULD use the default Shortest Path algorithm.
+{.is-info}
+
+#### review-01, Issue-4 - resolved with the inclusion of section 6
+
+#### review-02, Issue-1 - Security section needs to describe critical information 
+
+The information in segment types L-O are critical pieces of information about the infrastructure of a network or multiple network segments.  The Security section needs to mention that the operators need to carefully restrict access to the information contained in segments L-O.  A list of the unique information is useful in this section. 
+
 
 ## Review -01   
 Reviewer: Susan Hares 
@@ -51,10 +97,11 @@ Please provide this information in your draft:
 
 My understanding is that this draft (like draft-ietf-idr-sr-policy-safi) specifies 
 that segment lists with these types are only defined for the Segment list Sub-TLV 
-are only defined to be used by the SR Policy Tunnel TLV.  All other usages are outside 
-the scope of this document. 
+are only defined to be used by the SR Policy Tunnel TLV.  All other usages are outside the scope of this document. 
 
 Some statement like this needs to go in your document. 
+
+
 
 2.  How do these segment types impact validation of the BGP route (NLRI + Attribute pair)?  Can the segment types repeat? 
 
