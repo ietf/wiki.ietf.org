@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-07-13T16:30:27.665Z
+date: 2025-07-13T16:34:20.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -39,6 +39,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 |  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|     
 |---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-sr-policy-nrp-01](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1220 | NRP | assigned  |
+{.dense}
+
+|  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|     
+|---|---|---|---|---|---|---|---|
+| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Path Attribute | TBD |  Metadata | Expert Review | implementation + github | 
+| [draft-ietf-idr-5g-edge-service-metadata-05](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | BGP Capability | TBD | Metadata | Expert Review | Implementation + github 
 {.dense}
 
 ### draft-ietf-idr-wide-communities 
