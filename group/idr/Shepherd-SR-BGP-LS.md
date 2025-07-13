@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-07-13T16:28:41.132Z
+date: 2025-07-13T16:41:46.206Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -25,7 +25,7 @@ none
 
 ### SR WG drafts 
 
-- [draft-ietf-idr-bgp-srmpls-elp-2](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/) - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - OK for allocation (**new**)
+- [draft-ietf-idr-bgp-srmpls-elp-2](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/) - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - OK for allocation 
 
 - [draft-ietf-idr-sr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-epe-over-l2bundle) - (BGP-LS draft). **Must be renamed** Reviewed under BGP-LS. 
 
@@ -35,13 +35,13 @@ none
 
 - [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-nrp)  - Needs post WG LC WG interactions check  
 
-- [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - [(-09) to (-11)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu) - Needs -13 (**new**) 
+- [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - [(-09) to (-11)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu) - Needs -13 
 
 - [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - [(-11) to (-13)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment) 
 
-- [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) - **new** 
+- [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) 
 
-- [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-te-policy-attr)  - **new**
+- [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-te-policy-attr)
 
 
 ### SR drafts in adoption call 
