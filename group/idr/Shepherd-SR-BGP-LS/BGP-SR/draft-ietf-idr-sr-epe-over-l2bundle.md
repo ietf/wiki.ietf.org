@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-sr-epe-over-l2bundle-
 description: Shepherd draft-ietf-idr-sr-epe-over-l2bundle-
 published: true
-date: 2025-07-13T14:33:02.474Z
+date: 2025-07-13T14:44:19.241Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T20:33:09.871Z
