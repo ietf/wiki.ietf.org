@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-04-04T20:11:09.146Z
+date: 2025-07-13T12:50:00.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -20,6 +20,12 @@ dateCreated: 2025-02-26T02:37:13.865Z
 **Early Allocation**: yes, but need to revised draft first 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
+
+
+## Review of -03 
+**draft:** [draft-ietf-idr-bgp-srmpls-elp-03](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-03)
+**Status**: 
+ 
 
 
 ## Review of -02
