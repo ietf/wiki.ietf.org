@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-04-04T19:58:03.022Z
+date: 2025-07-13T17:00:04.274Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -13,17 +13,26 @@ dateCreated: 2025-02-25T01:55:41.779Z
 ## Summary 
 **draft:**  [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-seglist-id) 
 **Type:** Proposed Standard 
-**status:** WG Draft. needs revision 
+**current revision:** -04 
+**status:** WG Draft, ready for early alli9cation 
 **adopted:**  11/6/2024 
-**current version:** 03 (published 2/24/2025) 
-**Early Allocation**: yes (needs -04 for early allocation) 
+**current version:** 04 (published 3/26/2025) 
+**Early Allocation**: yes, ready for query with -04 revision   
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
 
+## Revision -04 
+**status:** -04 is ready for early allocation 
+**email:** (TBD) 
+### Resolution of Technical issues from -02 review
+- Issue-1: resolved in -04 in section 3 
+- Issue-2: resolved in -04 in section 2 
+
 
 ## Revision -03 
-**status:**  Needs -04 revision 
+**status:**  Needs -04 revision to resolve technical issues from -02 
 **email:** https://mailarchive.ietf.org/arch/msg/idr/ZoOmSG_E48FiW-e5GsW4_bWd4hs/
+
 
 ### Review of Issues from -02 Shepherd Review 
 Technical issues resolved: #1 resolved,  #2 partially resolved 
