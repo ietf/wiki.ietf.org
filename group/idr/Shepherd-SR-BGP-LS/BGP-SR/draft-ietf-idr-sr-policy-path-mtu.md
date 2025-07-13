@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-07-13T16:23:30.007Z
+date: 2025-07-13T21:57:00.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -22,7 +22,7 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **bgp-ls draft:** none
 
 ## Review -11
-**Summary:** All Technical issues and Editorial issues need to be addressed
+**Summary:** All Technical issues and Editorial issues from Review of -10 need to be addressed
 
 ## Review -10 
 draft: [draft-ietf-idr-sr-policy-path-mtu-10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-mtu-10)
