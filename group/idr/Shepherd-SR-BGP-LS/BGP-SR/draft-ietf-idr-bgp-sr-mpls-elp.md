@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-07-13T12:50:00.259Z
+date: 2025-07-13T13:26:45.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -24,7 +24,54 @@ dateCreated: 2025-02-26T02:37:13.865Z
 
 ## Review of -03 
 **draft:** [draft-ietf-idr-bgp-srmpls-elp-03](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-03)
-**Status**: 
+**Status**: resolves previous technical issues, minor editorial nits for follow-up on Issue 2. 
+Next step:  2 implementations required for WG LC 
+
+
+### Technical issues resolved 
+- Review-1, Issue #1: resolved in version 3 
+- Review-1, Issue #2: Section 4 or 5, Missing Error handling for a malformed Explicit NULL Policy TLV - needs textual edit: 
+
+Current 
+>   The error handling principles for the SR Policy TLVs/sub-TLVs in
+>    [I-D.ietf-idr-sr-policy-safi] apply to this document.  The validation
+>    of each ELP sub-TLV MUST be performed on the headend nodes to
+>    determine if they are malformed or invalid.  In case of any error
+>    detected, the "treat-as-withdraw" strategy MUST be applied.
+{.is-info}
+Suggested changes:
+>    The error handling methods for the SR Policy TLVs/sub-TLVs in
+>    [I-D.ietf-idr-sr-policy-safi] apply to this document.  The validation
+>    of each ELP sub-TLV MUST be performed in headend nodes in the BGP 
+>    process to determine if they are malformed or invalid.  In case of any error
+>    detected, the "treat-as-withdraw" strategy MUST be applied.
+>    
+>    The SRPM policy determines if the values for ELP impact the
+>    selection of the SR Policy Candidate Path (SR Policy CP) as the best SR Policy CP.
+{.is-info}
+
+
+- Review 1, Issue #3 -  Security Section,Resolved with following text in -03 
+
+>    The ELP extension is included in the SR Policy extension
+>    [I-D.ietf-idr-sr-policy-safi], so it does not introduce extra
+>    security problems comparing the existing SR policy entension.  SR
+>    Policies with ELP information distributed by BGP are expected to be
+>    used entirely within trusted SR domain.  The ELP information is a
+>    critical piece of information about critical infrastructure.
+>    Therefore, precaution is necessary to ensure that the ELP information
+>    advertised via BGP sessions is limited to nodes in a secure manner
+>    within this trusted SR domain.
+
+- Issue #4 - Missing Scalability considerations for this work. 
+
+Resolved with the following comments in section 4, last paragraph: 
+
+    When using the protocol extensions introduced in this document,
+   scalability SHOULD be considered since it may increase the the amount
+   of control plane information(i.e., the BGP messages) exchanged
+   between the network controller and the headend nodes.
+   
  
 
 
