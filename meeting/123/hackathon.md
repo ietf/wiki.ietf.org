@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T08:02:08.784Z
+date: 2025-07-14T08:02:30.141Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1193,6 +1193,11 @@ draft-jeong-opsawg-intent-based-sdv-framework
 draft-jeong-cats-its-use-cases-01
 
 ```markdown
+### Your Project
+- **Champions**
+name and email
+- **Project Info**
+project description
 ```
 ----
 
