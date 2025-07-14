@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T20:24:41.303Z
+date: 2025-07-14T22:25:37.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1272,8 +1272,19 @@ SDF Mapping Files: https://datatracker.ietf.org/doc/draft-bormann-asdf-sdf-mappi
 This project is dealing with two drafts that aim at extending the [Semantic Definition Format (SDF)](https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf/) with capabilities for the description of device instances and the semantic derivation of models.
 The goal is to develop open source tooling that can assist with both types of model evolution, to further discuss the two drafts listed above, and to ideally further align them with other documents from the SDF specification family and their implementations.
 
+
+### In Loving Memory Dave Täht (1965-2025)
+- **Champions**
+Frank (Frantisek) Borsik frank@libreqos.io / frantisek.borsik@gmail.com
+- **Project Info**
+Want to meet people that used to work with Dave and/or want to learn more about his work inside/outside of IETF. I plan to bring stickers - LibreQoS, Dave's latest thing, as well as his signature "This Machine Kills Vogons" and a scrap book with photos ready for anyone willing to share a thought or two, or just sign in...will be in place as well:
+https://libreqos.io/2025/04/01/in-loving-memory-of-dave/
+
+Dave was one of the instigators of the IETF AQM and Packet Scheduling working group, and not only the co-author of RFC8290 (FQ-CoDel) and a contributor to RFC8289 (CODEL), but also RFC7567 (IETF Recommendations Regarding Active Queue Management),  RFC8034 (Active Queue Management (AQM) Based on Proportional Integral Controller Enhanced (PIE) for Data-Over-Cable Service Interface Specifications (DOCSIS) Cable Modems), RFC7928 (Characterization Guidelines for Active Queue Management (AQM), RFC7806 (On Queuing, Marking, and Dropping), and RFC8033 (Proportional Integral Controller Enhanced (PIE): A Lightweight Control Scheme to Address the Bufferbloat Problem). He also made contributions to the DOCSIS 3.1 standard.
+
 - **Repository**
-TBA
+https://github.com/LibreQoE/LibreQoS/pull/684
+
 
 ---
 
