@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T07:54:59.592Z
+date: 2025-07-14T08:02:08.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1179,7 +1179,7 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
-```markdown
+
 ### Interface to In-Network Computing Functions (I2ICF) Project
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
@@ -1191,6 +1191,8 @@ draft-jeong-opsawg-i2inf-framework
 draft-jeong-opsawg-i2inf-problem-statement
 draft-jeong-opsawg-intent-based-sdv-framework
 draft-jeong-cats-its-use-cases-01
+
+```markdown
 ```
 ----
 
