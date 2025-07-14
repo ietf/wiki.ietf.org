@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T15:47:39.598Z
+date: 2025-07-14T15:48:42.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1193,12 +1193,6 @@ Online evaluation of OPUS DRED through [Mumble](https://www.mumble.info/).
 - **Related Documents**
   https://datatracker.ietf.org/doc/draft-ietf-mlcodec-opus-dred/
 
-----
-
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
-
 
 ---
 ### Interface to In-Network Computing Functions (I2ICF) Project
@@ -1236,7 +1230,15 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 	- Crypto Forum Research Group (CFRG)
 	- Post-Quantum Use in Protocols (PQUIP)
   
-  
+
+
+
+----
+
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
 ----
 ```markdown
 ### Your Project
