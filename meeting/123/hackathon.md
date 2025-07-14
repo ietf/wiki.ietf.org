@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T09:53:29.571Z
+date: 2025-07-14T15:42:06.721Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1161,6 +1161,25 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   
 - **Repository**
   https://github.com/bergzand/NanoCBOR
+---
+
+### Implementation of DNS over CoAP (DoC)
+- **Champions**
+  Martine Lenders (martine.lenders@tu-dresden.de)
+
+- **Project Info**
+  In Bangkok we provided a port of DoC. The goal of the Hackathon is to get [the PR](https://github.com/NLnetLabs/unbound/pull/1252) for that into a mergeable state
+  
+- **Hackathon Plan**
+  - Proper integration into configuration
+  - Reuse TLS-PKI for DTLS
+  - Hunting bugs
+  
+- **Related Documents**
+  - https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap
+  
+- **Repository**
+  https://github.com/NLnetLabs/unbound/
 
 ---
 
