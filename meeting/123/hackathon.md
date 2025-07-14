@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T15:42:20.322Z
+date: 2025-07-14T15:47:39.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1212,6 +1212,30 @@ Don’t see anything that interests you? Feel free to add a project to the list,
   - [draft-jeong-opsawg-i2inf-problem-statement](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-problem-statement/)
   - [draft-jeong-opsawg-intent-based-sdv-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/)
   - [draft-jeong-cats-its-use-cases-01](https://datatracker.ietf.org/doc/draft-jeong-cats-its-use-cases/)
+  
+----
+### PQC DNSSEC Algorithms and Non-Existence Responses
+- **Champions**
+Joe Harvey (jsharvey@verisign.com)
+Swapneel Sheth (ssheth@verisign.com)
+
+- **Project Info**
+This hackathon topic continues our evaluation of post-quantum cryptography (PQC) DNSSEC by focusing on the PQC impact on three important topics:
+	1. Typical response size and frequency of request for different DNS record types.
+	1. DNSSEC non-existence responses (NSEC/NSEC3) 
+	1. Name server implementations and measurement of new algorithms (NIST approved, other candidate algorithms, and MTL mode)
+
+- **Draft Specifications**
+	1. https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
+	1. https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/
+	1. https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+
+- **Related Groups**
+	- PQ DNSSEC Research Side Meetings
+	- DNS Operations (DNSOP) Working Group
+	- Crypto Forum Research Group (CFRG)
+	- Post-Quantum Use in Protocols (PQUIP)
+  
   
 ----
 ```markdown
