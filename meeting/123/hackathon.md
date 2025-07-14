@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T18:26:41.665Z
+date: 2025-07-14T19:37:57.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1234,6 +1234,30 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 
 
 ----
+
+### WebTransport Interop
+- **Champions**
+Alan Frindell / afrind@meta.com
+
+- **Project Info**
+Demonstrate interoperability across WebTransport implementations using the latest drafts 
+https://datatracker.ietf.org/group/webtrans/documents/.
+
+See Devious Baton for a sample WebTransport application: https://www.ietf.org/archive/id/draft-frindell-webtrans-devious-baton-00.html
+
+---
+
+### Media over QUIC (MoQ) Interop
+- **Champions**
+Alan Frindell / afrind@meta.com
+
+- **Project Info**
+Demonstrate interoperability across MoQ implementations using the latest versions of
+Media over QUIC Transport (MoQT), MoQ Chat (moq-chat), MoQ Media Interop (moq-mi), MoQ Test, Low Overhead Container (LoC) and WARP.
+
+https://datatracker.ietf.org/group/moq/documents/
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
