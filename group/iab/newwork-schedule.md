@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-09T18:52:29.550Z
+date: 2025-07-14T09:43:02.230Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-28T10:06:07.006Z
 
 # New Work "Help Desk"
 
-Please put your name in this list to sign up for a slots. The goal is to 2-3 IAB members commited for each slot. We can then remove the slots that do not have any takers. 
+Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot. We can then remove the slots that do not have any takers. 
 
 
 ## Monday
