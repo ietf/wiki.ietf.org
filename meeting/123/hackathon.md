@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-13T17:24:56.729Z
+date: 2025-07-14T07:40:10.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1179,11 +1179,17 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
-### Your Project
+### Interface to In-Network Computing Functions (I2ICF) Project
 - **Champions**
-name and email
+Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-project description
+Demonstrate Interface to In-Network Computing Functions (I2ICF) Intent Translator of Intent Service Application for IoT Device (i.e., Software Defined Vehicles (SDVs)).
+Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
+- **Specifications**
+draft-jeong-opsawg-i2inf-framework
+draft-jeong-opsawg-i2inf-problem-statement
+draft-jeong-opsawg-intent-based-sdv-framework
+draft-jeong-cats-its-use-cases-01
 ```
 ----
 
