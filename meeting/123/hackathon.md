@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T19:37:57.284Z
+date: 2025-07-14T20:24:41.303Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1256,6 +1256,24 @@ Demonstrate interoperability across MoQ implementations using the latest version
 Media over QUIC Transport (MoQT), MoQ Chat (moq-chat), MoQ Media Interop (moq-mi), MoQ Test, Low Overhead Container (LoC) and WARP.
 
 https://datatracker.ietf.org/group/moq/documents/
+
+---
+
+### Tooling for SDF Instantiation and Derivation (ASDF) 
+
+- **Champion(s)**
+Jan Romann (jan.romann@uni-bremen.de)
+
+- **Draft Specifications**
+Instance Information for SDF: https://datatracker.ietf.org/doc/draft-bormann-asdf-instance-information/
+SDF Mapping Files: https://datatracker.ietf.org/doc/draft-bormann-asdf-sdf-mapping/
+
+- **Project Info**
+This project is dealing with two drafts that aim at extending the [Semantic Definition Format (SDF)](https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf/) with capabilities for the description of device instances and the semantic derivation of models.
+The goal is to develop open source tooling that can assist with both types of model evolution, to further discuss the two drafts listed above, and to ideally further align them with other documents from the SDF specification family and their implementations.
+
+- **Repository**
+TBA
 
 ---
 
