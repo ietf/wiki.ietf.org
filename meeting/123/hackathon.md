@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T15:42:06.721Z
+date: 2025-07-14T15:42:20.322Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1168,7 +1168,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   Martine Lenders (martine.lenders@tu-dresden.de)
 
 - **Project Info**
-  In Bangkok we provided a port of DoC. The goal of the Hackathon is to get [the PR](https://github.com/NLnetLabs/unbound/pull/1252) for that into a mergeable state
+  In Bangkok we provided a port of DoC for Unbound. The goal of the Hackathon is to get [the PR](https://github.com/NLnetLabs/unbound/pull/1252) for that into a mergeable state
   
 - **Hackathon Plan**
   - Proper integration into configuration
