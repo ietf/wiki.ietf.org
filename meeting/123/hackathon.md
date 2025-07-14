@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T07:40:10.722Z
+date: 2025-07-14T07:54:59.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -491,7 +491,8 @@ Validate GREEN Framework to cover different use cases listed in the GREEN use ca
 * API integration to cover multi/inter domain.
 
 - **Repository**
-TBC
+* Sustainability Insights in a box Open Source
+https://github.com/cisco-open/sustainability-insights-in-a-box.git
 
 ---
 
