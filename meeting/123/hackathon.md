@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T15:48:42.834Z
+date: 2025-07-14T18:26:41.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1183,7 +1183,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 
 ---
 
-### Evaluation of Opus DRED speech codec 
+### Evaluation of Opus DRED speech codec* 
 - **Champions**
 Benson Muite <benson_muite at emailplus dot org>
 
