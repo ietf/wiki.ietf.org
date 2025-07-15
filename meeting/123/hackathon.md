@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T08:16:25.880Z
+date: 2025-07-15T08:17:57.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1310,8 +1310,6 @@ https://github.com/LibreQoE/LibreQoS/pull/684
     - Mouseworld Knowledge Graph – https://github.com/Mouseworld-Lab/mouseworld-kg
 
 ---
-
-```markdown
 ### KEM-based Authentication for EDHOC
 
 - **Champions**
@@ -1330,7 +1328,6 @@ Our implementation will extend the KEM-based authentication method on top of the
 - **Repository**
 https://github.com/LPFraile/PQ-EDHOC
 
-```
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
