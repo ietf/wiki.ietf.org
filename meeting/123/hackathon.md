@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T09:33:22.436Z
+date: 2025-07-15T12:06:12.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -763,6 +763,9 @@ Together, these efforts aim to support better-informed design and operation of R
 - **Related Documents**
 https://datatracker.ietf.org/doc/html/rfc8182
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
+
+- **Repository**
+https://github.com/jpnic/ietf123-hackathon-rpki
 
 ----
 ### Large Language Model Driven Automated Network Protocol Testing
