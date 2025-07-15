@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T12:06:12.255Z
+date: 2025-07-15T14:00:24.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -469,12 +469,14 @@ https://github.com/NetGauze/NetGauze/pull/213
 ### GREEN framework and Use Cases 
 
 - **Champion(s)**
-Luis Miguel Contreras (luismiguel.contrerasmurillo@telefonica.com)
+Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
 Marisol Palmero (marisol.ietf@gmail.com)
 Jan Lindblad (jan.lindblad+ietf@for.eco)
 Emile Stephan (emile.stephan@orange.com)
 Benoit Claise (benoit.claise@huawei.com)
 Qin Wu (bill.wu@huawei.com)
+Artur Hecker (Artur.Hecker@huawei.com)
+Carlos J. Bernardos (cjbc@it.uc3m.es)
 
 - **Collaborator(s)**
 Prasad KN (skabbina@cisco.com)
@@ -483,16 +485,25 @@ Josei Tolentino (jotolent@cisco.com)
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
 https://datatracker.ietf.org/doc/draft-belmq-green-framework/
+https://datatracker.ietf.org/doc/draft-petra-path-energy-api/
 
 - **Project Info**
 Validate GREEN Framework to cover different use cases listed in the GREEN use cases draft:
 * device/component energy consumption report with information collected directly from the device or PDU connected.
-* End-to-End use case, video streaming.
 * API integration to cover multi/inter domain.
+* End-to-End use case, video streaming.
+
+This use case aims to provide energy information at the service level to both users and providers, addressing the rebound effects seen in traditional energy efficiency approaches. By raising user awareness of ecological impacts and integrating incentivization methods, such as carbon market access, the goal is to internalize ecological effects for users. The demonstration platform will showcase energy information exposure through the collection, aggregation, and attribution of energy data across various network components, including wireless, transport, and data center equipment. Metrics will be expressed using standard data models like YANG to facilitate cross-domain energy information exchange. The platform will be validated with a video streaming example, while open questions remain about the best reporting interfaces and protocols, either as in-session reports or domain-specific exposure APIs.
+
+The setup will consist on remote infrastrcuture in Telefónica Network and Automation lab plus on-site devices.
+
 
 - **Repository**
 * Sustainability Insights in a box Open Source
 https://github.com/cisco-open/sustainability-insights-in-a-box.git
+
+* Documentation for retrieving information from the SmartPDU at Telefónica lab
+https://github.com/luismcontreras/HackathonIETF123/wiki/Documentation
 
 ---
 
@@ -763,9 +774,6 @@ Together, these efforts aim to support better-informed design and operation of R
 - **Related Documents**
 https://datatracker.ietf.org/doc/html/rfc8182
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
-
-- **Repository**
-https://github.com/jpnic/ietf123-hackathon-rpki
 
 ----
 ### Large Language Model Driven Automated Network Protocol Testing
