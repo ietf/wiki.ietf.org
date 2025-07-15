@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T08:17:57.754Z
+date: 2025-07-15T09:28:02.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -696,6 +696,8 @@ There will be a mixture of on-site and off-site collaborators supported.  At lea
 Michael Richardson (mcr@sandelman.ca)
 Peter Chunchi Liu (liuchunchi@huawei.com)
 Meiling Chen (chenmeiling@chinamobile.com)
+Diego Lopez (diego.r.lopez@telefonica.com)
+Antonio Perales (antonio.pastorperales@telefonica.com)
 
 - **Project Info**
 
