@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T07:41:56.587Z
+date: 2025-07-15T08:16:25.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1310,6 +1310,28 @@ https://github.com/LibreQoE/LibreQoS/pull/684
     - Mouseworld Knowledge Graph – https://github.com/Mouseworld-Lab/mouseworld-kg
 
 ---
+
+```markdown
+### KEM-based Authentication for EDHOC
+
+- **Champions**
+Lidia Pocero Fraile (pocero@isi.gr)
+Evangelos Haleplidis (haleplidis@isi.gr)
+
+- **Project Info**
+We will begin implementing the new Internet-Draft proposal for KEM-based authentication in EDHOC. This proposal introduces a signature-free, post-quantum secure method for authenticated key exchange using Post-Quantum Cryptography (PQC) KEMs. 
+
+Our implementation will extend the KEM-based authentication method on top of the PQ-EDHOC repository, which itself builds upon the uOSCORE-uEDHOC library to support PQC signature-based EDHOC. The C implementation targets both Linux-based high-end systems (x86 and 64-bit ARM architectures) and constrained devices based on Cortex-M4, running over the Zephyr RTOS. We aim to demonstrate end-to-end secure session establishment through EDHOC without relying on digital signatures, leveraging modern post-quantum KEMs.
+
+- **Draft Specifications**
+  - [draft-pocero-authkem-edhoc-00](https://datatracker.ietf.org/doc/draft-pocero-authkem-edhoc/)
+  - [draft-pocero-authkem-ikr-edhoc](https://datatracker.ietf.org/doc/draft-pocero-authkem-ikr-edhoc/)
+
+- **Repository**
+https://github.com/LPFraile/PQ-EDHOC
+
+```
+----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
