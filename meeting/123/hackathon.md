@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T06:38:53.049Z
+date: 2025-07-15T07:38:59.489Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1286,6 +1286,28 @@ Dave was one of the instigators of the IETF AQM and Packet Scheduling working gr
 - **Repository**
 https://github.com/LibreQoE/LibreQoS/pull/684
 
+---
+
+### Mouseworld – Knowledge Graphs for Network Digital Twins
+
+- **Champions**
+    - Ignacio Dominguez ([ignacio.dominguezmartinez@telefonica.com](mailto:ignacio.dominguezmartinez@telefonica.com))
+    - Yenny Moreno ([yennylisbeth.morenomeneses@telefonica.com](mailto:yennylisbeth.morenomeneses@telefonica.com))
+- **Project Info**
+    - The Mouseworld defines a virtualization framework that emulates real networks in containerized twin networks.
+    - Mouseworld implements a knowledge graph that enables the creation and deployment of the network digital twin based on data retrieved from the real network.
+    - The implementation builds upon Semantic Web standards such as RDF, OWL and SPARQL and leverages open-source tools such as [Apache Camel](https://camel.apache.org), [Chimera](https://github.com/cefriel/chimera), [GraphDB](https://graphdb.ontotext.com/documentation/11.0/).
+    - The containerized twin network is deployed using [KNE](https://github.com/openconfig/kne) on Kubernetes.
+    - The proposed topology scenario runs network devices based on [FRRouting (FRR)](https://frrouting.org).
+    - Work started in the context of the [6G-EDGEDT](https://unica6g.it.uc3m.es/en/6g-edgedt/), [ACROSS](https://across-he.eu) and [cPAID](https://cpaid.eu) projects.
+- **Specifications**
+    - [draft-marcas-nmop-kg-construct](https://datatracker.ietf.org/doc/draft-marcas-nmop-kg-construct/)
+    - [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/)
+- **Related Side Meeting**
+    - [Knowledge Graph Design Team](https://trello.com/c/clRk8Z5X)
+- **Repositories**
+    - Mouseworld Ontology – [https://github.com/Mouseworld-Lab/mouseworld-ontology](https://github.com/Mouseworld-Lab/mouseworld-ontology/tree/main)
+    - Mouseworld Knowledge Graph – https://github.com/Mouseworld-Lab/mouseworld-kg
 
 ---
 
