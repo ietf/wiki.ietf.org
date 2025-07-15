@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T07:38:59.489Z
+date: 2025-07-15T07:40:13.570Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1291,8 +1291,8 @@ https://github.com/LibreQoE/LibreQoS/pull/684
 ### Mouseworld – Knowledge Graphs for Network Digital Twins
 
 - **Champions**
-    - Ignacio Dominguez ([ignacio.dominguezmartinez@telefonica.com](mailto:ignacio.dominguezmartinez@telefonica.com))
-    - Yenny Moreno ([yennylisbeth.morenomeneses@telefonica.com](mailto:yennylisbeth.morenomeneses@telefonica.com))
+    - Ignacio Dominguez Martinez-Casanueva ([ignacio.dominguezmartinez@telefonica.com](mailto:ignacio.dominguezmartinez@telefonica.com))
+    - Yenny Moreno Meneses ([yennylisbeth.morenomeneses@telefonica.com](mailto:yennylisbeth.morenomeneses@telefonica.com))
 - **Project Info**
     - The Mouseworld defines a virtualization framework that emulates real networks in containerized twin networks.
     - Mouseworld implements a knowledge graph that enables the creation and deployment of the network digital twin based on data retrieved from the real network.
