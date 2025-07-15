@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T09:28:02.700Z
+date: 2025-07-15T09:33:22.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -710,6 +710,8 @@ The Network Attestation for Secured foRwarding (NASR) aims to address the challe
    - https://datatracker.ietf.org/doc/agenda-120-nasr/
 - **Related Documents**
 https://datatracker.ietf.org/doc/draft-liu-nasr-architecture/
+https://datatracker.ietf.org/doc/draft-lkspa-wimse-verifiable-geo-fence/
+https://datatracker.ietf.org/doc/draft-richardson-rats-pop-endorsement/
 - **Repositories**
    - TBA
 ----
