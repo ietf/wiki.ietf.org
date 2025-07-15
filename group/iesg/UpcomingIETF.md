@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-15T17:35:56.206Z
+date: 2025-07-15T18:12:51.204Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -89,7 +89,7 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1002
 
-> 1. xx
+> 1. see Sunday agenda parking lot
 
  
 ## Tuesday, July 22, 2025
