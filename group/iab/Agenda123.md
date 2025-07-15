@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-15T13:12:36.987Z
+date: 2025-07-15T20:38:24.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -38,12 +38,16 @@ Please join us at the Registration counter (Hospitality Hall, Main Floor). If yo
 
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
-> Agenda:
-> - Formal meeting
+> Agenda (Formal meeting):
 > - [IAB Appointments Policy](https://docs.google.com/presentation/d/1AlMuzdXtI77XpiU_azppC_JU-CNXFdajbFJUgFEhT3c/edit?usp=sharing) (Cindy)
-> - Adoption of 4052bis and 4053bis
-> - [Nemops workshop report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) - [Latest PR](https://github.com/intarchboard/draft-iab-nemops-workshop-report/pull/4/files)
-> - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman)
+> - Liaison topics (Mirja)
+>   - ICANN board update (David Lawrence)
+>   - ITU AI Standards Exchange Database; discuss IETF being listed [here](https://www.itu.int/en/ITU-T/extcoop/amas/Documents/Terms%20of%20reference%20for%20AI%20and%20multimedia%20authenticity%20standards%20collaboration.pdf)
+>   - Brief discussion of OHCHR
+> - Documents
+>   - Adoption of [4052bis](https://datatracker.ietf.org/doc/draft-krishnan-iab-rfc4052bis/) and [4053bis](https://datatracker.ietf.org/doc/draft-kuehlewind-iab-rfc4053bis/)
+>   - [Nemops workshop report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) - [Latest PR](https://github.com/intarchboard/draft-iab-nemops-workshop-report/pull/4/files)
+> - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman) ([Blog])(http://www.ietf.org/blog/experiences-igf-2025/)
 > - [WSIS Elements Paper input](https://docs.google.com/document/d/1MYZoReJGQLVW_Y3a6J1PrudmStDDNHuHtjojdW2QqpU/edit?usp=sharing)
 
 
