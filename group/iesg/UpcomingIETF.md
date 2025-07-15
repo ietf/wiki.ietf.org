@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-11T22:18:47.345Z
+date: 2025-07-15T17:27:35.088Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -65,7 +65,10 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 ### IESG Meeting - 14:00-16:00 Room: El Escorial
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
-
+>1. RPC: update to IESG (10 mins)
+    Talk about inclusive language, AUTH48 and unresponsive authors, and     
+    accepting kramdown-rfc files as a queue submission format experimentally
+>2. IANA: update to IESG (10 mins)
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday meeting.
 
