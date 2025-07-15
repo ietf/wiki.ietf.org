@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-15T17:27:35.088Z
+date: 2025-07-15T17:32:07.139Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -35,13 +35,13 @@ Please add any topics for either IESG only meetings at IETF 123, or the joint me
 
 **AMS-IETF Leadership Venue Tour**
 
-Time: TBD
-Location: TBD
+Time: 1630
+Location: Start at registration counter (Hospitality Hall, Main Floor) 
 
 **AMS-IETF Leadership Happy Hour**
 
 Time: After venue tour (16:50)-18:00
-Location: TBD
+Location: L'albufera (the hotel restaurant)
 What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 
 ## Sunday, July 20, 2025
