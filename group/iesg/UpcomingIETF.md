@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-15T17:33:44.287Z
+date: 2025-07-15T17:35:56.206Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -61,7 +61,6 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
 >2. Area walkthrough for hot topics (45 min)
     Random order: SEC, OPS, IRTF, RTG, IAB, ART, WIT, INT, GEN
 
-
 ### IESG Meeting - 14:00-16:00 Room: El Escorial
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
@@ -69,6 +68,8 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     Talk about inclusive language, AUTH48 and unresponsive authors, and     
     accepting kramdown-rfc files as a queue submission format experimentally
 >2. IANA: update to IESG (10 mins)
+>3. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway, Jean Mahoney) (20 mins)
+>4. Determine if a Monday meeting is needed
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday meeting.
 
@@ -88,7 +89,7 @@ Any topics which aren't finished in this meeting slot can roll over into the Mon
 
 * Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1002
 
-> 1. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway, Jean Mahoney) - 20 mins
+> 1. xx
 
  
 ## Tuesday, July 22, 2025
