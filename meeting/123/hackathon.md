@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-14T22:25:37.973Z
+date: 2025-07-15T06:38:53.049Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -761,7 +761,7 @@ https://datatracker.ietf.org/doc/html/rfc8182
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
 
 ----
-### LLM Driven Automated Network Protocol Testing
+### Large Language Model Driven Automated Network Protocol Testing
 
 - **Champions**
   Yong Cui (cuiyong@tsinghua.edu.cn)
@@ -777,7 +777,8 @@ https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
   - Convert predefined test cases into executable test code and execute verification in real-world environments.
 
 - **Draft Specification**
-  TBA
+  - https://datatracker.ietf.org/doc/draft-cui-bmwg-testcase-spec/
+  - https://datatracker.ietf.org/doc/draft-cui-nmrg-auto-test/
 
 - **Repositories**
   TBA
