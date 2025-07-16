@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-07-16T09:01:01.031Z
+date: 2025-07-16T10:13:01.379Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -34,9 +34,9 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
 | [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | In WG Adoption Call | IPR - 4/4 | Julien |
+|draft-dong-pce-pcep-nrp|Pending| - | - |
 | draft-chen-pce-sr-mpls-sid-verification | Pending | - | - |
 | draft-chen-pce-sr-ingress-protection | Expired | - | - |
-|draft-dong-pce-pcep-nrp|Pending| - | - |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
 
