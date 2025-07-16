@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-16T04:09:45.966Z
+date: 2025-07-16T06:58:33.664Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -458,7 +458,7 @@ Validate and verify 4 YANG-Push publisher and 1 YANG-Push receiver implementatio
 Discover YANG-Push systems and notifications capabilities and configure periodical and on-change subscriptions with netconf.
 - *Notification integration*
 Validate subscription state change and push-update and push-change-update notifications against schema with yanglint
-Validate draft-netana-nmop-message-broker-telemetry-message in message broker for draft-ietf-nmop-yang-message-broker-integration integration
+Validate draft-ietf-nmop-message-broker-telemetry-message in message broker for draft-ietf-nmop-yang-message-broker-integration integration
 
 - **Repository**
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/123/Hackathon
