@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-07-16T06:17:00.159Z
+date: 2025-07-16T06:45:07.997Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -33,11 +33,11 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | In WG Adoption Call | IPR - 3/4 | Julien |
+| [draft-dhody-pce-pcep-extension-pce-controller-p2mp](https://datatracker.ietf.org/doc/draft-dhody-pce-pcep-extension-pce-controller-p2mp) | In WG Adoption Call | IPR - 4/4 | Julien |
 | draft-chen-pce-sr-mpls-sid-verification | Pending | - | - |
 | draft-chen-pce-sr-ingress-protection | Expired | - | - |
 |draft-dong-pce-pcep-nrp|Pending| - | - |
-| draft-wang-pce-vlan-based-traffic-forwarding | - |Authors have moved VLAN forwarding details to the appendix| - |
+| draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
 
 ## Recently Adopted Documents
@@ -45,19 +45,20 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
 | draft-ietf-pce-operational| Adopted 2025-04-22; -00 posted. -01 addressing comments pending | Dhruv | 
-|draft-ietf-pce-pcep-bfd-parameters|Adopted 2025-02-05 | Dhruv|
+
 
 
 ## Other WG I-Ds
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -07 posted on 2025-03-03  | Adding SRv6 support |
+| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -08 posted on 2025-03-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -07 posted on 2025-02-12  | waiting for spring draft for WGLC |
-| draft-ietf-pce-pcep-srv6-yang |  -06 posted on 2024-10-19 | - |
+| draft-ietf-pce-pcep-srv6-yang |  -07 posted on 2025-04-21 | - |
 |draft-ietf-pce-bier-te | -01 posted on 2024-10-10 | Needs more review |
-| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -01 posted on 2024-10-21 | - |
+| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -02 posted on 2025-04-29 | - |
+|draft-ietf-pce-pcep-bfd-parameters|-00 posted 2025-02-11 | PLease handle adoption comments|
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 
