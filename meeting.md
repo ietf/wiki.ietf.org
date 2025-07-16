@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2025-07-10T13:08:40.679Z
+date: 2025-07-16T03:52:21.265Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -19,7 +19,8 @@ Wikis are used by participants to share information about and coordinate around 
 #### IETF 123 Madrid
 **July 19-25, 2025** - :es: Madrid, Spain
 - [IETF 123 Meeting Wiki](/meeting/123)
-- [IETF 123 Side Meeting Request Form](https://www.ietf.org/forms/side-meetings/) [IETF 123 Side Meeting Schedule](https://trello.com/b/6kmZPwOx)
+- [IETF 123 Side Meeting Request Form](https://www.ietf.org/forms/side-meetings/)
+- [IETF 123 Side Meeting Schedule](https://trello.com/b/6kmZPwOx)
 - [IETF 123 Hackathon](/meeting/123/hackathon)
 {.links-list}
 
