@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-07-16T10:13:01.379Z
+date: 2025-07-16T10:18:03.087Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -69,14 +69,11 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 |Draft|Imp Sec|Manag Sec|Remarks|Action|
 | --- | --- | --- | ---|---|
 |[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -13 posted on 2025-04-16 | Has Normative dependencies, thus need to wait |
-|draft-ietf-pce-circuit-style-pcep-extensions|Y|Y|-09 posted on 2025-06-26|-|
 | draft-ietf-pce-entropy-label-position |Y|N| -03 posted on 2025-04-17 |Please add Managebility Consideration Section|
 | [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -03 posted on 2025-04-21 | - |
-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -07 posted on 2025-07-03 | - |
-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - |
-| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -13 posted on 2025-04-09  | What is the conclusion to - Should the PCEP extension go beyond the SR Policy SPRING’s SR Policy RFC? |
-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -02 posted on 2025-06-01 | - |
-| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | N | Y| -11 posted on 2025-02-19 | More review requested, IANA early code points allocated |
+
+
+
 
 
 ## WG Last Call Queue 
@@ -85,9 +82,14 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Draft | Imp Sec | Manag Sec| State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |---|
+|draft-ietf-pce-circuit-style-pcep-extensions|Y|Y|-09 posted on 2025-06-26|Ready for WGLC| Dhruv | - |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | Y| -11 posted on 2025-07-07 | Ready for WGLC | Dhruv | - |
+| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | N | Y| -11 posted on 2025-02-19 | More review requested, IANA early code points allocated | Dhruv | Andrew |
+| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -13 posted on 2025-04-09  | What is the conclusion to - Should the PCEP extension go beyond the SR Policy SPRING’s SR Policy RFC? | Dhruv | - |
+| draft-ietf-pce-stateful-pce-autobw-update |N|N| -02 posted on 2025-06-01 | - | - | - |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| Y| -15 posted on 2025-02-13  | Ready for WGLC | Dhruv | - |
-
+| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -07 posted on 2025-07-03 | - | - | - |
+| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - | - | - |
 
 ## Post WG LC Queue  
 
