@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-16T06:20:05.959Z
+date: 2025-07-16T06:21:50.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -25,8 +25,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Agenda for 123| - | Andrew | [draft agenda](https://notes.ietf.org/PCE-Agenda-IETF123) |
-| WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open, one IPR missing|
+| WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
 | Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Authors to resolve Quan's comment; the I-D is currently expired. <br> 1 IPR response from Francesco Lazzeri missing, who is now retired - confirm with authors on how they wish to proceed|
 | Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
@@ -45,6 +44,7 @@ Some concerns:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+|Agenda for 123| [agenda](https://datatracker.ietf.org/doc/agenda-123-pce/) | All |-|
 |IANA Renew| draft-ietf-pce-multipath | Dhruv | Asked authors for commitment |
 |Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|-|
 |Author Guidance|draft-wang-pce-vlan-based-traffic-forwarding|Sent email to John and Julien|ISE declined to publish; authors made an update|
