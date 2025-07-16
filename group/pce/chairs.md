@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-16T06:44:58.324Z
+date: 2025-07-16T10:14:48.207Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -14,12 +14,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Discuss | - | TLVs in sub-object and how to make it work. |Ketan: I would really urge the WG to discuss moving away from this flag based extensions and instead move to TLV based extensions that follow whatever object encodings are defined so far. We cannot expect to change what exists, but anything coming up in the future can stop using this flag based mechanism. If this isn't done, the combinations of flags and the ordering of these variable size objects will make parsing complex for implementations - especially if they were to support some flags but not others.<br>Dhruv: Isnt it too late to do this and the complexisty already exist, does adding more flags really increases the complexity more? Any past reason why no subobject in RSVP-TE or PCEP ever had TLVs?|
-| Adoption | draft-dong-pce-pcep-nrp | - | Request from authors to prioritize |
-| WGLC | draft-ietf-pce-circuit-style-pcep-extensions | - | Authors requesting WGLC in parallel to spring draft; can be moved to WGLC queue? |
-| WGLC | draft-ietf-pce-sr-p2mp-policy | - | Authors requesting WGLC. draft; can be moved to WGLC queue? |
-| Queue| - | - | Evaluate “Nearing” WGLC queue and adoption queue |
-| Enhancing Wiki | - | Extension Map | Decide if it is worth expanding on the [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) |
-|WG Slides for 123|-|Dhruv|-|
+| Mind Map | - |  | WG maintain a mind map - Decide if it is worth expanding the [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) or  do it on the WG Github with Mermaid? Any volunteers?|
+
 
 
 ## Initiated and ongoing Tasks
@@ -39,12 +35,17 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 |Ketan|AD Evaluation|draft-ietf-pce-sid-algo|AD review done, authors posted update, reverifying WG consenses|
 
-Some concerns: 
-- Not many responses 
+Items to talk to Ketan:
+- SID Algo: sub-TLV v/s Flags
+- VLAN forwarding: notify IEEE?
+- PCEP-LS as an author: any concern
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Add to Adoption queue | draft-dong-pce-pcep-nrp | Dhruv | Request from authors to prioritize |
+| Add to WGLC queue | draft-ietf-pce-circuit-style-pcep-extensions | Dhruv | Authors requesting WGLC in parallel to spring draft; can be moved to WGLC queue? |
+| Add to WGLC queue | draft-ietf-pce-sr-p2mp-policy | Dhruv | Authors requesting WGLC. draft; can be moved to WGLC queue? |
 |Agenda for 123| [agenda](https://datatracker.ietf.org/doc/agenda-123-pce/) | All |-|
 |IANA Renew| draft-ietf-pce-multipath | Dhruv | Asked authors for commitment |
 |Early IANA allocation|draft-ietf-pce-p2mp-policy|Dhruv|-|
