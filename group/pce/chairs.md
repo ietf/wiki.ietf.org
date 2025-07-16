@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-16T05:43:16.838Z
+date: 2025-07-16T06:20:05.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -15,8 +15,9 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 | Discuss | - | TLVs in sub-object and how to make it work. |Ketan: I would really urge the WG to discuss moving away from this flag based extensions and instead move to TLV based extensions that follow whatever object encodings are defined so far. We cannot expect to change what exists, but anything coming up in the future can stop using this flag based mechanism. If this isn't done, the combinations of flags and the ordering of these variable size objects will make parsing complex for implementations - especially if they were to support some flags but not others.<br>Dhruv: Isnt it too late to do this and the complexisty already exist, does adding more flags really increases the complexity more? Any past reason why no subobject in RSVP-TE or PCEP ever had TLVs?|
 | Adoption | draft-dong-pce-pcep-nrp | - | Request from authors to prioritize |
-| WGLC | draft-ietf-pce-circuit-style-pcep-extensions | - | Authors requesting WGLC in parallel to spring draft |
-| WGLC | draft-ietf-pce-sr-p2mp-policy | - | Authors requesting WGLC |
+| WGLC | draft-ietf-pce-circuit-style-pcep-extensions | - | Authors requesting WGLC in parallel to spring draft; can be moved to WGLC queue? |
+| WGLC | draft-ietf-pce-sr-p2mp-policy | - | Authors requesting WGLC. draft; can be moved to WGLC queue? |
+| Queue| - | - | Evaluate “Nearing” WGLC queue and adoption queue |
 | Enhancing Wiki | - | Extension Map | Decide if it is worth expanding on the [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) |
 |WG Slides for 123|-|Dhruv|-|
 
