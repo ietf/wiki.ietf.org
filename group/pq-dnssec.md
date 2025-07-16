@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-06-30T09:56:04.627Z
+date: 2025-07-16T08:55:12.354Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -23,6 +23,10 @@ Meeting notes are available [here].
 - 15'+q Elmer Lastdrager (SIDN Labs): Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators ([Slides])
 - 15'+q Swapneel Sheth (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
 - AOB
+
+### Elmer Lastdrager: Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators
+
+We present our work where we empirically analyze the signing performance of promising PQC algorithms MAYO-2 and Falcon512 from a DNS operator point of view, in terms of zone file size, signing time, and validation time, and compare them to currently deployed algorithms RSA-1280 and ECDSA-P256. We find that the DNSSEC signing performance of MAYO-2 is better than RSA-1280, while Falcon-512 performs similarly. The validation performance of MAYO-2 is better than ECDSA-P256 and comparable to RSA1280, whereas Falcon-512 is 0.3 times slower than ECDSA-P256. These results suggest that DNSSEC signing with MAYO-2 and Falcon-512 is feasible for TLD operators. However, Falcon-512 generates larger signature size and MAYO-2 has larger public keys.
 
 # IETF 122 Side Meeting
 Tuesday, March 18, 2025, 09:30-10:30 (local Bangkok time) ([information about room and online participation](https://trello.com/c/xXjSjBuK/61-0930-1030-pq-dnssec-research))
