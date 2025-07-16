@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-16T16:25:33.961Z
+date: 2025-07-16T17:22:26.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1132,7 +1132,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - Internet Draft: https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
 
 - **Side Meeting**
-  - Wednesday, 23rd, 16:00–17:00h, Room Segovia, [see Sidemeetings](https://trello.com/c/NeYUtS5O)
+  - Wednesday, July 23rd, 16:00–17:00h, Room Segovia, [see Sidemeetings](https://trello.com/c/NeYUtS5O)
 
 - **Hackathon Plan (Potential Working Items)**
   - Testing and debugging KIRA with NEST (Connectivity Tests, Reaction to Link or Node Failures and Restoration)
