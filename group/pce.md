@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-07-16T05:46:48.371Z
+date: 2025-07-16T06:00:12.648Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -67,10 +67,10 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Manag Sec|Remarks|Action|
 | --- | --- | --- | ---|---|
-|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -12 posted on 2024-10-14 | Has Normative dependencies, thus need to wait |
-|draft-ietf-pce-circuit-style-pcep-extensions|Y|Y|-07 posted on 2024-11-05|-|
-| draft-ietf-pce-entropy-label-position |N|N| -02 posted on 2024-09-19 |-|
-| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -02 posted on 2024-10-20 | - |
+|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -13 posted on 2025-04-16 | Has Normative dependencies, thus need to wait |
+|draft-ietf-pce-circuit-style-pcep-extensions|Y|Y|-09 posted on 2025-06-26|-|
+| draft-ietf-pce-entropy-label-position |Y|N| -03 posted on 2025-04-17 |Please add Managebility Consideration Section|
+| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -03 posted on 2025-04-21 | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -06 posted on 2025-01-03  | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -12 posted on 2024-10-08  | Comments from 117 are not handled yet! |
