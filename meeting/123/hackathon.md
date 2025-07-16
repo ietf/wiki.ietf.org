@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-16T06:58:33.664Z
+date: 2025-07-16T08:02:52.566Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -772,8 +772,18 @@ Second, we will conduct a comparative study of RPKI repositories operated by oth
 Together, these efforts aim to support better-informed design and operation of RRDP-based RPKI repositories by offering both empirical data and tooling.
 
 - **Related Documents**
-https://datatracker.ietf.org/doc/html/rfc8182
-https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
+  - https://datatracker.ietf.org/doc/html/rfc8182
+  - https://datatracker.ietf.org/doc/draft-ietf-sidrops-publication-server-bcp/
+  
+- **Repository**
+  - https://github.com/jpnic/ietf123-hackathon-rpki
+  
+- **Materials**
+Google Shared Drive. Please contact champions to access.
+
+- **Online Participation**
+Please register for the dedicated zoom call beforehand.<br>
+https://us06web.zoom.us/meeting/register/0_Ye7292SvOeUqa2NwhkXw
 
 ----
 ### Large Language Model Driven Automated Network Protocol Testing
