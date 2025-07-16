@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-16T08:02:52.566Z
+date: 2025-07-16T08:31:22.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1339,6 +1339,7 @@ https://github.com/LibreQoE/LibreQoS/pull/684
 
 - **Champions**
 Lidia Pocero Fraile (pocero@isi.gr)
+Apostolos Fournaris (fournaris@isi.gr)
 Evangelos Haleplidis (haleplidis@isi.gr)
 
 - **Project Info**
