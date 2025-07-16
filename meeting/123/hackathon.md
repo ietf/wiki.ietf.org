@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-16T17:22:26.106Z
+date: 2025-07-16T17:23:23.888Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1139,13 +1139,14 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - Check alignment of internal parameter values (timers etc.) with Internet-Draft defaults
   - Implement wire format as defined in https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
   - Implement Wireshark Dissector for the wire format
-  - Improve Web Demonstrator interface
+  - Improve Web Demonstrator interface (Python)
 
 - **Technologies**
   - [Rust](https://www.rust-lang.org/)
   - IPv6
   - Linux
   - [NEST](https://nest.nitk.ac.in/#/) / [ContainerNet](https://github.com/containernet/containernet)
+  - Python for the Web Demo Interface
 
 - **Source Code Repository**
   - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
