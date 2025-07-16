@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-11T02:56:04.731Z
+date: 2025-07-16T05:43:16.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -27,7 +27,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 | Agenda for 123| - | Andrew | [draft agenda](https://notes.ietf.org/PCE-Agenda-IETF123) |
 | WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open, one IPR missing|
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
-| Shephered Review and Writeup| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
+| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Authors to resolve Quan's comment; the I-D is currently expired. <br> 1 IPR response from Francesco Lazzeri missing, who is now retired - confirm with authors on how they wish to proceed|
+| Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
