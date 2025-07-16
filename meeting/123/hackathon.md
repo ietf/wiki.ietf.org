@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-15T14:00:24.497Z
+date: 2025-07-16T04:09:45.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -13,7 +13,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 19 - 20 July 2025 (Saturday - Sunday)
 * :es: **Where**: Meliá Castilla
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: [El Prado & Aranjuez](https://datatracker.ietf.org/meeting/123/floor-plan?room=el-prado-aranjuez)
 {.grid-list}
 
 **Sign up for the Hackathon**
