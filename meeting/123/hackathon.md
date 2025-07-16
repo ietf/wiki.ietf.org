@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-16T08:31:22.181Z
+date: 2025-07-16T16:25:33.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1122,6 +1122,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 ### KIRA – Scalable Zero-Touch Routing for Control Planes
 - **Champions**
   - Roland Bless (roland.bless@kit.edu)
+  - Julius Rüberg (julius.rueberg@student.kit.edu)
 - **Project Info**
   - KIRA is a scalable zero-touch routing architecture that provides IPv6 connectivity without any configuration for hundreds of thousands of nodes. It is ID-based and also works well in fixed networks, data center networks, mobile ad-hoc networks, and LEO satellite networks. The prototypical implementation is written in Rust.
 
@@ -1133,10 +1134,12 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 - **Side Meeting**
   - Wednesday, 23rd, 16:00–17:00h, Room Segovia, [see Sidemeetings](https://trello.com/c/NeYUtS5O)
 
-- **Hackathon Plan**
-  - Testing and debugging KIRA with NEST
+- **Hackathon Plan (Potential Working Items)**
+  - Testing and debugging KIRA with NEST (Connectivity Tests, Reaction to Link or Node Failures and Restoration)
+  - Check alignment of internal parameter values (timers etc.) with Internet-Draft defaults
   - Implement wire format as defined in https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
-  - Wireshark Dissector
+  - Implement Wireshark Dissector for the wire format
+  - Improve Web Demonstrator interface
 
 - **Technologies**
   - [Rust](https://www.rust-lang.org/)
