@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T12:06:48.726Z
+date: 2025-07-17T13:44:31.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1308,7 +1308,7 @@ This project is dealing with two drafts that aim at extending the [Semantic Defi
 The goal is to develop open source tooling that can assist with both types of model evolution, to further discuss the two drafts listed above, and to ideally further align them with other documents from the SDF specification family and their implementations.
 
 
-### In Loving Memory Dave Täht (1965-2025)
+### In Loving Memory of Dave Täht (1965-2025)
 - **Champions**
 Frank (Frantisek) Borsik frank@libreqos.io / frantisek.borsik@gmail.com
 - **Project Info**
