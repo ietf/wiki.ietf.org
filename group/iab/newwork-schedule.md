@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-16T12:57:15.999Z
+date: 2025-07-17T04:13:59.235Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -13,7 +13,7 @@ dateCreated: 2024-06-28T10:06:07.006Z
 Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot. We can then remove the slots that do not have any takers. 
 
 
-## Monday 21st July
+## Monday 21st July (*CONFIRMED*)
 Beverage Break, **11:30-12:30**
 - Mirja
 - Dhruv
@@ -27,7 +27,7 @@ Beverage Break, **15:30-16:30**
 - Dhruv
 - Matthew
 
-## Thursday 24th July
+## Thursday 24th July (*Proposed to-be-CONFIRMEDed*)
 Beverage Break, **11:30-12:30**
 - Dhruv
 - Matthew
