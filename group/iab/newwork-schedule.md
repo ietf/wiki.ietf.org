@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-17T04:30:34.512Z
+date: 2025-07-17T14:54:39.339Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -18,11 +18,12 @@ Beverage Break, **11:30-12:30**
 Clashes 2nd half with: panrg, dnsop, green, mops, mpls, radext, scitt, witarea
 - Mirja
 - Dhruv
-
+- Suresh
 
 ## Wednesday 23rd July 
 Beverage Break, **15:30-16:30**
 Clashes 2nd half with: add, nmop, lisp, tvr, suit, tls, tsvwg
 - Dhruv
 - Matthew
+- Suresh
 
