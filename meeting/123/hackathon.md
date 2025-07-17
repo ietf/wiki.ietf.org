@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T10:52:48.935Z
+date: 2025-07-17T11:32:02.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1349,6 +1349,18 @@ Our implementation will extend the KEM-based authentication method on top of the
 
 - **Repository**
 https://github.com/LPFraile/PQ-EDHOC
+
+----
+
+### Rust-based Conceptual Message Wrapper (CMW) implementation
+- **Champions**
+Ionuț Mihalcea (ionut.mihalcea@arm.com)
+- **Project Info**
+CMW is a new data type designed in the RATS WG as an abstraction layer for remote attestation conceptual messages. This new format is meant to be used both as a way to easily integrate remote attestation with other network protocols, and as a way to model complex, layered attesters and composite devices.
+The Hackathon work will focus on creating a Rust-native library for creating, parsing, and handling CMWs. The goal is to prove interoperability (with the existing Go library), and to validate the design.
+
+- **Draft specification**
+	- [draft-ietf-rats-msg-wrap](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/)
 
 ----
 
