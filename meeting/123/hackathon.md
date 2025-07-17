@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T01:57:12.008Z
+date: 2025-07-17T05:44:24.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -477,10 +477,14 @@ Benoit Claise (benoit.claise@huawei.com)
 Qin Wu (bill.wu@huawei.com)
 Artur Hecker (Artur.Hecker@huawei.com)
 Carlos J. Bernardos (cjbc@it.uc3m.es)
+Alberto Rodriguez Natal (natal@cisco.com)
 
 - **Collaborator(s)**
 Prasad KN (skabbina@cisco.com)
 Josei Tolentino (jotolent@cisco.com)
+Fernando Muñoz (fmunozma@cisco.com)
+Ignacio Fite (nfitelop@cisco.com)
+Benjamin Schwarz (bs@ctoic.net)
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
