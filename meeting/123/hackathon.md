@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T16:11:04.764Z
+date: 2025-07-17T16:11:53.140Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1395,6 +1395,7 @@ The Hackathon work will focus on creating a Rust-native library for creating, pa
 	- https://github.com/veraison/rust-cmw
 
 ----
+### Applying YANG Provenance Signatures
 
 - **Champions**
 Diego López, diego.r.lopez@telefonica.com
