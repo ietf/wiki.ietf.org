@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T13:44:31.677Z
+date: 2025-07-17T15:02:03.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1374,6 +1374,9 @@ The Hackathon work will focus on creating a Rust-native library for creating, pa
 
 - **Draft specification**
 	- [draft-ietf-rats-msg-wrap](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/)
+  
+- **Repository**
+	- https://github.com/veraison/rust-cmw
 
 ----
 
