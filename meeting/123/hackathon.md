@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T07:58:27.236Z
+date: 2025-07-17T08:37:08.952Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1348,6 +1348,23 @@ Our implementation will extend the KEM-based authentication method on top of the
 
 - **Repository**
 https://github.com/LPFraile/PQ-EDHOC
+
+----
+### Antagonist
+
+- **Champions**
+Vincenzo Riccobene (vincenzo.riccobene@gmail.com)
+
+- **Project Info**
+Network Anomalies becoming incidents? not a problem anymore!
+With Antagonist you can manage the anomaly detection lifecycle, check how your Machine Learnign (ML) models are doing in production, retrain your ML models, and more.
+
+- **Draft Specifications**
+  - [draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
+  - Presenting On Wed 23rd July, at 4pm @ [NMOP-WG](https://datatracker.ietf.org/meeting/123/materials/agenda-123-nmop-01)
+  
+- **Repository**
+TBD
 
 ----
 
