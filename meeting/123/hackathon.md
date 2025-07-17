@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T15:02:03.944Z
+date: 2025-07-17T15:48:57.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -548,9 +548,10 @@ The Measurement & Analysis for Protocols Research Group ([MAPRG](https://www.irt
   * [Heuristics and Algorithms to Prioritize Protocol deploYment (happy) Working Group](https://datatracker.ietf.org/group/happy/about/)
   * [IPvFoo browser extension/add-on for Chrome and Firefox](https://github.com/pmarks-net/ipvfoo)
   * [Testing IPv6-only Networks (YouTube recording of NANOG presentation re: IPv6 Test Pod)](https://www.youtube.com/watch?v=0QCQVX9rZ6s)
-
-----
-### NTP Version 5
+---
+### Network Time Synchronization Related Projects
+There are a number of related network time synchronization efforts ongoing in the IETF. Small teams will be working on subsets of these. 
+#### NTP Version 5
 
 - **Champions**
 Karen O'Donoghue (kodonog@pobox.com)
@@ -563,9 +564,24 @@ https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
    - NTPD-RS: https://github.com/pendulum-project/ntpd-rs
    - Experimental: https://github.com/mlichvar/ntp5-exp
    - NTPv5 in Chrony: https://github.com/mlichvar/chrony-ntp5
+---
+#### Network Time Security (for PTP and CSPTP)
+- **Champions**
+Karen O'Donoghue (kodonog@pobox.com)
+Dieter Sibold (dsibold.ietf@gmail.com)
+- **Project Info**
+Investigation of security vulnerabilities in PTPv2.1 and development of countermeasures. Explore NTS for PTP and CSPTP. 
+- **Background Documents**
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-ntp-nts-for-ptp/
+IEEE Std. 1588-2019, IEEE STd. 15 1588-2019d (See NTP working group chairs for access to these documents.)
+
+- **Repositories**
+NTS4PTP (WIP): https://gitlab.com/MLanger/NTS4PTP/-/tree/develop?ref_type=heads
 
 ----
-### NTS Pool
+#### NTS Pool
 - **Champions**
 David Venhoek (david@venhoek.nl)
 Ruben Nijveld (ruben@gewooniets.nl)
