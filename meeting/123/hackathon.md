@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T09:48:21.782Z
+date: 2025-07-17T10:52:48.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -654,6 +654,7 @@ This project aims to build a suite for interoperability testing between differen
 
 - **Repositories**
 	- https://github.com/ElsaLopez133/lakers/tree/PSK2-coap-inter-test
+  - EDHOC-PSK implementation from the University of Murcia: https://gitlab.com/franciscolopezg/edhoc-psk-interop-ietf123
 
 ----
 
