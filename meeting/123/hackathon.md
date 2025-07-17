@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T08:37:19.997Z
+date: 2025-07-17T09:13:28.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -483,7 +483,7 @@ Validate GREEN Framework to cover different use cases listed in the GREEN use ca
 
 This use case aims to provide energy information at the service level to both users and providers, addressing the rebound effects seen in traditional energy efficiency approaches. By raising user awareness of ecological impacts and integrating incentivization methods, such as carbon market access, the goal is to internalize ecological effects for users. The demonstration platform will showcase energy information exposure through the collection, aggregation, and attribution of energy data across various network components, including wireless, transport, and data center equipment. Metrics will be expressed using standard data models like YANG to facilitate cross-domain energy information exchange. The platform will be validated with a video streaming example, while open questions remain about the best reporting interfaces and protocols, either as in-session reports or domain-specific exposure APIs.
 
-The setup will consist on remote infrastrcuture in Telefónica Network and Automation lab plus on-site devices.
+The setup will consist on remote infrastrcuture in Telefónica Network and Automation lab, remote wireless access infrastructure in Internet Institute (ININ) lab, plus on-site devices.
 
 Part of the hackathon work is framed on the activities being carried out by the Exigence Project (https://projectexigence.eu), funded by the Smart Networks and Services Joint Undertaking (SNS JU) under the European Union's Horizon Europe programme (Grant Agreement no. 101139120).
 
@@ -495,7 +495,7 @@ https://github.com/cisco-open/sustainability-insights-in-a-box.git
 https://github.com/luismcontreras/HackathonIETF123/wiki/Documentation
 
 * Resources of interest from the Exigence project
-https://github.com/luismcontreras/HackathonIETF123/wiki/Exigence-resources-of-interest
+https://github.com/luismcontreras/HackathonIETF123/wiki/Resources-of-interest-from-Exigence-Project
 ---
 
 ### Model-Based IOT Gateway (ASDF/NIPC) 
@@ -1348,23 +1348,6 @@ Our implementation will extend the KEM-based authentication method on top of the
 
 - **Repository**
 https://github.com/LPFraile/PQ-EDHOC
-
-----
-### Antagonist
-
-- **Champions**
-Vincenzo Riccobene (vincenzo.riccobene@gmail.com)
-
-- **Project Info**
-Network Anomalies becoming incidents? not a problem anymore!
-With Antagonist you can manage the anomaly detection lifecycle, check how your Machine Learning (ML) models are doing in production, retrain your ML models, and more.
-
-- **Draft Specifications**
-  - [draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/)
-  - Presenting On Wed 23rd July, at 4pm @ [NMOP-WG](https://datatracker.ietf.org/meeting/123/materials/agenda-123-nmop-01)
-  
-- **Repository**
-TBD
 
 ----
 
