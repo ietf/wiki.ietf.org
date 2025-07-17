@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T05:44:24.246Z
+date: 2025-07-17T07:49:52.646Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -282,24 +282,7 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
  	- **Repository and Instructions**
 		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-CATS](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-2/codeco-cats)
 
-- **Challenge 3: Benchmarking Network-aware Edge-Cloud Orchestration with CODEF**
-	In alignment with the IETF BMWG's current focus on extending benchmarking methodologies to containerized and cloud-native environments, this initiative proposes the use of the [CODECO](https://he-codeco.eu/) CODEF —an open-source, microservice-driven software-based testbed framework— to evaluate the performance and scalability of edge-cloud orchestration across heterogeneous infrastructures. 
-  CODEF supports comprehensive benchmarking of native and customized Kubernetes (K8s)-SDN distributions, container networking interfaces (CNIs), and orchestration components under realistic workload conditions. 
-  This work directly supports BMWG's objective of providing standardized, reusable methodologies for benchmarking the performance of virtualized and containerized networking solutions in modern, distributed infrastructures. 
-  - **Objective**: 
-Use the open-source CODEF framework to benchmark and compare the performance of various Container Network Interface (CNI) plugins, including L2S-M, within containerized edge-cloud environments.  
 
-  - **Champions**
-		George Koukis (george.koukis@athenarc.gr)
-		Tina Samizadeh (samizadeh@fortiss.org)
-		Alex Tjaarda (abuning@pa.uc3m.es)
-  - **Related WG**
-	 [BMWG](https://datatracker.ietf.org/group/bmwg/about/) - Benchmarking Methodology 
-  - **Specifications**
-		Draft being proposed - [https://github.com/rute19104/ietf-bmwg-draft-2025-1](https://github.com/rute19104/ietf-bmwg-draft-2025-1)
-   - **Repository and Instructions**
-		[https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-3](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/hackathon/challenge-3)
-    CODEF can be downloaded [here](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project/experimentation-framework-and-demonstrations/experimentation-framework/-/tree/main/codeco-experimentation-framework?ref_type=heads)
 - **Background on CODECO**
 	[CODECO Project Repository in GITLAB](https://gitlab.eclipse.org/eclipse-research-labs/codeco-project)
 	[CODECO Project website](https://he-codeco.eu)
