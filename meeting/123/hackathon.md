@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T16:12:49.519Z
+date: 2025-07-17T22:34:12.513Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1417,6 +1417,40 @@ We continue working on the YANG provenance framework, attempting to demonstrate 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+
+----
+### vCon
+- **Champions**
+  - Dan Petrie (dan.ietf@sipez.com)
+  
+- **Project Info**
+**WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
+**I-D:** [vCon core](https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/)
+**Repos:**
+  - [python_vcon - python vCon library and CLI](https://github.com/py-vcon/py-vcon/tree/main)
+  - [py_vcon_server - vCon integration and AI enabled workflow server ](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/README.md)
+<br>
+  One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
+  
+  - Communications systems (email, sms, web chate, voice and video calls)
+  - Data consumer or customer data platform
+  - AI, ML and algorithmic analysis services, model training and testing
+  - CRM systems
+  
+- **Hackathon Objective**
+The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.  The **group** and **appended** features of vCon have not been fully implemented or tested.
+
+- **Hackathon Work Items**
+
+  - Implement appended vCon and generate example for the vCon Container I-D
+
+    - Implement **create_appended** [filter_plugin](https://github.com/py-vcon/py-vcon/tree/main?tab=readme-ov-file#vcon-filter-plugins) and [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+  - Implement **group** vCon and generate example for the vCon Container I-D
+  	- Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
+    - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+  - Implement **redacted** for video and/or audio media dialogs
+  - Test support for dialogs with separate recording file for each party
 
 ----
 ```markdown
