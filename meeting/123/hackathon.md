@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T16:11:53.140Z
+date: 2025-07-17T16:12:16.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1403,8 +1403,7 @@ Ana Méndez, ana.mendezperez@telefonica.com
 
 - **Project Info**
 At the IETF 122 Hackathon we introduced and demonstrated a YANG provenance signature framework, based on the referece specification and implemented as microservices, useful to sign and verify YANG data elements in support of the assurance of their origin and integrity.
-
-We continue work on the YANG provenance framework, attempting to demonstrate its integration with a Kafka bus, and its convergence with current approaches to address YANG data integration in state-of-the-art data infrastructures.
+We continue working on the YANG provenance framework, attempting to demonstrate its integration with a Kafka bus, and its convergence with current approaches to address YANG data integration in state-of-the-art data infrastructures.
 
 - **Draft Specification**
   - [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
