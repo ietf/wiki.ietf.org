@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T11:59:51.539Z
+date: 2025-07-17T12:06:48.726Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -570,9 +570,9 @@ https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
 David Venhoek (david@venhoek.nl)
 Ruben Nijveld (ruben@gewooniets.nl)
 - **Project Info**
-Creating a pool for NTS servers, using key-exchange servers run by the pool
+Creating a pool for NTS servers, using key-exchange servers run by the pool. An experimental pool is available at ke.experimental.ntspool.trifectatech.org. We are particularly interested in server operators who want to experiment with running a server in this pool.
 - **Draft Specifications**
-https://datatracker.ietf.org/doc/
+https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/
 - **Repositories**
    - Pool software: https://github.com/pendulum-project/nts-pool
    - ntpd-rs with pool support: https://github.com/pendulum-project/ntpd-rs
