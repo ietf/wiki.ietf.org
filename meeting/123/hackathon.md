@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T11:32:02.159Z
+date: 2025-07-17T11:59:51.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -563,6 +563,19 @@ https://datatracker.ietf.org/doc/draft-ietf-ntp-ntpv5/
    - NTPD-RS: https://github.com/pendulum-project/ntpd-rs
    - Experimental: https://github.com/mlichvar/ntp5-exp
    - NTPv5 in Chrony: https://github.com/mlichvar/chrony-ntp5
+
+----
+### NTS Pool
+- **Champions**
+David Venhoek (david@venhoek.nl)
+Ruben Nijveld (ruben@gewooniets.nl)
+- **Project Info**
+Creating a pool for NTS servers, using key-exchange servers run by the pool
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/
+- **Repositories**
+   - Pool software: https://github.com/pendulum-project/nts-pool
+   - ntpd-rs with pool support: https://github.com/pendulum-project/ntpd-rs
 
 ----
 ### Testing Congestion Control and Queue Management Mechanisms
