@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-15T20:38:24.742Z
+date: 2025-07-17T05:01:53.216Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -47,7 +47,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 > - Documents
 >   - Adoption of [4052bis](https://datatracker.ietf.org/doc/draft-krishnan-iab-rfc4052bis/) and [4053bis](https://datatracker.ietf.org/doc/draft-kuehlewind-iab-rfc4053bis/)
 >   - [Nemops workshop report](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) - [Latest PR](https://github.com/intarchboard/draft-iab-nemops-workshop-report/pull/4/files)
-> - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman) ([Blog])(http://www.ietf.org/blog/experiences-igf-2025/)
+> - Followup from IGF and WSIS + ISOC (Dhruv, Mark, Mirja, Roman) ([Blog](http://www.ietf.org/blog/experiences-igf-2025/))
 > - [WSIS Elements Paper input](https://docs.google.com/document/d/1MYZoReJGQLVW_Y3a6J1PrudmStDDNHuHtjojdW2QqpU/edit?usp=sharing)
 
 
