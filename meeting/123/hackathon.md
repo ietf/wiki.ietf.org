@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T07:49:52.646Z
+date: 2025-07-17T07:58:27.236Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -468,6 +468,7 @@ Josei Tolentino (jotolent@cisco.com)
 Fernando Muñoz (fmunozma@cisco.com)
 Ignacio Fite (nfitelop@cisco.com)
 Benjamin Schwarz (bs@ctoic.net)
+Osama Abboud (osama.abboud@huawei.com)
 
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-stephan-green-use-cases/
@@ -484,6 +485,7 @@ This use case aims to provide energy information at the service level to both us
 
 The setup will consist on remote infrastrcuture in Telefónica Network and Automation lab plus on-site devices.
 
+Part of the hackathon work is framed on the activities being carried out by the Exigence Project (https://projectexigence.eu), funded by the Smart Networks and Services Joint Undertaking (SNS JU) under the European Union's Horizon Europe programme (Grant Agreement no. 101139120).
 
 - **Repository**
 * Sustainability Insights in a box Open Source
@@ -492,6 +494,8 @@ https://github.com/cisco-open/sustainability-insights-in-a-box.git
 * Documentation for retrieving information from the SmartPDU at Telefónica lab
 https://github.com/luismcontreras/HackathonIETF123/wiki/Documentation
 
+* Resources of interest from the Exigence project
+https://github.com/luismcontreras/HackathonIETF123/wiki/Exigence-resources-of-interest
 ---
 
 ### Model-Based IOT Gateway (ASDF/NIPC) 
