@@ -2,7 +2,7 @@
 title: IETF 123 Departure Coordination
 description: 
 published: true
-date: 2025-07-14T19:03:35.865Z
+date: 2025-07-18T00:47:44.271Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T20:57:15.747Z
@@ -29,6 +29,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
+|11:15|UA261|Lixia Zhang| lixia@cs.ucla.edu | MAD  | 1 | Meliá Castilla | 11:15 is the flight departure time|
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
 
