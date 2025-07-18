@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-17T22:34:12.513Z
+date: 2025-07-18T08:55:05.757Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1411,6 +1411,26 @@ We continue working on the YANG provenance framework, attempting to demonstrate 
 - **Repositories**
   - https://github.com/tefiros/cose-provenance
   - https://github.com/tefiros/kafka-provenance
+
+----
+### AS Relationship Based Inter-domain Filtering (ARBIF)
+
+- **Champions**
+Gang Ren (rengang@cernet.edu.cn)
+Shuqi Liu (liu-sq23@mails.tsinghua.edu.cn)
+
+- **Project Info**
+Inter-domain Source Address Validation (SAV) is important in relieving IP spoofing. It is a distributed inter-domain SAV scheme based on AS relationships we proposed in the SAVNET Working Group, named AS Relationship Based Inter-domain Filtering (ARBIF).
+
+- **Hackathon Plan**
+	- Discuss the design and implementation of the ARBIF
+	- Implement and test methods of getting AS relationships and getting IP prefixes corresponding to ASes in the ARBIF
+	- Gain more hands-on experience and insights into the implementation and operation of ARBIF
+
+- **Draft Specification**
+	- [draft-rly-savnet-inter-domain-as-relationships](https://datatracker.ietf.org/doc/draft-rly-savnet-inter-domain-as-relationships/)
+
+
 
 ----
 
