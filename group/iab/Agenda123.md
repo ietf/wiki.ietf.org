@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-17T05:01:53.216Z
+date: 2025-07-18T21:49:37.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -40,8 +40,11 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 > Agenda (Formal meeting):
 > - [IAB Appointments Policy](https://docs.google.com/presentation/d/1AlMuzdXtI77XpiU_azppC_JU-CNXFdajbFJUgFEhT3c/edit?usp=sharing) (Cindy)
+> - Reports
+>   - Outreach coordinator report; see email (Dhruv)
+>   - IRTF report; see email (Dirk)
 > - Liaison topics (Mirja)
->   - ICANN board update (David Lawrence)
+>   - ICANN board update; see email report (David Lawrence)
 >   - ITU AI Standards Exchange Database; discuss IETF being listed [here](https://www.itu.int/en/ITU-T/extcoop/amas/Documents/Terms%20of%20reference%20for%20AI%20and%20multimedia%20authenticity%20standards%20collaboration.pdf)
 >   - Brief discussion of OHCHR
 > - Documents
