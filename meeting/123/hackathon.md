@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-18T12:31:56.673Z
+date: 2025-07-18T12:35:37.160Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -66,8 +66,7 @@ Related activities before and after the Hackathon weekend
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 21 - 25 July, Room: **TBD** 
-  * View the [schedule](codelounge) or reserve space for your team/project
+  * Monday - Friday, 21 - 25 July, Room: **TBD**
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
