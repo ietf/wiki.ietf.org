@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-18T16:25:45.017Z
+date: 2025-07-18T21:48:45.633Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1074,6 +1074,7 @@ https://datatracker.ietf.org/doc/html/draft-ietf-aipref-attach
 - **Champions**
 Wataru Mishima (w.mishima@ntt.com)
 Yuta Fukagawa (y.fukagawa@ntt.com)
+Kiyoto Nakata (nakatakiyoto2022@gmail.com)
 
 - **Project Info**
 Implement each component of Chapter 4 "Overview of Architecture" in "draft-watal-spring-srv6-sfc-sr-aware-functions" to achieve comprehensive management of SRv6 SFC.
