@@ -2,7 +2,7 @@
 title: IETF 123 Arrival Coordination
 description: 
 published: true
-date: 2025-07-14T18:57:57.729Z
+date: 2025-07-18T00:45:09.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T20:54:03.553Z
@@ -39,6 +39,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
+|8:05|UA261|Lixia Zhang| lixia@cs.ucla.edu | MAD  | 1 | Meliá Castilla | Happy to share a Taxi/Uber|
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
 
