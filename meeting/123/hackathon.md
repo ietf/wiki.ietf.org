@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-18T12:38:44.050Z
+date: 2025-07-18T16:25:45.017Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -591,6 +591,7 @@ https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/
 - **Repositories**
    - Pool software: https://github.com/pendulum-project/nts-pool
    - ntpd-rs with pool support: https://github.com/pendulum-project/ntpd-rs
+   - chrony with pool support: https://github.com/pendulum-project/chrony
 
 ----
 ### Testing Congestion Control and Queue Management Mechanisms
