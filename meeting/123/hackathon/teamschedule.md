@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Team Schedule
 description: 
 published: true
-date: 2025-07-18T12:13:01.808Z
+date: 2025-07-18T12:14:51.709Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:11:39.327Z
@@ -13,7 +13,7 @@ The IETF Hackathon is taking place as a hybrid event. The overall agenda for the
 
 Within the overall agenda, it is up to individual project teams to determine their own preferred ways to collaborate. Many teams likely include both in-person and remote participants.
 
-The IETF is using gather.town to facilitate social interaction at the IETF meeting. There is a space for the Hackathon with tables and whiteboards that teams can use for group communication and information sharing. [Gather](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)  (password: notewell)
+The IETF is using gather.town to facilitate social interaction at the IETF meeting. There is a space for the Hackathon with tables and whiteboards that teams can use for group communication and information sharing. [Gather](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)  (password: ietf)
 
 
 You are free to use gather.town, and you may also use Zoom, Webex, Slack, or whatever works best for your team. If you want to use Webex and need a Webex account, you can find more info [HERE](https://wiki.ietf.org/en/meeting/123/hackathon#Webexsessionsforteams).
