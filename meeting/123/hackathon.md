@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-18T12:19:07.976Z
+date: 2025-07-18T12:25:10.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -60,7 +60,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 21 July, Time: 19:00 - 20:00, Room: **TBD**
+  * Monday, 21 July, Time: 19:00 - 20:00, Room: [Red Foyer](https://datatracker.ietf.org/meeting/123/floor-plan?room=red-foyer)
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 21 July
 
