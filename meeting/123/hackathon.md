@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-18T08:55:05.757Z
+date: 2025-07-18T12:19:02.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -827,7 +827,7 @@ https://us06web.zoom.us/meeting/register/0_Ye7292SvOeUqa2NwhkXw
   - https://datatracker.ietf.org/doc/draft-cui-nmrg-auto-test/
 
 - **Repositories**
-  TBA
+  https://github.com/ckw20/NetAutoTest_Hackathon#
 
 
 ---
