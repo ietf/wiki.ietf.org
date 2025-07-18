@@ -1,8 +1,8 @@
 ---
-title: IETF 122 Team Schedule
+title: IETF 122 Hackathon Team Schedule
 description: 
 published: true
-date: 2025-07-18T12:12:25.930Z
+date: 2025-07-18T12:12:42.554Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:11:39.327Z
