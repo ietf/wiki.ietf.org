@@ -2,11 +2,15 @@
 title: 6lo WG - IPv6 over Networks of Resource-constrained Nodes
 description: 
 published: true
-date: 2023-01-12T00:14:25.033Z
+date: 2025-07-19T09:30:49.209Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:47:28.584Z
 ---
+
+> This page is related to an active IETF Working Group
+{.is-success}
+
 
 # Welcome to the 6LO Working Group
 The [6LO working group](https://datatracker.ietf.org/group/6lo/about/) focuses on the work that facilitates IPv6 connectivity over constrained node networks with the characteristics of:
