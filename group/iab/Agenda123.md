@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-19T12:34:53.297Z
+date: 2025-07-19T18:38:11.581Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
