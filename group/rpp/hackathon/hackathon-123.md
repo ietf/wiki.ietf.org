@@ -2,7 +2,7 @@
 title: Hackathon 123
 description: 
 published: true
-date: 2025-07-19T11:23:22.886Z
+date: 2025-07-19T13:58:01.982Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-07-19T07:31:15.710Z
@@ -28,16 +28,26 @@ specified in JSONschema and validated as such. The format for the
 entities is a small subset of JScontact (RFC 9553). Here are some examples with curl:
 
 ```
-
 HEADER="Accept: application/rpp+json"
 
+# Simple information about a domain
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" http://rpp.bortzmeyer.fr:8080/domains/nic.example
+
+# Creating a domain
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --request PUT --user 2:qwerty --data '{"holder": 2}'  http://rpp.bortzmeyer.fr:8080/domains/durand.example
 
+# Simple information about an entity
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" http://rpp.bortzmeyer.fr:8080/entities/2
+
+# Creating an entity
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --request PUT --data '{"@type": "Card", "name": {"components": [{"kind": "given","value": "Jeanne"},{"kind": "surname","value": "Bon"}]}}'  http://rpp.bortzmeyer.fr:8080/entities/
 
+# Using HEAD as a DAS
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --head http://rpp.bortzmeyer.fr:8080/domains/toto.example
+
+# Transferring a domain
+curl --header $HEADER --request POST --user 3:bazinga http://rpp.bortzmeyer.fr:8080/domains/durand.example/transfer
+curl --header $HEADER  --request POST --user 2:qwerty http://rpp.bortzmeyer.fr:8080/domains/durand.example/transfer/approval
 ```
 
 
