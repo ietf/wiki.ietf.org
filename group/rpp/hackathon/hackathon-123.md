@@ -2,7 +2,7 @@
 title: Hackathon 123
 description: 
 published: true
-date: 2025-07-19T17:15:30.831Z
+date: 2025-07-19T17:20:33.141Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-07-19T07:31:15.710Z
@@ -113,6 +113,30 @@ A small subset of JScontact
 }
 ``` 
 
-    
+Schema for domain update:
+
+```
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Update of a domain name",
+    "type": "object",
+    "properties": {
+	"change": {
+	    "type": "object",
+	    "properties": {
+		"tech": {
+		    "description": "Technical contact handle",
+		    "type": "integer"
+		},
+		"admin": {
+		    "description": "Administrative contact handle",
+		    "type": "integer"
+		}
+	    }
+	}
+    }
+}
+```
+
 
 
