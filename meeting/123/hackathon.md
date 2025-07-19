@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:04:56.137Z
+date: 2025-07-19T09:16:25.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1497,6 +1497,20 @@ We propose Secure Hybrid Network Monitoring that analyzes requirements for ensur
   - IETF122 hackathon slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-secure-hybrid-network-00
 
 
+----
+### Remote Attestation with Multiple Verifiers
+- **Champions**
+Yogesh Deshpande (Arm Ltd), yogesh.deshpande@arm.com
+Jun Zhang(Huawei Technologies France), junzhang1@huawei.com
+Houda Labiod(Huawei Technologies France), houda.labiod@huawei.com
+Henk Birkholtz(Fraunhofer SIT), henk.birkholz@sit.fraunhofer.de
+Thomas Fossati(Linaro), Thomas.Fossati@linaro.org
+- **Project Info**
+We discuss the use cases, architectural design, security and privacy considerations, information flow, and message formats, related to the remote attestation with multiple Verifiers. 
+- **Relevant drafts**
+	- Internet-Draft:https://datatracker.ietf.org/doc/draft-deshpande-rats-multi-verifier/02/
+- **Relevant side meeting**  
+  - Remote Attestation Challenges in Complex Scenarios, https://trello.com/c/LZrP2xQa/42-1600-1700-remote-attestation-challenges-in-complex-scenarios
 ----
 ```markdown
 ### Your Project
