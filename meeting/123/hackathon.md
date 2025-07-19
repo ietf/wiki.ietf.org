@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T16:06:06.877Z
+date: 2025-07-19T17:11:39.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -604,6 +604,13 @@ https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/
    - Pool software: https://github.com/pendulum-project/nts-pool
    - ntpd-rs with pool support: https://github.com/pendulum-project/ntpd-rs
    - chrony with pool support: https://github.com/pendulum-project/chrony
+
+----
+#### NTS Client in Python
+- **Project Info**
+Creating an NTS client in Python. This has been worked on by Luciano Mattoli and Cassidy Heulings from Marist College. 
+- **Repositories**
+   - Python Client for NTS: https://github.com/Marist-SDN-SecureCloud/nts-poc-python/tree/ptp_dev
 
 ----
 ### Testing Congestion Control and Queue Management Mechanisms
