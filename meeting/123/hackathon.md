@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T08:21:21.643Z
+date: 2025-07-19T08:23:23.618Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -656,7 +656,7 @@ https://www.a2aprotocol.org/zh
 - **Repositories**
 https://github.com/rainie-song/agent-protocol-security
 - **Room**
-1st room for Hackathon besides stairs.
+Aranjuez room: 1st room for Hackathon besides stairs.
 ----
 
 ### EDHOC-PSK Interoperability Testing
