@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T08:23:23.618Z
+date: 2025-07-19T09:04:56.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1490,7 +1490,7 @@ We propose Secure Hybrid Network Monitoring that analyzes requirements for ensur
 
 - **Hackathon Work Item**
 	- writing a new internet-draft
-  - investing relevant IETF protocols
+  - investigating relevant IETF protocols
   
 - **Relevant drafts**
 	- Internet-Draft: https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/ 
