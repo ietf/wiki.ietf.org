@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-07-13T12:12:43.099Z
+date: 2025-07-19T07:32:57.400Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -59,3 +59,7 @@ TODO
 - [RPP Core](https://datatracker.ietf.org/doc/draft-rpp-core/)
 - [STD 95 (RDAP)](https://www.rfc-editor.org/info/std95)
 - [STD 69 (EPP)](https://www.rfc-editor.org/info/std69)
+
+## Hackathons
+
+- [IETF-123](https://wiki.ietf.org/en/group/rpp/hackathon/hackathon-123)
