@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:37:23.840Z
+date: 2025-07-19T09:38:54.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1268,9 +1268,13 @@ Online evaluation of OPUS DRED through [Mumble](https://www.mumble.info/).
   - Demonstrate Interface to In-Network Computing Functions (I2ICF) Intent Translator of Intent Service Application for IoT Device (i.e., Software Defined Vehicles (SDVs)).
   - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
 - **Specifications**
+  -[draft-jeong-opsawg-i2icf-problem-statement-00]
 (https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-problem-statement/)
+  -[draft-jeong-opsawg-i2icf-framework-00]
 (https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-framework/)
+  -[draft-ywj-opsawg-i2icf-data-center-networking-00]
 (https://datatracker.ietf.org/doc/draft-ywj-opsawg-i2icf-data-center-networking/)
+  -[draft-ahn-opsawg-i2icf-cits-00]
 (https://datatracker.ietf.org/doc/draft-ahn-opsawg-i2icf-cits/)
 
 ----
