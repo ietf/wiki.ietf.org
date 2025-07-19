@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:56:25.819Z
+date: 2025-07-19T11:40:23.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -616,12 +616,17 @@ https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/
 	- Navaneet Y V N (navaneetyvn.211cs234@nitk.edu.in)
 	- Satyam Shukla (satyamshukla.211cs254@nitk.edu.in)
 	- Shashank G (shashankg.211cs256@nitk.edu.in)
+  - Monika Gautam (monikagautam.242cs024@nitk.edu.in) [Remote]
+  - Arun Kumar Rajaraman (arunkumarr.242cs011@nitk.edu.in) [Remote]
+  - Ayush Nigam (ayushnigam.242cs012@nitk.edu.in) [Remote]
+  - Jayesh Akot (jayesh.242cs007@nitk.edu.in) [Remote]
 
 - **Project Info**
 	- Testing of FQ-CoDel and FQ-PIE using ns-3, NeST and WiFi APs
   - Improving the delay-throughput tradeoff with a new version of CoDel
   - An example for rate-limited sender implementation in ns-3
   - Testing the effectiveness of Alternative Backoff with ECN (ABE) using ns-3
+  - Testing and validating the ns-3 implementation of HTB queue discipline
 - **Related documents**
 	* [RFC 7928](https://datatracker.ietf.org/doc/html/rfc7928)
   * [RFC 8289](https://datatracker.ietf.org/doc/html/rfc8289)
