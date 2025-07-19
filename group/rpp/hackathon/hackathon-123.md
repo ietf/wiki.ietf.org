@@ -2,7 +2,7 @@
 title: Hackathon 123
 description: 
 published: true
-date: 2025-07-19T11:21:20.495Z
+date: 2025-07-19T11:23:22.886Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-07-19T07:31:15.710Z
@@ -39,4 +39,64 @@ curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --request PUT --data '{"@ty
 
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --head http://rpp.bortzmeyer.fr:8080/domains/toto.example
 ```
+
+
+#### Schema for domains
+
+```
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Domain name",
+    "type": "object",
+    "properties": {
+	"holder": {
+	    "description": "Holder (registrant) handle",
+	    "type": "integer"
+	}
+    },
+    "required": ["holder"]
+}
+```
+
+#### Schema for entities
+
+A small subset of JScontact
+
+```
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "description": "An entity (can be a contact, a registrar, etc). The idea is to stay close from JScontact (RFC 9553)",
+    "title": "Entity",
+    "type": "object",
+    "properties": {
+	"@type": {
+	    "type": "string",
+	    "const": "Card"
+	},
+	"name": {
+	    "type": "object",
+	    "properties": {
+		"components": {
+		    "type": "array",
+		    "items": {
+			"properties": {
+			    "kind": {
+				"type": "string",
+				"enum": ["given", "surname"]
+			    },
+			    "value": {
+				"type": "string"
+			    }			
+			}
+		    }
+		}
+	    }	
+	}
+    },
+    "required": ["@type", "name"]
+}
+``` 
+
+    
+
 
