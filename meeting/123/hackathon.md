@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T08:04:16.077Z
+date: 2025-07-19T08:21:21.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -654,7 +654,9 @@ In this hackathon we aim to validate the security design (e.g. identity, authent
 https://modelcontextprotocol.io/introduction
 https://www.a2aprotocol.org/zh
 - **Repositories**
-   - TBD
+https://github.com/rainie-song/agent-protocol-security
+- **Room**
+1st room for Hackathon besides stairs.
 ----
 
 ### EDHOC-PSK Interoperability Testing
