@@ -2,7 +2,7 @@
 title: Hackathon 123
 description: 
 published: true
-date: 2025-07-19T15:03:01.021Z
+date: 2025-07-19T17:15:30.831Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-07-19T07:31:15.710Z
@@ -47,6 +47,9 @@ curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --head http://rpp.bortzmeye
 
 # A DAS
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" http://rpp.bortzmeyer.fr:8080/domains/toto.example/availability
+
+# Updating a domain
+curl -i --header HEADER --request PATCH --user 2:qwerty --data '{"change": {"admin": 1}}'  http://rpp.bortzmeyer.fr:8080/domains/durand.example
 
 # Transferring a domain
 curl --header $HEADER --request POST --user 3:bazinga http://rpp.bortzmeyer.fr:8080/domains/durand.example/transfer
