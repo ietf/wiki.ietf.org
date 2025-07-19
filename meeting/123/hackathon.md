@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:16:25.213Z
+date: 2025-07-19T09:29:52.462Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -193,6 +193,16 @@ We welcome all participants who are familiar with:
   - Benchmark examples:
     - https://github.com/Concyclics/HiAE/tree/main
     - https://github.com/hiae-aead/benchmarks
+
+---
+
+### Authentication for crawl libraries
+- Atish Joottun (@cyberstorm.mu)
+- Thibault Meunier (ot-ietf@thibault.uk)
+
+- **Project Info**
+The goal is to see how authentication can be integrated in popular crawling libraries such as [scrapy](https://github.com/scrapy/scrapy) and [crawl4ai](https://github.com/unclecode/crawl4ai).
+Implementation already exists in [Typescript and Rust](https://github.com/cloudflare/web-bot-auth), and a Python implementation is needed to target these libraries. It will be based on the current proposal in web bot auth with the use of RFC 9421.
 
 ---
 ### RESTful Provisioning Protocol (RPP)
