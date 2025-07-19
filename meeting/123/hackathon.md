@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T16:02:27.274Z
+date: 2025-07-19T16:02:41.429Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1573,7 +1573,7 @@ Yuxiang Yang (yangyx22@mails.tsinghua.edu.cn)
 Ao Wang (wangao@seu.edu.cn)
 
 - **Project Info**
-We will develop PacketScope, a general-purpose protocol stack analysis and debugging tool based on eBPF. This project introduces a comprehensive solution that integrates performance optimization, anomaly diagnosis, and security defense by enabling fine-grained tracing and intelligent analysis of network packets at the protocol stack level on the server side.
+PacketScope, a general-purpose protocol stack analysis and debugging tool based on eBPF. This project introduces a comprehensive solution that integrates performance optimization, anomaly diagnosis, and security defense by enabling fine-grained tracing and intelligent analysis of network packets at the protocol stack level on the server side.
 
 - **Relevant drafts**
 	- Internet-Draft:https://datatracker.ietf.org/doc/draft-xu-intarea-vulnerabilities-forged-icmp/
