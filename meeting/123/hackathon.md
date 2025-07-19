@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-18T21:48:45.633Z
+date: 2025-07-19T05:39:16.703Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -352,17 +352,17 @@ The reporting will be provided to Prometheus and eventually to SDN; alignment to
 
 - **Project Info**
 
-Mari (Micro-robot Access Radio Infrastructure) is a lightweight, open-source protocol stack that brings multi-gateway Time Slotted Channel Hopping (TSCH) to Bluetooth Low Energy (BLE) radios, with support for node-initiated roaming. Mari is a completely new link layer that replaces the BLE controller and host software. Built to support large-scale robot swarms and dense IoT deployments, Mari enables fast handovers, predictable latency, and efficient over-the-air updates.
+Mari (Micro-robot Access Radio Infrastructure) is a lightweight, [open-source](https://github.com/DotBots/mari) protocol stack that brings multi-gateway Time Slotted Channel Hopping (TSCH) to Bluetooth Low Energy (BLE) radios, with support for node-initiated roaming. Mari is a completely new link layer that replaces the BLE controller and host software. Built to support large-scale robot swarms and dense IoT deployments, Mari enables fast handovers, predictable latency, and efficient over-the-air updates.
 
-BLE alone does not scale beyond 5–20 concurrent connections (depending on the stack), Wi-Fi supports more nodes but suffers from collisions and higher power draw, and 6TiSCH offers deterministic communication but lacks native roaming support.
+BLE alone does not scale beyond 5–20 concurrent connections (depending on the stack), Wi-Fi supports more nodes but suffers from collisions and higher power draw, and 6TiSCH offers deterministic communication but lacks support for node mobility.
 
 Mari fills this gap by:
 - Implementing TSCH directly over the BLE PHY (bypassing the BLE controller and host stack)
 - Supporting seamless roaming across multiple gateways without requiring coordination
 - Running on widely available hardware (e.g., nRF52840, nRF5340)
-- Enabling fast Over-The-Air Programming (OTAP) and dense deployments (100+ nodes)
+- Enabling near real time control and dense deployments (100+ nodes)
 
-While Thread and BLE Mesh are designed for static home automation using IPv6 over 6LoWPAN or flooding protocols, Mari targets mobile and high-density scenarios -- such as robot swarms -- where real-time communication, bounded latency, and remote firmware updates are crucial.
+While Thread and BLE Mesh are designed for static home automation using IPv6 over 6LoWPAN or flooding protocols, Mari targets mobile and high-density scenarios -- such as [robot swarms](https://hal.science/hal-04673787v1/file/Demo__DotBot__a_cm_Scale__Easy_to_Use_Micro_Robot_for_Swarm_Research__Said_Owned_.pdf) -- where real-time communication, bounded latency, and remote firmware updates are crucial.
 
 At the IETF 123 Hackathon, we aim to:
 - Demonstrate a live Mari deployment
