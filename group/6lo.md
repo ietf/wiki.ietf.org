@@ -2,13 +2,13 @@
 title: 6lo WG - IPv6 over Networks of Resource-constrained Nodes
 description: 
 published: true
-date: 2025-07-19T09:30:49.209Z
+date: 2025-07-19T09:30:59.704Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:47:28.584Z
 ---
 
-> This page is related to an active IETF Working Group
+> This page is related to an active IETF Working Group.
 {.is-success}
 
 
