@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:16:25.213Z
+date: 2025-07-19T08:23:23.618Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -238,6 +238,16 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Project Info**
 PQC in open source software. 
+
+---
+
+### Authentication for crawl libraries
+- Atish Joottun (@cyberstorm.mu)
+- Thibault Meunier (ot-ietf@thibault.uk)
+
+- **Project Info**
+The goal is to see how authentication can be integrated in popular crawling libraries such as [scrapy](https://github.com/scrapy/scrapy) and [crawl4ai](https://github.com/unclecode/crawl4ai).
+Implementation already exists in [Typescript and Rust](https://github.com/cloudflare/web-bot-auth), and a Python implementation is needed to target these libraries. It will be based on the current proposal in web bot auth with the use of RFC 9421.
 
 ---
 
@@ -724,6 +734,7 @@ There will be a mixture of on-site and off-site collaborators supported.  At lea
   - Some code planned to be tested is not open source.
   - https://github.com/wesley-eddy/scone-tools
   - TBD other open source repositories
+
 
 ----
 ### Network Attestation for Secured foRwarding
@@ -1490,27 +1501,13 @@ We propose Secure Hybrid Network Monitoring that analyzes requirements for ensur
 
 - **Hackathon Work Item**
 	- writing a new internet-draft
-  - investigating relevant IETF protocols
+  - investing relevant IETF protocols
   
 - **Relevant drafts**
 	- Internet-Draft: https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/ 
   - IETF122 hackathon slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-secure-hybrid-network-00
 
 
-----
-### Remote Attestation with Multiple Verifiers
-- **Champions**
-Yogesh Deshpande (Arm Ltd), yogesh.deshpande@arm.com
-Jun Zhang(Huawei Technologies France), junzhang1@huawei.com
-Houda Labiod(Huawei Technologies France), houda.labiod@huawei.com
-Henk Birkholtz(Fraunhofer SIT), henk.birkholz@sit.fraunhofer.de
-Thomas Fossati(Linaro), Thomas.Fossati@linaro.org
-- **Project Info**
-We discuss the use cases, architectural design, security and privacy considerations, information flow, and message formats, related to the remote attestation with multiple Verifiers. 
-- **Relevant drafts**
-	- Internet-Draft:https://datatracker.ietf.org/doc/draft-deshpande-rats-multi-verifier/02/
-- **Relevant side meeting**  
-  - Remote Attestation Challenges in Complex Scenarios, https://trello.com/c/LZrP2xQa/42-1600-1700-remote-attestation-challenges-in-complex-scenarios
 ----
 ```markdown
 ### Your Project
