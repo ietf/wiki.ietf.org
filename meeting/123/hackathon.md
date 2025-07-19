@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:38:54.582Z
+date: 2025-07-19T09:56:25.819Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1288,6 +1288,40 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 	1. Typical response size and frequency of request for different DNS record types.
 	1. DNSSEC non-existence responses (NSEC/NSEC3) 
 	1. Name server implementations and measurement of new algorithms (NIST approved, other candidate algorithms, and MTL mode)
+  
+ > See the following zones hosted at pqcauthoratative.verisignlabs.com. Each zone has signatures based on the algorithm name in the zone name.  There are NS and DS records along with A records for the host name www.
+ > 
+ > NSEC Responses
+ > ecdsa-nsec.pqc.verisignlabs.com
+ > fl-dsa-nsec.pqc.verisignlabs.com
+ > hawk-nsec.pqc.verisignlabs.com
+ > mayo-1-nsec.pqc.verisignlabs.com
+ > mayo-2-nsec.pqc.verisignlabs.com
+ > ml-dsa-nsec.pqc.verisignlabs.com
+ > rsa-nsec.pqc.verisignlabs.com
+ > slh-dsa-mtl-sha-nsec.pqc.verisignlabs.com
+ > slh-dsa-mtl-shake-nsec.pqc.verisignlabs.com
+ > slh-dsa-sha-nsec.pqc.verisignlabs.com
+ > slh-dsa-shake-nsec.pqc.verisignlabs.com
+ > snova-nsec.pqc.verisignlabs.com
+ > sqisign-nsec.pqc.verisignlabs.com
+ > 
+ > NSEC3 Responses
+ > ecdsa-nsec3.pqc.verisignlabs.com
+ > fl-dsa-nsec3.pqc.verisignlabs.com
+ > hawk-nsec3.pqc.verisignlabs.com
+ > mayo-1-nsec3.pqc.verisignlabs.com
+ > mayo-2-nsec3.pqc.verisignlabs.com
+ > ml-dsa-nsec3.pqc.verisignlabs.com
+ > rsa-nsec3.pqc.verisignlabs.com
+ > slh-dsa-mtl-sha-nsec3.pqc.verisignlabs.com
+ > slh-dsa-mtl-shake-nsec3.pqc.verisignlabs.com
+ > slh-dsa-sha-nsec3.pqc.verisignlabs.com
+ > slh-dsa-shake-nsec3.pqc.verisignlabs.com
+ > snova-nsec3.pqc.verisignlabs.com
+ > sqisign-nsec3.pqc.verisignlabs.com
+ 
+
 
 - **Draft Specifications**
 	1. https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
