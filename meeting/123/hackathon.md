@@ -1501,7 +1501,7 @@ We propose Secure Hybrid Network Monitoring that analyzes requirements for ensur
 
 - **Hackathon Work Item**
 	- writing a new internet-draft
-  - investing relevant IETF protocols
+  - investigating relevant IETF protocols
   
 - **Relevant drafts**
 	- Internet-Draft: https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/ 
@@ -1521,7 +1521,6 @@ We discuss the use cases, architectural design, security and privacy considerati
 	- Internet-Draft:https://datatracker.ietf.org/doc/draft-deshpande-rats-multi-verifier/02/
 - **Relevant side meeting**  
   - Remote Attestation Challenges in Complex Scenarios, https://trello.com/c/LZrP2xQa/42-1600-1700-remote-attestation-challenges-in-complex-scenarios
-
 ----
 ```markdown
 ### Your Project
