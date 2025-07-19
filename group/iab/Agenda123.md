@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-18T21:49:37.352Z
+date: 2025-07-19T12:34:53.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -67,6 +67,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 ## Monday, 2025-07-21
 
+**11:30-11:30: IAB New Work Help Desk (Hospitality Hall)
+
 **1315-1415: IETF-3GPP Coordination (El Escorial)**
 
 Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1003
@@ -94,6 +96,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34524
 
 ## Wednesday, 2025-07-23
 
+**15:30-16:30: IAB New Work Help Desk (Hospitality Hall)
+
 **1730-1930: IETF 123 Plenary (Auditorio)**
 
 ## Thursday, 2025-07-24
@@ -107,6 +111,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1006
 > - CCG Update (Russ, Barry, Tim) 
 > - Pending Item from Retreat: - Guidance for External (Non-IETF) Events ([issue](https://github.com/intarchboard/responsibilities/issues/53) & [Slide](https://docs.google.com/presentation/d/1lwq-UB5jKMKv8dFxkB1S-dmlyEbn_5C3HhOgg54efMc/edit?usp=sharing)) (Dhruv)
 > - Decision process followup (Mark)
+
+**12:00-13:00	Liaison Coordinators Office Hours (El Jardín)
 
 ## Friday, 2025-07-25
 
