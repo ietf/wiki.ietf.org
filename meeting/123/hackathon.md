@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T05:39:16.703Z
+date: 2025-07-19T05:39:52.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -365,7 +365,7 @@ Mari fills this gap by:
 While Thread and BLE Mesh are designed for static home automation using IPv6 over 6LoWPAN or flooding protocols, Mari targets mobile and high-density scenarios -- such as [robot swarms](https://hal.science/hal-04673787v1/file/Demo__DotBot__a_cm_Scale__Easy_to_Use_Micro_Robot_for_Swarm_Research__Said_Owned_.pdf) -- where real-time communication, bounded latency, and remote firmware updates are crucial.
 
 At the IETF 123 Hackathon, we aim to:
-- Demonstrate a live Mari deployment
+- Demonstrate a live Mari deployment with 40 nodes connected to a single gateway
 - Explore how Mari (as a link-layer protocol) can interoperate with upper-layer IETF technologies, including 6LoWPAN, UDP, and CoAP
 - Specify/implement a secure association for Mari using IETF technologies such as EDHOC and ELA
 
