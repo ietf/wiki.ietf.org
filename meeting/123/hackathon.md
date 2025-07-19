@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T11:40:23.754Z
+date: 2025-07-19T16:02:27.274Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1564,6 +1564,23 @@ We discuss the use cases, architectural design, security and privacy considerati
 	- Internet-Draft:https://datatracker.ietf.org/doc/draft-deshpande-rats-multi-verifier/02/
 - **Relevant side meeting**  
   - Remote Attestation Challenges in Complex Scenarios, https://trello.com/c/LZrP2xQa/42-1600-1700-remote-attestation-challenges-in-complex-scenarios
+---
+### PacketScope: "Smart Armor" for Server-Side Defense
+
+- **Champions**
+Zhaoxi Li (li-zx24@mails.tsinghua.edu.cn)
+Yuxiang Yang (yangyx22@mails.tsinghua.edu.cn)
+Ao Wang (wangao@seu.edu.cn)
+
+- **Project Info**
+We will develop PacketScope, a general-purpose protocol stack analysis and debugging tool based on eBPF. This project introduces a comprehensive solution that integrates performance optimization, anomaly diagnosis, and security defense by enabling fine-grained tracing and intelligent analysis of network packets at the protocol stack level on the server side.
+
+- **Relevant drafts**
+	- Internet-Draft:https://datatracker.ietf.org/doc/draft-xu-intarea-vulnerabilities-forged-icmp/
+	- Internet-Draft:https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv4/
+	- Internet-Draft:https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv6/
+- **Repositories**
+	- https://github.com/Internet-Architecture-and-Security/PacketScope
 ----
 ```markdown
 ### Your Project
