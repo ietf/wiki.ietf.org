@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:35:22.083Z
+date: 2025-07-19T09:37:18.652Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1268,11 +1268,10 @@ Online evaluation of OPUS DRED through [Mumble](https://www.mumble.info/).
   - Demonstrate Interface to In-Network Computing Functions (I2ICF) Intent Translator of Intent Service Application for IoT Device (i.e., Software Defined Vehicles (SDVs)).
   - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
 - **Specifications**
-  - [draft-jeong-opsawg-i2inf-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-framework/)
-  - [draft-jeong-opsawg-i2inf-problem-statement](https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2inf-problem-statement/)
-  - [draft-jeong-opsawg-intent-based-sdv-framework](https://datatracker.ietf.org/doc/draft-jeong-opsawg-intent-based-sdv-framework/)
-  - [draft-jeong-cats-its-use-cases-01](https://datatracker.ietf.org/doc/draft-jeong-cats-its-use-cases/)
-  
+(https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-problem-statement/)
+(https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-framework/)
+(https://datatracker.ietf.org/doc/draft-ywj-opsawg-i2icf-data-center-networking/)
+(https://datatracker.ietf.org/doc/draft-ahn-opsawg-i2icf-cits/)
 ----
 ### PQC DNSSEC Algorithms and Non-Existence Responses
 - **Champions**
