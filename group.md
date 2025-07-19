@@ -2,13 +2,13 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-06-19T17:47:17.410Z
+date: 2025-07-19T09:35:38.457Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
 ---
 
-> Please only add a link to a page that is created and has content - we do not want a lot of links to blank/empty pages.
+> Please contact support@ietf.org if you would like to create a page for your Working Group or Research Group
 {.is-warning}
 # Leadership groups
 - [iesg *Internet Engineering Steering Group*](/group/iesg)
