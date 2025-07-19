@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T09:37:18.652Z
+date: 2025-07-19T09:37:23.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1272,6 +1272,7 @@ Online evaluation of OPUS DRED through [Mumble](https://www.mumble.info/).
 (https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-framework/)
 (https://datatracker.ietf.org/doc/draft-ywj-opsawg-i2icf-data-center-networking/)
 (https://datatracker.ietf.org/doc/draft-ahn-opsawg-i2icf-cits/)
+
 ----
 ### PQC DNSSEC Algorithms and Non-Existence Responses
 - **Champions**
