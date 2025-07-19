@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T05:39:52.847Z
+date: 2025-07-19T06:08:56.729Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -190,7 +190,9 @@ We welcome all participants who are familiar with:
 
 - **Repository**
   - https://github.com/hiae-aead/draft-pham-hiae
-  - Benchmark example: https://github.com/Concyclics/HiAE/tree/main
+  - Benchmark examples:
+    - https://github.com/Concyclics/HiAE/tree/main
+    - https://github.com/hiae-aead/benchmarks
 
 ---
 ### RESTful Provisioning Protocol (RPP)
