@@ -2,7 +2,7 @@
 title: Hackathon 123
 description: 
 published: true
-date: 2025-07-19T13:58:01.982Z
+date: 2025-07-19T15:03:01.021Z
 tags: hackathon
 editor: markdown
 dateCreated: 2025-07-19T07:31:15.710Z
@@ -42,8 +42,11 @@ curl --header $HEADER --header "RPP-Cltrid: $RANDOM" http://rpp.bortzmeyer.fr:80
 # Creating an entity
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --request PUT --data '{"@type": "Card", "name": {"components": [{"kind": "given","value": "Jeanne"},{"kind": "surname","value": "Bon"}]}}'  http://rpp.bortzmeyer.fr:8080/entities/
 
-# Using HEAD as a DAS
+# Using HEAD 
 curl --header $HEADER --header "RPP-Cltrid: $RANDOM" --head http://rpp.bortzmeyer.fr:8080/domains/toto.example
+
+# A DAS
+curl --header $HEADER --header "RPP-Cltrid: $RANDOM" http://rpp.bortzmeyer.fr:8080/domains/toto.example/availability
 
 # Transferring a domain
 curl --header $HEADER --request POST --user 3:bazinga http://rpp.bortzmeyer.fr:8080/domains/durand.example/transfer
