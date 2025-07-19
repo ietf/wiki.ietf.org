@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-19T18:23:07.776Z
+date: 2025-07-19T19:35:33.555Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -21,7 +21,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
  |---|---|---|---|
 |I2ICF|Mose Gu|rna0415@naver.com|https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-framework/
 |NTS Pool   | David Venhoek  | david@venhoek.nl  | https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/  |
-| Mari | Geovane Fedrecheski | geovane.fedrecheski@inria.fr | TBD |
+| Micro-robot Access Radio Infrastructure | Geovane Fedrecheski | geovane.fedrecheski@inria.fr | https://youtu.be/BAHgDbgaDFs?si=GNrgCQr2gtXrxEko |
 | Agentic IoT | Jaime Jimenez | jaime.jimenez@ericsson.com | TBD |
 |   |   |   |   |
 |   |   |   |   |
