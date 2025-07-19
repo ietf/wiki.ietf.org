@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-19T06:08:56.729Z
+date: 2025-07-19T08:04:16.077Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1474,6 +1474,26 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
     - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
   - Implement **redacted** for video and/or audio media dialogs
   - Test support for dialogs with separate recording file for each party
+
+----
+### Secure Hybrid Network Monitoring
+- **Champions**
+Yutaka Oiwa (AIST, Japan), y.oiwa@aist.go.jp
+- **Members**
+Yumi Sakemi (GMO CONNECT, Inc., Japan), sakemi-yumi@gmo-connect.jp
+Satoru Kanno (GMO CONNECT, Inc., Japan), kanno@gmo-connect.jp
+
+- **Project Info**
+We propose Secure Hybrid Network Monitoring that analyzes requirements for ensuring and monitoring the security status of the network used under complex network environment such as hybrid cloud or mixed cloud settings.
+
+- **Hackathon Work Item**
+	- writing a new internet-draft
+  - investing relevant IETF protocols
+  
+- **Relevant drafts**
+	- Internet-Draft: https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/ 
+  - IETF122 hackathon slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-secure-hybrid-network-00
+
 
 ----
 ```markdown
