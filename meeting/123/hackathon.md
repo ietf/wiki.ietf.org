@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-20T07:37:31.060Z
+date: 2025-07-20T08:22:37.865Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1593,6 +1593,17 @@ Our implementation will address three core pain points for server administrators
 	- Internet-Draft:https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv6/
 - **Repositories**
 	- https://github.com/Internet-Architecture-and-Security/PacketScope
+----
+
+### DNS
+- **Champions**
+You are a champion!
+- **Participants**
+  - Will inventorize them today
+  - Willem Toorop
+- **Project Info**
+  - [draft-bortzmeyer-dnsop-poisonlicious](https://datatracker.ietf.org/doc/draft-bortzmeyer-dnsop-poisonlicious/)
+
 ----
 ```markdown
 ### Your Project
