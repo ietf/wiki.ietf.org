@@ -2,13 +2,15 @@
 title: Use of Updates Tag
 description: 
 published: true
-date: 2022-11-29T19:37:12.694Z
+date: 2025-07-20T13:44:10.643Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:17:45.714Z
 ---
 
 # Use of Updates Tag
+> ** WORKING NOTES ** : This is draft text and does not provide normative language.
+
 Proposed IESG Statement on the use of the “Updates” header:
 
 There has been considerable confusion among the IETF community about the formal meaning of the “Updates” / "Updated by" relationship in IETF stream RFCs. The “Updates” header has been historically used for number of reasons of various strength. For example, the “Updates” header may be used to indicate critical normative updates (i.e. bug fixes), optional extensions, and even “additional information”.
