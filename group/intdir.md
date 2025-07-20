@@ -2,7 +2,7 @@
 title: Internet Area  Directorate (int-dir)
 description: 
 published: true
-date: 2025-07-20T12:57:56.632Z
+date: 2025-07-20T13:02:31.219Z
 tags: directorate, int area
 editor: markdown
 dateCreated: 2025-07-20T12:57:56.632Z
@@ -13,8 +13,6 @@ dateCreated: 2025-07-20T12:57:56.632Z
 ## Purpose
 
 The [Internet Area Directorate](https://datatracker.ietf.org/group/intdir/about/) reviewers assist Area Directors, Working Group chairs, and document authors with documents containing INT-related content. The group consists notably of some Working Group Chairs of the INT Area and selected individuals chosen for their technical knowledge in the INT area and their willingness to work with other groups within the IETF
-
-More information about the [Internet Directorate Review Process](IntDirReview).
 
 For a list of the current directorate members, see the [list of revieweres](https://datatracker.ietf.org/group/intdir/reviewers/).
 
