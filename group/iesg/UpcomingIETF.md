@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-20T08:39:45.487Z
+date: 2025-07-20T08:43:52.464Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -68,7 +68,7 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     Talk about inclusive language, AUTH48 and unresponsive authors, and     
     accepting kramdown-rfc files as a queue submission format experimentally
 >2. IANA: update to IESG (10 mins)
-		[Slides](/iana-iesgupdate-ietf_123.pdf)
+		[Slides](https://drive.google.com/file/d/1mx6dyB3wR-dvYIPKgBp7qMMUG7Md1Aiu/view?usp=drive_link)
 >3. Demo of RFC Editor "Red" (Robert Sparks, Jennifer Richards, Jean Mahoney) (20 mins)
 >4. DNSOP Charter: Pending Block ballots (Med)
 >5. IDR Recharter (Ketan)
