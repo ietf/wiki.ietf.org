@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-20T03:14:28.862Z
+date: 2025-07-20T03:33:33.112Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -69,12 +69,15 @@ What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
     accepting kramdown-rfc files as a queue submission format experimentally
 >2. IANA: update to IESG (10 mins)
 >3. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway, Jean Mahoney) (20 mins)
->4. Determine if a Monday meeting is needed
+>4. DNSOP Charter: Pending Block ballots (Med)
+>5. IDR Recharter (Ketan)
+>6. Draft IESG statement on "Updates" Tag in RFC (Mahesh). For reference see this - https://wiki.ietf.org/group/iesg/useofupdatestag
+>7. Determine if a Monday meeting is needed
 
 Any topics which aren't finished in this meeting slot can roll over into the Monday meeting.
+>1. -- Add topic --
 
-> 1. DNSOP Charter: Pending Block ballots (Med)
-> 2. Draft IESG statement on "Updates" Tag in RFC (Mahesh). For reference see this - https://wiki.ietf.org/group/iesg/useofupdatestag
+
 ### Meeting Events
 
 - **New Participant's Quick Connections** 16:00-17:00; Room: Doblón
