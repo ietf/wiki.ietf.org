@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-20T09:11:22.414Z
+date: 2025-07-20T15:45:52.584Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -253,6 +253,11 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Project Info**
 PQC in open source software. 
+
+https://github.com/minio/minio/pull/21435
+https://github.com/open-telemetry/opentelemetry-collector/pull/13087
+https://github.com/cyberstormdotmu/openshield
+
 
 ---
 
