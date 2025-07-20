@@ -2,7 +2,7 @@
 title: BFD WG RFC Listing
 description: 
 published: true
-date: 2025-07-20T08:37:25.051Z
+date: 2025-07-20T08:38:15.275Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:56:34.825Z
@@ -21,6 +21,7 @@ dateCreated: 2022-07-23T20:56:34.825Z
 * RFC 8971 - Bidirectional Forwarding Detection (BFD) for Virtual eXtensible Local Area Network (VXLAN)
 * RFC 9468 -  Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless Applications
 * RFC 9747 -  Unaffiliated Bidirectional Forwarding Detection (BFD) Echo
+* RFC 9764 - Bidirectional Forwarding Detection (BFD) Encapsulated in Large Packets, April 2025
 
 # BFD Multipoint
 
