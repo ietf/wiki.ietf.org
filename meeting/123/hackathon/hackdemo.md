@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-20T12:06:18.900Z
+date: 2025-07-20T12:45:15.800Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -24,6 +24,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Micro-robot Access Radio Infrastructure | Geovane Fedrecheski | geovane.fedrecheski@inria.fr | https://youtu.be/BAHgDbgaDFs?si=GNrgCQr2gtXrxEko |
 | Agentic IoT | Jaime Jimenez | jaime.jimenez@ericsson.com | TBD |
 | Waking up Wi-Fi chip through Thread | François Michel | f_michel@apple.com | https://datatracker.ietf.org/meeting/123/materials/slides-123-hackathon-sessd-thread-low-power-ipv6-mesh-00 |
-|   |   |   |   |
+| tablensoop  | Ferenc Fejes  | ferenc.fejes@ericsson.com  | https://datatracker.ietf.org/meeting/123/materials/slides-123-hackathon-sessd-tablesnoop-linux-table-lookup-tracer-00  |
 |   |   |   |   |
 |   |   |   |   |
