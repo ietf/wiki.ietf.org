@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-20T13:05:23.979Z
+date: 2025-07-20T13:12:23.888Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -26,5 +26,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Waking up Wi-Fi chip through Thread | François Michel | f_michel@apple.com | https://datatracker.ietf.org/meeting/123/materials/slides-123-hackathon-sessd-thread-low-power-ipv6-mesh-00 |
 | tablensoop  | Ferenc Fejes  | ferenc.fejes@ericsson.com  | https://datatracker.ietf.org/meeting/123/materials/slides-123-hackathon-sessd-tablesnoop-linux-table-lookup-tracer-00  |
 | Testing Congestion Control and Queue Management Algorithms | Mohit P. Tahiliani | tahiliani@nitk.edu.in | https://wiki.ietf.org/en/meeting/123/hackathon#testing-congestion-control-and-queue-management-mechanisms |
+| KIRA | Roland Bless  | roland.bless@kit.edu  | https://s.kit.edu/KIRA  |
 |   |   |   |   |
 |   |   |   |   |
