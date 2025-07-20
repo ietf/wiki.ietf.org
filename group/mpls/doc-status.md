@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-07-20T04:50:21.028Z
+date: 2025-07-20T08:15:17.170Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 2025-05-14 | draft-li-mpls-enhanced-vpn-vtn-id | Dependent on draft-jags-mpls-ps-mna-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presentation planned at IETF-123 |  |
+| 2025-05-14 | draft-li-mpls-enhanced-vpn-vtn-id | Dependent on draft-jags-mpls-ps-mna-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presentation planned at IETF-123 | Tony |
 
 ## Queued for WG Adoption Poll
 
