@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-20T13:59:19.117Z
+date: 2025-07-20T15:02:54.443Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -28,5 +28,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Testing Congestion Control and Queue Management Algorithms | Mohit P. Tahiliani | tahiliani@nitk.edu.in | https://wiki.ietf.org/en/meeting/123/hackathon#testing-congestion-control-and-queue-management-mechanisms |
 | KIRA | Roland Bless  | roland.bless@kit.edu  | https://s.kit.edu/KIRA  |
 | KEM-based Authentication for EDHOC | Lidia Pocero Fraile  | pocero@isi.gr  | https://datatracker.ietf.org/doc/draft-pocero-authkem-edhoc/  |
+| A YANG Data Model for Network Tester Management | Vladimir Vassilev | vladimir@lightside-instruments.com  | https://datatracker.ietf.org/doc/draft-ietf-bmwg-network-tester-cfg  |
 |   |   |   |   |
 |   |   |   |   |
