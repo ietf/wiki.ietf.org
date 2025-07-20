@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-20T08:43:06.660Z
+date: 2025-07-20T09:11:22.414Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -587,8 +587,9 @@ Karen O'Donoghue (kodonog@pobox.com)
 Dieter Sibold (dsibold.ietf@gmail.com)
 - **Project Info**
 Investigation of security vulnerabilities in PTPv2.1 and development of countermeasures. Explore NTS for PTP and CSPTP. 
-- **Background Documents**
-
+- **Background Document**
+NTS for CSPTP
+https://drive.google.com/file/d/1qyRdLjMg2GoDnkDENIltT1ACSSFz92_n/view?usp=sharing
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-ietf-ntp-nts-for-ptp/
 IEEE Std. 1588-2019, IEEE STd. 15 1588-2019d (See NTP working group chairs for access to these documents.)
