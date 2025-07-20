@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-20T03:33:33.112Z
+date: 2025-07-20T06:06:14.702Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -163,6 +163,7 @@ Conference style for 16
 * 0820-0920 - OPS AD Open Hours (OPS ADs)
 * 1130-1300 - INT AD Office Hours (INT ADs)
 * 1430-1500 - mtg w/ Akira (Cooley)
+* 1900-2000 - FANTEL pre-BOF meeting (Ketan)
 
 ## Wednesday, 23 July 2025
 
@@ -176,6 +177,7 @@ Conference style for 16
 * TIME - TIME -- Thing (Person responsible)
 * 0820-0920 -  Sec AD and CFRG chair mtg (Cooley) (we might not need the whole hour)
 * 1130-1200 - Ask Me Anything (AMA) About AD Job (Éric Vyncke for some volunteers)
+* 1900-2000 - FANTEL post-BOF meeting (Ketan)
 
 ## Friday, 25 July 2025
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
