@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-20T12:13:25.641Z
+date: 2025-07-20T14:35:25.262Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -14,7 +14,7 @@ Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
 
 # IETF 123 Side Meeting
-Friday, July 25, 2025, 10:30-11:30 (local Madrid time) ([information about room and online participation](https://trello.com/c/PZTjtzgm))
+~~Friday, July 25, 2025, 10:30-11:30~~ **moved to Thursday, July 24, 2025, 8:30-9:30** (local Madrid time) ([information about room and online participation](https://trello.com/c/PZTjtzgm))
 
 Meeting notes are available [here].
 
