@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-19T18:38:11.581Z
+date: 2025-07-20T15:25:03.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -67,7 +67,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 
 ## Monday, 2025-07-21
 
-**11:30-11:30: IAB New Work Help Desk (Hospitality Hall)
+**11:30-11:30: IAB New Work Help Desk (Hospitality Hall)**
 
 **1315-1415: IETF-3GPP Coordination (El Escorial)**
 
@@ -96,7 +96,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=34524
 
 ## Wednesday, 2025-07-23
 
-**15:30-16:30: IAB New Work Help Desk (Hospitality Hall)
+**15:30-16:30: IAB New Work Help Desk (Hospitality Hall)**
 
 **1730-1930: IETF 123 Plenary (Auditorio)**
 
