@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-20T06:06:36.792Z
+date: 2025-07-20T06:15:56.904Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -144,7 +144,6 @@ Conference style for 16
 ## Sunday, 20 July 2025
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
-*  9:00 - 10:00 -- FANTEL BoF Slides review (Ketan)
 * 10:00 - 10:30 -- JSON Structures (Andy/Mike)
 * 10:30 - 11:30 -- WIT AD Open Hours (WIT-ADs)
 * 16:00 - 17:00 -- RTG AD Open Hours (RTG-ADs)
