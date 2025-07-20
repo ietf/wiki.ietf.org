@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-20T08:22:37.865Z
+date: 2025-07-20T08:43:06.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -1214,6 +1214,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - Model implementation with software and programmable logic for 1Gb Ethernet
   - RFC2544 benchmark test in python
   - RFC2889 benchmark test in python
+  - TG configuration to PCAP and PCAP to TG configuration conversion scripts
 - **Specifications**
   - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
 - **Repositories**
