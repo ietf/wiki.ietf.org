@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-07-19T09:35:38.457Z
+date: 2025-07-20T12:59:50.534Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -260,6 +260,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 ## Alphabetical
 - [dnsdir *DNS Directorate*](/group/dnsdir)
 - [eodir *Education and Outreach*](/group/eodir)
+- [intdir *Internet Area Directorate*](/group/intdir)
 - [iotdir *Internet of Things*](/group/iotdir)
 - [secdir *Security Directorate*](/group/secdir)
 {.links-list}
@@ -273,6 +274,7 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 ### INT
 - [dnsdir *DNS Directorate*](/group/dnsdir)
+- [intdir *Internet Area Directorate*](/group/intdir)
 - [iotdir *Internet of Things*](/group/iotdir)
 {.links-list}
 
