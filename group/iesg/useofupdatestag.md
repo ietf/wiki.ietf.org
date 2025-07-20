@@ -2,7 +2,7 @@
 title: Use of Updates Tag
 description: 
 published: true
-date: 2025-07-20T13:44:10.643Z
+date: 2025-07-20T13:44:50.602Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:17:45.714Z
