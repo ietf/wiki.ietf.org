@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-20T08:07:06.185Z
+date: 2025-07-20T12:13:25.641Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -21,21 +21,21 @@ Meeting notes are available [here].
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides])
 - 15'+q Elmer Lastdrager (SIDN Labs): Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators ([Slides])
-- 15'+q Swapneel Sheth (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
 - 15'+q Willem Toorop (NLnet Labs) presenting Jannik Peters' work: Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC ([Slides])
+- 15'+q Swapneel Sheth (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
 - AOB
 
 ### Elmer Lastdrager: Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators
 
 We present our work where we empirically analyze the signing performance of promising PQC algorithms MAYO-2 and Falcon512 from a DNS operator point of view, in terms of zone file size, signing time, and validation time, and compare them to currently deployed algorithms RSA-1280 and ECDSA-P256. We find that the DNSSEC signing performance of MAYO-2 is better than RSA-1280, while Falcon-512 performs similarly. The validation performance of MAYO-2 is better than ECDSA-P256 and comparable to RSA1280, whereas Falcon-512 is 0.3 times slower than ECDSA-P256. These results suggest that DNSSEC signing with MAYO-2 and Falcon-512 is feasible for TLD operators. However, Falcon-512 generates larger signature size and MAYO-2 has larger public keys.
 
-### Swapneel Sheth: A post-quantum cryptography strategy for DNSSEC
-
-*No abstract yet.*
-
 ### Willem Toorop presenting Jannik Peters' work: Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC
 
 This project analyzes the impact of using MTL mode signatures in DNSSEC, by measuring the signing and verification performance, and the key and signature sizes, and by comparing the algorithms of the MTL mode reference implementation based on SLH-DSA to the currently deployed digital signature algorithm ECDSA Curve P-256 with SHA-256 and to other PQC algorithms analyzed in other projects. We find that the MTL mode signatures perform adequately well and provide condensed signatures small enough to meet DNS limitations. We find the proposed MTL mode signatures to be promising for use in DNSSEC, but that they could benefit from modifications to the DNS protocol, like an Extension Mechanisms for DNS (EDNS(0)) option to indicate an available ladder version, or by removing the SOA Resource Record (RR) from denial of existence responses.
+
+### Swapneel Sheth: A post-quantum cryptography strategy for DNSSEC
+
+*No abstract yet.*
 
 # IETF 122 Side Meeting
 Tuesday, March 18, 2025, 09:30-10:30 (local Bangkok time) ([information about room and online participation](https://trello.com/c/xXjSjBuK/61-0930-1030-pq-dnssec-research))
