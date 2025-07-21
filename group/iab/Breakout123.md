@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 123
 description: 
 published: true
-date: 2025-07-09T15:10:10.090Z
+date: 2025-07-21T08:32:40.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T23:00:54.951Z
@@ -31,6 +31,8 @@ For food & beverage service requests, please include:
 
 
 ## Wednesday 
+
+* 0800-0930 W3C-IETF coordination (Mirja)
 
 
 ## Thursday 
