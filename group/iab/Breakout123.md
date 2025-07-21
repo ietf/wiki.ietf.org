@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 123
 description: 
 published: true
-date: 2025-07-21T08:32:40.110Z
+date: 2025-07-21T21:47:02.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T23:00:54.951Z
@@ -39,6 +39,7 @@ For food & beverage service requests, please include:
 
 * 0800-0920: IAB Business Meeting
 * 1200-1300: Liaison Coordinator Office Hours
+* 14:30-16:30: Web Bot Auth discussion
 
 
 ## Friday 
