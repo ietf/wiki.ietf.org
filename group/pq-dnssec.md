@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-20T14:35:36.815Z
+date: 2025-07-21T07:39:21.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -19,7 +19,7 @@ Documents:
 Meeting notes are available [here].
 
 ## Agenda
-- 5' Note Well / Agenda Bashing ([Slides])
+- 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/chair-slides.pdf))
 - 15'+q Elmer Lastdrager (SIDN Labs): Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators ([Slides])
 - 15'+q Willem Toorop (NLnet Labs) presenting Jannik Peters' work: Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC ([Slides])
 - 15'+q Swapneel Sheth (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
