@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-21T13:22:31.723Z
+date: 2025-07-21T15:29:36.890Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -40,6 +40,8 @@ IAB members: Mirja, Dhruv, Suresh
   - Explained how IRTF and IETF are different
   - Questions related to DNSops and SIDRops work in the IETF
   - Existing WG/RG are ideal here
+
+- We also had a person who wanted to understand how the meeting network worked and we referred them to the NOC.
 
 ## Wednesday 23rd July 
 Beverage Break, **15:30-16:30**
