@@ -2,7 +2,7 @@
 title: NASR(non-WG)-Network Attestation for Secured foRwarding
 description: The aim of Network Attestation for Secured FoRwarding is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 published: true
-date: 2025-07-01T09:32:51.730Z
+date: 2025-07-21T05:54:47.449Z
 tags: nasr
 editor: markdown
 dateCreated: 2025-04-10T03:07:00.098Z
@@ -21,6 +21,7 @@ Q1: Why is not end-to-end protection sufficient and why should we care about whe
 Q2: Why this is important to assure at the network layer?
 
 Q3: List actual concrete examples of existing regulations.
+urope Union: GDPR(General Data Protection Regulation),Germany: TTDSG/TDDDG,China: Data Security Law.
 
 Q4: List the technical requirements in detail.
 
