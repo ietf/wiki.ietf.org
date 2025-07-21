@@ -2,7 +2,7 @@
 title: NASR(non-WG)-Network Attestation for Secured foRwarding
 description: The aim of Network Attestation for Secured FoRwarding is to address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior. 
 published: true
-date: 2025-07-21T05:54:58.642Z
+date: 2025-07-21T06:31:55.975Z
 tags: nasr
 editor: markdown
 dateCreated: 2025-04-10T03:07:00.098Z
@@ -30,7 +30,7 @@ Q5: NASR being a possible way to address pervasive traffic monitoring threats?
 Q6: Proof of transit does not imply that the packet didn’t exit the path. 
 ---->PoNT is out of scope. the motivation is to prove that the data packet is forwarded according to the agreed route.
 
-Q7: There is work about proof of transit that has been done in SFC, what is needed to highlight what is not there (in routing, RATS, SFC PoT) which NASR will provide.
+Q7: There is work about proof of transit that has been done in SFC, what is needed to highlight, what is not there (in routing, RATS, SFC PoT), which NASR will provide.
 ---->NASR is the joint use of attestation techncology and proof of transit.
 
 Q8: What about lawful interceptions?
@@ -58,7 +58,7 @@ Q15: Bringing the work to RATS would not work. RATS is already bloated and bring
 
 Q16: PoT has cryptographic cost.
 ---->Implementation on SRv6 shows that the cost is very limited.
----->Path Tracing in SRv6 networks(https://datatracker.ietf.org/doc/draft-filsfils-ippm-path-tracing/02/), PT provides efficient, HW friendly solution,it has been designed for linerate hardware implementation in the base pipeline. And it works sufficiently for a basic POT functionality.
+---->Path Tracing in SRv6 networks(https://datatracker.ietf.org/doc/draft-filsfils-ippm-path-tracing/02/), PT provides efficient, Hardware friendly solution,it has been designed for linerate hardware implementation in the base pipeline. And it works sufficiently for a basic POT functionality.
 
 Q17: Remark about the scope of implementation: Internet or limited domain?
 ---->limited domain implemented at the operator level.
