@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-17T14:54:39.339Z
+date: 2025-07-21T13:09:19.275Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -11,14 +11,32 @@ dateCreated: 2024-06-28T10:06:07.006Z
 # New Work "Help Desk"
 
 Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot, but more is always better!  
-
+# IETF-123 Madrid
 
 ## Monday 21st July 
 Beverage Break, **11:30-12:30**
 Clashes 2nd half with: panrg, dnsop, green, mops, mpls, radext, scitt, witarea
-- Mirja
-- Dhruv
-- Suresh
+IAB members: Mirja, Dhruv, Suresh
+
+- Cheng Benfeng (first time participant; no affiliation listed/own company) - NHP - network hiding protocol (see also OpenNHP on github)
+	- adivsed how to submit a draft 
+  - Auth/rendevous server to open ports -> advised to talk to Sec ADs for mailing list and potentially side meeting at next IETF
+  
+- Giuseppe Lo Presti, Micke Nordin - Open Cloud Mesh
+  - presented at dispatch (draft-lopresti-open-cloud-mesh-04)
+  	- outcome was: wg forming BoF: they asked what they have to do for a BoF
+  - advised to ask for mainling list and maybe anyway consider a side meeting later this week -> start charter and discuss on mailing list (they are planning to request BoF for Vienna)
+
+- Daniel Smullen, d.smullen@cablelabs.com
+	- https://datatracker.ietf.org/doc/draft-dsmullen-ppd-architecture/
+  - https://datatracker.ietf.org/doc/html/draft-dsmullen-ppd-taxonomy
+  - side meeting Thursday 14:30-15:30
+  - in touch with Sec AD (Deb) already
+  - advised to ask for mailing list and go to dispatch next time
+  - also brief discussed about related work (MUD maybe not; ADSF)
+
+
+
 
 ## Wednesday 23rd July 
 Beverage Break, **15:30-16:30**
