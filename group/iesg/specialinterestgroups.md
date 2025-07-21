@@ -2,13 +2,15 @@
 title: Special Interest Groups
 description: 
 published: true
-date: 2022-11-29T19:37:02.991Z
+date: 2025-07-21T06:14:16.075Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:08:34.949Z
 ---
 
 # IETF Special Interest Groups
+
+> ** WORKING NOTES ** : This is draft text and does not provide normative guide.  All WGs need to be conformant to RFC2026 and RFC2418.
 
 This document describes the guidelines for the formation and operation of a special kind of Working Group (WG): Special Interest Group (SIG).  SIGs differ from RFC 2418 WG because their main charter is not to publish protocol or process; they are rather a place where discussions related to the IETF can take place.
 
