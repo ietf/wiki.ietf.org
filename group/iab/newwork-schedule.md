@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-21T13:09:19.275Z
+date: 2025-07-21T13:19:31.598Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -35,8 +35,11 @@ IAB members: Mirja, Dhruv, Suresh
   - advised to ask for mailing list and go to dispatch next time
   - also brief discussed about related work (MUD maybe not; ADSF)
 
-
-
+- Stefano Angieri, CERTIK, New participant, Local Researcher
+	- Working on blockchain related security at DNS and RPKI, pointed them to dinrg
+  - Explained how IRTF and IETF are different
+  - Questions related to DNSops and SIDRops work in the IETF
+  - Existing WG/RG are ideal here
 
 ## Wednesday 23rd July 
 Beverage Break, **15:30-16:30**
