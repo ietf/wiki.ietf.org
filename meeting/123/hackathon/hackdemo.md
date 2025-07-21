@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-21T14:30:17.802Z
+date: 2025-07-21T15:08:22.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -34,5 +34,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Antagonist | Vincenzo Riccobene | vincenzo.riccobene@gmail.com | https://datatracker.ietf.org/meeting/123/materials/slides-123-nmop-antagonist-open-source-network-anomaly-lifecycle-and-semantics-00 |
 | PQ in X509 | John Gray | john.gray@entrust.com | https://github.com/IETF-Hackathon/pqc-certificates |
 | vCon | Dan Petrie | dan.ietf@sipez.com | https://github.com/py-vcon/py-vcon |
+| NASR-PoC | Michael Richardson | mcr+ietf@sandelman.ca | https://datatracker.ietf.org/doc/draft-liu-nasr-architecture/ |
 |   |   |   |   |
 |   |   |   |   |
