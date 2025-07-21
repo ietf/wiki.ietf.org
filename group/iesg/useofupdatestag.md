@@ -2,14 +2,14 @@
 title: Use of Updates Tag
 description: 
 published: true
-date: 2025-07-20T13:47:39.660Z
+date: 2025-07-21T06:12:53.768Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:17:45.714Z
 ---
 
 # Use of Updates Tag
-> ** WORKING NOTES ** : This is draft text and does not provide normative language.
+> ** WORKING NOTES ** : This is draft text and does not provide normative guide.
 
 Proposed IESG Statement on the use of the “Updates” header:
 
