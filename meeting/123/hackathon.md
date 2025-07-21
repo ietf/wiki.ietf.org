@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-20T15:45:52.584Z
+date: 2025-07-21T05:43:37.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -250,13 +250,14 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - Kavish Nadan (kn@cyberstorm.mu)
 - Jaykishan Mutkawoa (jay@cyberstorm.mu)
 - Loganaden Velvindron (logan@cyberstorm.mu)
+- Poshan Peeroo (University of Mauritius/Cyberstorm.mu)
 
 - **Project Info**
-PQC in open source software. 
+PQC in open source software with a focus Cloud Native Computing Function (CNCF). 
 
-https://github.com/minio/minio/pull/21435
-https://github.com/open-telemetry/opentelemetry-collector/pull/13087
-https://github.com/cyberstormdotmu/openshield
+Minio : https://github.com/minio/minio/pull/21435
+Opentelemetry: https://github.com/open-telemetry/opentelemetry-collector/pull/13087
+Openshield: https://github.com/cyberstormdotmu/openshield
 
 
 ---
