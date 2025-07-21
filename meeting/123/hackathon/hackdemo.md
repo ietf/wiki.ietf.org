@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-20T15:02:54.443Z
+date: 2025-07-21T10:22:55.073Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -29,5 +29,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | KIRA | Roland Bless  | roland.bless@kit.edu  | https://s.kit.edu/KIRA  |
 | KEM-based Authentication for EDHOC | Lidia Pocero Fraile  | pocero@isi.gr  | https://datatracker.ietf.org/doc/draft-pocero-authkem-edhoc/  |
 | A YANG Data Model for Network Tester Management | Vladimir Vassilev | vladimir@lightside-instruments.com  | https://datatracker.ietf.org/doc/draft-ietf-bmwg-network-tester-cfg  |
+| SIMAP | Olga Havel, Vivekananda Boudia | olga.havel@huawei.com,  vivekananda.boudia@insa-lyon.fr | https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept, https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/  |
 |   |   |   |   |
 |   |   |   |   |
