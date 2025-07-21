@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-21T10:34:48.709Z
+date: 2025-07-21T11:32:39.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -32,5 +32,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | SIMAP | Olga Havel, Vivekananda Boudia | olga.havel@huawei.com,  vivekananda.boudia@insa-lyon.fr | https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept, https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/  |
 | Antagonist | Vincenzo Riccobene | vincenzo.riccobene@gmail.com | https://datatracker.ietf.org/meeting/123/materials/slides-123-nmop-antagonist-open-source-network-anomaly-lifecycle-and-semantics-00 |
 | PQ in X509 | John Gray | john.gray@entrust.com | https://github.com/IETF-Hackathon/pqc-certificates |
+| vCon | Dan Petrie | dan.ietf@sipez.com | https://github.com/py-vcon/py-vcon |
 |   |   |   |   |
 |   |   |   |   |
