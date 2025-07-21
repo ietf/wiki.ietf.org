@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-07-21T11:32:39.904Z
+date: 2025-07-21T13:25:16.877Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T12:23:08.243Z
@@ -19,6 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
  |---|---|---|---|
+ | HiAE | Frank Denis | fdenis@fastly.com | https://datatracker.ietf.org/doc/draft-pham-cfrg-hiae/ |
 |I2ICF|Mose Gu|rna0415@naver.com|https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-framework/
 |NTS Pool   | David Venhoek  | david@venhoek.nl  | https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/  |
 | Micro-robot Access Radio Infrastructure | Geovane Fedrecheski | geovane.fedrecheski@inria.fr | https://youtu.be/BAHgDbgaDFs?si=GNrgCQr2gtXrxEko |
