@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-21T13:19:31.598Z
+date: 2025-07-21T13:22:31.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -33,7 +33,7 @@ IAB members: Mirja, Dhruv, Suresh
   - side meeting Thursday 14:30-15:30
   - in touch with Sec AD (Deb) already
   - advised to ask for mailing list and go to dispatch next time
-  - also brief discussed about related work (MUD maybe not; ADSF)
+  - also briefly discussed about related work (MUD maybe not; ADSF)
 
 - Stefano Angieri, CERTIK, New participant, Local Researcher
 	- Working on blockchain related security at DNS and RPKI, pointed them to dinrg
