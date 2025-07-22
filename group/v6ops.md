@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2025-04-08T13:45:51.556Z
+date: 2025-07-22T08:20:37.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -14,20 +14,22 @@ Welcome to the wiki for V6OPS!
 
 ## Next scheduled chair calls
 
-* 08-April-2025
-* 22-April-2025
+* 29-July-2025
+* 12-August-2025
 
 ### Chair call topics
 
-* [draft-equinox-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-equinox-v6ops-icmpext-xlat-v6only-source/) - Requested call for adoption
-** Projected meeting for discussion: 08-April-2025
-* [draft-ietf-v6ops-prefer8781](https://datatracker.ietf.org/doc/draft-ietf-v6ops-prefer8781/)  - Requested WGLC
-** Projected meeting for discussion: 08-April-2025
-https://datatracker.ietf.org/doc/draft-ietf-v6ops-prefer8781/
-* [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Waiting for further chair discussion. 
-** Projected meeting for discussion: 08-April-2025
-* Status of [draft-ietf-v6ops-cpe-lan-pd](https://datatracker.ietf.org/doc/draft-ietf-v6ops-cpe-lan-pd/)
-** Publication requested
+* [draft-ietf-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-ietf-v6ops-icmpext-xlat-v6only-source/) - WGLC to be called
+** Projected WGLC call: 29-July-2025
+* [draft-ietf-v6ops-claton/](https://datatracker.ietf.org/doc/draft-ietf-v6ops-claton/) - WGLC to be called
+** Projected WGLC call: 29-July-2025
+* [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Changes Requested. 
+** Projected meeting for discussion: 29-July-2025
+* [draft-caletka-aaaa-filtering](https://datatracker.ietf.org/doc/html/draft-caletka-aaaa-filtering) - Adoption request to be called
+** Projected WGLC call: 29-July-2025
+* [draft-palet-v6ops-nat64-std](https://datatracker.ietf.org/doc/draft-palet-v6ops-nat64-std/) - Adoption and/or Discussion of changes
+** List Discussion necessary to decide on best path per draft
+** Chair discussion: 29-July-2025
 
 ## Open Consensus Calls
 
@@ -35,24 +37,16 @@ https://datatracker.ietf.org/doc/draft-ietf-v6ops-prefer8781/
 ## Completed Consensus Calls
 
 * [draft-ietf-v6ops-cpe-lan-pd](https://datatracker.ietf.org/doc/draft-ietf-v6ops-cpe-lan-pd/)
-** Call type: Shepherd Write-up (complete, waiting for revised draft)
-** Shepherd: [Ron Bonica](https://datatracker.ietf.org/person/rbonica@juniper.net)
-** Projected start date: Dec 10, 2024
-** Projected end date: Dec 31, 2024
+** Call type: AUTH48
 ** Result: Publication Requested
 
-* [draft-buraglio-deprecate7050](https://datatracker.ietf.org/doc/draft-buraglio-deprecate7050/)
-** Call type: WG Adoption
-** Projected start date: Dec 08, 2024
-** Projected end date: Dec 22, 2024
-** End Date: Dec 26, 2024 
-** Result: _Adopted_
+* [draft-ietf-v6ops-prefer8781](https://datatracker.ietf.org/doc/draft-ietf-v6ops-prefer8781/) 
+** Call type: IESG
+** Result: Publication Requested
   
    
 ## Terminology
 
-  * Tetraplyoctomy
-  ** Defined in: Foucault's Pendulum
-  ** Definition: The art of splitting a hair four ways
+ * TBD
   
   
