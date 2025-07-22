@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-22T08:46:12.673Z
+date: 2025-07-22T09:52:29.214Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -164,6 +164,7 @@ Conference style for 16
 * 1030-1130 - GEN AD Sponsored Doc (Roman)
 * 1130-1300 - INT AD Office Hours (INT ADs)
 * 1430-1500 - mtg w/ Akira (Cooley)
+* 1500-1530 - GROW/IPR Thomas/Chairs (Med)
 * 1600-1700 - Roman
 * 1900-2000 - FANTEL pre-BOF meeting (Ketan)
 
