@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-07-10T08:57:31.252Z
+date: 2025-07-22T13:06:04.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -135,6 +135,10 @@ Prio 1 (cluster)
 Prio 2
 **- draft-ietf-ccamp-flexigrid-yang** (2nd WG last call to be done)
 
+Prio 2.5
+**- draft-ietf-dwdm-interface-YANG**
+RTG-DIR, OPS-DIR, YANGDOCTOR reviews requested
+
 Prio 3
 **- draft-ietf-ccamp-otn-tunnel-model**
 > Dependency on draft-ietf-teas-yang-te
@@ -142,6 +146,7 @@ Prio 3
 Prio 4
 **- draft-ietf-ccamp-wdm-tunnel-yang**
 > Dependency on draft-ietf-teas-yang-te
+> Pluggables gap analysis might have impacts on this draft. "soft dependency"
 
 Prio 5
 **- draft-ietf-ccamp-flexe-yang-cm-06**
