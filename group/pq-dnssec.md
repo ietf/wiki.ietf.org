@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-22T07:26:49.411Z
+date: 2025-07-22T12:37:02.063Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -22,7 +22,7 @@ Meeting notes are available [here].
 - 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/chair-slides.pdf))
 - 15'+q Elmer Lastdrager (SIDN Labs): Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Lastdrager_Evaluating_PQC_Falcon_and_Mayo_in_DNSSEC_Signing_for_TLD_Operators.pdf))
 - 15'+q Willem Toorop (NLnet Labs) presenting Jannik Peters' work: Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC ([Slides])
-- 15'+q Swapneel Sheth (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
+- 15'+q Joe Harvey (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
 - AOB
 
 ### Elmer Lastdrager: Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators
@@ -33,7 +33,7 @@ We present our work where we empirically analyze the signing performance of prom
 
 This project analyzes the impact of using MTL mode signatures in DNSSEC, by measuring the signing and verification performance, and the key and signature sizes, and by comparing the algorithms of the MTL mode reference implementation based on SLH-DSA to the currently deployed digital signature algorithm ECDSA Curve P-256 with SHA-256 and to other PQC algorithms analyzed in other projects. We find that the MTL mode signatures perform adequately well and provide condensed signatures small enough to meet DNS limitations. We find the proposed MTL mode signatures to be promising for use in DNSSEC, but that they could benefit from modifications to the DNS protocol, like an Extension Mechanisms for DNS (EDNS(0)) option to indicate an available ladder version, or by removing the SOA Resource Record (RR) from denial of existence responses.
 
-### Swapneel Sheth: A post-quantum cryptography strategy for DNSSEC
+### Joe Harvey: A post-quantum cryptography strategy for DNSSEC
 
 *No abstract yet.*
 
