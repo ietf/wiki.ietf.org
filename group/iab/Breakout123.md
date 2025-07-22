@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 123
 description: 
 published: true
-date: 2025-07-21T21:47:02.895Z
+date: 2025-07-22T04:40:54.376Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T23:00:54.951Z
@@ -23,6 +23,7 @@ For food & beverage service requests, please include:
 ## Monday 
 
 * 1300-1430: RSAB
+* 1630-1715: outreach (Dhruv)
 
 ## Tuesday 
 
