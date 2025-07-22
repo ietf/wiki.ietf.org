@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-22T14:03:55.441Z
+date: 2025-07-22T14:04:23.392Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -21,8 +21,8 @@ Meeting notes are available [here].
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/chair-slides.pdf))
 - 15'+q Elmer Lastdrager (SIDN Labs): Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Lastdrager_Evaluating_PQC_Falcon_and_Mayo_in_DNSSEC_Signing_for_TLD_Operators.pdf))
-- 15'+q Willem Toorop (NLnet Labs) presenting Jannik Peters' work: Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Harvey_A_post-quantum_cryptography_strategy_for_DNSSEC.pdf))
-- 15'+q Joe Harvey (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides])
+- 15'+q Willem Toorop (NLnet Labs) presenting Jannik Peters' work: Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC ([Slides])
+- 15'+q Joe Harvey (Verisign): A post-quantum cryptography strategy for DNSSEC ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Harvey_A_post-quantum_cryptography_strategy_for_DNSSEC.pdf))
 - AOB
 
 ### Elmer Lastdrager: Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators
