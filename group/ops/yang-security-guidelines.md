@@ -27,6 +27,9 @@ The "[module-name]" YANG module defines a data model that is designed to be acce
 
 The Network Configuration Access Control Model (NACM) [RFC8341] provides the means to restrict access for particular NETCONF or RESTCONF users to a preconfigured subset of all available NETCONF or RESTCONF protocol operations and content.
 
+> Note: [RFC8341] (or a future RFC that replaces it) MUST be listed as a normative reference.
+> By default, [RFC4252], [RFC6241], [RFC8040], [RFC8446], [RFC9000], and [RFCAAAA] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
+
 ### Writable nodes section:
 
 > If the data model contains any writable data nodes (those are all the "config true" nodes), then include the following text:
@@ -85,6 +88,7 @@ Modules that use the groupings that are defined in this document should identify
   * Nit: 'writeable data nodes' -> 'writable data nodes' - [WK: 2018-10-18 ] 
   * Updated the page based on rfc8407bis updates [MJ:2025-04-01]
   * Nit: Fixed blockquote formatting [JM:2025-05-14]
+  * Added note about normative and informative references [JM:2025-07-23]
   
   
 
