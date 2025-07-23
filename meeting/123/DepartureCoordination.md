@@ -2,7 +2,7 @@
 title: IETF 123 Departure Coordination
 description: 
 published: true
-date: 2025-07-23T08:38:24.652Z
+date: 2025-07-23T10:45:01.529Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T20:57:15.747Z
@@ -42,6 +42,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 | 06:00 | AF1401| Chris Hopps | chopps@chopps.org | MAD | 2 | Westin Cuzco | leaving 4am |
 | 11:35 | IB341 | Pete Resnick | resnick@episteme.net | MAD | 4 | Meliá Castilla  | |
 | 12:40 | AA37 | Tony Li | tony.li@tony.li | MAD | 4 | Meliá Castilla  | |
+| 17:05   | IB 1891 | Mihail Yanev | mihail@erg.abdn.ac.uk | MAD | 4/4S | Meliá Castilla | 17:05 is flight departure time, aiming to be at the airport around 15:00-15:30 |
 | 17:30   | AA8801 | Rich Salz | rsalz@akamai.com | MAD | 4S | Meliá Castilla | Time is departure |
 |      |        |      |       |         |          |             |       |
 
