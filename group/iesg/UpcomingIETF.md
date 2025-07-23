@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-23T10:22:43.180Z
+date: 2025-07-23T10:29:53.749Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -174,7 +174,7 @@ Conference style for 16
 * TIME - TIME -- Thing (Person responsible)
 * 1100-1130 - OPSAREA Sync (Med/Mahesh)
 * 1430-1530 - SETTLE Discussion (Med)
-* 1630-1700 - RIR Discussion (Andy)
+* 1600-1700 - RIR Discussion (Andy)
 * 1700-1730 - IESG Pre-plenary Meditation
 
 
