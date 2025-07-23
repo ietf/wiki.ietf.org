@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2025-05-14T19:34:06.867Z
+date: 2025-07-23T08:51:53.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -11,7 +11,7 @@ dateCreated: 2022-12-20T00:44:50.512Z
 # YANG module security considerations
   
 
-Each specification that defines one or more YANG modules MUST contain a section that discusses security considerations relevant to those modules. This section MUST be patterned after the latest approved template (available at https://wiki.ietf.org/group/ops/yang-security-guidelines).
+Each specification that defines one or more YANG modules MUST contain a section that discusses security considerations relevant to those modules. This section MUST be patterned after the latest approved template (available [below](#x-security-considerations)).
 
 In particular, writable data nodes that could be especially disruptive if abused MUST be explicitly listed by name and the associated security risks MUST be spelled out.
 
@@ -21,7 +21,7 @@ Further, if new RPC operations have been defined, then the security consideratio
 
 ## X.  Security Considerations
 
-This section is modeled after the template described in Section 3.7 of [RFCAAAA].
+This section is modeled after the template described in Section 3.7.1 of [RFC-to-be draft-ietf-netmod-rfc8407bis].
 
 The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as NETCONF [RFC6241] and RESTCONF [RFC8040]. These protocols have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC8446], and QUIC [RFC9000]) and have to use mutual authentication.
 
@@ -89,6 +89,7 @@ Modules that use the groupings that are defined in this document should identify
   * Updated the page based on rfc8407bis updates [MJ:2025-04-01]
   * Nit: Fixed blockquote formatting [JM:2025-05-14]
   * Added note about normative and informative references [JM:2025-07-23]
+  * Nit: clarified cross references [JM:2025-07-23]
   
   
 
