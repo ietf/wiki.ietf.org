@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 123
 description: 
 published: true
-date: 2025-07-21T21:40:17.564Z
+date: 2025-07-24T06:44:05.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T22:59:26.176Z
@@ -110,7 +110,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1006
 > 
 > - CCG Update (Russ, Barry, Tim) 
 > - Pending Item from Retreat: - Guidance for External (Non-IETF) Events ([issue](https://github.com/intarchboard/responsibilities/issues/53) & [Slide](https://docs.google.com/presentation/d/1lwq-UB5jKMKv8dFxkB1S-dmlyEbn_5C3HhOgg54efMc/edit?usp=sharing)) (Dhruv)
-> - Decision process followup (Mark)
+> - Decision process followup ([issue](https://github.com/intarchboard/responsibilities/issues/2) & [PR](https://github.com/ietf/wiki.ietf.org/pull/95)) (Mark)
 
 **1200-1300:	Liaison Coordinators Office Hours (El Jardín)**
 
