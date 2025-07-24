@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-24T10:29:36.025Z
+date: 2025-07-24T10:32:35.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -48,8 +48,10 @@ IAB members: Dhruv, Matthew, Suresh
 
 - Cheng Benfeng was back and showed us the draft.
 	- We provided feedback on the draft, what information is missing and should be the next
-  - Finding agreement on problem and finding others who agree with you should be the next step
-  - Side meeting, Hackathon (as some running code exist)
+  - Finding agreement on problem and finding others who agree with you 
+  - suggested next steps
+  	- Side meetings
+    - Hackathon (as some running code exist)
     
 - Boris, MTS web service
 	- General query on the role of IAB in bringing new work
@@ -61,7 +63,7 @@ IAB members: Dhruv, Matthew, Suresh
 ---- 
 
 Things to consider for future
-- Two slots
-- Align with Beverage break
-- BETTER SIGNAGE! 
+- Two slots is good
+- Align with Beverage breaks
+- BETTER SIGNAGE PLEASE: How can we help you to bring your new work to the IETF?! 
 
