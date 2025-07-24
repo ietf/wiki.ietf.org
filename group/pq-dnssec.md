@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-24T08:35:40.343Z
+date: 2025-07-24T15:33:08.955Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -16,7 +16,7 @@ Documents:
 # IETF 123 Side Meeting
 ~~Friday, July 25, 2025, 10:30-11:30~~ **rescheduled to Thursday, July 24, 2025, 8:30-9:30** (local Madrid time) ([information about room and online participation](https://trello.com/c/PZTjtzgm))
 
-Meeting notes are available [here](https://wiki.ietf.org/en/group/pq-dnssec/ietf-123-meeting-notes).
+Meeting notes are available [here](https://wiki.ietf.org/en/group/pq-dnssec/ietf-123-meeting-notes). | The recording is available [here](https://ietf.webex.com/recordingservice/sites/ietf/recording/playback/1ffca41359a944cb8326ca2c2b6e1c4e).
 
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/chair-slides.pdf))
