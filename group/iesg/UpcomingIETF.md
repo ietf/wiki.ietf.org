@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-24T05:42:19.053Z
+date: 2025-07-24T09:41:07.855Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -192,5 +192,6 @@ Conference style for 16
 * TIME - TIME -- Thing (Person responsible)
 * 0800 - 0920 - RDAP RPKI (Andy)
 * 1100 - 1130 - Discussion (Deb)
+* 1130 - 1300 - Discussion (Erik)
 
 
