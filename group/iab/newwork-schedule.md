@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-24T10:32:35.805Z
+date: 2025-07-24T12:36:56.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -65,5 +65,5 @@ IAB members: Dhruv, Matthew, Suresh
 Things to consider for future
 - Two slots is good
 - Align with Beverage breaks
-- BETTER SIGNAGE PLEASE: How can we help you to bring your new work to the IETF?! 
+- BETTER SIGNAGE PLEASE: "How can we help you to bring your new work into the IETF process?" 
 
