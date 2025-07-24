@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-24T10:29:07.979Z
+date: 2025-07-24T10:29:36.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -56,7 +56,7 @@ IAB members: Dhruv, Matthew, Suresh
   - Wanted to understand IESG+IAB working model
   
 - Tara (suresh to fill in) 
-	- 
+	- xx
 
 ---- 
 
