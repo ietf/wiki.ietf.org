@@ -2,7 +2,7 @@
 title: IETF 123 PQ DNSSEC Side Meeting notes
 description: 
 published: true
-date: 2025-07-24T08:27:06.307Z
+date: 2025-07-24T08:27:29.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-24T08:27:06.307Z
@@ -14,7 +14,7 @@ Date and time: 2025-07-24, 8:30
 
 Minutes: Peter Thomassen
 
-# Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators
+## Evaluating PQC (Falcon and Mayo) in DNSSEC Signing for TLD Operators
 Presented by Elmer Lastdrager (SIDN Labs), [slides here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Lastdrager_Evaluating_PQC_Falcon_and_Mayo_in_DNSSEC_Signing_for_TLD_Operators.pdf)
 
 - Testbed with some PQ algorithms for DNSSEC
@@ -24,7 +24,7 @@ Presented by Elmer Lastdrager (SIDN Labs), [slides here](https://github.com/IQTF
 - .nl, .se, .nu, showing zone files sizes / signing / validation times by algorithm (see slides)
 - next steps: investigate impact of TCP; add SQIsign; and MTL mode
 
-# Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC
+## Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC
 Work by Jannik Peters, presented by Willem Toorop (NLnet Labs), (slides to follow)
 
 - What's the impact of using SLH-DSA-MTL in DNSSEC?
@@ -36,7 +36,7 @@ Work by Jannik Peters, presented by Willem Toorop (NLnet Labs), (slides to follo
 - next steps: look more into NSEC, test fast variant, introduce EDNS(0) option, test impact on dynamic zones
 - table of signing/verification times: MTL mode speeds it up by orders of magnitude
 
-# A post-quantum cryptography strategy for DNSSEC
+## A post-quantum cryptography strategy for DNSSEC
 Presented by Joe Harvey (Verisign), [slides here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Harvey_A_post-quantum_cryptography_strategy_for_DNSSEC.pdf)
 
 - Proposed strategy:
