@@ -2,7 +2,7 @@
 title: IETF 123 PQ DNSSEC Side Meeting notes
 description: 
 published: true
-date: 2025-07-24T08:27:29.862Z
+date: 2025-07-24T15:31:24.355Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-24T08:27:06.307Z
@@ -48,3 +48,4 @@ Presented by Joe Harvey (Verisign), [slides here](https://github.com/IQTF/pq-dns
 - reslient fallback: propose SLH-DSA (remain open to others)
 - Keep MTL mode in mind
 - next steps: continue discussion on low-impact algorithm; analyze resource consumption attacks; then select algorithm
+- Q&A: Swapneel Sheth asked if the group is OK with pursuing this strategy, e.g., by writing a draft; several thumbs-ups and no objections
