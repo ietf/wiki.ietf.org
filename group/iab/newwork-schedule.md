@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-24T12:36:56.859Z
+date: 2025-07-24T16:50:36.218Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -57,8 +57,11 @@ IAB members: Dhruv, Matthew, Suresh
 	- General query on the role of IAB in bringing new work
   - Wanted to understand IESG+IAB working model
   
-- Tara (suresh to fill in) 
-	- xx
+- Tara
+	- Wanted to write up some information regarding funding for standards participation from non-profits and governmental agencies
+  - Unclear what the venue would be for this work
+  - We advised that this information and experience would be very useful to write down and can discuss how to publish it (Blog, Wiki, Draft: potentially ISE) once there is some idea about what the content looks like.
+  - Also wanted to know if we have a document describing the benefits of sending participants to the IETF.
 
 ---- 
 
