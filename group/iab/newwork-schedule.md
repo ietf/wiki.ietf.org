@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-07-21T15:29:36.890Z
+date: 2025-07-24T10:29:07.979Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -15,7 +15,6 @@ Please put your name in this list to sign up for a slots. The goal is to have 2-
 
 ## Monday 21st July 
 Beverage Break, **11:30-12:30**
-Clashes 2nd half with: panrg, dnsop, green, mops, mpls, radext, scitt, witarea
 IAB members: Mirja, Dhruv, Suresh
 
 - Cheng Benfeng (first time participant; no affiliation listed/own company) - NHP - network hiding protocol (see also OpenNHP on github)
@@ -45,8 +44,24 @@ IAB members: Mirja, Dhruv, Suresh
 
 ## Wednesday 23rd July 
 Beverage Break, **15:30-16:30**
-Clashes 2nd half with: add, nmop, lisp, tvr, suit, tls, tsvwg
-- Dhruv
-- Matthew
-- Suresh
+IAB members: Dhruv, Matthew, Suresh
+
+- Cheng Benfeng was back and showed us the draft.
+	- We provided feedback on the draft, what information is missing and should be the next
+  - Finding agreement on problem and finding others who agree with you should be the next step
+  - Side meeting, Hackathon (as some running code exist)
+    
+- Boris, MTS web service
+	- General query on the role of IAB in bringing new work
+  - Wanted to understand IESG+IAB working model
+  
+- Tara (suresh to fill in) 
+	- 
+
+---- 
+
+Things to consider for future
+- Two slots
+- Align with Beverage break
+- BETTER SIGNAGE! 
 
