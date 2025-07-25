@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-24T09:10:03.279Z
+date: 2025-07-25T09:33:20.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,6 +28,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - August 20: Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway, Jean Mahoney) - 20 mins
 
+- August 27 (formal meeting time): Talk with ISE (Eliot Lear)
 
 ## Upcoming Formal IAB Business Meetings
 
@@ -36,6 +37,7 @@ See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 -- 2025-07-19 - 2025-07-25: IETF 123 Madrid --
 
 - 2025-08-27: IAB Business Meeting (Reserved)
+		- Talk with ISE (Eliot Lear)
 - 2025-09-24: IAB Business Meeting
     - ISE Selection Process
 - 2025-10-22: IAB Business Meeting (Reserved)
