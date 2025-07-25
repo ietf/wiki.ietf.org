@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2025-07-02T14:12:42.135Z
+date: 2025-07-25T12:50:48.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -80,6 +80,7 @@ Clear and concise guidance on tasks a working group chair needs to perform and t
 
 Eodir holds side meetings during the IETF week that are open to all. Additionally, it occasionally conducts interim online meetings. The notes from those meetings are - 
 
+- [IETF123](https://notes.ietf.org/eodir-20250725)
 - [IETF122](https://notes.ietf.org/eodir-20250321?view)
 - [IETF121](https://notes.ietf.org/eodir-20241108?view)
 - [Interim-2024-10-03](https://datatracker.ietf.org/doc/minutes-interim-2024-eodir-03-202410031600/)
