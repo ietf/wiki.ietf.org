@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2025-07-22T08:20:37.515Z
+date: 2025-07-30T21:28:48.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -21,12 +21,12 @@ Welcome to the wiki for V6OPS!
 
 * [draft-ietf-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-ietf-v6ops-icmpext-xlat-v6only-source/) - WGLC to be called
 ** Projected WGLC call: 29-July-2025
-* [draft-ietf-v6ops-claton/](https://datatracker.ietf.org/doc/draft-ietf-v6ops-claton/) - WGLC to be called
-** Projected WGLC call: 29-July-2025
+* [draft-ietf-v6ops-claton/](https://datatracker.ietf.org/doc/draft-ietf-v6ops-claton/) - WGLC called.
+** Projected WGLC completion: 13-Aug-2025
 * [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Changes Requested. 
 ** Projected meeting for discussion: 29-July-2025
-* [draft-caletka-aaaa-filtering](https://datatracker.ietf.org/doc/html/draft-caletka-aaaa-filtering) - Adoption request to be called
-** Projected WGLC call: 29-July-2025
+* [draft-caletka-aaaa-filtering](https://datatracker.ietf.org/doc/html/draft-caletka-aaaa-filtering) - Adoption request called
+** Projected adoption completion: 13-Aug-2025
 * [draft-palet-v6ops-nat64-std](https://datatracker.ietf.org/doc/draft-palet-v6ops-nat64-std/) - Adoption and/or Discussion of changes
 ** List Discussion necessary to decide on best path per draft
 ** Chair discussion: 29-July-2025
