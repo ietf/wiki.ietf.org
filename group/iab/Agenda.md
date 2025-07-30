@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-07-25T09:33:20.277Z
+date: 2025-07-30T22:20:44.903Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -21,7 +21,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-> 1. Decision process discussion ([PR](https://github.com/ietf/wiki.ietf.org/pull/95))
+> Review issues and process for tracking responsibilities, meeting approach ([link](https://github.com/intarchboard/responsibilities))
+> Decision process discussion ([PR](https://github.com/ietf/wiki.ietf.org/pull/95))
 
 
 ## Topics for Future Informal Meetings
