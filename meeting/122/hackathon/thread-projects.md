@@ -2,13 +2,15 @@
 title: IETF 122 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-04-16T16:12:31.835Z
+date: 2025-07-31T17:56:20.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T02:15:36.611Z
 ---
 
 # IETF 122 Hackathon Thread Projects
+
+IETF 122 Bangkok, March 2025.
 
 To avoid taking up too much space on the [main Hackathon page](/meeting/122/hackathon), Thread projects are listed separately here.
 
