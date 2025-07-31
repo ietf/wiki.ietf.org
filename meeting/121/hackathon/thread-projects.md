@@ -2,13 +2,15 @@
 title: IETF 121 Hackathon Thread Projects
 description: 
 published: true
-date: 2024-11-14T03:33:13.587Z
+date: 2025-07-31T17:56:34.564Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:46:03.732Z
 ---
 
 # IETF 121 Hackathon Thread Projects
+
+IETF 121 Dublin, November 2024.
 
 To avoid taking up too much space on the [main Hackathon page](/meeting/121/hackathon), Thread projects are listed separately here.
 
