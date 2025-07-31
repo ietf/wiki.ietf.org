@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-07-21T11:25:04.599Z
+date: 2025-07-31T17:51:05.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
@@ -235,7 +235,7 @@ The RPP working group is focused on designing a new protocol via a series of spe
 
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champion**
-Stuart Cheshire &lt;cheshire@apple.com&gt;
+François Michel (Apple)
 
 - **Thread Overview**
 
