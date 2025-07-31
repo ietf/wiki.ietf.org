@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-31T17:53:11.446Z
+date: 2025-07-31T17:54:28.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T16:17:32.079Z
@@ -29,6 +29,7 @@ For communication among Thread Hackathon participants, particularly remote parti
 - **Participants**
 François Michel (Apple)
 Ted Lemon (Apple)
+Hermin Anggawijaya (Allied Telesis Labs)
 
 - **Project Info**
 
