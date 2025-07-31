@@ -2,7 +2,7 @@
 title: IETF 122 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-31T17:56:20.004Z
+date: 2025-07-31T18:00:16.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T02:15:36.611Z
@@ -14,7 +14,7 @@ IETF 122 Bangkok, March 2025.
 
 To avoid taking up too much space on the [main Hackathon page](/meeting/122/hackathon), Thread projects are listed separately here.
 
-### Low-Power Wireless IPv6 Networking with Thread *
+### Low-Power Wireless IPv6 Networking with Thread
 
 - **Champion**
 Stuart Cheshire &lt;cheshire@apple.com&gt;
