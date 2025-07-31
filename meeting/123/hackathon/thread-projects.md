@@ -2,13 +2,15 @@
 title: IETF 123 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-31T17:54:28.065Z
+date: 2025-07-31T17:55:59.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T16:17:32.079Z
 ---
 
 # IETF 123 Hackathon Thread Projects
+
+IETF 123 Madrid, July 2025.
 
 To avoid taking up too much space on the [main Hackathon page](/meeting/123/hackathon), Thread projects are listed separately here.
 
