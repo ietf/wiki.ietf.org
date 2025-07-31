@@ -2,13 +2,15 @@
 title: IETF 124 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-31T17:49:26.839Z
+date: 2025-07-31T17:59:19.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T17:46:51.454Z
 ---
 
 # IETF 124 Hackathon Thread Projects
+
+IETF 124 Montréal, November 2025.
 
 To avoid taking up too much space on the [main Hackathon page](/meeting/124/hackathon), Thread projects are listed separately here.
 
