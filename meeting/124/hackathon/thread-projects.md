@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-31T17:46:51.454Z
+date: 2025-07-31T17:49:26.839Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T17:46:51.454Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-31T17:46:51.454Z
 
 To avoid taking up too much space on the [main Hackathon page](/meeting/124/hackathon), Thread projects are listed separately here.
 
-### Low-Power Wireless IPv6 Networking with Thread *
+### Low-Power Wireless IPv6 Networking with Thread
 
 - **Champion**
 François Michel (Apple)
