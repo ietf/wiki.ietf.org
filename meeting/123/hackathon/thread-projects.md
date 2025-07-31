@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-09T14:19:38.565Z
+date: 2025-07-31T17:52:14.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T16:17:32.079Z
@@ -27,8 +27,8 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 For communication among Thread Hackathon participants, particularly remote participants, in the [IETF Slack Workspace](https://join.slack.com/t/ietf/shared_invite/zt-2tp4eenlx-5XWQGCglltuzsxpwsQm_tw) we have the [#team-thread-hackathon](https://ietf.slack.com/archives/C07DE1M657E) channel.
 
 - **Participants**
-Ted Lemon (Apple)
 François Michel (Apple)
+Ted Lemon (Apple)
 
 - **Project Info**
 
