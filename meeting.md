@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2025-07-16T04:05:33.864Z
+date: 2025-08-01T03:16:02.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -15,14 +15,6 @@ Wikis are used by participants to share information about and coordinate around 
 ## Upcoming meetings 
 
 ### {.tabset}
-
-#### IETF 123 Madrid
-**July 19-25, 2025** - :es: Madrid, Spain
-- [IETF 123 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/123)
-- [IETF 123 Side Meeting Request Form](https://www.ietf.org/forms/side-meetings/)
-- [IETF 123 Side Meeting Schedule](https://trello.com/b/6kmZPwOx)
-- [IETF 123 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/123/hackathon)
-{.links-list}
 
 #### IETF 124 Montreal
 **November 01-07, 2025** - :canada: Montreal, Canada
@@ -39,10 +31,18 @@ Wikis are used by participants to share information about and coordinate around 
 - IETF 125 Hackathon
 {.links-list}
 
+#### IETF 126 Vienna
+**July 18-24, 2026** - :austria: Vienna, Austria
+- IETF 126 Meeting Wiki
+- IETF 126 Side Meetings
+- IETF 126 Hackathon
+{.links-list}
+
 ## Past meetings
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
+| **IETF 123** | :es: Madrid, ES | July 19-25, 2025 | [Meeting Wiki](/meeting/123) - [Side Meetings](https://trello.com/b/6kmZPwOx) - [Hackathon](/meeting/123/hackathon) |
 | **IETF 122** | :thailand: Bangkok, TH | March 15-21, 2025 | [Meeting Wiki](/meeting/122) - [Side Meetings](https://trello.com/b/R7yDMPyl) - [Hackathon](/meeting/122/hackathon) |
 | **IETF 121** | :ireland: Dublin, IE | November 02-08, 2024 | [Meeting Wiki](/meeting/121) - [Side Meetings](/meeting/121/sidemeetings) - [Hackathon](/meeting/121/hackathon) |
 | **IETF 120** | :canada: Vancouver, CA | July 20-26, 2024 | [Meeting Wiki](/meeting/120) - [Side Meetings](/meeting/120/sidemeetings) - [Hackathon](/meeting/120/hackathon) |
