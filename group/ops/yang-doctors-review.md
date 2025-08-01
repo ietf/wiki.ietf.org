@@ -2,7 +2,7 @@
 title: YANG Doctor Detailed Review Procedure
 description: 
 published: true
-date: 2022-12-20T20:25:00.007Z
+date: 2025-08-01T14:56:39.789Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T20:20:16.981Z
@@ -14,10 +14,11 @@ dateCreated: 2022-12-20T20:20:16.981Z
 Mailing list : yang-doctors@ietf.org
 
 Shepherding Area Director :
-Rob Wilton rwilton@cisco.com
+Mahesh Jethanandani mjethanandani@gmail.com
 
 Secretaries:
-Mehmet Ersue mersue@gmail.com and Dan Romascanu dromasca@gmail.com
+Per Andersson per.ietf@ionio.se and Quifang Ma maqiufang1@huawei.com
+
 ## Quick Links
 
    [YANG Doctors home page](https://datatracker.ietf.org/group/yangdoctors/about/)
