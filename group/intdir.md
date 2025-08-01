@@ -2,7 +2,7 @@
 title: Internet Area  Directorate (int-dir)
 description: 
 published: true
-date: 2025-07-20T13:02:31.219Z
+date: 2025-08-01T12:42:57.428Z
 tags: directorate, int area
 editor: markdown
 dateCreated: 2025-07-20T12:57:56.632Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-20T12:57:56.632Z
 
 ## Purpose
 
-The [Internet Area Directorate](https://datatracker.ietf.org/group/intdir/about/) reviewers assist Area Directors, Working Group chairs, and document authors with documents containing INT-related content. The group consists notably of some Working Group Chairs of the INT Area and selected individuals chosen for their technical knowledge in the INT area and their willingness to work with other groups within the IETF
+The [Internet Area Directorate](https://datatracker.ietf.org/group/intdir/about/) reviewers assist Area Directors, Working Group chairs, and document authors with documents containing INT-related content. The group consists notably of some Working Group Chairs of the INT Area and selected individuals chosen for their technical knowledge in the INT area and their willingness to work with other groups within the IETF.
 
 For a list of the current directorate members, see the [list of revieweres](https://datatracker.ietf.org/group/intdir/reviewers/).
 
@@ -30,8 +30,7 @@ Look to see if the draft has changed since the last call review and briefly let 
 
 ## Early Reviews
 
-The WG chair can request an early review of the document he feels is almost ready (usually after WG LC or similar), just to get early feedback on the document before the IETF LC. The early reviews are in a separate section in the assignment email, and they should be done during the next two weeks or so to be useful for the WG. Their reviews should be sent to the same places as other reviews, but it is very important to include the draftname.all@ietf.org so the reviews go to the WG Chairs. You may also include the WG list if you want, but WG chairs can also forward your reviews there.
-
+The WG chair can request an early review of the document he feels is almost ready (usually during WG LC or after call for adoption), just to get early feedback on the document before the IETF LC. The early reviews are in a separate section in the assignment email, and they should be done during the next two weeks or so to be useful for the WG. Early reviews should be done by following the same process and tools as 'last call' and 'telechat' reviews, i.e., by using the data tracker form from the request email, the only difference is really that WG chairs can request them.
 
 ## Process 
 
@@ -60,12 +59,12 @@ Reasons to decline review include:
 * Not this reviewer's particular area of expertise
 * Reviewer is not available
 
-After three business days, if a volunteer has been identified that volunteer is directed to begin the review
+After three business days, if a volunteer has been identified, then that volunteer is directed to begin the review to meet the deadline.
 
 The directorate chairs may re-assign the document to another volunteer member if the reviews are not performed by the committed date without any valid reason.
 
 ## Workload
 
-Normally, each reviewer should each be assigned one new document approximately every two months. Note that one document might easily come up two or more times (e.g., during Early review, then again during IETF last call and when placed on the telechat agenda).
+Normally, each reviewer should each be assigned one new document approximately every two months. Note that one document might easily come up two or more times (e.g., during Early review, then again during IETF last call and when placed on the IESG telechat agenda).
 
 At the end of the [My Reviews](https://datatracker.ietf.org/accounts/review/) page, there is also an option to edit the settings for the reviewer, i.e., the reviewers can mark themselves being away for a period of time. 
