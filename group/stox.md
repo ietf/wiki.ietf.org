@@ -2,11 +2,14 @@
 title: STOX WG (Concluded) - SIP-TO-XMPP
 description: 
 published: true
-date: 2023-02-17T16:36:04.203Z
+date: 2025-08-04T19:33:36.091Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-11T02:32:31.266Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 Welcome to the IETF STOX WG Wiki 
 The STOX WG in the RAI area is chartered to discuss and define protocol mappings between SIP and XMPP, that would make it easier for implementers to enable interworking between SIP-based and XMPP-based systems.
