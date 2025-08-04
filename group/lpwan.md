@@ -2,12 +2,14 @@
 title: LPWAN WG - IPv6 over Low Power Wide-Area Networks
 description: 
 published: true
-date: 2023-01-04T23:57:20.514Z
+date: 2025-08-04T18:52:55.380Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T16:43:23.252Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the LPWAN Working Group
 
 Participation at the IETF, online meetings and mailing list discussions are publicly available and subject to the [IETF Note Well](https://www.ietf.org/about/note-well.html).
