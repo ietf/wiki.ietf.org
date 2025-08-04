@@ -2,12 +2,14 @@
 title: SIPCORE WG - Session Initiation Protocol Core
 description: 
 published: true
-date: 2023-02-27T07:03:39.924Z
+date: 2025-08-04T18:32:43.244Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:49:04.773Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to SIPCORE 
 This page is somewhat sparse right now. We'll be filling it in with more content as time allows.
 
