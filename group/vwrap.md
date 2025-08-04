@@ -2,12 +2,14 @@
 title: VWRAP WG (Concluded) - Virtual World Region Agent Protocol
 description: 
 published: true
-date: 2023-02-26T22:55:56.917Z
+date: 2025-08-04T19:34:38.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:07:49.229Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # VWRAP WG Wiki 
 Wiki for the Virtual World Region Agent Protocol (VWRAP) Working Group.
 
