@@ -2,11 +2,14 @@
 title: ITS BOF (Concluded) - Intelligent Transportation Systems
 description: 
 published: true
-date: 2023-02-27T01:03:16.599Z
+date: 2025-08-04T19:08:16.772Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T22:11:36.312Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 ### Intelligent Transportation Systems (its), Charter
 
