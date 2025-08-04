@@ -2,7 +2,7 @@
 title: SECDIR - Security Directorate
 description: IETF Security Directorate wiki
 published: true
-date: 2025-08-04T18:45:46.260Z
+date: 2025-08-04T18:48:29.808Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:33:28.633Z
