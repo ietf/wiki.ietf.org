@@ -2,12 +2,14 @@
 title: RMCAT WG - RTP Media Congestion Avoidance Techniques
 description: 
 published: true
-date: 2023-01-04T22:40:46.498Z
+date: 2025-08-04T19:31:45.833Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T03:09:13.025Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the RMCAT Wiki
 
 We're putting various thing related to the [RMCAT WG](https://datatracker.ietf.org/wg/rmcat/about/) here. At the moment, these are:
