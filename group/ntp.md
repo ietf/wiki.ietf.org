@@ -2,12 +2,14 @@
 title: NTP WG - Network Time Protocols
 description: 
 published: true
-date: 2023-01-04T22:21:50.010Z
+date: 2025-08-04T18:29:11.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T19:58:39.444Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the IETF Network Time Protocol (NTP) working group wiki
 
 This page will be used for coordination of work items for the working group.
