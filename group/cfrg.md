@@ -2,11 +2,15 @@
 title: CFRG RG - Crypto Forum Research Group
 description: 
 published: true
-date: 2023-02-27T18:38:11.841Z
+date: 2025-08-04T17:51:55.919Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:38:41.760Z
 ---
+
+> This page is related to an active IRTF Research Group.
+{.is-success }
+
 
 # Crypto Forum Research Group
 For more information please visit the [CFRG web page](https://datatracker.ietf.org/rg/cfrg/about/). 
