@@ -2,11 +2,14 @@
 title: OAUTH WG - Web Authorization Protocol
 description: 
 published: true
-date: 2023-01-04T22:46:25.173Z
+date: 2025-08-04T18:29:45.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T20:41:37.425Z
 ---
+
+> This page is related to an active IETF Working Group.
+{.is-success}
 
 This wiki is for use by the IETF's OAuth WG. We're currently working on the following pages:
 
