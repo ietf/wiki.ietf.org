@@ -2,12 +2,14 @@
 title: DNSSD WG - Extensions for Scalable DNS Service Discovery
 description: Wiki for DNSSD WG
 published: true
-date: 2023-01-24T20:52:22.796Z
+date: 2025-08-04T18:22:37.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-07T00:02:07.922Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the DNS Service Discovery WG Wiki
 
 
