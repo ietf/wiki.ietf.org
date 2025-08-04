@@ -2,11 +2,14 @@
 title: RTCWEB WG - Real-Time Communication in WEB-browsers
 description: 
 published: true
-date: 2023-02-27T04:49:41.428Z
+date: 2025-08-04T18:53:21.581Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T04:44:23.147Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 ## Note
 
