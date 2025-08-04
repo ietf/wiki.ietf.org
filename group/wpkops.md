@@ -2,12 +2,14 @@
 title: WPKOPS WG (Concluded) - Web PKI OPS
 description: 
 published: true
-date: 2023-02-27T07:34:37.859Z
+date: 2025-08-04T19:34:51.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:11:48.015Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Web PKI Operations
 
 [Charter](http://datatracker.ietf.org/wg/wpkops/charter/)
