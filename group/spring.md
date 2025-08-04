@@ -2,12 +2,14 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-07-25T07:35:09.106Z
+date: 2025-08-04T18:32:55.575Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the SPRING WG Wiki
 
 This wiki aims to track the information related with the active drafts in the IETF [SPRING](https://datatracker.ietf.org/group/spring/) working group which is not shown in the IETF datatracker. 
