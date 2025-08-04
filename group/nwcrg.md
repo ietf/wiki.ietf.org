@@ -2,11 +2,14 @@
 title: NWC RG Wiki
 description: 
 published: true
-date: 2024-07-25T00:47:59.322Z
+date: 2025-08-04T18:49:22.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T02:42:37.747Z
 ---
+
+> This page is related to a concluded IRTF Research Group.
+{.is-danger}
 
 # Network Coding IRTF Research Group 
 [Official page here](https://irtf.org/nwcrg)
