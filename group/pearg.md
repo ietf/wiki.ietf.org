@@ -2,12 +2,14 @@
 title: PEARG Wiki
 description: 
 published: true
-date: 2023-01-30T00:20:26.604Z
+date: 2025-08-04T17:57:31.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:20:22.871Z
 ---
 
+> This page is related to an active IRTF Research Group.
+{.is-success}
 # Privacy Enhancements and Assessments Research Group (PEARG) 
 This is the wiki for the Privacy Enhancements and Assessments Research Group.
 
