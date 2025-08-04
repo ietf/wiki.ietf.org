@@ -2,12 +2,14 @@
 title: HTTPBIS WG - HTTP
 description: Wiki for HTTPBIS wg
 published: true
-date: 2023-02-14T22:43:11.161Z
+date: 2025-08-04T18:23:33.076Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T20:12:37.708Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # HTTP Working Group (httpbis)
 
 See the [WG home page](https://httpwg.github.io/).
