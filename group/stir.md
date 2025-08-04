@@ -2,12 +2,14 @@
 title: STIR WG - Secure Telephone Identity Revisited
 description: 
 published: true
-date: 2023-01-04T22:41:21.191Z
+date: 2025-08-04T18:33:28.026Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:44:55.928Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # STIR Working Group 
 This Wiki page is to support the STIR WG.
 
