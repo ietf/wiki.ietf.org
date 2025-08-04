@@ -2,12 +2,14 @@
 title: NEA WG (Concluded) - Network Endpoint Assessment Group
 description: 
 published: true
-date: 2023-02-17T19:13:15.884Z
+date: 2025-08-04T19:29:08.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:00:25.924Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # IETF NEA Working Group 
 The IETF NEA WG is creating standards for assessing the posture of endpoint devices.
 
