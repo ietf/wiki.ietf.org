@@ -2,12 +2,14 @@
 title: DetNet WG - Deterministic Networks
 description: 
 published: true
-date: 2023-04-14T13:07:47.784Z
+date: 2025-08-04T18:21:12.275Z
 tags: ietf rtg
 editor: markdown
 dateCreated: 2023-04-14T13:00:49.534Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the IETF DetNet WG Wiki
 
 This Wiki contains additional information for the IETF DetNet working group.
