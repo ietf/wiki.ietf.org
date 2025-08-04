@@ -2,12 +2,14 @@
 title: Internet Area  Directorate (int-dir)
 description: 
 published: true
-date: 2025-08-01T12:42:57.428Z
+date: 2025-08-04T19:38:58.471Z
 tags: directorate, int area
 editor: markdown
 dateCreated: 2025-07-20T12:57:56.632Z
 ---
 
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 # Internet Area Directorate (int-dir)
 
 ## Purpose
