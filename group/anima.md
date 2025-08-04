@@ -2,12 +2,14 @@
 title: ANIMA WG - Autonomic Networking Integrated Model and Approach
 description: 
 published: true
-date: 2023-02-28T16:38:49.045Z
+date: 2025-08-04T18:17:24.861Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T04:32:38.935Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # ANIMA - Autonomic Networking Integrated Model and Approach 
 Anima became a WG on November 4, 2014.[Announcement](http://www.ietf.org/mail-archive/web/anima/current/msg00598.html)
 
