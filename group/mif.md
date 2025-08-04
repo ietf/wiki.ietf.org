@@ -2,12 +2,14 @@
 title: MIF WG (Concluded) - Multiple Interfaces Wiki
 description: 
 published: true
-date: 2023-02-27T07:39:18.403Z
+date: 2025-08-04T19:27:44.053Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:41:26.855Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # IETF 87th Summary 
 MIF working group has setup architecture design team sine 86th meeting, the team has regular bi-week teleconf. the result generate the MPVD Architecture document which enclude below major points:
 
