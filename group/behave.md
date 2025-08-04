@@ -2,11 +2,14 @@
 title: BEHAVE WG (Concluded) - Behavior Engineering for Hindrance Avoidance
 description: 
 published: true
-date: 2023-02-27T18:55:25.196Z
+date: 2025-08-04T18:54:37.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T03:27:59.394Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # BEHAVE Working Group Wiki
 [BEHAVE charter](http://www.ietf.org/html.charters/behave-charter.html)
