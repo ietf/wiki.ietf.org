@@ -2,12 +2,14 @@
 title: 6MAN WG - IPv6 Maintenance
 description: 
 published: true
-date: 2024-03-07T20:08:29.115Z
+date: 2025-08-04T18:14:06.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:36:36.339Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # MAN Working whitout Group whitout Summaries
 ## IETF 89 not run this
 
