@@ -2,12 +2,14 @@
 title: SIPREC WG (Concluded) - SIP Recording
 description: 
 published: true
-date: 2023-02-27T07:40:56.199Z
+date: 2025-08-04T19:32:55.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:38:09.251Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the IETF SIPREC WG Wiki
 The Session Recording Protocol (SIPREC) working group is chartered to define a SIP-based protocol for controlling a session (media) recorder.
 
