@@ -2,12 +2,14 @@
 title: SECDISPATCH WG - Security Dispatch
 description: 
 published: true
-date: 2024-05-06T12:11:13.686Z
+date: 2025-08-04T18:32:09.131Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:56:10.700Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Secdispatch Wiki 
 *Guidelines for effective participation in the Secdispatch working group*
 
