@@ -2,12 +2,14 @@
 title: DMARC WG - Domain-based Message Authentication, Reporting & Conformance
 description: 
 published: true
-date: 2023-07-25T17:59:02.156Z
+date: 2025-08-04T18:22:06.072Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T21:35:44.456Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the DMARC Working Group
 
 The DMARC WG is [chartered](https://datatracker.ietf.org/wg/dmarc/charter/) to address issues with DMARC interoperability around indirect email flows, to review and improve the base DMARC specification, and to develop a DMARC Usage Guide.
