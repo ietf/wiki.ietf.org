@@ -2,11 +2,14 @@
 title: RAI Area - Real-time Applications and Infrastructure
 description: 
 published: true
-date: 2023-02-27T01:32:28.634Z
+date: 2025-08-04T19:30:37.015Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T04:08:28.722Z
 ---
+
+> This page is related to a concluded IETF Area.
+{.is-danger}
 
 # Real Time Applications and Infastructure Area (RAI) 
 ## Working Groups
