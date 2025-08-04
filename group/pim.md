@@ -2,12 +2,14 @@
 title: PIM WG - Protocols for IP Multicast 
 description: 
 published: true
-date: 2023-01-04T22:23:40.829Z
+date: 2025-08-04T18:30:23.090Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T20:49:47.268Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the IETF pim WG wiki
 
 For information on the pim WG, see the [Datatracker](https://datatracker.ietf.org/wg/pim/about/).
