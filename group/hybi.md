@@ -2,12 +2,14 @@
 title: HYBI WG (Concluded) - BiDirectional or Server-Initiated HTTP
 description: 
 published: true
-date: 2023-02-27T18:47:39.538Z
+date: 2025-08-04T19:06:24.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-22T03:35:37.935Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # The hybi - Bidirectional or Server-Initiated HTTP - (Active WG) Wiki
 - [FAQ](/group/hybi/FAQ)
 - [ReportFromImplementers](/group/hybi/ReportFromImplementers)
