@@ -2,12 +2,14 @@
 title: CORE WG - Constrained RESTful Environments Wiki
 description: 
 published: true
-date: 2024-12-20T11:30:49.744Z
+date: 2025-08-04T18:20:59.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:20:32.189Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # CoRE WG Wiki
 The Constrained RESTful Environments (CoRE) WG was created out of the 6LowApp activity (see [concluded 6lowapp WG](https://datatracker.ietf.org/wg/6lowapp/about/) for historical information).
 
