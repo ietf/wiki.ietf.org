@@ -2,11 +2,14 @@
 title: L3SM WG (Concluded) - L3VPN Service Model Wiki
 description: 
 published: true
-date: 2023-02-27T01:24:24.880Z
+date: 2025-08-04T19:08:51.383Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:36:15.334Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Welcome to the L3SM Working Group Wiki 
 This is the wiki for the Layer Three VPN Service Model (L3SM) working group.
