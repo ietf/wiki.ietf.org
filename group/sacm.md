@@ -2,12 +2,14 @@
 title: SACM WG - Security Automation and Continuous Monitoring
 description: 
 published: true
-date: 2023-02-27T06:07:05.599Z
+date: 2025-08-04T19:32:03.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:15:14.733Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the IETF SACM Working Group Wiki 
 
 This is a page for general information about the SACM Working Group that is not represented in published documents. 
