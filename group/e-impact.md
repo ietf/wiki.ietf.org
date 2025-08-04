@@ -2,12 +2,14 @@
 title: E-IMPACT - Environmental impacts of the Internet
 description: Environmental impacts of the Internet
 published: true
-date: 2024-04-16T15:13:34.217Z
+date: 2025-08-04T19:40:51.089Z
 tags: other
 editor: markdown
 dateCreated: 2024-02-13T16:46:40.819Z
 ---
 
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 # Useful References for E-impact
 
 ## Mobile network consumption estimation
