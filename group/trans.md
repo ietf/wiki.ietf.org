@@ -2,12 +2,14 @@
 title: TRANS WG (Concluded) - Public Notary Transparency Wiki
 description: 
 published: true
-date: 2023-02-27T07:39:57.826Z
+date: 2025-08-04T19:33:59.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:54:11.664Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # trans (Public Notary Transparency) wiki
 This page is being used as a place for quick notes or other working-group related information (process and otherwise) for the [trans](http://datatracker.ietf.org/wg/trans/charter/) working group.
 ## Implementations
