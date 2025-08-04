@@ -2,12 +2,14 @@
 title: TZDIST WG (Concluded) - Time Zone Data Distribution Service Wiki
 description: 
 published: true
-date: 2023-02-26T22:35:23.239Z
+date: 2025-08-04T19:34:16.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:56:41.437Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the TZDIST Working Group Page 
 This page contains some useful information to those involved in developing the specifications or implementations.
 
