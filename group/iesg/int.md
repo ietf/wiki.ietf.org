@@ -2,12 +2,14 @@
 title: Internet Area hot topics
 description: 
 published: true
-date: 2022-11-29T19:40:11.343Z
+date: 2025-08-04T18:40:08.181Z
 tags: int area
 editor: markdown
 dateCreated: 2022-10-10T13:11:56.649Z
 ---
 
+> This page is related to an active IETF Area.
+{.is-success}
 # Typical INTernet Area Issues
 
 Certain internet area related issues show up time and time again when the Area Directors in the IETF Internet Area (or members of the [Internet Directorate](https://datatracker.ietf.org/group/intdir/about/) or [IoT directorate](https://datatracker.ietf.org/group/iotdir/about/)) complete reviews of Internet-Drafts. I-D authors are advised to address these issues ahead of time to smooth the path to RFC publication. 
