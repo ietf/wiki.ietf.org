@@ -2,12 +2,14 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-03-26T16:46:01.682Z
+date: 2025-08-04T17:57:03.350Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
 ---
 
+> This page is related to an active IRTF Research Group.
+{.is-success}
 # Measurement and Analysis for Protocols (MAP) - Research Group 
 The Measurement and Analysis for Protocols (MAP) Research Group (RG) explores Internet conditions by measurement with the aim to inform protocol engineering and operator practice.
 
