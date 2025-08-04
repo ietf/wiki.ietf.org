@@ -2,12 +2,14 @@
 title: Internet Congestion Control
 description: This is the Wiki for the IRTF ICC Research Group (ICCRG).
 published: true
-date: 2024-07-25T00:39:10.946Z
+date: 2025-08-04T17:56:33.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T09:46:42.963Z
 ---
 
+> This page is related to an active IRTF Research Group.
+{.is-success}
 # ICCRG Administrative Information
 Your content here
 
