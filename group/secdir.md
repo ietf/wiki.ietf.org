@@ -2,11 +2,16 @@
 title: SECDIR - Security Directorate
 description: IETF Security Directorate wiki
 published: true
-date: 2023-01-04T22:02:13.377Z
+date: 2025-08-04T18:45:46.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T15:33:28.633Z
 ---
+
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
+
+
 
 The [Security Area Directorate](https://datatracker.ietf.org/group/secdir/about/) provides support to the IETF Security Area Directors. The group consists of the Working Group Chairs of the Security Area and selected individuals chosen for their technical knowledge in security and their willingness to work with other groups within the IETF to help provide security throughout IETF protocols.
 
