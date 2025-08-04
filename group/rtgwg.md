@@ -2,12 +2,14 @@
 title: RTGWG - Routing Area Working Group Wiki
 description: 
 published: true
-date: 2024-02-26T20:12:49.189Z
+date: 2025-08-04T18:31:56.309Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T00:43:20.094Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the RTGWG Wiki 
 The charter of the Routing Area working group (RTGWG) can be found at https://datatracker.ietf.org/wg/rtgwg/charter/. This charter gives the RTGWG two main functions.
 
