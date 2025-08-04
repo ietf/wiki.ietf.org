@@ -2,11 +2,14 @@
 title: GEOPRIV WG (Concluded) - Geographic Location/Privacy Wiki
 description: 
 published: true
-date: 2023-02-17T07:03:00.511Z
+date: 2025-08-04T18:56:50.563Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:56:42.797Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # GEOPRIV implementations 
 We try to maintain a list of software tools that implement the GEOPRIV protocols: [GeoprivTools](/group/geopriv/GeoprivTools).
