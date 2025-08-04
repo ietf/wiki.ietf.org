@@ -2,12 +2,14 @@
 title: MPTCP WG (Concluded) - Multipath TCP Wiki
 description: 
 published: true
-date: 2023-02-17T19:17:36.702Z
+date: 2025-08-04T19:28:12.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T00:31:58.089Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # wiki pages for Multipath TCP
 - WG call, Monday 20th June, 3pm GMT/UTC [Interim_June_2016](/group/mptcp/Interim_June_2016)
 - WG call, Thursday 10th September, 3pm GMT/UTC [Interim_Sept_2015](/group/mptcp/Interim_Sept_2015)
