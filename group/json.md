@@ -2,12 +2,14 @@
 title: JSON WG (Concluded)
 description: 
 published: true
-date: 2023-02-27T03:43:01.056Z
+date: 2025-08-04T19:08:28.174Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:32:13.425Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Process for Discussing Changes to the Spec
 (From http://www.ietf.org/mail-archive/web/json/current/msg00293.html)
 
