@@ -2,12 +2,14 @@
 title: UTA WG - Using TLS in Applications
 description: 
 published: true
-date: 2023-01-04T22:45:58.070Z
+date: 2025-08-04T18:34:37.438Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:16:25.626Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Using TLS in Applications WG Wiki 
 - [AcronymList](/group/uta/AcronymList) - A list of commonly used acronyms
 # Protocol-specific information
