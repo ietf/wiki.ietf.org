@@ -2,11 +2,14 @@
 title: ACE WG - Authentication and Authorization for Constrained Environments
 description: 
 published: true
-date: 2025-05-13T13:07:51.909Z
+date: 2025-08-04T18:17:09.240Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:52:59.665Z
 ---
+
+> This page is related to an active IETF Working Group.
+{.is-success}
 
 - # Welcome to the ACE Wiki
 
