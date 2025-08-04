@@ -2,12 +2,14 @@
 title: SIEVE WG (Concluded) - Sieve Mail Filtering Language
 description: 
 published: true
-date: 2023-02-27T07:41:48.206Z
+date: 2025-08-04T19:32:26.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-11T02:25:10.528Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # SIEVE
 ## An Email Filtering Language
 This page is provided as an informal coordination point for activities related to the Sieve mail filtering language. Sieve is a proposed internet-standard language for filtering mail at the time of final delivery.
