@@ -2,11 +2,14 @@
 title: ALTO WG - Application-Layer Traffic Optimization
 description: The wiki page for the Application-Layer Traffic Optimization Working Group
 published: true
-date: 2023-03-29T12:40:21.464Z
+date: 2025-08-04T18:51:51.805Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-18T13:36:24.895Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # ALTO Datatracker
 
