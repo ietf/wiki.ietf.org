@@ -2,11 +2,14 @@
 title: BFD WG - Bidirectional Forwarding Detection
 description: 
 published: true
-date: 2023-01-13T01:50:29.776Z
+date: 2025-08-04T18:17:41.961Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:54:06.920Z
 ---
+
+> This page is related to an active IETF Working Group.
+{.is-success}
 
 * [BFD RFC Listing](/group/bfd/rfc-Listing)
 * [BFD Working Group Current Activities](/group/bfd/current-activities)
