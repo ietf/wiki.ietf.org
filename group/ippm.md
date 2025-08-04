@@ -2,12 +2,14 @@
 title: IPPM WG - IP Performance Metrics 
 description: 
 published: true
-date: 2023-01-04T22:14:17.818Z
+date: 2025-08-04T18:24:03.355Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T00:07:54.496Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # IPPM WG Wiki
 
 [Individual Draft Adoption Considerations Status](/group/ippm/IndividualDraftStatus)
