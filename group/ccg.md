@@ -2,12 +2,14 @@
 title: CCG - Community Coordination Group 
 description: 
 published: true
-date: 2023-01-13T20:19:03.739Z
+date: 2025-08-04T19:39:27.412Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:49:40.902Z
 ---
 
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 # Community Coordination Group Wiki
 The IANA IPR Community Agreement, ​[https://trustee.ietf.org/documents/Community-Agreement-09-21-2016clean.pdf], was one of the many documents that was part of the IANA Stewardship Transition. It calls for the creation of the Community Coordination Group (CCG) to provide guidance, advice, and in a few circumstances, approvals to the IETF Trust regarding the stewardship of the IANA Intellectual Property. The CCG is comprised of nine individuals, called the CCG Representatives. The Names Community, the Numbers Community, and the Protocol Parameters Community each appoint three CCG Representatives. Each operational community has the right to change any of its CCG Representatives upon written notice to the other operational communities and the IETF Trust. An operational community may remove or replace its CCG Representatives at any time and in its sole discretion. The means and procedures by which an Operational Community elects to select, appoint, and remove its own CCG Representatives are determined solely by that operational community
 
