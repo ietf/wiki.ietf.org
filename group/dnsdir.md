@@ -2,12 +2,14 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: true
-date: 2025-07-15T12:47:31.923Z
+date: 2025-08-04T19:38:31.050Z
 tags: dns, directorate, int area, ops area
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
 ---
 
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 # Charter
 
 DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
