@@ -2,12 +2,14 @@
 title: Routing Area Wiki
 description: 
 published: true
-date: 2025-05-08T09:59:38.149Z
+date: 2025-08-04T18:41:58.978Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T05:24:30.144Z
 ---
 
+> This page is related to an active IETF Area.
+{.is-success}
 # Welcome to the Routing Area Wiki 
 This Wiki contains additional information for the Routing Area. 
 
