@@ -2,12 +2,14 @@
 title: NETCONF WG - Network Configuration
 description: 
 published: true
-date: 2024-04-25T01:07:35.596Z
+date: 2025-08-04T18:28:48.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T19:44:45.932Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # The NETCONF Wiki
 
 
