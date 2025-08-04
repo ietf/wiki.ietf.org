@@ -2,12 +2,14 @@
 title: YAM WG (Concluded) - Yet Another Mail Wiki
 description: 
 published: true
-date: 2023-02-27T02:25:55.869Z
+date: 2025-08-04T19:35:03.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T23:41:30.270Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Yet Another Mail Working Group 
 ## Procedure
 - Form review and editing teams for each document to be advanced.
