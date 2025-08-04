@@ -2,12 +2,14 @@
 title: IDNABIS WG (Concluded) - Internationalized Domain Names in Applications, Revised
 description: Internationalized Domain Names in Applications, Revised (idnabis) Wiki
 published: true
-date: 2023-02-27T00:36:32.741Z
+date: 2025-08-04T19:06:57.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:11:06.853Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # IDNAbis wiki
 
 There's not much here yet, below you see the original content (setup default). In theory Trac allows to manage **tickets**, a project **roadmap**, this **wiki**, and sources (likely not applicable here, the WG produces Internet-Drafts managed elsewhere). For recent changes wrt Trac check out the **timeline**, this page also offers to subscribe to an atom feed of recent changes.
