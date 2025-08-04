@@ -2,12 +2,14 @@
 title: LISP WG - Locator/ID Separation Protocol
 description: 
 published: true
-date: 2023-01-04T22:17:07.004Z
+date: 2025-08-04T18:28:08.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T16:22:43.152Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Locator/ID Separation Protocol (lisp) 
 
 ## LISP WG Sessions Summaries
