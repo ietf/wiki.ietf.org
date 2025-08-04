@@ -2,12 +2,14 @@
 title: SIDROPS
 description: Secure Inter-Domain Routing Operations
 published: true
-date: 2025-07-29T13:37:11.213Z
+date: 2025-08-04T18:32:26.400Z
 tags: sidrops, rpki, sidr, pkix, x509, asn1
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to SIDROPS!
 
 We're here to make the global Internet routing system more secure through the development and maintenance of RPKI.
