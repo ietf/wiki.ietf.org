@@ -2,11 +2,14 @@
 title: TICTOC WG - Timing over IP Connection and Transfer of Clock
 description: 
 published: true
-date: 2023-01-05T00:04:22.773Z
+date: 2025-08-04T18:53:36.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T22:40:34.397Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Welcome to the IETF TICTOC Wiki 
 This Wiki contains additional information for the IETF TICTOC working group.
