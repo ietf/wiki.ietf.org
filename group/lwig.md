@@ -2,12 +2,14 @@
 title: LWIG WG - Light-Weight Implementation Guidance
 description: 
 published: true
-date: 2023-01-04T23:58:58.816Z
+date: 2025-08-04T18:53:08.017Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T16:47:12.212Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Lwig Session at IETF-90 in Toronto
 
 WG Status Update: RFC7228 published in May 2014, which is the first RFC in the LWIG working group. draft-kovatsch-lwig-coap-02 was waiting for the authors for the next step.
