@@ -2,12 +2,14 @@
 title: RIFT WG - Routing In Fat Trees
 description: 
 published: true
-date: 2023-02-27T04:39:59.173Z
+date: 2025-08-04T18:31:02.040Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T21:37:49.588Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # RIFT Wiki Page
 
 RIFT is specialized, dynamic routing protocol for Clos and fat-tree networks and its' variants. The protocol
