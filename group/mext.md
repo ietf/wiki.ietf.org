@@ -2,12 +2,14 @@
 title: MEXT WG (Concluded) - Mobility EXtensions for IPv6
 description: 
 published: true
-date: 2023-02-27T07:33:14.978Z
+date: 2025-08-04T19:27:24.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T04:29:00.965Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the MEXT Wiki 
 [FirstMextInterim](/group/mext/FirstMextInterim)
 
