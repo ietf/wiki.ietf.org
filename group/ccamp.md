@@ -2,12 +2,14 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-07-22T13:50:51.474Z
+date: 2025-08-04T18:19:41.960Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the IETF CCAMP WG Wiki
 
 This Wiki contains additional information for the IETF CCAMP working group.
