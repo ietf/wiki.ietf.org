@@ -2,12 +2,14 @@
 title: MILE WG - Managed Incident Lightweight Exchange Group
 description: 
 published: true
-date: 2023-02-27T07:38:13.885Z
+date: 2025-08-04T19:27:55.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T00:24:49.400Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Managed Incident Lightweight Exchange (MILE) Working Group Overview
 The MILE working group is focused in two areas, data formats and transport protocols to enable the secure exchange of indicator and incident information. This wiki is intended to provide an overview of the two work areas and how the drafts in the working group fit together. Although the Data Format is supported by the transport protocols defined, they can each be used independently either with alternate transports or the transports can support other data formats. Please reference the MILE Charter http://datatracker.ietf.org/wg/mile/charter/ for a complete overview of the scope of work possible under the charter. Submissions of drafts within scope of the charter are welcome.
 
