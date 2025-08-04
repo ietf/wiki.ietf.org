@@ -2,12 +2,14 @@
 title: NVO3 WG - Network Virtualization Overlays
 description: 
 published: true
-date: 2023-01-04T23:59:26.775Z
+date: 2025-08-04T18:29:25.674Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T20:34:04.712Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # IETF NVO3 WG
 
 Subscribe to the NVO3 calendar at https://ical.ietf.org/public.php/nvo3/calendar
