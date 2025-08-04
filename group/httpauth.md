@@ -2,11 +2,14 @@
 title: HTTPAUTH WG (Concluded) - Hypertext Transfer Protocol Authentication
 description: Welcome to the HTTP-Auth WG Wiki
 published: true
-date: 2023-02-17T07:05:57.373Z
+date: 2025-08-04T19:06:12.163Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T16:57:24.913Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Welcome to the HTTP-Auth WG Trac installation
 
