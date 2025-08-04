@@ -2,11 +2,14 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2025-07-30T21:29:23.918Z
+date: 2025-08-04T18:35:00.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
 ---
+
+> This page is related to an active IETF Working Group.
+{.is-success}
 
 > # V6OPS WG Wiki
 
