@@ -2,12 +2,14 @@
 title: IPSECME WG - IP Security Maintenance and Extensions
 description: 
 published: true
-date: 2023-01-04T22:14:51.877Z
+date: 2025-08-04T18:24:17.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T00:32:04.339Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the IPSECME WG Wiki
 
 IPsec is the leading IETF security architecture, providing layer-3 protection for IP traffic. It consists of traffic security protocols (the most important nowadays is ESP) and a key management protocol (IKE, the Internet Key Exchange protocol). Modern IPsec is specified in a series of RFCs, RFC 4301 through RFC 4309. The most important addition is IKEv2, initially specified in RFC 4306, and as full internet standard in RFC7296. Many implementations still follow the previous version of IPsec and IKE version 1, as specified in RFC 2401-2412; it is our goal to ensure smooth transition to the new specifications.
