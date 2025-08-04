@@ -2,12 +2,14 @@
 title: SLIM WG (Concluded) - Selection of Language for Internet Media Wiki
 description: 
 published: true
-date: 2023-02-27T07:36:12.675Z
+date: 2025-08-04T19:33:08.941Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:44:15.511Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the Wiki page for the SLIM WG
 Please use the following links to find the information you need:
 
