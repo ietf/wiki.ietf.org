@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-07-27T09:05:27.931Z
+date: 2025-08-04T14:10:40.405Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -61,7 +61,7 @@ Note that this page is public.
 
 ### AOB
 
-
+Tim Chown asked at the plenary about the costs of a 1 day pass. He was seeking to participate one day on-site because he was a Chair and could travel to his WG meeting and meet others, but unable to attend for the rest of the week this time. Can we explore why this was so costly?
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
