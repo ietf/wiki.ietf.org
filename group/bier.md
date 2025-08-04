@@ -2,12 +2,14 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-07-09T08:31:37.898Z
+date: 2025-08-04T18:18:16.447Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to BIER(Bit Indexed Explicit Replication) working group
 
 ## Description of BIER working group
