@@ -2,12 +2,14 @@
 title: DNSEXT WG (Concluded)
 description: 
 published: true
-date: 2023-02-17T06:53:43.223Z
+date: 2025-08-04T18:55:51.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:41:18.968Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # DNS Extensions Working Group 
 This is the DNS Extensions (DNSEXT) WG wiki.
 
