@@ -2,12 +2,14 @@
 title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2025-06-18T07:52:40.391Z
+date: 2025-08-04T19:39:09.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
 ---
 
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 # Internet-of-Things Directorate
 
 ## Charter
