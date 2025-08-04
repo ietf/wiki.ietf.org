@@ -2,11 +2,14 @@
 title: EAI WG (Concluded) - Email Address Internationalization
 description: 
 published: true
-date: 2023-02-17T06:59:15.744Z
+date: 2025-08-04T18:56:26.434Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T00:47:21.968Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Email Address Internationalization 
 ## Terminology and references to this work
