@@ -2,12 +2,14 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-07-09T13:58:56.453Z
+date: 2025-08-04T18:18:02.623Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # BESS WG detailed Status
 
 
