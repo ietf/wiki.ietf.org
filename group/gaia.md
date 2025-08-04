@@ -2,12 +2,14 @@
 title: GAIA RG - Global Access to the Internet for All Research Group 
 description: Wiki for GAIA RG
 published: true
-date: 2023-01-25T05:17:15.350Z
+date: 2025-08-04T17:56:13.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T00:41:11.971Z
 ---
 
+> This page is related to an active IRTF Research Group.
+{.is-success}
 # Global Access to the Internet for All Research Group GAIA
 ## Internet Research Task Force (IRTF) Charter
 
