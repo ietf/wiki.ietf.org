@@ -2,12 +2,14 @@
 title: OSPF WG (Concluded) - Open Shortest Path First IGP
 description: 
 published: true
-date: 2023-02-27T07:33:57.218Z
+date: 2025-08-04T19:29:34.326Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:12:07.954Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the OSPF Working Group Web page
 OSPF working group (WG) advances the Open Shortest Path First (OSPF) protocol.
 
