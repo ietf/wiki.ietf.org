@@ -2,12 +2,14 @@
 title: JOSE WG - Javascript Object Signing and Encryption
 description: 
 published: true
-date: 2023-02-27T07:37:37.200Z
+date: 2025-08-04T18:27:55.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:29:48.123Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # JOSE
 ## Current Implementations
 - NimbuDS: https://bitbucket.org/nimbusds/nimbus-jose-jwt/wiki/Home
