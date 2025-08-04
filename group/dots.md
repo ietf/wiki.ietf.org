@@ -2,12 +2,14 @@
 title: DOTS WG - DDoS Open Threat Signaling
 description: 
 published: true
-date: 2023-03-27T09:25:22.106Z
+date: 2025-08-04T18:52:15.439Z
 tags: wg
 editor: markdown
 dateCreated: 2022-12-08T22:29:45.543Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # DOTS Working Group
 
 The aim of [DDoS Open Threat Signaling (DOTS)](https://datatracker.ietf.org/wg/dots/about/) is to develop a standards based approach for the realtime signaling of DDoS related telemetry and threat handling requests and data between elements concerned with DDoS attack detection, classification, traceback, and mitigation.
