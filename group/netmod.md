@@ -2,12 +2,14 @@
 title: NETMOD WG - Network Modeling
 description: 
 published: true
-date: 2023-01-04T22:21:24.743Z
+date: 2025-08-04T18:28:59.703Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T20:10:07.542Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the NETMOD Wiki
 
 Info about NETMOD:
