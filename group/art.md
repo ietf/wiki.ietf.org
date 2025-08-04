@@ -2,11 +2,14 @@
 title: ART Area
 description: These pages provide information about application protocols such as email and the web.
 published: true
-date: 2023-01-13T00:59:44.045Z
+date: 2025-08-04T18:39:43.766Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T15:01:03.827Z
 ---
+
+> This page is related to an active IETF Area.
+{.is-success}
 
 # IETF Applications and Real Time (ART) Area
 
