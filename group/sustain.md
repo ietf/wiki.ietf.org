@@ -2,11 +2,14 @@
 title: SUSTAIN PRG - Sustainability and the Internet Proposed Research Group
 description: 
 published: true
-date: 2025-04-03T13:10:22.628Z
+date: 2025-08-04T17:58:08.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T17:32:33.956Z
 ---
+
+> This page is related to an active IRTF Research Group.
+{.is-success}
 
 # SUSTAIN
 
