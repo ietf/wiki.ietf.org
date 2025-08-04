@@ -2,12 +2,14 @@
 title: SIDR WG (Concluded) - Secure Inter-Domain Routing
 description: 
 published: true
-date: 2023-02-27T06:59:10.967Z
+date: 2025-08-04T19:32:14.645Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:31:21.243Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Welcome to the SIDR working group wiki page.
 ## Links
 **Pointers to useful sites for the sidr working group**
