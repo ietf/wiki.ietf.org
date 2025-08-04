@@ -2,12 +2,14 @@
 title: I2RS WG (Concluded) - Interface to the Routing System Wiki
 description: 
 published: true
-date: 2023-02-27T00:26:28.755Z
+date: 2025-08-04T19:06:38.308Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-22T02:10:50.773Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # I2RS Wiki
 
 
