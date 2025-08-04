@@ -2,11 +2,14 @@
 title: IRI WG (Concluded)
 description: 
 published: true
-date: 2023-02-17T08:33:44.912Z
+date: 2025-08-04T19:08:01.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-09T22:27:49.276Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Issue Tracker for IRI documents
 This is the issue tracker for the [IRI working group](http://tools.ietf.org/wg/iri/)
