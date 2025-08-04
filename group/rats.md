@@ -1,13 +1,15 @@
 ---
 title: RATS WG - Remote ATtestation proceedureS
-description:
+description: 
 published: true
-date: 2024-11-10T14:23:57.733Z
-tags:
+date: 2025-08-04T18:31:15.607Z
+tags: 
 editor: markdown
 dateCreated: 2024-11-08T19:26:25.665Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # RATS - Remote Attestation proceedureS
 RATS became a WG around 2019-02-18.
 
