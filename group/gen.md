@@ -2,12 +2,14 @@
 title: General Area
 description: Wiki for GEN
 published: true
-date: 2023-01-30T17:57:00.878Z
+date: 2025-08-04T18:39:56.767Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T01:06:24.204Z
 ---
 
+> This page is related to an active IETF Area.
+{.is-success}
 # General Area
 ## General Area Review Team (Gen-ART) Guidelines
 
