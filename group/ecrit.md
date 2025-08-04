@@ -2,12 +2,14 @@
 title: ECRIT WG - Emergency Context Resolution with Internet Technologies
 description: Wiki for ecrit wg
 published: true
-date: 2023-01-25T04:40:05.108Z
+date: 2025-08-04T18:23:10.871Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T23:46:18.585Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # ECRIT Wiki
 ## PSAP Callback
 
