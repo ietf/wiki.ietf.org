@@ -2,12 +2,14 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2025-07-13T12:48:37.656Z
+date: 2025-08-04T18:23:51.332Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 ## Implementation Requirement
 
 IDR generally requires at least two interoperable implementations of a draft before it is advanced to RFC. Our goals in doing this include gaining some level of document quality assurance (can an implementor, working from the spec, implement it interoperably?) but also gaining some level of protocol quality assurance, some assurance that the proposal is implementable in practice (most BGP implementations are large and have many moving parts that new proposals must integrate with). If, as a side-effect, fewer IDR RFCs go unimplimented, that's a benefit too. Of course, perfection is impossible and even with this requirement, mistakes will creep in. Exception cases may exist where the implementation requirement wouldn't advance these goals.
