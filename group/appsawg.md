@@ -2,12 +2,14 @@
 title: APPSAWG WG (Concluded) - ART Area General Applications Working Group
 description: This is used for recording things related to the Applications Area Working Group (appsawg) specifically, and the Applications Area in general.
 published: true
-date: 2023-01-13T00:55:35.651Z
+date: 2025-08-04T18:54:21.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T14:29:53.448Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Applications Area Working Group Wiki
 This is used for recording things related to the Applications Area Working Group (appsawg) specifically, and the Applications Area in general.
 
