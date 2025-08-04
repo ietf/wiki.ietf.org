@@ -2,11 +2,14 @@
 title: Enterprise
 description: Wiki page for the enterprise@ietf.org non-wg mailing list
 published: true
-date: 2024-05-14T18:41:34.661Z
+date: 2025-08-04T19:41:05.245Z
 tags: other enterprise non-wg
 editor: markdown
 dateCreated: 2024-05-14T18:36:48.449Z
 ---
+
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 
 This wiki page is designated to collect information relevant to the non-wg mailing list [enterprise@ietf.org](https://mailman3.ietf.org/mailman3/lists/enterprise@ietf.org/): Discussions about enterprise networking specific scenarios and deployment problems.
 
