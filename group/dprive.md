@@ -2,11 +2,14 @@
 title: DPRIVE WG - DNS PRIVate Exchange
 description: Wiki for dprive wg
 published: true
-date: 2023-01-24T21:07:45.031Z
+date: 2025-08-04T18:52:30.693Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T22:44:32.823Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # DPRIVE'd WIKI
 
