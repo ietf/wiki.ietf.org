@@ -2,12 +2,14 @@
 title: TSV - Transport Area
 description: 
 published: true
-date: 2025-06-19T17:19:55.498Z
+date: 2025-08-04T18:34:10.315Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T22:58:44.553Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Transport Area WG (TSVWG)
 
 The Transport and Services WG works on mechanisms related to end-to-end data transport to support Internet applications and services that exchange potentially large volumes of traffic at potentially high bandwidths. The scope includes protcol mechanisms for Internet transport control protocols such as TCP, QUIC, SCTP, MPTCP, and DCCP. The group maintains the SCTP, and DCCP protocols. This develops specifications for endpoint to network control mechanisms, Diffserv, QoS and reservation signaling, extensions to existing transport protocols (when not protocol-specific), and extensions to the IETF protocols to support transport protocols (e.g., ECN).
