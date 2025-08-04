@@ -2,12 +2,14 @@
 title: MULTIMOB WG (Concluded) - Multicast Mobility Wiki
 description: 
 published: true
-date: 2023-02-27T07:38:47.533Z
+date: 2025-08-04T19:28:24.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T22:58:03.496Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # Multimob - Multicast Mobility 
 The IETF Multimob Working Group aims to provide guidance for supporting multicast in a mobile environment. The current scope is limited to Proxy Mobile IPv6, IGMPv3/MLDv2 protocols and listener mobility. The WG was formed on September 9, 2009. The work on Multimob started in March 2007 in IETF 68 in Prague, Czech Republic.
 
