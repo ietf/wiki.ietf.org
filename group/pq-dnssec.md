@@ -2,11 +2,14 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-07-24T15:33:08.955Z
+date: 2025-08-04T19:41:24.641Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
 ---
+
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 
 This wiki page is designated to collecting information relevant to the non-wg mailing list pq-dnssec@ietf.org ([mailman](https://mailman3.ietf.org/mailman3/lists/pq-dnssec.ietf.org/)) on post-quantum DNSSEC research.
 
