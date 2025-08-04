@@ -2,11 +2,14 @@
 title: SIPCLF WG (Concluded) - SIP Common Log Format
 description: 
 published: true
-date: 2023-02-27T18:50:18.023Z
+date: 2025-08-04T19:32:39.786Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T22:34:31.513Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 **January 2011 Interim**
 Files have been attached to the Wiki page. See the attached files section below.
