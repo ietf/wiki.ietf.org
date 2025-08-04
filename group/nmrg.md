@@ -2,12 +2,14 @@
 title: NMRG RG - Network Management Research Group
 description: 
 published: true
-date: 2024-07-25T00:44:11.924Z
+date: 2025-08-04T17:57:18.249Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T19:40:03.663Z
 ---
 
+> This page is related to an active IRTF Research Group.
+{.is-success}
 # Network Management Research Group (NMRG)
 
 
