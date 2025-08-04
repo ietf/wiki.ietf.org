@@ -2,12 +2,15 @@
 title: Application Area Wiki
 description: 
 published: true
-date: 2023-01-25T04:07:53.777Z
+date: 2025-08-04T18:53:52.488Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T03:55:31.749Z
 ---
 
+
+> This page is related to a concluded IETF Area.
+{.is-danger}
 
 # IETF Applications Area 
 The IETF Applications Area has merged with the RAI Area. The combined Area is Applications and Real Time (ART). These pages provide information about application protocols such as email and the web. For general discussion of ART related topics, join the [art](https://www.ietf.org/mailman/listinfo/art) mailing list.
