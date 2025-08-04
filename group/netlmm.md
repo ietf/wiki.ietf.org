@@ -2,12 +2,14 @@
 title: NETLMM WG (Concluded) - Network-based Localized Mobility Management Wiki
 description: 
 published: true
-date: 2023-02-17T19:15:56.798Z
+date: 2025-08-04T19:29:20.325Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-10T23:09:05.501Z
 ---
 
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 # The NetLMM Wiki
 This wiki is for the NetLMM WG.
 
