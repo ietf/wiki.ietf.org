@@ -2,11 +2,14 @@
 title: IETF/IEEE Coordination 
 description: 
 published: true
-date: 2025-02-19T14:09:54.395Z
+date: 2025-08-04T19:38:14.841Z
 tags: iab, ietf, ieee
 editor: markdown
 dateCreated: 2023-01-18T19:31:39.159Z
 ---
+
+> This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
+{.is-warning}
 
 # IETF / IEEE 802 coordination chairs’ guide
 
