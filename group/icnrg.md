@@ -2,12 +2,14 @@
 title: ICNRG Wiki
 description: 
 published: true
-date: 2024-07-25T00:40:19.475Z
+date: 2025-08-04T17:56:50.065Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:00:02.553Z
 ---
 
+> This page is related to an active IRTF Research Group.
+{.is-success}
 # Information-Centric Networking Research Group (ICNRG) 
 This is the Wiki for the IRTF ICN Research Group (ICNRG).
 
