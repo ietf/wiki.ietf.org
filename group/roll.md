@@ -2,12 +2,14 @@
 title: ROLL WG - Routing Over Low power and Lossy networks
 description: 
 published: true
-date: 2023-01-04T22:39:27.470Z
+date: 2025-08-04T18:31:28.521Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T04:39:26.706Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the ROLL Working Group Wiki
 ## This is the list of RFC
 
