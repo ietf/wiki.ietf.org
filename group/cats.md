@@ -2,12 +2,14 @@
 title: CATS: Computing-Aware Traffic Steering
 description: Wiki Page of CATS WG
 published: true
-date: 2023-05-24T06:51:11.519Z
+date: 2025-08-04T18:18:33.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-24T06:51:07.631Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # CATS
 
 # Welcome to the CATS WG Wiki
