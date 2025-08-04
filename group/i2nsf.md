@@ -2,11 +2,14 @@
 title: I2NSF WG - Interface to Network Security Functions
 description: Wiki for I2NSF WG
 published: true
-date: 2023-02-14T22:51:35.638Z
+date: 2025-08-04T18:52:44.127Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:19:32.287Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Interface to Network Security Functions (I2NSF) Working Group Overview
 
