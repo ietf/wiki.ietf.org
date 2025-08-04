@@ -2,12 +2,14 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2023-04-11T17:50:12.499Z
+date: 2025-08-04T18:21:53.189Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
 ---
 
+> This page is related to an active IETF Working Group.
+{.is-success}
 # Welcome to the IETF DISPATCH Working Group Wiki
 
 The DISPATCH WG is chartered to bring on new work in the ART area and provide a conduit for new drafts, ideas and potential WGs. We're like a matchmaker between keen engineers and IETF processes/groups/procedures. DISPATCH is a catalyst to make recommendations to ADs or Chairs, based on the wisdom of the group – we don't make the decisions ourselves.
