@@ -2,11 +2,14 @@
 title: DIME WG - Diameter Maintenance and Extensions
 description: Wiki for DIME WG
 published: true
-date: 2023-01-13T20:52:14.564Z
+date: 2025-08-04T18:52:03.978Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T18:17:19.193Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 # Dime Wiki
 This page contains the Wiki's maintained by the IETF DIME working group. Here we try to keep track of document status regarding WG Last Calls, comments and alike.
