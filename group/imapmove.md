@@ -2,11 +2,14 @@
 title: IMAPMOVE WG (Concluded) - IMAP MOVE extension
 description: Implementation experience for IMAP MOVE and UID MOVE commands
 published: true
-date: 2023-02-27T00:37:59.375Z
+date: 2025-08-04T19:07:49.486Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-01T16:16:55.382Z
 ---
+
+> This page is related to a concluded IETF Working Group.
+{.is-danger}
 
 At least the following servers implemented the MOVE extension (draft-ietf-imapmove-command-05):
 
