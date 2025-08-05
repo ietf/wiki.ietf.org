@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-08-05T20:33:28.136Z
+date: 2025-08-05T20:33:47.303Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -48,7 +48,7 @@ The Routing Area is responsible for facilitating the operation of the Internet r
 ## [Security Area](https://datatracker.ietf.org/wg/#SEC) (SEC)
 The Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital. The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
 
-## Web and Internet Transport(https://datatracker.ietf.org/wg/#WIT) (WIT)
+## [Web and Internet Transport](https://datatracker.ietf.org/wg/#WIT) (WIT)
 The Web and Internet Transport (WIT) area covers protocols that provide the functions of the Transport Layer of the Internet, such as QUIC, TCP, UDP, SCTP, and DCCP, including congestion control and queue management. It also has responsibility for protocols that implement the World Wide Web (like HTTP) and adjacent technologies.
 
 {.links-list}
