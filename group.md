@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-07-20T13:00:40.090Z
+date: 2025-08-05T20:33:28.136Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -10,6 +10,14 @@ dateCreated: 2021-06-16T01:22:07.753Z
 
 > Please contact support@ietf.org if you would like to create a page for your Working Group or Research Group
 {.is-warning}
+
+**NOTE: Not all groups maintain pages on wiki.ietf.org** 
+The URLs for wiki pages of specific groups, if they exist, generally follow the pattern of https://wiki.ietf.org/group/FOO where FOO is the abbreviation for that group. E.g. the Wiki page for the Internet Engineering Steering Group (IESG) is: https://wiki.ietf.org/group/iesg/
+
+Wiki pages for any particular group are linked from the "About" tab on their IETF Datatracker page. For example the IESG wiki page is linked from: https://datatracker.ietf.org/group/iesg/about/
+
+The links below are provided as assistance to find wiki pages for particular groups but is not intended to be comprehensive.
+
 # Leadership groups
 - [iesg *Internet Engineering Steering Group*](/group/iesg)
 - [irtf *Internet Research Task Force*](/group/irtf)
@@ -17,306 +25,44 @@ dateCreated: 2021-06-16T01:22:07.753Z
 {.links-list}
 
 # Working Groups
-# {.tabset}
-## Alphabetical
-- [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
-- [6man *IPv6 Maintenance*](/group/6man)
-- [6tisch *IPv6 over the TSCH mode of IEEE 802.15.4e*](/group/6tisch)
-- [ace *Authentication and Authorization for Constrained Environments*](/group/ace)
-- [alldispatch *Cross-area Dispatch working group (experimental)*](/group/alldispatch)
-- [alto *Application-Layer Traffic Optimization*](/group/ALTO)
-- [anima *Autonomic Networking Integrated Model and Approach*](/group/anima)
-- [bfd *Bidirectional Forwarding Detection*](/group/bfd)
-- [bess *BGP Enabled ServiceS*](/group/bess)
-- [bier *Bit Indexed Explicit Replication*](/group/bier)
-- [cats *Computing-Aware Traffic Steering*](/group/cats)
-- [ccamp *Common Control and Measurement Plane*](/group/ccamp)
-- [cfrg *Crypto Forum*](/group/cfrg)
-- [coinrg *Computing in the Network*](/group/coinrg)
-- [core *Constrained RESTful Environments*](/group/core)
-- [detnet *Deterministic Networks*](/group/detnet)
-- [dhc *Dynamic Host Configuration*](/group/dhc)
-- [dime *Diameter Maintenance and Extensions*](/group/dime)
-- [dinrg *Decentralized Internet Infrastructure*](/group/dinrg)
-- [dispatch *DISPATCH*](/group/dispatch)
-- [dmarc *Domain-based Message Authentication, Reporting & Conformance*](/group/dmarc)
-- [dnsop *Domain Name System Operations*](/group/dnsop)
-- [dnssd *Extensions for Scalable DNS Service Discovery*](/group/dnssd)
-- [dots *DDoS Open Threat Signaling*](/group/dots)
-- [dprive *DNS PRIVate Exchange*](/group/dprive)
-- [dtn *Delay/Disruption Tolerant Networking*](/group/dtn)
-- [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
-- [gaia *Global Access to the Internet for All RG*](/group/gaia)
-- [httpbis *HTTP*](/group/httpbis)
-- [i2nsf *Interface to Network Security Functions*](/group/i2nsf)
-- [iccrg *Internet Congestion Control RG*](/group/iccrg)
-- [icnrg *Information-Centric Networking RG*](/group/icnrg)
-- [idr *Inter-Domain Routing*](/group/idr)
-- [ippm *IP Performance Measurement*](/group/ippm)
-- [ipsecme *IP Security Maintenance and Extensions*](/group/ipsecme)
-- [jose *Javascript Object Signing and Encryption*](/group/jose)
-- [lisp *Locator/ID Separation Protocol*](/group/lisp)
-- [lpwan *IPv6 over Low Power Wide-Area Networks*](/group/lpwan)
-- [lwig *Light-Weight Implementation Guidance*](/group/lwig)
-- [maprg *Measurement and Analysis for Protocols*](/group/maprg)
-- [mpls *Multiprotocol Label Switching*](/group/mpls)
-- [netconf *Network Configuration*](/group/netconf)
-- [netmod *Network Modeling*](/group/netmod)
-- [nmrg *Network Management*](/group/nmrg)
-- [ntp *Network Time Protocols*](/group/ntp)
-- [nvo3 *Network Visualization Overlays*](/group/nvo3)
-- [nwcrg *Network Coding RG*](/group/nwcrg)
-- [oauth *Web Authorization Protocol*](/group/oauth)
-- [pce *Path Computation Element*](/group/pce)
-- [pearg *Privacy Enhancements and Assessments Research Group*](/group/pearg)
-- [pim *Protocols for IP Multicast*](/group/pim)
-- [qirg *Quantum Internet Research Group*](/group/qirg)
-- [quic *QUIC*](/group/quic)
-- [regext *Registration Protocols Extensions*](/group/regext)
-- [rift *Routing In Fat Trees*](/group/rift)
-- [rats *Remote ATtestation proceedureS*](/group/rats)
-- [roll *Routing Over Low power and Lossy networks*](/group/roll)
-- [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
-- [rpp *RESTful Provisioning Protocol*](/group/rpp)
-- [rtgwg *Routing Area Working Group*](/group/rtgwg)
-- [secdispatch *Security Dispatch*](/group/secdispatch)
-- [sidrops *SIDR Operations*](/group/sidrops)
-- [sipcore *Session Initiation Protocol Core*](/group/sipcore)
-- [spring *Source Packet Routing in Networking*](/group/spring)
-- [srv6ops *SRv6 Operations*](/group/srv6ops)
-- [stir *Secure Telephone Identity Revisited*](/group/stir)
-- [suit *Software Updates for Internet of Things*](/group/suit)
-- [sustain *Sustainability and the Internet*](/group/sustain)
-- [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
-- [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
-- [tsvwg *Transport and Services*](/group/tsvwg)
-- [tls *Transport Layer Security*](/group/tls)
-- [uta *Using TLS in Applications*](/group/uta)
-- [v6ops *IPv6 Operations*](/group/v6ops)
-{.links-list}
+The IETF divides its work into a number of Areas, each comprised of Working Groups (WGs) that relate to that Area's focus. A list of all active working groups can be found on the IETF Datatracker. 
 
-## By Area
-### ART
-- [dispatch *DISPATCH*](/group/dispatch)
-- [dmarc *Domain-based Message Authentication, Reporting & Conformance*](/group/dmarc)
-- [ecrit *Emergency Context Resolution with Internet Technologies*](/group/ecrit)
-- [httpbis *HTTP*](/group/httpbis)
-- [regext *Registration Protocols Extensions*](/group/regext)
-- [rpp *RESTful Provisioning Protocol*](/group/rpp)
-- [rtcweb *Real-Time Communication in WEB-browsers*](/group/rtcweb)
-- [sipcore *Session Initiation Protocol Core*](/group/sipcore)
-- [stir *Secure Telephone Identity Revisited*](/group/stir)
-- [uta *Using TLS in Applications*](/group/uta)
-{.links-list}
-### GEN
-- [alldispatch *Cross-area Dispatch working group (experimental)*](/group/alldispatch)
-{.links-list}
-### INT
-- [6lo *Issues in IPv6 over constrained node networks*](/group/6lo)
-- [6man *IPv6 Maintenance*](/group/6man)
-- [6tisch *IPv6 over the TSCH mode of IEEE 802.15.4e*](/group/6tisch)
-- [dhc *Dynamic Host Configuration*](/group/dhc)
-- [dnssd *Extensions for Scalable DNS Service Discovery*](/group/dnssd)
-- [dprive *DNS PRIVate Exchange*](/group/dprive)
-- [lpwan *IPv6 over Low Power Wide-Area Networks*](/group/lpwan)
-- [lwig *Light-Weight Implementation Guidance*](/group/lwig)
-- [ntp *Network Time Protocols*](/group/ntp)
-- [tictoc *Timing over IP Connection and Transfer of Clock*](/group/tictoc)
-{.links-list}
+## [Applications and Real Time](https://datatracker.ietf.org/wg/#ART)  (ART)
+The ART Area works on the application layer and related protocols:
++ Real-time applications: These are protocols that enable interactive human-to-human communication (see RFC 3550). Groups in this category are working on things such as real-time web communications, teleconferencing, emergency services communication, internet telephony, and instant messaging.
++ Traditional applications. - These are the protocols we've generally thought of in relation to the application layer. They include such things as email, calendaring, directory services, provisioning and access protocols related to DNS and IP and support for constrained environments. 
++ Application building blocks. These are designed to be used with a variety of more specific applications. They include compression, codecs, internationalization; JSON, XML, and CBOR; media types; URNs; and URI schemes.
 
-### IRTF
-- [cfrg *Crypto Forum*](/group/cfrg)
-- [coinrg *Computing in the Network*](/group/coinrg)
-- [dinrg *Decentralized Internet Infrastructure*](/group/dinrg)
-- [gaia *Global Access to the Internet for All*](/group/gaia)
-- [iccrg *Internet Congestion Control RG*](/group/iccrg)
-- [icnrg *Information-Centric Networking*](/group/icnrg)
-- [maprg *Measurement and Analysis for Protocols*](/group/maprg)
-- [nmrg *Network Management*](/group/nmrg)
-- [nwcrg *Network Coding*](/group/nwcrg)
-- [pearg *Privacy Enhancements and Assessments Research Group*](/group/pearg)
-- [qirg *Quantum Internet Research Group*](/group/qirg)
-- [sustain *Sustainability and the Internet*](/group/sustain)
-{.links-list}
+## [General Area](https://datatracker.ietf.org/wg/#GEN) (GEN)
+The General Area consists of a few IETF WGs and other activities focused on supporting, updating and maintaining the IETF standards development process. As General AD, the IETF Chair manages the General Area Review Team (Gen-ART) and other IETF-wide directorates.
 
-### OPS
-- [anima *Autonomic Networking Integrated Model and Approach*](/group/anima)
-- [dime *Diameter Maintenance and Extensions*](/group/dime)
-- [dnsop *Domain Name System Operations*](/group/dnsop)
-- [netconf *Network Configuration*](/group/netconf)
-- [netmod *Network Modeling*](/group/netmod)
-- [sidrops *SIDR Operations*](/group/sidrops)
-- [srv6ops *SRv6 Operations*](/group/srv6ops)
-- [v6ops *IPv6 Operations*](/group/v6ops)
-{.links-list}
+## [Internet Area](https://datatracker.ietf.org/wg/#INT) (INT)
+The primary technical topics covered by the Internet Area include IP layer (both IPv4 and IPv6), implications of IPv4 address depletion, co-existence between the IP versions, DNS, DHCP, host and router configuration, mobility, multihoming, identifier-locator separation, VPNs and pseudowires along with related MPLS issues, and various link layer technologies. The Internet Area is also responsible for specifying how IP will run over new link layer protocols.
 
-### RTG
-- [bfd *Bidirectional Forwarding Detection*](/group/bfd)
-- [bess *BGP Enabled ServiceS*](/group/bess)
-- [bier *Bit Indexed Explicit Replication*](/group/bier)
-- [ccamp *Common Control and Measurement Plane*](/group/ccamp)
-- [detnet *Deterministic Networks*](/group/detnet)
-- [idr *Inter-Domain Routing*](/group/idr)
-- [lisp *Locator/ID Separation Protocol*](/group/lisp)
-- [mpls *Multiprotol Label Switching*](/group/mpls)
-- [nvo3 *Network Visualization Overlays*](/group/nvo3)
-- [pce *Path Computation Element*](/group/pce)
-- [pim *Protocols for IP Multicast*](/group/pim)
-- [rift *Routing In Fat Trees*](/group/rift)
-- [roll *Routing Over Low power and Lossy networks*](/group/roll)
-- [rtgwg *Routing Area Working Group*](/group/rtgwg)
-- [spring *Source Packet Routing in Networking*](/group/spring)
-- [teas *Traffic Engineering Architecture and Signaling*](/group/teas)
-{.links-list}
+## [Operations and Management Area](https://datatracker.ietf.org/wg/#OPS) (OPS)
+The primary technical areas covered by the Operations & Management (OPS) Area include: Network Management, AAA, and various operational issues facing the Internet such as DNS operations, IPv6 operations, operational security and Routing operations. Unlike most IETF areas, the Operations & Management area is logically divided into two separate functions: Network Management and Operations. The Network Management function covers Internet management and AAA, and the related protocols, including but not limited to NETCONF, SNMP, RADIUS, Diameter, and CAPWAP, and of data modeling and data modeling languages used in management such as SMI and YANG. Another important role of the Management function is to identify potential or actual management issues regarding IETF protocols and documents in all areas, and to work with the other areas to resolve those issues. The Operations function is largely responsible for soliciting operator feedback and input regarding IETF work. Another important role of the Operations function is to identify potential or actual operational issues regarding IETF protocols and documents in all areas, and to work with the other areas to resolve those issues. The OPS area intersects most often with the Routing, Internet and Security areas.
 
-### SEC
-- [ace *Authentication and Authorization for Constrained Environments*](/group/ace)
-- [dots *DDoS Open Threat Signaling*](/group/dots)
-- [i2nsf *Interface to Network Security Functions*](/group/i2nsf)
-- [ipsecme *IP Security Maintenance and Extensions*](/group/ipsecme)
-- [jose *Javascript Object Signing and Encryption*](/group/jose)
-- [oauth *Web Authorization Protocol*](/group/oauth)
-- [rats *Remote ATtestation proceedureS*](/group/rats)
-- [secdispatch *Security Dispatch*](/group/secdispatch)
-- [suit *Software Updates for Internet of Things*](/group/suit)
-- [tls *Transport Layer Security*](/group/tls)
-{.links-list}
+## [Routing Area](https://datatracker.ietf.org/wg/#RTG) (RTG)
+The Routing Area is responsible for facilitating the operation of the Internet routing system by maintaining and improving the scalability and stability characteristics of the existing routing protocols and developing new protocols, extensions, and bug fixes. Forwarding methods (such as destination-based unicast and multicast forwarding, MPLS, and pseudowire) as well as associated routing and signaling protocols (such as OSPF, IS-IS, BGP, RSVP-TE, LDP, PIM, RPL, and VPNs at Layer 2 and Layer 3), and both centralized and distributed routing architectures (to address, for example, virtualization, service chaining, traffic engineering, and data center routing) are within the scope of the Routing Area. The interactions of routing systems with configuration and orchestration platforms (for example, routing-related YANG models and path computation engines) are handled in the Routing Area as well. The Routing Area also works on Generalized MPLS used in the control plane of optical networks, and the security and manageability aspects of the routing system. The Routing Area Working Groups cover a wide range of data plane technologies (Layer 1, Layer 2, Layer 3) and control protocols. The Routing Area intersects most frequently with the Internet Area, the Operations and Management Area, and the Security Area. Interaction with the Internet Area concentrates mainly on IP forwarding and encapsulation. Ongoing work with the Operations and Management Area is on developing YANG models and considering the management and operation of the routing infrastructure. With the Security Area, the ongoing focus is on routing protocol security and its impact on the Internet's infrastructure security. Work in the Routing Area often overlaps with work in other standards development organizations (SDOs). In particular, there have been interactions with Broadband Forum, IEEE, and ITU-T.
 
-### WIT Area
-- [ccwg *Congestion Control*]
-- [core *Constrained RESTful Environments*](/group/core)
-- [httpbis *HTTP*](/group/httpbis)
-- [quic *QUIC*](/group/quic)
-- [tcpm *TCP maintainance and Minor extensions*]
-- [tsvart *Transport and Services Area Review Team*](/group/tsvwg) 
-- [tsvwg *Transport and Services Working Group*](/group/tsvwg)
+## [Security Area](https://datatracker.ietf.org/wg/#SEC) (SEC)
+The Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital. The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
+
+## Web and Internet Transport(https://datatracker.ietf.org/wg/#WIT) (WIT)
+The Web and Internet Transport (WIT) area covers protocols that provide the functions of the Transport Layer of the Internet, such as QUIC, TCP, UDP, SCTP, and DCCP, including congestion control and queue management. It also has responsibility for protocols that implement the World Wide Web (like HTTP) and adjacent technologies.
 
 {.links-list}
 
-# Concluded Working Groups
-- [app *Applications Area*](/group/app)
-- [appsawg *ART Area General Applications Working Group*](/group/appsawg)
-- [behave *Behavior Engineering for Hindrance Avoidance*](/group/behave)
-- [calsify *Calendaring and Scheduling Standards Simplification*](/group/calsify)
-- [clue *ControLling mUltiple streams for tElepresence*](/group/clue)
-- [codec *Internet Wideband Audio Codec*](/group/codec)
-- [dbound *Domain Boundaries*](/group/dbound)
-- [dnsext *DNS Extensions*](/group/dnsext)
-- [e2md *E. 164 to Metadata*](/group/e2md)
-- [eai *Email Address Internationalization*](/group/eai)
-- [eman *Energy Management*](/group/eman)
-- [geopriv *Geographic Location/Privacy*](/group/geopriv)
-- [homenet *Home Networking*](/group/homenet)
-- [httpauth *Hypertext Transfer Protocol Authentication*](/group/httpauth)
-- [hybi *BiDirectional or Server-Initiated HTTP*](/group/hybi)
-- [i2rs *Interface to the Routing System*](/group/i2rs)
-- [idnabis *Internationalized Domain Names in Applications, Revised*](/group/idnabis)
-- [imapmove *IMAP MOVE extension*](/group/imapmove)
-- [iri *Internationalized Resource Identifiers*](/group/iri)
-- [its *Intelligent Transportation Systems*](/group/its)
-- [json *JavaScript Object Notation*](/group/json)
-- [l3sm *L3VPN Service Model*](/group/l3sm)
-- [lime *Layer Independent OAM Management in the Multi-Layer Environment*](/group/lime)
-- [mext *Mobility EXTensions for IPv6*](/group/mext)
-- [mif *Multiple Interfaces*](/group/mif)
-- [mile *Managed Incident Lightweight Exchange*](/group/mile)
-- [mptcp *Multipath TCP*](/group/mptcp)
-- [multimob *Multicast Mobility*](/group/multimob)
-- [nea *Network Endpoint Assessment*](/group/nea)
-- [netlmm *Network-based Localized Mobility Management*](/group/netlmm)
-- [ospf *Open Shortest Path First*](/group/ospf)
-- [pcp *Port Control Protocol*](/group/pcp)
-- [pmol *Performance Metrics for Other Layers*](/group/pmol)
-- [precis *Preparation and Comparison of Internationalized Strings*](/group/precis)
-- [rai *Real-time Applications and Infrastructure Area*](/group/rai)
-- [repute *Reputation Services*](/group/repute)
-- [rmcat *RTP Media Congestion Avoidance Techniques*](/group/rmcat)
-- [sacm *Security Automation and Continuous Monitoring*](/group/sacm)
-- [sidr *Secure Inter-Domain Routing*](/group/sidr)
-- [sieve *Sieve Mail Filtering Language*](/group/sieve)
-- [sipclf *SIP Common Log Format*](/group/sipclf)
-- [siprec *SIP Recording*](/group/siprec)
-- [slim *Selection of Language for Internet Media*](/group/slim)
-- [soc *SIP Overload Control*](/group/soc)
-- [stox *SIP-TO-XMPP*](/group/stox)
-- [sunset4 *Sunsetting IPv4*](/group/sunset4)
-- [trans *Public Notary Transparency*](/group/trans)
-- [tzdist *Time Zone Data Distribution Service*](/group/tzdist)
-- [urnbis *Uniform Resource Names, Revised*](/group/urnbis)
-- [vwrap *Virtual World Region Agent Protocol*](/group/vwrap)
-- [wpkops *Web PKI OPS*](/group/wpkops)
-- [yam *Yet Another Mail*](/group/yam)
-{.links-list}
+# Other groups
 
-# IAB Groups
+## Internet Research Task Force (IRTF) [Research Groups](https://datatracker.ietf.org/rg/)
+The IRTF is comprised of a number of focused and long-term Research Groups. These groups work on topics related to Internet protocols, applications, architecture and technology. Research Groups have the stable long-term membership needed to promote the development of research collaboration and teamwork in exploring research issues. Participation is by individual contributors, rather than by representatives of organizations.
 
-- [ietfieee *IETF/IEEE Coordination*](/group/ietfieee)
-{.links-list}
+# [IAB Groups](https://datatracker.ietf.org/program/)
+AB Technical Programs & Administrative Support Groups are structured approaches managed & maintained by the IAB in order to support the IAB in more effectively executing its chartered responsibilities & its architectural oversight role (see RFC2850 §2.1)
 
-# Directorates
+# [Directorates](https://datatracker.ietf.org/dir/)
+IETF Directorates, comprised of experienced IETF participants, often serve as advisory groups for IETF work.
 
-
-# {.tabset}
-## Alphabetical
-- [dnsdir *DNS Directorate*](/group/dnsdir)
-- [eodir *Education and Outreach*](/group/eodir)
-- [intdir *Internet Area Directorate*](/group/intdir)
-- [iotdir *Internet of Things*](/group/iotdir)
-- [secdir *Security Directorate*](/group/secdir)
-{.links-list}
-
-## By Area
-### ART
-
-### GEN
-- [eodir *Education and Outreach*](/group/eodir)
-{.links-list}
-
-### INT
-- [dnsdir *DNS Directorate*](/group/dnsdir)
-- [intdir *Internet Area Directorate*](/group/intdir)
-- [iotdir *Internet of Things*](/group/iotdir)
-{.links-list}
-
-### OPS
-- [dnsdir *DNS Directorate*](/group/dnsdir)
-- [yang-doctors *YANG Doctors*](/group/yang-doctors)
-{.links-list}
-
-### RTG
-
-### SEC
-
-### WIT
-
-{.links-list}
-
-# Area Specific
-- [art *Applications and Real-Time Area*](/group/art)
-- [gen *General Area*](/group/gen)
-- [int *Internet Area Wiki*](/group/iesg/int)
-- [ops *Operations Area Wiki*](/group/iesg/ops)
-- [rtg *Routing Area*](/group/rtg)
-- [sec *Security Area Wiki*](/group/secdir)
-- [wit *Web and Internet Transport Area*](/group/witarea)
-{.links-list}
-
-# Teams
-- [ccg *Community Coordination Group*](/group/ccg)
-- [hackathon *Hackathon Team*](/group/hackathon)
-- [tools-arch *Tools Architecture and Strategy Team*](/group/tools-arch)
-- [tools *Tools Team*](/group/tools)
-- [ycsupport *YangCatalog Support Team*](/group/ycsupport)
-{.links-list}
-
-# Administration
-- [llc *IETF Adminstration LLC*](/group/llc/)
-{.links-list}
-
-# Other
-- [e-impact *Environmental impacts of the Internet*](/group/e-impact)
-{.links-list}
-- [enterprise *Enterprise scenario and deployment discussions*](/group/enterprise)
-{.links-list}
-- [pq-dnssec *PQ DNSSEC Research*](/group/pq-dnssec)
-{.links-list}
+# [IETF Administration LLC](/group/llc/)
+This contains information about projects undertaken by the IETF Administration LLC.
