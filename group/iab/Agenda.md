@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-02T00:19:42.538Z
+date: 2025-08-05T17:35:00.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -35,8 +35,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
--- 2025-07-19 - 2025-07-25: IETF 123 Madrid --
-
 - 2025-08-27: IAB Business Meeting (Reserved)
 		- Talk with ISE (Eliot Lear)
 - 2025-09-24: IAB Business Meeting
@@ -63,8 +61,6 @@ See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
 
 ## Planned IRTF RG Reviews 
-
-* IETF 123: ICNRG
 
 ## Past Teleconferences 
 
