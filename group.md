@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-08-05T20:33:47.303Z
+date: 2025-08-05T20:34:47.621Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -51,18 +51,16 @@ The Security Area is the home for working groups focused on security protocols. 
 ## [Web and Internet Transport](https://datatracker.ietf.org/wg/#WIT) (WIT)
 The Web and Internet Transport (WIT) area covers protocols that provide the functions of the Transport Layer of the Internet, such as QUIC, TCP, UDP, SCTP, and DCCP, including congestion control and queue management. It also has responsibility for protocols that implement the World Wide Web (like HTTP) and adjacent technologies.
 
-{.links-list}
-
 # Other groups
 
 ## Internet Research Task Force (IRTF) [Research Groups](https://datatracker.ietf.org/rg/)
 The IRTF is comprised of a number of focused and long-term Research Groups. These groups work on topics related to Internet protocols, applications, architecture and technology. Research Groups have the stable long-term membership needed to promote the development of research collaboration and teamwork in exploring research issues. Participation is by individual contributors, rather than by representatives of organizations.
 
-# [IAB Groups](https://datatracker.ietf.org/program/)
+## [IAB Groups](https://datatracker.ietf.org/program/)
 AB Technical Programs & Administrative Support Groups are structured approaches managed & maintained by the IAB in order to support the IAB in more effectively executing its chartered responsibilities & its architectural oversight role (see RFC2850 §2.1)
 
-# [Directorates](https://datatracker.ietf.org/dir/)
+## [Directorates](https://datatracker.ietf.org/dir/)
 IETF Directorates, comprised of experienced IETF participants, often serve as advisory groups for IETF work.
 
-# [IETF Administration LLC](/group/llc/)
+## [IETF Administration LLC](/group/llc/)
 This contains information about projects undertaken by the IETF Administration LLC.
