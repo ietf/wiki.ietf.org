@@ -2,27 +2,33 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-05T17:35:00.263Z
+date: 2025-08-06T23:56:28.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-08-06, 21:00-22:00 UTC)
+# IAB Informal Meeting Agenda: 2025-08-13, 14:00-15:00 UTC)
 
-## There WILL be a meeting on 2025-08-06
+## There WILL NOT be a meeting on 2025-08-31
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8174aa46909b8b0ea4c30bb01270fd8b
+
+
 
 ## Agenda
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-> Informal meeting schedule and structure ([issue](https://github.com/intarchboard/responsibilities/issues/65))
-> Decision process discussion ([issue](https://github.com/intarchboard/responsibilities/issues/2#issuecomment-3146032969))
+> 1. Topic:
+>     Background and context:
+
+
+
+
 
 
 ## Topics for Future Informal Meetings
