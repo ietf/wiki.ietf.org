@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-04T14:10:40.405Z
+date: 2025-08-07T17:26:01.191Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -41,6 +41,10 @@ Note that this page is public.
 ### Administrivia
 * How do we add EODIR to the IETF Agenda for Plenary Meetings? (Cooley)
 	(Currently, the Friday morning EODIR meeting is in a side meeting room, but only advertised internally.  Here is the IETF 123 announcment:  https://mailarchive.ietf.org/arch/msg/eodir/QRYvrpVMg_f49-h5zCH404a46GA/)
+  
+* How to handle dispatch/secdispatch/witdispatch going forward.  Both dispatch and secdispatch have mailing lists already.  What about wit?  (Cooley)
+
+
 
 
 ### Document Discussions
