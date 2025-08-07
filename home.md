@@ -2,11 +2,15 @@
 title: Home
 description: 
 published: true
-date: 2024-06-20T20:05:25.261Z
+date: 2025-08-07T13:59:35.337Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
 ---
+
+> PLANNED OUTAGE at 1900UTC on 14 August 2025
+IETF wikis, IETF Datatracker, Mailarchives, and other services affected. [Read more](https://www.ietf.org/blog/it-infrastructure-outage-2024-08-14/)
+{.is-warning}
 
 # Welcome to the IETF Community Wiki
 
