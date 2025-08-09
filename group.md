@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-08-05T20:34:47.621Z
+date: 2025-08-09T07:14:50.294Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -11,8 +11,9 @@ dateCreated: 2021-06-16T01:22:07.753Z
 > Please contact support@ietf.org if you would like to create a page for your Working Group or Research Group
 {.is-warning}
 
-**NOTE: Not all groups maintain pages on wiki.ietf.org** 
-The URLs for wiki pages of specific groups, if they exist, generally follow the pattern of https://wiki.ietf.org/group/FOO where FOO is the abbreviation for that group. E.g. the Wiki page for the Internet Engineering Steering Group (IESG) is: https://wiki.ietf.org/group/iesg/
+**NOTE: Not all groups maintain pages on `wiki.ietf.org`** 
+
+The URLs for wiki pages of specific groups, if they exist, generally follow the pattern of `https://wiki.ietf.org/group/FOO` where `FOO` is the abbreviation for that group. E.g. the Wiki page for the Internet Engineering Steering Group (IESG) is: https://wiki.ietf.org/group/iesg/
 
 Wiki pages for any particular group are linked from the "About" tab on their IETF Datatracker page. For example the IESG wiki page is linked from: https://datatracker.ietf.org/group/iesg/about/
 
