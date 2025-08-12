@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-12T14:23:21.433Z
+date: 2025-08-12T17:48:20.271Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,6 +44,7 @@ Note that this page is public.
   
 * How to handle dispatch/secdispatch/witdispatch going forward.  Both dispatch and secdispatch have mailing lists already.  What about wit?  (Cooley)
 
+* [Non-WG List Audit](https://docs.google.com/spreadsheets/d/15qe1kRojQcL6uRE0rMv_f0NvbqeGKwkSccoInXR9CWs/edit?usp=sharing) (Cindy)
 
 
 
