@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-08-12T12:01:53.490Z
+date: 2025-08-12T15:12:42.868Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,7 +31,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-li-mpls-enhanced-vpn-vtn-id | 2025-08-05 |  Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | Tony |
+| draft-li-mpls-enhanced-vpn-vtn-id | 2025-08-12 | Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
 
