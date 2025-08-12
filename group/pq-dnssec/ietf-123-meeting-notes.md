@@ -2,7 +2,7 @@
 title: IETF 123 PQ DNSSEC Side Meeting notes
 description: 
 published: true
-date: 2025-07-24T15:31:24.355Z
+date: 2025-08-12T11:17:41.902Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-24T08:27:06.307Z
@@ -25,7 +25,7 @@ Presented by Elmer Lastdrager (SIDN Labs), [slides here](https://github.com/IQTF
 - next steps: investigate impact of TCP; add SQIsign; and MTL mode
 
 ## Impact of Merkle Tree Ladder (MTL) Mode Signatures on DNSSEC
-Work by Jannik Peters, presented by Willem Toorop (NLnet Labs), (slides to follow)
+Work by Jannik Peters, presented by Willem Toorop (NLnet Labs), [slides here](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF123/Peters_Impact_of_Merkle_Tree_Ladder_MTL_Mode_Signatures_on_DNSSEC.pdf)
 
 - What's the impact of using SLH-DSA-MTL in DNSSEC?
 - How does it affect sig/key size? How do size an sign/verify times compare?
