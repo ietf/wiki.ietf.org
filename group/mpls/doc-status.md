@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-07-20T08:15:17.170Z
+date: 2025-08-12T12:01:53.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,6 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 2025-05-14 | draft-li-mpls-enhanced-vpn-vtn-id | Dependent on draft-jags-mpls-ps-mna-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presentation planned at IETF-123 | Tony |
 
 ## Queued for WG Adoption Poll
 
@@ -32,6 +31,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| draft-li-mpls-enhanced-vpn-vtn-id | 2025-08-05 |  Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -66,6 +66,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
 |---|---|---|---|---|
+| 2025-08-26 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | 3rd WGLC | Yes | Tarek |
 
 ## Working Group Last Call Completed Pending Action
 
@@ -73,7 +74,6 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
-| 2025-01-07 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | WGLC failed. Revised. Pending update on final comments before 2nd WGLC | Tarek
 
 ## Post Working Group Last Call
 
