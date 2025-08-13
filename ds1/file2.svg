@@ -1,2 +1,1 @@
-<svg><a id="xss"><text y="20" x="20">XSS</text></a>
-</svg>
+<svg><a href="//google.com">link</a></svg>
