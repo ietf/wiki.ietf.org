@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-13T13:16:55.763Z
+date: 2025-08-13T13:17:03.356Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -41,7 +41,7 @@ Note that this page is public.
 ### Administrivia
 * How do we add EODIR to the IETF Agenda for Plenary Meetings? (Cooley)
 	(Currently, the Friday morning EODIR meeting is in a side meeting room, but only advertised internally.  Here is the IETF 123 announcment:  https://mailarchive.ietf.org/arch/msg/eodir/QRYvrpVMg_f49-h5zCH404a46GA/)
-  * (Roman) Additionals questions
+  * (Roman) Additionals questions/comments
      * Should ALL directorates be added to the main agenda?
      * Why are directorates currently scheduled like side meetings and can they be scheduled like the formal IETF activities they are?
      * Note: just because a meeting is in the "side meeting room", does not make that meeting a side meeting (e.g., the morning IESG meetings)
