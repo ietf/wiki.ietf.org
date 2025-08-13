@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-13T13:17:03.356Z
+date: 2025-08-13T13:22:00.686Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -52,7 +52,9 @@ Note that this page is public.
 
 * Reminder: [PLANNED DATATRACKER OUTAGE](https://www.ietf.org/blog/it-infrastructure-outage-2024-08-14/) at 1900UTC on 14 August 2025
 
-
+* Call for input on Datatracker state description.  Intent to ship by the end of August:
+  * (Revising the descriptive text for “WG States” of an I-D)[https://docs.google.com/document/d/1-GQtUKS3TpEBypowXtLJuCmfShDMzFfnxvipiC94bqI/edit?tab=t.0#heading=h.zbmjait3sru8]
+  * (Revising the descriptive text for “IESG States” of an I-D)[https://docs.google.com/document/d/1Nml_q2uxyYEHri6wQ-eQJgmuRoc4QEmBw0cIn3a0MTU/edit?]
 
 ### Document Discussions
 
