@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-08-13T17:38:12.689Z
+date: 2025-08-14T03:25:58.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -39,9 +39,12 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
-| 2025-08-13 | draft-li-mpls-enhanced-vpn-vtn-id | Publish as draft-ietf-mpls-mna-psd-nrp-selector | Tony | Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | 
 
 ## MPLS WG Documents
+
+| Date | Draft | Responsible Chair | Notes |
+| --- | --- | --- | --- |
+| 2025-08-13 | draft-ietf-mpls-mna-psd-nrp-selector | Tony | Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | 
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
 
