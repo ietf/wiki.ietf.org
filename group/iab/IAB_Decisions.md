@@ -10,7 +10,7 @@ dateCreated: 2023-12-05T19:59:02.303Z
 
 # IAB Decision taking
 
-IAB decision taking is documented in RFC 2850:
+The requirements for IAB decisions are documented in RFC 2850:
 
 > 3.5 Decision taking
 > 
@@ -21,6 +21,10 @@ IAB decision taking is documented in RFC 2850:
 > 
 >   The IAB may reach decisions by face to face meeting, teleconference,
 >   Internet communication, or any combination of the above.
+
+While all IAB decisions that meet these criteria are valid, in practice it is 
+useful to have guidelines to assure that decisions have adequate consideration 
+by all IAB members.
 
 Practically, in most day-to-day business, the chair will determine consensus
 based on the absence of dissenting positions being put forward in a reasonable
@@ -54,66 +58,106 @@ for the IAB chair to determine whether it will be held open or secret.
 ## Normal Process
 
 The IAB chair (or executive director on the instructions of the chair) will 
-typically follow the following process:
+typically follow this process to conduct a vote:
 
-- If the request for a vote comes from an external source (e.g., the NomCom
-  provides its IESG slate for confirmation), then, as soon as possible after
-  receiving the request, the IAB chair adds the vote topic to the agenda of the
-  next IAB teleconference. If the next meeting is less than 48 hours away, the
-  chair should instead add the topic to the following teleconference.
+1. Announce the topic or question on which to vote, along with the
+   schedule for the vote, to start a period of discussion and consideration
+   by the IAB.
 
-- The chair emails the list of voting members to announce the date of the
-  discussion, whether ballots are open or secret, and start an email discussion
-  thread on the topic.
-  
-- The agenda of that meeting will include the vote discussion, and needs to be
-  posted at least 48 hours in advance. If the discussion will happen in an
-  irregularly scheduled meeting (i.e. meetings other than the weekly IAB
-  meeting teleconference or meetings prescheduled during IETF week) then, the
-  new meeting needs to be announced at least a week in advance.
+2. Ensure that all IAB members have an opportunity to discuss the topic or
+   question in some meeting of the IAB.
 
-- Discussion and votes will continue on the voting members list, and during the
-  teleconference.
+3. Formally start the vote, following the discussion(s).
 
-- The vote will typically stay open until a vote has been recorded for every
-  single voting member, even after a majority has been reached. This ensures
-  every voice can be heard. Note that it is reasonable for any voting member to
-  request a few days to review available information before voting.
+4. Conclude the vote once votes from all IAB members have been collected,
+   or once 7 days have elapsed and there are sufficient votes received
+   to meet the requirements in RFC 2850.
 
-- If the vote has enough affirmative votes that it would pass if all remaining
-  votes were dissents, and at least 7 days have elapsed since the
-  teleconference, then the chair can decide to declare the vote closed and
-  successful. This avoids deadlock if a voting member is unable or unwilling to
-  vote.
+Detailed guidelines for each of these steps are provided below.
 
-- A vote can result as a consequence of a teleconference discussion (e.g., the
-  topic of an appointment was on the agenda of the teleconference without
-  explicitly mentioning a vote, but during the discussion there was consensus
-  to start a vote on the topic). In those cases, votes can be tallied in the
-  teleconference, and/or the email to announce the vote can be sent out without
-  requiring a second teleconference on this topic.
+### Announcing votes
 
-## Expedient Decisions
+Announcements of votes are sent over email, but can also be provided over
+other channels. These announcements will be sent by the IAB or the executive director.
 
-If a decision is needed within a short time frame, any IAB member (or the
-executive director) can call a vote without first placing the topic on an IAB
-meeting agenda. If all voting members reply and they have all voted
-affirmatively or recused themselves, then the decision is considered to have
-the full consensus of the IAB and does not need to follow the Normal Process
-described above. If any voting member votes against the decision, has not
-responded, or simply requests a discussion on the topic, then the topic is
-added to the agenda of an upcoming IAB meeting and the Normal or Alternative
-Process is followed as usual.
+Announcements should be as specific as possible about the question on which
+the vote will be taken, and background material should be provided or already be
+available to the IAB.
+
+Announcements can optionally indicate that ballots will be secret.
+
+Announcements should include the timeframe for the vote, including the
+opportunities for discussion (see below) and when the vote is expected to start.
+
+### Discussion prior to voting
+
+IAB members should have the opportunity to discuss topics before taking a vote.
+This discussion can occur in both asynchronous (email, messages) and synchronous
+(teleconferences, in-person meetings) forms.
+
+Once a vote is announced, the period for asynchronous discussion starts immediately.
+This discsssion generally takes place on a private email list amongst voting
+members.
+
+The discussion period also should include opportunities for each voting IAB member
+to have synchronous discussions with other voting members. Depending on the exact
+meeting schedule of the IAB, this requirement can be satisfied in different ways.
+For example, an in-person meeting at an IETF meeting or an IAB teleconference where
+all IAB members are expected to attend satisfies this requirement in a single
+discussion. Alternatively, this can be satisfied by having multiple discussions that
+occur at different times to accomodate IAB members in different timezones.
+Note that lack of attendence by IAB members due to vacations or choosing not to
+attend a meeting will not delay being able to hold the vote, as long as meeting
+opportunities were provided.
+
+Any meeting on which a vote is discussed needs to either be a regularly scheduled
+meeting, or be an extraordinary meeting scheduled at least a week in advance.
+
+Discussions in meetings need to follow a regular procedure for adding agenda items
+to the meeting. Voting discussions should be added to a meeting agenda at least
+48 hours prior to the meeting, or earlier depending on the current meeting practice
+of the IAB.
+
+### Conducting votes
+
+Once the discussion opportunities (described above) have been provided, a vote
+can formally start. This can occur during a teleconference or in-person meeting
+directly after discussion, but unless all IAB members are present, will always
+also be started virtually.
+
+Voting typically occurs on a private email list that includes all voting members,
+but may be conducted using other virtual tools.
+
+### Concluding votes
+
+A vote will typically stay open until a position has been recorded for every
+single voting member, even after a majority has been reached. This ensures
+every voice can be heard. Note that it is reasonable for any voting member to
+request a few days to further review available information before voting.
+
+A vote can conclude in either of the following conditions:
+
+- All voting members have submitted their votes
+- Seven days have elapsed since the vote was started, and the requirements
+  from RFC 2850 have been met (specifically, that seven full members concur
+  and there are no more than two dissents)
+
+If these conditions cannot be met within seven days, the IAB chair can
+choose to either leave the vote open, or cancel the vote.
 
 ## Alternative Process
 
 The IAB can use alternative voting processes. In order to do that, the IAB
-chair must announce the alternative voting rules to the IAB at least one week
-before the voting takes place. If any voting member of the IAB objects to the
-alternative voting rules, the resolution of the conflict will be addressed
-following usual RFC 2850 guidelines; i.e., if more than two voting members
-object to the alternative voting process, the vote reverts to the Normal
-Process.
+chair must announce the alternative voting rules to the IAB. This
+announcement should usually occur at least one week before the voting takes
+place. If any voting member of the IAB objects to the alternative voting rules,
+the resolution of the conflict will be addressed following usual RFC 2850
+guidelines; i.e., if more than two voting members object to the alternative
+voting process, the vote reverts to the Normal Process.
+
+Unanimous results should be strongly preferred in votes using an alternative
+process. Particularly, if the vote is run on a shortened timeline (such as
+having less than a week of advanced notice), unanimity should be required.
 
 Note that any alternative process still needs to follow the rules in Section
 3.5 of RFC 2850.
