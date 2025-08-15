@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-08-04T17:57:03.350Z
+date: 2025-08-15T17:25:34.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -17,6 +17,10 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### Session 2 July 2025 (Madrid) [YouTube](https://youtu.be/zBkzQqpp2-0?t=53s) [intro slides](https://datatracker.ietf.org/doc/slides-123-maprg-sessb-intro-mirjadave/)
+
+### Topic: AI Crawler Traffic Impacts, Session 1 July 2025 (Madrid) [YouTube](https://youtu.be/SHMoU3qiBms?t=2m18s) [intro slides](https://datatracker.ietf.org/doc/slides-123-maprg-sessa-intro-mirjadave/)
 
 ### March 2025 (Bangkok) [YouTube](https://youtu.be/XcadEqqFDQA?t=3m11s) [intro slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave)
 
