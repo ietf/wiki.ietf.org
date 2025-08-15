@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-08-15T17:25:34.054Z
+date: 2025-08-15T17:47:50.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -19,11 +19,23 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
 ### Session 2 July 2025 (Madrid) [YouTube](https://youtu.be/zBkzQqpp2-0?t=53s) [intro slides](https://datatracker.ietf.org/doc/slides-123-maprg-sessb-intro-mirjadave/)
+- Breaking Through the Clouds: Performance Insights into Starlink‘s Latency and Packet Loss [YouTube](https://youtu.be/zBkzQqpp2-0?t=4m28s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-breaking-through-the-clouds-performance-insights-into-starlinks-latency-and-packet-loss), Robert Richter, July 2025
+- It's a bird? It's a plane? It's CDN! Investigating Content Delivery Networks in the LEO Satellite Networks Era [YouTube](https://youtu.be/zBkzQqpp2-0?t=19m27s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-nitindermohan-farfromhome), Nitinder Mohan, July 2025
+- Measuring Anycast Performance: Catchment, RTT, and Optimal Site [YouTube](https://youtu.be/zBkzQqpp2-0?t=36m5s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-measuring-anycast-performance-catchment-rtt-and-optimal-site), Remi Hendriks, July 2025
+- ReACKed QUICer: Measuring the Performance of Instant Acknowledgments in QUIC Handshakes [YouTube](https://youtu.be/zBkzQqpp2-0?t=46m42s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-reacked-quicer-measuring-the-performance-of-instant-acknowledgments-in-quic-handshakes), Jonas Mücke, July 2025
+- Examining the Heterogeneous Throughput Performance Landscape of QUIC Implementations [YouTube](https://youtu.be/zBkzQqpp2-0?t=59m20s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-quic-http-implementation-performance), Roland Bless, July 2025
+- QUIC Steps: Evaluating Pacing Strategies in QUIC Implementations [YouTube](https://youtu.be/zBkzQqpp2-0?t=1h13m43s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-quic-steps-evaluating-pacing-strategies-in-quic-implementations), Marcel Kempf, July 2025
 
 ### Topic: AI Crawler Traffic Impacts, Session 1 July 2025 (Madrid) [YouTube](https://youtu.be/SHMoU3qiBms?t=2m18s) [intro slides](https://datatracker.ietf.org/doc/slides-123-maprg-sessa-intro-mirjadave/)
+- Web Crawl Refusals: Insights from Common Crawl [YouTube](https://youtu.be/SHMoU3qiBms?t=7m46s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessa-web-crawl-refusals-insights-from-common-crawl), Mostafa Ansar, July 2025
+- Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers [YouTube](https://youtu.be/SHMoU3qiBms?t=19m19s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-somesite-i-used-to-crawl-awareness-agency-and-efficacy-in-protecting-content-creators-from-ai-crawlers), Elisa Luo, July 2025
+- Automated Traffic Affects IETF Services [YouTube](https://youtu.be/SHMoU3qiBms?t=42m7s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessa-automated-traffic-affects-ietf-services), Robert Sparks, July 2025
+- Bot Traffic at Wikimedia: Measurement, Identification, and Response [YouTube](https://youtu.be/SHMoU3qiBms?t=48m35s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-bot-traffic-at-wikimedia-measurement-identification-and-response), Chris Petrillo and Birgit Müller, July 2025
+- AI Crawlers - Insights from Cloudflare [YouTube](https://youtu.be/SHMoU3qiBms?t=1h6m47s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessa-ai-crawlers-insights), Thibault Meunier, July 2025
+- IndexNow: A Real-Time Protocol for Measurable Web Indexing Efficiency [YouTube](https://youtu.be/SHMoU3qiBms?t=1h12m49s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessa-indexnow-a-real-time-protocol-for-measurable-web-indexing-efficiency), Krishna Madhavan, July 2025
+
 
 ### March 2025 (Bangkok) [YouTube](https://youtu.be/XcadEqqFDQA?t=3m11s) [intro slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave)
-
 - Hackathon IPv6 Test Pod Open Testing and Call for HAPPY Measurements [YouTube](https://youtu.be/XcadEqqFDQA?t=5m57s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-intro-mirjadave), David Plonka, March 2025
 - Progress Yet to Be Fulfilled: Measuring Collateral Damage in RPKI ROV [YouTube](https://youtu.be/XcadEqqFDQA?t=9m13s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-progress-yet-to-be-fulfilled-measuring-collateral-damage-in-rpki-rov), Weitong Li, March 2025
 - To Adopt or Not to Adopt L4S-Compatible Congestion Control? Understanding Performance in a Partial L4S Deployment [YouTube](https://youtu.be/XcadEqqFDQA?t=26m33s) [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment), Fatih Berkay Sarpkaya, March 2025
