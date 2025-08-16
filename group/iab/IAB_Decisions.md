@@ -150,10 +150,8 @@ choose to either leave the vote open, or cancel the vote.
 The IAB can use alternative voting processes. In order to do that, the IAB
 chair must announce the alternative voting rules to the IAB. This
 announcement should usually occur at least one week before the voting takes
-place. If any voting member of the IAB objects to the alternative voting rules,
-the resolution of the conflict will be addressed following usual RFC 2850
-guidelines; i.e., if more than two voting members object to the alternative
-voting process, the vote reverts to the Normal Process.
+place. Per RFC 2950, if more than two voting member of the IAB objects to the alternative voting rules,
+the vote reverts to the Normal Process.
 
 Unanimous results should be strongly preferred in votes using an alternative
 process. Particularly, if the vote is run on a shortened timeline (such as
