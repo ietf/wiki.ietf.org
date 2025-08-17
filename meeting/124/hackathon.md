@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-07-31T17:11:30.509Z
+date: 2025-08-17T13:31:04.999Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -180,6 +180,20 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/124/hackathon/thread-projects).
+
+---
+
+### Space Networking/TIPTOP Experiment
+- **Champion**
+Marc Blanchet &lt;marc.blanchet@viagenie.ca&gt;
+
+- ** Objectives **
+
+Space communications have large delays (2 secs one-way delay to Moon, 4-22 mins to Mars) and intermittence (because relay orbiters going on the other side of the celestial body). The key adaptations to make to the IP stacks are (briefly, see drafts for details) - for forwarders facing intermittence, store temporarily packets instead of dropping them, when a link goes down - adjust transport and application timers. The [TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) working group is making group progress on specifications. The purpose of this experiment is to start trying early implementations and get experience on using applications in this environment.
+
+- ** Project Info **
+
+We will be broadcasting two SSID on the hackathon wireless network: ietf-moon which will inject a 2 seconds one-way delay and ietf-mars which will inject a 4 minutes delay. Both will also see intermittence.  To avoid taking up too much space on the main Hackathon page, see [this page](https://deepspaceip.github.io/meeting/ietf124/README.md).
 
 ---
 
