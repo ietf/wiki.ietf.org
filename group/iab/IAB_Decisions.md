@@ -123,7 +123,7 @@ of the IAB.
 Once the discussion opportunities (described above) have been provided, a vote
 can formally start. This can occur during a teleconference or in-person meeting
 directly after discussion, but unless all IAB members are present, will always
-also be started virtually.
+also be continued virtually.
 
 Voting typically occurs on a private email list that includes all voting members,
 but may be conducted using other virtual tools.
