@@ -92,7 +92,7 @@ opportunities for discussion (see below) and when the vote is expected to start.
 ### Discussion prior to voting
 
 IAB members should have the opportunity to discuss topics before taking a vote.
-This discussion can occur in both asynchronous (email, messages) and synchronous
+This discussion can occur in both asynchronous (email, slack messages) and synchronous
 (teleconferences, in-person meetings) forms.
 
 Once a vote is announced, the period for asynchronous discussion starts immediately.
