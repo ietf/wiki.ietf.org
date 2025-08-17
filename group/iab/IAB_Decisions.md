@@ -102,7 +102,7 @@ members.
 The discussion period also should include opportunities for each voting IAB member
 to have synchronous discussions with other voting members. Depending on the exact
 meeting schedule of the IAB, this requirement can be satisfied in different ways.
-For example, an in-person meeting at an IETF meeting or an IAB teleconference where
+For example, an in-person meeting at an IETF meeting/retreat or an IAB teleconference where
 all IAB members are expected to attend satisfies this requirement in a single
 discussion. Alternatively, this can be satisfied by having multiple discussions that
 occur at different times to accomodate IAB members in different timezones.
