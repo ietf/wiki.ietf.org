@@ -78,7 +78,7 @@ Detailed guidelines for each of these steps are provided below.
 ### Announcing votes
 
 Announcements of votes are sent over email, but can also be provided over
-other channels. These announcements will be sent by the IAB or the executive director.
+other channels. These announcements will be sent by the IAB chair or the executive director.
 
 Announcements should be as specific as possible about the question on which
 the vote will be taken, and background material should be provided or already be
