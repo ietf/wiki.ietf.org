@@ -2,7 +2,7 @@
 title: ANIMA WG - Autonomic Networking Integrated Model and Approach
 description: 
 published: true
-date: 2025-08-04T18:17:24.861Z
+date: 2025-08-18T19:01:11.537Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T04:32:38.935Z
@@ -35,17 +35,4 @@ Further details about the background to the design teams are at [Anima Design Te
 &nbsp;
 &nbsp;
 
----
-
-- WGLC schedule will be published on the
-  - BRSKI-Cloud by 2023-02-15. (also on datatracker)
-  - BRSKI-PRM by 2023-02-15. (also on datatracker)
-    - Matthias currently reviewing
-  - JWS-Voucher starting 2023-03-01.
-    - editorial review on public github, https://github.com/anima-wg/anima-jws-voucher/pull/8
-  - BRSKI-AE starting 2023-03-15.
-  - RFC8366bis (as last point to capture potential points from other voucher related drafts)
-
----
-
-*The content of this page was last updated on 2018-12-27. It was migrated from the old Trac wiki on 2023-01-29.*
+*The content of this page was last updated on 2025-08-18. It was migrated from the old Trac wiki on 2023-01-29.*
