@@ -2,7 +2,7 @@
 title: Bootstrap Design Team
 description: 
 published: true
-date: 2023-02-18T01:40:21.201Z
+date: 2025-08-18T19:00:09.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:34:38.210Z
@@ -12,6 +12,8 @@ dateCreated: 2023-01-30T22:34:38.210Z
 **Mailing list:** anima-bootstrap@…
 
 The mailing list is open (not restricted to contributing members of the team).
+However, it ceased to be used around 2020 when RFC8995 went to the IESG.  
+Please use the main (anima@ietf.org) list.
 
 **Archive:** http://www.ietf.org/mail-archive/web/anima-bootstrap/current/maillist.html
 
