@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T10:03:21.188Z
+date: 2025-08-19T10:14:43.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -169,17 +169,9 @@ The [Workload Identity in Multi System Environments (wimse)](https://datatracker
 
 The goal of the WIMSE working group is to identify, articulate, and bridge the gaps and ambiguities in workload identity problems and define solutions across a diverse set of platforms and deployments, building on various protocols used in workload environments. The WG will standardize solutions (as proposed standard) and document existing or best practices (as informational or BCP) per the Program of Work.
 
-The [Layer 2 Virtual Private Networks](https://datatracker.ietf.org/wg/l2vpn/about/) (L2VPN) Working Group produced specifications defining and specifying solutions for supporting provider-provisioned Layer-2 Virtual Private Networks (L2VPNs). They also addressed requirements driven by cloud computing services and data centers as they apply to Layer-2 VPN services. The [L2VPN Service Model](https://datatracker.ietf.org/wg/l2sm/about/) (L2SM) Working Group is tasked to created a data model that describes an L2VPN service.
-
-The [Layer 3 Virtual Private Networks (L3VPN)](https://datatracker.ietf.org/wg/l3vpn/about/) Working Group was responsible for defining, specifying and extending solutions for supporting provider-provisioned Layer-3 (routed) Virtual Private Networks (L3VPNs). These solutions provide IPv4, IPv6, and MPLS services including multicast.
-
-The [Layer Three Virtual Private Network Service Model (L3SM)](https://datatracker.ietf.org/wg/l3sm/about/) Working Group was tasked to create a YANG data model that describes an L3VPN service (an L3VPN service model) that can be used for communication between customers and network operators, and to provide input to automated control and configuration applications.
-
 The [Network Virtualization Overlays (NVO3) Working Group](https://datatracker.ietf.org/wg/nvo3/about/) develops a set of protocols and extensions that enable network virtualization within a datacenter environment that assumes an IP-based underlay. An NVO3 solution provides layer 2 and/or layer 3 services for virtual networks enabling multi-tenancy and workload mobility, addressing management and security issues.
 
-The [System for Cross-domain Identity Management (SCIM) Working Group](https://datatracker.ietf.org/wg/scim/about/) worked on standardising methods for creating, reading, searching, modifying, and deleting user identities and identity-related objects across administrative domains, with the goal of simplifying common tasks related to user identity management in services and applications.
-
-The [Computing in the Network Research Group (coinrg)](https://datatracker.ietf.org/rg/coinrg/about/) of the IRTF explores existing research and fosters investigation of “Compute In the Network” and resultant impacts to the data plane. The goal is to investigate how to harness and to benefit from this emerging disruption to the Internet architecture to improve network and application performance as well as user experience.
+The [System for Cross-domain Identity Management (SCIM) Working Group](https://datatracker.ietf.org/wg/scim/about/) works on standardising methods for creating, reading, searching, modifying, and deleting user identities and identity-related objects across administrative domains, with the goal of simplifying common tasks related to user identity management in services and applications.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-312-cloud-and-edge-computing
 
