@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T11:59:48.797Z
+date: 2025-08-19T13:01:18.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -477,6 +477,13 @@ The [Supply Chain Integrity, Tranparency, and Trust (scitt)](https://datatracker
 
 ### 3.1.13 Internet
 **RP:**
+Action 1: SDOs, industry, operators, academia, and civil society are encouraged to contribute to the multistakeholder forum for Internet standards deployment referenced in the NIS2 Implementing Regulation, by identifying best available standards, sharing deployment experience, and supporting the timely implementation of secure, interoperable network infrastructures aligned with the Regulation’s legal requirements and broader EU policy goals.
+
+Action 2: SDOs should share insights, roadmaps, technical gaps and interdependencies that can support the EU’s mapping of Future Internet standardisation priorities, particularly for networking protocols and architectural needs for Web 4.0 shaped by AI, extended reality (XR), blockchain, and quantum technologies.
+
+Action 3: SDOs are invited to contribute to the Open Internet Stack by identifying and maintaining open standards for open-source, interoperable digital infrastructure layers as an alternative to proprietary solutions, updating existing protocols to reflect emerging societal and technological needs, and embedding EU policy principles such as privacy, data protection, and transparency. Their engagement is essential in ensuring the interoperability, global usability, and trustworthiness of the Open Internet Stack. and to contribute to the EU’s competitiveness and startup strategies by lowering entry barriers, enabling open and royalty-free innovation, and supporting the development of interoperable digital services that help European innovators scale and compete globally—while fostering greater inclusion of open, values-driven innovation communities in standardisation processes. 
+
+Action 4: SDOs should consider the conclusions of the 2025 Global Multistakeholder High-Level Conference on the Governance of Web 4.0 and Virtual Worlds — as reflected in its outcome document — when developing and prioritising new Internet standards. The conclusions advance shared goals of an open, interoperable, inclusive and resilient future Internet. SDOs are invited to take into account the policy and technical principles and the recommendations outlined in the outcome document, including the creation of multistakeholder governance sandboxes. These elements align with the EU’s broader strategic Internet governance view which highlights the risks of fragmentation, closed ecosystems and conflicting standards frameworks.   
 
 #### IETF/IAB input to Rolling Plan
 
@@ -690,11 +697,23 @@ Action 7: ETSI, in collaboration with the EGDC, to consider possible paths for I
 
 #### IETF/IAB input to Rolling Plan
 
-The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
+The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
 
-A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
+A standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
+
+The EMAN Working Group previously worked on a closely related technology area, but the standards didn’t achieve wide industry adoption, and as illustrated in RFC 9547, the absence of standardized interfaces for measuring, reporting, and managing energy consumption across diverse network setups remains a significant challenge.
+
+The [Getting Ready for Energy Efficient Networking (green)](https://datatracker.ietf.org/wg/green/about/) Working Group will examine the EMAN work to re-use where applicable but also consider updated operator input and requirements over those previously documented in RFC 6988. Similarly, it will examine the framework previously described in RFC 7326.
+
+It will develop new data models, specified in YANG rather than as MIBs.
+
+It is necessary to support heterogeneous deployment where energy-related statistics and management may be provided via other models and mechanisms. Guidance will be provided to operators in these heterogeneous environments to cover the incremental deployment of energy-efficient features in both network devices and the management of energy-efficient networks.
+
+The GREEN Working Group is chartered to explore use cases, derive requirements, and provide solutions for identifying and characterizing energy efficiency metrics, methods related to energy consumption of network devices, and optimizing energy efficiency across the network.
 
 The [Internet Architecture Board](https://www.iab.org/) has recently established the [Environmental Impacts of Internet Technology (E-Impact)](https://datatracker.ietf.org/group/eimpact/about/) program as a venue for discussing environmental impacts and sustainability of Internet technology. Within this scope, the program looks at trends, issues, improvement opportunities, ideas, best practices, and subsequent direction of work related to Internet technology, architecture, and operations, including visibility and efficiency on energy and other environmentally-impacting attributes. In particular, the group focuses on Internet architecture's role in these topics.
+
+
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environmental-impact
 
