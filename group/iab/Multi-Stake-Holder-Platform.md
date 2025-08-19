@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T10:00:29.915Z
+date: 2025-08-19T10:03:21.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -86,39 +86,31 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-301-data-econom
 
 ### 3.0.2 Cybersecurity / network and information security
 **RP:** 
-Action 1: ESOs to develop standards in support of the cybersecurity essential requirements set out in the Cyber Resilience Act. Furthermore, SDOs to develop standards and sectorial specifications for critical infrastructure protection in support of and responding to the requirements in anticipation of the NIS2 Directive. Foster the application of EN 62443 series (base on IEC 62443 series) for the firm establishment of EU regulatory requirement operational technology (OT) security including critical infrastructures. 
+Action 1. Cyber Resilience Act Implementation: European Standardization Organizations (ESOs) d to develop standards in line with the Standardisation Request M/606.
+The first deliverables relating to the horizontal framework and vulnerability handling are expected for 30 August 2026. Product-specific standards covering the important and critical product categories (CRA Annex III and IV) should be ready by 30 October 2026. The set of standardisation deliverables covering the essential requirements of Annex 1 Part 1 in a product-agnostic way are due one year later on 30 October 2027.
+SDOs  are invited to develop pertinent standards for the CRA default product category in coordination with the ongoing standardisation work in reply to M/606.
 
-Action 2: SDOs to assess the content of existing standards and specifications applied under the European Cybersecurity Certification Framework (including both the present and planned schemes as well as initiatives under the Union Rolling Work Programme for European cybersecurity certification (URWP)) in order to revise existing documents or create new standards. It should be ensured that these standards are gradually and timely made available for providing support to any certification activity, particularly as the preparation of candidate certification schemes has come under the remit of ENISA. In particular, SDOs are encouraged to develop and harmonise standards related to the specification and assessment of security properties in ICT products and services (including cloud services), as well as those related to security in processes related to the design, development, delivery and maintenance of an ICT product or service, as well as methodologies concerning assurance levels for industry sectors. 
+Action 2. NIS2 Directive Support: ESOs and SDOs are invited to develop standards to protect critical infrastructure per the NIS2 Directive, including the support to trust services under the NIS2, as well as promoting the implementation of the EN 62443 series for the firm establishment of EU regulatory requirement operational technology (OT) security including critical infrastructures.
 
-Action 3: SDOs to investigate and prepare harmonised evaluation methodologies of cybersecurity risks, controls and interfaces as required by EU policy instruments such as the Certification Framework of the EU Cybersecurity Act, the Cyber Resilience Act and others for their horizontal application into trusted products such as semiconductors, the European Digital Identity Wallet, and other digital technologies. 
+Action 3. Cybersecurity Act/Cybersecurity Certification Framework facilitation: ESOs and SDOs are invited to evaluate current standards under the European Cybersecurity Certification Framework (including both the present and planned schemes as well as initiatives under the Union Rolling Work Programme for European cybersecurity certification (URWP)) to update or introduce new standards on time to facilitate certification activities, including the preparation of candidate certification schemes.
 
-Action 4: SDOs to assess European cybersecurity policies, such as the upcoming Cyber Resilience Act, but also in relation to other policy instruments, such as the Machinery Directive, the Radio Equipment Directive or to the machine learning component for the AI Act. 
+Action 4. Post-Quantum Cryptography: ESOs and SDOs are welcome to assess post-quantum algorithms, examine advanced cryptographic schemes and adopt standards for secure and interoperable post-quantum communications, including in hybrid form. These standards should support authentication and seamless identity management capabilities  across variety of networks, in all layers of the cloud-edge/IoT continuum, and in particular for constrained devices, aligning with limitations of available resources.
 
-Action 5: SDOs to investigate requirements for secure and interoperable communication protocols for mobile and fixed networks of distributed devices and services that may in addition rely upon limited resources and interfaces. Requirements should address relevant mechanisms of authenticating, registering, and processing user identities seamlessly across devices, services and applications. 
+Action 5. Support to the European Health Data Space regulation: ESOs and SDOs are welcome to evaluate the need and feasibility of sector-specific cybersecurity standards for healthcare (for e.g. electronic health record systems, digital health applications, software as medical device, medical devices software, IoMT) that would complement relevant horizontal cybersecurity standards.
 
-Action 6: SDOs to assess the availability of standards and technical specifications in general or for business sectors relevant for the requirements relating to cybersecurity risk-management, including those pertaining to supply chain, incident notifications for entities in line with the NIS 2 Directive, or in support of the upcoming Cyber Resilience Act and other potential EU legislation, including as regards certification schemes as defined in the Cybersecurity Act. 
+Action 6. Horizontal support to EU policies: ESOs and SDOs are invited to perform gap analysis and explore harmonized methodologies for evaluating cybersecurity risks and controls, integrating these into existing and new standards for trusted products and technologies, both software and hardware, in line with EU policy requirements.
 
-Action 7: SDOs to assess gaps and develop standards on cybersecurity of products in support of possible certification schemes completed under the European Cybersecurity Act and in support of the upcoming Cyber Resilience Act. 
-
-Action 8: SDOs to explore options for the composition and matching of assurance statements as issued under the Certification Framework of the Cybersecurity Act also in conjunction to the provisions of related EU regulatory instruments like the Cyber Resilience Act, the NIS2 Directive or the new eIDAS regulation. 
-
-Action 9: SDOs should develop standards necessary to fulfil the objectives of the EU Cybersecurity Strategy i.e by support the European Cybersecurity Coordination Center’s (ECCC) strategic agenda, including Post-Quantum Cryptography (PQC). SDOs should foster/establish cooperation with the ECCC and national Cybersecurity Centres order to facilitate the results of current research and outputs from the funding programmes Horizon Europe and Digital Europe. 
-
-Action 10: SDOs to assess gaps and develop standards in support of trust services under the NIS2 Directive and other possible instruments of EU law. 
-
-Action 11: ESOs to work with global SDOs and the open-source community to identify available or ongoing technologies of relevance for supporting EU regulation, in particular the upcoming Cyber Resilience Act. 
-
-Action 12: ESOs and SDOs to evaluate the need and feasibility of sector-specific cybersecurity standards for healthcare (for e.g. electronic health record systems, digital health applications, software as medical device, medical devices software, IoMT) that would complement relevant horizontal cybersecurity standards with the view of supporting the implementation of the upcoming Cyber Resilience Act and the European Health Data Space regulation. 
+ESOs are encouraged to collaborate with global SDOs and the open-source community to identify available or ongoing technologies of relevance for supporting EU policies, in particular the Cyber Resilience Act. 
 
 #### IETF/IAB input to Rolling Plan
 
-The IETF Security Area is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital.
+The [IETF Security Area](https://datatracker.ietf.org/wg/#SEC) is the home for working groups focused on security protocols. They provide one or more of the security services: integrity, authentication, non-repudiation, confidentiality, and access control. Since many of the security mechanisms needed to provide these security services employ cryptography, key management is also vital.
 
 The Security Area intersects with all other IETF Areas, and the participants are frequently involved with activities in the working groups from other areas. This involvement focuses upon practical application of Security Area protocols and technologies to the protocols of other Areas.
 
 With specific reference to Commission Recommendation (EU) C(2024) 2393 of 11 April 2024 on a Coordinated Implementation Roadmap for the transition to Post-Quantum Cryptography (PQC), the IETF has established the [Post-Quantum Use In Protocols](https://datatracker.ietf.org/wg/pquip/about/) Working Group which provides a standing venue to discuss PQC (operational and engineering) transition issues and experiences to date relevant to work in the IETF. The WG will document operational and design guidance which supports PQC transition.
 
-The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg#SEC
+The full list of IETF Working Groups in the Security Area is [available here](https://datatracker.ietf.org/wg#SEC).
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecurity-network-and-information-security
 
