@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T10:14:43.227Z
+date: 2025-08-19T10:37:52.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -305,24 +305,21 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-314-internet-of
 
 ### 3.1.5 Electronic identification and trust services including e-signatures
 **RP:** 
-Action 1. Take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Also, the standards being developed by ISO/IEC JTC1 SC17 including on mobile driving licenses and identity management via mobile devices are particularly relevant to electronic identification. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, European and international standards should be aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported. 
+The engagement with the SDOs is needed so that both the EC and the SDO's will agree on a common gap analysis, the work needed to close the gap, including the association with each SDO.
 
-Action 2: As required by the framework established under the proposed regulatory framework for European Digital Identities prepare standards for 
--	interfaces between the European Digital Identity Wallet and trust services as well as services for signing by means of electronic signatures and seals
--	interfaces between the European Digital Identity Wallet and relying parties and issuers of electronic attestations of attributes
--	Issuance and revocation of wallets and electronic attestation of attributes
--	security evaluation and certification of the European Digital Identity Wallet
--	new trust services including electronic attestation of attributes, electronic archiving and electronic ledgers and including update of protocol and security standards and the trusted list format.
--	Supporting additional requirements for identity proofing and validation of attributes.
--	Adapting existing standards to take into account new provisions of eIDAS 2.0 including alignment with NIS2 and ensuring that the requirements of privacy by design are met.
--	Next generation of registered electronic mail and electronic delivery to take account of new services available under eIDAS 2.0 including EU digital identity wallets and electronic ledgers.
--	Use of electronic identities and electronic signatures with electronic ledgers in support of smart contracts.
+More precisely, there is a need to agree on the following:
+1. Confirm the common understanding of the technical gaps that were found regarding the ARF.
+2. Agreement on the support of existing standards or technical specifications regarding the required functionalities from the technical requirements, sorted into the following categories: (1) fully supported; (2) partially supported; or – (3) not supported at all.
+3. Detect and map the requirements into: (1) Existing standards published; (2) existing standards in draft or under development by SDOs recognised under Reg. 1025/2012; (3) existing technical specifications from non-recognised SDOs (e.g., OpenID4VP by OpenID or Verifiable Credentials by W3C); or – (4) needs not covered by any available standards or specifications. 
 
-Action 3: SDOs to cooperate and work in the areas of identifiers, vocabularies, semantics, taxonomies, ontologies for electronic attestations
-
-Action 4: The impact of quantum computing technologies on the cryptographic algorithms, in particular public key cryptography, used for electronic identification and trust services including e-signatures needs to be analysed, and the potential impact on the relevant standards identified.  This should lead to guidance on the migration to Quantum Safe Cryptography.
-
-Action 5: SDOs to engage in a collaborative process to address the gaps between existing standards/technical specifications and the requirements of the EUDI Wallet ecosystem. This involves reviewing the initial gap analysis and participating in discussions to agree on the necessary steps for addressing these gaps. Additionally, SDOs are to contribute to identifying key functionalities that need new or updated standards/technical specifications and be involved in their development to support the successful implementation of the EUDI Wallet as outlined in the eIDAS 2 regulations.
+The foreseen activities involving SDOs include an initial gap definition to commence discussion aiming to gather the following information:
+- Commenting on the initial gap analysis.
+- Collaborating with SDOs to influence the development or enhancement of standards by contributing to working groups, providing technical input, and participating in the drafting process.
+- Monitoring the progress of these developments to ensure that the necessary updates or new standards are addressed in a timely manner.
+- Identifying major functionalities that require new or updated standards.
+- Assigning the responsibility for developing these standards to recognized European Standardization Organizations.
+- Securing funding for the process.
+- Ensuring that the developed standards meet the EUDIW requirements and are ready for integration into the Implementing Acts.
 
 
 #### IETF/IAB input to Rolling Plan
