@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T07:59:26.574Z
+date: 2025-08-19T09:43:38.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -722,6 +722,8 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
 Editor's note: No specific work identified in the IETF or IRTF
 
 ## Document Editing History
+2025-08-19: Updated to reflect RP2026 changes from MSP.
+
 2024-08-08: Updated to reflect RP2025 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.2 pquip, §3.0.3 dult, §3.1.2 wimse, §3.1.4 lwig, §3.1.5 spice
 
 2023-09-22: Archived RP2023, updates to reflect RP2024 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work, updated all links from old trac instance to new IETF wiki.
