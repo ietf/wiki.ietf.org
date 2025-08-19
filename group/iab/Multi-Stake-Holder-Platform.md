@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T07:55:51.969Z
+date: 2025-08-19T07:59:26.574Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -722,51 +722,45 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
 Editor's note: No specific work identified in the IETF or IRTF
 
 ## Document Editing History
-2013-07-04: Initial layout and first draft descriptions added.
+2024-08-08: Updated to reflect RP2025 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.2 pquip, §3.0.3 dult, §3.1.2 wimse, §3.1.4 lwig, §3.1.5 spice
 
-2013-08-04: Added reference to Emun WG in section 3.3.2
-
-2014-03-12: Added link to the final document and modified link to point to more accessible MSP pages
-
-2015-08-27: Updated the document reflecting the draft 2016 Rolling Plan
-
-2016-08-08: Changed the structure, moving the materials related to RP2016 to a separate page. Updated with the current draft of the RP 2017
-
-2016-08-23: A round of updates to reflect current work
-
-2017-09-12: Backup RP2017, created template RP2018
-
-2017-09-20: Update to reflect current IETF and IRTF work, and to include updated text from RP2018 regarding EC perspectives
-
-2017-09-22: More updates to reflect current IETF/IRTF work
-
-2018-08-27: Archived RP2018, updates to reflect RP2019 changes
-
-2018-09-19: Final updates prior to submission to EC RP 2019
-
-2019-09-03: Archived RP2019, updates to reflect RP2020 changes
-
-2019-09-10: Minor updates to prepare for RP2020 draft submission deadline
-
-2020-09-18: Archived RP2020, numerous updates to reflect RP2021 changes
-
-2020-10-02: Revise text on QUIC prior to submission
-
-2021-09-24: Archived RP2021, updates to reflect RP2022 changes from MSP, added text on asdf, iotops and madinas WGs.
+2023-09-22: Archived RP2023, updates to reflect RP2024 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work, updated all links from old trac instance to new IETF wiki.
 
 2022-09-21: Archived RP2022, updates to reflect RP2023 changes from MSP, added text on qirg, ohai, ppm, httpapi, and tigress WGs.
 
-2023-09-22: Archived RP2023, updates to reflect RP2024 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work, updated all links from old trac instance to new IETF wiki. 
+2021-09-24: Archived RP2021, updates to reflect RP2022 changes from MSP, added text on asdf, iotops and madinas WGs.
 
-2024-08-08: Updated to reflect RP2025 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.2 pquip, §3.0.3 dult, §3.1.2 wimse, §3.1.4 lwig, §3.1.5 spice
+2020-10-02: Revise text on QUIC prior to submission
+
+2020-09-18: Archived RP2020, numerous updates to reflect RP2021 changes
+
+2019-09-10: Minor updates to prepare for RP2020 draft submission deadline
+
+2019-09-03: Archived RP2019, updates to reflect RP2020 changes
+
+2018-09-19: Final updates prior to submission to EC RP 2019
+
+2018-08-27: Archived RP2018, updates to reflect RP2019 changes
+
+2017-09-22: More updates to reflect current IETF/IRTF work
+
+2017-09-20: Update to reflect current IETF and IRTF work, and to include updated text from RP2018 regarding EC perspectives
+
+2017-09-12: Backup RP2017, created template RP2018
+
+2016-08-23: A round of updates to reflect current work
+
+2016-08-08: Changed the structure, moving the materials related to RP2016 to a separate page. Updated with the current draft of the RP 2017
+
+2015-08-27: Updated the document reflecting the draft 2016 Rolling Plan
+
+2014-03-12: Added link to the final document and modified link to point to more accessible MSP pages
+
+2013-08-04: Added reference to Emun WG in section 3.3.2
+
+2013-07-04: Initial layout and first draft descriptions added.
 
 Attachments:
 [089_draft_rolling_plan_tfrp055r3_rp.pdf](/089_draft_rolling_plan_tfrp055r3_rp.pdf)
 [118_rev_1_rolling_plan_draft_final.pdf](/118_rev_1_rolling_plan_draft_final.pdf)
 &nbsp;
-&nbsp;
-&nbsp;
-
----
-
-*The content of this page was last updated on 2022-09-21. It was migrated from the old Trac wiki on 2023-01-25.*
