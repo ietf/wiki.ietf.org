@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T10:57:28.167Z
+date: 2025-08-19T11:56:25.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -458,10 +458,26 @@ Since quantum networks are so different when compared to classical networking, t
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3111-quantum-technologies
 
 ### 3.1.12 Trusted and secure chips
-Editor's note: No specific work identified in the IETF or IRTF
+**RP:**
+Action 1:  An overview of existing standards and specifications addressing the trusted and secure chips supply chain and existing gaps
+
+Action 2: Develop technical specifications for verification at device level the trustworthiness of advance chips (<5 nm CMOS process node).
+
+Action 3: Develop technical specifications for Anti-counterfeit (premetive controls) for a) design & verification and b) packaging
+
+Action 4: Develop technical specification for design & verify traceability
+
+#### IETF/IAB input to Rolling Plan
+The Trusted Execution Environment (TEE) is a secure area of a processor. The TEE provides security features such as isolated execution and integrity of Trusted Applications, along with provisions for maintaining the confidentiality of their assets. In general terms, the TEE offers an execution space that provides a higher level of security than a "rich" operating system and more functionality than a secure element. For example, implementations of the TEE concept have been developed by ARM and Intel, using the TrustZone and the SGX technology, respectively.
+
+To programmatically install, update, and delete applications in a TEE, he [Trusted Execution Environment Provisioning (teep)](https://datatracker.ietf.org/wg/teep/about/) Working Group is developing the Trusted Execution Environment Provisioning protocol to run between a service within the TEE on a given device, a relay application or service access point on the device's network stack and a server-side infrastructure that interacts with and optionally maintains the applications. Some tasks are security sensitive and the server side requires information about the device characteristics in the form of attestation and the device-side may require information about the server.
+
 
 ### 3.1.13 Internet
-Editor's note: No specific work identified in the IETF or IRTF
+**RP:**
+
+#### IETF/IAB input to Rolling Plan
+
 
 
 
