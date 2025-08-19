@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T13:01:18.210Z
+date: 2025-08-19T13:03:33.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -713,8 +713,6 @@ The GREEN Working Group is chartered to explore use cases, derive requirements, 
 
 The [Internet Architecture Board](https://www.iab.org/) has recently established the [Environmental Impacts of Internet Technology (E-Impact)](https://datatracker.ietf.org/group/eimpact/about/) program as a venue for discussing environmental impacts and sustainability of Internet technology. Within this scope, the program looks at trends, issues, improvement opportunities, ideas, best practices, and subsequent direction of work related to Internet technology, architecture, and operations, including visibility and efficiency on energy and other environmentally-impacting attributes. In particular, the group focuses on Internet architecture's role in these topics.
 
-
-
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environmental-impact
 
 ### 3.4.4. European Electronic Toll Service (EETS)
@@ -759,11 +757,11 @@ The working group will primarily leverage Internet standards (including HIP, EPP
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
 
-### 3.4.13 Circular economy and sustainability
+### 3.4.12 Circular economy and sustainability
 Editor's note: No specific work identified in the IETF or IRTF
 
 ## Document Editing History
-2025-08-19: Updated to reflect RP2026 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 wimse, §3.1.5 diem, §3.1.9 aipref,
+2025-08-19: Updated to reflect RP2026 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 wimse, §3.1.5 diem, §3.1.9 aipref, §3.4.3 green
 
 2024-08-08: Updated to reflect RP2025 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.2 pquip, §3.0.3 dult, §3.1.2 wimse, §3.1.4 lwig, §3.1.5 spice
 
