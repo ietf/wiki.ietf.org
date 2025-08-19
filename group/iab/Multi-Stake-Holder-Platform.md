@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T09:43:38.573Z
+date: 2025-08-19T09:53:50.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -60,9 +60,11 @@ Action 1: Stock-taking and collaboration:
 
 Action 2: In the context of the MSP, start an analysis on the role of open source software complementing standardisation in the support of the scenarios listed in section A.2 above, e.g. with APIs, protocols, service delivery and other platforms. 
 
-Action 3: In collaboration with the Data Spaces Support Centre (DSSC), and considering the policy objectives outlined in the chapter on Data Interoperability as well as the work of the EU High-Level Forum, stakeholders to address the topic of gathering and processing data from different sources across domains and develop proposals for respective standardisation projects. 
+Action 3: In collaboration with the Data Spaces Support Centre (DSSC), and considering the policy objectives outlined in the chapter on Data Interoperability as well as the work of the EU High-Level Forum, stakeholders to address the topic of gathering and processing data from different sources across domains and develop proposals for respective standardisation projects.
 
-Action 4: SDOs to establish an exchange with relevant open source developing foundations for identifying open source technologies that are available or under way and that can be of relevance for supporting the upcoming EU Data Act and EU policy objectives around the EU data strategy.
+Action 4: Coordinate and support the standardization of data spaces by identifying cross-sectoral and cross-border projects, use cases, and pilots that implement data spaces extending beyond domain and geographic boundaries. This will help define and test the interoperability standards for data spaces 
+
+Action 5: SDOs to establish an exchange with relevant open source developing foundations for identifying open source technologies that are available or under way and that can be of relevance for supporting the upcoming EU Data Act and EU policy objectives around the EU data strategy.
 
 #### IETF/IAB input to Rolling Plan
 
