@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-08-14T03:25:58.864Z
+date: 2025-08-19T14:50:12.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -42,10 +42,6 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 ## MPLS WG Documents
 
-| Date | Draft | Responsible Chair | Notes |
-| --- | --- | --- | --- |
-| 2025-08-13 | draft-ietf-mpls-mna-psd-nrp-selector | Tony | Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | 
-
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
 
 ## Documents the Authors Consider Ready for Last Call
@@ -68,9 +64,9 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 ## In Working Group Last Call
 
-| Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
-|---|---|---|---|---|
-| 2025-08-26 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | 3rd WGLC | Yes | Tarek |
+| Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
+|---|---|---|---|---|---|
+| [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | 2025-08-12 | 2025-08-26 | Yes | Tarek | 3rd WGLC |
 
 ## Working Group Last Call Completed Pending Action
 
@@ -83,6 +79,6 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
-| 2025-03-11 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | RFC Editor Queue | Tarek
+| 2025-06-13 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | RFC Editor Queue | Tarek |
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
