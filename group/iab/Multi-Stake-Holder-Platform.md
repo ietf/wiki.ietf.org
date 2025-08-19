@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T09:53:50.725Z
+date: 2025-08-19T09:59:49.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -68,13 +68,19 @@ Action 5: SDOs to establish an exchange with relevant open source developing fou
 
 #### IETF/IAB input to Rolling Plan
 
-The following IETF Working Group is active in this area:
+The following IETF Working Groups are active in this area:
 
 The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
 
 - Specifications for HTTP extensions that relate to HTTP APIs (typically, new HTTP header and/or trailer fields)
 - Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
 - Best practices and other documentation for HTTP API designers, consumers, implementers, operators, etc.
+
+The [Workload Identity in Multi System Environments (wimse)](https://datatracker.ietf.org/wg/wimse/about/) Working Group is chartered to address the challenges associated with implementing fine-grained, least privilege access control for workloads deployed across multiple service platforms, spanning both public and private clouds. The work will build on existing standards, open source projects, and community practices, focusing on combining them in a coherent manner to address multi-service workload identity use cases.
+The WIMSE working group will closely collaborate with:
+- Other IETF working groups that address topics related to identity, authentication, and authorization, including, but not limited to, OAuth, SCIM, SCITT, and RATS.
+- The Cloud Native Computing Foundation (CNCF), particularly with regard to the SPIFFE/SPIRE project.
+- The OpenID Foundation.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-301-data-economy
 
