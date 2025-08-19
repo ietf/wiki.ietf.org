@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T10:44:00.853Z
+date: 2025-08-19T10:57:28.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -410,6 +410,8 @@ The IETF [Autonomic Networking Integrated Model and Approach Working Group](http
 
 Autonomic networking refers to the self-managing characteristics (configuration, protection, healing, and optimization) of distributed network elements, adapting to unpredictable changes while hiding intrinsic complexity from operators and users. Autonomic Networking, which often involves closed-loop control, is applicable to the complete network (functions) lifecycle (e.g. installation, commissioning, operating, etc). An autonomic function that works in a distributed way across various network elements is a candidate for protocol design. Such functions should allow central guidance and reporting, and co-existence with non-autonomic methods of management. The general objective of this working group is to enable the progressive introduction of autonomic functions into operational networks, as well as reusable autonomic network infrastructure, in order to reduce operating expenses.
 
+The [AI Preferences (aipref)](https://datatracker.ietf.org/wg/aipref/about/) Working Group will standardize building blocks that allow for the expression of preferences about how content is collected and processed for Artificial Intelligence (AI) model development, deployment, and use. There are many ways that preferences regarding content might be expressed. The Working Group will focus on attaching preferences to content either by including preferences in content metadata or by signaling preferences using the protocol that delivers content.
+
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-319-artificial-intelligence
 
 ### 3.1.10 European Global Navigation Satellite System (EGNSS)
@@ -724,7 +726,7 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
 Editor's note: No specific work identified in the IETF or IRTF
 
 ## Document Editing History
-2025-08-19: Updated to reflect RP2026 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 wimse, §3.1.5 diem,
+2025-08-19: Updated to reflect RP2026 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 wimse, §3.1.5 diem, §3.1.9 aipref,
 
 2024-08-08: Updated to reflect RP2025 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.2 pquip, §3.0.3 dult, §3.1.2 wimse, §3.1.4 lwig, §3.1.5 spice
 
