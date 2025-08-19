@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T11:56:25.755Z
+date: 2025-08-19T11:59:48.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -471,6 +471,8 @@ Action 4: Develop technical specification for design & verify traceability
 The Trusted Execution Environment (TEE) is a secure area of a processor. The TEE provides security features such as isolated execution and integrity of Trusted Applications, along with provisions for maintaining the confidentiality of their assets. In general terms, the TEE offers an execution space that provides a higher level of security than a "rich" operating system and more functionality than a secure element. For example, implementations of the TEE concept have been developed by ARM and Intel, using the TrustZone and the SGX technology, respectively.
 
 To programmatically install, update, and delete applications in a TEE, he [Trusted Execution Environment Provisioning (teep)](https://datatracker.ietf.org/wg/teep/about/) Working Group is developing the Trusted Execution Environment Provisioning protocol to run between a service within the TEE on a given device, a relay application or service access point on the device's network stack and a server-side infrastructure that interacts with and optionally maintains the applications. Some tasks are security sensitive and the server side requires information about the device characteristics in the form of attestation and the device-side may require information about the server.
+
+The [Supply Chain Integrity, Tranparency, and Trust (scitt)](https://datatracker.ietf.org/wg/scitt/about/) Working Group works to define a set of interoperable building blocks that will allow implementers to build integrity and accountability into software supply chain systems to help assure trustworthy operation. For example, a public computer interface system could report its software composition that can then be compared against known software compositions or certifications for such a device thereby giving confidence that the system is running the software expected and has not been modified, either by attack or accident, in the supply chain.
 
 
 ### 3.1.13 Internet
