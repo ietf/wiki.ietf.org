@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T07:51:01.282Z
+date: 2025-08-19T07:55:51.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -453,6 +453,14 @@ Since quantum networks are so different when compared to classical networking, t
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3111-quantum-technologies
 
+### 3.1.12 Trusted and secure chips
+Editor's note: No specific work identified in the IETF or IRTF
+
+### 3.1.13 Internet
+Editor's note: No specific work identified in the IETF or IRTF
+
+
+
 ## 3.2 Societal challenges
 ### 3.2.1 Digital Health, healthy living and ageing
 Editor's note: No specific work identified in the IETF or IRTF
@@ -683,16 +691,13 @@ Editor's note: No specific work identified in the IETF or IRTF
 ### 3.4.8 Construction - Building Information Modelling
 Editor's note: No specific work identified in the IETF or IRTF
 
-### 3.4.9 Common Information Sharing Environment (CISE) for the EU maritime domain
+### 3.4.9 Water Management Digitalisation
 Editor's note: No specific work identified in the IETF or IRTF
 
-### 3.4.10 Water Management Digitisation
+### 3.4.10 Single European Sky
 Editor's note: No specific work identified in the IETF or IRTF
 
-### 3.4.11 Single European Sky
-Editor's note: No specific work identified in the IETF or IRTF
-
-### 3.4.12 U-Space
+### 3.4.11 U-Space
 **RP**:
 Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data:
 -	between air navigation service providers, common information service providers and U-space service providers; and
@@ -713,7 +718,7 @@ The working group will primarily leverage Internet standards (including HIP, EPP
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
 
-### 3.4.13 Circular economy
+### 3.4.13 Circular economy and sustainability
 Editor's note: No specific work identified in the IETF or IRTF
 
 ## Document Editing History
