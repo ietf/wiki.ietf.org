@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-03-25T10:02:41.684Z
+date: 2025-08-19T07:51:01.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -28,15 +28,16 @@ In chapter 3 of the Rolling Plan various policy areas are identified that need t
 Previous versions of the Rolling Plan and the IETF work that fits into it:
 
 - [Rolling Plan 2019](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2019)
-- [Rolling Plan 2020](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2020)
-- [Rolling Plan 2021](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2021)
-- [Rolling Plan 2022](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2022)
-- [Rolling Plan 2023](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2023)
-- [Rolling Plan 2024](https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2024)
+- [Rolling Plan 2020](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2020)
+- [Rolling Plan 2021](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2021)
+- [Rolling Plan 2022](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2022)
+- [Rolling Plan 2023](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2023)
+- [Rolling Plan 2024](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2024)
 - [Rolling Plan 2025](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2025)
+- Rolling Plan 2026 (to follow)
 
-### Draft Rolling Plan 2025
-The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2025 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Commission point of view and collect input regarding relevant work at the IETF and IRTF.
+### Draft Rolling Plan 2026
+The current structure is based on the draft document "Rolling Plan on ICT Standardisation (2026 revision)". The objective of this page is to raise awareness regarding policy areas that need standardisation from a European Union point of view and collect input regarding relevant work at the IETF and IRTF.
 
 Since there may not be sufficient specific policy area expertise for each of the areas mentioned in Chapter 3 of the Rolling Plan the references below are likely to be incomplete. Readers are advised to review the [IETF areas](https://www.ietf.org/topics/areas/) for potentially related technology work and contact [Mat Ford](mailto:ford@isoc.org) or [Olaf Kolkman](mailto:kolkman@isoc.org) or any Area Director with general or specific questions.
 
@@ -44,6 +45,7 @@ Since there may not be sufficient specific policy area expertise for each of the
 - From the EU RP Task Force: The Review process leads to a new version of the EU Rolling Plan on ICT Standardisation. The new version will be finalised by the MSP in December before being handed over to the Commission for endorsement and publication. From end of July until late September all MSP members have the opportunity to provide comments and further input to the draft Rolling Plan as provided by the European Commission. Focus should be put in particular to the actions. For an effective Rolling Plan it is important to have actions that are as precise as possible so that they can trigger respective standardisation work. Therefore, the CARV criteria should be met: actions should be **C**oncrete, **A**chievable, **R**elevant and **V**oluntary.
 - The numbering of the various section titles refers to the numbers of the sections in the rolling plan.
 
+## EU Policy Areas Supported by ICT Standardisation
 ## 3.0 Foundational drivers
 ### 3.0.1 Data Economy
 **RP:** The actions proposed focus on fields where ICT standardisation can support horizontal and high-level policy objectives in the area of data economy. Actions that address sector specific needs and objectives are included in the respective chapters addressing the different sectors and technology areas.
@@ -111,60 +113,6 @@ With specific reference to Commission Recommendation (EU) C(2024) 2393 of 11 Apr
 The full list of IETF Working Groups in the Security Area is available here: https://datatracker.ietf.org/wg#SEC
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecurity-network-and-information-security
-
-### 3.0.3 ePrivacy
-**RP:** In the light of the accountability and privacy by design principles, ICT standards generally should be created in order to ensure a high-level of protection of individuals with regard to personal data processing, and the free movement of such data, and the application of privacy by design methodologies. Privacy and data protection standards should thus be examined, developed or improved if necessary, so as to provide standardised methods that support that review and improvement in due respect of EU data protection rules.
-
-Proposed specific areas for SDOs to focus on are:
-Action 1:  Continuing work on standardising browser functionalities and defaults to enable users to easily control whether they want to be tracked.
-
-Action 2:  SDOs to work on standardised solutions for location data used by mobile applications. ISO/IEC 29184 Information technology - Online privacy notices and consent is adopted unmodified as EN ISO/IEC 29184.
-
-Action 3: SDOs to investigate standards for supporting compliance and certification of compliance with GDPR and possible other EU data privacy requirements. . Also a gap analysis should be run so to understand needed future work that may have to be prioritised.
-
-Action 4:  Promote EU-wide attention to standardisation of privacy statements and terms & conditions, given that there is mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, and taking into account the GDPR. The Kantara CIS work and the data use statements described in ISO/IEC 19944 could be used as a basis for this action.
-
-Action 5: SDOs to continue investigating technical measures apt to make personal data anonymous or pseudonymised (and therefore unintelligible by those who are not authorised to access them).
-
-Action 6:  SDOs to continue investigating how to warrant a user-centric approach in privacy & access management:  see http://www.laceproject.eu/blog/give-students-control-data/ and 
-http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centred-personal-data-management-and-processing.
-
-Action 7: SDOs to prevent unwarranted pervasive monitoring by default when developing standards. This is not only relevant in the context the internet but also the IoT.
-
-Action 8: SDOs to develop secure coding standards for secure application development: EU-wide attention to standardisation of privacy statements and terms & conditions as far as possible, given the existing state of mandatory acceptance of diverse, ambiguous and far-reaching online privacy conditions, taking into account the GDPR and the emergence of the IoT, where (embedded) devices process the device owner's personal data and possible different device users' personal data, creating additional challenges to transparency and informed consent.
-
-#### IETF/IAB input to Rolling Plan
-
-The following IETF Working Groups are active in this area:
-
-The [Detecting Unwanted Location Trackers (dult)](https://datatracker.ietf.org/wg/dult/about/) Working Group will standardize an application protocol for information exchange between location-tracking accessories and nearby devices, along with actions that these accessories and devices should take once unwanted tracking is detected. This protocol is intended to protect people against being unknowingly tracked. The intent of this WG is to make it easier for arbitrary devices to detect unwanted tracking by these accessories. The protocols and interactions between devices may be limited to certain states or modes, such as the accessory being separated from a paired/owner device.
-
-The working group will define privacy and security properties of its solution, including privacy and security protections for accessory owners when accessories are used appropriately, and evaluate the tradeoffs. The mechanisms specified by the WG will be designed to not create new vectors for user tracking.
-
-The [DNS PRIVate Exchange (dprive)](https://datatracker.ietf.org/wg/dprive/about/) WG develops mechanisms to provide confidentiality to DNS transactions, to address concerns surrounding pervasive monitoring (RFC 7258). The set of DNS requests that an individual makes can provide an attacker with a large amount of information about that individual. DPRIVE aims to deprive the attacker of this information.
-
-The [Privacy Pass (privacypass)](https://datatracker.ietf.org/wg/privacypass/about/) WG is standardising a protocol that provides a performant, application-layer mechanism for token creation and anonymous redemption. Servers (Issuers) create and later verify tokens that are redeemed by an ecosystem of clients, such that:
-
-- An Issuer cannot link a redeemed token to one of N previously created tokens using the same key with probability non-negligibly larger than 1/N.
-- Clients can verify that a token created by an Issuer corresponds to a committed keypair.
-- Tokens are unforgeable.
-- The token issuance and redemption mechanisms are efficient.
-
-The [QUIC (quic)](https://datatracker.ietf.org/wg/quic/about/) WG is developing the QUIC protocol which provides end-to-end security for transport connections, including protection of header fields that are left unprotected by TLS. The QUIC working group's specifications are currently in last call, and will soon become recognised standards. The use of QUIC in the Internet is already quite high and growing.
-
-Many network topologies lead to situations where transport protocol proxying is beneficial. For example, proxying enables endpoints to communicate when end-to-end connectivity is not possible, or to apply additional encryption where desirable (such as a VPN). Proxying can also improve client privacy, e.g., by hiding a client's IP address from a target server. The [Multiplexed Application Substrate over QUIC Encryption](https://datatracker.ietf.org/wg/masque/about/) (masque) WG is developing mechanism(s) that allow configuring and concurrently running multiple proxied stream- and datagram-based flows inside an HTTPS connection. These mechanism(s) are collectively called MASQUE.
-
-The [MAC address Device Identification for Network and Application Services](https://datatracker.ietf.org/wg/madinas/about/) (madinas) Working Group is documenting recommended means to reduce the impact of randomized and changing MAC addresses (RCM) while ensuring that the privacy achieved with RCM is not compromised. The Working Group will liaise with other relevant organizations, such as IEEE 802 and the Wireless Broadband Alliance (WBA), by coordinating on the different recommendations, as well as potential follow-up activities within or outside the IETF.
-
-There are many situations in which it is desirable to take measurements of data which people consider sensitive. For instance, a browser company might want to measure web sites that do not render properly without learning which users visit those sites, or a public health authority might want to measure exposure to some disease without learning the identities of those exposed. In these cases, the entity taking the measurement is not interested in people's individual responses but rather in aggregated data (e.g., how many users had errors on site X). Conventional methods require collecting individual measurements in plaintext and then aggregating them, thus representing a threat to user privacy and rendering many such measurements difficult and impractical.
-
-New cryptographic techniques address this gap through a variety of approaches, all of which aim to ensure that the server (or multiple, non-colluding servers) can compute the aggregated value without learning the value of individual measurements. The [Privacy Preserving Measurement](https://datatracker.ietf.org/wg/ppm/about/) (ppm) Working Group will standardize protocols for deployment of these techniques on the Internet.
-
-The ​Oblivious HTTP Application Intermediation (ohai) Working Group will define a protocol for anonymization of HTTP requests using a partly-trusted intermediary, a method of encapsulating HTTP requests and responses that provides protected, low-latency exchanges. Applications and use cases best suited for this protocol are those that have discrete, transactional queries that might reveal small amounts of information that accumulate over time. Examples include DNS queries, telemetry submission, and certificate revocation checking.
-
-The [Privacy Enhancements and Assessments Research Group](https://datatracker.ietf.org/wg/ohai/about/) (PEARG) in the IRTF is a general forum for discussing and reviewing privacy enhancing technologies for network protocols and distributed systems in general, and for the IETF in particular.
-
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-303-eprivacy
 
 ## 3.1 Key enablers
 ### 3.1.1 5G and beyond
