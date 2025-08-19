@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T10:37:52.608Z
+date: 2025-08-19T10:43:29.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -305,22 +305,33 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-314-internet-of
 
 ### 3.1.5 Electronic identification and trust services including e-signatures
 **RP:** 
-The engagement with the SDOs is needed so that both the EC and the SDO's will agree on a common gap analysis, the work needed to close the gap, including the association with each SDO.
+Action 1. SDOs to take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Also, the standards being developed by ISO/IEC JTC1 SC17 including on mobile driving licenses and identity management via mobile devices are particularly relevant to electronic identification. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, ESOs should keep European and international standards aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported. 
 
-More precisely, there is a need to agree on the following:
-1. Confirm the common understanding of the technical gaps that were found regarding the ARF.
-2. Agreement on the support of existing standards or technical specifications regarding the required functionalities from the technical requirements, sorted into the following categories: (1) fully supported; (2) partially supported; or – (3) not supported at all.
-3. Detect and map the requirements into: (1) Existing standards published; (2) existing standards in draft or under development by SDOs recognised under Reg. 1025/2012; (3) existing technical specifications from non-recognised SDOs (e.g., OpenID4VP by OpenID or Verifiable Credentials by W3C); or – (4) needs not covered by any available standards or specifications. 
+Action 2: As required by the revised eIDAS Regulation prepare standards for: 
+- a) Interfaces between the European Digital Identity Wallet and trust services as well as services for signing by means of electronic signatures and seals.
+- b) Interfaces between the European Digital Identity Wallet and relying parties and issuers of electronic attestations of attributes.
+- c) Issuance and revocation of wallets.
+- d) Policy and security requirements on providers of electronic attestation of attribute services including issuance and revocation of electronic attestation of attribute.
+- e) Security evaluation and certification of the European Digital Identity Wallet.
+- f) Policy and security requirements on providers of trust services for electronic ledger.
+- g) Policy and security requirements on providers of trust services for electronic archiving.
+- h) Update to trusted lists to support new trust services.
+- i) Management of trust relating to the EU Digital Identity Wallet.
+- j) Supporting additional requirements for identity proofing and validation of attributes.
+- k) Adapting existing standards to take into account new provisions and requirements in the revised Regulation including accessibility for persons with disabilities and special needs, alignment with NIS2.
+- l) Ensuring that the requirements of privacy by design are met so that compliance with GDPR can be demonstrated.
+- m) Next generation of registered electronic mail and electronic delivery to take account of new services and components available under the revised regulation including EU digital identity wallets and electronic ledgers.
+- n) Use of electronic identities and electronic signatures with other trust services including electronic ledgers in support of smart contracts.
+- o) Support implementation and use of the Trusted Lists, including support for new trust services and other potential used of trust lists for managing the trust infrastructure of the EU Digital Identity Wallet.
+- p) Maintain and update the set of standards supporting creation and validation of electronic signatures, seals, certificates, attestations and timestamps and their preservation.
 
-The foreseen activities involving SDOs include an initial gap definition to commence discussion aiming to gather the following information:
-- Commenting on the initial gap analysis.
-- Collaborating with SDOs to influence the development or enhancement of standards by contributing to working groups, providing technical input, and participating in the drafting process.
-- Monitoring the progress of these developments to ensure that the necessary updates or new standards are addressed in a timely manner.
-- Identifying major functionalities that require new or updated standards.
-- Assigning the responsibility for developing these standards to recognized European Standardization Organizations.
-- Securing funding for the process.
-- Ensuring that the developed standards meet the EUDIW requirements and are ready for integration into the Implementing Acts.
+Action 3: SDOs to cooperate and work in the areas of identifiers, vocabularies, semantics, taxonomies, ontologies for electronic attestations, considering work from stakeholders that are already involved in these activities in their respective sectors.
 
+Action 4: The impact of quantum computing technologies on the cryptographic algorithms, in particular public key cryptography, used for electronic identification and trust services including e-signatures needs to be analysed, and the potential impact on the relevant standards identified.  This should lead to guidance on the migration to Quantum Safe Cryptography.
+
+Action 5: SDOs to engage in a collaborative process to address the gaps between existing standards/technical specifications and the requirements of the EUDI Wallet ecosystem. This involves reviewing the initial gap analysis and participating in discussions to agree on the necessary steps for addressing these gaps. Additionally, SDOs are to contribute to identifying key functionalities that need new or updated standards/technical specifications and be involved in their development to support the successful implementation of the EUDI Wallet as outlined in the eIDAS 2 regulations.
+
+Action 6: SDOs to develop technical interoperability mechanisms between wallets released in different regions of the world, such as EUDIW, LACnet. Technical interoperability could set the grounds for the future adoption of political and regulatory decisions that allow, in the long term, for mutual recognition of digital identities with legal effects that would support international trade and commerce and would providing a way to evaluate the trustworthiness of a wallet or an attestation in cross-regional contexts.
 
 #### IETF/IAB input to Rolling Plan
 
@@ -330,15 +341,17 @@ The [Secure Patterns for Internet Credentials (spice)](https://datatracker.ietf.
 
 The SPICE WG will develop digital credential profiles that support various use cases. The profiles developed by the SPICE WG will enable digital credentials to leverage existing IETF technologies. Privacy by design, confidentiality, and consent will be considered, and implementation guidance will be given for each proposed standard in the program of work.
 
-The [Web Authorization Protocol (OAUTH) WG](https://datatracker.ietf.org/wg/oauth/about/) developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
+The [Web Authorization Protocol (oauth)](https://datatracker.ietf.org/wg/oauth/about/) Working Group developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
 
 The ongoing standardisation effort within the OAUTH working group is focusing on enhancing interoperability of OAUTH deployments.
 
-The [Public Notary Transparency (TRANS) WG](https://datatracker.ietf.org/wg/trans/about/) developed a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
+The [Public Notary Transparency (trans)](https://datatracker.ietf.org/wg/trans/about/) Working Group developed a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
 
-The [Automated Certificate Management Environment (ACME) WG](https://datatracker.ietf.org/wg/acme/about/) specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
+The [Automated Certificate Management Environment (acme)](https://datatracker.ietf.org/wg/acme/about/) Working Group specifies conventions for automated X.509 certificate management, including validation of control over an identifier, certificate issuance, certificate renewal, and certificate revocation. The initial focus of the ACME WG is on domain name certificates (as used by web servers), but other uses of certificates can be considered as work progresses.
 
-The [Supply Chain Integrity, Tranparency, and Trust (SCITT) Working Group](https://datatracker.ietf.org/wg/scitt/about/) works to define a set of interoperable building blocks that will allow implementers to build integrity and accountability into software supply chain systems to help assure trustworthy operation. For example, a public computer interface system could report its software composition that can then be compared against known software compositions or certifications for such a device thereby giving confidence that the system is running the software expected and has not been modified, either by attack or accident, in the supply chain.
+The [Supply Chain Integrity, Tranparency, and Trust (scitt)](https://datatracker.ietf.org/wg/scitt/about/) Working Group works to define a set of interoperable building blocks that will allow implementers to build integrity and accountability into software supply chain systems to help assure trustworthy operation. For example, a public computer interface system could report its software composition that can then be compared against known software compositions or certifications for such a device thereby giving confidence that the system is running the software expected and has not been modified, either by attack or accident, in the supply chain.
+
+The [Digital Emblems (diem)](https://datatracker.ietf.org/wg/diem/about/) Working Group is chartered to define an architecture and discovery mechanism enabling digital emblems to be presented and validated across applications and platforms in a cohesive way.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-315-electronic-identification-and-trust-services-including-e-signatures
 
