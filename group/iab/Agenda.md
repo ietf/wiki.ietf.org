@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-19T20:01:55.512Z
+date: 2025-08-20T16:53:49.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,6 +39,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Topics for Future Informal Meetings
 
 - August 27 (formal meeting time): Talk with ISE (Eliot Lear)
+- Can/should we have the liaison social hour on a yearly basis? (Liaison Coordinators)
+- Let's invite the ICANN board liaison also at least once a year to an IAB breakfast (Liaison Coordinators)
+- Handling of ITU-T Standards Landscape database (see https://github.com/intarchboard/responsibilities/issues/68) (Liaison Coordinators)
+- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
 
 ## Upcoming Formal IAB Business Meetings
 
