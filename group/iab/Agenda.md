@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-20T16:53:49.057Z
+date: 2025-08-20T22:20:33.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-08-20, 21:00-22:00 UTC)
+# IAB Formal Business Meeting Agenda: 2025-08-27, 13:00-15:00 UTC)
 
-## There WILL be a meeting on 2025-08-20
+## There WILL be a meeting on 2025-08-27
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6
 
 
 
@@ -23,16 +23,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-> 1. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway, Jean Mahoney) - 20 mins
->     
-> 2. Topic:
->     Background and context:
+> 1.
 
 
 ## Regrets
-- Dhruv
-- Alvaro
-- Cooley
+
 
 
 
