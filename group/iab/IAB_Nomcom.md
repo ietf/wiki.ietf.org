@@ -2,7 +2,7 @@
 title: IAB Nomcom
 description: 
 published: true
-date: 2024-08-01T21:36:16.924Z
+date: 2025-08-20T20:50:20.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:20:04.160Z
@@ -70,14 +70,10 @@ candidates don't actually have to submit CVs and many don't.
 
 ## The IAB serves as the confirming body for the IESG candidates
 
-It is extremely important that the IAB Liaison to the IETF NomCom provide the
-full list of IAB-required confirming materials to the NomCom chair at the start
-of the NomCom. This enables the NomCom and NomCom chair to ensure that willing
+It is extremely important that the IAB Liaison to the IETF NomCom provide the list of the confirmation materials that the IAB requires to the NomCom chair at the start of the NomCom. This enables the NomCom and NomCom chair to ensure that willing
 nominees for IESG positions are made aware that required supporting materials
-will be provided to the IAB should they be put forth as the nominee of choice
-by the NomCom. Permission to share these materials with the IAB (as confirming
-body), to include CVs and questionnaire responses, should be requested in
-advance by the NomCom chair when the materials are submitted to the NomCom. The
+will be provided to the IAB should they be put forth as the candidate of choice
+by the NomCom.  The
 NomCom may wish to provide questionnaires which include sections that the
 candidate is comfortable sharing (e.g., "To Be Shared with Confirming Body"),
 and sections which will not be distributed beyond the NomCom members (e.g., Not
