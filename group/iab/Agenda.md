@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-20T22:20:33.782Z
+date: 2025-08-21T16:32:03.402Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,6 +34,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Topics for Future Informal Meetings
 
 - August 27 (formal meeting time): Talk with ISE (Eliot Lear)
+- (August 27?) RSS-GWG Liaison Report, [ICANN Public Comment](https://www.icann.org/en/public-comment/proceeding/functional-model-for-root-server-system-governance-11-08-2025)
 - Can/should we have the liaison social hour on a yearly basis? (Liaison Coordinators)
 - Let's invite the ICANN board liaison also at least once a year to an IAB breakfast (Liaison Coordinators)
 - Handling of ITU-T Standards Landscape database (see https://github.com/intarchboard/responsibilities/issues/68) (Liaison Coordinators)
