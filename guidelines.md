@@ -2,7 +2,7 @@
 title: Guidelines
 description: General principles to consider when contributing to wiki.ietf.org
 published: true
-date: 2023-12-15T22:11:16.710Z
+date: 2025-08-22T00:22:08.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T12:18:35.593Z
@@ -15,7 +15,7 @@ All contribututions to this wiki are covered by the [IETF Note Well](https://www
 
 Inspired by the [Ten simple rules for editing Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Ten_simple_rules_for_editing_Wikipedia), here are some general principles to consider when contributing to the IETF Community wiki:
 
-1. **Consider how your contribution could help the IETF community work better.** Anyone who has an IETF Datatracker account and contributes ideas to the IETF is part of the IETF community. If you contribute to this wiki, you are part of that community.
+1. **Consider how your contribution could help the IETF community work better.** Anyone who has an [IETF Datatracker](https://datatracker.ietf.org) account and contributes ideas to the IETF is part of the IETF community. If you contribute to this wiki, you are part of that community.
 
 1.  **Remember this wiki serves the IETF.** This wiki is a shared resource intended to serve the groups, meetings, and other activities within the IETF Community. While the IETF covers many aspects of Internet technologies, it is guided by its [mission and principles](https://www.ietf.org/about/mission/), and there are many topics that are out of scope for the IETF.
 
