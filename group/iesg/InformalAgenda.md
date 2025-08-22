@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-18T18:29:45.007Z
+date: 2025-08-22T15:07:08.395Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,6 +54,7 @@ Note that this page is public.
 
 ### Management Issues
 
+* About [Blocking I-D submission once approved](https://github.com/ietf-tools/datatracker/issues/6036) dated 2023... Does the IESG still want to block submissions (as RPC starts working on I-D already in EDIT state). Jean Mahoney to join so should be first item (Éric V)
 
 ### WG News 
 
