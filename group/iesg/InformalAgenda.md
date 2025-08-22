@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-22T16:23:38.060Z
+date: 2025-08-22T16:28:31.539Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -57,6 +57,9 @@ Note that this page is public.
 * About [Blocking I-D submission once approved](https://github.com/ietf-tools/datatracker/issues/6036) datatracker issue dated 2023... Does the IESG still want to block submissions (as RPC starts working on I-D already in EDIT state). Jean Mahoney to join so should be first item (Éric V as tools team liaison)
 
 * Sentence to add to the "IESG Statement on Clarifying the Use of BCP 14 Key Words" regarding normative language in diagrams (Paul)
+
+* Next steps on "IESG Statement on Maximizing Encrypted Access To  IETF Information" (Paul)
+
 
 
 ### WG News 
