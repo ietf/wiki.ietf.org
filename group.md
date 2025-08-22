@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-08-09T07:14:50.294Z
+date: 2025-08-22T00:13:45.069Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -17,7 +17,7 @@ The URLs for wiki pages of specific groups, if they exist, generally follow the 
 
 Wiki pages for any particular group are linked from the "About" tab on their IETF Datatracker page. For example the IESG wiki page is linked from: https://datatracker.ietf.org/group/iesg/about/
 
-The links below are provided as assistance to find wiki pages for particular groups but is not intended to be comprehensive.
+The links below are provided as assistance to find wiki pages for particular groups but are not intended to be comprehensive.
 
 # Leadership groups
 - [iesg *Internet Engineering Steering Group*](/group/iesg)
