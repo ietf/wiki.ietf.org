@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-08-18T05:08:37.940Z
+date: 2025-08-24T05:48:50.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,6 +52,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
 |Aug 2025|[APIGA-2025](https://icann-community.atlassian.net/wiki/spaces/GSEAPAC/pages/114304956/APIGA+2025)|Internet Governance for Youth|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1X5P_5eGaB41dYvnuJbbGXst1aVEg9d4RIYeD2_Swjgg/edit?usp=sharing)|
+|July 2025|[ISOC Trinidad & Tobago Chapter Webinar](https://www.isoc.tt/blog_post/22/)|Regional|Participants|Suresh|[Slide](https://docs.google.com/presentation/d/1WjTk8pcL6Hq0nF02fotdTPlFuHSvnuR7/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)|
 |July 2025|[WSIS+20 HLE](https://www.itu.int/net4/wsis/forum/2025/en)|Internet Governance|-|Roman, Mirja, Mark|-|
 |July 2025|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
 |June 2025|[IGF 2025](https://www.igf2025.no/)|Internet Governance|Knowledge sharing, Support|Roman, Dirk, Dhruv, Mirja, Warren, Suresh, Mark, Colin, Mirjam|[Blog](https://www.ietf.org/blog/experiences-igf-2025/)| 
