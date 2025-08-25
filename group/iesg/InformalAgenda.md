@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-25T07:05:00.852Z
+date: 2025-08-25T07:05:37.394Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -63,7 +63,8 @@ Note that this page is public.
 * Discussion on use of Datatracker state change (+ announcement) for WG adoption and LC process (Ketan)
   - Communication & discussion required in the WG chairs forum to get feedback
   - Enable tuning of the periods (in any case the conclusion of the "calls" is done by the WG chairs
-  - Provide a free form field to add more/customized text.
+  - Provide a free form field to add more/customized text
+  - Should we revert the datatracker change until then?
 
 ### WG News 
 
