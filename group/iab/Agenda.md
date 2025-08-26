@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-21T17:22:49.482Z
+date: 2025-08-26T20:17:26.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -103,7 +103,8 @@ Procedures for Handling Liaison Statements to and from the IETF
 
 - Can/should we have the liaison social hour on a yearly basis?        
 - Let's invite the ICANN board liaison also at least once a year to an IAB breakfast 
-- Handling of ITU-T Standards Landscape database (see https://github.com/intarchboard/responsibilities/issues/68) 
+- Handling of ITU-T Standards Landscape database (see https://github.com/intarchboard/responsibilities/issues/68)
+- RFC3113bis update discussion (Suresh & Mirja)
 
 
 ### 7. Review of Open Issues for Responsibilities
