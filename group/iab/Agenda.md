@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-27T15:17:40.528Z
+date: 2025-08-27T15:18:09.761Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,8 +28,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 Context: 
 - [ICANN Public Comment](https://www.icann.org/en/public-comment/proceeding/functional-model-for-root-server-system-governance-11-08-2025) - Deadline for public comments: 22 September 2025  23:59 UTC
 - [Governance Principles for the Root Server System](https://www.icann.org/en/system/files/files/governance-principles-root-server-system-08aug25-en.pdf)
-- [The Root Server System Governance
-Structure](https://itp.cdn.icann.org/en/files/policy-development/root-server-system-governance-structure-pub-comment-11-08-2025-en.pdf)
+- [The Root Server System Governance Structure](https://itp.cdn.icann.org/en/files/policy-development/root-server-system-governance-structure-pub-comment-11-08-2025-en.pdf)
 
 
 
