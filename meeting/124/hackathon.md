@@ -2,13 +2,12 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-08-26T03:44:56.644Z
+date: 2025-08-28T05:22:42.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
 ---
 
-# IETF 124 Hackathon
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * :spiral_calendar: **When**: 01 - 02 November 2025 (Saturday - Sunday)
