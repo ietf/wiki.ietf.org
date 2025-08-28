@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-28T13:46:52.524Z
+date: 2025-08-28T17:45:43.806Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 28, 2025
+# Informal Telechat - September 11, 2025
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-* Med
-* Gunter
-* Jim
+
 
 
 ## Agenda
@@ -42,11 +40,7 @@ Note that this page is public.
 
 ### Administrivia
 
-* [Non-WG List Audit](https://docs.google.com/spreadsheets/d/15qe1kRojQcL6uRE0rMv_f0NvbqeGKwkSccoInXR9CWs/edit?usp=sharing) (Cindy)
 
-* Call for input on Datatracker state description.  Intent to ship by the end of August:
-  * [Revising the descriptive text for “WG States” of an I-D](https://docs.google.com/document/d/1-GQtUKS3TpEBypowXtLJuCmfShDMzFfnxvipiC94bqI/edit?tab=t.0#heading=h.zbmjait3sru8)
-  * [Revising the descriptive text for “IESG States” of an I-D](https://docs.google.com/document/d/1Nml_q2uxyYEHri6wQ-eQJgmuRoc4QEmBw0cIn3a0MTU/edit?)
 
 ### Document Discussions
 
@@ -54,23 +48,9 @@ Note that this page is public.
 
 ### Management Issues
 
-* About [Blocking I-D submission once approved](https://github.com/ietf-tools/datatracker/issues/6036) datatracker issue dated 2023... Does the IESG still want to block submissions (as RPC starts working on I-D already in EDIT state). 
-  - Jean Mahoney and Robert Sparks to join so should be first item (Éric V as tools team liaison)
 
-* Discussion on use of Datatracker state change (+ announcement) for WG adoption and LC process (Ketan)
-  - Communication & discussion required in the WG chairs forum to get feedback
-  - Éric: we should probably leverage Robert's participation early in the call for this item
- 
-* [Submitting appeals via the Datatracker](https://docs.google.com/document/d/1jVvUg7bls7K8x8sOqYzzJ2aBfwxXZcQra1alVdWHPV0/edit?usp=sharing) (Cindy, Andy, Ketan, Paul)
-  - Éric: move up on the agenda to leverage Robert's participation if necessary
   
-* Sentence to add to the "IESG Statement on Clarifying the Use of BCP 14 Key Words" regarding normative language in diagrams (Paul)
-https://docs.google.com/document/d/1yDPSf2kfln29aH_lCHkyFuFpgLNmc3lJVNacjKE8JDQ/edit?usp=sharing
 
-* Next steps on "IESG Statement on Maximizing Encrypted Access To  IETF Information" (Paul)
-https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing
-
-* Question on private appeal responses (Paul)
 
 ### WG News 
 
@@ -87,7 +67,11 @@ https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
+* Sentence to add to the "IESG Statement on Clarifying the Use of BCP 14 Key Words" regarding normative language in diagrams (Paul)
+https://docs.google.com/document/d/1yDPSf2kfln29aH_lCHkyFuFpgLNmc3lJVNacjKE8JDQ/edit?usp=sharing
 
+* Next steps on "IESG Statement on Maximizing Encrypted Access To  IETF Information" (Paul)
+https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing
 
 
 ### Topics Deferred Till Next Informal 
