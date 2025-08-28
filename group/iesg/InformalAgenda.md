@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-28T13:40:49.082Z
+date: 2025-08-28T13:46:52.524Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,18 +54,21 @@ Note that this page is public.
 
 ### Management Issues
 
-* About [Blocking I-D submission once approved](https://github.com/ietf-tools/datatracker/issues/6036) datatracker issue dated 2023... Does the IESG still want to block submissions (as RPC starts working on I-D already in EDIT state). Jean Mahoney and Robert Sparks to join so should be first item (Éric V as tools team liaison)
+* About [Blocking I-D submission once approved](https://github.com/ietf-tools/datatracker/issues/6036) datatracker issue dated 2023... Does the IESG still want to block submissions (as RPC starts working on I-D already in EDIT state). 
+  - Jean Mahoney and Robert Sparks to join so should be first item (Éric V as tools team liaison)
 
+* Discussion on use of Datatracker state change (+ announcement) for WG adoption and LC process (Ketan)
+  - Communication & discussion required in the WG chairs forum to get feedback
+  - Éric: we should probably leverage Robert's participation early in the call for this item
+ 
+* [Submitting appeals via the Datatracker](https://docs.google.com/document/d/1jVvUg7bls7K8x8sOqYzzJ2aBfwxXZcQra1alVdWHPV0/edit?usp=sharing) (Cindy, Andy, Ketan, Paul)
+  - Éric: move up on the agenda to leverage Robert's participation if necessary
+  
 * Sentence to add to the "IESG Statement on Clarifying the Use of BCP 14 Key Words" regarding normative language in diagrams (Paul)
 https://docs.google.com/document/d/1yDPSf2kfln29aH_lCHkyFuFpgLNmc3lJVNacjKE8JDQ/edit?usp=sharing
 
 * Next steps on "IESG Statement on Maximizing Encrypted Access To  IETF Information" (Paul)
 https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing
-
-* Discussion on use of Datatracker state change (+ announcement) for WG adoption and LC process (Ketan)
-  - Communication & discussion required in the WG chairs forum to get feedback
-  
-* [Submitting appeals via the Datatracker](https://docs.google.com/document/d/1jVvUg7bls7K8x8sOqYzzJ2aBfwxXZcQra1alVdWHPV0/edit?usp=sharing) (Cindy, Andy, Ketan, Paul)
 
 * Question on private appeal responses (Paul)
 
