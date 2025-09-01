@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-09-01T10:36:43.005Z
+date: 2025-09-01T10:38:51.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -756,7 +756,7 @@ DRIP’s goal is to specify how RID can be made trustworthy and available in bot
 
 The working group will primarily leverage Internet standards (including HIP, EPP, RDAP, and DNS) and infrastructure as well as domain name registration business models. The WG will track and align with the requirements being developed by regulatory authorities, e.g., the International Civil Aviation Organization the European Union Aviation Safety Agency (EASA) delegated and implementing regulations, and the US Federal Aviation Administration (US FAA).
 
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3412-u-space
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3411-u-space
 
 ### 3.4.12 Circular economy and sustainability
 Editor's note: No specific work identified in the IETF or IRTF
