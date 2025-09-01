@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-08-26T15:53:28.697Z
+date: 2025-09-01T19:15:49.318Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -26,13 +26,12 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
-| 2025-08-26 | draft-mirsky-mpls-stamp | In progress | No |  | Tony |
 
 ## In Adoption Poll
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-
+| draft-mirsky-mpls-stamp | 2025-09-15 | IPR poll complete | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
 
