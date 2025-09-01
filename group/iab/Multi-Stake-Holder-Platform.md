@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2025-08-19T13:03:33.683Z
+date: 2025-09-01T10:36:43.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -474,6 +474,7 @@ To programmatically install, update, and delete applications in a TEE, he [Trust
 
 The [Supply Chain Integrity, Tranparency, and Trust (scitt)](https://datatracker.ietf.org/wg/scitt/about/) Working Group works to define a set of interoperable building blocks that will allow implementers to build integrity and accountability into software supply chain systems to help assure trustworthy operation. For example, a public computer interface system could report its software composition that can then be compared against known software compositions or certifications for such a device thereby giving confidence that the system is running the software expected and has not been modified, either by attack or accident, in the supply chain.
 
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3112-trusted-and-secure-chips
 
 ### 3.1.13 Internet
 **RP:**
@@ -488,7 +489,7 @@ Action 4: SDOs should consider the conclusions of the 2025 Global Multistakehold
 #### IETF/IAB input to Rolling Plan
 
 
-
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3113-internet
 
 ## 3.2 Societal challenges
 ### 3.2.1 Digital Health, healthy living and ageing
