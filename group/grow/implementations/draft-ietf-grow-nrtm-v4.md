@@ -2,7 +2,7 @@
 title:  Implementations of draft-ietf-grow-nrtm-v4
 description: 
 published: true
-date: 2025-09-02T08:26:53.161Z
+date: 2025-09-02T09:41:40.703Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T16:04:21.194Z
@@ -22,7 +22,7 @@ The following versions of IRR software have reported to have implemented [draft-
 |[IRRD](https://github.com/irrdnet/irrd/) |	4.5 (unreleased) | Sasha Romijn |
 |RIPE NCC Whois 	| 1.115.1 (released)  | Ed Shryane |
 |[nrtm4-validator](https://github.com/mxsasha/nrtm4-validator/) | 0.1.0 (released) | Sasha Romijn
-| Deutsche Telekom [nrtm4-client](https://github.com/telekom/nrtm4-client) | 0.2.1 (released) | Fedor Vompe
+| Deutsche Telekom [nrtm4-client](https://github.com/telekom/nrtm4-client) | 0.2.2 (released) | Fedor Vompe
 |[nrtm4tools](https://github.com/petchells/nrtm4tools) | unreleased | Paul Etchells
 
 ## Implemented Features 
