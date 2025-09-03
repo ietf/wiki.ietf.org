@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-08-04T18:33:56.863Z
+date: 2025-09-03T11:13:14.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -32,15 +32,15 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  3| [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)                  | Ready for WGLC (as per Authors) | 2025-03-11
 |  4| [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework| 2025-01-13
 |  5| [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/) ^Exp^ | Open issues exist                   | 2025-01-13
-|  6| [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist
-|  7| [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/)                                | Open issues exist <br> On the agenda for IETF 122                  | 2025-01-13
+|  6| [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist <br> On the agenda for IETF 123 | 2025-09-03
+|  7| [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/) ^Exp^ | Open issues exist | 2025-09-03
 |  8| [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) | Open issues exist                   | 2025-03-11
 |  9| [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/)                      | No open issues; Wait for other relevant documents to mature and revisit if any updates are necessary|2025-01-13
-| 10| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Open issues exist (issues tracked in the document)| 2025-03-11
+| 10| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) ^Exp^ | Open issues exist (issues tracked in the document) | 2025-09-03
 | 11| [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/)| Open issues exist | 2025-02-06
 | 12| [draft-ietf-teas-rfc8776-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rfc8776-update/) ^YDR^ | WGLC Done - Get ready for publication request | 2025-03-11
 | 13| [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/) ^Exp,^ ^YDR^           | No open issues; Editorial cleanup pending; <br> Ver 14 will be ready for WGLC (as per authors)| 2025-01-13
-| 14| [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^YDR^          | Gated by progress of other YANG models| 2025-01-13
+| 14| [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^Exp,^ ^YDR^          | Gated by progress of other YANG models| 2025-09-03
 | 15| [draft-ietf-teas-te-topo-and-tunnel-modeling](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topo-and-tunnel-modeling/) ^Exp^  | Open issues exist                   | 2025-01-13
 | 16| [draft-ietf-teas-te-topology-profiles](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topology-profiles/)                      | Open issues exist                   | 2025-01-13
 | 17| [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/) ^Exp,^ ^YDR^                   | WGLC Done - Issues raised           | 2025-01-13
@@ -52,14 +52,14 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 23| [draft-ietf-teas-yang-te-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2025-01-13
 | 24| [draft-ietf-teas-yang-te-mpls-topology](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls-topology/)                             | Open issues exist                   | 2025-01-13
 | 25| [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter)                       | Open issues exist                   | 2025-01-13
+| 26 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist                   | 2025-09-03
 
 ## Candidates for WG adoption (in no particular order)
-
+ 
 |No.| Draft | Notes | Updated
 |---|-------|-------|---------
-|  1| [draft-poidt-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-poidt-teas-actn-poi-assurance/)                       | Call For Adoption By WG Issued | 2025-06-24
-|  2| [draft-atkinson-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-atkinson-teas-rsvp-auth-v2/)                             | Under chairs' consideration | 2025-01-13
-|  3| [draft-li-teas-composite-network-slices](https://datatracker.ietf.org/doc/html/draft-li-teas-composite-network-slices) | Under chairs' consideration | 2025-03-11
+| 1 | [draft-atkinson-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-atkinson-teas-rsvp-auth-v2/) <br> [draft-atkinson-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-atkinson-teas-rsvp-hmac-sha2/) | Under chairs' consideration | 2025-09-03
+| 2 | [draft-li-teas-composite-network-slices](https://datatracker.ietf.org/doc/html/draft-li-teas-composit-network-slices) | Under chairs' consideration | 2025-03-11
 
 ## Open informal meetings (driven by authors and contributors)
 
