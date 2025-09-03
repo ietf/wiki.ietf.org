@@ -155,7 +155,8 @@ the vote reverts to the Normal Process.
 
 Unanimous results should be strongly preferred in votes using an alternative
 process. Particularly, if the vote is run on a shortened timeline (such as
-having less than a week of advanced notice), unanimity should be required.
+having less than a week of advanced notice), unanimity from those who respond
+should be required.
 
 Note that any alternative process still needs to follow the rules in Section
 3.5 of RFC 2850.
