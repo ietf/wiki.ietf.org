@@ -65,7 +65,7 @@ typically follow this process to conduct a vote:
    by the IAB.
 
 2. Ensure that all IAB members have an opportunity to discuss the topic or
-   question in some meeting of the IAB.
+   question in a scheduled meeting of the IAB.
 
 3. Formally start the vote, following the discussion(s).
 
@@ -111,7 +111,8 @@ attend a meeting will not delay being able to hold the vote, as long as meeting
 opportunities were provided.
 
 Any meeting on which a vote is discussed needs to either be a regularly scheduled
-meeting, or be an extraordinary meeting scheduled at least a week in advance.
+meeting that is on the calendar well ahead of time, or be an extraordinary meeting
+scheduled at least a week in advance.
 
 Discussions in meetings need to follow a regular procedure for adding agenda items
 to the meeting. Voting discussions should be added to a meeting agenda at least
