@@ -2,20 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-03T20:59:47.491Z
+date: 2025-09-03T22:13:47.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-09-03, 21:00-22:00 UTC)
+# IAB Informal Meeting Agenda: 2025-09-10, 14:00-15:00 UTC)
 
-## There WILL be a meeting on 2025-09-03
+## There WILL be a meeting on 2025-09-10
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
-
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8174aa46909b8b0ea4c30bb01270fd8b
 
 
 ## Agenda
@@ -23,17 +22,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. RSS-GWG Liaison Report
-[Github issue](https://github.com/intarchboard/responsibilities/issues/69)
-Additional context: 
-- [ICANN Public Comment](https://www.icann.org/en/public-comment/proceeding/functional-model-for-root-server-system-governance-11-08-2025) - Deadline for public comments: 22 September 2025  23:59 UTC
-- [Governance Principles for the Root Server System](https://www.icann.org/en/system/files/files/governance-principles-root-server-system-08aug25-en.pdf)
-- [The Root Server System Governance Structure](https://itp.cdn.icann.org/en/files/policy-development/root-server-system-governance-structure-pub-comment-11-08-2025-en.pdf)
-
-
-
-
-### 2. Liaison-Related Topics
+### 1. Liaison-Related Topics (Liaison Coordinators)
 
 - Can/should we have the liaison social hour on a yearly basis?        
 - Let's invite the ICANN board liaison also at least once a year to an IAB breakfast 
@@ -41,23 +30,20 @@ Additional context:
 - RFC3113bis update discussion (Suresh & Mirja)
 
 
+### 2. ISOC Coordination (Mirja)
 
-
+- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
 
 
 ## Regrets
-- Dhruv
-- Alvaro
-- Dirk
-- Jason
-- Matthew
+
 
 
 
 ## Topics for Future Informal Meetings
 
 
-- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
+
 
 ## Upcoming Formal IAB Business Meetings
 
