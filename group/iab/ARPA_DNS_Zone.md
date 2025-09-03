@@ -2,7 +2,7 @@
 title: ARPA DNS Zone
 description: 
 published: true
-date: 2025-06-04T04:53:11.953Z
+date: 2025-09-03T15:06:25.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:34:58.648Z
@@ -34,10 +34,13 @@ After the document is approved for publication as an RFC, IANA starts the proces
 * Others will be subdomains that deliberately blackhole requests (eg ''home.arpa'')
 * .arpa is a DNSSEC signed zones, and subzones should be encouraged to sign as well (placing a DS record in the .arpa zone pointing to the sub-zones keys)
 
+## Tools
+* [wkumari/dnssec_make_ds.sh](https://gist.github.com/wkumari/ec436c717edd2760ddfe1d8a71281a8d)
+
 &nbsp;
 &nbsp;
 &nbsp;
 
 ---
 
-*The content of this page was last updated on 2020-06-11. It was migrated from the old IAB wiki on 2023-12-04.*
+*The content of this page was last updated on 2025-09-03. It was migrated from the old IAB wiki on 2023-12-04.*
