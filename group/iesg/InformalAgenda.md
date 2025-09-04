@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-04T15:04:35.103Z
+date: 2025-09-04T15:13:57.729Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,8 +48,8 @@ Note that this page is public.
 
 ### Management Issues
 
-IESG review required for draft-editorial-rswg-rfc9280-updates-04 (from Eliot)
-  
+* IESG review required for draft-editorial-rswg-rfc9280-updates-04 (from Eliot)
+* Discuss IESG statement on appeals (andy).
 
 
 ### WG News 
