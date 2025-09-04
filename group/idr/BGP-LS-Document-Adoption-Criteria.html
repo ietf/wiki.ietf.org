@@ -1,0 +1,35 @@
+<!--
+title: BGP-LS Document Adoption Critieria
+description: 
+published: true
+date: 2025-09-04T18:10:58.324Z
+tags: 
+editor: ckeditor
+dateCreated: 2025-09-04T18:10:58.324Z
+-->
+
+<h1>BGP-LS Documentation Adoption Criteria</h1>
+<p>BGP-LS (RFC9552) supports a wide variety of use cases. &nbsp;Work on BGP-LS typically involves adding either NLRI types or BGP-LS Attribute properties for the following use cases:</p>
+<p><strong>General-purpose:</strong></p>
+<ul>
+  <li>Core BGP-LS functionality covering the protocol, route distribution, or similar common procedures.</li>
+  <li>BGP “generic” functionality that is broadly applicable to a number of use cases.</li>
+</ul>
+<p><strong>Application-specific:</strong></p>
+<ul>
+  <li>Mapping link-state protocol mechanisms into a form that can be distributed by BGP-LS. &nbsp;This typically covers work standardized in the <strong>LSR</strong> working group.</li>
+  <li>Supporting Segment Routing use cases standardized in the <strong>SPRING</strong> working group.</li>
+  <li>Support for the Link-State Vector Routing use cases. This work is typically done in the <strong>LSVR</strong> working group.</li>
+</ul>
+<p>Work covering general-purpose use cases for BGP-LS will be done in the IDR working group and is expected to require no specific coordination with other working groups.</p>
+<h2>Adoption Criteria</h2>
+<p>For application-specific cases, there are additional requirements:</p>
+<ul>
+  <li>LSVR extensions are standardized in the LSVR working group, and may be additionally reviewed by IDR when LSVR use cases impact more general-purpose BGP-LS activities.</li>
+  <li>For link-state related features typically standardized in LSR, IDR will adopt work that has either an RFC, or adopted internet-drafts in the LSR working group. &nbsp;Such work will be reviewed with LSR but will progress in IDR. &nbsp;Last call for such documents will be done in IDR &nbsp;notifying LSR.</li>
+  <li>For segment routing related features, SPRING does not do routing protocol work. &nbsp;For features and use cases typically standardized in SPRING, IDR will adopt work where the use cases in SPRING have advanced sufficiently to justify protocol encodings. &nbsp;Such work will be reviewed with SPRING. &nbsp;Last call for such documents will be done in IDR notifying SPRING.</li>
+</ul>
+<h2>IETF Meeting Presentation Criteria</h2>
+<p>General-purpose BGP-LS features and use cases are always in-scope for IETF presentations.</p>
+<p>Application-specific BGP-LS features and use cases should have progressed through initial discussion stages in their relevant technology working groups prior to being presented in IDR. &nbsp;The motivation for this criteria is the relevant expertise for reviewing such use cases does not necessarily exist in IDR and is not followed by IDR's general membership. &nbsp;Once the use cases are appropriately understood and partially specified for that technology, the expertise of IDR's membership can be used to help specify and review the BGP-LS encodings for that technology.</p>
+<p>Presentations for new application-specific proposals that haven't had review by their technology working group <i>are strongly discouraged</i> from being given in IDR during the same IETF when the use case is presented for the application-specific technology the first time. &nbsp;Strong cross-working group mailing list discussion is a good reason to relax this restriction.</p>
