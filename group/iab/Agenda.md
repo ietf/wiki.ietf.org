@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-05T06:29:51.193Z
+date: 2025-09-05T21:10:43.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -42,7 +42,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - Deadline for written submission is 26th Sept.  
 
 ## Regrets
-
+ Deb Cooley
 
 
 
