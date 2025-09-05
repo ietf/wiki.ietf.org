@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-03T22:13:47.839Z
+date: 2025-09-05T06:29:51.193Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,6 +34,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
 
+
+### 3. WSIS+20 Zero Draft 
+
+- The [zero draft](https://publicadministration.desa.un.org/sites/default/files/2021-04/2025/WSIS%2B20_ZERO_DRAFT.pdf) is published. The IAB might want to respond 
+- [Initial Draft](https://docs.google.com/document/d/10Qq7-4gYv6ISPTIzBBpMNkmkpnKtSVI5DucOo3Mp5ww/edit?usp=sharing), pen holder - Dhruv 
+- Deadline for written submission is 26th Sept.  
 
 ## Regrets
 
