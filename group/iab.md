@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-08-27T11:40:59.401Z
+date: 2025-09-05T15:33:12.120Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -32,8 +32,10 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [EODIR liaison](/group/iab/EODIR_Liaison)
 
 
-## Liaison Descriptions
-
+## Liaison Coordination
+* [Important resources and links](/group/iab/liaison_resources)
+* See also [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
+#### Additional Infos on (some) Liaison Relationships
 * [Broadband Forum (BBF) liaison relationship](/group/iab/BBF_liaison_relationship)
 * [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)
