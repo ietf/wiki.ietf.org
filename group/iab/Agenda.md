@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-05T21:10:43.614Z
+date: 2025-09-08T16:42:12.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -43,6 +43,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Regrets
  Deb Cooley
+ Tommy Pauly
 
 
 
