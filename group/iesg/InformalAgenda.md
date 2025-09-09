@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-09T15:34:12.393Z
+date: 2025-09-09T20:05:00.587Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,9 +49,10 @@ Note that this page is public.
 
 ### Management Issues
 
-* IESG review required for draft-editorial-rswg-rfc9280-updates-04 (from Eliot)
-* Discuss IESG statement on appeals (andy).
+* IESG review required for [draft-editorial-rswg-rfc9280-updates](https://datatracker.ietf.org/doc/draft-editorial-rswg-rfc9280-updates/) (Roman)
+* Discuss [IESG statement on Appeal Norms](https://docs.google.com/document/d/12wK_kJ2aJ2mGLslrTmd_APzUpqJa43b82PRFMJh2ncI/edit?tab=t.0) (Andy).
 * LLC Clarifications (as reminded by Francesca) (Paul)
+* Revised [Note Well](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit) (Roman)
 
 ### WG News 
 
