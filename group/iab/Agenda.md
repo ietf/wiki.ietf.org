@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-09T20:45:56.403Z
+date: 2025-09-09T21:05:32.256Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -63,6 +63,8 @@ See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
 - 2025-09-24: IAB Business Meeting
     - ISE Selection Process
+    - NomCom info for IAB confirming IESG
+    - Decision process
 - 2025-10-22: IAB Business Meeting (Reserved)
 
 -- 2025-11-01 - 2025-11-07: IETF 124 Montreal --
