@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-08T16:42:12.745Z
+date: 2025-09-09T16:26:08.100Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,6 +40,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - The [zero draft](https://publicadministration.desa.un.org/sites/default/files/2021-04/2025/WSIS%2B20_ZERO_DRAFT.pdf) is published. The IAB might want to respond 
 - [Initial Draft](https://docs.google.com/document/d/10Qq7-4gYv6ISPTIzBBpMNkmkpnKtSVI5DucOo3Mp5ww/edit?usp=sharing), pen holder - Dhruv 
 - Deadline for written submission is 26th Sept.  
+
+### 4. Review of the ICANN Public Comment on Functional Model for Root Server System Governance
+
+- A reminder to review the [IAB Response to the ICANN Public Comment on Functional Model for Root Server System Governance](https://docs.google.com/document/d/1xsU_mQGCmcvci_CV9SIfvRzc1CCKTn_ZqJQekvGGNmY/edit?usp=sharing) 
 
 ## Regrets
  Deb Cooley
