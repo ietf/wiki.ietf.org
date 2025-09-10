@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-09T21:05:32.256Z
+date: 2025-09-10T16:08:42.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-09-10, 14:00-15:00 UTC)
+# IAB Informal Meeting Agenda: 2025-09-17, 21:00-2:00 UTC)
 
-## There WILL be a meeting on 2025-09-10
+## There WILL be a meeting on 2025-09-17
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8174aa46909b8b0ea4c30bb01270fd8b
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
 
 
 ## Agenda
@@ -22,33 +22,27 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Liaison-Related Topics (Liaison Coordinators)
+### 1. Review of the ICANN Public Comment on Functional Model for Root Server System Governance
 
-- Can/should we have the liaison social hour on a yearly basis?        
-- Let's invite the ICANN board liaison also at least once a year to an IAB breakfast 
-- Handling of ITU-T Standards Landscape database (see https://github.com/intarchboard/responsibilities/issues/68)
-- RFC3113bis update discussion (Suresh & Mirja)
+- A reminder to review the [IAB Response to the ICANN Public Comment on Functional Model for Root Server System Governance](https://docs.google.com/document/d/1xsU_mQGCmcvci_CV9SIfvRzc1CCKTn_ZqJQekvGGNmY/edit?usp=sharing) 
 
 
-### 2. ISOC Coordination (Mirja)
-
-- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
-
-
-### 3. WSIS+20 Zero Draft 
+### 2. WSIS+20 Zero Draft 
 
 - The [zero draft](https://publicadministration.desa.un.org/sites/default/files/2021-04/2025/WSIS%2B20_ZERO_DRAFT.pdf) is published. The IAB might want to respond 
 - [Initial Draft](https://docs.google.com/document/d/10Qq7-4gYv6ISPTIzBBpMNkmkpnKtSVI5DucOo3Mp5ww/edit?usp=sharing), pen holder - Dhruv 
 - Deadline for written submission is 26th Sept.  
 
-### 4. Review of the ICANN Public Comment on Functional Model for Root Server System Governance
 
-- A reminder to review the [IAB Response to the ICANN Public Comment on Functional Model for Root Server System Governance](https://docs.google.com/document/d/1xsU_mQGCmcvci_CV9SIfvRzc1CCKTn_ZqJQekvGGNmY/edit?usp=sharing) 
+### 3. ISOC Coordination (Mirja)
+
+- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
+
+
+
 
 ## Regrets
- Deb Cooley
- Tommy Pauly
- Roman
+ 
 
 
 
