@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-09-10T10:12:16.906Z
+date: 2025-09-10T10:12:46.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -33,9 +33,9 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 ### Past 
 #### IETF 123 - Madrid
-* DT
-* IX.br
-* MTS Web service
+* DT, Nils
+* IX.br, Fabio
+* MTS Web service Boris
 
 #### IETF 122 - Bangkok
 * Turkcell, Mehmet Durmus
