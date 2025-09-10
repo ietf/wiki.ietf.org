@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-10T16:54:31.511Z
+date: 2025-09-10T16:58:12.956Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -53,6 +53,7 @@ Note that this page is public.
 * Discuss [IESG statement on Appeal Norms](https://docs.google.com/document/d/12wK_kJ2aJ2mGLslrTmd_APzUpqJa43b82PRFMJh2ncI/edit?tab=t.0) (Andy).
 * LLC Clarifications (as reminded by Francesca) (Paul)
 * Revised [Note Well](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit) (Roman)
+* Guidance/Direction to Open Source Routing community for their meeting at IETF 124 (Ketan)
 
 ### WG News 
 * Looking for IESG guidance (Ketan)
