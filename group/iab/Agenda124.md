@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-09-11T20:43:32.254Z
+date: 2025-09-11T20:45:22.094Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -47,9 +47,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 14:00-16:00 - Either IAB or IESG Meeting (Room: TBD)
 
+### Evening Meeting Events
 
-> Evening meeting events:
-> 
 > **New Participant's Quick Connections** 16:00-17:00
 >   Room: TBD
 > **Welcome Reception** 17:00-19:00
@@ -90,8 +89,8 @@ Room and exact time TBD
 > 1. 
 
 
-> Non-required event:
-> 
+### Non-required events:
+
 > **New Participants' Social Hour** Time: TBD
 > Opportunity to socialize with new participants and hear how their meeting week has been
 {.is-info}
