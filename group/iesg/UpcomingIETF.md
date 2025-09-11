@@ -2,61 +2,56 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-07-25T06:41:12.362Z
+date: 2025-09-11T19:10:56.740Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
 ---
 
-# IETF 123 - Madrid, Spain
+# IETF 124 - Montréal, Canada
 This is scratch space for the upcoming IETF meeting; it *will* be cleared afterwards and reused for the next meeting. 
 
 *(for easy reference: the [main Meeting Agenda](https://datatracker.ietf.org/meeting/agenda/))*
 
 # Candidate Meeting Topics
-Please add any topics for either IESG only meetings at IETF 123, or the joint meetings with the IAB.
+Please add any topics for either IESG only meetings at IETF 124, or the joint meetings with the IAB.
 
 ## IESG-only
 
 
 # IESG Activities
-*All times are in UTC+2.* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
+*All times are in UTC-5.* Go [here to see the reservations for the IESG Breakout Room](#IESGBreakoutRoom).
 
-## Saturday, July 19, 2025
+## Saturday, November 1, 2025
 
-**Hackathon**
+> Not-required activities:
+> - **Hackathon**, 09:30-21:00
+>   Room TBD
+> - **Code Sprint**, 10:00-18:00
+>   Room TBD
+{.is-warning}
 
-09:30-21:00 - Room: El Prado
 
-**Code Sprint**
 
-10:00-18:00 - Room: Segovia
- 
+**AMS-IETF Leadership Venue Tour & Happy Hour**
+The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
+**Tour:** Around 16:30 (exact time TBD)
+**Happy Hour:** Starts at the end of the tour, approx. 16:45-18:00 (exact details TBD)
 
-**AMS-IETF Leadership Venue Tour**
 
-Time: 1630
-Location: Start at registration counter (Hospitality Hall, Main Floor) 
+## Sunday, November 2, 2025
 
-**AMS-IETF Leadership Happy Hour**
+> Not-required activity:
+>  - **Hackathon**, 09:30-16:00
+>     Room TBD
 
-Time: After venue tour (16:50)-18:00
-Location: L'albufera (the hotel restaurant)
-What: A hangout with other ADs, IAB, LLC, Secretariat, etc.
+### 09:30-11:00 - Either IAB or IESG Meeting
 
-## Sunday, July 20, 2025
+### 11:45-12:15 - Joint IAB/IESG Lunch 
 
- **Hackathon**
- Sunday 09:30-16:00 - Room: Los Tapices
-  
+### 12:15-13:45 - Joint IESG/IAB Meeting 
 
-### 0930 - 1130: IAB Meeting
 
-### Joint IAB/IESG Lunch - 11:45-12:15 Room: El Escorial
-
-### Joint IESG/IAB Meeting - 12:15-13:45 Room: El Escorial
-
-* Meetecho: https://meetings.conf.meetecho.com/ietf123/?session=1001
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: SEC, OPS, IRTF, RTG, IAB, ART, WIT, INT, GEN
