@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-09-11T19:54:52.384Z
+date: 2025-09-11T19:57:44.327Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -135,6 +135,8 @@ Location: TBD
 Conference style for 16
 
 This room is available for anyone on the IESG, for AD office hours or any meetings with individuals or small groups. The LLC has asked that we track general categories of usage for this room. Please include your name so we know who is responsible for each meeting.
+
+If you would like your meeting to be added to the main meeting agenda, please email support or ask Liz directly!
 
 ## Sunday, November 1, 2025
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
