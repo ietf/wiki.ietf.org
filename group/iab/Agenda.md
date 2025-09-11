@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-10T16:08:42.978Z
+date: 2025-09-11T12:20:13.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,6 +39,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
 
 
+### 4. Supporting Information to be provided to the IAB by the NomCom (Alvaro)
+
+Please review the [document](https://docs.google.com/document/d/1y4lPp5w722iC-Jo5hmjBhYlaj0IjjxuL2sJaauH1iPs/edit?usp=sharing) and share your comments. I would like us to finalize the text by our formal meeting on the 24th.
 
 
 ## Regrets
