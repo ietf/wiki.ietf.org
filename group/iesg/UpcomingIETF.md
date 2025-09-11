@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-09-11T19:10:56.740Z
+date: 2025-09-11T19:15:52.001Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -25,18 +25,20 @@ Please add any topics for either IESG only meetings at IETF 124, or the joint me
 ## Saturday, November 1, 2025
 
 > Not-required activities:
-> - **Hackathon**, 09:30-21:00
+>  **Hackathon**, 09:30-21:00
 >   Room TBD
-> - **Code Sprint**, 10:00-18:00
+>  **Code Sprint**, 10:00-18:00
 >   Room TBD
-{.is-warning}
+{.is-info}
 
 
 
-**AMS-IETF Leadership Venue Tour & Happy Hour**
-The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
-**Tour:** Around 16:30 (exact time TBD)
-**Happy Hour:** Starts at the end of the tour, approx. 16:45-18:00 (exact details TBD)
+> **AMS-IETF Leadership Venue Tour & Happy Hour**
+> The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
+> **Tour:** Around 16:30 (exact time TBD)
+> **Happy Hour:** Starts at the end of the tour, approx. 16:45-18:00 (exact details TBD)
+{.is-success}
+
 
 
 ## Sunday, November 2, 2025
