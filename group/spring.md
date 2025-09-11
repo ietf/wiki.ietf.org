@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-09-11T20:57:40.663Z
+date: 2025-09-11T21:11:36.314Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -68,9 +68,6 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-chen-spring-sr-policy-cp-validity
   * 2024-07-26 (IETF 120) Authors sent request 
   * https://datatracker.ietf.org/doc/draft-chen-spring-sr-policy-cp-validity/
-* draft-dong-spring-srv6-inter-layer-programming
-  * 2024-07-26 (IETF 120) Authors sent request
-  * https://datatracker.ietf.org/doc/draft-dong-spring-srv6-inter-layer-programming
 * draft-ali-spring-srv6-policy-sid-list-optimization
   * 2025-07-25 (IETF 123) Authors sent request
   * https://datatracker.ietf.org/doc/draft-ali-spring-srv6-policy-sid-list-optimization/
