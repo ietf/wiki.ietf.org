@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-09-11T20:42:40.904Z
+date: 2025-09-11T20:43:32.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -97,14 +97,14 @@ Room and exact time TBD
 {.is-info}
 
 
-## Friday, 2025-11-07 (Room: TBD)
+## Friday, 2025-11-07 
 
 ### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Room: TBD)
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 
 
-### 16:45-17:45: Farewell Reception (Room: TBD)**
+### 16:45-17:45: Farewell Reception (Room: TBD)
 
 
 
