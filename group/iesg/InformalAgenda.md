@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-10T23:37:03.273Z
+date: 2025-09-11T05:10:00.847Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -78,6 +78,7 @@ https://docs.google.com/document/d/1yDPSf2kfln29aH_lCHkyFuFpgLNmc3lJVNacjKE8JDQ/
 * Next steps on "IESG Statement on Maximizing Encrypted Access To  IETF Information" (Paul)
 https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing
 
+* Chartering and BoF feedback follow-up for WebBotAuth
 
 ### Topics Deferred Till Next Informal 
 * For sometime in September: Discuss kramdown-rfc support (was raised at IETF 123 Sunday meeting)
