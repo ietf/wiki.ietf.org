@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-09-11T20:41:51.636Z
+date: 2025-09-11T20:42:40.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -37,12 +37,6 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > PLEASE NOTE: Canada changes from Daylight Savings Time to Standard Time overnight at 02:00 on Sunday 2 Nov. Please double check your calendars!
 {.is-warning}
 
-
-> Not-required activity:
-> 
->   **Hackathon**, 09:30-16:00
->     Room TBD
-{.is-info}
 
 
 ### 09:30-11:00 - Either IAB or IESG Meeting (Room: TBD)
