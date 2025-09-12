@@ -2,13 +2,13 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-11T12:20:13.526Z
+date: 2025-09-12T19:06:12.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-09-17, 21:00-2:00 UTC)
+# IAB Informal Meeting Agenda: 2025-09-17, 21:00-22:00 UTC)
 
 ## There WILL be a meeting on 2025-09-17
 
