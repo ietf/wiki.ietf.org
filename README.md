@@ -21,5 +21,5 @@ The other IETF websites where relevant information can be found are:
 - [datatracker.ietf.org](https://datatracker.ietf.org) The day-to-day front-end to the IETF database for people who work on IETF standards.
 - [mailarchive.ietf.org](https://mailarchive.ietf.org): A searchable repository for all IETF mailing lists.
 - [authors.ietf.org](https://authors.ietf.org): The Internet-Draft/RFC author resources site.
-- [chairs.ietf.org](https://chairs.ietf.org): The IETF Working Group resources site
-- [rfc-editor.org](https://rfc-editor.org): The authoritative site for RFCs and the publication process
+- [chairs.ietf.org](https://chairs.ietf.org): The IETF Working Group resources site.
+- [rfc-editor.org](https://rfc-editor.org): The authoritative site for RFCs and the publication process.
