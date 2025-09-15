@@ -17,7 +17,7 @@ This wiki should not be used for content that should be on any of the other dedi
 See these other ietf.org sites:
 
 The other IETF websites where relevant information can be found are:
-- [www.ietf.org]((https://www.ietf.org): The public-facing front door for the IETF.
+- [www.ietf.org](https://www.ietf.org): The public-facing front door for the IETF.
 - [datatracker.ietf.org](https://datatracker.ietf.org) The day-to-day front-end to the IETF database for people who work on IETF standards.
 - [mailarchive.ietf.org](https://mailarchive.ietf.org): A searchable repository for all IETF mailing lists.
 - [authors.ietf.org](https://authors.ietf.org): The Internet-Draft/RFC author resources site.
