@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-08-22T00:19:39.026Z
+date: 2025-09-15T17:52:39.131Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -16,7 +16,7 @@ The [IETF Note Well](https://www.ietf.org/about/note-well/) applies to all conte
 
 # Scope
 
-This wiki provides persistent working spaces for various IETF groups (such as Working Groups, Birds-of-a-Feather groups, Areas, Directorates, and Teams) and activities, such as IETF meetings.
+This wiki provides persistent working spaces for various IETF groups (such as Working Groups, Birds-of-a-Feather groups, Areas, Directorates, and Teams) and activities, such as IETF meetings. Not all IETF groups have pages on this wiki. The [IETF Datatracker](https://datatracker.ietf.org) is the best source of official information.
 
 This wiki should not be used for content that should be on any of the other dedicated IETF sites.  For example the following are out of scope:
 * Explanatory/general text about the IETF.
