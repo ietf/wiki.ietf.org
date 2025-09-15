@@ -17,9 +17,9 @@ This wiki should not be used for content that should be on any of the other dedi
 See these other ietf.org sites:
 
 The other IETF websites where relevant information can be found are:
-- [www.ietf.org *The public-facing front door for the IETF.*](https://www.ietf.org)
-- [datatracker.ietf.org *The day-to-day front-end to the IETF database for people who work on IETF standards.*](https://datatracker.ietf.org)
-- [mailarchive.ietf.org *A searchable repository for all IETF mailing lists.*](https://mailarchive.ietf.org)
-- [authors.ietf.org *The Internet-Draft/RFC author resources site*](https://authors.ietf.org)
-- [chairs.ietf.org *The IETF Working Group resources site*](https://chairs.ietf.org)
-- [rfc-editor.org *The authoritative site for RFCs and the publication process*](https://rfc-editor.org)
+- [www.ietf.org]((https://www.ietf.org): The public-facing front door for the IETF.
+- [datatracker.ietf.org](https://datatracker.ietf.org) The day-to-day front-end to the IETF database for people who work on IETF standards.
+- [mailarchive.ietf.org](https://mailarchive.ietf.org): A searchable repository for all IETF mailing lists.
+- [authors.ietf.org](https://authors.ietf.org): The Internet-Draft/RFC author resources site.
+- [chairs.ietf.org](https://chairs.ietf.org): The IETF Working Group resources site
+- [rfc-editor.org](https://rfc-editor.org): The authoritative site for RFCs and the publication process
