@@ -2,7 +2,7 @@
 title: Status of Experimental RFC and WG documents
 description: Experimental RFC-Docs 
 published: true
-date: 2025-09-15T19:29:54.003Z
+date: 2025-09-15T19:30:08.293Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-20T21:17:58.113Z
@@ -33,7 +33,7 @@ CAR (discussion here)
 
 
 ## CT 
-**RFC**: RFC 9832
+**RFC**: RFC9832
 State: Experimental 
 **Status:** Published
 **implementations:** 2
