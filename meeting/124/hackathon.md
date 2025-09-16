@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-08-28T05:22:42.644Z
+date: 2025-09-16T19:15:42.789Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -193,6 +193,16 @@ Space communications have large delays (2 secs one-way delay to Moon, 4-22 mins 
 - ** Project Info **
 
 We will be broadcasting two SSID on the hackathon wireless network: ietf-moon which will inject a 2 seconds one-way delay and ietf-mars which will inject a 4 minutes delay. Both will also see intermittence.  Everybody is very welcome to participate and test the network, but make sure to follow the [instructions](https://deepspaceip.github.io/meeting/ietf124/README.md) as typical Internet applications won't work as is in this environment.
+
+---
+### SCONE - Standard Communication with Network Elements
+- **Champions**
+  + Wesley Eddy (wesleyeddy@meta.com)
+  + Matt Joras (mjoras@meta.com)
+  + TBD - more to be added
+
+- **Project Info**
+Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) technology (QUIC client, server, and network element implementations, and applications).
 
 ---
 
