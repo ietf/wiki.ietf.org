@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-08-18T05:42:45.204Z
+date: 2025-09-16T12:24:20.104Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -83,7 +83,6 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Draft | Imp Sec | Manag Sec| State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |---|
-|draft-ietf-pce-circuit-style-pcep-extensions|Y|Y|-09 posted on 2025-06-26|In WGLC (ends 29th Aug 2025); IPR - 3/5 | Dhruv | - |
 | [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| Y| -15 posted on 2025-02-13  | Ready for WGLC | Dhruv | - |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | N | Y| -11 posted on 2025-02-19 | More review requested, IANA early code points allocated | Dhruv | Andrew |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | Y| -11 posted on 2025-07-07 | Ready for WGLC | Dhruv | - |
@@ -101,6 +100,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Authors handled early reviews and WGLC comments| Pending Shepherd review and write up |Dhruv |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Expired | IPR-4/5 1 response from Francesco Lazzeri missing, who is now retired | Julien |
+|draft-ietf-pce-circuit-style-pcep-extensions|-|Pending Shepherd review and write up |Dhruv |
 
 ## Drafts with the IESG
 
