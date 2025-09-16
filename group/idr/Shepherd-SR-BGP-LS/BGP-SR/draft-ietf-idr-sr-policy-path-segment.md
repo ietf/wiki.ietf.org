@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-09-16T20:47:27.647Z
+date: 2025-09-16T20:47:56.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -16,7 +16,7 @@ dateCreated: 2025-02-25T01:30:56.613Z
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  [draft-li-sr-policy-path-segment-01](https://datatracker.ietf.org/doc/draft-li-idr-bgp-ls-sr-policy-path-segment/)
-**current version:** -13
+**current version:** -14
 **Early Allocation**: yes 
 **implementations:** 1 (Huawei in VRP)   
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-path-segment](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)
