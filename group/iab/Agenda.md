@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-16T18:20:20.782Z
+date: 2025-09-17T21:51:35.025Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-09-17, 21:00-22:00 UTC)
+# IAB Formal Meeting Agenda: 2025-09-24, 13:00-15:00 UTC)
 
-## There WILL be a meeting on 2025-09-17
+## There WILL be a meeting on 2025-09-25
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6
 
 
 ## Agenda
@@ -22,22 +22,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Review of the ICANN Public Comment on Functional Model for Root Server System Governance
-
-- A reminder to review the [IAB Response to the ICANN Public Comment on Functional Model for Root Server System Governance](https://docs.google.com/document/d/1xsU_mQGCmcvci_CV9SIfvRzc1CCKTn_ZqJQekvGGNmY/edit?usp=sharing) 
-
-
-### 2. WSIS+20 Zero Draft 
-
-- The [zero draft](https://publicadministration.desa.un.org/sites/default/files/2021-04/2025/WSIS%2B20_ZERO_DRAFT.pdf) is published. The IAB might want to respond 
-- [Initial Draft](https://docs.google.com/document/d/10Qq7-4gYv6ISPTIzBBpMNkmkpnKtSVI5DucOo3Mp5ww/edit?usp=sharing), pen holder - Dhruv 
-- Deadline for written submission is 26th Sept.  
-
-
-### 3. Supporting Information to be provided to the IAB by the NomCom (Alvaro)
-
-Please review the [document](https://docs.google.com/document/d/1y4lPp5w722iC-Jo5hmjBhYlaj0IjjxuL2sJaauH1iPs/edit?usp=sharing) and share your comments. I would like us to finalize the text by our formal meeting on the 24th.
-
+### 1. 
 
 ## Regrets
  
