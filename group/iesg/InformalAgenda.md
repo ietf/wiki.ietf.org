@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-17T22:27:15.721Z
+date: 2025-09-18T12:23:22.343Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -28,7 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-
+* Roman (can only join for the first 25min)
 
 ## Agenda
 
@@ -41,13 +41,14 @@ Note that this page is public.
 
 
 
+
 ### Document Discussions
 
 
 
 ### Management Issues
-
-
+* [2025 Note Well Review](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0)
+* [Review of draft-editorial-rswg-rfc9280-updates](https://docs.google.com/document/d/1O5cgMWFl0nnfXEwCIR7AomKz_LeWbJXlEhom2X3y718/edit?tab=t.0)
 
 ### WG News 
 
