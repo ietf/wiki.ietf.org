@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-17T21:51:35.025Z
+date: 2025-09-18T18:27:43.429Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,7 +22,105 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. 
+### 1. Administrivia (Cindy) - 10 mins (Public)
+
+#### 1.1. Attendance
+
+#### 1.2. Agenda bash and announcements
+
+#### 1.3. Meeting Minutes
+
+For approval
+
+- 2025-08-27 business meeting - (submitted 2025-08-29) 
+
+#### 1.4. IAB Review of New WG Charters
+
+- Secure Evidence and Attestation Layer (seal) (SEC Area)
+    Assigned to: Dhruv Dhody
+    Review sent 2025-09-15
+    Currently in External Review; on IESG agenda for 2025-10-09
+
+- Web Bot Auth (webbotauth) (WIT Area)
+    Assigned to: Jana Iyengar
+    Review sent ?
+    Currently in Internal Review; on IESG agenda for 2025-09-25
+    
+- Operationalizing Network & service abstractIONS (onions) (OPS Area)
+    Assigned to: Alvaro Retana
+    Review sent ?
+    Currently in Internal Review; on IESG agenda for 2025-09-25
+
+
+### 2. Monthly Reports
+
+  - IRTF Chair
+  - IESG Liaison
+  - ICANN Board Liaison
+  - IANA Liaison
+  - IAB Outreach Coordinator
+  - Liaison Coordinators
+
+
+### 3. Independent Submissions Editor Appointment (Cindy)
+
+  Goal: Approve call for nominations messaging, recruit interview team
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/64
+
+
+### 4. Information the IAB needs from NomCom in order to confirm IESG candidates (Alvaro)
+
+  Goal: Approve instructions for NomCom about what the IAB needs in 
+  order to confirm IESG candidates.
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/37
+
+
+### 5. WSIS+20 Zero Draft (Dhruv)
+
+  Goal: Approve IAB input
+
+  Deadline: 2025-09-26
+
+  Doc: https://docs.google.com/document/d/10Qq7-4gYv6ISPTIzBBpMNkmkpnKtSVI5DucOo3Mp5ww/edit?usp=sharing
+
+
+### 6. Opportunity to Sign "Open Letter: Bill C-2 Strong Borders Act"
+
+  Goal: Does the IAB want to sign this open letter?
+
+  Context: https://docs.google.com/document/d/1F8sPeJacri-mpzF1rNaQYPBtqP2T6fr4im178lAZH-8/edit?tab=t.0
+
+
+### 7. Upcoming Workshops
+
+#### 7.1. IAB/W3C Workshop on Age-Based Restrictions on Content Access
+
+  Goal: Status Update
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/38
+
+
+#### 7.2. IAB Workshop on IP Address Geolocation
+
+  Goal: Status Update
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/26
+
+
+### 8. IAB Decision Process (Tommy)
+
+  Goal: Approve updates to IAB decision process
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/2
+
+
+### 9. Review of Open Issues for Responsibilities
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
 
 ## Regrets
  
