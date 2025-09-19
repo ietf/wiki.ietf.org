@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2025-09-19T18:20:23.575Z
+date: 2025-09-19T18:21:50.565Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
@@ -61,7 +61,7 @@ ISOC BoT appointment procedures are based on R.F.C. 3677 and the [ISOC Board of 
 > 2026: name one board members
 > 2027: name two board members
 
-TODO: Add to the call that candidates for the ISOC BOT for the IAB should not also be active candidates in either the ISOC chapters election or the ISOC organization election for the BOT.
+TODO: Add to the call that candidates for the ISOC BOT for the IAB should not also be active candidates in either the ISOC chapters election or the ISOC organization election for the BOT. See also https://www.internetsociety.org/board-of-trustees/elections/, https://www.internetsociety.org/about-internet-society/governance-policies/procedures-selecting-trustees/ (see "Candidate/Trustee Uniqueness")
 
 ## ISOC BOT Description
 Source: [ISOC 2015 Call for Nominations](http://www.internetsociety.org/2015-call-nominations-internet-society-board-trustees)
