@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-09-02T13:42:25.525Z
+date: 2025-09-23T03:41:00.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -51,6 +51,8 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Sept 2025|[inSIG2025](https://insig.in/insig-agenda-2025/)|Mixed|all levels|Dhruv|[IETF in IG Ecosystem](https://docs.google.com/presentation/d/1zcOSnnvVO8e2wAJt2w_NPxAjetGlsK94qz1TOeTi31o/edit?usp=sharing)<br>[Internet Standards & RFCs](https://docs.google.com/presentation/d/1fMdu8LtfaO0YywRXVeoatPOG4JC6FWv2Na0OtQKiMDk/edit?usp=sharing)|
+|Sept 2025|[Youth IGF India](https://youthigf.in/agenda-2025/)|Internet Governance for Youth|Knowledge sharing|Dhruv|-|
 |Sept 2025|[AIORI Workshop](https://portal.aiori.in/aiori-2/student-workshops/)|Students, Researchers|Participants|Dhruv|[Slide](https://docs.google.com/presentation/d/12rt_u4DnyU1bxxHccqJlY5tbLWNxFnFlYtaVDrHwvI4/edit?usp=sharing)| 
 |Aug 2025|[APIGA-2025](https://icann-community.atlassian.net/wiki/spaces/GSEAPAC/pages/114304956/APIGA+2025)|Internet Governance for Youth|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1X5P_5eGaB41dYvnuJbbGXst1aVEg9d4RIYeD2_Swjgg/edit?usp=sharing)|
 |July 2025|[ISOC Trinidad & Tobago Chapter Webinar](https://www.isoc.tt/blog_post/22/)|Regional|Participants|Suresh|[Slide](https://docs.google.com/presentation/d/1WjTk8pcL6Hq0nF02fotdTPlFuHSvnuR7/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)|
