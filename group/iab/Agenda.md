@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-23T15:19:50.756Z
+date: 2025-09-23T16:40:49.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -56,6 +56,7 @@ For approval
 
   - IRTF Chair
   - IESG Liaison
+    GitHub: https://github.com/intarchboard/responsibilities/issues/31#issuecomment-3323955247
   - ICANN Board Liaison
   - IANA Liaison
   - IAB Outreach Coordinator
