@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-18T18:27:43.429Z
+date: 2025-09-23T15:19:50.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Formal Meeting Agenda: 2025-09-24, 13:00-15:00 UTC)
 
-## There WILL be a meeting on 2025-09-25
+## There WILL be a meeting on 2025-09-24
 
 ## Details
 
@@ -48,7 +48,7 @@ For approval
     
 - Operationalizing Network & service abstractIONS (onions) (OPS Area)
     Assigned to: Alvaro Retana
-    Review sent ?
+    Review sent 2025-09-22
     Currently in Internal Review; on IESG agenda for 2025-09-25
 
 
@@ -73,6 +73,8 @@ For approval
 
   Goal: Approve instructions for NomCom about what the IAB needs in 
   order to confirm IESG candidates.
+  
+  https://docs.google.com/document/d/1y4lPp5w722iC-Jo5hmjBhYlaj0IjjxuL2sJaauH1iPs/edit?usp=sharing
 
   GitHub: https://github.com/intarchboard/responsibilities/issues/37
 
