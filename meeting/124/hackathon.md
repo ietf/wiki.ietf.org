@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-09-16T19:15:42.789Z
+date: 2025-09-23T22:18:04.295Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -197,12 +197,19 @@ We will be broadcasting two SSID on the hackathon wireless network: ietf-moon wh
 ---
 ### SCONE - Standard Communication with Network Elements
 - **Champions**
-  + Wesley Eddy (wesleyeddy@meta.com)
-  + Matt Joras (mjoras@meta.com)
-  + TBD - more to be added
+    + Wesley Eddy (wesleyeddy@meta.com)
+    + Matt Joras (mjoras@meta.com)
+    + Marcus Ihlar (marcus.ihlar@ericsson.com)
+    + Zahed Sarker (zahed.sarker.ietf@gmail.com)
 
 - **Project Info**
-Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) technology (QUIC client, server, and network element implementations, and applications).
+Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) technology, including:
+
+  + QUIC client implementations
+  + QUIC server implementations
+  + network element implementations
+  + applications
+  + tools, etc.
 
 ---
 
