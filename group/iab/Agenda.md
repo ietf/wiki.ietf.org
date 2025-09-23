@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-23T16:40:49.307Z
+date: 2025-09-23T20:28:02.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -122,6 +122,7 @@ For approval
 ### 9. Review of Open Issues for Responsibilities
 
   GitHub: https://github.com/intarchboard/responsibilities/issues
+  Current milestone Issues: https://github.com/intarchboard/responsibilities/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A%22September%20Meeting%20(Virtual)%22
 
 
 
