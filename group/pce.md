@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-09-25T14:59:49.419Z
+date: 2025-09-26T06:43:29.991Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -37,6 +37,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | --- | --- | --- | --- |
 |draft-dong-pce-pcep-nrp|Pending| IPR (3/8)-Author (0/2)-Contributor | Julien |
 | draft-chen-pce-sr-mpls-sid-verification | Pending | - | - |
+| draft-xpbs-pce-topology-filter | Pending | - | - |
 | draft-chen-pce-sr-ingress-protection | Expired | - | - |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
