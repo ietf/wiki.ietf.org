@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-09-26T16:03:29.878Z
+date: 2025-09-26T19:21:25.565Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,9 +22,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-- IABOPEN @ IETF 124 planning (https://github.com/intarchboard/responsibilities/issues/71)
-
-
+> 1. IABOPEN @ IETF 124 planning (https://github.com/intarchboard/responsibilities/issues/71)
+> 
+> 
 
 
 ## Regrets
