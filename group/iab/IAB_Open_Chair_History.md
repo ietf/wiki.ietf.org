@@ -2,7 +2,7 @@
 title: IAB Open Chair History
 description: 
 published: true
-date: 2025-05-21T15:04:56.630Z
+date: 2025-09-26T20:51:09.325Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:13:03.738Z
@@ -11,6 +11,7 @@ dateCreated: 2023-12-06T00:13:03.738Z
 # IAB Open Chair History
 The IAB Open Meeting is generally chaired by the IAB Chair* and one other IAB member, on a rotating basis.
 
+- 124: Tommy Pauly*, Warren Kumari
 - 123: Tommy Pauly*, Jason Livingood
 - 122: Tommy Pauly*, Alvaro Retana
 - 121: Tommy Pauly*, Matthew Bocci
