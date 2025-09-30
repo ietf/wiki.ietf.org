@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-30T15:54:33.213Z
+date: 2025-09-30T15:55:19.612Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - October 2, 2025
 
-There **WILL NOT** be a meeting on this date.
+There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,7 +28,6 @@ Meeting password: 12345
 
 
 ## Regrets
-* Roman (can only join for the first 25min)
 * Deb Cooley
 
 ## Agenda
@@ -48,8 +47,8 @@ Note that this page is public.
 
 
 ### Management Issues
-* [2025 Note Well Review](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0)
-* [Onions Charter and Next Steps](/https://datatracker.ietf.org/doc/charter-ietf-onions/)
+* [2025 Note Well Review](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0) (Roman)
+* [Onions Charter and Next Steps](/https://datatracker.ietf.org/doc/charter-ietf-onions/) (Mahesh)
  
  
 ### WG News 
