@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-09-09T14:25:32.575Z
+date: 2025-09-30T15:45:38.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,7 +31,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-mirsky-mpls-stamp | 2025-09-15 | IPR poll complete | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -39,6 +38,7 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
+| 2025-09-15 | draft-mirsky-mpls-stamp | Attempt to merge with draft-ietf-mpls-stamp-pw  | Tony |  |
 
 ## MPLS WG Documents
 
@@ -60,7 +60,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | New version posted 2025-07-07 for Jeffrey Zhang review | YANG Dr. completed | Tarek
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | New version posted 2025-07-07 for Jeffrey Zhang review | YANG Dr. completed | Tarek |
 
 ## In Working Group Last Call
 
