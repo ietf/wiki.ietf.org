@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-30T16:51:39.810Z
+date: 2025-09-30T17:01:25.472Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -29,6 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 * Deb Cooley
+* Ketan Talaulikar (I will provide comments and try to make it - but not sure)
 
 ## Agenda
 
