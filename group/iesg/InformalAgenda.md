@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-30T16:16:14.422Z
+date: 2025-09-30T16:16:31.916Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -68,9 +68,6 @@ Note that this page is public.
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
-
-* Sentence to add to the "IESG Statement on Clarifying the Use of BCP 14 Key Words" regarding normative language in diagrams (Paul)
-
 
 * Next steps on "IESG Statement on Maximizing Encrypted Access To  IETF Information" (Paul)
 https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing
