@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-09-30T15:55:19.612Z
+date: 2025-09-30T16:01:44.757Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,7 @@ Note that this page is public.
 ### Management Issues
 * [2025 Note Well Review](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0) (Roman)
 * [Onions Charter and Next Steps](/https://datatracker.ietf.org/doc/charter-ietf-onions/) (Mahesh)
+* [IESG Statement on Documentation  Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
  
  
 ### WG News 
