@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-09-26T19:01:15.401Z
+date: 2025-10-01T05:25:03.430Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -90,7 +90,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|N| -13 posted on 2025-04-09  | What is the conclusion to - Should the PCEP extension go beyond the SR Policy SPRING’s SR Policy RFC? | Dhruv | - |
 | [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -07 posted on 2025-07-03 | - | - | - |
 | draft-ietf-pce-stateful-pce-autobw-update |N|N| -02 posted on 2025-06-01 | - | - | - |
-| draft-ietf-pce-entropy-label-position |Y|N| -03 posted on 2025-04-17 |Please add Managebility Consideration Section| - | - |
+| draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -04 posted on 2025-02-19 | - | - | - |
 
 ## Post WG LC Queue  
