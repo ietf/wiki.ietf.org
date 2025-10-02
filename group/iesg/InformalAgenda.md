@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-02T13:50:40.577Z
+date: 2025-10-02T14:34:55.149Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -76,7 +76,6 @@ Please list topics in this section that could use discussion but may not warrant
 
 
 
-* Chartering and BoF feedback follow-up for WebBotAuth
 
 ### Topics Deferred Till Next Informal 
 * For sometime in September: Discuss kramdown-rfc support (was raised at IETF 123 Sunday meeting)
