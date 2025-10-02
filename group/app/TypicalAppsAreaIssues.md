@@ -2,13 +2,15 @@
 title: Typical Apps Area Issues Wiki
 description: 
 published: true
-date: 2023-01-25T04:09:02.492Z
+date: 2025-10-02T03:57:30.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T04:07:46.343Z
 ---
 
 # Typical Applications Area Issues 
+---
+
 Certain apps-related issues show up time and time again when the Area Directors in the IETF Applications Area (or members of the [ApplicationsAreaDirectorate](/group/app/ApplicationsAreaDirectorate) complete reviews of Internet-Drafts. I-D authors are advised to address these issues ahead of time to smooth the path to RFC publication.
 
 (Note: the following list is incomplete; please help us improve it by posting to the apps-discuss@… discussion list.)
