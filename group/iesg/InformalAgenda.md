@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-02T07:12:08.659Z
+date: 2025-10-02T13:50:40.577Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -55,6 +55,7 @@ Note that this page is public.
 * Revision of [IESG Statement on Documentation  Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
 * Revision of [IESG Statement on Clarifying the Use of BCP 14 Key Words](https://docs.google.com/document/d/1yDPSf2kfln29aH_lCHkyFuFpgLNmc3lJVNacjKE8JDQ/edit?usp=sharing) (Paul)
 * Revision of [IESG Statement on Maximizing Encrypted Access To  IETF Information](https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing) (Paul)
+* Appeal to the IESG (IESG minus Roman)
  
  
 ### WG News 
