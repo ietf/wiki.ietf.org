@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-03T20:19:06.571Z
+date: 2025-10-03T21:06:20.549Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -35,7 +35,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 ## Regrets
- 
+ - Alvaro (on vacation all week)
 
 
 ## Topics for Future Informal Meetings
