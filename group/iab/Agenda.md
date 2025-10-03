@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-01T21:31:21.948Z
+date: 2025-10-03T20:12:17.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2025-10-08, 14:00-15:00 UTC)
 
-## There WILL NOT be a meeting on 2025-10-08
+## There WILL be a meeting on 2025-10-08
 
 ## Details
 
@@ -22,8 +22,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-> 1. 
-> 2. 
+> 1. IAB Open Planning for IETF 124
+  (https://github.com/intarchboard/responsibilities/issues/71)
+> 2. IAB Business Meetings at IETF 124
+> 3. Other IAB Events at IETF 124 (e.g. New Work Help Desk, Liaison Coordinator Office Hours, Program / ASG Meetings
 
 
 ## Regrets
