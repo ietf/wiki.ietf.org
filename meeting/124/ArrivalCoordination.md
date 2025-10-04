@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-05-02T20:02:59.998Z
+date: 2025-10-04T21:06:28.401Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -30,7 +30,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|  |  |   |  |  |   |   |       |
+| 19:45 | BA95 | Pete Resnick  | resnick@episteme.net | YUL |   | Fairmont |       |
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       | 
 
