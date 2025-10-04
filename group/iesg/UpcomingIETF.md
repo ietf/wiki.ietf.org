@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-09-11T20:21:06.845Z
+date: 2025-10-04T07:02:25.483Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -20,6 +20,7 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 Please add any topics for either IESG only meetings at IETF 124, or the joint meetings with the IAB.
 
 - Example: IETF 124 Agenda Scheduling (Liz)
+- What will be the IETF AI-pref policy ? I.e., will the IETF allow for LLM training ? (Éric V. prompted by Glenn Deen)
 
 
 # IESG Activities
@@ -155,6 +156,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 ## Wednesday, November 4, 2025
 
+* 17:00 - 17:30 -- IESG Meditation/Relaxation before plenary (Éric V)
 * TIME - TIME -- Thing (Person responsible)
 
 
