@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-02T14:43:21.915Z
+date: 2025-10-07T17:55:29.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -262,7 +262,24 @@ Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/abou
   - Further slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
   - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
+---
+
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champions**
+Greg White (g.white@cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+- **Specifications**
+  - [RFC9330](https://datatracker.ietf.org/doc/rfc9330/)
+  - [RFC9331](https://datatracker.ietf.org/doc/rfc9331/)
+  - [RFC9332](https://datatracker.ietf.org/doc/rfc9332/)
+  - [RFC8888](https://datatracker.ietf.org/doc/rfc8888/)
+  - [draft-ietf-tcpm-accurate-ecn](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn)
+
+
 ----
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
