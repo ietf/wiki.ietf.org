@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-02T14:43:01.201Z
+date: 2025-10-07T19:29:59.043Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - October 2, 2025
+# Informal Telechat - October 16, 2025
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,7 @@ Meeting password: 12345
 
 
 ## Regrets
-* Deb Cooley (I may end up being available)
-* Ketan Talaulikar (I will provide comments and try to make it - but not sure)
-* Erik Kline
+
 
 ## Agenda
 
@@ -46,18 +44,10 @@ Note that this page is public.
 
 ### Document Discussions
 
-* [Document Swaps from PubReq](https://docs.google.com/spreadsheets/d/1FapZ-Etp04C7fmKpA7V460CCmHdv1iQ8GmeS8BVlQNQ/edit?gid=0#gid=0) (Roman)
+
 
 ### Management Issues
-* [2025 Note Well Review](https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0) (Roman)
-**  [the wg chair guidance to go with](https://docs.google.com/document/d/1Z-m_G2-LrvsfbkqUgcNuAjkVjRvDP2_5mM5KB3TP4BM/edit?tab=t.0#heading=h.6m3u5ouik22m) (Deb)
-* [Onions Charter and Next Steps](/https://datatracker.ietf.org/doc/charter-ietf-onions/) (Mahesh)
-https://docs.google.com/presentation/d/11Wpi-oy093aV6E1AiKlvJC9SK822Yfk_YcW1hR-B9dY/edit?slide=id.p#slide=id.p
-* Revision of [IESG Statement on Documentation  Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
-* Revision of [IESG Statement on Clarifying the Use of BCP 14 Key Words](https://docs.google.com/document/d/1yDPSf2kfln29aH_lCHkyFuFpgLNmc3lJVNacjKE8JDQ/edit?usp=sharing) (Paul)
-* Revision of [IESG Statement on Maximizing Encrypted Access To  IETF Information](https://docs.google.com/document/d/1TktXY6B4yDHFRg2gQ5F4CV3FOvc7rdm6muh2TI4NLm4/edit?usp=sharing) (Paul)
-* Appeal to the IESG (IESG minus Roman)
- 
+
  
 ### WG News 
 
