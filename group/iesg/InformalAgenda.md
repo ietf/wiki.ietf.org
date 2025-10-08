@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-08T16:56:56.190Z
+date: 2025-10-08T16:57:25.007Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -43,7 +43,7 @@ Note that this page is public.
 
 
 ### Document Discussions
-* Discussion with the ISE of upcoming RFC5742 conflict reviews of draft-dekater-scion-{dataplane,controlplane,pki}
+* Discussion with the ISE of upcoming RFC5742 conflict reviews of draft-dekater-scion-{dataplane,controlplane,pki} (Roman) (Admin note: we will cover this topic first regardless of where it lands in the agenda)
 
 
 ### Management Issues
