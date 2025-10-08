@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-08T13:54:45.232Z
+date: 2025-10-08T16:06:38.502Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -21,6 +21,7 @@ Please add any topics for either IESG only meetings at IETF 124, or the joint me
 
 - Example: IETF 124 Agenda Scheduling (Liz)
 - What will be the IETF AI-pref policy ? I.e., will the IETF allow for LLM training ? (Éric V. prompted by Glenn Deen)
+- Joint session: 2026 retreats in APAC update (Mahesh, Ketan, Dhruv, Suresh)
 
 
 # IESG Activities
