@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-07T01:17:11.081Z
+date: 2025-10-08T11:57:30.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,6 +40,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
  - Matthew
  - Tommy
  - Mark
+ - Jana
+ - Dhruv
+ 
 
 
 ## Topics for Future Informal Meetings
