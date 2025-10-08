@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-08T13:12:34.048Z
+date: 2025-10-08T16:08:05.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -20,6 +20,14 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 * EImpact program update - dicussion of draft-various-eimpact-arch-considerations
 
 * Sally will be available on Thursday morning if we want an ISOC discussion session. We can check in on WSIS+20 status, etc.
+
+* RG Review (NMRG? Dirk to confirm)
+
+* IAB meeting time rotation (Dhruv)
+
+* Inviting IAB Members to IAB workshops (Cullen)
+
+* What topics require a formal vote (Cullen)
 
 
 ## Saturday, 2025-11-02
