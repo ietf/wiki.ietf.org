@@ -2,14 +2,11 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-01T21:06:42.045Z
+date: 2025-10-08T13:12:34.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
 ---
-
-# Proposed (not yet scheduled) topics
-
 
 # Agenda124
 
