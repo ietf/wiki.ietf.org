@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-08T12:58:34.308Z
+date: 2025-10-08T16:24:21.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-10-08, 14:00-15:00 UTC)
+# IAB Informal Meeting Agenda: 2025-10-15, 21:00-22:00 UTC)
 
-## There WILL be a meeting on 2025-10-08
+## There WILL NOT be a meeting on 2025-10-15
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8174aa46909b8b0ea4c30bb01270fd8b
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
 
 
 ## Agenda
@@ -22,27 +22,21 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. IAB Open Planning for IETF 124
- - https://github.com/intarchboard/responsibilities/issues/71
+### 1. 
 
-### 2. IAB Business Meetings at IETF 124
- - https://wiki.ietf.org/group/iab/Agenda124
-- Discuss potential agenda items and invited guests
+Context: 
 
-### 3. Other IAB Events at IETF 124 
+### 2. 
 
-- e.g. New Work Help Desk, Liaison Coordinator Office Hours, Program / ASG Meetings
+Context: 
 
+### 3. 
+
+Context: 
 
 ## Regrets
- - Alvaro (on vacation all week)
- - Mirja
- - Matthew
- - Tommy
- - Mark
- - Jana
- - Dhruv
- - Roman
+
+
  
 
 
