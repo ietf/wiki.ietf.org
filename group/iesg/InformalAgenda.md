@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-08T16:57:25.007Z
+date: 2025-10-09T12:20:01.307Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,7 +47,7 @@ Note that this page is public.
 
 
 ### Management Issues
-
+* Ketan Talaulikar, Mahesh Jethanandani, and Roman Danyliw to work on an announcement regarding Datatracker state change for WG adoption -> https://docs.google.com/document/d/14Qoq3EjFxtG0QK28s_Oa9BeerymsWCH8yxIY-kNa03w/edit?tab=t.0
  
 ### WG News 
 
