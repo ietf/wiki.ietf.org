@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-09T08:13:55.727Z
+date: 2025-10-09T13:45:51.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -26,9 +26,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Context: Discuss approach to responding to https://mailarchive.ietf.org/arch/msg/ietf/cjdtECq_JVVPhU4gQsIZTsYbIxs/
 
-### 2. 
+### 2. Age Workshop Discussion
 
-Context: 
+Context: Share initial impressions of age workshop
 
 ### 3. 
 
