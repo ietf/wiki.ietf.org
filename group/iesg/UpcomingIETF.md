@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-08T16:06:38.502Z
+date: 2025-10-10T21:14:24.061Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -31,10 +31,10 @@ Please add any topics for either IESG only meetings at IETF 124, or the joint me
 
 > Not-required activities:
 > 
->  **Hackathon**, 09:30-21:00
->     Room TBD
+>  **Hackathon**, 09:30-20:00
+>     Room: Centre Ville
 >  **Code Sprint**, 10:00-18:00
->    Room TBD
+>    Room: Mansfield
 {.is-info}
 
 
@@ -56,29 +56,28 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Not-required activity:
 > 
 >   **Hackathon**, 09:30-16:00
->     Room TBD
+>     Room: Centre Ville
 {.is-info}
 
 
-### 09:30-11:00 - Either IAB or IESG Meeting
+### 09:30-11:00 - IESG Meeting (Duluth)
 
-### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting
+### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: GEN, WIT, OPS, IAB, SEC, RTG, ART, IRTF, INT
 
-### 14:00-16:00 - Either IAB or IESG Meeting
 
 
 > Evening meeting events:
 > 
 > **New Participant's Quick Connections** 16:00-17:00
->   Room: TBD
+>   Room: Espace 21 Gallerie
 > **Welcome Reception** 17:00-19:00
->   Room: TBD
+>   Room: Place du Canada
 > **HotRFC Lightning Talks** 18:00-20:00
->   Room: TBD
+>   Room: Viger
 {.is-info}
 
 
@@ -86,7 +85,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ## Monday, November 3, 2025
 
-### 08:00-09:20 IESG Meeting
+### 08:00-09:20 IESG Meeting (Duluth)
 
 >Agenda items here
  
@@ -97,7 +96,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 
   
 ## Wednesday, November 5, 2025
-### 08:00-09:20 IESG Meeting 
+### 08:00-09:20 IESG Meeting  (Duluth)
 
 
 > Agenda:
@@ -105,8 +104,8 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 
 
 
-### 17:30-19:30 - IETF 124 Plenary 
-Room and exact time TBD
+### 17:30-19:30 - IETF 124 Plenary (Place du Canada)
+
 
 
 ## Thursday, November 6, 2025
@@ -115,14 +114,15 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 > Non-required event:
 > 
-> **New Participants' Social Hour** Time: TBD
+> **New Participants' Social Hour** Time: 19:15-20:15
+> Room: Square Victoria
 > Opportunity to socialize with new participants and hear how their meeting week has been
 {.is-info}
 
 
 ## Friday, November 7, 2025
 
-### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting
+### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Duluth)
 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
