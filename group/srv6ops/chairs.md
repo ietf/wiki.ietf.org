@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-09-10T10:12:46.013Z
+date: 2025-10-10T12:26:21.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -111,7 +111,10 @@ dateCreated: 2024-07-12T14:22:53.552Z
 ### Yet to start
 -   
 ### Ongoing
-- IETF 122 agenda setting
+- IETF 124 agenda setting
+- Make sure IPR response from Robin for draft-mcbride-srv6ops-srv6-deployment 
+- IPR check for draft-liu-srv6ops-problem-summary-06
+- WG adoption for draft-liu-srv6ops-problem-summary-06
 
 ### Completed 
 - IETF 121 agenda setting
