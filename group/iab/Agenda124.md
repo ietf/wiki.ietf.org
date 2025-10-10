@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-08T16:08:05.048Z
+date: 2025-10-10T21:03:07.500Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -44,23 +44,20 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 {.is-warning}
 
 
-
-### 09:30-11:00 - Either IAB or IESG Meeting (Room: TBD)
-
-### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: TBD)
+### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Duluth)
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 
-### 14:00-16:00 - Either IAB or IESG Meeting (Room: TBD)
+### 14:00-16:00 - Either IAB Meeting (Room: Duluth)
 
 ### Evening Meeting Events
 
 > **New Participant's Quick Connections** 16:00-17:00
->   Room: TBD
+>   Room: Espace 21 Gallerie
 > **Welcome Reception** 17:00-19:00
->   Room: TBD
+>   Room: Place du Canada
 > **HotRFC Lightning Talks** 18:00-20:00
->   Room: TBD
+>   Room: Viger
 {.is-info}
 
 
@@ -68,11 +65,11 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ## Monday, November 3, 2025
 
-### 13:00-14:30: IETF-3GPP Coordination (Room: TBD)
+### 13:15-14:15: IETF-3GPP Coordination (Room: Duluth)
  
 ## Tuesday, 2025-11-04
 
-### 08:00-09:20 IAB Business Meeting (Room: TBD)
+### 08:00-09:20 IAB Business Meeting (Room: Rue Crescent)
 
 
 > Agenda:
@@ -83,13 +80,12 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 
 
-### 17:30-19:30 - IETF 124 Plenary (Room: TBD)
-Room and exact time TBD
+### 17:30-19:30 - IETF 124 Plenary (Room: Place du Canada)
 
 
 ## Thursday, 2025-11-06
 
-### 08:00-09:20 IAB Business Meeting (Room: TBD)
+### 08:00-09:20 IAB Business Meeting (Room: Rue Crescent)
 
 > Agenda:
 > 1. 
@@ -97,14 +93,15 @@ Room and exact time TBD
 
 ### Non-required events:
 
-> **New Participants' Social Hour** Time: TBD
+> **New Participants' Social Hour** Time: 19:15-20:15
+> Room: Square Victoria
 > Opportunity to socialize with new participants and hear how their meeting week has been
 {.is-info}
 
 
 ## Friday, 2025-11-07 
 
-### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Room: TBD)
+### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Room: Duluth)
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 
