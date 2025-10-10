@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-10T21:14:24.061Z
+date: 2025-10-10T21:15:15.135Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -62,6 +62,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 09:30-11:00 - IESG Meeting (Duluth)
 
+> Agenda items here
+
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
 >1. Welcome and introductions (5 min)
@@ -87,7 +89,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 08:00-09:20 IESG Meeting (Duluth)
 
->Agenda items here
+> Agenda items here
  
 ## Tuesday, November 4, 2025
 
