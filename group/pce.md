@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-09T14:44:01.651Z
+date: 2025-10-13T06:50:35.667Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -100,7 +100,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Authors handled early reviews and WGLC comments| Pending Shepherd review and write up |Dhruv |
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Expired | IPR-4/5 1 response from Francesco Lazzeri missing, who is now retired | Julien |
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | - | Pending Shepherd review and write up | Julien |
 |draft-ietf-pce-circuit-style-pcep-extensions|-|Pending Shepherd review and write up |Dhruv |
 
 ## Drafts with the IESG
