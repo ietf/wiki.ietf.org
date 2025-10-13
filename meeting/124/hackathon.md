@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-10T11:35:52.847Z
+date: 2025-10-13T08:07:40.112Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -302,6 +302,42 @@ Greg White (g.white@cablelabs.com)
 
 ----
 
+### KIRA – Scalable Zero-Touch Routing
+- **Champions**
+  - Roland Bless (roland.bless@kit.edu)
+  - Julius Rüberg (julius.rueberg@student.kit.edu)
+
+ - **Project Info**
+
+   - KIRA is a scalable zero-touch routing architecture that provides IPv6 connectivity without any configuration for hundreds of thousands of nodes. It is ID-based and also works well in fixed networks, data center networks, mobile ad-hoc networks, and LEO satellite networks. The prototypical implementation is written in Rust.
+
+   - More info at https://s.kit.edu/KIRA
+
+ - **Draft Specifications**
+        Internet Draft: https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+
+ - **Side Meeting**
+        TBD
+
+ - **Hackathon Plan (Potential Working Items)**
+    - Testing and debugging KIRA with NEST (Connectivity Tests, Reaction to Link or Node Failures and Restoration)
+    - Check alignment of internal parameter values (timers etc.) with Internet-Draft defaults
+    - Implement wire format as defined in https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+    - Implement Wireshark Dissector for the wire format
+    - Improve Web Demonstrator interface (Python)
+
+ - **Technologies**
+   - Rust
+   - IPv6
+   - Linux
+   - NEST / ContainerNet
+   - Python for the Web Demo Interface
+
+ - **Source Code Repository**
+    - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
+    - Github Repository is in preparation
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
