@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-08-09T07:14:50.294Z
+date: 2025-08-22T00:15:08.927Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -17,7 +17,7 @@ The URLs for wiki pages of specific groups, if they exist, generally follow the 
 
 Wiki pages for any particular group are linked from the "About" tab on their IETF Datatracker page. For example the IESG wiki page is linked from: https://datatracker.ietf.org/group/iesg/about/
 
-The links below are provided as assistance to find wiki pages for particular groups but is not intended to be comprehensive.
+The links below are provided as assistance to find wiki pages for particular groups but are not intended to be comprehensive.
 
 # Leadership groups
 - [iesg *Internet Engineering Steering Group*](/group/iesg)
@@ -57,8 +57,8 @@ The Web and Internet Transport (WIT) area covers protocols that provide the func
 ## Internet Research Task Force (IRTF) [Research Groups](https://datatracker.ietf.org/rg/)
 The IRTF is comprised of a number of focused and long-term Research Groups. These groups work on topics related to Internet protocols, applications, architecture and technology. Research Groups have the stable long-term membership needed to promote the development of research collaboration and teamwork in exploring research issues. Participation is by individual contributors, rather than by representatives of organizations.
 
-## [IAB Groups](https://datatracker.ietf.org/program/)
-AB Technical Programs & Administrative Support Groups are structured approaches managed & maintained by the IAB in order to support the IAB in more effectively executing its chartered responsibilities & its architectural oversight role (see RFC2850 §2.1)
+## Internet Architecture Board [(IAB) Groups](https://datatracker.ietf.org/program/)
+IAB Technical Programs & Administrative Support Groups are structured approaches managed & maintained by the IAB in order to support the IAB in more effectively executing its chartered responsibilities & its architectural oversight role (see RFC2850 §2.1)
 
 ## [Directorates](https://datatracker.ietf.org/dir/)
 IETF Directorates, comprised of experienced IETF participants, often serve as advisory groups for IETF work.

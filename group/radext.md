@@ -2,11 +2,14 @@
 title: RADEXT WG
 description: RADIUS Extensions
 published: true
-date: 2025-03-19T06:30:53.928Z
+date: 2025-08-20T18:22:05.230Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-19T06:30:53.928Z
 ---
+
+> This page is related to an active IETF Working Group.
+{.is-success}
 
 # RADEXT WG
 

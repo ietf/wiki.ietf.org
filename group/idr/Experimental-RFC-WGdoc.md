@@ -2,7 +2,7 @@
 title: Status of Experimental RFC and WG documents
 description: Experimental RFC-Docs 
 published: true
-date: 2025-02-25T22:34:50.935Z
+date: 2025-09-15T19:31:20.356Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-20T21:17:58.113Z
@@ -33,9 +33,9 @@ CAR (discussion here)
 
 
 ## CT 
-**draft**: draft-ietf-idr-bgp-ct
+**RFC**: RFC9832
 State: Experimental 
-**Status:** At IESG 
+**Status:** Published September 2025
 **implementations:** 2
 **Deployments:** 
 
@@ -44,9 +44,9 @@ CT (discussion here).
 
 
 ## CPR 
-**drafts**: draft-ietf-idr-bgp-cpr
+**RFC**: RFC9723
 State: Informational 
-**status**: at IESG
+**status**: Published May 2025
 **implementations:** 3
 **Deployments**: TBD 
 

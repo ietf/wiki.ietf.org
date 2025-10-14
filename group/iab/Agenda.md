@@ -2,20 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-08-13T14:01:01.259Z
+date: 2025-10-14T14:44:11.256Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-08-20, 21:00-22:00 UTC)
+# IAB Informal Meeting Agenda: 2025-10-15, 21:00-22:00 UTC)
 
-## There WILL be a meeting on 2025-08-20
+## There WILL be a meeting on 2025-10-15
 
 ## Details
 
 * Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
-
 
 
 ## Agenda
@@ -23,28 +22,40 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-> 1. Demo of RFC Editor "Red" (Robert Sparks, Matthew Holloway, Jean Mahoney) - 20 mins
->     
-> 2. Topic:
->     Background and context:
+### 1. Appeal Processing Discussion
 
+Context: Discuss approach to responding to https://mailarchive.ietf.org/arch/msg/ietf/cjdtECq_JVVPhU4gQsIZTsYbIxs/
 
+### 2. Age Workshop Discussion
 
+Context: Share initial impressions of age workshop
 
+### 3. 
+
+Context: 
+
+## Regrets
+
+- Cindy
+- Liz
+- Dhruv
+- Jason
+- Qin
+
+ 
 
 
 ## Topics for Future Informal Meetings
 
-- August 27 (formal meeting time): Talk with ISE (Eliot Lear)
+ISOC Coordination (Mirja)
+
+- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
+
 
 ## Upcoming Formal IAB Business Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-- 2025-08-27: IAB Business Meeting (Reserved)
-		- Talk with ISE (Eliot Lear)
-- 2025-09-24: IAB Business Meeting
-    - ISE Selection Process
 - 2025-10-22: IAB Business Meeting (Reserved)
 
 -- 2025-11-01 - 2025-11-07: IETF 124 Montreal --

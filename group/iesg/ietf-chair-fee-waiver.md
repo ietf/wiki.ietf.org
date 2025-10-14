@@ -2,7 +2,7 @@
 title: IETF Chair Fee Waiver Program
 description: 
 published: true
-date: 2024-10-23T21:05:15.265Z
+date: 2025-10-01T18:07:43.990Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T15:00:42.201Z
@@ -31,6 +31,6 @@ Due to its limited scope, this fee waiver is not intended to support:
 
 # Submitting a Request
 
-Requests for waiver can be submitted as soon as the registration opens for a given plenary meeting by sending an email to support@ietf.org. When requesting a fee waiver, please explain why you need a fee waiver, in which WGs/BOFs you will be active, what contribution you will make to the group(s), and which meeting you are requesting a fee waiver for.
+Requests for waiver can be submitted as soon as the registration opens for a given plenary meeting by sending an email to support@ietf.org. When requesting a fee waiver, please explain why you need a fee waiver, in which WGs/BOFs you will be active, what contribution you will make to the group(s), and which meeting you are requesting a fee waiver for.  If you have a datatracker profile, please provide a link (e.g., https://datatracker.ietf.org/person/Roman%20Danyliw)
 
 Notice of award will come no later than 30 days from the start of the meeting.  

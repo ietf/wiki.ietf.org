@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-05-20T11:11:47.713Z
+date: 2025-10-10T12:26:21.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -12,12 +12,11 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 ## Operator Presentations
 
-### IETF 123 - Madrid
+### IETF 124 - Montreal
 
-Possible speakers
+- Recheck with Sonic/Rita [Dhruv]
+- Alibaba (Wanted to do in Montreal) [Weiqiang]
 
-* Nicolai Leymann - DT (focus on address planning and preparing for deployment)
-* IX.br (Fabio/Diego)
 
 
 ### Future speakers
@@ -33,6 +32,11 @@ Possible speakers
 * ?? - Jio
 
 ### Past 
+#### IETF 123 - Madrid
+* DT, Nils
+* IX.br, Fabio
+* MTS Web service Boris
+
 #### IETF 122 - Bangkok
 * Turkcell, Mehmet Durmus
 * China Telecom, Yongqing Zhu
@@ -107,7 +111,10 @@ Possible speakers
 ### Yet to start
 -   
 ### Ongoing
-- IETF 122 agenda setting
+- IETF 124 agenda setting
+- Make sure IPR response from Robin for draft-mcbride-srv6ops-srv6-deployment 
+- IPR check for draft-liu-srv6ops-problem-summary-06
+- WG adoption for draft-liu-srv6ops-problem-summary-06
 
 ### Completed 
 - IETF 121 agenda setting

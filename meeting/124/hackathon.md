@@ -2,17 +2,16 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-07-31T17:11:30.509Z
+date: 2025-10-13T08:07:40.112Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
 ---
 
-# IETF 124 Hackathon
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * :spiral_calendar: **When**: 01 - 02 November 2025 (Saturday - Sunday)
-* :es: **Where**: Fairmont The Queen Elizabeth
+* :maple_leaf: **Where**: Fairmont The Queen Elizabeth
 * :cityscape: **Room**: TBD
 {.grid-list}
 
@@ -169,6 +168,28 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/123/hackathon#ProjectsIncludedinHackathon).
 
 ---
+### RESTful Provisioning Protocol (RPP)
+- **Champions**
+Maarten Wullink maarten.wullink@sidn.nl
+Pawel Kowalik pawel.kowalik@denic.de
+
+- **Project Info**
+The RPP working group is focused on designing a new protocol via a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
+
+- **Hackathon Plan**
+	- Discuss/Develop/Validate proposals for protocol requirements and architecture 
+  - Develop running code, e.g.:
+    - RPP server & client 
+    - RPP to EPP adapter 
+  - Other interesting ideas.
+  
+- **Related documents**
+
+- [WG Charter](https://datatracker.ietf.org/wg/rpp/about/)
+- [Related work: RPP - Requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/)
+- [Related work: RPP - Architecture](https://www.ietf.org/archive/id/draft-kowalik-rpp-architecture-03.html)
+
+---
 
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champion**
@@ -180,6 +201,141 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/124/hackathon/thread-projects).
+
+---
+
+### Space Networking/TIPTOP Experiment
+- **Champion**
+Marc Blanchet &lt;marc.blanchet@viagenie.ca&gt;
+
+- ** Objectives **
+
+Space communications have large delays (2 secs one-way delay to Moon, 4-22 mins to Mars) and intermittence (because relay orbiters going on the other side of the celestial body). The key adaptations to make to the IP stacks are (briefly, see drafts for details) - for forwarders facing intermittence, store temporarily packets instead of dropping them, when a link goes down - adjust transport and application timers. The [TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) working group is making group progress on specifications. The purpose of this experiment is to start trying early implementations and get experience on using applications in this environment.
+
+- ** Project Info **
+
+We will be broadcasting two SSID on the hackathon wireless network: ietf-moon which will inject a 2 seconds one-way delay and ietf-mars which will inject a 4 minutes delay. Both will also see intermittence.  Everybody is very welcome to participate and test the network, but make sure to follow the [instructions](https://deepspaceip.github.io/meeting/ietf124/README.md) as typical Internet applications won't work as is in this environment.
+
+---
+### <a id="scone"></a>SCONE - Standard Communication with Network Elements
+- **Champions**
+    + Wesley Eddy (wesleyeddy@meta.com)
+    + Matt Joras (mjoras@meta.com)
+    + Marcus Ihlar (marcus.ihlar@ericsson.com)
+    + Zahed Sarker (zahed.sarker.ietf@gmail.com)
+
+- **Project Info**
+Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) technology, including:
+
+  + QUIC client implementations
+  + QUIC server implementations
+  + network element implementations
+  + applications
+  + tools, etc.
+
+---
+
+### Identifier Locator Network Protocol (ILNP)
+
+- **Champions**
+  - Saleem Bhatti &lt;saleem@st-andrews.ac.uk&gt;
+  - Rodney Grimes &lt;rgrimes@freebsd.org&gt;
+  - Alistair Woodman &lt;awoodman@netdef.org&gt;
+
+- **Project Info**
+  - https://ilnp.cs.st-andrews.ac.uk
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
+
+---
+
+### Identity Crisis in Attested TLS for Confidential Computing
+- **Champions**
+
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+
+- **Project Info**
+
+  - 3 main ways to combine attestation in TLS:
+    - Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol))
+    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Post-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-exported-attestation/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+  - **Hackathon plan**
+  	- Discuss the nits of [identity crisis](https://mailarchive.ietf.org/arch/msg/tls/Jx_yPoYWMIKaqXmPsytKZBDq23o/)
+    - Discuss possible solutions
+    - Discuss open issues
+	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
+		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
+  - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+
+- **Background on Attestation**
+
+	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
+  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
+
+- **Background on Attested TLS**
+
+	- [Tutorial slides](https://www.researchgate.net/publication/390121641_Presentation_Attested_TLS_Fundamentals) from side meeting of IETF 122 
+	- RATS [slides](https://datatracker.ietf.org/meeting/interim-2025-rats-01/materials/slides-interim-2025-rats-01-sessa-identity-crisis-in-attested-tls-for-confidential-computing-01.pdf) and [video](https://youtu.be/Vd_gL4YUGkI?t=2942) at Interim meeting
+	- TLS [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-tls-identity-crisis-00) and [video](https://youtu.be/bQ-Bz60AppI?t=6353) at IETF 122
+	- WIMSE [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-wimse-identity-crisis-00) and [video](https://youtu.be/7FUaIYiGzQs?t=4533) at IETF 122
+ 	- UFMRG [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-ufmrg-specifications-of-attested-tls-00) and [video](https://youtu.be/FOiuDqhqLJY?t=912) at IETF 121
+  - Further slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
+  - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
+
+---
+
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champions**
+Greg White (g.white@cablelabs.com)
+- **Project Info**
+  - L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+  - This Interop Event will bring together different congestion control implementations and different network implementations of L4S to test RFC/draft compliance, interoperability, and performance in various conditions.
+- **Specifications**
+  - [RFC9330](https://datatracker.ietf.org/doc/rfc9330/)
+  - [RFC9331](https://datatracker.ietf.org/doc/rfc9331/)
+  - [RFC9332](https://datatracker.ietf.org/doc/rfc9332/)
+  - [RFC8888](https://datatracker.ietf.org/doc/rfc8888/)
+  - [draft-ietf-tcpm-accurate-ecn](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn)
+
+
+----
+
+### KIRA – Scalable Zero-Touch Routing
+- **Champions**
+  - Roland Bless (roland.bless@kit.edu)
+  - Julius Rüberg (julius.rueberg@student.kit.edu)
+
+ - **Project Info**
+
+   - KIRA is a scalable zero-touch routing architecture that provides IPv6 connectivity without any configuration for hundreds of thousands of nodes. It is ID-based and also works well in fixed networks, data center networks, mobile ad-hoc networks, and LEO satellite networks. The prototypical implementation is written in Rust.
+
+   - More info at https://s.kit.edu/KIRA
+
+ - **Draft Specifications**
+        Internet Draft: https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+
+ - **Side Meeting**
+        TBD
+
+ - **Hackathon Plan (Potential Working Items)**
+    - Testing and debugging KIRA with NEST (Connectivity Tests, Reaction to Link or Node Failures and Restoration)
+    - Check alignment of internal parameter values (timers etc.) with Internet-Draft defaults
+    - Implement wire format as defined in https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
+    - Implement Wireshark Dissector for the wire format
+    - Improve Web Demonstrator interface (Python)
+
+ - **Technologies**
+   - Rust
+   - IPv6
+   - Linux
+   - NEST / ContainerNet
+   - Python for the Web Demo Interface
+
+ - **Source Code Repository**
+    - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
+    - Github Repository is in preparation
 
 ---
 

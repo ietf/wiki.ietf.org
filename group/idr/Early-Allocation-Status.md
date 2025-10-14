@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-07-13T22:30:22.644Z
+date: 2025-09-16T19:28:38.473Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -15,16 +15,33 @@ dateCreated: 2023-02-15T05:33:03.580Z
 ### (draft-ietf-idr-sr-policy-safi registries)  
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
- [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (26) | ELP Sub-TLV  | REady based on-03 text   
+ [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (26) | ELP Sub-TLV  | Ready based on-03 text   
 | [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | Ready based on (-13 text), Needs -14 (editorial)  |   
 | [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD2 (18) |  Reverse Segment List sub-TLV  | allocation OK (-13 text_, Needs -14 (editorial) |
 | [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)| SR Policy List Sub-TLVs  | BGP Tunnel Encapsulation | TBD (19) | Segment List ID Sub-TLV  | ok with -04 text | 
+| [draft-ietf-idr-sr-policy-metric/](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | -03 text addresses prior shepherd comments by reference to sr-safi RFC 9830 |
 {.dense}
+
+### SR Policy Metric - Metric Types
+
+This registry is specified in draft-ietf-idr-sr-policy-metric.  The SR Policy List Sub-TLV is undergoing early allocation and this registry needs to be tracked until either publication or the updated IANA early registry procedures are implemented.
+
+| Code Point |         Metric Type                      |
+|------------|------------------------------------------|
+|     0      | IGP Metric                               |
+|     1      | Min Unidirectional Link Delay [RFC7471]  |
+|     2      | TE Metric [RFC3630]                      |
+|     3      | Hop Count (refer [RFC5440])              |
+|     4      | SID List Length                          |
+|     5      | Loss Rate                                |
+|    6-250   | Unassigned                               |
+|  251-255   | Private Use (not to be assigned by IANA) |
+{.dense}
+
 
 ## Pending early allocation, Holding for draft revision 
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
-| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (20) | metric Sub-TLV  | Needs revised draft (-03) |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (21) | Segment type L  | Needs revised draft (-03)  |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (22) | Segment type M   | Needs revised draft (-03) |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (23) | Segment type N | Needs revised draft (-03)  |

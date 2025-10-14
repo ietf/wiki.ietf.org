@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-08-14T14:15:31.779Z
+date: 2025-10-14T16:52:48.140Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 14, 2025
+# Informal Telechat - October 16, 2025
 
 There **WILL** be a meeting on this date.
 
@@ -28,8 +28,6 @@ Meeting password: 12345
 
 
 ## Regrets
-* Med
-* Kline, Erik
 
 
 ## Agenda
@@ -40,43 +38,29 @@ Note that this page is public.
 
 
 ### Administrivia
-* How do we add EODIR to the IETF Agenda for Plenary Meetings? (Cooley)
-	(Currently, the Friday morning EODIR meeting is in a side meeting room, but only advertised internally.  Here is the IETF 123 announcment:  https://mailarchive.ietf.org/arch/msg/eodir/QRYvrpVMg_f49-h5zCH404a46GA/)
-  * (Roman) Additionals questions/comments
-     * Should ALL directorates be added to the main agenda?
-     * Why are directorates currently scheduled like side meetings and can they be scheduled like the formal IETF activities they are?
-     * Note: just because a meeting is in the "side meeting room", does not make that meeting a side meeting (e.g., the morning IESG meetings)
-  
-* How to handle dispatch/secdispatch/witdispatch going forward.  Both dispatch and secdispatch have mailing lists already.  What about wit?  (Cooley)
 
-* [Non-WG List Audit](https://docs.google.com/spreadsheets/d/15qe1kRojQcL6uRE0rMv_f0NvbqeGKwkSccoInXR9CWs/edit?usp=sharing) (Cindy)
 
-* Reminder: [PLANNED DATATRACKER OUTAGE](https://www.ietf.org/blog/it-infrastructure-outage-2024-08-14/) at 1900UTC on 14 August 2025
 
-* Call for input on Datatracker state description.  Intent to ship by the end of August:
-  * [Revising the descriptive text for “WG States” of an I-D](https://docs.google.com/document/d/1-GQtUKS3TpEBypowXtLJuCmfShDMzFfnxvipiC94bqI/edit?tab=t.0#heading=h.zbmjait3sru8)
-  * [Revising the descriptive text for “IESG States” of an I-D](https://docs.google.com/document/d/1Nml_q2uxyYEHri6wQ-eQJgmuRoc4QEmBw0cIn3a0MTU/edit?)
 
 ### Document Discussions
 
-
-
 ### Management Issues
-
-* Follow-up of https://mailarchive.ietf.org/arch/msg/iesg-only/qzDK8a4DwkeS60jGyXjAtu_u_d4/# (Éric & Erik)
+* Ketan Talaulikar, Mahesh Jethanandani, and Roman Danyliw to work on an announcement regarding Datatracker state change for WG adoption -> https://docs.google.com/document/d/14Qoq3EjFxtG0QK28s_Oa9BeerymsWCH8yxIY-kNa03w/edit?tab=t.0
+* [Revision of IESG Statement on Documentation Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
+* Licensing clauses in IETF Contributions (Roman)
 
 ### WG News 
+
 
 ### Documents to Swap 
 
 ### Executive Sessions
- * Telechat draft (Cooley)
- * Processing outstanding appeals (Roman)
+
 
 
 ### AOB
 
-Tim Chown asked at the plenary about the costs of a 1 day pass. He was seeking to participate one day on-site because he was a Chair and could travel to his WG meeting and meet others, but unable to attend for the rest of the week this time. Can we explore why this was so costly?
+
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 

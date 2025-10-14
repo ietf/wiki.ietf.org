@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-03-07T14:29:36.974Z
+date: 2025-09-16T20:47:56.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -16,15 +16,19 @@ dateCreated: 2025-02-25T01:30:56.613Z
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  [draft-li-sr-policy-path-segment-01](https://datatracker.ietf.org/doc/draft-li-idr-bgp-ls-sr-policy-path-segment/)
-**current version:** -13
+**current version:** -14
 **Early Allocation**: yes 
 **implementations:** 1 (Huawei in VRP)   
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-path-segment](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)
 
+## Review -14
+**draft:**  [draft-ietf-idr-sr-policy-path-segment-14](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-14)
+**Status:** Soft allocation done, AD requested to do early allocation now that blocker is done. Authors have responded to Sue's point.  Jeff to audit whether author's response covers Sue's point.**
+**email:** https://mailarchive.ietf.org/arch/msg/idr/XyLbyZ0-Qy_zq9MgFumcmY6wjhY/ - author's response to Sue's 13 review.
 
 ## Review -13 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-13](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-13)
-**Status: **Needs revision, but Early Allocation can be done 
+**Status:** Needs revision, but Early Allocation can be done 
 **email:** https://mailarchive.ietf.org/arch/msg/idr/pNvmocZVRa1C3o92bhsdtjuttEs/
 
 

@@ -29,6 +29,7 @@ IETF administrative information about CoRE is available from [the CoRE Datatrack
 ## CoRE/CoAP external sites and tools
 There's a site for testing CoAP: https://coap.me/
 A website for all things CoAP: https://coap.space
+Some ancillary information about CoRE, including some examples and test vectors, additional explanatory resources etc. is at: https://github.com/core-wg/wiki/wiki
 
 ## CoRE IANA Registries
 

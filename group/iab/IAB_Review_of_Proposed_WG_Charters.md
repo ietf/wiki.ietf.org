@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-05-19T02:23:59.952Z
+date: 2025-09-18T18:20:26.652Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -40,6 +40,9 @@ IAB reviews of WG charters should be sent to the IAB and IESG mailing lists. The
 
 ## Review Assignments
 ### 2025-2026 Assignments
+- ONIONS: Alvaro Retana (2025-09)
+- WEBBOTAUTH: Jana Iyengar (2025-09)
+- SEAL: Dhruv Dhody (2025-09)
 - PROCON: Mark Nottingham (2025-05)
 - HPKE: Warren Kumari (2025-04)
 ### 2024-2025 Assignments

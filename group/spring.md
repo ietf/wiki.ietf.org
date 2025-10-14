@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-08-04T18:32:55.575Z
+date: 2025-10-03T22:18:10.982Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -42,6 +42,7 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
   * 2024-03-05 Authors sent request
   * 2024-07-19 Not ready. A first set of comments sent on the list (Bruno) https://mailarchive.ietf.org/arch/msg/spring/PO0jFSHaQZWEn1ABo55keNigVpc/
 * draft-ietf-spring-sr-for-enhanced-vpn
+  * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
 * draft-ietf-spring-cs-sr-policy
   * [Responsible Chair: Joel]
@@ -52,26 +53,19 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-srv6-path-segment
   * [Responsible Chair: Bruno]
   * 2025-01-20 Authors sent request
+* draft-ietf-spring-stamp-srpm-srv6
+  * [Responsible Chair: Alvaro]
+  * 2025-10-03 Authors sent request
 > History of WGLC
 https://wiki.ietf.org/en/group/spring/WGLC_history
 {.is-info}
 
 ## WG adoption requests
-* draft-cheng-spring-srv6-policy-resource-gurantee
-	 * 2023-09-28 Authors sent request
-* draft-salih-spring-srv6-inter-domain-sids
-  * 2024-01-30 Authors sent request
-  * -04 has 6 authors (must lower to <= 5)
-  * -05 has 4 authors
-  * 2024-11-14 is referenced by draft-ietf-idr-bgp-ct-srv6  which is going to WGLC
 * draft-liu-spring-sr-policy-flexible-path-selection
   * 2024-06-24 Authors sent request
 * draft-chen-spring-sr-policy-cp-validity
   * 2024-07-26 (IETF 120) Authors sent request 
   * https://datatracker.ietf.org/doc/draft-chen-spring-sr-policy-cp-validity/
-* draft-dong-spring-srv6-inter-layer-programming
-  * 2024-07-26 (IETF 120) Authors sent request
-  * https://datatracker.ietf.org/doc/draft-dong-spring-srv6-inter-layer-programming
 * draft-ali-spring-srv6-policy-sid-list-optimization
   * 2025-07-25 (IETF 123) Authors sent request
   * https://datatracker.ietf.org/doc/draft-ali-spring-srv6-policy-sid-list-optimization/

@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-05-02T20:04:40.005Z
+date: 2025-10-04T21:09:28.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -44,9 +44,9 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 ## Sunday, November 09, 2025
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
-|:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
-|      |        |      |       |         |          |             |       |
+|:-----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
+| 15:52 | AA3519 | Pete Resnick | resnick@episteme.net | YUL |  | Fairmont | Time is flight time |
+|       |        |      |       |         |          |             |       |
 
 ## Monday, November 10, 2025
 

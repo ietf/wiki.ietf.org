@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-06-25T17:01:32.566Z
+date: 2025-09-11T20:42:54.494Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -12,11 +12,11 @@ dateCreated: 2023-01-26T03:27:32.408Z
 
 ## Events and Scheduling 
 * [IAB 2025-2026 Schedule](/group/iab/2025_Schedule)
-* [IAB Informal Meeting Agenda](/group/iab/Agenda)
+* [IAB Meeting Agenda](/group/iab/Agenda)
 * [IAB Retreats](/group/iab/IAB_Retreats)
-* [IAB IETF 123 Agenda](/group/iab/Agenda123)
-* [IAB Breakout Room Reservations](/group/iab/Breakout123)
-* [IETF 123 BoF Coverage](/group/iab/Bof123)
+* [IAB IETF 124 Agenda](/group/iab/Agenda124)
+* [IAB Breakout Room Reservations](/group/iab/Breakout124)
+* [IETF 124 BoF Coverage](/group/iab/Bof124)
 * [New Work "Help Desk"](/group/iab/newwork-schedule)
 
 * [Archive of past Bof Coverage](/group/iab/Bof_Coverage)
@@ -32,8 +32,10 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [EODIR liaison](/group/iab/EODIR_Liaison)
 
 
-## Liaison Descriptions
-
+## Liaison Coordination
+* [Important resources and links](/group/iab/liaison_resources)
+* See also [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
+#### Additional Infos on (some) Liaison Relationships
 * [Broadband Forum (BBF) liaison relationship](/group/iab/BBF_liaison_relationship)
 * [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)

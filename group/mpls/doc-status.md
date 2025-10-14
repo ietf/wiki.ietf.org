@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-08-14T03:25:58.864Z
+date: 2025-09-30T15:45:38.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -32,19 +32,15 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
 
-
 ## Adoption Poll Complete But Pending Author Action
 
 Adoption polls may succeed or fail. In the case of failure, the document moves back to being just another individual I-D. In case of success, the chairs may instruct the authors to re-post the draft as a working group document before addressing the comments received from the working group, but sometimes adoption will be dependent on the authors making specific changes to the document. This state captures such documents.
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
+| 2025-09-15 | draft-mirsky-mpls-stamp | Attempt to merge with draft-ietf-mpls-stamp-pw  | Tony |  |
 
 ## MPLS WG Documents
-
-| Date | Draft | Responsible Chair | Notes |
-| --- | --- | --- | --- |
-| 2025-08-13 | draft-ietf-mpls-mna-psd-nrp-selector | Tony | Dependent on draft-ietf-mpls-mna-ps-hdr. Related to draft-ietf-mpls-mna-nrp-selector. Presented at IETF-123 | 
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
 
@@ -64,13 +60,12 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | New version posted 2025-07-07 for Jeffrey Zhang review | YANG Dr. completed | Tarek
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | New version posted 2025-07-07 for Jeffrey Zhang review | YANG Dr. completed | Tarek |
 
 ## In Working Group Last Call
 
-| Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd |
-|---|---|---|---|---|
-| 2025-08-26 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | 3rd WGLC | Yes | Tarek |
+| Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
+|---|---|---|---|---|---|
 
 ## Working Group Last Call Completed Pending Action
 
@@ -78,11 +73,12 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
+| 2025-08-26 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | Updates and discussions to address comments | Tarek |
 
 ## Post Working Group Last Call
 
 | Date | Draft | Action Needed | Shepherd |
 |---|---|---|---|
-| 2025-03-11 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | RFC Editor Queue | Tarek
+| 2025-06-13 | [draft-ietf-mpls-spring-lsp-ping-path-sid](https://datatracker.ietf.org/doc/draft-ietf-mpls-spring-lsp-ping-path-sid/) | RFC Editor Queue | Tarek |
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
