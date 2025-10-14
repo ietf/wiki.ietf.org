@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-14T12:11:16.407Z
+date: 2025-10-14T12:20:28.466Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -168,7 +168,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Thursday, November 5, 2025
 
 * 08:30 - 09:30 -- INT AD office hour (tentative Éric V)
-* 09:30 - 10:30 -- OPS AD Office Hour (Med/Mahesh)
+* 09:30 - 10:30 -- OPS AD Office Hour (Med)
 * TIME - TIME -- Thing (Person responsible)
 
 
