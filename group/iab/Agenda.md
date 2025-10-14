@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-14T14:44:11.256Z
+date: 2025-10-14T23:39:52.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,13 +22,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Appeal Processing Discussion
+### 1. Age Workshop Discussion
+
+Context: Share initial impressions of age workshop
+
+### 2. Appeal Processing Discussion
 
 Context: Discuss approach to responding to https://mailarchive.ietf.org/arch/msg/ietf/cjdtECq_JVVPhU4gQsIZTsYbIxs/
 
-### 2. Age Workshop Discussion
-
-Context: Share initial impressions of age workshop
 
 ### 3. 
 
