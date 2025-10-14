@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-09T18:09:34.719Z
+date: 2025-10-14T16:52:48.140Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -43,13 +43,12 @@ Note that this page is public.
 
 
 ### Document Discussions
-* Discussion with the ISE of upcoming RFC5742 conflict reviews of draft-dekater-scion-{dataplane,controlplane,pki} (Roman) (Admin note: we will cover this topic first regardless of where it lands in the agenda)
-
 
 ### Management Issues
 * Ketan Talaulikar, Mahesh Jethanandani, and Roman Danyliw to work on an announcement regarding Datatracker state change for WG adoption -> https://docs.google.com/document/d/14Qoq3EjFxtG0QK28s_Oa9BeerymsWCH8yxIY-kNa03w/edit?tab=t.0
 * [Revision of IESG Statement on Documentation Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
- 
+* Licensing clauses in IETF Contributions (Roman)
+
 ### WG News 
 
 
