@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-13T08:07:40.112Z
+date: 2025-10-14T18:47:58.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -338,6 +338,27 @@ Greg White (g.white@cablelabs.com)
     - Github Repository is in preparation
 
 ---
+
+### AI-network: Data and Agent Aware Inference and Training Network (DA-ITN)
+
+- **Champion**
+
+  - Maryam Hosseini   (maryam.hosseini3@huawei.com)
+  - Hesham Moussa     (Hesham.moussa@huawei.com)
+  - Arashmid Akhavain (arashmid.akhavain@huawei.com)
+
+ - **Project Info**
+
+Artificial Intelligence (AI) is rapidly reshaping industries and daily life, driven by advances in large language models (LLMs) such as ChatGPT, Claude, Grok, and DeepSeek. These models have demonstrated the transformative potential of AI across diverse applications, from productivity tools to complex decision-making systems. However, the effectiveness and reliability of AI hinge on two foundational processes: training and inference.  Each presents unique challenges related to data management, computation, connectivity, privacy, trust, security, and governance.  **In this project, we introduce the Data and Agent Aware-Inference and Training Network (DA-ITN) framework — a unified, intelligent, multi-plane network architecture designed to address the full spectrum of AI system requirements.** The architecture features dedicated control, data, and operations & management (OAM) planes to orchestrate training, inference, and agentic services while ensuring reliability, transparency, and accountability. 
+
+In this demo, we will be showcasing the first look into a concept that we refer to as **data descriptors**. These are unique extractions collected from data available for training and can be used to guide the all of the AI services that the DA-ITN enables. As an exampled, we will be demonstrating how these data descriptors are used to facilitate efficient sequential training of a model across a knowledge sharing network that consists of a number of connected data nodes and an orchestrator. 
+
+- **Resources**
+For more information on the AI-Network (DA-ITN), please refer to our submitted draft at: https://datatracker.ietf.org/doc/draft-akhavain-moussa-ai-network/
+
+---
+
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
