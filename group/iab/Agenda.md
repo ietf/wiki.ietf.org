@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-11T03:52:10.463Z
+date: 2025-10-14T14:34:49.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,6 +39,7 @@ Context:
 - Cindy
 - Liz
 - Dhruv
+- Jason
 
  
 
