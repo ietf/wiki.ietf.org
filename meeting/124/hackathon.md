@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-14T18:47:58.497Z
+date: 2025-10-15T13:13:14.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -357,7 +357,28 @@ In this demo, we will be showcasing the first look into a concept that we refer 
 For more information on the AI-Network (DA-ITN), please refer to our submitted draft at: https://datatracker.ietf.org/doc/draft-akhavain-moussa-ai-network/
 
 ---
+### Secure Hybrid Network Monitoring
+- **Champions**
+	- Yutaka Oiwa (AIST, Japan), [y.oiwa@aist.go.jp](mailto:y.oiwa@aist.go.jp)
+- **Members**
+	- Satoru Kanno (GMO CONNECT, Inc., Japan), [kanno@gmo-connect.jp](mailto:kanno@gmo-connect.jp)
+	- Yumi Sakemi (GMO CONNECT, Inc., Japan), [sakemi-yumi@gmo-connect.jp](mailto:sakemi-yumi@gmo-connect.jp)  
+	
+- **Project Info**
+We propose **Secure Hybrid Network Monitoring** that analyzes requirements for ensuring and monitoring the security status of the network used under complex network environment such as hybrid cloud or mixed cloud settings.
 
+- **Hackathon Work Item**
+	- updating Internet-Drafts  
+	- developing a PCS (Path Characteristics Service) demo
+
+- **Relevant Drafts**
+	- Secure Hybrid Network Monitoring – Problem Statement
+  	https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/
+
+	- Secure Hybrid Network Monitoring – Path Characteristics Service
+  	https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/
+
+---
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
