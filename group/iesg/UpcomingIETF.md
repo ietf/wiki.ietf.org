@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-15T13:20:38.265Z
+date: 2025-10-15T13:23:39.625Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -142,37 +142,37 @@ This room is available for anyone on the IESG, for AD office hours or any meetin
 
 If you would like your meeting to be added to the main meeting agenda, please email support or ask Liz directly!
 
-## Sunday, November 1, 2025
+## Sunday, November 2, 2025
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * 14:30 - 15:30 -- RTG AD office hours (Gunter/Ketan/Jim)
 * TIME - TIME -- Thing (Person responsible)
 
-## Monday, November 2, 2025
+## Monday, November 3, 2025
 
 * 11:45-12:45 -- ONIONS meeting (Mahesh)
 * 1315-1415 -- Sec AD Hours (Cooley/Wouters)
 
 
-## Tuesday, November 3, 2025
+## Tuesday, November 4, 2025
 
 * 08:30-09:30 -- ART AD office hours (Andy)
 
 
-## Wednesday, November 4, 2025
+## Wednesday, November 5, 2025
 
 * 17:00 - 17:30 -- IESG Meditation/Relaxation before plenary (Éric V)
 * TIME - TIME -- Thing (Person responsible)
 
 
-## Thursday, November 5, 2025
+## Thursday, November 6, 2025
 
 * 08:30 - 09:30 -- INT AD office hour (tentative Éric V)
 * 09:30 - 10:30 -- OPS AD Office Hour (Med)
 * TIME - TIME -- Thing (Person responsible)
 
 
-## Friday, November 6 2025
+## Friday, November 7 2025
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
 * TIME - TIME -- Thing (Person responsible)
