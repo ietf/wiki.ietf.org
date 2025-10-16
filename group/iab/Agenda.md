@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-14T23:40:26.130Z
+date: 2025-10-16T14:38:28.439Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-10-15, 21:00-22:00 UTC)
+# IAB Formal Meeting Agenda: 2025-10-22, 13:00-15:00 UTC)
 
-## There WILL be a meeting on 2025-10-15
+## There WILL be a meeting on 2025-10-22
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m773ff80d33dd9949ddb94d654ab1f7d8
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m92c425d161e1be552b21d6b84b1c09f6
 
 
 ## Agenda
@@ -22,14 +22,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Age Workshop Discussion
+### 1. 
 
-Context: Share initial impressions of age workshop
+Context: 
 
-### 2. Appeal Processing Discussion
+### 2. 
 
-Context: Discuss approach to responding to https://mailarchive.ietf.org/arch/msg/ietf/cjdtECq_JVVPhU4gQsIZTsYbIxs/
-
+Context: 
 
 ### 3. 
 
@@ -37,27 +36,20 @@ Context:
 
 ## Regrets
 
-- Cindy
-- Liz
-- Dhruv
-- Jason
-- Qin
+
 
  
 
 
 ## Topics for Future Informal Meetings
 
-ISOC Coordination (Mirja)
-
-- At every IETF meeting can we reserve one slot (Sunday or breakfast meeting) for ISOC? Reasoning: Of course we can always explicitly ask ISOC to report on a specific topic but if we have a fixed slot reserved and ask them to propose a topic, I think that would give us some additional interesting insight and could also help to have some continuity in information exchange and build relations with different people from ISOC. (Mirja)
 
 
 ## Upcoming Formal IAB Business Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-- 2025-10-22: IAB Business Meeting (Reserved)
+- 2025-10-22: IAB Business Meeting 
 
 -- 2025-11-01 - 2025-11-07: IETF 124 Montreal --
 
