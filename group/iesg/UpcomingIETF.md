@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-15T13:23:39.625Z
+date: 2025-10-16T19:15:46.711Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -41,8 +41,8 @@ Please add any topics for either IESG only meetings at IETF 124, or the joint me
 
 ### AMS-IETF Leadership Venue Tour & Happy Hour
 The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
-**Tour:** Around 16:30 (exact time TBD)
-**Happy Hour:** Starts at the end of the tour, approx. 16:45-18:00 (exact details TBD)
+**Tour:** 17:00
+**Happy Hour:** Starts at the end of the tour, approx. 17:15-18:30 (exact details TBD)
 
 
 
@@ -62,10 +62,14 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 09:30-11:00 - IESG Meeting (Duluth)
 
-> Agenda items here
 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
+> 
+> Agenda items here
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
+> 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: GEN, WIT, OPS, IAB, SEC, RTG, ART, IRTF, INT
@@ -89,6 +93,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 08:00-09:20 IESG Meeting (Duluth)
 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1002
+> 
 > Agenda items here
  
 ## Tuesday, November 4, 2025
@@ -100,7 +106,8 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 ## Wednesday, November 5, 2025
 ### 08:00-09:20 IESG Meeting  (Duluth)
 
-
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1005
+> 
 > Agenda:
 > 1. Plenary Slide Review + Prep
 
@@ -126,6 +133,8 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Duluth)
 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1007
+> 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
     Random order: SEC, IAB, RTG, IRTF, OPS, INT, WIT, GEN, ART
