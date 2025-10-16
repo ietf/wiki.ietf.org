@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-14T16:52:48.140Z
+date: 2025-10-16T08:30:41.834Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,6 +45,7 @@ Note that this page is public.
 ### Document Discussions
 
 ### Management Issues
+* Closing of Note Well Review 2025 https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0#heading=h.u7qvvzmcl3q7
 * Ketan Talaulikar, Mahesh Jethanandani, and Roman Danyliw to work on an announcement regarding Datatracker state change for WG adoption -> https://docs.google.com/document/d/14Qoq3EjFxtG0QK28s_Oa9BeerymsWCH8yxIY-kNa03w/edit?tab=t.0
 * [Revision of IESG Statement on Documentation Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
 * Licensing clauses in IETF Contributions (Roman)
