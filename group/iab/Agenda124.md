@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-15T23:49:25.443Z
+date: 2025-10-16T19:17:33.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -40,8 +40,8 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ### AMS-IETF Leadership Venue Tour & Happy Hour
 The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
-**Tour:** Around 16:30 (exact time TBD)
-**Happy Hour:** Starts at the end of the tour, approx. 16:45-18:00 (exact details TBD)
+**Tour:** 17:00
+**Happy Hour:** Starts at the end of the tour, approx. 17:15-18:30 (exact details TBD)
 
 
 ## Sunday, November 2, 2025
@@ -53,6 +53,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Duluth)
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
 
 ### 14:00-16:00 - Either IAB Meeting (Room: Duluth)
 
@@ -77,7 +78,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 08:00-09:20 IAB Business Meeting (Room: Rue Crescent)
 
-
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1004
+> 
 > Agenda:
 > 1. 
 
@@ -93,6 +95,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 08:00-09:20 IAB Business Meeting (Room: Rue Crescent)
 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1006
+> 
 > Agenda:
 > 1. 
 
@@ -109,10 +113,12 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Room: Duluth)
 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1007
+> 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 
 
-### 16:45-17:45: Farewell Reception (Room: TBD)
+### 16:45-17:45: Farewell Reception (Convention Floor Foyer)
 
 
 
