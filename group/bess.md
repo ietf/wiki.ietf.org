@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-10-01T16:52:18.014Z
+date: 2025-10-17T15:08:28.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -91,13 +91,10 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-evpn-bfd-10 (Matthew):
 - draft-ietf-bess-evpn-mvpn-seamless-interop-08 (Matthew): 
-- draft-ietf-bess-ebgp-dmz-06 (Matthew): 
-	- Expired, note sent to authors. 
+
 - draft-ietf-bess-evpn-unequal-lb (Stephane):
-  - the document has a lot of normative dependencies that are not ready yet
-  - An outstanding comment from Jeffrey about inconsistent/inappropriate use of "ECMP"
-  - Review requested to IDR chairs
-  - RTGDIR and GENART review requested => comments addressed
+  - WGLC done
+	- Neeraj to fix nits, then will move to IESG
 - draft-ietf-bess-rfc7432bis-12 (Jeffery):
 - draft-ietf-bess-evpn-dpath-02 (Jeffery):
 - draft-ietf-bess-evpn-geneve: (Matthew)
@@ -185,7 +182,9 @@ Shepherd's name indicated within parenthesis.
 (Removed as this is tracked in datatracker)
 
 
-
+- draft-ietf-bess-ebgp-dmz-08 (Matthew): 
+	- New version of the document published
+	- doc may move to IDR
 
 
 
