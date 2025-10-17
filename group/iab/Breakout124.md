@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-10-15T20:15:46.488Z
+date: 2025-10-17T02:58:20.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -32,6 +32,7 @@ For food & beverage service requests, please include:
 
 
 ## Wednesday 
+* 0800-920: [Future of the Open Web](https://docs.google.com/document/d/1WaXDfwPP6olY-UVQxDZKNkUyqvmHt-u4kREJW4ys6ms/edit?usp=sharing) (Mark)
 
 
 ## Thursday 
