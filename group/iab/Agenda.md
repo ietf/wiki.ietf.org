@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-16T14:38:28.439Z
+date: 2025-10-17T18:25:53.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,17 +22,62 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. 
+### 1. Administrivia (Cindy) - 10 mins (Public)
 
-Context: 
+#### 1.1. Attendance
 
-### 2. 
+#### 1.2. Agenda bash and announcements
 
-Context: 
+#### 1.3. Meeting Minutes
 
-### 3. 
+For approval
 
-Context: 
+-  2025-09-24 business meeting - (submitted 2025-09-25) 
+
+
+### 2. Open Fiber Data Standard (OFDS) - (Stephen Song - 20 mins)
+
+
+### 3. Human Rights in Standards (Simone Onofri - 20 mins)
+
+
+### 4. IAB Open Meeting at IETF 124 (Tommy, Jana, - 15 mins)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/71
+
+
+### 5. IAB Business Meetings at IETF 124 (Tommy, Cindy - 10 mins)
+
+  Wiki: https://wiki.ietf.org/en/group/iab/Agenda124
+
+
+### 6. BOF Coverage at IETF 125 (Cindy - 10 mins)
+
+  Wiki: https://wiki.ietf.org/group/iab/Bof124
+
+
+### 7. Monthly Reports (10 mins)
+
+- IRTF Chair
+- IESG Liaison
+- ICANN Board Liaison
+- IANA Liaison
+- IAB Outreach Coordinator
+- Liaison Coordinators
+
+
+### 8. IAB Decision Process (Tommy <5 mins)
+
+ Goal: Minute the e-vote to update the IAB Decision Making Process
+
+ GitHub: https://github.com/intarchboard/responsibilities/issues/2
+
+
+### 9. Review of Open Issues for Responsibilities
+
+ GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
 
 ## Regrets
 
