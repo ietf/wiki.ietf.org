@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-18T12:32:02.912Z
+date: 2025-10-18T19:45:05.978Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -384,6 +384,24 @@ We propose **Secure Hybrid Network Monitoring** that analyzes requirements for e
   	https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/
 
 ---
+
+### Model Context Protocol (MCP) for Network Management
+- **Champions**
+  - YUANYUAN YANG  (yangyuanyuan55@huawei.com)
+  - RUYI ZHANG    (zhangruyi8@huawei.com)
+  - GUANMING ZENG (zengguanming@huawei.com)
+  - LEI QI     (qilei1@huawei.com)
+  - YUN LIANG (liangyun25@huawei.com)
+
+- **Project Info**
+  - The Model Context Protocol (MCP) is an open protocol that provides a standardized way to connect Large Language Models (LLMs) to data sources and tools. This project investigates the application of MCP in network management to create a decoupled, agile architecture for exposing network capabilities as tools for AI agents. It enables intent-based network operations, closed-loop automation, and fosters an ecosystem for innovation by allowing third-party AI applications to interact with network functions seamlessly.
+  - This Hackathon project brings together MCP client and server implementations to test and demonstrate their use in network management, including network exposure and integration with existing protocols and data models. We have successfully integrated CLI with MCP, and our next phase will focus on integrating YANG interfaces.
+- **Specifications**
+  - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm/
+  - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm/
+
+
+----
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
