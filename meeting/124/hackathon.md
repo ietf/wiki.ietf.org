@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-15T13:13:14.660Z
+date: 2025-10-18T12:32:02.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -249,7 +249,7 @@ Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/abou
 
 ---
 
-### Identity Crisis in Attested TLS for Confidential Computing
+### Identity Crisis in Attested TLS Protocols for Confidential Computing
 - **Champions**
 
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
@@ -268,6 +268,11 @@ Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/abou
 		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+
+- **Proposed Readings**
+  > Technical Concepts: https://www.researchgate.net/publication/396199290_Perspicuity_of_Attestation_Mechanisms_in_Confidential_Computing_Technical_Concepts
+  > General Approach: https://www.researchgate.net/publication/396593308_Perspicuity_of_Attestation_Mechanisms_in_Confidential_Computing_General_Approach
+  > Validation of TLS 1.3 Key Schedule: https://www.researchgate.net/publication/396245726_Perspicuity_of_Attestation_Mechanisms_in_Confidential_Computing_Validation_of_TLS_13_Key_Schedule
 
 - **Background on Attestation**
 
