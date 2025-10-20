@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-18T19:45:11.841Z
+date: 2025-10-20T14:55:08.288Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -66,7 +66,8 @@ Related activities before and after the Hackathon weekend
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
   * Monday - Friday, 03 - 07 November, Room: **TBD** 
-  * View the [schedule](codelounge) or reserve space for your team/project
+
+## Meetecho
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
