@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-20T14:58:43.612Z
+date: 2025-10-20T15:06:27.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -400,6 +400,22 @@ We propose **Secure Hybrid Network Monitoring** that analyzes requirements for e
 - **Specifications**
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm/
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm/
+
+
+----
+
+### Multi-modal Knowledge Graph for Network Management
+- **Champions**
+Mingzhe Xing  xingmz@zgclab.edu.cn
+Chenguang Du  ducg@zgclab.edu.cn
+Yujia Gao     gaoyj@zgclab.edu.cn
+- **Project Info**
+The Problem: Network management are getting more complex, coming from many different data sources and large scale networks. Traditional network management systems struggle to keep up, and while AI models like GPT are great with language, they don't understand the specific logic of network management well enough to be truly effective.
+Our Hackathon Solution: We built MMKG, an intelligent defense system that acts like a network expert's brain. It connects the power of large language models (LLMs) with a structured knowledge base built specifically for understanding network requirements.
+How It Works:
+- The "Operator Brain" (Knowledge Graph): We created a pipeline that automatically builds a unified knowledge graph from diverse textual data sources. This graph understands the relationships between different terms.
+- Speaking the Language of Networks (PCAPBERT): We developed a custom AI model that translates raw network traffic data into meaningful, semantic embeddings. This allows our system to "understand" network packets in context.
+- The Intelligent Reasoning Engine (KGRAG): This is the core of our project. It uses our knowledge graph to provide the LLM with accurate, structured, and causally consistent information. This supercharges the LLM, enabling it to perform complex network management tasks with high reliability.
 
 
 ----
