@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-20T14:55:26.156Z
+date: 2025-10-20T14:58:43.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -39,7 +39,7 @@ Hackathon *(all times are GMT-4)*
 * **10:00** : Room open for all - pastries and coffee provided
 * **10:30** : Hackathon kickoff
 * **10:45** : Form teams, see [Team Schedule](teamschedule)
-* **12:30** : Lunch provided
+* **13:00** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
 * **18:30** : Dinner provided
 * **20:30** : Room closes 
@@ -48,7 +48,7 @@ Hackathon *(all times are GMT-4)*
 ### Sunday, 02 November
 
 * **09:30** : Room opens - pastries and coffee provided
-* **12:30** : Lunch provided
+* **13:00** : Lunch provided
 * **13:30** : Hacking stops, prepare brief presentation of project
 * **14:00** : Project results presentations
 * **16:00** : Hackathon ends
@@ -59,7 +59,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 03 November, Time: 19:00 - 20:00, Room: **TBD**
+  * Monday, 03 November, Time: 19:00 - 20:00, Room: [Espace 21 Gallerie](https://datatracker.ietf.org/meeting/124/floor-plan?room=espace-21-gallerie])
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 03 November
 
