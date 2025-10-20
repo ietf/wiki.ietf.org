@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-10-17T02:58:20.449Z
+date: 2025-10-20T03:28:08.673Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -38,7 +38,7 @@ For food & beverage service requests, please include:
 ## Thursday 
 
 * 0800-0920: IAB Business Meeting
-* 1300-1430: EDM program meeting (proposed)
+* 1300-1430: EDM program meeting
 
 ## Friday 
 
