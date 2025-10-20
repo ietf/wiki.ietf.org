@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-10-20T14:47:39.089Z
+date: 2025-10-20T18:58:27.998Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -26,7 +26,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft-ietf-idr-sr-policy-safi-17  | Sue Hares  | At RFC editor  | RFC | 3/18/2024 | 7/20/2024  | 2/7/2025 | 25 days | 363 days  | TBD |  
 | draft-ietf-idr-bgp-sr-segment-types-ext-08 | Sue Hares | AT RFC editor | RFC |  3/18/2024 | 7/30/2024 |   2/20/2025  | 22 day | 363 days  | TBD | 
 | draft-ietf-idr-bgp-ls-sr-policy-17 | Sue Hares | at RFC Editor| RFC | 11/22/2024 | 12/13/2024 |  3/6/2025 |  8 days | 114 days  | TBD | 
-| draft-ietf-idr-cpr-08 |  Sue Hares | at RFC Editor| RFC  | 5/17/2024 | 7/19/2024 | 2/20/2025 | 24 days | 303 days | TBD | 
 |  draft-ietf-idr-bgp-ct-39  |  Sue Hares  | RFC editor  | RFC | 3/1/2024 | 4/26/2024 | 3/3/2025 | 13 days |  380 days | TBD | 
 |  draft-ietf-idr-bgp-car-16 |  Sue Hares  | RFC editor | RFC  | 3/1/2024 | 4/26/2024 | 3/10/2025 | 6 days | 380 days | TBD | 
 | draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 8/15/2024 | 1/16/2025 | 3/7/2025 | 9 days | 213 days | TBD |  
