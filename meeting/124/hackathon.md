@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-21T01:04:38.350Z
+date: 2025-10-21T06:15:25.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -452,6 +452,17 @@ Upon discovering the SCITT and RATS tables, attempt to join them to facilitate c
   - Concise Reference Integrity Manifest
     https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
 
+----
+
+### PQC in OSS
+- **Champions**
+Kavish Nadan <kn@cyberstorm.mu>
+Loganaden Velvindron <logan@cyberstorm.mu>
+Poshan Peeroo <poshanpeeroo@cyberstorm.mu>
+Atish Joottun 
+- **Project Info**
+PQC in FOSS
+```
 ----
 
 
