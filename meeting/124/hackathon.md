@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-21T09:26:33.725Z
+date: 2025-10-21T09:49:55.636Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -453,6 +453,30 @@ Upon discovering the SCITT and RATS tables, attempt to join them to facilitate c
 
 ----
 
+### SCHC Context Management & Rule Usage KPI
+
+- **Champions**
+  - J. Alejandro FERNANDEZ [javier-alejandro.fernandez@imt-atlantique.fr](mailto:javier-alejandro.fernandez@imt-atlantique.fr)
+  - L. TOUTAIN [laurent.toutain@imt-atlantique.fr](mailto:laurent.toutain@imt-atlantique.fr)  
+
+- **Project Info**
+The Static Context Header Compression (SCHC) mechanism is a framework that reduces protocol overhead in IoT environments, where computing resources are limited (little memory or processing power, large battery life-span constraints, ...).
+As its name suggests, SCHC relies on a static shared context, or set of rules, to be able to compress and decompress network packets. This is a challenge in highly dynamic or constantly evolving network traffic.
+The CORECONF (CoAP Management Interface) standard is a promising means to manage client/server resources and configurations in constrined networks.
+We propose extending the SCHC framework with rule and context management capabilities through CORECONF, to make it possible to adapt SCHC rules on the fly.
+
+- **Hackathon Work Item**
+  - SCHC + CORECONF Integration PoC
+  - Rule Management Scenario Demo (Sample Use-Case)
+  - Implementation of Rule Usage KPIs
+  
+- **Relevant Documents**
+  - SCHC: Generic Framework for Static Context Header Compression and Fragmentation - [RFC 8724](https://datatracker.ietf.org/doc/rfc8724/).
+  - CoAP Management Interface (CORECONF) - [draft-ietf-core-comi-20](https://datatracker.ietf.org/doc/draft-ietf-core-comi/).
+  - CORECONF Rule management for SCHC - [draft-toutain-schc-coreconf-management-01](https://datatracker.ietf.org/doc/draft-toutain-schc-coreconf-management/).
+
+----
+
 ### PQC in OSS
 - **Champions**
 Kavish Nadan <kn@cyberstorm.mu>
@@ -461,6 +485,7 @@ Poshan Peeroo <poshanpeeroo@cyberstorm.mu>
 Atish Joottun 
 - **Project Info**
 PQC in FOSS
+
 ```
 ----
 
