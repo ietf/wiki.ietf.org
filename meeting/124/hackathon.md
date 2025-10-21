@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-21T00:42:10.831Z
+date: 2025-10-21T00:54:24.264Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -423,21 +423,34 @@ How It Works:
 ### A YANG Data Model for Multi-Statements of SCITT
 
 - **Champions**
- - Nobuo AOKI [n_aoki@ieee.org](mailto:n_aoki@ieee.org)
+  - Nobuo AOKI [n_aoki@ieee.org](mailto:n_aoki@ieee.org)
 - **Member**
 
 - **Project Info**
 We propose an extension for SCITT as an **A YANG Data Model for Multi-Statements** to provide integrated Supply Chain information for the computer system protection. 
 During the hachathon, we will solicit additional adaptable use cases and explore flexible YANG models that complement area not coverd by exisitang Supply Chain Security specifications.
-However, we will take care not to impact the ongoing RFC making work for the pioneering SCITT Architecture and SCITT SCRAPI.
+However, we will take care not to impact the ongoing RFC making work for the pioneering SCITT Architecture and SCITT SCRAPI. 
+Upon discovering the SCITT and RATS tables, attempt to join them to facilitate consensus-building discussions. 
 
 - **Hackathon Work Item**
- - uploading revised I/D version 00 w/o ToDO
- - soliciting use-case
- - developing a prototyping YANG schemer
+  - Looking for SCITT tables in Hackathon room
+  - uploading revised draft version 00 w/o ToDO
+  - soliciting use-case
+  - developing a prototyping YANG schemer
 
 - **Relevant Draft**
-
+  - A YANG Data Model for Multi-Statements of SCITT (Beta)
+	  https://github.com/aoki-n1/draft-nobuo-scitt-extension-schemer
+  - An Architecture for Trustworthy and Transparent Digital Supply Chains
+  	 https://datatracker.ietf.org/doc/draft-ietf-scitt-architecture/
+  - SCITT Reference APIs
+ 	  https://datatracker.ietf.org/doc/draft-ietf-scitt-scrapi/
+  - RFC 9472
+ 	  https://datatracker.ietf.org/doc/rfc9472/
+  - Hardware Bill of Materials (HBOM) Framework for Supply Chain Risk Management
+  	 https://www.cisa.gov/resources-tools/resources/hardware-bill-materials-hbom-framework-supply-chain-risk-management
+  - Concise Reference Integrity Manifest
+    https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
 
 ----
 
