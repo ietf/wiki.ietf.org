@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-09-23T03:41:00.215Z
+date: 2025-10-21T12:22:05.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -51,6 +51,8 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Oct 2025|[RIPE91](https://ripe91.ripe.net/)|Operators|Participants|Suresh, Mirja, Eric|[Details](https://ripe91.ripe.net/programme/meeting-plan/sessions/17/CGDZGZ/)|
+|Sept 2025|[CAPIF4](https://www.ripe.net/meetings/regional-meetings/capif/previous-events/capif-4/agenda/)|Regional|Knowledge sharing|Dhruv|-|
 |Sept 2025|[inSIG2025](https://insig.in/insig-agenda-2025/)|Mixed|all levels|Dhruv|[IETF in IG Ecosystem](https://docs.google.com/presentation/d/1zcOSnnvVO8e2wAJt2w_NPxAjetGlsK94qz1TOeTi31o/edit?usp=sharing)<br>[Internet Standards & RFCs](https://docs.google.com/presentation/d/1fMdu8LtfaO0YywRXVeoatPOG4JC6FWv2Na0OtQKiMDk/edit?usp=sharing)|
 |Sept 2025|[Youth IGF India](https://youthigf.in/agenda-2025/)|Internet Governance for Youth|Knowledge sharing|Dhruv|-|
 |Sept 2025|[AIORI Workshop](https://portal.aiori.in/aiori-2/student-workshops/)|Students, Researchers|Participants|Dhruv|[Slide](https://docs.google.com/presentation/d/12rt_u4DnyU1bxxHccqJlY5tbLWNxFnFlYtaVDrHwvI4/edit?usp=sharing)| 
