@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-21T06:15:25.900Z
+date: 2025-10-21T09:26:33.725Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -446,7 +446,6 @@ Upon discovering the SCITT and RATS tables, attempt to join them to facilitate c
   - SCITT Reference APIs
  	  https://datatracker.ietf.org/doc/draft-ietf-scitt-scrapi/
   - RFC 9472
- 	  https://datatracker.ietf.org/doc/rfc9472/
   - Hardware Bill of Materials (HBOM) Framework for Supply Chain Risk Management
   	 https://www.cisa.gov/resources-tools/resources/hardware-bill-materials-hbom-framework-supply-chain-risk-management
   - Concise Reference Integrity Manifest
