@@ -2,13 +2,13 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-10-20T03:28:08.673Z
+date: 2025-10-21T21:57:39.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
 ---
 
-**IAB Breakout Room: TBD**
+**IAB Breakout Room: Rue Crescent**
 
 The IAB breakout room is available for use by IAB members -  schedule a time-slot by editing the wiki below.  
 
