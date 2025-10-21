@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-21T00:54:24.264Z
+date: 2025-10-21T01:04:38.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -429,7 +429,7 @@ How It Works:
 - **Project Info**
 We propose an extension for SCITT as an **A YANG Data Model for Multi-Statements** to provide integrated Supply Chain information for the computer system protection. 
 During the hachathon, we will solicit additional adaptable use cases and explore flexible YANG models that complement area not coverd by exisitang Supply Chain Security specifications.
-However, we will take care not to impact the ongoing RFC making work for the pioneering SCITT Architecture and SCITT SCRAPI. 
+However, we will take care **not to impact the ongoing RFC making work for the pioneering SCITT Architecture and SCITT SCRAPI**. 
 Upon discovering the SCITT and RATS tables, attempt to join them to facilitate consensus-building discussions. 
 
 - **Hackathon Work Item**
