@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-16T19:17:33.960Z
+date: 2025-10-21T18:55:37.510Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -21,7 +21,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 * Sally will be available on Thursday morning if we want an ISOC discussion session. We can check in on WSIS+20 status, etc.
 
-* RG Review (NMRG? Dirk to confirm)
+* NMRG Review (Tuesday)
 
 * IAB meeting time rotation (Dhruv)
 
