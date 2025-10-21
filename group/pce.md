@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-13T06:50:35.667Z
+date: 2025-10-21T17:48:22.806Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -35,7 +35,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-|draft-dong-pce-pcep-nrp|Pending| IPR (6/8)-Author (2/2)-Contributor | Julien |
+|draft-dong-pce-pcep-nrp|Pending| IPR (8/8)-Author (2/2)-Contributor | Julien |
 | draft-chen-pce-sr-mpls-sid-verification | Pending | - | - |
 | draft-xpbs-pce-topology-filter | Pending | - | - |
 | draft-chen-pce-sr-ingress-protection | Expired | - | - |
@@ -117,7 +117,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | EDIT | - | Dhruv |
+| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | EDIT | Auth48 approved, RFC pending | Dhruv |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
 | [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | EDIT | - | Julien |
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | EDIT |  - | Andrew |
