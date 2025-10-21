@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-20T15:06:27.253Z
+date: 2025-10-21T00:42:10.831Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -416,6 +416,27 @@ How It Works:
 - The "Operator Brain" (Knowledge Graph): We created a pipeline that automatically builds a unified knowledge graph from diverse textual data sources. This graph understands the relationships between different terms.
 - Speaking the Language of Networks (PCAPBERT): We developed a custom AI model that translates raw network traffic data into meaningful, semantic embeddings. This allows our system to "understand" network packets in context.
 - The Intelligent Reasoning Engine (KGRAG): This is the core of our project. It uses our knowledge graph to provide the LLM with accurate, structured, and causally consistent information. This supercharges the LLM, enabling it to perform complex network management tasks with high reliability.
+
+
+----
+
+### A YANG Data Model for Multi-Statements of SCITT
+
+- **Champions**
+ - Nobuo AOKI [n_aoki@ieee.org](mailto:n_aoki@ieee.org)
+- **Member**
+
+- **Project Info**
+We propose an extension for SCITT as an **A YANG Data Model for Multi-Statements** to provide integrated Supply Chain information for the computer system protection. 
+During the hachathon, we will solicit additional adaptable use cases and explore flexible YANG models that complement area not coverd by exisitang Supply Chain Security specifications.
+However, we will take care not to impact the ongoing RFC making work for the pioneering SCITT Architecture and SCITT SCRAPI.
+
+- **Hackathon Work Item**
+ - uploading revised I/D version 00 w/o ToDO
+ - soliciting use-case
+ - developing a prototyping YANG schemer
+
+- **Relevant Draft**
 
 
 ----
