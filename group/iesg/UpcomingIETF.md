@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-19T18:03:23.602Z
+date: 2025-10-22T14:31:22.708Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -19,7 +19,6 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 ## Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 124, or the joint meetings with the IAB.
 
-- Example: IETF 124 Agenda Scheduling (Liz)
 - What will be the IETF AI-pref policy ? I.e., will the IETF allow for LLM training ? (Éric V. prompted by Glenn Deen)
 - Joint session: 2026 retreats in APAC update (Mahesh, Ketan, Dhruv, Suresh)
 
@@ -144,7 +143,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Meeting Room
 
-Location: TBD
+Location: Ping, 3rd floor ([floor plan](https://datatracker.ietf.org/meeting/124/floor-plan?room=ping))
 Conference style for 16
 
 This room is available for anyone on the IESG, for AD office hours or any meetings with individuals or small groups. The LLC has asked that we track general categories of usage for this room. Please include your name so we know who is responsible for each meeting.
