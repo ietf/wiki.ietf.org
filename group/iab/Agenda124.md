@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-22T15:05:12.496Z
+date: 2025-10-22T16:30:56.797Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -81,11 +81,13 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ## Monday, November 3, 2025
 
+### 11:30-12:00: Liaison Coordinator Office Hours (Room: Crescent)
+
 ### 13:15-14:15: IETF-3GPP Coordination (Room: Duluth)
  
 ## Tuesday, 2025-11-04
 
-### 08:00-09:20 IAB Business Meeting (Room: Rue Crescent)
+### 08:00-09:20 IAB Business Meeting (Room: Crescent)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1004
 > 
@@ -102,14 +104,14 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ## Thursday, 2025-11-06
 
-### 08:00-09:20 IAB Business Meeting (Room: Rue Crescent)
+### 08:00-09:20 IAB Business Meeting (Room: Crescent)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1006
 > 
 > Agenda:
 > 1. 
 
-### 13:00-14:30 EDM Program Meeting (Room: Rue Crescent)
+### 13:00-14:30 EDM Program Meeting (Room: Crescent)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=35009
 > 
