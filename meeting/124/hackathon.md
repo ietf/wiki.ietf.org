@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-21T09:49:55.636Z
+date: 2025-10-22T10:56:49.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -485,6 +485,20 @@ Poshan Peeroo <poshanpeeroo@cyberstorm.mu>
 Atish Joottun 
 - **Project Info**
 PQC in FOSS
+
+----
+
+### Remote Attestation with Exported Authenticators
+- **Champions**
+Ionut Mihalcea <ionut.mihalcea@arm.com>
+- **Project Info**
+Deployment of Remote Attestation (RA) in the field is complicated by a lack of standard mechanisms to help combine it with existing protocols. Most notable is the lack of any widely-deployed approach to leveraging PKI and RA together to set up a secure channel. The newly minted [Secure Evidence and Attestation Transport (SEAT) WG](https://datatracker.ietf.org/group/seat/about/) aims to standardize solutions in this space. The Remote Attestation with Exported Authenticators (draft-fossati-seat-expat) draft is meant to provide a solution for integrating RA into a TLS stack. This hackathon project deals with producing working code for draft-fossati-seat-expat.
+
+- **Hackathon goals**
+	- Make progress on [Rust implementation](https://github.com/tls-attestation/attestation-exported-authenticators) of the draft
+  
+- **Relevant Documents**
+	- Remote Attestation with Exported Authenticators - [draft-fossati-seat-expat](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
 
 ```
 ----
