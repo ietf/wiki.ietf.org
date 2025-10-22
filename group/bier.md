@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-08-04T18:18:16.447Z
+date: 2025-10-22T07:15:24.368Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -58,6 +58,7 @@ This charter reflects the commitment of the BIER-WG to provide practical, intero
 [RFC9262](https://datatracker.ietf.org/doc/rfc9262/) -- BIER TE Architecture
 [RFC9272](https://datatracker.ietf.org/doc/rfc9272/) -- BIER BAR IPA
 [RFC9624](https://datatracker.ietf.org/doc/rfc9624/) -- BIER EVPN
+[RFC9793](https://datatracker.ietf.org/doc/rfc9793/) -- BIER BGP extensions
 
 ## BIER Interop at IETF118 Hackathon
 
@@ -80,13 +81,13 @@ This page will be updated with more details as we figure things out.
 
 | draft                       | WG<br>status                            | WGLC in<br> related<br> WGs | All Normative<br> References<br> sent to<br> IESG | shepherd<br> assigned | shepherd<br>  review<br> done | DIR early<br> review done,<br> if needed | DIR LC<br>  review<br> done | AD early<br> review<br> done | sent to<br>  IESG | notes |
 |-----------------------------|-----------------------------------------|-----------------------------|---------------------------------------------------|-----------------------|-------------------------------|------------------------------------------|-----------------------------|------------------------------|-------------------|-------|
-| draft-ietf-bier-frr         | Submitted to IESG for Publication       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |       |
-|draft-ietf-bier-oam-requirements| WG Consensus: Waiting for Write-Up   | N/A  | Yes | Yes | Yes | N/A | Yes | Not yet | Not yet |       |
-|draft-ietf-bier-ospfv3-extensions|Revised I-D Needed - Issue raised by AD| LSR WG? | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |       |
-|draft-ietf-bier-lsr-non-mpls-extensions| WG Consensus: Waiting for Write-Up|Sent to LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
+| draft-ietf-bier-frr         | Return back from IESG       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No |       |
+|draft-ietf-bier-oam-requirements| IESG Evaluation   | N/A  | Yes | Yes | Yes | N/A | Yes | Yes | Yes |       |
+|draft-ietf-bier-ospfv3-extensions| New version submitted which addressed the DIR's review comments|  | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |       |
+|draft-ietf-bier-lsr-non-mpls-extensions| Waiting for WG Chair Go-Ahead |Sent to LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-tether      | Revised I-D Needed - Issue raised by AD | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |       |
 |draft-ietf-bier-use-cases    | WG Consensus: Waiting for Write-Up      | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |
-| draft-ietf-bier-ping        | In WG Last Call                         | N/A | Yes | Yes | Yes | Yes | Not yet | Not yet | Not yet |       |
+| draft-ietf-bier-ping        | IESG Evaluation                         | N/A | Yes | Yes | Yes | Yes | Yes | Yes | Yes |       |
 |draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | Sent to IPPM WG | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
 |draft-ietf-bier-pim-signaling| Revised I-D Needed - Issue raised by AD | Sent to PIM WG | Yes | Yes | better to refresh | Not yet | Not yet | Yes  | Not yet |       |
 |draft-ietf-bier-path-mtu-discovery| WG Consensus: Waiting for Write-Up | N/A  | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |       |
