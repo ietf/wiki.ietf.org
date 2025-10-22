@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-22T12:40:45.260Z
+date: 2025-10-22T13:07:20.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -105,7 +105,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 13:00-14:30 EDM Program Meeting (Room: Rue Crescent)
 
-> Meetecho: 
+> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=35009
 > 
 
 
