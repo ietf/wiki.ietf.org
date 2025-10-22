@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-17T18:25:53.432Z
+date: 2025-10-22T13:07:11.374Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -66,14 +66,16 @@ For approval
 - Liaison Coordinators
 
 
-### 8. IAB Decision Process (Tommy <5 mins)
+### 8. Marconi Institue Request
+
+### 9. IAB Decision Process (Tommy <5 mins)
 
  Goal: Minute the e-vote to update the IAB Decision Making Process
 
  GitHub: https://github.com/intarchboard/responsibilities/issues/2
 
 
-### 9. Review of Open Issues for Responsibilities
+### 10. Review of Open Issues for Responsibilities
 
  GitHub: https://github.com/intarchboard/responsibilities/issues
 
