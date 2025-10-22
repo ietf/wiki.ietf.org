@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-22T13:07:11.374Z
+date: 2025-10-22T14:09:24.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -51,7 +51,7 @@ For approval
   Wiki: https://wiki.ietf.org/en/group/iab/Agenda124
 
 
-### 6. BOF Coverage at IETF 125 (Cindy - 10 mins)
+### 6. BOF Coverage at IETF 124 (Cindy - 10 mins)
 
   Wiki: https://wiki.ietf.org/group/iab/Bof124
 
