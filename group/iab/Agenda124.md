@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-22T14:30:16.881Z
+date: 2025-10-22T14:31:00.567Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -38,6 +38,8 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 * Approval of draft-iab-nemops-workshop-report (Sunday)
 
 * Approval of draft-iab-ai-control-report (Sunday)
+
+* Appeal discussions
 
 ## Saturday, 2025-11-02
 
