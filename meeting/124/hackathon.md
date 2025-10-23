@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T07:58:02.500Z
+date: 2025-10-23T12:35:45.232Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -581,6 +581,20 @@ https://datatracker.ietf.org/doc/draft-dekok-proxy-bcp/
 We want to add some functionality (current plan is to focus primarily on Protocol-Error) to RADIUS servers (FreeRADIUS, radsecproxy, Radiator)
 
 
+### <a id="teep"></a>TEEP&RATS - Secure Software Provisioning with TEEP Protocol & VERAISON
+- **Champions**
+  + Ken Takayama (ken.takayama.ietf@gmail.com)
+
+- **Project Info**
+Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) technology, including:
+
+  + QUIC client implementations
+  + QUIC server implementations
+  + network element implementations
+  + applications
+  + tools, etc.
+
+---
 
 ```
 ----
