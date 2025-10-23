@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T07:17:11.977Z
+date: 2025-10-23T07:18:56.001Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -530,7 +530,7 @@ Deployment of Remote Attestation (RA) in the field is complicated by a lack of s
 
 ----
 
-### Validate Extensible YANG Model for Network Telemetry Messages Implementations
+### Validate Network Telemetry Messages Implementations
 - **Champion(s)**
 Paolo Lucente (Paolo @ pmacct.net)
 Thomas Graf (thomas.graf @ swisscom.com)
