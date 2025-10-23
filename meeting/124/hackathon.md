@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-22T15:14:13.515Z
+date: 2025-10-23T07:17:11.977Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -528,6 +528,44 @@ Deployment of Remote Attestation (RA) in the field is complicated by a lack of s
 - **Relevant Documents**
 	- Remote Attestation with Exported Authenticators - [draft-fossati-seat-expat](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
 
+----
+
+### Validate Extensible YANG Model for Network Telemetry Messages Implementations
+- **Champion(s)**
+Paolo Lucente (Paolo @ pmacct.net)
+Thomas Graf (thomas.graf @ swisscom.com)
+Yannick Buchs (yannick.buchs @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Holger Keller (holger.keller @ telekom.de)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+
+- **Supporting Draft Specifications**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-yang-message-broker-message-key
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+
+
+- **Project Info**
+https://www.network-analytics.org/yp/
+Validate Pmacct as second YANG Model for Network Telemetry Messages Implementation on the following aspects:
+
+   - Message Broker Integration
+   - Network Telemetry Protocol Metadata
+   - Data Collection Manifest
+   - Network Operator Metadata
+   - YANG-Push Subscription Metadata
+   - YANG-Push Payload
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/123/Hackathon
+https://github.com/pmacct/pmacct
 ```
 ----
 
