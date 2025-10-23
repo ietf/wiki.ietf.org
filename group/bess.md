@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-10-23T19:06:26.465Z
+date: 2025-10-23T19:07:08.356Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -131,8 +131,7 @@ Shepherd's name indicated within parenthesis.
   
 * draft-ietf-bess-rfc7432bis
 	- RTGDIR review comments received but no reply from authors. Some offline comments to address as well.
-  - Draft being updated as of 11/2 
-  - Matthew to review the draft 
+  - Jeffrey to check updates against his review
   
 
 * draft-ietf-bess-bgp-multicast-controller
