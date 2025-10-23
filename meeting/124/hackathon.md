@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T17:10:33.531Z
+date: 2025-10-23T20:11:18.589Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -12,7 +12,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 01 - 02 November 2025 (Saturday - Sunday)
 * :maple_leaf: **Where**: Fairmont The Queen Elizabeth
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: Centre Ville/Agora 
 {.grid-list}
 
 **Sign up for the Hackathon**
@@ -65,7 +65,7 @@ Related activities before and after the Hackathon weekend
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 03 - 07 November, Room: **TBD** 
+  * Monday - Friday, 03 - 07 November, Room: Rue Sherbrooke/Rue Mansfield 
 
 ## Meetecho
 
