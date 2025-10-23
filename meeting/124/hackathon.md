@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T07:20:51.080Z
+date: 2025-10-23T07:58:02.500Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -566,6 +566,22 @@ Validate Pmacct as second YANG Model for Network Telemetry Messages Implementati
 - **Repository**
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/123/Hackathon
 https://github.com/pmacct/pmacct
+
+### Improving RADIUS Proxy Fabrics
+- **Champions**
+Jan-Frederik Rieckers (rieckers @ dfn.de)
+Alan DeKok
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-radext-radiusdtls-bis/
+https://datatracker.ietf.org/doc/draft-ietf-radext-status-realm/
+https://datatracker.ietf.org/doc/draft-janfred-radext-radius-congestion-control/
+https://datatracker.ietf.org/doc/draft-dekok-protocol-error/
+https://datatracker.ietf.org/doc/draft-dekok-proxy-bcp/
+- **Project Info**
+We want to add some functionality (current plan is to focus primarily on Protocol-Error) to RADIUS servers (FreeRADIUS, radsecproxy, Radiator)
+
+
+
 ```
 ----
 
