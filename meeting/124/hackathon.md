@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T13:10:32.420Z
+date: 2025-10-23T13:18:43.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -595,8 +595,8 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 
 - **Related RFCs and Internet Drafts**
   + Entity Attestation Token (EAT): https://datatracker.ietf.org/doc/rfc9711/
-  + Concise Reference Integrity Manifest: https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
   + EAT Measured Component: https://datatracker.ietf.org/doc/draft-ietf-rats-eat-measured-component/
+  + Concise Reference Integrity Manifest: https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
   + Arm's Platform Security Architecture (PSA) Attestation Token: https://datatracker.ietf.org/doc/rfc9783/
   + EAT Attestation Results: https://datatracker.ietf.org/doc/draft-ietf-rats-ear/
   + Trusted Execution Environment Provisioning (TEEP) Protocol: https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
