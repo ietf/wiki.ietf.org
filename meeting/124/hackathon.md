@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T12:46:42.967Z
+date: 2025-10-23T13:10:32.420Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -587,6 +587,11 @@ We want to add some functionality (current plan is to focus primarily on Protoco
 
 - **Project Info**
 We want to deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing WasmApp as Trusted Applications, leveraging [VERAISON](https://github.com/veraison) as a Verifier for the Trusted Application Manager (TAM).
+
+- **Goals**
+  + Deploy a WasmApp to the latest and genuine WasmRuntime inside a TEE
+  + The TAM can dynamically trust the key of TEEP Agent, a managing program inside the TEE, only if the Evidence is affirmed by the Verifier
+  + The Verifier can appraise the Evidence against Reference Value, e.g. the digest of the TEE programs, ensuring that the WasmRuntime and TEEP Agent is not modified nor out dated
 
 - **Related RFCs and Internet Drafts**
   + Entity Attestation Token (EAT): https://datatracker.ietf.org/doc/rfc9711/
