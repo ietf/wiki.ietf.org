@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T12:41:20.446Z
+date: 2025-10-23T12:42:02.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -589,8 +589,9 @@ We want to add some functionality (current plan is to focus primarily on Protoco
 We want to deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing WasmApp as Trusted Applications, leveraging [VERAISON](https://github.com/veraison) as a Verifier for the Trusted Application Manager (TAM).
 
 - **Related RFCs and Internet Drafts**
-  + Entity Attestation Token (EAT) https://datatracker.ietf.org/doc/rfc9711/
-  + EAT Attestation Results https://datatracker.ietf.org/doc/draft-ietf-rats-ear/ 
+  + Entity Attestation Token (EAT): https://datatracker.ietf.org/doc/rfc9711/
+  + Concise Reference Integrity Manifest: https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
+  + EAT Attestation Results: https://datatracker.ietf.org/doc/draft-ietf-rats-ear/ 
 
 ---
 
