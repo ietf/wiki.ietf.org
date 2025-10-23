@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T13:18:59.750Z
+date: 2025-10-23T15:01:07.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -601,6 +601,13 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
   + EAT Attestation Results: https://datatracker.ietf.org/doc/draft-ietf-rats-ear/
   + Trusted Execution Environment Provisioning (TEEP) Protocol: https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
   + A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things (SUIT) Manifest: https://datatracker.ietf.org/doc/draft-ietf-suit-manifest/
+  
+### DKIM2
+- **Champions**
+  + Allen Robinson (arobins@google.com)
+
+- **Project Info**
+Work on setting up interoperable running code for the current DKIM2 proposals (https://datatracker.ietf.org/wg/dkim/documents/) to inform ongoing design discussions about the new protocol.
 
 ---
 
