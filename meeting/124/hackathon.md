@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T12:42:39.773Z
+date: 2025-10-23T12:43:33.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -593,6 +593,7 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
   + Concise Reference Integrity Manifest: https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
   + EAT Attestation Results: https://datatracker.ietf.org/doc/draft-ietf-rats-ear/
   + Trusted Execution Environment Provisioning (TEEP) Protocol: https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+  + A Concise Binary Object Representation (CBOR)-based Serialization Format for the Software Updates for Internet of Things (SUIT) Manifest: https://datatracker.ietf.org/doc/draft-ietf-suit-manifest/
 
 ---
 
