@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T15:01:07.465Z
+date: 2025-10-23T17:10:28.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -605,9 +605,11 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 ### DKIM2
 - **Champions**
   + Allen Robinson (arobins@google.com)
+  + Bron Gondwana (brong@fastmailteam.com)
 
 - **Project Info**
 Work on setting up interoperable running code for the current DKIM2 proposals (https://datatracker.ietf.org/wg/dkim/documents/) to inform ongoing design discussions about the new protocol.
+Code and samples at https://github.com/dkim2wg/interop
 
 ---
 
