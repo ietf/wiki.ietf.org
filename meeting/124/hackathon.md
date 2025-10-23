@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T12:35:45.232Z
+date: 2025-10-23T12:38:04.190Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -586,13 +586,8 @@ We want to add some functionality (current plan is to focus primarily on Protoco
   + Ken Takayama (ken.takayama.ietf@gmail.com)
 
 - **Project Info**
-Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/about/) technology, including:
-
-  + QUIC client implementations
-  + QUIC server implementations
-  + network element implementations
-  + applications
-  + tools, etc.
+- **Objectives**
+To deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing WasmApp as Trusted Applications, leveraging [VERAISON](https://github.com/veraison) as a Verifier for the Trusted Application Manager (TAM).
 
 ---
 
