@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-24T18:03:53.606Z
+date: 2025-10-24T18:04:59.958Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -20,7 +20,6 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 Please add any topics for either IESG only meetings at IETF 124, or the joint meetings with the IAB.
 
 - What will be the IETF AI-pref policy ? I.e., will the IETF allow for LLM training ? (Éric V. prompted by Glenn Deen)
-- Joint session: 2026 retreats in APAC update (Mahesh, Ketan, Dhruv, Suresh)
 
 
 # IESG Activities
@@ -64,7 +63,9 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
 > 
-> Agenda items here
+> 1. Appeal Processing
+> 2. Decide if a Monday meeting is needed
+
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
