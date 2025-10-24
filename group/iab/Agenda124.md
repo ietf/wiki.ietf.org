@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-22T16:30:56.797Z
+date: 2025-10-24T19:57:46.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -17,33 +17,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ## Potential Topics
 
-* EImpact program update - dicussion of draft-various-eimpact-arch-considerations
 
-* Sally will be available on Thursday morning if we want an ISOC discussion session. We can check in on WSIS+20 status, etc.
-
-* NMRG Review (Tuesday)
-
-* IAB meeting time rotation (Dhruv)
-
-* Inviting IAB Members to IAB workshops (Cullen)
-
-* What topics require a formal vote (Cullen)
-
-* ISE call for nominations update
-
-* ISOC BoT nominations call
-
-* Age workshop report (Mark)
-
-* IP geo workshop update (Jason) (Not Sunday)
-
-* Approval of draft-iab-nemops-workshop-report (Sunday)
-
-* Approval of draft-iab-ai-control-report (Sunday)
-
-* Appeal discussions
-
-* Follow-up from ICANN board discussion (Mirja) (Sunday)
 
 ## Saturday, 2025-11-02
 
@@ -64,7 +38,18 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
 
-### 14:00-16:00 - Either IAB Meeting (Room: Duluth)
+### 14:00-16:00 - IAB Business Meeting (Room: Duluth)
+
+Agenda:
+1. Status update on ISE call for nominations (Interview committee) (10 min)
+1. ISOC BoT nominations call (10 min)
+1. Follow-up from ICANN board discussion (Mirja) (10 min)
+1. Approval of draft-iab-nemops-workshop-report (5 min)
+1. Approval of draft-iab-ai-control-report (5 min)
+1. EImpact program update / draft-various-eimpact-arch-considerations (Suresh) (10 min)
+1. IAB meeting time rotation ([details](https://github.com/intarchboard/responsibilities/issues/65)) (Dhruv) (20 min)
+1. What topics require a formal vote (Cullen) (15 min)
+1. Appeal discussions (Executive session) (35 min)
 
 ### Evening Meeting Events
 
@@ -92,9 +77,12 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1004
 > 
 > Agenda:
-> 1. 
+> 1. NMRG Review (30 min)
+> 2. Workshops (40 min)
+> - Inviting IAB Members to IAB workshops (Cullen) (10 min)
+> - Age workshop report status update (Mark) (20 min)
+> - IP geo workshop update (Jason) (10 min)
 
-  
 ## Wednesday, 2025-11-05
 
 
@@ -109,7 +97,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1006
 > 
 > Agenda:
-> 1. 
+> 1. ISOC discussion (Sally will be present). Status update on WSIS+20 process, ISOC BoT appointment timing, review of upcoming outreach events. (40 minutes)
+> 1. Appeal discussion spillover (Executive session) (remainder of time)
 
 ### 13:00-14:30 EDM Program Meeting (Room: Crescent)
 
