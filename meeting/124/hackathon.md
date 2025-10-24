@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-24T13:38:20.398Z
+date: 2025-10-24T13:46:25.120Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -476,7 +476,7 @@ We propose extending the SCHC framework with rule and context management capabil
   - CORECONF Rule management for SCHC - [draft-toutain-schc-coreconf-management-01](https://datatracker.ietf.org/doc/draft-toutain-schc-coreconf-management/).
 
 ---
-### Composable Code of Things with Embedded Rust, WASM and Ariel OS
+### Composable Code of Things with Embedded Rust, WASM
 
 - **Champions**
   + Antoine Lavandier (antoine.lavandier@inria.fr)
