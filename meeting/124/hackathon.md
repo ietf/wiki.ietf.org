@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-23T20:11:18.589Z
+date: 2025-10-24T10:05:10.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -519,6 +519,7 @@ At IETF 124, we plan to add more automation and others are invited to test inter
 ### Remote Attestation with Exported Authenticators
 - **Champions**
 Ionut Mihalcea <ionut.mihalcea@arm.com>
+Thomas Fossati <thomas.fossati@linaro.org>
 - **Project Info**
 Deployment of Remote Attestation (RA) in the field is complicated by a lack of standard mechanisms to help combine it with existing protocols. Most notable is the lack of any widely-deployed approach to leveraging PKI and RA together to set up a secure channel. The newly minted [Secure Evidence and Attestation Transport (SEAT) WG](https://datatracker.ietf.org/group/seat/about/) aims to standardize solutions in this space. The Remote Attestation with Exported Authenticators (draft-fossati-seat-expat) draft is meant to provide a solution for integrating RA into a TLS stack. This hackathon project deals with producing working code for draft-fossati-seat-expat.
 
