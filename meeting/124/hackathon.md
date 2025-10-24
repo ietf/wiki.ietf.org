@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-24T14:35:29.945Z
+date: 2025-10-24T18:48:31.606Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -583,15 +583,21 @@ https://github.com/pmacct/pmacct
 ### Improving RADIUS Proxy Fabrics
 - **Champions**
 Jan-Frederik Rieckers (rieckers @ dfn.de)
-Alan DeKok
+Alan DeKok (alan.dekok@inkbridge.io)
+
 - **Draft Specifications**
 https://datatracker.ietf.org/doc/draft-ietf-radext-radiusdtls-bis/
 https://datatracker.ietf.org/doc/draft-ietf-radext-status-realm/
 https://datatracker.ietf.org/doc/draft-janfred-radext-radius-congestion-control/
 https://datatracker.ietf.org/doc/draft-dekok-protocol-error/
 https://datatracker.ietf.org/doc/draft-dekok-proxy-bcp/
+
 - **Project Info**
+RADIUS has had 30 years of protocol issues.  The existing specifications say that servers must discard well-formed, authentic, packets from known clients.  There are no provisions for rate limiting packets.  In many cases, packets are sent and never see a reply, which contributes to network instability.
+
 We want to add some functionality (current plan is to focus primarily on Protocol-Error) to RADIUS servers (FreeRADIUS, radsecproxy, Radiator)
+
+Implementation notes for FreeRADIUS: https://github.com/FreeRADIUS/freeradius-server/blob/v3.2.x/doc/antora/modules/developers/pages/protocol-error.adoc
 
 
 ### <a id="teep"></a>TEEP&RATS - Secure Software Provisioning with TEEP Protocol & VERAISON
