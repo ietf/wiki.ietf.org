@@ -70,8 +70,9 @@ typically follow this process to conduct a vote:
 3. Formally start the vote, following the discussion(s).
 
 4. Conclude the vote once votes from all IAB members have been collected,
-   or once 7 days have elapsed and there are sufficient votes received
-   to meet the requirements in RFC 2850.
+   or once at least 7 days have elapsed and there are sufficient votes received
+   to meet the requirements in RFC 2850. Votes do not need to close after 7
+   days, but may if they are time-sensitive and the requirements are met.
 
 Detailed guidelines for each of these steps are provided below.
 
@@ -137,15 +138,18 @@ single voting member, even after a majority has been reached. This ensures
 every voice can be heard. Note that it is reasonable for any voting member to
 request a few days to further review available information before voting.
 
-A vote can conclude in either of the following conditions:
+A vote may conclude in either of the following conditions:
 
 - All voting members have submitted their votes
-- Seven days have elapsed since the vote was started, and the requirements
+- At least seven days have elapsed since the vote was started, and the requirements
   from RFC 2850 have been met (specifically, that seven full members concur
   and there are no more than two dissents)
 
-If these conditions cannot be met within seven days, the IAB chair can
-choose to either leave the vote open, or cancel the vote.
+If not all votes have been received within seven days, the IAB chair
+can choose to leave the vote open (which is generally how non-time-sensitive
+votes will be handled). If the vote is time-sensitive, the vote may be closed
+after at least seven days, and will pass only if the requirements from RFC 2850
+have been met. 
 
 ## Alternative Process
 
