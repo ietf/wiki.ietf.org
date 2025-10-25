@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-24T18:48:31.606Z
+date: 2025-10-25T08:57:29.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -630,7 +630,33 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 Work on setting up interoperable running code for the current DKIM2 proposals (https://datatracker.ietf.org/wg/dkim/documents/) to inform ongoing design discussions about the new protocol.
 Code and samples at https://github.com/dkim2wg/interop
 
+### Testing Congestion Control and Queue Management Mechanisms
 
+- **Champions**
+	- Mohit P. Tahiliani (tahiliani@nitk.edu.in) [Remote]
+	- Vishal Kamath (vishalkamath.221cs261@nitk.edu.in)
+	- Hemang J. Jamadagni (hemangj.221cs129@nitk.edu.in)
+	- Tanay Praveen Shekokar (tanayshekokar.221cs159@nitk.edu.in)
+  - Monika Gautam (monikagautam.242cs024@nitk.edu.in) [Remote]
+  - Arun Kumar Rajaraman (arunkumarr.242cs011@nitk.edu.in) [Remote]
+  - Ayush Nigam (ayushnigam.242cs012@nitk.edu.in) [Remote]
+  - Jayesh Akot (jayesh.242cs007@nitk.edu.in) [Remote]
+
+- **Project Info**
+	- Testing of FQ-CoDel and FQ-PIE using ns-3, NeST and WiFi APs (QQ-IW-235)
+  - NeST based AQM Evaluation Suite compliant with RFC 7928
+  - Fixing a recently reported bug related to rate-limited sender implementation in ns-3
+  - NeST based Congestion Control Evaluation Suite compliant with RFC 9743
+- **Related documents**
+	* [RFC 7928](https://datatracker.ietf.org/doc/html/rfc7928)
+  * [RFC 8289](https://datatracker.ietf.org/doc/html/rfc8289)
+  * [RFC 8290](https://datatracker.ietf.org/doc/html/rfc8290)
+  * [Internet Draft on Rate-limited Sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
+  * [Internet Draft on FQ-PIE](https://datatracker.ietf.org/doc/draft-tahiliani-tsvwg-fq-pie/)
+  * [RFC 9743](https://datatracker.ietf.org/doc/html/rfc9743)  
+- **Repositories**
+   * [ns-3](https://gitlab.com/nsnam/ns-3-dev/)
+   * [Network Stack Tester](https://gitlab.com/nitk-nest/nest)
 
 ---
 
