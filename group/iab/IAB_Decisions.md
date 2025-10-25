@@ -77,12 +77,14 @@ Detailed guidelines for each of these steps are provided below.
 
 ### Announcing votes
 
-Announcements of votes are sent over email, but can also be provided over
+Announcements of votes are always sent over email, but can additionally be announced over
 other channels. These announcements will be sent by the IAB chair or the executive director.
 
 Announcements should be as specific as possible about the question on which
 the vote will be taken, and background material should be provided or already be
-available to the IAB.
+available to the IAB. For example, a vote on approving text should be clear
+about what specific version of text is being approved, instead of being
+ambiguous.
 
 Announcements can optionally indicate that ballots will be secret.
 
@@ -100,15 +102,14 @@ This discsssion generally takes place on a private email list amongst voting
 members.
 
 The discussion period also should include opportunities for each voting IAB member
-to have synchronous discussions with other voting members. Depending on the exact
+to have synchronous discussions with as many other voting members as possible. Depending on the exact
 meeting schedule of the IAB, this requirement can be satisfied in different ways.
 For example, an in-person meeting at an IETF meeting/retreat or an IAB teleconference where
 all IAB members are expected to attend satisfies this requirement in a single
 discussion. Alternatively, this can be satisfied by having multiple discussions that
 occur at different times to accomodate IAB members in different timezones.
 Note that lack of attendence by IAB members due to vacations or choosing not to
-attend a meeting will not delay being able to hold the vote, as long as meeting
-opportunities were provided.
+attend a meeting will not delay the vote, as long as meeting opportunities were provided.
 
 Any meeting on which a vote is discussed needs to either be a regularly scheduled
 meeting that is on the calendar well ahead of time, or be an extraordinary meeting
@@ -151,8 +152,9 @@ choose to either leave the vote open, or cancel the vote.
 The IAB can use alternative voting processes. In order to do that, the IAB
 chair must announce the alternative voting rules to the IAB. This
 announcement should usually occur at least one week before the voting takes
-place. Per RFC 2850, if more than two voting members of the IAB object to the alternative voting rules,
-the vote reverts to the Normal Process.
+place. Per RFC 2850, if more than two voting members of the IAB object to
+the alternative voting rules prior to the voting period starting, the vote
+reverts to the Normal Process.
 
 Unanimous results should be strongly preferred in votes using an alternative
 process. Particularly, if the vote is run on a shortened timeline (such as
