@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-24T18:04:59.958Z
+date: 2025-10-26T23:32:18.750Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -64,7 +64,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
 > 
 > 1. Appeal Processing
-> 2. Decide if a Monday meeting is needed
+> 2. What to do with missing WIT AD candidates
+> 3. Decide if a Monday meeting is needed
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
