@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-25T08:57:29.247Z
+date: 2025-10-26T03:39:13.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -165,10 +165,10 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 ## <a id="ProjectsIncludedinHackathon"></a>Projects Included in Hackathon
 
-* Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. *. *If you are championing a project that is great for newcomers, please add a * at the end of your project name.*
+*Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
+
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/123/hackathon#ProjectsIncludedinHackathon).
 
----
 ### RESTful Provisioning Protocol (RPP)
 - **Champions**
 Maarten Wullink maarten.wullink@sidn.nl
@@ -190,8 +190,6 @@ The RPP working group is focused on designing a new protocol via a series of spe
 - [Related work: RPP - Requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/)
 - [Related work: RPP - Architecture](https://www.ietf.org/archive/id/draft-kowalik-rpp-architecture-03.html)
 
----
-
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champion**
 Stuart Cheshire &lt;cheshire@apple.com&gt;
@@ -202,8 +200,6 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/124/hackathon/thread-projects).
-
----
 
 ### Space Networking/TIPTOP Experiment
 - **Champion**
@@ -217,7 +213,6 @@ Space communications have large delays (2 secs one-way delay to Moon, 4-22 mins 
 
 We will be broadcasting two SSID on the hackathon wireless network: ietf-moon which will inject a 2 seconds one-way delay and ietf-mars which will inject a 4 minutes delay. Both will also see intermittence.  Everybody is very welcome to participate and test the network, but make sure to follow the [instructions](https://deepspaceip.github.io/meeting/ietf124/README.md) as typical Internet applications won't work as is in this environment.
 
----
 ### <a id="scone"></a>SCONE - Standard Communication with Network Elements
 - **Champions**
     + Wesley Eddy (wesleyeddy@meta.com)
@@ -234,8 +229,6 @@ Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/abou
   + applications
   + tools, etc.
 
----
-
 ### Identifier Locator Network Protocol (ILNP)
 
 - **Champions**
@@ -247,8 +240,6 @@ Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/abou
   - https://ilnp.cs.st-andrews.ac.uk
   - RFCs 6740(E) - 6748(E)
   - The basic approach to this is to deprecate the concept of an IP Address and replace it with addressing using a separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research demonstration is based on realising ILNP on IPv6.
-
----
 
 ### Identity Crisis in Attested TLS Protocols for Confidential Computing
 - **Champions**
@@ -290,8 +281,6 @@ Prototyping and testing of [SCONE](https://datatracker.ietf.org/group/scone/abou
   - Further slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
   - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
----
-
 ### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
 - **Champions**
 Greg White (g.white@cablelabs.com)
@@ -304,9 +293,6 @@ Greg White (g.white@cablelabs.com)
   - [RFC9332](https://datatracker.ietf.org/doc/rfc9332/)
   - [RFC8888](https://datatracker.ietf.org/doc/rfc8888/)
   - [draft-ietf-tcpm-accurate-ecn](https://datatracker.ietf.org/doc/draft-ietf-tcpm-accurate-ecn)
-
-
-----
 
 ### KIRA – Scalable Zero-Touch Routing
 - **Champions**
@@ -343,8 +329,6 @@ Greg White (g.white@cablelabs.com)
     - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
     - Github Repository is in preparation
 
----
-
 ### AI-network: Data and Agent Aware Inference and Training Network (DA-ITN)
 
 - **Champion**
@@ -362,7 +346,6 @@ In this demo, we will be showcasing the first look into a concept that we refer 
 - **Resources**
 For more information on the AI-Network (DA-ITN), please refer to our submitted draft at: https://datatracker.ietf.org/doc/draft-akhavain-moussa-ai-network/
 
----
 ### Secure Hybrid Network Monitoring
 - **Champions**
 	- Yutaka Oiwa (AIST, Japan), [y.oiwa@aist.go.jp](mailto:y.oiwa@aist.go.jp)
@@ -384,8 +367,6 @@ We propose **Secure Hybrid Network Monitoring** that analyzes requirements for e
 	- Secure Hybrid Network Monitoring – Path Characteristics Service
   	https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/
 
----
-
 ### Model Context Protocol (MCP) for Network Management
 - **Champions**
   - YUANYUAN YANG  (yangyuanyuan55@huawei.com)
@@ -401,9 +382,6 @@ We propose **Secure Hybrid Network Monitoring** that analyzes requirements for e
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm/
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm/
 
-
-----
-
 ### Multi-modal Knowledge Graph for Network Management
 - **Champions**
 Mingzhe Xing  xingmz@zgclab.edu.cn
@@ -416,9 +394,6 @@ How It Works:
 - The "Operator Brain" (Knowledge Graph): We created a pipeline that automatically builds a unified knowledge graph from diverse textual data sources. This graph understands the relationships between different terms.
 - Speaking the Language of Networks (PCAPBERT): We developed a custom AI model that translates raw network traffic data into meaningful, semantic embeddings. This allows our system to "understand" network packets in context.
 - The Intelligent Reasoning Engine (KGRAG): This is the core of our project. It uses our knowledge graph to provide the LLM with accurate, structured, and causally consistent information. This supercharges the LLM, enabling it to perform complex network management tasks with high reliability.
-
-
-----
 
 ### A YANG Data Model for Multi-Statements of SCITT
 
@@ -451,8 +426,6 @@ Upon discovering the SCITT and RATS tables, attempt to join them to facilitate c
   - Concise Reference Integrity Manifest
     https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
 
-----
-
 ### SCHC Context Management & Rule Usage KPI
 
 - **Champions**
@@ -475,7 +448,6 @@ We propose extending the SCHC framework with rule and context management capabil
   - CoAP Management Interface (CORECONF) - [draft-ietf-core-comi-20](https://datatracker.ietf.org/doc/draft-ietf-core-comi/).
   - CORECONF Rule management for SCHC - [draft-toutain-schc-coreconf-management-01](https://datatracker.ietf.org/doc/draft-toutain-schc-coreconf-management/).
 
----
 ### Composable Code of Things with Embedded Rust, WASM
 
 - **Champions**
@@ -487,7 +459,6 @@ We propose extending the SCHC framework with rule and context management capabil
 In the context of the recent T2TRG interim meeting on [Composable Code for Things](https://github.com/t2trg/2025-10-composable-code) we will play around with [trevm](https://github.com/ariel-os/trevm), the implementation of a set of capabilities and bindings for tiny embedded Webassembly virtual machines bolted on [Ariel OS](https://github.com/ariel-os/ariel-os), an embedded Rust real-time operating system.
 - **Running Code on Ariel OS**
 Aalready available code includes examples such as a tiny wasm VM with CoAP/OSCORE server bindings, all of which runs on common boards with Cortex-M, RISC-V microcontrollers. Check it out and help us extend this base!
-----
 
 ### PQC in OSS
 - **Champions**
@@ -497,8 +468,6 @@ Poshan Peeroo <poshanpeeroo@cyberstorm.mu>
 Atish Joottun 
 - **Project Info**
 PQC in FOSS
-
-----
 
 ### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
 - **Champion(s)**
@@ -526,8 +495,6 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 At IETF 124, we plan to add more automation and others are invited to test interoperability.  Also, the composite signatures recently had IANA OIDs assigned, so a number of people are interested in testing composite signatures interoperability.   
 
-----
-
 ### Remote Attestation with Exported Authenticators
 - **Champions**
 Ionut Mihalcea <ionut.mihalcea@arm.com>
@@ -540,8 +507,6 @@ Deployment of Remote Attestation (RA) in the field is complicated by a lack of s
   
 - **Relevant Documents**
 	- Remote Attestation with Exported Authenticators - [draft-fossati-seat-expat](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
-
-----
 
 ### Validate Network Telemetry Messages Implementations
 - **Champion(s)**
@@ -660,20 +625,17 @@ Code and samples at https://github.com/dkim2wg/interop
 
 ---
 
-```
-----
-
-
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
-
 ```markdown
+
 ### Your Project
 - **Champions**
 name and email
 - **Project Info**
 project description
+
 ```
 ----
 
