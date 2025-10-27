@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-10-04T21:09:28.962Z
+date: 2025-10-27T17:11:54.934Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -29,7 +29,8 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+17:50 | AC 761 |Bob  |bob.hinden@gmail.com  | YUL |  | Fairmont  | Flight time  
+|        |        |     |                            |  |           |    |
 |      |        |      |       |         |          |             |       |
 
 
@@ -37,8 +38,9 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|  |  |  |  |  |  |   |   |
-|      |        |      |       |         |          |             |       |
+|       |        |      |       |         |          |             |       |
+|       |        |      |       |         |          |             |       |
+
 
 
 ## Sunday, November 09, 2025
