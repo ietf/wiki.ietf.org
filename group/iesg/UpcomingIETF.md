@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-26T23:32:18.750Z
+date: 2025-10-27T12:51:44.723Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -157,6 +157,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * 14:30 - 15:30 -- RTG AD office hours (Gunter/Ketan/Jim)
+* 16:30 - 17:00 -- Meeting (Roman)
 * TIME - TIME -- Thing (Person responsible)
 
 ## Monday, November 3, 2025
