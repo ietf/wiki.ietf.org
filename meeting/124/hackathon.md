@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-27T05:43:14.042Z
+date: 2025-10-27T16:03:04.865Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -458,7 +458,7 @@ We propose extending the SCHC framework with rule and context management capabil
 - **Project Info**
 In the context of the recent T2TRG interim meeting on [Composable Code for Things](https://github.com/t2trg/2025-10-composable-code) we will play around with [trevm](https://github.com/ariel-os/trevm), the implementation of a set of capabilities and bindings for tiny embedded Webassembly virtual machines bolted on [Ariel OS](https://github.com/ariel-os/ariel-os), an embedded Rust real-time operating system.
 - **Running Code on Ariel OS**
-Aalready available code includes examples such as a tiny wasm VM with CoAP/OSCORE server bindings, all of which runs on common boards with Cortex-M, RISC-V microcontrollers. Check it out and help us extend this base!
+Already available code includes examples such as a tiny wasm VM with CoAP/OSCORE server bindings, all of which runs on common boards with Cortex-M, RISC-V microcontrollers. Check it out and help us extend this base!
 
 ### PQC in OSS
 - **Champions**
