@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-27T11:24:18.909Z
+date: 2025-10-27T11:26:59.093Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -197,6 +197,33 @@ None
 ## Concluded IPR polling
 
 ### WG adoption IPR polling
+
+
+#### 2025-10 draft-rokui-ccamp-actn-wdm-pluggable-modelling-03
+		
+IPR poll (Daniele)		https://mailarchive.ietf.org/arch/msg/ccamp/oxAObsMNDG7DzbUXQoMrKwxkgo4/
+		
+AUTHORS		
+		
+Reza Rokui	rrokui@ciena.com	https://mailarchive.ietf.org/arch/msg/ccamp/wTcSlHzmUG7_QiPWDgSYph3zQFM/
+Aihua Guo	aihuaguo.ietf@gmail.com	https://mailarchive.ietf.org/arch/msg/ccamp/fLmQKyiWFUl-5nT_f4Sw3DrcSOs/
+Phil Bedard	phbedard@cisco.com	https://mailarchive.ietf.org/arch/msg/ccamp/lT_JOIDK60UAD8-WjcbPiv5zRFc/
+B Swamynathan	swamynathan.b@nokia.com	https://mailarchive.ietf.org/arch/msg/ccamp/lU44bJ5yWt0UDsaDKlpc6jO_Mzc/
+Gert Grammel	ggrammel@juniper.net	https://mailarchive.ietf.org/arch/msg/ccamp/zfrunlvl2L85gmlwm7yIP39bflI/
+		
+Nigel Davis	ndavis@ciena.com	https://mailarchive.ietf.org/arch/msg/ccamp/VhCPwRVDystFo0bIYXZsUzkJswk/
+Italo Busi	italo.busi@huawei.com	https://mailarchive.ietf.org/arch/msg/ccamp/g_UT3pNURql8E74557c_ZN4tevs/
+Sergio Belotti	sergio.belotti@nokia.com	https://mailarchive.ietf.org/arch/msg/ccamp/BDgiw0BvaI60wKQ-r65Ee7PK6ic/
+Dieter Beller	dieter.beller@nokia.com	https://mailarchive.ietf.org/arch/msg/ccamp/K5iU4T2bWOWjr-cOoBjLgBNL-gs/
+Roberto Manzotti	rmanzott@cisco.com	https://mailarchive.ietf.org/arch/msg/ccamp/hsIS7tIyABovntCwj5tvKkCN64Y/
+Prasenjit Manna	prmanna@cisco.com	https://mailarchive.ietf.org/arch/msg/ccamp/lXKz2BPbwvzSBVd7Q4XAjC8iPr0/
+Gabriele Galimberti	ggalimbe56@gmail.com	https://mailarchive.ietf.org/arch/msg/ccamp/r8rkEAJWM_BA38dqn71s1gXUeZ8/
+Harish Venkatraman	harish.venkatraman@nokia.com	https://mailarchive.ietf.org/arch/msg/ccamp/5kBrWsg4BZEzWtiI8JJNa8Gxvno/
+Gyan Mishra	gyan.s.mishra@verizon.com	
+Stefan Melin	stefan.melin@teliacompany.com	
+Majid Hossein Poor	majid.hosseinpoor@team.telstra.com	
+Dacian Demeter	dacian.demeter@telus.com	
+
 
 #### 2024-11 - draft-gstk-ccamp-actn-optical-transport-mgmt-05
 
