@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-24T19:57:46.157Z
+date: 2025-10-27T17:22:29.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -82,6 +82,8 @@ Agenda:
 > - Inviting IAB Members to IAB workshops (Cullen) (10 min)
 > - Age workshop report status update (Mark) (20 min)
 > - IP geo workshop update (Jason) (10 min)
+
+### 09:30-10:00 IP Geo WorkshOP PC Meeting (Room: Crescent) 
 
 ## Wednesday, 2025-11-05
 
