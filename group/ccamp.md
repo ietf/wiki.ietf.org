@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-27T10:29:52.987Z
+date: 2025-10-27T11:24:18.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -153,6 +153,7 @@ Framework and Data Model for OTN Network Slicing
 Prio 1
 **- draft-rokui-ccamp-actn-wdm-pluggable-modelling-01**
 Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Optical Network
+(IPR polling ongoing)
 
 Prio 2
 **- draft-zheng-ccamp-client-pm-yang-07**
@@ -167,25 +168,24 @@ YANG Data Models for fine grain Optical Transport Network
 Prio 1 (cluster)
 
 **- draft-ietf-ccamp-optical-impairment-topology-yang** (AD Evaluation::AD Followup)
-**- draft-ietf-ccamp-rfc9093-bis** (IESG Evaluation - In IESG telechat)
 
 Prio 2
 **- draft-ietf-ccamp-flexigrid-yang** (2nd WG last call to be done)
 
-Prio 2.5
-**- draft-ietf-dwdm-interface-YANG**
-RTG-DIR, OPS-DIR, YANGDOCTOR reviews requested
-
 Prio 3
+**- draft-ietf-dwdm-interface-YANG**
+RTG-DIR, OPS-DIR, YANGDOCTOR reviews requested and draft updated accordingly.
+
+Prio 4
 **- draft-ietf-ccamp-otn-tunnel-model**
 > Dependency on draft-ietf-teas-yang-te
 
-Prio 4
+Prio 5
 **- draft-ietf-ccamp-wdm-tunnel-yang**
 > Dependency on draft-ietf-teas-yang-te
 > Pluggables gap analysis might have impacts on this draft. "soft dependency"
 
-Prio 5
+Prio 6
 **- draft-ietf-ccamp-flexe-yang-cm-06**
 
 ## Ongoing IPR polling
