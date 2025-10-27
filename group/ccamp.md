@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-27T10:19:39.810Z
+date: 2025-10-27T10:29:52.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -31,7 +31,7 @@ Please contact the CCAMP chairs or secretary if you would like to see any WG rel
 *A YANG Data Model for Bandwidth Availability Topology*
 >Discussion ongoing to move to TEAS or Netmod
 
-**- draft-ietf-ccamp-client-signal-yang-08**
+**- draft-ietf-ccamp-client-signal-yang-16**
 A YANG Data Model for Transport Network Client Signals
 
 > Update as per IETF 124 (27/10/2025):
@@ -51,7 +51,7 @@ A YANG model to manage the optical interface parameters for an external transpon
 > YANG doctor review received, action needed: https://mailarchive.ietf.org/arch/msg/ccamp/7flbP3yQcUxelSSxg9FRFYUmCJA/
 
 
-**- draft-ietf-ccamp-eth-client-te-topo-yang-04**
+**- draft-ietf-ccamp-eth-client-te-topo-yang-10**
 A YANG Data Model for Ethernet TE Topology
 > Update as per IETF 124 (27/10/2025): 
 > The I-D has just been refreshed on October 15th, 2025 to avoid expiration
@@ -106,7 +106,7 @@ A YANG Data Model for Optical Impairment-aware Topology
 **- draft-ietf-ccamp-optical-path-computation-yang-00**
 YANG Data Models for requesting Path Computation in Optical Networks
 
-**- draft-ietf-ccamp-otn-path-computation-yang-00**
+**- draft-ietf-ccamp-otn-path-computation-yang-06**
 A YANG Data Model for requesting Path Computation in an Optical Transport Network (OTN)
 > Update as per IETF 124 (27/10/2025):
 > This I-D has just been refreshed on October 15th, 2025 to avoid expiration
@@ -119,7 +119,7 @@ A YANG Data Model for requesting Path Computation in an Optical Transport Networ
 *A YANG Data Model for Optical Transport Network Topology*
 > Publication requested
 
-**- draft-ietf-ccamp-otn-tunnel-model-17**
+**- draft-ietf-ccamp-otn-tunnel-model-23**
 OTN Tunnel YANG Model
 > Update as per IETF 124 (27/10/2025):
 > This I-D has not been updated since IETF 123
@@ -135,8 +135,17 @@ A YANG Data Model for Layer 0 Types
 **- draft-ietf-ccamp-wson-tunnel-model-08**
 A Yang Data Model for WSON Tunnel
 
-**- draft-ietf-ccamp-yang-otn-slicing-04**
+**- draft-ietf-ccamp-yang-otn-slicing-09**
 Framework and Data Model for OTN Network Slicing
+> Update as per IETF 124 (24/10/2025)
+> Recent Updates:
+> - None. Authors are conducting a review and validation of the model against the use cases to ensure the completeness.
+> - Review of the draft was partially complete with comments raised.
+>
+> Next steps:
+> - Address the review comments and complete the review.
+> - The authors believe that this draft will be ready for WG LC once the review is completed.
+
 
 
 ## Draft prioritization for WG adoption
