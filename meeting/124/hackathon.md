@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-27T05:31:20.481Z
+date: 2025-10-27T05:31:52.710Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -660,11 +660,11 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - Demonstrate Interface to In-Network Computing Functions (I2ICF) Intent Translator of Intent Service Application for IoT Device (i.e., Software Defined Vehicles (SDVs)).
   - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
 - **Specifications**
-  -[draft-jeong-nmrg-i2icf-problem-statement-00]
+  - [draft-jeong-nmrg-i2icf-problem-statement-00]
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/)
   - [draft-jeong-nmrg-i2icf-framework-00]
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/)
-  -[draft-an-nmrg-i2icf-cits-00]
+  - [draft-an-nmrg-i2icf-cits-00]
 (https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/)
   
   -[draft-ahn-opsawg-i2icf-cits-00]
