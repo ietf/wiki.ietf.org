@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-09-16T19:28:38.473Z
+date: 2025-10-27T10:56:19.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -10,16 +10,17 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 # Early Allocation Status
 
-## Pending early allocations - OK WG drafts, need WG and AD approval 
+## Pending early allocations -  
+
 ### SR Policy Segment List Sub-TLVs  
 ### (draft-ietf-idr-sr-policy-safi registries)  
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
  [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (26) | ELP Sub-TLV  | Ready based on-03 text   
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | Ready based on (-13 text), Needs -14 (editorial)  |   
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD2 (18) |  Reverse Segment List sub-TLV  | allocation OK (-13 text_, Needs -14 (editorial) |
-| [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)| SR Policy List Sub-TLVs  | BGP Tunnel Encapsulation | TBD (19) | Segment List ID Sub-TLV  | ok with -04 text | 
-| [draft-ietf-idr-sr-policy-metric/](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | -03 text addresses prior shepherd comments by reference to sr-safi RFC 9830 |
+| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | needs work based on (-13 text), Needs -14 (ketan changes)   |   
+| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD2 (18) |  Reverse Segment List sub-TLV  | allocation OK (-13 text_, Needs -14 (ketan chanages) |
+| [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)| SR Policy List Sub-TLVs  | BGP Tunnel Encapsulation | TBD (19) | Segment List ID Sub-TLV  | ok with -04 textm - will assign | 
+| [draft-ietf-idr-sr-policy-metric/](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | Needs changes (see Comments on list)  |
 {.dense}
 
 ### SR Policy Metric - Metric Types
