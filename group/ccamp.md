@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-27T10:14:20.255Z
+date: 2025-10-27T10:19:39.810Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -34,7 +34,7 @@ Please contact the CCAMP chairs or secretary if you would like to see any WG rel
 **- draft-ietf-ccamp-client-signal-yang-08**
 A YANG Data Model for Transport Network Client Signals
 
-> Update as per IETF 124:
+> Update as per IETF 124 (27/10/2025):
 > This I-D has not been updated since IETF 123
 > The model for transparent clients is stable and ready to proceed WG LC, while the model for ETH clients still have some issues and may need more time
 > Next steps:
@@ -53,7 +53,7 @@ A YANG model to manage the optical interface parameters for an external transpon
 
 **- draft-ietf-ccamp-eth-client-te-topo-yang-04**
 A YANG Data Model for Ethernet TE Topology
-> Update as per IETF 124: 
+> Update as per IETF 124 (27/10/2025): 
 > The I-D has just been refreshed on October 15th, 2025 to avoid expiration
 > Next steps:
 > -	Align with Packet TE Topology, together with updates to the > client-signal model
@@ -108,7 +108,7 @@ YANG Data Models for requesting Path Computation in Optical Networks
 
 **- draft-ietf-ccamp-otn-path-computation-yang-00**
 A YANG Data Model for requesting Path Computation in an Optical Transport Network (OTN)
-> Update as per IETF 124:
+> Update as per IETF 124 (27/10/2025):
 > This I-D has just been refreshed on October 15th, 2025 to avoid expiration
 > The draft is almost ready for WG LC: depending on the TE Tunnel and path computation models in TEAS WG and on the OTN tunnel model in CCAMP WG
 > Just need to align it with the latest changes of the models it has dependency: it could be done right before starting the WG LC process
@@ -121,7 +121,7 @@ A YANG Data Model for requesting Path Computation in an Optical Transport Networ
 
 **- draft-ietf-ccamp-otn-tunnel-model-17**
 OTN Tunnel YANG Model
-> Update as per IETF 124:
+> Update as per IETF 124 (27/10/2025):
 > This I-D has not been updated since IETF 123
 > The draft is almost ready for WG LC: depending on the TE Tunnel model in TEAS WG
 > Just need a quick check that there are no changes required by the latest updates on the TE Tunnel right before starting the WG LC process
