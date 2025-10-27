@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-27T21:43:00.955Z
+date: 2025-10-27T21:54:37.930Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -20,7 +20,7 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 Please add any topics for either IESG only meetings at IETF 124, or the joint meetings with the IAB.
 
 - What will be the IETF AI-pref policy ? I.e., will the IETF allow for LLM training ? (Éric V. prompted by Glenn Deen)
-- [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
+- Exec session: [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
 
 
 # IESG Activities
