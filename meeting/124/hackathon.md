@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-26T23:17:13.360Z
+date: 2025-10-27T04:51:00.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -651,6 +651,23 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - https://datatracker.ietf.org/doc/draft-beeram-pce-pcep-mpted/00/
   - https://datatracker.ietf.org/doc/draft-beeram-teas-yang-mpted/01/
   - https://datatracker.ietf.org/doc/draft-stone-spring-mpte-sr/01/
+
+
+### Interface to In-Network Computing Functions (I2ICF) Project
+- **Champion(s)**
+  - Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project(s)**
+  - Demonstrate Interface to In-Network Computing Functions (I2ICF) Intent Translator of Intent Service Application for IoT Device (i.e., Software Defined Vehicles (SDVs)).
+  - Set up In-Network Computing Functions for mobile objects such as Software-Defined Vehicles (SDV) and Unmanned Aerial Vehicles (UAV) in terms of the configuration and monitoring of In-Network Functions.
+- **Specifications**
+  -[draft-jeong-opsawg-i2icf-problem-statement-00]
+(https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-problem-statement/)
+  -[draft-jeong-opsawg-i2icf-framework-00]
+(https://datatracker.ietf.org/doc/draft-jeong-opsawg-i2icf-framework/)
+  -[draft-ywj-opsawg-i2icf-data-center-networking-00]
+(https://datatracker.ietf.org/doc/draft-ywj-opsawg-i2icf-data-center-networking/)
+  -[draft-ahn-opsawg-i2icf-cits-00]
+(https://datatracker.ietf.org/doc/draft-ahn-opsawg-i2icf-cits/)
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
