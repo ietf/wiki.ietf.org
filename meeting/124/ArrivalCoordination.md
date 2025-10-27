@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-27T02:49:06.173Z
+date: 2025-10-27T17:04:07.062Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -15,7 +15,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|  |  |  |  |  |  |  |       |
+| 16:49 | AC760 | Bob  | bob.hinden@gmail.com | YUL |  | Fairmont |       |
 |      |        |      |       |         |          |             |       |
 
 
