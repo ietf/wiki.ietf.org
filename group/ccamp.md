@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-27T11:32:26.593Z
+date: 2025-10-28T10:13:33.453Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -62,9 +62,17 @@ A YANG Data Model for Ethernet TE Topology
 
 
 
-**- draft-ietf-ccamp-flexe-yang-cm-01**
+**- draft-ietf-ccamp-flexe-yang-cm-06**
 YANG Data Model for FlexE Management
-> YANG doctor and RTG DIR review requests. deadline 14 Aug 23
+> Update as per IETF 124:
+> The technical content has been stable since Version 03.
+> Version 03 Major Updates:
+> - Update the YANG tree diagram based on the feedback from RTGDIR and YANGDOCTORS
+> -- Update leaf “total-bandwidth” and “sync-phy-number” of flexe-group to be optional 
+> -- Update leaf “free-timeslot-list” and “used-timeslot-list” of flexe-phy to be optional
+> -- Rename container “flexe-client” to “flexe-clients” so that all clients configured in the same FlexE Group can be supported.
+> - Subsequent versions (V04, V05, V06) only include version updates
+> Authors believe it is ready for WGLC
 
 
 **- draft-ietf-ccamp-flexigrid-tunnel-yang**
