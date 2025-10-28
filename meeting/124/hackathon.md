@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T09:40:53.668Z
+date: 2025-10-28T18:29:53.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -731,6 +731,48 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 * **Specifications**
    * https://datatracker.ietf.org/doc/draft-ietf-ipsecme-eesp/02/
    * https://datatracker.ietf.org/doc/draft-ietf-ipsecme-eesp-ikev2/01/
+   
+   
+   
+### SIMap for Services provided over SRv6, relying on External Relationship models
+
+- **Champions**
+
+Sherif Mostafa (sherif.mostafa@huawei.com)
+Olga Havel (olga.havel@huawei.com)
+Vivekananda Boudia (vivekananda.boudia@insa-lyon.fr)
+Pierre Francois (pierre.francois@insa-lyon.fr)
+Oscar Gonzalez De Dios (oscar.gonzalezdedios@telefonica.com)
+Yannick Buchs (yannick.buchs@swisscom.com)
+Benoit Claise (benoit@everything-ops.net)
+
+- **Project Info**
+
+The goal of this project is to demonstrate how operators can utilize IETF Topology YANG models to represent a real carrier network based on BGP, SRV6, L3VPN, ISIS, and also how to take advantage of this modeling, for example, compute the path of a packet.
+Linking topological entities to external models/data using a templating approach.
+Evaluating whether RFC8345 is a suitable standard for representing multi-layered topologies for SIMap and path, and comparing models with and without the identified gaps.
+
+- **Specifications**
+https://www.rfc-editor.org/rfc/rfc8345
+https://www.rfc-editor.org/rfc/rfc8944
+https://www.rfc-editor.org/rfc/rfc8346
+https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
+https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
+https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-concept
+https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map
+https://datatracker.ietf.org/doc/draft-davis-nmop-some-refinements-to-rfc8345
+https://datatracker.ietf.org/doc/rfc9130/
+https://datatracker.ietf.org/doc/rfc9129/
+https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/
+https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/
+
+- **Hackathon Plan**
+During the IETF123 Hackathon we demonstrated how RFC 8345 can be used to model a Layer-3 VPN service running over an SRv6-enabled core within a virtual lab environment, and how to link the SIMAP to external sources (e.g., inventory and metrics).
+The objective of this hackathon is to exploit the SIMAP to run “what-if” scenarios: compute packet paths before and after link failures, and represent those paths using RFC 8345.
+
+- **Related Groups**
+Network Management Operations (nmop)
+
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
