@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T06:29:30.991Z
+date: 2025-10-28T06:30:38.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -669,6 +669,8 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/)
   - [draft-an-nmrg-i2icf-cits-00]
 (https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/)
+  - [draft-gu-nmrg-intent-translator-02]
+(https://datatracker.ietf.org/doc/draft-gu-nmrg-intent-translator/)
 
 
 
