@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T06:35:14.920Z
+date: 2025-10-28T08:42:36.654Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -567,7 +567,8 @@ Implementation notes for FreeRADIUS: https://github.com/FreeRADIUS/freeradius-se
 
 ### <a id="teep"></a>TEEP&RATS - Secure Software Provisioning with TEEP Protocol & VERAISON
 - **Champions**
-  + Ken Takayama (ken.takayama.ietf@gmail.com)
+  + Ken Takayama (Remote, ken.takayama.ietf @ gmail.com)
+  + Shin'ichi Miyazawa (Onsite, s.miyazawa @ gmail.com)
 
 - **Project Info**
 We want to deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing WasmApp as Trusted Applications, leveraging [VERAISON](https://github.com/veraison) as a Verifier for the Trusted Application Manager (TAM).
