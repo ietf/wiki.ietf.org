@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T06:34:40.491Z
+date: 2025-10-28T06:35:14.920Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -678,8 +678,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project(s)**  
   - This project presents an integrated framework for automated security management in 5G edge networks using the Interface to Network Security Functions (I2NSF) architecture.
-  - The proposed system leverages Intent-Based Networking (IBN) to allow users or administrators to declare high-level security intents, which are translated into enforceable network and application policies. 
-  - Network-level policies are delivered to 5G core components via the Network Exposure Function (NEF), while application-level policies are enforced directly on a User Equipment (UE) through distributed IBN Controllers.
+  - The proposed system leverages Intent-Based Networking (IBN) to allow users or administrators to declare high-level security intents, which are translated into enforceable network and application policies. Network-level policies are delivered to 5G core components via the Network Exposure Function (NEF), while application-level policies are enforced directly on a User Equipment (UE) through distributed IBN Controllers.
   - This architecture supports adaptive, context-aware, and distributed policy enforcement, enabling real-time response to dynamic edge conditions and user mobility scenarios such as handovers.
 
 - **Specifications**
