@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-28T10:13:33.453Z
+date: 2025-10-28T10:13:51.941Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -64,7 +64,7 @@ A YANG Data Model for Ethernet TE Topology
 
 **- draft-ietf-ccamp-flexe-yang-cm-06**
 YANG Data Model for FlexE Management
-> Update as per IETF 124:
+> Update as per IETF 124 (28/10/2025):
 > The technical content has been stable since Version 03.
 > Version 03 Major Updates:
 > - Update the YANG tree diagram based on the feedback from RTGDIR and YANGDOCTORS
