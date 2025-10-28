@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T03:00:13.885Z
+date: 2025-10-28T06:29:30.991Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -669,6 +669,24 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/)
   - [draft-an-nmrg-i2icf-cits-00]
 (https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/)
+
+
+
+### Interface to In-Network Computing Functions (I2ICF) Project
+- **Champion(s)**
+  - Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project(s)**  
+  - The Interface to In-Network Computing Functions (I2ICF) aims to establish a framework and a set of interfaces that enable users in the cloud to configure and monitor mobile entities such as robotic AI agents and other moving objects.
+  - Demonstrate the I2ICF Intent Translator, a component of the Intent Service Application, which interprets user intents for IoT devices, including Software-Defined Vehicles (SDVs).
+  - Set up deploying In-Network Computing Functions (ICFs) for mobile platforms such as Software Defined Vehicle (SDVs) and Unmanned Aerial Vehicles (UAVs), focusing on the configuration, operation, and monitoring of these In-Network functions.
+
+- **Specifications**
+  - [draft-ahn-nmrg-5g-security-i2nsf-framework-00]
+(https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/)
+
+
+
+
 
 ### PacketScope: eBPF-based Protocol Stack Analysis and Defense
 
