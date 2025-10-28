@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-24T00:52:29.973Z
+date: 2025-10-28T18:15:11.263Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -107,7 +107,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | Submitted to IESG for Publication on 2025-05-22| - | Dhruv | Ketan |
+
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
 [IESG Dashboard](https://datatracker.ietf.org/doc/ad)
@@ -118,18 +118,17 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | EDIT | Auth48 approved, RFC pending | Dhruv |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |MISSREF|Pending on draft-ietf-tls-rfc8446bis [C496](https://www.rfc-editor.org/cluster_info.php?cid=C496) | Andrew |
-| [draft-ietf-pce-pcep-yang](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-yang/) | EDIT | - | Julien |
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |EDIT|- | Andrew |
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | EDIT| - | Dhruv | 
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | EDIT |  - | Andrew |
 
 ## Recent RFCs
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
+| RFC 9826 | Published 2025-09; Was draft-ietf-pce-pcep-yang | Julien |
 | RFC 9753 | Published 2025-04; Was draft-ietf-pce-stateful-pce-optional | Dhruv |
 | RFC 9752 | Published 2025-04; Was draft-ietf-pce-stateful-pce-vendor | Dhruv |
-| RFC 9756 | Published 2025-03; Was draft-ietf-pce-iana-update | Julien | 
-| RFC 9757 | Published 2025-03; Was draft-ietf-pce-pcep-extension-native-ip | Dhruv | 
 
 
 ## Other Useful Information
