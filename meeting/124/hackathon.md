@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T08:42:36.654Z
+date: 2025-10-28T09:40:53.668Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -719,6 +719,18 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 - Problem Statement for Cross-Layer Vulnerabilities due to Forged ICMP Errors (https://datatracker.ietf.org/doc/draft-xu-intarea-vulnerabilities-forged-icmp/)
 - Enhancing ICMP Error Message Authentication Using Challenge-Confirm Mechanism (https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv4/)
 - Enhancing ICMPv6 Error Message Authentication Using Challenge-Confirm Mechanism (https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv6/)
+
+### IPsec EESP
+
+* **Champions**
+   * Steffen Klassert (steffen.klassert@secunet.com)
+   
+* **Project Info**
+   * Prototyping and testing of the  Linux implementation of the EESP protocol.
+ 
+* **Specifications**
+   * https://datatracker.ietf.org/doc/draft-ietf-ipsecme-eesp/02/
+   * https://datatracker.ietf.org/doc/draft-ietf-ipsecme-eesp-ikev2/01/
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
