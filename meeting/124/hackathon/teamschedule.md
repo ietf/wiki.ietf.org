@@ -2,7 +2,7 @@
 title: IETF 124 Team Schedule
 description: 
 published: true
-date: 2025-10-20T14:27:33.503Z
+date: 2025-10-29T20:07:35.191Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-20T14:27:33.503Z
@@ -22,7 +22,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
-|   |   |   |
+|  PQC in X509 |  Saturday Nov 1 (11:30am, 3:00pm, 6:00pm).  Sunday 11:30 am. EST| Gather Town Table G https://app.gather.town/app |
 |   |   |   |
 |   |   |   |
 |   |   |   |
