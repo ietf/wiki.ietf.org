@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-29T03:40:58.193Z
+date: 2025-10-29T19:36:09.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -309,7 +309,8 @@ Greg White (g.white@cablelabs.com)
         Internet Draft: https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
 
  - **Side Meeting**
-        TBD
+    -  Thursday, November 6th, 14:45–15:45h, Room: McGill
+    	- Agenda: Overview/Intro, Q&A, Discussion on next steps within IETF
 
  - **Hackathon Plan (Potential Working Items)**
     - Testing and debugging KIRA with NEST (Connectivity Tests, Reaction to Link or Node Failures and Restoration)
