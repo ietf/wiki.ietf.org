@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-28T22:52:44.029Z
+date: 2025-10-29T10:46:51.675Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -185,6 +185,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 08:30 - 09:30 -- INT AD office hour (tentative Éric V)
 * 09:30 - 10:30 -- OPS AD Office Hour (Med)
 * 10:30 - 11:15 -- Benchmarking and IP Performance consolidation (Med)
+* 13:00 -14:30 ICANN Appointee meeting (Mirja)
 
 
 ## Friday, November 7 2025
