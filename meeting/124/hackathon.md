@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-29T03:39:11.317Z
+date: 2025-10-29T03:40:58.193Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -409,7 +409,7 @@ How It Works:
   This project builds a **semantic routing middleware** — an intelligent layer that connects *agent intentions* with the *right capability endpoint* using semantic understanding and safety checks.
 
   1. **Semantic Routing Engine:** Turns each task request into a semantic vector and searches a database of agent capabilities. It uses two steps — *semantic recall and fine re-ranking* — to pick the most relevant and reliable agent quickly.
-  2. **Scalable and Decoupled Architecture:** Separates the task planning logic from the actual execution. The planner does not need to know all agents; it just asks the router, which returns the best `endpoint` and example parameters. New agents can join easily without changing the planner.
+  2. **Scalable and Decoupled Architecture:** Separates the task planning logic from the actual execution. The planner does not need to know all agents; it just asks the router, which returns the best endpoint and example parameters. New agents can join easily without changing the planner.
   3. **Safety and Trust Control:** Checks every agent for safety and reliability before use. The system filters out unsafe or fake agents using trust data such as capability proofs, past performance, and security ratings.
 
 - **Hackathon Plan**
