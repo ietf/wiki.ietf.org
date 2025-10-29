@@ -2,13 +2,13 @@
 title: Security Area Directors
 description: 
 published: true
-date: 2025-10-29T11:27:11.941Z
+date: 2025-10-29T11:28:18.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:49:24.532Z
 ---
 
-The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/Paul%20Wouters Paul Wouters] and [https://datatracker.ietf.org/person/Roman%20Danyliw Roman Danyliw].
+The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/Paul%20Wouters] Paul Wouters and [https://datatracker.ietf.org/person/Deb%20Cooley] - Deb Cooley.
 
 ## Past Area Directors
 
