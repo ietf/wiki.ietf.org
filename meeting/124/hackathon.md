@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-29T19:36:09.486Z
+date: 2025-10-29T21:35:39.428Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -325,7 +325,8 @@ Greg White (g.white@cablelabs.com)
    - Linux
    - NEST / ContainerNet
    - Python for the Web Demo Interface
-
+ - **Remote Participation**
+ 	 - we will use [Gather](https://app.gather.town/app/L4fNNdm1NJa1sE2v/ietf)
  - **Source Code Repository**
     - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
     - Github Repository is in preparation
