@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-29T21:35:39.428Z
+date: 2025-10-29T21:46:36.925Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -314,6 +314,7 @@ Greg White (g.white@cablelabs.com)
 
  - **Hackathon Plan (Potential Working Items)**
     - Testing and debugging KIRA with NEST (Connectivity Tests, Reaction to Link or Node Failures and Restoration)
+    - Creating automated tests for CI/CD pipelines
     - Check alignment of internal parameter values (timers etc.) with Internet-Draft defaults
     - Implement wire format as defined in https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
     - Implement Wireshark Dissector for the wire format
