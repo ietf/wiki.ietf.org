@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-29T10:59:35.001Z
+date: 2025-10-29T13:53:26.632Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -19,11 +19,8 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 ## Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 124, or the joint meetings with the IAB.
 
-- What will be the IETF AI-pref policy ? I.e., will the IETF allow for LLM training ? (Éric V. prompted by Glenn Deen)
-- Socializing use of Datatracker for accurate updates to WG state of documents in the WG chairs forum (was automated emails on WG adoption and last call - the action item taken by Ketan, Roman and Mahesh) (Ketan)
-- Exec session: [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
-
-
+- -- add topic--
+  
 # IESG Activities
 
 ## Saturday, November 1, 2025
@@ -65,8 +62,15 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1001
 > 
-> 1. Appeal Processing
-> 2. Decide if a Monday meeting is needed
+> Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
+> Note2: Topics are prioritized if linked to IETF 124 events
+> 1. Appeal Processing (Roman)
+> 2. Processing community feedback on the new Note Well (Roman)
+> 3. Processing community feedback on Derivative IPR (Roman)
+> 4. Socializing use of Datatracker for accurate updates to WG state of documents in the WG chairs forum (Ketan)
+> 5. Exec session: [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
+> 6. What will be the IETF AI-pref policy? (i.e., will the IETF allow for LLM training?) (Éric)
+> 7. Decide if a Monday meeting is needed (and agenda if needed)
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
