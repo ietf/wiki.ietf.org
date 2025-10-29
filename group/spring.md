@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-10-29T13:49:56.560Z
+date: 2025-10-29T19:29:05.760Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -32,7 +32,8 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * Waiting for the dependent MPLS WG draft to progress past WGLC
    * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
    * [IETF 117] The authors asked for WGLC.
-   * [2024-07-17] The Shepherd (Ketan Talaulikar) sent a review.
+   * 2024-07-17: The Shepherd (Ketan Talaulikar) sent a review.
+   * 2025-01-06: Status: [WGLC ended](https://mailarchive.ietf.org/arch/msg/spring/J1bVdJsKfxTRhHOSau02xnNe-wQ/), but it was inconclusive.  Waiting for updates before a new WGLC.
 * draft-ietf-spring-segment-protection-sr-te-paths
    * [Responsible Chair: Bruno]
    * 2023-07-03 Authors asked for WGLC
@@ -40,10 +41,13 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-resource-aware-segments
   * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
-  * 2024-07-19 Not ready. A first set of comments sent on the list (Bruno) https://mailarchive.ietf.org/arch/msg/spring/PO0jFSHaQZWEn1ABo55keNigVpc/
+  * 2024-07-19 Not ready. A first set of comments sent on the list (Bruno) 
+  * 2025-09-25 Started [WGLC](https://mailarchive.ietf.org/arch/msg/spring/eapWIz3JcpzVLm7xPfSe30jaQUg/).
+  * 2025-10-14: The outcome of the WGLC is tied to the NRP-related Interim from Oct/14.  Will require a new WGLC after Operational Considerations are included.
 * draft-ietf-spring-sr-for-enhanced-vpn
   * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
+  * This document depends on draft-ietf-spring-resource-aware-segments, so we will wait until that one passes WGLC.
 * draft-ietf-spring-cs-sr-policy
   * [Responsible Chair: Joel]
   * 2024-11-06 (IETF121) Authors sent request
@@ -51,6 +55,8 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-dhc-distribute-srv6-locator-dhcp
   * [Responsible Chair: Alvaro]
   * 2024-11-06 (IETF121) Authors sent request
+  * 2025-08-28 [WGLC](https://mailarchive.ietf.org/arch/msg/spring/ppjbrUIKmJ401oGFVBztgrpSFoA/)
+  * 2025-10-16 [Publication Requested](https://mailarchive.ietf.org/arch/msg/spring/iGgMCAIBwZRiwkhxD38SxfrgWxU/)
 * draft-ietf-spring-srv6-path-segment
   * [Responsible Chair: Bruno]
   * 2025-01-20 Authors sent request
