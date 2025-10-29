@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-28T18:29:53.679Z
+date: 2025-10-29T01:57:56.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -772,6 +772,15 @@ The objective of this hackathon is to exploit the SIMAP to run “what-if” sce
 
 - **Related Groups**
 Network Management Operations (nmop)
+
+### Rocca-S in parallel mode
+- **Champions**
+Yuto Nakano
+- **Project Info**
+The goal of this project is to implement Rocca-S in parallel and evaluate its performance. Rocca-S is an authenticated encryption with associated data (AEAD) algorithm designed for high performance applications. By implementing in parallel, even higher performance can be expected. We will try to find out how fast Rocca-S can perform in parallel.
+- **Related Draft**
+Encryption algorithm Rocca-S
+https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
