@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-27T17:22:29.255Z
+date: 2025-10-29T05:33:23.148Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -41,12 +41,12 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 ### 14:00-16:00 - IAB Business Meeting (Room: Duluth)
 
 Agenda:
+1. EImpact program update / draft-various-eimpact-arch-considerations (Suresh+Mark+Jari) (10 min)
 1. Status update on ISE call for nominations (Interview committee) (10 min)
 1. ISOC BoT nominations call (10 min)
 1. Follow-up from ICANN board discussion (Mirja) (10 min)
 1. Approval of draft-iab-nemops-workshop-report (5 min)
 1. Approval of draft-iab-ai-control-report (5 min)
-1. EImpact program update / draft-various-eimpact-arch-considerations (Suresh) (10 min)
 1. IAB meeting time rotation ([details](https://github.com/intarchboard/responsibilities/issues/65)) (Dhruv) (20 min)
 1. What topics require a formal vote (Cullen) (15 min)
 1. Appeal discussions (Executive session) (35 min)
