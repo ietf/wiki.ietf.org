@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-10-29T13:27:32.579Z
+date: 2025-10-29T13:49:56.560Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -54,6 +54,7 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-srv6-path-segment
   * [Responsible Chair: Bruno]
   * 2025-01-20 Authors sent request
+  * 2025-07-16 Shepherd review sent https://mailarchive.ietf.org/arch/msg/spring/RtMTLpo8XlxWEXV0QR2hFSa-ofk/
 * draft-ietf-spring-stamp-srpm-srv6
   * [Responsible Chair: Alvaro]
   * 2025-10-03 Authors sent request
@@ -70,6 +71,9 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-ali-spring-srv6-policy-sid-list-optimization
   * 2025-07-25 (IETF 123) Authors sent request
   * https://datatracker.ietf.org/doc/draft-ali-spring-srv6-policy-sid-list-optimization/
+  * 2025-10-29 Adoption call sent
+  * (Call) https://mailarchive.ietf.org/arch/msg/spring/UYvEIbE1Tu1q_BMDVQXfSJs4J1g/
+  * (IPR) https://mailarchive.ietf.org/arch/msg/spring/dqszuWaslx54VwcvlN6PydpZb8Q/
 * draft-karboubi-spring-sr-policy-eligibility
   * 2025-07-25 (IETF 123) Authors sent request
   * https://datatracker.ietf.org/doc/draft-karboubi-spring-sr-policy-eligibility/
