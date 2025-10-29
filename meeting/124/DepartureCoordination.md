@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-10-27T17:15:28.727Z
+date: 2025-10-29T23:02:32.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -30,7 +30,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 17:50 | AC 761 |Bob Hinden |bob.hinden@gmail.com  | YUL |  | Fairmont  | Flight time  |
-|     |        |           |                      |     |  |           |              |
+|  afternoon   |  driving      |   Jeffrey Zhang       |    zzhang@juniper.net                   |   To Boston Area  |  |           |              |
 |     |        |           |                      |     |  |           |              |
 
 
