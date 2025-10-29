@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-29T09:23:01.117Z
+date: 2025-10-29T21:40:05.239Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -117,7 +117,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-segment-routing-policy-cp](https://datatracker.ietf.org/doc/draft-ietf-pce-segment-routing-policy-cp) | AUTH48-DONE | - | Dhruv |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |EDIT|- | Andrew |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | EDIT| - | Dhruv | 
 | [draft-ietf-pce-pcep-color](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-color) | AUTH48-DONE |  - | Andrew |
@@ -126,9 +125,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
+| RFC 9862 | Published 2025-10; Was draft-ietf-pce-segment-routing-policy-cp| Dhruv|
 | RFC 9826 | Published 2025-09; Was draft-ietf-pce-pcep-yang | Julien |
-| RFC 9753 | Published 2025-04; Was draft-ietf-pce-stateful-pce-optional | Dhruv |
-| RFC 9752 | Published 2025-04; Was draft-ietf-pce-stateful-pce-vendor | Dhruv |
 
 
 ## Other Useful Information
