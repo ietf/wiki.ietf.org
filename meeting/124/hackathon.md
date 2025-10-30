@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T19:43:59.283Z
+date: 2025-10-30T21:49:50.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -211,7 +211,7 @@ Space communications have large delays (2 secs one-way delay to Moon, 4-22 mins 
 
 - **Project Info**
 
-We will be broadcasting two SSID on the hackathon wireless network: ietf-moon which will inject a 2 seconds one-way delay and ietf-mars which will inject a 4 minutes delay. Both will also see intermittence.  Everybody is very welcome to participate and test the network, but make sure to follow the [instructions](https://deepspaceip.github.io/meeting/ietf124/README.md) as typical Internet applications won't work as is in this environment.
+We will be broadcasting two SSID on the hackathon wireless network: ietf-moon which will inject a 2 seconds one-way delay and ietf-mars which will inject a 4 minutes delay. Both will also see intermittence.  Everybody is very welcome to participate and test the network, but make sure to follow the [instructions](https://deepspaceip.github.io/meetings/ietf124/) as typical Internet applications won't work as is in this environment.
 
 ### <a id="scone"></a>SCONE - Standard Communication with Network Elements
 - **Champions**
