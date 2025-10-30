@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-10-22T18:45:16.512Z
+date: 2025-10-30T16:24:03.705Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -16,6 +16,13 @@ Please put your name in this list to sign up for a slots. The goal is to have 2-
 
 Volunteers: Suresh, Mirja, Dhruv, Alvaro, Matthew, Warren
 
+## Tuesday 4th Nov 
+Beverage Break, **11:30-12:00**
+IAB Members: Dhruv, Alvaro, Warren
+
+## Thursday 6th Nov 
+Beverage Break, **16:30-17:00**
+IAB Members: Dhruv, Mirja, Warren
 
 # IETF 123 Madrid
 
