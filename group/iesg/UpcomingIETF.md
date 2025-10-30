@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-30T18:05:45.761Z
+date: 2025-10-30T19:38:47.528Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -65,7 +65,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
 > Note2: Topics are prioritized if linked to IETF 124 events
 > 1. [Appeal Processing](https://docs.google.com/document/d/1-2FJjcNTRUyA9LYgHNrjJARABVwx0rQTmejd_eZbHec/edit?tab=t.0) (Roman)
-> 2. Processing community feedback on the new Note Well (Roman)
+> 2. [Processing community feedback on the new Note Well](https://docs.google.com/document/d/1_AuhZIh1GTi3aAhFlBEmwH90R5QvgMiJT9O56wd9OFc/edit?tab=t.0) (Roman)
 > 3. [Processing community feedback on Derivative IPR](https://docs.google.com/document/d/1BgTZpDH7W0WxAoGE4cbWJTpDo5j_emBCbUXFdwYfz_0/edit?tab=t.0) (Roman)
 > 4. Socializing use of Datatracker for accurate updates to WG state of documents in the WG chairs forum (Ketan)
 > 5. Report from IANA (Sabrina)
