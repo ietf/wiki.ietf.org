@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T15:36:51.881Z
+date: 2025-10-30T16:15:17.170Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -861,6 +861,25 @@ https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration
 - **Related Groups**
 [Operations and Management Area Working Group (opsawg)](https://datatracker.ietf.org/wg/opsawg/)
 [Network Management Operations (nmop)](https://datatracker.ietf.org/wg/nmop/)
+
+### Knowledge Graphs For Network Operations
+- **Champions**
+	Michael Mackey <michael.mackey@huawei.com>
+  Bohdan Yeriemienko <bohdan.yeriemienko@huawei.com>
+  Lionel Tailhardat <lionel.tailhardat@orange.com>
+  FOLZ Pauline <pauline.folz@orange.com>
+  Beyza Yaman <beyza.yaman@adaptcentre.ie>
+  
+  
+ This project will demonstrate how existing IETF YANG Models and related instance data can be quickly converted into a Knowledge Graph. By using Semnatic Web Technologies, these models and data can easily be intergrated or extened with external ontologies to enhance the information present and allow graph queries across the data to find deep insights.
+ 
+Specifically it will show how the draft SIMAP YANG model can be represented in RDFS and how it can be integrated with an external wider Ontology (represented by NORIA-O). 
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
+https://datatracker.ietf.org/doc/draft-marcas-nmop-kg-construct/
+https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
+
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
