@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T16:15:17.170Z
+date: 2025-10-30T19:43:59.283Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -880,6 +880,16 @@ https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
 https://datatracker.ietf.org/doc/draft-marcas-nmop-kg-construct/
 https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
 
+### SRv6 SFC Architecture with SR-aware Functions
+- **Champions**
+  Wataru Mishima (mishima@nw.kanagawa-it.ac.jp)
+  Taisei Tanabe (tanabe@nii.ac.jp)
+- **Project Info**
+  Implement each component of Chapter 4 "Overview of Architecture" in "draft-watal-spring-srv6-sfc-sr-aware-functions" to achieve comprehensive management of SRv6 SFC.
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/03/
+https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
+  
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
