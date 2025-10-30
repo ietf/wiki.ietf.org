@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-30T16:56:45.654Z
+date: 2025-10-30T17:16:25.728Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -46,7 +46,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
-| draft-ietf-pce-pcep-extension-pce-controller-p2mp-00 | Adopted 2025-08-08 | Julien |
+| draft-ietf-pce-pcep-extension-pce-controller-p2mp | Adopted 2025-08-08 | Julien |
 | draft-ietf-pce-operational| Adopted 2025-04-22; -01 posted on 2025-06-30  | Dhruv | 
 
 
@@ -55,13 +55,13 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
-| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -08 posted on 2025-03-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -07 posted on 2025-02-12  | waiting for spring draft for WGLC |
-| draft-ietf-pce-pcep-srv6-yang |  -07 posted on 2025-04-21 | - |
-|draft-ietf-pce-bier-te | -01 posted on 2024-10-10 | Needs more review |
-| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -02 posted on 2025-04-29 | - |
-|draft-ietf-pce-pcep-bfd-parameters|-00 posted 2025-02-11 | PLease handle adoption comments|
+| [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | EXPIRED; -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
+| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -09 posted on 2025-09-30 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -08 posted on 2025-08-17  | waiting for spring draft for WGLC |
+| draft-ietf-pce-pcep-srv6-yang |  -08 posted on 2025-10-14 | - |
+|draft-ietf-pce-bier-te | -02 posted on 2025-06-04 | Needs more review |
+| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -03 posted on 2025-10-20 | - |
+|draft-ietf-pce-pcep-bfd-parameters|-01 posted on 2025-08-20 | PLease handle adoption comments|
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 
@@ -71,8 +71,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Manag Sec|Remarks|Action|
 | --- | --- | --- | ---|---|
-|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -13 posted on 2025-04-16 | Has Normative dependencies, thus need to wait |
-| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -03 posted on 2025-04-21 | - |
+|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -14 posted on 2025-10-13 | Has Normative dependencies, thus need to wait |
 
 
 
@@ -92,7 +91,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 | draft-ietf-pce-stateful-pce-autobw-update |N|N| -02 posted on 2025-06-01 | - | - | - |
 | draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |
 | draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -05 posted on 2025-09-05 | - | - | - |
-
+| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | - |
 ## Post WG LC Queue  
 
 This is a queue of documents after WG LC and before being sent to the IESG.
