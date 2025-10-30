@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-10-21T12:22:05.168Z
+date: 2025-10-30T06:25:45.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -51,6 +51,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Oct 2025|[ICANN84](https://meetings.icann.org/en/meetings/icann84/)|ICANN Leadership|supporter|Roman,Dhruv,Mirja,Warren|[Recording](https://icann.zoom.us/rec/play/zM8Pog5RsHO2reY2B5BB21BvVIKuJduhbwbXYPusw-TF3AU3p191roRm5w-aY_27wQofnm6LivhjA8Xr.Khk9YmLpecuSB-dB?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FFI9NrVHzjf1WZO7dwlWbGo8hS2I11FwmlKIz-JWK4mwruiifN_qtlleZ0Djp3SvB.qyDWVeDZkj9bv5Mt)|
 |Oct 2025|[RIPE91](https://ripe91.ripe.net/)|Operators|Participants|Suresh, Mirja, Eric|[Details](https://ripe91.ripe.net/programme/meeting-plan/sessions/17/CGDZGZ/)|
 |Sept 2025|[CAPIF4](https://www.ripe.net/meetings/regional-meetings/capif/previous-events/capif-4/agenda/)|Regional|Knowledge sharing|Dhruv|-|
 |Sept 2025|[inSIG2025](https://insig.in/insig-agenda-2025/)|Mixed|all levels|Dhruv|[IETF in IG Ecosystem](https://docs.google.com/presentation/d/1zcOSnnvVO8e2wAJt2w_NPxAjetGlsK94qz1TOeTi31o/edit?usp=sharing)<br>[Internet Standards & RFCs](https://docs.google.com/presentation/d/1fMdu8LtfaO0YywRXVeoatPOG4JC6FWv2Na0OtQKiMDk/edit?usp=sharing)|
