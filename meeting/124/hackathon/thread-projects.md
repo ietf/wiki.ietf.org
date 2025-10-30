@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-07-31T17:59:19.039Z
+date: 2025-10-30T16:52:38.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T17:46:51.454Z
@@ -32,6 +32,7 @@ For communication among Thread Hackathon participants, particularly remote parti
 François Michel (Apple)
 Stuart Cheshire (Apple)
 Ted Lemon (Apple)
+Esko Dijk (IoTconsultancy.nl)
 
 - **Project Info**
 
