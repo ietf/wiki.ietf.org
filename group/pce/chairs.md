@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-07-16T11:12:48.322Z
+date: 2025-10-30T17:17:30.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -21,8 +21,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-|Prep for 123| [agenda](https://datatracker.ietf.org/doc/agenda-123-pce/) and [chair slides](https://docs.google.com/presentation/d/1JyQqMfVYls47ZQOFpet8dUfQAXpUBmWgCQ9cNWZq3L0/edit?usp=sharing)| - | - |
-| WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
 | Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Authors to resolve Quan's comment; the I-D is currently expired. <br> 1 IPR response from Francesco Lazzeri missing, who is now retired - confirm with authors on how they wish to proceed|
 | Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
@@ -43,6 +41,7 @@ Items to talk to Ketan:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Add to Adoption queue | draft-dong-pce-pcep-nrp | Dhruv | Request from authors to prioritize |
 | Add to WGLC queue | draft-ietf-pce-circuit-style-pcep-extensions | Dhruv | Authors requesting WGLC in parallel to spring draft; can be moved to WGLC queue? |
 | Add to WGLC queue | draft-ietf-pce-sr-p2mp-policy | Dhruv | Authors requesting WGLC. draft; can be moved to WGLC queue? |
