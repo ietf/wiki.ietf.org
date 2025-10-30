@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T11:09:56.599Z
+date: 2025-10-30T11:11:26.802Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -794,8 +794,9 @@ https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
 https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
 https://datatracker.ietf.org/doc/rfc9130/
 https://datatracker.ietf.org/doc/rfc9129/
-https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/
+https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
 https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/
+https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/
 
 - **Hackathon Plan**
 During the IETF123 Hackathon we demonstrated how RFC 8345 can be used to model a Layer-3 VPN service running over an SRv6-enabled core within a virtual lab environment, and how to link the SIMAP to external sources (e.g., inventory and metrics).
