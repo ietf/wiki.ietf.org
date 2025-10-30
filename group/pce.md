@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-30T07:49:36.558Z
+date: 2025-10-30T16:01:25.779Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -99,9 +99,9 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Authors handled early reviews and WGLC comments| Pending Shepherd review and write up |Dhruv |
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | - | Pending Shepherd review and write up | Julien |
-|draft-ietf-pce-circuit-style-pcep-extensions|Awaiting I-D update|Shepherd Review Done on 2025-10-30 |Dhruv |
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Awaiting author's response and updated I-D|Shepherd Review Done on 2025-10-30 |Dhruv |
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Response to Andrew's WGLC comment is pending | Pending Shepherd review and write up | Julien |
+|draft-ietf-pce-circuit-style-pcep-extensions|Awaiting updated I-D|Shepherd Review Done on 2025-10-30 |Dhruv |
 
 ## Drafts with the IESG
 
