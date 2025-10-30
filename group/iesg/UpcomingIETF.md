@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-29T18:36:31.062Z
+date: 2025-10-30T13:26:40.991Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -71,7 +71,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > 5. Report from IANA (Sabrina)
 > 6. Exec session: [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
 > 7. What will be the IETF AI-pref policy? (i.e., will the IETF allow for LLM training?) (Éric)
-> 8. Decide if a Monday meeting is needed (and agenda if needed)
+> 8. Exec session: An update on IDR rechartering (Ketan)
+> 9. Decide if a Monday meeting is needed (and agenda if needed)
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
