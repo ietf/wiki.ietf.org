@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-29T13:59:22.610Z
+date: 2025-10-30T15:33:12.866Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -227,10 +227,10 @@ Roberto Manzotti	rmanzott@cisco.com	https://mailarchive.ietf.org/arch/msg/ccamp/
 Prasenjit Manna	prmanna@cisco.com	https://mailarchive.ietf.org/arch/msg/ccamp/lXKz2BPbwvzSBVd7Q4XAjC8iPr0/
 Gabriele Galimberti	ggalimbe56@gmail.com	https://mailarchive.ietf.org/arch/msg/ccamp/r8rkEAJWM_BA38dqn71s1gXUeZ8/
 Harish Venkatraman	harish.venkatraman@nokia.com	https://mailarchive.ietf.org/arch/msg/ccamp/5kBrWsg4BZEzWtiI8JJNa8Gxvno/
-Gyan Mishra	gyan.s.mishra@verizon.com	
+Gyan Mishra	gyan.s.mishra@verizon.com	https://mailarchive.ietf.org/arch/msg/ccamp/Gp7M8_BqlV6Ieu6hOGhD6IKEaS8/
 Stefan Melin	stefan.melin@teliacompany.com	
-Majid Hossein Poor	majid.hosseinpoor@team.telstra.com	
-Dacian Demeter	dacian.demeter@telus.com	
+Majid Hossein Poor	majid.hosseinpoor@team.telstra.com	https://mailarchive.ietf.org/arch/msg/ccamp/zjfFT-8nQ6Q5_bc1nHB5OE12BlA/
+Dacian Demeter	dacian.demeter@telus.com	https://mailarchive.ietf.org/arch/msg/ccamp/AB455jRLQ8AougInIU6dBG8yl6A/
 
 
 #### 2024-11 - draft-gstk-ccamp-actn-optical-transport-mgmt-05
