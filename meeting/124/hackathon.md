@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T11:11:26.802Z
+date: 2025-10-30T13:40:04.516Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -813,6 +813,28 @@ The goal of this project is to implement Rocca-S in parallel and evaluate its pe
 - **Related Draft**
 Encryption algorithm Rocca-S
 https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
+
+### PQC DNSSEC MTL Mode Updates to add support for ML DSA
+- **Champions**
+Joe Harvey (jsharvey@verisign.com)
+Swapneel Sheth (ssheth@verisign.com)
+
+- **Project Info**
+This hackathon topic continues our evaluation of post-quantum cryptography (PQC) DNSSEC. The original specification for MTL mode provided support for SLH-DSA underlying signatures. The latest version 08 of draft-harvey-cfrg-mtl-mode updates the hash function constructions and underlying signature bindings to also add support for ML-DSA.  This update was based on community feedback and a desire to offer better crypto agility when using MTL mode. This hackathon will look at:
+	1.	Test interoperability between open-source resolvers with both algorithms.
+	2.	Look at the performance for each algorithm relative to the other when leveraging MTL Mode.
+
+- **Draft Specifications**
+[1] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
+[2] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/
+[3] https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+
+- **Related Groups**
+	PQ DNSSEC Research Side Meetings
+	DNS Operations (DNSOP) Working Group
+	Crypto Forum Research Group (CFRG)
+	Post-Quantum Use in Protocols (PQUIP)
+
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
