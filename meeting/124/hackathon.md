@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-29T21:46:36.925Z
+date: 2025-10-30T11:09:56.599Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -792,9 +792,6 @@ https://www.rfc-editor.org/rfc/rfc8944
 https://www.rfc-editor.org/rfc/rfc8346
 https://datatracker.ietf.org/doc/draft-ogondio-nmop-isis-topology
 https://datatracker.ietf.org/doc/draft-ogondio-nmop-ospf-topology
-https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map-concept
-https://datatracker.ietf.org/doc/html/draft-havel-nmop-digital-map
-https://datatracker.ietf.org/doc/draft-davis-nmop-some-refinements-to-rfc8345
 https://datatracker.ietf.org/doc/rfc9130/
 https://datatracker.ietf.org/doc/rfc9129/
 https://datatracker.ietf.org/doc/draft-vivek-simap-external-relationship/
