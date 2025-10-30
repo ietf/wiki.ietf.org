@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T13:40:04.516Z
+date: 2025-10-30T15:36:51.881Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -835,6 +835,32 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 	Crypto Forum Research Group (CFRG)
 	Post-Quantum Use in Protocols (PQUIP)
 
+### YANG Provenance Signatures Integrated with the Kafka Schema Registry
+
+- **Champions**
+  Diego Lopez <diego.r.lopez@telefonica.com>
+  Ana Mendez <ana.mendezperez@telefonica.com>
+  Lucia Cabanillas <lucia.cabanillasrodriguez@telefonica.com>
+
+- **Project Info**
+
+This topic will demonstrate how the YANG provenance signature module already presented at previous IETF hackathons can be integrated with the Kafka YANG Schema Registry project, supporting:
+
+  * Augment patterns for extending any valid YANG module
+  * Schema-based management of provenance signature elements
+  * Direct integration with message flows using Kafka
+
+Besides this, the improved signing and verification methods, without requiring Kafka or its registry, will also be demonstrated. 
+
+Interested participants are welcome to bring their YANG modules and discuss how to apply provenance signatures
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/
+https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/
+
+- **Related Groups**
+[Operations and Management Area Working Group (opsawg)](https://datatracker.ietf.org/wg/opsawg/)
+[Network Management Operations (nmop)](https://datatracker.ietf.org/wg/nmop/)
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
