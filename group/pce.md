@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-10-29T21:40:05.239Z
+date: 2025-10-30T06:39:31.013Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -125,6 +125,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
+| RFC 9863 | Published 2025-10; Was draft-ietf-pce-pcep-color| Andrew|
 | RFC 9862 | Published 2025-10; Was draft-ietf-pce-segment-routing-policy-cp| Dhruv|
 | RFC 9826 | Published 2025-09; Was draft-ietf-pce-pcep-yang | Julien |
 
