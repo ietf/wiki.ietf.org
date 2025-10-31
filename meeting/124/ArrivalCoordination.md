@@ -2,13 +2,13 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-31T15:07:11.965Z
+date: 2025-10-31T15:43:10.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
 ---
 
-# IETF 124 Arrival Coordination
+- # IETF 124 Arrival Coordination
 For ease of taxi-sharing or having companions to take the public transport from the airport to the IETF 123 venue and hotels.
 
 ## Thursday, October 30, 2025
@@ -25,6 +25,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |14:22| 801|Dhruv |dd@dhruvdhody.com  |YUL   | |Fairmont  | |
 |15:15|UA3439|Nobuo AOKI |n_aoki@ieee.org  |YUL   | |Fairmont  | Flight Arraval Time|
+|21:15|TP253|Daniel|danvan3000@gmail.com|YUL| | Fairmont-ish | |
 |      |       |      |       |         |          |             |       |
 
 
