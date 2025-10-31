@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-29T05:33:34.822Z
+date: 2025-10-31T18:29:47.214Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -50,6 +50,7 @@ Agenda:
 1. IAB meeting time rotation ([details](https://github.com/intarchboard/responsibilities/issues/65)) (Dhruv) (20 min)
 1. What topics require a formal vote (Cullen) (15 min)
 1. Appeal discussions (Executive session) (35 min)
+1. ICANN GWG handling of comments, including [IAB](https://itp.cdn.icann.org/public-comment/proceeding/Functional%20Model%20for%20Root%20Server%20System%20Governance-11-08-2025/submissions/Internet%20Architecture%20Board/IAB%20Comment%20on%20RSS-GWG%20Liaison%20Report-22-09-2025.pdf) comment (if time)
 
 ### Evening Meeting Events
 
