@@ -2,13 +2,13 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2025-10-31T16:42:12.181Z
+date: 2025-10-31T16:56:42.443Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
 ---
 
-Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work at the IETF.  It consists of working groups focused on security and privacy protocols, and supports the appropriate application of security mechanisms in the protocols being developed in other areas of the IETF.  The 25 [Security area working groups](https://datatracker.ietf.org/wg/#sec) and the 3 co-managed in the [Applications and Real-Time area working groups](https://datatracker.ietf.org/wg/#art) are focused on:
+Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work at the IETF.  It consists of working groups focused on security and privacy protocols, and supports the appropriate application of security mechanisms in the protocols being developed in other areas of the IETF.  The 30 [Security area working groups](https://datatracker.ietf.org/wg/#sec) and the 1 co-managed in the [Web and Internet Transport area working groups](https://datatracker.ietf.org/wg/#wit) are focused on:
 * enabling secure and privacy-preserving communications; 
 * helping collect, verify, understand, and update the state of network end-points; and
 * providing protocols and applications the means to handle the authentication, authorization, and accounting of users, applications, and devices.
@@ -17,9 +17,7 @@ The area is managed by the Security Area Directors (ADs)  [Paul Wouters](https:/
 
 The Security ADs are assisted by the [SECDISPATCH WG](https://datatracker.ietf.org/wg/secdispatch/documents/), a [Security Directorate](/group/secdir) (SECDIR), and [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/) (SAAG).
 
-Not formally part of the Security area, but collaborative in scope are the [IRTF](https://irtf.org/)'s [Crypto Forum Research Group](https://datatracker.ietf.org/rg/cfrg/about/) (CFRG) and [Privacy Enhancements and Assessments Research Group](https://datatracker.ietf.org/rg/pearg/about/) (PEARG); and the [IAB](https://www.iab.org/)'s [Threat Model Program](https://www.iab.org/activities/programs/internet-threat-model-model-t-program/) (model-t).
-
-The research community has also helped verify the security properties of IETF protocols with [formal analysis](/group/sec/formal-verification).
+Not formally part of the Security area, but collaborative in scope are the [IRTF](https://irtf.org/)'s [Crypto Forum Research Group](https://datatracker.ietf.org/rg/cfrg/about/) (CFRG),  [Privacy Enhancements and Assessments Research Group](https://datatracker.ietf.org/rg/pearg/about/) (PEARG) and [Usable Formal Methods Research Group](https://datatracker.ietf.org/rg/ufmrg/about/) (UFMRG).
 
 ## New Work in the Security Area
 
