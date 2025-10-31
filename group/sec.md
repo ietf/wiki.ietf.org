@@ -2,7 +2,7 @@
 title: Security Area
 description: IETF Security Area wiki
 published: true
-date: 2023-07-26T17:08:37.333Z
+date: 2025-10-31T16:42:12.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T17:54:24.798Z
@@ -13,7 +13,7 @@ Security (SEC) is one of the [areas](https://www.ietf.org/topics/areas/) of work
 * helping collect, verify, understand, and update the state of network end-points; and
 * providing protocols and applications the means to handle the authentication, authorization, and accounting of users, applications, and devices.
 
-The area is managed by the Security Area Directors (ADs) [Roman Danyliw](https://datatracker.ietf.org/person/Roman%20Danyliw) and [Paul Wouters](https://datatracker.ietf.org/person/Paul%20Wouters).
+The area is managed by the Security Area Directors (ADs)  [Paul Wouters](https://datatracker.ietf.org/person/Paul%20Wouters) and [Deb Cooley](https://datatracker.ietf.org/person/Deb%20Cooley).
 
 The Security ADs are assisted by the [SECDISPATCH WG](https://datatracker.ietf.org/wg/secdispatch/documents/), a [Security Directorate](/group/secdir) (SECDIR), and [Security Area Advisory Group](https://datatracker.ietf.org/group/saag/about/) (SAAG).
 
