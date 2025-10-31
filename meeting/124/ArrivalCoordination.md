@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-31T16:20:44.840Z
+date: 2025-10-31T16:21:04.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -38,11 +38,11 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | 13:49 | AC760 | Bobbie Chen | bchen@stytch.com | YUL |   | Fairmont |    | 
 | 16:10	| LX86 | Martin Horneffer | martin.horneffer@telekom.de | YUL | | Fairmont |
 | 16:49 | UA 8032 | Mahesh Jethanandani | mjethanandani@gmail.com | YUL | | Fairmont |
+| 16:49 | UA 8032 | Lisa Dusseault | lisa@rtfm.com | YUL | | AirBnB | + kid |
 | 19:48 | UA3602 | Lixia Zhang | lixia@cs.ucla.edu | YUL |   | Fairmont |       |	
 | 19:48 | UA3602 | Jim Fenton  | fenton@bluepopcorn.net | YUL | | Fairmont |       |
 |  19:45   | BA95       | Jim Reid     | ietf124@rfc1035.com			     | YUL     |          |      Fairmont       |       | 
 | 19:45 | BA95 | Pete Resnick  | resnick@episteme.net | YUL |   | Fairmont |       |
-| 16:49 | UA 8032 | Lisa Dusseault | lisa@rtfm.com | YUL | | AirBnB | + kid |
 
 ## Sunday, November 02, 2025
 
