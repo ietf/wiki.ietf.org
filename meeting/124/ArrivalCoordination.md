@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-31T14:14:53.649Z
+date: 2025-10-31T14:48:36.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -42,7 +42,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 16:49 | AC760 | Tony Li | tony.li@tony.li | YUL |          | Fairmont | Preferences: 747, Lyft, Uber, Taxi |
 |      |        |      |       |         |          |             |       |
 
 ## Monday, November 03, 2025
