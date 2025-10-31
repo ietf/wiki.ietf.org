@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-31T18:48:55.180Z
+date: 2025-10-31T22:54:25.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -528,6 +528,24 @@ A good starting place is our Github repository: https://github.com/IETF-Hackatho
 For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
 
 At IETF 124, we plan to add more automation and others are invited to test interoperability.  Also, the composite signatures recently had IANA OIDs assigned, so a number of people are interested in testing composite signatures interoperability.   
+
+### ML-DSA and ML-KEM Composite Provider for OpenSSL
+
+- **Champion(s)**
+Felipe Ventura (felipe.ventura@entrust.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-lamps-dilithium-certificates/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+
+- **Project Info**
+This project implements the emerging ML-DSA and ML-KEM composite cryptographic standards through a dedicated OpenSSL provider, enabling modular and standards-compliant support for post-quantum and hybrid digital signatures and key encapsulation mechanisms. By leveraging OpenSSL's provider architecture, the implementation ensures clean integration, extensibility, and interoperability with existing TLS and PKI infrastructures. The goal is to accelerate experimentation and adoption of composite cryptography in real-world applications, aligning with IETF efforts to future-proof secure communications against quantum threats.
+
+A good starting place is our Github repository: n/a
+
+At IETF 124, we plan to start this new project and use the lessons learned in previous implementations to provide a clean, easy to understand, composite cryprography implementation. 
 
 ### Remote Attestation with Exported Authenticators
 - **Champions**
