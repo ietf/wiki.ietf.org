@@ -41,7 +41,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 11.43pm | CM4422 | Carlos | carlos@lacnic.net | YUL |     ??  |  Fairmont  |       |
 |      |        |      |       |         |          |             |       |
 
 ## Monday, November 03, 2025
