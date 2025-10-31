@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-31T19:03:00.035Z
+date: 2025-10-31T20:06:06.675Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -180,6 +180,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * 08:30-09:30 -- ART AD office hours (Andy)
 * 10:00-11:00 -- OPS AD (IANA and YANG Semver) (Mahesh)
+* 11:00-11:30 -- OCM Chairs Meeting (Andy)
 * 11:30-12:30 -- ONIONS Charter Discussion with proponents (Mahesh)
 * 13:00 -14:30 ICANN Appointee meeting (Mirja)
 
