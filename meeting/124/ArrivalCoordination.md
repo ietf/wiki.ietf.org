@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-29T10:55:07.527Z
+date: 2025-10-31T06:04:13.892Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -23,8 +23,11 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|14:22|AC 801|Dhruv |dd@dhruvdhody.com  |YUL   | |Fairmont  | |
+|14:22| 801|Dhruv |dd@dhruvdhody.com  |YUL   | |Fairmont  | |
+
+|15:15|UA 3439|Nobuo AOKI |n_aoki@ieee.org  |YUL   | |Fairmont  | Flight Arraval Time|
 |      |       |      |       |         |          |             |       |
+
 
 ## Saturday, November 01, 2025
 
