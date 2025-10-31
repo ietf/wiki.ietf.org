@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-31T16:20:29.508Z
+date: 2025-10-31T16:20:44.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -42,7 +42,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | 19:48 | UA3602 | Jim Fenton  | fenton@bluepopcorn.net | YUL | | Fairmont |       |
 |  19:45   | BA95       | Jim Reid     | ietf124@rfc1035.com			     | YUL     |          |      Fairmont       |       | 
 | 19:45 | BA95 | Pete Resnick  | resnick@episteme.net | YUL |   | Fairmont |       |
-| 16:49 | UA 8032 | Lisa Dusseault + kid | lisa@rtfm.com | YUL | | AirBnB | + kid |
+| 16:49 | UA 8032 | Lisa Dusseault | lisa@rtfm.com | YUL | | AirBnB | + kid |
 
 ## Sunday, November 02, 2025
 
