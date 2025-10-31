@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-30T21:49:50.015Z
+date: 2025-10-31T18:48:55.180Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -625,10 +625,27 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 - **Champions**
   + Allen Robinson (arobins@google.com)
   + Bron Gondwana (brong@fastmailteam.com)
+  + John Levine (johnl@taugh.com)
+  + Richard Clayton (richard@highwayman.com) [Remote]
+  + Wei Chuang (weihaw@google.com) [Remote]
 
 - **Project Info**
-Work on setting up interoperable running code for the current DKIM2 proposals (https://datatracker.ietf.org/wg/dkim/documents/) to inform ongoing design discussions about the new protocol.
+To build multiple DKIM2 implementations creating and validating signatures on flat file messages shared through the Github repository. We’ve decided that SMTP transaction support is out of scope for this first hackathon activity. We hope to have a small handful of common scenarios to cover during testing. The goal is to just validate assumptions being made in the design phase and try to surface any gaps.
+
++ **Participation Details**
+	+ Chatroom: https://zulip.ietf.org/#narrow/channel/366-dkim/topic/ietf-124-hackathon/
+  + Video / Voice: https://meet.google.com/sbv-rjxh-vaq
+  + GitHub Repo: https://github.com/dkim2wg/interop
+
++ **Project Files**
+	+ https://datatracker.ietf.org/wg/dkim/documents/
+  + https://datatracker.ietf.org/doc/draft-ietf-dkim-dkim2-motivation/
+  + https://datatracker.ietf.org/doc/draft-gondwana-dkim2-header/
+  + https://datatracker.ietf.org/doc/draft-clayton-dkim2-spec/
+  + https://www.cl.cam.ac.uk/~rnc1/draft-clayton-dkim2-spec.html
+
 Code and samples at https://github.com/dkim2wg/interop
+
 
 ### Testing Congestion Control and Queue Management Mechanisms
 
