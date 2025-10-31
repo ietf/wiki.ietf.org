@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-10-31T15:51:54.777Z
+date: 2025-10-31T15:56:53.248Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -35,6 +35,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | 13:00 | AC845 | Marco Liebsch  | marco.liebsch@neclab.eu | YUL |   |          |       |
 | 13:28 | UA3621 | Donald Eastlake | d3e3e3@gmail.com | YUL |  | Hilton Garden Inn | | 19:45 | BA95 | Pete Resnick  | resnick@episteme.net | YUL |   | Fairmont |       |
+| 16:10	| LX86 | Martin Horneffer | martin.horneffer@telekom.de | YUL | | Fairmont |
 | 19:48 | UA3602 | Lixia Zhang | lixia@cs.ucla.edu | YUL |   | Fairmont |       |	
 | 19:48 | UA3602 | Jim Fenton  | fenton@bluepopcorn.net | YUL | | Fairmont |       |
 |  19:45   | BA95       | Jim Reid     | ietf124@rfc1035.com			     | YUL     |          |      Fairmont       |       | 
