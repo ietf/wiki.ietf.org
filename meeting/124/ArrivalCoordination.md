@@ -39,6 +39,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | 14:00 | UA3418 | Mike Bishop | mbishop@evequefou.be | YUL | 2 | Renaissance | |
 | 16:10	| LX86 | Martin Horneffer | martin.horneffer@telekom.de | YUL | | Fairmont |
 | 16:20	| AF334 | Robert Kisteleki | robert@ripe.net | YUL | | Fairmont |
+| 16:35	| AC885 | Werner Staub | ws@wat.ch | YUL | | Fairmont |
 | 16:39	| AA3602 | Italo Cunha | cunha@dcc.ufmg.br | YUL | | Best Western Downtown |
 | 16:49 | UA 8032 | Mahesh Jethanandani | mjethanandani@gmail.com | YUL | | Fairmont |
 | 16:49 | UA 8032 | Lisa Dusseault | lisa@rtfm.com | YUL | | AirBnB | + kid |
