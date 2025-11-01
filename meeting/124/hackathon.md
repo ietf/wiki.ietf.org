@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T13:24:20.962Z
+date: 2025-11-01T13:43:16.144Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -545,7 +545,15 @@ https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
 - **Project Info**
 This project implements the emerging ML-DSA and ML-KEM composite cryptographic standards through a dedicated OpenSSL provider, enabling modular and standards-compliant support for post-quantum and hybrid digital signatures and key encapsulation mechanisms. By leveraging OpenSSL's provider architecture, the implementation ensures clean integration, extensibility, and interoperability with existing TLS and PKI infrastructures. The goal is to accelerate experimentation and adoption of composite cryptography in real-world applications, aligning with IETF efforts to future-proof secure communications against quantum threats.
 
-A good starting place is our Github repository: n/a
+- **Project GitHub Repo**:
+https://github.com/openca/composite-provider
+
+- **Composite Provider - Microsoft Teams Meeting:**
+   IETF - Composite Provider Collaboration 
+   Monday, October 27, 2025
+   9:00 AM - 5:00 PM (EST)
+   
+   https://teams.live.com/meet/9338287328934?p=lTjABidDG9QMY1W3bj
 
 At IETF 124, we plan to start this new project and use the lessons learned in previous implementations to provide a clean, easy to understand, composite cryprography implementation. 
 
