@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T14:32:23.762Z
+date: 2025-11-01T16:23:20.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -932,6 +932,7 @@ https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria
 - **Champions**
   Wataru Mishima (mishima@nw.kanagawa-it.ac.jp)
   Taisei Tanabe (tanabe@nii.ac.jp)
+  Yuta Fukagawa (y.fukagawa@ntt.com)
 - **Project Info**
   Implement each component of Chapter 4 "Overview of Architecture" in "draft-watal-spring-srv6-sfc-sr-aware-functions" to achieve comprehensive management of SRv6 SFC.
 - **Specifications**
