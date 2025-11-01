@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-11-01T05:31:59.656Z
+date: 2025-11-01T05:32:11.629Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
