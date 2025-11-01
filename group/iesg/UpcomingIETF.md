@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-10-31T20:06:06.675Z
+date: 2025-11-01T19:51:09.777Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -64,17 +64,16 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > 
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
 > Note2: Topics are prioritized if linked to IETF 124 events
-> 1. [Appeal Processing](https://docs.google.com/document/d/1-2FJjcNTRUyA9LYgHNrjJARABVwx0rQTmejd_eZbHec/edit?tab=t.0) (Roman)
-> 2. [Processing community feedback on the new Note Well](https://docs.google.com/document/d/1_AuhZIh1GTi3aAhFlBEmwH90R5QvgMiJT9O56wd9OFc/edit?tab=t.0) (Roman)
-> 3. [Processing community feedback on Derivative IPR](https://docs.google.com/document/d/1BgTZpDH7W0WxAoGE4cbWJTpDo5j_emBCbUXFdwYfz_0/edit?tab=t.0) (Roman)
+> 1. [Processing community feedback on the new Note Well](https://docs.google.com/document/d/1_AuhZIh1GTi3aAhFlBEmwH90R5QvgMiJT9O56wd9OFc/edit?tab=t.0) (Roman)
+> 2. Report from IANA (Sabrina)
+> 3. RPC Update (Jean)
 > 4. Socializing use of Datatracker for accurate updates to WG state of documents in the WG chairs forum (Ketan)
-> 5. Report from IANA (Sabrina)
-> 6. RPC Update (Jean)
-> 7. Exec session: [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
+> 5. Exec session: [IESG appointment to the IETF Trust](https://iesg.privatewikis.ietf.org/en/trustappointment) (Cindy)
+> 6. Exec session: An update on IDR rechartering (Ketan)
+> 7. [Processing community feedback on Derivative IPR](https://docs.google.com/document/d/1BgTZpDH7W0WxAoGE4cbWJTpDo5j_emBCbUXFdwYfz_0/edit?tab=t.0) and RFC5378 evolution (Roman)
 > 8. What will be the IETF AI-pref policy? (i.e., will the IETF allow for LLM training?) (Éric)
-> 9. Exec session: An update on IDR rechartering (Ketan)
-> 10. Can a header field have a misleading name? cfr [my DISCUSS](https://datatracker.ietf.org/doc/draft-ietf-bess-mvpn-evpn-sr-p2mp/ballot/) (Éric, time allowing & no need for Monday meeting for this)
-> 11. Decide if a Monday meeting is needed (and agenda if needed)
+> 9. Can a header field have a misleading name? cfr [my DISCUSS](https://datatracker.ietf.org/doc/draft-ietf-bess-mvpn-evpn-sr-p2mp/ballot/) (Éric, time allowing & no need for Monday meeting for this)
+> 10. Decide if a Monday meeting is needed (and agenda if needed)
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Duluth)
 
