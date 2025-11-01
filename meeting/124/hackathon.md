@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T04:20:55.870Z
+date: 2025-11-01T09:01:47.222Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -384,7 +384,7 @@ We propose **Secure Hybrid Network Monitoring** that analyzes requirements for e
 - **Specifications**
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm/
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm/
-  - Meeting Link: https://app.huawei.com/wmeeting/join/94325449/ZqobeGUK1ftn2I7jMUqMjFi1d3ZhD0hSh#success
+  - Meeting Link: https://app.huawei.com/wmeeting/join/94325449/ZqobeGUK1ftn2I7jMUqMjFi1d3ZhD0hSh
 
 ### Multi-modal Knowledge Graph for Network Management
 - **Champions**
