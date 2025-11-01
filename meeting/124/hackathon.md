@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T14:11:28.783Z
+date: 2025-11-01T14:20:19.443Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -1030,6 +1030,14 @@ This project will work on experimental implementations of the two drafts and eva
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  
+### QUANTUM
+- **Champions**
+Rod Van Meter rdv@sfc.wide.ad.jp
+Monet "bob" Tokuyama Friedrich bob@sfc.wide.ad.jp
+- **Project Info**
+Working on network specifications for a network that distributes quantum entanglement.
+
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
