@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T09:01:47.222Z
+date: 2025-11-01T10:57:46.645Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -984,7 +984,18 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 
   - Test support for dialogs with separate recording file for each party
 
-----
+### SDF: Implementation of Instance-Related Drafts
+
+- **Champions**
+Jan Romann, jan.romann@uni-bremen.de
+- **Project Info**
+Over the course of the last interim and design team meetings, two drafts within the ASDF working group that deal with *instance-related* information about IoT devices (in addition to SDF models which only contain *class-level* information) have come closer to convergence.
+
+This project will work on experimental implementations of the two drafts and evaluate the latest approaches discussed in the Working Group, investigating how well-suited the new design already is and which limitations may still exist. In this context, we will work on experimental tooling and an ESP32-based prototype that will be described via the new instance-related message formats that emerged in the two drafts.
+
+- **Related Internet-Drafts**
+  - [draft-bormann-asdf-instance-information](https://datatracker.ietf.org/doc/draft-bormann-asdf-instance-information/)
+  - [draft-ietf-asdf-sdf-nonaffordance](https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf-nonaffordance/)
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
