@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T21:17:22.933Z
+date: 2025-11-01T21:51:32.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -1039,9 +1039,6 @@ Monet "bob" Tokuyama Friedrich bob@sfc.wide.ad.jp
 - **Project Info**
 Working on network specifications for a network that distributes quantum entanglement.
 
----
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-
 
 ### IPv6 Web Resource checker
 - **Champions**
@@ -1051,6 +1048,15 @@ The IPv6 Web Resource Chceker (webres6) is a small tool/api to checks IPv6-only 
 We plan to "release" this tool at the end of the IETF Hackahon: https://github.com/sap/webres6
 A demo is available at https://webres6.dev.sap/
 
+### Authenticated Transfer (AT) Sync Tooling
+
+- **Champions**
+Bryan Newbold bnewbold@robocracy.org
+- **Project Info**
+Authenticated Transfer (AT) is a framework for distributing content-addressed social web data (there is a BoF on Wednesday morning). A number of developers from the AT ecosystem will be in Montreal on Sunday (not Saturday), hacking on various projects. One project will be a new open source "sync channel" service, which helps services with bootstraping existing data of a given type from the network, and then keeping up to date with live updates, in particular helping with the "cutover" between bulk indexing to live updates.
+
+---
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
