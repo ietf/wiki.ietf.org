@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T13:43:16.144Z
+date: 2025-11-01T13:55:21.192Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -983,15 +983,20 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
 
 - **Hackathon Work Items**
 
-  - Implement **group** vCon and generate example for the vCon Container I-D
+  - Implement **SIP Session ID** Object
 
-  	- Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
-
-    - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
-
-    - Implement **transfer** type dialog object 
+  - Implement **transfer** type dialog object 
 
   - Test support for dialogs with separate recording file for each party
+  
+  - Implement recording dialog update (hash, duration, URL, mediatype, file)
+  
+  - Implement **group** vCon and generate example for the vCon Container I-D
+
+  - Implement **group** [method](https://github.com/py-vcon/py-vcon/blob/main/vcon/README.md)
+
+  - Implement **group** [processor](https://github.com/py-vcon/py-vcon/tree/main/py_vcon_server#vcon-processor-plugins)
+
 
 ### SDF: Implementation of Instance-Related Drafts
 
