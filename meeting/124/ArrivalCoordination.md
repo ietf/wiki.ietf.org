@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-11-01T07:59:22.298Z
+date: 2025-11-01T13:14:28.216Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -35,7 +35,6 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | 13:00 | AC845 | Marco Liebsch  | marco.liebsch@neclab.eu | YUL |   |          |       |
 | 13:15 | AF342 | Julien Maisonneuve  | julien.maisonneuve@nokia.com | YUL |   | Fairmont |       |
-| 13:28 | UA3621 | Donald Eastlake | d3e3e3@gmail.com | YUL |  | Hilton Garden Inn | 
 | 14:00 | UA3418 | Mike Bishop | mbishop@evequefou.be | YUL | 2 | Renaissance | |
 | 16:10	| LX86 | Martin Horneffer | martin.horneffer@telekom.de | YUL | | Fairmont |
 | 16:20	| AF334 | Robert Kisteleki | robert@ripe.net | YUL | | Fairmont |
@@ -47,6 +46,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | 19:48 | UA3602 | Jim Fenton  | fenton@bluepopcorn.net | YUL | | Fairmont |       |
 |  19:45   | BA95       | Jim Reid     | ietf124@rfc1035.com			     | YUL     |          |      Fairmont       |       | 
 | 19:45 | BA95 | Pete Resnick  | resnick@episteme.net | YUL |   | Fairmont |       |
+| 21:17 | UA3542 | Donald Eastlake | d3e3e3@gmail.com | YUL |  | Hilton Garden Inn | 
 | 23:14 | DL5136 | Vanshaj Singhania | vanshaj@stytch.com | YUL | | Fairmont-ish (Marriott Chateau) |       |
 
 
