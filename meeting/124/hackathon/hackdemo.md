@@ -2,7 +2,7 @@
 title: IETF 124 Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-10-20T14:49:33.837Z
+date: 2025-11-01T18:09:28.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-20T14:49:33.837Z
@@ -19,7 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
+| Secure Software Provisioning Using TEEP and VERAISON | Shinichi Miyazawa  | s.miyazawa@gmail.com  |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
