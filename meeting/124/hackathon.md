@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T14:20:19.443Z
+date: 2025-11-01T14:32:23.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -1040,6 +1040,17 @@ Working on network specifications for a network that distributes quantum entangl
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+
+### IPv6 Web Resource checker
+- **Champions**
+Philipp S. Tiesel <philipp.tiesel@sap.com>
+- **Project Info**
+The IPv6 Web Resource Chceker (webres6) is a small tool/api to checks IPv6-only readiness of a Web page or app. It loads a given URL using Selenium and displays the IP addresses and protocols of all hosts it fetches resources from and comes with a CLI and Web client.
+We plan to "release" this tool at the end of the IETF Hackahon: https://github.com/sap/webres6
+A demo is available at https://webres6.dev.sap/
+
+
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 ```markdown
