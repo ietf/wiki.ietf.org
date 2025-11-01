@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T16:23:20.723Z
+date: 2025-11-01T21:17:22.933Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -196,7 +196,7 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Thread Overview**
 
-  [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a self-configuring mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a [brief presentation about Thread](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s) at the [IETF 119 IAB Open meeting in Brisbane](https://datatracker.ietf.org/meeting/119/proceedings#:~:text=iabopen). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/). This Hackathon event is open to all — Thread Group membership is *not* required, though of course Thread Group members are also welcome to participate.
+  [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a self-configuring mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a [brief presentation about Thread](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s) at the [IETF 119 IAB Open meeting in Brisbane](https://datatracker.ietf.org/meeting/119/proceedings#iab). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/). This Hackathon event is open to all — Thread Group membership is *not* required, though of course Thread Group members are also welcome to participate.
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/124/hackathon/thread-projects).
