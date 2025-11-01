@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-10-31T22:54:25.457Z
+date: 2025-11-01T01:54:06.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -924,7 +924,12 @@ https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria
 - **Specifications**
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/03/
 https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/02/
-  
+
+### DNS - DELEG implementation
+- **Champions**
+Petr Špaček, pspacek@isc.org
+- **Project Info**
+Move forward DELEG implementation in authoritative DNS servers and resolvers of your choice. Find holes in draft https://datatracker.ietf.org/doc/draft-ietf-deleg/ and provide WG with implementation feedback.
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
