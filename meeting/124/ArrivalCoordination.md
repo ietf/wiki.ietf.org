@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-11-01T01:00:00.000Z
+date: 2025-11-01T05:24:25.288Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -52,6 +52,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
+| 15:10 | LX86 | Michael Kreipl | michael.kreipl@telekom.de | YUL |          | Delta Hotel | can also go to another nearish hotel |
 | 16:49 | AC760 | Tony Li | tony.li@tony.li | YUL |          | Fairmont | Preferences: 747, Lyft, Uber, Taxi |
 | 8:37am | DL4963 | Sarah McKenna | mckenna.sarah@gmail.com, sarah.mckenna@sequentum.com | YUL |          | Fairmont | Preferences: Uber, Taxi |
 |      |        |      |       |         |          |             |       |
