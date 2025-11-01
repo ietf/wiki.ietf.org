@@ -2,7 +2,7 @@
 title: IETF 124 Arrival Coordination
 description: 
 published: true
-date: 2025-11-01T05:32:11.629Z
+date: 2025-11-01T07:59:22.298Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:02:59.998Z
@@ -38,6 +38,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | 13:28 | UA3621 | Donald Eastlake | d3e3e3@gmail.com | YUL |  | Hilton Garden Inn | 
 | 14:00 | UA3418 | Mike Bishop | mbishop@evequefou.be | YUL | 2 | Renaissance | |
 | 16:10	| LX86 | Martin Horneffer | martin.horneffer@telekom.de | YUL | | Fairmont |
+| 16:20	| AF334 | Robert Kisteleki | robert@ripe.net | YUL | | Fairmont |
 | 16:39	| AA3602 | Italo Cunha | cunha@dcc.ufmg.br | YUL | | Best Western Downtown |
 | 16:49 | UA 8032 | Mahesh Jethanandani | mjethanandani@gmail.com | YUL | | Fairmont |
 | 16:49 | UA 8032 | Lisa Dusseault | lisa@rtfm.com | YUL | | AirBnB | + kid |
