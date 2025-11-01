@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-10-30T20:36:51.213Z
+date: 2025-11-01T05:29:33.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -29,16 +29,15 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-17:50 | AC 761 |Bob Hinden |bob.hinden@gmail.com  | YUL |  | Fairmont  | Flight time  |
-
-|     |        |           |                      |     |  |           |              |
+|17:50 | AC 761 |Bob Hinden |bob.hinden@gmail.com  | YUL |  | Fairmont  | Flight time  |
+|      |        |           |                      |     |  |           |              |
 
 
 ## Saturday, November 08, 2025
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|       |        |      |       |         |          |             |       |
+| 16:45 | LX87 | Michael Kreipl | michael.kreipl@telekom.de | YUL | | Delta Hotel | flight time; happy to leave during the morning |
 |       |        |      |       |         |          |             |       |
 
 
