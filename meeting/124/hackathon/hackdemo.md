@@ -22,7 +22,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Secure Software Provisioning Using TEEP and VERAISON | Shinichi Miyazawa  | s.miyazawa@gmail.com  |   |
 | Interface to In-Network Computing Functions (I2ICF) | Jaehoon Paul Jeong | jaehoon.paul@gmail.com | https://github.com/jaehoonpauljeong/I2ICF/tree/main/IETF-124/SDV_Robocar |
 | Interface to Network Security Functions (I2NSF) for 5G | Jaehoon Paul Jeong | jaehoon.paul@gmail.com | https://github.com/jaehoonpauljeong/5G-I2NSF/tree/main/IETF-124  |
-|   |   |   |   |
+| ILNP | Saleem Bhatti  | saleem@cs.st-andrews.ac.uk | https://ilnp.cs.st-andrews.ac.uk/  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
