@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-02T21:15:50.008Z
+date: 2025-11-02T21:34:51.334Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -63,6 +63,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
+| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | WGLC needs closing | send to IESG |  TBD | TBD | TBD | TBD |  TBD | 
 none
 {.dense}
 
