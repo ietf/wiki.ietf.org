@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-11-02T13:25:43.454Z
+date: 2025-11-02T13:39:02.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -84,7 +84,9 @@ Agenda:
 > - Age workshop report status update (Mark) (20 min)
 > - IP geo workshop update (Jason) (10 min)
 
-### 09:30-10:00 IP Geo WorkshOP PC Meeting (Room: Crescent) 
+### 09:30-10:00 IP Geo WorkshoP PC Meeting (Room: Crescent) 
+
+### 11:00-11:30: New Work Help Desk (Room: Square Dorchester)
 
 ## Wednesday, 2025-11-05
 
@@ -107,7 +109,7 @@ Agenda:
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=35009
 > 
-
+### 16:30-17:00: New Work Help Desk (Room: Square Dorchester)
 
 ### Non-required events:
 
