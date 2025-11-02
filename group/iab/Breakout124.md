@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-10-27T17:21:45.751Z
+date: 2025-11-02T08:26:41.428Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -31,6 +31,7 @@ For food & beverage service requests, please include:
 * 0800-0920: IAB Business Meeting
 * 0930-1000: IP Geo Workshop PC Meeting
 * 1300-1430: SECDir Lunch
+* 14:30-15:00: WBA
 
 
 ## Wednesday 
