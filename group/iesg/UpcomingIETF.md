@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-02T15:54:35.464Z
+date: 2025-11-02T18:37:16.185Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -164,6 +164,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Sunday, November 2, 2025
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
+* 13:45 - 14:30 -- RTG AD discussions (Gunter/Ketan/Jim)
 * 14:30 - 15:30 -- RTG AD office hours (Gunter/Ketan/Jim)
 * 15:30 - 16:00 -- Sec ADs + CRFG Chairs (Cooley/Wouters)
 * 16:30 - 17:00 -- Meeting (Roman)
