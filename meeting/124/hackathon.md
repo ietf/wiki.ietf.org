@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-02T17:00:49.546Z
+date: 2025-11-02T18:40:13.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -772,7 +772,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 
 
 
-### PacketScope: eBPF-based Protocol Stack Analysis and Defense
+### PacketScope: LLM-Powered eBPF for Protocol Stack Defense
 
 * **Champions**
     * Zhaoxi Li (li-zx24@mails.tsinghua.edu.cn)
