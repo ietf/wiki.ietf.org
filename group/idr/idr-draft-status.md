@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-02T21:34:51.334Z
+date: 2025-11-02T21:44:27.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -72,7 +72,6 @@ none
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
-| draft-ietf-idr-flowspec-redirect-ip-04 | Susan Hares | awaiting -05 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
 | draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
 {.dense}
 
@@ -111,14 +110,13 @@ none
 For information on adoption process: [IDR adoption process](/group/idr/idr-adoption-process)
 | draft   | Shepherd   |  status   |  Next step    |  WG adoption date  |  Adoption call            |  Draft uploaded   |
 |---|---|---|---|---|---|---|
-(no recently adopted drafts)  
+[draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/) | Keyur Patel | adopted, uploaded | implementation | 9/28/2025 | 9/10-9/25/2025 |  10/20/2025 | 
 {.dense}
 
 
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
-|-----------------------------------------|---------------|---------------------|-------------|-------------------|-----------------|---------|
-| draft-mishra-idr-v4-island-v6-core-4pe-09 |  Sue Hares  | WG adoption | TBD |  3/15-4/4/2025 | TBD | github discussion | 
+|-----------------------------------------|---------------|---------------------|-------------|-- 
 | draft-white-linklocal-capability-06 | Sue Hares | WG Adoption | TBD | 3/15-4/4/2025 | TBD |  discuss draft-kato-bgp-ipv6-link-local  | 
 (none) 
 {.dense}
