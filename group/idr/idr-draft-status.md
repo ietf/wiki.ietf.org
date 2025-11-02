@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-02T19:44:12.622Z
+date: 2025-11-02T20:00:58.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -19,7 +19,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft-ietf-idr-sr-policy-safi-17  | Sue Hares  | [RFC9830](https://datatracker.ietf.org/doc/rfc9830/) | 9/12/2025 |  3/18/2024 | 7/20/2024  | 2/7/2025 | TBD days | TBD days  |
 | draft-ietf-idr-bgp-sr-segment-types-ext-08 | Sue Hares |  [RFC9831](https://datatracker.ietf.org/doc/rfc9831/)  |  9/12/2025 |  3/18/2024 | 7/30/2024 |   2/20/2025  | TBD day | TBD days | 
 | draft-ietf-idr-bgp-ls-sr-policy-17 | Sue Hares | [RFC9857](https://datatracker.ietf.org/doc/rfc9857/) | 10/29/2025 | 11/22/2024 | 12/13/2024 |  3/6/2025 |  TBD days | TBD days
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | RFC9774(https://datatracker.ietf.org/doc/rfc9774/) | 5/21/2025 | 8/15/2024 | 1/16/2025 | 3/7/2025 | TBD days | TBD days |
+| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | [RFC9774](https://datatracker.ietf.org/doc/rfc9774/) | 5/21/2025 | 8/15/2024 | 1/16/2025 | 3/7/2025 | TBD days | TBD days |
 | none |  
 {.dense}
 
@@ -27,14 +27,13 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  | IESG Pub Req |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---|---|---|---|---|---|---|---|---|--|
 |  draft-ietf-idr-bgp-car-16 |  Sue Hares  | RFC editor | RFC  | 3/1/2024 | 4/26/2024 | 3/10/2025 | 6 days | 380 days | TBD | 
- 
 {.dense}
 
 
 ## IESG Approved
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---| 
-| draft-ietf-idr-bgpls-sr-vtn-mt-07 | Sue Hares  | RFC | Pub to IESG |  TBD | 2/17-3/3 (3/14) | 2 days | 4/101/2025 | 2 days  |  
+| draft-ietf-idr-bgpls-sr-vtn-mt-14 | Sue Hares  | RFC | Pub to IESG |  TBD | 2/17-3/3 (3/14) | 2 days | 4/101/2025 | 2 days  |  
 | none |  
 {.dense}
 
@@ -46,7 +45,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 {.dense}
 
  
-## Needs revision During AD Review
+## Needs revision during AD Review
 
 |  draft                                | Shepherd      |   status        |  Next step  |  WG LC approval Date  |  Time in State  |  ETA  |  Time since WG LC   |        |
 |---|---|---|---|---|---|---|---|---|
@@ -65,8 +64,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### In Queue of WG Shepherd
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
-| draft-ietf-idr-bgpls-sr-vtn-mt-07 | Sue Hares  | RTG-DIR + Shepherd | Pub to IESG |  TBD | 2/17-3/3 (3/14) | 2 days | 4/101/2025 | 2 days  |  
+none
 {.dense}
 
 
@@ -74,7 +72,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
-| draft-ietf-idr-flowspec-redirect-ip-03 | Susan Hares | awaiting -04 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
+| draft-ietf-idr-flowspec-redirect-ip-04 | Susan Hares | awaiting -05 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
 | draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
 {.dense}
 
@@ -91,22 +89,23 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
 | draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | TBD  | Awaiting Spring OK | WG LC | TBD | TBD | TBD | TBD |
-|  draft-ietf-idr-wide-bgp-communities-12 |  Sue Hares  | 2nd WG LC on Changes | TBD   |  Nov-5-2023 Apri-4-2025 | 3/14-4/4/2025 | TBD | 4/4 | (1st 259) 
-|  draft-ietf-idr-registered-wide-bgp-communities-03 | Sue Hares | 2nd WG LC | TBD | 4/4/2025 | 3/17-4/4/2025 | TBD | 4/4 | TBD | 
+
 {.dense}
 
 ## WG LC Pending
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
-|---|---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-vpn-prefix-orf-10 | Keyur Patel | 2  | Shepherd review | WG LC | TBD | TBD | TBD | TBD |  
-| draft-ietf-idr-bgp-ls-sr-policy-nrp-02 | Sue Hares | Waiting -02 | WG LC | TBD | TBD | TBD | TBD |
-| draft-ietf-idr-flowspec-redirect-ip-03 | Sue Hares| awaiting -04 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
-| draft-ietf-idr-flowspec-srv6-06 | Sue Hares | 2 | Waiting -07 + redirect-ip-04  | pre-WG LC |  TBD  | TBD | TBD |  
-|  draft-ietf-idr-wide-bgp-communities-11 |  Sue Hares  | awaiting -12 | Pre-WG LC Review  | TBD |  TBD | TBD | TBD | 
+|---|---|---|---|---|---|---|---|---|---| 
+| draft-ietf-idr-bgp-ls-sr-policy-nrp-04 | Sue Hares | Waiting -02 | WG LC | TBD | TBD | TBD | TBD |
+| draft-ietf-idr-flowspec-redirect-ip-04 | Sue Hares| awaiting -04 | WG LC | TBD | TBD | 259 days |  TBD | TBD |
+| draft-ietf-idr-nhc| Susan Hares | one (Juniper) | 2nd implementation |  8/29/2023 to 9/12/2023  2nd: 10/10-10/17)   | 35 days | TBD | 
+| draft-ietf-idr-bgp-ls-isis-flood-reflection-04 | Sue Hares | Awaiting -05 | Pre-WG LC review | TBD | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-rt-derived-community-04 | Jie Dong | awaiting -05  | Pre-WG LC Review  | TBD | TBD | TBD | TBD | TBD | 
+|  draft-ietf-idr-wide-bgp-communities-12 |  Sue Hares  | 2nd WG LC on Changes | TBD   |  Nov-5-2023 Apri-4-2025 | 3/14-4/4/2025 | TBD | 4/4 | (1st 259) 
+|  draft-ietf-idr-registered-wide-bgp-communities-03 | Sue Hares | 2nd WG LC | TBD | 4/4/2025 | 3/17-4/4/2025 | TBD | 4/4 | TBD | 
+| draft-ietf-idr-elc| Susan Hares | one (Juniper) | 2nd implementation |  8/29/2023 to 9/12/2023  2nd: 10/10-10/17)   | 35 days | TBD | 
+| draft-ietf-idr-flowspec-srv6-06 | Sue Hares | 2 | Waiting -07 + redirect-ip-04  | pre-WG LC |  TBD  | TBD | TBD |  
 | draft-ietf-idr-bgp-fsm-iana-00 | Sue Hares | awaiting-01 | Pre-WG LC review | TBD | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-bfd-14 | Sue Hares | awaiting-15 | Pre-WG LC review | TBD | TBD | TBD | TBD | TBD | 
-| draft-ietf-idr-bgp-ls-isis-flood-reflection-04 | Sue Hares | Awaiting -05 | Pre-WG LC review | TBD | TBD | TBD | TBD | TBD | 
 | draft-ietf-idr-bgp-bfd-strict-mode-13 | Sue Hares | TBD | waiting revision -14 | WG LC | TBD | TBD | TBD | TBD |  
 {.dense}
 
