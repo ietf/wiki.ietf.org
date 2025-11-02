@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2025-10-27T10:56:19.483Z
+date: 2025-11-02T23:50:30.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -14,13 +14,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 ### SR Policy Segment List Sub-TLVs  
 ### (draft-ietf-idr-sr-policy-safi registries)  
-| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Email query |    
 |---|---|---|---|---|---|---|
- [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (26) | ELP Sub-TLV  | Ready based on-03 text   
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | needs work based on (-13 text), Needs -14 (ketan changes)   |   
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD2 (18) |  Reverse Segment List sub-TLV  | allocation OK (-13 text_, Needs -14 (ketan chanages) |
-| [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)| SR Policy List Sub-TLVs  | BGP Tunnel Encapsulation | TBD (19) | Segment List ID Sub-TLV  | ok with -04 textm - will assign | 
-| [draft-ietf-idr-sr-policy-metric/](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | Needs changes (see Comments on list)  |
+ [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (26) | ELP Sub-TLV  | Ready based on-04 text | 11/2/2025 -11/17/2025 |  
+| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | needs -15.  2 byte length in reserve path segement is a problem | TBD | 
+| [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)| SR Policy List Sub-TLVs  | BGP Tunnel Encapsulation | TBD (19) | Segment List ID Sub-TLV  | -06, Will query list | 11/2/2025 to 11/17/2025 | 
+| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | needs -04 to correct registry name  | TBD | 
 {.dense}
 
 ### SR Policy Metric - Metric Types
