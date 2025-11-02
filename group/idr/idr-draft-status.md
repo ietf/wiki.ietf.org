@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-02T19:28:28.177Z
+date: 2025-11-02T19:35:57.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -25,7 +25,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  | IESG Pub Req |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---|---|---|---|---|---|---|---|---|--|
-| draft-ietf-idr-bgp-ls-sr-policy-17 | Sue Hares | at RFC Editor| RFC | 11/22/2024 | 12/13/2024 |  3/6/2025 |  8 days | 114 days  | TBD | 
 |  draft-ietf-idr-bgp-car-16 |  Sue Hares  | RFC editor | RFC  | 3/1/2024 | 4/26/2024 | 3/10/2025 | 6 days | 380 days | TBD | 
 | draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | IETF LC | IETF Review | 8/15/2024 | 1/16/2025 | 3/7/2025 | 9 days | 213 days | TBD |  
 {.dense}
