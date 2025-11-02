@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-11-02T08:26:41.428Z
+date: 2025-11-02T12:20:37.894Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -19,8 +19,11 @@ For food & beverage service requests, please include:
 * number of people
 * any dietary restrictions
 
+## Sunday
+* 9:00-9:45: M3AAWG liaison manager
 
-## Monday 
+
+## Monday
 * 1130-1200: Liaison Coordinator Office Hours
 * 1300-1430: ARTART Lunch
 
