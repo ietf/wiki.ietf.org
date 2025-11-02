@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-02T18:37:16.185Z
+date: 2025-11-02T21:53:16.066Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -99,13 +99,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 
 
-## Monday, November 3, 2025
 
-### 08:00-09:20 IESG Meeting (Duluth)
-
-> Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=1002
-> 
-> Agenda items here
  
 ## Tuesday, November 4, 2025
 
