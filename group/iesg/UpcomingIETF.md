@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-01T19:51:09.777Z
+date: 2025-11-02T12:27:28.228Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -82,7 +82,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: GEN, WIT, OPS, IAB, SEC, RTG, ART, IRTF, INT
->3. 2026 retreats in APAC update (Mahesh, Ketan, Dhruv, Suresh)
+>3. 2026 retreats in APAC update (Mahesh, Ketan, Dhruv, Suresh) [[Analysis]](https://docs.google.com/spreadsheets/d/1C3hDru6rXKdnHCrD2j_B8i61OW6WQA9Q6R_atLUiHSk/edit?usp=sharing) [[Poll]](https://app.sli.do/event/p1k6gV3vABt46oZe6SZAXN)
 
 
 
