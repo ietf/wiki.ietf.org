@@ -2,7 +2,7 @@
 title: IETF 124 Hackdemo Happy Hour
 description: 
 published: true
-date: 2025-11-02T19:10:49.740Z
+date: 2025-11-02T19:34:49.147Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-20T14:49:33.837Z
@@ -25,5 +25,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Testing Congestion Control and Queue Management Mechanisms | Vishal Kamath, Tanay Praveen Shekokar and Hemang J. Jamadagni | vishalkamath.221cs261@nitk.edu.in, tanayshekokar.221cs159@nitk.edu.in and hemangj.221cs129@nitk.edu.in| https://wiki.ietf.org/en/meeting/124/hackathon#testing-congestion-control-and-queue-management-mechanisms |
 | [vCon - Virtual CONversations](https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/)|   Dan Petrie | dan.vcon@sipez.com | **Repos:** [python_vcon - python vCon library and CLI](https://github.com/py-vcon/py-vcon/tree/main)  [py_vcon_server - vCon integration and AI enabled workflow server ](https://github.com/py-vcon/py-vcon/blob/main/py_vcon_server/README.md) |
 |  PQ in X509 | John Gray  |  john.gray@entrust.com | https://github.com/IETF-Hackathon/pqc-certificates  |
+|  Multi-CDN | Jashanjot Singh Sidhu, Parsa Toopchinezhad, Abdelhak Bentaleb  |  jashanjot.sidhu@mail.concordia.ca, ptoopchinezhad@gmail.com, abdelhak.bentaleb@concordia.ca| https://dl.acm.org/doi/pdf/10.1145/3712676.3714436  |
 |   |   |   |   |
 |   |   |   |   |
