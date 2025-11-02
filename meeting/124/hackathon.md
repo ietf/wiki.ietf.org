@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T21:51:32.010Z
+date: 2025-11-02T16:54:45.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
@@ -776,6 +776,7 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 
 * **Champions**
     * Zhaoxi Li (li-zx24@mails.tsinghua.edu.cn)
+    * Yuxiang Yang (yangyx22@mails.tsinghua.edu.cn)
 
 * **Project Info**
     PacketScope is a general-purpose protocol stack analysis and debugging tool based on eBPF. It integrates performance optimization, anomaly diagnosis, and security defense to provide fine-grained tracing and intelligent analysis of network packets at the protocol stack level. The project aims to solve common pain points such as difficult diagnosis of performance bottlenecks, unclear packet transmission paths, and hard-to-detect low-level protocol attacks (e.g., at layers below traditional WAF/IDS).
