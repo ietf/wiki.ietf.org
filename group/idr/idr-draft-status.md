@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-02T19:41:31.765Z
+date: 2025-11-02T19:44:12.622Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -90,7 +90,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## In WG LC 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sr-policy-nrp-02 | Sue Hares | TBD  | Awaiting IDR chairs review | WG LC | TBD | TBD | TBD | TBD |
+| draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | TBD  | Awaiting Spring OK | WG LC | TBD | TBD | TBD | TBD |
 |  draft-ietf-idr-wide-bgp-communities-12 |  Sue Hares  | 2nd WG LC on Changes | TBD   |  Nov-5-2023 Apri-4-2025 | 3/14-4/4/2025 | TBD | 4/4 | (1st 259) 
 |  draft-ietf-idr-registered-wide-bgp-communities-03 | Sue Hares | 2nd WG LC | TBD | 4/4/2025 | 3/17-4/4/2025 | TBD | 4/4 | TBD | 
 {.dense}
