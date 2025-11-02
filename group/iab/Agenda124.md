@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-31T18:29:47.214Z
+date: 2025-11-02T12:45:45.385Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -44,7 +44,7 @@ Agenda:
 1. EImpact program update / draft-various-eimpact-arch-considerations (Suresh+Mark+Jari) (10 min)
 1. Status update on ISE call for nominations (Interview committee) (10 min)
 1. ISOC BoT nominations call (10 min)
-1. Follow-up from ICANN board discussion (Mirja) (10 min)
+1. Follow-up from ICANN board discussion (Mirja/Dhruv) (10 min) ([slide](https://docs.google.com/presentation/d/134m8Bk4XwZmwGi9xlifwwmJfVy-g2PD1iwbcQDnCWUE/edit?usp=sharing))
 1. Approval of draft-iab-nemops-workshop-report (5 min)
 1. Approval of draft-iab-ai-control-report (5 min)
 1. IAB meeting time rotation ([details](https://github.com/intarchboard/responsibilities/issues/65)) (Dhruv) (20 min)
