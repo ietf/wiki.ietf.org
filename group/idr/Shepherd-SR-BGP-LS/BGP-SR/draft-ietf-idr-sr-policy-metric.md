@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-11-03T02:04:07.602Z
+date: 2025-11-03T02:05:54.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -24,7 +24,7 @@ dateCreated: 2025-02-24T21:07:32.555Z
 
 ## -03 Review
 **draft (-03):** [draft-ietf-idr-sr-policy-metric-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-policy-metric-03.txt)
-**Shepherd report on list:** TBD 
+**Shepherd report on IDR Email list:** TBD 
 
 ### Technical Issues
 #### Technical Issue 1 - Do you have the right registry
