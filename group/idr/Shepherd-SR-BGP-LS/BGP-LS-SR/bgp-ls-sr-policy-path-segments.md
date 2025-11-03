@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-ls-sr-policy-path-segment
 description: Shepherd draft-ietf-idr-bgp-ls-sr-policy-path-segment
 published: true
-date: 2025-02-22T18:04:21.400Z
+date: 2025-11-03T04:55:05.564Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:04:21.400Z
@@ -16,6 +16,15 @@ dateCreated: 2025-02-22T18:04:21.400Z
 **Type:** Proposed standard 
 **WG status**: WG draft 
 **implementations:** TBD
+**linked BGP-SR draft:** [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)
+
+## -10 Review 
+**status:** WG draft
+**Last revision:** 10/2/2024 
+**Augments:** [RFC9552], [RFC9857](https://datatracker.ietf.org/doc/rfc9857/)
+**status:** Awaiting changes necessary from the linked SR draft
+[draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)
+
 
 ## -08 Review
 **status:** WG draft
