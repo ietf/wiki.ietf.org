@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-11-03T01:40:32.842Z
+date: 2025-11-03T02:04:07.602Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -24,13 +24,14 @@ dateCreated: 2025-02-24T21:07:32.555Z
 
 ## -03 Review
 **draft (-03):** [draft-ietf-idr-sr-policy-metric-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-policy-metric-03.txt)
+**Shepherd report on list:** TBD 
 
 ### Technical Issues
 #### Technical Issue 1 - Do you have the right registry
 Ketan is concerned that you have the right registry at:
 https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#sr-policy-segment-list-sub-tlvs
 
-Please discuss with Ketan about the correct registry. The registry you have specified is at the same level as all segment types.  
+Please discuss with Ketan about the correct registry. The registry you have specified is at the same level as all segment types.  Should it be "SR Policy Segment List Sub-TLVs"
 
 #### Technical Issue 2 - please update to RFC9830 
 [I-D.ietf-idr-sr-policy-safi](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/13/) is now [RFC9830](https://datatracker.ietf.org/doc/rfc9830/).  Please update your draft. 
