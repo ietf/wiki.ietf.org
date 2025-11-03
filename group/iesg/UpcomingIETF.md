@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-02T21:53:16.066Z
+date: 2025-11-03T12:32:51.577Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -175,7 +175,8 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 10:00-11:00 -- OPS AD (IANA and YANG Semver) (Mahesh)
 * 11:00-11:30 -- OCM Chairs Meeting (Andy)
 * 11:30-12:30 -- ONIONS Charter Discussion with proponents (Mahesh)
-* 13:00 -14:30 ICANN Appointee meeting (Mirja)
+* 13:00-14:30 -- ICANN Appointee meeting (Mirja)
+* 14:30-15:10 -- EODIR (Dhruv)
 
 ## Wednesday, November 5, 2025
 
