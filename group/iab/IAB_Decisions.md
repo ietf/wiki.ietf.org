@@ -2,7 +2,7 @@
 title: IAB Decisions
 description: 
 published: true
-date: 2025-10-14T17:26:20.921Z
+date: 2025-11-03T14:16:00.004Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:59:02.303Z
@@ -163,3 +163,17 @@ Note that any alternative process still needs to follow the rules in Section
 3.5 of RFC 2850.
 
 ---
+
+# What is in scope for this decision-taking policy?
+
+1. Approving or updating an IAB stream RFC
+1. Approving the IESG recommendations from Nomcom 
+1. Selecting a person for a position the IAB appoints 
+1. The response to an appeal to the IAB 
+1. Starting a new IAB program
+1. Selecting the IAB chair 
+1. Approving an IAB workshop 
+1. Signing on to a letter as the IAB 
+1. An IAB statement 
+
+This list of items was agreed upon at the IAB meeting on 2025-11-02.
