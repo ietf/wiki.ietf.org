@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Review of bgp-ls-sr-policy-nrp
 published: true
-date: 2025-11-03T04:38:26.063Z
+date: 2025-11-03T04:41:41.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T17:17:11.528Z
@@ -23,7 +23,7 @@ implementation report: [v1](group/idr/implementations/draft-ietf-idr-bgp-ls-sr-p
 **Document type: **Proposed Standard 
 **WG Status:** WG Draft, pre-WG LC, awaiting linked draft to be through WG LC before WG LC.  
 linked draft: [draft-ietf-idr-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-Status of linked drasft: Awaiting Spring OK for NRP (IETF-124) and TEAS review of Spring OK. 
+Status of linked draft: Awaiting Spring OK for NRP (IETF-124) and TEAS review of Spring OK. 
 
 ## -01  review  
 
