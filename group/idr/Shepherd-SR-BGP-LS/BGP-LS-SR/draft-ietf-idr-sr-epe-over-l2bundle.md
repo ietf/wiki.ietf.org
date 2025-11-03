@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - IDR Shepherd Reviews 
 description: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle Review   
 published: true
-date: 2025-11-03T01:08:17.757Z
+date: 2025-11-03T03:55:04.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:43:35.602Z
@@ -18,15 +18,16 @@ Upon -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
 **draft:**  [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/) 
 **Note:** renamed draft: draft-ietf-idr-bgpls-sr-epe-over-l2bundle 
 **Type:** Proposed Standard 
-**status:** WG Draft (expires 3/2/2025),
+**status:** Need -01 revision for early allocatnoi 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
-**current version:** -01 
+**current version:** -00  
 **implementations:** 2 (New H3C Technologies and ZTE Corp) 
 **IANA Allocations:** none needed 
 **SR draft:** none 
-**Next step prior to WG-LC:**  Revise for -01,  After -01 then fill out implementation reports. 
-Upon -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
-
+**Next step prior to WG-LC:**  
+1. Revise for -01,  
+2. After -01 then fill out implementation report. 
+3. After -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
 
 
 ## -00 review for draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle
