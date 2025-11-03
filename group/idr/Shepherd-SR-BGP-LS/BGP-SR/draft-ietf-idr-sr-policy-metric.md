@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-11-03T01:33:01.936Z
+date: 2025-11-03T01:34:38.209Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -14,12 +14,13 @@ dateCreated: 2025-02-24T21:07:32.555Z
 ## Summary 
 **draft:**  [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)
 **Type:** Proposed Standard 
-**status:** WG Draft (expires 3/2/2025), 
+**status:** WG Draft  
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -03 
-**Early Allocation**: 20 [wiki Early Allocation](/group/idr/Early-Allocation-Status), needs early allocaiton 
+**Early Allocation**: 20 [wiki Early Allocation](/group/idr/Early-Allocation-Status), needs early allocation.  Call awaits -04 version with 
 **implementations:** TBD  
 **bgp-ls draft:** none 
+**Next step:** release -04 with issues fixed, and then do Early Allocation call (2 weeks) 
 
 ## -03 Review
 **draft (-03):** [draft-ietf-idr-sr-policy-metric-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-policy-metric-03.txt)
