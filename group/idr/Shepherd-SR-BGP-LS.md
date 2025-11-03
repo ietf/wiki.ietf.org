@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-11-03T05:21:41.118Z
+date: 2025-11-03T05:25:33.596Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -98,6 +98,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) [-17](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgpls-inter-as-topology-ext]) - need -18, draft expired 
 
+* [draft-ietf-idr-ls-trill/](https://datatracker.ietf.org/doc/draft-ietf-idr-ls-trill/) - (-05) needs update to version 
 
 ### BGP-LS drafts in adoption (alphabetical order) 
 (none)
