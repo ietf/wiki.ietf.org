@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-03T14:11:13.934Z
+date: 2025-11-03T14:35:21.549Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -60,11 +60,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## Post WG LC 
 
-### In Queue of WG Shepherd
+### In Queue of WG Shepherd - needs shepherd report 
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | WGLC needs closing | send to IESG |  TBD | TBD | TBD | TBD |  TBD | 
-none
+| none | 
 {.dense}
 
 
@@ -83,10 +82,12 @@ none
 {.dense}
 
 ## WG LC 
-## In WG LC 
+## In WG LC - waiting for Write-up 
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | TBD  | Awaiting Spring OK | WG LC | TBD | TBD | TBD | TBD |
+| draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | TBD  | Awaiting Spring OK | WG LC | TBD | TBD | TBD | TBD | 
+| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | WGLC needs closing | send to IESG |  TBD | TBD | TBD | TBD |  TBD | 
+
 {.dense}
 
 ## WG LC Pending
