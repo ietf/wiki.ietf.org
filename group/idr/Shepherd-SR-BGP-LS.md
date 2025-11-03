@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2025-11-03T03:57:51.045Z
+date: 2025-11-03T04:07:45.562Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -30,7 +30,7 @@ none
 
 - [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-p2mp-policy) - Expired in May 2022.  
 
-- [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-metric) - Expired July 3. 2025 
+- [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-metric) - Heeds -04 for early allocation 
 
 - [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - [(-00) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-nrp)  - In post WG LC WG interactions check (spring, teas, 6man)    
 
@@ -80,7 +80,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### BGP-LS WG drafts (alphabetical order) 
 
--  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) - Ned -05. Early allocation with -04 OK, but queried IDR if RTGDIR review wise. 
+-  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) - Need -05 for RFC update. Early allocation OK with -04, but queried IDR if RTGDIR review wise. 
 
 - [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - needs -01 
 
