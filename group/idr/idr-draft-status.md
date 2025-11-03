@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-03T02:02:09.554Z
+date: 2025-11-03T02:52:24.628Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -116,6 +116,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 
 ## In WG Adoption Process (WG discussion)
 | draft                                   | Shepherd      |  Status             |  Next step  |  Adoption cycle   |  Post-Adoption  |   ETA   |
+|---|---|---|---|---|---|---|---|---|--|
  | [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/)  | Jeff | In adoption call | TBD | 10/17-10/31/2025 | TBD | 11/3/2025 | 
 {.dense}
 
