@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2025-11-03T03:48:35.493Z
+date: 2025-11-03T03:49:43.730Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
@@ -22,6 +22,7 @@ dateCreated: 2024-11-14T20:16:59.450Z
 
 ## Shepherd Review for version -04 
 draft: [draft-ietf-idr-bgp-ls-bgp-only-fabric-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) 
+Email link: https://mailarchive.ietf.org/arch/msg/idr/k1dd2RQuYxIG-aXyXLkETlSU0As/
 
 This draft makes the updates suggested in my shepherd's report for -03. 
 After version -04 of this draft was published, draft-ietf-idr-bgp-ls-sr-policy has gone to RFC. 
@@ -29,6 +30,7 @@ In the next revision (-05), draft-ietf-idr-bgp-ls-sr-policy should be RFC9857.
 
 It is fine to do the early allocation call with -04, but 
 I queried the list to determine if Routing Directorate review would be wise. 
+
 
 
 ## Shepherd Review for version 03 
