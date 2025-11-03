@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-03T20:25:41.202Z
+date: 2025-11-03T23:01:42.632Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -183,6 +183,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Wednesday, November 5, 2025
 
 * 08:00 - 09:00 -- GREEN meeting (Mahesh, Rob)
+* 11:00 - 11:30 -- URI/CRI/IANA Discussion (Mike, Orie)
 * 11:30 - 12:30 -- Meeting (Roman)
 * 17:00 - 17:30 -- IESG Meditation/Relaxation before plenary (Éric V)
 * TIME - TIME -- Thing (Person responsible)
