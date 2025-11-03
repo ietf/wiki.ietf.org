@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-03T15:31:02.048Z
+date: 2025-11-03T18:39:11.358Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -104,9 +104,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  Sue Hares  |  TBD   |  Needs -13 | WG LC |  TBD  | TBD | TBD |  
 |   [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  | Sue Hares | na | Needs -04  |  WG LC  | TBD | TBD | TBD |  | 
 | [draft-ietf-idr-elc](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/) | Su3 Hares | one (Juniper) | Needs 2nd implementation | TBD  | TBD | TBD | TBD |  |   
-| draft-ietf-idr-bgp-fsm-iana-00 | Sue Hares | awaiting-01 | Pre-WG LC review | TBD | TBD | TBD | TBD |  
-| draft-ietf-idr-bgp-bfd-14 | Sue Hares | TBD | awaiting-15 | Pre-WG LC review | TBD | TBD | TBD | TBD |  | 
-| draft-ietf-idr-bgp-bfd-strict-mode-13 | Sue Hares | TBD | waiting revision -14 | WG LC | TBD | TBD | TBD |  |  
+| [draft-ietf-idr-bgp-fsm-iana-00](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares | awaiting-01 | Pre-WG LC review | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-bgp-bfd-15 | Sue Hares | TBD | Pre-WG LC review | WG LC | TBD | TBD | TBD | TBD |  | 
+| [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/) | Sue Hares | TBD | Pre-WG LC review | WG LC | TBD | TBD | TBD |  |  
 {.dense}
 
 ## Adopted
@@ -127,6 +127,30 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 ## Adoption process - upcoming Adoptions
 > To effeciently handle drafts along, we are considering drafts in existing IDR chartered technology (Segment Routing, BGP-LS, Flow Specification v2 (FSv2), IPv6, and new Tunnel Encapsulation drafts) different than other drafts. Existing IDR Chartered Technologies will receive reviews prior to WG Adoption.  An interim will be held per IETF cycle where WG drafts and individual drafts for these technologies can present revision or new draft.   
 {.is-info}
+
+### Core BGP Adoptions 
+
+ 
+ #### New concepts category for Adoption 
+| draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
+|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+| [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  | all-Chairs |   All-IDR chairs Pre-Adoption Review | Adoption call | TBD | TBD | TBD |
+| [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) | Jeff Haas | Pre-WG LC review | WG Adoption | TBD | TBD | TBD | TBD |  
+ {.dense}
+ 
+  #### IPv6 related Adoptions 
+| draft  | Shepherd | Status |  Next step  | Adoption planned |  ETA  | Comment 
+|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+none 
+{.dense}
+ 
+ ### New Tunnel Encapsulation Drafts 
+|  draft  | Shepherd   |  Status  |  Next step     |  Adoption cycle   |  Post-Adoption  |  ETA   |
+|------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
+|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
+{.dense}
+ 
+ 
 
 
 ### SR and BGP-LS Adoptions Requested 
@@ -165,26 +189,8 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 | draft-xiong-idr-detnet-flow-mapping | Sue Hares | FSv1 Filter + actions | FSv2 Filter + actions | TBD | TBD | TSN related actions | 
  {.dense}  
  
-### New Tunnel Encapsulation Drafts 
-|  draft  | Shepherd   |  Status  |  Next step     |  Adoption cycle   |  Post-Adoption  |  ETA   |
-|------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
-|  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
-{.dense}
- 
- ### IPv6 related Adoptions 
-| draft  | Shepherd | Status |  Next step  | Adoption planned |  ETA  | Comment 
-|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-| draft-kato-bgp-ipv6-link-local     | Sue Hares   | Chair Review | TBD | TBD | TBD |  | 
-| draft-kumar-idr-link-local-nexthop | Sue Hares   | Chair Review | TBD | TBD | TBD |  | 
-{.dense}
- 
- ### New concepts category for Adoption 
-| draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
-|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
-| draft-uttaro-idr-bgp-oad | Susan Hares | All-IDR chairs Pre-Adoption Review | Adoption call | TBD | TBD | TBD 
-| draft-ietf-idr-abraitis-idr-addpath-paths-limits | Susan Hares | Chair Review | Adoption call | TBD | TBD | TBD |
- {.dense}
- 
+
+
 ## WG Drafts needing FSv2 update 
 | draft | Shepherd |   status |  Next step |  Adoption  |  ETA   | Comment | 
 |---------------------------------|----------------|---------------|-------------------|--------|--------------|
