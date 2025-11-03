@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Review of bgp-ls-sr-policy-nrp
 published: true
-date: 2025-02-28T13:59:36.465Z
+date: 2025-11-03T04:38:26.063Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T17:17:11.528Z
@@ -12,9 +12,18 @@ dateCreated: 2025-02-17T17:17:11.528Z
 
 Draft:  [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)
 Current version: -01 
-Status: WG draft, adopted (8/12/2024 upload), WG LC requested 
+Status: WG draft, adopted (8/12/2024 upload), WG LC requested, 
+awaiting ok on WG LC for draft-ietf-idr-sr-policy-nrp prior to starting WG LC on this drasft. 
+
 WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp. 
 implementation report: [v1](group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
+
+## -02 Review 
+**draft: **[draft-ietf-idr-bgp-ls-sr-policy-nrp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sr-policy-nrp-02)
+**Document type: **Proposed Standard 
+**WG Status:** WG Draft, pre-WG LC, awaiting linked draft to be through WG LC before WG LC.  
+linked draft: [draft-ietf-idr-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
+Status of linked drasft: Awaiting Spring OK for NRP (IETF-124) and TEAS review of Spring OK. 
 
 ## -01  review  
 
