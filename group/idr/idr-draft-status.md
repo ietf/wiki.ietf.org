@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-03T15:26:19.038Z
+date: 2025-11-03T15:31:02.048Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -103,10 +103,9 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) | Sue Hares |  TBD |  Awaiting -05 | Pre-WG LC review | TBD | TBD | TBD |  |
 | [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  Sue Hares  |  TBD   |  Needs -13 | WG LC |  TBD  | TBD | TBD |  
 |   [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  | Sue Hares | na | Needs -04  |  WG LC  | TBD | TBD | TBD |  | 
-| draft-ietf-idr-bgp-ls-isis-flood-reflection-04 | Sue Hares |  TBD |  Awaiting -05 | Pre-WG LC review | TBD | TBD | TBD |  |
-| draft-ietf-idr-elc| Susan Hares | one (Juniper) | 2nd implementation | TBD  | TBD | TBD |   |   
-| draft-ietf-idr-bgp-fsm-iana-00 | Sue Hares | awaiting-01 | Pre-WG LC review | TBD | TBD | TBD | TBD |  | 
-| draft-ietf-idr-bgp-bfd-14 | Sue Hares | awaiting-15 | Pre-WG LC review | TBD | TBD | TBD | TBD |  | 
+| [draft-ietf-idr-elc](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/) | Su3 Hares | one (Juniper) | Needs 2nd implementation | TBD  | TBD | TBD | TBD |  |   
+| draft-ietf-idr-bgp-fsm-iana-00 | Sue Hares | awaiting-01 | Pre-WG LC review | TBD | TBD | TBD | TBD |  
+| draft-ietf-idr-bgp-bfd-14 | Sue Hares | TBD | awaiting-15 | Pre-WG LC review | TBD | TBD | TBD | TBD |  | 
 | draft-ietf-idr-bgp-bfd-strict-mode-13 | Sue Hares | TBD | waiting revision -14 | WG LC | TBD | TBD | TBD |  |  
 {.dense}
 
