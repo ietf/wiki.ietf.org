@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-07-13T21:57:00.257Z
+date: 2025-11-03T02:44:39.702Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -14,12 +14,22 @@ dateCreated: 2025-02-25T00:09:15.826Z
 ## Summary 
 **draft:**  [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
 **Type:** Proposed Standard 
-**status:** WG Draft (expires 3/2/2025), needs revision 
+**status:** WG Draft, needs revision 13 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
-**current version:** -11
+**current version:** -12
 **Early Allocation**: yes, needs -12 revision 
 **implementations:** 1 (Huawei in VRP)   
-**bgp-ls draft:** none
+**related bgp-ls draft:** none
+
+## Review =12 
+**Summary:** Technical issues from -10 are not resolved in -12. Also, the name of the 
+IANA registry is: SR Policy Segment List Sub-TLVs.  Please make this correction. 
+**email with review**: TBD 
+
+Next steps: 
+1. Publish -13 with corrections
+2. Get shepherd's review of -13
+3. If -13 is ok, then do 2 week Early Allocation call 
 
 ## Review -11
 **Summary:** All Technical issues and Editorial issues from Review of -10 need to be addressed
