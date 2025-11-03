@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-03T12:57:29.674Z
+date: 2025-11-03T14:52:58.079Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -181,6 +181,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 ## Wednesday, November 5, 2025
 
+* 11:30 - 12:30 -- Meeting (Roman)
 * 17:00 - 17:30 -- IESG Meditation/Relaxation before plenary (Éric V)
 * TIME - TIME -- Thing (Person responsible)
 
