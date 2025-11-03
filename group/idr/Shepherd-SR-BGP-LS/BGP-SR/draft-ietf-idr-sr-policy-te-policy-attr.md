@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-11-03T03:12:50.050Z
+date: 2025-11-03T03:21:33.527Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -19,7 +19,7 @@ dateCreated: 2025-02-25T02:26:19.820Z
 **current version:** 03
 **Early Allocation**: -03 required prior to Early Allocation request 
 **implementations:** H3C and ZTE (2 implementations) 
-**bgp-ls draft:** would need to augment deraft-ietf-idr-bgp-ls-sr-policy 
+**bgp-ls draft:** (TBD) needs to augment draft-ietf-idr-bgp-ls-sr-policy 
 
 ## Review -03 
 **draft**: [draft-ietf-idr-sr-te-policy-attr-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-te-policy-attr-03.txt)
