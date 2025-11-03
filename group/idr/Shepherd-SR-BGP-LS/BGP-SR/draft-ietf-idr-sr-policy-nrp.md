@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-02-28T13:11:50.151Z
+date: 2025-11-03T02:28:09.625Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -16,12 +16,31 @@ dateCreated: 2025-02-24T23:48:45.554Z
 **status:** WG Draft (expires 3/2/2025)
 **adopted:** 12/14/2023 (delayed to due checking with TEAS) 
 **adoption calls:** 3/01 to 3/14/2024 
-**current version:** -02 
+**current version:** -04 
 **Early Allocation**: TBD 
-**implementations:** TBD  
+**implementations:** 
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp/](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) 
 
-## -02 pending Shepherd for WG LC (ETA 2/26) 
+## -04 Shepherd's report - pending 
+draft: [daft-ietf-idr-sr-policy-nrp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-04)
+
+This shepherd's report will be completed after the spring WG meeting in IETF-124. 
+WG LC write-up awaits the specific results from spring interim and spring WG mail list.
+After Spring closes, the shepherd will recheck with TEAS WG on status. 
+
+## -03 Shepherd's report 
+draft: [daft-ietf-idr-sr-policy-nrp-03](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-03)
+
+Status: Sent for WG LC, approved but comments need to be resolved. 
+closing email: https://mailarchive.ietf.org/arch/msg/idr/DTSy7rzzrlNSXTmY4AN6bymG0Hw/
+
+Directorate reviews (RTGDIR, OPSDIR) only found NITs.  -04 fixed the NITS
+
+The question arises whether NRP has received enough cross-WG approval. 
+Spring held an interim to discuss NRP issues prior to IETF-124 on October 14, 2025 (see  https://datatracker.ietf.org/meeting/interim-2025-spring-03/session/spring).  
+This draft awaits the result of this interim. 
+
+## -02 pending Shepherd for WG LC   
 
 draft: [daft-ietf-idr-sr-policy-nrp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-02)
 **Document type: **Proposed Standard 
@@ -29,7 +48,8 @@ draft: [daft-ietf-idr-sr-policy-nrp-02](https://datatracker.ietf.org/doc/html/dr
 **review summary: Needs revision prior to WG LC 
 Review criteria for SR Sub-TLV:** [SR Sub-TLV Templates](/group/idr/TEA-templates/SubTLV)
 **Reviewer:** Susan Hares 
-**Email: ** TBD 
+**Email: https://mailarchive.ietf.org/arch/msg/idr/7ARIVhd9ia6I-0e6u13fGojqVz4/
+
 
 ### Technical issues
 
