@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-03T19:02:32.522Z
+date: 2025-11-03T19:05:22.268Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -178,7 +178,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 11:30-12:30 -- ONIONS Charter Discussion with proponents (Mahesh)
 * 13:00-14:30 -- ICANN Appointee meeting (Mirja)
 * 14:30-15:10 -- EODIR (Dhruv)
-* 16:00-16:30 -- TIPTOP-related meeting (Éric V)
+* 16:30-17:00 -- TIPTOP-related meeting (Éric V)
 
 ## Wednesday, November 5, 2025
 
