@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - IDR Shepherd Reviews 
 description: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle Review   
 published: true
-date: 2025-11-03T03:55:04.467Z
+date: 2025-11-03T04:08:28.025Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:43:35.602Z
@@ -111,7 +111,7 @@ Replace with:
 >          o  include the PeerAdj SID TLV [RFC9086] for each L2 Bundle
 >            Member.
 
-## -01 Review  (previoius draft form)  
+## -01 Review  (earlier draft form)  
  
  **draft (-00):**  [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/) 
  
