@@ -2,7 +2,7 @@
 title: HTTPBIS WG - HTTP
 description: Wiki for HTTPBIS wg
 published: true
-date: 2025-08-04T18:23:33.076Z
+date: 2025-11-04T08:41:58.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T20:12:37.708Z
