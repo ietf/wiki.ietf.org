@@ -2,7 +2,7 @@
 title: IAB Decisions
 description: 
 published: true
-date: 2025-11-03T14:16:00.004Z
+date: 2025-11-04T22:10:55.253Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:59:02.303Z
@@ -175,5 +175,6 @@ Note that any alternative process still needs to follow the rules in Section
 1. Approving an IAB workshop 
 1. Signing on to a letter as the IAB 
 1. An IAB statement 
+1. Establishing a liaison relationship
 
 This list of items was agreed upon at the IAB meeting on 2025-11-02.
