@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-03T23:01:42.632Z
+date: 2025-11-04T15:56:07.108Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -114,6 +114,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 > 
 > Agenda:
 > 1. Plenary Slide Review + Prep
+> 2. General discussion with IETF Counsel
 
 
 
@@ -142,7 +143,8 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 > 1. Welcome
 > 2. Post-meeting review (randomized)
     Random order: SEC, IAB, RTG, IRTF, OPS, INT, WIT, GEN, ART
-> 3. General discussion of productivity and how the meeting went (standing item)
+> 3. General discussion with IETF Counsel
+> 4. General discussion of productivity and how the meeting went (standing item)
 
 
 
