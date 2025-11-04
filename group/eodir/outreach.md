@@ -2,13 +2,19 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-10-30T06:25:45.200Z
+date: 2025-11-04T19:46:14.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
 ---
 
 # IETF Outreach
+## Resources
+
+* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2)
+* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
+* [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
+* [Outreach Update given at IETF 122](https://datatracker.ietf.org/meeting/122/materials/slides-122-eodir-sessa-ietf-outreach-activities-00.pdf)
 
 ## Types of Outreach
 
@@ -38,12 +44,7 @@ Some examples of outreach activities are listed in the table below
 |Open Source Community|Implementers|full participation|-|IETF Hackathon outreach by Charles|
 |Civil Society|NGO, Professional associations|supporter|-|-|
 
-## Resources
 
-* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2)
-* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
-* [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
-* [Outreach Update given at IETF 122](https://datatracker.ietf.org/meeting/122/materials/slides-122-eodir-sessa-ietf-outreach-activities-00.pdf)
 
 ## Outreach activities, done in the past
 
