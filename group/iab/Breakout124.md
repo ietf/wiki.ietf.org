@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-11-03T18:50:13.839Z
+date: 2025-11-04T16:17:10.735Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -49,4 +49,4 @@ For food & beverage service requests, please include:
 
 ## Friday 
 
-* Not available after 1430
+* Not available after 1200
