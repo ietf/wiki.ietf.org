@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-11-01T05:29:33.533Z
+date: 2025-11-05T20:36:43.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -37,7 +37,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-| 16:45 | LX87 | Michael Kreipl | michael.kreipl@telekom.de | YUL | | Delta Hotel | flight time; happy to leave during the morning |
+| 16:45 | LX87 | Michael Kreipl | michael.kreipl@telekom.de | YUL | | Delta Hotel | flight time |
 |       |        |      |       |         |          |             |       |
 
 
