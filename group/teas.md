@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2025-11-05T17:03:59.882Z
+date: 2025-11-05T17:11:36.779Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
