@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-11-05T20:36:43.637Z
+date: 2025-11-06T18:39:40.664Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -30,6 +30,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |17:50 | AC 761 |Bob Hinden |bob.hinden@gmail.com  | YUL |  | Fairmont  | Flight time  |
+|19:10 | KL 672 |Martine Lenders | martine.lenders@tu-dresden.de | YUL |  | Fairmont | I want to depart rigafterht the last session at 16:30, if possible |
 |      |        |           |                      |     |  |           |              |
 
 
