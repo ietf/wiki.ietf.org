@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-10-22T16:42:41.203Z
+date: 2025-11-06T15:56:11.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB INormal Meeting Agenda: 2025-11-19, 15:00-16:00 UTC)
+# IAB Informal Meeting Agenda: 2025-11-19, 23:00-00:00 UTC)
 
 ## There WILL NOT be a meeting on 2025-11-19
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mb2041bacea28c57db16deea4b1e6da99
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mbdc29e6f707b87a716f6e56fd0f33333
 
 
 ## Agenda
@@ -37,19 +37,38 @@ Context:
 
 
 
-## Upcoming Formal IAB Business Meetings
+## Upcoming IAB Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
 -- 2025-11-01 - 2025-11-07: IETF 124 Montreal --
 
-- 2025-12-17: IAB Business Meeting
+- 2025-11-19 23:00-00:00 UTC	Informal Meeting (Reserved)
+- 2025-11-26 07:00-08:00 UTC	Informal Meeting (Reserved)
+- 2025-12-03 16:00-17:00 UTC	Informal Meeting (Reserved)
+- 2025-12-10 23:00-00:00 UTC	Informal Meeting (Reserved)
+
+- 2025-12-17: Formal Business Meeting
     - ISE, IESG slate, ISOC BoT
-- 2026-01-14: IAB Business Meeting (Reserved)
-- 2026-02-18: IAB Business Meeting 
-    - ISOC BOT Vote
     
--- 2026-03-14 - 2026-03-20: IETF 125 --
+-- 2025-12-24 - 2026-01-07: Holiday Break --     
+
+- 2026-01-14 Jan 2026 14:00-16:00 UTC	Formal Board Meeting (Reserved) 
+    - IESG slate confirmation if needed
+
+- 2026-01-21 07:00-08:00 UTC	Informal Meeting (Reserved)
+- 2026-01-28 16:00-17:00 UTC	Informal Meeting (Reserved)
+- 2026-02-04 23:00-00:00 UTC	Informal Meeting (Reserved)
+- 2026-02-11 07:00-08:00 UTC	Informal Meeting (Reserved)
+
+- 2026-02-18 Feb 2026  14:00-16:00 UTC	Formal Board Meeting
+    - ISOC BoT vote
+
+- 2026-02-25 16:00-17:00 UTC	Informal Meeting (Reserved)
+- 2026-03-04 23:00-00:00 UTC	Informal Meeting (Reserved)
+    
+    
+-- 2026-03-14 - 2026-03-20: IETF 125 Shenzhen --
 
 ## Future Unscheduled Topics 
 
@@ -57,8 +76,6 @@ See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 ## Unscheduled Technical Discussions
 
 * Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
-* sustainability related technical discussion (Suresh) - after 120
-
 
 ## Planned IRTF RG Reviews 
 
