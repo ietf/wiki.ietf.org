@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2025-11-05T16:38:14.846Z
+date: 2025-11-07T13:45:10.737Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -189,7 +189,6 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 11:30 - 12:30 -- Meeting (Roman)
 * 1430-1530 -- JOSE (Deb)
 * 17:00 - 17:30 -- IESG Meditation/Relaxation before plenary (Éric V)
-* TIME - TIME -- Thing (Person responsible)
 
 
 ## Thursday, November 6, 2025
@@ -198,11 +197,9 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 09:30 - 10:30 -- OPS AD Office Hour (Med)
 * 10:30 - 11:15 -- Benchmarking and IP Performance consolidation (Med)
 
-
-
 ## Friday, November 7 2025
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
-* TIME - TIME -- Thing (Person responsible)
+* 0930 - 1015 -- Meeting (Roman)
 
 
