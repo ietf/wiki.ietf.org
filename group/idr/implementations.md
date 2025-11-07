@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-07-11T20:51:03.861Z
+date: 2025-11-07T22:53:16.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -45,6 +45,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Drafts past WG LC awaiting 2 implementations
  - [draft-ietf-idr-entropy-label](/group/idr/implementations/draft-ietf-idr-entropy-label)
+  - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
+  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
