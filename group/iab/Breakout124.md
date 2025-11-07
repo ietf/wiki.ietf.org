@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-11-06T16:07:02.579Z
+date: 2025-11-07T13:50:52.790Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -50,4 +50,5 @@ For food & beverage service requests, please include:
 
 ## Friday 
 
+* 0900-1030: Cullen
 * Not available after 1200
