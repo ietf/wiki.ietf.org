@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-10-30T16:24:03.705Z
+date: 2025-11-07T14:44:35.608Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -18,11 +18,23 @@ Volunteers: Suresh, Mirja, Dhruv, Alvaro, Matthew, Warren
 
 ## Tuesday 4th Nov 
 Beverage Break, **11:30-12:00**
-IAB Members: Dhruv, Alvaro, Warren
+IAB Members: Dhruv, Alvaro, Warren, 
+
+- Who stopped (passed?) by: Wendy Seltzer, Nawel Alipua (new commer), Balazs Varga
+- No specific new work discussion
 
 ## Thursday 6th Nov 
 Beverage Break, **16:30-17:00**
-IAB Members: Dhruv, Mirja, Warren
+IAB Members: Suresh, Mathew, Dhruv, Mirja, Warren
+
+- New work discussion with Dave Plonka related to 6man and NAT66
+- Who stopped (passed?) by: Adrian
+
+Things to consider for future
+- Need to place where there is better footfall (madrid was way better than montreal)
+- Two slots is good
+- Align with Beverage breaks
+- BETTER SIGNAGE PLEASE: "How can we help you to bring your new work into the IETF process?" 
 
 # IETF 123 Madrid
 
@@ -78,8 +90,5 @@ IAB members: Dhruv, Matthew, Suresh
 
 ---- 
 
-Things to consider for future
-- Two slots is good
-- Align with Beverage breaks
-- BETTER SIGNAGE PLEASE: "How can we help you to bring your new work into the IETF process?" 
+
 
