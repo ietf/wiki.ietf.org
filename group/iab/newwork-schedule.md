@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-11-07T14:44:35.608Z
+date: 2025-11-07T14:45:49.115Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -31,7 +31,7 @@ IAB Members: Suresh, Mathew, Dhruv, Mirja, Warren
 - Who stopped (passed?) by: Adrian
 
 Things to consider for future
-- Need to place where there is better footfall (madrid was way better than montreal)
+- Need a table where there is better footfall (madrid was way better than montreal)
 - Two slots is good
 - Align with Beverage breaks
 - BETTER SIGNAGE PLEASE: "How can we help you to bring your new work into the IETF process?" 
