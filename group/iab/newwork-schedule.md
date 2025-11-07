@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-11-07T14:45:49.115Z
+date: 2025-11-07T14:59:54.447Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -20,7 +20,7 @@ Volunteers: Suresh, Mirja, Dhruv, Alvaro, Matthew, Warren
 Beverage Break, **11:30-12:00**
 IAB Members: Dhruv, Alvaro, Warren, 
 
-- Who stopped (passed?) by: Wendy Seltzer, Nawel Alipua (new commer), Balazs Varga
+- Who stopped (passed?) by: Wendy Seltzer, Nawel Alipua (new participant), Balazs Varga
 - No specific new work discussion
 
 ## Thursday 6th Nov 
