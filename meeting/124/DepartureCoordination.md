@@ -2,7 +2,7 @@
 title: IETF 124 Departure Coordination
 description: 
 published: true
-date: 2025-11-07T17:36:47.002Z
+date: 2025-11-07T18:17:37.569Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T20:04:40.005Z
@@ -40,6 +40,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | 06:00 | NH7431 | Nobuo AOKI | n_aoki@ieee.org | YUL | | Fairmont or Best Western | flight time |
 | 09:15 | UA3590 | Jim Fenton | fenton@bluepopcorn.net | YUL | | Fairmont | flight time |
+| 10:40 | EK244 | Dhruv Dhody | dd@dhruvdhody.com | YUL | Fairmont | flight time| 
 | 16:45 | LX87 | Michael Kreipl | michael.kreipl@telekom.de | YUL | | Delta Hotel | flight time |
 | 17:55 | LH6795 | Marco Liebsch | marco.liebsch@neclab.eu | YUL | | Holoday Inn & Suites Montreal Centre-Ville | flight time |
 |       |        |      |       |         |          |             |       |
