@@ -119,10 +119,4 @@ The [boolean](http://www.w3.org/TR/xmlschema-2/#boolean) datatype has two lexica
 
 An [online schema validator](http://www.w3.org/2001/03/webdata/xsv) is available at the W3C.
 
-&nbsp;
-&nbsp;
-&nbsp;
 
----
-
-*The content of this page was last updated on 2021-04-23. It was migrated from the old Trac wiki on 2023-01-12.*
