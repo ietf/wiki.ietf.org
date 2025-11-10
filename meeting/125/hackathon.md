@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2025-09-22T19:36:14.882Z
+date: 2025-11-10T22:07:47.790Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -95,7 +95,7 @@ If you received the email but the link to create an account has expired, please 
    * Champions are the leads for individual projects in the Hackathon
    * Champions are individuals familiar with a given technology who volunteer to help get others get up and running with that technology
    * Before the Hackathon, champions should:
-      * Add information about your project to the list of [Projects included in Hackathon](#ProjectsIncludedinHackathon)
+      * Add information about your project to the list of [Projects included in Hackathon](#projects-included-in-hackathon)
       * Recruit participants from associated working groups, open source projects, etc. Announcing your projects via an email to (hackathon@ietf.org) can be helpful as well.
       * Specify when and how the project team will meet on the [Team Schedule](teamschedule) 
    * At the Hackathon, champions should: 
@@ -105,7 +105,7 @@ If you received the email but the link to create an account has expired, please 
    
 ### Choosing a Project
    * Champions post and lead projects 
-   * Details on each project and links to additional information for each project are in the list of [Projects included in Hackathon](#ProjectsIncludedinHackathon) 
+   * Details on each project and links to additional information for each project are in the list of [Projects included in Hackathon](#projects-included-in-hackathon) 
    * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamschedule).
    * Familiarity with technology area(s) in which you plan to participate will certainly help
    * It is perfectly fine, even encouraged, to work on multiple projects 
@@ -142,7 +142,7 @@ Requests for networking capabilities beyond wireless access to the IETF network 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
 {.links-list}
 
-## <a id="Webexsessionsforteams"></a>Webex sessions for teams
+## Webex sessions for teams
 Champions can request a Webex account they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts will remain active and available for the duration of the IETF meeting. Request your account [HERE](https://www.ietf.org/forms/wg-webex-account-request/). In the request form, you can use your project name where it asks for "Working Group Name" ("Hackathon Project Name").
 
 ## Ongoing Communication
@@ -160,7 +160,28 @@ The Hackathon kickoff and the project results presentations can be joined via Me
 
 All Hackathon participants are free to work on any code. The rules regarding that code are what each open source project and each participant's organization says they are. The code itself is not an IETF Contribution. However, discussions, presentations, demos, etc., during the Hackathon are IETF Contributions (similar to Contributions made in working group meetings). Thus, the usual IETF policies apply to these Contributions, including copyright, license, and IPR disclosure rules.
 
--------
+---
+
+## Projects Included in Hackathon
+<!-- Use #projects-included-in-hackathon in your links to go directly this section! -->
+
+*Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
+
+For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
+
+### First Project Here (replace me)
+- **Champions**
+name and email
+- **Project Info**
+project description
+
+### Second Project Here (replace me)
+- **Champions**
+name and email
+- **Project Info**
+project description
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
