@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-08-15T20:54:39.671Z
+date: 2025-11-11T16:50:08.956Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -17,6 +17,8 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### November 2025 (Montreal) [YouTube](https://www.youtube.com/watch?v=G6JdxAkfYKE) [intro slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-intro-mirjadave)
 
 ### July 2025 (Madrid) Session 2 [YouTube](https://youtu.be/zBkzQqpp2-0?t=53s) [intro slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-intro-mirjadave)
 - Breaking Through the Clouds: Performance Insights into Starlink‘s Latency and Packet Loss [YouTube](https://youtu.be/zBkzQqpp2-0?t=4m28s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-breaking-through-the-clouds-performance-insights-into-starlinks-latency-and-packet-loss), Robert Richter, July 2025
