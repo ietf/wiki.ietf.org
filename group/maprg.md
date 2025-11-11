@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-11-11T19:10:37.917Z
+date: 2025-11-11T19:14:13.734Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -18,7 +18,7 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
-### November 2025 (Montreal) [YouTube](https://www.youtube.com/watch?v=G6JdxAkfYKE) [intro slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-intro-mirjadave)
+### November 2025 (Montreal) [YouTube](https://youtu.be/G6JdxAkfYKE?t=9s) [intro slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-intro-mirjadave)
 - A Longitudinal Study of the Prevalence of WiFi Bottlenecks in Home Access Networks [YouTube](https://youtu.be/G6JdxAkfYKE?t=5m30s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-a-longitudinal-study-of-the-prevalence-of-wifi-bottlenecks-in-home-access-networks), Ranya Sharma, November 2025
 - VPN or Vpwn? How Afraid Should You Be of VPN Traffic Identification? [YouTube](https://youtu.be/G6JdxAkfYKE?t=19m36s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-vpn-or-vpwn-how-afraid-should-you-be-of-vpn-traffic-identification), Tanmay Rajore, November 2025
 - The Threat Landscape of IP Leasing in the RPKI Era [YouTube](https://youtu.be/G6JdxAkfYKE?t=35m40s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-the-threat-landscape-of-ip-leasing-in-the-rpki-era), Weitong Li, November 2025
