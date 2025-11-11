@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-11-11T19:09:08.759Z
+date: 2025-11-11T19:10:37.917Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -23,7 +23,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 - VPN or Vpwn? How Afraid Should You Be of VPN Traffic Identification? [YouTube](https://youtu.be/G6JdxAkfYKE?t=19m36s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-vpn-or-vpwn-how-afraid-should-you-be-of-vpn-traffic-identification), Tanmay Rajore, November 2025
 - The Threat Landscape of IP Leasing in the RPKI Era [YouTube](https://youtu.be/G6JdxAkfYKE?t=35m40s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-the-threat-landscape-of-ip-leasing-in-the-rpki-era), Weitong Li, November 2025
 - Lazy Eye Inspection: Capturing the State of Happy Eyeballs Implementations [YouTube](https://youtu.be/G6JdxAkfYKE?t=43m10s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-lazy-eye-inspection-capturing-the-state-of-happy-eyeballs-implementations), Johannes Zirngibl, November 2025
-- Observations and Measurements of HTTP/2 During Large-Scale Web Crawls [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h42s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-observations-and-measurements-of-http2-during-large-scale-web-crawls), Johannes Zirngibl, November 2025
+- Observations and Measurements of HTTP/2 During Large-Scale Web Crawls [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h42s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-observations-and-measurements-of-http2-during-large-scale-web-crawls), Thom Vaughan, November 2025
 - Characteristics of TCP connections at Internet scale [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h10m22s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-characteristics-of-tcp-connections-at-internet-scale), Suleman Ahmad, November 2025
 - Server Support for PQTLS [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h21m27s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-server-support-for-pqtls), Tommy Pauly, November 2025
 
