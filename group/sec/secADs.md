@@ -2,7 +2,7 @@
 title: Security Area Directors
 description: 
 published: true
-date: 2025-11-12T14:02:50.435Z
+date: 2025-11-12T14:09:52.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:49:24.532Z
@@ -32,7 +32,8 @@ Security area leadership (past and present):
  * Steve Kent - Served on the IAB, with an focus on security, before the IESG was formed.
  
 ## 2025 (IETF 124)
-!
+![secad.2025.small.jpg](/secad.2025.small.jpg)
+
 Left to Right:  Eric Rescorla, Sean Turner, Kathleen Moriarty, Stephen Farrell, Deb Cooley, Paul Wouters, Roman Danyliw, Russ Housley, Steve Crocker.
 
 ## 2017 (IETF 100)
