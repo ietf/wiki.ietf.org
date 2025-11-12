@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-04-23T11:01:04.461Z
+date: 2025-11-12T03:20:33.330Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -68,12 +68,6 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Some knowledge of the IGPs and VPN technologies
  * SUNSET RTG Advisior
  * Formerly active in IPFIX
-### Ross Callon (last updated : Dec 2014) 
- * Past co-chair MPLS
- * Co-author of MPLS architecture
- * Former Routing AD, former IAB
- * Former co-chair of L3VPN, IS-IS, IPv6, OPSEC
- * Paying some attention to BIER, LISP, IP fast re-route and LFA
 ### Daniele Ceccarelli (last updated : 2019 Jan) 
  * Co-chair CCAMP -
  * BoF Co-Chair: ACTN.  Co-author of framework, requirements and info model in TEAS
@@ -87,15 +81,7 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Follow CCAMP, IDR, I2RS, OSPF, ISIS, IPPM, L2VPN, L3VPN
  * Author/co-author RFCs and drafts in CCAMP, IDR, MPLS, BFD, OSPF, ISIS, PWE3, L2VPN etc.
  * Currently interested in SDN and network virtualization
-### Thomas Clausen (last updated : 2014-05-13) 	 	 
- * Co-chaired the ill-fated AUTOCONF wg;  	 	 
- * Follow carefully: 6lo, ROLL, MANET, OSPF, HOMENET;  	 	 
- * Follow, but perhaps a little less carefully: SPRING, KARP;  	 	 
- * Have written / co-authored a bunch of RFCs in OSPF, MANET, and ROLL;  	 	 
- * Have been contributing a bit to IEEE 802.11s many moons ago; more recently, co-wrote Annex D of ITU-T G.9903 amd1 (02/2014);  	 	 
- * Have coded up a couple of OSPF interface types, OLSR, OLSRv2, and RPL;  	 	 
- * Generally interested in unplanned, spontaneous, constrained, wireless networks, and how to develop protocols, architectures permitting such;  	 	 
- * Do not really understand enough about MPLS to be able to offer qualified reviews in that field yet.
+
 ### Bruno Decraene  (last updated : 2025-04-04) 
  * Mostly active in BGP (IDR, possibly GROW in OPS if relevant), LSR (IS-IS) and SPRING.
  * co-chair SPRING WG
@@ -123,25 +109,11 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Designated "NMOP Terminology Fairy"
  * Written a few RFCs
  * Served as ISE from February 2018 to February 2022
-### Dan Frost (last updated : 18 Jan 2016) 
- * Co-author/editor of some MPLS and MPLS-TP architecture and protocol RFCs
- * Background in both service provider and equipment vendor architecture/engineering
- * Interests include general routing, software/network alignment, strategic issues, and Internet freedom/security/privacy
-### Les Ginsberg (last updated : 2nd June 2014) 
- * IS-IS (including ISO 10589, CLNS and IP/IPv6 support, Layer 2 support)
- * Co-author of numerous IS-IS RFCs
- * Interested in IP fast re-route and loop prevention
- * Actively follow BFD, OSPF, and Homenet WGs
 ### Eric Gray (last updated : 21 May, 2014) 
  * Following NVO3, I2RS, SFC, PCE, ISIS, IDR, MPLS, L2VPN, L3VPN, CCAMP
  * Co-authored numerous RFCs in MPLS and other WGs, acknowledged contributor to many more
  * Software and System Engineer in several router projects, with various employers
  * Primarily interested in network virtualization at multiple layers, general routing and congestion management/avoidance
-### Hannes Gredler (last updated : 28 July 2014) 
- * Co-chair IS-IS
- * Coding expertise in BGP, IS-IS and MPLS infrastructure
- * Main Interest in IP/MPLS FRR and SPRING source routing
- * following OSPF, BFD, MPLS, IDR, RTGWG, SPRING
 ### Joel Halpern (last updated : 3 April 2015) 
  * Former Co-Chair KARP, SFC, and LISP WGs
  * Co-Chair Savnet and SPRING
@@ -173,8 +145,7 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Active in LSR(rtg), IPsec(sec), Yang(ops), follow other WGs.
  * [Co]-Authored various RFCs.
  * Longtime NetBSD Developer
-### Geoff Huston (last updated : date) 
- * To Be Completed
+
 ### Acee Lindem (last updated : May 1st, 2014) 
  * Co-Chair LSR WG and LSVR WG
  * Currently Distinguished Engineer at Arrcus, Inc.   
@@ -200,23 +171,13 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Active in NVO3, DETNET, IPPM, NTP, TICTOC.
  * Contributed to IEEE 1588, ONF.
  * Interested in the data plane aspects of routing, time synchronization, timestamping, OAM, performance measurement.
-### Thomas Morin (last updated : 2017-01-20) 
- * Co-chairing BESS WG (had been co-chairing L3VPN since 2012 until it became BESS)
- * Co-authored RFCs, essentially around multicast (in particular multicast in VPNs and multicast MPLS)
- * Currently follows working groups related to network virtualization (BESS, MPLS, NVO3, SFC, I2RS) and Yang efforts
- * Also an active Openstack contributor on networking topics
+
 ### Ben Niven-Jenkins (last updated : 03-04-2025) 
  * Used to chair L3VPN WG
  * Architected MPLS & PWE3 networks at a large operator
  * Involved in the early days of MPLS-TP
  * Played with some OSPF-TE & RSVP-TE code a long time ago as part of a research project
  * I spend most of my time outside of the routing/networking space these days.
-### Dimitri Papadimitriou (last updated : 18-01-2018) 
- * Follow/contribute: NMRG, ICCRG, ICNRG, DINRG, MAPRG, RRG (dormant)
- * Main interests: Routing/network algorithmic, Network optimization, Reliability & Resilience
- * Other interests: Machine learning & Distributed learning algorithms
- * Chaired IETF BoF: GELS (in YVR reason why this city always gives a bitter taste to me)
- * Chaired Proposed IRTF RG: LCCN (Learning-Capable Communication Networks)  
 ### Keyur Patel (last updated : date) 
  * To Be Completed
 ### Carlos Pignataro (last updated : 23 April 2014) 
