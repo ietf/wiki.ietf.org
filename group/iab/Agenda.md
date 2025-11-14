@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-14T16:41:45.747Z
+date: 2025-11-14T17:10:59.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -32,6 +32,7 @@ Context: Discussion of approach for ISE selection, candidates. https://github.co
 
 ## Regrets
 
+* Dirk
 
 
  
