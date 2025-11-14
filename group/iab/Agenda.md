@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-14T17:10:59.771Z
+date: 2025-11-14T23:19:20.272Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2025-11-19, 23:00-00:00 UTC)
 
-## There WILL NOT be a meeting on 2025-11-19
+## There WILL be a meeting on 2025-11-19
 
 ## Details
 
