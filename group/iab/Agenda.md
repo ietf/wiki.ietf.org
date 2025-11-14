@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-06T15:56:11.346Z
+date: 2025-11-14T16:41:45.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,9 +22,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1.
+### 1. Adopting draft-edm-protocol-greasing 
 
-Context: 
+Context: Discussion making a community review / adoption in IAB for the draft. See https://github.com/intarchboard/responsibilities/issues/1
+
+### 2. Goals for ISE
+
+Context: Discussion of approach for ISE selection, candidates. https://github.com/intarchboard/responsibilities/issues/64
 
 ## Regrets
 
@@ -35,6 +39,8 @@ Context:
 
 ## Topics for Future Informal Meetings
 
+- ETSI liaison discussion
+- WBA liaison discussion
 
 
 ## Upcoming IAB Meetings
