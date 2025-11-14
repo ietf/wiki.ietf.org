@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-11-12T03:20:55.175Z
+date: 2025-11-14T07:26:10.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -209,11 +209,6 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
 ### John Scudder (last updated : date) 
  * To Be Completed
 
-### Ravi Singh (last updated: 4 Jan 2016) 
-
-
-### David Sinicrope (last updated : date) 
- * To Be Completed
 
 ### Andy Smith (last updated: 26 Jan 2018) 
  * Actively following MPLS, PCE, SPRING, SRv6, 6MAN
@@ -227,9 +222,6 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Primarily active in Routing, INT, and ART area
  * Interested in network architecture and protocol design
  
-### Tomonori Takeda (last updated : 2015-05-13) 
- * Follow CCAMP, PCE
- * Interest in network architecture, SDN, operation
 ### Sasha Vainshtein (last updated : 22.04.14) 
  * Actively following PWE3, L2VPN, L3VPN, MPLS
  * Trying to follow I2RS, NVO3, SPRING (just started)
@@ -240,25 +232,13 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Co-chair pim
  * Written RFCs in multicast
  * Major focus: multicast routing
-### Martin Vigoureux (last updated : 2014-07-02) 
- * Implemented OSPF-TE extensions on vendor stack and portions of OSPF-TE, RSVP-TE, LMP in control plane emulator
- * Co-Chair of L3VPN, Delegate|Secretary of MPLS
- * been/is mostly active in CCAMP, PWE3, MPLS
- * actively follows: L2VPN, NVO3, SFC, SPRING; and to a lesser extent: PCE, OSPF, ISIS, I2RS
- * non-RTGAREA WGs of interest include: OPSAWG, HOMENET, NETCONF, NETMOD, NMRG
- * Interested in network architecture, control protocols, network operations, IoT, function virtualization, regulation
 
 ### Russ White (last updated : 19 April 2014) 
  * Follow IDR, SPRING, LSR, and RTGWG
  * Major Focus: Network Design and Architecture; protocol deployment, security, privacy
  * Interest in: open source, anything related to control plane and design
 
-### IJsbrand Wijnands (last updated: 4 Jan 2016) 
 
-### Patrice Brissette (last updated: 13 Jan 2017) 
- * Actively following PWE3, L2VPN, L3VPN, MPLS, EVPN and SRv6
- * Follow SDN, NVO3, SPRING, BESS
- * Written drafts in BESS
 ### Victoria Pritchard (last updated : 2017-01-30) 
  * Follow mainly MANET, DTN, NETCONF, NETMOD
  * Interests in ad hoc networking and network management
