@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2025-10-22T12:07:45.998Z
+date: 2025-11-18T12:11:15.182Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -15,9 +15,9 @@ dateCreated: 2024-06-14T04:07:24.017Z
 This Wiki contains additional information for the IETF [SRv6OPS](https://datatracker.ietf.org/wg/srv6ops/about/) working group. Refer [datatracker](https://datatracker.ietf.org/wg/srv6ops/documents/) for the latest state of any draft. Also checkout the [webpage](https://ietf-wg-srv6ops.github.io/).
 
 ## TODO
-- Track IPR check for draft-ietf-srv6ops-srv6-deployment, missing response from Robin!
+- Close adoption for draft-liu-srv6ops-problem-summary
 
-## Prep for IETF 124
+## Prep for IETF 125
 
 - Agenda planning and reaching out to operators
 
