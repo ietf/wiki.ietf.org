@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2025-10-10T12:26:21.926Z
+date: 2025-11-18T12:24:41.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -12,10 +12,12 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 ## Operator Presentations
 
-### IETF 124 - Montreal
+#IETF 125
+- Alibaba
+- China mobile
 
 - Recheck with Sonic/Rita [Dhruv]
-- Alibaba (Wanted to do in Montreal) [Weiqiang]
+
 
 
 
@@ -32,6 +34,10 @@ dateCreated: 2024-07-12T14:22:53.552Z
 * ?? - Jio
 
 ### Past 
+### IETF 124 - Montreal
+* Nicklous Morris, Verizon
+* Daniel Bernier, Bell Canada
+
 #### IETF 123 - Madrid
 * DT, Nils
 * IX.br, Fabio
@@ -111,12 +117,12 @@ dateCreated: 2024-07-12T14:22:53.552Z
 ### Yet to start
 -   
 ### Ongoing
-- IETF 124 agenda setting
-- Make sure IPR response from Robin for draft-mcbride-srv6ops-srv6-deployment 
 - IPR check for draft-liu-srv6ops-problem-summary-06
 - WG adoption for draft-liu-srv6ops-problem-summary-06
 
 ### Completed 
+- Make sure IPR response from Robin for draft-mcbride-srv6ops-srv6-deployment 
+- IETF 124 agenda setting
 - IETF 121 agenda setting
 - IETF 121 public side meetings for drafts [slide](https://docs.google.com/presentation/d/1WDWW5VnG5GjgPzwwsrgHLB7qQwhD83w39yjl32RsJzs/edit?usp=sharing)
 - Handle the mailing list subscription and next step for the bof list
