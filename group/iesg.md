@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-11-01T15:51:48.938Z
+date: 2025-11-20T16:30:14.682Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -32,7 +32,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
 |---|---|
 | Deb | IAB  |
 | Mike | NomCom |
-| Éric V., Paul, Mahesh |  Tools Team|
+| Paul, Mahesh |  Tools Team|
 | Deb, Ketan | EODIR  |
 | Med, Andy |  TDD |
 | Roman | RSAB |
