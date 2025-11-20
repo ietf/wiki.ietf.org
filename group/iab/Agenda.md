@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-19T12:55:01.115Z
+date: 2025-11-20T00:21:09.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-11-19, 23:00-00:00 UTC)
+# IAB Informal Meeting Agenda: 2025-11-26, 07:00-08:00 UTC)
 
-## There WILL be a meeting on 2025-11-19
+## There WILL NOT be a meeting on 2025-11-19
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mbdc29e6f707b87a716f6e56fd0f33333
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8c11a15ee80f6b928b140236d0920368
 
 
 ## Agenda
@@ -22,18 +22,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Adopting draft-edm-protocol-greasing 
+### 1. 
 
-Context: Discussion making a community review / adoption in IAB for the draft. See https://github.com/intarchboard/responsibilities/issues/1
+Context: 
 
-### 2. Goals for ISE
+### 2. 
 
-Context: Discussion of approach for ISE selection, candidates. https://github.com/intarchboard/responsibilities/issues/64
+Context: 
 
 ## Regrets
 
-* Dirk
-* Qin
+* 
 
  
 
@@ -48,9 +47,6 @@ Context: Discussion of approach for ISE selection, candidates. https://github.co
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
--- 2025-11-01 - 2025-11-07: IETF 124 Montreal --
-
-- 2025-11-19 23:00-00:00 UTC	Informal Meeting (Reserved)
 - 2025-11-26 07:00-08:00 UTC	Informal Meeting (Reserved)
 - 2025-12-03 16:00-17:00 UTC	Informal Meeting (Reserved)
 - 2025-12-10 23:00-00:00 UTC	Informal Meeting (Reserved)
