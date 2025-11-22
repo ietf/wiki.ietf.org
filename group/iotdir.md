@@ -2,7 +2,7 @@
 title: IOTDIR - Internet-of-Things Directorate
 description: Initial landing page for IoT Directorate
 published: true
-date: 2025-08-04T19:39:09.738Z
+date: 2025-11-22T02:32:54.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T16:23:53.131Z
@@ -95,8 +95,8 @@ IoT Directorate membership and participation criteria:
 | ---- | ---- |
 | Erik Kline  | Responsible IOT-DIR & Internet Area Director |
 | Ari Keränen | IOT-DIR co-chair |
-| Samita Chakrabarti | IOT-DIR co-chair |
 | Ines Robles | IOT-DIR co-chair |
+| Suresh Krishnan | IOT-DIR co-chair |
 
 Directorate chairs e-mail contact: iot-directorate-owner (at) ietf.org
 ## More Information on IOT Directorate and reviews:
