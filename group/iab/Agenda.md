@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-21T02:58:03.274Z
+date: 2025-11-22T00:21:12.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -32,7 +32,7 @@ Context:
 
 ## Regrets
 
-* 
+* Mirja (until Feb 2)
 
  
 
