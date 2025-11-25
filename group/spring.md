@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-11-20T17:21:33.190Z
+date: 2025-11-25T22:28:17.758Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -91,10 +91,10 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * 2025-10-29 Adoption call sent
   * (Call) https://mailarchive.ietf.org/arch/msg/spring/UYvEIbE1Tu1q_BMDVQXfSJs4J1g/
   * (IPR) https://mailarchive.ietf.org/arch/msg/spring/dqszuWaslx54VwcvlN6PydpZb8Q/
-* draft-karboubi-spring-sr-policy-eligibility
+* [draft-karboubi-spring-sr-policy-eligibility](https://datatracker.ietf.org/doc/draft-karboubi-spring-sr-policy-eligibility/)
   * [Responsible Chair: Alvaro]
   * 2025-07-25 (IETF 123) Authors sent request
-  * https://datatracker.ietf.org/doc/draft-karboubi-spring-sr-policy-eligibility/
+  * 2025-11-25 [Adoption Call](https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
 * draft-ali-6man-srv6-vpn-icmp-error-handling
   * [Responsible Chair: Alvaro]
   * 2025-11-04 (IETF 124) Authors sent request for polling SPRING interest (draft to be worked in 6MAN WG)
