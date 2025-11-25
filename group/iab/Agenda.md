@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-24T13:25:50.260Z
+date: 2025-11-25T16:13:18.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,6 +34,8 @@ Context:
 
 * Mirja (until Feb 2)
 * Deb Cooley
+* Roman Danyliw
+* Jason Livingood
 * Alvaro Retana
  
 
