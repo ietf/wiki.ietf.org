@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-11-25T15:13:28.268Z
+date: 2025-11-25T15:23:33.494Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -181,7 +181,7 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-ebgp-dmz-08 (Matthew): 
 	- New version of the document published
-	- doc may move to IDR
+	- IDR chairs OK to LC with an IDR shepherd.
 
 
 
