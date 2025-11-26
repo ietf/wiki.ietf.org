@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-25T16:13:18.961Z
+date: 2025-11-26T07:42:07.586Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-11-26, 07:00-08:00 UTC)
+# IAB Informal Meeting Agenda: 2025-12-03, 16:00-17:00 UTC)
 
-## There WILL be a meeting on 2025-11-26
+## There WILL NOT be a meeting on 2025-12-03
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m8c11a15ee80f6b928b140236d0920368
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=ma6ad2e93f6aef9fafb8fed81839bbc3c
 
 
 ## Agenda
@@ -22,7 +22,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Appeal responses (Mark)
+> NOTE: An informal meeting on 2025-12-03 will conflict with the IP Geo Workshop!
+{.is-warning}
+
+
+### 1. 
 
 Context: 
 
@@ -33,10 +37,7 @@ Context:
 ## Regrets
 
 * Mirja (until Feb 2)
-* Deb Cooley
-* Roman Danyliw
-* Jason Livingood
-* Alvaro Retana
+
  
 
 
@@ -44,6 +45,7 @@ Context:
 
 - ETSI liaison discussion
 - WBA liaison discussion
+- Appeal responses (Mark)
 
 
 ## Upcoming IAB Meetings
