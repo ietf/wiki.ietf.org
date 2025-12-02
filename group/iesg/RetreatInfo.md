@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2025-12-02T19:52:38.836Z
+date: 2025-12-02T19:52:59.450Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -32,7 +32,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ## Proposed  Topics
 
-Planning for community survey (Jay)
+- Planning for community survey (Jay)
 
 #### IESG Parking Lot of Topics
 
