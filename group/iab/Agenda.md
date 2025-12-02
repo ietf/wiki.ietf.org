@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-11-26T07:42:07.586Z
+date: 2025-12-02T14:38:10.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-12-03, 16:00-17:00 UTC)
+# IAB Informal Meeting Agenda: 2025-12-10, 23:00 UTC (1 hour)
 
-## There WILL NOT be a meeting on 2025-12-03
+## There WILL NOT be a meeting on 2025-12-10
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=ma6ad2e93f6aef9fafb8fed81839bbc3c
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m38d65ebd0b8e9b0af86dc827a6155e86
 
 
 ## Agenda
