@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-12-02T20:27:30.004Z
+date: 2025-12-02T20:30:15.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
