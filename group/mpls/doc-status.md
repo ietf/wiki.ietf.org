@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-12-02T15:38:44.526Z
+date: 2025-12-02T17:28:01.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,10 +17,10 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 11-30-2025 | draft-ali-mpls-algo-mt-oam | | |
-| 12-01-2025 | draft-xiao-mpls-lsp-ping-ioam-conf-state | | |
-| 12-01-2025 | draft-songvar-mpls-mna-detnet | Neeed guidance on whether to split | |
-| 12-01-2025 | draft-song-mpls-on-path-telemetry-flag | | |
+| 11-30-2025 | draft-ali-mpls-algo-mt-oam | | Tarek |
+| 12-01-2025 | draft-xiao-mpls-lsp-ping-ioam-conf-state | | Adrian |
+| 12-01-2025 | draft-songvar-mpls-mna-detnet | Neeed guidance on whether to split | Tony |
+| 12-01-2025 | draft-song-mpls-on-path-telemetry-flag | | Tony |
 
 
 ## Queued for WG Adoption Poll
