@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026. 
 published: true
-date: 2025-12-02T21:58:43.626Z
+date: 2025-12-02T22:01:58.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -15,15 +15,15 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 
 ## City Tour Sign-up
 
-| NAME | EMAIL |
-|:------:|:------:|
-|  Stephanie McCammon    |  smccammon@amsl.com      |  
-| Dr Gnanajeyaraman Rajaram  |  r.gnanajeyaraman@gmail.com      |  
-|      |        | 
-|      |        | 
-|      |        | 
-|      |        | 
-|      |        | 
+| NAME | EMAIL | REMARK |
+|:------:|:------:|:------:|
+|  Stephanie McCammon    |  smccammon@amsl.com      | | 
+| Dr Gnanajeyaraman Rajaram  |  r.gnanajeyaraman@gmail.com    |  |  
+| Éric Vyncke | evyncke@cisco.com   | Need to be back at HKG at 21:00 |
+|      |        | |  
+|      |        |  |  
+|      |        | |  
+|      |        | |  
 
 
 
