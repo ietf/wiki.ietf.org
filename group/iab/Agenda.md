@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-02T14:38:10.723Z
+date: 2025-12-02T14:38:28.658Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,8 +22,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-> NOTE: An informal meeting on 2025-12-03 will conflict with the IP Geo Workshop!
-{.is-warning}
+
 
 
 ### 1. 
