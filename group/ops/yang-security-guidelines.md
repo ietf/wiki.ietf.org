@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2025-07-23T08:51:53.863Z
+date: 2025-12-03T16:14:47.522Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -23,7 +23,7 @@ Further, if new RPC operations have been defined, then the security consideratio
 
 This section is modeled after the template described in Section 3.7.1 of [RFC-to-be draft-ietf-netmod-rfc8407bis].
 
-The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as NETCONF [RFC6241] and RESTCONF [RFC8040]. These protocols have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC8446], and QUIC [RFC9000]) and have to use mutual authentication.
+The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as NETCONF [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC8446], and QUIC [RFC9000]) and (2) have to use mutual authentication.
 
 The Network Configuration Access Control Model (NACM) [RFC8341] provides the means to restrict access for particular NETCONF or RESTCONF users to a preconfigured subset of all available NETCONF or RESTCONF protocol operations and content.
 
