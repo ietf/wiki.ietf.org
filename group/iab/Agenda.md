@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-02T16:20:26.014Z
+date: 2025-12-03T21:32:44.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,7 +31,7 @@ Context: https://single-market-economy.ec.europa.eu/consultations/public-consult
 
 Draft: https://docs.google.com/document/d/1Ir9h121HYSic0E7bVjvFM8n1ocEIZfMLZWmjITIQdyI/edit?usp=sharing
 
-### 2. 
+### 2. Executive Session: Appeal Responses
 
 Context: 
 
