@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-12-02T20:30:15.404Z
+date: 2025-12-03T18:56:43.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,8 +17,6 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 2025-12-01 | [draft-xiao-mpls-lsp-ping-ioam-conf-state](https://datatracker.ietf.org/doc/draft-xiao-mpls-lsp-ping-ioam-conf-state/) | | Adrian |
-| 2025-12-01 | [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | | Tony |
 
 ## Queued for WG Adoption Poll
 
@@ -29,7 +27,10 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-02 | [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | Pending | Pending | --- | Tarek |
-| 2025-12-02 | [draft-songvar-mpls-mna-detnet](https://datatracker.ietf.org/doc/draft-songvar-mpls-mna-detnet/) | Pending | Pending | Draft split not needed | Tony |
+| 2025-12-02 | [draft-songvar-mpls-mna-detnet](https://datatracker.ietf.org/doc/draft-songvar-mpls-mna-detnet/) | In progress | Pending | Draft split not needed | Tony |
+| 2025-12-01 | [draft-xiao-mpls-lsp-ping-ioam-conf-state](https://datatracker.ietf.org/doc/draft-xiao-mpls-lsp-ping-ioam-conf-state/) | Pending | Pending | Waiting for 2 above| Adrian |
+| 2025-12-01 | [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | Pending | Pending | Waiting for 2 above | Tony |
+
 
 ## In Adoption Poll
 
