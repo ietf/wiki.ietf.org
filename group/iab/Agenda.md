@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-03T21:32:44.890Z
+date: 2025-12-04T18:54:21.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,7 +25,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Public consulation EU 1025/2012 (Alvaro, Liaison Coordinators)
+### 1. Public consultation EU 1025/2012 (Alvaro, Liaison Coordinators)
 
 Context: https://single-market-economy.ec.europa.eu/consultations/public-consultation-proposal-revision-regulation-eu-no-10252012-also-called-eu-standardisation_en
 
