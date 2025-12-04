@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-04T18:56:31.707Z
+date: 2025-12-04T19:20:37.972Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,9 +31,15 @@ Context: https://single-market-economy.ec.europa.eu/consultations/public-consult
 
 Draft: https://docs.google.com/document/d/1Ir9h121HYSic0E7bVjvFM8n1ocEIZfMLZWmjITIQdyI/edit?usp=sharing
 
+Look for the text after "*** START HERE ***".
+
 ### 2. Executive Session: Appeal Responses
 
 Context: 
+
+### 3. Executive Session: IESG Slate Discussion (Alvaro)
+
+Context: I expect to have the official NomCom set of cancidates a couple of days before the meeting.
 
 ## Regrets
 
