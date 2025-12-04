@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-04T18:54:21.345Z
+date: 2025-12-04T18:56:31.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -53,8 +53,6 @@ Context:
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-- 2025-11-26 07:00-08:00 UTC	Informal Meeting (Reserved)
-- 2025-12-03 16:00-17:00 UTC	Informal Meeting (Reserved)
 - 2025-12-10 23:00-00:00 UTC	Informal Meeting (Reserved)
 
 - 2025-12-17: Formal Business Meeting
