@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-11-25T22:28:17.758Z
+date: 2025-12-04T17:45:36.811Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -48,10 +48,6 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
   * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
   * This document depends on draft-ietf-spring-resource-aware-segments, so we will wait until that one passes WGLC.
-* draft-ietf-spring-cs-sr-policy
-  * [Responsible Chair: Joel]
-  * 2024-11-06 (IETF121) Authors sent request
-  @ 2025-10-29 in discussions to finalize response to rtg-dir review
 * draft-ietf-spring-srv6-path-segment
   * [Responsible Chair: Bruno]
   * 2025-01-20 Authors sent request
@@ -91,19 +87,17 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * 2025-10-29 Adoption call sent
   * (Call) https://mailarchive.ietf.org/arch/msg/spring/UYvEIbE1Tu1q_BMDVQXfSJs4J1g/
   * (IPR) https://mailarchive.ietf.org/arch/msg/spring/dqszuWaslx54VwcvlN6PydpZb8Q/
-* [draft-karboubi-spring-sr-policy-eligibility](https://datatracker.ietf.org/doc/draft-karboubi-spring-sr-policy-eligibility/)
+* draft-karboubi-spring-sr-policy-eligibility
   * [Responsible Chair: Alvaro]
   * 2025-07-25 (IETF 123) Authors sent request
   * 2025-11-25 [Adoption Call](https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
-* draft-ali-6man-srv6-vpn-icmp-error-handling
-  * [Responsible Chair: Alvaro]
-  * 2025-11-04 (IETF 124) Authors sent request for polling SPRING interest (draft to be worked in 6MAN WG)
-  * !!NOT for adoption call. Call is for interest.
-  * 2025-11-19 [Call for interest.](https://mailarchive.ietf.org/arch/msg/spring/RbZQ0XddedK4148QwO5sHY5Yiow/)
 * draft-watal-spring-srv6-sfc-sr-aware-functions
   * 2025-11-04 (IETF 124) Authors sent request
 * draft-ali-spring-sr-service-programming-oam
   * 2025-11-04 (IETF 124) Authors sent request
+* draft-jiang-spring-sr-policy-nrp
+  * [Responsible Chair: Alvaro]
+  * 2025-11-27 Request from authors
 
   
   > History of WG Adoption
