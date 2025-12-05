@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-12-04T11:12:23.033Z
+date: 2025-12-05T08:37:47.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -54,6 +54,7 @@ This table collects the various IETF outreach activities done by individuals to 
 |---|---|---|---|---|---|
 |Dec 2025|Panel for the Future of Science and Technology – Technical Workshop on the Functioning of the Internet|Legislators|Supporter|Lars|[Video](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology-technical-workshop-on-functioning-of-internet_20251204-1000-SPECIAL-STOA)|
 |Dec 2025|[India IGF](https://indiaigf.in/)|Regional|Supporter|Dhruv|[Panel](https://www.youtube.com/live/GfE2rPZgzqg?t=9040s)|
+|Nov 2025|UK Digitial Standards, DSIT|UK Companies|Knowledge sharing|Rob Wilton|[Slides](https://docs.google.com/presentation/d/1GVgGH0G-4QUC6W8TsXBDzibSbmkzRXO-uuPP3MUikpc/edit?usp=sharing)|
 |Oct 2025|[ICANN84](https://meetings.icann.org/en/meetings/icann84/)|ICANN Leadership|supporter|Roman,Dhruv,Mirja,Warren|[Recording](https://icann.zoom.us/rec/play/zM8Pog5RsHO2reY2B5BB21BvVIKuJduhbwbXYPusw-TF3AU3p191roRm5w-aY_27wQofnm6LivhjA8Xr.Khk9YmLpecuSB-dB?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FFI9NrVHzjf1WZO7dwlWbGo8hS2I11FwmlKIz-JWK4mwruiifN_qtlleZ0Djp3SvB.qyDWVeDZkj9bv5Mt)|
 |Oct 2025|[RIPE91](https://ripe91.ripe.net/)|Operators|Participants|Suresh, Mirja, Eric|[Details](https://ripe91.ripe.net/programme/meeting-plan/sessions/17/CGDZGZ/)|
 |Oct 2025|[LACNIC44]()|Operators|Participants|Suresh|[Details](https://lacnic44.lacnic.net/es/programa/agenda/plenaria)|
