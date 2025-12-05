@@ -2,7 +2,7 @@
 title: IETF Language Buttons
 description: 
 published: true
-date: 2024-06-17T02:08:16.319Z
+date: 2025-12-05T21:25:13.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-09T22:16:40.467Z
@@ -76,13 +76,13 @@ Since IETF 87, the IETF Secretariat has provided language buttons (pins) for att
 
 ![gujarti.png](/language-buttons/gujarti.png)
 
-## Hebrew 
+## Hebrew
 
 ![hebrew.png](/language-buttons/hebrew.png)
 
 ## Hindi 
 
-![hindi.png](/language-buttons/hindi.jpg)
+![hindi.png](/hindi.png) 
 
 ## Hungarian 
 
