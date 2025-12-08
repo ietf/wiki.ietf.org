@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2025-12-08T20:26:29.024Z
+date: 2025-12-08T20:41:16.127Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -34,6 +34,15 @@ Generally, this is one of the following forms:
 * You can optionally add one or more path elements as **{{additional structure}}**.
 * The **{{page name}}** should be reasonably descriptive and consistent with the title that you will later give the page. 
 
+## What pages can be edited
+Not all pages can be directly edited, to prevent vandalism. Those that can be directly edited are:
+
+* All pages under /group/ but not the Group Index itself.
+* All pages under /meeting/ but not the top level meetings page
+* All pages under /sandbox/ but not the top level sandbox page
+
+If you wish to edit a page that is not on the list above, then please do that as a PR on the GitHub repository.
+
 ## Known limitations
 The wiki product we are using has the following known limitations:
 1. The page menu (the one that appears in the middle when the screen is wide enough, is auto-generated and auto-placed and this cannot be changed.
@@ -64,6 +73,7 @@ Finally you are asked for a title for the page. Please make this consistent with
 
 ## Adding an asset
 If you need to add an image or other asset (PDF) for your wiki, you can do that by using the "Insert Asset" folder icon in the left side of the editor view. From there you will be prompted to browse for the file to upload. After uploading, you will be able to perform various actions on the asset using the '...' link in the Action column of the asset list.
+
 
 # Migrating from Trac and other legacy wikis
 If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.
