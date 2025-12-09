@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-04T19:20:37.972Z
+date: 2025-12-09T12:57:51.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -44,7 +44,7 @@ Context: I expect to have the official NomCom set of cancidates a couple of days
 ## Regrets
 
 * Mirja (until Feb 2)
-
+* Qin
  
 
 
