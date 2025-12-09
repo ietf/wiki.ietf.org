@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-12-09T15:16:23.037Z
+date: 2025-12-09T18:44:36.345Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -49,6 +49,7 @@ Note that this page is public.
 * Disabling receiving gmail "confidential email" (Paul)
   see https://support.google.com/a/answer/7684332?hl=en#blockincoming
   (background: https://support.google.com/a/answer/7684332?hl=en)
+ * Adding extra week to Last Calls through the end of the year? (Secretariat)
 
 ### WG News 
 
