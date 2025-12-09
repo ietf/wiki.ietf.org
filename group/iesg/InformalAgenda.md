@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-12-08T17:47:28.892Z
+date: 2025-12-09T15:16:23.037Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,6 +46,9 @@ Note that this page is public.
 
 ### Management Issues
 * Followup on email alias for IETF Android app (Cindy)
+* Disabling receiving gmail "confidential email" (Paul)
+  see https://support.google.com/a/answer/7684332?hl=en#blockincoming
+  (background: https://support.google.com/a/answer/7684332?hl=en)
 
 ### WG News 
 
