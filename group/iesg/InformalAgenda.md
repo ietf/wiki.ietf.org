@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-12-09T18:44:36.345Z
+date: 2025-12-09T19:54:49.564Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -58,7 +58,8 @@ Note that this page is public.
 
 ### Executive Sessions
 
-* Appeal processing
+* 2025 NomCom slate confirmation discussion (Roman)
+* Appeal processing (Roman)
 
 ### AOB
 
