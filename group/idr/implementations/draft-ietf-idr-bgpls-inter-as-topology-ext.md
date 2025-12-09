@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgpls-inter-as-topology-ext Implementation Report
 description: 
 published: true
-date: 2025-12-09T01:58:16.685Z
+date: 2025-12-09T02:17:56.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T17:35:58.255Z
@@ -11,7 +11,7 @@ dateCreated: 2025-12-08T17:35:58.255Z
 # Implementation Report for draft-ietf-idr-bgpls-inter-as-topology-ext 
 
 ### **Vendor or Open Source Implementations**
-H3C(based on H3C Comware,V700R001B75D112) and the network controller R&D team(based on FRR, version 7.4) from China Telecom have implemented all the protocol extensions described in the draft as the followings:
+H3C(based on H3C Comware,V700R001B75D112. Maturally level:demo) and the network controller R&D team(based on FRR, version 7.4) from China Telecom have implemented all the protocol extensions described in the draft as the followings:
 
 Stub Link NLRI
 Remote AS Number TLV
