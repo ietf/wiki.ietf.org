@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-09T12:57:51.418Z
+date: 2025-12-10T21:11:08.471Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,12 +39,13 @@ Context:
 
 ### 3. Executive Session: IESG Slate Discussion (Alvaro)
 
-Context: I expect to have the official NomCom set of cancidates a couple of days before the meeting.
+Context: I expect to have the official NomCom set of candidates a couple of days before the meeting.
 
 ## Regrets
 
 * Mirja (until Feb 2)
 * Qin
+* Dirk
  
 
 
