@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-11-11T15:08:54.578Z
+date: 2025-12-10T08:35:37.928Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -84,7 +84,6 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Draft | Imp Sec | Manag Sec| State | Remarks | Responsible Chair | Shepherd |
 | --- | --- | --- | --- | --- | --- |---|
-| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | Y| Y| -16 posted on 2025-08-27  | WGLC issued Nov. 9 2025. IPR 4/5(Authors) | Dhruv | - |
 | [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy) | Y | Y| -13 posted on 2025-10-19 | Ready for WGLC | Dhruv | Andrew |
 | [draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr) | Y | Y| -11 posted on 2025-07-07 | Ready for WGLC | Dhruv | - |
 | [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|Y| -16 posted on 2025-10-17  | What is the conclusion to - Should the PCEP extension go beyond the SR Policy SPRING’s SR Policy RFC? Otherwise seems ready for WGLC | Dhruv | - |
@@ -99,6 +98,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
+| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | WGLC comments handled  | Shepherd Review pending | Dhruv | 
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Awaiting author's response and updated I-D|Shepherd Review Done on 2025-10-30 |Dhruv |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Response to Andrew's WGLC comment is pending | Pending Shepherd review and write up | Julien |
 |draft-ietf-pce-circuit-style-pcep-extensions|Awaiting updated I-D|Shepherd Review Done on 2025-10-30 |Dhruv |
