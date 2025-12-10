@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-10-30T17:17:30.493Z
+date: 2025-12-10T11:31:16.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -14,7 +14,9 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Discuss | - | TLVs in sub-object and how to make it work. |Ketan: I would really urge the WG to discuss moving away from this flag based extensions and instead move to TLV based extensions that follow whatever object encodings are defined so far. We cannot expect to change what exists, but anything coming up in the future can stop using this flag based mechanism. If this isn't done, the combinations of flags and the ordering of these variable size objects will make parsing complex for implementations - especially if they were to support some flags but not others.<br>Dhruv: Isnt it too late to do this and the complexisty already exist, does adding more flags really increases the complexity more? Any past reason why no subobject in RSVP-TE or PCEP ever had TLVs? <br> Next step talk to Ketan|
+|Discuss|-|Marina| Any step need to be taken by chairs?|
 | Mind Map | - |  | WG maintain a mind map - Decide if it is worth expanding the [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/?share_link_id=666555899925) or  do it on the WG Github with Mermaid? Any volunteers?|
+
 
 
 
@@ -23,7 +25,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |---|---|---|---|
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
 | Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Authors to resolve Quan's comment; the I-D is currently expired. <br> 1 IPR response from Francesco Lazzeri missing, who is now retired - confirm with authors on how they wish to proceed|
-| Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -34,13 +35,12 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Ketan|AD Evaluation|draft-ietf-pce-sid-algo|AD review done, authors posted update, reverifying WG consenses|
 
 Items to talk to Ketan:
-- SID Algo: sub-TLV v/s Flags
 - VLAN forwarding: notify IEEE?
-- PCEP-LS as an author: any concern
 
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+ Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Add to Adoption queue | draft-dong-pce-pcep-nrp | Dhruv | Request from authors to prioritize |
 | Add to WGLC queue | draft-ietf-pce-circuit-style-pcep-extensions | Dhruv | Authors requesting WGLC in parallel to spring draft; can be moved to WGLC queue? |
