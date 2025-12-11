@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-12-11T03:05:54.869Z
+date: 2025-12-11T03:06:44.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -42,7 +42,6 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
-| 2025-09-15 | [draft-mirsky-mpls-stamp](https://datatracker.ietf.org/doc/draft-mirsky-mpls-stamp/) | Attempt to merge with [draft-ietf-mpls-stamp-pw](https://datatracker.ietf.org/doc/draft-ietf-mpls-stamp-pw/)  | Tony |  |
 
 ## MPLS WG Documents
 
