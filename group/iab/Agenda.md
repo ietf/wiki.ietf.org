@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-10T21:11:08.471Z
+date: 2025-12-11T00:14:45.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2025-12-10, 23:00 UTC (1 hour)
+# IAB Formal Meeting Agenda: 2025-12-17, 14:00-16:00 UTC (2 hours)
 
-## There WILL be a meeting on 2025-12-10
+## There WILL be a meeting on 2025-12-17
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m38d65ebd0b8e9b0af86dc827a6155e86
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m2cf7953be787792c45da617722f8a0c1
 
 
 ## Agenda
@@ -25,27 +25,25 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Public consultation EU 1025/2012 (Alvaro, Liaison Coordinators)
+### 1. Adiminstrivia
 
-Context: https://single-market-economy.ec.europa.eu/consultations/public-consultation-proposal-revision-regulation-eu-no-10252012-also-called-eu-standardisation_en
+#### 1.1. Attendance
 
-Draft: https://docs.google.com/document/d/1Ir9h121HYSic0E7bVjvFM8n1ocEIZfMLZWmjITIQdyI/edit?usp=sharing
+#### 1.2. Agenda bash and announcements
 
-Look for the text after "*** START HERE ***".
+#### 1.3. Meeting Minutes
 
-### 2. Executive Session: Appeal Responses
+For approval
 
-Context: 
-
-### 3. Executive Session: IESG Slate Discussion (Alvaro)
-
-Context: I expect to have the official NomCom set of candidates a couple of days before the meeting.
+- 2025-10-22 business meeting - (submitted 2025-10-22)
+- 2025-11-02 business meeting - (submitted 2025-11-03)
+- 2025-11-04 business meeting - (submitted 2025-11-04)
+- 2025-11-06 business meeting - (submitted 2025-11-07)
 
 ## Regrets
 
 * Mirja (until Feb 2)
-* Qin
-* Dirk
+* Mark
  
 
 
@@ -59,8 +57,6 @@ Context: I expect to have the official NomCom set of candidates a couple of days
 ## Upcoming IAB Meetings
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
-
-- 2025-12-10 23:00-00:00 UTC	Informal Meeting (Reserved)
 
 - 2025-12-17: Formal Business Meeting
     - ISE, IESG slate, ISOC BoT
