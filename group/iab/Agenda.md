@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-11T00:14:45.744Z
+date: 2025-12-11T17:34:14.883Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,6 +39,69 @@ For approval
 - 2025-11-02 business meeting - (submitted 2025-11-03)
 - 2025-11-04 business meeting - (submitted 2025-11-04)
 - 2025-11-06 business meeting - (submitted 2025-11-07)
+
+### 2. Adoption of draft-edm-protocol-greasing on the IAB Stream (Tommy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/1
+
+  Goal: Document adoption
+
+
+### 3. Report out of IAB Workshop on IP Geolocation (Jason)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/26
+
+  Goal: Update on how the workshop went
+
+
+### 4. Monthly Reports (Liaisons, etc.)
+
+- IRTF Chair
+- IESG Liaison
+- ICANN Board Liaison
+- IANA Liaison
+- IAB Outreach Coordinator
+- Liaison Coordinators
+
+
+### 5. IAB Response to Public consultation EU 1025/2012 (Alvaro)
+
+
+### 6. Review of Open Issues for Responsibilities (Tommy)
+
+ GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
+### 7. Executive Session: ISOC BoT Appointment (Cindy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/72
+
+  Goal: Update on nominations status 
+
+
+### 8. Executive Session: M3AAWG Liaison Replacement (Liaison Coordinators)
+
+  Goal: Vote on new liaison manager
+
+  Context: Email from Suresh on 2025-11-17, "[IAB] Appointment of liaison to Messaging Anti-Abuse Working Group (M3AAWG)"
+
+
+### 9. Executive Session: IESG slate confirmation (Alvaro)
+
+  Goal: Vote
+
+
+### 10. Executive Session: Independent Submissions Editor Appointment 
+  (Cindy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/64
+
+  Goal: Status update, possible vote
+
+
+### 11. Executive Session: Appeals processing
+
+
 
 ## Regrets
 
