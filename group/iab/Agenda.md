@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-11T17:34:14.883Z
+date: 2025-12-11T17:36:03.677Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -66,6 +66,9 @@ For approval
 
 ### 5. IAB Response to Public consultation EU 1025/2012 (Alvaro)
 
+  Context: Email from Alvaro on 2025-12-11, "[IAB] IAB's Response to the Consultation on EU 1025/2012"
+  
+  Goal: Finalize vote
 
 ### 6. Review of Open Issues for Responsibilities (Tommy)
 
@@ -88,7 +91,7 @@ For approval
 
 ### 9. Executive Session: IESG slate confirmation (Alvaro)
 
-  Goal: Vote
+  Goal: Finalize vote
 
 
 ### 10. Executive Session: Independent Submissions Editor Appointment 
