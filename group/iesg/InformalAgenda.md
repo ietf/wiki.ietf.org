@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-12-11T14:23:56.328Z
+date: 2025-12-12T21:44:46.939Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - December 11, 2025
+# Informal Telechat - January 15, 2026
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,9 +28,8 @@ Meeting password: 12345
 
 
 ## Regrets
-- Erik K
-- Gunter
-- Paul
+
+
 ## Agenda
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items in the appropriate sections below.
@@ -46,11 +45,8 @@ Note that this page is public.
 ### Document Discussions
 
 ### Management Issues
-* Followup on email alias for IETF Android app (Cindy)
-* Disabling receiving gmail "confidential email" (Paul)
-  see https://support.google.com/a/answer/7684332?hl=en#blockincoming
-  (background: https://support.google.com/a/answer/7684332?hl=en)
- * Adding extra week to Last Calls through the end of the year? (Secretariat)
+
+
 
 ### WG News 
 
@@ -59,8 +55,8 @@ Note that this page is public.
 
 ### Executive Sessions
 
-* [2025 NomCom slate confirmation discussion](https://docs.google.com/document/d/1OZXncGt1tXUqQotTR0hGniIplIN3u8QzEp9e3WVcWbw/edit?tab=t.0#heading=h.5wfdffgkdjrg) (Roman)
-* [Appeal processing](https://docs.google.com/document/d/129EMXZYFf7uIF_Yy_-ik6J_gf5YyZBNycIZiliMN3pk/edit?tab=t.0) (Roman)
+
+
 
 ### AOB
 
