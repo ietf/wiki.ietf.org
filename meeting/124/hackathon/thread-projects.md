@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-11-01T21:19:09.111Z
+date: 2025-12-14T00:59:49.975Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T17:46:51.454Z
@@ -70,6 +70,8 @@ Esko Dijk (IoTconsultancy.nl)
   - **Lightweight WebSocket Server.** Providing a browser based user interface can be much simpler than providing native apps for different systems. At the moment, it may be hard to do for hardware with limited resources as it requires not only embedding a HTTP server but also all the resources that will be served to the user including HTML, images etc. (not to mention that any updates of web interface would require a software update). A simple WebSocket server can address such issues as the protocol is supported by all the major browsers. Then, the web application with all resources can be hosted on client's side and all the information could be get or set through WebSocket API. Moreover, such endpoints can be reused by any platform supporting WebSocket client (e.g. native desktop app, phone etc.).
 
   - **Event logging.** Due to limited resources (device's memory, bandwidth, connectivity issues etc.) it is hard to fetch debug text logs from End Devices set up in the home's network. The idea is to implement an event logger which can store only necessary data that can be fetched in a binary form to be decoded by a simple script/app.
+
+  - **Internet-Connected Clock.** The United States has a [time service radio broadcast](https://en.wikipedia.org/wiki/WWVB) and clocks are available that receive this signal to set their time automatically. However, depending on where you live, the radio signal can be weak and unreliable. In our modern world of Internet connectivity, a compelling product would be a battery-powered clock that gets its time from an Internet time server rather than via radio waves from Fort Collins, Colorado. Using a Thread radio would be ideal for a product like this. The amount of data to be received is small. The hardware cost for a Thread radio is low, and the low power consumption of Thread is ideal for battery-powered device that are expected to run for months or years on a single battery.
 
 ----
 
