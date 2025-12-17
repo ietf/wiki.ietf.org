@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-17T16:16:46.905Z
+date: 2025-12-17T16:17:15.921Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -80,14 +80,9 @@ For approval:
 
 See [2025 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-- 2025-12-17: Formal Business Meeting
-    - ISE, IESG slate, ISOC BoT
-    
 -- 2025-12-24 - 2026-01-07: Holiday Break --     
 
-- 2026-01-14 Jan 2026 14:00-16:00 UTC	Formal Board Meeting (Reserved) 
-    - IESG slate confirmation if needed
-
+- 2026-01-14 Jan 2026 14:00-16:00 UTC	Formal Board Meeting 
 - 2026-01-21 07:00-08:00 UTC	Informal Meeting (Reserved)
 - 2026-01-28 16:00-17:00 UTC	Informal Meeting (Reserved)
 - 2026-02-04 23:00-00:00 UTC	Informal Meeting (Reserved)
