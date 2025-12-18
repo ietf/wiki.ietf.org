@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-12-04T17:45:36.811Z
+date: 2025-12-18T14:31:30.743Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -71,8 +71,8 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * 2024-06-24 Authors sent request
   * 2025-11-20 The draft needs updates and engagement [thread](https://mailarchive.ietf.org/arch/msg/spring/uQDf-_R64MoR70NJ8A4CnPIBB58/)
 * draft-chen-spring-sr-policy-cp-validity
+  * [Responsible Chair: Alvaro]
   * 2024-07-26 (IETF 120) Authors sent request 
-  * https://datatracker.ietf.org/doc/draft-chen-spring-sr-policy-cp-validity/
 * draft-cheng-spring-sr-policy-group
   * [Responsible Chair: Joel]
   * 2025-04-02 Authors sent request  
@@ -80,13 +80,6 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * [Responsible Chair: Bruno]
   * 2025-07-10 Authors sent request.
   * 2025-10-22 Related to draft-ietf-v6ops-framework-md-ipv6only-underlay which does not seem to explicitly call for an SRv6 extension
-* draft-ali-spring-srv6-policy-sid-list-optimization
-  * [Responsible Chair: Bruno]
-  * 2025-07-25 (IETF 123) Authors sent request
-  * https://datatracker.ietf.org/doc/draft-ali-spring-srv6-policy-sid-list-optimization/
-  * 2025-10-29 Adoption call sent
-  * (Call) https://mailarchive.ietf.org/arch/msg/spring/UYvEIbE1Tu1q_BMDVQXfSJs4J1g/
-  * (IPR) https://mailarchive.ietf.org/arch/msg/spring/dqszuWaslx54VwcvlN6PydpZb8Q/
 * draft-karboubi-spring-sr-policy-eligibility
   * [Responsible Chair: Alvaro]
   * 2025-07-25 (IETF 123) Authors sent request
