@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2025-12-04T19:43:12.215Z
+date: 2025-12-18T14:31:11.837Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -83,3 +83,11 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * 2025-11-04 (IETF 124) Authors sent request for polling SPRING interest (draft to be worked in 6MAN WG)
   * !!NOT for adoption call. Call is for interest.
   * 2025-11-19 [Call for interest.](https://mailarchive.ietf.org/arch/msg/spring/RbZQ0XddedK4148QwO5sHY5Yiow/)  
+* draft-ali-spring-srv6-policy-sid-list-optimization
+  * [Responsible Chair: Bruno]
+  * 2025-07-25 (IETF 123) Authors sent request
+  * https://datatracker.ietf.org/doc/draft-ali-spring-srv6-policy-sid-list-optimization/
+  * 2025-10-29 Adoption call sent
+  * (Call) https://mailarchive.ietf.org/arch/msg/spring/UYvEIbE1Tu1q_BMDVQXfSJs4J1g/
+  * (IPR) https://mailarchive.ietf.org/arch/msg/spring/dqszuWaslx54VwcvlN6PydpZb8Q/
+  * Adopted as draft-ietf-spring-srv6-policy-sid-list-opt
