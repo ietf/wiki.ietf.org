@@ -2,23 +2,13 @@
 title: IRTF Wiki
 description: 
 published: false
-date: 2025-12-21T06:21:02.125Z
+date: 2025-12-21T06:22:30.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
 ---
 
-- # IRTF Wiki
-You have found the IRTF Wiki. The IRTF home page is [here](http://irtf.org).
- 
-## The detailed IRTF Research Group guidelines and procedures are described in RFC 
 
-
-The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/policies/ipr) disclosure rules.
-
-------
-
-## Research Gr
  * [Crypto Forum Research Group (CFRG)](/group/cfrg)
  * [Decentralized Internet Infrastructure (DINRG)](/group/dinrg)
  * [Global Access to the Internet for All (GAIA)](/group/gaia)
@@ -26,19 +16,9 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Network Management Research Group (NMRG)](/group/nmrg)
  * [Coding for efficient NetWork Communications Research Group (nwcrg)](/group/nwcrg)
  * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
- * [Privacy Enhancement and Assessment Proposeing-to-Thing RG (T2TRG)](https://github.com/t2trg)
+ * Privacy Enhancement and Assessment Proposeing-to-Thing RG (T2TRG)](https://github.com/t2trg)
  * [Quantum Internet Proposed RG (QIRG)](/group/qirg)
- * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
- * [ Sustainability and the Internet Proposed Research Group (SUSTAIN)](/group/sustain)
-
-## Pages for Past Activities 
- * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( )
-
-
-## Pages for IRTF Non-RG-Intending Activities 
- * [AI and ML Discussions]()
-
-## Status of IRTF Documents 
+ * [Usable Formal M
 
 * [Active and Expired IRTF Internet Drafts](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=56)
 * [Internet Drafts in RG last call](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=58)
