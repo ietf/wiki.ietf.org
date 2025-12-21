@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: false
-date: 2025-12-21T06:28:05.805Z
+date: 2025-12-21T06:29:13.287Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -99,16 +99,7 @@ Which is nonetheless useful to save
   Explanations on how to be a member or a chair of a directorate or review team (completed Sep 2021)
 - [Grammar Checking ID](/group/iesg/grammarcheckingid)
   Tools to check grammar in IETF draft (completed Nov 2020)
-- [Special Interest Groups](/group/iesg/specialinterestgroups)
-  How to create a special interest group (completed Nov 2020)
-- [Chartering Working Groups](/group/iesg/charteringworkinggroups)
-  How to charter a new working group (updated Apr 2025)
-- [Expert Topics](/group/iesg/ExpertTopics)
-  Expert Topics for WG Chairs and Document Authors
-- [Use Of Updates Tag](/group/iesg/useofupdatestag)
-  IESG Statement on the use and meaning of the "Updates" and "Updated by" tags. (see also: draft-kuehlewind-update-tag)
-- [WG Charter Internal Review Block Criteria](/group/iesg/charterinternalreviewblockcriteria)
-  Proposed criteria for balloting 'Block' during IESG internal review of a WG charter proposed for external review.
+- [Special
 - [IETF Values](/group/iesg/ietfvalues)
   In-progress write-up of suggested IETF values
 - [WG IPR Discussions](/group/iesg/wgiprdiscussions)
