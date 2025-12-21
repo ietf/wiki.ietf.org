@@ -1,8 +1,8 @@
 ---
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
-published: true
-date: 2025-08-04T17:55:52.782Z
+published: false
+date: 2025-12-21T06:11:25.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
