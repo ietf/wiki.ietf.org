@@ -1,14 +1,16 @@
 ---
 title: COIN Wiki
 description: 
-published: true
-date: 2025-08-04T17:53:31.086Z
+published: false
+date: 2025-12-21T06:16:46.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T00:06:00.217Z
 ---
 
 > This page is related to a concluded IRTF Research Group.
+{.is-info}
+
 {.is-danger}
 
 # Proposed IRTF Research Group: Computing in the Network (COIN) 
