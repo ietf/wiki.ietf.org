@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: false
-date: 2025-12-21T06:31:54.571Z
+date: 2025-12-21T06:33:56.879Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -53,24 +53,4 @@ Which is nonetheless useful to save
 - [IAB/IESG/LLC Workshop](/group/iesg/Workshop-October-2021)
   IESG IAB and LLC Workshop - information about the October 2021 Workshop
 - Wiki page for [Document Language Editing](/group/iesg/archive/documentlanguage) session at IETF 89 (2014) in  London.
-- [Draft Shepherd Writeup WG Alternate](/group/iesg/draft/draftshepherdwriteupwgalternate)
-  A new proposal for a radical change to the shepherd writeup, as discussed at IETF 84 (2012). This is a version that strips out all the yes/no sorts of things and instead asks for a paragraph or two of information in each of five categories. **(This is now part of the normal shepherd writeup documentation.)** 
-- [Downref Registry](/group/iesg/downrefregistryobsolete)
-  The former Down Ref Registry - which documents have been Last Called as Downrefs following RFC 3967 (BCP 97) procedure **(The Downref Registry has been moved into the datatracker as of 14 April 2017.)**
-- [Draft NoteWell Summary](/group/iesg/draft/draftnotewell)
-  A draft version of a very short Note Well summary. **(This is now dead.)**
-- [Draft Boilerplate Change](/group/iesg/draft/draftboilerplatechange)
-  A draft of a change to the boilerplate for cases where we are publishing something (such as documentation of a vendor-specific mechanism) where the community has consensus to publish, but consensus on the content doesn't make sense. **(The IAB has chosen not to approve this, but the text is still useful as an IESG note in such documents.)**
-- [Directorates Guidelines](/group/iesg/directoratesguidelines)
-  Explanations on how to be a member or a chair of a directorate or review team (completed Sep 2021)
-- [Grammar Checking ID](/group/iesg/grammarcheckingid)
-  Tools to check grammar in IETF draft (completed Nov 2020)
-- [Special
-- [IETF Values](/group/iesg/ietfvalues)
-  In-progress write-up of suggested IETF values
-- [WG IPR Discussions](/group/iesg/wgiprdiscussions)
-  In-progress writeup on guidance to working groups about making informed decisions about IPR.
-- [Folding In Updates](/group/iesg/folinginupdates)
-  Advice on folding in updates when progressing a document from PS to IS
-- [Bad Diff Examples](/group/iesg/baddiffexamples)
-  Examples of massive fail when diffing rchive of former projects.
+- [Draft Shepherd Writeup WG Alternate](/group/iesg/draft/draftshepherdwriteupwgalternate
