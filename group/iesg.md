@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: false
-date: 2025-12-21T06:30:25.441Z
+date: 2025-12-21T06:31:54.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -36,18 +36,7 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 |---|---|
 | [wg]-chairs @ ietf.org  | mail the chairs of [wg]  |
 | [area]-chairs @ ietf.org  | mail all the chairs of [area] ("[area]" is one of art, gen, int, ops, rtg, sec, tsv)  |
-| [ad-name]-chairs @ ietf.org  | mail all the chairs of WGs for which [ad-name] is responsible (john-smith-chairs, for example)  |
-| [wg]-ads @ ietf.org  | 	mail the ADs of [wg]; note that this is the same as [area]-ads for the area in which [wg] resides... it does not send mail only to the AD responsible for [wg]  |
-|[area]-ads @ ietf.org   | mail the ADs of [area] ("[area]" is one of art, gen, int, ops, rtg, sec, wit)  |
-| irtf-announce @ irtf.org  | IRTF announcement list, including progress reports for the different reserach groups. https://www.ietf.org/mailman/listinfo/irtf-announce  |
-| tools-discuss @ ietf.org  | The mailing list for IETF Tools announcements and discussion. https://www.ietf.org/mailman/listinfo/tools-discuss  |
-{.dense}
-
-	
-## Miscellaneous
-The IESG has a [private Wiki Site](https://iesg.privatewikis.ietf.org/en/home).
-
-The IETF Chair has a demanding [Chair Timeline](/group/iesg/chairtimeline) to plan IETF meetings.
+| [ad-name]-chairs @ ietf.
 
 Wiki page for [Handling Changes When ID is in Queue](/group/iesg/handlingchanges), [Legacy Errata Handling](/group/iesg/legacyerrata), [Speaking for IETF](/group/iesg/speakingforietf), [Dealing with Private Feedback in IETF Process](/group/iesg/privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](/group/iesg/ensuringappropriatediscussion).
 
