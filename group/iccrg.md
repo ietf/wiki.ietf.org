@@ -2,7 +2,7 @@
 title: Internet Congestion Control
 description: This is the Wiki for the IRTF ICC Research Group (ICCRG).
 published: false
-date: 2025-12-21T06:12:02.989Z
+date: 2025-12-21T06:12:47.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T09:46:42.963Z
@@ -23,9 +23,4 @@ Simone Ferlin, Vidhi Goel, Reese Enghardt
 
 
 ## ICCRG Documents and Presentation Materials
-- ICCRG document [Datatracker](https://datatracker.ietf.org/rg/iccrg/) for the latest status and progress.
-- [Meeting material](https://datatracker.ietf.org/rg/iccrg/meetings/) for all meetings.
-
-
-## Past ICCRG meetings
-All agendas, meeting materials and minutes of past ICCRG meetings can be found at: https://datatracker.ietf.org/rg/iccrg/meetings
+- ICCRG document [Datatracker](https://datatracker.ietf
