@@ -2,35 +2,12 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: false
-date: 2025-12-21T06:29:13.287Z
+date: 2025-12-21T06:30:25.441Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
 ---
 
-# IESG Wiki
-*Notice an omission or error? Please work with the IESG and edit this page.*
-
-## Most-used Wiki pages
-- [Informal Agenda](/group/iesg/InformalAgenda)
-  The agenda for the next informal telechat; add items here
-- [Upcoming IETF](/group/iesg/UpcomingIETF)
-  Booking the IESG breakout room, showing arrival times, and agenda topics for the next face-to-face meeting
-- [Retreat Info](/group/iesg/RetreatInfo)
-  Information about the upcoming IESG retreat
-- [Secretar
-| Roman, Paul | IAB-ISOC Policy Coordination Group |
-
-{.dense}
-
-
-## IESG mailing List 
-|Admins|
-|---|
-| Gunter Van de Velde |
-| Mahesh Jethanandani |
-| The Secretariat  |
-{.dense}
 
 
 ## Rules
