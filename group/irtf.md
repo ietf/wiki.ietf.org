@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: false
-date: 2025-12-21T06:19:09.382Z
+date: 2025-12-21T06:21:02.125Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -11,16 +11,14 @@ dateCreated: 2022-12-21T15:42:30.650Z
 - # IRTF Wiki
 You have found the IRTF Wiki. The IRTF home page is [here](http://irtf.org).
  
-The detailed IRTF Research Group guidelines and procedures are described in RFC 2014. In RFC 4440, the Internet Architecture Board (IAB) further details the role of the IRTF.
+## The detailed IRTF Research Group guidelines and procedures are described in RFC 
 
-The procedures for publishing documents on the IRTF RFC Stream are defined in RFC 5743, with additional details found in RFC 5742. The concept of RFC Streams is defined in RFC 4844. 
 
 The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/policies/ipr) disclosure rules.
 
 ------
 
-## Research Group Wiki Pages 
-
+## Research Gr
  * [Crypto Forum Research Group (CFRG)](/group/cfrg)
  * [Decentralized Internet Infrastructure (DINRG)](/group/dinrg)
  * [Global Access to the Internet for All (GAIA)](/group/gaia)
@@ -28,8 +26,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Network Management Research Group (NMRG)](/group/nmrg)
  * [Coding for efficient NetWork Communications Research Group (nwcrg)](/group/nwcrg)
  * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
- * [Privacy Enhancement and Assessment Proposed RG (PEARG)](/group/pearg)
- * [Thing-to-Thing RG (T2TRG)](https://github.com/t2trg)
+ * [Privacy Enhancement and Assessment Proposeing-to-Thing RG (T2TRG)](https://github.com/t2trg)
  * [Quantum Internet Proposed RG (QIRG)](/group/qirg)
  * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
  * [ Sustainability and the Internet Proposed Research Group (SUSTAIN)](/group/sustain)
