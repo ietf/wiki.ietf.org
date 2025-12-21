@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: false
-date: 2025-12-21T06:26:37.022Z
+date: 2025-12-21T06:28:05.805Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -18,26 +18,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
   Booking the IESG breakout room, showing arrival times, and agenda topics for the next face-to-face meeting
 - [Retreat Info](/group/iesg/RetreatInfo)
   Information about the upcoming IESG retreat
-- [Secretariat tools](https://www.ietf.org/links/)
-  See also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket.
-
----
-- [IESG Appointment to the IETF Trust](/group/iesg/ietftrustappointment)
-- [DownRef Registry](https://datatracker.ietf.org/doc/downref) in the datatracker
-- [IESG Only Etiquette](/group/iesg/IESG-Only)
-  When to use and not to use iesg-only mailing list
-
-## IESG roles: 2025-2026
-| IESG Liaisons | Group  |
-|---|---|
-| Deb | IAB  |
-| Mike | NomCom |
-| Paul, Mahesh |  Tools Team|
-| Deb, Ketan | EODIR  |
-| Med, Andy |  TDD |
-| Roman | RSAB |
-| Roman | LLC Board |
-| Roman, Orie, Eric, Paul | IETF-IANA ASG (IAB Program) |
+- [Secretar
 | Roman, Paul | IAB-ISOC Policy Coordination Group |
 
 {.dense}
@@ -54,10 +35,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
 
 ## Rules
 - Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
-- [IESG Statements](https://datatracker.ietf.org/group/iesg/statements/)
-
-## Policies, Procedures and Practices
-
+- [IESG Statements](https://
 * For Meetings
   * [Standing Meetings](/group/iesg/StandingMeetings) (i.e., formal and informal telechat; and during the plenary meeting)
   * [BOF Coordination Meetings](/group/iesg/bof-coordination-meetings)
