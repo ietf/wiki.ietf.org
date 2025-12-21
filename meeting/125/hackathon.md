@@ -1,8 +1,8 @@
 ---
 title: IETF 125 Hackathon
 description: 
-published: true
-date: 2025-11-10T22:07:47.790Z
+published: false
+date: 2025-12-21T07:19:49.298Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
