@@ -2,7 +2,7 @@
 title: 999
 description: 
 published: false
-date: 2025-12-21T07:31:21.890Z
+date: 2025-12-21T07:32:38.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -127,19 +127,12 @@ If you received the email but the link to create an account has expired, please 
 The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
 
 * [How to Instructions](/meeting/125/hackathon/hacknet_instructions)
-
-Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
-All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
-{.links-list}
-
 ## Webex sessions for teams
 Champions can request a Webex account they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts will remain active and available for the duration of the IETF meeting. Request your account [HERE](https://www.ietf.org/forms/wg-webex-account-request/). In the request form, you can use your project name where it asks for "Working Group Name" ("Hackathon Project Name").
 
 ## Ongoing Communication
 
 In addition to registering for the Hackathon and [subscribing](https://www.ietf.org/mailman/listinfo/hackathon) to the Hackathon list. It is recommended to monitor both the Hackathon wiki and the list as the Hackathon approaches, determine which project(s) are of interest to you, and reach out to the champions of those projects to determine how best to be involved and coordinate with the rest of the team working on each project.
-
-Champions are welcome and encouraged to list times and mechanisms for collaborating with their team in the [Team Schedule](teamschedule). Participants can use this page to determine how and when to reach other team members. 
 
 The Hackathon kickoff and the project results presentations can be joined via Meetecho. The Hackathon Zulip stream may be used for general and project specific communication.
 
