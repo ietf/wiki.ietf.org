@@ -1,9 +1,9 @@
 ---
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
-published: true
-date: 2025-11-20T16:30:14.682Z
-tags: iesg, leadership
+published: false
+date: 2025-12-21T06:26:37.022Z
+tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
 ---
@@ -138,6 +138,4 @@ Which is nonetheless useful to save
 - [Folding In Updates](/group/iesg/folinginupdates)
   Advice on folding in updates when progressing a document from PS to IS
 - [Bad Diff Examples](/group/iesg/baddiffexamples)
-  Examples of massive fail when diffing documents for review.
-- [Archive of Former Work](/group/iesg/archiveformerwork)
-  Archive of former projects.
+  Examples of massive fail when diffing rchive of former projects.
