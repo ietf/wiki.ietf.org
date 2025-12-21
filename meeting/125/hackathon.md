@@ -1,14 +1,13 @@
 ---
-title: hon
+title: 999
 description: 
 published: false
-date: 2025-12-21T07:25:46.817Z
+date: 2025-12-21T07:30:43.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
 ---
 
-The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
 * :s
 * [Onsite registration](https://registration.ietf.org/125/new/hackathon_onsite/)
@@ -154,8 +153,7 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ---
 
 ## Projects Included in Hackathon
-<!-- Use #projects-included-in-hackathon in your links to go directly this section! -->
-
+<!-- Use #projects-included-in-hackathon in your links to go directly this section!
 *Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
