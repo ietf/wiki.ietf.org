@@ -2,13 +2,13 @@
 title: IRTF Wiki
 description: 
 published: false
-date: 2025-12-21T06:17:50.766Z
+date: 2025-12-21T06:19:09.382Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
 ---
 
-# IRTF Wiki
+- # IRTF Wiki
 You have found the IRTF Wiki. The IRTF home page is [here](http://irtf.org).
  
 The detailed IRTF Research Group guidelines and procedures are described in RFC 2014. In RFC 4440, the Internet Architecture Board (IAB) further details the role of the IRTF.
@@ -25,7 +25,6 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Decentralized Internet Infrastructure (DINRG)](/group/dinrg)
  * [Global Access to the Internet for All (GAIA)](/group/gaia)
  * [Internet Congestion Control (iccrg)](/group/iccrg)
- * [Information-Centric Networking (icnrg)](/group/icnrg)
  * [Network Management Research Group (NMRG)](/group/nmrg)
  * [Coding for efficient NetWork Communications Research Group (nwcrg)](/group/nwcrg)
  * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
@@ -73,12 +72,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [NFVRG](/group/nfvrg) (now concluded)
  * [P2PRG](/group/p2prg) (now concluded)
  * [PKNG](/group/pkng) (now concluded)
- * [SAMRG](/group/samrg) (now concluded)
- * [TMRG](/group/tmrg) (now concluded)
- * [VNRG](/group/vnrg)  (now concluded)
- * [RRG](/group/rrg) (now concluded)
- * [NCRG](http://networkcomplexity.org/) (now concluded)
- * [DTNRG](https://sites.google.com/site/dtnresgroup/home) (also: old wiki at [DTNRG](http://www.dtnrg.org/))
+ * [SAMRG](/group/samrg) (now concluow conclg.org/)
  * [SDNRG](/group/sdnrg) (now concluded)
 
 
@@ -91,4 +85,4 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 
 ---
 
-*The content of this page was last updated on 2021-10-01. It was migrated from the old Trac wiki on 2022-12-22.*
+*The content of this page was last updated on 2021-10-01. It was migrated fro
