@@ -1,14 +1,24 @@
 ---
-title: COIN Wiki
+title: 
 description: 
 published: false
-date: 2025-12-21T06:16:46.681Z
+date: 2025-12-21T07:12:37.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T00:06:00.217Z
 ---
 
-> This page is related to a concluded IRTF Research Group.
+encontrado la wiki del IRTF. La página principal del IRTF está [aquí] (http://irtf.org) .
+3
+ 
+4
+Las pautas y procedimientos detallados del Grupo de Investigación IRTF se describen en el RFC 2014. En el RFC 4440, el Internet Architecture Board (IAB) detalla más el papel del IRTF.
+5
+​
+6
+​
+6
+Los procedimientos para publicar en el IRTF RFC Stream se (DPI)] (http://irtf.org/policies/ipr) .> Esta página está relacionada con un grupo de investigación del IRTF concluido.gc
 {.is-info}
 
 {.is-danger}
@@ -27,9 +37,9 @@ dateCreated: 2023-01-29T00:06:00.217Z
 
 https://github.com/irtf-coinrg/prg-materials
 ## Charter
-The COIN research group (COINRG) provides a forum for the presentation, discussion, and analysis of research addressing to what extent, and how, computing and networking technologies can be merged. The scope includes architectures, protocols, and implementations that encompass both of these technology areas. The primary goals are to improve network and application performance, agility, security, and privacy by better integration. COIN will foster research into solutions that measurably improve the internet by blending how routing/forwarding, packet processing, computing, and storage are realized. Work involving both classic “control plane” and “data plane” technologies are in scope.
+El grupo de investigación COIN (COINRG) ofrece un foro para la presentación, debate y análisis control y del plano de datos.
 
-COIN will address a wide variety of system scales, ranging from large data center networks (DCN) to small edge computing and networking complexes. Of particular interest is work that explores this continuum and addresses how cloud computing languages and tools might evolve (or not) to encompass the full range of scale, deployment, and physical realization.
+COIN abordará una amplia variedad de escalas de sistemas, desde grandes redes de centros de datos (DCN) hasta pequeños complejos de computación y redes de frontera. Resulta especialmente interesante el trabajo que explora este continuo y aborda cómo los lenguajes y herramientas de computación en la nube podrían evolucionar (o no) para abarcar toda la escala, la implementación y la implementación física.
 
 A major focus will also be on bridging the current divide between the way server computing complexes are programmed and how switches and other smart networking devices such as NICs are programmed. While current state-of-the art in programmability via P4 and other languages/systems has resulted in improved functionality in switches, richer programmability is likely needed to support important workloads, such as edge network analytics, machine learning, and data fusion for cyber-physical systems. Such applications not only need access to more general-purpose languages and underlying operating system facilities, but also need to accommodate local and remote caches, dynamic control points, and various forms of data stewardship. The multiple “touch points” and attendant data transformations raise important research issues in security, privacy and data provenance, as a simple “end-to-end” two party model of communication does not capture the richness of the systems people envision. Research concerning how the existing layering of protocols is affected by these considerations is also in scope. COIN will foster discussion on what should (or should not) be exposed across layers and APIs, including parameters that might affect QoS/QoE, orchestration dynamics, and mobility.
 
