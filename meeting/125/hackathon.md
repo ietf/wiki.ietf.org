@@ -1,8 +1,8 @@
 ---
-title: IETF 125 Hackathon
+title: hon
 description: 
 published: false
-date: 2025-12-21T07:19:49.298Z
+date: 2025-12-21T07:23:40.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -59,9 +59,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 16 March, Time: 19:00 - 20:00, Room: **TBD**
-  * View the [schedule](hackdemo) or reserve space for your team/project
-    * Reservations for space must be made by 13:00, Monday 16 March
+1.   * Monday, 16 Ma
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
@@ -106,9 +104,7 @@ If you received the email but the link to create an account has expired, please 
 ### Choosing a Project
    * Champions post and lead projects 
    * Details on each project and links to additional information for each project are in the list of [Projects included in Hackathon](#projects-included-in-hackathon) 
-   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamschedule).
-   * Familiarity with technology area(s) in which you plan to participate will certainly help
-   * It is perfectly fine, even encouraged, to work on multiple projects 
+   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamsche Familiarity with technology area(s) in which you plan to participat
    
 ### Lost & Found
    *  Participants looking for a team and champions wanting help on their projects are encouraged to visit the [Lost & Found](lost&found).
@@ -193,7 +189,5 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 name and email
 - **Project Info**
 project description
-```
-----
 
-*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
+*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accou
