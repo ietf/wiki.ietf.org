@@ -2,7 +2,7 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: false
-date: 2025-12-21T06:02:05.429Z
+date: 2025-12-21T06:02:13.522Z
 tags: dns, directorate, int area, ops area
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
