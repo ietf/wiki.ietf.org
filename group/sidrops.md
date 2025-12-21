@@ -2,13 +2,13 @@
 title: S
 description: Secure
 published: false
-date: 2025-12-21T06:43:22.903Z
+date: 2025-12-21T06:45:00.862Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
 ---
 
-[sidrops](/group/sidrops)> This page is related to an active IETF Working Group.
+[sidrops](/group/sidrops)[car-ct-issue-summary-v4.pdf](/test-folder/car-ct-issue-summary-v4.pdf)> This page is related to an active IETF Working Group.
 {.is-success}
 # Welcome to SIDROPS!
 
