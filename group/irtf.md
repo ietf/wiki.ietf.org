@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: false
-date: 2025-12-21T06:22:30.442Z
+date: 2025-12-21T06:23:45.566Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -37,29 +37,4 @@ dateCreated: 2022-12-21T15:42:30.650Z
  * [RFCs relating to IRTF policies and procedures](http://irtf.org/policies/)
  * [IRSG Teleconference Minutes](/group/irtf/irsgminutes/)
 
- * [What does the IRTF Chair do?](/group/iab/irtf-chair-activities)
- * [IRTF Document Shepherd Guidelines](/group/irtf/documentshepherdguidelines)
-
-## Wiki Pages of Concluded Research Groups 
-
- * [ASRG](http://wiki.asrg.sp.am) (now concluded)
- * [COINRG](/group/coinrg) (now concluded)
- * [EME](/group/eme) (now concluded)
- * [HIPRG](/group/hiprg) (now concluded)
- * [NFVRG](/group/nfvrg) (now concluded)
- * [P2PRG](/group/p2prg) (now concluded)
- * [PKNG](/group/pkng) (now concluded)
- * [SAMRG](/group/samrg) (now concluow conclg.org/)
- * [SDNRG](/group/sdnrg) (now concluded)
-
-
-## Other 
-
- * [IRTF Logo Files](https://irtf.org/policies/logo.html)
- * [IRTF web site source code]()
- * [ANRW Logo Files]()
- 
-
----
-
-*The content of this page was last updated on 2021-10-01. It was migrated fro
+ * [What does the IRTF Chair
