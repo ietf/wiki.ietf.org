@@ -2,7 +2,7 @@
 title: hon
 description: 
 published: false
-date: 2025-12-21T07:23:40.016Z
+date: 2025-12-21T07:25:46.817Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -10,12 +10,7 @@ dateCreated: 2025-09-22T19:36:14.882Z
 
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
-* :spiral_calendar: **When**: 14 - 15 March 2026 (Saturday - Sunday)
-* :hotel: **Where**: Futian Shangri-La
-* :cityscape: **Room**: TBD
-{.grid-list}
-
-**Sign up for the Hackathon**
+* :s
 * [Onsite registration](https://registration.ietf.org/125/new/hackathon_onsite/)
 * [Remote registration](https://registration.ietf.org/125/new/hackathon_remote/)
 {.links-list}
