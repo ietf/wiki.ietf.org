@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-12-22T04:08:08.391Z
+date: 2025-12-22T04:08:29.734Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -17,7 +17,8 @@ dateCreated: 2025-02-24T23:48:45.554Z
 **adopted:** 12/14/2023 (delayed to due checking with TEAS) 
 **adoption calls:** 3/01 to 3/14/2024 
 **WG LC **: 3/14 to 4/4/2025 (closed 12/21/2025 due to Spring interaction) 
-**current version:** -04, needs -05 
+**current version:** -04
+**next steps:** Needs -05 
 **Early Allocation**: NRP ID sub-TLV 123 (done)  
 **implementations:** 
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp/](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) 
