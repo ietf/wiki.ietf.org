@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-12-22T04:23:58.998Z
+date: 2025-12-22T04:26:16.458Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -25,6 +25,8 @@ dateCreated: 2025-02-24T23:48:45.554Z
 
 ## -04 Shepherd's report  
 draft: [daft-ietf-idr-sr-policy-nrp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-04)
+Email link: https://mailarchive.ietf.org/arch/msg/idr/KS2b-Bt-4rtI3jttdOliBUy_M5Y/
+
 This is a post WG LC shepherd report for draft-ietf-idr-sr-policy-nrp-04. 
 The authors need to publish -05 with these changes and fill out the 
 Implementation report.  After these tasks are accomplished, 
@@ -137,12 +139,6 @@ New text:/
    IANA has assigned the sub-TLV type as defined in Section 2 from "BGP
    Tunnel Encapsulation Attribute sub-TLVs" registry in the 
    BGP Tunnel Encapsulation Group. /
-
-
-
-
-  
-
 
 
 
