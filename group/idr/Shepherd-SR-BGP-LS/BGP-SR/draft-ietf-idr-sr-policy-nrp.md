@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-11-03T02:28:09.625Z
+date: 2025-12-22T04:08:08.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -13,20 +13,115 @@ dateCreated: 2025-02-24T23:48:45.554Z
 
 ## Summary 
 **draft:** [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-**status:** WG Draft (expires 3/2/2025)
+**status:** WG Consensus on Draft, final checks prior to publication  
 **adopted:** 12/14/2023 (delayed to due checking with TEAS) 
 **adoption calls:** 3/01 to 3/14/2024 
-**current version:** -04 
-**Early Allocation**: TBD 
+**WG LC **: 3/14 to 4/4/2025 (closed 12/21/2025 due to Spring interaction) 
+**current version:** -04, needs -05 
+**Early Allocation**: NRP ID sub-TLV 123 (done)  
 **implementations:** 
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp/](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) 
 
-## -04 Shepherd's report - pending 
+## -04 Shepherd's report  
 draft: [daft-ietf-idr-sr-policy-nrp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-04)
+This is a post WG LC shepherd report for draft-ietf-idr-sr-policy-nrp-04. 
+The authors need to publish -05 with these changes and fill out the 
+Implementation report.  After these tasks are accomplished, 
+the document will be forwarded to the IESG. 
 
-This shepherd's report will be completed after the spring WG meeting in IETF-124. 
-WG LC write-up awaits the specific results from spring interim and spring WG mail list.
-After Spring closes, the shepherd will recheck with TEAS WG on status. 
+Version:-04 
+Status: NITs needed to be changed to publication for 
+Clean description and for clear security description. 
+
+NITS – needed to be addressed before publication 
+
+1. Section 1, paragraph 4. 
+
+Old Text:/
+   In networks where there are multiple NRPs, an SR Policy may be
+   associated with a particular NRP.  The association between SR Policy
+   and NRP needs to be specified, so that for service traffic which is
+   steered into the SR Policy, the header of the packets can be
+   augmented with the information associated with the NRP.  The
+   association between SR Policy and NRP is described in
+   [I-D.jiang-spring-sr-policy-nrp].  An SR Policy candidate path can be
+   distributed using BGP SR Policy.  This document defines the
+   extensions to BGP SR policy to specify the NRP which the SR Policy
+   candidate path is associated with./
+
+Issue – NRP ID in BGP SR Policy is a control plan concept. 
+
+Suggested change: 
+
+Old text:/ This document defines the
+   extensions to BGP SR policy to specify the NRP which the SR Policy
+   candidate path is associated with./
+
+New text:/ This document defines the
+   extensions to BGP SR policy to specify the control plane 
+   NRP ID associated with the SR Policy candidate path./ 
+ 
+Note: This is a suggested change.  The important part is to 
+Emphasize that BGP is passing a control plane NRP ID. 
+
+2. Section 2, paragraph 4, starting with: When the NRP Sub-TLV is ..
+
+Old text:/ 
+   When the NRP sub-TLV is carried in the BGP Tunnel Encapsulation
+   Attribute of an SR Policy NLRI, a segment list of the candidate path
+   is considered invalid if the headend node of the SR Policy determines
+   that the set of network resources corresponding to the NRP ID on
+   network segments identified by the segment list do not exist./
+
+New text:/
+   When the NRP sub-TLV is carried in the BGP Tunnel Encapsulation
+   Attribute associated with an SR Policy NLRI, a segment list of the candidate path
+   is considered invalid if the headend node of the SR Policy determines
+   that the set of network resources corresponding to the NRP ID on
+   network segments identified by the segment list do not exist./
+
+
+3,  Section 4, paragraph 2, 3rd sentence. 
+
+Old text/ If the
+   NRP sub-TLV appears more than once, or its format is considered
+   malformed, the associated BGP SR Policy NLRI is considered malformed
+   and the "treat-as-withdraw" strategy of [RFC7606] MUST be applied./
+
+New text:/ If the
+   NRP sub-TLV appears more than once, or its format is considered
+   Malformed in the Tunnel Encapsulation Attribute, and all  
+   The associated BGP SR Policy NLRI are considered malformed
+   and the "treat-as-withdraw" strategy of [RFC7606] MUST be applied./ 
+
+4. Section 6, paragraph 2
+
+Old text:/
+   The NRP sub-TLV provides the NRP identifier that may be carried in
+   IPv6 Hop-by-Hop options header or used in the encapsulation of MPLS.
+   This NRP identifier can impact packet forwarding in a network so care
+   should be taken to protect this mission-critical or commercially
+   sensitive information during provisioning, query and report of the
+   NRP-ID in BGP./
+
+New text:/
+   The NRP sub-TLV provides a control plane NRP ID that is linked to the 
+   the NRP identifier (denoted as NRP Selector ID) that may be carried in
+   IPv6 Hop-by-Hop options header or used in the encapsulation of MPLS.
+   The control plane Identifier (NRP ID) can impact the packet forwarding 
+   because it is linked to the data plane forwarding in a network,  so care
+   should be taken to protect this mission-critical or commercially
+   sensitive information during provisioning, query, and report of the
+   NRP-ID in BGP./
+
+
+
+
+
+  
+
+
+
 
 ## -03 Shepherd's report 
 draft: [daft-ietf-idr-sr-policy-nrp-03](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-03)
