@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-12-22T04:08:29.734Z
+date: 2025-12-22T04:23:58.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -38,41 +38,47 @@ NITS – needed to be addressed before publication
 
 1. Section 1, paragraph 4. 
 
-Old Text:/
-   In networks where there are multiple NRPs, an SR Policy may be
-   associated with a particular NRP.  The association between SR Policy
-   and NRP needs to be specified, so that for service traffic which is
-   steered into the SR Policy, the header of the packets can be
-   augmented with the information associated with the NRP.  The
-   association between SR Policy and NRP is described in
-   [I-D.jiang-spring-sr-policy-nrp].  An SR Policy candidate path can be
-   distributed using BGP SR Policy.  This document defines the
-   extensions to BGP SR policy to specify the NRP which the SR Policy
-   candidate path is associated with./
+> Old Text:/
+>    In networks where there are multiple NRPs, an SR Policy may be
+>    associated with a particular NRP.  The association between SR Policy
+>    and NRP needs to be specified, so that for service traffic which is
+>    steered into the SR Policy, the header of the packets can be
+>    augmented with the information associated with the NRP.  The
+>    association between SR Policy and NRP is described in
+>    [I-D.jiang-spring-sr-policy-nrp].  An SR Policy candidate path can be
+>    distributed using BGP SR Policy.  This document defines the
+>    extensions to BGP SR policy to specify the NRP which the SR Policy
+>    candidate path is associated with./
 
 Issue – NRP ID in BGP SR Policy is a control plan concept. 
 
 Suggested change: 
 
-Old text:/ This document defines the
-   extensions to BGP SR policy to specify the NRP which the SR Policy
-   candidate path is associated with./
+> Old text:/ This document defines the
+>    extensions to BGP SR policy to specify the NRP which the SR Policy
+>    candidate path is associated with./
+{.is-info}
 
-New text:/ This document defines the
-   extensions to BGP SR policy to specify the control plane 
-   NRP ID associated with the SR Policy candidate path./ 
+> 
+> New text:/ This document defines the
+>    extensions to BGP SR policy to specify the control plane 
+>    NRP ID associated with the SR Policy candidate path./ 
+{.is-info}
+
  
 Note: This is a suggested change.  The important part is to 
 Emphasize that BGP is passing a control plane NRP ID. 
 
 2. Section 2, paragraph 4, starting with: When the NRP Sub-TLV is ..
 
-Old text:/ 
-   When the NRP sub-TLV is carried in the BGP Tunnel Encapsulation
-   Attribute of an SR Policy NLRI, a segment list of the candidate path
-   is considered invalid if the headend node of the SR Policy determines
-   that the set of network resources corresponding to the NRP ID on
-   network segments identified by the segment list do not exist./
+> Old text:/ 
+>    When the NRP sub-TLV is carried in the BGP Tunnel Encapsulation
+>    Attribute of an SR Policy NLRI, a segment list of the candidate path
+>    is considered invalid if the headend node of the SR Policy determines
+>    that the set of network resources corresponding to the NRP ID on
+>    network segments identified by the segment list do not exist./
+{.is-info}
+
 
 New text:/
    When the NRP sub-TLV is carried in the BGP Tunnel Encapsulation
@@ -89,32 +95,48 @@ Old text/ If the
    malformed, the associated BGP SR Policy NLRI is considered malformed
    and the "treat-as-withdraw" strategy of [RFC7606] MUST be applied./
 
-New text:/ If the
-   NRP sub-TLV appears more than once, or its format is considered
-   Malformed in the Tunnel Encapsulation Attribute, and all  
-   The associated BGP SR Policy NLRI are considered malformed
-   and the "treat-as-withdraw" strategy of [RFC7606] MUST be applied./ 
+> New text:/ If the
+>    NRP sub-TLV appears more than once, or its format is considered
+>    Malformed in the Tunnel Encapsulation Attribute, and all  
+>    The associated BGP SR Policy NLRI are considered malformed
+>    and the "treat-as-withdraw" strategy of [RFC7606] MUST be applied./ 
+{.is-info}
+
 
 4. Section 6, paragraph 2
 
+> Old text:/
+>    The NRP sub-TLV provides the NRP identifier that may be carried in
+>    IPv6 Hop-by-Hop options header or used in the encapsulation of MPLS.
+>    This NRP identifier can impact packet forwarding in a network so care
+>    should be taken to protect this mission-critical or commercially
+>    sensitive information during provisioning, query and report of the
+>    NRP-ID in BGP./
+> 
+{.is-info}
+
+> New text:/
+>    The NRP sub-TLV provides a control plane NRP ID that is linked to the 
+>    the NRP identifier (denoted as NRP Selector ID) that may be carried in
+>    IPv6 Hop-by-Hop options header or used in the encapsulation of MPLS.
+>    The control plane Identifier (NRP ID) can impact the packet forwarding 
+>    because it is linked to the data plane forwarding in a network,  so care
+>    should be taken to protect this mission-critical or commercially
+>    sensitive information during provisioning, query, and report of the
+>    NRP-ID in BGP./
+> 
+{.is-info}
+
+
+5. Sectino 7, paragraph 1. 
+
 Old text:/
-   The NRP sub-TLV provides the NRP identifier that may be carried in
-   IPv6 Hop-by-Hop options header or used in the encapsulation of MPLS.
-   This NRP identifier can impact packet forwarding in a network so care
-   should be taken to protect this mission-critical or commercially
-   sensitive information during provisioning, query and report of the
-   NRP-ID in BGP./
-
+   IANA has assigned the sub-TLV type as defined in Section 2 from "BGP
+   Tunnel Encapsulation Attribute sub-TLVs" registry./
 New text:/
-   The NRP sub-TLV provides a control plane NRP ID that is linked to the 
-   the NRP identifier (denoted as NRP Selector ID) that may be carried in
-   IPv6 Hop-by-Hop options header or used in the encapsulation of MPLS.
-   The control plane Identifier (NRP ID) can impact the packet forwarding 
-   because it is linked to the data plane forwarding in a network,  so care
-   should be taken to protect this mission-critical or commercially
-   sensitive information during provisioning, query, and report of the
-   NRP-ID in BGP./
-
+   IANA has assigned the sub-TLV type as defined in Section 2 from "BGP
+   Tunnel Encapsulation Attribute sub-TLVs" registry in the 
+   BGP Tunnel Encapsulation Group. /
 
 
 
