@@ -2,7 +2,7 @@
 title: Implementatino Reprot for draft-ietf-idr-sr-policy-nrp
 description: Implementations draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-02-28T12:58:34.147Z
+date: 2025-12-22T02:44:53.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:30:13.907Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-22T13:30:13.907Z
 # Implementation Report for draft-ietf-idr-sr-policy-nrp
 
 Draft:  [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-policy-nrp/)
-Current version: -01 
+Current version: -04 
 Status: WG draft, adopted (8/12/2024 upload), WG LC requested 
 WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp. 
 implementation report: 
