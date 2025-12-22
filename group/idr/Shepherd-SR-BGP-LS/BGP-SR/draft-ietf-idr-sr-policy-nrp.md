@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-12-22T04:26:16.458Z
+date: 2025-12-22T04:33:24.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
