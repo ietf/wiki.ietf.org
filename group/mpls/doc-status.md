@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-12-20T18:49:15.643Z
+date: 2025-12-29T20:48:02.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -28,7 +28,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | --- | --- | --- | --- | --- | --- |
 | 2025-12-02 | [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | Ongoing | Pending |  | Tarek |
 | 2025-12-01 | [draft-xiao-mpls-lsp-ping-ioam-conf-state](https://datatracker.ietf.org/doc/draft-xiao-mpls-lsp-ping-ioam-conf-state/) | Ongoing | Pending |  | Adrian |
-| 2025-12-01 | [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | Pending | Ongoing |  | Tony |
+| 2025-12-01 | [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | Ongoing | Pending |  | Tony |
 
 
 ## In Adoption Poll
@@ -36,6 +36,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
 |[draft-songvar-mpls-mna-detnet](https://datatracker.ietf.org/doc/draft-songvar-mpls-mna-detnet/) | Jan 7, 2026| Pending | Tony |
+
 ## Adoption Poll Complete But Pending Author Action
 
 Adoption polls may succeed or fail. In the case of failure, the document moves back to being just another individual I-D. In case of success, the chairs may instruct the authors to re-post the draft as a working group document before addressing the comments received from the working group, but sometimes adoption will be dependent on the authors making specific changes to the document. This state captures such documents.
@@ -62,7 +63,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | New version (-15) posted. All issues cleared |  | Tarek |
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Ongoing | New version (-15) posted. All issues cleared |  | Tarek |
 | 2025-12-02 | [draft-ietf-mpls-mna-ps-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-ps-hdr/) | Pending | Pending | Response to reviews oustanding | Adrian |
 
 ## In Working Group Last Call
@@ -76,7 +77,6 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 | --- | --- | --- | --- |
-| 2025-12-02 | [draft-ietf-mpls-mna-nrp-selector](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-nrp-selector/) | Need closure on issue on list | Adrian |
 
 ## Post Working Group Last Call
 
