@@ -1,8 +1,8 @@
 ---
 title: GAIA RG - Global Access to the Internet for All Research Group 
 description: Wiki for GAIA RG
-published: false
-date: 2025-12-21T06:10:12.859Z
+published: true
+date: 2026-01-01T06:45:15.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T00:41:11.971Z
