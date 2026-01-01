@@ -1,15 +1,21 @@
 ---
-title: 999
+title: IETF 125 Hackathon
 description: 
-published: false
-date: 2025-12-21T07:32:38.795Z
+published: true
+date: 2026-01-01T02:21:59.865Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
 ---
 
+The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
-* :s
+* :spiral_calendar: **When**: 14 - 15 March 2026 (Saturday - Sunday)
+* :hotel: **Where**: Futian Shangri-La
+* :cityscape: **Room**: TBD
+{.grid-list}
+
+**Sign up for the Hackathon**
 * [Onsite registration](https://registration.ietf.org/125/new/hackathon_onsite/)
 * [Remote registration](https://registration.ietf.org/125/new/hackathon_remote/)
 {.links-list}
@@ -53,7 +59,9 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-1.   * Monday, 16 Ma
+  * Monday, 16 March, Time: 19:00 - 20:00, Room: **TBD**
+  * View the [schedule](hackdemo) or reserve space for your team/project
+    * Reservations for space must be made by 13:00, Monday 16 March
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
@@ -98,7 +106,9 @@ If you received the email but the link to create an account has expired, please 
 ### Choosing a Project
    * Champions post and lead projects 
    * Details on each project and links to additional information for each project are in the list of [Projects included in Hackathon](#projects-included-in-hackathon) 
-   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamsche Familiarity with technology area(s) in which you plan to participat
+   * How and when teams meet during the week is up to them and can be found in the [Team Schedule](teamschedule).
+   * Familiarity with technology area(s) in which you plan to participate will certainly help
+   * It is perfectly fine, even encouraged, to work on multiple projects 
    
 ### Lost & Found
    *  Participants looking for a team and champions wanting help on their projects are encouraged to visit the [Lost & Found](lost&found).
@@ -127,12 +137,19 @@ If you received the email but the link to create an account has expired, please 
 The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
 
 * [How to Instructions](/meeting/125/hackathon/hacknet_instructions)
+
+Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
+All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
+{.links-list}
+
 ## Webex sessions for teams
 Champions can request a Webex account they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts will remain active and available for the duration of the IETF meeting. Request your account [HERE](https://www.ietf.org/forms/wg-webex-account-request/). In the request form, you can use your project name where it asks for "Working Group Name" ("Hackathon Project Name").
 
 ## Ongoing Communication
 
 In addition to registering for the Hackathon and [subscribing](https://www.ietf.org/mailman/listinfo/hackathon) to the Hackathon list. It is recommended to monitor both the Hackathon wiki and the list as the Hackathon approaches, determine which project(s) are of interest to you, and reach out to the champions of those projects to determine how best to be involved and coordinate with the rest of the team working on each project.
+
+Champions are welcome and encouraged to list times and mechanisms for collaborating with their team in the [Team Schedule](teamschedule). Participants can use this page to determine how and when to reach other team members. 
 
 The Hackathon kickoff and the project results presentations can be joined via Meetecho. The Hackathon Zulip stream may be used for general and project specific communication.
 
@@ -146,7 +163,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 ---
 
 ## Projects Included in Hackathon
-<!-- Use #projects-included-in-hackathon in your links to go directly this section
+<!-- Use #projects-included-in-hackathon in your links to go directly this section! -->
+
 *Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
@@ -175,5 +193,7 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 name and email
 - **Project Info**
 project description
+```
+----
 
-*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accou
+*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
