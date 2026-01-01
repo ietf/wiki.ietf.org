@@ -2,8 +2,8 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-02T18:40:13.386Z
-tags: 
+date: 2026-01-01T06:57:51.408Z
+tags: readonly
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
 ---
