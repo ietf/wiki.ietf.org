@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-11-02T23:33:22.435Z
+date: 2026-01-04T14:44:52.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -20,7 +20,14 @@ dateCreated: 2025-02-26T02:37:13.865Z
 **Early Allocation**: Early allocation call (11/2 to 11/17/2025) 
 **implementations:** H3C and ZTE (2 implementations) 
 **WG LC:** Needs implementation report + -04 with editorial change below  
-**bgp-ls draft:** n
+**bgp-ls draft:** none 
+
+## Review of -00 (renamed)
+**status**: Renamed per IDR Chair's request. 
+### Editorial: 
+Issue-1: Please change the reference to draft-ietf-idr-sr-policy-safi to 
+RFC9830. 
+
 
 ## Review of -04 
 **draft:** [draft-ietf-idr-bgp-srmpls-elp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-04)
