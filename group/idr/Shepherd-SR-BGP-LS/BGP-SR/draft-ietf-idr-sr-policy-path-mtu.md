@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2026-01-05T01:33:14.263Z
+date: 2026-01-05T20:34:41.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -16,18 +16,27 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **Type:** Proposed Standard 
 **status:** WG Draft, needs revision 13 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
-**current version:** -12
+**current version:** -14
 **Early Allocation**: yes, call (1/5/2026 - 1/19/2026) 
 **implementations:** 1 (Huawei in VRP8)    
 **related bgp-ls draft:** none
+
+## Review for -14 
+**Summary**: Technical issue 1 from -13 has been resolved. No open issues. 
+**Next steps:** 
+1. 2 week Early allocation call (1/5 to 1/19)
+2. Early Allocation of SubTLV 
+3. Interoperability testing with 2 implementations 
+4. Apply for WG LC - and get shepherd review 
+
 
 ## Review -13 
 **Summary**: Technical issues 2-4 from the review of -10, -11 and -12 aare complete.  An early allocation request has been sent. 
 
 **Next steps: **
 1. release -14 with Technical issue-01 changes 
-2. Get shepherd's review of -13
-3. If -13 is ok, then do 2 week Early Allocation call 
+2. Get shepherd's review of -14
+3. If -14 is ok, then do 2 week Early Allocation call 
 
 
 ### Technical/Editorial issues - must be 
