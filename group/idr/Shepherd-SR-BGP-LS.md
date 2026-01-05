@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-05T22:29:42.550Z
+date: 2026-01-05T23:40:20.118Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -81,7 +81,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### BGP-LS WG drafts (alphabetical order) 
 
--  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) - **Needs -05** for RFC update. Early allocation OK with -04.  
+-  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) - **Needs -05** for RFC update. **Early allocation check** on the sub-registry name (1/5/2026) 
 
 - [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - needs -01 to address technical errors 
 
