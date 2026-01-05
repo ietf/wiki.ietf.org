@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2025-03-21T06:00:21.131Z
+date: 2026-01-05T02:40:29.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **Type:** Proposed Standard 
 **WG status:** Individual draft   
 **call for adoption:** authors feel ready, needs revision (-04) + Check for Spring  
-**current version:** 03 
+**current version:** 03, Needs -04  
 **spring document**: draft-chen-spring-sr-policy-cp-validity 
 **Early Allocation**: needs early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
@@ -25,7 +25,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 ## Review draft-chen-idr-bgp-sr-policy-cp-validity -03 
 
 **draft:** [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-sr-policy-cp-validity-03)
-**Status**: All issues in shepherd review of -02 resolved.  TEA template check    
+**Status**: Needs -04 to resolve issues.   
 **implementations:** unknown 
 **email:** https://mailarchive.ietf.org/arch/msg/idr/rRev0V44j0jNoQY6B07nA61MRkg/ 
 **Authors:** 5 
@@ -72,6 +72,8 @@ augments BGP SR imnplementations?  You do not have to create the module, merely 
 
 If bgp-ls would be helpful in monitoring the the headend setting of this value, please indicate how it would be useful. 
 
+#### Issue-3: Please update references 
+please update from draft-ietf-idr-sr-policy-safi to RFC9830. 
 
 
 ## Review -02 
