@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-lin-idr-srv6-policy-headend-behavior
 description: Shepherd draft-lin-idr-srv6-policy-headend-behavior
 published: true
-date: 2026-01-05T02:58:04.327Z
+date: 2026-01-05T03:06:50.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:11:15.843Z
@@ -25,7 +25,7 @@ dateCreated: 2025-02-25T23:11:15.843Z
 **Summary:** Resolved -04 action issues 1 and 2. For clarity, need to make the editorial changes below. 
 
 ### Technical review: 
-#### Technical Issue 1, Make clear behaviors are headend behaviors
+#### Technical Issue 1, Make clear that behaviors are headend behaviors
 
 Abstract: old text:/
 >  	   RFC8986 defines H. Encaps behavior, H. Encaps.Red behavior, H.	
