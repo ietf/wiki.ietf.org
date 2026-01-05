@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2026-01-05T01:31:39.209Z
+date: 2026-01-05T01:33:14.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -23,6 +23,12 @@ dateCreated: 2025-02-25T00:09:15.826Z
 
 ## Review -13 
 **Summary**: Technical issues 2-4 from the review of -10, -11 and -12 aare complete.  An early allocation request has been sent. 
+
+**Next steps: **
+1. release -14 with Technical issue-01 changes 
+2. Get shepherd's review of -13
+3. If -13 is ok, then do 2 week Early Allocation call 
+
 
 ### Technical/Editorial issues - must be 
 #### Issue-1: Specify IANA assignments in TBDnnn format, in section 3 + 6 
@@ -46,10 +52,6 @@ dateCreated: 2025-02-25T00:09:15.826Z
 {.is-info}
 
 
-Next steps: 
-1. release -14 with Technical issue-01 changes 
-2. Get shepherd's review of -13
-3. If -13 is ok, then do 2 week Early Allocation call 
 
 ## Review -12 
 **Summary:** Technical issues from -10 are not resolved in -12. Also, the name of the 
