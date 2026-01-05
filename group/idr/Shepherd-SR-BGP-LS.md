@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-05T00:11:58.001Z
+date: 2026-01-05T00:28:26.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -27,7 +27,7 @@ none
 
 - [draft-ietf-idr-bgp-sr-mpls-elp-00](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/) - [(-01) to (-04), renamed (-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - Allocation requested, needs -01 for reference update. 
 
-- [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-p2mp-policy) - Expired in May 2022.  
+- [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-p2mp-policy) - Request update   
 
 - [draft-ietf-idr-sr-policy-ifit](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) -  [00 - 02](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)) -  
 
