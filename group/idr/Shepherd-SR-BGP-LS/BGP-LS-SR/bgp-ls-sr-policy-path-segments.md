@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-ls-sr-policy-path-segment
 description: Shepherd draft-ietf-idr-bgp-ls-sr-policy-path-segment
 published: true
-date: 2025-11-03T04:55:05.564Z
+date: 2026-01-05T23:05:25.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:04:21.400Z
@@ -24,7 +24,12 @@ dateCreated: 2025-02-22T18:04:21.400Z
 **Augments:** [RFC9552], [RFC9857](https://datatracker.ietf.org/doc/rfc9857/)
 **status:** Awaiting changes necessary from the linked SR draft
 [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)
-
+**next steps:** 
+1. resolve early allocation for discussion with BGP SR draft
+[draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)
+2. IANA early allocation of BGP-SR and BGP-LS draft at same time. 
+3. Implementations 
+4. WG LC 
 
 ## -08 Review
 **status:** WG draft
