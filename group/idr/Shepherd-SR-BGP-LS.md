@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-05T22:29:29.553Z
+date: 2026-01-05T22:29:42.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
