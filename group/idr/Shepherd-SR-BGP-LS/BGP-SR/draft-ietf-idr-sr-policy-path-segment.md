@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2025-09-16T20:47:56.341Z
+date: 2026-01-05T22:07:36.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -23,8 +23,10 @@ dateCreated: 2025-02-25T01:30:56.613Z
 
 ## Review -14
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-14](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-14)
-**Status:** Soft allocation done, AD requested to do early allocation now that blocker is done. Authors have responded to Sue's point.  Jeff to audit whether author's response covers Sue's point.**
-**email:** https://mailarchive.ietf.org/arch/msg/idr/XyLbyZ0-Qy_zq9MgFumcmY6wjhY/ - author's response to Sue's 13 review.
+**Status:** Summary, alll technical issues and editorial issues cleared. 
+**email:** [response to Sue's -13 review](https://mailarchive.ietf.org/arch/msg/idr/XyLbyZ0-Qy_zq9MgFumcmY6wjhY/)
+**next steps**: 
+1. Early allocation check with Ketan
 
 ## Review -13 
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-13](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-13)
