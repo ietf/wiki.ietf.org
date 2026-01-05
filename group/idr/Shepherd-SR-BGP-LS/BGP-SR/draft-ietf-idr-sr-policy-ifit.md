@@ -2,7 +2,7 @@
 title: draft-ietf-idr-sr-policy-ift Shepherd Reports 
 description: Shepherd report for draft-ietf-idr-sr-policy-ift
 published: true
-date: 2026-01-05T21:33:33.820Z
+date: 2026-01-05T21:44:21.427Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-05T20:42:40.669Z
@@ -14,6 +14,7 @@ draft: [draft-ietf-idr-sr-policy-ifit](https://datatracker.ietf.org/doc/draft-ie
 version: -11
 implementations: none 
 status: WG draft
+Shepherd: Susan Hares (sharesa@ndzh.com)
 
 ## Revision -11 Shepherd's review 
 ### Technical issues in -11 
@@ -67,7 +68,7 @@ What processing occurs if the 2 IFIT SubTLVs are duplicates?
 >                     Segment
 {.is-info}
 
-#### Technial issue 4, Section 5 and 6: SRPM validation versus BGP
+#### Technical issue 4, Section 5 and 6: SRPM validation versus BGP
 
 > Section 5 Text:/ If two
 >    conflicting IOAM sub-TLVs are present (e.g.  Pre-allocated Trace
@@ -86,16 +87,16 @@ drop these two SubTLVs before handing the data to the SRPM?
 I've read the paragraph several times, and I cannot definitely state
 whether the BGP process is dropping two duplicate SubTLVs types within the 
 IFIT Attribute without checking the content.  The validation 
-of the content is handled by the SRPM.  Setdion 
+of the content is handled by the SRPM.   
 
-Section 6 text:/
+Section 6 text states:/
 
    The validation of the IFIT Attributes sub-TLVs introduced in this
    document MUST be performed to determine if they are malformed or
    invalid.  The validation of the individual fields of the IFIT
    Attributes sub-TLVs are handled by the SRPM (SR Policy Module)./
    
- Setion 6 would suggested that the IFIT Attribute SubTLV is 
+ Section 6 would suggested that the IFIT Attribute SubTLV is 
  malformed if two SubTLVs of the same type within the IFIT 
  SubTLV (e.g.  two IOAM Pre-allocated Trace Option Sub-TLV). 
  Please clarify both section 5 and 6.  
