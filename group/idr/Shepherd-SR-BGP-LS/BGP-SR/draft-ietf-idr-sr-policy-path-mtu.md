@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2025-11-03T02:55:17.936Z
+date: 2026-01-05T01:31:39.209Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -17,9 +17,39 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **status:** WG Draft, needs revision 13 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -12
-**Early Allocation**: yes, needs -13 revision 
-**implementations:** 1 (Huawei in VRP)   
+**Early Allocation**: yes, call (1/5/2026 - 1/19/2026) 
+**implementations:** 1 (Huawei in VRP8)    
 **related bgp-ls draft:** none
+
+## Review -13 
+**Summary**: Technical issues 2-4 from the review of -10, -11 and -12 aare complete.  An early allocation request has been sent. 
+
+### Technical/Editorial issues - must be 
+#### Issue-1: Specify IANA assignments in TBDnnn format, in section 3 + 6 
+
+**Section 3: **
+
+> Old text: /Type: to be assigned by IANA./
+{.is-info}
+
+> New text: /Type: TBD1 (to be assigned by IANA). 
+{.is-info}
+
+**Section 6: **
+> Old text:/
+>  TBA     Path MTU sub-TLV                            This document/
+{.is-info}
+
+ 
+>  Next text:/
+>  TBD1     Path MTU sub-TLV                            This document/
+{.is-info}
+
+
+Next steps: 
+1. release -14 with Technical issue-01 changes 
+2. Get shepherd's review of -13
+3. If -13 is ok, then do 2 week Early Allocation call 
 
 ## Review -12 
 **Summary:** Technical issues from -10 are not resolved in -12. Also, the name of the 
@@ -32,7 +62,7 @@ Next steps:
 3. If -13 is ok, then do 2 week Early Allocation call 
 
 ## Review -11
-**Summary:** All Technical issues and Editorial issues from Review of -10 need to be addressed
+**Summary:** All Technical issues and Editorial issues from the Review of -10 need to be addressed
 
 ## Review -10 
 draft: [draft-ietf-idr-sr-policy-path-mtu-10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-mtu-10)
@@ -76,19 +106,15 @@ New text for section 4:/**
 
 #### Issue-3 - Section 4, Does this Sub-TLV play a part of the validation 
 
-Please state clearly that this Sub-TLV does not play a part of BGP's validation of this 
-tunnel. 
+Please state clearly that this Sub-TLV does not play a part of BGP's validation of this tunnel. 
 
 > **current text:** / The consumer of the SR policies is not the BGP process. The operation of sending information to consumers is out of scope of this document./ 
 {.is-info}
 
 
 > **New text:/** The consumer of the SR policies is not the BGP process.  The bgp process does not validate
-> the tunnel based on the SR Policy information (including the Path MTU Sub-TLV). 
+> the tunnel based on the SR Policy information (including the Path MTU Sub-TLV). The operation of sending information to consumers is out of scope of this document. / 
 {.is-info}
-
-
-The operation of sending information to consumers is out of scope of this document. / 
 
 #### Issue-4:  Missing Manageability section 
 
