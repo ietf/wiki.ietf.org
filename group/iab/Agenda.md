@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-17T16:17:15.921Z
+date: 2026-01-06T13:19:20.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -66,8 +66,11 @@ For approval:
 
 * Mirja (until Feb 2)
 
- 
+## Possible agenda Items for the Formal if there is time
 
+- Wiki update - Dhruv
+	- Workshop [(Diff)](https://github.com/dhruvdhody/wiki.ietf.org/commit/781322724fe58f2fba78f058fca79e4fa487066f)
+	- Guidance for External Events [(GitHub)](https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
 
 ## Topics for Future Informal Meetings
 
