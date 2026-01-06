@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - IDR Shepherd Reviews 
 description: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle Review   
 published: true
-date: 2025-11-03T04:08:28.025Z
+date: 2026-01-06T21:49:07.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:43:35.602Z
@@ -25,12 +25,15 @@ Upon -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
 **IANA Allocations:** none needed 
 **SR draft:** none 
 **Next step prior to WG-LC:**  
-1. Revise for -01,  
-2. After -01 then fill out implementation report. 
-3. After -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
+1. Revise for -02
+2. After -02 then fill out implementation report. 
+3. After -02, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
+
+## -01 review 
+None of the technical issues cited in the shepherd's review for -00 have been addressed.  Please release a version -02 with these issue
 
 
-## -00 review for draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle
+## -00 review  
 **draft (-00): [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/)
 
 ### Technical issues: 
@@ -82,7 +85,7 @@ replace with:
   
   replaced with: 
 >    Note that for directly connected EBGP neighbors, if a BGP neighbor is
->    established over an L2 Bundle, an additional BGP-LS Link NLRI (as
+>    established over an L2 Bundle, an additional BGP-LS Link **NLRI (as**
 >    described in Section 5.2 of [RFC9086]) must be generated to advertise
 >    Peer Link information when generating the BGP-LS Link NLRI (as
 >    described in Section 5.1 of [RFC9086]) corresponding to the PeerNode
@@ -104,7 +107,7 @@ Current text:
 Replace with: 
 >    *  Link Attribute TLVs:
 > 
->       -  include the PeerAdj SID TLV [RFC9086] for Peer Link (Optional)
+>       -  include the PeerAdj SID TLV [RFC9086] for Peer **Link (Optional)**
 > 
 >       -  include the L2 Bundle Member Attributes TLV.
 > 
