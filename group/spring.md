@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-12-18T14:31:30.743Z
+date: 2026-01-06T20:10:50.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -80,10 +80,7 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * [Responsible Chair: Bruno]
   * 2025-07-10 Authors sent request.
   * 2025-10-22 Related to draft-ietf-v6ops-framework-md-ipv6only-underlay which does not seem to explicitly call for an SRv6 extension
-* draft-karboubi-spring-sr-policy-eligibility
-  * [Responsible Chair: Alvaro]
-  * 2025-07-25 (IETF 123) Authors sent request
-  * 2025-11-25 [Adoption Call](https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
+(https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
 * draft-watal-spring-srv6-sfc-sr-aware-functions
   * 2025-11-04 (IETF 124) Authors sent request
 * draft-ali-spring-sr-service-programming-oam
