@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2025-12-18T14:31:11.837Z
+date: 2026-01-06T20:10:46.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -91,3 +91,8 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * (Call) https://mailarchive.ietf.org/arch/msg/spring/UYvEIbE1Tu1q_BMDVQXfSJs4J1g/
   * (IPR) https://mailarchive.ietf.org/arch/msg/spring/dqszuWaslx54VwcvlN6PydpZb8Q/
   * Adopted as draft-ietf-spring-srv6-policy-sid-list-opt
+* draft-karboubi-spring-sr-policy-eligibility
+  * [Responsible Chair: Alvaro]
+  * 2025-07-25 (IETF 123) Authors sent request
+  * 2025-11-25 [Adoption Call]
+  * 2026-01-06 Adopted!
