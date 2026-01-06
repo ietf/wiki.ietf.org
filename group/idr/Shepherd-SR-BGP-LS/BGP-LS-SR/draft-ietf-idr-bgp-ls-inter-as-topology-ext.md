@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-inter-as-topology-ext Shepherd Reviews 
 description: Shepherd for draft-ietf-idr-bgpl-s-inter-as-topology-ext
 published: true
-date: 2026-01-06T00:31:53.744Z
+date: 2026-01-06T00:32:40.708Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T00:11:12.999Z
@@ -23,7 +23,9 @@ https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-to
 
 2. IDR chair will request early directorate review 
 3. IDR chair will request IDR Chair review 
-4. Start W
+4. If IDR Chair Review has no commets, we'll start WG LC on 1/9/2026
+   If IDR Chair Review has comments, then I'll post the comments to
+   the shepherd review page. 
 
 ## Review -18 
 
