@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2026-01-06T23:23:49.170Z
+date: 2026-01-06T23:36:39.348Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **Type:** Proposed Standard 
 **WG status:** Individual draft   
 **call for adoption:** authors feel ready, needs revision (-04) + Check for Spring  
-**current version:** 03, Needs -04  
+**current version:** 04, Needs -05   
 **spring document**: draft-chen-spring-sr-policy-cp-validity 
 **Early Allocation**: needs early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
@@ -23,6 +23,8 @@ dateCreated: 2025-02-25T14:26:50.442Z
 
 
 ## Version -04 
+The technical issues from -03 review remain.  Please address these 
+in -05. 
 
 ## Version -03 
 
@@ -64,14 +66,13 @@ Section 4 should indicate that it is the SRPM in the headend that is making use 
 3. You need to create a manageability section 
 
 Consider two questions: 
-- 3-a) Would setting configuration by Yang module  
+- 3-a) Could these parameters by set in configuration by Yang module? 
 
-If the headend uses configuration to set these values, should a Yang module be created that 
-augments BGP SR imnplementations?  You do not have to create the module, merely indicate that it is useful. 
+If the headend uses configuration to set these values, should a Yang module be created that augments BGP SR implementations?  You do not have to create the module, merely indicate that it is useful. 
 
 - 3-b) Monitoring of the information by BGP-LS 
 
-If bgp-ls would be helpful in monitoring the the headend setting of this value, please indicate how it would be useful. 
+If bgp-ls would be helpful in monitoring the headend setting of this value, please indicate how it would be useful. 
 
 #### Issue-3: Please update references 
 please update from draft-ietf-idr-sr-policy-safi to RFC9830. 
