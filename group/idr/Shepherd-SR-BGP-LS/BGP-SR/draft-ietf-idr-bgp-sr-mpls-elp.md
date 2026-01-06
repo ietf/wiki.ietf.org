@@ -2,13 +2,13 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2026-01-04T14:44:52.198Z
+date: 2026-01-06T21:09:56.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
 ---
 
-# Shepherd Reviews for draft-ietf-idr-bgp-srmpls-elp (draft-ietf-idr-bgp-srmpls-elp)
+# Shepherd Reviews for draft-ietf-idr-bgp-srmpls-elp (draft-ietf-idr-bgp-sr-mpls-elp)
 
 ## Summary 
 **draft:**  [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp)
@@ -17,7 +17,7 @@ dateCreated: 2025-02-26T02:37:13.865Z
 **status:** WG Draft  
 **adopted:**  8/12/2024 (7/12/2024 - 7/30/2024) 
 **current version:** 04
-**Early Allocation**: Early allocation call (11/2 to 11/17/2025) 
+**Early Allocation**: Ok by Ketan, waiting for IANA 
 **implementations:** H3C and ZTE (2 implementations) 
 **WG LC:** Needs implementation report + -04 with editorial change below  
 **bgp-ls draft:** none 
