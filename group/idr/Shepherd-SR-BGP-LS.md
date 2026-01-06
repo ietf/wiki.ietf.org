@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-06T22:54:39.502Z
+date: 2026-01-06T23:37:48.148Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -48,7 +48,7 @@ none
 
 ### SR Pre-Adoption Drafts 
 
-- [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - **Needs -04** to resolve issues prior to adoption  
+- [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - **Needs -05** to resolve issues prior to adoption  
 
 - [draft-jiang-idr-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) - **Needs -04** to resolve issues prior to adoption 
 
