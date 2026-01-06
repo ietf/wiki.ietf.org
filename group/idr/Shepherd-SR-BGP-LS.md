@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-06T01:35:31.625Z
+date: 2026-01-06T01:35:51.922Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -62,9 +62,9 @@ none
 
 - [draft-zhang-idr-sr-policy-enhanced-detnet](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-enhanced-detnet/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-enhanced-detnet) - **pending review of -03 **
 
-- [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/) - [(-03) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-template/) - **pending -05 **
+- [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/) - [(-03) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-template/) - **pending -05**
 
-- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/) - **new** 
+- [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/) - **pending reivew of -08**
 
 
 
