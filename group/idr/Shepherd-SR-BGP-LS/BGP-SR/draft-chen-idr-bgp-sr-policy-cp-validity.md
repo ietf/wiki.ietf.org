@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2026-01-05T02:40:29.862Z
+date: 2026-01-06T23:21:39.368Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -30,11 +30,10 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **email:** https://mailarchive.ietf.org/arch/msg/idr/rRev0V44j0jNoQY6B07nA61MRkg/ 
 **Authors:** 5 
 
-### Status of -02 shepherd review 
-All issues mentioned in shepherd review-02 have been resolved. 
-
 ### Technical Issues in -03 
-#### issue-1: Better form for IANA type 
+All Technical issues from -02 have been resolved. These issues need to be resolvedin -04. 
+
+#### Technical issue-1: Better form for IANA type 
 
 **Section 3:**
 old text:/ 
