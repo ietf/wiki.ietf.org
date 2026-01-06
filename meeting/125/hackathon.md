@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-06T15:16:43.101Z
+date: 2026-01-06T17:58:50.141Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -66,8 +66,8 @@ Related activities before and after the Hackathon weekend
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
   * Monday - Friday, 16 - 20 March, Room: **TBD** 
-  * View the [schedule](codelounge) or reserve space for your team/project
 
+## Meetecho
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
 When you register for the IETF Hackathon, you are sent a separate email to create an IETF Datatracker account if you don't already have one. 
