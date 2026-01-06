@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-lin-idr-srv6-policy-headend-behavior
 description: Shepherd draft-lin-idr-srv6-policy-headend-behavior
 published: true
-date: 2026-01-06T23:42:14.909Z
+date: 2026-01-06T23:57:28.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:11:15.843Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-25T23:11:15.843Z
 **Type:** Proposed Standard 
 **status:** Individual Draft, expired (11/6/2024) 
 **adoption Call:** TBD 
-**current version:** 05, Needs -06 
+**current version:** 05
 **Early Allocation**: needs early allocation after adoption. 
 **implementations:**  
 **bgp-ls draft:** none
@@ -23,6 +23,7 @@ dateCreated: 2025-02-25T23:11:15.843Z
 
 ## Review -05 
 **Summary:** Resolved -04 action issues 1 and 2. For clarity, need to make the editorial/technical changes below. 
+Review [email](https://mailarchive.ietf.org/arch/msg/idr/XFKiGhuVq8EORwxwAQWEvydJTn8/)
 
 ### Technical review: 
 #### Technical Issue 1, Make clear that behaviors are headend behaviors
