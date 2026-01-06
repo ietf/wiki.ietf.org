@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2026-01-06T00:19:33.781Z
+date: 2026-01-06T00:19:49.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
@@ -15,7 +15,7 @@ dateCreated: 2024-11-14T20:16:59.450Z
 **Shepherd:** Susan Hares (shares@ndzh.com) 
 **Draft status:** WG Draft, expired November 14, 2022
 **Publication Status:** Proposed Standard, 
-**version: **revision needed (-05) 
+**version: **revision needed (-05)**
 **Early Allocation:"" Needs -05 for call 
 **implementations:** unknown
 **Authors:** 6 
