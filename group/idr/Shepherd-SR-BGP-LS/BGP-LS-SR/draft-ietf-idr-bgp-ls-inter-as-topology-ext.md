@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-inter-as-topology-ext Shepherd Reviews 
 description: Shepherd for draft-ietf-idr-bgpl-s-inter-as-topology-ext
 published: true
-date: 2026-01-06T00:11:12.999Z
+date: 2026-01-06T00:31:53.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T00:11:12.999Z
@@ -16,6 +16,14 @@ draft-ietf-idr-bgp-ls-inter-as-topology-ext
 
 **Version:** -18 
 **status:** - Waiting for WG LC, -19 needed prior to WG LC 
+**next steps**: 
+1. Aijun publishes -19 with changed security section
+2. Aijun double checks the implementation page at:
+https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext
+
+2. IDR chair will request early directorate review 
+3. IDR chair will request IDR Chair review 
+4. Start W
 
 ## Review -18 
 
