@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-07T02:17:03.740Z
+date: 2026-01-07T02:18:14.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -122,7 +122,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-lin-idr-bgp-ls-sr-policy-admin-flag](https://datatracker.ietf.org/doc/draft-lin-idr-bgp-ls-sr-policy-admin-flag/)  - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-lin-idr-bgp-ls-sr-policy-admin-flags) - **pending -02 review**
 
-- [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - [(-03) to -(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/)
+- [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - [(-03) to -(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - **checking on authors interest**
 
 - [draft-liu-idr-bgp-ls-srp-flexible-path-selection](https://datatracker.ietf.org/doc/draft-liu-idr-bgp-ls-srp-flexible-path-selection/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgp-ls-srp-flexible-path-selection)
 
