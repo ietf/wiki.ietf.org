@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-07T00:39:45.995Z
+date: 2026-01-07T00:42:29.022Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -58,7 +58,7 @@ none
 
 - [draft-liu-idr-sr-segment-list-optimize](https://datatracker.ietf.org/doc/draft-liu-idr-sr-segment-list-optimize/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-segment-list-optimize) - **Needs -02** prior to adaoption call  
 
-- [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) - **pending review of -14** 
+
 
 - [draft-zhang-idr-sr-policy-enhanced-detnet](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-enhanced-detnet/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-enhanced-detnet) - **pending review of -03**
 
@@ -128,6 +128,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-tong-idr-bgp-ls-savnet](https://datatracker.ietf.org/doc/draft-tong-idr-bgp-ls-savnet/)  [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-tong-idr-bgp-ls-savenet)
 
+- [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) - **pending review of -14** 
 
 
 ### Error link 
