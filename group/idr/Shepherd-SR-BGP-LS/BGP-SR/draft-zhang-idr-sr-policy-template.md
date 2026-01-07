@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-zhang-idr-sr-policy-template 
 description: Shepherd draft-zhang-idr-sr-policy-template 
 published: true
-date: 2025-02-26T01:47:30.891Z
+date: 2026-01-07T01:13:05.635Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T00:56:51.369Z
@@ -17,12 +17,15 @@ dateCreated: 2025-02-26T00:56:51.369Z
 **Type:** Proposed Standard 
 **status:** Individual draft  
 **adoption process:** Must get support from Spring before continuing 
-**current version:** 04
+**current version:** 06
 **Early Allocation**: yes, need early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
 
-## Review of -04 (-05) - Pending 
+## Review of -06 
+There are no effective changes between version -04 and -06 
+
+## Review of -04  
 **draft:**  [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/html/draft-zhang-idr-sr-policy-template)
 
 ## Query by Jie Dong to IDR WG (9/3) 
