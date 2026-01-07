@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2025-12-26T11:46:36.403Z
+date: 2026-01-07T11:48:19.128Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -98,10 +98,10 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | WGLC comments handled  | Shepherd Review pending | Dhruv | 
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Awaiting author's response and updated I-D|Shepherd Review Done on 2025-10-30 |Dhruv |
+| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | WGLC comments handled  | Shepherd Review done 2026-01-07, waiting for authors | Dhruv | 
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Awaiting check by shepherd | Shepherd Review Done on 2025-10-30 |Dhruv |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Response to Andrew's WGLC comment is pending | Shepherd review done; awaiting an update from authors | Julien |
-|draft-ietf-pce-circuit-style-pcep-extensions|Awaiting updated I-D|Shepherd Review Done on 2025-10-30 |Dhruv |
+|draft-ietf-pce-circuit-style-pcep-extensions|Awaiting check by shepherd|Shepherd Review Done on 2025-10-30 |Dhruv |
 
 ## Drafts with the IESG
 
