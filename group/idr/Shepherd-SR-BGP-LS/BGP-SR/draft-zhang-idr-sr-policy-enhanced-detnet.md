@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-zhang-idr-sr-policy-enhanced-detnet
 description: Shepherd draft-zhang-idr-sr-policy-enhanced-detnet
 published: true
-date: 2025-02-26T00:20:37.936Z
+date: 2026-01-07T01:05:05.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T00:20:37.936Z
@@ -15,8 +15,8 @@ dateCreated: 2025-02-26T00:20:37.936Z
 
 **Type:** Proposed Standard 
 **status:** Individual Draft (expired 12/29/2024) 
-**Pre-Adoption:** still needs additional changes + reviews  
-**current version:** 03
+**Pre-Adoption:** Needs -04.
+**current version:** 03, Needs 
 **Unicast and Multicast or both:** Bogh 
 **Early Allocation**: will need 
 **Cross-WG review:** Spring (TBD) and detnet (may take time) 
