@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-liu-idr-srv6-segment-list-optimize
 description: Shepherd draft-liu-idr-srv6-segment-list-optimize
 published: true
-date: 2026-01-07T00:33:53.218Z
+date: 2026-01-07T00:38:18.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:51:45.036Z
@@ -16,9 +16,10 @@ dateCreated: 2025-02-25T23:51:45.036Z
 
 **Type:** Proposed Standard 
 **status:** Individual draft   
-**adoption call:** Needs to have Spring OK, and revisions 
+**adoption call:** Meeds -02 text and Spring approval 
+
 **current version:** 01 of draft-liu-idr-sr-segment-list-optimize 
-**Early Allocation**: yes, need early allocation 
+**Early Allocation**: Needs early allocation. 
 **implementations:** H3C and ZTE in process 
 **Spring problem:** mail list query says 2 problems are common. 
 **Spring draft query email:** https://mailarchive.ietf.org/arch/msg/idr/_1LJyCRjn-BU8G91rdpYl6Q2fp4/
