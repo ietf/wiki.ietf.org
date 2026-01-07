@@ -2,7 +2,7 @@
 title: Shepherd review for draft-zzd-idr-policy-scheduling
 description: Shepherd  draft-zzd-idr-policy-scheduling
 published: true
-date: 2025-03-17T10:12:42.565Z
+date: 2026-01-07T01:24:34.101Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T07:10:39.472Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-17T07:10:39.472Z
 # Shepherd Reviews for draft-zzd-idr-sr-policy-scheduling
 
 ## Summary 
-**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-08) 
+**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling/) 
 **Type:** Proposed standard 
 **status:** Individual Draft 
 **current version:** -08
