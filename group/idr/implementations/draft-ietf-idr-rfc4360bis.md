@@ -2,7 +2,7 @@
 title: RFC4360bis Implementation Report 
 description: Report on RFC4360bis implementations in BGP 
 published: true
-date: 2026-01-04T14:33:01.866Z
+date: 2026-01-07T02:22:44.231Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T13:47:50.332Z
@@ -23,7 +23,7 @@ Implementations:
 |---|---|---|---|---|---|---|---|
 | Extended Community  | 2 | TBD |	TBD |    | 
 | Extended Community I bit | 2 | TBD | TBD | 
-| Extended Community T bit ] 2 | TBD | TBD | 
+| Extended Community T bit | 2 | TBD | TBD | 
 | Two-Octet AS-Specific Extended Community | 3.1 | TBD | TBD | 
 | IPv4-Address-Specific Extended Community | 3.2 | TBD | TBD | 
 | Opaque Extended Community | 3.3 | TBD | TBD | 
