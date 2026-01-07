@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-lin-idr-sr-policy-admin-flags
 description: draft-lin-idr-sr-policy-admin-flags Shepherd Review
 published: true
-date: 2026-01-07T00:09:25.636Z
+date: 2026-01-07T00:14:42.299Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T00:09:25.636Z
@@ -16,7 +16,7 @@ draft: [draft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/dr
 version: -01 
 status: Needs -02 prior to adoption 
 
-## Review -01 
+## Review -03 
 
 ### Technical issues
 
