@@ -2,7 +2,7 @@
 title: Shepherd review for draft-zzd-idr-policy-scheduling
 description: Shepherd  draft-zzd-idr-policy-scheduling
 published: true
-date: 2026-01-07T01:44:11.139Z
+date: 2026-01-07T01:44:37.853Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T07:10:39.472Z
@@ -14,7 +14,7 @@ dateCreated: 2025-03-17T07:10:39.472Z
 **draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling/) 
 **Type:** Proposed standard 
 **status:** Individual Draft 
-**current version:** -08
+**current version:** -10, Needs -11 
 **adoption process:** TVR needs to set paradigm, Spring SR, and IDR mechanisms
 **Cross-WG discussion:** TVR, Spring 
 **bgp-ls draft:** none
