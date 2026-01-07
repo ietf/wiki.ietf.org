@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology 
 description: Review SR and BGP-LS 
 published: true
-date: 2026-01-07T00:44:07.457Z
+date: 2026-01-07T00:55:29.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -67,7 +67,6 @@ none
 
 
 
-
 ## BGP-LS 
 Shepherd reports for each drafts are listed by draft in alphabetical order. 
 Categories are: WG LC, WG drafts, adoption of individual draft, or individual draft (pre-adoption).  
@@ -127,8 +126,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-tong-idr-bgp-ls-savnet](https://datatracker.ietf.org/doc/draft-tong-idr-bgp-ls-savnet/)  [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-tong-idr-bgp-ls-savenet)
 
-- [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) - **pending review of -14** 
-
+- [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) -  **Needs -15** with updated references and text. 
 
 ### Error link 
 
