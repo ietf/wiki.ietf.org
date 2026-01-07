@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-liu-idr-srv6-segment-list-optimize
 description: Shepherd draft-liu-idr-srv6-segment-list-optimize
 published: true
-date: 2025-02-25T23:51:45.036Z
+date: 2026-01-07T00:30:50.714Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:51:45.036Z
@@ -23,6 +23,27 @@ dateCreated: 2025-02-25T23:51:45.036Z
 **Spring problem:** mail list query says 2 problems are common. 
 **Spring draft query email:** https://mailarchive.ietf.org/arch/msg/idr/_1LJyCRjn-BU8G91rdpYl6Q2fp4/
 E-Flag, Segments: B, I, J, K 
+
+## Review of -01 of draft-liu-idr-sr-segment-list-optimze
+### technical issues 
+#### Technical issue 1 - Reserved fields in Admin flags 
+
+This depends on draft-lin-sr-policy-admin-flags. 
+The administrative flag text does not handle the unassigned flag 
+bits. The authors in this draft need to work with the 
+authors of draft-lin-sr-policy-admin-flags to make sure the 
+unassign flag bits are ignored upon input and zeroed upon sending. 
+This will allow the addition of the new flag. 
+
+#### Technical issue 2 - Security section 
+
+The optimization can provide a challenge to both manageability 
+and security.  It is not clear that the security section is
+sufficient.  Please consider if the understanding of optimization 
+provides a piece of critical infrastructure for a network. 
+If so, the configuring and managing of this needs to be 
+treated as protected information. 
+
 
 ## Review 00 of draft-liu-idr-sr-segment-list-optimize
 **draft:** [draft-liu-idr-sr-segment-list-optimize/](https://datatracker.ietf.org/doc/draft-liu-idr-sr-segment-list-optimize/)
