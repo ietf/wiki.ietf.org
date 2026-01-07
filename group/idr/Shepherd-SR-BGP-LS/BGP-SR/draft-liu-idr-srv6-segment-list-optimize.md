@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-liu-idr-srv6-segment-list-optimize
 description: Shepherd draft-liu-idr-srv6-segment-list-optimize
 published: true
-date: 2026-01-07T00:30:50.714Z
+date: 2026-01-07T00:32:46.995Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:51:45.036Z
@@ -43,6 +43,12 @@ sufficient.  Please consider if the understanding of optimization
 provides a piece of critical infrastructure for a network. 
 If so, the configuring and managing of this needs to be 
 treated as protected information. 
+
+#### Technical issues 3 - Update to RFC9830 and RFC9831
+
+Replace the references to [I-D.draft-ietf-idr-sr-policy-safi]
+and  [I-D.draft-ietf-idr-bgp-sr-segtypes-ext] to RFC9830 and RFC9831 
+respectively.  
 
 
 ## Review 00 of draft-liu-idr-sr-segment-list-optimize
