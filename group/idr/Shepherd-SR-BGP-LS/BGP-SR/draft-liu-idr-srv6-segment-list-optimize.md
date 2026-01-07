@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-liu-idr-srv6-segment-list-optimize
 description: Shepherd draft-liu-idr-srv6-segment-list-optimize
 published: true
-date: 2026-01-07T00:32:46.995Z
+date: 2026-01-07T00:33:53.218Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:51:45.036Z
