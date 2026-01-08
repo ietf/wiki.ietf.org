@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-06T17:58:50.141Z
+date: 2026-01-08T03:46:48.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -169,11 +169,33 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
 
-### First Project Here (replace me)
+### High Performance Wide Area Networks (HP-WAN)
 - **Champions**
-name and email
+Quan Xiong (xiong.quan@zte.com.cn)
+Daniel King (d.king@lancaster.ac.uk)
+Tim Chown (tim.chown@jisc.ac.uk)
 - **Project Info**
-project description
+High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, low-latency, and high-capacity needs of data-intensive applications and enable the host-and-network collaboration for the high-speed and high-throughput data transmission, coupled with fast completion time.
+
+- **Hackathon Plan**
+1.HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
+
+2.Learn about HPWAN developments and open-source controllers and orchestrators for integrated HPWAN connection management (IETF RestConf/NetConf/YANG)
+
+3.Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
+
+4.Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
+
+5.Work on improvements to IETF protocols and models for cooperation between HPWAN domains.
+
+- **Related documents**
+
+Framework for High Performance Wide Area Network (HP-WAN)
+https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
+
+Current State of the Art for High Performance Wide Area Networks
+https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
+
 
 ### Second Project Here (replace me)
 - **Champions**
