@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2026-01-07T11:45:58.501Z
+date: 2026-01-08T13:42:59.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -23,7 +23,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Shephered Review and Writeup | draft-ietf-pce-sr-bidir-path | Dhruv | Review done, waiting for update |
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
 | Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Review done, waiting for update|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
@@ -41,6 +40,7 @@ Items to talk to Ketan:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Shephered Review and Writeup | draft-ietf-pce-sr-bidir-path | Dhruv | Sent to IESG |
  Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Add to Adoption queue | draft-dong-pce-pcep-nrp | Dhruv | Request from authors to prioritize |
