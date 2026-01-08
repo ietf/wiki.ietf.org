@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-08T03:46:48.437Z
+date: 2026-01-08T03:48:44.947Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -179,20 +179,14 @@ High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, l
 
 - **Hackathon Plan**
 1.HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
-
 2.Learn about HPWAN developments and open-source controllers and orchestrators for integrated HPWAN connection management (IETF RestConf/NetConf/YANG)
-
 3.Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
-
 4.Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
-
 5.Work on improvements to IETF protocols and models for cooperation between HPWAN domains.
 
 - **Related documents**
-
 Framework for High Performance Wide Area Network (HP-WAN)
 https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
-
 Current State of the Art for High Performance Wide Area Networks
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 
