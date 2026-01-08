@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-01-07T23:16:44.974Z
+date: 2026-01-08T13:41:55.214Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -98,7 +98,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-sr-bidir-path](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-bidir-path) | WGLC comments handled  | Shepherd Review done 2026-01-07, waiting for authors | Dhruv | 
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Awaiting check by shepherd | Shepherd Review Done on 2025-10-30 |Dhruv |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Response to Andrew's WGLC comment is pending | Shepherd review done; awaiting an update from authors | Julien |
 
@@ -107,7 +106,9 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-|draft-ietf-pce-circuit-style-pcep-extensions|Submitted to IESG for Publication|On 2026-01-07|Dhruv |Ketan|
+|draft-ietf-pce-circuit-style-pcep-extensions|Submitted to IESG for Publication|On 2026-01-07|Dhruv|Ketan|
+|draft-ietf-pce-sr-bidir-path |Submitted to IESG for Publication|On 2026-01-08|Dhruv|Ketan| 
+
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
 [IESG Dashboard](https://datatracker.ietf.org/doc/ad)
