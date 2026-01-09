@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-dong-idr-bgp-ls-scalable-nrp
 description: Shepherd draft-dong-idr-bgp-ls-scalable-nrp
 published: true
-date: 2025-02-26T02:58:39.304Z
+date: 2026-01-09T14:36:49.845Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:41:15.445Z
@@ -22,7 +22,13 @@ dateCreated: 2025-02-22T18:41:15.445Z
 
 ## Review -02 (Pending) 
 
-ETA 2/26/2025. 
+Update -01 text.
+
+### Editorial issues 
+#### Editorial issues -01 (optional) 
+Abstract's first paragraph could be removed.  The second paragraph covers the appropriate text.  
+
+#### 
 
 
 ## Review -01 
