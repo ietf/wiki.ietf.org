@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-01-09T13:56:17.048Z
+date: 2026-01-09T14:07:00.983Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -112,7 +112,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-security-capability/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-security-capability) - **Needs -04** prior to adoption 
 
-- [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **Pending -03 review**
+- [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-01) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **-03 can be adopted**, **Needs -04 for RFC and IANA update**
 
 - [draft-dong-idr-bgp-ls-scalable](https://datatracker.ietf.org/doc/draft-dong-idr-bgp-ls-scalable-nrp/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-dong-idr-bgp-ls-scalable-nrp) - **Pending -02 review** 
 
