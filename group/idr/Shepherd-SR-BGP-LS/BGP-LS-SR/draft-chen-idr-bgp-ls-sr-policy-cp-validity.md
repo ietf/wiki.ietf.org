@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-ls-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-ls-sr-policy-cp-validity
 published: true
-date: 2025-02-22T18:35:29.831Z
+date: 2026-01-09T14:11:29.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:35:29.831Z
@@ -14,9 +14,24 @@ dateCreated: 2025-02-22T18:35:29.831Z
 ## Overview
 
 **draft:** [ draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/ draft-chen-idr-bgp-ls-sr-policy-cp-validity)
-**WG status:** Individual draft 
+**WG status:** Individual
 **current version:** 01
-**review email:** https://mailarchive.ietf.org/arch/msg/idr/gUAvOQnTXt1hZD1WASzn3mDUkFo/
+**Next Steps:** Needs to address, Needs -04 RFC and IANA update 
+
+
+## Review -03 
+** draft:** [draft-chen-idr-bgp-ls-sr-policy-cp-validity-03](https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-ls-sr-policy-cp-validity-03)
+
+### Technical issues 
+#### Issue 1: Please update to RFC 
+Please update draft-ietf-idr-bgp-ls-sr-policy ro RFC9857. 
+
+#### Issue 2: Please update IANA format 
+
+   [I-D.ietf-idr-bgp-ls-sr-policy].
+
+
+
 
 ## Review -01 
 
@@ -37,7 +52,7 @@ dateCreated: 2025-02-22T18:35:29.831Z
 Why does the CP Validity Sub-TLV adds value to the BGP-LS streamgiving the count of segments in a segment list. 
 
 
-#### Issue-3: Are you using BGP-LS in a read only mechanism>? 
+#### Issue-3: Are you using BGP-LS in a read only mechanism? 
 
 If so, please adjust your text to indicate BGP-LS is read-only.
 
