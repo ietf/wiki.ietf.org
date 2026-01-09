@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-ali-idr-srv6-policy-sl-opt-distribution
 description: draft-ali-idr-srv6-policy-sl-opt-distribution Reviews
 published: true
-date: 2026-01-09T19:30:30.112Z
+date: 2026-01-09T20:10:08.391Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-09T13:55:32.166Z
@@ -13,10 +13,12 @@ dateCreated: 2026-01-09T13:55:32.166Z
 
 draft: [draft-ali-idr-srv6-policy-sl-opt-distribution-00](https://datatracker.ietf.org/doc/draft-ali-idr-srv6-policy-sl-opt-distribution/) 
 version: -01 
-status: pre-adoption 
+**status**: pre-adoption review done, ready for adoption  
+[**Email:**] https://mailarchive.ietf.org/arch/msg/idr/2SJr7fzE4YT1NvVUn49_fMaPt5g/
+
 Next step: Needs -01, can be adopted, but needs spring review 
 
-## Review version -00 
+## Review version -01
 
 ### Technical issues
 #### Technical Issue 1 - Update to RFC
