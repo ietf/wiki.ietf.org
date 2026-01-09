@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-ls-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-ls-sr-policy-cp-validity
 published: true
-date: 2026-01-09T14:11:29.279Z
+date: 2026-01-09T14:23:32.459Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T18:35:29.831Z
@@ -16,7 +16,7 @@ dateCreated: 2025-02-22T18:35:29.831Z
 **draft:** [ draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/ draft-chen-idr-bgp-ls-sr-policy-cp-validity)
 **WG status:** Individual
 **current version:** 01
-**Next Steps:** Needs to address, Needs -04 RFC and IANA update 
+**Next Steps:** adoptoin ok,  Needs -04 RFC and IANA update"
 
 
 ## Review -03 
@@ -30,7 +30,11 @@ Please update draft-ietf-idr-bgp-ls-sr-policy ro RFC9857.
 
    [I-D.ietf-idr-bgp-ls-sr-policy].
 
-
+### Issues 3: Open issues from -01 
+Issues 1 and 2 are coovered in revision -03. 
+Issue 3 (indicating that BGP-lS) is covered by use of RFC9552. 
+Issue 4 is covered by use of RFC9857. 
+Issue 5 is covered by security text in -03 
 
 
 ## Review -01 
@@ -57,9 +61,9 @@ Why does the CP Validity Sub-TLV adds value to the BGP-LS streamgiving the count
 If so, please adjust your text to indicate BGP-LS is read-only.
 
 
-#### issue-4: What happnes if the desired information does not exist? 
+#### issue-4: What happnens if the desired information does not exist? 
 
-Please augment your procedures to indicate what happens f the information is not available.  What gets sent in BGP-LS? 
+Please augment your procedures to indicate what happens of the information is not available.  What gets sent in BGP-LS? 
 
  #### Issue-5: Please add a security section.
 
