@@ -2,7 +2,7 @@
 title: RFC4360bis Implementation Report 
 description: Report on RFC4360bis implementations in BGP 
 published: true
-date: 2026-01-09T20:30:10.292Z
+date: 2026-01-09T20:36:00.430Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T13:47:50.332Z
@@ -11,7 +11,7 @@ dateCreated: 2026-01-04T13:47:50.332Z
 # RFC4360bis Implementation report 
 
 ## Implementations: 
-1. Juniper
+1. Juniper - JUNOS 25.1R1 (and earlier)
 2. Cisco 
 3. Arrcus 
 
