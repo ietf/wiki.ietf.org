@@ -2,7 +2,7 @@
 title: IAB 2025-2026 Schedule
 description: Schedule for IAB meetings from March 2025-March 2026
 published: true
-date: 2025-11-06T15:57:28.443Z
+date: 2026-01-09T19:42:55.194Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T04:33:05.299Z
@@ -33,7 +33,7 @@ Informal meetings will be one-hour slots every week that alternate between  07:0
 | *22 October 2025* | *13:00-15:00 UTC* | *Virtual*     | *Reserved*              |
 | 2-6 November 2025 | TBD               | Montreal      | IETF 124                |
 | 17 December 2025  | 14:00-16:00 UTC   | Virtual       | ISE selection vote, IESG slate confirmation, start ISOC BoT nominations |
-| *14 January 2026* | *14:00-16:00 UTC* | *Virtual*     | *Reserved for IESG slate confirmation if needed*  |
+| *14 January 2026* | *14:00-16:00 UTC* | *Virtual*     | *Reserved; will use*  |
 | 18 February 2026  | 14:00-16:00 UTC   | Virtual       | ISOC BoT vote |
 
 ## Informal IAB Meetings
