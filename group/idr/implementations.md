@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-01-06T00:29:31.200Z
+date: 2026-01-09T18:40:04.558Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -26,6 +26,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-bgp-ls-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
   - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
   - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
+  - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
 
 ## Drafts report 2 implementations, but no implementation report. 
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
