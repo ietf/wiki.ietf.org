@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2025-08-04T18:35:00.149Z
+date: 2026-01-13T18:03:08.654Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -22,12 +22,12 @@ Welcome to the wiki for V6OPS!
 
 ### Chair call topics
 
-* [draft-ietf-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-ietf-v6ops-icmpext-xlat-v6only-source/) - WGLC to be called
-** Projected WGLC call: 29-July-2025
-* [draft-ietf-v6ops-claton/](https://datatracker.ietf.org/doc/draft-ietf-v6ops-claton/) - WGLC called.
-** Projected WGLC completion: 13-Aug-2025
-* [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Changes Requested. 
-** Projected meeting for discussion: 29-July-2025
+* [draft-ietf-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-ietf-v6ops-icmpext-xlat-v6only-source/) - Waiting on Shepherd Write-up
+** Projected completion: 27-Jan-2026
+* [draft-ietf-v6ops-claton/](https://datatracker.ietf.org/doc/draft-ietf-v6ops-claton/) - WGLC called, Awaiting updated draft.
+** Projected WGLC completion: 27-Jan-2026
+* [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Changes Requested, Almost complete
+** Projected meeting for discussion: 27-Jan-2026
 * [draft-caletka-aaaa-filtering](https://datatracker.ietf.org/doc/html/draft-caletka-aaaa-filtering) - Adoption request called
 ** Projected adoption completion: 13-Aug-2025
 * [draft-palet-v6ops-nat64-std](https://datatracker.ietf.org/doc/draft-palet-v6ops-nat64-std/) - Adoption and/or Discussion of changes
@@ -48,8 +48,9 @@ Welcome to the wiki for V6OPS!
 ** Result: Publication Requested
   
    
-## Terminology
+## Milestones
 
- * TBD
+
+
   
   
