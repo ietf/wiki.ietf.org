@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2026-01-13T16:52:46.245Z
+date: 2026-01-13T16:53:28.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -96,11 +96,3 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * 2025-07-25 (IETF 123) Authors sent request
   * 2025-11-25 [Adoption Call]
   * 2026-01-06 Adopted!
-  
-  
-## History of WG Last Call
-* draft-ietf-spring-segment-protection-sr-te-paths
-   * [Responsible Chair: Bruno]
-   * 2023-07-03 Authors asked for WGLC
-   * 2025-06-17 comments sent to authors. Waiting for draft update  (-08 was only a refresh)
-   * 2026-01-13 moved of list (authors did not replied, draft expired)
