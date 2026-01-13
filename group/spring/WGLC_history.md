@@ -2,7 +2,7 @@
 title: spring WGLC History
 description: 
 published: true
-date: 2025-12-04T19:31:51.328Z
+date: 2026-01-13T16:54:15.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:52:25.846Z
@@ -33,3 +33,8 @@ dateCreated: 2023-08-14T18:52:25.846Z
   * 2024-11-06 (IETF121) Authors sent request
   * 2025-10-29 in discussions to finalize response to rtg-dir review
   * 2025-12-01 [Publication Requested](https://mailarchive.ietf.org/arch/msg/spring/NqKJDsHdlT0piyiYlIiTKXhI8t4/)
+* draft-ietf-spring-segment-protection-sr-te-paths
+  * [Responsible Chair: Bruno]
+  * 2023-07-03 Authors asked for WGLC
+  * 2025-06-17 comments sent to authors. Waiting for draft update  (-08 was only a refresh)
+  * 2026-01-13 moved off list (authors did not replied, draft expired)
