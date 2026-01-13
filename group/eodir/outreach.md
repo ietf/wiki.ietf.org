@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-01-13T14:15:47.117Z
+date: 2026-01-13T14:16:14.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,7 +52,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|Jan 2026|[Net Mission 2026](/group/eodir/outreach)https://netmission.asia/2025/08/22/netmission-academy-2026-applications-now-open/)|Students|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1WIvoYwGX-z_jmgcfvkhwdXxAjNy4xhE-k83ca83hhAY/edit?usp=sharing)|
+|Jan 2026|[Net Mission 2026](https://netmission.asia/2025/08/22/netmission-academy-2026-applications-now-open/)|Students|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1WIvoYwGX-z_jmgcfvkhwdXxAjNy4xhE-k83ca83hhAY/edit?usp=sharing)|
 |Dec 2025|Panel for the Future of Science and Technology – Technical Workshop on the Functioning of the Internet|Legislators|Supporter|Lars|[Video](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology-technical-workshop-on-functioning-of-internet_20251204-1000-SPECIAL-STOA)|
 |Dec 2025|[India IGF](https://indiaigf.in/)|Regional|Supporter|Dhruv|[Panel](https://www.youtube.com/live/GfE2rPZgzqg?t=9040s)|
 |Nov 2025|UK Digitial Standards, DSIT|UK Companies|Knowledge sharing|Rob Wilton|[Slides](https://docs.google.com/presentation/d/1GVgGH0G-4QUC6W8TsXBDzibSbmkzRXO-uuPP3MUikpc/edit?usp=sharing)|
