@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-12T20:03:13.472Z
+date: 2026-01-13T16:00:34.837Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,6 +44,8 @@ Note that this page is public.
 
 
 ### Document Discussions
+
+* SSHM draft chat (Cooley)
 
 ### Management Issues
 * 2026 retreat planning
