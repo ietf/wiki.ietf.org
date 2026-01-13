@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-01-06T20:10:50.062Z
+date: 2026-01-13T16:50:02.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -38,6 +38,7 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * [Responsible Chair: Bruno]
    * 2023-07-03 Authors asked for WGLC
    * 2025-06-17 comments sent to authors. Waiting for draft update  (-08 was only a refresh)
+   * 2026-01-13 moved of list (authors did not replied, draft expired)
 * draft-ietf-spring-resource-aware-segments
   * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
@@ -83,8 +84,10 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 (https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
 * draft-watal-spring-srv6-sfc-sr-aware-functions
   * 2025-11-04 (IETF 124) Authors sent request
+  * 2026-01-13 waiting for WG engagment
 * draft-ali-spring-sr-service-programming-oam
   * 2025-11-04 (IETF 124) Authors sent request
+  * 2026-01-13 waiting for WG engagment
 * draft-jiang-spring-sr-policy-nrp
   * [Responsible Chair: Alvaro]
   * 2025-11-27 Request from authors
