@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-01-13T17:57:40.147Z
+date: 2026-01-14T11:05:56.996Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -36,7 +36,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-chen-pce-sr-mpls-sid-verification | Pending | (4/5) IPR - Zoey remains | - |
 | draft-xpbs-pce-topology-filter | Pending | - | - |
 | draft-chen-pce-sr-ingress-protection | Expired | - | - |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
@@ -46,9 +45,9 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
+|draft-chen-pce-sr-mpls-sid-verification | Adopted 2026-01-14| Dhruv |
 |draft-ietf-pce-pcep-nrp|Adopted 2025-11-03 | Julien|
-| draft-ietf-pce-pcep-extension-pce-controller-p2mp | Adopted 2025-08-08 | Julien |
-| draft-ietf-pce-operational| Adopted 2025-04-22; -01 posted on 2025-06-30  | Dhruv | 
+
 
 
 
@@ -63,6 +62,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 |draft-ietf-pce-bier-te | -02 posted on 2025-06-04 | Needs more review |
 | [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -03 posted on 2025-10-20 | - |
 |draft-ietf-pce-pcep-bfd-parameters|-01 posted on 2025-08-20 | PLease handle adoption comments|
+| draft-ietf-pce-pcep-extension-pce-controller-p2mp | -00 posted 2025-08-07 | - |
+| draft-ietf-pce-operational| -02 posted on 2025-12-22 | - | 
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 
