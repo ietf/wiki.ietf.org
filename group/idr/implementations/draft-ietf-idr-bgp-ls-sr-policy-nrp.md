@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Implementations draft-ietf-idr-bgp-ls-sr-policy-nrp
 published: true
-date: 2026-01-14T17:11:34.203Z
+date: 2026-01-14T17:22:25.351Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:18:18.948Z
