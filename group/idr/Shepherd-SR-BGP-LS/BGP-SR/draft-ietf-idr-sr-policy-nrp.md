@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-01-14T18:28:26.367Z
+date: 2026-01-14T18:30:58.151Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -25,6 +25,8 @@ dateCreated: 2025-02-24T23:48:45.554Z
 
 ## -05 Shepherd's report
 draft: [daft-ietf-idr-sr-policy-nrp-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-05)
+**Shepherd's report:** [email](https://mailarchive.ietf.org/arch/msg/idr/PrTxjCxrVtJx-ZpOCUui9Fz_EBA/)
+
 
 Need to change the references to RFCs 9543 and RFC9732 moved to informational. 
 Please also update the implementation report. 
@@ -32,7 +34,7 @@ Please also update the implementation report.
 
 ## -04 Shepherd's report  
 draft: [daft-ietf-idr-sr-policy-nrp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-04)
-Email link: https://mailarchive.ietf.org/arch/msg/idr/KS2b-Bt-4rtI3jttdOliBUy_M5Y/
+**Shepherds report on idr list**: [Email link](https://mailarchive.ietf.org/arch/msg/idr/KS2b-Bt-4rtI3jttdOliBUy_M5Y/)
 
 This is a post WG LC shepherd report for draft-ietf-idr-sr-policy-nrp-04. 
 The authors need to publish -05 with these changes and fill out the 
