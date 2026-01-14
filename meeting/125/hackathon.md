@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-13T01:55:01.085Z
+date: 2026-01-14T00:57:10.156Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -195,7 +195,7 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 - **Champions**
 Chongfeng Xie
 - **Project Info**
-project description
+YANG2API
 
 ---
 
