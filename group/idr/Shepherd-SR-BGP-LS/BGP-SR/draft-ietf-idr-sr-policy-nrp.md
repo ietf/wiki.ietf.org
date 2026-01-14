@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2025-12-22T04:33:24.250Z
+date: 2026-01-14T18:28:26.367Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -22,6 +22,13 @@ dateCreated: 2025-02-24T23:48:45.554Z
 **Early Allocation**: NRP ID sub-TLV 123 (done)  
 **implementations:** 
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp/](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) 
+
+## -05 Shepherd's report
+draft: [daft-ietf-idr-sr-policy-nrp-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-05)
+
+Need to change the references to RFCs 9543 and RFC9732 moved to informational. 
+Please also update the implementation report. 
+
 
 ## -04 Shepherd's report  
 draft: [daft-ietf-idr-sr-policy-nrp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-04)
