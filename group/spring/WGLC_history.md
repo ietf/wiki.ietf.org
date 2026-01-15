@@ -2,7 +2,7 @@
 title: spring WGLC History
 description: 
 published: true
-date: 2026-01-13T16:54:15.945Z
+date: 2026-01-15T13:38:43.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:52:25.846Z
@@ -38,3 +38,12 @@ dateCreated: 2023-08-14T18:52:25.846Z
   * 2023-07-03 Authors asked for WGLC
   * 2025-06-17 comments sent to authors. Waiting for draft update  (-08 was only a refresh)
   * 2026-01-13 moved off list (authors did not replied, draft expired)
+* draft-ietf-spring-bfd-05
+   * [Responsible Chair: Alvaro]
+   * 2021-03-29 Authors asked for WGLC
+   * Waiting for the dependent MPLS WG draft to progress past WGLC
+   * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
+   * [IETF 117] The authors asked for WGLC.
+   * 2024-07-17: The Shepherd (Ketan Talaulikar) sent a review.
+   * 2025-01-06: Status: [WGLC ended](https://mailarchive.ietf.org/arch/msg/spring/J1bVdJsKfxTRhHOSau02xnNe-wQ/), but it was inconclusive.  Waiting for updates before a new WGLC.
+   * 2026-01-15: No progress; took the draft off the WGLC queue.
