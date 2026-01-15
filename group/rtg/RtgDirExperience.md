@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2025-11-14T07:26:10.571Z
+date: 2026-01-15T00:27:47.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -109,11 +109,7 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Designated "NMOP Terminology Fairy"
  * Written a few RFCs
  * Served as ISE from February 2018 to February 2022
-### Eric Gray (last updated : 21 May, 2014) 
- * Following NVO3, I2RS, SFC, PCE, ISIS, IDR, MPLS, L2VPN, L3VPN, CCAMP
- * Co-authored numerous RFCs in MPLS and other WGs, acknowledged contributor to many more
- * Software and System Engineer in several router projects, with various employers
- * Primarily interested in network virtualization at multiple layers, general routing and congestion management/avoidance
+
 ### Joel Halpern (last updated : 3 April 2015) 
  * Former Co-Chair KARP, SFC, and LISP WGs
  * Co-Chair Savnet and SPRING
