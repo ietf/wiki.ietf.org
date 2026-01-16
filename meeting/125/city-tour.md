@@ -32,6 +32,7 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Kevin Wang | kevin.wang@hpe.com | Need to catch a flight from HKG at 19:40; have a carry on luggage |
 | Jeffrey Zhang | zhaohui.zhang@hpe.com | |
 | Valery Smyslov | valery@smyslov.net | |
+| Mike Jones | michael_b_jones@hotmail.com | |
 
 
 
