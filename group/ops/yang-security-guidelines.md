@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2025-12-03T16:14:47.522Z
+date: 2026-01-16T03:09:14.426Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -35,7 +35,7 @@ The Network Configuration Access Control Model (NACM) [RFC8341] provides the mea
 > If the data model contains any writable data nodes (those are all the "config true" nodes), then include the following text:
 {.is-info}
 
-There are a number of data nodes defined in this YANG module that are writable/creatable/deletable (i.e., "config true", which is the default).  All writable data nodes are likely to be reasonably sensitive or vulnerable in some network environments.  Write operations (e.g., edit-config) and delete operations to these data nodes without proper protection or authentication can have a negative effect on network operations.  The following subtrees and data nodes have particular sensitivities/vulnerabilities:
+There are a number of data nodes defined in this YANG module that are writable/creatable/deletable (i.e., "config true", which is the default).  All writable data nodes are likely to be sensitive or vulnerable in some network environments.  Write operations (e.g., edit-config) and delete operations to these data nodes without proper protection or authentication can have a negative effect on network operations.  The following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
 > If the data model contains any particularly sensitive data nodes, e.g., ones that might be protected by a "nacm:default-deny-write" or a "nacm:default-deny-all" extensions statement, then those subtrees and data nodes must be listed, with an explanation of the associated security risks with a focus on how they can be disruptive if abused. Otherwise, state:
 > "There are no particularly sensitive writable data nodes."
