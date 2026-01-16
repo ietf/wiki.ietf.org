@@ -2,7 +2,7 @@
 title: BGP Directorate
 description: 
 published: true
-date: 2026-01-16T13:59:10.614Z
+date: 2026-01-16T14:03:46.980Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T16:26:26.164Z
@@ -16,9 +16,17 @@ dateCreated: 2025-12-10T16:26:26.164Z
 > This group is not an IETF Working Group and does not produce documents that are part of the IETF Standards Process.
 {.is-warning}
 
-# Charter
+## Charter
 
 BGP Directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing BGP-related content.
+
+See [Charter](https://datatracker.ietf.org/group/bgpdir/about/)
+
+## Personnel
+
+[Personnel](https://datatracker.ietf.org/group/bgpdir/about/)
+
+## Objective of Reviews
 
 The reviews shall primarily focus on core BGP protocol, implementation, and deployment aspects. Some of these aspects are:
 1) Neighbor FSM
@@ -31,17 +39,13 @@ The reviews shall primarily focus on core BGP protocol, implementation, and depl
 
 The above is NOT a checklist and may be expanded by the BGP Directorate team. Checklists may be prepared by the BGP Directorate, WG chairs and the WGs to aid document authors as well as WG members in general.
 
-Where possible, the reviews SHOULD cover the specific feature/extension/technology aspects. With the widespread use of BGP, it is not expected that every reviewer is an expert on all those different usage. The intent is to focus on the common and core BGP aspects. For issues identified, the reviews SHOULD suggest fixes or alternates. However, reviewers are not obligated to suggest text or become shadow authors/contributors.
+Where possible, the reviews SHOULD cover the specific feature/extension/technology aspects. However, with the widespread use of BGP, it is not expected that every reviewer is an expert on all those different usage. The intent is to focus on the common and core BGP aspects. 
+
+For issues identified, the reviews SHOULD suggest fixes or alternates. However, this may not be always possible due to various reasons and reviewers are not obligated to suggest text or become shadow authors/contributors.
 
 Finally, the WG that produces the documents is expected to have the expertise on the subject matter and its WG members are responsible for the reviews and quality of their products. The BGP Directorate's function is only complementary to this core WG responsibility.
 
-[Charter](https://datatracker.ietf.org/group/bgpdir/about/)
-
-# Personnel
-
-[Personnel](https://datatracker.ietf.org/group/bgpdir/about/)
-
-# Process
+## Process
 
 BGP Directorate **only performs Early Reviews** for BGP-related documents (i.e., before WGLC). Last-Call or Telechat Reviews may be only requested by ADs in exceptional cases. Please ensure that the document is ready from the following aspects before requesting reviews:
 a) It is a WG adopted document
