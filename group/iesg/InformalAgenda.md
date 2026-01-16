@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-15T06:57:07.431Z
+date: 2026-01-16T18:15:31.365Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - January 15, 2026
+# Informal Telechat - January 29, 2026
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,8 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-- Éric Vyncke
-- Erik Kline (partial regrets, conflict w/ 2nd hour)
+
 
 ## Agenda
 
@@ -46,15 +45,9 @@ Note that this page is public.
 
 ### Document Discussions
 
-* SSHM draft chat (Cooley)
+
 
 ### Management Issues
-* [2026 IESG Retreat Discussion](https://docs.google.com/document/d/15QjCA8KdaEKEl66BGPGa-Tg0Lt3Y_fyx8NQ5vGMpgzc/edit?tab=t.0) (Roman)
-* Next steps on Trust appointment (nominations close 2026-01-15)
-* Open Source Engagement Team - https://docs.google.com/document/d/12ytT16Sv8qwfpXx7HM_dPdDLwfudPw_GxOn_uEhYFD0/edit?tab=t.0 (Andy, Gunter, Ketan)
-* We are anticipating 3 BoF requests about AI. Should we allow all 3 to go forward or should we do something else. One suggestion is to hold one non-wg forming BoF on the topic. (Andy)
-* Approach to Onboarding new AD and Outprocessing the outgoing ADs queues (Roman + Cindy)
-* Process for OpenPGP key for protocol-vulnerability@ietf.org (Paul)
 
 
 ### WG News 
