@@ -2,7 +2,7 @@
 title: BGP Directorate
 description: 
 published: true
-date: 2026-01-16T14:03:46.980Z
+date: 2026-01-16T14:11:57.997Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T16:26:26.164Z
@@ -54,8 +54,9 @@ c) All major sections are complete beyond just the techncial procedures, encodin
 
 The objective is to be able to update documents early in their development based on review feedbacks.
 
+![bgp_directorate-1.jpg](/bgp_directorate-1.jpg)
+
+
 Review requests will be generally raised by WG chairs of the WG that the document belongs to. In exceptional cases, the BGP Directorate chairs/secretaries or ADs may also request.
 
-
-
-
+![bgp_directorate-2.jpg](/bgp_directorate-2.jpg)
