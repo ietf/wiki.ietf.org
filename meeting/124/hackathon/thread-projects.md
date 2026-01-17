@@ -2,7 +2,7 @@
 title: IETF 124 Hackathon Thread Projects
 description: 
 published: true
-date: 2025-12-14T00:59:49.975Z
+date: 2026-01-17T20:12:13.743Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T17:46:51.454Z
@@ -72,6 +72,8 @@ Esko Dijk (IoTconsultancy.nl)
   - **Event logging.** Due to limited resources (device's memory, bandwidth, connectivity issues etc.) it is hard to fetch debug text logs from End Devices set up in the home's network. The idea is to implement an event logger which can store only necessary data that can be fetched in a binary form to be decoded by a simple script/app.
 
   - **Internet-Connected Clock.** The United States has a [time service radio broadcast](https://en.wikipedia.org/wiki/WWVB) and clocks are available that receive this signal to set their time automatically. However, depending on where you live, the radio signal can be weak and unreliable. In our modern world of Internet connectivity, a compelling product would be a battery-powered clock that gets its time from an Internet time server rather than via radio waves from Fort Collins, Colorado. Using a Thread radio would be ideal for a product like this. The amount of data to be received is small. The hardware cost for a Thread radio is low, and the low power consumption of Thread is ideal for battery-powered device that are expected to run for months or years on a single battery.
+
+  - **TCP Ack Generation Trigger.** The DNS Stateful Operations specification ([RFC 8490](https://datatracker.ietf.org/doc/html/rfc8490#section-9.5)) describes a performance issue when using unidirectional messages: TCP Delayed Acknowledgement and Nagle’s algorithm are both excellent features that protect networks from excessive traffic, and neither should be disabled, but they can interact to introduce delays when a sender generates a stream of unidirectional messages. This is not a protocol flaw in TCP, but an API deficiency in most current networking APIs. Thread uses Service Registration Protocol ([RFC 9665](https://datatracker.ietf.org/doc/html/rfc9665)) which makes use of unidirectional messages. The OpenThread TCP API should be enhanced to allow an SRP client to indicate that it has received a unidirectional message, to tell the TCP implementation it need not wait any longer before sending its delayed acknowledgement. This could be implemnted by having a zero-length “empty” write trigger the sending of a delayed acknowledgement (an “empty” write being the logical response to a unidirectional message) or by adding an explicit SendDelayedAck() API call. An explicit API call might help client code be more understandable — but that explicit API call could be implented simply as a wrapper function that generates a zero-length write operation.
 
 ----
 
