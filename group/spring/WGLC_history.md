@@ -2,7 +2,7 @@
 title: spring WGLC History
 description: 
 published: true
-date: 2026-01-15T13:38:43.301Z
+date: 2026-01-19T21:02:21.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:52:25.846Z
@@ -47,3 +47,10 @@ dateCreated: 2023-08-14T18:52:25.846Z
    * 2024-07-17: The Shepherd (Ketan Talaulikar) sent a review.
    * 2025-01-06: Status: [WGLC ended](https://mailarchive.ietf.org/arch/msg/spring/J1bVdJsKfxTRhHOSau02xnNe-wQ/), but it was inconclusive.  Waiting for updates before a new WGLC.
    * 2026-01-15: No progress; took the draft off the WGLC queue.
+* draft-ietf-spring-resource-aware-segments
+  * [Responsible Chair: Alvaro]
+  * 2024-03-05 Authors sent request
+  * 2024-07-19 Not ready. A first set of comments sent on the list (Bruno) 
+  * 2025-09-25 Started [WGLC](https://mailarchive.ietf.org/arch/msg/spring/eapWIz3JcpzVLm7xPfSe30jaQUg/).
+  * 2025-10-14: The outcome of the WGLC is tied to the NRP-related Interim from Oct/14.  Will require a new WGLC after Operational Considerations are included.
+  * 2026-01-19 [Publication Requested](https://mailarchive.ietf.org/arch/msg/spring/NEOlFyUqPytunpO3020mUyZ_pAE/)
