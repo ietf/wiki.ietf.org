@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-14T07:45:00.844Z
+date: 2026-01-19T08:47:35.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -202,6 +202,23 @@ YANG2API refers to a mechanism that converts YANG data models into APIs. It enab
 - **Related documents**
 Onions Problem Statement
 https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
+
+
+### YANG Data Model for Network Inventory (IVY)
+- **Champions**
+Yanxia Tan (tanyx11@chinaunicom.cn)
+Haomian Zheng (zhenghaomian@huwei.com)
+
+- **Project Info**
+Network inventory management is a fundamental functional block in the overall network management. It is a critical part for ensuring that the network remains healthy, well planned, and maintained appropriately to meet the operational objectives. Also, it allows operators to keep track of all the components deployed in their networks, including relevant embedded software and hardware. The scope of this project is to evaluate the implementation of ivy WG data models. The base model is assumed to be technology-agnostic, and could be augmented with application- and technology-specific details.
+
+- **Hackathon Plan**
+1.Inventory model verification, verifying the usability and interoperability of the model specified in the draft.
+2.Learn and discuss other ivy draft and data models related to network inventory management.
+
+- **Related documents**
+A Base YANG Data Model for Network Inventory
+https://datatracker.ietf.org/doc/draft-ietf-ivy-network-inventory-yang/
 
 ---
 
