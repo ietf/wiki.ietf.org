@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-01-09T18:40:04.558Z
+date: 2026-01-19T21:01:15.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -27,6 +27,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
   - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
   - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
+  - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
 
 ## Drafts report 2 implementations, but no implementation report. 
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
@@ -64,7 +65,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
  - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
-- [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
+
 
     
 &nbsp;
