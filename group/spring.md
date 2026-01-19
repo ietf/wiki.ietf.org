@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-01-15T13:38:57.331Z
+date: 2026-01-19T18:06:45.116Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -78,6 +78,7 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-jiang-spring-sr-policy-nrp
   * [Responsible Chair: Alvaro]
   * 2025-11-27 Request from authors
+  * 2026-01-19 [Call for Adoptopn](https://mailarchive.ietf.org/arch/msg/spring/-CSkBHYjXpuT4xg0gUdEeEhOBI4/)
 
   
   > History of WG Adoption
