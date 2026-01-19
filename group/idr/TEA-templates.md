@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2026-01-19T12:49:14.752Z
+date: 2026-01-19T12:54:36.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -18,9 +18,17 @@ particular tunnel.
 Authors of BESS and IDR draft have begun to expand on the 
 tunnel types and Sub-TLVs specifed in [RFC9012](https://datatracker.ietf.org/doc/rfc9012/).  
 
+Authors wishing to quickly pass the IDR review of 
+SR drafts that use tunnel enchapsulation should review the 
+checklist below:
+
+- [Tunnel-type Checklist](/group/idr/TEA-Checklist/Tunnel-TLV)
+- [Tunnel-subTLV Checklist](/group/idr/TE-Checklist/Tunnel-SubTLV)
+- [Tunnel-PMSI Checklist](/group/idr/TEA-Checklist/PMSI)
+
 The IDR chairs provide these templates for authors to 
 help them provide the necessary information for tunnels or 
-sub-TLVs. 
+sub-TLVs. T
 
 ## New Tunnel Types 
 [Tunnel-type template](/group/idr/TEA-templates/Tunnel)
