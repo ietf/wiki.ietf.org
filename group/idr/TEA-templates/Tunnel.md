@@ -2,7 +2,7 @@
 title: BGP Tunnel Encapsulation Attribute - Tunnel Template 
 description: BGP TEA Tunnel Template 
 published: true
-date: 2026-01-19T16:29:26.496Z
+date: 2026-01-19T16:34:35.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:27:02.904Z
@@ -70,14 +70,16 @@ and link to a more extended text block giving a detailed description.
 Gather a full list of subTLVs and put it in a table 
 
 | Tunnel-name | Code | SubTLVS Supported | SubTLVs not supported | documents | 
-|---|---|---|---|
-| New-tunnel | TBD1 | List-1 | List-2 | 
+|---|---|---|---|----|
+| New-tunnel | TBD1 | List-1 | List-2 | drafts | 
 {.dense}
 
-List 1: Encapsulation (1), Protocol Type (2), Color (3), Tunnel Egress Endpoint (6), 	DS Field (7), UDP Destination Port (8), 
+#### List-1 
+Encapsulation (1), Protocol Type (2), Color (3), Tunnel Egress Endpoint (6), 	DS Field (7), UDP Destination Port (8), 
 Embedded Label Handling (9), MPLS Label Stack (10), Prefix-SID (11), Preference (12), binding SID (13), ENLP (14), Priority (15),  SRv6 Binding SID (20), NRP (123), Segment List (128), 	Policy CP Name (129), Policy Name (130), New-TLV1 (TBD2), new-TLV2 (TBD3)
 
-List 2: Load-Balancing Block (5), SPI/SI (16), IPSEC-SA-ID (64),
+#### List-2
+Load-Balancing Block (5), SPI/SI (16), IPSEC-SA-ID (64),
 Extended Port Property (65), Underlay ISP Properties (66), IPsec SA Nonce (67), IPsec Public Key (68), 	IPsec SA Proposal (69), 	Simplified IPsec SA (70), IPsec Version (71), RPF (124), Tree Label Stack (125), The WAN ID (192), The Bytes (193), IPSEC DIM (194), 
 IPSEC Key Exchange (195), IPSEC SA Proposals (196), Service Segment List (197), 	Service Vtep (198), 	Distributed Etherlink Switch (DES) Adjacency (199). 
 
