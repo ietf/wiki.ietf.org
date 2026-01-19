@@ -2,7 +2,7 @@
 title: BGP Tunnel Encapsulation Attribute - Tunnel Template 
 description: BGP TEA Tunnel Template 
 published: true
-date: 2025-03-03T17:18:38.229Z
+date: 2026-01-19T16:29:26.496Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:27:02.904Z
