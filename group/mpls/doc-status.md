@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-01-09T11:34:25.445Z
+date: 2026-01-21T11:04:27.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,7 +31,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-xiao-mpls-lsp-ping-ioam-conf-state](https://datatracker.ietf.org/doc/draft-xiao-mpls-lsp-ping-ioam-conf-state/) | 2026-01-19 |  | Adrian |
 | [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | 2026-01-20 |  | Tarek |
 | [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | 2026-01-22 |  | Tony |
 
