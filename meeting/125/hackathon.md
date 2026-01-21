@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-21T01:21:18.470Z
+date: 2026-01-21T01:24:46.337Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -230,7 +230,7 @@ Ran Chen (chen.ran@zte.com.cn )
 Junfang Wang (wjf@fiberhome.com )
 
 - **Project Info**
-SRv6 End.IL is a variant of the SRv6 End behavior, an SRv6 End.IL SID steers packets to a remote network node via an underlay network connection. SRv6 End.IL behavior can be used for SRv6 based inter-layer path programming and traffic engineering, so as to provide differentiated and guaranteed performance for different services. 
+SRv6 END.IL is a variant of the SRv6 End behavior, an SRv6 END.IL SID steers packets to a remote network node via an underlay network connection. SRv6 END.IL behavior can be used for SRv6 based inter-layer path programming and traffic engineering, so as to provide differentiated and guaranteed performance for different services. 
 
 - **Hackathon Plan**
 1.Learn about the background and key protocol mechanism of SRv6 END.IL;
