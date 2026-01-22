@@ -2,7 +2,7 @@
 title: NomCom Liaison
 description: 
 published: true
-date: 2026-01-22T17:22:12.243Z
+date: 2026-01-22T17:22:24.717Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T00:43:38.059Z
@@ -17,7 +17,7 @@ The Liaison cannot be a candidate for any open leadership position. As such an I
 
 The liaison is expected to represent the IAB neutrally and not to advocate for any particular outcome. All discussions and supporting information within the NomCom are confidential and not to be shared outside of the NomCom (including with the IAB). The NomCom operational procedures and the responsibilities of the IAB Liaison are described in RFC 8713.
 
-The IAB Liaison to NomCom has mainly two basic functions:
+The IAB Liaison to the NomCom has mainly two basic functions:
 
 1. The Liaison participates as a non-voting in order to represent the views of the IAB and provide information about the duties involved in serving on the IAB or the operation of the IAB when requested or when believe it would be helpful. As such the liaison is responsible  to provide NomCom with a (1) brief summary of desired expertise for the IAB Member position and (2) list of IAB members’ open positions to be reviewed and an indication of who will/will not run for that position as well as for conveying questions to the IAB and responses for the committee. The NomCom description is maintained on GitHub and should be updated if needed: https://github.com/intarchboard/nomcom-description/blob/master/iab-nomcom-description.txt
 
