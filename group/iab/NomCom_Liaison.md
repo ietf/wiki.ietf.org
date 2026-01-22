@@ -2,7 +2,7 @@
 title: NomCom Liaison
 description: 
 published: true
-date: 2026-01-22T17:22:03.335Z
+date: 2026-01-22T17:22:12.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T00:43:38.059Z
@@ -15,7 +15,7 @@ The Liaison cannot be a candidate for any open leadership position. As such an I
 
 ## Responsibilites 
 
-The liaison is expected to represent the IAB neutrally and not to advocate for any particular outcome. All discussions and supporting information within the NomCom are confidential and not to be shared outside of NomCom (including with the IAB). The NomCom operational procedures and the responsibilities of the IAB Liaison are described in RFC 8713.
+The liaison is expected to represent the IAB neutrally and not to advocate for any particular outcome. All discussions and supporting information within the NomCom are confidential and not to be shared outside of the NomCom (including with the IAB). The NomCom operational procedures and the responsibilities of the IAB Liaison are described in RFC 8713.
 
 The IAB Liaison to NomCom has mainly two basic functions:
 
