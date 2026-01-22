@@ -2,7 +2,7 @@
 title: NomCom Liaison
 description: 
 published: true
-date: 2026-01-22T17:28:59.851Z
+date: 2026-01-22T17:29:06.770Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T00:43:38.059Z
@@ -25,9 +25,7 @@ The IAB Liaison to the NomCom has mainly two basic functions:
 
 ## Time commitment 
 
-It is important for the Liaison to attend most NomCom meetings, both virtual and in-person. Each NomCom will set its own schedule, but based on past practice this means a weekly call is held during the months of October-December. The Liaison usually also assists on some interviews, subject to each NomCom’s decision to do so. During the in person IETF meeting in November, the NomCom usually meets daily for a breakfast meeting and schedules most interviews during the week. When in-person IETF meetings are held, the combination of IAB and NomCom commitments can create considerable scheduling pressure. 
-
-While traditionally the intention is for the Liaison to attend the November meeting, remote participation might be possible as well.
+It is important for the Liaison to attend most NomCom meetings, both virtual and in-person. Each NomCom will set its own schedule, but based on past practice this means a weekly call is held during the months of October-December. The Liaison usually also assists on some interviews, subject to each NomCom’s decision to do so. During the in person IETF meeting in November, the NomCom usually meets daily for a breakfast meeting and schedules most interviews during the week. When in-person IETF meetings are held, the combination of IAB and NomCom commitments can create considerable scheduling pressure. While traditionally the intention is for the Liaison to attend the November meeting, remote participation might be possible as well.
 
 ---
 
