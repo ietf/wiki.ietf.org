@@ -2,7 +2,7 @@
 title: NomCom Liaison
 description: 
 published: true
-date: 2023-12-09T00:33:33.646Z
+date: 2026-01-22T17:16:58.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T00:43:38.059Z
@@ -11,7 +11,7 @@ dateCreated: 2023-12-05T00:43:38.059Z
 # NomCom Liaison
 ## Candidates 
 
-The Liaison can not be a candidate for any open leadership position. As such an IAB member that would be up for reselection would automatically announce to not stand for another term by taking the liaison position. The opportunity to serve as a Liaison to NOMCOM is a great learning opportunity for anyone considering other leadership positions as it provides exposure to IETF’s selection process for IESG, IAB, IETF Trust Trustee, and IETF LLC positions.
+The Liaison cannot be a candidate for any open leadership position. As such an IAB member that would be up for reselection would automatically announce to not stand for another term by taking the liaison position. The opportunity to serve as a Liaison to NOMCOM is a great learning opportunity for anyone considering other leadership positions as it provides exposure to IETF’s selection process for IESG, IAB, IETF Trust Trustee, and IETF LLC positions.
 
 ## Responsibilites 
 
