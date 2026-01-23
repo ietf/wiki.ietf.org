@@ -2,7 +2,7 @@
 title: IAB 2025-2026 Schedule
 description: Schedule for IAB meetings from March 2025-March 2026
 published: true
-date: 2026-01-09T19:42:55.194Z
+date: 2026-01-23T17:36:47.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T04:33:05.299Z
@@ -18,7 +18,7 @@ The IAB will hold in-person Full Board Meetings at IETF meetings, during the IAB
 
 Virtual meetings will be 2-hour slots from 06:00-08:00 Pacific Time, throughout the year. Reserved meeting slots are planned to not be used, but should be reserved on calendars in case there is an emergency reason to meet. Reserved meeting slots should be determined to be used 1-2 weeks in advance.
 
-Informal meetings will be one-hour slots every week that alternate between  07:00-08:00 Pacific Time and 14:00-15:00 Pacific Time. Informal meetings can be used for committee discussions or ad hoc topics. If there is nothing on an informal agenda by the end of day Friday the week before, the informal meeting will be cancelled.
+Informal meetings will be one-hour slots every week that alternate between  three different time slots to accomodate different time zones. Informal meetings can be used for committee discussions or ad hoc topics. If there is nothing on an informal agenda by the end of day Friday the week before, the informal meeting will be cancelled.
 
 ## Full Board Meetings
 
