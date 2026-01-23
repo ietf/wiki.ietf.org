@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-23T05:05:08.899Z
+date: 2026-01-23T05:07:43.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,12 +28,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 1. Topic: IAB Statement on Appeals (Jason, Dhruv)
 
 
-
 ### 2. Executive Session: Next Steps on ISOC BOT Appontment
 
 Note: Nominations close 2026-01-27
 
 ## Potential Tentaive Topic, if there is time
+
+### ICANN85 Outreach Planning (Dhruv, Warren)
 
 ### Wiki updates (Dhruv)
 
