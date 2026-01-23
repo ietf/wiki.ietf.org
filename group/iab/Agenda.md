@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-22T16:41:12.332Z
+date: 2026-01-23T05:05:08.899Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -33,6 +33,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Note: Nominations close 2026-01-27
 
+## Potential Tentaive Topic, if there is time
+
+### Wiki updates (Dhruv)
+
+ - Workshop Wiki (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/IAB_Workshop_Guidelines.md)
+ - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
 
 ## Regrets
 
