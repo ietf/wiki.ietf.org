@@ -2,7 +2,7 @@
 title: V6OPS WG - IPv6 Operations
 description: Wiki for V6OPS WG
 published: true
-date: 2026-01-13T18:15:42.388Z
+date: 2026-01-23T15:26:37.593Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T00:02:34.685Z
@@ -22,24 +22,34 @@ Welcome to the wiki for V6OPS!
 
 ### Chair call topics
 
-* [draft-ietf-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-ietf-v6ops-icmpext-xlat-v6only-source/) - Waiting on Shepherd Write-up
+* [draft-ietf-v6ops-icmpext-xlat-v6only-source](https://datatracker.ietf.org/doc/draft-ietf-v6ops-icmpext-xlat-v6only-source/) - Waiting on Shepherd Write-up (completed, waiting on submission)
 ** Projected completion: 27-Jan-2026
 
 * [draft-ietf-v6ops-framework-md-ipv6only-underlay](https://datatracker.ietf.org/doc/draft-ietf-v6ops-framework-md-ipv6only-underlay/) - Delayed. Changes Requested, Almost complete
 ** Projected meeting for discussion: 27-Jan-2026
 
+* [draft-palet-v6ops-rfc6146-bis](https://datatracker.ietf.org/doc/draft-palet-v6ops-rfc6146-bis/) - Adoption call needed
+** Projected meeting for discussion: 27-Jan-2026
+
+* [draft-palet-v6ops-rfc7915-bis](https://datatracker.ietf.org/doc/draft-palet-v6ops-rfc7915-bis/) - Adoption call needed
+** Projected meeting for discussion: 27-Jan-2026
+
 ## Open Consensus Calls
+
 * [draft-ietf-v6ops-claton/](https://datatracker.ietf.org/doc/draft-ietf-v6ops-claton/) - WGLC called, Awaiting updated draft.
 ** Projected WGLC completion: 27-Jan-2026
 
-* [draft-palet-v6ops-nat64-std](https://datatracker.ietf.org/doc/draft-palet-v6ops-nat64-std/) - Adoption and/or Discussion of changes
-** Telechat scheduled
+
 
 
 ## Completed Consensus Calls
 
-  
-   
+* [draft-palet-v6ops-nat64-std](https://datatracker.ietf.org/doc/draft-palet-v6ops-nat64-std/) - IESG Approval
+
+* [status-change-siit-dc-to-proposed-standard](https://datatracker.ietf.org/doc/status-change-siit-dc-to-proposed-standard/) - IESG Approval
+
+* [draft-palet-v6ops-siit-dc-dtm-st](https://datatracker.ietf.org/doc/draft-palet-v6ops-siit-dc-dtm-st/)  - IESG Approval
+
 ## Milestones
 
 
