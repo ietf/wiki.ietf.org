@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2025-12-19T06:01:20.588Z
+date: 2026-01-23T20:26:55.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -14,9 +14,9 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [IAB 2025-2026 Schedule](/group/iab/2025_Schedule)
 * [IAB Meeting Agenda](/group/iab/Agenda)
 * [IAB Retreats](/group/iab/IAB_Retreats)
-* [IAB IETF 124 Agenda](/group/iab/Agenda124)
-* [IAB Breakout Room Reservations](/group/iab/Breakout124)
-* [IETF 124 BoF Coverage](/group/iab/Bof124)
+* [IAB IETF 125 Agenda](/group/iab/Agenda125)
+* [IAB Breakout Room Reservations](/group/iab/Breakout125)
+* [IETF 125 BoF Coverage](/group/iab/Bof125)
 * [New Work "Help Desk"](/group/iab/newwork-schedule)
 
 * [Archive of past Bof Coverage](/group/iab/Bof_Coverage)
