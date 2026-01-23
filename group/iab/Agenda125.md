@@ -1,0 +1,108 @@
+---
+title: IAB Agenda at IETF 125
+description: 
+published: true
+date: 2026-01-23T20:22:19.469Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T20:22:19.469Z
+---
+
+# Agenda125
+
+## IAB Breakout Room
+
+To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Breakout125
+ 
+
+## Potential Topics
+
+
+
+## Saturday, 2026-03-14
+
+### AMS-IETF Leadership Venue Tour & Happy Hour
+The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
+Details TBD
+
+
+## Sunday, March 16, 2026
+
+### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: TBD)
+
+> Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
+> Meetecho: 
+
+### 09:30 or 14:00 - IAB Business Meeting (Room: TBD)
+
+
+
+### Evening Meeting Events
+
+> **New Participant's Quick Connections** 16:00-17:00
+>   Room: TBD
+> **Welcome Reception** 17:00-19:00
+>   Room: TBD
+> **HotRFC Lightning Talks** 18:00-20:00
+>   Room: TBD
+{.is-info}
+
+
+
+
+## Monday, 2026-03-16
+
+
+
+### 13:15-14:15: IETF-3GPP Coordination (Room: TBD)
+ 
+## Tuesday, 2026-03-17
+
+### 08:00-09:20 IAB Business Meeting (Room: TBD)
+
+> Meetecho: 
+> 
+> Agenda:
+
+
+
+
+## Wednesday, 2026-03-18
+
+
+
+### 17:30-19:30 - IETF 125 Plenary (Room: TBD)
+
+
+## Thursday, 2026-03-19
+
+### 08:00-09:20 IAB Business Meeting (Room: TBD)
+
+> Meetecho: 
+> 
+> Agenda:
+
+
+
+
+### Non-required events:
+
+> **New Participants' Social Hour** Time: TBD
+> Room: TBD
+> Opportunity to socialize with new participants and hear how their meeting week has been
+{.is-info}
+
+
+## Friday, 2026-03-20 
+
+### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Room: TBD)
+
+> Meetecho: 
+> 
+> Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
+
+
+### Time TBD: Farewell Reception 
+
+
+
