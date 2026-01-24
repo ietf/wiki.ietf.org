@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-21T08:01:33.580Z
+date: 2026-01-24T14:11:42.945Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -243,6 +243,52 @@ SRv6 for Inter-Layer Network Programming
 https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-inter-layer-programming/
 
 ---
+
+### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Wanting Du (wanting.du @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Paolo Lucente  (paolo @ pmacct.net)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Benoit Claise (benoit @ everything-ops.net)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-anydata-validation
+
+- **Draft Specifications YANG-Push**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+
+
+- **Project Info**
+https://www.network-analytics.org/yp/, validate and verify
+
+- 5 YANG-Push Publishers
+- 2 YANG-Push Receivers
+- 2 YANG-Push Network Telemetry Message
+- 1 YANG Message Broker Producer, Consumer and Schema Registry
+
+implementation in the area of YANG data integration automation. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/125/Hackathon
+https://github.com/NetGauze/NetGauze/releases/tag/v0.9.0
+https://github.com/pmacct/pmacct
+https://github.com/CESNET/libyang/releases/tag/v4.2.2
+
+---
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
