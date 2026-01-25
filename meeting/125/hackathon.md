@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-24T14:11:42.945Z
+date: 2026-01-25T22:14:13.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -286,6 +286,14 @@ https://github.com/network-analytics/ietf-network-analytics-document-status/tree
 https://github.com/NetGauze/NetGauze/releases/tag/v0.9.0
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v4.2.2
+
+### DKIM2
+- **Champions**
+Bron Gondwana <brong@fastmailteam.com>
+- **Project Info**
+Continuing DKIM2 work, following on from the last hackathon.
+- **Repository** -
+https://github.com/dkim2wg/interop
 
 ---
 
