@@ -2,7 +2,7 @@
 title: IETF 125 Shuttle Bus Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing complimentary shuttles from the Hong Kong airport to the Futian Shangri-la hotel in Shenzhen. Please sign up for the slot that works best for your arrival schedule.
 published: true
-date: 2026-01-26T23:12:51.879Z
+date: 2026-01-26T23:14:10.774Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T17:36:50.158Z
@@ -29,32 +29,32 @@ Further details regarding meeting points will be provided to those who sign up b
 
 ## 13:00 Friday, March 13, 2026
 
-| NAME | EMAIL |
-|:----:|:------:|
+| NAME | EMAIL | REMARK | FLIGHT ARRIVAL |
+|:------:|:------:|:------:| :------:| 
 |      |        |  
 |      |        |  
 
 
 ## 17:00 Friday, March 13, 2026
 
-|      NAME      |    EMAIL     |          Remarks
-|:--------------:|:------------:|:-----------------------------------------------------
+| NAME | EMAIL | REMARK | FLIGHT ARRIVAL |
+|:------:|:------:|:------:| :------:| 
 |  Job Snijders  |  job@bsd.nl  |  Arrive @ 16:20 from AMS, if too short the 19:00 bus?
 |  Willem Toorop |  willem@nlnetlabs.nl  | Arrive @ 16:20 from AMS, if too short the 19:00 bus?
 |  Benno Overeinder |  benno@nlnetlabs.nl  | Arrive @ 16:20 from AMS, if too short the 19:00 bus?
 
 ## 19:00 Friday, March 13, 2026
 
-| NAME | EMAIL | Remark |
-|:----:|:------:|:------:|
+| NAME | EMAIL | REMARK | FLIGHT ARRIVAL |
+|:------:|:------:|:------:| :------:| 
 | Éric Vyncke | evyncke@cisco.com |  |
 | Stephane Litkowski | slitkows@cisco.com | Arrival at 4:20pm, may be too short to get the 5pm shuttle |
 | Dmitry Kuznetsov | mail@dmitry.fyi | Arrival at 4:20pm |
 
 ## 12:00 Saturday, March 14, 2026
 
-| NAME | EMAIL | REMARK  |
-|:----:|:------:|:------:|
+| NAME | EMAIL | REMARK | FLIGHT ARRIVAL |
+|:------:|:------:|:------:| :------:| 
 | Éric Vyncke | evyncke@cisco.com |  
 | Mahesh Jethanandani | mjethanandani@gmail.com |  1+1  |
 | Bron Gondwana | brong@fastmailteam.com | Arrival Fri 20:30 on CX 807 |
