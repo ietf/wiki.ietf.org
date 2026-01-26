@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-26T22:28:53.455Z
+date: 2026-01-26T22:34:51.450Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,7 +40,8 @@ Note that this page is public.
 
 ### Administrivia
 
-
+- Retreat survey results (Secretariat)
+- IETF 125 scheduling (Secretariat)
 
 
 ### Document Discussions
