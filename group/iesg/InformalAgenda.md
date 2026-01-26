@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-26T22:34:51.450Z
+date: 2026-01-26T22:35:47.400Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
