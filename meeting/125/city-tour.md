@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-01-26T15:13:24.074Z
+date: 2026-01-27T04:12:58.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -43,6 +43,7 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Christian Giese | christian@rtbrick.com | |
 | Benno Overeinder | benno@nlnetlabs.nl | |
 | Willem Toorop | willem@nlnetlabs.nl | |
+| Karen O'Donoghue | kodonog@pobox.com | |
 
 
 
