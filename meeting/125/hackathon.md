@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-26T01:22:14.492Z
+date: 2026-01-27T01:29:33.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -197,11 +197,26 @@ Chongfeng Xie (xiechf@chinatelecom.cn)
 Wenbin Yu (yuwb6@chinatelecom.cn)
 
 - **Project Info**
-YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. When deploying YANG2API, it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks, such as TMF640, in order to improve consistency and reduce integration friction.
+YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. When deploying YANG2API, it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks, such as TMF640, in order to improve consistency and reduce integration friction.YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. To improve consistency and reduce integration friction,  it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks via YANG2API, such as TMF640. Based on the YANG2API tool jointly developed, this project will investigate the effectiveness of transforming existing mainstream network and service abstractions into APIs, discusses and evaluates identified issues in the process with partners. The purpos of this project is to explore mature patterns for exposing YANG-based abstractions to external applications.
+
 
 - **Related documents**
 Onions Problem Statement
 https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
+RFC8299 - YANG Data Model for L3VPN Service Delivery
+https://datatracker.ietf.org/doc/rfc8299/
+RFC8466 - A YANG Data Model for Layer 2 Virtual Private Network (L2VPN) Service Delivery
+https://datatracker.ietf.org/doc/rfc8466/
+RFC 9182 - A YANG Network Data Model for Layer 3 VPNs
+https://datatracker.ietf.org/doc/rfc9182/
+RFC9291 - A YANG Network Data Model for Layer 2 VPNs
+https://datatracker.ietf.org/doc/rfc9291/
+RFC 9833 - A Common YANG Data Model for Attachment Circuits
+https://datatracker.ietf.org/doc/rfc9833/
+RFC 9834 - YANG Data Models for Bearers and Attachment Circuits as a Service (ACaaS)
+https://datatracker.ietf.org/doc/rfc9834/
+RFC 9835 - A Network YANG Data Model for Attachment Circuits
+https://datatracker.ietf.org/doc/rfc9835/
 
 
 ### YANG Data Model for Network Inventory (IVY)
