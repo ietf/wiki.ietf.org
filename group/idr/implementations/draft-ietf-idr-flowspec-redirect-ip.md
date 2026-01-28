@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-flowspec-redirect-ip
 description: 
 published: true
-date: 2026-01-28T12:57:19.707Z
+date: 2026-01-28T12:57:38.025Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T05:50:50.566Z
