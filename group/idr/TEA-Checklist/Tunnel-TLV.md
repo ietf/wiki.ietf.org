@@ -2,7 +2,7 @@
 title: RFC9012 - Tunnel Encapsulation Checklist for TLV specifying type  
 description: RFC9012 Top TLV checklist 
 published: true
-date: 2026-01-28T15:38:23.400Z
+date: 2026-01-28T15:51:59.993Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-19T16:38:28.715Z
@@ -46,5 +46,7 @@ Validation could include:
 
 ## Formats 
 
-The BGP Tunnel Encapsulation Templates give sample formats. 
+The BGP Tunnel Encapsulation Templates give more details per section. 
+See [Tunnel-type template](https://wiki.ietf.org/e/en/group/idr/TEA-templates/Tunnel).
+
 These formats will help readers quickly review your document. 
