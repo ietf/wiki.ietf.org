@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-28T02:53:50.780Z
+date: 2026-01-28T06:53:53.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -310,6 +310,24 @@ Bron Gondwana <brong@fastmailteam.com>
 Continuing DKIM2 work, following on from the last hackathon.
 - **Repository** -
 https://github.com/dkim2wg/interop
+
+
+### Agent Communication Framework for Network AIOps
+- **Champions**
+Qiong Sun (sunqiong@chinatelecom.cn)
+Yu Fu (fuy44@chinatelecom.cn)
+
+- **Project Info**
+As the development of large model and agent technology, it is a trend for multi-agent collaboration to solve complex problems.  This
+project proposes a multi-agent communication and collaboration framework that facilitates the coordination of heterogeneous multi-agents and supports intelligent automatic network operations and maintenance (AIOps).  Its architecture includes an AI gateway and an Agent Name Service, along with capabilities such as monitoring and tracking, as well as security protection.  This Agent Communication Framework provides a comprehensive solution for multi-agent communication and collaboration, laying the foundation for future interactive, scalable, secure, and controllable multi-agent network intelligent operations and maintenance.
+
+- **Hackathon Plan**
+1.A multi-agent communication and collaboration framework includes an AI gateway and an Agent Name Service specified in the draft.
+2.Use cases for multi-agent communication and collaboration to supports intelligent automatic network operations and maintenance.
+
+- **Related documents**
+Agent Communication Framework for Network AIOps
+https://datatracker.ietf.org/doc/draft-fu-nmop-agent-communication-framework/
 
 ---
 
