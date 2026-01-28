@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2026-01-28T16:39:34.968Z
+date: 2026-01-28T16:40:27.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
@@ -101,7 +101,7 @@ It may include the tunnel types in individual drafts.
   One way to provide this is a Table. Below is an example. 
 #### Sub TLV Validation 
  | Tunnel-name | Code | SubTLVs Mandatory| SubTLVs Optional | SubTLVs not supported | documents | 
-|---|---|---|---|
+|---|---|---|---|---|---|
 | New-tunnel | TBD1 | List-1 | List-2 | list-3 | ietf-documents |  
 {.dense}
 
