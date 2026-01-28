@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-28T06:57:01.640Z
+date: 2026-01-28T07:59:20.123Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -194,6 +194,7 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 ### YANG2API
 - **Champions**
 Chongfeng Xie (xiechf@chinatelecom.cn)
+Sicong Ma
 Wenbin Yu (yuwb6@chinatelecom.cn)
 Linda Dunbar (linda.dunbar@futurewei.com)
 
