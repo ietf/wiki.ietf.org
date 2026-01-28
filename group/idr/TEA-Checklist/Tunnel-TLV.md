@@ -2,13 +2,14 @@
 title: RFC9012 - Tunnel Encapsulation Checklist for TLV specifying type  
 description: RFC9012 Top TLV checklist 
 published: true
-date: 2026-01-28T14:18:58.523Z
+date: 2026-01-28T14:21:56.662Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-19T16:38:28.715Z
 ---
 
-# Top level TLV 
+# Top level TLV for Tunnel Encapsulation Attribute 
+## [RFC9012](https://datatracker.ietf.org/doc/rfc9012/)
 ## What needs to be specified 
 
 1. Name - Name of Top level TLV 
