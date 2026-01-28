@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-27T01:29:33.985Z
+date: 2026-01-28T02:53:50.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -195,6 +195,7 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 - **Champions**
 Chongfeng Xie (xiechf@chinatelecom.cn)
 Wenbin Yu (yuwb6@chinatelecom.cn)
+Linda Dunbar (linda.dunbar@futurewei.com)
 
 - **Project Info**
 YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. When deploying YANG2API, it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks, such as TMF640, in order to improve consistency and reduce integration friction.YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. To improve consistency and reduce integration friction,  it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks via YANG2API, such as TMF640. Based on the YANG2API tool jointly developed, this project will investigate the effectiveness of transforming existing mainstream network and service abstractions into APIs, discusses and evaluates identified issues in the process with partners. The purpos of this project is to explore mature patterns for exposing YANG-based abstractions to external applications.
