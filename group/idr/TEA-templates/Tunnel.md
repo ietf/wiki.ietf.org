@@ -2,7 +2,7 @@
 title: BGP Tunnel Encapsulation Attribute - Tunnel Template 
 description: BGP TEA Tunnel Template 
 published: true
-date: 2026-01-28T15:50:13.041Z
+date: 2026-01-28T15:53:40.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:27:02.904Z
@@ -24,7 +24,6 @@ help them provide the necessary information for tunnels or
 sub-TLVs. 
 
 ## New Tunnel Types 
-[Tunnel-type template](https://wiki.ietf.org/e/en/group/idr/TEA-templates/Tunnel)
 
 Tunnel encapsulation specification requires the following things for each tunnel: 
 1. Name
