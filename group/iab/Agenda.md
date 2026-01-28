@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-27T18:38:48.452Z
+date: 2026-01-28T17:15:05.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-01-28, 16:00-17:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-02-04, 23:00-00:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-01-28
+## There WILL NOT be a meeting on 2026-02-04
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=md21c75a559940e947744750a8d8bdd26
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mabfcdfe179487aa21ebe1e1342440d62
 
 
 ## Agenda
@@ -25,14 +25,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Topic: IAB Statement on Appeals (Jason, Dhruv)
+### 1. Topic: 
 
-### 2. Topic: NomCom-related Wiki Updates (Alvaro)
-- [Diffs](https://github.com/ietf/wiki.ietf.org/commit/41fc7e6b2995c92f8ab1613d4fded6c90b10c917)
-
-### 3. Executive Session: Next Steps on ISOC BOT Appointment
-
-Note: Nominations close 2026-01-27
+Context:
 
 ## Potential Tentative Topic, if there is time
 
@@ -45,8 +40,6 @@ Note: Nominations close 2026-01-27
 
 ## Regrets
 
-* Mirja (until Feb 2)
-* Jason (Jan 28)
 * Warren (Jan 28-Feb 16)
 
 
