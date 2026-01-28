@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-flowspec-redirect-ip
 description: 
 published: true
-date: 2026-01-28T12:53:52.785Z
+date: 2026-01-28T12:56:30.808Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T05:50:50.566Z
@@ -54,36 +54,16 @@ Contact Information:
 Last Updated: December 2025
 
 ## Coverage 
-      *  Section 2 IPv4 Extended Community - Implemented.
-
-      *  Section 2 IPv6 Extended Community - Not Implemented.
-
-      *  Section 2 Redirect (C == 0) - Implemented.
-
-      *  Section 2 Copy (C == l) - Not Implemented.
-
-      *  Section 2.1 Validation - Not Implemented.
-
-      *  Section 2.2 Longest prefix match - Implemented.
-
-      *  Section 2.2 Best path ECMP - Implemented.
-
-      *  Section 2.2 Multiple communities ECMP load sharing -
-         Implemented.
-
-      *  Section 2.2 Redirect-to-IP in Redirect-to-VRF - Not
-         Implemented.
-
          
 Section| Description | Cisco |  HPE/Juniper | Huawei | 
 |----|----|----|----|----| 
-Section 2 IPv4 Extended Community | Not Implemented | Implemented |  Implemented | 
-Section 2 IPv6 Extended Community | Not Implemented | Not Implemented |  Implemented | 
-Section 2 Redirect (C == 0) | Not Implemented | Implemented  |  Implemented | 
-Section 2 Copy (C == l)  |  Not Implemented | Not Implemented |   Not Implemented | 
-Section 2.1 Validation | Not Implemented |  Implemented  |  Implemented | 
-Section 2.2 Longest prefix match | TBD | Implemented  | Implemented | 
-Section 2.2 Best path ECMP | TBD  | Implemented   | Implemented | 
-Section 2.2 Multiple communities ECMP load sharing | Not Implemented | Implemented  | Not Implemented | 
-Section 2.2 Redirect-to-IP in Redirect-to-VRF | Not Implemented | Implemented  | Not Implemented | 
+| 2 | IPv4 Extended Community | Not Implemented | Implemented |  Implemented | 
+| 2 | IPv6 Extended Community | Not Implemented | Not Implemented |  Implemented | 
+| 2 | Redirect (C == 0) | Not Implemented | Implemented  |  Implemented | 
+| 2 | Copy (C == 1)  |  Not Implemented | Not Implemented |   Not Implemented | 
+| 2.1 |  Validation | Not Implemented |  Implemented  |  Implemented | 
+| 2.2 |  Longest prefix match | TBD | Implemented  | Implemented | 
+| 2.2 | Best path ECMP | TBD  | Implemented   | Implemented | 
+| 2.2 | Multiple communities ECMP load sharing | Not Implemented | Implemented  | Not Implemented | 
+| 2.2 | Redirect-to-IP in Redirect-to-VRF | Not Implemented | Implemented  | Not Implemented | 
 {dense}
