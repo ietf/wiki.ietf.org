@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2026-01-28T16:36:22.123Z
+date: 2026-01-28T16:39:34.968Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
@@ -34,7 +34,9 @@ In addition, the SUB-tLV may be part of discussions on
 2. A security section with specific comments regarding tunnel, 
 3. A management section that includes comments on how the tunel will be managed. 
 
-## Template with instrucdtions 
+## Template 
+
+This template provides instructions and examples for those authors writing a SubTLV description for an [RFC9012](https://datatracker.ietf.org/doc/rfc9012/) tunnel TLVs. 
 
 ### 1. Title
 **format:** Title: One-line summary
