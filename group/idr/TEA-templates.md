@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2026-01-28T14:25:52.756Z
+date: 2026-01-28T14:26:59.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -22,7 +22,7 @@ Authors wishing to quickly pass the IDR review of
 SR drafts that use tunnel enchapsulation should review the 
 checklist below:
 
-- [Tunnel-TLV Checklist](/group/idr/TEA-Checklist/Tunnel-TLV)
+- [Tunnel TLV (tunnel types) Checklist](/group/idr/TEA-Checklist/Tunnel-TLV)
 - [Tunnel-subTLV Checklist](/group/idr/TE-Checklist/Tunnel-SubTLV)
 - [Tunnel-PMSI Checklist](/group/idr/TEA-Checklist/PMSI)
 
