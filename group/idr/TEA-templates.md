@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2026-01-28T17:05:38.952Z
+date: 2026-01-28T17:07:12.855Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -29,7 +29,7 @@ checklist below:
 
 The IDR chairs provide these templates for authors to 
 help them provide the necessary information for tunnels or 
-sub-TLVs. T
+sub-TLVs. 
 
 ## New Tunnel Types 
 [Tunnel-type (TLV) template](/group/idr/TEA-templates/Tunnel)
