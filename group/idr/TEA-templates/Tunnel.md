@@ -2,7 +2,7 @@
 title: BGP Tunnel Encapsulation Attribute - Tunnel Template 
 description: BGP TEA Tunnel Template 
 published: true
-date: 2026-01-28T15:53:40.317Z
+date: 2026-01-28T15:54:08.097Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:27:02.904Z
@@ -82,7 +82,7 @@ name (code-number) for each item.
 Gather a full list of subTLVs and put it in a table.  Two Examples are shown below:
 
 | Tunnel-name | Code | SubTLVS Mandatory | SUBTLvs Optional | SubTLVs not supported | documents | 
-|---|---|---|---|----|
+|---|---|---|---|----|----|
 | New-tunnel-Foo | TBD1 | List-1 | List-2 | List-3 | [RFC9012](https://datatracker.ietf.org/doc/rfc9012/), [RFC5640](https://datatracker.ietf.org/doc/rfc5640/), [RFC9830](https://datatracker.ietf.org/doc/rfc9830/) | 
 | New-tunnel-Foo | TBD1 | List-4 | List-5 | List-6 |	[draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/), [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/),
 | New-Tunnel-Foo | TBD1 | --   | ---  | List-9 |  [draft-ietf-bess-multicast-controller]
