@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-28T06:55:07.061Z
+date: 2026-01-28T06:57:01.640Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -322,7 +322,7 @@ As the development of large model and agent technology, it is a trend for multi-
 
 - **Hackathon Plan**
 1.A multi-agent communication and collaboration framework includes an AI gateway and an Agent Name Service specified in the draft.
-2.Use cases for multi-agent communication and collaboration to supports intelligent automatic network operations and maintenance.
+2.Use cases for multi-agent communication and collaboration to support intelligent automatic network operation and maintenance.
 
 - **Related documents**
 Agent Communication Framework for Network AIOps
