@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-01-19T21:01:15.816Z
+date: 2026-01-28T14:07:00.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -29,7 +29,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
   - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
 
-## Drafts report 2 implementations, but no implementation report. 
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
 
 ## Fast Track Drafts (returned to WG, 2 implementations)
