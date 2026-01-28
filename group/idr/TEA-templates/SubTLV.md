@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2026-01-28T16:20:18.611Z
+date: 2026-01-28T16:35:27.896Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
@@ -66,7 +66,7 @@ Please specify:
   b) definition  
   c) limits on the field - what values the field can take. If the field is variable give some indication of what the range or how it is calculated. 
 
-#### 4.3) Error handling 
+#### 4.3 Error handling 
 
 **Do:** 1. Specify what constitutes malformed subTLV, and how a malformed subTLV is process.  
 
@@ -76,7 +76,7 @@ Please specify:
 
 If content checking is done in another process, still give a general hint on what that processing is.   
 
-**Dont:** Hide the SubTLV error processing in an error handling section. 
+**Do noy** Hide the SubTLV error processing in an error handling section. 
 
 The Error handling section should contain an overall summary of error handling. 
 Refer to this section, but provide the specific details for this subTLV in this section. 
@@ -97,16 +97,21 @@ It may include the tunnel types in individual drafts.
   Please indicate whether this subTLV is involved in the validation of the tunnel. 
   
   One way to provide this is a Table. Below is an example. 
-   
+#### Sub TLV Validation 
  | Tunnel-name | Code | SubTLVs Mandatory| SubTLVs Optional | SubTLVs not supported | documents | 
 |---|---|---|---|
-| New-tunnel | TBD1 | List-1 | List-2 | list-3 |  |  
+| New-tunnel | TBD1 | List-1 | List-2 | list-3 | ietf-documents |  
 {.dense}
 
-List 1: Encapsulation (1), Protocol Type (2), Color (3), Tunnel Egress Endpoint (6), 	DS Field (7), UDP Destination Port (8), 
-Embedded Label Handling (9), MPLS Label Stack (10), Prefix-SID (11), Preference (12), binding SID (13), ENLP (14), Priority (15),  SRv6 Binding SID (20), NRP (123), Segment List (128), 	Policy CP Name (129), Policy Name (130), New-TLV1 (TBD2), new-TLV2 (TBD3)
+##### List 1: 
+Prefix-SID (11), Preference (12), binding SID (13), ENLP (14), Priority (15),  SRv6 Binding SID (20), NRP (123), Segment List (128), 	
 
-List 2: Load-Balancing Block (5), SPI/SI (16), IPSEC-SA-ID (64),
+##### List 2:
+Encapsulation (1), Protocol Type (2), Color (3), Tunnel Egress Endpoint (6), 	DS Field (7), UDP Destination Port (8), Embedded Label Handling (9), MPLS Label Stack (10), 
+Policy CP Name (129), Policy Name (130), New-TLV1 (TBD2), new-TLV2 (TBD3)
+
+##### List 3: 
+Load-Balancing Block (5), SPI/SI (16), IPSEC-SA-ID (64),
 Extended Port Property (65), Underlay ISP Properties (66), IPsec SA Nonce (67), IPsec Public Key (68), 	IPsec SA Proposal (69), 	Simplified IPsec SA (70), IPsec Version (71), RPF (124), Tree Label Stack (125), The WAN ID (192), The Bytes (193), IPSEC DIM (194),  IPSEC Key Exchange (195), IPSEC SA Proposals (196), Service Segment List (197), 	Service Vtep (198), 	Distributed Etherlink Switch (DES) Adjacency (199). 
    
 **Validation should include: **
