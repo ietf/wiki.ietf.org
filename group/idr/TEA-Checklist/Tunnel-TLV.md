@@ -2,7 +2,7 @@
 title: RFC9012 - Tunnel Encapsulation Checklist for TLV specifying type  
 description: RFC9012 Top TLV checklist 
 published: true
-date: 2026-01-28T14:22:52.728Z
+date: 2026-01-28T15:38:23.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-19T16:38:28.715Z
@@ -20,11 +20,17 @@ dateCreated: 2026-01-19T16:38:28.715Z
 
 4. List of all NLRIs this Tunnel TLV can be attached to 
 
-5. List of all SubTLVs that can be passed in in this Tunnel TLV (optional and mandatory).
+5. List of all SubTLVs 
+- that can be passed in in this Tunnel TLV (mandatory and optional).
+- List of all SubTLVs that are not supported by this Tunnel TLV
 
-6. List of all SubTLVs that are not supported by this Tunnel TLV
+For each SubTLV, give a reference to the RFC or draft. 
 
-7. A validation procedures that include 
+6. list of all SubTLVs with SubTLVs (Sub-SubTLVs) 
+By SubTLV supported (mandatory or optional), list the sub-SubTLVs supported (optional and mandatory) 
+
+7. A validation procedures
+Validation could include: 
 - End Point validation 
 - Validation of sematics (either by BGP or another process (e.g. SRPM)) 
 
