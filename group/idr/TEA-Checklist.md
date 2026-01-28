@@ -2,7 +2,7 @@
 title: Checklist for authors that use Tunnel Encapsulation Attribute (RFC9012) in BGP Specification 
 description: TEA [RFC9012] Checklists 
 published: true
-date: 2026-01-28T15:53:00.873Z
+date: 2026-01-28T16:20:56.988Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-28T14:25:14.596Z
@@ -12,5 +12,5 @@ dateCreated: 2026-01-28T14:25:14.596Z
 
 
 - [Top level TLV](/group/idr/TEA-Checklist/Tunnel-TLV) 
-- SubTLVs 
+- SubTLVs (/group/idr/TE-Checklist/Tunnel-SubTLV)
 - Use with PMSI 
