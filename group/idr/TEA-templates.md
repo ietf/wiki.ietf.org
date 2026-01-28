@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2026-01-28T16:41:57.188Z
+date: 2026-01-28T16:55:59.600Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -37,7 +37,7 @@ sub-TLVs. T
 [Subtlv-template](/group/idr/TEA-templates/SubTLV)
 
 ## New Sub-SubTLV for Tunnel Encaps SubTLV 
-[SubSub-Template](group/idr/TEA-TEmplates/SubSubTLV)
+[SubSub-Template](group/idr/TEA-templates/SubSubTLV)
 
 
 ### New tunnel type in that also uses PMSI tunnel Attribute 
