@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-flowspec-redirect-ip
 description: 
 published: true
-date: 2026-01-28T12:56:30.808Z
+date: 2026-01-28T12:57:19.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T05:50:50.566Z
@@ -52,6 +52,7 @@ Contact Information:
 - Ming Shen - shenming2@huawei.com
 
 Last Updated: December 2025
+
 
 ## Coverage 
          
