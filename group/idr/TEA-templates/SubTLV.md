@@ -2,7 +2,7 @@
 title: IDR  Template for Tunnel Encapsulation Attribute SubTLVs
 description: TEA SubTLVs Template 
 published: true
-date: 2026-01-28T16:35:27.896Z
+date: 2026-01-28T16:36:22.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-13T12:52:54.872Z
@@ -114,7 +114,7 @@ Policy CP Name (129), Policy Name (130), New-TLV1 (TBD2), new-TLV2 (TBD3)
 Load-Balancing Block (5), SPI/SI (16), IPSEC-SA-ID (64),
 Extended Port Property (65), Underlay ISP Properties (66), IPsec SA Nonce (67), IPsec Public Key (68), 	IPsec SA Proposal (69), 	Simplified IPsec SA (70), IPsec Version (71), RPF (124), Tree Label Stack (125), The WAN ID (192), The Bytes (193), IPSEC DIM (194),  IPSEC Key Exchange (195), IPSEC SA Proposals (196), Service Segment List (197), 	Service Vtep (198), 	Distributed Etherlink Switch (DES) Adjacency (199). 
    
-**Validation should include: **
+**Validation should include:**
 
 #### 6.1. Multiple SubTLVs of the same type in the same Tunnel TLV  
 
@@ -130,6 +130,7 @@ is there any restriction or cross checking?
 
 If this subTLV can be listed in two different Tunnel TLVs of different types, 
 Is there any restriction or cross checking? 
+
 
 ### 7. Specific Security requirements for this SubTLV (in Security Section)
 
