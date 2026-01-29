@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-01-29T00:13:48.033Z
+date: 2026-01-29T06:14:17.464Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -49,6 +49,7 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Stuart Cheshire | cheshire@apple.com | |
 | Maggie Cheshire | m.a.glanowska@gmail.com | |
 | Michelle Cotton | mcotton@amsl.com | |
+| K Tirumaleswar Reddy | kondtir@gmail.com | Need to back hotel in Shenzhen by 7:00 PM to catch flight | 
 
 
 
