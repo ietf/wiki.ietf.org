@@ -63,6 +63,8 @@ Further details regarding meeting points will be provided to those who sign up b
 | Bron Gondwana | brong@fastmailteam.com | Arrival Fri 20:30 on CX 807 |
 | Nobuo Aoki | n_aoki@ieee.org | Arrival Sta 05:45 on NH813; earlier/morning shuttle appreciated for Hackathon kickoff|
 | Lixia Zhang | lixia@cs.ucla.edy | 1+ 1; Arrival Saturday 7AM on UA820; earlier shuttle appreciated|
+| Aihua Guo | aihuaguo.ietf@gmail.com | 1+1; Arrival Sat 7:20PM on UA 869. Shuttle appreciated|
+
 
 
 
