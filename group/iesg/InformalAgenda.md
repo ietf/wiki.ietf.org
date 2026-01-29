@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-29T13:26:33.131Z
+date: 2026-01-29T15:00:43.077Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -52,6 +52,7 @@ Note that this page is public.
 
 ### Document Discussions
 * draft-ietf-opsawg-rfc5706bis-01 (Mahesh) [Slides(/https://docs.google.com/presentation/d/1Y5_u-qpMhxKJCKKql6WWboDx8rjdD5Hw2es34sV2mF4/)]
+* [Outgoing AD load](https://docs.google.com/spreadsheets/d/1rGZfPaoUw6QzjQwgbwL0IUDyEXRYxp08poDGny4lCE4/edit?gid=1952967948#gid=1952967948) (Roman)
 
 
 ### Management Issues
