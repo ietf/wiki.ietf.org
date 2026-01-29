@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-29T15:01:45.436Z
+date: 2026-01-29T15:08:43.110Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -42,10 +42,8 @@ Note that this page is public.
 ### Administrivia
 
 - Retreat survey results (Secretariat)
-   * Top three options:
-   * May 11-13
-   * May 26-28
-   * June 2-4
+   * Top option: May 11-13
+
 - IETF 125 scheduling proposal (Secretariat)
   - See: https://docs.google.com/document/d/1OvlZg-xlAqjZYqXZTdxO1xdLZ0-Nc-4TeJqAIAl-R8s/edit?usp=sharing
 
