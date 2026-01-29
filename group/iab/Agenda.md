@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-28T17:15:05.967Z
+date: 2026-01-29T17:04:07.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,7 +29,18 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Context:
 
-## Potential Tentative Topic, if there is time
+
+
+## Regrets
+
+* Warren (Jan 28-Feb 16)
+* Dhruv 
+
+
+## Topics for Future Informal Meetings
+
+### ETSI liaison discussion
+### WBA liaison discussion
 
 ### ICANN85 Outreach Planning (Dhruv, Warren)
 
@@ -37,17 +48,6 @@ Context:
 
  - Workshop Wiki (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/IAB_Workshop_Guidelines.md)
  - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
-
-## Regrets
-
-* Warren (Jan 28-Feb 16)
-
-
-## Topics for Future Informal Meetings
-
-- ETSI liaison discussion
-- WBA liaison discussion
-
 
 
 ## Upcoming IAB Meetings
