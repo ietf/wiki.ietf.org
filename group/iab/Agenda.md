@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-29T17:04:07.115Z
+date: 2026-01-29T19:10:20.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2026-02-04, 23:00-00:00 UTC (1 hour)
 
-## There WILL NOT be a meeting on 2026-02-04
+## There WILL be a meeting on 2026-02-04
 
 ## Details
 
@@ -25,9 +25,15 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Topic: 
+### 1. Retreat timing/location
 
-Context:
+Context: https://github.com/intarchboard/responsibilities/issues/62
+
+Include discussion of IESG retreat plans, opinions and options for new IAB members.
+
+### 2. (Executive Session) ISE appointment/feedback
+
+Context: https://github.com/intarchboard/responsibilities/issues/64
 
 
 
