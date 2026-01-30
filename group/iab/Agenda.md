@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-29T19:10:20.890Z
+date: 2026-01-30T20:20:25.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -61,14 +61,14 @@ Context: https://github.com/intarchboard/responsibilities/issues/64
 See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
 
-- 2026-01-28 16:00-17:00 UTC	Informal Meeting (Reserved)
-- 2026-02-04 23:00-00:00 UTC	Informal Meeting (Reserved)
+- 2026-02-04 23:00-00:00 UTC	Informal Meeting 
 - 2026-02-11 07:00-08:00 UTC	Informal Meeting (Reserved)
 
 - 2026-02-18 Feb 2026  14:00-16:00 UTC	Formal Board Meeting
     - ISOC BoT vote
 
-- 2026-02-25 16:00-17:00 UTC	Informal Meeting (Reserved)
+- 2026-02-25 16:00-17:00 UTC	Informal Meeting 
+    - IAB Member Onboarding and Review
 - 2026-03-04 23:00-00:00 UTC	Informal Meeting (Reserved)
     
     
