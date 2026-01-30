@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2026-01-15T00:27:47.534Z
+date: 2026-01-30T16:08:04.929Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -24,12 +24,12 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
  * Interested in network architecture 
  * Have some operational experience from academic test network and nation wide network
 
-### Emmanuel Baccelli (last updated: 1 Feb. 2019) 
- * Have co-authored some RFCs in OSPF, AUTOCONF, MANET and ROLL;  	 	  	 
+### Emmanuel Baccelli (last updated: 1 Feb. 2026) 
+ * Have co-authored some RFCs in OSPF, AUTOCONF, MANET, ROLL, and TSVWG;  	 	  	 
  * Have coded a tiny OLSRv1 implementation, and parts of OSPFv3 and RPL;
- * I am an active participant and co-founder of the open source community developing the IoT operating system [RIOT](https://github.com/RIOT-OS/RIOT/);
- * Interests include low-power and low memory footprint protocols for Internet of Things, and spontaneous, multi-hop wireless networks, of the managed and unmanaged kinds, information centric networking;
- * Aiming to follow working groups such as CoRE, SUIT, 6lo, T2TRG, ICNRG, lpwan, lwig...
+ * I am an active participant and co-founder of the open source communities developing the IoT operating systems [Ariel OS](https://github.com/ariel-os/ariel-os) and [RIOT](https://github.com/RIOT-OS/RIOT/);
+ * Interests include low-power and low memory footprint protocols for Internet of Things, and spontaneous, multi-hop wireless networks, of the managed and unmanaged kinds, information centric networking, cybersecurity and tiny machine learning;
+ * Aiming to follow working groups such as CoRE, SUIT, 6lo, T2TRG, ROLL, iotops, lpwan, lwig...
 
 ### Lou Berger (last updated : 1/11/19) 
  * Authored numerous RFCs, mostly related to GMPLS and RSVP, but also some LMP, OSPF, BGP, L1VPN. More recently have been doing working on Yang, DetNet and DLEP
