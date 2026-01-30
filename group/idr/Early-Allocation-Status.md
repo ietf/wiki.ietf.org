@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-01-06T23:27:53.364Z
+date: 2026-01-30T17:07:25.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -17,7 +17,7 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Email query |    
 |---|---|---|---|---|---|---|
  [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (17) | ELP Sub-TLV  | IANA assigned temporary value | WG LC email next |  
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | needs -15.  2 byte length in reserve path segement is a problem.  Also Registry name should be SR Policy Segment List Sub-TLVs. | TBD | 
+| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 (17) | Path Segment | needs -15.  2 byte length in reverse path segement is a problem.  Also Registry name should be SR Policy Segment List Sub-TLVs. | TBD | 
 | [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | needs -04 to correct registry name (SR Policy Segment List Sub-TLVs) | TBD | 
 | [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu) | SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Path MTU | Needs -14, but -13 ok for early allocation call | TBD | 
 {.dense}
