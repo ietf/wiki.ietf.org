@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-01-21T11:22:48.049Z
+date: 2026-01-30T12:40:02.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,7 +31,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | 2026-01-20 |  | Tarek |
 | [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | 2026-01-22 |  | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
@@ -40,6 +39,7 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
+| 2026-01-20 | [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | Post WG I-D  | Tarek | Chair to approve |
 
 ## MPLS WG Documents
 
@@ -61,12 +61,12 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Ongoing | New version (-15) posted. All issues cleared |  | Tarek |
-| 2025-12-02 | [draft-ietf-mpls-mna-ps-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-ps-hdr/) | Ongoing | Requested |  | Adrian |
 
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
 |---|---|---|---|---|---|
+| [draft-ietf-mpls-mna-ps-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-ps-hdr/) | 2026-01-30 | 2026-02-13 12:00 GMT | Yes | Adrian | |
 
 ## Working Group Last Call Completed Pending Action
 
