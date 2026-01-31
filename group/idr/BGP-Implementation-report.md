@@ -2,7 +2,7 @@
 title: Old BGP Implementation page 
 description: This is an old summary page - moved to wiki. 
 published: true
-date: 2025-07-11T20:52:17.465Z
+date: 2026-01-31T00:22:47.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-11T20:10:57.890Z
