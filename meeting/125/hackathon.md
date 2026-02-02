@@ -349,6 +349,22 @@ With the rapid development of agent-related technologies, agent communication is
 - **Related documents**
 Dynamic Multi-agents Secured Collaboration Infrastructure Architecture
 https://datatracker.ietf.org/doc/html/draft-li-dmsc-inf-architecture-03
+
+
+### Optimizing Agent Context Interaction
+- **Champions**
+Zeze Chang (changzeze@huawei.com)
+Shuping Peng (pengshuping@huawei.com)
+
+- **Project Info**
+Multi-agent collaboration has been widely studied as an effective approach for addressing complex and multi-turn interactive tasks. However, in current agentic workflows, contextual information is often exchanged in an unstructured and redundant manner, leading to excessive token consumption, increased execution latency, and reduced task completion success rates, especially in multi-step and multi-agent scenarios. The project focuses on designing and experimenting with structured agent context interaction mechanisms, including precise context distribution, context isolation among agents, and fine-grained task and progress management. A master–sub agent interaction scheme is expected to demonstrate how task-related contexts can be selectively delivered to invoked agents and incrementally updated during task execution.
+
+- **Hackathon Plan**
+1.	Design and implement a multi-agent context interaction framework based on the structured context schemas defined in the draft.
+2.	Develop a demo to demonstrate the effectiveness of the proposed agent context interaction mechanism.
+
+- **Related documents**
+to be released
 ---
 
 
