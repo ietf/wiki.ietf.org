@@ -2,7 +2,7 @@
 title: BGP Directorate
 description: 
 published: true
-date: 2026-02-02T23:19:10.609Z
+date: 2026-02-02T23:19:33.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T16:26:26.164Z
@@ -46,7 +46,8 @@ For issues identified, the reviews SHOULD suggest fixes or alternates. However, 
 Finally, the WG that produces the documents is expected to have the expertise on the subject matter and its WG members are responsible for the reviews and quality of their products. The BGP Directorate's function is only complementary to this core WG responsibility.
 
 ### Links to templates from WGs
- 
+
+**IDR Templates **
 - [Tunnel Encapsulation Checklists and Templates](/group/idr/TEA-templates) 
 - [BGP LS Checklists](/group/idr/BGP-LS-Checklists) 
 
