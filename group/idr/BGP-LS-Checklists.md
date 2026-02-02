@@ -2,7 +2,7 @@
 title: BGP LS -  Draft checklists and Hints for Authors and Reviewers 
 description: BGP-LS Review Checklist 
 published: true
-date: 2026-01-28T21:15:09.988Z
+date: 2026-02-02T22:29:22.976Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-19T16:27:00.073Z
