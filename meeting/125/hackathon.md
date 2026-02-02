@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-02T08:16:45.651Z
+date: 2026-02-02T08:16:56.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -381,7 +381,8 @@ As multi-agent systems are increasingly used for complex, multi-step interactive
     1. Design and implement a lightweight agent communication gateway with (a) semantic routing policies and (b) structured working memory.
     2. Integrate the gateway into a simple multi-agent workflow and validate that context delivery becomes more selective and less redundant.
     3. Develop a demo to showcase improvements such as reduced token usage, reduced latency, and improved task completion stability.
-- **Related documents** To be released
+- **Related documents**
+To be released
 
 ---
 
