@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-02T08:18:31.402Z
+date: 2026-02-02T08:19:07.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -372,7 +372,7 @@ Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
 Zian Wang (zianwang@bupt.edu.cn)
 Tianshuo Hu (huts22@mails.tsinghua.edu.cn)
 - **Project Info**
-As multi-agent systems are increasingly used for complex, multi-step interactive tasks, the way agents exchange context has become a key bottleneck: in many current agentic workflows, context is transmitted in an unstructured, redundant, and broadcast-like manner, which causes excessive token consumption, higher latency, and lower task success rates—especially when multiple agents are orchestrated across multiple steps. This project proposes and prototypes an Agent Communication Gateway that sits between agents and tools/services, providing two core capabilities: Semantic Routing, which intelligently routes messages/contexts to the most relevant agent(s) or tool endpoints based on semantic intent, task state, and routing policies to reduce unnecessary fan-out and duplicated context delivery; and Gateway Memory, which maintains structured, scoped memory (e.g., per-task / per-agent / per-session) to support selective context retrieval, context compression/summarization, and incremental updates, enabling agents to receive only the context they need at each step while preserving long-horizon task continuity. The gateway is designed to support structured context schemas and fine-grained control such as context distribution, context isolation, and progress/state management, enabling more efficient and reliable master–sub agent orchestration.
+As multi-agent systems are increasingly used for complex, multi-step interactive tasks, the way agents exchange context has become a key bottleneck: in many current agentic workflows, context is transmitted in an unstructured, redundant, and broadcast-like manner, which causes excessive token consumption, higher latency, and lower task success rates—especially when multiple agents are orchestrated across multiple steps. This project proposes and prototypes an Agent Communication Gateway that sits between agents and tools/services, providing two core capabilities: Semantic Routing, which intelligently routes messages/contexts to the most relevant agent(s) or tool endpoints based on semantic intent, task state, and routing policies to reduce unnecessary fan-out and duplicated context delivery; and Gateway Memory, which maintains structured, scoped memory (e.g., per-task / per-agent / per-session) to support selective context retrieval, context compression/summarization, and incremental updates, enabling agents to receive only the context they need at each step while preserving long-horizon task continuity.
 
 - **Hackathon Plan**
     1. Design and implement a lightweight agent communication gateway with (a) semantic routing policies and (b) structured working memory.
