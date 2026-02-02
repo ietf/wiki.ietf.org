@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-29T07:41:45.638Z
+date: 2026-02-02T08:16:45.651Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -365,6 +365,24 @@ Multi-agent collaboration has been widely studied as an effective approach for a
 
 - **Related documents**
 to be released
+
+### Agent Communication Gateway for Semantic Routing and Working Memory
+- **Champions**
+Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+Zian Wang (zianwang@bupt.edu.cn)
+Tianshuo Hu (huts22@mails.tsinghua.edu.cn)
+- **Project Info**
+As multi-agent systems are increasingly used for complex, multi-step interactive tasks, the way agents exchange context has become a key bottleneck. In many current agentic workflows, context is transmitted in an unstructured, redundant, and broadcast-like manner, which causes excessive token consumption, higher latency, and lower task success rates—especially when multiple agents are orchestrated across multiple steps. This project proposes and prototypes an Agent Communication Gateway that sits between agents and tools/services, providing two core capabilities:
+    1. Semantic Routing: intelligently routes messages/contexts to the most relevant agent(s) or tool endpoint based on semantic intent, task state, and routing policies—reducing unnecessary fan-out and duplicated context delivery.
+    2. Gateway Memory: maintains structured, scoped memory (e.g., per-task / per-agent / per-session) to support selective context retrieval, context compression/summarization, and incremental updates. This enables agents to receive only the context they need at each step, while preserving long-horizon task continuity.\
+	The gateway is designed to support structured context schemas and fine-grained control such as context distribution, context isolation, and progress/state management, enabling more efficient and reliable master–sub agent orchestration.
+
+- **Hackathon Plan**
+    1. Design and implement a lightweight agent communication gateway with (a) semantic routing policies and (b) structured working memory.
+    2. Integrate the gateway into a simple multi-agent workflow and validate that context delivery becomes more selective and less redundant.
+    3. Develop a demo to showcase improvements such as reduced token usage, reduced latency, and improved task completion stability.
+- **Related documents** To be released
+
 ---
 
 
