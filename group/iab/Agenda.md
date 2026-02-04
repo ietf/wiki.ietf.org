@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-30T20:20:25.376Z
+date: 2026-02-04T16:51:12.946Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,7 +31,13 @@ Context: https://github.com/intarchboard/responsibilities/issues/62
 
 Include discussion of IESG retreat plans, opinions and options for new IAB members.
 
-### 2. (Executive Session) ISE appointment/feedback
+### 2. IAB Meetings at IETF 125
+
+Goal: Brainstorm topics, IAB Open session
+
+
+
+### 3. (Executive Session) ISE appointment/feedback
 
 Context: https://github.com/intarchboard/responsibilities/issues/64
 
