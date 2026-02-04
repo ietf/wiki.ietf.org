@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-02T08:19:14.754Z
+date: 2026-02-04T15:34:56.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -380,6 +380,31 @@ As multi-agent systems are increasingly used for complex, multi-step interactive
     3. Develop a demo to showcase improvements such as reduced token usage, reduced latency, and improved task completion stability.
 - **Related documents**
 To be released
+
+### IPsec and IKEv2
+- **Champions**
+Valery Smyslov (valery@smyslov.net)
+- **Project Info**
+Interoperability testing of new IKEv2 extensions:
+-- Downgrade Prevention for the Internet Key Exchange Protocol Version 2 (IKEv2)
+-- Optimized Rekeys in the Internet Key Exchange Protocol Version 2 (IKEv2)
+-- Separate Transports for IKE and ESP
+-- Post-quantum Hybrid Key Exchange with ML-KEM in the Internet Key Exchange Protocol Version 2 (IKEv2)
+-- Post-quantum Hybrid Key Exchange in IKEv2 with FrodoKEM
+-- Using IKE Fragmentation for Large Messages
+-- IKEv2 Support for Child SA PFS Policy Information
+-- A Larger Internet Key Exchange version 2 (IKEv2) Payload
+-- Using Classic McEliece in the Internet Key Exchange Protocol Version 2 (IKEv2)
+- **Specifications**
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-downgrade-prevention/
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-sa-ts-payloads-opt/
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-reliable-transport/
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/
+-- https://datatracker.ietf.org/doc/draft-wang-ipsecme-hybrid-kem-ikev2-frodo/
+-- https://datatracker.ietf.org/doc/draft-smyslov-ipsecme-ikev2-fragm-large-msg/
+-- https://datatracker.ietf.org/doc/draft-pwouters-ipsecme-child-pfs-info/
+-- https://datatracker.ietf.org/doc/draft-nir-ipsecme-big-payload/
+-- https://datatracker.ietf.org/doc/draft-smyslov-ipsecme-ikev2-mceliece/
 
 ---
 
