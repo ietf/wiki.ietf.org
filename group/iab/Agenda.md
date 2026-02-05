@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-04T16:51:12.946Z
+date: 2026-02-05T00:10:49.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-02-04, 23:00-00:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-02-11, 07:00-08:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-02-04
+## There WILL NOT be a meeting on 2026-02-11
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mabfcdfe179487aa21ebe1e1342440d62
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m401c821b56237315fab7127ef6b248c6
 
 
 ## Agenda
@@ -25,28 +25,15 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Retreat timing/location
+### 1. Topic
 
-Context: https://github.com/intarchboard/responsibilities/issues/62
-
-Include discussion of IESG retreat plans, opinions and options for new IAB members.
-
-### 2. IAB Meetings at IETF 125
-
-Goal: Brainstorm topics, IAB Open session
-
-
-
-### 3. (Executive Session) ISE appointment/feedback
-
-Context: https://github.com/intarchboard/responsibilities/issues/64
-
+Context: 
 
 
 ## Regrets
 
 * Warren (Jan 28-Feb 16)
-* Dhruv 
+
 
 
 ## Topics for Future Informal Meetings
@@ -66,8 +53,6 @@ Context: https://github.com/intarchboard/responsibilities/issues/64
 
 See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-
-- 2026-02-04 23:00-00:00 UTC	Informal Meeting 
 - 2026-02-11 07:00-08:00 UTC	Informal Meeting (Reserved)
 
 - 2026-02-18 Feb 2026  14:00-16:00 UTC	Formal Board Meeting
