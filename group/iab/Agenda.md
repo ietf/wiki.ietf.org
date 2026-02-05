@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-05T00:10:49.965Z
+date: 2026-02-05T23:40:10.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -33,6 +33,7 @@ Context:
 ## Regrets
 
 * Warren (Jan 28-Feb 16)
+* Deb (IESG Liaison)
 
 
 
