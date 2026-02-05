@@ -2,7 +2,7 @@
 title: Implementatino Reprot for draft-ietf-idr-sr-policy-nrp
 description: Implementations draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-02-05T18:31:55.302Z
+date: 2026-02-05T18:43:26.428Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:30:13.907Z
@@ -15,14 +15,14 @@ Current version: -04
 Status: WG draft, adopted (8/12/2024 upload), WG LC requested 
 WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp. 
 
-Implementations: 
+### Implementations: 
 1) Huawei, model CE16800 equipped with A series cards, V200R021C00, VRP-8 or later 
 2) Cisco, IOS XR Release 7.11.x or XIOS 
-3) 
+3) H3C, (need release) 
 
 
 
-Implementations: 
+### Functionality 
 
 | Core Functionality | section |	Cisco IOS-XR |	Huawei VRP	| H3C  | 
 |---|---|---|---|---|---|---|---|
@@ -69,8 +69,8 @@ text
 
 
 ### Huawei 
-Configuration for Huawei with NRP 
-1. Enable Global Segment Routing 
+
+#### 1. Enable Global Segment Routing 
 > Enable SR and configure the Segment Routing Global Block (SRGB). 
 > bash
 > system-view
@@ -79,7 +79,7 @@ Configuration for Huawei with NRP
 > commit
 {.is-info}
 
-2. configure SR policy 
+#### 2. configure SR policy 
 
 > bash 
 > bgp 65001
@@ -91,7 +91,7 @@ Configuration for Huawei with NRP
 {.is-info}
 
 
-3. define NRP globally 
+#### 3. define NRP globally 
 
 > ! Define the NRP globally
 > network-resource-partition nrp-id 10
@@ -105,7 +105,7 @@ Configuration for Huawei with NRP
 {.is-info}
 
 
-4. Associate Policy SR Candidate Path with Specific NRP 
+#### 4. Associate Policy SR Candidate Path with Specific NRP 
 
 > bash
 > segment-routing
@@ -120,7 +120,7 @@ Configuration for Huawei with NRP
 {.is-info}
 
 
-5. Verify it is set
+#### 5. Verify it is set
 - Check BGP Peer Status: display bgp peer.
 - Check SR Policy: display sr-te policy.
 - Check NRP Info: display network-resource-partition. 
