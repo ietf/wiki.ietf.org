@@ -2,16 +2,18 @@
 title: WebRTC
 description: 
 published: true
-date: 2023-03-15T23:52:42.137Z
+date: 2026-02-05T18:46:20.871Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T23:52:38.339Z
 ---
 
-# WebRTC Interop (KITE) and Compliance (WPT) testing
-## Overview
+> # WebRTC Interop (KITE) and Compliance (WPT) testing
+{.is-success}
 
--    Goals
+## Overview
+1. 
+1. -    Goals
      - Fix browsers to support Simulcast 1.0 better,
       -  thus passing more compliance tests,
       -  and interoperate better with other browser, and here specifically with SFUs 
