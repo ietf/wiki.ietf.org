@@ -2,14 +2,14 @@
 title: WebRTC
 description: 
 published: true
-date: 2026-02-05T18:47:43.475Z
+date: 2026-02-05T18:47:57.092Z
 tags: da
 editor: markdown
 dateCreated: 2023-03-15T23:52:38.339Z
 ---
 
 > # WebRTC Interop (KITE) and Compliance (WPT) testing
-{.is-success}
+{.is-success}ha
 
 ## Overview
 1. 
