@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-04T19:53:43.353Z
+date: 2026-02-05T02:39:20.556Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -333,23 +333,24 @@ As the development of large model and agent technology, it is a trend for multi-
 Agent Communication Framework for Network AIOps
 https://datatracker.ietf.org/doc/draft-fu-nmop-agent-communication-framework/
 
-### Agent Gateway for Dynamic Multi-agents Secured Collaboration
+### Agent Gateway for Dynamic Multi-agent Secured Collaboration
 
 - **Champions**
 Sicong Ma (masc@chinatelecom.cn)
 Jibin Sun (sunjb@chinatelecom.cn)
 Xing Zhang (hszhang@bupt.edu.cn)
 Zhuoran Li (lizr9@chinatelecom.cn)
+Wei Wang (wangw36@chinatelecom.cn)
 
 - **Project Info**
-With the rapid development of agent-related technologies, agent communication is evolving toward heterogeneity and multi-agents collaboration, giving rise to requirements such as on-demand access, dynamic networking and elastic collaboration for agents. To meet the requirements, this project proposes an agent gateway based on the dynamic multi-agent secured collaboration framework, which supports capabilities including automatic discovery, registration, capability synchronization, secure communication, and flexible scalability for agents. The core objective of this project is to explore a feasible solution for inter-agent communication, laying a foundation for the advancement of agent communication technologies.
+With the rapid development of agent-related technologies, agent communication is evolving toward heterogeneity and multi-agent collaboration, giving rise to requirements such as on-demand access, dynamic networking and elastic collaboration for agents. To meet the requirements, this project proposes an agent gateway based on the dynamic multi-agent secured collaboration framework, which supports capabilities including automatic discovery, registration, capability synchronization, secure communication, and flexible scalability for agents. The core objective of this project is to explore a feasible solution for inter-agent communication, laying a foundation for the advancement of agent communication technologies.
 
 - **Hackathon Plan**
-1.A Dynamic Multi-agents Secured Collaboration Infrastructure Architecture from an infrastructure perspective. For detailed descriptions, please see the draft in related documents.
-2.A demo for dynamic multi-agents secured collaboration gateway.
+1.A Dynamic Multi-agent Secured Collaboration Infrastructure Architecture from an infrastructure perspective. For detailed descriptions, please see the draft in related documents.
+2.A demo for dynamic multi-agent secured collaboration gateway.
 
 - **Related documents**
-Dynamic Multi-agents Secured Collaboration Infrastructure Architecture
+Dynamic Multi-agent Secured Collaboration Infrastructure Architecture
 https://datatracker.ietf.org/doc/html/draft-li-dmsc-inf-architecture-03
 
 
