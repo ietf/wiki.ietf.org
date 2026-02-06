@@ -2,7 +2,7 @@
 title: draft-ietf-idr-nhc Implementation Report
 description: 
 published: true
-date: 2026-01-26T09:42:08.028Z
+date: 2026-02-06T14:46:31.086Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-07T22:55:05.682Z
@@ -81,9 +81,9 @@ Although this section uses RFC 2119 terminology, the requirement is addressed to
 
 - When receiving a route that encodes only a link-local address and no global address, is the NEXT_HOP match considered to have failed if the BGPID is not present? (MUST)
 
-# Juniper Networks Implementation Report for Junos 23.3R1
+# Juniper Networks Implementation Report for Junos 26.2R1
 ## Reported By
-Kevin Wang <kfwang@juniper.net>
+Kevin Wang <kevin.wang@hpe.com>
 
 ## Components of Conformance 
 
@@ -108,7 +108,7 @@ Kevin Wang <kfwang@juniper.net>
 #### 2.2.1 Link-Local-Only Next Hops
 
 - Is the implementation able to originate a route whose next hop has no global part? **YES**
-- If so, when it originates such a route, does it include a BGPID TLV? (MUST) **NO**
+- If so, when it originates such a route, does it include a BGPID TLV? (MUST) **YES**
 
 #### 2.2.2 Aggregation
 
@@ -141,11 +141,11 @@ Although this section uses RFC 2119 terminology, the requirement is addressed to
 
 #### 3.3. Receiving the BGPID
 
-- When receiving a route that encodes only a link-local address and no global address, is a NEXT_HOP considered a semantic match only if the BGPID matches (MUST, expressed as MUST NOT). **NO**
+- When receiving a route that encodes only a link-local address and no global address, is a NEXT_HOP considered a semantic match only if the BGPID matches (MUST, expressed as MUST NOT). **YES**
 
 ##### 3.3.1. Not Receiving the BGPID
 
-- When receiving a route that encodes only a link-local address and no global address, is the NEXT_HOP match considered to have failed if the BGPID is not present? (MUST) **NO**
+- When receiving a route that encodes only a link-local address and no global address, is the NEXT_HOP match considered to have failed if the BGPID is not present? (MUST) **YES**
 
 # H3C Implementation Report, Comware V9R1B83D001
 ## Reported By
