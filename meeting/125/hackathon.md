@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-05T06:53:10.694Z
+date: 2026-02-06T09:17:35.191Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -173,6 +173,8 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
 - **Champions**
 Quan Xiong (xiong.quan@zte.com.cn)
 Daniel King (d.king@lancaster.ac.uk)
+Kehan Yao (yaokehan@chinamobile.com)
+Junfeng Zhao (zhaojunfeng@caict.ac.cn)
 
 - **Project Info**
 High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, low-latency, and high-capacity needs of data-intensive applications and enable the host-and-network collaboration for the high-speed and high-throughput data transmission, coupled with fast completion time.
