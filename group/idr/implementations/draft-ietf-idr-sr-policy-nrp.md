@@ -2,7 +2,7 @@
 title: Implementatino Reprot for draft-ietf-idr-sr-policy-nrp
 description: Implementations draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-02-05T18:43:26.428Z
+date: 2026-02-06T15:10:49.872Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:30:13.907Z
@@ -17,20 +17,19 @@ WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp
 
 ### Implementations: 
 1) Huawei, model CE16800 equipped with A series cards, V200R021C00, VRP-8 or later 
-2) Cisco, IOS XR Release 7.11.x or XIOS 
 3) H3C, (need release) 
 
 
 
 ### Functionality 
 
-| Core Functionality | section |	Cisco IOS-XR |	Huawei VRP	| H3C  | 
+| Core Functionality | section |	Huawei VRP	| H3C  | 
 |---|---|---|---|---|---|---|---|
-| NRP Sub-TLV  | 2 | TBD |	yes | yes    | 
-| NRP Sub-TLV Error Handling Procedures | 2 and 4 | TBD | yes | yes   | 
-| Error handling of SR Policy TLV with malformed NRP-ID  |	2 | TBD | yes | yes |   |
-| NRP ID headend encapsulation for SRv6  | 3 | TBD | yes | TBD    | 
-| NRP ID headend encapsulation for SR-MPLS | 3 | TBD | yes |  yes  |
+| NRP Sub-TLV  | 2  |	yes | yes    | 
+| NRP Sub-TLV Error Handling Procedures | 2 and 4 | yes | yes   | 
+| Error handling of SR Policy TLV with malformed NRP-ID  |	2 | yes | yes |   |
+| NRP ID headend encapsulation for SRv6  | 3 |  yes | TBD    | 
+| NRP ID headend encapsulation for SR-MPLS | 3 | yes |  yes  |
 {.dense} 
  	
 
