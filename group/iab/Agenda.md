@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-05T23:40:10.455Z
+date: 2026-02-06T23:21:54.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-02-11, 07:00-08:00 UTC (1 hour)
+# IAB Formal Business Meeting Agenda: 2026-02-18, 14:00-16:00 UTC (2 hours)
 
-## There WILL NOT be a meeting on 2026-02-11
+## There WILL be a meeting on 2026-02-18
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m401c821b56237315fab7127ef6b248c6
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m2cf7953be787792c45da617722f8a0c1
 
 
 ## Agenda
@@ -32,8 +32,7 @@ Context:
 
 ## Regrets
 
-* Warren (Jan 28-Feb 16)
-* Deb (IESG Liaison)
+* 
 
 
 
@@ -54,7 +53,6 @@ Context:
 
 See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-- 2026-02-11 07:00-08:00 UTC	Informal Meeting (Reserved)
 
 - 2026-02-18 Feb 2026  14:00-16:00 UTC	Formal Board Meeting
     - ISOC BoT vote
