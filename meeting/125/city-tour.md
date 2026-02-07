@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-02-07T13:20:03.273Z
+date: 2026-02-07T13:20:23.444Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -54,7 +54,7 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Ryan Cross | rcross@amsl.com | |
 | Zaheduzzaman Sarker | zahed.sarker.ietf@gmail.com| |
 | Henk Birkholz | henk.birkholz@ietf.contact | |
-| Ronaldo Alves Ferreira | ronaldo.ferreira@ufms.br | | 
+| Ronaldo A. Ferreira | ronaldo.ferreira@ufms.br | | 
 
 
 
