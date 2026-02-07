@@ -2,7 +2,7 @@
 title: Implementatino Reprot for draft-ietf-idr-sr-policy-nrp
 description: Implementations draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-02-07T00:11:15.756Z
+date: 2026-02-07T00:11:53.301Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:30:13.907Z
@@ -53,12 +53,13 @@ text
 {.is-info}
 
 #### BGP Route Target/Color Steering:
-[H3C] bgp 100
-[H3C-bgp-default] peer 2.2.2.2 as-number 100
-[H3C-bgp-default] peer 2.2.2.2 connect-interface LoopBack0
-[H3C-bgp-default] address-family ipv6 sr-policy
-[H3C-bgp-default-srpolicy-ipv6] peer 2.2.2.2 enable
+> [H3C] bgp 100
+> [H3C-bgp-default] peer 2.2.2.2 as-number 100
+> [H3C-bgp-default] peer 2.2.2.2 connect-interface LoopBack0
+> [H3C-bgp-default] address-family ipv6 sr-policy
+> [H3C-bgp-default-srpolicy-ipv6] peer 2.2.2.2 enable
 {.is-info}
+
 
 
 
