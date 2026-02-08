@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-02-08T23:05:56.725Z
+date: 2026-02-08T23:10:51.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -12,7 +12,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## old implementation pages 
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
-
 
 ## Implementation reports for Drafts at IESG
   - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
@@ -37,22 +36,22 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-rpd implementations](/group/idr/implementations/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
 
+## Yang model Drafts 
+ - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
 
 ## Drafts past WG LC awaiting 2 implementations
- 
- - [draft-ietf-idr-entropy-label](/group/idr/implementations/draft-ietf-idr-entropy-label)
-  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
- - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
+ 
 
-## Implementations being Flow Specification-v1 
+## Implementations FSv1 being reclassified 
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
  - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
+  - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
 
 ## Implementations at Code Allocation
  - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
@@ -61,11 +60,9 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
 
 ## Implementation Report for drafts at WG
+ - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
  - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external)
- - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)  
- - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
-
  - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 
