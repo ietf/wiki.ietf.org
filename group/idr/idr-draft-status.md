@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2025-11-03T18:39:11.358Z
+date: 2026-02-08T23:17:29.314Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -14,18 +14,14 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 | Name | Shepherd | RFC # | Status | RFC Published Date | WG LC approval | IESG Approved | RFC editor queue | Time since WG LC | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-deprecate-as-set-confed-set-14 | Sue Hares | [RFC9774](https://datatracker.ietf.org/doc/rfc9774/) | 5/21/2025 | 8/15/2024 | 1/16/2025 | 3/7/2025 | TBD days | TBD days |
-| draft-ietf-idr-cpr-08| Sue Hares |  [RFC9723](https://datatracker.ietf.org/doc/rfc9723/)  | 5/29/2024 | 7/19/2024 | 2/24/2025 | 220 days | TBD days | TBD days | 
-|  draft-ietf-idr-bgp-ct-39  |  Sue Hares  | [RFC9832](https://datatracker.ietf.org/doc/rfc9832/) | 9/12/2024  | 3/1/2024 | 4/26/2024 | 3/3/2025 | TBD days |  TBD days |   
-| draft-ietf-idr-sr-policy-safi-17  | Sue Hares  | [RFC9830](https://datatracker.ietf.org/doc/rfc9830/) | 9/12/2025 |  3/18/2024 | 7/20/2024  | 2/7/2025 | TBD days | TBD days  |
-| draft-ietf-idr-bgp-sr-segment-types-ext-08 | Sue Hares |  [RFC9831](https://datatracker.ietf.org/doc/rfc9831/)  |  9/12/2025 |  3/18/2024 | 7/30/2024 |   2/20/2025  | TBD day | TBD days | 
-| draft-ietf-idr-bgp-ls-sr-policy-17 | Sue Hares | [RFC9857](https://datatracker.ietf.org/doc/rfc9857/) | 10/29/2025 | 11/22/2024 | 12/13/2024 |  3/6/2025 |  TBD days | TBD days |  
+|none | 
 {.dense}
 
 ## At RFC Editor
 |  draft                          |  Shepherd     |  status      |  Next step  |  WG LC approval Date  | IESG Pub Req |  IESG approval date  |  Time since IESG OK  |  Time since WG LC   | Time in Auth-48 | 
 |---|---|---|---|---|---|---|---|---|--|
-|  [draft-ietf-idr-bgp-car-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) |  Sue Hares  | RFC editor | RFC  | 3/1/2024 | 4/26/2024 | 3/10/2025 | TBD days | TBD days | TBD | 
+| draft-ietf-idr-bgpls-sr-vtn-mt-14 | Sue Hares  | MIS-Ref | Auth-48  | 2/17-3/3 (3/14) | 6/4/2025 | 10/18/2025 | TBD days  |  TBD days | TBD |  
+| draft-ietf-idr-link-bandwidth-19 | Jeff Haas | Edit | Auth-48 | 7/11/2025-8/5/2025 | 8/22/2025 | 12/22/2025 | TBD days  | TBD days | TBD | 
 {.dense}
 
 
@@ -70,6 +66,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### Post WG LC Needs revision 
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
+| draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | Needs -07 (Security review) | publication | TBD | TBD | TBD | TBD | 
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
 | draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
 {.dense}
