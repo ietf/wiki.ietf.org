@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-02-08T23:05:24.831Z
+date: 2026-02-08T23:05:56.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -30,7 +30,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
 
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
-  - [draft-ietf-idr-ts-flowspec-srv6-policy/](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
+  - [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
   
 ## Fast Track Drafts (returned to WG, 2 implementations)
  - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
