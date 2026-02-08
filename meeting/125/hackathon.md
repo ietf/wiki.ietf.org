@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-06T09:17:35.191Z
+date: 2026-02-08T14:31:11.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -276,10 +276,13 @@ Thomas Graf (thomas.graf @ swisscom.com)
 Wanting Du (wanting.du @ swisscom.com)
 Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
 Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Rafael Julio (rafael.julio @ swisscom.com)
+Benoit Claise (benoit @ everything-ops.net)
 Paolo Lucente  (paolo @ pmacct.net)
 Rob Wilton (rwilton @ cisco.com)
+Scott Huang (scohuang @ cisco.com)
 Daniel Voyer (davoyer @ cisco.com)
-Benoit Claise (benoit @ everything-ops.net)
+Sivakumar Sundaravadivel (sivakuma @ ciena.com)
 
 - **Draft Specifications Message Broker**
 https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
@@ -303,7 +306,8 @@ https://www.network-analytics.org/yp/, validate and verify
 - 5 YANG-Push Publishers
 - 2 YANG-Push Receivers
 - 2 YANG-Push Network Telemetry Message
-- 1 YANG Message Broker Producer, Consumer and Schema Registry
+- 1 YANG Message Broker Producer and Schema Registry
+- 3 YANG Message Broker Consumers
 
 implementation in the area of YANG data integration automation. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
 
@@ -312,6 +316,7 @@ https://github.com/network-analytics/ietf-network-analytics-document-status/tree
 https://github.com/NetGauze/NetGauze/releases/tag/v0.9.0
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v4.2.2
+https://github.com/CESNET/libyang/compare/master...devel
 
 ### DKIM2
 - **Champions**
