@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-08T23:17:29.314Z
+date: 2026-02-08T23:51:43.636Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -28,7 +28,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## IESG Approved
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---| 
-| draft-ietf-idr-bgpls-sr-vtn-mt-14 | Sue Hares  | RFC | Pub to IESG |  TBD | 2/17-3/3 (3/14) | 2 days | 4/101/2025 | 2 days  |  
+| none | 
 | none |  
 {.dense}
 
@@ -36,7 +36,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## At IESG Review 
 |  draft  | Shepherd    |   status            |  Next step  |  WG LC OK  |  IESG Pub Req  |  Time in State |  ETA  |  Time since WG LC |
 |---|---|---|---|---|---|---|---|---| 
-| draft-ietf-idr-link-bandwidth-19 | Jeff Haas | Revised ID Needed | Approve RFC | 8/5/2025 | 8/22/2025 | TBD | TBD | TBD days |  
 | none|  
 {.dense}
 
@@ -45,7 +44,8 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 |  draft                                | Shepherd      |   status        |  Next step  |  WG LC approval Date  |  Time in State  |  ETA  |  Time since WG LC   |        |
 |---|---|---|---|---|---|---|---|---|
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | Awaiting ip-redirect | IESG | 5/25/2023 | 9/8/2023 | TBD | 318 days | 424 days | 318 days  | 
+
+| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | WGLC needs closing | send to IESG |  TBD | TBD | TBD | TBD |  TBD | 
 {.dense}
 
 ## Queue for AD review 
@@ -66,9 +66,10 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### Post WG LC Needs revision 
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | Needs -07 (Security review) | publication | TBD | TBD | TBD | TBD | 
+| draft-ietf-idr-sr-policy-nrp-06 | Sue Hares | Needs -07 (Security review) | publication | TBD | TBD | TBD | TBD | 
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
 | draft-ietf-idr-sdwan-edge-discovery-22 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
+|  draft-ietf-idr-bgp-model  |  Jie Dong   | none  | Awaiting  Implementations |  4/11 to 5/26/2023 | 4 weeks | 5/26/2023  |
 {.dense}
 
 ### Past WG LC awaiting implementation  
@@ -79,12 +80,11 @@ dateCreated: 2022-09-14T14:29:25.490Z
 {.dense}
 
 ## WG LC 
-## In WG LC - waiting for Write-up 
+## In WG LC  
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-sr-policy-nrp-04 | Sue Hares | TBD  | Awaiting Spring OK | WG LC | TBD | TBD | TBD | TBD | 
-| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | WGLC needs closing | send to IESG |  TBD | TBD | TBD | TBD |  TBD | 
-
+| draft-ietf-idr-flowspec-redirect-ip-04 | Sue Hares| awaiting -05 | WG LC | TBD | TBD | 259 days |  TBD |  |
+|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | PS requires WG LC | IESG | 2/9/2025 - 2/23/2026 | TBD | TBD | TBD |   | 
 {.dense}
 
 ## WG LC Pending
