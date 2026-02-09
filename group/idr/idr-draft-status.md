@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T05:43:36.356Z
+date: 2026-02-09T14:27:16.995Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## Status as of January 4, 2024
 
-### New RFCs in 2025 
+### New RFCs in 2026 
 
 | Name | Shepherd | RFC # | Status | RFC Published Date | WG LC approval | IESG Approved | RFC editor queue | Time since WG LC | 
 |---|---|---|---|---|---|---|---|---|
@@ -91,7 +91,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 {.dense}
 
 ## WG LC Pending
-### Core BGP 
+### WG LC Pending - Core BGP 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
 | [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) | Keyur | [1](/group/idr/implementations/draft-ietf-idr-rfc4360bis)    | WG LC pending | WG LC | TBD | TBD | TBD | |  
@@ -101,7 +101,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |   [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  | Sue Hares | na | Needs -04  |  WG LC  | TBD | TBD | TBD |  | 
 {.dense}
 
-### BGP SR TE (Tunnel Encaps) and BGP SR (Prefix Attribute)
+### WG LC Pending - BGP SR TE (Tunnel Encaps) and BGP SR (Prefix Attribute)
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
 {.dense}
@@ -126,10 +126,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 ## Adopted
 
-For information on adoption process: [IDR adoption process](/group/idr/idr-adoption-process)
-| draft   | Shepherd   |  status   |  Next step    |  WG adoption date  |  Adoption call            |  Draft uploaded   |
-|---|---|---|---|---|---|---|
-[draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/) | Keyur Patel | adopted, uploaded | implementation | 9/28/2025 | 9/10-9/25/2025 |  10/20/2025 | 
+ 
 {.dense}
 
 
@@ -143,10 +140,7 @@ For information on adoption process: [IDR adoption process](/group/idr/idr-adopt
 > To effeciently handle drafts along, we are considering drafts in existing IDR chartered technology (Segment Routing, BGP-LS, Flow Specification v2 (FSv2), IPv6, and new Tunnel Encapsulation drafts) different than other drafts. Existing IDR Chartered Technologies will receive reviews prior to WG Adoption.  An interim will be held per IETF cycle where WG drafts and individual drafts for these technologies can present revision or new draft.   
 {.is-info}
 
-### Core BGP Adoptions 
-
- 
- #### New concepts category for Adoption 
+### Adoptions - Core BGP Adoptions 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
 | [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  | all-Chairs |   All-IDR chairs Pre-Adoption Review | Adoption call | TBD | TBD | TBD |
@@ -164,22 +158,22 @@ none
 |------------------------------------|---------------|-------------|------------------|-------------------|-----------------|---------|
 |  draft-zzhang-idr-tunnel-encapsulation-label-stack  |  Keyur Patel  | Needs revision   |  TBD |  12/23 to 1/13    |  2/28/2023         |  TBD  |
 {.dense}
- 
- 
 
+### Adoptions - SR 
+| draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
+|----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------|
+| draft-ali-idr-srv6-policy-sl-opt-distribution-00 | Susan Hares | Pre-Adoption review (IETF-122 request) | Adoption call | TBD | TBD | rename + revision -01 |
+|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  | Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
+| draft-lin-idr-sr-policy-admin-flags | Susan Hares | Pre-Adoption (IETF-122 request) | adoption call | TBD | TBD | revision -02  + Spring Bits check |  
+| draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | await -05| Pre-adoption review | TBD | TBD | await -05 |  
+|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD  | TBD | TBD   |
 
-### SR and BGP-LS Adoptions Requested 
+### BGP-LS Adoptions Requested 
 | draft  | Shepherd | Status |  Next step  | Adoption complete | Post-Adoption |   ETA   |
 |----------------------------------------------|---------------|-------------------------|-------------|----------------------|------------------|-------------| 
 | draft-chen-idr-bgp-ls-sr-policy-nrp-05 | Susan Hares | Pre-Adoption review | Adoption call | TBD | TBD | await -06 | 
-| draft-lin-idr-sr-policy-headend-behavior-04 | Susan Hares | await -05| Pre-adoption review | TBD | TBD | await -05 |  
 | draft-zhang-idr-sr-policy-template-04| Susan Hares | Pre-Adoption Review | Adoption Call | Await -05 + Review | TBD | Needs Spring WG OK | 
-| draft-zzd-idr-policy-scheduling-08 | Susan Hares | Pre-adoption (IETF-122 request) | adoption | TBD | TBD | needs -09 revision | 
-| draft-ali-idr-srv6-policy-sl-opt-distribution-00 | Susan Hares | Pre-Adoption review (IETF-122 request) | Adoption call | TBD | TBD | rename + revision -01 |  
-| draft-lin-idr-sr-policy-admin-flags | Susan Hares | Pre-Adoption (IETF-122 request) | adoption call | TBD | TBD | revision -02  + Spring Bits check |   
-| draft-lin-idr-bgp-ls-sr-policy-admin-flags |  Susan Hares | Pre-Adoption (IETF-122 request) | adoption call | TBD | TBD | revision -02 + Spring Bits check |  
-|  draft-chen-idr-mbinding-00  | Sue Hares  | Held for Spring WG check  | Interest for adoption  |  4/12-5/12/2023 |  5/12/2023  | TBD  |
-|  draft-wu-idr-bgp-segment-allocation-ext-13  |  Susan Hares  | author hold  |  IPR check  |  TBD  | TBD | TBD   |
+| draft-zzd-idr-policy-scheduling-08 | Susan Hares | Pre-adoption (IETF-122 request) | adoption | TBD | TBD | needs -09 revision |    
 {.dense}
  
 ### FSv2 Base Drafts - adoption pending 
