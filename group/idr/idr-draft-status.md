@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T02:45:51.171Z
+date: 2026-02-09T03:01:26.037Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -68,8 +68,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft-ietf-idr-bgp-model  |  Jie Dong   | awaiting | IESG Pub |  5/26/2023 | 4/11 to 5/26/2023 |   |   |  |   
 | draft-ietf-idr-sr-policy-nrp-06 | Sue Hares | Needs -07 (Security review) | publication | TBD | TBD | TBD | TBD | 
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
-| draft-ietf-idr-sdwan-edge-discovery-25 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
-|  draft-ietf-idr-bgp-model  |  Jie Dong   | awaiting | IESG Pub |  5/26/2023 | 4/11 to 5/26/2023 |   |   |  |   
+| draft-ietf-idr-sdwan-edge-discovery-25 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |   
 {.dense}
 
 ### Past WG LC awaiting implementation  
@@ -82,15 +81,16 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ## In WG LC  
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
-| draft-ietf-idr-flowspec-redirect-ip-04 | Sue Hares| awaiting -05 | WG LC | TBD | TBD | 259 days |  TBD |  |
-|  draft-ietf-idr-ts-flowspec-srv6-policy  |  Keyur Patel  | PS requires WG LC | IESG | 2/9/2025 - 2/23/2026 | TBD | TBD | TBD |   | 
+| [draft-ietf-idr-nhc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) Sue Hares | [2](/group/idr/implementations/draft-ietf-idr-nhc) | Sue Hares | WG LC | IESG | 12/22/2025 to 2/9/2026 | 40 days | 2/9/2026 | Waiting on 1 IPR statement  |  
+| [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) | Sue Hares |  [4](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) | WG LC | IESG | 2/7-2/21 | 2 days |  2/21/2026 |  | 
+|  [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) |  Keyur Patel  | [5](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy) | PS requires 2nd WG LC | IESG | 2/9/2025 - 2/23/2026 | 1 day | 2/16/2026 |   | 
 {.dense}
 
 ## WG LC Pending
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
 | [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) | Keyur | TBD | WG LC pending | WG LC | TBD | TBD | in IETF 124 | TBD |  
-| draft-ietf-idr-flowspec-redirect-ip-04 | Sue Hares| awaiting -05 | WG LC | TBD | TBD | 259 days |  TBD |  |
+| draft-ietf-idr-flowspec-redirect-ip-04 | Sue Hares| WG LC | IESG | TBD | 259 days |  TBD |  |
 | [draft-ietf-idr-flowspec-srv6-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | Sue Hares | 2 | Waiting -07 + redirect-ip-04  | pre-WG LC |  TBD  | TBD |  |  
 | [draft-ietf-idr-nhc-00]( Sue Hares | 2  | await implementation report | WG LC | TBD | TBD | TBD |  |  
 | [draft-ietf-idr-rt-derived-community-05]((https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/)) | Jie Dong | Pre-WG LC Review | WG LC  | TBD | TBD | TBD | TBD |  | 
