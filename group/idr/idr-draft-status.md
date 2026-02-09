@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T03:44:16.786Z
+date: 2026-02-09T05:43:36.356Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -87,6 +87,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | [draft-ietf-idr-nhc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) Sue Hares | [2](/group/idr/implementations/draft-ietf-idr-nhc) | Sue Hares | WG LC | IESG | 12/22/2025 to 2/9/2026 | 40 days | 2/9/2026 | Waiting on 1 IPR statement  |  
 | [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) | Sue Hares |  [4](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) | WG LC | IESG | 2/7-2/21 | 2 days |  2/21/2026 |  | 
 |  [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) |  Keyur Patel  | [5](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy) | PS requires 2nd WG LC | IESG | 2/9/2025 - 2/23/2026 | 1 day | 2/16/2026 |   | 
+| [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)  | 
 {.dense}
 
 ## WG LC Pending
