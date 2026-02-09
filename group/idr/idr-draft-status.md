@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T00:07:16.852Z
+date: 2026-02-09T00:49:26.252Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -68,7 +68,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft-ietf-idr-sr-policy-nrp-06 | Sue Hares | Needs -07 (Security review) | publication | TBD | TBD | TBD | TBD | 
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
 | draft-ietf-idr-sdwan-edge-discovery-25 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
-|  draft-ietf-idr-bgp-model  |  Jie Dong   | Edits | IESG Pub |  5/26/2023 | 4/11 to 5/26/2023 |   |   |  |   
+|  draft-ietf-idr-bgp-model  |  Jie Dong   | awaiting | IESG Pub |  5/26/2023 | 4/11 to 5/26/2023 |   |   |  |   
 {.dense}
 
 ### Past WG LC awaiting implementation  
