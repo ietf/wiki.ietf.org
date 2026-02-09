@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T03:18:29.469Z
+date: 2026-02-09T03:40:08.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -29,7 +29,6 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft  |  Shepherd  |  status  |  Next step  |  WG LC approval Date  |  IESG Pub Req |  IESG approval  |  Sent to Time since IESG OK  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---| 
 | none | 
-| none |  
 {.dense}
 
  
@@ -68,7 +67,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |---|---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-model-18](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  |  Jie Dong   | awaiting -19 | IESG |  5/26/2023 | 4/11 to 5/26/2023 | 3 years+  | 2/28/2026   | AD will not require implementations | 
 | [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)   | Sue Hares | Needs -07 | IESG | 12 July, 2025 | June-July 2025 | TBD | 2/15/2026 | Waited on Spring | 
-| draft-ietf-idr-sdwan-edge-discovery-25 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | TBD | 2/28/2026 | TBD |   
+| [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/) | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | TBD | 2/28/2026 | slow due to hares co-author |   
 {.dense}
 
 ### Post WG LC Needs revision - holding on another draft
@@ -82,8 +81,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 |  draft-ietf-rs-bfd  | Susan Hares  |  none |  2 implementations  | 10-4-2018  |  TBD  |  TBD | 
 {.dense}
 
-## WG LC 
-## In WG LC  
+## WG LC  
 | draft  | Shepherd  |  implementations  |  status | Next step |  WG LC date   |  Time in WG LC | WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-nhc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) Sue Hares | [2](/group/idr/implementations/draft-ietf-idr-nhc) | Sue Hares | WG LC | IESG | 12/22/2025 to 2/9/2026 | 40 days | 2/9/2026 | Waiting on 1 IPR statement  |  
@@ -95,25 +93,30 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### Core BGP 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
-| [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) | Keyur | TBD | WG LC pending | WG LC | TBD | TBD | in IETF 124 | TBD |  
+| [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) | Keyur | [1](/group/idr/implementations/draft-ietf-idr-rfc4360bis)    | WG LC pending | WG LC | TBD | TBD |   | TBD |  
+| [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) | Chairs + Jie Dong| | [2](/group/idr/implementations/draft-ietf-idr-linklocal-capability) FRR ExaBGP | Pre WG LC IDR Chair Review | WG LC | TBD | TBD | IETF-124 side discussions | 
+| [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | All Chairs | Pre WG LC Review | WG LC | TBD | TBD | TBD | Req. 7/21/2025 | 
+| [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  Sue Hares  |  TBD   |  Needs -13 | WG LC |  TBD  | TBD | TBD |  
+|   [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  | Sue Hares | na | Needs -04  |  WG LC  | TBD | TBD | TBD |  | 
 {.dense}
 
-### BGP SR TE 
+### BGP SR TE (Tunnel Encaps) and BGP SR (Prefix Attribute)
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
 {.dense}
 
-#### Flow specification 
+### BGP LS
+| draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
+|---|---|---|---|---|---|---|---|---|---| 
+| [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) | Sue Hares |  TBD |  Awaiting -05 | Pre-WG LC review | TBD | TBD | TBD |  |
+
+### Flow specification 
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
 | [draft-ietf-idr-flowspec-srv6-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | Sue Hares | 2 | Waiting -07 + redirect-ip-04  | pre-WG LC |  TBD  | TBD |  |  
 
-| [draft-ietf-idr-rt-derived-community-05]((https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/)) | Jie Dong | Pre-WG LC Review | WG LC  | TBD | TBD | TBD | TBD |  | 
-| [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | All Chairs | Pre WG LC Review | WG LC | TBD | TBD | TBD | Req. 7/21/2025 | 
-| [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) | Chairs + Jie Dong| | Pre WG LC Review | WG LC | TBD | TBD | IETF-124 side discussions | 
-| [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) | Sue Hares |  TBD |  Awaiting -05 | Pre-WG LC review | TBD | TBD | TBD |  |
-| [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  Sue Hares  |  TBD   |  Needs -13 | WG LC |  TBD  | TBD | TBD |  
-|   [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  | Sue Hares | na | Needs -04  |  WG LC  | TBD | TBD | TBD |  | 
+ 
+ ## WG drafts 
 | [draft-ietf-idr-elc](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/) | Su3 Hares | one (Juniper) | Needs 2nd implementation | TBD  | TBD | TBD | TBD |  |   
 | [draft-ietf-idr-bgp-fsm-iana-00](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares | awaiting-01 | Pre-WG LC review | TBD | TBD | TBD | TBD |  
 | draft-ietf-idr-bgp-bfd-15 | Sue Hares | TBD | Pre-WG LC review | WG LC | TBD | TBD | TBD | TBD |  | 
