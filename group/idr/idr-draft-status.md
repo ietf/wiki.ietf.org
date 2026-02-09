@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T03:43:44.622Z
+date: 2026-02-09T03:44:16.786Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -94,7 +94,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 | draft | Shepherd  |  implementations  |  Status | Next step   |  WG LC date  |  Time in WG LC  |  WG LC ETA | Comment | 
 |---|---|---|---|---|---|---|---|---|---| 
 | [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) | Keyur | [1](/group/idr/implementations/draft-ietf-idr-rfc4360bis)    | WG LC pending | WG LC | TBD | TBD | TBD | |  
-| [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) | Chairs + Jie Dong|  [2](/group/idr/implementations/draft-ietf-idr-linklocal-capability) FRR ExaBGP | Pre WG LC IDR Chair Review | WG LC | TBD | TBD |  | 
+| [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) | Chairs + Jie Dong|  [2](/group/idr/implementations/draft-ietf-idr-linklocal-capability) FRR EXaBGP | Pre WG LC IDR Chair Review | WG LC | TBD | TBD |  | 
 | [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) | All Chairs | [1](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata) | Pre WG LC Review | WG LC | TBD | TBD | TBD | Req. 7/21/2025 | 
 | [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  |  Sue Hares  |  [2](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-wide-bgp-communities) | needs -13 | WG LC |  TBD  | TBD | TBD |  
 |   [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  | Sue Hares | na | Needs -04  |  WG LC  | TBD | TBD | TBD |  | 
