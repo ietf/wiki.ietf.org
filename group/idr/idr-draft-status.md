@@ -2,7 +2,7 @@
 title: IDR Draft Status
 description: 
 published: true
-date: 2026-02-09T00:49:26.252Z
+date: 2026-02-09T02:45:51.171Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:29:25.490Z
@@ -44,7 +44,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 
 |  draft                                | Shepherd      |   status        |  Next step  |  WG LC approval Date  |  Time in State  |  ETA  |  Time since WG LC   |        |
 |---|---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | WGLC needs closing | send to IESG |  TBD | TBD | TBD | TBD |  TBD | 
+| [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) | Keyur | Revision to draft | IESG |  1/29-2/5 | TBD | TBD | TBD |  
 {.dense}
 
 ## Queue for AD review 
@@ -65,6 +65,7 @@ dateCreated: 2022-09-14T14:29:25.490Z
 ### Post WG LC Needs revision 
 | draft  | Shepherd  |   status  |  Next step  |  WG LC close | WG LC |  Time  |  ETA  |  Time since WG LC   |
 |---|---|---|---|---|---|---|---|---|
+|  draft-ietf-idr-bgp-model  |  Jie Dong   | awaiting | IESG Pub |  5/26/2023 | 4/11 to 5/26/2023 |   |   |  |   
 | draft-ietf-idr-sr-policy-nrp-06 | Sue Hares | Needs -07 (Security review) | publication | TBD | TBD | TBD | TBD | 
 |  draft-ietf-idr-rpd-19 |  Keyur Patel  | awaiting -20  Revision with bgp Community Container attribute | TBD (1st: Nov-11-2021) | TBD  | (11/5/2023) 259 days | TBD   | TBD | 
 | draft-ietf-idr-sdwan-edge-discovery-25 | Keyur Patel | Response to RTR-DIR | Pub to IESG  | 6/4/2024 | 6/11-6/25/2023 | 7 days | 8/15 | 392 |  
