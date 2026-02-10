@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-02-04T23:39:55.461Z
+date: 2026-02-10T16:08:24.965Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -52,11 +52,11 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Not-required activity:
 > 
 >   **Hackathon**, 09:30-16:00
->     Room: TBD
+>     Room: Shangri-La Ballroom 1/2
 {.is-info}
 
 
-### 09:30-11:30 - IESG Meeting 
+### 09:30-11:30 - IESG Meeting (Room: Jiangsu)
 
 
 > Meetecho:
@@ -66,7 +66,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > 1. ---add topic---
 > 10. Decide if a Monday meeting is needed (and agenda if needed)
 
-### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting 
+### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Jiangsu)
 
 > Meetecho: TBD
 > 
@@ -90,7 +90,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ## Monday, March 16, 2026
 
-### 07:30-08:50 - IESG Meeting 
+### 07:30-08:50 - IESG Meeting (Room: Jiangsu)
 
 > Meetecho: TBD
 > 
@@ -103,7 +103,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 
   
 ## Wednesday, March 18, 2026
-### 07:30-08:50 IESG Meeting  
+### 07:30-08:50 IESG Meeting  (Room: Jiangsu)
 
 > Meetecho: TBD
 > 
@@ -113,7 +113,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 
 
 
-### 17:30-19:30 - IETF 125 Plenary 
+### 17:30-19:30 - IETF 125 Plenary (Room: Grand Ballroom 1/2)
 
 
 
@@ -131,7 +131,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ## Friday, March 20, 2026
 
-### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting 
+### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting (Room: Jiangsu)
 
 > Meetecho: 
 > 
@@ -144,7 +144,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Meeting Room
 
-Location: TBD
+Location: Liaoning
 Conference style for 16
 
 This room is available for anyone on the IESG, for AD office hours or any meetings with individuals or small groups. The LLC has asked that we track general categories of usage for this room. Please include your name so we know who is responsible for each meeting.
