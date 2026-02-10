@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-29T15:08:43.110Z
+date: 2026-02-10T16:59:56.327Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - January 29, 2026
+# Informal Telechat - February 12, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,7 +29,6 @@ Meeting password: 12345
 
 ## Regrets
 
-* Kline, Erik
 * Vyncke, Éric (need to leave probably after 45-60 minutes)
 
 ## Agenda
@@ -41,21 +40,13 @@ Note that this page is public.
 
 ### Administrivia
 
-- Retreat survey results (Secretariat)
-   * Top option: May 11-13
-
-- IETF 125 scheduling proposal (Secretariat)
-  - See: https://docs.google.com/document/d/1OvlZg-xlAqjZYqXZTdxO1xdLZ0-Nc-4TeJqAIAl-R8s/edit?usp=sharing
+- IETF 125 Agenda Conflict Resolution! (Liz/all)
 
 
 ### Document Discussions
-* draft-ietf-opsawg-rfc5706bis-01 (Mahesh) [Slides(/https://docs.google.com/presentation/d/1Y5_u-qpMhxKJCKKql6WWboDx8rjdD5Hw2es34sV2mF4/)]
-* [Outgoing AD load](https://docs.google.com/spreadsheets/d/1rGZfPaoUw6QzjQwgbwL0IUDyEXRYxp08poDGny4lCE4/edit?gid=1952967948#gid=1952967948) (Roman)
 
 
 ### Management Issues
-* [Appeal Processing](https://docs.google.com/document/d/1SpS6LwkcbdwHy4uR0b1SWW_E0eQB5x_1I4sxf7Z21oM/edit?tab=t.0) (Roman)
-* Pushing out WG States updates to Datatracker - are we ready for Phase 1 ? (https://docs.google.com/document/d/1-GQtUKS3TpEBypowXtLJuCmfShDMzFfnxvipiC94bqI/edit?tab=t.0#heading=h.zbmjait3sru8) (Roman/Ketan)
 
 ### WG News 
 
