@@ -2,7 +2,7 @@
 title: Solicited Review from PCE WG Chairs
 description: An effort to expedite the processing of items in the WG queues
 published: true
-date: 2026-02-10T17:50:12.521Z
+date: 2026-02-10T19:27:52.816Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T17:50:12.521Z
@@ -19,6 +19,6 @@ In an effort to expedite the processing of items in the WG queues [1][2] and to 
 
 | Internet-Draft | WG Stage (Adoption / WGLC) | WGLC Start Date | WGLC End Date | Reviewer(s) Requested and Status | Remarks |
 |---------------|---------------------------|----------------|--------------|-----------------------|---------------|
-| draft-ietf-pce-multipath-19 | WGLC | 2026-02-10 | 2026-02-24 | Giuseppe Fioccola<br> | Requests sent |
+| draft-ietf-pce-multipath-19 | WGLC | 2026-02-10 | 2026-02-24 | Giuseppe Fioccola<br>Quan Xiong<br>Rishabh Parekh | Requests sent |
 |  |  |  |  |  |  |  |
 
