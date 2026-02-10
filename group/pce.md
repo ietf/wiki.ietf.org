@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-02-10T09:34:13.528Z
+date: 2026-02-10T09:34:40.436Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -89,10 +89,10 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |2| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|Y| -19 posted on 2026-02-02  | 7 authors - will need to justify; should be next to WGLC | Dhruv | - |
 |3| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-13 posted on 2025-10-19 | Ready for WGLC, did a review and discussing with Andrew | Dhruv | Andrew |
 |4| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | - | - |
-|* [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |
-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -03 posted on 2025-11-05 | Added support for SR | - | - |
-| draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |
-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -05 posted on 2025-09-05 | - | - | - |
+|-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |
+|-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -03 posted on 2025-11-05 | Added support for SR | - | - |
+|-| draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |
+|-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -05 posted on 2025-09-05 | - | - | - |
 
 
 ## Post WG LC Queue  
