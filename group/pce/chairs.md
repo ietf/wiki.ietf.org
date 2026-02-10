@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2026-02-10T07:05:01.196Z
+date: 2026-02-10T07:34:09.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -39,7 +39,7 @@ Items to talk to Ketan:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Shephered Review and Writeup | draft-ietf-pce-sr-bidir-path | Dhruv | Sent to IESG |
+| Shephered Review and Writeup | draft-ietf-pce-sr-bidir-path and draft-ietf-pce-circuit-style-pcep-extensions| Dhruv | Sent to IESG |
  Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Add to Adoption queue | draft-dong-pce-pcep-nrp | Dhruv | Request from authors to prioritize |
