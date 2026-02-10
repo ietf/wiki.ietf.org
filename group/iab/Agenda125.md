@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-02-10T16:26:50.273Z
+date: 2026-02-10T16:39:29.821Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -35,6 +35,20 @@ Details TBD
 
 ### 14:00-16:00 - IAB Business Meeting (Room: Jiangsu)
 
+> Agenda:
+> 
+> 1. (If not already completed) IAB Chair Selection (Executive Session)
+> 2. [Finalize IAB Roles](/group/iab/First_Meeting) (Cindy)
+>     - Program Leads and Members
+>     - Liaison Coordinators
+>     - IAB Liaison to the IESG
+>     - IAB Liaison to NomCom
+>     - IAB Stream Representative (RSAB)
+>     - IAB List Moderators
+>     - ARPA change control approver
+>     - Tools Team Liaison 
+>     - Identify EODir Liaison
+>     - IAB Outreach Coordinator
 
 
 ### Evening Meeting Events
