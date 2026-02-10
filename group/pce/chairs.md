@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2026-01-08T13:42:59.072Z
+date: 2026-02-10T07:05:01.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -23,8 +23,8 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
-| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Review done, waiting for update|
+| Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done after review, authors have asked Dhruv to recheck |
+| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Review done, waiting for update from authors, Ramon email|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -32,7 +32,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## AD Tracker
 |AD|Task|Document|Remarks|
 |---|---|---|---|
-|Ketan|AD Evaluation|draft-ietf-pce-sid-algo|AD review done, authors posted update, reverifying WG consenses|
 
 Items to talk to Ketan:
 - VLAN forwarding: notify IEEE?
