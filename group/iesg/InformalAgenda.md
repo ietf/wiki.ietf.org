@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-10T21:03:29.971Z
+date: 2026-02-10T21:52:05.669Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,8 +45,8 @@ Note that this page is public.
 
 ### Document Discussions
 
-
 ### Management Issues
+- Appointing moderators per [draft-ietf-modpod-group-processes](https://datatracker.ietf.org/doc/draft-ietf-modpod-group-processes/) (Roman)
 
 ### WG News 
 
