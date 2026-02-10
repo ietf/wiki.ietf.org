@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-09T05:56:16.165Z
+date: 2026-02-10T13:04:36.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -314,7 +314,7 @@ implementation in the area of YANG data integration automation. Subscribe to YAN
 
 - **Repository**
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/125/Hackathon
-https://github.com/NetGauze/NetGauze/releases/tag/v0.9.0
+https://github.com/NetGauze/NetGauze/releases/tag/v0.9.1
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v4.2.2
 https://github.com/CESNET/libyang/compare/master...devel
