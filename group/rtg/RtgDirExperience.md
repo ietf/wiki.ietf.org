@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2026-02-11T01:47:50.118Z
+date: 2026-02-11T01:47:56.234Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
