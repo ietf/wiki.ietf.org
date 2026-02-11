@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-11T07:19:33.391Z
+date: 2026-02-11T23:33:49.778Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -41,6 +41,8 @@ Note that this page is public.
 ### Administrivia
 
 - IETF 125 Agenda Conflict Resolution! (Liz/all)
+
+- Intro to new side meeting scheduling tool (Liz)
 
 
 ### Document Discussions
