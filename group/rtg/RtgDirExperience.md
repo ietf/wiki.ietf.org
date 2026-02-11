@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2026-02-11T01:47:56.234Z
+date: 2026-02-11T10:53:02.184Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -258,7 +258,10 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
 * Former Co-Chair of TRILL, PPPEXT, XMLDSIG and other WGs
 * Also a member of the Security and Internet Directorates
 * Former Chair of IEEE 802.11s and 802.11ak
-### Andrew Alston (last updated :   ）
+### Andrew Alston (last updated :   2026-02-11）
+* Previous routing area director
+* Actively follow IDR, SPRING and MPLS
+* Have coding experience implementing BGP and ISIS daemons for specific projects
 
 ----
 [Back to Routing Area wiki](/group/rtg/)
