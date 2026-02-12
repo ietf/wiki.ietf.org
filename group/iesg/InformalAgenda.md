@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-12T01:05:41.005Z
+date: 2026-02-12T13:38:51.002Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -51,7 +51,7 @@ Note that this page is public.
 - [Next steps](https://docs.google.com/document/d/1s262Rrysw-_fDNUhZJeQBfaQM4mJLJH0sPVzNzmggDc/edit?tab=t.0) on [draft-ietf-modpod-group-processes](https://datatracker.ietf.org/doc/draft-ietf-modpod-group-processes/) (Roman)
 - Shipping (Phase 1) Datatracker WG states documentation update (https://docs.google.com/document/d/1-GQtUKS3TpEBypowXtLJuCmfShDMzFfnxvipiC94bqI/edit?tab=t.0) - concluding discussion of Med and Erik's comments (Roman/Ketan)
 - Shipping (Phase 1) Datatracker WG states documentation update (https://docs.google.com/document/d/1Nml_q2uxyYEHri6wQ-eQJgmuRoc4QEmBw0cIn3a0MTU/edit?tab=t.0) - not many reviews; should we combine with Phase 2? (Roman/Ketan)
-
+- [New DISPATCH](https://docs.google.com/document/d/16GUZH20G7AA5HLISp01kRcvw3UN6V0oUhmiCWH9VegY/edit?tab=t.0) working group charter.
 ### WG News 
 
 
