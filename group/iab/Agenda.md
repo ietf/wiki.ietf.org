@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-06T23:21:54.186Z
+date: 2026-02-12T22:10:43.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,14 +25,69 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Topic
+### 1. Administrivia (Cindy) 
 
-Context: 
+#### 1.1. Attendance
+
+#### 1.2. Agenda bash and announcements
+
+#### 1.3. Meeting Minutes
+
+For approval
+
+-  2026-01-14 business meeting - (submitted 2026-01-14) 
+
+
+### 2. Monthly Reports (Liaisons, etc.)
+
+ - IRTF Chair
+ - IESG Liaison
+ - ICANN Board Liaison
+ - IANA Liaison
+ - IAB Outreach Coordinator
+ - Liaison Coordinators
+
+
+### 3. Wiki updates (Dhruv)
+
+ - Workshop (Diff: https://github.com/dhruvdhody/wiki.ietf.org/commit/781322724fe58f2fba78f058fca79e4fa487066f)
+ - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
+
+
+
+### 4. IAB Meetings at IETF 125
+
+  Goal: Confirm IAB Open Chairs
+
+  Goal: Brainstorm potential topics for IAB Business Meetings
+  
+  Wiki: https://wiki.ietf.org/en/group/iab/Agenda125
+
+
+### 5. 2026 IAB Retreat
+
+  Goal: Update on potential dates and locations
+
+
+### 6. Review of Open Issues for Responsibilities (Tommy)
+
+ GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
+### 7. Executive Session: ISOC BoT Appointment (Cindy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/72
+
+  Goal: Update on nominations status, organize interviews
+
+
+
+
 
 
 ## Regrets
 
-* 
+
 
 
 
@@ -42,11 +97,6 @@ Context:
 ### WBA liaison discussion
 
 ### ICANN85 Outreach Planning (Dhruv, Warren)
-
-### Wiki updates (Dhruv)
-
- - Workshop Wiki (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/IAB_Workshop_Guidelines.md)
- - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
 
 
 ## Upcoming IAB Meetings
