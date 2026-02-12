@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-12T03:19:01.704Z
+date: 2026-02-12T23:32:51.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -193,6 +193,34 @@ Framework for High Performance Wide Area Network (HP-WAN)
 https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
 Current State of the Art for High Performance Wide Area Networks
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
+
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Daniel Van Geest (Daniel.vangeest@cryptonext-security.com)
+Mike Ounsworth (mike.ounsworth@crypticforest.ca
+Jean-Pierre Fiset (jp@crypto4a.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc9881
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/11/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/rfc9810/
+https://www.ietf.org/id/draft-ietf-lamps-certdiscovery/
+https://datatracker.ietf.org/doc/rfc9909/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-composite-sigs/
+
+- **Project Info**
+Test interoperability of Post Quantum algorithms in x.509 structures (Certificates, keys, CMS and other drafts).   This project started in November 2022 and continues to evolve.  We currently have github automated tooling that automatically tests submitted artifacts allowing implementations to get immediate feedback on their compatibility. This allows us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 125, we plan to add more automation and others are invited to test interoperability.  Also, the composite signatures recently had IANA OIDs assigned, so a number of people are interested in testing composite signatures interoperability.   
 
 
 ### YANG2API
