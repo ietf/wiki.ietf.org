@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-12T13:38:58.925Z
+date: 2026-02-13T19:15:35.985Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - February 12, 2026
+# Informal Telechat - February 26, 2026
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-* Vyncke, Éric
+
 
 ## Agenda
 
@@ -40,18 +40,12 @@ Note that this page is public.
 
 ### Administrivia
 
-- IETF 125 Agenda Conflict Resolution! (Liz/all)
-
-- Intro to new side meeting scheduling tool (Liz)
 
 
 ### Document Discussions
 
 ### Management Issues
-- [Next steps](https://docs.google.com/document/d/1s262Rrysw-_fDNUhZJeQBfaQM4mJLJH0sPVzNzmggDc/edit?tab=t.0) on [draft-ietf-modpod-group-processes](https://datatracker.ietf.org/doc/draft-ietf-modpod-group-processes/) (Roman)
-- Shipping (Phase 1) Datatracker WG states documentation update (https://docs.google.com/document/d/1-GQtUKS3TpEBypowXtLJuCmfShDMzFfnxvipiC94bqI/edit?tab=t.0) - concluding discussion of Med and Erik's comments (Roman/Ketan)
-- Shipping (Phase 1) Datatracker WG states documentation update (https://docs.google.com/document/d/1Nml_q2uxyYEHri6wQ-eQJgmuRoc4QEmBw0cIn3a0MTU/edit?tab=t.0) - not many reviews; should we combine with Phase 2? (Roman/Ketan)
-- [New DISPATCH](https://docs.google.com/document/d/16GUZH20G7AA5HLISp01kRcvw3UN6V0oUhmiCWH9VegY/edit?tab=t.0) working group charter.
+
 ### WG News 
 
 
