@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-12T23:32:51.472Z
+date: 2026-02-13T07:17:22.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -461,6 +461,19 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/125/hackathon/thread-projects).
 
+
+### Agent Protocol Security
+- **Champions**
+Song Yurong (songyurong1@huawei.com)
+Foo Chuan Ann (foo.chuan.ann1@h-partners.com)
+- **Project Info**
+In recent years, AI agents have witnessed remarkable progress and are increasingly recognized as a pivotal force in various fields. Regarding agent protocols, they play a crucial role in enabling seamless communication between agents, external tools, and data sources. However, with the development of AI agents and their protocols, security has become a pressing concern.
+We continue to work on to implement and test security aspects of AI agent protocol. This hackathon, we test authorisation procedures on Model Context Protocol.
+- **Agent Protocol Background**
+https://modelcontextprotocol.io/
+https://www.a2aprotocol.org/
+- **Related Document**
+https://www.ietf.org/archive/id/draft-song-oauth-ai-agent-authorization-00.html
 
 ---
 
