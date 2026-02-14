@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-14T12:59:21.189Z
+date: 2026-02-14T13:00:17.491Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -297,7 +297,6 @@ SRv6 END.IL is a variant of the SRv6 End behavior, an SRv6 END.IL SID steers pac
 SRv6 for Inter-Layer Network Programming
 https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-inter-layer-programming/
 
----
 
 ### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
 - **Champion(s)**
@@ -347,7 +346,6 @@ https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v4.2.2
 https://github.com/CESNET/libyang/compare/master...devel
 
----
 
 ### YANG Message Keys and YANG-Push Message Broker Topic Naming PoC
 - **Champion(s)**
