@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-13T07:17:22.226Z
+date: 2026-02-14T12:59:21.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -347,6 +347,33 @@ https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v4.2.2
 https://github.com/CESNET/libyang/compare/master...devel
 
+---
+
+### YANG Message Keys and YANG-Push Message Broker Topic Naming PoC
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Wanting Du (wanting.du @ swisscom.com)
+Maxence Younsi (maxence.younsi @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-yang-message-broker-message-key
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-message-broker-bmp-telemetry-msg
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+
+- **Project Info**
+https://www.network-analytics.org/yp/, proof of concept code on generating
+
+- YANG Message Keys
+- YANG-Push Message Broker Topic Naming
+
+from YANG-Push example subscriptions. Document what works and what won't and how it could be addressed.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/125/Hackathon
+
+---
 ### DKIM2
 - **Champions**
 Bron Gondwana <brong@fastmailteam.com>
