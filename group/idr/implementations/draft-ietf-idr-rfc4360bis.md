@@ -2,7 +2,7 @@
 title: RFC4360bis Implementation Report 
 description: Report on RFC4360bis implementations in BGP 
 published: true
-date: 2026-02-14T07:35:31.791Z
+date: 2026-02-14T07:48:18.112Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T13:47:50.332Z
@@ -33,10 +33,10 @@ Implementations:
 | Route Target Extended Community high-order octet 0x00 | 4 | TBD | Yes |  |  Yes |  
 | Route Target Extended Community high-order octet 0x01 | 4 | TBD | Yes |  |  Yes | 
 | Route Target Extended Community high-order octet 0x02 (note - RFC 5668) | 4 | TBD | Yes |  |  Yes | 
-| Route Origin Community high-order octet = 0x00 | 5 | TBD | Yes |  |  TBD | 
-| Route Origin Community high-order octet = 0x01 | 5 | TBD | Yes |  |  TBD | 
-| Route Origin Community high-order octet = 0x02 (note - RFC 5668) | 5 | TBD | Yes |  | TBD |  
-| operations | 6| TBD | - |  |  TBD | 
+| Route Origin Community high-order octet = 0x00 | 5 | TBD | Yes |  |  Yes | 
+| Route Origin Community high-order octet = 0x01 | 5 | TBD | Yes |  |  Yes | 
+| Route Origin Community high-order octet = 0x02 (note - RFC 5668) | 5 | TBD | Yes |  | Yes |  
+| operations | 6| - | - |  |  - | 
 | Operations: MUST NOT be used to modify best path selection that leads to forwarding loops | 6 | TBD | Yes |   | TBD | 
 | Operations: MAY append to route without Ext. Community attribute | 6 | TBD | Yes |  | TBD |
 | Operations: May modify according to local policy | 6 | TBD | Yes |  |  TBD | 
