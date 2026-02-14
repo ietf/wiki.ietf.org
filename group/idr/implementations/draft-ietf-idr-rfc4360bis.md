@@ -2,7 +2,7 @@
 title: RFC4360bis Implementation Report 
 description: Report on RFC4360bis implementations in BGP 
 published: true
-date: 2026-02-14T07:52:02.375Z
+date: 2026-02-14T08:04:43.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T13:47:50.332Z
