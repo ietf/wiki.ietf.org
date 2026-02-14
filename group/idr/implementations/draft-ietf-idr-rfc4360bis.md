@@ -2,7 +2,7 @@
 title: RFC4360bis Implementation Report 
 description: Report on RFC4360bis implementations in BGP 
 published: true
-date: 2026-02-14T07:10:56.441Z
+date: 2026-02-14T07:22:27.135Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T13:47:50.332Z
@@ -24,12 +24,12 @@ Implementations:
 | Core Functionality | section |	Cisco IOS-XR |	Juniper	| Arrrcus |  FRRouting | Notes | 
 |---|---|---|---|---|---|---|---|
 | Extended Community  | 2 | TBD |	Yes |    | Yes |  | 
-| Extended Community I bit | 2 | TBD | Yes\[1\] |  | TBD | unknown who implemented | 
+| Extended Community I bit | 2 | TBD | Yes\[1\] |  | No | unknown who implemented | 
 | Extended Community T bit | 2 | TBD | Yes |  | Yes |
-| Two-Octet AS-Specific Extended Community | 3.1 | TBD | Yes |  | TBD |  | 
-| IPv4-Address-Specific Extended Community | 3.2 | TBD | Yes |  | TBD |  | 
-| Opaque Extended Community | 3.3 | TBD | Yes |  | TBD |
-| Route Target Extended Community | 4 | TBD | Yes |  | TBD | 
+| Two-Octet AS-Specific Extended Community | 3.1 | TBD | Yes |  | Yes |  | 
+| IPv4-Address-Specific Extended Community | 3.2 | TBD | Yes |  | Yes |  | 
+| Opaque Extended Community | 3.3 | TBD | Yes |  | Yes |
+| Route Target Extended Community | 4 | TBD | Yes |  | Yes | 
 | Route Target Extended Community high-order octet 0x00 | 4 | TBD | Yes |  |  TBD |  
 | Route Target Extended Community high-order octet 0x01 | 4 | TBD | Yes |  |  TBD | 
 | Route Target Extended Community high-order octet 0x02 (note - RFC 5668) | 4 | TBD | Yes |  |  TBD | 
