@@ -2,13 +2,19 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2025-10-30T06:25:45.200Z
+date: 2026-02-16T05:17:42.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
 ---
 
 # IETF Outreach
+## Resources
+
+* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2)
+* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
+* [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
+* [Outreach Update given at IETF 122](https://datatracker.ietf.org/meeting/122/materials/slides-122-eodir-sessa-ietf-outreach-activities-00.pdf)
 
 ## Types of Outreach
 
@@ -38,12 +44,7 @@ Some examples of outreach activities are listed in the table below
 |Open Source Community|Implementers|full participation|-|IETF Hackathon outreach by Charles|
 |Civil Society|NGO, Professional associations|supporter|-|-|
 
-## Resources
 
-* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2)
-* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
-* [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
-* [Outreach Update given at IETF 122](https://datatracker.ietf.org/meeting/122/materials/slides-122-eodir-sessa-ietf-outreach-activities-00.pdf)
 
 ## Outreach activities, done in the past
 
@@ -51,8 +52,15 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Feb 2026|[APRICOT 2026](https://2026.apricot.net/programme/programme#/day/6/147/)|Operators|Participants|Paresh, Warren|[Slide](https://conference.apnic.net/61/assets/presentation-files/2ea34790-9ba4-436d-8f0a-8fa643a6c731.pdf)<br>[Video](https://www.youtube.com/live/OZpOWOmp3Qk?si=Jy_ANoxrhyHN2zb7&t=1810)|
+|Jan 2026|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
+|Jan 2026|[Net Mission 2026](https://netmission.asia/2025/08/22/netmission-academy-2026-applications-now-open/)|Students|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1WIvoYwGX-z_jmgcfvkhwdXxAjNy4xhE-k83ca83hhAY/edit?usp=sharing)|
+|Dec 2025|Panel for the Future of Science and Technology – Technical Workshop on the Functioning of the Internet|Legislators|Supporter|Lars|[Video](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology-technical-workshop-on-functioning-of-internet_20251204-1000-SPECIAL-STOA)|
+|Dec 2025|[India IGF](https://indiaigf.in/)|Regional|Supporter|Dhruv|[Panel](https://www.youtube.com/live/GfE2rPZgzqg?t=9040s)|
+|Nov 2025|UK Digitial Standards, DSIT|UK Companies|Knowledge sharing|Rob Wilton|[Slides](https://docs.google.com/presentation/d/1GVgGH0G-4QUC6W8TsXBDzibSbmkzRXO-uuPP3MUikpc/edit?usp=sharing)|
 |Oct 2025|[ICANN84](https://meetings.icann.org/en/meetings/icann84/)|ICANN Leadership|supporter|Roman,Dhruv,Mirja,Warren|[Recording](https://icann.zoom.us/rec/play/zM8Pog5RsHO2reY2B5BB21BvVIKuJduhbwbXYPusw-TF3AU3p191roRm5w-aY_27wQofnm6LivhjA8Xr.Khk9YmLpecuSB-dB?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FFI9NrVHzjf1WZO7dwlWbGo8hS2I11FwmlKIz-JWK4mwruiifN_qtlleZ0Djp3SvB.qyDWVeDZkj9bv5Mt)|
 |Oct 2025|[RIPE91](https://ripe91.ripe.net/)|Operators|Participants|Suresh, Mirja, Eric|[Details](https://ripe91.ripe.net/programme/meeting-plan/sessions/17/CGDZGZ/)|
+|Oct 2025|[LACNIC44]()|Operators|Participants|Suresh|[Details](https://lacnic44.lacnic.net/es/programa/agenda/plenaria)|
 |Sept 2025|[CAPIF4](https://www.ripe.net/meetings/regional-meetings/capif/previous-events/capif-4/agenda/)|Regional|Knowledge sharing|Dhruv|-|
 |Sept 2025|[inSIG2025](https://insig.in/insig-agenda-2025/)|Mixed|all levels|Dhruv|[IETF in IG Ecosystem](https://docs.google.com/presentation/d/1zcOSnnvVO8e2wAJt2w_NPxAjetGlsK94qz1TOeTi31o/edit?usp=sharing)<br>[Internet Standards & RFCs](https://docs.google.com/presentation/d/1fMdu8LtfaO0YywRXVeoatPOG4JC6FWv2Na0OtQKiMDk/edit?usp=sharing)|
 |Sept 2025|[Youth IGF India](https://youthigf.in/agenda-2025/)|Internet Governance for Youth|Knowledge sharing|Dhruv|-|
@@ -60,7 +68,6 @@ This table collects the various IETF outreach activities done by individuals to 
 |Aug 2025|[APIGA-2025](https://icann-community.atlassian.net/wiki/spaces/GSEAPAC/pages/114304956/APIGA+2025)|Internet Governance for Youth|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1X5P_5eGaB41dYvnuJbbGXst1aVEg9d4RIYeD2_Swjgg/edit?usp=sharing)|
 |July 2025|[ISOC Trinidad & Tobago Chapter Webinar](https://www.isoc.tt/blog_post/22/)|Regional|Participants|Suresh|[Slide](https://docs.google.com/presentation/d/1WjTk8pcL6Hq0nF02fotdTPlFuHSvnuR7/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)|
 |July 2025|[WSIS+20 HLE](https://www.itu.int/net4/wsis/forum/2025/en)|Internet Governance|-|Roman, Mirja, Mark|-|
-|July 2025|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
 |June 2025|[IGF 2025](https://www.igf2025.no/)|Internet Governance|Knowledge sharing, Support|Roman, Dirk, Dhruv, Mirja, Warren, Suresh, Mark, Colin, Mirjam|[Blog](https://www.ietf.org/blog/experiences-igf-2025/)| 
 |May 2025|[INNOG](https://innog.net/)|Operators, Regulators, Govt|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1rN1No1Md2OQbuqexnY0Z_PNN9YUCYOsCsKmwRVNy9rA/edit?usp=sharing)| 
 |May 2025|IETF deep-dive training in China|Regional|Participants|Jianking, Qin, Barry, Pete, Dirk, Georgios|-|

@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2025-08-04T18:31:42.209Z
+date: 2025-11-21T10:18:22.879Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -18,12 +18,12 @@ The [hackathon](https://wiki.ietf.org/en/group/rpp/rpp-hackathon) page contains 
 ## Internet Drafts
 
 Possible documents to create are
+- RPP - Requirements
 - RPP - Architecture: High level description of RPP architecture, choices and rationale
 - RPP - Core: Describes API endpoints and message framework
 - RPP - Model: Describes data model structures
 - RPP - Model [format]: Describes data model mapping for a specific data format 
 - RPP - EPP: Describes how RPP data structures can be converted to EPP objects
-
 
 TODO
 

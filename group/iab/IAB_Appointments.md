@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2025-09-19T18:22:30.259Z
+date: 2026-02-12T00:42:41.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
@@ -54,7 +54,7 @@ From RFC 2850:
 - Dave Clark, 1989–1992
 
 ## ISOC Board of Trustees
-ISOC BoT appointment procedures are based on R.F.C. 3677 and the [ISOC Board of Trustees Bylaws](http://www.internetsociety.org/who-we-are/governance-and-policies/amended-and-restated-laws-internet-society). Note, that there was a change to the bylaws in 2013 such that the IETF appoints two members every 3 years. That change starts in 2015. Thus, the number of appointments for upcoming years is as follows:
+ISOC BoT appointment procedures are based on RFC 3677 and the [ISOC Board of Trustees Bylaws](http://www.internetsociety.org/who-we-are/governance-and-policies/amended-and-restated-laws-internet-society). Note, that there was a change to the bylaws in 2013 such that the IETF appoints two members every 3 years. That change starts in 2015. Thus, the number of appointments for upcoming years is as follows:
 
 > 2024: name two board members
 > 2025: name one board members
@@ -90,6 +90,10 @@ Candidates for ISOC Trustee will have demonstrable involvement in the Internet w
 - Internet operation
 - Public policy for Internet and telecommunications
 - Internet development
+
+As noted in Section 2 of RFC 3677, the IAB expects candidates to have IETF experience:
+
+*  Candidates for an ISOC Trustee should have a demonstrable involvement in the IETF with a particular focus on active participation in IETF Working Groups.*
 
 Ideal candidates will also have a good understanding of broader technology, policy, business and/or economic issues relevant to the Society.
 

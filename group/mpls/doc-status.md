@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2025-10-30T11:24:00.364Z
+date: 2026-01-30T12:40:02.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,6 +31,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | 2026-01-22 |  | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -38,7 +39,7 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
-| 2025-09-15 | draft-mirsky-mpls-stamp | Attempt to merge with draft-ietf-mpls-stamp-pw  | Tony |  |
+| 2026-01-20 | [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | Post WG I-D  | Tarek | Chair to approve |
 
 ## MPLS WG Documents
 
@@ -50,8 +51,6 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
-| 2025-10-15 | draft-ietf-mpls-mna-nrp-selector | Wait until after presentation at IETF-124 | Adrian |
-
 
 ## Queued for WG Last Call
 
@@ -61,24 +60,21 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Pending | New version posted 2025-10-20 for Jeffrey Zhang review | Outstanding issues exist | Tarek |
+| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Ongoing | New version (-15) posted. All issues cleared |  | Tarek |
 
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
 |---|---|---|---|---|---|
+| [draft-ietf-mpls-mna-ps-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-ps-hdr/) | 2026-01-30 | 2026-02-13 12:00 GMT | Yes | Adrian | |
 
 ## Working Group Last Call Completed Pending Action
 
 Working group last calls may succeed or fail. In the case of failure, the document moves back to being just another working group I-D. In case of success, the chairs may instruct the shepherd to product the write-up before they pass the document to the AD requesting publication, but sometimes working group last success will be dependent on the authors making specific changes to the document. This state captures such documents.
 
 | Date | Draft | Action Needed | Shepherd |
-|---|---|---|---|
+| --- | --- | --- | --- |
 
 ## Post Working Group Last Call
-
-| Date | Draft | Action Needed | Shepherd |
-|---|---|---|---|
-| 2025-10-14 | [draft-ietf-mpls-mna-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-hdr/) | Publication requested - AD review | Tarek |
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.

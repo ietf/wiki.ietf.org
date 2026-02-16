@@ -2,7 +2,7 @@
 title: AMD Key Distribution Service (KDS)
 description: Analysis of the KDS API and interaction model
 published: true
-date: 2025-04-16T13:09:42.077Z
+date: 2026-01-27T18:23:10.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T12:32:10.027Z
@@ -13,7 +13,7 @@ dateCreated: 2025-04-09T12:32:10.027Z
 ## Overview
 The AMD KDS is an endorsement distribution endpoint for [AMD SEV-SNP](https://www.amd.com/en/developer/sev.html) (confidential computing) processors. It provides the certificates (leaf, intermediate and root) needed for cryptographic verification of AMD attestation reports. Each leaf certificate is known as a Versioned Chip Endorsement Key (VCEK), and certifies the public attestation key for a specific physical AMD CPU combined with a Trusted Computing Base (TCB) - essentially, that means the CPU plus the set of authentic AMD firmware components that are provisioned onto it. Each leaf certificate is chained back to an intermediate certificate for the whole product family, and thence to the AMD root certificate, providing a complete chain of trust. All certificates are obtainable through the REST API.
 
-Full documentation for VCEK and KDS is [here](https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/specifications/57230.pdf). Chapter 4 describes the KDS.
+Full documentation for VCEK and KDS is [here](https://docs.amd.com/v/u/en-US/57230). Chapter 4 describes the KDS.
 
 ## Discovery
 There is a singular base URL for the entire KDS at `https://kdsintf.amd.com` as a global internet service.

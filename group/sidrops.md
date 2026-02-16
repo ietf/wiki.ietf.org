@@ -2,8 +2,8 @@
 title: SIDROPS
 description: Secure Inter-Domain Routing Operations
 published: true
-date: 2025-08-04T18:32:26.400Z
-tags: sidrops, rpki, sidr, pkix, x509, asn1
+date: 2026-01-01T06:41:39.260Z
+tags: 
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
 ---

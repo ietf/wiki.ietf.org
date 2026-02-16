@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Review of bgp-ls-sr-policy-nrp
 published: true
-date: 2025-02-28T13:59:36.465Z
+date: 2025-12-22T04:44:21.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T17:17:11.528Z
@@ -12,9 +12,87 @@ dateCreated: 2025-02-17T17:17:11.528Z
 
 Draft:  [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)
 Current version: -01 
-Status: WG draft, adopted (8/12/2024 upload), WG LC requested 
+Status: WG draft, adopted (8/12/2024 upload), WG LC requested, 
+awaiting ok on WG LC for draft-ietf-idr-sr-policy-nrp prior to starting WG LC on this drasft. 
+
 WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp. 
 implementation report: [v1](group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
+
+## -02 Review 
+**draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp-02](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-sr-policy-nrp-02)
+**Document type:** Proposed Standard 
+**WG Status:** WG Draft, pre-WG LC, awaiting linked draft to be through WG LC before WG LC.  
+**linked draft:** [draft-ietf-idr-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
+
+draft-ietf-idr-bgp-ls-sr-policy-nrp-02
+date: 12/12/2025
+Reviewer: Susan Hares
+Status: Needs -03 draft before publication request.
+
+Shepherd's Detailed review:
+
+### Minor:
+#### 1) BGP-LS normally queries for control
+
+Section 1, paragraph 4, - needs to indicate control plane
+
+> Old Text: /
+>    [I-D.ietf-idr-sr-policy-nrp] defines the extensions to BGP SR policy
+>    to specify the NRP which the SR Policy candidate path is associated
+>    with./
+
+> new text:/
+>    [I-D.ietf-idr-sr-policy-nrp] defines the extensions to BGP SR policy
+>    to specify the control Plane NRP ID which the SR Policy candidate
+>    path is associated with./
+{.is-info}
+
+
+
+2) Section 1, paragraph 6 - indicate control plane 
+> 
+> Old text/
+>    The SR policy indicates the forwarding path
+>    of the data packet, and the NRP ID indicates the reserved resources
+>    along the path specified by the SR policy.  By associating the SR
+>    policy with a specific NRP, the forwarding path and resource
+>    reservation along the path are ensured.  BGP-LS reports the
+>    association between SR Policy Candidate Path (CP) and NRP-ID, which
+>    is used to synchronize the association information between the SR
+>    Policy CP and the NRP-ID./
+
+> New text: / 
+> Section 1, paragraph 6 /
+>    The SR policy indicates the forwarding path
+>    of the data packet, and the NRP ID indicates the reserved resources
+>    along the path specified by the SR policy **in the control plane.**
+>    By associating the SR policy with a specific NRP, the forwarding path and resource
+>    reservation along the path are ensured.  BGP-LS reports the
+>    association between SR Policy Candidate Path (CP) and NRP-ID, which
+>    is used to synchronize the association information between the SR
+>    Policy CP and the NRP-ID./
+{.is-info}
+
+
+
+#### 3. Section 2 - Clear indication of control plane versus data plane
+> Old text:/
+>   NRP ID: 4-octet domain significant identifier of Network Resource
+>    Partition.  Value 0 and 0xFFFFFFFF are reserved.  NRP ID is planned
+>    by network operator./
+> 
+{.is-info}
+
+In my understanding, the control-plane NRP ID is passed via BGP.
+Does this mean the NRP ID is assigned by the operator of the network
+and assigned by configuration? Please clarify.
+
+
+#### 4. Section 3 - scaling editorial (optional)
+
+Scaling of NRP expands for possible control plane NRP ID, but
+the data plane can have fewer NRP IDs.  I am wondering if
+this understanding would help this section.
 
 ## -01  review  
 

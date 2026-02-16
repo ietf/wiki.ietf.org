@@ -2,7 +2,7 @@
 title: Group Index
 description: Links to the wiki pages for each working group, team, directorate, etc
 published: true
-date: 2025-08-22T00:15:08.927Z
+date: 2025-12-15T20:09:30.013Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -17,7 +17,9 @@ The URLs for wiki pages of specific groups, if they exist, generally follow the 
 
 Wiki pages for any particular group are linked from the "About" tab on their IETF Datatracker page. For example the IESG wiki page is linked from: https://datatracker.ietf.org/group/iesg/about/
 
-The links below are provided as assistance to find wiki pages for particular groups but are not intended to be comprehensive.
+> The links below are provided as assistance to find wiki pages for particular groups but are not intended to be comprehensive.
+{.is-info}
+
 
 # Leadership groups
 - [iesg *Internet Engineering Steering Group*](/group/iesg)
@@ -26,7 +28,7 @@ The links below are provided as assistance to find wiki pages for particular gro
 {.links-list}
 
 # Working Groups
-The IETF divides its work into a number of Areas, each comprised of Working Groups (WGs) that relate to that Area's focus. A list of all active working groups can be found on the IETF Datatracker. 
+The IETF divides its work into a number of Areas, each comprised of Working Groups (WGs) that relate to that Area's focus. A [list of all active working groups](https://datatracker.ietf.org/wg/) can be found on the IETF Datatracker. A [combined list of all concluded groups](https://datatracker.ietf.org/group/concluded/) is also available.
 
 ## [Applications and Real Time](https://datatracker.ietf.org/wg/#ART)  (ART)
 The ART Area works on the application layer and related protocols:

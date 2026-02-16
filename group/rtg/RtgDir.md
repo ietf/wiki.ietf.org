@@ -2,7 +2,7 @@
 title: Routing Area Directorate Wiki Page
 description: 
 published: true
-date: 2022-12-21T23:19:02.921Z
+date: 2025-11-02T00:28:02.646Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T06:08:51.893Z
@@ -25,9 +25,9 @@ dateCreated: 2022-12-21T06:08:51.893Z
 
 ----
 
+&nbsp;![rtgdir-review-milestones.jpg](/rtg/rtgdir-review-milestones.jpg)
 &nbsp;
-&nbsp;
-&nbsp;
+&nbsp;![rtgdir-review-workflow.jpg](/rtg/rtgdir-review-workflow.jpg)
 
 ---
 

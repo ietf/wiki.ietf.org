@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-liu-idr-srv6-segment-list-optimize
 description: Shepherd draft-liu-idr-srv6-segment-list-optimize
 published: true
-date: 2025-02-25T23:51:45.036Z
+date: 2026-01-07T00:38:18.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:51:45.036Z
@@ -16,13 +16,41 @@ dateCreated: 2025-02-25T23:51:45.036Z
 
 **Type:** Proposed Standard 
 **status:** Individual draft   
-**adoption call:** Needs to have Spring OK, and revisions 
+**adoption call:** Meeds -02 text and Spring approval 
+
 **current version:** 01 of draft-liu-idr-sr-segment-list-optimize 
-**Early Allocation**: yes, need early allocation 
+**Early Allocation**: Needs early allocation. 
 **implementations:** H3C and ZTE in process 
 **Spring problem:** mail list query says 2 problems are common. 
 **Spring draft query email:** https://mailarchive.ietf.org/arch/msg/idr/_1LJyCRjn-BU8G91rdpYl6Q2fp4/
 E-Flag, Segments: B, I, J, K 
+
+## Review of -01 of draft-liu-idr-sr-segment-list-optimze
+### technical issues 
+#### Technical issue 1 - Reserved fields in Admin flags 
+
+This depends on draft-lin-sr-policy-admin-flags. 
+The administrative flag text does not handle the unassigned flag 
+bits. The authors in this draft need to work with the 
+authors of draft-lin-sr-policy-admin-flags to make sure the 
+unassign flag bits are ignored upon input and zeroed upon sending. 
+This will allow the addition of the new flag. 
+
+#### Technical issue 2 - Security section 
+
+The optimization can provide a challenge to both manageability 
+and security.  It is not clear that the security section is
+sufficient.  Please consider if the understanding of optimization 
+provides a piece of critical infrastructure for a network. 
+If so, the configuring and managing of this needs to be 
+treated as protected information. 
+
+#### Technical issues 3 - Update to RFC9830 and RFC9831
+
+Replace the references to [I-D.draft-ietf-idr-sr-policy-safi]
+and  [I-D.draft-ietf-idr-bgp-sr-segtypes-ext] to RFC9830 and RFC9831 
+respectively.  
+
 
 ## Review 00 of draft-liu-idr-sr-segment-list-optimize
 **draft:** [draft-liu-idr-sr-segment-list-optimize/](https://datatracker.ietf.org/doc/draft-liu-idr-sr-segment-list-optimize/)

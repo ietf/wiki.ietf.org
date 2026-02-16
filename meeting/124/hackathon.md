@@ -2,8 +2,8 @@
 title: IETF 124 Hackathon
 description: 
 published: true
-date: 2025-11-01T21:51:32.010Z
-tags: 
+date: 2026-01-01T06:57:51.408Z
+tags: readonly
 editor: markdown
 dateCreated: 2025-05-01T16:05:24.172Z
 ---
@@ -384,7 +384,7 @@ We propose **Secure Hybrid Network Monitoring** that analyzes requirements for e
 - **Specifications**
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm/
   - Internet Draft: https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm/
-  - Meeting Link: https://app.huawei.com/wmeeting/join/94325449/ZqobeGUK1ftn2I7jMUqMjFi1d3ZhD0hSh
+  - Meeting Link: https://app.huawei.com/wmeeting/join/94106947/2bsMAWnt2PL8PmyJFTXu8ZfTYGS0aG5ob
   - Github reference: https://github.com/Yuanyuan4666/Integration-of-MCP-and-Network-Management-Protocols/tree/main
 
 ### Multi-modal Knowledge Graph for Network Management
@@ -772,10 +772,11 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
 
 
 
-### PacketScope: eBPF-based Protocol Stack Analysis and Defense
+### PacketScope: LLM-Powered eBPF for Protocol Stack Defense
 
 * **Champions**
     * Zhaoxi Li (li-zx24@mails.tsinghua.edu.cn)
+    * Yuxiang Yang (yangyx22@mails.tsinghua.edu.cn)
 
 * **Project Info**
     PacketScope is a general-purpose protocol stack analysis and debugging tool based on eBPF. It integrates performance optimization, anomaly diagnosis, and security defense to provide fine-grained tracing and intelligent analysis of network packets at the protocol stack level. The project aims to solve common pain points such as difficult diagnosis of performance bottlenecks, unclear packet transmission paths, and hard-to-detect low-level protocol attacks (e.g., at layers below traditional WAF/IDS).

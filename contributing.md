@@ -2,7 +2,7 @@
 title: Contributing to this wiki
 description: This page provides details and guides about how to contribute to this wiki, or how to transition content from other wikis.
 published: true
-date: 2024-07-28T06:11:33.122Z
+date: 2025-12-08T20:41:16.127Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T01:06:42.448Z
@@ -14,10 +14,7 @@ This wiki is for the IETF Community - any IETF participant is welcome to edit it
 > This page covers the mechanics of *how* to contribute. When making contributions, please be aware these [guidelines for content on wiki.ietf.org](/guidelines) about *what* to contribute.
 {.is-info}
 
-> **NOTE**:  To contribute to this wiki you must first log in (icon in the upper right corner) using your [Datatracker](https://datatracker.ietf.org/) credentials.
-{.is-warning}
-
-Once you are logged in, you can create or edit pages on this wiki. Only administrators can delete pages, create private pages, and add custom CSS/scripts to pages.
+To contribute to this wiki you must first log in (icon in the upper right corner) using your [Datatracker](https://datatracker.ietf.org/) credentials. Once you are logged in, you can create or edit pages on this wiki. Only administrators can delete pages, create private pages, and add custom CSS/scripts to pages.
 
 # Basics
 ## Editing language
@@ -37,6 +34,15 @@ Generally, this is one of the following forms:
 * You can optionally add one or more path elements as **{{additional structure}}**.
 * The **{{page name}}** should be reasonably descriptive and consistent with the title that you will later give the page. 
 
+## What pages can be edited
+Not all pages can be directly edited, to prevent vandalism. Those that can be directly edited are:
+
+* All pages under /group/ but not the Group Index itself.
+* All pages under /meeting/ but not the top level meetings page
+* All pages under /sandbox/ but not the top level sandbox page
+
+If you wish to edit a page that is not on the list above, then please do that as a PR on the GitHub repository.
+
 ## Known limitations
 The wiki product we are using has the following known limitations:
 1. The page menu (the one that appears in the middle when the screen is wide enough, is auto-generated and auto-placed and this cannot be changed.
@@ -50,7 +56,7 @@ If you want to try out the new wiki platform without creating a page of your own
 ## Editing a page
 You can edit a page in one of two ways:
 1.  By selecting Edit from the Page Actions menu. If you can't see that menu then you are not logged in.
-1.  By submitting a pull request against the [GitHub repository](https://github.com/ietf/wiki.ietf.org).  See below for more details.
+1.  By submitting a pull request against the [GitHub repository](https://github.com/ietf/wiki.ietf.org).
 
 Some online tools ease the initial creation of tables in Markdown ([Table generator](https://www.tablesgenerator.com/markdown_tables); [for copy/paste from spreadsheets](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)).
 
@@ -67,6 +73,7 @@ Finally you are asked for a title for the page. Please make this consistent with
 
 ## Adding an asset
 If you need to add an image or other asset (PDF) for your wiki, you can do that by using the "Insert Asset" folder icon in the left side of the editor view. From there you will be prompted to browse for the file to upload. After uploading, you will be able to perform various actions on the asset using the '...' link in the Action column of the asset list.
+
 
 # Migrating from Trac and other legacy wikis
 If you are responsible for content on an existing IETF wiki there are a number of resources available to help transition content from an existing Wiki.
@@ -91,18 +98,3 @@ If you are responsible for content on an existing IETF wiki there are a number o
 
 > If you are an IETF or IRTF group chair and would like additional information about transitioning your group's wiki to this platform, please contact: support@ietf.org.
 {.is-info}
-
-# Content sprint at IETF 115
-If you have responsibility for any active IETF-related wiki (e.g. working group or directorate wiki), and are looking to get help or a head start on moving content, you are encouraged to participate in the next content sprint, which is open to anyone who wants a focused time to work on and get help with setting up content at wiki.ietf.org, covering topics such as:
-+ New wiki set up
-+ Documentation and tools for wiki maintainers
-+ Platform-wide features and content
-
-**Hybrid Content-o-thon on 5 November during [IETF 115](https://www.ietf.org/how/meeting/115/)**
-
-This hybrid content-sprint will take place from 1400-1800 GMT on 5 November in the [Mezzanine 9](https://datatracker.ietf.org/meeting/115/floor-plan?room=mezzanine-9) room.
-
-# GitHub and this wiki
-The wiki is bi-directionally mirrored with a [GitHub repository](https://github.com/ietf/wiki.ietf.org), which you are welcome to clone.
-
-As noted above, pull requests are accepted against the repository, though initially direct editing is preferred. Any change made directly on Wiki.js becomes a commit (attributed to your email) on GitHub.

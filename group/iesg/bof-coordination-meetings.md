@@ -2,7 +2,7 @@
 title: BOF Coordination Meetings
 description: 
 published: true
-date: 2025-10-21T14:53:11.173Z
+date: 2026-01-20T14:53:19.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T16:52:38.839Z
@@ -53,7 +53,7 @@ Some changes between WG forming vs. non-WG forming BOF occur.  It is not uncommo
 
 ## Meeting \#2
 
-Purpose: Final decision for the BOFs at IETF 122
+Purpose: Final decision for the BOFs at the upcoming IETF meeting
 
 Attendees: IESG
 

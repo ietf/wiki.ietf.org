@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2025-10-16T13:59:44.774Z
+date: 2026-02-13T19:15:35.985Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - October 16, 2025
+# Informal Telechat - February 26, 2026
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,8 +28,8 @@ Meeting password: 12345
 
 
 ## Regrets
-* Kline, Erik
-* Mike Bishop
+
+
 
 ## Agenda
 
@@ -42,14 +42,9 @@ Note that this page is public.
 
 
 
-
 ### Document Discussions
 
 ### Management Issues
-* Closing of Note Well Review 2025 https://docs.google.com/document/d/1ckR8rctRir4xZewNe9P7topSpltaNI5E9kSKg1JtIyE/edit?tab=t.0#heading=h.u7qvvzmcl3q7
-* Ketan Talaulikar, Mahesh Jethanandani, and Roman Danyliw to work on an announcement regarding Datatracker state change for WG adoption -> https://docs.google.com/document/d/14Qoq3EjFxtG0QK28s_Oa9BeerymsWCH8yxIY-kNa03w/edit?tab=t.0
-* [Revision of IESG Statement on Documentation Codepoints and Examples in IETF Specifications](https://docs.google.com/document/d/1QqNhXWQfElrmDhO1oA8yyTJiujGjTzmw/edit) (Med/Mahesh)
-* [Licensing clauses in IETF Contributions](https://docs.google.com/document/d/1_kHc3j8y3BsQNNnxl-26DMdb0ZxxdbZSeLyIhILLE74/edit?tab=t.0) (Roman)
 
 ### WG News 
 
@@ -58,7 +53,8 @@ Note that this page is public.
 
 ### Executive Sessions
 
-* Appeal processing
+
+
 
 ### AOB
 

@@ -2,7 +2,7 @@
 title: Shepherd review for draft-zzd-idr-policy-scheduling
 description: Shepherd  draft-zzd-idr-policy-scheduling
 published: true
-date: 2025-03-17T10:12:42.565Z
+date: 2026-01-07T01:51:57.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T07:10:39.472Z
@@ -11,16 +11,58 @@ dateCreated: 2025-03-17T07:10:39.472Z
 # Shepherd Reviews for draft-zzd-idr-sr-policy-scheduling
 
 ## Summary 
-**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling-08) 
+**draft:**  [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/html/draft-zzd-idr-sr-policy-scheduling/) 
 **Type:** Proposed standard 
 **status:** Individual Draft 
-**current version:** -08
+**current version:** -10, Needs -11 
 **adoption process:** TVR needs to set paradigm, Spring SR, and IDR mechanisms
 **Cross-WG discussion:** TVR, Spring 
 **bgp-ls draft:** none
 **Early Allocation**: TBD 
 **implementations:** TBD 
 **Reviewer:** Susan Hares 
+
+## Review -10
+### Technical issues in -10
+#### Technical Issue-1: Review based on Sub-TLV template 
+**What's missing: **
+1) Can this Sub-TLV only go in the SR Policy tunnel TLV? 
+If so please clearly state this in section 3. 
+
+2) What is the precedence if  Schedule Time Information information occurs both at the SubTLV level for the SR Policy TLV, and at the level of the Segment list? 
+
+My assumption is that the most specific wins.  This seems to be found in section 5.2.1. 
+
+If there are multiple Schedule Time Information TLVs at the
+SubTLV level under the SR Policy TLV, do you process all or 
+just the first one? What happens if there are duplicates? 
+
+Similarly, if there are multiple Schedule Time Information TLVs at the SubTLV level under the Segment list, do you process all 
+or just the first one? What happens if there are duplicates? 
+
+Does the schedule ID sole any or all of these problems? 
+
+3) What part does this sub-TLV in validating the TLV?  Will a malformed sub-TLV  cause the TLV to be malformed?  Can the Malformed Sub-TLV ignored or does this cause a security issue? 
+
+4) It appears that the Sub-TLV could be repeated at two levels (see section 3) for a tunnel with multiple segments (going over all segments) and at the segment level.  How do the two levels interact? Does any usage make the tunnel invalid? 
+
+#### Technical Issue-2:  An Error handling section should be considered. 
+
+Your error handling section states:
+> The validation rules defined in Section 5.2.1 also SHOULD be performed by SRPM to determine if the Schedule Time Information sub-TLV is malformed or invalid. 
+{.is-info}
+
+How can this be?  If the form of the subTLV is malformed, it is the responsibility of the BGP process to ignore it.  If it is invalid or outside the sematic range, it is the SRPM job to consider it invalid.
+Why are you stating:
+If the Schedule Time Information sub-TLV is invalid or malformed, then the implementation SHOULD log errors, and the corresponding SR Policy MUST NOT be used and MUST be handled by the "treat-as-withdraw" strategy.
+
+A Malformed SubTLV is an error.  An invalid context, can be logged.  
+Discussion must occur here with the WG and Spring WG. 
+
+
+#### Technical Issue-3: Update to RFC9830 and RFC9831. 
+
+
 
 
 ## Review -08 

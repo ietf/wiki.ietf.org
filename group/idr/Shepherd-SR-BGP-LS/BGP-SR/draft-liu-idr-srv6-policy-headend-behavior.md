@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-lin-idr-srv6-policy-headend-behavior
 description: Shepherd draft-lin-idr-srv6-policy-headend-behavior
 published: true
-date: 2025-02-25T23:18:35.138Z
+date: 2026-01-06T23:57:28.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:11:15.843Z
@@ -11,14 +11,44 @@ dateCreated: 2025-02-25T23:11:15.843Z
 # Shepherd reviews for draft-lin-idr-srv6-policy-headend-behavior
 
 ## Summary 
-**draft:**  [draft-lin-idr-srv6-policy-headend-behavior](https://datatracker.ietf.org/doc/html/draft-lin-idr-srv6-policy-headend-behavior)
+**draft:**  [draft-lin-idr-sr-policy-headend-behavior](https://datatracker.ietf.org/doc/html/draft-lin-idr-sr-policy-headend-behavior)
 **Type:** Proposed Standard 
 **status:** Individual Draft, expired (11/6/2024) 
 **adoption Call:** TBD 
-**current version:** 04
-**Early Allocation**: TBD 
+**current version:** 05
+**Early Allocation**: needs early allocation after adoption. 
 **implementations:**  
 **bgp-ls draft:** none
+
+
+## Review -05 
+**Summary:** Resolved -04 action issues 1 and 2. For clarity, need to make the editorial/technical changes below. 
+Review [email](https://mailarchive.ietf.org/arch/msg/idr/XFKiGhuVq8EORwxwAQWEvydJTn8/)
+
+### Technical review: 
+#### Technical Issue 1, Make clear that behaviors are headend behaviors
+
+Abstract:
+>old text:/
+>  	   RFC8986 defines H. Encaps behavior, H. Encaps.Red behavior, H.	
+>  	   Encaps.L2 behavior, and H. Encaps.L2.Red behavior for SR policy.
+{.is-info}
+> New text:/
+>  	   RFC8986 defines the following headend behaviors for SR Policy:
+>      H. Encaps, H. Encaps.Red, H.Encaps.L2, and H. Encaps.L2.Red. /
+{.is-info}
+
+
+Section 1, 5th paragraph
+> Old text:/
+> 	 	 [RFC8986] defines H. Encaps behavior, H. Encaps.Red behavior, H.	
+>  	   Encaps.L2 behavior, and H. Encaps.L2.Red behavior for SR policy./
+{.is-info}
+
+> New text:/
+>  	   [RFC8986]defines the following headend behaviors for SR Policy:
+>      H. Encaps, H. Encaps.Red, H.Encaps.L2, and H. Encaps.L2.Red. 
+{.is-info}
 
 
 ## Review -04 + Interim notes 

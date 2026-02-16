@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-10-28T11:41:07.670Z
+date: 2025-11-25T15:23:33.494Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -155,21 +155,20 @@ Shepherd's name indicated within parenthesis.
 * draft-ietf-bess-evpn-fast-reroute-00
 * draft-ietf-bess-evpn-vpws-gateway-00
 * draft-sajassi-bess-rfc8317bis-04
+* draft-mpmz-bess-mup-safi (Matthew)
+* draft-sajassi-bess-evpn-umr-mobility-02 (Stephane)
 
-
- 
 ## Documents requested for Working Group adoption (Non Expired drafts only)
 
 
 * draft-mackenzie-bess-evpn-l3mh-proto (Jeffrey)
   - Adoption call in progress
-* draft-mpmz-bess-mup-safi (Matthew)
-  - implementation/prototype exists, authors would like to move forward
-  - Need to reduce to 5 authors
-* draft-sajassi-bess-evpn-umr-mobility-02 (Stephane)
-  - Adoption call in progress
 * draft-sajassi-bess-evpn-first-hop-security-03
 * draft-rbickhart-evpn-ip-mac-proxy-adv (Jeffrey)
+* draft-rabadan-bess-evpn-inter-domain-opt-b
+* draft-rabnic-bess-evpn-mcast-eeg
+* draft-rabnag-bess-evpn-anycast-aliasing
+
 
 ## Documents that failed WG adoption
 * draft-wang-bess-sbfd-discriminator
@@ -182,7 +181,7 @@ Shepherd's name indicated within parenthesis.
 
 - draft-ietf-bess-ebgp-dmz-08 (Matthew): 
 	- New version of the document published
-	- doc may move to IDR
+	- IDR chairs OK to LC with an IDR shepherd.
 
 
 

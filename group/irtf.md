@@ -2,8 +2,8 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2025-05-23T00:36:12.174Z
-tags: irtf
+date: 2026-01-01T06:43:18.052Z
+tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
 ---

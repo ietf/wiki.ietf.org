@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2025-08-12T11:16:42.019Z
+date: 2026-02-12T08:47:11.576Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -15,6 +15,28 @@ This wiki page is designated to collecting information relevant to the non-wg ma
 
 Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
+
+# IETF 125 Side Meeting
+???, March ??, 2026, ??:??-??:?? (local Shenzhen time) (information about room and online participation)
+
+## Agenda
+- 5' Note Well / Agenda Bashing (Slides)
+- 15'+q Minh Hoang Tran (Virginia Tech): Backwards compatible ladders in MTL-mode for SLA-compliant PQ-DNSSEC (Slides)
+- 15'+q Elmer Lastdrager (SIDN Labs): Simulating DNSSEC on a testbed based on real resolver data (Slides)
+- 15'+q Elmer Lastdrager (SIDN Labs) presenting Eline Stehouwer's work: DNSSEC and PQC: practical impact of increased TCP in DNS (Slides)
+- AOB
+
+### Minh Hoang Tran: Backwards compatible ladders in MTL-mode for SLA-compliant PQ-DNSSEC
+
+Verisign's MTL-mode signing is a stateful extenstion to existing PQC-DSAs that reduces their armotized signature size to that equivalent to existing that classical DSAs, thanks in part to its use of backwards-compatible authentication paths. However, MTL-mode has poor fit for existing TLD workloads, particularly with regards to dynamic DNS, rapid zone updates, and the contractual SLAs for said updates. This presentation presents backwards compatible ladders, a possible further optimization to MTL-mode to better fit with gTLD operational and contractual realities. Backwards compatible ladders are unions between previous, recent MTL-mode ladders. The use of backwards compatible ladders for dynamic DNSSEC changes enables an MTL-mode zone operator to add/modify records and associated RRSIGs without the need to also reevaulate existing RRSIGs.
+
+### Elmer Lastdrager: Simulating DNSSEC on a testbed based on real resolver data
+
+This is work in progress of a collaboration between SIDN Labs and SURF. We are running a testbed where we simulate (part of) the DNS ecosystem. We parse resolver data, and generate zone files based on the answers in the network traffic of the resolver. Our testbed is then populated with these zone files, after which we can replay the resolver data to a resolver running in the testbed, thereby simulating the resolver. In this presentation, we will demonstrate the design as well as the challenges (including on privacy / data sharing). Finally, we aim to show some initial results of signing the zone files with PQC algorithms and comparing the load this brings on the resolver to currently deployed algorithms.
+
+### Elmer Lastdrager presenting Eline Stehouwer's work: DNSSEC and PQC: practical impact of increased TCP in DNS
+
+DNSSEC uses public key cryptography that may (eventually) need to be replaced by new algorithms that are resistent to attacks by quantum computers. Current candidate algorithms have one thing in common: the signature size and/or the public key sizes are bigger than currently deployed algorithms, more than fit in a 1232 byte UDP packet. For operators, this means an increase in the number of TCP requests that their nameservers must process. In this study, we looked into the impact of increasing the number of TCP-packets on four open-source nameservers. We replayed an hour of traffic of a .nl-nameserver to simulate realistic traffic and measured how the nameservers performed in terms of CPU usage. In this presentation, we show the results of our study.
 
 # IETF 123 Side Meeting
 ~~Friday, July 25, 2025, 10:30-11:30~~ **rescheduled to Thursday, July 24, 2025, 8:30-9:30** (local Madrid time) ([information about room and online participation](https://trello.com/c/PZTjtzgm))

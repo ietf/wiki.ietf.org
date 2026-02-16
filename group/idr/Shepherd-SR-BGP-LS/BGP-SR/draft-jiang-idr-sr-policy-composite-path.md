@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-jiang-idr-sr-policy-composite-path
 description: Shepherd draft-jiang-idr-sr-policy-composite-path
 published: true
-date: 2025-02-25T23:00:11.227Z
+date: 2026-01-05T02:02:32.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T15:20:31.757Z
@@ -21,14 +21,15 @@ dateCreated: 2025-02-25T15:20:31.757Z
 **implementations:**  
 **bgp-ls draft:** none
 
+## Review -03 
 
-## Review -01 (review pending) 
-**draft:** [draft-jiang-idr-sr-policy-composite-path-01](https://datatracker.ietf.org/doc/html/draft-jiang-idr-sr-policy-composite-path-01) 
-**status:** Revision required (
-**adoption status:** adoption requested 
+**draft:** [draft-jiang-idr-sr-policy-composite-path-03](https://datatracker.ietf.org/doc/html/draft-jiang-idr-sr-policy-composite-path-03) 
+**summary**: Technical Issues 1, 2 are resolved.  Technical issues: 3-11 are not resolved.  Editorial issues 1-2 are not resolved. 
 **email**: 
-
-None of the issue from "Review of the [draft-jiang-idr-sr-policy-composite-path-00](https://datatracker.ietf.org/doc/html/draft-jiang-idr-sr-policy-composite-path-00) were addressed.  The -02 needs to address the issues from Review 0. 
+**Next steps:** 
+1. publish a -04 version that resolves technical issues 3-11 and editorial issues 1-2. 
+2. Get a shepherd's review of -04 
+3. WG adoption call 
 
 
 ## Review -00 

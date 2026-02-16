@@ -2,25 +2,37 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2025-07-13T14:07:43.814Z
+date: 2026-01-06T21:34:30.116Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
 ---
 
-# Shepherd Reviews for draft-ietf-idr-bgp-srmpls-elp (draft-ietf-idr-bgp-srmpls-elp)
+# Shepherd Reviews for draft-ietf-idr-bgp-srmpls-elp (draft-ietf-idr-bgp-sr-mpls-elp)
 
 ## Summary 
 **draft:**  [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp)
-**renamed draft**: draft-ietf-idr-bgp-sr-mpls-elp
+**renamed draft**: [draft-ietf-idr-bgp-sr-mpls-elp]
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  8/12/2024 (7/12/2024 - 7/30/2024) 
-**current version:** 03
-**Early Allocation**: ready for early allocation call 
+**current version:** 04
+**Early Allocation**: Ok by Ketan, waiting for IANA allocation 
 **implementations:** H3C and ZTE (2 implementations) 
-**WG LC:** Needs implementation report + -04 with editorial change below  
-**bgp-ls draft:** none
+**WG LC:** Needs implementation report and -05 with allocation insert  
+**bgp-ls draft:** none 
+
+## Review of -00 (renamed)
+**status**: Renamed per IDR Chair's request. 
+### Editorial: 
+Issue-1: Please change the reference to draft-ietf-idr-sr-policy-safi to 
+RFC9830. 
+
+
+## Review of -04 
+**draft:** [draft-ietf-idr-bgp-srmpls-elp-04](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp-04)
+**Status**: resolves editorial Nits from -03  
+Next steps:  Early Allocation call (per AD request), if successful allocation. 
 
 
 ## Review of -03 

@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 124
 description: 
 published: true
-date: 2025-10-31T18:29:47.214Z
+date: 2025-11-02T18:57:01.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:41:51.636Z
@@ -44,11 +44,12 @@ Agenda:
 1. EImpact program update / draft-various-eimpact-arch-considerations (Suresh+Mark+Jari) (10 min)
 1. Status update on ISE call for nominations (Interview committee) (10 min)
 1. ISOC BoT nominations call (10 min)
-1. Follow-up from ICANN board discussion (Mirja) (10 min)
+1. Follow-up from ICANN board discussion (Mirja/Dhruv) (10 min) ([slide](https://docs.google.com/presentation/d/134m8Bk4XwZmwGi9xlifwwmJfVy-g2PD1iwbcQDnCWUE/edit?usp=sharing))
 1. Approval of draft-iab-nemops-workshop-report (5 min)
 1. Approval of draft-iab-ai-control-report (5 min)
-1. IAB meeting time rotation ([details](https://github.com/intarchboard/responsibilities/issues/65)) (Dhruv) (20 min)
-1. What topics require a formal vote (Cullen) (15 min)
+1. Update on liaison activities at IETF 124 (Mirja) (<5 min)
+1. IAB meeting time rotation ([details](https://github.com/intarchboard/responsibilities/issues/65#issuecomment-3404555077)) (Dhruv) (20 min)
+1. What topics require a formal vote (Cullen) (15 min) ([Slide](https://docs.google.com/presentation/d/1wRnpqpBtGElYw5cDQ7zd3fZQXCpM-oWQarpvc2UybHY/edit?slide=id.p#slide=id.p))
 1. Appeal discussions (Executive session) (35 min)
 1. ICANN GWG handling of comments, including [IAB](https://itp.cdn.icann.org/public-comment/proceeding/Functional%20Model%20for%20Root%20Server%20System%20Governance-11-08-2025/submissions/Internet%20Architecture%20Board/IAB%20Comment%20on%20RSS-GWG%20Liaison%20Report-22-09-2025.pdf) comment (if time)
 
@@ -84,7 +85,9 @@ Agenda:
 > - Age workshop report status update (Mark) (20 min)
 > - IP geo workshop update (Jason) (10 min)
 
-### 09:30-10:00 IP Geo WorkshOP PC Meeting (Room: Crescent) 
+### 09:30-10:00 IP Geo WorkshoP PC Meeting (Room: Crescent) 
+
+### 11:00-11:30: New Work Help Desk (Room: Square Dorchester)
 
 ## Wednesday, 2025-11-05
 
@@ -107,7 +110,7 @@ Agenda:
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf124/?session=35009
 > 
-
+### 16:30-17:00: New Work Help Desk (Room: Square Dorchester)
 
 ### Non-required events:
 

@@ -2,7 +2,7 @@
 title: Shepherd reviews draft-ietf-idr-sr-policy-te-policy-attr
 description: Shepherd draft-ietf-idr-sr-policy-te-policy-attr
 published: true
-date: 2025-07-13T22:16:21.618Z
+date: 2025-11-03T03:21:33.527Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T02:26:19.820Z
@@ -16,10 +16,27 @@ dateCreated: 2025-02-25T02:26:19.820Z
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  8/12/2024 (adoption call: 7/12/2024 - 7/30/2024) 
-**current version:** 02
+**current version:** 03
 **Early Allocation**: -03 required prior to Early Allocation request 
 **implementations:** H3C and ZTE (2 implementations) 
-**bgp-ls draft:** would need to augment deraft-ietf-idr-bgp-ls-sr-policy 
+**bgp-ls draft:** (TBD) needs to augment draft-ietf-idr-bgp-ls-sr-policy 
+
+## Review -03 
+**draft**: [draft-ietf-idr-sr-te-policy-attr-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-te-policy-attr-03.txt)
+Summary:  Resolved -02 technical issue.  New Technical issue in -03
+
+### Technical issue
+#### Technical issue 03-01
+Current text: 
+> This document requests codepoint allocations for new sub-TLVs of the "Segment List sub-TLV" under the "BGP Tunnel Encapsulation" .
+
+The correct name for registry is: SR Policy Segment List Sub-TLVs
+
+Next steps: 
+1. Release an -04 with the correct name for the registry. 
+2. Shepherd Review of -03  
+3. week Early Allocation Call
+ 
 
 ## Review -02 
 Reviewer: Susan Hares

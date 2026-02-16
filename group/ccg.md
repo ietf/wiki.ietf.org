@@ -2,7 +2,7 @@
 title: CCG - Community Coordination Group 
 description: 
 published: true
-date: 2025-08-04T19:39:27.412Z
+date: 2026-01-01T02:27:19.693Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:49:40.902Z

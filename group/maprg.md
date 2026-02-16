@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-08-15T20:54:39.671Z
+date: 2025-11-11T19:14:13.734Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -17,6 +17,15 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### November 2025 (Montreal) [YouTube](https://youtu.be/G6JdxAkfYKE?t=9s) [intro slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-intro-mirjadave)
+- A Longitudinal Study of the Prevalence of WiFi Bottlenecks in Home Access Networks [YouTube](https://youtu.be/G6JdxAkfYKE?t=5m30s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-a-longitudinal-study-of-the-prevalence-of-wifi-bottlenecks-in-home-access-networks), Ranya Sharma, November 2025
+- VPN or Vpwn? How Afraid Should You Be of VPN Traffic Identification? [YouTube](https://youtu.be/G6JdxAkfYKE?t=19m36s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-vpn-or-vpwn-how-afraid-should-you-be-of-vpn-traffic-identification), Tanmay Rajore, November 2025
+- The Threat Landscape of IP Leasing in the RPKI Era [YouTube](https://youtu.be/G6JdxAkfYKE?t=35m40s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-the-threat-landscape-of-ip-leasing-in-the-rpki-era), Weitong Li, November 2025
+- Lazy Eye Inspection: Capturing the State of Happy Eyeballs Implementations [YouTube](https://youtu.be/G6JdxAkfYKE?t=43m10s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-lazy-eye-inspection-capturing-the-state-of-happy-eyeballs-implementations), Johannes Zirngibl, November 2025
+- Observations and Measurements of HTTP/2 During Large-Scale Web Crawls [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h42s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-observations-and-measurements-of-http2-during-large-scale-web-crawls), Thom Vaughan, November 2025
+- Characteristics of TCP connections at Internet scale [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h10m22s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-characteristics-of-tcp-connections-at-internet-scale), Suleman Ahmad, November 2025
+- Server Support for PQTLS [YouTube](https://youtu.be/G6JdxAkfYKE?t=1h21m27s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-server-support-for-pqtls), Tommy Pauly, November 2025
 
 ### July 2025 (Madrid) Session 2 [YouTube](https://youtu.be/zBkzQqpp2-0?t=53s) [intro slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-intro-mirjadave)
 - Breaking Through the Clouds: Performance Insights into Starlink‘s Latency and Packet Loss [YouTube](https://youtu.be/zBkzQqpp2-0?t=4m28s) [slides](https://datatracker.ietf.org/meeting/123/materials/slides-123-maprg-sessb-breaking-through-the-clouds-performance-insights-into-starlinks-latency-and-packet-loss), Robert Richter, July 2025

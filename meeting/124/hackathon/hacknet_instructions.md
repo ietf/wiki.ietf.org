@@ -1,8 +1,8 @@
 ---
-title: IETF 124 HackNet Instructions
+title: HackNet Instructions
 description: 
 published: true
-date: 2025-10-20T15:01:09.142Z
+date: 2026-01-06T15:15:33.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-20T15:01:09.142Z

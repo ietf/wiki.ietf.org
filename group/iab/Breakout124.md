@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 124
 description: 
 published: true
-date: 2025-10-27T17:21:45.751Z
+date: 2025-11-07T18:26:16.726Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T20:27:07.177Z
@@ -19,11 +19,14 @@ For food & beverage service requests, please include:
 * number of people
 * any dietary restrictions
 
+## Sunday
+* 9:00-9:45: M3AAWG liaison manager
 
-## Monday 
+
+## Monday
 * 1130-1200: Liaison Coordinator Office Hours
 * 1300-1430: ARTART Lunch
-
+* 1600-1700: Suresh
 
 
 ## Tuesday 
@@ -31,17 +34,22 @@ For food & beverage service requests, please include:
 * 0800-0920: IAB Business Meeting
 * 0930-1000: IP Geo Workshop PC Meeting
 * 1300-1430: SECDir Lunch
+* 14:30-15:00: WBA
 
 
 ## Wednesday 
 * 0800-920: [Future of the Open Web](https://docs.google.com/document/d/1WaXDfwPP6olY-UVQxDZKNkUyqvmHt-u4kREJW4ys6ms/edit?usp=sharing) (Mark)
-
+* 13:00-14:30: W3C coordination
+* 1530-1600: Suresh
 
 ## Thursday 
 
 * 0800-0920: IAB Business Meeting
+* 1115-1145: Suresh
 * 1300-1430: EDM program meeting
 
 ## Friday 
 
-* Not available after 1430
+* 0900-1100: Cullen
+* 1100-1130: Suresh
+* Not available after 1200

@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-10-31T20:33:38.596Z
+date: 2025-11-25T14:10:00.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -180,7 +180,7 @@ Framework and Data Model for OTN Network Slicing
 Prio 1
 **- draft-rokui-ccamp-actn-wdm-pluggable-modelling-01**
 Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Optical Network
-(IPR polling ongoing)
+(ongoing)
 
 Prio 2
 **- draft-zheng-ccamp-client-pm-yang-07**
@@ -228,6 +228,8 @@ None
 
 #### 2025-10 draft-rokui-ccamp-actn-wdm-pluggable-modelling-03
 		
+WDM pluggables modelling		
+		
 IPR poll (Daniele)		https://mailarchive.ietf.org/arch/msg/ccamp/oxAObsMNDG7DzbUXQoMrKwxkgo4/
 		
 AUTHORS		
@@ -247,7 +249,7 @@ Prasenjit Manna	prmanna@cisco.com	https://mailarchive.ietf.org/arch/msg/ccamp/lX
 Gabriele Galimberti	ggalimbe56@gmail.com	https://mailarchive.ietf.org/arch/msg/ccamp/r8rkEAJWM_BA38dqn71s1gXUeZ8/
 Harish Venkatraman	harish.venkatraman@nokia.com	https://mailarchive.ietf.org/arch/msg/ccamp/5kBrWsg4BZEzWtiI8JJNa8Gxvno/
 Gyan Mishra	gyan.s.mishra@verizon.com	https://mailarchive.ietf.org/arch/msg/ccamp/Gp7M8_BqlV6Ieu6hOGhD6IKEaS8/
-Stefan Melin	stefan.melin@teliacompany.com	
+Stefan Melin	stefan.melin@teliacompany.com	https://mailarchive.ietf.org/arch/msg/ccamp/N_n4234nB65vU5JgNtPiCkaNWFg/
 Majid Hossein Poor	majid.hosseinpoor@team.telstra.com	https://mailarchive.ietf.org/arch/msg/ccamp/zjfFT-8nQ6Q5_bc1nHB5OE12BlA/
 Dacian Demeter	dacian.demeter@telus.com	https://mailarchive.ietf.org/arch/msg/ccamp/AB455jRLQ8AougInIU6dBG8yl6A/
 

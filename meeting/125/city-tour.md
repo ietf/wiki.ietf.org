@@ -1,0 +1,67 @@
+---
+title: IETF 125 City Tour Sign-up
+description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
+published: true
+date: 2026-02-09T17:37:17.134Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-20T19:33:34.919Z
+---
+
+# Hong Kong City Tour Sign-up
+Thank you to our local supporter, Hong Kong Internet Registration Corporation (HKIRC), for organizing a complimentary city tour of Hong Kong on Saturday, 21 March 2026. Please add your name and information to the appropriate time below as space is limited to 100 participants. 
+
+The tour will go to three to five tourist attractions and provide lunch. There is also the possiblity for a tram party in the evening. Further details regarding this event will be provided to those who sign up below. 
+
+## City Tour Sign-up
+
+| NAME | EMAIL | REMARK |
+|:------:|:------:|:------:|
+|  Stephanie McCammon    |  smccammon@amsl.com      | | 
+| Dr Gnanajeyaraman Rajaram  |  r.gnanajeyaraman@gmail.com    |  |  
+| Éric Vyncke | evyncke@cisco.com   | Need to be back at HKG at 21:00 |
+| Xipeng Xiao     | xipengxiao@gmail.com       | |  
+| Bruno Decraene     | bruno.decraene@orange.com       | Any possibility to leave the luggage & laptop somewhere (for a flight in the night)?  |  
+| Stephane Litkowski | slitkows@cisco.com | As Bruno, may also need to leave luggage/laptop if possible |
+| Greg Wood     | ghwood@staff.ietf.org       | |  
+| Yuqi Qiu     | qiuyuqi@mail.nankai.edu.cn       | |  
+| Mahesh Jethanandani | mjethanandani@gmail.com | 1+1 |
+| Rakesh Gandhi | rgandhi.ietf@gmail.com | Is there pickup from hotel in Shenzhen? |
+| Bron Gondwana | brong@fastmailteam.com | |
+| Rudi Matz | rudi@staff.ietf.org | |
+| Kevin Wang | kevin.wang@hpe.com | Need to catch a flight from HKG at 19:40; have a carry on luggage |
+| Jeffrey Zhang | zhaohui.zhang@hpe.com | |
+| Valery Smyslov | valery@smyslov.net | |
+| Mike Jones | michael_b_jones@hotmail.com | |
+| Aravind Babu Mahendrababu | aramahen@cisco.com | |
+| Kesara Rathnayake | kesara@staff.ietf.org | |
+| Jéferson Campos Nobre | jcnobre@inf.ufrgs.br | |
+| Julien Maisonneuve | julien.maisonneuve@nokia.com | |
+| Ondřej Surý | ondrej@sury.org | |
+| Michael Takeuchi | michael.takeuchi@binus.ac.id | |
+| Dmitry Kuznetsov | mail@dmitry.fyi | |
+| Christian Giese | christian@rtbrick.com | |
+| Benno Overeinder | benno@nlnetlabs.nl | |
+| Willem Toorop | willem@nlnetlabs.nl | |
+| Karen O'Donoghue | kodonog@pobox.com | |
+| Mališa Vučinić | malisa.vucinic@inria.fr | 2 participants |
+| Yingzhen Qu | yingzhen.ietf@gmail.com | |
+| Stuart Cheshire | cheshire@apple.com | |
+| Maggie Cheshire | m.a.glanowska@gmail.com | |
+| Michelle Cotton | mcotton@amsl.com | |
+| K Tirumaleswar Reddy | kondtir@gmail.com | Need to be back to hotel in Shenzhen by 7:00 PM to catch flight | 
+| Laura Nugent | lnugent@amsl.com | |
+| Ryan Cross | rcross@amsl.com | |
+| Zaheduzzaman Sarker | zahed.sarker.ietf@gmail.com| |
+| Henk Birkholz | henk.birkholz@ietf.contact | |
+| Ronaldo A. Ferreira | ronaldo.ferreira@ufms.br | | 
+| Pedro Marcos | pbmarcos@furg.br | | 
+| Vishnu Pavan Kumar Beeram | vishnupavan.ietf@gmail.com | | 
+| Johanes Sebastian Siddhadeza | johanes.siddhadeza@gmail.com | 
+| Abdul Wasey | awasey8905@gmail.com | | 
+| Sheikh Arzan Ashraf | arzanashraf03@gmail.com | |
+| Jean Francois Queralt | jfqueralt@theiofoundation.org | |
+| Irena Vanessa Gunawan | irena.gunawan@theiofoundation.org | |
+
+
+

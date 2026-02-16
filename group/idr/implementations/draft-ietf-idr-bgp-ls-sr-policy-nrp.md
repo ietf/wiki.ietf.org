@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-bgp-ls-sr-policy-nrp
 description: Implementations draft-ietf-idr-bgp-ls-sr-policy-nrp
 published: true
-date: 2025-02-22T13:19:14.046Z
+date: 2026-01-16T12:01:02.430Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:18:18.948Z
@@ -21,7 +21,7 @@ Implementations:
 
 | Core Functionality | section |	Cisco IOS-XR |	Huawei VRP	| Comments | 
 |---|---|---|---|---|---|---|---|
-| NRP TLV  | 2 | TBD |	TBD |    | 
-| NRP Scaling | 3 | TBD | TBD |   |  
-| Error handling |	TBD  | TBD | TBD |   | 			
+| NRP TLV recieved and transmit| 2 and 3 | TBD |	Yes |    | 
+| SRPM use to set data plan NRP Selector| 3 | TBD | Yes |   |  
+| Error handling |	4  | TBD | Yes |   | 			
 

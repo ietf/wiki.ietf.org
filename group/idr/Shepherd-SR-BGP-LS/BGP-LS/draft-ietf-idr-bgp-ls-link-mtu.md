@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-link-mtu
 description: Review draft-ietf-idr-bgp-ls-link-mtu
 published: true
-date: 2025-02-22T00:24:44.815Z
+date: 2026-01-06T01:31:13.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T00:24:44.815Z
@@ -11,6 +11,21 @@ dateCreated: 2025-02-22T00:24:44.815Z
 # Shepherd Reviews for draft-ietf-idr-bgp-ls-link-mtu
 
 draft: https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/
+
+## -10 version 
+**Draft:**  [10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-link-mtu-08)
+Status: WG draft
+Type: Proposed Standard 
+Implementations: Unknown, need 2 for WG LC  
+draft status: Awaiting Early Allocation  + implementations 
+Early Allocation: Requires -11 [RFC9552](https://datatracker.ietf.org/doc/rfc9552/)
+email link:[shepherd report on -10](https://mailarchive.ietf.org/arch/msg/idr/MFu9_ZtD_q1Ff5xShsFRlPkBgxQ/)
+
+> Text in section 5 states: 
+> This document requests assigning a new code-point from the BGP-LS Link Descriptor and Attribute TLVs registry as specified in section 4.
+{.is-info}
+
+This document requests assigning a new code-point from the BGP-LS Link Descriptor and Attribute TLVs registry as specified in section 4. Please update this sub-registry name to RFC9552 naming convention. 
 
 ## -08
 **Draft:**  [08](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-link-mtu-08)
@@ -22,6 +37,13 @@ email link: https://mailarchive.ietf.org/arch/msg/idr/QMV7MShOKt-GaajNdaTRaJzFLH
 
 ### Review: 
 Status: All technical issues from -07 resolved 
+
+## -10 version 
+
+
+This document requests assigning a new code-point from the BGP-LS Link Descriptor and Attribute TLVs registry as specified in section 4.
+
+
 
 
 ## -07 version 
