@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-12T22:10:43.107Z
+date: 2026-02-16T06:09:41.453Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -50,7 +50,7 @@ For approval
 
 ### 3. Wiki updates (Dhruv)
 
- - Workshop (Diff: https://github.com/dhruvdhody/wiki.ietf.org/commit/781322724fe58f2fba78f058fca79e4fa487066f)
+ - Workshop (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/IAB_Workshop_Guidelines.md and Diff: https://github.com/ietf/wiki.ietf.org/compare/main...dhruvdhody:wiki.ietf.org:main)
  - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
 
 
