@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-02-10T04:27:44.765Z
+date: 2026-02-16T05:17:42.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,7 +52,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|Feb 2026|[APRICOT 2026](https://2026.apricot.net/programme/programme#/day/6/147/)|Operators|Participants|Paresh, Warren|[Slide](https://docs.google.com/presentation/d/1Nx8K3Cp9lvJHJgO08aI-_W0z2lP0I6Bj/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)<br>[Video](https://www.youtube.com/live/OZpOWOmp3Qk?si=Jy_ANoxrhyHN2zb7&t=1810)|
+|Feb 2026|[APRICOT 2026](https://2026.apricot.net/programme/programme#/day/6/147/)|Operators|Participants|Paresh, Warren|[Slide](https://conference.apnic.net/61/assets/presentation-files/2ea34790-9ba4-436d-8f0a-8fa643a6c731.pdf)<br>[Video](https://www.youtube.com/live/OZpOWOmp3Qk?si=Jy_ANoxrhyHN2zb7&t=1810)|
 |Jan 2026|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
 |Jan 2026|[Net Mission 2026](https://netmission.asia/2025/08/22/netmission-academy-2026-applications-now-open/)|Students|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1WIvoYwGX-z_jmgcfvkhwdXxAjNy4xhE-k83ca83hhAY/edit?usp=sharing)|
 |Dec 2025|Panel for the Future of Science and Technology – Technical Workshop on the Functioning of the Internet|Legislators|Supporter|Lars|[Video](https://multimedia.europarl.europa.eu/en/webstreaming/panel-for-future-of-science-and-technology-technical-workshop-on-functioning-of-internet_20251204-1000-SPECIAL-STOA)|
