@@ -485,6 +485,19 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/125/hackathon/thread-projects).
 
+### Minimal-Exposure AS-Path Verification against BGP Post-ROV Attacks
+- **Champions**
+Jiangou Zhan (zjo23@mails.tsinghua.edu.cn)
+Ziwei Li (lizw@mail.zgclab.edu.cn)
+- **Project Info**
+Inter-domain routing underpins global Internet connectivity, yet its control plane still relies on largely unauthenticated AS paths. The deployment of the Resource Public Key Infrastructure (RPKI) has substantially reduced prefix hijacking, but Post-ROV attacks-notably route leaks and path manipulation-remain feasible. Emerging standards such as ASPA mitigate these threats, but require global publication of provider authorizations, creating a tension between security and commercial confidentiality. This mandatory transparency exposes sensitive interconnection policies and can hinder adoption.
+This project proposes Minimal-Exposure AS-Path Verification, MEASPV. Unlike approaches that require global visibility of local adjacencies, MEASPV decouples path validation from topology disclosure via a validator-assisted design that confines relationship attestations to authorized verifiers. As a result, anomalous paths can be detected and filtered without broadcasting peering strategies. Evaluation results show that MEASPV achieves security comparable to SOTA against Post-ROV threats while adhering to minimal exposure, providing a more incentive-compatible path to deployment.
+- **Hackathon Plan**
+    1. Design and implement MEASPV, which selects a small set of high-tier ASes as validators to perform proxy verification of AS-path claims.
+    2. MEASPV preserves BGP compatibility, supports incremental deployment, and limits information exposure to the theoretical minimum under our threat and observability model, while defending against path manipulation and route leaks.
+    3. Demonstrate that MEASPV effectively mitigates path manipulation and route leaks under partial deployment.
+- **Related documents**
+To be released
 
 ### Next-Generation Inter-Domain Routing Architecture and Protocols
 
