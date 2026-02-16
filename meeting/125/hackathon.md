@@ -486,6 +486,22 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/125/hackathon/thread-projects).
 
 
+### Next-Generation Inter-Domain Routing Architecture and Protocols
+
+- **Champions**
+Shenglin Jiang (jiangshl@zgclab.edu.cn)
+Yangfei Guo (guoyangf19@tsinghua.org.cn)
+
+- **Project Info**
+The Next-Generation Inter-Domain Routing Architecture and Protocols(IDRNG) fosters open technical discussions, knowledge sharing, and collaboration among researchers, operators, and protocol designers focused on the advancement of inter-domain routing architectures and protocols in the AI era.
+
+- **Hackathon Plan**
+1. Design and implement a next generation Inter-Domain Routing lab.
+2. Learn and align with IETF/IRTF automation interfaces for routing control and telemetry (NETCONF/RESTCONF/YANG).
+3. Develop a large-scale IDR simulation demo based on AS-relationship (as-rel) data, and conduct red/blue experiments (e.g., route hijack/leak injection and detection/mitigation) with measurable outcomes.
+
+- **Repository** -
+https://github.com/IDRNG
 ### Agent Protocol Security
 - **Champions**
 Song Yurong (songyurong1@huawei.com)
