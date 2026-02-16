@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-12T03:19:01.704Z
+date: 2026-02-14T13:00:31.345Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -194,6 +194,34 @@ https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
 Current State of the Art for High Performance Wide Area Networks
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Daniel Van Geest (Daniel.vangeest@cryptonext-security.com)
+Mike Ounsworth (mike.ounsworth@crypticforest.ca
+Jean-Pierre Fiset (jp@crypto4a.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc9881
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/11/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/rfc9810/
+https://www.ietf.org/id/draft-ietf-lamps-certdiscovery/
+https://datatracker.ietf.org/doc/rfc9909/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-composite-sigs/
+
+- **Project Info**
+Test interoperability of Post Quantum algorithms in x.509 structures (Certificates, keys, CMS and other drafts).   This project started in November 2022 and continues to evolve.  We currently have github automated tooling that automatically tests submitted artifacts allowing implementations to get immediate feedback on their compatibility. This allows us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 125, we plan to add more automation and others are invited to test interoperability.  Also, the composite signatures recently had IANA OIDs assigned, so a number of people are interested in testing composite signatures interoperability.   
+
 
 ### YANG2API
 - **Champions**
@@ -269,7 +297,6 @@ SRv6 END.IL is a variant of the SRv6 End behavior, an SRv6 END.IL SID steers pac
 SRv6 for Inter-Layer Network Programming
 https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-inter-layer-programming/
 
----
 
 ### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
 - **Champion(s)**
@@ -318,6 +345,31 @@ https://github.com/NetGauze/NetGauze/releases/tag/v0.9.1
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v4.2.2
 https://github.com/CESNET/libyang/compare/master...devel
+
+
+### YANG Message Keys and YANG-Push Message Broker Topic Naming PoC
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Wanting Du (wanting.du @ swisscom.com)
+Maxence Younsi (maxence.younsi @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-yang-message-broker-message-key
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-message-broker-bmp-telemetry-msg
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+
+- **Project Info**
+https://www.network-analytics.org/yp/, proof of concept code on generating
+
+- YANG Message Keys
+- YANG-Push Message Broker Topic Naming
+
+from YANG-Push example subscriptions. Document what works and what won't and how it could be addressed.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/125/Hackathon
 
 ### DKIM2
 - **Champions**
@@ -446,6 +498,36 @@ This project proposes Minimal-Exposure AS-Path Verification, MEASPV. Unlike appr
     3. Demonstrate that MEASPV effectively mitigates path manipulation and route leaks under partial deployment.
 - **Related documents**
 To be released
+
+### Next-Generation Inter-Domain Routing Architecture and Protocols
+
+- **Champions**
+Shenglin Jiang (jiangshl@zgclab.edu.cn)
+Yangfei Guo (guoyangf19@tsinghua.org.cn)
+
+- **Project Info**
+The Next-Generation Inter-Domain Routing Architecture and Protocols(IDRNG) fosters open technical discussions, knowledge sharing, and collaboration among researchers, operators, and protocol designers focused on the advancement of inter-domain routing architectures and protocols in the AI era.
+
+- **Hackathon Plan**
+1. Design and implement a next generation Inter-Domain Routing lab.
+2. Learn and align with IETF/IRTF automation interfaces for routing control and telemetry (NETCONF/RESTCONF/YANG).
+3. Develop a large-scale IDR simulation demo based on AS-relationship (as-rel) data, and conduct red/blue experiments (e.g., route hijack/leak injection and detection/mitigation) with measurable outcomes.
+
+- **Repository** -
+https://github.com/IDRNG
+### Agent Protocol Security
+- **Champions**
+Song Yurong (songyurong1@huawei.com)
+Foo Chuan Ann (foo.chuan.ann1@h-partners.com)
+- **Project Info**
+In recent years, AI agents have witnessed remarkable progress and are increasingly recognized as a pivotal force in various fields. Regarding agent protocols, they play a crucial role in enabling seamless communication between agents, external tools, and data sources. However, with the development of AI agents and their protocols, security has become a pressing concern.
+We continue to work on to implement and test security aspects of AI agent protocol. This hackathon, we test authorisation procedures on Model Context Protocol.
+- **Agent Protocol Background**
+https://modelcontextprotocol.io/
+https://www.a2aprotocol.org/
+- **Related Document**
+https://www.ietf.org/archive/id/draft-song-oauth-ai-agent-authorization-00.html
+
 ---
 
 

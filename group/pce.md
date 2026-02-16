@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-02-10T17:42:15.767Z
+date: 2026-02-12T18:53:54.052Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -86,7 +86,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Manag Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|Y| In WG LC; Ends 2026-02-24  | IPR-0/7 | Dhruv | Adrian(?) |
+|1| [draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) |Y|Y| In WG LC; Ends 2026-02-24  | IPR-7/7 (+Andrew Contributor) | Dhruv | Adrian(?) |
 |2| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-13 posted on 2025-10-19 | Ready for WGLC, did a review and discussing with Andrew | Dhruv | Andrew |
 |3| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | - |Julien | Julien |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |

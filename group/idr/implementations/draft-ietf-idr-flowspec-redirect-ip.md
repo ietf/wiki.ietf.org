@@ -2,7 +2,7 @@
 title: Implementation report for draft-ietf-idr-flowspec-redirect-ip
 description: 
 published: true
-date: 2026-02-07T02:54:29.425Z
+date: 2026-02-13T12:38:56.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T05:50:50.566Z
@@ -66,19 +66,33 @@ Contact Information:
 
 Last Updated: February 2026
 
+### Nokia
+Organization: Nokia
+Software Name: SROS 16.0 and later
+Description: BGP Flow-Spec Redirect to IP Support
+Maturity: Widely Used
+Version Compatibility: draft-ietf-idr-flowspec-redirect-ip-02
+Licensing: Proprietary
+Implementation Experience:
+Contact Information:
+- Adam Simpson - adam.1.simpson@nokia.com
+
+Last Updated: Feb 2026
+
+
 
 
 ## Coverage 
          
-Section| Description | Cisco | HPE/Juniper | Huawei | Arrcus |
-|----|----|----|----|----|----|
-| 2 | IPv4 Extended Community | Not Implemented | Implemented | Implemented | Implemented |
-| 2 | IPv6 Extended Community | Not Implemented | Not Implemented | Implemented | Not Implemented |
-| 2 | Redirect (C == 0) | Not Implemented | Implemented | Implemented | Implemented |
-| 2 | Copy (C == 1) | Not Implemented | Not Implemented | Not Implemented | Not Implemented |
-| 2.1 | Validation | Not Implemented | Implemented | Implemented | Not Implemented |
-| 2.2 | Longest prefix match | TBD | Implemented | Implemented | Implemented |
-| 2.2 | Best path ECMP | TBD | Implemented | Implemented | Implemented |
-| 2.2 | Multiple communities ECMP load sharing | Not Implemented | Implemented | Not Implemented | Not Implemented |
-| 2.2 | Redirect-to-IP in Redirect-to-VRF | Not Implemented | Implemented | Not Implemented | Not Implemented |
+Section| Description | Cisco | HPE/Juniper | Huawei | Arrcus | Nokia | 
+|----|----|----|----|----|----|----|
+| 2 | IPv4 Extended Community | Not Implemented | Implemented | Implemented | Implemented | Implemented | 
+| 2 | IPv6 Extended Community | Not Implemented | Not Implemented | Implemented | Not Implemented | Implemented | 
+| 2 | Redirect (C == 0) | Not Implemented | Implemented | Implemented | Implemented | Implemented | 
+| 2 | Copy (C == 1) | Not Implemented | Not Implemented | Not Implemented | Not Implemented | Not Implemented | 
+| 2.1 | Validation | Not Implemented | Implemented | Implemented | Not Implemented | Implemented | 
+| 2.2 | Longest prefix match | TBD | Implemented | Implemented | Implemented | Implemented | 
+| 2.2 | Best path ECMP | TBD | Implemented | Implemented | Implemented | Implemented | 
+| 2.2 | Multiple communities ECMP load sharing | Not Implemented | Implemented | Not Implemented | Not Implemented | Not Implemented | 
+| 2.2 | Redirect-to-IP in Redirect-to-VRF | Not Implemented | Implemented | Not Implemented | Not Implemented | Not Implemented | 
 {dense}
