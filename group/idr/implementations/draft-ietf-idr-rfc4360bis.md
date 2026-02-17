@@ -2,7 +2,7 @@
 title: RFC4360bis Implementation Report 
 description: Report on RFC4360bis implementations in BGP 
 published: true
-date: 2026-02-14T08:15:12.190Z
+date: 2026-02-17T17:37:14.178Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-04T13:47:50.332Z
@@ -21,7 +21,7 @@ dateCreated: 2026-01-04T13:47:50.332Z
 
 Implementations: 
 
-| Core Functionality | section |	Cisco IOS-XR |	Juniper	| Arrrcus |  FRRouting | Notes | 
+| Core Functionality | section |	Cisco IOS-XR |	Juniper	| Arrcus |  FRRouting | Notes | 
 |---|---|---|---|---|---|---|---|
 | Extended Community  | 2 | TBD |	Yes |    | Yes |  | 
 | Extended Community I bit | 2 | TBD | Yes\[1\] |  | No | unknown who implemented | 
