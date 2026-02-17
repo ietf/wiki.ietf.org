@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-16T11:14:21.682Z
+date: 2026-02-17T21:51:04.796Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -78,7 +78,7 @@ For approval
 
   GitHub: https://github.com/intarchboard/responsibilities/issues/72
 
-  Goal: Update on nominations status, organize interviews
+  Goal: Next steps; feedback period closed 2026-02-17
 
 
 
