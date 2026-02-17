@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-01-30T12:40:02.532Z
+date: 2026-02-17T16:03:45.258Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -39,7 +39,6 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Date | Draft | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
-| 2026-01-20 | [draft-ali-mpls-algo-mt-oam](https://datatracker.ietf.org/doc/draft-ali-mpls-algo-mt-oam/) | Post WG I-D  | Tarek | Chair to approve |
 
 ## MPLS WG Documents
 
