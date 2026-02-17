@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-02-17T16:03:45.258Z
+date: 2026-02-17T18:03:04.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,7 +31,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | 2026-01-22 |  | Tony |
+| [draft-song-mpls-on-path-telemetry-flag](https://datatracker.ietf.org/doc/draft-song-mpls-on-path-telemetry-flag/) | 2026-01-22 | Extending poll to IPPM and BMWG | Tony |
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -59,13 +59,12 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2025-01-07 | [draft-ietf-mpls-mldp-yang](https://datatracker.ietf.org/doc/draft-ietf-mpls-mldp-yang/) | Ongoing | New version (-15) posted. All issues cleared |  | Tarek |
 
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
 |---|---|---|---|---|---|
-| [draft-ietf-mpls-mna-ps-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-ps-hdr/) | 2026-01-30 | 2026-02-13 12:00 GMT | Yes | Adrian | |
+| [draft-ietf-mpls-mna-ps-hdr](https://datatracker.ietf.org/doc/draft-ietf-mpls-mna-ps-hdr/) | 2026-01-30 | 2026-03-04 | Yes | Adrian | Extended because poor response |
 
 ## Working Group Last Call Completed Pending Action
 
