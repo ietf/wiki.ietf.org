@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-02-10T19:29:29.453Z
+date: 2026-02-18T16:23:12.957Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -20,6 +20,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 - Review and assignment of IAB roles (Cindy) - Sunday
 - IAB Meeting Times (Cindy) - Sunday
 - CFRG Review - Thursday
+- Planning towards the ITU Plenipotentiary (Olaf to present): the presentation would cover technical and policy issues, meetings for the 6 regional telecommunication organizations, etc.  It was presented to the IAB-ISOC group and should be of interest to the whole IAB. Time: 20-30min (added by Alvaro).
 
 
 ## Saturday, 2026-03-14
