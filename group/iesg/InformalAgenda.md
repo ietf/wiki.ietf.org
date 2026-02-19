@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-19T16:05:48.953Z
+date: 2026-02-19T17:36:45.454Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,6 +45,8 @@ Note that this page is public.
 ### Document Discussions
 
 ### Management Issues
+
+- Executive Session: ISOC BOT Confirmation
 
 ### WG News 
 
