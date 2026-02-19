@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-14T13:00:31.345Z
+date: 2026-02-19T21:10:56.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -12,7 +12,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 14 - 15 March 2026 (Saturday - Sunday)
 * :hotel: **Where**: Futian Shangri-La
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: Shangri-la Ballroom 1/2
 {.grid-list}
 
 **Sign up for the Hackathon**
@@ -59,13 +59,13 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 16 March, Time: 19:00 - 20:00, Room: **TBD**
+  * Monday, 16 March, Time: 19:00 - 20:00, Room: Level 2 Foyer
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 16 March
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 16 - 20 March, Room: **TBD** 
+  * Monday - Friday, 16 - 20 March, Room: Chairman  
 
 ## Meetecho
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
