@@ -2,7 +2,7 @@
 title: IETF 125 Arrival Coordination
 description: 
 published: true
-date: 2026-02-10T04:55:33.728Z
+date: 2026-02-19T22:34:14.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:38:44.306Z
@@ -23,7 +23,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|| | |  |   | |  | |
+|19:20| UA869|Toerless Eckert|tte@cs.fau.de|Hongkong  | |Shangri-La|Looking to share direct taxi HKG to Shangi-La |
 |||  |  |   | |  | |
 ||||| |  | |
 |      |       |      |       |         |          |             |       |
