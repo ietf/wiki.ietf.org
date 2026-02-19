@@ -2,7 +2,7 @@
 title: IETF 125 Shuttle Bus Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing complimentary shuttles from the Hong Kong airport to the Futian Shangri-la hotel in Shenzhen. Please sign up for the slot that works best for your arrival schedule.
 published: true
-date: 2026-02-15T22:37:50.047Z
+date: 2026-02-19T02:49:22.232Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T17:36:50.158Z
@@ -27,6 +27,7 @@ Further details regarding meeting points will be provided to those who sign up b
 | Ondřej Surý | ondrej@sury.org | Arrival time 9:15 |
 | Karen O'Donoghue | kodonog@pobox.com | Arrival 7:00am | 
 | Corey Bonnell| corey.bonnell@digicert.com | Arrival time 5:45 AM. Would appreciate earlier shuttle | 5:45 AM |
+| Wassim Haddad | wassim.haddad@ericsson.com | Arrival time 5:00 AM. Would also appreciate earlier shuttle | 5:00 AM |
 
 
 ## 13:00 Friday, March 13, 2026
