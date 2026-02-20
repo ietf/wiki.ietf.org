@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-19T21:10:56.110Z
+date: 2026-02-20T03:30:18.427Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -447,7 +447,7 @@ As multi-agent systems are increasingly used for complex, multi-step interactive
     2. Integrate the gateway into a simple multi-agent workflow and validate that context delivery becomes more selective and less redundant.
     3. Develop a demo to showcase improvements such as reduced token usage, reduced latency, and improved task completion stability.
 - **Related documents**
-To be released
+https://www.ietf.org/archive/id/draft-agent-gw-00.html
 
 ### IPsec and IKEv2
 - **Champions**
