@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-20T03:30:18.427Z
+date: 2026-02-22T07:50:53.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -515,6 +515,7 @@ The Next-Generation Inter-Domain Routing Architecture and Protocols(IDRNG) foste
 
 - **Repository** -
 https://github.com/IDRNG
+
 ### Agent Protocol Security
 - **Champions**
 Song Yurong (songyurong1@huawei.com)
@@ -527,6 +528,17 @@ https://modelcontextprotocol.io/
 https://www.a2aprotocol.org/
 - **Related Document**
 https://www.ietf.org/archive/id/draft-song-oauth-ai-agent-authorization-00.html
+
+### LLM Driven Automated Network Protocol Testing
+- **Champions**
+Yong Cui (cuiyong@tsinghua.edu.cn)
+Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+Yunze Wei (wyz23@mails.tsinghua.edu.cn)
+- **Project Info**
+Traditional network protocol testing struggles to adapt to rapidly evolving RFC specifications and diverse deployment scenarios. This project demonstrates an LLM-assisted automated network protocol testing framework.
+The framework uses LLMs to (1) assist protocol formalization by transforming unstructured RFC text into structured representations, (2) generate parameterized test case templates instantiated with concrete values for coverage expansion, (3) translate abstract test procedures into coordinated tester scripts and DUT configurations, and (4) automate test execution with execution-time analysis and feedback-driven refinement.
+- **Related Document**
+https://datatracker.ietf.org/doc/draft-cui-nmrg-auto-test/
 
 ---
 
