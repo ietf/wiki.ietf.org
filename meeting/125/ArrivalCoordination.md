@@ -2,7 +2,7 @@
 title: IETF 125 Arrival Coordination
 description: 
 published: true
-date: 2026-02-23T07:56:54.997Z
+date: 2026-02-23T07:57:31.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:38:44.306Z
@@ -26,7 +26,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |09:35|CX660|Pete Resnick|resnick@episteme.net|HKG|1|Shangri-La|Taaking [HKIRC Shuttle Bus](/meeting/125/shuttle-bus)|
 |19:20| UA869|Toerless Eckert|tte@cs.fau.de|Hongkong  | |Shangri-La|Looking to share direct taxi HKG to Shangi-La |
 |17:75|LX138|Éric Vyncke|evyncke@cisco.com|HKG|?|Shangri-La|Either ferry or HKIRC Shuttle Bus|
-|22:00|EK 328|Christian Giese|christian@rtbrick.com|SZX|  |Shangri-La|
+|22:00|EK328|Christian Giese|christian@rtbrick.com|SZX|  |Shangri-La|
 |      |       |      |       |         |          |             |       |
 
 
