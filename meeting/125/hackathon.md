@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-22T07:50:53.433Z
+date: 2026-02-23T15:56:11.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -539,6 +539,28 @@ Traditional network protocol testing struggles to adapt to rapidly evolving RFC 
 The framework uses LLMs to (1) assist protocol formalization by transforming unstructured RFC text into structured representations, (2) generate parameterized test case templates instantiated with concrete values for coverage expansion, (3) translate abstract test procedures into coordinated tester scripts and DUT configurations, and (4) automate test execution with execution-time analysis and feedback-driven refinement.
 - **Related Document**
 https://datatracker.ietf.org/doc/draft-cui-nmrg-auto-test/
+
+### Using Github in a IETF Working Group
+- **Champions**
+Greg Wood, ghwood@staff.ietf.org
+Dhruv Dhody, dd@dhruvdhody.com
+Karen O'Donoghue, kodonog@pobox.com 
+Mirja Kühlewind, ietf@kuehlewind.net
+
+- **Project Info**
+This project will develop and publish practical information that working group chairs and participants can use as part of the usual IETF work. This will expand on information on the wiki here:
+
+    https://chairs.ietf.org/github
+    https://authors.ietf.org/en/collaborative-editing
+
+and could also result in additional wiki pages or other resources.
+
+Starting points include [RFC 8874](https://www.rfc-editor.org/rfc/rfc8874.html), and [RFC 8875](https://www.rfc-editor.org/rfc/rfc8875.html), hoping to infuse the lessons learned in the 5 years since those were published.
+
+Contributing to this project does not require dedicated time over the entire IETF Hackathon. Participants (onsite and remote) are encouraged to drop by and contribute to this project as their schedule allows.
+
+**Need Help with GitHub?**
+Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
 
 ---
 
