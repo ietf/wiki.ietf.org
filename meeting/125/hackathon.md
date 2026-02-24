@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-24T02:45:22.919Z
+date: 2026-02-24T02:46:38.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -568,7 +568,7 @@ Mingqing(Michael) Huang, huangmq@mail.zgclab.edu.cn
 
 - **Project Info**
 This project ([github link](https://github.com/XiaoTianCan/stayrtr)) is built on the open-source [StayRTR project](https://github.com/bgp/stayrtr), aiming to implement the function of selectively synchronizing RPKI data to routers. It addresses the need for more flexible and targeted RPKI data distribution, and achieves this through two key extensions as follows: 
-  1. Extending the SLURM protocol: This extension enables filtering of specific types of RPKI data. Supported filter types include IPv4 Prefix, IPv6 Prefix, and Router Key, allowing for precise control over the RPKI data that is processed and forwarded.
+  1. Extending the SLURM mechanism: This extension enables filtering of specific types of RPKI data. Supported filter types include IPv4 Prefix, IPv6 Prefix, and Router Key, allowing for precise control over the RPKI data that is processed and forwarded.
 
   2. Extending the RTR protocol: The Client can subscribe to specific types of RPKI data from the server via the Subscribe PDU. After a successful subscription, the server will only synchronize the subscribed types of RPKI data to the corresponding Client, reducing unnecessary data transmission and improving efficiency.
 
