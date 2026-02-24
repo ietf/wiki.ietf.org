@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-23T15:56:11.944Z
+date: 2026-02-24T02:45:22.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -558,6 +558,25 @@ and could also result in additional wiki pages or other resources.
 Starting points include [RFC 8874](https://www.rfc-editor.org/rfc/rfc8874.html), and [RFC 8875](https://www.rfc-editor.org/rfc/rfc8875.html), hoping to infuse the lessons learned in the 5 years since those were published.
 
 Contributing to this project does not require dedicated time over the entire IETF Hackathon. Participants (onsite and remote) are encouraged to drop by and contribute to this project as their schedule allows.
+
+### Selectively Synchronizing RPKI Data to Routers
+- **Champions**
+Nan Geng, gengnan@huawei.com
+Yu Fu, fuy44@chinatelecom.cn
+Shunwan Zhuang, zhuangshunwan@huawei.com
+Mingqing(Michael) Huang, huangmq@mail.zgclab.edu.cn
+
+- **Project Info**
+This project ([github link](https://github.com/XiaoTianCan/stayrtr)) is built on the open-source [StayRTR project](https://github.com/bgp/stayrtr), aiming to implement the function of selectively synchronizing RPKI data to routers. It addresses the need for more flexible and targeted RPKI data distribution, and achieves this through two key extensions as follows: 
+  1. Extending the SLURM protocol: This extension enables filtering of specific types of RPKI data. Supported filter types include IPv4 Prefix, IPv6 Prefix, and Router Key, allowing for precise control over the RPKI data that is processed and forwarded.
+
+  2. Extending the RTR protocol: The Client can subscribe to specific types of RPKI data from the server via the Subscribe PDU. After a successful subscription, the server will only synchronize the subscribed types of RPKI data to the corresponding Client, reducing unnecessary data transmission and improving efficiency.
+
+  By integrating these two extensions into the StayRTR project, the solution provides a more refined and efficient RPKI data synchronization mechanism, which is particularly valuable for scenarios where routers require only specific RPKI data types to meet their operational needs.
+
+- **Related Document**
+https://datatracker.ietf.org/doc/draft-fu-sidrops-enhanced-slurm-filter/
+https://datatracker.ietf.org/doc/draft-geng-sidrops-rtr-selective-sync/
 
 **Need Help with GitHub?**
 Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
