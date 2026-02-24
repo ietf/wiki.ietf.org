@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-24T02:48:55.107Z
+date: 2026-02-24T03:27:05.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -572,7 +572,7 @@ This project ([github link](https://github.com/XiaoTianCan/stayrtr)) is built on
 
   2. Extending the RTR protocol: The Client can subscribe to specific types of RPKI data from the server via the Subscribe PDU. After a successful subscription, the server will only synchronize the subscribed types of RPKI data to the corresponding Client, reducing unnecessary data transmission and improving efficiency.
 
-  By integrating these two extensions into the StayRTR project, the solution provides a more refined and efficient RPKI data synchronization mechanism, which is particularly valuable for scenarios where routers require only specific RPKI data types to meet their operational needs.
+  By integrating these two extensions into the project, the solution provides a more refined and efficient RPKI data synchronization mechanism, which is particularly valuable for scenarios where routers require only specific RPKI data types to meet their operational needs.
 
 - **Related Document**
 https://datatracker.ietf.org/doc/draft-fu-sidrops-enhanced-slurm-filter/
