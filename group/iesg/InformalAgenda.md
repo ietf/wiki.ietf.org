@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-24T14:07:09.241Z
+date: 2026-02-24T14:18:13.274Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,7 +47,7 @@ Note that this page is public.
 ### Management Issues
 
 - Executive Session: ISOC BOT Confirmation
-
+- If possible, let's decide the IESG retreat location & dates (Éric V)
 
 
 ### WG News 
@@ -67,7 +67,7 @@ Note that this page is public.
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
-Well-Known URI registration policy - proposal to freeze all registration requests (MN).
+- Well-Known URI registration policy - proposal to freeze all registration requests (MN).
 
 
 ### Topics Deferred Till Next Informal 
