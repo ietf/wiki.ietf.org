@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2026-02-25T06:47:25.498Z
+date: 2026-02-25T07:06:12.810Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -88,7 +88,7 @@ This page will be updated with more details as we figure things out.
 | draft-ietf-bier-tether      | IESG Expired | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |  Received replies from all authors  |
 |draft-ietf-bier-use-cases    | IESG Expired, Needs more work  | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-ping        | IESG Evaluation                         | N/A | Yes | Yes | Yes | Yes | Yes | Yes | Yes |   Received replies from all authors    |
-|draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | Sent to IPPM WG | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
+|draft-ietf-bier-pmmm-oam     | Needs to address AD's comments: https://mailarchive.ietf.org/arch/msg/bier/vXfLs0N0sK0jBPoRE4JOGHi2QUE/ Revised I-D Needed - Issue raised by AD | Sent to IPPM WG | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
 |draft-ietf-bier-pim-signaling| Normative references published | Sent to PIM WG | Yes | Yes | better to refresh | Not yet | Not yet | Yes  | Not yet |   Not all authors responded to the IPR call    |
 |draft-ietf-bier-path-mtu-discovery| WG Consensus: Waiting for Write-Up | N/A  | No | Yes | Not yet | Not yet | Not yet | Not yet | Not yet |  Needs to be initiated     |
 |draft-ietf-bier-bierin6      | WG Consensus: Waiting for Write-Up      | N/A | No | Yes | Yes | Not yet | Not yet | Not yet | Not yet |   Needs to be initiated    |
