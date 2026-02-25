@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2025-10-22T07:15:24.368Z
+date: 2026-02-25T03:08:19.398Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -79,13 +79,13 @@ This page will be updated with more details as we figure things out.
 
 ## Tracking WG documents that require WGLC
 
-| draft                       | WG<br>status                            | WGLC in<br> related<br> WGs | All Normative<br> References<br> sent to<br> IESG | shepherd<br> assigned | shepherd<br>  review<br> done | DIR early<br> review done,<br> if needed | DIR LC<br>  review<br> done | AD early<br> review<br> done | sent to<br>  IESG | notes |
+| draft                       | WG<br>status                            | WGLC in<br> related<br> WGs | All Normative<br> References<br> sent to<br> IESG | shepherd<br> assigned | shepherd<br>  review<br> done | DIR early<br> review done,<br> if needed | DIR LC<br>  review<br> done | AD early<br> review<br> done | sent to<br>  IESG | IPR call |
 |-----------------------------|-----------------------------------------|-----------------------------|---------------------------------------------------|-----------------------|-------------------------------|------------------------------------------|-----------------------------|------------------------------|-------------------|-------|
-| draft-ietf-bier-frr         | Return back from IESG       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No |       |
-|draft-ietf-bier-oam-requirements| IESG Evaluation   | N/A  | Yes | Yes | Yes | N/A | Yes | Yes | Yes |       |
-|draft-ietf-bier-ospfv3-extensions| New version submitted which addressed the DIR's review comments|  | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |       |
-|draft-ietf-bier-lsr-non-mpls-extensions| Waiting for WG Chair Go-Ahead |Sent to LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |       |
-| draft-ietf-bier-tether      | Revised I-D Needed - Issue raised by AD | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |       |
+| draft-ietf-bier-frr         | Return back from IESG       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Needs to be re-initiated |
+|draft-ietf-bier-oam-requirements| RFC Ed Queue | N/A  | Yes | Yes | Yes | N/A | Yes | Yes | Yes |     Yes  |
+|draft-ietf-bier-ospfv3-extensions| Needs review in LSR WG |  | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |  Needs to be re-initiated     |
+|draft-ietf-bier-lsr-non-mpls-extensions| Waiting for WG Chair Go-Ahead |Sent to LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |  Received replies from all authors  |
+| draft-ietf-bier-tether      | IESG Expired | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |  Received replies from all authors  |
 |draft-ietf-bier-use-cases    | WG Consensus: Waiting for Write-Up      | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |
 | draft-ietf-bier-ping        | IESG Evaluation                         | N/A | Yes | Yes | Yes | Yes | Yes | Yes | Yes |       |
 |draft-ietf-bier-pmmm-oam     | Revised I-D Needed - Issue raised by AD | Sent to IPPM WG | Yes  | Yes | better to refresh | Not yet | Not yet | Yes | Not yet |       |
