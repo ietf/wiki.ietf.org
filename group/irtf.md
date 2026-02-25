@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-01-01T06:43:18.052Z
+date: 2026-02-25T19:20:25.974Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -26,14 +26,15 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Global Access to the Internet for All (GAIA)](/group/gaia)
  * [Internet Congestion Control (iccrg)](/group/iccrg)
  * [Information-Centric Networking (icnrg)](/group/icnrg)
+ * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
  * [Network Management Research Group (NMRG)](/group/nmrg)
  * [Coding for efficient NetWork Communications Research Group (nwcrg)](/group/nwcrg)
- * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
  * [Privacy Enhancement and Assessment Proposed RG (PEARG)](/group/pearg)
- * [Thing-to-Thing RG (T2TRG)](https://github.com/t2trg)
  * [Quantum Internet Proposed RG (QIRG)](/group/qirg)
- * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
  * [ Sustainability and the Internet Proposed Research Group (SUSTAIN)](/group/sustain)
+ * [Thing-to-Thing RG (T2TRG)](https://github.com/t2trg)
+ * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
+
 
 ## Pages for Past Activities 
  * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( )
