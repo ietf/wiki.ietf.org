@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-24T14:18:13.274Z
+date: 2026-02-25T23:31:33.144Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -41,6 +41,9 @@ Note that this page is public.
 ### Administrivia
 
 - IESG Onboarding (Secretariat)
+  - [slides](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing)
+- RPC Orientation (RPC)
+  - [slides](https://docs.google.com/presentation/d/1nSSiqLmfmNHnoDIERyVgyUJ2TCVrI7iRft9Il3jojPk/edit?usp=sharing)
 
 ### Document Discussions
 
