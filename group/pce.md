@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-02-24T04:00:30.380Z
+date: 2026-02-25T06:55:11.655Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -101,8 +101,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Waiting for WG Chair Go-Ahead| Waiting for Shepherd Review | Dhruv |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | EXPIRED | Shepherd Review Done on 2025-10-30, Awaiting recheck and feedback by shepherd|Dhruv |
+|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Waiting for WG Chair Go-Ahead| Waiting for Shepherd Review | Need a Shepherd - Yisong? |
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | EXPIRED | Shepherd Review Done on 2025-10-30, Awaiting recheck and feedback by shepherd| Need a new Shepherd - Andrew? |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Waiting for WG Chair Go-Ahead| Response to Andrew's WGLC comment is pending; Shepherd review done; awaiting an update from authors | Julien |
 
 
