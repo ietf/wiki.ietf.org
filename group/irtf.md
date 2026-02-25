@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-02-25T19:29:23.753Z
+date: 2026-02-25T19:37:46.179Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -35,12 +35,12 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
 
 
-## Pages for Past Activities 
- * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( )
+<!-- ## Pages for Past Activities 
+ * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( ) -->
 
 
-## Pages for IRTF Non-RG-Intending Activities 
- * [AI and ML Discussions]()
+<!-- ## Pages for IRTF Non-RG-Intending Activities 
+ * [AI and ML Discussions]() -->
 
 ## Status of IRTF Documents 
 
