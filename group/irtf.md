@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-02-25T19:26:15.690Z
+date: 2026-02-25T19:29:14.142Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -28,7 +28,6 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Information-Centric Networking (icnrg)](/group/icnrg)
  * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
  * [Network Management Research Group (NMRG)](/group/nmrg)
- * [Coding for efficient NetWork Communications Research Group (nwcrg)](/group/nwcrg)
  * [Privacy Enhancement and Assessment Proposed RG (PEARG)](/group/pearg)
  * [Quantum Internet Proposed RG (QIRG)](/group/qirg)
  * [ Sustainability and the Internet Proposed Research Group (SUSTAIN)](/group/sustain)
@@ -74,6 +73,7 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [HIPRG](/group/hiprg) (now concluded)
  * [NCRG](http://networkcomplexity.org/) (now concluded)
  * [NFVRG](/group/nfvrg) (now concluded)
+ * [NWCRG](/group/nwcrg) (now concluded)
  * [P2PRG](/group/p2prg) (now concluded)
  * [PKNG](/group/pkng) (now concluded)
  * [RRG](/group/rrg) (now concluded)
