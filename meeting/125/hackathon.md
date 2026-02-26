@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-26T02:36:47.953Z
+date: 2026-02-26T02:38:49.804Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -599,7 +599,8 @@ Design and implement an end-to-end prototype that exports SAV telemetry data usi
 - **Related information**
 https://datatracker.ietf.org/doc/draft-cao-opsawg-ipfix-sav/
 https://datatracker.ietf.org/doc/draft-ietf-savnet-general-sav-capabilities/
-
+https://datatracker.ietf.org/doc/rfc7011/
+https://datatracker.ietf.org/doc/rfc6313/
 
 **Need Help with GitHub?**
 Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
