@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-26T06:42:02.404Z
+date: 2026-02-26T06:46:36.603Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -56,6 +56,11 @@ Note that this page is public.
 
 ### WG News 
 
+- DNS Consultation status (Med)
+  + [Overall context](https://mailarchive.ietf.org/arch/msg/dnsop/9aztqcxfpgCEkhQT3LGxkWuMui8/)
+  + [Consultation Goals & Planning](https://mailarchive.ietf.org/arch/msg/dnsop/6zd0dvgsB7p5vE8FPgBxhdUs3y0/)
+  + [Draft consensus conclusions](https://datatracker.ietf.org/doc/draft-hardaker-dns-wgs-at-ietf/)
+  + [Presenting/discussing updated conclusions at IETF#125](https://datatracker.ietf.org/meeting/125/materials/agenda-125-opsarea-00)
 
 ### Documents to Swap 
 
