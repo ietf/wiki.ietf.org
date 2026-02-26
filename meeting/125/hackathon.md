@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-26T02:38:49.804Z
+date: 2026-02-26T20:09:15.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -168,6 +168,23 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 *Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
+
+### Task Discovery in AI Network
+-**Champions**
+Hesham Moussa hesham.moussa@huawei.com
+Arashmid Akhavain arashmid.akhavain@huawei.com
+- **Project Info**
+Agents take a more active role in matching themselves to tasks in this alternative yet complementary approach. Instead of focusing on discovering agents, the framework shifts the discovery process toward the tasks themselves—a shift in granularity that we refer to as task discovery. By doing so, it avoids the scalability challenges that arise when the number of agents continually grows. Tasks, unlike agents, are completed and exit the system, making this task‑centric discovery process inherently more manageable. Here is a quick overview of the approach:
+1. Consider a system in which task owners can post their tasks on some type of a platform (e.g., social media, internet, websites, ebillboards…etc).
+
+2. Also consider that agents are equipped with means and intelligence that enable them to access this platform.
+
+3. Agents can then discover tasks posted to this platform.
+
+4. Agents can select the tasks that suit their skillset and capabilities.
+
+5. Agents can then send necessary information (e.g. agent card, history, make, model, ratings...etc) to task owners and present themselves as potential candidates capable of fulfilling the posted task.
+
 
 ### High Performance Wide Area Networks (HP-WAN)
 - **Champions**
