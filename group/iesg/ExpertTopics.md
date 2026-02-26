@@ -2,7 +2,7 @@
 title: Expert Topics
 description: 
 published: true
-date: 2023-05-17T20:37:53.228Z
+date: 2026-02-26T13:25:33.268Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:15:47.058Z
@@ -49,7 +49,13 @@ For a more complete discussion of these topics, please see https://wiki.ietf.org
 * MTU and Fragmentation: any use of datagrams needs to consider these issues.  See also the transport issues, below.
 * Protocol tunneling
 
-## Operations and Management Area (ops) 
+## Operations & Management Area (ops) 
+
+### Guidelines for Considering Operations and Management in IETF Specifications
+
+A complete set of guidance can be found at [draft-ietf-opsawg-rfc5706bis](https://datatracker.ietf.org/doc/draft-ietf-opsawg-rfc5706bis/).
+
+### Misc.
 
 For a more complete discussion of these topics, please see https://wiki.ietf.org/group/ops
 
