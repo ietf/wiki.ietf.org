@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-11-07T14:59:54.447Z
+date: 2026-02-26T14:24:08.831Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -11,6 +11,18 @@ dateCreated: 2024-06-28T10:06:07.006Z
 # New Work "Help Desk"
 
 Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot, but more is always better!  
+
+# IETF 125 Shenzhen
+
+Volunteers: Alvaro, Matthew, Suresh, Dhruv, (Mirja)
+
+## Monday 16th March 
+Beverage Break, **11:00-11:30** (after dispatch)
+IAB Members: Dhruv
+
+## Thursday 19th March
+Beverage Break, **16:00-16:30**
+IAB Members: Dhruv
 
 # IETF 124 Montreal
 
