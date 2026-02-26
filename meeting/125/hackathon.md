@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-26T20:43:43.926Z
+date: 2026-02-26T20:43:52.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -177,7 +177,6 @@ Arashmid Akhavain arashmid.akhavain@huawei.com
 Agents take a more active role in matching themselves to tasks in this alternative yet complementary approach. Instead of focusing on discovering agents, the framework shifts the discovery process toward the tasks themselves—a shift in granularity that we refer to as task discovery. By doing so, it avoids the scalability challenges that arise when the number of agents continually grows. Tasks, unlike agents, are completed and exit the system, making this task‑centric discovery process inherently more manageable. Here is a quick overview of the approach:
 
    - Consider a system in which task owners can post their tasks on some type of a platform (e.g., social media, internet, websites, ebillboards…etc).
-
 
    - Also consider that agents are equipped with means and intelligence that enable them to access this platform.
 
