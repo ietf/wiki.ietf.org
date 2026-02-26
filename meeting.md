@@ -19,7 +19,7 @@ Wikis are used by participants to share information about and coordinate around 
 #### IETF 125 Shenzhen
 **March 14-20, 2026** - :cn: Shenzhen, China
 - [IETF 125 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/125)
-- [IETF 125 Side Meetings *Board with available side meeting space. *(coming soon)**](#)
+- [IETF 125 Side Meetings *Board with available side meeting space.*](https://sidemeetings.ietf.org)
 - [IETF 125 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/125/hackathon)
 {.links-list}
 
