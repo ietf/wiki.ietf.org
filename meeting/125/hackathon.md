@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-24T08:29:38.052Z
+date: 2026-02-26T02:36:47.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -586,7 +586,7 @@ Benoit Claise (benoit@everything-ops.net)
 Tianran Zhou (zhoutianran@huawei.com)
 - **Project Info**
 While Source Address Validation (SAV) mechanism prevents source address spoofing, enforcing filtering decisions in the data plane, it typically lacks standardized telemetry.
-This project addresses the observability gap by defining and prototyping a set of SAV Information Elements (IEs) exported via IPFIX. The goal is to demonstrate that using standard telemetry mechanisms IPFIX to achieve operational visibility of SAV is both feasible and practical valuable.
+This project (https://github.com/Cq-zgclab/sav-ipfix-validator) addresses the observability gap by defining and prototyping a set of SAV Information Elements (IEs) exported via IPFIX. The goal is to demonstrate that using standard telemetry mechanisms IPFIX to achieve operational visibility of SAV is both feasible and practical valuable.
 
 - **Hackathon Plan**
 Design and implement an end-to-end prototype that exports SAV telemetry data using IPFIX.
