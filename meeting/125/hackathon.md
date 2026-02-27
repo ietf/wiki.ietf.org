@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-27T03:44:34.039Z
+date: 2026-02-27T08:36:51.382Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -635,6 +635,27 @@ https://datatracker.ietf.org/doc/draft-cao-opsawg-ipfix-sav/
 https://datatracker.ietf.org/doc/draft-ietf-savnet-general-sav-capabilities/
 https://datatracker.ietf.org/doc/rfc7011/
 https://datatracker.ietf.org/doc/rfc6313/
+
+
+### RPKI-based Validation with Prioritized Resource Data
+- **Champions**
+Jia Zhang (zhangj@zgclab.edu.cn)
+Mingwei Xu (xmw@cernet.edu.cn)
+Nan Geng (gengnan@huawei.com)
+Chongfeng Xie (xiechf@chinatelecom.cn)
+Yangyang Wang (wangyy@cernet.edu.cn)
+
+- **Project Info**
+Current RPKI Route Origin Validation (ROV) treats all validation data equally. However, operators often use mixed data sources (e.g., authoritative ROAs, SLURM exceptions, AI-inferred data) with varying levels of credibility. This project implements a multi-priority RPKI framework, allowing routers to apply differentiated BGP policies based on the credibility of the validation data (e.g., discarding routes invalidated by authoritative ROAs, while only alerting on those invalidated by inferred data).
+
+- **Hackathon Plan**
+We will build a Proof of Concept (PoC) to demonstrate the multi-priority RPKI Route Origin Validation (ROV) framework. Our development will focus on two core tasks:
+  1. RTR Protocol Extension: Modify the RPKI-to-Router (RTR) protocol to allow Protocol Data Units (PDUs) to explicitly carry priority levels for validated RPKI payloads from the cache server to the router.
+  2. Priority-Aware ROV via OpenBGPD: Parse RTR priority attributes to support multi-priority validation states and enable differentiated BGP routing policies (e.g., discard vs. lower Local Preference).
+
+
+- **Related Document**
+https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
 
 **Need Help with GitHub?**
 Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
