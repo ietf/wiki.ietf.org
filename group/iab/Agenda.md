@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-25T18:21:50.890Z
+date: 2026-02-27T20:21:58.528Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,10 +29,14 @@ Wiki: https://wiki.ietf.org/group/iab/Agenda125
 
 Goals: Confirm BOF coverage, meeting topics, IAB Open
 
-### 2. Discuss Draft ISE Consulation Survey
+### 2. IAB Retreat Dates
+
+Goal: Settle on dates, discuss locations
+
+### 3. Discuss Draft ISE Consulation Survey
 Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?tab=t.0) The sub-group working on this is Roman, Fluffy, Dhruv, and Jason. This is a draft and we'd like to explore Dhruv's feedback that perhaps some of the questions should be more open-ended. The sub-group has struggled to act on this via async collaboration and felt it easier to have a live discussion.
 
-### 3. Executive Session: IAB Chair Discussion (includes incoming members)
+### 4. Executive Session: IAB Chair Discussion (includes incoming members)
 
 
 ## Regrets
