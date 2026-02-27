@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-27T08:36:51.382Z
+date: 2026-02-27T08:47:47.779Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -292,6 +292,8 @@ Network inventory management is a fundamental functional block in the overall ne
 - **Related documents**
 A Base YANG Data Model for Network Inventory
 https://datatracker.ietf.org/doc/draft-ietf-ivy-network-inventory-yang/
+A YANG Data Model for Network Hardware Inventory
+https://datatracker.ietf.org/doc/draft-ietf-ccamp-network-inventory-yang/
 
 
 ### SRv6 for Inter-Layer Network Programming
