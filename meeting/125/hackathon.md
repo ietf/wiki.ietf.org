@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-26T20:43:52.487Z
+date: 2026-02-27T03:44:34.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -576,6 +576,22 @@ and could also result in additional wiki pages or other resources.
 Starting points include [RFC 8874](https://www.rfc-editor.org/rfc/rfc8874.html), and [RFC 8875](https://www.rfc-editor.org/rfc/rfc8875.html), hoping to infuse the lessons learned in the 5 years since those were published.
 
 Contributing to this project does not require dedicated time over the entire IETF Hackathon. Participants (onsite and remote) are encouraged to drop by and contribute to this project as their schedule allows.
+
+### Agent Networking Framework
+- **Champions**
+Bo Li, libo391@huawei.com
+Nan Geng, gengnan@huawei.com
+Chong Zheng, zhengchong6@huawei.com
+Zhiyuan Wang, wangzhiyuan51@huawei.com
+Guanming Zeng, zengguanming@huawei.com
+Chengxiang Li, lichengxiang11@huawei.com
+Ming Xu, xuming37@huawei.com
+Yuan Ni, niyuan1@huawei.com
+Li Zhang, zhangli344@huawei.com
+
+- **Project Info**
+This framework aims to promote automated collaboration among multiple agents to accomplish complex tasks, and it is implemented based on agent gateways. The framework includes several core modules, such as agent registration and discovery, inter-gateway routing protocol, and data plane transmission protocol.
+Taking the financial industry as a specific use case, this project demonstrates the workflow of the framework through a practical scenario: a specific institutional agent communicates with multiple bank agents to automatically query a user's bank statement information from different banks. This demonstration reflects the feasibility and practical value of the framework in facilitating efficient, automated inter-agent collaboration.
 
 ### Selectively Synchronizing RPKI Data to Routers
 - **Champions**
