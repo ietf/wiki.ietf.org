@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-27T23:05:13.620Z
+date: 2026-02-28T06:04:29.046Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -38,7 +38,7 @@ Goal: Settle on dates, discuss locations
 
 
 ## Regrets
-
+- Dhruv
 
 
 
@@ -51,7 +51,6 @@ Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cy
 ### ETSI liaison discussion
 ### WBA liaison discussion
 
-### ICANN85 Outreach Planning (Dhruv, Warren)
 
 
 ## Upcoming IAB Meetings
