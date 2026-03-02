@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-03-02T16:54:54.379Z
+date: 2026-03-02T17:13:24.568Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -92,7 +92,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -03 posted on 2025-11-05 | Added support for SR | - | - |
 |-| draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |
-|-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -05 posted on 2025-09-05 | - | - | - |
+|-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -05 posted on 2025-09-05 | - | - | Yisong |
 
 
 ## Post WG LC Queue  
@@ -102,7 +102,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 |[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Waiting for WG Chair Go-Ahead| Waiting for Shepherd Review | Yisong |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | EXPIRED | Shepherd Review Done on 2025-10-30, Awaiting recheck and feedback by shepherd| Need a new Shepherd - Andrew? |
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Refreshed 2026-03-02 | Shepherd Review Done on 2025-10-30, Feedback received 2026-03-02, change of shepherd - do writeup | Andrew |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Waiting for WG Chair Go-Ahead| Response to Andrew's WGLC comment is pending; Shepherd review done; awaiting an update from authors | Julien |
 
 
