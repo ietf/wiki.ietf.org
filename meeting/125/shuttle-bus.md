@@ -67,6 +67,7 @@ Further details regarding meeting points will be provided to those who sign up b
 | Lixia Zhang | lixia@cs.ucla.edu | 1+ 1; Arrival Saturday 7AM on UA820; earlier shuttle appreciated|
 | Aihua Guo | aihuaguo.ietf@gmail.com | 1+1; Arrival Sat 7:20PM on UA 869. Shuttle appreciated|
 | Aravind Babu | aramahen@cisco.com | 1; Arrival Sat 09:50AM on CX 632 |
+| Arthur Borem | arthurborem@gmail.com | 1; Arrival Sat 7:20pm on UA 869 | 7:20pm |
 
 
 
