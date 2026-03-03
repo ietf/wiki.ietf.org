@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-03T01:51:04.760Z
+date: 2026-03-03T01:53:05.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -673,9 +673,9 @@ AI applications, such as self driving, remote operation, have two fundamental re
   * Regarding routing security, the design uses SID as the source address in SRv6 packets, not only enabling SRv6 compatibility with existing firewalls, but also mitigating spoofing attacks against VPN SIDs by verification of <src, dst> VPN SID tuple on destination PE.
 
 - **Related Document**
-https://datatracker.ietf.org/doc/html/draft-yang-rtgwg-arn-framework-05
-https://datatracker.ietf.org/doc/html/draft-yang-spring-srv6-verification-04
-https://datatracker.ietf.org/doc/html/draft-yang-spring-sid-as-source-address-09
+https://datatracker.ietf.org/doc/draft-yang-rtgwg-arn-framework/
+https://datatracker.ietf.org/doc/draft-yang-spring-srv6-verification/
+https://datatracker.ietf.org/doc/draft-yang-spring-sid-as-source-address/
 
 **Need Help with GitHub?**
 Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
