@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-03T01:53:05.818Z
+date: 2026-03-03T02:37:53.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -663,7 +663,7 @@ https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validatio
 - **Champions**
 Feng Yang (yangfeng@chinamobile.com)
 Xiaoqiu Zhang (zhangxiaoqiu@chinamobile.com)
-Yisong Liu (liuyisong@chinamobile.com)
+Changwang Lin (linchangwang.04414@h3c.com)
 
 - **Project Info**
 AI applications, such as self driving, remote operation, have two fundamental requirements when accessing AI inference services: guaranteed connection quality and secure access. Leveraging current SRv6 technology, this project enables application-aware network coordination to deliver customizable, quality-assured connectivity for users, while ensuring end-to-end secure access from the user to the AI service.
