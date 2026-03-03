@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-02-26T15:49:29.442Z
+date: 2026-03-03T19:12:03.930Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -155,6 +155,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * 1430 - 1530 -- RTG AD Office Hours (Ketan, Gunter)
+* 1600 - 1700 -- ONSEN BoF Coordination meeting (Mahesh)
 * TIME - TIME -- Thing (Person responsible)
 
 ## Monday, March 16, 2026
