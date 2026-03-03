@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-02-27T08:47:47.779Z
+date: 2026-03-03T01:50:07.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -658,6 +658,24 @@ We will build a Proof of Concept (PoC) to demonstrate the multi-priority RPKI Ro
 
 - **Related Document**
 https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
+
+### E2E SRv6 for AI service access with quality and security assurance
+- **Champions**
+Feng Yang, yangfeng@chinamobile.com
+Xiaoqiu Zhang, zhangxiaoqiu@chinamobile.com
+Yisong Liu, liuyisong@chinamobile.com
+
+- **Project Info**
+AI applications, such as self driving, remote operation, have two fundamental requirements when accessing AI inference services: guaranteed connection quality and secure access. Leveraging current SRv6 technology, this project enables application-aware network coordination to deliver customizable, quality-assured connectivity for users, while ensuring end-to-end secure access from the user to the AI service.
+
+  * Regarding quality assurance, an E2E SRv6 network is designed. By ARN techmology, the application traffic can be steered onto differentiated SRv6 services in the underlying backbone network. This ensures deterministic performance for AI inference.
+
+  * Regarding routing security, the design uses SID as the source address in SRv6 packets, not only enabling SRv6 compatibility with existing firewalls, but also mitigating spoofing attacks against VPN SIDs by verification of <src, dst> VPN SID tuple on destination PE.
+
+- **Related Document**
+https://datatracker.ietf.org/doc/html/draft-yang-rtgwg-arn-framework-05
+https://datatracker.ietf.org/doc/html/draft-yang-spring-srv6-verification-04
+https://datatracker.ietf.org/doc/html/draft-yang-spring-sid-as-source-address-09
 
 **Need Help with GitHub?**
 Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
