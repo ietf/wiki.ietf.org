@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-02-24T00:29:09.909Z
+date: 2026-03-03T22:07:30.864Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -34,7 +34,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 Details TBD
 
 
-## Sunday, March 16, 2026
+## Sunday, 2026-03-15
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Jiangsu)
 
