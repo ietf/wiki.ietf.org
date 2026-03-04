@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2025-11-25T14:10:00.971Z
+date: 2026-03-04T10:13:43.548Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -178,9 +178,9 @@ Framework and Data Model for OTN Network Slicing
 ## Draft prioritization for WG adoption
 
 Prio 1
-**- draft-rokui-ccamp-actn-wdm-pluggable-modelling-01**
-Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Optical Network
-(ongoing)
+**- draft-yoon-ccamp-pm-streaming-04**
+A YANG Data Model of Performance Management Streaming
+(IPR polling ongoing)
 
 Prio 2
 **- draft-zheng-ccamp-client-pm-yang-07**
@@ -192,16 +192,18 @@ YANG Data Models for fine grain Optical Transport Network
 
 
 ## Draft prioritization for WG last call
-Prio 1 (cluster)
-
-**- draft-ietf-ccamp-optical-impairment-topology-yang** (AD Evaluation::AD Followup)
+Prio 1
+**- draft-ietf-ccamp-flexigrid-yang** (ready for 2nd WG last call to be done)
 
 Prio 2
-**- draft-ietf-ccamp-flexigrid-yang** (2nd WG last call to be done)
+**- draft-ietf-dwdm-if-param-YANG**
+A YANG data model to manage configurable DWDM optical interfaces
+(RTG-DIR, OPS-DIR, YANGDOCTOR reviews done. Ready for WG LC. - Check if there are dependencies on pluggables work)
 
 Prio 3
-**- draft-ietf-dwdm-interface-YANG**
-RTG-DIR, OPS-DIR, YANGDOCTOR reviews requested and draft updated accordingly.
+**- draft-ietf-ccamp-tsvmode-signaling-02**
+Conveying Transceiver-Related Information within RSVP-TE Signaling
+(RTG-DIR review requested in preparation for WG LC)
 
 Prio 4
 **- draft-ietf-ccamp-otn-tunnel-model**
