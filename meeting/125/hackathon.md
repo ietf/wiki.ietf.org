@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-04T00:45:24.342Z
+date: 2026-03-04T06:24:21.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -698,6 +698,17 @@ https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
 - **Repository**
 https://github.com/ietf-rats-wg/key-attestation
 
+### OAuth Delegated Authorization for AI Agents
+
+- **Champions**
+Li Ruochen (li.ruochen@h-partners.com)
+Wang Haiguang (wang.haiguang.shieldlab@huawei.com)
+
+- **Project Info**
+With the rapid development of AI agent technologies, AI agents need to access resources on behalf of users in a secure and controlled manner. This project aims to implement the OAuth 2.0 delegated authorization framework for AI agents as specified in the draft. The framework enables agents to obtain a delegation token for a resource server and generate delegated tokens for sub-agents or resource access on demand.
+
+- **Related Document**
+https://datatracker.ietf.org/doc/html/draft-li-oauth-delegated-authorization
 
 ---
 
