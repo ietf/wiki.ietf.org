@@ -2,7 +2,7 @@
 title: IETF 125 Arrival Coordination
 description: 
 published: true
-date: 2026-03-01T07:15:07.270Z
+date: 2026-03-04T07:37:42.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:38:44.306Z
@@ -16,6 +16,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 | 16:25 | LH796 | Frode Kileng  | frodek@tele.no | Hongkong | 1 | Shangri-La | Minivan or ferry  |
+|06:25|CA772|Christian Giese|christian@rtbrick.com|SZX|  |Shangri-La|
 |      |        |      |       |         |          |             |       |
 
 
@@ -26,7 +27,6 @@ For ease of taxi-sharing or having companions to take the public transport from 
 |09:35|CX660|Pete Resnick|resnick@episteme.net|HKG|1|Shangri-La|Taaking [HKIRC Shuttle Bus](/meeting/125/shuttle-bus)|
 |19:20| UA869|Toerless Eckert|tte@cs.fau.de|Hongkong  | |Shangri-La|Looking to share direct taxi HKG to Shangi-La |
 |17:75|LX138|Éric Vyncke|evyncke@cisco.com|HKG|?|Shangri-La|Either ferry or HKIRC Shuttle Bus|
-|22:00|EK328|Christian Giese|christian@rtbrick.com|SZX|  |Shangri-La|
 | 19:05 | AY99 | Yu You | youyu.youyu@gmail.com | HKG | ? | Shangri-La | shared direct taxi, shuttle if A/V or train to West Kowloon train station  |
 |        |       |      |       |         |          |             |       |
 
