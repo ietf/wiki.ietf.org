@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-04T00:36:17.573Z
+date: 2026-03-04T00:38:58.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -681,22 +681,22 @@ https://datatracker.ietf.org/doc/draft-yang-spring-sid-as-source-address/
 Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
 
 ### Evidence Encoding for HSMs (RATS)
-- ** Champions **
+- **Champions**
 Jean-Pierre Fiset (jp@crypto4a.com)
 Mike Ounsworth (mike@ounsworth.ca)
 Hannes Tschofenig (Hannes.Tschofenig@gmx.net)
 
-- ** Project Info **
+- **Project Info**
 Remote ATtestation procedureS (RATS) define a framework to generate, distribute and appraise evidence between peers. This effort is to provide encoding for evidence tailored to Hardware Security Modules (HSMs) and the environment in which they operate.
 
-- ** Hackthon Plan **
+- **Hackthon Plan**
 
 During Hackathon 125, we wish to develop test vectors based on the encoding offered in the specification draft. From the vectors, we wish to develop vendor-agnostic tools such as verifiers.
 
-- ** Related Documents **
+- **Related Documents**
 https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
 
-- ** Repository **
+- **Repository**
 https://github.com/ietf-rats-wg/key-attestation
 
 ---
