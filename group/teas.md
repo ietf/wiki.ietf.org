@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-03-04T12:01:12.665Z
+date: 2026-03-04T14:02:34.331Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -34,7 +34,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  5| [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/) ^Exp^ | Open issues exist                   | 2025-01-13
 |  6| [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist | 2025-10-24
 |  7| [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/oL5MyAavDkLk7b70yZujhStZThc/) | 2026-02-11
-|  8| [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) | Open issues exist                   | 2025-03-11
+|  8| [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) | Open issues exist <br> On the agenda for IETF 125 | 2026-03-04
 |  9| [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/)                      | Ready for WGLC (as per Authors) | 2025-11-28
 | 10| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Open issues exist (issues tracked in the document) | 2025-10-24
 | 11| [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) ^Exp^ | Open issues exist | 2026-03-04
@@ -44,7 +44,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 15| [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/) ^Exp,^ ^YDR^           | No open issues; Editorial cleanup pending; <br> Ver 14 will be ready for WGLC (as per authors)| 2025-01-13
 | 16| [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^YDR^          | Gated by progress of other YANG models| 2025-10-24
 | 17| [draft-ietf-teas-te-topo-and-tunnel-modeling](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topo-and-tunnel-modeling/) ^Exp^  | Open issues exist                   | 2025-01-13
-| 18| [draft-ietf-teas-te-topology-profiles](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topology-profiles/)                      | Open issues exist <br> On the agenda for IETF 124 | 2025-10-24
+| 18| [draft-ietf-teas-te-topology-profiles](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topology-profiles/)                      | Open issues exist <br> On the agenda for IETF 125 | 2025-10-24
 | 19| [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/) ^Exp,^ ^YDR^                   | WGLC Done - Issues raised           | 2025-01-13
 | 20| [draft-ietf-teas-yang-path-computation](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-path-computation/) ^YDR^              | WGLC Done - Get ready for publication request     | 2025-03-11
 | 21| [draft-ietf-teas-yang-rsvp](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp/) ^Exp,^ ^YDR^                               | Ready for WGLC (as per Authors)     | 2025-01-13
@@ -52,7 +52,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 23| [draft-ietf-teas-yang-sr-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-sr-te-topo/) ^Exp,^ ^YDR^                   | No open issues; Editorial cleanup pending; <br> Ver 20 will be ready for WGLC (as per authors)| 2025-01-13 
 | 24 | [draft-ietf-teas-yang-te-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2025-01-13
 | 25 | [draft-ietf-teas-yang-te-mpls-topology](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls-topology/)                             | Open issues exist                   | 2025-01-13
-| 26 | [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter)                       | Open issues exist<br> On the agenda for IETF 125 | 2025-01-13
+| 26 | [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter)                       | Open issues exist | 2026-03-04
 | 27 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist                   | 2025-09-03
 
 ## Candidates for WG adoption (in no particular order)
