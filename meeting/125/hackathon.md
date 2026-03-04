@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-04T06:24:21.279Z
+date: 2026-03-04T09:29:18.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -709,6 +709,20 @@ With the rapid development of AI agent technologies, AI agents need to access re
 
 - **Related Document**
 https://datatracker.ietf.org/doc/html/draft-li-oauth-delegated-authorization
+
+
+### Agent Open Network Protocols and Agent & Tool Gateway Demo
+
+- **Champions**
+Peng Liu (liupengyjy@chinamobile.com)
+Kehan Yao (yaokehan@chinamobile.com)
+Zongpeng Du(duzongpeng@chinamobile.com)
+
+- **Project Info**
+Demonstrate AI agent open network protocols and Agent & Tool Gateway. Core capabilities include AI agent registration and skill-based agent resolution, gateway-based Agent routing, gateway-based MCP tool access 
+and delegated authorization, etc.
+- **Related Document**
+TBD.
 
 ---
 
