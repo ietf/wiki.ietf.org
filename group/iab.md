@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2026-01-23T20:26:55.898Z
+date: 2026-03-04T14:07:14.070Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -31,7 +31,6 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [RSAB Stream Representative](/group/iab/RSAB_stream_representative)
 * [EODIR liaison](/group/iab/EODIR_Liaison)
 
-
 ## Liaison Coordination
 * [Important resources and links](/group/iab/liaison_resources)
 * See also [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
@@ -40,6 +39,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)
 * [ITU-T liaison relationship](/group/iab/ITU-T_liaison_relationship)
+* [3GPP](/group/iab/3gpp_liaison_relationship)
 
 ## Processes and Guidance 
 * [IAB Onboarding and Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)  (Google Slides)
