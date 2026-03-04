@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-03-04T11:52:30.962Z
+date: 2026-03-04T11:58:34.805Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -38,8 +38,8 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  9| [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/)                      | Ready for WGLC (as per Authors) | 2025-11-28
 | 10| [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Open issues exist (issues tracked in the document) | 2025-10-24
 | 11| [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) ^Exp^ | Open issues exist | 2026-03-04
-| 12| [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/)| Open issues exist <br> On the agenda for IETF 124 | 2025-10-23
-| 13| [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/)| Open issues exist <br> On the agenda for IETF 124 | 2025-10-23
+| 12| [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/)| Open issues exist | 2026-03-04
+| 13| [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/)| Open issues exist | 2026-03-04
 | 14| [draft-ietf-teas-rfc8776-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rfc8776-update/) ^YDR^ | WGLC Done - Get ready for publication request | 2025-03-11
 | 15| [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/) ^Exp,^ ^YDR^           | No open issues; Editorial cleanup pending; <br> Ver 14 will be ready for WGLC (as per authors)| 2025-01-13
 | 16| [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^YDR^          | Gated by progress of other YANG models| 2025-10-24
@@ -52,7 +52,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 23| [draft-ietf-teas-yang-sr-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-sr-te-topo/) ^Exp,^ ^YDR^                   | No open issues; Editorial cleanup pending; <br> Ver 20 will be ready for WGLC (as per authors)| 2025-01-13 
 | 24 | [draft-ietf-teas-yang-te-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2025-01-13
 | 25 | [draft-ietf-teas-yang-te-mpls-topology](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls-topology/)                             | Open issues exist                   | 2025-01-13
-| 26 | [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter)                       | Open issues exist                   | 2025-01-13
+| 26 | [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter)                       | Open issues exist<br> On the agenda for IETF 125 | 2025-01-13
 | 27 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist                   | 2025-09-03
 
 ## Candidates for WG adoption (in no particular order)
