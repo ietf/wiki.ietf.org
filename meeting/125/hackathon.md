@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-04T09:29:18.677Z
+date: 2026-03-04T10:53:49.317Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -216,7 +216,7 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 - **Champion(s)**
 John Gray (john.gray@entrust.com)
 Daniel Van Geest (Daniel.vangeest@cryptonext-security.com)
-Mike Ounsworth (mike.ounsworth@crypticforest.ca
+Mike Ounsworth (mike.ounsworth@crypticforest.ca)
 Jean-Pierre Fiset (jp@crypto4a.com)
 Massimiliano Pala (massimiliano.pala@wellsfargo.com)
 
