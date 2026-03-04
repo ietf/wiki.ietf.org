@@ -699,6 +699,32 @@ https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
 https://github.com/ietf-rats-wg/key-attestation
 
 
+### Agent Operation Authorization（AOA）
+- **Champions**
+Dapeng Liu (max.ldp@alibaba-inc.com)
+Suresh Krishnan (suresh.krishnan@gmail.com)
+Fan Yang (fudai.yf@alibaba-inc.com)
+
+- **Project Info**
+#### AOA: Agent Operation Authorization
+**Draft:Agent Operation Authorization** (https://datatracker.ietf.org/doc/html/draft-liu-agent-operation-authorization-01):
+In agent-based systems, it is essential to convey not only what actions are permitted but also the original intent behind them and conditions under which an autonomous agent may act on behalf of a principal.
+This draft specifies the **Agent Operation Authorization framework** — a mechanism that enables verifiable delegation of actions from human principals to autonomous AI agents with fine-grained agent operation authorization.
+
+#### Open Source Implementation: Open Agent Auth
+Open Agent Auth is an implementation building upon this standard proposal by leveraging industry-standard protocols (OAuth 2.0, OpenID Connect, WIMSE, W3C VC) and featuring Model Context Protocol (MCP) integration to ensure every agent-executed operation is traceable to explicit user consent.
+
+- **Hackthon Plan**
+1. Demonstrate end-to-end AOA protocol flow using reference implementations.
+2. Validate draft clarity: identify spec ambiguities from implementation and demo scenarios.
+
+- **Related Documents**
+https://datatracker.ietf.org/doc/html/draft-liu-agent-operation-authorization-01
+
+- **Repository**
+https://github.com/alibaba/open-agent-auth
+
+
 ---
 
 
