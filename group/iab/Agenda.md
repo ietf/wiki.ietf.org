@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-03T15:43:21.364Z
+date: 2026-03-04T14:05:40.746Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -38,7 +38,7 @@ Goal: Settle on dates, discuss locations
 
 
 ## Regrets
-- Dhruv, Warren, Jason
+- Dhruv, Warren, Jason, Qin
 
 
 
