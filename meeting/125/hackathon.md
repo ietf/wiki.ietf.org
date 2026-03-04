@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-04T00:41:27.125Z
+date: 2026-03-04T00:45:24.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -579,6 +579,9 @@ Starting points include [RFC 8874](https://www.rfc-editor.org/rfc/rfc8874.html),
 
 Contributing to this project does not require dedicated time over the entire IETF Hackathon. Participants (onsite and remote) are encouraged to drop by and contribute to this project as their schedule allows.
 
+**Need Help with GitHub?**
+Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
+
 ### Agent Networking Framework
 - **Champions**
 Bo Li, libo391@huawei.com
@@ -695,10 +698,8 @@ https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
 - **Repository**
 https://github.com/ietf-rats-wg/key-attestation
 
----
 
-**Need Help with GitHub?**
-Use this table to get help with any GitHub-related issues you may be facing for your Internet-Draft repositories, working group organization, templates, issue tracking, or workflows. Drop by with your questions, drafts, or challenges. The goal is to provide practical, hands-on assistance wherever possible.
+---
 
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
