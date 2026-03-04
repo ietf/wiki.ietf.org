@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-01-06T17:56:30.483Z
+date: 2026-03-04T06:36:50.568Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T17:56:30.483Z
@@ -19,7 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
+| OAuth 2.0 Scope Aggregation for Multi-Step AI Agent Workflows  | Yukuan Jia, Shuping Peng | jiayukuan@huawei.com, pengshuping@huawei.com  | https://datatracker.ietf.org/doc/draft-jia-oauth-scope-aggregation/ |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
