@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-03-04T18:36:54.974Z
+date: 2026-03-04T18:43:58.136Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -30,7 +30,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  1 | [draft-ietf-teas-5g-network-slice-application](https://datatracker.ietf.org/doc/draft-ietf-teas-5g-network-slice-application/) | Address comments received from the replies to the liaisone sent to 3GPP: https://datatracker.ietf.org/liaison/2064/ | 2025-11-05
 |  2 | [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/) ^YDR^| [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/uSbp6hVTRcCnjSJJJE0_qBksj_c/)     | 2026-02-11
 |  3 | [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)                  | WGLC Done <br> Issues raised during WGLC - Revision needed | 2025-11-28
-|  4 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist                   | 2025-09-03
+|  4 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist <br> On the agenda for IETF 125 | 2026-04-03
 |  5 | [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework| 2025-01-13
 |  6 | [draft-ietf-teas-composite-network-slices](https://datatracker.ietf.org/doc/draft-li-teas-composite-network-slices) | Adopted as WG document <br> Wait for WG draft submission | 2025-03-04
 |  7 | [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/) ^Exp^ | Open issues exist                   | 2025-01-13
