@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-03T22:07:30.864Z
+date: 2026-03-04T03:29:00.209Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -25,6 +25,7 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 - [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51) (Dhruv)
 - 2026 Retreat Planning
 - [Statement on Age Verification](https://docs.google.com/document/d/1py7Uzkh8puCNkwSqubxreu6pJranYA7dWoNEwkdu72I/edit?usp=sharing)
+- ISE Survey Discussion
 
 
 ## Saturday, 2026-03-14
