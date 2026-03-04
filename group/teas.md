@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-03-04T18:28:56.259Z
+date: 2026-03-04T18:36:54.974Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -32,7 +32,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  3 | [draft-ietf-teas-actn-poi-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-applicability/)                  | WGLC Done <br> Issues raised during WGLC - Revision needed | 2025-11-28
 |  4 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist                   | 2025-09-03
 |  5 | [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework| 2025-01-13
-|  6 | [draft-ietf-teas-composite-network-slices](https://datatracker.ietf.org/doc/draft-li-teas-composite-network-slices) ^Exp^ | Just adopted as WG document <br> Wait for WG draft submission | 2025-03-04
+|  6 | [draft-ietf-teas-composite-network-slices](https://datatracker.ietf.org/doc/draft-li-teas-composite-network-slices) | Adopted as WG document <br> Wait for WG draft submission | 2025-03-04
 |  7 | [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/) ^Exp^ | Open issues exist                   | 2025-01-13
 |  8 | [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist | 2025-10-24
 |  9 | [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/oL5MyAavDkLk7b70yZujhStZThc/) | 2026-02-11
@@ -59,7 +59,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
  
 |No.| Draft | Notes | Updated
 |---|-------|-------|---------
-| 1 | [draft-alibee-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/html/draft-alibee-teas-rsvp-inplace-lsp-bw-update) | WG adoption poll end on 2025-03-11 | 2026-03-04
+| 1 | [draft-alibee-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/html/draft-alibee-teas-rsvp-inplace-lsp-bw-update) | [Working Group Call for Adoption ends on 2026-03-11](https://mailarchive.ietf.org/arch/msg/teas/2CAA1gMgmI-JJIcV6UdTFr0xYnA/) | 2026-03-04
 
 ## Open informal meetings (driven by authors and contributors)
 
