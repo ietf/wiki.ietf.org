@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-02-27T11:50:45.562Z
+date: 2026-03-04T10:29:54.593Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -22,7 +22,7 @@ IAB Members: Dhruv, Matthew
 
 ## Thursday 19th March
 Beverage Break, **16:00-16:30**
-IAB Members: Dhruv, Matthew
+IAB Members: Dhruv, Matthew, Mirja
 
 # IETF 124 Montreal
 
