@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-03-04T23:22:45.007Z
+date: 2026-03-04T23:57:16.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -14,15 +14,15 @@ Please put your name in this list to sign up for a slots. The goal is to have 2-
 
 # IETF 125 Shenzhen
 
-Volunteers: Alvaro, Matthew, Suresh, Dhruv, (Mirja)
+Volunteers: Alvaro, ~~Matthew~~, Suresh, Dhruv, (Mirja)
 
 ## Monday 16th March 
 Beverage Break, **11:00-11:30** (after dispatch)
-IAB Members: Dhruv, Alvaro
+IAB Members: Dhruv, Alvaro, Yingzhen
 
 ## Thursday 19th March
 Beverage Break, **16:00-16:30**
-IAB Members: Dhruv, Mirja
+IAB Members: Dhruv, Mirja, Yaroslav
 
 # IETF 124 Montreal
 
