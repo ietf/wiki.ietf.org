@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-04T10:53:49.317Z
+date: 2026-03-05T05:29:42.429Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -749,6 +749,17 @@ https://datatracker.ietf.org/doc/html/draft-liu-agent-operation-authorization-01
 - **Repository**
 https://github.com/alibaba/open-agent-auth
 
+### cc-pipe: Concurrent and Conflict-free Pipeline for RPKI Relying Parties
+
+- **Champions** 
+Chenhui Yu (chyu@cnic.cn)
+Hui Zou (zouhui@cnic.cn)
+- **Project Info** 
+Current RPKI Relying Parties (RPs) strictly block new data distribution to routers until the entire global repository is fetched and validated. As the RPKI ecosystem expands, this blocking approach creates a systemic bottleneck and delays critical routing security updates. 
+This project introduces cc-pipe, a concurrent and conflict-free pipeline that decouples RPKI-to-Router (RTR) distribution from data synchronization and cryptographic validation. This implementation uses a predictive Conflict Graph to track data dependencies, safely streaming Validated ROA Payload (VRP) updates to BGP routers. Additionally, it employs aggregated update pacing and an extended cache retention policy to reduce router CPU overhead and prevent costly reset queries. It reduces latency while strictly preserving the routing stability intended by RFC 8210.
+- **Related Documents**
+https://www.rfc-editor.org/rfc/rfc8210.html
+https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/
 
 ---
 
