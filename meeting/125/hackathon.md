@@ -452,7 +452,7 @@ Multi-agent collaboration has been widely studied as an effective approach for a
 2.	Develop a demo to demonstrate the effectiveness of the proposed agent context interaction mechanism.
 
 - **Related documents**
-to be released
+https://datatracker.ietf.org/doc/draft-chang-agent-context-interaction/ 
 
 ### Agent Communication Gateway for Semantic Routing and Working Memory
 - **Champions**
