@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-04T23:01:14.188Z
+date: 2026-03-05T00:15:51.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-03-04, 23:00-00:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-04-01, 14:00-15:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-03-04
+## There WILL NOT be a meeting on 2026-04-01
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=mdd1bb650985f6a539305e000b924e443
+* Webex Link: TBD
 
 
 ## Agenda
@@ -23,22 +23,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. IAB at IETF 125
+### 1. Item
 
-Wiki: https://wiki.ietf.org/group/iab/Agenda125
+Context:
 
-Goals: Confirm BOF coverage, meeting topics, IAB Open
-
-### 2. IAB Retreat Dates
-
-Goal: Settle on dates, discuss locations
-
-
-### 3. Executive Session: IAB Chair Discussion (includes incoming members)
 
 
 ## Regrets
-- Dhruv, Warren, Qin
+
 
 
 
@@ -57,8 +49,6 @@ Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cy
 
 See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-
-- 2026-03-04 23:00-00:00 UTC	Informal Meeting (Reserved)
     
     
 -- 2026-03-14 - 2026-03-20: IETF 125 Shenzhen --
