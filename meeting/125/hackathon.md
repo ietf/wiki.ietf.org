@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-06T03:41:55.841Z
+date: 2026-03-06T09:10:26.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -604,6 +604,7 @@ Nan Geng, gengnan@huawei.com
 Yu Fu, fuy44@chinatelecom.cn
 Shunwan Zhuang, zhuangshunwan@huawei.com
 Mingqing(Michael) Huang, huangmq@mail.zgclab.edu.cn
+Tom Harrison, tomh@apnic.net
 
 - **Project Info**
 This project ([github link](https://github.com/XiaoTianCan/stayrtr)) is built on the forked open-source [StayRTR project](https://github.com/bgp/stayrtr), aiming to implement the function of selectively synchronizing RPKI data to routers. It addresses the need for more flexible and targeted RPKI data distribution, and achieves this through two key extensions as follows: 
