@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-05T05:29:42.429Z
+date: 2026-03-06T03:41:55.841Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -760,6 +760,20 @@ This project introduces cc-pipe, a concurrent and conflict-free pipeline that de
 - **Related Documents**
 https://www.rfc-editor.org/rfc/rfc8210.html
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/
+
+
+
+
+### Knowledge Graph Enhanced Network Management
+
+- **Champions**
+Mingzhe Xing (xingmz@zgclab.edu.cn)
+Yujia Gao (gaoyj@zgclab.edu.cn)
+- **Project Info**
+This project leverages LLMs to automatically construct knowledge graphs from configuration documents, threat intelligence, and other network documents. It supports efficient graph-based retrieval and advanced reasoning, transforming unstructured information into actionable, connected insights.
+- **Related Documents**
+1. https://github.com/xmzzyo/draft_llm_nm
+2. https://github.com/nniujl/draft-nmop-cui-nkg-gateway
 
 ---
 
