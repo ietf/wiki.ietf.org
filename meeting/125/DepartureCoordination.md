@@ -2,7 +2,7 @@
 title: IETF 125 Departure Coordination
 description: 
 published: true
-date: 2026-03-04T10:18:48.352Z
+date: 2026-03-06T10:25:25.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:50:08.280Z
@@ -29,7 +29,7 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|18:55 |  TG639 |Frode Kileng|frodek@tele.no|Hongkong|| Shangri-La|       |
+|18:55 |  TG639 |Frode Kileng|frodek@tele.no|Hongkong|1| Shangri-La|       |
 |      |        |      |       |         |          |             |       |
 
 
