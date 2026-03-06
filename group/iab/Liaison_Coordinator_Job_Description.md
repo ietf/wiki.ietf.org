@@ -25,13 +25,13 @@ There is no requirement to have knowledge about each, or even any, of the associ
 
 ## Liaison Coordinator Tasks
 
-1. Overseeing the status of all liaison statements
+1. Overseeing the Status of all Liaison Statements
   - Monitor the liaison-coordination@iab.org list for incoming statements, record them in the datatracker, and confirm their reception in an informal mail (see further below).
   - Review all recorded statement in the datatracker regularly and check that statements that need a reply get a reply, especially those without a liaison manager.
   - For statements to the IAB or IETF, start a discussion within the IAB; if a reply is needed and help to identify experts from within the IETF community when additional expertise is needed.
   - Maintain the Liaison Statement management tool in the datatracker in coordination with the tools team (see https://datatracker.ietf.org/liaison/ and https://github.com/ietf-tools/liaison-tooling-2025a)
 
-2. Liaison manager Management
+2. Liaison Manager Management
   - Handle the communication between the liaison managers and the rest of the IAB when needed, including inviting a manager for updates to the IAB when appropriate (e.g. usually the ITU-T manager provides and update in-person to the IAB once per year).
   - Perform status checks with the liaison managers: The level of effort depends on how active a particular liaison relationship is, which can vary widely depending on the SDOs. It is recommended that Liaison Coordinators check in with Liaison managers at least once a year, even if a liaison is otherwise dormant. If written reports are provided, they should be published in the IAB minutes (if they contain actual news).
   - Organise two manager calls per year (before the March and November IETF) and a liaison manager in-person social hour, usually during the July IETF (with support of the secretariat). These meetings are also a possible opportunity for check-ins with the manager; e.g. in form of a round-the-table reporting; minutes and important updates should be channeled to the IAB by the coordinators.
@@ -41,7 +41,7 @@ There is no requirement to have knowledge about each, or even any, of the associ
     - Coordinate with the secretariat to announce a new liaison manager and update the webpage and datatracker.
     - Onboard new liaison managers into process and expectations.
 
-3. Maintainance and establishment of formal liaison relationships
+3. Maintainance and Establishment of Formal Liaison Relationships
   - A new liaison relationship to a other SDO requires approval by the entire IAB. Usually a decision is taken after one or multiple coordination meetings between (parts of) the IAB and representatives of the other SDO. The liaison coordinator will help lead the process and identify/propose a person to serve as the liaison manager (see above).
   - If required, the liaison coordinators work on any documentation regarding a new liaison relationship (i.e. fill and send froms as e.g. in case of the ISO process (see [ISO liaison relationship](/group/iab/ISO_liaison_relationship)), or work on a common MoU if needed) and maintain existing documentations (see https://www.ietf.org/about/liaisons/)
   - Subscribe to the respective coordination mailing lists and particiapte in meetings/calls of the liaison coordination groups (see below).
