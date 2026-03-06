@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-06T09:53:27.180Z
+date: 2026-03-06T22:31:10.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -240,6 +240,47 @@ For information on OIDs used to create interoperable structures, consult: https:
 
 At IETF 125, we plan to add more automation and others are invited to test interoperability.  Also, the composite signatures recently had IANA OIDs assigned, so a number of people are interested in testing composite signatures interoperability.   
 
+
+### Relay Attacks in Intra-handshake Attestation for Confidential Agentic AI Systems
+- **Champions**
+
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+
+- **Project Info**
+
+  - 3 main ways to combine attestation in TLS:
+    - Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol))
+    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Post-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
+  - **Hackathon plan**
+  	- Discuss the nits of [relay attacks](https://mailarchive.ietf.org/arch/msg/seat/8tzc62Xe7sKnyInFHkMAx6z6QjU/)
+    - Discuss possible solutions
+    - Discuss open issues
+	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
+		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
+  - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+
+- **Proposed Readings**
+  > Technical Concepts: https://www.researchgate.net/publication/396199290_Perspicuity_of_Attestation_Mechanisms_in_Confidential_Computing_Technical_Concepts
+  > General Approach: https://www.researchgate.net/publication/396593308_Perspicuity_of_Attestation_Mechanisms_in_Confidential_Computing_General_Approach
+  > Validation of TLS 1.3 Key Schedule: https://www.researchgate.net/publication/396245726_Perspicuity_of_Attestation_Mechanisms_in_Confidential_Computing_Validation_of_TLS_13_Key_Schedule
+  > Relay attacks https://mailarchive.ietf.org/arch/msg/seat/8tzc62Xe7sKnyInFHkMAx6z6QjU/
+
+- **Background on Attestation**
+
+	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
+  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
+
+- **Background on Attested TLS**
+
+	- [Tutorial slides](https://www.researchgate.net/publication/390121641_Presentation_Attested_TLS_Fundamentals) from side meeting of IETF 122 
+	- RATS [slides](https://datatracker.ietf.org/meeting/interim-2025-rats-01/materials/slides-interim-2025-rats-01-sessa-identity-crisis-in-attested-tls-for-confidential-computing-01.pdf) and [video](https://youtu.be/Vd_gL4YUGkI?t=2942) at Interim meeting
+	- TLS [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-tls-identity-crisis-00) and [video](https://youtu.be/bQ-Bz60AppI?t=6353) at IETF 122
+	- WIMSE [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-wimse-identity-crisis-00) and [video](https://youtu.be/7FUaIYiGzQs?t=4533) at IETF 122
+ 	- UFMRG [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-ufmrg-specifications-of-attested-tls-00) and [video](https://youtu.be/FOiuDqhqLJY?t=912) at IETF 121
+  - Further slides and videos at this [repo](https://github.com/CCC-Attestation/formal-spec-KBS), such as [this](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing). 
+  - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
 ### YANG2API
 - **Champions**
