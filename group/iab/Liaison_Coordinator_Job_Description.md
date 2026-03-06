@@ -74,7 +74,6 @@ The Liaison Coordinators are recommended to divide responsibility for supporting
 - IETF.org webpage list all liaison managers: https://www.ietf.org/about/liaisons/
 - IAB.org: https://www.iab.org/liaisons/
 - Liaison FAQs on chairs wiki: https://chairs.ietf.org/liaison-faqs
-
 - Archive of the liaison coordination mailing list: https://mailarchive.ietf.org/arch/browse/liaison-coordination/
 - Wiki pages about process of selected SDOs
   - [Broadband Forum (BBF) liaison relationship](/group/iab/BBF_liaison_relationship)
