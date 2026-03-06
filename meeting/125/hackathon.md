@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-06T09:10:26.484Z
+date: 2026-03-06T09:52:50.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -775,6 +775,17 @@ This project leverages LLMs to automatically construct knowledge graphs from con
 - **Related Documents**
 1. https://github.com/xmzzyo/draft_llm_nm
 2. https://github.com/nniujl/draft-nmop-cui-nkg-gateway
+
+### Packet Content Filtering for BGP FlowSpec
+
+- **Champions**
+Yujia Gao (gaoyj@zgclab.edu.cn)
+Guangchen Song (songguangchenjc@chinamobile.com)
+Mingzhe Xing (xingmz@zgclab.edu.cn)
+- **Project Info**
+Existing BGP FlowSpec mechanisms mainly match packet header fields, which limits their effectiveness against DDoS attacks characterized by fixed payload patterns. This project implements and demonstrates a packet content filtering extension for BGP FlowSpec, enabling traffic filtering based on payload content at specified offsets. It showcases rule generation and deployment through payload filtering, and validates the functionality on both open-source routing platforms and commercial network devices, demonstrating practical payload-based DDoS mitigation capabilities.
+- **Related Documents**
+1. https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/
 
 ---
 
