@@ -15,7 +15,7 @@ As stated in the IAB's charter, "[t]he IAB acts as representative of the interes
 The IAB Liaison Coordinator role is usually executed by a team of multiple IAB members (often more than two).
 Within the team, one member typically serves as the primary contact; other members act as backup or take responsibility for specific SDO areas or tasks. Generally, it is possible to split up some of the tasks listed below between the assigned members as long as responsibilities are clearly assigned.
 
-The team typically meets biweekly to coordinate activities, track statements, and maintain shared awareness. Currently, the liaison coordinators use a private repo on GitHub to maintain calls agendas and minutes as well as to track issues and todos: https://github.com/intarchboard/liaison-coordination/issues
+The team typically meets biweekly to coordinate activities, track statements, and maintain shared awareness. Currently, the liaison coordinators use a private repo on GitHub to maintain call agendas and minutes as well as to track issues: https://github.com/intarchboard/liaison-coordination/issues
 
 The IAB assigns the Liaison Coordinator role during the process of selecting all of the annual IAB roles during its March pre-IETF meeting. It is recommended to not switch all members in the same year to enable smoother transitions.
 
