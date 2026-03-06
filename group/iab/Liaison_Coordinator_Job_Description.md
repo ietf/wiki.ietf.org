@@ -73,7 +73,7 @@ The Liaison Coordinators are recommended to divide responsibility for supporting
 - Liaison Statement management tool in the datatracker: https://datatracker.ietf.org/liaison/
 - IETF.org webpage list all liaison managers: https://www.ietf.org/about/liaisons/
 - IAB.org: https://www.iab.org/liaisons/
-- Archive of the liaison coordination mailing list: ???
+- Archive of the liaison coordination mailing list: https://mailarchive.ietf.org/arch/browse/liaison-coordination/
 - Wiki pages about process of selected SDOs
   - [Broadband Forum (BBF) liaison relationship](/group/iab/BBF_liaison_relationship)
   - [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
