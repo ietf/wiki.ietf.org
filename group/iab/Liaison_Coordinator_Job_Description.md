@@ -10,7 +10,7 @@ dateCreated: 2023-12-05T17:38:05.685Z
 
 # Liaison Coordinator Job Description
 
-As stated in the IAB's charter, "[t]he IAB acts as representative of the interests of the IETF and the Internet Society in technical liaison relationships with other organizations concerned with standards and other technical and organizational issues relevant to the world-wide Internet." This responsibility is handled by the IAB liaison coordinators. For formal liaison relationship (see RFC4052), the representation is carried out by liaison managers (see also https://www.ietf.org/about/liaisons/), who are selected and overseen by the IAB with the help of the IAB Liaison Coordinator.
+As stated in the IAB's charter, "[t]he IAB acts as representative of the interests of the IETF and the Internet Society in technical liaison relationships with other organizations concerned with standards and other technical and organizational issues relevant to the world-wide Internet." This responsibility is handled by the IAB liaison Coordinator(s). For formal liaison relationship (see RFC4052), the representation is carried out by liaison managers (see also https://www.ietf.org/about/liaisons/), who are selected and overseen by the IAB with the help of the IAB Liaison Coordinator(s).
 
 The IAB Liaison Coordinator role is the central contact point for any questions or requests regarding liaison management based on the liaison-coordination@iab.org list (see further below). 
 
