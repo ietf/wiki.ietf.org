@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-03-03T14:36:49.989Z
+date: 2026-03-06T18:19:57.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -19,7 +19,6 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 |:------:|:------:|:------:|
 |  Stephanie McCammon    |  smccammon@amsl.com      | | 
 | Dr Gnanajeyaraman Rajaram  |  r.gnanajeyaraman@gmail.com    |  |  
-| Éric Vyncke | evyncke@cisco.com   | Need to be back at HKG at 21:00 |
 | Xipeng Xiao     | xipengxiao@gmail.com       | |  
 | Bruno Decraene     | bruno.decraene@orange.com       | Any possibility to leave the luggage & laptop somewhere (for a flight in the night)?  |  
 | Stephane Litkowski | slitkows@cisco.com | As Bruno, may also need to leave luggage/laptop if possible |
