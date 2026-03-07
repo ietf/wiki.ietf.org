@@ -21,7 +21,7 @@ The team typically meets biweekly to coordinate activities, track statements, an
 
 The IAB assigns the Liaison Coordinator role during the process of selecting all of the annual IAB roles during its March pre-IETF meeting. It is recommended to not switch all members in the same year to enable smoother transitions.
 
-There is no requirement to have knowledge about each, or even any, of the associated organizations. Usually there is not a single person on the IAB that has that knowledge covering all the Standard Development Organizations (SDOs) with which the IAB has liaison relationships. However, it is useful for the role members to have knowledge about the liaison management process and handling of liaison statements (see also RFC 4052 “IAB Liaison Management” and RFC 4053 (BCP 103) “Procedures for Handling Liaison Statements to and from the IETF.”)
+There is no requirement to have knowledge about each, or even any, of the associated organizations (but see links to wiki pages for some below). Usually there is not a single person on the IAB that has that knowledge covering all the Standard Development Organizations (SDOs) with which the IAB has liaison relationships. However, it is useful for the role members to have knowledge about the liaison management process and handling of liaison statements (see also RFC 4052 “IAB Liaison Management” and RFC 4053 (BCP 103) “Procedures for Handling Liaison Statements to and from the IETF.”)
 
 ## Liaison Coordinator Tasks
 
@@ -49,6 +49,7 @@ There is no requirement to have knowledge about each, or even any, of the associ
 4. Documentation and Training
    - Organize frequent training sessions for liaison managers (e.g. during the calls), chairs (e.g. at the lunch chair training) and ADs (see slides below)
    - Maintain web ressources (IETF - https://www.ietf.org/about/liaisons/, IAB - https://www.iab.org/liaisons/, FAQs - https://chairs.ietf.org/liaison-faqs), Wikis, and RFCs
+   - The Liaison Coordinators hold Office Hours at every IETF meeting. While liaison manager can come to the office hours if they have a specific issue or question, mainy the office hours are meant as an easy contact point for the broader community for any question regarding liaison management.
 
 
 ## liaison-coordination@iab.org
