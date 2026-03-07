@@ -50,7 +50,7 @@ There is no requirement to have knowledge about each, or even any, of the associ
    - Organize frequent training sessions for liaison managers (e.g. during the calls), chairs (e.g. at the lunch chair training) and ADs (see slides below)
    - Maintain web ressources (IETF - https://www.ietf.org/about/liaisons/, IAB - https://www.iab.org/liaisons/, FAQs - https://chairs.ietf.org/liaison-faqs), Wikis, and RFCs
    - The Liaison Coordinators hold Office Hours at every IETF meeting. While liaison manager can come to the office hours if they have a specific issue or question, mainy the office hours are meant as an easy contact point for the broader community for any question regarding liaison management.
-   - Provide liaison Update at IAB Open: either ask a liaison manager to provide and update or use that slot to update on other liaison work (like document updates). Not every liaison manager is expected to give an update as the level of activity is very different (se private IAB wiki), however, for those that are active this leads to a presentation in IAB Open roughly every 3 years.
+   - Provide liaison update at IAB Open: either ask a liaison manager to provide an update or use that slot to update on other liaison work directly (like document updates). Not every liaison manager is expected to give an update as the level of activity is very different (see private IAB wiki), however, for those that are active, this leads to a presentation in IAB Open roughly every 3 years.
 
 
 ## liaison-coordination@iab.org
