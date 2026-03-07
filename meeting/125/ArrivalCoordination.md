@@ -2,7 +2,7 @@
 title: IETF 125 Arrival Coordination
 description: 
 published: true
-date: 2026-03-07T12:59:03.222Z
+date: 2026-03-07T23:46:02.126Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:38:44.306Z
@@ -27,7 +27,7 @@ Note: If you're coming in at the right times, you may be able to take the [HKIRC
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |09:35|CX660|Pete Resnick|resnick@episteme.net|HKG|1|Shangri-La|Taking the ferry |
-|19:20| UA869|Toerless Eckert|tte@cs.fau.de|Hongkong  | |Shangri-La|Looking to share direct taxi HKG to Shangi-La |
+|19:20| UA869|Toerless Eckert|tte@cs.fau.de|Hongkong  | |Shangri-La|Booked direct taxi HKG to Shangi-La, seats free. Send PM to join |
 |17:75|LX138|Éric Vyncke|evyncke@cisco.com|HKG|?|Shangri-La|Either ferry or HKIRC Shuttle Bus|
 | 19:05 | AY99 | Yu You | youyu.youyu@gmail.com | HKG | ? | Shangri-La | shared direct taxi, shuttle if A/V or train to West Kowloon train station  |
 | 19:20| UA869|Vishnu Pavan Beeram|vishnupavan@gmail.com|HKG | |Shangri-La| |
