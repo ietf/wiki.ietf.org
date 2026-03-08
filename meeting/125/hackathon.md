@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-06T22:31:10.738Z
+date: 2026-03-08T10:18:51.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -827,6 +827,18 @@ Mingzhe Xing (xingmz@zgclab.edu.cn)
 Existing BGP FlowSpec mechanisms mainly match packet header fields, which limits their effectiveness against DDoS attacks characterized by fixed payload patterns. This project implements and demonstrates a packet content filtering extension for BGP FlowSpec, enabling traffic filtering based on payload content at specified offsets. It showcases rule generation and deployment through payload filtering, and validates the functionality on both open-source routing platforms and commercial network devices, demonstrating practical payload-based DDoS mitigation capabilities.
 - **Related Documents**
 1. https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/
+
+
+### Transaction Token Profiles for A2A Calls
+- **Champions**
+Chunchi Peter Liu(liuchunchi@huawei.com)
+Yuan Ni(niyuan1@huawei.com)
+Yuan Zhou(zhouyuan89@huawei.com)
+- **Project Info**
+Transaction Tokens securely propagate user identity and authorization context across workloads. We extend this mechanism to A2A scenarios. By mapping the A2A message structure to the Transaction Token payload, call context and identity can be preserved throughout the entire agent call chain.
+- **Related Documents**
+https://www.ietf.org/archive/id/draft-liu-oauth-a2a-profile-00.html
+
 
 ---
 
