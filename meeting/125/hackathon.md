@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-08T10:18:51.752Z
+date: 2026-03-08T10:30:34.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -840,6 +840,15 @@ Transaction Tokens securely propagate user identity and authorization context ac
 https://www.ietf.org/archive/id/draft-liu-oauth-a2a-profile-00.html
 
 
+### Automated Certificate Management Environment (ACME) Remote Attestation Identifier and Challenge Type
+- **Champions**
+Chunchi Peter Liu(liuchunchi@huawei.com)
+Mike Ounsworth(mike@ounsworth.ca)
+Michael Richardson(mcr+ietf@sandelman.ca)
+- **Project Info**
+An ACME extension that leverages the RATS framework to enable flexible, CMW-formatted attestation of hardware evidence and specific claims.
+- **Related Documents**
+https://datatracker.ietf.org/doc/draft-ietf-acme-rats/01/
 ---
 
 
