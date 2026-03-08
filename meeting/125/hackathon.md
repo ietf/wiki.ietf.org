@@ -849,6 +849,14 @@ Michael Richardson(mcr+ietf@sandelman.ca)
 An ACME extension that leverages the RATS framework to enable flexible, CMW-formatted attestation of hardware evidence and specific claims.
 - **Related Documents**
 https://datatracker.ietf.org/doc/draft-ietf-acme-rats/01/
+
+### Enhancing LLMs for Network Traffic Analysis (TrafficLLM)
+- **Champions**
+Tianyu Cui(cuity@zgclab.edu.cn)
+- **Project Info**
+TrafficLLM is a universal LLM adaptation framework to learn robust traffic representation for all open-sourced LLMs in real-world scenarios and enhance the generalization across diverse traffic analysis tasks.
+- **Repository**
+https://github.com/ZGC-LLM-Safety/TrafficLLM
 ---
 
 
