@@ -2,7 +2,7 @@
 title: IETF 125 Arrival Coordination
 description: 
 published: true
-date: 2026-03-07T23:46:02.126Z
+date: 2026-03-09T18:47:06.783Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:38:44.306Z
@@ -41,7 +41,7 @@ Note: If you're coming in at the right times, you may be able to take the [HKIRC
 | 7AM | UA820 | Lixia Zhang  | lixia@cs.ucla.edu | Hongkong |  | Shangri-La |       |
 | 9:30 am | CX624 | Dhruv Dhody  | dd@dhruvdhody.com | HKG | 1  | Shangrila         |  Taxi to West Kowloon Station (HK) & High speed train  |
 | 05:45 |UA877  |  Hank Cohen | hcohen@ghsiss.com |HKG  | 1  |Shangri-La |  Ferry to Shenzhen then taxi to hotel     |
-|  |  |   |  |  |   |          |       |
+| 17:05 | TK70 | Florian Obser  | florian+ietf@narrans.de | HKG | ?  | Shangri-La         | Ferry to Shenzhen then metro or taxi      |
 |  |  |   |  |  |   |  |       |
 
 
