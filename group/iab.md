@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2026-03-09T14:32:33.345Z
+date: 2026-03-09T14:51:50.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -33,7 +33,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 
 ## Liaison Coordination
 * See also [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
-* [Updated Process: secretariat will forward LSs from statements@ietf.org to liaison managers for upload](/group/iab/process_incoming_liaison_statements)
+* [Updated Process for Handling incoming liaison statemnts](/group/iab/process_incoming_liaison_statements)
 * [Important resources and links](/group/iab/liaison_resources)
 
 #### Additional Infos on (some) Liaison Relationships
