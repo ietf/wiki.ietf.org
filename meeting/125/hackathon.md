@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-09T02:00:26.385Z
+date: 2026-03-09T02:01:30.354Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -857,8 +857,6 @@ Tianyu Cui(cuity@zgclab.edu.cn)
 TrafficLLM is a universal LLM adaptation framework to learn robust traffic representation for all open-sourced LLMs in real-world scenarios and enhance the generalization across diverse traffic analysis tasks.
 - **Repository**
 https://github.com/ZGC-LLM-Safety/TrafficLLM
----
-
 
 ### Interface to In-Network Computing Functions (I2ICF) Project
 - **Champions**
@@ -884,9 +882,10 @@ Jaehoon Paul Jeong (pauljeong@skku.edu)
 This project presents an integrated framework for automated security management in 5G edge networks using the Interface to Network Security Functions (I2NSF) architecture. The proposed system leverages Intent-Based Networking (IBN) to allow users or administrators to declare high-level security intents, which are translated into enforceable network and application policies. Network-level policies are delivered to 5G core components via the Network Exposure Function (NEF), while application-level policies are enforced directly on a User Equipment (UE) through distributed IBN Controllers. This architecture supports adaptive, context-aware, and distributed policy enforcement, enabling real-time response to dynamic edge conditions and user mobility scenarios such as handovers.
 
 - **Specifications**
-[draft-ahn-nmrg-5g-security-i2nsf-framework-00]
+[draft-ahn-nmrg-5g-security-i2nsf-framework-01]
 (https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/)
 
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
