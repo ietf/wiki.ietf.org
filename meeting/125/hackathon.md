@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-09T12:18:39.143Z
+date: 2026-03-09T13:37:14.495Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -902,6 +902,28 @@ In terms of the RATS architecture ([RFC9334](https://www.ietf.org/rfc/rfc9334.ht
 * [draft-ietf-rats-corim-10](https://datatracker.ietf.org/doc/draft-ietf-rats-corim/10)
 * [draft-ffm-rats-cca-token-03](https://datatracker.ietf.org/doc/draft-ffm-rats-cca-token)
 * [draft-ydb-rats-cca-endorsements-03](https://datatracker.ietf.org/doc/draft-ydb-rats-cca-endorsements/)
+
+
+### Testing Privacy-preserving Ciphertext AI inference in Network Functions
+
+- **Champions**
+* Lun Li (lilun20@huawei.com)
+* Kun Liu (liukun@iie.ac.cn)
+
+- **Project Info**
+The academic community has been proposing new privacy technologies, but in existing networks, more pseudonymization is used to protect identifiers. Can these new privacy technologies enhance processing privacy?In this project, we try to let the network perform computing directly on ciphertext through privacy computing. The potential solution is to use homomorphic encryption. AI inference and neural networks are the types of computation we are primarily coped with. The main goal is as follows:
+---Test several possible data processing security methods for AI inference.
+---Demonstrate and evaluate the time efficiency of homomorphic encryption for ciphertext computation, such as inference, on-site.
+
+- **Related I-D**
+https://datatracker.ietf.org/doc/draft-li-ppm-homomorphic-encryption/
+
+- **Hackthon Plan**
+Test the performance of homomorphic encryption in AI inference
+
+- **Related Side Meeting**
+Ciphertext computing and protocol design for future network
+Tuesday, March 17, 2026 11:15-12:15 ( Asia/Shanghai ) · Jiangsu
 
 ---
 
