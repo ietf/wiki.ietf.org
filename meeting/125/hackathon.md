@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-09T02:01:30.354Z
+date: 2026-03-09T08:05:21.721Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -795,6 +795,7 @@ https://github.com/alibaba/open-agent-auth
 - **Champions** 
 Chenhui Yu (chyu@cnic.cn)
 Hui Zou (zouhui@cnic.cn)
+Zhuoran Ma (mazhuoran@hnu.edu.cn)
 - **Project Info** 
 Current RPKI Relying Parties (RPs) strictly block new data distribution to routers until the entire global repository is fetched and validated. As the RPKI ecosystem expands, this blocking approach creates a systemic bottleneck and delays critical routing security updates. 
 This project introduces cc-pipe, a concurrent and conflict-free pipeline that decouples RPKI-to-Router (RTR) distribution from data synchronization and cryptographic validation. This implementation uses a predictive Conflict Graph to track data dependencies, safely streaming Validated ROA Payload (VRP) updates to BGP routers. Additionally, it employs aggregated update pacing and an extended cache retention policy to reduce router CPU overhead and prevent costly reset queries. It reduces latency while strictly preserving the routing stability intended by RFC 8210.
