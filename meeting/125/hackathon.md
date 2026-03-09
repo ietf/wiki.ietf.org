@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-09T08:05:21.721Z
+date: 2026-03-09T10:15:47.829Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -884,6 +884,21 @@ This project presents an integrated framework for automated security management 
 - **Specifications**
 [draft-ahn-nmrg-5g-security-i2nsf-framework-01]
 (https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/)
+
+### Concise Selector for Endorsements and Reference Values
+
+- **Champions**
+* Paul Howard (paul.howard@arm.com)
+* Thomas Fossati (thomas.fossati@linaro.org)
+* Henk Birkholz ([henk.birkholz@ietf.contact](henk.birkholz@ietf.contact))
+
+- **Project Info**
+This project demonstrates how to use the CoRIM Verifier (Cover) to verify and evaluate an Arm CCA attestation token using CoSERV as the source of trust anchors and reference values.
+This demo uses Arm CCA as an example to show how attestation evidence can be verified and appraised locally, i.e. without using an external verification service.
+In terms of the RATS architecture (RFC9334) for remote attestation, this demonstration shows a scenario in which the Verifier role is implemented alongside another role, such as the Attester or the Relying Party. This is an alternative to implementing the Verifier role in a remote service, which would be accessed via a network call.
+
+- **Specifications**
+[draft-ietf-rats-coserv-05](https://datatracker.ietf.org/doc/draft-ietf-rats-coserv/05)
 
 ---
 
