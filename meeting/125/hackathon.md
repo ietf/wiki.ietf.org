@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T13:05:27.084Z
+date: 2026-03-10T16:21:37.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -372,6 +372,7 @@ Rob Wilton (rwilton @ cisco.com)
 Scott Huang (scohuang @ cisco.com)
 Daniel Voyer (davoyer @ cisco.com)
 Sivakumar Sundaravadivel (sivakuma @ ciena.com)
+Irfan Mohammad (irfan @ arrcus.com)
 
 - **Draft Specifications Message Broker**
 https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
