@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-03T19:12:03.930Z
+date: 2026-03-10T23:13:03.447Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,7 +63,12 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > 
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
 > Note2: Topics are prioritized if linked to IETF 125 events
-> 1. ---add topic---
+> 1. Finish any needed appeal processing
+> 2. IANA Update (Sabrina)
+> 3. Choosing liason representatives (Roman)
+> 4. NomCom Feedback (Mike and Roman)
+> 5. Shepherd Template Update (Med)
+> 6.  -- more topics --
 > 10. Decide if a Monday meeting is needed (and agenda if needed)
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Jiangsu)
