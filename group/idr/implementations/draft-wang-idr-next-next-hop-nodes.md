@@ -1,8 +1,8 @@
 ---
 title: Implementation Report for draft-ietf-idr-next-next-hop-nodes
 description: 
-published: true
-date: 2026-03-09T19:47:17.724Z
+published: false
+date: 2026-03-10T19:44:39.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-09T18:19:05.525Z
