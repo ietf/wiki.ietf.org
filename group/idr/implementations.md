@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-03-09T18:18:53.657Z
+date: 2026-03-10T19:45:02.971Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -66,7 +66,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external)
  - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
-- [draft-wang-idr-next-next-hop-nodes](/group/idr/implementations/draft-wang-idr-next-next-hop-nodes)
+- [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
 
     
 &nbsp;
