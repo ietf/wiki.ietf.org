@@ -2,7 +2,7 @@
 title: IETF 125 Arrival Coordination
 description: 
 published: true
-date: 2026-03-09T22:43:05.484Z
+date: 2026-03-10T08:57:08.688Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:38:44.306Z
@@ -20,6 +20,7 @@ Note: If you're coming in at the right times, you may be able to take the [HKIRC
 | 16:25 | LH796 | Frode Kileng  | frodek@tele.no | Hongkong | 1 | Shangri-La | Minivan or ferry  |
 |06:25|CA772|Christian Giese|christian@rtbrick.com|SZX|  |Shangri-La|
 |17:75|LX138|Éric Vyncke|evyncke@cisco.com|HKG|1|Shangri-La|Visiting HK on Friday before HKIRC Shuttle Bus|
+| 17:35 |  ZH 240 | Warren Kumari | warren@kumari.net | SZX  |   ? |  Shangri-La |             | 
 |      |        |      |       |         |          |             |       |
 
 
