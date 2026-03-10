@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-09T13:37:14.495Z
+date: 2026-03-10T02:32:27.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -862,25 +862,22 @@ https://github.com/ZGC-LLM-Safety/TrafficLLM
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-The Interface to In-Network Computing Functions (I2ICF) aims to establish a framework and a set of interfaces that enable users in the cloud to configure and monitor mobile entities such as robotic AI agents and other moving objects. Demonstrate the I2ICF Intent Translator, a component of the Intent Service Application, which interprets user intents for IoT devices, including Software-Defined Vehicles (SDVs). Set up deploying In-Network Computing Functions (ICFs) for mobile platforms such as Software Defined Vehicle (SDVs) and Unmanned Aerial Vehicles (UAVs), focusing on the configuration, operation, and monitoring of these In-Network functions.
+The Interface to In-Network Computing Functions (I2ICF) is intended to provide a structured framework and a collection of interfaces that enable cloud-based users to control and observe mobile systems such as robotic AI agents and other moving devices. In this work, we present the I2ICF Intent Translator, which operates as part of the Intent Service Application and converts high-level user intents into actionable instructions for IoT devices, including Software-Defined Vehicles (SDVs). Furthermore, the study demonstrates how In-Network Computing Functions (ICFs) can be deployed for mobile platforms such as Software-Defined Vehicles (SDVs) and Unmanned Aerial Vehicles (UAVs), highlighting the processes involved in configuring, running, and supervising these in-network capabilities within a networked environment.
 
 - **Specifications**
 [draft-jeong-nmrg-i2icf-problem-statement-00]
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/)
 [draft-jeong-nmrg-i2icf-framework-00]
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/)
-[draft-an-nmrg-i2icf-cits-00]
+[draft-an-nmrg-i2icf-cits-01]
 (https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/)
-[draft-gu-nmrg-intent-translator-02]
-(https://datatracker.ietf.org/doc/draft-gu-nmrg-intent-translator/)
 
 
 ### An Integrated Security Service System for 5G Networks using an I2NSF Framework
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-This project presents an integrated framework for automated security management in 5G edge networks using the Interface to Network Security Functions (I2NSF) architecture. The proposed system leverages Intent-Based Networking (IBN) to allow users or administrators to declare high-level security intents, which are translated into enforceable network and application policies. Network-level policies are delivered to 5G core components via the Network Exposure Function (NEF), while application-level policies are enforced directly on a User Equipment (UE) through distributed IBN Controllers. This architecture supports adaptive, context-aware, and distributed policy enforcement, enabling real-time response to dynamic edge conditions and user mobility scenarios such as handovers.
-
+This work proposes a comprehensive framework for automated security control in 5G edge environments based on the Interface to Network Security Functions (I2NSF) architecture. The system adopts an Intent-Based Networking (IBN) paradigm that enables administrators or users to specify high-level security objectives, which are subsequently translated into actionable policies for both the network and application layers. Network-oriented policies are propagated to 5G core functions through the Network Exposure Function (NEF), whereas application-specific policies are enforced directly on User Equipment (UE) by distributed IBN Controllers. By combining these mechanisms, the architecture facilitates adaptive, context-aware, and decentralized policy enforcement, allowing the system to react in real time to evolving edge network conditions and mobility events such as handovers.
 - **Specifications**
 [draft-ahn-nmrg-5g-security-i2nsf-framework-01]
 (https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/)
