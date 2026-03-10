@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T11:56:19.500Z
+date: 2026-03-10T11:59:50.702Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -948,8 +948,10 @@ In this iteration, we present a complete workflow using byte array serialization
 [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
 
 - **Related Repositories**
+https://github.com/dr2lopez/yang-provenance
 https://github.com/tefiros/cose-provenance
 https://github.com/tefiros/kafka-provenance
+
 
 
 
