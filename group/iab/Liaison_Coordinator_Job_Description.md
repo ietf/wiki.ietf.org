@@ -81,6 +81,8 @@ The Liaison Coordinators are recommended to divide responsibility for supporting
 - RFC 4053: Procedures for Handling Liaison Statements to and from the IETF https://datatracker.ietf.org/doc/rfc4053/
 - RFC 4691: Guidelines for Acting as an IETF Liaison to Another Organization https://datatracker.ietf.org/doc/rfc4691/
 - Liaison Statement management tool in the datatracker: https://datatracker.ietf.org/liaison/
+  - Issue tracker: https://github.com/ietf-tools/liaison-tooling-2025a
+- List of SDOs and LMs in the datatracker: https://datatracker.ietf.org/liaison/list_other_sdo/
 - IETF.org webpage list all liaison managers: https://www.ietf.org/about/liaisons/
 - IAB.org: https://www.iab.org/liaisons/
 - Liaison FAQs on chairs wiki: https://chairs.ietf.org/liaison-faqs
@@ -92,6 +94,10 @@ The Liaison Coordinators are recommended to divide responsibility for supporting
   - [ITU-T liaison relationship](/group/iab/ITU-T_liaison_relationship)
   - [3GPP](/group/iab/3gpp_liaison_relationship)
 - See also talks in IAB Open from different liaison managers!
+- Personal-related information on IAB private wiki: https://iab.privatewikis.ietf.org/en/Appointments/Candidates_for_Liaison_Managers_and_Appointments
+- Liaison Coordinator issue tracker and meeting agendas/minutes on Github (private repo): https://github.com/intarchboard/liaison-coordination
+- Chairs training slides on submitting and receiving liaison statements:[IETF-123 wg chairs lunch](https://datatracker.ietf.org/meeting/123/materials/slides-123-eodir-sessa-liaison-statements-handling-for-wg-chairs-00) (other sources: [pptx on github](https://github.com/intarchboard/liaison-coordination/blob/main/Liaison%20Statement%20Handling%20Training%20for%20WG%20Chairs.pptx), [google doc in IAB folder](https://docs.google.com/presentation/d/12hzKGtkbi8PKnYjJ5poYcRd6rC2q-OJcxYyEH6GHoR8/edit?usp=share_link))
+- Wiki on Updated Process for Handling Incoming Liaison Statements: https://wiki.ietf.org/group/iab/process_incoming_liaison_statements
 &nbsp;
 &nbsp;
 &nbsp;
