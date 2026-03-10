@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T09:48:52.726Z
+date: 2026-03-10T09:50:50.464Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -929,8 +929,8 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
-```markdown
-### IPv6 Network Deployment Monitoring and Analysis
+
+### IPv6 Network Deployment Monitoring and Analysis Platform
 - **Champions**
 Jing Zhao (zhaoj501@chinaunicom.cn)
 - **Project Info**
