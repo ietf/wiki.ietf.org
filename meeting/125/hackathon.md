@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T12:05:46.416Z
+date: 2026-03-10T12:09:00.608Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -960,7 +960,7 @@ Ana Méndez, ana.mendezperez@telefonica.com
 This project demonstrates a framework for sharing and managing authorization policies using a YANG-based model.  
 Authorization policies are expressed using declarative Policy-as-Code languages (e.g., Rego) and encapsulated in a YANG artifact that includes metadata such as owner, version, and language.
 The prototype implements a policy lifecycle workflow where a Policy Administration Point (PAP) validates and distributes policies to a Policy Decision Point (PDP). In the demo setup, Open Policy Agent (OPA) acts as the PDP, APISIX acts as the Policy Enforcement Point (PEP), and Keycloak provides authentication.
-The demonstration shows how a YANG-based policy artifact can be validated, distributed, and enforced in a real system. A sample policy written in Rego protects data stored in GraphDB by denying queries requesting a specific field (`vendorName`).
+The demonstration shows how a YANG-based policy artifact can be validated, distributed, and enforced in a real system.
 
 - **Related Drafts**
 [draft-cabanillas-nmop-authz-policy-sharing-model-01](https://datatracker.ietf.org/doc/draft-cabanillas-nmop-authz-policy-sharing-model/)
