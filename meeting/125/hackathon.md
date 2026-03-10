@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T09:50:50.464Z
+date: 2026-03-10T09:54:27.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -923,20 +923,15 @@ Test the performance of homomorphic encryption in AI inference
 Ciphertext computing and protocol design for future network
 Tuesday, March 17, 2026 11:15-12:15 ( Asia/Shanghai ) · Jiangsu
 
----
-
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
-
 
 ### IPv6 Network Deployment Monitoring and Analysis Platform
 - **Champions**
 Jing Zhao (zhaoj501@chinaunicom.cn)
+Tianyi Huang (tyhuang@cnic.cn)
 - **Project Info**
 This project addresses the core operational challenges in large-scale IPv6 deployment by building an end-to-end IP network traffic monitoring and analysis platform that spans home broadband, mobile networks, bearer networks, and applications, enabling multi-dimensional monitoring of traffic and quality along with intelligent big data analytics to deliver differentiated services.
-- **Related I-D**
-IPv6 Network Deployment Monitoring and Analysis. https://datatracker.ietf.org/doc/draft-pang-v6ops-ipv6-monitoring-deployment/ 
+- **Related Document**
+[draft-pang-v6ops-ipv6-monitoring-deployment-05]https://datatracker.ietf.org/doc/draft-pang-v6ops-ipv6-monitoring-deployment/
 ----
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
