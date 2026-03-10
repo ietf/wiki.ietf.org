@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T12:09:00.608Z
+date: 2026-03-10T12:10:45.792Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -938,6 +938,7 @@ This project addresses the core operational challenges in large-scale IPv6 deplo
 - **Champions**
 Diego López, diego.r.lopez@telefonica.com
 Ana Méndez, ana.mendezperez@telefonica.com
+Lucia Cabanillas, lucia.cabanillasrodriguez@telefonica.com
 - **Project Info**
 At the IETF 122 Hackathon we introduced and demonstrated a YANG provenance signature framework, based on the reference specification and implemented as microservices, useful to sign and verify YANG data elements in support of assuring their origin and integrity.
 We continued working on the YANG provenance framework, demonstrating its integration with a Kafka bus and its convergence with current approaches to YANG data integration in state-of-the-art data infrastructures.
@@ -948,8 +949,9 @@ In this iteration, we present a complete workflow using byte array serialization
 [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
 
 - **Related Repositories**
-https://github.com/tefiros/cose-provenance
-https://github.com/tefiros/kafka-provenance
+https://github.com/tefiros/cose-provenance/
+https://github.com/tefiros/kafka-provenance/
+https://github.com/dr2lopez/yang-provenance/
 
 ### Model for distributed authorization policy sharing
 - **Champions**
