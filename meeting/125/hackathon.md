@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T09:54:27.579Z
+date: 2026-03-10T11:55:10.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -933,5 +933,24 @@ This project addresses the core operational challenges in large-scale IPv6 deplo
 - **Related Document**
 [draft-pang-v6ops-ipv6-monitoring-deployment-05]https://datatracker.ietf.org/doc/draft-pang-v6ops-ipv6-monitoring-deployment/
 ----
+
+### Applying YANG Provenance Signatures to CBOR Objects
+- **Champions**
+Diego López, diego.r.lopez@telefonica.com
+Ana Méndez, ana.mendezperez@telefonica.com
+- **Project Info**
+At the IETF 122 Hackathon we introduced and demonstrated a YANG provenance signature framework, based on the reference specification and implemented as microservices, useful to sign and verify YANG data elements in support of assuring their origin and integrity.
+We continued working on the YANG provenance framework, demonstrating its integration with a Kafka bus and its convergence with current approaches to YANG data integration in state-of-the-art data infrastructures.
+Following the IETF 123 and IETF 124 Hackathon demonstrations of the framework integration with Kafka and Kafka Schema Registry supporting YANG modules, we continue to evolve the Reference Implementation in alignment with the latest updates to the draft.
+In this iteration, we present a complete workflow using byte array serialization and CBOR Object management for data transmission, including procedures for signing, enclosing, and validating. Adapting our procedures to CBOR data formats and binary encoding reduces message size, enables faster processing, and improves extensibility.
+
+- **Related Drafts**
+[draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
+
+- **Related Repositories**
+https://github.com/tefiros/cose-provenance
+https://github.com/tefiros/kafka-provenance
+
+
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
