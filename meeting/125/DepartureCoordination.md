@@ -2,7 +2,7 @@
 title: IETF 125 Departure Coordination
 description: 
 published: true
-date: 2026-03-09T23:18:49.331Z
+date: 2026-03-10T09:40:31.656Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T18:50:08.280Z
@@ -39,7 +39,8 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |00:25|CX261|Dhruv Dhody|dd@dhruvdhody.com|HKG|1|Shangri-la|High speed train at 19:20 or Share minivan leaving around 20:00|
 |08:10|CX257|Alvaro Retana|aretana.ietf@gmail.com|HKG|1|Shangli-La|Happy to share an early-morning minivan.|   
-|12:35|CX806|Pete Resnick|resnick@episteme.net|HKG|1|Shangri-La|       
+|12:35|CX806|Pete Resnick|resnick@episteme.net|HKG|1|Shangri-La|
+|12:40|Korean 836 | Susan Hares | shares@ndzh.com| ? | Shangri-La |
 |16:30|CX542|Wassim Haddad|wassim.haddad@ericsson.com|HKG|1|Shangri-La|
 
 
