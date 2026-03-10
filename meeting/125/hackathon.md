@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-10T02:32:27.177Z
+date: 2026-03-10T07:55:10.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -885,6 +885,7 @@ This work proposes a comprehensive framework for automated security control in 5
 ### Concise Selector for Endorsements and Reference Values
 
 - **Champions**
+* Shefali Kamal (shefali.kamal@fujitsu.com)
 * Paul Howard (paul.howard@arm.com)
 * Thomas Fossati (thomas.fossati@linaro.org)
 * Henk Birkholz ([henk.birkholz@ietf.contact](henk.birkholz@ietf.contact))
