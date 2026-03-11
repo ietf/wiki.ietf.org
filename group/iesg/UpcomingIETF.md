@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-11T04:44:20.491Z
+date: 2026-03-11T06:42:46.805Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -184,7 +184,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 
 ## Thursday, March 19, 2026
-* 1000 - 1100 -- INT ADs office hour (tentative Éric V, not to be made public yet)
+* 1000 - 1100 -- INT ADs office hour (Éric V)
 * 12:45 - 13:45: Benchmarking & IP Performance (Med)
 
 * TIME - TIME -- Thing (Person responsible)
