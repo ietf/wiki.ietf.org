@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-02-24T15:06:46.770Z
+date: 2026-03-11T07:30:46.440Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -20,7 +20,7 @@ Documents:
 Tuesday, March 17, 2026, 8:00-9:00 (local Shenzhen time) ([information about room and online participation](https://sidemeetings.ietf.org/))
 
 ## Agenda
-- 5' Note Well / Agenda Bashing (Slides)
+- 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF125/chair-slides.pdf))
 - 15'+q Minh Hoang Tran (Virginia Tech): Backwards compatible ladders in MTL-mode for SLA-compliant PQ-DNSSEC (Slides)
 - 15'+q Elmer Lastdrager (SIDN Labs): Simulating DNSSEC on a testbed based on real resolver data (Slides)
 - 15'+q Elmer Lastdrager (SIDN Labs) presenting Eline Stehouwer's work: DNSSEC and PQC: practical impact of increased TCP in DNS (Slides)
