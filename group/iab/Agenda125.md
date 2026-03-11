@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T15:37:11.310Z
+date: 2026-03-11T15:45:33.935Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -17,13 +17,8 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ## Potential Topics
 
-- CFRG Review - Thursday
-- Planning towards the ITU Plenipotentiary (Olaf to present): the presentation would cover technical and policy issues, meetings for the 6 regional telecommunication organizations, etc.  It was presented to the IAB-ISOC group and should be of interest to the whole IAB. Time: 20-30min (added by Alvaro) - Tuesday
-- 4052 and 4052bis (Mirja, Suresh)
-- [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (Dhruv) - Thursday
-- [Age Workshop Report](https://mailarchive.ietf.org/arch/msg/architecture-discuss/kNuIv0Uz8xNqWnnjML5QYMu8168) and [Statement on Age Verification](https://docs.google.com/document/d/1py7Uzkh8puCNkwSqubxreu6pJranYA7dWoNEwkdu72I/edit?usp=sharing) (Mark) - Tuesday
-- ISE Survey Discussion (Jason) - Thursday
-- draft-sullivan-crypto-publication (Nick) - Sunday joint session
+
+- 4052bis and 4053bis (Mirja, Suresh)
 
 
 ## Saturday, 2026-03-14
@@ -39,7 +34,9 @@ Details TBD
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 > Meetecho: 
+> - Joint Topic: 4052bis and 4053bis (Mirja, Suresh)
 > - Joint Topic: draft-sullivan-crypto-publication (Nick)
+
 
 ### 14:00-16:00 - IAB Business Meeting (Room: Jiangsu)
 
@@ -86,7 +83,9 @@ Details TBD
 > Meetecho: 
 > 
 > Agenda:
-
+>
+> 1. ISOC discussions (20-30min, Olaf & Alvaro); Planning towards the ITU Plenipotentiary (Olaf to present): the presentation would cover technical and policy issues, meetings for the 6 regional telecommunication organizations, etc.  It was presented to the IAB-ISOC group and should be of interest to the whole IAB
+> 2. [Age Workshop Report](https://mailarchive.ietf.org/arch/msg/architecture-discuss/kNuIv0Uz8xNqWnnjML5QYMu8168) and [Statement on Age Verification](https://docs.google.com/document/d/1py7Uzkh8puCNkwSqubxreu6pJranYA7dWoNEwkdu72I/edit?usp=sharing) (Mark)
 
 
 
@@ -104,8 +103,10 @@ Details TBD
 > Meetecho: 
 > 
 > Agenda:
-
-
+>
+> 1. CFRG Review
+> 2. [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (Dhruv)
+> 3. ISE Survey Discussion (Jason)
 
 
 ### Non-required events:
