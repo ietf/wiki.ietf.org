@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-03-11T14:48:01.138Z
+date: 2026-03-11T15:11:01.104Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -74,7 +74,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 |Draft|Imp Sec|Op Sec|Remarks|Action|
 | --- | --- | --- | ---|---|
 |[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -14 posted on 2025-10-13 | Has Normative dependencies, thus need to wait |
-| draft-ietf-pce-pcep-extension-pce-controller-p2mp | N | Y| -00 posted 2025-08-07; EXPIRED | Authors will post an update |
+| draft-ietf-pce-pcep-extension-pce-controller-p2mp | Y | Y| -01 posted on 2026-02-10 | - |
 
 
 
