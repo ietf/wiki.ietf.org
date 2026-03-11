@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-11T06:42:46.805Z
+date: 2026-03-11T06:45:48.163Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -68,9 +68,10 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > 3. Choosing liason representatives (Roman)
 > 4. NomCom Feedback (Mike and Roman)
 > 5. Shepherd Template Update (Med)
-> 6. Check outstanding DISCUSS positions - Can we resolve any of these? (https://datatracker.ietf.org/iesg/discusses/) (Ketan)
-> 7.  -- more topics --
-> 10. Decide if a Monday meeting is needed (and agenda if needed)
+> 6. Check outstanding [DISCUSS positions](https://datatracker.ietf.org/iesg/discusses/) - Can we resolve any of these? (Ketan)
+> 7. Finalize exact dates (and time) for the IESG meeting in London (Éric)
+> 99.  -- more topics --
+> 100. Decide if a Monday meeting is needed (and agenda if needed)
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Jiangsu)
 
