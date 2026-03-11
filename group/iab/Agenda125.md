@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T16:06:21.439Z
+date: 2026-03-11T16:07:23.672Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -104,7 +104,7 @@ Details TBD
 >
 > 1. CFRG Review (30 min)
 > 2. [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (15 min) (Dhruv)
-> 3. ISE Survey Discussion (25 min) (Jason)
+> 3. ISE Survey Discussion (30 min) (Jason)
 
 
 ### Non-required events:
