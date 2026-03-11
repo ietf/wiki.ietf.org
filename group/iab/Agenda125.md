@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T15:52:04.776Z
+date: 2026-03-11T16:05:41.292Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -51,7 +51,8 @@ Details TBD
 >     - Identify EODir Liaison
 >     - IAB Outreach Coordinator
 > 2. [IAB Meeting Times](https://docs.google.com/presentation/d/1xYNSFlD1BOxULcY6PkQY7R8uBbCx3zVKAnnXRU3l1ts/edit?usp=sharing) (30 min) (Cindy)
-> 3. 2026 Retreat Planning (45 min) (All)
+> 3. 2026 Retreat Planning (30 min) (All)
+> 4. e164.arpa (15 min) (Mirja, Suresh, Warren)
 
 
 ### Evening Meeting Events
