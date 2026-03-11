@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-03-11T13:56:44.612Z
+date: 2026-03-11T13:59:32.762Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -110,8 +110,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-|draft-ietf-pce-circuit-style-pcep-extensions|In IETF LC|Ends 2026-02-20|Dhruv|Ketan|
-|draft-ietf-pce-sr-bidir-path|In IETF LC|Ends 2026-02-20|Dhruv|Ketan| 
+|draft-ietf-pce-circuit-style-pcep-extensions|IESG Evaluation::AD Followup|Roman yet to clear DISCUSS|Dhruv|Ketan|
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
@@ -123,15 +122,15 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |AUTH48-DONE|- | Andrew |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | RFC-EDITOR| - | Dhruv | 
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | AUTH48-DONE| - | Dhruv | 
+|draft-ietf-pce-sr-bidir-path|MISSREF|waiting for draft-ietf-pce-multipath|Dhruv| 
 
 ## Recent RFCs
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
-| RFC 9863 | Published 2025-10; Was draft-ietf-pce-pcep-color| Andrew|
-| RFC 9862 | Published 2025-10; Was draft-ietf-pce-segment-routing-policy-cp| Dhruv|
-| RFC 9826 | Published 2025-09; Was draft-ietf-pce-pcep-yang | Julien |
+| --- | --- | --- |
+
 
 
 ## Other Useful Information
