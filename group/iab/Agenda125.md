@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T15:45:33.935Z
+date: 2026-03-11T15:45:43.417Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -16,9 +16,6 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
  
 
 ## Potential Topics
-
-
-- 4052bis and 4053bis (Mirja, Suresh)
 
 
 ## Saturday, 2026-03-14
