@@ -2,13 +2,15 @@
 title: 3GPP liaison relationship
 description: 
 published: true
-date: 2026-03-04T14:10:14.799Z
+date: 2026-03-11T14:27:29.469Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-04T14:10:14.799Z
 ---
 
 # 3GPP liaison relationship
+
+The liaison manager from 3GPP to IETF is always the CT2 chair.
 
 3GPP maintains liaison resources here:
 
