@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T15:45:43.417Z
+date: 2026-03-11T15:48:42.998Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -39,7 +39,7 @@ Details TBD
 
 > Agenda:
 > 
-> 1. [Finalize IAB Roles](/group/iab/First_Meeting) (Cindy)
+> 1. [Finalize IAB Roles](/group/iab/First_Meeting) (45 min) (Cindy)
 >     - Program Leads and Members
 >     - Liaison Coordinators
 >     - IAB Liaison to the IESG
@@ -50,8 +50,8 @@ Details TBD
 >     - Tools Team Liaison 
 >     - Identify EODir Liaison
 >     - IAB Outreach Coordinator
-> 2. [IAB Meeting Times](https://docs.google.com/presentation/d/1xYNSFlD1BOxULcY6PkQY7R8uBbCx3zVKAnnXRU3l1ts/edit?usp=sharing) (Cindy)
-> 3. 2026 Retreat Planning (All)
+> 2. [IAB Meeting Times](https://docs.google.com/presentation/d/1xYNSFlD1BOxULcY6PkQY7R8uBbCx3zVKAnnXRU3l1ts/edit?usp=sharing) (30 min) (Cindy)
+> 3. 2026 Retreat Planning (45 min) (All)
 
 
 ### Evening Meeting Events
