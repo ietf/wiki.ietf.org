@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-03-02T17:13:24.568Z
+date: 2026-03-11T13:56:44.612Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -149,18 +149,17 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
-|draft-ietf-pce-multipath|WG I-D| various |2022-05-09|2024-04-25 and 2025-04-04|2026-05-09|
-|draft-ietf-pce-sr-bidir-path |WG I-D|ASSOCIATION Type code point 8|2023-11-30|2025-10-23|2026-11-30|
-|draft-ietf-pce-circuit-style-pcep-extensions |WG I-D|STATEFUL-PCE-CAPABILITY TLV Flag<br>LSP-EXTENDED-FLAG TLV Flag<BR>PCEP TLV TYPE|2024-02-23|2025-03-12|2026-02-23|
+|draft-ietf-pce-multipath|In WGLC| various |2022-05-09|2024-04-25 and 2025-04-04|2026-05-09|
+|draft-ietf-pce-sr-bidir-path |With RFC-Editor|ASSOCIATION Type code point 8|2023-11-30|2025-10-23|2026-11-30|
+|draft-ietf-pce-circuit-style-pcep-extensions |With IESG|STATEFUL-PCE-CAPABILITY TLV Flag<br>LSP-EXTENDED-FLAG TLV Flag<BR>PCEP TLV TYPE|2024-02-23|2025-03-12|2026-02-23|
 |draft-ietf-pce-sr-p2mp-policy |WG I-D|- ASSOCIATION Type<br>- Generalized Endpoint Types<br>- SR-P2MP-POLICY-CAPABILITY<br>- IPV4-SR-P2MP-INSTANCE-ID<br>- IPV6-SR-P2MP-INSTANCE-ID<br>- CCI Object Type - SR P2MP Policy|2024-08-27|2025-07-10|2026-08-27|
   
 ### Recent Errata
 
 |RFC|Errata ID|Type|Reported By|State|Chairs suggestion|Remarks|
 | --- | --- | --- | --- | --- | --- | --- |
-|RFC5440|[eid8344](https://www.rfc-editor.org/errata/eid8344)|Editorial|Mrinmoy Das|Verified|-|-|
-|RFC5440|[eid8349](https://www.rfc-editor.org/errata/eid8349)|Editorial|Mrinmoy Das|Verified|-|-|
-|RFC8231|[eid8370](https://www.rfc-editor.org/errata/eid8370)|Technical|Samuel Sidor|Verified|-|-|  
+| --- | --- | --- | --- | --- | --- | --- |
+ 
 
 
 [Any Pending Errata](https://www.rfc-editor.org/errata_search.php?rec_status=2&area_acronym=rtg&wg_acronym=pce&presentation=table)
