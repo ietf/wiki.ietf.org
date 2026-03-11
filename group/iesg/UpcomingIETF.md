@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-11T15:36:35.464Z
+date: 2026-03-11T15:45:13.778Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -18,8 +18,6 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 
 ## Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 125, or the joint meetings with the IAB.
-
-- Joint Topic: draft-sullivan-crypto-publication (Nick)
   
 # IESG Activities
 
@@ -80,7 +78,8 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: IRTF, WIT, SEC, IAB, ART, INT, OPS, GEN, RTG
-
+>3. 4052bis and 4053bis (10-15 min) (Mirja, Suresh)
+>4. draft-sullivan-crypto-publication (10-15 min) (Nick)
 
 
 
