@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T13:16:14.058Z
+date: 2026-03-11T15:37:11.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -17,13 +17,10 @@ To reserve the IAB breakout room, please use https://wiki.ietf.org/group/iab/Bre
 
 ## Potential Topics
 
-- Review and assignment of IAB roles (Cindy) - Sunday
-- [IAB Meeting Times](https://docs.google.com/presentation/d/1xYNSFlD1BOxULcY6PkQY7R8uBbCx3zVKAnnXRU3l1ts/edit?usp=sharing) (Cindy) - Sunday
 - CFRG Review - Thursday
 - Planning towards the ITU Plenipotentiary (Olaf to present): the presentation would cover technical and policy issues, meetings for the 6 regional telecommunication organizations, etc.  It was presented to the IAB-ISOC group and should be of interest to the whole IAB. Time: 20-30min (added by Alvaro) - Tuesday
 - 4052 and 4052bis (Mirja, Suresh)
 - [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (Dhruv) - Thursday
-- 2026 Retreat Planning (All) - Sunday 
 - [Age Workshop Report](https://mailarchive.ietf.org/arch/msg/architecture-discuss/kNuIv0Uz8xNqWnnjML5QYMu8168) and [Statement on Age Verification](https://docs.google.com/document/d/1py7Uzkh8puCNkwSqubxreu6pJranYA7dWoNEwkdu72I/edit?usp=sharing) (Mark) - Tuesday
 - ISE Survey Discussion (Jason) - Thursday
 - draft-sullivan-crypto-publication (Nick) - Sunday joint session
@@ -42,13 +39,13 @@ Details TBD
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 > Meetecho: 
+> - Joint Topic: draft-sullivan-crypto-publication (Nick)
 
 ### 14:00-16:00 - IAB Business Meeting (Room: Jiangsu)
 
 > Agenda:
 > 
-> 1. (If not already completed) IAB Chair Selection (Executive Session)
-> 2. [Finalize IAB Roles](/group/iab/First_Meeting) (Cindy)
+> 1. [Finalize IAB Roles](/group/iab/First_Meeting) (Cindy)
 >     - Program Leads and Members
 >     - Liaison Coordinators
 >     - IAB Liaison to the IESG
@@ -59,6 +56,8 @@ Details TBD
 >     - Tools Team Liaison 
 >     - Identify EODir Liaison
 >     - IAB Outreach Coordinator
+> 2. [IAB Meeting Times](https://docs.google.com/presentation/d/1xYNSFlD1BOxULcY6PkQY7R8uBbCx3zVKAnnXRU3l1ts/edit?usp=sharing) (Cindy)
+> 3. 2026 Retreat Planning (All)
 
 
 ### Evening Meeting Events
