@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-12T08:15:35.082Z
+date: 2026-03-12T16:24:14.221Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1042,6 +1042,29 @@ Specifically it will show how the draft SIMAP YANG model can be represented in R
   - https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/
   - https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
   - https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
+
+
+### DNS-Native Agent Naming and Resolution
+
+- **Champions**
+Yong Cui (cuiyong@tsinghua.edu.cn)
+Chenguang Du (ducg@zgclab.edu.cn)
+Yihan Chao (chao_yihan@outlook.com)
+
+- **Project Info**
+This project implements DN-ANR, a DNS-native resolution layer for AI agents. DN-ANR uses FQDNs as Agent Identifiers and resolves them to verifiable endpoints via standard DNS records (A, TXT, SVCB). The demo covers agent registration, version/protocol routing, descriptor integrity verification, and end-to-end agent invocation.
+
+- **Hackathon Plan**
+1. Demonstrate the Agent name resolution flow using CoreDNS and FastAPI-based agent servers.
+2. Validate the fallback mechanism and version routing strategies defined in the draft.
+3. Gather feedback on the draft specification.
+
+- **Specifications**
+[draft-cui-dns-native-agent-naming-resolution](https://datatracker.ietf.org/doc/draft-cui-dns-native-agent-naming-resolution/)
+
+- **Repository**
+https://github.com/nobrowning/DNS4Agent
+
   
   
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
