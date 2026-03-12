@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-03-11T15:11:01.104Z
+date: 2026-03-12T04:13:17.054Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -46,7 +46,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
-|draft-chen-pce-sr-mpls-sid-verification | Adopted 2026-01-14| Dhruv |
+|draft-ietf-pce-sr-mpls-sid-verification | Adopted 2026-01-14| Dhruv |
 |draft-ietf-pce-pcep-nrp|Adopted 2025-11-03 | Julien|
 
 
@@ -58,11 +58,11 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | --- | --- | --- |
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | EXPIRED; -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -09 posted on 2025-09-30 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -08 posted on 2025-08-17  | waiting for spring draft for WGLC |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -09 posted on 2026-02-20  | waiting for spring draft for WGLC |
 | draft-ietf-pce-pcep-srv6-yang |  -08 posted on 2025-10-14 | - |
-|draft-ietf-pce-bier-te | -02 posted on 2025-06-04 | Needs more review |
-| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -03 posted on 2025-10-20 | - |
-|draft-ietf-pce-pcep-bfd-parameters|-01 posted on 2025-08-20 | PLease handle adoption comments|
+|draft-ietf-pce-bier-te | -03 posted on 2026-01-06 | Needs more review |
+| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -04 posted on 2025-11-25 | - |
+|draft-ietf-pce-pcep-bfd-parameters|-02 posted on 2026-02-24 | - |
 | draft-ietf-pce-operational| -02 posted on 2025-12-22 | - | 
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
