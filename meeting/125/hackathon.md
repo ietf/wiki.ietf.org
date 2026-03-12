@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-12T04:28:32.938Z
+date: 2026-03-12T05:08:58.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1002,5 +1002,19 @@ https://github.com/LuciaCabanillasRodriguez/authz-policy-sharing-model
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  
+### ROVBench: A Benchmarking Framework for Route Origin Validation (ROV)
+- **Champion(s)**
+  - Libin Liu (liulb@zgclab.edu.cn)
+- **Project Info**
+  - Route Origin Validation (ROV) based on the Resource Public Key Infrastructure (RPKI) is increasingly deployed to improve BGP routing security. However, there is currently limited standardized methodology for evaluating the performance and behavior of routers implementing ROV.  
+  - An ongoing draft in the IETF BMWG defines a benchmarking methodology for routers supporting ROV, including procedures to evaluate VRP update processing, interactions between BGP and RPKI validation, and control-plane scalability.
+  - This project aims to explore how the proposed benchmarking methodology can be implemented in practice by building a small prototype benchmarking environment.
+- **Hackathon Plan**
+  - We will build a PoC prototype to explore how ROV benchmarking procedures can be implemented using existing open-source tools. The development will focus on two tasks:  
+    1. Prototype Testbed Construction: Build a container-based ROV test environment using tools such as BIRD, FRRouting, GoBGP, ExaBGP, Routinator, and Containerlab.  
+    2. Benchmark Scenario Exploration: Implement basic benchmark scenarios defined in the BMWG ROV benchmarking draft, including experiments related to VRP updates and BGP update processing.  
+- **Related Document**
+  - https://datatracker.ietf.org/doc/draft-lg-bmwg-benchmarking-methodology-for-rov/
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
