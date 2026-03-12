@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-12T07:27:30.366Z
+date: 2026-03-12T08:13:05.817Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1017,5 +1017,25 @@ https://github.com/LuciaCabanillasRodriguez/authz-policy-sharing-model
     2. Benchmark Scenario Exploration: Implement basic benchmark scenarios defined in the BMWG ROV benchmarking draft, including experiments related to VRP updates and BGP update processing.  
 - **Related Document**
   - https://datatracker.ietf.org/doc/draft-lg-bmwg-benchmarking-methodology-for-rov/
+  
+### Knowledge Graph based on SIMAP Connected with IVY
+
+- **Champions**
+Michael Mackey (michael.mackey@huawei.com)
+Olga Havel (olga.havel@huawei.com)
+Brad Peters (bradpeters@nbnco.com.au)
+
+- **Project Info**
+This project will demonstrate how existing IETF YANG Models and related instance data can be quickly converted into a Knowledge Graph. By using Semnatic Web Technologies, these models and data can easily be intergrated or extened with external ontologies to enhance the information present and allow graph queries across the data to find deep insights.
+
+Specifically it will show how the draft SIMAP YANG model can be represented in RDFS, how we can connect it to inventory information (represented by) and how it can be integrated with an external wider Ontology (represented by NORIA-O).
+
+- **In this project, we will do the following:**
+  - Create a RDFS version of the latest SIMAP model
+  - Create a RDFS version of the IVY models
+  - Import SIMAP instance data as RDF
+  - Import IVY instance data as RDF
+  - Dynamically create connections between the two and show how information can be queried. 
+  
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
