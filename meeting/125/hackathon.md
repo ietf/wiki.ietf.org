@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-11T11:53:16.983Z
+date: 2026-03-12T04:28:32.938Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -169,6 +169,19 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
 
+### Multi-Path Traffic Engineering
+
+-**Champions**
+Vishnu Pavan Beeram vishnu-pavan-kumar.beeram@hpe.com
+Jeffrey Zhang zhaohui.zhang@hpe.com
+-**Participants**
+Aaron Zhang (remote) aaronzhang194@gmail.com
+- **Project Info**
+Multi-Path Traffic Engineering [https://datatracker.ietf.org/doc/draft-kompella-teas-mpte/]    combines the best of multi-path (ECMP or Non-equal MP) and TE.  The multipathing proposed here need not be strictly equal-cost, nor the load balancing equally weighted to each next hop.  Moreover, the desired destination may be reachable via multiple egresses from multiple ingresses. Different protocols can be used to signal MPTE paths, including RSVP/BGP extensions [https://datatracker.ietf.org/doc/draft-kbr-teas-mptersvp/] [https://datatracker.ietf.org/doc/draft-zzhang-idr-mpte-signaling/].
+
+- **In this project, we will do the following:**
+  - Discuss with anyone interested in this technology
+  - Hack some POC code for the BGP signaling of MPTE in JUNOS and FRR and see what we can achieve in interop between the two POC implementations
 ### Task Discovery in AI Network
 -**Champions**
 Hesham Moussa hesham.moussa@huawei.com
