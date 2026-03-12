@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-12T08:13:05.817Z
+date: 2026-03-12T08:15:35.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1037,5 +1037,11 @@ Specifically it will show how the draft SIMAP YANG model can be represented in R
   - Import IVY instance data as RDF
   - Dynamically create connections between the two and show how information can be queried. 
   
-
+- **Related Document**
+  - https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
+  - https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/
+  - https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
+  - https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
+  
+  
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
