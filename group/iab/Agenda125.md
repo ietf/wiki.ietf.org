@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-11T16:07:23.672Z
+date: 2026-03-12T13:29:47.168Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -72,11 +72,11 @@ Details TBD
 
 
 
-### 13:15-14:15: IETF-3GPP Coordination (Room: Jiangsu)
+### 12:45-13:45: IETF-3GPP Coordination (Room: Jiangsu)
  
 ## Tuesday, 2026-03-17
 
-### 08:00-09:20 IAB Business Meeting (Room: VIP Room Level 2 #2)
+### 07:30-08:50 IAB Business Meeting (Room: VIP Room Level 2 #2)
 
 > Meetecho: 
 > 
@@ -91,12 +91,12 @@ Details TBD
 
 
 
-### 17:30-19:30 - IETF 125 Plenary (Room: Grand Ballroom 1/2)
+### 16:30-18:30 - IETF 125 Plenary (Room: Grand Ballroom 1/2)
 
 
 ## Thursday, 2026-03-19
 
-### 08:00-09:20 IAB Business Meeting (Room: VIP Room Level 2 #2)
+### 07:30-08:50 IAB Business Meeting (Room: VIP Room Level 2 #2)
 
 > Meetecho: 
 > 
@@ -117,14 +117,14 @@ Details TBD
 
 ## Friday, 2026-03-20 
 
-### 13:00-14:30 - Joint IAB/IESG Lunch and Meeting (Room: Jiangsu)
+### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting (Room: Jiangsu)
 
 > Meetecho: 
 > 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 
 
-### Time TBD: Farewell Reception 
+### 16:00-17:00: Farewell Reception (Room: Grand Ballroom 1/2)
 
 
 
