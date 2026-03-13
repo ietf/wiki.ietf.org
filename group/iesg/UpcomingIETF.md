@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-12T14:22:30.534Z
+date: 2026-03-13T04:31:59.112Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,7 +63,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Note2: Topics are prioritized if linked to IETF 125 events
 > 1. Finish any needed appeal processing
 > 2. IANA Update (Sabrina)
-> 3. Choosing liason representatives (Roman)
+> 3. [Choosing liaison representatives](https://docs.google.com/presentation/d/1SSI9A23XLhHIVE-ZAt77TuOyEBJj9iPynvsTMGDnjz0/edit?usp=sharing) (Roman)
 > 4. NomCom Feedback (Mike and Roman)
 > 5. Shepherd Template Update (Med)
 > 6. Check outstanding [DISCUSS positions](https://datatracker.ietf.org/iesg/discusses/) - Can we resolve any of these? (Ketan)
