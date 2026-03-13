@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-13T14:45:03.667Z
+date: 2026-03-13T16:51:05.929Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -60,15 +60,15 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Meetecho:
 > 
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
-> Note2: Topics are prioritized if linked to IETF 125 events
-> 1. Finish any needed appeal processing
-> 2. IANA Update (Sabrina)
-> 3. [Choosing liaison representatives](https://docs.google.com/presentation/d/1SSI9A23XLhHIVE-ZAt77TuOyEBJj9iPynvsTMGDnjz0/edit?usp=sharing) (Roman)
-> 4. [NomCom Feedback](https://docs.google.com/presentation/d/1gfO02jEf2FUMiREDHJhTm_E6gNQHxXy_-qRUikvrpJQ/edit?slide=id.p#slide=id.p) (Mike and Roman)
-> 5. Shepherd Template Update (Med)
-> 6. Check outstanding [DISCUSS positions](https://datatracker.ietf.org/iesg/discusses/) - Can we resolve any of these? (Ketan)
-> 7. Finalize exact dates (and time) for the IESG meeting in London (Éric)
+> Note2: Topics are prioritized if linked to IETF 125 events or if they are time sensitive
+> 1. [Call for moderator volunteers](https://docs.google.com/document/d/1ma-5_tIiSb17Sc_yL8eEw4We6OA1_EX9_iREgCvfWqI/edit?tab=t.0) (Roman)
+> 2. [Choosing liaison representatives](https://docs.google.com/presentation/d/1SSI9A23XLhHIVE-ZAt77TuOyEBJj9iPynvsTMGDnjz0/edit?usp=sharing) (Roman)
+> 3. Check outstanding [DISCUSS positions](https://datatracker.ietf.org/iesg/discusses/) - Can we resolve any of these? (Ketan)
+> 4. IESG Strategy Meeting Logistics (Roman)
+> 5. Introduction of [NomCom Feedback](https://docs.google.com/presentation/d/1gfO02jEf2FUMiREDHJhTm_E6gNQHxXy_-qRUikvrpJQ/edit?slide=id.p#slide=id.p) (Mike and Roman)
+> 7. IANA Update (Sabrina)
 > 8. RPC Update (Jean)
+> 9. Shepherd Template Update (Med)
 > 99.  -- more topics --
 > 100. Decide if a Monday meeting is needed (and agenda if needed)
 
