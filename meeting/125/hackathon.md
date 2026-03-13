@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-12T16:24:14.221Z
+date: 2026-03-13T03:06:44.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1064,6 +1064,27 @@ This project implements DN-ANR, a DNS-native resolution layer for AI agents. DN-
 
 - **Repository**
 https://github.com/nobrowning/DNS4Agent
+
+### Secure Hybrid Network Monitoring
+
+- **Champions**
+  * Yutaka Oiwa (AIST, Japan), y.oiwa@aist.go.jp
+
+- **Members**
+  * Satoru Kanno (GMO CONNECT, Inc., Japan), kanno@gmo-connect.jp
+  * Yumi Sakemi (GMO CONNECT, Inc., Japan), sakemi-yumi@gmo-connect.jp
+
+- **Project Info**
+  * We propose Secure Hybrid Network Monitoring for complex network environments such as hybrid cloud or mixed cloud settings. The Path Characteristics Service (PCS) enables users to verify whether their network path meets specified intents (e.g., data residency, VPN usage, operator constraints) by performing intent matching against actual path characteristics across multiple network domains.
+
+- **Hackathon Plan**
+  * Update the Internet-Draft to reflect the revised PCS concept: from network state retrieval to intent matching with match/unmatch responses.
+  * Develop a prototype PCS demo.
+  * Gather feedback on the updated draft specification.
+
+- **Specifications**
+  * [draft-oiwa-path-characteristics-service](https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/00/)
+  * [draft-oiwa-secure-hybrid-network](https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/02/)
 
   
   
