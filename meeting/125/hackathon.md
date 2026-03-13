@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T08:38:12.764Z
+date: 2026-03-13T11:10:52.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -263,7 +263,10 @@ At IETF 125, we plan to add more automation and others are invited to test inter
 
   - 3 main ways to combine attestation in TLS:
     - Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol))
-    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Intra-handshake attestation 
+      - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
+      - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-atte2station/)
+      - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
     - Post-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
   - **Hackathon plan**
   	- Discuss the nits of [relay attacks](https://mailarchive.ietf.org/arch/msg/seat/8tzc62Xe7sKnyInFHkMAx6z6QjU/)
@@ -271,6 +274,7 @@ At IETF 125, we plan to add more automation and others are invited to test inter
     - Discuss open issues
 	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
 		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+    - Formal evaluation of new proposals in SEAT
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
 
