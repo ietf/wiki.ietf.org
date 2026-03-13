@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T14:59:33.260Z
+date: 2026-03-13T15:21:06.210Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -758,6 +758,9 @@ https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
 
 - **Repository**
 https://github.com/ietf-rats-wg/key-attestation
+
+- **Communications**
+We will use the a Google Meet from 10:00 to 16:00 (local time) on Saturday and Sunday: https://meet.google.com/efs-pixm-xdi
 
 ### OAuth Delegated Authorization for AI Agents
 
