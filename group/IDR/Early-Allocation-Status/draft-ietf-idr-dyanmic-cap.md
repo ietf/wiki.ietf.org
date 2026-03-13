@@ -2,7 +2,7 @@
 title: Additional Information for Dynamic Capabilities (draft-ietf-idr-dynamic-cap) prior to Early Allocation 
 description: Background on draft-ietf-idr-dynamic-cap Early Allocation
 published: true
-date: 2026-03-13T17:00:26.434Z
+date: 2026-03-13T17:53:48.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-13T17:00:26.434Z
@@ -16,7 +16,17 @@ This page provides background on this early allocation.
 
 ## Reviews 
 ### IDR RTGdir 
-https://datatracker.ietf.org/doc/review-ietf-idr-dynamic-cap-18-rtgdir-early-decraene-2026-02-19/
+Reviewer: Bruno Decreane 
+[review](https://datatracker.ietf.org/doc/review-ietf-idr-dynamic-cap-18-rtgdir-early-decraene-2026-02-19/) 
+[email discussion on IDR](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
 
-## BGPDIR  
+Major Points: 
 
+
+### BGPDir Review 
+Reviewer: Alvaro Retana 
+[review]:(https://datatracker.ietf.org/doc/review-ietf-idr-dynamic-cap-19-bgpdir-early-retana-2026-03-02/)
+
+
+
+### IDR Chairs review 
