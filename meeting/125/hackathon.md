@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T03:06:44.540Z
+date: 2026-03-13T08:38:12.764Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -833,7 +833,7 @@ This project leverages LLMs to automatically construct knowledge graphs from con
 1. https://github.com/xmzzyo/draft_llm_nm
 2. https://github.com/nniujl/draft-nmop-cui-nkg-gateway
 
-### Packet Content Filtering for BGP FlowSpec
+### Extending BGP FlowSpec with Packet Content Matching
 
 - **Champions**
 Yujia Gao (gaoyj@zgclab.edu.cn)
