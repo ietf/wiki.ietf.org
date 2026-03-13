@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T14:23:47.613Z
+date: 2026-03-13T14:59:33.260Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -818,6 +818,11 @@ Zhuoran Ma (mazhuoran@hnu.edu.cn)
 - **Project Info** 
 Current RPKI Relying Parties (RPs) strictly block new data distribution to routers until the entire global repository is fetched and validated. As the RPKI ecosystem expands, this blocking approach creates a systemic bottleneck and delays critical routing security updates. 
 This project introduces cc-pipe, a concurrent and conflict-free pipeline that decouples RPKI-to-Router (RTR) distribution from data synchronization and cryptographic validation. This implementation uses a predictive Conflict Graph to track data dependencies, safely streaming Validated ROA Payload (VRP) updates to BGP routers. Additionally, it employs aggregated update pacing and an extended cache retention policy to reduce router CPU overhead and prevent costly reset queries. It reduces latency while strictly preserving the routing stability intended by RFC 8210.
+- **Hackthon Plan**
+Our Hackathon project will focus on three primary tasks:
+  * Deployment & Benchmarking: Deploy the cc-pipe relying party to demonstrate latency improvements over traditional RPs.
+  * Interoperability Testing: Establish standard RTR sessions with BGP routers (e.g., FRRouting, BIRD, or commercial implementations) to evaluate real-world performance and uncover potential edge-case issues.
+  * Community Discussion: Share our findings and discuss the architectural impact of cc-pipe with the community.
 - **Related Documents**
 https://www.rfc-editor.org/rfc/rfc8210.html
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/
