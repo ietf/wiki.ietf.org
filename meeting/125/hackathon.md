@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T15:21:06.210Z
+date: 2026-03-13T17:21:42.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -31,7 +31,7 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda 
 ***Subject to Change***
-Hackathon *(all times are GMT-4)*
+Hackathon *(all times are UTC+8)*
 
 ### Saturday, 14 March 
 
