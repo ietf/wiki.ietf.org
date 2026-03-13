@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T11:25:05.152Z
+date: 2026-03-13T14:23:47.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -717,7 +717,7 @@ Current RPKI Route Origin Validation (ROV) treats all validation data equally. H
 - **Hackathon Plan**
 We will build a Proof of Concept (PoC) to demonstrate the multi-priority RPKI Route Origin Validation (ROV) framework. Our development will focus on two core tasks:
   1. RTR Protocol Extension: Modify the RPKI-to-Router (RTR) protocol to allow Protocol Data Units (PDUs) to explicitly carry priority levels for validated RPKI payloads from the cache server to the router.
-  2. Priority-Aware ROV via OpenBGPD: Parse RTR priority attributes to support multi-priority validation states and enable differentiated BGP routing policies (e.g., discard vs. lower Local Preference).
+  2. Priority-Aware ROV: Parse RTR priority attributes to support multi-priority validation states and enable differentiated BGP routing policies (e.g., discard vs. lower Local Preference).
 
 
 - **Related Document**
