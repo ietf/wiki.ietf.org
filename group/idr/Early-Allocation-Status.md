@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-03-13T16:32:51.239Z
+date: 2026-03-13T18:34:36.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -12,11 +12,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 ## Pending early allocations -  
 
-### BGP features 
+### BGP Core Features  
 ### draft-ietf-idr-dynamic-cap
-| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Next step | Review Page |    
-|---|---|---|---|---|---|---|
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Next step | Review Page |
+|---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-dyanmic-cap](http::/datatracker.ietf.org/doc/draft-ietf-idr-idr-dynamic_capability) | BGP messages | BGP Parameters | TBD | Dyanmic Capability | WG draft -19 | Must resolve RTG-DIR + BGPdir comments | [Reviews and info](/group/IDR/Early-Allocation-Status/draft-ietf-idr-dyanmic-cap/)
+{.dense}
 
 ### SR Policy Segment List Sub-TLVs  
 #### (draft-ietf-idr-sr-policy-safi registries)  
