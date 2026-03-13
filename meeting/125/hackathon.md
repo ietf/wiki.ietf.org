@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T11:10:52.102Z
+date: 2026-03-13T11:25:05.152Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1051,9 +1051,10 @@ Specifically it will show how the draft SIMAP YANG model can be represented in R
 ### DNS-Native Agent Naming and Resolution
 
 - **Champions**
-Yong Cui (cuiyong@tsinghua.edu.cn)
-Chenguang Du (ducg@zgclab.edu.cn)
-Yihan Chao (chao_yihan@outlook.com)
+Yong Cui (Tsinghua University) cuiyong@tsinghua.edu.cn
+Chenguang Du (Zhongguancun Lab) ducg@zgclab.edu.cn
+Siyu Deng (CNNIC) siyudeng1003@gmail.com
+Yihan Chao (Zhongguancun Lab) chao_yihan@outlook.com
 
 - **Project Info**
 This project implements DN-ANR, a DNS-native resolution layer for AI agents. DN-ANR uses FQDNs as Agent Identifiers and resolves them to verifiable endpoints via standard DNS records (A, TXT, SVCB). The demo covers agent registration, version/protocol routing, descriptor integrity verification, and end-to-end agent invocation.
