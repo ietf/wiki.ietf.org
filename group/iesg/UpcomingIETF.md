@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-13T16:51:05.929Z
+date: 2026-03-14T00:22:37.865Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -27,17 +27,17 @@ Please add any topics for either IESG only meetings at IETF 125, or the joint me
 > Not-required activities:
 > 
 >  **Hackathon**, 09:30-20:00
->     Room: TBD
+>     Room: Shangri-La Ballroom 1/2
 >  **Code Sprint**, 10:00-18:00
->    Room: TBD
+>    Room: Chairman (40th Floor)
 {.is-info}
 
 
 
 ### AMS-IETF Leadership Venue Tour & Happy Hour
 The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
-**Tour:** TBD
-**Happy Hour:** Starts at the end of the tour (exact details TBD)
+
+Please meet us in the 2nd Floor Foyer, near Registration to begin our tour. If you are only joining for the happy hour, we will be in Chairman's Outdoor Area located on the 40th floor) by 17:20
 
 
 
@@ -57,7 +57,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 ### 09:30-11:30 - IESG Meeting (Room: Jiangsu)
 
 
-> Meetecho:
+> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1001
 > 
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
 > Note2: Topics are prioritized if linked to IETF 125 events or if they are time sensitive
@@ -74,7 +74,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Jiangsu)
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1001
 > 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
@@ -87,11 +87,11 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > Evening meeting events:
 > 
 > **New Participant's Quick Connections** 16:00-17:00
->   Room: TBD
+>   Room: Chairman: Outdoor Area
 > **Welcome Reception** 17:00-19:00
->   Room: TBD
+>   Room: Grand Ballroom 1/2
 > **HotRFC Lightning Talks** 18:00-20:00
->   Room: TBD
+>   Room: Grand Ballroom 3
 {.is-info}
 
 
@@ -99,7 +99,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 07:30-08:50 - IESG Meeting (Room: Jiangsu)
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1002
 > 
 >1. Agenda topics TBD?
  
@@ -112,7 +112,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 ## Wednesday, March 18, 2026
 ### 07:30-08:50 IESG Meeting  (Room: Jiangsu)
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1005
 > 
 > Agenda:
 > 1. Plenary Slide Review + Prep
@@ -130,8 +130,8 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 > Non-required event:
 > 
-> **New Participants' Social Hour** Time: TBD
-> Room: TBD
+> **New Participants' Social Hour** Time: 18:15-19:15
+> Room: Cafe Zen Outdoor Area
 > Opportunity to socialize with new participants and hear how their meeting week has been
 {.is-info}
 
@@ -140,7 +140,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting (Room: Jiangsu)
 
-> Meetecho: 
+> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1007
 > 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
