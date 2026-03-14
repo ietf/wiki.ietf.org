@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-03-14T04:20:07.422Z
+date: 2026-03-14T04:20:17.520Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T17:56:30.483Z
