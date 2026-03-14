@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T10:53:32.733Z
+date: 2026-03-14T10:57:18.224Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -593,7 +593,7 @@ The Next-Generation Inter-Domain Routing Architecture and Protocols(IDRNG) foste
 2. Learn and align with IETF/IRTF automation interfaces for routing control and telemetry (NETCONF/RESTCONF/YANG).
 3. Develop a large-scale IDR simulation demo based on AS-relationship (as-rel) data, and conduct red/blue experiments (e.g., route hijack/leak injection and detection/mitigation) with measurable outcomes.
 
-- **Repository** -
+- **Repository** 
 https://github.com/IDRNG
 
 ### Agent Protocol Security
