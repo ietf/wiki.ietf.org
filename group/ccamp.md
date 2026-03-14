@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-14T08:20:47.027Z
+date: 2026-03-14T08:24:29.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -32,7 +32,7 @@ Integrating YANG Configuration and Management into an Abstraction and Control of
 
 > Updates as per IETF 125 (14/03/2026):
 > Revision: -04
->Last update: 30th November 2025
+> Last update: 30th November 2025
 >Status:
 > -	I-D is on hold waiting for stability of referenced YANG models
 > -	All references are Informative, but stability is key
@@ -80,14 +80,16 @@ A YANG Data Model for Ethernet TE Topology
 
 **- draft-ietf-ccamp-flexe-yang-cm-06**
 YANG Data Model for FlexE Management
-> Update as per IETF 124 (28/10/2025):
-> The technical content has been stable since Version 03.
+> Updates as per IETF 125 (14/03/2026):
+> Current Version: 07
+> Content Stability: The technical content has been stable since Version 03.
 > Version 03 Major Updates:
 > - Update the YANG tree diagram based on the feedback from RTGDIR and YANGDOCTORS
-> -- Update leaf “total-bandwidth” and “sync-phy-number” of flexe-group to be optional 
-> -- Update leaf “free-timeslot-list” and “used-timeslot-list” of flexe-phy to be optional
-> -- Rename container “flexe-client” to “flexe-clients” so that all clients configured in the same FlexE Group can be supported.
-> - Subsequent versions (V04, V05, V06) only include version updates
+> - Update leaf “total-bandwidth” and “sync-phy-number” of flexe-group to be optional 
+> - Update leaf “free-timeslot-list” and “used-timeslot-list” of flexe-phy to be optional
+> - Rename container “flexe-client” to “flexe-clients” so that all clients configured in the same FlexE Group can be supported.
+> - Subsequent versions (V04, V05, V06 and V07) only include version updates.
+
 > Authors believe it is ready for WGLC
 
 
