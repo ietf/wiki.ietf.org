@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-14T09:57:26.480Z
+date: 2026-03-14T11:38:42.957Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -50,10 +50,13 @@ Integrating YANG Configuration and Management into an Abstraction and Control of
 **- draft-ietf-ccamp-client-signal-yang-16**
 A YANG Data Model for Transport Network Client Signals
 
-> Update as per IETF 124 (27/10/2025):
-> This I-D has not been updated since IETF 123
-> The model for transparent clients is stable and ready to proceed WG LC, while the model for ETH clients still have some issues and may need more time
-> Next steps:
+> Update as per IETF 125 (14/03/2026):
+
+> No updates on this I-D since IETF 124:
+> - Refreshed on February 4, 2026 just to avoid expiration
+> -	The model for transparent clients is stable and ready to proceed WG LC, while the model for ETH clients still have some issues and may need more time
+ 
+>Next steps:
 > -	Evaluate the interests to split and proceed separately
 
 
