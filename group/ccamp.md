@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-04T10:13:43.548Z
+date: 2026-03-14T08:20:47.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -30,19 +30,16 @@ Please contact the CCAMP chairs or secretary if you would like to see any WG rel
 **- draft-ietf-ccamp-actn-optical-transport-mgmt**
 Integrating YANG Configuration and Management into an Abstraction and Control of TE Networks (ACTN) System for Optical Networks
 
-> Updates as per IETF 124 (31/10/2025):
-> v-03 posted 28th May 2025
-> OpsDir review by Gyan Mishra 2nd July 2025
-> - Main items:
-> -- “FCAPS” should be replaced by “NMS”
-> --Should focus on “ACTN RDNM”
-> - Authors suggested actions:
-> -- Rederess the balance of 56 instances of FCAPS and only 25 RDNM
-> --	Include some suggested text from Gyan on FCAPS vs NMS
-> This is a living document that steers other YANG work
-> --	Will not complete until all requirements are met
-> --	All references need to become normative
->	Plan an update “SOON”
+> Updates as per IETF 125 (14/03/2026):
+> Revision: -04
+>Last update: 30th November 2025
+>Status:
+> -	I-D is on hold waiting for stability of referenced YANG models
+> -	All references are Informative, but stability is key
+> -	Most WG YANG models are well advanced, but not at WGLC
+> -	Some YANG models are still individual I-Ds
+> -	Authors are aware of two Editor Notes that need text
+> -	There was one issue about the “overuse” of the term “FCAPS”. Authors will polish the text
 
 
 
