@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-13T17:21:42.006Z
+date: 2026-03-14T01:13:23.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1099,6 +1099,16 @@ https://github.com/nobrowning/DNS4Agent
   * [draft-oiwa-path-characteristics-service](https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/00/)
   * [draft-oiwa-secure-hybrid-network](https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/02/)
 
+### SCONE Interop
+
+- **Champions**
+  * Marcus Ihlar (marcus.ihlar@ericsson.com)
+
+- **Project Info**
+	* Interop testing of SCONE protocol (https://datatracker.ietf.org/wg/scone/about/)
+ 
+- **Specifications**
+  * [draft-ietf-scone-protocol](https://datatracker.ietf.org/doc/draft-ietf-scone-protocol/)
   
   
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
