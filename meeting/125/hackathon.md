@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T03:14:47.008Z
+date: 2026-03-14T03:41:38.470Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1126,6 +1126,18 @@ https://github.com/nobrowning/DNS4Agent
 - **Related Issue**
 
    https://github.com/CESNET/libyang/issues/2130 – feature request for CBOR support in data serializers 
+   
+ ### Pegasus: Deep Learning Framework on the Dataplane
+
+- **Champions**
+	- Onsite : 
+    Yinchao Zhang (afireswallow@gmail.com)
+
+- **Project Info**
+	We propose Pegasus, an Intelligent Dataplane framework that resolves the architectural mismatch between complex Deep Learning models and flow-centric network hardware. By translating DL models into hardware-native primitives using fuzzy matching and primitive fusion, Pegasus enables line-rate, real-time AI inference for next-gen network security.
+
+- **Repository**
+	https://github.com/afireswallow/pegasus
   
   
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
