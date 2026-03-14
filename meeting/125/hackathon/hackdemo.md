@@ -2,14 +2,14 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-03-14T04:20:17.520Z
+date: 2026-03-14T10:11:00.926Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T17:56:30.483Z
 ---
 
 # Hackdemo Happy Hour
-16 March, Time: 19:00 - 20:00, Room: TBD
+16 March, Time: 18:00 - 19:00, Room: Level 2 Foyer
 
 Join us for an in depth look at some of the great projects from the IETF Hackathon. This is your opportunity to meet with the teams behind the projects and get answers to any and all of the questions you may have about what they did, how they did it, and the impact it has on work going on at the IETF. 
 
