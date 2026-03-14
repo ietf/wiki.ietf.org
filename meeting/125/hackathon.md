@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T03:41:38.470Z
+date: 2026-03-14T04:04:03.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1126,7 +1126,39 @@ https://github.com/nobrowning/DNS4Agent
 - **Related Issue**
 
    https://github.com/CESNET/libyang/issues/2130 – feature request for CBOR support in data serializers 
-   
+
+### PacketScope: LLM-Powered eBPF for Protocol Stack Defense
+
+* **Champions**
+    * Zhaoxi Li (li-zx24@mails.tsinghua.edu.cn)
+    * Yuxiang Yang (yangyx22@mails.tsinghua.edu.cn)
+
+* **Project Info**
+    PacketScope is a general-purpose protocol stack analysis and debugging tool based on eBPF. It integrates performance optimization, anomaly diagnosis, and security defense to provide fine-grained tracing and intelligent analysis of network packets at the protocol stack level. The project aims to solve common pain points such as difficult diagnosis of performance bottlenecks, unclear packet transmission paths, and hard-to-detect low-level protocol attacks (e.g., at layers below traditional WAF/IDS).
+
+    The tool consists of three main microservice modules:
+    1.  **Analyzer:** Provides multidimensional statistics on packet movement (latency, packet loss, etc.) and visualizes cross-layer data flow.
+    2.  **Tracer:** Maps network routes and latency from the host to any global IP, visualizing the data on a global topology.
+    3.  **Guarder:** Filters and controls abnormal packets using customizable rules and leverages an intelligent engine (LLM) to provide context for potential threats.
+
+* **Hackathon Goals**
+    * Deploy PacketScope in the IETF hackathon network testbed to monitor and analyze live traffic.
+    * Evaluate and enhance the `Guarder` module's rule-based engine for detecting and mitigating low-level protocol attacks and anomalies.
+    * Test the `Analyzer` module's ability to identify performance bottlenecks and trace packet paths within complex network topologies.
+    * Explore potential integrations between PacketScope's eBPF-based telemetry and other network management or security tools.
+    * Develop and test new eBPF probes for tracing interactions with specific protocols being discussed at the IETF.
+    * Gather feedback on the tool's usability and visualization for network operators and security engineers.
+    
+    **GitHub Repo:** https://github.com/Internet-Architecture-and-Security/PacketScope
+    **Project Docs:** https://internet-architecture-and-security.github.io/packetScope-website/
+    **Live Demo:** http://82.156.141.213:4173/
+
+* **Specifications**
+- Problem Statement for Cross-Layer Vulnerabilities due to Forged ICMP Errors (https://datatracker.ietf.org/doc/draft-xu-intarea-vulnerabilities-forged-icmp/)
+- Enhancing ICMP Error Message Authentication Using Challenge-Confirm Mechanism (https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv4/)
+- Enhancing ICMPv6 Error Message Authentication Using Challenge-Confirm Mechanism (https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv6/)
+
+
  ### Pegasus: Deep Learning Framework on the Dataplane
 
 - **Champions**
