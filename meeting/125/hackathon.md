@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T09:03:05.908Z
+date: 2026-03-14T09:03:11.218Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1220,7 +1220,7 @@ Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) usi
 	- Onsite : 
     Kun Liu (liukun@iie.ac.cn)
 - **Project Info**
-	Fully homomorphic encryption (FHE) is often hailed as the “Holy Grail” of cryptography. It enables direct computations on encrypted data. By encrypting data on the client side and sending the ciphertext to the server, we can fully leverage the server’s computational power while ensuring data security. With continuous breakthroughs in underlying algorithms and hardware acceleration technologies, research into the practical applications of FHE is flourishing. Utilizing the properties of homomorphic encryption for online artificial intelligence processing has gradually become a hot research topic. Our goal is to explore various application scenarios for homomorphic encryption while improving its transmission and computation speeds to enhance its practicality..
+	Fully homomorphic encryption (FHE) is often hailed as the “Holy Grail” of cryptography. It enables direct computations on encrypted data. By encrypting data on the client side and sending the ciphertext to the server, we can fully leverage the server’s computational power while ensuring data security. With continuous breakthroughs in underlying algorithms and hardware acceleration technologies, research into the practical applications of FHE is flourishing. Utilizing the properties of homomorphic encryption for online artificial intelligence processing has gradually become a hot research topic. Our goal is to explore various application scenarios for homomorphic encryption while improving its transmission and computation speeds to enhance its practicality.
 
 Translated with DeepL.com (free version)
 - **Related Documents**
