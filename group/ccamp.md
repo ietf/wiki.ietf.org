@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-14T11:43:58.109Z
+date: 2026-03-14T11:49:17.739Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -132,8 +132,17 @@ A YANG Data Model for Optical Impairment-aware Topology
 > Version 12 reviewed by YANG doctors. Make sure comments are addressed. Cluster with RFC9093 bis
 
 
-**- draft-ietf-ccamp-optical-path-computation-yang-00**
+**- draft-ietf-ccamp-optical-path-computation-yang**
 YANG Data Models for requesting Path Computation in Optical Networks
+> Update as per IETF 125 (14/03/2026):
+
+> No technical updates on this I-D since IETF 124:
+> -	Refreshed on February 27, 2026 just to avoid expiration
+
+> Next steps:
+> -	Align with the WDM tunnel model once it is stable
+> -	Complete the model description
+
 
 **- draft-ietf-ccamp-otn-path-computation-yang-06**
 A YANG Data Model for requesting Path Computation in an Optical Transport Network (OTN)
