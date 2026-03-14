@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-14T11:51:24.761Z
+date: 2026-03-14T11:53:32.042Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -146,12 +146,12 @@ YANG Data Models for requesting Path Computation in Optical Networks
 > -	Complete the model description
 
 
-**- draft-ietf-ccamp-otn-path-computation-yang-06**
+**- draft-ietf-ccamp-otn-path-computation-yang**
 A YANG Data Model for requesting Path Computation in an Optical Transport Network (OTN)
-> Update as per IETF 124 (27/10/2025):
-> This I-D has just been refreshed on October 15th, 2025 to avoid expiration
-> The draft is almost ready for WG LC: depending on the TE Tunnel and path computation models in TEAS WG and on the OTN tunnel model in CCAMP WG
-> Just need to align it with the latest changes of the models it has dependency: it could be done right before starting the WG LC process
+> Update as per IETF 125 (14/03/2026):
+> No updates on this I-D since IETF 124:
+> - The draft is almost ready for WG LC: depending on the TE Tunnel and path computation models in TEAS WG and on the OTN tunnel model in CCAMP WG
+> -	Just need to align it with the latest changes of the models it has dependency: it could be done right before starting the WG LC process
  
 
 
