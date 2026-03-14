@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-14T08:24:29.987Z
+date: 2026-03-14T09:57:26.480Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -157,6 +157,14 @@ OTN Tunnel YANG Model
 **- draft-ietf-ccamp-rfc9093-bis-04**
 A YANG Data Model for Layer 0 Types
 >Version 04 reviewed by YANG doctors. Make sure comments are addressed. Ready with issues. Cluster with optical impairments draft.
+
+
+**- draft-ietf-ccamp-tsvmode-signaling**
+Conveying Transceiver-Related Information within RSVP-TE Signaling
+> Updates as per IETF 125 (14/03/2026):
+> - Authors are waiting for the final versions of draft-ietf-ccamp-optical-impairment-topology and draft-ietf-ccamp-dwdm-if-param-yang to be published.
+> - After that, authors will make a final alignment of the draft to become ready for the next stage.
+
 
 **- draft-ietf-ccamp-wson-tunnel-model-08**
 A Yang Data Model for WSON Tunnel
