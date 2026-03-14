@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T10:29:28.079Z
+date: 2026-03-14T10:29:58.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -134,9 +134,6 @@ If you received the email but the link to create an account has expired, please 
 ## Network
 
 **Access to the IETF network**
-The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
-
-* [How to Instructions](/meeting/124/hackathon/hacknet_instructions)
 
 Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
