@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T09:03:11.218Z
+date: 2026-03-14T09:04:19.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1214,7 +1214,6 @@ Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) usi
   https://datatracker.ietf.org/doc/draft-wang-rats-distributed-remote-attestation/
 
 
-*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
 ### Applications of homomorphic encryption
 - **Champions**
 	- Onsite : 
