@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T10:25:47.017Z
+date: 2026-03-14T10:29:28.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -127,7 +127,7 @@ If you received the email but the link to create an account has expired, please 
      
 ### Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/122/session/33500/propose_slides) at 14:00-16:00.
+  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/125/session/35301/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
     * DO NOT WAIT until just before the start of the Hackathon project presentations to upload your presentation, as it may be lost in the chaos.
 
