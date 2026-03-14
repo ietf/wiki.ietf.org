@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T05:53:05.840Z
+date: 2026-03-14T08:56:00.542Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1190,6 +1190,28 @@ https://github.com/nobrowning/DNS4Agent
 
 - **Related Documents**
   https://datatracker.ietf.org/doc/draft-jia-oauth-scope-aggregation
+
+
+
+### Bridging the Transparency Gap: Distributed Remote Attestation
+
+- **Champions**
+  - Onsite:
+    Donghui Wang (wangdonghui124@huawei.com)
+    Yuning Jiang (jiangyuning2@h-partners.com)
+    
+- **Project Info**
+   This project explores a distributed architecture for remote attestation that enables reusable attestation artifacts across multiple verifiers and trust domains. In many real-world deployments, each administrative domain operates its own Remote Attestation Service (RAS) and verifier, making cross-domain attestation verification difficult. Additionally, verifiers often need to obtain reference values, endorser public keys, and endorsements from multiple providers, creating a many-to-many distribution problem that does not scale with point-to-point integrations.
+   The proposed approach introduces a shared publication channel for selected attestation artifacts—such as endorser public keys, endorsements, reference values, and optionally attestation results—while preserving provenance, integrity, and access control. The current draft explores a distributed-ledger-based realization of this artifact distribution mechanism, enabling verifiers and relying parties to discover and reuse attestation artifacts across domains.
+
+- **Hackathon Goal**
+Build a prototype demonstrating distributed publication and retrieval of remote attestation artifacts across domains.
+
+- **Hackathon Plan**
+Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) using the forked Go TLS 1.3 stack with the 0xFFA5 evidence extension, verifying that CertificateVerify correctly binds evidence to the session transcript.
+
+- **Related Documents**
+  https://datatracker.ietf.org/doc/draft-wang-rats-distributed-remote-attestation/
 
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
