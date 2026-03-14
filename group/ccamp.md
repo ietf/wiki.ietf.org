@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-14T11:49:17.739Z
+date: 2026-03-14T11:51:24.761Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -70,14 +70,16 @@ A YANG model to manage the optical interface parameters for an external transpon
 > YANG doctor review received, action needed: https://mailarchive.ietf.org/arch/msg/ccamp/7flbP3yQcUxelSSxg9FRFYUmCJA/
 
 
-**- draft-ietf-ccamp-eth-client-te-topo-yang-10**
+**- draft-ietf-ccamp-eth-client-te-topo-yang**
 A YANG Data Model for Ethernet TE Topology
-> Update as per IETF 124 (27/10/2025): 
-> The I-D has just been refreshed on October 15th, 2025 to avoid expiration
-> Next steps:
-> -	Align with Packet TE Topology, together with updates to the > client-signal model
+> Update as per IETF 125 (14/03/2026): 
+> No updates on this I-D since IETF 124:
+ 
+>Next steps:
+> -	Align with Packet TE Topology, together with updates to the client-signal model
 > -	Align with the other topology models to support multi-layer single-instance topo
 > -	Complete the model description
+
 
 
 
