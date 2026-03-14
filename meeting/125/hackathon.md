@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T04:17:23.770Z
+date: 2026-03-14T05:53:05.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -955,14 +955,14 @@ Ciphertext computing and protocol design for future network
 Tuesday, March 17, 2026 11:15-12:15 ( Asia/Shanghai ) · Jiangsu
 
 
-### IPv6 Network Deployment Monitoring and Analysis Platform
+### IPv6 Network Traffic Monitoring and Analysis Platform
 - **Champions**
 Jing Zhao (zhaoj501@chinaunicom.cn)
 Tianyi Huang (tyhuang@cnic.cn)
 - **Project Info**
 This project addresses the core operational challenges in large-scale IPv6 deployment by building an end-to-end IP network traffic monitoring and analysis platform that spans home broadband, mobile networks, bearer networks, and applications, enabling multi-dimensional monitoring of traffic and quality along with intelligent big data analytics to deliver differentiated services.
 - **Related Document**
-[draft-pang-v6ops-ipv6-monitoring-deployment-05]https://datatracker.ietf.org/doc/draft-pang-v6ops-ipv6-monitoring-deployment/
+[draft-pang-v6ops-ipv6-monitoring-deployment-05]
 ----
 
 ### Applying YANG Provenance Signatures to CBOR Objects
