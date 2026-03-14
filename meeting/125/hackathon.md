@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T08:56:00.542Z
+date: 2026-03-14T08:58:23.653Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1215,3 +1215,11 @@ Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) usi
 
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
+### Homomorphic encryption related applications
+- **Champions**
+	- Onsite : 
+    Kun Liu (liukun@iie.ac.cn)
+- **Project Info**
+	Fully homomorphic encryption (FHE) is hailed as the "holy grail" of cryptography. It allows direct computation on encrypted data. By encrypting data on the client side and sending the ciphertext to the server, we can leverage the server's computational power while ensuring data security. With continuous breakthroughs in underlying algorithms and hardware acceleration, research into practical applications of FHE is booming. Utilizing the properties of homomorphic encryption for online AI processing has gradually become a research hotspot.Our goal is to explore some application scenarios for homomorphic encryption.
+- **Related Documents**
+https://github.com/Lance-Bai/fhe_processor.git
