@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T08:58:23.653Z
+date: 2026-03-14T08:58:46.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1215,7 +1215,7 @@ Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) usi
 
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
-### Homomorphic encryption related applications
+### Applications of homomorphic encryption
 - **Champions**
 	- Onsite : 
     Kun Liu (liukun@iie.ac.cn)
