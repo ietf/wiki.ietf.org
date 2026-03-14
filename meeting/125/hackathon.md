@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T01:13:23.724Z
+date: 2026-03-14T01:25:42.610Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1109,6 +1109,23 @@ https://github.com/nobrowning/DNS4Agent
  
 - **Specifications**
   * [draft-ietf-scone-protocol](https://datatracker.ietf.org/doc/draft-ietf-scone-protocol/)
+  
+ ### CBOR Support in libyang
+
+- **Champions**
+	- Remote : 
+    Siddharth Bhat (sidbhat.211ee151@nitk.edu.in)
+    Bharadwaja M. Chittapragada (meher.211cs216@nitk.edu.in)
+    Vartika T. Rao (vartikatrao.211it077@nitk.edu.in)
+    Hayyan Arshad (hayyanarshad.211cs222@nitk.edu.in)
+
+- **Project Info**
+
+  Our goal is to extend libyang, the widely used YANG data-modeling library written in C, by implementing full CBOR (Concise Binary Object Representation) support—both serialization and parsing—for YANG-modeled data.
+
+- **Related Issue**
+
+   https://github.com/CESNET/libyang/issues/2130 – feature request for CBOR support in data serializers 
   
   
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
