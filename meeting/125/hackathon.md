@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T10:36:55.083Z
+date: 2026-03-14T10:53:32.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -168,10 +168,10 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
 
 ### Multi-Path Traffic Engineering
 
--**Champions**
+- **Champions**
 Vishnu Pavan Beeram vishnu-pavan-kumar.beeram@hpe.com
 Jeffrey Zhang zhaohui.zhang@hpe.com
--**Participants**
+- **Participants**
 Aaron Zhang (remote) aaronzhang194@gmail.com
 - **Project Info**
 Multi-Path Traffic Engineering [https://datatracker.ietf.org/doc/draft-kompella-teas-mpte/]    combines the best of multi-path (ECMP or Non-equal MP) and TE.  The multipathing proposed here need not be strictly equal-cost, nor the load balancing equally weighted to each next hop.  Moreover, the desired destination may be reachable via multiple egresses from multiple ingresses. Different protocols can be used to signal MPTE paths, including RSVP/BGP extensions [https://datatracker.ietf.org/doc/draft-kbr-teas-mptersvp/] [https://datatracker.ietf.org/doc/draft-zzhang-idr-mpte-signaling/].
@@ -179,8 +179,9 @@ Multi-Path Traffic Engineering [https://datatracker.ietf.org/doc/draft-kompella-
 - **In this project, we will do the following:**
   - Discuss with anyone interested in this technology
   - Hack some POC code for the BGP signaling of MPTE in JUNOS and FRR and see what we can achieve in interop between the two POC implementations
+
 ### Task Discovery in AI Network
--**Champions**
+- **Champions**
 Hesham Moussa hesham.moussa@huawei.com
 Arashmid Akhavain arashmid.akhavain@huawei.com
 - **Project Info**
@@ -210,11 +211,11 @@ High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, l
 Thanks to Tim Chown for Hackathon input. 
 
 - **Hackathon Plan**
-1.Discuss HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
-2.Agree common HPWAN service model parameters for scheduled services
-3.Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
-4.Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
-5.Work on HPWAN monitoring requirements and identify which IETF protocols and models could be used for cooperation between HPWAN domains.
+  1. Discuss HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
+  2. Agree common HPWAN service model parameters for scheduled services
+  3. Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
+  4. Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
+  5. Work on HPWAN monitoring requirements and identify which IETF protocols and models could be used for cooperation between HPWAN domains.
 
 - **Related documents**
 Framework for High Performance Wide Area Network (HP-WAN)
