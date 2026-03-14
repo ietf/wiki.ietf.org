@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T04:08:58.601Z
+date: 2026-03-14T04:17:23.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -512,6 +512,9 @@ Multi-agent collaboration has been widely studied as an effective approach for a
 
 - **Related documents**
 https://datatracker.ietf.org/doc/draft-chang-agent-context-interaction/ 
+
+- **Repository**
+https://github.com/agent-context-interaction/IETF-Hackathon-125-Optimizing-Agent-Context-Interaction
 
 ### Agent Communication Gateway for Semantic Routing and Working Memory
 - **Champions**
@@ -1180,6 +1183,10 @@ https://github.com/nobrowning/DNS4Agent
     
 - **Project Info**
   We propose a scope-aggregated OAuth 2.0 authorization pattern for multi-step AI agent workflows. An AI agent aggregates the scopes required across a workflow and only initiates a single authorization procedure for the aggregated scope. This reduces repeated user consents and multiple authorization round-trips, improving authorization efficiency.
+
+- **Hackathon Plan**
+1. Develop an application demo based on MCP to demonstrate the effectiveness of the proposed scope aggregation mechanism.
+2. Gather feedbacks on the demo and the proposed draft.
 
 - **Related Documents**
   https://datatracker.ietf.org/doc/draft-jia-oauth-scope-aggregation
