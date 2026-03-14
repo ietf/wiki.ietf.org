@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T04:04:03.669Z
+date: 2026-03-14T04:08:58.601Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1171,5 +1171,18 @@ https://github.com/nobrowning/DNS4Agent
 - **Repository**
 	https://github.com/afireswallow/pegasus
   
-  
+### OAuth 2.0 Scope Aggregation for Multi-Step AI Agent Workflows
+
+- **Champions**
+  - Onsite:
+    Yukuan Jia (jiayukuan@huawei.com)
+    Shuping Peng (shupingpeng@huawei.com)
+    
+- **Project Info**
+  We propose a scope-aggregated OAuth 2.0 authorization pattern for multi-step AI agent workflows. An AI agent aggregates the scopes required across a workflow and only initiates a single authorization procedure for the aggregated scope. This reduces repeated user consents and multiple authorization round-trips, improving authorization efficiency.
+
+- **Related Documents**
+  https://datatracker.ietf.org/doc/draft-jia-oauth-scope-aggregation
+
+
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
