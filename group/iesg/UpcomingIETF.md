@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-15T01:33:36.597Z
+date: 2026-03-15T04:38:07.730Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -68,7 +68,7 @@ Please meet us in the 2nd Floor Foyer, near Registration to begin our tour. If y
 > 5. Introduction of [NomCom Feedback](https://docs.google.com/presentation/d/1gfO02jEf2FUMiREDHJhTm_E6gNQHxXy_-qRUikvrpJQ/edit?slide=id.p#slide=id.p) (Mike and Roman)
 > 7. IANA Update (Sabrina)
 > 8. RPC Update (Jean)
-> 9. Shepherd [Template Update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
+> 9. Shepherd [Template Update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med) - deferred to informal post-125
 > 99.  -- more topics --
 > 100. Decide if a Monday meeting is needed (and agenda if needed)
 
@@ -97,11 +97,9 @@ Please meet us in the 2nd Floor Foyer, near Registration to begin our tour. If y
 
 ## Monday, March 16, 2026
 
-### 07:30-08:50 - IESG Meeting (Room: Jiangsu)
+### ~~07:30-08:50 - IESG Meeting (Room: Jiangsu)~~
 
-> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1002
-> 
->1. Agenda topics TBD?
+> Meeting cancelled
  
 ## Tuesday, March 17, 2026
 
