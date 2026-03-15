@@ -577,7 +577,7 @@ This project proposes Minimal-Exposure AS-Path Verification, MEASPV. Unlike appr
     2. MEASPV preserves BGP compatibility, supports incremental deployment, and limits information exposure to the theoretical minimum under our threat and observability model, while defending against path manipulation and route leaks.
     3. Demonstrate that MEASPV effectively mitigates path manipulation and route leaks under partial deployment.
 - **Related documents**
-To be released
+	- https://conference.apnic.net/61/assets/presentation-files/d5b88c42-c664-46e1-a671-cf78b453e486.pdf
 
 ### Next-Generation Inter-Domain Routing Architecture and Protocols
 
