@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-15T03:45:04.962Z
+date: 2026-03-15T04:04:23.028Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -37,7 +37,7 @@ Please meet us in the 2nd Floor Foyer, near Registration to begin our tour. If y
 
 
 ### 14:00-16:00 - IAB Business Meeting (Room: Jiangsu)
-
+> Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1001
 > Agenda:
 > 
 > 1. [Finalize IAB Roles](https://docs.google.com/presentation/d/1ZcU4gui888RVyjDocLu1JzuiUuWMtOaXuIDy9ezidOE/edit?usp=sharing) (45 min) (Cindy)
