@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 125
 description: 
 published: true
-date: 2026-03-12T01:32:59.147Z
+date: 2026-03-15T03:47:21.659Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:23:46.946Z
@@ -21,6 +21,7 @@ For food & beverage service requests, please include:
 
 ## Monday
 
+- 08:30-09:15: Dhruv & Yaroslav
 - 12:30-14:00: ICANN appointees lunch
 
 
