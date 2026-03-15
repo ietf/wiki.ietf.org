@@ -2,7 +2,7 @@
 title: DIN RG - IRTF Decentralized Internet Infrastructure
 description: IRTF Decentralized Internet Infrastructure (DIN RG)
 published: true
-date: 2026-01-01T06:44:24.805Z
+date: 2026-03-15T00:22:04.092Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T22:56:28.677Z
@@ -53,6 +53,8 @@ ACM Computer Communication Review 53, 2 (April 2023), 31–39. https://doi.org/1
 * Tianyuan Yu, Xinyu Ma, Varun Patil, Yekta Kocaogullar, Yulong Zhang, Jeff Burke, Dirk Kutscher, Lixia Zhang; Secure Web Objects: Building Blocks for Metaverse Interoperability and Decentralization; IEEE MetaCom 2024; August 12-14 2024; Hong Kong, China; [pre-print](https://arxiv.org/abs/2407.15221)
 
 * Tianyuan Yu, Xinyu Ma, Varun Patil, Yekta Kocaogullar, Lixia Zhang; Exploring the Design of Collaborative Applications via the Lens of NDN Workspace; IEEE MetaCom 2024; August 12-14 2024; Hong Kong, China; [pre-print](https://arxiv.org/abs/2407.15234)
+
+* Tianyuan Yu, Adam Thieme, Junxiao Shi, Lan Wang, Lixia Zhang; SRM at 30: Lessons from Early Data-Centric Networking and Their Impact on Named Data Networking. [https://named-data.net/ndn-tr-0078-srm30/](URL "NDN Technical Report NDN-0078"), December 2025.
  
 ### Regulation
 
