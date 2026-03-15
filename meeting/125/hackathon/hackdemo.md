@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-03-14T10:11:00.926Z
+date: 2026-03-15T08:15:20.719Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T17:56:30.483Z
@@ -21,6 +21,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |---|---|---|---|
 | OAuth 2.0 Scope Aggregation for Multi-Step AI Agent Workflows  | Yukuan Jia, Shuping Peng | jiayukuan@huawei.com, pengshuping@huawei.com  | https://datatracker.ietf.org/doc/draft-jia-oauth-scope-aggregation/ |
 | Optimizing Agent Context Interactions  | Zeze Chang, Shuping Peng  | changzeze@huawei.com, pengshuping@huawei.com  |  https://datatracker.ietf.org/doc/draft-chang-agent-context-interaction/ |
+| YANG Data Model for Network Inventory (IVY)  | Italo Busi, Yanxia Tan  | Italo.Busi@huawei.com, tanyx11@chinaunicom.cn  |  https://datatracker.ietf.org/doc/draft-ietf-ccamp-network-inventory-yang/ |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
