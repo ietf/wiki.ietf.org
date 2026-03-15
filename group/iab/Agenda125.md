@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-15T04:04:23.028Z
+date: 2026-03-15T07:55:07.976Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -87,6 +87,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1003
 >
 > 1. ISOC discussions (30 min) (Olaf & Alvaro); Planning towards the ITU Plenipotentiary (Olaf to present): the presentation would cover technical and policy issues, meetings for the 6 regional telecommunication organizations, etc.  It was presented to the IAB-ISOC group and should be of interest to the whole IAB
 > 2. [Age Workshop Report](https://mailarchive.ietf.org/arch/msg/architecture-discuss/kNuIv0Uz8xNqWnnjML5QYMu8168) and [Statement on Age Verification](https://docs.google.com/document/d/1py7Uzkh8puCNkwSqubxreu6pJranYA7dWoNEwkdu72I/edit?usp=sharing) (30 min) (Mark)
+> 3. Retreat Location (Jason) (15 min)
 
 
 
@@ -106,8 +107,9 @@ Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1003
 > Agenda:
 >
 > 1. CFRG Review (30 min)
-> 2. [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (15 min) (Dhruv)
+> 2. Open Issue with 4052bis/4053bis (15 min) (Mirja) 
 > 3. ISE Survey Discussion (30 min) (Jason)
+> 4. [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (if there is time) (Dhruv)
 
 
 ### Non-required events:
