@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-13T01:03:54.358Z
+date: 2026-03-15T03:45:04.962Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -40,7 +40,7 @@ Please meet us in the 2nd Floor Foyer, near Registration to begin our tour. If y
 
 > Agenda:
 > 
-> 1. [Finalize IAB Roles](/group/iab/First_Meeting) (45 min) (Cindy)
+> 1. [Finalize IAB Roles](https://docs.google.com/presentation/d/1ZcU4gui888RVyjDocLu1JzuiUuWMtOaXuIDy9ezidOE/edit?usp=sharing) (45 min) (Cindy)
 >     - Program Leads and Members
 >     - Liaison Coordinators
 >     - IAB Liaison to the IESG
