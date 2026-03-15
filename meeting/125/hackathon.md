@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-12T05:08:58.310Z
+date: 2026-03-14T10:58:59.009Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -31,7 +31,7 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda 
 ***Subject to Change***
-Hackathon *(all times are GMT-4)*
+Hackathon *(all times are UTC+8)*
 
 ### Saturday, 14 March 
 
@@ -59,7 +59,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 16 March, Time: 19:00 - 20:00, Room: Level 2 Foyer
+  * Monday, 16 March, Time: 18:00 - 19:00, Room: Level 2 Foyer
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 16 March
 
@@ -85,10 +85,10 @@ If you received the email but the link to create an account has expired, please 
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/125/session/33500/propose_slides) at 14:00-16:00.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/125/session/35301/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
-    * https://datatracker.ietf.org/meeting/125/session/hackathon#autoid-16
+    * https://datatracker.ietf.org/meeting/125/session/hackathon#autoid-19
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
@@ -127,16 +127,13 @@ If you received the email but the link to create an account has expired, please 
      
 ### Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/122/session/33500/propose_slides) at 14:00-16:00.
+  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/125/session/35301/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
     * DO NOT WAIT until just before the start of the Hackathon project presentations to upload your presentation, as it may be lost in the chaos.
 
 ## Network
 
 **Access to the IETF network**
-The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
-
-* [How to Instructions](/meeting/124/hackathon/hacknet_instructions)
 
 Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
@@ -171,10 +168,10 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
 
 ### Multi-Path Traffic Engineering
 
--**Champions**
+- **Champions**
 Vishnu Pavan Beeram vishnu-pavan-kumar.beeram@hpe.com
 Jeffrey Zhang zhaohui.zhang@hpe.com
--**Participants**
+- **Participants**
 Aaron Zhang (remote) aaronzhang194@gmail.com
 - **Project Info**
 Multi-Path Traffic Engineering [https://datatracker.ietf.org/doc/draft-kompella-teas-mpte/]    combines the best of multi-path (ECMP or Non-equal MP) and TE.  The multipathing proposed here need not be strictly equal-cost, nor the load balancing equally weighted to each next hop.  Moreover, the desired destination may be reachable via multiple egresses from multiple ingresses. Different protocols can be used to signal MPTE paths, including RSVP/BGP extensions [https://datatracker.ietf.org/doc/draft-kbr-teas-mptersvp/] [https://datatracker.ietf.org/doc/draft-zzhang-idr-mpte-signaling/].
@@ -182,8 +179,9 @@ Multi-Path Traffic Engineering [https://datatracker.ietf.org/doc/draft-kompella-
 - **In this project, we will do the following:**
   - Discuss with anyone interested in this technology
   - Hack some POC code for the BGP signaling of MPTE in JUNOS and FRR and see what we can achieve in interop between the two POC implementations
+
 ### Task Discovery in AI Network
--**Champions**
+- **Champions**
 Hesham Moussa hesham.moussa@huawei.com
 Arashmid Akhavain arashmid.akhavain@huawei.com
 - **Project Info**
@@ -213,11 +211,11 @@ High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, l
 Thanks to Tim Chown for Hackathon input. 
 
 - **Hackathon Plan**
-1.HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
-2.Learn about HPWAN developments and open-source controllers and orchestrators for integrated HPWAN connection management (IETF RestConf/NetConf/YANG)
-3.Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
-4.Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
-5.Work on improvements to IETF protocols and models for cooperation between HPWAN domains.
+  1. Discuss HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
+  2. Agree common HPWAN service model parameters for scheduled services
+  3. Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
+  4. Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
+  5. Work on HPWAN monitoring requirements and identify which IETF protocols and models could be used for cooperation between HPWAN domains.
 
 - **Related documents**
 Framework for High Performance Wide Area Network (HP-WAN)
@@ -263,7 +261,10 @@ At IETF 125, we plan to add more automation and others are invited to test inter
 
   - 3 main ways to combine attestation in TLS:
     - Pre-handshake attestation ([Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol))
-    - Intra-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/))
+    - Intra-handshake attestation 
+      - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
+      - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-atte2station/)
+      - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
     - Post-handshake attestation ([Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/) and Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing))
   - **Hackathon plan**
   	- Discuss the nits of [relay attacks](https://mailarchive.ietf.org/arch/msg/seat/8tzc62Xe7sKnyInFHkMAx6z6QjU/)
@@ -271,6 +272,7 @@ At IETF 125, we plan to add more automation and others are invited to test inter
     - Discuss open issues
 	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
 		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+    - Formal evaluation of new proposals in SEAT
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
 
@@ -509,6 +511,9 @@ Multi-agent collaboration has been widely studied as an effective approach for a
 - **Related documents**
 https://datatracker.ietf.org/doc/draft-chang-agent-context-interaction/ 
 
+- **Repository**
+https://github.com/agent-context-interaction/IETF-Hackathon-125-Optimizing-Agent-Context-Interaction
+
 ### Agent Communication Gateway for Semantic Routing and Working Memory
 - **Champions**
 Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
@@ -572,7 +577,7 @@ This project proposes Minimal-Exposure AS-Path Verification, MEASPV. Unlike appr
     2. MEASPV preserves BGP compatibility, supports incremental deployment, and limits information exposure to the theoretical minimum under our threat and observability model, while defending against path manipulation and route leaks.
     3. Demonstrate that MEASPV effectively mitigates path manipulation and route leaks under partial deployment.
 - **Related documents**
-To be released
+	- https://conference.apnic.net/61/assets/presentation-files/d5b88c42-c664-46e1-a671-cf78b453e486.pdf
 
 ### Next-Generation Inter-Domain Routing Architecture and Protocols
 
@@ -588,7 +593,7 @@ The Next-Generation Inter-Domain Routing Architecture and Protocols(IDRNG) foste
 2. Learn and align with IETF/IRTF automation interfaces for routing control and telemetry (NETCONF/RESTCONF/YANG).
 3. Develop a large-scale IDR simulation demo based on AS-relationship (as-rel) data, and conduct red/blue experiments (e.g., route hijack/leak injection and detection/mitigation) with measurable outcomes.
 
-- **Repository** -
+- **Repository** 
 https://github.com/IDRNG
 
 ### Agent Protocol Security
@@ -713,7 +718,7 @@ Current RPKI Route Origin Validation (ROV) treats all validation data equally. H
 - **Hackathon Plan**
 We will build a Proof of Concept (PoC) to demonstrate the multi-priority RPKI Route Origin Validation (ROV) framework. Our development will focus on two core tasks:
   1. RTR Protocol Extension: Modify the RPKI-to-Router (RTR) protocol to allow Protocol Data Units (PDUs) to explicitly carry priority levels for validated RPKI payloads from the cache server to the router.
-  2. Priority-Aware ROV via OpenBGPD: Parse RTR priority attributes to support multi-priority validation states and enable differentiated BGP routing policies (e.g., discard vs. lower Local Preference).
+  2. Priority-Aware ROV: Parse RTR priority attributes to support multi-priority validation states and enable differentiated BGP routing policies (e.g., discard vs. lower Local Preference).
 
 
 - **Related Document**
@@ -754,6 +759,9 @@ https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
 
 - **Repository**
 https://github.com/ietf-rats-wg/key-attestation
+
+- **Communications**
+We are using Gather Town (https://app.gather.town/app/L4fNNdm1NJa1sE2v/ietf pw: ietf) Table D
 
 ### OAuth Delegated Authorization for AI Agents
 
@@ -814,10 +822,16 @@ Zhuoran Ma (mazhuoran@hnu.edu.cn)
 - **Project Info** 
 Current RPKI Relying Parties (RPs) strictly block new data distribution to routers until the entire global repository is fetched and validated. As the RPKI ecosystem expands, this blocking approach creates a systemic bottleneck and delays critical routing security updates. 
 This project introduces cc-pipe, a concurrent and conflict-free pipeline that decouples RPKI-to-Router (RTR) distribution from data synchronization and cryptographic validation. This implementation uses a predictive Conflict Graph to track data dependencies, safely streaming Validated ROA Payload (VRP) updates to BGP routers. Additionally, it employs aggregated update pacing and an extended cache retention policy to reduce router CPU overhead and prevent costly reset queries. It reduces latency while strictly preserving the routing stability intended by RFC 8210.
+- **Hackthon Plan**
+Our Hackathon project will focus on three primary tasks:
+  * Deployment & Benchmarking: Deploy the cc-pipe relying party to demonstrate latency improvements over traditional RPs.
+  * Interoperability Testing: Establish standard RTR sessions with BGP routers (e.g., FRRouting, BIRD, or commercial implementations) to evaluate real-world performance and uncover potential edge-case issues.
+  * Community Discussion: Share our findings and discuss the architectural impact of cc-pipe with the community.
 - **Related Documents**
 https://www.rfc-editor.org/rfc/rfc8210.html
 https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/
-
+- **Repository**
+https://github.com/FIRLab-CNIC/cc-pipe
 
 
 
@@ -832,7 +846,7 @@ This project leverages LLMs to automatically construct knowledge graphs from con
 1. https://github.com/xmzzyo/draft_llm_nm
 2. https://github.com/nniujl/draft-nmop-cui-nkg-gateway
 
-### Packet Content Filtering for BGP FlowSpec
+### Extending BGP FlowSpec with Packet Content Matching
 
 - **Champions**
 Yujia Gao (gaoyj@zgclab.edu.cn)
@@ -939,14 +953,14 @@ Ciphertext computing and protocol design for future network
 Tuesday, March 17, 2026 11:15-12:15 ( Asia/Shanghai ) · Jiangsu
 
 
-### IPv6 Network Deployment Monitoring and Analysis Platform
+### IPv6 Network Traffic Monitoring and Analysis Platform
 - **Champions**
 Jing Zhao (zhaoj501@chinaunicom.cn)
 Tianyi Huang (tyhuang@cnic.cn)
 - **Project Info**
 This project addresses the core operational challenges in large-scale IPv6 deployment by building an end-to-end IP network traffic monitoring and analysis platform that spans home broadband, mobile networks, bearer networks, and applications, enabling multi-dimensional monitoring of traffic and quality along with intelligent big data analytics to deliver differentiated services.
 - **Related Document**
-[draft-pang-v6ops-ipv6-monitoring-deployment-05]https://datatracker.ietf.org/doc/draft-pang-v6ops-ipv6-monitoring-deployment/
+[draft-pang-v6ops-ipv6-monitoring-deployment-05]
 ----
 
 ### Applying YANG Provenance Signatures to CBOR Objects
@@ -1016,5 +1030,194 @@ https://github.com/LuciaCabanillasRodriguez/authz-policy-sharing-model
     2. Benchmark Scenario Exploration: Implement basic benchmark scenarios defined in the BMWG ROV benchmarking draft, including experiments related to VRP updates and BGP update processing.  
 - **Related Document**
   - https://datatracker.ietf.org/doc/draft-lg-bmwg-benchmarking-methodology-for-rov/
+  
+### Knowledge Graph based on SIMAP Connected with IVY
 
-*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
+- **Champions**
+Michael Mackey (michael.mackey@huawei.com)
+Olga Havel (olga.havel@huawei.com)
+Brad Peters (bradpeters@nbnco.com.au)
+
+- **Project Info**
+This project will demonstrate how existing IETF YANG Models and related instance data can be quickly converted into a Knowledge Graph. By using Semnatic Web Technologies, these models and data can easily be intergrated or extened with external ontologies to enhance the information present and allow graph queries across the data to find deep insights.
+
+Specifically it will show how the draft SIMAP YANG model can be represented in RDFS, how we can connect it to inventory information (represented by) and how it can be integrated with an external wider Ontology (represented by NORIA-O).
+
+- **In this project, we will do the following:**
+  - Create a RDFS version of the latest SIMAP model
+  - Create a RDFS version of the IVY models
+  - Import SIMAP instance data as RDF
+  - Import IVY instance data as RDF
+  - Dynamically create connections between the two and show how information can be queried. 
+  
+- **Related Document**
+  - https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
+  - https://datatracker.ietf.org/doc/draft-havel-nmop-simap-yang/
+  - https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
+  - https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
+
+
+### DNS-Native Agent Naming and Resolution
+
+- **Champions**
+Yong Cui (Tsinghua University) cuiyong@tsinghua.edu.cn
+Chenguang Du (Zhongguancun Lab) ducg@zgclab.edu.cn
+Siyu Deng (CNNIC) siyudeng1003@gmail.com
+Yihan Chao (Zhongguancun Lab) chao_yihan@outlook.com
+
+- **Project Info**
+This project implements DN-ANR, a DNS-native resolution layer for AI agents. DN-ANR uses FQDNs as Agent Identifiers and resolves them to verifiable endpoints via standard DNS records (A, TXT, SVCB). The demo covers agent registration, version/protocol routing, descriptor integrity verification, and end-to-end agent invocation.
+
+- **Hackathon Plan**
+1. Demonstrate the Agent name resolution flow using CoreDNS and FastAPI-based agent servers.
+2. Validate the fallback mechanism and version routing strategies defined in the draft.
+3. Gather feedback on the draft specification.
+
+- **Specifications**
+[draft-cui-dns-native-agent-naming-resolution](https://datatracker.ietf.org/doc/draft-cui-dns-native-agent-naming-resolution/)
+
+- **Repository**
+https://github.com/nobrowning/DNS4Agent
+
+### Secure Hybrid Network Monitoring
+
+- **Champions**
+  * Yutaka Oiwa (AIST, Japan), y.oiwa@aist.go.jp
+
+- **Members**
+  * Satoru Kanno (GMO CONNECT, Inc., Japan), kanno@gmo-connect.jp
+  * Yumi Sakemi (GMO CONNECT, Inc., Japan), sakemi-yumi@gmo-connect.jp
+
+- **Project Info**
+  * We propose Secure Hybrid Network Monitoring for complex network environments such as hybrid cloud or mixed cloud settings. The Path Characteristics Service (PCS) enables users to verify whether their network path meets specified intents (e.g., data residency, VPN usage, operator constraints) by performing intent matching against actual path characteristics across multiple network domains.
+
+- **Hackathon Plan**
+  * Update the Internet-Draft to reflect the revised PCS concept: from network state retrieval to intent matching with match/unmatch responses.
+  * Develop a prototype PCS demo.
+  * Gather feedback on the updated draft specification.
+
+- **Specifications**
+  * [draft-oiwa-path-characteristics-service](https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/00/)
+  * [draft-oiwa-secure-hybrid-network](https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/02/)
+
+### SCONE Interop
+
+- **Champions**
+  * Marcus Ihlar (marcus.ihlar@ericsson.com)
+
+- **Project Info**
+	* Interop testing of SCONE protocol (https://datatracker.ietf.org/wg/scone/about/)
+ 
+- **Specifications**
+  * [draft-ietf-scone-protocol](https://datatracker.ietf.org/doc/draft-ietf-scone-protocol/)
+  
+ ### CBOR Support in libyang
+
+- **Champions**
+	- Remote : 
+    Siddharth Bhat (sidbhat.211ee151@nitk.edu.in)
+    Bharadwaja M. Chittapragada (meher.211cs216@nitk.edu.in)
+    Vartika T. Rao (vartikatrao.211it077@nitk.edu.in)
+    Hayyan Arshad (hayyanarshad.211cs222@nitk.edu.in)
+
+- **Project Info**
+
+  Our goal is to extend libyang, the widely used YANG data-modeling library written in C, by implementing full CBOR (Concise Binary Object Representation) support—both serialization and parsing—for YANG-modeled data.
+
+- **Related Issue**
+
+   https://github.com/CESNET/libyang/issues/2130 – feature request for CBOR support in data serializers 
+
+### PacketScope: LLM-Powered eBPF for Protocol Stack Defense
+
+* **Champions**
+    * Zhaoxi Li (li-zx24@mails.tsinghua.edu.cn)
+    * Yuxiang Yang (yangyx22@mails.tsinghua.edu.cn)
+
+* **Project Info**
+    PacketScope is a general-purpose protocol stack analysis and debugging tool based on eBPF. It integrates performance optimization, anomaly diagnosis, and security defense to provide fine-grained tracing and intelligent analysis of network packets at the protocol stack level. The project aims to solve common pain points such as difficult diagnosis of performance bottlenecks, unclear packet transmission paths, and hard-to-detect low-level protocol attacks (e.g., at layers below traditional WAF/IDS).
+
+    The tool consists of three main microservice modules:
+    1.  **Analyzer:** Provides multidimensional statistics on packet movement (latency, packet loss, etc.) and visualizes cross-layer data flow.
+    2.  **Tracer:** Maps network routes and latency from the host to any global IP, visualizing the data on a global topology.
+    3.  **Guarder:** Filters and controls abnormal packets using customizable rules and leverages an intelligent engine (LLM) to provide context for potential threats.
+
+* **Hackathon Goals**
+    * Deploy PacketScope in the IETF hackathon network testbed to monitor and analyze live traffic.
+    * Evaluate and enhance the `Guarder` module's rule-based engine for detecting and mitigating low-level protocol attacks and anomalies.
+    * Test the `Analyzer` module's ability to identify performance bottlenecks and trace packet paths within complex network topologies.
+    * Explore potential integrations between PacketScope's eBPF-based telemetry and other network management or security tools.
+    * Develop and test new eBPF probes for tracing interactions with specific protocols being discussed at the IETF.
+    * Gather feedback on the tool's usability and visualization for network operators and security engineers.
+    
+    **GitHub Repo:** https://github.com/Internet-Architecture-and-Security/PacketScope
+    **Project Docs:** https://internet-architecture-and-security.github.io/packetScope-website/
+    **Live Demo:** http://82.156.141.213:4173/
+
+* **Specifications**
+- Problem Statement for Cross-Layer Vulnerabilities due to Forged ICMP Errors (https://datatracker.ietf.org/doc/draft-xu-intarea-vulnerabilities-forged-icmp/)
+- Enhancing ICMP Error Message Authentication Using Challenge-Confirm Mechanism (https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv4/)
+- Enhancing ICMPv6 Error Message Authentication Using Challenge-Confirm Mechanism (https://datatracker.ietf.org/doc/draft-xu-intarea-challenge-icmpv6/)
+
+
+ ### Pegasus: Deep Learning Framework on the Dataplane
+
+- **Champions**
+	- Onsite : 
+    Yinchao Zhang (afireswallow@gmail.com)
+
+- **Project Info**
+	We propose Pegasus, an Intelligent Dataplane framework that resolves the architectural mismatch between complex Deep Learning models and flow-centric network hardware. By translating DL models into hardware-native primitives using fuzzy matching and primitive fusion, Pegasus enables line-rate, real-time AI inference for next-gen network security.
+
+- **Repository**
+	https://github.com/afireswallow/pegasus
+  
+### OAuth 2.0 Scope Aggregation for Multi-Step AI Agent Workflows
+
+- **Champions**
+  - Onsite:
+    Yukuan Jia (jiayukuan@huawei.com)
+    Shuping Peng (shupingpeng@huawei.com)
+    
+- **Project Info**
+  We propose a scope-aggregated OAuth 2.0 authorization pattern for multi-step AI agent workflows. An AI agent aggregates the scopes required across a workflow and only initiates a single authorization procedure for the aggregated scope. This reduces repeated user consents and multiple authorization round-trips, improving authorization efficiency.
+
+- **Hackathon Plan**
+1. Develop an application demo based on MCP to demonstrate the effectiveness of the proposed scope aggregation mechanism.
+2. Gather feedbacks on the demo and the proposed draft.
+
+- **Related Documents**
+  https://datatracker.ietf.org/doc/draft-jia-oauth-scope-aggregation
+
+
+
+### Bridging the Transparency Gap: Distributed Remote Attestation
+
+- **Champions**
+  - Onsite:
+    Donghui Wang (wangdonghui124@huawei.com)
+    Yuning Jiang (jiangyuning2@h-partners.com)
+    
+- **Project Info**
+   This project explores a distributed architecture for remote attestation that enables reusable attestation artifacts across multiple verifiers and trust domains. In many real-world deployments, each administrative domain operates its own Remote Attestation Service (RAS) and verifier, making cross-domain attestation verification difficult. Additionally, verifiers often need to obtain reference values, endorser public keys, and endorsements from multiple providers, creating a many-to-many distribution problem that does not scale with point-to-point integrations.
+   The proposed approach introduces a shared publication channel for selected attestation artifacts—such as endorser public keys, endorsements, reference values, and optionally attestation results—while preserving provenance, integrity, and access control. The current draft explores a distributed-ledger-based realization of this artifact distribution mechanism, enabling verifiers and relying parties to discover and reuse attestation artifacts across domains.
+
+- **Hackathon Goal**
+Build a prototype demonstrating distributed publication and retrieval of remote attestation artifacts across domains.
+
+- **Hackathon Plan**
+Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) using the forked Go TLS 1.3 stack with the 0xFFA5 evidence extension, verifying that CertificateVerify correctly binds evidence to the session transcript.
+
+- **Related Documents**
+  https://datatracker.ietf.org/doc/draft-wang-rats-distributed-remote-attestation/
+
+
+### Applications of homomorphic encryption
+- **Champions**
+	- Onsite : 
+    Kun Liu (liukun@iie.ac.cn)
+- **Project Info**
+	Fully homomorphic encryption (FHE) is often hailed as the “Holy Grail” of cryptography. It enables direct computations on encrypted data. By encrypting data on the client side and sending the ciphertext to the server, we can fully leverage the server’s computational power while ensuring data security. With continuous breakthroughs in underlying algorithms and hardware acceleration technologies, research into the practical applications of FHE is flourishing. Utilizing the properties of homomorphic encryption for online artificial intelligence processing has gradually become a hot research topic. Our goal is to explore various application scenarios for homomorphic encryption while improving its transmission and computation speeds to enhance its practicality.
+
+- **Related Documents**
+https://github.com/Lance-Bai/fhe_processor.git

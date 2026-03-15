@@ -2,7 +2,7 @@
 title: Implementatino Reprot for draft-ietf-idr-sr-policy-nrp
 description: Implementations draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-02-07T00:11:53.301Z
+date: 2026-03-14T01:09:46.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:30:13.907Z
@@ -30,6 +30,7 @@ WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp
 | Error handling of SR Policy TLV with malformed NRP-ID  |	2 | yes | yes |   |
 | NRP ID headend encapsulation for SRv6  | 3 |  yes | yes    | 
 | NRP ID headend encapsulation for SR-MPLS | 3 | yes |  TBD  |
+| all Candidate paths of 1 SR policy associated with same NRP | 3 | TBD | TBD | 
 {.dense} 
  	
 
