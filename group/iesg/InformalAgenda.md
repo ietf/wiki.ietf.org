@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-02-26T15:33:53.607Z
+date: 2026-03-15T18:44:34.395Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - February 26, 2026
+# Informal Telechat - April 9, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -49,9 +49,8 @@ Note that this page is public.
 
 ### Management Issues
 
-- Executive Session: [ISOC BOT Confirmation](https://docs.google.com/document/d/1_SofSGpW33Dlh5uFxMVdOgtYMmz30SbjyaTILp2vnOU/edit?tab=t.0) (Roman)
-- If possible, let's decide the IESG retreat location & dates (Éric V)
-- [Document Write-up update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
+- PROCON WG request -- [reclassifying BCPs currently in the IAB stream which have been through IETF Last Call as IETF stream](https://docs.google.com/document/d/19dwnZCWkVt7uMwepiez-4-IF9WsfWdu5q78KdSOAxLA/edit?tab=t.0) (Roman)
+
 - [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
 
 ### WG News 
