@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-03-15T09:00:06.223Z
+date: 2026-03-16T02:48:13.096Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T17:56:30.483Z
@@ -24,7 +24,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | YANG Data Model for Network Inventory (IVY)  | Italo Busi, Yanxia Tan  | Italo.Busi@huawei.com, tanyx11@chinaunicom.cn  |  https://datatracker.ietf.org/doc/draft-ietf-ccamp-network-inventory-yang/ |
 | Interface to In-Network Computing Functions (I2ICF) Project  | Jaehoon Paul Jeong, Xudong Wang  | pauljeong@skku.edu, wangxudong28@skku.edu  |  https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/ |
 | An Integrated Security Service System for 5G Networks using an I2NSF Framework  | Jaehoon Paul Jeong, Joseph Ahn  | pauljeong@skku.edu, ahnjs124@skku.edu  |  https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/ |
-|   |   |   |   |
+| SRv6 for Inter-Layer Network Programming  | Minxue Wang, Junfeng Zhao, Jie Dong, Ran Chen, Junfang Wang  |wangminxue@chinamobile.com, zhaojunfeng@caict.ac.cn, jie.dong@huawei.com, chen.ran@zte.com.cn,wjf@fiberhome.com  | https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-inter-layer-programming/,https://datatracker.ietf.org/doc/draft-many-pce-srv6-inter-layer-network-programing/  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
