@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 125
 description: 
 published: true
-date: 2026-03-15T03:48:24.787Z
+date: 2026-03-16T10:01:45.009Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:23:46.946Z
@@ -30,6 +30,7 @@ For food & beverage service requests, please include:
 - 07:30-09:00: IAB Business Meeting
 
 - 12:30-14:00: UNAVAILABLE (Talk to Cindy or Paige)
+- 14:30-15:00 Yingzhen
 - 15:30-16:30: Liaison Coordinator Office Hours
 
 
