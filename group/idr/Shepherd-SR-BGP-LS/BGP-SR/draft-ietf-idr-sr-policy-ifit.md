@@ -2,7 +2,7 @@
 title: draft-ietf-idr-sr-policy-ift Shepherd Reports 
 description: Shepherd report for draft-ietf-idr-sr-policy-ift
 published: true
-date: 2026-01-05T21:44:21.427Z
+date: 2026-03-16T22:10:39.951Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-05T20:42:40.669Z
@@ -15,6 +15,7 @@ version: -11
 implementations: none 
 status: WG draft
 Shepherd: Susan Hares (sharesa@ndzh.com)
+
 
 ## Revision -11 Shepherd's review 
 ### Technical issues in -11 
@@ -109,6 +110,19 @@ Section 6 text states:/
  After adding what is critical information, please indicate 
  the networks should be careful to protect distribution of 
  critical information. 
+ 
+ ### Cross Working group issues: 
+ #### Issue 1: How does this link to Spring Work
+ 
+Pleae provide information in the text how it links to existing Spring concepts.  Lists the RFC or draft that mention this concept. 
+
+#### Issue 2: How does this link to SRv6OPS
+
+Provide any mention of SRv6OPS requests for this type of OAM. 
+
+#### Issue 3: How does this link to PCE work 
+
+Provide any mention where PCE utilizes the concept in this draft. 
 
 ### Editorial issues in -11
 
