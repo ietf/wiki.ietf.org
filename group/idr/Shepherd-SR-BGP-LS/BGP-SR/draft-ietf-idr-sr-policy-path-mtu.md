@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2026-01-05T20:34:41.813Z
+date: 2026-03-16T22:40:03.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -22,12 +22,35 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **related bgp-ls draft:** none
 
 ## Review for -14 
-**Summary**: Technical issue 1 from -13 has been resolved. No open issues. 
+**Summary**: Technical issue 1 from -13 has been resolved. Needs to add a cross-WG section (described below) 
+
+### Cross WG section 
+Please add a cross-working group section to your draft. 
+This section will be removed prior to publication, but the information contained in this section will speed your draft along. 
+
+#### Issue 1 - Link to Spring concepts 
+Please add text in the cross WG section on where the concept of a 
+path MTU is mentioned in Spring RFCs, WG documents or individual drafts. 
+
+#### Issue 2 - Link to Concepts in SRv6OPS
+Please add to text in the cross WG section where the concept of a path mtu might be useful to SRv6 operations.  If it is mentioned in SRv6OPS WG documents, individual drafts or presentations, please include that iformation here. 
+
+#### Issue 3 - Link to PCE work 
+If a path mtu is being set or passed by the PCE work, 
+please include a reference to the PCE document. 
+
+#### issue 4  - Link to BGP-LS work in IDR 
+If a path mtu is being queried by BGP-LS, please indicate which drafst mentions that. 
+
+
+
 **Next steps:** 
-1. 2 week Early allocation call (1/5 to 1/19)
+1. Add cross WG section to the draft. 
+2. 2 week Early allocation call (1/5 to 1/19)
 2. Early Allocation of SubTLV 
 3. Interoperability testing with 2 implementations 
 4. Apply for WG LC - and get shepherd review 
+
 
 
 ## Review -13 
