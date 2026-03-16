@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2026-03-16T22:41:14.595Z
+date: 2026-03-16T23:00:14.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -41,7 +41,6 @@ please include a reference to the PCE document.
 
 #### issue 4  - Link to BGP-LS work in IDR 
 If a path mtu is being queried by BGP-LS, please indicate which drafst mentions that. 
-
 
 
 **Next steps:** 
