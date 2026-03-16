@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-03-15T04:38:07.730Z
+date: 2026-03-16T08:44:08.240Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -175,6 +175,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * TIME - TIME -- Thing (Person responsible)
 
 * 07:45 - 08:45 -- OPS AD Hours (Med)
+* 12:30 - 14:00 -- IAB Liaison Coordinators + Managers (Mirja) (SecDir is using the IAB room at this time)
 
 ## Wednesday, March 18, 2026
 
