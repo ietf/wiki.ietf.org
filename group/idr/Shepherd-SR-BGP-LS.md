@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-02-09T13:55:37.493Z
+date: 2026-03-16T19:22:14.552Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -21,10 +21,10 @@ none
 none 
 
 ### SR post WG LC drafts 
-- [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - [(-00) to (-06)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-nrp)  - **Needs -07** for Security review resolution  
+- [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - [(-00) to (-06)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-nrp)  - **Needs -08** for Security review resolution (**Spring**: [draft-jiang-spring-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-jiang-spring-sr-policy-nrp/))
 
 ### SR in WG LC 
-- [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-06)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) -  **WG LC IPR call in progress** (1/5/2026 to 1/12/2026) 
+- [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-segliset-id/) - [(-00) to (-06)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) -  **WG LC IPR call in progress** (1/5/2026 to 1/12/2026) 
 
 ### SR WG drafts (alphabetical) 
 
