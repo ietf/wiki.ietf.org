@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-16T00:12:59.201Z
+date: 2026-03-16T00:14:01.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1060,7 +1060,7 @@ Specifically it will show how the draft SIMAP YANG model can be represented in R
   - https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
 
 
-### Lightweight Authenticated Key Exchange
+### Lightweight Authenticated Key Exchange (LAKE)
 
 - **Champions**
   - Onsite:
