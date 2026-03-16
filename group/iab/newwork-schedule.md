@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-03-16T03:24:20.396Z
+date: 2026-03-16T03:27:21.651Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -19,6 +19,8 @@ Volunteers: Alvaro, ~~Matthew~~, Suresh, Dhruv, (Mirja)
 ## Monday 16th March 
 Beverage Break, **11:00-11:30** (after dispatch)
 IAB Members: Dhruv, Alvaro, Yingzhen
+
+David Huberman from ICANN! 
 
 Tips for future -
 - Announce it in HotRFC
