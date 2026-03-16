@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-nrp
 description: Shepherd draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-01-14T18:30:58.151Z
+date: 2026-03-16T19:15:26.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T23:48:45.554Z
@@ -13,15 +13,22 @@ dateCreated: 2025-02-24T23:48:45.554Z
 
 ## Summary 
 **draft:** [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-**status:** WG Consensus on Draft, final checks prior to publication  
+**status:** WG Consensus on Draft, Needs -08 for publication 
+**Spring function**: [draft-jiang-spring-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-jiang-spring-sr-policy-nrp/)
 **adopted:** 12/14/2023 (delayed to due checking with TEAS) 
 **adoption calls:** 3/01 to 3/14/2024 
-**WG LC **: 3/14 to 4/4/2025 (closed 12/21/2025 due to Spring interaction) 
-**current version:** -04
+**WG LC **: 3/14 to 4/4/2025 (closed 12/21/2025 due to Spring interaction), 
+**current version:** 07
 **next steps:** Needs -05 
 **Early Allocation**: NRP ID sub-TLV 123 (done)  
 **implementations:** 
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-nrp/](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) 
+
+## -07 
+Status: NITS before publication 
+- Needs IANA Section change to add registry group 
+- Spring link draft needs to be refreshed ( [draft-jiang-spring-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-jiang-spring-sr-policy-nrp/)
+
 
 ## -05 Shepherd's report
 draft: [daft-ietf-idr-sr-policy-nrp-05](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-nrp-05)
