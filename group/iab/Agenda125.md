@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 125
 description: 
 published: true
-date: 2026-03-16T02:12:45.064Z
+date: 2026-03-16T02:13:05.581Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:22:19.469Z
@@ -88,7 +88,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf125/?session=1003
 > 1. ISOC discussions (30 min) (Olaf & Alvaro); Planning towards the ITU Plenipotentiary (Olaf to present): the presentation would cover technical and policy issues, meetings for the 6 regional telecommunication organizations, etc.  It was presented to the IAB-ISOC group and should be of interest to the whole IAB
 > 2. [Age Workshop Report](https://mailarchive.ietf.org/arch/msg/architecture-discuss/kNuIv0Uz8xNqWnnjML5QYMu8168) and [Statement on Age Verification](https://docs.google.com/document/d/1py7Uzkh8puCNkwSqubxreu6pJranYA7dWoNEwkdu72I/edit?usp=sharing) (30 min) (Mark)
 > 3. Retreat Location (Jason) (15 min)
-> 4. Residential Proxy (Jason) (5 min)
+> 4. Residential Proxy (Jason) (if there is time)
 
 
 
