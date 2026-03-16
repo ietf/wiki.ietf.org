@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2025-11-16T04:31:38.290Z
+date: 2026-03-16T00:07:32.665Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -31,8 +31,8 @@ Success is measured through activity-specific assessments, as well as overall as
 | Greg Wood	| eodir co-coordinator
 | Dhruv Dhody | eodir co-coordinator
 | Roman Danyliw	| Responsible Area Director & IETF Chair
-| Deb Cooley, Ketan Talaulikar| IESG Liason
-| Mirja Kühlewind | IAB Liason 
+| Deb Cooley, Ketan Talaulikar, Mahesh Jethanandani | IESG Liason
+| Warren Kumari | IAB Liason 
 
 ## Potential and new IETF participants
 
