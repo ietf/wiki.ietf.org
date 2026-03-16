@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-14T21:54:59.241Z
+date: 2026-03-16T11:50:05.891Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -40,7 +40,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 ##### Parking Lot
 
-
+* Reconsider side meetings role & organization (Med)
 
 #### Joint Topics with the IAB
 
