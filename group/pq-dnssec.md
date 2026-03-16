@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-03-16T08:16:44.956Z
+date: 2026-03-16T18:43:40.115Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -17,11 +17,11 @@ Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
 
 # IETF 125 Side Meeting
-Tuesday, March 17, 2026, 8:00-9:00 (local Shenzhen time) ([information about room and online participation](https://sidemeetings.ietf.org/))
+Tuesday, March 17, 2026, 8:00-9:00 (local Shenzhen time) ([information about room and online participation](https://sidemeetings.ietf.org/)) ([IETF Webex](https://ietf.webex.com/meet/sidemeetings2))
 
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF125/chair-slides.pdf))
-- 15'+q Minh Hoang Tran (Virginia Tech): Backwards compatible ladders in MTL-mode for SLA-compliant PQ-DNSSEC (Slides)
+- 15'+q Minh Hoang Tran (Virginia Tech): Backwards compatible ladders in MTL-mode for SLA-compliant PQ-DNSSEC ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF125/Tran_Mitigating_signature_churn_Backwards-compatible_ladders_in_MTL-mode_for_Dynamic_pq-DNSSEC.pdf))
 - 15'+q Elmer Lastdrager (SIDN Labs): Simulating DNSSEC on a testbed based on real resolver data ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF125/Lastdrager_Simulating_DNSSEC_on_a_testbed_based_on_real_resolver_data.pdf))
 - 15'+q Elmer Lastdrager (SIDN Labs) presenting Eline Stehouwer's work: DNSSEC and PQC: practical impact of increased TCP in DNS ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF125/Stehouwer_Evaluation_impact_of_increased_TCP_on_name_servers.pdf))
 - AOB
