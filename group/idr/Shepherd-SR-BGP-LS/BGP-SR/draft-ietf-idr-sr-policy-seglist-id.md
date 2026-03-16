@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2026-03-16T20:07:35.441Z
+date: 2026-03-16T20:11:56.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -28,7 +28,8 @@ dateCreated: 2025-02-25T01:55:41.779Z
 ### Springs agreement on Segment list ID concept
 #### Spring concept - segment list  
 - ** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/)
-- Spring does not specifically indicate segment list as part of the candidate route sent, 
+- Spring does not specifically indicate segment list as part of the candidate route sent,
+- document referencese: 
 
 #### BGP-LS concepts - segment list id for reporting 
 - BGP-LS concepts:** Segment list id [RFC9857](https://datatracker.ietf.org/doc/rfc9857/) in section 5.7.4 uses a Segment list id as an aid to reporting regarding a specific segment list already installed.  
@@ -42,9 +43,9 @@ in section 4.2 has the concept of a path id for pce, and it indicates that when 
 - Added link to BGP-LS
 
 Next steps for IDR Shepherd prior to WG LC: 
-1) Verify that Spring conceptual support is adequate for document, and  
+1) Verify that Spring conceptual support is adequate for document
 2) Add authors to add back in the link to PCE concepts in -09, 
-3) WG LC 
+3) WG LC of document 
 
 
 ## Revision -06 
