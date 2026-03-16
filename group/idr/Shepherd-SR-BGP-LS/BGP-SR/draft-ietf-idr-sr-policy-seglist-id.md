@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2026-03-16T21:27:46.999Z
+date: 2026-03-16T21:28:57.053Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -38,11 +38,11 @@ dateCreated: 2025-02-25T01:55:41.779Z
 - PCE in [draft-ietf-pce-multipath-20](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath/)
 in section 4.2 has the concept of a path id for pce, and it indicates that when the LSP is an SR Policy Candidate Path, the Paths within that LSP are the Segment Lists.
 
-### Revisions between -06 and -08: 
+### Chanes between -06 and -08: 
 - removed PCE list, 
 - Added link to BGP-LS
 
-Next steps for IDR Shepherd prior to WG LC: 
+### Next steps for IDR Shepherd prior to WG LC: 
 1) At IETF-125 verify - Spring conceptual support for segment list id 
 2) Add authors to add back in the link to PCE concepts in -09, 
 3) WG LC of document 
