@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-14T10:58:59.009Z
+date: 2026-03-16T00:12:59.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1059,6 +1059,34 @@ Specifically it will show how the draft SIMAP YANG model can be represented in R
   - https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops/
   - https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/
 
+
+### Lightweight Authenticated Key Exchange
+
+- **Champions**
+  - Onsite:
+    Malisa Vucinic (malisa.vucinic@inria.fr)
+    Geovane Fedrecheski (geovane.fedrecheski@inria.fr)
+    Yuxuan Song (yuxuan.song@inria.fr)
+    Tengfei Chang (tengfeichang@hkust-gz.edu.cn)
+  - Remote:
+    William Takeshi (william.a.pereira@inria.fr)
+    Göran Selander (goran.selander@ericsson.com)
+    Marco Tiloca (marco.tiloca@ri.se)
+    
+- **Project Info**
+  Ephemeral Diffie-Hellman over COSE (EDHOC, RFC 9528) specifies a lightweight authenticated key exchange protocol between two peers. EDHOC is especially suited for constrained network environments such as NB-IoT, 6TiSCH, LoRaWAN, IEEE 802.15.4 and BLE.
+  The working group will define a Standards Track EDHOC rekeying protocol reusing the protocol elements from the base specification that uses symmetric keys for authentication, to make those usable both during a key update and a first-time key exchange.
+
+- **Hackathon Plan**
+1. Collaborate with onsite and remote co-authors to improve drafts lake-authz and lake-ra
+2. Hold side meetings to discuss new draft updates
+
+- **Related Documents**
+  https://datatracker.ietf.org/doc/draft-ietf-lake-authz/
+  https://datatracker.ietf.org/doc/draft-ietf-lake-ra/
+
+- **Related Links**
+  https://openwsn.atlassian.net/wiki/spaces/LAKE/pages/4032495639/Side+Meeting+Topics+for+Hackathon+IETF+125
 
 ### DNS-Native Agent Naming and Resolution
 
