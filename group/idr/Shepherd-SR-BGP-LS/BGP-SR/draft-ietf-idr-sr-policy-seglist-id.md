@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2026-03-16T20:03:21.754Z
+date: 2026-03-16T20:07:35.441Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-25T01:55:41.779Z
 **Type:** Proposed Standard
 **Spring:** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/) 
 **current revision:** -08
-**status:** WG LC pending, Needs Spring check at IETF-125.  
+**status:** WG LC pending, in Spring check at IETF-125.  
 **adopted:** 11/6/2024 
 **current version:** 08 (published 2/10/2026),  
 **Early Allocation**: yes, ready for query with -06 revision (11/2 to 11/17/2025)    
@@ -23,6 +23,8 @@ dateCreated: 2025-02-25T01:55:41.779Z
 **bgp-ls draft:** none
 
 ## Revision -08 
+**status**: WG LC IPR Call done (1/5 to 1/12), Needs Spring check. 
+
 ### Springs agreement on Segment list ID concept
 #### Spring concept - segment list  
 - ** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/)
