@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2026-03-16T22:40:03.643Z
+date: 2026-03-16T22:41:14.595Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -12,9 +12,9 @@ dateCreated: 2025-02-25T00:09:15.826Z
 
 
 ## Summary 
-**draft:**  [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
+**draft:**  [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)
 **Type:** Proposed Standard 
-**status:** WG Draft, needs revision 13 
+**status:** WG Draft, needs revision 15 
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -14
 **Early Allocation**: yes, call (1/5/2026 - 1/19/2026) 
