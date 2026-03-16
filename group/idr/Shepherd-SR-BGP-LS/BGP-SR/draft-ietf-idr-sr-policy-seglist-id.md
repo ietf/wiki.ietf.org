@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2025-11-03T03:05:11.704Z
+date: 2026-03-16T20:03:21.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -12,14 +12,38 @@ dateCreated: 2025-02-25T01:55:41.779Z
 
 ## Summary 
 **draft:**  [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-seglist-id) 
-**Type:** Proposed Standard 
-**current revision:** -04 
-**status:** WG Draft, ready for early alli9cation 
-**adopted:**  11/6/2024 
-**current version:** 04 (published 3/26/2025) 
+**Type:** Proposed Standard
+**Spring:** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/) 
+**current revision:** -08
+**status:** WG LC pending, Needs Spring check at IETF-125.  
+**adopted:** 11/6/2024 
+**current version:** 08 (published 2/10/2026),  
 **Early Allocation**: yes, ready for query with -06 revision (11/2 to 11/17/2025)    
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
+
+## Revision -08 
+### Springs agreement on Segment list ID concept
+#### Spring concept - segment list  
+- ** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/)
+- Spring does not specifically indicate segment list as part of the candidate route sent, 
+
+#### BGP-LS concepts - segment list id for reporting 
+- BGP-LS concepts:** Segment list id [RFC9857](https://datatracker.ietf.org/doc/rfc9857/) in section 5.7.4 uses a Segment list id as an aid to reporting regarding a specific segment list already installed.  
+
+#### PCE concepts - path id for setting and reporting
+- PCE in [draft-ietf-pce-multipath-20](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath/)
+in section 4.2 has the concept of a path id for pce, and it indicates that when the LSP is an SR Policy Candidate Path, the Paths within that LSP are the Segment Lists.
+
+### Revisions between -06 and -08: 
+- removed PCE list, 
+- Added link to BGP-LS
+
+Next steps for IDR Shepherd prior to WG LC: 
+1) Verify that Spring conceptual support is adequate for document, and  
+2) Add authors to add back in the link to PCE concepts in -09, 
+3) WG LC 
+
 
 ## Revision -06 
 **status:** -04 is ready for early allocation.  AD ask for specific request instead of bundled requests. 
