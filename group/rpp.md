@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2026-02-27T12:36:49.902Z
+date: 2026-03-17T08:43:06.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -66,3 +66,4 @@ TODO
 ## Hackathons
 
 - [IETF-123](https://wiki.ietf.org/en/group/rpp/hackathon/hackathon-123)
+- [IETF-125 (Bortzmeyer)](https://github.com/bortzmeyer/RPP-Afnic)
