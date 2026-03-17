@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2026-03-17T06:28:16.525Z
+date: 2026-03-17T08:57:28.094Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
