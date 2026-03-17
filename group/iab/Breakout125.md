@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 125
 description: 
 published: true
-date: 2026-03-16T10:01:45.009Z
+date: 2026-03-17T03:28:41.449Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:23:46.946Z
@@ -40,8 +40,9 @@ For food & beverage service requests, please include:
 
 ## Thursday 
 
-07:30-09:00: IAB Business Meeting
+- 07:30-09:00: IAB Business Meeting
 
+- 11:00-12:00: Alvaro (idr-sdwan)
 
 ## Friday 
 
