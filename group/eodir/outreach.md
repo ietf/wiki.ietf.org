@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-02-16T05:17:42.775Z
+date: 2026-03-19T14:45:44.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,6 +52,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|March 2026|[ICANN85](https://meetings.icann.org/en/meetings/icann85/)|Mixed|all levels|Dhruv, Warren, Pete, David, Sally|[GAC](https://icann.zoom.us/rec/play/9uhlJWM-mXPw0Y2lIke_LMWK0iz0i3AVNoo7-8FyTF_rE8_9T2kbV_DUVVyiwGw9mZhXaKhlMO9DG2DA.byLlHClbwR9VYCIf?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1773199878000&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FAgpqsMOj72qNBmdzJQ8bjxgFUt6PWib-1Kfg-5_-_RVgVJFoVCIt-paIAH5tBKOH.NCOpC7WaBZMdsIEt%3FstartTime%3D1773199878000)<br>[ALAC](https://icann.zoom.us/rec/share/45pZi1QKtQ9fRUOMzBZHgBcqNFKJDNIXGLPmectSTTSDVwHiQpdCumx9YoyUlaYp.jgeciaW4FGUUAflE?startTime=1772940772000)<br>[How it Works](https://icann.zoom.us/rec/play/0r5AsvGWq6qAZ04TVZhUi_fNK3uLSfDxfYoQqX0IyVCXzfK2Z6wiWklDZW7nWSu94N3MoWJXBEbjkUwJ.Srtsf5NDGkGDO41i?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1773054013000&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2F89927reyILuByB7Qto6LKE4LNIvRL1fGaV8qsWE1HQnKMtoXQFMsF6sDpmdfp0cG.FtubGwXJ0h5DOetq%3FstartTime%3D1773054013000)|
 |Feb 2026|[APRICOT 2026](https://2026.apricot.net/programme/programme#/day/6/147/)|Operators|Participants|Paresh, Warren|[Slide](https://conference.apnic.net/61/assets/presentation-files/2ea34790-9ba4-436d-8f0a-8fa643a6c731.pdf)<br>[Video](https://www.youtube.com/live/OZpOWOmp3Qk?si=Jy_ANoxrhyHN2zb7&t=1810)|
 |Jan 2026|[NIXI](https://nixi.in/scheme/)|Internet Governance Internship Cohorts|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1vDkYkLzcKNV1tORXWkdJoYKGKAxrZ2RuYPrRTz7Aric/edit?usp=sharing)|
 |Jan 2026|[Net Mission 2026](https://netmission.asia/2025/08/22/netmission-academy-2026-applications-now-open/)|Students|Knowledge sharing|Dhruv|[Slide](https://docs.google.com/presentation/d/1WIvoYwGX-z_jmgcfvkhwdXxAjNy4xhE-k83ca83hhAY/edit?usp=sharing)|
