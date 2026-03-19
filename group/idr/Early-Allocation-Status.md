@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-03-19T21:15:56.692Z
+date: 2026-03-19T21:22:33.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -32,8 +32,12 @@ dateCreated: 2023-02-15T05:33:03.580Z
 
 ### SR Policy Metric - Metric Types
 
-This registry is specified in draft-ietf-idr-sr-policy-metric.  The SR Policy List Sub-TLV is undergoing early allocation and this registry needs to be tracked until either publication or the updated IANA early registry procedures are implemented.
+This registry is specified in draft-ietf-idr-sr-policy-metric.  This registry is being tracked under the "early registry creation" concept
+(see https://datatracker.ietf.org/doc/draft-baber-ianabis-early-registries/)
 
+This  registry needs to be tracked until either publication or the updated IANA early registry procedures are implemented.
+
+---------------------------------------------------------
 | Code Point |         Metric Type                      |
 |------------|------------------------------------------|
 |     0      | IGP Metric                               |
