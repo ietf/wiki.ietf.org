@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-01-01T06:42:47.764Z
+date: 2026-03-19T13:52:49.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -16,8 +16,8 @@ dateCreated: 2022-07-23T19:21:39.664Z
   The agenda for the next informal telechat; add items here
 - [Upcoming IETF](/group/iesg/UpcomingIETF)
   Booking the IESG breakout room, showing arrival times, and agenda topics for the next face-to-face meeting
-- [Retreat Info](/group/iesg/RetreatInfo)
-  Information about the upcoming IESG retreat
+- [IESG Strategy Meeting Info](/group/iesg/RetreatInfo)
+  Information about the upcoming IESG Strategy Meeting
 - [Secretariat tools](https://www.ietf.org/links/)
   See also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket.
 
