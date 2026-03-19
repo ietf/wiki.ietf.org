@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-03-10T11:23:17.779Z
+date: 2026-03-19T04:28:57.043Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -66,7 +66,6 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Arashmid Akhavain | arashmid.akhavain@huawei.com | |
 | Hesham Moussa | hesham.moussa@huawei.com | |
 | Christian Kuhtz | christian@kuhtz.com | |
-| Hermin Anggawijaya | hermin.anggawijaya@gmail.com | Need to be back to hotel in Shenzhen by 6:00pm to catch 9:00pm flight from SZX |
 | Gurtej Singh Chandok | gchandok.ietf@gmail.com | |
 |Gianpaolo Scalone| gianpaolo.scalone@gmail.com| 2 participants |
 |Emile Stephan| emile.stephan@gmail.com| |
