@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-05T00:15:51.243Z
+date: 2026-03-19T03:29:06.753Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -55,10 +55,12 @@ See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
 ## Future Unscheduled Topics 
 
+- Age verification workshop
+- Statement on Age Verification
 
 ## Unscheduled Technical Discussions
 
-* Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
+
 
 ## Planned IRTF RG Reviews 
 
