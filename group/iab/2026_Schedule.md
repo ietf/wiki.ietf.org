@@ -2,7 +2,7 @@
 title: 2026-2027 Meeting Schedule
 description: 
 published: true
-date: 2026-03-19T06:39:44.469Z
+date: 2026-03-19T06:50:57.068Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-19T06:39:44.469Z
@@ -42,16 +42,35 @@ Informal meetings will be one-hour slots every week that alternate between  thre
 
 ## Informal IAB Meetings
 
-- 19 Nov 2025  23:00-00:00 UTC	Informal Meeting (Reserved)
-- 26 Nov 2025  07:00-08:00 UTC	Informal Meeting (Reserved)
-- 03 Dec 2025  16:00-17:00 UTC	Informal Meeting (Reserved)
-- 10 Dec 2025  23:00-00:00 UTC	Informal Meeting (Reserved)
-- 21 Jan 2026  07:00-08:00 UTC	Informal Meeting (Reserved)
-- 28 Jan 2026  16:00-17:00 UTC	Informal Meeting (Reserved)
-- 04 Feb 2026  23:00-00:00 UTC	Informal Meeting (Reserved)
-- 11 Feb 2026  07:00-08:00 UTC	Informal Meeting (Reserved)
-- 25 Feb 2026  16:00-17:00 UTC	Informal Meeting (Reserved)
-- 04 Mar 2026  23:00-00:00 UTC	Informal Meeting (Reserved)
+- 2026-04-01	Informal	1400-1500 UTC
+- 2026-04-08	Informal	2300-0000 UTC
+- 2026-04-22	Informal	0600-0700 UTC
+- 2026-04-29	Informal	1400-1500 UTC
+- 2026-05-06	Informal	2300-0000 UTC
+- 2026-05-20	Informal	0600-0700 UTC
+- 2026-05-27	Informal	1400-1500 UTC
+- 2026-06-03	Informal	2300-0000 UTC
+- 2026-06-17	Informal	0600-0700 UTC
+- 2026-06-24	Informal	1400-1500 UTC
+- 2026-07-01	Informal	2300-0000 UTC
+- 2026-08-05	Informal	0600-0700 UTC
+- 2026-08-12	Informal	1400-1500 UTC
+- 2026-08-19	Informal	2300-0000 UTC
+- 2026-09-02	Informal	0600-0700 UTC
+- 2026-09-09	Informal	1400-1500 UTC
+- 2026-09-16	Informal	2300-0000 UTC
+- 2026-09-30	Informal	0600-0700 UTC
+- 2026-10-07	Informal	1400-1500 UTC
+- 2026-10-14	Informal	2300-0000 UTC
+- 2026-10-28	Informal	0600-0700 UTC
+- 2026-11-04	Informal	1400-1500 UTC
+- 2026-12-02	Informal	1600-1700 UTC
+- 2026-12-09	Informal	2300-0000 UTC
+- 2027-01-13	Informal	2300-1600 UTC
+- 2027-01-27	Informal	0700-0800 UTC
+- 2027-02-03	Informal	1600-1700 UTC
+- 2027-02-10	Informal	2300-0000 UTC
+- 2027-02-24	Informal	0700-0800 UTC
 
 
 
