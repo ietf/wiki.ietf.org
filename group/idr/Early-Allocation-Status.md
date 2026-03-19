@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-03-19T09:01:15.491Z
+date: 2026-03-19T21:15:56.692Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -47,7 +47,13 @@ This registry is specified in draft-ietf-idr-sr-policy-metric.  The SR Policy Li
 {.dense}
 
 
-## Pending early allocation, Holding for draft revision 
+## Pending early allocation,In process 
+
+Note: If you see these values in a product, please 
+contact the IDR Chairs (idr-chairs@ietf.org). These values were 
+assigned for lab testing only.  This draft is in WG LC for 
+new assignment of values. 
+
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (21) | Segment type L  | Needs revised draft (-04)  |
