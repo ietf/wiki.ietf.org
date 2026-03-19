@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-03-19T05:41:44.478Z
+date: 2026-03-19T05:44:41.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -37,7 +37,7 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Jéferson Campos Nobre | jcnobre@inf.ufrgs.br | |
 | Julien Maisonneuve | julien.maisonneuve@nokia.com | |
 | Ondřej Surý | ondrej@sury.org | |
-| Michael Takeuchi | michael.takeuchi@binus.ac.id | Will join at the lunch time |
+| Michael Takeuchi | michael.takeuchi@binus.ac.id | Will join at the lunch time, please help to share the restaurant name and location |
 | Dmitry Kuznetsov | mail@dmitry.fyi | |
 | Christian Giese | christian@rtbrick.com | |
 | Benno Overeinder | benno@nlnetlabs.nl | |
