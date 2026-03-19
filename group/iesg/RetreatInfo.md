@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-16T11:50:31.118Z
+date: 2026-03-19T16:15:33.620Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -40,7 +40,9 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 ##### Parking Lot
 
+* Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
 * Reconsider side meetings role & organization (Med)
+* Sync on what IESG states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 
 #### Joint Topics with the IAB
 
