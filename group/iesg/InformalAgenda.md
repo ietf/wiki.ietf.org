@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-03-15T18:44:34.395Z
+date: 2026-03-20T21:03:01.603Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-* Kline, Erik (day job conference/meetings)
+
 
 ## Agenda
 
@@ -40,32 +40,22 @@ Note that this page is public.
 
 ### Administrivia
 
-- IESG Onboarding (Secretariat)
-  - [slides](https://docs.google.com/presentation/d/1_yBYzHrX54emGmcZJETUlMkDM6fBw6S1A1I4EIP_omY/edit?usp=sharing)
-- RPC Orientation (RPC)
-  - [slides](https://docs.google.com/presentation/d/1nSSiqLmfmNHnoDIERyVgyUJ2TCVrI7iRft9Il3jojPk/edit?usp=sharing)
 
 ### Document Discussions
 
 ### Management Issues
 
-- PROCON WG request -- [reclassifying BCPs currently in the IAB stream which have been through IETF Last Call as IETF stream](https://docs.google.com/document/d/19dwnZCWkVt7uMwepiez-4-IF9WsfWdu5q78KdSOAxLA/edit?tab=t.0) (Roman)
-
-- [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
+- Creating non-WG mailing lists for AI topics.
 
 ### WG News 
 
-- DNS Consultation status (Med)
-  + [Overall context](https://mailarchive.ietf.org/arch/msg/dnsop/9aztqcxfpgCEkhQT3LGxkWuMui8/)
-  + [Consultation Goals & Planning](https://mailarchive.ietf.org/arch/msg/dnsop/6zd0dvgsB7p5vE8FPgBxhdUs3y0/)
-  + [Draft consensus conclusions](https://datatracker.ietf.org/doc/draft-hardaker-dns-wgs-at-ietf/)
-  + [Presenting/discussing updated conclusions at IETF#125](https://datatracker.ietf.org/meeting/125/materials/agenda-125-opsarea-00)
+
 
 ### Documents to Swap 
 
 ### Executive Sessions
 
-- Appeal Processing
+
 
 
 ### AOB
@@ -75,7 +65,6 @@ Note that this page is public.
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
-- Well-Known URI registration policy - proposal to freeze all registration requests (MN).
 
 
 ### Topics Deferred Till Next Informal 
