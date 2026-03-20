@@ -2,7 +2,7 @@
 title: Updated Guidance about Handling Attachments for Incoming Liaison Statements
 description: 
 published: true
-date: 2026-03-20T00:33:45.615Z
+date: 2026-03-20T00:34:16.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-20T00:33:45.615Z
@@ -22,7 +22,7 @@ In short:
 For more detailed instructions, the following mail was sent to the liaison-managers@iab.org list accordingly on March 20, 2026:
 
 
-> Subject: Updated Process: secretariat will forward LSs from statements@ietf.org to liaison managers for upload
+> Subject: Guidance about Handling Attachments for Incoming Liaison Statements
 >
 >Hi all,
 >
