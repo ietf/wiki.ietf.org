@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-03-20T02:11:51.726Z
+date: 2026-03-20T02:12:48.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -20,18 +20,12 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 
 ### March 2026 (Shenzhen) [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=10s) [intro slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-intro-mirjadave)
 - Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
-
-- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-are-you-rpki-ready-the-road-left-to-full-roa-adoption)
-
-- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-rscope-unveiling-global-rov-deployments-and-dependencies-in-the-post-rov-era)
-
-- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-what-ipv6-rfcs-dont-say-about-vpns)
-
-- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-understanding-and-characterizing-intermediate-paths-of-email-delivery)
-
-- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-analyzing-compliance-and-complications-of-integrating-internationalized-x509-certificates)
-
-- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-measuring-the-time-source-vulnerabilities-in-the-ntp-ecosystem)
+- ru-RPKI-ready: the Road Left to Full ROA Adoption [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-measuring-the-time-source-vulnerabilities-in-the-ntp-ecosystem), Deepak Gouda, March 2026
+- Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-are-you-rpki-ready-the-road-left-to-full-roa-adoption), Weitong Li, March 2026
+- What IPv6 RFCs Don't Say About VPNs [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-rscope-unveiling-global-rov-deployments-and-dependencies-in-the-post-rov-era), Yejin Cho, March 2026
+- Understanding and Characterizing Intermediate Paths of Email Delivery: The Hidden Dependencies [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-what-ipv6-rfcs-dont-say-about-vpns), Shibo Cui, March 2026
+- Analyzing Compliance and Complications of Integrating Internationalized X.509 Certificates [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-understanding-and-characterizing-intermediate-paths-of-email-delivery), Mingming Zhang, March 2026
+- Measuring the Time Source Vulnerabilities in the NTP Ecosystem [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-analyzing-compliance-and-complications-of-integrating-internationalized-x509-certificates), Zhentian Huang, March 2026
 
 ### November 2025 (Montreal) [YouTube](https://youtu.be/G6JdxAkfYKE?t=9s) [intro slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-intro-mirjadave)
 - A Longitudinal Study of the Prevalence of WiFi Bottlenecks in Home Access Networks [YouTube](https://youtu.be/G6JdxAkfYKE?t=5m30s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-a-longitudinal-study-of-the-prevalence-of-wifi-bottlenecks-in-home-access-networks), Ranya Sharma, November 2025
