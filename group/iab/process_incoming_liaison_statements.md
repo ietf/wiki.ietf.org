@@ -2,7 +2,7 @@
 title: Process for Handling Incoming Liaison Statements
 description: 
 published: true
-date: 2026-03-09T14:49:21.896Z
+date: 2026-03-20T00:39:41.259Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-09T14:49:21.896Z
@@ -20,7 +20,7 @@ In short:
 	* For statement orginially received on statements@ietf.org, secretrariat will check back after a week if the statement was not uploaded but that's only meant as an emerency backup
 
 
-For more detailed instructoon, the following mail was sent to the liaison-maanagers@iab.org list accordingly on Aug 26, 2025:
+For more detailed instructions, the following mail was sent to the liaison-managers@iab.org list accordingly on Aug 26, 2025:
 
 
 > Subject: Updated Process: secretariat will forward LSs from statements@ietf.org to liaison managers for upload
