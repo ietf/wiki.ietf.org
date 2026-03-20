@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-03-20T02:35:43.698Z
+date: 2026-03-20T02:36:55.163Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -19,7 +19,7 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
 ### March 2026 (Shenzhen) [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=10s) [intro slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-intro-mirjadave)
-- Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=4m53a) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
+- Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=4m53s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
 - ru-RPKI-ready: the Road Left to Full ROA Adoption [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=9m45s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-measuring-the-time-source-vulnerabilities-in-the-ntp-ecosystem), Deepak Gouda, March 2026
 - Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=21m29s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-are-you-rpki-ready-the-road-left-to-full-roa-adoption), Weitong Li, March 2026
 - What IPv6 RFCs Don't Say About VPNs [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=33m13s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-rscope-unveiling-global-rov-deployments-and-dependencies-in-the-post-rov-era), Yejin Cho, March 2026
