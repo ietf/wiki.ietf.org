@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-03-20T02:49:12.698Z
+date: 2026-03-20T02:50:32.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -22,7 +22,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 - Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=4m53s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
 - ru-RPKI-ready: the Road Left to Full ROA Adoption [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=9m45s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-are-you-rpki-ready-the-road-left-to-full-roa-adoption), Deepak Gouda, March 2026
 - Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=21m35s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-rscope-unveiling-global-rov-deployments-and-dependencies-in-the-post-rov-era), Weitong Li, March 2026
-- What IPv6 RFCs Don't Say About VPNs [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=33m13s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-what-ipv6-rfcs-dont-say-about-vpns), Yejin Cho, March 2026
+- What IPv6 RFCs Don't Say About VPNs [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=33m14s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-what-ipv6-rfcs-dont-say-about-vpns), Yejin Cho, March 2026
 - Understanding and Characterizing Intermediate Paths of Email Delivery: The Hidden Dependencies [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=44m52s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-understanding-and-characterizing-intermediate-paths-of-email-delivery), Shibo Cui, March 2026
 - Analyzing Compliance and Complications of Integrating Internationalized X.509 Certificates [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=58m5s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-analyzing-compliance-and-complications-of-integrating-internationalized-x509-certificates), Mingming Zhang, March 2026
 - Measuring the Time Source Vulnerabilities in the NTP Ecosystem [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=1h13m36s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-measuring-the-time-source-vulnerabilities-in-the-ntp-ecosystem), Zhentian Huang, March 2026
