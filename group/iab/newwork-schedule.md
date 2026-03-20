@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-03-16T03:27:21.651Z
+date: 2026-03-20T05:10:53.404Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -32,6 +32,8 @@ Tips for future -
 ## Thursday 19th March
 Beverage Break, **16:00-16:30**
 IAB Members: Dhruv, Mirja, Yaroslav
+
+- Who stepped by: David Silk (IoT discovery and data exchange/measurements)
 
 # IETF 124 Montreal
 
