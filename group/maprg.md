@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2025-11-11T19:14:13.734Z
+date: 2026-03-20T02:11:51.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -17,6 +17,21 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### March 2026 (Shenzhen) [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=10s) [intro slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-intro-mirjadave)
+- Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
+
+- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-are-you-rpki-ready-the-road-left-to-full-roa-adoption)
+
+- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-rscope-unveiling-global-rov-deployments-and-dependencies-in-the-post-rov-era)
+
+- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-what-ipv6-rfcs-dont-say-about-vpns)
+
+- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-understanding-and-characterizing-intermediate-paths-of-email-delivery)
+
+- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-analyzing-compliance-and-complications-of-integrating-internationalized-x509-certificates)
+
+- TITLE [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=FIXME) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-measuring-the-time-source-vulnerabilities-in-the-ntp-ecosystem)
 
 ### November 2025 (Montreal) [YouTube](https://youtu.be/G6JdxAkfYKE?t=9s) [intro slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-intro-mirjadave)
 - A Longitudinal Study of the Prevalence of WiFi Bottlenecks in Home Access Networks [YouTube](https://youtu.be/G6JdxAkfYKE?t=5m30s) [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-maprg-a-longitudinal-study-of-the-prevalence-of-wifi-bottlenecks-in-home-access-networks), Ranya Sharma, November 2025
