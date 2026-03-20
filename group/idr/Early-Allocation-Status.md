@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-03-20T00:07:49.772Z
+date: 2026-03-20T00:15:17.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -23,9 +23,9 @@ dateCreated: 2023-02-15T05:33:03.580Z
 #### (draft-ietf-idr-sr-policy-safi registries)  
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Email query |    
 |---|---|---|---|---|---|---|
- [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 17 (temporary) | ELP Sub-TLV  | IANA assigned temporary value | watching until WG LC |  
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 | Path Segment | needs  version -15.  2 byte length in reverse path segement is a problem.  Also Registry name should be SR Policy Segment List Sub-TLVs. | TBD | 
-| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | needs -04 to correct registry name + other issues (SR Policy Segment List Sub-TLVs) | TBD | 
+ [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 17 (temporary) | ELP Sub-TLV  | IANA assigned temporary value | Add Cross-WG section  |  
+| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 | Path Segment | needs  version -15.  2 byte length in reverse path segement is a problem.  Also Registry name should be SR Policy Segment List Sub-TLVs. Add Cross WG section  | TBD  | 
+| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | needs -04 to correct registry name + other issues (SR Policy Segment List Sub-TLVs) +  Add Cross-WG Section  | TBD   | 
 | [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu) | SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Path MTU | Needs -14 + Ketan's OK | TBD | 
 {.dense}
 
@@ -51,7 +51,7 @@ This  registry needs to be tracked until either publication or the updated IANA 
 {.dense}
 
 
-## Pending early allocation - in IDR discussion 
+## Pending early allocation - in IDR WG LC  
 Note: If you see these values in a product, please 
 contact the IDR Chairs (idr-chairs@ietf.org). These values were 
 assigned for lab testing only.  This draft is in WG LC for 
@@ -59,11 +59,11 @@ new assignment of values.
 
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (21) | Segment type L  | Needs revised draft (-04)  |
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (22) | Segment type M   | Needs revised draft (-04) |
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (23) | Segment type N | Needs revised draft (-04)  |
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (24) | Segment type O  | Needs revised draft (-04)  |
-| [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (25) | Path MTU  | Needs revised draft (-13)  |
+| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (21) | Segment type L  | in allocation WG LC (3/20 to 4/4)   |
+| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (22) | Segment type M   | in allocation WG LC (3/20 to 4/4) |
+| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (23) | Segment type N | in allocation WG LC (3/23 to 4/4)  |
+| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (24) | Segment type O  | in Allocation WG LC (3/23 to 4/4)  |
+| [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (25) | Path MTU  |  Needs 2nd allocation WG LC   |
 {.dense}
 
 ## WG drafts - Early allocation assigned 
@@ -71,7 +71,7 @@ new assignment of values.
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations  
 |  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|     
 |---|---|---|---|---|---|---|---|
-| [draft-ietf-idr-bgp-ls-sr-policy-nrp-01](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1220 | NRP | assigned  |
+| [draft-ietf-idr-bgp-ls-sr-policy-nrp-01](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1220 | NRP | at IESG |
 {.dense}
 
 ### draft-ietf-idr-5g-edge-service-metadata 
