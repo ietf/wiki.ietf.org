@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-03-20T21:03:01.603Z
+date: 2026-03-20T21:03:26.439Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -45,7 +45,7 @@ Note that this page is public.
 
 ### Management Issues
 
-- Creating non-WG mailing lists for AI topics.
+- Creating non-WG mailing lists for AI topics. (Andy)
 
 ### WG News 
 
