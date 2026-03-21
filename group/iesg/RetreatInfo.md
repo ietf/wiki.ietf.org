@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-20T15:31:33.845Z
+date: 2026-03-21T07:59:55.299Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -17,7 +17,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 
 #### On-Site Participation
-
+Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
 
 
 
