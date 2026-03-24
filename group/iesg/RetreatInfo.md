@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-23T07:15:26.706Z
+date: 2026-03-24T06:17:13.595Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -13,7 +13,7 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 ### Logistics
 * Background [Information](https://docs.google.com/document/d/1qhVhBBAbjujyjSZygTPeqWOs6Vg1zU-DLVTVodV7bDw/edit?usp=sharing) for anyone considering hosting the IESG Strategy Meeting. 
-* Gunter indicated that the location will be Akamai London office at https://maps.app.goo.gl/GK6GhwG7X1CFqwMy8
+* Gunter indicated that the location will be [Akamai London office](https://maps.app.goo.gl/GK6GhwG7X1CFqwMy8) 7 Air St, London W1B 5AD, Royaume-Uni
 
 #### Remote Participation
 
