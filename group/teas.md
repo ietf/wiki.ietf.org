@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-03-18T04:22:32.226Z
+date: 2026-03-25T18:40:56.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -71,6 +71,8 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
  #### TE Models - Design Discussion
 
-- [TEAS WG Announcement](https://mailarchive.ietf.org/arch/msg/teas/YIt2ucAn1mgMwg4-meCO2BitORA/)
-- [Add to Calendar](https://ietf.webex.com/ietf/j.php?MTID=m291887da0e2c57ff0df60a8f34c83ec9)
-- [Join Meeting](https://ietf.webex.com/ietf/j.php?MTID=m32fdff8bffd93f07d36ea0e61d826da4)
+Occurs every Friday effective Friday, April 10, 2026 until Friday, July 10, 2026 from 8:00 AM to 9:00 AM, (UTC-07:00) Pacific Time (US & Canada)
+
+- [TEAS WG Announcement](https://mailarchive.ietf.org/arch/msg/teas/rKBp5UeAAJQUrFJ6lTYH79lT8qA/)
+- [Add to Calendar](https://ietf.webex.com/ietf/j.php?MTID=mafd0125e9d7ab3f06e5e40252640da14)
+- [Join Meeting](https://ietf.webex.com/ietf/j.php?MTID=mb1be6c84c6dd2f2e93d36ccbf9b59d73)
