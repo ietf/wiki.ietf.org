@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-25T09:44:15.610Z
+date: 2026-03-25T19:56:53.866Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -10,6 +10,10 @@ dateCreated: 2022-08-24T13:35:55.095Z
 
 # IESG Strategy Meeting Information
 ## 2026 Strategy Meeting -- Dates 11-13 of May 2026
+
+Start: Monday, May 11, 1230
+End: Wednesday, May 13, 1200
+
 
 ### Logistics
 * Background [Information](https://docs.google.com/document/d/1qhVhBBAbjujyjSZygTPeqWOs6Vg1zU-DLVTVodV7bDw/edit?usp=sharing) for anyone considering hosting the IESG Strategy Meeting. 
@@ -44,6 +48,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * New work Shepherds (Med)
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
+* NomCom Feedback
 
 #### Joint Topics with the IAB
 
