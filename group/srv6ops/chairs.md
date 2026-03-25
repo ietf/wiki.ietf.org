@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2026-03-25T15:20:12.306Z
+date: 2026-03-25T15:25:26.769Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -24,7 +24,7 @@ dateCreated: 2024-07-12T14:22:53.552Z
 ### Future speakers
 
 * Eduard Metz (KPN) - upperside talked about SR-MPLS and SRv6 cooexistence
-* Nebius (Ai Cloud)
+* Nebius (Ai Cloud) - Alexey Gorovoy
 * Sonic [Microsoft: SONiC for AI with SRv6]
 * Martin Gysi - Swisscom 
 * Rolf Schmid - Swisscom
