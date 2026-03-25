@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-01-19T16:20:17.859Z
+date: 2026-02-17T17:48:12.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -17,6 +17,12 @@ IDR generally requires at least two interoperable implementations of a draft bef
 Implementation reports are published on our wiki (see below). Implementation reports should highlight aspects of the spec that have been implemented (for example, consider the sections and SHOULD/MUST/MAY/etc keywords as a matrix, with tickmarks to indicate compliance), aspects that have not been implemented (and why, if the answer would be interesting), what testing, interoperation, and deployment the implementation has seen, and any observations that the reporter deems interesting. Naturally it should indicate the software release, organization, and individual filing the report.
 
 If you have questions or concerns regarding the implementation requirement, please send questions to the IDR mailing list or the IDR chairs.
+
+## Overall Working Group Status
+
+To ease tracking of the high rate of churn of the status of working group documents, the IDR chairs are tracking a number of working group status items in [github](https://github.com/ietf-wg-idr/idr-chairs/blob/main/status.md).
+
+The longer term intent is that the IETF wiki continues to be the primary location to track non-status work.
 
 ## Draft Status
 

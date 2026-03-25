@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2025-11-03T02:05:54.447Z
+date: 2026-03-16T22:23:46.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -16,36 +16,53 @@ dateCreated: 2025-02-24T21:07:32.555Z
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
-**current version:** -03 
+**current version:** -04, Needs -05 
 **Early Allocation**: 20 [wiki Early Allocation](/group/idr/Early-Allocation-Status), needs early allocation.  Call awaits -04 version with Issues fixed (Technical and Editorial)  
 **implementations:** TBD  
 **bgp-ls draft:** none 
-**Next step:** release -04 with issues fixed, and then do an Early Allocation call (2 weeks) 
+**Next step:** release -05 with issues fixed, and then do an Early Allocation call (2 weeks) 
+
+## -04 Review 
+**draft (-04):** [draft-ietf-idr-sr-policy-metric-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-policy-metric-03.txt) - No changes were made to draft.  Issues raise in -03 need to be addressed. 
 
 ## -03 Review
 **draft (-03):** [draft-ietf-idr-sr-policy-metric-03](https://www.ietf.org/archive/id/draft-ietf-idr-sr-policy-metric-03.txt)
 **Shepherd report on IDR Email list:** TBD 
 
 ### Technical Issues
-#### Technical Issue 1 - Do you have the right registry
+#### Technical Issue 1 - Do you have the right registry?
 Ketan is concerned that you have the right registry at:
 https://www.iana.org/assignments/bgp-tunnel-encapsulation/bgp-tunnel-encapsulation.xhtml#sr-policy-segment-list-sub-tlvs
 
 Please discuss with Ketan about the correct registry. The registry you have specified is at the same level as all segment types.  Should it be "SR Policy Segment List Sub-TLVs"
+
+Also, when you update this portion of the text update the IANA comment to the format *registry* in *registry group*.
 
 #### Technical Issue 2 - please update to RFC9830 
 [I-D.ietf-idr-sr-policy-safi](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi/13/) is now [RFC9830](https://datatracker.ietf.org/doc/rfc9830/).  Please update your draft. 
 
 #### Technical Issue 3 - Update security text in section 8  
 
-The metric for a pathway using SR technology is information critical to a network. 
-Therefore, you must include a warning in the security considerations in section 8
-to have the operator carefully restrict access to the metric information. 
+The metric for a pathway using SR technology is information critical to a network. Therefore, you must include a warning in the security considerations in section 8 to have the operator carefully restrict access to the metric information. 
 
 ### Editorial Issues
 #### Editorial issue 1 - in section 7.2
 Please fix the table format for code point 5. 
 
+### Add A Cross WG section 
+#### Issue 1 - Spring WG connection
+Please indicate what Spring WG document or individual draft mentions "metric" for the Segment list.  Add this to a new section denoted as "Cross WG information".  We will take this out at publication time, but it will speed up the process of getting your document published. 
+
+#### Issue 2 - SRv6OPS WG connection 
+If there is a SRv6OPS call for a metric on the segment list to aid implementation, please put this information in the "Cross WG information" section. 
+
+#### Issue 3 - PCE WG connection
+
+If there is a PCE feature that specifies metric for the segment list, 
+please list the feature and the PCE WG document it is in. 
+
+#### Issue 4 - BGP-LS feature 
+If the SR Candidate path information gathered by BGP-LS, gather this metric from the segment list on the candidate path, please include that information in the Cross-WG section 
 
 ## -02 Review 
  **draft (-02):**  [refresh only](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-metric-02) -  Update only refresh the draft.  No changes. Needs revision

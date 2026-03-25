@@ -2,7 +2,7 @@
 title: SIDROPS
 description: Secure Inter-Domain Routing Operations
 published: true
-date: 2026-01-01T06:41:39.260Z
+date: 2026-03-04T16:42:54.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T23:52:35.023Z
@@ -28,20 +28,6 @@ Implementation reports are published on our wiki (see below). Implementation rep
 
 If you have questions or concerns regarding the implementation requirement, please send questions to the [SIDROPS mailing-list](https://www.ietf.org/mailman/listinfo/sidrops) or the [SIDROPS chairs](mailto:sidrops-chairs@ietf.org). We are here to help you!
 
-## SIDROPS WG Last Call
+## Draft Implementation Reports
 
-
-## SIDROPS WG Call for adoption
-
-[draft-spaghetti-sidrops-rpki-crl-numbers](/group/sidrops/draft-spaghetti-sidrops-rpki-crl-numbers)
-
-## Draft Implementation status
-
-[draft-ietf-sidrops-signed-tal](/group/sidrops/draft-ietf-sidrops-signed-tal)
-[draft-ietf-sidrops-aspa-profile](/group/sidrops/draft-ietf-sidrops-aspa-profile)
-[draft-ietf-sidrops-8210bis](/group/sidrops/draft-ietf-sidrops-8210bis)
-[draft-ietf-sidrops-cms-signing-time](draft-ietf-sidrops-cms-signing-time)
-[draft-ietf-sidrops-rrdp-desynchronization](/group/sidrops/draft-ietf-sidrops-rrdp-desynchronization)
-[draft-ietf-sidrops-rrdp-same-origin](/group/sidrops/draft-ietf-sidrops-rrdp-same-origin)
-
-[draft-snijders-constraining-rpki-trust-anchors](/group/sidrops/draft-snijders-constraining-rpki-trust-anchors)
+See the [implementations](/group/sidrops/implementations) page!

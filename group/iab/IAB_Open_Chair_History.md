@@ -2,7 +2,7 @@
 title: IAB Open Chair History
 description: 
 published: true
-date: 2025-11-06T16:44:53.139Z
+date: 2026-03-12T08:36:37.603Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T00:13:03.738Z
@@ -11,6 +11,7 @@ dateCreated: 2023-12-06T00:13:03.738Z
 # IAB Open Chair History
 The IAB Open Meeting is generally chaired by the IAB Chair* and one other IAB member, on a rotating basis.
 
+- 125: Dhruv Dhody*, Yingzhen Qu
 - 124: Tommy Pauly*, Jana Iyengar
 - 123: Tommy Pauly*, Jason Livingood
 - 122: Tommy Pauly*, Alvaro Retana

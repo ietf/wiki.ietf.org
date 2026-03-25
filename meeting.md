@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2026-01-27T20:44:01.834Z
+date: 2026-03-25T15:18:14.940Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -15,13 +15,6 @@ Wikis are used by participants to share information about and coordinate around 
 ## Upcoming meetings 
 
 ### {.tabset}
-
-#### IETF 125 Shenzhen
-**March 14-20, 2026** - :cn: Shenzhen, China
-- [IETF 125 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/125)
-- [IETF 125 Side Meetings *Board with available side meeting space. *(coming soon)**](#)
-- [IETF 125 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/125/hackathon)
-{.links-list}
 
 #### IETF 126 Vienna
 **July 18-24, 2026** - :austria: Vienna, Austria
@@ -41,6 +34,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
+| **IETF 125** | :cn: Shenzhen, CN | March 14-20, 2026 | [Meeting Wiki](/meeting/125) - [Side Meetings](https://sidemeetings.ietf.org) - [Hackathon](/meeting/125/hackathon) |
 | **IETF 124** | :canada: Montréal, CA | November 01-07, 2025 | [Meeting Wiki](/meeting/124) - [Side Meetings](https://trello.com/b/s1hNprRf/ietf-124-side-meeting-scheduling) - [Hackathon](/meeting/124/hackathon) |
 | **IETF 123** | :es: Madrid, ES | July 19-25, 2025 | [Meeting Wiki](/meeting/123) - [Side Meetings](https://trello.com/b/6kmZPwOx) - [Hackathon](/meeting/123/hackathon) |
 | **IETF 122** | :thailand: Bangkok, TH | March 15-21, 2025 | [Meeting Wiki](/meeting/122) - [Side Meetings](https://trello.com/b/R7yDMPyl) - [Hackathon](/meeting/122/hackathon) |

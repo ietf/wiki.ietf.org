@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 125
 description: 
 published: true
-date: 2026-02-10T16:25:30.442Z
+date: 2026-03-18T08:17:21.197Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:23:46.946Z
@@ -21,22 +21,28 @@ For food & beverage service requests, please include:
 
 ## Monday
 
-12:30-14:00: RSAB
+- 08:30-09:00: Dhruv & Yaroslav
+- 12:30-14:00: ICANN appointees lunch
 
 
 ## Tuesday 
 
-07:30-09:00: IAB Business Meeting
+- 07:30-09:00: IAB Business Meeting
+
+- 12:30-14:00: UNAVAILABLE (Talk to Cindy or Paige)
+- 14:30-15:00 Yingzhen
+- 15:30-16:30: Liaison Coordinator Office Hours
 
 
 
 ## Wednesday 
-
+- 17:00-20:00: UNAVAILABLE (Talk to Stephanie)
 
 ## Thursday 
 
-07:30-09:00: IAB Business Meeting
+- 07:30-09:00: IAB Business Meeting
 
+- 11:00-12:00: Alvaro (idr-sdwan)
 
 ## Friday 
 

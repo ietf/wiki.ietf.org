@@ -2,7 +2,7 @@
 title: Routing Directorate Members Experience and Interests
 description: 
 published: true
-date: 2026-02-11T10:53:02.184Z
+date: 2026-03-03T01:43:29.774Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T23:18:05.626Z
@@ -118,12 +118,7 @@ When you joins the Routing Directorate, you should update this wiki page.  Pleas
 * Former Routing AD (long ago)
 * following many other RTG WGs
 * Co-authored drafts in transport (diff-serv) and O&M (Policy Management)
-### Jonathan Hardwick (last updated : 12 Feb 2019) 
- * Software engineer working on IP / MPLS / GMPLS control and management planes.
- * Was a co-chair of PCE
- * Implemented BGP, L2/L3 VPNs, MPLS & Segment Routing control plane, PCE, PIM
- * Interested in SDN, NFV, segment routing and FRR
- * Following mainly PCE, TEAS, SPRING, MPLS, IDR, RTGWG
+
 ### Sue Hares (last updated : date) 
  * WG chair in I2RS, IDR, TRILL
  * Active in I2RS, IDR, BESS, SIDR and all thing SDN related

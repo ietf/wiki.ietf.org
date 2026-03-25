@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-01-01T06:43:18.052Z
+date: 2026-02-26T21:45:15.590Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -26,30 +26,31 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
  * [Global Access to the Internet for All (GAIA)](/group/gaia)
  * [Internet Congestion Control (iccrg)](/group/iccrg)
  * [Information-Centric Networking (icnrg)](/group/icnrg)
- * [Network Management Research Group (NMRG)](/group/nmrg)
- * [Coding for efficient NetWork Communications Research Group (nwcrg)](/group/nwcrg)
  * [Measurement and Analysis for Protocols (MAPRG)](/group/maprg) 
+ * [Network Management Research Group (NMRG)](/group/nmrg)
  * [Privacy Enhancement and Assessment Proposed RG (PEARG)](/group/pearg)
- * [Thing-to-Thing RG (T2TRG)](https://github.com/t2trg)
  * [Quantum Internet Proposed RG (QIRG)](/group/qirg)
- * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
  * [ Sustainability and the Internet Proposed Research Group (SUSTAIN)](/group/sustain)
+ * [Thing-to-Thing RG (T2TRG)](https://github.com/t2trg)
+ * [Usable Formal Methods Proposed RG (UFM)](/group/ufm)
 
-## Pages for Past Activities 
- * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( )
+
+<!-- ## Pages for Past Activities 
+ * [Stopping Malware and Researching Threats (SMART) (IAB/IRTF BOF at 104)]( ) -->
 
 
-## Pages for IRTF Non-RG-Intending Activities 
- * [AI and ML Discussions]()
+<!-- ## Pages for IRTF Non-RG-Intending Activities 
+ * [AI and ML Discussions]() -->
 
 ## Status of IRTF Documents 
 
 * [Active and Expired IRTF Internet Drafts](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=56)
-* [Internet Drafts in RG last call](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=58)
-* [Internet Drafts awaiting IRSG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=61)
-* [Internet Drafts waiting for IRTF Chair](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=60)
-* [Internet Drafts in IESG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=63)
-* [Internet Drafts in RFC Editor Queue](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=64)
+* [Internet Drafts In RG Last Call](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=58)
+* [Internet Drafts Awaiting IRSG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=61)
+* [Internet Drafts In IRSG Poll](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=62)
+* [Internet Drafts Waiting for IRTF Chair](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=60)
+* [Internet Drafts In IESG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=63)
+* [Internet Drafts In RFC Editor Queue](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=64)
 
 ## IRTF Process 
 
@@ -68,25 +69,26 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 
  * [ASRG](http://wiki.asrg.sp.am) (now concluded)
  * [COINRG](/group/coinrg) (now concluded)
+ * [DTNRG](https://sites.google.com/site/dtnresgroup/home) (also: old wiki at [DTNRG](http://www.dtnrg.org/))
  * [EME](/group/eme) (now concluded)
  * [HIPRG](/group/hiprg) (now concluded)
+ * [NCRG](http://networkcomplexity.org/) (now concluded)
  * [NFVRG](/group/nfvrg) (now concluded)
+ * [NWCRG](/group/nwcrg) (now concluded)
  * [P2PRG](/group/p2prg) (now concluded)
  * [PKNG](/group/pkng) (now concluded)
+ * [RRG](/group/rrg) (now concluded)
  * [SAMRG](/group/samrg) (now concluded)
+ * [SDNRG](/group/sdnrg) (now concluded)
  * [TMRG](/group/tmrg) (now concluded)
  * [VNRG](/group/vnrg)  (now concluded)
- * [RRG](/group/rrg) (now concluded)
- * [NCRG](http://networkcomplexity.org/) (now concluded)
- * [DTNRG](https://sites.google.com/site/dtnresgroup/home) (also: old wiki at [DTNRG](http://www.dtnrg.org/))
- * [SDNRG](/group/sdnrg) (now concluded)
 
 
 ## Other 
 
  * [IRTF Logo Files](https://irtf.org/policies/logo.html)
- * [IRTF web site source code]()
- * [ANRW Logo Files]()
+ <!-- * [IRTF web site source code]() -->
+  <!-- * [ANRW Logo Files]() -->
  
 
 ---

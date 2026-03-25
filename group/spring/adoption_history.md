@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2026-01-13T16:53:28.226Z
+date: 2026-02-27T18:53:02.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -96,3 +96,9 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * 2025-07-25 (IETF 123) Authors sent request
   * 2025-11-25 [Adoption Call]
   * 2026-01-06 Adopted!
+* draft-jiang-spring-sr-policy-nrp
+  * [Responsible Chair: Alvaro]
+  * 2025-11-27 Request from authors
+  * 2026-01-19 [Call for Adoptopn](https://mailarchive.ietf.org/arch/msg/spring/-CSkBHYjXpuT4xg0gUdEeEhOBI4/)
+  * 2026-02-27 Adopted!
+

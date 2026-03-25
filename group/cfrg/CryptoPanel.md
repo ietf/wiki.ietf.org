@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2025-03-19T03:07:49.751Z
+date: 2026-03-03T09:50:37.865Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -33,7 +33,7 @@ The CFRG chairs will make appointments to the Review Panel.  The panel will be c
 Reviewers will be appointed to the panel for a period of 2 years, renewable. The CFRG chairs will endeavour to ensure that the Review Panel has a balanced composition covering the main technical areas of relevance to CFRG. Individuals may self-nominate or nominate others for panel membership.
 Being a panel member represents a commitment to review documents in a timely and thorough fashion; reviewers' panel membership will be rescinded at the discretion of the CFRG chairs.
 
-## Crypto Review Panel members (March 2024 - February 2026)
+## Crypto Review Panel members (March 2024 - April 2026)
 
 | Name | Affiliation |
 | ---- | ----------- |

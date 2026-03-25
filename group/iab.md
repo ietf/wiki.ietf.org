@@ -2,7 +2,7 @@
 title: IAB - Internet Architecture Board Wiki
 description: 
 published: true
-date: 2026-01-23T20:26:55.898Z
+date: 2026-03-20T05:12:58.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T03:27:32.408Z
@@ -11,7 +11,7 @@ dateCreated: 2023-01-26T03:27:32.408Z
 # Welcome to the IAB public wiki
 
 ## Events and Scheduling 
-* [IAB 2025-2026 Schedule](/group/iab/2025_Schedule)
+* [IAB 2026-2027 Schedule](/group/iab/2026_Schedule)
 * [IAB Meeting Agenda](/group/iab/Agenda)
 * [IAB Retreats](/group/iab/IAB_Retreats)
 * [IAB IETF 125 Agenda](/group/iab/Agenda125)
@@ -31,15 +31,20 @@ dateCreated: 2023-01-26T03:27:32.408Z
 * [RSAB Stream Representative](/group/iab/RSAB_stream_representative)
 * [EODIR liaison](/group/iab/EODIR_Liaison)
 
-
 ## Liaison Coordination
-* [Important resources and links](/group/iab/liaison_resources)
 * See also [Liaison Coordinator Job Description](/group/iab/Liaison_Coordinator_Job_Description)
-#### Additional Infos on (some) Liaison Relationships
+* [Updated Process for Handling Incoming Liaison Statements](/group/iab/process_incoming_liaison_statements)
+* [Updated Guidance for Handling Attachments for Incoming Liaison Statements](/group/iab/process_attachments_incoming_statements)
+* [Important resources and links](/group/iab/liaison_resources)
+
+#### Additional Infos on Processes of (some) other SDOs
 * [Broadband Forum (BBF) liaison relationship](/group/iab/BBF_liaison_relationship)
 * [ISO liaison relationship](/group/iab/ISO_liaison_relationship)
 * [Relationship with ETSI](/group/iab/Relationship_with_ETSI)
 * [ITU-T liaison relationship](/group/iab/ITU-T_liaison_relationship)
+* [3GPP](/group/iab/3gpp_liaison_relationship)
+* [W3C](/group/iab/w3c_liaison_relationship)
+* [M3AAWG](/group/iab/m3aawg_liaison_relationship)
 
 ## Processes and Guidance 
 * [IAB Onboarding and Review](https://docs.google.com/presentation/d/1CpjUKvENgo37gjDHAO4VlPCLzKgSC5yChKJYdc8LGp4/edit?usp=sharing)  (Google Slides)

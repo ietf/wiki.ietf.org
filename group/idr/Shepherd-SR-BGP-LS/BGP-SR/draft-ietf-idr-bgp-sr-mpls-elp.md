@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2026-01-06T21:34:30.116Z
+date: 2026-03-16T20:53:29.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -12,21 +12,56 @@ dateCreated: 2025-02-26T02:37:13.865Z
 
 ## Summary 
 **draft:**  [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-srmpls-elp)
-**renamed draft**: [draft-ietf-idr-bgp-sr-mpls-elp]
+**renamed draft**: [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-sr-mpls-elp)
 **Type:** Proposed Standard 
-**status:** WG Draft  
-**adopted:**  8/12/2024 (7/12/2024 - 7/30/2024) 
-**current version:** 04
-**Early Allocation**: Ok by Ketan, waiting for IANA allocation 
-**implementations:** H3C and ZTE (2 implementations) 
-**WG LC:** Needs implementation report and -05 with allocation insert  
+**status:** WG Draft with early al
+**adopted:** 8/12/2024 (7/12/2024 - 7/30/2024) 
+**current version:** 00 (renamed draft) 
+**Early Allocation**: completed (}SR Policy Segment List Sub-TLVs) 
+**implementations:** H3C and ZTE (2 implementations)  
+**Next Steps:** 
+1. Needs -01 with edits (authors)  
+2. implementations report (authors) 
+3. Cross-WG checks prior to WGLC (Shepherd with authors help) 
+
 **bgp-ls draft:** none 
+
 
 ## Review of -00 (renamed)
 **status**: Renamed per IDR Chair's request. 
-### Editorial: 
-Issue-1: Please change the reference to draft-ietf-idr-sr-policy-safi to 
-RFC9830. 
+### Technical  
+#### Issue-1: Change all references to draft-ietf-idr-sr-policy-safi to [RFC9830]
+
+Please change the reference to draft-ietf-idr-sr-policy-safi to RFC9830. 
+
+#### Issue-2: IANA section needs following changes: 
+ 
+ old text/ 
+ This document defines a new sub-TLV in the registry "SR Policy List
+ Sub-TLVs" [I-D.ietf-idr-sr-policy-safi] to be assigned by IANA: / 
+ 
+ New text:/
+>   This document defines a new sub-TLV in the registry "SR Policy Segment List Sub-TLVs" [RFC9830] to be assigned by IANA: / 
+{.is-info}
+
+Old text:/
+   TBD         ELP Sub-TLV                       This document/ 
+ New text:/
+   17         ELP Sub-TLV                        This document/
+   
+#### Issue 3: Spring Concepts Validation 
+ 
+ Prior to WG LC, we are going validate that the links in the document to the Spring and PCE concepts are correct.  This shepherd understands that: understanding: 
+-  [RFC8662](https://datatracker.ietf.org/doc/rfc8662) proposes to use entropy labels for SR-MPLS networks and multiple <ELI, EL> pairs may be inserted in the SR-MPLS label stack.
+- [RFC9830](https://datatracker.ietf.org/doc/rfc9830) specifies passing SR Candidate Paths for a SR Policy.  It also specifies passing the Explicit NULL Label Policy (ENLP). 
+- [draft-ietf-idr-bgp-sr-mpls-elp](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - specifies how to encode entropy labels into segment lists in SR Candidate Paths.
+
+I am asking Spring to check on that this information is sufficient to do a WG LC on your document. Recall your WG LC requires 2 implementations and cross-WG checks prior to WG LC. This is one of the cross WG Checks. 
+
+#### Issue 4: PCE Cross WG checks 
+
+Does the PCE function set ENLP policy or ENLP in the segment list? 
+If so, would you send me the reference to the document that specify it. 
 
 
 ## Review of -04 

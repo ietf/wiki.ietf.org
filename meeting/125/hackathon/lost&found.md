@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon Lost & Found
 description: 
 published: true
-date: 2025-09-22T19:40:13.119Z
+date: 2026-03-14T03:17:01.523Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:39:34.276Z
@@ -23,7 +23,7 @@ Champions wanting help on their projects are encouraged to add themselves to the
 ## Skills to Offer
 | Name| Email Address| Skills and/or interests you have to offer |
 |---|---|---|
-|   |   |   |
+|Musaab Khan|musaab.khan@protonmail.com|Anything CRDT related|
 |   |   |   |
 |   |   |   |
 |   |   |   |

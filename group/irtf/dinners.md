@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2025-05-27T15:11:36.913Z
+date: 2026-02-25T17:43:45.658Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -12,11 +12,24 @@ dateCreated: 2023-02-27T16:52:39.142Z
 
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
 
+* IETF 125 Shenzhen
+	* Google poll for attendance: 	https://docs.google.com/forms/d/e/1FAIpQLSe9QIUMtvYohUByPZ4NUzpAycmqMqWix_NQubx09t4uhzNChQ/viewform
+  * Wednesday, 18 March, after the plenary
+  * Venue: TBD
+  
+* IETF 124 Montreal
+	* Doodle poll for attendance:
+  https://doodle.com/group-poll/participate/aO9Gp1Ed
+  * Wednesday, 05 November, after the plenary
+  * Venue: The Tuck Shop
+  https://tuckshop.ca/
+  
 * IETF 123 Madrid
 	* Doodle poll for attendance:
-  TBD
+  https://doodle.com/group-poll/participate/eXpJROke
   * Wednesday, 23 July, after the plenary
-  * Venue: TBD
+  * Venue: La Guisandera de Piñera
+  https://www.laguisanderadepinera.com/
 
 * IETF 122 Bangkok
   * Doodle poll for attendance: 

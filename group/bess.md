@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2025-11-25T15:23:33.494Z
+date: 2026-03-17T08:57:28.094Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -36,7 +36,7 @@ dateCreated: 2022-11-05T16:17:26.188Z
 * 5-author guideline
 * IPR declaration
 * Implementation status
-* GenArt and RtgDir early review
+* GenArt and RtgDir early review and when required involved BGP directorate
 * Cross-review or joint-call by relevant WGs (e.g., IDR)
 
 ## On going polls
@@ -144,26 +144,18 @@ Shepherd's name indicated within parenthesis.
   - Susan comment has been addressed, waiting for her comment. 
   - Expired 
 
-* draft-ietf-bess-evpn-mvpn-seamless-interop
-  - Ready for WGLC 
 
 * draft-ietf-bess-evpn-bfd
   - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
   - early review to be started 
   
 ## Recently adopted documents
-* draft-ietf-bess-evpn-fast-reroute-00
-* draft-ietf-bess-evpn-vpws-gateway-00
-* draft-sajassi-bess-rfc8317bis-04
-* draft-mpmz-bess-mup-safi (Matthew)
+* draft-ietf-bess-mup-safi-00 (Matthew)
 * draft-sajassi-bess-evpn-umr-mobility-02 (Stephane)
 
 ## Documents requested for Working Group adoption (Non Expired drafts only)
 
-
-* draft-mackenzie-bess-evpn-l3mh-proto (Jeffrey)
-  - Adoption call in progress
-* draft-sajassi-bess-evpn-first-hop-security-03
+* draft-sajassi-bess-evpn-first-hop-security-03 (Jeffrey)
 * draft-rbickhart-evpn-ip-mac-proxy-adv (Jeffrey)
 * draft-rabadan-bess-evpn-inter-domain-opt-b
 * draft-rabnic-bess-evpn-mcast-eeg

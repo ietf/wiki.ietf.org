@@ -2,7 +2,7 @@
 title: IAB Chair Selection Process Guidelines
 description: 
 published: true
-date: 2024-02-06T23:59:02.357Z
+date: 2026-02-20T16:50:21.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:51:30.914Z
@@ -87,7 +87,7 @@ This is a set of guidelines describing how the IAB selects its Chair. It is NOT 
 > The list also includes the non-voting members, who may still participate in the discussion of the candidates, as they have experience working with them
 > 
 > - All outgoing IAB (including me)
-> - The IRTF Chair (Colin)
+> - The IRTF Chair (*name*)
 > - The Selection Chair Assistant (Cindy), who is on the list to keep things on track on the admin side
 > 
 > **Candidates**

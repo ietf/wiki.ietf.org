@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-02-12T22:10:43.107Z
+date: 2026-03-19T03:32:24.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Formal Business Meeting Agenda: 2026-02-18, 14:00-16:00 UTC (2 hours)
+# IAB Informal Meeting Agenda: 2026-04-01, 14:00-15:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-02-18
+## There WILL NOT be a meeting on 2026-04-01
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m2cf7953be787792c45da617722f8a0c1
+* Webex Link: TBD
 
 
 ## Agenda
@@ -23,65 +23,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
+### 1. Item
 
-
-### 1. Administrivia (Cindy) 
-
-#### 1.1. Attendance
-
-#### 1.2. Agenda bash and announcements
-
-#### 1.3. Meeting Minutes
-
-For approval
-
--  2026-01-14 business meeting - (submitted 2026-01-14) 
-
-
-### 2. Monthly Reports (Liaisons, etc.)
-
- - IRTF Chair
- - IESG Liaison
- - ICANN Board Liaison
- - IANA Liaison
- - IAB Outreach Coordinator
- - Liaison Coordinators
-
-
-### 3. Wiki updates (Dhruv)
-
- - Workshop (Diff: https://github.com/dhruvdhody/wiki.ietf.org/commit/781322724fe58f2fba78f058fca79e4fa487066f)
- - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
-
-
-
-### 4. IAB Meetings at IETF 125
-
-  Goal: Confirm IAB Open Chairs
-
-  Goal: Brainstorm potential topics for IAB Business Meetings
-  
-  Wiki: https://wiki.ietf.org/en/group/iab/Agenda125
-
-
-### 5. 2026 IAB Retreat
-
-  Goal: Update on potential dates and locations
-
-
-### 6. Review of Open Issues for Responsibilities (Tommy)
-
- GitHub: https://github.com/intarchboard/responsibilities/issues
-
-
-### 7. Executive Session: ISOC BoT Appointment (Cindy)
-
-  GitHub: https://github.com/intarchboard/responsibilities/issues/72
-
-  Goal: Update on nominations status, organize interviews
-
-
-
+Context:
 
 
 
@@ -93,33 +37,30 @@ For approval
 
 ## Topics for Future Informal Meetings
 
+### Discuss Draft ISE Consulation Survey
+Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?tab=t.0) The sub-group working on this is Roman, Fluffy, Dhruv, and Jason. This is a draft and we'd like to explore Dhruv's feedback that perhaps some of the questions should be more open-ended. The sub-group has struggled to act on this via async collaboration and felt it easier to have a live discussion.
+
 ### ETSI liaison discussion
 ### WBA liaison discussion
 
-### ICANN85 Outreach Planning (Dhruv, Warren)
 
 
 ## Upcoming IAB Meetings
 
 See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
-
-- 2026-02-18 Feb 2026  14:00-16:00 UTC	Formal Board Meeting
-    - ISOC BoT vote
-
-- 2026-02-25 16:00-17:00 UTC	Informal Meeting 
-    - IAB Member Onboarding and Review
-- 2026-03-04 23:00-00:00 UTC	Informal Meeting (Reserved)
     
     
 -- 2026-03-14 - 2026-03-20: IETF 125 Shenzhen --
 
 ## Future Unscheduled Topics 
 
+- Age verification workshop report (Mark)
+- Statement on Age Verification (Mark)
 
 ## Unscheduled Technical Discussions
 
-* Digital Divide - Elizabeth M. Belding, University Santa Barbara (Mirja)
+- Residential proxies (Jason)
 
 ## Planned IRTF RG Reviews 
 

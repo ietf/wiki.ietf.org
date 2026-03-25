@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2025-11-07T14:59:54.447Z
+date: 2026-03-20T05:10:53.404Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -11,6 +11,29 @@ dateCreated: 2024-06-28T10:06:07.006Z
 # New Work "Help Desk"
 
 Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot, but more is always better!  
+
+# IETF 125 Shenzhen
+
+Volunteers: Alvaro, ~~Matthew~~, Suresh, Dhruv, (Mirja)
+
+## Monday 16th March 
+Beverage Break, **11:00-11:30** (after dispatch)
+IAB Members: Dhruv, Alvaro, Yingzhen
+
+David Huberman from ICANN! 
+
+Tips for future -
+- Announce it in HotRFC
+- Dispatch* Chairs can point out use IAB as a resource
+- Bigger Banner similar to NOC
+- Near food
+
+
+## Thursday 19th March
+Beverage Break, **16:00-16:30**
+IAB Members: Dhruv, Mirja, Yaroslav
+
+- Who stepped by: David Silk (IoT discovery and data exchange/measurements)
 
 # IETF 124 Montreal
 
