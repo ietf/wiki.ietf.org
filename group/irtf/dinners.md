@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2026-02-25T17:43:45.658Z
+date: 2026-03-26T21:17:20.480Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -15,7 +15,8 @@ The IRSG meets for a working dinner at each IETF meeting, typically on the Wedne
 * IETF 125 Shenzhen
 	* Google poll for attendance: 	https://docs.google.com/forms/d/e/1FAIpQLSe9QIUMtvYohUByPZ4NUzpAycmqMqWix_NQubx09t4uhzNChQ/viewform
   * Wednesday, 18 March, after the plenary
-  * Venue: TBD
+  * Venue: Jingzhifang (Jiangsu Mansion Branch)
+
   
 * IETF 124 Montreal
 	* Doodle poll for attendance:
