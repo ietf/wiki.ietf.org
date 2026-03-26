@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-26T14:30:22.474Z
+date: 2026-03-26T14:34:35.216Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -250,7 +250,8 @@ None
 
 ### WG adoption IPR polling
 
-2026-03 draft-ietf-ccamp-flexe-yang-cm-07
+##### **2026-03 draft-ietf-ccamp-flexe-yang-cm-07**
+
 
 AUTHORS
 
