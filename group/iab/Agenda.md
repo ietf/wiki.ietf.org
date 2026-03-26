@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-26T17:21:18.747Z
+date: 2026-03-26T18:09:26.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,13 +29,15 @@ Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cy
 ### 2. [draft-iab-agews-report](https://datatracker.ietf.org/doc/draft-iab-agews-report/)
 
 Goal: Is this ready to approve? (Community review ended 2026-03-18)
-
+*Any progress on the IAB Statement on Age Verification and/or technical program (Mark)*
 
 ### 3. IAB Strategy Meeting Location
 
 Goal: Are we ready to settle on a location?
 
+### 4. Outreach to local NOGs 
 
+[How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (Dhruv/Yaroslav)
 
 ## Regrets
 
@@ -45,7 +47,8 @@ Goal: Are we ready to settle on a location?
 
 ## Topics for Future Informal Meetings
 
-### 
+### Reverse proxy (Jason)
+### e164.arpa (Liason Coordinators)
 
 ### ETSI liaison discussion
 ### WBA liaison discussion
