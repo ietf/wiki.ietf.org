@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-03-20T00:41:28.499Z
+date: 2026-03-26T11:23:57.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -66,12 +66,13 @@ new assignment of values.
 | [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (25) | Path MTU  |  Needs 2nd allocation WG LC   |
 {.dense}
 
-## WG drafts - Early allocation assigned 
+## WG drafts - Early allocation assigned
 
 ### draft-ietf-idr-bgp-ls-sr-policy Early allocations  
 |  IDR Draft  |  IANA Registry |  IANA Registry Group | Code Point |  Description   |  Status|     
 |---|---|---|---|---|---|---|---|
 | [draft-ietf-idr-bgp-ls-sr-policy-nrp-01](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) | BGP-LS NLRI and Attribute TLVs |  BGP-LS | 1220 | NRP | at IESG |
+ [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 17 (temporary) | ELP Sub-TLV  | IANA assigned temporary value | Add Cross-WG section  | 
 {.dense}
 
 ### draft-ietf-idr-5g-edge-service-metadata 
