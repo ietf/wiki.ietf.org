@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-25T17:02:50.564Z
+date: 2026-03-26T17:21:18.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2026-04-01, 14:00-15:00 UTC (1 hour)
 
-## There WILL NOT be a meeting on 2026-04-01
+## There WILL be a meeting on 2026-04-01
 
 ## Details
 
@@ -23,9 +23,17 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. Item
+### 1. Discuss Draft ISE Consulation Survey
+Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?tab=t.0) The sub-group working on this is Roman, Fluffy, Dhruv, and Jason. This is a draft and we'd like to explore Dhruv's feedback that perhaps some of the questions should be more open-ended. The sub-group has struggled to act on this via async collaboration and felt it easier to have a live discussion.
 
-Context:
+### 2. [draft-iab-agews-report](https://datatracker.ietf.org/doc/draft-iab-agews-report/)
+
+Goal: Is this ready to approve? (Community review ended 2026-03-18)
+
+
+### 3. IAB Strategy Meeting Location
+
+Goal: Are we ready to settle on a location?
 
 
 
@@ -37,8 +45,7 @@ Context:
 
 ## Topics for Future Informal Meetings
 
-### Discuss Draft ISE Consulation Survey
-Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?tab=t.0) The sub-group working on this is Roman, Fluffy, Dhruv, and Jason. This is a draft and we'd like to explore Dhruv's feedback that perhaps some of the questions should be more open-ended. The sub-group has struggled to act on this via async collaboration and felt it easier to have a live discussion.
+### 
 
 ### ETSI liaison discussion
 ### WBA liaison discussion
