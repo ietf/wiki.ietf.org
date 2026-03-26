@@ -10,9 +10,9 @@ dateCreated: 2025-12-19T05:59:58.888Z
 
 # Guidance for External (Non-IETF) Events
 
-This page provides guidance for IAB members when participating in external events that are not sponsored or organized by the IETF/ISOC. 
+This page guides IAB members when participating in external events that are not sponsored or organized by the IETF/ISOC. 
 
-The intent is to support  community outreach while avoiding confusion about official IETF endorsement.
+The intent is to support community outreach while avoiding confusion about official IETF endorsement.
 
 ## Relationship to Existing Guidance
 
@@ -20,16 +20,16 @@ General guidance for speaking about the IETF at external events applies broadly 
 
 - https://chairs.ietf.org/en/speaking
 
-Participants in external events are expected to be familiar with and follow the principles outlined in that guidance.
+Participants in external events should be familiar with them.
 
 ## Principles
 
 ### Outreach and Community Benefit
 
-Participation in external events can benefit the broader IETF community by:
+Participation in external events can benefit the IETF by:
 
 - Increasing awareness of IETF work
-- Encouraging participation from new or under-represented communities
+- Encouraging participation from new or underrepresented communities
 - Supporting education about IETF processes and technologies
 
 Such engagement should be understood as sharing information *about* the IETF and its work, and not as implying official endorsement of the event, its organizers, or its positions.
@@ -52,11 +52,11 @@ The following considerations may help inform decisions about participating in ex
 - The nature of participation does not create confusion about IETF sponsorship or endorsement
 - The purpose of the invitation and expected contribution are clear
 
-Judgment and context are expected to play a central role; rigid checklists are not intended. Reaching out to full IAB for transparency and advice when in doubt. 
+Judgment and context are expected to play a central role; rigid checklists are not intended. Reaching out to the full IAB for transparency and advice when in doubt. 
 
 ### Individual Judgment and Case-by-Case Decisions
 
-Decisions about participation in external events are expected to be made on a case-by-case basis. When uncertain, seeking input from peers, chairs, or outreach coordinators is encouraged.
+Decisions about participation in external events are expected to be made on a case-by-case basis. When uncertain, seeking input from peers, chairs, or the outreach coordinator is encouraged.
 
 ## Suggested Disclaimer
 
@@ -68,9 +68,9 @@ When appropriate, the following disclaimer (or similar language) may be used:
 
 To support consistency and visibility:
 
-- Leadership participation in external events should be recorded in the IETF outreach tracker
-- Sharing outcomes, slides, or brief summaries is encouraged where appropriate
-- Outreach coordinators may help maintain visibility across activities
+- Leadership participation in external events should be recorded in the [IETF outreach tracker](https://docs.google.com/document/d/1qgWjdWhjXaJL6pqK2PKarTs4uLzomNKL-sZcAyNknOY/edit?usp=sharing)
+- Sharing outcomes, slides, or summaries is encouraged where appropriate
+- The outreach coordinator may help maintain visibility across activities
 
 ## High Visibility Engagements
 
