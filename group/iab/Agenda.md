@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-26T18:37:51.607Z
+date: 2026-03-26T18:40:20.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -26,7 +26,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 1. Discuss Draft ISE Consulation Survey
 Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?tab=t.0) 
 Sub Group: Jason, Jana, Alvaro, Roman
-*Questions: Is there appetitte to open up RFC 4846 and RFC 8730 for an update and framing the survey along those lines? Should the survey limit to qualifications that the IAB should use when selecting ISE or should the survey be broader and ask questions on how the community views the ISE role itself?* 
+*Questions: Is there interest in updating RFC 4846 and RFC 8730? Should the survey be framed along those lines? If not, should the survey be limited to qualifications that the IAB should use when selecting ISE or should the survey be broader and ask questions on how the community views the ISE role itself?* 
 
 
 ### 2. [draft-iab-agews-report](https://datatracker.ietf.org/doc/draft-iab-agews-report/)
