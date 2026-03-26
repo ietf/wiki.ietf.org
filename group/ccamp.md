@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-26T14:27:59.511Z
+date: 2026-03-26T14:30:22.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -254,17 +254,12 @@ None
 
 AUTHORS
 
-Xuesong Geng gengxuesong@huawei.com https://mailarchive.ietf.org/arch/msg/ccamp/O_YwdQEIWDfCn5MK1enSBtde_H8/
-Jin Zhou  zhou.jin6@zte.com.cn
-https://mailarchive.ietf.org/arch/msg/ccamp/MwuuVa_v6FAsQyY7pgWJxUApOxQ/
-Liuyan Han hanliuyan@chinamobile.com
-https://mailarchive.ietf.org/arch/msg/ccamp/30iKtPahSsfkUVeSfJeWFrjLW9Q/
-Minxue Wang wangminxue@chinamobile.com
-https://mailarchive.ietf.org/arch/msg/ccamp/5I1MA0hNpFiAVqYnQM56brVZFK4/
-Xufeng Liu xufeng.liu.ietf@gmail.com
-https://mailarchive.ietf.org/arch/msg/ccamp/b9VLksAluDV0wA1yaFWOBppqRzk/
-LUIS MIGUEL CONTRERAS MURILLO luismiguel.contrerasmurillo@telefonica.com
-https://mailarchive.ietf.org/arch/msg/ccamp/95NE49BG_-ZAwCgXSj02H4_dfsc/
+Xuesong Geng https://mailarchive.ietf.org/arch/msg/ccamp/O_YwdQEIWDfCn5MK1enSBtde_H8/
+Jin Zhou https://mailarchive.ietf.org/arch/msg/ccamp/MwuuVa_v6FAsQyY7pgWJxUApOxQ/
+Liuyan Han https://mailarchive.ietf.org/arch/msg/ccamp/30iKtPahSsfkUVeSfJeWFrjLW9Q/
+Minxue Wang https://mailarchive.ietf.org/arch/msg/ccamp/5I1MA0hNpFiAVqYnQM56brVZFK4/
+Xufeng Liu https://mailarchive.ietf.org/arch/msg/ccamp/b9VLksAluDV0wA1yaFWOBppqRzk/
+LUIS MIGUEL CONTRERAS MURILLO https://mailarchive.ietf.org/arch/msg/ccamp/95NE49BG_-ZAwCgXSj02H4_dfsc/
 
 
 #### 2025-10 draft-rokui-ccamp-actn-wdm-pluggable-modelling-03
