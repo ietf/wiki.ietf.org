@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-02-26T21:45:15.590Z
+date: 2026-03-26T21:07:43.315Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -46,9 +46,11 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 
 * [Active and Expired IRTF Internet Drafts](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=56)
 * [Internet Drafts In RG Last Call](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=58)
-* [Internet Drafts Awaiting IRSG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=61)
-* [Internet Drafts In IRSG Poll](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=62)
+* [Internet Drafts Waiting for Document Shepard](https://datatracker.ietf.org/doc/search?name=&sort=&rfcs=on&activedrafts=on&olddrafts=on&by=irtfstate&irtfstate=59)
 * [Internet Drafts Waiting for IRTF Chair](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=60)
+* [Internet Drafts Awaiting IRSG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=61)
+* [Internet Drafts In IRSG Review](https://datatracker.ietf.org/doc/search?name=&sort=&rfcs=on&activedrafts=on&olddrafts=on&by=irtfstate&irtfstate=156)
+* [Internet Drafts In IRSG Poll](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=62)
 * [Internet Drafts In IESG Review](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=63)
 * [Internet Drafts In RFC Editor Queue](https://datatracker.ietf.org/doc/search?name=&sort=&activedrafts=on&by=irtfstate&irtfstate=64)
 
