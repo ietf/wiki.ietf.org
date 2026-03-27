@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-26T14:38:07.746Z
+date: 2026-03-27T15:25:16.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -203,7 +203,7 @@ Framework and Data Model for OTN Network Slicing
 Prio 1
 **- draft-yoon-ccamp-pm-streaming-04**
 A YANG Data Model of Performance Management Streaming
-(IPR polling ongoing)
+(call for adoption ongoing)
 
 Prio 2
 **- draft-zheng-ccamp-client-pm-yang-07**
@@ -249,6 +249,22 @@ None
 ## Concluded IPR polling
 
 ### WG adoption IPR polling
+
+#### 2026-03 draft-yoon-ccamp-pm-streaming-04
+A YANG Data Model of Performance Management Streaming
+
+AUTHORS
+
+Bin Yeong Yoon (byyun@etri.re.kr) - https://mailarchive.ietf.org/arch/msg/ccamp/yf3QLUlFIksXzoQDwJN8Aj6d6Dk/
+Youngkil You (young@woori-net.com) - https://mailarchive.ietf.org/arch/msg/ccamp/34c-7aqLmyAOqQqz81tGU7P1z6o/
+
+CONTRIBUTORS
+
+Kwangkoog Lee (kwangkoog.lee@kt.com) - https://mailarchive.ietf.org/arch/msg/ccamp/yjbaoyj-3jgRd0E7PMw6BzhmY4c/
+Jongyoon Shin (jongyoon.shin@sk.com) - https://mailarchive.ietf.org/arch/msg/ccamp/h_H_32XAbstzKr0cRKVhjefJ9w4/
+Sungyong Nam (sy.nam@lguplus.co.kr) - https://mailarchive.ietf.org/arch/msg/ccamp/nFe-d-L232N4uxsZnV5uQN_8CJw/
+
+
 
 
 #### 2025-10 draft-rokui-ccamp-actn-wdm-pluggable-modelling-03
