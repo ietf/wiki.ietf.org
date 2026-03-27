@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-26T18:46:52.043Z
+date: 2026-03-27T13:05:16.547Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -57,6 +57,10 @@ Goal: Are we ready to settle on a location?
 ### 4. Outreach to local NOGs 
 
 [How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (Dhruv/Yaroslav)
+
+### 5. FCC and foreign routers
+
+Are there any steps we want to take regarding the latest FCC rule on consumer grade routers?
 
 ## Regrets
 
