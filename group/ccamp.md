@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-27T15:25:16.696Z
+date: 2026-03-27T15:26:29.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -253,6 +253,10 @@ None
 #### 2026-03 draft-yoon-ccamp-pm-streaming-04
 A YANG Data Model of Performance Management Streaming
 
+IPR Poll (Luis)
+
+https://mailarchive.ietf.org/arch/msg/ccamp/qUew9YsAco91KXl6H-Gwacb5HP0/
+
 AUTHORS
 
 Bin Yeong Yoon (byyun@etri.re.kr) - https://mailarchive.ietf.org/arch/msg/ccamp/yf3QLUlFIksXzoQDwJN8Aj6d6Dk/
@@ -265,6 +269,8 @@ Jongyoon Shin (jongyoon.shin@sk.com) - https://mailarchive.ietf.org/arch/msg/cca
 Sungyong Nam (sy.nam@lguplus.co.kr) - https://mailarchive.ietf.org/arch/msg/ccamp/nFe-d-L232N4uxsZnV5uQN_8CJw/
 
 
+ 
+. 
 
 
 #### 2025-10 draft-rokui-ccamp-actn-wdm-pluggable-modelling-03
