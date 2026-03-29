@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-29T17:00:18.879Z
+date: 2026-03-29T18:31:07.299Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,7 +34,6 @@ Sub Group: Jason, Jana, Alvaro, Roman
 ### 2. [draft-iab-agews-report](https://datatracker.ietf.org/doc/draft-iab-agews-report/)
 
 Goal: Is this ready to approve? (Community review ended 2026-03-18)
-*Additional: Any progress on the IAB Statement on Age Verification and/or technical program (Mark)*
 
 ### 3. IAB Strategy Meeting Location
 
