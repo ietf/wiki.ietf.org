@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-29T16:09:06.274Z
+date: 2026-03-29T17:00:18.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -48,9 +48,13 @@ Goal: Are we ready to settle on a location?
 
 Are there any steps we want to take regarding the latest FCC rule on consumer grade routers?
 
+### 6. Appeal
+
+Is there anything that we should discuss wrt to appeal handling?
+
 ## Regrets
 
-
+- Mark
 
 
 
