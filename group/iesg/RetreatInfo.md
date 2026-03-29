@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-29T18:37:51.132Z
+date: 2026-03-29T23:26:36.631Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -25,6 +25,7 @@ End: Wednesday, May 13, 1200
 #### On-Site Participation
 Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
 Éric Vyncke - arriving by Eurostar Sunday evening and departing Wednesday early afternoon, staying Double Tree Marble Arch (can be changed though)
+Deb Cooley, arriving 8 May, Hilton Double Tree Marble Arch, departing on 14 May
 Dhruv Dhody - Thistle Hotel - Trafalgar
 
 ## Agenda 
