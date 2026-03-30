@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-29T18:31:07.299Z
+date: 2026-03-30T19:01:12.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -29,8 +29,6 @@ Sub Group: Jason, Jana, Alvaro, Roman
 
 *Refer to Key Questions added in the document to guide the discussion!*
 
-
-
 ### 2. [draft-iab-agews-report](https://datatracker.ietf.org/doc/draft-iab-agews-report/)
 
 Goal: Is this ready to approve? (Community review ended 2026-03-18)
@@ -49,7 +47,7 @@ Are there any steps we want to take regarding the latest FCC rule on consumer gr
 
 ### 6. Appeal
 
-Is there anything that we should discuss wrt to appeal handling?
+Goal: Finalize the approach for the latest appeal
 
 ## Regrets
 
