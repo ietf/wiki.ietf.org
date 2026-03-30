@@ -2,7 +2,7 @@
 title: ANSI TCC
 description: 
 published: true
-date: 2026-03-30T11:04:29.676Z
+date: 2026-03-30T11:05:51.316Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T11:04:01.782Z
@@ -57,4 +57,4 @@ From https://www.ansi.org/standards-coordination/consortia/technology-consortium
 
 ### Notes
 - TCC was formally launched in 2025  
-- Meetings are typically virtual and periodic (e.g., quarterly or biannual)
+- Meetings are typically virtual  
