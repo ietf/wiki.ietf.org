@@ -2,7 +2,7 @@
 title: IAB Outreach Coordinator
 description: 
 published: true
-date: 2025-06-06T06:17:21.223Z
+date: 2026-03-31T12:44:45.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:40:30.565Z
@@ -39,7 +39,7 @@ The Internet Society performs extensive policy and technical outreach activities
 ## Outreach Coverage
 We need to make sure we have good diversity and coverage in the outreach activities selected such that we realize some outreach opportunities every year (i.e., ideally based on the interest or plans of members who already participate in certain events) and also that we don't end up with the same community and events every year. 
 
-**IAB Outreach Coordinator Email**: You can send email to the IAB outreach coordinators at outreach@iab.org. The current IAB outreach coordinator is [Dhruv Dhody](https://datatracker.ietf.org/person/dhruv.ietf@gmail.com).
+**IAB Outreach Coordinator Email**: You can send email to the IAB outreach coordinators at outreach@iab.org. The current IAB outreach coordinator is [Yaroslav Rosomakho](https://datatracker.ietf.org/person/yrosomakho@zscaler.com).
 
 &nbsp;
 &nbsp;
