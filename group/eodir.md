@@ -2,7 +2,7 @@
 title: EODIR - Education and Outreach Directorate
 description: IETF Education and Outreach Directorate strives to enhance the productivity of IETF work, expand the diversity and inclusiveness of the IETF, and enable the IETF to facilitate technical development and innovation in the Internet.
 published: true
-date: 2026-03-31T04:42:06.193Z
+date: 2026-03-31T05:17:22.125Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:58:08.742Z
@@ -41,6 +41,8 @@ IETF newcomers have traditionally been defined by having participated in five or
 ### Newcomers’ Overview
 
 The IETF Newcomers’ Overview provides an introduction to getting started in the IETF. It includes a series of short videos with live Q&A sessions held ahead of IETF meetings. This overview provides pointers to additional information and resources useful for getting started in the IETF, and the Q&A sessions provide opportunities to ask about topics not covered in the videos. Contribute to the development of introductory materials by contacting Rich Salz via the eodir mailing list.
+
+> Related: [Independent New Participant Initiatives](/group/eodir/Independent)
 
 ### IETF Guides
 
