@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-30T19:01:12.481Z
+date: 2026-03-31T23:20:18.903Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -57,7 +57,7 @@ Goal: Finalize the approach for the latest appeal
 
 ## Topics for Future Informal Meetings
 
-### Reverse proxy (Jason)
+### Residential proxy (Jason)
 ### e164.arpa (Liason Coordinators)
 
 ### ETSI liaison discussion
