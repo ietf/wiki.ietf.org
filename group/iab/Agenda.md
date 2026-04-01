@@ -2,19 +2,22 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-01T13:47:14.235Z
+date: 2026-04-01T18:20:58.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-04-01, 14:00-15:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-04-08, 23:00-00:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-04-01
+## There WILL NOT be a meeting on 2026-04-08
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m347636bcf1edcdef3a0baac152710cdc
+* Webex Link: Meeting link: https://ietf.webex.com/ietf/j.php?MTID=m407262be06dc314636727513638ae222
+
+
+
 
 
 ## Agenda
@@ -23,36 +26,15 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. Discuss Draft ISE Consulation Survey
-Document: [Draft IAB ISE Survey](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?tab=t.0) 
-Sub Group: Jason, Jana, Alvaro, Roman
+### 1. 
 
-*Refer to Key Questions added in the document to guide the discussion!*
+Context
 
-### 2. [draft-iab-agews-report](https://datatracker.ietf.org/doc/draft-iab-agews-report/)
 
-Goal: Is this ready to approve? (Community review ended 2026-03-18)
-
-### 3. IAB Strategy Meeting Location
-
-Goal: Are we ready to settle on a location?
-
-### 4. Outreach to local NOGs 
-
-[How to Effectively reach NOGs](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097) (Dhruv/Yaroslav)
-
-### 5. FCC and foreign routers
-
-Are there any steps we want to take regarding the latest FCC rule on consumer grade routers?
-
-### 6. Appeal
-
-Goal: Finalize the approach for the latest appeal
 
 ## Regrets
 
-- Mark
-- Yaroslav (first 30 minutes)
+
 
 
 
