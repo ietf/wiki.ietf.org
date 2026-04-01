@@ -2,7 +2,7 @@
 title: Operational Consideration
 description: 
 published: true
-date: 2026-04-01T08:50:14.562Z
+date: 2026-04-01T08:50:46.525Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T08:46:39.040Z
