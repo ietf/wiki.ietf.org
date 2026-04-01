@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-03-31T23:20:18.903Z
+date: 2026-04-01T13:47:14.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -52,6 +52,7 @@ Goal: Finalize the approach for the latest appeal
 ## Regrets
 
 - Mark
+- Yaroslav (first 30 minutes)
 
 
 
