@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-04-01T07:15:27.332Z
+date: 2026-04-01T07:16:21.715Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -24,7 +24,7 @@ David Huberman from ICANN!
 
 Tips for future -
 - Announce it in HotRFC
-- Dispatch* Chairs can point out use IAB as a resource
+- Dispatch* Chairs can point out use IAB as a resource when bringing new work
 - Bigger Banner similar to NOC
 - Near food
 
