@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-03-12T04:13:17.054Z
+date: 2026-04-01T08:53:38.024Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -16,6 +16,7 @@ This Wiki contains additional information for the IETF [PCE](https://datatracker
 
 Also, see 
 - [Implementation  Policy](/group/pce/ImplementationPolicy)
+- [Operational Consideration](/group/pce/operational)
 - [Guidelines to contributing to this Wiki](https://wiki.ietf.org/en/home#contributing-to-this-wiki)
 - [Coordination with other WG/RG](/group/pce/coordination)
 - [Solicited Review from PCE WG Chairs](/group/pce/solicited-reviews)
