@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-03-20T05:10:53.404Z
+date: 2026-04-01T07:15:27.332Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -34,6 +34,7 @@ Beverage Break, **16:00-16:30**
 IAB Members: Dhruv, Mirja, Yaroslav
 
 - Who stepped by: David Silk (IoT discovery and data exchange/measurements)
+- Discussion about how IAB can help in pre-BoF stages with Adrian and with AI agents as example
 
 # IETF 124 Montreal
 
