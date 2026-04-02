@@ -2,7 +2,7 @@
 title: Issuing a Ballot
 description: Once a document completes IETF Last Call and the AD is satisfied with it, they should issue a ballot in the Datatracker.
 published: true
-date: 2026-04-02T19:50:43.202Z
+date: 2026-04-02T20:57:02.801Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T19:46:27.048Z
