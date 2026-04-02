@@ -2,13 +2,14 @@
 title: Balloting FAQ
 description: 
 published: true
-date: 2025-05-29T20:44:24.214Z
+date: 2026-04-02T19:40:12.580Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T20:43:30.488Z
 ---
 
 # IESG Balloting FAQ
+"Balloting" is used by an Area Director to record their position on a document being considered by the IESG. This is done after a [Ballot is issued](/group/iesg/ballot-issuing).
 
 ## What do ADs ballot on?
 
