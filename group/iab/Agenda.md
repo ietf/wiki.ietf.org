@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-02T16:33:55.145Z
+date: 2026-04-02T16:35:04.693Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -27,7 +27,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 ### 1. Appeal Response
-Goal: Finalize the text for the appeal response
+Goal: Settle on the text for the appeal response
 
 ### 2. ITU-T Consultation Respone
 Goal: Discuss 
