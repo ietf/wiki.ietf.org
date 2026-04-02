@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-03-19T13:52:49.591Z
+date: 2026-04-02T19:47:20.943Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -62,6 +62,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
   * [Standing Meetings](/group/iesg/StandingMeetings) (i.e., formal and informal telechat; and during the plenary meeting)
   * [BOF Coordination Meetings](/group/iesg/bof-coordination-meetings)
 * For Document Balloting
+	* [Issuing a ballot]((/group/iesg/ballot-issuing)
   * [Balloting](https://datatracker.ietf.org/doc/statement-iesg-ballot-procedures-for-documents/) + [Balloting FAQ](/group/iesg/balloting-faq)
   * [DISCUSS Criteria](https://datatracker.ietf.org/doc/statement-iesg-discuss-criteria-in-iesg-review-20140507/)
 * [IETF Chair Fee Waiver](/group/iesg/ietf-chair-fee-waiver)
