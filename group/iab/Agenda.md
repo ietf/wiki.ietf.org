@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-01T18:20:58.530Z
+date: 2026-04-02T16:33:55.145Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2026-04-08, 23:00-00:00 UTC (1 hour)
 
-## There WILL NOT be a meeting on 2026-04-08
+## There WILL be a meeting on 2026-04-08
 
 ## Details
 
@@ -26,9 +26,14 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. 
+### 1. Appeal Response
+Goal: Finalize the text for the appeal response
 
-Context
+### 2. ITU-T Consultation Respone
+Goal: Discuss 
+
+### 3. IAB Strategy Meeting Location (if-needed)
+Goal: Settle on a location.
 
 
 
