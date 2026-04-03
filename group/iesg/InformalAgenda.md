@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-03-20T21:03:26.439Z
+date: 2026-04-03T07:47:21.309Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,12 +40,16 @@ Note that this page is public.
 
 ### Administrivia
 
+- [Document Write-up update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
+- [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
+
 
 ### Document Discussions
 
 ### Management Issues
 
 - Creating non-WG mailing lists for AI topics. (Andy)
+- [IANA Registries with an undefined policy](https://docs.google.com/document/d/1jQoUD5ZdR3lWnFmWAA7rPOOK0EIzBDDO/edit) (Med)
 
 ### WG News 
 
