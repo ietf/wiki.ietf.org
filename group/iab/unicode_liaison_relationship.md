@@ -14,7 +14,7 @@ The IETF/IAB maintains a liaison relationship with the [Unicode Consortium](http
 
 ## Contact
 
-To reach the IETF/IAB liaison to the Unicode Consortium, or to ask questions about the IDNA specifications and their relationship to Unicode, send email to Patrik Fältström \<paf@netnod.se\>. Patrik is also a co-author of RFC 8753 and the maintainer of the [createtables](https://github.com/Netnod/createtables/) tooling described below.
+To reach the IETF/IAB liaison to the Unicode Consortium, or to ask questions about the IDNA specifications and their relationship to Unicode, send email to Patrik Fältström \<paf@netnod.se\>. Patrik is also a co-author of for example RFC 8753 and the maintainer of the [createtables](https://github.com/Netnod/createtables/) tooling described below.
 
 ## Relevant RFCs
 
