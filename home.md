@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-12-04T09:09:05.796Z
+date: 2026-04-06T22:13:35.476Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:49:27.329Z
@@ -37,8 +37,8 @@ This wiki complements the [IETF Notes service](https://notes.ietf.org), which is
 # Meetings
 
 - [Meetings Index *List of all previous, current and upcoming meetings*](/meeting)
-- [IETF 125 Meeting Wiki *Shenzhen, China - March 14-20, 2026*](/meeting/125)
-- [IETF 125 Hackathon Wiki *Shenzhen, China - March 14-20, 2026*](/meeting/125/hackathon)
+- [IETF 126 Meeting Wiki *Vienna, Austria - July 18-24, 2026*](/meeting/126)
+- [IETF 126 Hackathon Wiki *Vienna, Austria - July 18-19, 2026*](/meeting/126/hackathon)
 {.links-list}
 
 # Other IETF websites
