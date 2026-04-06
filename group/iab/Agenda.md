@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-06T08:29:46.513Z
+date: 2026-04-06T08:32:30.434Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -43,13 +43,7 @@ Goal: Settle on a location.
 
 
 
-## Topics for Future Informal Meetings
 
-### Residential proxy (Jason)
-### e164.arpa (Liason Coordinators)
-
-### ETSI liaison discussion
-### WBA liaison discussion
 
 
 
@@ -79,6 +73,8 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
 - Age verification workshop report (Mark)
 - Statement on Age Verification (Mark)
+- ETSI liaison discussion
+- WBA liaison discussion
 
 ## Unscheduled Technical Discussions
 
