@@ -2,7 +2,7 @@
 title: Independent New Participant Initiatives
 description: 
 published: true
-date: 2026-03-31T05:15:13.973Z
+date: 2026-04-06T02:38:28.731Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-31T05:15:13.973Z
@@ -51,7 +51,7 @@ They complement general onboarding by providing **targeted support**.
 | Activity | IETF | Remarks | Links |
 |----------|------|--------|-------|
 | Chinese Youth Talent Program | IETF125 | Get more Chinese (and as well Malaysian) students to participate | TBD |
-|IO Foundation | IETF125 | Targets specific regions (e.g., Asia-Pacific); independent structure | [Link](https://discover.theiofoundation.org/activities/current-season/season-2026/02-february/tiof-tu-fellowship-ietf-125) |
+|The IO Foundation | IETF125 | Targets specific regions (e.g., Asia-Pacific); independent structure | [Link](https://discover.theiofoundation.org/activities/current-season/season-2026/02-february/tiof-tu-fellowship-ietf-125) |
 
 ## Best Practices
 
