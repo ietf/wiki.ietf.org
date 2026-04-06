@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2026-03-25T15:18:14.940Z
+date: 2026-04-06T19:19:58.219Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -25,9 +25,9 @@ Wikis are used by participants to share information about and coordinate around 
 
 #### IETF 127 San Francisco
 **November 14-20, 2026** - :us: San Francisco, USA
-- IETF 127 Meeting Wiki
+- [IETF 127 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/127)
 - IETF 127 Side Meetings
-- IETF 127 Hackathon
+- [IETF 127 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/127/hackathon)
 {.links-list}
 
 ## Past meetings
