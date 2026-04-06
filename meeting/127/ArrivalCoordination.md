@@ -2,7 +2,7 @@
 title: IETF 127 Arrival Coordination
 description: For ease of taxi-sharing or having companions to take the public transport from the airport to the IETF 127 venue and hotels.
 published: true
-date: 2026-04-06T19:05:38.385Z
+date: 2026-04-06T19:12:56.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:05:38.385Z
