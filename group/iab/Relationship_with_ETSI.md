@@ -2,14 +2,14 @@
 title: Relationship with ETSI
 description: 
 published: true
-date: 2023-12-05T17:49:03.933Z
+date: 2026-04-06T08:38:14.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T17:48:58.916Z
 ---
 
 # Relationship with ETSI
-The IETF does currently not maintain a formal liaison relationship with ETSI. The ETSI portal reports the relation as "Informal Collaboration". See https://portal.etsi.org/webapp/AgreementView/AgreementDetail.asp?AgrID=23
+The IETF does NOT currently maintain a formal liaison relationship with ETSI. The ETSI portal reports the relation as "Informal Collaboration". See https://portal.etsi.org/webapp/AgreementView/AgreementDetail.asp?AgrID=23
 
 There is overlap between IETF working groups and ETSI technical committee and collaboration happens on technical level among individuals that participate in both groups, inline with IETF’s general approach to liaison management where we aim to keep liaison relationships as informal as possible (see RFC4052).
 
@@ -19,7 +19,7 @@ The also the ETSI organisation chart for further contact information: https://po
 
 And a full list of committees here: https://www.etsi.org/committees
 
-Further information about ETIS partnerships and liaison management can be found here: https://www.etsi.org/about/our-partnerships
+Further information about ETSI partnerships and liaison management can be found here: https://www.etsi.org/about/our-partnerships
 
 &nbsp;
 &nbsp;
