@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-03T07:54:37.248Z
+date: 2026-04-07T05:45:51.365Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -53,7 +53,7 @@ Note that this page is public.
 
 ### WG News 
 
-
+- Follow-up from DNSOP DISPATCH session on [discovery](https://datatracker.ietf.org/doc/minutes-125-dnsop/): dawn, work statement, mailing list, etc. (Med)
 
 ### Documents to Swap 
 
