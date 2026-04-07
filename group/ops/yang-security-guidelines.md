@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2026-04-07T02:13:40.800Z
+date: 2026-04-07T14:28:26.133Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -42,7 +42,7 @@ There are a number of data nodes defined in this YANG module that are writable/c
 <!-- {blockquote:.is-info} -->
 
 ### Readable nodes section:
-> If the data model contains any readable data nodes (i.e., those that are "config false" nodes, but also all other nodes, because they can also be read via operations like get or get-config), then include the following text:
+> If the data model contains any readable data nodes (i.e., those that are "config false" nodes, but also all other nodes because they can also be read via operations like get or get-config), then include the following text:
 {.is-info}
 
 Some of the readable data nodes in this YANG module may be considered sensitive or vulnerable in some network environments.  It is thus important to control read access (e.g., via get, get-config, or notification) to these data nodes. Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:
