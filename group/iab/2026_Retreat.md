@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-07T12:32:20.876Z
+date: 2026-04-07T12:48:40.026Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -20,6 +20,7 @@ dateCreated: 2026-04-07T12:32:20.876Z
 
 - Evaluation of Formal and Informal Meeting Structure of the IAB, what can be done async, what is appropriate for Informal v/s Formal? 
 	- Evaluation of Meeting time rotations v/s Fixed time?
+- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting)
 
 - IGF 2026 Planning
 - ISOC Related Topics
