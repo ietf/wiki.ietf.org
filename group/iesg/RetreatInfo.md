@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-03-29T23:26:36.631Z
+date: 2026-04-07T12:07:08.493Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -26,7 +26,7 @@ End: Wednesday, May 13, 1200
 Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
 Éric Vyncke - arriving by Eurostar Sunday evening and departing Wednesday early afternoon, staying Double Tree Marble Arch (can be changed though)
 Deb Cooley, arriving 8 May, Hilton Double Tree Marble Arch, departing on 14 May
-Dhruv Dhody - Thistle Hotel - Trafalgar
+Dhruv Dhody - Thistle Hotel - Trafalgar (also attending RIPE meeting next week)
 
 ## Agenda 
 
@@ -51,7 +51,9 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
 * NomCom Feedback
 
-#### Joint Topics with the IAB
+#### Joint Topics with the IAB (for future)
+
+* Good to get early feedback for 4052bis and 4053bis from the IESG, before IAB formally approves it and send to IESG.
 
 
 ### RSVP
