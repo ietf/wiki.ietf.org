@@ -2,7 +2,7 @@
 title: IAB Social Media Guidelines
 description: 
 published: true
-date: 2023-12-06T21:15:05.739Z
+date: 2026-04-07T17:08:02.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T21:15:00.555Z
@@ -35,6 +35,9 @@ The following events prompt accompanying posts to social media accounts:
 - IAB Statement releases
 - Liaison and other appointments
 - Blog posts related to IAB activities
+- New IAB Members seated
+- New IAB Chair selected
+- IAB Outreach activities
 
 Other posting guidelines:
 
