@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-07T15:44:30.237Z
+date: 2026-04-07T15:47:56.843Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -39,14 +39,16 @@ Likely - Google, Shibuya Stream, 3-21-3 Shibuya, Shibuya-ku, Tokyo 150-0002 (yet
 	- ITU-T PP(?)
 - Invited Talk: Lorenzo (TBC)
 
-## Ideas
-- WIDE Project 
-- University in Tokyo
-
 ## Topics for Future IAB+IESG
 
 Also see [IESG agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
-  
+
+## Other Activities
+- IAB Social
+- Meet Jun Murai, WIDE Project 
+- Visit any University in Tokyo
+
+
 ## All Retreat Archives
 [IAB Retreats](/group/iab/IAB_Retreats)
 
