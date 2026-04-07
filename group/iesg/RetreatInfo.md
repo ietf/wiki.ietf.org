@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-07T12:07:08.493Z
+date: 2026-04-07T12:12:06.316Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -53,7 +53,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 #### Joint Topics with the IAB (for future)
 
-* Good to get early feedback for 4052bis and 4053bis from the IESG, before IAB formally approves it and send to IESG.
+* Good to get early feedback for 4052bis and 4053bis from the IESG, before IAB formally approves it and send to IESG. (Dhruv)
 
 
 ### RSVP
