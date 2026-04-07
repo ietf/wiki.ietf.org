@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-07T12:48:40.026Z
+date: 2026-04-07T13:34:03.793Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -10,9 +10,12 @@ dateCreated: 2026-04-07T12:32:20.876Z
 
 # IAB Strategy Meeting 2026 
 
-## Sept 30 - Oct 1, 2026
+## Date
+Sept 30 - Oct 1, 2026 (Full Day)
 
-## Venue - TBD
+
+## Venue 
+Tokyo
 
 ## Agenda - TBD
 
