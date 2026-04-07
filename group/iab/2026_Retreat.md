@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-07T13:34:03.793Z
+date: 2026-04-07T13:36:47.747Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -16,6 +16,7 @@ Sept 30 - Oct 1, 2026 (Full Day)
 
 ## Venue 
 Tokyo
+Likely - Google, Shibuya Stream, 3-21-3 Shibuya, Shibuya-ku, Tokyo 150-0002 (yet to be confirmed)
 
 ## Agenda - TBD
 
