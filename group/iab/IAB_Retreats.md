@@ -2,13 +2,13 @@
 title: IAB Retreats
 description: 
 published: true
-date: 2026-04-07T12:33:08.349Z
+date: 2026-04-07T12:33:23.885Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T23:11:51.815Z
 ---
 
-# IAB Retreats
+# IAB Strategy Meeting / Retreats
 
 [2026 IAB Strategy Meeting](/group/iab/2026_Retreat)
 [2025 Retreat](/group/iab/2025_Retreat)
