@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-07T17:58:56.987Z
+date: 2026-04-08T17:11:28.580Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -60,7 +60,7 @@ Note that this page is public.
 ### Documents to Swap 
 
 ### Executive Sessions
-
+- BCP245 moderators
 
 
 
