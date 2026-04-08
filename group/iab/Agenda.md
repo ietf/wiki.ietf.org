@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-08T17:51:34.236Z
+date: 2026-04-08T23:02:20.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -39,6 +39,7 @@ Goal: Discuss [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkY
 ## Regrets
 - Mathew
 - Jason (tentative)
+- Suresh (tentative)
 
 
 
