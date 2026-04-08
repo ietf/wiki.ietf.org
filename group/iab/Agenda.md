@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-08T17:47:37.625Z
+date: 2026-04-08T17:47:51.507Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -33,7 +33,6 @@ Goal: Settle on the text for the appeal response [Doc](https://docs.google.com/d
 Goal: Discuss [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkYp7l-7RTPJxqv7PO_vVY/edit?usp=sharing)
 
 ### 3. IAB Strategy Meeting Location (if-needed)
-Goal: Settle on a location.
 
 
 
