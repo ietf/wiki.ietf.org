@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-04-08T20:36:45.429Z
+date: 2026-04-08T20:37:22.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -22,6 +22,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
  
   - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
+    - [draft-ietf-idr-bgp-ls-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
 
  ## Implementation reports for drafts at WG LC 
   - [draft-ietf-idr-flowspec-redirect-ip ](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
