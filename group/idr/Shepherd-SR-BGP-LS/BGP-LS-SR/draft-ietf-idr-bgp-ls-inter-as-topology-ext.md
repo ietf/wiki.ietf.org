@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-inter-as-topology-ext Shepherd Reviews 
 description: Shepherd for draft-ietf-idr-bgpl-s-inter-as-topology-ext
 published: true
-date: 2026-04-08T11:03:07.208Z
+date: 2026-04-08T11:03:27.107Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-06T00:11:12.999Z
@@ -14,10 +14,6 @@ dateCreated: 2026-01-06T00:11:12.999Z
 Note: I am going to ask the authors to change draft name to:
 draft-ietf-idr-bgp-ls-inter-as-topology-ext 
 
-
-
-**Version:
-
 **Version:** -22
 **status:** - Waiting for WG LC, -23 needed prior to WG LC due to IANA issues 
 **next steps**: 
@@ -25,7 +21,7 @@ draft-ietf-idr-bgp-ls-inter-as-topology-ext
 https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext
 
 2. IDR chair has requested early Directorate reviews for return by May 4th. 
-3. IDR chair will request IDR Chair review (
+3. IDR chair will request IDR Chair review 
 4. If IDR Chair Review has no commets, we'll start WG LC on 1/9/2026
    If IDR Chair Review has comments, then I'll post the comments to
    the shepherd review page. 
