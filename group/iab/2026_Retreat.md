@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-07T15:52:53.535Z
+date: 2026-04-08T14:41:13.509Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -47,6 +47,7 @@ Also see [IESG agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-fut
 - IAB Social
 - Meet Jun Murai, WIDE Project 
 - Visit any University in Tokyo
+- Any other outreach?
 
 
 ## All Retreat Archives
