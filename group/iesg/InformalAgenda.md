@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-08T17:11:28.580Z
+date: 2026-04-09T10:58:42.946Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -30,6 +30,7 @@ Meeting password: 12345
 ## Regrets
 
 Roman
+Chris
 
 ## Agenda
 
@@ -51,7 +52,6 @@ Note that this page is public.
 - Creating non-WG mailing lists for AI topics. (Andy)
 - [IANA Registries with an undefined policy](https://docs.google.com/document/d/1jQoUD5ZdR3lWnFmWAA7rPOOK0EIzBDDO/edit) (Med)
 - OPENNET Team creation [OPENNET](https://docs.google.com/document/d/12ytT16Sv8qwfpXx7HM_dPdDLwfudPw_GxOn_uEhYFD0/edit?usp=sharing) (Gunter)
-- `code` formatting in drafts, `.txt` output and doc production (Inacio)
 
 ### WG News 
 
@@ -75,6 +75,7 @@ Please list topics in this section that could use discussion but may not warrant
 
 ### Topics Deferred Till Next Informal 
 * For sometime in September: Discuss kramdown-rfc support (was raised at IETF 123 Sunday meeting)
+* `code` formatting in drafts, `.txt` output and doc production (Inacio)
 
 
 -------
