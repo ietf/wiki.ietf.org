@@ -2,7 +2,7 @@
 title: BGP Directorate
 description: 
 published: true
-date: 2026-02-02T23:19:33.203Z
+date: 2026-04-09T11:19:48.329Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T16:26:26.164Z
@@ -47,7 +47,7 @@ Finally, the WG that produces the documents is expected to have the expertise on
 
 ### Links to templates from WGs
 
-**IDR Templates **
+#### IDR Templates
 - [Tunnel Encapsulation Checklists and Templates](/group/idr/TEA-templates) 
 - [BGP LS Checklists](/group/idr/BGP-LS-Checklists) 
 
