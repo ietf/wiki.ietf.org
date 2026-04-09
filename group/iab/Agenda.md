@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-08T23:02:20.756Z
+date: 2026-04-09T00:16:53.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-04-08, 23:00-00:00 UTC (1 hour)
+# IAB Formal Business Meeting Agenda: 2026-04-13, 13:00-15:00 UTC (2 hour3)
 
-## There WILL be a meeting on 2026-04-08
+## There WILL be a meeting on 2026-04-15
 
 ## Details
 
-* Webex Link: Meeting link: https://ietf.webex.com/ietf/j.php?MTID=m407262be06dc314636727513638ae222
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m101ee4e3d7ff9edf0b4124029b94f5ae
 
 
 
@@ -26,21 +26,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. Appeal Response
-Goal: Settle on the text for the appeal response [Doc](https://docs.google.com/document/d/1vVkNqVlNikryRWVzx21fl_xmUQ0OOIqUszIoLP0yX3M/edit?usp=sharing)
-
-### 2. ITU-T Consultation Response
-Goal: Discuss [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkYp7l-7RTPJxqv7PO_vVY/edit?usp=sharing)
-
-### 3. IAB Strategy Meeting Location (if-needed)
-
-
+### 1. 
 
 ## Regrets
-- Mathew
-- Jason (tentative)
-- Suresh (tentative)
-
+- Mark (AIPref Meeting)
+- Suresg (AIPref Meeting)
 
 
 
@@ -51,8 +41,6 @@ Goal: Discuss [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkY
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
-- 2026-04-01 Informal 1400-1500 UTC
-- 2026-04-08 Informal 2300-0000 UTC
 - **2026-04-15 Formal 1300-1500 UTC (Virtual)**
 - 2026-04-22 Informal 0600-0700 UTC
 - 2026-04-29 Informal 1400-1500 UTC
