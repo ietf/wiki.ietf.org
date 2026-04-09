@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-09T10:58:42.946Z
+date: 2026-04-09T13:52:03.735Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,6 +46,8 @@ Note that this page is public.
 
 
 ### Document Discussions
+
+- Extending TCP-AO how to guide and prioritise the proposed work to extend TCP-AO? Drafts: draft-bonica-tcpm-tcp-ao-algs; draft-bonica-tcpm-tcp-ao-long-algs; draft-bonica-tcpm-extended-options
 
 ### Management Issues
 
