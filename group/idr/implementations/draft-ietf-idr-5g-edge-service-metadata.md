@@ -2,7 +2,7 @@
 title: Implementation Report for draft-ietf-idr-5g-edge-service-metadata
 description: draft-ietf-idr-5g-edge-service-metadata
 published: true
-date: 2026-04-09T10:08:48.727Z
+date: 2026-04-09T11:06:17.870Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T23:00:41.027Z
@@ -15,7 +15,7 @@ implementation 1: Huawei - VRP 8
 implementation 2: H3C - Comware V9
 
 
-| Section  | Description | Huawei VRP 8 | Implement-2 | 
+| Section  | Description | Huawei VRP 8 | H3C - Comware V9 | 
 |---|---|---|---|
 | 4 |	Metadata Path Attribute Type = 41 | 	Yes | Yes
 | 4	|  Metadata Path Attribute       | 	Yes | Yes
