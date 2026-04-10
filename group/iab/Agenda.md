@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-09T00:16:53.022Z
+date: 2026-04-10T18:55:42.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -26,11 +26,79 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. 
+### 1. Administrivia (Cindy) 
+
+#### 1.1. Attendance
+
+#### 1.2. Agenda bash and announcements
+
+#### 1.3. Meeting Minutes
+
+For approval
+
+ - 2026-02-18 business meeting - (submitted 2026-02-19)
+ - 2026-03-15 business meeting - (submitted 2026-03-19)
+ - 2026-03-17 business meeting - (submitted 2026-03-19)
+ - 2026-03-19 business meeting - (submitted 2026-04-08) 
+
+
+
+### 2. Monthly Reports (Liaisons, etc.)
+
+ - IRTF Chair
+ - IESG Liaison
+ - ICANN Board Liaison
+ - IANA Liaison
+ - IAB Outreach Coordinator
+ - Liaison Coordinators
+
+
+### 3. IAB Response to ITU-T TSB Circular 123
+
+  Goal: Review draft response, possible vote
+
+
+
+### 4. IABOpen @ IETF 126 (Dhruv)
+
+  Context: https://github.com/intarchboard/responsibilities/issues/83
+
+
+### 5. draft-iab-agews-report (Cindy)
+
+  Goal: Finish/record e-vote
+
+
+
+### 6. Review of Open Issues for Responsibilities (Dhruv)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
+### 7. Proposed update to the IAB Appeals Page (Dhruv)
+
+  Proposal: https://docs.google.com/document/d/1CuUAZO7jvAWDJbD7l7H425jr5BiujFNOt5XbqB4vHtU/edit?usp=sharing
+
+  Current: https://www.iab.org/role/appeals/
+
+  
+### 8. Executive Session: Appeal: Independent Submission Editor declination of draft-darley-cvss-v5-skull-emoji-01
+
+  Goal: Record or finish e-vote
+
+
+### 9. Executive Session: Planning for RSWG Chair Appointment (Cindy)
+
+  Context: https://github.com/intarchboard/responsibilities/issues/86
+
+
+### 10. Executive Session: Complaint to IAB regarding a declaration of consensus to adopt a non-hybrid draft
+
+
 
 ## Regrets
 - Mark (AIPref Meeting)
-- Suresg (AIPref Meeting)
+- Suresh (AIPref Meeting)
 
 
 
