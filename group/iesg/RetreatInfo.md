@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-07T12:34:27.213Z
+date: 2026-04-13T05:56:47.646Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -50,6 +50,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
 * NomCom Feedback
+* Some Design Experts Matters (Med)
 
 #### Joint Topics with the IAB (for future)
 
