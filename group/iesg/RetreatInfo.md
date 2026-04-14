@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-13T06:00:35.250Z
+date: 2026-04-14T04:51:23.056Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -51,6 +51,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
 * NomCom Feedback
 * Some Design Experts Matters (Med)
+* Balloting for Informational/Experimental (Med)
 
 #### Joint Topics with the IAB (for future)
 
