@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-14T04:51:23.056Z
+date: 2026-04-14T20:57:24.823Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -45,13 +45,15 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
 * Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
-* Reconsider side meetings role & organization (Med)
+* Reconsider side meetings role & organization (Med, Roman)
 * New work Shepherds (Med)
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
-* NomCom Feedback
+* 2025 NomCom Feedback (Mike and Roman)
 * Some Design Experts Matters (Med)
 * Balloting for Informational/Experimental (Med)
+* Onboarding AI work (Roman)
+* ?? Remote Hubs (?)
 
 #### Joint Topics with the IAB (for future)
 
