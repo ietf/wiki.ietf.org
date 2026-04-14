@@ -169,13 +169,29 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/125/hackathon#projects-included-in-hackathon).
 
-### First Project Here (replace me)
+----
+
+### Identifier Locator Network Protocol (ILNP)
+
+- **Champions**
+  - Saleem Bhatti saleem@st-andrews.ac.uk
+  - Rodney Grimes rgrimes@freebsd.org
+  - Alistair Woodman awoodman@netdef.org
+
+- **Project Info**
+  - https://ilnp.cs.st-andrews.ac.uk
+  - RFCs 6740(E) - 6748(E)
+  - The basic approach is to deprecate the concept of an IP Address and replace it with addressing using separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Although the architectural concept is independent of any particular network protocol, our ongoing research work is based on realising ILNP on IPv6.
+
+----
+
+### Second Project Here (replace me)
 - **Champions**
 name and email
 - **Project Info**
 project description
 
-### Second Project Here (replace me)
+### Third Project Here (replace me)
 - **Champions**
 name and email
 - **Project Info**
