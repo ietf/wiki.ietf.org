@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-04-14T18:45:54.271Z
+date: 2026-04-14T19:25:13.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -88,7 +88,7 @@ If you received the email but the link to create an account has expired, please 
 * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/33500/propose_slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
-    * https://datatracker.ietf.org/meeting/125/session/hackathon#autoid-16
+    * https://datatracker.ietf.org/meeting/126/session/hackathon
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
@@ -127,7 +127,7 @@ If you received the email but the link to create an account has expired, please 
      
 ### Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/122/session/33500/propose_slides) at 14:00-16:00.
+  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/nnnnn/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
     * DO NOT WAIT until just before the start of the Hackathon project presentations to upload your presentation, as it may be lost in the chaos.
 
@@ -136,7 +136,7 @@ If you received the email but the link to create an account has expired, please 
 **Access to the IETF network**
 The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
 
-* [How to Instructions](/meeting/125/hackathon/hacknet_instructions)
+* [How to Instructions](/meeting/126/hackathon/hacknet_instructions)
 
 Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
