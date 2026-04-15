@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T09:05:15.841Z
+date: 2026-04-15T15:19:00.841Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -11,12 +11,18 @@ dateCreated: 2026-04-07T12:32:20.876Z
 # IAB Strategy Meeting 2026 
 
 ## Date 
-Sept 30 - Oct 1, 2026 (Full Day)
+Sept 30 - Oct 1, 2026 (Two Full Day)
 
 ## Venue 
-Tokyo
-> Likely - Google, Shibuya Stream, 3-21-3 Shibuya, Shibuya-ku, Tokyo 150-0002 (yet to be confirmed)
-There is a hotel in the same building as the office -- Shibuya Stream Hotel -- it looks like it is ~$280USD per night, but there are cheaper ones relatively close.
+
+Google, 
+Shibuya Stream, 
+3-21-3 Shibuya, 
+Shibuya-ku, 
+Tokyo 150-0002 
+Maps: https://maps.app.goo.gl/hZwjUcUBrvtesMyj8
+
+> There is a hotel in the same building as the office -- Shibuya Stream Hotel -- it looks like it is ~$280USD per night, but there are cheaper ones relatively close.
 
 ### Confirmed In-person
 
