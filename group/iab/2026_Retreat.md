@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T17:37:07.218Z
+date: 2026-04-15T17:37:24.671Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -26,7 +26,7 @@ Maps: https://maps.app.goo.gl/hZwjUcUBrvtesMyj8
 [Finding the office](iab_2026_finding_venue)
 
 
-These hotels are close to the venue (No warranty expressed or implied :-P): 
+These hotels close to the venue (No warranty expressed or implied :-P): 
 [Shibuya Stream Hotel](https://www.tokyuhotels.co.jp/shibuyastream/index.html)
 [Shibuya Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/shibuya-e/index.html)
 [Cerulean Tower Tokyu Hotel](https://www.tokyuhotels.co.jp/en/cerulean-h/index.html)
