@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T09:02:30.097Z
+date: 2026-04-15T09:05:15.841Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -37,18 +37,21 @@ There is a hotel in the same building as the office -- Shibuya Stream Hotel -- i
 
 - IGF 2026 Planning
 - ISOC Related Topics
-	- ITU-T PP(?)
+	- ITU-T PP
+ 
 - Invited Talk: Lorenzo (TBC)
 
 ## Topics for Future IAB+IESG
 
-Also see [IESG agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
+> Also see [IESG agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
 
-## Side Activities (if there is interest)
-- IAB Social
+## Side Activities 
+- IAB Social/Dinner for Sept 30th Evening
+
+#### if there is interest...
 - Meet Jun Murai, WIDE Project 
 - Visit any University in Tokyo
-- Any other outreach?
+- Any outreach activity?
 
 
 ## All Retreat Archives
