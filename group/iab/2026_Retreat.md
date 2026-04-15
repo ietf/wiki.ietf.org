@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T17:29:17.906Z
+date: 2026-04-15T17:31:56.781Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -63,7 +63,7 @@ Maps: https://maps.app.goo.gl/hZwjUcUBrvtesMyj8
 
 ## Topics for Future IAB+IESG
 
-> Also see [IESG agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
+> Also see [Joint topics in IESG Strategy Meeting Agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
 
 ## Side Activities 
 - IAB Social/Dinner for Sept 30th Evening
