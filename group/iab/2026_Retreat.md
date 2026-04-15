@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T15:26:13.700Z
+date: 2026-04-15T15:30:14.468Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -21,6 +21,10 @@ Shibuya Stream,
 Shibuya-ku, 
 Tokyo 150-0002 
 Maps: https://maps.app.goo.gl/hZwjUcUBrvtesMyj8
+
+#### Venue logistics
+[Finding the office](iab_2026_finding_venue)
+
 
 > These two hotels are close to the office:
 > Shibuya Stream Excel Tokyu Hotel: located on the 4th floor of the same building as new shibuya office
