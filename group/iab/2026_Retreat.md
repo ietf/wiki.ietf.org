@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T15:19:00.841Z
+date: 2026-04-15T15:26:13.700Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -22,7 +22,9 @@ Shibuya-ku,
 Tokyo 150-0002 
 Maps: https://maps.app.goo.gl/hZwjUcUBrvtesMyj8
 
-> There is a hotel in the same building as the office -- Shibuya Stream Hotel -- it looks like it is ~$280USD per night, but there are cheaper ones relatively close.
+> These two hotels are close to the office:
+> Shibuya Stream Excel Tokyu Hotel: located on the 4th floor of the same building as new shibuya office
+> Cerulean Tower: 10mins walk 
 
 ### Confirmed In-person
 
