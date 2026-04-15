@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-15T02:36:53.838Z
+date: 2026-04-15T09:56:38.135Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -99,10 +99,11 @@ For approval
 ## Regrets
 - Mark (AIPref Meeting)
 - Suresh (AIPref Meeting)
-- Ali
 - Nick (AIPref Meeting)
+- Warren (AIPref Meeting)
+- Alvaro (Travel)
 - Chris Inacio (day job obligation)
-
+- Ali (tentative)
 
 
 
