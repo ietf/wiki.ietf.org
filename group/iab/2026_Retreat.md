@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T15:49:00.247Z
+date: 2026-04-15T17:29:17.906Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -34,7 +34,7 @@ Maps: https://maps.app.goo.gl/hZwjUcUBrvtesMyj8
 
 | **Name** | **Dietary Restrictions** | **Arriving** | **Leaving** | **Hotel**                  |
 |----------|--------------------------|--------------|-------------|----------------------------|
-| Dhruv    |                          |              |             |                            |
+| Dhruv    | None                     | 2026-09-28   | 2026-10-02  |                            |
 | Warren   | None                     | 2026-09-28   | 2026-10-02  | Shibuya Stream Excel Tokyu |
 |          |                          |              |             |                            |
 |          |                          |              |             |                            |
