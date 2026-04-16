@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2025-09-18T18:20:26.652Z
+date: 2026-04-16T15:26:39.289Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -39,6 +39,11 @@ IAB reviews of WG charters should be sent to the IAB and IESG mailing lists. The
 - Does the proposal fit within the general scope of IETF? Have the necessary collaborations to other organisations been considered?
 
 ## Review Assignments
+
+### 2026-2027 Assignments
+
+- JSONSCHEMA: Yaroslav Rosomakho (2026-04) 
+
 ### 2025-2026 Assignments
 - ONIONS: Alvaro Retana (2025-09)
 - WEBBOTAUTH: Jana Iyengar (2025-09)
