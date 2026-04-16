@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-15T17:39:47.757Z
+date: 2026-04-16T03:46:40.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -38,7 +38,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 |----------|--------------------------|--------------|-------------|----------------------------|
 | Dhruv    | None                     | 2026-09-28   | 2026-10-02  |                            |
 | Warren   | None                     | 2026-09-28   | 2026-10-02  | Shibuya Stream Excel Tokyu |
-|          |                          |              |             |                            |
+| Dirk     | None, but want good sushi| 2026-09-28   | 2026-10-02  | TBD                        |
 |          |                          |              |             |                            |
 |          |                          |              |             |                            |
 |          |                          |              |             |                            |
