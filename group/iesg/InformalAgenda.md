@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-09T14:08:24.147Z
+date: 2026-04-16T18:00:06.395Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - April 9, 2026
+# Informal Telechat - April 23, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,9 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-Roman
-Chris
-Jim
+
 
 ## Agenda
 
@@ -48,17 +46,16 @@ Note that this page is public.
 
 ### Document Discussions
 
-- Extending TCP-AO how to guide and prioritise the proposed work to extend TCP-AO? Drafts: draft-bonica-tcpm-tcp-ao-algs; draft-bonica-tcpm-tcp-ao-long-algs; draft-bonica-tcpm-extended-options
+
 
 ### Management Issues
 
-- Creating non-WG mailing lists for AI topics. (Andy)
-- [IANA Registries with an undefined policy](https://docs.google.com/document/d/1jQoUD5ZdR3lWnFmWAA7rPOOK0EIzBDDO/edit) (Med)
-- OPENNET Team creation [OPENNET](https://docs.google.com/document/d/12ytT16Sv8qwfpXx7HM_dPdDLwfudPw_GxOn_uEhYFD0/edit?usp=sharing) (Gunter)
+- Creating non-WG mailing lists for AI topics. (Andy, Jim)
+- [IANA #1448940] RE: MANET Registration from 3GPP (Jim)
 
 ### WG News 
 
-- Follow-up from DNSOP DISPATCH session on [discovery](https://datatracker.ietf.org/doc/minutes-125-dnsop/): dawn, [work statement](https://github.com/danielkinguk/discovery/blob/main/DAWN%20Work%20Description.md), [mailing list](https://github.com/danielkinguk/discovery/blob/main/DAWN%20Mailing%20List.md), etc. (Med)
+
 
 ### Documents to Swap 
 
@@ -82,5 +79,6 @@ Please list topics in this section that could use discussion but may not warrant
 
 
 -------
+
 
 
