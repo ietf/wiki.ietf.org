@@ -2,7 +2,7 @@
 title: IAB Social Media Guidelines
 description: 
 published: true
-date: 2026-04-07T17:08:02.365Z
+date: 2026-04-17T15:42:20.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-06T21:15:00.555Z
@@ -14,7 +14,6 @@ dateCreated: 2023-12-06T21:15:00.555Z
 
 The IAB maintains accounts on selected social media platforms. Since a goal for these platforms is to reach individuals beyond those already aware of or connected to the IAB or IETF in other ways, such as mailing lists, platforms have been selected based on reach to these audiences. Platforms are reviewed at least once per year, and also when any other significant change (in either the platform or environment affecting the platform) suggests doing so:
 
-- Twitter/X: http://twitter.com/intarchboard
 - Mastodon: https://mastodon.online/@intarchboard
 - BlueSky: https://bsky.app/profile/intarchboard.bsky.social
 - LinkedIn: https://www.linkedin.com/company/internet-architecture-board/
@@ -33,7 +32,7 @@ The following events prompt accompanying posts to social media accounts:
 - Regular IAB reports to the community accompanying IETF meetings
 - Publication of an IAB RFC
 - IAB Statement releases
-- Liaison and other appointments
+- Calls for Nominations and announcements of Liaison and other appointments
 - Blog posts related to IAB activities
 - New IAB Members seated
 - New IAB Chair selected
