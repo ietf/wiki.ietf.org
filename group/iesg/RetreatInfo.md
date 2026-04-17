@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-14T21:02:22.087Z
+date: 2026-04-17T16:26:07.324Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -18,6 +18,8 @@ End: Wednesday, May 13, 1200
 ### Logistics
 * Background [Information](https://docs.google.com/document/d/1qhVhBBAbjujyjSZygTPeqWOs6Vg1zU-DLVTVodV7bDw/edit?usp=sharing) for anyone considering hosting the IESG Strategy Meeting. 
 * Gunter indicated that the location will be [Akamai London office](https://maps.app.goo.gl/GK6GhwG7X1CFqwMy8) 7 Air St, London W1B 5AD, Royaume-Uni
+
+
 
 #### Remote Participation
 
@@ -60,6 +62,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 * Get early feedback for 4052bis and 4053bis from the IESG and IETF (a GEN Area topic in IETF 126), before IAB formally approves it and send to IESG. (Dhruv)
 
+> Note: IAB formal Meeting is at 1400 on May 13
 
 ### RSVP
 
