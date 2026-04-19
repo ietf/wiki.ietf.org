@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-17T22:04:11.182Z
+date: 2026-04-19T13:49:42.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2026-04-29, 14:00-15:00 UTC (1 hour)
 
-## There WILL NOT be a meeting on 2026-04-29
+## There WILL be a meeting on 2026-04-29
 
 ## Details
 
@@ -26,10 +26,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. 
+### 1. IAB Response to ITU-T TSB Circular 123
 
-- Goal: 
-- Context: 
+- Goal: Approve the IAB response
+- Context: [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkYp7l-7RTPJxqv7PO_vVY/edit?tab=t.0#heading=h.1zathj5mjq7j)
+
 
 
 ## Regrets
