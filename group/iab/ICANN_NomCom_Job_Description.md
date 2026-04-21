@@ -2,13 +2,13 @@
 title: ICANN NomCom Job Description
 description: Revised and Approved March 2024 by ICANN for the 2025 ICANN NomCom
 published: true
-date: 2024-10-02T17:25:20.084Z
+date: 2026-04-21T16:32:45.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-02T17:25:20.084Z
 ---
 
-# ICANN Nominating Committee Delegates Criteria and Job Description: 2025
+# ICANN Nominating Committee Delegates Criteria and Job Description
 
 
 ## Background:
