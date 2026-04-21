@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-04-14T19:25:13.962Z
+date: 2026-04-21T09:32:40.001Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -194,11 +194,25 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/126/hackathon/thread-projects).
 
-### Second Project Here (replace me)
+### <a id="IVY2"></a>YANG Data Model for Network Inventory (IVY) - 2
 - **Champions**
-name and email
+Nigel Davis &lt;ndavis@ciena.com&gt;
 - **Project Info**
-project description
+The IETF IVY WG has been developing models for network inventory. Following on from the successful IVY activity at the IETF 125 hackathon, this hackathon activity will again focus on the modelling of physical inventory. The intention is to have multiple players in both inventory system role and controller role where the inventory system player displays physical inventory detail provided via an IVY conformant interface from various controllers. 
+
+- **Hackathon Objectives and Plan**
+The aim is to extend the participation, exercise more of the model and, especially, to:
+-- Work with the latest ivy YANG and potentially previous versions
+-- Demonstrate systems from various vendors can interoperate and convey inventory detail
+-- Explore for missing detail and demonstrate interop with additional new properties
+-- Compare with other inventory models (especially [TAPI (Linux Foundation)] (https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)) and add further properties as appropriate again demonstrate interop
+-- Prepare proposals for updates to IVY model
+
+- **Related documents etc.**
+[A Base YANG Data Model for Network Inventory](https://datatracker.ietf.org/doc/draft-ietf-ivy-network-inventory-yang/)
+[network-inventory-yang](https://github.com/ietf-ivy-wg/network-inventory-yang)
+[TAPI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
+
 
 ### Third Project Here (replace me)
 - **Champions**
