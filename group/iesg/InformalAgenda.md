@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-21T13:38:13.707Z
+date: 2026-04-21T13:40:06.595Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -43,7 +43,7 @@ Note that this page is public.
 - [Document Write-up update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
 - [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
 
-- First introduction [Revised Statement on AD Sponsored Documents](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) (Mahesh/Roman)
+- Initial introduction of [Revised Statement on AD Sponsored Documents](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) (Mahesh/Roman)
 
 ### Document Discussions
 
