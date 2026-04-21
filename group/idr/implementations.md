@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-04-21T15:40:58.175Z
+date: 2026-04-21T15:41:30.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -30,8 +30,9 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 
  ## Implementation reports for drafts at WG LC 
-   - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
-  - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
+ - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
+- [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
+- [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
   
   ## Implementation report for drafts pending WG LC
   - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
