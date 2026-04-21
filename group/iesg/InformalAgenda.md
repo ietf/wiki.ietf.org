@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-16T18:00:06.395Z
+date: 2026-04-21T13:38:13.707Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -15,7 +15,7 @@ There **WILL** be a meeting on this date.
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
 
-## Webex URL
+## Webex URL 
 
 > https://ietf.webex.com/ietf/j.php?MTID=m3cc48bcbd48465d4da48d0197a6e7bb2
 Meeting number: 2427 431 7054
@@ -43,6 +43,7 @@ Note that this page is public.
 - [Document Write-up update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
 - [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
 
+- First introduction [Revised Statement on AD Sponsored Documents](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) (Mahesh/Roman)
 
 ### Document Discussions
 
@@ -79,6 +80,5 @@ Please list topics in this section that could use discussion but may not warrant
 
 
 -------
-
 
 
