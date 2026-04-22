@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-04-21T09:32:40.001Z
+date: 2026-04-22T01:28:35.309Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -213,6 +213,17 @@ The aim is to extend the participation, exercise more of the model and, especial
 [network-inventory-yang](https://github.com/ietf-ivy-wg/network-inventory-yang)
 [TAPI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
 
+
+### Service Affinity Solution based on Transport Layer Security (TLS)
+
+- **Champions**
+Aijun Wang (wangaj3@chinatelecom.cn)
+
+- **Project Info**
+This project aims to present a demo of the TLS-based service affinity solution. This proposal is designed for environments where operational simplicity and migration speed are paramount. It intentionally omits the path validation steps to minimize the latency of the migration process. Furthermore, it simplifies the trigger mechanism by using a new TLS alert, which is a direct and unambiguous signal.
+
+- **Related works**
+ - Service Affinity Solution based on Transport Layer Security (TLS): https://datatracker.ietf.org/doc/draft-wang-tls-service-affinity/
 
 ### Third Project Here (replace me)
 - **Champions**
