@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-22T20:04:37.228Z
+date: 2026-04-23T12:50:57.095Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -63,7 +63,7 @@ Note that this page is public.
 ### Documents to Swap 
 
 ### Executive Sessions
-- [Appeal Review](https://mailarchive.ietf.org/arch/msg/iesg/9KGdYqQCJNHhR3y91aoflzms7qU/) (Roman)
+- [Appeal Review](https://docs.google.com/presentation/d/19qeC5Gi_xN9kbuRnU3rJAG_hITjd8Ej_aIDLW9WkWEg/edit?slide=id.p#slide=id.p) (Roman)
 - BCP245 moderators
 
 
