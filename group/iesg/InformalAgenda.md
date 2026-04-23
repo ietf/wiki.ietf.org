@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-23T23:12:09.090Z
+date: 2026-04-23T23:12:34.851Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,9 +44,6 @@ Note that this page is public.
 - [Document Write-up update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
 - [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
 
-- Initial introduction of [Revised Statement on AD Sponsored Documents](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) (Mahesh/Roman)
-
-- Initial introduction of [Reclassifying IAB BCPs as part of the IESG stream](https://docs.google.com/document/d/1Sl8uUvPvhsCl4zF-ugeVJq7IG0f7p1zfYyyKf84NHSo/edit?tab=t.0#heading=h.uycqlhv31wlr) (Roman)
 
 ### Document Discussions
 
@@ -62,8 +59,7 @@ Note that this page is public.
 ### Documents to Swap 
 
 ### Executive Sessions
-- [Appeal Review](https://docs.google.com/presentation/d/19qeC5Gi_xN9kbuRnU3rJAG_hITjd8Ej_aIDLW9WkWEg/edit?slide=id.p#slide=id.p) (Roman)
-- BCP245 moderators
+
 
 
 
@@ -77,7 +73,7 @@ Please list topics in this section that could use discussion but may not warrant
 
 
 ### Topics Deferred Till Next Informal 
-* For sometime in September: Discuss kramdown-rfc support (was raised at IETF 123 Sunday meeting)
+* Discuss kramdown-rfc support (was raised at IETF 123 Sunday meeting)
 * `code` formatting in drafts, `.txt` output and doc production (Inacio)
 
 
