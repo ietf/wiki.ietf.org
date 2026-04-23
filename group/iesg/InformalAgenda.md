@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-23T14:00:18.301Z
+date: 2026-04-23T14:05:10.915Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,8 +54,6 @@ Note that this page is public.
 
 ### Management Issues
 
-- Creating non-WG mailing lists for AI topics. (Andy, Jim)
-- [IANA #1448940] RE: MANET Registration from 3GPP (Jim)
 
 ### WG News 
 
