@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-04-23T09:06:57.851Z
+date: 2026-04-23T12:50:41.659Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -86,7 +86,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### BGP-LS WG drafts (alphabetical order) 
 
--  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) - **Needs -05** for IANA sub-registry alignment with RFC9552. (1/5/2026) 
+-  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) - **Needs -05** for IANA sub-registry alignment with RFC9552. and Cross-WG section(1/5/2026) 
 
 - [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04) - **Needs -05** - Requested resonse by 1/12/2025. 
 
