@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2026-01-06T00:19:49.644Z
+date: 2026-04-23T13:13:27.817Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
@@ -24,12 +24,17 @@ dateCreated: 2024-11-14T20:16:59.450Z
 draft: [draft-ietf-idr-bgp-ls-bgp-only-fabric-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) 
 Email link: https://mailarchive.ietf.org/arch/msg/idr/k1dd2RQuYxIG-aXyXLkETlSU0As/
 
+### Technical changes 
+#### Technical change -01 
+
 This draft makes the updates suggested in my shepherd's report for -03. 
-After version -04 of this draft was published, draft-ietf-idr-bgp-ls-sr-policy has gone to RFC. 
-In the next revision (-05), draft-ietf-idr-bgp-ls-sr-policy should be RFC9857. 
+After version -04 of this draft was published, draft-ietf-idr-bgp-ls-sr-policy has gone to RFC.  In the next revision (-05), draft-ietf-idr-bgp-ls-sr-policy should be RFC9857. 
+#### Technical change -02 
 
 This version needs to change the name of the sub-registry 
 to make [RFC9552] BGP-LS NLRI and Attribute TLVs. 
+
+#### Technical change -03 
 
 
 ## Shepherd Review for version 03 
