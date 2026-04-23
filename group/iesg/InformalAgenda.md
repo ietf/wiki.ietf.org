@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-04-23T14:05:10.915Z
+date: 2026-04-23T23:12:09.090Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - April 23, 2026
+# Informal Telechat - May 7, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-Gunter
+Gorry (second half)
 
 
 ## Agenda
