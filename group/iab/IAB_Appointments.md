@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2026-02-12T00:42:41.307Z
+date: 2026-04-23T17:51:34.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
@@ -20,8 +20,8 @@ Background: RFC 8090
 Appointing 3 reps, with staggered terms.
 
 ### Current Appointees
-- 2018-2024: Tim Wicinski
-- 2017-2025: Russ Housley, Barry Leiba
+- 2018-2026: Tim Wicinski
+- 2017-2027: Russ Housley, Barry Leiba
 ### Past Appointees
 - 2017-2018: Andrew Sullivan
 
@@ -41,9 +41,10 @@ From RFC 2850:
 [What does the IRTF Chair do?](/group/iab/irtf-chair-activities)
 
 ### Current Chair 
-- Colin Perkins, 2019-
+- Dirk Kutscher, 2025-
 
 ### Past Chairs
+- Colin Perkins, 2019-2025
 - Allison Mankin, 2017-2019
 - Lars Eggert, 2011-2017
 - Aaron Falk, 2005–2011
@@ -56,10 +57,10 @@ From RFC 2850:
 ## ISOC Board of Trustees
 ISOC BoT appointment procedures are based on RFC 3677 and the [ISOC Board of Trustees Bylaws](http://www.internetsociety.org/who-we-are/governance-and-policies/amended-and-restated-laws-internet-society). Note, that there was a change to the bylaws in 2013 such that the IETF appoints two members every 3 years. That change starts in 2015. Thus, the number of appointments for upcoming years is as follows:
 
-> 2024: name two board members
-> 2025: name one board members
 > 2026: name one board members
 > 2027: name two board members
+> 2028: name one board members
+> 2028: name one board members
 
 TODO: Add to the call that candidates for the ISOC BOT for the IAB should not also be active candidates in either the ISOC chapters election or the ISOC organization election for the BOT. See also https://www.internetsociety.org/board-of-trustees/elections/, https://www.internetsociety.org/about-internet-society/governance-policies/procedures-selecting-trustees/ (see "Candidate/Trustee Uniqueness")
 
@@ -110,11 +111,12 @@ The ISOC Board of Trustees aims to be as broadly representative of the many cult
 For additional information, see [the FAQs about Internet Society Board service](https://www.internetsociety.org/board-of-trustees/faq/).
 
 ## IETF member to the ICANN Nomcom
-This is a yearly appointment, usually driven by the ICANN Nomcom cycle: An appointment needs to be made by the IAB shortly after a previous ICANN Nomcom finished its work.
+The IAB appoints one voting delegate to the ICANN NomCom on behalf of the IETF. The delegate shall serve a two-year term. No individual may serve as a delegate for more than two terms. In addition, no individual may serve in consecutive terms, regardless of the entity selecting them to the Nominating Committee. An individual will only be eligible to serve a second term as a delegate on the Nominating committee if a minimum of two years has elapsed between the end of their first term and the beginning of the term for which they are being selected.
 
-ICANN Nomcom members are appointed by the IAB for the IETF on a yearly bases and may serve 2 consecutive terms (per ICANN bylaws). The IAB has not committed itself to a particular process for selection. However, a general call for volunteers followed by selection (executive session) without any further community consultation has been the mode of operation. In general a reappointment for a second term is done after (executive session) review.
-
+*(Note that prior to 2025, this was a one-year appointment that allowed reappointment for a second year.)*
 ### Appointed Personnel
+
+- Pete Resnick, 2025-2026
 - Suzanne Woolf, 2024
 - Vittorio Bertola, 2022, 2023
 - Peter Koch, 2020, 2021
@@ -130,15 +132,15 @@ ICANN Nomcom members are appointed by the IAB for the IETF on a yearly bases and
 ## IETF members to the ICANN TLG
 Article XI-A, Section 2, Paragraph 6 of the ICANN Bylaws asks each of the four TLG members (IETF, ITU-T, ETSI, and W3C) to “designate two individual technical experts who are familiar with the technical standards issues that are relevant to ICANN's activities. These 8 experts shall be available as necessary to determine, through an exchange of e-mail messages, where to direct a technical question from ICANN when ICANN does not ask a specific TLG organization directly.”
 
-The IAB appoints these technical experts on behalf of the IETF. The IAB has not committed itself to a particular process for selection, and ICANN Bylaws do not impose any constraints on this process. The IAB has chosen to use a three step process: (1) a general call for volunteers; (2) a call for comments on the list of volunteers; and (3) selection by the IAB in executive session without any further community consultation.
+The IAB appoints these two technical experts to the ICANN TLG on behalf of the IETF. The IAB has not committed itself to a particular process for selection, and ICANN Bylaws do not impose any constraints on this process.
 
-To provide for continuity, each year, the IAB has chosen to select a technical expert for a two-year term. If needed, the IAB will select a replacement for a technical expert that cannot continue to serve for any reason.
+The IAB will check in with the appointees to the TLG each year to determine whether they are willing to continue to be listed as the appointees. The TLG has been dormant or several years and is not expected to be revived.
 
 ## TLG Technical Experts
 
 ### Current
-- Warren Kumari (2019-2025)
-- Petr Špaček (2020-2024)
+- Warren Kumari (2019-2027)
+- Petr Špaček (2020-2028)
 ### Past
 - Daniel Migault (2014-2015)
 - Warren Kumari (2014-2018)
@@ -146,11 +148,17 @@ To provide for continuity, each year, the IAB has chosen to select a technical e
 - Tim Wicinski (2018-2020)
 
 ## ICANN RZERC
-- [Draft RZERC Charter](https://www.icann.org/public-comments/draft-rzerc-charter-2016-06-10-en)
+
+The IAB appoints one member to the ICANN RZERC on behalf of the IETF. It is a one-year renewable term, limited to four years total. The IAB will send a call for nominations at least every two years, regardless of whether the incumbent is willing to continue.
+
+- [RZERC Charter](https://www.icann.org/en/system/files/files/revised-rzerc-charter-08aug16-en.pdf)
 - [RFC 8128: IETF Appointment Procedures for the ICANN Root Zone Evolution Review Committee](https://datatracker.ietf.org/doc/rfc8128/)
 ### Appointed Personnel
-- Tim April, 2020-2021, 2021-2022, 2022-2023
+
+- Willem Toorop, 2024-2025, 2025-2026
+
 ### Past RZERC Appointments
+- Tim April, 2020-2021, 2021-2022, 2022-2023, 2023-2024
 - Jim Reid, 2016-2017, 2017-2018, 2018-2019, 2019-2020
 
 
