@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-23T14:40:55.422Z
+date: 2026-04-23T14:57:43.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -42,8 +42,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - Goal: Introduce the wiki and Brainstorm ideas
 - Context: [Wiki](https://wiki.ietf.org/en/group/iab/2026_Retreat)
 
+### 4. "More QUIC, how?" as a potential workshop topic
+- Following a busy side meeting at IETF124 we may want to consider this as a potential topic for a workshop
 
-### 4. Executive Session: Planning for upcoming ICANN-related appointments
+### 5. Executive Session: Planning for upcoming ICANN-related appointments
 
 ## Regrets
 
