@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-23T13:00:00.153Z
+date: 2026-04-23T14:40:55.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -41,6 +41,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - Goal: Introduce the wiki and Brainstorm ideas
 - Context: [Wiki](https://wiki.ietf.org/en/group/iab/2026_Retreat)
+
+
+### 4. Executive Session: Planning for upcoming ICANN-related appointments
 
 ## Regrets
 
