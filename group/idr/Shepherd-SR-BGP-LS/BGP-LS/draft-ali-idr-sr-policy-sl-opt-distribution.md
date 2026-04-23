@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-ali-idr-srv6-policy-sl-opt-distribution
 description: draft-ali-idr-srv6-policy-sl-opt-distribution Reviews
 published: true
-date: 2026-04-23T10:42:56.449Z
+date: 2026-04-23T11:49:58.886Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-09T13:55:32.166Z
