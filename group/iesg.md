@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-04-02T19:47:28.595Z
+date: 2026-04-23T23:09:46.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -27,18 +27,18 @@ dateCreated: 2022-07-23T19:21:39.664Z
 - [IESG Only Etiquette](/group/iesg/IESG-Only)
   When to use and not to use iesg-only mailing list
 
-## IESG roles: 2025-2026
+## IESG roles: 2026-2027
 | IESG Liaisons | Group  |
 |---|---|
-| Deb | IAB  |
-| Mike | NomCom |
-| Paul, Mahesh |  Tools Team|
-| Deb, Ketan | EODIR  |
+| Chris | IAB  |
+| Gunter | NomCom |
+| Mahesh |  Tools Team|
+| Deb, Ketan, Mahesh | EODIR  |
 | Med, Andy |  TDD |
 | Roman | RSAB |
 | Roman | LLC Board |
-| Roman, Orie, Eric, Paul | IETF-IANA ASG (IAB Program) |
-| Roman, Paul | IAB-ISOC Policy Coordination Group |
+| Roman, Andy, Éric, Mahesh | IETF-IANA ASG (IAB Program) |
+| Roman, Tommy | IAB-ISOC Policy Coordination Group |
 
 {.dense}
 
@@ -48,6 +48,7 @@ dateCreated: 2022-07-23T19:21:39.664Z
 |---|
 | Gunter Van de Velde |
 | Mahesh Jethanandani |
+| Ketan Talaulikar
 | The Secretariat  |
 {.dense}
 
