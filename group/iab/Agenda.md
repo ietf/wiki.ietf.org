@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-23T17:53:18.405Z
+date: 2026-04-24T05:57:45.615Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,19 +31,20 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - Goal: Approve the IAB response, discuss some feedback
 - Context: [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkYp7l-7RTPJxqv7PO_vVY/edit?tab=t.0#heading=h.1zathj5mjq7j)
 
-### 2. Update to the IAB Appeals Webpage 
-
-- Goal: Finalize the update
-- Proposal: https://docs.google.com/document/d/1CuUAZO7jvAWDJbD7l7H425jr5BiujFNOt5XbqB4vHtU/edit?usp=sharing
-- Current: https://www.iab.org/role/appeals/
+### 2. "More QUIC, how?" 
+- Goal: Discuss as a potential workshop topic
+- Context: Following a busy side meeting at IETF124 we may want to consider this as a potential topic for a workshop
 
 ### 3. IAB Strategy Meeting
 
 - Goal: Introduce the wiki and Brainstorm ideas
 - Context: [Wiki](https://wiki.ietf.org/en/group/iab/2026_Retreat)
 
-### 4. "More QUIC, how?" as a potential workshop topic
-- Following a busy side meeting at IETF124 we may want to consider this as a potential topic for a workshop
+### 4. Update to the IAB Appeals Webpage 
+
+- Goal: Finalize the update (this was discussed before)
+- Proposal: https://docs.google.com/document/d/1CuUAZO7jvAWDJbD7l7H425jr5BiujFNOt5XbqB4vHtU/edit?usp=sharing
+- Current: https://www.iab.org/role/appeals/
 
 ### 5. Executive Session: Planning for upcoming ICANN-related appointments
 
