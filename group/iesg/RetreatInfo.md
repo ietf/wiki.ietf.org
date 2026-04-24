@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-24T05:19:08.195Z
+date: 2026-04-24T05:22:20.359Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -57,6 +57,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Some Design Experts Matters (Med)
 * Balloting for Informational/Experimental (Med)
 * Onboarding AI work (Roman)
+* Charter guidance, balloting procedures, and "block" criteria (Ketan)
 
 
 #### Joint Topics with the IAB (for future)
