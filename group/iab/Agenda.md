@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-24T05:57:45.615Z
+date: 2026-04-24T18:18:22.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -46,7 +46,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - Proposal: https://docs.google.com/document/d/1CuUAZO7jvAWDJbD7l7H425jr5BiujFNOt5XbqB4vHtU/edit?usp=sharing
 - Current: https://www.iab.org/role/appeals/
 
-### 5. Executive Session: Planning for upcoming ICANN-related appointments
+### 5. Open Letter on Canada's Bill C-22
+
+- Goal: Should the IAB sign on to this letter?
+- Context: https://github.com/intarchboard/ISOC-coord-board/issues/26
+
+
+### 6. Executive Session: Planning for upcoming ICANN-related appointments
 
 - ICANN NomCom
 - ICANN Root Zone Evolution Review Committee
