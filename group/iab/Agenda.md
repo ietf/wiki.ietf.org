@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-24T19:12:11.219Z
+date: 2026-04-26T22:47:41.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -33,7 +33,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 2. "More QUIC, how?" 
 - Goal: Discuss as a potential workshop topic
-- Context: Following a busy side meeting at IETF124 we may want to consider this as a potential topic for a workshop
+- Context: [Following a busy side meeting at IETF124 we may want to consider this as a potential topic for a workshop](https://github.com/intarchboard/responsibilities/issues/90)
 
 ### 3. IAB Strategy Meeting
 
