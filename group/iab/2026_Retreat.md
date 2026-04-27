@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-27T13:48:20.608Z
+date: 2026-04-27T13:48:31.196Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -63,8 +63,8 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- ITU-T PP
 - Workshop Related Topics
 	- ?
-- Improving collabration with RIRs - possible admin support group IETF-RIR? 
-- Improving collabration with ICANN and coordination among ICANN appointees? 
+- Improving collabration with RIRs - possible admin support group IETF-RIR 
+- Improving collabration with ICANN and coordination among ICANN appointees 
 - Invited Talk: Lorenzo (TBC)
 
 ## Topics for Future IAB+IESG
