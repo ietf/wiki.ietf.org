@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-04-23T15:00:48.283Z
+date: 2026-04-27T13:48:20.608Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -57,11 +57,14 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- Evaluation of Meeting time rotations v/s Fixed time?
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting)
 - Why IAB does RG review and How we can improve on it?
-
-- IGF 2026 Planning
+- Outreach Related Topics
+	- IGF 2026 Planning
 - ISOC Related Topics
 	- ITU-T PP
- 
+- Workshop Related Topics
+	- ?
+- Improving collabration with RIRs - possible admin support group IETF-RIR? 
+- Improving collabration with ICANN and coordination among ICANN appointees? 
 - Invited Talk: Lorenzo (TBC)
 
 ## Topics for Future IAB+IESG
