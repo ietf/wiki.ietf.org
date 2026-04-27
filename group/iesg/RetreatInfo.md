@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-24T05:22:20.359Z
+date: 2026-04-27T16:10:29.756Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -58,6 +58,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Balloting for Informational/Experimental (Med)
 * Onboarding AI work (Roman)
 * Charter guidance, balloting procedures, and "block" criteria (Ketan)
+* [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
 
 
 #### Joint Topics with the IAB (for future)
