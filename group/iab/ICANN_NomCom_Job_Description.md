@@ -1,79 +1,118 @@
 ---
-title: ICANN NomCom Job Description
-description: Revised and Approved March 2024 by ICANN for the 2025 ICANN NomCom
+title: ICANN Nominating Committee Delegate Position Description
+description: 
 published: true
-date: 2026-04-21T16:32:45.395Z
+date: 2026-04-28T18:57:13.254Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-02T17:25:20.084Z
 ---
 
-# ICANN Nominating Committee Delegates Criteria and Job Description
+# ICANN Nominating Committee Delegate Position Description
+
+## Overview
+
+The Internet Corporation for Assigned Names and Numbers (ICANN) Nominating Committee ([NomCom](https://www.icann.org/nomcom)) is seeking accomplished and independent delegates to select global leaders who will help shape the future of Internet governance. 
+
+NomCom delegates are entrusted with one of ICANN’s most consequential responsibilities: selecting the leaders who guide ICANN’s mission to ensure a secure, stable, and resilient Internet.
+
+The NomCom plays a pivotal role in strengthening ICANN’s leadership capacity to address emerging technologies, cybersecurity risks, and evolving governance challenges. Delegate’s decisions will directly influence the composition of ICANN’s Board, ICANN’s affiliate’s Board, the leadership of ICANN community policy development structures, and Supporting Organizations (SOs) and Advisory Committees (ACs) – shaping how the global Internet evolves for billions of users worldwide.
+
+The NomCom consists of 18 delegates appointed by ICANN’s Supporting Organizations and Advisory Committees, along with a leadership team appointed annually by the ICANN Board. Delegates serve staggered two-year terms, with half appointed each year. 
+
+Service as a NomCom delegate represents a significant contribution to the stewardship of the global Internet.
+
+## Independence and Public Interest Obligation
+
+NomCom delegates serve in their individual capacities and do not represent their appointing bodies, employers, or stakeholder groups. Delegates must exercise independent judgment and act solely in the global public interest.
+
+## Time Commitment at a Glance
+
+Service as a NomCom delegate calls for a two-year commitment and sustained engagement across two 12-month cycles. Delegates must have sufficient professional flexibility to accommodate predictable periods of increased intensity, particularly during the assessment phase (March–June).
+
+## Role and Impact
+A NomCom delegate’s integrity and objectivity will be essential throughout the selection process, including strategic outreach, rigorous selection, and consensus-building to secure the most balanced and capable leadership team for ICANN.
+
+### Lead Strategic Outreach
+- Actively participate in outreach activities to attract diverse, qualified candidates for open leadership positions, with special emphasis on underrepresented regions and communities.
+- Leverage personal networks to identify exceptional talent across the global Internet community.
+
+### Drive the Selection Process
+- Participate in at least two NomCom subcommittees that contribute to critical phases of candidate evaluation.
+- Review, assess, and score applicants using standardized tools throughout multiple screening and evaluation phases.
+- Prepare concise, accurate, and unbiased assessment reports that inform the selection process.
+- Conduct about six to eight virtual candidate interviews (typically in April/May), each lasting 60–75 minutes.
+
+### Build Consensus
+- Participate in all NomCom meetings, relevant NomCom subcommittee meetings, and mandatory in-person workshops for two 12-month cycles.
+- Contribute effectively to reaching consensus on candidates who best fulfill the skills and requirements of each leadership position and serve the broader ICANN community.
+- Identify opportunities for continuous improvement in the NomCom process.
+
+## Positions Delegates Help Fill
+
+The NomCom recruits leadership for some of the most influential positions in Internet governance:
+
+- **ICANN Board of Directors** – Eight of ICANN’s 16 voting Directors, with two to three Board seats filled each cycle.
+- **Public Technical Identifiers (PTI) Board** (ICANN’s affiliate) – Two independent Directors who provide oversight of ICANN’s IANA functions operations that PTI provides via contract with ICANN.
+- **Supporting Organization and Advisory Committee Leadership**:
+    - Three members of the Generic Names Supporting Organization (GNSO) Council
+    - Three members of the Country Code Names Supporting Organization (ccNSO) Council
+    - Five members of the At-Large Advisory Committee (ALAC)
+
+## Detailed Time Commitment
+Service as NomCom delegate requires sustained engagement through two 12-month cycles, with predictable periods of increased intensity. Delegates must have sufficient professional flexibility to accommodate peak assessment demands.
+
+### Average Commitment (August–February):
+- Five to 10 hours per week
+- Outreach activities
+-  Early candidate reviews
+- Subcommittee meetings
+
+### Peak Commitment (March–June):
+- Weekly virtual meetings (often multiple per week)
+- Six to eight candidate interviews (60–75 minutes each, plus preparation and reporting)
+- Two to four subcommittee meetings per month
+- Written assessments and scoring
+- Intensive consensus-building sessions
+
+Delegates are expected to prioritize NomCom responsibilities during this peak period.
+
+### Mandatory In-Person Meetings (four per year):
+- Onboarding Workshop (ICANN Annual General Meeting)
+- Community Forum Workshop
+- Intersessional (April/May – four to five days)
+- Final Selection Workshop (June – Policy Forum)
+
+## Qualifications of Delegates Core Attributes
+
+### Core Attributes 
+- Integrity, independence, and demonstrated sound judgment
+- Ability to act solely in the global public interest
+- Experience contributing to complex, consensus-driven decisions 
+
+### Professional Experience
+- Meaningful engagement across Internet-related sectors (technical, policy, civil society, academic, governmental, commercial)
+- Familiarity with ICANN structures (Board, PTI, GNSO, ccNSO, ALAC) strongly preferred
+- Experience in executive recruitment, governance, or board evaluation is highly valued
+
+### Practical Requirements
+- Fluency in written and spoken English
+- Ability to travel internationally
+- Reliable internet connectivity suitable for regular videoconferencing
+- Capacity to attend weekly virtual meetings and required in-person sessions
+
+## Terms of Service
+**Duration:** Two-year term beginning and ending at ICANN Annual General Meetings.
+
+**Compensation:** This is a non-compensated volunteer position. The reward is the satisfaction of knowing that NomCom delegates’ independent judgment will help shape the Internet’s governance for years to come.
+
+**Eligibility:** Individuals may serve up to two terms, but not consecutively. A minimum interval of two years is required between terms.
 
 
-## Background:
+## Travel Support
 
-Per the [ICANN Bylaws Article 8](https://www.icann.org/resources/pages/governance/bylaws-en/#article8), Section 8.1: The Nominating Committee of ICANN ("NomCom"), is responsible for nominating all Directors except the President and those Directors nominated by Decisional Participants; for nominating two directors of PTI (in accordance with the articles of incorporation and bylaws of PTI); and for such other selections as are set forth in these Bylaws. Notification of the Nominating Committee's Director nominations shall be given by the Nominating Committee Chair in writing to the EC Administration, with a copy to the Secretary, and the EC shall promptly act on it as provided in Section 7.25. Notification of the Nominating Committee's PTI director nomination shall be given to the Secretary.
-Per ICANN Bylaws Article 8, Section 8.2: 
+ICANN will provide travel support for approved participation in NomCom-hosted meetings, training sessions, and workshops, including coverage of airfare, lodging, per diem, and other properly documented and reimbursable expenses incurred in accordance with applicable policies.
 
-## Composition:
-- (a) A non-voting Chair, appointed by the Board;
-- (b) A non-voting Chair-Elect, appointed by the Board as a non-voting advisor;
-- (c) One voting delegate each selected by the following entities:
-    - i.	The Address Council of the Address Supporting Organization established by Section 9.2;
-    - ii.	The Council of the Country Code Names Supporting Organization established by Section 10.3;
-    - iii.	The Governmental Advisory Committee established by Section 12.2(a)
-    - iv.	The Security and Stability Advisory Committee established by Section 12.2(b);
-    - v.	The Root Server System Advisory Committee established by Section 12.2(c); and
-    - vi.	The Internet Engineering Task Force.
-- (d) Five voting delegates selected by the At-Large Advisory Committee established by Section 12.2(d);
-- (e) Seven voting delegates to the Nominating Committee shall be selected from the Generic Names Supporting Organization established by Article 11, as follows:
-    - (i) One delegate from the Registries Stakeholder Group;
-    - (ii) One delegate from the Registrars Stakeholder Group;
-    - (iii) Two delegates from the Business Constituency, one representing small business users and one representing large business users;
-    - (iv) One delegate from the Internet Service Providers and Connectivity Providers Constituency (as defined in Section 11.5(a)(iii));
-    - (v) One delegate from the Intellectual Property Constituency; and
-    - (vi) One delegate from consumer and civil society groups, selected by the Non-Commercial Users Constituency.
-- (f) A non-voting Associate Chair, who may be appointed by the Chair, at his or her sole discretion, to serve during all or part of the term of the Chair. The Associate Chair may not be a person who is otherwise a member of the same Nominating Committee. The Associate Chair shall assist the Chair in carrying out the duties of the Chair, but shall not serve, temporarily or otherwise, in the place of the Chair.
-
-Per ICANN Bylaws Article 8, Section 8.3: 
-
-### Terms:
-- (a) The term for each voting delegate shall be a two-year term. No individual may serve as a delegate for more than two terms. In addition, no individual may serve in consecutive terms, regardless of the entity selecting them to the Nominating Committee. An individual will only be eligible to serve a second term as a delegate on the Nominating committee if a minimum of two years has elapsed between the end of their first term and the beginning of the term for which they are being selected.
-- (b) The regular term of each voting delegate shall begin at the conclusion of an ICANN annual meeting and shall end at the conclusion of the ICANN annual meeting in two years, subject to the Transition Article Section  27.5.
-- (c) The Chair, the Chair-Elect, and any Associate Chair shall serve as such until the conclusion of the next ICANN annual meeting.
-
-Per ICANN Bylaws Article 8, Section 8.4 Criteria For Selection of Nominating Committee Delegates
-
-### Delegates to the ICANN Nominating Committee shall be:
-- (a) Accomplished persons of integrity, objectivity, and intelligence, with reputations for sound judgment and open minds, and with experience and competence with collegial large group decision-making;
-- (b) Persons with wide contacts, broad experience in the Internet community, and a commitment to the success of ICANN;
-- (c) Persons whom the selecting body is confident will consult widely and accept input in carrying out their responsibilities;
-- (d) Persons who are neutral and objective, without any fixed personal commitments to particular individuals, organizations, or commercial objectives in carrying out their Nominating Committee responsibilities;
-- (e) Persons with an understanding of ICANN and it's mission and the potential impact of ICANN's activities on the broader Internet community who are willing to serve as volunteers, without compensation other than the reimbursement of certain expenses; and
-- (f) Persons who are able to work and communicate in written and spoken English.
-
-### Other Criteria:
-- Familiarity with the ICANN groups to which the NomCom appoints (Board, ALAC, GNSO, ccNSO)
-- An understanding of Non-profit Board Governance similar in size and scope of ICANN
-- Prior experience in executive recruiting and Human Resources is a plus.
-
-## Job Description: 
-The NomCom is seeking people of integrity with the expertise, knowledge, and experience to make a meaningful contribution to the NomCom’s work as it acts in the best interests of the global Internet community.
-Key Responsibilities and Duties
-- Actively participate in outreach activities to attract and increase interest to apply for open leadership positions, especially those which underrepresented positions and/or regions;
-- Participation in at least one of NomCom subcommittees (other than Outreach and Conflicts and Confidentiality) and which contribute to the completion work of each of the critical phases of the NomCom selection processes;
-- Ability to review, assess and score applicants using the provided tools and forms, during the different winnowing phases of the selection cycle meeting the required deadlines;
-- Ability to prepare concise, accurate and unbiased applicant assessment reports which will be used as part of assessment and scoring of applicants during the selection cycle;
-- Participate in all NomCom, subcommittee, other mandatory, in-person, virtual meetings which are scheduled throughout the 9-month NomCom selection cycle;
-- Ability to effectively contribute to the process of the NomCom to reach consensus in the selection of the most qualified candidates that fulfill the skills and requirements of the open leadership positions and in the best interest of the ICANN Community.
-
-### Time Commitment
-- **Mandatory attendance** is required for the following meetings, NomCom Delegate Onboarding Workshop traditionally takes place at the ICANN Annual General meeting, NomCom Delegate mandatory training sessions, NomCom workshops which take place during the NomCom Community Forum; one NomCom Intersessional, which typically takes place at the end of March or early April; NomCom 2nd Intersessional which typically takes place during the month of May and may be virtual or in person and the final NomCom Selection Workshop, which takes place at the NomCom Policy Forum; 
-- To fulfill the mandatory participation requirement at NomCom workshops, NomCom delegates must possess the capacity to travel internationally and secure necessary visa documents with assistance from ICANN travel support. *In cases where a NomCom delegate requires remote participation, it is essential they have access to the required tools and applications, along with a stable internet connection, enabling them to be fully engaged during all NomCom hosted meetings.*
-- In addition to the mandatory NomCom workshops, the NomCom subcommittees meet at least 2-4 times monthly during different phases of the selection cycle and full attendance by subcommittee members is required. These meetings are traditionally video conference meetings. Duration of these calls can be 60 minutes to 120 minutes per meeting, but may run longer than the allotted scheduled time.
-- Work required by each delegate to complete leading up to the final selection meeting can begin immediately after the Onboarding Workshop and continues throughout the selection cycle. The time commitment for the delegates to complete the required obligations potentially requires anywhere from 5-10 hours per week depending upon the phase of the selection cycle the NomCom is in. The NomCom’s workload typically increases during the months of March thru June, not including subcommittee work.
-- All delegates are required to participate in the virtual candidate interviews which take place typically in the last two weeks of May, these calls are coordinated over a two-week period and over a 4-hour period per scheduled day. Depending upon time zones, the calls can take place before, during or after normal business hours.
 
 
 
