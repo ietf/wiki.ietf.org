@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-28T12:27:19.977Z
+date: 2026-04-28T12:32:15.209Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -55,6 +55,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
 * 2025 NomCom Feedback (Mike and Roman)
+* Need to prepare a IESG AD role "Ask Me Anything" at IETF-126 or/and before/after ? (Éric V)
 * Some Design Experts Matters (Med)
 * Balloting for Informational/Experimental (Med)
 * Onboarding AI work (Roman)
