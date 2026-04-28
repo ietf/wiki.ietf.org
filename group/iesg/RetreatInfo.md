@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-28T12:32:15.209Z
+date: 2026-04-28T15:58:14.913Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -62,6 +62,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Charter guidance, balloting procedures, and "block" criteria (Ketan)
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
 * [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
+* Use of AI tools in processing reviews (Mike)
 
 
 #### Joint Topics with the IAB (for future)
