@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-28T08:04:24.181Z
+date: 2026-04-28T12:27:19.977Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -22,15 +22,16 @@ End: Wednesday, May 13, 1200
 
 
 #### Remote Participation
-
+Jim
 
 #### On-Site Participation
 Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
-Éric Vyncke - arriving by Eurostar Sunday evening and departing Wednesday early afternoon, staying Double Tree Marble Arch (can be changed though)
+Éric Vyncke - arriving by Eurostar Sunday 10th evening and departing Wednesday 13th early afternoon, staying Double Tree Marble Arch (can be changed though)
 Deb Cooley, arriving 8 May, Hilton Double Tree Marble Arch, departing on 14 May
 Dhruv Dhody - Thistle Hotel - Trafalgar (also attending RIPE meeting next week)
 Yingzhen Qu, arriving 9 May, Hilton Double Tree Marble Arch, departing on 14 May
 Ketan Talaulikar, arriving 10 May evening, Moxy London Piccadilly Circus, departing on 14 May
+
 ## Agenda 
 
 
