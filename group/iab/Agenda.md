@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-28T15:41:58.328Z
+date: 2026-04-28T19:05:06.706Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -54,7 +54,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 6. Executive Session: Planning for upcoming ICANN-related appointments
 
-- ICANN NomCom
+- [ICANN NomCom](https://github.com/intarchboard/responsibilities/issues/91)
 - ICANN Root Zone Evolution Review Committee
 - ICANN Board of Directors Liaison
 - Community Coordination Group (not an ICANN appointment, but relates to IANA IPR)
