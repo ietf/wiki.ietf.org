@@ -2,7 +2,7 @@
 title: CBOR WG
 description: Concise Binary Object Representation
 published: true
-date: 2026-04-29T14:55:02.420Z
+date: 2026-04-29T15:09:16.082Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T14:55:02.420Z
@@ -16,6 +16,6 @@ Ongoing work includes work on deterministic/distinguished/distinct/restricted en
 
 There are some topic-specific wiki associated with some documents:
 
-* https://github.com/cbor-wg/cbor-implementation-considerations/wiki
-* https://github.com/cbor-wg/edn/wiki
-
+* [CBOR impementation considerations](https://github.com/cbor-wg/cbor-implementation-considerations/wiki)
+* [CBOR Diagnostic Notation (EDN)](https://github.com/cbor-wg/edn/wiki)
+* [CBOR data definition language (CDDL)](https://github.com/cbor-wg/cddl/wiki)
