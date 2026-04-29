@@ -1,8 +1,8 @@
 ---
 title: Groups
-description: Links to the wiki pages for each working group, team, directorate, etc
+description: A guide to find wikis for working groups, teams, directorates, and other groups.
 published: true
-date: 2026-04-29T16:08:04.358Z
+date: 2026-04-29T16:08:43.625Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
