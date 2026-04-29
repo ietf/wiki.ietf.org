@@ -2,7 +2,7 @@
 title: IAB Appointments
 description: 
 published: true
-date: 2026-04-23T17:51:34.550Z
+date: 2026-04-29T13:19:03.008Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:10:17.002Z
@@ -11,6 +11,8 @@ dateCreated: 2023-12-05T20:10:17.002Z
 
 
 [IAB Appointments Calendar](/group/iab/IAB_Appointments_Calendar)
+
+The IAB policy for calling for nominations for each of the appointments is listed on the [IAB website](https://www.iab.org/role/appointments/)
 
 ## CCG
 IETF Representatives to the Community Coordination Group (CCG)
