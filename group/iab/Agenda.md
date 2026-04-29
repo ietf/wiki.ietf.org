@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-29T13:52:13.481Z
+date: 2026-04-29T15:51:28.976Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-04-29, 14:00-15:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-05-06, 23:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-04-29
+## There WILL NOT be a meeting on 2026-05-06
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m347636bcf1edcdef3a0baac152710cdc
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m407262be06dc314636727513638ae222
 
 
 
@@ -26,49 +26,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. IAB Response to ITU-T TSB Circular 123
+### 1. 
 
-- Goal: Approve the IAB response, discuss some feedback
-- Context: [Doc](https://docs.google.com/document/d/1lbdREacjRqk0NPgxuri9oIkYp7l-7RTPJxqv7PO_vVY/edit?tab=t.0#heading=h.1zathj5mjq7j)
-
-### 2. "More QUIC, how?" 
-- Goal: Discuss as a potential workshop topic
-- Context: [Following a busy side meeting at IETF124 we may want to consider this as a potential topic for a workshop](https://github.com/intarchboard/responsibilities/issues/90)
-
-### 3. IAB Strategy Meeting
-
-- Goal: Introduce the wiki and Brainstorm ideas
-- Context: [Wiki](https://wiki.ietf.org/en/group/iab/2026_Retreat)
-
-### 4. Update to the IAB Appeals Webpage 
-
-- Goal: Finalize the update (this was discussed before)
-- Proposal: https://docs.google.com/document/d/1CuUAZO7jvAWDJbD7l7H425jr5BiujFNOt5XbqB4vHtU/edit?usp=sharing
-- Current: https://www.iab.org/role/appeals/
-
-### 5. Open Letter on Canada's Bill C-22
-
-- Goal: Should the IAB sign on to this letter?
-- Context: https://github.com/intarchboard/ISOC-coord-board/issues/26
-
-
-### 6. Executive Session: Planning for upcoming ICANN-related appointments
-
-- [ICANN NomCom](https://github.com/intarchboard/responsibilities/issues/91)
-- [ICANN Root Zone Evolution Review Committee](https://github.com/intarchboard/responsibilities/issues/92)
-- [ICANN Board of Directors Liaison](https://github.com/intarchboard/responsibilities/issues/93)
-- Community Coordination Group (not an ICANN appointment, but relates to IANA IPR)
-
-### 7. Executive Session: Appeal
-
-## Regrets
-
-- Matthew
-- Roman
-- Suresh
-- Dirk
-- Mark
-- Alvaro
+- Goal: 
+- Context: 
 
 
 
@@ -76,7 +37,6 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
-- 2026-04-29 Informal 1400-1500 UTC
 - 2026-05-06 Informal 2300-0000 UTC
 - **2026-05-13 Formal 1300-1500 UTC (Virtual)**
 - 2026-05-20 Informal 0600-0700 UTC
@@ -95,6 +55,7 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 - Statement on Age Verification (Mark)
 - ISE Survey 
 - IP-Geo workshop report 
+- [More QUIC, how?](https://github.com/intarchboard/responsibilities/issues/90) (Yaroslav)
 - ETSI liaison discussion
 - WBA liaison discussion
 
