@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-29T15:51:28.976Z
+date: 2026-04-30T16:26:55.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -10,7 +10,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 # IAB Informal Meeting Agenda: 2026-05-06, 23:00 UTC (1 hour)
 
-## There WILL NOT be a meeting on 2026-05-06
+## There WILL be a meeting on 2026-05-06
 
 ## Details
 
@@ -26,7 +26,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 
 
-### 1. 
+### 1. Executive Session: Appeal
 
 - Goal: 
 - Context: 
