@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-30T16:28:03.757Z
+date: 2026-04-30T16:30:08.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,10 +25,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. 
+### 1. Open Letter on Canada's Bill C-22
 
-- Goal: 
-- Context: 
+- Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/)?
+- Context: https://github.com/intarchboard/ISOC-coord-board/issues/26 
 
 ### 2. Executive Session: Appeal
  
