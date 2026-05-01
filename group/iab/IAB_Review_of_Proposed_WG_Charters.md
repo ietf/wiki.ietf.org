@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2026-04-16T15:26:39.289Z
+date: 2026-05-01T21:01:49.144Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -42,6 +42,7 @@ IAB reviews of WG charters should be sent to the IAB and IESG mailing lists. The
 
 ### 2026-2027 Assignments
 
+- ONSEN: Ali C. Begen (2026-05)
 - JSONSCHEMA: Yaroslav Rosomakho (2026-04) 
 
 ### 2025-2026 Assignments
