@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T17:11:38.219Z
+date: 2026-05-01T17:15:53.627Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -33,6 +33,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
 * Messaging on AI (Roman)
 * Onboarding AI work (Roman)
 * Use of AI tools in processing reviews (Mike)
+-----
+* Planning for community survey (Jay)
 
 ### Tuesday, May 12, 2026
 
