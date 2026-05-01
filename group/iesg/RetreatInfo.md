@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T10:32:37.395Z
+date: 2026-05-01T12:06:45.513Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -34,15 +34,15 @@ Ketan Talaulikar, arriving 10 May evening, Moxy London Piccadilly Circus, depart
 
 ## Agenda 
 
-### 11 May
+### Monday, May 11, 2026
 
-### 12 May
+### Tuesday, May 12, 2026
 
 #### 18:30: Group Dinner at Dishoom Kensington
 
 4 Derry Street, London W8 5SE ([Map](https://www.google.com/maps/place/4+Derry+St,+London+W8+5SE,+UK/@51.5012647,-0.1937139,607m/data=!3m2!1e3!4b1!4m6!3m5!1s0x48760ff6f9103351:0xab0f5a790c343445!8m2!3d51.5012647!4d-0.191139!16s%2Fg%2F11y7fqkqs9!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D))
 
-### 13 May
+### Wednesday, May 13, 2026
 
 
 ## Proposed  Topics
