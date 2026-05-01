@@ -2,18 +2,16 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T14:07:00.869Z
+date: 2026-05-01T14:08:31.437Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
 ---
 
 # IESG Strategy Meeting Information
-## 2026 Strategy Meeting -- Dates 11-13 of May 2026
+## 2026 Strategy Meeting
 
-Start: Monday, May 11, 1230
-End: Wednesday, May 13, 1200
-
+The 2026 IESG Strategy Meeting will convene from Monday, May 11 - Wednesday, May 13, 2026 in London, UK.
 
 ### Venue
 [Akamai London office](https://maps.app.goo.gl/GK6GhwG7X1CFqwMy8)
