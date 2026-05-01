@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-04-30T15:56:36.337Z
+date: 2026-05-01T09:47:05.575Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -58,7 +58,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
 * ?? Remote Hubs (?)
 * Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
-* Reconsider side meetings role & organization (Med, Roman)
+* [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
 * New work Shepherds (Med)
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
