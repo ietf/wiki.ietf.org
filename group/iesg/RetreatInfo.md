@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T16:27:34.380Z
+date: 2026-05-01T16:34:24.555Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -30,14 +30,23 @@ For hosting future meetings, [background information](https://docs.google.com/do
 ### Monday, May 11, 2026
 
 #### 1230 - 1700: Block 1: "All Things AI"
+* Onboarding AI work (Roman)
+* Use of AI tools in processing reviews (Mike)
 
 ### Tuesday, May 12, 2026
 
 #### 0900 - 1200: Block 2: "All Things Plenary Meeting"
+* Side Meetings
+  * Historical Utilization of Side Meetings (Jay)
+  * Pressures from the Community (Roman)
+  * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
+* Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
+* ?? Remote Hubs (?)
 
 #### 1200 - 1300: Lunch
 
 #### 1300 - 1700: Block 3: "All things Process"
+* 2025 NomCom Feedback (Mike and Roman)
 
 #### 18:30+: Group Dinner 
 
@@ -58,22 +67,16 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 ##### Parking Lot
 
-* Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
-* ?? Remote Hubs (?)
 * Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
-* [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
 * [New work Shepherds](https://docs.google.com/presentation/d/1unq7yRfsvOlGx8C1qoJ02SxDlffnhY_w/) (Med)
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
-* 2025 NomCom Feedback (Mike and Roman)
 * Need to prepare a IESG AD role "Ask Me Anything" at IETF-126 or/and before/after ? (Éric V)
 * [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
 * [Informational/Experimental: Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
-* Onboarding AI work (Roman)
 * Charter guidance, balloting procedures, and "block" criteria (Ketan)
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
 * [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
-* Use of AI tools in processing reviews (Mike)
 * [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
 
 ### Participation
