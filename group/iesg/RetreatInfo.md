@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T14:17:09.362Z
+date: 2026-05-01T14:22:41.105Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -62,7 +62,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * ?? Remote Hubs (?)
 * Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
 * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
-* New work Shepherds (Med)
+* [New work Shepherds](https://docs.google.com/presentation/d/1unq7yRfsvOlGx8C1qoJ02SxDlffnhY_w/) (Med)
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * (if not done in informal telechat) what to do with AI mailling lists, WG?, something else (Éric V)
 * 2025 NomCom Feedback (Mike and Roman)
@@ -85,6 +85,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Yingzhen Qu, arriving 9 May, Hilton Double Tree Marble Arch, departing on 14 May
 * Ketan Talaulikar, arriving 10 May evening, Moxy London Piccadilly Circus, departing on 14 May
 * Éric Vyncke - arriving by Eurostar Sunday 10th evening and departing Wednesday 13th early afternoon, staying Double Tree Marble Arch (can be changed though)
+* Med: Arriving by Eurostar 11/05 at 11:00; departing Wed 13/05 train at 15:30.
 
 
 #### Remote Participation
