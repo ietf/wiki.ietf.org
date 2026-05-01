@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T19:36:28.656Z
+date: 2026-05-01T21:33:32.839Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
