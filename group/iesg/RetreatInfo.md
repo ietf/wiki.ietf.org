@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T18:47:12.748Z
+date: 2026-05-01T18:53:36.347Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -33,6 +33,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
   * Pressures from the Community (Roman)
   * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
 * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
+* Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
 * ?? Remote Hubs (?)
 
 ### Tuesday, May 12, 2026
@@ -48,9 +49,11 @@ For hosting future meetings, [background information](https://docs.google.com/do
 #### 1200 - 1300: Lunch (provided)
 
 #### 1300 - 1700: Block 3: "All things Process"
+* Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * Chartering Processes
   * [Proposed Balloting Procedures on Charters](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/edit?tab=t.0) from June 2025
   * Charter guidance, balloting procedures, and "block" criteria (Ketan)
+* [Informational/Experimental document Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
 
 #### 18:30+: Group Dinner 
 
@@ -77,11 +80,8 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 ##### Parking Lot
 
-* Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
-* Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * Need to prepare a IESG AD role "Ask Me Anything" at IETF-126 or/and before/after ? (Éric V)
 * [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
-* [Informational/Experimental: Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
 * [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
 * [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
