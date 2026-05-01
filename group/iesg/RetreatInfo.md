@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T09:47:05.575Z
+date: 2026-05-01T10:32:37.395Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -71,6 +71,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
 * [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
 * Use of AI tools in processing reviews (Mike)
+* [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
 
 
 #### Joint Topics with the IAB (for future)
