@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T16:34:24.555Z
+date: 2026-05-01T17:11:38.219Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -30,10 +30,13 @@ For hosting future meetings, [background information](https://docs.google.com/do
 ### Monday, May 11, 2026
 
 #### 1230 - 1700: Block 1: "All Things AI"
+* Messaging on AI (Roman)
 * Onboarding AI work (Roman)
 * Use of AI tools in processing reviews (Mike)
 
 ### Tuesday, May 12, 2026
+
+(no breakfast provided)
 
 #### 0900 - 1200: Block 2: "All Things Plenary Meeting"
 * Side Meetings
@@ -54,6 +57,8 @@ Dishoom Kensington
 4 Derry Street, London W8 5SE ([Map](https://www.google.com/maps/place/4+Derry+St,+London+W8+5SE,+UK/@51.5012647,-0.1937139,607m/data=!3m2!1e3!4b1!4m6!3m5!1s0x48760ff6f9103351:0xab0f5a790c343445!8m2!3d51.5012647!4d-0.191139!16s%2Fg%2F11y7fqkqs9!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D))
 
 ### Wednesday, May 13, 2026
+
+(no breakfast provided)
 
 #### 0900 - 1200: Block 4
 
