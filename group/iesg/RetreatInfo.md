@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T14:10:27.100Z
+date: 2026-05-01T14:13:54.068Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -29,6 +29,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 ### Monday, May 11, 2026
 
+1230 -- Start
+
 ### Tuesday, May 12, 2026
 
 #### 18:30: Group Dinner at Dishoom Kensington
@@ -37,6 +39,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 ### Wednesday, May 13, 2026
 
+1200 -- End
 
 ## Proposed  Topics
 
