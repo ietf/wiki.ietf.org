@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-04-30T16:30:08.929Z
+date: 2026-05-01T00:07:03.653Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -30,7 +30,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 - Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/)?
 - Context: https://github.com/intarchboard/ISOC-coord-board/issues/26 
 
-### 2. Executive Session: Appeal
+### 2. Should the IAB have a statement on PQC?
+
+- Goal: The IETF is working on adding PQC support to many protocols, but do we think that it would also be useful for the IAB to have a short statement that operators should look into deployment / start thinking about deployment?
+
+
+### 3. Executive Session: Appeal
  
 
 
