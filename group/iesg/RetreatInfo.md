@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T17:15:53.627Z
+date: 2026-05-01T17:35:34.669Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -29,7 +29,9 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 ### Monday, May 11, 2026
 
-#### 1230 - 1700: Block 1: "All Things AI"
+#### 1200 - 1300: Lunch (provided)
+
+#### 1300 - 1700: Block 1: "All Things AI"
 * Messaging on AI (Roman)
 * Onboarding AI work (Roman)
 * Use of AI tools in processing reviews (Mike)
@@ -48,7 +50,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
 * ?? Remote Hubs (?)
 
-#### 1200 - 1300: Lunch
+#### 1200 - 1300: Lunch (provided)
 
 #### 1300 - 1700: Block 3: "All things Process"
 * 2025 NomCom Feedback (Mike and Roman)
@@ -63,6 +65,8 @@ Dishoom Kensington
 (no breakfast provided)
 
 #### 0900 - 1200: Block 4
+
+(no lunch provided, light snacks only)
 
 ## Proposed  Topics
 
