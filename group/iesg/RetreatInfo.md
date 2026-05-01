@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T19:14:05.271Z
+date: 2026-05-01T19:17:14.647Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -28,6 +28,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
 #### 1200 - 1300: Lunch (provided)
 
 #### 1300 - 1700: Block 1: "All Things Plenary Meeting"
+(there will be a break around 1500)
+
 * Side Meetings
   * Historical Utilization of Side Meetings (Jay)
   * Pressures from the Community (Roman)
@@ -49,6 +51,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
 #### 1200 - 1300: Lunch (provided)
 
 #### 1300 - 1700: Block 3: "All things Process"
+(there will be a break around 1500)
+
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * Chartering Processes
   * [Proposed Balloting Procedures on Charters](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/edit?tab=t.0) from June 2025
