@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T15:21:29.179Z
+date: 2026-05-01T16:27:34.380Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -29,15 +29,15 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 ### Monday, May 11, 2026
 
-#### 1230 - 1700: Block 1
+#### 1230 - 1700: Block 1: "All Things AI"
 
 ### Tuesday, May 12, 2026
 
-#### 0900 - 1200: Block 2
+#### 0900 - 1200: Block 2: "All Things Plenary Meeting"
 
 #### 1200 - 1300: Lunch
 
-#### 1300 - 1700: Block 3
+#### 1300 - 1700: Block 3: "All things Process"
 
 #### 18:30+: Group Dinner 
 
