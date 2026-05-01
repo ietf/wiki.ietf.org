@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T12:06:45.513Z
+date: 2026-05-01T13:34:32.776Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -65,7 +65,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * 2025 NomCom Feedback (Mike and Roman)
 * Need to prepare a IESG AD role "Ask Me Anything" at IETF-126 or/and before/after ? (Éric V)
 * [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
-* Balloting for Informational/Experimental (Med)
+* [Informational/Experimental: Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
 * Onboarding AI work (Roman)
 * Charter guidance, balloting procedures, and "block" criteria (Ketan)
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
