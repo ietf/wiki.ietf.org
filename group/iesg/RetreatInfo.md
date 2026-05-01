@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T14:08:31.437Z
+date: 2026-05-01T14:10:27.100Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -23,16 +23,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 
 
-#### Remote Participation
-Jim
 
-#### On-Site Participation
-Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
-Éric Vyncke - arriving by Eurostar Sunday 10th evening and departing Wednesday 13th early afternoon, staying Double Tree Marble Arch (can be changed though)
-Deb Cooley, arriving 8 May, Hilton Double Tree Marble Arch, departing on 14 May
-Dhruv Dhody - Thistle Hotel - Trafalgar (also attending RIPE meeting next week)
-Yingzhen Qu, arriving 9 May, Hilton Double Tree Marble Arch, departing on 14 May
-Ketan Talaulikar, arriving 10 May evening, Moxy London Piccadilly Circus, departing on 14 May
 
 ## Agenda 
 
@@ -75,6 +66,21 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Use of AI tools in processing reviews (Mike)
 * [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
 
+### Participation
+
+#### On-Site Participation
+* Deb Cooley, arriving 8 May, Hilton Double Tree Marble Arch, departing on 14 May
+* Dhruv Dhody - Thistle Hotel - Trafalgar (also attending RIPE meeting next week)
+* Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
+* Yingzhen Qu, arriving 9 May, Hilton Double Tree Marble Arch, departing on 14 May
+* Ketan Talaulikar, arriving 10 May evening, Moxy London Piccadilly Circus, departing on 14 May
+* Éric Vyncke - arriving by Eurostar Sunday 10th evening and departing Wednesday 13th early afternoon, staying Double Tree Marble Arch (can be changed though)
+
+
+#### Remote Participation
+* Jim
+
+### Other
 
 #### Joint Topics with the IAB (for future)
 
