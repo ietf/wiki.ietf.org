@@ -2,7 +2,7 @@
 title: IAB Document Process
 description: 
 published: true
-date: 2023-12-05T20:36:30.983Z
+date: 2026-05-02T04:08:30.990Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T20:36:25.680Z
@@ -192,8 +192,7 @@ The following boilerplate (from RFC 1862) MAY be used in the introduction.
 > directorates.
 
 ### Appendix: Workshop Participants
-An appendix lists the workshop participants. Workshop reports do not contain an "IAB members at approval" section, since they are not IAB consensus documents.
-
+An appendix lists the workshop participants. 
 
 ### Misc
 The location of the workshops is not generally part of the doc title. For example:
@@ -204,7 +203,7 @@ The location of the workshops is not generally part of the doc title. For exampl
   
 In the first-page header, each author's name would be listed without an organization.
 
-A section titled "IAB Members at the Time of Approval" would be included.
+A section titled "IAB Members at the Time of Approval" should be included. But the authors can request its removal.
 
 The IAB would be listed in the Authors' Addresses section as follows:
 
