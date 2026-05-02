@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-01T21:33:32.839Z
+date: 2026-05-02T07:01:36.191Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -91,8 +91,8 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Need to prepare a IESG AD role "Ask Me Anything" at IETF-126 or/and before/after ? (Éric V)
 * [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
-* [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
-* [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
+* (for info only) [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
+* (for info only) [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
 
 ### Participation
 
