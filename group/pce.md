@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-05-01T12:17:30.645Z
+date: 2026-05-03T06:24:20.940Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -104,15 +104,15 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 |[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Waiting for WG Chair Go-Ahead| Waiting for Shepherd Review | Yisong |
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Refreshed 2026-03-02 | Shepherd Review Done on 2025-10-30, Feedback received 2026-03-02, change of shepherd - Comments sent to list, Shepherd writeup post pending list reply | Andrew |
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | Waiting for WG Chair Go-Ahead| Response to Andrew's WGLC comment is pending; Shepherd review done; awaiting an update from authors | Julien |
+
 
 
 ## Drafts with the IESG
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | Publication Requested | - | Adrian | Ketan|
-
+|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | AD Evaluation::Revised I-D Needed | 1 issue of backup TLV is blocking; pending on WG chairs/authors | Adrian | Ketan|
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | AD Evaluation::Revised I-D Needed| Pending on authors | Julien |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
@@ -126,7 +126,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |AUTH48-DONE|- | Andrew |
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | AUTH48-DONE| - | Dhruv | 
 |draft-ietf-pce-sr-bidir-path|MISSREF|waiting for draft-ietf-pce-multipath|Dhruv| 
-|draft-ietf-pce-circuit-style-pcep-extensions|RFC Ed Queue|-|Dhruv|
+|draft-ietf-pce-circuit-style-pcep-extensions|EDIT|-|Dhruv|
 
 ## Recent RFCs
 
