@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-04T14:54:04.179Z
+date: 2026-05-04T15:27:18.272Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -31,6 +31,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 (there will be a break around 1500)
 
 * Side Meetings
+  * (read-ahead) [Prior Discussions on Side Meetings](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.p#slide=id.p)
   * Historical Utilization of Side Meetings (Jay)
   * Pressures from the Community (Roman)
   * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
