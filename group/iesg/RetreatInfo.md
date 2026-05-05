@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-05T15:04:13.835Z
+date: 2026-05-05T15:05:23.563Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -106,7 +106,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
 * Yingzhen Qu, arriving 9 May, Hilton Double Tree Marble Arch, departing on 14 May
 * Ketan Talaulikar, arriving 10 May evening, Moxy London Piccadilly Circus, departing on 14 May
-* Éric Vyncke - arriving by Eurostar Sunday 10th 17:58 and departing Wednesday 13th 15:04, staying Double Tree Marble Arch (can be changed though)
+* Éric Vyncke - arriving by Eurostar Sunday 10th 17:58, staying Double Tree Marble Arch,, departing Wed 13th 15:04
 * Med: Arriving by Eurostar 11/05 at 11:00; departing Wed 13/05 train at 15:30.
 
 
