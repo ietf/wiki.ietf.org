@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-04-22T07:22:30.431Z
+date: 2026-05-05T14:11:17.249Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -54,7 +54,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 25 | [draft-ietf-teas-yang-sr-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-sr-te-topo/) ^Exp,^ ^YDR^                   | No open issues; Editorial cleanup pending; <br> Ver 20 will be ready for WGLC (as per authors)| 2025-01-13 
 | 26 | [draft-ietf-teas-yang-te-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2025-01-13
 | 27 | [draft-ietf-teas-yang-te-mpls-topology](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls-topology/)                             | Open issues exist                   | 2025-01-13
-| 28 | [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter) ^YDR^ ^Exp^ | Ready for WGLC (as per Authors) | 2026-04-22
+| 28 | [draft-ietf-teas-yang-topology-filter](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-topology-filter) ^YDR^ ^Exp^ | Address YDR comments | 2026-05-05
 
 ## Candidates for WG adoption (in no particular order)
  
