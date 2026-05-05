@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-04T17:28:58.263Z
+date: 2026-05-05T03:44:09.162Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -101,6 +101,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 
 #### On-Site Participation
 * Deb Cooley, arriving 8 May, Hilton Double Tree Marble Arch, departing on 14 May
+* Jay Daley, arriving 10 May, Hilton Double Tree Marble Arch, departing on 13 May
 * Dhruv Dhody - Thistle Hotel - Trafalgar (also attending RIPE meeting next week)
 * Gorry Fairhurst - staying in Holiday Inn Express, Hammersmith (30 mins away)
 * Yingzhen Qu, arriving 9 May, Hilton Double Tree Marble Arch, departing on 14 May
