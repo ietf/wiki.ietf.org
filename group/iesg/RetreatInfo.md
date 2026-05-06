@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-06T11:56:40.168Z
+date: 2026-05-06T13:32:23.914Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -48,7 +48,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 * Onboarding AI work (Roman)
 * Use of AI tools in processing reviews (Mike)
 * What to do with AI mailling lists, WG?, something else (Éric V)
-* Headsup on FANN WG/BoF in RTG related to AI Infrastructure (Ketan)
+* [Update on FANN WG/BoF in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
 
 #### 1200 - 1300: Lunch (provided)
 
