@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-06T06:56:06.659Z
+date: 2026-05-06T15:24:00.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,6 +34,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 2. Should the IAB have a statement on PQC?
 
 - Goal: The IETF is working on adding PQC support to many protocols, but do we think that it would also be useful for the IAB to have a short statement that operators should look into deployment / start thinking about deployment?
+- Initial draft: [Doc](https://docs.google.com/document/d/1QdscKuLgOW9XSoqyhdpHBT-Qrf17aN51EK_ZOFVU4_U/edit?tab=t.0)
+- Context: "The IAB provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.". IMO we should publish more "architectural" statements.
+
 
 ### 3. ISE Survey
 
