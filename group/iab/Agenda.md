@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-06T05:40:52.162Z
+date: 2026-05-06T05:44:37.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,8 +34,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - Goal: The IETF is working on adding PQC support to many protocols, but do we think that it would also be useful for the IAB to have a short statement that operators should look into deployment / start thinking about deployment?
 
+### 3. ISE Survey
 
-### 3. Executive Session: Appeal
+- Goal: A very brief discussion on the next steps and logistics
+- Context: [GitHUb](https://github.com/intarchboard/responsibilities/issues/82) & [Doc](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?usp=sharing)
+### 4. Executive Session: Appeal
  
 
 
