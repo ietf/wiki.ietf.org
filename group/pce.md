@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-05-03T06:29:06.680Z
+date: 2026-05-06T11:52:15.724Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -31,6 +31,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 | draft-lee-pce-pcep-ls-optical | - |
 |draft-all-pce-srv6-policy-sid-list-optimization|related draft in spring is under adoption call - draft-ali-spring-srv6-policy-sid-list-optimization|
 |draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106; Pending comments from [Adrian](https://mailarchive.ietf.org/arch/msg/pce/0gOBAglL5bQMUlcpLBJmQj82lwk/) | 
+| draft-chen-pce-sr-ingress-protection | Expired; lead author not active in IETF anymore |
 
 
 ## WG Adoption Call Queue
@@ -39,8 +40,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-xpbs-pce-topology-filter | WG Adoption poll Issued; Ends 2026-04-27 | IPR-4/5 | Dhruv |
-| draft-chen-pce-sr-ingress-protection | Expired | - | - |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
 
@@ -48,6 +47,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
+| draft-ietf-pce-topology-filter | Adoption 2026-05-05; IPR-4/5 | Dhruv |
 |draft-ietf-pce-sr-mpls-sid-verification | Adopted 2026-01-14| Dhruv |
 |draft-ietf-pce-pcep-nrp|Adopted 2025-11-03 | Julien|
 
