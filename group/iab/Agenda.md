@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-01T00:07:03.653Z
+date: 2026-05-06T05:40:52.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -27,7 +27,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 1. Open Letter on Canada's Bill C-22
 
-- Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/)?
+- Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/) with this [statement](https://docs.google.com/document/d/1mVlkNg3B8q1XOJpIxXQS07_R9fCfa1HHvFJf7mIXUzo/edit?usp=sharing)?
 - Context: https://github.com/intarchboard/ISOC-coord-board/issues/26 
 
 ### 2. Should the IAB have a statement on PQC?
@@ -39,6 +39,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
  
 
 
+## Regrets
+- Chris
 
 ## Upcoming IAB Meetings
 
