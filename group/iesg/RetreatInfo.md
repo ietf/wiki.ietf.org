@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-05T22:39:28.476Z
+date: 2026-05-06T11:56:40.168Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -58,7 +58,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * Chartering Processes
   * [Proposed Balloting Procedures on Charters](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/edit?tab=t.0) from June 2025
-  * What does IESG expect in charters and working towards defining "block" criteria (Ketan)
+  * [What does IESG expect in charters and working towards defining "block" criteria](https://docs.google.com/document/d/1VSl0mIj_Tdx5hbz9GtR6XA4bVXjUQFcuZRxIxvw8nXA/edit?tab=t.0) (Ketan)
 * [Informational/Experimental document Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
 
 #### 18:30+: Group Dinner 
