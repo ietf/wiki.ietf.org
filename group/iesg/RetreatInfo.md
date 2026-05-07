@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-07T21:49:23.499Z
+date: 2026-05-07T21:56:44.302Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -66,6 +66,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
   * [Proposed Balloting Procedures on Charters](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/edit?tab=t.0) from June 2025
   * [What does IESG expect in charters and working towards defining "block" criteria](https://docs.google.com/document/d/1VSl0mIj_Tdx5hbz9GtR6XA4bVXjUQFcuZRxIxvw8nXA/edit?tab=t.0) (Ketan)
 * [Informational/Experimental document Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
+* [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
+* [IETF draft](https://evyncke.github.io/draft-vyncke-intarea-legacy-registries/draft-vyncke-intarea-legacy-registries.html) on updating IANA legacy IPv4 registries (Éric V)
 
 #### 18:30+: Group Dinner 
 
@@ -98,8 +100,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 ##### Parking Lot
 
 * Need to prepare a IESG AD role "Ask Me Anything" at IETF-126 or/and before/after ? (Éric V)
-* [IETF draft](https://evyncke.github.io/draft-vyncke-intarea-legacy-registries/draft-vyncke-intarea-legacy-registries.html) on updating IANA legacy IPv4 registries (Éric V)
-* [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
+
 * [Update of IESG Statement on References](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med)
 * (for info only) [Managing Calls for Adoption and WGLCs via Datatracker: Status](https://docs.google.com/presentation/d/1YUxjNil8L4SjjCHatMAaQdNrNTpi1JCY/) (Med)
 * (for info only) [Guidelines for Considering Operations in IETF Specifications: An Update](https://docs.google.com/presentation/d/1sU-YBnnuuWC1Z58dolFTUvvEJxlige16/) (Med)
