@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-06T22:59:08.578Z
+date: 2026-05-07T00:05:59.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-05-06, 23:00 UTC (1 hour)
+# IAB Formal Business Meeting Agenda: 2026-05-13, 13:00 UTC (2 hours)
 
-## There WILL be a meeting on 2026-05-06
+## There WILL be a meeting on 2026-05-13
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m407262be06dc314636727513638ae222
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m101ee4e3d7ff9edf0b4124029b94f5ae
 
 
 
@@ -25,37 +25,16 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. Open Letter on Canada's Bill C-22
-
-- Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/) with this [statement](https://docs.google.com/document/d/1mVlkNg3B8q1XOJpIxXQS07_R9fCfa1HHvFJf7mIXUzo/edit?usp=sharing)?
-- Context: https://github.com/intarchboard/ISOC-coord-board/issues/26 
-- Deadline to sign: 12th May 2026
-
-### 2. Should the IAB have a statement on PQC?
-
-- Goal: The IETF is working on adding PQC support to many protocols, but do we think that it would also be useful for the IAB to have a short statement that operators should look into deployment / start thinking about deployment?
-- Initial draft: [Doc](https://docs.google.com/document/d/1QdscKuLgOW9XSoqyhdpHBT-Qrf17aN51EK_ZOFVU4_U/edit?tab=t.0)
-- Context: "The IAB provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.". IMO we should publish more "architectural" statements.
-
-
-### 3. ISE Survey
-
-- Goal: A very brief discussion on the next steps and logistics
-- Context: [GitHub](https://github.com/intarchboard/responsibilities/issues/82) & [Doc](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?usp=sharing)
-### 4. Executive Session: Appeal
- 
+### 1. 
 
 
 ## Regrets
-- Chris
-- Mark
-- Mathew
+
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
-- 2026-05-06 Informal 2300-0000 UTC
 - **2026-05-13 Formal 1300-1500 UTC (Virtual)**
 - 2026-05-20 Informal 0600-0700 UTC
 - 2026-05-27 Informal 1400-1500 UTC
