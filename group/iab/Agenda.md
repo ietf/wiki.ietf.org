@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-01T00:07:03.653Z
+date: 2026-05-06T22:59:08.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -27,18 +27,29 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 1. Open Letter on Canada's Bill C-22
 
-- Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/)?
+- Goal: Should the IAB sign on to this [letter](https://www.globalencryption.org/2026/04/open-letter-on-bill-c-22-an-act-respecting-lawful-access/) with this [statement](https://docs.google.com/document/d/1mVlkNg3B8q1XOJpIxXQS07_R9fCfa1HHvFJf7mIXUzo/edit?usp=sharing)?
 - Context: https://github.com/intarchboard/ISOC-coord-board/issues/26 
+- Deadline to sign: 12th May 2026
 
 ### 2. Should the IAB have a statement on PQC?
 
 - Goal: The IETF is working on adding PQC support to many protocols, but do we think that it would also be useful for the IAB to have a short statement that operators should look into deployment / start thinking about deployment?
+- Initial draft: [Doc](https://docs.google.com/document/d/1QdscKuLgOW9XSoqyhdpHBT-Qrf17aN51EK_ZOFVU4_U/edit?tab=t.0)
+- Context: "The IAB provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.". IMO we should publish more "architectural" statements.
 
 
-### 3. Executive Session: Appeal
+### 3. ISE Survey
+
+- Goal: A very brief discussion on the next steps and logistics
+- Context: [GitHub](https://github.com/intarchboard/responsibilities/issues/82) & [Doc](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?usp=sharing)
+### 4. Executive Session: Appeal
  
 
 
+## Regrets
+- Chris
+- Mark
+- Mathew
 
 ## Upcoming IAB Meetings
 

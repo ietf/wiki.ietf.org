@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-05T22:39:28.476Z
+date: 2026-05-06T15:13:48.210Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -46,9 +46,10 @@ For hosting future meetings, [background information](https://docs.google.com/do
 #### 0900 - 1200: Block 2: "All Things AI"
 * Messaging on AI (Roman, ART ADs)
 * Onboarding AI work (Roman)
+* ai-proto: [draft charter](https://github.com/jdrosen/aiproto-wg/blob/main/Charter_Merge.md) and anticipated BoF proposal (Charles)
 * Use of AI tools in processing reviews (Mike)
 * What to do with AI mailling lists, WG?, something else (Éric V)
-* Headsup on FANN WG/BoF in RTG related to AI Infrastructure (Ketan)
+* [Update on FANN WG/BoF for IETF 126 in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
 
 #### 1200 - 1300: Lunch (provided)
 
@@ -58,7 +59,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 * Sync on what IESG process states ought to be ammended in draft-ietf-procon-2418bis (Gorry)
 * Chartering Processes
   * [Proposed Balloting Procedures on Charters](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/edit?tab=t.0) from June 2025
-  * What does IESG expect in charters and working towards defining "block" criteria (Ketan)
+  * [What does IESG expect in charters and working towards defining "block" criteria](https://docs.google.com/document/d/1VSl0mIj_Tdx5hbz9GtR6XA4bVXjUQFcuZRxIxvw8nXA/edit?tab=t.0) (Ketan)
 * [Informational/Experimental document Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
 
 #### 18:30+: Group Dinner 
@@ -76,6 +77,7 @@ Dishoom Kensington
 * 2025 NomCom Feedback (Mike and Roman)
 * [IESG's 2026 Requests for IETF Infrastructure](https://docs.google.com/document/d/1Y2UlHE3KZbbXhW4AvYR_Tc-sKmMEdFx1ksKlNwIJ6Wo/edit?tab=t.0) (Mahesh and Roman)
 * [New work Shepherds](https://docs.google.com/presentation/d/1unq7yRfsvOlGx8C1qoJ02SxDlffnhY_w/) (Med)
+* Long running IETF Hackathon projects (Charles)
 
 #### 1130-1200: Wrap-Up
 * AOB
