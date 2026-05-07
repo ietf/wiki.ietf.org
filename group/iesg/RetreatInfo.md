@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-07T21:27:27.488Z
+date: 2026-05-07T21:49:23.499Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -47,12 +47,14 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 #### 0900 - 1200: Block 2: "All Things AI"
 * Messaging on AI (Roman, ART ADs)
-* Upcoming AI-related BoFs at IETF 127
 * Onboarding AI work (Roman)
-* ai-proto: [draft charter](https://github.com/jdrosen/aiproto-wg/blob/main/Charter_Merge.md) and anticipated BoF proposal (Charles)
+* New Start AI-work 
+  * ai-proto: [draft charter](https://github.com/jdrosen/aiproto-wg/blob/main/Charter_Merge.md) and anticipated BoF proposal (Charles)
+  * [Update on FANN WG/BoF for IETF 126 in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
+  * ??? Upcoming AI-related BoFs at IETF 127
 * Use of AI tools in processing reviews (Mike)
 * What to do with AI mailling lists, WG?, something else (Éric V)
-* [Update on FANN WG/BoF for IETF 126 in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
+
 
 #### 1200 - 1300: Lunch (provided)
 
