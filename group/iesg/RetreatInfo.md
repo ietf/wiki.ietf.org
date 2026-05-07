@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-07T21:05:47.948Z
+date: 2026-05-07T21:23:37.743Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -74,7 +74,7 @@ Dishoom Kensington
 
 #### 0900 - 1130: Block 4: "All things Community"
 * Planning for community survey (Jay)
-* Fundraising Models (Jay)
+* [Fundraising Models](/group/iesg/RetreatInfo)https://docs.google.com/presentation/d/12slz2JKE568rfjJgdOgT5yUTfVq8S4RAhIoMsGx82Lc/edit?slide=id.p#slide=id.p) (Jay)
 * [2025 NomCom Feedback](https://docs.google.com/presentation/d/1T9MrQJjx8vVFjjV1oY9diMp6KWB-ThCOr7qEBr3TM38/edit?slide=id.p#slide=id.p) (Mike and Roman)
 * [IESG's 2026 Requests for IETF Infrastructure](https://docs.google.com/document/d/1Y2UlHE3KZbbXhW4AvYR_Tc-sKmMEdFx1ksKlNwIJ6Wo/edit?tab=t.0) (Mahesh and Roman)
 * [New work Shepherds](https://docs.google.com/presentation/d/1unq7yRfsvOlGx8C1qoJ02SxDlffnhY_w/) (Med)
