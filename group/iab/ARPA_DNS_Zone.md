@@ -12,7 +12,7 @@ dateCreated: 2023-12-05T17:34:58.648Z
 
 ## Background 
 
-The IAB is responsible for the contents of the .arpa DNS TLD [see RFC3172](https://datatracker.ietf.org/doc/html/rfc3172).
+The IAB is responsible for the contents of the .arpa DNS TLD zone [see RFC3172](https://datatracker.ietf.org/doc/html/rfc3172).
 
 RFC 3172 states that the IAB determines which protocol elements are “loaded into” the `.arpa` domain and the hierarchical structure of such protocol elements. Operational management of subdomains may subsequently be delegated.
 
