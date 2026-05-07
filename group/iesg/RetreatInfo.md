@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-06T15:13:48.210Z
+date: 2026-05-07T14:07:38.987Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -45,6 +45,7 @@ For hosting future meetings, [background information](https://docs.google.com/do
 
 #### 0900 - 1200: Block 2: "All Things AI"
 * Messaging on AI (Roman, ART ADs)
+* Upcoming AI-related BoFs at IETF 127
 * Onboarding AI work (Roman)
 * ai-proto: [draft charter](https://github.com/jdrosen/aiproto-wg/blob/main/Charter_Merge.md) and anticipated BoF proposal (Charles)
 * Use of AI tools in processing reviews (Mike)
