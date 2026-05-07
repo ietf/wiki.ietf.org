@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-07T21:24:19.034Z
+date: 2026-05-07T21:27:27.488Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -35,9 +35,10 @@ For hosting future meetings, [background information](https://docs.google.com/do
   * Historical Utilization of Side Meetings (Jay)
   * Pressures from the Community (Roman)
   * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
-* Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
-* Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
-* What have we learned from Remote Hubs?  Anything to consider for IETF 126/127?
+* Lessons from IETF 125
+  * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
+  * What have we learned from Remote Hubs?  Anything to consider for IETF 126/127?
+  * Unhelpful chatter from old-timers in the chat discouraging new attendees (Gorry)
 * Long running IETF Hackathon projects (Charles)
 
 ### Tuesday, May 12, 2026
