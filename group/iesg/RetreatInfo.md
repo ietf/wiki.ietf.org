@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-07T21:56:44.302Z
+date: 2026-05-08T06:03:57.514Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -53,7 +53,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
   * [Update on FANN WG/BoF for IETF 126 in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
   * ??? Upcoming AI-related BoFs at IETF 127
 * Use of AI tools in processing reviews (Mike)
-* What to do with AI mailling lists, WG?, something else (Éric V)
+* What to do with AI mailling lists ? How to avoid overlaps/gaps (Éric V, topic proposed 
+*before* aiproto/dawn, so unsure whether this is still relevant)
 
 
 #### 1200 - 1300: Lunch (provided)
