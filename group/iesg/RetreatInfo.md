@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-08T17:47:05.425Z
+date: 2026-05-08T20:20:26.636Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -31,10 +31,10 @@ For hosting future meetings, [background information](https://docs.google.com/do
 (there will be a break around 1500)
 
 * Side Meetings
-  * (read-ahead) [Prior Discussions on Side Meetings](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.p#slide=id.p)
-  * Historical Utilization of Side Meetings (Jay)
-  * Pressures from the Community (Roman)
-  * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med, Roman)
+  * [Prior Discussions on Side Meetings](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.p#slide=id.p) (Roman)
+  * Data for [Historical Utilization of Side Meetings](https://docs.google.com/spreadsheets/d/1e1zr4aRcXTupdIcwl8zwF5JOMxjR_vqKrG0KWGtxg5U/edit?gid=870654344#gid=870654344) (Jay)
+  * [Refinement Discussion](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.g3dbf2ac7e7b_0_74#slide=id.g3dbf2ac7e7b_0_74) (Roman)
+  * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med)
 * Lessons from IETF 125
   * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
   * What have we learned from Remote Hubs?  Anything to consider for IETF 126/127?
@@ -46,12 +46,11 @@ For hosting future meetings, [background information](https://docs.google.com/do
 (no breakfast provided)
 
 #### 0900 - 1200: Block 2: "All Things AI"
-* Messaging on AI (Roman, ART ADs)
-* Onboarding AI work (Roman)
+* [Meeting the Moment](https://docs.google.com/presentation/d/15X4spz-VgvtyljUpemjs_UziBO31JIrFgjPCoEQG_FU/edit?slide=id.p#slide=id.p) (Roman, ART ADs)
 * New Start AI-work 
   * ai-proto: [draft charter](https://github.com/jdrosen/aiproto-wg/blob/main/Charter_Merge.md) and anticipated BoF proposal (Charles)
   * [Update on FANN WG/BoF for IETF 126 in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
-  * ??? Upcoming AI-related BoFs at IETF 127
+  * Upcoming AI-related BoFs at IETF 127 (Andy)
 * Use of AI tools in processing reviews (Mike)
 * What to do with AI mailling lists ? How to avoid overlaps/gaps (Éric V, topic proposed 
 *before* aiproto/dawn, so unsure whether this is still relevant)
