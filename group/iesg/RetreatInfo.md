@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-08T06:03:57.514Z
+date: 2026-05-08T17:47:05.425Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -118,6 +118,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Éric Vyncke - arriving by Eurostar Sunday 10th 17:58, staying Double Tree Marble Arch,, departing Wed 13th 15:04
 * Med: Arriving by Eurostar 11/05 at 11:00; departing Wed 13/05 train at 15:30.
 * Mahesh: Arrving 10 May, staying in Intercontinental London Park Lane, departing Wed, May 13 at 4:15 pm.
+* Liz & Cindy: Arriving Sun 10 May, Radisson Blu Bond St, departing Thursday 14 May, 
 
 
 #### Remote Participation
