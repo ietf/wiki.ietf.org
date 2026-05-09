@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-04-22T01:28:54.936Z
+date: 2026-05-09T06:26:04.073Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -225,11 +225,16 @@ This project aims to present a demo of the TLS-based service affinity solution. 
 - **Related works**
  - Service Affinity Solution based on Transport Layer Security (TLS): https://datatracker.ietf.org/doc/draft-wang-tls-service-affinity/
 
-### Third Project Here (replace me)
+### AI based Network Management Agent (NMA)
 - **Champions**
-name and email
+Xing Zhao (zhaoxing@caict.ac.cn)
+Minxue Wang (wangminxue@chinamobile.com)
 - **Project Info**
-project description
+The draft <AI based Network Management Agent(NMA): Concepts and Architecture> (https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/) defines the Network Management Agent (NMA), an AI-driven entity that bridges the gap between service intent and network operations. It acts as the cognitive layer, autonomously decomposing intent, planning tasks, and making decisions, while leveraging SDN Controllers as the execution layer to enforce policies on the network infrastructure.
+This project will produce a live demo of a single NMA agent. The focus is on validating NMA deployment and application in specific network domains, including but not limited to OTN (Optical Transport Network), SPN (Slicing Packet Network), etc. The demo will showcase how NMA integrates with SDN Controllers to achieve intent-based closed-loop automation, so as to validate the practicality of the NMA architecture and also identify potential areas for future standardization.
+- **Related works**
+	- https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/
+  - https://github.com/xingzhao92/draft-zhao-nmop-network-management-agent/ietf126-hackathon
 
 ---
 
