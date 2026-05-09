@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-08T20:37:55.571Z
+date: 2026-05-09T20:43:38.019Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -118,6 +118,7 @@ Please include initials next to topics, otherwise we risk forgetting what the to
 * Med: Arriving by Eurostar 11/05 at 11:00; departing Wed 13/05 train at 15:30.
 * Mahesh: Arrving 10 May, staying in Intercontinental London Park Lane, departing Wed, May 13 at 4:15 pm.
 * Liz & Cindy: Arriving Sun 10 May, Radisson Blu Bond St, departing Thursday 14 May, 
+* Andy - arriving Sun 10 May, Marriott Marble Arch, departing Thursday 14 May
 
 
 #### Remote Participation
