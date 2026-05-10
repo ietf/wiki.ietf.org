@@ -2,23 +2,29 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2026-04-23T13:13:27.817Z
+date: 2026-05-10T21:01:29.155Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
 ---
 
-# Shepherd review for BGP-LS for bgp-only Fabic (draft-ietf-idr-bgp-ls-bgp-only-fabric)
+# Shepherd review for BGP-LS for bgp-only Fabric 
+# (draft-ietf-idr-bgp-ls-bgp-only-fabric)
 
 ## Shepherd Review for version 04 
 
 **Shepherd:** Susan Hares (shares@ndzh.com) 
 **Draft status:** WG Draft, expired November 14, 2022
-**Publication Status:** Proposed Standard, 
-**version: **revision needed (-05)**
-**Early Allocation:"" Needs -05 for call 
+**Publication Status:** Proposed Standard, Awaiting expert Allocation and implementations
+**version:** 05 
+**Early Allocation:"" Expert Review (anytime) 
 **implementations:** unknown
 **Authors:** 6 
+
+## Shepherd review for version -05 
+### Technical changes 
+This draft made all technical changes requested in -04 and added the cross-WG section. 
+This draft is ready for expert review for allocation. 
 
 ## Shepherd Review for version -04 
 draft: [draft-ietf-idr-bgp-ls-bgp-only-fabric-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) 
@@ -33,8 +39,6 @@ After version -04 of this draft was published, draft-ietf-idr-bgp-ls-sr-policy h
 
 This version needs to change the name of the sub-registry 
 to make [RFC9552] BGP-LS NLRI and Attribute TLVs. 
-
-#### Technical change -03 
 
 
 ## Shepherd Review for version 03 
