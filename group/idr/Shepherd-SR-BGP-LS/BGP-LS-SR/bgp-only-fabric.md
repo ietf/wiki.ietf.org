@@ -2,7 +2,7 @@
 title: Shepherd Reviews for BGP-LS for BGP only Fabric draft-ietf-idr-bgp-ls-bgp-only-fabric
 description: Review draft-ietf-idr-bgp-ls-bgp-only-fabric
 published: true
-date: 2026-05-10T21:01:29.155Z
+date: 2026-05-10T21:15:12.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-14T20:16:59.450Z
