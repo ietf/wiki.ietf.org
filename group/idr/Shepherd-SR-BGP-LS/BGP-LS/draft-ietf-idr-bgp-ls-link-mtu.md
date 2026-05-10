@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-bgp-ls-link-mtu
 description: Review draft-ietf-idr-bgp-ls-link-mtu
 published: true
-date: 2026-01-06T01:31:13.677Z
+date: 2026-05-10T23:58:56.309Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T00:24:44.815Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-22T00:24:44.815Z
 
 draft: https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/
 
-## -10 version 
+## -11 and -10 version 
 **Draft:**  [10](https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-ls-link-mtu-08)
 Status: WG draft
 Type: Proposed Standard 
