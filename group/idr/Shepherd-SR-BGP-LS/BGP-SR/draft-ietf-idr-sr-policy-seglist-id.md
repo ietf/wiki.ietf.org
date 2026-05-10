@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2026-05-10T19:20:49.423Z
+date: 2026-05-10T19:21:38.194Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -24,7 +24,7 @@ dateCreated: 2025-02-25T01:55:41.779Z
 
 ## Revision -08 and -09 
 **status**: WG LC IPR Call done (1/5 to 1/12), Spring check below, 
-**key point**: Segment list ID - stated as local to CP scope 
+**key point**: Segment list ID - stated as local to CP scope (see section 2.1) 
 
 ### Spring check
 **Spring list:** [Discussion thread](https://mailarchive.ietf.org/arch/msg/spring/JVzsniFIj3sSQ93HT4Sl4fbJDpE/)
