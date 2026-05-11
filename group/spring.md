@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-04-23T16:35:06.862Z
+date: 2026-05-11T18:25:35.431Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -54,15 +54,6 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 {.is-info}
 
 ## WG adoption requests
-* draft-liu-spring-sr-policy-flexible-path-selection
-  * [Responsible Chair: Alvaro]
-  * 2024-06-24 Authors sent request
-  * 2025-11-20 The draft needs updates and engagement [thread](https://mailarchive.ietf.org/arch/msg/spring/uQDf-_R64MoR70NJ8A4CnPIBB58/)
-  * 2026-01-23 The thread above resulted in positive engagement; will schedule for Adoption.
-* draft-chen-spring-sr-policy-cp-validity
-  * [Responsible Chair: Alvaro]
-  * 2024-07-26 (IETF 120) Authors sent request 
-  * 2026-04-09 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/Wirs5z-56gud1gKVZTZNRNuCUmM/)
 * draft-cheng-spring-sr-policy-group
   * [Responsible Chair: Joel]
   * 2025-04-02 Authors sent request  
