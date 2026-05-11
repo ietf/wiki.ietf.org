@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-05-11T02:09:22.455Z
+date: 2026-05-11T13:25:40.686Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -79,7 +79,9 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 - [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/) [(-04) to (-17)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-mt)
 
 ### BGP-LS drafts at WG LC 
-- [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext): [-18](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-bgp-ls-inter-as-topology-ext) - **at WG LC** 
+- [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext): [-18](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-bgp-ls-inter-as-topology-ext) - **WG LC (4/20 to 5/4 - needs resolution of EPE point**
+
+- [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - **5/11/2026 to 5/25/2026
 
 
 ### BGP-LS WG drafts (alphabetical order) 
@@ -90,11 +92,10 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - [(-07) to (-12)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-link-mtu) - **needs -12** with correct registry name 
 
-- [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - **Needs -01** to address technical errors in text, 2 implementations 
 
 - [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) [(-00) tp (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-nrp) - **Needs -03**, SR draft passed WG LC 
 
-- [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  [(-07) to (-10)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments) - **Holding** awaiting changes in linked SR draft on reverse path  
+- [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  [(-07) to (-10)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments) - **Holding** awaiting changes in linked SR draft on reverse path  .
 
 - [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments) - [(-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-service-segments) - **Needs -03**, draft expired. Queried authors on "inactive"  
 
