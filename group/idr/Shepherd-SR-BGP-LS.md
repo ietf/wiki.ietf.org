@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-05-11T00:09:55.826Z
+date: 2026-05-11T00:13:27.359Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -88,7 +88,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04) - **Needs -05** - Authors still working.   
 
-- [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - [(-07) to (-12)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-link-mtu) - **needs -21** with correct registry name 
+- [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - [(-07) to (-12)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-link-mtu) - **needs -12** with correct registry name 
 
 - [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - **Needs -01** to address technical errors in text, 2 implementations 
 
