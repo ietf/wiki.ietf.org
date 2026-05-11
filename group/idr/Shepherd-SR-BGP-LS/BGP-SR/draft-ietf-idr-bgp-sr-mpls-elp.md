@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2026-03-16T20:53:29.379Z
+date: 2026-05-11T02:54:02.803Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -25,6 +25,16 @@ dateCreated: 2025-02-26T02:37:13.865Z
 3. Cross-WG checks prior to WGLC (Shepherd with authors help) 
 
 **bgp-ls draft:** none 
+
+
+## review of -01 
+**status** 
+
+### Technical issues;
+Issues 1 and 2 - are resolved. 
+Issues 3 and 4 - need to add the new Cross-WG appendix. 
+
+Sue 
 
 
 ## Review of -00 (renamed)
