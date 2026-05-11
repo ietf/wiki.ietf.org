@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2026-02-27T18:53:02.098Z
+date: 2026-05-11T18:25:24.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -101,4 +101,15 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * 2025-11-27 Request from authors
   * 2026-01-19 [Call for Adoptopn](https://mailarchive.ietf.org/arch/msg/spring/-CSkBHYjXpuT4xg0gUdEeEhOBI4/)
   * 2026-02-27 Adopted!
+* draft-liu-spring-sr-policy-flexible-path-selection
+  * [Responsible Chair: Alvaro]
+  * 2024-06-24 Authors sent request
+  * 2025-11-20 The draft needs updates and engagement [thread](https://mailarchive.ietf.org/arch/msg/spring/uQDf-_R64MoR70NJ8A4CnPIBB58/)
+  * 2026-01-23 The thread above resulted in positive engagement; will schedule for Adoption.
+  * 2026-04-24 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/yMTc3iH8bQpo3dFwiH15aMHKngQ/)
+* draft-chen-spring-sr-policy-cp-validity
+  * [Responsible Chair: Alvaro]
+  * 2024-07-26 (IETF 120) Authors sent request 
+  * 2026-04-09 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/Wirs5z-56gud1gKVZTZNRNuCUmM/)
+
 
