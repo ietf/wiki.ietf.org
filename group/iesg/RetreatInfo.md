@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-11T11:50:10.928Z
+date: 2026-05-11T12:01:36.166Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -30,12 +30,11 @@ For hosting future meetings, [background information](https://docs.google.com/do
 #### 1300 - 1700: Block 1: "All Things Plenary Meeting"
 (there will be a break around 1500)
 
-* Side Meetings
-  * [Prior Discussions on Side Meetings](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.p#slide=id.p) (Roman)
-  * Data for [Historical Utilization of Side Meetings](https://docs.google.com/spreadsheets/d/1e1zr4aRcXTupdIcwl8zwF5JOMxjR_vqKrG0KWGtxg5U/edit?gid=870654344#gid=870654344) (Jay)
-  * [Refinement Discussion](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.g3dbf2ac7e7b_0_74#slide=id.g3dbf2ac7e7b_0_74) (Roman)
-  * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med)
-  * [Consolidated Deck](https://docs.google.com/presentation/d/1F0sw49FcBePFJDqrHlnQJZepq1vqix0Ox-ZLyAfsRIE/edit?slide=id.g3dbf2ac7e7b_0_69#slide=id.g3dbf2ac7e7b_0_69)
+* Side Meetings -- [Consolidated Deck](https://docs.google.com/presentation/d/1F0sw49FcBePFJDqrHlnQJZepq1vqix0Ox-ZLyAfsRIE/edit?slide=id.g3dbf2ac7e7b_0_69#slide=id.g3dbf2ac7e7b_0_69)
+    * [Prior Discussions on Side Meetings](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.p#slide=id.p) (Roman)
+    * Data for [Historical Utilization of Side Meetings](https://docs.google.com/spreadsheets/d/1e1zr4aRcXTupdIcwl8zwF5JOMxjR_vqKrG0KWGtxg5U/edit?gid=870654344#gid=870654344) (Jay)
+    * [Refinement Discussion](https://docs.google.com/presentation/d/1ybGuHtKDvLjdltcT_hgnxzTBW46LT0fxVDDugo45vYY/edit?slide=id.g3dbf2ac7e7b_0_74#slide=id.g3dbf2ac7e7b_0_74) (Roman)
+    * [Reconsider side meetings role & organization](https://docs.google.com/presentation/d/1-c8V_6iM47PGyV-F33ufaaNU3UJbrMco/) (Med)
 * Lessons from IETF 125
   * Consider what we learned about advice on WG meetings with no in-person chair/delegate at the front? (Gorry)
   * What have we learned from Remote Hubs?  Anything to consider for IETF 126/127?
