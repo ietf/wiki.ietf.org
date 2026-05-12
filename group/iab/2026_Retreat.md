@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-05-12T05:03:33.454Z
+date: 2026-05-12T08:27:27.902Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -57,6 +57,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- Evaluation of Meeting time rotations v/s Fixed time?
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting)
 - Why IAB does RG review and How we can improve on it?
+- What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB?
 - Outreach Related Topics
 	- IGF 2026 Planning
 - ISOC Related Topics
