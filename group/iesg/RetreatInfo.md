@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-12T10:28:35.002Z
+date: 2026-05-12T16:22:06.053Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -68,7 +68,7 @@ https://ietf.webex.com/ietf/j.php?MTID=mbf3d3eeaff3d8da4af400d7a2fa30195
   * [Proposed Balloting Procedures on Charters](https://docs.google.com/document/d/13_vCTF757wpRvz_smfOKHVvr2Dm8WKRMVJ9Fr-F6s48/edit?tab=t.0) (Roman)
   * [What does IESG expect in charters and working towards defining "block" criteria](https://docs.google.com/document/d/1VSl0mIj_Tdx5hbz9GtR6XA4bVXjUQFcuZRxIxvw8nXA/edit?tab=t.0) (Ketan)
 * [Informational/Experimental document Balloting & Other Guidance](https://docs.google.com/presentation/d/1yH5lAsSf8CoG2m8X0DRdDoGeMaErXBG1/) (Med)
-* [Some Design Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
+* [Some Designated Experts Matters](https://docs.google.com/presentation/d/1-GwXVMmqMmjVkTYsqlRfZX5TC-P9OlMW/) (Med)
 * [IETF draft](https://evyncke.github.io/draft-vyncke-intarea-legacy-registries/draft-vyncke-intarea-legacy-registries.html) on updating IANA legacy IPv4 registries (Éric V)
 
 #### 18:30+: Group Dinner 
