@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-12T08:58:30.451Z
+date: 2026-05-12T10:28:35.002Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -56,8 +56,6 @@ https://ietf.webex.com/ietf/j.php?MTID=mbf3d3eeaff3d8da4af400d7a2fa30195
     * [Agentic AI at IETF](https://drive.google.com/file/d/1uq8xLzXUIGkb0cUs845ZtpryqJDJvdM-/view?usp=share_link)
   * OPS perspective (Mahesh)
 * [Use of AI tools in processing reviews](https://docs.google.com/presentation/d/1qCfuSddQmOb-2vZbughH_utTW8Td1-Z_UTxu20HySxA/edit?usp=sharing) (Mike)
-* What to do with AI mailling lists ? How to avoid overlaps/gaps (Éric V, topic proposed 
-*before* aiproto/dawn, so unsure whether this is still relevant)
 
 
 #### 1200 - 1300: Lunch (provided)
