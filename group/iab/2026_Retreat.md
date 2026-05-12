@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-05-12T10:28:08.837Z
+date: 2026-05-12T21:22:16.297Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -67,7 +67,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Improving collabration with RIRs - possible admin support group - IETF-RIR 
 - Improving collabration with ICANN and coordination among ICANN appointees 
 - Introspection: Role of IAB in this "AI Moment"
-	- Should we say anything about agentic AI architecture?
+	- agentic AI architecture?
 - Brainstorming: Emerging Trends and Where the IAB Can Contribute?
 - Brainstorming: Should the IAB do more architectural work? If so, how?
 - Invited Talk: Lorenzo (TBC)
