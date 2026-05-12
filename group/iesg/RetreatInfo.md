@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-12T07:54:25.977Z
+date: 2026-05-12T07:56:40.153Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -44,6 +44,8 @@ For hosting future meetings, [background information](https://docs.google.com/do
 ### Tuesday, May 12, 2026
 
 (no breakfast provided)
+
+https://ietf.webex.com/ietf/j.php?MTID=mbf3d3eeaff3d8da4af400d7a2fa30195
 
 #### 0900 - 1200: Block 2: "All Things AI"
 * [Meeting the Moment](https://docs.google.com/presentation/d/15X4spz-VgvtyljUpemjs_UziBO31JIrFgjPCoEQG_FU/edit?slide=id.p#slide=id.p) (Roman, ART ADs)
