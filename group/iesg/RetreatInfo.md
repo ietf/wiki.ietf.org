@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-12T07:56:40.153Z
+date: 2026-05-12T08:40:38.170Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -52,7 +52,8 @@ https://ietf.webex.com/ietf/j.php?MTID=mbf3d3eeaff3d8da4af400d7a2fa30195
 * New Start AI-work 
   * ai-proto: [draft charter](https://github.com/jdrosen/aiproto-wg/blob/main/Charter_Merge.md) and anticipated BoF proposal (Charles)
   * [Update on FANN WG/BoF for IETF 126 in RTG related to AI Infrastructure](https://docs.google.com/document/d/1B-PfUjQI4IHVyr-1Ksa9nvd3BSjdXewFXeWSx-3qbqQ/edit?tab=t.0) (Ketan)
-  * Upcoming AI-related BoFs at IETF 126 (Andy)
+  * Upcoming AI-related BoFs at IETF 126 (Andy, Charles)
+    * [Agentic AI at IETF](https://docs.google.com/presentation/d/1_KxWm1uKTdNTkZdxU3U4t0iaaYmVP9sP/edit?usp=share_link&ouid=116513921110102088571&rtpof=true&sd=true)
   * OPS perspective (Mahesh)
 * [Use of AI tools in processing reviews](https://docs.google.com/presentation/d/1qCfuSddQmOb-2vZbughH_utTW8Td1-Z_UTxu20HySxA/edit?usp=sharing) (Mike)
 * What to do with AI mailling lists ? How to avoid overlaps/gaps (Éric V, topic proposed 
