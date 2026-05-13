@@ -2,7 +2,7 @@
 title: Retreat Information
 description: 
 published: true
-date: 2026-05-12T21:06:39.931Z
+date: 2026-05-13T07:49:00.573Z
 tags: iesg, leadership
 editor: markdown
 dateCreated: 2022-08-24T13:35:55.095Z
@@ -77,6 +77,8 @@ Dishoom Kensington
 4 Derry Street, London W8 5SE ([Map](https://www.google.com/maps/place/4+Derry+St,+London+W8+5SE,+UK/@51.5012647,-0.1937139,607m/data=!3m2!1e3!4b1!4m6!3m5!1s0x48760ff6f9103351:0xab0f5a790c343445!8m2!3d51.5012647!4d-0.191139!16s%2Fg%2F11y7fqkqs9!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D))
 
 ### Wednesday, May 13, 2026
+
+https://ietf.webex.com/ietf/j.php?MTID=m6f6826a08023565a68ed1a53d86895b5
 
 (no breakfast provided)
 
