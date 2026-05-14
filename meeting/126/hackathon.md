@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-05-14T16:39:55.833Z
+date: 2026-05-14T16:42:34.403Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -263,6 +263,9 @@ Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
 Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
 Benoit Claise (benoit @ everything-ops.net)
 Paolo Lucente  (paolo @ pmacct.net)
+Vivekananda Boudia (vivekananda.boudia @ insa-lyon.fr)
+Maxence Younsi (maxence.younsi @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
 Rob Wilton (rwilton @ cisco.com)
 Daniel Voyer (davoyer @ cisco.com)
 Deepya Mandadi (dmandadi @ blueplanet.com)
