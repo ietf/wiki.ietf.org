@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-05-14T14:48:31.059Z
+date: 2026-05-14T16:39:55.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -255,6 +255,54 @@ Furthermore, RFC 9820 defines the derivation and use of an OSCORE context to pro
 CoAP-EAP: RFC 9820.
 EAP-EDHOC draft: https://datatracker.ietf.org/doc/draft-ietf-emu-eap-edhoc/
 EDHOC-PSK draft: https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc-psk/
+
+### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Benoit Claise (benoit @ everything-ops.net)
+Paolo Lucente  (paolo @ pmacct.net)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Deepya Mandadi (dmandadi @ blueplanet.com)
+Sivakumar Sundaravadivel (sivakuma @ blueplanet.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Samuel Gauthier (samuel.gauthier @ 6wind.com)
+Irfan Mohammad (irfan @ arrcus.com)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-anydata-validation
+
+- **Draft Specifications YANG-Push**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-library-augmentedby
+
+- **Project Info**
+https://www.network-analytics.org/yp/, validate and verify
+
+- 5 YANG-Push Publishers
+- 2 YANG-Push Receivers
+- 2 YANG-Push Network Telemetry Message
+- 1 YANG Message Broker Producer and Schema Registry
+- 3 YANG Message Broker Consumers
+
+implementation in the area of YANG data integrity validation. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/126/Hackathon
+https://github.com/NetGauze/NetGauze/releases/tag/v0.12.0
+https://github.com/pmacct/pmacct
+https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
 ---
 
