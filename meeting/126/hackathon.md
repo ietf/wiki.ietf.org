@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-05-14T16:42:34.403Z
+date: 2026-05-14T16:53:25.687Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -299,7 +299,7 @@ https://www.network-analytics.org/yp/, validate and verify
 - 1 YANG Message Broker Producer and Schema Registry
 - 3 YANG Message Broker Consumers
 
-implementation in the area of YANG data integrity validation. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+implementation in the area of YANG data schema validation and obtaining latest YANG-Push subscription state. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
 
 - **Repository**
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/126/Hackathon
