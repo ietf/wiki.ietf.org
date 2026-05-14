@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-05-09T06:31:39.528Z
+date: 2026-05-14T14:48:31.059Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -239,6 +239,22 @@ This project will produce a live demo of a single NMA agent. The focus is on val
 - **Related works**
 	- https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/
   - https://github.com/xingzhao92/draft-zhao-nmop-network-management-agent/ietf126-hackathon
+
+### Interop testing/Demo of CoAP-EAP
+- **Champions**
+Francisco López Gómez (francisco.lopezg@um.es)
+Iván Álvarez Belotto (i.alvarezbelotto@um.es)
+Rafael Marín López (rafa@um.es)
+Gabriel López Millán (gabilm@um.es)
+- **Project Info**
+CoAP-EAP was published as RFC 9820 in September 2025. It defines CoAP as a new lower layer for EAP, intended to support authentication in Internet of Things (IoT) and other constrained environments. 
+Researchers from the University of Murcia (Spain) have developed a new implementation of the final RFC specification to evaluate CoAP-EAP in a representative IoT scenario, including experiments with EAP-EDHOC, a new EAP method currently under standardization. To further validate both the CoAP-EAP implementation and the EAP-EDHOC experiments in constrained networks, this project invites additional implementations to enable interoperability testing.
+Additionally, a demo of the current CoAP-EAP implementation in combination with EAP-EDHOC is available in a constrained scenario based on Nordic’s nRF52840-DK and nRF52840 dongle platforms using Thread to communicate, with the aim of promoting discussion on relevant aspects.
+Furthermore, RFC 9820 defines the derivation and use of an OSCORE context to protect communication between the EAP Peer and the EAP Server. An alternative version has also been developed in which, instead of using OSCORE, EDHOC-PSK (currently under standardization in the LAKE working group) is executed using the MSK derived from EAP to establish session keys. 
+- **Related documents**
+CoAP-EAP: RFC 9820.
+EAP-EDHOC draft: https://datatracker.ietf.org/doc/draft-ietf-emu-eap-edhoc/
+EDHOC-PSK draft: https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc-psk/
 
 ---
 
