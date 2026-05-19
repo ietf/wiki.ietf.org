@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-05-12T21:22:16.297Z
+date: 2026-05-19T10:02:09.078Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -70,6 +70,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- agentic AI architecture?
 - Brainstorming: Emerging Trends and Where the IAB Can Contribute?
 - Brainstorming: Should the IAB do more architectural work? If so, how?
+- Brainstorming: What else to be done to get more operator involvement at the IETF?
 - Invited Talk: Lorenzo (TBC)
 
 ## Topics for Future IAB+IESG
