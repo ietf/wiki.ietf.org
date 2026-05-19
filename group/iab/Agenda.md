@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-15T22:27:08.042Z
+date: 2026-05-19T15:27:33.977Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,7 +40,7 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 - 2026-06-03 Informal 2300-0000 UTC
 - **2026-06-10 Formal 1300-1500 UTC (Virtual)**
 - 2026-06-17 Informal 0600-0700 UTC
-- 2026-06-24 Informal 1400-1500 UTC
+- 2026-06-24 Informal 1400-1500 UTC *(Technical Discussion on Residential proxies)*
 - 2026-07-01 Informal 2300-0000 UTC
 - **2026-07-08 Formal 1300-1500 UTC (Virtual)**
     
@@ -50,14 +50,10 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
 - Statement on Age Verification (Mark)
 - ISE Survey 
-- IP-Geo workshop report 
-- [More QUIC, how?](https://github.com/intarchboard/responsibilities/issues/90) (Yaroslav)
 - ETSI liaison discussion
 - WBA liaison discussion
 
 ## Unscheduled Technical Discussions
-
-- Residential proxies (Jason)
 
 ## Planned IRTF RG Reviews 
 
