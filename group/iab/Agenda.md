@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-19T15:34:23.004Z
+date: 2026-05-19T15:43:03.120Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,7 +40,7 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 - 2026-06-03 Informal 2300-0000 UTC
 - **2026-06-10 Formal 1300-1500 UTC (Virtual)**
 - 2026-06-17 Informal 0600-0700 UTC
-- 2026-06-24 Informal 1400-1500 UTC *(Technical Discussion on Residential proxies with Karim Mahrous and Rich Compton)*
+- 2026-06-24 Informal 1400-1500 UTC *(Technical Discussion on Residential proxies with Leslie Daigle, Karim Mahrous and Rich Compton)*
 - 2026-07-01 Informal 2300-0000 UTC
 - **2026-07-08 Formal 1300-1500 UTC (Virtual)**
     
