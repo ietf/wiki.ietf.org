@@ -36,6 +36,8 @@ The ART Area works on the application layer and related protocols:
 + Traditional applications. - These are the protocols we've generally thought of in relation to the application layer. They include such things as email, calendaring, directory services, provisioning and access protocols related to DNS and IP and support for constrained environments. 
 + Application building blocks. These are designed to be used with a variety of more specific applications. They include compression, codecs, internationalization; JSON, XML, and CBOR; media types; URNs; and URI schemes.
 
+* [asdf *A Semantic Definition Format*](/group/asdf)
+
 ## [General Area](https://datatracker.ietf.org/wg/#GEN) (GEN)
 The General Area consists of a few IETF WGs and other activities focused on supporting, updating and maintaining the IETF standards development process. As General AD, the IETF Chair manages the General Area Review Team (Gen-ART) and other IETF-wide directorates.
 
