@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-21T10:16:11.452Z
+date: 2026-05-21T13:39:16.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -49,7 +49,8 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
 ## Future Unscheduled Topics 
 
-- Statement on Age Verification (Mark)
+- Statement on Age Verification (Mark) for 2026-06-03
+- PQC Statement and/or workshop
 - ISE Survey 
 - ETSI liaison discussion
 - WBA liaison discussion
