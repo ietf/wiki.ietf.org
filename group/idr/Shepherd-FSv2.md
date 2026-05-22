@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-22T16:53:32.642Z
+date: 2026-05-22T17:01:33.273Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -44,8 +44,9 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) [-00] 
 - [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) [-00] 
 - [draft-shen-idr-flowspec-traffic-compress-action](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/) [-03
-- [draft-song-idr-flowspec-classid-filter](https://datatracker.ietf.org/doc/draft-song-idr-flowspec-classid-filter/) 
-- [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
+- [draft-song-idr-flowspec-classid-filter](https://datatracker.ietf.org/doc/draft-song-idr-flowspec-classid-filter/) [-00]
+- [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) [-03] 
+ - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
 - [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
 - [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)
 - [draft-wu-idr-flowspec-sip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-sip-community-filter/) [-01] 
