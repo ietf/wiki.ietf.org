@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2025-03-16T04:26:26.597Z
+date: 2026-05-22T16:51:33.183Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -15,30 +15,42 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - RFC8895 
 - RFC9015 
 
-## WG drafts 
-
-- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)]
- 
+## at IESG 
 - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) - [-03)]
+- [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
  
-- [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-02)]
-- draft-ietf0-idr-flowspec-path-redirect 
-- draft-ietf-idr-ts-flowspec-srv6-policy 
-- draft-ietf-idr-flowspec-network-slice-ts 
+## WG drafts for FSv1/FSv2 actions 
+- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)]
+- [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)]
 
-## WG drafts that need FSv2 (No FSv1 implementations)  
-- draft-ietf-idr-flowspec-l2vpn
-- draft-ietf-idr-flowspec-nv03  
+## WG drafts that need FSv2  
+- [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-08] 
+- [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) - [-27]
+- [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23] 
+- [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05] 
+- [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02] 
+- [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02] 
+
+## WG Drafts related to WG LC drafts
+- [draft-wu-idr-flowspec-rpd-impl](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-rpd-impl) [-00] 
 
 
-## Individual Drafts
-- draft-cui-idr-content-filter-flowspec-01
-- draft-dmc-idr-flowspec-tn-aware-mobility  
-- draft-geng-idr-flowspec-sav  
-- draft-lin-idr-cats-flowspec-ts 
-- draft-peng-idr-apn-bgp-flowspec
-- draft-shen-idr-flowspec-traffic-compress-action
-- draft-wang-idr-flowspec-dip-origin-as-filter
-- draft-xiong-idr-detnet-flow-mapping 
-- draft-zzd-idr-flowspec-pa| th-scheduling   
+## Individual Drafts - reviews pending (ETA by 5/26)
+- [draft-chen-idr-srv6-flowspec-path-redirect-00](https://datatracker.ietf.org/doc/draft-chen-idr-srv6-flowspec-path-redirect/) - [00]
+- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [00 to 04] 
+- [draft-dmc-idr-flowspec-tn-aware-mobility](https://datatracker.ietf.org/doc/draft-dmc-idr-flowspec-tn-aware-mobility/) [05] 
+- [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/) [-06] 
+- [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) [-03] 
+- [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) [-00] 
+- [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) [-00] 
+- [draft-shen-idr-flowspec-traffic-compress-action](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/) [-03] 
+- [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
+- [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
+- [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)
+- [draft-wu-idr-flowspec-sip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-sip-community-filter/) [-01] 
+- [draft-wu-idr-flowspec-redirect-group](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-redirect-group/) [-01]
+- [draft-xiong-idr-detnet-flow-mapping](https://datatracker.ietf.org/doc/draft-xiong-idr-detnet-flow-mapping/) [-06] 
+- [draft-zzd-idr-flowspec-pa| th-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/) [-02] 
 
+### individual drafts on yang module
+- [draft-wu-idr-flowspec-yang-cfg](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-yang-cfg/) [-02] 
