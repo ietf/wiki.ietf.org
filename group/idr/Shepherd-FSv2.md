@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-23T20:11:11.974Z
+date: 2026-05-23T20:12:13.992Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -49,10 +49,10 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-song-idr-flowspec-classid-filter](https://datatracker.ietf.org/doc/draft-song-idr-flowspec-classid-filter/) [-00]
 
 - [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) [-03] 
-- [draft-li-idr-flowspec-redirect-generalized-sid-00] (https://datatracker.ietf.org/doc/draft-li-idr-flowspec-redirect-generalized-sid/) [-01]
+- [draft-li-idr-flowspec-redirect-generalized-sid](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-redirect-generalized-sid/) [-01]
 
 - [draft-ll-idr-flowspec-redirect-sidlist/](https://datatracker.ietf.org/doc/draft-ll-idr-flowspec-redirect-sidlist/) [-00] 
-draft-li-idr-flowspec-redirect-generalized-sid-00
+
  - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
 - [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
 - [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)
