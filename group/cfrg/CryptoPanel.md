@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2026-05-22T19:06:22.928Z
+date: 2026-05-24T17:59:51.313Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -37,7 +37,7 @@ Being a panel member represents a commitment to review documents in a timely and
 
 | Name | Affiliation |
 | ---- | ----------- |
-| Uri Blumenthal | MIT Lincoln Laboratory |
+| Uri Blumenthal | Massachusetts Institute of Technology |
 | Scott Fluhrer | Cisco |
 | Stephen Farrell | Trinity College Dublin |
 | Markku-Juhani O. Saarinen | Tampere University |
