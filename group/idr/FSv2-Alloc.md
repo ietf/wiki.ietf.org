@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T17:38:17.798Z
+date: 2026-05-25T18:05:35.107Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -43,34 +43,38 @@ dateCreated: 2026-05-25T17:09:54.584Z
 
 ## Filters Components for MPLS Traffic Rule Family  ## 
  
-| Filter Family | Component | Description }   
+| Filter Family | Component | Description | document | 
 |---|---|---|---|
 | 100  | 0 | Reserved |
-| 100  | 
+| 100  | 10 | draft-ietf-idr-bgp-flowspec-label-02 |
 
 ### defined draft-ietf-idr-fsv2-ip-basic
 ### IP Basic Filter Family Components 
 
-| Filter Family | Component | Description }   
+| Filter Family | Component | Description | document |  
 |---|---|---|---|
 | 256  | 0 | Reserved |
-| 256  | 
-| 256  | 5    | some parts of SRHv6 SID | 
-| 256  | 10   | IP Destination Prefix |
-| 256  | 20   | IP Source Prefix      |
-| 256  | 30   | IP v4 Protocol / IPv6 Upper Layer Protocol | 
-| 256  | 40   | Port | 
-| 256  | 50   | Destination Port |
-| 256  | 60   | Source Port  | 
-| 256  | 70   | ICMPv4 Type / ICMPv6 Type | 
-| 256  | 80   | ICMP Code / ICMPv6 Code | 
-| 256  | 90   | TCP Flags | 
-| 256  | 100  | Packet Length | 
-| 256  | 110  | DSCP | 
-| 256  | 120  | Fragment | 
-| 256  | 130  | Flow Label | 
-| 256  | 4095 | Reserved | 
+| 256  | 5    | some parts of SRHv6 SID | [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | 
+| 256  | 7    | NRP ID  SRv6 Next Hop Header | draft-
+| 256  | 10   | IP Destination Prefix | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 20   | IP Source Prefix      | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic)
+| 256  | 30   | IP v4 Protocol / IPv6 Upper Layer Protocol | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 40   | Port | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
+| 256  | 50   | Destination Port | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 60   | Source Port  | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 70   | ICMPv4 Type / ICMPv6 Type |[draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 80   | ICMP Code / ICMPv6 Code | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
+| 256  | 90   | TCP Flags | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 100  | Packet Length | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 110  | DSCP | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 120  | Fragment | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 130  | Flow Label | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
 
-## Filter Components for IDR WG Drafts
-##
+## FSv2 Actions 
+## 
+| EXT Community type | Component | Description | document |   
+|---|---|---|---|
+| Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | draft-ietf-idr-flowspec-network-slice-ts |
+
