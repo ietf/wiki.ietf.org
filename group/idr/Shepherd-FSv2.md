@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T21:05:29.037Z
+date: 2026-05-25T21:06:30.023Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -34,7 +34,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) [-27](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-l2vpn/)
 - [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-nvo3/) 
 - [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05](/group/idr/FSv2-Shepherd/draft-ietf-idr-flowspec-network-slice-t/) 
-- [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-network-slice-t/) 
+- [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-network-slice-ts/) 
 - [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02](/group/idr/FSv2-Shepherd/draft-ietf-idr-bgp-flowspec-label/) 
 - [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02](/group/idr/FSv2-Shepherd/draft-ietf-idr-flowspec-mpls-match/)
 
