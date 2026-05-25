@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T21:19:08.051Z
+date: 2026-05-25T21:19:19.276Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -37,7 +37,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-bgp-flowspec-label/) 
 - [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-mpls-match/)
 
-## IDR WG Drafts related to FSv2 drsafts 
+## IDR WG Drafts related to FSv2 drafts 
 - [draft-wu-idr-flowspec-rpd-impl](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-rpd-impl) [-00] 
 
 
