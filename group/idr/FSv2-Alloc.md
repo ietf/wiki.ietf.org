@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T18:18:36.765Z
+date: 2026-05-25T18:22:36.152Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -50,8 +50,11 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 100  | 20 | MPLS-Match1 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 | 100  | 30 | MPLS-Match2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 
-### 150 - SFC Components for NSH Filtering 
+### SFC Filter Family Component Assignments 
 ### [RFC9015]
+
+### Tunneled Traffic (NVO3) 
+### 
 
 ### defined draft-ietf-idr-fsv2-ip-basic
 ### IP Basic Filter Family Components 
@@ -81,6 +84,8 @@ dateCreated: 2026-05-25T17:09:54.584Z
 ## 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
+| Generic Transitive | TBD1[0x080A] | Flow spec VLAN action | [draft-ietf-idr-flowspec-l2vpn](https://datatracker.ietf.org/draft-ietf-idr-flowspec-l2vpn)
+| Generic Transitive | TBD2[0x0808] | Flow spec TPID action| [draft-ietf-idr-flowspec-l2vpn](https://datatracker.ietf.org/draft-ietf-idr-flowspec-l2vpn)
 | Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/[draft-ietf-idr-flowspec-network-slice-ts)
 | Generic Transitive | TBD | label Action |  [draft-ietf-idr-bgp-flowspec-label](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-flowspec-label)
  
