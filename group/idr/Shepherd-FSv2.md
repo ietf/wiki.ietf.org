@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T18:41:41.554Z
+date: 2026-05-25T18:43:08.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -16,7 +16,10 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - RFC9015 
 
 ## at IESG 
-- [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) - [-03)]
+- [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
+
+
+(/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) - [-03)]
 - [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy) 
  
 ## WG drafts for FSv1/FSv2 actions 
