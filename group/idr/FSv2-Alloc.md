@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T18:07:10.951Z
+date: 2026-05-25T18:18:36.765Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -11,7 +11,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 # FSv2 Filter components 
 
 ## Filter family Types  
-### defined in draft-ietf-idr-fsv2-ip-basic 
+### defined in draft-ietf-idr-fsv2-ip-basic
 - 50 - L2 Traffic rules 
 - 100 - MPLS traffic rules
 - 150 - SFC Traffic rules 
@@ -19,7 +19,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 - 256 - iP Basic Filter rules (bit 1 of high bit) 
 - 280 - Extended IP Filter rules 
 
-## Filters Components for MPLS Traffic Rule Family  ## Components 
+## Filters Components for L2 Traffic Rule Family  ## Components 
 | Filter Family | Component | Description }   
 |---|---|---|---|
 | 50  | 0 | Reserved |
@@ -41,12 +41,17 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 50  | 4095 | reserved | 
 {.dense}
 
-## Filters Components for MPLS Traffic Rule Family  ## 
+### Filters Components for MPLS Traffic Filter Family 
+### 
  
 | Filter Family | Component | Description | document | 
 |---|---|---|---|
 | 100  | 0 | Reserved |
-| 100  | 10 | draft-ietf-idr-bgp-flowspec-label-02 |
+| 100  | 20 | MPLS-Match1 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
+| 100  | 30 | MPLS-Match2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
+
+### 150 - SFC Components for NSH Filtering 
+### [RFC9015]
 
 ### defined draft-ietf-idr-fsv2-ip-basic
 ### IP Basic Filter Family Components 
@@ -55,7 +60,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 |---|---|---|---|
 | 256  | 0 | Reserved |
 | 256  | 5    | some parts of SRHv6 SID | [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | 
-| 256  | 7    | NRP ID  SRv6 Next Hop Header | [draft-ietf-idr-flowspec-network-slice-ts/](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-network-slice-ts-05.txt)
+| 256  | 7    | NRP ID  SRv6 Next Hop Header | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-network-slice-ts-05.txt)
 | 256  | 10   | IP Destination Prefix | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 | 256  | 20   | IP Source Prefix      | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic)
 | 256  | 30   | IP v4 Protocol / IPv6 Upper Layer Protocol | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
@@ -72,9 +77,11 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
 
-## FSv2 Actions 
+## FSv2 Extended Community Actions 
 ## 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
-| Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | draft-ietf-idr-flowspec-network-slice-ts |
-
+| Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/[draft-ietf-idr-flowspec-network-slice-ts)
+| Generic Transitive | TBD | label Action |  [draft-ietf-idr-bgp-flowspec-label](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-flowspec-label)
+ 
+{.dense}
