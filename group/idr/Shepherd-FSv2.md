@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T20:53:02.617Z
+date: 2026-05-25T20:53:29.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -31,6 +31,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 ## WG drafts that need FSv2  
 - [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-09](/group/idr/FSv2-Shepherd/draft-ietf-idr-flowspec-srv6/)
+- [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-09](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-srv6/)
 - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) - [-27](/group/idr/FSv2-Shepherd/draft-ietf-idr-flowspec-l2vpn/)
 - [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23](/group/idr/FSv2-Shepherd/draft-ietf-idr-flowspec-nvo3/) 
 - [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05](/group/idr/FSv2-Shepherd/draft-ietf-idr-flowspec-network-slice-t/) 
