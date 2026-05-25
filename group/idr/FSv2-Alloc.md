@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T18:53:02.998Z
+date: 2026-05-25T19:04:04.770Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -115,28 +115,19 @@ dateCreated: 2026-05-25T17:09:54.584Z
 {.dense}
 
 
-### Flow Specification Non-Transitive Extended Community 
-### registry is FCFS 
-10.6.  Flow Specification for SFC Classifiers
-
-   IANA maintains a registry of "Border Gateway Protocol (BGP) Extended
-   Communities" with a subregistry of "Generic Transitive Experimental
-   Use Extended Community Sub-Types".  IANA has assigned a new subtype
-   as follows:
-
-      "Flow Specification for SFC Classifiers" with a value of 0x0d and
-      with this document as the reference.
-
-10.7.  New BGP Transitive Extended Community Type
-
-   IANA maintains a registry of "Border Gateway Protocol (BGP) Extended
-   Communities" with a subregistry of "BGP Transitive Extended Community
-   Types".  IANA has assigned a new type as follows:
-
-      SFC (Sub-Types are defined in the "SFC Extended Community Sub-
-      Types" registry) with a value of 0x0b and with this document as
-      the reference.
-
+### Flow Specification SFC related 
+#### Generic Transitive Experimental Use Extended Community (0x0d)  
+#### Tramsitive Extended Community (0x0b)  
+| EXT Community type | Component | Description | document |   
+|---|---|---|---|
+| Generic Transitive Experimental (0x0d) | SFC Sub-types | registry | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt)
+| Generic Transitive Experimental (0x0d)| 0 | Reserved | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
+| Generic Transitive Experimental (0x0d)| 1 | SFIR pool Identifier | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
+| Generic Transitive Experimental (0x0d)| 2 | MPLS Label Stack Mixed (swapping/stacking) Labels  | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) |
+| Transitive FS SFC (0x0b) | SFC Sub-types | registry | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt)
+| Transitive FS SFC | (0x0b) | 0 | Rserved | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
+| Transitive FS SFC (0x0b)| 1 | SFIR pool Identifier | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
+| Transitive FS SFC (0x0b)| 2 | MPLS Label Stack Mixed (swapping/stacking) Labels  | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) |
 
 
 ### Proposed New FSv2 Extended Community Action Registries 
