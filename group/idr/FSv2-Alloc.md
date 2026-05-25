@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T19:04:04.770Z
+date: 2026-05-25T19:04:38.468Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -89,24 +89,13 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/[draft-ietf-idr-flowspec-network-slice-ts) | 
 | Generic Transitive | TBD | label Action |  [draft-ietf-idr-bgp-flowspec-label](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-flowspec-label) | 
 | Generic Transitive | TBD | FlowSpec Redirect to indirection-id | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)| 
-| 
-                         1                   2                   3
-     0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
-    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-    | Type=0x80     | Sub-Type=0x0d |  SPI                          |
-    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-    |  SPI  (cont.) |   SI          |  SFT                          |
-    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-
-          Figure 10: The Format of the Flow Specification for SFC
-                       Classifiers Extended Community
-
+{.dense}
 ### Flow Specification Transitive Extended Community (0x07) 
 ### registry is FCFS 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | FS Transitive (0x07) | 0x02 |  Interface set | [drasft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
- 
+{.dense} 
 ### Flow Specification Non-Transitive Extended Community 
 ### registry is FCFS 
 | EXT Community type | Component | Description | document |   
@@ -128,7 +117,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | Transitive FS SFC | (0x0b) | 0 | Rserved | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 1 | SFIR pool Identifier | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 2 | MPLS Label Stack Mixed (swapping/stacking) Labels  | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) |
-
+{.dense}
 
 ### Proposed New FSv2 Extended Community Action Registries 
 #### Prposed New Sub-Type Registry: "FlowSpec Redirect to indirection-id Extended Community Sub-Type"
@@ -141,4 +130,4 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 0x03 | Binding SID with SID/index in SRmpls | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
 | 0x04 | Binding Segment ID with SID/label in SRmpls | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
 | 0x05 | Tunnel ID (32 bit Identifier) |  [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
-
+{.dense}
