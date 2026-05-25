@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T19:04:38.468Z
+date: 2026-05-25T19:56:38.928Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -49,9 +49,15 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 100  | 0 | Reserved |
 | 100  | 20 | MPLS-Match1 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 | 100  | 30 | MPLS-Match2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
+| 100  | 4095 | reserved | 
 
 ### SFC Filter Family Component Assignments 
-### [RFC9015]
+### 
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 100  | 0 | Reserved |
+| 100  | 1-4094 | TBD | 
+| 100  | 4095 | Reserved | 
 
 ### Tunneled Traffic (NVO3) 
 ### 
