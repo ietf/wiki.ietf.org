@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T20:24:42.723Z
+date: 2026-05-25T20:52:25.564Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -22,7 +22,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) - In AD review 
  
 ## WG drafts for FSv1/FSv2 actions 
-- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)](/group/idr/FSv2-Shepherd/)
+- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-interfaceset/) 
 - [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/FSv2-Shepherd/)
 
 ## FSV2 Code Points for draft-ietf-idr-fsv2-ip-basic
