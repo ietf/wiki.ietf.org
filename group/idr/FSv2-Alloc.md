@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T18:22:36.152Z
+date: 2026-05-25T18:32:24.462Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -86,7 +86,21 @@ dateCreated: 2026-05-25T17:09:54.584Z
 |---|---|---|---|
 | Generic Transitive | TBD1[0x080A] | Flow spec VLAN action | [draft-ietf-idr-flowspec-l2vpn](https://datatracker.ietf.org/draft-ietf-idr-flowspec-l2vpn)
 | Generic Transitive | TBD2[0x0808] | Flow spec TPID action| [draft-ietf-idr-flowspec-l2vpn](https://datatracker.ietf.org/draft-ietf-idr-flowspec-l2vpn)
-| Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/[draft-ietf-idr-flowspec-network-slice-ts)
-| Generic Transitive | TBD | label Action |  [draft-ietf-idr-bgp-flowspec-label](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-flowspec-label)
- 
+| Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/[draft-ietf-idr-flowspec-network-slice-ts) | 
+| Generic Transitive | TBD | label Action |  [draft-ietf-idr-bgp-flowspec-label](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-flowspec-label) | 
+| Generic Transitive | TBD | FlowSpec Redirect to indirection-id | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)| 
 {.dense}
+
+### New FSv2 Extended Community Action Registries 
+
+#### New Sub-Type Registry: "FlowSpec Redirect to indirection-id Extended Community Sub-Type"
+
+| Value | Code | document | 
+|---|---|---|---|
+| 0x00  | Flowspec Redirect to 32-bit Path-id | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) | 
+| 0x01  | Node ID with SID/index in SRmpls | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
+| 0x02  | Node ID with SID/label in SRmpls | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
+| 0x03 | Binding SID with SID/index in SRmpls | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
+| 0x04 | Binding Segment ID with SID/label in SRmpls | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
+| 0x05 | Tunnel ID (32 bit Identifier) |  [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect) |
+
