@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-25T18:32:24.462Z
+date: 2026-05-25T18:40:08.084Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -81,7 +81,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 {.dense}
 
 ## FSv2 Extended Community Actions 
-## 
+### Generic Transitive  
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | Generic Transitive | TBD1[0x080A] | Flow spec VLAN action | [draft-ietf-idr-flowspec-l2vpn](https://datatracker.ietf.org/draft-ietf-idr-flowspec-l2vpn)
@@ -89,7 +89,21 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | Generic Transitive | TBD | Flowspec Encapsulate-NRP-ID | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/[draft-ietf-idr-flowspec-network-slice-ts) | 
 | Generic Transitive | TBD | label Action |  [draft-ietf-idr-bgp-flowspec-label](https://www.ietf.org/archive/id/draft-ietf-idr-bgp-flowspec-label) | 
 | Generic Transitive | TBD | FlowSpec Redirect to indirection-id | [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)| 
+
+### Flow Specification Transitive Extended Community (0x07) 
+### registry is FCFS 
+| EXT Community type | Component | Description | document |   
+|---|---|---|---|
+| FS Transitive (0x07) | 0x02 |  Interface set | [drasft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
+ 
+### Flow Specification Non-Transitive Extended Community 
+### registry is FCFS 
+| EXT Community type | Component | Description | document |   
+|---|---|---|---|
+| FS Non Transitive (0x07) | 0x02 |  Interface set | [drasft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
 {.dense}
+
+
 
 ### New FSv2 Extended Community Action Registries 
 
