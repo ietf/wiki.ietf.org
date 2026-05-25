@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T18:46:04.745Z
+date: 2026-05-25T18:47:53.566Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -17,11 +17,11 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 ## at IESG 
 - [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip) [-16](/group/idr/FSv2-Shepherd/)
-- [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) [-03](/group/idr/FSv2-Shepherd/)
+- [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) [-10](/group/idr/FSv2-Shepherd/)
  
 ## WG drafts for FSv1/FSv2 actions 
-- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)]
-- [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)]
+- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)](/group/idr/FSv2-Shepherd/)
+- [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/FSv2-Shepherd/)
 
 ## FSV2 Code Points for draft-ietf-idr-fsv2-ip-basic
 - [filter allocation](/group/idr/FSv2-Alloc)
@@ -29,12 +29,12 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 
 ## WG drafts that need FSv2  
-- [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-08] 
-- [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) - [-27]
-- [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23] 
-- [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05] 
-- [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02] 
-- [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02] 
+- [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-08](/group/idr/FSv2-Shepherd/) 
+- [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) - [-27](/group/idr/FSv2-Shepherd/)
+- [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23](/group/idr/FSv2-Shepherd/) 
+- [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) - [-05](/group/idr/FSv2-Shepherd/) 
+- [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02](/group/idr/FSv2-Shepherd/) 
+- [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02](/group/idr/FSv2-Shepherd/)
 
 ## WG Drafts related to WG LC drafts
 - [draft-wu-idr-flowspec-rpd-impl](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-rpd-impl) [-00] 
