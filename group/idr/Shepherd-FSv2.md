@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T17:23:55.349Z
+date: 2026-05-25T18:41:18.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -23,9 +23,9 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)]
 - [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)]
 
-## FSV2 Code Points for Filter Families Types 
-## and Components from draft-ietf-idr-fsv2-ip-basic) 
+## FSV2 Code Points for draft-ietf-idr-fsv2-ip-basic
 - [filter allocation](/group/idr/FSv2-Alloc)
+- [component allocation](/group/idr/FSv2-Alloc)
 
 
 ## WG drafts that need FSv2  
