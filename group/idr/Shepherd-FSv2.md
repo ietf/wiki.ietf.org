@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-25T18:47:53.566Z
+date: 2026-05-25T19:07:12.695Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -12,12 +12,14 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 
 ## RFCS 
-- RFC8895 
-- RFC9015 
+- [RFC8955](https://www.rfc-editor.org/rfc/rfc8955)
+- [RFC8956](https://www.rfc-editor.org/rfc/rfc8956)
+- [RFC9017](https://www.rfc-editor.org/rfc/rfc9017)
+- [RFC9015](https://www.rfc-editor.org/rfc/rfc9015)
 
 ## at IESG 
-- [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip) [-16](/group/idr/FSv2-Shepherd/)
-- [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) [-10](/group/idr/FSv2-Shepherd/)
+- [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip) - Awaiting final OK from IESG 
+- [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) - In AD review 
  
 ## WG drafts for FSv1/FSv2 actions 
 - [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-05)](/group/idr/FSv2-Shepherd/)
@@ -26,7 +28,6 @@ dateCreated: 2025-03-16T04:26:26.597Z
 ## FSV2 Code Points for draft-ietf-idr-fsv2-ip-basic
 - [filter allocation](/group/idr/FSv2-Alloc)
 - [component allocation](/group/idr/FSv2-Alloc)
-
 
 ## WG drafts that need FSv2  
 - [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-08](/group/idr/FSv2-Shepherd/) 
