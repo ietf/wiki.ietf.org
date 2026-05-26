@@ -2,7 +2,7 @@
 title: Flow Specification Actions in Extended Communities (FSv1 and FSv2) 
 description: FSv1/FSv2 Ext. Comm. Actions
 published: true
-date: 2026-05-26T11:48:54.915Z
+date: 2026-05-26T13:02:14.974Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T21:38:17.946Z
