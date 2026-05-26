@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-26T11:27:29.249Z
+date: 2026-05-26T11:36:12.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -43,9 +43,13 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 
 ## Individual Drafts - reviews pending (ETA by 5/26)
+### Filtres 
+- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [00 to 04](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter 
+
+### Actions 
 - [draft-chen-idr-srv6-flowspec-path-redirect-00](https://datatracker.ietf.org/doc/draft-chen-idr-srv6-flowspec-path-redirect/) - [00](/group/idr/Shepherd-FSv2/draft-chen-idr-srv6-flowspec-path-redirect-00/)
-- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [00 to 04](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/)
-- [draft-dmc-idr-flowspec-tn-aware-mobility](https://datatracker.ietf.org/doc/draft-dmc-idr-flowspec-tn-aware-mobility/) [05](/group/idr/Shepherd-FSv2/draft-dmc-idr-flowspec-tn-aware-mobility/)
+- [draft-dmc-idr-flowspec-tn-aware-mobility](https://datatracker.ietf.org/doc/draft-dmc-idr-flowspec-tn-aware-mobility/) [05](/group/idr/Shepherd-FSv2/draft-dmc-idr-flowspec-tn-aware-mobility/) - action only 
+
 - [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/) [-06](/group/idr/Shepherd-FSv2/draft-geng-idr-flowspec-sav/)
 - [draft-he-idr-bgp-flowspec-ifit](https://datatracker.ietf.org/doc/draft-he-idr-bgp-flowspec-ifit/) [-02](/group/idr/Shepherd-FSv2/draft-he-idr-bgp-flowspec-ifit/)
 - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/) [-03](/group/idr/Shepherd-FSv2/draft-kao-idr-bitwise-ip-filters/)
