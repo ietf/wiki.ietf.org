@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-05-07T13:47:30.377Z
+date: 2026-05-26T15:24:33.079Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 7, 2026
+# Informal Telechat - May 28, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,9 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-Gorry (second half)
-Chris I.
-Gunter
+
 
 
 ## Agenda
@@ -43,8 +41,6 @@ Note that this page is public.
 
 ### Administrivia
 
-- [Document Write-up update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/edit) (Med)
-- [Update IETF Last Call Announcement blob](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/edit?tab=t.0) (Med/Gunter)
 
 
 ### Document Discussions
@@ -56,12 +52,13 @@ Note that this page is public.
 
 ### WG News 
 
-- Discussion on IDR WG request for 3 sessions and additional mailing lists (Ketan)
+
 
 ### Documents to Swap 
 
 ### Executive Sessions
 
+- Appeals
 
 
 
