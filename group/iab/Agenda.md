@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-21T16:22:50.026Z
+date: 2026-05-26T15:12:57.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,7 +28,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Context: [Doc](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?usp=sharing)
 
-### 2. Executive Session: Appeal 
+### 2. Executive Session: RSWG Chair Appointment
+
+### 3. Executive Session: Appeal 
 
 Context: 
 
