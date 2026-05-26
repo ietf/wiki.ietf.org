@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-05-26T15:24:33.079Z
+date: 2026-05-26T16:16:34.811Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -38,6 +38,7 @@ Meeting password: 12345
 Note that this page is public.
 {.is-info}
 
+Definitions - Informational or BCP? (Prompted by a request to make an Info RFC into a BCP... Is it enough to name things to call an RFC best current practice? I recall in transport that most of our principle definitions are published as Informational. How do other people see this?)
 
 ### Administrivia
 
