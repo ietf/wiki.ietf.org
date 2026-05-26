@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-26T11:36:12.998Z
+date: 2026-05-26T11:49:18.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -43,7 +43,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 
 ## Individual Drafts - reviews pending (ETA by 5/26)
-### Filtres 
+### Filters 
 - [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [00 to 04](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter 
 
 ### Actions 
