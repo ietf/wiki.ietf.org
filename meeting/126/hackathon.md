@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-05-14T16:54:35.383Z
+date: 2026-05-26T08:02:16.616Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -307,6 +307,19 @@ https://github.com/NetGauze/NetGauze/releases/tag/v0.12.0
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
+### Demo of Agent Transfer Protocol (server-mediated messaging for the Internet of Agents)
+- **Champions**
+Xiang Li (lixiang@nankai.edu.cn)
+Lu Sun (sunlu25@mail.nankai.edu.cn)
+Yuqi Qiu (qiuyuqi@mail.nankai.edu.cn)
+Zuyao Xu (xuzuyao@mail.nankai.edu.cn)
+
+- **Project Info**
+The draft <ATP: Agent Transfer Protocol> ([https://datatracker.ietf.org/doc/draft-li-atp/](https://datatracker.ietf.org/doc/draft-li-atp/)) defines the Agent Transfer Protocol (ATP), a server-mediated communication protocol for messaging between autonomous agents across administrative domains. Following the federated, server-mediated model used by SMTP for electronic mail, ATP specifies agent identifier resolution and public-key discovery, a sender authentication mechanism (Agent Transfer Signatures, ATS), recipient-side keying with payload-covering signatures (Agent Transfer Keys, ATK), and a DMARC-style alignment check between ATS and ATK. The error model defines outcomes for cross-domain delivery failures.
+This project will produce an interoperability demonstration of ATP, so as to validate the practicality of the protocol architecture and identify potential areas for further standardization.
+
+- **Related documents**
+[https://datatracker.ietf.org/doc/draft-li-atp/](https://datatracker.ietf.org/doc/draft-li-atp/)
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
