@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-26T21:43:31.279Z
+date: 2026-05-27T13:06:46.750Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -28,11 +28,21 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Context: [Doc](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?usp=sharing)
 
-### 2. Executive Session: RSWG Chair Appointment
+### 2. Quick Housekeeping Updates (Dhruv)
+- IAB statement on C-22
+- IETF 126
+	- IABOpen
+  - ISOC Activities
+- Next step for PQC?
+- IAB Statement Age-based restrictions
+- ENUM discussion at RIPE
+- ICANN NomCom Deadline
 
-### 3. Executive Session: Appeal 
+### 3. Executive Session: RSWG Chair Appointment
 
-Context: 
+### 4. Executive Session: Appeal 
+
+Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQbLfOAEx9uvRP9UQ/edit?usp=sharing)
 
 
 ## Regrets
