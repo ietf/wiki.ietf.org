@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-05-19T16:31:36.145Z
+date: 2026-05-27T13:49:08.451Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -88,7 +88,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | WGLC issued. IPR 0/5 |Julien | Julien |
+|1| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | WGLC issued. IPR 2/5 |Julien | Julien |
 |2| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-14 posted on 2026-02-23 | Dhruv posted a review 2026-05-01; backup TLV to be moved from multipath; Ready for WGLC after that | Dhruv | Andrew |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -03 posted on 2025-11-05 | Added support for SR | - | - |
