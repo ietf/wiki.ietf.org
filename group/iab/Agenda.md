@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-27T15:20:38.235Z
+date: 2026-05-27T15:20:52.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -42,7 +42,6 @@ Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQb
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
-- 2026-05-27 Informal 1400-1500 UTC
 - 2026-06-03 Informal 2300-0000 UTC
 - **2026-06-10 Formal 1300-1500 UTC (Virtual)**
 - 2026-06-17 Informal 0600-0700 UTC
