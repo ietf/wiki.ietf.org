@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-05-26T17:44:34.011Z
+date: 2026-05-27T12:59:28.352Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -42,7 +42,7 @@ Definitions - Informational or BCP? (Prompted by a request to make an Info RFC i
 
 ### Administrivia
 
-
+* [Document Writeup: Update](https://github.com/IETF-OPS-AD/misc/issues) (Med)
 
 ### Document Discussions
 
@@ -50,9 +50,13 @@ Definitions - Informational or BCP? (Prompted by a request to make an Info RFC i
 
 ### Management Issues
 
+* [Inventory of DISPATCH Groups](https://docs.google.com/document/d/1g7UzVxv2d8ECu3qonmjqCUoPxVSfoA3C/edit) (Med)
 
 ### WG News 
 
+* REGEXT Rechartering (Med): Reset or Inherit State?
+  + Passed [Internal review](https://datatracker.ietf.org/doc/charter-ietf-regext/) (10/25)
+  + [NEW Charter](https://github.com/IETF-OPS-AD/Charters/blob/main/regext.md)
 
 
 ### Documents to Swap 
