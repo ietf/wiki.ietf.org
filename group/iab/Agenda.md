@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-27T18:31:28.942Z
+date: 2026-05-27T18:33:00.296Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -26,6 +26,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 1. PQC
 [Potential IAB Statement or Blog Post](https://docs.google.com/document/d/1QdscKuLgOW9XSoqyhdpHBT-Qrf17aN51EK_ZOFVU4_U/edit?tab=t.0)
+[Potential IAB Workshop](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?tab=t.0)
 
 ### 2. IAB Statement Regarding Age-Based Restrictions and Online Safety
 [Statement](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing)
