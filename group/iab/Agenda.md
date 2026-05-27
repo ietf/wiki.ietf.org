@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-27T14:02:58.085Z
+date: 2026-05-27T15:20:38.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-05-27, 14:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-06-03, 23:00 UTC (1 hour)
 
-## There WILL be a meeting on 2026-05-27
+## There WILL be a meeting on 2026-06-03
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m347636bcf1edcdef3a0baac152710cdc
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m407262be06dc314636727513638ae222
 
 
 
@@ -24,34 +24,18 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. ISE Survey 
+### 1. Next step for PQC?
 
-Context: [Doc](https://docs.google.com/document/d/1ZsFvatT16cyh05DTN0NlQ0n9wZyDJlbDbaPZJ-peKm0/edit?usp=sharing)
+### 2. IAB Statement Regarding Age-Based Restrictions and Online Safety
 
-### 2. Quick Housekeeping Updates (Dhruv)
-- IAB statement on C-22
-- IETF 126
-	- IABOpen
-  - ISOC Activities
-- Next step for PQC?
-- IAB Statement Age-based restrictions
-- ENUM discussion at RIPE
-- ICANN NomCom Deadline
-
-### 3. Executive Session: RSWG Chair Appointment
-
-### 4. Executive Session: Appeal 
+### 3. Executive Session: Appeal 
 
 Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQbLfOAEx9uvRP9UQ/edit?usp=sharing)
 
 
 ## Regrets
 
-- Ali
-- Roman
-- Waren
-- Jason
-- Mathew
+
 
 
 ## Upcoming IAB Meetings
