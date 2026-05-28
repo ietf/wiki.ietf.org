@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-05-28T14:05:21.438Z
+date: 2026-05-28T20:25:42.207Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - May 28, 2026
+# Informal Telechat - June 11, 2026
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -29,8 +29,6 @@ Meeting password: 12345
 
 ## Regrets
 
-Éric
-Chris
 
 
 
@@ -44,7 +42,7 @@ Note that this page is public.
 
 ### Administrivia
 
-* [Document Writeup: Update](https://github.com/IETF-OPS-AD/misc/issues) (Med)
+
 
 ### Document Discussions
 
@@ -52,21 +50,17 @@ Note that this page is public.
 
 ### Management Issues
 
-* [Inventory of DISPATCH Groups](https://docs.google.com/document/d/1g7UzVxv2d8ECu3qonmjqCUoPxVSfoA3C/edit) (Med)
-* Definitions - Informational or BCP? (Prompted by a request to make an Info RFC into a BCP... Is it enough to name things to call an RFC best current practice? I recall in transport that most of our principle definitions are published as Informational. How do other people see this?)
+
 
 ### WG News 
 
-* REGEXT Rechartering (Med): Reset or Inherit State?
-  + Passed [Internal review](https://datatracker.ietf.org/doc/charter-ietf-regext/) (10/25)
-  + [NEW Charter](https://github.com/IETF-OPS-AD/Charters/blob/main/regext.md)
-* [IDR recharter follow-up](https://docs.google.com/document/d/1HMMHpaeXbJVnH5vSAFOEgdG3u4bFtk2T3gQzfnfiE54/edit?tab=t.0) (Ketan)
+
 
 ### Documents to Swap 
 
 ### Executive Sessions
 
-- Appeals
+
 
 
 
