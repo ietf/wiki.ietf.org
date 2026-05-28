@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-05-28T05:43:39.779Z
+date: 2026-05-28T14:05:21.438Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -60,7 +60,7 @@ Note that this page is public.
 * REGEXT Rechartering (Med): Reset or Inherit State?
   + Passed [Internal review](https://datatracker.ietf.org/doc/charter-ietf-regext/) (10/25)
   + [NEW Charter](https://github.com/IETF-OPS-AD/Charters/blob/main/regext.md)
-* IDR recharter follow-up (Ketan)
+* [IDR recharter follow-up](https://docs.google.com/document/d/1HMMHpaeXbJVnH5vSAFOEgdG3u4bFtk2T3gQzfnfiE54/edit?tab=t.0) (Ketan)
 
 ### Documents to Swap 
 
