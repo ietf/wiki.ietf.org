@@ -2,7 +2,7 @@
 title: Flow Specification Actions in Extended Communities (FSv1 and FSv2) 
 description: FSv1/FSv2 Ext. Comm. Actions
 published: true
-date: 2026-05-29T13:48:39.471Z
+date: 2026-05-29T13:50:48.748Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T21:38:17.946Z
@@ -88,11 +88,7 @@ dateCreated: 2026-05-25T21:38:17.946Z
 | TBD-11 | Bandwidth-Guarantee Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
 | TBD-12 | Security Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
 | TBD-13 | Multi-Topology Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
-
-
 {.dense}
-
-
 
 
 ### Proposed New FSv2 Extended Community Action Registries 
