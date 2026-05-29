@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-05-26T13:02:20.118Z
+date: 2026-05-29T12:47:20.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -12,12 +12,19 @@ dateCreated: 2026-05-25T17:09:54.584Z
 
 ## Filter family Types  
 ### defined in draft-ietf-idr-fsv2-ip-basic
+- 20 - Interface 
 - 50 - L2 Traffic rules 
 - 100 - MPLS traffic rules
 - 150 - SFC Traffic rules 
 - 200 - Tunneled traffic 
 - 256 - iP Basic Filter rules (bit 1 of high bit) 
 - 280 - Extended IP Filter rules 
+
+### Interface identifier 
+| Filter Family | Component | Description | document |  
+|---|---|---|---|
+| 20  | 0 | Reserved |
+| 20  | 10 | incoming Interface set | [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
 
 ### IP Basic Filter Family Components 
 
