@@ -2,7 +2,7 @@
 title: IETF Chair Fee Waiver Program
 description: 
 published: true
-date: 2026-05-29T20:14:31.123Z
+date: 2026-05-29T20:25:07.889Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-01T15:00:42.201Z
@@ -27,7 +27,7 @@ Currently, priority for the IETF Chair Fee Waiver Program is given to supporting
 Due to its limited scope, this fee waiver is not intended to support: 
 
 * Capacity building and onboarding of new IETF participants  
-* The same individual in recurring meetings
+* The same individual in recurring instances given similar circumstances
 
 Note: this fee waiver is program is distict from the [IRTF Diversity Travel Grant](https://www.irtf.org/travelgrants/).
 
