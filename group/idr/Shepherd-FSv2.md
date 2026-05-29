@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-29T12:28:55.316Z
+date: 2026-05-29T12:49:01.524Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -44,11 +44,10 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 ## Individual Drafts - reviews pending (ETA by 5/26)
 ### Filters 
-- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [00 to 04](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter
-
+- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [00 to 04](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter 
 - [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/) [-06](/group/idr/Shepherd-FSv2/draft-geng-idr-flowspec-sav/)
-- [draft-he-idr-bgp-flowspec-ifit](https://datatracker.ietf.org/doc/draft-he-idr-bgp-flowspec-ifit/) [-02](/group/idr/Shepherd-FSv2/draft-he-idr-bgp-flowspec-ifit/)
 - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/) [-03](/group/idr/Shepherd-FSv2/draft-kao-idr-bitwise-ip-filters/)
+
 - [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) [-03](/group/idr/Shepherd-FSv2/draft-lin-idr-cats-flowspec-ts/) 
 - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) [-00](/group/idr/Shepherd-FSv2/draft-lll-idr-flowspec-filter-qp/)
 - [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) [-00](/group/idr/Shepherd-FSv2/draft-peng-idr-apn-bgp-flowspec/)
@@ -72,6 +71,8 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-chen-idr-srv6-flowspec-path-redirect-00](https://datatracker.ietf.org/doc/draft-chen-idr-srv6-flowspec-path-redirect/) - [00](/group/idr/Shepherd-FSv2/draft-chen-idr-srv6-flowspec-path-redirect-00/)
 - [draft-dmc-idr-flowspec-tn-aware-mobility](https://datatracker.ietf.org/doc/draft-dmc-idr-flowspec-tn-aware-mobility/) [05](/group/idr/Shepherd-FSv2/draft-dmc-idr-flowspec-tn-aware-mobility/) - action only 
 
+### Related but no filters or actions 
+- [draft-he-idr-bgp-flowspec-ifit](https://datatracker.ietf.org/doc/draft-he-idr-bgp-flowspec-ifit/) [-02](/group/idr/Shepherd-FSv2/draft-he-idr-bgp-flowspec-ifit/)
 
 ### individual drafts on yang module
 - [draft-wu-idr-flowspec-yang-cfg](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-yang-cfg/) [-02] 
