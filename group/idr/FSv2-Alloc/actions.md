@@ -2,7 +2,7 @@
 title: Flow Specification Actions in Extended Communities (FSv1 and FSv2) 
 description: FSv1/FSv2 Ext. Comm. Actions
 published: true
-date: 2026-05-26T13:02:14.974Z
+date: 2026-05-29T13:39:31.806Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T21:38:17.946Z
@@ -14,7 +14,7 @@ dateCreated: 2026-05-25T21:38:17.946Z
 ### registry is FCFS 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
-| FS Transitive (0x07) | 0x02 |  Interface set | [drasft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
+| FS Transitive (0x07) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
 {.dense} 
 
 ### Flow Specification Non-Transitive Extended Community 
@@ -44,6 +44,13 @@ dateCreated: 2026-05-25T21:38:17.946Z
 | Transitive FS SFC | (0x0b) | 0 | Rserved | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 1 | SFIR pool Identifier | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 2 | MPLS Label Stack Mixed (swapping/stacking) Labels  | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) |
+
+### Transitive FSv2 Action 
+| EXT Community type | Component | Description | document |   
+|---|---|---|---|
+| Transitive FSV2 | MARK IPv4 CS-ID Action (TBD) | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| Transitive FSV2 | MARK IPv6 CS-ID Action (TBD) | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| | Transitive FSV2 |  Redirect to IPv4 CSCI-ID Action | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 {.dense}
 
 ### Proposed New FSv2 Extended Community Action Registries 
@@ -59,8 +66,32 @@ dateCreated: 2026-05-25T21:38:17.946Z
 | 0x06 | Node ID with SID/index in SRv6 |  [draft-chen-idr-srv6-flowpec-path-redirecdt](https://www.ietf.org/archive/id/draft-chen-idr-srv6-flowspec-path-redirect/) | 
 | 0x07 | Binding Segment ID with SID/index in SRv6 |  [draft-chen-idr-srv6-flowpec-path-redirecdt](https://www.ietf.org/archive/id/draft-chen-idr-srv6-flowspec-path-redirect/) | 
 | 0x08 | Binding Segment ID with SID/index in SRv6 |  [draft-chen-idr-srv6-flowpec-path-redirecdt](https://www.ietf.org/archive/id/draft-chen-idr-srv6-flowspec-path-redirect/)
-| 0x09 | 
 {.dense}
+
+### Second Proposed Redirect via SID 
+#### Can this be added to path redirect registries 
+| Value | Code | document | 
+|---|---|---|---|
+| TBD | Redirect to Generalized Segment ID | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-1 | Node segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-2 | Agency Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-3 | AS (Autonomous System) Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-4 | Anycast Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-5 | Multicast Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-6 | Tunnel Segment (Tunnel Binding Segment ) | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-7 |  VPN Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-8| OAM Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-9 | ECMP Segement |  [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-10 | QoS Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-11 | Bandwidth-Guarantee Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-12 | Security Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-13 | Multi-Topology Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+
+
+{.dense}
+
+
+
 
 ### Proposed New FSv2 Extended Community Action Registries 
 #### Proposed New Sub-Type Registry: "Flowspec redirect to IP SEC SA-ID Sub-Type"
