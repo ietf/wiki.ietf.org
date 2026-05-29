@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-29T13:50:00.867Z
+date: 2026-05-29T13:52:48.923Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -29,6 +29,8 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [Filter Family Types](/group/idr/FSv2-Alloc)
 - [component Types](/group/idr/FSv2-Alloc)
 - [FSV2 Extended Community actions](/group/idr/FSv2-Alloc/actions)
+- [FSV2 Extended Community actions](/group/idr/FSv2-Alloc/actions/FSv2-extcom)
+- [FSV2 Wide Community Actions](/group/idr/FSv2-Alloc/actions/FSv2-widecom)
 
 ## FSv2 WG drafts Reviews   
 - [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-09](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-srv6/)
