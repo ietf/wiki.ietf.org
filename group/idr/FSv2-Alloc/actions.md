@@ -2,7 +2,7 @@
 title: Flow Specification Actions in Extended Communities (FSv1 and FSv2) 
 description: FSv1/FSv2 Ext. Comm. Actions
 published: true
-date: 2026-05-29T13:46:49.193Z
+date: 2026-05-29T13:48:39.471Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T21:38:17.946Z
@@ -45,12 +45,14 @@ dateCreated: 2026-05-25T21:38:17.946Z
 | Transitive FS SFC (0x0b)| 1 | SFIR pool Identifier | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 2 | MPLS Label Stack Mixed (swapping/stacking) Labels  | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) |
 
-### Transitive FSv2 Action 
+### Transitive FSv2 Action (new) 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | Transitive FSV2 | IPv4 CS-ID Mark | MARK IPv4 CS-ID Action (TBD) | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | Transitive FSV2 | IPv5 CS-ID Mark | MARK IPv6 CS-ID Action (TBD) | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
-| | Transitive FSV2 |  Redirect to IPv4 CSCI-ID Action | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+|  Transitive FSV2 |  Redirect to IPv4 CSCI-ID Action | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| Transitive FSv2 | Redirect to SR Policy Aciton | - [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
+| Transitive FSv2 | SRv6 SID Action  | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
 {.dense}
 
 ### Proposed New FSv2 Extended Community Action Registries 
