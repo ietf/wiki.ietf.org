@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-05-29T13:22:34.094Z
+date: 2026-05-29T13:38:44.951Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -69,6 +69,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 ### Actions (alphabetical) 
 - [draft-chen-idr-srv6-flowspec-path-redirect-00](https://datatracker.ietf.org/doc/draft-chen-idr-srv6-flowspec-path-redirect/) - [00](/group/idr/Shepherd-FSv2/draft-chen-idr-srv6-flowspec-path-redirect-00/) - action only 
 - [draft-dmc-idr-flowspec-tn-aware-mobility](https://datatracker.ietf.org/doc/draft-dmc-idr-flowspec-tn-aware-mobility/) [05](/group/idr/Shepherd-FSv2/draft-dmc-idr-flowspec-tn-aware-mobility/) - action only 
+- [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) [-03](/group/idr/Shepherd-FSv2//draft-song-idr-flowspec-classid-filter/) 
 - [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) [-03](/group/idr/Shepherd-FSv2/draft-lin-idr-cats-flowspec-ts/) - action plus filter 
 
 ### Related but no filters or actions 
