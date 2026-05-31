@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-27T18:33:50.298Z
+date: 2026-05-31T15:50:46.357Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,7 +31,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 2. IAB Statement Regarding Age-Based Restrictions and Online Safety
 [Statement](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing)
 
-### 3. Executive Session: Appeal 
+### 3. Stickers!!!!! I can haz stickers?!!!!
+Warren: 5 minutes
+
+### 4. Executive Session: Appeal 
 
 Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQbLfOAEx9uvRP9UQ/edit?usp=sharing)
 
