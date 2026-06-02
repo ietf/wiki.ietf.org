@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-05-31T15:50:46.357Z
+date: 2026-06-02T14:33:01.228Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,7 +40,7 @@ Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQb
 
 
 ## Regrets
-
+Matthew Bocci, Jason Livingood, Yingzhen Qu
 
 
 
