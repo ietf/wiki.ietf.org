@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-05-15T10:29:55.592Z
+date: 2026-06-02T13:58:44.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -64,7 +64,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
 |---|---|---|---|---|---|
-| draft-ietf-mpls-mldp-yang | 2026-05-07 | 2026-05-21 | Yes | Tarek | Sent to AD and IETF last call without issuing WG last call. Sent back to WG |
 | draft-ietf-mpls-stamp-pw |  2026-05-14 | 2026-05-28 | No | Tony | |
 
 
