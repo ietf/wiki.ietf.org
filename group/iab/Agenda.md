@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-06-03T16:34:07.603Z
+date: 2026-06-03T18:09:36.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -42,11 +42,11 @@ Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQb
 
 
 ## Regrets
-Matthew Bocci
-Jana Iyangar
-Dirk Kutscher
-Jason Livingood
-Yingzhen Qu
+- Matthew Bocci
+- Jana Iyangar
+- Dirk Kutscher
+- Jason Livingood
+- Yingzhen Qu
 
 
 
