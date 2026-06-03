@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-06-03T18:09:36.111Z
+date: 2026-06-03T18:42:38.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,9 +34,13 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 3. Stickers!!!!! I can haz stickers?!!!!
 Warren: 5 minutes
 
-### 4. Executive Session: ICANN NomCom Appointment
+### 4. IAB Open at IETF 126
 
-### 5. Executive Session: Appeal 
+Goal: How long a session to request? Co-chair? (Note: Session requests close 2026-06-05)
+
+### 5. Executive Session: ICANN NomCom Appointment
+
+### 6. Executive Session: Appeal 
 
 Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQbLfOAEx9uvRP9UQ/edit?usp=sharing)
 
