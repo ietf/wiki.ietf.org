@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-05-26T08:02:16.616Z
+date: 2026-06-03T08:46:55.365Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -209,6 +209,7 @@ The aim is to extend the participation, exercise more of the model and, especial
 -- Prepare proposals for updates to IVY model
 
 - **Related documents etc.**
+[Network Inventory YANG (Ivy)](https://datatracker.ietf.org/wg/ivy/about/) 
 [A Base YANG Data Model for Network Inventory](https://datatracker.ietf.org/doc/draft-ietf-ivy-network-inventory-yang/)
 [network-inventory-yang](https://github.com/ietf-ivy-wg/network-inventory-yang)
 [TAPI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
