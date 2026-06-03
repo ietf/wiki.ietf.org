@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-06-03T20:55:16.114Z
+date: 2026-06-03T20:55:38.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -19,6 +19,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
 - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
 - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
+ - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
   
 ## Implementation report for Post-WG LC drafts  
  - [draft-ietf-idr-sdwan-edge-discovery-20](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
@@ -26,8 +27,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
 - [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
  - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
-- [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
-  
+
 
  ## Implementation reports for drafts at WG LC 
  
