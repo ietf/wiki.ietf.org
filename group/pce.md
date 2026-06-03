@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-05-06T14:36:36.243Z
+date: 2026-05-27T13:49:08.451Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -28,7 +28,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-| draft-lee-pce-pcep-ls-optical | - |
+| draft-lee-pce-pcep-ls-optical | Psalms 13:1 |
 |draft-all-pce-srv6-policy-sid-list-optimization|related draft in spring is under adoption call - draft-ali-spring-srv6-policy-sid-list-optimization|
 |draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106; Pending comments from [Adrian](https://mailarchive.ietf.org/arch/msg/pce/0gOBAglL5bQMUlcpLBJmQj82lwk/) | 
 | draft-chen-pce-sr-ingress-protection | Expired; lead author not active in IETF anymore |
@@ -88,8 +88,8 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-14 posted on 2026-02-23 | Dhruv posted a review 2026-05-01; Ready for WGLC after that | Dhruv | Andrew |
-|2| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | Ready for WGLC |Julien | Julien |
+|1| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | WGLC issued. IPR 2/5 |Julien | Julien |
+|2| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-14 posted on 2026-02-23 | Dhruv posted a review 2026-05-01; backup TLV to be moved from multipath; Ready for WGLC after that | Dhruv | Andrew |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -03 posted on 2025-11-05 | Added support for SR | - | - |
 |-| draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |

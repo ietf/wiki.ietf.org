@@ -2,7 +2,7 @@
 title: Crypto Review Panel
 description: 
 published: true
-date: 2026-03-03T09:50:37.865Z
+date: 2026-05-24T18:00:12.927Z
 tags: cryptography
 editor: markdown
 dateCreated: 2022-11-03T16:55:29.660Z
@@ -33,19 +33,20 @@ The CFRG chairs will make appointments to the Review Panel.  The panel will be c
 Reviewers will be appointed to the panel for a period of 2 years, renewable. The CFRG chairs will endeavour to ensure that the Review Panel has a balanced composition covering the main technical areas of relevance to CFRG. Individuals may self-nominate or nominate others for panel membership.
 Being a panel member represents a commitment to review documents in a timely and thorough fashion; reviewers' panel membership will be rescinded at the discretion of the CFRG chairs.
 
-## Crypto Review Panel members (March 2024 - April 2026)
+## Crypto Review Panel members (April 2026 - May 2028)
 
 | Name | Affiliation |
 | ---- | ----------- |
-| Stephen Farrell | |
+| Uri Blumenthal | Massachusetts Institute of Technology |
 | Scott Fluhrer | Cisco |
+| Stephen Farrell | Trinity College Dublin |
+| Markku-Juhani O. Saarinen | Tampere University |
 | Russ Housley | Vigil Security |
-| Chloe Martindale | University of Bristol |
+| Wang Guilin | Huawei Int. Pte Ltd |
+| Kris Kwiatkowski | PQShield |
+| Enrique Larraia | Openchip & Software Technologies |
+| Sherman Chow | The Chinese University of Hong Kong |
 | Julia Hesse | IBM Research |
-| Karthikeyan Bhargavan | |
-| Thomas Pornin | NCC Group |
-| Jon Callas | |
-| Virendra Kumar | Qualcomm Technologies |
 
 ## Reviews done by the panel
 
@@ -120,6 +121,20 @@ Being a panel member represents a commitment to review documents in a timely and
 ##  Reviews done for the PAKE selection process
 
 <https://github.com/cfrg/pake-selection>
+
+## Crypto Review Panel members (March 2024 - April 2026)
+
+| Name | Affiliation |
+| ---- | ----------- |
+| Stephen Farrell | |
+| Scott Fluhrer | Cisco |
+| Russ Housley | Vigil Security |
+| Chloe Martindale | University of Bristol |
+| Julia Hesse | IBM Research |
+| Karthikeyan Bhargavan | |
+| Thomas Pornin | NCC Group |
+| Jon Callas | |
+| Virendra Kumar | Qualcomm Technologies |
 
 ## Crypto Review Panel members (January 2022 - February 2024)
 

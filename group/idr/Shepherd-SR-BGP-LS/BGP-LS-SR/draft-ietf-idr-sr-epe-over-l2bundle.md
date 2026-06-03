@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - IDR Shepherd Reviews 
 description: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle Review   
 published: true
-date: 2026-01-06T21:49:07.096Z
+date: 2026-05-11T01:19:11.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:43:35.602Z
@@ -28,6 +28,15 @@ Upon -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
 1. Revise for -02
 2. After -02 then fill out implementation report. 
 3. After -02, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
+
+## -02 review
+### Technical issues 
+The -02 version resolves all -00.txt -01 technical issues. 
+It also adds the Cross-WG section.  The shepherd is asking 
+for clarification if the PCE sets any of the functions that 
+BGP-LS reads.  
+### Editorial issues 
+All Editorial issues from -00 and -01 have been resolved. 
 
 ## -01 review 
 None of the technical issues cited in the shepherd's review for -00 have been addressed.  Please release a version -02 with these issue

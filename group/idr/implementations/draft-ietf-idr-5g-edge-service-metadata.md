@@ -2,13 +2,13 @@
 title: Implementation Report for draft-ietf-idr-5g-edge-service-metadata
 description: draft-ietf-idr-5g-edge-service-metadata
 published: true
-date: 2026-04-09T11:06:17.870Z
+date: 2026-05-29T20:32:27.020Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T23:00:41.027Z
 ---
 
-## Implementation Report drafat-ietf-idr-5g-edge-service-metadata 
+## Implementation Report draft-ietf-idr-5g-edge-service-metadata 
 
 ### Implementations: 
 implementation 1: Huawei - VRP 8 

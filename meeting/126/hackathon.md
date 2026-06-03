@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-04-22T01:28:54.936Z
+date: 2026-05-26T08:02:16.616Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -225,12 +225,101 @@ This project aims to present a demo of the TLS-based service affinity solution. 
 - **Related works**
  - Service Affinity Solution based on Transport Layer Security (TLS): https://datatracker.ietf.org/doc/draft-wang-tls-service-affinity/
 
-### Third Project Here (replace me)
+### AI based Network Management Agent (NMA)
 - **Champions**
-name and email
+Xing Zhao (zhaoxing@caict.ac.cn)
+Minxue Wang (wangminxue@chinamobile.com)
+Bo Wu (lana.wubo@huawei.com)
+Daniele Ceccarelli (dceccare@cisco.com)
+Haomian Zheng (zhenghaomian@huawei.com)
+Jin Zhou (zhou.jin6@zte.com.cn)
 - **Project Info**
-project description
+The draft <AI based Network Management Agent(NMA): Concepts and Architecture> (https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/) defines the Network Management Agent (NMA), an AI-driven entity that bridges the gap between service intent and network operations. It acts as the cognitive layer, autonomously decomposing intent, planning tasks, and making decisions, while leveraging SDN Controllers as the execution layer to enforce policies on the network infrastructure.
+This project will produce a live demo of a single NMA agent. The focus is on validating NMA deployment and application in specific network domains, including but not limited to OTN (Optical Transport Network), SPN (Slicing Packet Network), etc. The demo will showcase how NMA integrates with SDN Controllers to achieve intent-based closed-loop automation, so as to validate the practicality of the NMA architecture and also identify potential areas for future standardization.
+- **Related works**
+	- https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/
+  - https://github.com/xingzhao92/draft-zhao-nmop-network-management-agent/ietf126-hackathon
 
+### Interop testing/Demo of CoAP-EAP
+- **Champions**
+Francisco López Gómez (francisco.lopezg@um.es)
+Iván Álvarez Belotto (i.alvarezbelotto@um.es)
+Rafael Marín López (rafa@um.es)
+Gabriel López Millán (gabilm@um.es)
+- **Project Info**
+CoAP-EAP was published as RFC 9820 in September 2025. It defines CoAP as a new lower layer for EAP, intended to support authentication in Internet of Things (IoT) and other constrained environments. 
+Researchers from the University of Murcia (Spain) have developed a new implementation of the final RFC specification to evaluate CoAP-EAP in a representative IoT scenario, including experiments with EAP-EDHOC, a new EAP method currently under standardization. To further validate both the CoAP-EAP implementation and the EAP-EDHOC experiments in constrained networks, this project invites additional implementations to enable interoperability testing.
+Additionally, a demo of the current CoAP-EAP implementation in combination with EAP-EDHOC is available in a constrained scenario based on Nordic’s nRF52840-DK and nRF52840 dongle platforms using Thread to communicate, with the aim of promoting discussion on relevant aspects.
+Furthermore, RFC 9820 defines the derivation and use of an OSCORE context to protect communication between the EAP Peer and the EAP Server. An alternative version has also been developed in which, instead of using OSCORE, EDHOC-PSK (currently under standardization in the LAKE working group) is executed using the MSK derived from EAP to establish session keys. 
+- **Related documents**
+CoAP-EAP: RFC 9820.
+EAP-EDHOC draft: https://datatracker.ietf.org/doc/draft-ietf-emu-eap-edhoc/
+EDHOC-PSK draft: https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc-psk/
+
+### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Benoit Claise (benoit @ everything-ops.net)
+Paolo Lucente  (paolo @ pmacct.net)
+Vivekananda Boudia (vivekananda.boudia @ insa-lyon.fr)
+Maxence Younsi (maxence.younsi @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Deepya Mandadi (dmandadi @ blueplanet.com)
+Sivakumar Sundaravadivel (sivakuma @ blueplanet.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Samuel Gauthier (samuel.gauthier @ 6wind.com)
+Irfan Mohammad (irfan @ arrcus.com)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-anydata-validation
+
+- **Draft Specifications YANG-Push**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-library-augmentedby
+
+- **Project Info**
+https://www.network-analytics.org/yp/, validate and verify
+
+- 5 YANG-Push Publishers
+- 2 YANG-Push Receivers
+- 2 YANG-Push Network Telemetry Message
+- 1 YANG Message Broker Producer and Schema Registry
+- 3 YANG Message Broker Consumers
+
+implementation in the area of YANG data schema validation and obtaining latest YANG-Push subscription state. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/126/Hackathon
+https://github.com/NetGauze/NetGauze/releases/tag/v0.12.0
+https://github.com/pmacct/pmacct
+https://github.com/CESNET/libyang/releases/tag/v5.4.9
+
+### Demo of Agent Transfer Protocol (server-mediated messaging for the Internet of Agents)
+- **Champions**
+Xiang Li (lixiang@nankai.edu.cn)
+Lu Sun (sunlu25@mail.nankai.edu.cn)
+Yuqi Qiu (qiuyuqi@mail.nankai.edu.cn)
+Zuyao Xu (xuzuyao@mail.nankai.edu.cn)
+
+- **Project Info**
+The draft <ATP: Agent Transfer Protocol> ([https://datatracker.ietf.org/doc/draft-li-atp/](https://datatracker.ietf.org/doc/draft-li-atp/)) defines the Agent Transfer Protocol (ATP), a server-mediated communication protocol for messaging between autonomous agents across administrative domains. Following the federated, server-mediated model used by SMTP for electronic mail, ATP specifies agent identifier resolution and public-key discovery, a sender authentication mechanism (Agent Transfer Signatures, ATS), recipient-side keying with payload-covering signatures (Agent Transfer Keys, ATK), and a DMARC-style alignment check between ATS and ATK. The error model defines outcomes for cross-domain delivery failures.
+This project will produce an interoperability demonstration of ATP, so as to validate the practicality of the protocol architecture and identify potential areas for further standardization.
+
+- **Related documents**
+[https://datatracker.ietf.org/doc/draft-li-atp/](https://datatracker.ietf.org/doc/draft-li-atp/)
 ---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.

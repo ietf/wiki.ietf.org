@@ -2,7 +2,7 @@
 title: SRv6OPS Chairs
 description: SRv6OPS Chairs
 published: true
-date: 2026-03-25T15:25:26.769Z
+date: 2026-05-21T10:58:09.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-12T14:22:53.552Z
@@ -22,7 +22,7 @@ dateCreated: 2024-07-12T14:22:53.552Z
 
 
 ### Future speakers
-
+* Thomas Delaby (Free, france), reached out at RIPE92
 * Eduard Metz (KPN) - upperside talked about SR-MPLS and SRv6 cooexistence
 * Nebius (Ai Cloud) - Alexey Gorovoy
 * Sonic [Microsoft: SONiC for AI with SRv6]

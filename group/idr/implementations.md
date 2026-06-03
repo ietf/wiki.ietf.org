@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-04-21T15:42:32.887Z
+date: 2026-06-03T02:24:31.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -14,27 +14,24 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
 
 ## Implementation reports for Drafts at IESG
-  - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
+ - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
+ - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
+- [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
+- [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
  
 ## Implementation report for Post-WG LC drafts  
  - [draft-ietf-idr-sdwan-edge-discovery-20](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
  - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
 - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
- 
- - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
- - [draft-ietf-idr-bgp-ls-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
-
- - [draft-ietf-idr-flowspec-redirect-ip ](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
-  
 - [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
-
-
- ## Implementation reports for drafts at WG LC 
  - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
-- [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
 - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
   
-  ## Implementation report for drafts pending WG LC
+
+ ## Implementation reports for drafts at WG LC 
+ 
+ ## implementations at Pre-WG LC 
+
 - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
   
@@ -42,7 +39,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   
 ## Fast Track Drafts (returned to WG, 2 implementations)
  - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
- - [draft-ietf-idr-rpd implementations](/group/idr/implementations/draft-ietf-idr-rpd-implement)
+ - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
 
 
@@ -52,7 +49,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
- - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
  
 
 ## Implementations FSv1 being reclassified 
@@ -71,7 +67,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
-
     
 &nbsp;
 &nbsp;
@@ -122,3 +117,5 @@ dateCreated: 2023-03-13T05:29:13.348Z
   -  [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement) (RFC9494) 
    - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement) (RFC9514) 
     - [draft-ietf-idr-RFC7752bis (RFC9552) implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
+- [draft-ietf-idr-flowspec-redirect-ip ](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
+  

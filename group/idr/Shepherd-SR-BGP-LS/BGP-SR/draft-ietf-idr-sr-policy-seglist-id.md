@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2026-03-16T21:28:57.053Z
+date: 2026-05-10T19:23:53.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -15,24 +15,27 @@ dateCreated: 2025-02-25T01:55:41.779Z
 **Type:** Proposed Standard
 **Spring:** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/) 
 **current revision:** -08
-**status:** WG LC pending, in Spring check at IETF-125.  
+**status:** WG LC pending, Going to do 3 Week continue of call 
 **adopted:** 11/6/2024 
-**current version:** 08 (published 2/10/2026),  
-**Early Allocation**: yes, ready for query with -06 revision (11/2 to 11/17/2025)    
+**current version:** -09 (published 4/27/2026]
+**Early Allocation**: yes, -06 revision (11/2 to 11/17/2025)    
 **implementations:** H3C and ZTE (2 implementations) 
-**bgp-ls draft:** none
+**bgp-ls draft:** [RFc9857](https://datatracker.ietf.org/doc/rfc9857/) - queries for segment list identifier as part of section 4.7.4 
 
-## Revision -08 
-**status**: WG LC IPR Call done (1/5 to 1/12), Needs Spring check. 
+## Revision -08 and -09 
+**status**: WG LC IPR Call done (1/5 to 1/12), Spring check below, 
+**key point**: Segment list ID - stated as local to CP scope (see section 2.1) 
 
-### Springs agreement on Segment list ID concept
-#### Spring concept - segment list  
+### Spring check
+**Spring list:** [Discussion thread](https://mailarchive.ietf.org/arch/msg/spring/JVzsniFIj3sSQ93HT4Sl4fbJDpE/)
+
+There are two different view points on Segment list from Spring 
+#### Bound to a CP 
 - Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/)
 - Spring does not specifically indicate segment list as part of the candidate route sent,
-- document references: 
+#### Non-bound to CP 
+[non-bound to CP](https://mailarchive.ietf.org/arch/msg/spring/IT-klM7oFwk74izlKhgI7D2Toxs/)
 
-#### BGP-LS concepts - segment list id for reporting 
-- BGP-LS concepts:** Segment list id [RFC9857](https://datatracker.ietf.org/doc/rfc9857/) in section 5.7.4 uses a Segment list id as an aid to reporting regarding a specific segment list already installed.  
 
 #### PCE concepts - path id for setting and reporting
 - PCE in [draft-ietf-pce-multipath-20](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath/)

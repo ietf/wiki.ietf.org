@@ -1,0 +1,20 @@
+---
+title: Shepherd report for draft-ietf-idr-flowspec-network-slice-ts based on draft-ietf-idr-fsv2-ip-basic
+description: Shepherd FSv2 draft-ietf-idr-flowspec-network-slice-ts
+published: true
+date: 2026-05-25T21:07:26.927Z
+tags: 
+editor: markdown
+dateCreated: 2026-05-25T21:07:26.927Z
+---
+
+# Shepherd 
+# draft-ietf-idr-flowspec-network-slice-ts 
+
+### Summary 
+**version:** 5
+**shepherd:** Sue Hares
+**Next steps:** 
+1. review the component allocation in IP Components 
+2. Determine if IP TTL might be used with Network slices, and where it fits in the priority chain. 
+3. Add a cross-WG appendix (last appendix) - this appendix will be removed before publication. 
