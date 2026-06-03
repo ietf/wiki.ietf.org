@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-06-02T14:33:01.228Z
+date: 2026-06-03T16:34:07.603Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -34,13 +34,19 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 3. Stickers!!!!! I can haz stickers?!!!!
 Warren: 5 minutes
 
-### 4. Executive Session: Appeal 
+### 4. Executive Session: ICANN NomCom Appointment
+
+### 5. Executive Session: Appeal 
 
 Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQbLfOAEx9uvRP9UQ/edit?usp=sharing)
 
 
 ## Regrets
-Matthew Bocci, Jason Livingood, Yingzhen Qu
+Matthew Bocci
+Jana Iyangar
+Dirk Kutscher
+Jason Livingood
+Yingzhen Qu
 
 
 
