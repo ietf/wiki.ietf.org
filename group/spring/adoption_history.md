@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2026-05-11T18:25:24.930Z
+date: 2026-06-04T16:31:44.564Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -111,5 +111,10 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * [Responsible Chair: Alvaro]
   * 2024-07-26 (IETF 120) Authors sent request 
   * 2026-04-09 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/Wirs5z-56gud1gKVZTZNRNuCUmM/)
+  * draft-cheng-spring-sr-policy-group
+  * [Responsible Chair: Joel]
+  * 2025-04-02 Authors sent request  
+  * 2026-05-18 IPR confirmation call sent (by Joel)
+  * Actually adopted in January 2026
 
 
