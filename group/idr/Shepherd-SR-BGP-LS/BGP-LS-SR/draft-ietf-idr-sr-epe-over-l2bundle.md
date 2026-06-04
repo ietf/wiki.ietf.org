@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - IDR Shepherd Reviews 
 description: draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle Review   
 published: true
-date: 2026-05-11T01:19:11.416Z
+date: 2026-06-04T20:31:07.991Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:43:35.602Z
@@ -28,6 +28,42 @@ Upon -01, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
 1. Revise for -02
 2. After -02 then fill out implementation report. 
 3. After -02, IDR shepherd will review and send to Directorates (RTG, OPS) and SROPS
+
+## -03 review
+### Technical issues - none 
+### Editing issues - 
+#### Introduction, paragraph 2, Non-blocking, needs commas
+Old text:/
+>    The SR architecture [RFC8402] defines three types of BGP Peering
+>    Segments that may be instantiated at a BGP node:
+> 
+>    *  Peer Node Segment (PeerNode SID): instruction to steer to a
+>       specific peer node
+> 
+>    *  Peer Adjacency Segment (PeerAdj SID): instruction to steer over a
+>       specific local interface towards a specific peer node
+> 
+>    *  Peer Set Segment (PeerSet SID): instruction to load-balance to a
+>       set of specific peer nodes/
+{.is-info}
+
+ 
+ New text:/
+>    The SR architecture [RFC8402] defines three types of BGP Peering
+>    Segments that may be instantiated at a BGP node:
+> 
+>    *  Peer Node Segment (PeerNode SID): instruction to steer to a
+>       specific peer node, 
+> 
+>    *  Peer Adjacency Segment (PeerAdj SID): instruction to steer over a
+>       specific local interface towards a specific peer node, and 
+> 
+>    *  Peer Set Segment (PeerSet SID): instruction to load-balance to a
+>       set of specific peer nodes.
+{.is-info}
+
+      /
+
 
 ## -02 review
 ### Technical issues 
