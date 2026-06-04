@@ -2,7 +2,7 @@
 title: Implementation report for draft-idr-sr-epe-over-l2bundle
 description: draft-idr-sr-epe-over-l2bundle implementations 
 published: true
-date: 2026-06-03T21:11:28.746Z
+date: 2026-06-04T20:03:37.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-03T21:11:28.746Z
@@ -18,7 +18,7 @@ dateCreated: 2026-06-03T21:11:28.746Z
       implementation.
    *  Description: All sections including all the "MUST" and "SHOULD"
       clauses have been implemented in above-mentioned New H3C Products
-      (running Version 7.1.110 and above).\
+      (running Version 7.1.110 and above).
    *  Maturity Level: Product
    *  Coverage: All sections.
    *  Version: Draft-00
