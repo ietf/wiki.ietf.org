@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-06-04T00:11:58.276Z
+date: 2026-06-04T22:16:45.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -48,6 +48,50 @@ For approval
 -  Internet Society Liaison
 -  Liaison Coordinators
 
+### 3. IAB Statement with regards to Canada C-22
+
+  Goal: Minute results of e-vote
+
+
+### 4. IAB Response to ITU-T TSB Circular 123
+
+  Goal: Finalize the response and vote
+
+### 5. Post-Quantum Cryptography Workshop (Nick)
+
+  Goal: Next steps
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/95
+
+
+
+### 6. IAB Statement Regarding Age-Based Restrictions and Online Safety (Mark)
+
+  Goal: Next steps
+
+
+### 7. IAB at IETF 126
+
+  Goal: Discuss IAB Open Agenda, Topics for IAB business meetings
+
+
+
+### 8. Review of Open Issues for Responsibilities (Dhruv)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
+### 9. Executive Session: IAB Appointments Update (Cindy)
+
+
+-  ICANN RZERC Appointment (Deadline for Nominations: 2026-06-09)
+-  CCG Appointment (Deadline for Nominations: 2026-06-16)
+-  RSWG Chair Appointment (Deadline for Feedback 2026-06-24)
+-  ICANN NomCom Appointment (Deadline for Feedback: 2026-07-01)
+-  ICANN Board Liaison Appointment (Deadline for Nominations: 2026-07-24)
+
+
+### 10. Executive Session: Appeal
 
 ## Regrets
 
