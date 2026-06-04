@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-06-04T11:52:21.748Z
+date: 2026-06-04T12:23:19.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -336,6 +336,26 @@ We are interested in providing PQ capabilities to SSH protocol.
 2. We are implementing pure ML-DSA key exchange (https://datatracker.ietf.org/doc/draft-sfluhrer-ssh-mldsa/) for OpenSSH and libssh.
 
 Also Fedora/Red Hat builds of OpenSSH and libssh upstream supports hybrid ML-KEM/NIST variants using OpenSSL as backend, interoperability with Putty is tested and reached.
+
+
+### Interop testing of new ACME server and client, Akamu
+- **Champions**
+Alexander Bokovoy (abokovoy@redhat.com)
+
+- **Project Info**
+We are interested in testing new ACME server and client, Akamu, which both support PQ capabilities and Merkle Tree Certificates.
+
+We are implementing new ACME infrastructure for FreeIPA and Dogtag PKI projects, https://codeberg.org/freeipa/akamu. It allows to issue certificates in x.509 and Merkle Tree Certificate formats for both classic and PQ cryptography. Akamu also provides MTC cosigner support.
+
+### Interop testing of PQC enabled Kerberos PKINIT
+- **Champions**
+Julien Rische (jrische@redhat.com)
+Alexander Bokovoy (abokovoy@redhat.com)
+
+- **Project Info**
+We are interested in testing implementation interoperability for post-quantum PKINIT support.
+
+We are working on adding PQC PKINIT support to MIT Kerberos, based on https://datatracker.ietf.org/doc/draft-bokovoy-kitten-pkinit-pqc/
 
 ---
 
