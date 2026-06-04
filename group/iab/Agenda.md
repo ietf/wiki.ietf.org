@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-06-03T18:42:38.209Z
+date: 2026-06-04T00:11:58.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-06-03, 23:00 UTC (1 hour)
+# IAB Formal Meeting Agenda: 2026-06-10, 13:00-15:00 UTC (2 hours)
 
-## There WILL be a meeting on 2026-06-03
+## There WILL be a meeting on 2026-06-10
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m407262be06dc314636727513638ae222
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m101ee4e3d7ff9edf0b4124029b94f5ae
 
 
 
@@ -24,33 +24,33 @@ dateCreated: 2023-12-04T23:35:41.632Z
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 
-### 1. PQC
-[Potential IAB Statement or Blog Post](https://docs.google.com/document/d/1QdscKuLgOW9XSoqyhdpHBT-Qrf17aN51EK_ZOFVU4_U/edit?tab=t.0)
-[Potential IAB Workshop](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?tab=t.0)
+### 1. Administrivia (Cindy) 
 
-### 2. IAB Statement Regarding Age-Based Restrictions and Online Safety
-[Statement](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing)
+#### 1.1. Attendance
 
-### 3. Stickers!!!!! I can haz stickers?!!!!
-Warren: 5 minutes
+#### 1.2. Agenda bash and announcements
 
-### 4. IAB Open at IETF 126
+#### 1.3. Meeting Minutes
 
-Goal: How long a session to request? Co-chair? (Note: Session requests close 2026-06-05)
+For approval
 
-### 5. Executive Session: ICANN NomCom Appointment
+-  2026-05-13 business meeting - (submitted 2026-05-13) 
+	OK from: Dhruv
 
-### 6. Executive Session: Appeal 
 
-Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQbLfOAEx9uvRP9UQ/edit?usp=sharing)
+### 2. Monthly Reports (Liaisons, etc.)
+
+-  IRTF Chair
+-  IESG Liaison
+-  ICANN Board Liaison
+-  IANA Liaison
+-  IAB Outreach Coordinator
+-  Internet Society Liaison
+-  Liaison Coordinators
 
 
 ## Regrets
-- Matthew Bocci
-- Jana Iyangar
-- Dirk Kutscher
-- Jason Livingood
-- Yingzhen Qu
+
 
 
 
@@ -58,7 +58,6 @@ Context: [Doc](https://docs.google.com/document/d/1LZYWJuSYRCZi_h8Rl2IHBR6sCMPQb
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
-- 2026-06-03 Informal 2300-0000 UTC
 - **2026-06-10 Formal 1300-1500 UTC (Virtual)**
 - 2026-06-17 Informal 0600-0700 UTC
 - 2026-06-24 Informal 1400-1500 UTC *(Technical Discussion on Residential proxies with Leslie Daigle, Karim Mahrous and Rich Compton)*
