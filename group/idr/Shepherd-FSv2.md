@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-06-05T13:29:03.825Z
+date: 2026-06-05T13:32:17.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -52,6 +52,8 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/) [-03 to -04 ](/group/idr/Shepherd-FSv2/draft-kao-idr-bitwise-ip-filters/)
 - [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) [-03](/group/idr/Shepherd-FSv2/draft-lin-idr-cats-flowspec-ts/) 
 - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) [-00](/group/idr/Shepherd-FSv2/draft-lll-idr-flowspec-filter-qp/)
+ - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
+- [draft-wang-idr-flowspec-sip-origin-as-filter](https://
 
 #### identifiers still to be categorized 
 #### May be outdated 
