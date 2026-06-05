@@ -2,7 +2,7 @@
 title: FSv2 Extended Community Actions 
 description: FSv2 Ext-Com
 published: true
-date: 2026-06-05T15:31:48.995Z
+date: 2026-06-05T15:34:07.498Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T13:53:57.579Z
@@ -31,7 +31,7 @@ dateCreated: 2026-05-29T13:53:57.579Z
 |---|---|---|---|
 | FS Non Transitive (0x47) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
 | FS Non Transitive (0x47) | TBD-3 |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/)
-| FS Non Transitive (0x47) | TBD-8 |  IPSec SA ID | [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
+| FS Non Transitive (0x47) | TBD-9 |  IPSec SA ID | [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
 {.dense}
 
 
