@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T15:04:39.146Z
+date: 2026-06-05T15:26:53.596Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -16,11 +16,11 @@ dateCreated: 2026-05-25T17:09:54.584Z
 - 30 - Interface 
 - 50 - L2 Traffic rules 
 - 100 - MPLS traffic rules
-- 150 - SFC Traffic rules 
 - 200 - Tunneled traffic 
 - 256 - iP Basic Filter rules (bit 1 of high bit) 
 - 280 - Extended IP Filter rules 
-
+- 300 - SFC Traffic Rules 
+- 320 - CATS Traffic rules 
 
 ### Time 
 | Filter Family | Component | Description | document |  
@@ -65,14 +65,6 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 100  | 30 | MPLS-Match 2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 | 100  | 4095 | reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 
-### SFC Filter Family Component Assignments 
-### 
-| Filter Family | Component | Description | document | 
-|---|---|---|---|
-| 100  | 0 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 100  | 1-4094 | TBD | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 100  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-
 
 ### Tunneled Traffic (NVO3) 
 ### Filter Family - 200 
@@ -89,14 +81,6 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 200 | 80 | Protocol Type | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
 | 200 | 90 | GRE Sequence | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
 | 200 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-
-## Tunneled Traffic CATS 
-## Filter Family -220  
-| Filter Family | Component | Description | document | 
-|---|---|---|---|
-| 220 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 220 | 50 | IPv4 CS-ID | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) 
-| 200 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 
 
 ### IP Basic Filter Family Components 
@@ -130,5 +114,24 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256 | 230 | DIP-Com | [draft-wang-idr-flowspec-dip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-dip-community-filter/)
 | 256 | 240 | SIP-Com | [draft-wang-idr-flowspec-sip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-communityn-as-filter/)
 | 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+{.dense}
+
+
+### SFC Filter Family Component Assignments 
+### 
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 100  | 0 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 100  | 1-4094 | TBD | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 100  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+{.dense}
+
+## Tunneled Traffic CATS 
+## Filter Family -220  
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 220 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 220 | 50 | IPv4 CS-ID | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) 
+| 200 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
  
