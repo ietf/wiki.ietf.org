@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T12:22:27.540Z
+date: 2026-06-05T13:11:55.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -52,6 +52,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256  | 170  | Fragment | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 | 256  | 180  | Flow Label | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 | 256 | 190 | Packet content filter | [draft-cui-idr-content-filter-flowspec](https://www.ietf.org/archive/id/draft-cui-idr-content-filter-flowspec-04.txt)
+| 256 | 200 | Class ID | [draft-song-idr-flowspec-classid-filter](https://www.ietf.org/archive/id/draft-song-idr-flowspec-classid-filter/)
 | 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
 
