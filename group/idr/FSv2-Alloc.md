@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T13:57:20.622Z
+date: 2026-06-05T15:01:29.297Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -45,7 +45,6 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256 |  30    | Bitwise Destination IPv6 filter | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
 | 256 |  40   | Destination-QP | - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) 
 | 256  | 50   | IP Destination Prefix | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 
 | 256 |  60    | Bitwise Source Filter IPv6 source | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
 | 256  | 70   | IP Source Prefix      | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic)
 | 256  | 80   | IP v4 Protocol / IPv6 Upper Layer Protocol | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
