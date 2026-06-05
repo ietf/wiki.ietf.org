@@ -2,7 +2,7 @@
 title: FSv2 Extended Community Actions 
 description: FSv2 Ext-Com
 published: true
-date: 2026-06-05T13:11:45.967Z
+date: 2026-06-05T13:22:35.780Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T13:53:57.579Z
@@ -21,6 +21,8 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | FS Transitive (0x07) | TBD-4 |  MARK IPv4 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | FS Transitive (0x07)| TBD-5 | MARK IPv6 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | FS Transitive (0x07) | TBD-6 | Redirect to IPv4 CSCI-ID Action | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| FS Transitive (0x07) | TBD-7 |  Redirect to Generalized Segment ID Extended Community  |  [draft-li-idr-flowspec-redirect-generalized-sid](https://www.ietf.org/archive/id/draft-li-idr-flowspec-redirect-generalized-sid) | 
+| Generic Transitive (0x07)| TBD-8 | Compress Parameter Index (CPI) (add) | [draft-shen-idr-flowspec-traffic-compress-action](https://www.ietf.org/archive/id/draft-shen-idr-flowspec-traffic-compress-action/)  |
 {.dense}
 
 ### Flow Specification Non-Transitive Extended Community 
@@ -29,7 +31,7 @@ dateCreated: 2026-05-29T13:53:57.579Z
 |---|---|---|---|
 | FS Non Transitive (0x47) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
 | FS Non Transitive (0x47) | TBD-3 |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/)
-| FS Non Transitive (0x47) | TBD-7 |  IPSec SA ID | [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
+| FS Non Transitive (0x47) | TBD-8 |  IPSec SA ID | [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
 {.dense}
 
 
@@ -46,7 +48,7 @@ dateCreated: 2026-05-29T13:53:57.579Z
 
 ### Flow Specification SFC related 
 #### Generic Transitive Experimental Use Extended Community (0x0d)  
-#### Tramsitive Extended Community (0x0b)  
+#### Transitive Extended Community (0x0b)  
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | Generic Transitive (0x80)| TBD-9 | Compress Parameter Index (CPI) | [draft-shen-idr-flowspec-traffic-compress-action](https://www.ietf.org/archive/id/draft-shen-idr-flowspec-traffic-compress-action/)  |
@@ -78,7 +80,7 @@ dateCreated: 2026-05-29T13:53:57.579Z
 #### Can this be added to path redirect registries 
 | Value | Code | document | 
 |---|---|---|---|
-| TBD | Redirect to Generalized Segment ID | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
+| TBD-0 | Reserved | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
 | TBD-1 | Node segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
 | TBD-2 | Agency Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
 | TBD-3 | AS (Autonomous System) Segment | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) |
