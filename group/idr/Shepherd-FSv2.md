@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-06-05T13:25:11.761Z
+date: 2026-06-05T13:28:22.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -69,13 +69,15 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-zzd-idr-flowspec-pa| th-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/) [-02] 
 
 ### Actions (alphabetical) 
-- [draft-shen-idr-flowspec-traffic-compress-action](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/) [-03](/group/idr/Shepherd-FSv2/draft-shen-idr-flowspec-traffic-compress-action/)
 - [draft-chen-idr-srv6-flowspec-path-redirect-00](https://datatracker.ietf.org/doc/draft-chen-idr-srv6-flowspec-path-redirect/) - [00](/group/idr/Shepherd-FSv2/draft-chen-idr-srv6-flowspec-path-redirect-00/) - action only 
 - [draft-dmc-idr-flowspec-tn-aware-mobility](https://datatracker.ietf.org/doc/draft-dmc-idr-flowspec-tn-aware-mobility/) [05](/group/idr/Shepherd-FSv2/draft-dmc-idr-flowspec-tn-aware-mobility/) - action only 
 - [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/) [-(06)](/group/idr/Shepherd-FSv2/draft-geng-idr-flowspec-sav/) - filter and action 
-- [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) [-03](/group/idr/Shepherd-FSv2//draft-song-idr-flowspec-classid-filter/) 
+- [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) [-03]
+- [draft-ll-idr-flowspec-redirect-sidlist](https://datatracker.ietf.org/doc/draft-ll-idr-flowspec-redirect-sidlist/) [-00] 
 - [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) [-03](/group/idr/Shepherd-FSv2/draft-lin-idr-cats-flowspec-ts/) - action plus filter 
-- [draft-song-idr-flowspec-classid-filter](https://datatracker.ietf.org/doc/draft-song-idr-flowspec-classid-filter/) [-00](/group/idr/Shepherd-FSv2//draft-song-idr-flowspec-classid-filter/)
+- [draft-ll-idr-flowspec-redirect-sidlist](https://datatracker.ietf.org/doc/draft-ll-idr-flowspec-redirect-sidlist/) [-00] 
+- [draft-shen-idr-flowspec-traffic-compress-action](https://datatracker.ietf.org/doc/draft-shen-idr-flowspec-traffic-compress-action/) [-03](/group/idr/Shepherd-FSv2/draft-shen-idr-flowspec-traffic-compress-action/)
+- [draft-song-idr-flowspec-classid-filter](https://datatracker.ietf.org/doc/draft-song-idr-flowspec-classid-filter/) [-00](/group/idr/Shepherd-FSv2//draft-song-idr-flowspec-classid-filter/)  
 
 ### Related but no filters or actions 
 - [draft-he-idr-bgp-flowspec-ifit](https://datatracker.ietf.org/doc/draft-he-idr-bgp-flowspec-ifit/) [-02](/group/idr/Shepherd-FSv2/draft-he-idr-bgp-flowspec-ifit/)
