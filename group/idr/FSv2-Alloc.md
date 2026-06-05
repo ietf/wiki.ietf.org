@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T15:02:38.964Z
+date: 2026-06-05T15:03:17.314Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -22,7 +22,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 - 280 - Extended IP Filter rules 
 
 
-### Interface identifier 
+### Time 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
 | 20  | 0 | Reserved |
