@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-06-05T14:10:59.047Z
+date: 2026-06-05T20:28:17.099Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -364,13 +364,47 @@ We are working on adding PQC PKINIT support to MIT Kerberos, based on https://da
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
-```markdown
-### Your Project
-- **Champions**
-name and email
-- **Project Info**
-project description
-```
+### PermitReceipt Reference Evaluation for AI-Agent and Workload External Effects
+
+* **Champions**
+  Yong Bok Lee, Meridian Verity Group, [scott@meridianverity.com](mailto:scott@meridianverity.com)
+
+* **Project Info**
+  This project provides a runnable synthetic reference evaluation for PermitReceipt-based permit-before-commit authorization of AI-agent and workload external effects.
+
+  Related Internet-Draft:
+  https://datatracker.ietf.org/doc/draft-lee-orprg-permit-receipts/
+
+  Repository:
+  https://github.com/meridianverity/permit-receipt
+
+  Public evaluation release:
+  https://github.com/meridianverity/permit-receipt/releases/tag/v2.2.1-public-eval
+
+  The evaluation exercises deterministic canonicalization, action-digest binding, policy-epoch checks, scope checks, status and freshness checks, anti-replay handling, and fail-closed denial before a protected external effect is committed.
+
+  The project includes a provider-neutral synthetic agentic-commerce profile as one example effect family. It does not process live payments, store payment credentials, call live processors, or provide production payment processing, wallet, issuer, PSP, network-token, or settlement-rail functionality.
+
+  Hackathon goals:
+
+  * Review whether the PermitReceipt field model is understandable and useful.
+  * Review canonicalization and action-digest binding behavior.
+  * Review negative vectors and fail-closed denial behavior.
+  * Identify missing conformance and interoperability vectors.
+  * Discuss whether future work should separate requirements, architecture, data model, conformance, and wire-profile documents.
+  * Collect implementation and reviewer feedback for a future revision of the Internet-Draft.
+
+  Expected outputs:
+
+  * GitHub issues or pull requests for unclear fields, missing vectors, or implementation gaps.
+  * Candidate conformance-vector additions for future repository updates.
+  * Input for a future revision of the Internet-Draft.
+
+  Coordination:
+
+  * Remote/asynchronous coordination via GitHub Issues and IETF Hackathon communication channels.
+  * Synchronous review slot to be listed in the Team Schedule.
+
 ----
 
 *To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
