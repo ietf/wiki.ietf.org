@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T13:24:17.695Z
+date: 2026-06-05T13:56:40.796Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -12,7 +12,8 @@ dateCreated: 2026-05-25T17:09:54.584Z
 
 ## Filter family Types  
 ### defined in draft-ietf-idr-fsv2-ip-basic
-- 20 - Interface 
+- 20 - Time 
+- 30 - Interface 
 - 50 - L2 Traffic rules 
 - 100 - MPLS traffic rules
 - 150 - SFC Traffic rules 
@@ -20,11 +21,18 @@ dateCreated: 2026-05-25T17:09:54.584Z
 - 256 - iP Basic Filter rules (bit 1 of high bit) 
 - 280 - Extended IP Filter rules 
 
+
 ### Interface identifier 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
 | 20  | 0 | Reserved |
-| 20  | 10 | incoming Interface set | [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
+| 20  | 10 |Scheduling Time Information | [draft-zzd-idr-flowspec-path-scheduling](https://www.ietf.org/archive/id/draft-zzd-idr-flowspec-path-scheduling/)  
+
+### Interface identifier 
+| Filter Family | Component | Description | document |  
+|---|---|---|---|
+| 30  | 0 | Reserved |
+| 30  | 10 | incoming Interface set | [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
 
 ### IP Basic Filter Family Components 
 
@@ -53,6 +61,10 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256  | 180  | Flow Label | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 | 256 | 190 | Packet content filter | [draft-cui-idr-content-filter-flowspec](https://www.ietf.org/archive/id/draft-cui-idr-content-filter-flowspec-04.txt)
 | 256 | 200 | Class ID | [draft-song-idr-flowspec-classid-filter](https://www.ietf.org/archive/id/draft-song-idr-flowspec-classid-filter/)
+| 256 | 210 | DIP-AS | [draft-wang-idr-flowspec-dip-origin-as-filter](https://www.ietf.org/archive/id/draft-wang-idr-flowspec-dip-origin-as-filter/)
+| 256 | 220 | SIP-AS | [draft-wang-idr-flowspec-sip-origin-as-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-origin-as-filter/)
+| 256 | 230 | DIP-Com | [draft-wang-idr-flowspec-dip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-dip-community-filter/)
+| 256 | 240 | SIP-Com | [draft-wang-idr-flowspec-sip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-communityn-as-filter/)
 | 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
 
@@ -75,7 +87,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 50  | 120 | VLAN DEI | 
 | 50  | 130 | Inner VLAN DEI | 
 | 50  | 130 | Source MAC Special Bits | 
-| 50  | 140 | Destination MAC Special Bits | 
+| 50  | 140 | Destination MAC Special Bits |  
 | 50  | 4095 | reserved | 
 {.dense}
 
