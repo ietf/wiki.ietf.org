@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-06-05T13:37:46.835Z
+date: 2026-06-05T13:50:22.368Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -45,7 +45,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-wu-idr-flowspec-rpd-impl](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-rpd-impl) [-00] 
 
 
-## Individual Drafts - reviews pending (ETA by 5/26)
+## Individual Drafts - reviews pending (ETA by 6/6) 
 ### Filters 
 - [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [(00) to (04)](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter 
 - [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/) [-(06)](/group/idr/Shepherd-FSv2/draft-geng-idr-flowspec-sav/) - filter and action 
@@ -62,7 +62,6 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) [-00](/group/idr/Shepherd-FSv2/draft-peng-idr-apn-bgp-flowspec/)
 
 #### identifiers still to be categorized  
-- [draft-wu-idr-flowspec-redirect-group](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-redirect-group/) [-01]
 - [draft-xiong-idr-detnet-flow-mapping](https://datatracker.ietf.org/doc/draft-xiong-idr-detnet-flow-mapping/) [-06] 
 - [draft-zzd-idr-flowspec-pa| th-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/) [-02] 
 
