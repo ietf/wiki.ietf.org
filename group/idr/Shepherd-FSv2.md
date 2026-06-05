@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-06-05T13:34:02.954Z
+date: 2026-06-05T13:36:48.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -54,16 +54,14 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) [-00](/group/idr/Shepherd-FSv2/draft-lll-idr-flowspec-filter-qp/)
  - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
 - [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
+- [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)
+- [draft-wu-idr-flowspec-sip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-sip-community-filter/) [-01]
 
 #### identifiers still to be categorized 
 #### May be outdated 
 - [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) [-00](/group/idr/Shepherd-FSv2/draft-peng-idr-apn-bgp-flowspec/)
 
-#### identifiers still to be categorized 
- - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
-- [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
-- [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)
-- [draft-wu-idr-flowspec-sip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-sip-community-filter/) [-01] 
+#### identifiers still to be categorized  
 - [draft-wu-idr-flowspec-redirect-group](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-redirect-group/) [-01]
 - [draft-xiong-idr-detnet-flow-mapping](https://datatracker.ietf.org/doc/draft-xiong-idr-detnet-flow-mapping/) [-06] 
 - [draft-zzd-idr-flowspec-pa| th-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/) [-02] 
