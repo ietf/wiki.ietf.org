@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-06-05T13:50:22.368Z
+date: 2026-06-05T15:30:16.223Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -29,7 +29,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 ## FSV2 Code Points for draft-ietf-idr-fsv2-ip-basic
 - [Filter Family Types](/group/idr/FSv2-Alloc)
 - [component Types](/group/idr/FSv2-Alloc)
-- [FSV2 Extended Community actions](/group/idr/FSv2-Alloc/actions)
+- [FSV2 All actions](/group/idr/FSv2-Alloc/actions)
 - [FSV2 Extended Community actions](/group/idr/FSv2-Alloc/actions/FSv2-extcom)
 - [FSV2 Wide Community Actions](/group/idr/FSv2-Alloc/actions/FSv2-widecom)
 
