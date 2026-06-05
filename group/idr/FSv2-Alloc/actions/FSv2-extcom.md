@@ -2,7 +2,7 @@
 title: FSv2 Extended Community Actions 
 description: FSv2 Ext-Com
 published: true
-date: 2026-05-29T13:53:57.579Z
+date: 2026-06-05T12:08:01.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T13:53:57.579Z
@@ -15,14 +15,15 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | FS Transitive (0x07) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
+| FS Transitive (0x07) | TBD-1 |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/)
 {.dense} 
-
 ### Flow Specification Non-Transitive Extended Community 
 ### registry is FCFS 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
-| FS Non Transitive (0x07) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset)
-| FS Non Transitive (0x07) | TBD-1 |  IPSec SA ID| [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
+| FS Non Transitive (0x47) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
+| FS Transitive (0x07) | TBD-1 (0x03) |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/)
+| FS Non Transitive (0x47) | TBD-2 (0x04) |  IPSec SA ID| [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
 {.dense}
 
 
