@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T13:11:55.728Z
+date: 2026-06-05T13:24:17.695Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
