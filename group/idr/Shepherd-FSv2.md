@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-06-05T13:28:22.474Z
+date: 2026-06-05T13:29:03.825Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -58,8 +58,6 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) [-00](/group/idr/Shepherd-FSv2/draft-peng-idr-apn-bgp-flowspec/)
 
 #### identifiers still to be categorized 
-- [draft-li-idr-flowspec-redirect-generalized-sid](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-redirect-generalized-sid/) [-01]
-- [draft-ll-idr-flowspec-redirect-sidlist](https://datatracker.ietf.org/doc/draft-ll-idr-flowspec-redirect-sidlist/) [-00] 
  - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
 - [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
 - [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)
