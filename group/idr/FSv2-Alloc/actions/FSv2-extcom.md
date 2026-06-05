@@ -2,7 +2,7 @@
 title: FSv2 Extended Community Actions 
 description: FSv2 Ext-Com
 published: true
-date: 2026-06-05T13:57:27.036Z
+date: 2026-06-05T15:31:48.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T13:53:57.579Z
@@ -15,8 +15,8 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | FS Transitive (0x07) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) | 
-| Transitive FSv2 | TBD-1 | Redirect to SR Policy Aciton | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
-| Transitive FSv2 | TBD-2 | SRv6 SID Action  | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
+| FSv2 Transitive (0x07) | TBD-1 | Redirect to SR Policy Aciton | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
+| FSv2 Transitive (0x07) | TBD-2 | SRv6 SID Action  | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
 | FS Transitive (0x07) | TBD-3 |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/) | 
 | FS Transitive (0x07) | TBD-4 |  MARK IPv4 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | FS Transitive (0x07)| TBD-5 | MARK IPv6 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
