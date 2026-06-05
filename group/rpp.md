@@ -2,7 +2,7 @@
 title: RPP WG
 description: RESTful Provisioning Protocol WG
 published: true
-date: 2026-04-02T10:56:38.626Z
+date: 2026-06-05T09:14:30.690Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T15:44:52.358Z
@@ -15,29 +15,25 @@ The RESTful Provisioning Protocol (RPP) WG wiki is the authoritative source for 
 
 The [hackathon](https://wiki.ietf.org/en/group/rpp/rpp-hackathon) page contains an overview of RPP activities during IETF hackathons.
 
-## Internet Drafts
+## Document Repositories
 
-Possible documents to create are
-- RPP - Requirements
-- RPP - Architecture: High level description of RPP architecture, choices and rationale
-- RPP - Core: Describes API endpoints and message framework
-- RPP - Model: Describes data model structures
-- RPP - Model [format]: Describes data model mapping for a specific data format 
-- RPP - EPP: Describes how RPP data structures can be converted to EPP objects
-
-TODO
+- [Requirements](https://github.com/ietf-wg-rpp/rpp-requirements)
+- [Architecture](https://github.com/ietf-wg-rpp/RPP-architecture)
+- [Data Objects](https://github.com/pawel-kow/draft-kowalik-rpp-data-objects)
+- [Core](https://github.com/SIDN/ietf-rpp-core)
+- [JSON](https://github.com/SIDN/ietf-rpp-json)
+- [JSContact - Profile](https://github.com/SIDN/ietf-rpp-jscontact-profile)
+- [OAuth 2.0](https://github.com/SIDN/ietf-rpp-oauth2)
+- [OAuth 2.0 - Transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer)
+- [OAuth 2.0 - Delegation](https://github.com/SIDN/ietf-rpp-oauth2-delegation)
 
 ## RFCs
 
 TODO
 
-## Github
+## Related Work
 
 - [RPP WG](https://github.com/ietf-wg-rpp)
-- [RPP Architecture](https://github.com/ietf-wg-rpp/RPP-architecture)
-- [RPP Requirements](https://github.com/ietf-wg-rpp/rpp-requirements)
-- [RPP Core](https://github.com/SIDN/ietf-rpp-core)
-- [RPP JSON](https://github.com/SIDN/ietf-epp-restful-json)
 - [RPP API](https://github.com/SIDN/ietf-rpp-api)
 - [RPP Charter (concluded)](https://github.com/ietf-wg-rpp/ietf-wg-rpp-charter)
 - [RPP to EPP adapter - Py-RPP](https://github.com/SIDN/py-rpp)
