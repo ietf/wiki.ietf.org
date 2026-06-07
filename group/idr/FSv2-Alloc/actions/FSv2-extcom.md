@@ -2,7 +2,7 @@
 title: FSv2 Extended Community Actions 
 description: FSv2 Ext-Com
 published: true
-date: 2026-06-05T15:34:07.498Z
+date: 2026-06-07T12:21:27.122Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T13:53:57.579Z
@@ -15,8 +15,8 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | FS Transitive (0x07) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) | 
-| FSv2 Transitive (0x07) | TBD-1 | Redirect to SR Policy Aciton | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
-| FSv2 Transitive (0x07) | TBD-2 | SRv6 SID Action  | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
+| FS Transitive (0x07) | TBD-1 | Redirect to SR Policy Aciton | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
+| FS Transitive (0x07) | TBD-2 | SRv6 SID Action  | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
 | FS Transitive (0x07) | TBD-3 |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/) | 
 | FS Transitive (0x07) | TBD-4 |  MARK IPv4 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | FS Transitive (0x07)| TBD-5 | MARK IPv6 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
@@ -25,17 +25,24 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | Generic Transitive (0x07)| TBD-8 | Compress Parameter Index (CPI) (add) | [draft-shen-idr-flowspec-traffic-compress-action](https://www.ietf.org/archive/id/draft-shen-idr-flowspec-traffic-compress-action/)  |
 {.dense}
 
-### Flow Specification Non-Transitive Extended Community 
+## Flow Specification Non-Transitive Extended Community 
 ### registry is FCFS 
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
 | FS Non Transitive (0x47) | 0x02 |  Interface set | [draft-ietf-idr-flowspec-interfaceset](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-interfaceset) 
+| FS Non Transitive (0x07) | TBD-1 | Redirect to SR Policy Aciton | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
+| FS Non Transitive (0x07) | TBD-2 | SRv6 SID Action  | [draft-li-idr-flowspec-sr-policy-03](https://datatracker.ietf.org/doc/draft-li-idr-flowspec-sr-policy/) | 
 | FS Non Transitive (0x47) | TBD-3 |  Rule Position | [draft-geng-idr-flowspec-sav](https://www.ietf.org/archive/id//draft-geng-idr-flowspec-sav/)
 | FS Non Transitive (0x47) | TBD-9 |  IPSec SA ID | [draft-dmc-idr-flowspec-tn-aware-mobility](https://www.ietf.org/archive/id/draft-dmc-idr-flowspec-tn-aware-mobility/)
+| FS Non Transitive (0x07) | TBD-4 |  MARK IPv4 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| FS Non Transitive (0x07)| TBD-5 | MARK IPv6 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| FS Non Transitive (0x07) | TBD-6 | Redirect to IPv4 CSCI-ID Action | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
+| FS Non Transitive (0x07) | TBD-7 |  Redirect to Generalized Segment ID Extended Community  |  [draft-li-idr-flowspec-redirect-generalized-sid](https://www.ietf.org/archive/id/draft-li-idr-flowspec-redirect-generalized-sid) | 
+| FS Non Transitive (0x07)| TBD-8 | Compress Parameter Index (CPI) (add) | [draft-shen-idr-flowspec-traffic-compress-action](https://www.ietf.org/archive/id/draft-shen-idr-flowspec-traffic-compress-action/)  |
 {.dense}
 
 
-### Flow Specification SFC related 
+## Flow Specification SFC related 
 #### Generic Transitive Experimental Use Extended Community (0x0d)  
 #### Tramsitive Extended Community (0x0b)  
 | EXT Community type | Component | Description | document |   
@@ -60,6 +67,7 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | Transitive FS SFC | (0x0b) | 0 | Rserved | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 1 | SFIR pool Identifier | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) | 
 | Transitive FS SFC (0x0b)| 2 | MPLS Label Stack Mixed (swapping/stacking) Labels  | [RFC9015](https://www.rfc-editor.org/rfc/rfc9015.txt) |
+
 
 ### Proposed New FSv2 Extended Community Action Registries 
 #### Proposed New Sub-Type Registry: "FlowSpec Redirect to indirection-id Extended Community Sub-Type"
