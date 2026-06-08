@@ -2,7 +2,7 @@
 title: FSv2 Extended Community Actions 
 description: FSv2 Ext-Com
 published: true
-date: 2026-06-08T20:13:08.106Z
+date: 2026-06-08T20:16:08.718Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T13:53:57.579Z
@@ -22,17 +22,17 @@ dateCreated: 2026-05-29T13:53:57.579Z
 | FS Transitive (0x07)| TBD-5 | MARK IPv6 CS-ID Action  | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | FS Transitive (0x07) | TBD-6 | Redirect to IPv4 CSCI-ID Action | [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) | 
 | FS Transitive (0x07) | TBD-7 |  Redirect to Generalized Segment ID Extended Community  |  [draft-li-idr-flowspec-redirect-generalized-sid](https://www.ietf.org/archive/id/draft-li-idr-flowspec-redirect-generalized-sid) | 
-| Generic Transitive (0x07)| TBD-8 | Compress Parameter Index (CPI) (add) | [draft-shen-idr-flowspec-traffic-compress-action](https://www.ietf.org/archive/id/draft-shen-idr-flowspec-traffic-compress-action/)  |
+|FS Transitive(0x07)| TBD-8 | Compress Parameter Index (CPI) (add) | [draft-shen-idr-flowspec-traffic-compress-action](https://www.ietf.org/archive/id/draft-shen-idr-flowspec-traffic-compress-action/)  |
 {.dense}
 #### APN tunnel in tunnel actions
 | EXT Community type | Component | Description | document |   
 |---|---|---|---|
-| Generic Transitive (0x07)| TBD-9 |  Group ID | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
+| FS Transitive (0x07)| TBD-9 |  Group ID | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
 flowspec-traffic-compress-action/)  |
-| Generic Transitive (0x07)| TBD-10 | traffic mark APN | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
-| Generic Transitive (0x07)| TBD-11 | traffic mark APN partial | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
-| Generic Transitive (0x07)| TBD-12 | inherit-apn | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
-| Generic Transitive (0x07)| TBD-13 | Stitch-apn | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
+| FS Transitive (0x07)| TBD-10 | traffic mark APN | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
+| FS Transitive(0x07)| TBD-11 | traffic mark APN partial | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
+| FS Transitive (0x07)| TBD-12 | inherit-apn | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
+| FS Transitive (0x07)| TBD-13 | Stitch-apn | [draft-peng-idr-apn-bgp-flowspec](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/) | 
 {.dense}
 
 ## Flow Specification Non-Transitive Extended Community 
