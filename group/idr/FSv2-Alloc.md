@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-05T15:29:14.293Z
+date: 2026-06-08T19:48:49.141Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -113,6 +113,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256 | 220 | SIP-AS | [draft-wang-idr-flowspec-sip-origin-as-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-origin-as-filter/)
 | 256 | 230 | DIP-Com | [draft-wang-idr-flowspec-dip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-dip-community-filter/)
 | 256 | 240 | SIP-Com | [draft-wang-idr-flowspec-sip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-communityn-as-filter/)
+| 256 | 
 | 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
 
@@ -135,3 +136,10 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 300 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
  
+ ## Tunneled Traffic APN
+ ## filter family 
+## Filter Family -220  
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 330 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 330 | 1 | APN ID | [draft-peng-idr-apn-bgp-flowspec-00.txt](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/)
