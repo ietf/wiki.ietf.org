@@ -69,7 +69,7 @@ YANG doctors can enter their unavailable times into their datatracker account pr
 ### What to look for during a review
 
 The most important item is to give the AD a sense of how important it is that they pay attention to the document.
-For YANG reviews the YANG Doctors will apply the BCP 216 (RFC 8407) on the Guidelines for Authors and Reviewers of YANG Data Model Documents https://datatracker.ietf.org/doc/rfc8407/. The YANG language syntax and semantics should be analyzed. The compliance with [Network Management Datastore Architecture](https://tools.ietf.org/html/rfc8342) should to be ensured (see also [NMDA guidelines](https://tools.ietf.org/html/draft-dsdt-nmda-guidelines-01)). In addition, when the semver set of documents are approved by IESG for publication, the review should check to make sure that a semver statement has been added to the revision statement in the module.
+For YANG reviews, the YANG Doctors will apply the [BCP 216 (RFC 9907)](https://datatracker.ietf.org/doc/rfc9907/) on the Guidelines for Authors and Reviewers of YANG Data Model documents. The YANG language syntax and semantics should be analyzed. The compliance with [Network Management Datastore Architecture](https://tools.ietf.org/html/rfc8342) should be ensured (see also [NMDA guidelines](https://tools.ietf.org/html/draft-dsdt-nmda-guidelines-01)). In addition, when the semver set of documents are approved by IESG for publication, the review should check to make sure that a semver statement has been added to the revision statement in the module.
 ### Where to enter the review result
 
 YANG Doctors enter the review result into the review tracking tool with following procedure:
@@ -101,7 +101,7 @@ The reviewer should look whether the draft has changed since the last call revie
 
 ### Improvement of YANG language and usage guidelines
 
-Under some circumstances, the YANG doctors might discover open issues in BCP 216 (RFC 8407) or provide feedback worth documenting for the larger community. This should be documented on the [YANG questions/answers WIKI](https://wiki.ietf.org/e/en/group/ops/YANGDoctorsFAQ).
+Under some circumstances, the YANG doctors might discover open issues in BCP 216 (RFC 9907) or provide feedback worth documenting for the larger community. This should be documented on the [YANG questions/answers WIKI](https://wiki.ietf.org/e/en/group/ops/YANGDoctorsFAQ).
 ### Useful email aliasses
 
 FYI, all existing aliases, along with its members, are documented at http://tools.ietf.org/draft/aliases.
