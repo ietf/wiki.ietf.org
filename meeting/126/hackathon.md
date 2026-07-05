@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-05T08:04:05.088Z
+date: 2026-07-05T08:50:42.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1040,7 +1040,6 @@ Objective 4: Develop an example to demonstrate the implementation of [rate-limit
   - [Network Stack Tester (NeST)](https://gitlab.com/nitk-nest/nest)
 
 ---
-
 ### AI-Assisted Network Fault Localization and Issue Discovery System
 - **Champions**
 Zhao Jing (zhaoj501@chinaunicom.cn)
@@ -1054,17 +1053,15 @@ This project demonstrates an AI-assisted system for network fault localization a
   - draft-zhao-nmrg-ai-agent-for-ndt
 
 ---
-
-### AI-Assisted Network Protocol Testing from Specifications
+### ACME-RATS Open Source Implementation Status Update (Client-side)
 - **Champions**
-Yong Cui (cuiyong@tsinghua.edu.cn)
-Yunze Wei (wyz23@mails.tsinghua.edu.cn)
-Shailesh Prabhu (shailesh.prabhu@nokia.com)
+Peter Liu (liuchunchi@huawei.com)
+
 - **Project Info**
-This project demonstrates an AI-assisted workflow for generating and executing network protocol tests from RFC specifications.  The workflow follows the companion draft and covers structured protocol representation, coverage scoping, test case generation, executable artifact generation, test execution, and feedback-based refinement.
-The project explores how LLMs and AI agents can help preserve test-relevant semantics from specification text to executable tester scripts and DUT configurations, while keeping intermediate outputs reviewable and traceable.
-- **Related Documents**
-  - [draft-cui-nmop-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test/)
+This document (ACME-RATS) describes an approach where an ACME Server can challenge an ACME Client to provide Evidence, Endorsements, or Attestation Result according to the Remote ATtestation procedureS (RATS) framework in any format supported by the Conceptual Message Wrapper (CMW).
+
+- **Related documents**
+[draft-ietf-acme-rats-01](https://datatracker.ietf.org/doc/draft-ietf-acme-rats/01/)
 
 ---
 
