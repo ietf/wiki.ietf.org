@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-05T21:52:08.114Z
+date: 2026-07-05T22:06:19.480Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -286,7 +286,7 @@ This hackathon project builds the one piece that needs **nothing new** to run �
 We'll be dogfooding on real infrastructure — live domains, a private CA, and origin-AS space we operate — rather than toy fixtures, so the results reflect what an actual operator would see.
 
 Draft: [draft-davey-tls-braid-00](https://datatracker.ietf.org/doc/draft-davey-tls-braid/)
-Code: [github.com/daveygroup/braid](https://github.com/daveygroup/braid) (repo published before the event)
+Code: [github.com/daveygroup/braid](https://github.com/braid2026/braid) (repo published before the event)
 
 - **Hackathon goals**
   - Publish a DNSSEC-signed `_braid` TXT-form Anchor listing hashes of the Delegated Credential public keys an owner authorizes.
