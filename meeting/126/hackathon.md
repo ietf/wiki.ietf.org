@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-05T09:20:18.841Z
+date: 2026-07-05T21:47:32.670Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -274,6 +274,40 @@ Currently both Ciena and Cisco have committed to engage in the Hackathon activit
 [TAPI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
 
 ---
+=== BRAID Phase 0: Structural Revocation Without OCSP, CRLs, or Short Lifetimes ===
+
+'''Champions'''[[BR]]
+George Davey <braid@cpu.io>
+
+'''Project Info'''
+
+TLS revocation has never worked reliably at internet scale. OCSP soft-fails, CRLs go unchecked, and the industry's answer has been to shrink certificate lifetimes so a bad certificate expires before it matters. BRAID (''draft-davey-tls-braid-00'') takes the opposite approach: make freshness '''owner-controlled and structural''', so a certificate stops validating the moment its owner stops authorizing it — no status responder, no revocation list, no 47-day treadmill.
+
+This hackathon project builds the one piece that needs '''nothing new''' to run — '''Phase 0''': a monitor that checks the Delegated Credential a TLS endpoint is using against a DNSSEC-signed, owner-published {{{_braid}}} Anchor. No TLS protocol changes, no browser changes, no public-CA or root-program changes. It runs today.
+
+We'll be dogfooding on real infrastructure — live domains, a private CA, and origin-AS space we operate — rather than toy fixtures, so the results reflect what an actual operator would see.
+
+Draft: [https://datatracker.ietf.org/doc/draft-davey-tls-braid/ draft-davey-tls-braid-00][[BR]]
+Code: [https://github.com/daveygroup/braid github.com/daveygroup/braid] (repo published before the event)
+
+'''Hackathon goals'''
+ * Publish a DNSSEC-signed {{{_braid}}} TXT-form Anchor listing hashes of the Delegated Credential public keys an owner authorizes.
+ * Observe or retrieve the Delegated Credential in use at a TLS endpoint (negotiated, or via an out-of-band owner-published document where direct observation isn't available).
+ * Verify the credential's validity window is current and within the freshness bound (≤ 7 days).
+ * Compare the observed credential's public-key hash against the DNSSEC-''validated'' Anchor.
+ * Emit clear monitor verdicts: {{{authorized}}}, {{{mismatch}}}, {{{stale}}}, {{{unknown}}}, {{{dnssec-failed}}}.
+ * Demonstrate revocation live: withdraw the Anchor entry and watch the endpoint go from {{{authorized}}} to {{{mismatch}}} within the record's TTL — no OCSP, no CRL, no CA involvement.
+ * Map what later protocol pieces would belong where — TLS, LAMPS, DNSOP, SIDROPS.
+
+'''Optional stretch goal'''
+ * Add a second independent check: validate the endpoint's origin AS against RPKI, as a first look at BRAID's Routing strand alongside the Identity strand.
+
+'''Expected outputs'''
+ * A small open-source monitor prototype.
+ * A sample {{{_braid}}} TXT Anchor format others can test against.
+ * Test output covering the authorized, unauthorized, stale, and revoked-mid-session cases.
+ * A short results talk: what worked, what broke, and which protocol gaps surfaced.
+___
 ### Service Affinity Solution based on Transport Layer Security (TLS)
 
 - **Champions**
