@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-05T21:50:50.081Z
+date: 2026-07-05T21:52:08.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -305,7 +305,7 @@ Code: [github.com/daveygroup/braid](https://github.com/daveygroup/braid) (repo p
   - A sample `_braid` TXT Anchor format others can test against.
   - Test output covering the authorized, unauthorized, stale, and revoked-mid-session cases.
   - A short results talk: what worked, what broke, and which protocol gaps surfaced.
-___
+---
 ### Service Affinity Solution based on Transport Layer Security (TLS)
 
 - **Champions**
