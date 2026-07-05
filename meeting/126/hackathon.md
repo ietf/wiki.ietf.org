@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-05T08:50:42.614Z
+date: 2026-07-05T09:11:32.929Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -582,6 +582,10 @@ RFC 9595 - YANG Schema Item iDentifier (YANG SID): https://datatracker.ietf.org/
 - **Champions**
 Ana Mendez Perez <ana.mendezperez@telefonica.com>
 Per Andersson <per.ietf@ionio.se>
+Diego Lopez <diego.r.lopez@telefonica.com>
+Robin Osterberg <robin.ietf@kodeta.se>
+Jan Lindblad <jan.lindblad+ietf@for.eco>
+Marisol Palmero <mpalmero.ietf@gmail.com>
 - **Project Info**
 The OPSAWG Working Group is developing a YANG Provenance model to provide authenticity, integrity, and traceability for YANG-based telemetry. As networks become increasingly automated and telemetry-driven, operators and controllers need mechanisms to verify that telemetry data originates from trusted sources and has not been modified while traversing the collection pipeline.
 This Hackathon project will build an end-to-end prototype using the YANG Provenance model and COSE signatures to demonstrate how telemetry can be signed, verified, and validated from device to collector to consumer applications.
@@ -593,7 +597,7 @@ Exercise signing and verification using multiple YANG modules, including:
 -- ietf-interfaces.yang
 -- ietf-bmp.yang
 -- IVY data models
--- draft-bcmj-green-power-and-energy-yang
+-- draft-ietf-green-power-and-energy-yang 
 * Demonstrate provenance across different telemetry domains, including operational, routing, and power/energy telemetry.
 * Investigate canonical representations of YANG JSON, XML, and CBOR data to ensure reliable signature generation and verification.
 *  Explore COSE countersignatures (RFC 9338), multiple-signature workflows, and multi-stage provenance validation.
@@ -602,6 +606,7 @@ Exercise signing and verification using multiple YANG modules, including:
 * Signatures will be placed at the YANG-Push notification envelope level, using the second enclosing method defined in the YANG Provenance draft. This approach provides end-to-end integrity from the point of origination through to the consumer, and is the signing boundary recommended for this prototype. 
 
 - **Draft Specifications**
+https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
 - **Repositories**
 
 ---
