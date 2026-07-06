@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-06T15:54:13.471Z
+date: 2026-07-06T16:50:27.140Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -125,6 +125,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 ## Thursday, July 23, 2026
 
 No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/Agenda126).
+### 08:00-08:45 OPS AD Hours IESG Office, Park Suite 10
 
 ### 11:00-11:30 - Ask Me Anything about AD Job
 
