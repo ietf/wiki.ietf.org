@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T01:43:24.315Z
+date: 2026-07-06T02:06:07.563Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -926,7 +926,7 @@ This project provides a security evaluation benchmark for AI agents, evaluating 
 - Carry out the evaluation demonstration of two ai agents based on the evaluation benchmark.
 
 - **Related Drafts**
-will be submited soon
+  - Security Evaluation Benchmark for AI Agents: https://www.ietf.org/archive/id/draft-han-bmwg-agent-security-benchmark-00.html
 
 ---
 ### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
