@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-07-06T23:44:31.481Z
+date: 2026-07-06T23:55:42.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -25,7 +25,7 @@ To ease tracking of the high rate of churn of the status of working group docume
 The longer term intent is that the IETF wiki continues to be the primary location to track non-status work.
 
 ## Draft Status
-
+[idr-draft-status](https://github.com/ietf-wg-idr/idr-chairs/blob/main/status.md) 
 [idr-draft-status](idr-draft-status) - Stale. See the github link.
 [Early Allocation Status](/group/idr/Early-Allocation-Status)
 [Shepherd Reviews on SR and BGP-LS drafts](/group/idr/Shepherd-SR-BGP-LS)
@@ -123,6 +123,8 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 [Commentary on different RFCs](/group/idr/CommentaryonRFCs)
 [De facto BGP features needing documentation](/group/idr/DeFactoBGPFeatures)
 [Glossary](/group/idr/Glossary)
+
+[idr-draft-status](idr-draft-status) - deprecated see top of page 
 
 Attachments:
 [draft-dunbar-idr-sdwan-edge-discovery-00-v12.pdf](/draft-dunbar-idr-sdwan-edge-discovery-00-v12.pdf)
