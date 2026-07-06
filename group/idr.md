@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-07-06T23:55:42.782Z
+date: 2026-07-06T23:58:05.301Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -14,7 +14,11 @@ dateCreated: 2022-09-14T14:02:17.635Z
 
 IDR generally requires at least two interoperable implementations of a draft before it is advanced to RFC. Our goals in doing this include gaining some level of document quality assurance (can an implementor, working from the spec, implement it interoperably?) but also gaining some level of protocol quality assurance, some assurance that the proposal is implementable in practice (most BGP implementations are large and have many moving parts that new proposals must integrate with). If, as a side-effect, fewer IDR RFCs go unimplimented, that's a benefit too. Of course, perfection is impossible and even with this requirement, mistakes will creep in. Exception cases may exist where the implementation requirement wouldn't advance these goals.
 
-Implementation reports are published on our wiki (see below). Implementation reports should highlight aspects of the spec that have been implemented (for example, consider the sections and SHOULD/MUST/MAY/etc keywords as a matrix, with tickmarks to indicate compliance), aspects that have not been implemented (and why, if the answer would be interesting), what testing, interoperation, and deployment the implementation has seen, and any observations that the reporter deems interesting. Naturally it should indicate the software release, organization, and individual filing the report.
+Implementation reports are published on our wiki (see below). Implementation reports should highlight aspects of the spec that have been implemented (for example, consider the sections and SHOULD/MUST/MAY/etc keywords as a matrix, with tickmarks to indicate compliance), aspects that have not been implemented (and why, if the answer would be interesting), what testing, interoperation, and deployment the implementation has seen, and any observations that the reporter deems interesting. Naturally, it should indicate the software release, organization, and individual filing the report.
+
+Some drafts only deal with the BGP adminithe strative process (registry creation, 
+Extended Community allocation, Templates for Tunnel Encapsulation.
+Administrative drafts do not require implementations.  
 
 If you have questions or concerns regarding the implementation requirement, please send questions to the IDR mailing list or the IDR chairs.
 
@@ -37,7 +41,7 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 ## Draft Implementation status
 
 [Protocol implementations Reports](/group/idr/implementations) 
-[Administrative draft testimonials](/group/idr/BGP-Admin-drafts)
+[Administrative drafts](/group/idr/BGP-Admin-drafts)
 
 ## Checklsits and Templates for Authors and Reviewers  
 [Tunnel Encapsulation Checklists and Templates](/group/idr/TEA-templates) -
