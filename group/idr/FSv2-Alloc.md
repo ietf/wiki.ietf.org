@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-06-08T19:48:49.141Z
+date: 2026-07-06T14:08:34.856Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -16,10 +16,11 @@ dateCreated: 2026-05-25T17:09:54.584Z
 - 30 - Interface 
 - 50 - L2 Traffic rules 
 - 100 - MPLS traffic rules
+- 150 - SFC Traffic Rules 
 - 200 - Tunneled traffic 
-- 256 - iP Basic Filter rules (bit 1 of high bit) 
-- 280 - Extended IP Filter rules 
-- 300 - SFC Traffic Rules 
+- 220 - APN tunnel traffic 
+- 256 - IP Basic Filter rules (bit 1 of high bit) 
+- 280 - Extended IP Filter rules (deprecated) 
 - 320 - CATS Traffic rules 
 
 ### Time 
@@ -65,7 +66,6 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 100  | 30 | MPLS-Match 2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 | 100  | 4095 | reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 
-
 ### Tunneled Traffic (NVO3) 
 ### Filter Family - 200 
 | Filter Family | Component | Description | document | 
@@ -82,6 +82,14 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 200 | 90 | GRE Sequence | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
 | 200 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 
+ ## Tunneled Traffic APN
+ ## filter family 
+## Filter Family 150
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 220 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 220 | 1 | APN ID | [draft-peng-idr-apn-bgp-flowspec-00.txt](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/)
+| 220 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 
 ### IP Basic Filter Family Components 
 
@@ -90,30 +98,29 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 256  | 0 | Reserved |
 | 256  | 10    | some parts of SRHv6 SID | [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | 
 | 256  | 20    | NRP ID  SRv6 Next Hop Header | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-network-slice-ts-05.txt)
-| 256  | 25   | CS ID (IPv4/IPv6) | [raft-lin-idr-cats-flowspec-ts](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt)
-| 256 |  30    | Bitwise Destination IPv6 filter | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
-| 256 |  40   | Destination-QP | - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) 
-| 256  | 50   | IP Destination Prefix | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256 |  60    | Bitwise Source Filter IPv6 source | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
-| 256  | 70   | IP Source Prefix      | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic)
-| 256  | 80   | IP v4 Protocol / IPv6 Upper Layer Protocol | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 90   | Port | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
-| 256  | 100   | Destination Port | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 110  | Source Port  | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 120   | ICMPv4 Type / ICMPv6 Type |[draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 130  | ICMP Code / ICMPv6 Code | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
-| 256  | 140   | TCP Flags | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 150  | Packet Length | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 160  | DSCP | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 170  | Fragment | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256  | 180  | Flow Label | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 256 | 190 | Packet content filter | [draft-cui-idr-content-filter-flowspec](https://www.ietf.org/archive/id/draft-cui-idr-content-filter-flowspec-04.txt)
-| 256 | 200 | Class ID | [draft-song-idr-flowspec-classid-filter](https://www.ietf.org/archive/id/draft-song-idr-flowspec-classid-filter/)
-| 256 | 210 | DIP-AS | [draft-wang-idr-flowspec-dip-origin-as-filter](https://www.ietf.org/archive/id/draft-wang-idr-flowspec-dip-origin-as-filter/)
-| 256 | 220 | SIP-AS | [draft-wang-idr-flowspec-sip-origin-as-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-origin-as-filter/)
-| 256 | 230 | DIP-Com | [draft-wang-idr-flowspec-dip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-dip-community-filter/)
-| 256 | 240 | SIP-Com | [draft-wang-idr-flowspec-sip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-communityn-as-filter/)
-| 256 | 
+| 256  | 30   | CS ID (IPv4/IPv6) | [draft-lin-idr-cats-flowspec-ts](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt)
+| 256 |  40    | Bitwise Destination IPv4/IPv6 filter | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
+| 256 |  50   | Destination-QP | - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) 
+| 256  | 60   | IP Destination Prefix | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256 |  70    | Bitwise Source Filter IPv4/IPv6 source | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
+| 256  | 80   | IP Source Prefix      | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic)
+| 256  | 90   | IP v4 Protocol / IPv6 Upper Layer Protocol | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 100   | Port | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
+| 256  | 110   | Destination Port | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 120  | Source Port  | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 130   | ICMPv4 Type / ICMPv6 Type |[draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 140  | ICMP Code / ICMPv6 Code | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
+| 256  | 150   | TCP Flags | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 160  | Packet Length | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 170  | DSCP | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 180  | Fragment | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256  | 190  | Flow Label | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 256 | 200 | Packet content filter | [draft-cui-idr-content-filter-flowspec](https://www.ietf.org/archive/id/draft-cui-idr-content-filter-flowspec-04.txt) | 
+| 256 | 210 | Class ID | [draft-song-idr-flowspec-classid-filter](https://www.ietf.org/archive/id/draft-song-idr-flowspec-classid-filter/) | 
+| 256 | 220 | DIP-AS | [draft-wang-idr-flowspec-dip-origin-as-filter](https://www.ietf.org/archive/id/draft-wang-idr-flowspec-dip-origin-as-filter/)
+| 256 | 230 | SIP-AS | [draft-wang-idr-flowspec-sip-origin-as-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-origin-as-filter/) | 
+| 256 | 240 | DIP-Com | [draft-wang-idr-flowspec-dip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-dip-community-filter/) | 
+| 256 | 250 | SIP-Com | [draft-wang-idr-flowspec-sip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-communityn-as-filter/) | 
 | 256  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
 
@@ -136,10 +143,4 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 300 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 {.dense}
  
- ## Tunneled Traffic APN
- ## filter family 
-## Filter Family -220  
-| Filter Family | Component | Description | document | 
-|---|---|---|---|
-| 330 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 330 | 1 | APN ID | [draft-peng-idr-apn-bgp-flowspec-00.txt](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/)
+
