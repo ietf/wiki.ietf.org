@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T06:34:50.336Z
+date: 2026-07-06T07:38:41.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1174,6 +1174,81 @@ This document (ACME-RATS) describes an approach where an ACME Server can challen
 
   - **Internet-Draft:** https://datatracker.ietf.org/doc/html/draft-opennhp-ztcpp-nhp
 
+---
+
+### LTV-JWS: Long-Term Validation for JSON Web Signature
+
+**Champion:** Naoto Miyachi
+
+**Internet-Draft:**  
+https://datatracker.ietf.org/doc/draft-miyachi-ltv-jws/
+
+**Source code:**  
+https://github.com/miyachi/draft-miyachi-ltv-jws/tree/main/implementation
+
+LTV-JWS is an extension of JSON Web Signature (JWS) for lightweight
+long-term validation. It defines signature levels including SIG-B and
+SIG-T, RFC 3161 timestamps, validation information, archive timestamps,
+and external references.
+
+An experimental Java reference verifier is available in the repository.
+It currently supports JWS signature verification, SIG-B and SIG-T,
+RFC 3161 timestamp verification, certificate-path validation using local
+trust anchors, CRL-based certificate-status checking, and verification of
+referenced JWS files.
+
+#### Hackathon goals
+
+- Clone and run the reference verifier on Windows and Linux.
+- Verify the included SIG-B, SIG-T, and referenced-JWS examples.
+- Create and verify independently generated LTV-JWS test vectors.
+- Test interoperability of JWS signatures, RFC 3161 timestamps, external
+  references, and CRL-based certificate-status checking.
+- Identify specification ambiguities, interoperability issues, and useful
+  additions to the reference implementation.
+- Record findings as GitHub Issues or proposed Internet-Draft changes.
+
+#### Suggested tasks
+
+- Prepare independent SIG-B and SIG-T test objects.
+- Test verification with certificates and timestamp tokens from a different
+  implementation or service.
+- Review handling of protected and unprotected LTV-JWS header objects.
+- Review `refs` integrity verification and referenced JWS processing.
+- Test online CRL retrieval and `-offline` verification behavior.
+- Improve test vectors, documentation, or build instructions.
+
+#### Skills useful for participants
+
+Java, JOSE/JWS, PKI, X.509 certificates, RFC 3161 timestamps, CRLs,
+JSON processing, and interoperability testing.
+
+#### Notes
+
+This is an experimental reference implementation intended for
+interoperability discussion and demonstration. It is not production
+software.
+
+The verifier currently supports CRL retrieval for online certificate-status
+checking. OCSP is not currently supported.
+
+This is the champion's first IETF Hackathon.
+Newcomers and experienced participants alike are welcome.
+
+#### Team coordination
+
+Please contact Naoto Miyachi after the Hackathon team-formation session.
+The meeting location will be announced on this page at the event.
+Participants are welcome to join at any time during the Hackathon.
+
+**Contact:**
+
+- **In person:** Naoto Miyachi
+- **Online:** GitHub Issues in the project repository
+- **Email:** miyachi@langedge.jp
+
+Participants are encouraged to clone the repository and run the included
+examples before joining, but this is not required.
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
