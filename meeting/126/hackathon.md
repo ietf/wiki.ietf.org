@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T02:06:07.563Z
+date: 2026-07-06T05:17:04.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1099,6 +1099,52 @@ This document (ACME-RATS) describes an approach where an ACME Server can challen
 
 - **Related documents**
 [draft-ietf-acme-rats-01](https://datatracker.ietf.org/doc/draft-ietf-acme-rats/01/)
+
+---
+### OpenNHP: Network-infrastructure Hiding Protocol (NHP)
+
+- **Champions**
+
+  **Benfeng Chen**  
+  benfeng@gmail.com 
+
+  *(Additional contributors and collaborators are welcome during the hackathon.)*
+
+- **Project Info**
+
+  **OpenNHP** is an open-source implementation of the **Network-infrastructure Hiding Protocol (NHP)**, an emerging Zero Trust protocol that provides **authenticate-before-connect** semantics through cryptographic authentication and network resource hiding.
+
+  Unlike traditional security approaches that protect visible services, NHP aims to prevent reconnaissance, DDoS attacks, and pre-authentication exploits by making protected network resources invisible to unauthorized entities. NHP extends concepts from Software-Defined Perimeter (SDP) and Single Packet Authorization (SPA) using modern cryptographic techniques including mutual authentication, continuous verification, and resource obfuscation.
+
+  For the **IETF 126 Hackathon**, we invite participants to actively evaluate, test, and attempt to bypass the security properties of OpenNHP.
+
+- **Challenge objectives include:**
+  - Discovering protected services without authentication
+  - Performing network reconnaissance against NHP-protected infrastructure
+  - Enumerating hidden ports, IP addresses, and domain names
+  - Bypassing authentication or authorization mechanisms
+  - Testing resistance against DDoS and pre-authentication attacks
+  - Identifying protocol design or implementation weaknesses
+  - Evaluating cryptographic assumptions and security properties
+  - Experimenting with AI-assisted attack techniques
+  - Performing interoperability and performance testing
+
+- **Success criteria:**
+  - If participants can discover or access protected resources without successful authentication, we want to understand and fix the weakness.
+  - If participants cannot bypass the invisibility mechanisms, the exercise provides additional confidence in the security properties of the protocol.
+
+  We believe that open adversarial testing, public peer review, and running code are essential for building trustworthy Internet security protocols.
+
+- **Links:**
+
+  - **Website:** https://opennhp.org/
+
+  - **Source Code:** https://github.com/OpenNHP/opennhp
+
+  - **Live Demo:** https://opennhp.org/demo/
+
+  - **Internet-Draft:** https://datatracker.ietf.org/doc/html/draft-opennhp-ztcpp-nhp
+
 
 ---
 
