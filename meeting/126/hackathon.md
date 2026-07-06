@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T06:33:50.939Z
+date: 2026-07-06T06:34:50.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -837,6 +837,35 @@ https://www.ietf.org/archive/id/draft-jiang-oauth-intent-admission-00.html
 https://agent-security-labs.github.io/agentic-security-hackathon-plan/agentic-security-hackathon-plan.html
 
 ---
+### Heterogeneous Credential Verification for Workload and Agentic Systems
+
+* Champions
+  Jiang Yuning ([jiangyuning2@h-partners.com](mailto:jiangyuning2@h-partners.com))
+  Song Yurong ([songyurong1@huawei.com](mailto:songyurong1@huawei.com))
+  Foo Chuan Ann ([foo.chuan.ann1@h-partners.com](mailto:foo.chuan.ann1@h-partners.com))
+  Tu Yaowei ([tuyaowei@h-partners.com](mailto:tuyaowei@h-partners.com))
+
+* Project Info
+  Workload and agentic systems may receive multiple credentials in one request, such as workload identity credentials, OAuth access tokens, JWTs, X.509 certificates, verifiable credentials, API keys, and opaque tokens. These credentials can use different formats, issuers, and verifiers, while the receiver still needs to make one handling decision for the request.
+
+  This project will test a heterogeneous credential verification pipeline for workload and agent communication. The prototype receives a mixed credential set, identifies each credential type, routes credentials to the appropriate verifier, normalizes verification results, and applies a decision policy.
+
+* Hackathon Plan
+  We plan to test the following items:
+
+  * Receive one request carrying multiple credential types.
+  * Identify credential types and select the corresponding verifiers.
+  * Normalize verifier outputs into a common result model.
+  * Apply a decision policy and show different outcomes through demo scenarios.
+
+
+* Related Drafts
+  https://datatracker.ietf.org/doc/draft-jiang-wimse-heterogeneous-credential/01/
+
+* Repositories
+  https://github.com/agent-security-labs/wimse-heterogeneous-credential-draft
+  
+---
 ### RPKI-based Validation with Prioritized Resource Data
 - **Champions**
 Jia Zhang (zhangj@zgclab.edu.cn)
@@ -1145,35 +1174,6 @@ This document (ACME-RATS) describes an approach where an ACME Server can challen
 
   - **Internet-Draft:** https://datatracker.ietf.org/doc/html/draft-opennhp-ztcpp-nhp
 
-
----
-### Heterogeneous Credential Verification for Workload and Agentic Systems
-
-* Champions
-  Jiang Yuning ([jiangyuning2@h-partners.com](mailto:jiangyuning2@h-partners.com))
-  Song Yurong ([songyurong1@huawei.com](mailto:songyurong1@huawei.com))
-  Foo Chuan Ann ([foo.chuan.ann1@h-partners.com](mailto:foo.chuan.ann1@h-partners.com))
-  Tu Yaowei ([tuyaowei@h-partners.com](mailto:tuyaowei@h-partners.com))
-
-* Project Info
-  Workload and agentic systems may receive multiple credentials in one request, such as workload identity credentials, OAuth access tokens, JWTs, X.509 certificates, verifiable credentials, API keys, and opaque tokens. These credentials can use different formats, issuers, and verifiers, while the receiver still needs to make one handling decision for the request.
-
-  This project will test a heterogeneous credential verification pipeline for workload and agent communication. The prototype receives a mixed credential set, identifies each credential type, routes credentials to the appropriate verifier, normalizes verification results, and applies a decision policy.
-
-* Hackathon Plan
-  We plan to test the following items:
-
-  * Receive one request carrying multiple credential types.
-  * Identify credential types and select the corresponding verifiers.
-  * Normalize verifier outputs into a common result model.
-  * Apply a decision policy and show different outcomes through demo scenarios.
-
-
-* Related Drafts
-  https://datatracker.ietf.org/doc/draft-jiang-wimse-heterogeneous-credential/01/
-
-* Repositories
-  https://github.com/agent-security-labs/wimse-heterogeneous-credential-draft
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
