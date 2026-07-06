@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T09:48:02.038Z
+date: 2026-07-06T12:10:22.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1251,6 +1251,27 @@ Participants are welcome to join at any time during the Hackathon.
 
 Participants are encouraged to clone the repository and run the included
 examples before joining, but this is not required.
+
+---
+### PQC DNSSEC MTL Mode Additional Benefits
+- **Champions**
+Joe Harvey (jsharvey@verisign.com)
+Swapneel Sheth (ssheth@verisign.com)
+Andrew Kaizer (akaizer@verisign.com)
+
+- **Draft Specifications**
+[1] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
+[2] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/
+[3] https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+
+- **Project Info**
+This hackathon topic continues our evaluation of post-quantum cryptography (PQC) DNSSEC with MTL Mode by focusing on the benefits of MTL Mode beyond support for smaller signatures over the wire. MTL Mode can help with things like signing and verification performance, in particular for slower PQC signature algorithms, and reducing cache sizes in resolvers.
+
+- **Related Groups**
+•	PQ DNSSEC Research Side Meetings
+•	DNS Operations (DNSOP) Working Group
+•	Crypto Forum Research Group (CFRG)
+•	Post-Quantum Use in Protocols (PQUIP)
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
