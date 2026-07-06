@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T16:46:36.524Z
+date: 2026-07-06T23:45:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1292,6 +1292,16 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 - **Project Info**
 Continued interop of IKEv2 drafts such as draft-ietf-ipsecme-ikev2-mlkem, draft-ietf-ipsecme-child-pfs-info, draft-ietf-ipsecme-ikev2-sa-ts-payloads-opt and IPsec performance testing for per-CPU Child SA's (RFC 9611), IPTFS (RFC 9347) and maybe some EESP  draft-ietf-ipsecme-eesp hacking.
 
+
+### Rocca-S for high throughput communication
+- **Champions**
+Yuto Nakano (yt-nakano@kddi.com)
+- **Project Info**
+Rocca-S is an authenticated encryption with associated data (AEAD) algorithm designed for high-performance applications.
+This project aims to evaluate the throughput of encrypted communication in a 100GbE environment and investigate the impact of different encryption algorithms on throughput. In particular, we will compare the throughput achieved by AES-256-GCM against that of Rocca-S.
+- **Related draft**
+Encryption algorithm Rocca-S
+https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
