@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T16:04:28.086Z
+date: 2026-07-06T16:44:53.541Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1285,6 +1285,18 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+
+```markdown
+### IPsec / IKEv2 interop and performance testing
+- **Champions**
+[Paul Wouters](mailto:paul.wouters@aiven.io)
+[Steffen Klassert](mailto:teffen.Klassert@secunet.com)
+
+- **Project Info**
+Continued interop of IKEv2 drafts such as draft-ietf-ipsecme-ikev2-mlkem, draft-ietf-ipsecme-child-pfs-info, draft-ietf-ipsecme-ikev2-sa-ts-payloads-opt and IPsec performance testing for per-CPU Child SA's (RFC 9611), IPTFS (RFC 9347) and maybe some EESP  draft-ietf-ipsecme-eesp hacking.
+```
+----
 
 ```markdown
 ### Your Project
