@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-05T07:10:32.286Z
+date: 2026-07-06T11:45:50.741Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -175,6 +175,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 
 * TIME - TIME -- Thing (Person responsible)
+* tbc: 1100 - 1130 -- Pre-BoF for DAWN (Éric V)
 
 
 
