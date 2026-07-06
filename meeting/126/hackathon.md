@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T12:10:22.511Z
+date: 2026-07-06T16:04:28.086Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1273,6 +1273,15 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 •	Crypto Forum Research Group (CFRG)
 •	Post-Quantum Use in Protocols (PQUIP)
 
+---
+### Advancing `unicoap` in RIOT OS
+`unicoap` is the unified and modular [CoAP](https://datatracker.ietf.org/doc/html/rfc7252) stack in [RIOT OS](https://riot-os.org), the friendly operating system for the IoT
+
+- **Champions**
+  - [Carl Seifert](mailto:cs2331@cam.ac.uk)
+  - [Mikolai Gütschow](mikolai.guetschow@tu-dresden.de)
+- **Project Info**
+  Integrating advanced CoAP features into [RIOT](https://github.com/RIOT-OS/RIOT), PRs ([Block-wise transfer](https://datatracker.ietf.org/doc/html/rfc7959), [Observation](https://datatracker.ietf.org/doc/html/rfc7641)), Multicast, [OSCORE](https://datatracker.ietf.org/doc/html/rfc8613)
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
