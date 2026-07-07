@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-07T17:55:13.533Z
+date: 2026-07-07T19:46:03.124Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -692,16 +692,18 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
     Internet Draft: https://datatracker.ietf.org/doc/draft-bless-rtgwg-kira/
 
  - **Side Meeting**
- 		TBD
+ 		[Thursday, July 23, 2026, 19:00-20:00 ( Europe/Vienna ) · Park Suite 4](https://sidemeetings.ietf.org/)
 
  - **Hackathon Plan (Potential Working Items)**
-		TBD
+    - Using KIRA as ACP Routing protocol for ANIMA
+    - Using KIRA together with FRR: KIRA can be used to configure and set up FRR entities
+    - Using KIRA with a mesh of Raspberry Pis
 
  - **Technologies**
-   - Rust
+   - Rust (Kirad)
    - IPv6
    - Linux
-   - NEST / ContainerNet
+   - NEST / ContainerNet for testing
    - Python for the Web Demo Interface
 
   - **Remote Participation**
