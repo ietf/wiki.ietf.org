@@ -2,7 +2,7 @@
 title: Groups
 description: A guide to find wikis for working groups, teams, directorates, and other groups.
 published: true
-date: 2026-04-29T16:08:43.625Z
+date: 2026-07-07T07:23:54.131Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-16T01:22:07.753Z
@@ -37,7 +37,7 @@ The ART Area works on the application layer and related protocols:
 + Application building blocks. These are designed to be used with a variety of more specific applications. They include compression, codecs, internationalization; JSON, XML, and CBOR; media types; URNs; and URI schemes.
 
 ## [General Area](https://datatracker.ietf.org/wg/#GEN) (GEN)
-The General Area consists of a few IETF WGs and other activities focused on supporting, updating and maintaining the IETF standards development process. As General AD, the IETF Chair manages the General Area Review Team (Gen-ART) and other IETF-wide directorates.
+The General Area consists of a few IETF WGs and other activities focused on supporting, updating and maintaining the IETF standards development process. As General AD, the IETF Chair manages the General Area Review Team (Gen-ART) and other IETF-wide directorates (such as [EO-DIR](/group/eodir) and [GENART](https://datatracker.ietf.org/group/genart/about/)).
 
 ## [Internet Area](https://datatracker.ietf.org/wg/#INT) (INT)
 The primary technical topics covered by the Internet Area include IP layer (both IPv4 and IPv6), implications of IPv4 address depletion, co-existence between the IP versions, DNS, DHCP, host and router configuration, mobility, multihoming, identifier-locator separation, VPNs and pseudowires along with related MPLS issues, and various link layer technologies. The Internet Area is also responsible for specifying how IP will run over new link layer protocols.
