@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2026-07-07T21:19:23.936Z
+date: 2026-07-07T21:20:12.938Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -14,7 +14,7 @@ dateCreated: 2022-07-23T20:49:27.343Z
 
 The DISPATCH WG is [chartered](https://datatracker.ietf.org/wg/dispatch/about/) to facilitate the introduction of new work in the ART, SEC, and non-transport (see below) aspects of the WIT areas of IETF. DISPATCH provides a mailing list and has sessions at IETF meetings to recommend appropriate next steps for proposed work in those areas. Our mailing list and meetings are attended by experienced IETFers, including many workgroup chairs and area directors, with the experience to make these recommendations.
 
-If you have questions about the Dispatch process, feel free to get in touch with the chairs, Shuping, Jim and Rifaat, at dispatch-chairs@ietf.
+If you have questions about the Dispatch process, feel free to get in touch with the chairs, Shuping, Jim and Rifaat, at dispatch-chairs@ietf.org.
 
 To clarify what "non-transport aspects of WIT" means, the following non-transport working groups in WIT are currently (July 2026) chartered:
 
