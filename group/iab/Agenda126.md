@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-06T21:53:55.687Z
+date: 2026-07-07T15:53:41.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -17,9 +17,9 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 126](/gr
 
 ## Potential Topics
 
-- ISE Discussion with Akanksha (LLC) and Eliot (ISE) (Sunday?)
+- ISE Discussion with Akanksha (LLC) and Eliot (ISE) (Sunday)
 - ISOC topics with Sally (1-hr on Thursday)
-- SUSTAIN RG Review (Tuesday?)
+- SUSTAIN RG Review (Tuesday)
 - PQC Workshop Discussion (Joint session)
 - IAB statement on Age-Based Restrictions (Mark - 30 mins)
 - Borrow topics from [Strategy Meeting](/group/iab/2026_Retreat)?
