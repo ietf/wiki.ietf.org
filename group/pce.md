@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-05-27T13:49:08.451Z
+date: 2026-07-07T10:15:11.693Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -88,8 +88,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| [draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) |Y|Y| -04 posted on 2025-10-14 | WGLC issued. IPR 2/5 |Julien | Julien |
-|2| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-14 posted on 2026-02-23 | Dhruv posted a review 2026-05-01; backup TLV to be moved from multipath; Ready for WGLC after that | Dhruv | Andrew |
+|1| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-19 posted on 2026-07-06 | In WG LC (Ends 2026-07-06; IPR - 0/5) | Dhruv | Andrew |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|N| -08 posted on 2026-01-02 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -03 posted on 2025-11-05 | Added support for SR | - | - |
 |-| draft-ietf-pce-entropy-label-position |Y|Y| -04 posted on 2025-09-25 |-| - | - |
@@ -102,8 +101,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Waiting for WG Chair Go-Ahead| Waiting for Shepherd Review since 2026-03-02| Yisong |
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Refreshed 2026-03-02 | Shepherd Review Done on 2025-10-30, Feedback received 2026-03-02, change of shepherd - Comments sent to list, Shepherd writeup post pending list reply | Andrew |
+|[draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) | WG Consensus: Waiting for Write-Up| Pending Shepherd Review since 2026-06-01| Julien|
 
 
 
@@ -111,8 +109,10 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | AD Evaluation::Revised I-D Needed | 1 issue of backup TLV is blocking; pending on WG chairs/authors | Adrian | Ketan|
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | AD Evaluation::Revised I-D Needed| Pending on authors | Julien | Ketan|
+|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | IESG Evaluation::AD Followup | Need to recheck WG consesnes once authors make an update | Adrian | Ketan|
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | AD Evaluation::Revised I-D Needed| Pending on authors since 2026-04-28 | Julien | Ketan|
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Publication Requested| Sent to AD on 2026-06-13 | Andrew | Ketan |
+|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Publication Requested| Sent to AD on 2026-06-23 | Yisong | Ketan |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
