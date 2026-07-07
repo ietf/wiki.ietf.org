@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2025-08-04T18:21:53.189Z
+date: 2026-07-07T01:00:00.000Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -12,48 +12,59 @@ dateCreated: 2022-07-23T20:49:27.343Z
 {.is-success}
 # Welcome to the IETF DISPATCH Working Group Wiki
 
-The DISPATCH WG is chartered to bring on new work in the ART area and provide a conduit for new drafts, ideas and potential WGs. We're like a matchmaker between keen engineers and IETF processes/groups/procedures. DISPATCH is a catalyst to make recommendations to ADs or Chairs, based on the wisdom of the group – we don't make the decisions ourselves.
+The DISPATCH WG is [chartered](https://datatracker.ietf.org/wg/dispatch/about/) to facilitate the introduction of new work in the ART, SEC, and non-transport (see below) aspects of the WIT areas of IETF. DISPATCH provides a mailing list and has sessions at IETF meetings to recommend appropriate next steps for proposed work in those areas. Our mailing list and meetings are attended by experienced IETFers, including many workgroup chairs and area directors, with the experience to make these recommendations.
 
-Please get in touch with the chairs if you have questions: Shuping and Jim, dispatch-chairs@ietf.org
-It's tough navigating the IETF and we're here to help.
+If you have questions about the Dispatch process, feel free to get in touch with the chairs, Shuping, Jim and Rifaat, at dispatch-chairs@ietf.
 
-# I want to be dispatched, what do I do? 
+To clarify what "non-transport aspects of WIT" means, the following non-transport working groups in WIT are currently (July 2026) chartered:
 
-Bring up your intentions on the DISPATCH list (i.e., please send an email with your idea or draft to dispatch@ietf.org) and if you want agenda time, email the chairs (see "How to get on the agenda" below): dispatch-chairs@ietf.org
+* To be supplied
+
+Dispatch is inspired by the guidance and methodology of [RFC 7957](https://www.rfc-editor.org/info/rfc7957/) and subsequent experience.
+
+# Dispatch Process 
+
+If you are not already a subscriber to the dispatch@ietf.org mailing list, begin by subscribing so that you receive any responses regarding your idea. You can subscribe to the list by visiting [this page](https://www.ietf.org/mailman/listinfo/dispatch) and following the instructions there.
+
+Then send an email with your idea to dispatch@ietf.org. In almost all cases, the best way to express an idea to be dispatched is to first write one or more internet-drafts describing it in some detail, and refer to that draft in your message. In some cases, participants may recommend courses of action for the idea, particularly if there is already a relevant IETF working group. There is no requirement that new ideas pass through the Dispatch working group; Dispatch is a forum for recommendations.
 
 It's easier to dispatch work when it's been discussed on the mailing list; it gives the group a good idea of what the work will involve. Even if there's not much interest or chatter, it lets participants see what is coming up at the meeting and can help discussion in the meeting. 
 
-It's also usually helpful to bring a "charter" for your work – a simple page that sets out the problem statement, the scope, goals and non-goals, and deliverables. Even if you don't need or want a WG, it helps set out the scope of what you want to do.
+In your initial message to the mailing list, it's also usually helpful to describe the interoperability requirements of your proposal, as well as whether you have engaged with other parties outside your own organization who plan to implement and deploy it. Protocol interoperability is at the heart of what IETF does, and evidence of outside interest helps establish that a proposal will not become an orphan that is not a good use of IETF resources.
 
-DISPATCH is not the only path to getting work started in the ART area, but it can helpful to expedite many cases. New work items are dispatched in various ways depending upon the scope and applicability of the work. Possible recommendations as a result of a DISPATCH meeting are:
+# Dispatch Meetings
 
-* New work item in currently chartered WG
-* New WG
-* Full BoF 
-* Individual/AD sponsored - for items limited in scope and applicability
-* Feedback to refine the idea for the next meeting cycle
-* New work item in DISPATCH WG
-* Declination to adopt the work at that time
+To request a timeslot at a dispatch meeting, email the [dispatch chairs](mailto:dispatch-chairs@ietf.org) and the [dispatch mailing list](dispatch@ietf.org). Meeting slots are allocated based on relevance, with evidence of outside interest and interoperability requirements receiving the highest priority. Proposals of similar relevance will be handled on a first-come first-served basis, so it is helpful to submit requests several weeks in advance of the meeting.
 
-# How to get on the agenda 
-Email the dispatch chairs and the dispatch list. Meeting slots are allocated on a first-come, first-served basis, and it is suggested that you email at least 4 weeks before the meeting to ask for a slot. But get in touch anyway if you missed this soft deadline and we'll see what we can do.
+In order to present at a Dispatch meeting, the following are required:
+* Existence of one or more internet-drafts in Datatracker describing the proposal
+* Creation of a short slide deck to be presented in the meeting
+* Registration of the presenter (either onsite or remote) at the IETF meeting where the presentation will be given
 
-The chairs will aim to announce topics that have been dispatched for a particular IETF meeting 4 weeks before the meeting starts and update as necessary. Please cut us slack whilst there's a global pandemic and plenty of cyber attacks going on.
+Presentations at dispatch meetings are short, generally 15 minutes each, about half of which should be reserved for discussion. The focus of the meeting is to answer the "dispatch question" (recommendation) and not to discuss the details of the proposal more than required to describe its function and the need it fulfills. It's worth briefly describing the overall shape of your proposed solution, but Dispatch isn't the right place to go into detail on packet formats and the like. The chairs will provide a template for presentation slides.
 
-A complete list of deadlines for IETF meetings is available here: https://datatracker.ietf.org/meeting/important-dates/
+If you have not presented to Dispatch before, you might want to review materials from previous Dispatch meetings. These are available from [Datatracker](https://datatracker.ietf.org/group/dispatch/meetings/).
 
-# Training hints for Presenters
-The goal of the dispatch session is to see whether the IETF community is interested in your work. That interest will depend on the problem space you are describing, not on the solution you are proposing. Therefore, please focus on describing the problem you propose to solve and its use cases and motivation. It's worth briefly describing the overall shape of your proposed solution, but dispatch isn't the right place to go into detail on packet formats. Please also reserve enough time (at least 5 minutes) for discussion.
+Possible recommendations as a result of a DISPATCH meeting are:
+* New work item in currently chartered working group
+* Creation of a new working group
+* Holding a birds-of-a-feather (BoF) session 
+* Publication as Area Director sponsored - for items limited in scope and applicability
+* Feedback to refine the idea for a subsequent meeting cycle
+* Creation of a mailing list for further discussion
+* Opinion that the work is not appropriate for IETF at the present time
+
+Note that these are recommendations. Existing working groups are not required to accept new recommended work items, and Area Directors are not required to sponsor recommended work.
+
+# Training Hints for Presenters
 
 For more information, please have a look at this webpage. 
 https://wiki.ietf.org/en/group/dispatch/presenter-training 
 
-# Background: Process for Determining Deadlines for DISPATCH WG
+# Deadlines
 
-In order to optimize f2f meeting time and to expedite work items, the DISPATCH WG sets deadlines for topics prior to each IETF meeting to ensure sufficient ML discussion. The exact deadlines for the upcoming meeting are summarized at the bottom of this wiki as soon as they are announced on the WG Mailing list. The approximate deadlines are as follows:
+Expressions of interest to present at a Dispatch meeting are appreciated 4-8 weeks in advance of the meeting. Later requests will be accommodated as time permits.
 
-* 1st Deadline: Cutoff date to notify the chairs/DISPATCH WG of plans to submit a proposal. Approximately 8 weeks prior to IETF meeting and 1-2 weeks before the BoF proposal request deadline. This deadline is roughly 4-8 weeks after the prior IETF meeting ends. This allows time for updating and discussing work items from previous meeting so that they can be potentially be dispatched prior to next meeting, as well as discussion of new topics such that a well scoped charter and deliverables can be provided by this deadline.
-* 2nd Deadline: Cutoff for charter proposals for topics
-* 3rd Deadline: Topics that are to be the focus of the DISPATCH session at upcoming IETF meetings are announced approximately 3 weeks prior to -00 deadline and 4 weeks prior to draft deadline (around the time of the AD BoF approval date). This deadline allows focused discussion of these items and allows time for refinement of proposals to optimize any f2f meeting time.
+Since internet-drafts describing Dispatch proposals are required, the internet-draft submission deadline (2 weeks prior to the start of the IETF meeting) is a hard deadline. Specific deadlines are specified at the [Important Dates](https://datatracker.ietf.org/meeting/important-dates/) webpage.
 
-Please note that the exact disposition for a topic may (per the usual process) require follow-up and confirmation by the ADs and/or IESG or with another WG to ensure agreement with the DISPATCH WG consensus for a topic.
+Slide decks describing proposals should be sent to the chairs or posted via Datatracker by the Thursday prior to the meeting to permit review by the chairs and possible revision.
