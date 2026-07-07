@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-07-07T17:55:12.031Z
+date: 2026-07-07T18:01:14.988Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -32,6 +32,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 |draft-all-pce-srv6-policy-sid-list-optimization|related draft in spring is under adoption call - draft-ali-spring-srv6-policy-sid-list-optimization|
 |draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106; Pending comments from [Adrian](https://mailarchive.ietf.org/arch/msg/pce/0gOBAglL5bQMUlcpLBJmQj82lwk/) | 
 | draft-chen-pce-sr-ingress-protection | Expired; lead author not active in IETF anymore |
+| draft-many-pce-stateful-amendment | Formal email to be sent to list by authors |
 
 
 ## WG Adoption Call Queue
@@ -65,7 +66,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 |draft-ietf-pce-bier-te | -03 posted on 2026-01-06 | Needs more review |
 | [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -04 posted on 2025-11-25 | - |
 |draft-ietf-pce-pcep-bfd-parameters|-02 posted on 2026-02-24 | - |
-| draft-ietf-pce-operational| -02 posted on 2025-12-22 | - | 
+| draft-ietf-pce-operational| -03 refresh. | May 'live' with WG for long while | 
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 
@@ -109,9 +110,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | IESG Evaluation::AD Followup | Need to recheck WG consesnes once authors make an update | Adrian | Ketan|
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | AD Evaluation::Revised I-D Needed| Pending on authors since 2026-04-28 | Julien | Ketan|
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Publication Requested| Sent to AD on 2026-06-13 | Andrew | Ketan |
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | Bounced back to the WG by AD | AD replied June 25, 2026. Way forward TBD (Experimental suggested by Dhruv) | Andrew | Ketan |
 |[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Publication Requested| Sent to AD on 2026-06-23 | Yisong | Ketan |
 
 
@@ -127,6 +127,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | AUTH48-DONE| - | Dhruv | 
 |draft-ietf-pce-sr-bidir-path|MISSREF|waiting for draft-ietf-pce-multipath|Dhruv| 
 |draft-ietf-pce-circuit-style-pcep-extensions|EDIT|-|Dhruv|
+|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | Editor queue | Post IESG | Adrian
 
 ## Recent RFCs
 
