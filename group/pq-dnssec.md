@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-03-18T19:14:03.539Z
+date: 2026-07-07T07:38:50.262Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -15,6 +15,55 @@ This wiki page is designated to collecting information relevant to the non-wg ma
 
 Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
+
+# IETF 126 Side Meeting
+Thursday, July 23, 2026, 9:30-11:00 (local Vienna time) ([information about room and online participation](https://sidemeetings.ietf.org/)) ([IETF Webex](https://ietf.webex.com/meet/sidemeetings2))
+
+Meeting notes / recording not yet are available.
+
+## Agenda
+- 5' Note Well / Agenda Bashing
+- 10'+q Paul Hoffman: TCP testbed
+- 10'+q Peter Thomassen: The State of the Nation
+- 10'+q Minh Hoang Tran: One-query resolution semantics of PQ-DNSSEC under MTL-mode
+- 10'+q Mike Almeloo: Evaluating parameters for MTL Mode in real-world circumstances
+- 10'+q Folmer Heikamp: Analyzing Hybrid-Signatures in DNSSEC with UDP-Fragmentation
+- 10'+q Johan Stenstam: 3 ideas on potential alternatives for how to "do DNSSEC"
+- 10'+q Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry
+- (If time permits) 5'+q Andrew Kaizer: PQC DNSSEC MTL Updates
+- AOB
+
+### Paul Hoffman: TCP testbed
+
+*No abstract yet.*
+
+### Peter Thomassen: The State of the Nation
+
+*No abstract yet.*
+
+### Minh Hoang Tran: One-query resolution semantics of PQ-DNSSEC under MTL-mode
+
+Verisign's stateful MTL-mode of operation for post-quantum signatures, as previously presented at pqdnssec side meetings, has raised concerns about it breaking the 1-query resolution semantics of DNSSEC. Currently, the proposed scheme uses the "mtl-mode-full" EDNS(0) option, or lack thereof, within a DNS query in order to determine whether a full or condensed signature should be returned by the upstream nameserver. Such an EDNS(0) option, however, necessitates up to two logical DNS queries toward the same (QNAME, QTYPE) tuple to resolve an RRSET, depending the recursive resolver's internal cache state. Such a change adds additional complexity to the recursive state machine and is thus undesirable. We propose a different EDNS(0) option, "mtl_have_ladder", to resolve this issue. By conveying information about the resolver's state within the DNS query itself, it is possible resolve RRsets under MTL-mode under one logical query, thus mitigating much of the resolver-side complexity with regards to the MTL-mode's statefulness.
+
+### Mike Almeloo: Evaluating parameters for MTL Mode in real-world circumstances
+
+MTL mode aims to reduce the amortized size of post-quantum signatures in DNSSEC. It does this by allowing one relatively expensive signature to cover multiple RRSets, and only fetching a new signature when necessary for validation. While promising, every DNS zone and resolver are different, and the efficacy of MTL mode under various circumstances remains poorly understood, in particular for resolvers.  In this presentation, we introduce models to assess the impact of deploying MTL mode in a particular zone, as well as a simulator to evaluate different deployment strategies under various circumstances.  We then analyze the expected effects of MTL mode on a resolver when querying different zones, by utilizing real-world zone and resolver data.
+
+### Folmer Heikamp: Analyzing Hybrid-Signatures in DNSSEC with UDP-Fragmentation
+
+This presentation will focus on our analysis of hybrid signatures in DNSSEC. We will provide an overview of our custom-built testbed, which integrates hybrid signatures and UDP fragmentation in BIND9 to manage large response messages. We will share the data collected from our testbeds deployed in various environments and present an empirical analysis demonstrating the effectiveness of UDP fragmentation with hybrid signatures in terms of performance as compared with standard DNS with TCP fallback.
+
+### Johan Stenstam: 3 ideas on potential alternatives for how to "do DNSSEC"
+
+We’ve done several different experiments with the objective of finding a solution to the “PQ-DNSSEC problem” that works within the current boundary conditions (primarily the UDP 1232 bytes message size limit). The most promising results come from splitting the algorithms used for the KSK (use a really strong alg) and for the ZSK (use an alg with as small sigs as possible) in combination with using the alg number in the parent DS RRset as a signal not to even try to look up the DNSKEY RRset over UDP. Seems to work just great, but will require a change to existing DNSSEC standard (relaxing the so-called “algorithm completeness requirement”).
+
+### Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry
+
+*No abstract yet.*
+
+### Andrew Kaizer: PQC DNSSEC MTL Updates
+
+*No abstract yet.*
 
 # IETF 125 Side Meeting
 Tuesday, March 17, 2026, 8:00-9:00 (local Shenzhen time) ([information about room and online participation](https://sidemeetings.ietf.org/)) ([IETF Webex](https://ietf.webex.com/meet/sidemeetings2))
