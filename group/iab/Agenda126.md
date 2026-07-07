@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-07T19:37:09.106Z
+date: 2026-07-07T19:37:48.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -15,19 +15,7 @@ dateCreated: 2026-05-19T18:24:47.550Z
 To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 126](/group/iab/Breakout126)
  
 
-## Potential Topics
 
-
-
-
-
-
-- Borrow topics from [Strategy Meeting](/group/iab/2026_Retreat)?
-
-
-
-
-Also see [topics for joint session with IESG](https://wiki.ietf.org/group/iesg/UpcomingIETF).
 ## Saturday, 2026-07-18
 
 ### 17:00-18:30: AMS-IETF Leadership Venue Tour & Happy Hour
@@ -144,3 +132,10 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 
 
 
+## Potential Topics
+
+
+- Borrow topics from [Strategy Meeting](/group/iab/2026_Retreat)?
+
+
+Also see [topics for joint session with IESG](https://wiki.ietf.org/group/iesg/UpcomingIETF).
