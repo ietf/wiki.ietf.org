@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-05T17:56:21.199Z
+date: 2026-07-07T13:08:54.060Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -79,6 +79,7 @@ For approval
   Goal: Establish a standing IAB Liaison to TDD, appointed by the IAB, 
   with a defined and active mandate. 
 
+[Proposal](https://docs.google.com/document/d/1CAJ4eORjCZN6wdqwe7hlGbSxvK05CVmiBrWDlkwT4Lg/edit?usp=sharing)
 
 ### 8. Review of Open Issues for Responsibilities (Dhruv)
 
