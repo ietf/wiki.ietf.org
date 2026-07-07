@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-06T23:45:00.000Z
+date: 2026-07-07T08:30:27.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1302,6 +1302,18 @@ This project aims to evaluate the throughput of encrypted communication in a 100
 - **Related draft**
 Encryption algorithm Rocca-S
 https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
+
+
+### Implementing PSK Support and embedded-cal Integration in Lakers
+- **Champions**
+William Takeshi Pereira (william.a.pereira@inria.fr)
+- **Project Info**
+[Lakers](https://github.com/lake-rs/lakers) is a Rust implementation of EDHOC (Ephemeral Diffie-Hellman Over COSE). This project aims to extend Lakers with support for the PSK (Pre-Shared Key) authentication method, enabling EDHOC to be used in scenarios where devices share a pre-established secret rather than relying on public-key credentials, which is particularly useful for constrained devices with limited resources for asymmetric cryptography.
+In addition, this project will integrate [embedded-cal](https://github.com/lake-rs/embedded-cal/) into Lakers, providing a common cryptographic accelerator abstraction layer (CAL) interface for embedded targets. This will allow Lakers to more easily leverage hardware-accelerated cryptographic operations across different embedded platforms, improving performance and portability in constrained device deployments.
+
+- **Related documents**
+Lakers: https://github.com/lake-rs/lakers
+embedded-cal: https://github.com/lake-rs/embedded-cal/
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
