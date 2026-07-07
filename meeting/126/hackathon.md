@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-07T08:30:27.876Z
+date: 2026-07-07T08:35:35.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1312,6 +1312,7 @@ William Takeshi Pereira (william.a.pereira@inria.fr)
 In addition, this project will integrate [embedded-cal](https://github.com/lake-rs/embedded-cal/) into Lakers, providing a common cryptographic accelerator abstraction layer (CAL) interface for embedded targets. This will allow Lakers to more easily leverage hardware-accelerated cryptographic operations across different embedded platforms, improving performance and portability in constrained device deployments.
 
 - **Related documents**
+EDHOC: [RFC9528](https://datatracker.ietf.org/doc/html/rfc9528)
 Lakers: https://github.com/lake-rs/lakers
 embedded-cal: https://github.com/lake-rs/embedded-cal/
 
