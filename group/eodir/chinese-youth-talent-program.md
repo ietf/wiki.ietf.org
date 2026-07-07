@@ -2,7 +2,7 @@
 title: Chinese Youth Talent Program
 description: 
 published: true
-date: 2026-07-07T04:30:41.824Z
+date: 2026-07-07T06:46:23.718Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-13T07:33:09.519Z
@@ -14,6 +14,7 @@ dateCreated: 2026-04-13T07:33:09.519Z
 
 At IETF 125 in Shenzhen, approximately 60 students participated through the Chinese Youth Talent Program (CYTP)[Note 1] , representing more than 30 universities across China. This was not only an academic milestone for these young students but also a testament to the Chinese community’s growing engagement in the international arena of internet standards. This initiative marked a notable surge in regional student involvement, providing many first-time participants with direct exposure to the IETF process.
 
+![group_photo_125.jpg](/group_photo_125.jpg)
 
 ### Bridging the Academia with International Standards
 A primary objective of CYTP is to promote the integration of cutting-edge academic innovation with international standards. Since the essence of the Internet lies in open collaboration and consensus-building, it is vital for young researchers to experience these dynamics firsthand. However, the transition from theoretical research to active standard-setting often involves significant barriers to entry. The CYTP aims to bridge this gap by providing Chinese university students with the necessary funding and mentorship to navigate and contribute to the IETF community.
