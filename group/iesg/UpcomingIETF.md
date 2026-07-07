@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-07T11:09:40.882Z
+date: 2026-07-07T13:28:41.414Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,6 +63,9 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1001
 > 
+> 1. (if needed) BCP reclassification from PROCON
+> 2. (if needed) Processing any appeal(s)
+>
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
 > Note2: Topics are prioritized if linked to IETF 126 events or if they are time sensitive
 
