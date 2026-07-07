@@ -2,13 +2,13 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-05-19T18:05:42.282Z
+date: 2026-07-07T21:05:25.690Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
 ---
 
-**IAB Breakout Room: TBD**
+**IAB Breakout Room: Park Suite 9**
 
 The IAB breakout room is available for use by IAB members -  schedule a time-slot by editing the wiki below.  
 
@@ -21,20 +21,20 @@ For food & beverage service requests, please include:
 
 ## Monday
 
-
+- 12:30-14:00: ICANN Appointees Lunch
 
 
 ## Tuesday 
 
 - 07:30-09:00: IAB Business Meeting
 
-
+- 12:30-14:00: SECDir Lunch
 
 
 
 ## Wednesday 
 
-
+- 11:00-11:30: Liaison Coordinator office hours
 ## Thursday 
 
 - 07:30-09:00: IAB Business Meeting
