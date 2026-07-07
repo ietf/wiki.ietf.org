@@ -2,7 +2,7 @@
 title: Chairs' notepad
 description: Notepad for chairs
 published: true
-date: 2023-02-02T16:16:41.825Z
+date: 2026-07-07T15:47:53.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T16:03:21.430Z
@@ -22,7 +22,7 @@ Even if you are not a contributor or author, if you know of relevant IPR, please
 If you know of someone else IPR that you believe is relevant and not disclosed, please file a third party IPR disclosure.					
 Thanks,					
 Regards,					
-Bruno, Jim, Joel					
+Alvaro, Bruno, Joel					
 [1]	https://datatracker.ietf.org/doc/draft-hu-spring-segment-routing-proxy-forwarding/				
 
 
@@ -36,7 +36,7 @@ After review of the document please indicate support (or not) for WG adoption of
 Please also provide comments/reasons for your support (or lack thereof) as this is a stronger way to indicate your (non) support as this is not a vote.											
 If you are willing to work on or review the document, please state this explicitly. This gives the chairs an indication of the energy level of people in the working group willing to work on the document.											
 Thanks!											
-Bruno, Jim, Joel											
+Alvaro, Bruno, Joel					
 											
 
 
