@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-07T12:13:56.422Z
+date: 2026-07-07T17:55:13.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -532,13 +532,13 @@ The following are the primary links related to this Hackathon Project:
 ### Add Operational State Visibility to IETF-L3VPN-SVC with Telemetry
 - **Champions**
 Ian Farrer <ian.farrer@telekom.de>
-Kris Lambrechts <kris@netedge.plus>
+Kris Lambrechts <kris@intwine.net>
 
 - **Project Info**
 The newly formed ONSEN WG is chartered with the creation, extension and maintenance of abstracted service and network YANG modules, such as the L3VPN service model. Currently, this model only includes nodes for configuration of service functionality ('config-true'). The ONSEN WG is chartered to extend the abstracted models to include state data to provide real-time visibility of how a provisioned customer service is currently performing based on collected telemetry, or operational state polling.
 
 The goal of the Hackathon is to extend the existing service configuration functionality of the StratoWeave open-source network orchestration platform to:
-- Add telemetry collection via a YANG Push 2 collector
+- Add telemetry collection via a YANG Push collector
 - Implement the necessary intermediate automation logic to aggregate/evaluate collected telemetry
 - Create and implement the relevant augmentations to the ietf-l3vpn-svc YANG model to make L3VPN service health visible via RESTCONF at the northbound interface
 
