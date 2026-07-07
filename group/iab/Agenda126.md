@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-07T15:53:41.995Z
+date: 2026-07-07T19:37:09.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -17,16 +17,15 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 126](/gr
 
 ## Potential Topics
 
-- ISE Discussion with Akanksha (LLC) and Eliot (ISE) (Sunday)
-- ISOC topics with Sally (1-hr on Thursday)
-- SUSTAIN RG Review (Tuesday)
-- PQC Workshop Discussion (Joint session)
-- IAB statement on Age-Based Restrictions (Mark - 30 mins)
+
+
+
+
+
 - Borrow topics from [Strategy Meeting](/group/iab/2026_Retreat)?
-- Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) - (Matthew)
-- IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals), deadline 31st July 2026
-- Exec Session: CCG Appointment (vote)
-- Exec Session: RZERC Appointment (vote)
+
+
+
 
 Also see [topics for joint session with IESG](https://wiki.ietf.org/group/iesg/UpcomingIETF).
 ## Saturday, 2026-07-18
@@ -38,14 +37,26 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 ### 11:45-13:45: Joint IAB/IESG Lunch & Meeting (Room: Grand Klimt Hall 3)
 
-> Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1001
+{.is-info}
+
+> Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
+> 
 
 
 ### 14:00-16:00: IAB Business Meeting (Room: Grand Klimt Hall 3)
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1001
+{.is-info}
+
+
 > Agenda:
 > 
+> 1. ISE Survey Discussion (with Akanksha and Eliot) - 45 mins
+> 2. IAB statement on Age-Based Restrictions (Mark) - 30 mins
+> 3. PQC Workshop Discussion (Nick) - 25 mins
+>    - Followup from Joint Session
+> 4. Exec Session: CCG Appointment (vote) - 10 mins
+> 5. Exec Session: RZERC Appointment (vote) - 10 mins
 
 
 
@@ -80,10 +91,15 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 ### 07:30-08:50: IAB Business Meeting (Room: Park Suite 9)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1004
+{.is-info}
+
 > 
 > Agenda:
 >
-
+> 1. SUSTAIN RG Review (Dirk, Ali Rezaki, Eve Schooler, Michael Welzl) - 30 mins
+> 2. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 30 mins
+> 3. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) 
+>   - deadline 31st July 2026
 
 ### 18:15-19:15: Liaison Managers Social Hour (Room: M2 Executive Lounge Terrace)
 
@@ -99,10 +115,11 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 ### 07:30-08:50 IAB Business Meeting (Room: Park Suite 9)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1006
-> 
+{.is-info}
+
 > Agenda:
 >
->
+> 1. ISOC topics (with Sally) - 60 mins
 
 ### 16:00-16:30: New Work Help Desk
 
