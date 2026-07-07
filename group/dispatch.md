@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2026-07-07T01:00:00.000Z
+date: 2026-07-07T21:19:23.936Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -55,11 +55,6 @@ Possible recommendations as a result of a DISPATCH meeting are:
 * Opinion that the work is not appropriate for IETF at the present time
 
 Note that these are recommendations. Existing working groups are not required to accept new recommended work items, and Area Directors are not required to sponsor recommended work.
-
-# Training Hints for Presenters
-
-For more information, please have a look at this webpage. 
-https://wiki.ietf.org/en/group/dispatch/presenter-training 
 
 # Deadlines
 
