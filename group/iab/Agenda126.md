@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-07T19:37:48.728Z
+date: 2026-07-07T20:59:39.884Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -86,8 +86,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 >
 > 1. SUSTAIN RG Review (Dirk, Ali Rezaki, Eve Schooler, Michael Welzl) - 30 mins
 > 2. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 30 mins
-> 3. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) 
->   - deadline 31st July 2026
+> 3. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) - 20 mins
+>   - deadline 31st July 2026 - 
 
 ### 18:15-19:15: Liaison Managers Social Hour (Room: M2 Executive Lounge Terrace)
 
