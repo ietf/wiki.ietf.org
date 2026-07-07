@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-07T08:35:35.195Z
+date: 2026-07-07T11:52:35.591Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1315,6 +1315,24 @@ In addition, this project will integrate [embedded-cal](https://github.com/lake-
 EDHOC: [RFC9528](https://datatracker.ietf.org/doc/html/rfc9528)
 Lakers: https://github.com/lake-rs/lakers
 embedded-cal: https://github.com/lake-rs/embedded-cal/
+
+### Model for distributed authorization policy sharing
+- **Champions**
+Lucia Cabanillas, lucia.cabanillasrodriguez@telefonica.com
+Diego López, diego.r.lopez@telefonica.com
+Ana Méndez, ana.mendezperez@telefonica.com
+Pedro Martínez-Julia, pedromj@gmail.com
+ 
+- **Project Info**
+This project demonstrates a framework for sharing and managing authorization policies using a YANG-based model.
+Authorization policies are expressed using declarative Policy-as-Code languages (e.g., Rego) and encapsulated in a YANG artifact that includes metadata such as owner, author, origin, area, and language.
+The prototype implements a policy lifecycle workflow in which a Policy Administration Point (PAP) validates a policy artifact and routes it, based on its area, to the corresponding Policy Decision Point (PDP).
+The demonstration shows how a YANG-based policy artifact can be created, validated, distributed, and enforced across two independent domains, with support for updates, deletion, and rollback to previous versions.
+ 
+- **Related Drafts** 
+https://datatracker.ietf.org/doc/draft-cabanillas-nmop-authz-policy-sharing-model/03/
+- **Related Repositories**
+https://github.com/LuciaCabanillasRodriguez/authz-policy-sharing-model
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
