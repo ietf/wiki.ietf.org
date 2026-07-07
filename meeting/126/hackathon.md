@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-07T11:52:35.591Z
+date: 2026-07-07T12:13:56.422Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1333,6 +1333,17 @@ The demonstration shows how a YANG-based policy artifact can be created, validat
 https://datatracker.ietf.org/doc/draft-cabanillas-nmop-authz-policy-sharing-model/03/
 - **Related Repositories**
 https://github.com/LuciaCabanillasRodriguez/authz-policy-sharing-model
+
+### GROWing BGP Terms & Security Documents
+- **Champions**
+Tobias Fiebig (tobias@internet.wien)
+
+- **Project Info**
+The idea for this group is doing a 'polishing run' on two currently active drafts dealing with BGP security and global routing operations terminology currently in use. Both need ample polishing to 'get there', but still should be polishable in the time a hackathon allows.
+
+- **Related Drafts**
+https://datatracker.ietf.org/doc/draft-ietf-grow-routing-ops-sec-inform/  
+https://datatracker.ietf.org/doc/draft-ietf-grow-routing-ops-terms/
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
