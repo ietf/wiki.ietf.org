@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2026-07-07T21:20:12.938Z
+date: 2026-07-08T22:59:12.243Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -12,13 +12,22 @@ dateCreated: 2022-07-23T20:49:27.343Z
 {.is-success}
 # Welcome to the IETF DISPATCH Working Group Wiki
 
-The DISPATCH WG is [chartered](https://datatracker.ietf.org/wg/dispatch/about/) to facilitate the introduction of new work in the ART, SEC, and non-transport (see below) aspects of the WIT areas of IETF. DISPATCH provides a mailing list and has sessions at IETF meetings to recommend appropriate next steps for proposed work in those areas. Our mailing list and meetings are attended by experienced IETFers, including many workgroup chairs and area directors, with the experience to make these recommendations.
+The DISPATCH WG is [chartered](https://datatracker.ietf.org/wg/dispatch/about/) to facilitate the introduction of new work in the Applications and Real Time (ART), Security (SEC), and non-transport (see below) aspects of the Web and Internet Transport (WIT) areas of IETF. DISPATCH provides a mailing list and has sessions at IETF meetings to recommend appropriate next steps for proposed work in those areas. Our mailing list and meetings are attended by experienced IETFers, including many workgroup chairs and area directors, with the experience to make these recommendations.
 
-If you have questions about the Dispatch process, feel free to get in touch with the chairs, Shuping, Jim and Rifaat, at dispatch-chairs@ietf.org.
+If you have questions about the Dispatch process, feel free to get in touch with the chairs (Shuping, Jim, and Rifaat) at dispatch-chairs@ietf.org.
 
-To clarify what "non-transport aspects of WIT" means, the following non-transport working groups in WIT are currently (July 2026) chartered:
+To clarify what "non-transport aspects of WIT" means, the following non-transport working groups in WIT are chartered as of July 2026:
 
-* To be supplied
+* [aipref](https://datatracker.ietf.org/wg/aipref/) - AI Preferences
+* [core](https://datatracker.ietf.org/wg/core/) - Constrained RESTful Environments
+* [httpapi](https://datatracker.ietf.org/wg/httpapi/) - Building Blocks for HTTP APIs
+* [httpbis](https://datatracker.ietf.org/wg/httpbis/) - HTTP
+* [masque](https://datatracker.ietf.org/wg/masque/) - Multiplexed Application Substrate over QUIC Encryption
+* [moq](https://datatracker.ietf.org/wg/moq/) - Media Over QUIC
+* [webbotauth](https://datatracker.ietf.org/wg/webbotauth/) - Web Bot Auth
+* [webtrans](https://datatracker.ietf.org/wg/webtrans/) - WebTransport
+* [wish](https://datatracker.ietf.org/wg/wish/) - WebRTC Ingest Signaling over HTTPS
+
 
 Dispatch is inspired by the guidance and methodology of [RFC 7957](https://www.rfc-editor.org/info/rfc7957/) and subsequent experience.
 
@@ -41,7 +50,7 @@ In order to present at a Dispatch meeting, the following are required:
 * Creation of a short slide deck to be presented in the meeting
 * Registration of the presenter (either onsite or remote) at the IETF meeting where the presentation will be given
 
-Presentations at dispatch meetings are short, generally 15 minutes each, about half of which should be reserved for discussion. The focus of the meeting is to answer the "dispatch question" (recommendation) and not to discuss the details of the proposal more than required to describe its function and the need it fulfills. It's worth briefly describing the overall shape of your proposed solution, but Dispatch isn't the right place to go into detail on packet formats and the like. The chairs will provide a template for presentation slides.
+Presentations at Dispatch meetings are short, generally 15 minutes each. The presentation itself should be limited to five minutes, allowing ten minutes for discussion. The focus of the meeting is to answer the "dispatch question" (recommendation) and not to discuss the details of the proposal more than required to describe its function and the need it fulfills. It's worth briefly describing the overall shape of your proposed solution, but Dispatch isn't the right place to go into detail on packet formats and the like. The chairs will provide a template for presentation slides.
 
 If you have not presented to Dispatch before, you might want to review materials from previous Dispatch meetings. These are available from [Datatracker](https://datatracker.ietf.org/group/dispatch/meetings/).
 
