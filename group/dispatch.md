@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2026-07-08T22:59:12.243Z
+date: 2026-07-08T23:14:38.301Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -50,7 +50,7 @@ In order to present at a Dispatch meeting, the following are required:
 * Creation of a short slide deck to be presented in the meeting
 * Registration of the presenter (either onsite or remote) at the IETF meeting where the presentation will be given
 
-Presentations at Dispatch meetings are short, generally 15 minutes each. The presentation itself should be limited to five minutes, allowing ten minutes for discussion. The focus of the meeting is to answer the "dispatch question" (recommendation) and not to discuss the details of the proposal more than required to describe its function and the need it fulfills. It's worth briefly describing the overall shape of your proposed solution, but Dispatch isn't the right place to go into detail on packet formats and the like. The chairs will provide a template for presentation slides.
+Timeslots at Dispatch meetings are short, generally 15 minutes each. The presentation itself should be limited to five minutes, allowing ten minutes for discussion. The focus of the meeting is to answer the "dispatch question" (recommendation) and not to discuss the details of the proposal more than required to describe its function and the need it fulfills. It's worth briefly describing the overall shape of your proposed solution, but Dispatch isn't the right place to go into detail on packet formats and the like. The chairs will provide a template for presentation slides.
 
 If you have not presented to Dispatch before, you might want to review materials from previous Dispatch meetings. These are available from [Datatracker](https://datatracker.ietf.org/group/dispatch/meetings/).
 
