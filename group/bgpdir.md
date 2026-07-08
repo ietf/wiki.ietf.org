@@ -2,7 +2,7 @@
 title: BGP Directorate
 description: 
 published: true
-date: 2026-04-09T11:19:48.329Z
+date: 2026-07-08T00:46:53.622Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T16:26:26.164Z
@@ -66,3 +66,20 @@ The objective is to be able to update documents early in their development based
 Review requests will be generally raised by WG chairs of the WG that the document belongs to. In exceptional cases, the BGP Directorate chairs/secretaries or ADs may also request.
 
 ![bgp_directorate-2.jpg](/bgp_directorate-2.jpg)
+
+## Review intention collection
+
+| Member | BGP Protocol <br> Improvement | BGP-LS | BGP-FS | EVPN | MVPN | BGP-SEC <br> (sidr, etc.) | Other tech Extension <br> (Spring,  BIER, etc.) | notes |
+|----------------------------|--------|--------|--------|--------|--------|--------|--------|--------|
+| Alvaro Retana              |&#10004;|&#10004;|        |        |        |&#10004;|&#10004;|Low priority: FS, EVPN, MVPN|
+| Ben Cartwright-Cox         |&#10004;|        |        |        |        |&#10004;|        ||
+| Bruno Decraene             |&#10004;|        |        |        |        |        |&#10004;||
+| Donald Sharp               |&#10004;|        |        |        |        |        |        ||
+| Donatas Abraitis           |&#10004;|        |        |        |        |        |&#10004;||
+| Jie Dong                   |&#10004;|&#10004;|        |        |        |        |&#10004;||
+| John Scudder               |&#10004;|        |        |        |        |&#10004;|        ||
+| Krishnaswamy Ananthamurthy |&#10004;|&#10004;|        |&#10004;|&#10004;|        |        ||
+| Nick Aerts                 |&#10004;|        |        |        |        |        |        ||
+| Robert Raszuk              |&#10004;|        |&#10004;|&#10004;|&#10004;|        |&#10004;||
+| Serge Krier                |&#10004;|        |        |        |        |&#10004;|        |Low priority: EVPN, BGP-FS|
+| Srihari R. Sangli          |&#10004;|        |        |        |        |        |&#10004;||
