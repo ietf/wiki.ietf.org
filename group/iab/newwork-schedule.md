@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-07-08T05:56:08.090Z
+date: 2026-07-08T12:27:18.045Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -14,7 +14,7 @@ Please put your name in this list to sign up for a slots. The goal is to have 2-
 
 # IETF 126 Vienna
 
-Volunteers: Dhruv, Matthew, Warren
+Volunteers: Dhruv, Matthew, Warren, Suresh
 TODO: Ask HotRFC and dispatch chairs to mention it
 
 ## Monday 20th July
@@ -25,7 +25,7 @@ IAB Members: Dhruv, Matthew, Warren
 ## Thursday 23rd July
 
 Beverage and Snack Break, **16:00-16:30**
-IAB Members: Dhruv, Matthew, Warren
+IAB Members: Dhruv, Matthew, Warren, Suresh
 
 
 # IETF 125 Shenzhen
