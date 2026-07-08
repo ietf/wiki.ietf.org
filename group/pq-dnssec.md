@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-07T07:38:50.262Z
+date: 2026-07-08T07:39:13.903Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -63,7 +63,7 @@ We’ve done several different experiments with the objective of finding a solut
 
 ### Andrew Kaizer: PQC DNSSEC MTL Updates
 
-*No abstract yet.*
+This presentation provides the latest MTL updates, including discussion on a new draft that combines previously separate drafts and uses ML-DSA as a resilient fallback option for PQC DNSSEC.
 
 # IETF 125 Side Meeting
 Tuesday, March 17, 2026, 8:00-9:00 (local Shenzhen time) ([information about room and online participation](https://sidemeetings.ietf.org/)) ([IETF Webex](https://ietf.webex.com/meet/sidemeetings2))
