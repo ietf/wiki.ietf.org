@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-08T11:56:35.812Z
+date: 2026-07-08T11:57:30.317Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -116,16 +116,17 @@ For approval
 -  IRTF Chair Appointment (call for nominations to go out 2026-07-14)
 
 
-### 12. Executive Session: Appeal Processing
+### 12. Executive Session: Appeal Clarifications
 
 
-
+### 13. Executive Session: Appeal Processing
 
 
 ## Regrets
 
 - Mark
 - Mathew
+- Ali
 
 
 
