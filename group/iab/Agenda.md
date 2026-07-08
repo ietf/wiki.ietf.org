@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-08T05:46:24.389Z
+date: 2026-07-08T11:56:35.812Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -92,9 +92,9 @@ For approval
   Goal: Record e-vote
 
 
-### 10. Executive Session: OIF Liaison (Liaison Coordinators)
+### 10. OIF Liaison (Liaison Coordinators)
 
-  Goal: Finish/record e-vote
+  Goal: Record e-vote
 
 
 ### 11. Executive Session: Multi-Stakeholder Platform on ICT Standardisation (MSP)
