@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-08T04:24:29.932Z
+date: 2026-07-08T12:37:08.963Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1347,6 +1347,22 @@ The idea for this group is doing a 'polishing run' on two currently active draft
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-ietf-grow-routing-ops-sec-inform/  
 https://datatracker.ietf.org/doc/draft-ietf-grow-routing-ops-terms/
+
+### Happy Eyeballs Webtester
+- **Champions**
+Tim Betzer (tim.betzer@tum.de)
+Marcel Kempf (marcel.kempf@tum.de)
+Johannes Zirngibl (jzirngib@mpi-inf.mpg.de)
+- **Project Info**
+The Happy Eyeballs algorithm improves connection establishment by reducing delays when multiple network paths or address families are available. The current Happy Eyeballs v3 draft refines previous versions with updated connection racing behavior and implementation guidance.
+This Hackathon project focuses on the Happy Eyeballs WebTester, a web-based platform for testing and visualizing Happy Eyeballs behavior and evaluating implementations against the draft.
+During the Hackathon we plan to continue development of the WebTester, discuss and implement new test scenarios, and explore additional ideas around Happy Eyeballs v3. Participants are welcome to contribute new scenarios, implementation experience, interoperability testing or just talk about the draft.
+A staging environment with experimental features, new test cases and the code will be available for participants throughout the event.
+- **Related Draft**
+https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/
+- **Links**
+https://www.happy-eyeballs.net/
+https://github.com/happy-eyeballs/he-webtester
 
 ---
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
