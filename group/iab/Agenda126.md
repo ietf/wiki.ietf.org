@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-07T20:59:39.884Z
+date: 2026-07-08T05:39:23.474Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -70,7 +70,7 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 
-### 18:30-20:00: Policy Roundtable by ISOC (Room: TBD)
+### 18:30-20:00: Policy Roundtable by ISOC (Room: Grand Klimt Hall 3)
 
 
  
