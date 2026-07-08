@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-08T13:40:53.337Z
+date: 2026-07-08T17:17:59.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1072,7 +1072,7 @@ Lucia Cabanillas, lucia.cabanillasrodriguez@telefonica.com
 - **Project Info**
 At previous IETF Hackathons (IETF 122–125), we introduced and evolved a YANG provenance signature framework, based on COSE, to ensure origin authenticity and integrity of YANG data elements. The framework has been progressively integrated with Kafka-based data infrastructures and aligned with ongoing standardization efforts.
 For the IETF 126 Hackathon, we extend this work by introducing a Kafka-based workflow leveraging COSE countersignatures, enabling multi-actor attestation and chained trust across distributed processing pipelines.
-In modern data pipelines, especially those based on event streaming (e.g., Kafka), multiple entities interact with data objects at different stages (simulating different devices). While basic signatures ensure origin integrity, they do not capture intermediate processing steps or delegated trust assertions.
+In modern data pipelines, especially those based on event streaming (e.g., Kafka), multiple entities interact with data objects at different stages (associated to different devices or functions). While basic signatures ensure origin integrity, they do not capture intermediate processing steps or delegated trust assertions.
 To address this, we implement a countersignature-based provenance model, where each processing step can attach cryptographic evidence without breaking or replacing prior signatures.
 - **Related Documents**
   - [draft-ietf-opsawg-yang-provenance](https://datatracker.ietf.org/doc/draft-ietf-opsawg-yang-provenance/)
