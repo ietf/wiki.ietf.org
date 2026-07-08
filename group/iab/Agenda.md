@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-07T13:08:54.060Z
+date: 2026-07-08T05:46:24.389Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -125,6 +125,7 @@ For approval
 ## Regrets
 
 - Mark
+- Mathew
 
 
 
