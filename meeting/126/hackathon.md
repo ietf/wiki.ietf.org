@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-07T19:46:03.124Z
+date: 2026-07-08T04:24:29.932Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -525,7 +525,8 @@ The following are the primary links related to this Hackathon Project:
 2.	In Situ Operations, Administration, and Maintenance (IOAM) Template Option (https://datatracker.ietf.org/doc/draft-mbci-ippm-ioam-template-option/) allows to define a fixed-length IOAM Option-Type that can be updated by transit nodes along a path, the contents of which is defined by a template. It is possible to define templates to provide functionality equivalent to the Aggregation Trace Option, which supported as well.
 3.	Global Opaque Block for IOAM PTO: https://datatracker.ietf.org/doc/draft-mayer-ioam-gob/
 4.	Extensible In-band Processing (EIP) Architecture and Framework: https://datatracker.ietf.org/doc/draft-eip-arch/
-5.	Linux/eBPF implementation: https://github.com/netgroup/ioam-gob-kernel-playground (a second link to the BMv2/P4 implementation will be provided as we approach the date of the hackathon)
+5.	Linux/eBPF implementation: https://github.com/netgroup/ioam-gob-kernel-playground 
+6.	BMv2/P4 implementation: https://github.com/INSRapperswil/green-path-optimizer
 
 
 ---
