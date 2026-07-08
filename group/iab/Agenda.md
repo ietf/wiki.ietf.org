@@ -2,141 +2,43 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-08T11:57:30.317Z
+date: 2026-07-08T14:57:15.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Formal Meeting Agenda: 2026-07-08, 13:00-15:00 UTC (2 hours)
+# IAB Informal Meeting Agenda: 2026-08-05, 06:00 UTC (1 hour)
 
 
-## There WILL be a meeting on 2026-07-08
+## There WILL NOT be a meeting on 2026-08-05
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m101ee4e3d7ff9edf0b4124029b94f5ae
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m46aa6544da712caf5f976f5c47ae393f
 
 
 
 
 ## Agenda
 
-### 1. Administrivia
+### 1. Topic
 
-#### 1.1. Attendance
+Context: 
 
-#### 1.2. Agenda bash and announcements
-
-#### 1.3. Meeting Minutes
-
-For approval
-
--  2026-06-10 business meeting - (submitted 2026-06-10) 
-	OK from: Dhruv
-
-### 2. Monthly Reports (Liaisons, etc.)
-
--  IRTF Chair
--  IESG Liaison
--  ICANN Board Liaison
--  IANA Liaison
--  IAB Outreach Coordinator
--  Internet Society Liaison
--  Liaison Coordinators
-
-
-### 3. Response to appeal regarding a declaration of consensus to adopt a non-hybrid draft
-
-  Goal: Record results of e-vote
-
-
-### 4. IAB at IETF 126
-
-- [Business meeting agendas](https://wiki.ietf.org/group/iab/Agenda126)
-- [BOF coverage](https://wiki.ietf.org/group/iab/Bof126)
-- [New Work Help Desk](https://wiki.ietf.org/en/group/iab/newwork-schedule)
-- Liaison Coordinator Office Hours
-- [IAB Open Agenda](https://github.com/intarchboard/iabopen/blob/master/ietf126/agenda.md)
-
-
-### 5. draft-iab-ip-geo-workshop-report (Suresh)
-
-  Goal: Is this ready for publication as an RFC?
-
-
-### 6. Post-Quantum Cryptography Workshop (Nick)
-
-  Goal: Next steps
-
-  GitHub: https://github.com/intarchboard/responsibilities/issues/95
-
-
-### 7. IAB Role in Technology Deep Dive (Dhruv)
-
-  Goal: Establish a standing IAB Liaison to TDD, appointed by the IAB, 
-  with a defined and active mandate. 
-
-[Proposal](https://docs.google.com/document/d/1CAJ4eORjCZN6wdqwe7hlGbSxvK05CVmiBrWDlkwT4Lg/edit?usp=sharing)
-
-### 8. Review of Open Issues for Responsibilities (Dhruv)
-
-  GitHub: https://github.com/intarchboard/responsibilities/issues
-  Dashboard: https://github.com/orgs/intarchboard/projects/7/views/1
-
-
-### 9. RFC Series Working Group (RSWG) Chair Appointment
-
-  Goal: Record e-vote
-
-
-### 10. OIF Liaison (Liaison Coordinators)
-
-  Goal: Record e-vote
-
-
-### 11. Executive Session: Multi-Stakeholder Platform on ICT Standardisation (MSP)
-
-  Goal: Feedback to ISOC
-
-
-### 12. Executive Session: ICANN NomCom Appointment
-
-  Goal: Finish/record e-vote
-
-
-### 13. Update on Other IAB Appointments
-
-
--  RZERC (deadline for community feedback: 2026-07-08)
--  CCG (deadline for community feedback: 2026-07-15)
--  ICANN Board Liaison (deadline for nominations: 2026-07-24)
--  IRTF Chair Appointment (call for nominations to go out 2026-07-14)
-
-
-### 12. Executive Session: Appeal Clarifications
-
-
-### 13. Executive Session: Appeal Processing
 
 
 ## Regrets
-
-- Mark
-- Mathew
-- Ali
 
 
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
-
-- **2026-07-08 Formal 1300-1500 UTC**
     
-### 2026-07-18 - 2026-07-24: IETF 126 Vienna
+### 2026-07-18 - 2026-07-24: [IETF 126 Vienna](https://wiki.ietf.org/en/group/iab/Agenda126)
 
 - 2026-08-05 Informal 0600-0700 UTC
 - 2026-08-12 Informal 1400-1500 UTC
