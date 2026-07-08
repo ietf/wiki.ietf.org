@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-08T13:02:31.932Z
+date: 2026-07-08T13:36:42.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -946,7 +946,23 @@ The academic community has been proposing new privacy technologies, but in exist
 
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-li-pearg-ciphertext-inference-tool-mcp/
+---
+### ICON: AI Agent observability for network management operations
 
+- **Champions**
+Qin Wu (bill.wu@huawei.com)
+Qiufang Ma (maqiufang1@huawei.com)
+Wei Song (songwei80@huawei.com)
+Junjie Luo (luojunjie6@huawei.com)
+Mingyuan Chen (chenmingyuan3@huawei.com)
+
+- **Project info**
+Our aim is to develop an AI agent observability framework for network diagnosis AI agent to capture its internal reasoning process (Chain-of-Thought), decision-making logic, workflow execution, and operational metrics. This framework could serve as the foundational prerequisite for enabling advanced capabilities, such as agent control and run-time intervention, and AI agent benchmarking.
+
+- **Related Drafts**
+https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
+https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/
+https://datatracker.ietf.org/doc/draft-contreras-bmwg-ai-agent-benchmarking/
 ---
 ### Security Evaluation Benchmark for AI Agents
 - **Champions**
