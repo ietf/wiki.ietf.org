@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2026-07-08T23:14:38.301Z
+date: 2026-07-09T16:45:04.666Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -19,10 +19,10 @@ If you have questions about the Dispatch process, feel free to get in touch with
 To clarify what "non-transport aspects of WIT" means, the following non-transport working groups in WIT are chartered as of July 2026:
 
 * [aipref](https://datatracker.ietf.org/wg/aipref/) - AI Preferences
+* [cdni](https://datatracker.ietf.org/wg/cdni/) - Content Delivery Networks Interconnection
 * [core](https://datatracker.ietf.org/wg/core/) - Constrained RESTful Environments
 * [httpapi](https://datatracker.ietf.org/wg/httpapi/) - Building Blocks for HTTP APIs
 * [httpbis](https://datatracker.ietf.org/wg/httpbis/) - HTTP
-* [masque](https://datatracker.ietf.org/wg/masque/) - Multiplexed Application Substrate over QUIC Encryption
 * [moq](https://datatracker.ietf.org/wg/moq/) - Media Over QUIC
 * [webbotauth](https://datatracker.ietf.org/wg/webbotauth/) - Web Bot Auth
 * [webtrans](https://datatracker.ietf.org/wg/webtrans/) - WebTransport
