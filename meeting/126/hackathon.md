@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-09T02:51:32.035Z
+date: 2026-07-09T03:36:37.032Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -955,6 +955,7 @@ Qiufang Ma (maqiufang1@huawei.com)
 Wei Song (songwei80@huawei.com)
 Junjie Luo (luojunjie6@huawei.com)
 Mingyuan Chen (chenmingyuan3@huawei.com)
+Yanping Cao (caoyanping@huawei.com)
 
 - **Project info**
 Our aim is to develop an AI agent observability framework for network diagnosis AI agent to capture its internal reasoning process (Chain-of-Thought), decision-making logic, workflow execution, and operational metrics. This framework could serve as the foundational prerequisite for enabling advanced capabilities, such as agent control and run-time intervention, and AI agent benchmarking.
