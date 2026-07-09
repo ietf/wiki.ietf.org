@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-08T18:18:41.261Z
+date: 2026-07-09T02:51:32.035Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1394,6 +1394,32 @@ This project demonstrates how incidents [1] and issues [2] can be identified and
 - **Links**
 [1] https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/
 [2] https://datatracker.ietf.org/doc/draft-yu-ccamp-sla-assurance-optical-yang/
+
+
+### A Publication-Point-Based Incremental Validation Procedure for RPKI Relying Parties
+
+- **Champions**
+Yingying Su (suyy@mail.zgclab.edu.cn)
+Lancheng Qin (qinlc@mail.zgclab.edu.cn) 
+
+- **Project Info**
+This project demonstrates a publication-point-based incremental validation procedure for RPKI Relying Parties (RPs). The goal is to reduce repeated validation work after repository synchronization while preserving the same validated output as full top-down validation.
+The RP project supports:
+-- building a publication point cache after initial top-down validation;
+-- full validation when a CA publication point is new or when its effective resource context changes;
+-- publication-point-level reuse when the CA_ID, ca_effective_resources, manifest, and CRL are unchanged;
+-- object-level reuse when the manifest changes but the CA_ID and ca_effective_resources remain unchanged, with re-checks for validation time and CRL status before reuse;
+-- collecting metrics such as running time, PP cache hit/miss rate, PP-level reuse rate, object-level reuse rate, and validation output statistics.
+
+- **Hackathon Plan**
+-- Run our RP, Routinator, rpki-client, and FORT in an initial repository synchronization followed by full validation.
+-- Run the same implementations after incremental repository synchronization followed by full RPKI object validation.
+-- Run our RP after incremental repository synchronization with publication-point-based incremental validation enabled.
+-- Compare running time, cache hits/misses, PP-level and object-level reuse behavior, and validated output, and show the results in the monitoring dashboard.
+
+- **Related Documents**
+-- https://datatracker.ietf.org/doc/draft-su-sidrops-rpki-rp-incremental-validation/
+
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
