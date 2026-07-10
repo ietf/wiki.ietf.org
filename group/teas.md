@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-07-07T16:24:43.795Z
+date: 2026-07-10T22:34:48.963Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -37,7 +37,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  8 | [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist | 2025-10-24
 |  9 | [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/oL5MyAavDkLk7b70yZujhStZThc/) | 2026-02-11
 | 10 | [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) ^YDR^ | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/1XvRXVrNIQqKfpxo-vtJpVK1Vj8/) | 2026-07-07
-| 11 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | Ready for WGLC (as per Authors) <br> [IPR poll started](https://mailarchive.ietf.org/arch/msg/teas/rslxl2xapB79D_4-UAbRZCOaHjA/) | 2026-06-11
+| 11 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | In WGLC (ends July 31st 2026) <br> [IPR poll started](https://mailarchive.ietf.org/arch/msg/teas/rslxl2xapB79D_4-UAbRZCOaHjA/) | 2026-06-11
 | 12 | [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Open issues exist (issues tracked in the document) | 2025-10-24
 | 13 | [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) ^Exp^ | Open issues exist | 2026-03-04
 | 14 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | Open issues exist | 2026-05-05
