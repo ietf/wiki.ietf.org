@@ -2,7 +2,7 @@
 title: AI in OPS
 description: Management AD guidance on what AI-driven network operations work is ready for IETF standardization, and what isn't.
 published: true
-date: 2026-07-10T15:58:15.188Z
+date: 2026-07-10T22:50:30.092Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T00:28:18.971Z
@@ -49,7 +49,7 @@ AI and ML techniques are increasingly being applied to network operations: anoma
 
 This page identifies what the IETF is well-positioned to standardize, describes categories of work appropriate for IETF standardization, and flags where community consensus is still forming.
 
-Where this page describes decisions I will make — on adoption, disposition, or WG formation — those decisions are made in concert with the relevant WG chairs with input from the community, not unilaterally by the AD. Throughout this page, work items that could be chartered into a not-yet-formed working group are marked **Proposed New WG**, alongside existing venues such as OPSAWG and NMOP.
+Where this page describes decisions I will make — on WG formation — those decisions are made in concert with the relevant WG chairs with input from the community, not unilaterally by the AD. Throughout this page, work items that could be chartered into a not-yet-formed working group are marked **Proposed New WG**, alongside existing venues such as OPSAWG and NMOP.
 
 ## Current Landscape
 
