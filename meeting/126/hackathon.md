@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-10T10:13:28.063Z
+date: 2026-07-10T14:21:25.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1443,6 +1443,27 @@ Current implementation includes:
   - Complete the end-to-end verification workflow, where the observer first validates the DNSSEC chain of trust and then verifies the DRIP cryptographic signature carried in the Remote ID message.
   - Test interoperability between independent DRIP implementations and identify implementation issues.
   - Demonstrate interoperable “running code” for the complete DRIP architecture and gather implementation experience to support ongoing work in the DRIP Working Group.
+  
+
+### Minimal multicast extensions for QUIC
+- **Champions**
+Louis NAVARRE (louis.navarre@uclouvain.be)
+Vany INGENZI (vany.ingenzi@uclouvain.be)
+Anthony DOERAENE (anthony.doeraene@uclouvain.be)
+- **Project Info**
+The objective of this hackathon is to implement a minimal extension of multicast inside the QUIC protocol.
+
+Two drafts already explore how to extend QUIC with multicast support:
+draft-jholland-quic-multicast
+draft-navarre-quic-flexicast
+
+Though they offer benefits, the two approaches already embed numerous features that go beyond the basic framework to efficiently deliver the same data to multiple recipients.
+
+In this hackathon, the objective is to implement a minimal, interop-ready multicast extension in QUIC as a proof of concept.
+
+- **Related documents**
+https://datatracker.ietf.org/doc/draft-jholland-quic-multicast/
+https://datatracker.ietf.org/doc/draft-navarre-quic-flexicast/
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
