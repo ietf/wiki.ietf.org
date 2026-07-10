@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-10T17:58:32.385Z
+date: 2026-07-10T22:40:48.071Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -175,17 +175,11 @@ This room is available for anyone on the IESG, for AD office hours or any meetin
 
 If you would like your meeting to be added to the main meeting agenda, please email support or ask Liz directly!
 
-## Saturday, July 18, 2026
-**PLEASE NOTE: NOT AVAILABLE BEFORE 09:00.**
-**PLEASE NOTE: AV MAY NOT BE AVAILABLE.**
-
-* TIME - TIME -- Thing (Person responsible)
-* 16:00 - 17:00 -- AGENTPROTO BoF Prep (Charles/Andy) 
-
 ## Sunday, July 19, 2026
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * TIME - TIME -- Thing (Person responsible)
+* 13:00 - 14:00 -- AGENTPROTO BoF Prep (Charles/Andy) 
 * 14:00 - 15:00 -- RTG AD Office Hours (Ketan/Jim/Gunter) 
 * 15:00 - 16:00 -- WIT AD Office Hours (Gorry Fairhurst, Mike Bishop) 
 
