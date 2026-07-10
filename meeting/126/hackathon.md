@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-10T14:21:25.592Z
+date: 2026-07-10T16:28:22.893Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1464,6 +1464,20 @@ In this hackathon, the objective is to implement a minimal, interop-ready multic
 - **Related documents**
 https://datatracker.ietf.org/doc/draft-jholland-quic-multicast/
 https://datatracker.ietf.org/doc/draft-navarre-quic-flexicast/
+
+### RATS CoSERV - demo new features
+- **Champions**
+Paul Howard (paul.howard@arm.com)
+
+- **Project Info**
+CoSERV has introduced a new query mechanism based on RIM identifiers instead of environments.
+This project is to implement the new query style and to show a simple end-to-end demonstration of it interoperating between the Rust and Go implementations.
+
+Rust support for CoSERV is [here](https://github.com/veraison/coserv-rs).
+Go support for CoSERV is [here](https://github.com/veraison/corim/tree/main/coserv).
+
+- **Related Documents**
+https://datatracker.ietf.org/doc/draft-ietf-rats-coserv/
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
