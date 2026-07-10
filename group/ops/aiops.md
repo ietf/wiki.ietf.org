@@ -2,22 +2,20 @@
 title: AI in OPS
 description: Management AD guidance on what AI-driven network operations work is ready for IETF standardization, and what isn't.
 published: true
-date: 2026-07-10T00:43:45.333Z
+date: 2026-07-10T15:58:15.188Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T00:28:18.971Z
 ---
 
- # AI-Driven Network Operations: Evaluation Guidelines
+# AI-Driven Network Operations: Evaluation Guidelines
 
 *Guidance from the Management Area Director on evaluating AI/ML network operations submissions*
 
 > **Side Meeting — IETF 126, Vienna**
 > There will be a side meeting on this topic on **Friday, July 24 at 8:00 a.m.** in **Park Suite 4**. Room capacity is limited; attendees are encouraged to join remotely via WebEx: <https://ietf.webex.com/meet/sidemeetings1>
 
-**By audience:** [WG Chairs](#for-wg-chairs) &middot; [Draft Authors](#for-draft-authors) &middot; [BoF Organizers](#for-bof-organizers) &middot; [Side Meeting Organizers](#for-side-meeting-organizers)
-
-*Note: anchor links below assume heading-text slugs; adjust if this wiki's renderer generates anchors differently.*
+**By audience:** [WG Chairs](#for-wg-chairs) &middot; [Draft Authors](#for-draft-authors) &middot; [BoF Organizers](#for-bof-organizers) &middot; [Side Meeting Participants](#for-side-meeting-participants)
 
 ## Contents
 
@@ -38,7 +36,7 @@ dateCreated: 2026-07-10T00:28:18.971Z
 - [For WG Chairs](#for-wg-chairs)
 - [For Draft Authors](#for-draft-authors)
 - [For BoF Organizers](#for-bof-organizers)
-- [For Side Meeting Organizers](#for-side-meeting-organizers)
+- [For Side Meeting Participants](#for-side-meeting-participants)
 - [Questions and Feedback](#questions-and-feedback)
 
 ---
@@ -51,7 +49,7 @@ AI and ML techniques are increasingly being applied to network operations: anoma
 
 This page identifies what the IETF is well-positioned to standardize, describes categories of work appropriate for IETF standardization, and flags where community consensus is still forming.
 
-Where this page describes decisions I will make — on adoption, disposition, or WG formation — those decisions are made in concert with the relevant WG chairs, not unilaterally by the AD. Throughout this page, work items that could be chartered into a not-yet-formed working group are marked **Proposed New WG**, alongside existing venues such as OPSAWG and NMOP.
+Where this page describes decisions I will make — on adoption, disposition, or WG formation — those decisions are made in concert with the relevant WG chairs with input from the community, not unilaterally by the AD. Throughout this page, work items that could be chartered into a not-yet-formed working group are marked **Proposed New WG**, alongside existing venues such as OPSAWG and NMOP.
 
 ## Current Landscape
 
@@ -67,6 +65,8 @@ The following efforts are currently active in the IETF and IRTF in this space:
 - [`draft-irtf-nmrg-llm-nm`](https://datatracker.ietf.org/doc/draft-irtf-nmrg-llm-nm/) — proposes a framework for LLM-assisted network management with a mandatory human-in-the-loop audit step before any AI-generated configuration is deployed.
 
 The **AINETOPS non-WG mailing list** ([ainetops@ietf.org](mailto:ainetops@ietf.org)) was established to discuss integration of AI and ML in network operations using IETF technologies.
+
+Additional individual drafts are being positioned for IETF 126 and were not yet available for inclusion in this landscape summary. These will be assessed against the same categories and criteria during or after the IETF 126 meeting, alongside the drafts listed above.
 
 ## Where IETF Can Contribute
 
@@ -247,7 +247,7 @@ If you are considering proposing a BoF in this space, the [RFC 5434](https://www
 
 The [open questions on the AI agent lifecycle](#open-questions-ai-agent-lifecycle) and the contested items in [Categories of Work](#categories-of-work) are the areas most likely to benefit from BoF-level discussion if there is sufficient community interest and critical mass. If you are considering a BoF proposal, I encourage you to reach out to me on the OPSAWG, NMOP, or AINETOPS mailing list before the deadline.
 
-## For Side Meeting Organizers
+## For Side Meeting Participants
 
 ### Structuring the Side Meeting
 
