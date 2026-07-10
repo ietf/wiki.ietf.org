@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-03-26T11:23:57.282Z
+date: 2026-07-10T12:29:53.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -20,13 +20,21 @@ dateCreated: 2023-02-15T05:33:03.580Z
 {.dense}
 
 ### SR Policy Segment List Sub-TLVs  
-#### (draft-ietf-idr-sr-policy-safi registries)  
+#### (draft-ietf-idr-sr-policy-safi registries)
+##### Unassigned - waiting to clean-up 
+| IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Email query |    
+|---|---|---|---|---|---|---
+| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 | Path Segment | needs  version -15.  2 byte length in reverse path segement is a problem.  Also Registry name should be SR Policy Segment List Sub-TLVs. Add Cross WG section  | TBD  | 
+{.dense}
+
+##### IANA Assigned 
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Email query |    
 |---|---|---|---|---|---|---|
- [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 17 (temporary) | ELP Sub-TLV  | IANA assigned temporary value | Add Cross-WG section  |  
-| [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) | SR Policy List Sub-TLVs  |  BGP Tunnel Encapsulation | TBD1 | Path Segment | needs  version -15.  2 byte length in reverse path segement is a problem.  Also Registry name should be SR Policy Segment List Sub-TLVs. Add Cross WG section  | TBD  | 
-| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Metric Sub-TLV | needs -04 to correct registry name + other issues (SR Policy Segment List Sub-TLVs) +  Add Cross-WG Section  | TBD   | 
-| [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu) | SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | TBD | Path MTU | Needs -14 + Ketan's OK | TBD | 
+ [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 17 (temporary) | ELP Sub-TLV  | WG draft | IANA temporary assignment |   
+ | [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu) | SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | 18 | Path MTU | WG draft | IANA temporary Assignment | 
+| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | 221 | Metric Sub-TLV | WG draft | IANA Allocated  | 
+| [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)| SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | 221 | Metric Sub-TLV | WG draft | IANA Allocated  | 
+
 {.dense}
 
 
