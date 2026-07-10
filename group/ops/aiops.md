@@ -2,7 +2,7 @@
 title: AI in OPS
 description: Management AD guidance on what AI-driven network operations work is ready for IETF standardization, and what isn't.
 published: true
-date: 2026-07-10T00:28:18.971Z
+date: 2026-07-10T00:43:45.333Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T00:28:18.971Z
@@ -16,6 +16,8 @@ dateCreated: 2026-07-10T00:28:18.971Z
 > There will be a side meeting on this topic on **Friday, July 24 at 8:00 a.m.** in **Park Suite 4**. Room capacity is limited; attendees are encouraged to join remotely via WebEx: <https://ietf.webex.com/meet/sidemeetings1>
 
 **By audience:** [WG Chairs](#for-wg-chairs) &middot; [Draft Authors](#for-draft-authors) &middot; [BoF Organizers](#for-bof-organizers) &middot; [Side Meeting Organizers](#for-side-meeting-organizers)
+
+*Note: anchor links below assume heading-text slugs; adjust if this wiki's renderer generates anchors differently.*
 
 ## Contents
 
@@ -210,10 +212,10 @@ Use the [summary table](#summary-table) to identify which category your work fal
 
 - **YANG data models** (intent, audit, governance, operational state) → Proposed New WG, OPSAWG, or NMOP depending on scope; air time from any is welcome. Start on the [AINETOPS list](mailto:ainetops@ietf.org).
 - **Intent-based RPCs** → Proposed New WG or NETCONF WG; coordinate with OPSAWG or NMOP for the YANG components.
-- **MCP-to-YANG operation mapping** → Proposed New WG or OPSAWG; coordinate with NETCONF WG if NETCONF notification semantics are affected.
+- **MCP-to-YANG operation mapping** → Proposed New WG, OPSAWG, or NMOP depending on scope; coordinate with NETCONF WG if NETCONF notification semantics are affected.
 - **A2C / A2A interfaces** → Proposed New WG or NMOP; coordinate with OPSAWG for YANG data model components.
-- **Operational security BCP** → Proposed New WG or OPSAWG.
-- **Governance principles** → Proposed New WG or OPSAWG.
+- **Operational security BCP** → Proposed New WG, OPSAWG, or NMOP depending on scope.
+- **Governance principles** → Proposed New WG, OPSAWG, or NMOP depending on scope.
 - **Lifecycle gaps** (discovery, benchmarking, grounding, upgrade) → emerging area; start on the AINETOPS list and coordinate with BMWG for benchmarking work. A strong candidate for the Proposed New WG once chartered.
 
 ### What Makes a Submission a Strong Candidate
@@ -243,7 +245,7 @@ If you are considering proposing a BoF in this space, the [RFC 5434](https://www
 - **Parallel activity.** The AI tooling space (MCP, A2A, open-source agents, cloud provider frameworks) is moving quickly. What is the IETF's unique contribution that the market cannot produce on its own, and on what timescale? DAWN and BMWG activity may already address parts of the proposed scope.
 - **Desired BoF outcome.** A successful BoF produces concrete next steps — proposed milestones, a draft charter, or a clear decision that the work belongs elsewhere — not just a consensus that the topic is interesting.
 
-The [open questions on the AI agent lifecycle](#open-questions-ai-agent-lifecycle) and the contested items in [Categories of Work](#categories-of-work) are the areas most likely to benefit from BoF-level discussion if there is sufficient community interest and critical mass. If you are considering a BoF proposal, I encourage you to reach out to me on the OPSAWG or AINETOPS mailing list before the deadline.
+The [open questions on the AI agent lifecycle](#open-questions-ai-agent-lifecycle) and the contested items in [Categories of Work](#categories-of-work) are the areas most likely to benefit from BoF-level discussion if there is sufficient community interest and critical mass. If you are considering a BoF proposal, I encourage you to reach out to me on the OPSAWG, NMOP, or AINETOPS mailing list before the deadline.
 
 ## For Side Meeting Organizers
 
@@ -265,17 +267,17 @@ If the side meeting is the trigger for WG formation rather than a precursor to a
 
 - **Problem statement.** Can the room agree on a single, concrete statement of the problem a new WG would solve? It must be specific enough to distinguish from existing WG scope. "AI is important for network operations" is not a problem statement; "there is no standards-track home for YANG models governing AI agent behavior in network management, and existing WG charters do not cover that scope" is closer. The room must reach rough consensus on the statement before proceeding.
 - **Existing WG assessment.** For each proposed work item, can it be absorbed by OPSAWG, NMOP, or NETCONF WG as currently constituted, or does it belong in the Proposed New WG? If the answer is that existing WGs would need to expand their scope, that is a different path than forming the Proposed New WG, and both paths should be assessed. The side meeting should reach a clear position on which path is preferable and why.
-- **Critical mass.** Who present — and who on the AINETOPS and OPSAWG mailing lists — is committed to writing drafts, reviewing them, and implementing the resulting standards? A WG that cannot sustain this will be closed. Names and organizations need to be on the record, not just raised hands.
+- **Critical mass.** Who present — and who on the AINETOPS, OPSAWG, and NMOP mailing lists — is committed to writing drafts, reviewing them, and implementing the resulting standards? A WG that cannot sustain this will be closed. Names and organizations need to be on the record, not just raised hands.
 - **Deliverables and milestones.** For each proposed deliverable, the meeting should confirm: What type of document (YANG model, protocol extension, BCP, Informational)? What track? Who is the likely author or authoring team? What is a realistic first-revision milestone? A general mandate ("the WG will work on YANG models for AI agents") is not sufficient; IESG expects specific, completable milestones.
 - **Scope boundary.** For each topic the proposed WG would explicitly *not* work on, confirm rough consensus that it is excluded. Defining what is out of scope is as important as what is in. This includes: AI and ML algorithm specification, standalone gap analyses, external framework alignment, and work already covered by the DAWN BoF or BMWG.
 - **Draft charter text.** Has a first draft of charter text been circulated? If not, the meeting must identify who will write it and by what date. The AD cannot bring an unchartered WG proposal to IESG without text; meeting notes alone are insufficient. Charter text should reflect the problem statement, scope, and deliverables agreed in the meeting.
 - **Chair candidates.** Are there one or two individuals willing to serve as WG chairs? The AD needs names before taking a proposal to IESG. Chairs must be willing to shepherd the work, manage the mailing list, and run WG sessions at IETF meetings. This is not a courtesy question — no chair candidates means no WG proposal.
-- **AD sponsorship.** Together with the identified chair candidates, I will state at the close of the meeting whether the conditions for a direct Proposed New WG proposal to IESG have been met. If they have, I will take the proposal forward. If not, we will identify what remains unresolved and what the community needs to produce before I can do so.
+- **Next steps.** Together with the identified chair candidates, I will state at the close of the meeting whether the conditions for a direct Proposed New WG proposal to IESG have been met. If they have, I will take the proposal forward. If not, we will identify what remains unresolved and what the community needs to produce before I can do so.
 - **Known objections.** A BoF surfaces opposition publicly; bypassing the BoF does not make objections go away. The side meeting must identify who has raised concerns, on what grounds, and whether those concerns are addressable or fundamental. The AD will need to account for known objections in the IESG proposal. Unaddressed objections become IESG DISCUSS positions.
 
 #### Preparation and Success Criteria
 
-Brief participants in advance on: IETF 125 presentations in this space; the OPSAWG and AINETOPS mailing list threads from June–July 2026; and any draft charter text already in circulation. Participants should review the [BoF Readiness](#for-bof-organizers) section of this page, since Part B of the side meeting covers the same ground.
+Participants should review the [BoF Readiness](#for-bof-organizers) section of this page, since Part B of the side meeting covers the same ground.
 
 Success looks different depending on outcome:
 
@@ -288,8 +290,9 @@ Success looks different depending on outcome:
 This page reflects the current understanding of the AI/ML network operations space and will be updated as community consensus develops. Feedback and questions on specific submissions or proposals are welcome on the mailing lists below.
 
 **OPSAWG mailing list:** [opsawg@ietf.org](mailto:opsawg@ietf.org) — [archive](https://mailarchive.ietf.org/arch/browse/opsawg/)
+**NMOP mailing list:** [nmop@ietf.org](mailto:nmop@ietf.org) — [archive](https://mailarchive.ietf.org/arch/browse/nmop/)
 **AINETOPS mailing list:** [ainetops@ietf.org](mailto:ainetops@ietf.org) — [archive](https://mailarchive.ietf.org/arch/browse/ainetops/)
 
 ---
 
-*Posted by the Management Area Director. Informed by discussions on the OPSAWG and AINETOPS mailing lists and by presentations at IETF 125.*
+*Posted by the Management Area Director. Informed by discussions on the OPSAWG, NMOP, and AINETOPS mailing lists and by presentations at IETF 125.*
