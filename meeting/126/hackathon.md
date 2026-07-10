@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-09T03:36:37.032Z
+date: 2026-07-10T03:14:38.971Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -952,6 +952,7 @@ https://datatracker.ietf.org/doc/draft-li-pearg-ciphertext-inference-tool-mcp/
 - **Champions**
 Qin Wu (bill.wu@huawei.com)
 Qiufang Ma (maqiufang1@huawei.com)
+Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
 Wei Song (songwei80@huawei.com)
 Junjie Luo (luojunjie6@huawei.com)
 Mingyuan Chen (chenmingyuan3@huawei.com)
