@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-10T03:14:38.971Z
+date: 2026-07-10T10:13:28.063Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1422,6 +1422,27 @@ The RP project supports:
 - **Related Documents**
 -- https://datatracker.ietf.org/doc/draft-su-sidrops-rpki-rp-incremental-validation/
 
+### DRIP End-to-End Implementation (DNS/DNSSEC)
+- **Champions**
+Sandoche BALAKRICHENAN (sandoche.balakrichenan@afnic.fr)
+Nathan LE SAUSSE (nathan.le_sausse@telecom-sudparis.eu)
+Lourenço Alves Pereira Jr (ljr@ita.br)
+Flavio Souza (flavioluiz.ssouza@gmail.com)
+
+- **Project Info**
+This project aims to demonstrate an end-to-end implementation of the DRIP (Drone Remote ID Protocol) architecture, with a particular focus on the DNS and DNSSEC components specified in RFC 9886.
+
+Current implementation includes:
+  - A proof of concept implementing the DNS resolution architecture described in Figure 3 of RFC 9886, enabling DRIP identifiers to be resolved through the DNS.
+  - A DRIP cryptographic implementation integrated with a Remote ID implementation running on ESP32 hardware.
+  - A DNSSEC-enabled DRIP namespace, providing a complete chain of trust from the DRIP apex through delegated registry zones to registrant records.
+
+- **Goals for the IETF Hackathon**
+  - Integrate the DNS/DNSSEC implementation with other ESP32-based DRIP implementations developed within the community.
+  - Enable DNSSEC validation on the observer so that DNS responses are authenticated before the retrieved public key is used.
+  - Complete the end-to-end verification workflow, where the observer first validates the DNSSEC chain of trust and then verifies the DRIP cryptographic signature carried in the Remote ID message.
+  - Test interoperability between independent DRIP implementations and identify implementation issues.
+  - Demonstrate interoperable “running code” for the complete DRIP architecture and gather implementation experience to support ongoing work in the DRIP Working Group.
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
