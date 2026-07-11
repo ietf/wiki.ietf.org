@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-11T23:21:37.619Z
+date: 2026-07-11T23:23:00.173Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -87,7 +87,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 >
 > 1. SUSTAIN RG Review (Dirk, Ali Rezaki, Eve Schooler, Michael Welzl) - 30 mins
 > 2. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 15 mins
->.   Related: Update to [wiki page on IAB Committee Model for Meetings](https://docs.google.com/document/d/1KD9iVG8guPU_mVa3B2Xp-jZa_BKvv1m9xoLNHh1BxL0/edit?tab=t.0)
+>   Related: Update to [wiki page on IAB Committee Model for Meetings](https://docs.google.com/document/d/1KD9iVG8guPU_mVa3B2Xp-jZa_BKvv1m9xoLNHh1BxL0/edit?tab=t.0)
 > 3. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) - 35 mins
 >  Deadline for CFP: 31st July 2026 
 >  Draft Proposal for [Lightning Talk on Age restrictions](https://docs.google.com/document/d/1Hdujv2QjvjYvXchGLOjlEpcNhfHHuSAmfsoqUdslj2U/edit?usp=sharing)
