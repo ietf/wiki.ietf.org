@@ -2,7 +2,7 @@
 title: DISPATCH WG
 description: 
 published: true
-date: 2026-07-09T16:45:04.666Z
+date: 2026-07-11T02:28:12.491Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T20:49:27.343Z
@@ -28,8 +28,16 @@ To clarify what "non-transport aspects of WIT" means, the following non-transpor
 * [webtrans](https://datatracker.ietf.org/wg/webtrans/) - WebTransport
 * [wish](https://datatracker.ietf.org/wg/wish/) - WebRTC Ingest Signaling over HTTPS
 
+Dispatch functions for transport aspects of the WIT area are handled by [tsvwg](https://datatracker.ietf.org/wg/tsvwg/).
 
-Dispatch is inspired by the guidance and methodology of [RFC 7957](https://www.rfc-editor.org/info/rfc7957/) and subsequent experience.
+Dispatch functions for other IETF areas and technologies are handled by the following working groups:
+
+* General area: [GENDISPATCH](https://datatracker.ietf.org/wg/gendispatch/) working group
+* Routing area: [RTGWG](https://datatracker.ietf.org/wg/rtgwg/) working group
+* DNS related topics: [DNSOP](https://datatracker.ietf.org/wg/dnsop/)
+* Internet of Things topics: [IOTOPS](https://datatracker.ietf.org/wg/iotops/)
+* Performance related topics: [IPPM](https://datatracker.ietf.org/wg/ippm/) and [BMWG](https://datatracker.ietf.org/wg/bmwg/)
+* Other operations related topics: [OPSAWG](https://datatracker.ietf.org/wg/opsawg/)
 
 # Dispatch Process 
 
@@ -40,6 +48,8 @@ Then send an email with your idea to dispatch@ietf.org. In almost all cases, the
 It's easier to dispatch work when it's been discussed on the mailing list; it gives the group a good idea of what the work will involve. Even if there's not much interest or chatter, it lets participants see what is coming up at the meeting and can help discussion in the meeting. 
 
 In your initial message to the mailing list, it's also usually helpful to describe the interoperability requirements of your proposal, as well as whether you have engaged with other parties outside your own organization who plan to implement and deploy it. Protocol interoperability is at the heart of what IETF does, and evidence of outside interest helps establish that a proposal will not become an orphan that is not a good use of IETF resources.
+
+The dispatch process is inspired by the guidance and methodology of [RFC 7957](https://www.rfc-editor.org/info/rfc7957/) and subsequent experience.
 
 # Dispatch Meetings
 
