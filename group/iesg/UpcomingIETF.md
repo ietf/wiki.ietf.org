@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-10T22:40:48.071Z
+date: 2026-07-11T07:30:23.071Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -127,7 +127,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 > 1. Plenary Slide Review + Prep
 
 
-### 15:30-16:00 - IPPM/BMWG Joint Charter (Med) 
+
 
 
 ### 17:30-19:30 - IETF 126 Plenary (Room: Grand Park Hall 1/2/3)
@@ -206,6 +206,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * TIME - TIME -- Thing (Person responsible)
 * 09:00 - 11:00 -- draft-ietf-regext-rdap-extensions -- Andy on behalf of Med
 * 11:00 - 12:00 -- INT AD Office Hour (Éric/Tommy)
+* 15:30 -16:00  -- IPPM/BMWG Joint Charter (Med) 
 * 1800 - 1830 -- Pre-Plenary relaxation time (Éric V)
 
 
