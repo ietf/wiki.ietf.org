@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-11T07:34:02.289Z
+date: 2026-07-11T23:03:33.918Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -84,9 +84,11 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: WIT, ART, SEC, GEN, IAB, OPS, IRTF, RTG, INT
->3. Liaison RFCs bis Update (15 min)
->4. Update on IAB Workshop Proposal for PQC (Nick)
->5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78) (Dhruv, Warren, Eric, Yaroslav, Gorry) 
+>3. Liaison RFCs bis Update (15 min) (Suresh)
+>   Management of IETF Liaison Relationships - [4052bis](https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/)
+>   Handling Liaison Statements - [4053bis](https://datatracker.ietf.org/doc/draft-iab-rfc4053bis/)
+>4. [Update on proposed IAB Workshop on PQC](https://docs.google.com/document/d/16wcjKnE15bS0ygEsl6Ovrh1se7dHXkcBPkBUjCg4EHU/edit) (Nick, Yaroslav)
+>5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855) (Dhruv, Warren, Eric, Yaroslav, Gorry) 
 
 
 
