@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-11T23:03:33.918Z
+date: 2026-07-11T23:04:09.458Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -19,9 +19,6 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 ## Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 126, or the joint meetings with the IAB.
 
-- Joint session: 4052bis and 4053bis (Suresh Krishnan)
-- Joint session: IAB Workshop Proposal for PQC (Nick)
-- Joint session: Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78) (Dhruv, Warren, Eric, Yaroslav, Gorry) (if there is time)
 - At some point the WIT ADs need to mention that the second part of WITArea meeting (Wed) will be about "Foo over Internet Transport", recognising there are now >12 drafts proposed across many areas (Gorry/Mike).
 
 # IESG Activities
