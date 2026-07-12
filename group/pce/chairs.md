@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2026-02-10T07:34:09.084Z
+date: 2026-07-12T13:04:02.362Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -23,8 +23,6 @@ dateCreated: 2023-03-07T11:17:56.126Z
 ## Initiated and ongoing Tasks
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
-| Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done after review, authors have asked Dhruv to recheck |
-| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Review done, waiting for update from authors, Ramon email|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -39,6 +37,8 @@ Items to talk to Ketan:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done after review, authors have asked Dhruv to recheck |
+| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Review done, waiting for update from authors, Ramon email|
 | Shephered Review and Writeup | draft-ietf-pce-sr-bidir-path and draft-ietf-pce-circuit-style-pcep-extensions| Dhruv | Sent to IESG |
  Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|

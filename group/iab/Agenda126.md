@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-08T15:04:44.349Z
+date: 2026-07-11T23:23:00.173Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -39,9 +39,9 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 
 > Agenda:
 > 
-> 1. ISE Survey Discussion (with Akanksha and Eliot) - 45 mins
-> 2. IAB statement on Age-Based Restrictions (Mark) - 30 mins
-> 3. PQC Workshop Discussion (Nick) - 25 mins
+> 1. [ISE Survey Discussion](https://docs.google.com/document/d/1b3jyPpEWDT4a6Mav4tQCGsojkVMPR4E-ckQossHACg0/edit?usp=sharing) (with Akanksha and Eliot) - 45 mins
+> 2. [IAB statement on Age-Based Restrictions](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing) (Mark) - 30 mins
+> 3. [Proposed PQC IAB Workshop Discussion](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?usp=sharing) (Nick) - 25 mins
 >    - Followup from Joint Session
 > 4. Exec Session: CCG Appointment (vote) - 5 mins
 > 5. Exec Session: RZERC Appointment (vote) - 10 mins
@@ -87,8 +87,11 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 >
 > 1. SUSTAIN RG Review (Dirk, Ali Rezaki, Eve Schooler, Michael Welzl) - 30 mins
 > 2. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 15 mins
+>   Related: Update to [wiki page on IAB Committee Model for Meetings](https://docs.google.com/document/d/1KD9iVG8guPU_mVa3B2Xp-jZa_BKvv1m9xoLNHh1BxL0/edit?tab=t.0)
 > 3. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) - 35 mins
->   - deadline 31st July 2026 - 
+>  Deadline for CFP: 31st July 2026 
+>  Draft Proposal for [Lightning Talk on Age restrictions](https://docs.google.com/document/d/1Hdujv2QjvjYvXchGLOjlEpcNhfHHuSAmfsoqUdslj2U/edit?usp=sharing)
+>  Draft Proposal for [Workshop session on PQC](https://docs.google.com/document/d/1Y6FhgvXq1s2m-9o30L509ccbw4MZ-dKdKBjdBUQR6Xc/edit?usp=sharing) 
 
 ### 18:15-19:15: Liaison Managers Social Hour (Room: M2 Executive Lounge Terrace)
 

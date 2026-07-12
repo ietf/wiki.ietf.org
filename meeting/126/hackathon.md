@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-10T03:14:38.971Z
+date: 2026-07-12T19:53:34.252Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -696,9 +696,13 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
  		[Thursday, July 23, 2026, 19:00-20:00 ( Europe/Vienna ) · Park Suite 4](https://sidemeetings.ietf.org/)
 
  - **Hackathon Plan (Potential Working Items)**
-    - Using KIRA as ACP Routing protocol for ANIMA
-    - Using KIRA together with FRR: KIRA can be used to configure and set up FRR entities
-    - Using KIRA with a mesh of Raspberry Pis
+   - Using KIRA as ACP Routing protocol for ANIMA
+     - Running BRSKI and GRASP based on KIRA's IPv6 connectivity
+   - Using KIRA together with FRR, bird, etc.:
+     - KIRA's IPv6 connectivity can be used to configure and set up routing daemon entities
+     - Use docker containers with kirad together with frr/bird/etc., e.g., for distributed test automation.
+   - Using KIRA with a mesh of Raspberry Pis
+
 
  - **Technologies**
    - Rust (Kirad)
@@ -722,16 +726,45 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
   - Viacheslav Dubeyko
   - Jean-Marie Jacquet
   - Songbo Bu
+  - Pavel Nikonorov
   - (Please feel free to add your name here)
+
+Potential collaboration with project AEP × Veraison: Anton Sokolov
 
 - **Drafts vulnerable to CVE-2026-33697**
       - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
       - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
       - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
 
+- **Project Motivation**
+   > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
+   > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
+   > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
+   > - https://thenextgentechinsider.com/pulse/critical-flaw-discovered-in-confidential-computing-attestation-protocols
+   > - https://www.securitylab.ru/news/574545.php
+   > - Russian https://www.securitylab.ru/news/574545.php
+   > - German https://www.blogspan.net/confidential-computing-attestierung-relay-luecke/
+   > - https://dailysecurityreview.com/resources/cve-2026-33697-attested-tls-relay-flaw-hits-whatsapp-cocos-ai/
+   > - Chinese https://finance.sina.cn/tech/2026-07-04/detail-inifscxt9953361.d.html
+   > - https://data4biz.com/articles/una-falla-rompe-la-fiducia-del-confidential-computing
+   > - Japanese https://blackhatnews.tokyo/archives/119915
+   > - https://www.dugganusa.com/post/confidential-computing-s-whole-pitch-is-trust-the-proof-not-the-cloud-two-years-of-formal-verifi
+   > - https://post.smzdm.com/p/a82ol990/
+   > - Russian https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
+   > - Chinese https://blog.csdn.net/weixin_42376192/category_13096766.html
+   > - https://daily.dev/posts/bad-epoll-hits-99-reliability-sharepoint-rce-under-active-exploitation-zgp0yt8lh
+   > - https://meterpreter.org/attested-tls-vulnerability-cve-2026-33697/
+   > - https://osintsights.com/confidential-computing-flaws-expose-trust-risks
+   > - https://www.boerse-express.com/news/articles/digitale-souveraenitaet-vergabebeschleunigungsgesetz-staerkt-europaeische-cloud-ab-juli-924836
+   > - Turkish: https://hardwaremania.com/haber/arastirma-attested-tls-confidential-computing-icin-zayif-kaliyor/
+   > - https://akber.com/sovereignty-in-the-cloud-is-an-illusion/
+   > - https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
+   > - German https://www.ad-hoc-news.de/wissenschaft/digitale-souveraenitaet-bundesregierung-beschliesst-34-punkte-paket/69692503
+
+
+
 - **Implementations vulnerable to CVE-2026-33697**
       - [Meta’s Private Processing for WhatsApp](https://ai.meta.com/static-resource/private-processing-technical-whitepaper)
-      - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
       - [Cocos AI](https://github.com/ultravioletrs/cocos)
       - [Confidential Computing Consortium (CCC)  Attestation SIG's adopted project](https://github.com/ccc-attestation/attested-tls-poc)
 
@@ -1429,6 +1462,80 @@ Eliot Lear (lear@lear.ch)
 This project looks to improve hostap to match [TEAPv2](https://datatracker.ietf.org/doc/draft-ietf-emu-teapv2/) [1] as well as to look at improvements to both [MUD improvements](https://datatracker.ietf.org/doc/draft-lear-iotops-mudextras/) and improvements to [MudMaker](https://mudmaker.org/mudmaker)[2].
 -- Most of the code for TEAPv2 should be present [a fork of hostap](https://github.com/elear/hostap-teapv2), but some additional work is needed to the TLS interface.
 -- On the MUD front, we need to look at handling a new use case, which is that of IT/OT contract management, as well as cleaning up some bits and bobs, like multicast and broadcast.
+### DRIP End-to-End Implementation (DNS/DNSSEC)
+- **Champions**
+Sandoche BALAKRICHENAN (sandoche.balakrichenan@afnic.fr)
+Nathan LE SAUSSE (nathan.le_sausse@telecom-sudparis.eu)
+Lourenço Alves Pereira Jr (ljr@ita.br)
+Flavio Souza (flavioluiz.ssouza@gmail.com)
+
+- **Project Info**
+This project aims to demonstrate an end-to-end implementation of the DRIP (Drone Remote ID Protocol) architecture, with a particular focus on the DNS and DNSSEC components specified in RFC 9886.
+
+Current implementation includes:
+  - A proof of concept implementing the DNS resolution architecture described in Figure 3 of RFC 9886, enabling DRIP identifiers to be resolved through the DNS.
+  - A DRIP cryptographic implementation integrated with a Remote ID implementation running on ESP32 hardware.
+  - A DNSSEC-enabled DRIP namespace, providing a complete chain of trust from the DRIP apex through delegated registry zones to registrant records.
+
+- **Goals for the IETF Hackathon**
+  - Integrate the DNS/DNSSEC implementation with other ESP32-based DRIP implementations developed within the community.
+  - Enable DNSSEC validation on the observer so that DNS responses are authenticated before the retrieved public key is used.
+  - Complete the end-to-end verification workflow, where the observer first validates the DNSSEC chain of trust and then verifies the DRIP cryptographic signature carried in the Remote ID message.
+  - Test interoperability between independent DRIP implementations and identify implementation issues.
+  - Demonstrate interoperable “running code” for the complete DRIP architecture and gather implementation experience to support ongoing work in the DRIP Working Group.
+  
+
+### Minimal multicast extensions for QUIC
+- **Champions**
+Louis NAVARRE (louis.navarre@uclouvain.be)
+Vany INGENZI (vany.ingenzi@uclouvain.be)
+Anthony DOERAENE (anthony.doeraene@uclouvain.be)
+- **Project Info**
+The objective of this hackathon is to implement a minimal extension of multicast inside the QUIC protocol.
+
+Two drafts already explore how to extend QUIC with multicast support:
+draft-jholland-quic-multicast
+draft-navarre-quic-flexicast
+
+Though they offer benefits, the two approaches already embed numerous features that go beyond the basic framework to efficiently deliver the same data to multiple recipients.
+
+In this hackathon, the objective is to implement a minimal, interop-ready multicast extension in QUIC as a proof of concept.
+
+- **Related documents**
+https://datatracker.ietf.org/doc/draft-jholland-quic-multicast/
+https://datatracker.ietf.org/doc/draft-navarre-quic-flexicast/
+
+### RATS CoSERV - demo new features
+- **Champions**
+Paul Howard (paul.howard@arm.com)
+
+- **Project Info**
+CoSERV has introduced a new query mechanism based on RIM identifiers instead of environments.
+This project is to implement the new query style and to show a simple end-to-end demonstration of it interoperating between the Rust and Go implementations.
+
+Rust support for CoSERV is [here](https://github.com/veraison/coserv-rs).
+Go support for CoSERV is [here](https://github.com/veraison/corim/tree/main/coserv).
+
+- **Related Documents**
+https://datatracker.ietf.org/doc/draft-ietf-rats-coserv/
+
+
+### MyTerms - LF and browser integrations
+- **Champions**
+Ben Curtis (ietf@nowsci.com)
+
+- **Project Info**
+MyTerms establishes a technical framework for Verifiable Contractual Agreements (VCAs) between individuals and entities, allowing individuals to proffer their privacy and data usage requirements in a format that can be read, acknowledged, and agreed to by both humans and machines.
+
+- **Hackathon Plan**
+  - Architecture: Integration into Linux Foundation's community project - LF is building a verifiable community system through Decentralized Trust Labs who's initial target community is the Linux kernel developers for which MyTerms has been identified as a platform for TOS agreements. This part of the hackathon will be to architect how MyTerms could be integrated.
+  - Development: Browser-based signing - Building out a client-side implementation to handle the negotiation and cryptographic signing of agreements directly within web browsers that can interface with password managers.
+  - Any other interesting ideas
+  
+- **Related documents**
+
+- [MyTerms Draft](https://datatracker.ietf.org/doc/draft-curtis-myterms/)
+- [Mailing list thread](https://mailarchive.ietf.org/arch/msg/hackathon/klr8IeCHZMvLSgyA7e2Se3PxTF8/)
 
 
 - **Links**

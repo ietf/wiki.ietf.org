@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-09T15:03:39.415Z
+date: 2026-07-11T23:04:09.458Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -19,9 +19,6 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 ## Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 126, or the joint meetings with the IAB.
 
-- Joint session: 4052bis and 4053bis (Suresh Krishnan)
-- Joint session: IAB Workshop Proposal for PQC (Nick)
-- Joint session: Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78) (Dhruv, Warren, Eric, Yaroslav, Gorry) (if there is time)
 - At some point the WIT ADs need to mention that the second part of WITArea meeting (Wed) will be about "Foo over Internet Transport", recognising there are now >12 drafts proposed across many areas (Gorry/Mike).
 
 # IESG Activities
@@ -84,9 +81,11 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: WIT, ART, SEC, GEN, IAB, OPS, IRTF, RTG, INT
->3. Liaison RFCs bis Update (15 min)
->4. Update on IAB Workshop Proposal for PQC (Nick)
->5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78) (Dhruv, Warren, Eric, Yaroslav, Gorry) 
+>3. Liaison RFCs bis Update (15 min) (Suresh)
+>   Management of IETF Liaison Relationships - [4052bis](https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/)
+>   Handling Liaison Statements - [4053bis](https://datatracker.ietf.org/doc/draft-iab-rfc4053bis/)
+>4. [Update on proposed IAB Workshop on PQC](https://docs.google.com/document/d/16wcjKnE15bS0ygEsl6Ovrh1se7dHXkcBPkBUjCg4EHU/edit) (Nick, Yaroslav)
+>5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855) (Dhruv, Warren, Eric, Yaroslav, Gorry) 
 
 
 
@@ -127,7 +126,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 > 1. Plenary Slide Review + Prep
 
 
-### 15:30-16:00 - IPPM/BMWG Joint Charter (Med) 
+
 
 
 ### 17:30-19:30 - IETF 126 Plenary (Room: Grand Park Hall 1/2/3)
@@ -175,17 +174,11 @@ This room is available for anyone on the IESG, for AD office hours or any meetin
 
 If you would like your meeting to be added to the main meeting agenda, please email support or ask Liz directly!
 
-## Saturday, July 18, 2026
-**PLEASE NOTE: NOT AVAILABLE BEFORE 09:00.**
-**PLEASE NOTE: AV MAY NOT BE AVAILABLE.**
-
-* TIME - TIME -- Thing (Person responsible)
-* 16:00 - 17:00 -- AGENTPROTO BoF Prep (Charles/Andy) 
-
 ## Sunday, July 19, 2026
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * TIME - TIME -- Thing (Person responsible)
+* 13:00 - 14:00 -- AGENTPROTO BoF Prep (Charles/Andy) 
 * 14:00 - 15:00 -- RTG AD Office Hours (Ketan/Jim/Gunter) 
 * 15:00 - 16:00 -- WIT AD Office Hours (Gorry Fairhurst, Mike Bishop) 
 
@@ -210,8 +203,9 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Wednesday, July 22, 2026
 
 * TIME - TIME -- Thing (Person responsible)
-* 09:00 - 11:00 -- EMAILCORE A/S -- Andy
+* 09:00 - 11:00 -- draft-ietf-regext-rdap-extensions -- Andy on behalf of Med
 * 11:00 - 12:00 -- INT AD Office Hour (Éric/Tommy)
+* 15:30 -16:00  -- IPPM/BMWG Joint Charter (Med) 
 * 1800 - 1830 -- Pre-Plenary relaxation time (Éric V)
 
 

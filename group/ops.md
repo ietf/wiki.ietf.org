@@ -2,7 +2,7 @@
 title: OPS Area (Operations & Management)
 description: 
 published: true
-date: 2025-04-01T21:58:45.919Z
+date: 2026-07-10T16:01:09.387Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:25:37.192Z
@@ -35,6 +35,24 @@ Note that these are just the personal views and advice from the current OpsAD - 
 
 RFC 5706 Appendix A. - "Guidelines for Considering Operations and Management of New Protocols and Protocol Extensions" (https://tools.ietf.org/html/rfc5706) contains a checklist which is also very helpful. As a side note, we are considering this RFC for a bis. If you are interested, do let us know.
 
+### AI in Operations (AIOPS)
+
+AI/ML techniques are increasingly applied to network operations — anomaly detection,
+closed-loop remediation, intent translation, autonomous device management — but the
+related IETF drafts remain scattered across OPSAWG, NMOP, and individual submissions with
+no chartered home. The Management AD has posted evaluation guidance covering the current
+landscape, categories of work suited to IETF standardization, and open questions: see
+[AI-Driven Network Operations: Evaluation Guidelines](https://wiki.ietf.org/e/en/group/ops/aiops).
+
+**Side meeting — IETF 126, Vienna:** Friday, July 24, 08:00 local time, Park Suite 4.
+Remote participation via [WebEx](https://ietf.webex.com/meet/sidemeetings1). The meeting
+will discuss open technical questions in this space and whether the outcome supports
+taking a working group proposal directly to the IESG.
+
+**Discuss:** [ainetops@ietf.org](mailto:ainetops@ietf.org)
+([archive](https://mailarchive.ietf.org/arch/browse/ainetops/)) ·
+[opsawg@ietf.org](mailto:opsawg@ietf.org)
+([archive](https://mailarchive.ietf.org/arch/browse/opsawg/))
 
 
 ### DNS 
