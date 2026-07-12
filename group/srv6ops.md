@@ -2,7 +2,7 @@
 title: SRv6OPS
 description: Welcome to the SRv6OPS WG Wiki
 published: true
-date: 2026-01-21T04:25:14.316Z
+date: 2026-07-12T05:14:15.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T04:07:24.017Z
@@ -31,9 +31,10 @@ This Wiki contains additional information for the IETF [SRv6OPS](https://datatra
 |------:|-----------:|------------|-----------|-----------|---------|---------------|------|
 | 1 | **1983** | 2025-03-13 | Incoming | ITU-T SG11 → IETF (spring, srv6ops) | For information | ITU-T SG11 notified the IETF of a new work item initially titled **QSTR.MVC “Method for Verifying Conformance to SRv6”**, inviting awareness and coordination. | https://datatracker.ietf.org/liaison/1983/ |
 | 2 | **1990** | 2025-04-23 | Outgoing | IETF (6man, bmwg, INT, OPS, opsawg, RTG, spring, srv6ops) → ITU-T SG11 | For action | IETF response to Liaison 1983, acknowledging the work item, providing technical context, and outlining how SRv6 work is handled in the IETF. | https://datatracker.ietf.org/liaison/1990/ |
-| 3 | **2016** | 2025-07-16 | Incoming | ITU-T SG11 → IETF (srv6ops) | For information | ITU-T SG11 replied to **IETF SRv6OPS-LS1**, clarified the work item name to **QSTR.SRv6_conf**, and provided status/context on the study item. | https://datatracker.ietf.org/liaison/2016/ |
-| 4 | **2017** | 2025-07-17 | Outgoing | IETF (bmwg, srv6ops) → ITU-T SG11 | For information | IETF follow-up reply to Liaison 2016, continuing coordination and restating IETF positions related to SRv6 conformance and measurement. | https://datatracker.ietf.org/liaison/2017/ |
-| 5 | **2103** | 2026-01-19 | Incoming | ITU-T SG11 → IETF (bmwg, srv6ops) | For action | ITU-T SG11 sent a reply to **IETF SRv6OPS-LS1 and SRv6OPS-LS2**, updating progress on **QSTR.SRv6_conf** and requesting further IETF input. | https://datatracker.ietf.org/liaison/2103/ |
+| 3 | **2016** | 2025-07-16 | Incoming | ITU-T SG11 → IETF (srv6ops) | For information | ITU-T SG11 clarified the work item name to **QSTR.SRv6_conf**, and provided status/context on the study item. | https://datatracker.ietf.org/liaison/2016/ |
+| 4 | **2017** | 2025-07-17 | Outgoing | IETF (bmwg, srv6ops) → ITU-T SG11 | For information | IETF follow-up reply to Liaison 2016, continuing coordination and restating IETF positions related to SRv6 conformance and measurement. Sent by OPS ADs| https://datatracker.ietf.org/liaison/2017/ |
+| 5 | **2103** | 2026-01-19 | Incoming | ITU-T SG11 → IETF (bmwg, srv6ops) | For action | Request feedback on their documents | https://datatracker.ietf.org/liaison/2103/ |
+| 6 | **2158** | 2026-04-27 | Incoming | ITU-T SG11 → IETF (spring, srv6ops) | For information | A new work item Q.SRv6-DPTM "Data plane test methods for devices supporting Segment Routing over IPv6" | https://datatracker.ietf.org/liaison/2158/ |
 
 ---
 
