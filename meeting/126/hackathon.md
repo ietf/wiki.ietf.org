@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-12T15:37:52.110Z
+date: 2026-07-12T15:40:02.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1507,6 +1507,24 @@ Go support for CoSERV is [here](https://github.com/veraison/corim/tree/main/cose
 
 - **Related Documents**
 https://datatracker.ietf.org/doc/draft-ietf-rats-coserv/
+
+
+### MyTerms - LF and browser integrations
+- **Champions**
+Ben Curtis (ietf@nowsci.com)
+
+- **Project Info**
+MyTerms establishes a technical framework for Verifiable Contractual Agreements (VCAs) between individuals and entities, allowing individuals to proffer their privacy and data usage requirements in a format that can be read, acknowledged, and agreed to by both humans and machines.
+
+- **Hackathon Plan**
+  - Architecture: Integration into Linux Foundation's community project - LF is building a verifiable community system through Decentralized Trust Labs who's initial target community is the Linux kernel developers for which MyTerms has been identified as a platform for TOS agreements. This part of the hackathon will be to architect how MyTerms could be integrated.
+  - Development: Browser-based signing - Building out a client-side implementation to handle the negotiation and cryptographic signing of agreements directly within web browsers that can interface with password managers.
+  - Any other interesting ideas
+  
+- **Related documents**
+
+- [MyTerms Draft](https://datatracker.ietf.org/doc/draft-curtis-myterms/)
+- [Mailing list thread](https://mailarchive.ietf.org/arch/msg/hackathon/klr8IeCHZMvLSgyA7e2Se3PxTF8/)
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
