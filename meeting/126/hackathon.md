@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-12T15:21:26.346Z
+date: 2026-07-12T15:37:52.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -722,7 +722,10 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
   - Viacheslav Dubeyko
   - Jean-Marie Jacquet
   - Songbo Bu
+  - Pavel Nikonorov
   - (Please feel free to add your name here)
+
+Potential collaboration with project AEP × Veraison: Anton Sokolov
 
 - **Drafts vulnerable to CVE-2026-33697**
       - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
