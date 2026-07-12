@@ -1455,6 +1455,13 @@ The RP project supports:
 - **Related Documents**
 -- https://datatracker.ietf.org/doc/draft-su-sidrops-rpki-rp-incremental-validation/
 
+### MUD, TEAP, and IoT stuff
+- **Champions**
+Eliot Lear (lear@lear.ch)
+- **Project Info**
+This project looks to improve hostap to match [TEAPv2](https://datatracker.ietf.org/doc/draft-ietf-emu-teapv2/) [1] as well as to look at improvements to both [MUD improvements](https://datatracker.ietf.org/doc/draft-lear-iotops-mudextras/) and improvements to [MudMaker](https://mudmaker.org/mudmaker)[2].
+-- Most of the code for TEAPv2 should be present [a fork of hostap](https://github.com/elear/hostap-teapv2), but some additional work is needed to the TLS interface.
+-- On the MUD front, we need to look at handling a new use case, which is that of IT/OT contract management, as well as cleaning up some bits and bobs, like multicast and broadcast.
 ### DRIP End-to-End Implementation (DNS/DNSSEC)
 - **Champions**
 Sandoche BALAKRICHENAN (sandoche.balakrichenan@afnic.fr)
@@ -1530,11 +1537,13 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
 - [MyTerms Draft](https://datatracker.ietf.org/doc/draft-curtis-myterms/)
 - [Mailing list thread](https://mailarchive.ietf.org/arch/msg/hackathon/klr8IeCHZMvLSgyA7e2Se3PxTF8/)
 
-----
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+- **Links**
+[1] https://datatracker.ietf.org/doc/draft-ietf-emu-teapv2/)
+[2] https://datatracker.ietf.org/doc/draft-lear-iotops-mudextras/
 
 ----
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
 
 ```markdown
 ### Your Project
