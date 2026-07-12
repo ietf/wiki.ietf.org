@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-07-07T23:13:53.763Z
+date: 2026-07-12T12:17:57.113Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -123,11 +123,11 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |AUTH48-DONE|- | Andrew |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | AUTH48-DONE| - | Dhruv | 
-|draft-ietf-pce-sr-bidir-path|MISSREF|waiting for draft-ietf-pce-multipath|Dhruv| 
-|draft-ietf-pce-circuit-style-pcep-extensions|EDIT|-|Dhruv|
-|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | Editor queue | Post IESG | Adrian
+| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |in-progress, awaiting publisher|- | Andrew |
+| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | blocked, publish incomplete(?)| - | Dhruv | 
+|draft-ietf-pce-sr-bidir-path|in-progress, formatting|-|Dhruv| 
+|draft-ietf-pce-circuit-style-pcep-extensions|in-progress, awaiting 1st editor|-|Dhruv|
+|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | blocked, intake form pending | - | Adrian
 
 ## Recent RFCs
 
