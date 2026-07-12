@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-07-12T12:44:52.799Z
+date: 2026-07-12T12:54:51.453Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -60,12 +60,12 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | Remarks |Action|
 | --- | --- | --- |
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | EXPIRED; -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
-| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -09 posted on 2025-09-30 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
+| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -10 posted on 2026-04-03 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -09 posted on 2026-02-20  | waiting for spring draft for WGLC |
-| draft-ietf-pce-pcep-srv6-yang |  -08 posted on 2025-10-14 | - |
-|draft-ietf-pce-bier-te | -03 posted on 2026-01-06 | Needs more review |
-| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -04 posted on 2025-11-25 | - |
+| draft-ietf-pce-pcep-srv6-yang |  -09 posted on 2026-05-13 | Model refactoring to make SR as generic container |
+| [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -05 posted on 2026-06-23 | - |
 |draft-ietf-pce-pcep-bfd-parameters|-02 posted on 2026-02-24 | - |
+|draft-ietf-pce-bier-te | -03 posted on 2026-01-06 | Needs more review |
 | draft-ietf-pce-operational| -03 refresh. | May 'live' with WG for long while | 
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
@@ -76,7 +76,7 @@ Once the chairs have concluded the document would move to the actual WG LC queue
 
 |Draft|Imp Sec|Op Sec|Remarks|Action|
 | --- | --- | --- | ---|---|
-|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -14 posted on 2025-10-13 | Has Normative dependencies, thus need to wait |
+|[draft-ietf-pce-sr-path-segment](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-path-segment) | Y | Y | -15 posted on 2026-04-20 | Has Normative dependencies, thus need to wait |
 | draft-ietf-pce-pcep-extension-pce-controller-p2mp | Y | Y| -01 posted on 2026-02-10 | - |
 
 
