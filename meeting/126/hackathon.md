@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-12T15:40:02.835Z
+date: 2026-07-12T19:53:34.252Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -696,9 +696,13 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
  		[Thursday, July 23, 2026, 19:00-20:00 ( Europe/Vienna ) · Park Suite 4](https://sidemeetings.ietf.org/)
 
  - **Hackathon Plan (Potential Working Items)**
-    - Using KIRA as ACP Routing protocol for ANIMA
-    - Using KIRA together with FRR: KIRA can be used to configure and set up FRR entities
-    - Using KIRA with a mesh of Raspberry Pis
+   - Using KIRA as ACP Routing protocol for ANIMA
+     - Running BRSKI and GRASP based on KIRA's IPv6 connectivity
+   - Using KIRA together with FRR, bird, etc.:
+     - KIRA's IPv6 connectivity can be used to configure and set up routing daemon entities
+     - Use docker containers with kirad together with frr/bird/etc., e.g., for distributed test automation.
+   - Using KIRA with a mesh of Raspberry Pis
+
 
  - **Technologies**
    - Rust (Kirad)
