@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-10T16:28:22.893Z
+date: 2026-07-12T15:21:26.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -729,9 +729,35 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
       - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
       - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
 
+- **Project Motivation**
+   > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
+   > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
+   > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
+   > - https://thenextgentechinsider.com/pulse/critical-flaw-discovered-in-confidential-computing-attestation-protocols
+   > - https://www.securitylab.ru/news/574545.php
+   > - Russian https://www.securitylab.ru/news/574545.php
+   > - German https://www.blogspan.net/confidential-computing-attestierung-relay-luecke/
+   > - https://dailysecurityreview.com/resources/cve-2026-33697-attested-tls-relay-flaw-hits-whatsapp-cocos-ai/
+   > - Chinese https://finance.sina.cn/tech/2026-07-04/detail-inifscxt9953361.d.html
+   > - https://data4biz.com/articles/una-falla-rompe-la-fiducia-del-confidential-computing
+   > - Japanese https://blackhatnews.tokyo/archives/119915
+   > - https://www.dugganusa.com/post/confidential-computing-s-whole-pitch-is-trust-the-proof-not-the-cloud-two-years-of-formal-verifi
+   > - https://post.smzdm.com/p/a82ol990/
+   > - Russian https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
+   > - Chinese https://blog.csdn.net/weixin_42376192/category_13096766.html
+   > - https://daily.dev/posts/bad-epoll-hits-99-reliability-sharepoint-rce-under-active-exploitation-zgp0yt8lh
+   > - https://meterpreter.org/attested-tls-vulnerability-cve-2026-33697/
+   > - https://osintsights.com/confidential-computing-flaws-expose-trust-risks
+   > - https://www.boerse-express.com/news/articles/digitale-souveraenitaet-vergabebeschleunigungsgesetz-staerkt-europaeische-cloud-ab-juli-924836
+   > - Turkish: https://hardwaremania.com/haber/arastirma-attested-tls-confidential-computing-icin-zayif-kaliyor/
+   > - https://akber.com/sovereignty-in-the-cloud-is-an-illusion/
+   > - https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
+   > - German https://www.ad-hoc-news.de/wissenschaft/digitale-souveraenitaet-bundesregierung-beschliesst-34-punkte-paket/69692503
+
+
+
 - **Implementations vulnerable to CVE-2026-33697**
       - [Meta’s Private Processing for WhatsApp](https://ai.meta.com/static-resource/private-processing-technical-whitepaper)
-      - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
       - [Cocos AI](https://github.com/ultravioletrs/cocos)
       - [Confidential Computing Consortium (CCC)  Attestation SIG's adopted project](https://github.com/ccc-attestation/attested-tls-poc)
 
