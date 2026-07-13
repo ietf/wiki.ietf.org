@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-13T16:03:24.864Z
+date: 2026-07-13T18:10:31.849Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -190,7 +190,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * TIME - TIME -- Thing (Person responsible)
 * tbc: 1100 - 1130 (could be slightly longer though) -- Pre-BoF for DAWN (Éric V)
 * 1245-1345 - Sec AD hours (Cooley/Inacio)
-
+* 14:00 - 16:00 -- rdap-extensions/rdap-versioning Discussion (Med)
 
 
 ## Tuesday, July 21, 2026
@@ -204,7 +204,6 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * TIME - TIME -- Thing (Person responsible)
 * 07:30 - 09:00 -- Benno is borrowing the room for the 2025 NomCom to meet (Benno/secretariat)
-* 09:00 - 11:00 -- draft-ietf-regext-rdap-extensions -- Andy on behalf of Med
 * 11:00 - 12:00 -- INT AD Office Hour (Éric/Tommy)
 * 15:30 -16:00  -- IPPM/BMWG Joint Charter (Med) 
 * 1800 - 1830 -- Pre-Plenary relaxation time (Éric V)
