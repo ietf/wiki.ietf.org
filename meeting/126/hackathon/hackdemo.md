@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-13T06:57:41.237Z
+date: 2026-07-13T11:44:05.607Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -19,7 +19,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-| Add Oper State Visibility to IETF-L3VPN-SVC with YANG Push Telemetry | Ian Farrer, Kris Lambrechts | ifarrer@telekom.de , kris@intwine.net  | https://github.com/stratoweave |
+| Add Oper State Visibility to IETF-L3VPN-SVC with YANG Push Telemetry | Ian Farrer, Kris Lambrechts | ian.farrer@telekom.de , kris@intwine.net  | https://github.com/stratoweave |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
