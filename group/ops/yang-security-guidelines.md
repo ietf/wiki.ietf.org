@@ -23,12 +23,12 @@ Further, if new RPC operations have been defined, then the security consideratio
 
 This section is modeled after the template described in Section 3.7.1 of [RFC-to-be draft-ietf-netmod-rfc8407bis].
 
-The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as Network Configuration Protocol (NETCONF) [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC8446], and QUIC [RFC9000]) and (2) have to use mutual authentication.
+The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as Network Configuration Protocol (NETCONF) [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC9846], and QUIC [RFC9000]) and (2) have to use mutual authentication.
 
 The Network Configuration Access Control Model (NACM) [RFC8341] provides the means to restrict access for particular NETCONF or RESTCONF users to a preconfigured subset of all available NETCONF or RESTCONF protocol operations and content.
 
 > Note: [RFC8341] (or a future RFC that replaces it) MUST be listed as a normative reference.
-> By default, [RFC4252], [RFC6241], [RFC8040], [RFC8446], [RFC9000], and [RFCAAAA] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
+> By default, [RFC4252], [RFC6241], [RFC8040], [RFC9846], [RFC9000], and [RFC9907] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
 
 ### Writable nodes section:
 
@@ -90,6 +90,7 @@ Modules that use the groupings that are defined in this document should identify
   * Nit: Fixed blockquote formatting [JM:2025-05-14]
   * Added note about normative and informative references [JM:2025-07-23]
   * Nit: clarified cross references [JM:2025-07-23]
+  * Updated RFC8446 to RFC9846 [Med: 2026-07-13] 
   
   
 
