@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-11T23:04:09.458Z
+date: 2026-07-13T16:03:24.864Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -203,6 +203,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Wednesday, July 22, 2026
 
 * TIME - TIME -- Thing (Person responsible)
+* 07:30 - 09:00 -- Benno is borrowing the room for the 2025 NomCom to meet (Benno/secretariat)
 * 09:00 - 11:00 -- draft-ietf-regext-rdap-extensions -- Andy on behalf of Med
 * 11:00 - 12:00 -- INT AD Office Hour (Éric/Tommy)
 * 15:30 -16:00  -- IPPM/BMWG Joint Charter (Med) 
