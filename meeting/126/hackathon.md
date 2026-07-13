@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-12T19:53:34.252Z
+date: 2026-07-13T06:59:52.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -530,10 +530,11 @@ The following are the primary links related to this Hackathon Project:
 
 
 ---
-### Add Operational State Visibility to IETF-L3VPN-SVC with Telemetry
+### Add Oper State Visibility to IETF-L3VPN-SVC with YANG Push Telemetry
 - **Champions**
 Ian Farrer <ian.farrer@telekom.de>
 Kris Lambrechts <kris@intwine.net>
+Kristian Larsson <k@centor.se>
 
 - **Project Info**
 The newly formed ONSEN WG is chartered with the creation, extension and maintenance of abstracted service and network YANG modules, such as the L3VPN service model. Currently, this model only includes nodes for configuration of service functionality ('config-true'). The ONSEN WG is chartered to extend the abstracted models to include state data to provide real-time visibility of how a provisioned customer service is currently performing based on collected telemetry, or operational state polling.
