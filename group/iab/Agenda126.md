@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-11T23:23:00.173Z
+date: 2026-07-13T01:06:13.906Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -112,6 +112,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 > Agenda:
 >
 > 1. ISOC topics (with Sally) - 60 mins
+> 2. Exec Session: Appeals Handling Discussion
 
 ### 16:00-16:30: New Work Help Desk
 
