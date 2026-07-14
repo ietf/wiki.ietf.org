@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T04:29:23.920Z
+date: 2026-07-14T04:31:54.108Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1579,7 +1579,7 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
   - Hackathon Network Emulation Framework: https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo (will be made available before the hackathon)
 
 
-### Interface to In-Network Computing Functions (I2ICF) Project
+### I2ICF Project for Physical AI Agents
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
@@ -1591,7 +1591,7 @@ The goal of the Interface to In-Network Computing Functions (I2ICF) is to demons
 [draft-an-nmrg-i2icf-cits-02]
 
 
-### An Integrated Security Service System for 5G Networks using an I2NSF Framework
+### I2NSF Project for Integrated 5G Edge Security Services
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
@@ -1600,7 +1600,7 @@ This work introduces a mobility-aware security framework for 5G edge networks ba
 [draft-ahn-nmrg-5g-security-i2nsf-framework-02]
 
 
-### IPv6 Wireless Access in Satellite Networks (IPWASN): Problem Statement and Use Cases
+### IPWASN Project for IPv6 Satellite Networking 
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
