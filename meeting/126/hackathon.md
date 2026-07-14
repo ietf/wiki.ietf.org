@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T04:31:54.108Z
+date: 2026-07-14T09:28:14.743Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1622,6 +1622,19 @@ Chengxiang Li (lichengxiang11@huawei.com)
 - **Project Info**
 Building on the foundation established at IETF 125, this project defines ACIP (Agent Communications Internet Protocol), a gateway-centric protocol enabling cross-domain Agent discovery, registration, and routing. ACIP introduces an architecture where devices are bound to specific Agents (underlay relationship), Agents register their skills to corresponding Gateways, and Gateways discover each other to route cross-domain calls — ensuring all inter-Agent communication goes through Gateways with no direct peer-to-peer links. The protocol includes core modules for Agent registration, Gateway discovery and synchronization, and cross-domain relay routing. Taking the home broadband scenario as a specific use case, this project demonstrates the workflow through an Elderly Fall Detection scenario: millimeter-wave radar detects a fall, the Home Personal Assistant Agent orchestrates the response by calling the See Link Agent via its Gateway to confirm the fall through the home camera, and the Digital Life Agent to retrieve vital signs via the smart band — followed by automated SMS notification to family members and video call connection to the smart screen. This demonstration reflects the feasibility and practical value of ACIP in enabling efficient, automated inter-Agent collaboration across isolated cloud domains for carrier-grade home broadband services.
 
+### DDoS Defense with CoAP Task Resources
+- **Champions**
+Linzhe Li (lilz@zgclab.edu.cn)
+Mingzhe Xing (xingmz@zgclab.edu.cn)
+Yujia Gao (gaoyj@zgclab.edu.cn)
+- **Project Info**
+This project demonstrates how CoAP Task Resources can be used to deploy DDoS defense policies as observable asynchronous tasks.
+
+  In the demo, a control center acts as a CoAP Task Client and a DDoS cleaning device acts as a CoAP Task Server. The control center creates a task for sequential policy deployment, including cleaning policy, ACL, BGP FlowSpec, BGP diversion, and mitigation verification. The cleaning device reports task state, progress, diagnostics, and per-step results through `/tasks/{id}`.
+
+* Related Drafts:
+  * https://datatracker.ietf.org/doc/draft-li-coap-task-resources/
+  
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
 
