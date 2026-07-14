@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T16:55:46.324Z
+date: 2026-07-14T21:56:12.072Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1645,6 +1645,45 @@ This project demonstrates how CoAP Task Resources can be used to deploy DDoS def
 
 * Related Drafts:
   * https://datatracker.ietf.org/doc/draft-li-coap-task-resources/
+  
+### Implementing Ascon Lightweight Cryptographic Suite over COSE
+- **Champions**  
+  Dmytro Ochkas (dmytro.ochkas@imt-atlantique.fr)
+- **Project Info**  
+  Ascon is the NIST-standardized lightweight cryptographic suite, specifically designed for constrained devices and low-resource environments. Likewise, CBOR Object Signing and Encryption (COSE) provides compact cryptographic data structures for securing constrained applications. It serves as the security foundation for protocols such as OSCORE, EDHOC, and CWT. This project implements the Ascon cryptographic suite in COSE, enabling these protocols to benefit from reduced computational cost, memory footprint, and communication overhead.
+
+  Following the ongoing work in [draft-ochkas-cose-ascon](https://datatracker.ietf.org/doc/draft-ochkas-cose-ascon/), we integrate Ascon-AEAD128 for COSE encryption and Ascon-Hash256 for COSE MAC and HKDF operations.
+
+- **Work Plan**
+  1. In [ascon-c](https://github.com/dmochkas/ascon-c) library, implement Ascon-AEAD128 with tag truncation.
+  2. In [libcose](https://github.com/dmochkas/libcose), integrate `ascon-c` into the COSE encryption API.
+  3. In `libcose`, implement HMAC with Ascon-Hash256 and integrate it with the COSE HKDF API.
+  4. Validate the benefits of COSE with the Ascon suite by deploying it on constrained devices.
+
+- **Deployment**  
+  We install COSE with Ascon on two OSCORE-aware constrained underwater nodes. The complete communication stack consists of:
+
+  1. **AHOI PHY** – Physical layer of the AHOI underwater acoustic modem.
+  2. **SCHC** – Static Context Header Compression, an adaptation layer that reduces the overhead of upper-layer protocols from 50–80 bytes to just a few bytes.
+  3. **IPv6/UDP/CoAP** – Standard IoT protocol stack.
+  4. **OSCORE (\w COSE/Ascon)** – End-to-end security layer using the lightweight COSE/Ascon cryptographic suite.
+
+- **GitHub Repositories**  
+  We fork the original repositories to work on the projects independently. At the end of the Hackathon, we will propose pull requests with the new features.
+
+  - [ascon-c](https://github.com/dmochkas/ascon-c)
+  - [libcose](https://github.com/dmochkas/libcose)
+  - [uoscore-uedhoc](https://github.com/dmochkas/uoscore-uedhoc)
+
+- **Links**
+
+  - [draft-ochkas-cose-ascon](https://datatracker.ietf.org/doc/draft-ochkas-cose-ascon/)
+  - [NIST SP 800-232](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-232.pdf)
+  - [RFC 9052](https://datatracker.ietf.org/doc/rfc9052/)
+  - [RFC 9053](https://datatracker.ietf.org/doc/rfc9053/)
+  - [RFC 8724](https://datatracker.ietf.org/doc/rfc8724/)
+  - [RFC 8613](https://datatracker.ietf.org/doc/rfc8613/)
+  - [AHOI modem](https://dl.acm.org/doi/10.1145/3376921)
   
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
