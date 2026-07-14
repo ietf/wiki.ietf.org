@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-13T08:37:19.418Z
+date: 2026-07-14T02:20:37.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1577,6 +1577,41 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
 * **Related Documents**
   - QoO draft: https://datatracker.ietf.org/doc/draft-ietf-ippm-qoo/
   - Hackathon Network Emulation Framework: https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo (will be made available before the hackathon)
+
+
+### Interface to In-Network Computing Functions (I2ICF) Project
+- **Champions**
+Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project Info**
+The Interface to In-Network Computing Functions (I2ICF) is intended to provide a structured framework and a collection of interfaces that enable cloud-based users to control and observe mobile systems such as robotic AI agents and other moving devices. In this work, we present the I2ICF Intent Translator, which operates as part of the Intent Service Application and converts high-level user intents into actionable instructions for IoT devices, including Software-Defined Vehicles (SDVs). Furthermore, the study demonstrates how In-Network Computing Functions (ICFs) can be deployed for mobile platforms such as Software-Defined Vehicles (SDVs) and Unmanned Aerial Vehicles (UAVs), highlighting the processes involved in configuring, running, and supervising these in-network capabilities within a networked environment.
+
+- **Specifications**
+[draft-jeong-nmrg-i2icf-problem-statement-00]
+(https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/)
+[draft-jeong-nmrg-i2icf-framework-00]
+(https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/)
+[draft-an-nmrg-i2icf-cits-01]
+(https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/)
+
+
+### An Integrated Security Service System for 5G Networks using an I2NSF Framework
+- **Champions**
+Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project Info**
+This work proposes a mobility-aware distributed security   framework for 5G edge networks using the Interface to Network Security Functions (I2NSF) architecture. The proposed system uses Intent-Based Networking (IBN) to allow users or administrators to declare high-level security intents, which are translated into network and application policies.  Network-level security policies may be enforced through distributed Network Security Functions (NSFs) deployed near User Plane Functions (UPFs), while application-level policies may be enforced on User Equipment (UE) through distributed IBN Controllers.  This architecture is intended to support adaptive, context-aware, and distributed policy enforcement in response to dynamic edge conditions and user mobility scenarios such as handovers.  Closed-loop monitoring and analytics provide feedback for maintaining policy consistency across heterogeneous 5G environments.
+- **Specifications**
+[draft-ahn-nmrg-5g-security-i2nsf-framework-02]
+(https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/)
+
+
+### IPv6 Wireless Access in Satellite Networks (IPWASN): Problem Statement and Use Cases
+- **Champions**
+Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project Info**
+This work proposes use cases and a problem statement for IPv6Wireless Access in Satellite Networks (IPWASN). IPWASN aims at the IPv6-based wireless access in Non-Terrestrial Networks (NTNs), that is, satellite networks. It considers NTN characteristics such as dynamic topology, multi-hop communication over inter-satellite links, High-Altitude Platform Station (HAPS)-assisted relay paths, frequent handovers, variable link quality, and intermittent connectivity. Based on these characteristics, this document identifies key challenges in applying existing IPv6 protocols to NTN environments. It also analyzes the applicability of current IPv6 mechanisms and outlines requirements to support efficient data forwarding, Quality of Service (QoS), Segment Routing (SR)-based traffic engineering, and connectivity in satellite-based networks. This document discusses the problem statement and use cases of IPv6-based vehicular networking for Intelligent Transportation Systems (ITS). The main scenarios of vehicular communications are vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), and vehicle-to-everything (V2X) communications. First, this document explains use cases using V2V, V2I, and V2X networking. Next, for IPv6-based vehicular networks, it makes a gap analysis of current IPv6 protocols (e.g., IPv6 Neighbor Discovery, mobility management, as well as security and privacy).
+- **Specifications**
+[draft-lee-6man-ipv6-satellite-networks-00]
+(https://datatracker.ietf.org/doc/draft-lee-6man-ipv6-satellite-networks/)
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
