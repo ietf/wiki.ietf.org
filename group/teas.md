@@ -2,13 +2,17 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-07-12T05:20:48.837Z
+date: 2026-07-14T06:52:04.283Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
 ---
 
 > This page is related to an active IETF Working Group.
+---
+
+---
+
 {.is-success}
 ## IPR Disclosure Process
 
