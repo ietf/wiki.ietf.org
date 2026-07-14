@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T15:39:33.096Z
+date: 2026-07-14T16:55:46.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -578,6 +578,18 @@ https://datatracker.ietf.org/doc/draft-venhoek-nts-pool/
    - Pool software: https://github.com/pendulum-project/nts-pool
    - ntpd-rs with pool support: https://github.com/pendulum-project/ntpd-rs
    - chrony with pool support: https://github.com/pendulum-project/chrony
+   
+---
+### Roughtime
+- **Champions**
+Karen O'Donoghue (kodonog@pobox.com)
+Dieter Sibold (dsibold.ietf@posteo.com)
+- **Project Info**
+Interoperability testing between different implementations of Roughtime.
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/draft-ietf-ntp-roughtime/
+- **Repositories**
+	 - https://github.com/ietf-wg-ntp/Roughtime-interop-code
 
 ---
 ### Stream identification for SRv6 PREF
