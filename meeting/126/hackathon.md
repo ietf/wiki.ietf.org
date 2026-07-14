@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T02:20:37.748Z
+date: 2026-07-14T02:21:58.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1590,7 +1590,7 @@ The Interface to In-Network Computing Functions (I2ICF) is intended to provide a
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/)
 [draft-jeong-nmrg-i2icf-framework-00]
 (https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/)
-[draft-an-nmrg-i2icf-cits-01]
+[draft-an-nmrg-i2icf-cits-02]
 (https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/)
 
 
