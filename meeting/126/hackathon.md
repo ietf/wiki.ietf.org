@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T22:31:59.775Z
+date: 2026-07-14T22:34:49.300Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1685,6 +1685,47 @@ This project demonstrates how CoAP Task Resources can be used to deploy DDoS def
   - [RFC 8613](https://datatracker.ietf.org/doc/rfc8613/)
   - [AHOI modem](https://dl.acm.org/doi/10.1145/3376921)
   
+ ### Benchmarking different post-quantum (PQ) authentication methods for EDHOC
+- **Champions**  
+Lidia Pocero Fraile (pocero@isi.gr) 
+Panagiotis Alexandropoulos (alexandropoulos.p@athenarc.gr) 
+Apostolos Fournaris (fournaris@isi.gr) 
+Christos Koulamas (koulamas@isi.gr) 
+Evangelos Haleplidis (haleplidis@isi.gr) 
+- **Project Info**  
+This project benchmarks and compares different post-quantum (PQ) authentication methods for EDHOC, focusing on the signature-based authentication Method 0 using the PQ cipher suites defined in draft-ietf-lake-pqsuites and the KEM-based authentication Method 5 specified in the adopted draft-ietf-lake-authkem-edhoc. The goal is to evaluate their suitability for constrained IoT devices by measuring processing time, network overhead, memory footprint, and power consumption using different NIST-standardized and candidate post-quantum algorithms.  The hackathon will evaluate the proposed authentication methods on real constrained IoT platforms and in simulation environments, including network scenarios with packet loss, multi-hop topologies, and other realistic communication conditions. 
+- **Open-Source Repository**  
+The complete benchmarking framework is available as open source and includes: 
+* Extended uEDHOC implementation with PQ Method 0 and Method 5.  
+* Linux and Zephyr RTOS support.  
+* PQM4, PQClean, and liboqs cryptographic engines.  
+* Example configurations for Nordic nRF52840 hardware running OpenThread with EDHOC over CoAP, including support for CoAP Block-Wise Transfer (BWT).  
+* Example configurations for BabbleSim simulation environments to evaluate configurable network conditions. 
+
+Repository: https://github.com/LPFraile/PQ-EDHOC/tree/ietf-126-hackathon
+
+- **Hardware Available**  
+
+* Nordic nRF52840 devices running Zephyr RTOS and OpenThread for benchmarking PQ EDHOC implementations.  
+* Nordic Power Profiler Kit II (PPK2) for measuring processing time, current consumption, and energy during protocol execution. 
+
+- **Software Available**  
+
+* A BabbleSim-based simulation environment will be available to reproduce configurable network scenarios, including packet loss, multi-hop topologies, and different network configurations for reproducible benchmarking. 
+
+- **Hackaton Targets**
+During the hackathon, participants will: 
+* Configure benchmarking scenarios for PQ EDHOC authentication methods.  
+* Benchmark PQ signature-based (Method 0) and KEM-based (Method 5) authentication under the same conditions.  
+* Collect processing time, memory footprint, network overhead, and power consumption measurements.  
+* Evaluate different NIST-standardized and candidate post-quantum algorithms.  
+* Evaluate the protocols on real Nordic nRF52840 hardware and in BabbleSim simulation environments under different network conditions, including packet loss and multi-hop topologies. 
+
+- **Related Documents**
+- https://datatracker.ietf.org/doc/draft-ietf-lake-authkem-edhoc/ 
+- https://datatracker.ietf.org/doc/draft-ietf-lake-pqsuites/ 
+- RFC 9528 https://datatracker.ietf.org/doc/rfc9528/ 
+
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
 
