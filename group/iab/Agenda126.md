@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-13T01:06:13.906Z
+date: 2026-07-14T23:28:54.260Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -43,9 +43,10 @@ The Secretariat hosts a tour of the meeting space for leadership, followed by a 
 > 2. [IAB statement on Age-Based Restrictions](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing) (Mark) - 30 mins
 > 3. [Proposed PQC IAB Workshop Discussion](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?usp=sharing) (Nick) - 25 mins
 >    - Followup from Joint Session
-> 4. Exec Session: CCG Appointment (vote) - 5 mins
-> 5. Exec Session: RZERC Appointment (vote) - 10 mins
-> 6. Exec Session: Appeal Processing (vote) - 5 mins
+> 4. Approval of draft-iab-ip-geo-workshop-report (finish vote) - 5 mins
+> 5. Exec Session: CCG Appointment (vote) - 10 mins
+> 6. Exec Session: RZERC Appointment (record vote) - 0 mins
+> 7. Exec Session: Appeal Processing (vote) - 5 mins
 
 
 
