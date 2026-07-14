@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T21:56:12.072Z
+date: 2026-07-14T22:31:59.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1646,7 +1646,7 @@ This project demonstrates how CoAP Task Resources can be used to deploy DDoS def
 * Related Drafts:
   * https://datatracker.ietf.org/doc/draft-li-coap-task-resources/
   
-### Implementing Ascon Lightweight Cryptographic Suite over COSE
+### Implementing Ascon Lightweight Cryptographic Suite over COSE*
 - **Champions**  
   Dmytro Ochkas (dmytro.ochkas@imt-atlantique.fr)
 - **Project Info**  
