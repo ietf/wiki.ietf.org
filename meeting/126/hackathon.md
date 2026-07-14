@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T15:38:54.847Z
+date: 2026-07-14T15:39:33.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1641,7 +1641,7 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 - **Champions**
 tuexen@fh-muenster.de
 - **Project Info**
-Implementation of [draft-ietf-tcpm-rst-diagnostic-payload](https://datatracker.ietf.org/doc/draft-ietf-tcpm-rst-diagnostic-payload/) and [draft-ietf-tcpm-ack-rate-request](https://datatracker.ietf.org/doc/draft-ietf-tcpm-ack-rate-request/) for FreeBSD. Other TCP related activies welcome.
+Implementation of [draft-ietf-tcpm-rst-diagnostic-payload](https://datatracker.ietf.org/doc/draft-ietf-tcpm-rst-diagnostic-payload/) and [draft-ietf-tcpm-ack-rate-request](https://datatracker.ietf.org/doc/draft-ietf-tcpm-ack-rate-request/) for [FreeBSD](https://www.FreeBSD.org). Other TCP related activies welcome.
 
 ```markdown
 ### Your Project
