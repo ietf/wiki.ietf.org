@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T09:28:14.743Z
+date: 2026-07-14T09:34:41.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1625,7 +1625,6 @@ Building on the foundation established at IETF 125, this project defines ACIP (A
 ### DDoS Defense with CoAP Task Resources
 - **Champions**
 Linzhe Li (lilz@zgclab.edu.cn)
-Mingzhe Xing (xingmz@zgclab.edu.cn)
 Yujia Gao (gaoyj@zgclab.edu.cn)
 - **Project Info**
 This project demonstrates how CoAP Task Resources can be used to deploy DDoS defense policies as observable asynchronous tasks.
