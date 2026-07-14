@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T04:17:27.290Z
+date: 2026-07-14T04:29:23.920Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1583,7 +1583,7 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-The Interface to In-Network Computing Functions (I2ICF) is intended to provide a structured framework and a collection of interfaces that enable cloud-based users to control and observe mobile systems such as robotic AI agents and other moving devices. In this work, we present the I2ICF Intent Translator, which operates as part of the Intent Service Application and converts high-level user intents into actionable instructions for IoT devices, including Software-Defined Vehicles (SDVs). Furthermore, the study demonstrates how In-Network Computing Functions (ICFs) can be deployed for mobile platforms such as Software-Defined Vehicles (SDVs) and Unmanned Aerial Vehicles (UAVs), highlighting the processes involved in configuring, running, and supervising these in-network capabilities within a networked environment.
+The goal of the Interface to In-Network Computing Functions (I2ICF) is to demonstrate the feasibility of an I2ICF framework that translates natural language intent into real-time tracing and detection actions for moving objects. The framework provides a structured architecture and a collection of interfaces that enable cloud-based users to control and monitor mobile systems, such as robotic AI agents and other moving devices. In this work, a robot car fuses real-time camera and LiDAR data to detect and track a target object. An AI-based intent inference server converts natural language commands into structured tracing and detection workflows.
 
 - **Specifications**
 [draft-jeong-nmrg-i2icf-problem-statement-00]
@@ -1591,12 +1591,11 @@ The Interface to In-Network Computing Functions (I2ICF) is intended to provide a
 [draft-an-nmrg-i2icf-cits-02]
 
 
-
 ### An Integrated Security Service System for 5G Networks using an I2NSF Framework
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-This work proposes a mobility-aware distributed security   framework for 5G edge networks using the Interface to Network Security Functions (I2NSF) architecture. The proposed system uses Intent-Based Networking (IBN) to allow users or administrators to declare high-level security intents, which are translated into network and application policies.  Network-level security policies may be enforced through distributed Network Security Functions (NSFs) deployed near User Plane Functions (UPFs), while application-level policies may be enforced on User Equipment (UE) through distributed IBN Controllers.  This architecture is intended to support adaptive, context-aware, and distributed policy enforcement in response to dynamic edge conditions and user mobility scenarios such as handovers.  Closed-loop monitoring and analytics provide feedback for maintaining policy consistency across heterogeneous 5G environments.
+This work introduces a mobility-aware security framework for 5G edge networks based on the I2NSF architecture. It uses Intent-Based Networking (IBN) to translate high-level security intents into network-level and application-level policies. Network policies are enforced by distributed NSFs near UPFs, while application policies are applied on UEs. During an N2-based handover, the active policy context is transferred to the target NSF and activated before the user-plane path is switched. Closed-loop monitoring and analytics help maintain consistent policy enforcement across distributed 5G edge environments.
 - **Specifications**
 [draft-ahn-nmrg-5g-security-i2nsf-framework-02]
 
