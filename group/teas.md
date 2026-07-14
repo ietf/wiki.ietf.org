@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-07-14T06:52:04.283Z
+date: 2026-07-14T07:14:29.114Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -31,8 +31,8 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
 |No.| WG Document                                      | Chairs' Notes                                      | Date of Notes
 |---|--------------------------------------------------|----------------------------------------------------|---------------------------------
-|  1 | [draft-ietf-teas-5g-network-slice-application](https://datatracker.ietf.org/doc/draft-ietf-teas-5g-network-slice-application/) | Address comments from 3GPP: <br> - [TEAS WG outgoing LS](https://datatracker.ietf.org/liaison/2064/) <br> - [3GPP-TSG-RAN-WG3 LS reply](https://datatracker.ietf.org/liaison/2071/) <br> - [3GPP-TSG-SA LS reply](https://datatracker.ietf.org/liaison/2096/) | 2026-03-18
-|  2 | [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/) ^YDR^| In WG LC (ends July 31st 2026)  | 2026-02-11
+|  1 | [draft-ietf-teas-5g-network-slice-application](https://datatracker.ietf.org/doc/draft-ietf-teas-5g-network-slice-application/) | Address comments from 3GPP: <br> - [TEAS WG outgoing LS](https://datatracker.ietf.org/liaison/2064/) <br> - [3GPP-TSG-RAN-WG3 LS reply](https://datatracker.ietf.org/liaison/2071/) <br> - [3GPP-TSG-SA LS reply](https://datatracker.ietf.org/liaison/2096/) <br> On the agenda for IETF 126 | 2026-07-14
+|  2 | [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/) ^YDR^| In WG LC (ends July 31st 2026)  | 2026-07-11
 |  3 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist <br> On the agenda for IETF 126 | 2026-07-05
 |  4 | [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework| 2025-01-13
 |  5 | [draft-ietf-teas-composite-network-slices](https://datatracker.ietf.org/doc/draft-ietf-teas-composite-network-slices) | Issues raised during WG adoption | 2026-07-05
@@ -40,9 +40,9 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  7 | [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist | 2025-10-24
 |  8 | [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/oL5MyAavDkLk7b70yZujhStZThc/) | 2026-02-11
 |  9 | [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) ^YDR^ | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/1XvRXVrNIQqKfpxo-vtJpVK1Vj8/) | 2026-07-07
-| 10 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | In WGLC (ends July 31st 2026) <br> [IPR poll started](https://mailarchive.ietf.org/arch/msg/teas/rslxl2xapB79D_4-UAbRZCOaHjA/) | 2026-06-11
-| 11 | [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Ready for WGLC (as per Authors) | 2026-07-11
-| 12 | [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) ^Exp^ | Open issues exist | 2026-03-04
+| 10 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | In WGLC (ends July 31st 2026) | 2026-07-14
+| 11 | [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Ready for WGLC (as per Authors) <br> On the agenda for IETF 126 | 2026-07-14
+| 12 | [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) | On the agenda for IETF 126 | 2026-07-14
 | 13 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | Open issues exist | 2026-05-05
 | 14 | [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/) | Open issues exist | 2026-05-05
 | 15 | [draft-ietf-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-inplace-lsp-bw-update/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/Rm7M19pjev4do4CBC9rmLvylxOA/) | 2026-07-05
