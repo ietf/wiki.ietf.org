@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T14:54:46.953Z
+date: 2026-07-15T15:13:24.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1735,7 +1735,7 @@ Raghav Kejriwal (raghavkejriwal@gmail.com / r.kejriwal.22@abdn.ac.uk)
 Matthias Hofstätter (m@hfst.co)  
 Gorry Fairhurst (gorry@erg.abdn.ac.uk)
 - **Project Info**
-This project aims to implement a SCONE network element, capable of viewing and modifying SCONE throughput advice as required. Additionally, we aim to implement a policy enforcer, that measures transferred bytes between consecutive SCONE signals. The enforcer can then apply rate-limiting to clients whose behaviour does not conform to the throughput advice.  
+This project aims to implement a SCONE (Standard COmmunication with Network Elements) network element, capable of viewing and modifying SCONE throughput advice as required. Additionally, we aim to implement a policy enforcer, that measures transferred bytes between consecutive SCONE signals. The enforcer can then apply rate-limiting to clients whose behaviour does not conform to the throughput advice.  
 This demo will allow us to evaluate the use of SCONE for managing shared network resources, for example, in mobile networks or over satellite paths.
 - **Related Documents**
 draft-ietf-scone-protocol https://datatracker.ietf.org/doc/draft-ietf-scone-protocol/  
