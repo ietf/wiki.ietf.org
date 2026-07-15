@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T15:17:25.786Z
+date: 2026-07-15T15:17:40.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1731,8 +1731,8 @@ During the hackathon, participants will:
 
 ### Implementing a SCONE Network Element and Policy Enforcer
 - **Champions**
-Raghav Kejriwal (raghavkejriwal@gmail.com | r.kejriwal.22@abdn.ac.uk)  
-Matthias Hofstätter (matthias.hofstaetter@fau.de | m@hfst.co)  
+Raghav Kejriwal (raghavkejriwal@gmail.com | r.kejriwal.22@abdn.ac.uk)
+Matthias Hofstätter (matthias.hofstaetter@fau.de | m@hfst.co)
 Gorry Fairhurst (gorry@erg.abdn.ac.uk)
 - **Project Info**
 This project aims to implement a SCONE (Standard COmmunication with Network Elements) network element, capable of viewing and modifying SCONE throughput advice as required. Additionally, we aim to implement a policy enforcer, that measures transferred bytes between consecutive SCONE signals. The enforcer can then apply rate-limiting to clients whose behaviour does not conform to the throughput advice.  
