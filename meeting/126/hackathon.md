@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T16:24:50.153Z
+date: 2026-07-15T20:07:47.023Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1688,6 +1688,8 @@ This project demonstrates how CoAP Task Resources can be used to deploy DDoS def
   - [RFC 8613](https://datatracker.ietf.org/doc/rfc8613/)
   - [AHOI modem](https://dl.acm.org/doi/10.1145/3376921)
   
+----
+  
  ### Benchmarking different post-quantum (PQ) authentication methods for EDHOC
 - **Champions**  
 Lidia Pocero Fraile (pocero@isi.gr) 
@@ -1729,6 +1731,8 @@ During the hackathon, participants will:
 - https://datatracker.ietf.org/doc/draft-ietf-lake-pqsuites/ 
 - RFC 9528 https://datatracker.ietf.org/doc/rfc9528/ 
 
+----
+
 ### Implementing a SCONE Network Element and Policy Enforcer
 - **Champions**
 Raghav Kejriwal (raghavkejriwal@gmail.com | r.kejriwal.22@abdn.ac.uk)
@@ -1742,7 +1746,6 @@ draft-ietf-scone-protocol https://datatracker.ietf.org/doc/draft-ietf-scone-prot
 SCONE Working Group Charter https://datatracker.ietf.org/wg/scone/about/  
 
 ----
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
 
 ### TCP for FreeBSD
 - **Champions**
@@ -1750,6 +1753,7 @@ tuexen@fh-muenster.de
 - **Project Info**
 Implementation of [draft-ietf-tcpm-rst-diagnostic-payload](https://datatracker.ietf.org/doc/draft-ietf-tcpm-rst-diagnostic-payload/) and [draft-ietf-tcpm-ack-rate-request](https://datatracker.ietf.org/doc/draft-ietf-tcpm-ack-rate-request/) for [FreeBSD](https://www.FreeBSD.org). Other TCP related activies welcome.
 
+----
 
 ### DNS ADoX: Opportunistic Operator based SVCB transport signaling (OOTS)
 - **Champions**
@@ -1759,6 +1763,34 @@ This project will work on the latest version of the "Opportunistic Operator base
   * Interop testing between existing experimenal implementations
   * Testing of the new "oots" SvcParam key
   * Developing the specification by discussing the outstanding questions in the draft
+  
+----
+### Open Fibre Data Standard (OFDS)
+- **Champions**
+Dan York ( york@isoc.org )
+- **Project Info**
+This project will focus at the Hackathon on identifying existing maps of fibre / broadband networks, digitizing them into KML, converting them to OFDS, and including them in the current list of public data sets and demonstration map. There are also opportunities for participants to work with the current OFDS open source tools, improve documentation, and provide feedback on the current specification. See https://github.com/Open-Telecoms-Data/ofds-ietf-hackathon for more info.\
+\
+The Open Fibre Data Standard (OFDS) - ofds.info - is a format to describe fibre and broadband networks for analyzing and mapping Internet resilience at the infrastructure level. Network operators use many different formats for mapping their networks. OFDS is an attempt to provide a common language. ([see demonstration map](https://ofds-demo.opentelecomdata.org/))\
+\
+How can you ensure a reliable and resilient Internet connection... **if you do NOT know where the physical cables are?** How can you know your outage risk for a natural disaster or a power outage, if you don't know the physical routes of cables? This is what OFDS can assist with.\
+\
+OFDS is NOT (yet) an IETF standard. The specification was developed independently beginning in 2022 by a group of organizations including the World Bank, Mozilla, Internet Society, Internet Telecommunication Union (ITU), Liquid Intelligent Technologies, CSquared, and Digital Council Africa. The group is now seeking a permanent institutional home for OFDS in a standards development organization (SDO). They are here at IETF 126 to see if there is sufficient interest within the IETF to explore bringing it into the IETF process.
+- **Hackathon Activities**
+    * Finding maps of current broadband/fibre systems
+    * Digitizing maps into KML and OFDS
+    * Working with open source tools - KML2OFDS, OFDS Studio, CoVE - and improving tools and/or documentation
+    * Providing input into OFDS version 0.5
+    * Improving OFDS documentation
+    * Virtualization and other ideas... 
+- **Related Info**
+* [OFDS Site](https://ofds.info)
+* [OFDS Hackathon Plans](https://github.com/Open-Telecoms-Data/ofds-ietf-hackathon)
+* Related repositories: https://github.com/Open-Telecoms-Data
+
+----
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
+
 
 
 ```markdown
