@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T10:08:43.858Z
+date: 2026-07-15T11:00:42.786Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -426,9 +426,12 @@ Dmitry Belyavskiy (dbelyavs@redhat.com)
 - **Project Info**
 We are interested in providing PQ capabilities to the SSH protocol.
 
-1. We are implementing the draft GSS-API Key Exchange with hybrid ML-KEM (https://datatracker.ietf.org/doc/draft-kario-gss-keyex-pqc/) for OpenSSH (https://github.com/beldmit/openssh-portable/tree/beldmit-f45-103p1-gsshybrids, based on existing patches implementing GSS-API Key Exchange in OpenSSH) and libssh (https://gitlab.com/pzacik/libssh-mirror/-/tree/gssapi-kex-pqc)
-
+1. We are implementing the draft GSS-API Key Exchange with hybrid ML-KEM (https://datatracker.ietf.org/doc/draft-kario-gss-keyex-pqc/) 
 2. We are implementing pure ML-DSA signatures (https://datatracker.ietf.org/doc/draft-sfluhrer-ssh-mldsa/) for OpenSSH and libssh.
+
+Source code is available:
+for OpenSSH - https://github.com/beldmit/openssh-portable/tree/beldmit-f45-103p1-gsshybrids, based on existing patches implementing GSS-API Key Exchange in OpenSSH
+for libssh - https://gitlab.com/pzacik/libssh-mirror/-/commits/draft-sfluhrer-mldsa
 
 Docker image with a build: https://github.com/beldmit/openssh-ietf126-hackathon 
 
