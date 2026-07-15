@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-15T14:56:24.925Z
+date: 2026-07-15T15:29:45.166Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -61,7 +61,7 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1001
 > 
-> 1. (meeting relevant) BCP reclassification from PROCON (Roman)
+> 1. (meeting relevant) [BCP reclassification from PROCON](https://docs.google.com/document/d/1Sl8uUvPvhsCl4zF-ugeVJq7IG0f7p1zfYyyKf84NHSo/edit?tab=t.0#heading=h.rtvf4u7yw9kq) (Roman)
 > 2. (time sensitive) IANA updates/discussion (Sabrina)
 > 3. (time sensitive) Processing any appeal(s) (Roman)
 > 4. ?(not meeting relevant) New RPC document states (Jean)
