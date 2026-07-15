@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T15:17:40.366Z
+date: 2026-07-15T16:24:50.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1591,7 +1591,7 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
 
 * **Related Documents**
   - QoO draft: https://datatracker.ietf.org/doc/draft-ietf-ippm-qoo/
-  - Hackathon Network Emulation Framework: https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo (will be made available before the hackathon)
+  - Hackathon Network Emulation Framework: https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo
 
 
 ### I2ICF Project for Physical AI Agents
