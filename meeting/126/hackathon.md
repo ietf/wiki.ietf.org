@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T11:00:42.786Z
+date: 2026-07-15T14:54:46.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1728,6 +1728,18 @@ During the hackathon, participants will:
 - https://datatracker.ietf.org/doc/draft-ietf-lake-authkem-edhoc/ 
 - https://datatracker.ietf.org/doc/draft-ietf-lake-pqsuites/ 
 - RFC 9528 https://datatracker.ietf.org/doc/rfc9528/ 
+
+### Implementing a SCONE Network Element and Policy Enforcer
+- **Champions**
+Raghav Kejriwal (raghavkejriwal@gmail.com / r.kejriwal.22@abdn.ac.uk)  
+Matthias Hofstätter (m@hfst.co)  
+Gorry Fairhurst (gorry@erg.abdn.ac.uk)
+- **Project Info**
+This project aims to implement a SCONE network element, capable of viewing and modifying SCONE throughput advice as required. Additionally, we aim to implement a policy enforcer, that measures transferred bytes between consecutive SCONE signals. The enforcer can then apply rate-limiting to clients whose behaviour does not conform to the throughput advice.  
+This demo will allow us to evaluate the use of SCONE for managing shared network resources, for example, in mobile networks or over satellite paths.
+- **Related Documents**
+draft-ietf-scone-protocol https://datatracker.ietf.org/doc/draft-ietf-scone-protocol/  
+SCONE Working Group Charter https://datatracker.ietf.org/wg/scone/about/  
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
