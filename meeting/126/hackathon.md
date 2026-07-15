@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T20:14:09.794Z
+date: 2026-07-15T20:17:04.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1803,11 +1803,13 @@ Dan York ( york@isoc.org )
 - **Project Info**
 This project will focus at the Hackathon on identifying existing maps of fibre / broadband networks, digitizing them into KML, converting them to OFDS, and including them in the current list of public data sets and demonstration map. There are also opportunities for participants to work with the current OFDS open source tools, improve documentation, and provide feedback on the current specification. See https://github.com/Open-Telecoms-Data/ofds-ietf-hackathon for more info.\
 \
+Anyone is welcome to join in to this work! No prior experience is necessary.\
+\
 The Open Fibre Data Standard (OFDS) - ofds.info - is a format to describe fibre and broadband networks for analyzing and mapping Internet resilience at the infrastructure level. Network operators use many different formats for mapping their networks. OFDS is an attempt to provide a common language. ([see demonstration map](https://ofds-demo.opentelecomdata.org/))\
 \
 How can you ensure a reliable and resilient Internet connection... **if you do NOT know where the physical cables are?** How can you know your outage risk for a natural disaster or a power outage, if you don't know the physical routes of cables? This is what OFDS can assist with.\
 \
-OFDS is NOT (yet) an IETF standard. The specification was developed independently beginning in 2022 by a group of organizations including the World Bank, Mozilla, Internet Society, Internet Telecommunication Union (ITU), Liquid Intelligent Technologies, CSquared, and Digital Council Africa. The group is now seeking a permanent institutional home for OFDS in a standards development organization (SDO). They are here at IETF 126 to see if there is sufficient interest within the IETF to explore bringing it into the IETF process.
+OFDS is NOT (yet) an IETF standard. The specification was developed independently beginning in 2022 by a group of organizations including the World Bank, Mozilla, Internet Society, Internet Telecommunication Union (ITU), Liquid Intelligent Technologies, CSquared, and Digital Council Africa. The group is now seeking a permanent institutional home for OFDS in a standards development organization (SDO) and are at IETF 126 to see if there is sufficient interest within the IETF to explore bringing it into the IETF process.
 - **Hackathon Activities**
     * Finding maps of current broadband/fibre systems
     * Digitizing maps into KML and OFDS
