@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-06-07T06:20:23.485Z
+date: 2026-07-15T14:28:39.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,8 +52,9 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|July 2026|[Connections2026](https://connections.iiesoc.in/)|Regional|Participants|Dhruv, Mohit|[Slides](https://docs.google.com/presentation/d/1ebC6PvqeUCza_jRh9pFu6oZe5fH1uTUC22S0JSgggxA/edit)|
 |June 2026|[Nanog97](https://nanog.org/events/nanog-97/)|Operators|Participants|Yingzhen, Yaroslav|[slides](https://nanog.org/events/nanog-97/content/5762/)|
-|May 2026|[LACNIC45](https://lacnic45.lacnic.net)|Operators|Participants|Alvaro|[slides](https://apievt.lacnic.net/wp-content/uploads/2026/05/lacnic45-open-standards-keynote-alvaro-retana.pdf)|
+|May 2026|[LACNIC45](https://lacnic45.lacnic.net)|Operators|Participants|Alvaro|[slides](https://apievt.lacnic.net/wp-content/uploads/2026/05/lacnic45-open-standards-keynote-alvaro-retana.pdf)<br>[IAB Workshop Report](https://lacnic45.lacnic.net/en/programme/agenda/ip-geolocation-update)|
 |May 2026|[RIPE92](https://www.ripe.net/meetings/calendar/ripe-92/)|Operators|Participants|Gorry Fairhurst, Yaroslav Rosomakho, Mathew Bocci, Éric Vyncke, Dhruv Dhody|[BoF](https://ripe92.ripe.net/programme/meeting-plan/sessions/69/MSEYVY/)<br>[IAB Workshop Report](https://ripe92.ripe.net/programme/meeting-plan/sessions/109/ALJTW7/)|
 |March 2026|[RSAC 20206](https://www.rsaconference.com/usa)|Mixed|all levels|Yaroslav, Sam Curry|MASQUE [(slides)](https://drive.google.com/file/d/16oAWtkI3uFWPTrosGw8pGKZou8SqLitU/view) and WIMSE [(slides)](https://static.rainfocus.com/rsac/us26/sess/1755102056833001c43l/finalwebsite/2026_USA26_STR-R05_01_What-Are-You-Really-Authenticating-Workloads-in-a-Zero-Trust-World_1773107587429001fZJp.pdf)|
 |March 2026|[ICANN85](https://meetings.icann.org/en/meetings/icann85/)|Mixed|all levels|Dhruv, Warren, Pete, David, Sally|[GAC](https://icann.zoom.us/rec/play/9uhlJWM-mXPw0Y2lIke_LMWK0iz0i3AVNoo7-8FyTF_rE8_9T2kbV_DUVVyiwGw9mZhXaKhlMO9DG2DA.byLlHClbwR9VYCIf?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1773199878000&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FAgpqsMOj72qNBmdzJQ8bjxgFUt6PWib-1Kfg-5_-_RVgVJFoVCIt-paIAH5tBKOH.NCOpC7WaBZMdsIEt%3FstartTime%3D1773199878000)<br>[ALAC](https://icann.zoom.us/rec/share/45pZi1QKtQ9fRUOMzBZHgBcqNFKJDNIXGLPmectSTTSDVwHiQpdCumx9YoyUlaYp.jgeciaW4FGUUAflE?startTime=1772940772000)<br>[How it Works](https://icann.zoom.us/rec/play/0r5AsvGWq6qAZ04TVZhUi_fNK3uLSfDxfYoQqX0IyVCXzfK2Z6wiWklDZW7nWSu94N3MoWJXBEbjkUwJ.Srtsf5NDGkGDO41i?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1773054013000&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2F89927reyILuByB7Qto6LKE4LNIvRL1fGaV8qsWE1HQnKMtoXQFMsF6sDpmdfp0cG.FtubGwXJ0h5DOetq%3FstartTime%3D1773054013000)|
