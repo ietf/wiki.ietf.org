@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-14T22:34:49.300Z
+date: 2026-07-15T10:08:43.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1734,6 +1734,17 @@ Don’t see anything that interests you? Feel free to add a project to the list,
 tuexen@fh-muenster.de
 - **Project Info**
 Implementation of [draft-ietf-tcpm-rst-diagnostic-payload](https://datatracker.ietf.org/doc/draft-ietf-tcpm-rst-diagnostic-payload/) and [draft-ietf-tcpm-ack-rate-request](https://datatracker.ietf.org/doc/draft-ietf-tcpm-ack-rate-request/) for [FreeBSD](https://www.FreeBSD.org). Other TCP related activies welcome.
+
+
+### DNS ADoX: Opportunistic Operator based SVCB transport signaling (OOTS)
+- **Champions**
+Johan Stenstam (johan.stenstam@internetstiftelsen.se)
+- **Project Info**
+This project will work on the latest version of the "Opportunistic Operator based SVCB transport signaling (OOTS)" Internet draft, which is currently [hosted in GitHub](https://github.com/johanix/draft-johani-dnsop-transport-signaling/blob/main/draft-johani-dnsop-transport-signaling-03.md). Goals include
+  * Interop testing between existing experimenal implementations
+  * Testing of the new "oots" SvcParam key
+  * Developing the specification by discussing the outstanding questions in the draft
+
 
 ```markdown
 ### Your Project
