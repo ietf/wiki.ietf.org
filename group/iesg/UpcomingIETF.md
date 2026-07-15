@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-15T15:32:18.067Z
+date: 2026-07-15T15:32:48.607Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -69,7 +69,7 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 > 6. (not meeting relevant) Refine the outstanding requests on enhancing Datatracker participant profiles (Med/Mike)
 > 7. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
 >
-> Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday
+> Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
 >
 > Note2: Topics are prioritized if linked to IETF 126 events or if they are time sensitive
 
