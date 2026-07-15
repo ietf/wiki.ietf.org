@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-15T15:32:48.607Z
+date: 2026-07-15T17:26:17.894Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,7 +63,7 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 > 
 > 1. (meeting relevant) [BCP reclassification from PROCON](https://docs.google.com/document/d/1Sl8uUvPvhsCl4zF-ugeVJq7IG0f7p1zfYyyKf84NHSo/edit?tab=t.0#heading=h.rtvf4u7yw9kq) (Roman)
 > 2. (time sensitive) IANA updates/discussion (Sabrina)
-> 3. ?(not meeting relevant) New RPC document states (Jean)
+> 3. (not meeting relevant) New RPC document states and processing by the IESG (Jean)
 > 4. (time sensitive) Processing any appeal(s) (Roman)
 > 5. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
 > 6. (not meeting relevant) Refine the outstanding requests on enhancing Datatracker participant profiles (Med/Mike)
