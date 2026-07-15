@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T20:07:47.023Z
+date: 2026-07-15T20:14:09.794Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1087,6 +1087,8 @@ RFC8888
   - DAWN Requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/
   - DNS-AID draft: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
   - DAWN Proposed Charter: https://github.com/danielkinguk/discovery/blob/main/charter/
+  
+----
 
 ### cBRSKI IoT device onboarding protocol (interop)
 
@@ -1353,6 +1355,7 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 - **Project Info**
   Integrating advanced CoAP features into [RIOT](https://github.com/RIOT-OS/RIOT), PRs ([Block-wise transfer](https://datatracker.ietf.org/doc/html/rfc7959), [Observation](https://datatracker.ietf.org/doc/html/rfc7641)), Multicast, [OSCORE](https://datatracker.ietf.org/doc/html/rfc8613)
 
+----
 
 ### IPsec / IKEv2 interop and performance testing
 - **Champions**
@@ -1362,6 +1365,7 @@ This hackathon topic continues our evaluation of post-quantum cryptography (PQC)
 - **Project Info**
 Continued interop of IKEv2 drafts such as draft-ietf-ipsecme-ikev2-mlkem, draft-ietf-ipsecme-child-pfs-info, draft-ietf-ipsecme-ikev2-sa-ts-payloads-opt and IPsec performance testing for per-CPU Child SA's (RFC 9611), IPTFS (RFC 9347) and maybe some EESP  draft-ietf-ipsecme-eesp hacking.
 
+----
 
 ### Rocca-S for high throughput communication
 - **Champions**
@@ -1373,6 +1377,7 @@ This project aims to evaluate the throughput of encrypted communication in a 100
 Encryption algorithm Rocca-S
 https://datatracker.ietf.org/doc/draft-nakano-rocca-s/
 
+----
 
 ### Implementing PSK Support and embedded-cal Integration in Lakers
 - **Champions**
@@ -1385,6 +1390,8 @@ In addition, this project will integrate [embedded-cal](https://github.com/lake-
 EDHOC: [RFC9528](https://datatracker.ietf.org/doc/html/rfc9528)
 Lakers: https://github.com/lake-rs/lakers
 embedded-cal: https://github.com/lake-rs/embedded-cal/
+
+----
 
 ### Model for distributed authorization policy sharing
 - **Champions**
@@ -1404,6 +1411,8 @@ https://datatracker.ietf.org/doc/draft-cabanillas-nmop-authz-policy-sharing-mode
 - **Related Repositories**
 https://github.com/LuciaCabanillasRodriguez/authz-policy-sharing-model
 
+----
+
 ### GROWing BGP Terms & Security Documents
 - **Champions**
 Tobias Fiebig (tobias@internet.wien)
@@ -1414,6 +1423,8 @@ The idea for this group is doing a 'polishing run' on two currently active draft
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-ietf-grow-routing-ops-sec-inform/  
 https://datatracker.ietf.org/doc/draft-ietf-grow-routing-ops-terms/
+
+----
 
 ### Happy Eyeballs Webtester
 - **Champions**
@@ -1431,6 +1442,7 @@ https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/
 https://www.happy-eyeballs.net/
 https://github.com/happy-eyeballs/he-webtester
 
+----
 
 ### Issues and Incidents Identification using Agentic AI and Knowledge Graph
 - **Champions**
@@ -1446,6 +1458,7 @@ This project demonstrates how incidents [1] and issues [2] can be identified and
 [1] https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/
 [2] https://datatracker.ietf.org/doc/draft-yu-ccamp-sla-assurance-optical-yang/
 
+----
 
 ### A Publication-Point-Based Incremental Validation Procedure for RPKI Relying Parties
 
@@ -1471,6 +1484,8 @@ The RP project supports:
 - **Related Documents**
 -- https://datatracker.ietf.org/doc/draft-su-sidrops-rpki-rp-incremental-validation/
 
+----
+
 ### MUD, TEAP, and IoT stuff
 - **Champions**
 Eliot Lear (lear@lear.ch)
@@ -1478,6 +1493,9 @@ Eliot Lear (lear@lear.ch)
 This project looks to improve hostap to match [TEAPv2](https://datatracker.ietf.org/doc/draft-ietf-emu-teapv2/) [1] as well as to look at improvements to both [MUD improvements](https://datatracker.ietf.org/doc/draft-lear-iotops-mudextras/) and improvements to [MudMaker](https://mudmaker.org/mudmaker)[2].
 -- Most of the code for TEAPv2 should be present [a fork of hostap](https://github.com/elear/hostap-teapv2), but some additional work is needed to the TLS interface.
 -- On the MUD front, we need to look at handling a new use case, which is that of IT/OT contract management, as well as cleaning up some bits and bobs, like multicast and broadcast.
+
+----
+
 ### DRIP End-to-End Implementation (DNS/DNSSEC)
 - **Champions**
 Sandoche BALAKRICHENAN (sandoche.balakrichenan@afnic.fr)
@@ -1500,6 +1518,7 @@ Current implementation includes:
   - Test interoperability between independent DRIP implementations and identify implementation issues.
   - Demonstrate interoperable “running code” for the complete DRIP architecture and gather implementation experience to support ongoing work in the DRIP Working Group.
   
+----
 
 ### Minimal multicast extensions for QUIC
 - **Champions**
@@ -1521,6 +1540,8 @@ In this hackathon, the objective is to implement a minimal, interop-ready multic
 https://datatracker.ietf.org/doc/draft-jholland-quic-multicast/
 https://datatracker.ietf.org/doc/draft-navarre-quic-flexicast/
 
+----
+
 ### RATS CoSERV - demo new features
 - **Champions**
 Paul Howard (paul.howard@arm.com)
@@ -1535,6 +1556,7 @@ Go support for CoSERV is [here](https://github.com/veraison/corim/tree/main/cose
 - **Related Documents**
 https://datatracker.ietf.org/doc/draft-ietf-rats-coserv/
 
+----
 
 ### MyTerms - LF and browser integrations
 - **Champions**
@@ -1559,6 +1581,7 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
 [2] https://datatracker.ietf.org/doc/draft-lear-iotops-mudextras/
 
 
+----
 
 ### Quality of Outcome (QoO): Evaluation, Tooling, and Ecosystem Development
 
@@ -1593,6 +1616,7 @@ MyTerms establishes a technical framework for Verifiable Contractual Agreements 
   - QoO draft: https://datatracker.ietf.org/doc/draft-ietf-ippm-qoo/
   - Hackathon Network Emulation Framework: https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo
 
+----
 
 ### I2ICF Project for Physical AI Agents
 - **Champions**
@@ -1605,6 +1629,7 @@ The goal of the Interface to In-Network Computing Functions (I2ICF) is to demons
 [draft-jeong-nmrg-i2icf-framework-00]
 [draft-an-nmrg-i2icf-cits-02]
 
+----
 
 ### I2NSF Project for Integrated 5G Edge Security Services
 - **Champions**
@@ -1614,6 +1639,7 @@ This work introduces a mobility-aware security framework for 5G edge networks ba
 - **Specifications**
 [draft-ahn-nmrg-5g-security-i2nsf-framework-02]
 
+----
 
 ### IPWASN Project for IPv6 Satellite Networking 
 - **Champions**
@@ -1623,6 +1649,7 @@ This work proposes use cases and a problem statement for IPv6Wireless Access in 
 - **Specifications**
 [draft-lee-6man-ipv6-satellite-networks-00]
 
+----
 
 ### Agent Communications Internet Protocol
 - **Champions**
@@ -1637,6 +1664,8 @@ Chengxiang Li (lichengxiang11@huawei.com)
 - **Project Info**
 Building on the foundation established at IETF 125, this project defines ACIP (Agent Communications Internet Protocol), a gateway-centric protocol enabling cross-domain Agent discovery, registration, and routing. ACIP introduces an architecture where devices are bound to specific Agents (underlay relationship), Agents register their skills to corresponding Gateways, and Gateways discover each other to route cross-domain calls — ensuring all inter-Agent communication goes through Gateways with no direct peer-to-peer links. The protocol includes core modules for Agent registration, Gateway discovery and synchronization, and cross-domain relay routing. Taking the home broadband scenario as a specific use case, this project demonstrates the workflow through an Elderly Fall Detection scenario: millimeter-wave radar detects a fall, the Home Personal Assistant Agent orchestrates the response by calling the See Link Agent via its Gateway to confirm the fall through the home camera, and the Digital Life Agent to retrieve vital signs via the smart band — followed by automated SMS notification to family members and video call connection to the smart screen. This demonstration reflects the feasibility and practical value of ACIP in enabling efficient, automated inter-Agent collaboration across isolated cloud domains for carrier-grade home broadband services.
 
+----
+
 ### DDoS Defense with CoAP Task Resources
 - **Champions**
 Linzhe Li (lilz@zgclab.edu.cn)
@@ -1649,6 +1678,8 @@ This project demonstrates how CoAP Task Resources can be used to deploy DDoS def
 * Related Drafts:
   * https://datatracker.ietf.org/doc/draft-li-coap-task-resources/
   
+----
+
 ### Implementing Ascon Lightweight Cryptographic Suite over COSE*
 - **Champions**  
   Dmytro Ochkas (dmytro.ochkas@imt-atlantique.fr)
@@ -1765,6 +1796,7 @@ This project will work on the latest version of the "Opportunistic Operator base
   * Developing the specification by discussing the outstanding questions in the draft
   
 ----
+
 ### Open Fibre Data Standard (OFDS)
 - **Champions**
 Dan York ( york@isoc.org )
