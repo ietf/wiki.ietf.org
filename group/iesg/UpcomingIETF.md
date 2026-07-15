@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-15T17:26:17.894Z
+date: 2026-07-15T17:28:54.456Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -87,15 +87,14 @@ Please meet us in TBD, to begin our tour. If you are only joining for the happy 
 >4. [Update on proposed IAB Workshop on PQC](https://docs.google.com/document/d/16wcjKnE15bS0ygEsl6Ovrh1se7dHXkcBPkBUjCg4EHU/edit) (Nick, Yaroslav)
 >5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855) (Dhruv, Warren, Eric, Yaroslav, Gorry) 
 
+### 14:00-1600: [IAB afternoon meeting](https://wiki.ietf.org/group/iab/Agenda126)
 
-
-> Evening meeting events:
-> 
-> **New Participant's Quick Connections** 16:00-17:00
+### Evening Meeting Events
+> 16:00-17:00 **New Participant's Quick Connections** 
 >   Room: Selleny's Bar
-> **Welcome Reception** 17:00-19:00
+> 17:00-19:00 **Welcome Reception** 
 >   Room: Grand Park Hall 1/2/3
-> **HotRFC Lightning Talks** 18:00-20:00
+> 18:00-20:00 **HotRFC Lightning Talks** 
 >   Room: Grand Klimt 2
 {.is-info}
 
