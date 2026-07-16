@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T22:16:38.951Z
+date: 2026-07-16T23:02:37.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1940,18 +1940,14 @@ https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/
 
 **Champion:** Steven Mih (Action State Group) · steven@actionstate.ai · onsite in Vienna
 
-**At a glance.** A SCITT-anchored, tamper-evident record of what an AI agent did — verifiable by a party who trusts no one. Live producer, open verifier (Py+Go), live transparency service, frozen conformance vectors, multiple independent cross-verifications already passing. This project is about **composing the seams of the agent ecosystem** — discovery, authorization, enforcement, platform,
-transport, and the record that binds them — and anyone working on any layer is welcome, no prior coordination needed. **Bring any one of: a Transparency Service, a verifier, an authorization ("may"), an agent that transacts, or a producer of action statements — there's a seam below with your name on
-it.** Find your project in the goals list. **Interop results from this table will be reported in the Agent Action Capsule interop slot at the SCITT WG session (Friday, Jul 24)** — run something here, it gets cited there.
+**At a glance.** A SCITT-anchored, tamper-evident record of what an AI agent did — verifiable by a party who trusts no one. Live producer, open verifier (Py+Go), live transparency service, frozen conformance vectors, multiple independent cross-verifications already passing. This project is about **composing the seams of the agent ecosystem** — discovery, authorization, enforcement, platform, transport, and the record that binds them — and anyone working on any layer is welcome, no prior coordination needed. **Bring any one of: a Transparency Service, a verifier, an authorization ("may"), an agent that transacts, or a producer of action statements — there's a seam below with your name on it.** Find your project in the goals list. **Interop results from this table will be reported in the Agent Action Capsule interop slot at the SCITT WG session (Friday, Jul 24)** — run something here, it gets cited there.
 
 **Project info.** The **Agent Action Capsule** is a SCITT Signed-Statement profile for a content-private,third-party-verifiable record of an autonomous agent's consequential actions — the *what-it-did*: themay/did binding, the effect, and a verdict-level disposition (including refusals), anchored in a SCITT transparency log so a party who trusts neither the operator nor the agent can verify it. Distinct trust root from hardware attestation: the capsule's authority is an open transparency log (RFC 9162), and it
 composes **by shared digest** with the platform-attestation and permit layers rather than merging with them. A companion **bilateral attestation** draft covers the cross-organization case: two organizations' agents bound to one sealed record, refusals and asymmetric outcomes first-class.
 
 **What runs today.**
-- A live producer (`capsule-emit`), an open verifier (`scitt-cose`, Apache-2.0), and a live neutral SCITT transparency service (`anchor.agentactioncapsule.org`). A real procurement-payment capsule is
-  minted, anchored (inclusion proof), and verifies clean — sub-millisecond seal, receipts in the repo; tamper → verify fails.
-- **Independent reproduction:** the frozen Class-1 conformance suite has been reproduced 32/32 by an independent implementer (J. Kintzele, Continuum), and independently re-run from a clean clone by
-  S. Bu (reported on the SCITT list).
+- A live producer (`capsule-emit`), an open verifier (`scitt-cose`, Apache-2.0), and a live neutral SCITT transparency service (`anchor.agentactioncapsule.org`). A real procurement-payment capsule is minted, anchored (inclusion proof), and verifies clean — sub-millisecond seal, receipts in the repo; tamper → verify fails.
+- **Independent reproduction:** the frozen Class-1 conformance suite has been reproduced 32/32 by an independent implementer (J. Kintzele, Continuum), and independently re-run from a clean clone by S. Bu (reported on the SCITT list).
 - **Cross-implementation digest agreement (with EMILIA Protocol / I. Schrock):** a public composition vector pack threads one action through an AAC Class-1 capsule (the *did*) and an EP authorization receipt (the *who*) over one shared subject digest — two independent implementations compute the identical digest from their own code; negatives reject at named stages. Worked example: grid-curtailment.
 - **AAC ↔ AEP cross-verify (with A. Sokolov):** passes both directions (our capsule's output digest folded into a real swtpm TPM quote; his quote verified by our code; our SCITT receipt verifiable with our published key). Emulated TPM today — see goals.
 
@@ -1965,33 +1961,21 @@ composes **by shared digest** with the platform-attestation and permit layers ra
   [agent-accountability](https://github.com/agent-accountability) org — **a vector freezes only after two independent implementations recompute it**, so what passes here becomes part of the composition draft's permanent test surface.
 - **AAC × AEP (with A. Sokolov):** extend the cross-verify onto a real hardware TPM beside the Veraison maintainers — "what the agent did" (SCITT) bound to "on what platform" (RATS) by one shared digest;  retire the emulated-only caveat together.
 - **AAC × PermitReceipt × MachineMandate (with S. Lee — remote — and A. Sokolov):** exploratory interoperability against the public ORPRG PermitReceipt draft, scoped to **one protected action**: one canonical request, one action digest, one PermitReceipt decision, one mandate reference, one Agent Action Capsule record, one optional RATS/AEP binding. The test: does the same action digest — or a declared cross-reference — survive permit → mandate → record → attestation? A public digest-binding matrix tracks each layer's commitment; the record→attestation weld is already proven end-to-end. Public artifacts only; not a joint product, endorsement, or merged protocol.
-- **Cross-org sealed records (bilateral):** two organizations' agents seal **one record** — a four-move exchange (request attestation → constraint-checked action attestation → mutual acknowledgment), with refusal and asymmetry outcomes (timeout, unconfirmed delivery, countersign-refusal) as first-class, anchored dispositions. Bring an agent, transact with ours, and both sides walk away bound to the same verifiable record — including when one side ghosts.
-  [draft-mih-agent-bilateral-attestation](https://datatracker.ietf.org/doc/draft-mih-agent-bilateral-attestation/)
-  (-01 revision posts when the datatracker reopens Jul 18).
-- **AAC × SOOS/GAR (with T. Sato):** compose the *producer* seam — a GAR Session Block (kernel-attested,
-  Merkle-rooted, KIA-signed, per [draft-sato-soos-gar](https://datatracker.ietf.org/doc/draft-sato-soos-gar/))  serialized as a SCITT Signed Statement and run through the open Capsule verifier, so "kernel governance log → capsule record" is **testable, not asserted**. The serialization runs at the table from the public GAR format; SOOS-side verification of capsule artifacts welcome in return. GAR is one strong producer; the capsule stays producer-agnostic.
+- **Cross-org sealed records (bilateral):** two organizations' agents seal **one record** — a four-move exchange (request attestation → constraint-checked action attestation → mutual acknowledgment), with refusal and asymmetry outcomes (timeout, unconfirmed delivery, countersign-refusal) as first-class, anchored dispositions. Bring an agent, transact with ours, and both sides walk away bound to the same verifiable record — including when one side ghosts. [draft-mih-agent-bilateral-attestation](https://datatracker.ietf.org/doc/draft-mih-agent-bilateral-attestation/) (-01 revision posts when the datatracker reopens Jul 18).
+- **AAC × SOOS/GAR (with T. Sato):** compose the *producer* seam — a GAR Session Block (kernel-attested, Merkle-rooted, KIA-signed, per [draft-sato-soos-gar](https://datatracker.ietf.org/doc/draft-sato-soos-gar/))  serialized as a SCITT Signed Statement and run through the open Capsule verifier, so "kernel governance log → capsule record" is **testable, not asserted**. The serialization runs at the table from the public GAR format; SOOS-side verification of capsule artifacts welcome in return. GAR is one strong producer; the capsule stays producer-agnostic.
 - **AAC × provenance binding (with K. Rampalli):** cross-verify capsules carrying [draft-rampalli-scitt-capsule-provenance-binding](https://datatracker.ietf.org/doc/draft-rampalli-scitt-capsule-provenance-binding/) extensions against the open verifier — delegation-authorization + provenance bound into the *did* record via namespaced payload extensions, core fields untouched. Goal: a shared pos/neg set where a capsule with his bindings verifies, and a splice (bindings lifted onto a different action) fails at the right stage. Rows for both mechanisms are being filed in the community cross-org delegation conformance registry — evidence-cited, supplier-owned.
-- **AAC × CAN / bring-your-may (authorization interop):** the capsule references the authorizing "may"
-  by digest in `disposition.authority` (opaque — the grant id, never the token body). **Bring a
-  key-bound authorization and cross-verify it composed into a capsule:** AAuth (RFC 9421 signing-key
-  grants), OAuth Client-Credentials + DPoP (sender-constrained, key-bound), or a signed attested-envelope
-  grant. *Many mays, one did* — authorize → act → record, joined by one action digest, each verifier
-  staying in its own trust boundary. **Open invitation.**
+- **AAC × CAN / bring-your-may (authorization interop):** the capsule references the authorizing "may" by digest in `disposition.authority` (opaque — the grant id, never the token body). **Bring a key-bound authorization and cross-verify it composed into a capsule:** AAuth signing-key grants, OAuth Client-Credentials + DPoP (sender-constrained, key-bound), or a signed attested-envelope grant. *Many mays, one did* — authorize → act → record, joined by one action digest, each verifier staying in its own trust boundary. **Open invitation.**
 
 **Standards context (Internet-Drafts unless RFC).**
-- This work: [draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)
-  (-02 posted: configuration epochs, input integrity, VDS-neutral) · individual submission, not
-  WG-adopted · companion selective-disclosure profile ·
-  [draft-mih-agent-bilateral-attestation](https://datatracker.ietf.org/doc/draft-mih-agent-bilateral-attestation/) ·
-  [draft-mih-sato-agent-accountability-composition](https://datatracker.ietf.org/doc/draft-mih-sato-agent-accountability-composition/)
-  (4 authors — how the CAN/WHO/WHAT/AUDIT legs compose; a vector freezes only after two independent
-  implementations recompute it).
+- This work: [draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/) (-02 posted: configuration epochs, input integrity, VDS-neutral) · individual submission, not WG-adopted · companions: [draft-mih-scitt-agent-action-capsule-sel-disc](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule-sel-disc/), [draft-mih-agent-bilateral-attestation](https://datatracker.ietf.org/doc/draft-mih-agent-bilateral-attestation/) · 
+
+- [draft-mih-sato-agent-accountability-composition](https://datatracker.ietf.org/doc/draft-mih-sato-agent-accountability-composition/) (4 authors — how the CAN/WHO/WHAT/AUDIT legs compose; a vector freezes only after two independent implementations recompute it).
 - [RFC 9162](https://datatracker.ietf.org/doc/rfc9162/) (Certificate Transparency v2 / Merkle) ·
   [RFC 9943](https://www.rfc-editor.org/rfc/rfc9943) (SCITT Architecture) ·
   [RFC 9942](https://www.rfc-editor.org/rfc/rfc9942) (COSE Receipts) · RFC 9052/9053 (COSE).
   *(Our substrate anchors to published RFCs, not drafts.)*
-- IPR, stated plainly: no patents (the related provisional family was expressly abandoned Jul 6, 2026;
-  IETF IPR disclosures updated — no license required).
+- IPR: no patents (the related provisional family was expressly abandoned Jul 6, 2026; IETF IPR disclosures updated — no license required).
+- Everything Apache-2.0. Project site: agentactioncapsule.org — the governance model is public (docs/governance), with stated intent to donate the repos, trademark, and reference services to a neutral foundation.
 
 **Repositories & artifacts.**
 - Spec + reference verifier (Py + Go) + frozen vectors: https://github.com/action-state-group/agent-action-capsule
@@ -2005,23 +1989,19 @@ composes **by shared digest** with the platform-attestation and permit layers ra
 - **AEP × Veraison (A. Sokolov)** — platform attestation of action evidence:
   [draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/).
   Their hardware-attested platform layer + our disinterested SCITT record = two trust roots, one digest.
-- **EMILIA Protocol (I. Schrock)** — named-human authorization receipts (the *who* leg); co-author on
-  the composition draft; the cross-implementation digest agreement above.
+- **EMILIA Protocol (I. Schrock)** — named-human authorization receipts (the *who* leg); co-author on the composition draft; the cross-implementation digest agreement above.
 - **PermitReceipt (S. Lee, Meridian Verity — remote)** — permission before the effect:
   [draft-lee-orprg-permit-receipts](https://datatracker.ietf.org/doc/draft-lee-orprg-permit-receipts/).
 - **Intra-handshake.fail (M. U. Sardar)** — attested TLS / formal methods:
   [draft-usama-seat-intra-vs-post](https://datatracker.ietf.org/doc/draft-usama-seat-intra-vs-post/).
-- **MIT Project NANDA (R. Raskar)** — the Internet of Agents / agent discovery + identity; see the
-  live Jul 11 composition above.
-- **SOOS / GAR (T. Sato, MyAuberge K.K.)** — a governance-kernel *producer* for agent-action statements:
-  [draft-sato-soos-gar](https://datatracker.ietf.org/doc/draft-sato-soos-gar/).
+- **MIT Media Lab NANDA (Prof. Raskar Lab)** — the Internet of Agents / agent discovery + identity; see the live Jul 11 composition above.
+- **SOOS / GAR (T. Sato, MyAuberge K.K.)** — a governance-kernel *producer* for agent-action statements: [draft-sato-soos-gar](https://datatracker.ietf.org/doc/draft-sato-soos-gar/).
 - **Capsule provenance-binding (K. Rampalli, GlyphZero)** —
   [draft-rampalli-scitt-capsule-provenance-binding](https://datatracker.ietf.org/doc/draft-rampalli-scitt-capsule-provenance-binding/)
   — delegation-authorization + provenance bound into the capsule via namespaced payload extensions,
   core fields untouched; cross-verify a capsule carrying his bindings against the open verifier.
 
-**Coordination.** Onsite in Vienna; remote SCITT/RATS collaborators welcome. Sync slot to be listed on
-the Team Schedule (aligned with the AEP×Veraison slot for the cross-verify).
+**Coordination.** Onsite in Vienna; remote SCITT/RATS collaborators welcome. Sync slot to be listed on the Team Schedule (aligned with the AEP×Veraison slot for the cross-verify).
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
