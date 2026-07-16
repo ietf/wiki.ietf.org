@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T01:52:21.010Z
+date: 2026-07-16T08:03:14.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1842,6 +1842,23 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
   + RATS Architecture: https://datatracker.ietf.org/doc/rfc9334/
   + TEEP Architecture: https://datatracker.ietf.org/doc/rfc9397/
   + Trusted Execution Environment Provisioning (TEEP) Protocol: https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+  
+### BMWG - YANG model for management of Network Tester
+- **Champion(s)**
+  - Vladimir Vassilev (vladimir@lightside-instruments.com)
+- **Project(s)**
+  - Model implementation with software and programmable logic for 1Gb Ethernet
+  - RFC2544 benchmark test in python
+  - RFC2889 benchmark test in python
+  - TG configuration to PCAP and PCAP to TG configuration conversion scripts
+- **Specifications**
+  - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
+- **Repositories**
+  - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/lightside-instruments/rfc2544-benchmark)
+  - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+  - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+  - Hardware - [board design](https://github.com/vlvassilev/spark)
+  - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
