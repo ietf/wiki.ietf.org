@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T09:39:08.323Z
+date: 2026-07-16T09:39:54.541Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1882,9 +1882,10 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 	https://github.com/anAtheist987/OpenGateway
 
  -  **Related Documents**
+	- draft-cui-ai-agent-discovery-invocation-02
  	- draft-agent-gw-02
 	- draft-cui-dawn-mdi-model-00
-	- draft-cui-ai-agent-discovery-invocation-02
+
 
 
 ----
