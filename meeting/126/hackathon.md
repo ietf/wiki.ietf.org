@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T01:10:46.676Z
+date: 2026-07-16T01:52:21.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1830,11 +1830,13 @@ OFDS is NOT (yet) an IETF standard. The specification was developed independentl
   + Shin'ichi Miyazawa (Onsite, s.miyazawa @ gmail.com)
 
 - **Project Info**
-We want to deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing WasmApp as Trusted Applications, using Remote Attestation.
+We want to deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing Wasm applications as Trusted Applications using Remote Attestation.
 
 - **Goals**
-  + Deploy a WasmApp to the attested Wasm runtime inside a TEE
+  + Deploy a Wasm application to the attested Wasm runtime inside a TEE
   + The TAM can dynamically trust the key of TEEP Agent, a managing program inside the TEE, only if the Evidence is affirmed by the Verifier
+  + Conduct Remote Attestation on real Intel SGX hardware and gain insights spanning both TEEP and RATS
+  + Implement a privileged TEEP Agent as a Wasm application portable across heterogeneous TEEs
 
 - **Related RFCs and Internet Drafts**
   + RATS Architecture: https://datatracker.ietf.org/doc/rfc9334/
