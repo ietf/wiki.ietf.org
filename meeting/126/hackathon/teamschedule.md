@@ -1,0 +1,29 @@
+---
+title: Team Schedule
+description: 
+published: true
+date: 2026-07-16T14:20:52.133Z
+tags: hackathon
+editor: markdown
+dateCreated: 2026-07-01T15:24:26.888Z
+---
+
+# Team Schedule
+The IETF Hackathon is taking place as a hybrid event. The overall agenda for the Hackathon is [HERE](https://wiki.ietf.org/en/meeting/126/hackathon).
+
+Within the overall agenda, it is up to individual project teams to determine their own preferred ways to collaborate. Many teams likely include both in-person and remote participants.
+
+The IETF is using gather.town to facilitate social interaction at the IETF meeting. There is a space for the Hackathon with tables and whiteboards that teams can use for group communication and information sharing. [Gather](https://gather.town/app/L4fNNdm1NJa1sE2v/ietf)  (password: ietf)
+
+
+You are free to use gather.town, and you may also use Zoom, Webex, Slack, or whatever works best for your team. If you want to use Webex and need a Webex account, you can find more info [HERE](https://wiki.ietf.org/en/meeting/126/hackathon#Webexsessionsforteams).
+
+## Teams: Please fill out the table below to inform others how and when to collaborate with your team.
+
+| Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
+|---|---|---|
+|  AEP x Veraison (Tyche Institute) |   Sat 18 - Sun 19 Jul, Hackathon room (GMT+2); remote collaborators welcome|  anton.sokolov@tyche.institute; gather.town Hackathon space (pw ietf) |
+| Akamu ACME and MTC interop (Red Hat / QARC EU project)  | Sat 18 - Sun 19 Jul, Hackathon room (GMT+2); remote collaborators welcome  | abokovoy@redhat.com; gather.town Hackathon space (pw ietf)  |
+|   |   |   |
+
+*To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
