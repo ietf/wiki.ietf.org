@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T01:10:05.958Z
+date: 2026-07-16T01:10:46.676Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1824,7 +1824,7 @@ OFDS is NOT (yet) an IETF standard. The specification was developed independentl
 
 ----
 
-### TEEP&RATS - Secure Software Provisioning with TEEP & RATS
+### <a id="teep"></a>TEEP&RATS - Secure Software Provisioning with TEEP & RATS
 - **Champions**
   + Ken Takayama (Remote, ken.takayama.ietf @ gmail.com)
   + Shin'ichi Miyazawa (Onsite, s.miyazawa @ gmail.com)
