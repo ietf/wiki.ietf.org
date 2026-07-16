@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T21:28:00.121Z
+date: 2026-07-16T21:29:20.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1926,9 +1926,6 @@ We operate a measurement campaign that performs traceroutes from RIPE Atlas prob
 
 We work on a tool that provides fine-grained control over ECH  handshakes for testing ECH deployments in the wild. It allows sending modified ClientHello messages, e.g., altering the ECH configuration's public name, and exploring the grace-period of old ECH configurations.
 
-----
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
-
 ### SRv6 SFC Architecture with SR-aware Functions
 - **Champions**
 [Wataru Mishima](mishima@nw.kanagawa-it.ac.jp)
@@ -1937,6 +1934,10 @@ Implement each component of Chapter 4 "Overview of Architecture" in "draft-watal
 - **Specifications**
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/05/
 https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/
+
+
+----
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
 
 ```markdown
 ### Your Project
