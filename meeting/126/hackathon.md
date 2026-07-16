@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-15T20:17:04.742Z
+date: 2026-07-16T01:10:05.958Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1823,9 +1823,26 @@ OFDS is NOT (yet) an IETF standard. The specification was developed independentl
 * Related repositories: https://github.com/Open-Telecoms-Data
 
 ----
+
+### TEEP&RATS - Secure Software Provisioning with TEEP & RATS
+- **Champions**
+  + Ken Takayama (Remote, ken.takayama.ietf @ gmail.com)
+  + Shin'ichi Miyazawa (Onsite, s.miyazawa @ gmail.com)
+
+- **Project Info**
+We want to deliver mature ecosystem implementations of the Trusted Execution Environment Provisioning (TEEP) Protocol for distributing WasmApp as Trusted Applications, using Remote Attestation.
+
+- **Goals**
+  + Deploy a WasmApp to the attested Wasm runtime inside a TEE
+  + The TAM can dynamically trust the key of TEEP Agent, a managing program inside the TEE, only if the Evidence is affirmed by the Verifier
+
+- **Related RFCs and Internet Drafts**
+  + RATS Architecture: https://datatracker.ietf.org/doc/rfc9334/
+  + TEEP Architecture: https://datatracker.ietf.org/doc/rfc9397/
+  + Trusted Execution Environment Provisioning (TEEP) Protocol: https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/
+
+----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
-
-
 
 ```markdown
 ### Your Project
