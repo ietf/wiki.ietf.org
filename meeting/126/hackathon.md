@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T08:03:14.240Z
+date: 2026-07-16T09:39:08.323Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1859,6 +1859,33 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  
+
+### AI Agent Discovery and Semantic Task Routing
+
+ - **Champions**
+ Yihan Chao ([chaoyh@zgclab.edu.cn](mailto:chaoyh@zgclab.edu.cn))
+ Chenguang Du ([ducg@zgclab.edu.cn](mailto:ducg@zgclab.edu.cn))
+
+ - **Project Info**
+ This project demonstrates an end-to-end workflow for discovering, selecting, and invoking heterogeneous AI agents based on task intent and capability information.
+ The prototype is built on OpenGateway, an open-source implementation supporting A2A and MCP connectivity, semantic routing, task decomposition, working memory, observability, and integration with legacy APIs.
+ During the Hackathon, we will explore how agents can publish minimal discovery information, be selected according to task intent and constraints, and be invoked through a common routing workflow. The project will also demonstrate mappings between minimal discovery records, richer agent descriptions, and gateway capability entries.
+
+ - **Hackathon Plan**
+ 	- Run the existing multi-agent demonstration.
+	- Add an experimental MDI-compatible agent description.
+	- Demonstrate agent registration, discovery, intent-based selection, and invocation.
+	- Collect implementation feedback for the related Internet-Drafts.
+
+ - **Source Code**
+	https://github.com/anAtheist987/OpenGateway
+
+ -  **Related Documents**
+ 	- draft-agent-gw-02
+	- draft-cui-dawn-mdi-model-00
+	- draft-cui-ai-agent-discovery-invocation-02
+
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
