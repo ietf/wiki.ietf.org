@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T16:44:23.827Z
+date: 2026-07-16T21:21:47.996Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -855,7 +855,8 @@ A real Project Veraison verifier appraises a Tyche AEP-bound `swtpm` quote (CoRI
   - [draft-ietf-rats-ar4si](https://datatracker.ietf.org/doc/draft-ietf-rats-ar4si/) (AR4SI) · [draft-ietf-rats-ear](https://datatracker.ietf.org/doc/draft-ietf-rats-ear/) (EAR) · [draft-ietf-rats-msg-wrap](https://datatracker.ietf.org/doc/draft-ietf-rats-msg-wrap/) (CMW) · [draft-ietf-rats-corim](https://datatracker.ietf.org/doc/draft-ietf-rats-corim/) (CoRIM) · [draft-ietf-rats-multi-verifier](https://datatracker.ietf.org/doc/draft-ietf-rats-multi-verifier/)
 
 - **Repositories & artifacts**
-  - Project Veraison: https://github.com/veraison/services — freshness issue: https://github.com/veraison/services/issues/427
+    - Live demo console — run the payment-agent loop in a browser (wallet emulator, verifier gate ladder, evidence downloads, attack catalogue): https://demo.eatf.eu
+    - Project Veraison: https://github.com/veraison/services — freshness issue: https://github.com/veraison/services/issues/427
   - Reference implementation (EATF / AEP): https://github.com/tyche-institute/eatf
   - Preprint (method, decoded EARs, freshness policy): https://doi.org/10.5281/zenodo.20818672
 
