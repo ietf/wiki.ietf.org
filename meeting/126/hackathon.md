@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T13:12:34.048Z
+date: 2026-07-16T13:19:51.345Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1894,6 +1894,13 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
   - [Alexander Männel](mailto:alexander.maennel@tu-dresden.de)
 - **Project Info**
 We operate a measurement campaign that performs traceroutes from RIPE Atlas probes to prefixes whoms annoucements undergo RPKI validity changes. To make this data useful for the community an automatic analysis pipeline and webpage should be worked on during the hackathon. The goal is to allow operators to look up probes using paths through their network and evaluate those chosen paths.
+
+### Encrypted Client Hello (ECH) tooling with fine-grained control over the used ECH configuration
+- **Champions**
+	[Jonas Mücke](mailto:jonas.muecke@tu-dresden.de)
+- **Project Info**
+
+We work on a tool that provides fine-grained control over ECH  handshakes for testing ECH deployments in the wild. It allows sending modified ClientHello messages, e.g., altering the ECH configuration's public name, and exploring the grace-period of old ECH configurations.
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
