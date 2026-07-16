@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T12:49:26.643Z
+date: 2026-07-16T13:12:34.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -634,7 +634,8 @@ Per Andersson <per.ietf@ionio.se>
 Diego Lopez <diego.r.lopez@telefonica.com>
 Robin Osterberg <robin.ietf@kodeta.se>
 Jan Lindblad <jan.lindblad+ietf@for.eco>
-Marisol Palmero <mpalmero.ietf@gmail.com>
+Marisol Palmero <marisol.ietf@gmail.com>
+Emile Stephan <emile.stephan@orange.com>
 - **Project Info**
 The OPSAWG Working Group is developing a YANG Provenance model to provide authenticity, integrity, and traceability for YANG-based telemetry. As networks become increasingly automated and telemetry-driven, operators and controllers need mechanisms to verify that telemetry data originates from trusted sources and has not been modified while traversing the collection pipeline.
 This Hackathon project will build an end-to-end prototype using the YANG Provenance model and COSE signatures to demonstrate how telemetry can be signed, verified, and validated from device to collector to consumer applications.
