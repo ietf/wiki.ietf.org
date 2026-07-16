@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-16T13:19:51.345Z
+date: 2026-07-16T16:44:23.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1886,6 +1886,29 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 	- draft-cui-ai-agent-discovery-invocation-02
  	- draft-agent-gw-02
 	- draft-cui-dawn-mdi-model-00
+
+### Evidence Encoding for HSMs (RATS)
+- **Champions**
+Jean-Pierre Fiset (jp@crypto4a.com)
+Mike Ounsworth (mike@ounsworth.ca)
+Hannes Tschofenig (Hannes.Tschofenig@gmx.net)
+
+- **Project Info**
+Remote ATtestation procedureS (RATS) define a framework to generate, distribute and appraise evidence between peers. This effort is to provide encoding for evidence tailored to Hardware Security Modules (HSMs) and the environment in which they operate.
+
+- **Hackthon Plan**
+During Hackathon 126, we wish to continue the development of the tools to perform the following:
+  - validate evidence for fitness and verify the signatures
+  - generate sample test vectors
+
+- **Related Documents**
+https://datatracker.ietf.org/doc/draft-ietf-rats-pkix-key-attestation/
+
+- **Repository**
+https://github.com/ietf-rats-wg/key-attestation
+
+- **Communications**
+We are using Gather Town (https://app.gather.town/app/L4fNNdm1NJa1sE2v/ietf pw: ietf) Table D
 
 ----
 
