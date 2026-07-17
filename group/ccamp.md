@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-03-27T15:26:29.845Z
+date: 2026-07-17T14:50:41.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -98,13 +98,13 @@ YANG Data Model for FlexE Management
 > Authors believe it is ready for WGLC
 
 
-**- draft-ietf-ccamp-flexigrid-tunnel-yang**
-*A YANG Data Model for Flexi-Grid Tunnels*
-> Waiting for draft-ietf-teas-yang-te-31 to be published
+**-draft-ietf-ccamp-wdm-tunnel-yang**
+*A YANG Data Model for WDM Tunnels*
+
 
 **- draft-ietf-ccamp-flexigrid-yang**
 *A YANG Data Model for Flexi-Grid Optical Networks*
-> last call passed and pubblication requested. Put on hold as per Italo's request waiting for issues to be solved in TEAS.
+> The draft has been brough back to the WG, properly updated and passed the WG LC so it should be now ready to be sent back to IESG.
 
 
 **- draft-ietf-ccamp-if-ref-topo-yang-00**
@@ -182,9 +182,6 @@ Conveying Transceiver-Related Information within RSVP-TE Signaling
 > - After that, authors will make a final alignment of the draft to become ready for the next stage.
 
 
-**- draft-ietf-ccamp-wson-tunnel-model-08**
-A Yang Data Model for WSON Tunnel
-
 **- draft-ietf-ccamp-yang-otn-slicing-09**
 Framework and Data Model for OTN Network Slicing
 > Update as per IETF 124 (24/10/2025)
@@ -200,18 +197,25 @@ Framework and Data Model for OTN Network Slicing
 
 ## Draft prioritization for WG adoption
 
-Prio 1
+Prio -1
 **- draft-yoon-ccamp-pm-streaming-04**
 A YANG Data Model of Performance Management Streaming
-(call for adoption ongoing)
+(WG adoption stopped - waiting for draft split between IPPM and CCAMP)
+
+Prio 1  
+**-draft-tan-ccamp-fgotn-yang-06**
+YANG Data Models for fine grain Optical Transport Network
+(Just adopted)
 
 Prio 2
+**-draft-ybam-ccamp-rfc8561bis-00 **
+A YANG Data Model for Microwave Radio Link
+
+
+Prio 3
 **- draft-zheng-ccamp-client-pm-yang-07**
 A YANG Data Model for Client Signal Performance Monitoring
-
-Prio 3 - 
-**-draft-tan-ccamp-fgotn-yang-04**
-YANG Data Models for fine grain Optical Transport Network
+(Check ongoing with IPPM)
 
 
 ## Draft prioritization for WG last call
@@ -228,22 +232,47 @@ Prio 3
 Conveying Transceiver-Related Information within RSVP-TE Signaling
 (RTG-DIR review requested in preparation for WG LC)
 
-Prio 4
+Prio 4 (cluster)
 **- draft-ietf-ccamp-otn-tunnel-model**
-> Dependency on draft-ietf-teas-yang-te
+**-draft-ietf-ccamp-otn-path-computation-yang-08**
+> Dependency on draft-ietf-teas-yang-te resolved
+RTGDIR review requested jointly for both
+YANG DOTTOR review request for OTN path computation, already done for OTN tunnel model
+
 
 Prio 5
 **- draft-ietf-ccamp-wdm-tunnel-yang**
-> Dependency on draft-ietf-teas-yang-te
+> Dependency on draft-ietf-teas-yang-te resolved
 > Pluggables gap analysis might have impacts on this draft. "soft dependency"
 
-Prio 6
-**- draft-ietf-ccamp-flexe-yang-cm-06**
+
 
 ## Ongoing IPR polling
 
-None
 
+#### 2026-06 draft-ybam-ccamp-rfc8561bis-00
+A YANG Data Model for Microwave Radio Link
+
+IPR Poll (Luis)
+
+https://mailarchive.ietf.org/arch/msg/ccamp/WP132SoGXIOHnnPP1SnXn03wEro/
+
+AUTHORS
+
+Scott.Mansfield (Scott.Mansfield@Ericsson.com) -> https://mailarchive.ietf.org/arch/msg/ccamp/SwhiYOfw8HRUhk34XO1MVbY4kxY/ 
+Jonas Ahlberg (jonas.ahlberg@ericsson.com) -> https://mailarchive.ietf.org/arch/msg/ccamp/fW8Ni5KjlPFmKeWy322LslTksoE/
+Amy Yemin (amy.yemin@huawei.com) -> https://mailarchive.ietf.org/arch/msg/ccamp/GM9wmgOMU1SKzSMJcmZAIg5jf38/
+Daniela Spreafico (daniela.spreafico@nokia.com) -> https://mailarchive.ietf.org/arch/msg/ccamp/7su3VQU4FgjKeQupb_5xFiuZ70M/
+Danilo Pala (danilo.pala@techmahindra.com) -> https://mailarchive.ietf.org/arch/msg/ccamp/UNKEjzByQial_DshBvCK2b8v9yo/
+
+CONTRIBUTORS
+
+Italo Busi (italo.busi@huawei.com) -> https://mailarchive.ietf.org/arch/msg/ccamp/fChrlhUXj_wn_-vZOnpd6Tn_IWw/
+Koji Kawada (k-kawada@ah.jp.nec.com) -> Mail address not working
+Carlos J. Bernardos (cjbc@it.uc3m.es) -> 
+Marko Vaupotic (Marko.Vaupotic@Aviatnet.com) ->
+Xi Li (Xi.Li@neclab.eu) -> 
+ 
 
 
 ## Concluded IPR polling
