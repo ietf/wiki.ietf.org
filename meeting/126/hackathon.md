@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-17T08:48:49.087Z
+date: 2026-07-17T11:08:20.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1990,6 +1990,76 @@ composes **by shared digest** with the platform-attestation and permit layers ra
   core fields untouched; cross-verify a capsule carrying his bindings against the open verifier.
 
 **Coordination.** Onsite in Vienna; remote SCITT/RATS collaborators welcome. Sync slot to be listed on the Team Schedule (aligned with the AEP×Veraison slot for the cross-verify).
+
+----
+
+### vCon
+
+- **Champions**
+
+  - Dan Petrie (dan.ietf@sipez.com)
+
+
+
+- **Project Info**
+
+**WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
+
+**I-D:** [vCon core](https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/)
+
+**Repos:**
+
+  - [python_vcon - python vCon library and CLI](https://github.com/py-vcon/py-vcon/tree/integration-features)
+
+  - [py_vcon_server - vCon integration and AI enabled workflow server ](https://github.com/py-vcon/py-vcon/blob/integration-features/py_vcon_server/README.md)
+
+<br>
+
+  One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
+
+  
+
+  - Communications systems (email, sms, web chate, voice and video calls)
+
+  - Data consumer or customer data platform
+
+  - AI, ML and algorithmic analysis services, model training and testing
+
+  - CRM systems
+
+  
+
+- **Hackathon Objective**
+
+The goal for this hackathon is to implement and test portions of the vCon I-D that have not been well tested.   Most of the major features have been implemented in the py-vcon project.  However there are a number of little bits that have not ben implemented listed below.
+
+ - extension, critical paraemeter suport
+
+ - updated_at:
+   - in general
+   - specific to signing case
+
+ - Party Object:
+   - set: sip, did, civicaddress, uuid, type, org, dept
+   - set role does no set CC extension
+   - Civicaddress parameter setter
+
+
+ - Dialog Object:
+   - recording-set
+   - Move transfer stuff from vcon-gen to open source
+   - party_history 
+   - application
+   - Move session_id from vcon-gen to open source
+   - incomplete type
+
+ - content_hash as an array
+
+ - CC Extension
+
+ - UUID varies from I-D
+
+ - JSON Schema testing
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
