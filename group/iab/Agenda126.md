@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-14T23:28:54.260Z
+date: 2026-07-17T09:17:39.219Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -18,9 +18,12 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 126](/gr
 
 ## Saturday, 2026-07-18
 
-### 17:00-18:30: AMS-IETF Leadership Venue Tour & Happy Hour
+### 15:45-17:00: AMS-IETF Leadership Venue Tour & Happy Hour
 The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
 
+Please meet at 15:45 at the IETF Registration counter in the first floor foyer (outside of Park Hall rooms) for a quick toast + beverage to take on the tour.
+
+If you're not joining for the tour, please meet us in the M2 Executive Lounge, on the terrace for light drinks. Please note: there's no food offered at this happy hour.
 ## Sunday, 2026-07-19
 
 ### 11:45-13:45: Joint IAB/IESG Lunch & Meeting (Room: Grand Klimt Hall 3)
