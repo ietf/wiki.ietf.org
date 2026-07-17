@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-03-16T00:23:51.296Z
+date: 2026-07-17T21:03:23.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1254,3 +1254,19 @@ Demonstrate the end-to-end RA flow (Attester → RP → Verifier → Fabric) usi
 
 - **Related Documents**
 https://github.com/Lance-Bai/fhe_processor.git
+
+### Implementation of DNS over CoAP (DoC)
+- **Champions**
+  Martine Lenders (ietf@lenders.berlin)
+
+- **Project Info**
+  We provdied [a port of DoC](https://github.com/NLnetLabs/unbound/pull/1252) for Unbound. The goal of the Hackathon is to get [the PR](https://github.com/NLnetLabs/unbound/pull/1252) for that into a mergeable state
+  
+- **Hackathon Plan**
+  - Fix remaining issues
+  
+- **Related Documents**
+  - https://datatracker.ietf.org/doc/rfc9953
+  
+- **Repository**
+  https://github.com/NLnetLabs/unbound/
