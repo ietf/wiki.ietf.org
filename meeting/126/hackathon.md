@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-17T22:00:08.829Z
+date: 2026-07-17T22:14:52.934Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -2073,6 +2073,63 @@ Daniel Gultsch (daniel@gultsch.de)
 XMPP is an IETF standard for federated instant messaging. Jingle is an extension for P2P communications (A/V calls, file transfer, …). While *sending* files over Jingle is widely implemented *requesting* files is not. It is however part of the spec. For the XEP to move to *stable* we should have implementation experience with all parts of the XEP.
 - **XEPs**
 [XEP-0234: Jingle File Transfer](https://xmpp.org/extensions/xep-0234.html)
+
+ 
+ 
+
+----
+
+### GREEN measurement and exposure of energy data (framework, YANG and use cases)
+
+- **Champions**
+Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
+Artur Hecker (Artur.Hecker@huawei.com)
+Javier Gonzalez (javier.gonzalez@huawei.com)
+Marisol Palmero (marisolpalmero7@gmail.com)
+
+- **Collaborators**
+Osama Abboud (osama.abboud@huawei.com)
+David de la Osa (david.delaosamostazo@telefonica.com)
+Guillermo Sánchez (guillermo.sanchezillan@telefonica.com)
+Pablo Armingol (pablo.armingolrobles@telefonica.com)
+Juan Navarro (juan.navarrobosgos@telefonica.com)
+
+- **Project Info**
+
+This hackathon project is a sequel of the “GREEN framework and Use Cases” project run during IETF 123 Hackathon.
+
+The purpose of this project is to collect energy consumption information from a real setup composed of two routers delivering distinct traffic flows. The routers are connected to a Smart PDU capable of reporting the consumption of the routers. At the same time, the routers report energy consumption from their own CLI. The setup is complemented with a traffic generator injecting flows of different throughput.
+
+Three activities are foreseen for this hackathon:
+- Comparison of the consumption data reported by the routers themselves and the Smart PDU
+- Report of the consumed energy per flow proportional to its throughput
+
+This use case aims to provide energy information at the service level to both users and providers, addressing the rebound effects seen in traditional energy efficiency approaches. By raising user awareness of energy consumption impacts and integrating incentivization methods, such as carbon market access, the goal is to internalize energy efficiency effects for users. 
+
+The demonstration platform will showcase energy information exposure through the collection, aggregation, and attribution of energy data across various network elements. 
+
+Metrics will be expressed using standard data models like YANG to facilitate cross-domain energy information exchange. 
+
+The setup will consist on remote infrastrcuture in Telefónica Network and Automation lab.
+
+Part of the hackathon work is framed on the activities carried out by the Exigence Project (https://projectexigence.eu), funded by the Smart Networks and Services Joint Undertaking (SNS JU) under the European Union's Horizon Europe programme (Grant Agreement no. 101139120).
+
+- **Related Documents**
+https://datatracker.ietf.org/doc/draft-ietf-green-use-cases/
+https://datatracker.ietf.org/doc/draft-ietf-green-framework/
+https://datatracker.ietf.org/doc/draft-ietf-green-power-and-energy-yang/
+https://datatracker.ietf.org/doc/draft-petra-green-api/
+
+- **Repos**
+- Documentation for retrieving information from the SmartPDU at Telefónica lab
+https://github.com/luismcontreras/HackathonIETF123/wiki/Documentation
+- Resources of interest from the Exigence project
+https://github.com/luismcontreras/HackathonIETF123/wiki/Resources-of-interest-from-Exigence-Project
+
+
+
+----
+
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
