@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-17T21:40:40.486Z
+date: 2026-07-17T21:50:13.822Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -743,6 +743,8 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
       - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
       - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
 
+Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/)
+
 - **Project Motivation**
    > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
    > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
@@ -852,7 +854,7 @@ A real Project Veraison verifier appraises a Tyche AEP-bound `swtpm` quote (CoRI
 
 - **Related Hackathon projects (collaboration welcome)**
   - *PermitReceipt* (Y. B. Lee) — permission *before* the effect: [draft-lee-orprg-permit-receipts](https://datatracker.ietf.org/doc/draft-lee-orprg-permit-receipts/). Their permit-before + our proven-outcome-after = one accountability chain.
-  - *Intra-handshake.fail* (M. U. Sardar) — attested TLS / formal methods: [draft-usama-seat-intra-vs-post](https://datatracker.ietf.org/doc/draft-usama-seat-intra-vs-post/).
+  - *Intra-handshake.fail* (M. U. Sardar) — attested TLS / formal methods:   [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), [CVE-2026-33697](https://www.cve.org/CVERecord?id=CVE-2026-33697) and [draft-usama-seat-intra-vs-post](https://datatracker.ietf.org/doc/draft-usama-seat-intra-vs-post/).
   - *SCITT Agent Action Capsule* (S. Mih) — content-private COSE_Sign1 agent-action record anchored in SCITT; the record box of the four-box chain: [draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)
 
 - **Coordination**
@@ -1984,7 +1986,7 @@ composes **by shared digest** with the platform-attestation and permit layers ra
 - **PermitReceipt (S. Lee, Meridian Verity — remote)** — permission before the effect:
   [draft-lee-orprg-permit-receipts](https://datatracker.ietf.org/doc/draft-lee-orprg-permit-receipts/).
 - **Intra-handshake.fail (M. U. Sardar)** — attested TLS / formal methods:
-  [draft-usama-seat-intra-vs-post](https://datatracker.ietf.org/doc/draft-usama-seat-intra-vs-post/).
+  [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), [CVE-2026-33697](https://www.cve.org/CVERecord?id=CVE-2026-33697) and [draft-usama-seat-intra-vs-post](https://datatracker.ietf.org/doc/draft-usama-seat-intra-vs-post/).
 - **MIT Media Lab NANDA (Prof. Raskar Lab)** — the Internet of Agents / agent discovery + identity; see the live Jul 11 composition above.
 - **SOOS / GAR (T. Sato, MyAuberge K.K.)** — a governance-kernel *producer* for agent-action statements: [draft-sato-soos-gar](https://datatracker.ietf.org/doc/draft-sato-soos-gar/).
 - **Capsule provenance-binding (K. Rampalli, GlyphZero)** —
