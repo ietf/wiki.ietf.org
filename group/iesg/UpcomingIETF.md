@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-16T17:50:07.145Z
+date: 2026-07-17T09:16:55.104Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -36,11 +36,12 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 
 
 
-### 17:00 AMS-IETF Leadership Venue Tour & Happy Hour
+### 15:45 AMS-IETF Leadership Venue Tour & Happy Hour
 The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
 
-Please meet us in TBD, to begin our tour. If you are only joining for the happy hour, we will be in TBD by 17:20
+Please meet at 15:45 at the IETF Registration counter in the first floor foyer (outside of Park Hall rooms) for a quick toast + beverage to take on the tour.
 
+If you're not joining for the tour, please meet us in the M2 Executive Lounge, on the terrace for light drinks. Please note: there's no food offered at this happy hour.
 
 
 
