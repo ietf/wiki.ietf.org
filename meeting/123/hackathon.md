@@ -2,7 +2,7 @@
 title: IETF 123 Hackathon
 description: 
 published: true
-date: 2025-09-19T00:52:33.592Z
+date: 2026-07-17T18:49:26.462Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T22:39:06.526Z
