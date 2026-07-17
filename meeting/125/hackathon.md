@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-07-17T21:03:23.106Z
+date: 2026-07-17T21:03:57.837Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -1260,7 +1260,7 @@ https://github.com/Lance-Bai/fhe_processor.git
   Martine Lenders (ietf@lenders.berlin)
 
 - **Project Info**
-  We provdied [a port of DoC](https://github.com/NLnetLabs/unbound/pull/1252) for Unbound. The goal of the Hackathon is to get [the PR](https://github.com/NLnetLabs/unbound/pull/1252) for that into a mergeable state
+  We provdied [a port of DoC](https://github.com/NLnetLabs/unbound/pull/1252) for Unbound. The goal of the Hackathon is to get the PR for that into a mergeable state
   
 - **Hackathon Plan**
   - Fix remaining issues
