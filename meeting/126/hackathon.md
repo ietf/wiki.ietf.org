@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-17T21:50:13.822Z
+date: 2026-07-17T22:00:08.829Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -796,12 +796,12 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
       - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
       - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
 - **Hackathon plan**
-  	- Discuss the nits of [relay attacks](https://mailarchive.ietf.org/arch/msg/rats/6gbqx0XY8WYrH3Mx4vO8n2-uKgY/)
+  	- Discuss the nits of [relay attacks](https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS)
     - Discuss possible solutions
     - Discuss open issues
 	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
 		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
-    - Formal evaluation of new proposals in SEAT
+    - Formal evaluation of hybrid proposals in SEAT: which security property is provided by the hybrid (intra+post) proposals that is not provided only by the simple post-handshake attestation to absorb this complexity
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
 
