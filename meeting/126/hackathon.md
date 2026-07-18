@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T06:44:47.293Z
+date: 2026-07-18T07:23:55.521Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -2064,8 +2064,6 @@ The goal for this hackathon is to implement and test portions of the vCon I-D th
  - content_hash as an array
 
  - CC Extension
-
- - UUID varies from I-D
 
  - JSON Schema testing
  
