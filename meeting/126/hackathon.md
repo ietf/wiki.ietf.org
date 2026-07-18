@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T07:23:55.521Z
+date: 2026-07-18T08:19:24.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -2130,7 +2130,26 @@ https://github.com/luismcontreras/HackathonIETF123/wiki/Resources-of-interest-fr
 
 
 ----
+### Secure Hybrid Network Monitoring
 
+- **Champions**
+  * Yutaka Oiwa (AIST, Japan), y.oiwa@aist.go.jp
+
+- **Members**
+  * Satoru Kanno (GMO CONNECT, Inc., Japan), kanno@gmo-connect.jp
+  * Yumi Sakemi (GMO CONNECT, Inc., Japan), sakemi-yumi@gmo-connect.jp
+
+- **Project Info**
+  * We propose Secure Hybrid Network Monitoring for complex network environments such as hybrid cloud or mixed cloud settings. The Path Characteristics Service (PCS) enables users to verify whether their network path meets specified intents (e.g., data residency, VPN usage, operator constraints) by performing intent matching against actual path characteristics across multiple network domains.
+
+- **Hackathon Plan**
+  * Update the Internet-Draft to reflect the revised PCS concept: from network state retrieval to intent matching with match/unmatch responses.
+  * Develop a prototype PCS demo.
+  * Gather feedback on the updated draft specification.
+
+- **Specifications**
+  * [draft-oiwa-path-characteristics-service](https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/)
+  * [draft-oiwa-secure-hybrid-network](https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/)
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
