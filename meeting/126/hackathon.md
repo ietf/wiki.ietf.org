@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T10:19:03.707Z
+date: 2026-07-18T11:52:15.076Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -451,44 +451,86 @@ We will write an Wireshark module to decode the changes described in this draft.
 ---
 ### PermitReceipt Reference Evaluation for AI-Agent and Workload External Effects
 
-* **Champions**
-  Yong Bok Lee, Meridian Verity Group, [scott@meridianverity.com]
+* **Champion**
+  * Yong Bok (Scott) Lee, Meridian Verity Group — <scott@meridianverity.com>
 
 * **Project Info**
+
   This project provides a runnable synthetic reference evaluation for PermitReceipt-based permit-before-commit authorization of AI-agent and workload external effects.
 
-  Related Internet-Draft:
-  https://datatracker.ietf.org/doc/draft-lee-orprg-permit-receipts/
+  The evaluation asks one narrow question:
 
-  Repository:
-  https://github.com/meridianverity/permit-receipt
+  > Before a protected external effect commits, is there current, scope-bound permit evidence authorizing that exact effect?
 
-  Public evaluation release:
-  https://github.com/meridianverity/permit-receipt/releases/tag/v2.2.1-public-eval
+* **Current public artifacts**
+  * Internet-Draft:  
+    https://datatracker.ietf.org/doc/draft-lee-orprg-permit-receipts/
+  * Repository:  
+    https://github.com/meridianverity/permit-receipt
+  * Canonical public-evaluation release:  
+    https://github.com/meridianverity/permit-receipt/releases/tag/v2.2.6-public-eval
+  * IETF 126 synthetic EUR payment-composition input v0.1:  
+    https://github.com/meridianverity/permit-receipt/releases/tag/ietf126-payment-composition-v0.1
+  * Portable reviewer-path finding and erratum:  
+    https://github.com/meridianverity/permit-receipt/issues/1
 
-  The evaluation exercises deterministic canonicalization, action-digest binding, policy-epoch checks, scope checks, status and freshness checks, anti-replay handling, and fail-closed denial before a protected external effect is committed.
+* **Evaluation scope**
 
-  The project includes a provider-neutral synthetic agentic-commerce profile as one example effect family. It does not process live payments, store payment credentials, call live processors, or provide production payment processing, wallet, issuer, PSP, network-token, or settlement-rail functionality.
+  The public evaluation exercises:
 
-  Hackathon goals:
+  * deterministic canonicalization and byte-exact action-digest binding;
+  * policy-epoch, scope, status, freshness, revocation, and capability checks;
+  * typed anti-replay handling;
+  * signed PermitReceipt and authorization-reference verification;
+  * fail-closed denial before a protected external effect is committed; and
+  * independently executable review and cryptographic-verification paths.
 
-  * Review whether the PermitReceipt field model is understandable and useful.
-  * Review canonicalization and action-digest binding behavior.
-  * Review negative vectors and fail-closed denial behavior.
-  * Identify missing conformance and interoperability vectors.
-  * Discuss whether future work should separate requirements, architecture, data model, conformance, and wire-profile documents.
+  The project includes provider-neutral synthetic agentic-commerce and payment profiles as example effect families.
+
+* **IETF 126 composition work**
+
+  A separately versioned composition-only ORPRG input has been frozen for two synthetic EUR payment cases:
+
+  * a positive EUR 250.00 protected request; and
+  * an EUR 750.00 protected request that is valid at the PermitReceipt layer but is expected to be rejected by a separately defined downstream mandate spend limit.
+
+  The payment-composition release is a **frozen pre-execution input, not a composition result**. It does not modify or supersede `v2.2.6-public-eval`.
+
+* **Current status — 18 July 2026**
+
+  * `v2.2.6-public-eval` is the active canonical PermitReceipt public-evaluation release.
+  * A portable reviewer-path build-backend omission was reported externally, confirmed, and documented through a release-page erratum; the frozen release assets and cryptographic results were not changed.
+  * The payment-composition PermitReceipt inputs are published under immutable release coordinates.
+  * Independent external replay evidence, full multi-layer composition execution, and final result classification remain pending.
+  * No successful-interoperability, production-readiness, certification, or IETF-endorsement claim is made at this stage.
+
+* **Hackathon goals**
+
+  * Review whether the PermitReceipt field model and decision semantics are understandable and useful.
+  * Review canonicalization, action-digest binding, appraisal, and fail-closed behavior.
+  * Exercise positive and negative vectors against frozen public artifacts.
+  * Identify missing conformance, portability, and interoperability vectors.
+  * Explore composition with separately owned mandate, action-record, and attestation implementations while preserving each layer's independent semantics.
   * Collect implementation and reviewer feedback for a future revision of the Internet-Draft.
 
-  Expected outputs:
+* **Expected outputs**
 
-  * GitHub issues or pull requests for unclear fields, missing vectors, or implementation gaps.
-  * Candidate conformance-vector additions for future repository updates.
+  * GitHub issues or pull requests for unclear fields, missing vectors, portability findings, or implementation gaps.
+  * Candidate conformance and interoperability vectors for future repository revisions.
+  * External replay evidence where independently completed.
+  * A separately reviewed result classification and immutable evidence coordinates if the multi-layer composition is executed.
   * Input for a future revision of the Internet-Draft.
 
-  Coordination:
+* **Boundary**
 
-  * Remote/asynchronous coordination via GitHub Issues and IETF Hackathon communication channels.
-  * Synchronous review slot to be listed in the Team Schedule.
+  The artifacts use synthetic data only. They do not process live payments, store payment credentials, call live processors, or provide production payment, wallet, issuer, PSP, network-token, or settlement-rail functionality.
+
+* **Coordination**
+
+  * Remote and asynchronous coordination through GitHub Issues and IETF Hackathon communication channels.
+  * Results materials, when finalized, will be uploaded to the IETF 126 Hackathon Results Presentations session in Datatracker.
+
+---
 
 ---
 ### In-Network Telemetry Aggregation Using IOAM Aggregation Trace and Template Options
