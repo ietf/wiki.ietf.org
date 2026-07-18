@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T11:52:15.076Z
+date: 2026-07-18T14:05:17.131Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -2230,6 +2230,15 @@ Selective Disclosure CWT is a generic token format building on CBOR Web Tokens w
    - [draft-ietf-spice-sd-cwt-08](https://www.ietf.org/archive/id/draft-ietf-spice-sd-cwt-08.html)
 
 
+### IPv6 Web Resource Checker
+- **Champions**
+  - Philipp S. Tiesel <philipp.tiesel@sap.com>
+- **Project Info**
+A tool to checks IPv6-only readiness of a Web page or app. It loads a website using Selenium and analyzes IPv6-only readiness.
+
+- **Resurces**
+  - [GitHub Project: SAP/webres6](https://github.com/SAP/webres6)
+  - [Public Demo: webres6.dev.sap](https://webres6.dev.sap/)
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
