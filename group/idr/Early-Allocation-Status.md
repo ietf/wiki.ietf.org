@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-07-18T11:25:26.805Z
+date: 2026-07-18T11:28:00.127Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -30,7 +30,8 @@ dateCreated: 2023-02-15T05:33:03.580Z
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |  Email query |    
 |---|---|---|---|---|---|---|
  [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 17 (temporary) | ELP Sub-TLV  | WG draft | IANA temporary assignment |   
- | [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu) | SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | 18 | Path MTU | WG draft | WG draft |  IANA allocated (temporary) | 
+ | [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu) | SR Policy List Sub-TLVs | BGP Tunnel Encapsulation | 18 | Path MTU | WG draft  |  IANA allocated (temporary) | 
+| [drasft-ietf-idr-seglist-id]((https://datatracker.ietf.org/doc/draft-ietf-idr-sr-seglist-id) | Segment list ID | BGP Tunnel Encapsulation | 19 | Segment list id | WG draft | IANA allocated (temporary) | 
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 20  | Segment type L  | WG draft | IANA allocated (temporary)   |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 21 | Segment type M   | WG draft | IANA Allocated (temporary) |
 | [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | 22 | Segment type N | WG draft | IANA Allocated (temporary) |
