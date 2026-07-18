@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:46:23.136Z
+date: 2026-07-18T08:50:43.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -721,7 +721,7 @@ https://www.ietf.org/archive/id/draft-madpr-green-provenance-00.txt
 
   - **Source Code Repository**
     - Gitlab Repository: https://gitlab.kit.edu/kit/tm/telematics/kira/kira-rust
-    - Github Repository is in preparation
+    - Github Repository: https://github.com/kit-tm/KIRA-Rust
 
 ---
 ### CVE-2026-33697 (CVSS 7.5) Intra-handshake.fail 
