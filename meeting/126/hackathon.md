@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T10:15:41.776Z
+date: 2026-07-18T10:19:03.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -444,7 +444,9 @@ Alexander Bokovoy (abokovoy@redhat.com)
 - **Project Info**
 We are interested in testing implementation interoperability for post-quantum PKINIT support.
 
-We are working on adding PQC PKINIT support to MIT Kerberos, based on https://datatracker.ietf.org/doc/draft-bokovoy-kitten-pkinit-pqc/
+We implemented PQC PKINIT support to MIT Kerberos, based on [draft-bokovoy-kitten-pkinit-pqc](https://datatracker.ietf.org/doc/draft-bokovoy-kitten-pkinit-pqc/). It's available for Fedora Rawhide and 44 in this COPR repo: [jrische/krb5-pqc](https://copr.fedorainfracloud.org/coprs/jrische/krb5-pqc/).
+
+We will write an Wireshark module to decode the changes described in this draft.
 
 ---
 ### PermitReceipt Reference Evaluation for AI-Agent and Workload External Effects
