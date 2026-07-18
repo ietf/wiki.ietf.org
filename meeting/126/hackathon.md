@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:37:05.895Z
+date: 2026-07-18T08:38:20.304Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1444,7 +1444,7 @@ https://github.com/happy-eyeballs/he-webtester
 ### Issues and Incidents Identification using Agentic AI and Knowledge Graph
 - **Champions**
 Henry Yu (hyu2010b@gmail.com)
-Yanxie Tan (tanyx11@chinaunicom.cn)
+Yanxia Tan (tanyx11@chinaunicom.cn)
 - **Project Info**
 This project demonstrates how incidents [1] and issues [2] can be identified and reported in optical networks using agentic AI and knowledge graphs.
 -- AI agents are used to identify, locate, analyze, and report issues and incidents. Throughout this process, the agents employ cognitive reasoning to correlate information and infer root causes.
