@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:59:24.240Z
+date: 2026-07-18T10:15:41.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1809,6 +1809,7 @@ This project will work on the latest version of the "Opportunistic Operator base
   * Interop testing between existing experimenal implementations
   * Testing of the new "oots" SvcParam key
   * Developing the specification by discussing the outstanding questions in the draft
+  * Set up a demo for the test zone `dsync.se`
   
 ----
 
