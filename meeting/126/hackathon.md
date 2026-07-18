@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:53:40.979Z
+date: 2026-07-18T08:54:15.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -2169,6 +2169,7 @@ https://github.com/luismcontreras/HackathonIETF123/wiki/Resources-of-interest-fr
   * [draft-oiwa-path-characteristics-service](https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/)
   * [draft-oiwa-secure-hybrid-network](https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/)
 
+---
 
 ### SD-CWT (Select Disclosure CBOR Web Tokens)
 - **Champions**
