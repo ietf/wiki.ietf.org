@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:54:15.834Z
+date: 2026-07-18T08:59:24.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1347,6 +1347,7 @@ Andrew Kaizer (akaizer@verisign.com)
 [1] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode/
 [2] https://datatracker.ietf.org/doc/draft-harvey-cfrg-mtl-mode-considerations/
 [3] https://datatracker.ietf.org/doc/draft-fregly-dnsop-slh-dsa-mtl-dnssec/
+[4] https://datatracker.ietf.org/doc/draft-kaizer-dnsop-ml-dsa-mtl-dnssec/
 
 - **Project Info**
 This hackathon topic continues our evaluation of post-quantum cryptography (PQC) DNSSEC with MTL Mode by focusing on the benefits of MTL Mode beyond support for smaller signatures over the wire. MTL Mode can help with things like signing and verification performance, in particular for slower PQC signature algorithms, and reducing cache sizes in resolvers.
