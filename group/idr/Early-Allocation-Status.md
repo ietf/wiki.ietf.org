@@ -2,7 +2,7 @@
 title: Early Allocation Status
 description: 
 published: true
-date: 2026-07-18T11:28:00.127Z
+date: 2026-07-18T11:34:07.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:33:03.580Z
@@ -70,11 +70,7 @@ new assignment of values.
 
 | IDR Draft  |  IANA Registry |  Under Registry | Code Point |  Description   |  draft status |     
 |---|---|---|---|---|---|---|
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (21) | Segment type L  | in allocation WG LC (3/20 to 4/4)   |
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (22) | Segment type M   | in allocation WG LC (3/20 to 4/4) |
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (23) | Segment type N | in allocation WG LC (3/23 to 4/4)  |
-| [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (24) | Segment type O  | in Allocation WG LC (3/23 to 4/4)  |
-| [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)| SR Policy List Sub-TLVs |  BGP Tunnel Encapsulation | TBD (25) | Path MTU  |  Needs 2nd allocation WG LC   |
+| none | 
 {.dense}
 
 ## WG drafts - Early allocation assigned
