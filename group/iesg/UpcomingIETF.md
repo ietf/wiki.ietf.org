@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-18T15:03:10.365Z
+date: 2026-07-18T19:50:10.322Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -67,7 +67,7 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 > 3. (not meeting relevant) New RPC document states and processing by the IESG (Jean)
 > 4. (time sensitive) Processing any appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) and appeal2 (Roman)
 > 5. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
-> 6. (not meeting relevant) Refine the outstanding requests on enhancing Datatracker participant profiles (Med/Mike)
+> 6. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
 > 7. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
 >
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
