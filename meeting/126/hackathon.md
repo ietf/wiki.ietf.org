@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:39:36.145Z
+date: 2026-07-18T08:46:23.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1149,6 +1149,22 @@ This Hackathon project explores a minimal implementation of compact network stat
 - **Related Drafts**
 https://xmzzyo.github.io/nmop-agent-sketch-com/draft-cui-nmop-agent-sketch-com.html
 https://datatracker.ietf.org/doc/draft-cui-nmop-agent-sketch-com
+
+---
+
+### AI-Assisted Network Protocol Testing from Specifications
+- **Champions**
+Yong Cui (cuiyong@tsinghua.edu.cn)
+Yunze Wei (wyz23@mails.tsinghua.edu.cn)
+Kaiwen Chi (ckw24@mails.tsinghua.edu.cn)
+Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+Shailesh Prabhu (shailesh.prabhu@nokia.com)
+- **Project Info**
+This project demonstrates an AI-assisted workflow for generating and executing network protocol tests from RFC specifications.  The workflow follows the companion draft and covers structured protocol representation, coverage scoping, test case generation, executable artifact generation, test execution, and feedback-based refinement.
+The project explores how LLMs and AI agents can help preserve test-relevant semantics from specification text to executable tester scripts and DUT configurations, while keeping intermediate outputs reviewable and traceable.
+- **Related Documents**
+  - [draft-cui-nmop-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test/)
+
 
 ---
 
