@@ -2,7 +2,7 @@
 title: Team Schedule
 description: 
 published: true
-date: 2026-07-17T18:16:00.629Z
+date: 2026-07-18T08:53:17.491Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:24:26.888Z
@@ -25,5 +25,5 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 |  AEP x Veraison (Tyche Institute) |   Sat 18 - Sun 19 Jul, Hackathon room (GMT+2); remote collaborators welcome|  anton.sokolov@tyche.institute; gather.town Hackathon space (pw ietf) |
 | Akamu ACME and MTC interop (Red Hat / QARC EU project)  | Sat 18 - Sun 19 Jul, Hackathon room (GMT+2); remote collaborators welcome  | abokovoy@redhat.com; gather.town Hackathon space (pw ietf)  |
 | AI-based Network Management Agent (NMA) & A2U interface| Sat 18 - Sun 19 Jul, Hackathon room (GMT+2); remote collaborators welcome | zhaoxing@caict.ac.cn, https://github.com/xingzhao92/draft-zhao-nmop-network-management-agent/ietf126-hackathon |
-
+| OpenNHP: Network-infrastructure Hiding Protocol| Sat 18 - Sun 19 Jul, Hackathon room (GMT+2); remote collaborators welcome | benfeng@gmail.com, https://opennhp.org/, https://datatracker.ietf.org/doc/html/draft-opennhp-ztcpp-nhp |
 *To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
