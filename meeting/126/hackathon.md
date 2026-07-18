@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T08:38:20.304Z
+date: 2026-07-18T08:39:36.145Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1926,6 +1926,7 @@ We work on a tool that provides fine-grained control over ECH  handshakes for te
 - **Champions**
 [Wataru Mishima](mishima@nw.kanagawa-it.ac.jp)
 [Taisei Tanabe](tanabe@nii.ac.jp)
+[Mai Nakao](mai.nakao@furukawaelectric.com)
 - **Project Info**
 Implement each component of Chapter 4 "Overview of Architecture" in "draft-watal-spring-srv6-sfc-sr-aware-functions" to achieve comprehensive management of SRv6 SFC.
 - **Specifications**
