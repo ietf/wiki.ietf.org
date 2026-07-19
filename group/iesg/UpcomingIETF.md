@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-19T09:36:56.775Z
+date: 2026-07-19T11:56:22.823Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -87,7 +87,7 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 >   Management of IETF Liaison Relationships - [4052bis](https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/)
 >   Handling Liaison Statements - [4053bis](https://datatracker.ietf.org/doc/draft-iab-rfc4053bis/)
 >4. [Update on proposed IAB Workshop on PQC](https://docs.google.com/document/d/16wcjKnE15bS0ygEsl6Ovrh1se7dHXkcBPkBUjCg4EHU/edit) (Nick, Yaroslav)
->5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855) (Dhruv, Warren, Eric, Yaroslav, Gorry) 
+>5. (if there is time) Feedback from [RIPE92](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855) (Dhruv, Warren, Eric, Yaroslav, Gorry, Mathew) 
 
 ### 14:00-1600: [IAB afternoon meeting](https://wiki.ietf.org/group/iab/Agenda126)
 
