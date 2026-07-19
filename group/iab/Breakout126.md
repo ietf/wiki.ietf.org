@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-10T11:44:22.633Z
+date: 2026-07-19T12:12:53.833Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -22,6 +22,8 @@ For food & beverage service requests, please include:
 ## Monday
 
 - 12:30-14:00: ICANN Appointees Lunch
+
+- 16:00-17:00: WIT/IANA ports coordination meeting (Gorry)
 
 
 ## Tuesday 
