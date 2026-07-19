@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2026-07-19T16:46:38.085Z
+date: 2026-07-19T16:47:15.654Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -18,8 +18,7 @@ Huawei has two independently developed code versions (v5 and v8).  This independ
 This implementation has both controller and router clients. The feature support below is for both the controller and the router clients in Huawei VRP v5. 
 
 ### Huawei VRP v8
-This implementation has both controller and router clients.
-The feature support below is for both the controller and the router client in Huawei VRP v8.
+This implementation has both controller and router clients. The feature support below is for both the controller and the router client in Huawei VRP v8.
 
 ## Feature Support  
 
