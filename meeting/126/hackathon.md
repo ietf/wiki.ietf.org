@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T11:23:45.692Z
+date: 2026-07-19T11:25:14.475Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1916,7 +1916,6 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
 - **Project(s)**
   - Model implementation with software and programmable logic for 1Gb Ethernet
   - RFC2544 benchmark test in python
-  - RFC2889 benchmark test in python
   - TG configuration to PCAP and PCAP to TG configuration conversion scripts
 - **Specifications**
   - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
