@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-19T08:48:38.013Z
+date: 2026-07-19T12:59:19.169Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -43,9 +43,12 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 > Agenda:
 > 
 > 1. [ISE Survey Discussion](https://docs.google.com/document/d/1b3jyPpEWDT4a6Mav4tQCGsojkVMPR4E-ckQossHACg0/edit?usp=sharing) (with Akanksha and Eliot) - 45 mins
-> 2. [IAB statement on Age-Based Restrictions](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing) (Mark) - 30 mins
-> 3. [Proposed PQC IAB Workshop Discussion](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?usp=sharing) (Nick) - 25 mins
+> 2. [Proposed PQC IAB Workshop Discussion](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?usp=sharing) (Nick) - 25 mins
 >    - Followup from Joint Session
+> 3. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) - 35 mins
+>  Deadline for CFP: 31st July 2026 
+>  Draft Proposal for [Lightning Talk on Age restrictions](https://docs.google.com/document/d/1Hdujv2QjvjYvXchGLOjlEpcNhfHHuSAmfsoqUdslj2U/edit?usp=sharing)
+>  Draft Proposal for [Workshop session on PQC](https://docs.google.com/document/d/1Y6FhgvXq1s2m-9o30L509ccbw4MZ-dKdKBjdBUQR6Xc/edit?usp=sharing) 
 > 4. Approval of draft-iab-ip-geo-workshop-report (finish vote) - 5 mins
 > 5. Exec Session: CCG Appointment (vote) - 10 mins
 > 6. Exec Session: RZERC Appointment (record vote) - 0 mins
@@ -90,10 +93,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 > Agenda:
 >
 > 1. SUSTAIN RG Review (Dirk, Ali Rezaki, Eve Schooler, Michael Welzl) - 30 mins
-> 2. IGF 2026 [Call for session proposals](https://intgovforum.org/en/content/igf-2026-call-for-session-proposals) - 35 mins
->  Deadline for CFP: 31st July 2026 
->  Draft Proposal for [Lightning Talk on Age restrictions](https://docs.google.com/document/d/1Hdujv2QjvjYvXchGLOjlEpcNhfHHuSAmfsoqUdslj2U/edit?usp=sharing)
->  Draft Proposal for [Workshop session on PQC](https://docs.google.com/document/d/1Y6FhgvXq1s2m-9o30L509ccbw4MZ-dKdKBjdBUQR6Xc/edit?usp=sharing) 
+> 2. [IAB statement on Age-Based Restrictions](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing) (Mark) - 30 mins
+> 
 > 3. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 15 mins
 >   Related: Update to [wiki page on IAB Committee Model for Meetings](https://docs.google.com/document/d/1KD9iVG8guPU_mVa3B2Xp-jZa_BKvv1m9xoLNHh1BxL0/edit?tab=t.0)
 
