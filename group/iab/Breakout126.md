@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-19T12:12:53.833Z
+date: 2026-07-19T16:30:15.919Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -42,7 +42,7 @@ For food & beverage service requests, please include:
 ## Thursday 
 
 - 07:30-09:00: IAB Business Meeting
-
+- 12:30 to 14:00: random-access authenticated encryption (Nick)
 
 
 ## Friday 
