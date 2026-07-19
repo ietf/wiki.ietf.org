@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T08:55:13.090Z
+date: 2026-07-19T08:56:11.145Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1261,6 +1261,10 @@ This document (ACME-RATS) describes an approach where an ACME Server can challen
 
 - **Related documents**
 [draft-ietf-acme-rats-01](https://datatracker.ietf.org/doc/draft-ietf-acme-rats/01/)
+
+- **Related Repos**
+https://github.com/liuchunchi/lego-rats
+https://github.com/liuchunchi/acme-server
 
 ---
 ### OpenNHP: Network-infrastructure Hiding Protocol (NHP)
