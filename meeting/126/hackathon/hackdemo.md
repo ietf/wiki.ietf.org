@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-19T13:36:05.141Z
+date: 2026-07-19T19:30:57.384Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -32,4 +32,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Testing Congestion Control and Queue Management Algorithms | Mohit P. Tahiliani, Abhyuday Hegde, Vishal Kamath |  tahiliani@nitk.edu.in, akh.241cs201@nitk.edu.in, vishalkamath.221cs261@nitk.edu.in |  https://datatracker.ietf.org/meeting/126/materials/slides-126-hackathon-sessd-testing-congestion-control-and-queue-management-algorithms-00 |
 | Sub-Link Scoped IPv6 Multicast Addressing | David 'equinox' Lamparter | equinox@diac24.net | https://datatracker.ietf.org/doc/draft-ietf-6man-sub-link-scope-multicast/ <br> https://datatracker.ietf.org/meeting/126/materials/slides-126-hackathon-sessd-sub-link-scoped-ipv6-multicast-addressing-linux-implementation-00  |
 | CORECONF-M2M x SCHC: Tiny Weather, Big Standards  | Laurent Toutain, Javier A. Fernandez  | laurent.toutain@imt-atlantique.fr, javier-alejandro.fernandez@imt-atlantique.fr  | https://github.com/ltn22/cf-cockpit |
+| Intra-handshake.fail: CVE-2026-33697 (CVSS 7.5) |Muhammad Usama Sardar  | muhammad_usama.sardar@tu-dresden.de |https://github.com/muhammad-usama-sardar/intra-handshake.fail|
 |   |   |   |   |
