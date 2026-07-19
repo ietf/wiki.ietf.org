@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T08:57:39.700Z
+date: 2026-07-19T11:23:45.692Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1926,6 +1926,7 @@ We want to deliver mature ecosystem implementations of the Trusted Execution Env
   - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  - Wireshark extcap interface for NETCONF [netconfdump](https://github.com/vlvassilev/wireshark-extcap-netconf)
   
 
 ### AI Agent Discovery and Semantic Task Routing
