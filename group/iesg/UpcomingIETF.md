@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-19T04:06:32.894Z
+date: 2026-07-19T06:51:12.227Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -65,11 +65,13 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 > 1. (meeting relevant) [BCP reclassification from PROCON](https://docs.google.com/document/d/1Sl8uUvPvhsCl4zF-ugeVJq7IG0f7p1zfYyyKf84NHSo/edit?tab=t.0#heading=h.rtvf4u7yw9kq) (Roman)
 > 2. (time sensitive) IANA updates/discussion (Sabrina)
 > 3. (not meeting relevant) New RPC document states and processing by the IESG (Jean)
+> 8. (meeting relevant) [IDR Community Survey](https://docs.google.com/document/d/1HMMHpaeXbJVnH5vSAFOEgdG3u4bFtk2T3gQzfnfiE54/edit?tab=t.0) (Ketan/Med/Andy)
+> 5. (meeting relevant/time sensitive) [IESG actions to operationalize RFC9945](https://docs.google.com/presentation/d/165hfT2wmy1aRsGG4n1bqsBQ6JHzduIG50mEIGCmir6E/edit?slide=id.g3f55fe6bf64_0_10#slide=id.g3f55fe6bf64_0_10)
 > 4. (time sensitive) Processing any appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) and appeal2 (Roman)
 > 5. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
 > 6. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
 > 7. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
-> 8. (meeting relevant) [IDR Community Survey](https://docs.google.com/document/d/1HMMHpaeXbJVnH5vSAFOEgdG3u4bFtk2T3gQzfnfiE54/edit?tab=t.0) (Ketan/Med/Andy)
+
 >
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
 >
