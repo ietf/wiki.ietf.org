@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-18T20:58:03.126Z
+date: 2026-07-19T09:09:02.970Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -26,4 +26,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | IPWASN Project for IPv6 Satellite Networking | Jaehoon (Paul) Jeong, Jimin Lee | jm.lee98@skku.ac.kr | https://github.com/jaehoonpauljeong/IPWASN |
 | I2NSF Project for Integrated 5G Edge Security Services| Jaehoon (Paul) Jeong, Joseph Ahn | ahnjs124@skku.edu | https://github.com/jaehoonpauljeong/5G-I2NSF | 
 | Distributed Quantum  | Soham Bhoir, Manusheel Gupta  | crimson.zoren@gmail.com; manusheel.edu@gmail.com  | https://github.com/QMeshPy  |
+| Distributed Quantum  | Soham Bhoir, Manusheel Gupta  | crimson.zoren@gmail.com; manusheel.edu@gmail.com  | https://github.com/QMeshPy  |
+| PQC DNSSEC MTL Mode Additional Benefits | Joseph Harvey | jsharvey@verisign.com | https://datatracker.ietf.org/doc/draft-kaizer-dnsop-ml-dsa-mtl-dnssec/ |
 |   |   |   |   |
