@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-07-19T08:24:42.422Z
+date: 2026-07-19T08:25:00.995Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -91,7 +91,7 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-19 posted on 2026-07-06 | In WG LC (Ends 2026-08-04; IPR - 5/5 author) + (2/3 contributor) | Dhruv | Andrew |
+|1| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-19 posted on 2026-07-06 | In WG LC (Ends 2026-08-04; IPR - 4/5 author) + (2/3 contributor) | Dhruv | Andrew |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
 |-| draft-ietf-pce-entropy-label-position |Y|Y| -05 posted on 2026-05-07 |-| - | - |
