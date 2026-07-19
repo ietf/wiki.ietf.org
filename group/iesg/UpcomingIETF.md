@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-19T09:01:18.639Z
+date: 2026-07-19T09:36:56.775Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -68,11 +68,7 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 > 4. (meeting relevant) [IDR Community Survey](https://docs.google.com/document/d/1HMMHpaeXbJVnH5vSAFOEgdG3u4bFtk2T3gQzfnfiE54/edit?tab=t.0) (Ketan/Med/Andy)
 > 5. (meeting relevant/time sensitive) [IESG actions to operationalize RFC9945](https://docs.google.com/presentation/d/165hfT2wmy1aRsGG4n1bqsBQ6JHzduIG50mEIGCmir6E/edit?slide=id.g3f55fe6bf64_0_10#slide=id.g3f55fe6bf64_0_10) (Roman)
 > 6. (meeting relevant) VELOCE experiment (Mahesh)
-> 7. (time sensitive) Processing any appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) (Roman)
-> 8. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
-> 9. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
-> 10. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
-> 11. (not meeting relevant, not urgent) [IANA IP-related legacy registries](https://datatracker.ietf.org/doc/draft-vyncke-intarea-legacy-registries/) (Éric)
+
 
 >
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
@@ -110,7 +106,12 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 ### 07:30-08:50 - IESG Meeting (Room: Grand Klimt 3)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1002
- 
+> 
+> 1. (time sensitive) Processing any appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) (Roman)
+> 2. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
+> 3. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
+> 4. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
+> 5. (not meeting relevant, not urgent) [IANA IP-related legacy registries](https://datatracker.ietf.org/doc/draft-vyncke-intarea-legacy-registries/) (Éric)
 ### 12:45-13:45: IETF-3GPP Coordination (Room: Grand Klimt Hall 3)
 
 Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
