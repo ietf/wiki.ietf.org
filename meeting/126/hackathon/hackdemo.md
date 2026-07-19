@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-19T10:30:28.191Z
+date: 2026-07-19T10:41:11.362Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -28,4 +28,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Distributed Quantum  | Soham Bhoir, Manusheel Gupta  | crimson.zoren@gmail.com; manusheel.edu@gmail.com  | https://github.com/QMeshPy  |
 | PQC DNSSEC MTL Mode Additional Benefits | Joseph Harvey | jsharvey@verisign.com | https://datatracker.ietf.org/doc/draft-kaizer-dnsop-ml-dsa-mtl-dnssec/ |
 | vCon - conversational data container | Dan Petrie |  dan.vcon@sipez.com | https://github.com/py-vcon/py-vcon  |
+| TEEP Agents on Real Heterogeneous TEEs | Shinichi Miyazawa |  s.miyazawa+ietf@gmail.com |  https://github.com/s-miyazawa/teep-wasm-demo |
 |   |   |   |   |
