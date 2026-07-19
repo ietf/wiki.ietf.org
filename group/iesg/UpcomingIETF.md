@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-19T11:56:22.823Z
+date: 2026-07-19T14:03:03.452Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -185,7 +185,8 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * TIME - TIME -- Thing (Person responsible)
 * 14:00 - 15:00 -- RTG AD Office Hours (Ketan/Jim/Gunter) 
-* 15:00 - 16:00 -- WIT AD Office Hours (Gorry Fairhurst, Mike Bishop) 
+* 15:00 - 16:00 -- WIT AD Office Hours (Gorry Fairhurst, Mike Bishop)
+* 16:00 - 17:00 -- DMSC BoF prep (Charles/Andy)
 * 18:30 - 19:30 -- AgentProto BoF Prep (Charles/Andy)
 
 
