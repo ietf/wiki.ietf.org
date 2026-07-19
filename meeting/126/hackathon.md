@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T07:19:43.459Z
+date: 2026-07-19T07:49:53.083Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -85,7 +85,7 @@ If you received the email but the link to create an account has expired, please 
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/33500/propose_slides) at 13:00-15:00.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/35469/slides) at 13:00-15:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 13:00-15:00, are available on Datatracker:
     * https://datatracker.ietf.org/meeting/126/session/hackathon
