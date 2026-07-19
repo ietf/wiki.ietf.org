@@ -2,7 +2,7 @@
 title: SDWAN Implementation Page 
 description: 
 published: true
-date: 2025-01-17T15:14:15.277Z
+date: 2026-07-19T16:43:45.261Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-29T03:28:02.241Z
@@ -10,6 +10,15 @@ dateCreated: 2023-03-29T03:28:02.241Z
 
 # SDWAN Implementation Page 
 Implementation report for [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)
+
+## Implementations
+Huawei has two independently developed code versions (v5 and v8).  This independence of code in two streams is found in other vendors (e.g. Cisco).
+### Huawei VRP v5
+This implementation has both controller and router clients.tr The feature support below is for both the controller and the router clients.  The feature support listed below is both the controller and router clients.  
+
+### Huawei VRP v8
+This implementation has both controller and router clients.
+The feature support below is for both the controller and the router client in Huawei VRP v8.
 
 ## Feature Support  
 
