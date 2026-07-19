@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-18T14:05:17.131Z
+date: 2026-07-19T07:19:22.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1710,7 +1710,7 @@ This work proposes use cases and a problem statement for IPv6Wireless Access in 
 
 ----
 
-### Agent Communications Internet Protocol
+### Agent Networking Infrastructure
 - **Champions**
 Qiangzhou Gao (gaoqiangzhou@huawei.com)
 Bo Li (libo391@huawei.com)
@@ -1721,7 +1721,7 @@ Guanming Zeng (zengguanming@huawei.com)
 Li Zhang (zhangli344@huawei.com)
 Chengxiang Li (lichengxiang11@huawei.com)
 - **Project Info**
-Building on the foundation established at IETF 125, this project defines ACIP (Agent Communications Internet Protocol), a gateway-centric protocol enabling cross-domain Agent discovery, registration, and routing. ACIP introduces an architecture where devices are bound to specific Agents (underlay relationship), Agents register their skills to corresponding Gateways, and Gateways discover each other to route cross-domain calls — ensuring all inter-Agent communication goes through Gateways with no direct peer-to-peer links. The protocol includes core modules for Agent registration, Gateway discovery and synchronization, and cross-domain relay routing. Taking the home broadband scenario as a specific use case, this project demonstrates the workflow through an Elderly Fall Detection scenario: millimeter-wave radar detects a fall, the Home Personal Assistant Agent orchestrates the response by calling the See Link Agent via its Gateway to confirm the fall through the home camera, and the Digital Life Agent to retrieve vital signs via the smart band — followed by automated SMS notification to family members and video call connection to the smart screen. This demonstration reflects the feasibility and practical value of ACIP in enabling efficient, automated inter-Agent collaboration across isolated cloud domains for carrier-grade home broadband services.
+Building on the foundation established at IETF 125, this project defines ANI (Agent Networking Infrastructure), a gateway-centric protocol enabling cross-domain Agent discovery, registration, and routing. ANI introduces an architecture where devices are bound to specific Agents (underlay relationship), Agents register their skills to corresponding Gateways, and Gateways discover each other to route cross-domain calls — ensuring all inter-Agent communication goes through Gateways with no direct peer-to-peer links. The protocol includes core modules for Agent registration, Gateway discovery and synchronization, and cross-domain relay routing. Taking the home broadband scenario as a specific use case, this project demonstrates the workflow through an Elderly Fall Detection scenario: millimeter-wave radar detects a fall, the Home Personal Assistant Agent orchestrates the response by calling the See Link Agent via its Gateway to confirm the fall through the home camera, and the Digital Life Agent to retrieve vital signs via the smart band — followed by automated SMS notification to family members and video call connection to the smart screen. This demonstration reflects the feasibility and practical value of ANI in enabling efficient, automated inter-Agent collaboration across isolated cloud domains for carrier-grade home broadband services.
 
 ----
 
