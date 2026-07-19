@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T08:56:11.145Z
+date: 2026-07-19T08:57:33.127Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1249,7 +1249,7 @@ This project demonstrates an AI-assisted system for network fault localization a
   - draft-zhao-nmrg-ai-agent-for-ndt
 
 ---
-### ACME-RATS Open Source Implementation Status Update (Client-side)
+### ACME-RATS Open Source Implementation Status Update
 - **Champions**
 Liuchunchi(Peter)  liuchunchi@huawei.com
 Mike Ounsworth mike@ounsworth.ca
