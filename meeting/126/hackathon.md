@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T07:52:54.174Z
+date: 2026-07-19T08:55:13.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -1251,7 +1251,10 @@ This project demonstrates an AI-assisted system for network fault localization a
 ---
 ### ACME-RATS Open Source Implementation Status Update (Client-side)
 - **Champions**
-Peter Liu (liuchunchi@huawei.com)
+Liuchunchi(Peter)  liuchunchi@huawei.com
+Mike Ounsworth mike@ounsworth.ca
+Michael Richardson mcr+ietf@sandelman.ca
+
 
 - **Project Info**
 This document (ACME-RATS) describes an approach where an ACME Server can challenge an ACME Client to provide Evidence, Endorsements, or Attestation Result according to the Remote ATtestation procedureS (RATS) framework in any format supported by the Conceptual Message Wrapper (CMW).
