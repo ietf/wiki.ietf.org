@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-19T12:59:19.169Z
+date: 2026-07-19T18:38:38.272Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -97,6 +97,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 > 
 > 3. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 15 mins
 >   Related: Update to [wiki page on IAB Committee Model for Meetings](https://docs.google.com/document/d/1KD9iVG8guPU_mVa3B2Xp-jZa_BKvv1m9xoLNHh1BxL0/edit?tab=t.0)
+> 4. (if there is time) [Liason Statements to IAB](https://datatracker.ietf.org/liaison/posted/?text=&source=&destination=iab&start_date=&end_date=)
 
 ### 18:15-19:15: Liaison Managers Social Hour (Room: M2 Executive Lounge Terrace)
 
