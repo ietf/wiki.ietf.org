@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-19T10:41:11.362Z
+date: 2026-07-19T11:22:28.997Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -29,4 +29,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | PQC DNSSEC MTL Mode Additional Benefits | Joseph Harvey | jsharvey@verisign.com | https://datatracker.ietf.org/doc/draft-kaizer-dnsop-ml-dsa-mtl-dnssec/ |
 | vCon - conversational data container | Dan Petrie |  dan.vcon@sipez.com | https://github.com/py-vcon/py-vcon  |
 | TEEP Agents on Real Heterogeneous TEEs | Shinichi Miyazawa |  s.miyazawa+ietf@gmail.com |  https://github.com/s-miyazawa/teep-wasm-demo |
+| Testing Congestion Control and Queue Management Algorithms | Mohit P. Tahiliani, Abhyuday Hegde, Vishal Kamath |  tahiliani@nitk.edu.in, akh.241cs201@nitk.edu.in, vishalkamath.221cs261@nitk.edu.in |  https://datatracker.ietf.org/meeting/126/materials/slides-126-hackathon-sessd-testing-congestion-control-and-queue-management-algorithms-00 |
 |   |   |   |   |
