@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-07-20T13:50:26.116Z
+date: 2026-07-20T15:30:14.960Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
