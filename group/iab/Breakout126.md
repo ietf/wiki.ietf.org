@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-19T16:30:15.919Z
+date: 2026-07-20T21:43:53.053Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -30,15 +30,16 @@ For food & beverage service requests, please include:
 
 - 07:30-09:00: IAB Business Meeting
 
-- 12:30-14:00: SECDir Lunch
+- 11:00-12:30: RFC4052/3bis feedback
 
+- 12:30-14:00: SECDir Lunch
 
 
 ## Wednesday 
 
-- 07:30-09:00: RFC4052/3bis feedback
-
 - 11:00-11:30: Liaison Coordinator office hours
+
+
 ## Thursday 
 
 - 07:30-09:00: IAB Business Meeting
