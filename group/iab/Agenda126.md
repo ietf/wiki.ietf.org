@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-19T18:38:38.272Z
+date: 2026-07-20T19:57:22.520Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -96,6 +96,7 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 > 2. [IAB statement on Age-Based Restrictions](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing) (Mark) - 30 mins
 > 
 > 3. Review [IAB Job Description for NomCom](https://github.com/intarchboard/nomcom-description/blob/main/iab-nomcom-description.md) (Matthew) - 15 mins
+> [Proposed PR](https://github.com/intarchboard/nomcom-description/pull/8/changes)
 >   Related: Update to [wiki page on IAB Committee Model for Meetings](https://docs.google.com/document/d/1KD9iVG8guPU_mVa3B2Xp-jZa_BKvv1m9xoLNHh1BxL0/edit?tab=t.0)
 > 4. (if there is time) [Liason Statements to IAB](https://datatracker.ietf.org/liaison/posted/?text=&source=&destination=iab&start_date=&end_date=)
 
